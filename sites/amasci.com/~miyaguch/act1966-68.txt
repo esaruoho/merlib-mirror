@@ -1,0 +1,60 @@
+ACT 1966-68 
+
+ ACT 1966-68 
+
+ Thanks to Mike Hess for providing this information. 
+
+ Here are the scores and percentiles for the ACT 1967-68. These percentiles
+are based on 1,755,542 test takers. 
+
+ Inasmuch as a score of 32 represented the 99.9 percentile, the booklet
+does not include the percentiles for the scores ranging from 33-36. 
+
+ Standard Score Percentile Percentile
+ (composite) Composite English
+
+ 32 99.9 99.9+
+ 31 99.6 99.9
+ 30 98.9 99.8
+ 29 97 99.3
+ 28 95 98
+ 27 92 96
+ 26 87 93
+ 25 82 89
+ 24 76 84
+ 23 69 78
+ 22 62 71
+ 21 55 63
+ 20 47 55
+ 19 40 46
+ 18 33 38
+ 17 27 31
+ 16 22 25
+ 15 17 20
+ 14 13 16
+ 13 10 13
+ 12 7 10
+ 11 5 8
+ 10 3 6
+ 9 2 4
+ 8 1 3 
+
+ Mean score: 20.1
+Standard Deviation: 5.1
+
+Note: The composite score was the average of the four subtest scores (Math, 
+Social Studies, Natural Sciences, English). It is not clear how they rounded 
+the scores however. A 29.25 average was likley rounded down to a 29, but they 
+don't say how a 29.5 would have been rounded, up or down. To avoid this 
+issue, the booklet's authors merely provide a straightofrward example of 4 
+scores: 25,19, 26,22. This equals 92, or an average of 23 without rounding 
+necessary.
+ In case someone from that era is interested in the subtest means and 
+standard deviations, here they are.
+
+ English (mean, 19.0, standard deviation, 5.1)
+ Math (19.7, 6.6)
+ Social Studies (20.6, 6.3)
+ Natural Sciences (20.5, 6.1)
+
+ Composite (20.1, 5.1)

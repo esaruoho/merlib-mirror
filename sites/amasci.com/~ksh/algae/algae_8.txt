@@ -1,0 +1,69 @@
+(original author)
+ Karl Berry 
+ Olaf Bachmann 
+ and many others.
+Maintained by: Olaf Bachmann 
+Send bugs and suggestions to 
+
+-->
+
+ Algae: Projects 
+
+ [ << ] 
+ [ >> ] 
+ [ Top ] 
+ [ Contents ] 
+ [ Index ] 
+ [ ? ] 
+
+ 8. Projects 
+
+Below is a list of improvements that we'd like to make to Algae. These
+items run the gamut from specific changes that would take only an hour
+or so to implement to vague, half-baked ideas that might take months.
+The items are in no particular order--we haven't identified priorities
+on most of them. We'd be very happy to have some help. 
+
+Algae should incorporate the ARPACK sparse matrix routines. This will
+be a bit of work, but pretty straightforward. I consider this a high
+priority. 
+
+Algae's FFT routines are old and crusty, but they work well. Still, we
+ought to take a look at the FFTW code and consider using it. 
+
+The atan and atanh functions need improvement for complex
+arguments. They are based on simple formulas, but better algorithms are
+available that are faster, more accurate, and less prone to
+overflow. 
+
+In the old days, getting Readline to do context-based completion (as on
+variable names) was nearly impossible. This may have changed - we
+ought to take a new look at it. 
+
+The printf and related functions should be given additional
+capabilities to accept array arguments. 
+
+I'm interested in exploring a better arrangement for the help system.
+Users should be able to tie in documentation for their own code. 
+
+With the builtin function, algae has dynamic linking
+capability. To make this useful, though, we have to document the
+interface and reorganize the header files. 
+
+Wouldn't a GTK+ interface be nice? 
+
+We need to complete the fread and fwrite implementation,
+and we'll probably want an fseek function as well. 
+
+Symbolic debugging of Algae code would be very helpful.
+
+ [ << ] 
+ [ >> ] 
+ [ Top ] 
+ [ Contents ] 
+ [ Index ] 
+ [ ? ] 
+
+This document was generated
+by K. Scott Hunziker on October, 31 2001 
+using texi2html

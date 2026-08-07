@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Null Pointers</title>
+</head>
+<body>
+<H1>5. Null Pointers</H1>
+
+<p><a href=q5.1.html rel=subdocument>5.1
+What is this infamous null pointer, anyway?
+</a></p><p><a href=q5.2.html rel=subdocument>5.2
+How do I get a null pointer in my programs?
+</a></p><p><a href=q5.3.html rel=subdocument>5.3
+Is the abbreviated pointer comparison ``<TT>if(p)</TT>'' to test for
+non-null pointers valid?
+</a></p><p><a href=q5.4.html rel=subdocument>5.4
+What is <TT>NULL</TT> and how is it <TT>#define</TT>d?
+</a></p><p><a href=q5.5.html rel=subdocument>5.5
+How should <TT>NULL</TT> be defined on a machine which uses a nonzero bit
+pattern as the internal representation of a null pointer?
+</a></p><p><a href=q5.6.html rel=subdocument>5.6
+If <TT>NULL</TT> were defined as
+``<TT>((char *)0)</TT>,''
+wouldn't that make function calls which pass an uncast <TT>NULL</TT> work?
+</a></p><p><a href=q5.9.html rel=subdocument>5.9
+If <TT>NULL</TT> and <TT>0</TT> are equivalent
+as null pointer constants,
+which should I use?
+</a></p><p><a href=q5.10.html rel=subdocument>5.10
+But wouldn't it be better to use <TT>NULL</TT>,
+in case the value of <TT>NULL</TT> changes?
+</a></p><p><a href=q5.12.html rel=subdocument>5.12
+
+I use the preprocessor macro
+"<code>#define Nullptr(type) (type *)0</code>"
+to help me build null pointers of the correct type.
+</a></p><p><a href=q5.13.html rel=subdocument>5.13
+This is strange.
+<TT>NULL</TT> is guaranteed to be <TT>0</TT>, but the null pointer is not?
+</a></p><p><a href=q5.14.html rel=subdocument>5.14
+Why is there so much confusion surrounding null pointers?
+</a></p><p><a href=q5.15.html rel=subdocument>5.15
+I'm confused.
+I just can't understand all this null pointer stuff.
+</a></p><p><a href=q5.16.html rel=subdocument>5.16
+
+Given all the confusion surrounding null pointers,
+wouldn't it be easier simply
+
+to require them to be represented
+internally by zeroes?
+
+</a></p><p><a href=q5.17.html rel=subdocument>5.17
+Seriously, have any actual machines really used nonzero null
+pointers?
+</a></p><p><a href=q5.20.html rel=subdocument>5.20
+What does a run-time ``null pointer assignment'' error mean?
+</a></p><hr>
+<p>
+<a href=faq.html>top</a>
+</p>
+</body>
+</html>

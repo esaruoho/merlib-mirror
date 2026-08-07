@@ -1,0 +1,54 @@
+Question 1.25 
+
+ Question 1.25 
+ My compiler is complaining
+about an invalid redeclaration of a function,
+but I only define it once and call it once.
+
+ Functions which are called without a declaration in scope
+(perhaps because the first call precedes the function's definition)
+are assumed
+to be declared as
+returning
+
+ int 
+(and without any argument type information),
+leading to discrepancies if the function is later declared
+or defined
+otherwise.
+Non- int 
+
+functions
+must be declared before they are called.
+
+Another possible source of this problem is that the function has the same
+name as
+another
+one declared in
+some header file.
+
+See also questions
+ 11.3 
+and 15.1 .
+
+ References:
+
+K&R1 Sec. 4.2 p. 70
+
+K&R2 Sec. 4.2 p. 72
+
+ANSI Sec. 3.3.2.2
+
+ISO Sec. 6.3.2.2
+
+H&S Sec. 4.7 p. 101
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

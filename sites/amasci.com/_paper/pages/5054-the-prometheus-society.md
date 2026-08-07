@@ -1,0 +1,910 @@
+---
+title: "THE PROMETHEUS SOCIETY"
+source_domain: amasci.com
+source_path: ~miyaguch/MCReport/mcreport3.html
+order: 5054
+reachable_from_entry: false
+images: 7
+internal_links: 0
+extracted: 2026-08-07T05:58:06Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# THE PROMETHEUS SOCIETY
+
+*Source page: `~miyaguch/MCReport/mcreport3.html`*
+
+<span id="8.6.5 Graduate Record Examination (GRE)"></span>**8.6.5 Graduate Record Examination (GRE)**
+
+**The GRE is comprised of three subtests: Verbal, Quantitative and Analytic sections. Each GRE score is a value that is independent of when the score was obtained. Scores are "scaled" based on performance on the test and the properties of the individual test itself. All General (Aptitude) Test scores are reported on this same scale. A verbal ability score of 550 earned in 1972 will, therefore, for example, be equivalent to a verbal ability score of 550 earned in 1982. Several different editions, or forms, of the General (Aptitude) Test are in active use in the GRE program at any given time. Over several years many different forms will be used. Compensation for variations in difficulty among these forms of the test are taken into account when the number of correct answers are converted to the scaled score. This supports direct comparisons of performance of examinees taking different forms of the test.**
+
+**The analytical ability measure of the General (Aptitude) Test was revised extensively in 1981, so that analytical scores earned prior to October 1, 1981, should not be compared with those earned after that date. Also effective October 1, 1981, the maximum obtainable verbal, quantitative, or analytical ability score was set at 800 so that V+Q scores in excess of 1600 are no longer possible. ETS advises that when comparing verbal and quantitative scores earned after October 1, 1981, with verbal and quantitative scores earned earlier, earlier scores in excess of 800 should be interpreted as being equivalent to the 800 score maximum.**
+
+**The GRE is somewhat similar to the SAT in having a wide constituency in the United States and in having verbal and mathematical subtests. It has been shown to correlate well with many standard IQ tests such as (the verbal subtest) with the MAT and in the combined score pairs reported in the norming data for the Mega reported above. The equipercentile equating between the SAT and GRE where both scores were reported by Mega participants is seen to be very good. See figure 23 below. This diagram illustrates that a score of 1610 to 1620 on the GRE (obviously taken before October 1, 1981) corresponds well with a cutoff score of 1560 on the SAT. This is compatible with claims that ETS indicated that they considered 1620 on the older GRE to have been a 4-sigma case.**
+
+** **
+
+<span id="Figures 23 GRE equipercentile equating with SAT for reported score pairs in Mega"></span><img src="Image142.gif" width="503" height="323" />
+
+**Figures 23: GRE equipercentile equating with SAT for reported score pairs in Mega sixth norming**
+
+**Importantly also, a major study by Cureton and Scott of 1341 individuals who took both the MAT and GRE Verbal section illustrates that there was an extremely good correlation between the two tests. Here, a score of slightly less than 800 on the GRE-V corresponds well with a MAT score of 95 to 100 as can be seen in figure 24. Their results were based on 1341 pairs of scores from universities of Buffalo, Cornell, Florida, Indiana, Kansas Maryland, North Carolina, Pennsylvania State, Rutgers, and Texas.**
+
+<span id="Figures 24GRE correlation with MAT for 1341 score pairs"></span><img src="Image143.gif" width="486" height="394" />
+
+**Figures 24: GRE correlation with MAT for 1341 score pairs**
+
+** **
+
+**In excess of 400,000 people took the test anually in the early eighties and that number must surely have grown considerably. The actual percentiles (of the filtered population who actually take the test) have been reported by ETS with their usual reluctance to specify percentiles above 99. That data shown in the following table.**
+
+** **
+
+<span id="GRE Percentiles for the Filtered Population"></span>**GRE Percentiles for the Filtered Population**
+
+ 
+
+<table data-border="" data-cellspacing="4" data-cellpadding="9" width="798">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" data-valign="TOP" width="25%" height="27" data-bgcolor="#800000"><strong><em> </em></strong>
+<strong><em>Scaled Score</em></strong></td>
+<td colspan="3" data-valign="TOP" width="75%" height="27" data-bgcolor="#800000"><strong>Percent of Examinees Scoring Lower than Selected Scaled Scores</strong></td>
+</tr>
+<tr>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>Verbal Ability</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>Quantitative Ability</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>Analytical Ability</strong></td>
+</tr>
+<tr>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>800</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>99</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>99</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>99</strong></td>
+</tr>
+<tr>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>780</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>99</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>99</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>99</strong></td>
+</tr>
+<tr>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>760</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>99</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>91</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>95</strong></td>
+</tr>
+<tr>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>740</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>99</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>87</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>92</strong></td>
+</tr>
+<tr>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>720</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>98</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>83</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>90</strong></td>
+</tr>
+<tr>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>700</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>97</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>80</strong></td>
+<td data-valign="TOP" width="25%" data-bgcolor="#FFFFFF"><strong>86</strong></td>
+</tr>
+</tbody>
+</table>
+
+**However, without knowing the number of individuals scoring at or near 800 on the various subtests, it is not possible to ccurately assess the ceiling of the GRE-Verbal, although Kjeld Hvatum's table presented in section 4.3.3 above is probably a good estimate, when he equates GRE-V 800 with the 1-in-30,000 level.**
+
+** **
+
+<span id="8.6.6 Miller Analogies Test"></span>**8.6.6 Miller Analogies Test**
+
+**This test is typically used for graduate school admission. According to the manufacturers, it measures high-level mental ability. All 100 problems on the test are verbal analogies. There is a 50-minute time limit and testing is done at controlled testing centers across the US. A candidate information booklet is available by calling (800) 622-3231. There is a raw-score-to-percentile chart based on testing that occurred in 1990-92. This sample of graduate school bound college students (N=148,326) achieved a mean of 47.5 +/-16.8. They list the 99th percentile for this group at a score of 86 or higher.**
+
+**For comparison purposes between MAT scores and WAIS-R Full Scale IQ (FSIQ) scores of "college graduate" level was selected for comparison purposes because the other choice was 13-15 years of education which seemed beyond that of the MAT sample -- typically grad school applicants. The average WAIS FSIQ for college graduates is in the range of IQ 113-116 according to Heaton. (See his supplement for the WAIS-R at the end of the book for those interested.) The distribution appears to be quite gaussian by just eyeballing the scores. So if we consider the MAT normative sample to be comparable to the Heaton normative sample, a score of 47.5 on the MAT should correspond to a WAIS-R FSIQ of 114.5. Roughly one standard deviation above the norm (one SD on the WAIS-R is 15), so we only need a ceiling of slightly over 3 sigma over the mean on MAT, and we have that. That translates to a score of 99 (98 if we're willing to round down) as being acceptable. According to Hvatum's data presented above, a score of 96 corresponds to our 1-in-30,000 cutoff.**
+
+**We are recommending a score of 98 as acceptable for entry to the prometheus Society at this time.**
+
+** **
+
+<span id="8.6.7 WAIS-R (Wechsler Adult Intelligence"></span>**8.6.7 WAIS-R (Wechsler Adult Intelligence Scale-Revised)**
+
+**The WAIS-R is one of the individually administered test batteries of the Wechsler Intelligence Scales. The WAIS-R is used with adolescents and adults aged 16 and older. There are eleven different subtests in all, six classified as "verbal" and five as "performance." This revision was published in 1981. This battery, and the newer WAIS-III, are very widely used. The WAIS-R has a maximum obtained Full Scale IQ of 150 based on its normative data (M=100 +/-15). Like many intelligence tests, obtained scores are compared to tables derived from the normative sample, which are stratified by age, in order to obtain Full Scale, Performance, and Verbal IQ scores. Extrapolation tables for the WAIS-R are available to project Full Scale IQ equivalents to IQ 160 and beyond for certain age groups.**
+
+**At least three studies have shown that IQ scores on the WAIS are approximately 7 to 8 points higher than IQ scores on the WAIS-R and so the WAIS-R would seem much more appropriate for application to the Prometheus entry level. This 7 or 8 point difference was found by Jean Spruill of the University of Alabama in her review of the Wechsler in Test Critiques (1984) to be consistent with the data reported in earlier studies comparing revisions of the WISC and Stanford-Binet with the older scales.**
+
+**Spruill also reported that several factor-analytic studies of the WAIS-R have been conducted, with the results being similar to those found with the WAIS. Most of the studies give strong support to the separation of the WAIS-R into Verbal and Performance Scales. She says, "Three basic factors have been identified: a "verbal comprehension" factor, a "perceptual organization" factor, and a 'memory/freedom from distractability' factor." The freedom from distractability seems to measure processes related to concentration, memory, and attention. Two major subtests for this factor are Digit Span and Arithmetic, followed by Digit Symbol. Spruill states further that "in addition to the three basic factors identified above, the WAIS-R subtests are all relatively good measures of the general factor (g) of intelligence, with the verbal subtests being better measures of g than the performance subtests."**
+
+**Spruill notes that the the WAIS-R has a major limitation that was true also for the WAIS, namely, its limited floor and ceiling! She says that the range of Full Scale IQ scores is from 45 to 150 which is "not sufficient to allow for the assessment of individuals who are extremely gifted." Furthermore, the range of "scores is not uniform for each subtest, so that some subjects reach a ceiling on certain subtests more quickly than others. For example, the highest scaled score that can be obtained on the Vocabulary subtest is 19 but only 17 for the Arithmetic subtest. This makes it difficult to use the profile analysis, particularly for the extremely gifted subjects."**
+
+**The WAIS-R may have very little competition in the measurement of adult intelligence.**
+
+**However, the WAIS-R regression formulas from Sattler (Sattler, Appendix C, p. 847) are shown below. It is clear that there is still a lot of test left, and that the ceiling was probably chosen mostly as a result of the standardization sample size (perhaps inadequate to accurately assign IQ's above 150) and the presumptions of Weschler, himself purposely setting a ceiling above which he saw no practical value to intelligence as was quoted earlier.**
+
+<span id="WAIS-R regression equations for the Full Scale are"></span>**WAIS-R regression equations for the Full Scale are as follows:**
+
+**16-17: Full Scale IQ = 38.7060 + .6776 \* (scaled score), \[165 - 200\]**
+
+**18-19: Full Scale IQ = 37.2474 + .6742 \* (scaled score), \[168 - 200\]**
+
+**20-24: Full Scale IQ = 36.0737 + .6500 \* (scaled score), \[176 - 200\]**
+
+**25-34: Full Scale IQ = 36.1322 + .6460 \* (scaled score), \[177 - 200\]**
+
+**35-44: Full Scale IQ = 39.6791 + .6366 \* (scaled score), \[174 - 200\]**
+
+**45-54: Full Scale IQ = 40.6129 + .6424 \* (scaled score), \[171 - 200\]**
+
+**55-64: Full Scale IQ = 41.9824 + .6536 \* (scaled score), \[166 - 200\]**
+
+**65-69: Full Scale IQ = 42.7008 + .6781 \* (scaled score), \[176 - 200\]**
+
+**70-74: Full Scale IQ = 43.4488 + .7000 \* (scaled score), \[153 - 200\]**
+
+**At this time we can only recommend scores obtained with the WAIS-R as this is the only version for which we have been able to obtain the extrapolation tables and by all accounts other versions should have lower ceilings. These more professionally accepted tables agree with Kjeld Hvatum's table of IQ percentiles. Kjeld's table including the WAIS that was contined in his "Letter to Ron Hoeflin" (In-Genius, Vol. 15, August 1990) is included in section 4.3.3 above. In it a WAIS-R score of 160 (scores range up to 190) corresponds to the 1-in-30,000 level of our interest. At this time we recommend a score of 160 on the WAIS-R as a conservative requirement for entry to the Society.**
+
+**We have not, however, had sufficient opportunity to review data to determine whether scores of 160 or higher on either the Performance Scale or Verbal Scale, even if a Full Scale IQ is below 160 might be a reasonable entry criterion as well. We take that as an action item to be determined at a later date.**
+
+** **
+
+<span id="8.6.8 Stanford-Binet Intelligence Scale"></span>**8.6.8 Stanford-Binet Intelligence Scale**
+
+**This intelligence battery is in the fourth edition (1986). Tests in this battery were designed to measure ability in four areas:**
+
+**Verbal Reasoning, Abstract/Visual Reasoning, Quantitative Reasoning, and Short-Term Memory. There is also an overall Composite Score. The Stanford-Binet has a maximum obtained Full Scale IQ of 164 (M=100 +/- 16) based on its normative data. The normative sample was very carefully obtained to reflect the demographics of the US at that time. The norms go up to age 23. Use of these norms with an older population is feasible for our purposes. While there is typically a rise in intellectual functioning until the mid-thirties, this only represents a difference of one or two IQ points, so IQs obtained at this age will only be very slightly overestimated. After age 35, IQ scores start to fall so that Composite Scores (and accompanying IQs) will be underestimated by this battery.**
+
+**In her "Review of the Stanford-Binet Intelligence Scale, Fourth Edition," Anne Anastasi, Professor Emeritus of Psychology at Fordham University says:**
+
+**"OVERVIEW. This basic restructuring of a well-established clinical instrument shows a high level of technical quality in its test construction procedures. At this stage, its principal limitation centers on communications with test users, especially in clinical settings. This limitation has been met in part by the publication of the optional Examiner's Handbook (Delaney & Hopkins, 1987)...**
+
+**...This revision of the Stanford-Binet is the most extensive ever undertaken, including basic changes in content coverage, administration, scoring, and interpretation, as well as a complete restandardization on a representative national sample. Continuity with the earlier editions was maintained in part by retaining many of the item types from the earlier forms. Even more important is the retention of the adaptive testing procedure, whereby each individual takes only those items whose difficulty is appropriate for his or her performance level...In this edition, adaptive testing is achieved by a two stage process. In the first stage, the examiner gives the Vocabulary Test, which serves as a routing test to select the entry level for all remaining tests. Where to begin on the Vocabulary test depends solely on chronological age. For all other tests, the entry level is found from a chart reproduced on the record booklet, which combines Vocabulary score and chronological age. In the second stage, the examiner follows specified rules to establish a basal level and a ceiling level for each test on the basis of the individuals actual performance.**
+
+**Unlike the age grouping followed in earlier editions, items of each type are now placed in separate tests in increasing order of difficulty. Item difficulty is incorporated in the scoring by recording the item number of the highest item administered, from which is subtracted the total number of attempted items that were failed. There are 15 tests, chosen to represent four major cognitive areas: Verbal Reasoning, Quantitative Reasoning, Abstract/Visual Reasoning, and Short-Term Memory. No one individual, however, takes all 15 tests, because some are suitable only within limited age ranges. In general, the complete battery may include from 8 to 13 tests, depending on the test taker's age and performance on the routing test. For some testing purposes, moreover, special abbreviated batteries of 4 to 8 tests are suggested in the Guide.**
+
+**Testing procedures are facilitated in several ways. Four item books, conveniently designed for flip-over presentation, display stimulus material on the test taker's side and condensed directions on the examiner's side. For most tests, each item has only one correct answer, available to the examiner on the record booklet and in the item books. All items are passed or failed according to specified standards. Five tests call for free responses, thus requiring the use of expanded scoring guidelines included in the, Guide.**
+
+**STANDARDIZATION AND NORMS. The standardization sample comprised slightly over 5,000 cases between the ages Of 2 and 23 years, tested in 47 states (including Alaska and Hawaii) and the District of Columbia. The sample was stratified to match the proportions in the 1980 U.S. Census in geographic region, community size, ethnicity, and sex. Socioeconomic status, assessed by parental educational and occupational levels, revealed some over representation at the upper and under representation at the lower levels. This imbalance was adjusted through differential weighting of frequencies in the computation of normative values.**
+
+**...The normative tables also provide Standard Age Scores (SAS) for the four cognitive areas and for a composite score on the entire scale. These SASs have a mean of 100 and a standard deviation of 16, thus using the same units as the deviation IQs of the earlier editions. In addition, the normative tables permit the examiner to find SASs for any desired combination of two or more area scores ('partial composites'). For example, a combination of verbal and quantitative reasoning corresponds closely to scholastic aptitude and may be of particular interest in academic settings. In the introductory discussions in both Guide and Technical Manual, this composite is designated a measure of 'crystallized abilities,' in contrast to the 'fluid-analytic abilities' identified with the single area score in abstract/visual reasoning. This distinction is of questionable value and is not well supported by the Stanford-Binet data themselves. The 'fluid-analytic score' seems to be more a measure of spatial ability than of abstract-visual reasoning. Of the four tests in this area, only Pattern Analysis has a substantial loading on the abstract-visual factor; the other three tests have their major nongeneral loading in specificity factors (Technical Manual). Although introduced in discussing the theoretical rationale for the Fourth Edition, the crystallized-fluid distinction does not play a significant part in the actual processing of scores. The available procedures permit considerable flexibility in combining and interpreting area scores. For the well-qualified and sophisticated user, this is an advantage.**
+
+**RELIABILITY AND VALIDITY. K-R 20 reliabilities were found for each 1-year age group in the standardization sample for ages 2 to 17, and for the 18-23-year group. Reliabilities of the composite score ranged from .95 to .99. Reliabilities were also high for the four cognitive area scores; although varying with the number of tests included, they ranged from -80 to -97. For the separate tests, most reliabilities fell in -the .80s and low .90s, except for Memory for Objects, a short, 15-item test whose reliabilities ranged from .66 to .78. In general, all reliabilities tended to be slightly higher at the upper age levels. SEMs are also reported for each test, each area score, total composite, and all partial composites. Some retest reliabilities (2-8 month intervals) showed coefficients in the .80's for composite score, but the other results are difficult to interpret because of small samples, restricted ranges on some tests, and an appreciable practice effect.**
+
+**Beginning with a hierarchical model of cognitive abilities, the test construction process (spanning some 8 years) pursued the dual goal of retaining as many item types as possible from the earlier editions while incorporating current ability constructs. Of the final tests, nine evolved from earlier item types, six used new types. Field trials on different age groups provided data for both quantitative and qualitative item analyses, including item-fairness reviews, as well as intercorrelations and factor analyses of preliminary tests. For the final scale, intercorrelations of all scores within the 17 age groups of the standardization sample were used in confirmatory factor analyses. By far the largest loadings were on a general factor. There was also some support for the area scores, although the identification of the abstract/visual factor appears questionable, and the evidence for a memory factor is weak, especially in the Bead Memory test. Special studies were conducted on "non-exceptional samples" and on exceptional samples (gifted, mentally retarded, and learning disabled) to find (a) correlations with Stanford-Binet (Form L-M), Wechsler scales, and the Kaufman Assessment Battery for Children (K-ABC), and (b) performance level on composite and area scores. In general, all the results conformed to expectations.**
+
+**The following table represents the Standardization Sample by Age that used in norming the test.**\
+ 
+
+<span id="Standardization Sample by Age"></span>**Standardization Sample by Age**\
+**Age             N               Age                 N**\
+**-------------  -----         -----------------  -----**\
+**2-0 to 2-11 226         11-0 to 11-11 237**
+
+**3-0 to 3-11 278         12-0 to 12-11 313**
+
+**4-0 to 4-11 397         13-0 to 13-11 303**
+
+**5-0 to 5-11 460         14-0 to 14-11 243**
+
+**6-0 to 6-11 334         15-0 to 15-11 246**
+
+**7-0 to 7-11 415         16-0 to 16-11 233**
+
+**8-0 to 8-11 443         17-0 to 17-11 195**
+
+**9-0 to 9-11 260         18-0 to 23-11 194**
+
+**10-0 to 10-11 236        \_\_\_\_\_**         **\_\_\_\_\_**
+
+**Total                 5,013**
+
+**Although this test has many good properties, we do not recommend it as this time because of the small norming samples for the adult range.**
+
+** **
+
+<span id="8.6.9 CMT (Concept Mastery Test)"></span>**8.6.9 CMT (Concept Mastery Test)**
+
+** **
+
+**The only data we have been able to gather on this test is from the sheet (reproduced as figure 24) below. This test is no longer commercially available according to the Psychological Corporation.**
+
+** **
+
+<span id="Figure 25Extent of data for the CMT"></span><img src="Image144.gif" width="698" height="543" />
+
+**Figure 25: Extent of data for the CMT**
+
+**Available literature is so sparse that without more data we are unable to make a recommendation on this test.**
+
+** **
+
+------------------------------------------------------------------------
+
+<span id="8.7 Chronometric testing"></span>**8.7 Chronometric testing**
+
+**We have examined the case for Chronometrics, and the ThinkfastTM(TF) computer-implemented "game" in particular, to explore the possibility of using such an approach for Prometheus Society entry criteria.**
+
+<span id="8.7.1 Some background on Chronometrics"></span>**8.7.1 Some background on Chronometrics**
+
+**Chronometrics is the use of performance on Elementary Cognitive Tasks (ECTs) to measure psychometric g. ECTs involve either no past-learned information content, or extremely overlearned and familiar content.**
+
+**The Case for Chronometrics derives in part from Jensens book, *The g Factor* and other papers he has published on the subject. It must be noted, however, that Jensen is also a principal in Cognitive Diagnostics Corporation (otherwise known as "Braintainment") that markets the product, ThinkfastTM. However his analyses are representative of those of researchers in this field.**
+
+<span id="8.7.2 Correlation of chronometric measurements and"></span>**8.7.2 Correlation of chronometric measurements and intelligence**
+
+**(Quotes are from Jensen, *The g factor*.)**
+
+**Note : On many ECTs, the measure is either a median reaction time (RT) or the standard deviation of a reaction time (RTSD).**
+
+**"For single ECTs, the correlations (with IQ) average about -0.35, ranging from -0.10 to -0.50, depending on the complexity or number of distinct processes involved in the ECT...ECTs that strain the capacity of working memory generally have higher correlation with IQ."**
+
+**"A composite score based on RTs and RTSDs from several different ECTs, thereby sampling a greater number of general processes, typically correlates between -.50 and -.70 with IQ. (Recall that the average correlation between various standard IQ tests is about 0.80.)" Although the correlations between the Mega and other standard psychometric tests is typically considerably lower as can be seen in the analyses presented above. 'A review of several studies in which RTs (and RTSDs) from four or five different ECTs were combined shows multiple correlations ranging from .431 to .745 with an average R of .61 for RT, .60 for RTSD, and .67 for RT+RTSD.'" These correlations, based on college students, have not been corrected for attenuation or for restricted range of IQ...if so corrected, they would be larger by at least 0.10." RT and RTSD are independently correlated with g.**
+
+**"The negative correlation between RT and IQ (and RTSD and IQ) exists within groups at every level of IQ, from the severely retarded, to university students, to members of Mensa."**
+
+**According to Chris Brand in his own book entitled *The G Factor*, Inspection Time (IT), the length of time needed by a subject to see target stimuli presented very briefly, i. e., presentation time (PT), correlates around -.75 with g. Please take special notice throughout this section that "strong" correlations between chronometric measurements and g will be negative since the smaller the reactions times, etc., the higher the associated g value. Sometimes these correlation values are presented without a sign.**
+
+**Spearman's law of diminishing returns identifies a problem with measuring comparable crystallized abilities at high levels because of the pronounced variation in such abilities at high levels. Chronometrics may well turn out to be the best method of measuring cognitive ability at high levels because it does not rely on any such abilities. Tests with high fluid g-loadings at normal levels of ability, such as the better IQ tests or certain ECTs/combination of ECTs, continue to have high g-loadings at very high levels of ability. In other words at the high range of crystallized abilities there is too much variety, whereas, chronometrics measures quantities much closer to the cognitive processes themselves; these are directly related to the biological functions of cognition.**
+
+<span id="8.7.3 Additional references"></span>**8.7.3 Additional references**
+
+**Additional sources of data on this and related methods of testing are available in the following articles:**
+
+**1. Bill McGaugh's articles, "Improving Mental Performance" (*Gift of Fire*, Issue 91, December 1997) and "A Reply to Ron Penner's 'On Speed and Mental Testing'" (*Gift of Fire*, Issue 92, January 1998),**
+
+**2. Fred Britton's article, "Is There a Physical Substrate to Intelligence" (*Gift of Fire*, Issue 83, March, 1997). There is a particularly good bibliography to this article,**
+
+**3. Fred Vaughan's "Assessing Assessment of Mental Performance" (*Gift of Fire*, Issue 92, January 1998),**
+
+**4. David Roscoe's "Group IQ Tests" (*Gift of Fire*, Issue 81, January 1997), and**
+
+**5. Hedley St. John-Wilson's "The Scientific Evidence Behind 'General Intelligence' Tests" (*Gift of Fire*, Issue 95, January 1998) -- a very comprehensive article.**
+
+**There are also articles which show reluctance to accept such an approach for acceptance criteria. For example,**
+
+**1. Fred Britton's "Comment on Intelligence"(*Gift of Fire*, Issue 92, January 1998),**
+
+**2. Ron Penner's "On Speed and Mental Testing" (Gift of Fire, Issue 92, January 1998), and**
+
+**3. Kevin Langdon, "Admission Standards" (Gift of Fire, Issue 98, August 1998)**
+
+<span id="8.7.4 ThinkfastTM, the game"></span>**8.7.4 ThinkfastTM, the game**
+
+**The ThinkfastTM involves a battery of 6 short games of chronometric cognitive tasks that Cognitive Diagnostics (the manufacturer) indicates correlate with g as high as .80. These tasks are as follows:**
+
+**1. RT speed and response standard deviation (efficiency)**
+
+**2. Complex RT speed and response standard deviation**
+
+**3. Working Memory speed and response standard deviation**
+
+**4. Working Memory Capacity (amount of information processed in short-term memory).**
+
+**5. Perceptual threshold PT (speed at seeing briefly presented stimulus).**
+
+**6. Subliminal perception threshold (discerning brief, random and subtle stimulus)**
+
+**Overall performance level on Thinkfast is derived by combining the scores of the six ECTs, with the following weighting:**
+
+**1. efficiency on games 1-5 (standard deviation of the responses) -- 35% of total (with game 4 weighted the heaviest)**
+
+**2. overall speed on games 1-5 -- 25% of the total (weighted toward game 4 speed)**
+
+**3. game 4 hits- speed and accuracy of working memory**
+
+**4. game 6- working memory capacity -- 20% of the total**
+
+**Levels are referred to by a group designation and a color. The lowest seven levels are Beta, the next seven levels are Alpha, followed by Theta levels. The level following Theta-gold is called Brainmaster (BM). All levels above BM are simply BM+x, where x is the number of levels above BM. Unlike the typical IQ test, Thinkfast does not have a performance ceiling.**
+
+**Users may send encrypted score strings containing their results over the Internet. Cognitive Diagnostics (the manufacturer) maintains a scoreboard of the highest scores.**
+
+**Thinkfast, in a form known as the Cognometer, is used by hundreds of hospitals and individual doctors to diagnose the severity of cognitive processing problems.**
+
+<span id="8.7.5 ThinkfastTM, the game as a psychometric"></span>**8.7.5 ThinkfastTM, the game as a psychometric instrument**
+
+**Thinkfast is the first commercially available tool that is designed to allow users to measure their cognitive capacity by testing their performance on ECTs. If Thinkfast is to be used as a high-level psychometric instrument, the following questions need to be answered:**
+
+**1. Is Thinkfast actually measuring cognitive capacity? That is, does it correlate well with IQ tests?**
+
+**2. If it does correlate with IQ, is it capable of discriminating at the level necessary to be used for Prometheus admissions?**
+
+**3. What are the problems with TF as a psychometric instrument?**
+
+**Does Thinkfast measure cognitive ability and correlate well with IQ?**
+
+**Thinkfast does consist of a combination of ECTs, including two that test the speed, efficiency and capacity of working memory. According to the research cited above, a combination of such ECTs should correlate up to 0.70 with IQ.**
+
+**Membership Committee member Bill McGaugh has three years experience playing TF and using it to test 16-18 year old high school Calculus students. In his articles, "Improving Mental Performance" (*Gift of Fire*, Issue 91, December 1997) and "A Reply to Ron Penners On Speed and Mental Testing" (Gift of Fire, Issue 92, January 1998) referenced above, he discusses and reviews his own experiences and early research with Thinkfast. Since the time of those articles, McGaugh has continued to gather data and research the validity of TF as a psychometric tool.**
+
+**Figure 26 shows score pair data (TF level and SAT score) for individuals (ages 16-18) that have played Thinkfast for three weeks about one hour per day. The SAT scores were obtained on the "new", re-centered SAT. The Thinkfast level scores are based on a score of 43 equals "Brainmaster" (BM), a score of 45 is BM+1, etc (two units per level).**
+
+**The average SAT score was 1304.5. The average TF level of the group was 38.9 (about Theta Silver). The correlation is 0.71. The standard deviation for the SAT scores was 139.3 and, for TF levels, was 8.0 (which is actually 4 levels, with each level being two units).**
+
+**From this data, we get the linear model (which fits the data well):**
+
+**Predicted SAT= 12.34 \* (TF level) + 823.95**
+
+**This model predicts that BM+10 would be equivalent to a 1601 SAT. Given that 453 students scored 1600 on the new SAT in 1996-7 (out of approximately 3,500,000 17 year olds in the United States), the predicted deviation IQ score (sigma = 16) for BM+10 would be 158. It follows that the Prometheus cutoff level (1 in 30,000) would be reached at about BM+11, rounded to the nearest level. To date, eight people out of an estimated 60,000 self-selected participants have reached this level or above on Braintainments list of high scorers.**
+
+**McGaugh has also collected 46 score pairs of individuals with both TF scores and IQ or SAT scores on acceptably normed tests (Mega, Ravens, WISC, etc.). SAT scores were converted to IQ equivalents based on the frequency data available from the College Board. When the scores of the group on TF are sorted into order and compared to the IQ scores sorted into order, the following equivalencies are obtained:**
+
+ 
+
+<span id="Figure 26SAT vs ThinkFast Correlation"></span><img src="Image145.gif" width="585" height="523" />
+
+**Figure 26: SAT vs ThinkFast Correlation**
+
+** **
+
+**BM+11 = 164 IQ (five individuals at or above this level)**
+
+**BM+5 = 150 IQ**
+
+**BM+0 = 138 IQ**
+
+**Up to, and including, BM+11, there is no reason to think that the Thinkfast deviates from a linear model. A linear fit works well at lower levels, and the progression from one level to the next corresponds to specific physical differences in efficiency, speed and working memory capacity.**
+
+<span id="8.7.6 The selective filtering involved in"></span>**8.7.6 The selective filtering involved in Thinkfast score reporting**
+
+**With somewhere around 60,000 self-selected people having tried ThinkfastTM (many more than the LAIT or Mega), we might expect that the top 8 scorers would reach at least the level necessary for Prometheus admissions. Note: these are people that have the Internet, would visit a place called brain.com and would pay money to buy a "brain" game -- these are the characteristics of participants that we have found on other tests (i. e., the Mega and SAT) to be "highly filtered" for intelligence.**
+
+**The producer of Thinkfast, Cognitive Diagnostics (otherwise known as "Braintainment"), reports that the average IQ for TF players using their IQ test is 117 (thousands of scores reported). Note, this shows that TF has been screening for a huge number of people that are one standard deviation above the mean. The average Thinkfast level is "Alpha-Silver". The average IQ of Bill McGaugh's ThinkfastTM players a year ago was 128 on a "bookstore" type of IQ test and their average Thinkfast level was "Theta-Blue" -- several levels higher than "Alpha-Silver."**
+
+**We estimate Brainmaster level (+0) to be equal to IQ 137, based on the size of the last two graduating classes for which data was available and the fact that virtually all of the "high-level" talent attempted Thinkfast. This talent represented 1400 students and there were only 14 BMs among them. Note, there are only 141 BMs on Braintainments list of high scorers.**
+
+**It does show consistent correlations. Once again, the score pairing method matches another method, in that the estimated 137 IQ is equivalent to BM+0 and score pairing indicated 138.**
+
+<span id="8.7.7 Discussion of perceived problems with"></span>**8.7.7 Discussion of perceived problems with Thinkfast**
+
+**What are the problems with using Thinkfast as a psychometric instrument?**
+
+**There are several problems associated with using Thinkfast for our purposes:**
+
+**1. Sparse data at the Prometheus level.**
+
+**Only a few individuals (five) with Prometheus level IQ scores have reported TF scores and IQ/Mega scores.**
+
+**While we would definitely welcome more data, and will continue to try to collect it, we think that the lack of data with regards to Thinkfast is not as severe as it would be for the traditional psychometric instrument, due to the TF characteristics. We hypothesize that the linear relationship between IQ and TF scores in the range where data is more readily available will continue up to BM+11, and the limited score pairing data at that level preliminarily agrees.**
+
+**2. The effect of practice.**
+
+**Some Thinkfast users (and others) feel that it is simply a function of practice or specialized skill development, and, may not accurately represent general cognitive ability.**
+
+**Speaking about ECTs in general, Jensen says, "...how exceedingly little reaction times in these simple ECTs involve anything that could be called thinking , cogitation, or problem solving in any meaningful sense of these terms. RTs appear to reflect activity at a basic neural level that occurs prior to the full activation of consciously guided processes."**
+
+**Jensen continues, "the important question with respect to ECTs...is whether individual differences...simply reflect individual differences in the use of strategies that are more or less efficient (or individual differences in the number of trials needed to discover a more efficient strategy)", he concludes that "nothing that could be called a general strategy factor has been discovered that is not just g in another guise.**
+
+**Games 1-5 of TF are the type of ECTs that Jensen is describing. There are individual differences in movement (as opposed to processing) efficiency that explain differences in initial levels and rate of early progress (correlation close to 0), but after 12 hours of practice with the keyboard and mouse, the performances correlated 0.7 with SAT score (see above).**
+
+**After several hours of practice and becoming used to the specific movement, there are apparently no tactics (in games 1-5) to apply to improve score. The information comes at the player in a random order, and as a higher score is obtained the information arrives at a quicker pace. In other words the demands on ones visual system, and working memory (decision making) plus the ability to maintain accuracy and efficiency become harder and harder to achieve. The individual ultimately is forced to his physical maximum ability. It is that ability that correlates with g.**
+
+**3. Design problems with game six.**
+
+**Thinkfast game six (working memory capacity) tests the users ability to remember which letters or symbols were in a set presented a few seconds previously. If a user answers correctly, they are rewarded by being presented with a larger set of letters or symbols. The sets of symbols are randomly arranged.**
+
+**One problem with game six is that, since the response is yes or no, a player may get a bit lucky and string a number of correct responses together, raising their overall Thinkfast level accidently (but no more that one level).**
+
+**Another more serious problem is that the user starts the game at a level based on their last performance. This allows the possibility of certain kinds of "cheating" that will not be described here. This type of cheating can be discovered by a knowledgeable person examining the files of the player.**
+
+**Game six also has a certain pattern to the game that, if discovered, can improve the players chances of success (but the pattern still requires the application of working memory).**
+
+**In early versions of Thinkfast, there were a couple of bugs in game six that allowed users to obtain much higher scores than they would have been able to attain without the bugs. These bugs have been eliminated.**
+
+**Despite all of the problems with game six, very few people have been able to reach the levels in game six that are required to score BM+11. Even if the player exploits the problems above, they will still have to play game six for hours (and very accurately), to reach the highest levels of the game.**\
+ 
+
+**4.    Differences between the performance of Thinkfast on various computer systems.**
+
+**There is anecdotal evidence that Thinkfast does not perform the same on various computer systems.**
+
+**The differences were more of a problem in the first versions of Thinkfast. Certain systems returned reaction times that differed from other systems by as much as 20 milliseconds. This difference could be worth about one level over all five reaction time games. The recent versions of Thinkfast do not seem to have the same problem.**
+
+**Different keyboards feel a bit different and may change a persons performance from one machine to another, but only very slightly.**
+
+**The Membership Committee thinks that differences between systems are no longer an issue, as long as the player uses versions 3.05 and above.**\
+ 
+
+**5. Thinkfast is computer software, it can be hacked.**
+
+**While this is always a possibility, after over three years on the market, there is no evidence that anyone one has hacked the game to produce a high score. The programmer uses certain encryption techniques to prevent tampering and they appear to work adequately.**\
+ 
+
+**6. Thinkfast might not be appropriate for all potential Prometheus candidates.**
+
+**Some people may not like using computers or may feel uncomfortable using computers. Potential applicants with dyslexia probably should not choose Thinkfast for their entrance test. People with epileptic-type disorders should not use Thinkfast without consulting their doctor.**\
+ 
+
+<span id="8.7.8 ThinkfastTM, the game -- its ability to"></span>**8.7.8 ThinkfastTM, the game -- its ability to discriminate at the 1-in-30,000 level**
+
+**The Membership Committee is convinced that we would not be vulnerable to an infusion of new members that do not meet the 1-in-30,000 criterion if we allow entry of individuals who have a validated score of BM+11 or above on any version 3.05+ of Thinkfast. In fact, we believe that the requirement may ultimately have to be relaxed somewhat to give Chronometrics test applicants an equal entry opportunity. This recommendation assumes mandatory detailed verification of the data by an expert with an understanding of the game and file structure. An expert can readily identify any of the various methods that people have attempted to use to cheat at Thinkfast. There are readily identifiable indicators of tampering.**
+
+**If someone merely hacked the game to produce an apparent score, the file structure necessary would not be there and the creation of the necessary file structure by hand would be quite an ordeal probably much more difficult than forging a score sheet on standard tests. We probably would not want to allow employees or family members of Braintainment to be admitted using their own testing method, however. Friends might be a problem, but they would still have to recreate a very complex file structure and they could not be sure of exactly what indicators were being used to screen for such tampering.**
+
+**Elementary cognitive tasks isolate basic cognitive functions from acquired strategies, algorithms, and knowledge. Using chronometrics would allow the Prometheus Society to become more global -- our current admission requirements including the other recommendations of this committee pretty much demand a degree of fluency in English (and, perhaps, mathematics). Chronometrics would remove that requirement for those for whom it was important.**
+
+**Thinkfast may well prove to eventually be the best method to accurately measure differences in cognitive abilities out at the 1-in-30,000 level of our interest. That this should be accomplished in a content-free instrument would be a major advantage. Thinkfast is certainly not the perfect implementation of Chronometrics -- at least not yet, but it is by far the best tool currently available.**
+
+**The general research on the information processing approach to intelligence testing, along with our own limited research, shows that the correlation of this type of test with g is about 0.70. This correlation is higher than usually required by tests accepted for entry to this Society.**
+
+<span id="8.7.9 One year trial recommendation"></span>**8.7.9 One year trial recommendation**
+
+**We are very concerned about using such an innovative approach as Thinkfast as an admission requirement to our Society. Allowing a product that, at first glance, appears to be an over-hyped game, is a bold step. We are not satisfied with the limited amount of data that we have, and we are not sure that we will have significantly more a year from now. There is some concern over the design of game six. It makes the game more vulnerable to improvement by learned techniques and more vulnerable to possible cheating.**
+
+**However, in spite of these disadvantages we have been amazed at how even the sparse amounts of data support its claims of correlations with other psychometric instruments.**
+
+**Even with the game six problems, a person must score very high on the highly g-loaded game four in order to score BM+11. According to the greatest experts in psychometrics, a combination of ECTs such as TF should correlate with IQ at about the level that our data indicates.**
+
+**The Prometheus Society has always been rather experimental -- basing membership on the score on unsupervised tests designed by people without formal training in psychometrics. Using a tool based on current research is certainly no more scientifically precarious than past practice. The mere fact that Arthur Jensen allows his name to be associated with the company that produces this tool, lends a credibility and respectability to the product -- far more than our former admission standards.**
+
+**At this time we are, therefore, recommending a special one year trial period for allowing entry to the Prometheus Society based on a score of "Brain Master + 11" obtained and confirmed as specified above using Thinkfast. Applicants should also send in a score report confirming 1-in-1000 level performance on an acceptable, supervised intelligence test.**
+
+** **
+
+<span id="8.8 Development of unique capabilities -- Elo-like"></span>**8.8 Development of unique capabilities -- Elo-like scoring**
+
+**We are intrigued by the idea of Elo-like scoring as described by Bill McGaugh in his articles "The Elo System and Mental Performance" (*Gift of Fire*, Issue 93, 13 - 14, February 1998) and "An Elo-Based Intelligence Scale" (*Gift of Fire*, Issue 97, 10 - 13, July 1998). This enthusiasm was reflected in Robert Dick's article "Elo and IQ" (*Gift of Fire*, Issue 94, 17, March 1998) and Guy Fogleman's "EloIQ System = Rasch Model" (*Gift of Fire*, Issue 100, 8, October 1998).**
+
+**However, the problem we perceive is that we need to develop and calibrate a set of very difficult problems. This requires a lengthy and well thought out long term project. From experiences with problems presented in *Gift of Fire*, Prometheans don't necessarily generate much response to such an endeavor. What is needed to accomplish this task is a group of dedicated individuals that will attempt to solve problems over a period of time, of say a month, with any problems left unsolved counting as "misses." This task cannot be completed by merely acknowledging the problems having been correctly solved -- there must also be an assessment of those which could not be solved after a determined effort.**
+
+**It still seems like a very worthwhile line of research and we recommend that interested members or others pursue this to a point where it may be amenable to our use. But we are not taking an action item at this time to further this line of investigation.**
+
+<span id="8.9 Explore combinational approaches"></span>**8.9 Explore combinational approaches**
+
+**The Membership Committee had entertained the possibility that combinatorial methods might be the only method by which one could obtain conscionable entry requirements at the 1-in-30,000 level of our cutoff criteria since the compromise of our staple tests. However, after having analyzed the above psychometric instruments and found an appreciable number of these capable of discrimination at this level, the urgency with which we regarded Elo-based scoring and combinatorial methods has abated.**
+
+**On several tests, the Mega27 and ThinkFast, we are in fact recommending a combinational approach for insurance purposes (see section V).**
+
+**Application of Ferguson's formula is a meaningful approach to raising the ceiling of a combination of testing vehicles, but it seems unnecessary at this time. We, therefore, take no action item to pursue this although we recommend research in this area.**
+
+<span id="8.10 Review the phrasing of intelligence claims in"></span>**8.10 Review the phrasing of intelligence claims in our constitution**
+
+**Intelligence is naturally mentioned at numerous places in our constitution and we see no need to change any of that phrasing.**
+
+**In article II.2 it says that:**
+
+**"Membership in the Prometheus Society is open to anyone who can provide satisfactory evidence of having received a score on an accepted IQ test that is equal to or greater than that received by the highest one thirty thousandth of the general population. An accepted IQ test is defined as an IQ test that the Society has determined to be acceptable for admission purposes."**
+
+**We see no reason to change anything with regard to these requirements.**
+
+**Interestingly, in Article I.2 of the Prometheus Society, its purposes are called out as follows:**
+
+**"The purposes of the Prometheus Society are:**
+
+**a. To provide a forum for the exchange of ideas between members.**
+
+**b. To promote understanding and friendship between members.**
+
+**c. To foster intellectual freedom.**
+
+**d. To assist in research relating to high intelligence and intelligence testing.**
+
+**e. To encourage and assist the efforts of members to attain high levels of achievement in the arts, the sciences, and other fields of endeavor."**
+
+**We feel that the activities of this committee have exemplified all five of these purposes, but the final two in particular. And we are confident that acceptance of our recommendation is compatible with, and in fact, exemplifies the intent of our constitution.**
+
+** **
+
+------------------------------------------------------------------------
+
+** **
+
+<span id="IX. DEFINITION OF TERMS"></span>**IX. DEFINITION OF TERMS**
+
+** **
+
+**Individuals have been assigned to these definitions rather at random to provide nearly even assignments and a list of individuals who could negotiate among themselves as to who made the first pass. These definitions are what we have taken these terms to mean and are what we mean when we use them.**
+
+***Achievement Test --***
+
+**An objective examination that measures educationally relevant skills or knowledge about such subjects as reading, spelling, or mathematics.**
+
+***Age Norms --***
+
+**Values representing typical or average performance of people of age groups.**
+
+***Alternate-form reliability (also called Parallel-form reliability) --***
+
+**The correlation between scores on different forms of the same test taken by the same subjects. It is best if the two forms are as nearly equivalent as possible, same number of items, same range of difficulty, same kinds of content etc. Correlations between scores on the Mega and the Titan might qualify as this kind of reliability.**
+
+***Aptitude --***
+
+**A combination of characteristics, whether native or acquired, that are indicative of an individuals ability to learn or to develop proficiency in some particular area if appropriate education or training is provided.**
+
+**Aptitude tests include those of general academic (scholastic) ability; those of special abilities, such as verbal, numerical, mechanical, or musical; tests assessing "readiness" for learning; and tests that measure both ability and previous learning, and are used to predict future performanceusually in a specific field, such as foreign language, shorthand, or nursing.**
+
+***Average --***
+
+**A measure of central tendency. Most often average refers to the sum of a set of scores divided by the number of scores in the set. The same as mean.**
+
+***Battery --***
+
+**A group of carefully selected tests that are administered to a given population, the results of which are of value individually, in combination, and totally.**
+
+***Ceiling --***
+
+**The upper limit of ability that can be measured by a particular test.**
+
+***Composite distribution --***
+
+**Composite distribution--results from summing univariate distributions. If two unimodal distributions are summed, the composite can be unimodal or bimodal, depending on the separation of the peaks of the underlying distributions.**
+
+***Compromised Test --***
+
+**A test for which answers are readily available in the public domain.**
+
+***Confidence interval --***
+
+**A confidence interval is the range of the independent variable over which a probability distribution varies such that it is always within the specified percentage of its peak value. For example, a 50% confidence interval of a score being correctly assigned is defined as the difference in score between a lower bound score for which the likelihood of the score has dropped to 50% of its peak value to an upper bound score where the likelihood has again dropped to 50% of the peak value.**
+
+***Content Validity --***
+
+**Defined as the extent to which a test samples the trait or behavior of interest.**
+
+***Correlation --***
+
+**A statistical measure that indicates the extent to which two factors vary together. It will, therefore, indicate how well one of the factors will predict the other.**
+
+<img src="Image146.gif" width="176" height="61" />
+
+**In the technical literature, the word correlation, without a modifier, always signifies Pearson's coefficient \[the Pearson product-moment coefficient of correlation\]. The many other types of correlation coefficient are always specified. Pearson's correlation is the most generally used, and reflects the extent of a linear relationship between two data sets. It is universally symbolized by a lower-case italic r (derived from Galton's term regression). The basic formula is:**
+
+**where**
+
+***Xi* and *Yi* are paired individual measurements of variables *X* and *Y*,**
+
+***X* and *Y* are the means of variables *X* and *Y* in the sample,**
+
+**sx and sy are the sample standard deviations of variables *X* and *Y*, and**
+
+***N* is the number of paired measurements.**
+
+**In Microsoft Excel<sup>TM</sup>, the syntax for calculating the correlation, r, of two arrays is: PEARSON(array1, array2)**
+
+**Correlation of X1 and X2:**
+
+**R(1,2) = R(X1,X2) = COV(X1,X2) / (SD(X1)\*SD(X2))**
+
+**R can be used instead of R(1,2) if only two random variables are being discussed.**
+
+***Covariance --***
+
+**Covariance of random variables X1 and X2:**
+
+**COV(1,2) = COV(X1,X2) = E\[(X1 - MEAN(X1)) (X2 - MEAN(X2))\] ,**
+
+**which is to say, COV(X,Y) of the pair of random variables is the expected value of the product (X - m1) (Y - m2), where m1 is the mean of the X distribution and m2 is the mean of the Y distribution. Covariance is the mean deviation product, and measures the degree of association between X and Y. Independent random variables have covariance of 0.**
+
+***Crystallized "g" --***
+
+**A special factor such as mathematical, vebal, spacial ect.. involving specific forms of knowledge learnt in the form of declarative memory, procedural memory and a set of goals/sub goals. Declarative memory consists of facts in semantic networks. Procedural memory consists of rules of action, competencies and procedures. Declarative memory has a faster learning curve than procedural memory. Special crystallized factors underly the process of finding solutions to complex problems by a process of selective search and means-ends analysis. Intuition also results from this process. Intuition occurs when the individual is unaware of the steps used to arrive at a solution. These steps are elicited by an index of knowledge held by the individual accumulated from training and experience (Simon).**
+
+**"Finally, to the extent that a theory of mental ability tries to explain individual differences solely as the result of learning, it is doomed to refutation by the evidence of behavioral genetics, which shows that a preponderant proportion of the variance of IQ (even more so of g) consists of genetic variance. An individual's genes are certainly not subject to learning or experience. But it is certainly a naive mistake to suppose that the high heritability of g implies that a great variety of learning experience is not a prerequisite for successful performance on the tests that measure g. What high heritability means is that individual differences in test scores are not mainly attributable to individual differences in opportunity for the prerequisite learning." Jensen (The g Factor)**
+
+***Deviation IQ (DIQ) --***
+
+**An age-based index of general mental ability. (To be distinguished from, so see Ratio IQ.) It is based on the difference between a persons score and the average score for persons of the same chronological age. Deviation IQ scores from most current scholastic aptitude tests are standard scores with a mean of 100 and a standard deviation of 15 or 16 for each defined age group. Thus, the DIQ is a transformed score equal to 15 (or 16) z + 100. (See z-score and Standard Score.) Some are moving away from calling such a score on a mental or scholastic ability test an IQ.**
+
+***Difficulty index --***
+
+**The percent of participants, who answer an item correctly, designated as p.**
+
+***Difficulty profile --***
+
+**The probability that a participant *j* at a given mental ability level C*<sub>j</sub>* will answer an item correctly, designated as p<sub>n</sub>(C*<sub>j</sub>*) , where n is the index of the problem in question.**
+
+***Discrimination Index --***
+
+**The extent to which an item differentiates between high-scoring and low-scoring examinees. Discrimination indices generally can range from -1.00 to +1.00. Other things being equal, the higher the discrimination index, the better the item is considered to be. Items with negative discrimination indices are generally items in need of rewriting.**
+
+***Elementary Cognitive Tasks (ECTs) --***
+
+**These refer to very low level activities such as eye-hand reaction times, etc., that are employed by chronometric testing approaches. They have been shown to have correlations in excess of -0.70 with intelligence. (The sign of the correlation is reversed because shorter reaction times correspond to higher intelligence.)**
+
+***Expectation (expected) value --***
+
+**Expectation value of some function F(X) of a random variable X: E(F(X))**
+
+**E(X) is the average value in a large sample, the sum over x of x\*P(x) for a discrete random variable, the integral of x\*f(x) for a continuous random variable.**
+
+***Factor Analysis --***
+
+**Factor Analysis is a statistical procedure that is used to identify clusters (factors) of related items on a test. It's used to identify the different dimensions of performance that underlie a total score.**
+
+***Fluid "g" --***
+
+**"g" refers to the broad general intelligence factor that Spearman, amongst others, believed to underlie specific cognitive abilities. In the conceptualization of intelligence, it is often divided into two main factors, crystallized intelligence and fluid intelligence. Fluid intelligence is the ability to reason quickly and abstractly. Using such a term implies that there are more than the one general intelligence factor, which would seem to contradict the spirit of "g" by definition. "Fluid intelligence" is perhaps more accurate.**
+
+**"Given a wide variety of tests in the factor analysis, G<sub>f</sub> \[fluid g\] and g appear to be one and the same factor, or at least to be so highly correlated as to make G<sub>f</sub> redundant for all practical purposes." -- \[from Jensen's The g Factor, p 125\]**
+
+**The nature of g is not defined by the type of tests that have the highest g loadings. Spearman realized that characteristics such as relation eduction and abstract reasoning were good indicators of g, but they don't define the nature of g. The most important point to understand is that these features may indicate the presence of g, but they are definitely not its essence. g (which is normally described as general intelligence) cannot be described in terms of information content or item characteristics. g is a useful concept because it provides important and accurate accounts about human behavior, particularly about individuals' inherent learning capacities and is therefore used as a measuring tool for these attributes. Tests which are designed as measurements of specific content problem solving abilities like the SAT do not fall into this concept because they measure achievement rather than inherent learning capacities (for which IQ tests / g loaded tests are designed) - Philip Yarm. g is not a direct problem solving process, and is not a specific cognitive process or operating principle of the mind. A test's g loading neither reveals any bearing on its difficulty. At the level of biological causality, g is strongly and virtually entirely associated with individual differences in the speed and efficiency of the neural processes that affect mental abilities.**
+
+***Frequency --***
+
+**The number of times a given score (or a set of scores in an interval grouping) occurs in a distribution.**
+
+***Frequency Distribution --***
+
+**A tabulation of scores from low to high or high to low showing the number of individuals who obtain each score or fall within each score interval.**
+
+***"g" loading --***
+
+**Refers to the amount of general intelligence factor underlying a task (i.e.; needed to successfully complete a particular item or test.)**
+
+**A test's (or task) correlation with the general factor common to all measures of mental/cognitive performance tests.**
+
+***IQ tests --***
+
+**The psychometric approach to measuring general intelligence.**
+
+**"The candidate is set problems which as far as possible make little or no call on acquired knowledge. If such knowledge is necessary for tests, then it is important to make sure all candidates possess it equally." -- Hans and Michael Eysenck (*Mind Watching*)**
+
+***Interacting abilities --***
+
+**Capabilities that show up separately on a factor analysis but are not completely independent.**
+
+***Item --***
+
+**An individual question or exercise in a test or evaluative instrument.**
+
+***Item analysis --***
+
+**Statistical procedure for examining how well examinees answers to a particular test item correlates with total or factor scores. If it correlates well, the item has good discriminant validity. Item analysis can also be used to identify items that are biased against certain populations.**
+
+***KR-20 reliability --***
+
+**This is formula 20 from the original article by Kuder & Richardson (1937) giving a variety of formulas useful in calculating reliabilities. This formula measures inter-item consistency. It can be shown mathematically that the KR-20 reliability is actually the mean of all the different possible split-half reliabilities for a test.**
+
+**KR20 = n (s^2 - Spq) / ( (n-1)(s^2) ),**
+
+**where KR20 is the reliability for the whole test, s = standard deviation of total scores on the test, S = the summation symbol, p = proportion of subjects passing each item, q = proportion of subjects failing each item.**
+
+**Since the split-half method usually uses items such that equivalence is maximized between the two halves, the KR20 result will generally be lower. The difference between the two results may be used as a measure of the heterogeneity of the test.**
+
+***Kurtosis --***
+
+**Peakedness of a distribution, quantified as the fourth moment about the mean. Two distributions with the same mean and variance can differ in kurtosis, with the label platykurtic applying to the flatter distribution with short tails and leptokurtic applying to a narrow "pointy" distribution with longer tails.**
+
+***Mean --***
+
+**Average. Mean of X: MEAN(X) = E(X) = SX/N = total of scores / number of scores**
+
+***Mental performance ability test --***
+
+**Designed to evaluate general intelligence or aptitudes. Consists primarily of motor items or perceptual items because verbal abilities play a minimal role.**
+
+***Mode --***
+
+**A measure of central tendency, the score that occurs most frequently in a distribution.**
+
+***Modality of distribution --***
+
+**Unimodal, bimodal, multimodal distributions -- just the number of peaks/modes/humps in the distribution.**
+
+***Norm --***
+
+**Performance standards that is established by a reference group and that describes average or typical performance. Usually norms are determined by testing a representative group and then calculating the group's test performance.**
+
+***Normal Distribution --***
+
+**"normalized" scores = (raw score - test mean)/(test standard deviation).**
+
+**A distribution of scores or other measures that in graphic form has a distinctive bell-shaped appearance. In a normal distribution, the measures are distributed symmetrically about the mean. Cases are concentrated near the mean and decrease in frequency, according to a precise mathematical equation, the farther one departs from the mean. The assumption that many mental and psychological characteristics are distributed normally has been very useful in test development work.**
+
+**Figure IX.1 below is a normal distribution. The figure shows the percentage of cases between different scores as expressed in standard deviation units. For example, about 34% of the scores fall between the mean and one standard deviation above the mean.**
+
+<span id="Figure IX1A Normal Distribution."></span><img src="Image147.gif" width="345" height="206" />
+
+**Figure IX1. A Normal Distribution.**
+
+***Normalized Score --***
+
+**A "normalized" score is equal to: (the raw score - the test mean score) / (test standard deviation).**
+
+***Norming --***
+
+**The performance of analyses to evaluate the relationship to the performance of other tests how the subject test should be scored.**
+
+***Norm-Referenced Test --***
+
+**An objective test that is standardized on a group of individuals whose performance is evaluated in relation to the performance of others; contrasted with criterion-referenced test.**
+
+***Norms --***
+
+**The distribution of test scores of some specified group called the norm group. For example, this may be a national sample of all fourth graders, a national sample of all fourth-grade males, or perhaps all fourth graders in some local district.**
+
+***p-Value --***
+
+**The proportion of people in an identified norm group who answer a test item correctly; usually referred to as the difficulty index. (See Difficulty Index.)**
+
+***Percentile --***
+
+**A point on the norms distribution below which a certain percentage of the scores fall. For example, if 70% of the scores fall below a raw score of 56, then the score of 56 is at the 70th percentile. The term "local percentile" indicates that the norm group is obtained locally. The term "national percentile" indicates that the norm group represents a national group. The percent of people in the norming sample whose scores were below a given score.**
+
+***Percentile Band --***
+
+**An interpretation of a test score that takes into account measurement error. These bands, which are most useful in portraying significant differences between subtests in battery profiles, most often represent the range from one standard error of measurement below the obtained score to one standard error of measurement above it. For example, if a student had a raw score of 35, and if the standard error of measurement were 5, the percentile rank for a score of 30 to the percentile rank for a score of 40 would be the percentile band. We would be 68% confident the students true percentile rank falls within this band. (See *Standard Error of Measurement* and *True Score*.)**
+
+***Percentile Rank --***
+
+**The percentage of scores falling below a certain point on a score distribution. (Percentile and percentile rank are sometimes used interchangeably.)**
+
+***Precociousness --***
+
+**The advanced intelligence of younger children sometimes measured as IQ in ratio IQ measurements that are not reflected by deviation IQ scores in the mature individual.**
+
+***Profile --***
+
+**A graphic presentation of several scores expressed in comparable units of measurement for an individual or a group. This method of presentation permits easy identification of relative strengths or weaknesses across different tests or subtests.**
+
+***Quartile --***
+
+**One of three points that divided the scores in a distribution into four groups of equal size. The first quartile \[equation\], or 25th percentile, separates the lowest fourth of the group; the middle quartile \[equation\], the 50th percentile or median, divides the second fourth of the cases from the third; and the third quartile \[equation\], the 75th percentile, separates the top quarter.**
+
+***Percent Score --***
+
+**The percent of items that are answered correctly.**
+
+***Psychometrics --***
+
+**The science of mental testing (some prefer the term mental measurement). The science of mental measurements.**
+
+***Published Test --***
+
+**A test that is publicly available because it has been copyrighted and published commercially.**
+
+***Random Variable --***
+
+**If more than one random variable is being used, use the notation X1, X2, X3, etc. A numerical variable which takes different values with different probabilities. Discrete random variables only take integral values (ex. number of correct items on a test), continuous random variables can take any real value, theoretically (ex. time taken to complete a set of test questions). Repeated sampling of the random variable results in the probability distribution.**
+
+***Ratio IQ.***
+
+**An intelligence index based on the ratio of the age at which a capability is manifested in a child to the age at which it is usually manifested. (To be distinguished from, so see Deviation IQ.) Trends have all been away from ratio IQ's over the last several decades. Ratio IQs are frequently much higher than the ultimate deviation IQ of the mature individual. See also Precociousness.**
+
+***Raw Score --***
+
+**A persons observed score on a test, i.e., the number correct. While raw scores do have some usefulness, they should not be used to make comparisons between performance on different tests, unless other information about the characteristics of the tests is known. For example, if a student answered 24 items correctly on a reading test, and 40 items correctly on a mathematics test, we should not assume that he or she did better on the mathematics test than on the reading measure. Perhaps the reading test consisted of 35 items and the arithmetic test consisted of 80 items. Given this additional information we might conclude that the student did better on the reading test (24/35 as compared with 40/80). How well did the student do in relation to other students who took the test in reading? We cannot address this question until we know how well the class as a whole did on the reading test. Twenty-four items answered correctly is impressive, but if the average (mean) score attained by the class was 33, the students score of 24 takes on a different meaning.**
+
+***Regression analyses --***
+
+**A set of statistical techniques that allow assessment of the relationship between a single dependent variable and several independent variables. It's generally used for prediction (of a score, for instance, from a variety of factors.)**
+
+***Regression Effect --***
+
+**Tendency of a posttest score (or a predicted score) to be closer to the mean of its distribution than the pretest score is to the mean of its distribution. Because of the effects of regression, students obtaining extremely high or extremely low scores on a pretest tend to obtain less extreme scores on a second administration of the same test (or on some predicted measure).**
+
+***Reliability --***
+
+**The extent to which test scores are consistent; the degree to which the test scores are dependable or relatively free from random errors of measurement. Reliability is usually expressed in the form of a reliability coefficient or as the standard error of measurement derived from it. A test (or a set of test scores) with a reliability of 1.00 would have a standard error of zero and thus be perfectly reliable. (See Standard Error of Measurement.)**
+
+***Retired Test --***
+
+**A test which is no longer scored to assess mental performance abilities. It may be that answers have been published or that the answers have been assumed to be too widely distributed for the test to be able to effectively discriminate at an appropriate level.**
+
+***Sampling error --***
+
+**Non-random selection when the applicable statistics assume randomness in the selection process.**
+
+***Scaled Score --***
+
+**A mathematical transformation of a raw score. Scaled scores are useful when comparing test results over time. Most standardized achievement test batteries provide scaled scores for such purposes. Several different methods of scaling exist, but each is intended to provide a continuous score scale across the different forms and levels of a test series.**
+
+***Selective filters --***
+
+**See *Intelligence filters* under section X. Mathematical Concepts and Methods.**
+
+***Sigma --***
+
+**English word used to signify the Greek letter s representing standard deviation.**
+
+***Screening --***
+
+**A fast, efficient measurement for a large population to identify individuals who may deviate in a specified area, such as the incidence of maladjustment or readiness for academic work.**
+
+***Skewness --***
+
+**For an asymmetrical unimodal distribution, the side with the longest tail is the skew direction. A distribution with a long right tail is said to be skew to the right. Quantified as the third moment about the mean.**
+
+***Spearmans "Law of Diminishing Returns"***
+
+**In Appendix A in *The g Factor*, (585-588) Jensen gives a brief account of Spearmans "Law of Diminishing Returns." This law states that the higher the level of g, the less is the amount of g variance in any particular test. Among the implications of this principle are that the higher the level of g possessed, the less important a factor it is in the various special abilities a person possesses, and that people with high g have more diversified abilities.**
+
+**Jensen cites empirical evidence in support of the Spearmans Law (Deary et al., 1996), showing that the variance accounted for by g was lower in a group of higher ability than in a group of lower ability. This study is important because it controlled for the effect of restriction of the range (which can mimic Spearmans Law) by equating the comparison groups for variance. The article includes a history of the theory.**
+
+**The implication of Spearmans Law for us is that it raises the question of how much the importance of g is lessened at very high levels such the four-sigma level. It is quite likely that there is very little research on the effects at such levels.**
+
+**The implications are really explained by something Brand brings up in his book, The g Factor (not to be confused with Jensen's book by the same name). Firstly, Brand points out that there is no agreed nomenclature for cognitive abilities other than g, even though terms like verbal and spatial have been used. 'Fluid' and 'crystallized' forms of g have been identified (initially around 1930). Between these two highly correlated types of ability, only one in eight in the general population will have scores that differ significantly. Other than g, Brand explains that there are the 'Big Five' dimensions of personality which are accepted as indicating the main differences in human ability:**
+
+**The Big Five are:**
+
+**1. verbal vs spatial,**
+
+**2. independence vs field dependence,**
+
+**3. short-term memory vs long-term memory,**
+
+**4. originality vs accuracy,**
+
+**5. conditionability vs extinctionability,**
+
+**The important aspect of this is that people who are above-average in g are more differentiated according to these personality factors. Higher g levels yield more personality diversity. This sheds light on people with high g revealing more diversified abilities as implied by Spearman's Law of diminishing returns. People with high g are likely to invest their cognitive ability in many different ways and therefore develop considerably different forms of crystallized intelligence. One can only expect tests that measure fluid intelligence to provide a consistent and reliable accout of differences in innate cognitive ability between individuals with high g.**
+
+***Standard deviation --***
+
+**The standard deviation is a measure of how widely values are dispersed from the average value (the mean).**
+
+**The standard deviation as defined above is calculated using the "nonbiased" or "N-1" method. This assumes that the data being analyzed represents a sample of the population. But for large sample sizes, N-1 can be replaced with N.**
+
+**In Microsoft Excel, the syntax for calculating the nonbiased standard deviation is: STDEV(array)**
+
+**If we are working with an approximately normal distribution, it is sometimes convenient to convert percentile rankings into standard deviation (or z) scores. For example, a score on an IQ test that is in the 98th percentile is roughly 2 standard deviations above the mean. The caveat here is that IQ distributions are not necessarily perfectly normal (differences from normality would be greater at the tails), so the transformation of percentile rankings into standard deviations may be misleading.**
+
+**Standard Deviation of X: SD(X)=SQRT(VAR(X))**
+
+***Standard Error of Measurement (SEM) --***
+
+**The amount an observed score is expected to fluctuate around the true score. For example, the obtained score will not differ by more than plus or minus one standard error from the true score about 68% of the time. About 95% of the time, the obtained score will differ by less than plus or minus two standard errors from the true score.**
+
+***Standardized Test --***
+
+**A form of measurement that has been normed against a specific population. Standardization is obtained by administering the test to a given population and then calculating means, standard deviations, standardized scores, and percentiles. Equivalent scores are then produced for comparisons of an individual score to the norm group's performance.**
+
+***Standard Scores --***
+
+**A score that is expressed as a deviation from a population mean.**
+
+***Statistical distribution --***
+
+**Cumulative distribution functions and probability density functions are profiles that contain all the relevant information about the statistical properties of a random variable. We may refer to these profiles, whichever is used, as the distribution of the random variable.**
+
+**Cumulative distribution function (CDF), Fx(x) for the random variable X is defined for all numbers x by Fx(x) = P{X \<= x}.**
+
+<img src="Image148.gif" width="83" height="43" />**Probability density function (PDF), fx(x) = P{a \<= X \<= b} =**
+
+**Distributions are often characterized by measures of central tendency such as the mean, mode and median, and by measures of dispersion such as the standard deviation, and by other parameters such as kurtosis and skewness.**
+
+**Refer to Probability Models and Applications by Olkin, Gleser, Derman, for example**
+
+***Test-retest reliability --***
+
+**The correlation between scores on the same test taken by the same subjects at two different times.**
+
+***t-test --***
+
+**The t-test is a commonly used test of statistical significance for assessing the significance of the differences between the means of two populations.**
+
+***Split-half reliability --***
+
+**The test is split into two halves, usually with some attempt to make the halves as nearly equivalent as possible. If the difficulty increases as the item numbers increase it is common to choose as the two halves the odd-numbered items and the even-numbered items. Clearly, it helps if the test developer had this in mind when designing the test. If this is not a good way of splitting the test in two halves, one could try to choose the items for the halves by inspection to get as close as possible to equivalence. Of course, one could just reorder the items by difficulty level and use the odd-even method. This last method seems to have the most merit.**
+
+**Of course, the reliability obtained by the split-half method (the correlation between the two halves) is the reliability of a test of half the length. To estimate the reliability of the whole test, this figure should be corrected using the Spearman-Brown formula (simplified version for doubling test length) for the effect of the length of the test on reliability: R = 2(Rsh)/(1+Rsh), where R = estimate of reliability of whole test, Rsh = split-half reliability.**
+
+***Validity --***
+
+**The extent to which a test does the job for which it is intended. The term validity has different connotations for different types of tests and, therefore, different kinds of validity evidence are appropriate for each.**
+
+**1. Content validity: For achievement tests, content validity is the extent to which the content of the test represents a balanced and adequate sampling of the outcomes (domain) about which inferences are to be made.**
+
+**2. Criterion-related validity: The extent to which scores on the test are in agreement with (concurrent validity) or predict (predictive validity) some criterion measure.**
+
+**Predictive validity refers to the accuracy with which a test is indicative of performance on a future criterion measure, e.g., scores on an academic aptitude test administered in high school to grade-point averages over four years of college. Evidence of concurrent validity is obtained when no time interval has elapsed between the administration of the test being validated and collection of data. Concurrent validity might be obtained by administering concurrent measures of academic ability and achievement, by determining the relationship between a new test and one generally accepted as valid, or by determining the relationship between scores on a test and a less objective criterion measure.**
+
+**3. Construct validity: The extent to which a test measures some relatively abstract psychological trait or construct; applicable in evaluating the validity of tests that have been constructed on the basis of an analysis of the trait and its manifestation.**
+
+***Variance --***
+
+**The square of the standard deviation.**
+
+**VAR(X)=E\[(X - MEAN(X))2\]**
+
+***z-Score --***
+
+**A type of standard score whose distribution has a mean of zero and a standard deviation of one, sometimes called the standard normal distribution.**
+
+------------------------------------------------------------------------

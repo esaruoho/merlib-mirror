@@ -1,0 +1,166 @@
+C.M. Connelly: About this Site... 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ Software 
+ | 
+
+ Weblog 
+ | 
+
+ Standards 
+ | 
+
+ Hardware 
+ | 
+
+ Me 
+ | 
+
+ Comments 
+ | 
+
+ Badges 
+
+ About this Site... 
+
+ Software 
+
+ This site is maintained with HTML::Mason , a Perl CMS that is also used by Salon as the basis of their CMS. 
+
+ As of February 2002, all the code outside of Mason itself was
+written by me. Although I have considered using some components
+written by others, I haven't found any that would be more useful than
+those I've written myself. 
+
+ Probably the most notable components are gr , which
+provides a shortcut for adding links, and img , which
+provides a short way of inserting images (with or without links).
+Both components replace similar functionality in UserLand Frontier , which I
+used to generate earlier versions of my site (ca. 1997&#8211;1999). 
+
+ HTML::Mason is a complicated beast, but with the complexity
+comes the full power of Perl . Anything that can be done
+in Perl (which is pretty much anything) can be done in Mason with a
+bit of coding and stick-to-it-ivness. I miss some of the simplicity
+of using Frontier (for example, typing "foo" instead of
+ <& /gr, 'foo' &> ), but I have much more
+control over everything that goes on in the site (because I wrote all
+the code, and I know there isn't any weird magic happening in some
+mysterious script being called as part of the rendering process) and
+that's worth it. (Being free from Dave's closed source, expensive
+products, and weird idea of &#8220;support&#8221; are icing on the cake.) 
+
+ All the PDF documents on this site were created using LaTeX and processed into PDF
+files using ps2pdf .
+By and large, the typefaces used are Robert Slimbach's Adobe Kepler MM (serif) and Adobe Cronos MM (sans-serif). 
+
+ The Weblog 
+
+ As of this writing, my weblog consists of several
+Mason components that provide the page layout and the content of the
+sidebar. 
+
+ The blog content (current page and archives) consists of several
+Mason components that are assembled by a Perl script (currently
+ not part of the Mason site) from a series of files stored in
+a hierarchical directory structure. Using files instead of a database
+gives me all the benefits of a database without actually having to
+waste time and energy getting a complex database server up and running
+for what is, after all, a rather modest job. ( Jamie Zawinkski would be proud
+(notice the last feature).) 
+
+ Standards 
+
+ I care a lot about standards and
+accessibility. The most recent retrofit of this site (February, 2002)
+involved tearing out the old <table> -based layout
+(inherited from older tools) and replacing it with a clean CSS -based layout. 
+
+ I'm also looking at moving the site to use 
+ XHTML , as
+well, making it easier to move to 
+ XML when the
+time is right. In the meantime, the site uses the HTML 4.01 Transitional DTD . 
+
+ If you're seeing exceptionally plain pages, and you're not using a
+text browser, you're probably using an older browser that isn't
+completely standards-compliant. If you can, I recommend that you
+upgrade your browser to one that is standards-compliant&#8212;you'll see
+benefits immediately. 
+
+ If you can't upgrade your browser, I apologize. I'm stuck with an
+old, buggy version of Netscape on diziet myself, but I'm
+running Mozilla on perosteck , and it's
+great. Newer versions of Microsoft's Internet Explorer browser also
+work pretty well. 
+
+ Hardware 
+
+ I'm currently running two computers. Mason is running on my main
+system: diziet , a PowerComputing
+PowerCenter 132 . That's a Macintosh clone (from the brief reign
+of Mac clones) with a 132 MHz PowerPC 604e processor. Diziet has
+300&#160;MB of RAM, and a variety of hard drives, one of which holds
+my primary operating system, Debian GNU/Linux . I also have a cool
+monitor, the Portrait
+Display Labs Pivot 1700 , whose coolest feature&#8212;pivoting between
+landscape and portrait mode&#8212;I can't actually use under Linux. 
+
+ The new machine, perosteck , is a shiny Apple Quicksilver G4 running Mac OS X . I'm using that machine
+more and more for web browsing and, of course, any image editing I
+need to do. diziet is still my main machine, however, as
+the text-editing and mail-reading options available for Mac OS X don't
+suit my needs and preferences just yet. 
+
+ It's also fair to say that I would feel guilty abandoning
+ diziet outright, and also that I feel much more
+comfortable with the power and flexibility offered by Debian's
+file-system layout and packaging system, for which there is no truly
+viable alternative for Mac OS X at this time. 
+
+ Other fun facts: I have a Kensington
+TurboMouse trackball on diziet (and a TurboMouse
+Pro on perosteck ), and listen to music with Harman Kardon SoundSticks . 
+
+ I usually sit on a PostureBall when
+working at my Ikea Effectiv
+desk . 
+
+ Me 
+
+ You can learn plenty about me by checking out my
+my blog (and maybe my work 
+section), but here's a brief summary: 
+
+ I'm a thirty-something generalist. My degree is in anthropology,
+but I've worked at archaeological sites, museums, nonprofit
+associations, computer startups, and as a freelance book editor. I
+love to read and listen to music; my other interests (really 
+on-again&#8211;off-again obsessions) vary widely and include (but are hardly
+limited to) archaeology, computers, folklore, geography, geology,
+history, modern art, particle physics, typography, and writing. 
+
+ I'm lucky enough to have found Melissa (AKA
+&#8220;M&#8221;), an amazingly cool individual with whom I joyously duel verbally,
+mentally, and emotionally every day. 
+
+ Questions? Problems? Complaints? 
+
+ Please e-mail questions, complaints, or corrections to c@eskimo.com . 
+
+ Badges of Distinction 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 1:43 PM PDT, Monday, September 22, 2003; last rendered at 
+ 9:22 PM PST, Sunday, November 30, 2003 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

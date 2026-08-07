@@ -1,0 +1,49 @@
+Perl Search Page 
+
+ Service temporarily unavailable, to make room on the server 
+
+ Search Perl Files 
+
+ -->
+
+ Search Term: 
+
+ ( Accepts some Regular Expressions ). 
+-->
+
+ Lines of context: 
+
+ Before: 
+
+ 0 
+ 1 
+ 2 
+ 4 
+ 6 
+ 8 
+ 10 
+ 12 
+ 14 
+ 18 
+ 20 
+ 40 
+
+ After: 
+
+ 0 
+ 1 
+ 2 
+ 4 
+ 6 
+ 8 
+ 10 
+ 12 
+ 14 
+ 18 
+ 20 
+ 40 
+
+ Sort Results: 
+ ( Ignored unless contexts = 0 ). 
+
+ Suggestions/Requests/Problem Reports to: ghawk@eskimo.com

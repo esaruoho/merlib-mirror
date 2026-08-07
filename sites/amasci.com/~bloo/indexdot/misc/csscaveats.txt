@@ -1,0 +1,64 @@
+Caveats 
+
+ Caveats 
+ = Index DOT Css by 
+ Brian Wilson = 
+
+ Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Site Reflects CSS2 Views 
+ The site reflects the point of view of the CSS2 Recommendation. Differences
+ between CSS1 and CSS2 are noted where they are known.
+ Site Design Using CSS1 
+ The site currently uses CSS for the majority of its rendering effects.
+ What this means is that all non-CSS browsers will see rather boring looking
+ pages, but the information and structure will all be intact. For CSS enabled
+ browsers, you can use the default stylesheet or choose another to use as the 
+ default.
+ Platform Information 
+ The information for this site concentrates predominantly on browsers
+ made for the Windows platform (win32 mostly.) There are often significant
+ differences in support between the various platforms, so the support and
+ version information here will not always be valid for respective
+ browser versions on different platforms.
+ Page Validation 
+ As of August 1999, I have spell-checked the entire site and validated
+ all of these pages against the HTML 4.0 "loose" DTD with the
+ W3C HTML Validation Service . I
+ will not do this very often, so as I add or update content along the
+ way and massage some of these pages it is possible that this may fall
+ out of date.
+ Slight Regression in HTML/CSS Support
+ in some browser betas 
+ Most browsers have historically only added support and functionality as time
+ progresses. But special cases have occurred. In the case of Microsoft
+ Internet Explorer 4.0, the rendering and parsing engine was re-built from scratch.
+ This led to a few idiosyncrasies between the betas of IE4 and the IE3 releases.
+ These cleared up by the final release, but I try to document these discrepancies
+ where known. Early versions of Netscape 6 also used a brand new rendering
+ engine, and support discrepancies also occured in this process too.
+ Inspiration/Source for Many Documented CSS
+ Bugs 
+ There are many resources on the Internet that also document CSS bugs in the
+ various browsers. In researching browser bugs, I consulted many of these
+ resources as well as creating my own test files. Here is a listing of
+ resources consulted, along with a heartfelt thanks to the authors for their
+ existence - browser makers seldom go out of their way to make bugs in
+ their products public. 
+
+ CSS Pointers Group's CSS Bugs and Workarounds 
+ Eric Meyer's CSS
+ Master Compatibility Chart at Webreview.com (now dr. dobbs journal.com)
+ Style Master's House
+ of Style resource
+ David Baron's CSS tests 
+ Stephan Nedregaard's CSS support in popular browsers (site now gone)
+ Braden McDaniel's Support for
+ CSS1 in MSIE 3.0, Win32 
+ Ian Graham's CSS
+ Bugs and Implementation Problems, with Workarounds 
+
+ Boring Copyright Stuff...

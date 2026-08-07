@@ -1,0 +1,87 @@
+---
+title: "'inverse varargs problem', take 1"
+source_domain: amasci.com
+source_path: ~scs/C-faq/varargs/invvarargs.19890604.html
+order: 7780
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T06:00:20Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# "inverse varargs problem", take 1
+
+*Source page: `~scs/C-faq/varargs/invvarargs.19890604.html`*
+
+\[This article was originally posted on June 4, 1989. I have altered the presentation slightly for this web page.\]
+
+From: scs@adam.pika.mit.edu (Steve Summit)\
+Newsgroups: comp.unix.wizards,comp.lang.c\
+Subject: Re: Needed: A (Portable) way of setting up the arg stack\
+Keywords: 1/varargs, callg\
+Message-ID: \<11830@bloom-beacon.MIT.EDU\>\
+Date: 4 Jun 89 16:43:52 GMT\
+References: \<708@mitisft.Convergent.COM\> \<32208@apple.Apple.COM\> \<10354@smoke.BRL.MIL\>
+
+In article \<708@mitisft.Convergent.COM\> Gregory Kemnitz writes:\
+\>I need to know how (or if) \*NIX (System V.3) has the ability to let\
+\>a stack of arguments be set for a function before it is called. I\
+\>have several hundred pointers to functions which are called from one\
+\>place, and each function has different numbers of arguments.
+
+A nice problem. Doug Gwyn's suggestion is the right one, for maximum portability, but constrains the form of the called subroutines and also any calls that do not go through the "inverse varargs mechanism." (That is, you can't really call the subroutines in question without building the little argument vector.)
+
+For transparency (at some expense in portability) I use a routine I call "`callg`," named after the VAX instruction of the same name. (This is equivalent to Peter Desnoyers' "`va_call`" routine; in retrospect, I like his name better.)
+
+`va_call` can be implemented in one line of assembly language on the VAX; it typically requires ten or twenty lines on other machines, to copy the arguments from the vector to the real stack (or wherever arguments are really passed). I have implementations for the PDP11, NS32000, 68000, and 80x86. (This is a machine specific problem, not an operating system specific problem.) A routine such as `va_call` *must* be written in assembly language; it is one of the handful of functions I know of that cannot possibly be written in C.
+
+Not all machines use a stack; some use register passing or other conventions. For maximum portability, then, the interface to a routine like `va_call` should allow the type of each argument to be explicitly specified, as well as hiding the details of the argument vector construction. I have been contemplating an interface similar to that illustrated by the following example:
+
+        #include "varargs2.h"
+
+        extern printf();
+
+        main()
+        {
+        va_stack(stack, 10);    /* declare vector which holds up to 10 args */
+
+        va_push(stack, "%d %f %s\n", char *);
+        va_push(stack, 12, int);
+        va_push(stack, 3.14, double);
+        va_push(stack, "Hello, world!", char *);
+
+        va_call(printf, stack);
+        }
+
+Note that this calls the standard `printf`; `printf` need take no special precautions, and indeed cannot necessarily tell that it has not been called normally. (This is what I meant by "transparency.")
+
+On a "conventional," stack-based machine, `va_stack` would declare an array of 10 `int`s (assuming that `int` is the machine's natural word size) and `va_push` would copy words to it using pointer manipulations analogous to those used by the `va_arg` macro in the current `varargs` and `stdarg` implementations. (Note that "declare vector which holds up to 10 args" is therefore misleading; the vector holds up to 10 words, and it is up to the programmer to leave enough slop for multi-word types such as `long` and `double`. The distinction between a "word" and an "argument" is the one that always comes up when someone suggests supplying a `va_nargs()` macro; let's not start that discussion again.)
+
+For a register-passing machine, the choice of registers may depend on the types of the arguments. For this reason, the interface must allow the type information to be retained in the argument vector for inspection by the `va_call` routine. This would be easier to be implement if manifest constants were used, instead of C type names:
+
+        va_push(stack, 12, VA_INT);
+        va_push(stack, 3.14, VA_DOUBLE);
+        va_push(stack, "Hello, world!", VA_POINTER);
+
+Since it would be tricky to "switch" on these constants inside the `va_push` macro to decide how many words of the vector to set aside, separate push macros might be preferable:
+
+        va_push_int(stack, 12);
+        va_push_double(stack, 3.14);
+        va_push_pointer(stack, "Hello, world!");
+
+(This option has the additional advantage over the single `va_push` in that it does not require that the second macro argument be of variable type.) There is still a major difficulty here, however, in that one cannot assume the existence of a single kind of pointer.
+
+For the "worst" machines, the full generality of C type names (as in the first example) would probably be required. Unfortunately, to do everything with type names you might want to do, you have to handle them specially in the compiler. (On the other hand, the machines that would have trouble with `va_push` are probably the same ones that already have to have the `varargs` or `stdarg` mechanisms recognized by the compiler.)
+
+Lest you think that `va_call`, if implementable, solves the whole problem, don't let your breath out yet: what should the return value be? In the most general case, the routines being indirectly called might return different types. The return value of `va_call` would not, so to speak, be representable in closed form.
+
+This last wrinkle (variable return type on top of variable arguments passed) is at the heart of a C interpreter that allows intermixing of interpreted and compiled code. I know how I solved it; I'd be curious to know how Saber C solves it. (I solved it with two more assembly language routines, also unimplementable in C. A better solution, to half of the problem, anyway, would be to to provide a third argument, a union pointer of some kind, to `va_call` for storing the return value.)
+
+I just whipped together [an implementation](#implementation) of the first example, which I have appended for your edification and amusement, as long as you have a VAX.
+
+[Steve Summit](http://www.eskimo.com/~scs/)\
+<scs@eskimo.com>
+
+<span id="implementation">\[The "implementation" consists of three files:\
+</span>[pf.c](pf.c) [varargs2.h](varargs2.h) [va_call.s](va_call.s)\]

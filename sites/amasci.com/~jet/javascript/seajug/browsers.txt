@@ -1,0 +1,14 @@
+What browsers support JavaScript? 
+
+ What browsers support JavaScript? 
+
+ Netscape Navigator 2.0 was first browser to support JavaScript (called LiveScript
+in early betas in late 95).
+ Netscape Navigator 3.0 supports an enhanced version called JavaScript 1.1
+ Microsoft Internet Explorer 3.0 on Win 95/NT supports a language 
+which resembles the JavaScript on Nav 2.0x, without JavaScript 1.1 features.
+ See this article on some of the differences.
+
+ Communication between Java and JavaScript 
+
+ Up to overview page

@@ -1,0 +1,90 @@
+JBM - Equations - Integration
+
+ [Bibliography] 
+ [Calculations] 
+ [Downloads] 
+ [Equations] 
+ [FAQ] 
+ [JBM] 
+ [Links] 
+ [MPM] 
+ [PM] 
+ [Personal] 
+ [Software] 
+
+ JBM - Equations - Integration
+
+ A number of people have asked how to integrate the equations of motion
+ with and still find the parameters of the trajectory at even yards (or 
+ meters). The trick is to change the variable of integration to a 
+ range variable instead of time. A list of variables are at the bottom of this
+ page.
+
+ Changing Variables of Integration
+
+ From the discussion on 
+ CD and KD , we know that the acceleration of
+ the bullet is 
+
+ a = - k v + g 
+
+ where
+
+ k = = p/p 0 G(m)/C
+
+ Rewrite the acceleration as a derivative
+
+ a = d u / dt = - k( u - w ) + g 
+
+ Define a coordinate system where y is the range variable, x and z
+ are perpendicular to the trajectory where x is to the shooters right
+ and z is up. Then rewrite the derivative d u / dt
+
+ a = d u / dt = (d u / dy) (dy/dt) = - k ( u - w )+ g 
+
+ But dy/dt is just the velocity in the y direction (down range) written
+ u y , then
+
+ d u / dy = - [ k ( u - w )+ g ]/ u y 
+
+ This equation now provides the vector acceleration of the bullet as a
+ function of range. Numerical integration in yard or meter increments
+ provides a convenient method for finding trajectory parameters at 
+ even increments.
+
+ Variables 
+
+ a 
+ total vector acceleration (d u /dt) 
+ v y 
+ Velocity in the y direction (down range) 
+
+ C 
+ ballistic coefficient 
+ C D 
+ drag coefficient 
+
+ g 
+ vector gravitational acceleration 
+ G 
+ "G" function 
+
+ m 
+ mach number 
+ v 
+ vector velocity, | v | = ( v v ) 1/2 
+ and v = u - w 
+
+ p 
+ atmospheric density 
+ p 0 
+ sea level atmospheric density 
+
+ w 
+ vector wind velocity 
+ u 
+ velocity of bullet relative to ground 
+
+ Last update 3 October 2004, Copyright &copy; 1996-2004
+ JBM 
+ [V]

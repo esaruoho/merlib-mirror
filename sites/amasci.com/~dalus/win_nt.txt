@@ -1,0 +1,61 @@
+Win NT Page 
+
+ Win NT Page 
+
+ Last Update: as of April 29, 1995 
+
+ FAQs
+
+ The Windows NT Internet FAQ . 
+
+ The Windows NT FAQ . 
+
+ Porting Windows NT to UNIX . 
+
+ The NASA Windows NT Information Page . 
+
+ The Windows NT University SupportCenter in Germany. 
+
+ The Baltimore/Washington NT users group. 
+
+ The NT Fax Faq . 
+
+ European Microsoft Windows NT Academic Centre (EMWAC) WWW server 
+
+ EMWAC's Internet Toolchest for Windows NT 
+
+ The Carnegie Mellon Windows NT WWW Server 
+
+ The latest Windows NT hardware compatability list 
+
+ Hypertext Index into Microsofts Knowledge Base
+
+ MS Knowledge Base Index 
+ Win NT Knowledge Base 
+ Bussys Knowledge Base 
+
+ FTP Sites
+
+ ftp.csusm.edu Windows NT Archives
+ winftp.cica.indiana.edu CICA Anonymous FTP Server 
+ CICA Mirror Sites:
+
+ archive.orst.edu (OR) 
+ ftp.cdrom.com (CA) 
+ ftp.marcam.com 
+
+ ftp.utas.edu.au Latest Trumpet
+WinSock 
+
+ ftp.qualcomm.com Latest Eudora PC mail reader 
+
+ titan.ksc.nasa.gov Latest WinVN newsreader 
+
+ ftp.NCSA.uiuc.edu Latest Mosaic WWW client 
+
+ ftp.mcom.com Netscape WWW Client 
+
+Windows Serial Port FAQ 
+
+ Back to TOC 
+ Back to TOP

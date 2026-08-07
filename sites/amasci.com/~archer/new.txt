@@ -1,0 +1,507 @@
+Many More Links From WE7U 
+
+ Many More Links From WE7U 
+
+Have any more links for me? Are some of the links listed here inactive?
+ E-Mail me to let me know.
+
+ Back to Curt's Home Page 
+
+Last update: April 23, 1999
+
+ Java Stuff : 
+
+ Java FAQ 
+ Java FAQ 
+ RMI FAQ 
+ Mailing list for RMI users 
+ Gamelan . Major Java site.
+ BlackDown . Linux JDK is here.
+ JavaSoft . Sun's Java site.
+ Sumatra Project. Efficient execution of mobile code 
+ Java World 
+ Java Persistence 
+ On-line RMI Tutorial 
+
+ Sound Card Links : 
+
+ Creative Connections, Rhythm soundfont (good steel string guitar and basses) 
+ Midi, FAQ's, etc 
+ AWE32 Explorer (sounds cool) 
+ Soundfonts 
+ SB32 Realtime Effects 
+ AST Tracker for AWE32, MP3 audio clips 
+ finegm.sbk: good 2MB soundfont 
+ Setting up SB32 (Linux?) 
+ , Tutorials for MIDI Users, MIDI/Audio under Windows 95, MPU-401 Info 
+ Isapnp Tookit Link 
+ Click on Engineering. Good 8MB SoundFont, 5MB GM Soundfont 
+ Beta version of AWE32 MIDI player for win95 
+ CoolEdit, converts wav to au 
+ Orchestrator Plus 
+ Conversion Utilities: convert, awave, esbeekay 
+ ??? 
+ ??? 
+ ??? 
+ ??? 
+ AWE32/64 Page 
+ ??? 
+ ??? 
+ Sprint software CD's with PAT files which are converted to SBK with convert.exe 
+ ??? 
+ 5MB SoundFont that several people recommend 
+ ??? 
+ $30.00 for 8 SoundFonts from 1MB to 8MB, supposed to be good, also SoundFont editor: Vienna SF Studio 2.0 
+ ??? 
+ ??? 
+ ??? 
+ ??? 
+ creative zone 
+ ??? 
+ AWE32 stuff, some SoundFonts as well. Koan X Silver (Free software) 
+ AWE 32 Info 
+ GOA sample on AST tracker for AWE 
+ Go to Muic/Soundcard section 
+ Sound Banks 
+ ??? 
+ ??? 
+ ??? 
+ ??? 
+ ??? 
+ ??? 
+ ??? 
+ ??? 
+ 'molti sft 
+ ??? 
+ Soundfont 
+ 8mb sfont 
+ ??? 
+ ??? 
+ ??? 
+ (keywords: ".sbk" or ".sf2" or "awe") 
+
+ PC Hardware : 
+
+ Mystique under NT Info? 
+ ??? 
+ ??? 
+ Zip Speed Info 
+ Local Shop 
+ PAL Systems is good for I/O cards 
+ Comparison of 3D Video Cards 
+ R534 = $175 
+ R534 = $149 
+ Alpha Stuff? 
+ Ram Price Index 
+ HW 
+ HW 
+ Prices on HW 
+ Local Dealer w/good prices: Cyrix P150+ w/mb $219, in Puget Sound Computer User 
+ PC Hardware 
+ Cyrix Upgrade Advice Guide 
+ Refurbished equipment 
+ PC Hardware 
+ PC Hardware page 
+ PC Video FAQ 
+ ??? 
+ Prices on the net 
+ Prices on the net 
+ Prices on the net 
+ Homebrew system help 
+ System Optimization Page 
+ Aztech Sound Cards 
+ PC Parts 
+ ??? 
+ ??? 
+ ??? 
+ Video Accelerator Page 
+ Computer Hardware Performance Site 
+ Motherboard Vendor 
+ Robert B. Odell Enterprises, 818-265-9876, MB/CPU/Memory Vendor. Answers lots of questions in comp.sys.intel, bodello@cris.com 
+ Motherboard/Memory Vendor 
+ Memory Vendor 
+ Memory Information 
+ Faq on memory 
+ Neutron 16MB 60ns EDO for $77 
+ ??? 
+ Memory Max, 1-800-378-3726 
+ Memory Vendor 
+ Memory Express, 818-333-6369 Memory Vendor 
+ Memory Vendor 
+ Memory Vendor 
+
+ NT-Related : 
+
+ Menu-driven text admin tool for NT 
+ MIX, a free X-server for NT 
+ ??? 
+ ??? 
+ PowerDesk 2.01, Virtual Desktop 
+ SOSSNT Freeware NFS 
+ NT remote admin tools 
+ Blurb on NTFS fragmentation 
+ Tape utility for NT 
+ SMS remote admin tool 
+ ??? 
+ ??? 
+ client-based server tools from Resource Kit, remote admin for NT 
+ Ntrique, remote admin for NT 
+ Remotely Possible (some people have had machines hang while running it), remote admin for NT 
+ PC Anywhere 7.5 (again one person reported some hangs), remote admin for NT 
+ Symark's PCDuo remote admin for NT 
+ Norton Defragger 
+ Defragger called diskeeper lite 
+ Kernel hotfix 
+ - Jim's Unofficial IOMega Page 
+ Unix vs NT Whitepaper by Bill Stout 
+ Automating getting mail from ISP using exchange 
+ NT Admin Book 
+ Dongle software 
+ NT Info, lists lots of FAQ's 
+ Vern, NT virtual window manager 
+ Perfect Screens, NT virtual window manager 
+ NT device driver development stuff 
+ Quickres-type program for NT 
+ Copies registry entries (NT) 
+ Updating NT to read HPFS drives 
+ WinRT and WinDK, support for NT direct port access 
+ ??? 
+ NT Winfax SW Preview, good for 5-12 months 
+ ??? 
+ NT Stuff 
+ Multi-Boot program for NT, edits boot.ini 
+ NT Shareware Site 
+ On-line NT Magazine 
+ NTFS Monitor 
+ FAX For NT4.0 
+ Support for FAX for NT4.0 
+ S3 Drivers for NT 
+ NT-NFS Coexistence 
+ How to add LILO to NT's boot manager 
+ regedt32 NT Registry Editor 
+ regsrch.exe NT Registry search program 
+ NT Fixes 
+
+ Windows Related : 
+
+ IMPvwm, Win95 virtual window manager 
+ Backing up Win95 to ZIP 
+ "Future of Windows" home page 
+ A/V Drive Info (for CD Recording?) 
+ Digital Audio Recording on PC 
+ Microsoft's Whisper C&C Engine and Speech SDK 
+ Fractal Compression Programs 
+ CD-ROM and Hard Drive Win95 Drivers 
+
+ NMEA Info : 
+
+ ??? 
+ ??? 
+ ??? 
+ ??? 
+
+ Linux Related : 
+
+ Booting Linux from NTloader 
+ ??? 
+ ??? 
+ DHCP server 
+ DHCP server 
+ Xfree86's Matrox project page 
+ How to use Mystique at 800x600 
+ XFree News on Mystique Port 
+ Linux Resource Site 
+ Linux Lab 
+ LINUX-LAB new address 
+ 488 driver for linux 
+ Win95 Interface to X 
+ List of Linux Apps 
+ Linux Gazette 
+ Linux Gazette 
+ Linux Threading FAQ 
+ Real-Time Linux 
+ Real-Time Linux 
+ rtlinux@luz.cs.nmt.edu Real-Time Linux E-Mail Address 
+ PPP Redialer Script 
+ Linux IP Firewall Administration 
+ Real-Time Linux, different approch 
+ FAQ on cross-platform development 
+ ELKS 
+ ELKS 
+ ELKS 
+ ELKS 
+ ??? 
+ GCC FAQ 
+ GCC FAQ 
+
+ GPS/Maps/Robotics Info : 
+
+ ??? 
+ ??? 
+ Robot Wars page 
+ Robot Wars Info 
+ CMOS cameras, ntsc, see in the dark also 
+ Car navigation 
+ Canadian DGPS Sites 
+ List of Gvcard, Jupiter(Zodiac chipset) & Microtracker) 
+ (Rockwell Collins ag VISION SYSTEM(tm), PLGR, MAGR, GEM, etc) 
+ (links to Rockwell Collins General Aviation & Air Transport GPS products) 
+ PS manufacturers 
+ quickcam-drivers-request@crynwr.com CCD mailing list 
+ USGS Topo map files 
+ Getting started with miniboard 
+ 3D Map stuff 
+ Homebrew sonar 
+ Homebrew sonar 
+ cher.media.mit.edu Archived info on Radio Shack tape measure, 1ft to 40ft, $25 
+ Robotic Lawnmower page 
+ DRG CD-ROM's 
+ Wincats program, reads DRG's and DOQ's 
+ Windows GPS, speaks/displays maps 
+ 3D mapping program 
+ Radio Modems 
+ Digital Topo Maps of certain areas 
+ Corona Imagery, free images 
+ Corona Imagery, free images 
+ Mapping program which runs on low-end PC's 
+ GPS Comm Program 
+ Nexus GPS Unit 
+ New/Reconditioned robots and automation equipment 
+ Robotic Arms 
+ GPS Software 
+ GPS 
+ ??? 
+ Delorme/GPS s/w add-ons 
+ Magellan: new 12-ch handheld, $200 
+ Moving Map System 
+ Eagle GPS Site 
+ Another Garmin page 
+ Laser Positioning (Galvos) 
+ Laser Positioning (Galvos) 
+ Robot intro site 
+ Robot Builder's Bonanza. Good book on robotics. 
+ Natural Resources Canada 
+ Unmanned Underwater Vehicle Society 
+ HP100/200 GPS S/W 
+ Walking machine 
+ Eagle Explorer, $199, 12/01/96, 12-channel parallel 
+ Lowrance Global nav 200, $250 
+ Java script to calculate distance 
+ 16 Servo control with HC11 
+ Servo controller 
+ New GPS Program, 19200, Com1 
+ NGS Data Sheet Locator 
+ NGS Data Sheet Locator 
+ Chris Ransome and Associates, GPS Surveying Info 
+ ??? 
+ ??? 
+ ??? 
+ ??? 
+ Weather Pictures 
+ Microsoft Automap Info 
+ Fuel Cell Info 
+ US DOE Page, Ballard Power Systems, Fuel Cell Info 
+ Fun Science Projects for Kids 
+ GPS Info 
+ GPS info 
+ Tilden Microcore (BEAM Robots) 
+ Rockwell Jupiter ISA card 
+ Program to control SA3 from NMEA messages 
+ They sell maps 
+ Predator Robots 
+ ICC11 Compiler, $98. Also have high speed DL s/w (115kbaud) 
+ ??? 
+ Lat/Long to UTM conversion info 
+ Lat/Long of locations to six decimal places 
+ Lat/Long of locations 
+ Rockwell Jupiter 12-channel OEM board &lt$200 
+ Rockwell MicroTracker LP 5-channel OEM board 
+ Canadian Marconi 12-channel OEM board 
+ New: Lowrance View 12-channel (Rockwell) 
+ New: Lowrance Navigator 12-channel &lt$200 (Rockwell) 
+ New: Eagle Explorer 12-channel $284 Canadian, lithium battery, 250 waypoints, 500 events, nickel-metal-hydride battery 
+ Robo-Soccer 
+ Chart plotting & up/download to Garmin 
+ GPStrans (Free Unix X11 program to talk to Garmin)
+ alex@brainstorm.eu.org has patched it to work on Linux 
+ Centre for Precision Farming 
+ Robot Warrior Info 
+ Robot Warrior Info 
+ ??? 
+ "Variation East, magnetic least. Variation West, magnetic best". 
+"If from TRUE to COMPASS is your quest, SUBRACT the EAST and ADD the WEST." 
+"Error East, Compass Least" 
+"East is least and West is best" 
+ Trimble Lassen-SK8 8 OEM Board 
+ Garmin Protocol 
+ Bot I and Bot II boards 
+ GPS Vendor? 
+ More GPS Info 
+ Basic intro to space program 
+ Autonomous Helicopter Project (differential-phase GPS) 
+ 2 different forths for hc11: tiny 4th (nonstandard) and eForth (standard) 
+ More Forth 
+ Online DEM's 
+ LCD Info 
+ Map projection page (datums) 
+ Practical Electronics Webzine 
+ Semiconductor Industry Listings (mostly fab of semi's) 
+ Program to receive HRPT satellite images 
+ University NAVSTAR Consortium 
+ Select GEODESY, calculates distance from lat and long 
+ Psigar 2.0 
+ PDOP Estimation 
+ Wide area DGPS service 
+ Robot 
+ GPS Signal Specs 
+ GPS Info 
+ DGPS Info 
+ Wireless Radio Links 
+ GPS Satellite Positions 
+ GPS Satellite Positions 
+ ??? 
+ GPS Satellite Positions 
+ GPS Predictor 
+ MIT GPS homepage 
+ GPS Info 
+ GPS Dealer 
+ Imagecraft C 
+ Kurt Konolige's C Compiler, Unix 
+ C Compilers for Micros 
+ Portable Navigator S/W 
+ Info on calculating distance between two points 
+ Project to allow Canadian students to control robots over the net 
+ Garmin connectors 
+ Mapping Company 
+ GPS Info 
+ GPS Info 
+ Datum Info 
+ Humanoid Robot Symposium 
+ Solarbotics 
+ Turbot 
+ Fuzzy Logic 'Bot 
+ BEAM 
+ WCRG Beam page 
+ Robotics Info 
+ DGPS Stations 
+ DGPS Info 
+ NMEA Decoding/Logging Software 
+ Trimble Dealer 
+ GPS Dealer, $259 for GPS-40 
+ ??? 
+ ??? 
+ ??? 
+ Phillips Semi 
+ PC Power supply from +12V source 
+ Sandia Labs National Info Infrastructure Paper 
+ National's site where you can request samples 
+ Federal Trade Commission 
+ Garmin GPSCOM 170 12 GPS/VHF Marine/NOAA Weather Receiver 
+ Sell Satellite Images 
+ NGS Database. Go to NGS Products. Can find info on survey monuments. 
+ U.S. Gazetteer 
+ Census Bureau's U.S. Gazetteer 
+ Map Info 
+ GPS Info? 
+ ??? 
+ ??? 
+ SuperCircuits (Web page somewhere) Integrated Camera/Transmitters & receivers 
+ LL2UTM and UTM2LL programs, direct.zip, inverse.zip 
+ Maps 
+ Geographic Name Server? 
+ ??? 
+ FTP'able Database 
+ Yale Geographic Location Server 
+ Steper Motor Control Info 
+ Stepper Motor Control Info 
+ HC11 code for 5 - 26 servos 
+ Servos (Futaba S-148 are $13.00 each in packs of 3) 
+ GPS Info 
+ Team Minus Zero Robot Warriors 
+ Urban Search & Rescue Robots 
+ Radio data link, RS232 w/error correction 
+ Robot Mechanical Part Sources 
+ HC11 Servo Code 
+ HC11 Servo Code 
+ HC11 Servo Code 
+ Novasoft, hc11 and Sharp GP1U58Y vendor 
+ HC11 boards 
+ GPS-130, 12VDC @ 150mA with backlight off, 1.8W 
+ ??? 
+ GPS Info 
+ VISTA mapping software, RMS Technology Inc, PO Box 249 - 124 Berkley Ave, Molalla, OR 97038, 
+ 1-800-533-3211, 72163.3342@compuserve.com. Will take any bitmap and use it with GPS. 
+ Lat-Long to Distance Formula 
+ Navtrek Demo Software, , doesn't save or talk NMEA 
+ Lowrance Global Map Sport has UTM, other newer ones may have it too. 
+ Electronics Goldmine, 1-800-445-0697 Ultrasonic Transducers, $4 
+ Miniboard Assembly Instructions 
+ CW Technology's home page (miniboards) 
+ Wirz Electronics (L293D Chips, other robotics) 
+ Radio links 
+ ??? 
+
+ Search Engines/Directories : 
+
+ Do-it-yourself legal services 
+ Patents/Trademarks 
+ Embedded Electronics Dir 
+ Where Did They Go database 
+ Ask an Engineer 
+ Archives & Searches of most newsgroups 
+ Web resources for EE's 
+ Micro master index: 
+ ??? 
+ ??? 
+ ??? 
+ ??? 
+ ??? 
+ ??? 
+ EE/CS Mother Site 
+ Search Engines 
+ ??? 
+ ElectroBASE (COBRO). Find electronic distributors.
+
+ Misc : 
+
+ Start / Settings /Control Panel / Add New Hardware / Next / No / Sound card game contollers / Microsoft /Game Joystick 
+ Joystick 
+ Win95 
+ Direct-X 3.0 
+ Wireless 
+ Win95 OSR2 FAQ Pages 
+ The virtual sysadmin 
+ ??? 
+ Programmer's File Editor (PFE) 
+ Seattle Times 
+ Battery Vendor 
+ How to add more PTY's to Solaris 
+ GLQuake & drivers, pre-release version 
+ Hides your IP address 
+ Library of Congress 
+ Learning Page 
+ Hostile Java Applets 
+ Music (supposed to be very good) 
+ Video perf data 
+ Sysadmin Resources 
+ Engineer's Identification Test 
+ Satellite Images of Entire Earth 
+ Hardware Vendors Search Engine 
+ Sun Managers Archive 
+ Ham Radio Web Page 
+ Scanning Info 
+ SCSI Tape Info 
+ Ham Radio FAQ 
+ DEC Alpha Machines 
+ DEC Alpha Machines 
+ Group buy of DEC Alpha Machines 
+ Ultimate Calculator 
+ SSH 
+ SSH Unix Server 
+ Tutorials for MIDI users, WIN95 
+ Alchemy: Project manager for HTML pages 
+ Flexedit 
+ Aardvark Pro 
+ Ken Nesbitt's WebEdit Pro (good if you don't know HTML as well) 
+ ??? 
+ Embedded Systems Magazine

@@ -1,0 +1,26 @@
+C Programming Notes 
+
+ C Programming Notes 
+
+ Intermediate C Programming
+Class Notes, Chapter 15
+
+Steve Summit
+
+ Chapter 15: User-Defined Data Structures 
+ Chapter 16: The Standard I/O (stdio) Library 
+ Chapter 17: Data Files 
+ Chapter 18: Miscellaneous C Features 
+ Chapter 19: Returning Arrays 
+ Chapter 20: More About the Preprocessor 
+ Chapter 21: Pointer Allocation Strategies 
+ Chapter 22: Pointers to Pointers 
+ Chapter 23: Two-Dimensional (and Multidimensional) Arrays 
+ Chapter 24: Pointers To Functions 
+ Chapter 25: Variable-Length Argument Lists 
+
+ Read Sequentially 
+
+This page by Steve Summit 
+// Copyright 1996-1999
+// mail feedback

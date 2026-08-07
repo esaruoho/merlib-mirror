@@ -1,0 +1,299 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+  <TITLE>
+    JBM - Equations - CD and KD
+  </TITLE>
+  
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+
+  <STYLE TYPE="text/css">
+    BODY { BACKGROUND: #FFFFFF; COLOR: #000000 } 
+    A:LINK { COLOR: #3333FF }
+    A:VISITED { COLOR: #666699 }
+    A:ACTIVE { COLOR: #CC00FF }
+    A:HOVER { COLOR: #FF3366 }
+  </STYLE>
+
+  <LINK REL="SHORTCUT ICON" HREF="http://www.eskimo.com/~jbm/graphics/jbm.ico">
+
+</HEAD>
+
+<BODY>
+
+<CENTER>
+  <TABLE>
+    <TR>
+      <TD><A HREF="../bibliography/bibliography.html">[Bibliography]</A>
+      <TD><A HREF="../calculations/calculations.html">[Calculations]</A>
+      <TD><A HREF="../downloads/downloads.html">[Downloads]</A>
+      <TD><A HREF="../equations/equations.html">[Equations]</A>
+      <TD><A HREF="../faq/faq.html">[FAQ]</A>
+      <TD><A HREF="../index.html">[JBM]</A>
+      <TD><A HREF="../links/links.html">[Links]</A>
+      <TD><A HREF="../mpm/mpm.html">[MPM]</A>
+      <TD><A HREF="../pm/pm.html">[PM]</A>
+      <TD><A HREF="../personal/personal.html">[Personal]</A>
+      <TD><A HREF="../software/software.html">[Software]</A>
+  </TABLE>
+</CENTER>
+
+
+<HR>
+
+<H1>
+  JBM - Equations - CD and KD
+</H1>
+
+<P>
+  This page attempts to explain the uses of the various quantities that
+  I have used in ballistics calculations, such as KD, G functions, CD, etc.
+  The equations here deal mainly with the acceleration of a bullet when 
+  treated as a point mass.  <A HREF="#REFERENCES">References</A> and
+  a list of <A HREF="#VARIABLES">variables</A> are at the bottom of this
+  page.
+</P>
+
+<H2>
+  Drag Force and Acceleration
+</H2>
+
+<P>
+  The force on the bullet due to drag, using K<SUB>D</SUB>, can be
+  given as:
+</P>
+
+<CENTER>
+  <B>F</B><SUB>D</SUB> = M <B>a</B><SUB>D</SUB> = 
+     -i K<SUB>D</SUB>(m) p d<SUP>2</SUP> | <B>v</B> | <B>v</B> 
+</CENTER>
+
+<P>
+  where K<SUB>D</SUB> is a function of mach number.  In terms of 
+  K<SUB>D</SUB>, the G function can be written as
+</P>
+
+<CENTER>
+  G(m) = K<SUB>D</SUB>(m) p<SUB>0</SUB> | <B>v</B> |
+</CENTER>
+
+<P>
+  so that the drag force on the bullet may be written as
+</P>
+
+<CENTER>
+  <B>F</B><SUB>D</SUB> = M <B>a</B><SUB>D</SUB> = 
+    -i p/p<SUB>0</SUB> G(m) d<SUP>2</SUP> <B>v</B>
+</CENTER>
+
+<P>
+  Defining the ballistic coefficient, C, as
+</P>
+
+<CENTER>
+  C = M/(i d<SUP>2</SUP>) = SD<SUB>M</SUB>/i
+</CENTER>
+
+<P>
+  [M is the mass, and not the weight -- to convert to the standard 
+  sectional density, multiply by g, the acceleration due to gravity] 
+  we can rewrite the previous equation in terms of the bullet 
+  acceleration, G function and C
+</P>
+
+<CENTER>
+  <B>a</B><SUB>D</SUB> = -p/p<SUB>0</SUB> G(m)/C <B>v</B>
+</CENTER>
+
+<P>
+  To find a trajectory, we have to sum all forces (and therefore all
+  the accelerations) on the bullet and integrate the resulting equation.  
+  For point mass trajectories, the only other force we need to account 
+  for is due to gravity:
+</P>
+
+<CENTER>
+  <B>a</B> = -p/p<SUB>0</SUB> G(m)/C <B>v</B> + <B>g</B>
+</CENTER>
+
+<P>
+  This expression can be integrated from the muzzle to the target
+  to obtain a three dimensional point mass trajectory.
+</P>
+
+<H2>
+  K<SUB>D</SUB> and C<SUB>D</SUB>
+</H2>
+
+<P>
+  In terms of the newer ballistic nomenclature, C<SUB>D</SUB>, we may
+  rewrite K<SUB>D</SUB> as
+</P>
+
+<CENTER>
+  C<SUB>D</SUB> = 8/pi K<SUB>D</SUB>
+</CENTER>
+
+<P>
+  so that the the equation for G is
+</P>
+
+<CENTER>
+  G(m) = pi/8 C<SUB>D</SUB>(m) p<SUB>0</SUB> | <B>v</B> |
+</CENTER>
+
+<P>
+  The acceleration of the bullet, due to drag, in terms of C<SUB>D</SUB> 
+  is
+</P>
+
+<CENTER>
+  <B>a</B><SUB>D</SUB> = 
+     -p pi/8 C<SUB>D</SUB>(m)/C | <B>v</B> | <B>v</B>
+</CENTER>
+
+<P>
+  NOTE: that in the preceding equation, the C<SUB>D</SUB> is that of the
+  "standard" bullet, for which K<SUB>D</SUB> was defined.
+</P>
+
+<P>
+  For the C<SUB>D</SUB> of the given bullet (as output in the Drag 
+  calculations, and McDrag program) 
+</P>
+
+<CENTER>
+  <B>a</B><SUB>D</SUB> = 
+     -p s C<SUB>D</SUB>(m)/(2 M) | <B>v</B> | <B>v</B>
+</CENTER>
+
+<P>
+  or plugging in for the cross sectional area (or reference area)
+</P>
+
+<CENTER>
+  <B>a</B><SUB>D</SUB> = 
+    -p pi d<SUP>2</SUP> C<SUB>D</SUB>(m)/(8 M) | <B>v</B> | <B>v</B>
+</CENTER>
+
+<P>
+  and finally with the sectional density
+</P>
+
+<CENTER>
+  <B>a</B><SUB>D</SUB> = 
+    -p pi/8 C<SUB>D</SUB>(m)/SD<SUB>M</SUB> | <B>v</B> | <B>v</B>
+</CENTER>
+
+<H2>
+  <A NAME="VARIABLES">Variables</A>
+</H2>
+
+<TABLE WIDTH="100%">
+  <TR> 
+    <TD> <B>a</B> </TD> 
+    <TD> total vector acceleration (d<B>u</B>/dt)</TD> 
+    <TD> <B>a</B><SUB>D</SUB> </TD> 
+    <TD> vector acceleration due to drag </TD> 
+  </TR>
+  <TR> 
+    <TD> C </TD> 
+    <TD> ballistic coefficient </TD> 
+    <TD> C<SUB>D</SUB> </TD> 
+    <TD> drag coefficient </TD> 
+  </TR>
+  <TR> 
+    <TD> d </TD> 
+    <TD> bullet diameter </TD> 
+    <TD> <B>F</B> </TD> 
+    <TD> vector drag force </TD> 
+  </TR>
+  <TR> 
+    <TD> <B>g</B> </TD> 
+    <TD> vector gravitational acceleration </TD> 
+    <TD> G </TD> 
+    <TD> "G" function </TD> 
+  </TR>
+  <TR> 
+    <TD> i </TD> 
+    <TD> form factor </TD> 
+    <TD> K<SUB>D</SUB> </TD> 
+    <TD> drag coefficient </TD> 
+  </TR>
+  <TR> 
+    <TD> m </TD> 
+    <TD> mach number </TD> 
+    <TD> M </TD> 
+    <TD> bullet mass </TD> 
+  </TR>
+  <TR> 
+    <TD> p </TD> 
+    <TD> atmospheric density </TD> 
+    <TD> p<SUB>0</SUB> </TD> 
+    <TD> sea level atmospheric density  </TD> 
+  </TR>
+  <TR> 
+    <TD> pi </TD> 
+    <TD> 3.14159... </TD> 
+    <TD> SD<SUB>M</SUB> </TD> 
+    <TD> sectional density (with mass)</TD> 
+  </TR>
+  <TR> 
+    <TD> s </TD> 
+    <TD> cross sectional area (pi d<SUP>2</SUP>/4) </TD> 
+    <TD> <B>v</B> </TD> 
+    <TD> vector velocity, | <B>v</B> | = (<B>v</B><B>v</B>)<SUP>1/2</SUP>
+         and <B>v</B> = <B>u</B> - <B>w</B>
+    </TD> 
+  </TR>
+  <TR> 
+    <TD> <B>w</B> </TD> 
+    <TD> vector wind velocity </TD> 
+    <TD> <B>u</B> </TD> 
+    <TD> velocity of bullet relative to ground</TD> 
+  </TR>
+</TABLE>
+
+<H2>
+  <A NAME="REFERENCES">References</A>
+</H2>
+
+<P>
+  <CITE>The Effect of Wind on Flat-Fire Trajectories</CITE>,
+  Robert L. McCoy, BRL Report Number 1900, Ballistic Research
+  Laboratories, Aberdeen Proving Ground, Maryland, August 1976, [ADB012872]
+</P>
+
+<P>
+  <CITE>Exterior Ballistics</CITE>,
+  McShane, Kelley and Reno, Univeristy of Denver Press, 1953.
+</P>
+
+<P>
+  <CITE>Exterior Ballistics of Small Arms Projectiles</CITE>,
+  E. D. Lowry, Research Dept., Winchester-Western Division, Olin 
+  Mathieson Chemical Corporation, May 4, 1965.
+</P>
+
+<P>
+  <CITE>Sierra Rifle Reloading Manual</CITE>,
+  4th Edition, Sierra Bullets, L.P., 1995.
+</P>
+
+<HR>
+
+<TABLE WIDTH="100%">
+  <TR ALIGN="RIGHT">
+    <TD ALIGN="RIGHT">
+      <SMALL>
+        Last update 3 October 2004, Copyright &copy; 1996-2004
+        <A HREF="mailto:jbm@eskimo.com">JBM</A>
+        <A HREF="http://www.htmlhelp.com/cgi-bin/validate.cgi?url=referer&amp;input=yes">[V]</A>
+      </SMALL>
+</TABLE>
+
+
+</BODY> 
+</HTML>

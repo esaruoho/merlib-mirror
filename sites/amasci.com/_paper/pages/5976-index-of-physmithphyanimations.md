@@ -1,0 +1,40 @@
+---
+title: "Index of /~physmith/PhyAnimations"
+source_domain: amasci.com
+source_path: ~physmith/PhyAnimations/index.html
+order: 5976
+reachable_from_entry: false
+images: 19
+internal_links: 1
+extracted: 2026-08-07T05:58:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Index of /~physmith/PhyAnimations
+
+*Source page: `~physmith/PhyAnimations/index.html`*
+
+# Index of /~physmith/PhyAnimations
+
+     Name                    Last modified       Size  Description
+
+     Parent Directory        08-Oct-2000 16:10      -  
+     a-angl.gif              28-Sep-1997 22:17     6k  
+     a-boysmi.gif            28-Sep-1997 22:18    12k  
+     a-dancr.gif             28-Sep-1997 22:18    19k  
+     a-glread.gif            28-Sep-1997 22:18    14k  
+     a-gread.gif             28-Sep-1997 22:19    15k  
+     a-grlcry.gif            28-Sep-1997 22:19    17k  
+     a-ligirl.gif            28-Sep-1997 22:19     7k  
+     a-pup.gif               28-Sep-1997 22:20    25k  
+     a-schoo.gif             28-Sep-1997 22:20    17k  
+     a-snoman.gif            28-Sep-1997 22:20    15k  
+     a_email.gif             28-Sep-1997 22:21     8k  
+     angelblu.gif            28-Sep-1997 22:21    23k  
+     ani-abc.gif             28-Sep-1997 22:21    15k  
+     eatappl.gif             28-Sep-1997 22:23    10k  
+     networkg.gif            28-Sep-1997 22:23    64k  
+     phyani.html             28-Sep-1997 22:24     2k  
+     swing3.gif              28-Sep-1997 22:25     8k  
+
+------------------------------------------------------------------------

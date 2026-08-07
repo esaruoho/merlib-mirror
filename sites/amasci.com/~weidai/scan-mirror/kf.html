@@ -1,0 +1,796 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+ "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Standard Cryptographic Algorithm Naming</title>
+  <style type="text/css">
+      UL.noindent { margin: 0 0 0 0 }
+      LI { padding: 0% 0% 1% 0% }
+      SPAN.error { color: red; font-weight: 600 }
+      SPAN.s { color: blue }
+      SPAN.p { color: green }
+      SPAN.x { color: red }
+      SPAN.a { color: purple }
+      A.s    { color: blue }
+      A.p    { color: green }
+      A.x    { color: red }
+      A.a    { color: purple }
+  </style>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link=blue vlink="#000077" alink="#FF0000">
+
+<h2>KeyFactory algorithms</h2>
+
+[TODO: Generic/OpenPGP, DH/ASN.1, DSA/ASN.1, ElgamalSig/ASN.1, NR/ASN.1, p-NEW/ASN.1, RW/ASN.1]
+
+
+<p><a name="Generic/ASN1"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">Generic/ASN.1</font> <td align=right>KeyFactory
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> For public keys, this KeyFactory uses the format of a BER or DER-encoded
+         SubjectPublicKeyInfo object, as defined in X.509 and RFC 1422 (and also given
+         in PKCS #6 appendix A.1):
+<pre>
+   SubjectPublicKeyInfo ::= SEQUENCE {
+       algorithm AlgorithmIdentifier,
+       subjectPublicKey BIT STRING
+   }
+
+   AlgorithmIdentifier ::= SEQUENCE {
+       algorithm OBJECT IDENTIFIER,
+       parameters ANY DEFINED BY algorithm OPTIONAL
+   }
+</pre>
+         The BIT STRING for 'subjectPublicKey' is generally a BER or DER
+         encoding of some algorithm-dependent type (e.g. RSAPublicKey for
+         RSA), which is converted to a bit string in the obvious way (i.e.
+         the most significant bit of the first octet becomes the first bit
+         of the string, etc.)
+         <p>
+         For private keys, the format is that of a BER or DER-encoded PrivateKeyInfo
+         object, as defined in PKCS #8 (section 6):
+<pre>
+   PrivateKeyInfo ::= SEQUENCE {
+       version Version,
+       privateKeyAlgorithm PrivateKeyAlgorithmIdentifier,
+       privateKey PrivateKey,
+       attributes [0] IMPLICIT Attributes OPTIONAL
+   }
+
+   Version ::= INTEGER
+
+   PrivateKeyAlgorithmIdentifier ::= AlgorithmIdentifier
+
+   AlgorithmIdentifier ::= SEQUENCE {
+       algorithm OBJECT IDENTIFIER,
+       parameters ANY DEFINED BY algorithm OPTIONAL
+   }
+
+   PrivateKey ::= OCTET STRING
+
+   Attributes ::= SET OF Attribute
+</pre>
+         The OCTET STRING for 'privateKey' is generally a BER or DER
+         encoding of some algorithm-dependent type (e.g. RSAPrivateKey for
+         RSA). 'version' is 0 for the current version of PKCS #8 (although
+         for forward compatibility, other values MUST be accepted on
+         input). The 'attributes' field is intended for information that
+         would not be considered part of a private key according to the SCAN
+         conventions, and therefore it SHOULD be ignored on input, and
+         omitted on output.
+         <p>
+         This format is not algorithm-specific, since the 'algorithm' field
+         of AlgorithmIdentifier specifies the key family, and therefore keys
+         from different families (e.g. RSA, DSA, etc.) can be unambiguously
+         distinguished.
+         <p>
+         Generic/ASN.1 SHOULD normally be implemented by expressing
+         the algorithm OID as a dot-separated string, then looking up an
+         algorithm-specific KeyFactory based on that string, e.g.
+         "1.2.3.4" if the OID is { 1 2 3 4 }. This allows new public key
+         algorithms to be added without having to change existing classes.
+         <p>
+         Output MUST be encoded as DER.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] S. T. Kent, J. Linn,<br>
+           "Privacy enhancement for Internet electronic mail: Part II:
+           Certificate-based key management,"<br>
+           <a href="ftp://ftp.isi.edu/in-notes/rfc1422.txt" target="_blank">
+           <cite>RFC 1422</cite></a>, February 1993.
+      <li> [<i>Def</i>] <cite>PKCS #6: Extended-Certificate Syntax Standard</cite>,<br>
+           An RSA Laboratories Technical Note,
+           Version 1.5. Revised November 1, 1993.<br>
+           <a href="ftp://ftp.rsa.com/pub/pkcs/ascii/pkcs-6.asc" target="_blank">
+           ftp://ftp.rsa.com/pub/pkcs/ascii/pkcs-6.asc</a>
+      <li> [<i>Def</i>] <cite>PKCS #8: Private-Key Information Syntax Standard</cite>,<br>
+           An RSA Laboratories Technical Note,
+           Version 1.2. Revised November 1, 1993.<br>
+           <a href="ftp://ftp.rsa.com/pub/pkcs/ascii/pkcs-8.asc" target="_blank">
+           ftp://ftp.rsa.com/pub/pkcs/ascii/pkcs-8.asc</a>
+      <li> [<i>Inf</i>] ITU-T Recommendation X.690 (1994), Information Technology -
+           <cite>ASN.1 Encoding Rules: Specification of Basic Encoding
+           Rules (BER), Canonical Encoding Rules (CER) and Distinguished
+           Encoding Rules (DER)</cite> (equivalent to ISO/IEC 8825-1: 1995).
+    </ul></dd>
+</dl>
+
+<p><a name="Generic/Base64-ASN1"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">Generic/Base64-ASN.1</font> <td align=right>KeyFactory
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> This factory uses the same underlying encoding as
+         <a href="#Generic/ASN1">Generic/ASN.1</a>, but converted to
+         a restricted set of ASCII characters using Base64 (RFC 2045).
+         <p>
+         Generic/Base64-ASN.1 should normally be implemented in the same
+         way as Generic/ASN.1, i.e. by expressing the algorithm OID as a
+         dot-separated string, then looking up an algorithm-specific KeyFactory
+         based on that string, e.g. "1.2.3.4" if the OID is { 1 2 3 4 }. This
+         allows new public key algorithms to be added without having to change
+         existing classes.
+         <p>
+         The encoding is an ASCII representation of the BER or DER data after
+         being converted to Base64 format, with the header line
+         <code>"-----BEGIN&nbsp;PUBLIC&nbsp;KEY-----"</code>,
+         and the trailer line <code>"-----END&nbsp;PUBLIC&nbsp;KEY-----"</code>.
+         On output, each line MUST end with CR&nbsp;LF, and there MUST be no more
+         than 72 ASCII characters per line, with no whitespace. On input,
+         whitespace and non-standard line endings MUST be ignored.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [see references for <a href="#Generic/ASN1">Generic/ASN.1</a>]
+      <li> [<i>Inf</i>] "Multipurpose Internet Mail Extensions (MIME) Part One,
+           Format of Internet Message Bodies,"<br>
+           <cite>RFC 2045</cite> Section 6.8 - Base64 Content-Transfer-Encoding.<br>
+           <a href="http://www.imc.org/rfc2045">http://www.imc.org/rfc2045</a>
+    </ul></dd>
+</dl>
+
+<p><a name="DH/OpenPGP"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">DH/OpenPGP</font> <td align=right>KeyFactory
+</tr></table>
+<dl>
+  <dt><b>Alias:</b>
+    <dd> "ElgamalEnc/OpenPGP"
+  <dt><b>Description:</b>
+    <dd> A KeyFactory for OpenPGP-encoded DH public and private keys, as
+         defined in RFC 2440. Version 4 key packets MUST be supported.
+         <p>
+         A version 4 packet contains:
+         <ul>
+           <li> A one-octet version number (4).
+           <li> A four-octet number denoting the time that the key was created
+                (unsigned number of seconds elapsed since midnight, 1 January 1970 UTC).
+           <li> A one-octet number denoting the public key algorithm of this key
+                (16 = Elgamal encrypt only, 20 = Elgamal encrypt or sign).
+           <li> A series of multi-precision integers comprising the key
+                material.  This algorithm-specific portion is:
+                <ul>
+                  <li> MPI of Elgamal prime <i>p</i>;
+                  <li> MPI of Elgamal group generator <i>g</i>;
+                  <li> MPI of Elgamal public key value <i>y</i> (= <i>g<sup>x</sup></i>
+                       where <i>x</i> is secret).
+                </ul>
+         </ul>
+         <p>
+         Implementations MAY ignore fields that are not considered part of
+         a public key according to SCAN conventions (for example, the creation
+         time). The version number field SHOULD be checked for correctness, and
+         the public key algorithm field MUST be 16 or 20.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Jon Callas, Lutz Donnerhacke, Hal Finney, Rodney Thayer<br>
+           "OpenPGP Message Format,"<br>
+           <a href="ftp://ftp.isi.edu/in-notes/rfc2440.txt" target="_blank">
+           <cite>RFC 2440</cite></a>, November 1998.
+    </ul></dd>
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> Since OpenPGP DH keys do not contain a specification of the order of the
+           subgroup generated by <i>g</i>, the key SHOULD NOT have an <code>order</code>
+           parameter. This will result in the exponent <i>k</i> used for encryption
+           being chosen from the range [1,&nbsp;<i>p</i>-1] (or possibly [2,&nbsp;<i>p</i>-2]),
+           which matches the behaviour of existing OpenPGP implementations.
+      <li> Despite the existence of algorithm number 20, designated as
+           "Elgamal (Encrypt or Sign)" in the OpenPGP spec, it is not guaranteed to
+           be valid to use this KeyFactory algorithm to create a public or private
+           key that will be used for Elgamal signatures
+           (<a href="sig.html#ElgamalSig">ElgamalSig</a>).
+           Instead, use an <a href="#ElgamalSig/OpenPGP">ElgamalSig/OpenPGP</a>
+           KeyFactory.
+    </ul></dd>
+  <dt><b>Security comment:</b>
+    <dd> Use of the same key pair for Elgamal signatures and encryption is not recommended.
+</dl>
+
+<p><a name="DSA/OpenPGP"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">DSA/OpenPGP</font> <td align=right>KeyFactory
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> A KeyFactory for OpenPGP-encoded DSA public and private keys, as
+         defined in RFC 2440. Version 4 key packets MUST be supported.
+         <p>
+         A version 4 packet contains:
+         <ul>
+           <li> A one-octet version number (4).
+           <li> A four-octet number denoting the time that the key was created
+                (unsigned number of seconds elapsed since midnight, 1 January 1970 UTC).
+           <li> A one-octet number denoting the public key algorithm of this key
+                (17 = DSA).
+           <li> A series of multi-precision integers comprising the key
+                material.  This algorithm-specific portion is:
+                <ul>
+                  <li> MPI of DSA prime <i>p</i>;
+                  <li> MPI of DSA group order <i>q</i> (<i>q</i> is a prime
+                       divisor of <i>p</i>-1);
+                  <li> MPI of DSA public key value <i>y</i> (= <i>g<sup>x</sup></i>
+                       where <i>x</i> is secret).
+                </ul>
+          </ul>
+         <p>
+         Implementations MAY ignore fields that are not considered part of
+         a public key according to SCAN conventions (for example, the creation
+         time). The version number field SHOULD be checked for correctness, and
+         the public key algorithm field MUST be 17.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Jon Callas, Lutz Donnerhacke, Hal Finney, Rodney Thayer<br>
+           "OpenPGP Message Format,"<br>
+           <a href="ftp://ftp.isi.edu/in-notes/rfc2440.txt" target="_blank">
+           <cite>RFC 2440</cite></a>, November 1998.
+    </ul></dd>
+</dl>
+
+<p><a name="ECDH/ASN1"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">ECDH/ASN.1</font> <td align=right>KeyFormat
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> A KeyFactory for BER or DER-encoded ECDH public and private keys. ECDH
+         keys are very similar to those for ECDSA, which is defined in X9.62.
+         The current X9.62 draft does not define specific types
+         for keys; however it states that a public key is represented using the
+         ECPoint type. There is no agreed type for private keys; this algorithm
+         name is reserved for whatever is eventually specified.
+         <p>
+         ECDH public keys may have either 'explicit', 'named' or 'implicit'
+         parameters:
+<pre>
+   Parameters ::= CHOICE {
+       ecParameters  ECParameters,
+       namedCurve    CURVES.&amp;id({CurveNames}),
+       implicitlyCA  NULL
+   }
+</pre>
+         If the parameters field of the algorithm identifier is of type
+         ECParameters (defined below), it specifies the explicit parameters.
+         If it is an OBJECT IDENTIFIER, it specifies a 'named' curve from
+         ANSI X9.62. If it is NULL, the parameters will be implicit; in this
+         case the key can only be used if an appropriate
+         AlgorithmParameterSpec object is passed to the algorithm object
+         when it is used.
+         <p>
+         The other ASN.1 types used in ECDH keys are:
+<pre>
+   ECParameters ::= SEQUENCE {
+       version INTEGER { ecpVer1(1) } (ecpVer1),
+           -- version is always 1
+       fieldID FieldID { {FieldTypes} },
+           -- the finite field over which the curve is defined
+       curve Curve,
+           -- coefficients a and b of the elliptic curve
+       base ECPoint,
+           -- the base point P on the elliptic curve
+       order INTEGER,
+           -- the order n of the base point
+       cofactor INTEGER OPTIONAL,
+           -- #E(Fq)/n (used in parameter validation)
+       ...
+   }
+
+   FieldElement ::= OCTET STRING
+
+   Curve ::= SEQUENCE {
+       a FieldElement,
+       b FieldElement,
+       seed BIT STRING OPTIONAL
+   }
+
+   ECPoint ::= OCTET STRING
+
+   FieldID { FIELD-ID:IOSet } ::= SEQUENCE {
+       fieldType FIELD-ID.&amp;id({IOSet}),
+       parameters FIELD-ID.&amp;Type({IOSet}{@fieldType}) OPTIONAL
+   }
+
+   FieldTypes FIELD-ID ::= {
+       { Prime-p IDENTIFIED BY prime-field } |
+       { Characteristic-two
+                 IDENTIFIED BY characteristic-two-field },
+       ...
+   }
+
+   FIELD-ID ::= TYPE-IDENTIFIER
+</pre>
+
+[Note: the above is effectively equivalent to either
+<pre>
+   FieldID ::= SEQUENCE {
+       fieldType OBJECT IDENTIFIER,
+       parameters Prime-p OPTIONAL
+           -- when fieldType = prime-field
+   }
+</pre>
+<em>or</em>
+<pre>
+   FieldID ::= SEQUENCE {
+       fieldType OBJECT IDENTIFIER,
+       parameters Characteristic-two OPTIONAL
+           -- when fieldType = characteristic-two-field
+   }
+</pre>
+according to the value of <code>fieldType</code>.]
+
+<pre>
+   ansi-X9-62   OBJECT IDENTIFIER ::= { iso(1) member-body(2) us(840) 10045 }
+   id-fieldType OBJECT IDENTIFIER ::= { ansi-X9-62 fieldType(1) }
+   prime-field  OBJECT IDENTIFIER ::= { id-fieldType 1 }
+   characteristic-two-field
+                OBJECT IDENTIFIER ::= { id-fieldType 2 }
+
+   Prime-p ::= INTEGER  -- Field size p (p in bits)
+
+   Characteristic-two ::= SEQUENCE {
+       m             INTEGER,  -- Field size 2^m (m in bits)
+       basis         CHARACTERISTIC-TWO.&amp;id({BasisTypes}),
+       parameters    CHARACTERISTIC-TWO.&amp;Type({BasisTypes}{@basis})
+   }
+
+   BasisTypes CHARACTERISTIC-TWO ::= {
+       { NULL        IDENTIFIED BY gnBasis } |
+       { Trinomial   IDENTIFIED BY tpBasis } |
+       { Pentanomial IDENTIFIED BY ppBasis },
+       ...
+   }
+
+   CHARACTERISTIC-TWO ::= TYPE-IDENTIFIER
+</pre>
+
+[The interpretation of the &amp;id and &amp;Type notation is similar to
+FieldID above. For example, for a Trinomial basis:
+<pre>
+   Characteristic-two ::= SEQUENCE {
+       m             INTEGER,  -- Field size 2^m (m in bits)
+       basis         OBJECT IDENTIFIER,
+       parameters    Trinomial -- when basis = tpBasis
+   }
+</pre>
+and similarly for Gaussian Normal and Pentanomial bases.]
+<p>
+<pre>
+   id-characteristic-two-basis OBJECT IDENTIFIER ::= {
+                      characteristic-two-field basisType(1) }
+
+   gnBasis OBJECT IDENTIFIER ::= { id-characteristic-two-basis 1 }
+   tpBasis OBJECT IDENTIFIER ::= { id-characteristic-two-basis 2 }
+   ppBasis OBJECT IDENTIFIER ::= { id-characteristic-two-basis 3 }
+</pre>
+
+A trinomial basis over GF(2<sup>m</sup>) with reduction polynomial
+<i>x<sup>m</sup></i> + <i>x<sup>k</sup></i> + 1, is represented as
+the integer <i>k</i>:
+
+<pre>
+   Trinomial ::= INTEGER
+</pre>
+<p>
+A pentanomial basis over GF(2<sup>m</sup>) with reduction polynomial
+<i>x<sup>m</sup></i> + <i>x</i><sup><i>k</i><sub>3</sub></sup>
+                     + <i>x</i><sup><i>k</i><sub>2</sub></sup>
+                     + <i>x</i><sup><i>k</i><sub>1</sub></sup> + 1,
+is represented as the integers <i>k</i><sub>1</sub>, <i>k</i><sub>2</sub>
+and <i>k</i><sub>3</sub> (in order, with smallest first):
+
+<pre>
+   Pentanomial ::= SEQUENCE {
+       k1 INTEGER,
+       k2 INTEGER,
+       k3 INTEGER
+   }
+</pre>
+         <p>
+         Output MUST be encoded as DER.
+  <dt><b>Aliases:</b>
+    <dd> "1.2.840.10045.2.1"
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] X9.62-199x (draft), <cite>Public Key Cryptography For The Financial
+           Services Industry: The Elliptic Curve Digital Signature Algorithm
+           (ECDSA)</cite>.
+      <li> [<i>Inf</i>] L. Bassham, D. Johnson, W. Polk,<br>
+           <cite>Internet X.509 Public Key Infrastructure: Representation of Elliptic
+           Curve Digital Signature Algorithm (ECDSA) Keys and Signatures in Internet
+           X.509 Public Key Infrastructure Certificates</cite>,<br>
+           October 1999 Internet draft.<br>
+           <a href="http://www.globecom.net/ietf/draft/draft-ietf-pkix-ipki-ecdsa-02.html" target="_blank">
+           http://www.globecom.net/ietf/draft/draft-ietf-pkix-ipki-ecdsa-02.html</a>
+    </ul></dd>
+  <dt><b>Patent status:</b>
+    <dd> [see <a href="kpg.html#ECDH">general elliptic curve patents</a>]
+</dl>
+
+<p><a name="ECDSA/ASN1"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">ECDSA/ASN.1</font> <td align=right>KeyFactory
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> A KeyFactory for BER or DER-encoded ECDSA public and private keys. ECDSA
+         is defined in X9.62. The current X9.62 draft does not define specific types
+         for keys; however it states that a public key is represented using the
+         ECPoint type. There is no agreed type for private keys; this algorithm
+         name is reserved for whatever is eventually specified.
+         <p>
+         ECDSA public keys may have either 'implicit' or 'explicit' parameters.
+         If the parameters field of the algorithm identifier is NULL, the parameters
+         will be implicit; otherwise this field is of type ECParameters (defined
+         below), and specifies the explicit parameters.
+         <p>
+         A key with implicit parameters can only be used if an appropriate
+         AlgorithmParameterSpec object is passed into the Signature object's
+         setParameter method.
+         <p>
+         The ASN.1 types used in ECDSA keys are the same as those given above
+         for <a href="#ECDH/ASN1">ECDH/ASN.1</a>. Output MUST be encoded as DER.
+  <dt><b>Aliases:</b>
+    <dd> "1.2.840.10045.2.1"
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] X9.62-199x (draft), <cite>Public Key Cryptography For The Financial
+           Services Industry: The Elliptic Curve Digital Signature Algorithm
+           (ECDSA)</cite>.
+      <li> [<i>Inf</i>] L. Bassham, D. Johnson, W. Polk,<br>
+           <cite>Internet X.509 Public Key Infrastructure: Representation of Elliptic
+           Curve Digital Signature Algorithm (ECDSA) Keys and Signatures in Internet
+           X.509 Public Key Infrastructure Certificates</cite>,<br>
+           October 1999 Internet draft.<br>
+           <a href="http://www.globecom.net/ietf/draft/draft-ietf-pkix-ipki-ecdsa-02.html" target="_blank">
+           http://www.globecom.net/ietf/draft/draft-ietf-pkix-ipki-ecdsa-02.html</a>
+    </ul></dd>
+  <dt><b>Patent status:</b>
+    <dd> [see <a href="kpg.html#ECDH">general elliptic curve patents</a>]
+</dl>
+
+<p><a name="ElgamalSig/OpenPGP"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">ElgamalSig/OpenPGP</font> <td align=right>KeyFactory
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> A KeyFactory for OpenPGP-encoded Elgamal public and private signature
+         keys, as defined in RFC 2440. Version 4 key packets MUST be supported.
+         <p>
+         A version 4 packet contains:
+         <ul>
+           <li> A one-octet version number (4).
+           <li> A four-octet number denoting the time that the key was created
+                (unsigned number of seconds elapsed since midnight, 1 January 1970 UTC).
+           <li> A one-octet number denoting the public key algorithm of this key
+                (20 = Elgamal encrypt or sign).
+           <li> A series of multi-precision integers comprising the key
+                material.  This algorithm-specific portion is:
+                <ul>
+                  <li> MPI of Elgamal prime <i>p</i>;
+                  <li> MPI of Elgamal group generator <i>g</i>;
+                  <li> MPI of Elgamal public key value <i>y</i> (= <i>g<sup>x</sup></i>
+                       where <i>x</i> is secret).
+                </ul>
+         </ul>
+         <p>
+         Implementations MAY ignore fields that are not considered part of
+         a public key according to SCAN conventions (for example, the creation
+         time). The version number field SHOULD be checked for correctness, and
+         the public key algorithm field MUST be 20.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Jon Callas, Lutz Donnerhacke, Hal Finney, Rodney Thayer<br>
+           "OpenPGP Message Format,"<br>
+           <a href="ftp://ftp.isi.edu/in-notes/rfc2440.txt" target="_blank">
+           <cite>RFC 2440</cite></a>, November 1998.
+      <li> [<i>Inf</i>] D. Bleichenbacher,<br>
+           "Generating ElGamal signatures without knowing the secret key,"<br>
+           <cite>Advances in Cryptology - EUROCRYPT '96 (corrected version)</cite>,
+           Volume 1070 of Lecture Notes in Computer Science, pp. 10-18.
+           Springer Verlag, 1996.<br> 
+           <a href="ftp://ftp.inf.ethz.ch/pub/publications/papers/ti/isc/ElGamal.ps" target="_blank">
+           ftp://ftp.inf.ethz.ch/pub/publications/papers/ti/isc/ElGamal.ps</a>
+    </ul></dd>
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> Despite the existence of algorithm number 20, designated as
+           "Elgamal (Encrypt or Sign)" in the OpenPGP spec, it is not guaranteed to
+           be valid to use this KeyFactory algorithm to create a public or private
+           key that will be used for Elgamal encryption
+           (<a href="ca.html#ElgamalEnc">ElgamalEnc</a>).
+           Instead, use an <a href="#DH/OpenPGP">DH/OpenPGP</a> (alias
+           ElgamalEnc/OpenPGP) KeyFactory.
+    </ul></dd>
+  <dt><b>Security comments:</b>
+    <dd><ul class=noindent>
+      <li> The paper by Bleichenbacher referenced above shows that if <i>g</i> has
+           only small prime factors, and if <i>g</i> divides the order of the group
+           it generates, then signatures can be forged. Implementations MAY reject
+           encoded keys that would be vulnerable to this attack (in Java, by throwing
+           an InvalidKeySpecException).
+      <li> Use of the same key pair for Elgamal signatures and encryption is not recommended.
+    </ul></dd>
+</dl>
+
+
+<p><a name="ESIGN/ASN1"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">&#215;&nbsp;<span class=x>ESIGN/ASN.1</span></font> <td align=right>KeyFactory
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Wei Dai (ASN.1 format),<br>
+         Eiichiro Fujisaki, Tatsuaki Okamoto (ESIGN)
+  <dt><b>Description:</b>
+    <dd> A KeyFactory for DER-encoded ESIGN public and private keys, as
+         defined in the IEEE P1363a draft standard. The ASN.1 public and
+         private key types are defined as follows:
+<pre>
+   ESIGNPublicKey ::= SEQUENCE {
+       modulus INTEGER, -- n = p*p*q
+       publicExponent INTEGER -- e
+   }
+
+   ESIGNPrivateKey ::= SEQUENCE {
+       modulus INTEGER, -- n = p*p*q
+       publicExponent INTEGER, -- e
+       prime1 INTEGER, -- p
+       prime2 INTEGER  -- q
+   }
+</pre>
+         Note that <i>n</i> is redundant in the private key.
+         <p>
+         The bit length of <i>n</i> MUST be a multiple of 3. That is,
+         there is an integer <i>k</i> such that
+         2<sup>3<i>k</i>&nbsp;-&nbsp;1</sup>&nbsp;&lt;&nbsp;n&nbsp;&lt;&nbsp;2<sup>3<i>k</i></sup>.
+         Also, <i>e</i> satisfies 8&nbsp;&lt;=&nbsp;<i>e</i>&nbsp;&lt;&nbsp;<i>n</i> and
+         is relatively prime to <i>n</i>.
+         <p>
+         For a private key, <i>n</i>&nbsp;=&nbsp;<i>p</i><sup>2</sup><i>q</i> and
+         2<sup><i>k</i>-1</sup>&nbsp;&lt;&nbsp;<i>p</i>,&nbsp;<i>q</i>&nbsp;&lt;&nbsp;2<sup><i>k</i></sup> MUST also
+         hold.
+         <p>
+         Output MUST be encoded as DER.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] IEEE,<br>
+           "Draft Standard Specifications for Public Key Cryptography Amendment 1: 
+            Additional Techniques,"<br>
+           <a href="http://grouper.ieee.org/groups/1363/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/index.html</a>
+      <li> [<i>Inf, An, Test, Impl, Patent</i>] Nippon Telegraph and Telephone
+           Corporation,<br>
+           <cite>ESIGN Signatures Homepage</cite>,<br>
+           <a href="http://info.isl.ntt.co.jp/esign" target="_blank">
+           http://info.isl.ntt.co.jp/esign</a> and<br>
+           <a href="http://www.nttmcl.com/sec/Esign/esign.html" target="_blank">
+           http://www.nttmcl.com/sec/Esign/esign.html</a>
+    </ul></dd>
+</dl>
+
+
+<p><a name="RSA/ASN1"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">RSA/ASN.1</font> <td align=right>KeyFactory
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> A KeyFactory for BER or DER-encoded RSA public and private keys, as
+         defined in X.509 and PKCS #1:
+<pre>
+   RSAPublicKey ::= SEQUENCE {
+       modulus INTEGER, -- n
+       publicExponent INTEGER -- e
+   }
+
+   RSAPrivateKey ::= SEQUENCE {
+       version Version,
+       modulus INTEGER, -- n
+       publicExponent INTEGER, -- e
+       privateExponent INTEGER, -- d
+       prime1 INTEGER, -- p
+       prime2 INTEGER, -- q
+       exponent1 INTEGER, -- d mod (p-1)
+       exponent2 INTEGER, -- d mod (q-1)
+       coefficient INTEGER -- (inverse of q) mod p
+   }
+
+   Version ::= INTEGER
+</pre>
+         The 'version' field in private keys is 0 for the current version of
+         PKCS #1 (although for forward compatibility, other values MUST be
+         accepted on input).
+         <p>
+         Output MUST be encoded as DER.
+  <dt><b>Aliases:</b>
+    <dd> "1.2.840.113549.1.1.1", "2.5.8.1.1"
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] <cite>PKCS #1: RSA Encryption Standard</cite>,<br>
+           An RSA Laboratories Technical Note,
+           Version 1.5. Revised November 1, 1993.<br>
+           <a href="ftp://ftp.rsa.com/pub/pkcs/ascii/pkcs-1.asc" target="_blank">
+           ftp://ftp.rsa.com/pub/pkcs/ascii/pkcs-1.asc</a>
+      <li> [<i>Inf</i>] Bruce Schneier,<br>
+           "Section 19.3 RSA,"<br>
+           <cite>Applied Cryptography, Second Edition</cite>,
+           John Wiley &amp; Sons, 1996.
+    </ul></dd>
+</dl>
+
+<p><a name="RSA/OpenPGP"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">RSA/OpenPGP</font> <td align=right>KeyFactory
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> A KeyFactory for OpenPGP-encoded RSA public or private keys,
+         as defined in RFC 2440. Version 4 key packets MUST be supported;
+         version 3 packets MAY be supported.
+         <p>
+         A version 3 packet contains:
+         <ul>
+           <li> A one-octet version number (3).
+           <li> A four-octet number denoting the time that the key was created
+                (unsigned number of seconds elapsed since midnight, 1 January 1970 UTC).
+           <li> A two-octet number denoting the time in days that this key is
+                valid. If this number is zero, then it does not expire.
+           <li> A one-octet number denoting the public key algorithm of this key
+                (1 = RSA encrypt or sign, 2 = RSA encrypt only, 3 = RSA sign only).
+           <li> A series of multi-precision integers comprising the key
+                material:
+                <ul>
+                  <li> MPI of RSA public modulus <i>n</i>;
+                  <li> MPI of RSA public encryption exponent <i>e</i>.
+                </ul>
+           <li> For private keys only:
+                <ul>
+                  <li> One octet indicating string-to-key usage conventions. 0
+                       indicates that the secret key data is not encrypted. 255
+                       indicates that a string-to-key specifier is being given.
+                       Any other value is a symmetric-key encryption algorithm
+                       specifier.
+                  <li> [Optional] If string-to-key usage octet was 255, a one-octet
+                       symmetric encryption algorithm.
+                  <li> [Optional] If string-to-key usage octet was 255, a
+                       string-to-key specifier. The length of the string-to-key
+                       specifier is implied by its type, as described above.
+                  <li> [Optional] If secret data is encrypted, an eight-octet
+                       Initialisation Vector (IV).
+                  <li> Encrypted multi-precision integers comprising the secret key
+                       data. These algorithm-specific fields are:
+                       <ul>
+                         <li> MPI of RSA secret exponent <i>d</i>.
+                         <li> MPI of RSA secret prime value <i>p</i>.
+                         <li> MPI of RSA secret prime value <i>q</i> (<i>p</i> &lt; <i>q</i>).
+                         <li> MPI of <i>u</i>, the multiplicative inverse of <i>p</i>, mod <i>q</i>.
+                       </ul>
+                  <li> Two-octet checksum of the plaintext of the algorithm-specific
+                       portion (sum of all octets, mod 65536, stored in the clear).
+                </ul>
+                <p>
+                Encryption/decryption of the secret data is done in CFB mode using
+                the key created from the passphrase and the Initialisation Vector from
+                the packet. A different mode is used with V3 keys (which are only RSA)
+                than with other key formats. With V3 keys, the MPI bit count prefix
+                (i.e., the first two octets) is not encrypted.  Only the MPI
+                non-prefix data is encrypted.  Furthermore, the CFB state is
+                resynchronized at the beginning of each new MPI value, so that the
+                CFB block boundary is aligned with the start of the MPI data.
+         </ul>
+         <p>
+         V3 keys SHOULD only be used for backward compatibility because of
+         various weaknesses (see security comments).
+         <p>
+         A version 4 packet contains:
+         <ul>
+           <li> A one-octet version number (4).
+           <li> A four-octet number denoting the time that the key was created
+                (unsigned number of seconds elapsed since midnight, 1 January 1970 UTC).
+           <li> A one-octet number denoting the public key algorithm of this key.
+           <li> A series of multi-precision integers comprising the key
+                material.  This algorithm-specific portion is:
+                <ul>
+                  <li> MPI of RSA public modulus <i>n</i>;
+                  <li> MPI of RSA public encryption exponent <i>e</i>.
+                </ul>
+           <li> For private keys only:
+                <ul>
+                  <li> One octet indicating string-to-key usage conventions. 0
+                       indicates that the secret key data is not encrypted. 255
+                       indicates that a string-to-key specifier is being given.
+                       Any other value is a symmetric-key encryption algorithm
+                       specifier.
+                  <li> [Optional] If string-to-key usage octet was 255, a one-octet
+                       symmetric encryption algorithm.
+                  <li> [Optional] If string-to-key usage octet was 255, a
+                       string-to-key specifier. The length of the string-to-key
+                       specifier is implied by its type, as described above.
+                  <li> [Optional] If secret data is encrypted, an eight-octet
+                       Initialisation Vector (IV).
+                  <li> Encrypted multi-precision integers comprising the secret key
+                       data. These algorithm-specific fields are:
+                       <ul>
+                         <li> MPI of RSA secret exponent <i>d</i>.
+                         <li> MPI of RSA secret prime value <i>p</i>.
+                         <li> MPI of RSA secret prime value <i>q</i> (<i>p</i> &lt; <i>q</i>).
+                         <li> MPI of <i>u</i>, the multiplicative inverse of <i>p</i>, mod <i>q</i>.
+                       </ul>
+                  <li> Encrypted two-octet checksum of the plaintext of the
+                       algorithm-specific portion (sum of all octets, mod 65536).
+                </ul>
+         </ul>
+         <p>
+         Implementations MAY ignore fields that are not considered part of
+         a public key according to SCAN conventions (for example, the creation
+         time, and for V3 keys the validity period). The version number field
+         SHOULD be checked for correctness, and the public key algorithm field
+         MUST be 1, 2, or 3.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Jon Callas, Lutz Donnerhacke, Hal Finney, Rodney Thayer<br>
+           "OpenPGP Message Format,"<br>
+           <a href="ftp://ftp.isi.edu/in-notes/rfc2440.txt" target="_blank">
+           <cite>RFC 2440</cite></a>, November 1998.
+      <li> [<i>Inf</i>] <cite>PKCS #1: RSA Encryption Standard</cite>,<br>
+           An RSA Laboratories Technical Note,
+           Version 1.5. Revised November 1, 1993.<br>
+           <a href="ftp://ftp.rsa.com/pub/pkcs/ascii/pkcs-1.asc" target="_blank">
+           ftp://ftp.rsa.com/pub/pkcs/ascii/pkcs-1.asc</a>
+      <li> [<i>Inf</i>] Bruce Schneier,<br>
+           "Section 19.3 RSA,"<br>
+           <cite>Applied Cryptography, Second Edition</cite>,
+           John Wiley &amp; Sons, 1996.
+    </ul></dd>
+  <dt><b>Security comments:</b>
+    <dd> V3 keys SHOULD only be used for backward compatibility because of
+         three weaknesses in them. First, it is relatively easy to construct
+         a V3 key that has the same key ID as any other key because the key
+         ID is simply the low 64 bits of the public modulus. Secondly,
+         because the fingerprint of a V3 key hashes the key material, but not
+         its length, which increases the opportunity for fingerprint
+         collisions. Third, there are minor weaknesses in the MD5 hash
+         algorithm that make developers prefer other algorithms.
+</dl>
+
+
+<hr size=3 noshade>
+<img src="cryptix-s.gif" alt="" align=right>
+
+<table><tr>
+  <td width=200>
+      <a target="_blank" href="http://validator.w3.org/check/referer"><img
+      src="vh40.gif" alt="Valid HTML 4.0" border=0 height=31 width=88></a>&nbsp;<a
+      target="_blank" href="http://jigsaw.w3.org/css-validator/check/referer"><img
+      src="vcss.gif" alt="Valid CSS" border=0 height=31 width=88></a>
+  <td valign=top>
+      <a href="intro.html#copyright">Copyright and trademarks</a>
+</tr></table>
+
+</body>
+</html>

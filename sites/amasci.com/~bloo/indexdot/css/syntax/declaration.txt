@@ -1,0 +1,93 @@
+Declaration Blocks - Cascading Style Sheets Syntax 
+
+ Declaration Blocks 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ What Are Declaration Blocks? 
+ Declaration Blocks begin with a left curly brace ('{') and end when a
+ matching right curly brace ('}') is reached. Between these braces lie
+ semi-colon separated style declarations.
+
+ A style declaration consists of a simple assignment: a CSS property is
+ given a specific value. This is the heart of CSS - the assignment of
+ rendering properties. A CSS property is followed by a colon character
+ (':'), which is followed in turn by a value appropriate to the property.
+ White space around all of these declaration components is optional.
+
+ Syntax: "{" [ space ]?
+ [ Property ] [ space ]? ":"
+ [ space ]? [ Value ]
+ [ space ]? "}" 
+ Example: 
+ { font-size: 14pt } 
+
+ Declaration Groupings 
+ CSS1 | CSS2 |
+ IE3 | N4 |
+ O3.5 
+ A Selector may be repeated multiple times in order to assign multiple
+ properties, or alternatively, multiple declarations can be lumped together
+ within a Declaration Block for the Selector in order to save space.
+ Multiple declarations are separated by semi-colon characters (';'), with
+ White space around the semi-colon being optional.
+
+ Example 
+
+ h1 { font-size: 14pt } 
+ h1 { color: green } 
+ h1 { font-weight: bold }
+
+ Becomes => 
+
+ h1 { 
+ font-size: 14pt; 
+ color: green; 
+ font-weight: bold 
+ } 
+
+ Shorthand Properties 
+ CSS1 | CSS2 |
+ IE3 | N4 |
+ O3.5 
+ Thankfully, the creators of CSS realize that there are a LOT of
+ properties, many of which accomplish similar tasks. Some CSS properties
+ exist to serve as a shorthand for specifying several other property/values
+ at once.
+
+ Example: 
+ { font: 
+ bold small-caps 12pt/14pt sans-serif } 
+ is the same as 
+ { font-weight: bold;
+ font-variant: small-caps;
+ font-size: 12pt;
+ line-height: 14pt;
+ font-family: sans-serif } 
+
+ CSS shorthand properties: 
+ Font |
+ Background |
+ List-style |
+ Outline |
+ Pause |
+ Cue |
+ Layout-grid |
+ Margin |
+ Padding 
+
+ Border |
+ Border-top |
+ Border-right |
+ Border-bottom |
+ Border-left |
+ Border-width |
+ Border-style |
+ Border-color 
+
+ Boring Copyright Stuff....

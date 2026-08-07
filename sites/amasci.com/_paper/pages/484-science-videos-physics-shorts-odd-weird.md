@@ -1,18 +1,18 @@
 ---
 title: "Science videos physics shorts: odd & weird"
 source_domain: amasci.com
-source_path: physvids/6.html
+source_path: physvids/7.html
 order: 484
 reachable_from_entry: true
 images: 3
-internal_links: 0
-extracted: 2026-08-03T18:12:19Z
+internal_links: 4
+extracted: 2026-08-07T05:53:43Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # Science videos physics shorts: odd & weird
 
-*Source page: `physvids/6.html`*
+*Source page: `physvids/7.html`*
 
 <table data-summary="nav links, google search window" width="100%">
 <colgroup>
@@ -30,7 +30,7 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td><strong><a href="http://amasci.com/">SCIENCE HOBBYIST</a>  |</strong><br />
+<td><strong><a href="http://amasci.com/" rel="nofollow">TOP</a>  |</strong><br />
 </td>
 <td><strong><a href="http://amasci.com/unew.html">GOOD STUFF</a>  |</strong><br />
 </td>
@@ -41,7 +41,9 @@ extractor: site_to_paper.py (pandoc)
 </tr>
 </tbody>
 </table></td>
-<td style="text-align: right;" data-valign="top"><div>
+<td style="text-align: right;" data-summary="google search" data-valign="top"><div id="google_translate_element">
+&#10;</div>
+<div>
 &#10;</div></td>
 </tr>
 </tbody>
@@ -49,19 +51,20 @@ extractor: site_to_paper.py (pandoc)
 
 <table data-summary="format two columns" width="100%">
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 </colgroup>
 <tbody>
 <tr>
 <td style="text-align: left;" width="180" data-valign="top" data-summary="google ad"><img src="http://amasci.com/graphics/vertstr7.gif" data-align="right" />
 <pre><code></code></pre></td>
 <td data-summary="spacer" width="25"> </td>
-<td data-valign="top" data-summary="bizarre science videos" width="660"><h1 id="odd-physics-video-archive">ODD PHYSICS VIDEO ARCHIVE<br />
+<td data-valign="top" data-summary="bizarre science videos" width="600"><h1 id="odd-physics-video-archive">ODD PHYSICS VIDEO ARCHIVE<br />
 </h1>
-<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/7.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/10.html">...10</a>   <a href="http://amasci.com/physvids/9.html">9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   6   <a href="http://amasci.com/physvids/5.html">5</a>   <a href="http://amasci.com/physvids/4.html">4</a>   <a href="http://amasci.com/physvids/3.html">3</a>   <a href="http://amasci.com/physvids/2.html">2...</a>   <a href="http://amasci.com/physvids/5.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
+<p>   <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/8.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/11.html">...11</a>   <a href="http://amasci.com/physvids/10.html">10</a>   <a href="http://amasci.com/physvids/9.html">9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   7   <a href="http://amasci.com/physvids/6.html">6</a>   <a href="http://amasci.com/physvids/5.html">5</a>   <a href="http://amasci.com/physvids/4.html">4</a>   <a href="http://amasci.com/physvids/3.html">3...</a>   <a href="http://amasci.com/physvids/6.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
 </p>
 <br />
 &#10;<hr />
@@ -76,8 +79,25 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-When draining a tank from below, it's wise to allow air to<br />
-enter from above
+Gasoline stench becomes visible. Also see more <a href="http://amasci.com/physvids/flir.html">MORE FLIR VIDEOS.</a><br />
+Hydrocarbons are strongly colored in long infrared.<br />
+If your FLIR camera is filtered to only see <a href="http://www.google.com/search?q=gasfindir">6,000nM light,</a><br />
+then <a href="http://www.youtube.com/watch?v=0kZ65cAcxEk">gasoline looks like ink</a> with black smoke pouring off.
+<pre><code>
+</code></pre>
+<hr />
+<div class="iframe">
+<div id="player">
+&#10;</div>
+<div class="player-unavailable">
+<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
+<div class="submessage">
+JavaScriptin suoritus ei onnistu.
+</div>
+</div>
+</div>
+<br />
+Fluidic standing wave!
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -92,10 +112,14 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-A dust-devil ...using giant dust!
+Swimming-pool reactor. The blue light is <a href="http://www.physics.upenn.edu/balloon/cerenkov_radiation.html">Cherenkov</a><br />
+radiation caused by particles moving faster than lightspeed<br />
+in water. Notice the remaining glow after the reaction<br />
+is quenched.
 <pre><code>
-&#10;</code></pre>
-<hr />
+</code></pre>
+<br />
+&#10;<hr />
 <div class="iframe">
 <div id="player">
 &#10;</div>
@@ -107,38 +131,10 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Remember "<a href="http://amasci.com/freenrg/ideas.html#blimp">rotating blimps hovercraft?</a>" Here's the airplane version
-<pre><code>
-&#10;</code></pre>
-<hr />
-<div class="iframe">
-<div id="player">
-&#10;</div>
-<div class="player-unavailable">
-<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
-<div class="submessage">
-JavaScriptin suoritus ei onnistu.
-</div>
-</div>
-</div>
-<br />
-Flying car, also <a href="http://www.youtube.com/watch?v=XFEOctt9-UE">Mythbusters' version</a>
-<pre><code>
-&#10;</code></pre>
-<hr />
-<div class="iframe">
-<div id="player">
-&#10;</div>
-<div class="player-unavailable">
-<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
-<div class="submessage">
-JavaScriptin suoritus ei onnistu.
-</div>
-</div>
-</div>
-<br />
-<a href="http://en.wikipedia.org/wiki/Steganography">Steganogram</a> image encoded in frequency. The shy Richard<br />
-James shows his "Face." (long)
+Crossed polarizers, with 2D "sand" made from poly-<br />
+carbonate disks. The force-chains in granular flow are made<br />
+visible. Notice the pattern at the very start, before the<br />
+black shutter is pulled away. Also <a href="http://www.youtube.com/watch?v=E5wwIm_qyRc">another</a>.
 <pre><code>
 &#10;</code></pre>
 <br />
@@ -154,9 +150,43 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Hovering amateur LOX rocketships (long)
+Where will incoming lightning touch down? Sometimes the<br />
+plasma streamer of the "stepped leader" moves fairly<br />
+smoothly. Any sharp object on the ground can launch<br />
+more streamers upwards. Also <a href="http://www.youtube.com/user/ztresearch#p/u/0/_1mB5rM8WHU">a clearer version</a>.
 <pre><code>
-&#10;
+&#10;</code></pre>
+<hr />
+<div class="iframe">
+<div id="player">
+&#10;</div>
+<div class="player-unavailable">
+<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
+<div class="submessage">
+JavaScriptin suoritus ei onnistu.
+</div>
+</div>
+</div>
+<br />
+Slowest bicycle trip: 2cm/hr.
+<pre><code>
+&#10;</code></pre>
+<hr />
+<div class="iframe">
+<div id="player">
+&#10;</div>
+<div class="player-unavailable">
+<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
+<div class="submessage">
+JavaScriptin suoritus ei onnistu.
+</div>
+</div>
+</div>
+<br />
+Not oxidation; instead <a href="http://www.google.com/search?q=tin+pest">two kinds of tin metal</a>. Back when<br />
+tin cans were actually made using tin, this effect could<br />
+destroy canned food stored below 56F. Also <a href="http://www.youtube.com/user/wwwperiodictableru#g/u">more</a>.
+<pre><code>
 </code></pre>
 <hr />
 <div class="iframe">
@@ -170,10 +200,9 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Visible sound waves during concert: synchronized cellphone flashes (long)
-<pre><code>
-&#10;
-</code></pre>
+Cloud Chamber made from a CPU Peltier cooler<br />
+&#10;<pre><code>
+&#10;</code></pre>
 <hr />
 <div class="iframe">
 <div id="player">
@@ -186,7 +215,8 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Automated music from 1906: The 'Telharmonium' (long)
+Growth from vapor. Nanotubes growing from "nuclei" can<br />
+push their growth nucleus along as they lengthen
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -201,96 +231,22 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Plasma in your microwave oven. Besides carbon fiber, also try<br />
-leads from mechanical pencils. Also try charred toothpicks<br />
-atop burning candles. Any salt grains stuck to the glass<br />
-ceiling will give intensely bright yellow light.
-<pre><code>
-&#10;</code></pre>
+Aerogel absorbs water?! Who knew!
 <hr />
-<div class="iframe">
-<div id="player">
-&#10;</div>
-<div class="player-unavailable">
-<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
-<div class="submessage">
-JavaScriptin suoritus ei onnistu.
-</div>
-</div>
-</div>
-<br />
-Generators generators generators. And induction motors.<br />
-Westinghouse plant, 1904. It's why Tesla was a millionaire.<br />
-See <a href="https://www.loc.gov/collections/films-of-westinghouse-works-1904/">film collection</a>, Lib. of Congress
-<pre><code>
-&#10;</code></pre>
-<hr />
-<div class="iframe">
-<div id="player">
-&#10;</div>
-<div class="player-unavailable">
-<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
-<div class="submessage">
-JavaScriptin suoritus ei onnistu.
-</div>
-</div>
-</div>
-<br />
-Weird "convection" effect of fluidized beads in a rotating<br />
-container
-<pre><code>
-&#10;</code></pre>
-<hr />
-<div class="iframe">
-<div id="player">
-&#10;</div>
-<div class="player-unavailable">
-<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
-<div class="submessage">
-JavaScriptin suoritus ei onnistu.
-</div>
-</div>
-</div>
-<br />
-The speed of sound in glass (speed of the cracks) is much<br />
-faster than the speed of sound in air.
-<pre><code>
-&#10;</code></pre>
-<hr />
-<div class="iframe">
-<div id="player">
-&#10;</div>
-<div class="player-unavailable">
-<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
-<div class="submessage">
-JavaScriptin suoritus ei onnistu.
-</div>
-</div>
-</div>
-<br />
-<a href="http://amasci.com/amateur/sundog.html">Thunderstorm, plus sundogs</a>, equals mysterious moving<br />
-lights in sky. Watch closely, you can see the lights flick<br />
-suddenly, then slowly shift as the e-field again builds up<br />
-before the next lightning. Also <a href="http://www.youtube.com/watch?v=1IAGE9f0K1Q">another</a>. It only takes<br />
-10v/inch to align the suspended ice crystals.
-<pre><code>
-&#10;</code></pre>
-<hr />
-<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/7.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/10.html">...10</a>   <a href="http://amasci.com/physvids/9.html">9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   6   <a href="http://amasci.com/physvids/5.html">5</a>   <a href="http://amasci.com/physvids/4.html">4</a>   <a href="http://amasci.com/physvids/3.html">3</a>   <a href="http://amasci.com/physvids/2.html">2...</a>   <a href="http://amasci.com/physvids/5.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
+<p>   <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/8.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/11.html">...11</a>   <a href="http://amasci.com/physvids/10.html">10</a>   <a href="http://amasci.com/physvids/9.html">9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   7   <a href="http://amasci.com/physvids/6.html">6</a>   <a href="http://amasci.com/physvids/5.html">5</a>   <a href="http://amasci.com/physvids/4.html">4</a>   <a href="http://amasci.com/physvids/3.html">3...</a>   <a href="http://amasci.com/physvids/6.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
 </p>
 <br />
-&#10;<table data-summary="google ad">
-<tbody>
-<tr>
-<td style="text-align: center;" data-summary="google ad"></td>
-<td> </td>
-</tr>
-</tbody>
-</table></td>
+</td>
+<td data-valign="top" data-summary="google ad"><div style="width:300px;height:260px;margin-left:10px;margin-top:160px;float:left;">
+&#10;</div></td>
 <td></td>
 </tr>
 </tbody>
 </table>
+
+|     |     |
+|:---:|-----|
+|     |     |
 
 <http://amasci.com/amateur/physvids.html>\
 Created and maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\

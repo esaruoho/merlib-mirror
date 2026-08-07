@@ -1,0 +1,81 @@
+Pitch-Range - Cascading Style Sheets Properties 
+
+ pitch-range 
+ Support Key: 
+ CSS2 
+ Other Aural Properties 
+
+ volume 
+ stress 
+ richness 
+ azimuth 
+ elevation 
+ voice-family 
+ speak 
+ speak-punctuation 
+ speak-numeral 
+ pitch 
+ speech-rate 
+ play-during 
+ pause 
+ pause-before 
+ pause-after 
+ cue 
+ cue-before 
+ cue-after 
+
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ 50 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ yes 
+ Applicable Media: 
+ Aural 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ Meaning and emphasis is created in most languages by varying the pitch
+ and inflection of the voice. This property specifies the degree of
+ variation from the average pitch of the voice being used to render the
+ content. A voice with a small pitch-range will sound monotone, while
+ a voice with high pitch range values will sound very animated.
+
+ Allowed Values 
+ inherit 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ [number] 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ An integer between '0' and '100'. A value of '0' produces a
+ monotone voice, while '50' would produce a normal inflection.
+ Pitch ranges greater than 50 create animated voices. 
+
+ Example 
+ Ext/Doc: strong {
+ pitch-range: 80 } 
+ In-Line:&#160; < strong 
+ STYLE =" pitch-range: 
+ 80">holy guacamole Batman!</ strong > 
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

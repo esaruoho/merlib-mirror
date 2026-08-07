@@ -1,0 +1,67 @@
+---
+title: "Bill W. Memorial Article in Seattle PI"
+source_domain: amasci.com
+source_path: ~burked/history/wgwmem1.html
+order: 1746
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:23Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bill W. Memorial Article in Seattle PI
+
+*Source page: `~burked/history/wgwmem1.html`*
+
+<span id="top"></span> <span id="top"></span>
+
+<div class="body">
+
+This article, by reporter George Foster, appeared in the February 15, 1971 Seattle Post-Intelligencer.
+
+------------------------------------------------------------------------
+
+## Seattle AA Remembers Founder 'Bill W.'
+
+The faces in the crowd — some showing the strain of harder times past, some bespectacled business types, others youthful — ran the gamut of the American experience.
+
+In another perspective, they were the faces of reclaimed lives from all walks of life.
+
+Seattle's members of Alcoholics Anonymous were gathered to honor and memorialize the cofounder of their organization.
+
+Bill W., whose real name was William G. Wilson, died of emphysema Jan 24 \[1971\] in New York. He helped to found AA in 1935 with Dr. Robert H. Smith.
+
+Wilson's 15-year battle with the bottle had washed him out of a successful career as a Wall Street broker before he "went sober " and started a group attack on alcoholism.
+
+"We know that many of us would be long dead and gone, had it not been for the founding of this organization," said one speaker at memorial services here at AA's 64-year-old meeting hall on East Pine Street.
+
+The crowd of more than 300 heard speakers reflect on the good works of Bill., who like all members of AA, use their first and initial of the last name to maintain anonymity.
+
+"Bill W. will never be gone as long as we do our job," said one man.
+
+Another speaker commented, "He is one of the gifted few who left the world in a different way than he found it."
+
+Wilson, who described himself as "just another guy named Bill who can't handle booze," wrote four books as a leader of AA since its founding, "Alcoholics Anonymous," "Twelve Steps and Twelve Traditions," "AA Comes of Age," and "The AA Way of Life."
+
+Some read excerpts from Wilson's works at yesterday's service.
+
+The meeting began with AA prayer and credo: "God grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference."
+
+Enlarged protraits of Wilson and Dr. Bob (Smith) flanked the stage of the second floor auditorium.
+
+Hearts and streams of red leaves were hung from the balcony of the square, gothic autorium\[sic\] reminding its inhabitants that it was Valentine's Day.
+
+Many of the women in the audience were decorated in red for the occasion.
+
+It was not a day of mourning.
+
+</div>
+
+------------------------------------------------------------------------
+
+|  |  |
+|----|----|
+| **\[ [To Top](#top) \]** | **\[ [Back to Home](http://www.eskimo.com/~burked) \]** |
+
+------------------------------------------------------------------------

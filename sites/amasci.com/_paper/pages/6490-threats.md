@@ -1,0 +1,29 @@
+---
+title: "Threats"
+source_domain: amasci.com
+source_path: ~rarnold/threats1.htm
+order: 6490
+reachable_from_entry: false
+images: 1
+internal_links: 8
+extracted: 2026-08-07T05:59:17Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Threats
+
+*Source page: `~rarnold/threats1.htm`*
+
+**<img src="cover.gif" width="619" height="30" alt="Center for the Defense of Free Enterprise" />\**
+**<a href="index.html" style="text-decoration: none">HOME</a>    <a href="issues.htm" style="text-decoration: none">ISSUES</a>    <a href="opposition.htm" style="text-decoration: none">OPPOSITION</a>    <a href="projects.htm" style="text-decoration: none">PROJECTS</a>    <a href="defenders.htm" style="text-decoration: none">DEFENDERS</a>    <a href="wiseuse.htm" style="text-decoration: none">WISE USE</a>    <a href="book_store.htm" style="text-decoration: none">BOOKSTORE</a>    <a href="archive.htm" style="text-decoration: none">ARCHIVE</a>**\
+ 
+
+**ENVIRONMENTALIST DEATH THREATS**
+
+Many death threats have come from environmentalists.
+
+**1/4/95**. Shaftesbury, Vermont. Anonymous postcard addressed to Danny Fryar, Catron County Manager, Horse Springs, New Mexico, angrily alleged that ranchers received subsidies in the form of lower grazing fees, saying it was criminal. The card said, Ill welcome the opportunity to confront you bastards and blow your fucking heads off and that goes for Zeno Kiehne, Betty Hyatt, James Catron, Kit Laney, Brut Stone, Richard Manning, Frank Nagol, Ed Cramer, Howard Hutchinson \[all county officials, association employees or ranching advocates\] and the rest of you sons of bitches. Fryar gave the card to the Catron County Sheriff, who gave it to the FBI for investigation. Fryar never heard from the FBI. Telephone Interview with Danny Fryar, October 15, 1996.
+
+9/6/94. Vancouver, British Columbia, Canada. Ranchers receive threats from Earth Firsters. A Vancouver-based Earth Firster using the pseudonym George Hayduke, after the character in Edward Abbeys The Monkey Wrench Gang, tells a reporter, Theres a war against the environmentwere soldiers in that war. Were going to cost the ranchers money. Were going to hurt them. Were going to punish them. The reporter, unaware that Hayduke was a pseudonym, wrote, Mr. Haydukes band of eco-warriors has begun a covert campaign of sabotage and intimidation against 10 ranchers he said are using a chemical called Compound 1080 to rid themselves of predators. Compound 1080 is applied only by government conservation officers when predators threaten livestock. Fence *cutting was reported by ranchers. Eco-group terrorists: Ranchers - Earth First! at war,* The Province, Tuesday, September 6, 1994, by Jason Proctor, p. A6.
+
+**10/28/94**. Vancouver, B. C., Canada. A self-proclaimed environmental group threatened to kill government lawyers and poison courthouses. A group calling itself the David Organization made the threats in a letter to Chief Justice Allan McEachern. The letter said unless the courts do something to save the environment it will kill us all, reported Bob Wright, Vancouver regional Crown counsel. It talks about executions of Crown counsel. They talked about poisoning the air system, that kind of stuff. B. C. Tightens Court Security, *Seattle Times,* Friday, October 28, 1994, by Seattle Times staff, p. B2.

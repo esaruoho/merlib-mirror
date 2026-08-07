@@ -1,0 +1,104 @@
+file: error_ax.txt
+date: Tue, 9 May 2000 23:09:43
+root: /u/u16/r/rmisaac/verify
+
+#------------------------------------------------------------
+# ERROR   18 missing named anchors (cross referenced)
+#------------------------------------------------------------
+FILE:/u/u16/r/rmisaac/public_html/cyber.htmlFILE
+    used in 2 files:
+    FILE:/u/u16/r/rmisaac/public_html/cyber.html
+    FILE:/u/u16/r/rmisaac/public_html/fun.html
+
+FILE:/u/u16/r/rmisaac/public_html/fun.htmlFILE
+    used in 3 files:
+    FILE:/u/u16/r/rmisaac/public_html/fun.html
+    FILE:/u/u16/r/rmisaac/public_html/pennpin.html
+    FILE:/u/u16/r/rmisaac/public_html/rmisaac.html
+
+FILE:/u/u16/r/rmisaac/public_html/gayjews.htmlFILE
+    used in 2 files:
+    FILE:/u/u16/r/rmisaac/public_html/gayjews.html
+    FILE:/u/u16/r/rmisaac/public_html/queer2.html
+
+FILE:/u/u16/r/rmisaac/public_html/israel.htmlFILE
+    used in 2 files:
+    FILE:/u/u16/r/rmisaac/public_html/israel.html
+    FILE:/u/u16/r/rmisaac/public_html/jewish.html
+
+FILE:/u/u16/r/rmisaac/public_html/jewish.htmlFILE
+    used in 7 files:
+    FILE:/u/u16/r/rmisaac/public_html/fun.html
+    FILE:/u/u16/r/rmisaac/public_html/gayjews.html
+    FILE:/u/u16/r/rmisaac/public_html/israel.html
+    FILE:/u/u16/r/rmisaac/public_html/jewish.html
+    FILE:/u/u16/r/rmisaac/public_html/news.html
+    FILE:/u/u16/r/rmisaac/public_html/rmisaac.html
+    FILE:/u/u16/r/rmisaac/public_html/travel.html
+
+FILE:/u/u16/r/rmisaac/public_html/lang.htmlFILE
+    used in 3 files:
+    FILE:/u/u16/r/rmisaac/public_html/israel.html
+    FILE:/u/u16/r/rmisaac/public_html/jewish.html
+    FILE:/u/u16/r/rmisaac/public_html/lang.html
+
+FILE:/u/u16/r/rmisaac/public_html/lovesex.htmlFILE
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/lovesex.html
+
+FILE:/u/u16/r/rmisaac/public_html/news.htmlFILE
+    used in 2 files:
+    FILE:/u/u16/r/rmisaac/public_html/news.html
+    FILE:/u/u16/r/rmisaac/public_html/seattle.html
+
+FILE:/u/u16/r/rmisaac/public_html/nwlghmp.htmlFILE
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/nwlghmp.html
+
+FILE:/u/u16/r/rmisaac/public_html/politics.htmlFILE
+    used in 4 files:
+    FILE:/u/u16/r/rmisaac/public_html/politics.html
+    FILE:/u/u16/r/rmisaac/public_html/queer.html
+    FILE:/u/u16/r/rmisaac/public_html/rmisaac.html
+    FILE:/u/u16/r/rmisaac/public_html/seattle.html
+
+FILE:/u/u16/r/rmisaac/public_html/queer.htmlFILE
+    used in 4 files:
+    FILE:/u/u16/r/rmisaac/public_html/politics.html
+    FILE:/u/u16/r/rmisaac/public_html/queer.html
+    FILE:/u/u16/r/rmisaac/public_html/queer2.html
+    FILE:/u/u16/r/rmisaac/public_html/travel.html
+
+FILE:/u/u16/r/rmisaac/public_html/queer2.htmlFILE
+    used in 3 files:
+    FILE:/u/u16/r/rmisaac/public_html/news.html
+    FILE:/u/u16/r/rmisaac/public_html/queer.html
+    FILE:/u/u16/r/rmisaac/public_html/queer2.html
+
+FILE:/u/u16/r/rmisaac/public_html/reference.htmlFILE
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/reference.html
+
+FILE:/u/u16/r/rmisaac/public_html/rmisaac.htmlFILE
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/rmisaac.html
+
+FILE:/u/u16/r/rmisaac/public_html/seaout.htmlFILE
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/seaout.html
+
+FILE:/u/u16/r/rmisaac/public_html/seattle.htmlFILE
+    used in 2 files:
+    FILE:/u/u16/r/rmisaac/public_html/queer.html
+    FILE:/u/u16/r/rmisaac/public_html/seattle.html
+
+FILE:/u/u16/r/rmisaac/public_html/startrek.htmlFILE
+    used in 2 files:
+    FILE:/u/u16/r/rmisaac/public_html/cyber.html
+    FILE:/u/u16/r/rmisaac/public_html/startrek.html
+
+FILE:/u/u16/r/rmisaac/public_html/travel.htmlFILE
+    used in 2 files:
+    FILE:/u/u16/r/rmisaac/public_html/jewish.html
+    FILE:/u/u16/r/rmisaac/public_html/rmisaac.html
+

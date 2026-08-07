@@ -1,3 +1,23 @@
+Mizuno Incandescent Cold Fusion 
+
+ Weird Science | 
+
+ COMMENTS | 
+
+ NEW STUFF | 
+
+ SEARCH 
+
+ Weird Research, Anomalous Physics 
+ MIZUNO INCANDESCENT COLD FUSION 
+
+LINKS
+
+ Replication by Little/Puthoff/Little 
+ Naudin's test 
+ CF by plasma electrolysis 
+ IE device update 
+
 FROM:
 
 Dr. Eugene F. Mallove, Editor-in-Chief
@@ -6,23 +26,23 @@ Cold Fusion Technology, Inc.
 PO Box 2816
 Concord, NH 03302
 
-	Phone: 603-228-4516
-	Fax:   603-224-5975
-        editor@infinite-energy.com
+ Phone: 603-228-4516
+ Fax: 603-224-5975
+ editor@infinite-energy.com
 
-		      http://www.infinite-energy.com
+ http://www.infinite-energy.com
 
 *********************************
 A word of WARNING right up front: This is potentially VERY DANGEROUS work
 and must not be done without maximum, safety precautions and supervision
-by those thoroughly versed in laboratory safety!  It involves
+by those thoroughly versed in laboratory safety! It involves
 high-temperatures, high-voltages, explosive mi xtures of oxygen and
 hydrogen, caustic solutions, and steam generation that if improperly
 contained could cause a deadly explosion. These are just the beginning
-hazards. This is unknown territory.  Drs. Ohmori and Mizuno measured the
+hazards. This is unknown territory. Drs. Ohmori and Mizuno measured the
 transmutation of elem ents in this experiment. Thus, until further notice
-^Ë and despite your possible skepticism about their claim of transmutation
-^Ë this work must be considered, by definition, nuclear experimentation. 
+^ and despite your possible skepticism about their claim of transmutation
+^ this work must be considered, by definition, nuclear experimentation. 
 With that said, we encourage every thoughtful group who can do this
 experiment safely to attempt it. Infinite Energy and Cold Fusion
 Technology, Inc. take no responsibility for the known or unknown radiation
@@ -74,7 +94,7 @@ doing weith charge clustgers and radioactivity reduction. This may,
 indeed, be related to the underwater electrolysis ability to remediate
 nuclear waste. But -- OF COURSE! -- NO *calorimetry* was done in 1950. No
 one had any idea that such simple systems could be O/U. The systems were
-studied for other reasons.  Further: the present tungsten effect is seen
+studied for other reasons. Further: the present tungsten effect is seen
 mainly on the cathode, but it can make the Pt anode incandescent too at
 lower water temperature (say 50 C) -- we normally work over 80 C. It is
 very mysterious -- was so to Kellogg in 1950 and remains so. 
@@ -83,7 +103,7 @@ very mysterious -- was so to Kellogg in 1950 and remains so.
 and volcanic ejection of metals from the tungsten surface -- these SEM
 photos were reproduced in their article. They find Hg, Os, Kr, Zn, Cu, Ni,
 Fe, Cr, Si, and Mg -- with anomalous isotopic content. Just as I said, in
-IE #15/16, this subject is more properly called ³Electro-Alchemy" 
+IE #15/16, this subject is more properly called Electro-Alchemy" 
 
 6. WARNING: Ohomori and Mizuno experienced significant apparent
 electromagnetic effects on their instruments. They were unsure whether
@@ -94,7 +114,7 @@ radiation, but of course it could be localized within the cell.
 
 Ohmori and Mizuno's paper at ICCF7: " Strong Excess Energy Evolution, New
 Element Production, and Electromagnetic Wave And/Or Neutron Emission in
-the Light Water Electrolysis with a Tungsten Cathode."  T. Ohmori and T.
+the Light Water Electrolysis with a Tungsten Cathode." T. Ohmori and T.
 Mizuno, Catalysis Research Center, H okkaido University
 
 Here is my recommended recipe for an experiment to demonstrate the effect: 
@@ -122,7 +142,7 @@ ingredients into the brew such as Li, and he has used a thicker cathode of
 
 5. Get a DC power supply up to 5 amps capacity and up to 200 volts. (I am
 eager to try beyond 180 volts, but we may need a concrete bunker before we
-try that! Eager also to try heavy water!)  You can use a variac AC source
+try that! Eager also to try heavy water!) You can use a variac AC source
 to make DC power-- use a bridge rectifier and capacitor to make DC from
 the AC output. Install voltage and current metering devices -- digital
 display preferred, data acquisition system if you want to get fancy on the
@@ -167,29 +187,29 @@ Other parameters that need to be explored:
 * Higher voltage
 
 * Can energy be extracted from the recycled water after steam condensation
-  or if Mills-type hydrinos are formed, do they become "inert"? 
+ or if Mills-type hydrinos are formed, do they become "inert"? 
 
 * Other electrolytes -- KCl also works, according to Thompson, try higher
-  molarity values
+ molarity values
 
 * Other metals
 
 * Pressurized systems -- BE CAREFUL!!!
 
 * Recombine oxygen and hydrogen -- but a very small part of the effect,
-  undoubtedly -- to get extra energy in the output
+ undoubtedly -- to get extra energy in the output
 
 * Try heavy water in various mixtures with light water
 
 * Detect electromagnetic pulse from the device -- if it is there as they
-  found in Japan
+ found in Japan
 
 * Examine the element production and non-natural isotope ratios formed
 
 * SEM imaging for morphology of craters
 
 * Look for radiation -- use film fogging techniques, CR-39 plastic
-  detectors, etc. 
+ detectors, etc. 
 
 This will keep a lot of people busy for a long time. As soon as we pin
 down the thermal characteristics a bit more, we and others well be
@@ -197,7 +217,6 @@ hell-bent to scale up to larger power-producing units -- with SAFETY FIRST
 as our motto. 
 
 **********
-
 
 This is a typical, very brief O/U investigation run that Ed Wall and I
 performed here recently in an uninsulated glass beaker on a metal surface
@@ -229,7 +248,50 @@ Ohmori and Mizuno did calorimatry on the last few mintues BEFORE boiling
 and compared the rate of temperature rise to that of a joule heater's
 effect on the same volume of electrolyte. That's how they got their 2.6/1.
 
-
 ****** See Infinite Energy #20 for more information in late July.
 
+BILL B's MUSINGS 
 
+I've seen an effect VERY like the stuff Mizuno is working with. It's
+called "the glowing pickle" demonstration, and is used as a sort of
+humerous lecture demo in physics classes. During the demo a pair of nails
+is inserted into a pickle... then is connected directly to 120VAC!!!!
+Yellow-colored electric arcs develop in the small gap between the metal
+surface and the salty pickle flesh. Similar effects occur if the 
+pickle is replaced with a block of agar filled with salt solution. 
+
+From observing "glowing pickle" I have some notes and suggestions. 
+First, the blue/violet color in the early stages of Mizuno's phenomenon is
+almost certainly caused by emission lines of potassium, since the "pickle"
+experiment gives off brilliant sodium-yellow light. Change the salt, and
+the emission color should change. Try strontium salts for red!
+
+Second: in the pickle experiment, the Liedenfrost effect appears as the
+metal electrodes heat up: the water cannot touch the metal because it
+instantly generates H2O gas (live steam.) But in this case the steam, as
+well as other ions from the electrolyte and the electrodes, participates
+in an electric arc. If the electrode is hot enough, there will be a
+constant gas-filled gap surrounding the metal. This being the case, the
+experiment could be sped up by using a blow-torch to pre-heat the centrl
+metal electrode to white hot incandescence before inserting it into the
+electrolyte. Too bad it's so difficult to perform experiments
+under weightless conditions. It would be very interesting to observe this
+system with convection removed from the picture. The gas-layer would not
+be swept upwards as steam bubbles. What would happen? Would the gas
+layer grow larger and the arc be quenched? Perhaps some thixotropic 
+substance could damp out the convection (replace the electrolyte with a 
+gel?) 
+
+Another variant: replace the small electrode with a large one, separate 
+the electrolyte into two insulated portions, then strike the arc between 
+fluid jets so the metal electrodes don't contaminate the arc plasma at 
+all. 
+
+Another: Mizuno's regulated DC... is it required? What happens if AC is
+used? Perhaps the system could be inexpensively powered directly from
+120VAC mains (or use a variac if other voltages are needed.)
+
+ /weird/anode.html 
+Created and maintained by Bill Beaty . Mail me at: billb@eskimo.com .
+
+If you are using Lynx, type "c" to email.

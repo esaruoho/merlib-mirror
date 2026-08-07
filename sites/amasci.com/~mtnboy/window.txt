@@ -1,0 +1,5 @@
+What's outside? 
+
+ Enter a City or US Zip: 
+
+ Your browser is unable to access our Java-based looping application. Please either enable the Java component within your browser or download a Java compliant version of your browser to view our looping radar and satellite images.

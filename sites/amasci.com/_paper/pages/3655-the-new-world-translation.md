@@ -1,0 +1,218 @@
+---
+title: "The New World Translation"
+source_domain: amasci.com
+source_path: ~jcw/jcw97.html
+order: 3655
+reachable_from_entry: false
+images: 2
+internal_links: 0
+extracted: 2026-08-07T05:56:56Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The New World Translation
+
+*Source page: `~jcw/jcw97.html`*
+
+<img src="rainbow.gif" width="576" height="4" alt="[rainbow]" />
+
+# The New World Translation
+
+<img src="rainbow.gif" width="576" height="4" alt="[rainbow]" />
+
+The following is a list of problems that we have found with the New world Translation. We do not claim this list to be complete, nor do we claim that all of the problems are doctrinally critical, but some are. In many instances the meaning of the Bible has been changed by apparently deliberate mistranslations, additions, or omissions. If anyone knows of any errors, mistranslations, loose paraphases, etc. that we have missed here, please let us know.
+
+The Watchtower Society has said much about their version of the Bible. On page 7 of the 1984 Reference Edition of the *New World Translation* we find:
+
+- "Paraphrases of the Scriptures are not offered."
+- "Uniformity of rendering has been maintained by assigning one meaning to each major word and by holding to that meaning as far as the context permits."
+- "A uniform system of modern punctuation is followed throughout."
+- "Single brackets \[ \] enclose words inserted to complete the sense in the English text."
+
+As you read this list, please keep in mind what the Watchtower itself said in the 1984 brochure, *The DIVINE NAME That Will Endure Forever* on page 5:
+
+- "If someone deliberately changes or omits part of the contents of the Bible, he is tampering with the inspired Word."
+
+The list is followed by a short tract we wrote a few years ago about one problem we found with the NWT.
+
+****
+
+Old Testament (Hebrew Scriptures)
+
+Genesis 10:9 - Hebrew word "pawneh" (before) mistranslated as "in opposition to". - see Hebrew text and lexicons.
+
+Exodus 31:17 - Hebrew word "owlam" (forever) mistranslated as "time indefinite". - see Hebrew text and lexicons.
+
+Numbers 1:52; 2:2; 2:3; 2:10; 2:17; 2:18; 2:25; 2:31; 2:34; 10:14; 10:18; 10:22; 10:25 - Hebrew word "degel" (standard, flag) replaced with "\[three-tribe\] division." - See Hebrew text and lexicons.
+
+Deuteronomy 9:23 - Word "exercise" is added. - See Hebrew text and lexicons.
+
+2 Kings 17:14; Psalms 119:66 - Word "exercised" is added. - See Hebrew text and lexicons.
+
+Psalms 56:4; 56:10 (twice); Isaiah 45:14; 45:17; Jeremiah 12:3 - Hebrew word for "in" paraphrased as "in union with". - See Hebrew text and lexicons.
+
+Psalms 96:4 - Word "other" is added. - See Hebrew text and lexicons.
+
+Isaiah 28:16 - Word "exercising" is added. - See Hebrew text and lexicons.
+
+Jeremiah 10:10 - Hebrew phrase "Jehovah is the true God" paraphrased as "Jehovah is in truth God". - See Hebrew text and lexicons.
+
+Daniel 7:27 - Hebrew "will be" mistranslated as "were". - See Hebrew text and lexicons.
+
+Daniel 7:27 - Hebrew "his" mistranslated as "their". - See Hebrew text and lexicons.
+
+Zechariah 3:2 - Words "the angel of" added. - See Hebrew text and lexicons.
+
+Zechariah 12:10 - Hebrew word for "on me" mistranslated as "the One". - See Hebrew text and lexicons.
+
+****
+
+New Testament (Christian Greek Scriptures)
+
+Matthew 1:20; 2:13; 2:19; 21:9; 28:2; Mark 11:9; Luke 1:11; 1:38; 2:9 (twice); 2:23; 4:18; 4:19; 5:17; 13:35; 19:38; John 12:13; Acts 5:19; 7:31; 8:26; 8:39; 12:7; 13:11; Romans 11:34; 1 Thessalonians 4:15; 5:2; 2 Peter 3:10 - Greek word "Kuriou" ("of Lord," or "Lord's") mistranslated as "Jehovah's". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Matthew 1:22; 1:24; 2:15; 3:3; 21:42; Mark 1:3; 12:11; Luke 1:6; 1:9; 1:15; 1:45; 1:66; 1:76; 2:24; 2:26; 2:39; 3:4; John 1:23; 12:38; Acts 2:20; 2:21; 3:19; 4:26; 5:9; 8:22; 8:25; 9:31; 10:33; 11:21; 12:23; 12:24; 13:10; 13:12; 13:49; 15:35; 15:36; 15:40; 18:25; 19:20; Romans 10:13; 1 Corinthians 10:21; 10:26; 11:32; 16:10; 2 Corinthians 3:17 (twice); 3:18 (twice); 8:21; Ephesians 5:17; 6:4; 6:8; Colossians 1:10; 3:24; 1 Thessalonians 1:8; 2 Thessalonians 2:2; 2:13; 3:1; Hebrews 12:5; James 1:7; 4:10; 5:4; 5:10; 5:11 (twice); 5:14; 1 Peter 1:25; 3:12 - Greek word "Kuriou" ("of Lord," or "Lord's") mistranslated as "Jehovah". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Matthew 4:4; James 2:23 - Greek word "Theou" ("of God," or "God's") mistranslated as "Jehovah's". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Matthew 4:7; 4:10; 22:37; Luke 1:16; 1:46; 4:8; 4:12; 10:27; 20:37; Acts 2:25; 8:24; 15:17; Romans 15:11; 1 Corinthians 10:9; 10:22; 2 Corinthians 3:16; Colossians 3:22; Hebrews 8:11; James 3:9; - Greek word "Kurion" ("Lord") mistranslated as "Jehovah". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Matthew 5:33; Luke 1:17; 2:22; 2:23; Acts 13:2; 14:3; 14:23; 16:15; Romans 12:11; 14:4; 1 Corinthians 2:16; 2 Corinthians 10:17; Ephesians 2:21; 5:19; 6:7; Colossians 3:23; 2 Peter 2:11; 3:8; - Greek word "Kurio" ("Lord") mistranslated as "Jehovah". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Matthew 10:32 (twice); Luke 12:8 (twice); John 6:56; 10:38; 14:10 (three times); 14:11 (twice); 14:20 (three times); 15:4 (three times); 15:5 (twice); 15:6; 15:7; John 17:21 (three times); 17:23 (twice); 17:26; Romans 8:1; 8:2; 8:10; 12:5; 16:7; 1 Corinthians 1:2; 1:30; 15:18; 16:24; 2 Corinthians 5:17; 12:2; 13:5; Galations 1:22; 2:4; 2:20; 3:28; 5:10; Ephesians 1:1; 1:3; 1:4; 1:11; 2:6; 2:7; 2:10; 2:13; 2:15; 2:21; 2:22; 3:6; 6:1; Philippians 1:1; 3:9; 4:21; Colossians 1:2; Colossians 1:27; 1:28; 2:6; 3:3; 1 Thessalonians 1:1; 2:14; 4:16; 5:18; 2 Thessalonians 1:1; 1:12; 2 Timothy 1:1; 2:10; Philemon :23; 1 Peter 5:10; 5:14; 1 John 1:5; 2:5; 2:6; 2:24; 2:27; 2:28; 3:6; 3:24 (three times); 1 John 4:4 (twice); 4:13 (twice); 4:15 (twice); 4:16 (twice); 5:20; Revelation 14:13 - Greek word "en" ("in") paraphrased as "in union with". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Matthew 22:44; 27:10; Mark 5:19; 12:29; 12:30; 12:36; 13:20; Luke 1:25; 1:28; 1:32; 1:58; 1:68; 2:15; 20:42; Acts 2:34; 2:39; 2:47; 3:22; 7:33; 7:49; 12:11; 12:17; 13:47; Romans 4:8; 9:28; 9:29; 12:19; 14:11; 1 Corinthians 1:31; 3:20; 4:4; 4:19; 7:17; 14:21; 16:7; 2 Corinthians 6:17; 6:18; 10:18; Colossians 3:13; 1 Thessalonians 4:6; 2 Timothy 1:18; 2:19 (twice); 4:14; Hebrews 7:21; 8:2; 8:8; 8:9; 8:10; 10:16; 10:30; 12:6; 13:6; James 4:15; 5:15; 2 Peter 2:9; 3:9; Jude :5, 9, 14; Revelation 1:8; 4:11; 18:8; 19:6; 21:22; 22:5; 22:6 - Greek word "Kurios" ("Lord") mistranslated as "Jehovah". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Matthew 23:39 - Greek word "Kurios" ("Lord") mistranslated as "Jehovah's". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Mark 5:36; John 3:18; 6:29; 12:36; 14:1 (twice); Romans 10:9; 2 Corinthians 4:13; 1 Peter 1:8 - The English word "exercise" is added with no basis in the Greek text - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+John 1:12; 3:16; 7:5; 16:9; Romans 10:4; Galations 3:22; 1 Peter 2:6 - The English word "exercising" is added with no basis in the Greek text - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+John 3:18; Romans 4:3; 2 Corinthians 4:13; 2 Thessalonians 1:10; Hebrews 4:3 - The English word "exercised" is added with no basis in the Greek text - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+John 3:18; 3:36; 6:35; 6:40; 11:25; 11:26; 14:12; Romans 10:10 - The English word "exercises" is added with no basis in the Greek text - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+John 6:45 - Greek word "Theou" ("of God," or "God's") mistranslated as "by Jehovah". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+John 8:58 - Greek words "ego eimi" ("I am") mistranslated as "I have been" - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+John 12:38; Acts 1:24; 4:29; 7:60; Romans 10:16; 11:3; 14:6 (three times); 14:8 (three times); Revelation 11:17; 15:3; Revelation 15:4; 16:7 - Greek word "Kurie" ("to Lord") mistranslated as "Jehovah". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+John 14:14 - Word "me" is omitted - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+John 17:3 - Greek verb "ginoskosin" ("to know, intimately) mistranslated as "taking in knowledge of". - See *Kingdom Interlinear Translation*, Greek text and lexicons. (Compare this with the same verb used at Matthew 1:25, which the *New World Translation* renders sexual "intercourse.")
+
+Acts 2:42 - Greek words "klasei tou artou" ("breaking of the bread") mistranslated as "taking of meals". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+- The only reason apparent for this change is to mask the fact that the Apostles and the early church took communion or "The Lord's Evening Meal" more often than once a year. By returning this and other texts to a literal translation of the Greek, we can notice that communion was taken weekly, and sometimes even daily.
+
+Acts 2:46 - Greek words "klontes arton" ("breaking bread") mistranslated as "took meals". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+- See explanation under Acts 2:42, above.
+
+Acts 13:44; 13:48; 16:32; 18:21; 2 Peter 3:12 - Greek word "Theou" ("of God," or "God's") mistranslated as "Jehovah". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Acts 16:14 - Greek word "Theon" ("God") mistranslated as "Jehovah". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Acts 20:7 - Greek words "klasei arton" ("break bread") mistranslated as "have a meal". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+- See explanation under Acts 2:42, above.
+
+Acts 20:28 - The English word "Son" is added in brackets without any support in the Greek text. - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+- NOTE: This is quoted without the brackets in *Organized to Accomplish Our Ministry*, 1983 and 1989 editions, p. 24
+
+Romans 4:3; Galations 3:6; Colossians 3:16; James 2:23 - Greek word "Theo" ("God") mistranslated as "Jehovah". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+1 Corinthians 10:4 - The Greek phrase, "he petra de en ho Kristos" ("and the rock was Christ") is mistranslated as "and that rock-mass meant the Christ". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+2 Corinthians 1:5 - Greek word "tou" ("of the") mistranslated as "for the". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Philippians 2:9 - The English word "other" is added in brackets with no basis in the Greek text in the 1984 edition of the New World Translation. - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+- (NOTE: The 1950 through 1981 editions of the *New World Translation* had this word added without the brackets, making it seem as though the Greek text included this thought.)
+- (NOTE: This is quoted without brackets in *The Watchtower* of February 1, 1992, p. 27)
+
+Colossians 1:16 - The English word "other" is added twice in brackets with no basis in the Greek text in the 1961 through 1984 editions of the *New World Translation*. - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+- (NOTE: The 1950 and 1951 editions of the *New World Translation* had this word added without the brackets, making it seem as though the Greek text included this thought.)
+- (NOTE: This is quoted without brackets in *The Watchtower* of February 1, 1992, pp. 20 and 22)
+
+Colossians 1:17 - The English word "other" is added twice in brackets with no basis in the Greek text in the 1961 through 1984 editions of the *New World Translation*. - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+- (NOTE: The 1950 and 1951 editions of the *New World Translation* had this word added without the brackets, making it seem as though the Greek text included this thought.)
+
+Colossians 1:20 - The English word "other" is added in brackets with no basis in the Greek text in the 1961 through 1984 editions of the *New World Translation*. - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+- (NOTE: The 1950 and 1951 editions of the *New World Translation* had this word added without the brackets, making it seem as though the Greek text included this thought.)
+
+Colossians 2:9 - Greek word "Theotetos" (Godship) is mistranslated "divine quality" - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+1 Timothy 4:10 - Greek words "panton anthropon" ("of all men") mistranslated as "of all sorts of men". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Titus 2:13 - Greek phrase "Theou kai soteros emon" ("God and Savior of us," or "our God and Savior") mistranslated as "god and of \[the\] Savior of us". (Note the word "the" added in brackets without any support in the Greek text.) - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Hebrews 2:13; Revelation 4:8 - Greek word "Theos" ("God") mistranslated as "Jehovah". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Hebrews 12:9 - Greek word "pneumaton" ("spirits") paraphrased as "spiritual life". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Hebrews 12:23 - Greek word "pneumasi" ("to spirits") paraphrased as "spiritual lives". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+James 1:12 - Greek word "epeggeilato" (he promised) mistranslated as "Jehovah promised" - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+James 3:9 - Greek word "kai" ("and") mistranslated as "even". - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Revelation 5:10 - Greek word "epi" ("on") mistranslated as "over" - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Revelation 19:10 - Greek phrase "he gar marturia Iesou estin to pneuma tes propheteias" ("for the testimony of Jesus is the spirit of prophecy") mistranslated as "for the bearing witness to Jesus is what inspires prophesying." - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Revelation 19:10 - Greek word "Iesou" ("of Jesus," or "Jesus'") mistranslated as "to Jesus." - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Revelation 19:10 - Greek word "pneuma" ("spirit") mistranslated as "what inspires." - See *Kingdom Interlinear Translation*, Greek text and lexicons.
+
+Here is the short essay about one of the problems with the NWT:
+
+### Tampering with the Inspired Word
+
+The Watchtower Society has a strong dislike of flags, whether American, State, or another nation's. This phobia has been carried so far that the text of God's inspired Word, the Holy Bible, has been changed to remove the references to the flags of the tribes of Israel.
+
+According to *The New Englishman's Hebrew Concordance*, the Hebrew word *deh'gel* appears 14 times in the Bible. These locations are: Numbers 1: 52; 2: 2, 3, 10, 17, 18, 25, 31, 34; 10: 14, 18, 22, 25; and Song of Solomon 2: 4. The thirteen verses in Numbers have to do with the encampment and travel instructions God gave to the people of Israel. Comparing these verses in the *King James Version*, *New American Standard Version*, *New International Version*, and *New World Translation*, we find that *deh'gel* is uniformly rendered "standard" in the *KJV*, *NASB*, and *NIV*, and as "\[three-tribe\] division" in the *NWT*. All four translations use "banner" in Song of Solomon 2: 4.
+
+Hebrew-English lexicons are uniform in their definition of *deh'gel*. *The New Strong's Exhaustive Concordance* (with lexicons) defines it as: "a *flag*: - banner, standard." *The New Brown-Driver-Briggs-Gesenius Hebrew-English Lexicon* defines it as: "*standard*, particularly of separate tribes of Israel." Benjamin Davies' *Hebrew and Chaldee Lexicon* calls it: "*banner* or *standard*." William Osburn, Jr. in his *Hebrew-English Lexicon* defines *deh'gel* as: "*standard*, *banner*." Webster defines
+
+<u>banner</u> as: "1. a piece of cloth bearing a design, motto, slogan, etc. 2. a flag."
+
+<u>Standard</u> is defined as: "1. any figure or object, esp. a flag or banner, used as an emblem or symbol ...".
+
+The Watchtower organization admits that the Hebrew word has the meaning of *standard* or *banner*. The 1971 book, *Aid to Bible Understanding*, page 283 states: "Since the Hebrew expression de'ghel, rendered "three-tribe division," also means "standard" or "banner," it is possible that there were tribal markers as well as family ensigns." Please note that in the Hebrew lexicons referenced above, *deh'gel*
+
+<u>never</u> has the meaning "three-tribe division", so the word "also" is misleading!
+
+The book of Numbers gives specific instructions from God for the nation of Israel. The New World Translation leaves out part of the commands given them. God is very exact in his instructions not to add to or take away from His Word. Removing God's instructions concerning the tribal standards is taking away from the Word.
+
+The 1984 Watchtower brochure, *The DIVINE NAME That Will Endure Forever* has this statement on page 5:
+
+"If someone deliberately changes or omits part of the contents of the Bible, he is tampering with the inspired Word."
+
+So, how does the Watchtower explain the deletion of the meaning of the word *deh'gel* from the *NWT*? The Watchtower, November 15, 1962, page 701 says in part:
+
+"But, someone may protest, how can you say that flags come under that Scriptural prohibition when the Bible itself shows that even the Israelites had ensigns or standards around which their three-tribe divisions gathered while in the wilderness? (Num. 2:2) In this connection the comment made in McClintock and Strong's *Cyclopaedia* is of interest. After discussing the Hebrew words used, it says: "Neither of them, however, expresses the idea which 'standard' conveys to our minds, viz. a *flag*." Furthermore, they were not viewed as sacred, nor were any ceremonies associated with their use. They simply served the practical purpose of signs, showing the people where to gather."
+
+This quotation helps explain why the Watchtower prohibits flag ceremonies, but
+
+<u>does not explain why they have altered the meaning of the Bible.</u> God told the tribes to camp and to march under their standards. This was to be done
+
+<u>in</u> divisions of three tribes, but not
+
+<u>under</u> "\[three-tribe\] divisions". It was to be done under the flag of the division. The Watchtower has altered the meaning of the Word of God!
+
+Presented by: Jehovah's Christian Witness.
+
+Recent health issues plus the rapidly expanding nature of the ministry have all but made the "One-On-One" e-mail ministry approach unmanageable.
+
+We will attempt to answer questions as we are able on the [*Talk to CyberPastor*](http://forums.delphi.com/cyberpastor/messages) message board. Our discussion can be found under the heading: "Biblical Perspective on JW's."
+
+[Back to Jehovah's Christian Witness Main Page.](http://www.eskimo.com/~jcw/index.html)\
+[Return to Table of Contents.](http://www.eskimo.com/~jcw/index.html#toc)\
+On to next subject: [About Watchtower Publications](http://www.eskimo.com/~jcw/jcw98.html)

@@ -1,0 +1,695 @@
+Table 
+
+ Table 
+ End Tag: Required 
+ Standards Details: In all HTML 4.x DTDs 
+ Support Key: 2
+ | 3 | 3.2 
+ | 4 | IE2
+ | M2A8 | N1.1
+ | O2.1 
+ What is it? 
+ Attributes 
+ Tag Example 
+
+ Parent/Content Model 
+ Tips & Tricks 
+ Browser Peculiarities 
+
+ = Index DOT Html by Brian Wilson 
+[ indexdot@blooberry.com ] = 
+
+ Main Index | 
+ Element Tree | 
+ Element Index | 
+ HTML Support History 
+
+ What is it? 
+ This is the top level containing element for HTML table structures. All 
+ formatting information lies between the beginning and ending Table tags. 
+ By default, tables have no borders. All attributes of the Table element apply 
+ globally to each cell in the table unless overridden at a sub-element level 
+ (row, cell, etc.) by other attributes.
+
+ SOME attributes to the TABLE element are only applicable when the 
+ table is constructed using the Complex 
+ Table Model which allows a finer level of control than the 
+ Simple Table Model while maintaining 
+ backward compatibility with the simpler model.
+
+ Common Attributes 
+ % Core % 
+ 2 | 3
+ | 3.2 | 4
+ | IE3 | M
+ | N6B1 | O3.5 
+ % Events % 
+ 2 | 3
+ | 3.2 | 4
+ | IE4B1 | M
+ | N6B1 | O4 
+ % Language % 
+ 2 | 3
+ | 3.2 | 4
+ | IE4 | M
+ | N6B1 | O 
+ % Data % 
+ 2 | 3
+ | 3.2 | 4
+ | IE4 | M
+ | N | O 
+ % Editing % 
+ 2 | 3
+ | 3.2 | 4
+ | IE5.5 | M
+ | N | O 
+
+ Specific Attributes 
+ Align 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE2
+ | M3 | N2
+ | O2.1 
+ Standards 
+ Details: Deprecated in HTML 4.x
+ Required? No
+ Description: 
+ At the Table level this attribute indicates horizontal alignment of 
+ the table itself relative to the browser window. 
+ Values: Left | 
+ Center | Right 
+
+ Background 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE3A1
+ | M | N4B3
+ | O 
+ Standards 
+ Details: NA
+ Required? No
+ Description: 
+ This attribute specifies a background image to be used as the backdrop 
+ for the table. All cell contents will be displayed over this image. 
+ If the referenced image is smaller than the table size, it will be tiled 
+ to fit all of the table area.
+ Values: 
+ Either an absolute or relative URL. All URLs should be URL encoded where required.
+
+ BGColor 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE2
+ | M | N3B1
+ | O2.1 
+ Standards 
+ Details: Deprecated in HTML 4.x
+ Required? No
+ Description: 
+ Specifies the background color of all the table cells. This value can 
+ also be overridden at the cell level. 
+ Values: 
+ The standard HTML color
+ specification methods.
+
+ Border 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE2
+ | M2A8 | N1.1
+ | O2.1 
+ Standards 
+ Details: In all HTML 4.x DTDs
+ Required? No
+ Description: 
+ This is an attribute that specifies the size of the border around the 
+ table. If the value is 0 or absent, no border is rendered. An additional 
+ value of Border can be specified [this is 
+ a legacy value that is supported only for backward compatibility with 
+ early Table specifications.]
+ Values: Integers indicating 
+ pixel width of the border.
+
+ BorderColor 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE2
+ | M | N4
+ | O 
+ Standards 
+ Details: NA
+ Required? No
+ Description: 
+ This attribute sets the external border color to be used for the entire 
+ table. Display of this attribute is dependent on the presence of the 
+ BORDER attribute in the TABLE element.
+ Values: 
+ The standard HTML color
+ specification methods.
+
+ BorderColorDark 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE2
+ | M | N
+ | O 
+ Standards 
+ Details: NA
+ Required? No
+ Description: 
+ This attribute allows independent, 3-D color control over the lower and 
+ right hand borders of the external border color for the current table. 
+ To change the upper and left hand borders of the external cell border 
+ color for the current table, use the BorderColorLight attribute (see 
+ below.) Display of this attribute is dependent on the presence of the 
+ BORDER attribute in the TABLE element.
+ Values: 
+ The standard HTML color
+ specification methods.
+
+ BorderColorLight 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE2
+ | M | N
+ | O 
+ Standards 
+ Details: NA
+ Required? No
+ Description: 
+ This attribute allows independent, 3-D color control over the upper and 
+ left hand borders of the external border color for the current table. To 
+ change the lower and right hand borders of the external cell border color 
+ for the current table, use the BorderColorDark attribute (see above.) 
+ Display of this attribute is dependent on the presence of the BORDER 
+ attribute in the TABLE element.
+ Values: 
+ The standard HTML color
+ specification methods.
+
+ BottomPadding 
+ 2 | 3
+ | 3.2 | 4
+ | IE | M 
+ | N4-4.x | O 
+ Standards 
+ Details: NA
+ Required? No
+ Description: 
+ This attribute specifies the padding/spacing on the bottom side of the 
+ table in pixels.
+ Values: Positive integers.
+
+ CellPadding 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE2
+ | M3 | N1.1
+ | O2.1 
+ Standards 
+ Details: In all HTML 4.x DTDs
+ Required? No
+ Description: 
+ This specifies globally for all cells in the table the spacing between data
+ in a table cell and the border of the cell. 
+ Values: 
+ Integers indicating pixel width of the padding.
+
+ CellSpacing 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE2
+ | M3 | N1.1
+ | O2.1 
+ Standards 
+ Details: In all HTML 4.x DTDs
+ Required? No
+ Description: 
+ This specifies globally for all cells in the table the spacing between 
+ individual cells. 
+ Values: 
+ Integers indicating pixel width of the spacing.
+
+ Clear 
+ 2 | 3
+ | 3.2 | 4
+ | IE | M
+ | N | O2.1 
+ Standards 
+ Details: NA
+ Required? No
+ Description: 
+ This attribute helps an author in situations with floating objects (images,
+ tables, etc.) produced through the Left and
+ Right ALIGN attributes. It allows content to stop being
+ flowed around the floated element. 
+ Values: 
+ &#160;&#160;&#160; None 
+ [ DEFAULT - No special line breaking 
+ effects are applied relative to the floating element.] 
+ &#160;&#160;&#160; Left [breaks line after this element
+ and moves down vertically until the left margin is clear of floated
+ objects.] 
+ &#160;&#160;&#160; Right [breaks line after this element
+ and moves down vertically until the right margin is clear of floated
+ objects.] 
+ &#160;&#160;&#160; All [breaks line after this element
+ and moves down vertically until both margins are clear of floated objects.]
+
+ Cols 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE3A1
+ | M | N4B2
+ | O 
+ Standards 
+ Details: NA
+ Required? No
+ Description: 
+ This Complex Table Model attribute explicitly specifies the number of 
+ columns in the table. Using this attribute can allow the browser to 
+ dynamically render the table as it is downloaded. If this attribute is 
+ absent, it is necessary to receive all of the Table code structure to 
+ determine the number of columns and their appropriate widths before 
+ display. 
+ Values: 
+ Positive integers representing the number of columns listed in the
+ Table HTML content.
+
+ Datapagesize 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE4
+ | M | N
+ | O 
+ Standards 
+ Details: In all HTML 4.x DTDs
+ Required? No
+ Description: 
+ Sets the number of records displayed in a data bound repeated table.
+ Values: 
+ Positive integers.
+
+ Frame 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE3A1
+ | M | N6B1
+ | O 
+ Standards 
+ Details: In all HTML 4.x DTDs
+ Required? No
+ Description: 
+ This Complex Table Model attribute allows independent control over the 
+ outer border display of the table. Using this attribute coupled with 
+ the RULES attribute yields much greater border display control than the 
+ older Simple Table Model. This attribute takes a single value 
+ representing the sides of the outer table border for which to draw borders 
+ Values: 
+ &#160;&#160; Void [Do not render any borders] 
+ &#160;&#160; Above [Border on top side only] 
+ &#160;&#160; Below [Border on bottom side only] 
+ &#160;&#160; HSides [Render horizontal borders only (top and bottom sides.)] 
+ &#160;&#160; VSides [Render vertical borders only (left and right sides.)] 
+ &#160;&#160; LHS [Border on left side only] 
+ &#160;&#160; RHS [Border on right side only] 
+ &#160;&#160; Box [Border on all four sides] 
+ &#160;&#160; Border [Border on all four sides - just like BOX -
+ DEFAULT ] 
+
+ Height 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE2
+ | M | N1.1
+ | O2.1 
+ Standards 
+ Details: NA
+ Required? No
+ Description: 
+ Specifies the height of the entire table. 
+ Values: 
+ Specified in pixels or a percentage of the browser window height.
+
+ HSpace 
+ 2 | 3
+ | 3.2 | 4
+ | IE | M 
+ | N2 | O 
+ Standards 
+ Details: NA
+ Required? No
+ Description: 
+ This attribute specifies the horizontal spacing around the table in pixels 
+ (left and right padding.)
+ Values: Positive integers.
+
+ LeftPadding 
+ 2 | 3
+ | 3.2 | 4
+ | IE | M 
+ | N4-4.x | O 
+ Standards 
+ Details: NA
+ Required? No
+ Description: 
+ This attribute specifies the padding/spacing on the left side of the 
+ table in pixels.
+ Values: Positive integers.
+
+ RightPadding 
+ 2 | 3
+ | 3.2 | 4
+ | IE | M 
+ | N4-4.x | O 
+ Standards 
+ Details: NA
+ Required? No
+ Description: 
+ This attribute specifies the padding/spacing on the right side of the 
+ table in pixels.
+ Values: Positive integers.
+
+ Rules 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE3A1
+ | M | N6B1
+ | O 
+ Standards 
+ Details: In all HTML 4.x DTDs
+ Required? No
+ Description: 
+ This Complex Table Model attribute is similar to the FRAME attribute, 
+ but where FRAME controls the outer borders around a table, RULES controls 
+ the interior dividing line display in a table. Using this attribute 
+ coupled with the FRAME attribute yields much greater border display 
+ control than the older Simple Table Model.
+ Values: 
+ &#160;&#160; None [No interior borders are displayed] 
+ &#160;&#160; Groups [Horizontal 
+ borders are displayed between all table groups 
+ specified using the THEAD , TBODY , 
+ TFOOT and COLGROUP tags.] 
+ &#160;&#160; Rows [Horizontal borders are 
+ displayed between all table rows ( TR )] 
+ &#160;&#160; Cols [Vertical borders are displayed 
+ between all table columns] 
+ &#160;&#160; All [Borders displayed between all table cells]
+
+ Summary 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE
+ | M | N6B1
+ | O 
+ Standards 
+ Details: In all HTML 4.x DTDs
+ Required? No
+ Description: 
+ This attribute aids accessibility for non-visual browsers by providing a
+ summary of the table's purpose and structure.
+ Values: 
+ Alphanumeric characters.
+
+ TopPadding 
+ 2 | 3
+ | 3.2 | 4
+ | IE | M 
+ | N4-4.x | O 
+ Standards 
+ Details: NA
+ Required? No
+ Description: 
+ This attribute specifies the padding/spacing on the top side of the 
+ table in pixels.
+ Values: Positive integers.
+
+ VSpace 
+ 2 | 3
+ | 3.2 | 4
+ | IE | M 
+ | N2 | O 
+ Standards 
+ Details: NA
+ Required? No
+ Description: 
+ This attribute specifies the vertical spacing around the table in pixels 
+ (top and bottom padding.)
+ Values: Positive integers.
+
+ Width 
+ 2 
+ | 3 | 3.2 
+ | 4 | IE2
+ | M3 | N1.1
+ | O2.1 
+ Standards 
+ Details: In all HTML 4.x DTDs
+ Required? No
+ Description: 
+ Specifies the width of the entire table. 
+ Values: 
+ Specified in pixels or a percentage of the available width (eg, the 
+ parent table cell width or the browser canvas, etc.)
+
+ Example 
+ [Using the Complex Table Model ] 
+
+ < table BORDER ="2" 
+ ALIGN ="left"
+ CELLPADDING ="5"
+ BORDERCOLOR ="#ff0000" 
+ COLS ="4" FRAME ="vsides"
+ RULES ="rows"
+ WIDTH ="75%"> 
+ < caption ALIGN ="top">Juggling
+ Capabilities of Waterfront Performers</ caption > 
+ < thead > 
+ &#160;&#160;&#160;&#160;&#160;&#160;< tr >
+ < th >Juggler</ th >
+ < th >Pins</ th >
+ < th >Bowling Balls</ th >
+ < th >Flaming Baseballs</ th >
+ </ tr > 
+ </ thead > 
+ < tfoot > 
+ &#160;&#160;&#160;&#160;&#160;&#160;< tr >
+ < th COLSPAN =4>NOTE:
+ This is only a small sample</ th >
+ </ tr > 
+ </ tfoot > 
+ < tbody > 
+ &#160;&#160;&#160;&#160;&#160;&#160;< tr >
+ < td >Bob</ td >
+ < td >5</ td >
+ < td >2</ td >
+ < td >5</ td >
+ </ tr > 
+ &#160;&#160;&#160;&#160;&#160;&#160;< tr >
+ < td >Larry</ td >
+ < td >2</ td >
+ < td >7!!!</ td >
+ < td >NA</ td >
+ </ tr > 
+ &#160;&#160;&#160;&#160;&#160;&#160;< tr >
+ < td >Julie the Great</ td >
+ < td >1</ td >
+ < td >2</ td >
+ < td >20< br >
+ (She IS great!)</ td >
+ </ tr > 
+ </ tbody > 
+ </ table > 
+
+ [Same table using the Simple Table Model ] 
+ < table BORDER ="2" 
+ ALIGN ="left"
+ CELLPADDING ="5" 
+ BORDERCOLOR ="#ff0000" 
+ WIDTH ="75%"> 
+ &#160;&#160;&#160;&#160;&#160;&#160;< caption 
+ ALIGN ="top">Juggling Capabilities of Waterfront
+ Performers</ caption > 
+ &#160;&#160;&#160;&#160;&#160;&#160;< tr >
+ < th >Juggler</ th >
+ < th >Pins</ th >
+ < th >Bowling Balls</ th >
+ < th >Flaming Baseballs</ th >
+ </ tr > 
+ &#160;&#160;&#160;&#160;&#160;&#160;< tr >
+ < td >Bob</ td >
+ < td >5</ td >
+ < td >2</ td >
+ < td >5</ td >
+ </ tr > 
+ &#160;&#160;&#160;&#160;&#160;&#160;< tr >
+ < td >Larry</ td >
+ < td >2</ td >
+ < td >7!!!</ td >
+ < td >NA</ td >
+ </ tr > 
+ &#160;&#160;&#160;&#160;&#160;&#160;< tr >
+ < td >Julie the Great</ td >
+ < td >1</ td >
+ < td >2</ td >
+ < td >20< br >(She IS
+ great!)</ td >
+ </ tr > 
+ &#160;&#160;&#160;&#160;&#160;&#160;< tr >
+ < th COLSPAN =4>NOTE:
+ This is only a small sample</ th >
+ </ tr > 
+ </ table > 
+
+ Parent Model 
+ % Block Parent % 
+ Content Model 
+ < caption > | 
+ < col > |
+ < colgroup > |
+ < tr > | 
+ < thead > |
+ < tbody > | 
+ < tfoot >
+
+ Tips & Tricks 
+
+ If you are writing your HTML by hand, it is always highly recommended 
+ to use an HTML validator, but when authoring tables, this holds doubly 
+ true, as it is easy to make mistakes in this area.
+ Make sure that the only content of the top-level table tags are 
+ legal structures (such as TR elements.) Also make
+ sure that the only content of your TRs are TH or
+ TD elements. Otherwise, some browsers may display table contents
+ incorrectly.
+ The Table model (even the Simple Table Model) is easily the most 
+ complex markup structure in HTML. If you have other general questions 
+ about this structure see the Table Overview .
+ Compatibility Tip: 
+ Centering a Table structure using any of the commonly available centering 
+ methods in HTML can cause the entire contents of the table cells to be 
+ centered in browsers that only support centering and not tables. This 
+ can cause visual display problems in such cases.
+ Compatibility Tip: 
+ To enable Table cell contents to display well on browsers that do not 
+ support tables, it is common practice to put either an extra space at 
+ the end of each table cell, or even better, put a 
+ < br > element at the end of the last cell in
+ each table row (eg: <tr> <td>cell 1</td> <td>cell 
+ 2<br></td></tr>.) This is perfectly legal HTML and 
+ should cause no display problems for browsers that support tables (as 
+ there is an implied line break anyway at the end of every table cell) 
+ and should greatly improve readability on older browsers. (notice that 
+ I have not used this tip in these pages yet. I hope to at some point 
+ in the future.)
+ If you are having problems with table layout and borders are turned 
+ off, it can be helpful to temporarily turn them on - this can reveal 
+ clues of why the layout is misbehaving.
+
+ Browser Peculiarities 
+
+ Netscape does not render a table until the entire table structure
+ is received. This behavior is very noticeable with pages using 
+ very large table structures - especially when using a slower
+ connection. Internet Explorer tries to render the table as it 
+ receives it, which tends to affect user perception of the download 
+ time as being faster. A way to combat this difference is to break 
+ tables up into smaller chunks, if possible. (Opera behavior is not 
+ known here.)
+ Internet Explorer requires the THEAD, TBODY and TFOOT sections to 
+ exist in order to use the RULES and FRAME attributes of the TABLE 
+ element. This is counter to the statement in the specifications for 
+ tables that the omission of THEAD, TBODY and TFOOT elements IMPLIES 
+ that the table content is all one TBODY section. 
+ Currently, when using only the simple table model the only way to 
+ create complex borders for tables is to use nested tables. Nested 
+ tables are entirely legal under the HTML Tables specifications, but 
+ Mosaic versions below 3.0 do not support nested tables (all nested table content 
+ appears as a solid square and content is lost.) 
+ Internet Explorer seems to be generally more tolerant of invalid 
+ HTML in the creation of table structures than Netscape or Mosaic is, 
+ but do NOT rely on this robustness; check the display on 
+ other browsers as well.
+ The Tables specification says the CAPTION element should always 
+ come at the beginning of a table structure (this is to ensure proper 
+ rendering in progressive table display.) I have yet to see a 
+ browser misbehave if the CAPTION is placed in a position other than the 
+ beginning of a table (as long as it is within a legal table row 
+ hierarchy relationship.)
+ The ALIGN attribute for the table element does not appear to work 
+ very robustly in either Netscape or Internet Explorer.
+ Netscape now supports the BACKGROUND attribute for placement of
+ background images for the entire table. I have never found this
+ documented anywhere and it was a reader that alerted me to the fact.
+ When testing the behavior, an occasional glitch seemed apparent -
+ be sure to check display of this attribute in supporting Netscape
+ versions for proper behavior if you plan to use it.
+ The use of CENTER as a value for the ALIGN attribute in Internet
+ Explorer and Netscape does not work like the LEFT and RIGHT
+ floating behaviors. CENTER causes no floating behavior - it just
+ centers the table on the screen (like wrapping the table in the
+ DIV ALIGN=CENTER or CENTER elements.) 
+ The COLS attribute in Netscape makes all the columns of the table 
+ have equal width, regardless of the size of the cell content.
+ The BORDERCOLOR attribute affects a table differently in Internet 
+ Explorer and Netscape - In Internet Explorer, both exterior and
+ interior borders are given the border color. In Netscape, only the
+ outermost edge of the exterior 'box' border of the table uses the
+ border color.
+
+ The effects of the FONT element are generally not inherited by content
+ nested inside tables. If an author wishes to ensure that the effects
+ of the FONT element are applied everywhere, the element must also
+ be applied for every table cell in a table (in such a case CSS would be
+ a simpler answer.) These are the FONT attributes which apply to content
+ within tables: 
+ Internet Explorer 
+ 2.0: COLOR and FACE applied, SIZE ignored
+ 3.0+: FACE applied, COLOR and SIZE ignored
+ Netscape: 
+ None of the FONT element attributes has any effect on content nested in tables. 
+ Opera: 
+ All FONT element attributes have an effect on content nested in tables. 
+
+ Netscape and Opera: Both browsers ignore percentage values (pixel values 
+ are fine) for the HEIGHT attribute for TABLE only if the table 
+ it is being applied to is nested within another table. Internet Explorer, 
+ on the other hand, honors percentage values for HEIGHT whether a table 
+ is un-nested or nested. 
+ I finally discovered the answer to a strange behavior that I 
+ had seen for a long time in Netscape: occasionally, some text was 
+ unselectable. 
+ The answer: the content of tables in Netscape (text especially), is 
+ not selectable by the reader if the table is floated (using the 
+ ALIGN="left" or ALIGN="right".) This behavior has been the case ALL the
+ way back to Netscape 2.0.
+ An author with an eagle eye pointed this one out: 
+ The scenario - In Netscape 4.x, if you use a background image on a 
+ table, any nested tables will inherit the same background image and 
+ not be transparent the way they should be. In other words, the 
+ background image is re-started (overlaid) in the nested table. The 
+ author who pointed this bug out also mentioned a useful fix which 
+ does not appear to be at all harmful: specify an empty BACKGROUND
+ attribute (BACKGROUND="") in nested TABLE elements in this scenario.
+ Netscape 4.x error condition bug: if a BGCOLOR and BACKGROUND attribute
+ have been specified for the table, and the URL to the image fails to 
+ load, the bgcolor should be used instead. Netscape 4.x does that for 
+ a moment, but then this changes to a block only the size of the broken
+ image placeholder with the specified BGCOLOR in the upper, left corner 
+ of each of the cells in the table.
+ Netscape 4.x has a strange rendering bug with checkbox and radio button 
+ form fields. If a BGCOLOR attribute is declared for a table - or a cell 
+ within a table - the rendering boxes of any checkboxes and radio 
+ buttons (also INPUT FILE fields to a small extent) in that cell/table 
+ will not use the indicated BGCOLOR - it will instead use the BGCOLOR 
+ of the document itself. If you use Netscape 4.x, you will see this 
+ bug apparent at almost every large-scale site you go to. 
+ Workaround: Using the CSS 
+ ' background-color ' 
+ [-->Index DOT Css] property on the 
+ checkbox or radio element itself, set to the background color of the 
+ cell/table that you are in, things will be correctly displayed. 
+
+ Boring Copyright Stuff...

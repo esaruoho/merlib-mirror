@@ -6,7 +6,7 @@ order: 349
 reachable_from_entry: true
 images: 3
 internal_links: 8
-extracted: 2026-08-03T18:11:49Z
+extracted: 2026-08-07T05:53:22Z
 extractor: site_to_paper.py (pandoc)
 ---
 
@@ -31,15 +31,15 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td><strong><a href="http://amasci.com/sc/proj/kidprojb.html">SCIENCE FAIR PROJS</a>  |</strong><br />
+<td><strong><a href="/sc/proj/kidprojb.html">SCIENCE FAIR PROJS</a>  |</strong><br />
 </td>
-<td><strong><a href="http://amasci.com/">TOP</a>  |</strong><br />
+<td><strong><a href="/">TOP</a>  |</strong><br />
 </td>
-<td><strong><a href="http://amasci.com/unew.html">GOOD STUFF</a>  |</strong><br />
+<td><strong><a href="/unew.html">GOOD STUFF</a>  |</strong><br />
 </td>
-<td><strong><a href="http://amasci.com/news.html">NEW STUFF</a>  |</strong><br />
+<td><strong><a href="/news.html">NEW STUFF</a>  |</strong><br />
 </td>
-<td><strong><a href="http://amasci.com/search.html">SEARCH</a></strong><br />
+<td><strong><a href="/search.html">SEARCH</a></strong><br />
 </td>
 </tr>
 </tbody>
@@ -191,7 +191,7 @@ Other places to try:
 \
 VICTORIAN\
 SCIENTI - FICTION!!!\
-<img src="http://amasci.com/graphics/eglitch.jpg" data-align="right" />\
+<img src="/graphics/eglitch.jpg" data-align="right" />\
 (Natural philoso-fiction?)
 
 </div>
@@ -204,9 +204,9 @@ SCIENTI - FICTION!!!\
 |:---:|-----|
 |     |     |
 
-<http://amasci.com/amateur/bloblamp.html>\
-Created and maintained by [Bill Beaty](http://amasci.com/billb.html).\
-Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" alt="[my email address is my website addr preceded by billb atsign]" />](http://amasci.com/amfrm/).\
+[/amateur/bloblamp.html](/amateur/bloblamp.html)\
+Created and maintained by [Bill Beaty](/billb.html).\
+Mail me at: [<img src="/graphics/abc.gif" data-border="0" width="141" height="19" alt="[my email address is my website addr preceded by billb atsign]" />](/amfrm/).\
 
 <div class="statcounter">
 

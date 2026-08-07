@@ -1,0 +1,285 @@
+Bookmark file 
+
+ You can delete links using the new remove bookmark command.
+ it is usually the 'R' key but may have been remapped by you or
+ your system administrator. 
+ This file may also be edited with a standard text editor.
+ Outdated or invalid links may be removed by simply deleting
+ the line the link appears on in this file.
+ Please refer to the Lynx documentation or help files
+ for the HTML link syntax.
+
+ http://www.pythonline.com/llama/llama.html 
+ comm1 
+ [All About GIF89a] 
+ Jeff Kepler's Bookmarks 
+ Index of /~then/docs 
+ THE MARTIAN ARCHIVES 
+ The Land - The Dougie MacLean Homepage 
+ News of the Weird 
+ Dead People Server 
+ Odds & Ends 
+ Signal Processing URL Library (SPLIB) 
+ Jean Yves' World of Wonders - TUSF Home Page 
+ Visually Impaired Products 
+ Andrew Errington's PIC Project Page 
+ Eric Smith's PIC Projects 
+ Microsoft Investor: Quote Lookup 
+ Warner Brothers Animation Database 
+ Dogbyte's Website (MIDI) 
+ Direct Marketing Source Home Page 
+ Welcome to Jack Schmidling ASTROPHOTOS 
+ Alternative / Hard Rock MIDI Files 
+ Down East Microwave Inc. 
+ Software for PIC 
+ Martindale's 'The Reference Desk: Calculators On-Line' 
+ Evisance WWW hacking/phreaking history 
+ Link Communications Inc. (ACC) 
+ Telnet Applications for Windows 3.x 
+ Midi,midi,music,sound,midipage. 
+ Richard R. Colwell's - WA3QKX Home Page 
+ Puget Sound Scanner Frequencies 
+ Yukon Amateur Radio Association 
+ White Rock Amateur Radio Club 
+ Canadian Amateur Radio WWW Sites 
+ Welcome To the Amateur Radio Web Server 
+ Canadian Space Related Organizations 
+ NASA Shuttle Web: STS-82 Shuttle on ORBIT Sighting Opportunities 
+ ARCC - AREA REPEATER COORDINATION COUNCIL - EPA/SNJ 
+ Astronomy & Astrophysics ERICJ 
+ FLORIDA TODAY Space Online's Space Today 
+ NASA TV 
+ Vinyl Vendors 
+ Robert's Satellite WWW Page: Links to Satellite/Electronic Hobby resources 
+ West Marine ELECTRIC advisor page 
+ Index of /ftp-home/pub/aminet/misc 
+ /bfd/ ELECTRONICS FILES 
+ Holophase PCB CAD Software 
+ Satellite Times: Home Page 
+ K7PP REPEATER SYSTEM 
+ SATCO DX Satellite Chart: ITU Region 2 
+ /pub/satellite/TELE-satellit directory 
+ MIDIWORLD 
+ DIR Satellite Programming Service Home Page 
+ HOBBY CORNER SATELLITE HOME WEB PAGE 
+ Midi Area 
+ /pub/user/rstevew ELECTRONICS directory 
+ Instrument Jokes 
+ Tom WA9ZSK's WEB SITE 
+ Primitive Midi Software 
+ VANCOUVER ELECTRONICS ... ham radio/marine radio/antique radio 
+ The Talk Network (FNL satellite) 
+ BJ's Home Page (satellite and Ham radio) 
+ The Homepage for Chemists 
+ Mueller Communications (satellite euro digital) 
+ HwB: PCI Connector pinnout 
+ Synth 'n sample stuff 
+ Chubbys U.K. Radio Information Location (+midi) 
+ Viper's C/C++ Web Page 
+ Chemical Structures of Chemical Warfare Agents 
+ Andrew's homepage ELECTRONICS 
+ Horizon Technology eskimo.com/~ghawk 
+ SSSound - 3 Sound Localization 
+ Dave's online hamfest... (hockaday) 
+ Asia Magnetic Components Design & Manufacturing Center 
+ The World-Wide Web Virtual Library: Electrical Engineering 
+ C Programming (Steve Summit) page 
+ SATCO DX Satellite Chart 
+ MPJ's North American Strong Cryptographic Software Archive 
+ Holy Bible, Christianity, Cryptography, etc. links 
+ Kiwa Electronics (Craig Seigenthaler) 
+ feedME.org - Free Usenet/Newsgroup Access 
+ SEDS Internet Headquarters (Astronomy) U of Arizona 
+ DES Challenge Coordinated Effort (crypt) 
+ Carl Ellison's home page (crypto) & etc.) 
+ Mackie Designs | Glossary 
+ Amateur Radio Supply + W7SRZ manual 
+ www.qsl.net KC7TLU 
+ Link Communications Inc. (ACC & repeater controllers etc.) 
+ Blacklist of Internet Advertisers (spam) 
+ IMA: The Best Minds in Multimedia 
+ Numerical Recipes Books On-Line (pdf or ps format) 
+ K7ON Radio Modification Index 
+ Spectral Inc. Home Page (Digital Audio Recorders) 
+ Solar Terrestrial Dispatch Homepage (also try solar/www/ 
+ /pub/solar/Docs directory 
+ Amateur Radio Newsline Archive - 1997 Index 
+ Environmental News (energy too) 
+ QuickField support site (mag program) 
+ Professor Pulfrich's Universe (3D Exhibit) 
+ UNIV OF MARYLAND PHYSICS LECTURE-DEMONSTRATION FACILITY 
+ HFML, Levitation (diamagnetic) 
+ Stable Magnetic Field Gradient Levitation of Xenopus laevis: Towards Low Gravity Simulation 
+ 96-126 (Levitation) (diamagnetic) 
+ Alison Chaiken's Web Page (magnetics. etc.) 
+ American Satellite Technology -On Line Catalog 
+ Rolf Claessen's Chemistry Index 
+ QuestLink Technology: Home (Electronics IC search) 
+ Don's web site - Electronics and lighting 
+ Micros are obsolete page 
+ Electronic Arts 
+ Aaron's Home Page (amateur radio and antenna designs) 
+ COLER CONVERTER, flying-saucer, blueprints, free-energy, Overunity. 
+ Index of /auth-tutorial/ (web passwords) 
+ 4DTV 4DTV 4DTV 4DTV 4DTV 4DTV 4DTV 4DTV 4DTV 4DTV 4DTV 4DTV General Instrument 4DTV Receiver 
+ Midi,midi,music,sound,midipage. 
+ Pulp's World of Satellite Hack Links 
+ HealthAnswers: Homepage 
+ Windows95.com 32-bit Shareware Collection 
+ The WinSite(tm) Archive 
+ more midi music 
+ W7SRZ Repeater System 
+ Western Washington DX Club 
+ OH2BUA WebCluster (packet) 
+ Signal Processing URL Library (SPLIB) 
+ DSP Internet Resources 
+ KN6DV mobile (archive) 
+ Laura's MIDI Heaven! (big) 
+ PC Magazine's InternetUser - Internet Toolkit (Junk E-Mail) 
+ Lyn Kennedy's WebPage (scanners and trunking) 
+ WEBRAD (medical imaging stuff) 
+ Ewan Macpherson: HDRL (dsp and hearing research guy) 
+ The Thistle & Shamrock (need netscape I think) 
+ QRP The NorCal Page QRP LOW POWER AMATEUR RADIO QRP 
+ astro!nfo-Homepage (darksky---switzerland) 
+ Music Resources on the Internet 
+ Mountaineers Home (hiking etc.) 
+ Astronomy pic of the week (some guy) 
+ Current Issue of eFOCUS (Kalamazoo Astronomical Society) 
+ Other links (.kr) 
+ The laws list (.kr) 
+ Riverdance - Interviews - Michael O'Gorman 
+ Mix Online: Contents (Mix Magazine articles) 
+ AC6V's Guide To Ham Radio Nets 
+ Digital Domain - CD Mastering, Replication, Digital ( lots of articles) 
+ AltaVista Search: Main Page 
+ Bible Search (KJV) 
+ Religious Resources (bible and bible search) 
+ 4Dtv Home Page 
+ Tommy's pinout collection (computer) 
+ ASTRONET (astronomy and links) 
+ Midi songs and links 
+ The Saginaw Test Pattern Museum 
+ HARRY's HOMEBREW HOMEPAGE (amateur radio) 
+ Seismology and Earthquake Information (UofW) 
+ Oregon, United States, Frequency Lists 
+ THE PHOSPHOR TECHNOLOGY WEB SITE (UK) 
+ Graychip (digital communications chips?) 
+ Today@NASA 
+ Dustin Moore's Comet Pictures 
+ LLOYD I/O (Frank, WB7DZG, Portland,OR EVGRN INTIE--Oregon ATV) 
+ Chris' Page (Ausi songwriter) 
+ Trent A. Fisher (+ some lyrics & Phil Ochs) and more 
+ Router Solutions, Inc. - Translator & Interface Tools for CAE/CAD/CAM - Home Page 
+ Mathilde Images (asteroid) 
+ Mars Pathfinder Mission (NASA) 
+ Asia Magnetic Components Design & Manufacturing Center 
+ Amethyst Galleries' Mineral Gallery (SEARCH) 
+ The Mars Microrover Radio (NASA) 
+ Microsoft Technical Support Knowledge Base (dos windws etc.) 
+ Mars Pathfinder - Welcome to Mars! (SGI) 
+ Web Server Statistics for Eskimo North 
+ ChemTeam: Main Menu (ca high school chem class) 
+ SWAPAGE PAGE (KO6OY hamradio) 
+ KB9JJA Ham Radio Links 
+ Shuttle Audio Frequencies (amsat) 
+ hacking and 2600 and warez site 
+ BYU Electromagnetics Home Page 
+ Cakewalk 5 
+ Amateur Radio - Radio Club of Tacoma W7DK (+ wwara link) 
+ Report of the SMPTE Task Force on Digital Image Architecture 
+ Image Communication Information Board (ICIB) (+ smpte etc.) 
+ Bookmark file (midi + warez etc) 
+ GORP - Olympic National Forest - Introduction 
+ Welcome to Ontario Parks 
+ The OUTSIDER, Online Magazine (wilderness adventure) 
+ Canadian Alpine Expeditions Ltd. 
+ Northwest Boaters Net (amateur radio + wwara link) 
+ acrchive (+ rar) utilities 
+ ADSP DSP stuff 
+ TV listings satellite guide / schedule / television grid for cable and satellite ( Directv USSB EchoStar Dish Network Primestar C-Band) + DSS + DBS 
+ warez with sound forge 4.0 
+ warez (again) with sound forge 4.0 
+ AOL NetFind (search) 
+ High Speed Packet Radio 
+ Electronic Schematics 
+ electronics and computers (doug jones) and stepper circuits & code 
+ Omega Radio Network (W1-6/5.8MHz) 
+ Microstrip Calculator in JavaScript 
+ Cortland Electronics (system up at john hay) 
+ Meldrum TV test paterns and nostalgia 
+ washingtonpost.com: Technology news pretty much looks like. 
+ Michael Hartkopf's Microphone Homepage 
+ The Error Correcting Codes (ECC) Home Page (.jp) 
+ Keith's MIR Page (k5wx) 
+ Dan's electronic parts (fix.net) 
+ Galileo Home Page (JPL) 
+ Balkon-Astronomie(astronomy pictures) 
+ lentz astrophotography 
+ Acoustic Music for the Body & Mind and other Eccentricities (W6IQ) 
+ C. F. Martin and Company (guitars) 
+ Seattle Folklore Society 
+ W4RNL Hamradio stuff and antenna modeling 
+ WE7U's Home Page (eskimo) 
+ GraphiCode Company Products GC-prevue for windows95/NT 
+ MOTION Magazine (electronic) 
+ GPS Signal Specifications (www.navcen.uscg.mil/gps/sigspecs/) 
+ Kalmus (RF amplifiers) 
+ Transformer and power FAQ 
+ PC Hardware information (UK) 
+ SATCO DX Satellite Chart 
+ Earth and Moon Viewer (satellite views) 
+ Home Maintenance and Repair (lots of good info) 
+ HHMI Biomedical Research (search available) 
+ List of compounds (spectrum laboratories chemical fact sheet) 
+ Lassen Technologies: Help yourself to MIDI (hymns) 
+ The Complete MIDI File Directory 
+ Jon's Home: Eskimo Spam Filters: Documentation (raquele) 
+ Lamonica Media, LLC. (G4/10 talk show) 
+ Welcome to VR2XKP Home Page (ham stuff and downloadables too) 
+ HARRY's HOMEBREW HOMEPAGE (ham radio sm0vpo) 
+ The Annenberg/CPB Projects Learner Online (the mechanical universe) 
+ David Goodstein's Home Page (physics at caltech) 
+ King County Library System Home Page (Text version) 
+ KB8UYZ Amateur Radio! 
+ Welcome to WhoWhere? 
+ ftp --- rtfm.mit.edu/pub/usenet directory (faq's) 
+ Home Recording - Welcome from The Mining Company 
+ mpeg 3 info + downloadable software (germany) 
+ schematics, microchip stuff, programmer (UK company) 
+ Gadget Labs Product Information (PCI AES/EBU cards) 
+ Press Release GC-PREVUE 
+ The SEA-DATAMARINE Home Page (radio manufacturer seattle) 
+ I5.net Roads and Weather including DOT traffic flow 
+ Motorola semiconductor Literature Search 
+ Scientific Web - Comparison of mathematical programs for data analysis 
+ MONDO WAREZ cool edit crack 
+ ASK DR. SCHUND (speed sleeping) 
+ Steve in .NZ electronics page and manufacturer web listing 
+ Welcome To Pigflop's Home Page!!! (midi piano files from news group) 
+ Power Integrations - (power supply chips and pdf application files) 
+ Aucocad symbol libraries and software www.cadsoftware.com 
+ DEAL-Digital Evolution Audio Labs (Chuck Straus) 
+ Electronics info page (www.hut.fi) 
+ WinGate by Qbik New Zealand (firewall software for tcp/ip) 
+ The E^ikr/r page (electromagnetic wave pix) 
+ Dave Gustafsons' Home Page (satellite and software) Seattle 
+ 56K.COM 56K Modem Home Page: K56flex and x2 
+ The NIST Time and Frequency Division Home Page (WWV) 
+ Trunked Radio Information (includes eastside talk groups) 
+ Lamonica Media, LLC. (tvro show) 
+ Quinton Instruments Home Page 
+ IANA-Domain names, country codes info, etc. 
+ Welcome to the Official WWARA Web Site 
+ Index of /pub/rcw/ 
+ WA St RCW Text Search 
+ External scanner devices (mdt, paging, links to software etc.) 
+ Lodestone Pacific Mag Inc., Fair-Rite, Micrometals, Magnetics inc. 
+ Magnetics Inc. home page 
+ Index of /bigblue/ (some of the medline database looks like) 
+ Northwest Broadcasters Home Page 
+ a BIG ftp site of electronics and radio hobby files & programs 
+ ELKEL: Franais YAESU FT-50R 
+ Wahington State Department of Transportation (WSDOT) Home page 
+ The Seattle Times Newspaper including classified ads 
+ NorthWest High Tech Jobs (NWHTJOBS) Employment Security Department

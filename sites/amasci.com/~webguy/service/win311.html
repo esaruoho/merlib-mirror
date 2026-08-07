@@ -1,0 +1,287 @@
+<html>
+<!-- Copyright 2003-2005 Al Wong, Los Angeles, California, USA -->
+
+<head>
+<title>
+Windows for Workgroups 3.11
+</title>
+
+<link rel=stylesheet type="text/css"
+      href="../css.css" title="hoverstyle">
+
+<link rel="shortcut icon" href="../favicon.ico">
+
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#ff0000" vlink="#880000">
+
+<center>
+<table width=80%>
+<tr>
+<td>
+
+<center>
+<h2>
+Getting<br>
+Windows for Workgroups 3.11<br>
+on the Local Area Network
+</h2>
+</center>
+
+<a href="../writings/reply.html">
+Al Wong
+</a>
+<br>
+May 10, 2003
+<p>
+
+<font size=+0>
+
+<font color="#006600">
+<b>01/13/05 Update</b>
+- 
+There is an <b>amazing amount of interest</b> for this webpage!
+(It's in the top ten!)
+I guess there are a lot of Windows for Workgroups 3.11 (Win3.11) 
+computers still being used!
+Or perhaps they are just lying around gathering dust.
+I am glad to give new hope for these machines
+to be recycled back into service. 
+Even if it is just for fun. <tt><b>:)</b></tt>
+<p>
+
+I wish to satisfy my curiosity.
+If you found this webpage useful, 
+<a href="mailto:&#98;&#105;&#103;&#100;&#97;&#100;&#100;&#121;&#50;&#53;&#54;&#64;&#104;&#111;&#116;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;?subject='My Windows for Workgroups 3.11 Uses'">
+<b>email me</b>
+</a>
+and let me know how/why
+you are using your Win3.11 computer.
+</font>
+<p>
+
+I am using a 3Com LAN card (3CXE589DT)
+connected to a 
+<a href="http://www.maxtech.com/html/753.html">
+Maxtech 753 
+</a>
+(Windows for Workgroups 3.11, MS-DOS 6.22) and 
+got it working! 
+<p>
+
+You cannot run the WinXP <i>Network Setup Wizard</i> on 
+Windows for Workgroups 3.11 (Win3.11)
+<a href="winxp.html">
+from the floppy disk you created. 
+</a>
+I guess Windows 3.11 is considered too obsolete.
+This version of Windows requires a manual setup.
+<p>
+
+To get Windows 3.11 to work on the LAN, do the following. 
+See the Windows 3.11 help for
+detailed explanations on how-to:
+<p>
+
+<ol type=1>
+
+<li>Evidently, you just need to start up Windows 3.11 and
+enable <i>Networking</i> in the Networking window.
+<p>
+
+It turns out you don't necessarily need the <i>Card Services</i> drivers
+installed to get the LAN card working on the local network. 
+In fact, if you have all the <i>Card Services</i> drivers
+installed on boot up, Windows 3.11 will <b>not</b>
+start! I guess there's some sort of memory problem.
+So it's a good thing you don't need the <i>Card Services!</i>
+<p>
+
+You probably need to reboot now.
+<p>
+
+<li>Now install the driver for the 3Com LAN card.
+You can download the LAN card driver for Windows 3.11 from the 
+<a href="http://infodeli.3com.com/infodeli/tools/nic/3cxe589d.htm">
+3Com website.
+</a>
+You need to download the second file (<b>3c589x_2.exe</b>)
+for Windows 3.11.
+(You need to install the special DOS driver for the LAN card (NDIS2).)
+<p>
+
+You probably need to reboot again.
+<p>
+
+<li>Start up Windows 3.11 and install the new 
+<a href="http://support.microsoft.com/default.aspx?scid=kb;en-us;122544">
+TCP/IP-32 3.11b upgrade.
+</a>
+<p>
+
+<font color="#006600">
+<b>08/31/04 Update</b>
+- It seems Microsoft very recently changed their website.
+Ironically, even though the above current link has all the details about
+the TCP/IP-32 3.11b upgrade, including installation instructions,
+it does <b>not</b> link to the upgrade file anymore (there used to be a link
+on the bottom of the webpage) nor tell you
+where to download it! It does not even tell you what the upgrade filename is!
+<p>
+
+Also, the email support links are useless.
+There are now several convoluted and cyclical
+links that waste your time (Thanks Microsoft).
+I suppose this is to cut down on their email but it is
+poor customer service nevertheless.
+<p>
+
+After digging around, I believe I found the upgrade file.
+<!-- a href="ftp://ftp.microsoft.com/Softlib/MSLFILES/TCP32B.EXE" -->
+Download the TCP/IP-32 3.11B upgrade file
+<!-- /a -->
+ from Microsoft's FTP site.
+<p>
+
+<b>12/14/04 Update</b>
+- Microsoft changed the link again.
+I link to the new URL for downloading
+<a href="http://support.microsoft.com/default.aspx?scid=kb;en-us;99891">
+the TCP/IP-32 3.11B upgrade file.
+</a>
+If the new link is bad do a search for <b>TCP32B.EXE</b> in the 
+Microsoft support website to find the upgrade file again.
+</font>
+<p>
+
+If the installation software did not change your AUTOEXEC.BAT file
+to start up the LAN card driver on boot up, you need to do this.
+At the DOS prompt, type <b>NET START</b> to enable the LAN card driver.
+You will get some warning message. Hit the <i>enter</i> key.
+You should now get a message the driver was successfully installed.
+<p>
+
+You need to reboot yet again.
+<p>
+
+<li>Start up Windows 3.11 and do the following below. See the Windows
+3.11 help for detailed explanations on how-to:
+<p>
+
+<ol type=a>
+<li>You need to create a <b>unique name</b> for this computer on the LAN.
+Again, it doesn't matter what it is as long as it's 
+<b>different</b> from every other computer on the LAN.
+<p>
+
+<li>You need to create a group name. Again, it doesn't matter what it is 
+as long as it's the 
+<b>same group name</b> on every computer on the LAN.
+<p>
+
+<li>You need to create another account with a username and password for the network. It doesn't matter what the username and password is as long as you 
+<b>exactly match</b>
+ this account information with the other computers that are going to be on the LAN.
+<p>
+
+I would suggest you create a separate user account just for the network on each machine.
+<p>
+
+<li>To setup Internet access, you need to set 
+the IP address 192.168.0.1
+as the 
+<b>Gateway</b> 
+and as the 
+<b>DNS server</b>
+under
+<i>Networking.</i> 
+<p>
+
+<li>You must also enable DHCP 
+(Dynamic Host Configuration Protocol). This is usually a check box.
+Do not specify an IP address for this computer.
+<p>
+
+<li>Make sure the TCP/IP protocol has a <i>binding</i> to the LAN card driver.
+You probably need to make TCP/IP the default binding.
+<p>
+
+<li>Then you may want to set some directories as <i>Shared</i> in <i>the File Manager.</i>
+</ol>
+<p>
+
+Reboot one more time.
+<p>
+
+<li>Start up Windows 3.11 again.
+<p>
+
+<li><b>Login to the network account</b> you created above.
+The Windows 3.11 computer and shared directories 
+should now be recognized on the 
+WinXP server and any other computer on the LAN.
+<p>
+
+<li>Open a <i>MS-DOS Window</i> and type:
+<p>
+
+<blockquote>
+<b>ipconfig</b>
+</blockquote>
+<p>
+
+The IP address should be <b>192.168.0.XXX</b>
+where XXX is a number other than 1. The subnet mask should be 
+<b>255.255.255.0</b>.
+Use <b>ipconfig /?</b> to get help on this command.
+<p>
+
+<li>In Windows 3.11, go to <i>File Manager</i> and
+click the E: drive. This will bring up the share files on the other
+computers. The drive letter may be different on your computer depending.
+Experiment.
+
+<p>
+
+</ol>
+
+</font>
+
+</td>
+</tr>
+</table>
+</center>
+<p>
+
+
+<center>
+
+<table border=7 cellpadding=5>
+<tr><td>
+<a href="ics.html">
+Internet Connection Sharing
+</a>
+</td>
+
+<td>
+<a href="../writings/writings.html">My Writings</a>
+</td></tr>
+</table>
+<p>
+
+<font size=2>
+Last updated : January 13, 2005
+<br>
+Copyright 2003-2005 Al Wong, Los Angeles, California, USA
+</font>
+
+</center> 
+
+</body>
+</html>
+
+
+
+
+
+

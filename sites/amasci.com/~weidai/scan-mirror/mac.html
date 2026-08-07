@@ -1,0 +1,852 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+ "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Standard Cryptographic Algorithm Naming</title>
+  <style type="text/css">
+      UL.noindent { margin: 0 0 0 0 }
+      LI { padding: 0% 0% 1% 0% }
+      SPAN.error { color: red; font-weight: 600 }
+      SPAN.s { color: blue }
+      SPAN.p { color: green }
+      SPAN.x { color: red }
+      SPAN.a { color: purple }
+      A.s    { color: blue }
+      A.p    { color: green }
+      A.x    { color: red }
+      A.a    { color: purple }
+  </style>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link=blue vlink="#000077" alink="#FF0000">
+
+<h2>MAC Algorithms (Message Authentication Codes)</h2>
+
+<a name="links"></a>
+<h3>Links</h3>
+
+<ul>
+  <li> Helger Lipmaa's page on MAC algorithms:<br>
+       <a href="http://www.tcs.hut.fi/~helger/crypto/link/hash/mac.html" target="_blank">
+       http://www.tcs.hut.fi/~helger/crypto/link/hash/mac.html</a>
+</ul>
+
+
+<p><a name="CBC-MAC-DES-FIPS113"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">CBC-MAC-DES-FIPS113</font> <td align=right>MAC
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> If E<sub>K</sub> denotes DES encryption, and the input message is split into
+         blocks M<sub>0</sub>,... M<sub>n-1</sub> (using padding with zeroes for the
+         last block), then:
+         <ul>
+           <li> let C<sub>0</sub> = 0
+           <li> let C<sub>i+1</sub> = E<sub>K</sub>(C<sub>i</sub> XOR M<sub>i</sub>),
+                for i >= 0
+           <li> the MAC value is (a prefix of) C<sub>n-1</sub>.
+         </ul>
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, Test</i>] U.S. National Institute of Standards and Technology,<br>
+           NIST FIPS PUB 113,
+           "Standard on Computer Data Authentication,"<br>
+           U.S. Department of Commerce, May 1985.<br>
+           <a href="http://www.itl.nist.gov/div897/pubs/fip113.htm" target="_blank">
+           http://www.itl.nist.gov/div897/pubs/fip113.htm</a>
+      <li> [<i>An</i>] M. Bellare, R. Gu&eacute;rin and P. Rogaway,<br>
+           "The security of cipher block chaining,"<br>
+           Extended abstract in <cite>Advances in Cryptology - CRYPTO '94 Proceedings</cite>,
+           Volume 839 of Lecture Notes in Computer Science (Y. Desmedt ed.),
+           Springer-Verlag, 1994.<br>
+           Full paper available at
+           <a href="http://www-cse.ucsd.edu/users/mihir/papers/cbc.html" target="_blank">
+           http://www-cse.ucsd.edu/users/mihir/papers/cbc.html</a>
+      <li> [<i>An</i>] Bart Preneel, P.C. van Oorschot,<br>
+           "A new generic attack on message authentication codes,"<br>
+           <cite>Advances in Cryptology - CRYPTO '95 Proceedings</cite>,
+           Volume 963 of Lecture Notes in Computer Science (D. Coppersmith, ed.).
+           Springer-Verlag, 1995.
+      <li> [<i>An</i>] Bart Preneel, P.C. van Oorschot,<br>
+           "MDx-MAC and building fast MACs from hash functions,"<br>
+           <cite>Advances in Cryptology - CRYPTO '95</cite>,
+           Volume 963 of Lecture Notes in Computer Science (D. Coppersmith, ed.), pp. 1-14.
+           Springer-Verlag, 1995.<br>
+           <a href="http://citeseer.nj.nec.com/preneel95mdxmac.html" target="_blank">
+           http://citeseer.nj.nec.com/preneel95mdxmac.html</a>
+      <li> [<i>An</i>] Erez Petrank, C. Rackoff,<br>
+           "CBC MAC for Real Time Data Sources,"<br>
+           DIMACS Technical Report 97-26.<br>
+           <a href="http://dimacs.rutgers.edu/TechnicalReports/abstracts/1997/97-26.html" target="_blank">
+           http://dimacs.rutgers.edu/TechnicalReports/abstracts/1997/97-26.html</a><br>
+           Also in Journal of Cryptology, Vol. 13, No. 3 (2000), pp. 315-338.<br>
+           <a href="http://citeseer.nj.nec.com/petrank97cbc.html" target="_blank">
+           http://citeseer.nj.nec.com/petrank97cbc.html</a>
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> 64 bits as encoded; 56 bits excluding parity bits.
+  <dt><b>Output length:</b>
+    <dd> Minimum 32, maximum 64, default 64 bits.
+  <dt><b>Comment:</b>
+    <dd><ul class=noindent>
+      <li> FIPS 113 does not specify the result of applying the algorithm to
+           a message of zero length. The interpretation used here is that in that
+           case, the output is found by encrypting a single all-zero block.
+    </ul></dd>
+  <dt><b>Security comments:</b>
+    <dd><ul class=noindent>
+      <li> The output length of 64 bits is not sufficient to prevent a brute-force
+           attack (i.e. to find a message with a given MAC), and is very weak
+           against birthday attacks.
+      <li> The paper "MDx-MAC and building fast MACs from hash functions,"
+           describes an attack on CBC-MAC which requires (in the case of DES)
+           on the order of 2<sup>32</sup> known texts.
+      <li> The input is padded to a multiple of 64 bits by appending between
+           0 and 7 zero bytes. This means that any trailing zeroes in the last
+           block of the message will not affect the MAC result.
+      <li> CBC-MAC-DES-FIPS113 is not secure when used on messages of variable
+           length, unless the set of valid messages used by an application is
+           prefix-free, and each message is checked to come from the valid set.
+      <li> If a CBC-MAC is desired, <a href="#XCBC-MAC">XCBC-MAC</a> should be
+           used instead, with a 128-bit block cipher.
+    </ul></dd>
+</dl>
+
+<p><a name="CBC-MAC"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">CBC-MAC(<i>cipher</i>)</font> <td align=right>MAC Construction
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> If E<sub>K</sub> denotes encryption with the block cipher named
+         <i>cipher</i>, and the input message is split into blocks M<sub>0</sub>,
+         ... M<sub>n-1</sub> (using PKCS #7-style padding for the last block), then:
+         <ul>
+           <li> let C<sub>0</sub> = 0
+           <li> let C<sub>i+1</sub> = E<sub>K</sub>(C<sub>i</sub> XOR M<sub>i</sub>),
+                for i >= 0
+           <li> the MAC value is (a prefix of) C<sub>n-1</sub>.
+         </ul>
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Inf</i>] U.S. National Institute of Standards and Technology,<br>
+           NIST FIPS PUB 113,
+           "Standard on Computer Data Authentication,<br>
+           U.S. Department of Commerce, May 1985.<br>
+           <a href="http://www.itl.nist.gov/div897/pubs/fip113.htm" target="_blank">
+           http://www.itl.nist.gov/div897/pubs/fip113.htm</a>
+      <li> [<i>An</i>] M. Bellare, R. Gu&eacute;rin and P. Rogaway,<br>
+           "The security of cipher block chaining,"<br>
+           Extended abstract in <cite>Advances in Cryptology - Crypto' 94 Proceedings</cite>,
+           Volume 839 of Lecture Notes in Computer Science (Y. Desmedt ed.),
+           Springer-Verlag, 1994.<br>
+           Full paper available at
+           <a href="http://www-cse.ucsd.edu/users/mihir/papers/cbc.html" target="_blank">
+           http://www-cse.ucsd.edu/users/mihir/papers/cbc.html</a>
+      <li> [<i>An</i>] Bart Preneel, P.C. van Oorschot,<br>
+           "A new generic attack on message authentication codes,"<br>
+           <cite>Advances in Cryptology - CRYPTO '95 Proceedings</cite>,
+           Volume 963 of Lecture Notes in Computer Science (D. Coppersmith, ed.).
+           Springer-Verlag, 1995.
+      <li> [<i>An</i>] Bart Preneel, P.C. van Oorschot,<br>
+           "MDx-MAC and building fast MACs from hash functions,"<br>
+           <cite>Advances in Cryptology - CRYPTO '95</cite>,
+           Volume 963 of Lecture Notes in Computer Science (D. Coppersmith, ed.), pp. 1-14.
+           Springer-Verlag, 1995.<br>
+           <a href="http://citeseer.nj.nec.com/preneel95mdxmac.html" target="_blank">
+           http://citeseer.nj.nec.com/preneel95mdxmac.html</a>
+      <li> [<i>An</i>] Erez Petrank, C. Rackoff,<br>
+           "CBC MAC for Real Time Data Sources,"<br>
+           To appear in the Journal of Cryptology.<br>
+           <a href="http://www.cs.technion.ac.il/~erez/pra2.ps">
+           http://www.cs.technion.ac.il/~erez/pra2.ps</a>
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String cipher</code> [creation/read, no default] - the name
+             of the block cipher on which this MAC is to be based. The algorithm
+             must be available as a cipher.
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> As defined by the cipher.
+  <dt><b>Output length:</b>
+    <dd> Minimum 32 bits, maximum equal to the cipher block size. The default
+         output length is 64 bits, or half of the cipher block size rounded up to
+         the next multiple of 8 bits, whichever is greater.
+  <dt><b>Missing information:</b>
+    <dd> Test vectors.
+  <dt><b>Comment:</b>
+    <dd> The input is padded to a multiple of the cipher's block length by
+         using PKCS #7-style padding (as defined by the
+         <a href="cs.html#pad_PKCSPadding">PKCSPadding</a> algorithm for block
+         ciphers).
+  <dt><b>Security comments:</b>
+    <dd><ul class=noindent>
+      <li> The paper "MDx-MAC and building fast MACs from hash functions,"
+           describes an attack on CBC-MAC which requires on the order of
+           2<sup>k/2</sup> known texts, where k is the cipher block size in
+           bits. This means that CBC-MAC has limited security when used with
+           a 64-bit cipher (i.e. most block ciphers designed before the AES
+           process).
+      <li> CBC-MAC is not secure when used on messages of variable length,
+           unless the set of valid messages used by an application is
+           prefix-free, and each message is checked to come from the valid set.
+      <li> If a CBC-MAC is desired, <a href="#XCBC-MAC">XCBC-MAC</a> should be
+           used instead, with a 128-bit block cipher.
+    </ul></dd>
+</dl>
+
+<p><a name="XCBC-MAC"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">XCBC-MAC(<i>cipher</i>)</font> <td align=right>MAC Construction
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> The key K is split into three parts, K<sub>1</sub> (the key for the
+         underlying block cipher), and masking keys K<sub>2</sub> and K<sub>3</sub>.
+         The length of each masking key is equal to the cipher block size; that is,
+         the length of the key for the underlying cipher will be
+         length(K)&nbsp;-&nbsp;2&nbsp;&#215;&nbsp;blocksize.
+         Then the MAC is calculated as described in Black and Rogaway's paper.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] John Black, Phillip Rogaway,<br>
+           "A Suggestion for Handling Arbitrary-Length Messages with the CBC MAC,"<br>
+           Presented at the AES Modes Conference.<br>
+           [[need URL]]
+      <li> [<i>Inf</i>] John Black, Phillip Rogaway,<br>
+           "CBC MACs for arbitrary-length messages: The three-key constructions."<br>
+           Advances in Cryptology - CRYPTO '2000 Proceedings,
+           Volume 1880 of Lecture Notes in Computer Science (Mihir Bellare, ed.),
+           pp. 197-215. Springer-Verlag, 2000.
+      <li> [<i>An</i>] Bart Preneel, P.C. van Oorschot,<br>
+           "MDx-MAC and building fast MACs from hash functions,"<br>
+           <cite>Advances in Cryptology - CRYPTO '95</cite>,
+           Volume 963 of Lecture Notes in Computer Science (D. Coppersmith, ed.), pp. 1-14.
+           Springer-Verlag, 1995.<br>
+           <a href="http://citeseer.nj.nec.com/preneel95mdxmac.html" target="_blank">
+           http://citeseer.nj.nec.com/preneel95mdxmac.html</a>
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String cipher</code> [creation/read, no default] - the name
+             of the block cipher on which this MAC is to be based. The algorithm
+             must be available as a cipher.
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> As defined by the cipher, plus 2&nbsp;&#215;&nbsp;blocksize.
+  <dt><b>Output length:</b>
+    <dd> Minimum 32 bits, maximum equal to the cipher block size. The default
+         output length is 64 bits, or half of the cipher block size rounded up to
+         the next multiple of 8 bits, whichever is greater.
+  <dt><b>Security comments:</b>
+    <dd><ul class=noindent>
+      <li> The paper "MDx-MAC and building fast MACs from hash functions,"
+           describes an attack on CBC-MAC that extends to XCBC-MAC, and
+           requires on the order of 2<sup>k/2</sup> known texts, where k
+           is the cipher block size in bits. This means that XCBC-MAC has
+           limited security when used with a 64-bit cipher (i.e. most block
+           ciphers designed before the AES process).
+    </ul></dd>
+</dl>
+
+<p><a name="HMAC"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">HMAC(<i>digest</i>)</font> <td align=right>MAC Construction
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www-cse.ucsd.edu/users/mihir/" target="_blank">Mihir Bellare</a>,
+         Ran Canetti,
+         Hugo Krawczyk,
+         Adi Shamir
+  <dt><b>Published:</b>
+    <dd> June 1996
+  <dt><b>Aliases:</b>
+    <dd><ul class=noindent>
+      <li> "HmacMD5" is an alias to HMAC(MD5) [JDK compatibility]
+      <li> "HmacSHA1" is an alias to HMAC(SHA-1) [JDK compatibility]
+      <li> "1.3.6.1.5.5.8.1.1" is an alias to HMAC(MD5)
+      <li> "1.3.6.1.5.5.8.1.2" is an alias to HMAC(SHA-1)
+      <li> "1.3.6.1.5.5.8.1.3" is an alias to HMAC(Tiger)
+      <li> "1.3.6.1.5.5.8.1.4" is an alias to HMAC(RIPEMD-160)<br>
+           (<a href="http://www.iana.org/assignments/smi-numbers" target="_blank">source for OIDs</a> from
+           iso.org.dod.internet.security.mechanisms.ipsec.isakmpOakley tree)
+      <li> "http://www.w3.org/2000/02/xmldsig#hmac-sha1" is an alias to HMAC(SHA-1)
+    </ul></dd>
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, Impl</i>] M. Bellare, R. Canetti, H. Krawczyk,<br>
+           "HMAC: Keyed-Hashing for Message Authentication,"<br>
+           <a href="http://www.rfc-editor.org/rfc/rfc2104.txt" target="_blank">
+           <cite>RFC 2104</cite></a>, February 1997.
+      <li> [<i>Def, An</i>] M. Bellare, R. Canetti, H. Krawczyk,<br>
+           "Keying hash functions for message authentication,"<br>
+           Extended abstract in <cite>Advances in Cryptology - CRYPTO '96 Proceedings</cite>,
+           Volume 1109 of Lecture Notes in Computer Science (N. Koblitz, ed.),
+           Springer-Verlag, 1996.<br>
+           Full paper:
+           <a href="http://www-cse.ucsd.edu/users/mihir/papers/hmac.html#kmd5-paper" target="_blank">
+           http://www-cse.ucsd.edu/users/mihir/papers/hmac.html#kmd5-paper</a>
+      <li> [<i>Inf</i>] M. Bellare, R. Canetti, H. Krawczyk,<br>
+           "Message authentication using hash functions: The HMAC construction,"<br>
+           <cite>RSA Laboratories' CryptoBytes</cite> vol. 2, no. 1, Spring 1996.<br>
+           <a href="http://www-cse.ucsd.edu/users/mihir/papers/hmac.html#hmac-cryptobytes" target="_blank">
+           http://www-cse.ucsd.edu/users/mihir/papers/hmac.html#hmac-cryptobytes</a>
+      <li> [<i>Test</i>] P. Cheng, R. Glenn,<br>
+           "Test Cases for HMAC-MD5 and HMAC-SHA-1,"<br>
+           <a href="http://www.rfc-editor.org/rfc/rfc2202.txt" target="_blank">
+           <cite>RFC 2202</cite></a>, September 1997.<br>
+           (This contains a minor editorial error; see the
+           <a href="http://www.rfc-editor.org/errata.html" target="_blank">RFC Errata page</a>.)
+      <li> [<i>Test</i>] J. Kapp,<br>
+           "Test Cases for HMAC-RIPEMD160 and HMAC-RIPEMD128,"<br>
+           <a href="http://www.rfc-editor.org/rfc/rfc2286.txt" target="_blank">
+           <cite>RFC 2286</cite></a>, February 1998.
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation/read, no default] - the name
+             of the Block MessageDigest on which this MAC is to be based.
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> Any multiple of 8 bits that does not cause the maximum input length for the
+         MessageDigest to be exceeeded. Default 128 bits.
+  <dt><b>Output length:</b>
+    <dd> Minimum 32 bits, maximum equal to the message digest output length. The default is
+         equal to the message digest output length.
+</dl>
+
+<p><a name="MD5-MAC"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">MD5-MAC</font> <td align=right>MAC
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www.esat.kuleuven.ac.be/~preneel/" target="_blank">Bart Preneel</a>,
+         <a href="http://cacr.math.uwaterloo.ca/hac/authors/pvo.html" target="_blank">P.C. van Oorschot</a>
+  <dt><b>Description:</b>
+    <dd> The MAC algorithm obtained by applying the MDx-MAC method to MD5
+         (MDx-MAC is not defined as a construction, since it involves changes
+         to the internal structure of the message digest being used).
+  <dt><b>Published:</b>
+    <dd> 1995
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, An, Test</i>] Bart Preneel, P.C. van Oorschot,<br>
+           "MDx-MAC and building fast MACs from hash functions,"<br>
+           <cite>Advances in Cryptology - CRYPTO '95</cite>,
+           Volume 963 of Lecture Notes in Computer Science (D. Coppersmith, ed.), pp. 1-14.
+           Springer-Verlag, 1995.<br>
+           <a href="http://citeseer.nj.nec.com/preneel95mdxmac.html" target="_blank">
+           http://citeseer.nj.nec.com/preneel95mdxmac.html</a>
+      <li> [<i>Inf, Test</i>] A. Menezes, P.C. van Oorschot, S.A. Vanstone,<br>
+           "Algorithm 9.69 MD5-MAC,"<br>
+           <cite>Handbook of Applied Cryptography</cite>,
+           CRC Press, 1997.<br>
+           <a href="http://www.cacr.math.uwaterloo.ca/hac/about/chap9.pdf" target="_blank">
+           http://www.cacr.math.uwaterloo.ca/hac/about/chap9.pdf</a>,
+           <a href="http://www.cacr.math.uwaterloo.ca/hac/about/chap9.ps">.ps</a>
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> Minimum 8, maximum 128, multiple of 8 bits; default 128 bits.
+  <dt><b>Output length:</b>
+    <dd> Minimum 32, maximum 128, default 64 bits.
+  <dt><b>Security comment:</b>
+    <dd> MD5-MAC is claimed to require approximately 2<sup>64</sup> operations to
+         forge a message (increasing the Output length property from the default,
+         8 bytes, does not necessarily improve this).
+</dl>
+
+<p><a name="RIPEMD-128-MAC"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">RIPEMD-128-MAC</font> <td align=right>MAC
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www.esat.kuleuven.ac.be/~preneel/" target="_blank">Bart Preneel</a>,
+         <a href="http://cacr.math.uwaterloo.ca/hac/authors/pvo.html" target="_blank">P.C. van Oorschot</a>
+  <dt><b>Description:</b>
+    <dd> The MAC algorithm obtained by applying the MDx-MAC method to RIPEMD-128
+         (MDx-MAC is not defined as a construction, since it involves changes
+         to the internal structure of the message digest being used).
+  <dt><b>Published:</b>
+    <dd> 1995
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, An</i>] Bart Preneel, P.C. van Oorschot,<br>
+           "MDx-MAC and building fast MACs from hash functions,"<br>
+           <cite>Advances in Cryptology - CRYPTO '95</cite>,
+           Volume 963 of Lecture Notes in Computer Science (D. Coppersmith, ed.), pp. 1-14.
+           Springer-Verlag, 1995.<br>
+           <a href="http://citeseer.nj.nec.com/preneel95mdxmac.html" target="_blank">
+           http://citeseer.nj.nec.com/preneel95mdxmac.html</a>
+      <li> [<i>Inf, Impl, Test</i>] Hans Dobbertin, Antoon Bosselaers, Bart Preneel,<br>
+           <cite>The RIPEMD-160 page</cite>,<br>
+           <a href="http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html" target="_blank">
+           http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html</a>
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> Minimum 8, maximum 128, multiple of 8 bits; default 128 bits.
+  <dt><b>Output length:</b>
+    <dd> Minimum 32, maximum 128, default 64 bits.
+  <dt><b>Security comment:</b>
+    <dd> RIPEMD-128-MAC is claimed to require approximately 2<sup>64</sup>
+         operations to forge a message (increasing the Output length property
+         from the default, 8 bytes, does not necessarily improve this).
+</dl>
+
+<p><a name="RIPEMD-160-MAC"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">RIPEMD-160-MAC</font> <td align=right>MAC
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www.esat.kuleuven.ac.be/~preneel/" target="_blank">Bart Preneel</a>,
+         <a href="http://cacr.math.uwaterloo.ca/hac/authors/pvo.html" target="_blank">P.C. van Oorschot</a>
+  <dt><b>Description:</b>
+    <dd> The MAC algorithm obtained by applying the MDx-MAC method to RIPEMD-160
+         (MDx-MAC is not defined as a construction, since it involves changes
+         to the internal structure of the message digest being used).
+  <dt><b>Published:</b>
+    <dd> 1995
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, An</i>] Bart Preneel, P.C. van Oorschot,<br>
+           "MDx-MAC and building fast MACs from hash functions,"<br>
+           <cite>Advances in Cryptology - CRYPTO '95</cite>,
+           Volume 963 of Lecture Notes in Computer Science (D. Coppersmith, ed.), pp. 1-14.
+           Springer-Verlag, 1995.<br>
+           <a href="http://citeseer.nj.nec.com/preneel95mdxmac.html" target="_blank">
+           http://citeseer.nj.nec.com/preneel95mdxmac.html</a>
+      <li> [<i>Inf, Impl, Test</i>] Hans Dobbertin, Antoon Bosselaers, Bart Preneel,<br>
+           <cite>The RIPEMD-160 page</cite>,<br>
+           <a href="http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html" target="_blank">
+           http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html</a>
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> Minimum 8, maximum 128, multiple of 8 bits; default 128 bits.
+  <dt><b>Output length:</b>
+    <dd> Minimum 32, maximum 160, default 80 bits.
+  <dt><b>Security comment:</b>
+    <dd> RIPEMD-160-MAC is claimed to require approximately 2<sup>80</sup>
+         operations to forge a message (increasing the Output length property
+         from the default, 10 bytes, does not necessarily improve this).
+</dl>
+
+<p><a name="SSL3-MAC"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">? <font color=green>SSL3-MAC</font>(<i>digest</i>)</font> <td align=right>MAC Construction
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www-cse.ucsd.edu/users/mihir/" target="_blank">Mihir Bellare</a>,
+         Ran Canetti,
+         Hugo Krawczyk
+  <dt><b>Alias:</b>
+    <dd> "SSL3MAC"
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Netscape Communications Corp.,<br>
+           <cite>SSL v3 specification</cite>,<br>
+           <a href="http://www.netscape.com/eng/ssl3/" target="_blank">
+           http://www.netscape.com/eng/ssl3/</a>
+      <li> [<i>Inf, An</i>] M. Bellare, R. Canetti, H. Krawczyk,<br>
+           "Keying hash functions for message authentication,"<br>
+           Extended abstract in <cite>Advances in Cryptology - CRYPTO '96 Proceedings</cite>,
+           Volume 1109 of Lecture Notes in Computer Science (N. Koblitz, ed.).
+           Springer-Verlag, 1996.<br>
+           Full paper:
+           <a href="http://www-cse.ucsd.edu/users/mihir/papers/hmac.html#kmd5-paper" target="_blank">
+           http://www-cse.ucsd.edu/users/mihir/papers/hmac.html#kmd5-paper</a><br>
+           (This paper describes the later HMAC design, but many of the same security
+           properties apply to SSL3-MAC.)
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation/read, no default] - the name
+             of the message digest on which this MAC is to be based. Not all message
+             digests can necessarily be used, but at least MD5 and SHA-1 MUST be
+             implemented.
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> Any multiple of 8 bits that does not cause the maximum input length for the
+         MessageDigest to be exceeeded.
+  <dt><b>Output length:</b>
+    <dd> Minimum 32 bits, maximum equal to the message digest output length. The default is
+         equal to the message digest output length.
+  <dt><b>Comment:</b>
+    <dd> This is an early version of <a href="#HMAC">HMAC</a>, which should
+         now be used in preference (except for compatibility with SSL version 3).
+         The difference is that in SSL3-MAC, the padding strings 'ipad' and 'opad'
+         are appended to the key, whereas in HMAC, they are exclusive-or'd with
+         the zero-extended key.
+</dl>
+
+<p><a name="Two-Track-MAC"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>Two-Track-MAC</span></font> <td align=right>MAC
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Bart Van Rompay, Bert den Boer
+  <dt><b>Published:</b>
+    <dd> November 2000
+  <dt><b>Alias:</b>
+    <dd> "TTMAC"
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Bart Van Rompay, Bert den Boer,<br>
+           <cite>NESSIE Submission - Two-Track-MAC</cite>.<br>
+           spec.ps in
+           <a href="http://www.cryptonessie.org/submissions/twotrackmac/twotrackmac.zip">
+           http://www.cryptonessie.org/submissions/twotrackmac/twotrackmac.zip</a>
+      <li> [<i>Inf</i>] Hans Dobbertin, Antoon Bosselaers, Bart Preneel,<br>
+           <cite>RIPEMD-160: A Strengthened Version of RIPEMD</cite>.<br>
+           A joint publication by the German Information Security Agency
+           (POB 20 03 63, D-53133 Bonn, Germany)
+           and the Katholieke Universiteit Leuven, ESAT-COSIC
+           (K. Mercierlaan 94, B-3001 Heverlee, Belgium), 18 April 1996.<br>
+           <a href="ftp://ftp.esat.kuleuven.ac.be/pub/COSIC/bosselae/ripemd/ripemd160.ps.gz">
+           ftp://ftp.esat.kuleuven.ac.be/pub/COSIC/bosselae/ripemd/ripemd160.ps.gz</a>
+      <li> [<i>Test</i>] Bart Van Rompay, Bert den Boer,<br>
+           <cite>Two-Track-MAC Test Vectors</cite>.<br>
+           testsuite.txt in
+           <a href="http://www.cryptonessie.org/submissions/twotrackmac/twotrackmac.zip">
+           http://www.cryptonessie.org/submissions/twotrackmac/twotrackmac.zip</a>
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> 160 bits.
+  <dt><b>Output length:</b>
+    <dd> Minimum 64, maximum 160, multiple of 32 bits. Default 160 bits.
+</dl>
+
+<p><a name="UMAC16"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>UMAC16</span>[(<i>signedFlag</i>,<i>preferredEndian</i>,<br>
+      <i>l1KeyLen</i>,<i>outputLen</i>,<i>cipher</i>)]</font> <td align=right>MAC Construction
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Theodore Krovetz, John Black, Shai Halevi, A. Hevia, Hugo Krawczyk,
+         <a href="http://www.cs.ucdavis.edu/~rogaway/" target="_blank">Phillip Rogaway</a>
+  <dt><b>Published:</b>
+    <dd> November 2000
+  <dt><b>Description:</b>
+    <dd> This is the version of UMAC submitted to the NESSIE project (UMAC 2000),
+         with the 16-bit parameter set. The default parameters are signedFlag = S,
+         preferredEndian = LE, l1KeyLen = 1024, outputLen = 8, cipher = Rijndael.
+         <p>
+         Note that the signed default is different from <a href="#UMAC32">UMAC32</a>.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] T. Krovetz, J. Black, S. Halevi, A. Hevia, H. Krawczyk, P. Rogaway,<br>
+           <cite>UMAC: Message Authentication Code using Universal Hashing</cite>.<br>
+           draft-krovetz-umac-00.txt in
+           <a href="http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip">
+           http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip</a>
+      <li> [<i>Inf, Impl, Test</i>] T. Krovetz,<br>
+           PhD Thesis,<br>
+           thesis.pdf in
+           <a href="http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip">
+           http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip</a>
+      <li> [<i>Inf</i>] Phillip Rogaway,<br>
+           <cite>UMAC Home Page</cite>,<br>
+           <a href="http://www.cs.ucdavis.edu/~rogaway/umac/" target="_blank">
+           http://www.cs.ucdavis.edu/~rogaway/umac/</a>
+      <li> [<i>An</i>] Bart van Rompey, Vincent Rijmen, Jorge Nakahara Jr.,<br>
+           "A First Report on UMAC,"<br>
+           NESSIE Project public report, March 12, 2001.<br>
+           <a href="https://www.cosic.esat.kuleuven.ac.be/nessie/reports/kulwp3-006-1.pdf" target="_blank">
+           https://www.cosic.esat.kuleuven.ac.be/nessie/reports/kulwp3-006-1.pdf</a>
+      <li> [<i>Test</i>] Bart Van Rompay, Bert den Boer,<br>
+           <cite>UMAC Test Vectors</cite>.<br>
+           testsuite.txt in
+           <a href="http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip">
+           http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip</a>
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> As block cipher.
+  <dt><b>Output length:</b>
+    <dd> As given by outputLen parameter.
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String signedFlag</code> [creation/read, default "S"] -
+             "S" for signed, or "U" for unsigned.
+      <li> <code>String preferredEndian</code> [creation/read, default "LE"] -
+             "LE" for little-endian, or "BE" for big-endian.
+      <li> <code>Integer l1KeyLen</code> [creation/read, default 1024] - the length
+             of the seed (or counter) value, in bytes.
+      <li> <code>Integer outputLen</code> [creation/read, default 8] - the length
+             of the MAC output in bytes. (Note that unlike most SCAN MACs, the
+             output is not just a prefix of a fixed-length result.)
+      <li> <code>String cipher</code> [creation/read, default "Rijndael"] - the name
+             of the cipher on which this MAC is to be based, which MUST be
+             an available block cipher.
+    </ul></dd>
+</dl>
+
+<p><a name="UMAC32"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>UMAC32</span>[(<i>signedFlag</i>,<i>preferredEndian</i>,<br>
+      <i>l1KeyLen</i>,<i>outputLen</i>,<i>cipher</i>)]</font> <td align=right>MAC Construction
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Theodore Krovetz, John Black, Shai Halevi, A. Hevia, Hugo Krawczyk,
+         <a href="http://www.cs.ucdavis.edu/~rogaway/" target="_blank">Phillip Rogaway</a>
+  <dt><b>Published:</b>
+    <dd> November 2000
+  <dt><b>Description:</b>
+    <dd> This is the version of UMAC submitted to the NESSIE project (UMAC 2000),
+         with the 32-bit parameter set. The default parameters are signedFlag = U,
+         preferredEndian = LE, l1KeyLen = 1024, outputLen = 8, cipher = Rijndael.
+         <p>
+         Note that the unsigned default is different from <a href="#UMAC16">UMAC16</a>.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] T. Krovetz, J. Black, S. Halevi, A. Hevia, H. Krawczyk, P. Rogaway,<br>
+           <cite>UMAC: Message Authentication Code using Universal Hashing</cite>.<br>
+           draft-krovetz-umac-00.txt in
+           <a href="http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip">
+           http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip</a>
+      <li> [<i>Inf, Impl, Test</i>] T. Krovetz,<br>
+           PhD Thesis,<br>
+           thesis.pdf in
+           <a href="http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip">
+           http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip</a>
+      <li> [<i>Inf</i>] Phillip Rogaway,<br>
+           <cite>UMAC Home Page</cite>,<br>
+           <a href="http://www.cs.ucdavis.edu/~rogaway/umac/" target="_blank">
+           http://www.cs.ucdavis.edu/~rogaway/umac/</a>
+      <li> [<i>An</i>] Bart van Rompey, Vincent Rijmen, Jorge Nakahara Jr.,<br>
+           "A First Report on UMAC,"<br>
+           NESSIE Project public report, March 12, 2001.<br>
+           <a href="https://www.cosic.esat.kuleuven.ac.be/nessie/reports/kulwp3-006-1.pdf" target="_blank">
+           https://www.cosic.esat.kuleuven.ac.be/nessie/reports/kulwp3-006-1.pdf</a>
+      <li> [<i>Test</i>] Bart Van Rompay, Bert den Boer,<br>
+           <cite>UMAC Test Vectors</cite>.<br>
+           testsuite.txt in
+           <a href="http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip">
+           http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip</a>
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> As block cipher.
+  <dt><b>Output length:</b>
+    <dd> As given by outputLen parameter.
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String signedFlag</code> [creation/read, default "U"] -
+             "S" for signed, or "U" for unsigned.
+      <li> <code>String preferredEndian</code> [creation/read, default "LE"] -
+             "LE" for little-endian, or "BE" for big-endian.
+      <li> <code>Integer l1KeyLen</code> [creation/read, default 1024] - the length
+             of the seed (or counter) value, in bytes.
+      <li> <code>Integer outputLen</code> [creation/read, default 8] - the length
+             of the MAC output in bytes. (Note that unlike most SCAN MACs, the
+             output is not just a prefix of a fixed-length result.)
+      <li> <code>String cipher</code> [creation/read, default "Rijndael"] - the name
+             of the cipher on which this MAC is to be based, which MUST be
+             an available block cipher.
+    </ul></dd>
+</dl>
+
+<p><a name="XMACWithDigest"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">&#215;&nbsp;<span class=x>XMACWithDigest</span>(<i>digest</i>[<i>,seedLength</i>])</font> <td align=right>MAC Construction
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www-cse.ucsd.edu/users/mihir/" target="_blank">Mihir Bellare</a>,
+         R. Gu&eacute;rin,
+         <a href="http://www.cs.ucdavis.edu/~rogaway/" target="_blank">Phillip Rogaway</a>
+  <dt><b>Description:</b>
+    <dd> This algorithm covers both the XMACC and XMACR variants described in the
+         "XOR MACs" paper, using a pseudo-random function constructed from a message
+         digest compression function.
+  <dt><b>Published:</b>
+    <dd> October 1995
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, An</i>] M. Bellare, R. Gu&eacute;rin and P. Rogaway,<br>
+           "XOR MACs: New methods for message authentication using finite
+            pseudorandom functions,"<br>
+           Extended abstract in <cite>Advances in Cryptology - Crypto 95 Proceedings</cite>,
+           Volume 963 of Lecture Notes in Computer Science (D. Coppersmith ed.),
+           Springer-Verlag, 1995.<br>
+           Full paper available at
+           <a href="http://www-cse.ucsd.edu/users/mihir/papers/xormacs.html" target="_blank">
+           http://www-cse.ucsd.edu/users/mihir/papers/xormacs.html</a>
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> Minimum 32 bits, maximum 16 bits less than the message digest output length,
+         multiple of 8 bits.
+         The default is 128 bits or the maximum length, whichever is shorter.
+  <dt><b>Output length:</b>
+    <dd> Minimum 32 bits, maximum equal to the message digest output length, default 80 bits.
+         This does not include the length of the seed.
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation/read, no default] - the name
+             of the message digest on which this MAC is to be based, which MUST be
+             a Block MessageDigest from either the same provider, or an installed
+             provider.
+      <li> <code>Integer seedLength</code> [creation/read, default 8] - the length
+             of the seed (or counter) value, in bytes.
+      <li> <code>Long counter</code> [read/write, default null] - the current counter
+             value, if the XMACC variant is being used.
+    </ul></dd>
+  <dt><b>Missing information:</b>
+    <dd><ul class=noindent>
+      <li> Test vectors.
+    </ul></dd>
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> The input to the message digest compression function is an array of
+           chaining variables, and a block of message bytes. It is formed as follows:
+           <ul>
+             <li> For the block containing the seed, pad the key with zeroes on the
+                  right up to the digest length, and convert to an array of chaining
+                  variables, using the normal byte order for the hash function. The
+                  message block consists of a big-endian representation of the seed
+                  value at the end of the block, padded on the left with zeroes.
+             <li> For all other blocks, concatenate the key with a big-endian
+                  representation of the index value, so that the length of the
+                  result is equal to the digest length. Then convert to an array of
+                  chaining variables, using the normal byte order for the hash function.
+                  The message block is a direct copy of the corresponding block of
+                  the MAC input.
+           </ul>
+           <p>
+           The index starts with its most significant bit set to 1, and all other
+           bits zero; it is incremented for every block. If the index reaches the
+           all-ones value, it wraps to 1 (i.e. missing out zero). If it exhausts all
+           possible values except zero, attempting to update more data will cause
+           an <code>IllegalStateException</code> to be thrown.
+           <p>
+           Note that the index or seed is encoded in big-endian order, before
+           converting to the internal byte order used by the hash function. I.e.
+           if the hash function interprets words as little-endian, the effect is
+           to <em>always</em> reverse the byte order of these values.
+           <p>
+           Padding of the last block is performed in the same way as for the
+           underlying message digest.
+      <li> There is no difference between the XMACC and XMACR variants for MAC
+           verification. For MAC generation, setting the <code>counter</code>
+           parameter to a non-null value will reset the <code>Mac</code> object, and
+           cause the given value to be used for the current message, then incremented
+           for each subsequent message (i.e. in the Java mapping, the <code>counter</code>
+           parameter is incremented whenever any of the <code>doFinal</code> methods
+           is called). If the counter reaches 2<sup>seedLength</sup>, the
+           <code>Mac</code> object becomes invalid, and always throws an
+           <code>IllegalStateException</code>.
+           <p>
+           When <code>counter</code> is null, the seed is generated as a random
+           value of length <code>seedLength</code> bytes.
+           In this case the <code>counter</code> parameter remains null, and is not
+           incremented after a call to a <code>doFinal</code> method.
+      <li> If a <code>Mac</code> object that implements this algorithm is cloned,
+           the cloning process MUST automatically set the <code>counter</code>
+           parameter of the clone to null.
+      <li> The seed value is encoded as <code>seedLength</code> bytes in big-endian
+           order, and prepended to the MAC output.
+      <li> Unlike a previous draft, this algorithm is not compatible with the
+           implementation of XMACC in Crypto++ 3.0/3.1.
+      <li> Sun's API for <code>javax.crypto.Mac</code> appears to work only for deterministic
+           MAC algorithms, which needs to be fixed by separating MAC computation from
+           verification, and by providing a way to initialise the seed before using
+           <code>update</code>.
+    </ul></dd>
+  <dt><b>Security comment:</b>
+    <dd> When using the counter variant of XMAC, it is vital to ensure that the counter
+         never repeats for two messages with the same key. One way of doing this is to
+         save the current value of the counter after it is finished with, and restore it
+         when the key is re-used with a different <code>Mac</code> object; another is to
+         avoid re-using keys entirely.
+</dl>
+
+<p><a name="PCSWithDigest"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">&#215;&nbsp;<span class=x>PCSWithDigest</span>(<i>digest</i>)</font> <td align=right>MAC Construction
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Dan Bernstein [[link to home page]]
+  <dt><b>Description:</b>
+    <dd> This algorithm specifies "Protected Counter Sum" with the pseudo-random function
+         <i>f</i> constructed from a message digest compression function (rather than
+         the <i>surf</i> function described in Bernstein's paper).
+  <dt><b>Published:</b>
+    <dd> October 1995
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, An</i>] D. J. Bernstein,<br>
+           "How to Stretch Random Functions: The Security of Protected Counter Sums,"<br>
+           Journal of Cryptology Volume 12 #3, pp. 185-192.<br>
+           <a href="http://cr.yp.to/papers/stretch.dvi">
+           http://cr.yp.to/papers/stretch.dvi</a><br>
+           [[need to provide PS or PDF copy]]
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> Minimum 32 bits, maximum 16 bits less than the message digest output length,
+         multiple of 8 bits.
+         The default is 128 bits or the maximum length, whichever is shorter.
+  <dt><b>Output length:</b>
+    <dd> Minimum 32 bits, maximum equal to the message digest output length, default 80 bits.
+         This does not include the length of the seed.
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation/read, no default] - the name
+             of the message digest on which this MAC is to be based, which MUST be
+             an available Block MessageDigest.
+    </ul></dd>
+  <dt><b>Missing information:</b>
+    <dd><ul class=noindent>
+      <li> Test vectors.
+    </ul></dd>
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> The input to the message digest compression function is formed in the
+           same way as for <a href="#XMACWithDigest">XMACWithDigest</a> above (except that
+           there is no seed block).
+           <p>
+           Padding of the last block is performed in the same way as for the
+           underlying message digest.
+    </ul></dd>
+  <dt><b>Security comment:</b>
+    <dd> Note that the input to the PRF will be larger than in Bernstein's paper.
+         The security proofs are not significantly affected by this.
+</dl>
+
+
+<a name="alleged"></a><hr>
+<h3>Alleged MACs</h3>
+
+<ul>
+  <li> <span class=a>MAA</span> [HAC p356] is
+       <a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html#PRO97"
+          target="_blank">broken</a> [also HAC p381].
+  <li> <span class=a>CRC-MAC</span> [HAC p359].
+  <li> <span class=a>IBC-Hash</span> [AC2 p458].
+  <li> <span class=a>NMAC</span> (related to HMAC).
+  <li> <span class=a>Rogaway-bucket-MAC</span> [HAC p382].
+  <li> <span class=a>KHF</span>.
+</ul>
+
+
+<hr size=3 noshade>
+<img src="cryptix-s.gif" alt="" align=right>
+
+<table><tr>
+  <td width=200>
+      <a target="_blank" href="http://validator.w3.org/check/referer"><img
+      src="vh40.gif" alt="Valid HTML 4.0" border=0 height=31 width=88></a>&nbsp;<a
+      target="_blank" href="http://jigsaw.w3.org/css-validator/check/referer"><img
+      src="vcss.gif" alt="Valid CSS" border=0 height=31 width=88></a>
+  <td valign=top>
+      <a href="intro.html#copyright">Copyright and trademarks</a>
+</tr></table>
+
+</body>
+</html>

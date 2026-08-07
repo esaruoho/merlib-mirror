@@ -1,0 +1,561 @@
+---
+title: "The Woman's Boat by Toni Childs"
+source_domain: amasci.com
+source_path: ~wayneld/w-boat.html
+order: 9633
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T06:02:06Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Woman's Boat by Toni Childs
+
+*Source page: `~wayneld/w-boat.html`*
+
+![](icons/li-br-pu.gif)
+
+- [The Album: The Woman's Boat by Toni Childs](#0)\
+
+  [1. Womb (4:49)](#1)\
+  [2. Welcome To The World (6:24)](#2)\
+  [3. Predator (6:44)](#3)\
+  [4. I Just Want Affection (5:57)](#4)\
+  [5. I Met A Man (4:41)](#5)\
+  [6. The Woman's Boat (5:01)](#6)\
+  [7. Wild Bride (3:59)](#7)\
+  [8. Sacrifice (5:16)](#8)\
+  [9. Lay Down Your Pain (6:09)](#9)\
+  [10. Long Time Coming (4:33)](#10)\
+  [11. Death (10:28)](#11)\
+
+<span id="0"></span>
+
+## 
+
+------------------------------------------------------------------------
+
+<span id="1"></span>
+
+### Womb
+
+------------------------------------------------------------------------
+
+    Toni Childs
+
+    I'm breathing in life
+    I'm breathing in her
+    I'm breathing in the darkness
+    of what it is to live
+    It's beautiful here
+
+    I'm breathing in life
+    I'm breathing in blood
+    I'm breathing in the liquid
+    of life and holy joy
+    It's beautiful here
+
+    ythere is safety in my ears
+    It's wonderful to be here with you
+    I'm feeling safe inside you
+    and I'm feeling like life would inside of you
+    the blood and the river are the same
+    we are one with you here the same
+
+    mother, can you tell me please
+    am I safe
+    I decide for the world
+    and I decide to be born
+    I decide for the world
+    and I decide to be born
+    what will I think of this world?
+    what will I do in this world?
+    will I be afraid of this world?
+        
+    Welcome To The World
+
+    Toni Childs, Jimmy Smyth
+    hush, now
+    and go to sleep
+    go to sleep my baby (repeat)
+
+    let me welcome you to this world
+    and let me tell you of my world
+    how it is
+    and how it is
+    you want to know now
+    I want to say that it's a bad world
+    and tell you that it's so, so bad
+    I don't want to disappoint you my child
+    but this world is gonna take you
+    gonna take you by storm child
+    you will be hurt and there will be pain, yeah
+    but there will be love just the same, yeah
+    welcome to the world my boy and girl
+    welcome to the world, welcome to the world
+
+    welcome to the world child
+    and all it has in store
+    you will do what you do
+    what you choose any old time
+    and take how you take
+    you'll begin to find
+    that fight as you fight as you will in life
+    solutions, confusions
+    won't you take this time now
+
+    I want to welcome you to this world
+    and yes, there'll be days and nights
+    when you know the world is alright
+
+    round and round the world we go
+    easy come, some say, easy go
+    the world could be a better place
+    but it's going to take the whole human race
+    we want to welcome you to this world
+    and yes, there'll be days and nights
+    when you'll wonder is the world right
+    we want to welcome you to this world
+    and yes, there'll be days and nights
+    when you'll know the world is alright
+
+    we all bounce on the big world ball
+    come child, come with me
+    come and bounce onto this world and see (repeat)
+
+    we are joy
+    we are light
+    we are darkness and we are night
+    we are hands and heads and ears and nose
+    we are feet, fingers, limbs and toes
+    we all, we all
+    we are bouncing on this big world ball
+
+    we pull triggers
+    we play with guns
+    we play with shoelaces and we twist our tongues
+    we are kisses
+    we are huggs
+    we are the match that will light you off
+
+    Predator
+
+    Toni Childs, Jimmy Smyth
+    walking down the road
+    I feel so low, low, low
+    and I'm feeling like I don't know life
+    I don't know, know, know
+    there's something in my head
+    something haunting me
+    something that I'd rather say
+    goodbye, goodbye
+
+    it's another deception
+    it's a voice that's being cruel
+    it's the predator deep inside
+
+    you meet a bluebeard on the road
+    he's saying hello, hello
+    and he shakes you by the hand
+    he says you're gonna blow
+    man you're gonna blow
+    he's a clever person my dear
+    he's a clever one to fear
+    he's the one that says don't open up that door
+
+    it's a monster, i can tell you
+    it's someone to be scared of
+    it's the predator deep inside
+
+    he's coming for you
+    he's coming for you now
+    he's coming for you now
+    he, he sounds a little scary
+    as he whispers, he tells you and you frown
+    you're losing, losing your ground
+    you want to, move him out
+    deny he's there
+    but you can't let out that he's in your head
+
+    it's the predator
+    it's the predator who lives inside your head
+
+    it's the predator inside you
+    it's remarkable disguise--you
+    it's the mask you won't admit inside your head
+
+    walk with the man at night
+    he says he don't know, know, know
+    and he's fucking with your head
+    you don't know, know, know
+
+    it's radio k-fuck
+    it's coming in loud and clear
+    but the signals crossed
+    you can't shut it off
+    and it knows no fear
+
+    it's a monster
+    I can tell you
+    it's someone to be scared of
+    it's the predator deep inside
+
+    it's not the sharks outside you
+    it's not living in the dark
+    it's what lurks inside your mind
+    that it sparks
+
+    I Just Want Affection
+
+    Toni Childs
+    I just want affection
+    I want to feel you near
+    I want to know that you're real, yeah
+    that you are for real
+
+    they say I have a problem
+    they say there's something wrong, so wrong
+    with wanting and desire
+    this desire is strong
+    I just want affection
+    I just want to sweat
+    I'm wanting to feel
+    that life is real
+    is there something wrong with that?
+    no  no  no
+
+    I just want affection
+    I want to feel you here
+    I want to know that you're real, yeah, yeah
+    and that I really do feel--
+    that you can love me
+    and I can love you
+    and you can love me
+    and I can love you
+
+    I just want affection
+    can you help me please now
+    I need a desparate need of attention
+    am I wrong for that? am I?
+    is there something wrong with that?
+    no  no
+
+    I just want affection
+    I need to sweat
+    i need to know
+    that this world, is this world
+    and I'm not alone
+    is there something wrong with that?
+    no  no  no
+
+    I Met A Man
+
+    Toni Childs
+    I heard a man who called me
+    I heard his name unfold
+    I heard a man who called me
+    I heard his spirit told
+
+    I heard a music in me
+    I heard a sound inside
+    I heard a man remind me
+    of what lives inside
+    doo do a doo doo
+
+    how do you love?
+    and how do you care?
+    and how do you live and believe?
+    do you look away?
+
+    I heard a music in me
+    I heard a sound inside
+    I heard a man remind me
+    of what lives inside
+    doo do a do do d-do
+
+    how do you love?
+    and how do you care?
+    how do you live and believe?
+    do you look away?
+
+    The Woman's Boat
+
+    now, I am a woman
+    and you are a man
+    I was born different from you
+    on this earth we both stand
+    now, as a daughter
+    I have learned rules and laws
+    what to say and not to say
+    what's acceptable to be called
+    in the woman's boat
+    on the woman's sea
+    they are calling us
+    they are calling us to sea
+
+    and yes, I have my worries
+    about the human race
+    you see my breasts are aching
+    and I hope it's not too late
+    for the woman's boat
+    on the woman's sea
+    they are calling us and they're calling me
+
+    how the seasons change
+    they rock and they rage
+    will I please allow the thunder
+    and the birth inside of me
+
+    now do you believe in powers
+    like the human and the seed
+    and how evolution happens
+    how the whirlpool spins in me
+    oh grandmother tell us your secrets
+    your stories passed down through the years
+    could I really believe it?
+    is there something happening here?
+    in the woman's boat
+    on the woman's sea
+    is there something hidden
+    something to see
+
+    oh the seasons change
+    they're rocky and they rage
+    will I please allow the thunder
+    and the birth inside of me
+
+    Wild Bride
+    Toni Childs, Jimmy Smyth
+    the wild bride lives
+    in the back of a forest
+    on a black dark path
+    her feet are like tree roots
+    her hands of vines
+    and she holds you and she will entwine
+
+    dreams, she finds out are shattered like a knife
+    and she hopes that somewhere along the line
+    and she might find--she has thorns and she scars
+    and she will leave her mark
+    she's the wild one
+    she's the wild bride
+
+    the wild bride asks
+    and hopes for the future
+    and children, an abundance of them
+    but a ball and a chain and war, her domain
+    she wants them no longer this way
+    dreams she finds out are shattered like a knife
+    and she hopes that somewhere along the line
+    she might find--
+    can I tear back the veils that are here?
+    resisting the white gown I fear
+    for the wildness in me wants to exist
+
+    why must I wear these tattered old dresses
+    and white lace over my gown
+    and why must I be a barbie doll figure
+    like on a cake, on a crown
+
+    why does it have to be?
+    can I change the loop on the wild bride
+    underneath?  and her dreams
+    she finds out are shattered by life
+    and she hopes that somwhere along the line
+    she might find--love
+
+    the wild bride falls to the earth
+    a sacrifice
+    no one can break from this ball and chain
+    of this wild bride
+    the thorns in her hands
+    and a rest for her skins
+    and belly filled with gold
+    and seed like a pomegranate
+    and roots for her limbs
+    and telling you she'll wrap you with sin
+
+    Sacrifice
+
+    Toni Childs, Jimmy Smyth
+    I could be under a tree
+    looking for an answer today
+    but though I cannot find some peace of mind
+    I know that I will be fine
+    as I find my way, to motherhood
+
+    motherhood the question of a life
+    to be the window here into the world
+    the world, the earth
+    it requires, that mother sit
+    and mother sow the wheat
+    and as the grain comes down
+    mother surely feast
+    it's the story of the land
+    it's the heart 
+    it's the soul of the man
+
+    it's the life
+    it's the god
+    it's the need
+    it's the life
+    it's the seed that we seek
+
+    but though I cannot find some peace of mind
+    I know that I will be fine
+    as I find my way
+    it requires, that mother sit
+    and mother sow the wheat
+    and as the grain comes down
+    mother surely feast
+    it's the story of the land
+    it's the heart 
+    it's the soul of the man
+
+    it's the life
+    it's the god
+    it's the need
+    it's the life
+    it's the seed that we seek
+
+    how can I turn it away?
+    how can I say no to what I am
+    the woman, the door, the woman
+    now I sit with my child
+    living out my life
+    I sit with my child 
+    the sacrifice
+
+    Lay Down Your Pain
+
+    Toni Childs, David Rhodes
+    I can hear
+    your voice, your voice
+    calling from the window
+    when you yelled that night
+    I didn't understand at all
+
+    but you hurt 
+    and you cried
+    and you're mad 
+    and you're angry at the world
+    you want to tear it down
+    you want to pull it down, down down
+    come on and lay down
+    lay down, lay down your pain
+
+    having you here, feels good
+    feels good inside the afternoon
+    and no one else
+    could ever take away that, man
+    you wanted love
+    but have you fear
+    you wanted love but it's the fear
+    and yet the fear it feels so real
+    and you run, run away
+    running from the pain, the pain
+    come on and lay down
+    lay down, lay down your pain
+
+    don't you see
+    this world 
+    this world can be what you want
+    don't give it up, boy
+    don't you give it up, don't give it
+    don't you give it up, boy
+    you wanted love
+    you wanted joy
+    you wanted simple things in life
+
+    the world, the world is a better place
+    and this world is a better place
+    yes, the world is a better place
+    1234567 all good girls go to heaven
+    that's what they say
+    1234567 all good boys go to heaven
+    that's what they say
+    cause the world is a better place
+    yes, the world is a better place
+
+    come on, come on and lay down
+    won't you lay down this pain
+    the world is a better place
+    lay down your pain
+
+    Long Time Coming
+
+    Toni Childs, Jimmy Smyth
+    it'll be a long time coming
+    it's part of life I don't like
+    saying goodbye to old friends
+    and the end of life
+    and what we know
+    it'll be a long time coming, boy
+    till we meet again
+
+    well it's time to say goodbye
+    and all the things we've said and cried
+    through our lives
+    you will be on my lips
+    it'll be a long time coming, boy
+    till we meet again
+
+    into the earth we go and we dive
+    into the spirit world
+    where our hearts lie
+    we go down into the sea
+    of eternal life
+    they say there is a light 
+    and we're freed, some say
+
+    we will find a better place, they say
+    some day
+    we will finally meet some day
+    we will sing in joy
+    we will sing amazing grace
+    and say we loved to know
+    long time coming, a long time
+    will come some day
+    we will meet on that glorious day
+    long time coming, a long time
+    it'll come some day
+
+    Death
+
+    Toni Childs, Jimmy Smyth
+    oh mother, can you hear me
+    can you hear me now
+    did you die alone and afraid
+    that no one knew the pain
+    that still remained
+    inside your breast this night
+    inside this holy place
+    a place into the void
+
+    can you hear
+    hear me now as I call
+    I'm calling you here
+    I can't explain
+    explosions 
+    and the wound in my heart today
+    I'm killing myself with drink
+    I'm killing myself to think
+    I didn't tell you I cared
+
+    can you hear
+    I needed to say
+    to let you know 
+    I felt your pain
+
+    I'm calling your name to let you know
+    that I'm sorry for the shame
+    disguised as blame
+    and the hurt and pain
+    and the love I couldn't say
+    that I want to say now
+
+    oh peace, let there be peace
+    it's beautiful here
+    there is safety in my ears
+    it's wonderful to be with you

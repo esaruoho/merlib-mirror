@@ -1,0 +1,477 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+ "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Standard Cryptographic Algorithm Naming</title>
+  <style type="text/css">
+      SPAN.s { color: blue }
+      SPAN.p { color: green }
+      SPAN.x { color: red }
+      SPAN.o { color: purple }
+      A.s    { color: blue }
+      A.p    { color: green }
+      A.x    { color: red }
+      A.o    { color: purple }
+      UL.noindent { margin: 0 0 0 0 }
+      LI { padding: 0% 0% 1% 0% }
+  </style>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link=blue vlink="#000077" alink="#FF0000">
+
+<h2>Passphrase Hashes</h2>
+
+[Note that throughout this section, passphrases can also be considered to include
+passwords. We use the term "passphrase" because for security, these should be
+much longer than a typical word.]
+<p>
+A passphrase hash is a method of transforming a text string that can be remembered
+by a human user, into a result that can be used either:
+<ul>
+  <li> as an "authenticator", which can be stored and used at a later time to
+       check whether a user knows the passphrase (authenticators can be encoded
+       in binary and/or string form).
+  <li> as pseudorandom data for a cipher or MAC secret key, initialisation vector,
+       etc. In this case the passphrase hash is called a PBKDF (Password-Based
+       Key Derivation Function).
+</ul>
+<p>
+The security properties required for these uses are effectively identical, which
+motivates considering passphrase hashes as a single algorithm category, rather than
+two different categories. However, particular algorithms may only be defined for
+one of these uses.
+
+<!--
+[The situation is complicated by the fact that Sun's JCE 1.2 already has a design
+for passphrase-based encryption, but it is quite complicated and not particularly
+well thought out - possibly because it was largely based on PKCS5 and PKCS12.
+
+In the case of PKCS5 and PKCS12, cipher parameters are encoded together with
+passphrase hash parameters, so that it is more convenient for a single algorithm
+to parse these parameters and set up the cipher. In the case of Eksblowfish, a
+special key schedule for Blowfish is used that results in a state that cannot
+be reached with a normal key. Also, PKCS5 and PKCS12 are only defined for a
+small set of ciphers, while Eksblowfish is only defined for one cipher.]
+-->
+
+<p><a name="BSD"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>BSD</span></font> <td align=right>PassphraseHash
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> The OpenBSD Project
+  <dt><b>Description:</b>
+    <dd> The BSD passphrase hash is used by OpenBSD; it is upwardly compatible
+         with the hash used by NetBSD (<a href="#MD5-crypt">MD5-crypt</a>), and
+         the original Unix crypt(3) algorithm
+         (<a href="#Traditional-crypt3">Traditional-crypt3</a>), but the recommended
+         way to generate new hashes is to use <a href="#bcrypt">bcrypt</a>.
+         It is defined only for generation of authenticators.
+         <p>
+         When a passphrase is verified, the first few characters of the authenticator
+         determine which mechanism is used:
+         <ul>
+           <li> If the first three characters are "$1$", MD5-crypt is used.
+           <li> If the first four characters are "$2a$", bcrypt is used.
+           <li> If the first character is <em>not</em> "$" or "_", Traditional-crypt3
+                is used.
+           <li> Otherwise, the mechanism is unrecognised, and the passphrase is always
+                considered to be invalid.
+         </ul>
+         <p>
+         When an authenticator is generated, bcrypt is always used, because it is the
+         most secure of the mechanisms.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] David Burren,<br>
+           <cite>OpenBSD Hypertext Man Pages - crypt(3)</cite>,<br>
+           <a href="http://www.openbsd.org/cgi-bin/man.cgi?query=crypt&amp;sektion=3&amp;apropos=0&amp;manpath=OpenBSD+Current" target="_blank">
+           http://www.openbsd.org/cgi-bin/man.cgi?query=crypt&amp;sektion=3&amp;apropos=0<br>&amp;manpath=OpenBSD+Current</a>
+      <li> [also see references for <a href="#bcrypt">bcrypt</a>,
+            <a href="#MD5-crypt">MD5-crypt</a>, and
+            <a href="#Traditional-crypt3">Traditional-crypt3</a>]
+    </ul></dd>
+  <dt><b>Output types:</b>
+    <dd> Binary and string authenticators, as specified above.
+  <dt><b>Missing information:</b>
+    <dd> Test vectors.
+  <dt><b>Security comment:</b>
+    <dd> The security of this algorithm depends on which mechanism is used.
+         See the security comments for <a href="#Traditional-crypt3">Traditional-crypt3</a>
+         and <a href="#MD5-crypt">MD5-crypt</a>.
+         The <a href="#bcrypt">bcrypt</a> mechanism does not appear to have any significant weaknesses.
+</dl>
+
+<p><a name="bcrypt"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>bcrypt</span></font> <td align=right>PassphraseHash
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Niels Provos, David Mazi&egrave;res, The OpenBSD Project
+  <dt><b>Published:</b>
+    <dd> 1999
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, An</i>] Niels Provos, David Mazi&egrave;res,<br>
+           "A Future-Adaptable Password Scheme,"<br>
+           Presented at USENIX '99.<br>
+           <a href="http://www.usenix.org/events/usenix99/provos.html" target="_blank">
+           http://www.usenix.org/events/usenix99/provos.html</a>
+    </ul></dd>
+  <dt><b>Salt length:</b>
+    <dd> 16 bytes.
+  <dt><b>Output types:</b>
+    <dd><ul class=noindent>
+      <li> Binary authenticator: 1 unsigned byte for the cost parameter,
+           followed by 16 bytes of salt, followed by 24 bytes of encrypted output,
+           as described in the Provos and Mazi&egrave;res paper.
+      <li> String authenticator: The string "$2a$", followed by a base64 encoding
+           of the binary authenticator.
+      <li> Cipher initialisation [[remove this and reclassify eksblowfish as a cipher?]]:<br>
+           The cipher name MUST be "eksblowfish", in which case it is initialised
+           as described in the Provos and Mazi&egrave;res paper.
+      <li> [[consider defining a PBKDF based on Blowfish with the resulting
+           key schedule in CTR mode]]
+    </ul></dd>
+  <dt><b>Missing information:</b>
+    <dd> Test vectors.
+</dl>
+
+<p><a name="IteratedAndSalted"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">IteratedAndSalted(<i>digest</i>)</font> <td align=right>PassphraseHash
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Phil Zimmerman, OpenPGP working group
+  <dt><b>Published:</b>
+    <dd> 1998
+  <dt><b>Description:</b>
+    <dd> See section 3.6.1.3 of RFC 2440. The passphrase is encoded as
+         UTF-8. This hash is defined only as a PBKDF.
+  <dt><b>Aliases:</b>
+    <dd> "OpenPGP.S2K.3"
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Jon Callas, Lutz Donnerhacke, Hal Finney, Rodney Thayer<br>
+           "OpenPGP Message Format,"<br>
+           <a href="http://www.rfc-editor.org/rfc/rfc2440.txt" target="_blank">
+           <cite>RFC 2440</cite></a>, November 1998.
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation/read, no default] - the name
+             of the message digest on which this Mac is to be based.
+    </ul></dd>
+  <dt><b>Salt length:</b>
+    <dd> OpenPGP only specifies use of a 64-bit salt. However, it is
+         RECOMMENDED that implementations support any salt length.
+  <dt><b>Output types:</b>
+    <dd><ul class=noindent>
+      <li> PBKDF: as specified in RFC 2440.
+    </ul></dd>
+</dl>
+
+<p><a name="MD5-crypt"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>MD5-crypt</span></font> <td align=right>PassphraseHash
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> This is a password hash function used in NetBSD (and some other BSD
+         variants).
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, An</i>] David Hopwood,<br>
+           Some notes on MD5-crypt,<br>
+           <a href="algs/md5crypt.txt" target="_blank">
+           http://www.users.zetnet.co.uk/hopwood/crypto/scan/algs/md5crypt.txt</a>
+    </ul></dd>
+  <dt><b>Salt length:</b>
+    <dd> Minimum 12, maximum 48 bits, multiple of 8 bits
+         (always 48 bits when generating authenticators).
+  <dt><b>Output types:</b>
+    <dd><ul class=noindent>
+      <li> Binary authenticator: The salt [[padded with zeroes??]],
+           followed by 16 bytes of MD5 output.
+      <li> String authenticator: The string "$1$", followed by a base64 encoding
+           of the binary authenticator.
+    </ul></dd>
+  <dt><b>Missing information:</b>
+    <dd> Test vectors.
+  <dt><b>Security comments:</b>
+    <dd> The amount of computation needed (1000 hash iterations) is not sufficient
+         to adequately slow down dictionary attacks.
+         Therefore, MD5-crypt SHOULD NOT be used for new applications.
+</dl>
+
+<p><a name="Simple"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">Simple(<i>digest</i>)</font> <td align=right>PassphraseHash
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Phil Zimmerman, OpenPGP working group
+  <dt><b>Published:</b>
+    <dd> 1998
+  <dt><b>Description:</b>
+    <dd> See section 3.6.1.1 of RFC 2440. The passphrase is encoded as
+         UTF-8. This hash is defined only as a PBKDF.
+  <dt><b>Aliases:</b>
+    <dd> "OpenPGP.S2K.0"
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Jon Callas, Lutz Donnerhacke, Hal Finney, Rodney Thayer<br>
+           "OpenPGP Message Format,"<br>
+           <a href="http://www.rfc-editor.org/rfc/rfc2440.txt" target="_blank">
+           <cite>RFC 2440</cite></a>, November 1998.
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation/read, no default] - the name
+             of the message digest on which this Mac is to be based.
+    </ul></dd>
+  <dt><b>Output types:</b>
+    <dd><ul class=noindent>
+      <li> PBKDF: as specified in RFC 2440.
+    </ul></dd>
+  <dt><b>Security comments:</b>
+    <dd><ul class=noindent>
+      <li> The lack of any salt, or method of slowing down the hash function, makes
+           dictionary attacks much easier than necessary.
+      <li> The fact that the same key is always generated for a given passphrase
+           means that breaking this key immediately compromises all data encrypted
+           under the same passphrase, and also that it is completely insecure to use
+           this hash to generate keys for an additive stream cipher.
+      <li> Therefore, the Simple hash SHOULD NOT be used for new applications.
+    </ul></dd>
+</dl>
+
+<p><a name="Salted"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">Salted(<i>digest</i>)</font> <td align=right>PassphraseHash
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> OpenPGP working group
+  <dt><b>Published:</b>
+    <dd> 1998
+  <dt><b>Description:</b>
+    <dd> See section 3.6.1.2 of RFC 2440. The passphrase is encoded as
+         UTF-8. This hash is defined only as a PBKDF.
+  <dt><b>Aliases:</b>
+    <dd> "OpenPGP.S2K.1"
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Jon Callas, Lutz Donnerhacke, Hal Finney, Rodney Thayer<br>
+           "OpenPGP Message Format,"<br>
+           <a href="http://www.rfc-editor.org/rfc/rfc2440.txt" target="_blank">
+           <cite>RFC 2440</cite></a>, November 1998.
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation/read, no default] - the name
+             of the message digest on which this Mac is to be based.
+    </ul></dd>
+  <dt><b>Salt length:</b>
+    <dd> OpenPGP only specifies use of a 64-bit salt. However, it is
+         RECOMMENDED that implementations support any salt length.
+  <dt><b>Output types:</b>
+    <dd><ul class=noindent>
+      <li> PBKDF: as specified in RFC 2440.
+    </ul></dd>
+  <dt><b>Security comment:</b>
+    <dd> The lack of any method of slowing down the hash function makes
+         dictionary attacks much easier than necessary.
+         Therefore, the Salted hash SHOULD NOT be used for new applications.
+</dl>
+
+<p><a name="Traditional-crypt3"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>Traditional-crypt3</span></font> <td align=right>PassphraseHash
+</tr></table>
+<dl>
+  <dt><b>Designer:</b>
+    <dd> Dennis Ritchie
+  <dt><b>Published:</b>
+    <dd> Apparently in Version 7 of AT&amp;T UNIX [1979?].
+  <dt><b>Alias:</b>
+    <dd> "crypt3-DES"
+  <dt><b>Description:</b>
+    <dd> This is the "traditional" Unix crypt(3) algorithm, based on DES.
+         Unfortunately there appears to be no definitive reference for this
+         algorithm, so it is described below:
+         <p>
+         A 12-bit salt is used, considered here as an integer between 0 and 4095.
+         The password is represented as a US-ASCII string, and padded with zeroes
+         up to 8 bytes. Passwords containing non-US-ASCII characters (with code
+         points &gt;= 128), or that are longer than 8 characters are invalid.
+         (Note that many Unix implementations <em>silently</em> truncate passwords
+         to 8 characters; to interoperate with an implementation that does this,
+         the user of the "Traditional-crypt3" algorithm must do the truncation.)
+         <p>
+         Each byte of the US-ASCII-encoded, zero-padded password is then shifted
+         left by one bit, and the result used as a key for a modified variant of
+         DES. The key is used to encrypt a block of 8 zero bytes, 25 times. The
+         parity of key bytes is ignored.
+         <p>
+         In standard DES, the output of each expansion permutation is a block of
+         48 bits, which are numbered as in FIPS PUB 46-2 (i.e. from 1 on the left
+         to 48 on the right). Salt bits are numbered from 1 for the least
+         significant bit, to 12 for the most significant bit.
+         The modification of DES is that if salt bit <i>i</i> is set, then
+         bits <i>i</i> and <i>i</i> + 24 are swapped in the DES expansion permutation
+         (a.k.a. "E-box") output.
+         <p>
+         The salt and final modified-DES ciphertext are encoded in 13 bytes as follows:
+         <blockquote>
+             encode(<i>x</i>) =<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>("<code>./0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ</code>" ||<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code> "<code>abcdefghijklmnopqrstuvwxyz</code>")[<i>x</i>]<br>
+             E<sub><i>salt</i></sub>(<i>P</i>) = encryption of the 8-byte block <i>P</i>, using DES modified<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>by the salt.<br>
+             <i>C</i> = E<sub><i>salt</i></sub><sup>25</sup>(&lt;0, 0, 0, 0, 0, 0, 0, 0&gt;)<br>
+             output =<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>encode(<i>salt</i> &amp; 0x3F) ||<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>encode(<i>salt</i> &gt;&gt;&gt; 6) ||<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>encode(<i>C</i>[0] &gt;&gt;&gt; 2) ||<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>encode(((<i>C</i>[0] &lt;&lt; 4) & 0x3F) | (<i>C</i>[1] &gt;&gt;&gt; 2)) ||<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>encode(((<i>C</i>[1] &lt;&lt; 2) & 0x3F) | (<i>C</i>[2] &gt;&gt;&gt; 6)) ||<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>encode(<i>C</i>[2] &amp; 0x3F) ||<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>encode(<i>C</i>[3] &gt;&gt;&gt; 2) ||<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>encode(((<i>C</i>[3] &lt;&lt; 4) & 0x3F) | (<i>C</i>[4] &gt;&gt;&gt; 2)) ||<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>encode(((<i>C</i>[4] &lt;&lt; 2) & 0x3F) | (<i>C</i>[5] &gt;&gt;&gt; 6)) ||<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>encode((<i>C</i>[5] &amp; 0x3F) ||<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>encode(<i>C</i>[6] &gt;&gt;&gt; 2) ||<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>encode(((<i>C</i>[6] &lt;&lt; 4) & 0x3F) | (<i>C</i>[7] &gt;&gt;&gt; 2)) ||<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>encode((<i>C</i>[7] &lt;&lt; 2) & 0x3F)<br>
+             where<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>&lt;&lt; denotes shift left,<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>&gt;&gt;&gt; denotes unsigned shift right,<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>|| denotes concatenation,<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>&amp; denotes bitwise AND,<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>| denotes bitwise OR.<br>
+         </blockquote>
+         When verifying an authenticator A, the salt is recovered from the
+         first two characters of A (least significant 6 bits first):
+         <blockquote>
+             <i>salt</i> = encode<sup>-1</sup>(A[0]) | (encode<sup>-1</sup>(A[1]) &lt;&lt; 6)
+         </blockquote>
+         and the authentication succeeds iff the correct output can be derived
+         from the password and this salt.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Inf</i>] R. Morris, Ken Thompson,<br>
+           "Password Security: A Case History",<br>
+           Communications of the ACM, vol. 22, pp. 594-597, November 1979.<br>
+           Also in troff format (readable as ASCII) at<br>
+           <a href="http://plan9.bell-labs.com/7thEdMan/vol2/password" target="_blank">
+           http://plan9.bell-labs.com/7thEdMan/vol2/password</a>
+      <li> [<i>An</i>] Niels Provos, David Mazi&egrave;res,<br>
+           "A Future-Adaptable Password Scheme,"<br>
+           Presented at USENIX '99.<br>
+           <a href="http://www.usenix.org/events/usenix99/provos.html" target="_blank">
+           http://www.usenix.org/events/usenix99/provos.html</a>
+      <li> [<i>Impl</i>] Eric Young,<br>
+           libdes (DES and crypt(3) implementation),<br>
+           Available from <a href="http://www.openssl.org/">
+           www.openssl.org</a>.
+    </ul></dd>
+  <dt><b>Output types:</b>
+    <dd><ul class=noindent>
+      <li> Binary authenticator: 13 bytes as specified above.
+      <li> String authenticator: The binary authenticator treated as a
+           US-ASCII string.
+    </ul></dd>
+  <dt><b>Missing information:</b>
+    <dd> Test vectors.
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> Some implementations of Unix use a variant of the Traditional-crypt3
+           algorithm, which produces outputs that start with "_". Extended crypt
+           is not currently defined in SCAN.
+      <li> Some implementations of Traditional-crypt3 accept salt values that cannot
+           be decoded as above (i.e. are not in the range of the encode function).
+           This algorithm may be changed to cover that case.
+    </ul></dd>
+  <dt><b>Security comments:</b>
+    <dd> Traditional-crypt3 has the following weaknesses:
+         <ul>
+           <li> Only the first 8 characters of the password are significant.
+                8 characters is not long enough for a secure password.
+           <li> The salt is only 12 bits. This is not enough to prevent precomputed
+                dictionary attacks.
+           <li> The amount of computation needed is not sufficient to adequately
+                slow down dictionary attacks, taking into account improvements in
+                processor speed since the algorithm was developed.
+           <li> Optimisations of DES (such as bitslice implementations) can be
+                used to further speed up a dictionary attack, relative to the
+                work performed in computing a hash.
+         </ul>
+         <p>
+         It therefore SHOULD NOT be used for new applications.
+</dl>
+
+<p><a name="WindowsNT"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">WindowsNT</font> <td align=right>PassphraseHash
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Microsoft Corp.
+  <dt><b>Description:</b>
+    <dd> A WindowsNT passphrase hash is calculated by applying the MD4 message
+         digest to a UTF16-LE encoding of the passphrase (which is case-sensitive,
+         and of length 0 to 256 Unicode characters). It is defined for generation
+         of authenticators only.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, Test</i>] G. Zorn, S. Cobb,<br>
+           "Microsoft PPP CHAP Extensions,"<br>
+           <a href="http://www.rfc-editor.org/rfc/rfc2433.txt" target="_blank">
+           <cite>RFC 2433</cite></a>, October 1998.
+      <li> [<i>Inf, Impl</i> (for MD4)] Ron Rivest,<br>
+           "The MD4 Message-Digest Algorithm,"<br>
+           <a href="http://www.rfc-editor.org/rfc/rfc1320.txt" target="_blank">
+           <cite>RFC 1320</cite></a>, April 1992.
+    </ul></dd>
+  <dt><b>Security comments:</b>
+    <dd><ul class=noindent>
+      <li> The lack of any salt, or method of slowing down the hash function, makes
+           dictionary attacks much easier than necessary.
+      <li> The fact that the same authenticator is always generated for a given
+           passphrase is the cause of many security holes in Microsoft-designed
+           protocols that use this hash. It should therefore only be used for
+           backward compatibility with those protocols, and SHOULD NOT be used
+           for new applications.
+    </ul></dd>
+</dl>
+
+
+<a name="alleged"></a><hr>
+<h3>Alleged PassphraseHashes</h3>
+
+<ul>
+  <li> PBKDF1 and PBKDF2 from
+       <a href="http://www.rfc-editor.org/rfc/rfc2898.txt">PKCS #5 v2 / RFC 2898</a>.
+       These are likely to be added to SCAN, possibly with PBKDF2 restricted to HMAC.
+</ul>
+
+
+<hr size=3 noshade>
+<img src="cryptix-s.gif" alt="" align=right>
+
+<table><tr>
+  <td width=200>
+      <a target="_blank" href="http://validator.w3.org/check/referer"><img
+      src="vh40.gif" alt="Valid HTML 4.0" border=0 height=31 width=88></a>&nbsp;<a
+      target="_blank" href="http://jigsaw.w3.org/css-validator/check/referer"><img
+      src="vcss.gif" alt="Valid CSS" border=0 height=31 width=88></a>
+  <td valign=top>
+      <a href="intro.html#copyright">Copyright and trademarks</a>
+</tr></table>
+
+</body>
+</html>

@@ -1,0 +1,391 @@
+SMALLnet post412 
+
+ SMALLnet Posting post412
+
+Date: Wed, 27 Feb 2002 23:14:26 -0600
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet/ >
+
+...Just received some evil snailmail news: FAI TAN rubber may 
+be extinct. Seems that its former major use for winding golf ball
+cores is obsolete, and the factory closed. So far, attempts
+to re-start production in a different factory have produced only
+unusable rubber.
+
+FAI Model Supply's John Clapp reports that he still has plenty 
+of 1/16" FAI TAN II rubber in stock. [JW]
+
+Eric Clutton < doctordiesel@cafes.net > announces:
+
+News for all SMALL enthusiasts in the South East! I am CDing our
+first SMALL meet at Tullahoma, Tennessee 23, 24, and 25 August.
+Nobody else would do it so I got stuck with it! I will be at the
+Little Rock event with a bunch of fliers (and hopefully to pick up
+some pointers!). More information can be had from me by E-mail.
+
+I hope to see many of you in August at Tullahoma! 
+
+ERIC CLUTTON
+
+Dave Campbell < cdcampb@ismi.net > submitted:
+
+Sam Brauer compared the performance and costs of the Astro 
+010G, Speed 300, and Speed 280BB motors.
+
+The game you play in e-powered models is one of tradeoffs. You
+juggle performance and run time to get the compromise that suits
+your flying style. Sam "didn't want to talk about efficiency",
+but the lower ampere draw of the 010 is where your performance
+lies, because that's your untapped reserve.
+
+You have to play with props, gearing, cell count etc. When the
+010 pulls as much current as the 280BB, I guarantee that it will
+be turning a lot faster. Also consider that the 280BB can't be
+run for long on 10 cells, and that the 720 cells you use can't
+handle those kinds of currents very well.
+
+600AE's would be your next best bet, but those weigh more. 
+That means that you are better off propping up or gearing taller 
+to bring the current (and watts/horsepower) up.
+
+Good Luck, Dave
+
+Frank Weaver < goldguy@shaw.ca > wrote:
+
+For cold weather starting and running of diesels, 2% amyl
+nitrate seems to do the trick. The opposite seems to be true
+of hot weather: less or none at all is best. Diesels do not
+like hot summer days anyway!
+
+One of my fellow modelers modifies a Cox spring starter to fit
+his PAW 55 and it works great.
+
+Me, I just get out my 1/2A starter. With the engine set very
+under-compressed and only TWO drops of fuel for prime, choke
+just enough to bring the fuel to the carb. Flip twice (at half-
+throttle), hit with the starter and SLOWLY up the compression.
+
+Off with the starter as soon as it kicks and de-compress instantly.
+Let it sit there and PAW, PAW away to warm up, full throttle,
+up the compression and adjust the needle for smooth running.
+With diesels, once you get the needle setting you should not
+have to touch it again. A tach is very helpful with setting
+up diesels.
+
+The rest of the day I can start my 55 with just the starter at
+idle, no prime, no adjustments. Amazing!!!!! And to think 
+some modelers shy away from diesels because they think they 
+are hard to start.
+
+On all of my larger PAW diesels on which I never use a starter,
+I have had to change the rod/pin assembly shortly after being well
+broken in. On my PAW 55 which has approximately 200 flights 
+and started many times with a starter, I have had no signs of 
+excessive wear and have never replaced any parts.
+
+One other important consideration is the alignment of the two
+holes in the spray bar. If you missed Dave Larkin's comments,
+check though the bottom of the carb to see that both holes are
+visible at full throttle through the barrel. If they are not,
+expect one hour of fiddling to get it right. I take out the
+stop screw, turn everything 180 degrees, and do it through 
+the top. The hole positions are easier to see that way.
+
+Next to my MP Jets 061, the PAW 55 is the easiest starting of
+ALL my engines, including glow.
+
+Fly SMALL, have a ball.
+
+Frank Weaver -- The Balsa Beaver
+
+Dave Larkin < dslarkin@blvl.igs.net > responds to a variety 
+of queries and topics:
+
+There's no special fuel necessary for diesels in winter. Just go
+to the field and be first in the air. I've known people to use
+two engines in their planes, swapping out the glow for a diesel
+for winter flying.
+
+When flying off a lake in Nova Scotia with my club, and using an
+old ED Bee in a Tomboy with an ACE Pulse Commander R/C 
+system, I could get the Bee going while everybody else was playing 
+around with blowtorches, car exhausts, etc. Remember that the 
+active ingredient in car-starting spray is ether.
+
+Yes, you can use model aircraft diesel fuel to get your glow motor
+going just as quickly! I've never seen a need to butcher an
+engine just for winter use. You should certainly be able to fly
+in temperatures down to 20 degrees (C) below.
+
+George, I would be strongly inclined not to modify the Mambo's
+stabilizer. In any case it would be no big deal to retrofit a
+modified tail. My experience is that lifting stabilizers in
+rudder-only planes minimize 'zooming' and help penetration
+into wind.
+
+I did have one rudder-only model go straight in, but think
+that I let the tail incidence get too close to the wing
+incidence. I froze when it started the dive, and never
+thought of the old trick of alternately applying left and
+right rudder to lift the nose.
+
+Despite impacting on a concrete runway, the Jackdaw lived
+again to teach me 6-channel reed flying, but with the addition
+of elevators.
+
+The model was a FROG Jackdaw, with a symmetrical stabilizer.
+I just found the plans for this plane, and there isn't much
+incidence difference between the wing and the stabilizer.
+There may have been even less in my model, as I was using a
+lighter motor than the plane was designed to take.
+
+The design had had a great contest record with rudder and
+throttle control, but I never flew mine enough that way to
+give an assessment -- and besides I was very much a beginner.
+
+(I was, I think, using a Kraft receiver and Graupner Unimatic
+servos.) There is quite a bit of downthrust. I do know that
+as I progressed to reeds with Kraft and Bonner equipment,
+I destroyed vast numbers of 10 X 3 1/2 inch Top Flite nylon
+props with ground loops. I projected my rate of loss and
+bought accordingly; consequently still have plenty!
+
+Why I didn't just hand launch is beyond me. I probably thought
+a 60-inch span plane with an Enya .19 was just too big!
+
+At that time I was flying with a friend who had a Mambo, but he was
+experimenting with home-built Galloping Ghost with little success.
+There were other Mambos flying at a nearby club, as far as I know
+quite well, using escapements. But when I showed up at their field
+with reeds (by this time in a Bob Palmer Gee String) there was a
+revolution and all the Mambos soon disappeared. It was like
+selling whisky to the natives.
+
+Mind you, I don't think I told them that a spectacular spiral dive
+was caused by my losing orientation for a moment.
+
+Dennis, Your comment on the Master plane leaves me seriously
+disturbed. I had one and didn't like it and now I'm wondering...
+Anyway, I've since discovered the David Plane, made in The
+Netherlands, which is a far superior device and is something no
+modeller should be without. I used to stock them, but the folks
+at Aeroenvironment found out I had them and cleaned out my stock.
+Must re-order sometime. There's a distributor in California, and
+I think SIG also stock them.
+
+Best regards, Dave Larkin
+
+Byron Lechler < Aerocmodel@aol.com > also comments on the 
+Mambo:
+
+I learned to fly R/C on a 48" Mambo in the late 60s. Used a
+Mule II Transmitter & Receiver with real servos for rudder &
+throttle. An O.S. Max 15 provided the power.
+
+I must have done everything right, because in the hands of a
+very inexperienced pilot (me) it flew like a dream. Rolls,
+loops....you name it... it would do it and always return to a
+stable attitude with little or no help from me.
+
+So: My advice to George Hostler is LEAVE IT ALONE !!!!
+Don't mess with the lifting stabilizer, and don't over-power it.
+And, by the way George, I've wanted to build another Mambo 
+Trainer for a long time. (Now out of production, ya know.)
+
+I would gladly buy a copy of the plan from you. Good luck with
+your Mambo. But please... Treat her like a lady... She was my
+first love in R/C. Byron Lechler
+
+Mike Gillihan < GillihanMike@JohnDeere.com > contributed:
+
+I have been playing with the 1.5 mil Doculam, and so far I am
+very impressed. Most of you already know Doculam makes a great,
+lightweight covering that is undeniably among the least-expensive
+model covering materials on the planet.
+
+The 1.5 mil version seems amply strong enough for fast 1/2A models,
+and weighs much less than MonoKote. The material seems flimsy at
+first, but once heated with an iron becomes quite resilient.
+
+I've recently taken to covering plans with Doculam. I spread the
+plans out over my building board, roll the material over the plans
+(overlapping the edges of the plans), and iron the whole lot down
+to the board. Every glue that I've tried peels off the material
+easily; and when finished building, I simply peel the whole lot
+right off the board.
+
+Once the plans are peeled from the board, I trim the Doculam to
+the edge of the paper, and end up with a nicely-laminated plan
+that can be rolled up for later use. Magic. Note that the stuff
+looks "frosty" prior to ironing down, but goes clear when heat is
+applied. Doculam handles like MonoKote, and your iron should 
+be set to about the same temperature.
+
+I ordered 1000 square feet of the stuff (two 12-inch by 500-foot
+rolls) for less than $30, delivered. That works out to less than
+three cents per square foot! I have also heard that Doculam can
+be lightly spray-painted on the inside surface, or colored with
+permanent magic marker prior to ironing on, without affecting the
+adhesive (I have not tried this yet).
+
+MANY THANKS to Milton Dickey for turning me on to this stuff 
+at the SMALL meet in Maumelle last year! For those interested in
+giving this stuff a try, the source that Milton recommended to
+me is here:
+
+ Source: Doculam 
+
+< http://shop.flash.net/~lamwhse/film.html >
+
+I called my order in, and received the film within 2 days. I'm
+just now finishing up a HLG design that I intend to market as a
+kit or as plans, and I'll be including the covering material
+either way -- it only adds pennies to the cost.
+
+ Mike S. Gillihan
+
+Thomas Arcoleo < tarcoleo@iopener.net > contributed:
+
+It may not be the purpose of this forum to speak of other forums.
+On the other hand, this list is dedicated to a hobby, nay:
+a discipline -- that compels most of us to distraction. We all
+are in this together and share readily, on the field and off,
+whatever is needed "to fly". So it is with a very sad sense
+that I note the apparent demise of Tom Smith's
+< rc_airplanes@rcmailinglists.com >. Over the years that forum
+has -- as has this forum -- provided much useful information,
+humor, and friendship.
+
+One of the subscribers to rc_airplanes, Ted Temer, President of
+the Anderson Park Flyers Club, has provided a backup e-mail list
+that can operate just as the old rc_airplanes list did. There
+was a free and easy exchange with an almost real-time immediacy.
+
+It is hoped that refugees from the old list might continue the
+good times at the Anderson Park Flyers' discussion list much as
+in the past. Details are available at:
+
+< http://www.andersonparkflyers.org >
+
+-Tom Arcoleo
+
+Phil Oestricher < F4DPilot@aol.com > sent:
+
+I'd like to toss in my two cents worth on this apparently wide-
+spread practice of using anti-freeze in a crockpot to clean
+model engines. A friend of mine had a nice old Pierce .29
+cleaned that way, and the result was a clean but very dark-
+stained engine. The stain is permanent and affected the cast 
+(aluminum alloy, I suppose) crankcase.
+
+Perhaps the Pierce's case is made of an alloy with a lot of zinc
+in it. Whatever, the engine definitely does not look as it
+should after this treatment. I have had excellent results using
+Zip-Strip Paint and Clear Finish Remover. I brush it on, wait
+30 minutes, and then scrub it off with a toothbrush and warm
+water. Really stubborn cases generally require a second
+application.
+
+I have never had an engine damaged in any way by this method.
+Caution: It no doubt will attack the painted finish on parts such
+as old K&B Greenhead cylinder heads. Zip-Strip works very much
+like that great old Sunbeam Metal-Kleen stuff (long since banned
+by the EPA and ??).
+
+A number of us bought the Cox Droid RTF C-L "planes" a year or 
+so back from Tower on their closeout sale just for the Surestart 
+.049 engines. I found that the two I got were reluctant to start
+initially and that the rod-to-piston fit was very loose. I gave
+them the calibrated swats with a tack hammer and the Cox rod-
+resetting tool, and was rewarded with excellent runners which
+start easily. These seem to be very satisfactory engines in all
+respects after the rod tightening.
+
+The "plane" is something else. It's as close to unflyable as
+anything ever sold as an RTF. Anyone out there get one to fly?
+I'm still reasonably proficient in C-L stunting, but I couldn't
+get this thing to just go around without wild pitching motions
+which always resulted in a crash. I can offer one positive
+comment about the "plane" -- it's rugged!
+
+Phil Oestricher
+
+< gkuehn@enteract.com > contributed:
+
+Those lacking patience for stewing engines in 50% antifreeze
+might wish to try the brute-force approach of putting roughly two
+tablespoons of dishwasher detergent in a half-filled 3-lb coffee
+can of water and bringing it to a boil.
+
+(Note: That's dishWASHER, not dishwashing detergent.)
+
+Disassemble the engine as much as possible and pop it into the
+boiling water. Let it rip for about 5 minutes and then rinse
+very thoroughly. Final disassembly (if needed) and another trip
+through the process is usually enough to make things like new.
+Use scalding hot water for the rinse -- that will heat the metal
+and make things dry out faster.
+
+A note of caution: boiling dishwasher detergent is caustic.
+Avoid prolonged skin contact and protect your eyes. Don't boil
+the engine for long periods of time, and do be sure to rinse
+away all traces of the detergent.
+
+After rinsing and drying, a water-displacing lubricant (especially
+around bearings and the wrist pin) followed by liberal application
+of your favorite after-run oil is recommended.
+
+Michael Charles < hotairflyer@hotmail.com > wrote:
+
+I'm wondering if anyone knows how I can get plans for one of
+the first successful R/C models I saw, the Consolidated (I think
+that was who made it) LiL Spirit 1/2A. I believe it had about
+36" span and was for single channel.
+
+Richard Pawloski asked about equivalents to the 1524 motor.
+A widely used replacement for the DC1524 is a GWS IPS DX-
+(version suited for your application).
+
+The IPS motors come in a variety of gear ratios to suit the
+correct propeller size and pitch for the model they power, as
+the DC1524 also comes in 2 ratios for prop size fitting.
+
+Example: I used a GWS DX-A and 10x4.7 GWS prop in my MINI=IFO
+with a 7.2V Lithium battery, and it flies great. When I tried
+to use the same combination on the full-size IFO, the motor
+overheated. So I went to the GWS DX-D with 12x8 GWS prop,
+and it really flies great. After 20 minutes the motor is barely
+warm. VERY IMPORTANT: Use a heatsink with any of the
+IPS motors regardless of the application.
+
+You can find data on the DC1524 here:
+< http://www.toddsmodels.com/corelessmotors.htm >
+< http://www.homefly.com >
+
+You can find data on the GWS IPS here:
+< http://www.gws.com.tw/english/product/powersystem/ips.htm >
+
+Al Clark < alclark@knology.net > asks:
+
+Anyone know of a source in the USA for the Rapier motors? 
+These are like Jetex, only single-use. They look a bit like model
+rocket motors. If no USA source, what is the best source in the
+UK; what does it cost to get them shipped to the USA; and how
+long does it take? (They have to go surface mail, I've been
+told by the Brits.)
+
+Al Clark
+
+< Robtness@aol.com > inquired:
+
+I read Gary's note about the Marionette. I just built one.
+The motor Gary mentioned seems like way too much for that little
+2-ounce plane. Do you think it would fly on a smaller motor --
+or does it need that much? Any help would be appreciated.
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

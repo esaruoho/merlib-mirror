@@ -1,0 +1,75 @@
+---
+title: "Bird Houses"
+source_domain: amasci.com
+source_path: ~starship/product_18.html
+order: 8236
+reachable_from_entry: false
+images: 31
+internal_links: 16
+extracted: 2026-08-07T06:00:44Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bird Houses
+
+*Source page: `~starship/product_18.html`*
+
+<table data-cellpadding="0" data-cellspacing="0" width="750">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2" width="750"><div data-align="center">
+<img src="nav/nav_4_product_18_bhb.gif" id="nav_product_18_BH0" class="namo-banner" data-border="0" data-align="texttop" alt="Bird Houses" />
+</div></td>
+</tr>
+<tr>
+<td colspan="2" width="750"><div data-align="center">
+<a href="index.html" onmouseover="na_change_img_src(&#39;nav_product_18_TH0&#39;, &#39;document&#39;, &#39;nav/nav_5_product_18_btn_homer.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_TH0&#39;, &#39;document&#39;);"><img src="nav/nav_5_product_18_btn_home.gif" id="nav_product_18_TH0" class="namo-button2" data-border="0" data-align="texttop" alt="Home" /></a><a href="company.html" onmouseover="na_change_img_src(&#39;nav_product_18_TH1&#39;, &#39;document&#39;, &#39;nav/nav_5_company_thr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_TH1&#39;, &#39;document&#39;);"><img src="nav/nav_5_company_th.gif" id="nav_product_18_TH1" class="namo-button2" data-border="0" data-align="texttop" alt="Company Info" /></a><a href="contactus.html" onmouseover="na_change_img_src(&#39;nav_product_18_TH2&#39;, &#39;document&#39;, &#39;nav/nav_5_contactus_thr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_TH2&#39;, &#39;document&#39;);"><img src="nav/nav_5_contactus_th.gif" id="nav_product_18_TH2" class="namo-button2" data-border="0" data-align="texttop" alt="Contact us" /></a><a href="product.html" onmouseover="" onmouseout=""><img src="nav/nav_5_product_thh.gif" id="nav_product_18_TH3" class="namo-hibutton2" data-border="0" data-align="texttop" alt="Our Shoppe" /></a><a href="shopping.html" onmouseover="na_change_img_src(&#39;nav_product_18_TH4&#39;, &#39;document&#39;, &#39;nav/nav_5_shopping_thr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_TH4&#39;, &#39;document&#39;);"><img src="nav/nav_5_shopping_th.gif" id="nav_product_18_TH4" class="namo-button2" data-border="0" data-align="texttop" alt="Shopping Centre" /></a>
+</div>
+<hr /></td>
+</tr>
+<tr>
+<td rowspan="2" width="125" data-valign="top"><div>
+<a href="product_1.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV0&#39;, &#39;document&#39;, &#39;nav/nav_6_product_1_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV0&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_1_sv.gif" id="nav_product_18_SV0" class="namo-button1" data-border="0" data-align="texttop" alt="DreamCatchers" /></a> <br />
+<a href="product_2.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV1&#39;, &#39;document&#39;, &#39;nav/nav_6_product_2_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV1&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_2_sv.gif" id="nav_product_18_SV1" class="namo-button1" data-border="0" data-align="texttop" alt="Beaded Jewelry" /></a> <br />
+<a href="product_12.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV2&#39;, &#39;document&#39;, &#39;nav/nav_6_product_12_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV2&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_12_sv.gif" id="nav_product_18_SV2" class="namo-button1" data-border="0" data-align="texttop" alt="Feather Works" /></a> <br />
+<a href="product_13.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV3&#39;, &#39;document&#39;, &#39;nav/nav_6_product_13_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV3&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_13_sv.gif" id="nav_product_18_SV3" class="namo-button1" data-border="0" data-align="texttop" alt="Leather Works" /></a> <br />
+<a href="product_8.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV4&#39;, &#39;document&#39;, &#39;nav/nav_6_product_8_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV4&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_8_sv.gif" id="nav_product_18_SV4" class="namo-button1" data-border="0" data-align="texttop" alt="Wood Works" /></a> <br />
+<a href="product_3.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV5&#39;, &#39;document&#39;, &#39;nav/nav_6_product_3_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV5&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_3_sv.gif" id="nav_product_18_SV5" class="namo-button1" data-border="0" data-align="texttop" alt="Tributes" /></a> <br />
+<a href="product_21.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV6&#39;, &#39;document&#39;, &#39;nav/nav_6_product_21_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV6&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_21_sv.gif" id="nav_product_18_SV6" class="namo-button1" data-border="0" data-align="texttop" alt="Wolves" /></a> <br />
+<a href="product_20.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV7&#39;, &#39;document&#39;, &#39;nav/nav_6_product_20_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV7&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_20_sv.gif" id="nav_product_18_SV7" class="namo-button1" data-border="0" data-align="texttop" alt="Wildlife" /></a> <br />
+<a href="product_11.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV8&#39;, &#39;document&#39;, &#39;nav/nav_6_product_11_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV8&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_11_sv.gif" id="nav_product_18_SV8" class="namo-button1" data-border="0" data-align="texttop" alt="Wall Art" /></a> <br />
+<a href="product_4.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV9&#39;, &#39;document&#39;, &#39;nav/nav_6_product_4_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV9&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_4_sv.gif" id="nav_product_18_SV9" class="namo-button1" data-border="0" data-align="texttop" alt="Time Pieces" /></a> <br />
+<a href="product_19.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV10&#39;, &#39;document&#39;, &#39;nav/nav_6_product_19_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV10&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_19_sv.gif" id="nav_product_18_SV10" class="namo-button1" data-border="0" data-align="texttop" alt="Garden Accents" /></a> <br />
+<img src="nav/nav_6_product_18_svh.gif" id="nav_product_18_SV11" class="namo-hibutton1" data-border="0" data-align="texttop" alt="Bird Houses" /> <br />
+<a href="product_17.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV12&#39;, &#39;document&#39;, &#39;nav/nav_6_product_17_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV12&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_17_sv.gif" id="nav_product_18_SV12" class="namo-button1" data-border="0" data-align="texttop" alt="Floral Arts" /></a> <br />
+<a href="product_16.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV13&#39;, &#39;document&#39;, &#39;nav/nav_6_product_16_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV13&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_16_sv.gif" id="nav_product_18_SV13" class="namo-button1" data-border="0" data-align="texttop" alt="Lil Bears" /></a> <br />
+<a href="product_15.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV14&#39;, &#39;document&#39;, &#39;nav/nav_6_product_15_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV14&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_15_sv.gif" id="nav_product_18_SV14" class="namo-button1" data-border="0" data-align="texttop" alt="Candles" /></a> <br />
+<a href="product_14.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV15&#39;, &#39;document&#39;, &#39;nav/nav_6_product_14_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV15&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_14_sv.gif" id="nav_product_18_SV15" class="namo-button1" data-border="0" data-align="texttop" alt="Incense" /></a> <br />
+<a href="product_10.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV16&#39;, &#39;document&#39;, &#39;nav/nav_6_product_10_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV16&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_10_sv.gif" id="nav_product_18_SV16" class="namo-button1" data-border="0" data-align="texttop" alt="Frame it" /></a> <br />
+<a href="product_6.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV17&#39;, &#39;document&#39;, &#39;nav/nav_6_product_6_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV17&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_6_sv.gif" id="nav_product_18_SV17" class="namo-button1" data-border="0" data-align="texttop" alt="Christmas" /></a> <br />
+<a href="product_5.html" onmouseover="na_change_img_src(&#39;nav_product_18_SV18&#39;, &#39;document&#39;, &#39;nav/nav_6_product_5_svr.gif&#39;, true);" onmouseout="na_restore_img_src(&#39;nav_product_18_SV18&#39;, &#39;document&#39;);"><img src="nav/nav_6_product_5_sv.gif" id="nav_product_18_SV18" class="namo-button1" data-border="0" data-align="texttop" alt="Custom Order" /></a><span id="anchor_menu0"> </span><br />
+&#10;</div></td>
+<td width="625"><div>
+<a href="index.html" onmouseover="" onmouseout="">Welcome to Just for You Handcrafted Gifts.</a>&gt;<a href="product.html" onmouseover="" onmouseout="">Our Shoppe</a>&gt;Bird Houses
+</div></td>
+</tr>
+<tr>
+<td width="625" data-valign="top"><h1 id="floral-bird-houses-19.99" data-align="center">Floral Bird Houses $19.99</h1>
+<h1 id="section" data-align="left"><img src="images/prodpix/birdhouses/29311a.jpg" data-align="left" data-border="0" width="144" height="250" /> </h1>
+<p><img src="images/prodpix/birdhouses/29599a.jpg" data-align="right" data-border="0" width="225" height="150" />All our Bird houses are garnished in silk floral buds and blooms. Slightly scented in Rose or Spring bouquet. Each will include a variety of Butterflies, Birds, Lady Bugs, Frogs, Dragon Flies and other little garden delights.</p>
+<p>Qty:123456789Select a style: 25245 Ivy Log 29311 Tri Plex 29355 wishing well 29599 granny's inn 31246 mile high lodge 31245 bait shop 31244 trading post 30668 park ranger 29313 gone fishing 30659 moose lodge 30661 train station 30203 Inn 32190 tree house<br />
+Select a color:Antique RoseChampagne CreamWhite/PinkBurgundyMauve Wedding Peaches Cream Lavendar</p>
+<p><img src="images/prodpix/birdhouses/28516a.jpg" data-border="0" width="170" height="159" />   <img src="images/prodpix/birdhouses/29355a.jpg" data-border="0" width="193" height="129" />  <img src="images/prodpix/birdhouses/25245a.jpg" data-border="0" width="170" height="158" />    </p>
+<p><img src="images/nth_theme_abstract_ancient_hr.gif" class="namo-hr" data-border="0" /></p>
+<div data-align="center">
+[<a href="product_19.html" onmouseover="" onmouseout="">Back</a>][<a href="product.html" onmouseover="" onmouseout="">Up</a>][<a href="product_17.html" onmouseover="" onmouseout="">Next</a>]
+</div>
+<hr />
+<p>Copyright(c) 1996-2003. Just For You Handcrafted Gifts.   All Rights Reserved. <a href="mailto:mindy@justforyouhcgifts.com">mindy@justforyouhcgifts.com</a></p></td>
+</tr>
+</tbody>
+</table>

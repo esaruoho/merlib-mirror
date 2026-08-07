@@ -1,0 +1,35 @@
+---
+title: "US Patent Number 6343274"
+source_domain: amasci.com
+source_path: ~ables/US6343274.html
+order: 971
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:54:48Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# US Patent Number 6343274
+
+*Source page: `~ables/US6343274.html`*
+
+**US6343274**
+
+**Apparatus and method for merchant-to-consumer advertisement communication system**
+
+Hewlett-Packard
+
+**Inventor(s):** ;McCollom, William Girard ;Ables, Robert King ;Bray, Jacqueline Ann ;Cotten, Carolyn Soberalske ;Fink, Martin Robert ;Meyer, Shane Douglas ;Steigerwald, Silvi Kiisk
+
+**Serial No.** 151498 , **Filed** 19980911 , **Issued** 20020129
+
+**Abstract:**
+
+An apparatus and method provide privacy for the consumer identity and protects information concerning advertisements accessed by the consumer while still providing marketing and demographic statistics to the merchant regarding those advertisement accesses. A consumer user interface provides the consumer easy control over what advertisements the consumer is receiving and allows the consumer to easily subscribe and unsubscribe from advertisements from either particular merchants or categories of products and services. A commerce server receives the request for services from the consumer user interface program and provides the requested advertisements from specific merchants or from selected categories.
+
+**US.Class:** 705026 705014
+
+**IPC:** G06F01760
+
+**US Patents Cited:** 5710884 5724521 5732400 5828837 5850442 5889863 5933811 5948061 5950173 5974396 5987132 5999912 6006197 6009410 6026369

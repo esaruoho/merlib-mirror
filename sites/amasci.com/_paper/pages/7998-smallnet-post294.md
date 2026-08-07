@@ -1,0 +1,270 @@
+---
+title: "SMALLnet post294"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post294.html
+order: 7998
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:30Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post294
+
+*Source page: `~smallnet/Archive/post294.html`*
+
+## SMALLnet Posting post294
+
+------------------------------------------------------------------------
+
+**Date: Fri, 3 Mar 2000 01:31:14 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>.
+
+Bill Lee \< 
+
+ \> notifies us:
+
+The date published in Model Aviation and (previously) on the District VIII Event Calendar for POPGUN 2000 in San Antonio was WRONG!
+
+Here's the corrected listing for this event.
+
+APRIL 29-30 -- San Antonio, Texas (C) "Popgun 2000". Site: Covel Gardens, San Antonio, Texas; Gene Kent CD, 2811 Cork, Cove Street, San Antonio, TX 78230-4550. Phone:210-308-8043(day) Sponsor: San Antonio Prop Busters \#1227 Restricted to .26 cu.in. or smaller i.c. engines, or equivalent electric motors.
+
+Top Notch flying site. Paved 750' runway, shaded pavilion, concessions, RV dry-camping O.K.. R/C and U-control flying. S.M.A.L.L. rules (mostly). Enjoy S.A. Fiesta while you're here! Motels and RV Parks nearby. \$10:00 landing fee.
+
+Regards, Bill Lee
+
+AMA District VIII Webmaster (and SMALLnet Webmaster too).
+
+<div class="Joe">
+
+....I attended the first Popgun meet last year. That was well worth the 1000-mile drive each way. This year's meet should be even better, now that the Prop Busters have SMALL experience. \[JW\]
+
+</div>
+
+Dick Evans \< 
+
+ \> says:
+
+It's nice to see a lot of other people are getting interested in SMALL aircraft that fly in other places than indoors.
+
+I am at this time flying an Ace Simple CAP-21 with a Norvel 061 with an APC 8-6 prop, which is a lot of fun. I also have 3 Electric- powered models. I fly using a 3000 mAH battery pack. I get about 10 minute flights. No clean-up afterwards, which is real nice.
+
+Dick Evans
+
+\< 
+
+ \> avers:
+
+I have built and flown a Simple CAP 21 kit made by Ace R/C. It is powered by a Norvel .061 and weighs about 16 ounces. It was bought in the U.S.A. from the Norvel website. I returned to the U.K. and have been flying it for about a year now.
+
+It is very nice to fly and does many maneuvers. It is now beginning to look a little old, and I have tried to purchase another one from the Norvel website -- but they are no longer sold.
+
+Does anyone know where one of these kits could be bought?
+
+Wormwood SMALLster
+
+Fred Reese \< 
+
+ \> replies:
+
+Several people have asked about the Simple Series CAP 21. I just found that Riley Wooten at Lone Star Balsa has a couple of cases of them. He also has several each of the other pre-Thunder Tiger Simple Series models. His phone is 1-800-687-5555 or his web site is \< www.lonestar-models.com \>.
+
+Also to requests on the last posting: Sky Hobby lists the Cox .049 cylinders and sleeve throttles. Sky Hobby is the retail outlet for Ace R/C. \< www.skyhobby.com \> or phone 1-800-241-7556.
+
+Fred Reese
+
+Tim Atkins \< 
+
+ \> reports:
+
+<span id="76"></span>
+
+<div class="green">
+
+Source: JETEX Information\
+
+</div>
+
+Here is a link that some SMALLsters might find interesting. The renewed popularity of Jetex is really taking off (pun intended, sorry). The site is receiving some 2000 hits a month from modelers around the globe. It is constantly being up-dated and revised.
+
+\< <http://63.211.2.5/jetex.org/INTro.html> \>
+
+There is information on the history and development of Jetex, technical data on nearly every engine ever made, a wealth of "how to" knowledge, and a myriad of Jetex model plans. (Most are down- loadable.) Also on-line is the "Jet-Ex-Press", a free mailing list for those interested.
+
+There's even a Jetex "store", where you can get those hard-to-find engines and fuels from days gone by.
+
+Tim Atkins, Charleston, West Virginia
+
+Kirk Kirkham \< 
+
+ \> wrote:
+
+I picked up a can of MD Expanding Foam Sealant at a recent auction. The seller had bought it at a lumber yard for about \$3.50. It is much cheaper than the two-part stuff model railroaders use, and seems to have a thousand modeling uses.
+
+I needed some half-inch styrofoam dowels for the dummy radial engine on a Megow Curtiss Hawk. If such are made, I couldn't find them. Tubes of rolled newsprint were made and an attempt made to cast dowels using the "Mountains in Minutes" stuff. Only one dowel resulted; which was enough, but the stuff reacts quickly and it's like stuffing toothpaste back into the tube.
+
+The MD stuff comes in a spray can with a five-inch tube so you can seal off such items as electrical outlets, around windows, and the like. It was a snap to cast several dowels with it.
+
+The product needs experimentation. I can see making a rubber mould, then casting styrofoam pilots; using it to anchor the lead ballast in a towline glider; filling and backing up a weak spot in a sheeted leading edge -- anyplace where one would like to have a made-to-fit foam reinforcement on a model.
+
+Just be sure the excess has an escape route. Let it squeeze out and set, then slice any excess off with a sharp knife. I think this material
+
+can simplify a lot of repair jobs.
+
+Kirk Kirkham, Limon, Colorado
+
+Dr. Sandy Frank \< 
+
+ \> inquires:
+
+Has anyone in the world seen the new Norvel .25 for sale as yet ??? Even the ads are gone. I saw a mockup at a trade show... was even offered a pre release sample to test out...
+
+Alas, I am no engine tester... just a user; so I declined... but did tell them that I had several on order..... Are there any in circulation as of YET ?????
+
+Charlie Meyer \< 
+
+ \> reports:
+
+For one of my winter projects I built Clancy's aileron wing for my Lazy Bee. The weather cooperated for several days last week here in New York and I got the opportunity to try it out. I was very pleased with the performance; the flying was a lot more predictable and stable. It seems the plane turned a lot smoother and would not balloon as much when it came around into the wind.
+
+I would recommend all you Lazy Bee owners out there to give this wing a try; I think you will find it a whole new flying experience.
+
+My Bee has an OS 15 LA engine up front, which has also been on my .15-size Global Superfly. In total the engine has 150 or more flights on it, and so far it has been great. It starts easily, has very good power, and is not sensitive to high speed needle valve settings. I would readily recommend this engine for the sport flyer.
+
+Keep your wings level, Charlie Meyer
+
+Don Bailey \< 
+
+ \> contributed:
+
+Peter Havriluk mentioned the Guillow Bellanca Cruisemaster. I built one of those back in the early eighties with a Cox Medallion .09 in it. Weighed maybe 24 ounces (UGH!) with the Kraft 2 channel brick radio and dry cells. I covered it in dope and silkspan, and painted it bright red with several coats of brushed-on Varathane, if I remember. Looked great (except for the brushstrokes!).
+
+Problem is, I couldn't get it to ROG without groundlooping uncontrollably. It snap-rolled on take-off (twice!), and I tried to rebuild it, but I never did try to fly it again. Don't know if I might have been able to handlaunch it, but at that weight I was scared to try (plus no place to hold onto the durn thing).
+
+So as not to be whupped (I hate staying permanently whupped, don't you?) I got another one NIB a while back, and I want to try it with the new TT07 motor, at 3.33 ounces and .19 bhp. I figure if I use sub-micro gear, like CS20s and my Micro 555 Receiver and a 110 mAH battery pack, and cover it with Litespan and two light coats of butyrate, and leave off the gear, I can probably get it in under 16 ounces or so, and maybe get it to pose for some aerial fly-by shots.
+
+Sure do LOVE that old Bellanca look -- saw one at Oshkosh once that was to die for.
+
+Anyway, anyone else out there have any experience with this beautiful beastie? Is it a tip-stalling, ground-looping monster, or does it actually fly great, if built right?
+
+TIA, Don Bailey Seattle, Washington
+
+Walt Buskey \< 
+
+ \> submitted:
+
+When running my Guillow's Thomas Morse Scout with a Pee-Wee .020, I found that the plane couldn't even move on a moderately rough driveway with the standard 4.5 x 2 prop, though the engine would really scream.... After experimenting with a number of replace- ments, I settled on an APC 5.7 x 3.
+
+With this prop, it wanted to scoot right out of my hands on the same surface. Granted the TM Scout has a large cowl and probably needed a bigger prop anyway, but it sure seems that JW hit the nail on the head about an engine that could really stir up the air but not move the plane....
+
+In flight it was very scale-like, and would climb nicely, even though the rpm was substantially reduced. Incidentally, the slower rpm, coupled with the engine sitting inside the rather large papier-mache cowl (to replace the vacuum-formed kit piece), made for a much quieter set-up; I never felt it needed a muffler at all!
+
+Concerning exhaust extensions: I've tried numerous times to do this with Cox .049's and my one TD .051, and have never had any luck. They just don't seem to run at all with anything more than the 1" piece that comes with the Cox muffler!
+
+Walt Buskey
+
+Zach Allerton \< 
+
+ \> states:
+
+I can't understand for the life of me why some guys on SMALLnet want these smaller engines that run faster and scream like a banshee when, I think, they should be after the manufacturers to come out with an engine that has a longer stroke that is more quiet, produces less rpm, and flies the smaller planes like they SHOULD be flown.
+
+Give me the old slow-running engines of yesteryear. 5 or 6 thousand turns should be more than adequate. More torque with less rpm, a long stroke rather than a square engine.
+
+The diesels are the thing, IF you can get used to the oil and the smell of ether permeating the basement or house. I still prefer the way they operate, but the odor gets me. Zach
+
+Roy Clough \< 
+
+ \> writes about Cox engines:
+
+I still use the Cox .02 PeeWee that powered my May 1962 Popular Science, powered rotor helicopter. Lately I used it to spin up the rotor of a fairly large autogiro. I use its mate to fly drugstore foam gliders. The 4 1/2" grey Cox prop is best choice for this engine. Both engines date from about 1960, have beryllium-copper reeds, and run great.
+
+I have several .02 engines, some with sleeve throttles. I use a TD .02 in my latest version on the WIZ motif. The TD seems almost as powerful as the .049 Babe Bee.
+
+When a local store decided to drop its model airplane line, I stopped by for the sell-off. In a drawer full of miscellaneous parts I found a brand-new Cox Medallion .15 with cylinder sleeve muffler. When I asked, the clerk told me I didn't want it. I told him I did, and offered \$10 which he seemed to think I was foolish for paying. I set it up on a test stand, can't remember which prop I used, but it seemed reasonable at the time.
+
+It started easily, but I felt the vibration was excessive and I didn't install it in anything. About a year after that I converted it to fixed-compression diesel by reworking the head with a copper rivet, turned to fit the combustion space. This thing started instantly on Davis Fuel, seemed very powerful, and throttled very well indeed. But it shook like Billy-be-damned. There was no way I'd install this thing in a plane. Later I was told by a former Cox employee that excessive vibration was the reason they quit making the .15. I gave the converted engine to a fellow club member and have heard nothing since.
+
+I have a TD .05 RC, but don't care for the location of a carburetor screw that prevents finger-choking.
+
+I got a Medallion .09 from Skip Ruff several years ago. This thing had a piston-plunger type muffler\throttle. When the piston moved to close off the exhaust port, a small linkage rotated the needle valve body to change the position of the orifice. I used this engine to power my MAN Rotorplane. Still have it.
+
+Glad to have Greg Stewart's note on Cox .074. I'm currently building a pusher with this engine and had to leave off the muffler, but he says it runs fine that way. Good. One thing anybody who uses any of the small Cox engines as pushers should note: that they should have a ground steel thrust washer installed between the aluminum prop hub and the aluminum crankcase. Otherwise excessive wear occurs very fast. John Elliot put me onto this and sent me some steel washers that took care of that problem.
+
+I have a brand new Cox Dragonfly .049 with a built-in clunk tank, but have been suspicious of how well the cramped fuel line and clunk will operate. Haven't used it yet.
+
+Still have the Mills Diesel I once flew C/L with for over an hour and several dozen bladder-busting minutes beyond--on a pint of fuel. This plane went to a magazine, but I don't recall seeing it published.
+
+Incidentally, while I have copies of most of the magazines with my model projects, I'm missing a few. If anybody runs across them, I'd appreciate to know about them. The articles are: Popular Science, late 40's rubber-powered roadable plane model. Popular Mechanics, 1967 or later, "Foilplane". Popular Mechanics, 1963, Harlequin stressed paper glider.
+
+Sometime in the early 60's did an X-Wing control liner "Tetra" that seems lost. Possible Popular Mechanics published.
+
+Hey, the snow is melting and I'm looking forward to some half-A Texaco flying. I've been wondering lately about trying a hot reed valve with a small prop and high nitro, to grab for altitude instead of laboring down an .049 with an oversize prop for long engine run to get up there. I mean, like Zipper stuff with sedate cabin jobs.
+
+Roy C.
+
+<div class="Joe">
+
+....Yea, Roy, the engines made back when Roy Cox himself was running Thimbledrome, and Dale Kirn headed their Quality Control, are indeed long-lasting and supremely reliable. I have several that I got direct from Roy, and they run as well today as they ever did.
+
+I also have a Medallion .15 in a control-line model. I've flown that semi-regularly for something like 25 years without noticing any adverse vibration.
+
+Of course, EVERY model engine ever made was individually assembled, by hand, from parts subject to manufacturing tolerances. There's no guarantee that any two will behave exactly alike. \[JW\]
+
+</div>
+
+Paul Rodrigues \< 
+
+ \> states:
+
+Cox engines seem to have become extremely scarce, with only the Babe Bee and Black Widow still available. Here in the UK the local Cox distributor claims that this is due to the factory burning down shortly after Estes acquired them. Can anyone in the US confirm or deny this?
+
+As a devout Cox fan I am finding this scarcity extremely frustrating, and although I have alternatives such as Norvel, MP-Jet and even the new Thunder Tiger GP-07, they just never seem to have the same (sometimes frustrating) character.
+
+On the subject of throttling the TD 051's, I recently stumbled across an extremely simple yet very effective design that works a treat. It consists of a copy of the existing carb venturi to which an extension has been added. Within this extension is a disk which is pushed forwards and backwards hence opening and closing the venturi; with a slight cut out to facilitate idling. The disk is actuated by a simple rod that extends outside the housing to which you attach your pushrod.
+
+I have no idea who made them, as they were in a batch of engines I purchased, but the design works as well as the throttle on a PAW 049. Aside from the top end modification, the engineer who made them has copied in details the fuel channels in the standard system.
+
+It shouldn't be too difficult for any other engineer with similar skills to duplicate the idea.
+
+Cheers, Paul
+
+Jerry Burk \< 
+
+ \> inquires:
+
+I have a Cox .049 fitted with an aftermarket "Precision Throttle Control" (apparently from the 1963 era), but the red plastic venturi is badly warped and needs a replacement. Anyone know where one can be found? Cox is not a source.
+
+Jerry Burk
+
+Howell H. Gwin \< 
+
+ \> wonders:
+
+First, does anyone know what the rules are for Class A Texaco? Seems like this was to be a provisional SAM event. I have a 72" Feather Merchant, and with a .20 and fuel allotment, should be fun to fly -- even if just against the watch.
+
+Second, I am thinking about building an old Comet Airknocker 54" for R/C. Would it be better to use an .061 or .074 Norvel, a .09 Wasp, or an OS .10 ??
+
+In fact, does anyone have any advice about which of these would be good for the Guillow 30" WWII scale jobs?? Thanks. Howell
+
+Ken Park \< 
+
+ \> pleads:
+
+I'll be going from Ottawa, Canada to Washington D.C. for 10 weeks very soon. I will be staying near the airport at the Candlewood Suites, but I want to take my SMALL airplane "Chips" with me.
+
+I would appreciate anyone in the Baltimore-Washington area who would help me out with contacts of the local clubs so I can keep flying. My course is from 3-11 daily, and this gives me every day off to fly Chips. Please contact me if you can help. Ken Park
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

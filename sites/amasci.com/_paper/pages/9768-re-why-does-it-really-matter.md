@@ -1,0 +1,108 @@
+---
+title: "Re: Why does it REALLY matter?"
+source_domain: amasci.com
+source_path: ~wesn/waflyfishers/msg00762.html
+order: 9768
+reachable_from_entry: false
+images: 0
+internal_links: 3
+extracted: 2026-08-07T06:02:20Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Re: Why does it REALLY matter?
+
+*Source page: `~wesn/waflyfishers/msg00762.html`*
+
+------------------------------------------------------------------------
+
+\[[Date Prev](msg00761.html)\]\[[Date Next](msg00760.html)\]\[[Thread Prev](msg00760.html)\]\[[Thread Next](msg00770.html)\]\[[Date Index](date70.html#00762)\]\[[Thread Index](thread61.html#00762)\]
+
+# Re: Why does it REALLY matter?
+
+------------------------------------------------------------------------
+
+- *To*: <waflyfishers@eskimo.com>
+- *Subject*: Re: Why does it REALLY matter?
+- *From*: RexTak \<<RexTak@aol.com>\>
+- *Date*: Wed, 11 Mar 1998 18:42:57 EST
+- *Reply-To*: <waflyfishers@eskimo.com>
+- *Resent-Date*: Wed, 11 Mar 1998 15:45:40 -0800 (PST)
+- *Resent-From*: waflyfishers@eskimo.com
+- *Resent-Message-ID*: \<"SV0o9.0.6L1.O8o1r"@mx2\>
+- *Resent-Sender*: waflyfishers-request@eskimo.com
+
+------------------------------------------------------------------------
+
+    In a message dated 98-03-11 17:25:39 EST, you write:
+
+    << If you want to post, post.  If you want to "lurk", "lurk".  If you want to
+     ask a question, ask.  If you want to answer a question, answer it.
+     
+     I didn't realize that this list was set up specifically for posting what
+     fish we caught where, when and how.  What about for asking questions,
+     technical or novice?  Talking about get togethers, outdoor shows, etc... >>
+
+    Mike (and others asking the same question):
+
+       The reason it really matters, to me at least, is because without broader
+    participation the list will die, in my opinion.  I have seen it happen over
+    and over again on other lists and similar groups (I used to manage the AOL
+    FlyFishing Broadcast Network message boards, so I'm not just talking trash).
+    The few altruistic members who put up quality posts get tired of doing it
+    without getting much back, so they quit or form their own private list.  Then
+    the lurkers or infrequent posters get tired of seeing nothing worthwhile and
+    quit too.  I think this list is an excellent resource for flyfisherpersons,
+    for all the reasons you mentioned, not just fish reports.  However, the list's
+    ability to get out fish report information quickly and on a timely basis is
+    it's best potential feature.  Fishing magazines and the newspaper just cannot
+    get timely reports out in time to be useful for planning tomorrow's or this
+    weekend's fishing outing.  With the flyfishing stores, you're usually getting
+    the information second or third hand.  I think Wes N. has done a great job of
+    setting up this list server, and I would hate to see it die.  That's why it
+    matters and why it should matter to every member of this list.
+
+       By nature, I'm a non-confrontational type of guy.  That's why after I last
+    got up on the soapbox, I kind of disappeared for a while.
+
+    ===============================
+
+    << Oh, I've ben up on the Stillaguamish North fork every sat. and have
+    enjoyed the fresh are and beauty of nature. >>
+
+    Girgee:
+
+       I'm not out to insult you or others, but would just like to encourage and
+    motivate non-participants to contribute to the list, so the list doesn't die.
+    If you or others have suggestions on how to encourage everyone to participate,
+    please post them.  If you go up to the Stilly every Saturday, you have a lot
+    to contribute, regardless of whether you catch fish or not.  For sure, I would
+    be interested in things like the water level, clarity, temperature, number of
+    flyfishers, fish sightings, how the holes and runs are changing, warnings on
+    snags, fly patterns tried, techniques used, and so on.  If you were to post
+    that kind of information every Saturday night, I would certainly not be bored!
+    I'd be very appreciative!  In years past, I paid quite a bit in guide fees to
+    guides like Dennis Dickson to know information of that sort.  We could all
+    learn quite a bit from someone like you who really gets to know a river!
+
+    Good Fishing!
+
+    Rex
+
+------------------------------------------------------------------------
+
+- **Follow-Ups**:
+  - **<a href="msg00770.html" id="00770">Re: Why does it REALLY matter?</a>**
+    - *From:* "Jimmie E. Girganoff" \<girgjeue@sttl.uswest.net\>
+
+<!-- -->
+
+- Prev by Date: **[Steelhead](msg00761.html)**
+- Next by Date: **[Why does it REALLY matter?](msg00760.html)**
+- Prev by thread: **[Why does it REALLY matter?](msg00760.html)**
+- Next by thread: **[Re: Why does it REALLY matter?](msg00770.html)**
+- Index(es):
+  - [**Date**](date70.html#00762)
+  - [**Thread**](thread61.html#00762)
+
+**[Home](http://www.eskimo.com/~wesn/waflyfishers/) \| [Date Index](date70.html) \| [Thread Index](thread61.html) [Author Index](author.html)**

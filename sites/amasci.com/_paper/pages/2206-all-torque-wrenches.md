@@ -1,0 +1,75 @@
+---
+title: "all_torque_wrenches"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/engine/all_torque_wrenches.html
+order: 2206
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# all_torque_wrenches
+
+*Source page: `~dalus/bmw/all/engine/all_torque_wrenches.html`*
+
+[UnofficialBMW.com](http://www.unofficialbmw.com)
+
+\[an error occurred while processing this directive\] <span id="null">From digest.v6.n228 Sun Feb 16 16:16:38 1997</span>\
+From: Randy Hubbard \<raceware@wwnet.com\>\
+Date: Sun, 16 Feb 1997 13:29:06 -0500\
+Subject: Re: Torque Wrenches\
+
+Hi Michel, while you're entitled to your \*opinion\* on the subject of torque wrenches, your comments are riddled with inaccuracies...
+
+In the past several months we've posted information that should be useful in determining a quality torque wrench from a "club". You may want to check the archives for these postings.
+
+- While in Germany last November, I noted that they re-calibrate "clicker style" torque devices at the German car factory production areas every few HOURS because they go out of calibration! \*\*\*
+
+For your information, a Beam Style Torque Wrench is usually MUCH more accurate than traditional "clicker style" T/Wrenches... See the warranty and calibration specs that come with the tool, then review Hooke's Law for a better understanding of this subject.
+
+While improper installation and poor quality tools do lead to mechanical problems, the BMW head bolt issue was simply a bolt problem, not an installation problem.
+
+It's my opinion that anyone who owns a BMW probably has a better appreciation for quality and engineering than the average person looking for a "club". That's why as Engine Designers and German engine specialists we provide only true Aircraft Quality T/Wrenches for installation of our Aerospace fasteners. Info. available at our website if you're interested.
+
+Regards,
+
+On the 'Bahn,
+
+Randy, a.k.a. BoltMeister
+
+NEW\*\* VW/Porsche/BMW Interest At: http://www.wwnet.com/~raceware \*\*NEW
+
+------------------------------------------------------------------------
+
+\> From: Mpotheau@aol.com\
+\> Date: Sat, 15 Feb 1997 21:39:11 -0500 (EST)\
+\> Subject: \<Tools\>\
+\> \<SNIP\>
+
+\> Torque wrenches-\
+\> The click type torque wrench (sturtevant) is easiest to use and can easily go\
+\> 10 years without re-calibration. For casual users this is the best bet.\
+\> Again, this is something which for most people is a once in a lifetime\
+\> investment. Snap On has one for about \$200 which may seem like a lot of\
+\> money. It will last as long as you do. Compare that \$ to the price of a\
+\> wheel which gets stressed and cracked at a drivers school. Not a bad return\
+\> on investment. The pointer type torque wrench is a waste of money. You would\
+\> be hard pressed to duplicate readings from one useage to another with this\
+\> one. Only advantage is it won't get stolen at a drivers school.\
+\> I will resist (almost) the comment about comparing used torque wrenches with\
+\> used condoms. The saving of buying a used torque wrench, unless you know the\
+\> owner, just isn't there. I have several which were bought as part of an\
+\> auction lot, I will sell them for \$1 ea (US) plus shipping. Also, when\
+\> purchasing a torque wrench, make sure that service is available for it. Some\
+\> fancy catalogs sell Facom tools, which are great, but do you want to go to\
+\> Europe to have it calibrated? Mais oui, it justifies your next excellent\
+\> European Vacation! Seriously, that's why you oughta buy domestic even if some\
+\> imports look (and are) better. Can't help but wonder how much of the head\
+\> bolt fiasco is due to inexperienced wrenches or low quality tools?\
+\>\
+\> Michel Potheau BMWCCA \#0000002\
+\> mpotheau@aol.com\
+\>\
+\> ------------------------------

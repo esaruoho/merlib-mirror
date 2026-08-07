@@ -1,0 +1,34 @@
+
+Playoff Standings  [all rounds best of 7]
+  1st Round     2nd Round               3rd Round              Finals
+1 SA (4)  _
+8 Dal (3)  |_ 1 San Antonio (4) ___
+            _ 5 Portland (1)       |
+4 Hou (2) _|                       |_ 1 San Antonio (4)  _
+5 Por (4)                           _ 2 Oklahoma City (2) |
+                                   |                      |
+2 OKC (4) _                        |                      |
+7 Mem (3)  |_ 2 Oklahoma City (4) _|                      |
+            _ 3 LA Clippers (2)                           |
+3 LAC (4) _|                                              |
+6 GS (3)                                                  |_ 1 San Antonio (4)
+                                                           _ 2 Miami (1)
+                                                          |
+1 Ind (4) _                                               |
+8 Atl (3)  |_ 1 Indiana (4)    ____                       |
+            _ 5 Washington (2)     |                      |
+4 Chi (1) _|                       |                      |
+5 Was (4)                          |_ 1 Indiana (2) ______|
+                                    _ 2 Miami (4)   
+2 Mia (4) _                        |
+7 Cha (0)  |_ 2 Miami (4)    ______|
+            _ 6 Brooklyn (1)
+3 Tor (3) _|
+6 Bro (4) 
+ 
+
+----
+  Patricia Bender                       pbender@eskimo.com
+  For Trianglons puzzles: http://www.trianglons.com
+  For NBA stuff: http://www.eskimo.com/~pbender/index.html
+  For Mavs stuff: http://www.eskimo.com/~pbender/mavs.html

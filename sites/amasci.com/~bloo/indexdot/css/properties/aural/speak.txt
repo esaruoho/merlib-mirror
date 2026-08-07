@@ -1,0 +1,91 @@
+Speak - Cascading Style Sheets Properties 
+
+ speak 
+ Support Key: 
+ CSS2 
+ Other Aural Properties 
+
+ volume 
+ stress 
+ richness 
+ azimuth 
+ elevation 
+ voice-family 
+ speak-punctuation 
+ speak-numeral 
+ pitch 
+ pitch-range 
+ speech-rate 
+ play-during 
+ pause 
+ pause-before 
+ pause-after 
+ cue 
+ cue-before 
+ cue-after 
+
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ normal 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Aural 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property specifies whether content will be aurally rendered, and
+ the nature of its rendering. It controls aural rendering in much the
+ same way the 'display' property controls visual rendering.
+
+ Allowed Values 
+ inherit 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ normal 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Uses normal pronunciation rules for the current language to render content. 
+
+ none 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Suppresses/skips aural rendering of the element. No time is taken to
+ render the element. Child elements can override this value. 
+
+ spell-out 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Spells the content one character at a time (useful with acronyms and
+ abbreviations.) 
+
+ Example 
+ Ext/Doc: acronym {
+ speak: spell-out } 
+ In-Line:&#160; < acronym 
+ STYLE =" speak: 
+ spell-out">WWW</ acronym > 
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

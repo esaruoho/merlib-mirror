@@ -1,0 +1,4 @@
+Search the Book of Common Prayer Website. 
+
+ Search the Book of Common Prayer website. 
+ I would like to find a way to allow full-text searches of the Prayer Book, but I haven't figured out how to do that yet. In the meantime, this form will allow you to search an index by keyword.

@@ -1,0 +1,130 @@
+---
+title: "The Loadlin+Win95 mini-HOWTO: Alternate Methods for Auto-Booting Linux, Especially for Users With a FAT32 File System."
+source_domain: amasci.com
+source_path: ~praxis/loadlin-6.html
+order: 6037
+reachable_from_entry: false
+images: 6
+internal_links: 4
+extracted: 2026-08-07T05:58:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Loadlin+Win95 mini-HOWTO: Alternate Methods for Auto-Booting Linux, Especially for Users With a FAT32 File System.
+
+*Source page: `~praxis/loadlin-6.html`*
+
+[![Next](next.gif)](loadlin-7.html) [![Previous](prev.gif)](loadlin-5.html) [![Contents](toc.gif)](loadlin.html#toc6)
+
+------------------------------------------------------------------------
+
+## <span id="Section 6"></span> <span id="s6">6. Alternate Methods for Auto-Booting Linux, Especially for Users With a FAT32 File System.</span>
+
+This section will work for all versions of Windows 95 to date, regardless of whether you have a FAT32 file system. There are two methods I will discuss in this section. First, I'll start with the simplest.
+
+## <span id="ss6.1">6.1 Method 1.</span>
+
+This method uses the Autoexec.bat file to call (or execute) another batch file named Linux.bat, during boot up.
+
+- Creat a Linux.bat file using a simple text editor such as EDIT or Notepad. The contents should be similar to the following:
+
+> ` `
+>
+> ------------------------------------------------------------------------
+>
+>
+>
+>      @echo off 
+>      cls 
+>      echo. 
+>      echo. 
+>      echo. 
+>      echo. 
+>      choice /t:y,5 "Do you wish to boot Linux? " 
+>      if errorlevel 2 goto End 
+>      c:\loadlin c:\vmlinuz root=/dev/hdc2 ro 
+>      :End
+>
+> ------------------------------------------------------------------------
+
+This batch file script clears the screen, adds four blank lines, displays the text in quotes + \[Y,N\], then waits 5 seconds for you to press a key. If you do not press a key within 5 seconds, it defaults to Y and runs Linux. If you select Y or N, the batch file determines what option you selected, then executes the selected option. For example, if you select 'N' then the batch file terminates and continues to process your Autoexec.bat file, which loads Windows 95. If you select Y, then of course Linux will load.
+
+If you do not want four blank lines before the text, modify the number of lines with `echo`. If you do not want the screen to clear, then remove the line with `cls`. The `/t` switch tells the choice command to wait 5 seconds and, if no key is pressed, to default to Y. Change the `y` to an `n` if you want Windows 95 to boot after the 5 second timeout: `choice /t:n,5`. Also, you can change the amount of time to wait from 0 to 99 seconds. For more information on the *choice* command, change to the c:\windows\command directory and type: `choice /?` at the command prompt.
+
+**NOTE:** You will have to modify the line that boots Linux to match your configuration. Please see [Section 3.6](loadlin-3.html#Section%203.6) for examples of how to configure Loadlin to boot to Linux.
+
+- Next, create an Autoexec.bat file (if you don't already have one) with a simple text editor. Then, on the **first** line, add the following:
+
+> ` `
+>
+> ------------------------------------------------------------------------
+>
+>
+>
+>             call c:\linux
+>
+> ------------------------------------------------------------------------
+
+If Linux.bat is in another directory you will have to reference the correct path. For example if Linux.bat is in a directory called C:\batch, you would add:
+
+> ` `
+>
+> ------------------------------------------------------------------------
+>
+>
+>
+>             call c:\batch\linux
+>
+> ------------------------------------------------------------------------
+
+to the first line of your Autoexec.bat file. Save and exit the file. Now all you need to do is reboot. You should be prompted on whether you want to boot Linux.
+
+## <span id="ss6.2">6.2 Method 2.</span>
+
+This method is a bit more involved, but offers the greatest flexibility. What this method does it create your own custom boot menu, though it does not replace the Windows 95 boot menu. You will need a Config.sys and an Autoexec.bat file.
+
+- First you will need to define a Startup Menu in Config.sys (mycomments to you are in parenthesis):
+
+> ` `
+>
+> ------------------------------------------------------------------------
+>
+>
+>
+>      [menu] 
+>      menuitem=Linux, Boot to Linux  (This defines a Menu Block and gives it a description).
+>      menuitem=Win95, Boot to Windows 95 
+>      menucolor=15,1  (This gives a blue background with bright white text) 
+>      menudefault=Linux, 15  (This sets the default menuitem and waits up to 15 seconds for input).
+>
+>      [linux]
+>      shell=f:\loadlin.exe f:\vmlinuz root=/dev/hdc2 ro (Please see Section 4 for examples and syntax).
+>
+>      [win95] 
+>      (Include the normal contents of your config.sys file here. If you did
+>      not have a config.sys file before now, then leave this section blank).
+>
+> ------------------------------------------------------------------------
+
+- Save and exit your Config.sys file. If you want, you can use this [Config.sys template](http://www.eskimo.com/~praxis/config.sys) to get started.
+- Next, edit your Autoexec.bat file (my comments to you are in parenthesis):
+
+> ` `
+>
+> ------------------------------------------------------------------------
+>
+>
+>
+>      goto %config%
+>
+>      :win95 
+>      (Include the normal contents of your autoexec.bat file here. If you did
+>      not have an autoexec.bat file before now, then leave this section blank).
+>
+> ------------------------------------------------------------------------
+
+- Save and exit your Autoexec.bat file. If you want, you can use this [Autoexec.bat template](http://www.eskimo.com/~praxis/autoexec.bat) to get started. That should do it. The next time you reboot, you should get a Start Up menu with the option to boot to Linux or Windows 95.
+
+------------------------------------------------------------------------
+
+[![Next](next.gif)](loadlin-7.html) [![Previous](prev.gif)](loadlin-5.html) [![Contents](toc.gif)](loadlin.html#toc6)

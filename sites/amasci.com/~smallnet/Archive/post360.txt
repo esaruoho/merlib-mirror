@@ -1,0 +1,1058 @@
+SMALLnet post360 
+
+ SMALLnet Posting post360
+
+Date: Mon, 20 Nov 2000 17:23:09 -0600
+
+...This is the third try at sending out this Posting! First attempt
+was at 2 AM Saturday; tried again at 10 AM today without success;
+this time it's going out via our webmaster Bill Lee...[JW]
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet >
+
+...A clarification seems in order about the "6 1/2-inch" R/C
+receiver antennas that Randy mentioned earlier as being available
+via Ace. Ace unfortunately decided some time ago to discontinue
+their mail-order sales to modelers. Now Ace acts purely as a
+hobby distributor, mainly for Thunder Tiger products.
+
+The antennas in question are made by W.S. Deans. You won't
+find them (in catalogs I've checked) listed under "D". Look at
+the "W" listings. Tower (e.g.) carries these antennas. [JW]
+
+David Williams < > wrote:
+
+I greatly enjoyed the posting on CO2. It makes a nice change
+from Cox and Norvel!! Does anyone know how to get hold of a
+plan for Helides, the small replica CO2 model, or any information
+on the larger model? David Williams ENGLAND
+
+Andy Woitowicz < > contributed:
+
+Before winter locked in here, a youngster and his dad showed up
+at the field with a Wingo. Initial inspection revealed a very well
+engineered and executed design. Closer inspection showed that
+the prop was on backwards. Not the fault of the "builder" it seems.
+
+The prop is mounted to a spinner/hub and it was put on backwards,
+seemingly, by the factory. The assembly could not be pulled off the
+motor shaft easily, at the field, so a flight was attempted as is.
+
+Flying characteristics were very good in the near calm conditions,
+although obviously with more thrust the aircraft certainly could
+handle a bit of wind.
+
+Has anyone else encountered this problem with the Wingo, and
+how can the prop be reversed if necessary?
+
+Andy Woitowicz
+
+Ron Fikes < > also talks about "pushers":
+
+The Mouse inquired: "...I have an electric pusher question.
+I recently purchased the Mirage 2000...but they run the motor
+clockwise and use standard tractor props."
+
+We sport Speed 400 flyers just reverse the connections on the 400
+(and 280's) to get pushers. Turn the tractor prop around (so the
+airfoil is facing the front) and go fly. Most little motors are
+timed neutrally -- you can gain some performance by adjusting the
+timing. That takes a special tool, order from New Creations R/C
+at (409) 856-4630.
+
+The Zagi prop is good, cheap and needs no adaptor -- I find them
+a little heavy on pitch, and I like to use Master Airscrew
+5.5" X 4" or 5.5" X 4.5" props.
+
+For folders, there is not much choice - Graupner 6" X 3". You
+should join the Ezone Digest at < http://www.ezonemag.com >
+for more electric information -- also the SlowFlight Digest at
+< http://www.sirius.com/~thayer/modelhp.html >.
+
+Don't quit the SMALLnet digest -- there is a wealth of infor-
+mation there too. Electrics work with lots of small stuff
+(even gas, haha)...
+
+Roy Clough mentioned short R/C receiver antennas. Here is
+some information on building (assembling?) your own antennas:
+< http://www.uoguelph.ca/~antoon/gadgets/gadgets.htm >.
+
+To all - if you have ordered my plans, or asked for information --
+I have to take some time off for a personal issue. I will answer
+everything when I finish...
+
+Thanks, Ron Fikes
+
+Carlo Godel < > adds:
+
+Regarding the paucity of pusher props: if you are, or once were,
+a FreeFlighter, you may have had the experience of carving your
+own balsa props. Gas props are much easier as the pitch is far
+less, and not as much wood needs taking off.
+
+I've been carving my own props for pushers for 20 years and they
+work just fine. Find a lumberyard that specializes in hardwoods
+and get some good maple. (Oak is too porous, but you can use
+good dense walnut, peach, apricot or plum.)
+
+Another approach is to reset the motor timing. I haven't used a
+Speed 400, so I don't know if it will lend itself to that
+procedure like Astros do. Carlo
+
+Glenn Bolick < > amplifies:
+
+The Mouse asked about Speed 400 motors and the effects of clock-
+wise and/or counterclockwise rotation. Please be advised that
+although the dealers will tell you that the motors come with neutral
+timing (run the same either way) my experience with some dozen or
+so is that rarely is this the case. Some furnished with gears are
+better timed for straight and vice versa! Recognize that most
+(if not all) Speed 400 size motors are capable of being timed to
+the preferred direction by rotation of the back plate.
+
+If anyone is interested, I will provide that information.
+
+Glenn Bolick
+
+Jack Dickerson < > inquires:
+
+I have been involved in R/C flight for about 20 years, but the
+recent loss of an R/C Airport forces me to get involved with Speed
+400 electrics. This is an area where I am flying essentially blind.
+
+I have read a great deal (both here and elsewhere), and found that
+putting together a power package was not difficult until I came to
+the charger purchase. I am hopelessly confused by the very wide
+selection and complexity of this technology. There are so many
+types etc.
+
+I have questions about time lapse charging, peak detection charging,
+source voltage and a host of other issues. If you are an expert in
+this field, please email me direct. If this isn't possible, could
+someone recommend a single book source which would address
+these subjects? Thanks. Jack Dickerson
+
+Joe Bodin < > asked:
+
+Anyone flying the Norvel U-Can-2? It looks like a good model at
+a pretty reasonable price. I'd like to hear if it is as good as
+it looks. Joe Bodin
+
+Jim Lemmers < > also has a question:
+
+Looking for some information on a recent TV commercial (don't
+even know what it was for) that showed a guy standing on his deck
+or porch flying a small R/C model (vintage) plane, very neat old
+design. It must have been electric-powered for lack of engine noise.
+
+I would like to know if this was a kit or what ? Also, this could
+have been computer-faked for all I know.
+
+I would like to build up a small electric R/C plane, so am looking
+for ideas.
+
+Thanks for any assistance you may render; Jim Lemmers
+
+Len Rozamus < > reports:
+
+I put the old (c. 1966?) Fox .15X R/C back on my funfly testbed
+machine. My previous flights with this engine were run with
+disappointment because, now I have determined, the thrust washer
+had worn through (apparently) and when tightening the prop nut,
+said washer allowed the crankshaft to be bound up. Although the
+engine struggled through a couple of flights, power was poor and
+the engine ran hot, scorching the plug. Now I know why, and
+with a new thrust washer, was amazed at the performance this
+old mill delivered!
+
+I used Rustoleum spray paints on a big R/C project, because articles
+in MA and other magazines praised its lightness, ease of use, and
+ability to withstand hot fuel. In this case, the plane's wings and
+tail were covered with mylar coverings, but the curvatures of the
+fuselage led me to painting.
+
+The base was Silkspan applied with clear SuperPoxy (never again!)
+(another magazine spiel), over which I used the old SuperPoxy
+primer. After sanding this down to satisfaction, I used Rustoleum
+spray gray primer, followed by more sanding and, Rustoleum gray.
+Trim was Industrial Use Rustoleum blue spray.
+
+The spray cans worked to a point where they'd spit. Respraying
+resulted in the paint attacking itself. Finally, it became a contest
+of trying to spray enough paint over the bubbling paint to subdue
+and drown it into laying down. At times it seemed to be a psychic
+battle between me and the paint.
+
+Finally, the paint cured, and then I noticed the cracks and minute
+peeling. Mind you, this aircraft was coming to the end of a two-
+year building effort with lots of dough invested to make it work.
+
+Well, things dried and quieted down. But now, the test of fuel
+resistance raised its ugly head. So I inquired far and wide.
+Would it stand up to fuel? Should I coat it otherwise? Should
+I go with a four-stroke to allow lower nitro fuel?
+
+Well, I caved. After applying decals, Xerox glue-ons, and the
+decals from two bourbon bottles (there was $26 of the project cost
+right there!), I used Aero-Gloss Hot Fuel Proofer. It has cured
+(and gave everything a nice gloss), and still, I am trying to decide
+whether to Armor-All the finish or wax it (what kind of polish to
+use?) before I roll this project out at the Field for its test flight.
+
+Will SMALLnetters please help me with this? In the meantime,
+I am contemplating ordering a complete system of Brodak dopes
+and using them exclusively on my next project (unless someone out
+there has a discouraging word).
+
+Len Rozamus Hopewell, Virginia
+
+Michael Sommer < > contributed:
+
+I was surprised someone else did not mention this, as the subject
+comes up often on the usenet. The consensus seems to be that
+there are several different formulations for Rustoleum, and that
+cans with 'stops rust' on the label are the only ones that are glow
+fuel resistant.
+
+Allen Wiltz < > has also searched for the
+"Holy Grail" of a perfect fuelproof finish for model airplanes:
+
+For many years I have painted my aircraft which had all-solid
+surfaces (balsa-covered foam wings and sheet balsa fuselage sides)
+with acrylic lacquer. Since this lacquer is no longer available
+I have tried several other paints. The best, so far, is Dutch Boy
+acrylic enamel sold in spray cans at K-Mart stores for $1.97.
+
+The finish is hard and gives a nice satin finish. I use fuel in
+the 10%-15% nitro range, and have had no problems.
+
+Tests with 25% nitro fuel were the same.
+
+Pusher props 6" diameter x 4" pitch are available in the Grish
+(Tornado) Tempest line. Allen Wiltz
+
+Kenneth Phillips < > has a problem:
+
+I really enjoy the Postings here. I have a question for the
+multitude. I am 74 and have been building and flying since I
+was 11. Radio control with a tone generator, rubber-powered
+escapement, Pulse width/pulse duration (Galloping Ghost);
+Reeds; and finally Proportional (1965).
+
+I have recently started into small electric and have virtually no
+experience. I have recently become extremely allergic to CA.
+Bought a Sig R/C Rascal and wrote Sig with the question: "Will
+using Sig-Bond or Franklin Titebond or Ambroid work with
+this kit without making it unacceptably heavy for electric?"
+
+Sig wrote back that these glues are all fine glues but really
+didn't answer the question of weight. Maybe I missed some-
+thing in their answer but it was a one-liner. I really don't need
+another lead sled.
+
+Kenneth G. Phillips, Chandler, Texas
+
+...Kenneth, if you confine the glue in your Rascal to the actual
+joint areas, the overall difference in weight between CA,
+Titebond, and Ambroid would probably be too small to register
+on a Postal Scale. Many modelers pile up glue in "fillets"
+adjacent to their structural joints "to add crash resistance".
+
+That's ineffective, and DOES add significant weight. But the only
+place that glue really functions as it was designed to is within
+the actual joint.
+
+But technique must be learned in order to achieve maximum
+strength. End grain balsa, for example, siphons thin glue --
+CA or Ambroid -- from the joint. That's why "double gluing"
+is needed.
+
+In that, you apply a preliminary drop (or line) of glue to the end
+grain and allow that to penetrate. When it dries, it seals off
+the "capillary tubes" of the hollow wood fibers, so that the later
+JOINING application of glue stays put.
+
+Don't use wax paper to protect a model plan for a project that
+you intend sing Ambroid on. Ambroid will absorb something from
+the wax coating that prevents it from properly curing.
+
+The best "plan protector" I know of is the "backing sheet" from
+Monokote. That works with ANY kind of glue.
+
+I don't know how the Rascal is engineered; whether it's necessary
+to glue together large areas of sheet balsa face-to-face -- as with
+fuselage doublers. For that kind of glue joint, DON'T consider
+white glue or yellow. The water content of those will swell the
+wood and make it become convex on the wet side.
+
+Ambroid also has difficulties in sheet balsa laminating applications.
+That's because it dries first around the outer edges, sealing off
+the interior. The solvent can't evaporate easily from there, so
+the glue near the middle of a sheet lamination may remain wet
+(and non-adherent) for quite a long time -- perhaps DAYS, depending
+on the weather.
+
+DON'T try accelerating the drying time of any modeling adhesive
+with a heat gun. That can weaken the joint severely.
+
+Butt joints in balsa wood are always potential failure points.
+I would never use a brittle-curing glue for those -- not any more,
+I mean! I've learned my lesson with hand-launched glider wings
+butt-joined at the dihedral breaks with Titebond.
+
+Ambroid is my current favorite of the NON-CA types. As for a
+water-thinned glue, I've found by careful testing that Sig's
+"Super Weld" is far stronger than ANY of the white glues on
+the shelves at K-Mart or your local Supermarket. Elmer's, for
+instance, is too watery for reliable balsa joinery. [JW]
+
+Gary J. Seckel < > wrote:
+
+The recent talk of small biplanes suitable for slow-speed flight
+prompts me to write. I am very fortunate to fly with Bill Brewer,
+who is into SAM rubber and gas freeflight, as well as sport R/C.
+He not only sells old-timer and nostalgia plans, but draws things
+up when I can get him excited about a design. You should see
+his work!
+
+Recently I succeeded in getting him to draw up a biplane for
+.049-.10 engines. The design is Ed Slobod's "Gahni" sport biplane
+from the "59-61" Zaic Yearbook. The original was 24" span. Bill
+drew it up having a 37" span @ 410 square inches, and a 32"
+length. I have been in love with this biplane for 15 years.
+I have Bill's plans in my hands. It will get built this winter.
+I should say that this biplane is very simple to build, just like
+the small freeflight it originated from.
+
+I have test-run, but not yet flown, the very, very nice MP Jet
+.061 in the glow version. However, I also fly diesels more than
+I fly glow. I like up to the .19 PAW diesel, but have found less
+merit to using my .60 PAW diesel for flying. My local hobby
+dealer gets diesels from Carlson Engine Imports, whom I highly
+recommend.
+
+Anyway, the Gahni biplane with the MP Jet would be fun. Think
+of a small, lightly-loaded slow flyer that is switchable from glow
+to diesel! If others want a project to try diesel power on, the
+Gahni with swappable glow and diesel MP Jet .061s sounds like too
+much fun. Use a Perfect Brodak metal UC tank (clunk tanks are not
+needed for non-aerobatic flight). I stopped using plastic clunk
+tanks years ago.
+
+Bill did say that he would need to contact Ed for permission to
+use his design, before selling plans. I want Bill to do a magazine
+article on the plane. If anyone is interested, let me know as Bill
+is not connected to the Net.
+
+Gary J. Seckel
+
+Phil Davy < > submitted:
+
+Joe Wagner's reference to Paul Plecan reminded me to ask about
+the suitability of Paul's last series of 7 scale rubber designs for
+conversion to small IC, CO2 or electric R/C. Has anyone tried
+one of these? They include the: Page Racer, Sperry Messenger,
+Arado AR76, Macchi-Castoldi MC72, Howard "Pete", Bede 4,
+Turbo Porter and Paul's Tornado II .049 FF. Wow, what a lineup!
+
+Concerning prostate cancer: I was told 3 1/2 years ago that I had
+a PSA of 10 and it was urgent that I have an immediate biopsy.
+Lesson: Ask your doctor what your PSA is and act when it
+reaches 4. It's your life, you make the decision.
+
+The Urologist that performed my biopsy wanted to surgically
+remove my prostate ASAP. Two urologists and two radiological
+oncologists later, I elected for external radiation and radioactive
+implants.
+
+My PSA is now 0.2. Lesson: Locate your nearest Prostate
+Support Group, (check with your hospital) then attend several
+meetings to learn from doctors (of various disciplines) and from
+men who have had the various treatments, exactly what your
+options are, and then pick the one that suits you best.
+
+It's your life, you make the decision. You will discover that the
+claims of the doctors are not always borne out by the experience
+of their patients. Phil Davy
+
+Randy Randolph < > asserts:
+
+Re: Rubber powered R/C:
+
+There was a construction article in Model Airplane News a few
+years ago for a rubber-powered RC. The author's last name was
+Valls. I can't remember his first name, but he lived in the Rio
+Grande Valley of southwest Texas.
+
+Randy
+
+John Arbogast < > reports:
+
+I have one rubber-powered remote-controlled plane that I've
+flown, and another almost finished. I said "remote-controlled"
+since these use infra-red receivers and magnetic actuators.
+
+The one that has flown is based on a One Nite 16 with a carbon
+fiber fuselage and weighs 12 grams, all up with rudder-only control.
+Flight times are only about 40 to 45 seconds since that's as big a
+rubber motor as I can fit properly.
+
+The next one is based on a One Nite 28 and I am aiming at 2
+minutes flight time. This will be rudder-elevator controlled.
+It looks like 32 to 35 grams all up weight.
+
+Receiver power is three LR41 sized alkaline cells for 4.5 volts.
+These cells weigh 0.5 grams each and are rated at 32 mAh but
+at microamp current. The receiver will operate on two new cells
+but the micro-processor quits at 2.7 volts so there isn't much
+reserve.
+
+Three cells seem to last a long time. I get them from B.G. Micro at
+$1.99 for a card of ten cells. The BIRD actuators from Cloud 9 work
+fully proportionally with the newest infra-red receivers from Sergio
+Zigras (ZTRON). These receivers, at one gram, provide fully-
+proportional three-channel control and do not require a
+separate ESC.
+
+Incidentally, the infra-red receivers will work well in a lighted
+parking lot after dark. I have even flown in the shade of a building.
+
+The extensive description of CO2 motors in posting #359 was
+interesting enough to make me decide to pursue this. The handling
+and charging with CO2 seemed like a lot of bother; but then so does
+the charging and handling of batteries to those who haven't done it
+extensively. All you need is the correct equipment.
+
+ Source: CO2, Equipment 
+
+Sources: < http://www.ztron.com >, 
+< http://www.bgmicro.com >, and
+< http://www.rcmicroflight.com/cloud9rc/ >. John Arbogast
+
+Roger Schroeder < > adds:
+
+In response to a question about rubber-powered R/C models, I have
+been flying a 30" Pacific Ace rubber model for the past 3 years.
+I urge everyone to try rubber R/C because it is easy to do, and the
+flights are beautiful. My Ace has a CETO receiver and a BIRD
+actuator. It is very reliable and controls the Ace very well.
+
+In years past I was limited in flying my Pacific Ace by the small
+locally available flying fields, and could not enjoy a fully-wound
+flight often. Now I can wind fully and let it soar in the local
+park that is 5 minutes from home.
+
+Before the Ace, I tried a Scientific Jitterbug for R/C. It has a
+sharply-tapered wing and tended to stall upon rudder actuation.
+Thus, it appears that a rubber RC model should have about 30"
+span and a conventional wing and stabilizer planform.
+
+Yes, blowing a motor is a concern. My Ace is 15 or so years old
+and has survived several blown motors. The best protection is a
+blast tube slipped over the motor while winding. The tube is
+removed before attaching the prop. If anyone is interested in
+my experiences, they can e-mail me directly.
+
+Roger Schroeder
+
+Mark Garvey < > suggests:
+
+A note about schoolyard flying. I DO fly in a schoolyard about 2
+blocks from my house. Just recently our local city council decided
+to ban model rockets and airplanes from city property, including
+schools and parks, due to the "danger involved".
+
+When asked if they had any incidents of injuries, they replied,
+"No, but there is the possibility." The Parks Commissioner was
+unaware of the SMALL movement and had the impression that all
+model airplanes were huge monsters with Weed-Wacker engines.
+Those WOULD be dangerous in parks, I think!
+
+Happily, local modelers showed up at the meeting and dissuaded
+the city from taking this action for the present. I wrote the Parks
+Commissioner (whom I know) and invited him along next time
+I take my glider or Lazy Bee to the school.
+
+He wrote back and said. "Well, we aren't going to send the
+storm troopers out just yet! Go ahead and fly." He is actually a
+fairly reasonable guy.
+
+But this brings up a couple of points. We should possibly think
+of seeing that some of the officials get a chance to see what we
+are doing in parks. Take a Park Flyer or a small model to a city
+council meeting or to the parks commissioner of your area.
+Or make an appointment (Oh GOD don't show up un-
+announced!) with such people and tell them what you do and
+how you do it.
+
+I am not an "activist" exactly, but maybe a little understanding
+is what's needed. Mark Garvey
+
+ * * * * * * E N D * * * * * *
+
+From - Wed Mar 21 06:35:18 2001
+Return-Path: billlee@host3.absolute-hosting.net
+Received: from host3.absolute-hosting.net (unnasigned.alabanza.com [209.239.42.4] (may be forged))
+ by Ursa.USAC.net with ESMTP id CAA88791
+ for ; Wed, 21 Mar 2001 02:28:18 -0600 (CST)
+ (envelope-from billlee@host3.absolute-hosting.net)
+Received: (from billlee@localhost)
+ by host3.absolute-hosting.net (8.10.2/8.10.2) id f2L8SEu21554
+ for billlee@usac.net; Wed, 21 Mar 2001 03:28:14 -0500
+Received: from mx1.eskimo.com (mx1.eskimo.com [204.122.16.48])
+ by host3.absolute-hosting.net (8.10.2/8.10.2) with ESMTP id f2L8SDt21550
+ for ; Wed, 21 Mar 2001 03:28:13 -0500
+Received: (from smartlst@localhost)
+ by mx1.eskimo.com (8.9.1a/8.8.8) id AAA23500;
+ Wed, 21 Mar 2001 00:19:06 -0800
+Resent-Date: Wed, 21 Mar 2001 00:19:06 -0800
+From: smallnet@juno.com
+To: SMALLnet-list@eskimo.com
+Date: Wed, 21 Mar 2001 02:16:36 -0600
+Message-ID: 
+X-Mailer: Juno 4.0.11
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Juno-Att: 0
+X-Juno-RefParts: 0
+Subject: SMALLnet Posting # 380
+Resent-Message-ID: 
+Resent-From: SMALLnet-list@eskimo.com
+X-Mailing-List: archive/latest/428
+X-Loop: SMALLnet-list@eskimo.com
+Precedence: list
+Resent-Sender: SMALLnet-list-request@eskimo.com
+Reply-To: SMALLnet-list@eskimo.com
+X-Mozilla-Status: 8001
+X-Mozilla-Status2: 00000000
+X-UIDL: de57bc05278f40f326c4eccc50c69be4
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet >
+
+...Back again, gang -- with a couple of announcements to make
+before getting to the submissions.
+
+First, I'll soon be moving SMALLnet's "editorial department" to a
+new server. Juno worked very well for quite a while for receiving
+submissions and putting together Postings. But recent changes in
+Juno's policies have made going to a new server imperative. (For
+one thing, 80% of the SMALLnet in-box contents is SPAM now.)
+
+This won't affect you in any way, except for those who have been
+sending in their submissions direct, instead of through Eskimo.
+And you won't be seeing that irritating Juno ad at the end of
+the Postings any more!
+
+There will probably be one more Posting from this Juno source.
+In that I will provide the new SMALLnet e-mail address.
+
+Second, here's more data on the SMALLnet CD. Everyone who has
+received one has liked it, with one exception -- and he MAY have
+gotten a defective disk; if so I will replace it.
+
+However, at least one SMALLster didn't realize that this CD is
+purely a data storage disk. It's like word-processor data stored 
+on a floppy: you need another program to access the CD
+contents. On the back of the SMALLnet CD's "jewel case" are
+brief instructions for finding specific topics among the 376
+Postings included. Those instructions will activate either
+WordPad or NotePad (depending on how your Windows 
+"Find" function is set up) for reading the Postings.
+
+But you may find it more convenient to use WordPerfect or 
+some other word-processing program. Whatever: the SMALLnet 
+Postings are all stored in "plaintext", ASCII format, with 
+70-characters-maximum-per-line, just like this Posting.
+
+I have the pricing now for CD's shipped outside the USA. 
+For Canada the price is $21 (US dollars); for all other countries
+it's $23 US. The added charge is for postage, duty fees, and
+my extra trouble in having to fill out the dagnab Customs
+Declaration forms.
+
+I've been using a copy of this CD myself lately. I've found
+that it has advantages over the floppy disks that I previously
+stored my Archives on. The CD is FAST !!! In fact, looking up
+data (e.g. Speed 400 recommendations) on the SMALLnet CD is
+considerably quicker than on our web site -- and you don't need
+to be connected to the Internet to use it. [JW]
+
+Bill Lee < > reports:
+
+The list is at 1115 members now. Bill
+
+Bob Severance < > announces:
+
+Anyone interested in the upcoming PopGun SMALL event at 
+San Antonio, please visit our web site and look at the schedule
+of events -- or go directly to:
+< http://propbusters.org/flyer_gif.GIF > to see the flyer.
+
+Thanks, and hope to see a bunch of you guys there...
+
+Bob Severance
+
+David Williams < > wrote:
+
+I'm trying to find model plans or 3-views of a General
+Aircraft Monospar. Can anyone help?? THANKS
+
+David Williams, Bolton, England
+
+...David, there were quite a few different versions of the
+Monospar made between 1931 and 1938. All were twin-engined;
+but some had fixed landing gear; some retractable. Most had
+single vertical tails, but a few had twin rudders. The first
+ST-3 model looked rather bulky, but the fuselage was slimmed
+down considerably on the ST-4 and most of the later models --
+which extended to the ST-25 (first made in 1936).
+
+A goodly amount of data, several photographs, and 3-views of
+the ST-4 -- and ST-25 with twin rudders, can be found in
+A. J. Jackson's "British Civil Aircraft 1919-59", Volume Two.
+(Putnam, London 1960) [JW]
+
+Gordon Counsell < > asks:
+
+I have heard mixed reports about using the Hitec CG335
+4-24 cell charger with NiMH cells. Can anybody out there give
+me some reports based on personal experience?
+
+Don Bailey < > contributed:
+
+If no one else has stepped forth yet on this, I have a NIB
+complete kit of the Comet 54" Taylorcraft in my kit stack, and
+I would be willing to Xerox the die-cut parts Trent requested.
+Ain't this list just the handiest thing since CA glue?
+
+I also have built the Comet 54" Aeronca Chief (Mini-Olympus 2.33:1
+with a Speed 400 6v motor, 9X4 Zinger, 7 600 mAh Sanyos, Sprite 25
+with BEC, 2 HS81 servos, 24 ounces All-Up Weight). It flies great!
+
+I covered it with white Micafilm and a blue pinstripe down the
+sides, and blue N-numbers. Looks very scale up there, and it
+thermals well, too.
+
+When I get around to the Taylorcraft, I will be using my Thunder
+Tiger GP07 engine in it. The OS10 will also work, for a little
+more weight. You will need to beef up the forward fuselage with
+a little sheeting. I did this on my Chief, and I also replaced
+the balsa wing spars with hardwood. The wing panels and struts are
+permanently glued in place (transport has not been a big problem).
+
+I made a belly hatch for battery access, and a hatch on the top
+of the cowl for motor access.
+
+These things are large and lightweight, so avoid breezy days and
+rugged flying sites. And watch where you grab the fuselage!
+
+I just bought a NIB Enya .09 R/C, with muffler, at a swap meet.
+It is mounted and ready to go in my brand-new Sig Colt. The
+muffler is a clamp-on type (gasket included), with a butterfly
+valve that can be swung 90 degrees to the open position.
+There is no pressure tap.
+
+So, all of you who have played with a muffler like this, should
+I play with the butterfly valve, or just leave it closed? What's
+it for? Are you supposed to open it for starting and then close
+it once the engine is warm, or what? Maybe it is for priming
+directly into the exhaust opening?
+
+Also, do you recommend that I drill a hole somewhere and tap it
+for a pressure nipple? Or does this motor not need tank pressure?
+It's a nice engine, from the looks of it. I've owned several
+O.S. .10 FSR and O.S. .10 FP motors. How does the Enya compare?
+
+The Sig Colt, incidentally, was a pretty good kit. It fell
+together when I turned the box upside down, and it seems plenty
+strong and light. It looks like a cute Cessna. I expect it
+should fly great on rudder/elevator/throttle.
+
+Don Bailey, Seattle Area Soaring Society
+
+...Don, the Enya's pivoting "butterfly" was intended to allow
+priming directly into the exhaust. (I wish other modern engines
+had that feature!) As for adding a pressure fitting to the
+muffler, I'd try flying without that -- and see whether muffler
+pressure is needed for dependable running. The modification is
+easy enough to make if it turns out to be necessary. [JW]
+
+Ken Park < > announces:
+
+The Mosquito Squadron of the Ottawa Remote Control Club 
+has updated its winter building project of the "Cassutt racer" with
+notes on making your Cassutt Electric!!! Frank Reaume was kind
+enough to pass his notes on, and they are now included in the
+web page. Since I am not an Electric type guy, if you have
+questions about it call Frank! < >.
+
+You can still get a Cassutt kit if you want one; see
+< http://www.ottawarcclub.com > and go to the Small airplanes
+button for the juicy details
+
+Also let it be known the little busy beaver known as Ken Park has
+been working hard designing next year's winter project. And Yes,
+the design is a SECRET!!! We want to be 100% ready long before
+the snow flies so you can get yours before Christmas!
+
+We got off to a slow start this year and we had many delays from
+our sources that didn't help. So if you're good, you might see
+the SECRET prototypes fly at the Mosquito Squadron SMALL fly-in
+on July 28/29 2001. Ken Park
+
+Steve Morris < > wrote:
+
+I just finished building a Sterling Sopwith Camel (24 inch) 
+from an old kit I won on Ebay. I installed a 3-channel radio
+(Hitec 555 Receiver, HS-50 servos, 110 nicad pack) and a PAW .03
+diesel. The finished plane weighs 11.5 ounces and is covered with
+Japanese tissue, 2 coats of nitrate dope, acrylic paint for color,
+and polyurethane clear coat.
+
+It flies fine, although I should have enlarged the tail areas
+by 20% for more stability. This is the fourth conversion to R/C
+of a Guillow or Sterling rubber kit for me, and the combination of
+the PAW .03 and a small 3-channel R/C set continues to work 
+very well. Pictures of the model can be seen on the web at:
+
+< http://www.sirius.com/~mlbco/Sopwith1.JPG >
+< http://www.sirius.com/~mlbco/Sopwith2.JPG >
+< http://www.sirius.com/~mlbco/Sopwith3.JPG >
+
+I encourage more modelers to try the PAW 0.03 on small R/C 
+models. It throttles very well and with an exhaust collector is 
+as quiet as an electric! Steve Morris
+
+Ron Fikes < > sent:
+
+I was making up a set of carbon rod pushrods -- found the right
+length, how to mark the rods? Picked up a Sanford Uni-ball 
+"Gel" pen. It was a bright yellow color (remember, these pens 
+are made to write on black surfaces) and makes a 'bright' yellow 
+mark on the carbon -- problem solved! Ron
+
+Michael Rolls < > contributed:
+
+Talking about Vic Smeed's small F/F models: another one that I like
+is his Paageboy (sic), designed for a 1 cc PAA-Load class here in
+the UK in 1953. My version has an ED Bee and rudder/elevator.
+
+Can't tell you how well it flies -- completed it in November but
+awful weather, followed by all our local fields being closed due
+to foot and mouth precautions, means that it is still awaiting
+its first outing!! Mike
+
+Sam Brauer < > submitted:
+
+I can answer one of the questions that came up in the recent
+Postings with regards to the Playmate, since I've still got mine.
+I'll attest that it flies very well; I've lost count of how many
+hours are on mine. Unfortunately, the plane is in storage, but
+if I recall correctly, the weights given in the article were
+reasonably accurate.
+
+I've powered mine with two motors, an HB 25 (non-schnuerle) and 
+a K&B Sportster 20. The 25 was way too much power -- 3-channel
+airplanes with lots of inherent stability get pretty squirrely when 
+they are really overpowered. The Sportster 20 is a nice 
+combination, however, since I've been flying this airplane with
+4-ounce battery packs (lazy) I'll lay long odds that a plain-
+bearing .15, and a radio weight of around 6 ounces would do fine.
+
+I'm a little dubious about electric conversions however. The
+Playmate is a stout design, but with plenty of wing area. Adding
+lots of weight will alter its marvelous flying characteristics.
+Alternatively, weight could be stripped out of the airframe, 
+but then it won't be so robust.
+
+I was tickled to read about a Sterling Mambo being electrified.
+I've got a soft spot in my heart for that airplane, since it was
+the first airplane that I actually got some significant stick time
+in a single flight. I've still got a Minnie Mambo kit lying
+around, but the box is mighty heavy for an electric airplane....
+
+Sam Brauer Norwalk, Connecticut
+
+Ian L. McQueen < > inquires:
+
+Who can give guidance about the angle (Z-plane) that a pylon-
+mounted engine should make with the fuselage centerline? The Herr
+Aquastar has the engine well ahead of the wing and at about zero
+degrees (by eye). A pusher model ("Lake something") that I have
+not yet built has the engine located close above the wing TE, and
+angled upward maybe 15 degrees (from memory).
+
+A speaker at our last club meeting said that some models have
+downthrust. This seems counterintuitive to me for a pylon-mounted
+engine. Are there any rules of thumb for choosing the thrust angle
+of pylon-mounted engines? Ian M
+
+...Ian, there's one general "Rule of Thumb" covering this sort
+of thing: "If it works, it must be right, even though it may
+seem to contradict 'established theory' -- and if it DOESN'T
+work, it must be WRONG, even if it conforms absolutely to
+'established theory'." There are simply TOO MANY variables
+involved in pylon-engined flying boat design for any "recommended
+thrust angle" formulas. Whatever WORKS is right. [JW]
+
+John Rossetti < > asked:
+
+I have been reading a few Postings regarding the Sig Rascal.
+I would appreciate any input on its flying characteristics,
+duration, etc. John Rossetti
+
+Rick Ramalho < > contributed:
+
+Andy Woitowicz asked about buying Marvel Mystery Oil in Canada.
+Go to Canadian Tire; the product is in the Automotive Section
+-- a red bottle -- about $3.00 Canadian. Rick
+
+Dave Segal < > adds:
+
+A quick Internet search turned up West Fleet Direct in New Mexico
+which has a toll-free number for telephone calls from the US and
+Canada: 877-235-3387. The web site is < http://www.westfleet.com >
+and e-mail is < >. Dave Segal
+
+Norm Dial < > wrote:
+
+I don't know about Marvel Mystery Oil, but over the years I have
+had very good luck with plain old automatic transmission fluid.
+No trouble starting, and for long-storage use a coffee can of
+the stuff, drop in the engine, and forget about it.
+
+Norm Dial
+
+LeRoy Bidgood < > askes:
+
+I bought a Cox Conquest .15 back when it was new on the market
+and I had delusions of becoming a contender in FAI. This engine
+has languished in the box ever since, mostly because of inactivity
+in FF power and because of the impossibility of obtaining the
+insert plugs required.
+
+I recently got an R/C head which uses a standard plug, and have
+plans for finally using the engine.
+
+Use of the R/C head is recommended in the original operating
+instructions if frequent plug changes are anticipated, i.e. high
+nitro fuel. Additional gaskets are suggested in this configuration
+(Cox Part #28180) if high nitro fuel is to be used, or if piston/
+head interference is experienced after parts are seated. Are these
+the same as the insert plug gaskets?
+
+The piston is a squeaky fit at the top of the stroke. Feels a lot
+like a new ABC engine. Is this correct.?
+
+I would appreciate hearing from people on the list that have had
+some experience with this engine. BTW I bought an extra insert
+plug with the engine. It is marked $1.75. Current glow head
+prices make me thankful that I had the accidental foresight to
+buy a bunch for my Tee Dees. LeRoy
+
+Mark Lester < > sent:
+
+I have three glow plug engines -- a Cox Pee Wee, an OK Cub 049,
+and a Testors-McCoy 049. We also have one or two diesel engines
+of similar size, and I find those tend to be more flexible in terms
+of power adjustments. The noise levels are also more tolerable.
+
+We fly Free Flight and a bit of control line. I observe at Free
+Flight meetings that we attend here in the UK, the popularity of
+reduced-size replica vintage diesels. Some of these tiny-engined
+models seem to produce little more noise than that of electric
+power. Glow engines seem to feature quite heavily on SMALLnet
+Postings -- but perhaps more for radio control work than free
+flight?
+
+My question is: what is the general opinion on diesel conversions
+for glow engines? I understand that one is available for the
+OK Cub. I have also seen a Pee Wee converted to diesel, but
+was unable to see it in action. I notice dark warnings in the
+Cox instructions regarding diesel conversion and warranty
+invalidation etc. Are they trying to tell me something?
+
+Are diesel conversions a practical proposition, or are they a
+quick way to destroy a good engine? I should be interested to
+hear from anyone who may be able to advise.
+
+Thanks for your help -- Mark Lester, Hampshire, UK.
+
+...Mark, in previous Postings the topic of model diesels was
+covered in great depth. Here's a quick summary to answer the
+questions you have now.
+
+In general, diesel conversions of designed-for-glow engines are
+NOT worth the time and expense. True, I have ONE Cox 
+.049 successfully converted to diesel. That uses a variable-
+compression head from one source; a crankcase and shaft from
+another source; and the remainder is "stock Cox". But I have
+also wrecked six Cox .049's in trying to convert them to diesel.
+
+The stock Cox reed-valve shafts are too weak for diesel use.
+Also, the diesel conversion heads for Cox .020 and .049 sold
+by Davis use Teflon disks for contrapistons! Those seldom last
+long -- which is why the conversion kits used to contain about
+half a dozen disks. (Davis called them diaphragms.)
+
+As for OK Cubs, those were available in 1953-54 as factory-
+assembled diesels in both .049 and .074 sizes. Those ran well,
+but diesel power never became popular in the USA, and not 
+many diesel-version Cubs were sold here.
+
+To sum up: there are so many designed-as-diesel model engines
+available today, there's no advantage whatever in messing with
+"diesel conversions". [JW]
+
+Brian Allen < > contributed:
+
+Noticed in SMALLnet #379 mention of the clear mylar document
+laminating film "Doculam". It was mentioned that Modelairtech
+sold it. Tom Hunt still sells it; however, it is now called
+Clearfilm. Don't know if it is different or the same as the
+previously available Doculam, but it seems to be the same.
+
+He has two weights available: the standard (for small light
+models), and a heavier, stronger version called Clearfilm ES.
+Go to: < http://www.modelairtech.com > for details.
+
+Brian Allen
+
+Al Lidberg < > sent:
+
+Although I haven't seen Clear MicaFilm advertised for sale
+recently, it really is a lightweight, pretty neat covering
+material. Can't/won't say that it is easy to use, but it is,
+IMHO, by far the toughest iron-on stuff.
+
+I've used Clear Micafilm on some 1/2A Texaco scale models --
+used two ways: painted before application (i.e. spray can paint
+on the inner/fuzzy side -- you can paint with almost anything,
+as it won't have to be fuelproof on the inside!) -- and painted
+after application ('RC' rattlecan paint). In each instance, the
+material has proven to be quite durable.
+
+Regarding ease of use: On my Clear Micafilm-covered models 
+you can still see imprints of my fingernails on the undersides of
+wingtips as I tried to pull the stuff tight enough. But, with a
+bit of heat, the covering bridged over those impressions and
+they hardly show.
+
+On another model, one that was painted on the outside, you can
+still see some marks made by rocks from a field that had been
+plowed/sort-of cleared -- and I know that with tissue or
+moneycoat, these marks would have been sizeable holes. Again,
+a heat gun restored the shape after the dents were made. (Yes,
+a bit of paint would be needed to completely erase the problem.)
+
+BTW: this stuff stays tight over time. In contrast, I have a
+model covered in moneycoat that spends the summers in a storage
+locker here in Arizona, where the temperature may get to 130+
+degrees easily in there. This model, after a couple of summer/
+winter cycles, has gone really saggy and can no longer be flown.
+
+Polyspan (known as Salzer tissue in Europe, available at FAI
+Model Supply in the US and several other sources) is also quite
+tough, but application is a bit more difficult unless the model
+is without compound curves. This stuff has a fuzzy side that can
+cause some difficulty -- don't dare use it fuzzy side up or you'll
+quickly be thinking about another hobby!
+
+Unless you're really fond of the 'white' silkspan/tissue look,
+this stuff needs paint, or at least dye dissolved in clear dope
+(sprayed on, please).
+
+Both of these materials can produce the joke situation we used to
+talk about -- crash the model and end up with a plastic bag of
+parts -- not at all the same as crashing a moneycoat-covered model.
+
+AL
+
+A. A. Lidberg model plan service, Tempe, Arizona; kits/plans
+catalog at < http://members.aol.com/aalmps > --
+and I don't sell either of the above-noted materials.
+
+...Al, I learned a trick last summer about covering with
+Polyspan. Even "shiny side up", Polyspan gets fuzzy when doped.
+I tried sanding that off with 400-grit wet-or-dry, which seemed
+to work. But after the next coat of clear dope the fuzz returned
+worse than ever.
+
+I was mighty worried, but my son David showed me the cure:
+Micro-Mesh "Soft Touch" abrasive pads. These are available from
+Micro-Mark < http://www.micromark.com >. They come in a set 
+of six, 2" square soft foam pads with EXCEEDINGLY fine abrasive
+om both sides. These feel so smooth, it's hard to believe that
+they have any effect -- but the 2400-grit pad smoothed down
+every trace of fuzz from my doped Polyspan. And added coats of
+dope raised no more fuzz! [JW]
+
+Floyd Harp < > informs us:
+
+Gary Edson wrote about light coverings and the cost of
+Oracover Lite. Horizon Hobby has Ultracoat Lite by Goldberg
+for $12.99. Not as many color selections but the same product.
+
+Floyd Harp
+
+Carl Risteen < > contributed:
+
+Adding to Gary Edson's interesting and well-researched
+contribution on lightweight model coverings, we have been
+manufacturing what I believe is the lightest available
+iron-on, pigmented covering film.
+
+MicroLite is not very well known, as we are currently only able
+to produce a few hundred square feet per week; but are working
+on machinery that will produce it much faster and cheaper.
+
+MicroLite is aimed at lightweight electric or rubber-powered
+models, with wing loadings under about three ounces per square foot.
+The greatest weight-saving advantage of MicroLite is that it can be
+no-wrinkle heat-shrunk on very light framework without noticeable
+distortion, even on 1/20 inch square balsa framing. Warps are
+easily removed with a sealing iron.
+
+MicroLite 5 Micron weighs an average of about 0.035 ounces per
+square foot, compared to the lightest covering that Gary
+mentioned, lightly-doped Japanese tissue, at 0.060 ounces per
+square foot.
+
+Having used Japanese tissue quite a bit, I am well acquainted with
+its propensity to drastically distort a lightweight structure,
+unless you are exceedingly careful with pre-shrinking, and very
+tolerant of wrinkles and slackness.
+
+For models with wing loadings of one ounce per square foot or
+under, we have MicroLite 3 Micron, weighing about 0.023 
+ounces per square foot.
+
+MicroLite is available from David Lewis < >,
+telephone (216) 251-2517; Skyhooks & Rigging < >,
+telephone (905) 257-2101; or directly from here (telephone
+(506) 454-3675). Price from here is $15.00 US for 24" x 48" sheet,
+or $8.75 for 24" x 24" sheet, including postage.
+
+Clear hinge stock is $4.00 for 3" x 24" sheet. We try to keep
+all of the colors in stock here for immediate shipment.
+
+MicroLite is used exactly like the common self-adhesive, iron-on
+plastic coverings in common use, such as Monokote, including
+heat shrinking after application. Our website (still under
+construction; hope to get more information and pictures on soon),
+is < http://ramicrolite.com >. Carl Risteen
+
+ * * * * * * E N D * * * * * *
+
+________________________________________________________________
+GET INTERNET ACCESS FROM JUNO!
+Juno offers FREE or PREMIUM Internet access for less!
+Join Juno today! For your FREE software, visit:
+http://dl.www.juno.com/get/tagj.
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

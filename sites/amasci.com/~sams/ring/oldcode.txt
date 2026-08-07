@@ -1,0 +1,40 @@
+<!-- IMPORTANT!  This code will not be supported after September 1, 2001  -->
+<!-- You must use Yahoo's Navigation Bar for new site submissions         -->
+<!-- unless you are comfortable editing this code without assistance      -->
+
+<!--*********************************************************************************
+* This is the code that Samoyed Ring members used from 1996-2000.  You need
+* to replace **PUT YOUR SITE ID HERE** with your site ID (a 2- or 3-digit number).
+* Replace **YOUR E-MAIL ADDRESS HERE** with your e-mail address, and **YOUR NAME
+* HERE** with your name.
+* Please note: You need to have samring1.jpg and samring2.jpg in a directory called
+* "images."  If they are in a different directory, you also need to change that code.
+**********************************************************************************-->
+
+<!-- Begin Samoyed Ring Fragment -->
+<center>
+<table cellSpacing="15" border="0" height="75">
+  <tbody>
+    <tr>
+      <td align="middle" height="57"><img border="0" src="images/samring1.jpg" width="139" height="87"></td>
+      <td align="center" height="57">
+        <h5>This <a target="_top" href="http://www.geocities.com/SamoyedRing">Samoyed
+        Ring</a> site<br>
+        is owned by <a href="mailto:**YOUR E-MAIL ADDRESS HERE**">**YOUR NAME HERE**</a>.<br>
+        <br>
+        [ <a target="_top" href="http://www.webring.org/cgi-bin/webring?ring=samring&amp;id=**PUT YOUR SITE ID HERE**&amp;prev">Prev</a>
+        | <a target="_top" href="http://www.webring.org/cgi-bin/webring?ring=samring&amp;id=**PUT YOUR SITE ID HERE**&amp;skip">Skip
+        It</a> | <a target="_top" href="http://www.webring.org/cgi-bin/webring?ring=samring&amp;id=**PUT YOUR SITE ID HERE**&amp;next5">Next
+        5</a> | <a target="_top" href="http://www.webring.org/cgi-bin/webring?ring=samring&amp;id=**PUT YOUR SITE ID HERE**&amp;random">Random</a>
+        | <a target="_top" href="http://www.webring.org/cgi-bin/webring?ring=samring&amp;id=**PUT YOUR SITE ID HERE**&amp;next">Next</a>
+        ]<br>
+        <br>
+        Want to join the club? Get the <a target="_top" href="http://www.geocities.com/SamoyedRing">info</a>.
+        </h5>
+      </font></td>
+    <td align="middle" height="57"><img border="0" src="images/samring2.jpg" width="150" height="94"></td>
+  </tr>
+</tbody>
+</table>
+</center>
+<!-- End Samoyed Ring Fragment -->

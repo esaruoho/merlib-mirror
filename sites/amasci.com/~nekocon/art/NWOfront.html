@@ -1,0 +1,246 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<SCRIPT LANGUAGE = "JavaScript1.1">
+
+//* script by Apiradee *
+//added up to btn 16 value
+
+btn1val= 0;
+btn2val = 2;
+btn3val = 4;
+btn4val = 6;
+btn5val = 8;
+btn6val = 10;
+btn7val = 12;
+btn8val = 14;
+btn9val = 16;
+btn10val = 18;
+btn11val = 20;
+btn12val = 22;
+btn13val = 24;
+btn14val = 26;
+btn15val = 28;
+btn16val = 30;
+btn17val = 32;
+btn18val = 34;
+btn19val = 36;
+btn20val = 38;
+btn21val = 40;
+images = new Array(32);
+for(i=0;i<32;i++)
+{
+	images[i] = new Image();
+}
+images[0].src = "../sidebar/b1001.jpg";
+images[1].src = "../sidebar/b2001.jpg";
+images[2].src = "../sidebar/b1002.jpg";
+images[3].src = "../sidebar/b2002.jpg";
+images[4].src = "../sidebar/b1003.jpg";
+images[5].src = "../sidebar/b2003.jpg";
+images[6].src = "../sidebar/b1004.jpg";
+images[7].src = "../sidebar/b2004.jpg";
+images[8].src = "../sidebar/b1005.jpg";
+images[9].src = "../sidebar/b2005.jpg";
+images[10].src = "../sidebar/b1006.jpg";
+images[11].src = "../sidebar/b2006.jpg";
+images[12].src = "../sidebar/b1007.jpg";
+images[13].src = "../sidebar/b2007.jpg";
+images[14].src = "../sidebar/b1008.jpg";
+images[15].src = "../sidebar/b2008.jpg";
+images[16].src = "../sidebar/b1009.jpg";
+images[17].src = "../sidebar/b2009.jpg";
+images[18].src = "../sidebar/b1010.jpg";
+images[19].src = "../sidebar/b2010.jpg";
+images[20].src = "../sidebar/b1011.jpg";
+images[21].src = "../sidebar/b2011.jpg";
+images[22].src = "../sidebar/b1012.jpg";
+images[23].src = "../sidebar/b2012.jpg";
+images[24].src = "../sidebar/b1013.jpg";
+images[25].src = "../sidebar/b2013.jpg";
+images[26].src = "../sidebar/b1014.jpg";
+images[27].src = "../sidebar/b2014.jpg";
+images[28].src = "../sidebar/b1015.jpg";
+images[29].src = "../sidebar/b2015.jpg";
+images[30].src = "../sidebar/b1016.jpg";
+images[31].src = "../sidebar/b2016.jpg";
+
+// 20 images for 10 buttons
+
+function out(butnam,butval)
+{
+	
+	document[butnam].src = images[butval].src;
+
+}
+function over(butnam,butval)
+{
+
+	document[butnam].src = images[butval + 1].src;
+
+}
+
+</SCRIPT>
+
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Larry Drews">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en] (Win98; I) [Netscape]">
+   <title>Nekocon 3 Dealers Page</title>
+</head>
+<BODY bgcolor="white" MARGINWIDTH=0 MARGINHEIGHT=0 LEFTMARGIN=0 TOPMARGIN=0>
+<TABLE WIDTH=700 BORDER="0" cellpadding="0" cellspacing="0" valign="top" align="left">
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="696" HEIGHT="61" >
+<tr>
+<td VALIGN=TOP WIDTH="30" HEIGHT="61"><img SRC="../sidebar/frm1000.jpg" BORDER=0 height=61 width=30></td>
+
+<td VALIGN=TOP WIDTH="88" HEIGHT="61"><img SRC="../sidebar/counterbg.jpg" BORDER=0 WIDTH="88" HEIGHT="61"></td>
+
+<td VALIGN=TOP WIDTH="29" HEIGHT="61"><img SRC="../sidebar/frm1002.jpg" BORDER=0 height=61 width=29></td>
+
+<td VALIGN=TOP WIDTH="490" HEIGHT="61"><img SRC="../sidebar/gallery.jpg" BORDER=0 height=61 width=490></td>
+
+<td VALIGN=TOP WIDTH="61" HEIGHT="61"><img SRC="../sidebar/frm1004.jpg" BORDER=0 height=61 width=61></td>
+</tr>
+</table>
+
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="696" >
+<tr>
+<td VALIGN=TOP WIDTH="10" BACKGROUND="../sidebar/divide.jpg">
+<center><img SRC="../sidebar/ldiv.jpg" height=25 width=10></center>
+</td>
+
+<td VALIGN=TOP WIDTH="125" BACKGROUND="../sidebar/blubg.jpg">
+<!-- java buttons  -->
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="125" >
+<td>
+<IMG SRC="../sidebar/b2000.jpg" width=125 height=30 border=0>
+</td>
+<tr>
+<td>
+<A HREF="index.html" onMouseOver="over('btn1',btn1val );" onMouseOut="out('btn1',btn1val);">
+<IMG SRC="../sidebar/b1001.jpg" NAME="btn1" NOSAVE width=125 height=22 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="guests.html" onMouseOver="over('btn2',btn2val );" onMouseOut="out('btn2',btn2val);">
+<IMG SRC="../sidebar/b1002.jpg" NAME="btn2" NOSAVE width=125 height=22 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="general.html" onMouseOver="over('btn3',btn3val );" onMouseOut="out('btn3',btn3val);">
+<IMG SRC="../sidebar/b1003.jpg" NAME="btn3" NOSAVE width=125 height=21 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="dealer.html" onMouseOver="over('btn4',btn4val );" onMouseOut="out('btn4',btn4val);">
+<IMG SRC="../sidebar/b1004.jpg" NAME="btn4" NOSAVE width=125 height=20 border=0></A></td>
+</td>
+<tr>
+<td>
+<A HREF="hotel.html" onMouseOver="over('btn5',btn5val );" onMouseOut="out('btn5',btn5val);">
+<IMG SRC="../sidebar/b1005.jpg" NAME="btn5" NOSAVE width=125 height=21 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="ads.html" onMouseOver="over('btn6',btn6val );" onMouseOut="out('btn6',btn6val);">
+<IMG SRC="../sidebar/b1006.jpg" NAME="btn6" NOSAVE width=125 height=22 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="contact.html" onMouseOver="over('btn7',btn7val );" onMouseOut="out('btn7',btn7val);">
+<IMG SRC="../sidebar/b1007.jpg" NAME="btn7" NOSAVE width=125 height=21 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="prog.html" onMouseOver="over('btn8',btn8val );" onMouseOut="out('btn8',btn8val);">
+<IMG SRC="../sidebar/b1008.jpg" NAME="btn8" NOSAVE width=125 height=21 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="dnloads.html" onMouseOver="over('btn9',btn9val );" onMouseOut="out('btn9',btn9val);">
+<IMG SRC="../sidebar/b1009.jpg" NAME="btn9" NOSAVE width=125 height=21 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="link.html" onMouseOver="over('btn10',btn10val );" onMouseOut="out('btn10',btn10val);">
+<IMG SRC="../sidebar/b1010.jpg" NAME="btn10" NOSAVE width=125 height=21 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="art.html" onMouseOver="over('btn11',btn11val );" onMouseOut="out('btn11',btn11val);">
+<IMG SRC="../sidebar/b1011.jpg" NAME="btn11" NOSAVE width=125 height=21 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="vol.html" onMouseOver="over('btn12',btn12val );" onMouseOut="out('btn12',btn12val);">
+<IMG SRC="../sidebar/b1012.jpg" NAME="btn12" NOSAVE width=125 height=21 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="cosplay.html" onMouseOver="over('btn13',btn13val );" onMouseOut="out('btn13',btn13val);">
+<IMG SRC="../sidebar/b1013.jpg" NAME="btn13" NOSAVE width=125 height=22 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="video.html" onMouseOver="over('btn14',btn14val );" onMouseOut="out('btn14',btn14val);">
+<IMG SRC="../sidebar/b1014.jpg" NAME="btn14" NOSAVE width=125 height=22 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="gallery.html" onMouseOver="over('btn15',btn15val );" onMouseOut="out('btn15',btn15val);">
+<IMG SRC="../sidebar/b1015.jpg" NAME="btn15" NOSAVE width=125 height=22 border=0></A>
+</td>
+<tr>
+<td>
+<A HREF="layout.html" onMouseOver="over('btn16',btn16val );" onMouseOut="out('btn16',btn16val);">
+<IMG SRC="../sidebar/b1016.jpg" NAME="btn16" NOSAVE width=125 height=22 border=0 ALT="Neko-Con Facilities"></A>
+</td>
+<tr>
+</table>
+<!-- end java buttons  -->
+</td>
+
+<td VALIGN=TOP WIDTH="10" BACKGROUND="../sidebar/divide.jpg" width="10">
+<center><img SRC="../sidebar/rdiv.jpg" height=25 width=10></center>
+</td>
+
+<td valign=top WIDTH="565">
+
+<TABLE align=center BORDER=0 WIDTH=555>
+<TR>
+<TD>
+
+
+<!-- Begin Main Body Insertion Point -->
+
+<center>
+<a href="http://www.nekocon.org/gallery.html"><IMG SRC="../images/arrow.jpg" border=0></a>
+<hr size=3 width=75%>
+<img src="NWOfront.jpg">
+
+</center>
+<!-- End Main Body Insertion Point -->
+</TD>
+</TR>
+</TABLE>
+<center>
+<hr size=3 width=75%>
+<font size=-1>
+Neko-Con 3 and the contents of this page &copy;2000 Chibi Neko Entertainment, L.L.C.<br>
+Please send comments to the sites <a href="mailto:admin@nekocon.org">webmaster</a>
+</font>
+<hr size=3 width=75%>
+</center>
+</td>
+</tr>
+</table>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+

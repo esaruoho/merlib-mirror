@@ -1,0 +1,6 @@
+Scribble 
+
+Hold down a mouse button in the left hand side of the applet and
+drag the mouse around.
+
+James Thiele's first public Java program.

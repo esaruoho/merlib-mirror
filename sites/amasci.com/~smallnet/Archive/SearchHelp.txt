@@ -1,0 +1,51 @@
+SMALLnet Archives - Search Help 
+
+Search Help
+
+The search capability for the SMALLnet Archive is pretty simple compared
+to the luxuriant capabilities of the big search engines like Google
+or AltaVista. But it gets the job done!
+
+If you want to find all occurrences of some word in the Archives,
+just enter that word and press the Search button. As an example, you
+could enter
+ CO2 
+and the search would find all of the archive postings where CO2 was
+mentioned.
+
+But suppose you wanted to find where the phrase
+ "CO2 Engine" 
+was located. You would enter the phrase in quotes, and the search would
+look for the phrase in the archive.
+
+Perhaps you would like to find all of the places where CO2 and diesel
+engines were discussed. You would enter something like
+ co2 diesel 
+and everywhere the word CO2 or Diesel was found would be returned. Some
+postings would have CO2 in them, some would have Diesel in them, some
+would have both.
+
+Now let's find those postings that would contain BOTH CO2 and diesel
+discussions. You would enter
+ CO2+diesel 
+and the search would list those postings which contain BOTH of the terms.
+
+As you can see, it's fairly capable. And you can combine the capabilities
+to make for complex searches. As an example, perhaps you'd like to see all
+discussions containing CO2 and contibutions by Bill Lee. You would enter
+ CO2+"Bill Lee" 
+and back would come those postings. Not to say that it was Bill Lee
+that said anything about CO2, but at least they are in the same posting
+somewhere! :-)
+
+The search is case insensitive: CO2 is the same as co2.
+
+The search will find the postings for you, but you will have to use your
+browser's "Find" capability within a posting. I'm not sure where it is
+on every browser, but NetScape users will find it on their Edit menu.
+
+If you have any further questions, send me e-mail:
+
+ Bill@WRLee.com 
+
+ Back to the Archive

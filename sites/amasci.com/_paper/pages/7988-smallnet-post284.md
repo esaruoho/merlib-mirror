@@ -1,0 +1,242 @@
+---
+title: "SMALLnet post284"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post284.html
+order: 7988
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:29Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post284
+
+*Source page: `~smallnet/Archive/post284.html`*
+
+## SMALLnet Posting post284
+
+------------------------------------------------------------------------
+
+**Date: Thu, 10 Feb 2000 00:34:12 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>.
+
+<div class="Joe">
+
+... Well, gang, I'm back in Alabama once more; in fact have been home since Sunday night. Thanks to the forbearance of you fellows, there wasn't a big pile of input to SMALLnet when I got back. That gave me a chance to recuperate a little from driving 2300 miles in two days, and the 3-weeks-worth of postal mail that awaited me at the local Post Office. \[JW\]
+
+</div>
+
+Carlo Godel \< 
+
+ \> is a highly-regarded West Coast designer and flyer of small models, and a meticulous draftsman too, who contributed:
+
+<span id="17"></span>
+
+<div class="green">
+
+Source: Plans\
+
+</div>
+
+I've just found out about SMALLnet, and of course subscribed. I have many small aircraft plans available at nominal cost at my website: \< <http://www.gj.net/~regiaero/> \>. There's nothing over .049 power except a large T-28 for a .15 to .20.
+
+I have been doing the Cottage Wings thing for FF scale for a while, too.
+
+Thanks, Carlo Godel
+
+Ron Stanfield \< 
+
+ \> has good news:
+
+A new addition to SMALL for this year! I have made arrangements for the community center gym, for three hours of indoor flying on Friday night. This is a full basketball court-sized gym with about a 20-foot ceiling. Ron
+
+Mark Garvey \< 
+
+ \> asks:
+
+Are there any SMALLsters out there who might know of a flying field, or whom to contact about such, in Southern Minnesota, somewhere between Mankato-Waseca-Owatonna-Fairbault ?
+
+I promise to fly quietly and be a good flying buddy. Better yet: is there somebody in that area who wouldn't mind company building on Monday evenings until Flying Season comes ?
+
+The reason I ask is that I drive a semi (yeah all 18 wheels!) and my route ends around Owatonna-Waseca most weeks (Monday nights). I am friendly, a fair builder, a goodish flier. The only problem is where to park! I sleep in the truck and have to be in Minneapolis in the AM, so I would be pulling out about 3-4 AM for the north.
+
+Or I could park somewhere else. I generally leave the diesel idling the whole time (for heat and A/C) but it is not particularly loud.
+
+I am BORED hanging around Mall of America! No Hobby shops!
+
+I did find a nice place in Mankato though! Don's Hobby shop on Riverfront Drive. When I was there last they were rather busy, and did not have information on other areas for flying fields and modeling people -- so I thought I would ask you guys. Help ?
+
+Mark
+
+John Tolbert \< 
+
+ \> inquires:
+
+Has anyone built the Rich Uravitch design Extra 3.25 with an OS 26 four stroke? If you have, could you send a short flying report?
+
+I may be one very lucky SMALLster: the thirty-acre cornfield behind my house is being purchased by the township and converted to a park. It just might turn into a great small flying field.
+
+John Tolbert
+
+David Segal \< 
+
+ \> replies to the earlier query about diesel conversion kits for the Cox Pee Wee:
+
+The Davis catalog says: "We have limited supplies of discontinued models." You might give them a try. The address is: Davis Model Products, Milford, Connecticut 06460, USA. Phone: (203) 877-1670.
+
+David Segal
+
+Don Matlack, Sr. \< 
+
+ \> contributed:
+
+My entry for large "SMALL-legal models": I have a Royal B-17 Bomber, 80" wingspan and 12.5 pounds, powered with 4 OS Max FP engines. It flies great.
+
+Jim Anderson \< 
+
+ \> asks:
+
+I have just acquired an old Flyline kit, the 45" span Megowcoupe. The kit appears complete except for the plans. Seems to me a couple of months back I read in SMALLnet that there is a source for Flyline plans. Can anybody help me out? I really love building these kits; I already have the Great Lakes Trainer and the Stearman C3B.
+
+Jim Anderson
+
+Dave Larkin \< 
+
+ \> wrote:
+
+<span id="102"></span>
+
+<div class="green">
+
+Source: Prop spacers/adaptors: Graupner\
+
+</div>
+
+Propellor spacers/adaptors. I confess that for years I 'rolled my own' using strips of paper and white glue, wound round a dowel of the right diameter. But if you want to go first class, Graupner offer a set of 6 different nylon prop adaptors (Luftschrauben-Zwischenstucke).
+
+The part number is \#198 and Hobby Lobby stock them. Sometimes, if you are ordering Graupner props in bulk, they will include a set with the order. I usually keep a set in my flight box.
+
+Dave Larkin
+
+Peter Hosking \< 
+
+ \> reports:
+
+About 10 months ago I requested help with my Cox .049 Texaco motor. SMALLnet members helped with all sorts of information, including using Cipolla 7 x 3 1/2 props -- and advised that Ed Carlson might be able to supply those.
+
+Ed Carlson supplied me with a quantity of Cipolla Props, plus advice, help and service to our SAM members living in Melbourne, Australia.
+
+Thanks SMALLsters; thanks Ed Carlson, and thanks JW.
+
+Peter Hosking, Geelong, Australia
+
+Larry \< 
+
+ \> wrote:
+
+I have been a member of S.M.A.L.L. for a while, but have never submitted before. I'm new to this after being out of the hobby for too many years. I find it's a whole new ball game; everything has changed -- much for the better, I might add.
+
+I'm in the process of building a "Yard Bee", and I want to go electric with a geared 280 or a Speed 400. I want it to fly slow (since I'm slow) but can't seem to find out what size and pitch prop to use with each motor. Anyone have a suggestion? I'm open for any and all help I can get !! Thank you, Larry
+
+Dustan H \< 
+
+ \> wonders:
+
+Anyone know where I can get a carb for my Big Mig 049? I should have waited and got an R/C version when I bought it, but the Local Hobby Shop didn't have one, and didn't plan on getting one soon.
+
+I'm just now getting into R/C flight and love 1/2A planes. Are there any web sites with plans, drawings etc. of some these little wonders? What are some good R/C engines under .10? I'm looking to put something faster on my soda bottle plane where my Norvel currently is.
+
+Any help is greatly appreciated. Dustan H
+
+<div class="Joe">
+
+....Dustan, read back through some of the earlier SMALLnet Postings (all available on our web site, courtesy of our good-natured webmaster Bill Lee) for SMALLsters' comments on various under-.10 engines. The MP Jet .06 received some recent favorable comment, and PAW makes excellent R/C power plants in .03, .049, and .061 sizes. There used to be some glow R/C types available in this small size range too, and you may be able to find a used G-Mark (.03 or .06) or a Cox R/C .05 (designed by SMALLster Larry Renger, and the best-throttling engine Cox ever made). \[JW\]
+
+</div>
+
+Marcel Lavoie \< 
+
+ \> innovates:
+
+Building box fuselages -
+
+Over the last couple of years what I have come up with is to lay down the two longerons over the side view, with pins just off to the side of the uprights (not in line with the uprights) so that I can lift the two longerons and slip the upright strip under them.
+
+I then mark the top end of the strip to get the proper angle of cut, remove it and cut through. It is then re-inserted under the bottom longeron with the top longeron pushed down in place and the upright strip is now marked (on the inside of the lower longeron), removed and cut. With a little practice the exact length/angle is achieved very quickly.
+
+I have made up a couple of "tools" to speed things along. One is a popsicle stick (1/16" x 3/8" x 4 1/2" approximate length) with a 3/8" length of razor blade glued on one side with about 1/32" projecting from the squared-off end of the stick. This is the "marker". Just bring the blade side of this tool up against the inside edge of the top longeron, and press down to mark the angle of the upright. Remove the strip, cut, and insert the strip again; then mark the second end for length and angle.
+
+A second and important tool is the same popsicle stick material, made up of two sticks, again with the ends squared off and with a U shape, say 3/16" wide by 3/16" deep, cut in one end. This opening is good for 3/32" and 1/8" strip. The two sticks are glued together with a length of thin razor blade glued between them at the opening, with 1/64" or less projecting from the end.
+
+I use this tool to cut through the strip after it has been marked. The long handle makes it easy to keep the tool vertical. Finally, instead of just using pins to hold the longerons in place, I have made up a bunch of 1/4" square by 3/8" long blocks, which are pinned down on the outsides of the longerons. I pin these just off to the side of each upright position, and use just pins at every second station on the inside edges of the longerons.
+
+I do not build one side over the other, as the pins/blocks remain in place; and with a little care two identical sides are arrived at. There is no messing around with separating two fuselage sides. This method works beautifully and results in almost automatic success.
+
+Addendum: I live in Eastern Canada, in New Brunswick. What I utilize for blades is used Trac ll or similar, or even Dollar Store blades. These blades are a little over 1/4" wide. It is preferable to use blades which have some sections with no holes. Some blades are punched through with so many holes that what is left is quite flimsy. These thin blades can be easily cut with scissors.
+
+For glueing the blade to the marker tool, I generally use CA; and for the guillotine I use epoxy (which gives more time to make sure the blade is lined up properly). Make sure not to leave any excess epoxy in the U section on the blades! I cut through the strip material on either a cutting mat or else an end-grain block, say 1" square by 1/4" thick, so as not to dull the blade. I have not found it necessary yet to make up a bunch of these tools, but it could be a good idea to have a few spares handy.
+
+The 1/4" square x 3/8" blocks can be of balsa or some harder wood such as pine. I butt the ends and not the long edge against the longerons, so it is best to place the pins 1/8" from one end rather than in the middle of the blocks. The pins stay in the blocks after they are removed from the plan. Of course the ends of the blocks must be at 90 degrees.
+
+The main point of my technique, of course, is inserting the upright material under the longerons to get the angle of the cuts and the length very near perfect. I used this method to cut the cross pieces also for a Moffet Winner. I just laid down two temporary longerons on the top view. Tail surfaces can also benefit from this idea. Just insert the "rib" material under the leading and trailing edges, etc.
+
+Questions??? Comments!!! Marcel
+
+Fred Sanford \< 
+
+ \> submitted:
+
+I spent the summer "flying" the RCM 1/4 scale Flea. Lots of fiddling with the CG and front wing incidence. I'm currently using a Saito .30 FS (the original OS .26FS worked fine, however) so it doesn't qualify for the SMALL fly-in. It flies best at an idle, and is the slowest flying R/C model I've flown in 35+ years of R/C. It looks like a Disney character in the air !
+
+I need some help from SMALLnet contributors. Has anyone used water-thinned polyurethane as a substitute for sanding sealer and clear dope ? I would like to avoid using the traditional dope finish for sheet balsa if I can. (This is for my Dakota project.)
+
+Fred Sanford, Bemidji, Minnesota
+
+<div class="Joe">
+
+....Fred, I've done some experimenting myself with water-thinned finishes on balsa wood, and so have a couple of my friends. We are still using dope for our models, though. The presently-available water-thinned paints have undesirable effects when used for finishing sheet balsa. One is "grain-raising"; another is distortion of the surface flatness -- very annoying when it occurs on a stabilizer!
+
+One further drawback of today's "water-thinned" (note that I don't use the misleading term "water-based") finishes is porosity. There's as yet no way that water-thinned paints can provide the continuous-film coverage of true solvent-thinned finishes, such as dope and lacquer.
+
+I've also experimented with undercoats of shellac, to see whether that would minimize the warping effects from using water-thinned finishes on sheet balsa. It didn't help... \[JW\]
+
+</div>
+
+David Williams \< 
+
+ \> wrote:
+
+With all this recent talk of Flying Fleas, there was a 1/15 scale model in Aeromodeller some while back, designed by Robin James. It is powered by a Telco or Gasparin 63. I have the plan on the shelf, and might get around to building it sometime.
+
+There is also a Pou-du-Ciel at 30 inch span, powered by a .75 cc diesel. David Williams
+
+Mark Nankivil \< 
+
+ \> contributed:
+
+After the previous postings about the Flying Flea, imagine my pleasant surprise when I received my February 2000 issue of EAA's Sports Aviation magazine. On the cover is a beautiful flying shot of an HM-380; and inside is the article on its construction along with a brief history of Henri Mignet and the Flying Flea. There's even a photo of the HM.3, the "conventional" predecessor to the Flying Flea designs. It is well worth the effort by Flying Flea fans to track down a copy of this issue!
+
+While I'm typing away, I've recently finished a Multiplex Twinstar -- a foam twin Speed 400 powered model -- that has been a blast to fly. I'm presently flying it with an 8-cell 1700 mAH pack, and the performance is noticeably improved over a 7-cell pack. Well worth the money, and simple to assemble.
+
+I'm presently scratch building an electric F9F Panther from Pat Tritle drawings. The fuselage shape lends itself well to a DuBro 2-1/4" diameter spinner and an Astro 05 on either 8 or 10 cells. A beautiful design and one I look forward to completing. It even lends itself to electric ducted fan power, using a MiniFan 480 -- guess what I'll do next?!
+
+Good Health and Good Lift!! Mark Nankivil
+
+Affonso Arantes \< 
+
+ \> asks:
+
+Has anyone already tested the new Gasparin HMW-73 CO2 motor? How does it compare with the G-Mot 120 in power and duration? Can I use it with advantage in a 32" span model that now is flying with a GM-120 ?
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

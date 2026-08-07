@@ -1,0 +1,123 @@
+---
+title: "CD Club FAQ: The Most CDs for Your Dollar"
+source_domain: amasci.com
+source_path: ~bloo/cdfaq/joinfulquitrep.htm
+order: 1380
+reachable_from_entry: false
+images: 1
+internal_links: 17
+extracted: 2026-08-07T05:55:08Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# CD Club FAQ: The Most CDs for Your Dollar
+
+*Source page: `~bloo/cdfaq/joinfulquitrep.htm`*
+
+\
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th data-valign="top"><table data-border="3" width="100%" data-cellpadding="8" data-cellspacing="0">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;" data-bgcolor="#c895a7" data-nowrap="">CD Clubs FAQ<br />
+V.4.21, Last Modified: Jul 19, '99
+<hr />
+1. <a href="breaking.htm">Breaking News</a><br />
+2. <a href="intro.htm">Introduction</a><br />
+3. <a href="decidetojoin.htm">Strategies - In Brief</a><br />
+4. <a href="contacting.htm">Customer Service Information</a><br />
+5. More In-Depth Information<br />
+     · <a href="cdbrief.htm">Brief Answers To Frequently</a><br />
+       <a href="cdbrief.htm">Asked Questions</a><br />
+     · Getting The Most CDs <img src="larrow.gif" /><br />
+       For Your $$$<br />
+     · <a href="monthsel.htm">Declining The Selection</a><br />
+       <a href="monthsel.htm">Of The Month</a><br />
+     · <a href="availableoffers.htm">Available New Membership</a><br />
+       <a href="availableoffers.htm">Offers</a><br />
+     · <a href="membershipcosts.htm">Membership Costs</a><br />
+     · <a href="clubcatalogs.htm">Club Catalogs</a><br />
+     · <a href="quality.htm">The Quality Debate</a><br />
+     · <a href="remaster.htm">Club "Re-Mastering"</a><br />
+       <a href="remaster.htm">Statements</a><br />
+     · <a href="resale.htm">Resale Value</a><br />
+     · <a href="ethical.htm">Ethical Issues</a><br />
+     · <a href="salestax.htm">Clubs Collecting Sales Taxes</a><br />
+6. Other<br />
+     · <a href="http://www.musicbymailcanada.com/cdclbs.html">Appendix A:</a><br />
+       <a href="http://www.musicbymailcanada.com/cdclbs.html">CD Clubs In Canada</a><br />
+     · <a href="relatedsites.htm">CD Club Related Sites</a><br />
+     · <a href="maintainer.htm">About The Maintainer</a><br />
+     · <a href="disclaimer.htm">FAQ Disclaimer</a><br />
+&#10;<hr />
+<em>Comments, changes, or errors to:</em><br />
+Content: <a href="mailto:bpvh@primenet.com">Brad von Haden</a>,<br />
+HTML: <a href="mailto:bloo@blooberry.com">Brian Wilson</a></th>
+</tr>
+</thead>
+&#10;</table></th>
+<th>   </th>
+<th style="text-align: left;" data-valign="top"><h2 id="getting-the-most-cds-for-your" data-align="center">Getting The Most CD's For Your $$$</h2>
+<strong><span id="rejoin"></span></strong>
+<ol type="A">
+<li>The Golden Rule<br />
+Join, Fulfill, Quit, Repeat. Do <em>not</em> use their so-called "special member deals", like buy-one-at-half-price. Want more CD's? Quit and rejoin!<br />
+<br />
+BMG has a one membership, per person, per year restriction. As the restriction is per person, per year, each person at an address should be able to have one membership per year. One suggestion: while a member, use the 'join a friend' offer to sign someone else up at the same address. The current member, after fulfilling the membership, quits and uses the 'friend's' membership. Repeat.<br />
+<br />
+Please keep in mind the above BMG membership restriction when reading the next two paragraphs.<br />
+<br />
++ The stated policy of BMG and CH/CDHQ/PLAY is that they reserve the right to refuse any application. I have been a member of BMG and CH many times, a member of CDHQ once, had a CDx membership converted to BMG, and had my old CH and CDHQ memberships converted to PLAY memberships. As the clubs usually offer preferred memberships to members who have quit or allow past members to rejoin on their own, the clubs' policy evidently is to allow former members in good standing to join, fulfill, quit (repeat) at will.<br />
+<br />
+After quitting, the club might ask you to rejoin by mail and/or by phone. Be forewarned: the offers to return may not be the best offers then available from the clubs.<br />
+<br />
+</li>
+<li>+ Wait for a 'buy 1, get 2 free' offer or even a 'buy 1, get 3 free' offer (BMG only) to fulfill the membership purchase requirements.<br />
+This should happen within the first six months of membership.<br />
+<br />
+In each 'buy 1, get X free' offer, the 'free' selections must be of equal or lesser value than the purchased selection. If a CD of greater value is chosen as a free selection, the club will designate it as the purchased CD - and bill you for the higher amount - and designate the other CDs in the offer as the free selections.<br />
+<br />
+<span id="best"></span></li>
+<li>+ In the past, the clubs have come out with their best offers around the New Year.<br />
+This has not held true the past couple of years.<br />
+<br />
+</li>
+<li>+ When joining a club, considering joining as a friend of a current member.<br />
+This usually results in a better deal when joining BMG and might result in a better deal when joining CH, CDHQ or PLAY. It is important to compare the current new member offers to the current 'join a friend' offers. If the new member offer only requires the purchase of 1 CD at full price to fulfill the membership purchase requirement and the 'join a friend' offer requires the purchase of 6 CDs at full price to fulfill the membership purchase requirement, do not use the 'join a friend' offer.<br />
+<br />
++ BMG calls their 'join a friend' offer "Member-Get-A-Member". BMG's standard 'join a friend' offer is '12 CDs for the price of 1 CD, nothing more to buy' for the joining member and 4 free CDs for the sponsoring member. This is a good deal for the joining member if the sponsoring member is willing to 'give' at least one of his/her free CDs to the joining member. BMG's best 'join a friend' offer is '12 CDs for the price of 1 CD, nothing more to buy' to the joining member and 5 free CDs to the existing member (catalog n/94/O). This is a good deal for the joining member if the sponsoring member is willing to 'give' at least one of his/her free CDs to the joining member.<br />
+<br />
++ The 'join a friend' offers from CH/CDHQ/PLAY usually require the purchase of 6 CDs at full price to fulfill the membership purchase requirement. When these clubs are advertising new member offers that only require the purchase of 1 CD at full price to fulfill the membership purchase requirement, the 'join a friend' offers from these clubs are NOT recommended.<br />
+<br />
+</li>
+<li>+ If you can map out all the CD selections required to fulfill the membership when joining, you can save a couple of dollars by choosing the more expensive CDs as the free selections and the less expensive CDs as the purchase/fulfillment selections.<br />
+CDs that fulfill the membership purchase requirements are regular priced CDs over $12.98 for CH, CDHQ and PLAY; and over $14.98 for BMG.<br />
+<br />
+</li>
+<li>As all the clubs allow more than one membership per address, each spouse, sibling, roommate, etc., can have his/her own membership.<br />
+BMG allows up to five memberships under different names per address.<br />
+<br />
+<span id="boxsets"></span></li>
+<li>Getting good deals on multiple-CD sets.<br />
+BMG allows most multiple-CD sets as free or sale selections: introductory, buy-1-get-X-free, 60% off, etc. The searchable catalog at BMG's web site has most multiple-CD sets marked as "unavailable as free selection". In contrast, the printed paper catalogs have almost every multiple-CD set of 5 CDs and less unmarked (and thus available as free or bonus selections). My advice: follow the more generous printed catalogs markings and join/order via US Mail.<br />
+<br />
++ CH/CDHQ/PLAY only allow some two-CD sets as free or sale selections.<br />
+<br />
+For introductory offers, place the selection number of the N-CD set in one of the entry blocks and leave (N-1) of the entries blank. For example, ordering a three-CD set would require leaving two selection entry boxes blank.<br />
+<br />
+In non-introductory offers, multiple-CD sets are treated similarly to single CD titles: the free or discounted CD sets must be of equal or lesser value than the purchased CD set. For example, in the 'buy 1 CD, get unlimited CDs at 80% off' offer, the most expensive CD or CD set in the order will be designated by the club as the "purchased" selection and charged at full price regardless of the selection's position on the order form.</li>
+</ol></th>
+</tr>
+</thead>
+&#10;</table>

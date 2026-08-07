@@ -1,0 +1,56 @@
+Cascading Style Sheets Syntax - Inclusion Methods 
+
+ Inclusion Methods 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Attaching Style to Documents 
+ There are three ways to attach style information to documents in CSS, two
+ of which are only applicable to HTML documents. Each of the main methods
+ has its own place in the cascading hierarchy, such that style information
+ can be specified using any or all of these methods for the same document,
+ if the document language permits.
+
+ Attachment Methods 
+ External Style Sheets 
+ CSS1 | CSS2
+ | IE3 | N4B2
+ | O3.5 
+ Applicable To: HTML and XML
+ Description: 
+ A URL reference to an entire style sheet. Multiple external style sheet
+ references may be included in a document. The
+ @import At-Rule may also be used in
+ this syntax for including one or more style rule fragments from
+ disparate URL locations.
+
+ Embedded Style Sheets 
+ CSS1 | CSS2
+ | IE3 | N4B2
+ | O3.5 
+ Applicable To: HTML specific syntax, using the
+ STYLE 
+ [-->Index DOT Html] element.
+ Description: 
+ An entire style sheet is included in the HEAD section of a document.
+ Multiple STYLE blocks may be present in a document. The
+ @import At-Rule may also be used
+ in this syntax for including one or more style rule fragments from
+ disparate URL locations.
+
+ In-line Styles 
+ CSS1 | CSS2
+ | IE3 | N4B3
+ | O3.5 
+ Applicable To: HTML specific syntax, using the
+ common STYLE attribute for HTML elements.
+ Description: 
+ This method uses a limited form of CSS syntax, consisting solely of a
+ series of CSS style Declarations .
+
+ Boring Copyright Stuff....

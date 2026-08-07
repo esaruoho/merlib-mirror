@@ -1,0 +1,55 @@
+jessamyn.com: colophon
+
+ the making of... 
+
+ hardware 
+ ...
+
+ gateway 2000 p5-120 1 gig drive, 32 meg ram 
+ b&w quickcam 
+ sony mavica mvc-fd51 
+ hp scanjet 4p 
+
+ design apps 
+ ...
+
+ paintshop pro 3.12 
+ homesite 1.0 
+ netscape 4.5 & 3.0 
+ lview pro 
+ notetab 
+
+ other apps 
+ ...
+
+ spy cam 5.0 
+ time rc 2.0 
+ ewan telnet 1.052 
+ ws-ftp 4.50 
+ dunce 
+
+ fonts 
+ ...
+
+ dinc 
+ chank 
+ fontpool 
+ create 8 
+ fontastic 
+
+ graphics 
+ ...
+
+ barry's clip art server 
+ spunk image archives 
+ av photo finder 
+ corbis 
+ icon bazaar 
+
+ handy web sites 
+ ...
+
+ web weenie 
+ color guides 
+ how do they do that with html? 
+ zdnet shareware

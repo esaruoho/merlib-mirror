@@ -1,0 +1,322 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+ "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Standard Cryptographic Algorithm Naming</title>
+  <style type="text/css">
+      UL.noindent { margin: 0 0 0 0 }
+      LI { padding: 0% 0% 1% 0% }
+      SPAN.error { color: red; font-weight: 600 }
+      SPAN.s { color: blue }
+      SPAN.p { color: green }
+      SPAN.x { color: red }
+      SPAN.a { color: purple }
+      A.s    { color: blue }
+      A.p    { color: green }
+      A.x    { color: red }
+      A.a    { color: purple }
+  </style>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link=blue vlink="#000077" alink="#FF0000">
+
+<h2>PRF and KDF algorithms</h2>
+
+<a name="links"></a>
+<h3>Links</h3>
+
+<ul>
+  <li> Helger Lipmaa's page on PRFs and KDFs:<br>
+       <a href="http://www.tcs.hut.fi/~helger/crypto/link/prf/" target="_blank">
+       http://www.tcs.hut.fi/~helger/crypto/link/prf/</a>
+</ul>
+
+
+<a name="description"></a>
+<h3>Description</h3>
+
+A Pseudo-Random Function family, or PRF, expands a key and a seed to a pseudo-random
+output, which is usually of variable length. Normally the key should be chosen
+uniformly at random (or at least with high entropy), but the seed can be any byte
+string.
+<p>
+A PRF is sometimes called a Key Derivation Function, or KDF, especially when it
+is used to derive or "separate" keys.
+<p>
+(Note that the classification used in this version of SCAN is different from
+that in previous versions: functions with variable-length output that are always
+used with only one input, rather than separate seed and key inputs, are treated
+as MessageDigests. The only example of this was <a href="md.html#MGF1">MGF1</a>.)
+<p>
+Key derivation algorithms intended for use with low-entropy inputs (e.g.
+passwords or passphrases) are classified separately, in the
+<a target="_top" href="phi.html">PassphraseHash</a> section.
+
+
+<p><a name="HMAC-PRF"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>HMAC-PRF</span>(<i>digest</i>)</font> <td align=right>PRF Construction
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> David Hopwood<br>
+         (HMAC: <a href="http://www-cse.ucsd.edu/users/mihir/" target="_blank">Mihir Bellare</a>,
+         Ran Canetti,
+         Hugo Krawczyk,
+         Adi Shamir)
+  <dt><b>Published:</b>
+    <dd> 2000 (HMAC: June 1996)
+  <dt><b>Description:</b>
+    <dd> HMAC-PRF is defined as:
+         <blockquote>
+           HMAC-PRF(<i>digest</i>)(<i>key</i>, <i>seed</i>) =<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code>HMAC(<i>digest</i>)(<i>key</i>, I2OSP<sub>4</sub>(0) || <i>seed</i>) ||<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code>HMAC(<i>digest</i>)(<i>key</i>, I2OSP<sub>4</sub>(1) || <i>seed</i>) ||<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code>HMAC(<i>digest</i>)(<i>key</i>, I2OSP<sub>4</sub>(2) || <i>seed</i>) || ...
+         </blockquote>
+         The maximum output length of the PRF is
+         2<sup>32</sup>&nbsp;&#215;&nbsp;(output&nbsp;length&nbsp;of&nbsp;digest).
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, Impl</i> (for HMAC)] M. Bellare, R. Canetti, H. Krawczyk,<br>
+           "HMAC: Keyed-Hashing for Message Authentication,"<br>
+           <a href="ftp://ftp.isi.edu/in-notes/rfc2104.txt" target="_blank">
+           <cite>RFC 2104</cite></a>, February 1997.
+      <li> [<i>Def, An</i> (for HMAC)] M. Bellare, R. Canetti, H. Krawczyk,<br>
+           "Keying hash functions for message authentication,"<br>
+           Extended abstract in <cite>Advances in Cryptology - CRYPTO '96 Proceedings</cite>,
+           Volume 1109 of Lecture Notes in Computer Science (N. Koblitz, ed.).
+           Springer-Verlag, 1996.<br>
+           Full paper:
+           <a href="http://www-cse.ucsd.edu/users/mihir/papers/hmac.html#kmd5-paper" target="_blank">
+           http://www-cse.ucsd.edu/users/mihir/papers/hmac.html#kmd5-paper</a>
+      <li> [<i>Inf</i> (for HMAC)] M. Bellare, R. Canetti, H. Krawczyk,<br>
+           "Message authentication using hash functions: The HMAC construction,"<br>
+           <cite>RSA Laboratories' CryptoBytes</cite> vol. 2, no. 1, Spring 1996.<br>
+           <a href="http://www-cse.ucsd.edu/users/mihir/papers/hmac.html#hmac-cryptobytes" target="_blank">
+           http://www-cse.ucsd.edu/users/mihir/papers/hmac.html#hmac-cryptobytes</a>
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation/read, no default] - the name
+             of the Block MessageDigest on which this PRF is to be based.
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> Any multiple of 8 bits that does not cause the maximum input length for the
+         MessageDigest to be exceeded.
+  <dt><b>Missing information:</b>
+    <dd> Test vectors.
+</dl>
+
+
+<p><a name="KDF2"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>KDF2</span>(<i>digest</i>)</font> <td align=right>PRF Construction
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> P1363 Working Group
+  <dt><b>Published:</b>
+    <dd> 2001
+  <dt><b>Description:</b>
+    <dd> KDF2 is defined as:
+         <blockquote>
+           KDF2(<i>digest</i>)(<i>key</i>, <i>seed</i>) =<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code><i>digest</i>(<i>key</i> || I2OSP<sub>4</sub>(1) || <i>seed</i>) ||<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code><i>digest</i>(<i>key</i> || I2OSP<sub>4</sub>(2) || <i>seed</i>) ||<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code><i>digest</i>(<i>key</i> || I2OSP<sub>4</sub>(3) || <i>seed</i>) || ...
+         </blockquote>
+         The maximum output length of the PRF is
+         (2<sup>32</sup>&nbsp;-&nbsp;1)&nbsp;&#215;&nbsp;(output&nbsp;length&nbsp;of&nbsp;digest).
+         <p>
+         <strong>See the comments below concerning compatibility with IEEE P1363a.</strong>
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Inf</i>] IEEE,<br>
+           <cite>IEEE P1363a draft version 10 (D10)</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/P1363a/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/P1363a/index.html</a>
+      <li> [<i>An</i>] Victor Shoup,<br>
+           "A Proposal for an ISO Standard for Public Key Encryption
+            (version 2.1)"<br>
+           Revised December 20, 2001.<br>
+           <a href="http://www.shoup.net/papers/" target="_blank">
+           http://www.shoup.net/papers/</a>
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation/read, no default] - the name
+             of the message digest on which this PRF is to be based.
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> Any multiple of 8 bits that does not cause the maximum input length for the
+         MessageDigest to be exceeeded.
+  <dt><b>Missing information:</b>
+    <dd> Test vectors.
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> This algorithm has changed incompatibly (twice) from SCAN 1.0.12. It
+           now aligns more closely with P1363a, if <i>seed</i> is considered to
+           be the "key derivation parameters".
+      <li> If the current P1363a definition of KDF2 were used with a little-bit-endian
+           message digest, then it would be incompatible with this algorithm.
+           This is because, in the P1363a definition, byte string key and seed
+           inputs are converted to a bit string using the OS2BSP primitive (which
+           always uses big-bit-endian order), and then processed by the digest
+           function using its native bit order. Therefore the bits in each byte
+           of the key and seed would need to be reversed, relative to the algorithm
+           defined here.
+           <p>
+           However, P1363a only defines KDF2 for a specific set
+           of message digest functions: SHA-1, SHA-{256,384,512}, and RIPEMD-160.
+           All of these are big-bit-endian, and so there is no incompatibility
+           in practice. It is likely that if some future amendment of IEEE Std 1363
+           allowed any little-bit-endian digest functions, it would correct this
+           bit order problem.
+    </ul></dd>
+  <dt><b>Security comments:</b>
+    <dd><ul class=noindent>
+      <li> Extension attacks are possible on the seed, due to the Merkle-Damg&aring;rd
+           structure of most message digest algorithms. The suggested way to prevent
+           these attacks is to ensure that the seed has a prefix-free encoding.
+      <li> In section 12.3 of the cited paper by Victor Shoup, use of KDF2
+           for applications that require entropy smoothing,
+           is criticised as being dependent on the security of "a quite unorthodox
+           construction that does not appear to be based on any well-worn or otherwise
+           sound principles."
+    </ul></dd>
+</dl>
+
+
+<p><a name="SSL3-PRF"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>SSL3-PRF</span></font> <td align=right>PRF
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Netscape Communications Corp.
+  <dt><b>Description:</b>
+    <dd> SSL3-PRF is defined as:
+         <blockquote>
+           SSL3-PRF(<i>key</i>, <i>seed</i>) =<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code>MD5(<i>key</i> || SHA-1("A" || <i>key</i> || <i>seed</i>)) || <br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code>MD5(<i>key</i> || SHA-1("BB" || <i>key</i> || <i>seed</i>)) ||<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code>MD5(<i>key</i> || SHA-1("CCC" || <i>key</i> || <i>seed</i>)) || ...
+         </blockquote>
+         A maximum of 26&nbsp;&#215;&nbsp;16&nbsp;=&nbsp;416 bytes may be generated.
+         <p>
+         When used as a KDF, set <i>seed</i> to the zero-length string.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Netscape Communications Corp.,<br>
+           <cite>SSL v3 specification</cite>,<br>
+           <a href="http://www.netscape.com/eng/ssl3/" target="_blank">
+           http://www.netscape.com/eng/ssl3/</a>
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> Any multiple of 8 bits that does not cause the maximum input length for
+         MD5 or SHA-1 to be exceeeded.
+  <dt><b>Missing information:</b>
+    <dd> Test vectors.
+  <dt><b>Comment:</b>
+    <dd> When SSL3-PRF is used to implement SSL version 3, the master_secret
+         described in the SSL specification corresponds to the PRF key, and
+         (ServerHello.random || ClientHello.random) corresponds to the PRF seed.
+</dl>
+
+
+<p><a name="TLS-PRF"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">TLS-PRF</font> <td align=right>PRF
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> IETF Transport Layer Security Working Group
+  <dt><b>Published:</b>
+    <dd> January 1999
+  <dt><b>Description:</b>
+    <dd> TLS-PRF is defined as follows:
+         <blockquote>
+           TLS-PRF(<i>key</i>, <i>seed</i>) =<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code>P<sub>MD5</sub>(S1, <i>seed</i>) XOR P<sub>SHA-1</sub>(S2, <i>seed</i>)<br>
+           L<sub><i>key</i></sub> = length in bytes of <i>key</i><br>
+           L<sub>S1</sub> = L<sub>S2</sub> = ceiling(L<sub><i>key</i></sub> / 2)<br>
+           S1 = first L<sub>S1</sub> bytes of <i>key</i><br>
+           S2 = last L<sub>S2</sub> bytes of <i>key</i><br>
+           A<sub><i>H</i></sub>(0) = <i>seed</i><br>
+           A<sub><i>H</i></sub>(i) = HMAC(<i>H</i>)(<i>key</i>, A<sub><i>H</i></sub>(i-1)), for i&nbsp;&gt;&nbsp;0<br>
+           P<sub><i>H</i></sub>(S1, <i>seed</i>) =<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code>HMAC(<i>H</i>)(<i>key</i>, A<sub><i>H</i></sub>(1) || <i>seed</i>) ||<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code>HMAC(<i>H</i>)(<i>key</i>, A<sub><i>H</i></sub>(2) || <i>seed</i>) ||<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code>HMAC(<i>H</i>)(<i>key</i>, A<sub><i>H</i></sub>(3) || <i>seed</i>) || ...
+         </blockquote>
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] T. Dierks, C. Allen,<br>
+           "The TLS Protocol Version 1.0,"<br>
+           <a href="ftp://ftp.isi.edu/in-notes/rfc2246.txt" target="_blank"><cite>RFC 2246</cite></a>,
+           January 1999.
+      <li> [<i>Test</i>] To: "IETF Transport Layer Security WG" &lt;ietf-tls@lists.consensus.com&gt;<br>
+           Subject: PRF Testvector for the standard<br>
+           From: Rene Eberhard &lt;rene.eberhard@entrust.com&gt;<br>
+           Date: Mon, 5 Oct 1998 03:33:57 -0400<br>
+           <a href="http://www.imc.org/ietf-tls/mail-archive/msg01589.html" target="_blank">
+           http://www.imc.org/ietf-tls/mail-archive/msg01589.html</a>
+    </ul></dd>
+  <dt><b>Key length:</b>
+    <dd> Any multiple of 8 bits that does not cause the maximum input length for
+         MD5 or SHA-1 to be exceeeded.
+  <dt><b>Comment:</b>
+    <dd> When TLS-PRF is used to implement the TLS protocol, the "label" argument to
+         the PRF should be prepended to the seed. The key is referred to as the "secret"
+         by the TLS specification. I.e. where the TLS spec
+         says "PRF(<i>secret</i>,&nbsp;<i>label</i>,&nbsp;<i>seed</i>)",
+         this may be implemented as
+         "TLS-PRF(<i>secret</i>,&nbsp;<i>label</i>&nbsp;||&nbsp;<i>seed</i>)".
+  <dt><b>Security comment:</b>
+    <dd> The intention of using both MD5 and SHA-1 in the design was to try
+         to ensure that weaknesses in only one of these hashes would not cause
+         any security problem. However, only the first half of the key is used
+         in P<sub>MD5</sub>, and only the second half in P<sub>SHA-1</sub>. This
+         means that the security cannot be guaranteed to depend on the stronger
+         of MD5 and SHA-1, unless there is sufficient entropy in both the first
+         and last halves of the input key. If the key contains non-random fields
+         (e.g. the version field in the master secret for TLS RSA ciphersuites),
+         these will only affect one of P<sub>MD5</sub> or P<sub>SHA-1</sub>.
+         <p>
+         Arguably, this does not matter much in practice because either
+         P<sub>MD5</sub> or P<sub>SHA-1</sub> would be secure PRFs on their own.
+</dl>
+
+
+<a name="alleged"></a><hr>
+<h3>Alleged PRFs and KDFs</h3>
+
+<ul>
+  <li> <span class=a>KDF3</span> and <span class=a>KDF4</span> from
+       <a href="http://www.shoup.net/papers/">Shoup's ISO paper (version 2.1)</a>.
+  <li> The name <span class=a>KDF1</span> is used in Shoup's paper to refer to
+       <a href="#MGF1">MGF1</a>, and in IEEE Std 1363-2000 to refer to direct
+       use of a hash function as a KDF.
+  <li> IKE KDF from <a href="http://www.rfc-editor.org/rfc/rfc2409.txt">RFC 2409</a>.
+  <li> Uri Blumenthal's KDFs from
+       <a href="ftp://ftp.isi.edu/internet-drafts/draft-blumenthal-keygen-03.txt">
+       draft-blumenthal-keygen-03.txt</a>.
+</ul>
+
+
+<hr size=3 noshade>
+<img src="cryptix-s.gif" alt="" align=right>
+
+<table><tr>
+  <td width=200>
+      <a target="_blank" href="http://validator.w3.org/check/referer"><img
+      src="vh40.gif" alt="Valid HTML 4.0" border=0 height=31 width=88></a>&nbsp;<a
+      target="_blank" href="http://jigsaw.w3.org/css-validator/check/referer"><img
+      src="vcss.gif" alt="Valid CSS" border=0 height=31 width=88></a>
+  <td valign=top>
+      <a href="intro.html#copyright">Copyright and trademarks</a>
+</tr></table>
+
+</body>
+</html>

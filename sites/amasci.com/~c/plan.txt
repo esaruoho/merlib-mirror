@@ -1,0 +1,62 @@
+C.M. Connelly: C.M. Connelly: Personal: That Old UNIX .plan file... 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ C.M. Connelly: Personal: That Old UNIX .plan file... 
+
+ Remember these? Back in the Good Ol' Days&#8482;, everybody had one
+of these, which could be viewed using the old finger 
+command. Alas, in these days of PPP connections and POP accounts (not
+to mention spam and stalkers) most people on the &#8220;Internet&#8221; don't
+even know what a .plan file is. 
+
+ In the interest of history (or tradition, or something), though,
+here's mine (albeit HTMLized): 
+
+ Obscure Quote 
+
+People who talk about revolution and class struggle without referring 
+explicitly to everyday life, without understanding what is subversive about 
+love and positive in the refusal of constraint, have corpses in their 
+mouths. 
+ &#8212;Raoul Vaneigem, The Revolution Of Everyday Life , Paris, 
+1967
+
+ Proverbs for Paranoids! 
+
+ You may never get to touch the Master but you can tickle his creatures 
+ The innocence of the creatures is in overse proportion to the immorality of the Master 
+ If they can get you asking the wrong questions, they don't have to worry about the answers 
+ You hide, they seek 
+ Paranoids are not paranoids because they're paranoid, but because they keep putting themselves, fucking idiots, deliberately into paranoid situations 
+
+ (From Thomas Pynchon's Gravity's Rainbow , pp. 237,
+241, 251, 262, 292.) 
+
+ My Geek Code ! 
+
+ Updated 2000 Nov 28. 
+
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.12
+GCM/H/IT/LS/L/SS/TW d-(+) s--: a C++(---)@> ULHISX++++$ P++>++++
+L++(+++) E+()>+++ W+++(--)@ N(++) !o-- K w---(++++)@ O M++(--)@ V-- 
+PS++(+++)>+$ PE--(-)>$ !Y+(++) PGP++>- t+(---)@ 5++(-)@ X++(-) !R- tv++() 
+b++++(++)>$ DI++>-- !D G--() e++>$ h--- r+++ x+++
+------END GEEK CODE BLOCK------ 
+
+ Translate 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 1:43 PM PDT, Monday, September 22, 2003; last rendered at 
+ 9:22 PM PST, Sunday, November 30, 2003 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

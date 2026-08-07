@@ -1,0 +1,11 @@
+A {\sf critical set } in an $n \times n$ array is a set $C$ of given
+entries, such that there exists a unique extension of  $C$ to  an
+$n\times n$ Latin square and no proper subset of $C$ has this
+property.  The cardinality of the largest critical set in any Latin
+square of order $n$ is denoted by $\lcs{n}$.  In 1978 Curran and van
+Rees proved that $\lcs{n} \leq n^2 - n$.  Here we show that $\lcs{n}
+\leq n^2-3n+3$.
+
+To appear in the special volume of ``Discrete Mathematics'' devoted
+to Combinatorics'2000.
+

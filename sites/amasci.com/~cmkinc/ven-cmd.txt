@@ -1,0 +1,428 @@
+VeNoM [commands] 
+
+ V
+ e N o M I N T E R A C T I V E 
+
+ Running
+ Eggdrop can be a daunting task for the novice. This page outlines some of VeNoM's 
+ more common commands and techniques. 
+
+ [ VeNoM Home ] 
+
+ Rules of the Game 
+ VeNoM is good, but it's far from perfect. The bot's overall
+ functioning is a semi-controlled chaos of built-in eggdrop stuff, an assortment of tcl
+ scripts found at places like EspReSso's
+ Eggdrop Archive and XCalibre ,
+ and literally dozens of hours of testing, tweaking, tuning, and customizing. As a result, VeNoM 
+ tends to exhibit behavior that reinforces the IRC philosophies of its creator (me!) ,
+ and the main one is RESPECT! The bot will do everything it can to protect and serve
+ the ops it knows (including protection from renegade ops). Do not betray this sacred
+ trust! 
+ Starting Out 
+ After an administrator deems you worthy to access VeNoM and adds
+ you to its user list, you'll probably want to set a password right away. It isn't absolutely 
+ necessary, but without a password you won't be able to get into all the nifty stuff
+ through DCC chat or telnet connection. Besides, it doesn't take but a second; here's what
+ to type: 
+ /msg VeNoM pass <password> 
+
+ The <password> in the above line is a command argument ,
+ in this case representing a word you make up and remember as your own personal password.
+ Most of VeNoM's commands require one or more arguments telling it who, what, and/or
+ where to perform the action. Oh, and omit the <brackets> when keying in a
+ command argument. That's pretty standard convention, on this page, in the on-line help
+ files, and in other eggdrop documentation you might happen across. 
+ You're SO Controlling! 
+ VeNoM loves to serve! There are 3 ways to send VeNoM 
+ commands to make it do exactly what you want: 
+ DCC Chat - Commands issued "inside" the bot,
+ after a DCC (or telnet) connection has been established. All bot functions are accessible.
+ DCC commands are always preceded with a period (.) 
+ Private Message - Commands issued in private query with
+ the bot. Primarily op-related functions are accessible. Message commands are generally
+ preceded with an exclamation point (!) 
+ Public Chat - Commands issued directly from the channel.
+ Op-related, channel, and some utility functions are accessible. Public commands are
+ generally preceded with an exclamation point (!) 
+
+ Users, Flags, and
+ Getting Help 
+ The concept of flags takes some getting used to, especially if you're
+ comfortable with scripts, script-bots, or channel services that assign a numerical access
+ level to users. To start to get a feel for flags, DCC chat with VeNoM , enter your
+ password when asked, then type this command in the DCC window: 
+ .whois <your nick> 
+ An example of what you see might look something like this: 
+
+ HANDLE PASS NOTES FLAGS LAST
+ Bouncer yes 0 xp 20:32
+ #CyberCafe o 20:32
+ HOSTS: *!mel@*.aug.com
+
+ Let's examine each element of this user record, paying
+ particular attention to those cryptic letters in the FLAGS column: 
+ HANDLE - This is the name that VeNoM knows you
+ by. Usually it's the same as your IRC nickname, but not necessarily so. Your bot handle
+ and IRC nickname are independent of one another, and you need not have them match for VeNoM 
+ to recognize and obey you. 
+ PASS - Shows whether or not you've set a password. 
+ NOTES - Shows how many notes you have stored (see .notes 
+ in the command table ) . 
+ FLAGS - These determine overall access to VeNoM ,
+ and what channel functions you can use on which channels. Confused yet? Bear with me. The
+ first set of flags (on the same line as the handle) are global flags and apply
+ anywhere. In the above example, "x" denotes access to VeNoM's file
+ transfer area and "p" allows a user to chat on the 'party line' inside
+ the bot. On the next line we see an "o" flag for #CyberCafe , which
+ means that this person is a recognized chanop for that channel. A global "o" 
+ flag, on the other hand, would recognize the user as an op on any channel the bot sits. 
+ Following is a complete rundown of available user flags: 
+
+ Flag 
+ Meaning 
+ Glob 
+ Chan 
+ Bot 
+
+ o 
+ op (bot will give this user chanop) 
+ X 
+ X 
+
+ m 
+ master (user is a bot or channel
+ master) 
+ X 
+ X 
+
+ n 
+ owner (user is a bot or channel owner) 
+ X 
+ X 
+
+ B 
+ botnet master (user is a botnet master) 
+ X 
+
+ x 
+ xfer (user has file-area access) 
+ X 
+
+ p 
+ party-line (user has party-line access) 
+ X 
+
+ j 
+ janitor (user is a file-area master) 
+ X 
+
+ f 
+ friend (user is not punished for doing
+ bad things) 
+
+ X 
+
+ k 
+ kick (user is auto-kicked) 
+
+ X 
+
+ d 
+ deop (bot will not allow this user to
+ become a chanop) 
+
+ X 
+
+ b 
+ bot (user is another bot) 
+
+ X 
+
+ h 
+ hub (bot is auto-linked at
+ highest priority) 
+
+ X 
+
+ a 
+ alternate (bot is
+ auto-linked if no hub bots can be linked) 
+
+ X 
+
+ l 
+ leaf (bot is not allowed to
+ link in other bots) 
+
+ X 
+
+ r 
+ reject (bot is not allowed
+ on the net) 
+
+ X 
+
+ LAST - Shows the last time VeNoM saw you, overall
+ and by channel (see !seen in the command table ) . 
+ HOSTS - Hostmask(s) VeNoM uses to authenticate
+ your identity. You may have as many as you need to allow for different accounts, etc. 
+
+ The Console 
+ VeNoM's console is your "window to IRC." You
+ can fine-tune console settings to filter exactly what messages you want to see in the bot,
+ and set the channel you want VeNoM to perform channel-specific commands
+ on. Like user records, the console also uses a system of flags to determine the level of
+ message detail you'll see. 
+ Following is a complete listing of available console flags: 
+
+ Flag 
+ Meaning 
+
+ m 
+ display private msgs/ctcps to the bot 
+
+ p 
+ display public talk and ctcps on the channel 
+
+ k 
+ display kicks/bans/mode changes on the channel 
+
+ j 
+ display joins/parts/nick changes/signoffs on the
+ channel 
+
+ b 
+ display bot links/unlinks/userfile-sharing 
+
+ s 
+ display server messages and connects/disconnects 
+
+ w 
+ display msgs between IRCops (wallops) 
+
+ 1 
+ display clone-detector messages 
+
+ c 
+ display user commands (dcc and msg, masters only ) 
+
+ o 
+ display other bot notices ( masters only ) 
+
+ x 
+ display file transfers and file-area commands ( masters
+ only ) 
+
+ To see your current console setting, simply type: 
+ .console 
+ A typical console display might look something like this: 
+
+ Your console is #cybercafe: mcb1 (msgs, cmds, bots, level 1) 
+ What that line tells me is that #cybercafe 
+ is my current console channel, and that the only messages I'll see in the bot are /msgs to
+ the bot, commands that other people use, any bot links or unlinks, and clone-detector
+ activity. The full syntax of the .console command is: 
+ .console [channel] [+/- flags] 
+ The command arguments above are shown in [square
+ brackets] because they are not required. You can change as much or as little of
+ the console as you wish, and you can do it all in one command. The "+" and
+ "-" simply toggle flags on or off. For instance, suppose I'd like to change to a
+ setting that lets me see what's going on in a different channel, including all public
+ chat, joins, kicks -- I want it ALL! I want to SNOOP! Okay, let's try this: 
+ .console #25+flirtz +pjk-cb 
+ Finally, if you find a particular console setting that you
+ prefer, type .store in the DCC window. This saves the current console
+ setting as your personal default whenever you log in to VeNoM . 
+
+ VeNoM's Command Table 
+
+ Function 
+ Where? 
+ Format 
+ Remarks 
+
+ Opping/De-opping 
+ Pub 
+ !up 
+ Ops self if you are a known operator on the
+ channel the command is issued from. 
+
+ Pub 
+ !down 
+ De-ops self on the channel the command is issued from. 
+
+ Pub 
+ !op <nick> 
+ Ops <nick> if you are a known operator on
+ the channel the command is issued from. 
+
+ Pub 
+ !deop <nick> 
+ De-ops <nick> if you are a known operator
+ on the channel the command is issued from, and <nick> is not. 
+
+ DCC 
+ .op <nick> 
+ Ops <nick> on your current console channel. 
+
+ DCC 
+ .deop <nick> 
+ De-ops <nick> if <nick> is not a
+ known operator on your current console channel. 
+
+ Pub 
+ !voice
+ <nick> 
+ Voices <nick> if you are a known operator
+ on the channel the command is issued from. 
+
+ Pub 
+ !devoice
+ <nick> 
+ De-voices <nick> if you are a known
+ operator on the channel the command is issued from. 
+
+ Kicking/Banning 
+ Pub 
+ or 
+ Msg 
+ !k <channel>
+ <nick> <reason> 
+ Kicks <nick> from <channel> if you
+ are a known operator on <channel>. <Reason> is optional. 
+
+ Pub 
+ or 
+ Msg 
+ !bk
+ <channel> <nick> <reason> 
+ Bans and kicks <nick> from <channel> if 
+ you are a known operator on <channel>. <Reason> is optional. Ban is temporary. 
+
+ Pub 
+ or 
+ Msg 
+ !s <channel>
+ <nick> <reason> 
+ Shitlists <nick> from <channel> if 
+ you are a known operator on <channel>. <Reason> is optional. Ban is permanent. 
+
+ Pub 
+ or 
+ Msg 
+ !sh
+ <channel> <nick> <reason> 
+ Shitlists <nick>'s entire domain from
+ <channel> if you are a known operator on <channel>. <Reason> is
+ optional. Ban is permanent. 
+
+ DCC 
+ .bans 
+ Displays active bans on your current console channel.
+ Use .bans all to list all bans. VeNoM uses a
+ dynamic ban system and applies them only as needed. 
+
+ DCC 
+ .+ban <channel> 
+ <hostmask> <reason> 
+ Adds <hostmask> to VeNoM's permanent ban
+ list and immediately applies the ban. If <channel> is omitted, the ban applies to
+ all channels. <Reason> is optional. 
+
+ DCC 
+ .-ban <hostmask> 
+ OR <number> 
+ Removes <hostmask> OR <number> from VeNoM's 
+ permanent ban list and immediately removes the ban. 
+
+ Tools and Toys 
+ DCC 
+ .note <handle> 
+ Sends a note to <handle>. If they
+ are on the bot when the note is sent, they receive it like a private message. If not, the
+ note is stored for them to retrieve later. Remember, a person's bot <handle> is not
+ necessarily the same as their IRC <nick>! 
+
+ DCC 
+ .notes read 
+ Read any notes you have stored. VeNoM 
+ will let you know when you join the channel if you have any unread notes or not. 
+
+ DCC 
+ .notes erase 
+ Erase any notes after you've read them.
+ Actually, you don't have to read them prior to erasing. 
+
+ DCC 
+ .info
+ <phrase> OR none 
+ Set your "info line" and VeNoM 
+ will so greet you whenever you join a channel he's on. Set .info
+ none to get rid of your info line. 
+
+ DCC 
+ .email
+ <address> 
+ For informational purposes only. Setting
+ your email will show it in your user record. 
+
+ Pub 
+ or 
+ Msg 
+ !seen <nick> 
+ Reports how long it's been since VeNoM 
+ last saw <nick>, and where <nick> was at the time. <Nick> does not need
+ to be a registered user to be known. 
+
+ DCC 
+ .seen
+ <nick> 
+ Same as above. 
+
+ DCC 
+ !ping
+ me OR <nick> 
+ Returns a standard ping reply for
+ yourself or another <nick>. 
+
+ Pub 
+ !joins 
+ Reports a count how many times #cybercafe 
+ has been joined since a certain date, and if you're an op, how many times you have joined. 
+
+ DCC 
+ .joins 
+ Same as above. 
+
+ Pub 
+ or 
+ Msg 
+ !slots 
+ Plugs a quarter into VeNoM's 
+ built-in slot machine and pulls the handle. Will you hit the jackpot? 
+
+ Pub 
+ VeNoM
+ <question> 
+ OR 
+ 8ball <question> 
+ Who says bots are dumb? Just ask VeNoM 
+ a question, ask anything! 
+
+ Eggdrop is the most advanced bot on IRC today. This list
+ is not intended to be an all-inclusive command reference, but it does contain most of the
+ everyday sorts of things an average user might want to use. Many of the things you see
+ here do not necessarily work on other eggies you have access to, and some of the things
+ other bots have may not be implemented on VeNoM . For example, I do not
+ have an "XDCC" file service set up like the bot-armies you may have seen in
+ warez or porn channels, nor do I employ (or endorse) war tools of any kind. VeNoM's 
+ main purpose is channel protection and chanop services. 
+
+ [ VeNoM Home ] 
+
+ V e N o M I N T E R A C T I V E 
+
+ VeNoM INTERACTIVE is
+ an independent producer of interactive, entertaining and useful Internet products and
+ services. Stay tuned!

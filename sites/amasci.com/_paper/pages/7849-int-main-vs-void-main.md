@@ -1,0 +1,154 @@
+---
+title: "int main() vs. void main()"
+source_domain: amasci.com
+source_path: ~scs/readings/voidmain.960823.html
+order: 7849
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T06:00:23Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# int main() vs. void main()
+
+*Source page: `~scs/readings/voidmain.960823.html`*
+
+\[This article was originally posted on August 23, 1996, and again with annotations on January 14, 1997 and March 20, 1998. I have edited the text further for this web page.\]
+
+\[A few of the points I make in this article are becoming dated. It is becoming less and less kosher to assume that a function declared without an explicit return type will be implicitly declared as returning `int`; or to fail to return a value from a non-`void` function. In fact, the new revision of the ANSI/ISO C Standard ("C99") actively disallows the first of these, and at least partially the second.\]
+
+Newsgroups: comp.lang.c\
+From: scs@eskimo.com (Steve Summit)\
+Subject: Re: `int main()` ???? wrong?\
+Message-ID: \<DwLyC9.5w5@eskimo.com\>\
+References: \<321b9857.75314178@news2.microserve.net\> \<321cc6d4.152763064@news2.microserve.net\>\
+Date: Fri, 23 Aug 1996 20:31:21 GMT
+
+In article \<321b9857.75314178@news2.microserve.net\>, sidlip@lip.microserve.com writes:\
+\> I see alot of reference to `int main ()` being incorrect syntax..\
+\> Ive gotten into the habit of doing it and would like to know what\
+\> errors could pop up in my code from not voiding `main`.
+
+I assume you mean, "what errors could pop up from not declaring `main` correctly." Speaking generally, the same sorts of errors could pop up as occur any time a global variable or function is misdeclared.
+
+Turning for a moment from `main()` and `void` to `int`s and `double`s, let's consider the (incorrect) code
+
+        #include <stdio.h>
+        extern int sqrt();
+        main()
+        {
+        printf("%d\n", sqrt(144.));
+        return 0;
+        }
+
+This code is clearly trying to compute and print the square root of 144, but it almost as clearly will not work. It declares that the library function `sqrt()` returns an `int`, and it tries to print `sqrt`'s return value using `%d` which expects an `int`. Yet, in actuality, `sqrt()` of course returns a `double`. The fact that `sqrt()` returns a `double`, while the caller acts as if it returns an `int`, will almost certainly prevent the program from working.
+
+Why won't it work, exactly? It depends on the details of the particular machine's function call and return mechanisms. We haven't said which machine we're using, and we shouldn't have to know the details of these mechanisms (they're the compiler's worry, and to worry about them for us is one of the reasons we're using a higher-level language like C in the first place), so we can speak only in general terms. Perhaps the machine has one general-purpose register which is designated as the location where functions return values of integer types, and one floating-point register which is designated as the location where functions return values of floating-point types. If so, `sqrt()` will write its return value to the floating-point return register, and the calling code will read a garbage `int` value from the general-purpose return register. Or, perhaps integer and floating-point returns use the same locations. `sqrt()` will write a floating-point value to the location, but the calling code will incorrectly interpret it as an integer value. You'd then get approximately the same result as you'd get from executing
+
+        double d = 12.;
+        int *ip = (int *)&d;
+        printf("%d\n", *ip);
+
+In both cases, the *bit pattern* of the floating-point number is interpreted as if it were an integer. Since the bit-level representations of integer and floating-point data are invariably different, confusing and inaccurate answers result. (Note that in neither case -- the incorrect declaration of `sqrt()`, nor the `int`/`double` pointer game -- does the compiler emit any code to do `double`-to-`int` conversion. Any such conversions have been effectively circumvented by the peculiarities of these two code fragments. In the case of calling `sqrt()`, you'd get a proper `double`-to-`int` conversion only if `sqrt()` were properly declared as returning `double`, and the return value were assigned or cast to an `int`.) Finally, suppose that values are returned on the stack, but that `sizeof(double)` is greater than `sizeof(int)` (as is usually the case). `sqrt()` will push a `double`-sized result on the stack, but the caller will pop an `int`-sized one. Not only will the caller print a garbage answer (interpreting those bits it did pop as if they represented an `int`), but the shards of the `double` remaining on the stack could screw later uses of the stack up enough that the program could crash.
+
+In the preceding example, the calling code was incorrect, because it misdeclared the return value of the `sqrt()` function. We're not allowed to choose what we want the return value of `sqrt()` to be, because neither the defined return type of `sqrt()` (as fixed by the Standard and long practice) nor the actual return type of `sqrt()` (as implemented in the library provided with our compiler) are under our control. Issuing an external declaration for `sqrt()` declaring that it returns an `int` does not *make* it return an `int`. (Nor does the misdeclaration instruct the compiler to convert `sqrt`'s return value from `double` to `int`; if the declaration is wrong, how could the compiler even know that the type to be converted from was `double`?) Abraham Lincoln used to ask, "If we call a tail a leg, how many legs does a dog have?" His answer was "Four -- calling it a leg doesn't make it one."
+
+When we write an implementation of `main()` with a return type of `void`, the situation is similar, but the roles are reversed. Now, it is the caller that is fixed and beyond our control, and that caller is assuming that `main()` returns an `int`. You may imagine that somewhere (it's actually in the compiler vendor's source for the C run-time library) there is some code which looks something like this:
+
+        extern int main(int, char *[]);
+        int argc;
+        char *argv[MAXARGS];
+        int status;
+        ...
+        status = main(argc, argv);
+        exit(status);
+
+If the caller declares `main()` as returning `int`, and you define `main()` as returning `void`, the declarations are mismatched, just as the declarations of `sqrt()` were in the previous example. In theory, the resulting program can fail in just the same sorts of ways. But, to reiterate, here we can't fix the problem by fixing the caller (because the caller is, er, fixed). Instead, we have to fix `main's` declaration, which *is* under our control, to match the caller's expectation.
+
+Even if the program with the misdeclared `main()` "works" (that is, compiles without error, and runs without crashing), it does result in a garbage (random) exit status being returned to the calling environment. You or your command invocation environment may not be noticing that particular glitch right now, but it is a glitch, and it may bite you later.
+
+At one time, I had not gotten into the habit of making sure that `main()` called `exit()` or returned an explicit value. (I wasn't declaring `main()` as `void`, but I was getting the same sorts of random exit status values.) Whenever I wrote a little program (usually a special-purpose preprocessor) to automate some step in the building of a large program, and stuck the program into one of the productions in a Makefile, `make` would randomly abort the build, saying that there had been an error, whenever the random status returned by the little program was nonzero (i.e. not `EXIT_SUCCESS`). Eventually, fixing enough of those drove home to me the importance of always exiting with an appropriate, explicit status, even in seemingly trivial programs.
+
+Another place you'll notice the effect of a random exit status is if you run a program with one in the background using a job-control shell under Unix; when it finishes, you'll get a message like "Done(1)" or "Exit 1" which, if you've gotten used to the presence of the number indicating the presence of an error, will mislead you into thinking that the command failed.
+
+Yet other ways to see the results of particular exit statuses (that is, to depend on their being deterministic) are when using errorlevel in DOS batch files, or when using DCL in VMS.
+
+\> several books use `int main()` as examples and others use `void main(void)`
+
+Indeed.
+
+\> `main` returns an `int` i assume?
+
+Yes. More precisely, `main` is *supposed* to return an `int`; what it actually returns is what you declare it to return (and what your `return` statement(s), if any, say it returns). But if you implement `main` as returning something other than what its caller expects it to return, you run the risk of its not working correctly.
+
+In article \<321cc6d4.152763064@news2.microserve.net\>, sidlip@lip.microserve.com goes on:\
+\> Im curious why do i see `void main(void)` so much?
+
+I honestly don't know.
+
+The first few times I ever saw `void main()`, it was clear that the programmer was trying to avoid warnings. The program
+
+        int main()
+        {
+        printf("Hello, world!\n");
+        exit(0);
+        }
+
+does not return a value from `main()`, but it doesn't matter, because control flow never falls off the end of `main()`, because `exit()` never returns. But the compiler usually doesn't know that `exit()` doesn't return, and may warn that "control reaches end of `int`-valued function without returning a value." In the program
+
+        int main()
+        {
+        printf("Hello, world!\n");
+        }
+
+the compiler is likely to issue the same warning, and here it's perfectly appropriate, but the programmer may not care, if the program isn't ever to be executed in an environment where the exit status matters. In either case, declaring `main()` as `void` effectively shuts off that particular warning message, but at the cost of making the program incorrect. (Indeed, some compilers will issue other warnings when `main()` is misdeclared.)
+
+It's because of this particular argument that the question currently known as 11.12 in the FAQ list is worded the way it is, but this line of reasoning is not sufficient to explain `void main()`'s unaccountable popularity today. It's become some kind of a meme plague: the "popular" textbooks all use it, so hordes of unsuspecting C programmers learn it, and some of them go on to teach classes or write more books which then spread the virus. In fact, my initial supposition (outlined above) of why people might write `void main()` is now not only insufficient, it's almost completely forgotten! Today, when people who use `void main()` are asked why they do, none of them ever mention shutting off warnings about `main()` not returning a value. They all mumble something like "but everyone else uses it" or "but it works on my compiler" or (particularly in the case of misguided teachers and textbook authors) "that way we don't have to introduce the full complexity of return types right at first." (This last justification is particularly specious, as we'll see.)
+
+\> what exactly is it saying? and why does it work ?
+
+It tends to work (even though it doesn't have to and is not guaranteed to) for a combination of three reasons:
+
+- 
+- 1\. Once upon a time, C did not have the `void` type. Functions which did not return values were declared (usually implicitly) as returning `int`, but did not actually return values, and their callers did not use the (nonexistent) return values. That's why, even today, the ANSI Standard does not flatly prohibit falling off the end of a non-`void` function without executing a `return` statement, or issuing an expressionless return statement within such a function. (The behavior is undefined only if the caller tries to use the value, and never requires a diagnostic. Good compilers will emit warnings.) In the old days, it was up to the programmer to remember which functions returned values and which didn't, although this was of course one of the things which `lint` checked (and, for those few who use it, still checks).
+- 2\. Partly because of \#1, the actual low-level calling mechanisms for `void`-valued and `int`-valued functions are usually not different. A `void`-valued function simply omits to place a value in the designated return value location, and the caller doesn't try to fetch a value from that location. In these cases, the worst thing that happens when a function is incorrectly declared as `void` is that the caller gets a garbage return value. Misdeclaring `main` (or any function) as `void` will typically only result in catastrophic failures if values are returned on the stack: if the caller pops a value but the caller didn't push one, the caller may instead have popped something vital from the stack, such as a frame pointer or return address, such that when the caller later returns, chaos results.
+- 3\. Since so much code (including the examples in some compiler manuals!) does misdeclare `main()` as `void`, compiler vendors pretty much have to arrange that it works. (Alas, this strategy is an "enabling" one; it allows the users of `void main()` to perpetuate their rationalizations.) Posters to comp.lang.c can arrogantly state that "Your code is broken. Fix it.", but compiler vendors who believe that "the customer is always right" cannot (particularly if the vendor's offerings to date have permitted `void main()`).
+
+(As an aside, these three reasons conspire to require nonstandard "`pascal`" keywords in compilers for environments where code written in C must call libraries written in Pascal, or vice versa. I gather that many Pascal compilers *do* use different calling conventions for procedures and functions. If C compilers didn't have to coddle broken code by making `void`-valued and `int`-valued functions compatible, they could arrange that `void`-valued functions were completely compatible with Pascal procedures. Instead, a C program that calls a Pascal procedure must typically declare it as
+
+        extern pascal void f();
+
+or some such. Similar arguments apply to "`fortran`" and "`basic`" keywords, and to fixed versus variable-length argument lists.)
+
+\> also if type `int` is implied and `()` is implied as an empty delaration (in ANSI)\
+\> why not `main()` (although ive never seen it)...
+
+"Plain" `main()` is in fact pretty common. When I taught introductory C programming, I used to leave the return type off of `main()` in examples, because was a distraction to have to explain what a function's return type is at all at first, particularly in a function like `main()` where it isn't obvious who the caller is or what would happen to the return value. (Alas, a certain amount of handwaving is still required if the `main()` function includes an explicit `return` statement, as it must to keep all compilers quiet.)
+
+We can see, then, that an instructor or textbook author who doesn't want to "introduce the full complexity of return types right at first" could and should demonstrate `main()` without an explicit return type, and that using `void` instead is doubly counterproductive.
+
+The situation is completely different, by the way, with respect to a function's declared parameters. The declaration
+
+        extern main();
+
+is an old-style declaration saying that `main` is a function taking unspecified (but fixed) arguments. The *definition*
+
+        main()
+        {
+        }
+
+, on the other hand, is an old-style definition saying that `main` takes zero arguments. Since the caller (as we saw earlier) is going to be passing two arguments to `main()`, how can we get away with this misdeclaration?
+
+The answer is that `main's` parameter list is a very definite wart in Standard C. Anywhere else, if a function is called with a number of arguments not matching its definition (and if the function does not accept a variable-length argument list), the behavior is undefined. In this one case, however, `main()` is allowed to be defined as accepting either zero arguments or two, of type `int` and `char **`. The reason for the wart is of course to support old code, but a wart it is, and it may require some compilers to treat a function named `main` specially.
+
+\> is `return;` implied `return 0;` ?
+
+No. A `return` statement without an expression returns no defined value, and is valid only in `void`-valued functions or in functions where the caller doesn't use the return value.
+
+[Steve Summit](http://www.eskimo.com/~scs/)\
+<scs@eskimo.com>
+
+------------------------------------------------------------------------
+
+\[ Addendum: Despite the length of this article, it only barely gets around to explaining how, precisely, declaring `main()` as `void` could fail. Besides the problems of a garbage exit status being received by the calling environment, a more serious failure could occur if the compiler used different calling conventions for `void`- and `int`-valued functions. If so, then for `main()` to push no return value on the stack, and for the caller to pop an `int` value that `main()` hadn't pushed, could conceivably "screw later uses of the stack up enough that the program could crash."\]

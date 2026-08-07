@@ -1,0 +1,240 @@
+---
+title: "SMALLnet post332"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post332.html
+order: 8028
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:32Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post332
+
+*Source page: `~smallnet/Archive/post332.html`*
+
+## SMALLnet Posting post332
+
+------------------------------------------------------------------------
+
+**Date: Sun, 30 Jul 2000 02:17:26 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+<div class="Joe">
+
+...I 'm off on another journey in the morning, so this will be the last Posting for a few days. I'm headed up to Muncie, Indiana to attend the all-Dakota fly-in Monday afternoon, and hopefully get together again with old friends from the Good Old Days. \[JW\]
+
+</div>
+
+Phillip \< 
+
+ \> pleads:
+
+Help!!!! I'm looking for a kit or plans for a .25-size Aeronca Champion. Phillip
+
+Steve Morris \< 
+
+ \> contributed:
+
+Carl Goldberg's Junior Falcon was the first R/C model I success- fully soloed (26 years ago) and I had hoped to build another someday. These kits often show up on E-bay but sell for \$100 or more!
+
+I have several sets of old plans and I decided to build a Junior Falcon from scratch and sidestep the E-bay sharks. It's not an easy model to build from plans, because the original had many interlocking die-cut pieces. I simplified the construction slightly by eliminating all the interlocking tabs, but I preserved the semi-symmetric airfoil shapes and built-up stabilizer.
+
+I carved the canopy from a solid balsa block and probably should have used this as a mold for a clear plastic canopy. I can't stand seeing a 'canopy-less' Falcon; they simply lack character.
+
+Instead of installing a 3-channel micro radio I used an old Mattel pulse rudder-only set, the same one used in my first Junior Falcon. I covered the wings and tail with heavy-grade silkspan, applied 4 coats of Nitrate dope, colored enamel paint, and a clear coat of polyurethane. A 20-year-old Cox Medallion 049 with a 1 ounce tank provides power, and needs to be set very rich for realistic flying.
+
+Flight testing a rudder-only model is always fun because the CG, thrust line, and elevator incidence all have to be correct to fly properly. My model survived the adjustment phase, and is a fine R/O flyer, just like my first Falcon. I wish I had traced all the parts as I made them so that I could make more kits from scratch. You can see 2 photos of my model at:
+
+\< <http://www.sirius.com/~mlbco/JRFalcon1.JPG> \> \< <http://www.sirius.com/~mlbco/JRFalcon2.JPG> \>
+
+Steve Morris
+
+Jon McVay \< 
+
+ \> offers:
+
+Velie Monocoupe.....am currently building the Flyline version.... It will be a while before I finish it though, as I have to sandwich the Electric Nationals and a 45th class re-union into the build schedule.
+
+If no one else answers your inquiry, the plans are yours for the asking. Jon McVay
+
+Larry Marshall \< 
+
+ \> submitted:
+
+In the previous Posting, Curtis Mattikow wrote about, "a problem with these two Dare kits. While they say they are 'Designed by Pat Tritle,' they are both very nearly exact copies of the old classic Flyline kits designed by Herb Clukey and Hurst Bowers. When you lay one plan atop the other, it becomes pretty obvious that they \[the Dare kits\] are not "original designs." The only difference I can find is that the wing of the Robin is not undercambered as it was on the Flyline original."
+
+Pat would be the first to admit this. He made a deal with Hurst to take the plans and redraw them, converting them to 3-channel and drawing up the parts to be laser-cut.
+
+"...the plans, which are now computer-generated, have none of the artistic quality and charm that made the originals such classics. I have framed Flyline plans up on my office wall..."
+
+While I can appreciate "artistic quality", it doesn't mix well with laser-cutting. For laser-cut parts to fit properly you even have to consider the kerf being taken by the laser, and pencils are poor tools at that resolution.
+
+"...these designs were very much a protected copyright owned by the widow of Herb Clukey in Arizona. She was selling the plans for \$7 or so, at least up until last year..."
+
+The Flyline kits I know were designed by Hurst Bowers. While it's "to each his own" on your other points, Pat does have an agreement with the designer of the Flyline kits to do what he's doing.
+
+Sometimes it's best to know the facts before getting upset.
+
+Cheers --- Larry
+
+Mike Cook \< 
+
+ \> wrote:
+
+I have seen mention of Bill Brewer in a couple of SMALLnet communiques. I believe that he and I belonged to the Hamilton (Ohio) Aero Club at the same time back in the 1950s. Where do I get hold of Bill?
+
+Also saw a mention of ROW (Rise Off Water). The best of the very few ROW free-flights I ever built was a Phoenix Skipper. It's a bit bigger than the regular Baby Phoenix and flies better.
+
+Extremely simple to build, but could use a spar in the wing! I used an A-M .06, which was, shall we say, MORE than enough power. Remember what I said about the spar.
+
+I'm building a new one for Nostalgia using either a Shriek or the Fox FAI 049 and will do both landing gear and floats. I still have the original main float, but I think 45 years old is a bit much.
+
+Mike Cook
+
+Ken Elder \< 
+
+ \> responds to Chris Feole:
+
+Jim Kiehl is a local fellow and flies a bit at our field. I have seen his ducted-fan small jets fly, and they perform well. Haven't seen the latest twin electric ME-328 but have heard it does great.
+
+I bought the plans from him for the ME-163 Komet and powered it with a Norvel .061. Great flier, with the fastest roll rate I ever have seen, and pretty fast in level flight too -- but slows down to land rather well.
+
+Hope this helps!
+
+Ken Elder, Largo, Florida
+
+Randy Randolph \< 
+
+ \> contributed:
+
+In reply to Dave Robertson about dihedral and his Herr P-51: Dave, build it just like the plans and you will be happy. A low-wing airplane loses about 2 degrees of effective dihedral simply by having its wing on the bottom of the fuselage; so 4.5 actual degrees is only 2.5 degrees of effective dihedral.
+
+Believe me, the Herr P-51 is a dandy just as Tom Herr designed it!
+
+I just got a look at Bill Hannan's new book "Models and Methods". Bill calls it "Motivation for Modelers", and it is just that! Lots of pictures of models, and plans for several Peanuts -- as well as some lovely old-time airplanes to model. Send him a buck for a catalog and get the buck back if you order something.
+
+Hannan's Runway, Box 210, Magalia, California 95954
+
+Randy
+
+Jim Rundle \< 
+
+ \> wrote:
+
+I'm intrigued with the discussion about Joe's Sopwith Triplane and diesel power. I started using diesels because someday I want to build a WWI model and fly it with a scale prop. The full size rotary- engined airplanes generally had 8 1/2 foot props. I've watched them at Rhinebeck, and those great wooden paddles fanning away at low speed are a big part of what is so distinctive about planes of that era.
+
+By the way, for those who think four-strokes sound "realistic" for such planes, I can tell you that the sound of a nine-cylinder rotary whizzing and buzzing and blasting out clouds of castor oil has absolutely nothing in common with the laid-back putt-putt of a model four-stroke.
+
+Of course, our diesels don't capture the effect much either, but they hint at it, and they certainly spew castor oil around in an evocative fashion! Electrics just seem all wrong for those grimy, noisy old birds.
+
+Back to the Dare Triplane, scale prop size comes out to about 11 1/2 inches. A bit much for an .06, of course, but is it possible the .09 would turn one well enough to fly the Triplane?
+
+I think that flight realism might be good that way too. Isn't it funny that Jumbo rubber scale models are always described as "majestic" fliers, yet they are quite small by R/C standards? Besides lightness, big, slow-turning props might be the secret. (Of course, having a few Peanut-size scalers around for comparison probably helps too).
+
+I've been thinking an .06 would be about right for a 1/12 scale model with an 8 1/2-inch prop. I've noticed the PAW's power drops off quite a lot going from a 7-inch prop to an 8-incher. Has anyone tried something like this? Jim
+
+<div class="Joe">
+
+...Jim, you're quite right about the 8 1/2-foot diameter propellers used on many rotary-powered WW1 airplanes. However, the standard prop used on Sopwith Triplanes (according to J.M. Bruce's monu- mental book "British Aircraft 1914-1918") was a 9-footer.
+
+The Dare kit for the Sopwith Triplane is advertised as being 1/9 size. That would make the scale propeller a 12-incher! However, it's obvious that this kit isn't really a true-scale model, and a one-foot-diameter propeller on it would leave only 3/4" ground clearance in the tail-up rolling position... \[JW\]
+
+</div>
+
+Sam Brauer \< 
+
+ \> has more to say on this topic:
+
+I've been reading about your trials and tribulations with your Sopwith Triplane. I sympathize with you, since I've got one nearing completion. The airplane is on it's second motor/gearbox and second battery pack -- all this without leaving the bench. Oh yeah, and I've got a half dozen props for it, none of which I'm really happy with. I haven't tallied the cost yet, it's too painful.
+
+I've only corresponded with Pat, I've never met him. During our correspondence, he convinced me that electric power for this airplane would be much better than the glow option, and I do think he's correct. (I don't do diesel -- never got hooked on it.) However, from looking at the plans and getting components in hand, I became unhappy with the power system he's chosen.
+
+Therefore I decided to try a different tack. If it doesn't work, I won't blame Pat; but in this hobby there is frequently more than one possible successful approach.
+
+While the wing loading specified on the plans is pretty low, I thought the overall weight of the airplane is a little higher than I'd prefer, given the very light construction. This airplane is built about as strongly as a rubber ship, except I don't think the fuselage could take a decent size rubber motor. Therefore I decided to try and use lighter components because the reduced mass will make dorks less traumatic.
+
+I didn't like Pat's choice of motor/gearbox, because it's too heavy. (He may have chosen it because it's readily available and inexpensive.) On the plans, he shows the battery pack on the center of gravity of the airplane. While this allows you to change battery pack size with no worries, the Triplane has a short nose moment. Given the short nose moment, I wanted the batteries to be forward of the center of gravity since they are heavy, which means that a lighter motor is in order.
+
+The first motor I tried was also "economical" -- a Speed 300 with a Horst gearbox. What I've realized in electrics is that the motor cost is frequently the least significant part of the total package -- speed controls and batteries are not cheap. Electrics are lots more expensive than glow.
+
+Anyhow, that system didn't work. The gearbox melted, and it would only spin an 8" prop -- probably a little small for the Triplane. Then I went to an S-300 made by Mike's Tiny Models in Germany. (They have an ad in Flying Models.)
+
+This unit uses a Speed 380 motor (which looks to be much better- made than the typical Speed 400's) coupled to an 8:1 gearbox. The gearbox on this motor is very well done. It's smooth, quiet, and robust. The prop attachment to the shaft is a little complex, but works well too. The downside of this motor is the price -- it's basically twice as expensive as the geared Speed 400, plus the shipping from Germany adds \$20. (Maybe the U.S. postal system isn't so bad!)
+
+It's probably around \$90-100 to get the motor; and you do need the adapter system. (I think in this case you get what you pay for.) Watch out -- the props Mike's selling come from this country, and cost double to triple (bought from him) what they do here.
+
+The S-300 does swing an 11 x 7 inch prop without breaking a sweat. Neither the motor, the speed control, or the batteries get very warm. Consequently I dropped to a six cell, 350 mAH pack to reduce the weight further. I've mounted the batteries on Velcro near the nose of the airplane. In order to get access, I chopped about a third off the firewall, so I can change or move the batteries if I need to.
+
+I haven't flown the airplane yet, but I expect that'll happen in the next few weeks. It's clear that the motor has plenty of thrust for this airplane with this prop -- it won't quite go vertical, but it's not far off. I'm tempted to go down to a 10" prop to reduce torque effects though.
+
+Hopefully this gives some more food for thought for anybody contemplating building this airplane.
+
+In terms of electric supplies, I'll put in a plug for Kirk Massey at New Creations R/C, who is very helpful and knowledgeable. I think he carries at least as much stuff as Hobby Lobby.
+
+P.S. In terms of chargers -- I bought an Astro 110D. At first I thought it was overkill, but now I don't.
+
+Sam Brauer, Norwalk, Connecticut
+
+<div class="Joe">
+
+...Sam, Pat's certainly right about electric power being superior to glow for his Triplane -- especially since the glow engine suggested on the kit plan is an OK Cub .049A. That engine's ability to spin a big prop reliably isn't good. Of course, the Cub was never a throttleable engine, either...
+
+As for Pat's choice of motor, gearbox, battery pack, etc., it may not be optimum. However, IT WORKS ! I saw several flights of the airplane in question at Maumelle in June, and they impressed me enough to make me break my solemn vow of a good 5 years ago, to never construct another model airplane from a kit.
+
+...With all e-power's vaunted "advantages", model diesels STILL deliver the most power, for the longest duration, per ounce of TOTAL POWER SYSTEM WEIGHT of any form of model airplane propulsion.
+
+To be specific: the recommended battery pack for the Sopwith Triplane project is a 7-cell 600AE. It weighs 4.5 ounces. That's almost exactly the same weight as a PAW .06 R/C plus its mount, plus a 2-ounce tank full of diesel fuel. With a 9" propeller I'd expect 2 ounces of fuel to run that PAW in flight for over half an hour...
+
+(The PAW .19 in my Screech Owl biplane has a 4-ounce fuel tank, and flight duration with a full tank is over 40 minutes.)
+
+The Graupner Speed 400 plus flux ring and Mini-Olympus gearbox (which drives the prop directly -- no expensive "adapter" needed) weigh just a little over 4 ounces total. Therefore it looks to me as if I can get about the same thrust in flight from a PAW .06, at half the installed weight -- and double the running duration.
+
+However, I'm persisting with the electric version. (After I get back from Muncie, that is -- maybe the "lacking components" will be here by then.) I owe it to my "educational development" to put some further effort into e-power, despite its high cost and difficulty of acquiring all the requisite power system parts and information.
+
+By the way -- I learned a LOT from reading EVERYTHING available on Fred Marks' (FMA Direct) web site. There's considerable infor- mation on problems such as electrically-generated radio interference, and how to prevent that. (The Speed 400 motor doesn't even come with any recommendation for capacitor installation on the brushes to eliminate R-F radiation problems from that source.)
+
+Fred now sells "his own" version of the Speed 400; wish I'd looked that item up on his web site earlier! Anyway, I'm buying my Sopwith's speed control from FMA -- the SC-20. I also have one of Fred's FC600 "Versapulse" chargers on order.
+
+Adding it all up, powering this electric Triplane cost me over \$200 -- to provide about the same performance I expect to get from a PAW .06. (That retails for around \$65.) Yes, I know: quiet power, flick-a-switch starting, odorless operation, etc. But I've been flying engine-powered models in and near residential areas for decades, and haven't had a single noise complaint in 40 years.
+
+Yes, diesels do require "special technique" to start and adjust. But I know how to do that already. (They don't generate any RF interference, either!) As for the small of diesel fuel -- I LIKE IT !
+
+<span id="352"></span>
+
+<div class="green">
+
+Source: Kits, Airtronics\
+
+</div>
+
+<span id="353"></span>
+
+<div class="green">
+
+Vendor: Dream Catcher Hobby\
+
+</div>
+
+...One further news item before signing off. Ken Myers' "Ampeer" newsletter arrived yesterday, and includes the news that some of the old Airtronics model kits are being re-manufactured.
+
+The maker is a new company, Dream Catcher Hobby, Inc., P.O. Box 77, Bristol, Indiana 46507 --- (219) 523-1938 --- web site: \< <http://www.dchobbies.com> \>.
+
+Here's what they said about their new operation: "The kits that we re-introduce from the previously produced by Airtronics kit line will be called the Millennium Series (r). The decision has been made, we will laser-cut some parts for these kits. Laser cutting is not the best method for all parts, so we will produce these kits using a combination of laser-cutting, CNC routing, and machine sanding. This approach will allow us to continue to produce the highest quality kits possible."
+
+The models these folks plan to re-introduce include the Q-Tee (in both 1/2A-power and electric versions), plus "short kits" of the Eclipse and Olympic 650. \[JW\]
+
+</div>
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

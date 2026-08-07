@@ -1,0 +1,431 @@
+Standard Cryptographic Algorithm Naming 
+
+ Introduction |
+ Conventions 
+
+ MessageDigest |
+ MAC |
+ UniversalHash |
+ PRF / KDF |
+ PassphraseHash |
+ DEM | 
+ SecureRandom |
+ Symmetric Cipher |
+ Block Mode |
+ Block Padding |
+ KeyGenerator |
+ Public key algorithms 
+
+ Colour/symbol coding: 
+ &#8226; Blue - stable 
+ ? Green - provisional 
+&#215; Red - experimental 
++ Purple - alleged 
+
+ ^ MessageDigest 
+
+ ? BRS-H1 ( cipher ) 
+ ... BRS-H20 ( cipher ) 
+ &#8226; GOST-Hash 
+ ? HAS-V 
+ &#8226; HAVAL [( digestLength [ , passes ])] 
+ &#8226; MD2 
+ &#8226; MD4 
+ &#8226; MD5 
+ &#8226; Panama 
+ &#8226; RIPEMD-128 
+ &#8226; RIPEMD-160 
+ &#8226; RIPEMD-256 
+ &#8226; RIPEMD-320 
+ &#8226; SHA-0 
+ &#8226; SHA-1 
+ &#8226; SHA-256 
+ &#8226; SHA-384 
+ &#8226; SHA-512 
+ &#8226; Snefru-2 [( digestLength [ , passes ])] 
+ &#8226; Tiger [( digestLength [ , passes ])] 
+ &#8226; Whirlpool-0 
+ ? Whirlpool 
+
+&#215; MGF1 ( digest ) 
+ &#8226; Parallel ( digests +) 
++ Alleged MessageDigests 
+
+ ^ MAC 
+
+ &#8226; CBC-MAC-DES-FIPS113 
+ &#8226; CBC-MAC ( cipher ) 
+ &#8226; XCBC-MAC ( cipher ) 
+ &#8226; HMAC ( digest ) 
+ &#8226; MD5-MAC 
+ &#8226; RIPEMD-128-MAC 
+ &#8226; RIPEMD-160-MAC 
+ ? SSL3-MAC ( digest ) 
+ ? Two-Track-MAC 
+ ? UMAC16 [(...)] 
+ ? UMAC32 [(...)] 
+&#215; XMACWithDigest ( digest [ , seedLength ]) 
+ XMACWithCipher ( cipher [ , seedLength ]) 
+-->
+&#215; PCSWithDigest ( digest ) 
+ PCSWithCipher ( cipher ) 
+-->
++ Alleged MACs 
+
+ ^ UniversalHash 
+
+ hash127 
+&#215; TMMH16 
+&#215; TMMH32 
+-->
+&#215; UHASH16 
+&#215; UHASH32 
++ Alleged UniversalHashes 
+
+ ^ PRF / KDF 
+
+ ? HMAC-PRF ( digest ) 
+ ? KDF2 ( digest ) 
+ ? SSL3-PRF 
+ &#8226; TLS-PRF 
++ Alleged PRFs and KDFs 
+
+ ^ PassphraseHash 
+
+ ? bcrypt 
+ ? BSD 
+ HMAC-PBKDF ( digest ) 
+-->
+ &#8226; IteratedAndSalted ( digest ) 
+ ? MD5-crypt 
+ &#8226; Simple ( digest ) 
+ &#8226; Salted ( digest ) 
+ ? Traditional-crypt3 
+ &#8226; WindowsNT 
++ Alleged PassphraseHashes 
+
+ ^ DEM 
+
+ ? DEM1 ( cipher , 
+ mac [, cipherKeyLength ]) 
+&#215; DEM1withPRF 
+ ( prf,cipher,mac 
+ [, cipherKeyLength ]) 
+&#215; UST (...) 
+
+ ^ SecureRandom 
+
+ &#8226; Default 
+&#215; LongTermKeyGen-Interactive 
+&#215; LongTermKeyGen-NonInteractive 
+&#215; SessionKeyGen 
+&#215; FastUniform 
+&#215; Statistical 
+
+&#215; BBS 
+&#215; DevRandom 
+ &#8226; URandom 
+&#215; SHA1PRNG 
+ &#8226; WiderWake4+1 
+
+ ^ Symmetric Cipher 
+
+ &#8226; 3-Way 
+ &#8226; AES128 
+ &#8226; AES192 
+ &#8226; AES256 
+ ? Anubis 
+ BBS -->
+ &#8226; Blowfish 
+ ? BMGL 
+&#215; Camellia 
+ &#8226; CAST-128 
+ &#8226; CAST-256 
+ &#8226; CRYPTON-0.5 
+ &#8226; CRYPTON-1.0 
+ &#8226; CS-Cipher 
+ &#8226; DEAL 
+ &#8226; DES 
+ &#8226; DESede 
+ &#8226; DESX 
+ &#8226; DFC 
+ ? DFCv2-128 [( rounds [ ,s ])] 
+ &#8226; Diamond2 ( rounds ) 
+ &#8226; E2 
+ ? FROG [( blockSize [ ,rounds ])] 
+&#215; GrandCru 
+ ? GOST 
+&#215; Hierocrypt-L1 
+&#215; Hierocrypt-3 
+ &#8226; HPC-1 [( blockSize [ ,backup ])] 
+ ? HPC-2 [( blockSize [ ,backup ])] 
+ &#8226; ICE 
+ &#8226; IDEA 
+&#215; ISAAC-BE 
+&#215; ISAAC-LE 
+&#215; ISAAC-64-BE 
+&#215; ISAAC-64-LE 
+&#215; JEROBOAM 
+ &#8226; Khazad 
+&#215; LEVIATHAN-BE 
+&#215; LEVIATHAN-LE 
+&#215; LILI-128 
+ &#8226; LOKI91 
+ &#8226; LOKI97 
+ &#8226; MAGENTA 
+ &#8226; MARS 
+ ? MDC 
+ &#8226; MISTY1 [( rounds )] 
+ ? MISTY2 [( rounds )] 
+&#215; Nimbus 
+ ? Noekeon [( rounds )] 
+ ? Noekeon-Direct [( rounds )] 
+ ? Panama 
+&#215; Q 
+ ? Rainbow 
+ &#8226; RC2 
+ &#8226; RC4 
+ &#8226; RC4-drop [( nbytes )] 
+ &#8226; RC5 [( rounds )] 
+ ? RC5-64 [( rounds )] 
+ &#8226; RC6 [( rounds )] 
+ ? RC6-64 [( rounds )] 
+ &#8226; Rijndael 
+ &#8226; Rijndael-160 
+ &#8226; Rijndael-192 
+ &#8226; Rijndael-224 
+ &#8226; Rijndael-256 
+ &#8226; SAFER-K [( rounds )] 
+ &#8226; SAFER-SK [( rounds )] 
+ &#8226; SAFER+ 
+ &#8226; SAFER++ 
+ &#8226; SAFER++-64 
+ ? Sapphire-II 
+&#215; SC2000 
+ &#8226; Scream 
+ &#8226; Scream-F 
+ &#8226; SEAL-3.0-BE [( Lbytes )] 
+ &#8226; SEAL-3.0-LE [( Lbytes )] 
+ &#8226; Serpent 
+&#215; SHACAL 
+ ? SHARK-A 
+ &#8226; SHARK-E 
+ &#8226; SKIPJACK 
+&#215; SNOW 
+&#215; SOBER-t16 
+&#215; SOBER-t32 
+ &#8226; SPEED-64 [( rounds )] 
+ &#8226; SPEED-128 [( rounds )] 
+ &#8226; SPEED-256 [( rounds )] 
+ &#8226; Square [( rounds )] 
+ ? TEA 
+ &#8226; Twofish 
+ ? WAKE-CFB-BE 
+ ? WAKE-CFB-LE 
+ &#8226; WiderWake4+1-BE 
+ &#8226; WiderWake4+1-LE 
+ ? WiderWake4+3-BE 
+ ? WiderWake4+3-LE 
+ WWNFSR-5-8-v2-BE 
+&#215; WWNFSR-5-8-v2-LE 
+-->
+
+&#215; Cascade ( ciphers +) 
+&#215; CascadeWithPRF ( prf, ciphers +) 
+ PBE-PKCS5 ( digest , DES/CBC) 
+&#215; PBE-PKCS12 ( digest, cipher [, keyLength ]) 
+-->
+ &#8226; NullCipher 
+
+ ^ Block cipher Mode 
+
+ &#8226; ECB 
+ &#8226; CBC 
+ &#8226; PCBC 
+ &#8226; CFB [( feedbackBits )] 
+ &#8226; OFB 
+ &#8226; InterleavedCBC ( nStreams ) 
+ &#8226; InterleavedPCBC ( nStreams ) 
+ &#8226; InterleavedCFB ( nStreams ) 
+ &#8226; Counter-BE 
+ &#8226; Counter-LE 
+&#215; KFB ( m ) 
+
+ ^ Block cipher Padding 
+
+ &#8226; CTS 
+ &#8226; OneAndZeroes 
+ &#8226; PKCSPadding 
+&#215; TBC 
+ &#8226; NoPadding 
+
+ ^ KeyGenerator 
+
+ &#8226; one per symmetric cipher or MAC 
+ &#8226; AES128 
+ &#8226; AES192 
+ &#8226; AES256 
+ &#8226; DES-EDE2 
+ &#8226; DES-EDE3 
+
+ Public Key Types 
+
+ RSA 
+
+ RSAEnc 
+ RSASig 
+
+ RW 
+ ! OU 
+
+ ! EPOC 
+
+ ! ESIGN 
+ ! ACEEnc 
+ ! ACESig 
+ DL 
+
+ ! DLIES 
+ DH 
+
+ DH-SMIME 
+
+ Elgamal 
+
+ ElgamalEnc 
+ ElgamalSig 
+
+ DSA 
+ NR 
+ PV 
+
+ EC 
+
+ ! ECIES 
+ ! ECDH 
+ ! ECDSA 
+ ! ECNR 
+ ! ECPV 
+
+ ! NTRU 
+ ! NSS 
+
+-->
+
+ ^ Asymmetric Cipher 
+
+&#215; DLIES-ISO ( prf,dem ) 
+&#215; ECIES-ISO ( prf,dem ) 
+ &#8226; ElgamalEnc ( outputFormat ) 
+ / Raw 
+ &#8226; ElgamalEnc ( outputFormat ) 
+ / PKCS1-1.5 
+ &#8226; RSA / Raw 
+ &#8226; RSA / PKCS1-1.5 
+ &#8226; RSA / OAEP-MGF1 ( digest ) 
+ &#8226; RSA / KEM ( prf,dem ) 
+&#215; RSA / OAEP++ ( digest,dem ) 
+
+ ^ Signature 
+
+ &#8226; DSA [( outputFormat )] 
+ &#8226; DSA-1363 [( outputFormat )] 
+ / EMSA1 ( digest ) 
+ &#8226; ECDSA [( outputFormat )] 
+ [/ EMSA1 ( digest )] 
+ ? ECNR ( outputFormat ) 
+ / EMSA1 ( digest ) 
+&#215; ECNR ( outputFormat ) 
+ / PSS-MGF1 ( digest ) 
+ ECNR2 ( outputFormat ) 
+ / PSSR-MGF1 ( digest ) 
+-->
+ &#8226; ElgamalSig ( outputFormat ) 
+ / EMSA1 ( digest ) 
+ &#8226; ElgamalSig ( outputFormat ) 
+ / PKCS1-1.5 ( digest ) 
+&#215; ElgamalSig ( outputFormat ) 
+ / PSS-MGF1 ( digest ) 
+&#215; ESIGN 
+ / EMSA5-MGF1 ( digest ) 
+ ? NR ( outputFormat ) 
+ / EMSA1 ( digest ) 
+&#215; NR ( outputFormat ) 
+ / PSS-MGF1 ( digest ) 
+ NR2 ( outputFormat ) 
+ / PSSR-MGF1 ( digest ) 
+-->
+ &#8226; RSA / Raw 
+ &#8226; RSA / EMSA2 ( digest ) 
+ &#8226; RSA / PKCS1-1.5 ( digest ) 
+ ? RSA / SSL3 
+ ? RSA / TLS 
+&#215; RSA / PSS-MGF1 ( digest ) 
+&#215; RSA / PSSR-MGF1 ( digest ) 
+ &#8226; RSA2 / EMSA2 ( digest ) 
+ &#8226; RW / EMSA2 ( digest ) 
+&#215; RW / PSS-MGF1 ( digest ) 
+&#215; RW / PSSR-MGF1 ( digest ) 
+
+ ^ KeyAgreement 
+
+&#215; DH 
+&#215; DH2 
+&#215; ECDHC 
+&#215; ECMQVC 
+&#215; ECSTS 
+&#215; MQV 
+&#215; STS 
+
+ ^ KeyFactory 
+
+ ? Generic/ASN.1 
+ ? Generic/Base64-ASN.1 
+&#215; Generic/OpenPGP 
+&#215; DH/ASN.1 
+ &#8226; DH/OpenPGP 
+&#215; DSA/ASN.1 
+ &#8226; DSA/OpenPGP 
+&#215; ECDH/ASN.1 
+&#215; ECDSA/ASN.1 
+&#215; ECNR/ASN.1 
+&#215; ElgamalSig/ASN.1 
+ &#8226; ElgamalSig/OpenPGP 
+&#215; ESIGN/ASN.1 
+&#215; NR/ASN.1 
+ &#8226; RSA/ASN.1 
+ &#8226; RSA/OpenPGP 
+&#215; RW/ASN.1 
+
+ ^ AlgorithmParameterGenerator 
+
+ BBS 
+-->
+ &#8226; DH 
+ &#8226; DSA 
+ ECDH 
+&#215; ECDSA 
+&#215; ECNR 
+-->
+ &#8226; ElgamalSig 
+ ESIGN 
+&#215; NR 
+&#215; RSA 
+&#215; RW 
+-->
+
+ ^ AlgorithmParameters 
+
+ ? Generic/ASN.1 
+&#215; DH/ASN.1 
+&#215; DSA/ASN.1 
+ ? ECDH/ASN.1 
+ ? ECDSA/ASN.1 
+&#215; ECNR/ASN.1 
+&#215; ElgamalSig/ASN.1 
+&#215; ESIGN/ASN.1 
+&#215; NR/ASN.1 
+&#215; RSA/ASN.1 
+&#215; RW/ASN.1 
+
+ Copyright and trademark information

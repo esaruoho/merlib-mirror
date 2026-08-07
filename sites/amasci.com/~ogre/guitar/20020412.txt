@@ -1,0 +1,270 @@
+Guitar Lessons - Improvisation For The Fingerstyle Guitarist 
+
+ WHAT&#146;S NEW 
+
+ ABOUT US 
+
+ FORUMS 
+
+ GUITAR TAB 
+
+ REVIEWS 
+
+ INTERVIEWS 
+
+ HELP 
+
+ Site Tour 
+
+ Beginners Songs 
+
+ Intermediate Songs 
+
+ Guitar Columns 
+
+ Guitar Lessons 
+ Acoustic 
+ Blues 
+ Chords 
+ Classical 
+ Guitar 
+ Principles 
+ Heavy 
+ Metal 
+ Jamming 
+ Jazz 
+ Scales 
+ Teaching 
+ more... 
+
+ Bass Lessons 
+
+ Songwriting 
+
+ Sound Engineering 
+
+ The Other Side 
+
+ Ask The Expert 
+
+ Interviews 
+
+ Reviews 
+
+ Books 
+
+ Links 
+
+ Search 
+
+ Advanced Search 
+
+ You are here: Home , 
+ Guitar Lessons , Improvisation 
+ For The Fingerstyle Guitarist 
+
+ Improvisation For The Fingerstyle 
+ Guitarist 
+
+ Published April 12, 2002 
+ By Gilbert 
+ Isbin 
+
+ Print this 
+ page 
+ Email to a Friend 
+
+ Bookmark 
+ this page 
+
+ To compose something decent, you not only need the goodwill 
+ of the muse but also at least some insight into harmony and 
+ compositional techniques. As improvising is 'instant composing' 
+ you will definitely need all these tools. 
+ During this series of columns on improvisation I will always 
+ start with a short practical example, analyse it and then 
+ give some examples of what we can do with this idea. 
+ So let's start with this one: 
+ Concept : Arpeggiation with rhythmic diversity 
+
+ Here the Right Hand fingers hold the chord form (the Em7) 
+ while the Left Hand fingers play a picking pattern. For now, 
+ since this is meant to be a simple exercise, the bass note 
+ (the open low E) is played on the first beat of each measure 
+ to have a marking point. As we get more skill and confidence 
+ we will add more bass movement. 
+
+ The fingers of the Left Hand are, in essence, fooling around 
+ in the chord form, which leads to more independence and certainty 
+ (well, after some experimenting&#133;) The finger indications 
+ (p (thumb),i (index), m (middle) and a (ring)) are only suggestions. 
+ You should feel free to execute them differently. 
+ Advantage : 
+ You are always sure the notes will fit into the harmony of 
+ the piece as the improvised melody is derived totally from 
+ the chord notes. 
+ Some Chord Theory : 
+ But after a while, only playing over Em7 chords would become 
+ quite boring. That's why we will use Chord Extensions, notes 
+ past the 7th degree, namely the 9th, 11th or 13th, which could 
+ also be thought as 2nd, 4th and 6th. Adding these extensions, 
+ which are built by stacking triads on top of the original 
+ Em triad (see David Hodge's column, " The 
+ Power Of Three "), is a standard practice of jazz 
+ musicians and is quite essential to developing the skills 
+ to improvise. 
+
+ Diatonic scale of 
+ Em 
+
+ E 
+ F# 
+ G 
+ A 
+ B 
+ C# 
+ D 
+ E 
+ F# 
+ G 
+ A 
+ B 
+ C# 
+
+ Degrees 
+ 1 
+ 2 
+ b3 
+ 4 
+ 5 
+ 6 
+ b7 
+ 8 
+ 9 
+ b10 
+ 11 
+ 12 
+ 13 
+
+ Em7 consists of 1,b3,5,b7 --) E, G, B , D 
+ Chord extensions of Em7 might be : 
+ Em9 : 1, b3,5,b7,9 or E,G,B,D,F# 
+ Em11: 1,b3,5,b7,9,11 or E,G,B,D,F#, A 
+ Em13 1,b3,5,b7,9,11,13 or E,G,B,D,F#,A C# 
+ Em7/11 1,b3,5,b7,11 or E,G,B,D,A 
+ Em (9/11) 1,b3,5,9,11 or E,G,B,F#,A 
+ It would be impossible to execute all the notes from an Em13 
+ chord on the guitar, since it only has six strings and the 
+ chord has seven notes. As the 1, 3 and 7 are essential notes 
+ to determine the chord family, you might omit the 5, 6 or 
+ 9 position. 
+ Now, let's experiment on a two -chord progression, the chords 
+ being Em7 and Cmaj7. 
+ Chord extensions of Cmaj7 might be 
+ Cmaj9 C E G B D 
+ C add 9 C E G D 
+ C 6/9 C E G A D 
+ Cmaj7/6 C E G A B 
+ Cmaj13 C E G B D A 
+ Both chords and some of their extended forms are played all 
+ over the neck, but are still played off of the chord shapes. 
+ I specifically picked these chord shapes for this exercise 
+ because of their simplicity as well as their fresh, lush sound. 
+ Open and fretted notes are mixed which can lead to some beautiful 
+ colourful results. 
+ So, let's try this, shall we? 
+
+ Pay close attention to the rhythms. Use a metronome or tap 
+ your foot on each beat of the measure (on the quarter notes). 
+ This exercise should be executed at a medium tempo, but you 
+ should always start out slowly in order to get the timing 
+ correct. Once you feel you have this, then gradually increase 
+ your speed. 
+ Measures 1 & 2 start with the basic (first position) 
+ forms of Em7 and Cmaj7. In measures 3 & 4, we use our 
+ first chord extensions, Em9 and Cmaj9. You should notice that 
+ this voicing of the Em9 omits the B note (the fifth). The 
+ Cmaj9, in this voicing, is a great example of why 9's are 
+ often thought of as 2's, because the open D string is scrunched 
+ right in with the C and E to either side of it. That why it's 
+ a good idea on this phrase to give a little breathing room 
+ between the initial appearance of the C and E, which start 
+ measure 4, and the D, which appears three notes later. 
+ The Em7sus in measure 5 is a very interesting chord in that 
+ it is built on intervals of fourths: E, A, D and G. That's 
+ just like your standard-tuned guitar! Harmony in fourths (or 
+ quartal harmony ) has been very important in the development 
+ of modern jazz in the 1960's - listen to McCoy Tyner, Miles 
+ Davis and Chick Corea. It also played a very important role 
+ in the music of such eclectic songwriters as Nick Drake and 
+ Joni Mitchell. Quartal harmony is a refreshing alternative 
+ to "tertial" chords (chords based on thirds) - an 
+ escape from both major and minor harmonies and the implied 
+ progressions that inevitable accompany them. 
+ In measures 7 & 8 be certain to pay attention to the 
+ big intervals created by mixing open and fretted strings. 
+ Listen to difference in tone color in comparison to the chord 
+ voicings you used in the first two measures. 
+ The Cmaj9 chord in the last measure requires a bit of a stretch! 
+ By playing the E note (12th fret on the first string) with 
+ your pinky when you play the Em9 in the proceeding measure, 
+ all you have to do is slide it down to frets for the D note 
+ in the Cmaj9. That should make it simpler for you to execute 
+ this rather tricky chord. 
+ I hope you have lots of fun with these exercises in fingerstyle. 
+ Next time we will take this idea a step further and improvise 
+ over a part of Jimi Hendrix's Little Wing. 
+ Cheers 
+ Gilbert Isbin 2002-04-12 
+ Previous 
+ article in this series "How to Improvise" 
+ Next article in this series 
+ "Thematic Improvisation Part 1" 
+
+ Beligan acoustic guitarist GILBERT ISBIN's early influences, 
+ ranging from classical to jazz, blues, ethnic and freeform 
+ music, has ultimately contributed to his now distinctive 
+ and refined style. His music transcends the dualities 
+ of classical/jazz and composed/improvised music and 
+ is filled with strong melodies, rich colourful harmonies, 
+ sound effects and polyrythms, highlighted by delicate 
+ acoustic guitar picking. 
+ Gilbert has recorded, to date, ten albums, which have 
+ been highly acclaimed by the international music press 
+ and which are distributed worldwide. He has collaborated 
+ in concert and/or recorded with American and European 
+ players, such as Cameron Brown, Joe Fonda, Ernst Reijseger, 
+ Michel Godard, Jaap Blonk and Sandor Szabo. He performs 
+ solo, with the Gilbert Isbin Group and in various small 
+ ensembles like the Isbin/Colpaert/Loisel trio, a Belgian/French 
+ line-up. 
+
+ Be sure to visit his website .... http://users.pandora.be/gilbert.isbin/contents.html 
+ and check out our CD review of Twins . 
+ Concert Dates : 
+
+ 13 Apr. 2002: Gilbert Isbin Solo : International 
+ Acoustic Strings Festival, Raalte, The Netherlands 
+ (with a.o. Tommy Emmanuel) 
+ 21 Apr. 2002: Gilbert Isbin Solo : Gallery Athanor, 
+ Gijverinkhove, Belgium 
+ 24 Apr.2002 : Jazz Halo Music Days : Gilbert Isbin 
+ Solo/Pedro Solar, Benat Achiary (Spain) De Werf, Brugge, 
+ Belgium 
+ 25 Apr.2002 :Jazz Halo Music Days : Gilbert Isbin 
+ Solo/Pedro Solar, Benat Achiary (Spain) Bimhuis, Amsterdam, 
+ The Netherlands 
+ 26 Apr.2002 : Jazz Halo Music Days : Gilbert Isbin 
+ Solo/Pedro Solar, Benat Achiary (Spain) Th&eacute;atre 
+ Municipal, Tourcoing, France 
+ 22 July 2002 : Gilbert Isbin Solo at the Electroshock 
+ Festival in St. Petersburg, Russia 
+ 11 Aug.2002 : Gilbert Isbin Group at the Paulus 
+ Festival, Festival, Oostende, Belgium 
+
+ Back to top 
+
+ Copyright &copy; 2002 Guitar Noise. All 
+ rights reserved. Site Map. Masterlist. 
+ Privacy Statement. 
+ Contact Us.

@@ -1,18 +1,18 @@
 ---
 title: "PHYSVIDS: Science videos physics shorts: odd & weird"
 source_domain: amasci.com
-source_path: physvids/10.html
+source_path: physvids/11.html
 order: 480
 reachable_from_entry: true
 images: 3
 internal_links: 0
-extracted: 2026-08-03T18:12:16Z
+extracted: 2026-08-07T05:53:41Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # PHYSVIDS: Science videos physics shorts: odd & weird
 
-*Source page: `physvids/10.html`*
+*Source page: `physvids/11.html`*
 
 <table data-summary="nav links, google search window" width="100%">
 <colgroup>
@@ -60,10 +60,9 @@ extractor: site_to_paper.py (pandoc)
 <td style="text-align: left;" width="180" data-nowrap="" data-valign="top" data-summary="google ad"><img src="http://amasci.com/graphics/vertstr7.gif" data-align="right" />
 <pre><code></code></pre></td>
 <td data-summary="spacer" width="25"> </td>
-<td data-nowrap="" data-valign="top" data-summary="bizarre science videos" width="660"><h1 id="billbs-odd-physics-video-archive">Billb's ODD PHYSICS VIDEO ARCHIVE</h1>
+<td data-nowrap="" data-valign="top" data-summary="bizarre science videos" width="700"><h1 id="odd-physics-video-archive">ODD PHYSICS VIDEO ARCHIVE</h1>
 <br />
-&#10;<p>     <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/11.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/14.html">...14</a>   <a href="http://amasci.com/physvids/13.html">13</a>   <a href="http://amasci.com/physvids/12.html">12</a>   <a href="http://amasci.com/physvids/11.html">11</a>   10   <a href="http://amasci.com/physvids/9.html">9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   <a href="http://amasci.com/physvids/6.html">6...</a>   <a href="http://amasci.com/physvids/9.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
-<br />
+&#10;<p>     <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/12.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/15.html">...15</a>   <a href="http://amasci.com/physvids/14.html">14</a>   <a href="http://amasci.com/physvids/13.html">13</a>   <a href="http://amasci.com/physvids/12.html">12</a>   11   <a href="http://amasci.com/physvids/10.html">10</a>   <a href="http://amasci.com/physvids/9.html">9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7...</a>   <a href="http://amasci.com/physvids/10.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
 </p>
 <hr />
 <div class="iframe">
@@ -77,7 +76,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Sonic DisruptorShrimp fires a pulse
+Fluid Faraday waves, solitons!
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -92,7 +91,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Parallel computation iterations: one video camera, one mirror
+Waaaaaaaaaaaa!
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -107,7 +106,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Watch the micro version of this on sidewalks in spring
+The smell of Neon Sign Transformers in the morning.
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -122,7 +121,33 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Cats, pigeons, but not together.
+Poor man's high speed video camera! Also watch <a href="http://www.youtube.com/watch?v=PR0gwyZYZ_Q">the whole thing</a>
+<pre><code>
+&#10;</code></pre>
+<hr />
+<div class="iframe">
+<a href="https://player.vimeo.com/video/18842873"></a>
+<div id="crawler_player">
+Play
+<img src="https://f.vimeocdn.com/p/images/crawler_logo.png" class="logo" alt="Vimeo" />
+</div>
+</div>
+<a href="https://vimeo.com/18842873">-&gt;</a><br />
+Notvery mandel.           From <a href="http://www.subblue.com/blog/2011/1/16/surface_detail">http://subblue.com/</a>
+<pre><code>
+&#10;</code></pre>
+<hr />
+<div class="iframe">
+<div id="player">
+&#10;</div>
+<div class="player-unavailable">
+<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
+<div class="submessage">
+JavaScriptin suoritus ei onnistu.
+</div>
+</div>
+</div>
+<a href="https://m.youtube.com/watch/JscH1KSUO-0">-&gt;</a> Downtown Seattle, zScape hologram print
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -137,7 +162,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-You're just anti-everything
+Square Wheels
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -152,7 +177,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Oooo, pretty.
+Mousetrap pingpong runaway process (no, NOT is reactor. Is bomb.)
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -167,7 +192,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Bernard cells from blowing on your cocktail.
+Jackass firehose (wait for it...)
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -182,55 +207,32 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-It's the "Duck Plunge <a href="http://www.halfbakery.com/idea/Antichirp-wave_20fleet-sinker#1277856870">Mechanical Fountain</a>"
+Inverse Ice Hockey. Nice air bubbles with Total Internal Reflection!
 <pre><code>
 &#10;</code></pre>
-<hr />
-<div class="iframe">
-<div id="player">
-&#10;</div>
-<div class="player-unavailable">
-<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
-<div class="submessage">
-JavaScriptin suoritus ei onnistu.
-</div>
-</div>
-</div>
-<br />
-<em>  [FINALLY youtube lets you start an embed vid<br />
-  at any desired time! Yay!    add this: &amp;start=84]</em>
-<pre><code>
-&#10;</code></pre>
-<hr />
-<div class="iframe">
-<div id="player">
-&#10;</div>
-<div class="player-unavailable">
-<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
-<div class="submessage">
-JavaScriptin suoritus ei onnistu.
-</div>
-</div>
-</div>
-<br />
-Much better than the other one
-<pre><code>
-&#10;</code></pre>
-<hr />
-<p>     <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/11.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/14.html">...14</a>   <a href="http://amasci.com/physvids/13.html">13</a>   <a href="http://amasci.com/physvids/12.html">12</a>   <a href="http://amasci.com/physvids/11.html">11</a>   10   <a href="http://amasci.com/physvids/9.html">9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   <a href="http://amasci.com/physvids/6.html">6...</a>   <a href="http://amasci.com/physvids/9.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
-</p>
-<br />
-</td>
-<td data-valign="top" data-summary="google ad"><div style="width:300px;height:260px;margin-left:10px;margin-top:160px;float:left;">
+<hr /></td>
+<td data-valign="top" data-summary="google ad"><div style="width:300px;height:260px;margin-left:60px;margin-top:160px;float:left;">
 &#10;</div></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-|     |     |
-|:---:|-----|
-|     |     |
+<table data-summary="google ad">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;" data-summary="google ad"><br />
+</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+     [\< \<](http://amasci.com/amateur/physvids.html)   [\< PREV](http://amasci.com/physvids/12.html)   [...15](http://amasci.com/physvids/15.html)   [14](http://amasci.com/physvids/14.html)   [13](http://amasci.com/physvids/13.html)   [12](http://amasci.com/physvids/12.html)   11   [10](http://amasci.com/physvids/10.html)   [9](http://amasci.com/physvids/9.html)   [8](http://amasci.com/physvids/8.html)   [7...](http://amasci.com/physvids/7.html)   [NEXT \>](http://amasci.com/physvids/10.html)   [\> \>](http://amasci.com/physvids/1.html)  \
 
 \
 

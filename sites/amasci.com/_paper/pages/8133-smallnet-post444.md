@@ -1,0 +1,332 @@
+---
+title: "SMALLnet post444"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post444.html
+order: 8133
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:40Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post444
+
+*Source page: `~smallnet/Archive/post444.html`*
+
+## SMALLnet Posting post444
+
+------------------------------------------------------------------------
+
+**Date: Mon, 28 Feb 2005 01:37:07 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+George Hostler \< 
+
+ \> responds to James Lingscheit's request for Mini-Mambo plans or kits:
+
+Kits occasionally pop up on eBay, but unfortunately they are considered collectors' items now and most fetch a price beyond reason. However, a recent one sold for \$33 (die-cut pieces loose in box). Mini-Mambo kit plans are available from Dave Fritzke \< 
+
+ \> for \$6 plus \$2.50 shipping folded. He accepts PayPal. Kit plans are adequate for scratch building except that they lack fuselage former data. Here it is:
+
+Width of former only, not including 3/32" sides:
+
+F1 2"\
+F2 2-1/4"\
+F3 2-7/16"\
+F4 2-11/32"\
+F6 1-13/32"\
+F7 15/16"\
+F8 19/32"
+
+George
+
+Hollis Fenn \< 
+
+ \> has already e-mailed James Lingscheit directly, and adds:
+
+<span id="27"></span>
+
+<div class="green">
+
+Source: Plans, Mini-Mambo\
+
+</div>
+
+<span id="28"></span>
+
+<div class="green">
+
+Source: Plans, Junior Falcon\
+
+</div>
+
+<span id="29"></span>
+
+<div class="green">
+
+Source: Plans, Roaring 20\
+
+</div>
+
+<span id="30"></span>
+
+<div class="green">
+
+Source: Plans, L'il Roughneck\
+
+</div>
+
+<span id="31"></span>
+
+<div class="green">
+
+Source: Plans, deBolt planes\
+
+</div>
+
+For those who are interested in the Mini-Mambo and other oldies such as Junior Falcon, Roaring 20, L'il Roughneck, deBolt planes, and more -- check out Bob Harris' website \< <http://www.earlyrcmodels.com/> \>.
+
+Ed Couch \< 
+
+ \> wrote:
+
+To the gentlemen (James Lingscheit) looking for a set of plans for the Mini Mambo by Sterling: Give me a hit offline and we can arrange a set of plans from the Original Sterling Kit for the cost of reproduction and mailing.
+
+I'm currently flying an electric version with a GWS IPS gearbox and Fiego brushless motor. Outstanding little bird and a hoot to fly. First kit plane for R/C I ever built in 1960 or so. Knew immediately on first flight why I loved that little bird.
+
+David Hogue \< 
+
+ \> adds his input:
+
+Someone asked about the Mini Mambo....A really nice guy down here in the Apex, North Carolina area makes a laser-cut kit of it, and many other Golden Age R/C kits, including the Goldberg Junior Falcon and Skylark.
+
+I have been meaning to do one of his Junior Falcons for a long time now; just haven't got around to it yet. Now this man also has a small Ugly Stik on the way.
+
+I built several of the Midwest kits and scratchbuilt them later off the plans, and I remember the original Jensen's were still available when I started this hobby. Bob was working on a Senior Falcon kit, but I am not sure what has happened with that, since the plane has now been ARFed by the Lanier/GB company cheaper than his kit. Depressing that you can apparently have a plane ARFed overseas cheaper than it can be kitted, in today's world.
+
+David Hogue
+
+Larry Marshall \< 
+
+ \> contributed:
+
+It's good to see some talk among modelers about the current state of model aviation. Hopefully the brainstorming will come up with some solutions.
+
+I have to agree with Thayer that Fly RC is a far better model magazine than the rest of the crop. Thayer also said, "As proof in the pudding that some magazine editors can still appreciate building, take a look at this link on my personal web page: \< <http://www.gryffinaero.com/models/ffpages/rce/daddyo> \>...."
+
+...I fondly remember when Thayer submitted photos to MAN of his Lazy Bee, converted into a multi-engined China Clipper. It was an amazing modeling effort and cute as a bug. A major 'war' ensued at MAN, as Tom and I really thought the model merited the high profile we were trying to give it, while the id!@...err...uhm... fine publishers of MAN, who had no ideas about much of anything, didn't think that MAN should be presenting small models at all.
+
+Thayer is definitely one of the good guys and Fly RC may be one of our last hopes for a real RC "modeling" magazine.
+
+Dereck Woodward wrote, "... I got introduced to this by Randy Randolph's "BeeTween" 049-powered ship back in England. It was published in MAN, and was about as..."
+
+Hmm...I just realized that my BeeTween might be an example of the change in model aviation. I built one in 2 days when the plan showed up. I think that was '89. I flew the heck out of it with a Black Widow in the nose but, as with most models, it found itself hanging on my wall, as I'd moved on to something else.
+
+But one winter I decided to investigate the notion of electric power and I took the BeeTween, yanked the guts out of it and installed a Speed 400 in the nose. It made Ontario winters endurable as I would charge up 3 battery packs, walk down the street to a field and fly. When the batteries were depleted I'd walk back to the house, charge the batteries and drink coffee to recharge ME. I did that all winter and it was great.
+
+The BeeTween had its mechanics removed at some point and it had found its way to the wall again. I gave it to a friend in the late 90's because he wanted a small model. But he's never built a model in his life, though I taught him to fly in the early 90's and he's been flying ever since.
+
+That BeeTween still sits in his basement, without a power system because he's just "too busy" to install the .049 he bought for it. Sad but true.
+
+Pat Tritle wrote: "It's been my observation that in life, the less the investment, the less the return. The kind of person who requires the kind of model...."
+
+Pat put his finger on the root of the problem. He went on: "That's not as big a problem in the Albuquerque area anymore, as the ARF crowd has basically run the modelers off by generating an unsafe environment, with no regard for life, limb, or the models we fly!"
+
+I read this with both a thrill (it's not just Quebec) and sadness (it's everywhere). I've largely quit flying because of the incredibly dangerous situation that persists at the club field here in Quebec City.
+
+I think this is one of the larger threats to model aviation at this point, as the clubs have always been the driving force of model aviation. More and more, as Pat describes, those who invest something in their models aren't willing to fly with the foamy floppers who have no sense of respect for models.
+
+Pat continued, "As a result, those of us who still fly models that we actually build, are doing it in small groups under the cover of early dawn; in school yards which we don't advertise to what has become known in these parts as the "crash crew". I really hate to have to do..."
+
+While this sounds great (wish I were back in Albuquerque, Pat), it begs the question of how the hobby will persist. If the 'lifers' scuttle off to soccer fields at dawn, how will true 'newbies' find them? We need a new social model for model aviation. Breakfast clubs, perhaps?
+
+Pat commented, "Now, with that being said, it's our job as "modelers" to give back to those guys that which was given to us by the people who...."
+
+I agree; but from what I can tell, the 'buy it' crowd became 'instant experts' and have become the biggest barrier to communication, as they are downright snotty towards seasoned modelers trying to help them. Maybe I've become too old for model aviation as I don't feel that I should help someone who shows no respect for anyone.
+
+Larry "ex-MAN editor (don't blame me for what it's become)" Marshall --- Quebec, Quebec
+
+Randy Randolph \< 
+
+ \> wrote:
+
+It is interesting that a division between ARF flyers and model builders has developed, and even more interesting that I have not noticed the division! I did note a problem that developed between indoor rubber fliers and Indoor RC fliers that happened when large and fast RC airplanes took the air while the lighter and slower rubber-powered airplanes were flying.
+
+The problem was solved when the mornings was given to free flight and the afternoons to RC. It worked so well that some of the RC flyers built FF and the FF guys built RC.
+
+As Pat Tritle said: the ARF guys, with the proper incentive, might just decide it's fun to cut balsa -- and the balsa-cutters might take a liking to some of the new and great technology available in the ARF culture.
+
+Randy
+
+Ron Fikes \< 
+
+ \> has this to say:
+
+I find that Pat Tritle's feelings about ARFers is spot on. It is ruining the flying at our local field also. The gang that used to build and fly their own built models are disappearing. They no longer wish to "take the chance" that their beautifully built 'models' will be wiped out by the new crew of "It's my ARF, and I can fly it anywhere I want" flyers.
+
+With the advent of the ARF 3D planes, no place in the sky is safe and the new flyers know nothing of safety and courtesy, and don't seem to care.
+
+I grew up building my own models (there were not many things available in the early 40s except balsa, glue and tissue) so we built with pride (trying to make the most of what we could afford). I do enjoy the modern materials, but don't build scale -- still love the sight of a built-up structure that looks like a model airplane.
+
+I don't know what the answer is - ARFs are where the \$\$\$\$ are to be made. Look at the magazines' ARF thrust (Flying Models magazine is still "builder friendly"). Long live the true model builder, even if he has to go underground!
+
+Now go into your stash and run your fingers over some lovely balsa... Ron Fikes
+
+Bill Lee \< 
+
+ \> observes:
+
+I have come to the conclusion that in this instant gratification world that we live in today, the following is true:
+
+ARF R/C == A video game in 3D
+
+Bill Lee
+
+John Meacham \< 
+
+ \> contributed:
+
+I see a lot of questions on the "build or buy" subject. But modelers come in an amazing assortment of people. I like to build from plans, kits, my imagination etc. -- but then I take out my last masterpiece and fly it a couple of times and am happy. So I put it up on a shelf someplace and there it sits.
+
+Then the building bug hits again and I build up another airplane. Got a shelf in my shed with I don't know how many wings sitting there. I keep saying to myself, "I gotta sort them out and build a bunch of fuselages and tail feathers. Maybe someday."
+
+BTW, I see some new plans for a model using that "Air Hog" compressed air motor. Before the Air Hog came along there was another compressed air motor from Italy that came with a stick fuselage plane. That was a much better flyer than the plastic Air Hogs now on the market.
+
+I sold my power unit from one of those many years ago. As I remember, it was better than the plastic Air Hog motor, and was made of metal, kind of like a CO2 motor.
+
+John Meacham
+
+Ken Elder \< 
+
+ \> wrote:
+
+I like to build rather than buy, but the availability of pre-built models combined with my lack of ability to make accurate parts from plans has made me owner of several ARF small planes. Like most, I have very little spare time to build. But when I do, a couple of things have helped me:
+
+Since trying these two methods, I now enjoy building more than ever. Try it, maybe it will work for you!
+
+Ken Elder Largo, Florida
+
+Tommy Wilson \< 
+
+ \> inquired:
+
+I have a query about break-in for BigMig 061's. I recently bought another Norvel engine & the instructions are rather sketchy to say the least. I put castor oil on top of the piston as the instructions called for, left it for 24 hours, then rotated the crankshaft 100 turns clockwise as per the instructions.
+
+Now what do I do? I sent an e-mail to Norvel asking for further instructions but did not receive an answer. I also had a trawl around their web-site but found nothing useful there either.
+
+All my other Norvels came with comprehensive instructions, which I followed & had great success with. Do I now run the engine "as is", or do the rich/lean cycle for 20 minutes as was previously recommended ? I don't want to harm the engine by doing something incorrectly. Tom Wilson
+
+<div class="Joe">
+
+...I replied to Tom directly, as follows \[JW\] :
+
+</div>
+
+Back when Ed Stevens was running Norvel, he was exceedingly quick to respond to any and ALL customer requests. But after he sold out to Sig's new management, customer support has become just about nil.
+
+A friend of mine bought a Norvel .061 and had the same questions you did. As I told my friend: the moving parts of Norvel's "RevLite" engines are quite rugged. The only problem with them that I know about is a tendency of the piston/cylinder surfaces to erode when new. (The actual surface is aluminum oxide -- a substance long used as an abrasive.)
+
+That's the reason for Norvel's new "Sliktek" piston coating, and the 24-hour oil-soak routine. The idea is to retain the benefits of the sapphire-hard moving surfaces while eliminating any abrasive effect between the moving parts.
+
+I'd say that it's OK now for you to begin running the engine. To be safe, follow the 20-minute rich-lean routine you mentioned. (Its major benefit is heat-stabilizing the piston and cylinder.) You can achieve the same effect by running the engine leaned out for a couple of minutes; then shutting it off and letting everything cool down all the way to "room temperature" before starting it up again.
+
+Five or six repetitions of that sequence should do the break-in job nicely. Joe
+
+Tom Johnson \< 
+
+ \> recommends:
+
+I used this technique to make my own balsa cutters. I used generic 2-blade disposable razors with blades that had a lot of holes. I used CA to glue in the blades, and added an excess of baking soda in the blade holes. I then soaked the baking soda with CA. The soda formed a hard, dense lock in the holes and "hooked" everything in one piece. Tom Johnson
+
+Mike Halbrook \< 
+
+ \> submitted:
+
+Pat Tritle's comment about "cranky .049 U-control models" reminded me that I haven't mentioned mine. Since I have been in Idaho with access to a large dry lake I've done quite a bit of control-line flying. Most of it has been with Cox, Wen Mac and Aurora RTF plastic planes, but I've built some of my own as well.
+
+I have a 34" Comet P-38 converted to control line that I built about 10 years ago. This plane has two Cox Black Widows with TD .051 pistons and cylinders. The model is sheeted with 1/32" balsa and covered with aluminum and black Monokote. This model is very impressive in the air and a hoot to fly.
+
+I also have a Revell 19" plastic display P-38 converted to control line, using two Pee Wee .020s with props and spinners from the Testors "FlyEm" P-40. To round out the P-38's, I have a Testors "chrome" RTF P-38 assembled from used and NOS parts along with some home-made parts to complete it. It is powered by two McCoy .049s with Cox three-blade props and spinners.
+
+All three P-38s have similar flight characteristics. I also have a Revell Mosquito converted to control line. This has not been the success the P-38 is. The Mosquito will fly fairly well on one engine, not at all on two.
+
+I've also built a plastic F-104 Starfighter as a control-line model. No great surprise: it won't fly at all.
+
+All told, I have about 60 active or available control-line models.
+
+Best Regards, Mike
+
+Al Lidberg \< 
+
+ \> submitted:
+
+While I realize that SMALLnet doesn't care much about contests, I would like to bring to your attention that the SAM Champs provides a swap meet during the week of the contest, and that MECA \[Model Engine Collectors Association\] will have its Collecto/swap meet the weekend before.
+
+Here's a link to the contest: \< <http://www.antiquemodeler.org/2005champs.htm> \>
+
+AL\
+A. A. Lidberg model plan service\
+\< <http://www.aalmps.com/> \>
+
+Al Backstrom \< 
+
+ \> responds to Roger Schroeder's request for light silver tissue:
+
+I have good success with DIY silver coating of white tissue. The process requires aluminum powder from an artists' supply, a ladies' powder puff, and a pair of exam type gloves.
+
+Pour a little silver powder on a sheet of wax paper; pick up some of it with the powder puff, and start working it onto the tissue. Use cross-streaking etc. until a uniform coating is obtained.
+
+Spray with clear dope or whatever you prefer. I used this process on a P-35 model nearly twenty years ago. It didn't fly well, so I gave it to a friend who was better at adjusting than I was. He died recently, and another friend got the model. He told me the tissue was still in good condition. The aluminum powder Ultra-Violet barrier obviously worked.
+
+Al Backstrom
+
+Ian L. McQueen \< 
+
+ \> adds:
+
+Look into spray cans of silver "stuff" (lacquer, enamel, what is the name for it?). The type that I bought at my local Canadian Tire store gave good opacity with a thin coat, and added negligible weight. Probably spray-can silver paint by any manufacturer will perform equally well. (Mine was not Krylon, but they are a well-known brand to try.)
+
+I sprayed the silver over one coat of thinned dope. That might have been the equivalent of clear lacquer from a building supply store -- just enough to seal the paper. It's cheaper than "real" dope. Ian
+
+<div class="Joe">
+
+...Here's some itemized "closing remarks" from (JW):
+
+1\. What IS this endless R/C, R/C, R/C mania in model aviation these days? The ONLY US magazine that seems to realize free flight and control-line models and flyers still exist is Flying Models.
+
+I myself write a model engine column for Model Aviation, and have been instructed by the editor to leave the FF and C-L material to the "specialty columnists" -- and limit my topics to R/C motors.
+
+Yeah, radio control can be fun, all right. But so can FF and C-L !
+
+Not much space is needed for a control-line circle; and for sport free flight a football field provides plenty of room for models that fly like "real airplanes".
+
+The open space where CO2, mini-electric, HLG, and rubber-powered FF models are flown every Sunday morning (weather permitting) in southern California's San Fernando Valley isn't much larger than a football stadium -- and in the Good Old Days plenty of FF model contests were held in New York City's Central Park.
+
+2\. A while ago, before I reactivated SMALLnet, Randy e-mailed me about "stringer-crushing" troubles he was having with one of the built-up kit models he was reviewing for a model magazine. I suggested gluing carbon fiber strips to one side of a sheet of hard balsa, then using a balsa stripper to cut the needed stringers from that.
+
+Installed with the carbon-reinforced surface on the inside of the model, that solved the crushing problem for Randy.
+
+And that reminded me of building Earl Stahl's scale rubber-powered designs from the full-size plans in 1940-era MAN. I had plenty of problems with the bulkheads splitting during construction. I cured that by doping silk onto both sides of the 1/16" balsa sheet before cutting out the bulkheads. Not a one ever split for me since then.
+
+3\. I see recommendations from time to time to "use a new \#11 X-Acto blade" for some precision cutting operation or other.
+
+I perform "precision cutting operations" frequently. But I haven't bought any X-Acto blades for maybe 20 years. That's because I re-sharpen the blades I have.
+
+At first I used an oilstone for that. But it's messy work, and needs cleaning up afterwards -- especially the knife: oily balsa won't glue together effectively.
+
+15 or so years ago I invested \$30 in a "diamond stone". This is a flat steel plate about 1/4" thick, 2" X 6". Its top surface has been impregnated with diamond dust. I use it dry; and whenever it looks like it's getting coated with steel swarf, I wash it off with a toothbrush, detergent, and hot water. That makes its diamond "sharpening surface" like new again... \[JW\]
+
+</div>
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

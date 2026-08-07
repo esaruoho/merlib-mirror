@@ -1,0 +1,631 @@
+---
+title: "Bloggity-Blog-Blog-Blog Archive 02 Jan 2005 to 08 Jan 2005"
+source_domain: amasci.com
+source_path: ~tegan/blog/20050102-20050108.html
+order: 8624
+reachable_from_entry: false
+images: 52
+internal_links: 10
+extracted: 2026-08-07T06:01:07Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bloggity-Blog-Blog-Blog Archive 02 Jan 2005 to 08 Jan 2005
+
+*Source page: `~tegan/blog/20050102-20050108.html`*
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="13" /></td>
+</tr>
+<tr>
+<td class="title" width="100%" data-bgcolor="#9e98cc" data-valign="top">Bloggity-Blog-Blog-Blog Archive<br />
+Laura "Tegan" Gjovaag</td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td class="body" data-valign="top" width="74%"><p>Saturday, January 08, 2005 <span id="110523743414060998"></span></p>
+<strong>Sketchbook - Linda Medley</strong>
+<p><span class="rss:item">Getting this sketch took two days, and a short amount of worry. The whole story is in my <a href="http://www.eskimo.com/~tegan/aqua/sandiego/">San Diego 2000</a> report, but the short tale is that I met Linda on the second day of the con and got a promise of a sketch from her, because she wanted to do something unique. Later the next day, after a <a href="http://www.eskimo.com/~tegan/aqua/sandiego/#4c">little worry</a> about where she was, she <a href="http://www.eskimo.com/~tegan/aqua/sandiego/#4e">drew this sketch</a> for me. I think it's fantastic, and have been pleased with it since I saw it. As she intended, her interpretation of Aquaman is unique, and beautiful.</span></p>
+<img src="http://www.eskimo.com/~tegan/blog/sketch/sketch_MedleyL.jpg" data-border="0" width="311" height="400" /><br />
+<strong>AQUAMAN</strong><br />
+<strong>by Linda Medley</strong><br />
+22 July 2000<br />
+(permission to post given 11 November 2004 via e-mail, special thanks to Mia for helping me reach Linda.)
+<p>As a reminder: Almost every sketch in my sketchbook was non-commissioned and done on the floor of a con. These are not the best works of the artists. These are only representative of what the artist can do under pressure in a loud, crowded, and often stressed-out environment. Most of them were done as quickly as possible, to prevent huge lines from forming. Don't judge any of these artists negatively by the artwork you see, instead be as impressed as I am by what they accomplished in far-from-ideal conditions.<br />
+<br />
+The Saturday Sketch ™ is brought to you by the letters "L", "M" and the number "80", and also courtesy the fine artists who pour their lives into producing wonderful comic books, then come to conventions only to get asked by geeky fangirls for a sketch of Aquaman. Support an artist, buy a comic book.<br />
+<br />
+If you have any contact information for any of the <a href="http://www.eskimo.com/~tegan/blog/sketch/index.html#wanted">other artists I'm trying to contact</a>, please <a href="mailto:tegan@eskimo.com?subject=Bloggity-Blog-Blog-Blog">e-mail me</a>. I'm currently down to only two more permissions... so only two more weeks before I run out of sketches to post!<br />
+</p>
+by Tegan at <a href="#110523743414060998">6:21 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/sketchbook-linda-medley.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110523743414060998&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110523743414060998" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110523743414060998&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Friday, January 07, 2005 <span id="110516468895938183"></span></p>
+<strong>Rapid Reviews - Unexpected Extras</strong>
+<p><span class="rss:item">A friend had me pick up a couple more titles, so I'm reading them too...<br />
+<br />
+<strong>Superman/Batman #16</strong>: "When Time Goes Asunder...": Jumping in on the middle of a story is always a hazard. Jumping into the middle of a time travel story can be near impossible to figure out. But... while there are a lot of things about this story I'm uncertain about, it did flow well and explain itself nicely. It mostly made sense. And the cliffhanger was shocking enough to make me wonder what the next issue holds. Not too bad. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>The Flash #217</strong>: "Post-Crisis": I seem to have missed an issue. Oops. This one features the funeral of Captain Boomerang. The Flash discusses the whole secret identity thing. I'm just not a huge fan of the Rogues, otherwise I think I would have enjoyed this more. I did like the villain cemetary. Interesting idea. I do wonder what is up with that cliffhanger, though. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Incredible Hulk #77</strong>: "Tempest Fugit" Part 1 of 5: Nice start, I think. I'm not sure what is happening at all... how did The Hulk get to the bottom of the ocean? But, except for the very end it all seemed pretty standard Peter David storytelling. I'm not sure I'll get the next issue, but this one made an impression. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+</span></p>
+by Tegan at <a href="#110516468895938183">10:11 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/rapid-reviews-unexpected-extras.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110516468895938183&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110516468895938183" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110516468895938183&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="110511961753472247"></span>
+<strong>Bloggity Contest #1 and Random Thoughts</strong>
+<p><span class="rss:item">Larry Young has just upped the stakes in my <a href="http://realtegan.blogspot.com/2005/01/bloggity-contest-1.html">Bloggity Contest #1</a> by sending me a page of original artwork from <em>Colonia</em>. I'm a little unsure how to do this, but I think I will offer the artwork as another prize so that people who already have the book can try to get the art. I'll work out how to award the prizes as I go. I have, after all, two weeks to figure it out.</span></p>
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/contest1.jpg" width="200" height="330" />
+<p>So, if you want a copy of <em>Colonia: Islands and Anomolies</em> by Jeff Nicholson, OR if you want a shot at the original artwork, please enter the contest! Deadline is 9 pm Pacific, January 20th. Remember, all you have to do is write a micro-essay on why/how comic books are good as educational materials. Send your entries to <a href="mailto:emeraldtegan@comcast.net?subject=Bloggity%20Contest%20#1">emeraldtegan@comcast.net</a> with a subject line of Bloggity Contest #1. Include your name and your entry. And feel free to spread the news of this contest to anyone you think might be interested.<br />
+<br />
+Jeff Parker <a href="http://parkerspace.blogspot.com/2005/01/thats-my-boy.html">reproduces</a>. Congrats!<br />
+<br />
+<a href="http://www.nearmintheroes.com/">Near Mint Heroes</a> is linkblogging again.<br />
+<br />
+Preview images from <a href="http://spiltink.dreamhost.com/blogs/2005/01/sea-or-red-bw-cover-art-for-2-3.html">Sea of Red</a>, which I mentioned in my <a href="http://realtegan.blogspot.com/2005/01/flipping-through-previews.html">Flipping Through Previews</a> post.<br />
+<br />
+<a href="http://news.bbc.co.uk/2/hi/entertainment/4150757.stm">The Incredibles has been nominated</a> for best film by the Producers Guild of America.<br />
+<br />
+A user of iTunes has <a href="http://news.bbc.co.uk/2/hi/technology/4151009.stm">sued Apple</a> because he can only play iTunes songs on his iPod. Hmmm.<br />
+<br />
+<a href="http://www.lib.usm.edu/%7Edegrum/html/collectionhl/Curious%20George/curiousgeorge.shtml">Curious George escapes the Nazis</a>, a true story. Via <a href="http://www.metafilter.com/mefi/38431">MeFi</a>.<br />
+<br />
+<a href="http://www.boingboing.net/2005/01/07/tshirt_home_taping_i.html">Home Taping Is Killing The Music Industry!</a> And it's fun.<br />
+<br />
+Boing Boing covers <a href="http://www.boingboing.net/2005/01/06/downloading_comics_t.html">the question of downloading comic books</a> as discussed <a href="http://newsarama.com/forums/showthread.php?s=f122b09c18e9f0166a61568ef01323dd&amp;threadid=24638">on Newsarama</a>. My personal opinion? There are Golden Age stories that are not in print, DC has no plans to <em>ever</em> reprint them, and buying the individual issues would bankrupt me. I have no moral problem downloading those stories, as I will buy any reprint DC puts out and if I ever have the money I'd buy the originals, too. I have serious issues with more modern books, however, and especially with any book that's actually in print. But go read the discussion, there's some stuff there I hadn't thought through. Some of the arguments remind me of <a href="http://www.baen.com/library/home.htm">Eric Flint's comments</a> on the Baen Free Library. In short, free samples are good (and Baen proved that), so maybe more publishers should be thinking about putting them out themselves instead of letting pirates provide an inferior product. And, closer to home, I'm reminded of <a href="http://www.studiofoglio.com/">Studio Foglio's</a> efforts to "keep their books in print" by providing issues 1 &amp; 9, the sold out issues, free on their website.<br />
+<br />
+How to <a href="http://www.boingboing.net/2005/01/05/howto_knit_dimsumsha.html">knit dim sum</a>. Knitting is really big right now. If you can't knit, you aren't hip. I'm not hip.<br />
+<br />
+While I'm not sure why you'd want pictures of a urinal on your website, the efforts of some places to <a href="http://www.boingboing.net/2005/01/05/lawyers_attempt_to_f.html">keep their name off the site</a> are depressing.<br />
+<br />
+Ok, that's more than enough for one entry. I'm sure I'll post more later, even if the snow doesn't keep me away from work.<br />
+</p>
+by Tegan at <a href="#110511961753472247">9:38 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/bloggity-contest-1-and-random-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110511961753472247&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110511961753472247" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110511961753472247&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Thursday, January 06, 2005 <span id="110507029162594160"></span></p>
+<strong>Flipping Through Previews...</strong>
+<p><span class="rss:item">Yes, it's that time again... time for "Things in Previews That Look Interesting But I Can't Afford To Get (with a list of things I am getting just for contrast)". I'm going to start with the bulk of the book, and then come back and cover the "big four" at the end. Please remember, I'm listing what looks interesting. My actual purchase list is going to be much smaller. The numbers after each title are usually the page number in <a href="http://previews.diamondcomics.com/">Previews Magazine</a> so you can follow along at home.<br />
+<br />
+Let's start with the covers. The front cover shows Batman holding an unidentifiable fallen hero. It really is nicely done concept for drawing in readers and making them curious. I'm not sure I really like Alex Ross' painting with Jim Lee's pencils. It's ok, but I'm not overwhelmed. The back cover shows Hunter Killer, which just looks like yet another tough guy book. Nothing special.<br />
+<br />
+The full page ad on the inside of the front cover caught my eye only because it brought back happy childhood memories of watching the original Star Wars movies.<br />
+<br />
+Moving on, let's hit the Splash Page (8-9). I'm not at all interested in Orson Scott Card's efforts on Iron Man. I don't really have a big problem with Card's fiction, but it isn't anything that interests me. I want the Wizard Basic Training book. It looks really cool, and there will be lots of artwork samples from a good variety of artists. Beyond that, nothing springs out at me and says "buy me!"<br />
+<br />
+The 2005 Readership Survey (12-14) is in this issue. I might just fill it out.<br />
+<br />
+The first of the <a href="http://www.freecomicbookday.com/">Free Comic Book Day</a> bits is in this one, on page 15, in the form of apparel for comic shop people to wear.<br />
+<br />
+Skipping over the big four, Black Bull (190) has a new book that I'm not at all interested in. Except for <em>Wizard Best of Basic Training</em> (192-193), I'm not interested in much of anything <a href="http://www.wizarduniverse.com/">Wizard</a> is offering.<br />
+<br />
+Jumping to the Featured Items pages for the main comic book section (202-205), the <em>Hedge Knight</em> trade is good. I enjoyed the first edition, but I don't plan on getting the second. Another cool thing is <em>Barbarossa and the Lost Corsairs</em>, which is a pirate book, arrrr! That's pretty much all that looks good.<br />
+<br />
+<a href="http://www.aaapop.com/">AAA Pop Comics</a> (206) has the second issue of <em>The Golden Plates</em>. I'll be getting it, of course. The only question is how many extra copies I'll be buying for family. I know I'll be getting at least two extra.<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200501_Filler.jpg" data-align="right" width="100" height="150" />Next item of interest is from <a href="http://www.ait-planetlar.com/">AIT/Planet Lar</a>. The cover didn't make me look twice, but the description looks good. <em>Filler</em> (223) is about a person who is living in the backgrounds of other lives. It doesn't look quite like my cup of tea, but I suspect a number of bloggers will enjoy it. I also can recommend <em>Astronauts In Trouble</em>, which looks to be a new edition that's quite affordable. If you haven't tried the series, go for the trade. I don't think you'll be disappointed. There's something in there for everyone.<br />
+<br />
+<a href="http://www.slavelabor.com/">Amaze Ink/Slave Labor</a> has a couple of books to note. <em>Seamonsters &amp; Superheroes Vol 1</em> (227) collects the individual issues. If you are bold and willing to put up with a lot, this is one to get. <em>Street Angel #5</em> is also being solicited. Not something for me, but it's popular among my fellow bloggerati.<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200501_BalladSleepingBeauty.jpg" data-align="left" width="100" height="150" />I seem to be moving through this issue of Previews pretty quickly, so next up is <a href="http://www.beckettcomics.com/">Beckett Comics</a> (246) which we'll be buying <em>The Ballad of Sleeping Beauty #8</em> from. Intriguing cover.<br />
+<br />
+Bongo stays up to their normal wildness with <em>Futurama/Simpsons Crossover Crisis Part 2</em> (246). Yes, we'll get it.<br />
+<br />
+Classics Illustrated Jr is putting out the second issue of <em>Dorothy Gale: Journey To Oz</em> (250). Because it's Oz, we'll be getting it, but I'm a little confused... is the price $4.99 like in Previews, or $5.99 like on the order form. We'll go with the order form, but hope for the lower price when the book comes.<br />
+<br />
+<a href="http://comicsconspiracy.com">Comics Conspiracy</a> (252) is back with <em>Generic Mini-Series</em> This was a fun book back when hubby-Eric and I collected the original run. I'm not sure if we'll get this one, though Generic Man going up against Villain-Come-Lately sounds fun. Note that there is a Generic Ad on page 254.<br />
+<br />
+<a href="http://www.dabelbrothers.com/">DBPro</a> (258) is offering <em>The Hedge Knight</em> trade again. This was a pretty good adaptation of the short story. Worth a look if you are a fan of George R.R. Martin.<br />
+<br />
+<a href="http://www.digitalwebbing.com/">Digital Webbing</a> (274) continues their anthology book <em>Digital Webbing Presents</em> with issue #23. Of interest is a story in which we "imagine a world where betting on the outcome of superhero battles is the hippest craze."<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200501_PS238.jpg" data-align="right" width="100" height="150" />My favorite on-going series of 2004, <em>PS238</em> shows up in <a href="http://www.gamespy.com/comics/dorkstorm/index.asp">Dork Storm Press</a>'s listing (275). This one looks like a lot of fun... more torture for poor Tyler.<br />
+<br />
+The Dreamwave listings seemed mildly ironic to me in light of the recent news of them shutting down.<br />
+<br />
+<a href="http://www.iboxpublishing.com/">I Box Publishing</a> (304) has a resolicit of <em>Thieves &amp; Kings #46</em>. I really would like more of this book. It's one of those books where the slow release schedule definitely detracts from the enjoyment. At least there's a <a href="http://www.iboxpublishing.com/">strip on the website</a> to take away some of the annoyance of waiting.<br />
+<br />
+<a href="http://www.dorothyofoz.net/">Illusive Productions</a> (311) solicits the second issue of <em>Dorothy</em>, which I already have. This is a very good revisit to Oz from a modern viewpoint. Not for little ones.<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200501_Barbarossa.jpg" data-align="left" width="100" height="150" />Another cool-looking book is <em>Barbarossa &amp; The Lost Corsairs #1</em> from <a href="http://www.kandorapublishing.com/">Kandora Publishing</a> (312). There's a full-page ad on 313, and more <a href="http://www.kandorapublishing.com/PROJECTS/bbprojectsynop.html">on their site</a> including some sample pencils which, frankly, look fantastic. Writing by Brian Augustyn. Hmm. Do I want to read another pirate book?<br />
+<br />
+I mentioned <em>Chickasaw Adventures</em> last month, there's another issue coming from <a href="http://www.laynemorgan.com/">Layne Morgan Media</a> (312) in this Previews. Yes, I'll be getting it.<br />
+<br />
+<a href="http://www.nbmpub.com/">NBM Publishing</a> (316) shows off the second issue of <em>Cryptozoo Crew</em> which I'd really like to try. Too bad I can't really afford it. Also of interest are <em>The Yellow Jar</em> and <em>Silk Tapestry</em>, both of which were worth getting, and are being offered again.<br />
+<br />
+Nothing of interest in Sirius Entertainment. Will <em>Akiko</em> ever be coming back?<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200501_Grimoire.jpg" data-align="right" width="100" height="150" /><a href="http://www.speakeasycomics.com/">Speakeasy Comics</a> (323) has an interesting looking book called <em>The Grimoire #1</em> (326). I wish I could find some art samples for it, as I'm not inclined to purchase it without a better idea of what's inside. Then again, it does seem right up my alley.<br />
+<br />
+I think I saw a sample of <em>Oddly Normal</em> in the back of <em>Daisy Kutter</em>, which makes sense seeing as how they are both from <a href="http://www.vipercomics.com/">Viper Comics</a> (354). This one looks good, and might just sneak onto the list.<br />
+<br />
+And that wraps up my trip through the comic section for this month. Wow. Moving on in Previews... nothing in Magazines strikes me as worth a mention... There's a biography of DeForrest Kelly (387) in the books section which I wouldn't mind reading. I think I read every other cast members' bio or autobio except Shatner, who I can't stand. The best one was "To The Stars" by George Takei, in my opinion. But then, I've always had a thing for Sulu.<br />
+<br />
+I'm also seeing a novelization of <em>The Crisis on Infinite Earths</em> in the books section (389), and a couple of Green Lantern novels. I'm not sure if I want to read superhero novels or not. So much potential... will they be any good? I'm thinking library on these, though who knows if the library will ever get them.<br />
+<br />
+Moving on... <a href="http://www.graphittidesigns.com/">Graphitti Designs</a> has a nice JLA logo shirt (411). I'm still waiting for my Aquaman logo shirt. I suspect I'll never get it.<br />
+<br />
+You can get a Dalek, Cyberman, or TARDIS cookie jar (473). Who would want to eat cookies out of a Dalek?<br />
+<br />
+Looks like a new <a href="http://www.wizkidsgames.com/">DC Heroclix</a> set is arriving. 97 new figures... I need to know if Aquaman is one. The ad on page 493 shows Batman, Wonder Woman, Superboy, Ra's, Kingdom Come Green Lantern, and some really tall person I don't recognize. The 2005 Sportsclix are also shown. Again, I'd like to get the Mariners and nobody else.<br />
+<br />
+And that's it. Time to jump back to the beginning and cover the handful of publishers that take up the most space in Previews. I never know what order to do the Premier comics in, just that I like doing DC last. So I guess I'll list them in the order they show up in the book. And that means that first up is...<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200501_Usagi.jpg" data-align="left" width="100" height="150" /><a href="http://darkhorse.com/">Dark Horse Comics</a>. I note that the comic book adaptation of Revenge of the Sith is being solicited (22). Indeed, the Star Wars stuff dominates the first few pages. Anyway, I'll be getting <em>Conan #14</em> (28), <em>Usagi Yojimbo #83</em> (32), <em>Samurai: Heaven &amp; Earth #4</em> (34), and <em>Samurai Executioner Volume 5</em>. I'd like to point out page 31, which has some Will Eisner stuff.<br />
+<br />
+Next up is <a href="http://www.imagecomics.com/">Image Comics</a>. I plan on getting <em>Battle Hymn #4</em> (138) since I ordered the rest. We'll also be getting <em>Lions, Tigers &amp; Bears #3</em> (151). And we'll be getting <em>Lullaby: Wisdom Seeker #2</em> (152) as well as going back and ordering issue #1 because the solicit on this one says they are headed to Oz. We can't miss <em>Noble Causes #9</em> (155). We still haven't decided on whether or not we'll be getting <em>The Pact</em> (156), but I think I'm leaning toward it. <em>Sea of Red</em> (160) sure seems like a sure thing... vampires and pirates, what a combination. Probably won't make my list, but definitely a sure thing.<br />
+<br />
+As usual, I didn't get <a href="http://marvelcomics.com/">Marvel Comics</a> (182) super special extra book. For me, I'll be getting <em>Amazing Spider-Man #518</em> and <em>Supreme Power #16</em>.<br />
+<br />
+<a href="http://www.dccomics.com/features/aquaman/index.html"><img src="http://www.eskimo.com/~tegan/aqua/pics/cvr2003/cvra428.jpg" data-align="right" data-border="0" width="200" height="300" /></a>And finally, we reach <a href="http://www.dccomics.com/">DC Comics</a>. It's about freakin' time. Section by section.<br />
+<br />
+Batman (61-68): Nothing I'll be getting, but <em><a href="http://www.dccomics.com/comics/?cm=2709">Batman Cover to Cover</a></em> looks good. I'd also love to get <em><a href="http://www.dccomics.com/comics/?cm=2711">Batman: Chronicles Volume 1</a></em> because I like to support inexpensive reprinting of Golden Age comic stories. I wish they'd reprint more Golden Age tales, with every different character they own the rights to. That's another argument entirely, though, so on to Supes.<br />
+<br />
+Superman (69-75): The cover to <em><a href="http://www.dccomics.com/comics/?cm=2749">Adventures of Superman #638</a></em> is hilarious. Particularly the expressions on Clark and Lois' faces.<br />
+<br />
+DC Universe (76-94): <em><a href="http://www.dccomics.com/comics/?cm=2754">Aquaman #28</a></em> appears to herald the return of that wierd cop in the last issue. I'm not finding much enthusiasm for the book right now, but maybe I'll enjoy it when it actually comes out. I've always liked Etrigan, and <em><a href="http://www.dccomics.com/comics/?cm=2755">Blood of the Demon #1</a></em> looks promising, but I probably won't get it. I'd also love to get the <em><a href="http://www.dccomics.com/comics/?cm=2716">Comic Cavalcade Archives Volume 1</a></em>. I think I have all those issues on fiche, but nothing compares to holding them in your hands. Another book that looks interesting is <em><a href="http://www.dccomics.com/comics/?cm=2768">The Human Race #1</a></em>, but I don't think I'll get it. Books I will be getting: <em><a href="http://www.dccomics.com/comics/?cm=2756">Birds of Prey #80</a></em>, <em><a href="http://www.dccomics.com/comics/?cm=2757">Bloodhound #9</a></em>, <em><a href="http://www.dccomics.com/comics/?cm=2760">DC Countdown</a></em>, <em><a href="http://www.dccomics.com/comics/?cm=2762">Fallen Angel #19</a></em>, <em><a href="http://www.dccomics.com/comics/?cm=2765">Green Lantern: Rebirth #6</a></em>, <em><a href="http://www.dccomics.com/comics/?cm=2766">Green Arrow #48</a></em>, <em><a href="http://www.dccomics.com/comics/?cm=2769">JLA #112</a></em>, <em><a href="http://www.dccomics.com/comics/?cm=2770">JLA Classified #5</a></em>, <em><a href="http://www.dccomics.com/comics/?cm=2771">JSA #71</a></em>, <em><a href="http://www.dccomics.com/comics/?cm=2775">Plastic Man #15</a></em>, and <em><a href="http://www.dccomics.com/comics/?cm=2776">Outsiders #22</a></em>. And finally, I'll probably be getting the two Seven Soldiers books, <em><a href="http://www.dccomics.com/comics/?cm=2778">Seven Soldiers: Guardian #1</a></em> and<br />
+<em><a href="http://www.dccomics.com/comics/?cm=2779">Seven Soldiers: Shining Knight #1</a></em>. I just wish the mini-series were not running concurrently.<br />
+<br />
+Johnny DC (95-96): I'll be getting the usual, <em><a href="http://www.dccomics.com/comics/?cm=2785">The Batman Strikes #7</a></em> and <em><a href="http://www.dccomics.com/comics/?cm=2787">Justice League Unlimited #7</a></em>.<br />
+<br />
+DC Library (97-103): Nothing.<br />
+<br />
+Wildstorm (104-111): Also nothing.<br />
+<br />
+Vertigo (112-123): I was tempted by <em><a href="http://www.dccomics.com/comics/?cm=2812">Otherworld #1</a></em>, but I think I'll probably pass on it.<br />
+<br />
+DC Direct (124-132): There's quite a statue there of Superman, Hawkman, and Red Robin from Kingdom Come. And those Bat-Villain action figures look nasty. Amazing that the Penguin actually looks threatening. But, no, nothing here for me.<br />
+<br />
+So that's it for this month's "Things in Previews That Look Interesting But I Can't Afford To Get (with a list of things I am getting just for contrast)". Comments? Questions? Did I miss any really cool books that you know about and would like to point out? Do you disagree with something I wrote, and want to correct me? There's the comments, right below. Post something. And, yes, I accept review copies. I'm willing to give almost anything a try.<br />
+</span></p>
+by Tegan at <a href="#110507029162594160">7:27 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/flipping-through-previews.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110507029162594160&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110507029162594160" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110507029162594160&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="110503012438448471"></span>
+<strong>Rapid Reviews - 5 January 2005</strong>
+<p><span class="rss:item"><strong>New Avengers #2</strong>: "Breakout!" Part Two: This is just another set-up issue, really. But it's beginning to come together into a new origin story. I like the heroes involved, and I like what's being done so far. Not bad. Maybe not quite the Avengers, but not bad. You want an alternate opinion, read the letter column... ho boy! <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Noble Causes #6</strong>: Another strong issue of a strong book. There is a slight discordance in this series due to the fact that Liz came from another universe (in which Race) died to be part of this one. That gets a little hearing in this issue. We also finally find out what's wrong with Doc... it was similar to what I guessed but not quite exactly what I expected. And there's even a Wizard of Oz reference to make hubby happy. Recommended. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>Justice League Unlimited #5</strong>: "Monitor Duty": Ah yes, Blue Beetle. This story does a good job of covering his strengths, in particular his problem-solving skills. And the bit with him trying on other heroes' outfits was hilarious... did he try on Wonder Woman's? My one nit would be about the staffing of the watchtower. In the show, there are tons of people there all the time, including non-powered folks. It doesn't seem likely to me that it would be as deserted as seen in this issue. But that was a minor nit, and this was a fun little tale. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Girl Genius: Agatha Heterodyne and the Monster Engine</strong>: Oh this book is GORGEOUS. I got the hardcover, of course. I'll get it autographed at some future con. I see the Foglios more often than I see my parents. The story in this one deals with everyone finding out who Agatha is, and her escape from them once that happens. This is a wonderful series, and this collection has two extra pages that weren't in the individual issues, as well. Of course, it's missing the secret codes in the back... but I'll live. Highly recommended. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_5_starfish.jpg" data-border="0" width="75" height="15" alt="4 1/2 starfish" /></a><br />
+<br />
+Well. That wasn't very many books. How about some from next week, pulled from the retailer Preview Package?<br />
+<br />
+<strong>JSA #69</strong>: "Guardian Angels": I'm not a big booster of the JSA, since I have such problems following the huge cast. But this was a pretty nice little issue, following the adventures of some of the members of the JSA in the past. Courtney's story in particular is a good read. It should be, since it's the focus story (if there is one). Not bad... still not fantastic, but not bad. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>JLA #110</strong>: "36 Hours: The Calm Before": Ultraman doesn't handle being Superman very well, does he? I find Owlman's hang-ups to be much more interesting, though. I still don't quite understand what they are looking for, or why, but I'm guessing that once this story is done and I reread it, I will enjoy it much more. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Green Arrow #46</strong>: "Teamwork": The artwork was all wrong. Everyone's smiles looked forced... like a grimace. And the faces didn't look right to me. I suppose that's what happens when you get "hot new pencils" on a book. Still, these will take some getting used to. As for the rest of the story... there doesn't seem to be one, really. Mia joins the Titans. Whoopee. Not much to it. Ok, ok, I'm being harsh. For a slice-of-life story, this wasn't too bad. Seeing Mia in action was fun, too. I was just expecting more. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+Coming tonight, my monthly Flipping Through Previews post. I'm <em>almost</em> done writing it, so I think I can safely say I'll post it tonight.<br />
+</span></p>
+by Tegan at <a href="#110503012438448471">8:47 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/rapid-reviews-5-january-2005.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110503012438448471&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110503012438448471" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110503012438448471&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Wednesday, January 05, 2005 <span id="110497204197729839"></span></p>
+<strong>Rapid Reviews - Review Copies</strong>
+<p><span class="rss:item"><img src="http://www.eskimo.com/~tegan/blog/blogpics/shop_sidekicks4.jpg" data-align="right" width="100" height="150" /><strong><a href="http://www.amazon.com/exec/obidos/ASIN/0316734284/theaquamanwebsit">Sidekicks: The Candy Man Cometh</a></strong> (<a href="http://www.amazon.com/exec/obidos/ASIN/0316734276/theaquamanwebsit">hardcover</a>) by <a href="http://www.twbookmark.com/authors/45/2817/index.html">Dan Danko</a> and <a href="http://www.twbookmark.com/authors/46/2818/index.html">Tom Mason</a>: More foreshadowing in this book, and more indications of the unexpected depths to the universe, but the villain in this book wasn't as funny as the previous ones and Guy's problems, while nasty, aren't as bad. Besides the fact that everyone else in this universe is completely nuts, of course. Super Vision Lad was a particularly nice touch. So, who else thinks (spoilers)The Strike is Guy's father?(end spoilers). <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong><a href="http://www.ait-planetlar.com/poc.shtml">Proof of Concept</a></strong>: I wasn't really sure about this one. It's a collection of short stories, but it's also an effort to show how to pitch a story idea. The framing sequence does a nice job of showing what pieces of a story need to be presented to hook a potential reader. The stories varies in interest level for me. <em>Hemogoblin</em>, about the last vampire, and <em>Zombie Dinosaur</em>, about... um... zombie dinosaurs, probably held my interest the most. <em>For The Time Being</em> also held a lot of promise, but something about the story felt "off" to me. Whether it was the artwork or something in the concept that bothered me, I can't really put my finger on it. The only story in the book I didn't really like at all was the final one, <em>The Bod</em>. The art was fine but the concept did nothing for me. As usual, this <a href="http://www.ait-planetlar.com/">AiT/Planet Lar</a> book does exactly what was promised and manages to make it fun, as well. And hey, it might just be worth the price of admission to read a story about a planet full of Abe Lincoln clones... <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+</span></p>
+by Tegan at <a href="#110497204197729839">4:39 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/rapid-reviews-review-copies.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110497204197729839&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110497204197729839" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110497204197729839&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="110496430340378407"></span>
+<strong>Rapid Reviews - 29 December 2004 - Part II</strong>
+<p><span class="rss:item">I suppose I'd better finish off last year's reviews before I start this year's.<br />
+<br />
+<strong>What If Aunt May Had Died Instead Of Uncle Ben?</strong>: Two guys in a comic shop discuss this alternate, and it pretty much reads like something two guys in a comic shop would come up with. There are some really strong parts, and some really fannish parts, and it all works out in the end. Not a bad read at all, and about what you'd expect from the What If event. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>What If General Ross Had Become The Hulk?</strong>: Whoa. This one is excellent start to finish, even if the Hulk has a stupid moustache. I don't really want to give anything away, but I can say that you can always count on Peter David to wrap everything up very nicely when given the chance. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>What If Dr. Doom Had Become The Thing?</strong>: I was not familiar with the origin of Doctor Doom, so the nice first-page recap was very useful. The story itself worked out well, too, with explanations for why the double-brained team didn't prevent the "accident" and also for why Rick Jones wasn't on the test field. Ahem. It was also a bit of a trip to read this one right after reading the Hulk one. Decent. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Supreme Power #14</strong>: "Objects In Motion": Four of them come together, not cheerfully, and take out a bad guy. But now what's the situation? The players know each other, but what will happen now? And what about the others we've sort of, but not quite, met? The book is keeping me interested. I just wish things would happen a wee bit faster. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>Amazing Spider-Man #74/515</strong>: "Skin Deep": An old nerd friend of Peter's takes advantage of his name to get funding. Having been a nerd, and having had someone take advantage of my name before, the story hit me between the eyes. I'm very interested in seeing where this will take Peter, yet I'm cringing all along. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+</span></p>
+by Tegan at <a href="#110496430340378407">2:31 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/rapid-reviews-29-december-2004-part-ii.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110496430340378407&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110496430340378407" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110496430340378407&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="110494751804398200"></span>
+<strong>Morning Random Thoughts</strong>
+<p><span class="rss:item">Please enter <a href="http://realtegan.blogspot.com/2005/01/bloggity-contest-1.html">Bloggity Contest #1</a> if you want a copy of <em>Colonia: Islands and Anomolies</em> by Jeff Nicholson. Deadline is January 20th.<br />
+<br />
+Someone has collected all the <a href="http://www.student.ipfw.edu/~osbodr01/hallmarks/hallmark00.html">Hallmarks of Felinity</a> from the comic strip <a href="http://www.comics.com/comics/chickweed/">9 Chickweed Lane</a>. Yes, they are properly numbered, and up to 187. Via <a href="http://www.metafilter.com/mefi/38366">Metafilter</a>.<br />
+<br />
+Sci-Fi Wire reports that Disney has the feature rights to <a href="http://www.scifi.com/scifiwire2005/index.php?id=30099">John Christopher's Tripod Trilogy</a> and a movie is now in the works with a third writer now taking a shot at the adaptation. I loved this series as a kid, and I'm not sure about any movie based on it made by Disney.<br />
+<br />
+The Guardian visits <a href="http://www.guardian.co.uk/religion/Story/0,2763,1382899,00.html">the modern home of the Templars</a> to find out what they are up to, and gets pretty much nothing.<br />
+<br />
+<a href="http://americanradioworks.publicradio.org/features/y2k/index.html">The Legacy of Y2K</a>. I was in the thick of it for awhile there, watching from just off to the side. There was a lot more to the threat than most people realize even today. As one article put it: "some businesses under-reacted to the problem at first, and then spent more money than they should have scrambling to fix their software." But this <a href="http://it.slashdot.org/article.pl?sid=05/01/05/0216220">Slashdot article</a> also points out there is another bug coming in 2038, this one an artefact of how many seconds can be stored in a piece of data. *sigh*<br />
+<br />
+Don't understand BitTorrent? Here's <a href="http://www.wired.com/wired/archive/13.01/bittorrent.html">BT 101</a>.<br />
+</span></p>
+by Tegan at <a href="#110494751804398200">9:48 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/morning-random-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110494751804398200&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110494751804398200" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110494751804398200&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Tuesday, January 04, 2005 <span id="110490612598629537"></span></p>
+<strong>Random Thought-like Things</strong>
+<p><span class="rss:item">Please enter <a href="http://realtegan.blogspot.com/2005/01/bloggity-contest-1.html">Bloggity Contest #1</a> if you want a copy of <em>Colonia: Islands and Anomolies</em> by Jeff Nicholson. Deadline is January 20th.<br />
+<br />
+Why <a href="http://www.infoworld.com/article/04/12/30/01enterwin_1.html">Microsoft sucks</a>. And this guy had even turned off automatic updates. Ug. Via <a href="http://blog.donnael.com/">Garrett</a>.<br />
+<br />
+Afraid your laptop will be stolen? Put it in <a href="http://slashdot.org/article.pl?sid=05/01/04/147219">a pizza box</a>. heh.<br />
+<br />
+The <a href="http://www.comicon.com/thebeat/archives/2005/01/the_annual_beat.html">biggest comic book stories of 2004</a> according to comic book creators.<br />
+<br />
+Beatrix Potter's classic children's book The Tale of Peter Rabbit has been <a href="http://news.bbc.co.uk/2/hi/entertainment/4137735.stm">translated into ancient Egyptian hieroglyphs</a> by the British Museum. "Beatrix Potter's words sometimes do not readily fall into ancient Egyptian," Richard Parkinson and John Nunn, Translators, wrote in the foreward.<br />
+<br />
+How to <a href="http://www.moneywallet.org/">make a wallet</a> out of 20 crisp new dollar bills. What's in <em>your</em> wallet? via <a href="http://www.boingboing.net/2005/01/04/how_to_weave_a_walle.html">Boing Boing</a>.<br />
+<br />
+A proposal for a <a href="http://www.boingboing.net/2005/01/04/rational_calendar_wi.html">"rational calendar"</a>. I'm not sure I'm keen on it, but it looks interesting.<br />
+<br />
+Johnny B's <a href="http://jbsb.blogspot.com/2005_01_01_jbsb_archive.html#110489785084280412">art tribute to Will Eisner</a>.<br />
+<br />
+Oh my <a href="http://www.livejournal.com/users/pikabellechu/23238.html">pika-pika-CHU!</a> Via <a href="http://www.tangognat.com/index.php?p=524">TangognaT</a>.<br />
+</span></p>
+by Tegan at <a href="#110490612598629537">10:20 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/random-thought-like-things.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110490612598629537&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110490612598629537" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110490612598629537&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="110489638082286875"></span>
+<strong>Rapid Reviews - 29 December 2004 - Part I</strong>
+<p><span class="rss:item"><strong>Samurai Executioner Vol 2</strong>: "Two Bodies, Two Minds": This issue came shrink-wrapped and with a warning label on the cover. I was surprised at first, as I couldn't really imagine that there would be anything in this book worse than in any of Lone Wolf and Cub or the first book, but after reading the first story I think I may understand, especially considering the current climate. I don't really object to warnings for explicit content, as it could save some retailers (who don't have time to read every single book, despite what some people will tell you) some grief if they run into some close-minded idiot who thinks comic books are only for children. Overall, I approve of the action Dark Horse took on this book, although I'm equally aware that if I had come up against a shrink-wrap and warning label when investigating Lone Wolf and Cub, I might have been put off buying it, if not completely at least for a long time. More the shrink-wrap than the warning label, admittedly. I like checking out artwork before making a purchase.<br />
+<br />
+Anyway, this is brutal, as usual. The violence is plain and up front. No punches are pulled when it comes to gore and death. The first story involves a firebug who doesn't realize that she's starting fires. The second is about a man's efforts to save his worthless son from execution. The third is the most interesting. When Asaemon learns that he may have executed an innocent man, he takes action to try to prevent it from ever happening again. At one point, in a conversation between Asaemon and the commissioner of Edo, the purpose of law and punishment is discussed. It was a striking conversation which I wish I could quote in full here, but I'd rather you read it in context. In short, Asaemon believes the law should respect individuals, as they make up the masses... while the commissioner believes the law is above the people. When the conversation moves on to punishment, the commissioner thinks that punishment is meant as retribution and a precaution to other people to not commit crimes. Asaemon replies from a Buddhist perspective of hating the crime, and punishing the crime, but not the criminal. It's a strange sort of philosophical aside, which applies even now, that makes this book better than expected. Another amazing volume from Koike and Kojima. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>Daisy Kutter #4</strong>: "The Last Train Chapter Four": After all is said and done, after the deal that smelled from the beginning went rotten in the last issue, this was a strong finale to this story. Daisy is one of those characters that you want to meet again, yet you'll be happy even if you never see another story about her. And while the ending isn't entirely happy, it's completely satisfying. This series was strong from start to finish. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>Wildguard: Fire Power #1</strong>: This story starts with the new team together for the first time doing what they were hired to do, and we get to see the fear of Ignacia, having been picked despite powers that duplicate another member. It's a good angle for a story, and I like the characters picked, particularly Lily and Ignacia. A fun book, be sure to read the letter column. I'm not sure I like the art on the backup story, but that might just be because I'm so used to Todd's work. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>Marvel Age Fantastic Four #10</strong>: "The Return of Doctor Doom": I knew this book had a lot of rehashing of old Fantastic Four stories, but I was still amused when shortly after reading this issue I read about the original tale somewhere else. It's a fun one about Reed and Doom switching brains. A bit simplistic, but I guess I'm expecting that from this book. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Strange #3</strong>: I'm not entirely sure what is happening here, except that Strange is being introduced to magic and isn't finding it something he can believe in. The cliffhanger is just odd. I'm curious to see what happens in the next issue, if the destruction he's seeing is real or something given to him with his "third eye". <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Legion of Super-Heroes #1</strong>: "And We Are Legion": I have never understood the Legion. I know their origins, because Aquaman appears in the issue of Adventure Comics they first appear in. I knew they were somehow tied in with Superboy, although I wasn't sure how that was done after that first story. But the Science Police never made any sense to me, nor the structure of the Legion itself. For that matter, I never could figure out just what or who they represented. This issue works as a primer on all those questions I had. In short, it's a fine introduction to the Legion. How much of this is "canon" as far as the long-time Legion fans go is a mystery to me, but I'm satisfied with the explanations. And satisfied with the issue too. I didn't intend to get it... didn't, in fact. Hubby-Eric made a special trip to pick it up for himself. But I liked it. Not bad at all. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>JSA: Strange Adventures #5</strong>: "Life of a Madman": I'm just not impressed with this story. Yeah, the story of Lord Dynamo is kind of interesting, but I just can't build up much enthusiasm for him. He doesn't seem like much of a threat. There is always the danger, with superhero books, of being certain that the heroes will win and thus not finding the villains to be threatening. This book seems to go over that edge for me. Cyborg Nazis just don't scare me, and Johnny Thunder has to be the least sympathetic character on the whole team. So ... I'm just not impressed. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_0_starfish.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Teen Titans #19</strong>: "Titans Tomorrow Part Three: East Meets West": I want to know what happened to Tempest! Ahem. Not much of Lorena in this one. I'm still not sure what to think of how the Titans got to this state, but from the final pages I'm thinking it's not quite over, is it? Not enough to get me to keep buying the book, but a fascinating little arc. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+</span></p>
+by Tegan at <a href="#110489638082286875">7:39 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/rapid-reviews-29-december-2004-part-i.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110489638082286875&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110489638082286875" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110489638082286875&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="110485664920480312"></span>
+<strong>No.</strong>
+<p><span class="rss:item"><a href="http://www.willeisner.com/">Will Eisner passed away on January 4th, 2005 at the age of 86 following quadruple bypass heart surgery.</a></span></p>
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/eisner.jpg" width="150" height="230" />
+<blockquote>
+<strong>WILL EISNER: A SPIRITED LIFE</strong><br />
+eNewsletter No. 14<br />
+January 4, 2004<br />
+<br />
+An occasional source of information about legendary artist and writer Will Eisner<br />
+<br />
+By Bob Andelman<br />
+<br />
+Legendary comics and graphic novel artist and writer Will Eisner died last night, Monday, January 3, 2005, in Fort Lauderdale, Florida, at the age of 87, following complications from quadruple heart bypass surgery.<br />
+<br />
+Will Eisner didn't create Superman, Batman, Spider-Man or even Archie and Jughead. Some comic book fans may scratch their heads when asked to describe his work. But every artist and writer in comic books, as well as graphic artists across the entire spectrum of modern illustration, television and film, owes a debt to him.<br />
+<br />
+In 1941, Eisner created a goofball detective named Denny Colt who died (not really) and was reborn as "The Spirit," the cemetery-dwelling protector of the public - and pretty girls in particular. The Spirit possessed no superpowers. He couldn't see through his girlfriend's clothing the way a curious alien like the Man of Steel might scientifically investigate Lois Lane. And he wasn't a brilliant technologist like Batman, imagineering hokey gadgets and psychedelic compounds for all-night parties with the Joker.<br />
+<br />
+The Spirit broke so many molds:<br />
+<br />
+&#10;Eisner was the strip's artist and writer, a feat that is still rare today.<br />
+<br />
+&#10;The Spirit was published and distributed as an insert in Sunday newspapers, ala Parade magazine. It was seen weekly by as many as 5-million people from 1941 to 1952.<br />
+<br />
+&#10;No two Spirit sections looked alike. Although most commercial operations from Superman to Pepsi-Cola spend millions of dollars testing, proving and marketing their logos, Eisner thought it was more challenging to change The Spirit's masthead every week for 12 years.<br />
+<br />
+&#10;The Spirit was a fun, mature read, aimed at adults but accessible to kids.<br />
+<br />
+For all of these reasons, The Spirit was published and reissued in various forms almost uninterrupted for 60 years. Its look, feel and smartass humor is timeless, which accounts for the countless revivals.<br />
+<br />
+Eisner, who went to high school with "Batman" creator Bob Kane, provided first jobs in the comics business to everyone from Jack Kirby (co-creator of "Captain America" and the "Fantastic Four") to Pulitzer-winning writer and artist Jules Feiffer.<br />
+<br />
+If not for Eisner's influence, Pulitzer Prize winner Art Spiegelman might never have published his graphic novel Maus: A Survivor's Tale (Eisner is credited with popularizing - if not inventing - the medium of the graphic novel with the 1978 publication of his graphic story collection, A Contract With God) and fellow Pulitzer Prize-winner Michael Chabon's The Amazing Adventures of Kavalier &amp; Clay would have been missing quite a few Eisner-inspired tales.<br />
+<br />
+For comic book professionals, the highest honor in the industry is either an Eisner Award, named for Eisner and given out every summer at Comic-Con International in San Diego, or a Harvey Award, named for Eisner's late friend Harvey Kurtzman, the creator of Mad magazine and Playboy's "Little Annie Fanny," given every April in Pittsburgh. Kurtzman, who discovered talents as diverse as R. Crumb and Gloria Steinem, passed away in 1993, making Eisner the last man standing.<br />
+<br />
+Literally.<br />
+<br />
+At every Eisner Awards ceremony, each recipient was handed his or her award by the man himself.<br />
+<br />
+Several years ago, a big red velvet chair was put on stage for Eisner. The Eisner Awards promoters said, "Come on, Will, you shouldn't have to stand up all this time; here, have a seat." Eisner sat on it briefly, got a laugh out of it, but then he stood up again, and stayed on his feet the rest of the night. Eisner demonstrated his strength of character and enduring physical wherewithal by standing on stage throughout the entire presentation, shaking hands and personally congratulating the winners. Because there is a different presenter for each award, no one else stood for as long as Eisner.<br />
+<br />
+That's why, when Eisner handed the 2002 Eisner Award for Best Serialized Story (Amazing Spider-Man #30-35: "Coming Home") to writer J. Michael Straczynski and artists John Romita Jr. and Scott Hanna, Straczynski thrust the award in the air and remarked, "You know, you get the Emmy, you don't get it from 'Emmy.' You win the Oscar, you don't get it from 'Oscar.' How freakin' cool is this?"<br />
+<br />
+Published in November 2004, DC Comics' The Will Eisner Companion is the first comprehensive, critical overview of the work of this legendary writer/artist. Divided into two sections - his Spirit work and his graphic novels - this authorized companion features all-new critical and historical essays by noted comics historians N.C. Christopher Couch and Stephen Weiner, as well as alphabetical indexes relating to all aspects and characters in his oeuvre. Also includes a chronology, a bibliography and suggested reading lists, as well as an introduction by Dennis O'Neil.<br />
+<br />
+A new generation of comics fans learned about the man in the 1970s when underground comix publisher Denis Kitchen began reprinting "The Spirit" stories and eventually produced new stories of the character by top comic book talent including Alan Moore, Dave Gibbons and Neil Gaiman. Kitchen became one of Eisner's closest friends and confidants, as well as his personal representative and literary agent (with Judith Hansen). (Kitchen can be reached via email at denis@deniskitchen.com.)<br />
+<br />
+More recently, "John Law," a 56-year-old Will Eisner character, was given fresh life and adventures in 2002 by Australian artist and writer Gary Chaloner as an online comic book hero at ModernTales.com. In December 2004, Law returned to print in IDW Publishing's "Will Eisner's John Law" hardcover trade paperback. These stories were the first original John Law adventures published since Eisner worked on the character in 1948. This edition includes both new material and classic John Law tales by Eisner himself.<br />
+<br />
+And Eisner's final - and likely most controversial - graphic novel, The Plot, finished last summer, will be published this spring by W.W. Norton.<br />
+<br />
+Will Eisner was the wizard behind the curtain, except in his case, the magic was real.<br />
+<br />
+There will be no funeral service, per Will's wishes. "Will and I hated funerals," his wife, Ann, said the morning after his death. "We made plans long ago to avoid having them ourselves." He will be buried next to his late daughter, Alice, who died in 1969. Surviving Will are his wife, Ann, and his son, John.<br />
+<br />
+Cards may be sent to:<br />
+Will Eisner Studios<br />
+8333 W. McNab Road<br />
+Tamarac, FL 33321<br />
+<br />
+Unofficially, in lieu of flowers, you might consider a donation in Will's name to the American Cancer Society - his daughter died of cancer - or the Comic Book Legal Defense Fund, which Will was known to have supported.<br />
+<br />
+On a personal note, I am crushed. Will and I started working on what began as an autobiography and morphed into an authorized biography three years ago this month. His friendship and camaraderie was like none other. (Will Eisner: A Spirited Life will be published in July for Dark Horse Comics' new M Press imprint.)<br />
+<br />
+In the days to come, if you'd like to share a story or a thought about Will and need an outlet, I'll make this newsletter available to anyone who'd care to contribute. Just reply to ASpiritedLife@tampabay.rr.com and I'll share your words with an international audience of Eisner fans and media.<br />
+<br />
+Today is a very sad day for the the world of arts and letters.<br />
+<br />
+MEDIA: You may quote freely from this obituary, as long as credit is given to Bob Andelman, author of the authorized biography, Will Eisner: A Spirited Life.<br />
+<br />
+WILL EISNER LINKS<br />
+<br />
+Will Eisner Official Site; Who is Will Eisner?<br />
+<a href="http://www.willeisner.com">http://www.willeisner.com</a><br />
+<br />
+Fagin the Jew, Doubleday Books<br />
+<a href="http://www.randomhouse.com/doubleday/catalog/display.pperl?0385510098">http://www.randomhouse.com/doubleday/catalog/display.pperl?0385510098</a><br />
+<br />
+Will Eisner's John Law, New Adventures Online<br />
+<a href="http://www.johnlaw.us.com">http://www.johnlaw.us.com</a><br />
+<br />
+Wildwood Cemetery: The Spirit Database<br />
+<a href="http://www.angelfire.com/art/wildwood/">http://www.angelfire.com/art/wildwood/</a><br />
+<br />
+Will Eisner Original Art For Sale<br />
+<a href="http://deniskitchen.com/">http://deniskitchen.com/</a><br />
+<br />
+DC Comics' Will Eisner Library<br />
+<a href="http://www.dccomics.com/graphic_novels/dc_category.html?cat=eisner">http://www.dccomics.com/graphic_novels/dc_category.html?cat=eisner</a><br />
+<br />
+Dark Horse Comics<br />
+<a href="http://darkhorse.com">http://darkhorse.com</a><br />
+<br />
+NBM Publishing<br />
+<a href="http://www.nbmpub.com/fairytales/eisner/eisnerhome.html">http://www.nbmpub.com/fairytales/eisner/eisnerhome.html</a><br />
+<br />
+PODGallery<br />
+<a href="http://www.podgallery.com/eisner">http://www.podgallery.com/eisner</a><br />
+<br />
+The Spirit Checklist<br />
+<a href="http://www.luckymojo.com/spiritchecklist.html">http://www.luckymojo.com/spiritchecklist.html</a><br />
+<br />
+Rare Eisner: Making of a Genius<br />
+<a href="http://www.comicartville.com/rareeisner.htm">http://www.comicartville.com/rareeisner.htm</a><br />
+<br />
+Kitchen &amp; Hansen Literary Agency<br />
+<a href="http://www.kitchenandhansen.com">http://www.kitchenandhansen.com</a><br />
+<br />
+Who is Bob Andelman, Anyway?<br />
+<a href="http://www.andelman.com">http://www.andelman.com</a><br />
+<br />
+Please share the "Will Eisner: A Spirited Life eNewsletter" with your friends.
+</blockquote>
+<p>Laura's Thoughts: I have no stories to tell of Eisner. I met him once, at San Diego 2000. Actually, I ran into him a bit earlier, but I only actually met him right before the Eisner Awards started.<br />
+<br />
+I think the earlier incident says more about him. I was wandering around during the panels in the upper section. All the doors were closed, and I was looking for a particular person who was supposed to be waiting outside a panel. I turned a corner and sitting on a bench was a very old man with a younger guy. They were deep in conversation, and the image of them burned itself into my mind at that moment. The older man was clearly teaching, and the younger man's eye shone with something akin to worship... certainly respect and a thrill. I realized that if I stayed they would notice me and I would break up the moment, so I quietly turned around and left.<br />
+<br />
+Later in the con I was introduced to Will Eisner by Nick Cardy, and I recognized him as the older man I had seen in the hall. I didn't even get to shake his hand, but I feel like I knew him. He was one of the good guys.<br />
+<br />
+As I was thinking about this today, I remembered a Kipling poem... I like to think of Eisner sitting in a golden chair, splashing at a ten-league canvas. He never stopped making art while he was with us, I don't see him stopping now.</p>
+<blockquote>
+L'Envoi To "The Seven Seas"<br />
+Rudyard Kipling, 1892<br />
+<br />
+When Earth's last picture is painted and the tubes are twisted and dried,<br />
+When the oldest colours have faded, and the youngest critic has died,<br />
+We shall rest, and, faith, we shall need it -- lie down for an aeon or two,<br />
+Till the Master of All Good Workmen shall put us to work anew.<br />
+And those that were good shall be happy; they shall sit in a golden chair;<br />
+They shall splash at a ten-league canvas with brushes of comets' hair.<br />
+They shall find real saints to draw from -- Magdalene, Peter, and Paul;<br />
+They shall work for an age at a sitting and never be tired at all!<br />
+<br />
+And only The Master shall praise us, and only The Master shall blame;<br />
+And no one shall work for money, and no one shall work for fame,<br />
+But each for the joy of the working, and each, in his separate star,<br />
+Shall draw the Thing as he sees It for the God of Things as They are!
+</blockquote>
+by Tegan at <a href="#110485664920480312">8:36 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/no.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110485664920480312&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110485664920480312" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110485664920480312&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Monday, January 03, 2005 <span id="110481925654149122"></span></p>
+<strong>Random Thoughts</strong>
+<p><span class="rss:item"><a href="http://danstheman.com/Jenny.htm">867-5309</a> tested in every area code. So you don't have to. Via <a href="http://www.metafilter.com/mefi/38321">mefi</a>.<br />
+<br />
+<a href="http://www.boingboing.net/2005/01/03/fortune_on_blogs_and.html">Don't bite the karmic weenie</a>. Fortune Magazine covers blogs.<br />
+<br />
+Boing Boing quotes <a href="http://www.boingboing.net/2005/01/03/charles_darwin_on_ts.html">Charles Darwin on Tsunamis (1835)</a>.<br />
+<br />
+<a href="http://science.slashdot.org/article.pl?sid=05/01/03/187227">The Rover</a> outlasts predictions... it was supposed to last three months, and now it's a year old.<br />
+<br />
+<a href="http://progressiveruin.com/archives/2005_01_02_archive.html#110472464465903976">Jimmy Olsen, Boy Nazi</a>.<br />
+<br />
+<a href="http://www.livejournal.com/users/evandorkin/49533.html">Evan Dorkin Reproduces</a>.<br />
+<br />
+The truly interesting thing on <a href="http://www.comicon.com/thebeat/archives/2005/01/i_sense_a_distu.html">this post on The Beat</a> is Jim Ottaviani's comment about a bump in sales after being mentioned on Boing Boing. Perhaps us comic bloggers need to get Boing Boing to notice our favorite comics? Yeah, like they'll mention Aquaman in a positive light.<br />
+<br />
+Check out this <a href="http://www.bigfanboy.com/pages/creators/kurtz2004/kurtz2004.html">amusing interview of Scott Kurtz</a>.<br />
+<br />
+You <em>must</em> try this <a href="http://www.ratbike.org/tspotsim/index.html">Train Spotting Simulator</a>.<br />
+</span></p>
+by Tegan at <a href="#110481925654149122">10:13 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/random-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110481925654149122&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110481925654149122" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110481925654149122&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="110477971928029459"></span>
+<strong>Bloggity Contest #1</strong>
+<p><span class="rss:item">Still working on last week's reviews, so I thought I'd post that promised contest instead. At the end of December, it seemed like every blogger was posting a giveaway book. I have had a book to give away for some time, but hadn't decided how to go about it yet. I finally came up with a contest idea based on some recent news and using the examples of other blogger contests.<br />
+<br />
+The Prize: <strong><em>Colonia: Islands and Anomolies</em> by Jeff Nicholson.</strong></span></p>
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/shop_colonia.jpg" width="100" height="150" />
+<p>This copy was graciously donated by the ever-generous Larry Young, who didn't know I already had one. Since this is a great book that I'd love to share, the goal of this contest is to get it into the hands of somebody who'll appreciate it.<br />
+<br />
+The Contest: Write a micro-essay, no more than 50 words, on why/how comic books are good for using as educational tools. The shorter the entry, the better, but please make your point. I'll be looking for a strong argument written in a witty style. The winning entry will be posted on this blog with the contest winner announcement.<br />
+<br />
+Send your entries to <a href="mailto:emeraldtegan@comcast.net?subject=Bloggity%20Contest%20#1">emeraldtegan@comcast.net</a> with a subject line of Bloggity Contest #1. Include your name and your entry. I'll only ask for an address from the winner.<br />
+<br />
+The deadline is my birthday, January 20th. If I have at least five entries by 9pm Pacific on that day, I'll declare the contest closed and pick a winner over the weekend.<br />
+<br />
+<em>Shipping issues: I'll ship free to anywhere in North America, but if you live a little further out, I may ask if you can help with the shipping costs. I apologize, but I've been burned shipping out of country a few too many times.</em><br />
+</p>
+by Tegan at <a href="#110477971928029459">11:14 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/bloggity-contest-1.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110477971928029459&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110477971928029459" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110477971928029459&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="110477766832426810"></span>
+<strong>Happy Birthday Mom!</strong>
+<p><span class="rss:item">A happy and quiet day to you. I notice the sun is out, so at least you can catch a few rays today.<br />
+</span></p>
+by Tegan at <a href="#110477766832426810">10:40 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/happy-birthday-mom.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110477766832426810&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110477766832426810" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110477766832426810&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Sunday, January 02, 2005 <span id="110471103106784898"></span></p>
+<strong>Short Random Thoughts</strong>
+<p><span class="rss:item">DeMatteis talks <em>Abadazad</em> at <a href="http://www.sequentialtart.com/jmdematteis.shtml">Sequential Tart</a>.<br />
+<br />
+Polite Dissent has a unique <a href="http://politedissent.com/archives/496">2004 retrospective</a>.<br />
+<br />
+Johnny B does <a href="http://johnnybacardi.blogspot.com/2004/12/end-of-year-is-nigh.html">his year-end round-ups</a>.<br />
+<br />
+Franklin Harris on <a href="http://franklinharris.blogspot.com/2004/12/how-to-get-ahead-in-comics-publishing.html">publishing comics</a>.<br />
+</span></p>
+by Tegan at <a href="#110471103106784898">4:10 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/short-random-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110471103106784898&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110471103106784898" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110471103106784898&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="110470711881796646"></span>
+<strong>Freedom of Speech and Comments</strong>
+<p><span class="rss:item">I've been having some trouble with comments lately. This note is only to those people who have had comments deleted from this blog. Everyone else can read it and be amused/annoyed/appalled/whatever.<br />
+<br />
+<em>Bill of Rights: Amendment I: <strong>Congress</strong> shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the government for a redress of grievances.</em> (emphasis mine)<br />
+<br />
+Apparently a lot of people simply don't understand the first amendment. See, if you read it, it is restricting CONGRESS from censoring speech. The first amendment applies to the GOVERNMENT. Ok, you got that?<br />
+<br />
+This is a PRIVATE blog. It is not run by the government. Ok, you got that?<br />
+<br />
+The first amendment DOESN'T APPLY to the comments on this blog. See, the person deleting them is ME, not the government. I know that may be a bit difficult for someone of your limited intelligence to understand, but your comments are NOT protected speech.<br />
+<br />
+If I find any comment to be inappropriate or insulting, I'm going to delete it. Don't complain in another comment, because I'll just delete the complaint and ban you. It's called "get a clue, because I don't give third chances". Just try to remember what you wrote and not be insulting or inappropriate next time. Or even, if you can handle it, don't read my blog. I'm not forcing anyone to read it, you know. You have to come here to read my blog, in fact. So, in my view, you are going out of your way to visit my page and insult me.<br />
+<br />
+For the record, I have never banned anyone who used their real name. I've been tempted, but I never banned them. So all you people complaining about me deleting your comments and banning you... perhaps if you had the courage to actually use your own name I might feel a little sympathy. But I don't have any sympathy for cowards who go to other people's websites to attack anonymously.<br />
+<br />
+If you think this is heavy-handed, cruel, evil, or whatever, then you really <em>really</em> need to go get a life. This is JUST A BLOG. It is not the be-all and end-all of your existence. If your comment isn't read by everyone, it will not doom you to eternal heck. If you are absolutely determined to be heard, GET YOUR OWN BLOG.<br />
+<br />
+I am NOT silencing you. I am only removing you from my blog. There are a million other places for you to write, go write there instead. I don't like being insulted anonymously, so I delete it.<br />
+<br />
+So go cry about being "censored" somewhere else. Go whine about the first amendment to someone else as ignorant as you are. But don't try to keep posting garbage at me under new IP addresses and new made-up names. You just make yourself look even stupider than you already are.<br />
+<br />
+And yes, this applies to Mr "Roof" in Hicksville NY. I'm not close-minded, I just don't think you are worth reading. The more you post, the more you convince me that your beliefs are wrong, and that you yourself are an utter moron. I have contacted your ISP about your harassment, and will contact the police if it continues. Consider yourself warned. Go away.<br />
+</span></p>
+by Tegan at <a href="#110470711881796646">3:03 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/01/freedom-of-speech-and-comments.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110470711881796646&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110470711881796646" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110470711881796646&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr /></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-valign="top" width="25%"><table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc">current</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://realtegan.blogspot.com/">Bloggity-Blog-Blog-Blog</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">archives</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="20041226-20050101.html">12/26/2004 - 01/01/2005</a><br />
+01/02/2005 - 01/08/2005<br />
+<a href="20050109-20050115.html">01/09/2005 - 01/15/2005</a><br />
+<br />
+<a href="2002Archive.html">2002 Archive</a><br />
+<a href="2003Archive.html">2003 Archive</a><br />
+<a href="2004Archive.html">2004 Archive</a><br />
+<a href="2005Archive.html">2005 Archive</a><br />
+</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">other</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://www.eskimo.com/~tegan/aqua/">My Aquaman Website</a><br />
+<a href="20021124-20021130.html#85318589">Why Aquaman?</a><br />
+<a href="sketch/index.html">Aquaman Sketchbook</a><br />
+<br />
+<a href="shop.html">Bookshop</a><br />
+<a href="supportsites.html">Support This Site</a><br />
+<br />
+<a href="rapidreviews.html">Rapid Reviews Index</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#B6B8FC"></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="bloggertemplate59_cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td rowspan="2" data-bgcolor="#036303"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+<td></td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,3 @@
+FireworksApplet 
+
+You need a Java-enabled Web browser!

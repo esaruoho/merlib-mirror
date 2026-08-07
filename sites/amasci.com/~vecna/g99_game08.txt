@@ -1,0 +1,199 @@
+Nix 
+
+Sample Character -- 
+
+Nix the Water Sprite 
+
+ Nix is a water-sprite, preferring warm
+tropical salt water over fresh. He is humanoid 
+ in appearance, except that his fingers and toes are webbed,
+his skin is a light shade of 
+ turquoise, his hair is dark seal-sleek blue-green, his
+silvery eyes have nictating 
+ membranes, and he has gills along the sides of his neck. 
+ He generally wears as little as politeness
+allows, and complains if he is required to 
+ put on anything more than the equivalent of a swimsuit
+or loincloth. 
+ He is able to function equally well
+on land and water, though if he is out of water for 
+ too long, his skin will dry and crack painfully. As Nix
+is a real baby when it comes to 
+ getting hurt, he does his best to avoid it. 
+ Like a river or stream flowing along
+gravity's course of least resistance, Nix is fairly 
+ easygoing. But when he has to make a decision, he dithers
+and dallies and just cannot 
+ make up his mind. 
+ In the water, Nix is a superb swimmer,
+able to move twice as fast as any human. He 
+ also has the ability to speak and hear underwater, even
+when conversing with people 
+ on land. 
+ He is morbidly afraid of fire and
+becomes practically paralyzed with fear if there is 
+ an open flame within a few feet. He's no warrior, though
+he does know how to use a 
+ spear (mostly for fish-hunting). 
+ His hobbies include dolphin-riding
+and pearl collecting, and his spells are of 
+ tremendous help. He knows a wide range of water spells,
+plus several related to fish 
+ and marine life. His collection is worth a lot of money,
+not even counting the various 
+ bits of sunken treasure he's picked up over the years. 
+ Nix cannot hold his booze; a single
+drink is enough to get him dancing around with a 
+ lampshade, hugging complete strangers, and deciding that
+it's the perfect time to 
+ regale everyone with his favorite water-related puns
+and jokes. 
+
+ Got a mental image of Nix? Okay, let's see how all of
+that translates into game terms 
+ ... the following is what Nix's character sheet would
+look like. 
+ (Point costs are shown in parentheses) 
+
+ Name: Nix 
+ Type: Humanoid Water-Sprite 
+ Points: 200 
+
+ ST 10 
+ DX 13 (+30) 
+ IQ 11 (+10) 
+ HT 10 
+
+ Thrust: 1d6-2 
+ Swing: 1d6 
+ Move, ground: 5 
+ Move, swim: 10 
+ Dodge, ground: 5+PD 
+ Dodge, swim: 10+PD 
+ Go: 5.75 
+
+ Description: 
+ Height: 5'10 
+ Weight: 160 
+ Hair: dark blue-green 
+ Skin: light turquoise 
+ Eyes: silvery 
+ Other: gills, webbed fingers and toes 
+
+ Advantages (total + 172) 
+ Third Race (+ 100) Magery 1, Immortality, Duty, 
+ Vulnerability (iron), Weakness (iron),
+Secret, 
+ Patron is unavailable 
+ Magery 2 (+10) 
+ Amphibious (+10) 
+ Gills (+10) 
+ Nictating Membrane (+10) 
+ Speak Underwater (+12) 
+ Super Swimming +1 (+10) 
+ Wealth (+10) 
+
+ Disadvantages (total -53) 
+ Dependency (-10) -- full-water immersion at least 
+ once a week 
+ Indecisive (-10) 
+ Dread (-20), fire 
+ Low Pain Threshold (-10) 
+ Alcohol Intolerance (-3) -- becomes intoxicated 
+ faster than normal, obnoxious drunk,
+loves 
+ everyone 
+
+ Quirks (total -5) 
+ 1. only eats raw fish/shellfish 
+ 2. thinks others don't bathe enough 
+ 3. prefers salt water, tropical islands 
+ 4. doesn't see the sense in clothes 
+ 5. loves water-related puns 
+
+ Skills, non-combat (+12) 
+ (first number is the amount of points spent in the
+skill; last number is the skill level, under which you must roll on 3d6
+in order to succeed at that skill) 
+ 1 Riding, dolphin P/A 12 
+ 4 Swimming P/E 15 
+ 0 Language, Faerie M/A 16 
+ 1 Language, Dolphin M/A 10 
+ 1 Language, English M/A 10 
+ 1/2 Language, Gesture M/E 10 
+ 1 Fishing M/E 11 
+ 1 Marine Biology M/H 9 
+ 1 Surfing P/H 11 
+ 1 Area Knowledge, Avalon M/E 11 
+ 1/2 Area Knowledge, tropical islands M/E 10 
+
+ Skills, Combat (+2) 
+ 1 Spear P/A 12 
+ Parry: none 
+ Damage: 1d6 impaling, +1 if used 2-handed 
+ 1/2 Knife P/E 12 
+ Parry: 5+PD 
+ Damage: 1d6-3 cutting or 1d6-3 impaling 
+ 1/2 Brawling 12 
+ Parry: 8+PD 
+ Damage: 1d6-2 crushing 
+
+ Equipment: 
+ Aside from his loincloth, spear, and the small knife
+he keeps strapped to his calf, Nix wears a pouch around his neck that holds
+the best pearls of his collection (he keeps the rest, plus some assorted
+sunken treasures, in a chest in a grotto off the southern point of Avalon). 
+
+ Skills, Magical (+4) 
+ 2 Magic Jet P/E 14 
+ 2 Spell Throwing, Sphere P/E 14 
+
+ Spells (+ 28) 
+ 1 Seek Water M/H 12 
+ 1 Purify Water M/H 12 
+ 4 Create Water M/H 14 
+ 1 Destroy Water M/H 12 
+ 4 Shape Water M/H 14 
+ 1 Dehydrate M/H 12 
+ 4 Water Jet M/H 14 
+ 4 Water Sphere M/H 14 
+ 1 Whirlpool M/H 12 
+ 1 Waves M/H 12 
+ 1 Beast Soother* M/H 12 
+ 1 Beast Summoning* M/H 12 
+ 1 Beast Speech* M/H 12 
+ 1 Fish Control M/H 12 
+ 1 Mollusk Control M/H 12 
+ 1 Mammal Control** M/H 12 
+
+ * = limited to fish and marine animals only 
+ ** = marine mammals and cetaceans only 
+
+ Spell Damage: 
+ Water Jet: 1d6 knockback per point of energy put 
+ into spell, up to 3 
+ Water Sphere: 1d6-1 crushing per point of energy 
+ put into spell, up to 3 
+ Dehydrate: 1d6-1 per point of energy put into 
+ spell, up to 3; no DR 
+
+ Introduction 
+
+ Quickie GURPS Rules 
+
+ Being a Gargoyle 
+
+ How Combat Works 
+
+ Being of the Third Race 
+
+ How Magic Works 
+
+ Sample Character -- Ilona of Clan
+Vancouver 
+
+ Sample Character -- Nix the Water-Sprite 
+
+ Pre-Generated Character Descriptions 
+
+ E-mail the GM

@@ -1,0 +1,142 @@
+// This file mostly supports the class "aircraft", which keeps track of
+// descriptive info for one aircraft, and also the reservations for the
+// use of that aircraft. The class structure is set up something like
+// this:
+//
+// +---------------------+
+// | class aircraft      |
+// |---------------------|
+// | descriptive         |
+// | fields              |
+// |---------------------|
+// | class               |
+// | reservations        |
+// | (all                |
+// |  reservations       |
+// |  for this aircraft) |
+// +---------------------+
+
+#include <iostream.h>
+#include <time.h>
+#include "time_slot.h"
+#include "reservations.h"
+#include "aircraft.h"
+
+
+
+
+aircraft::aircraft()
+  {
+  ac_unique_id = 0;
+  name[0] = '\0';
+  description = NULL;
+  }
+
+
+
+
+aircraft::aircraft(const new_aircraft ac)
+  {
+  ac_unique_id = ac.ac_unique_id;
+  strcpy(name, ac.name);
+  description = new char [ strlen(ac.description) + 1 ];
+  strcpy(description, ac.description);
+  }
+
+
+
+
+aircraft::~aircraft()
+  {
+  delete [] description;
+  }
+
+
+
+
+void aircraft::update_unique_id(const int unique_id)
+  {
+  ac_unique_id = unique_id;
+  }
+
+
+
+
+void aircraft::update_name(const char new_name[])
+  {
+  strcpy(name, new_name);
+  }
+
+
+
+
+void aircraft::update_description(const char *new_description)
+  {
+  delete [] description;
+  description = new char [ strlen(new_description) + 1 ];
+  strcpy(description, new_description);
+  }
+
+
+
+
+int aircraft::add_res(const time_slot_info info)
+  {
+  return res.add(info);
+  }
+
+
+
+
+int aircraft::get_unique_id()
+  {
+  return ac_unique_id;
+  }
+
+
+
+
+// This function grabs the id/name/description for the aircraft.
+// The calling function is responsible for freeing memory for
+// ac_data.description
+
+new_aircraft aircraft::get_ac_data()
+  {
+  new_aircraft ac_data;
+
+  ac_data.ac_unique_id = ac_unique_id;
+  strcpy(ac_data.name, name);
+  ac_data.description = new char[ strlen(description) + 1 ];
+  strcpy(ac_data.description, description);
+  return ac_data;
+  }
+
+
+
+
+// This function gets aircraft name/id/description, and it creates an
+// array of all reservation data.
+// The calling function will be responsible for freeing memory space
+// for spec.description, and time_slot_info structures.
+
+all_ac_data aircraft::get_all_ac_data()
+  {
+  all_ac_data everything;
+  int res_count;
+
+  everything.spec.ac_unique_id = ac_unique_id;
+  strcpy(everything.spec.name, name);
+  everything.spec.description = new char [ strlen(description) + 1 ];
+  strcpy(everything.spec.description, description);
+  everything.all_res = res.get_all(res_count);
+  everything.res_count = res_count;
+  return everything;
+  }
+
+
+
+
+int aircraft::remove_res(const int slot_unique_id)
+  {
+  return res.remove(slot_unique_id);
+  }

@@ -1,0 +1,29 @@
+LIBRARY     PM.DLL
+
+EXPORTS
+    DllEntryPoint                 @15  
+    pm_atmosphere                 @4   
+    pm_bullet_cd                  @6   
+    pm_bullet_sect_dens           @5   
+    pm_constant_get_boolean       @9   
+    pm_constant_get_double        @7   
+    pm_constant_get_integer       @8   
+    pm_constant_set_boolean       @12  
+    pm_constant_set_double        @10  
+    pm_constant_set_integer       @11  
+    pm_convert_units              @23  
+    pm_drag_cd                    @3   
+    pm_get_error_string           @14  
+    pm_get_last_error             @13  
+    pm_get_value                  @22  
+    pm_output_drop                @1   
+    pm_output_windage             @2   
+    pm_set_value                  @21  
+    pm_trajectory                 @20  
+    pm_trajectory_count           @16  
+    pm_trajectory_get_option      @18  
+    pm_trajectory_set_option      @19  
+    pm_trajectory_size            @17  
+    pm_version_date               @25  
+    pm_version_info               @24  
+    pm_wind_range                 @26  

@@ -6,7 +6,7 @@ order: 91
 reachable_from_entry: true
 images: 3
 internal_links: 7
-extracted: 2026-08-03T18:11:20Z
+extracted: 2026-08-07T05:52:56Z
 extractor: site_to_paper.py (pandoc)
 ---
 
@@ -24,11 +24,11 @@ extractor: site_to_paper.py (pandoc)
 <td><table data-cellpadding="0" data-summary="Navigation links">
 <tbody>
 <tr>
-<td><strong><a href="http://amasci.com/amateur/coolsci.html">Up to COOLSCI</a></strong>  |</td>
-<td><a href="http://amasci.com/~billb/cgi-bin/guestbook.html">GUESTBOOK</a>  |</td>
-<td><a href="http://amasci.com/unew.html">GOOD STUFF</a>  |</td>
-<td><a href="http://amasci.com/news.html">NEW STUFF</a>  |</td>
-<td><a href="http://amasci.com/search.html">SEARCH</a></td>
+<td><strong><a href="/amateur/coolsci.html">Up to COOLSCI</a></strong>  |</td>
+<td><a href="/~billb/cgi-bin/guestbook.html">GUESTBOOK</a>  |</td>
+<td><a href="/unew.html">GOOD STUFF</a>  |</td>
+<td><a href="/news.html">NEW STUFF</a>  |</td>
+<td><a href="/search.html">SEARCH</a></td>
 </tr>
 </tbody>
 </table></td>
@@ -49,7 +49,7 @@ extractor: site_to_paper.py (pandoc)
 <td style="text-align: left;" width="180" data-summary="google ads" data-valign="top"><pre><code>
 &#10;
 </code></pre>
-<img src="http://amasci.com/graphics/vertstr7.gif" data-align="right" /></td>
+<img src="/graphics/vertstr7.gif" data-align="right" /></td>
 <td data-summary="spacer" width="15"> </td>
 <td width="800" data-summary="best science archives"><h2 id="explore-these-massive-time-sucking-indexes-of-coolsci">Explore these Massive, time-sucking indexes of CoolSci:</h2>
 <blockquote>
@@ -169,9 +169,9 @@ NPR Radio's TALK OF THE NATION: <a href="http://www.sciencefriday.com" rel="nofo
 ------------------------------------------------------------------------
 
 Updated 01/08/2010\
-<http://amasci.com/amateur/coolidx.html>\
-Created and maintained by [Bill Beaty](http://amasci.com/billb.html).\
-Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\
+[/amateur/coolidx.html](/amateur/coolidx.html)\
+Created and maintained by [Bill Beaty](/billb.html).\
+Mail me at: [<img src="/graphics/abc.gif" data-border="0" width="141" height="19" />](/amfrm/).\
 
 <div class="statcounter">
 

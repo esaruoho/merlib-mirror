@@ -1,0 +1,1115 @@
+---
+title: "Pull 13 -- Deer Run Weight Pull -- Day 1"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0102/Pull13.html
+order: 7362
+reachable_from_entry: false
+images: 0
+internal_links: 4
+extracted: 2026-08-07T05:59:59Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 13 -- Deer Run Weight Pull -- Day 1
+
+*Source page: `~samoyed/iwpa/0102/Pull13.html`*
+
+Deer Run Weight Pull\
+Sheet Iron Roof Road, Gardners, Pennsylvania
+============================================
+
+Pull: 13
+
+Organizer(s):Carolyn Brandt
+
+Wheels on Dirt Region: 5
+
+Track:
+
+Grassy-dirt. Rocky and a little moist.
+
+Date: Sat 15 Sep 2001
+
+Weather:
+
+Beautiful - Sunny - cool with a high of 60F.
+
+Day 1 of 2
+
+<div align="center">
+
+<table data-border="1" data-cellpadding="2" data-bordercolorlight="#0000FF" data-cellspacing="1" data-bordercolordark="FF0000">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2">Color<br />
+Codes</td>
+<td><em><strong>%</strong></em> -- Working Dog (WD) Leg Eligibility</td>
+<td data-bgcolor="#FFFF00">WD</td>
+<td data-bgcolor="#00FFFF">WD Excellent</td>
+<td data-bgcolor="#00FF00">WD Superior</td>
+</tr>
+<tr>
+<td><strong><em>Handler</em></strong> -- Owner / Handler relationship</td>
+<td><p>Owner</p></td>
+<td data-bgcolor="#FFFF00">Family Member</td>
+<td data-bgcolor="#00FFFF">Other Membership</td>
+</tr>
+</tbody>
+</table>
+
+Chief Judge: Steve Jackson
+
+</div>
+
+20 \# Class\
+Judged by Huck Bothner Apprenticing under Steve Jackson\
+70 \# Start weight, 45 \# Increment, Cart weighs 70 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Buddie
+
+5
+
+No Pull
+
+12
+
+.
+
+0.0
+
+Carolyn Brandt
+
+Terrier
+
+40 \# Class\
+Judged by Steve Jackson Apprenticing under Wendy Leister\
+200 \# Start weight, 45 \# Increment, Cart weighs 70 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Bella
+
+5
+
+700
+
+5.01
+
+36
+
+19.44
+
+8.0
+
+Robert Viereck
+
+Am. PitBull Terrier
+
+Took
+
+5
+
+570
+
+7.85
+
+40
+
+14.25
+
+5.0
+
+Noel Palmer
+
+Am. PitBull Terrier
+
+Gypsy
+
+11
+
+480
+
+7.07
+
+40
+
+12.00
+
+2.0
+
+Stephanie Coleman
+
+Am. PitBull Terrier
+
+Queen
+
+5
+
+435
+
+9.29
+
+40
+
+10.88
+
+0.5
+
+Noel Palmer
+
+Am. Staffordshire Terrier
+
+60 \# Class\
+Judged by Ron Poitras\
+300 \# Start weight, 45 \# Increment, Cart weighs 300 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Cody
+
+11
+
+1110
+
+8.03
+
+57
+
+19.47
+
+17.0
+
+Larry Brillhart
+
+Siberian Husky
+
+Starbuck
+
+5
+
+1020
+
+20.77
+
+54
+
+18.89
+
+14.0
+
+Steve Jackson
+
+Alaskan Husky
+
+Star
+
+11
+
+930
+
+11.47
+
+56
+
+16.61
+
+11.0
+
+Pam Brillhart\
+Larry Brillhart
+
+Alaskan Husky
+
+Ginger
+
+7
+
+930
+
+14.59
+
+55
+
+16.91
+
+9.0
+
+Debbie Lee
+
+Am. PitBull Terrier
+
+Kindr
+
+5
+
+750
+
+10.73
+
+58
+
+12.93
+
+8.0
+
+Debi Pruznick
+
+Samoyed
+
+Katy
+
+11
+
+750
+
+13.69
+
+56
+
+13.39
+
+7.0
+
+Pam Brillhart
+
+Siberian Husky
+
+Victor
+
+5
+
+660
+
+8.76
+
+51
+
+12.94
+
+6.0
+
+Carolyn Brandt
+
+Siberian Husky
+
+Jack
+
+5
+
+570
+
+9.38
+
+51
+
+11.18
+
+5.0
+
+Carolyn Brandt
+
+Siberian Husky
+
+Thorn
+
+5
+
+480
+
+7.95
+
+50
+
+9.60
+
+4.0
+
+Jackie Baker
+
+Siberian Husky
+
+Maggie
+
+11
+
+480
+
+14.83
+
+50
+
+9.60
+
+3.0
+
+Stephanie Coleman
+
+Am. PitBull Terrier
+
+Jewel
+
+5
+
+390
+
+5.29
+
+50
+
+7.80
+
+2.0
+
+Tom Baker
+
+Siberian Husky
+
+Zorro
+
+5
+
+390
+
+7.75
+
+57
+
+6.84
+
+1.0
+
+Steve Jackson
+
+Siberian Husky
+
+Opal
+
+5
+
+300
+
+66.50
+
+50
+
+6.00
+
+0.5
+
+Brandon Lutz\
+Steve Jackson
+
+Siberian Husky
+
+80 \# Class\
+Judged by Jim Dodds\
+300 \# Start weight, 90 \# Increment, Cart weighs 300 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Shane
+
+11
+
+1290
+
+33.48
+
+79
+
+16.33
+
+17.0
+
+Dave Coleman
+
+Am. PitBull Terrier
+
+Babe
+
+5
+
+1290
+
+52.70
+
+75
+
+17.20
+
+14.0
+
+Ron Poitras
+
+Am. Bull Dog
+
+Xena
+
+11
+
+1110
+
+18.62
+
+80
+
+13.88
+
+11.0
+
+Carol Dodds\
+Shannon Turner Dodds
+
+Alaskan Malamute
+
+Loki
+
+5
+
+1110
+
+28.22
+
+75
+
+14.80
+
+9.0
+
+Melanie Morehouse
+
+Alaskan mix
+
+Boogieman
+
+11
+
+1110
+
+61.82
+
+78
+
+14.23
+
+8.0
+
+Dwayne Phipps
+
+Am. Bull Dog
+
+Yuengling
+
+5
+
+1020
+
+13.45
+
+75
+
+13.60
+
+7.0
+
+Steve Jackson
+
+German Shepherd
+
+Bobbie-Sue
+
+7
+
+1020
+
+31.06
+
+79
+
+12.91
+
+6.0
+
+Tracy Lee\
+Debbie Lee
+
+Am. Bull Dog
+
+Tyler
+
+11
+
+930
+
+10.18
+
+65
+
+14.31
+
+5.0
+
+Larry Brillhart
+
+Siberian Husky
+
+Darla
+
+11
+
+840
+
+7.12
+
+77
+
+10.91
+
+4.0
+
+Dave Coleman\
+Stephanie Coleman
+
+Am. Bull Dog
+
+Reno
+
+P
+
+840
+
+7.45
+
+77
+
+10.91
+
+.
+
+James Hullander
+
+Am. PitBull Terrier
+
+Rocky
+
+11
+
+840
+
+9.99
+
+62
+
+13.55
+
+2.0
+
+Larry Brillhart
+
+Alaskan Husky
+
+Shasta
+
+5
+
+570
+
+11.57
+
+78
+
+7.31
+
+1.0
+
+Valarie Thawley\
+Barbara Lichota
+
+Alaskan Malamute
+
+Princess
+
+5
+
+480
+
+7.13
+
+75
+
+6.40
+
+0.5
+
+Barbara Pisch
+
+Alaskan Malamute
+
+100 \# Class\
+Judged by Steve Jackson\
+300 \# Start weight, 90 \# Increment, Cart weighs 300 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Nitro
+
+11
+
+1740
+
+16.70
+
+86
+
+20.23
+
+12.0
+
+Dwayne Phipps
+
+Am. Bull Dog
+
+Moose
+
+11
+
+1290
+
+32.00
+
+89
+
+14.49
+
+9.0
+
+Dave Coleman
+
+Am. Bull Dog
+
+Thor
+
+5
+
+1110
+
+18.67
+
+89
+
+12.47
+
+6.0
+
+Ron Poitras
+
+Am. Bull Dog
+
+Dozer
+
+11
+
+1110
+
+26.74
+
+82
+
+13.54
+
+4.0
+
+Stephanie Coleman
+
+Am. Bull Dog
+
+Bravo
+
+5
+
+1020
+
+40.93
+
+95
+
+10.74
+
+3.0
+
+Barbara Pisch
+
+Alaskan Malamute
+
+Jazz
+
+5
+
+840
+
+8.86
+
+92
+
+9.13
+
+2.0
+
+Carlene Way
+
+Alaskan Malamute
+
+Balder
+
+5
+
+660
+
+37.53
+
+90
+
+7.33
+
+1.0
+
+Fabiann Conlan
+
+Alaskan Malamute
+
+Jack
+
+11
+
+570
+
+8.63
+
+90
+
+6.33
+
+0.5
+
+Huck Bothner
+
+Mixed
+
+125 \# Class\
+Judged by Steve Jackson\
+435 \# Start weight, 135 \# Increment, Cart weighs 300 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Bogie
+
+11
+
+1515
+
+41.24
+
+119
+
+12.73
+
+9.0
+
+Brenda Lemon
+
+Alaskan Malamute
+
+Sarg
+
+11
+
+1515
+
+41.43
+
+110
+
+13.77
+
+6.0
+
+Larry Brillhart
+
+Alaskan Malamute
+
+Sarg won the tie. In the previous round, Sarg pulled 1380# in 7.14 and Ralph pulled 1380# in 13.83
+
+Ralph
+
+11
+
+1515
+
+41.43
+
+121
+
+12.52
+
+3.0
+
+Huck Bothner
+
+Gr. Swiss Mtn. Dog
+
+Sarg won the tie. In the previous round, Sarg pulled 1380# in 7.14 and Ralph pulled 1380# in 13.83 .
+
+Atom
+
+11
+
+1110
+
+32.66
+
+106
+
+10.47
+
+1.0
+
+Dwayne Phipps
+
+Am. Bull Dog
+
+Rex
+
+11
+
+570
+
+14.43
+
+121
+
+4.71
+
+0.5
+
+Huck Bothner
+
+Gr. Swiss Mtn. Dog
+
+150 \# Class\
+Judged by Steve Jackson\
+435 \# Start weight, 135 \# Increment, Cart weighs 300 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Largo
+
+11
+
+1650
+
+29.46
+
+130
+
+12.69
+
+5.0
+
+Carol Dodds
+
+Tibetan Mastiff
+
+Unlimited Class\
+Judged by Steve Jackson\
+435 \# Start weight, 135 \# Increment, Cart weighs 300 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Butkus
+
+7
+
+2055
+
+14.01
+
+152
+
+13.52
+
+6.0
+
+Debbie Lee
+
+Mastiff/Bernard
+
+Cleatus
+
+7
+
+1920
+
+13.89
+
+155
+
+12.39
+
+3.0
+
+Terry Lee\
+Debbie Lee
+
+Mastiff/Bernard
+
+Last Updated: 00:51:46 on 02-02-2002
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull12.html) | [Next Pull \#](Pull14.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

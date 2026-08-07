@@ -1,0 +1,249 @@
+<HTML>
+<HEAD>
+<TITLE>UnofficialBMW</TITLE>
+
+<script language="JavaScript">
+<!--
+var loaded=false;
+function link(sel)
+{
+  var x=sel.options[sel.selectedIndex].value;
+  if (x.length>0)
+  {
+     if (x=="all")
+     {
+        var query="";
+        for (var i=2;i<(sel.options.length-2);i++)
+        {
+           var h=sel.options[i].value.substring(1);
+           if (h.indexOf("dejanews")<0)
+           {  
+              query+=(":"+h);
+           }
+        }
+        sel.selectedIndex=0;
+        var y="/allonone.cgi?"+query.substring(1);  
+        top.main.location=y;
+     }
+     else
+        if (x.indexOf("store")>=0)
+           top.location=x;
+        else
+           top.location=x;
+          // top.main.location=x;
+     }
+}
+
+function moveup(x)
+{
+  if (x>0)
+  {
+     logo.style.posTop-=5;
+     setTimeout("moveup("+(x-5)+")",1);
+  }
+}
+
+function movedown(x)
+{
+  if (x>0)
+  {
+     logo.style.posTop+=5;
+     setTimeout("movedown("+(x-5)+")",1);
+  }
+}
+
+function cover(n)
+{
+  movedown(45);
+} 
+
+function uncover(n)
+{
+  document.cutout.src="/images/cutout"+(n+1)+".gif";
+  moveup(45);
+}
+
+//   --></script>
+
+</HEAD>
+
+<BODY TEXT="#FFFFFF" BGCOLOR="#000000" LINK="#FFFFFF" VLINK="#FFFFFF">
+
+<P><TABLE BORDER=0 CELLSPACING=0>
+   <TR>
+      <TD VALIGN=top WIDTH=145>
+         <P><FONT FACE="Arial"><a href="http://www.unofficialbmw.com/pageone.html" TARGET="main">
+         <IMG SRC="http://www.unofficialbmw.com/images/logo2.gif" WIDTH=141
+         HEIGHT=69 X-SAS-UseImageWidth X-SAS-UseImageHeight
+         ALIGN=top></a> </FONT></P>
+         
+         <P><B><FONT FACE="Arial" COLOR="#FFFFFF">Search This
+         Site</FONT></B>
+         <FONT FACE="Arial" COLOR="#FFFFFF">
+<form action="http://www.eskimo.com/cgi-bin/rslsearch2.cgi" method="POST" target="w_srch">
+<input type="text"   name="query" size=10>
+<input type="hidden" name="user" value="dalus">
+<input type="hidden" name="title" value="Unofficial BMW Search Results">
+<input type="submit" value="Search!">
+</form>
+         </FONT></P>
+
+<!--         
+         <P><B><FONT FACE="Arial" COLOR="#FFFFFF">Unofficial BMW<BR>
+         Homepages
+-->         
+<!--     <FORM action="" method="POST" name="f1"><left><span       onmouseover="uncover(3)"  onmouseout="cover(3)"> -->
+         <FORM action="" method="POST" name="f1">
+         <SELECT NAME="homepage" width=14 onchange="link(this)">
+            <OPTION VALUE="http://www.unofficialbmw.com/main.html">Click Here
+            <OPTION VALUE="http://www.unofficialbmw.com/frame_ron.html">Ron Stygar
+            <OPTION VALUE="http://www.unofficialbmw.com/frame_carl.html">Carl Buckland
+            <OPTION VALUE="http://www.unofficialbmw.com/main.html">
+            <OPTION VALUE="http://www.unofficialbmw.com/frame_3.html">3-Series
+            <OPTION VALUE="http://www.unofficialbmw.com/frame_5.html">5-Series
+            <OPTION VALUE="http://www.unofficialbmw.com/frame_6.html">6-Series
+            <OPTION VALUE="http://www.unofficialbmw.com/frame_7.html">7-Series
+            <OPTION VALUE="http://www.unofficialbmw.com/frame_8.html">8-Series
+            <OPTION VALUE="http://www.unofficialbmw.com/frame_M.html">M Cars
+            <OPTION VALUE="http://www.unofficialbmw.com/frame_Z.html">Z Cars
+            <OPTION VALUE="http://www.unofficialbmw.com/frame_X.html">X SAV
+            <OPTION VALUE="http://www.unofficialbmw.com/main.html">
+	 </SELECT></span>
+	 </form><FORM action="" method="POST" name="f1">
+         <SELECT NAME="homepage" width=14 onchange="link(this)">
+          <OPTION VALUE="http://www.unofficialbmw.com/frame_e30.html">84-91 3Series
+          <OPTION VALUE="http://www.unofficialbmw.com/frame_e36.html">92-99 3Series
+          <OPTION VALUE="http://www.unofficialbmw.com/frame_e46.html">99-02 3Series
+          <OPTION VALUE="http://www.unofficialbmw.com/frame_e12.html">76-81 5Series
+          <OPTION VALUE="http://www.unofficialbmw.com/frame_e28.html">82-88 5Series
+          <OPTION VALUE="http://www.unofficialbmw.com/frame_e34.html">89-95 5Series
+          <OPTION VALUE="http://www.unofficialbmw.com/frame_e39.html">97-02 5Series
+          <OPTION VALUE="http://www.unofficialbmw.com/frame_z3.html">96-02 Z3
+          <OPTION VALUE="http://www.unofficialbmw.com/frame_e53.html">00-02 X5
+          <OPTION VALUE="http://www.unofficialbmw.com/frame_all.html">All
+	 </SELECT></span>
+	 </form><FORM action="" method="POST" name="f1">
+         <SELECT NAME="homepage" width=14 onchange="link(this)">
+            <OPTION VALUE="http://www.unofficialbmw.com/main.html">Click Here
+            <OPTION VALUE="http://www.unofficialbmw.com/e12/main.html">E12
+            <OPTION VALUE="http://www.unofficialbmw.com/e28/main.html">E28
+            <OPTION VALUE="http://www.unofficialbmw.com/e30/main.html">E30
+            <OPTION VALUE="http://www.unofficialbmw.com/e34/main.html">E34
+            <OPTION VALUE="http://www.unofficialbmw.com/e36/main.html">E36
+            <OPTION VALUE="http://www.unofficialbmw.com/e39/main.html">E39
+            <OPTION VALUE="http://www.unofficialbmw.com/e46/main.html">E46
+            <OPTION VALUE="http://www.unofficialbmw.com/e53/main.html">X5/E53
+            <OPTION VALUE="http://www.unofficialbmw.com/all/main.html">All
+         </SELECT></span><BR>
+	 </form>         
+
+         <P><B><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="http://www.unofficialbmw.com/whats_new.html"
+         TARGET="main">What's New</A></FONT></B></P>
+         
+         </FONT><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="http://www.unofficialbmw.com/~dalus/search.html"
+         TARGET="main">Search</A></FONT></B></P>
+         
+         </FONT><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="http://www.unofficialbmw.com/bmw_faq.html"
+         TARGET="main">FAQ</A></FONT></B></P>
+         
+         <P><B><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="http://www.unofficialbmw.com/images"
+         TARGET="main">Images</A></FONT></B></P>
+         
+         <P><B><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="books_page.html"
+         TARGET="main">Books</A></FONT></B>
+
+         <P><B><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="tools_page.html"
+         TARGET="main">Tools</A></FONT></B>
+
+         <P><B><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="http://www.unofficialbmw.com/~dalus/cgi-bin/Ultimate.cgi?action=intro"
+         TARGET="main">BulletinBoard</A></FONT></B></P>
+         
+         <P><B><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="http://www.unofficialbmw.com/bmw_parts.html"
+         TARGET="main">Parts</A></FONT></B></P>
+         
+         <P><B><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="http://www.unofficialbmw.com/bmw_used_cars.html"
+         TARGET="main">Used Cars</A></FONT></B></P>
+         
+         <P><B><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="http://www.unofficialbmw.com/classifieds/index.html"
+         TARGET="main">Classifieds</A></FONT></B></P>
+         
+         <P><B><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="http://www.unofficialbmw.com/pageone.html"
+         TARGET="main">Links</A></FONT></B>
+
+         <P><B><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="http://www.unofficialbmw.com/ftp/u/d/dalus/bmw/"
+         TARGET="main">FTP</A></FONT></B></P>
+         
+         <P><B><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="http://www.unofficialbmw.com/advertise.html"
+         TARGET="top">Advertise</A></FONT></B></P>
+         
+<!--         <P><B><FONT FACE="Arial"
+         COLOR="#FFFFFF"><A HREF="http://www.unofficialbmw.com/wagon_nav.html"
+         TARGET="nav">Tourings?</A></FONT></B></P> -->
+
+<p>
+<center>
+
+Search Amazon.com
+<FORM METHOD="get" ACTION="http://www.amazon.com/exec/obidos/external-search">
+
+<TABLE BORDER="0" CELLPADDING="1" cellspacing="0" BGCOLOR="#000000"><TR><TD>
+
+<TABLE BORDER="0" CELLPADDING="2" cellspacing="0" align="left" BGCOLOR="#FFFFFF">
+
+<TR BORDER="0">
+
+<TD BGCOLOR="#FFFFFF" align="left" valign="middle"><font face="verdana,arial,helvetica" size="-2"> 
+
+<SELECT NAME="mode">
+<OPTION VALUE="blended" selected>All Products
+<OPTION VALUE="books">Books
+<OPTION VALUE="music">Popular Music
+<OPTION VALUE="classical-music">Classical Music
+<OPTION VALUE="video">Video
+<OPTION VALUE="toys">Toys & Games
+<OPTION VALUE="electronics">Electronics
+<OPTION VALUE="software">Software
+<OPTION VALUE="universal">Tools & Hardware
+<OPTION VALUE="garden">Lawn & Patio
+<OPTION VALUE="kitchen">Kitchen
+</SELECT>
+</font></TD>
+<TR BORDER="0">
+<TD BGCOLOR="#FFFFFF" align="left" valign="middle"><font face="verdana,arial,helvetica" size="-2">
+<INPUT TYPE="text" NAME="keyword" SIZE="10" VALUE="">
+<INPUT TYPE="hidden" NAME="tag" VALUE="unofficialbmwweb">
+<INPUT TYPE="image" WIDTH="21" HEIGHT="21" BORDER="0" VALUE="Go" NAME="Go" src="http://www.eskimo.com/~dalus/bmw/images/go-button.gif" ALIGN=absmiddle> </font></TD>
+</TR>
+<TR>
+<TD COLSPAN="2" VALIGN="top" ALIGN="center" BGCOLOR="#000000">
+<a href="http://www.amazon.com/exec/obidos/redirect-home/unofficialbmwweb"><IMG width=126 height=32 SRC="http://www.eskimo.com/~dalus/bmw/images/126X32-b-logo.gif" BORDER="0" HSPACE="0"
+VSPACE="0" ALT="In Association with Amazon.com"></a>
+</TD>
+</TR>
+</TABLE></TD></TR></TABLE>
+</FORM> 
+</center>
+         
+      </TD></TR>
+   <TR>
+      <TD WIDTH=145>
+         <P>
+      </TD></TR>
+</TABLE></P>
+<P>&nbsp;</P>
+
+</BODY>
+</HTML>

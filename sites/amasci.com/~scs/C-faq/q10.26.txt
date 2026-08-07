@@ -1,0 +1,54 @@
+Question 10.26 
+
+ Question 10.26 
+ How can I write a macro which takes a variable number of
+arguments?
+
+ One popular trick is to
+define and invoke the macro
+with a single, parenthesized ``argument''
+which in the macro expansion becomes the entire argument list,
+parentheses and all,
+for a function such as printf :
+ #define DEBUG(args) (printf("DEBUG: "), printf args)
+
+ if(n != 0) DEBUG(("n is %d\n", n));
+ The obvious disadvantage
+is that the caller must
+always remember to use the extra parentheses.
+ gcc has an extension
+which allows a function-like macro to accept a variable number of arguments,
+but it's not standard.
+Other
+
+possible
+solutions are
+
+to use
+different macros ( DEBUG1 , DEBUG2 , etc.) depending on
+the number of arguments,
+
+to play
+games
+with commas:
+ #define DEBUG(args) (printf("DEBUG: "), printf(args))
+ #define _ ,
+
+ DEBUG("i = %d" _ i)
+ It is often better
+to use a bona-fide function, which can take a variable number
+of arguments in a well-defined way.
+See questions
+ 15.4 
+and
+ 15.5 .
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

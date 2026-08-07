@@ -1,0 +1,416 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0220.htm
+order: 6665
+reachable_from_entry: false
+images: 19
+internal_links: 0
+extracted: 2026-08-07T05:59:25Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0220.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a.gif" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="95" height="175" alt="Cat Has Had the Time of His Life" /><img src="%20http://www.eskimo.com/~recall/logo2.gif" data-lowsrc=" http://www.eskimo.com/~recall/images/logo2_t.gif" data-align="top" width="250" height="100" alt="Recollection Used Books Logo" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> **What a b what a b what a beauty\
+> What a b what a b what a a\
+> What a beauty beauty be\
+> What a beauty beauty be\
+> What a beauty beauty beauty be be be\
+> What a be what a b what a beauty\
+> What a b what a b what a a\
+> What a be be be be be\
+> What a be be be be be\
+> What a be be be be be be be a beauty be be be\
+> What a beauty.**
+>
+>        *Kurt Schwitters,* "What a b what a b what a beauty"
+
+[]()\
+[]()\
+\
+--
+
+**FEBRUARY 20**
+
+
+
+ANSEL ADAMS\
+Sensitive photographer of natural beauty,\
+celebrant of wild(er)ness.\
+
+
+> > 
+> >
+> > ------------------------------------------------------------------------
+> >
+> > NATIVE AGENTS DAY.
+> >
+> >  []()\
+> > []()\
+> > \
+> > <img src="http://www.cityinsights.com/sfansela.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="187" height="174" alt="?" />\
+> > --
+>
+> ------------------------------------------------------------------------
+>
+> 
+>
+> []()\
+> []()\
+> \
+> 1725 -- North America: 10 sleeping Indians scalped by Capt. Lovewell & troops at Wakefield (in what will be New Hampshire) for scalp bounty. First recorded instance of scalping.\
+>
+> > *"Any white person who brought theelement of civilization had the right to take over this continent."*
+> >
+> >        Ayn Rand
+>
+> []()\
+>
+> 
+>
+> 
+>
+> >  *I am convinced that those societies (as the Indians) which live without government enjoy in their general mass an infinitely greater degree of happiness than those who live under the European governments. Among the former, public opinion is in the place of law, & restrains morals as powerfully as laws ever did anywhere. Among the latter, under pretence of governing they have divided their nations into two classes, wolves & sheep. I do not exaggerate.*
+
+
+
+
+
+--- Thomas Jefferson\
+philosopher, statesman, slave-boffer
+
+
+
+
+
+
+
+[]()\
+\
+1834 -- US: Oneida Community founded in upstate New York, as a communistic community in which work & life are to be shared. Friendly cooperation with the surrounding Indian tribes is actively sought & achieved. []()\
+[]()\
+\
+1839 -- US: Congress prohibits dueling in District of Columbia. []()\
+[]()\
+\
+<img src="http://www.eskimo.com/~recall/bleed/images/ybook.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="59" height="48" alt="?" />\
+1852 -- Emily Dickinson's mock valentine "Sic transit" appears in the "Springfield Republican." []()\
+[]()\
+\
+1863 -- US: Beloved & Respected Comrade Leader President Lincoln makes a proclamation offering lands of the Cowlitz (near Longview) for sale, even through the tribe had never signed a treaty relinquishing them. []()\
+[]()\
+\
+1868 -- Adelaide Barbin, hermaphrodite -- & for 22 years socially acknowledged as a woman -- commits suicide when a French court decides she is a he & must live as one. She could not, her note says, stand the life of men. []()\
+[]()\
+\
+1869 -- US: Tennessee Governor W.C. Brownlow declares martial law in Ku Klux Klan crisis. []()\
+[]()\
+\
+1872 -- Patent awarded for the toothpick. []()\
+[]()\
+\
+1883 -- Novelist Shiga Naoya lives, Japan. Wrote Road Through the Dark Night. []()\
+[]()\
+\
+1885 -- American anti-slavery activist Angelina Grimke lives. []()\
+[]()\
+\
+1886 -- Peter Freuchen (1886-1957) lives. Danish writer/explorer, who participated in many journeys in unknown regions of Greenland. <http://www.kirjasto.sci.fi/peterfre.htm>\
+[]()\
+\
+<img src="http://www.eskimo.com/~recall/bleed/images/ybook.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="59" height="48" alt="?" />\
+1888 -- Georges Bernanos (1888-1948) lives. Novelist and essayist, a man of the right & ardent supporter of the French monarchy. <http://www.kirjasto.sci.fi/bernanos.htm>\
+[]()\
+\
+1890 -- Italy: In Genoa, a group of Italian anarchists, including [Giovanni Rossi](http://www.eskimo.com/~recall/bleed/sinners/RossiGiovanni.htm) (aka Cardias) embarks on a boat to Brazil, to found the experimental Cecilia Colony. []()\
+[]()\
+\
+1893 -- Russel Crouse lives, Findlay, Ohio. Journalist/novelist, longtime collaborator with Howard Lindsay on such plays as Life with Father & The Sound of Music. <http://www.thesoundofmusic.com/bio-team-crouse.htm>\
+[]()\
+\
+1895 -- Frederick Douglass escaped slave, antislavery leader, advisor to Lincoln, dies at 78.
+
+> In an 1857 address Douglass proclaims (quote): "If there is no struggle, there is no progress. Those who profess to favor freedom, & yet deprecate agitation, are men who want crops without plowing up the ground. They want rain without thunder & lightning. They want the ocean without the awful roar of its many waters. Power concedes nothing without a demand. It never did & it never will."
+>
+> <http://www.frederickdouglass.org/douglass_bio.html>\
+> []()\
+> \
+> <img src="http://www.bookwire.com/jackets/hudson-hills/1997/1555951368.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="152" height="211" alt="?" />\
+> 1897 -- Painter Ivan Albright lives.\
+
+[]()\
+[]()\
+\
+<img src="http://www.tao.ca/images/jpg/situ_sm.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="70" height="80" alt=" ? " />\
+1898 -- Birth of Anton Ciliga, philosopher, activist, anarchist. Active in the Russian Revolution. Wrote Crise d'Etat dans la Yougoslavie de Tito (1974), L'insurrection de Cronstadt et la destine de la rvolution russe (1983), etc.
+
+While in one of Stalin's prisons, Anton Ciliga observed that "technical questions of organization turned out to be social questions" (Lenin & the Revolution).
+
+---Guy Debord, The Society of the Spectacle
+
+          
+
+"Neither God nor Master, a voice from the depths of my subconscious whispered. Perceptible, firm, imperative. The portrait of Lenin from the table of my cell was torn in thousand pieces & tossed into the trash can... "
+
+---Anton Ciliga, Dix ans au pays du mensonge dconcertant
+
+[]()\
+<http://www.geocities.com/WestHollywood/2163/bolintro.html><http://perso.club-internet.fr/ytak/fevrier3.html#20>\
+<http://www.dalmatia.net/croatia/history/journal.htm>\
+
+[]()\
+\
+<img src="http://www.twbookmark.com/images/14/26645.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="200" height="330" alt="?" />\
+1902 -- Nature photographer Ansel Adams lives, San Francisco, California. <http://www.twbookmark.com/features/anseladams/>\
+[]()\
+\
+1912 -- Pierre Boulle lives, Avignon, France. Novelist who successfully combined adventure & psychology based largely on experiences in Southeast Asia. Best known for two vastly different novels: The Bridge on the River Kwai, a WW II tale of morality & madness among British troops in a Japanese prison camp, & Planet of the Apes. []()\
+[]()\
+\
+1920 -- Eugene O'Neill's Beyond the Horizon, opens at the Neighborhood Playhouse in NY. []()\
+[]()\
+\
+1925 -- Robert Altman lives. Film director, M\*A\*S\*H.\
+[]()\
+[]()\
+\
+1926 -- Jules Gustave Durand (1880-1926) dies. Anarchist, revolutionary trade unionist, secretary of the trade union of the coalmen of Le Havre. Initiator of the general strike of August 1910, Durand fell victim to a politico-legal machination following the death of a "jaune" in a brawl, for which he was wrongly blamed.
+
+> 
+>
+> The corruption of several witnesses & a ignominious press campaign led to a death sentence on November 25, 1910. November 28, in a show of solidarity & to fight this injustice, a protest strike was called in Le Havre, which spread internationally to English & American docks.
+
+
+
+
+
+<img src="http://perso.club-internet.fr/ytak/images/durand.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" width="86" height="84" alt="?" />
+
+
+
+
+
+A further protest, initiated by the League of the Human Rights, finally lead to his release on February 15, 1911. Unfortunately, Jules Durand, forcibly subdued in a strait jacket for 40 days, had become insane & spent the rest of his life in an asylum. A reopening of his case cleared his name, & Durand was declared innocent on June 15, 1918.
+
+
+
+<http://perso.club-internet.fr/ytak/fevrier3.html#20>\
+<http://jupiter.worldonline.fr/~pau28534/personnage/jdurand.html>\
+
+[]()\
+\
+1927 -- Roy Cohn, lawyer, "Grand Inquisitor" for Beloved & Respected Comrade Leader Senator Joseph McCarthy, lives. In the name of protecting individual liberties they will trample the rights of anyone that suits them. Beloved & Respected Comrade Leader Robert Kennedy will also assist them. []()\
+[]()\
+\
+1934 -- Utopian Society in Los Angeles starts chain-letter campaign informing US citizens that "Profit is the root of all evil." []()\
+[]()\
+\
+1934 -- Virgil Thomson's opera Four Saints in Three Acts opens in NYC. Gertrude Stein, the librettist, attends, after years abroad. []()\
+[]()\
+\
+1937 -- Nancy Wilson, jazz singer, lives, Chillicothe Ohio. Feel Like Making Love. []()\
+[]()\
+\
+1937 -- US: National Lawyers' Guild founded. <http://www.nlg.org/>\
+[]()\
+\
+1941 -- Buffy Sainte-Marie, folksinger, lives, Maine, folksinger. Now That the Buffalo Are Gone. []()\
+[]()\
+\
+1942 -- Norwegian teachers begin successful nonviolent strike against Nazification of schools. []()\
+[]()\
+\
+1942 -- Lieutenant Edward "Butch" OHare becomes the first U.S. Navy flying ace of World War II while defending the U.S.S. Lexington from a Japanese bomber attack.
+
+In November of 1943, he was killed in action over the Gilbert Islands. Chicagos OHare International Airport & the U.S. destroyer OHare were later named in his honor. []()\
+
+[]()\
+\
+<img src="http://volcano.und.nodak.edu/vwdocs/volc_images/north_america/Seger_46_night.jpg" data-border="0" data-hspace="10" data-vspace="10" data-="" width="432" height="277" alt=" ? " />\
+1943 -- Mexico: New volcano Paracutin erupts in farmer's corn patch. []()\
+[]()\
+\
+1946 -- Texass: The "Texarcana Moonlight Murderer", never-caught killer of five, attacks his first Lover's Lane couple, pistol-whipping the man & raping the woman; both survive, Texarcana, Texass. []()\
+[]()\
+\
+1947 -- US: 15 killed & 100 injured as an explosion levels a Los Angeles, California, electroplating plant where a chemical mixing error occurred. Damages several nearby buildings.
+
+[]()\
+[]()\
+\
+<img src="http://www.levity.com/corduroy/images/dylansmoke.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="115" height="185" alt="?" />\
+1950 -- Dylan Thomas arrives in New York for his first series of American poetry readings. Welsh poet, drunk, high-liver, lifestyle libertarian. 
+
+
+
+
+
+<div align="center">
+
+
+
+### **\
+Do Not Go Gentle into that Good Night**
+
+<div align="left">
+
+<div align="center">
+
+
+
+    Do not go gentle into that good night,
+    Old age should burn and rave at close of day;
+    Rage, rage against the dying of the light.
+
+
+
+    Though wise men at their end know dark is right,
+    Because their words had forked no lightning they
+    Do not go gentle into that good night.
+
+
+
+    Good men, the last wave by, crying how bright 
+    Their frail deeds might have danced in a green bay,
+    Rage, rage against the dying of the light.
+
+
+
+    Wild men who caught and sang the sun in flight,
+    And learn, too late, they grieved it on its way,
+    Do not go gentle into that good night.
+
+
+
+    Grave men, near death, who see with blinding sight
+    Blind eyes could blaze like meteors and be gay,
+    Rage, rage against the dying of the light.
+
+
+
+    And you, my father, there on the sad height,
+    Curse, bless, me now with your fierce tears, I pray.
+    Do not go gentle into that good night.
+    Rage, rage against the dying of the light.
+
+<http://www.users.bigpond.com/dylanthomas/>\
+<http://www.dylans.com/>\
+<http://www.guerilla-films.com/dt/dthomas.htm>\
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+\
+[]()\
+\
+<img src="http://www.mjtbooks.com/images/mjskinh.jpg" data-border="1" data-hspace="10" data-vspace="10" data-="" width="357" height="262" alt=" ? " />\
+1950 -- US: Air Force B-36 bomber carrying an H-bomb develops engine trouble over the Pacific off Vancouver Island, crew members detonate the bomb (with its plutonium core removed), scattering 45kg of highly enriched uranium into the atmosphere. Five crew members die. []()\
+[]()\
+\
+1956 -- US rejects Soviet proposal to ban nuclear weapons tests & deployment. []()\
+[]()\
+\
+1960 -- US: Jimi Hendrix's first concert, at Seattle's Garfield High School. BleedMeister attended Ballard High across town at this time. There was not a single black face in Ballard (Little Scandinavia) in those good ol days. []()\
+[]()\
+\
+1962 -- US astronaut John Glenn orbits earth 3 times in the Mercury capsule Friendship 7. []()\
+[]()\
+\
+1963 -- US: Greenwood, Mississippi: SNCC Voter Registration headquarters & 4 Negro businesses burned. []()\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/kurt10.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="200" height="273" alt=" ? " />\
+1967 -- Kurt Cobain, of Seattle grunge band Nirvana, lives. <http://members.tripod.com/~react2/kurt.htm>\
+\
+[]()\
+\
+<img src="http://lists.village.virginia.edu/sixties/Graphics/Track16/great_society.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="152" height="287" alt="?" />\
+1970 -- US: Judge Hoffman sentences the convicted Chicago 7 defendants. <http://www.law.umkc.edu/faculty/projects/ftrials/Chicago7/chicago7.html>\
+<http://lists.village.virginia.edu/sixties/HTML_docs/Exhibits/Track16.html#Poster>\
+<http://theaction.com/Abbie/>\
+\
+<img src="http://www.videouniversity.com/indian_h.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="left" data-="" width="120" height="140" alt=" ? " />\
+1971 -- US: National Emergency Center erroneously orders US radio & TV stations to go off the air. The mistake wasn't resolved for 30 minutes.\
+[]()\
+[]()\
+\
+1984 -- Faroes Islands' Parliament declares country a nuclear-free zone. []()\
+[]()\
+\
+1984 -- US: Supreme Court upholds ruling that 12 acres taken by Port of Tacoma, in Washington state, worth \$112 million, belong to the Puyallup Indians. []()\
+[]()\
+\
+1985 -- Clarence Nash, voice of Donald Duck, dies. []()\
+[]()\
+\
+1988 -- 500 die in heavy rains in Rio de Janeiro, Brazil. []()\
+[]()\
+\
+1991 -- Albania uprising. []()\
+[]()\
+\
+1996 -- Bad Rap?: Rapper Snoop Doggy Dogg & bodyguard found not guilty of first-degree murder. The jury deadlocks on voluntary manslaughter charges, a mistrial is declared. \
+[]()\
+[]()\
+\
+<img src="http://people.goplay.com/IngeVandeStadt/duiker.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="280" height="120" alt="?" />\
+1997 -- US: Ben & Jerry's Ice Cream introduces a new flavor -- Phish food -- named after rock group Phish. Contains chocolate ice cream, marshmallows, caramel & fish-shaped fudge.\
+
+[]()\
+[]()\
+\
+3000 -- 
+
+> > *"We have heard that a half million children have died,"* said 60 Minutes reporter Lesley Stahl, speaking of US sanctions against Iraq.
+> >
+> > *"I mean, that's more children than died in Hiroshima. & -- and you know, is the price worth it?"*
+> >
+> > Her guest, May 1996, U.N. Ambassador Madeleine Albright, responds: 
+> >
+> > *"I think this is a very hard choice, but the price -- we think the price is worth it."*
+> >
+> >  -- Los Angeles Times 
+> >
+> > <img src="http://www.oneworld.org/images4/gulfdemo.jpg" data-border="1" data-hspace="10" data-vspace="10" width="250" height="162" alt="?" /> []()\
+> > []()\
+> > \
+> > <img src="http://www.jb.mcmail.com/antisocial2.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="200" height="100" alt=" ? " />\
+> > 4000 -- []()\
+> > []()\
+> >
+> > ------------------------------------------------------------------------
+> >
+> > anti-CopyRite 2000-3000, more or less\
+> > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > or send questions, suggestions, additions, corrections to:\
+> > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> >
+> > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> >
+> > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)

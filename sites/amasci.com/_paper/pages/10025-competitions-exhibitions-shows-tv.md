@@ -1,0 +1,220 @@
+---
+title: "Competitions, Exhibitions, Shows, TV"
+source_domain: amasci.com
+source_path: ~whtrose/season.html
+order: 10025
+reachable_from_entry: false
+images: 8
+internal_links: 0
+extracted: 2026-08-07T06:02:29Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Competitions, Exhibitions, Shows, TV
+
+*Source page: `~whtrose/season.html`*
+
+Competitions, Exhibitions, Shows, TV
+
+# Competitions, Exhibitions, Shows, TV
+
+You are visitor number <img src="http://www.cdsnet.net/cgi-bin/nph-count?link=/~whtrose/pwylie/season.html/welcome.html&amp;increase=1" data-align="top" /> since Oct 22, 1996
+
+------------------------------------------------------------------------
+
+Known competitions, exhibitions, and shows that Paul will be performing or competing in in the 1996-1997 skating season.\
+\
+Paul has been skating to: "Mission Impossible", "Touch Me", "Bring Him Home" from "Les Miz", the Adagio from the Bach D minor oboe concerto, and "Summon the Heroes."
+
+## Skating Shows, Exhibitions and Competitions Paul Will Be In:
+
+1996
+
+## Oct
+
+Oct 26 U.S Pro Championships - Albany, NY Just annouced today that Paul will be replacing Brian Boitano.\
+
+## Nov
+
+Nov 1 Holiday Festival on Ice, Reno, NV\
+Nov 8 Battle of the Sexes - Nassau Coliseum\
+Nov 10 - 11 Men's Pro Championships - Auburn Hills, Michigan\
+Nov 15, 16 or 17 Ice Wars - Tampa, Florida
+
+### SOI Dates
+
+Nov 20 SOI, Lake Placid, NY\
+
+## Dec
+
+### SOI Dates
+
+Dec 14 World Pro Championships (a.k.a Landover) - Landover, MD - NEW!\
+Dec 18 US Postal Challenge Pro-Am - Philadelphia, PA - NEW!\
+Dec 22 Ultimate Four - Boston, MA - NEW\
+Dec 28 SOI Tour begins in Greensboro, NC\
+\
+<img src="soi.gif" data-align="middle" data-border="0" />\
+**Paul with Kristi Yamaguchi and Scott Hamilton (Taken from the Stars on Ice Home Page).**\
+\
+Dec 29 Balimore, MD\
+
+# 1997
+
+## Jan
+
+### SOI Dates
+
+Jan 3 Porltand, OR\
+Jan 4 Seattle, WA (I can hardly wait!!)\
+Jan 5 Spokane, WA\
+Jan 7 Las Vegas, NV\
+Jan 8 Fresno, CA\
+Jan 10 San Francisco, CA\
+Jan 11 Sacramento, CA\
+Jan 12 San Jose, CA\
+Jan 14 Tucson, AZ\
+Jan 16 Phoenix, AZ\
+Jan 17 Anaheim, CA\
+Jan 18 San Diego, CA\
+Jan 19 Los Angeles, CA\
+Jan 21 Denver, CO\
+Jan 22 Albuquerque, NM\
+Jan 24 Dallas, TX\
+Jan 25 Austin, TX\
+Jan 27 Tulsa, OK\
+Jan 28 Oklahoma City, OK\
+Jan 30 Kansas City, MO\
+Jan 31 St. Louis, MO\
+
+## Feb
+
+\
+<img src="wyliebm.gif" data-align="middle" data-border="0" />\
+**Paul Skating to "Apollo 13" (Photo Copyrighted by Barry Mittan).**
+
+### SOI Dates
+
+Feb 1 Chicago, IL\
+Feb 2 Moline, IL\
+Feb 4 Minneapolis, MN\
+Feb 5 Madison, WI\
+Feb 6 Milwaukee, WI\
+Feb 8 Detroit, MI\
+Feb 9 Pittsburgh, PA\
+Feb 10 Grand Rapids, MI\
+Feb 11 Indianapolis, IN\
+Feb 12 Cleveland, OH\
+Feb 14 Tampa, FL\
+Feb 15 Orlando, FL\
+Feb 17 Miami, FL\
+Feb 19 Memphis, TN\
+Feb 21 Philadelphia, PA\
+Feb 22 Long Island, NY\
+Feb 23 Hartford, CT\
+Feb 25 Buffalo, NY\
+Feb 26 Cincinnati, OH\
+Feb 28 Worcester, MA\
+\
+<img src="pwstar.gif" data-align="middle" data-border="0" />\
+**Paul and the cast of the 96 - 97 Stars on Ice**\
+(Taken from the Stars on Ice Home Page).\
+
+## Mar
+
+### SOI Dates
+
+Mar 1 New York, NY\
+Mar 6 Richmond, VA\
+Mar 7 Fairfax, VA\
+Mar 8 Charleston, SC\
+Mar 9 Norfolk, VA\
+Mar 11 Nashville, TN\
+Mar 12 Ft Wayne, IN\
+Mar 15 East Lansing, MI\
+Mar 16 Peoria, IL\
+Mar 18 Dayton, OH\
+Mar 20 Rochester, NY\
+Mar 21 Amherst, MA\
+Mar 22 Providence, RI\
+Mar 24 Roanoke, VA\
+Mar 26 Hershey, PA\
+Mar 28 Albany, NY\
+Mar 29 Portland, ME\
+\
+\
+
+## Skating Shows, Exhibitions, Competitions On TV Paul Will Be In:
+
+All times are subject to change, and different in many areas, so check your local listings for times in your area\
+\
+<img src="purpbm.jpg" data-align="middle" data-border="0" />\
+**(Photo Copyrighted by Barry Mittan).**\
+
+# 1996
+
+## Oct
+
+10/25 Halloween on Ice 8:30 - 10:00pm TNT\
+10/26 Halloween on Ice 3:00 - 4:30pm TNT\
+10/27 Halloween on Ice 5:30 - 7:00pm TNT\
+10/30 Halloween on Ice 8:00 - 9:30pm TNT\
+10/31 US Pro Championships Part 1 9:00 - 11pm ABC\
+
+## Nov
+
+11/2 US Pro Championships Part 2 ABC 8 - 10pm\
+11/28 Ice Wars, Part 1 CBS 2:30 - 4pm\
+11/29 Ice Wars, Part 2 CBS 9 - 11pm\
+
+## Dec
+
+12/8 Sergei Grinkov: Celebration of a Life (encore) CBS 3:00-5:30pm\
+12/16 Stars on Ice WTBS 8:05 - 10:05pm\
+12/21 US Postal Challenge Pro-Am 4 - 6 pm ABC Philadelphia, PA - NEW!\
+12/25 Stars on Ice WTBS 10:05-12:05am\
+
+# 1997
+
+## Jan
+
+1/12 Men's Professional Skating Championship CBS 3 - 6pm (Confirmed by WIBW, Channel 13, Topeka, KS)\
+1/26 World Pro Championships Pt. 1 (a.k.a Landover) - Landover, MD NBC 8 - 10pm - NEW!\
+1/27 World Pro Championships Pt. 2 (a.k.a Landover) - Landover, MD NBC 8 - 10pm - NEW!\
+\
+\
+<img src="spriabm.jpg" data-align="middle" data-border="0" />\
+**Paul doing a beautiful sprial to "Schindler's List". (Photo Copyrighted by Barry Mittan).**\
+\
+
+## Mar
+
+3/8 Scott Hamilton: Upside Down (Paul may be shown) CBS 8pm - 9pm (PST)\
+3/12 Battle of the Sexes FOX 8pm - 10pm (PST)\
+3/16 Three Masters on Ice WTBS 6pm - 8pm (PST)\
+\
+<img src="3masters.jpg" data-align="middle" data-border="0" />\
+**Paul skating w/ Brian Boitano & Scott Hamilton at Three Masters on Ice. (Photo Copyrighted by Kate Dungca).**\
+\
+3/25 Three Masters on Ice WTBS 5:05pm - 7:05pm (PST)\
+3/29 Ultimate Four NBC 8pm - 11pm (PST)\
+
+## May
+
+5/21 Evening of Championship Skating PBS times???\
+\
+If you have additions or corrections email me at [*whtrose@eskimo.com*](mailto:whtrose@eskimo.com)\
+\
+**Have you signed the Guestbook? If not please do! Go here:\
+[Sign The Paul Wylie Fan Page Guestbook](http://www.Lpage.com/wgb/wgbsign.dbm?owner=pwylie)\
+[View the Paul Wylie Fan Page Guestbook](http://www.Lpage.com/wgb/wgbview.dbm?owner=pwylie)**\
+\
+**(Note: If you choose to make the message "private" you should know that only I can view it, Paul doesn't have the password)**.\
+\
+
+Return to Sonja Marie's Paul Wylie Fan Pages Main Page
+
+\
+\
+**Created by The White Rose Inc. (a.k.a Sonja Marie) 1996\
+<img src="http://www.eskimo.com/~whtrose/rosewht.gif" data-align="right" data-border="1" />**

@@ -1,0 +1,110 @@
+---
+title: "Jehovah's Witnesses A Cult?"
+source_domain: amasci.com
+source_path: ~jcw/jcw11.html
+order: 3654
+reachable_from_entry: false
+images: 2
+internal_links: 0
+extracted: 2026-08-07T05:56:56Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Jehovah's Witnesses A Cult?
+
+*Source page: `~jcw/jcw11.html`*
+
+<img src="rainbow.gif" width="576" height="4" alt="[rainbow]" />
+
+# Jehovah's Witnesses A Cult?
+
+### or Ministers of God?
+
+<img src="rainbow.gif" width="576" height="4" alt="[rainbow]" />
+
+\
+Copyright 1994 by David A. Reed, used with permission
+
+Our thanks to David A. Reed of Comments from the Friends, P. O. Box 819, Assonet, MA 02702 for allowing us to post this article from the Spring, 1994 issue of his newsletter, Comments from the Friends*. For those with friends and/or family in the Watchtower organization, and for Jehovah's Witnesses who wish to know facts the Watchtower won't tell them, we highly recommend this ministry.*
+
+Watchtower Society mounts defense against recent exposes, tries to show itself unlike Waco cult
+
+Are Jehovah's Witnesses a cult? More voices must be saying so, or why else would six pages - including the cover - of the February 15, 1994 *Watchtower* magazine be devoted to answering this charge?
+
+The Watchtower Society's answer comes in the form of two articles: "Cults - What Are They?" (pages 3-4) and "Are Jehovah's Witnesses a Cult?" (pages 5-7).
+
+Above a half-page photo of the burning Branch Davidian compound in Waco, Texas, the first article begins by summarizing that recent tragedy, strangely without ever naming the town of Waco or mentioning cult leader David Koresh or his sect by name. The article then refers to the 1969 Charles Manson murders, the 1978 Jonestown disaster, and the 1987 mass-suicide of a pseudo-Christian cult in Korea.
+
+Next, after noting the existence of organizations set up to monitor cults, and the anticipated proliferation of cults surrounding the advent of the year 2000, *The Watchtower* goes on to ask in a new subheading, "What Is a Cult?"
+
+It turns for the answer to such authorities as The *World Book Encyclopedia*, *Newsweek* magazine, and *Asiaweek* magazine to come up with definitions centering on the thought of "small, fringe groups" following "a single, charismatic individual," "a living leader who promotes new and unorthodox doctrines and practices," or "a charismatic leader, who often proclaims himself to be the personification of God." To this it goes on to add from another source the thought of a group "employing unethically manipulative techniques of persuasion and control to advance the goals of its leaders." Then *The Watchtower* comments in its own words that "Usually they conduct their religious activities in secrecy," and, "Many of these cultic groups actually isolate themselves in communes."
+
+Finally, the article states the problem:
+
+"Occasionally, anticult organizations and the media have referred to Jehovah's Witnesses as a cult. A number of recent newspaper articles lump the witnesses with religious groups known for their questionable practices."
+
+The second article, titled "Are Jehovah's Witnesses a Cult?" goes on to offer "evidence" that they are not. Let's examine that alleged evidence point by point:
+
+Jesus and his disciples were falsely accused
+
+Yes, they were. But that does not mean that this is true of Jehovah's Witnesses. The same argument that "they persecuted Jesus too" has been used by countless cults, including the Branch Davidians of Waco, Texas. It has nothing to do with the guilt or innocence of the group in question, and is introduced as a tricky debating tactic.
+
+a Russian official who had been told Jehovah's Witnesses were an "underground sect sitting in darkness and slaughtering children and killing themselves" discovered them instead to be "normal, smiling people"
+
+This, too is a deceptive trick known as a "straw man" argument. The Watchtower sets up a fake "straw man" - the extremely ridiculous description of JWs the official first heard - and then easily knocks down that straw man. Of course, "normal, smiling people" can be found in many cults, including those cited earlier for their mass suicides.
+
+The fact that *The Watchtower*'s first two defenses consist of clever tricks instead of real evidence should make readers even more cautious in examining the remaining arguments.
+
+their meetings consist of Bible study and discussion
+
+The same was true of the meetings David Koresh conducted with his Branch Davidians at the Waco compound. His lectures revolved around the book of Revelation and other Bible prophecies. Cults and heretical sects have been twisting scripture from the days of the apostles. (2 Pet. 3:16).
+
+their activities are public, not secretive.
+
+While it is true that house-to-house preaching is a public activity and most JW meetings are open to the public, there is much about the organization that remains hidden from the public eye. Most outsiders have no idea of the extent to which the Watchtower Society controls its members - punishing them if they vote in elections, or hang an evergreen wreath on their door, or read forbidden literature (such as this sheet you are now reading!). Even most relatives and neighbors are unaware that JWs can be put on trial behind closed doors, without right to representation by an attorney, and that they can be commanded to shun a life-long friend without even being informed of the friend's alleged offense against the organization.
+
+with more than 11 million people attending, they are "far from being a small fringe cult"
+
+True, the numbers involved exclude Jehovah's Witnesses from the category of a small fringe cult, but this does not exclude them from being a large major cult.
+
+victims of alleged brainwashing are lacking.
+
+Speaking to "the millions of non-Witnesses who are studying the Bible with the Witnesses or who have studied with them at one time or another," *The Watchtower* asks rhetorically, "Were there any attempts to brainwash you? Did the Witnesses employ mind-control techniques on you? *The Watchtower* answers for them: "'No' would doubtless be your frank response. Obviously, if these methods had been used, there would be an overwhelming number of victims..."
+
+As a matter of fact, there *are* countless victims who have testified to Watchtower mind control in radio and TV interviews, in law courts, and in print. The non-religious book *Combatting Cult Mind Control* by exit-counselor Steve Hassan deals mainly with "Moonies" but lists Jehovah's Witnesses among the cults and refers readers to seven books by former Witnesses.
+
+Because it is implemented much more slowly than in many other cults, the Watchtower Society's program of mind control often goes unrecognized, except by experts. But it shares basic elements with other 'brainwashing' programs: (1) repetitive instruction, with books, magazines, and meetings all hammering home the same information, (2) new members told to break ties with outside friends and limit fellowship with non-member relatives, (3) a ban on reading critical works, (4) denunciation and shunning of ex-members, (5) verbal attacks undermining the authority of all outside institutions - religious, educational, medical, governmental, (6) a unique vocabulary with "loaded" language reinforcing the sect's rules, and (7) an orchestrated superiority/inferiority-guilt complex. Former members who have not been deprogrammed commonly report problems with anxiety, fear, and disorientation, as well as difficulty reintegrating in society at large.
+
+"'They are people who are absorbed in humanity.' And they do not live in communes, isolating themselves from relatives and others."
+
+Aside from the roughly 13,000 volunteers who live and work at Bethel office/factory/farm facilities, most JWs are not physically isolated. But they are socially isolated from outsiders. And when contact with "worldly" (non-member) relatives or neighbors does take place, Witnesses are taught to view this as an opportunity for witnessing rather than a time for fellowship. The statement quoted here denying that JWs isolate themselves is propaganda for public consumption; on page 24 of this same *Watchtower*, Witnesses themselves are told, "We must also be on guard against extended association with worldly people. Perhaps it is a neighbor, a school friend, a workmate, or a business associate. ...What are some of the dangers of such a friendship?..."
+
+So, not only do JWs in fact isolate themselves, but their leaders are deliberately concealing this fact and falsifying information to defend themselves against the charge of being a "cult."
+
+they adhere strictly to the Bible
+
+Again, this same claim is made by most pseudo-Christian cults, including the one whose members died in the fire at Waco; surviving children felt left out when the others 'went to heaven.' The Watchtower goes a step further than most cults, actually replacing standard Bibles with those tailored to fit the sect's doctrines, rather than rely simply on unique interpretation.
+
+"the veneration and idolization of human leaders so characteristic of cults today is not found among Jehovah's Witnesses."
+
+The Watchtower has acknowledged elsewhere that early Witnesses "were exalting creatures, indulging in a personality cult that focused on Charles T. Russell." (May 1, 1989, page 4) Witnesses today exalt their collective leadership as a group. They view their organization as essential to salvation and feel obligated to obey its every command. They call it 'Mother' (God is 'Father'), 'God's channel of communication,' 'God's organization,' and pledge to it their full loyalty and allegiance. In effect, they idolize the organization as a corporate savior and lord. Thus, while avoiding a cult focused on an individual, today's JWs are a cult focused on an organization.
+
+So, are Jehovah's Witnesses a cult?
+
+Yes! The Watchtower Society's defense falls flat when faced with the facts.
+
+In fact, Jehovah's Witnesses are a deadly cult. A single sentence in the February 15, 1994 *Watchtower* article admits, without comment, "They will not eat blood, nor will they accept blood transfusions." (page 7) But it fails to admit that this ban on blood transfusions has caused more deaths than the Waco, Texas standoff, the Manson murders, and the Jonestown mass suicide put together.
+
+David Reed's book *Worse Than Waco* documents dozens of JW deaths - giving names, places, dates, and media references - and cites statistics pointing to a total death toll numbering in the thousands. It goes on to detail how the Watchtower Society has instructed followers to break laws, violate court orders, smash medical equipment - and how Witnesses have been jailed for carrying out such instructions, even kidnapping children from hospital beds and taking them out hospital windows.
+
+Why are there no newspaper headlines classing Watchtower leaders with David Koresh and Jim Jones? Partly because the JW deaths have occurred - and continue to occur - one at a time in different locations, rather than in one spot where TV cameras could focus. And partly because the Watchtower Society continues to use its mammoth propaganda machine to hide the facts. The February 15, 1994 *Watchtower* article asking, "Are Jehovah's Witnesses a Cult?" is a prime example.
+
+Presented by: Jehovah's Christian Witness.
+
+Recent health issues plus the rapidly expanding nature of the ministry have all but made the "One-On-One" e-mail ministry approach unmanageable.
+
+We will attempt to answer questions as we are able on the [*Talk to CyberPastor*](http://forums.delphi.com/cyberpastor/messages) message board. Our discussion can be found under the heading: "Biblical Perspective on JW's."
+
+[Back to Jehovah's Christian Witness Main Page.](http://www.eskimo.com/~jcw/index.html)\
+[Return to Table of Contents.](http://www.eskimo.com/~jcw/index.html#toc)\
+On to next subject: [The New World Translation](http://www.eskimo.com/~jcw/jcw97.html)

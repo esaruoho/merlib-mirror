@@ -1,0 +1,527 @@
+---
+title: "Fully Functional"
+source_domain: amasci.com
+source_path: ~vecna/ffunct.htm
+order: 9211
+reachable_from_entry: false
+images: 1
+internal_links: 1
+extracted: 2026-08-07T06:01:45Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Fully Functional
+
+*Source page: `~vecna/ffunct.htm`*
+
+<img src="data.jpg" data-align="Left" width="188" height="160" />
+
+# Fully Functional
+
+by Christine Morgan\
+\
+\
+\
+\
+
+------------------------------------------------------------------------
+
+    Fully Functional
+    Christine Morgan (vecna@eskimo.com)
+    comments welcome
+    Author's Note: all characters except Galatea belong to the creators of Star
+    Trek and are used without their authorization. This story takes place after
+    my other Star Trek tale (Wa'DIch Ghom). Mature readers only, please.
+
+        "Wes, leave her tits alone."
+        Wesley Crusher reluctantly moved his hands. "I wish they were
+    bigger."
+        "They're fine. Trust me."
+        "Trust you?" Wes laughed. "Come on, Broccoli, you've never even
+    been laid except on the holodeck."
+        Reg Barclay, "Broccoli" to the younger engineering staff, gave
+    Wes what he hoped was a withering look. "That is not true."
+        Wes smirked.
+        "Well, even if it is, that's not the point," Reg continued. "Her tits
+    are perfect just the way they are. Quit thinking like a teenager, Wes."
+        "I am a teenager."
+        "Yeah, well, you're also an ensign."
+        "Oh, ensigns like small tits? Then how come everybody ogles
+    Counselor Troi instead of Flat-chest Farris?"
+        Reg sighed. "You're impossible. Listen, if her tits were any bigger,
+    she'd start to look abnormal. She has a certain elegance, the legginess and
+    grace of a Risan pleasure dancer. You don't want her to be topheavy, do
+    you?"
+        "Geez, Broccoli, you sound like you want her for yourself."
+        At that moment, the door hissed open to admit Commander
+    LaForge. "Wes, Reg, there you --" he broke off, staring at them and the table
+    between them, which held the motionless body of a nude woman. His jaw
+    dropped. "What ..."
+        "Geordi!" Wes blurted. "We -- um, that is ... it isn't what it looks
+    like! She's not alive!"
+        LaForge's gape widened.
+        "No, that's not what I meant! She's not dead! She's ... well, ur,"
+    Wes stammered.
+        "What the hell is going on here?" His barely-contained roar would
+    have made even Worf take a step back.
+        Reg gulped and looked him square in the face. "We're building a
+    woman for Data."
+        Geordi whoofed as if the breath had been knocked out of him. He
+    staggered a bit, braced himself against a console, and said in a very calm
+    polite tone, "What?"
+        Having bounced back with the resiliency of youth and foolishness,
+    Wes started babbling an explanation. "He's always trying so hard to be
+    human, but he really feels alone, except for Spot, and do you remember
+    when he built that girl, but she died? Well, he could have built another one,
+    but he'd think of her as a daughter, and we thought maybe if we did it, he'd
+    look at her as, you know, a woman. Not a sister or anything, but a girlfriend.
+    I met a guy at the Academy when I was on that tour, he was interested in Dr.
+    Sung's work and gave me copies of all his research, and Reg and I thought,
+    well, Data's birthday is coming up, and Commander Riker's throwing him
+    that surprise party, so we thought we'd give everyone a surprise and fix him
+    up with a date. We didn't tell anyone else because I thought Captain Picard
+    might tell us not to, and so we've been working here, in secret, but now that
+    you're here and you know about it, you could help us!"
+        He stopped, breathing fast, his eyes alight and hopeful as those of a
+    puppy looking for a sign of approval.
+        Reg was suddenly grateful that LaForge's visor concealed his eyes,
+    because he was sure that he and Wes were on the receiving end of a
+    withering look that was much more effective than his own.
+        Speaking very slowly and carefully, Geordi said, "You are building
+    a woman, for Data, as a present?"
+        Reg nodded. "We actually could use your help, sir. You're more
+    familiar with Data's positronic brain than anyone but Data himself, and
+    we've been having a few problems. Gland boy there doesn't think it matters,
+    but I thought Data might prefer having someone he could have intelligent
+    conversation with, instead of just a sex machine."
+        "Sex machine! That's a good one, Broccoli!"
+        "Shut up, Wes," Geordi said absently. "You two constructed a
+    positronic brain? Just cobbled one together in your spare time?"
+        "Yes, sir. It wasn't as hard as it sounds. Getting the materials
+    without anyone finding out, that was the hard part. Except, of course, that
+    we haven't been able to bring her on-line. Maybe if you took a look ..."
+        "Come on, Geordi," Wes said. "Data's your best friend. Don't you
+    think he'd like a girl he could really relate to?"
+        "Why do you think Data needs a girlfriend?" Geordi asked. "He
+    took out that emotion chip, remember?"
+        "But he wants to be human, or at least understand us better.
+    Nothing's ever worked out for him with human women, why not an android?
+    She'll be his perfect companion." Reg gestured to the table. "At least look at
+    her. We've come this far. What do you think?"
+        Scowling, Geordi stepped closer. As he studied the android
+    woman, his frown was gradually replaced by a reluctant impressed smile.
+    "Nice work, guys," he admitted.
+        Reg and Wes grinned at each other, justifiably proud. "We call her
+    Galatea," Reg said. "Ancient Earth mythology, Greek, to be precise.
+    Pygmalion the sculptor made a statue of a woman and loved her so much the
+    gods brought her to life."
+        Galatea, still and silent under the dim lights, resembled an
+    enchanted princess in a fairy tale. Her face was serene, as if awaiting only
+    love's first kiss to awaken her. Except for a couple of places where her
+    creamy skin was folded back to reveal circuitry, she was the image of a
+    human woman.
+        "She's beautiful," Reg said, "But if we can't get her brain
+    functioning, we might as well give up and get an inflatable doll."
+        "Do you think you can help, Geordi?" Wes asked eagerly. "The
+    party's at the end of the week."
+        "I'll help." Geordi sighed. "I feel like Dr. Frankenstein, but I'll
+    help."
+        "Don't think that way," Wes said, clapping him on the shoulder.
+    "Dr. Sung, not Frankenstein."
+        "I still want to know what you guys expect to happen. Data doesn't
+    have the same needs and drives as a human man. He doesn't need sex."
+        "But he can, right?" Wes asked. "Ship's gossip is that he and Tasha
+    --"
+        "You shouldn't believe all the ship's gossip," Geordi snapped.
+    "Even if he can, that doesn't necessarily mean that he'll want to. It doesn't
+    mean anything to him. It doesn't affect his system."
+        "Galatea will," Reg said, smiling. "She's designed for it."
+        "What are you talking about?"
+        "Look." Reg popped open a patch of skin on her breast, folding it
+    back. "See these? They'll react to the low-grade electric current in Data's
+    skin. Her mouth and vagina are lined with similar sensor/transmitters.
+    Basically, any skin-to-skin contact with these will cause the charge to
+    intensify, jumping between their systems, causing an electrical response.
+    The vaginal ones are even more intense. Continual contact will build up the
+    charge until it is released in a burst of electronic stimulus."
+        "You're talking about android orgasms?" Geordi said.
+        "Yeah!" Wes said.
+        "It causes a temporary overload of the synaptic functions of the
+    neural net," Reg elaborated.
+        "This is unbelievable."
+        "That's what I thought at first," Reg said. "But all our tests indicate
+    that it'll work."
+        "Tests?" Geordi looked at them. "You didn't ..."
+        "Gosh, no," Wes said. "We're not really sure what it would do to a
+    human man. It should be safe, but, well, she's Data's."
+        "If she wants to be," Reg put in. "That's why we want to get her
+    brain working. So she can think and make her own decisions."
+        "Well, let's get to work!" Geordi said. "Show me your project
+    notes. Do you have a positronic scanner? What calibration did you use to
+    develop the matrix?"
+            *       *       *
+        "This is foolish," Worf grumbled.
+        "Lighten up, Mr. Worf," Will Riker said. He approached the
+    Klingon with a spangly top hat, thought better of it, and donned it himself
+    instead.
+        Worf growled. Deana rested a hand on his arm and smiled gently
+    up at him, and his growl subsided. Riker looked at them curiously for a
+    moment, then shook his head. Deana and Worf? What a silly idea. He went
+    to check on the bartender and make sure the special neutron punch hadn't
+    eaten through the punchbowl yet.
+        "It is foolish," Worf repeated in a lower voice. "Lurking in the dark
+    in someone's quarters to surprise them? A warrior would react violently."
+        "You didn't react violently when you caught me in your quarters,"
+    Deana reminded him teasingly.
+        He gave her a stern warning look, then, seeing that nobody was
+    watching, uttered another low growl much different from the first. She
+    responded in kind and squeezed his hand before putting a pointy polka-dot
+    hat on his head. He rolled his eyes but submitted.
+        Across the room, Will Riker stopped beside Beverley Crusher.
+    "They look awfully chummy," he said, nodding toward Deana and Worf.
+        "Mmm-hmm," Beverley said, sipping from a glass of champagne.
+    Her eyes danced at him over the rim.
+        "Anything interesting to relate?" he prodded.
+        She shook her head, smiling secretively. He loomed over her with
+    jutting jaw and intimidating eyebrows, but she wouldn't relent.
+        An ensign by the door hissed for quiet and doused the lights. There
+    was a good deal of whispering and muffled giggling, a few anonymous pats,
+    pinches, and gropes, and the door opened to admit Data.
+        "Surprise!" they all shouted.
+        Data's head cocked. "Surprise. Ah. The surprise party custom. In
+    honor of the anniversary of the date upon which I was originally activated
+    by the colonists."
+        "Mr. Data, I don't think you're very surprised." Riker clapped a
+    festive chapeau onto the bemused android and took him by the arm. "Come
+    on and cut the cake."
+        "The very definition of a surprise is that which is unexpected. This
+    is hardly unexpected, Commander, as you have a history of planning similar
+    gatherings for most of the officers. Still, if you will instruct me, I will
+    attempt to behave in a suitably surprised manner."
+        "I told you, Will," Deana said. She handed Data a box wrapped in
+    bright foil. "Happy birthday, Data." She stood on tiptoe and pressed a kiss
+    on his cheek.
+        "Thank you, Counselor." After cutting thirty-six pieces of cake
+    with mathematical precision, Data scanned the room and asked, "Where is
+    Geordi?"
+        "He must be late down in Engineering," Riker said.
+        "Actually, I think he and Wesley have something special planned,"
+    Beverley put in.
+        Just then, the door slid open again and Geordi came in,
+    accompanied by Wesley and Reg Barclay. Close behind them was a woman
+    who drew all eyes to her as she stepped into the room.
+        She was tall and lithe of build, with long slender legs and a narrow
+    waist. Her breasts, to which Wesley had objected, were flawlessly shaped
+    and perfectly proportioned. She wore a formal gown of tawny gold that
+    exactly matched her eyes. The gown fastened behind the neck and left her
+    smooth arms bare. A slit up one side revealed shapely leg to mid-thigh. Her
+    auburn hair, rich as polished mahogany, flowed loose to the middle of her
+    back. She was a fire woman, all red and gold and the promise of heat.
+        "Well, this party's livening up already," Riker said. He approached
+    the woman, who was looking around the room as if searching for someone.
+    "Hello."
+        Her gold eyes fixed on him. "Commander Riker," she said. Her
+    voice was low, pleasant, with just the right touch of huskiness. "Riker,
+    William T., First Officer of the Enterprise."
+        "And you are ...?"
+        "I am called Galatea."
+        There was something familiar about her, but Riker couldn't place it.
+    He offered a hand. When she took it, a mild and not unpleasant shock went
+    through him.
+        "Commander, I see you've met our guest," Wes said, grinning.
+        "Why don't you go have some cake, Wes?" Riker gave the boy a
+    move-along signal, which Wes pretended not to see.
+        "Data!" Geordi called. "Over here. There's someone I want you to
+    meet."
+        Data threaded his way through the crowd, balancing a pile of gifts.
+    His hat was askew and a confetti streamer was draped over his ear from a
+    party favor Riker had earlier popped on him.
+        "So, how long have you been on board? I wasn't aware of any
+    passengers, or shuttlecraft." Riker braced one hand on the wall, allowing
+    him to lean close to her.
+        Reg and Wes smirked at each other and exchanged whispers
+    behind their hands. Riker ignored them. He was too busy enjoying the way
+    her gown clung to her cleavage. When Geordi barged in, pulling Data by the
+    arm, Riker had to bite his tongue to check an angry remark.
+        "Galatea, this is Data, the birthday boy," Geordi said.
+        It was as if William T. Riker, First Officer of the Enterprise, was
+    rendered invisible. Galatea stepped past him like he didn't exist. She held
+    out a hand.
+        Data shifted packages and took it. He had been well-trained in the
+    human social arts. But when his fingers closed over hers, he dropped all his
+    gifts and stared at her.
+        "I am called Galatea," she said. She was only an inch or so shorter
+    than him. Gold eyes mirrored gold eyes. "You are Data, an android."
+        "Yes."
+        "I am also."
+        "What?" Riker said.
+        Wes laughed out loud. The partygoers crowded around, a babble of
+    voices all exclaiming basically the same things. "How's that for a real
+    surprise?" Reg asked nobody in particular.
+        Throughout all the commotion, Data and Galatea stood with hands
+    still clasped. "You are an android?" he finally said. "Are you a construction
+    of Doctor Sung?"
+        "No, but my design was based upon his research. I was constructed
+    by Barclay, Crusher, and LaForge. I am your birthday present."
+        "Hold it!" Riker bellowed. "Geordi, I think an explanation is in
+    order." He hit his Starfleet pin. "Riker to Captain Picard."
+        "Go ahead, Number One."
+        "We have a situation here, sir. It appears that some of the
+    engineering staff have given Mr. Data a woman for his birthday."
+        Silence. Then: "Say again, Will?"
+        "A woman!" Riker nearly yelled. "A babe-class supernova of a
+    woman!"
+        "Will," Deana said warningly, discreetly taking his drink before he
+    crushed the glass. Worf, behind her, was struggling to contain a grin. She
+    elbowed his stomach.
+        Another silent pause. Then: "Mr. Danvers, you have the bridge. I'm
+    on my way. Picard out."
+        "Ooh, now we're in for it," Wesley said. As usual, he utterly failed
+    to look serious. His mother twisted his ear. "Ow! Mom!"
+        Beverley twisted harder. "That mouth of yours is going to get you
+    thrown right off this vessel, young man."
+        "It is against Starfleet directives to practice slavery," Data said.
+        "I am not a slave," Galatea replied. "Although I was designed to be
+    compatible with your systems, I was also given free will and decision-
+    making capability."
+        "The contact of our hands produces a distinct effect," he observed.
+    She laid her other hand along the side of his face. He twitched slightly, then
+    blinked and cocked his head again. "Interesting."
+        "Certain areas of my body appear to contain sensor/transmitters
+    capable of delivering that effect," she said. "A self-diagnostic reveals that
+    my lips are so equipped, as well as other areas that humans refer to as
+    intimate."
+        By now, everyone in the room was utterly silent. Expressions
+    ranged from shocked disbelief to lustful gapes. Riker was red-faced, but
+    more from anger and embarrassment that he had been making a pass at an
+    android.
+        "It seems logical that those areas would correspond to human
+    erogenous zones," Data said.
+        "Perhaps a test would be in order," Galatea suggested.
+        "A test?" Data echoed.
+        "Kiss her, Data," Geordi urged. "That's about the only sort of test
+    you'd want to make in front of all of us."
+        "Yeah, go on! Kiss her!" Wes said.
+        Others began picking up the sentiment, until it was a chant ringing
+    in the small room. Only Riker, who was nearly apoplectic, and Worf, who
+    did not go in for such sophomoric displays, did not participate.
+        Galatea stepped over the scattered gifts, plucked the purple
+    streamer from Data's ear and dropped it. She then put her arms around his
+    neck. Data rested one hand at her waist, and with the other pushed back her
+    hair. He leaned forward, and the chant died off as everyone held their breath
+    in hopeful expectation.
+        Data pressed a panel behind Galatea's ear. It flipped open
+    obligingly. He examined the circuitry inside her head. "Fascinating," he
+    said. "Your positronic matrix appears nearly identical to my own."
+        "Data," Geordi groaned. "You're supposed to kiss her."
+        "Oh. Yes." He closed her panel. "Galatea, do you object?"
+        "No."
+        He inclined his head to the exact calculated angle to avoid nose
+    collision while allowing for maximum mouth contact, and pressed his lips to
+    hers.
+        At that moment, Captain Picard walked in. He found a jubilant
+    crowd of his crew surrounding Data and a stunning woman in a gold gown,
+    the two of them locked in a kiss of increasing passion.
+        "Ahem."
+        "Captain!" Reginald Barclay said. The nervous engineer started to
+    salute, changed his mind, started to bow, changed his mind again, and ended
+    up shifting from foot to foot like a preschooler needing the restroom.
+        The crowd fell silent. Riker, his face almost the color of a plum,
+    tugged at the bottom of his shirt in a way he'd copied from Picard and
+    strutted imperiously over to him. Data and the woman were still kissing,
+    apparently oblivious to their surroundings. Obviously oblivious, for now
+    Picard saw that Data was cupping one of the woman's breasts.
+        "Mr. Data!" Picard said, his voice cutting whiplike through the
+    room. He finally got the android's attention.
+        "This is what I was talking about, sir," Riker huffed. "This woman
+    was Geordi's gift to Data."
+        Picard turned to his chief engineer. One sardonically raised
+    eyebrow spoke volumes.
+        "Actually, Captain," Barclay said, "Commander LaForge wasn't
+    actually the one responsible. He only helped. Wesley and I actually built
+    her. Actually."
+        "Built her?"
+        "Yes, sir. We call her Galatea."
+        "It was my idea," Wes chirped. "Ow! Mom!"
+        "Captain," Galatea said. "Picard, Jean-Luc." She offered her hand,
+    quickly learning and absorbing these human customs. "Greetings, Captain."
+        He shook it, noting as Riker had the faint pulse of electrical energy.
+    "Welcome aboard, Galatea. Crusher, Barclay, LaForge, report to my ready
+    room at once. The rest of you, as you were. Mr. Data?"
+        "Yes, Captain?"
+        Picard smiled. "Carry on. And happy birthday."
+            *       *       *
+        "It was a wonderful party, Data," Deana said. "Are you sure you
+    don't want help cleaning up?"
+        Data manufactured a smile. "That will not be necessary,
+    Counselor."
+        She glanced past him, to where Galatea was looking at one of his
+    paintings. "This has been an unusual evening for you. What do you think of
+    Galatea?"
+        "Having only minimal conversation, I can safely say she is most
+    intriguing."
+        "Do you think you'll ..."
+        "What, Counselor? Engage in sexual activity?"
+        "Well, yes."
+        "It is uncertain. I have little interest in human women, and they
+    have always found my lack of emotional involvement disappointing,
+    regardless of my extensive skill and knowledge of human reproductive
+    anatomy and sexual techniques. Galatea, however, is not human. Her unique
+    design has already proven to affect me. I believe I would like to learn more.
+    Such exploration would be inappropriate while I still have guests."
+        Beverley Crusher breezed by, her color high and eyes bright, a
+    handsome new medical tech on one arm and an unopened bottle of
+    champagne in the other. "Goodnight, Data! Happy birthday!"
+        "Goodnight, Doctor, Ensign Blake."
+        Riker was in a far corner, passed out. Wesley, having gotten into
+    the Romulan ale after his lecture from Picard, was snorting giggles into his
+    fist as he applied lipstick and rogue to the unconscious First Officer. Reg
+    Barclay was huddled over the small table by the window, urgently and
+    drunkenly explaining dilithium decay theory to a bored girl from the botany
+    lab. Most of the rest had already left. Worf lingered behind Deana, trying to
+    look as if he wasn't waiting for her, but Data knew better.
+        "Goodnight, Counselor," he said. "I hope you and Lieutenant Worf
+    have a pleasant evening."
+        She started, then blushed faintly pink. "Thank you, Data."
+        "Well, Data, we'd better be going," Geordi said. "I have late shift in
+    Engineering. See you tomorrow. Reg! Time to go! Wes, knock it off. Come
+    on, guys, let's get Commander Riker home."
+        Between them, they dragged Riker, head lolling, from the room.
+    Soon, the last of the partygoers had departed, with one exception.
+        Data observed that his quarters were strewn with half-empty
+    glasses, spilled snack foods, discarded hats, and other debris. Normally, he
+    would have straightened the mess. Tonight, he had something else to attend
+    to.
+        She turned as he approached. "Shall I return to Engineering?"
+        "You have not yet been assigned quarters?"
+        "No. My arrival on this ship was highly irregular. I have neither
+    crew nor guest status. As the Captain only just was informed this evening of
+    my arrival, it may take some time for arrangements to be made."
+        "You are welcome to stay here. It would please me if you did."
+        "This is an unusual situation," she said. "We have met for the first
+    time tonight. Is such sharing of quarters common among humans?"
+        He recalled Doctor Crusher and the med tech. "Romantic liasons
+    on brief acquaintance are not uncommon, though it has been my observation
+    that most humans do tend to wait and explore other facets of a relationship
+    before moving to sexual encounters. Unless, of course, that is the entire
+    purpose of the relationship, as evidenced by Commander Riker's numerous
+    reports of the Risan culture."
+        "There is much I need to learn. Although I have detailed fact-files
+    on a wide variety of subjects including the personnel and mission history of
+    this vessel, I am unfamiliar with human social interactions."
+        "They are a complex and contradictory species," Data said. "I have
+    spent the past several years attempting to assimilate and duplicate their
+    behavior. I will gladly share my findings with you."
+        "Data. I have been monitoring you this evening. I was designed for
+    you, but also with the capacity for free will. It is my determination that you
+    are adequately, even admirably, suited for my expectations of a potential
+    mate."
+        "I have made the same determination."
+        "Is it the customary duty of the male to be the instigator, or would
+    it be permissible for me to kiss you again?"
+        "Human culture has grown beyond such gender-based
+    specifications." He moved closer.
+        Galatea once again put her arms around his neck and kissed him.
+        "I am most intrigued," Data confessed. "Your touch seems to cause
+    spontaneous sensory bursts and impulses along my synaptic clefts. This
+    could be considered analogous to the human phenomenon of 'seeing stars.' It
+    is unlike any sensation I have previously experienced."
+        "My neural net responds in similar fashion." She guided his hand to
+    her breast. "This contact, too, creates significant reactions."
+        "Yes," he said, correcting his balance as the new influx of stimuli
+    caused him to stagger.
+        He fondled her, experimenting with differing degrees of pressure.
+    He found the nipple area to be the most responsive, though apparently
+    dulled by the cloth of her dress. It was a simple matter to unfasten it and fold
+    it down to her waist, leaving her upper torso gloriously bare.
+        He compared her to Tasha Yar, noting certain differences of body
+    type, size, and texture. Tasha, like most human women, had been
+    moderately larger on one side, and without supporting garments her breasts
+    had sagged a bit. Galatea, however, had none of these imperfections. Her
+    breasts were, he believed the proper word was, perky. The electrical
+    impulses even caused the pale rose-hued nipples to tighten.
+        Much in the manner of a human woman, Galatea had closed her
+    eyes to better deal with the constant barrage of stimulus. Her hands moved
+    over him ceaselessly, restlessly, opening his uniform to slide over his skin.
+        They conducted their explorations in silence, without the gasps and
+    moans that he knew accompanied human sexual activity. He was instead
+    able to determine the extent of her arousal by the changes in her galvanic
+    skin responses.
+        The continual firing of positronic circuits demanded an increase of
+    oxygen, so it was no surprise that both of them were breathing more rapidly.
+    Galatea stepped out of her shoes, necessitating a correction for a decrease in
+    effective height for their next kiss. It was a logical step to insert his tongue
+    into her mouth, resulting in even more synaptic bursts.
+        She had successfully divested him of most of his uniform. His
+    assistance was necessary to remove the rest, and in the process she also took
+    off her gown. Her lips caused sensation wherever they touched him, from
+    the line of his jaw down over his neck to his smooth chest. All the while, he
+    caressed her breasts and buttocks.
+        Her pubic mound was covered with crisp curls a few shades darker
+    than the hair on her head. He probed within, fiding the tissue soft and
+    cushiony yet still firmer than that of a human. He also found that the
+    synaptic bursts inreased in intensity. Her entire body shivered.
+        A moment's concentration activated the voluntary systems that
+    enlarged his penis. He had never asked Doctor Sung why he had been
+    created with sexual apparatus, assuming that it was to make him able to pass
+    more normally among humans and to distinguish him as male. Humans, he
+    had noted, had marked problems with gender neutrality and androgyny even
+    after four centuries of interaction with various alien species.
+        Whatever the reason, he was grateful to his father/creator for
+    choosing a male design. He was even more grateful when Galatea gripped
+    his stiffened penis. She slid down his body until she was kneeling, and took
+    it in her mouth. The impulses caused by contact with her lips and tongue
+    necessitated him bracing himself against his console.
+        "I suggest we retire to the other room," he said.
+        She rose, nodded. He led her to the bed, which was made with
+    mechanical precision. He did not need sheets and blankets for warmth,
+    affecting them because the humans did. He folded them back and the two of
+    them lay side by side.
+        "My internal sensors appear to demonstrate enhanced
+    responsiveness," she observed.
+        "It is not unreasonable. This area," he said, pressing a finger there,"
+    corresponds to the location of the clitoris, the most sensitive part of a human
+    woman's sexual anatomy." This time, he did see stars, an electrically-
+    induced temporary malfunction of his optical systems akin to hallucination.
+        Galatea emitted a soft oscillating sound. "Fascinating," she said.
+    "Continual or repeated contact appears to geometrically increase the
+    intensity of the stimulus."
+        "It would be logical to conclude that penetration and motion
+    resembling that of human copulation would permit us to explore this
+    theory."
+        "Yes."
+        He positioned himself between her legs. With none of the awkward
+    squirming that had characterized his encounter with Tasha, he smoothly
+    drove his penis into Galatea's vaginal orifice. They quickly found a rhythm
+    that allowed for maximum stimulation with ease of movement. Further
+    synaptic burst were triggered by kissing and caressing.
+        Their positronic circuits began firing faster, sending currents of raw
+    energy through their neural nets. Some of the excess energy spilled over,
+    resulting in a shower of blue and white sparks dancing and arcing along
+    their skin.
+        Panting now out of need for oxygen, Galatea said, "It appears a
+    minor synaptic overload is imminent."
+        "Agreed," Data replied. More excess energy was being released as
+    heat, triggering his skin's moisture cooling system.
+        She began to say something else, then her jaw snapped shut and her
+    throat arched. Data found himself likewise unable to speak.
+        It seemed that every connection in his brain was fusing, sending a
+    barrage of disjointed images skittering along his optic cables. All cognitive
+    functions temporarily shut down.
+        For an instant, his systems cross-patched to the residual echoes of
+    the emotion chip and he was actually feeling, feeling an array of emotions
+    that he had only read of previously. All were positive: joy, passion, even the
+    fleeting ambiguity humans called love.
+        Data recovered slowly. Systems came back on-line one by one, in
+    no particular order. He withdrew from Galatea and lay beside her, a few last
+    sparks crackling in his fingers and hair.
+        Her eyes opened, gold and glowing. She turned her head toward
+    him. "A most interesting experience," she said.
+        He kissed her. "Most interesting indeed."
+        "Happy birthday, Commander."
+            *       *       *
+    The End
+
+    Click here to return to the previous page.
+
+Fully Functional / Copyright 1996 - Tim Morgan / <vecna@eskimo.com>

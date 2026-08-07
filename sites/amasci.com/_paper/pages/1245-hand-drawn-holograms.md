@@ -1,0 +1,243 @@
+---
+title: "Hand-drawn Holograms"
+source_domain: amasci.com
+source_path: ~billb/amateur/holo1.html
+order: 1245
+reachable_from_entry: false
+images: 7
+internal_links: 11
+extracted: 2026-08-07T05:55:00Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Hand-drawn Holograms
+
+*Source page: `~billb/amateur/holo1.html`*
+
+<table data-cellpadding="0" data-summary="navigation links">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong><a href="http://www.amasci.com">UP</a> |</strong><br />
+</td>
+<td><strong><a href="/unew.html">GOOD STUFF</a> |</strong><br />
+</td>
+<td><strong><a href="/news.html">NEW STUFF</a> |</strong><br />
+</td>
+<td><strong><a href="/search.html">SEARCH</a></strong><br />
+</td>
+</tr>
+</tbody>
+</table>
+
+# HAND-DRAWN HOLOGRAMS
+
+### (c)1995 William J. Beaty
+
+<table data-border="5">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr data-align="center">
+<td><img src="http://www.eskimo.com/~bilb/holo/stereo2a.jpg" width="359" height="219" /><br />
+<br />
+(stereo pair, crosseye technique)</td>
+</tr>
+</tbody>
+</table>
+
+##### Giant-fringe holography? nondiffractive holograms? single-fringe holograms? scratch holograms? sandpaper holograms? abrasion holograms? scratch-o-grams? holosketches? wire-brush holograms? car-hood holograms? phonograph holograms? incoherent holography?
+
+[Email discussion](/amateur/holodisc.txt) \| [FAQ](/amateur/holohint.html) (fabrication hints) \| [Other instances](/amateur/holocc.txt) \| [Not true holograms?](/amateur/holo3.html)
+
+\
+I've stumbled across a technique for drawing holograms directly upon a plastic plate by hand. It sounds impossible, but I've been sitting on the livingroom sofa making holographic images of floating polyhedra, words, 3D starfields, opaque objects, etc. No laser, no isolation table, no darkroom, no expensive film plates. This takes nothing more than a compass and some scraps of plexiglas. Too cool, if I say so myself!\
+
+There's an interesting story behind this technique, but first, the instructions.\
+
+Obtain a small piece of acrylic plastic and a good, non-wobbly set of "dividers" (a compass with two points.) I used a \$10 compass from an art supply store and replaced the pencil lead with the supplied metal point. The compass must be the type with an adjusting screw to set the spacing of the points. Or, you can use a 4-in. piece of wood with a couple of finishing nails driven through it to form a pair of points.\
+
+Next, use a marker to draw a simple pattern such as the letter "V" near the lower edge of the plate. This will be the image that we'll encode onto the surface. Draw your "V" about 1 in. tall (2cm). Set the spacing of the compass points to a couple of inches. Place one point on the tip of the small "V" at the bottom of the square, and \*gently\* drag the other point lightly across the plastic so you make an arc-shaped scratch that looks something like the figure below. \[[BETTER IMAGES](/amateur/holohint.html#0)\] This is your first scratch. It helps to tilt the compass so the point trails across the surface and does not dig in or chatter. The scratch should be easily visible, but not extremely deep. <img src="/amateur/holo1a.gif" data-align="left" width="260" height="140" /> The scratch should be dark and polished, not white and dusty. It should show a small highlight when viewed in sunlight or under a pointsource illuminator such as a small, clear light bulb. Now, while keeping the dividers at exactly the same spacing, place the point at a different place on the little "V" and use the other point to make a single circular scratch as before. Do this again and again, ten times or more, each time placing the point on a different spot on the little "V". When completed, the overlapping arc-shaped scratches should look like you've swept a bit of sandpaper across the top of the plastic plate. The little letter "V" should be full of holes made by the other point of the compass. \[[Detailed Instructions](/amateur/holohint.html#%0A0)\]\
+
+<img src="/amateur/holo1b.gif" data-align="right" width="260" height="140" /> To view the resulting hologram image, observe the scratches in sunlight. If your plate is transparent it helps to place something black behind it, or to paint the rear surface dark for contrast. While holding the plate chest-high with the little "V" towards your body, rotate yourself around so you face the sun, tilt the plate up and down, and look at the scratches. At a certain angle you will see a moving highlight in the scratches. It will look like a collection of little stars, a mini- constellation in the shape of the letter "V". That's the hologram. If you go back and add more and more scratches in between the ones you already made, eventually your letter "V" hologram will look like solid white lines rather than rows of stars.\
+
+When viewed with both eyes open, the "V" seems to float deep within the plastic. Its virtual depth is determined by the compass: if the spacing of the points was set to 1 in., the image appears 1 in. below the plastic surface. You can also hold the plate upside down, with the scratches at the edge of the plate towards your body, and the holographic image will float in space above the plate.\
+
+- [Frequently Asked Questions (FAQ)](/amateur/holohint.html)
+
+<!-- -->
+
+- [MORE HINTS FOR MAKING/VIEWING](/amateur/holohint.html)
+
+<!-- -->
+
+- [But are these really holograms?](/amateur/holo3.html)
+
+![\[JPG: PHOTO OF VARIOUS HAND-DRAWN HOLOGRAMS IN THE SUN\]](http://www.eskimo.com/~bilb/holo/holos1a.jpg)\
+Several [hologram plates.](http://www.eskimo.com/~bilb/holo/holos1a.jpg)\
+(Obviously you cannot see the 3D effect in this flat photograph.)
+
+Depending on the tilt of the plate with respect to the sun, you might accidentally discover the "pseudoscopic" image of the "V," and it may appear to float \*above\* the surface of the plastic. Tilt the plate to bring the far edge up and towards you and you'll then find the "orthoscopic" image floating deep within the plate.\
+
+If you had inscribed your entire name on the plastic, you'd now be seeing it down there within the surface. (hint hint!) It's also possible to draw complicated 3D objects by varying the compass spacing as you slowly draw glowing lines one point at a time. The distance between the compass points controls the depth of the hologram-dots you are making. I've been drawing cubes, pyramids, and holes with glowing stars at the bottom. As with conventional holograms, opacity effects can be achieved by controlling the location of the endpoints of the scratches. And many other sophisticated effects produced by conventional rainbow holography can be duplicated in black plastic and scratch patterns.\
+
+## CHANCE FAVORS THE \*CURIOUS,PLAYFUL\* MIND
+
+All this all started while I was walking along the rows of cars in the parking lot at work. I noticed this one black station wagon hood that had a number of glowing highlights created by the sunlight. Typical science hobbyist response: I stopped and began playing with them. I was moving my head back and forth in order to make them slide around, when I noticed that some of the highlights seemed to exist a few inches WITHIN the surface of the car hood. I've long been interested in stereo images, so I started examining these "deep" highlights in detail. Some of the larger ones had an interesting structure, appearing as an 8 in. circular blotch of light with a radial pattern of filaments and a mottled central area. All these highlight-patterns seemed identical, and were floating at various depths within the car hood.
+
+------------------------------------------------------------------------
+
+![JPG: GLOWING WHITE HANDPRINTS FLOAT WITHIN MY TRUCK'S HOOD](http://www.eskimo.com/~bilb/holo/hood1a.jpg)\
+
+[Gritty car hood after careful "polishing" with a dry paper towel.](http://www.eskimo.com/~bilb/holo/hood1a.jpg)
+
+> The handprints in the above photo might appear to be on the surface of the hood, but in real life they look holographic and seem to float about one foot deep within the surface of the hood. Looks like white fish in a dark pond.
+
+------------------------------------------------------------------------
+
+With a start I suddenly I realized what I was seeing. It was incredible: each highlight was in the shape of a wool polishing mit, with matted fibers in the center surrounded by outwards-pointing wooly filaments! The matted part was in the shape of a human hand! There were several of them floating at various depths all over the car hood, with some of them even floating in space \*above\* the hood. They had been invisible to me, but then they weren't. [Science is perception!](/weird/wseeing.html) It wasn't long before I had half the engineering department out there acting like fools, moving their heads back and forth in front of this black station wagon. I searched through the rest of the sunlit parking lot and found several other cars with glowing handprints deep within various surfaces.\
+
+![](http://www.eskimo.com/~bilb/holo/hoodzm1b.jpg)\
+[Closeup of handprint pattern, 6" virtual depth](http://www.eskimo.com/~bilb/holo/hoodzm1b.jpg)\
+
+I proposed several crude theories to explain the phenomena, as well as numerous hoaxes which could be done via [Elvis-shaped polishing mitts](http://www.churchofelvis.com) to encode miraculous images onto everyday objects. (The Hood of Turin?) It was about a week before I figured out what was really going on. The images were naturally-occurring holograms. The owner of the car had obviously polished the hood with a dirty mit, and the millions of particles of grit in the mit traced out millions of nearly-parallel scratches in the black paint. The particular hand motion had created a geometry of abrasion patterns which turn out to be nearly identical to the interference patterns which make up those embossed-foil Benton whitelight\
+
+But there was something extremely weird about the abrasion patterns on the hood (I mean even more weird than their causing images!) These scratches have random spacing. They seemed to be functioning as holograms without the benefit of optical interference. This is impossible of course, since holography is completely based upon interference effects. However, the "Rainbow" hologram technique invented by Benton allows a hologram to function regardless of illumination frequency. The classic single-stage "Rainbow" holography setup includes a horizontal slit which produces relatively large horizontal swatches of fine-line interference patterns on the film, and these encode the depth information as variations in orientation of the fringes across the stripe. In Benton's Rainbow Holograms, only the fringe orientation is important. Once I was clued in by the existence of the car-hood holograms, I realized that I could also interpret Benton's technique as allowing holograms to function regardless of \*fringe spacing.\* Frequency independence leads to size independence of fringes. No one seems to realize that a Rainbow Hologram will still function if the spacing of its fringes was made random. Or if it were to be made immensely large.\
+
+> (See:[Are they \*really\* holograms?](/amateur/holo3.html), and\
+> [Scratch-holography FAQ](/amateur/holohint.html))
+
+\
+
+No one seems to realize that the well-known "Rainbow Hologram" technique can also let you produce holograms which are not based on optical interference at all. It makes it possible for you to create holograms where the "inteerference fringes" are so large that they are easily seen by the naked eye,;where they are more like the grooves of an LP record than like the patterns on a CDROM. And if the arrays of hyperbolic interference fringes in a conventional Rainbow Hologram are replaced by widely-spaced, hand-ruled scratches on a plastic plate, it becomes possible to draw complicated holographic images directly by hand with a sharp tool. Multiple parallel scratches aren't necessarily required, and circles can replace the hyperbolae. The circular-scratch technique is able to produce holographic images, and sweeping circular motions of gritty polishing mits can produce these holograms accidentally.\
+
+<img src="http://www.eskimo.com/~bilb/holo/stereo2d.jpg" width="518" height="328" />\
+[Hand-drawn cube hologram](http://www.eskimo.com/~bilb/holo/stereo2d.jpg)
+
+#### (STEREO PAIR, for crosseyed viewing)
+
+\
+
+Has anyone heard of this trick before? I've yet to find it mentioned in any holography article or text. It's starting to look like this is something new...\
+
+> (AHA! Someone clued me in. A 1992 paper by Plummer & Gardner (ref. below) details just such a discovery. The authors completely analyse the math behind the reflections made by arrays of circular scratches produced by the orbits of a lapping tool on a metal mirror. -Bill B., 10/23/95\
+>
+> Noah Spurrier points out a SciAm article on phonograph record optics from 1989. And Nils Abramson points out a predecessor of the curved-scratch technique from 1930!)\
+>
+> Now I hear that Gabriel Liebermann was making scratch-holograms with an NC-machine back in 1981! See an article on his piece called "[World Brain](http://www.garfield.library.upenn.edu/essays/v5p348y1981-82.pdf)"
+
+The scratch-hologram technique might be very useful in reducing the amount of data required for computer-generated holography. The size independence characteristic suggests that billboard-sized holograms wouldn't be impossible to build. Also, an incoherent-light holo-camera is feasible: if an object is illuminated with structured light resembling a dense random starfield and is photographed at 2f distance by a camera having a curved slit-aperature over its lens, and if the resulting plate is used to etch fine lines onto a metal or plastic surface, the result will be a photographically produced "scratch hologram" of the original object.\
+
+Conventional Rainbow Embossed holograms do trounce it badly in the brightness and sharpness catagories, but conventional techniques won't let you create a "physics demo" hologram with giant interference fringes easily viewed with the unaided eye. And conventional holography won't let you sit by the side of a lake in Vermont with plexi and dividers, drawing holographic virtual images of floating polyhedra by hand.\
+
+\- Bill Beaty billb@eskimo.com\
+
+P.S. The required tools are so simple that primitive peoples could have drawn these images in hardened sooty resin pools with wooden tools, had they but known the trick. Several ancient civilizations were heavily into geometry. I wonder if any artifacts exist in storage somewhere which appear to have some 'sandpaper marks' on their polished surfaces... ;)\
+
+------------------------------------------------------------------------
+
+LOOKING FOR BOOKS? Try searching [amazon.com](http://www.amazon.com/exec/obidos/redirect-home/sci%0Aencehobbyist):\
+
+(try "science fair" too)
+
+Help Support [the Science Club](http://www.halcyon.com/sciclub/), use the above form to buy your books.\
+(We make a few \$\$ on any books ordered via these links.)
+
+------------------------------------------------------------------------
+
+    REFERENCES
+
+    Nils Abramson, Incoherent 
+    Holography, Proc. SPIE Vol. 4149, p. 
+    153-164, Holography 2000, Tung H. Jeong; Werner K. Sobotka; Eds.
+
+    W. Plummer & L. Gardner, Applied Optics, V.31 No.31, Nov. 1992, 
+    pp. 6585-6588,A mechanically generated hologram?, 
+
+    Hans Weil, 1930s 
+    work
+
+    E. Garfield, Essays of an Information Scientist, V5 pp348-354 1981-82
+    ISI's 
+    "World Brain" by Gabriel Liebermann: The World's First Holographic 
+    Engraving  (3ft x 4ft scribed aluminum)
+
+    Jearl Walker, WHAT DO PHONOGRAPH RECORDS HAVE IN COMMON WITH WINDSHIELD
+    WIPERS?  The Amateur Scientist, Scientific American. July 1989 Vol261 No1. 
+    pp106-109
+
+    "A Binocular Illusion" by Paul Kirkpatrick in American Journal of Physics.
+    Vol. 22, No 7. Page 492. October 1954.
+
+    "Reflections on a gramophone record" by J.B. Lott in Mathematical Gazette.
+    Vol. 47, No. 360. Pages 113-118. May 1963.
+
+    F. S. Yu, A. Tal, H. Chen, Optical Engineering, Vol.19 No.5, 
+      pp. 666-678, "One-step rainbow holography: recent development
+      and application."
+
+    W. Siemens-Wapniarski, M. Givens, Applied Optics, March 1968, 
+    vol 7 no 3, p535 "Experimental Production of Synthetic Holograms."  
+
+    H. Caulfield, National Geographic, Vol.165, No.3, p. 372 
+
+### LINKS
+
+- Hand-drawn Hologram [Frequently-asked Questions](/amateur/holohint.html)
+- [Email discussion](/amateur/holodisc.txt)
+- [Other occurrences](/amateur/holocc.txt) of "scratch holograms"
+- [It's not holographic?](/amateur/holo3.html)
+
+<!-- -->
+
+- "[World Brain](http://www.garfield.library.upenn.edu/essays/v5p348y1981-82.pdf)"
+- Discussion on [metafilter](http://www.metafilter.com/mefi/20432)
+- [John Gusty's page](http://www.johngusty.com/holog2b.htm) on hand-etched holograms
+- [Engine Turning](http://www.rgmwatches.com/engine.html)
+- [Integraf](http://www.holokits.com), laser-pointer holograms, Russian film plates
+- [3D Hacker](http://www.cadvision.com/3dhacker/links.htm)
+- [3D Links](http://www.lhup.edu/~dsimanek/3d/3dpage.htm)
+- [Webseum](http://www.holoworld.com/holo/links.html) holography links page
+- ["Virtual Window"](http://www.dti3d.com)video display (Jesse E.)
+- [Holo Hardcopy](http://www.nli-ltd.com/products/dot_matrix_mastering/main.htm), S. McGrew, NLI
+- [Hologram history](http://www.connix.com/~barefoot/history.htm)
+- [3DVG](http://www.3-dvg.com/) anomalous stereopsis
+
+### SOME HOLOGRAM HOBBYISTS
+
+- [Laser pointer Holograms](http://www.holoworld.com/holo/diode.html)
+- [Holography in Norway!](http://www.techsoft.no/holography/)
+- [Holografie](http://www.holografie.com/) (Deutch)
+- [3Dimagery](http://www.3dimagery.com/), make your own holograms
+- [DeFreitas' Webseum](http://www.holoworld.com) (excellent!)
+- [SAS: Amateur Holography](http://earth.thesphere.com/SAS/SciGrps/HolographyGrps/GeorgeK/holopg.htm)
+- [LASER](http://earth.thesphere.com/SAS/SciGrps/HolographyGrps/LASER.html) Laser Arts Soc. for Edu. & Research
+- [Practical Holography](http://www.holo.com/holo/book/book1.html), online book
+
+Buy these books at AMAZON.COM:\
+
+[Homemade (laser) Holograms : The Complete Guide to Inexpensive, Do-It-Yourself Holography](http://www.amazon.com/exec/obidos/ISBN=0830634606/sciencehobbyist/)\
+
+[The Complete Book of Holograms : How They Work and How to Make Them](http://www.amazon.com/exec/obidos/ISBN=0471629413/sciencehobbyist/)\
+
+[Holography Handbook : Making Holograms the Easy Way](http://www.amazon.com/exec/obidos/ISBN=0894960164/sciencehobbyist/)\
+
+------------------------------------------------------------------------
+
+ALSO: the hand-drawn hologram project now appears in:\
+
+> [Yesmag](http://www.yesmag.bc.ca/projects/projects.html) Science Magazine, \#9, Spring '98 p25
+>
+> > ...and was featured in an old episode of "The Big Bang", a children's science TV show in the UK.\
+> >
+> >
+> >
+> > [/amateur/holo1.html](/amateur/holo1.html)\
+> > Created and maintained by [Bill Beaty](/billb.html). Mail me at: [billb@eskimo.com](/amateur/amform.html#urls).\
+> > If you are using Lynx, type "c" to email.

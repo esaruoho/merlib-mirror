@@ -1,0 +1,453 @@
+Path: bunyip.cc.uq.edu.au!rwb
+~From: rwb@maths.uq.edu.au (Richard Bean)
+~Newsgroups: comp.lang.c
+~Subject: smallest prime generation program
+~Date: 19 Sep 2000 02:38:40 GMT
+Organization: University of Queensland
+~Lines: 37
+Message-ID: <8q6jjg$l8f$1@bunyip.cc.uq.edu.au>
+NNTP-Posting-Host: hamble.maths.uq.edu.au
+X-Trace: bunyip.cc.uq.edu.au 969331120 21775 130.102.160.20 (19 Sep 2000 02:38:40 GMT)
+X-Complaints-To: news@uq.edu.au
+NNTP-Posting-Date: 19 Sep 2000 02:38:40 GMT
+Keywords: ioccc prime number generation
+X-Newsreader: NN version 6.5.1 (NOV)
+~Xref: bunyip.cc.uq.edu.au comp.lang.c:448118
+
+I was going through my hard disk and came across
+a 1994 #coders IRClog:
+
+-Mrfbot- The output of your program should (only) show all prime numbers
+-Mrfbot- between 1 and 1000 in numeral order, seperated by a space only.
+-Mrfbot- All values should be in decimal format and no leading zeros allowed.
+-Mrfbot- (output must be like: "2 3 5 7 11 13 17 19 23 ... 997")
+-Mrfbot- All tricks are allowed. The smallest program wins.
+-Mrfbot- Programs should return to DOS properly in a stable state.
+-Mrfbot- Current smallest program so far is: 43 bytes by BitZero.
+
+I was amazed by the size of this and tried to do the same for C.
+
+I started with
+
+p(i,k){for(k=2;k<i;k++)if(i%k==0)return 0;return 1;}
+main(i){for(i=2;i<1000;i++)if(p(i))printf("%d ",i);}
+
+and improved this to
+
+main(i,j,k){for(i=2;i<1e3;i++){for(j=2,k=1;j<i;j++)if(i%j==0)k=0;if(k)printf("%d ",i);}}
+
+and a local programmer Peter Adams improved this to 84 characters
+
+main(i,j,k){for(i=2;i<1e3;i++){for(j=2,k=1;j<i;j++)k=k&&i%j;if(k)printf("%d ",i);}}
+
+Can you do better?  No macro or #define cheating on the command line
+or elsewhere.  I'm sure improvement is possible as Peter & I
+are both inexperienced obfuscatory programmers, though I have
+seen all the IOCCC prime programs.
+
+Mainly I am interested in pure C, though partial credit is given for
+
+(a) a system() call to the UNIX program factor
+or
+(b) a system() call to an APL program where the size of the 
+C program + the APL program < 84 bytes (This is easy!)
+
+Path: bunyip.cc.uq.edu.au!rwb
+~From: rwb@maths.uq.edu.au (Richard Bean)
+~Newsgroups: comp.lang.c
+~Subject: Re: smallest prime generation program
+~Date: 19 Sep 2000 03:34:16 GMT
+Organization: University of Queensland
+~Lines: 7
+Message-ID: <8q6mro$p2i$1@bunyip.cc.uq.edu.au>
+~References: <8q6jjg$l8f$1@bunyip.cc.uq.edu.au>
+NNTP-Posting-Host: hamble.maths.uq.edu.au
+X-Trace: bunyip.cc.uq.edu.au 969334456 25682 130.102.160.20 (19 Sep 2000 03:34:16 GMT)
+X-Complaints-To: news@uq.edu.au
+NNTP-Posting-Date: 19 Sep 2000 03:34:16 GMT
+Keywords: ioccc prime number generation
+X-Newsreader: NN version 6.5.1 (NOV)
+~Xref: bunyip.cc.uq.edu.au comp.lang.c:448129
+
+Sorry, I should have waited a bit before posting.
+
+Here's 78 characters, if you execute it with "./program"
+
+main(i,j,k){while(i++<1e3){for(j=k=2;j<i;j++)k=k&&i%j;if(k)printf("%d ",i);}}
+
+and I realize that asking for apl, factor, dc, or bc code is off-topic.
+
+Path: bunyip.cc.uq.edu.au!news1.optus.net.au!optus!skywalker.ou.edu!feed1.news.rcn.net!rcn!netnews.com!oleane.net!oleane!wanadoo.fr!fgrieu
+~From: Francois Grieu <fgrieu@micronet.fr>
+~Newsgroups: comp.lang.c
+~Subject: Re: smallest prime generation program
+~Date: Tue, 19 Sep 2000 07:10:39 +0200
+Organization: Wanadoo, l'internet avec France Telecom
+~Lines: 15
+Message-ID: <fgrieu-146ED6.07103919092000@news.wanadoo.fr>
+~References: <8q6jjg$l8f$1@bunyip.cc.uq.edu.au>
+NNTP-Posting-Host: atuileries-101-1-1-62.abo.wanadoo.fr
+X-Trace: wanadoo.fr 969340233 21915 193.251.49.62 (19 Sep 2000 05:10:33 GMT)
+X-Complaints-To: abuse@wanadoo.fr
+NNTP-Posting-Date: 19 Sep 2000 05:10:33 GMT
+User-Agent: MT-NewsWatcher/F3.0 (PPC)
+~Xref: bunyip.cc.uq.edu.au comp.lang.c:448141
+
+rwb@maths.uq.edu.au (Richard Bean) wrote in 83 chars:
+
+main(i,j,k){for(i=2;i<1e3;i++){for(j=2,k=1;j<i;j++)k=k&&i%j;if(k)printf("
+%d ",i);}}
+
+
+a minor tweak get us to 79 chars
+
+main(i,j,k){for(i=1;i++<999;){for(k=j=1;++j<i;)k=k&&i%j;if(k)printf("%d 
+",i);}}
+
+
+NB: the file length must acount for a required final newline.
+
+ Francois Grieu
+
+~Newsgroups: comp.lang.c
+~Subject: Re: smallest prime generation program
+~References: <8q6jjg$l8f$1@bunyip.cc.uq.edu.au> <ZbBx5.7161$hu1.1665@client>
+~From: Andreas Kähäri <andkaha@hello.to.REMOVE>
+X-Newsreader: trn 4.0-test74 (May 26, 2000)
+NNTP-Posting-Host: bazaar.it.uu.se
+Message-ID: <39c72660@merganser.its.uu.se>
+~Date: 19 Sep 2000 10:40:00 +0100
+X-Trace: 19 Sep 2000 10:40:00 +0100, bazaar.it.uu.se
+~Lines: 26
+Path: bunyip.cc.uq.edu.au!news1.optus.net.au!optus!skywalker.ou.edu!feed1.news.rcn.net!rcn!feed2.news.luth.se!luth.se!newsfeed.sunet.se!news01.sunet.se!newsfeed.uu.se!merganser.its.uu.se!not-for-mail
+~Xref: bunyip.cc.uq.edu.au comp.lang.c:448165
+
+In article <ZbBx5.7161$hu1.1665@client>,
+Dann Corbit <dcorbit@solutionsiq.com> wrote:
+>Nice nasal demon generator.  Varadic functions with no prototype in scope.
+>Illegal declaration of main().  Any program which does not cause Scott Nudds
+>to fly out of the left nostril 'does better.'
+>--
+>C-FAQ: http://www.eskimo.com/~scs/C-faq/top.html
+> "The C-FAQ Book" ISBN 0-201-84519-9
+>C.A.P. Newsgroup   http://www.dejanews.com/~c_a_p
+>C.A.P. FAQ: ftp://38.168.214.175/pub/Chess%20Analysis%20Project%20FAQ.htm
+>
+
+An ISO C version then? (with only one loop)
+
+#include <stdio.h> 
+int main(){int i=2,j=1,k;while(i!=1001){k=j<2;if(k||!(i%j)){if(k)printf("%d ",i);j=i++;}else--j;}return 0;}
+
+128 bytes
+
+/A
+
+-- 
+Andreas Kähäri, <URL:http://hello.to/andkaha/>. Junk mail, no.
+------------------------------------------------------------------------
+Be alert! The world needs more lerts.
+
+
+~Newsgroups: comp.lang.c
+~Subject: Re: smallest prime generation program
+~References: <8q6jjg$l8f$1@bunyip.cc.uq.edu.au> <ZbBx5.7161$hu1.1665@client> <39c72660@merganser.its.uu.se>
+~From: Andreas Kähäri <andkaha@hello.to.REMOVE>
+X-Newsreader: trn 4.0-test74 (May 26, 2000)
+NNTP-Posting-Host: bazaar.it.uu.se
+Message-ID: <39c73122@merganser.its.uu.se>
+~Date: 19 Sep 2000 11:25:54 +0100
+X-Trace: 19 Sep 2000 11:25:54 +0100, bazaar.it.uu.se
+~Lines: 32
+Path: bunyip.cc.uq.edu.au!news1.optus.net.au!optus!skywalker.ou.edu!feed1.news.rcn.net!rcn!cpk-news-hub1.bbnplanet.com!news.gtei.net!diablo.netcom.net.uk!netcom.net.uk!news1.ebone.net!news.ebone.net!newsfeed.sunet.se!news01.sunet.se!newsfeed.uu.se!merganser.its.uu.se!not-for-mail
+~Xref: bunyip.cc.uq.edu.au comp.lang.c:448168
+
+In article <39c72660@merganser.its.uu.se>,
+Andreas Kähäri  <andkaha@hello.to.REMOVE> wrote:
+[cut]
+>
+>An ISO C version then? (with only one loop)
+>
+>#include <stdio.h> 
+>int main(){int
+>i=2,j=1,k;while(i!=1001){k=j<2;if(k||!(i%j)){if(k)printf("%d
+>",i);j=i++;}else--j;}return 0;}
+>
+>128 bytes
+>
+>/A
+
+Ok, 113 bytes ISO C:
+
+#include <stdio.h>
+int main(){int i=1,j;while(i-1e3){for(++i,j=1;i%++j*i>j;);if(j==i)printf("%d ",i);}return 0;}
+
+I'm a bit worried about the looping condition though... Is there a
+problem with i%++j*i>j? I'm thinking of the infamous "i=i++" bug. What
+'j' is it I'm accessing at the end of the condition? The incremented
+'j' or the old one?
+
+/A
+
+-- 
+Andreas Kähäri, <URL:http://hello.to/andkaha/>. Junk mail, no.
+------------------------------------------------------------------------
+Be alert! The world needs more lerts.
+
+
+Path: bunyip.cc.uq.edu.au!news1.optus.net.au!optus!newshub1.rdc1.nsw.optushome.com.au!news.mel.connect.com.au!news.syd.connect.com.au!nsw.nnrp.telstra.net!intgwlon.nntp.telstra.net!news.tele.dk!212.74.64.35!colt.net!diablo.theplanet.net!news.sol.co.uk!news-reader1.sol.co.uk!not-for-mail
+~From: Mathew Hendry <math@vissci.com>
+~Newsgroups: comp.lang.c
+~Subject: Re: smallest prime generation program
+~Date: Tue, 19 Sep 2000 12:24:59 +0100
+Organization: Visual Sciences
+~Lines: 25
+Message-ID: <fghesssjrcgi9n2tudqp85h33v4rmeheh6@4ax.com>
+~References: <8q6jjg$l8f$1@bunyip.cc.uq.edu.au> <ZbBx5.7161$hu1.1665@client> <39c72660@merganser.its.uu.se> <39c73122@merganser.its.uu.se>
+~Reply-To: math@vissci.com
+NNTP-Posting-Host: wiggum.vissci.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-Newsreader: Forte Agent 1.8/32.548
+~Xref: bunyip.cc.uq.edu.au comp.lang.c:448186
+
+Andreas Kähäri <andkaha@hello.to.REMOVE> wrote:
+
+: Ok, 113 bytes ISO C:
+: 
+: #include <stdio.h>
+: int main(){int i=1,j;while(i-1e3){for(++i,j=1;i%++j*i>j;);if(j==i)printf("%d ",i);}return 0;}
+: 
+: I'm a bit worried about the looping condition though... Is there a
+: problem with i%++j*i>j? I'm thinking of the infamous "i=i++" bug. What
+: 'j' is it I'm accessing at the end of the condition? The incremented
+: 'j' or the old one?
+
+Unspecified.
+
+For 103 characters try
+
+  #include <stdio.h>
+  main(){int i=2,j=1;while(i<1001)i%j*j>1?--j:(j<2&&printf("%d ",i),j=i++);return 0;}
+
+Add a few more if you want a C99 version.
+
+-- 
+
+Mathew Hendry, Programmer, Visual Sciences Ltd.
+Work <math@vissci.com>, Home <scampi@dial.pipex.com>
+
+Path: bunyip.cc.uq.edu.au!news1.optus.net.au!optus!news.mel.connect.com.au!news-spur1.maxwell.syr.edu!news.maxwell.syr.edu!oleane.net!oleane!isdnet!isdnethub!fgrieu
+~From: Francois Grieu <fgrieu@micronet.fr>
+~Newsgroups: comp.lang.c
+~Subject: Re: smallest prime generation program
+~Date: Tue, 19 Sep 2000 14:13:07 +0200
+~Lines: 12
+Message-ID: <fgrieu-7EC3D6.14130719092000@news.cybercable.fr>
+~References: <8q6jjg$l8f$1@bunyip.cc.uq.edu.au> <ZbBx5.7161$hu1.1665@client> <39c72660@merganser.its.uu.se> <39c73122@merganser.its.uu.se>
+NNTP-Posting-Host: e012.dhcp212-106.cybercable.fr
+X-Trace: news5.isdnet.net 969365586 48089 212.198.106.12 (19 Sep 2000 12:13:06 GMT)
+X-Complaints-To: abuse@isdnet.net
+NNTP-Posting-Date: 19 Sep 2000 12:13:06 GMT
+User-Agent: MT-NewsWatcher/3.0 (PPC)
+~Xref: bunyip.cc.uq.edu.au comp.lang.c:448198
+
+For a C89 compliant one, what about:
+
+#include <stdio.h>
+main(){int i=1,j;while(999-i++){for(j=1;i%++j;);if(j==i)printf("%d 
+",i);}return 0;}
+
+This is 17+83 = 100 chars, plus the two 2 required eol.
+
+I believe the int qualifier for the return type of main (or any function 
+whatsoever) is "explicitly implicit"; void main() is a no-no, of course.
+
+  Francois Grieu
+
+Path: bunyip.cc.uq.edu.au!news1.optus.net.au!optus!intgwpad.nntp.telstra.net!news-hog.berkeley.edu!ucberkeley!news.maxwell.syr.edu!newsfeed.icl.net!diablo.theplanet.net!news.sol.co.uk!news-reader1.sol.co.uk!not-for-mail
+~From: Mathew Hendry <math@vissci.com>
+~Newsgroups: comp.lang.c
+~Subject: Re: smallest prime generation program
+~Date: Tue, 19 Sep 2000 17:13:20 +0100
+Organization: Visual Sciences
+~Lines: 21
+Message-ID: <pe3fss8a70vst38f484pmp5jd0bqogi1u1@4ax.com>
+~References: <8q6jjg$l8f$1@bunyip.cc.uq.edu.au> <ZbBx5.7161$hu1.1665@client> <39c72660@merganser.its.uu.se> <39c73122@merganser.its.uu.se> <fgrieu-7EC3D6.14130719092000@news.cybercable.fr>
+~Reply-To: math@vissci.com
+NNTP-Posting-Host: wiggum.vissci.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Newsreader: Forte Agent 1.8/32.548
+~Xref: bunyip.cc.uq.edu.au comp.lang.c:448246
+
+Francois Grieu <fgrieu@micronet.fr> wrote:
+
+: For a C89 compliant one, what about:
+: 
+: #include <stdio.h>
+: main(){int i=1,j;while(999-i++){for(j=1;i%++j;);if(j==i)printf("%d 
+: ",i);}return 0;}
+: 
+: This is 17+83 = 100 chars, plus the two 2 required eol.
+
+That first line is 18 characters, not 17. But with a little rearrangement
+ 
+  #include<stdio.h>
+  main(){int i=1,j;while(999-i++)for(j=1;i%++j||j==i&&!printf("%d ",i););return 0;}
+
+17+81+2 = 100
+
+-- 
+
+Mathew Hendry, Programmer, Visual Sciences Ltd.
+Work <math@vissci.com>, Home <scampi@dial.pipex.com>
+
+Path: bunyip.cc.uq.edu.au!news1.optus.net.au!optus!intgwpad.nntp.telstra.net!news-hog.berkeley.edu!ucberkeley!news.maxwell.syr.edu!newsfeed.icl.net!newsfeeds.belnet.be!news.belnet.be!isdnet!isdnethub!fgrieu
+~From: Francois Grieu <fgrieu@micronet.fr>
+~Newsgroups: comp.lang.c
+~Subject: Re: smallest prime generation program
+~Date: Tue, 19 Sep 2000 19:33:15 +0200
+~Lines: 18
+Message-ID: <fgrieu-87899F.19331519092000@news.cybercable.fr>
+~References: <8q6jjg$l8f$1@bunyip.cc.uq.edu.au> <ZbBx5.7161$hu1.1665@client> <39c72660@merganser.its.uu.se> <39c73122@merganser.its.uu.se> <fgrieu-7EC3D6.14130719092000@news.cybercable.fr> <pe3fss8a70vst38f484pmp5jd0bqogi1u1@4ax.com>
+NNTP-Posting-Host: e012.dhcp212-106.cybercable.fr
+X-Trace: news4.isdnet.net 969384800 19973 212.198.106.12 (19 Sep 2000 17:33:20 GMT)
+X-Complaints-To: abuse@isdnet.net
+NNTP-Posting-Date: 19 Sep 2000 17:33:20 GMT
+User-Agent: MT-NewsWatcher/3.0 (PPC)
+~Xref: bunyip.cc.uq.edu.au comp.lang.c:448261
+
+Mathew Hendry <math@vissci.com> proposed the C89 program:
+
+#include<stdio.h>
+main(){int i=1,j;while(999-i++)for(j=1;i%++j||j==i&&!printf("%d 
+",i););return 0;}
+
+> 17+81+2 = 100
+
+
+Tweaked to:
+
+#include<stdio.h>
+main(){int i=1,j;while(999-i++)for(j=1;printf(i-++j?"":"%d 
+",i),i%j;);return 0;}
+
+This is 17 + 80 + 2 eol = 99
+
+   Francois Grieu
+
+Path: bunyip.cc.uq.edu.au!news1.optus.net.au!optus!intgwpad.nntp.telstra.net!news-hog.berkeley.edu!ucberkeley!news.maxwell.syr.edu!newsfeed.icl.net!colt.net!newspeer.clara.net!news.clara.net!oleane.net!oleane!wanadoo.fr!fgrieu
+~From: Francois Grieu <fgrieu@micronet.fr>
+~Newsgroups: comp.lang.c
+~Subject: Re: smallest prime generation program
+~Date: Tue, 19 Sep 2000 22:29:38 +0200
+Organization: Wanadoo, l'internet avec France Telecom
+~Lines: 23
+Message-ID: <fgrieu-5315AC.22293819092000@news.wanadoo.fr>
+~References: <8q6jjg$l8f$1@bunyip.cc.uq.edu.au> <ZbBx5.7161$hu1.1665@client> <39c72660@merganser.its.uu.se> <39c73122@merganser.its.uu.se> <fgrieu-7EC3D6.14130719092000@news.cybercable.fr> <pe3fss8a70vst38f484pmp5jd0bqogi1u1@4ax.com> <fgrieu-87899F.19331519092000@news.cybercable.fr>
+NNTP-Posting-Host: atuileries-101-1-1-62.abo.wanadoo.fr
+X-Trace: wanadoo.fr 969395374 9296 193.251.49.62 (19 Sep 2000 20:29:34 GMT)
+X-Complaints-To: abuse@wanadoo.fr
+NNTP-Posting-Date: 19 Sep 2000 20:29:34 GMT
+User-Agent: MT-NewsWatcher/F3.0 (PPC)
+~Xref: bunyip.cc.uq.edu.au comp.lang.c:448293
+
+Mathew Hendry <math@vissci.com> proposed:
+
+#include<stdio.h>
+main(){int i=1,j;while(999-i++)for(j=1;i%++j||j==i&&!printf("%d ",i););return 0;}
+
+> 17+81+2 = 100
+
+
+Further tweaked into
+
+#include<stdio.h>
+main(){int i=1,j;while(i++<999)for(j=1;++j<i||printf("%d ",i),i%j;);return 0;}
+
+This is 17 + 78 + 2 eol = 97
+
+
+   Francois Grieu
+
+NB: I fixed the "literal newlines inside string constants" thing
+found by "Dann Corbit" <dcorbit@solutionsiq.com> (that was a
+formatting issue with my news program)
+But worse, a final putc('\n') is needed for strict C89
+conformance, and this will cost a harm and a leg ;-(
+
+Path: bunyip.cc.uq.edu.au!news1.optus.net.au!optus!intgwpad.nntp.telstra.net!newspump.monmouth.com!newspeer.monmouth.com!newsfeed.wirehub.nl!hermes.visi.com!news-out.visi.com!zapata.tvd.be!news.tvd.be!news.chello.be!not-for-mail
+Message-ID: <39C7EA50.A2E1D02F@tvd.be>
+~From: Sammy Mannaert <nstalkie@tvd.be>
+X-Mailer: Mozilla 4.61 [en] (X11; U; OpenBSD 2.7 i386)
+X-Accept-Language: en
+MIME-Version: 1.0
+~Newsgroups: comp.lang.c
+~Subject: Re: smallest prime generation program
+~References: <8q6jjg$l8f$1@bunyip.cc.uq.edu.au>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+~Lines: 22
+~Date: Tue, 19 Sep 2000 20:45:56 GMT
+NNTP-Posting-Host: 195.162.214.123
+X-Complaints-To: abuse@chello.be
+X-Trace: news.chello.be 969396356 195.162.214.123 (Tue, 19 Sep 2000 22:45:56 MET DST)
+NNTP-Posting-Date: Tue, 19 Sep 2000 22:45:56 MET DST
+Organization: Chello Usenet Service
+~Xref: bunyip.cc.uq.edu.au comp.lang.c:448299
+
+Richard Bean wrote:
+
+> I was going through my hard disk and came across
+> a 1994 #coders IRClog:
+>
+> -Mrfbot- The output of your program should (only) show all prime numbers
+> -Mrfbot- between 1 and 1000 in numeral order, seperated by a space only.
+> -Mrfbot- All values should be in decimal format and no leading zeros allowed.
+> -Mrfbot- (output must be like: "2 3 5 7 11 13 17 19 23 ... 997")
+> -Mrfbot- All tricks are allowed. The smallest program wins.
+> -Mrfbot- Programs should return to DOS properly in a stable state.
+> -Mrfbot- Current smallest program so far is: 43 bytes by BitZero.
+
+they probably meant binary size .. this was most probably an i386 ASM contest.
+43 bytes isn't even THAT good i think :)  (used to program assembler)
+
+though i would like a contest with smallest source size :) (using no -D(efine)
+lines with the compiler, no #define's and using only ansi c (no implicit int's,
+or main() that has 5 parameters etc...:)
+
+
+
+
+Path: bunyip.cc.uq.edu.au!news1.optus.net.au!optus!intgwpad.nntp.telstra.net!news-hog.berkeley.edu!ucberkeley!news.maxwell.syr.edu!tank.news.pipex.net!pipex!tube.news.pipex.net!pipex!not-for-mail
+~From: Mathew Hendry <scampi@dial.pipex.com>
+~Newsgroups: comp.lang.c
+~Subject: Re: smallest prime generation program
+~Date: Tue, 19 Sep 2000 21:48:51 +0100
+Organization: home
+~Lines: 9
+Message-ID: <q5kfss0an77llsusq32ucen1isaiedndeo@4ax.com>
+~References: <8q6jjg$l8f$1@bunyip.cc.uq.edu.au> <ZbBx5.7161$hu1.1665@client> <39c72660@merganser.its.uu.se> <39c73122@merganser.its.uu.se> <fgrieu-7EC3D6.14130719092000@news.cybercable.fr> <pe3fss8a70vst38f484pmp5jd0bqogi1u1@4ax.com> <fgrieu-87899F.19331519092000@news.cybercable.fr> <fgrieu-5315AC.22293819092000@news.wanadoo.fr>
+NNTP-Posting-Host: useraz28.uk.uudial.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Trace: lure.pipex.net 969396570 21838 62.188.139.217 (19 Sep 2000 20:49:30 GMT)
+X-Complaints-To: abuse@uk.uu.net
+NNTP-Posting-Date: 19 Sep 2000 20:49:30 GMT
+X-Newsreader: Forte Agent 1.7/32.534
+~Xref: bunyip.cc.uq.edu.au comp.lang.c:448300
+
+On Tue, 19 Sep 2000 22:29:38 +0200, Francois Grieu <fgrieu@micronet.fr> wrote:
+
+>But worse, a final putc('\n') is needed for strict C89
+>conformance, and this will cost a harm and a leg ;-(
+
+puts("") is a little better...
+
+-- Mat.
+
+

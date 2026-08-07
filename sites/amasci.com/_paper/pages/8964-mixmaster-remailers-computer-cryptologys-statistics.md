@@ -1,0 +1,83 @@
+---
+title: "Mixmaster Remailers - Computer Cryptology's Statistics"
+source_domain: amasci.com
+source_path: ~turing/remailer/stats/mlist.html
+order: 8964
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:01:28Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mixmaster Remailers - Computer Cryptology's Statistics
+
+*Source page: `~turing/remailer/stats/mlist.html`*
+
+## Computer Cryptology's Statistics
+
+### Mixmaster Remailers
+
+\
+\
+This is an automatically generated list of remailer reliability statistics. Please see the [Interpretation section](#Int) below for more information. [Cypherpunk](rlist.html), [Chain](rchain.html), and [Version 2](mlist2.html) stats are also available.\
+\
+\
+
+    Last update: Fri 31 Aug 2001 18:36:54 GMT
+    mixmaster           history  latency  uptime
+    --------------------------------------------
+    austria        ##*##???*###     5:12 100.00%
+    dizum          ###*#???##*#     3:43 100.00%
+    freaky         --++-???-+++  4:56:50 100.00%
+    frog2          ***#*???#*+#    20:24 100.00%
+    hell           *****???****    15:23 100.00%
+    lsd            ++***???*+**  1:09:15 100.00%
+    marquis        ***++???****    35:56 100.00%
+    matrix         ***.*???**+*  4:47:24 100.00%
+    noisebox       ????*???*#**     8:27 100.00%
+    nullify        ????*???**#*    12:07 100.00%
+    orange         +*+++???--++  3:06:43 100.00%
+    paranoia       ***##???####     8:42 100.00%
+    passthru2      +-+++???-*++  2:51:53 100.00%
+    randseed       ?****???##**    20:41 100.00%
+    segfault       #***.???-#**  4:32:55 100.00%
+    winter         ***#*???-#**    43:46 100.00%
+    xganon2        *#*##???-###    36:03 100.00%
+    rot26          ????????-***  2:02:25 100.00%
+    harmless       ????????--++  3:29:47 100.00%
+    citrus         +***-???*#+-  1:51:49  95.83%
+    cmeclax        -..--???.--- 21:53:00  95.83%
+    cracker        ****+???+**+  1:05:45  95.83%
+    farout         -----???----  7:44:05  95.83%
+    lcs            *-+++???+ ++  3:36:17  95.83%
+    riot           +-++-???----  5:15:00  95.83%
+    squirrel       ++-++???-+++  3:05:08  95.83%
+    xganon         ##*##???-###    32:01  95.83%
+    dingo          ##***???#*#*     8:42  91.66%
+    green          +-++-???+ ++  2:17:29  91.66%
+    narok          -----???- --  9:45:53  91.66%
+    lefarris       #####???####      :00  87.50%
+    narnia         +-+--???*+-+  3:51:35  87.50%
+    disjoint       ++*++???+*+   1:35:10  79.16%
+    italy2         +--+-???----  7:54:10  75.00%
+    shinn          #****???-     1:01:01  66.66%
+
+<span id="Int"></span>\
+History: The result of test messages sent for each of the last 12 days.\
+
+- |         |                                 |
+  |---------|---------------------------------|
+  | ?       | No test message sent            |
+  | (space) | Response not received           |
+  | \#      | Response in less than 5 minutes |
+  | \*      | Response in less than 1 hour    |
+  | \+      | Response in less than 4 hours   |
+  | \-      | Response in less than 24 hours  |
+  | .       | Response in less than 2 days    |
+  | \_      | Response in more than 2 days    |
+
+Latency: The average default response time of the remailer.\
+\
+Uptime: The fraction of responses received from tests sent in the last 12 days.\
+\

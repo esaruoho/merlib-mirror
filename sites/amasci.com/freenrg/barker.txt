@@ -1,0 +1,76 @@
+This paper describes a method for treating a small radioactive mineral
+sample so as to make it lose its radioactivity.  Mainstream science would
+predict that such a thing is not possible, since it involves changing the
+half life of radioactive atoms, and the half-life is thought to be
+inalterable. 
+
+This paper is for your information only.  The process described involves 
+dangerous high voltages and radioactive substances.  It should only be 
+performed by persons skilled in safe handling of both of these.
+
+- Bill B.
+
+_________________________________________________________________________
+
+	Electrostatic Excitation as decribed by William A Barker.  
+Paraphrased by  Braider to describe actual experimental proceedure 
+conducted from Nov 20 1994  to present  [Jan 20 1996]
+
+
+	1) a small mildly radioactive mineral specimen was used.  It is 
+described as a type of  periclase and is possibly radium or strontium 
+isotope substituted.   Activity to hand held counter is described as 
+similar to a pop corn popper.   Fairly rapid counts but not extreme.
+
+	2)  a Van de  Graff generator was modified as follows:
+
+	a)  Belt was removed.
+	b)  1/2 inch hole was cut in sphere, about half way up the side.  
+hole was de burred.
+	c)  A small stage  was built in the sphere out of wood and 
+carboard so that the top of the platform, or stage, was even with the 
+bottom of the  hole in the side of the sphere.
+	d)  periclase sample has wrapped  in plastic and cloth and struck 
+with the obligatory open end wrench in the best style and conformance 
+with Cavendish lab ethic.
+	e)  app. 2 mm by 2 mm by 0.7 mm "chip" was folded into small 
+piece  of 2 mil polyethylene film and secured with standard spring type 
+wooden clothes pin.
+	f)  hand held counter was rigged with rubber band and nut to hold 
+down the  press to run spring loaded momentary contact switch so as to be 
+able to run counted continuously.
+	g)  nine volt battery clip was used to connect the counter to 
+bench supply and lead wired were run down Van de Graff tube with counter  
+in sphere next to sample so as to get nice "popcorn" count.
+	h)  silicone rubber insulated high voltage wire was also run from 
+contact point INSIDE of sphere, through the  plastic tube that used to 
+house the belt to the negative    side of a 40 Kilo Volt Glassman rack 
+mount high voltage power supply.    The positive side of the supply  was 
+conveyed by silicone rubber insulated HV cable to a 2" sphere mounted on 
+horizontal glass rod about 2" from hole on outside of sphere.
+	i)  sample is JUST  INSIDE of the hole.
+	j)  no arcing occurs ... it is not supposed to .... just strong 
+field gradient from inside sphere [zero volts] to outside sphere [40 KV]..
+over the space of the  wall thickness of the sphere ... which is about 
+20 gauge spun aluminum.
+	k)  field was  applied for 14 hours and then there WAS NO FURTHER 
+APPLCATION OF FIELD ... ever ... at all.  None.  Just the 14  hours.
+
+	l)  counts  are now down to about background level.
+
+	This is posted to allow you to duplicate the work.  Please read 
+Barker's patent.  This will make everything clear as to mechanical and 
+electrical set up of experiment.  The theory and math  are in the patent too.
+	This is NOT posted to start some long winded, or short winded 
+huffing match .... or to argue.  Do the experiment and THEN report 
+results as you have recorded them.   This take at least a year for 
+reuslts to manifest ....so it is kind of like breeding cows.
+
+	Suggestion:  Have a mineral speciment  known to have some type of 
+alpha emission radio dated by a GOOD geo radio dating lab .... have them 
+wark the sample ... photograph it ... saw it in half .... have it marked, 
+dated and photographed again ... so that EVERYONE is very clear there can 
+be no mistake.
+	Expose to 50 KV for 12 to 14  hours.   Wait one year.  Have it 
+dated again.  This is a quick and easy thing to .... you could probably 
+run up 10 or 20 if you wanted.

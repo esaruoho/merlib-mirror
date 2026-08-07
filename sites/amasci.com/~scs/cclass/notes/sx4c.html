@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995-7 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>4.3 Default Initialization</title>
+<link href="sx4b.html" rev=precedes>
+<link href="sx4d.html" rel=precedes>
+<link href="sx4.html" rev=subdocument>
+</head>
+<body>
+<H2>4.3 Default Initialization</H2>
+
+<p>The duration of a variable
+(whether static or automatic)
+also affects its default initialization.
+</p><p>If you do not explicitly initialize them,
+automatic-duration variables
+(that is, local, non-<TT>static</TT> ones)
+are not guaranteed to have any particular initial value;
+they will typically contain garbage.
+It is therefore a fairly serious error
+to attempt to use the value of an automatic variable
+which has never been initialized or assigned to:
+the program will either work incorrectly,
+or the garbage value may just happen to be ``correct''
+such that the program appears to work correctly!
+However,
+the particular value that the garbage takes on can vary
+depending literally on <em>anything</em>:
+other parts of the program,
+which compiler was used,
+which hardware or operating system the program is running on,
+the time of day,
+the phase of the moon.
+(Okay, maybe the phase of the moon is a bit of an exaggeration.)
+So you hardly want to say that a program
+which uses an uninitialized variable ``works'';
+it may seem to work,
+but it works for the wrong reason,
+and it may stop working tomorrow.
+</p><p>Static-duration variables (global and <TT>static</TT> local),
+on the other hand,
+are guaranteed to be initialized to 0
+if you do not use an explicit initializer in the definition.
+</p><p>(Once upon a time,
+there was another distinction between
+the initialization of automatic vs. static variables:
+you could initialize <dfn>aggregate</dfn> objects,
+such as arrays,
+only
+if they had static duration.
+If your compiler complains when you try to initialize a local array,
+it's probably an old, pre-ANSI compiler.
+Modern, ANSI-compatible compilers remove this limitation,
+so it's no longer much of a
+concern.)
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx4b.html" rev=precedes>prev</a>
+<a href="sx4d.html" rel=precedes>next</a>
+<a href="sx4.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995-1997
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

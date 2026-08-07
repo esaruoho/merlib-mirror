@@ -1,0 +1,1934 @@
+
+--------------
+BMW Digest FAQ                                            Version 4.0
+--------------
+
+Section 15:   E30 ('84-'91 3-series)
+
+------------------
+Table of Contents:
+------------------
+
+    15.1: Overview
+         15.1.1:   325e vs 325i (or "what's an ETA?")
+         15.1.2:   325iX (AWD)
+         15.1.3:   323
+    15.2: Body
+         15.2.1:   Water Leaks
+         15.2.2:   Tucking in large front bumpers
+    15.3: Engine
+         15.3.1:   Adjusting valves
+         15.3.2:   Transfer Fuel Pump
+         15.3.3:   Early twin cam fours' coolant leaks
+         15.3.4:   Small six (M20) head bolts
+         15.3.5:   'i motor oil leak
+         15.3.6:   ETA head job
+         15.3.7:   Idle problems
+         15.3.8:   Timing Belt
+    15.4: Suspension & Steering
+    15.5: Brakes
+    15.6: HVAC
+    15.7: Electrical
+         15.7.1:   Jerky Wipers
+         15.7.2:   Erratic blinkers
+         15.7.3:   Wiring fog lights to work with high beams
+         15.7.4:   Service Indicator Lights
+         15.7.5:   Finding 'iC check-control relays
+         15.7.6:   Installing 318 cruise control
+         15.7.7:   Fixing Erratic Clock (not OBC)
+         15.7.8:   Adjusting Headlights
+         15.7.9:   Killing the Key Gong
+         15.7.10:  Replacing OBC bulbs
+    15.8: Misc
+         15.8.1:   Steel wheel center caps
+    15.9: Performance
+         15.9.1:   ETA Differentials
+         15.9.2:   MCU switch settings
+         15.9.3:   ETA engine performance
+         15.9.4:   Racing Harness Install
+
+
+============================
+15.1: Overview
+============================
+15.1.1:   325e vs 325i (E30)
+
+------------------------
+(by Rick Kjeldsen, fcmk@watson.ibm.com)
+
+>Whats the difference between the 325e and the 325i?
+
+The engine.  The 'e uses the economy minded small 6 ETA engine,
+while the 'i uses a more performance tuned version.
+
+Both engines share the same block and are in many ways very similar.
+The 'e was designed during the 70s gas crunch, so the emphasis is on
+mpg.  BMWs solution to making a non-boring economy car was to use
+high torque and low RPMs, so the engine was designed from the bottom
+up with that in mind.  With respect to the 'i it has a longer throw
+crank (and so is 2.7 liters vs 2.5), has the intake and exhaust
+tuned for low RPM torque, uses low friction bearings and 4 instead
+of 7 on the cam shaft, and uses weaker valve springs for less
+frictional losses.  It's chip and cam profile are set for very lean
+and effecient running.  It is generally matched with a very tall
+rearend ratio to run at low highway RPMs.
+
+So the engine has very high torque (170 ft/lbs) at quite a low speed
+(~3500 RPM).  It has a low redline (4700 stock) though, so HP (=
+torque*RPM) is only about 125.  It pulls smooth and strong from idle
+to redline because the torque curve is very flat.
+
+The result is a car that feels smooth and powerful in daily driving.
+It accelerates well (faster from 0-60 than a 2002tii was stock), but
+it won't win drag races.  Because it's peak torque is in the RPM range
+we use day to day on the street, it often feels more powerful than
+the 'i cars.  In stock form it will easily get >30 mpg on the
+highway, and cruises comfortably at triple digit speeds.  The tall
+gearing means highway RPM is very low (just over 2000 at 65), so it
+is smooth and quiet.  The engine also seems to be very reliable,
+probably because of the softer valve springs and lower RPMs than the
+'i engines, it seems to have fewer problems.
+
+The down side is that the tall gearing and low RPM limit make the
+car feel less thrilling when pushed than car enthusiasts like.  You
+hit the rev limiter very quickly in the first couple of gears.  You
+have to down-shift for crisp highway passes.  In the US, the 325 was
+marketed as a performance car and the ETA engine disappointed a lot
+of people because of that.  So in the late 80s BMW redisigned the
+engine with a shorter throw crank, different intake/exhaust
+plumbing, different cam timing and stiffer valve springs, different
+programming and gearing to make the 'i engine (M20/B25).  This
+produces slightly less torque (165 ft/lbs) at a much higher 4500
+RPM.  It can rev to 6500 RPM, so produces far more HP (165 hp).  It
+has a much peakier torque curve, so it feels somewhat flat at low
+RPMs, but comes on strong above about 4000.  It loves to rev, and
+sounds wonderful doing it, but can be annoying in traffic and around
+town because it doesn't pull as strong in the low end.  Because the
+gearing is lower, it spins faster on the highway.  It will get 3-5
+mpg less than an 'e car and is about a second faster 0-60.  The
+useable top end (where acceleration falls off, so it takes much
+longer to go a bit faster) is about 10-15 mph better than the 'e.
+
+>Which is the better/more
+>expensive of the two?
+
+"Better" depends on what you like.  I really like the powerful low end
+torque of the 'e.  It's a wonderful commuter car, good around town,
+excellent on long trips.  With a few minor tweeks it gets a much more
+exciting top end (chip to increase redline and take care of some
+of the minor drivability bugs caused by the very lean programming
+of the stock computer, and a somewhat lower differential
+ratio to increase torque to the wheels) without sacrificing the
+smooth powerful low end.  My 'e is by far my favorite car for daily
+driving, many people seem to prefer the 'i.  That engine got rave
+reviews from car-buff mags when it came out.  In stock form it feels
+much more like a performance car than an 'e.  Because it has a better
+reputation and is used in the newer E30s, you will pay slightly more
+for an 'i.
+
+I'd say to drive them both, and decide which you like.  They are
+both wonderful, reliable engines.  If performance is your primary
+goal you will probably prefer the 'i.  For a reliable commuter car
+the 'e probably has a slight edge.  An automatic on an 'e can
+feel pretty slow.
+
+rick
+'87 325es
+'90 325iX
+'88 M3
+
+
+(Editors NOTE: In '88 BMW had already introduced the 'i engine.
+ For one more year they sold the 'e engine in the base model
+ 325 and the 528e, but they modified it slightly, maintaining the
+ long stroke crankshaft, but switching to the 'i head and doing
+ some other mods to produce more power than the original 'e.
+ This is often refered to as the "super eta".)
+
+------------------------------
+(by tedcrum@garnet.berkeley.edu (Ted Crum))
+
+
+According to the BMP catalog, the m.y. '88 528e ("super eta") not only
+has the same head as the 87-91 325i, but it also uses the same dual valve
+springs. It also shows the 1/87 - 9/87 eta using the same valves, guides,
+and springs as the "i", but with a different head (fewer active cam
+bearings?)
+...
+Also, they show the (3/87-on) super e having different injectors and
+airmeter than the earlier e's, but not the same as the 325i parts.
+
+
+
+============================
+15.1.2:   325iX (AWD)
+
+-----------------------
+(by Gorden Haines <GAHAINES@aol.com> or ghaines@hops.entertain.com)
+
+The 325iX was produced from '86 through '91 and imported into the U.S. for
+model years '88-'91.  The iX has viscous couplings  (filled with silicone)
+in the drivetrain to split torque front to rear and also in the rear axle
+to provide limited slip.  Handling in the dry is quite satisfactory,
+particularly with a few mods that I've made (cutting the front springs to
+lower the front 1-1/2 inches, adding a stiff rear bar, installing Koni
+sport shocks and a Dinan chip, upgrading bushings and running D40M2's.  The
+iX is very satisfactory on the track and that it will not be embarassed by
+any E30 with a close-to-stock engine.
+
+But the iX is really in it's glory in inclement weather.  With studded
+Hakkapelitta 10's, the iX is awesome.  Even on the most slippery surfaces
+(including the ice on the lake at Georgetown, CO) the iX can accelerate at
+full throttle after the first several yards.  The ABS which includes a
+special program (not included in the ordinary 325) for low friction
+surfaces is also very impressive.  Jeeps!, Ford Exploders and Chevy
+Blazeers have no idea what left them at the stop light.  If you love BMWs
+and need a car for all seasons, this is your car!
+
+The '88s were available only as a 2dr loaded with standard features such as
+Recaro seats, electric sunroof, map lights, full trip computer and upgraded
+radio.  In '89 a 4dr was offered, but many items were added cost options.
+The '89 and later models came with a removable rear armrest and skibag and
+had smaller color-coordinated bumpers.  These later models also had a 15"
+alloy spare rather than a 14" steel spare wheel.  A driver airbag was added
+in some '90 and all '91 models.  All models came with special body side
+moulding and 15" wheels.  Asking prices in January '95 in the prime Denver
+market range from about $10K for '88s to $23K for '91s.
+
+The iX viscous couplings on the 325iX are filled with silicone and are not
+computer controlled.  The one  behind the transmission splits torque front
+to rear (nominally 37/63%).  A series of plates with holes and slots turn
+in the silicone fluid.  Some plates are attached to the input front axle
+driveshaft and some are attached to the rear axle driveshaft.  Normally the
+plates turn at the same rate without relative motion.  The silicone becomes
+very viscous as soon as it is heated by friction and shear caused by
+differences between the motion of the plates.  This tends to lock the
+driveshafts.  If the rear wheels and driveshaft are slipping and turning
+faster than the front, friction between the plates increases, slippage is
+reduced, the rear wheel spin is reduced and the power from the input shaft
+is transferred to the front.
+
+The drive system add only 140lb. to the vehicle and is very reliable.  The
+viscous couplings are sealed permanently and require no maintenace.  The
+only additonal maintenance items required are changes of 1) the front
+differential oil (GL-5 90 weight, same as the rear) and 2) the transfer
+case fluid which is ATF.  All drivetrain fluids should be changed at
+"Inspeciton II", nominally at 30K miles.
+
+The front wheels always have some torque transmitted to them.  BMW choose
+this ratio (37/63) because this corresponds to the weight distribution on
+each axle under full acceleration.  This avoids the problem typical of
+front wheel drive vehicles in which the front wheels spin under
+acceleration due to weight transfer to the rear.  Road & Track (April '88)
+states that "The net effect of the center differential is to act as a
+power-management system, transferring engine torque away from the end that
+is slipping and to the end with greater grip; as much as 90 percent of the
+torque may be shifted to the front or rear as required.  This is done
+actively, quickly and without the occupants of the car ever being aware of
+it."
+
+Another interesting aspect: EPA figures for the iX are 17/23 and for the iX
+18/24.  One might expect more of a penalty for the AWD,  but I recall Audi
+actually advertising that their Quattro system decreased overall fuel
+consumption because a driven wheel imparts less drag than a rolling wheel
+over about 20mph.  I've never seen BMW discuss this issue or expliot this
+in their adverstising.
+
+In it's stock form, the iX understeers somewhat more than most BMWs, is 0.4
+seconds slower than an ordinary E30 from 0 to 60, and 0.3 seconds slower in
+the quarter mile.    The rear axle ratio is changed slightly (3.91
+vs.3.73:1) to minimize the effect of the added weight on acceleration.  Car
+and Driver specifically notes that the iX stops 13 ft. shorter than an
+325is, probably due to wider stock tires (205s vs. 195s).  With the few
+mods that I've made, I picked up 1.4 sec 0-60 and 7 sec. on a two minute
+lap around Pueblo, Colorado's track.
+
+Although the iX does not have enough power to break the rear end loose in
+3rd gear, the AWD system does provide some advantages when the car is 4
+wheel drifting through a turn near the limit of adhesion.  At the point
+where a the
+driver of a rear drive BMW would have to lift off the throttle slightly and
+countersteer, its likely that an iX would allow the driver to stay on the
+throttle.  Power would be transferred to the front axle and the front
+wheels will pull the car through the turn.  This is certainly the case on
+snow, ice, gravel, etc. and the same principle applies on dry pavement near
+the limit.  It's just at higher speed and more exciting.
+
+The basic technique used to drive the iX quickly is to "point and shoot".
+Upon entering a turn, aim to run over the apex, get on and stay on the
+throttle early, and allow the slight understeer to carry the car out away
+from the apex to the outside of the exit.  Through turn keep the front
+wheels pointed in the direction you want to go and don't worry too much
+about where the rear end is going.  This provides a high exit speed from
+the turn to carry you down the next straight.  The iX and rear driver BMWs
+are great performers -- they are just different and need to be driven
+differently for maximum performance.
+
+There's no significant difference between the 2- and 4-door models except
+the 4 door is maybe 50 lb. heavier due to the door hardware and window
+motors.  The '88 iX seats provide lots of lateral support, are very
+adjustable, and have the extendable thigh support in the seat bottom.  They
+were standard on all '88's (only 2-door iX's were imported in'88) and were
+optional in later years.
+
+Until '90 or '91, the only colors availble were red, black, white and
+silver.  Later, a few other colors were offered, including a beautiful dark
+metalic blue/purple.  I've driven a quattro coupe and it does have a bit
+more power, due to the turbo, but there is no way I'd buy one.  Personal
+preference and bias, perhaps, but they are just not built as well as the
+BMWs.  From an enthusiasts viewpoint, the '88 iX is very desirable, but if
+you'd like lower mileage, an airbag, skibag and more attractive bumpers, go
+for a later model.  In any case you'll have a car for all seasons, weather
+or not!
+
+If you'd like to join the 325iX Registry, contact Gordon Haines at
+ghaines@entertain.com or write/call him at 11375 E. Vassar Dr., Aurora, CO
+80014  (303) 750-9045.
+
+
+
+------------------------
+<by "Rick Kjeldsen" <fcmk@watson.ibm.com>>
+
+> What do you think of 325iX (89)?
+> I would welcome some wisdom on this year and 4wd system.
+
+The AWD system is very solid and reliable.  The only "they all do
+that" problem is some leaking from the rear of the transfer case
+(the box behind the tranny where the front and rear drive shafts
+exit).  It should be fixed if the leak is bad, and it can be
+expensive to fix (~$600 at a dealer).  Otherwise the system is very
+reliable.  It doens't seem to eat CV joint boots the way some 4WD
+trucks do.  It doesn't seem to go out of allignment easily (the way
+my blazer does).
+  You get a little more cabin noise than the rwd version of the same
+car (from the AWD mechanicals) but it isn't obnoxious.  Kind of a
+mechanical whirr.  Actually comforting once you get used to it.  The
+steering is a little heavier than the rwd version, but the handling
+is still crisp and precise.  Once in a while you will feel the front
+wheels pull the steering wheel a little (e.g. driving fast over a
+bumpy road or driving hard through sharp curves.  Generally when
+one front wheel looses traction and the other doesn't) but it isn't
+annoying, just different.  There is none of the classic torque steer
+you feel with most front drive cars.  Expect about 22 mpg, vs about
+26 for the rwd version.
+
+
+--------
+>BTW how do you like your iX model?
+
+Love it.  You can feel a little difference in the dry between it and
+it's 2WD siblings - it's steering isn't as light, the suspension
+doesn't feel quite as refined, there is a little more drivetrain
+noise, and every once in a while you can feel that the front wheels
+are driven as well.  Don't get me wrong, it's still a blast to
+drive, but driving the 'es and the 'iX back to back, I can feel a
+difference.  As you start to push the car to the limit you find that
+you can't upset it.  You can't get the back end to come around, or get
+the car to start to feel out of control in any way.  As you reach
+the limit of the tires traction, you gently drift to the outside of
+the turn, but it always feels very controlable.
+  What is really fun is that as the road starts to get slick the car
+actually starts to handle BETTER!  The heavyness in the steering
+fades, you start to be able to get the tail out a little (but just a
+little, and very controlable.  Lift off the throttle and the car
+snaps right back into line.)  By the time you get on "terrible"
+slick roads, the car feels as at home, as tossable, as confident as
+my 'es does in the dry.  You can really tell it was made for those
+conditions.
+  The road up to a place I like to ski in Vt is a 5 mile steep
+curvy hill.  The summer speed limit is 35, 15 in the corners.  Last
+time I was up there, the road was covered with 5" of new snow, and
+had not been sanded.  It was late, noone else was around, so I
+decided to see how well the 'iX would do.  I was able to very
+comfortably maintain 50 both up and down hill, curves and all!  The
+car never once got unsettled.  Stop in the middle of a steep hill,
+then floor it - the car accelerates hard up the hill.  At some point
+the wheels start to spin if you push it hard enough, but you can't
+really tell it's happening.  All you feel is a little vagueness in
+the steering, but the car still basically feels like normal, so you
+will be driving along very comfortably and controlably with all 4
+wheels spinning!  Go into a sharp downhill corner fast, lift off
+the throttle (the classic way to make a car spin), the car slows
+down - not even the begining of a spin.  Do the same thing again and
+hit the brakes, the car drifts a couple of inches to the outside,
+but otherwise behaves perfectly normal.  To get the rear end out, I
+had to come around a curve really fast and floor it half way
+through.  The tail would gently come out, very controlable, and as
+soon as you lift off, it snaps right back into place.  There is
+basically NO WAY to get into serious trouble with this car without
+trying hard.
+  Sorry to rant and rave, but this is my first winter with it, and
+I'm more than impressed.  It's the most amazing winter car I've ever
+driven (btw I own a 4x4 Blazer, and have driven 4wd Subaru's -
+never an Audi though).
+
+>I would like to get one but im leary of the parts avalibilty.
+
+I don't think you have much to be worried about.  Most wear items
+are either identical to other E30s or easily avalible in the
+aftermarket (as well as at the dealer).  The dealers also seems very
+aware of 'iX's, have their specific parts, etc.  I've done a fair
+amount of work on mine since I got it and have had no trouble.  The
+only problem I've had is that many people arn't aware there is a AWD
+BMW, so you have to make sure you point it out to them.  For
+example, I got the car aligned, and they used the 2WD specs (which
+are quite different).
+
+>Are they fragile??
+
+Not at all.  Typical sturdy BMW drive train.  I looked at them at
+car auctions for about 9 months before I found one I wanted and didn't
+get out-bid on.  I probably checked 30 or more.  The only drive train
+problem I ever saw was a leak from the seals on the output shaft of
+the transfer case.  About 50% of them seem to have it.  Not serious,
+but apparently expensive to fix ($600 or so).
+
+>And are thier alot of x model parts only on say the engine etc??
+
+The engine is identical except for the cooling system and oil pan.
+The frame is slightly different (front shock towers reinforced and
+more upright).  The rear drivetrain (behind the transfer case) is
+identical.  There are some minor changes in the ABS system to make
+it work with the AWD. The fuel system is different to account for
+the lower gas mileage (bigger gas tank, repositioned gas filter).
+The front suspension is, of course, beefier.  I believe the brakes
+are different, but not much.  That's about all I can think of -
+besides the transfer case and front diff, of course.
+
+There arn't many advantages to the 'iX if you live where it seldom
+snows.  It's a little better in the rain, but you also loose a
+little compared to the 2wd versions in the dry.  But if you live in
+snow country, it's the best winter car you can find.
+
+FWIW,
+rick
+'87 325es
+'90 325iX
+
+
+----------------------------
+<by  wellman@epas.utoronto.ca (Barry Wellman)>
+
+The 325iX basically performs like a regular E30 325. There is 4-wheel
+drive, but it is rear biased, (2:1, I believe) so the handling is more
+or less similar.
+The differences are nice though:
+... snip ...
+3. You can get away with all-seasons in a great many conditions. (I
+have been running all-seasons for 4 years in Toronto, including not
+bothering to shovel my garage entrance, and just plowing thru 6 inches.)
+
+Negatives?
+1. It's obviously more expensive.
+2. It may be a bit slower in straight-line acceleration.
+3. Its turning circle is a bit wider.
+4. You have to be a bit careful in shopping for wheels because the
+offset is different than the regular E30. A few other parts are
+different. (see below)
+...
+
+For a list of different parts & other 325iX lore, you should join the
+325iX registry, run by Gordon Haines, Aurora, Colorado. ($5/year in US
+for newsletter; give him $7 from Canada & $10 from abroad to cover postage.)
+I don't have Gordon's number available right now, but if the FAQ
+maintainer contacts me, I will send it to him.
+
+
+============================
+15.1.3:   323
+
+------------------------
+From: "Hoffman, Larry" <lhoffman@seckenheim-msmail.army.mil>
+Date: Mon, 18 Dec 95 08:41:00 W
+
+Ref: John Echohawk's questions about 323i
+
+A 82 323i is the same body style as a 320i (E21) or 318i (E30), but
+with 40 or so more horses.  The engine is an injected, 2.3liter, 6
+cyln ("baby six").  Basically the cars were hot rod versions of the
+E21 & E30, and were not officially imported to the states.  The E30
+version first appeared in '82.
+
+I have a 1982 E21 323i.  It's a good handling, adequately powered car.
+Top speed is about 125 with the OD 5 speed.  I think the original HP
+spec was 146HP.  0 to 60 is probably around 8 seconds.  Comes with
+vented front disks & solid rear disks.  4 or 5 speed.  The following
+were options: sport seats, sport 5speed, limited slip diff, ac, power
+steering, and more.  The E21's came with dual exhaust.  The E30's had
+single exhaust w/twin outlets.
+
+Many if not most parts are the same as the 320i & 318i.  All parts are
+available one way or another.  (Keep up with the digest & join a BMW
+club.)  The motor compartment is probably less crowded than a 325i.  I
+think the 323i is a good buy at under $4000.  Your mechanic may have
+been trying to "protect" you from buying a gray market car.  Due to
+the limited availability of the 323i in the states, ownership will be
+rewarding &, at times, taxing.  What's it worth to you to have a car
+that's a bit different?
+
+In Germany, the cars are plentiful.  Used parts are cheap.  New parts
+from aftermarket sources are cheap.  Parts from BMW are not cheap.  I
+enjoy my 323i.  It's definitely not underpowered.  It's kinda
+special.  It's a car guy's car.
+
+Larry Hoffman
+82 323i (Opal Grun Metallic)
+
+
+
+============================
+15.2: Body
+============================
+15.2.1:   Water Leaks
+
+-----------------------
+(by Rick Kjeldsen: fcmk@watson.ibm.com)
+
+Water on the (usually passenger side) floor in an E30 is often caused by
+a clogged air plenenum drain hose.  There is a large air plenun at the
+base of the windshield that takes air from the air vents to the heater
+core in the center.  There is a drain on the passenger side that drains
+water that comes in the vents out into the engine compartement before it
+can soak in past the gaskets where the heater core punches through the
+firewall.
+
+The easiest way to find it is from the engine compt.  If you have a
+325 (6 cyl) follow the plastic "tube" that holds the plug wires back
+toward the firewall.  If it were long enough to touch the firewall,
+the place it would touch you will see a 3" by 1" by 1/2" rubber hose
+comming out of the firewall and pointing down.  That is the drain that
+gets clogged.  You can usually clean it by squeezing it on the sides,
+but if it's badly clogged, you can take it off and clean it out.
+If you have a 318 or M3, find it by looking at the very inside edge of
+the battery tray on the firewall.
+
+The trunks also leak occasionally.  This is usually from old seals
+around the rear lights.  Fix: remove and caulk with silicone.
+It's also a good idea to open up the drain "eyes" in the floor of the
+trunk.  They are little 1/2" slits with the front pulled down and/or
+the rear pulled up (so water won't blow in but can drain out), and they
+often get plugged with undercoating.  Find them in the bottom of the
+spare tire well, and in each well on the side of the trunk.
+
+
+============================
+15.2.2:   Tucking in large front bumpers
+
+(NOTE, this applies to the large 5mph silver bumpers on pre-89(?) E30s)
+
+-----------------------
+for anyone who has an E30, don't know if this applies to any others, and want
+to shrink the front diving board, here's what to do. There is no need to
+drill out the bumper shocks, nor replace them with 89-91 shocks which I was
+about to do. Instead,
+>remove bumper
+>remove shocks
+>loosen lock nut at the opposite end of shock about 1.5"s
+>while holding shock body, turn the mount end clockwise and you'll magically
+see the shock length decrease. You can keep turning until it bottoms.
+>align the mount so that it will be vertical after the shock has been
+replaced and tighten the lock nut.
+> mount the shock, you will have to fiddle with the play in the shock mount
+to the car in order to achieve the correct height from side to side so that
+when the bumper is installed there is no gap along the top.
+>actual time 20mins to do. This is a good time to check the turn signal
+connections for corrosion, apply lithium grease here.
+THIS WAS SO EASY AND THE APPEARANCE IS SUCH AN IMPROVEMENT
+
+
+============================
+15.3: Engine
+============================
+15.3.1:   Adjusting valves
+
+There is a good description in the E28 section (14)
+
+
+============================
+15.3.2:  Transfer pump
+
+(intro)
+Early E30s have two fuel pumps, a "transfer pump" in the fuel tank which
+feeds gas to a high preasure pump in front of the left rear wheel which
+in turn curculates gas through the fuel injector rail.  The transfer pump
+helps avoid problems like vapor lock.  When it fails you may get symptoms
+like erratic idle, hard hot starting and a noisy main pump, but the car
+will generally still run.
+
+---------------------------
+Testing the Transfer pump:
+---------------------------
+
+---------------------
+(by Mark Rubin: markr@phineas.ent-img.com)
+
+  > If your MAIN pump is buzzing, you probably have a dead transfer pump in
+  > your gas tank ..
+
+A "buzzing" noise *is* the symptom.  Two different mechanics have
+told me the main, above-the-tank, high-pressure pump won't last long
+without the transfer pump feeding it.
+Guess I have some kind of rust/goo/contamination in the tank, and
+it's clogging the pump or filter or something.
+
+----------------------
+(by Jim Conforti: jec@us.dynix.com)
+
+Here's how I determined that my transfer pump was gone...
+
+First .. main pump is making loud buzzing sound ..
+
+Second .. Access the transfer pump, borrow stetoscope from Nurse Wife
+
+Third .. bypass fuel pump relay and listen to transfer pump ..
+
+Now you WILL hear what sounds like the xfr pump working, but it is really just
+a column of sound from the main pump, up an hose of incompressible fluid (gas)
+
+So ..
+
+Fourth .. Listen to the xfr pump area while disconnecting and reconnecting the
+          xfr pump connector (smaller 2 pin job) .. hmm .. NO CHANGE in sound
+Which means ..
+    DER PUMPEN IST TOD
+
+
+-------------------
+(by Rick Kjeldsen: fcmk@watson.ibm.com)
+
+Noise isn't always accurate.  I've seen a transfer pump which "works" (i.e.
+runs) but doesn't pump any gas.  The only sure check is to pull the hose
+from the transfer to the main pump, bypass the fuel pump relay to provide
+power to the pumps (the pumps only run when the engine is RUNNING, not when
+just the key is on) and see if the transfer pumps pumps gas (you may want to
+remove the connectors to the main pump when you do this so it doesn't run dry).
+
+
+---------------------------
+Changing the Transfer pump:
+---------------------------
+
+----------------------------
+(by Jim Conforti: jec@us.dynix.com)
+
+Simple job, 15 minutes max ..
+
+Thanks to all the tips ;)
+
+BTW, I used a handivac to cleanup all the dust on the top of the tank,
+before opening anything ..
+
+Here's what I did .. (just for posterity and others who may have to do this)
+
+1) Remove lower rear seat cushion, and remove access cover .. clean up dust!
+
+2) Disconnect 2 sets of wires, 1 for sensor, 1 for pump
+
+3) Remove 2 orig. clamps (with diag. cutters)
+
+4) Remove 4 nuts and washers from sensor ..
+
+5) Slowly remove sensor to avoid gas mess ..
+
+6) Remove 2 hoses from xfr. pump and rotate and remove pump
+
+   Note: once you have "unlocked" the pump, you'll have to turn it around
+         a bit to remove the pump from the gas tank ..
+
+7) Reassembly is the reverse, using 2 new hose clamps and 2 new o rings ..
+   1 is included with the pump, and the second fits on the sensor and costs
+   3.00 (big deal) .. don't forget to pry out the old sensor o-ring which
+   fits into a recess under the sensor bolt flange, around the sensor body
+    tube .. use a paper clip ..
+
+I detailed this for 1 main reason, note that the best way to make sure that
+nothing falls into the tank, is to make sure that nothing is NEAR the tank
+opening that CAN fall in (like nuts, hose clamps .. etc ..) :)
+
+OH, AND BTW .. a bad transfer pump DOES affect idle quality .. once I replaced
+the pump .. I restarted to check for leaks .. it took about 15 sec. for the
+buzzing to stop as the system assumed proper pressure ..
+
+Then on the test drive, my idle now stays ROCK steady and smooth ..
+
+---------------------------
+An aftermarket transfer pump
+---------------------------
+
+---------------------------
+(by Sam Chien-shin Lin: sam@cmd.com: edited)
+
+I paid $29.48 for a BWD P1 pump and $1.99 for a pack of hose clamps and
+headed home.
+BTW, the dealer doesn't sell the strainers separately - YOU HAVE TO
+BUY THE WHOLE PUMP!!!  Pep Boys sells a BWD F4 strainer for $4.12 which
+fits nicely on the VDO and the BWD P1 pumps.  It is a different design
+from the BMW part, but the fitting is the same, and it appears to have
+more surface area than the BMW part, so it should flow better.
+Anyway, it's 70 micron polyester mesh.
+The hardest part of the kludge was popping the rivets that held the
+positive wire and the brass negative strap onto the old VDO pump.
+Looking carefully at the VDO unit, I noticed that the mounting bracket
+had an outline around it, which would leave just enough extra plastic
+to clamp on my hose clamps.  I got out my hacksaw to cut along the
+outline and used two hose clamps to clamp the bracket onto the Vega
+pump.  After some fiddling, I was able to adjust the positioning so
+that the wires would reach and the short rubber connecting hose would
+fit.  Using the screws supplied w/ the pump, I connected up the
+terminals and Voila!  Done!  When I tried to install it, I ran across
+an unpleasant surprise...the hole in the fuel tank is such a tight fit
+that the hose clamp screws wouldn't clear; I couldn't get it into the
+tank no matter how I tried.  Back to the drawing board...
+I had to throw away the mount I cut out of the old pump, was too thick
+to fit into the fuel tank.  Finally, I got a short length of fuel line
+hose and slipped it over the fuel return tube (for shock absorption and
+traction) - the fuel return tube is what the mount/negative terminal
+is welded to, and then secured the pump to the hose-covered return tube
+with two large nylon wire ties (the zip-on type).  It might not sound
+secure, but I pulled on it hard, and it was firmly secured.  This
+time, it fit into the tank w/ room to spare.
+BTW, the later models do away w/ the transfer/main pump setup, and
+have only one pump in the gas tank.
+
+
+============================
+15.3.3:   Early twin cam fours' coolant leaks
+
+------------------------
+From: Jim Newman <neji@mbari.org>
+Date: Thu, 12 Jan 1995 18:10:22 -0800
+
+According to both an independent BMW repair place and a dealer here in
+Monterey (CA), early twin cam 1.8 liter fours, as in 1991-1992 US 318i
+and 318is models, have a propensity for losing their coolant
+catastrophically from between the head and the block.
+
+As described to me, there is an O-ring that seals a coolant port from
+the block into the head, forward end.  Normally would be within the
+head gasket, but for some reason they used an O-ring.  Corrosion in
+the head's aluminum, under the O-ring seat, can eventually allow
+coolant to get by the O-ring, resulting, naturally, in loss of
+coolant.  The BMW dealer says to expect it every 50k miles!  It may be
+visible as a trickle off the right front side of the engine before
+things get too far along, but it sounds like most people find out
+about it the hard way.
+
+BMW changed the design in 1993 to fix this, according to the local
+dealer.  And apparently BMW NA will pay part of the cost of the
+repair.
+
+The cure is to remove the head, fill in the corroded part with epoxy
+goop, clean it up and put it back together.  $700 at both the dealer
+and the independent shop where I learned most of this.  This should
+make recurrence less likely (less metal exposed to rot away), but it's
+not a guaranteed permanent fix.
+
+The best prevention is to make sure coolant is changed regularly,
+which keeps down the acidity of the coolant, and thus the rate of
+corrosion.  I've heard of well maintained examples of this engine
+going 100k miles with no trouble.
+
+Jim Newman
+
+
+============================
+15.3.4:   Small six (M20) head bolts
+
+------------------------
+From: GToyama@aol.com
+Date: Tue, 25 Jul 1995 16:59:08 -0400
+
+     325i engines, up to about April '89, came with hex-head cylinder head
+bolts; after this the engines came from the factory with Torx-head bolts.
+ Easy way to ID is to look from an angle thru oil fill hole.  If you have hex
+type, replace them ASAFP with Torx head bolts.  This does NOT seem to be a
+mileage- or hard-driving-dependent problem.  Many 'i' engines, my '88
+included, suffered head bolt failure, where the head of the bolt snaps off
+and becomes lodged between a cam lobe and the head casting, puching a hole in
+the head (All I need is a...) and buggering up the cam.  Ugly and expensive,
+mostly both.  I understand the bolts can be replaced and torqued
+one-at-a-time without disturbing the head gasket; makes sense, but I can't
+confirm.  Don't know if BMW will cover repairs outside of warranty; this is
+the one time I wish I HAD taken the car to a dealer...
+     FYI, my particular scenario: easy driving, no stress.  Low coolant light
+comes on without warning, and with no untoward noise.  I stop, no outward
+leakage, no hoses damaged.  Run engine, add water.  Add water, add water,
+hmmm, rough idle, stall, restart, no power.  Water must be going somewhere;
+check oil, looks like chocolate milk.  Damn!  Call AAA.
+     Replacing these bolts is also a good idea for eta engines, as I
+understand BMW used the same type hex bolts for them.
+     A CAVEAT:  If you decide to replace the entire engine as I did, try to
+stay with the same production year, or rebuild the one you have.  I bought a
+used '90 2.5 liter engine for my '88.  Figured same model, same engine, etc.
+ Somewhere in between, tho', there are differences, both in throttle body
+hoses to the brake booster and in the engine wiring harness, although the
+connectors appear same.  My shop went nuts trying to get the proper hoses to
+fit the throttle body.  Then, not aware of the one different wire in the
+harness, went nuts when a wire fried upon startup.  After spending about a
+week staring at schematics, they were able to kluge the wiring to work.  It's
+run great since, but I wouldn't want to do it again.
+
+Happy Bimmerin'!
+Banzai Bimmer  :-{)
+
+
+------------------------
+From: reb@oix.com
+Date: Thu, 9 May 96 06:46 EDT
+
+>
+>I've had some experience with these.  When I put the motor from an '87 325i
+>into my 528e I had a lot of dealings with Peter McHenry (I hope thats the
+>right name...)  who is widely regarded as "the" expert on BMW small six
+>engines.  He told me that before I even start the engine I should replace the
+>head bolts if they were the standard type.  You can look into the oil filler
+>cap and see the head bolts, if they look like they take an allen wrench you're
+>OK, otherwise REPLACE THEM SOON!
+>
+
+Good advice, THEY do break!!!
+
+>The replacement bolts are Torx head type and designed to stretch.  The older
+>type had a nasty tendency to snap the heads off, causing major damage.
+>
+The TORX bolt is a stretch bolt and can only be used ONCE, that is if you
+take the head off again later on, they SHOULD be replaced again.
+
+>Peter said that I didn't need to replace the head gasket or remove the head at
+>all.  Just replace the head bolts one at a time, so the others remain torqued.
+>This would be a good time to replace the head gasket if you think it might
+>need it in the near future. (good time to adjust valves, too)
+>
+
+Yeah, that what the Service Info says, but think about it, when the bolt is
+removed there is oil that may "dribble" into the bolt hole (threaded part)
+if this happens and you start torquing down the bolt, there will be a
+hydraulic lock and possibly damage the block. If you do this procedure
+remove the old bolt, spray hole with brake cleaner, blow out with compressed
+air and check the hole with an inspection lamp to make sure the hole is dry.
+
+>The local dealer said that they had not heard of this but were 'surprised'
+>that they changed the bolt style (yeah, right). Then about six months ago I
+>saw an iX in the shop getting some serious engine work done.  I asked what
+>happened to it and they said that a head bolt had snapped (surprise!) causing
+>water to mix with the oil (bad) and the owner drove it home and then to the
+>shop (REALLY bad).
+>
+
+The head of the bolt breaks off and the camshaft punches it through the cyl
+head....OUCH!!
+
+As for the dealer not knowing this.......tell 'em to read their technical
+info......
+
+>If you have one of these cars it is in your best interest to change these
+>bolts.  It is inexpensive (<$40) and only takes about an hour to do.  You will
+>need a good Torque wrench and a Torx bit (I forget what size).
+>
+
+You will need MORE than a torque wrench to do these bolts, you will also
+need an angle torque gauge, and there is no substitution for angle torque
+(others may/will disagree, no one bolt has the same elasticity) anyway here
+are the specs:
+
+Step 1  30Nm torque
+
+Step 2  90* torque angle
+
+Step 3  90* torque angle
+
+No setting time
+No warm running time
+
+Hope this helps
+
+>>>>>REB<<<<<
+
+
+--------------------
+From: Doug Donsbach <dld@Symtec.com>
+Date: Tue, 21 May 1996 14:46:28 -0400 (EDT)
+
+Sean Thompson wrote:
+>
+> I have to do the head bolt switch and have a question' how does one
+> accurately determine the 90 deg after torquing the bolt to 22 ft/lbs(from
+> bently)I am assuming this is pre-loading the fastener based on it's known
+> strength. I also think that the angle measurement is important to have as
+> accurate as possible. Am I correct? what is the tool used in addition to the
+> torque wrench?what would the dealer use? TIA
+>
+This is done in two different modes. First you use a conventional torque
+wrench and torque the fastener to the spec'ed torque, in this case to 22 ft/lb.
+Then you set the torque wrench down and go into angle torque mode.
+
+This mode uses what is called an angle torque gauge to rotate the fastener
+through the spec'ed angle, in this case 90'. This can be done by eyeball
+but to be really accurate you should buy an angle torque gauge. I've seen
+them at Pep Boys, by Lisle I think, but lots of places carry them. The angle
+torque gauge uses a flexible cable to provide a fixed reference to a simple
+dial. The dial is zeroed and the wrench is turned until the pointer reaches
+the required angle. Note that the gauge includes no wrench or socket - you will
+use a breaker bar and a conventional socket with the gauge.
+
+I think the factory specs an angle torque to help reduce torque errors due
+to (1) poor torque wrench calibration and (2) friction present in the fastener
+threads and the face of the fastener on the washer or mating surface.
+
+Doug
+
+============================
+15.3.5:   'i motor oil leak
+
+--------------------
+From: RODDHOT@aol.com
+Date: Tue, 28 Nov 1995 17:38:00 -0500
+
+Owners of 325i & M-3 cars with oil coolers (It's tucked behind the front air
+dam) BEWARE ! there is an inherent problem with leakage from the oil filter
+head. Previously the only fix was to buy a new filter head for $135. Now a
+repair kit is available under part # 11-42-9-059-338 for only $4.83. This
+repair is also covered under SECRET BMW Warranty. Have your dealer refer to
+service bulletin # 11-09-90 dated January 1991.There is a fair amount of
+labor involved & is a MESSY job. try to get done under warranty.
+
+
+============================
+15.3.6:   ETA head job
+
+--------------------------
+From: Larry Schuette <schuette@ait.nrl.navy.mil>
+Date: Mon, 13 Nov 1995 09:57:08 -0500 (EST)
+
+How to do a Top end job on a Eta engine.
+
+        I finished the top end job on my 83 528E, and it made a real
+difference in how the car runs.  With 93K on the engine, I had the
+exhaust guides and all the seals replaced.  The cost for grinding
+the valves and the valve seats, milling .003" off the head, and
+replacing all the seals, and the exhaust guides was $250.00 at
+the local BMW speciality shop.  They also cleaned it up with a walnut
+bead blast.  My exhaust ports had coked up so that I only had about 70%
+of my exhaust port area left.
+        If you've got 100K on yours you may want to remove one of the
+exhaust manifolds and take a look, you can easily clean out the coke
+with the head on the block.
+        My cost was $250.00 for the shop, and about $200.00 more for
+the timing belt, tensioner, gaskets, copper nuts (exhaust), head gasket,
+seals, and head bolts.  The only special tools you need are a E-14 Torx
+socket for the head bolts.  It takes about 5 hours to take it apart, and
+another 8 to put it back together.  The extra time is spent waiting for
+the engine to cool off so that you can adjust the valves again.
+
+Other interesting, well known facts tidbits.
+
+According to the local BMW dealers' mechanics and the guys at the speciality
+shop the following is lore (sure was news to me).  First, early Eta engines
+have weak heads.  They were redesigned after 10/83 to correct for a design
+flaw wrt the cam bearing journals.  Early heads tend to crack (look for
+frothing in the valve area -- "like a milk shake").  Heads with the
+BMW logo and 4 "."'s around it are o.k., they should be stamped on the
+with a date after 83.
+        (Naturally, mine is stamped 10/82 :() )    In an
+effort to cheer me up, the machinist said "well, they weren't all bad,
+be sure to run good oil though" (great).
+        Secondly, the 6 cylinder engines because they are fairly long,
+tend to suffer torsional flex problems.  This is true especially in
+early engines that have all the freeze plugs.
+This problem shows up in excessive oil consumption in cylinder #6.
+(thus check this one when buying a used car),  The compression will be
+fine (it's an oil control problem).  The solution is to loosen and then
+retighten the bolts connecting the block and tranny.  Factory is like
+100ft/lbs, they recommend 45 ft/lbs.
+        I miked my bores, and the first 5 were within 1/2 a thousandth of
+being round. Sure enough, #6 was 2 thousands out of round.
+
+
+Larry
+
+
+============================
+15.3.7:   Idle problems
+
+(NOTE: The idle control unit described controled the idle on early
+ E30s using Motronic 1.0.  This covers up to about '87.  It does
+ not cover the 'i)
+
+------------------------
+From: Jim Conforti <jec@us.dynix.com>
+Date: Tue, 27 Dec 1994 11:40:08 -700 (MST)
+
+The Idle Control Unit (or module, hence called ICU) is an analog closed-loop
+controller based on some op-amps that outputs a PWM (Pulse Width Modulated)
+signal to the Idle Control Valve (called ICV) ..
+
+A current of 0mA will cause the ICV to be fully open, and a current of about
+500mA (approx) will fully close it ...
+
+The ICU gets the following inputs ..
+
+1) 12vdc [power]
+2) Ground
+3) RPM Signal [from coil primary]
+4) Idle Switch input
+5) Auto Trans Park/Neutral Input
+6) Engine Coolant Temp Switch input (closes at 45degC+ coolant temp)
+7) Air Temp Switch (on firewall, behind battery; closes at OdegC- air temp)
+
+The output is a two wire ckt. to the ICV ..
+
+The PROPER operation is a follows ...
+
+AT in ANY gear, 700 rpm
+
+AT in P/N or MT vehicles ...
+
+Engine cold (< 45degC) 950 rpm
+
+Engine warm (> 45degC) ...
+
+ Ambient Air Cold (< 0degC) 850 rpm
+
+        Ambient Air Warm (> 0degC) ...
+
+  A/C ON  850 rpm
+
+  A/C OFF 700 rpm
+
+Get either a Bentley, or a factory (318i and M3) service manual and check
+all of the inputs to the ICU ... you'll have to look close to see the Idle
+Switch value, as it is only there for a split second unless the engine is
+running .. both Bentley and factory manuals have good ICU input tests ..
+
+Next check for proper setting of the throttle plate position ... it should
+be closed almost completely, a few thousandths is the proper opening!  ...
+also check for vacuum leaks ..
+
+You can check the ICV with a 9v battery .. if you remove the ICV and
+connect it to a 9v battery, it'll snap closed if O.K. ...
+
+BTW, you DO have the silver metal ICV, and not the black plastic one, right?!?
+
+If you have found nothing else, then it is a good bet that the ICU is dead or
+dying .. NOW .. if you are brave, you might be able to fix it!
+
+Remove the ICU, unplug it, and bring it inside .. open the case and the
+connector (12 pin) will slide out with the 2 small circuit boards attached
+
+You open it up by prying the connector out of the end of the case with
+2 small flat-bladed screwdrivers ...
+
+If you look at the circuit board, you may see a burned area near a large
+transistor on the board that is directly connected to the 12 pin connector
+
+Check those burned traces with a multimeter & magnifing lens, chances are
+one is cracked/fryed ... use a small piece of wirewrap wire to bypass the
+burned area, from transistor solder pad to the next solder pad on down the
+line ... (usually, this is one of the 12 "connector pin" solder pads)
+
+This MAY fix it, but if not, get yourself a new ICU AND ICV .. you should
+change them BOTH at the same time ...
+
+The last hope, is that one of the connectors in the harness side is a bit
+stretched out and is not making good contact with the pins on the ICU ..
+
+If you ARE REAL CAREFUL .. you can slide the back off of the 12 pin harness
+connector and AFTER NOTING THE POSIION OF EACH WIRE BY COLOR IN RELATION TO
+the INDEX PIN (plastic) .. you can remove the front of the connector, and
+using needle nose pliers GENTLY crimp/close/tighten each of the 12 female
+socket pins .. replace the connector front, assuring that the each wire is
+in the correct place in relation to that INDEX pin, and put the back of the
+connector back on .. hook it back up and try it .. a lot of times, the
+connector is loose, and that's the ONLY problem ...
+
+Jim Conforti
+
+
+============================
+15.3.8:   Timing Belt
+
+------------------------
+(by Rick Kjeldsen  fcmk@watson.ibm.com)
+
+The E30s with the "baby-six" engines have a belt driven camshaft (the
+4 cylinder E30s don't).  These belts have limited life, recomended change
+intervals are 60k miles.  Consequences of a broken or stripped belt are
+serious - pistons and valves hit and at a minimum the head will have to be
+rebuilt.  Some people have reported broken belts at less mileage, so some
+people recomend changing the belt sooner (50k or even 40k), especially in
+a very harsh environment like the desert (extream heat seems to shorten life).
+
+I suggest you change the water pump and tensioner pulley while
+you are in there.  Water pumps often don't last two belt changes, and labor to
+get at the pump is pretty high - about the same as changing the t-belt.  The
+tensioner usually doesn't fail, but it is cheep, so changing it is good
+insurance.  Other stuff that is good to change at the same time are the
+camshaft seal (behind the distributer), any belts and hoses you suspect,
+and engine coolant.  The plastic radiator hose hanger (part # 11-53-1-714-433)
+and two "7-clips" (part # 11-14-1-716-134) often are brittle and break, so
+are good to have on hand.
+
+The job is pretty basic DIY, but because of everything involved, it is
+time consuming.  Everything is well marked, so as long as you are careful,
+there is little danger of reassembling the engine with the cam rotated
+wrong or anything major.  The full changing procedure is to long to go into
+here, refer to a good manual such as Bently.
+
+Some hints: pulling the radiator makes things MUCH easier to get to, and often
+less painful.  I take off the hood as well (easy, just don't drop it!).  The
+fan can be tough to get off - especially if the previous servicer put it on
+more than finger tight (that is all it needs as the force of driving the fan
+tightens it up plenty).  Remember it is reverse threaded onto the water pump.
+The bolt can be tough to get at.  BMW sells a special thin 32mm wrench for it.
+I just pull out two of the 4 bolts that hold on the waterpump pulley, and that
+gives me plenty of room to get a standard wrench on it.  On later cars (after
+around '86) the crank pulley/damper is held on with 6 bolts, but is such a
+tight fit it can still be tough to get off the crank.  Just keep tapping and
+wiggling it, it will come.  I've heard early cars make you take off the big
+crank nut to take off the pulley.
+
+
+============================
+15.4: Suspension & Steering
+============================
+
+============================
+15.5: Brakes
+============================
+
+============================
+15.6: HVAC
+============================
+
+
+============================
+15.7: Electrical
+============================
+15.7.1:   Jerky Wipers
+
+Your wiper motor has a bit too much grease in it and it has hardened up on
+the "park" contacts in it. Sounds complicated, but it's actually (as far as
+BMW's go) not TOO hard to fix.
+
+The story is: the wiper motor has contacts in it that make it continue to
+run, and park. These contacts close on a metal segment on the plastic gear
+that drives the shaft coming out of the motor (the motor itself is at right
+angles to this). If the housing had too much grease in it (which was fairly
+common, at least on my year), or the grease has hardened up.. the contact
+tend to skip a bit, causing the jerky action. The big hint is that it only
+occurs in the intermittent mode (which you describe).
+
+TO FIX (Two choices):
+
+1. Go to dealer, sell left arm, buy new motor.
+
+2. Remove motor and clean out grease, regrease.
+
+ssuming you may want to tackle #2.. here is how it's done:
+
+1. Remove the motor. I'd disconnect the power connector going to it first
+(it will try to park otherwise if you accidently rotate it, perhaps taking
+a finger or two with it). On my 535 - it's behind the cowling for the
+fresh-air intake for the heater - don't have a clue where for a 3er..
+remove the nut (and washer) holding the linkage to the motor, try to
+prevent it from turning while you remove it. The arm connecting to it is
+splined, but removes fairly easily (a good tug). Remove nuts/bolts holding
+motor in vehicle. Walk it to your workbench.
+
+2. Disassemble: The contact you want are behind the light aluminum plate
+that covers the big gear (this will be fairly obvious).. on mine, the plate
+was held on with mashed over aluminum studs. Right next to these studs were
+holes through the plate and corresponding holes into the housing.. sorta
+looked like these could be tapped to take a few screws for reassembly
+(CLUE!).
+
+3. Repair it: Drill off the mashed over aluminum heads of the studs (1/4"
+bit works fine). The cover should remove easily. You'll find lots of nice
+brownish grease. Clean the contacts (attached to the cover) and the face of
+the gear where the metal segment is). Regrease lightly with a white lithium
+grease (at least that's what I used)..very lightly!
+
+While apart - tap the holes in the aluminum housing - I *think* I used 4-40
+American (looked about right, and I had the tap and some short 4-40 screws,
+but it might have been 2-56). Try to keep tap filings out of the housing
+(grease on the tap helps a lot).
+
+4. Reassemble: Put the cover back like you found it and screw it back
+together. Reinstall motor in car. Align the motor by starting it once
+WITHOUT the wiper arm attached and letting it go to the park position. Once
+it's aligned, refasten the wiper arm in the correct parked position (try
+NOT to turn the motor while tightening the nut holding the arm).
+
+
+============================
+15.7.2:   Erratic blinkers
+
+------------------------
+(by Rick Kjeldsen:  fcmk@watson.ibm.com)
+
+>Within the last 2 weeks, my left side indicators have been misbehaving.
+>Flashes real fast in other words..... I got out and checked the bulbs,
+>all of them work. The problem does not persist - it settles after some
+>indeterminate amount of time... Guess its a bad contact at some place
+
+That is a classic symptom for a bad contact  between the wiring
+harness and the front blinker assembly.  You can get at it by removing
+the plastic cover in the engine compartement that covers the back of
+the headlights and reaching down into the bumper.  You will find a
+plug with a rubber boot that plugs into the back of the blinker.  Pull
+it off and on a few times to temporarily fix the problem.  For a more
+permenent fix, clean the contacts and put some dielectric grease in
+there before you plug it back together.  (you can get dielectric
+grease at most auto-parts stores)
+
+
+============================
+15.7.3:   Wiring fog lights to work with high beams
+
+Instructions for E28 535i (differences for E30 at end)
+
+There are two philip screws which attach the top of the fuse box (or power
+distribution panel as the book calls it) to the bottom of the box. Remove
+these two screws. You may have to remove the relays above the screws to get
+at them. Find and remove the fog relay (marked in the owner's manual and
+the Bentley). Remove the connector in the top part of the fuse panel (it's
+in the slots that you push the relay in) for the 85 lead on the relay (if
+you look at the bottom of the relay, the leads are labeled with the numbers
+30, 86, 87, 85...so on). The easiest way to remove the connector is to use
+a very thin flat screwdriver and push on the back of the spade to push the
+little tab back into the spade so it slides out the bottom of the fuse
+panel. Drawing below:
+
+| <--   thin screwdriver
+|
+______ |__________ top of fuse panel
+|
+|\ <--  push this tab in from above
+|       to slide connector out the bottom
+
+Now pull the connector out the bottom of the panel by separating the top
+and bottom halves of the fuse panel. The halves do not separate much maybe
+3 inches. Tape this connector up or use shrink tubing. You won't be using
+this connector again. The next step is to remove the connector of the 85
+lead of the high beam relay (this is ground, you might want to test for
+such) in the same way but you will use this again.
+
+Make a y connector with two leads to fit in the two slots you just removed
+the connectors from and the third lead to fit in the connector that was
+connected to the 85 on the high beam relay. Plug the y connector in (slots
+and the extra lead). Tape or shrink wrap the y connector to previous 85
+high beam conector. All that is left is to plug in the relays and test the
+new feature (fogs on even with high beams on) and put the two halves of the
+fuse panels back together. TEST!! before putting the halves together.
+
+Instructions for E30 318i (should apply to any E30)
+
+Same as above except disconnect 85 on the fog relay and put the y-connector
+to the connector on the 86 of the high beam relay (this is +12v when the
+ignition in the run position) and the 85 lead of the fog relay.
+
+- ---
+The nice part of this rewiring is that it is entirely reverseable since no
+cutting is involved. I have seen as a Porsche mechanic too many car wiring
+systems destoryed by poor rewiring for extras and especially sound systems.
+
+I have also wired my fogs to function as longs as the light switch is in
+the park or on position but that extra bit is more complicated than I can
+explain in this media.
+
+
+============================
+15.7.4:   Service Indicator Lights
+
+For info on resetting or repairing the SI lights, see the General
+Repair info Section
+
+============================
+15.7.5:   Finding 'iC check-control relays
+
+------------------------
+From: Matthew Hocker <hocker@waldo.com>
+Date: Mon, 24 Jul 1995 19:36:59 -0400 (EDT)
+
+A while ago, I posted a request about trying to find the rear lights
+check relay, as mine had self destructed. Fortunately for everyone else
+with the same car as mine, no one else had lost their relay, so I had to
+do a little scrounging to find it. This relay is improperly marked in the
+Bentley book as being next to the power antenna, a fact probably true for
+hardtop E30s, but not for the convertible.
+
+For the FAQ, the relay is located on the driver's side of the car, behind
+the trim for the backseat. That is, it's on the wall of the car, directly
+below the rear window of the car. Here's how to get there:
+
+1. Lower the convertible top and put the driver's seat forward
+2. Lower the windows (makes access easier)
+3. Remove the weatherstrip for the window by lifting gently to unclip it.
+4. Remove part of the door weatherstrip, just enough to expose the joint
+of the backseat trim.
+5. Remove the face for the rear speaker, and unscrew the two outside
+screws. The two inner ones are for the speaker, and should be left
+untouched.
+6. The panel should now be free. Pull it out and turn it to the back of
+the driver's seat. This helps by not requiring removal of the seatbelt.
+7. Disconnect the speaker.
+8. The relay is located behind the sheet metal, at the bottom. It is
+visible by the two screws and a corner of the wiring harness, through a
+small hole in the metal. Removal is simple, just unscrew, pull out, and
+disconnect. You may need to remove the seats, although I didn't.
+
+I reconnected a new relay and was up and running in 20 minutes.
+Replacement of parts is the reverse of removal... ;) Seriously, it was a
+simple operation.
+
+
+============================
+15.7.6:   Installing 318 cruise control
+
+-------------------------
+From: David Manderscheid <mander@math.uiowa.edu>
+Date: Tue, 11 Jul 1995 10:25:41 -0500
+Subject: 91 318is cruise control
+
+A recent poster asked about installing cruise control on a 91 318is. This
+question has come up a number of times on this list and I have previously
+answered it in private email with the posters. This tiem I will post to
+the list. Cruise was not an option on this model and there is no
+BMW cruise that will work (eg the 92) according to both my dealer and
+the local independent shop. I had an aftermarket unit installed on my
+car and it works fine so it can be done. THe unit was 220 for parts and
+3 hours labor to install. According to the shop (SIMPSON MOTORSPORT
+in Iowa City) it was a real pain to install. I can't remember the name
+brand of the unit but it was from North Carolina and has a dash mounted
+control unit (use the fog light switch spot) that looks pretty cheesy
+but has worked without problem for two years.
+
+Dave Manderscheid
+91 318is 37K
+
+
+============================
+15.7.7:   Fixing Erratic Clock (not OBC)
+
+(NOTE: the following applies to the base clock/temp unit, not the OBC clock)
+
+-------------------------
+From: schoudhu@ccmail.abbotthpd.com
+Date: 29 Jun 95 09:55:11 GMT
+
+Fixing the sometimes blinking clock/temperature display on an E30
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+This could be due to a bunch of loose connections, but the one that
+seems to pop up a lot is one connector:
+   _                                               ASCII DRAWING
+  | |  .---------.                   .________     Side View, Exploded
+  | |  |         |      _            |        |    =====================
+  | |  |         |  *- | |           |        |    A- Front Plastic Panel
+  | | [|         |     | |           |        |    B- Front of Housing
+  | |  |         |     | |_          |        |    C- Rear of Housing
+  | |  |         |     | | \         |        |    D- Plastic Handle attached
+  | |  |  |      |     | |\ \        |        |       to the electronics bwd.
+  | | [|  |      |     | | \ \D      |        |    E- Actual PWA with
+  | |  |  |      |     | |  \)       |        |       electronic components
+  | |  |  |      |     | |           |        |    F- 12-Pins, Male
+  | |  |   \     |   __| |           |        |    G- 12-Pin Female Connector
+  | | [|    --   |  |__| |-          |        |
+  | |  |   / F   |  G  | |           |        |    *-  represent two of
+  | |  |  |      |     | |           |        |        the four screws.
+  |_|  |.________|  *- |_|           |________.
+  A    B                 E                     C
+
+This above is an exploded side view. I have found that the solder connections
+on the pins of the 12-Pin Female 'Molex' brand connector (G) were yellow,
+crusty, and had dried out a bit on one row. Well, this was just the amount
+of play needed to sometimes make or break a connection, causing the display
+to freak out. Instructions on how I did it:
+
+1. Remove (A) with tiny jeweler's screwdriver from dash of car
+2. Push in tabs with fingers ( one up, one down ) on the face of (B),
+   and pull. The whole box-like unit slides easily out.
+3. Unplug the male connector that attached near the handle (D).
+4. Take the boxed unit to a bench.
+5. Use screwdriver edge to pry open (B) from (C). In pulling on the two
+   sides, remember that (F) and (G) are really what is 'pulling apart'
+   and diconnecting.
+6. Unscrew the four screws so that (E) detaches from (C).
+7. Examine how well (G) is seated into (E).
+8. Unsolder connector (G) from the board (E).
+9. Resolder connector (G) into (E), and re-assemble unit.
+
+(: Easy :) You can replace the bulbs when you have the box open too!
+
+Regards, Sy Choudhury 89.E30.325i.109K with non-intermittent clock :)
+
+
+============================
+15.7.8:   Adjusting Headlights
+
+--------------------------
+Here's what I found in a German manual for the E30s and it probably applies to
+the E36 as well.
+
+1. Park the car 5 meters back from a wall.
+2. Draw a horizontal line on the wall 5 cm below the height of the center of
+   the headlight unit.
+3. Mark X's on the line which are as far apart as the centers of the
+   headlights are apart on your car.
+4. Adjust the height of the beam so that the flat part of the pattern lines
+   with the horizontal line (i.e. 5 cm drop for 5 meters forward distance).
+5. Adjust the lateral aim so that the "kink" occurs at the X's.
+
+The fog light beam should drop 10 cm in 5 meters.
+
+
+============================
+15.7.9:   Killing the Key Gong
+
+-------------------------
+From: marshall.garrison@cccbbs.cincinnati.oh.us (MARSHALL GARRISON)
+Date: Tue, 30 May 95 20:13:00 -0500
+
+OO> From: Jim Conforti <jec@us.dynix.com>
+OO> Subject: E30 Key buzzer/gong
+OO> Pull the drivers side door switch by removeing the single screw ...
+OO> Note that there are TWO wires to the switch ..
+OO> One is the lights
+OO> One is the key gong
+OO> Removing the keygong one and insulating it works just fine ..
+OO> Be nice, and wiretie it to the remaining wire so it does not get
+OO> "lost"
+
+The downside to my thought about tieing that wire into the seatbelt-
+unfastened alert wire: then the gong would sound incessantly anytime the
+key was turned in the ignition and the seatbelt wasn't latched (instead
+of the door being opened) (Doht! :). Okay for driving around, but not
+for separate harness use at driver's schools or working on the car. At
+least it could be quieted by latching the seatbelt or using a spare
+seatbelt buckle. Probably way more hassle than it's worth though,
+compared to the simplicity and reversability of your suggestion! Thanks
+again!
+
+
+============================
+15.7.10:  Replacing OBC bulbs
+
+-------------------------
+I just replaced the OBC bulbs on my E30 on Sunday. Various views
+on the easiest way to get at them have been posted. I tried both the glove
+compartment and the center console methods. The glove compartment might
+be OK if you have hands the size of a 5 year old. The center consoleway
+is pretty good, only pain in the butt is getting the lower screws back in.
+I think you only need to get the right hand one out.
+I played around with a few bulb types as RS in all their wonderfulness,
+had a crap selection. Turns out the ones that work great are the 6V 100 mA
+ones, but I could only get them in screw in type. Just solder a couple of
+wires to them and they work OK.
+I cannot believe BMW charge nearly 30 smackers for that tiny board.
+Cheers
+Blair
+
+------------------------
+[bulb ratings]
+
+Blair, they are 6V, 85mA
+
+
+
+============================
+15.8: Misc
+============================
+15.8.1:   Steel wheel center caps
+
+-------------------------
+(by Rick Kjeldsen   fcmk@watson.ibm.com)
+
+>I have an '85 325e with 14X7 steel wheels that I use for winter.
+>I would like to get some hub caps for the wheels, but I don't want the
+>$5- plastic jobs that the dealer sells...
+>Any help is appreciated.
+
+I put steel wheels on my 'iX for the winter, and didn't want
+full hubcaps.  It turns out BMW sells a small center cap that is
+about 3" across by 1.5" tall, nicely made chrome plated steel with
+the Roundel in the center. It is supposed to snap onto some wheels,
+I think.  It doesn't snap onto the 'iX steel wheels (which I believe
+are identical in the center section to other E30 steel wheels), but
+the lug nuts fit over the wide flange at the bottom and hold it
+on very nicely as I've tried to draw here:
+
+
+                        Roundel
+                           |
+                           V
+                     |---------------|
+                     |               |
+            ______   |               |   ______
+           | Lug  |  |    Center     |  | Lug  |
+           | Nut  |  |     Cap       |  | Nut  |
+           |______|  |               |  |______|
+           \      /__|               |__\      /
+            \    /|_____________________|\    /
+   __________|__|__/                   \__|__|___________
+             |  |         Wheel           |  |
+
+
+
+There is a small gap between the cap and the wheel.  The cap doesn't
+rattle, it's held firmly, but water and dirt can get into the hub
+nut, so I filled the cap with a block of rigid foam which presses
+against the wheel and seals it.
+
+All in all it works really well, and looks sharp (IMHO), especially
+with black wheels and lug nuts.
+
+The part number for the caps is 036 13 1 127 230.  I think they ran
+about $7.00 each (with the club discount at Hendrick BMW).
+
+enjoy,
+rick
+'87 325es
+'90 325iX
+
+
+============================
+15.9: Performance
+============================
+15.9.1: ETA Differentials
+
+------------------------
+(by Harry Sidhu: 72130.3211@CompuServe.COM)
+
+Various diffs that you can use in place of the 2.91 or 2.93 (ETA 325):
+3.25 used in 9/82-9/84 533i,535i,635csi; 528e 3/87-12/87; 524td all.
+3.46 used in 635csi 9/84 onwards; 528eA 3/87-12/87
+3.73 325i,is 9/87 onwards
+3.90 and 4.10 are also available but useless unless you have a 200hp motor
+with a 9000rpm limit.
+All the above are referred to as "6 cylinder rear loading".
+The above 5 and 6 series diffs are identical to the 3 series diffs except
+for the axle flanges (slight difference in diameter) and the rear
+aluminium cover (different mounting point) both of these can be quite
+easily transferred off your existing diff. The flanges can be pried off
+with a large screwdriver or pry bar and the rear cover is fastened using
+8 bolts. These are available for about 1/2 the price of used 325i diffs.
+The only problem is that relatively few of these were limited slip so
+whoever you are buying it from, make sure you let them know that you will
+only accept a limited slip and one that will fit.
+Remember that all these limited slips only have a 25% LS which translates
+to 45ft.lbs breaking torque, to get more you have to go to the
+aftermarket.
+In my case they first shipped me a 84 318i diff. and then a 3.45 side
+loading diff before finally getting it right. (3.73 LSD).
+If anyone is interested, I have pictures and applicatons of all the BMW
+diffs that I can fax.
+
+
+==============================
+15.9.2: MCU switch settings
+
+Note, this switch does not exist on all E30s, or even all 'e's
+
+
+---------------------------
+(by Harry Sidhu: 72130.3211@CompuServe.COM)
+
+For all those involved in the quest for higher velocities, here are the
+settings for the MCU switch. Please remember that the settings are
+affected by the gas you use, what kind of carbon buildup you have on
+valves/injectors etc. so the settings I use may not work at all for you or
+may work better(hopefully).
+
+The switch in question is light or dark blue (depending on year of
+manufacture) and to reach it you must open up the MCU and unfold the 2
+boards in there. One of the boards has this on one of the sides. It is
+cylindrical and about 1/2'' in length. From the stock setting which is
+with the notch straight up, it can only be turned clockwise to achieve 6
+additional settings which are listed below.
+
+1) Stock
+2) 3% increase in injector open time, no timing change
+3) 3% decrease in injector open time, no timing change
+4) 6% increase in injector open time, no timing change
+5) 3% increase in injector open time, 2.78 degrees retard
+6) 3% decrease in injector open time, 2.78 degrees retard
+7) 6% increase in injector open time, 2.78 degrees retard
+
+I am currently using setting #2 with the CO on the air flow meter turned
+up a few turns (4). Next, I plan to mess with the spring in the air flow
+meter and also increase fuel pressure (soon as I find the right
+regulator).
+
+The retard setting are useful for people with aftermarket chips who have
+pinging or detonation problems.
+
+Remember your optimum settings could differ and make sure to note the
+stock settings so you can go back in case you start blowing black smoke
+out of the exhaust (too rich).
+
+Again, these procedures are not looked favorably upon by most people.
+
+
+==============================
+15.9.3: ETA engine performance
+
+-------------------------
+(by Rick Kjeldsen, fcmk@watson.ibm.com)
+
+Because of the engine's design, you are somewhat limited unless you
+get pretty radical.
+A chip (Dinan or Autothority seem to be the best) gives a noticable increase
+in power and gets rid of some of the minor drivability problems - but
+they don't make it into a dragster ;-)  They also increase the rev
+limit to about 5300, but you don't get much benifit out of that
+last 300 rpms.  Shifting at 5000 gives me the best accel.  A K&N
+filter will give you a little on the top end (>3500 rpms) and a very
+nice intake note at high rpms too.  Really makes the car snarl when
+you wind it out.
+  Above 5000 RPMs you will drop off because of the cam.  Rumor has it you
+can drop in an 'i cam and valve springs and get a nice increase.  I have
+yet to talk to anyone who has done it yet.
+  The rumor of dropping on a 'i motor head is garbage (kills
+compression, worse than useless)
+  The stock exhaust is the best you can do there.
+  The big throttle body and air boxes you used to see around for it
+are useless too.
+
+  One of the best mods you can make for acceleration is to change
+the rear end ratio.  Stock came with 2.76 ro 2.91 depending on the
+year.  You can take that up to 3.25 (easy to get) without
+sacrificing much streetability.  3.75 (?) (from a 325i, so easy to
+get, too) gives you a lot of punch, but the 1->2 shift comes up VERY
+fast, and the car gets buzzy on the highway.  Remember, it's torque
+that accelerates you, and the 'e has slightly MORE torque than the
+'i motor, so you give it the same rear end and you accelerate just
+as fast!  Even with a chip you won't have the RPMs of an 'i, but
+that doesn't matter as much on the street.
+
+  I run a Dinan chip with a 3.25 rear end (and small diameter tires
+on the track - equivalent to a higher diff ratio) and K&N filter.
+The car is much faster than stock, has better throttle response and
+a smoother acceleration curve.  It runs about 300 RPMs higher on the
+highway, noticable but not annoying.  Mileage is about 2 mpg lower,
+because the chip modifies the curves more at higher than stock RPMs
+and the diff puts me in those rpms more often.
+
+  If you want to get more radical, there are several builders who
+redo the 'e head, put in light pistons and flywheel and do things
+like that and end up with about 190 HP.  Metric Mechanic has one
+that interested me very much for about $4000.  Korman has several
+rebuilds for it but they tend to be more pricey.  He used to race
+the 'e, so he does know the car.  I have his suspension and I'm very
+happy with it.  He also has a turbo for it, but I don't know any
+details.  Drop him a line and have him send you his E30 325
+catalogue (sp?).
+  Pete McHenry kind of specializes in the small 6 block.  He has
+done some ETA rebuilds, but he doesn't recomend them.  His argument
+is that you can do better dropping in an 'i motor (which you can
+build to higher power levels) or even the M50 motor from the E36
+(185 HP stock, and easy to build to 250 HP +).  The M50 only adds
+about 6 lbs to the car.  I've seen the motors w/ low mileage for
+about $3000, and it will cost about $1000 to put it in.  I think
+that is the route I'm going to go when my (150k mile) engine gets
+tired.  Either swap is relatively easy because the blocks are the
+same, and you end up with a near stock configuration.
+
+
+---------------------------
+From: bthongsa@students.uiuc.edu
+Date: Wed, 24 Jan 1996 20:50:01 -0600 (CST)
+
+> I have noticed that in the 1988 year of the 528e series there are greater
+> differences. The cam shaft uses all 7 bearings, has larger intake and exhaust
+> valves and also uses a different exhaust system. The exhaust system looks lik
+e
+> it came off the 535. I was wondering if anyone knew what the difference is
+> between this motor and the motor on the following years 525i.
+
+Ah, the 'super-eta'.  Post- 3/'87 528es and '88 325s(not i or is) use
+this motor.  It's basically a 2.7 liter, detuned version of the 2.5
+motor found in the '87-'91 325i/is and '89-'90 525i.
+
+The super-eta uses the big port/big valve head of the 325i/525i, but with
+a milder cam and weaker valve springs.  The bottom end has a longer stroke
+crank for the extra displacement.  Also, the intake manifold has extra-small
+runners to increase intake velocity (smaller than the 'i' motors, and smaller
+than the earlier eta motors).
+
+This motor has more performance potential than the earlier etas.  An 'i' or
+early eta intake manifold, 'i' cam and valve springs, and matching chip are
+what's needed to create what would basically be a 2.7 liter 'i' engine.
+
+Ben
+
+
+---------------------------
+From: bthongsa@ux4.cso.uiuc.edu
+Date: Tue, 21 Feb 1995 14:35:38 -0600 (CST)
+Subject: Re: e to i conversion
+
+> > That's pretty much how it goes.   The 'super' eta head is a
+> >325i head.  Fancy that. :)
+> > So you could also just swap intake, head and chip from
+> >a 325i.  The 325e intake is smaller to provide more low-end torque
+> >for the eta motor.
+>
+> How sure are you of that info?
+> The reason I ask is that I talked to Pete McHenry over O-fest, and
+> he said that the myth of putting an 'i head on an 'e engine is
+> hogwash.  Apparently the geometry of the 'i head in combination with
+> the 'e pistons drops the compression so low that even running is a
+> problem.  Performance is out of the question.
+
+Putting a stock 325i head on a regular (pre-'87 or so) 325/528e is
+possible, but you'll suffer from really low compression.  The 325i
+head is flycut (check out the pictures on the 2002 page -- yes,
+there are pictures of a 12 valve 325i head there) and has corresponding
+pistons with a funny dome-bowl top.  The 325e head is not flycut,
+and the pistons are flat with a dish.  Mating the two will provide for
+about a 7:1 compression ratio or so.
+
+>   I don't know if that applies to the "super-ETA" or not, but I'd
+> want to talk to someone who did it before I tried it!
+
+As far as I can tell, the super-eta has special pistons that will
+mate with the flycut head.  I almost got a chance to pick up a
+burnt super-eta cheap, but alas, it was tossed before I could get
+to it.  I have this 325i head that is waiting for a suitable 2.7
+block......  So I can't say for sure, but I think that the 325i
+head should work well with the super-eta block.
+
+Of course, you could always just replace the e pistons with something
+suitable, and run the i head.....
+
+Hope this helps,
+Ben
+
+
+---------------------------
+From: bthongsa@ux4.cso.uiuc.edu
+Date: Wed, 22 Feb 1995 15:14:08 -0600 (CST)
+
+> >Putting a stock 325i head on a regular (pre-'87 or so) 325/528e is
+> >possible, but you'll suffer from really low compression.  The 325i
+> >head is flycut (check out the pictures on the 2002 page -- yes,
+> >there are pictures of a 12 valve 325i head there) and has corresponding
+> >pistons with a funny dome-bowl top.  The 325e head is not flycut,
+> >and the pistons are flat with a dish.  Mating the two will provide for
+> >about a 7:1 compression ratio or so.
+>
+> So can I assume that the super eta head is actually a "i" head (flycut head -
+-
+> what does this mean??), that is why it has the special pistons necessary. If
+
+I _think_ so, but I'm not absolutely sure.  Flycut means that the combustion
+chamber was machined so that the "edges" are rounded up.  Hard to
+describe.  Take a look at the pictures on the 2002 page, it's pretty obvious
+there.
+
+> that is the case then I can take the head in my car 1988 528e and just replac
+e
+> the cam and the valve springs to get a "i" engine with greater displacement?
+
+Yes, this will work even with the standard e head.  Just be sure to drill
+the extra oil passages for the cam.
+
+> Will I have to replace the intake manafold and the throttle body from a "i"
+> engine or will the existing hardware be okay to work with the new cam?
+
+It's not necessary to replace the manifold.  In fact, for the 528e, I'd
+prefer keeping the eta manifold.  Installing a 325i manifold will gain
+you some top end HP and breathing, but at the loss of some of the low end
+torque.  The 325i throttle body wouldn't be a bad idea, though.
+
+> I am also assuming that the chip in the ECU will need to be replaced, but how
+> will this setup deal with meeting smog emissions?? (I live in California)
+
+You'll need the chip.  Smog shouldn't be affected.  You'll basically have
+a 325i engine, only with more displacement.
+
+
+
+---------------------------
+From: bthongsa@students.uiuc.edu
+Date: Tue, 23 Jan 1996 20:01:20 -0600 (CST)
+
+> There is a serious caution that anyone considering just doing the head and a
+> chip on an eta engine: the bottom end is less sturdy. It is not designed to
+> handle higher rpm use. The piston rings are of a special low tension type
+> and the bearings are softer, both intended to reduce friction. But they wear
+> a whole lot faster when you rev them up. There are also other differences
+> which leave the eta engine not to well suited for higher rpm use.
+
+As far as I've seen, the bottom end of the eta is really no less sturdy
+than the 'i' motors.  True, it doesn't take high (6000+rpms) revs as well
+as the 'i' motors, but that's more of a function of the extra stroke length
+and weaker cast iron crank.  But, that's what the 524td crank is for --
+it's forged and drops in.  The usual chips used in e to i conversions
+have a rev limit of 5700-6000, though, so the bottom end doesn't really
+pose much of a problem.
+
+I don't recall offhand, but I don't think the eta uses different bearings
+from the 2.0/2.3/2.5 'i' motors.  Besides, bearing material doesn't really
+influence friction much on journal type bearings.
+
+> Can anyone more technically astute on the eta engine go into further detail
+> on the low friction, but consequently quicker wearing aspects of this motor?
+
+The main area where the eta motor is 'low friction' is the valvetrain.
+The eta cam only has 4 bearings, as opposed to the 7 on other small-6 motors,
+and the valve springs are considerably softer too.  Other than that,
+the lower revs inherently brings about less frictional losses, and the tall
+gearing/high load reduces pumping losses by forcing the driver to use a
+larger throttle opening for a given speed.
+
+Ben
+
+
+---------------------------
+From: read@engr05.comsys.rockwell.com (Pete Read)
+Date: Wed, 24 Jan 1996 07:57:39 -0500
+
+Barry Burr asks:
+>There are also other differences which leave the eta engine not
+>too well suited for higher rpm use.
+>Can anyone more technically astute on the eta engine go into
+>further detail on the low friction, but consequently quicker
+>wearing aspects of this motor?
+
+Ben answers:
+>>As far as I've seen, the bottom end of the eta is really no
+>>less sturdy than the 'i' motors...
+>>The main area where the eta motor is 'low friction' is the
+>>valvetrain. The eta cam only has 4 bearings, as opposed to the
+>>7 on other small-6 motors, and the valve springs are considerably
+>>softer too.
+
+The Metric Mechanican (MM) Catalog (816)231-0604 agrees with Ben's
+statements.  The ETA engine has four bearings versus seven on the
+325i head.  However, the ETA engine still has the same basic head
+with seven bearing journals.  MM uses the 325i (seven bearing)
+camshaft with stiffer valve springs, by drilling extra oiling
+holes in the three other cam journals.  The head is ported for a
+19% flow increase.
+
+MM uses 85mm (versus stock 84 mm) pistons with very deep valve
+reliefs, so a broken timing belt won't cause bent valves (valves
+can't hit the pistons). Stock rods and crankshaft are used.
+Redline is increased from 4,800 to 6,000 rpm.  Horsepower increases
+from 121 stock to 185.
+
+Warning; I'm just reading this out of the MM catalog, so I really
+don't "know" any of this for sure.  But even with the new 6,000 rpm
+redline, the ETA engine (81mm, 3.19 in stroke) still has a very
+conservative mean piston speed of 3,196 ft/min versus the positively
+slow 2,557 ft/min at the stock 4,800 redline.
+
+
+--------------------------
+From: john hartge <jhartge@dgs.dgsys.com>
+Date: Tue, 14 May 1996 09:16:20 -0700
+
+you can install "i" cam and springs into an "e" head, but...
+you must drill additional oiling holes in the cam bearing journals not
+used by the "e" cam but needed for the "i" cam.  you must change the
+computer chip to provide for new cam profile and higher revs to about
+6,000 rpms.  to really enjoy additional horsepower, get a new gear ratio
+for the rear, say 3.45 or 3.73.  it's a nice torquey setup.  you've got
+to have a strong bottom end, also.  as old as these cars are getting,
+with high mileage, you might just find or make a 2.5 or 2.7 "i" engine.
+
+
+==============================
+15.9.4:   Racing Harness Install
+
+--------------------------
+From: marshall.garrison@cccbbs.cincinnati.oh.us (MARSHALL GARRISON)
+Date: Thu, 23 Feb 95 14:26:00 -0500
+
+OO> I want to install a set of four point harness racing seat belts in
+OO> my 1988 E30 M3. I want to use snaps and eyebolts so that I can
+OO> remove the harness when I'm not at the track and use the OEM belts
+OO> for the street.
+
+Installed a similar setup in my '87 325is last year. Racer Wholesale in
+Georgia provided belts and hardware; most importantly, metric eye bolts,
+both short and long. For an E-30, replace the front floor bolt of the
+lower seatbelt bracket with an eyebolt. Check clearances underneath
+before installing, brake lines I think run directly under the bolt hole,
+so a shorter bolt may be better for one side or the other. You will
+probably have to use washers so the bolt will tighten down in the proper
+orientation (you want the lap belt to come up flat over your waist).
+
+You'll have to remove the seats to install the inboard bolts for both
+seats. The metric eyebolts will replace the 17mm bolts at the seat's
+pivot points inboard (transmission tunnel-side) or the seatbelt
+mounting bolts - sorry, forgot exactly which since last summer. The 17mm
+bolts are covered by plastic caps which pop off easily. Clearances are
+very close, the eybolts will rub against the carpeting slightly, but
+they will fit. The tricky part is getting the eyebolts oriented
+correctly so you can snap the lap belt in and out, because the eyebolts
+pivot w/ the seats as you change seat position. So, you want to make
+sure the seat is in the rake/height position you'll have it in for the
+track. On stock BMW sport seats, I found it far easier to snap in the
+inboard lap belts and leave them in place, as there is so little
+clearance that it is difficult to snap them in and out. Adding tabs to
+the snap-clips themselves might make that easier, which is something I
+thought about but haven't done. I just swivel the inboard lap belts out
+of the way, and remove the shoulder harnesses and outboard lap belts to
+use the stock belts.
+
+Thus far the modifications are easily reversible, and allow for a
+completely solid mounting for the lap belts. For a crotch belt, bars
+were welded between the lower seat rails w/ bolts welded on, to which
+the crotch belts attach and are bolted to. I slit the leather in the
+thigh extension flap to thread the crotch belts through. I know of
+other installations where they're simply bolted through the floor.
+Always check the underside first, you don't want to inadvertently drill
+through anything important. BTW, For the sill-side eyebolt, I had first
+tried the seatbelt lower bar's REAR (b-pillar) mounting point for the
+eybolt; don't do it, it doesn't place the lap belt in the proper
+position to be tightened down adequately.
+
+Being tall, I didn't want to run the shoulder belts downwards behind the
+seat to the rear seatbelt mounting bolts, which is a typical choice. I
+chose instead to run eybolts through the rear deck (inboard of each rear
+speaker, with enough room for the snap-clips to attach/detach), through
+custom cut reinforcing plates in the trunk, against the rear deck panel.
+The carpeted rear deck panel was cut out w/ holes just large enough so
+the eyebolts could have metal-to-metal contact; ie: Eyebolt, large 1/4"
+thick washer, metal rear deck panel, reinforcing plate, lockwasher, and
+nut. Obviously the eyebolts stick up through the carpeted rear panel,
+but it looks okay, at least as a compromise for me.
+
+Underneath the carpeted rear deck panel is some kind of welded bracket
+w/ a bolt hole, maybe two on each side - it may be possible to use
+these as a mounting point, but I chose not to trust the strength of the
+BMW tack weld, vs. a plate and the rear deck, etc. FWIW, I had first
+tried a Schroth 2" 4-point harness w/ (get this) steel carabiners since
+they didn't have snap-clips; I found that I couldn't get the lap belt
+tightened securely enough, as tightening the shoulder belts would always
+pull up the lap belt. The Schroth was difficult to pull tight also.  I
+settled on a "Y" shoulder harness w/ snap-clip, pull-up lap-belts w/
+snap-clips, and a bolt-in crotch belt (3" TRW Sabelt cam-lock setup).
+This is somewhat easier to adjust and tighten than the Schroth, but far
+more secure - I am really locked into the seat when everything's
+tightened down.  Hope that helps, e-mail if you have any questions -
+
+marshall.garrison@cccbbs.cincinnati.oh.us
+ * RM 1.3 02862 * RoboMail -- The next generation QWK compatible reader!
+
+------------------------
+(by Rick Kjelsen  fcmk@watson.ibm.com)
+
+An alternative to the above shoulder belt technique is to run the
+belts down to the rear seat seat belt bolt holes (replace bolts with
+harness eye-bolts).  You can run them directly to your shoulders from
+there, but for a safer installation you want them pulling straight back,
+not down. Several places sell a bar that bolts between the stock front
+shoulder belt mounting bolt holes that is designed for a harness.  You
+can attach the harness directly to it, or to the rear belt mounts and
+run them over the bar.  The bar bolts in/out in a few minutes, or you
+can leave it in full time, and the stock belts will work fine with it
+in place - getting into the rear seat is tougher though.
+

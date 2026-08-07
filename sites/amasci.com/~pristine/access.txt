@@ -1,0 +1,289 @@
+Pure Mac: Accessibility - Software For Macintosh 
+
+ Accessibility 
+
+ ASL Fingerspelling 
+ Audio Interface 
+ Biggy-Light 
+ CloseView 
+ CrossScanner 
+
+ Dot to Dot 
+ Easy Access 
+ Fat Cursors 
+ Freedom 
+
+ HearIt 
+ iListen 
+ KeyStrokes 
+ Magnifier 
+ Mighty Mouse 
+
+ PlainTalk 
+ QuickVoice 
+ Screen Loupe 
+ SmartClick 
+ Speak Text CM 
+
+ SwitchHopper 
+ SwitchXS 
+ TypeIt4Me 
+ Via Voice 
+ VoiceCommander 
+
+ Apple - Accessibility 
+ Apple - Education - Accessibility 
+ Mac Shareware for People with Disabilities 
+ Speegle Reads Google Search Results
+
+ ASL Fingerspelling 1.0 
+
+The program consists of three main sections:
+ The ASL Fingerspelling Dictionary is simply a guide to the letters of the
+alphabet. If you are new to sign language, we recommend you start with this.
+ The Fingerspelling Converter will take your words and convert them into sign. 
+This is a quick and fun way to get a feel for the language.
+ The Fingerspelling Quiz is the heart of the program. The program will show you a
+word, and you have to type it in correctly to move on. Speed can be adjusted by
+the slider at the bottom of the window, making this an ideal program for
+beginners and experts alike. And with over 45000 words in the dictionary, we're
+sure you won't get bored too quickly.
+
+ License : Freeware
+ Author/Publisher : Scott Gaertner
+ Modification Date : July 20, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1043 Kb
+
+ Home Page 
+
+ Audio Interface 1.1 
+
+Audio Interface is a control panel which uses Apple's PlainTalk technology to speak the contents of menus and dialog boxes. By moving the mouse over menu items or dialog box items, you can have the name of that item read to you.
+I wrote Audio Interface with the hope that at least one user may have an easier time using the Mac. Although it's not targeted at totally blind users, many users with bad eyesight hopefully won't have to squint up to the screen every time a dialog box appears or a menu is pulled down. Of course, it can also be used for a little fun!
+
+ License : Freeware
+ Author/Publisher : Alex Metcalf
+ Modification Date : September 27, 1994
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 21 Kb
+
+ Parent Direcotry 
+
+ Biggy-Light 3.3 
+
+Welcome to the world's only BIG and animated cursor utility for Macintosh, complete with a bunch
+of other helpful cursor tools. Biggy-Light ($29) is a trimmed down version of our popular Biggy.
+The full Biggy ($99) has over 250 cursors, while Biggy-Light here has just a few (but they're good
+ones!).
+
+ License : Demo, $29
+ Author/Publisher : Dave Warker/RJ Cooper & Associates
+ Modification Date : December 7, 1998
+ Requirements : Mac OS 8.5
+
+ Direct Download
+ File Size: 299 Kb
+
+ Home Page 
+
+ CloseView 7.1 
+
+A utility included in every Macintosh, enables users to magnify screen contents up to 16 times. This
+utility allows for easier viewing by users who are visually impaired.
+
+ License : Freeware
+ Author/Publisher : Apple
+ Modification Date : September 24, 1993
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 23 Kb
+
+ Parent Direcotry 
+
+ Home Page 
+
+ Dot to Dot 0.8 
+
+Dot to Dot is a simple braille editor for the Macintosh. It is intended to be used by trained braille transcribers. It is freeware for
+anyone who works to help the blind and physically handicapped. Although Dot to Dot (version 0.8 and later) can drive a braille embosser connected directly to the Macintosh, I don't know if I have
+anticipated all the problems it might have with all embossers. Dot to Dot uses the same character set as the embossers that I'm familier with. I believe that all embossers use the same character
+mapping, but if yours is different, you will need a customized version of Dot to Dot.
+
+ License : Freeware
+ Author/Publisher : James Jennings
+ Modification Date : September 19, 1997
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 312 Kb
+
+ Easy Access 7.2 
+
+A control panel extension containing a set of keyboard utilities. These utilities assist people who
+might otherwise have difficulties using the keyboard or the mouse. Included as part of Easy Access are three main
+features. A fourth feature, Talking Alerts, is also included.
+
+ License : Freeware
+ Author/Publisher : Apple
+ Modification Date : February 16, 1995
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 10 Kb
+
+ Parent Direcotry 
+
+ Home Page 
+
+ Fat Cursors 1.2.2 
+
+Fat Cursors is a system extension/control panel that installs slightly larger Arrow and IBeam cursors.
+
+ License : Shareware, $10
+ Author/Publisher : Robert Abatecola
+ Modification Date : April 26, 1997
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 25 Kb
+
+ Parent Direcotry 
+
+ Freedom 
+
+A computer communication board. Freedom provides speech generation for
+people with any speech problem. It is particularly useful for
+neurological disorders. It uses mouse clicks and minimum mouse movement
+to let users type and select phrases to be spoken. You may also use the
+physical keyboard and mouse to do the same things if you want.
+
+ License : Shareware
+ Author/Publisher : R. W. Woodruff
+ Modification Date : June 3, 1996
+ Requirements : 680x0 or PPC - HyperCard Player
+
+ Direct Download
+ File Size: 61 Kb
+
+ Home Page 
+
+ HearIt 1.0d3 
+
+A control panel which will allow highlighted text to be read with a hot key.
+
+ License : Freeware
+ Author/Publisher : Apple Computer
+ Modification Date : June 29, 1993
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 17 Kb
+
+ KeyStrokes 2.0.2 
+
+KeyStrokes and KeyStrokes Extension were written specifically for those of us who are not (or no longer) able to use a
+normal keyboard. KeyStrokes provides a fully functional on-screen keyboard that you can use to type with the mouse
+anywhere you would use a normal (hardware) keyboard (applications, dialog boxes, etc.). It also allows you to
+shift/option/command/control click.
+
+ License : Shareware, $39
+ Author/Publisher : David Niemeijer
+ Modification Date : January 3, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 691 Kb - 68k version
+
+ Direct Download
+ File Size: 759 Kb - PPC version
+
+ Home Page 
+
+ PlainTalk 1.5.4 
+
+Text to speech and speech recognition.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : May 10, 1999
+ Requirements : Version 1.5.4 requires Mac OS 8.5 or 8.6
+
+ Direct Download 
+ File Size: 1741 Kb - English Speech Recognition - Mac OS 8.5 or 8.6 only - Version 1.5.4
+
+ Apple's Speech Directory
+
+ Home Page 
+
+ QuickVoice 1.19.0.1 
+
+Software for your Macintosh microphone including: digital voice
+recorder, voice email, voice stickies, and CD quality stereo recorder.
+
+ License : Shareware, $20
+ Author/Publisher : nFinity, Inc
+ Modification Date : October 28, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Direct Download 
+ File Size: 3.3 MB
+
+ Home Page 
+
+ Screen Loupe 
+
+Lupe is a utility that diplays a magnified view of whatever is underneath your mouse cursor.
+Choose from 1:2 to 1:8 magnification.
+Hit Command-C to copy the magnified snapshot to the clipboard.
+
+ License : Freeware
+ Author/Publisher : >Wolfgang Ante
+ Modification Date : April 6, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 19 Kb
+
+ Home Page 
+
+ Speak Text CM 1.1.1 
+
+Have you ever wanted your computer to read your e-mail to you? Have you noticed that reading a paper out
+loud helps to find mistakes? Speak Text CM will speak the selected text in any program. Speak Text
+CM is not an INIT, but is a Contextual Menu plugin, so it should not cause any conflicts.
+
+ License : Shareware, $5
+ Author/Publisher : Paul Westbrook
+ Modification Date : November 7, 1998
+ Requirements : PPC, Mac OS 8 or better
+
+ Direct Download
+ File Size: 86 Kb
+
+ Home Page 
+
+ TypeIt4Me 4.8.1 
+
+Anytime you enter text in your Mac by typing it at the keyboard, TypeIt4Me can help you do it
+faster and more accurately.
+First you define a number of abbreviations and the full text entries that they represent, then you
+watch the Mac expand them on the fly even as you continue typing!
+A must for IRC.
+
+ License : Shareware, $27
+ Author/Publisher : Riccardo Ettore
+ Modification Date : June 6, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 530 Kb
+
+ Home Page 
+
+ Back to the main page of Pure Mac

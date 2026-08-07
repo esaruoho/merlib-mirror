@@ -1,0 +1,39 @@
+Uncle Chuck's INSTANT BIORHYTHMS 
+
+ Uncle Chuck's INSTANT BIORHYTHMS 
+
+ To generate a biorhythm chart,
+enter the requested numeric data and click on ``GENERATE BIORHYTHM 
+CHART'' 
+
+Enter the date of birth (MM/DD/YYYY):
+
+Enter start date of biorhythm chart (MM/DD/YYYY):
+
+Select number of months to plot:
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+
+ Background Info & Credits <-- Go 
+To 
+
+ INTERESTED IN PUZZLES? 
+
+ Uncle Chuck's STEP-BY-STEP SOLUTIONS TO 379 SOKOBAN PUZZLES <-- Go 
+To 
+
+ Uncle Chuck's Home Page <-- Go 
+To 
+
+ Count of Visitors (Since January 13, 2001)

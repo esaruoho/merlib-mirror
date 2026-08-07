@@ -6,7 +6,7 @@ order: 340
 reachable_from_entry: true
 images: 2
 internal_links: 8
-extracted: 2026-08-03T18:11:48Z
+extracted: 2026-08-07T05:53:21Z
 extractor: site_to_paper.py (pandoc)
 ---
 
@@ -31,15 +31,15 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td><a href="http://amasci.com/">SCIENCE HOBBYIST</a>  |<br />
+<td><a href="/">SCIENCE HOBBYIST</a>  |<br />
 </td>
-<td><strong><a href="http://amasci.com/sc/kidproj1.html">PROJECTS</a>  |</strong><br />
+<td><strong><a href="/sc/kidproj1.html">PROJECTS</a>  |</strong><br />
 </td>
-<td><a href="http://amasci.com/unew.html">GOOD STUFF</a>  |<br />
+<td><a href="/unew.html">GOOD STUFF</a>  |<br />
 </td>
-<td><a href="http://amasci.com/news.html">NEW STUFF</a>  |<br />
+<td><a href="/news.html">NEW STUFF</a>  |<br />
 </td>
-<td><a href="http://amasci.com/search.html">SEARCH</a><br />
+<td><a href="/search.html">SEARCH</a><br />
 </td>
 </tr>
 </tbody>
@@ -103,8 +103,8 @@ Fill your mold with water and look through it. This gives you an idea of how the
 |:---:|-----|
 |     |     |
 
-<http://amasci.com/amateur/pris.html>\
-Created and maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/)\
+[/amateur/pris.html](/amateur/pris.html)\
+Created and maintained by [Bill Beaty](/billb.html). Mail me at: [<img src="/graphics/abc.gif" data-border="0" width="141" height="19" />](/amfrm/)\
 
 <div class="statcounter">
 

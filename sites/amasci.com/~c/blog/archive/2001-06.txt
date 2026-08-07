@@ -1,0 +1,937 @@
+C.M. Connelly: Blog: Archive for June, 2001 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ Blog: Archive for June, 2001 
+
+ June 1, 2001 (Fri) 
+
+ FreakyLinks !!! 
+
+ One of your last opportunities to catch an episode of FreakyLinks comes
+tonight at nine on Fox as they show the remaining few episodes. 
+
+ I know, I know, FreakyLinks is cheesy and lame, but I
+thought it improved dramatically. It has some nice underlying
+creepiness that hasn't been explained too thoroughly (cf., the whole
+UFO thing in The X-Files ), the people are cute and
+enthusiastic (if not that bright), and the show has real 
+computers. And, hey, compare it to The Lone Gunmen . I
+don't think there's any doubt which one's better. 
+
+ In other TV news, please continue to stay away from C.S.I.:
+Crime Scene Investigators . Although it has William Petersen,
+who was great in Manhunter (Michael Mann's take on Thomas
+Harris's Red Dragon &#8212;and let me just say that Brian
+Cox's Hannibal Lector kicks Anthony Hopkins' ass), and two veterans of
+ E.R. , including Carter's almost-girlfriend from several
+seasons ago, Maggie Doyle, it has some of the crappiest writing on
+television. I think the producers must have seen an episode of
+ Quincy, M.E. (the all-time champ), and maybe an episode
+of Snoops (another failed David E. Kelley show). They
+certainly don't seem to have watched Law & Order ,
+ Adam 12 , or even Barney Miller . Anyway,
+suffice it to say that the show is awful, and the previous episode was
+not a fluke. 
+
+ Some idiot (who happens to be an international graduate student) sent
+an &#8220;anonymous&#8221; message via Hotmail to an SFU mailing list
+complaining about these damn workers in Canada thinking they have a
+right to strike, and calling for them to all be fired so &#8220;poor,
+unemployed immigrants&#8221; could take their jobs. Now, yes, the bus
+strike has gone on far too long, but it's more due to the bus drivers
+refusing to allow their union to be broken up by management
+outsourcing their jobs one-by-one than anything else. The NDP
+government also had no apparent interest in solving the strike, and
+anyone who voted for the Liberals in hopes that they'd fix things was
+a fool. (Remember: in Canada, everything is upside down. The
+Liberals are a right -wing party.) 
+
+ Besides, it's pretty tough to be a &#8220;poor, unemployed immigrant&#8221; here
+unless you're fleeing oppression back home. Trust me, you don't get
+to immigrate to Canada unless you've got a job lined up or family that
+can support you already here, and even then Immigration Canada and
+HRDC might sandbag you. 
+
+ So M responded to the guy, quoting him and calling him by his real
+name. It's easy, kids: Hotmail records the IP address you connect
+with in every message. M traced the address to one of the SFU dialup
+lines. You can see who's logged on via the dialups, and what IP
+address is assigned to them, along with (here's the kicker!) what time
+they signed on. Since the guy had signed on at 9:30, and the message
+was sent at 10:00, and he was still on when she checked, it was pretty
+obvious who'd sent the mail. Various folks at SFU are amused and
+embarrassed today. 
+
+ My beloved TurboMouse 
+stopped moving the cursor down today. If I got it down to the bottom
+of the screen (with a second mouse), I could go up, but never down. 
+
+ In the end, I took it apart, and discovered a whole bunch of fuzz
+clinging to the little wheels. Best guess: there was a bit of fuzz
+that would be pushed away from the sensor when moving the mouse up,
+but that would be pulled in front of the sensor when trying to move
+down. 
+
+ There's very little to the guts of the trackball&#8212;a single circuit
+board with one big chip, a few resistors and other bits, and two
+wheel/sensor units&#8212;one for horizontal and one for vertical
+movement. While I had the thing apart, I cleaned it out, polished the
+wheels, and blew out any extra dust that might have been hiding. Put
+it back together, rebooted, and everything's fine. I love that
+trackball. 
+
+ Tomorrow is Hats
+Off Day in Burnaby Heights again! It's usually fun&#8212;a parade
+with kids, and cops on motorcycles doing tricks, SFU's famous bagpipe
+band, lots of places selling sausage sandwiches, plus salmon on a
+stick and much, much more! 
+
+ If you're nearby, and it isn't pouring with rain, come check it out! 
+
+ June 2, 2001 (Sat) 
+
+ Hats Off Day went pretty well, although it got off to a damp start.
+It rained quite hard during the beginning of the parade, causing the
+police (Seattle & Vancouver) motorcycle teams to totally wuss out,
+just driving down the street in formation. 
+
+ Soon after, though, the rain slackened, and the parade got underway.
+Lots of unusual groups of people, often not quite identifiable as
+signs seemed to be optional. By the time the parade ended and the
+crowds were released to throng the street, the rain had stopped and
+the sun started to come out. The salmon-on-a-stick from the Pear
+Tree was excellent as ever, and sausage sandwiches abounded. 
+
+ We walked about for a while, then headed home before hitting London
+Drugs for a partial refund on our camera, which we'd found for even
+less than we paid. In the end, the camera was &#8220;only&#8221; CN$810 (plus
+PST/GST), making it about as good a deal as we could have gotten from
+the States. 
+
+ One more story from Friday: We were getting ready to go out (we got
+our hair cut) when someone knocked on our door. It turned out to be a
+guy from UPS, with a package for M from HMC , with CN$35 owing for duty and
+brokerage fees. The duty was about CN$3&#8212;the rest went to UPS.
+Inside was a really nice sweatshirt and a card signed by the folks
+from the department. Clearly it was meant as a gift, but because they
+naively used UPS Ground, it ended up costing M about half what it
+probably cost to buy. The lesson here is to never, ever use UPS to
+send stuff to people in Canada from the States, or vice versa. And
+never be fool enough to order anything shipped by them. 
+
+ You see, UPS figured out that they could make a huge amount of money
+by charging for their customs brokerage services. FedEx doesn't do
+that. Canada Post and the U.S. Postal Service don't do that. But UPS
+does. You can avoid forcing your recipient to pay that charge by
+paying for UPS express delivery instead. If you look carefully at the
+numbers, you'll find that UPS express delivery costs just as much as
+UPS ground, except that the brokerage fee is added in. 
+
+ Even better, don't use UPS. Don't do business with people who only
+ship UPS. Explain, in exquisite detail, why UPS sucks, and why you
+won't do business with them. If they won't make an exception for you,
+shop elsewhere. 
+
+ This has been a message from the Hidden Postal Rates Awareness
+Committee. 
+
+ June 3, 2001 (Sun) 
+
+ More TV tips: ABC is showing Harriet the
+Spy tonight at 7:00 PM. I loved this book when I was a
+kid, and read it to death (it's one of the few books I had that
+literally fell apart). I have some hopes for the movie version&#8212;it
+stars Michelle
+Trachtenberg , who was wonderful as Dawn thoughout the just-ended
+season of Buffy . 
+
+ Also, on A&E, there's another Nero Wolfe
+mystery . I read lots of these when I was a kid, borrowing them
+from the library, and as far as I can tell, the show is very true to
+the source material. The shows look great, too, capturing the look,
+feel, and sound of the early fifties as I imagined it from the books.
+The acting is good, too&#8212; Timothy Hutton , who
+plays Archie Goodwin, is also a director and executive producer, so
+he's got an investment to protect. 
+
+ June 5, 2001 (Tue) 
+
+ There are some things that make me feel like I've completely wasted my
+life&#8212;missed an opportunity to really do something worthwhile and
+fulfilling. One of those things is watching a craftsman at work.
+Programs such as Modern Masters and Martha Stewart
+Living show people who do amazing things, and clearly love
+doing that work. 
+
+ I occasionally wonder whether I should try to find someone to
+apprentice myself to, or maybe just try to figure out how to do some
+obscure craft on my own, and give up on these bloody computers.
+But it will probably never happen. 
+
+ M is working on making Adobe Jenson
+MM work with TeX. Getting the basics was easy, but Jenson
+includes a bunch of old-fashioned ligatures (such as the ct, ft, and
+st ligatures), as well as those wonderful long-Ses you'll remember
+from reproductions of seventeenth and eighteenth century documents.
+
+ Anyway, looking for an example to use to determine what the rules were
+for the use of the long-Ses reminded me that we had Milton's
+ Aeropagitica (1644), from a company called Octavo . Octavo sells CD-ROM
+versions of various famous books, photographing them and turning the
+images into PDF, then adding the text beneath to make them searchable
+and quotable (via copy & paste). The Aeropagitica 
+CD-ROM was part of a package of premiums that Salon sent out when they were first
+starting, and first asked for people to &#8220;join&#8221;. (The others were a
+T-shirt, two bookmarks, and a small notebook.) 
+
+ Octavo also has some Shakespeare editions, along with Bodoni's
+ Manuale Tipografico , Copernicus's De Revolutionibus
+Orbium Coelestium , Gallileo's Sidereus Nuncius ,
+Palladio's I Quattro Libri dell'Architettura , Vesalius's
+ De Humani Corporis Fabrica , and many more. 
+
+ Fun work: 
+
+ Updated the teTeX manpages I wrote with some new
+ information about authorship 
+ Fixed the script that generates this blog so that it
+
+ Sets permissions properly (so that the annoying error
+ messages from Mason that some of you may have seen
+ earlier today should never happen again) 
+ Fixed the archive subroutine so that entries appear in
+ date order, rather than reverse date order 
+
+ I sent
+my mom a really cool birthday card from Rabbits of the Rainbow . I even sent it a week early. But she still hasn't gotten it.
+Canada Post truly sucks. 
+
+ June 6, 2001 (Wed) 
+
+ Lame
+teachers object to gel pens : 
+
+&#8220;Males were covering their fingernails with ink. Writing their rapper
+names on themselves. Girls were writing their best friends' names on
+their arms, writing which boys they like, which bands they like,&#8221;
+said Lynnette Moore, an eighth-grade math teacher.
+
+ As we all know, regular pens can't be used to do those things.
+Regular pens also don't leak. And they allow elementary school
+students to complete art projects with the brushwork of a Da Vinci or
+Rembrandt. Yeah.
+
+ Via Red Rock Eater mailing list . 
+
+ June 7, 2001 (Thu) 
+
+ M was convocated today! Complete with squashy hat and scarlet robe!
+Pictures to come (we filled a whole 128 MB Compact Flash card!),
+perhaps.... 
+
+ Saw the new iBook , at last.
+Pretty neat. Nice screen, okay keyboard (although it still has those
+huge keys&#8212;what's up with that?). Maybe a good bet down the road,
+but I'm still reading enough about teething pains on Macintouch to make me willing to
+wait. I'm also eager to hear about any changes in Apple's line up
+post-MacWorld before getting too wedded to any one plan. 
+
+ June 8, 2001 (Fri) 
+
+ Another creak of the wheel: Someone from the moving company will be
+coming next Wednesday to take a look at our apartment and give us (or
+HMC, anyway) an estimate on the costs to move us, as well as briefing
+us on the intricate bureaucratic rituals that must be performed to
+bless the passage of our goods into the United States. 
+
+ June 9, 2001 (Sat) 
+
+ Wow! Airships rise
+again ! See also the Slashdot
+article , and the official
+CargoLifter site . I love airships, but it seems like every few
+years we have a new company spring up and announce that airships will
+save the world, complete with documentaries explaining the history of
+airships, their promise, and how this time things will be
+different . Then you never hear about the company again. 
+
+ While delivering fully assembled fast-food restaurants to third world
+countries doesn't seem like a very noble use&#8212;&#8220;We're live! From the
+new Taco Bell at the epicenter of the most devastating earthquake to hit
+Mexico in recorded history!&#8221;&#8212;any reason to have airships floating
+around seems like a good one to me. They're too cool not to have, and if
+we want to keep pretending we're moving toward The Future, we need 'em. 
+(The Future according to 1930s speculative fiction, anyway.) 
+
+ Via Slashdot . 
+
+ I found this report on
+LED flashlights really interesting, and fun to read, as well. 
+
+ Also of some interest, perhaps, is this review of USB flash
+RAM devices . I've wondered about getting something like one of
+these devices to store various important information on&#8212;crypto
+keys, password lists, pictures of my sweetie, my r&eacute;sum&eacute;,
+and so forth. 
+
+ June 11, 2001 (Mon) 
+
+ Whoops. Cameron pointed to a
+funny essay on Jamie's site , and I
+ended up spending hours poking around reading other essays . 
+
+ Ikea seems to have a new site that
+challenges HP for slowness and general
+unusability. It's loaded with ASP pages that take forever to load and
+don't look quite right when they do. Given that I have DSL here, I
+don't think it should really take five minutes to load a page. 
+
+ Edmund Scientific's
+site is also crappy, but in a low-tech way. It wants you to make
+choices from a list of top-level categories, which are pretty general,
+then from a list of slightly less general categories, and so on.
+Which would be fine if I had the paper catalog and knew roughly what
+was in each category and subcategory, but it's really not conducive to
+browsing through their whole catalog online. 
+
+ Oh, yeah, and the categories are pretty obscure. For example, 
+
+Navigation : Other Navigational Tools&#8211;Sunglasses 
+Unique Lighting: Unique Lighting : LAVA Motion Lamp: Red Lava in Yellow Fluid
+
+ Yeesh. 
+
+ June 12, 2001 (Tue) 
+
+ As much as I despise Ziff-Davis, this
+essay , by Joshua Bauchner, does a good job of summarizing today's
+state of the art in copyright, and why it's wrong. 
+ Via the null device . 
+
+ M has pictures on her site of Hats
+Off Day (taken by her) and her
+convocation (mostly taken by me). 
+
+ Today we cashed in our vast number of Save-on-More points for a blender . It's apparently a
+Canada-only model, featuring a glass jug marked in ounces, cups, and
+litres and exciting French labels on the controls! 
+
+ We also spent much too long shifting piles of books around on a
+remainder table, coming up with a collection of wacky Dover books : 
+
+ The Psychology of Visual Illusion , J.O. Robinson 
+ Geometry,
+Relativity and the Fourth Dimension , Rudolf v. B. Rucker 
+ One
+Hundred Problems in Elementary Mathematics , Hugo Steinhaus 
+ Topology:
+An Introduction with Application to Topological Groups ,
+George McCarty 
+ The
+Art of Rigging , Captain George Biddlecombe 
+
+ That's US$45 worth of books for CN$10! 
+
+ (If you were wondering, they're all M's, primarily, except for
+ The Art of Rigging , which I just thought looked neat.
+(The next time I read a book about pirates, I can check to see if the
+author got his rigging right!)) 
+
+ Oh, yes, we also bought some food, including some vanilla ice cream so
+we could try out our new blender. (Combine with some milk and the
+bananas we bought last weekend and viola! &#8212;yummy banana
+milkshakes!) 
+
+ An additional food tip: Adding Rice Krispies to ice cream (especially
+Breyer's banana chocolate chunk ice cream) adds crunch and general
+pleasantness! 
+
+ June 13, 2001 (Wed) 
+
+ No one who knows me will be in the least surprised to know that I fall
+firmly into the &#8220;libertarian left&#8221; quarter of the Political Compass .
+
+ Via Virulent Memes 
+
+ Salon's Charles Taylor has a great
+rant starting from Marjorie Heins' Not in Front of the
+Children: &#8220;Indecency,&#8221; Censorship, and the Innocence of
+Youth . 
+
+ TidBITS has an interesting discussion about choosing
+between Apple's new iBook and PowerBook G4 (TiBook) . Mike Whybark
+and I agree on most things&#8212;while the TiBook looks slightly cooler
+(they're all the rage with some of the computing science faculty up at
+SFU), the iBook is a better deal, especially if you have a solid
+desktop system for real work, and just use the iBook for roaming/take
+home stuff. 
+
+ June 14, 2001 (Thu) 
+
+ Suddenly everything makes more sense: &#8220;Unhappy
+people `make the best workers&#8221;' . Still, I doubt my managers knew
+that then....
+
+ Via the null device . 
+
+ Hmm... 
+
+Residents and critics have long described the bombings as a health
+threat, but the Navy says its bombs are not dangerous, and that the
+range is vital for national security.
+
+ Naval bombs aren't dangerous? What about those nukes, then? Maybe
+they're safe, and the whole Cold War was a misunderstanding? Yeesh.
+
+ Via Rebecca's Pocket . 
+
+ June 15, 2001 (Fri) 
+
+ M laughingly read aloud from this Register
+article about a former Republican senator's wife, who foolishly
+believed she could use HotMail to slander her husband's opponent and
+get away with it. Too bad for her she was caught by the same method
+ M used to expose an anti-union
+poster recently. Also too bad for her that her messages violated a
+state election law (in Minnesota), and she'll be paying some
+pathetically tiny fines. 
+
+ Oh, and if tracing her via her IP address wasn't easy enough, some of
+her messages also included Microsoft Word attachments that included
+her name and the names of other staffers embedded in the document. 
+
+ Remember, kids: HotMail and Microsoft don't do anonymous! 
+
+ A track-by-track
+review of New Order's forthcoming album, Get Ready .
+I still love New Order&#8212;not only do the albums released when I was
+younger still speak to me, but the newer ones do, as well. I hope
+that's true for this one, too. 
+
+ I know some people who think that bands should just pack it in once
+they start to get old. But I think that&#8212;when things work out just
+right&#8212;having a band stick around can be a good thing. The people
+in the band change as they get older and experience life, and if their
+experiences mirror or complement yours, their music can affect you as
+much as it did when you were all young. It's great to be able to
+listen to a song that came out when you were a teenager, and remember
+what that was like, and then listen to a song that came out when you
+were thirty, and be able to feel like that song captures some of your
+feelings, hopes, and dreams at that time of your life.
+
+ Via the null device . 
+
+ &#8220;Three
+Myths of XML&#8221; addresses some of the bizarre hype surrounding XML,
+which is, after all, just a way of formatting data, not a miraculous
+cure for all that ails the world. 
+
+ Looking just at documents, I have to say that while I appreciate the
+idea of splitting content from appearance, in practice SGML and XML
+(via something like DocBook or DebianDoc) just don't cut the mustard.
+For electronic access, they're fine&#8212;browsers aren't typographically
+sophisticated enough to be able to display text that is particularly
+well formatted, and there's no real expectation of quality when using
+such a tool. When it comes to printing, though, people do expect that
+things will be done right, and the current method of transforming
+documents from SGML to paper misses the boat on all too many of those
+criteria. 
+
+ When you combine the poor rendering tools with the incredibly horrible
+or nonexistent authoring tools, you can see why I choose LaTeX when I
+need to create a document. I define lots of commands so that I can do
+some level of structural markup, but I also maintain tight control
+over the final appearance of the document. Maybe some day it will be
+possible to write a document in SGML or XML and get high-quality
+output without having to spend hours tinkering with some intermediate
+form (usually TeX or LaTeX code, at this point), but until that day
+comes, I think I'll stick with LaTeX.
+
+ Via CamWorld . 
+
+ Nature has
+commentary from lots of people about the debate surrounding electronic
+access to primary scientific literature , a topic I find very
+interesting, especially since I can see an interesting and rewarding
+job there for me. 
+
+ One of the arguments against the idea that I see repeatedly is the
+claim that peer-review will somehow go out the window without a
+professional publisher riding heard on an editorial board of volunteer
+academics. Why? How can anyone seriously believe that a group of
+experts can't coalesce on its own, or with a little help from one or
+two knowledgeable folks who can recruit volunteers directly or point
+out good candidates. 
+
+ I'm not convinced that any journals launched under this banner have to
+be free in the monetary sense, either. Simply charging
+ reasonable subscription fees (covering the costs of
+production) would be a dramatic enough change. Having electronic
+versions is important from the perspective of granting access and
+searchability, but paper is still likely to be easier to read and
+refer to than articles in electronic form for some time. 
+
+ My views are bound to be a bit skewed, since the work I'm most
+familiar with these days comes from people working in computer science
+and mathematics, probably the most computer- and web-savvy groups
+around. It's already the case that a huge amount of research is
+available on the Web though the personal websites of individual
+scientists, collections of &#8220;technical reports&#8221; at various
+institutions, and relatively inexpensive subscription services (e.g.,
+the ACM 's Digital Library ). Services such as
+ ResearchIndex provide
+indexes of these papers, and often include quick links to download the
+original PDF or PostScript document. 
+
+ There's no reason that scientists in other fields couldn't do the
+same. Without going so far as to exhort the magical possibilities of
+the Internet, it seems obvious to me that any significant improvement
+in access to information could lead to new cross-disciplinary
+discoveries or other advances. One scientist's curious result could
+be another's miraculous solution. Why not give it a try?
+
+ Via Slashdot . 
+
+ June 16, 2001 (Sat) 
+
+ M and I went for a walk to see if we could get a passport-style photo
+for her visa application and some bread for dinner. Since we were
+already out, and the sun was shining brightly, and there was a slight
+breeze so it wasn't that hot, we decided to walk down to the
+office supply superstores and see about getting some more photo paper
+for our inkjet printer. 
+
+ On the way, M expressed some doubts about leaving Vancouver. I countered
+by pointing out that however nice Vancouver is, there are still some awful
+things about it that we won't miss. She demanded examples, and I
+suggested (1) the drivers, (2) the Canadian government, and (3) the B.C.
+government. She pointed out that you could say much the same about
+California, and I agreed completely. We ended by deciding that anywhere
+you could go would have some positive things that made it better than
+anywhere else, and some negative things that were worse than anywhere
+else. The key is balance. 
+
+ On the way back home, we noticed some confusion at an intersection a
+couple of blocks away. As got closer, we could see that the
+intersection was blocked. Closer still, and we could tell it was an
+accident. Still closer, and, gosh! There was a minivan on its side,
+with a smaller minivan stopped in the middle of the intersection with
+its hood up and airbag deployed. 
+
+ We took pictures while speculating on the cause, which was, almost
+certainly, the following: Two roads intersected at right angles. One
+road was a through road, with no stop signs. The other road had stop
+signs. What had happened was that the overturned minivan had either
+run their stop sign (which is standard practice here) or had somehow
+missed the oncoming minivan and pulled out in front of it. There's a
+fair chance the minivan with the right of way was speeding, too, just
+so we're not being totally biased. 
+
+ The most amazing thing about this accident is that it's really the
+first one of its kind that we've seen. I'm guessing that there are
+lots more, but most people don't actually flip their vehicles, so can
+avoid calling the police. 
+
+ June 18, 2001 (Mon) 
+
+ A somewhat amusing review 
+of Ian Stewart's Flatterland , a followup to Edwin
+Abbott's classic Flatland . 
+
+&#8220;Don't worry.&#8221; The cube had returned. &#8220;We'll put him back again. Just
+decided to get a bit Lovecraft on his ass after all that business with
+the Kyoto accord, and the tax plan and everything. He seemed to lack
+...&#8221; The cube might've been chuckling. &#8220;Perspective.&#8221;
+
+ Exciting new versions of mminstance 
+and t1utils 
+will appear in Debian unstable within the next
+couple of days. The main change in mminstance is that it
+can now be compiled with newfangled compilers, such as gcc 
+3.0 , which was released today. The new t1utils 
+package fixes problems with calculating the CRC for the Mac font
+tools. 
+
+ It's computer cleanup time today, as well. I finally got around to
+figuring out why several of my function keys haven't worked since
+switching to XFree 4 (no keysyms). It also turns out that my
+machine's extreme sluggishness was being caused by a lack of swap
+space. Everything was fine until I upgraded to XFree 4, which grabs
+considerably more memory, a few months ago. Hmph. 
+
+ June 19, 2001 (Tue) 
+
+ Hmm. Adding more swap seemed to help, but not as much as I think we
+were hoping. Apparently it's too much to ask that you be able to edit
+files, work in terminal windows, and browse the web on a machine with
+a mere 80 MB of RAM with Linux these days. Color me unimpressed. 
+
+ On the bright side, my pen 
+has apparently come in at the Vancouver Pen Shop, so I can pick it up
+tomorrow while M is talking to the folks at the consulate. Wish her
+luck&#8212;we need something to work soon if we're ever going to get down
+to California in time for the start of the semester.... 
+
+ June 20, 2001 (Wed) 
+
+ What an exciting day! 
+
+ It all started when we were awakened by M's ancient but still
+functional Psion organizer at 6:25 AM. I had set the main alarm for
+6:00 PM. Whoops. 
+
+ Anyway, we struggled to consciousness, gulped down Instant Breakfast,
+and drove off for M's nine o'clock visa appointment. We parked in the
+nicest parkade in Vancouver (beneath BCIT&#8212;it has the most
+wonderfully friendly signage in Officina
+Sans ), and set off on foot to find the Consulate, which turned out
+to be in an ugly gold-glass office building complete with a Starbucks
+at the base. 
+
+ I couldn't go in, of course, so M got in line, and I wandered away to
+find something to amuse myself with for an indeterminate period of
+time. I ended up in a small park overlooking the Burrard Inlet, with
+a good view of the floating gas station, seaplanes landing and taking
+off, moored freighters and tugs, and docked luxury cruise ships.
+Along with a slice of Stanley Park and a glimpse of the sulfur piles. 
+
+ I ended up taking a bunch of photographs, including a panorama that
+features all of the above. I also took some individual photographs of
+various mountain peaks, a 'plane landing, and so forth. Then I
+wandered around some more, taking pictures of other random items that
+looked interesting enough to be worth the trouble. 
+
+ Despite what seemed like hours passing, only about forty-five minutes
+had gone by before I ended up near the Consulate again. I walked by a
+ Herman Miller store, and
+peeked in the windows. Finally I ended up back in the park between the
+consulate and the Herman Miller store, where I sat and waited. (I was
+hoping to get a shot of the empty concrete wasteland along with the
+&#8220;No Skateboarding&#8221; sign, but wasn't able to get an angle.) 
+
+ Suddenly, M appeared! She was done already, and had a sticker
+telling her to come back at three o'clock that afternoon to pick up
+her passport and visa. She told me about her experience (which
+sounded about par with our experience at the San Francisco Passport
+Agency Office (except with a lot more riding on it)), and we wandered
+down to the Vancouver Pen Shop, where I picked up my neat Rotring core
+pen, but discovered that my credit card had expired, when I'd never
+received a new one. Luckily I had M there, and she bailed me out. 
+
+ We headed down to Kimprints in Gastown , where we bought more Rabbits of the Rainbow cards (my mom wanted some). 
+
+ From there we went to London
+Drugs , where we inquired after the case for our Canon PowerShot S300 (they still don't have it), bought some water for much-needed
+rehydration, and played with a PowerMac G4 attached to a projector.
+Following a tip from the guy at the photo counter, we walked through
+the mall to check another photo store (which also didn't have the
+case); on the way we stopped in an IBM store to poke at various IBM
+desktops and ThinkPads. 
+
+ Then we walked to Granville Island , which
+seems close to downtown, but is actually quite a ways away. It took
+nearly half an hour just to walk across the bridge! 
+
+ We had lunch at the Public Market (turkey sandwich for me;
+sausage-on-a-bun for M), then checked out some of the shops. I saw a
+Bill Reid book in the window of Blackberry Books that screamed
+&#8220;Douglas & McIntyre&#8221;, especially with the note about it being
+edited and with an introduction by Robert Bringhurst: Solitary
+Raven: Selected Writings of Bill Reid . It turned out to be the
+only copy, and after having someone get it from the window so we could
+look at it, we ended up buying it. (Leaving aside its general
+coolness&#8212;various pieces Bill Reid wrote over the years, along with
+photographs of him and his work&#8212;at CN$40, it was considerably
+cheaper than the US$35 cover price.) 
+
+ After popping into Paper-Ya 
+(nothing exciting) and Mesa 
+(who no longer had the earrings I'd seen just before Christmas), we
+headed back to downtown. 
+
+ We picked up M's passport, complete with shiny new visa. I don't know
+what most places use for visas, but Canada's &#8220;immigration documents&#8221;
+seem to be letter-size sheets of elaborately decorated paper with
+information printed on them with a dot-matrix printer (based on the
+ones I've seen). The US, in contrast, puts a passport-sized,
+laser-printed sticker, complete with a scanned photograph of the
+holder, in the passport. Wild stuff. 
+
+ Once we had the passport, we were done, and headed back to the car and
+drove home to recover from the heat. 
+
+ M got in touch with the movers to let them know we would be moving
+sooner than later. I called Citibank to find out about my credit card&#8212;it had supposedly been &#8220;returned&#8221;. After some discussion, the
+woman I spoke to arranged to have a new card sent to me by UPS so I
+should have it by Friday. 
+
+ Meanwhile, M has been looking into the cost of airline tickets so we
+can fly down to Claremont and find someplace to live. In her search,
+she came across the Airline Ticket
+Consolidators and Bucket Shops FAQ , which may be of some interest
+the next time you're planning a trip. Among other things, this FAQ
+will tell you why Priceline is a bad risk, what the IATA is and why
+it's evil (and how the airlines get around the agreement), 
+
+ The IBM store I mentioned above had an 8
+MB IBM-branded &#8220;Memory Key&#8221; like the ones I mentioned a couple of days ago . It turns out
+that these devices are actually made by M-Systems , and are also available
+in 16 and 32 MB versions (only available from Dell ,
+however). I might get one of these once I have a machine with some
+USB ports. 
+
+ June 21, 2001 (Thu) 
+
+ Since I'm going to be flying soon, I thought I'd check into whether it
+would be safe to take my new fountain pen. The best source I found
+was the alt.collecting.pens-pencils 
+Fountain Pen FAQ . It seems it should be fine, especially if I put
+it in a ziplock bag and keep it nib up. 
+
+ Our packing material has arrived&#8212;there's tons of it!
+There are (no kidding): 
+
+ 5 wardrobe boxes (for hanging clothes) 
+ 10 6 cubic foot boxes (for quilts, pillows, and other lightweight
+stuff) 
+ 20 4 cubic foot boxes (for clothes and miscellaneous stuff) 
+ 50 2 cubic foot boxes (for books and other small, heavy stuff) 
+ 50 lbs. of 2' x 4' newsprint sheets 
+
+ And we live in a small one-bedroom apartment. And that's not counting
+my stuff in Seattle (mostly books, and a stereo, all of which is
+already packed up). Or my stuff in New York (which, regrettably,
+still won't be joining us). 
+
+ Broken down, the boxes take up about 72 cubic feet (4' x 6' x 3').
+Taped up, they should absorb most of the scant free space we have.
+Yikes! 
+
+ June 22, 2001 (Fri) 
+
+ Up at 8 AM (after going to bed at 2) because I'm waiting for UPS to
+show up with my new credit card. Yuck. 
+
+ Microsoft's most solid
+OS .
+
+ Via M, who saw a link on Red
+Hat 's Seawolf list. 
+
+ Various things have thrown our plan to fly down to California
+ soon into chaos. We're still not sure what we're doing. 
+
+ Graham , whose site doesn't
+work in the newest version of Netscape that runs on my machine (4.73),
+but which is generally worth the trouble of loading in Konqueror or
+Lynx, had a pointer to the results of a survey asking
+about the best flag in North America that was conducted by the
+North American Vexillological Association. New Mexico was the winner,
+and, after refreshing my extremely vague memory of what the flag
+looked like, I think it is coolly iconic in a way that most U.S. state
+flags aren't. It actually looks very corporate. 
+
+ My favorite state flag, however, remains Maryland's. I was happy to
+see that it made it to #4. I suspect that it didn't do better, in
+part, because it would be very hard for people to draw
+without help. Still, I think it's one of the most active flags&#8212;it
+has verve, energy, vim, vigor! 
+
+ I quite like British Columbia's flag, too, although more the sun than
+the Union Jack. The New York (where I grew up) and California (where
+I lived for several years and am moving back to) flags don't do much
+for me. 
+
+ Zannah pointed to The Slot: A Spot
+for Copy Editors . I sometimes think that editing two books was
+one of the worst things I ever could have done to myself. I've always
+been bothered by bad English, especially in print, but after
+concentrating on syntax and grammar and spelling for several months,
+I've become hypersensitive. I don't fly into a rage or anything, but
+I am constantly amazed and disappointed by the mistakes I see,
+especially when they come from people or places I admire. 
+
+ The errors that annoy me the most lately are various incorrect uses of
+the dreaded apostrophe. Now, messing up &#8220;its&#8221; and &#8220;it's&#8221; is
+pretty sad&#8212;I mean, hey, it's one little rule. But for some reason
+an awful lot of people in the Lower Mainland seem to believe that
+plurals are formed by adding &#8220; 's&#8221; to words. Even worse, some people
+seem to think that any word ending with an &#8220;S&#8221; should have an
+apostrophe. The very best (or worst?) example of this mistake was on
+a set of huge banners made for Save-on-Foods by Pepsi Canada,
+which stated that &#8220;Save-on-Foods Welcome's You&#8221;. I mean it.
+
+ Via /usr/bin/girl . 
+
+ Things are looking up! Yesterday's panic and depression have been
+replaced by mild elation, as we found a good deal on airfare on
+Tuesday. Looks like we'll be driving down to Seattle this weekend,
+catching the 'plane down to Ontario on Tuesday, looking around for a
+week (and, hopefully, signing a lease and maybe getting some other
+bureaucratic stuff out of the way), and flying back to Seattle the
+following Tuesday. We'll either fail utterly after rushing around for
+a week or find a place that's perfect on the first day and have to
+amuse ourselves in Greater L.A. for a week. I'd prefer the latter, of
+course! 
+
+ I am once again a member in good standing of our evil capitalist
+society. I have to say that my new card is pretty cool-looking&#8212;new
+&#8220;citi&#8221; logo, menacing Darth Vader color scheme, and all. 
+
+ Nick Petreley on Microsoft's
+amazing co-option of network computing .
+
+ Via CamWorld . 
+
+ I was, well, interested, but I think I'm too jaded to really have been
+horrified by this
+tale about a major mistake made by Coca-Cola, and their efforts to
+cover it up. Coca-Cola, it turns out, is the not friendly corporate
+giant they'd like you to think, but, among other things, a frequent
+collaborator with the CIA, a corrupter of lawyers, and, perhaps, a
+briber of judges. 
+
+ Also via CamWorld . 
+
+ An important meme to spread&#8212;the following code snippet will
+supposedly turn off Microsoft's &#8220;Smart Tags&#8221;, which can rewrite your
+Web pages to make selected words and phrases become links to sites
+they choose (or are paid to choose): 
+
+ <meta name="MSSmart TagsPreventParsing" content="TRUE"> 
+
+ Unlike Dave
+Winer , I don't have a violent objection to the annotation services
+that allow people to attach the electronic equivalent of Post-It Notes
+to other people's Web pages. The number of people who would actually
+go to the trouble of finding, downloading, installing, and configuring
+the necessary plugin is going to be pretty small, and, frankly, as
+long as there's a clear distinction between what I've written and what
+other people have written about what I've written, I'm okay with it.
+(I'm even willing to entertain discussions via e-mail, and, if I felt
+it was appropriate, I'd quote stuff on my pages or link back to other
+people's pages. Check out the C.R.E.W. for another
+approach.) 
+
+ But Smart Tags are clearly evil, for several reasons, including the
+fact that authors have no input into the links added; the option is
+likely to be turned on by default in Internet Explorer, which is
+unquestionably the market leader; the keywords and phrases that
+trigger the linking will, presumably, be sold to the highest bidder;
+and, last and least, it's Microsoft, and no one really trusts them not
+to do even worse things (tracking, maybe?) these days. 
+
+ From where I sit, the worst aspect is that the Smart Tags links are
+indistinguishable from the original author's links. Thus my reference
+to Post-It Notes here and above could become links to 3M's website,
+and a reader would have no idea whether I'd made those links or
+Microsoft had inserted them in the page. (Hint: They shouldn't be
+links; I couldn't be bothered to give a free commercial plug to a
+product that's pretty much ubiquitous.) 
+
+ The second worst aspect is that it's an opt-out system: in order to
+stop Microsoft from messing with your work, you have to add
+code to every single page on your site to tell the browser not to do
+its (black) magic. 
+
+ Beyond a token objection on the Microsoft-is-evil&#8482; front, I
+honestly think that I wouldn't have that much of a problem with
+Smart Tags provided that they made a very clear distinction between my
+links and Microsoft's links. Smart Tags would be even more acceptable
+if, instead of requiring people to opt-out, Microsoft required people
+who wanted their work messed with to add a tag that said,
+&#8220;Sure, go ahead and spatter ads throughout my page!&#8221;
+
+ Inspired by inessential.com . 
+
+ June 30, 2001 (Sat) 
+
+ We're still in Claremont. We've found a (smaller) one-bedroom
+apartment that's pretty close to campus, and are on the waiting list
+for a two-bedroom apartment in the same complex. 
+
+ The people in the department are really nice, and have taken us to
+dinner and lunch, driven us around town, and offered tons of advice. 
+
+ It's very hot here, but it doesn't seem nearly as bad as it has in
+Vancouver lately. 
+
+ Not that it's news to anyone, but Microsoft's &#8220;Natural&#8221;, Apple's
+first generation iMac/G3, and Sun keyboards all suck. The Apple
+Cinema Display, however, is quite nice, although a bit difficult to
+read after a while (at least with Mac OS X). 
+
+ newer entries | older entries 
+
+ Activity 
+
+ << 
+ June, 2001 
+ >> 
+
+ Mo 
+ Tu 
+ We 
+ Th 
+ Fr 
+ Sa 
+ Su 
+
+ 1 
+ 2 
+ 3 
+
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+
+ More Archives... 
+ May, 2003 
+ April, 2003 
+ March, 2003 
+ February, 2003 
+ January, 2003 
+ December, 2002 
+ more... 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 10:38 PM PDT, Monday, May 12, 2003; last rendered at 
+ 10:38 PM PDT, Monday, May 12, 2003 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

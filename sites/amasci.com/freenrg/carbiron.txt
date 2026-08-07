@@ -1,0 +1,232 @@
+Update 2001: using "spectrograph carbons" does not eliminate the magnetic
+grains.  Dan Y. found some pure carbons that analyze to a couple of ppm of
+silicon and manganese, but no iron.  Grinding up this carbon does not get
+you any magnetic grains, the carbon has to be arced at about 10 amps to
+produce magnetic detrius.  Could the magnetic grains be a paramagnetic
+compound of carbon, nitrogen, and/or oxygen?  Must repeat the experiment
+in a He or Ar atmosphere.  (To produce an arc, I jammed the carbons into
+slightly small holes drilled in brass blocks, then wired them in series
+with a 1200W 120V electric heater.)
+
+Update 1999: at a "Weird Science" meeting in Seattle, Frank S. attempted
+the "carbon rods" experiment in air.  We found that within the black
+debris created by the arc there were tiny dark grains which were slightly
+magnetic, and would leap to the face of a 1cm NIB disk magnet. Whatever is
+going on here does NOT require immersion in water. 
+
+A reference which I have not yet checked:
+  Sundaresan, R. and Bockris, J.  1994.  "Anomalous Reactions During
+  Arcing Between Carbon Rods In Water,"  FUSION TECHNOLOGY, Vol26 #3, 
+  Nov pp261-265
+
+
+============================================================================
+
+From: Eugene F. Mallove, Editor-in-Chief and Publisher
+INFINITE ENERGY Magazine
+Cold Fusion Technology
+P.O. Box 2816
+Concord, New Hampshire 03302-2816
+Phone: 603-228-4516;  Fax: 603-224-5975
+
+									
+This note concerns what I believe to be an extremely urgent scientific matter:
+Confirmation (or rejection) of carbon-arc-in-air transmutation to Fe claims.
+This parallels the *underwater* carbon arc papers of the Bockris group (Nov.
+1994 Fusion Technology), Ohsawa in the 1960s, and Singh et al (Nov. 1994 Fusion
+Technology), but is obviously a simpler test because it is in air. If it can be
+confirmed and then assessed as to reliability of the production of Fe, we have
+an astonishingly simple test that almost anyone could confirm for themselves --
+another great virtue.
+
+A description of the carbon-arc-in-air:
+
+>From The Philosopher's Stone: Michio Kushi's Guide to Alchemy, Transmutation,
+and the New Science,, One Peaceful World Press, 1994. I include all the
+non-biological protocols, but the one of interest here is METHOD 3 (the others
+may be of interest too):
+
+**************************************************
+Experiments
+
+Following is a brief outline of experiments conducted in Japan and France. Some
+of these experiments are physical transmutations and others are biological
+transmutations. These are only examples, and complete information will be-come
+available in the near future.
+
+1. The Transmutation from Na (Sodium) to K (Potassium).
+
+The applied formula: 11Na23 + 8016 >> 19K39
+
+   George Ohsawa and Masashiro Torii, Professor of the Musashino Institute of
+Technology, with several scientists, have achieved this transmutation of the
+atom from Na to K by the following method, first achieved on June 21, 1964.
+    In this experiment, one electric discharge vacuum tube with two poles was
+used. The length of the vacuum tube was 20 cm and the diameter 2 cm. Electric
+poles of several different metals were tested. The power of electricity used in
+this experiment was 60 watts. First, 2.3 mg of Na was inserted and sealed in the
+vacuum tube, and electricity was started running through the tube. About thirty
+minutes later, 1.6 mg of O was introduced, and a second later, Na changed into
+K.
+   This result was examined carefully by authoritative testing agencies, and the
+same experiments were performed repeatedly, yielding the same results.
+
+2. The Production of Fe (Iron) from C (Carbon) and O (Oxygen).
+
+The applied formula:
+
+2 6C12 + 2 8Ol6 >> (2 14Si28  28Ni56) >> 26Fe56
+  [Note: there is nomenclature apparently missing between the Si and the Ni.]
+
+George Ohsawa and his associates in Japan succeeded in their experiments with
+several methods to produce Fe from C and O. Later French scientists tested
+similar methods and confirmed the success of the transmutation. After creating
+the method to achieve the most efficient possible transmutation, they filed
+patents accordingly. The following examples show only a few methods to
+accomplish the transmutation from C and O to Fe.
+
+Method 1: Transmutation in Air (A):
+Two graphite crucibles (approximately 2.5 x 5 to 6 inches) cover each other top
+and bottom. The upper crucible has a 10 mm hole, surrounded by a ceramic ring.
+The ceramic ring acts as an insulator. Into this hole, a carbon rod (0.25 inches
+in diameter) is inserted until it reaches to the carbon powder (2 to 3 grams)
+placed at the inside bottom of the lower crucible. The lower crucible has one or
+two small holes at the lower part of its side wall for air circulation. An iron
+base placed under the lower crucible acts as one electrode pole. The carbon rod
+acts as another electrode pole. As the carbon rod approaches the carbon powder,
+an electric arc arises. Continuing the operation for 20 to 30 minutes, the
+carbon powder changes to Fe.
+    In this experiment, the applied electricity is about 35 to 50 volts, and 8
+to 18 amps, either A.C. or D.C.
+
+Method 2: Transmutation in Water:
+   Using two carbon rods (0.25 inches in diameter), create an electric arc
+between them, by striking them on one another in water. This operation is
+performed for 1 to 5 seconds. Then, brown-black metallic powder falls down to
+the bottom of the water, which contains Fe.
+
+The applied electricity is the same as in Method 1.
+
+Method 3: Transmutation in Air (B.):
+   Carbon powder is placed on a copper plate, approximately 12 inches long, 6
+inches wide, and 0.5 inches thick. This plate works as an electrical ground. A
+carbon rod (identical to the carbon rods used in Methods 1 and 2) used as
+another electrical pole, strikes repeatedly the carbon powder on the plate,
+producing an electric arc. The carbon powder changes into Fe.
+    The applied electricity is the same as in the above methods.
+
+   During the process of transmutation, Ni (nickel) is temporarily produced. But
+it disappears very soon, for it is an isotope with a radioactive nature. The
+life of an Ni isotope is considered approximately 1/lOOOth of a second.
+   In these experiments, the degree of transmutation from C and O to Fe is
+approximately 5 percent to 20 percent immediately, with a larger percentage of
+transmutation occurring gradually in the air, which has the effect of cooling
+the metal
+ lic powder to below room temperature. The Fe which is produced by this
+transmutation is stainless. It does not rust easily. It has also much less
+reaction to heat than ordinary iron, due to its composition of 2 Si (silicon) as
+the formula indicates. This iron was name G.O.S. (George Ohsawa Steel), given
+the initials of George Ohsawa by the scientists who worked with this
+transmutation.
+   All results of the transmutation of Fe have been carefully examined and
+analyzed by several methods including: magnetic inspection, spectroscopic
+analysis, chemical analysis, and examination by reagent, confirmed by
+authoritative testing agencies.
+
+
+The various researchers who worked on the above (and the biological
+trasnsmutations:)
+
+George Ohsawa-Philosopher, writer, honorary professor at Nippon University,
+honorary citizen of Paris, founder and president of Institut des Hautes Etudes
+Dialectiques et Scientifiques, Tokyo.
+
+Masashiro Torii-Doctor of chemistry, professor at Musashino Institute of
+Technology, Tokyo.
+
+Shizuko Washio-Doctor of biology, professor at Atomi University, Tokyo.
+
+Sanehide Komaki-Doctor of agriculture, professor at Mukogawa University, Kyoto.
+
+Chikao Narita-Doctor of medicine, president of Tokyo Shibaura Hospital, Tokyo.
+
+Yuzuru Sasaki-Research member of Institute des Hautes Etudes Dialectiques et
+Scientifiques, Tokyo.
+
+Noburu Yamamoto-Research member of Institut des Hautes Etudes Dialectiques et
+Scientifiques, Tokyo.
+
+
+****************************************
+
+The second  source of a carbon arc in air experiment is from ICCF6: 
+
+Kenjin Sasaki from Tokyo, an agronomy consultant from Tokyo distributed a very
+interesting protocol which is like METHOD #3. He gave me photos of the process
+and the results, which would seem possible for any high-school group to verify.
+I will be publishing these photos and protocols in Infinite Energy #10, asking
+readers to try it.  In the inimitable "Japanese English" - only slightly fixed,
+Sasaki's instructions:
+
+**************
+
+1. Ready for Job
+
+2. Tool	Graphite crucible (four nines purity)
+		Carbon rod
+		Copper plate (for cooling)
+		Tray for water cooling
+		Electric welder (100 V, 10 A)
+		  or Auto Battery and clip leads
+
+3.  Materials	Carbon powder (high purity)
+			Cooling water
+
+4. Order of Experiment
+
+A Put 2 to 3 grams of carbon powder in graphite crucible
+
+B Strike electric discharge arc with the electrode, about 1 minute, done about 3
+to 4 times only (i.e. no more than four times) -- [implies pausing between
+1-minute arcs]
+
+5. Inspection
+
+A. Spread remaining carbon powder on paper
+
+B.  Slide magnet under that paper. You can see locus of the magnet -- it shows
+the iron bits [!!!! - my comment, EFM]
+
+C. Take these [magnetically separated] materials and examine with a magnifying
+glass. You will find [among them] a brilliant alloy [!!!!, yes, I have photos of
+this alloy! - my comment, EFM]
+
+6. Reappearance
+
+This experiment is very easy for young student, literary person, bank man,
+woman, etc.
+
+Kenjin Sasaki
+942 Hikida, Akiruno-City
+Tokyo 197, Japan
+Phone:	 81-425-59-5371
+fax: 	81-425-59-4927
+
+**********************************
+
+If I have the time in the next few weeks and wherewithal, I would like to try
+this myself, but I will likely not have the time. I am told by Chris Akbar in
+Boston (with the Kushi Foundation) that she has tried the experiment and it
+worked for her. She said it is important to keep the amperage between 8 and 10
+amps.  She used an automobile battery charger.
+
+I do not think it is really necessary to have a static tray of cooling water
+under a graphite plate or crucible. I imagine that doing the experiment on a
+thick graphite plate would work as well.
+
+
+								Best wishes,
+
+								Gene Mallove
+
+

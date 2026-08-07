@@ -1,0 +1,386 @@
+Pull 15 -- Rideau Lakes Weight Pull 
+ Rideau Lakes Weight Pull 
+Newboro, Ontario, Canada 
+
+ Pull: 15 
+ Organizer(s): Steve Jackson 
+ Wheels Region: 5 
+
+ Natural 
+ Track: Hard Packed Sand. 
+ Date: 9/27/98 
+
+ Weather: 
+ Partly sunny, windy, 72F (22C) 
+
+ 60 # Class 
+ Dog 
+ Reg 
+ Pulled 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler 
+ Breed 
+ Dink 
+ 5 
+ 1400 
+ 8.37 
+ 55 
+ 25.45 
+ 18.0 
+ Ron Poitras 
+ Am. PitBull Terrier 
+
+ Dooley 
+ 5 
+ 1300 
+ 10.46 
+ 52 
+ 25.00 
+ 15.0 
+ Phillip Cody 
+ Catahoula Lepard 
+
+ Zorro 
+ 5 
+ 1200 
+ 8.63 
+ 55 
+ 21.82 
+ 12.0 
+ Steve Jackson 
+ Siberian Husky 
+
+ Star 
+ 6 
+ 1200 
+ 27.18 
+ 56 
+ 21.43 
+ 10.0 
+ Larry Brillhart 
+ Alaskan Husky 
+
+ Jake 
+ 5 
+ 1100 
+ 13.16 
+ 56 
+ 19.64 
+ 9.0 
+ Steve Jackson 
+ Siberian Husky 
+
+ Levi 
+ 5 
+ 1000 
+ 19.90 
+ 52 
+ 19.23 
+ 8.0 
+ Sandra Stoner 
+ Siberian Husky 
+
+ Cody 
+ 5 
+ 900 
+ 7.15 
+ 56 
+ 16.07 
+ 7.0 
+ Sandra Stoner 
+ Siberian Husky 
+
+ Sasha 
+ 5 
+ 900 
+ 40.35 
+ 44 
+ 20.45 
+ 6.0 
+ Melissa Swoyer 
+ Siberian Husky 
+
+ Tundra 
+ 5 
+ 800 
+ 19.16 
+ 53 
+ 15.09 
+ 5.0 
+ Daniel Plosila 
+ Samoyed 
+
+ Owl 
+ 5 
+ 700 
+ 15.15 
+ 42 
+ 16.67 
+ 4.0 
+ Daniel Plosila 
+ Samoyed 
+
+ Timber 
+ 5 
+ 600 
+ 6.60 
+ 52 
+ 11.54 
+ 3.0 
+ Melissa Swoyer 
+ Alaskan Husky 
+
+ Renee 
+ 5 
+ 500 
+ 8.06 
+ 44 
+ 11.36 
+ 2.0 
+ Diane Geitzenauer 
+ Samoyed 
+
+ Kiana 
+ 5 
+ 300 
+ 5.65 
+ 44 
+ 6.82 
+ 1.0 
+ Diane Geitzenauer 
+ Samoyed 
+
+ Nina 
+ 5 
+ 300 
+ 47.33 
+ 50 
+ 6.00 
+ 0.5 
+ Belva Plosila 
+ Samoyed 
+
+ 80 # Class 
+ Dog 
+ Reg 
+ Pulled 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler 
+ Breed 
+ Maxine 
+ 5 
+ 1300 
+ 8.92 
+ 74 
+ 17.57 
+ 10.0 
+ Robert Viereck 
+ Blackmouth Cur 
+
+ CJ 
+ 5 
+ 1300 
+ 27.37 
+ 62 
+ 20.97 
+ 7.0 
+ Phillip Cody 
+ Catahoula Lepard 
+
+ K. C. 
+ 5 
+ 1200 
+ 38.09 
+ 72 
+ 16.67 
+ 4.0 
+ Steve Jackson 
+ Mixed 
+
+ Speckles 
+ 5 
+ 900 
+ 7.76 
+ 62 
+ 14.52 
+ 2.0 
+ Steve Jackson 
+ Alaskan Malamute 
+
+ Troika 
+ 5 
+ 900 
+ 27.25 
+ 63 
+ 14.29 
+ 1.0 
+ Diane Geitzenauer 
+ Samoyed 
+
+ Magnus 
+ 5 
+ 500 
+ 38.92 
+ 71 
+ 7.04 
+ 0.5 
+ Daniel Plosila 
+ Samoyed 
+
+ 100 # Class 
+ Dog 
+ Reg 
+ Pulled 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler 
+ Breed 
+ Dakota 
+ 5 
+ 1300 
+ 35.37 
+ 90 
+ 14.44 
+ 6.0 
+ Karen Levesque 
+ Alaskan Malamute 
+
+ Klondike 
+ 5 
+ 500 
+ 5.03 
+ 93 
+ 5.38 
+ 3.0 
+ Ralph Swoyer 
+ Rott./Mal. Mix 
+
+ 120 # Class 
+ Dog 
+ Reg 
+ Pulled 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler 
+ Breed 
+ Ox 
+ 5 
+ 2600 
+ 11.20 
+ 106 
+ 24.53 
+ 11.0 
+ Ron Poitras 
+ Am. Bull Dog 
+
+ Digger 
+ 5 
+ 2500 
+ 9.59 
+ 106 
+ 23.58 
+ 8.0 
+ Edward Demers 
+ Swiss Mountain Dog 
+
+ Brutus 
+ 5 
+ 2100 
+ 11.39 
+ 107 
+ 19.63 
+ 5.0 
+ Melissa Swoyer 
+ Alaskan Malamute 
+
+ Sarg 
+ 6 
+ 2000 
+ 12.91 
+ 102 
+ 19.61 
+ 3.0 
+ Larry Brillhart 
+ Alaskan Malamute 
+
+ Bull 
+ 5 
+ 1700 
+ 12.58 
+ 112 
+ 15.18 
+ 2.0 
+ Jennifer Demers 
+ Gr. Swiss Mtn. Dog 
+
+ Brownie 
+ 5 
+ 1600 
+ 12.03 
+ 108 
+ 14.81 
+ 1.0 
+ Ralph Swoyer 
+ Alaskan Malamute 
+
+ Montana 
+ 5 
+ 700 
+ 9.99 
+ 110 
+ 6.36 
+ 0.5 
+ Ralph Swoyer 
+ Alaskan Malamute 
+
+ Unlimited Class 
+ Dog 
+ Reg 
+ Pulled 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler 
+ Breed 
+ Goldie 
+ 5 
+ 1600 
+ 10.45 
+ 125 
+ 12.80 
+ 6.0 
+ Melissa Swoyer 
+ Alaskan Malamute 
+
+ Blazer 
+ 5 
+ 1500 
+ 9.78 
+ 126 
+ 11.90 
+ 3.0 
+ Steve Jackson 
+ Alaskan Malamute 
+
+ Last Updated: 17:00:40 on 12-14-1998 
+
+ Pull Index 
+ Previous Pull # 
+ Next Pull # 
+ IWPA Home Page 
+
+ Standings ==> 
+ Wheels 
+ Snow 
+ Upcoming Pulls

@@ -1,0 +1,414 @@
+Pull 81 -- Pack Forest -- Day 2 
+ Pack Forest -- Day 2 
+Warrensburg, New York 
+
+ Pull: 81 
+ Organizer(s): Steve Jackson 
+ Snow Region: 5 
+
+ Packed Snow 
+ Track: Hard Packed Snow 
+ Date: 2/18/2001 
+
+ Weather: 
+ Cold 
+
+ 35 # Class 
+ Dog 
+ Reg 
+ Pulled 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler 
+ Breed 
+ Tucker 
+ 5 
+ 200 
+ 15.55 
+ 32 
+ 6.25 
+ 5.0 
+ Douglas Marrero 
+ Mixed 
+
+ 60 # Class 
+ Dog 
+ Reg 
+ Pulled 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler 
+ Breed 
+ Majic 
+ 6 
+ 850 
+ 7.72 
+ 52 
+ 16.35 
+ 22.0 
+ Toni Yoakam 
+ Siberian Husky 
+
+ Missy 
+ 5 
+ 850 
+ 63.15 
+ 60 
+ 14.17 
+ 19.0 
+ Edward Higgins 
+ Alaskan Husky 
+
+ Starbuck 
+ 5 
+ 600 
+ 6.09 
+ 52 
+ 11.54 
+ 16.0 
+ Steve Jackson 
+ Alaskan Husky 
+
+ Czar Nicholas 
+ 5 
+ 600 
+ 7.53 
+ 54 
+ 11.11 
+ 14.0 
+ Mary Anne Allen 
+ Samoyed 
+
+ Kindr 
+ 5 
+ 550 
+ 7.63 
+ 54 
+ 10.19 
+ 13.0 
+ Debi Pruznick 
+ Samoyed 
+
+ Zorro 
+ 5 
+ 500 
+ 15.33 
+ 54 
+ 9.26 
+ 12.0 
+ Steve Jackson 
+ Siberian Husky 
+
+ Jake 
+ 5 
+ 450 
+ 7.54 
+ 56 
+ 8.04 
+ 11.0 
+ Wendy Leister 
+ Siberian Husky 
+
+ Prince 
+ 5 
+ 450 
+ 8.14 
+ 58 
+ 7.76 
+ 10.0 
+ Douglas Marrero 
+ Siberian Husky 
+
+ Bailey 
+ 6 
+ 400 
+ 8.50 
+ 44 
+ 9.09 
+ 9.0 
+ Brandon Lutz 
+ Siberian Husky 
+
+ Saint 
+ 5 
+ 400 
+ 26.16 
+ 58 
+ 6.90 
+ 8.0 
+ Douglas Marrero 
+ Siberian Husky 
+
+ Tundra 
+ 5 
+ 350 
+ 6.45 
+ 53 
+ 6.60 
+ 7.0 
+ Daniel Plosila 
+ Samoyed 
+
+ Owl 
+ 5 
+ 300 
+ 18.50 
+ 44 
+ 6.82 
+ 6.0 
+ Belva Plosila 
+ Samoyed 
+
+ Tyson 
+ 6 
+ 300 
+ 27.41 
+ 38 
+ 7.89 
+ 5.0 
+ Brandon Lutz 
+ Siberian Husky 
+
+ Spot 
+ 5 
+ 250 
+ 3.01 
+ 60 
+ 4.17 
+ 4.0 
+ Edward Higgins 
+ Alaskan Husky 
+
+ Willo 
+ 6 
+ 200 
+ 35.74 
+ 50 
+ 4.00 
+ 3.0 
+ Toni Yoakam 
+ Siberian Husky 
+
+ Chevy 
+ 5 
+ 200 
+ 36.88 
+ 54 
+ 3.70 
+ 2.0 
+ Regina Caldwell 
+ Siberian Husky 
+
+ Shiloh 
+ 6 
+ No Pull 
+ 50 
+ . 
+ 0.0 
+ Paul Lutz 
+ Siberian Husky 
+
+ King 
+ 6 
+ No Pull 
+ 52 
+ . 
+ 0.0 
+ Paul Lutz 
+ Siberian Husky 
+
+ 80 # Class 
+ Dog 
+ Reg 
+ Pulled 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler 
+ Breed 
+ Loki 
+ 5 
+ 1000 
+ 15.69 
+ 79 
+ 12.66 
+ 13.0 
+ Melanie Morehouse 
+ Malamute mix 
+
+ Maxine 
+ 5 
+ 1000 
+ 16.48 
+ 69 
+ 14.49 
+ 10.0 
+ Robert Viereck 
+ Blackmouth Cur 
+
+ Chief 
+ 5 
+ 800 
+ 64.66 
+ 62 
+ 12.90 
+ 7.0 
+ Edward Higgins 
+ Alaskan Husky 
+
+ Yuengling 
+ 5 
+ 600 
+ 5.65 
+ 72 
+ 8.33 
+ 5.0 
+ Steve Jackson 
+ German Shepherd 
+
+ Tipsy 
+ 5 
+ 600 
+ 7.57 
+ 75 
+ 8.00 
+ 4.0 
+ John Moses Martin 
+ Alaskan Malamute 
+
+ Laika 
+ 5 
+ 500 
+ 6.02 
+ 68 
+ 7.35 
+ 3.0 
+ Regina Caldwell 
+ Alaskan Malamute 
+
+ Teddy 
+ 5 
+ 500 
+ 7.59 
+ 74 
+ 6.76 
+ 2.0 
+ Douglas Marrero 
+ Siberian Husky 
+
+ Tasha 
+ 5 
+ 500 
+ 8.87 
+ 62 
+ 8.06 
+ 1.0 
+ John Moses Martin 
+ Alaskan Malamute 
+
+ Toby 
+ 5 
+ 500 
+ 24.27 
+ 63 
+ 7.94 
+ 0.5 
+ Douglas Marrero 
+ Siberian Husky 
+
+ 100 # Class 
+ Dog 
+ Reg 
+ Pulled 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler 
+ Breed 
+ Xena 
+ 5 
+ 800 
+ 5.42 
+ 93 
+ 8.60 
+ 9.0 
+ Joan Lincoln 
+ Rottweiler 
+
+ Balder 
+ 5 
+ 700 
+ 19.67 
+ 90 
+ 7.78 
+ 6.0 
+ Fabiann Conlan 
+ Alaskan Malamute 
+
+ Ice 
+ 5 
+ 500 
+ 7.06 
+ 88 
+ 5.68 
+ 3.0 
+ John Moses Martin 
+ Alaskan Malamute 
+
+ Broc 
+ 5 
+ 500 
+ 7.81 
+ 81 
+ 6.17 
+ 1.0 
+ John Moses Martin 
+ Alaskan Malamute 
+
+ Takoma 
+ 5 
+ 400 
+ 3.95 
+ 88 
+ 4.55 
+ 0.5 
+ Frank Caldwell 
+ Alaskan Malamute 
+
+ 120 # Class 
+ Dog 
+ Reg 
+ Pulled 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler 
+ Breed 
+ Fiacc 
+ 5 
+ 700 
+ 11.73 
+ 104 
+ 6.73 
+ 5.0 
+ Regina Caldwell 
+ Alaskan Malamute 
+
+ Last Updated: 09:07:47 on 03-08-2001 
+
+ Pull Index 
+ Previous Pull # 
+ Next Pull # 
+ IWPA Home Page 
+
+ Standings ==> 
+ Wheels 
+ Snow 
+ Upcoming Pulls

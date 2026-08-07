@@ -1,0 +1,750 @@
+---
+title: "Pull 35 -- 3rd Annual Lake Placid IWPA Weight Pull -- Day 1"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0203/Pull35.html
+order: 7427
+reachable_from_entry: false
+images: 0
+internal_links: 3
+extracted: 2026-08-07T06:00:03Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 35 -- 3rd Annual Lake Placid IWPA Weight Pull -- Day 1
+
+*Source page: `~samoyed/iwpa/0203/Pull35.html`*
+
+3rd Annual Lake Placid IWPA Weight Pull\
+Lake Placid, New York (n Elba Show Grounds)
+===========================================
+
+Pull: 35
+
+Organizer(s):Daniel Plosila
+
+Wheels on Soil Region: 5
+
+Track:
+
+Packed rock dust/soil. Natural surface became softer as event and rain progressed throughout the day.
+
+Date: Sat 26 Oct 2002
+
+Weather:
+
+Cold rain and starting temperatures in the mid-thirties.
+
+Day 1 of 2
+
+Outstanding disposition of the competitors despite rain and cold weather conditions.
+
+<div align="center">
+
+<table data-border="1" data-cellpadding="2" data-bordercolorlight="#0000FF" data-cellspacing="1" data-bordercolordark="FF0000">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2">Color<br />
+Codes</td>
+<td><em><strong>%</strong></em> -- Working Dog (WD) Leg Eligibility</td>
+<td data-bgcolor="#FFFF00">WD</td>
+<td data-bgcolor="#00FFFF">WD Excellent</td>
+<td data-bgcolor="#00FF00">WD Superior</td>
+</tr>
+<tr>
+<td><strong><em>Handler</em></strong> -- Owner / Handler relationship</td>
+<td><p>Owner</p></td>
+<td data-bgcolor="#FFFF00">Family Member</td>
+<td data-bgcolor="#00FFFF">Other Membership</td>
+</tr>
+</tbody>
+</table>
+
+Chief Judge: Steve Jackson
+
+</div>
+
+40 \# Class\
+Judged by Steve Jackson\
+190 \# Start weight, 40 \# Increment, Cart weighs 70 \#\
+Shifted to 200# cart, as pull passed 400# total
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Orphan Abby
+
+6
+
+840
+
+8.43
+
+40
+
+21.00
+
+5.0
+
+Diane Krupski
+
+Free Box Dog
+
+60 \# Class\
+Judged by Stephen Palinkas\
+280 \# Start weight, 80 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Starbuck
+
+5
+
+1280
+
+10.92
+
+56
+
+22.86
+
+12.0
+
+Steve Jackson
+
+Alaskan Husky
+
+Kirby
+
+6
+
+1200
+
+29.61
+
+60
+
+20.00
+
+9.0
+
+Shirley Webber
+
+Sharpi mix
+
+Czar Nicholas
+
+5
+
+1080
+
+11.05
+
+58
+
+18.62
+
+6.0
+
+Mary Anne Allen
+
+Samoyed
+
+Jake
+
+5
+
+920
+
+13.29
+
+52
+
+17.69
+
+4.0
+
+Wendy Leister
+
+Siberian Husky
+
+Bulldozer
+
+6
+
+840
+
+8.93
+
+58
+
+14.48
+
+3.0
+
+Donna Libbey
+
+Australian Cattle Dog
+
+Zeus
+
+5
+
+760
+
+26.71
+
+54
+
+14.07
+
+2.0
+
+Beverly Detwiler
+
+Samoyed
+
+Sassy Sandy
+
+6
+
+600
+
+54.93
+
+54
+
+11.11
+
+1.0
+
+Donna Libbey
+
+Dalmation - Airdale
+
+Tundra
+
+5
+
+520
+
+9.82
+
+54
+
+9.63
+
+0.5
+
+Daniel Plosila
+
+Samoyed
+
+80 \# Class\
+Judged by Steve Jackson\
+200 \# Start weight, 120 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Babe
+
+5
+
+1640
+
+12.05
+
+74
+
+22.16
+
+9.0
+
+Ron Poitras
+
+Am. Bull Dog
+
+Olive
+
+6
+
+1640
+
+22.81
+
+79
+
+20.76
+
+6.0
+
+Shirley Webber
+
+Mastiff/Lab mix
+
+Sadie
+
+5
+
+1520
+
+18.08
+
+70
+
+21.71
+
+3.0
+
+Ronn Kurt Poitras
+
+Alaskan Malamute
+
+Loki
+
+5
+
+1160
+
+30.33
+
+72
+
+16.11
+
+1.0
+
+Melanie Morehouse
+
+Alaskan mix
+
+Nova
+
+5
+
+680
+
+29.81
+
+61
+
+11.15
+
+0.5
+
+John Figart
+
+Siberian Husky
+
+100 \# Class\
+Judged by Daniel Plosila\
+320 \# Start weight, 120 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Thor
+
+5
+
+1640
+
+13.00
+
+90
+
+18.22
+
+13.0
+
+Ron Poitras
+
+Am. Bull Dog
+
+Haley
+
+6
+
+1400
+
+8.95
+
+92
+
+15.22
+
+10.0
+
+Diane Krupski
+
+Mastiff Mix
+
+Pappy
+
+6
+
+1280
+
+6.50
+
+86
+
+14.88
+
+7.0
+
+Donna Libbey
+
+Mastiff Mix
+
+Yuengling
+
+5
+
+1280
+
+8.33
+
+82
+
+15.61
+
+5.0
+
+Steve Jackson
+
+German Shepherd
+
+Nanuk
+
+5
+
+920
+
+6.89
+
+82
+
+11.22
+
+4.0
+
+Stephen Palinkas
+
+Alaskan Malamute
+
+Zephyrus
+
+5
+
+920
+
+10.89
+
+83
+
+11.08
+
+3.0
+
+Melanie Morehouse
+
+Husky/Malamute Mix
+
+Balder
+
+5
+
+800
+
+23.50
+
+88
+
+9.09
+
+2.0
+
+Melanie Morehouse\
+Fabiann Conlan
+
+Alaskan Malamute
+
+Smore
+
+5
+
+440
+
+4.00
+
+94
+
+4.68
+
+1.0
+
+Robert Wilson
+
+Saint Bernard
+
+Baby
+
+5
+
+440
+
+4.10
+
+97
+
+4.54
+
+0.5
+
+Robert Wilson
+
+Saint Bernard
+
+125 \# Class\
+Judged by Daniel Plosila\
+200 \# Start weight, 160 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Baloo
+
+5
+
+840
+
+37.69
+
+114
+
+7.37
+
+6.0
+
+Stephen Palinkas
+
+Alaskan Malamute
+
+Snickers
+
+6
+
+520
+
+3.29
+
+110
+
+4.73
+
+3.0
+
+Donna Libbey
+
+Mastiff/Bernard
+
+150 \# Class\
+Judged by Daniel Plosila\
+360 \# Start weight, 160 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Grizzly
+
+5
+
+1320
+
+11.23
+
+130
+
+10.15
+
+6.0
+
+Robert Wilson
+
+Saint Bernard
+
+Coby
+
+5
+
+680
+
+4.15
+
+135
+
+5.04
+
+3.0
+
+Shane Cody
+
+Saint Bernard
+
+Unlimited Class\
+Judged by Daniel Plosila\
+200 \# Start weight, 160 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Herman Munster
+
+5
+
+No Pull /200
+
+158
+
+.
+
+0.0
+
+Matt Libbey
+
+Mastiff
+
+Last Updated: 16:45:07 on 11-19-2002
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](../pulllist.htm) | [Previous Pull \#](Pull34.html) | [Next Pull \#](Pull36.html) | [IWPA Home Page](../index.html) |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

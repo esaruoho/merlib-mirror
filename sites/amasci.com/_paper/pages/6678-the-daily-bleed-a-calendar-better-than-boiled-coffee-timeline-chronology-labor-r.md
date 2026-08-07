@@ -1,0 +1,339 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0304.htm
+order: 6678
+reachable_from_entry: false
+images: 14
+internal_links: 0
+extracted: 2026-08-07T05:59:26Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0304.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a.gif" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="95" height="175" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> **Yet one shall rise up alone saying:\
+> "I am one out of many, I have heard\
+> Voices high in the air crying out commands;\
+> Seen men's bodies burst into torches;\
+> Seen faun & maiden die in the night air raids;\
+> Heard the watchwords exchanged in the alleys;\
+> Felt hate speed the blood stream & fear curl the nerves. . .**
+>
+> 
+>
+> > >        Kenneth Rexroth, ["From the Paris Commune to the Kronstadt Rebellion"](http://recollectionbooks.com/siml/library/RexrothParisCommune.htm) (1936), (To be continued . . .)alt: Cronstadt
+
+[]()\
+[]()\
+\
+--
+
+**MARCH 4**
+
+JEAN-JOSEPH RABEARIVELO\
+African modernist, poet supreme of the Malagasy Republic.\
+
+
+> > 
+> >
+> > ------------------------------------------------------------------------
+> >
+> > THIS WAY TO EGRESS DAY.
+> >
+> > FESTIVAL OF PIRATE UTOPIAS.
+> >
+> > MOST COMMANDING DAY OF THE YEAR (march forth!)
+> >
+> > ------------------------------------------------------------------------
+>
+>  []()\
+>
+> []()\
+> \
+> 1634 -- New World: First tavern in America opens, Boston, Massachusetts. []()\
+> []()\
+> \
+> 1712 -- England: Jane Wenham ("A witch & a bitch") tried for talking to her cat & for flying. The last witchcraft trial in England. []()\
+> []()\
+> \
+> 1774 -- First recorded observation of the Orion Nebula (by William Herschel). []()\
+> []()\
+> \
+> 1841 -- US: Beloved & Respected Comrade Leader William Henry Harrison caught a fatal cold while standing hatless in the drizzle at his own Presidential inauguration. A month later, he is the first U.S. president to die in office. []()\
+> []()\
+> \
+> 1848 -- George Sand & Frederic Chopin meet for the last time.\
+> <http://www.disls.ualr.edu/gsand/>\
+> []()\
+> \
+> 1852 -- Nikolay Gogol dies in Moscow, 42, believing himself damned. His creative theory is summed up in these words "I must present the face of life & not discuss life." []()\
+> []()\
+> \
+> <img src="http://flag.blackened.net/agony/lbc.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="172" height="133" alt="Libertarian Book Club Logo" />\
+> 1882 -- Joseph Spivak lives, Uman, Russia. Lifelong anarchist who emigrated to the US & during WWI was actively involved around the country in anti-militarist campaigns with Emma Goldman & Alexander Berkman. Involved in founding the Libertarian Book Club in New York in 1927. See the Anarchist Encyclopedia,\
+> <http://www.recollectionbooks.com/bleed/sinners/SpivakJoseph.htm>\
+> []()\
+> \
+> 1888 -- Amos Bronson Alcott dies, Boston, Massachusetts. []()\
+> []()\
+> \
+> 1891 -- US: The International Copyright Act, halting the piracy of British, Belgium, French, Swiss books by US publishers is passed by Congress. []()\
+> []()\
+> \
+> 1901 -- African modernist poet Jean-Joseph Rabearivelo (1901-1937) lives, Tananarive, Madagascar.\
+> <http://web.uflib.ufl.edu/cm/africana/rabieri.htm>\
+> []()\
+> \
+> 1906 -- Poland: Rosa Luxemburg arrested & imprisoned at the Warsaw Citadel for revolutionary activities in Warsaw. []()\
+> []()\
+> \
+> 1908 -- US: Lakeview School, in Collinwood, Ohio, caught fire; 174 children & two teachers killed. []()\
+> []()\
+> \
+> 1910 --
+>
+> <img src="http://www.homepower.com/caticon.gif" data-border="0" data-hspace="15" data-vspace="10" width="85" height="95" alt="Sabocat" />
+
+US: Industrial Workers of the World (IWW = "I Will Win") begins Spokane, Washington free speech fight (which they win).
+
+[]()\
+[]()\
+\
+1912 -- England: Pane in the Ass? Suffragettes, walking single file in Knightsbridge, London, smash every window they pass to protest government inaction.
+
+[]()\
+[]()\
+\
+1913 -- US: New Laboring Device? Department of Labor begins laboring.
+
+[]()\
+[]()\
+\
+1917 -- US: Jeanette Rankin is first woman elected to Congress. She is the only member to vote against both World Wars. []()\
+[]()\
+\
+<img src="http://www.torget.se/users/c/Chilli/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="?" />\
+1918 -- US: The Bureau of Investigation of the Department of Justice orders copies of all correspondence to & from Emma Goldman sent to its office in Washington, D.C.
+
+anarchist feminist
+
+[]()\
+[]()\
+\
+1921 -- E. M. Forster begins his passage to India (or on the 1st?) to assume duties as secretary to the Maharaja of Dewas Senior.\
+\
+Source: Neal Jones (ed.), "A Book of Days for the Literary Year"; (HistoryChannel.Com says March 1st) <http://www.geocities.com/Athens/1340/forster.html>\
+\
+
+
+
+<img src="http://flag.blackened.net/revolt/graphics/rev_truck_1917.gif" data-border="0" data-hspace="10" data-vspace="10" width="373" height="197" alt="?" />
+
+[]()\
+\
+<img src="http://www.spunk.org/library/places/russia/images/sp001545.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="231" height="360" alt="?" />\
+1921 -- Russia: "At the Extraordinary Session of the Petrograd Soviet, called to decide the fate of Kronstadtalt: Cronstadt, Zinoviev said: *"Of course Kozlovsky is old & can do nothing, but the White Officers are back of him & are misleading the sailors."*
+
+Alexander Berkman, however, stressed the fact that the sailors would have none of Trotsky's former pet General, nor would they accept the offer of provisions & other help of Victor Tchernov, leader of the Right S.R.'s (Socialist Revolutionists) in Paris."
+
+---Emma Goldman, Trotsky Protests Too Much (1938)
+
+> Berkman's earliest essays on Russia were published in three pamphlets -- The Russian Tragedy, The Russian Revolution & the Communist Party, & The Kronstadt Rebellion in Berlin in 1922. They were collected & reissued as The Russian Tragedy (Sanday, Orkney: Cienfuegos Press, 1976), with an introduction by William G. Nowlin, Jr.
+>
+> <http://sunsite.berkeley.edu/Goldman/Writings/Essays/trotsky.html%0B>\
+> <http://flag.blackened.net/revolt/russia.html>
+
+\
+
+> []()\
+> \
+> <img src="http://www.torget.se/users/c/Chilli/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="?" />\
+> 1921 -- Russia: During Krondstadt uprising (March 1-17) in support of striking Petrograd factory workers; sailors demand democratic election of Soviet representatives. Emma Goldman attends March 4 meeting of the Petrograd Soviet, which votes to accept Zinoviev's proposal to force the surrender of Krondstadt sailors upon penalty of death. 
+>
+> anarchist feminist
+>
+> []()\
+> []()\
+> \
+> 1928 -- Allan Sillitoe, "angry young man," lives, Nottingham. English novelist/poet/playwright & social critic, who introduced in post-World War II British fiction realistically portrayed working-class heroes. Encouraged by Robert Graves, he wrote his first novel The Saturday Night & Sunday Morning. His best known work is The Loneliness of Long-Distance Runner (1959). <http://www.kirjasto.sci.fi/calendar.htm>\
+> []()\
+> \
+> <img src="http://www.miltonbowling.com/graphics/bowlpins.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="77" height="97" alt="?" />\
+> 1930 -- Spare Me?: Emma Fahning is the first woman to bowl a perfect game. []()\
+> []()\
+> \
+> 1932 -- Zensi Miriam Makeba, "Empress of African Song," lives, Prospect Township, South Africa. []()\
+> []()\
+> \
+> <img src="http://www.torget.se/users/c/Chilli/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="?" />\
+> 1935 -- Canada: Emma Goldman delivers two further lectures to Jewish groups--on "Crime & Punishment" on March 4 & birth control on March 15--& the last in her drama series conclude Goldman's lectures in Montreal; she returns to Toronto on March 17.
+>
+> > Emma speaks at two Yiddish meetings in Toronto at the end of the month, one a lecture, the other a 70th birthdaycelebration for Chaim Zhitlovsky, the exiled Russian revolutionary.
+> >
+> > By the end of the month a formal committee to raise a "Sustaining Fund for Emma Goldman" is organized in New York by herniece Stella Ballantine & Roger Baldwin, & 300 fund-raising letters solicit \$3,000 in contributions to supportEmma while she is writing a book; Jeanne Levey helps with the appeal from Chicago.
+> >
+> > She grows increasingly concerned about Berkman's financial condition & raises emergency funds for him & EmmyEckstein.
+> >
+> > anarchist
+> >
+> > Emma Goldman Papers
+>
+> []()\
+> []()\
+> \
+> 1937 -- US: UAW workers sit-down victory in Flint, Michigan.
+>
+> > The United Automobile Workers sit-down strike in Flint, Michigan, wins a contract forcing General Motors to recognize them. The 40-day action at Fisher Body Plant Number One is the longest sit-down strike in history.
+> >
+> > 
+> >
+> > Employees inside are protected by 5,000 armed workers circling the plant. After police tear-gas attacks, workers fight back with firehoses. Gunfire wounds 13 workers, but the cops are driven back. By the time the National Guard arrives, the strike spreads to GM plants across the nation.
+> >
+> > []()\
+> > []()\
+> > \
+> > 1937 -- Spain: The newspaper "La Noche" carries an announcement introducing the aims, characteristics & membership conditions of the anarchist Friends of Durruti Group. Also, the Generalidad issues a decree winding up the Control Patrols. In La Batalla , Nin passes favorable & hopeful comment on an article by Balius carried in the March 2nd edition of La Noche.\
+> > <http://www.spunk.org/texts/places/spain/sp001780/chap1.html>\
+> >
+> > <http://www.eskimo.com/~recall/bleed/sinners/DurrutiColumnEarly.htm>\
+> > <http://www.spunk.org/texts/places/spain/sp001780/chap5.html>\
+> > <http://www.geocities.com/Athens/Acropolis/8195/Durruti.html>\
+> >  <http://www.geocities.com/Athens/Acropolis/8195/Durruti.html>\
+> > \
+> > 1939 -- Har Dayal (also spelled Hardayal, or Hardyal) (1884-1939) dies, Philadelphia, Pennsylvania. Indian revolutionary & scholar dedicated to the removal of British influence in India. In March 1914 he was arrested by U.S. immigration authorities for his undesirable activities. Released on bail, he fled to Switzerland & then to Berlin, where he tried to foment an anti-British rising in northwestern India.\
+> > <http://www.britannica.com/bcom/eb/article/idxref/4/0,5716,486382,00.html>\
+> > []()\
+> > \
+> > 1954 -- Russian lyric poet, essayist, & political dissident, Irina Georgiyevna Ratushinskaya, lives, Odessa, Ukraine. While in prison for her advocacy of human rights, she wrote some 250 poems, first scratching them into bars of soap & then, after memorizing them, washing them away. Stikhi (Poems, 1984) was published while she is imprisoned.\
+> > <http://www.wheaton.edu/learnres/arcsc/collects/sc44/bio.htm>\
+> > []()\
+> > \
+> > 1960 -- US: It is revealed, in connection with the current congressional investigation into payola, that Federal Communications Chairman John Doerfer took a six-day trip to Florida courtesy of Storer Broadcasting. []()\
+> > []()\
+> > \
+> > 1962 -- US nuclear reactor begins operating, Antarctica. []()\
+> > []()\
+> > \
+> > 1962 -- Discovered today in the Family Planning Association archives: Guy Aldred, 4 Mar 1962 to John Peel (who was writing ahistory of FP) re: Sanger: 'Her work was very important but I believed that she liked to be patronised too much by the great& the rich. I had no time for that sort of thing.' 
+> >
+> > > \[Aldred\] & his partner Rose Witcop published a cheap UK edition of Sanger's "Family Limitation" & were prosecuted for obscenity. He was an anarchist & it would seem something of a Puritan (certainly from this letter, written when he was quite old) about matters of sex. Obviously writing with some degree of hindsight, but it's interesting that Stella Browne, writing to Havelock Ellis about her break with Sanger, said rather the same things.
+> >
+> > []()\
+> > []()\
+> > \
+> > 1963 -- William Carlos Williams dies, Rutherford, New Jersey. His little red wagon fatally rusted, there will be no more late night notes on his refrigerator door.
+>
+> []()\
+> []()\
+> \
+> <img src="http://ourworld.compuserve.com/homepages/Jon_Wiener/russ.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="187" height="288" alt=" ? " />\
+> 1966 -- London newspaper publishes interview with John Lennon of the Beatles:
+>
+> > "Christianity will go. It will vanish & shrink. I needn't argue that. I'm right & will be proved right. We're more popular than Jesus right now."
+>
+> This quote causes a storm of protest & a worldwide series of Beatles record burnings.
+>
+> <http://ourworld.compuserve.com/homepages/Jon_Wiener/cover.htm>\
+> \
+>
+> > []()\
+> > \
+> > 1966 -- The Charlatans & the Electric Chamber Orkustra appeared at Soko Hall, 739 Page St., Frisco, California. []()\
+> > []()\
+> > \
+> > 1968 -- US: Dr. King announces he will lead a Poor People's March on Washington in April. []()\
+> > []()\
+> > \
+> > 1969 -- US: S.S. Yukon, carrying 150,000 barrels of oil, hits a submerged object & spills its cargo into Cook Inlet, Alaska. []()\
+> > []()\
+> > \
+> > 1969 -- Union of Concerned Scientists founded. []()\
+> > []()\
+> > \
+> > 1970 -- Janis Joplin fined \$200 for using obscene language onstage in Tampa, Florida. []()\
+> > []()\
+> > \
+> > <img src="http://lists.village.virginia.edu/sixties/Graphics/Buttons/peace_silent_spring.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="100" alt="?" />\
+> > 1970 -- Puerto Rican student killed by police during a demonstration against the Vietnam War.\
+> >
+> > []()\
+> > []()\
+> > \
+> > 1974 -- Argentina: Acting in collusion & at the behest of striking lead workers, the urban guerrilla People's Revolutionary Army kidnap one of the INSUD plant managers. As a result, & in just 22 days, the strikers win compensation for lead poisoning & a reduction of the working day to six hours.\
+> > Source: 'Calendar Riots' []()\
+> > []()\
+> > \
+> > 1977 -- US: First CRAY 1 supercomputer shipped, to Los Alamos Laboratories, New Mexico.\
+> > []()\
+> >
+> > > []()\
+> > > \
+> > > 1978 -- Netherlands: 40,000 demonstrate against uranium enrichment plant, Almelo. []()\
+> > > []()\
+> > > \
+> > > 1982 -- All in the family?: Frank Zappa's son Dweezil & daughter Moon Unit form a band called Fred Zeppelin. Their first single is My Mother is a Space Cadet. Not too personal. []()\
+> > > []()\
+> > > \
+> > > 1985 -- US: Supreme Court upholds right of Oneida nation of New York to sue for lands illegally taken in 1795. []()\
+> > > []()\
+> > > \
+> > > 1986 -- Richard Manuel, 41, of "The Band" dies by hanging. []()\
+> > > []()\
+> > > \
+> > > <img src="http://www.angelfire.com/images/devil.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" data-="" width="64" height="64" alt=" ? " />\
+> > > 1986 -- US: Six months after gunning down a liquor store clerk, 15-yr. old "Devil Child" Sean Sellers conducts a "Satanic Ritual" & kills his final victims, shooting his parents in their sleep, Oklahoma City.
+> >
+> > []()\
+> > []()\
+> > \
+> > 3000 --
+> >
+> > > The whole world is in jail & we're plotting this incredible jailbreak.
+> > >
+> > > --Hugh Romney, aka Wavy Gravy
+> > >
+> > > []()\
+> > >
+> > > \
+> > >
+> > > []()\
+> > > \
+> > > <img src="http://btp.tao.ca/images/upcbars.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="237" height="112" alt=" ? " />\
+> > > 4000 -- <http://www.seattlevolunteer.org/STORIES/NOVSTORY1.HTML>\
+> > > <http://btp.tao.ca/>\
+> > >
+> > > []()\
+> > >
+> > > ------------------------------------------------------------------------
+> > >
+> > > anti-CopyRite 2000-3000, more or less\
+> > > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > > or send questions, suggestions, additions, corrections to:\
+> > > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> > >
+> > > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> > >
+> > > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> > >
+> > > anarchist, labor, radical books
+> > >
+> > > See also: Anarchist Encyclopedia\
+> > > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > > Stan Iverson Memorial Library\
+> > > http://recollectionbooks.com/siml/\
+> > > Anarchist Time Line / Chronology\
+> > > http://recollectionbooks.com/bleed/indexTimeline.htm

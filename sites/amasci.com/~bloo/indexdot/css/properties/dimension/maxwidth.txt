@@ -1,0 +1,81 @@
+Max-Width - Cascading Style Sheets Properties 
+
+ max-width 
+ Support Key: 
+ [ CSS2 ] 
+ [ N6 | O4 ] 
+ Other Dimension Properties 
+
+ width 
+ min-width 
+ line-height 
+ height 
+ min-height 
+ max-height 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ none 
+ Applicable Elements: 
+ All except inline non-replaced and table elements 
+ Inherit From Parent: 
+ No 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property allows a maximum width to be set for an element box. The
+ calculation for the element's width may be less than this value, but if the
+ calculated 'width' value is above this value it will recompute the 'width'
+ using the 'max-width' value as the new 'width' value. If the value of
+ 'min-width' is greater than the value of 'max-width', the 'max-width'
+ property value becomes the 'min-width' value.
+
+ Allowed Values 
+ inherit 
+ [ CSS2 ] [ N6 | O4 ] 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ none 
+ [ CSS2 ] [ N6 | O4 ] 
+ Type: Explicit 
+ Description: 
+ No limit is placed on the maximum allowable width for the element. 
+
+ [length] 
+ [ CSS2 ] [ N6 | O4 ] 
+ Type: Explicit 
+ Description: 
+ Refers to an absolute measurement for the maximum computed element
+ box width. Negative values are not allowed. 
+
+ [percentage] 
+ [ CSS2 ] [ N6 | O4 ] 
+ Type: Calculated 
+ Description: 
+ Refers to a percentage of the width of the containing element block. 
+
+ Example 
+ Ext/Doc: h5 
+ { max-width: 150px } 
+ In-Line:&#160; < h5 
+ STYLE =" max-width: 
+ 150px">text</ h5 > 
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

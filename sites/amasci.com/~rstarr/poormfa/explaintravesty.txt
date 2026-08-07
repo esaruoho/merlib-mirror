@@ -1,0 +1,41 @@
+Poetry Links - Travesty Generator 
+
+ Home | What's New | Anthologies and Link Sites | Poets 
+ Journals | Movements and Criticism | Tools | Members 
+
+ Tra {v,i,c,d,m} 
+
+ Travesty Generator 
+
+ Travesty creates a new text based on how often sequences of characters appear in the original text.
+
+ Suppose we're doing an order 3 travesty. Travesty analyzes the original text to find all the combinations
+of two characters (one less than the order) that appear in the text.
+It also constructs a table of all of the letters that follow those
+two-letter combinations and how often those letters follow the combination. Travesty then takes the
+first two letters of the original text, looks up that character sequence in the table, and randomly
+selects the next letter according to the frequencies in the entry. It adds the new letter to the
+beginning string of two characters and uses the second and third characters in that string
+as the new two-letter combination to look up. This process continues until Travesty produces the
+requested number of characters of output.
+ Thus, for an order 3 travesty, the result is a text in which all combinations of three characters appear
+at roughly the same
+frequency as all three-letter combinations in the original text. Notice that travesty uses all of
+the characters in the original text
+(letters, digits, dashes, etc.) and not just letters.
+
+ Travesty is often used to scramble a source text before using it in another process such as diastic
+reading.
+
+ The first version of Travesty was written by Hugh Kenner and Joseph P. O'Rourke and
+described in their article "A Travesty Generator for Micros" in the November 1984 issue of Byte .
+
+ For more information, see Charles O. Hartman, The Virtual Muse: Experiments in Computer Poetry 
+(Hanover, NH: Wesleyan University Press, 1996), pp. 54-64. See also Hartman's "Monologues of Body
+and Soul" in The Virtual Muse for a poem incorporating Travesty-generated text.
+The poem also appears in his Glass Enclosures (Hanover, NH: Wesleyan University Press, 1995),
+pp. 55-68.
+ Use the back button or click here to go to the Travesty Generator
+page.
+
+ Last updated 21 January 2002.

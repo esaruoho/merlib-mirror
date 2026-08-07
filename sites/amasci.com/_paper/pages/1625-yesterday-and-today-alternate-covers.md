@@ -1,0 +1,68 @@
+---
+title: "Yesterday and Today Alternate Covers"
+source_domain: amasci.com
+source_path: ~bpentium/alternat.html
+order: 1625
+reachable_from_entry: false
+images: 5
+internal_links: 2
+extracted: 2026-08-07T05:55:19Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Yesterday and Today Alternate Covers
+
+*Source page: `~bpentium/alternat.html`*
+
+[<img src="finismal.jpg" data-align="RIGHT" data-border="0" />](finish1.jpg)
+
+#### Click photo for a larger view!
+
+------------------------------------------------------------------------
+
+# The Purple Trunk Cover
+
+### The Rarest of All Beatles Album Artwork
+
+------------------------------------------------------------------------
+
+![](finger.gif)
+
+The Purple Trunk Cover reproduced for the first time is the only alternate, fully-realized replacement cover for Yesterday...And Today that exists. Press proofs were printed, but scrapped at the last minute when the White Trunk Cover design was ultimately chosen. Only four copies of the Purple Trunk Cover are known to have survived, and they have been valued as high as \$15,000.
+
+The original Beatles Yesterday...And Today album cover, issued in the United States in June 1966, featured a color picture, taken by Robert Whitaker, of the group dressed in white butcher smocks and draped in pieces of raw meat and the parts of several dismembered dolls. This controversial album design soon became known as the Butcher Cover.
+
+Oddly enough, that photo had not been intended to be used for an album cover at all when it was taken, but in fact was part of a collection of shots that comprised a photo series titled the "Somnambulant Adventure". (This series was never published, although the Butcher photo and several other pictures appeared individually.)
+
+Upon its release the Yesterday...And Today jacket shocked most radio station dj's, record reviewers, and store owners, and was immediately recalled. John Lennon once stated that "...it was inspired by boredom and resentment at having to do another photo session and another Beatle thing."
+
+A new photo session was quickly arranged with Robert Whitaker. By happenstance, there was a steamer trunk in the studio, which the Beatles wearily stood around. This session producted the more subdued picture of the group featured above.\
+As with most commerical art, several layouts of the Butcher and Trunk covers were designed and submitted to executives at Capitol Records in Hollywood for approval. The actual creative work was done by Queens Litho in Long Island City, New York, who in the sixties, developed most of the covers for Capitol.
+
+Over the years various color separations, press proofs or mock-ups have surfaced for the Butcher and Trunk covers. The rarest are presented below. But none are as rare and unique as the Purple Trunk Cover.
+
+------------------------------------------------------------------------
+
+![](bullet2.gif)
+
+[Alternate Butcher Cover](finish2.jpg) with "Yesterday...And Today" In quotes, reproduced from a press proof.
+
+------------------------------------------------------------------------
+
+![](bullet2.gif)
+
+[Alternate White Trunk](finish3.jpg) Cover reproduced from mock-up artwork.
+
+------------------------------------------------------------------------
+
+![](bullet2.gif)
+
+[Alternate Blue Trunk](finish4.jpg) Cover reproduced from a four-color separation.
+
+------------------------------------------------------------------------
+
+Back to [Robert's Web Spot\
+](index.html)Back to [Robert's Beatles Page\
+](beatles.html)Back to [Robert's Butcher Page](butcher.html)
+
+------------------------------------------------------------------------

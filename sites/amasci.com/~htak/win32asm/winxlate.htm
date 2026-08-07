@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Author" content="Henry S. Takeuchi">
+<title>Translating Win32 Documentation</title>
+</head>
+<body>
+<h1>Translating Win32 Documentation</h1>
+
+The official Win32 API documentation is written for C and C++
+programmers. If you want someone to translate it all to ASM, 
+you'll be waiting a long, long time -- it's that big. So it's
+a good idea to learn how to translate the
+API function syntax from C code into ASM code. 
+
+<ul>
+<li><a href="#win32call">Standard Win32 calls</a></li>
+
+<li><a href="#comcall">COM interface</a></li>
+
+<li><a href="#datasize">Size of data types</a></li>
+
+<li><a href="#regsave">Register save conventions</a></li>
+
+<li><a href="#callbacks">Callbacks</a></li>
+</ul>
+
+<a href="win32asm.htm">Back to Win32 ASM Page</a> 
+
+<h3><a name="win32call"></a>Standard Win32 calls</h3>
+
+The routines you'll use most in ASM will be the core Win32 API
+functions. Most of the functions have a fixed number of arguments,
+ and these functions use the <b>stdcall</b> calling convention. The
+  few that
+have a variable number of arguments (e.g., wsprintf) use the
+<b>cdecl</b> calling convention. <br>
+ A typical API function is shown in the following definition
+format: 
+
+<p> return-type function-name ( arg-type-1 arg-name-1, ...
+);</p>
+
+<p> So, for example, the definition of SetWindowText looks
+like</p>
+
+<p> BOOL SetWindowText ( HWND hWnd, LPCTSTR lpString
+);</p>
+
+<p> In all cases, the arguments will be pushed starting with
+the rightmost argument. So to call the above function, you push
+the arguments before calling like this:</p>
+
+<p> Push lpString<br>
+ Push hWnd<br>
+ Call SetWindowText</p>
+
+<p> If you know what the types HWND and LPCTSTR mean, you will
+be able to convert the call to something like this:</p>
+
+<pre>
+        push    offset title1        ; address of new title string
+        push    dword ptr [ebp+8]    ; hwnd from wndproc arg list
+        call    SetWindowText        ; BOOL result (success/fail) in EAX
+        ; arguments already popped by SetWindowText
+</pre>
+
+ The above illustrates the <b>stdcall</b> calling convention
+used by most of the Win32 API functions. SetWindowText pops the
+arguments so that you won't need to. If it had used the
+<b>cdecl</b> calling convention, you would've needed to reset ESP
+with an extra instruction, as in the following: 
+
+<pre>
+        add     esp,8      ; pop two DWORD arguments
+</pre>
+
+ Because SetWindowText uses a character string, the
+documentation is actually referring to two functions:
+SetWindowTextA, which uses a string of ANSI (8-bit) characters,
+and SetWindowTextW, which uses a string of (wide 16-bit) Unicode
+characters. In a C program, the include file <b>windows.h</b> has
+macros that automatically control and redefine these documented
+names to their Unicode/ANSI-specific ones. Thus the typical
+program will use only the documented names. <br>
+ In MASM and TASM we can use a text macro to supply the
+default name: 
+
+<pre>
+        SetWindowText    equ    &lt;SetWindowTextA&gt;    ; use ANSI in Win95
+</pre>
+
+ You can, if you like, use a more elaborate technique to
+select which name you want as default. 
+
+<h3><a name="comcall"></a>COM (and OLE2 and ActiveX)
+interface</h3>
+
+There is also an object-based COM interface (sometimes known as
+OLE2 or ActiveX) which uses another calling convention. There is
+an extra hidden argument, which is the address of the interface
+record, and the function is called indirectly via an address
+table known as the <b>vtable</b>. <br>
+ The COM interface is usually programmed in C++. The syntax
+for a function call is typically 
+
+<p> interface_pointer -&gt; function ( arglist )</p>
+
+<p> The arguments are pushed in the reverse order, just like
+SDK functions. The extra argument is the interface pointer which
+is pushed last. Then we use it to access the vtable and call the
+function. You will need to know the exact storage order of the
+function addresses. Assuming interface_pointer is in memory, the
+instructions would be something like</p>
+
+<pre>
+        ; ...
+        ; insert argument stacking here
+        ; ...
+        mov     eax,[interface_pointer]
+        push    eax          ; push interface pointer
+        mov     ecx,[eax]    ; 1st dword of interface is vtable addr
+        call    [ecx+8]      ; call the third function
+        ; arguments already popped
+</pre>
+
+String data in COM interfaces should <b><u>always</u></b> be in
+Unicode. 
+
+<h3><a name="datasize"></a>Size of data types</h3>
+
+One type, TCHAR, is special. Its size depends on whether the C
+program defaults to ANSI (<b>char</b>) or Unicode <b>(short</b>).
+<br>
+ Some unsigned types are prefixed with U. Pointers are
+prefixed by P or LP. Handles are prefixed by H. <br>
+ Some sizes and the types that have them include: 
+
+<p>BYTE: <b>char</b> (signed), BYTE (unsigned)<br>
+WORD: <b>short</b> (signed), WORD (unsigned), ATOM (unsigned)<br>
+QWORD: <b>double</b> (floating point)<br>
+DWORD: <b>int</b> (signed), DWORD (unsigned), handles, pointers,
+and hopefully everything else that's not a <b>struct</b> or
+related to the previous types</p>
+
+<h3><a name="regsave"></a>Register save conventions</h3>
+
+The core Win32 functions will preserve the values of EBP, EBX,
+ESI, EDI, and DF. On entry, the direction flag, DF, is expected
+to be cleared for ascending mode in string ops. 
+
+<h3><a name="callbacks"></a>Callbacks</h3>
+
+Windows uses a few callback functions, the most familiar is the
+window procedure. These functions must follow the register save
+conventions used by the API functions. All of the callbacks use
+the <b>stdcall</b> calling convention. <br>
+ Because arguments are pushed in reverse order, the first
+listed argument is always immediately after the stacked EIP. If
+you use the standard prolog: 
+
+<pre>
+        push    ebp
+        mov     ebp,esp
+        sub     esp,4    ; example for allocating one local DWORD
+</pre>
+
+then you can access the first argument as [ebp+8], the second
+argument as [ebp+12], and so on. The size of each argument is a
+multiple of four bytes (DWORD). Most arguments are integers,
+handles, or pointers: all of these are only one DWORD in size.
+<br>
+ The standard prolog must have a matching epilog: 
+
+<pre>
+        mov     esp,ebp
+        pop     ebp
+</pre>
+
+The arguments can be popped off with the return instruction: 
+
+<pre>
+        ret     16        ; example for four DWORD arguments
+</pre>
+
+<hr width="100%">
+</body>
+</html>
+

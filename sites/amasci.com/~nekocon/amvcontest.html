@@ -1,0 +1,348 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD html 4.0 transitional//EN">
+<html>
+<SCRIPT LANGUAGE = "JavaScript1.1">
+
+//* script by Neko-kun moded by Nitram*
+//added up to btn 16 value
+
+btn1val= 0;
+btn2val = 2;
+btn3val = 4;
+btn4val = 6;
+btn5val = 8;
+btn6val = 10;
+btn7val = 12;
+btn8val = 14;
+btn9val = 16;
+btn10val = 18;
+btn11val = 20;
+btn12val = 22;
+btn13val = 24;
+btn14val = 26;
+btn15val = 28;
+btn16val = 30;
+btn17val = 32;
+btn18val = 34;
+btn19val = 36;
+btn20val = 38;
+btn21val = 40;
+images = new Array(34);
+for(i=0;i<34;i++)
+{
+	images[i] = new Image();
+}
+images[0].src = "sidebar/rola000.gif";
+images[1].src = "sidebar/rolb000.gif";
+images[2].src = "sidebar/rola001.gif";
+images[3].src = "sidebar/rolb001.gif";
+images[4].src = "sidebar/rola002.gif";
+images[5].src = "sidebar/rolb002.gif";
+images[6].src = "sidebar/rola003.gif";
+images[7].src = "sidebar/rolb003.gif";
+images[8].src = "sidebar/rola004.gif";
+images[9].src = "sidebar/rolb004.gif";
+images[10].src = "sidebar/rola005.gif";
+images[11].src = "sidebar/rolb005.gif";
+images[12].src = "sidebar/rola006.gif";
+images[13].src = "sidebar/rolb006.gif";
+images[14].src = "sidebar/rola007.gif";
+images[15].src = "sidebar/rolb007.gif";
+images[16].src = "sidebar/rola008.gif";
+images[17].src = "sidebar/rolb008.gif";
+images[18].src = "sidebar/rola009.gif";
+images[19].src = "sidebar/rolb009.gif";
+images[20].src = "sidebar/rola010.gif";
+images[21].src = "sidebar/rolb010.gif";
+images[22].src = "sidebar/rola011.gif";
+images[23].src = "sidebar/rolb011.gif";
+images[24].src = "sidebar/rola012.gif";
+images[25].src = "sidebar/rolb012.gif";
+images[26].src = "sidebar/rola013.gif";
+images[27].src = "sidebar/rolb013.gif";
+images[28].src = "sidebar/rola014.gif";
+images[29].src = "sidebar/rolb014.gif";
+images[30].src = "sidebar/rola015.gif";
+images[31].src = "sidebar/rolb015.gif";
+images[32].src = "sidebar/rola016.gif";
+images[33].src = "sidebar/rolb016.gif";
+// 20 images for 10 buttons
+
+function out(butnam,butval)
+{
+	
+	document[butnam].src = images[butval].src;
+
+}
+function over(butnam,butval)
+{
+
+	document[butnam].src = images[butval + 1].src;
+
+}
+
+</SCRIPT>
+
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Larry Drews">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en] (Win98; I) [Netscape]">
+   <title>Nekocon FLASH! Anime Music Video Contest Rules</title>
+</head>
+<BODY bgcolor="white" MARGINWIDTH=0 MARGINHEIGHT=0 LEFTMARGIN=0 TOPMARGIN=0>
+
+<!--Main Table-->
+<TABLE WIDTH=717 BORDER="0" cellpadding="0" cellspacing="0" valign="top" align="left">
+
+<!-- Side Bar Table -->
+
+<!-- TOP BAR -->
+    <table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="717">
+    <td VALIGN=TOP width=717><img SRC="sidebar/neo000.gif" BORDER=0></td>
+    </tr>
+    </table>
+
+<!-- Bar and Buttons -->
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="717">
+<tr>
+<td VALIGN=TOP WIDTH="9" BACKGROUND="sidebar/neo2004.gif">
+<center><img SRC="sidebar/clear.gif" height=10 width=9></center>
+</td>
+<td VALIGN=TOP WIDTH="100" BACKGROUND="sidebar/blubg.jpg">
+
+<!-- java buttons  -->
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100" >
+<td align=center>
+<A HREF="index.html" onMouseOver="over('btn1',btn1val );" onMouseOut="out('btn1',btn1val);">
+<IMG SRC="sidebar/rola000.gif" NAME="btn1" NOSAVE width=100 height=25 border=0 alt='Front Page'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="guest.html" onMouseOver="over('btn2',btn2val );" onMouseOut="out('btn2',btn2val);">
+<IMG SRC="sidebar/rola001.gif" NAME="btn2" NOSAVE width=100 height=25 border=0 alt='The NekoCon Guest List'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="dealer.html" onMouseOver="over('btn3',btn3val );" onMouseOut="out('btn3',btn3val);">
+<IMG SRC="sidebar/rola002.gif" NAME="btn3" NOSAVE width=100 height=25 border=0 alt='Dealer Room Information'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="hotel.html" onMouseOver="over('btn4',btn4val );" onMouseOut="out('btn4',btn4val);">
+<IMG SRC="sidebar/rola003.gif" NAME="btn4" NOSAVE width=100 height=25 border=0 alt='Hotel, Travel and Local Information'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="general.html" onMouseOver="over('btn5',btn5val );" onMouseOut="out('btn5',btn5val);">
+<IMG SRC="sidebar/rola004.gif" NAME="btn5" NOSAVE width=100 height=25 border=0 alt='Registration, Mailing and Internet Info'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="prog.html" onMouseOver="over('btn6',btn6val );" onMouseOut="out('btn6',btn6val);">
+<IMG SRC="sidebar/rola005.gif" NAME="btn6" NOSAVE width=100 height=25 border=0 alt="What's Going on at the Con"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="amvcontest.html" onMouseOver="over('btn7',btn7val );" onMouseOut="out('btn7',btn7val);">
+<IMG SRC="sidebar/rola006.gif" NAME="btn7" NOSAVE width=100 height=25 border=0 alt='Anime Music Video Contest Rules'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="cosplay.html" onMouseOver="over('btn8',btn8val );" onMouseOut="out('btn8',btn8val);">
+<IMG SRC="sidebar/rola007.gif" NAME="btn8" NOSAVE width=100 height=25 border=0 alt="Cosplay Rules and Info"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="dnloads.html" onMouseOver="over('btn9',btn9val );" onMouseOut="out('btn9',btn9val);">
+<IMG SRC="sidebar/rola008.gif" NAME="btn9" NOSAVE width=100 height=25 border=0 alt="Forms for Download"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="ads.html" onMouseOver="over('btn10',btn10val );" onMouseOut="out('btn10',btn10val);">
+<IMG SRC="sidebar/rola009.gif" NAME="btn10" NOSAVE width=100 height=25 border=0 alt="Advertising"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="vol.html" onMouseOver="over('btn11',btn11val );" onMouseOut="out('btn11',btn11val);">
+<IMG SRC="sidebar/rola010.gif" NAME="btn11" NOSAVE width=100 height=25 border=0 alt='Help run the con'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="art.html" onMouseOver="over('btn12',btn12val );" onMouseOut="out('btn12',btn12val);">
+<IMG SRC="sidebar/rola011.gif" NAME="btn12" NOSAVE width=100 height=25 border=0  alt="Art Show Rules"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="contacts.html" onMouseOver="over('btn13',btn13val );" onMouseOut="out('btn13',btn13val);">
+<IMG SRC="sidebar/rola012.gif" NAME="btn13" NOSAVE width=100 height=25 border=0  alt="Get in touch with us"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="t-shirts.html" onMouseOver="over('btn14',btn14val );" onMouseOut="out('btn14',btn14val);">
+<IMG SRC="sidebar/rola013.gif" NAME="btn14" NOSAVE width=100 height=25 border=0 alt="T-shirts"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="gallery.html" onMouseOver="over('btn15',btn15val );" onMouseOut="out('btn15',btn15val);">
+<IMG SRC="sidebar/rola014.gif" NAME="btn15" NOSAVE width=100 height=25 border=0 alt="NekoCon Art Gallery"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="link.html" onMouseOver="over('btn16',btn16val );" onMouseOut="out('btn16',btn16val);">
+<IMG SRC="sidebar/rola015.gif" NAME="btn16" NOSAVE width=100 height=25 border=0 alt="Links"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="News.html" onMouseOver="over('btn17',btn17val );" onMouseOut="out('btn17',btn17val);">
+<IMG SRC="sidebar/rola016.gif" NAME="btn17" NOSAVE width=100 height=25 border=0 alt="News, Web Updates"></A>
+</td>
+</table>
+
+
+
+
+
+<td VALIGN=TOP WIDTH="13" BACKGROUND="sidebar/neo2006.gif">
+<center><img SRC="sidebar/clear.gif" height=10 width=13></center>
+</td>
+<!-- end java buttons  -->
+<!-- Begin Main body -->
+<td valign=top WIDTH="575">
+<TABLE align=center BORDER=0 WIDTH=575>
+<TR>
+<TD>
+<h2>Anime Music Video Contest Winners Winners For Nekocon Flash!</h2>
+<font face="Arial,Helvetica" size=2>
+
+1st place:<br>
+<br>
+Rawhide<br>
+Blues Brothers<br>
+Trigun<br>
+Neko-Sama Productions<br><p>
+
+2nd place:<br>
+<br>
+Star Trekkin'<br>
+The Firm<br>
+Martian Succesor Nadesico<br>
+Anime Beach<br><p>
+
+3rd place (tie):<br>
+<br>
+Magic Carpet Ride (Remix)<br>
+Steppenwolf<br>
+Cowboy Bebop<br>
+Eric Ramos<br><p>
+
+3rd place (tie):<br>
+<br>
+About to Break<br>
+One Step Closer<br>
+Linkin Park<br>
+Neon Genesis Evangelion<br>
+Charles Bathel<br><p>
+
+
+<h2>Anime Music Video Contest Rules</h2>
+<font face="Arial,Helvetica" size=2>
+
+1.  LABEL your tape!!!  This is VERY important!  Put your name and address on the label, as well as the name of the video source, soundtrack, and performing artist.<p>
+2.  Please keep a copy of your video!!  If you desire, we will make every effort to return your tape (see Rule #10).  However, accidents, thefts and fires DO happen, not to mention the dreaded tape-eating VCR!<p>
+3.  Videos should be submitted in VHS/SVHS format ONLY, preferably SP mode. No Beta, 35mm or IMAX film please!  
+For Digital Submissions, please contact us and we can most likely work something out.<p>
+4.  Video length should be about five minutes or less.  For instance, submitting a video set to the Beatle's "Hey Jude" is a BAD idea. Besides, Anno sort of already did this in the Eva movie. ^_-<p>
+5.  Two videos maximum per contestant please!  If you send a tape with more than two videos, be sure to indicate which ones you want entered  in the contest.  Otherwise we will pick one for you, and it will probably be the one you DIDN'T want us to use. :) Also, in the event that we receive so many videos that we don't have time to show both entries, the first one of the two will be selected.  So be sure to prioritize!<p>
+6.  Original videos only!!  Please don't send us a video that everyone has already seen, or one that is making the "convention circuit".  Use your best judgement or ask if you're not sure.<p>
+7.  Be tasteful.  We can not accept videos with gratuitous nudity or overly-explicit lyrics.  If we can only show your video after midnight, it's not going to appear in the contest.<p>
+8.  If you would like to submit a non-competing video, be sure to state "NON-COMPETING" on the tape label. A non-competing video still counts as a video entry; it just show up as Non-Competing on the ballot.<p>
+9.  Send your S/VHS tape WITH LABEL, along with the following information to the address below.<p>
+    Your name (this will appear on the voting ballot)<BR>
+    Your address (include E-Mail address if applicable)<BR>
+    Name of the source video (if multiple sources were used, 
+         say "VARIOUS")
+    Name of the soundtrack<BR>
+   Name of the performing artist<BR>
+    Write "NON-COMPETING" on the label if it is Non-competing.<P>
+
+    Send to:<BR>
+    Neko-Con Flash Music Video Contest<BR>
+    8902 Dangerfield Rd <BR>
+    Clinton, MD 20735<p>
+
+Confirmation of receipt will be made via E-Mail or Postal Service.<p>
+10. If you want your tape returned, include a self-addressed stamped envelope.  Otherwise your tape can be picked up at the convention itself.<p>
+11. All entries must be postmarked by Saturday Sept. 29, 2001.  Late entries or at-the-door entries will not be accepted.  Neko-Con can not be held responsible for damaged, lost, or misdirected mail.<p>
+12. Neko-Con staff members are not eligible to enter the music video contest, but may submit non-competing videos.<p>
+13. Neko-Con reserves the right to refuse any submitted video for any reason, so be nice! ;)<P>
+
+
+
+</font>
+
+
+
+
+<!-- End Main Body -->
+<!-- COPYRIGHT STUFF -->
+
+<center><table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="550" >
+<tr>
+<td WIDTH="8" HEIGHT="8"><img SRC="boxbars/box000.jpg" height=8 width=8></td>
+<td HEIGHT="8" BACKGROUND="boxbars/box001.jpg"><img SRC="boxbars/clear.gif" height=8 width=63></td>
+<td WIDTH="8" HEIGHT="8"><img SRC="boxbars/box002.jpg" height=8 width=11></td>
+</tr>
+<tr>
+<td WIDTH="8" BACKGROUND="boxbars/box003.jpg"><img SRC="boxbars/clear.gif" height=10 width=8></td>
+<td WIDTH="531">
+<center><font face="Arial,Helvetica"><font size=-1>Neko-Con FLASH and the contents of this page &copy;2000
+&amp; 2001 Chibi Neko Entertainment.</font>
+<br><font size=-1>Please send comments to the sites <a href="mailto:mmathews@visi.net">webmaster</a></font></center>
+</td>
+<td WIDTH="11" BACKGROUND="boxbars/box005.jpg"><img SRC="boxbars/clear.gif" height=10 width=11></td>
+</tr>
+<tr>
+<td WIDTH="8" HEIGHT="11"><img SRC="boxbars/box006.jpg" height=11 width=8></td>
+<td HEIGHT="11" BACKGROUND="boxbars/box007.jpg"><img SRC="boxbars/clear.gif" height=11 width=63></td>
+<td WIDTH="11" HEIGHT="11"><img SRC="boxbars/box008.jpg" height=11 width=11></td>
+</tr>
+</table>
+</center>
+<!-- COPYRIGHT STUFF -->
+
+</table>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

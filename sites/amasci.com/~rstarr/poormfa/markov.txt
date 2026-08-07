@@ -1,0 +1,37 @@
+Poetry Links - Markov Generator 
+
+ Home | What's New | Anthologies and Link Sites | Poets 
+ Journals | Movements and Criticism | Tools | Members 
+
+ Markov {model, chain} 
+
+ Markov Generator 
+
+Generates a Markov sequence from the text entered in the box. See the explanation
+ here .
+
+ Order:
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+
+Words of Output:
+
+ 25
+ 50
+ 100
+ 250
+ 500
+ 750
+ 1000
+
+Put the original text here.
+
+ Last updated 21 January 2002.

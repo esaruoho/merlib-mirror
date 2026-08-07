@@ -1,0 +1,88 @@
+BankBridge : A System allowing Member banks to connect to a Central Banks CASS System 
+
+ When 
+ Central Banks introduce Clearing and Settlement Systems (CASS) Commercial 
+ Banks need to prepare themselves for this change. 
+ Commercial Banks will need to be in a position to provide and receive 
+ clearing files electronically to and from the Central Bank. 
+ Most 
+ Central Banks require that the files be : 
+
+ Of a 
+ format specified them 
+ Compressed 
+ Encrypted 
+ Transferred 
+ over FTP 
+
+ BankBridge 
+ is a sophisticated software package that can assist Commercial Banks in 
+ not just meeting these requirements, but ensuring that files created by 
+ their legacy systems are validated to ensure the integrity of file data. 
+ Bankbridge 
+ Supports : 
+
+ Validation 
+ Central 
+ Banks will specify file formats for the messages being processed, namely: 
+
+ Financial Messages such as : 
+
+ Cheques 
+
+ Promissory notes (bills) 
+
+ Transfer orders 
+
+ Settlement orders 
+
+ etc. 
+
+ Non Financial Messages such as: 
+
+ Inquiry / Response about an account number 
+
+ Inquiry / Response about the state of account 
+
+ Information about opening/ closing of a branch 
+
+ Change in membership condition 
+
+ Change of representative / operator 
+
+ Suspension or exclusion of bank 
+
+ etc. 
+
+ Commercial Banks will need to prepare and process files that conform to 
+ these formats. BankBridge validates files created by existing systemsto 
+ ensure any files being sent to Central Banks conforms to the formats prescribed 
+ by them. 
+
+ Encryption 
+ To ensure the Authentication, Integrity, Non-Repudiation and Confidentiality 
+ of files, BankBridge uses a highly secure encryption technique. 
+
+ Compression 
+ Standard 
+ ASCII files, when compressed, can result in a huge saving in bandwidth 
+ and reliability of transfer. BankBridge compress files by upto 95% using 
+ a sophisticated compression technology resulting in transfer times of 
+ minutes rather than hours. 
+
+ FTP Transfer 
+ BankBridge 
+ has built in FTP capabilities which allows a Commercial Bank to transfer 
+ files via Dial-Up Lines, Leased Lines, VSAT or the Internet. 
+
+ Interface to C-CATS 
+ BankBridge 
+ has a built in interface to C-CATS (the Cheque Clearing Automation System 
+ from Bankstar) which will allow banks to Clear Inter-Bank and Intra-Bank 
+ cheques electronically using a user friendly interface. C-CATS automatically 
+ creates clearing files which conform to the standards specified by The 
+ Central Bank. 
+
+ * 
+ BankBridge was released in Q4 2001 and is running live at Member 
+ Banks

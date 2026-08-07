@@ -1,0 +1,35 @@
+Question 18.8 
+
+ Question 18.8 
+ Don't ANSI function prototypes render lint obsolete?
+
+ Not really.
+First of all,
+prototypes work
+only if
+they are present and correct;
+an inadvertently incorrect prototype is worse than useless.
+Secondly,
+
+ lint checks consistency across multiple source files,
+and checks data declarations as well as functions.
+Finally,
+an independent program like lint will probably always
+be more scrupulous at enforcing compatible, portable coding practices
+than will any particular, implementation-specific,
+feature- and extension-laden compiler.
+
+ If you do want to use function prototypes instead of lint 
+for cross-file consistency checking,
+make sure that you set the prototypes up correctly in header files.
+See questions 1.7 and 10.6 .
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

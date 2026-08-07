@@ -5,8 +5,8 @@ source_path: surplus/surpls.html
 order: 309
 reachable_from_entry: true
 images: 2
-internal_links: 15
-extracted: 2026-08-03T18:11:46Z
+internal_links: 16
+extracted: 2026-08-07T05:53:19Z
 extractor: site_to_paper.py (pandoc)
 ---
 

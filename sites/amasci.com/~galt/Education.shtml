@@ -1,0 +1,29 @@
+<HTML><HEAD>
+</HEAD>
+<BODY>
+<H1>Education</H1>
+I earned both my M.S. and B.S. in computer science at the 
+<a href="http://www.cs.utah.edu/">University of Utah</a>.  My thesis advisor for my M.S. was <a href="http://rabbit.prakinf.tu-ilmenau.de/bdb.html">Beat Br&uuml;derlin</a>.
+<p>
+I completed my Master's degree in 1996, with my thesis, "TWEAK: a 3D Toolkit and Modeling System Using Snapping and 
+Constraints."
+<p>
+<FOOT>
+<CENTER>
+<TABLE border=1 cellPadding=4>
+  <TBODY>
+  <TR>
+    <TH colSpan=7>Greg Alt's Personal Pages 
+  <TR>
+    <TH width="14%"><a href="Work.shtml">Companies<br>I've<br>Worked For</a>
+    <TH width="14%"><a href="Education.shtml">Education</a>
+    <TH width="14%"><a href="Games.shtml">Completed<br>Games</a> 
+    <TH width="14%"><a href="Publications.shtml">Publications</a>
+    <TH width="14%"><A href="bike.shtml">Bicycle<BR>Commuting<BR>Checklist</A> 
+    <TH width="14%">My<BR>Realtime<BR>Raytracer 
+    <TH width="14%"><A href="index.shtml">Homepage</A> 
+  </TR></TBODY></TABLE>
+<P>
+</CENTER>
+
+</BODY></HTML>

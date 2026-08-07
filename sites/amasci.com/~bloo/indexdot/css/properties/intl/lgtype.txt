@@ -1,0 +1,95 @@
+Layout-Grid-Type - Cascading Style Sheets Properties 
+
+ layout-grid-type 
+ Support Key: 
+ [ IE5 ] 
+ Other International Properties 
+
+ unicode-bidi 
+ direction 
+ ruby-align 
+ ruby-overhang 
+ ruby-position 
+ line-break 
+ word-break 
+ writing-mode 
+ ime-mode 
+ text-justify 
+ text-autospace 
+ text-kashida-space 
+ layout-flow 
+ layout-grid 
+ layout-grid-mode 
+ layout-grid-line 
+ layout-grid-char 
+ layout-grid-char-spacing 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ loose 
+ Applicable Elements: 
+ Block-level elements 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property controls the type of layout grid used when rendering an
+ element's text content.
+
+ Allowed Values 
+ loose 
+ [ IE5 ] 
+ Type: Explicit 
+ Description: 
+ Indicates the line-grid commonly used in Chinese and Korean text display.
+ Chinese characters, kana and wide characters have the grid applied. All other
+ characters are rendered as if 'layout-grid-mode' was set to "none" or "line".
+ CSS properties and values that would otherwise change the width of a
+ character (such as 'text-align: justify') are disabled. 
+
+ strict 
+ [ IE5 ] 
+ Type: Explicit 
+ Description: 
+ Indicates the line-grid used in Japanese text display. Narrow characters
+ (except content from "cursive" fonts) get half the grid increment applied
+ to wide characters. Wide characters receive a grid increment if no other
+ width adjustment is used. 
+
+ fixed 
+ [ IE5 ] 
+ Type: Explicit 
+ Description: 
+ The type of line-grid used in mono-space layout. All characters receive and
+ are centered within an equal grid spacing (except content from "cursive"
+ fonts.) CSS properties and values that would otherwise change the width
+ of a character (such as 'text-align: justify') are disabled. 
+
+ Example 
+ Ext/Doc: div 
+ { layout-grid-mode: both;
+ layout-grid-type: loose;
+ layout-grid-char-spacing: 15px } 
+ In-Line:&#160; < div 
+ STYLE =" layout-grid-mode: 
+ both; layout-grid-type: loose; 
+ layout-grid-char-spacing: 15px">Content
+ snapped to a layout grid</ div > 
+
+ Browser Peculiarities 
+
+ Nothing to report yet.
+
+ Boring Copyright Stuff....

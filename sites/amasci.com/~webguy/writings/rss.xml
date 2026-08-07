@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+
+<channel>
+   <title>Al's Wild Web Page: My Writings</title>
+   <link>http://www.eskimo.com/~webguy/writings/writings.html</link>
+   <description>Several useful articles of various things encountered in my life.</description>
+   <copyright>Copyright 1996-2006 Al Wong, Los Angeles, California, USA. All rights reserved.</copyright>
+   <language>en-US</language>
+
+   <item>
+      <title>IOPS F5 MP3 Player</title>
+      <link>http://www.eskimo.com/~webguy/service/iops-f5-mp3-player.html</link>
+      <description>
+         My review of my second MP3 player! This is my upgrade to the  F325  player 
+         I bought about 18 months ago. The F5 plays video files well but paradoxically 
+         displays images badly. The whole sordid story is here!
+      </description>
+      <category>MP3 Player Review</category>
+      <category>IOPS</category>
+   </item>
+
+   <item>
+      <title>Rough Science Rocks!</title>
+      <link>http://www.eskimo.com/~webguy/writings/roughscience.html</link>
+      <description>
+         See practical applications of basic science and math in a very cool way. 
+         Amazing and clever!
+      </description>
+      <category>Rough Science</category>
+      <category>Rave</category>
+   </item>
+
+   <item>
+      <title>Would You Work For Them?</title>
+      <link>http://www.eskimo.com/~webguy/writings/badjob.html</link>
+      <description>
+         The weirdest series of phone interviews I have experienced to date.
+      </description>
+      <category>Job Interview</category>
+      <category>Job Hunting</category>
+      <category>Strange Job</category>
+   </item>
+
+   <item>
+      <title>Why GE Transportation Sucks</title>
+      <link>http://www.eskimo.com/~webguy/writings/gesucks.html</link>
+      <description>
+         Rather than do basic historic research, GE decides to perpetuate a 
+         racist lie on the joining of the transcontinental railroad.
+      </description>
+      <category>GE Transportation</category>
+      <category>Rant</category>
+   </item>
+
+   <item>
+      <title>Making Money on the Internet: Gold Trading</title>
+      <link>http://www.eskimo.com/~webguy/writings/egold.html</link>
+      <description>
+         I just found a way to make money on the Internet that is not a scam! 
+         It isn't easy. It takes time and there is a learning curve but I believe 
+         the effort is worth it.
+      </description>
+      <category>Making Money on the Internet</category>
+      <category>Internet Investment</category>
+      <category>EGold</category>
+      <category>DxInOne</category>
+      <category>DXGold</category>
+   </item>
+
+   <item>
+      <title>Why the United Parcel Service Sucks</title>
+      <link>http://www.eskimo.com/~webguy/writings/upssucks.html</link>
+      <description>
+         UPS did it again. They screwed me out of receiving a package sent to me. 
+         This has happened at least three times now.
+      </description>
+      <category>UPS Sucks</category>
+      <category>United Parcel Service</category>
+   </item>
+
+   <item>
+      <title>IOPS F325 MP3 Player</title>
+      <link>http://www.eskimo.com/~webguy/service/iops-mp3-player.html</link>
+      <description>
+         My review of my very first MP3 player! The player is about the size of a pack 
+         of chewing gum. Despite the crappy user manual and firmware bugs, I really like it.
+      </description>
+      <category>MP3 Player Review</category>
+      <category>IOPS</category>
+   </item>
+
+   <item>
+      <title>Getting Windows CE 2.00 ActiveSync to Run on the Local Area Network</title>
+      <link>http://www.eskimo.com/~webguy/service/activesync.html</link>
+      <description>
+         Why wait for slow transfers over the serial cable when you could make an 
+         ActiveSync connection over a much faster ethernet local area network? Share files 
+         and install new programs quickly on your Handheld computer. Many people have tried 
+         and failed. I solved it for Windows CE 2.00 even with a few unknowns.
+      </description>
+      <category>ActiveSync</category>
+      <category>Computer Network</category>
+      <category>Windows CE 2.00</category>
+   </item>
+
+   <item>
+      <title>Internet Connection Sharing With All Things Windows</title>
+      <link>http://www.eskimo.com/~webguy/service/ics.html</link>
+      <description>
+         I recently created a local area network (LAN) with computers running FIVE different 
+         versions of Windows. The neat thing is they all share the same dialup line via the LAN!
+      </description>
+      <category>Computer Network</category>
+      <category>Ethernet</category>
+      <category>Internet Connection Sharing</category>
+      <category>ICS</category>
+      <category>Dialup</category>
+   </item>
+
+   <item>
+      <title>Why Windows Sucks</title>
+      <link>http://www.eskimo.com/~webguy/writings/winsucks.html</link>
+      <description>
+         I can't stand it anymore! I have to vent. I have seen too many releases of Windows 
+         and they all suck. I am convinced Windows is a scam.
+      </description>
+      <category>Windows Sucks</category>
+      <category>Rant</category>
+   </item>
+
+   <item>
+      <title>Secure Telnet for Windows CE 2.00: Installation Instructions for OpenSSH</title>
+      <link>http://www.eskimo.com/~webguy/service/openssh.html</link>
+      <description>
+         I just installed this onto my LG Phenom Express. The existing instructions are 
+         rather terse and scattered so I put everything in one place. The installation 
+         procedure is rather involved. OpenSSH is an Open Source telnet that supports SSH connections!
+      </description>
+      <category>OpenSSH</category>
+      <category>SSH</category>
+      <category>Telnet</category>
+      <category>Windows CE 2.00</category>
+   </item>
+
+   <item>
+      <title>Your Money is No Good Here</title>
+      <link>http://www.eskimo.com/~webguy/writings/100bill.htm</link>
+      <description>
+         I recently went to a Target store to buy some stuff and tried to pay with an 
+         older $100 bill. Read what happened.
+      </description>
+      <category>Target Store</category>
+      <category>Old Money</category>
+      <category>Humorous</category>
+      <category>Funny</category>
+   </item>
+
+   <item>
+      <title>China 1999</title>
+      <link>http://www.eskimo.com/~webguy/china99/china99.htm</link>
+      <description>
+         I got back from a long summer vacation into China! While visiting Beijing and Xi'an, 
+         I kept a daily journal which I uploaded to this webpage about once a week. 
+         I describe the good, the bad and the ugly.
+      </description>
+      <category>China</category>
+      <category>Travel</category>
+      <category>Chinese American</category>
+   </item>
+
+   <item>
+      <title>Fujitsu Poqet PC Plus Handheld Computer</title>
+      <link>http://www.eskimo.com/~webguy/service/poqet.html</link>
+      <description>
+         My review and experience with the Poqet PC Plus computer. 
+         The machine weighs a little more than a pound and has a nearly full sized keyboard. 
+         Also, it runs MS-DOS 5.0!
+      </description>
+      <category>Poqet</category>
+      <category>Fujitsu</category>
+      <category>MS-DOS</category>
+      <category>PCMCIA</category>
+      <category>Review</category>
+   </item>
+
+   <item>
+      <title>Learning Chinese</title>
+      <link>http://www.eskimo.com/~webguy/writings/mandarin.html</link>
+      <description>
+         For Chinese Americans trying to learn Mandarin.  
+         Should you learn to speak like a Chinese native?
+      </description>
+      <category>Learning Mandarin Chinese</category>
+      <category>Mandarin Chinese</category>
+   </item>
+
+   <item>
+      <title>Disneyland's New Tomorrowland Sucks</title>
+      <link>http://www.eskimo.com/~webguy/writings/disney98.html</link>
+      <description>
+         I went to Disneyland to celebrate July 4th! Also, I wanted to see the New Tomorrowland. 
+         After months of construction and $100 million spent on the facelift, 
+         I don't think it was worth the wait.
+      </description>
+      <category>Disneyland</category>
+      <category>Tomorrowland</category>
+      <category>Rant</category>
+   </item>
+
+   <item>
+      <title>Why The Joy Luck Club Sucks</title>
+      <link>http://www.eskimo.com/~webguy/writings/joysucks.html</link>
+      <description>
+         A must read for all Asians!  Demeaning stereotypes affects us all. 
+         I find it surprising other ethnic groups have stamped out most of 
+         their stereotypes except for Asians.  Even if you don't agree with me, 
+         it will make you more aware.
+      </description>
+      <category>Joy Luck Club</category>
+      <category>Racism Towards Chinese Americans</category>
+      <category>Racism Towards Asian Americans</category>
+      <category>Racism</category>
+      <category>Chinese American</category>
+      <category>Chinese Stereotypes</category>
+      <category>Asian Stereotypes</category>
+      <category>Rant</category>
+   </item>
+
+   <item>
+      <title>Hong Kong 1996</title>
+      <link>http://www.eskimo.com/~webguy/hk96/hongkong.html</link>
+      <description>
+         My experience in Hong Kong, a year before the city reunifies with China. 
+         Includes travel advice and cool pictures. I want to go back!
+      </description>
+      <category>China</category>
+      <category>Hong Kong</category>
+      <category>Travel</category>
+      <category>Chinese American</category>
+   </item>
+   <item>
+      <title>Megs-O-RAM</title>
+      <link>http://www.eskimo.com/~webguy/writings/megsoram.html</link>
+      <description>
+         Ever added gobs of RAM and couldn't find any information on how to optimally 
+         configure it? I talk about my considerations when I upgraded my notebook computer 
+         to 40 MB! PC only. Windows 3.11. MS-DOS.
+      </description>
+      <category>Configuring RAM</category>
+      <category>Windows 3.11</category>
+      <category>MS-DOS 6.22</category>
+   </item>
+
+   <item>
+      <title>No Spam!</title>
+      <link>http://www.eskimo.com/~webguy/writings/nospam.html</link>
+      <description>
+         How to stop junk email. Describes what spam is and why it's a bad marketing tactic. 
+         Instructions on how to send a complaint against the spam you receive. Updated August '97.
+      </description>
+      <category>No Spam</category>
+      <category>Spam</category>
+      <category>Spamming</category>
+   </item>
+
+</channel>
+
+</rss>

@@ -1,0 +1,468 @@
+Guitar Columns - Theory Without Tears 
+
+ WHAT&#146;S NEW 
+
+ ABOUT US 
+
+ FORUMS 
+
+ GUITAR TAB 
+
+ REVIEWS 
+
+ INTERVIEWS 
+
+ HELP 
+
+ Site Tour 
+
+ Beginners Songs 
+
+ Guitar Columns 
+
+ Guitar Lessons 
+
+ Bass Lessons 
+
+ Songwriting 
+
+ Sound Engineering 
+
+ The Other Side 
+
+ Ask The Expert 
+
+ Interviews 
+
+ Reviews 
+
+ Books 
+
+ Links 
+
+ Search 
+
+ Advanced Search 
+
+ You are here: Home , Guitar Columns , Theory Without Tears 
+
+ Theory Without Tears 
+
+ Guitar Column # 3 
+ Published November 22, 1999 
+ By David 
+ Hodge 
+
+ Print this 
+ page 
+ Email to a Friend 
+
+ Bookmark 
+ this page 
+
+ The very word "theory" conjures up images of geometry 
+ class or, worse, physics lab. Scary stuff. Scarier, when you 
+ put the word "music" in front. "Music 
+ theory?" Music is supposed to be fun, carefree, an audio 
+ expression of our feelings. Music is not science. Is it? 
+ Well, not rocket science, anyway (though the ancient Greeks 
+ did study harmony as part of the school of mathematics). We 
+ can nit-pick ourselves to death with this question - after 
+ all music is sound and sound is physics (again? arrrrgggg!). 
+ But let's save ourselves trouble and anxiety by approaching 
+ music theory, and especially how it relates to the guitarist, 
+ with a simple idea: music theory is actually simple and fun. 
+ Okay, it's not really simple, but it's nowhere near as complicated 
+ as you might think. And it really is a lot of fun. In the 
+ introduction of Harmony , 
+ by Walter Piston (possibly the best music theory text a person 
+ could ever hope to have), we read: 
+
+ "...musical theory is not a set of directions 
+ for composing music. It is rather the collected and 
+ systemized deductions gathered by observing the practice 
+ of composers over a long time, and it attempts to set 
+ forth what is or has been their common practice. It 
+ tells not how music will be written in the future, but 
+ how music has been written in the past." 
+
+ Over the course of future columns, we will cover quite a 
+ bit of theory, sometimes when you least expect it. In this 
+ column, though, I'd like to go over the formation of chords. 
+ First, we need to get on same page, so to speak. Virtually 
+ everybody seems to call musical terms by different names, 
+ so let's quickly agree on a few things. The major scale, for 
+ instance. Whether you still use the "Sound of Music" 
+ theory ("Doe, a deer...") or various numbering schemes, 
+ I think we will all concede that the major scale is eight 
+ notes. 
+
+ The first three notes are whole steps, followed by a half 
+ step, then three more whole steps and then a final half step 
+ (remember that each fret on the guitar is a half step). Using 
+ the key of C (as pictured), the scale is as follows: 
+
+ I 
+
+ II 
+
+ III 
+
+ IV 
+
+ V 
+
+ VI 
+
+ VII 
+
+ VII 
+
+ do 
+
+ re 
+
+ mi 
+
+ fa 
+
+ sol 
+
+ la 
+
+ te 
+
+ do 
+
+ C 
+
+ D 
+
+ E 
+
+ F 
+
+ G 
+
+ A 
+
+ B 
+
+ C 
+
+ We know that there are other half steps lurking in there 
+ as well. If we were to write them in, the scale would look 
+ like this: 
+
+ I 
+
+ II 
+
+ III 
+
+ IV 
+
+ V 
+
+ VI 
+
+ VII 
+
+ VIII 
+
+ C 
+
+ C# 
+
+ D 
+
+ Eb 
+
+ E 
+
+ F 
+
+ F# 
+
+ G 
+
+ Ab 
+
+ A 
+
+ Bb 
+
+ B 
+
+ C 
+
+ (And while we're agreeing on things, let's also agree on 
+ this: the "I" note is called the "root" 
+ or "tonic." This is to ensure that we are all starting 
+ with the same "do" when constructing our scales. 
+ Using this same chart and "rotating" either the 
+ notes or the Roman numerals in one direction or another, I 
+ can figure out any major scale in any key. 
+ Pick a key, any key. How about A flat? 
+ In realigning the notes, Ab is now the root ("I") 
+ of the scale. So that is where we start. First we put out 
+ all the notes (in half steps) and then place the Roman numerals 
+ in their proper place (whole step, whole step, half step, 
+ whole step, whole step, whole step, half step). This is what 
+ you should have: 
+
+ I 
+
+ II 
+
+ III 
+
+ IV 
+
+ V 
+
+ VI 
+
+ VII 
+
+ VIII 
+
+ Ab 
+
+ A 
+
+ Bb 
+
+ B 
+
+ C 
+
+ Db 
+
+ D 
+
+ Eb 
+
+ E 
+
+ F 
+
+ Gb 
+
+ G 
+
+ Ab 
+
+ And finally, I remove the notes that do not have Roman numerals 
+ above them and voila! - a scale in A flat major: 
+
+ I 
+
+ II 
+
+ III 
+
+ IV 
+
+ V 
+
+ VI 
+
+ VII 
+
+ VIII 
+
+ do 
+
+ re 
+
+ mi 
+
+ fa 
+
+ sol 
+
+ la 
+
+ te 
+
+ do 
+
+ Ab 
+
+ Bb 
+
+ C 
+
+ Db 
+
+ Eb 
+
+ F 
+
+ G 
+
+ Ab 
+
+ Okay? Let's move onto forming chords. 
+ Now, and indulge me in this, imagine that you are the leader 
+ of a small choir. "How small is it?" There are only 
+ six voices in your choir. Okay? This is your guitar. Each 
+ string is one voice and each voice can only "sing" 
+ one note at a time. You chose whether one note is being sung 
+ at a time or whether (and which notes) all six voices are 
+ sounding at once. If you strike two or more separate strings, 
+ but they sound the same note (playing the fifth fret of the 
+ A string and an open D string, say), then the voices are in 
+ unison. If they are sounding different notes, you are playing 
+ a chord. Maybe. A chord must be at least three different notes 
+ - two different notes are not a chord. Let's see: 
+
+ not a chord 
+
+ chord ( C major ) 
+
+ The first group of notes are E (second fret on the D string) 
+ and G (open G string). It is impossible to call them a chord. 
+ They could be a part of many chords - think about how many 
+ simple chords you know that use these notes. E minor works. 
+ So does A7, A minor 7, A 11 (that's the "chord" 
+ you get when you strum a guitar with all open strings - just 
+ like the Beatles did in A Hard Day's Night) C, C major 7, 
+ F major 7 add9, D sus 4 add 9, and on and on. It is not until 
+ we add the C note (at the bottom of the second group) that 
+ we have a definite chord. Now, this could also be part of 
+ a larger chord, such as A minor 7 or F major 7 add 9, but 
+ it is recognizable as a chord on its own. 
+ Believe it or not, you are now equipped to figure out chords 
+ all by yourself. All you need to know is how any particular 
+ type of chord is constructed. Let's go over the most basic 
+ ones. 
+
+ CHORD TYPE: 
+
+ COMPONENTS: 
+
+ MAJOR 
+
+ I III V 
+
+ MINOR 
+
+ I minor III V 
+ (a minor III is a half step below III) 
+
+ 7th 
+
+ I III V minor VII 
+ (a minor VII is a half step below VII) 
+
+ MAJOR 7th 
+
+ I III V VII 
+
+ MINOR 7th 
+
+ I minor III V minor VII 
+
+ SUSPENDED 
+
+ I IV V 
+
+ SUSPENDED 7th 
+
+ I IV V minor VII 
+
+ Okay, can we make an Ab minor chord? Well, let's consult 
+ our Ab scale again (for simplicity's sake I'm going to use 
+ the full scale with all the half steps): 
+
+ I 
+
+ II 
+
+ III 
+
+ IV 
+
+ V 
+
+ VI 
+
+ VII 
+
+ VIII 
+
+ Ab 
+
+ A 
+
+ Bb 
+
+ B 
+
+ C 
+
+ Db 
+
+ D 
+
+ Eb 
+
+ E 
+
+ F 
+
+ Gb 
+
+ G 
+
+ Ab 
+
+ So you can see that an Ab minor chord would consist of Ab 
+ (I), B (minor III) and Eb (V). 
+ Now, even if you'd never played a particular chord before, 
+ you should be able to figure it out pretty handily. Let's 
+ try a D minor 7th, okay? First, we construct our D scale. 
+ From this we'll see that for this chord we'll need D (I), 
+ F (minor III), A (V) and C (minor VII). D is sounded with, 
+ of all things, the open D string. Covering the second fret 
+ of the G string will give us the A note and if we place a 
+ finger on the first fret of the high E and B strings, then 
+ we'll have the F and C as well. Ta da! 
+
+ E A D G B E 
+
+ X 0 0 2 1 1 
+
+ One last bit of advice: write things out! It really helps 
+ your thought process when you set stuff out on paper, one 
+ step at a time. As you get more proficient with practice, 
+ you'll find it gets easier every time. Using this system will 
+ also help you when you start transposing and wait 'til you 
+ see how your knowledge of chord formation removes a lot of 
+ the mystique of alternate tunings. We'll also be delving into 
+ "chord theory" to see how most song writing falls 
+ into fairly easily recognized patterns. We've got a lot of 
+ fun ahead of us! 
+ Please feel free to bookmark this lesson for easy reference 
+ for your own lessons. If you have any questions, just send 
+ me a line or drop in at the Guitar Forum and get great feedback 
+ from your fellow guitarists. The Online Guitar College offers 
+ numerous links to quite a few web sites that deal with music 
+ theory at all levels. Take the time to explore these and all 
+ the other tips, lessons and discussions that are here for 
+ your education and enjoyment. 
+ David Hodge 1999-11-22 
+ Previous 
+ article in this series "The Underappreciated Art of using 
+ a Capo" 
+ Next article in this series 
+ "Open Tuning Part 1" 
+
+ Back to top 
+
+ Copyright &copy; 2002 Guitar Noise. All 
+ rights reserved. Site Map. Masterlist. 
+ Privacy Statement. 
+ Contact Us.

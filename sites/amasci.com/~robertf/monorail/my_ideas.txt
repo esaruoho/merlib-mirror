@@ -1,0 +1,158 @@
+My Ideas for Monorail System Design 
+
+ My Ideas for Monorail System Design 
+
+Here I put forward some of my ideas for good design of the new Seattle 
+monorail system.
+
+ The Fleming Family home page 
+
+ Mass transit home page 
+
+ The Seattle Monorail Project 
+
+ Green Line travel times and distances 
+
+ Jump Start Blue Line (Get to Shoreline Faster) 
+
+ A table comparing light rail and monorail 
+
+ Link Monorail (not light rail) 
+
+ Arguments against monorail and my responses 
+
+ My opinions regarding priorities 
+
+ My ideas for routes 
+
+ (PRT) Personal Rapid Transit 
+
+ Vocabulary 
+
+ Frequently asked questions 
+
+ Links to other monorail sites 
+
+ Contact me 
+
+ ROUTING: I strongly believe that the primary purpose of 
+the monorail system should be to provide high-speed transportation over 
+fairly long distances. With that in mind, the routes should be as short and 
+direct as possible. But, in order to serve as many people as possible, the 
+routes should be planned so that the locations of the stations will attract 
+as many riders as possible. Such locations include:
+
+ Large schools, including high schools, colleges, and universities
+ Major shopping areas
+ Venues of major events
+ Major tourist attractions
+ High-density residential areas in which many of the people don't 
+ drive or prefer not to drive
+ Business and commercial areas with serious parking problems
+ Major transfer points to connect with other transportation
+
+So, on one hand, there should be an effort to plan the routes to serve as 
+many people as possible, and on the other hand to have the route as straight 
+and direct as possible. The goal is to strike a balance between the two 
+objectives. The more the route is twisted one way or another to connect 
+areas to serve, the less direct it becomes and defeats the major objective 
+of high-speed service over a longer distance. It will be necessary to 
+reject some promising service areas in order to provide the high-speed 
+service. There is also the possibility of using 
+ PRT (Personal Rapid Transit) to interconnect the 
+monorail with destinations near the monorail stations.
+
+ ALIGNMENT: I believe that as much as possible the monorail should 
+be routed along streets that have two-way left-turn lanes, with the 
+ pylons 
+placed in the left-turn lanes. Many of the main streets in the Seattle 
+area have two-way left-turn lanes down the middle, designated for use 
+(carefully) by drivers travelling either direction to move into the two-way 
+left-turn lane to make left turns into driveways and parking lots. The main 
+advantages of using two-way left-turn lanes for placing the monorail 
+ pylons 
+are that it does not require loss of any adjacent homes or businesses 
+because the street does not have to be widened, and 
+it eliminates the cost of purchasing real estate, greatly reducing the cost 
+per mile and permitting a longer line for the same cost.
+
+The two-way left-turn lanes already provide a more-or-less continuous strip 
+down the middle of the street that separates the traffic moving in opposite 
+directions. The pylons that support the 
+monorail can be placed in the two-way left-turn lanes without interfering 
+with through traffic. The pylons would 
+tend to interfere with some vehicles turning left. However, by careful 
+planning, the pylons can be placed in 
+positions that do not interfere with vehicles turning left into driveways 
+and parking lots, except perhaps in a few cases where there are too many 
+driveways or parking lot entrances too close together. 
+
+Usually at intersecting streets the two-way left-turn lanes give way to 
+regular one-way left turn lanes dedicated to traffic turning left onto the 
+intersecting street. At these locations the 
+ pylons should not be placed in the left turn 
+lanes. If the left turn lanes are short and the intersecting street is 
+narrow, it may be possible to place the 
+ pylons just beyond the ends of the 
+left-turn lanes and still have a short enough spacing between the 
+ pylons to support the monorail beams. 
+If the left-turn lanes are too long and/or the intersection too wide, so 
+that the pylons would be too far apart to 
+support the monorail beams, then we have a situation the same as the 
+condition where there is no two-way left-turn lane, covered below.
+
+ STREETS WITH NO TWO-WAY LEFT-TURN LANE: If the monorail uses a 
+street that has no two-way left-turn lane, then the options include widening 
+the street about two feet (about 70 cm) on each side (or four feet on one 
+side) in order to create a strip down the center to accomodate the monorail 
+ pylons , use straddle bents , beams 
+that straddle the street to support the monorail beams. It may also be 
+possible to create a 4- or 5-foot wide median between opposing directions of 
+traffic to permit placement of pylons alongside the left turn lane.
+
+ ROUTING NOT FOLLOWING STREETS: In some cases the routing of the 
+monorail may require it to deviate from public roadways. I think that in 
+these cases an effort should be made to utilize, as much as possible, public 
+land such as parks, school property, etc. Use of such lands poses the risk 
+of interfering with use of the property, but I think that in most cases the 
+interference can be minimized by careful placement of the monorail along the 
+periphery of the property or through areas where the monorail would not have 
+a significant impact. Keep in mind that only the pylons would take up space 
+on the ground. The guideway would be up in the air and there would still be 
+space underneath for activities.
+
+ DESIGN OF THE PYLONS AND BEAMS: I 
+am in favor of using a design that is physically and electrically compatible 
+with the existing Seattle Center Monorail, so that the existing monorail 
+beamway and trains can be incorporated into the new system. By 
+&ldquo;physically compatible&rdquo; I mean that the parts of the beam 
+contacted by the monorail tires be the same as the existing beam so that the 
+existing train will fit on the new beams, and the new trains will fit on the 
+existing beams. Also the electrical contact wires would have to be the same 
+relative position on the beam. Otherwise the design of the 
+ pylons and beams could be different in 
+order to take advantage of new technologies and design criteria, such as 
+appearance. Likewise the new trains could also be designed to use newer 
+technology and appearance criteria so long as the relative position of the 
+wheels and electrical contacts are the same as on the existing trains.
+
+By &ldquo;electrical compatibility&rdquo; I mean that the electrical voltage, 
+and whether it is alternating or direct current, be the same as that used 
+by the existing system.
+
+ THE TRAINS: I think that the trains for the new monorail should be 
+about the same size as the Alweg trains on the Seattle Center Monorail. 
+To me the monorail takes the place of subway or light rail trains in other 
+cities, and should have similar capacity. I also think that the trains 
+should have good seating for good views out the windows and avoid the need 
+for passengers to stand except during rush hours or for major events such 
+as ball games or concerts.
+ Click here for details about my ideas on trains .
+
+ Return to my Monorail home page 
+ Return to the Fleming Family home page 
+
+ Contact me 
+
+ &COPY;2002 Robert M. Fleming Jr. 
+ This page was last updated 4 October 2004.

@@ -1,0 +1,552 @@
+---
+title: "Pull 13 -- Autumn Leaf Festival Pull"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/9899/Pull13.html
+order: 7471
+reachable_from_entry: false
+images: 0
+internal_links: 7
+extracted: 2026-08-07T06:00:06Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 13 -- Autumn Leaf Festival Pull
+
+*Source page: `~samoyed/iwpa/9899/Pull13.html`*
+
+Autumn Leaf Festival Pull\
+Leavenworth, Washington
+==========================
+
+Pull: 13
+
+Organizer(s): Jeff & Carole Parsons
+
+Wheels Region: 2
+
+Carpet
+
+Track: Very slight uphill
+
+Date: 10/4/98
+
+Weather:
+
+50 - 60 F and sunny -- no wind
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Soapy
+
+2
+
+685
+
+5.94
+
+78
+
+8.78
+
+6.0
+
+Susie Malcolm
+
+Alaskan Malamute
+
+Venture
+
+2
+
+415
+
+11.24
+
+68
+
+6.10
+
+3.0
+
+Robert Daymude
+
+Alaskan Malamute
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Tim
+
+2
+
+1675
+
+51.15
+
+91
+
+18.41
+
+11.0
+
+Susie Malcolm
+
+Alaskan Malamute
+
+Breezy
+
+2
+
+1540
+
+8.95
+
+96
+
+16.04
+
+8.0
+
+Susie Malcolm
+
+Alaskan Malamute
+
+Jackie
+
+2
+
+1270
+
+12.44
+
+99
+
+12.83
+
+5.0
+
+Jeff Parsons
+
+Alaskan Malamute
+
+Shiloh
+
+2
+
+1135
+
+21.69
+
+93
+
+12.20
+
+3.0
+
+Carole Parsons
+
+Alaskan Malamute
+
+Yogi
+
+2
+
+1135
+
+23.26
+
+93
+
+12.20
+
+2.0
+
+David LaFountaine
+
+Alaskan Malamute
+
+Rex
+
+P
+
+1000
+
+42.16
+
+97
+
+10.31
+
+.
+
+Sarah LaFountaine
+
+Alaskan Malamute
+
+Chena
+
+2
+
+865
+
+8.15
+
+83
+
+10.42
+
+0.5
+
+Donna Daymude
+
+Alaskan Malamute
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Bandit
+
+2
+
+1990
+
+16.20
+
+115
+
+17.30
+
+11.0
+
+Jack Scofield
+
+Alaskan Malamute
+
+Koluk
+
+2
+
+1810
+
+55.11
+
+106
+
+17.08
+
+8.0
+
+Devin Crouch
+
+Alaskan Malamute
+
+Bozz
+
+2
+
+1270
+
+37.43
+
+105
+
+12.10
+
+5.0
+
+Ryan Wood
+
+Alaskan Malamute
+
+Kane
+
+2
+
+1090
+
+6.64
+
+120
+
+9.08
+
+3.0
+
+Matthew Dunham
+
+Alaskan Malamute
+
+Tacoma
+
+10
+
+1090
+
+33.24
+
+115
+
+9.48
+
+2.0
+
+James Galli
+
+Alaskan Malamute
+
+Steele
+
+P
+
+910
+
+66.58
+
+110
+
+8.27
+
+.
+
+Tim McElravy
+
+Alaskan Malamute
+
+Juneau
+
+P
+
+550
+
+23.55
+
+108
+
+5.09
+
+.
+
+Steve Gentry
+
+Alaskan Malamute
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Barracuda
+
+2
+
+2395
+
+39.80
+
+128
+
+18.71
+
+12.0
+
+Ryan Wood
+
+Alaskan Malamute
+
+Cobra
+
+2
+
+2170
+
+10.12
+
+145
+
+14.97
+
+9.0
+
+Nathan Sellers
+
+Alaskan Malamute
+
+Grizzly
+
+2
+
+2170
+
+13.33
+
+149
+
+14.56
+
+6.0
+
+Nathan Sellers
+
+Alaskan Malamute
+
+Quiz
+
+2
+
+1945
+
+22.50
+
+136
+
+14.30
+
+4.0
+
+Lia Greendale
+
+Saint Bernard
+
+Kodiak
+
+P
+
+1720
+
+54.80
+
+138
+
+12.46
+
+.
+
+James Charles
+
+Alaskan Malamute
+
+Dudley
+
+2
+
+1495
+
+38.85
+
+146
+
+10.24
+
+2.0
+
+Lia Greendale
+
+Saint Bernard
+
+Hennessy
+
+2
+
+1270
+
+6.67
+
+124
+
+10.24
+
+1.0
+
+Raymond Slish
+
+Saint Bernard
+
+Cedric
+
+2
+
+No Pull
+
+127
+
+.
+
+0.0
+
+Paul Goon
+
+Alaskan Malamute
+
+Last Updated: 17:00:39 on 12-14-1998
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](%20%20%20%20%20%20%20%20%20%20Pull12.html%20%20%20) | [Next Pull \#](%20%20%20%20%20%20%20%20%20%20Pull14.html%20%20%20) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

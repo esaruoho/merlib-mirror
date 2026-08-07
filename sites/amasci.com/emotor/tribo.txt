@@ -1,0 +1,95 @@
+                                             - William Beaty, 1995
+
+When various materials are rubbed together, which become positive
+and which become negative?  Ah, you want the...
+
+          TRIBOELECTRIC SERIES
+
+Air *
+Human Hands      <----        Most Positive
+Asbestos
+Rabbit Fur
+Glass
+Mica
+Human Hair
+Nylon
+Wool
+Fur
+Lead
+Silk
+Aluminum
+Paper
+Cotton           ZERO
+Steel
+Wood
+Amber
+Sealing Wax
+Hard Rubber
+Nickel, Copper
+Brass, Silver
+Gold, Platinum
+Sulfur
+Acetate, Rayon
+Polyester
+Styrene (Styrofoam)
+Orlon
+Saran
+Polyurethane
+Polyethylene
+Polypropylene
+Vinyl (PVC)
+Silicon
+Teflon         <-----     Most Negative
+
+The above list is from NATURE'S ELECTRICITY, p63
+by Charles K Adams  (c)1987 Tab Books, #2769 
+
+
+* I don't know if I believe that "air" really is in this position.  
+  Electrification via airflow usually involves collisions with dust,
+  snow, or condensed water suspended in the air. - Bill B.
+
+WARNING: the order of the above list is different in different books.
+Polarities are dependant upon atomically-thin surface layers, so don't be
+suprised if your particular examples of a material are not in the right
+place should you make your own list.  It is best to choose two materials
+which are far apart on the list, then you can be fairly sure that their
+polarity will not be backwards from what you expect.
+
+Note: the term "frictional electrification" is misleading.  Separation of
+charges is not accomplished by friction.  Surface charge imbalance comes
+from the same place that friction does:  adhesion on the molecular level. 
+Surfaces stick together because chemical bonds form. When surfaces in
+contact are separated, the bonds rupture, and any asymmetrical bonds will
+tend to leave imbalanced charges behind.  Other effects are important too. 
+This subject is not very well studied in science.  Go search for info
+about surface charge, contact electrification, and Atomic Force
+Microscopes. 
+
+
+Since most materials are not flat enough or flexible enough to attain
+large-area contact, most materials don't become very strongly electrified
+when simply touched together then separated.  For example, when fur is
+used on plastic it helps greatly if you drag the filaments of hair across
+the plastic surface.  Among other things, it acts to increase the total
+contact area.  Some surfaces, such as adhesive tape or plastic sheets, CAN
+attain intimate contact over a large area, and DO exhibit strong charging
+when they are simply touched to another surface and pulled away. 
+
+This phenomenon is called "contact charging" or "electrification by
+contact,"  and it's better to use these terms and avoid giving the idea
+that the mechanism for the electrification is CAUSED by friction.  I also
+like to say that "surface charging is caused by peeling," since the
+scotchtape demo works so well, and because "peeling" always implies a
+preexisting intimate contact between surfaces.
+
+  Caveat: contact electrification is not well understood.  Friction DOES
+  play a part.  For example, the ordering of the triboelectric series is
+  different when surfaces are rubbed rather than simply touched.  The
+  order also changes when surfaces of differing roughness are rubbed
+  together, and IDENTICAL substances can even generate a charge-imbalance
+  if one surface is rough.  This is probably a major reason why different
+  references give different ordering of the series: the experiment must
+  guarantee that no rubbing occurs, otherwise results will vary from trial
+  to trial. 
+

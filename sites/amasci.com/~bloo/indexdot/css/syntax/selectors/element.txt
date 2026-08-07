@@ -1,0 +1,158 @@
+Element Selectors - Cascading Style Sheet Syntax 
+
+ Element Selectors 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ What Are They? 
+ These Selectors specify a portion of the document tree based
+ upon its context with relation to other elements.
+
+ Namespace Selector 
+ CSS3 | N6 
+ Description: 
+ This syntax allows distinct XML namespaces to be addressed in CSS
+ selectors. This capability will be important as the number of XML
+ dialects on the web increases in the future.
+ Syntaxes: 
+ 1: Referencing elements in a specific namespace 
+ &#160;&#160;&#160;&#160;[ NAMESPACE PREFIX ]|[ ELEMENT NAME ]
+ { [ Declaration Block ] } 
+ 2. Referencing elements in any namespace: 
+ &#160;&#160;&#160;&#160;*|[ ELEMENT NAME ]
+ { [ Declaration Block ] } 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Or, if no default namespace
+ is declared, it can just be written as: 
+ &#160;&#160;&#160;&#160;[ ELEMENT NAME ] { [ Declaration Block ] } 
+ 3. Referencing elements without any declared namespace: 
+ &#160;&#160;&#160;&#160;|[ ELEMENT NAME ]
+ { [ Declaration Block ] } 
+
+ Examples: 
+ 1: foo|book 
+ { color: red }
+ [matches all occurrences of the 'book' element in the 'foo' namespace] 
+ 2: *|book 
+ { color: red }
+ [matches all occurrences of the 'book' element in any namespace] 
+ 3: |book 
+ { color: red }
+ [matches all occurrences of the 'book' element with no namespaces declared] 
+
+ The Universal Selector 
+ CSS2 | IE5
+ | N6 | O4 
+ Description: 
+ This is a special type of selector used to match any element.
+ The Universal Selector may be omitted from a Simple Selector
+ if it is not the only component (eg: '*:first-line' is the
+ same as ':first-line'.) This type of selector allows for
+ powerful generalized structure matching in general languages
+ like XML where element names are not necessarily known ahead of
+ time to the style sheet.
+ Syntax: 
+ * 
+ { [ Declaration Block ] }
+ Example: 
+ *[foo] 
+ { color: red }
+ [matches all occurrences of the 'foo' attribute in the document] 
+
+ Simple Element Selector 
+ CSS1 | CSS2
+ | IE3 | N4
+ | O3.5 
+ Description: 
+ This Selector explicitly specifies the name of an element in
+ the document tree. All occurrences of the element name in the
+ document are matched.
+ Syntax: 
+ [Element Name] 
+ { [Declaration Block] }
+ Example: 
+ h2 
+ { font-size: 2em } 
+ [Matches all occurrences of the element named 'h2'. This would also match
+ elements named 'H2" in HTML, but not in XML] 
+
+ Descendent Selector 
+ CSS1 | CSS2
+ | IE3 | N4
+ | O3.5 
+ Description: 
+ Also known as a 'Contextual Selector' in CSS1. This selector allows
+ an element to be matched based upon its ancestry in the document tree.
+ The names of two elements are listed, separated by white-space. The
+ element on the left is the direct or indirect ancestor of the element
+ to the right, via an arbitrary nesting depth.
+ Syntax: 
+ [Element1] S+ [Element2] 
+ { [Declaration Block] }
+ Example: 
+ h3 em 
+ { font-weight: bold } 
+ [would match < h3 >hello < em >there</ em ></ h3 > and < h3 >hello
+ < b >< em >there</ em ></ b ></ h3 >] 
+
+ Child Selector 
+ CSS2 | N6
+ | O3.5 
+ Description: 
+ Unlike the generalized Descendent Selector, this Selector
+ only targets elements that have a direct Parent/Child relationship
+ in the document tree. The names of two elements are listed, separated
+ by a ">" symbol (white-space on either side of the ">" is
+ optional.) The element name on the left is the direct parent element
+ of the element to the right.
+ Syntax: 
+ [Element1] ">" [Element2] 
+ { [Declaration Block] }
+ Example: 
+ h3 > em 
+ { font-weight: bold } 
+ [would match < h3 >hello
+ < em >there</ em ></ h3 > but not < h3 >hello
+ < b >< em >there</ em ></ b ></ h3 >] 
+
+ Adjacent Selector 
+ CSS2 | N6
+ | O5 
+ Description: 
+ This Selector matches two elements who share the same direct parent
+ element in the document tree, AND exist next to each other in the
+ document tree. The names of two elements are listed, separated
+ by a "+" symbol (white-space on either side of the "+" is optional.)
+ Both elements share a common parent, and the element name on the
+ left directly precedes the element to the right in the document tree.
+ Syntax: 
+ [Element1] "+" [Element2] 
+ { [Declaration Block] }
+ Example: 
+ b + i 
+ { font-weight: bold } 
+ [would match < h3 >< b >hello</ b > there < i >world</ i ></ h3 > but not
+ < h3 >< b >hello</ b > < tt >there</ tt > < i >world</ i ></ h3 >] 
+
+ Browser Peculiarities 
+
+ Netscape 
+
+ 4.x+: 
+ - Applying style rules to explicit Descendent Selectors (CSS1:
+ contextual selectors) to elements with intrinsic sub-structure
+ (like lists and tables) fails (eg: 'UL LI UL' fails to apply
+ to the nested list, but 'ul ul' succeeds.)
+
+ Opera 
+
+ 3.5+: 
+ - If the parent element in a Descendent Selector (CSS1:
+ contextual selector) does not exist, the style rule will still
+ be applied to the child element indicated.
+
+ Boring Copyright Stuff....

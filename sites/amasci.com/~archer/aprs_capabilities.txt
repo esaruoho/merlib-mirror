@@ -1,0 +1,2719 @@
+Overview 
+ APRS Client Capabilities Chart 
+ Client Features Table 
+ Notes and Links 
+
+ Sheet 1: APRS Client Capabilities Chart 
+
+ 03/10/2005 07:02:06 
+
+ Please send updates to "archer at eskimo dot com" 
+
+ Sheet 2: Client Features Table 
+
+ FEATURES 
+ Alinco DR 135TP 
+ Ken wood D7(A)G 
+ Ken wood D700A 
+ AGW Tracker 
+ APRS +SA 
+ APRS Point 
+ APRS ce 
+ Aprs DOS 
+ Balloon Track 
+ D mapper 
+ Jav APRS 
+ Mac APRS 
+ Win APRS 
+ X APRS 
+ Ozi APRS 
+ APRS SCS 
+ Pocket APRS 
+ Radio Mobile 
+ Smart Palm 
+ UI Mess enger 
+ Ui View 16 
+ Ui View 32 
+ Xastir 
+
+ Price (US Dollars) 
+ 270 
+ 350 
+ 500 
+ 100 
+ 15 
+ 60 
+ 40 
+ 0 
+ 0 
+ 20 
+ 0 
+ 50 
+ 50 
+ ? 
+ 25 to 45 
+ 20 
+ 40 
+ 0 
+ 0 
+ 0 
+ Note23 
+ Note23 
+ 0 
+
+ Full functionality w/o registration 
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ Objects 
+
+ T/R20 
+ T/R20 
+
+ T/R 
+
+ T/R 
+
+ T/R 
+ T/R 
+ T/R 
+ R6 
+ T/R 
+
+ T/R 
+ T/R 
+ T/R 
+
+ Items 
+
+ T/R 
+
+ F 
+
+ R21 
+ R21 
+ T/R 
+
+ Mixed-Case Objects 
+
+ T/R 
+
+ T/R 
+
+ R6 
+ T/R 
+
+ T/R 
+ T/R 
+ T/R 
+
+ Mixed-Case Items 
+
+ T/R 
+
+ F 
+
+ R21 
+ R21 
+ T/R 
+
+ Base-91 Compressed Posits 
+
+ X 
+ X 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+ X 
+
+ F 
+
+ X 
+ X 
+ T/R 
+
+ Base-91 Compressed Objects/Items 
+
+ X 
+
+ F 
+
+ X 
+ X 
+ T/R 
+
+ Dead Reckoning: Stations 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+
+ Dead Reckoning: Objects/Items 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ F 
+
+ WX Parsed from Objects 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ Weather Alerts 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ F 
+
+ X1 
+ X1 
+ X 
+
+ Audible Weather Alerts 
+
+ X 
+
+ X 
+ X 
+
+ Finger WXSVR for full text of WX Alerts 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+
+ Shapefile WX Alerts 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ P3 
+ X 
+
+ X1 
+ X1 
+ X 
+
+ Shapefile Holes Implemented 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Proximity Alerts 
+
+ X 
+
+ X 
+
+ F 
+
+ X 
+ X 
+
+ Spoken Proximity Alerts 
+
+ X 
+
+ X19 
+ X 
+
+ Spoken Messages 
+
+ X22 
+
+ X 
+
+ X 
+
+ X 
+ X 
+
+ Spoken New Stations 
+
+ X 
+
+ X 
+
+ X 
+ X 
+
+ Interstate Mile Mark Positioning 
+
+ X 
+
+ F 
+
+ X 
+
+ Auto Satellite Tracking Objects 
+
+ X 
+
+ X8 
+
+ MORE FEATURES 
+ Alinco DR 135TP 
+ Ken wood D7(A)G 
+ Ken wood D700A 
+ AGW Tracker 
+ APRS +SA 
+ APRS Point 
+ APRS ce 
+ Aprs DOS 
+ Balloon Track 
+ D mapper 
+ Jav APRS 
+ Mac APRS 
+ Win APRS 
+ X APRS 
+ Ozi APRS 
+ APRS SCS 
+ Pocket APRS 
+ Radio Mobile 
+ Smart Palm 
+ UI Mess enger 
+ Ui View 16 
+ Ui View 32 
+ Xastir 
+
+ GPS Download Support 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+ X 
+ X 
+ F 
+
+ X 
+
+ $GPRMC 
+
+ X 
+
+ X 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+ X 
+ F 
+ X 
+
+ X 
+ X 
+ X 
+
+ $GPGGA 
+
+ X 
+
+ X 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+ X 
+ F 
+
+ X 
+ X 
+ X 
+
+ $GPGLL 
+
+ X 
+
+ X 
+
+ F 
+
+ $PGRMF 
+
+ X 
+
+ F 
+
+ $GPVTG 
+
+ X 
+
+ F 
+
+ $LCVTG (Loran) 
+
+ X 
+
+ $LCGLL (Loran) 
+
+ X 
+
+ X 
+
+ $LCBWC (Loran) 
+
+ X 
+
+ $GPNVP 
+
+ X 
+ X 
+ X 
+
+ Networked GPS 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ Plot positions on Garmin Map Screen 
+
+ X 
+ X 
+
+ X 
+
+ X 
+
+ F 
+
+ X 
+ X 
+
+ Garmin Rhino Position Inputs 
+
+ X 
+
+ X 
+
+ Gate RINO WP's -> APRS Objects 
+
+ X 
+
+ Create Maps from GPS Data 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ F 
+
+ X 
+
+ Create Maps from APRS Trails 
+ n/a 
+ n/a 
+ n/a 
+
+ F 
+
+ X 
+
+ UTM Display 
+
+ X 
+
+ X 
+ X 
+ X 
+ X 
+
+ X 
+
+ UTM Input 
+
+ X 
+
+ X 
+
+ X 
+
+ MGRS 
+
+ X 
+
+ Maidenhead Grid 
+
+ X 
+
+ X11 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ F 
+
+ X 
+ X 
+ X 
+
+ Decimal Degrees 
+
+ X 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ Decimal Minutes (APRS std) 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+ X 
+ X 
+
+ Deg/Min/Sec 
+
+ X 
+
+ X 
+ X 
+ X 
+ X 
+
+ X 
+
+ Convert Between Coordinates 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ X 
+
+ Movement alarm per station 
+
+ X 
+
+ X 
+
+ X 
+
+ X 
+
+ Scheduler for running other apps 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Tab Interface 
+ n/a 
+ n/a 
+ n/a 
+ X 
+
+ NETWORK STEWARDSHIP 
+ Alinco DR 135TP 
+ Ken wood D7(A)G 
+ Ken wood D700A 
+ AGW Tracker 
+ APRS +SA 
+ APRS Point 
+ APRS ce 
+ Aprs DOS 
+ Balloon Track 
+ D mapper 
+ Jav APRS 
+ Mac APRS 
+ Win APRS 
+ X APRS 
+ Ozi APRS 
+ APRS SCS 
+ Pocket APRS 
+ Radio Mobile 
+ Smart Palm 
+ UI Mess enger 
+ Ui View 16 
+ Ui View 32 
+ Xastir 
+
+ SmartBeaconing 
+
+ X 
+
+ F 
+ X 
+
+ X 
+ X 
+
+ Corner-Pegging 
+
+ F 
+
+ X 
+
+ Decaying Packet Periods 
+
+ X 
+
+ X 
+
+ X 
+
+ X 
+
+ Auto-Net Cycle Timing 
+
+ X 
+
+ X 
+
+ P 
+
+ Reply Ack's (piggyback) 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ F 
+
+ X 
+
+ Smart Ack'ing 
+
+ X 
+
+ X 
+
+ X 
+
+ Admonishes Bad Paths 
+
+ X 
+
+ X 
+
+ Prevents User Timing Abuse 
+
+ X 
+
+ P 
+
+ Displays Aloha Circle 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ F 
+
+ Displays Digi PHG's 
+
+ X 
+
+ X 
+
+ Auto HF Rates 
+
+ X 
+
+ Admonishes HF Digis 
+
+ 30s Igate Dupe Queue 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Settable Igate Delay 
+ n/a 
+ n/a 
+ n/a 
+
+ F 
+
+ SYMBOLS 
+ Alinco DR 135TP 
+ Ken wood D7(A)G 
+ Ken wood D700A 
+ AGW Tracker 
+ APRS +SA 
+ APRS Point 
+ APRS ce 
+ Aprs DOS 
+ Balloon Track 
+ D mapper 
+ Jav APRS 
+ Mac APRS 
+ Win APRS 
+ X APRS 
+ Ozi APRS 
+ APRS SCS 
+ Pocket APRS 
+ Radio Mobile 
+ Smart Palm 
+ UI Mess enger 
+ Ui View 16 
+ Ui View 32 
+ Xastir 
+
+ Symbol Type 
+ n/a 
+ n/a 
+ n/a 
+
+ Vector 
+
+ Icon 
+
+ All Overlays 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Azimuth Rotations 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ Heading Vector 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Logarithmic Vector Length 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Color Attributes 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ ICON Levels (ghosting) 
+ n/a 
+ n/a 
+ n/a 
+
+ ~7 
+
+ 2 
+
+ Area Objects 
+
+ T/R 
+
+ P4 
+ P4 
+ P4 
+
+ F 
+
+ X 
+ T/R 
+
+ Mouse over symbol shows detail info 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+
+ X 
+ Menu 
+
+ WX Values 
+
+ X 
+
+ X 
+
+ Wind Barbs 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ F 
+
+ X 
+ X 
+ X 
+
+ PHG Circles 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ Severe Storm Radii 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ F 
+
+ X 
+
+ Weather Bounding Boxes 
+ n/a 
+ n/a 
+ n/a 
+
+ F 
+
+ X 
+ X 
+
+ SERVER/IGATE 
+ Alinco DR 135TP 
+ Ken wood D7(A)G 
+ Ken wood D700A 
+ AGW Tracker 
+ APRS +SA 
+ APRS Point 
+ APRS ce 
+ Aprs DOS 
+ Balloon Track 
+ D mapper 
+ Jav APRS 
+ Mac APRS 
+ Win APRS 
+ X APRS 
+ Ozi APRS 
+ APRS SCS 
+ Pocket APRS 
+ Radio Mobile 
+ Smart Palm 
+ UI Mess enger 
+ Ui View 16 
+ Ui View 32 
+ Xastir 
+
+ Connect to Network Server 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+ X 
+ X 
+
+ X 
+ X 
+ X 
+
+ Connect to Multiple Servers at once 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ Auto-rotate Servers on Disconnect 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ F 
+
+ X 
+
+ Igate to NET 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+
+ Igate to RF 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+
+ Igate NWS messages to RF 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+
+ Igate msg station's posits to RF 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+
+ Igate specific stations to RF 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+
+ Igate specific Objects to RF 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+
+ Igate specific Items to RF 
+ n/a 
+ n/a 
+ n/a 
+
+ F 
+
+ X 
+ X 
+
+ Igate specific stations by icon 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Igate by DEST callsign 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ No Igate if NOGATE or RFONLY seen 
+ n/a 
+ n/a 
+ n/a 
+
+ F 
+
+ X 
+ X 
+
+ Native Web Server 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+
+ X 
+
+ Database Server Connectivity 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ F 
+
+ Insertion ID (comma I) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+
+ Q-Construct TX 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ F 
+
+ Q-Contruct RX 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ F 
+
+ X 
+
+ Does NOT expand Mic-E (relay/igate) 
+
+ X 
+
+ X 
+
+ X 
+ X 
+
+ Provides local APRS server socket 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ X 
+ X 
+
+ Select igate path per object/station 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ DIRECTION FINDING 
+ Alinco DR 135TP 
+ Ken wood D7(A)G 
+ Ken wood D700A 
+ AGW Tracker 
+ APRS +SA 
+ APRS Point 
+ APRS ce 
+ Aprs DOS 
+ Balloon Track 
+ D mapper 
+ Jav APRS 
+ Mac APRS 
+ Win APRS 
+ X APRS 
+ Ozi APRS 
+ APRS SCS 
+ Pocket APRS 
+ Radio Mobile 
+ Smart Palm 
+ UI Mess enger 
+ Ui View 16 
+ Ui View 32 
+ Xastir 
+
+ Omni-DF 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ P 
+ P 
+ P 
+
+ F 
+
+ X 
+
+ Fade-Circle DF 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ F 
+
+ F 
+
+ Beam-Heading DF 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ F 
+
+ X 
+ X 
+
+ Support for RDF Equipment 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ F 
+
+ F 
+
+ Variable Bearing Line Length 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ F 
+
+ Bearing Line Quality 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ COMMUNICATIONS PROTOCOL 
+ Alinco DR 135TP 
+ Ken wood D7(A)G 
+ Ken wood D700A 
+ AGW Tracker 
+ APRS +SA 
+ APRS Point 
+ APRS ce 
+ Aprs DOS 
+ Balloon Track 
+ D mapper 
+ Jav APRS 
+ Mac APRS 
+ Win APRS 
+ X APRS 
+ Ozi APRS 
+ APRS SCS 
+ Pocket APRS 
+ Radio Mobile 
+ Smart Palm 
+ UI Mess enger 
+ Ui View 16 
+ Ui View 32 
+ Xastir 
+
+ Bidirectional Messaging 
+
+ X 
+ X 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+ X 
+
+ X 
+ X 
+ X 
+
+ Shows msg capable stations 
+
+ X 
+
+ X 
+
+ Shows live operators 
+
+ X 
+
+ Messaging Auto-Answer 
+
+ X 
+
+ X 
+
+ X 
+
+ F 
+
+ X 
+ X 
+
+ NTS Messaging 
+
+ X 
+
+ X5 
+ X5 
+ X5 
+
+ F 
+
+ F 
+
+ ALT-NET Support 
+
+ X 
+
+ X 
+
+ X 
+
+ P 
+
+ Telemetry 
+
+ RX 
+
+ X 
+
+ F 
+
+ X 
+
+ RELAY Digipeat 
+ NO! 
+
+ X 
+
+ X9 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+ X 
+
+ X 
+ X 
+ X 
+
+ RELAY Digi Support by Default 
+
+ X12 
+
+ X 
+
+ WIDEn-N Digi 
+
+ X 
+
+ X 
+
+ TRACEn-N Digi 
+
+ X 
+
+ X 
+
+ Tactical Local Wide 
+
+ X 
+
+ X 
+
+ Tactical Digi ALL 
+
+ X 
+
+ X 
+
+ Alias Substitution 
+
+ X 
+
+ X13 
+
+ X 
+
+ X 
+ X 
+
+ Unlimited Aliases 
+
+ X 
+
+ X 
+
+ Restrict Digi to UI Frames 
+
+ X 
+
+ X 
+
+ X 
+
+ Global Digi Enable/Disable 
+
+ X 
+
+ X 
+
+ X 
+
+ Per-Interface Digi Enable/Disable 
+
+ X 
+
+ ZIPLAN Support 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ F 
+
+ Tactical Callsigns 
+
+ X 
+
+ X 
+
+ X 
+
+ X 
+
+ Max Bulletins 
+
+ >35 
+
+ 35 
+
+ 10 
+
+ U 
+
+ U 
+
+ Display Bulletins 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ Create Bulletins 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+ F 
+
+ ActiveX Hooks 
+ n/a 
+ n/a 
+ n/a 
+
+ n/a 
+ n/a 
+
+ n/a 
+
+ n/a 
+
+ n/a 
+
+ n/a 
+ n/a 
+
+ X 
+ n/a 
+
+ OpenTrac Protocol Decoding 
+
+ X 
+
+ TNC's 
+ Alinco DR 135TP 
+ Ken wood D7(A)G 
+ Ken wood D700A 
+ AGW Tracker 
+ APRS +SA 
+ APRS Point 
+ APRS ce 
+ Aprs DOS 
+ Balloon Track 
+ D mapper 
+ Jav APRS 
+ Mac APRS 
+ Win APRS 
+ X APRS 
+ Ozi APRS 
+ APRS SCS 
+ Pocket APRS 
+ Radio Mobile 
+ Smart Palm 
+ UI Mess enger 
+ Ui View 16 
+ Ui View 32 
+ Xastir 
+
+ AX.25 Kernel Networking 
+ n/a 
+ n/a 
+ n/a 
+
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+
+ n/a 
+ n/a/ 
+ n/a 
+
+ n/a 
+ n/a 
+ n/a 
+ n/a 
+ X 
+
+ AGWPE 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ n/a 
+
+ X 
+ X 
+ X 
+ X 
+ F 
+ n/a 
+
+ n/a 
+ n/a 
+ X 
+ X 
+ X 
+
+ Pico-Mode (Control-E) 
+
+ X 
+
+ X 
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ HSP 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ X 
+
+ F 
+
+ X 
+ X 
+ X 
+
+ Serial Command-Mode TNC 
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ KISS TNC 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+
+ WB5IPM Sound Card 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ OPERATING SYSTEMS 
+ Alinco DR 135TP 
+ Ken wood D7(A)G 
+ Ken wood D700A 
+ AGW Tracker 
+ APRS +SA 
+ APRS Point 
+ APRS ce 
+ Aprs DOS 
+ Balloon Track 
+ D mapper 
+ Jav APRS 
+ Mac APRS 
+ Win APRS 
+ X APRS 
+ Ozi APRS 
+ APRS SCS 
+ Pocket APRS 
+ Radio Mobile 
+ Smart Palm 
+ UI Mess enger 
+ Ui View 16 
+ Ui View 32 
+ Xastir 
+
+ DOS 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Windows 
+ n/a 
+ n/a 
+ n/a 
+ X 
+ X 
+ X 
+
+ X14 
+
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+
+ X 
+ X 
+ X18 
+
+ Mac OS <= 9 
+ n/a 
+ n/a 
+ n/a 
+
+ X15 
+ X15 
+
+ X15 
+
+ X 
+ X 
+ X15 
+
+ X15 
+
+ X15 
+ X15 
+
+ MacOS 10 (Mac OSX) 
+ n/a 
+ n/a 
+ n/a 
+
+ X15 
+ X15 
+
+ X15 
+
+ X 
+ X 
+ X15 
+ X 
+ X15 
+
+ X15 
+ X15 
+ X 
+
+ Linux 
+ n/a 
+ n/a 
+ n/a 
+
+ X17 
+ X17 
+
+ X10,17 
+
+ X 
+
+ X17 
+ X 
+ X17 
+
+ X16 
+
+ X16 
+
+ X17 
+ X17 
+ X 
+
+ Solaris 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ X 
+
+ FreeBSD 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X? 
+
+ X 
+
+ HP/UX 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ PalmOS 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ WinCE 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Cybiko 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ MAPPING 
+ Alinco DR 135TP 
+ Ken wood D7(A)G 
+ Ken wood D700A 
+ AGW Tracker 
+ APRS +SA 
+ APRS Point 
+ APRS ce 
+ Aprs DOS 
+ Balloon Track 
+ D mapper 
+ Jav APRS 
+ Mac APRS 
+ Win APRS 
+ X APRS 
+ Ozi APRS 
+ APRS SCS 
+ Pocket APRS 
+ Radio Mobile 
+ Smart Palm 
+ UI Mess enger 
+ Ui View 16 
+ Ui View 32 
+ Xastir 
+
+ Map image types 
+ n/a 
+ n/a 
+ n/a 
+
+ 5 
+ 4 
+ 4 
+ 9 
+
+ 0 
+
+ 110 
+
+ Total map types 
+ n/a 
+ n/a 
+ n/a 
+
+ 10 
+ 9 
+ 9 
+ 9 
+ 2 
+
+ 0 
+
+ 124 
+
+ Datums 
+ n/a 
+ n/a 
+ n/a 
+
+ >100 
+ 1 
+ 1 
+ 1 
+
+ 1 
+ 1 
+ 1 
+ 1 
+ >100 
+
+ 1 
+
+ 1 
+ 1 
+ 3 
+
+ Multiple Map Windows 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+ X 
+
+ Multiple Instances 
+ n/a 
+ n/a 
+ n/a 
+ X 
+
+ Multiple Map Stackup 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Overlay Maps 
+ n/a 
+ n/a 
+ n/a 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+ X 
+ X 
+
+ Map Intensity Adjustment 
+ n/a 
+ n/a 
+ n/a 
+ X 
+
+ X 
+
+ Handles Very Large Images 
+ n/a 
+ n/a 
+ n/a 
+ X 
+
+ X 
+
+ Shapefile Maps (non WX-alert) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ DRG geoTIFF Topo Maps (US) 
+ n/a 
+ n/a 
+ n/a 
+ X 
+
+ X 
+
+ X 
+ X 
+
+ Topo Map Contiguous View 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ DosAPRS Maps 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ WinAPRS Maps 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+ X 
+
+ PocketAPRS Maps 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X 
+
+ GNIS Maps (US) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Census Gazeteer 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+ X 
+
+ Image Maps 
+ n/a 
+ n/a 
+ n/a 
+ X 
+ P 
+
+ X 
+ X 
+ X 
+ X 
+
+ X 
+ X 
+ X 
+
+ Street Atlas (US) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ X 
+ X 
+
+ Precision Mapping (US) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+
+ Microsoft Streets (US) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Microsoft MapPoint (US) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ Online Tigermap Street Maps (US) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ Online Terraserver Satellite Images (US) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+
+ Online Terraserver Topo Maps (US) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+
+ Toporama (Canada) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ Online Toporama Maps (Canada) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Online Radar Maps (US) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+ X 
+
+ X 
+ X 
+
+ Online Image URL's as Maps 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ TIGER/Line Raw Map Data (US) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ 3D View Capability 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Igage AllTopo Maps (US) 
+ n/a 
+ n/a 
+ n/a 
+
+ X8 
+
+ X8 
+
+ X8 
+
+ Map Drag & Drop 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Maptech Maps (US) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Delorme Topo USA (US) 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ OziExplorer 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ ESRI ArcView 
+ n/a 
+ n/a 
+ n/a 
+
+ ? 
+
+ National Geographic TOPO! 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ USGS DLG 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ SDTS 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Mapinfo TAB/MID/MIF 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Microstation DGN 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ S57 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ LANGUAGES 
+ Alinco DR 135TP 
+ Ken wood D7(A)G 
+ Ken wood D700A 
+ AGW Tracker 
+ APRS +SA 
+ APRS Point 
+ APRS ce 
+ Aprs DOS 
+ Balloon Track 
+ D mapper 
+ Jav APRS 
+ Mac APRS 
+ Win APRS 
+ X APRS 
+ Ozi APRS 
+ APRS SCS 
+ Pocket APRS 
+ Radio Mobile 
+ Smart Palm 
+ UI Mess enger 
+ Ui View 16 
+ Ui View 32 
+ Xastir 
+
+ Dutch 
+
+ X 
+
+ X 
+
+ English 
+ X 
+ X 
+ X 
+
+ X 
+ X 
+ X 
+ X 
+ X 
+ X 
+ X 
+ X 
+ X 
+ X 
+ X 
+ X 
+ X 
+
+ X 
+ X 
+ X 
+ X 
+ X 
+
+ French 
+
+ X 
+
+ German 
+
+ X 
+
+ Italian 
+
+ X 
+
+ X 
+
+ Portuguese 
+
+ X 
+
+ Spanish 
+
+ X 
+
+ X 
+
+ WEATHER STATION SUPPORT 
+ Alinco DR 135TP 
+ Ken wood D7(A)G 
+ Ken wood D700A 
+ AGW Tracker 
+ APRS +SA 
+ APRS Point 
+ APRS ce 
+ Aprs DOS 
+ Balloon Track 
+ D mapper 
+ Jav APRS 
+ Mac APRS 
+ Win APRS 
+ X APRS 
+ Ozi APRS 
+ APRS SCS 
+ Pocket APRS 
+ Radio Mobile 
+ Smart Palm 
+ UI Mess enger 
+ Ui View 16 
+ Ui View 32 
+ Xastir 
+
+ Peet Bros. Ultimeter 2000 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X 
+
+ X2 
+ X2 
+ X 
+
+ Peet Bros. U-II 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X2 
+ X2 
+ X 
+
+ Peet Bros. 800 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Peet Bros. 500 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ Peet Bros. 100 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ WX-200/WM-918 
+ n/a 
+ n/a 
+ n/a 
+
+ X8 
+
+ X 
+ X 
+ X 
+
+ X2 
+ X2 
+ X 
+
+ WX-200/WM-918 Networked 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ WMR-918/WMR-968 Networked 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ Qualimetrics Q-Net 
+ n/a 
+ n/a 
+ n/a 
+
+ X2 
+ X2 
+ X 
+
+ One-Wire WX Networked 
+ n/a 
+ n/a 
+ n/a 
+
+ X8 
+
+ X 
+
+ Davis 
+ n/a 
+ n/a 
+ n/a 
+
+ X8 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ X2 
+ X2 
+ X 
+
+ Davis Vantage Pro 
+ n/a 
+ n/a 
+ n/a 
+
+ X8 
+
+ N 
+ N 
+ N 
+
+ X2 
+ X2 
+ X 
+
+ Heathkit/Questech ID-5001 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+ X 
+ X 
+
+ Texas Weather Station 
+ n/a 
+ n/a 
+ n/a 
+
+ X7 
+ X7 
+ X7 
+
+ Maximum WeatherMax 
+ n/a 
+ n/a 
+ n/a 
+
+ X8 
+
+ X 
+ X 
+ X 
+
+ Capricorn II 
+ n/a 
+ n/a 
+ n/a 
+
+ X7 
+ X7 
+ X7 
+
+ Weather Display Disk Files 
+ n/a 
+ n/a 
+ n/a 
+
+ X 
+
+ X 
+ X 
+ X 
+
+ Sheet 3: Notes and Links 
+
+ X = Supported 
+
+ P = Partial Support 
+
+ F = Future Support Planned 
+
+ N = Next Release Supports This 
+
+ U = Unlimited 
+
+ Note that pocketAPRS & APRSce run on limiited-resource machines. They should not be directly compared to the others. 
+
+ 1 = Using the UI-NWS add-on that is provided with the UI-View32 distribution 
+
+ 2 = Using weather output file of weather control program 
+
+ 3 = Displays Shapefile alerts on top of DOS/WINaprs maps only 
+
+ 4 = Capability is here, but sizes are incorrect? 
+
+ 5 = Send/Receives, but no way to save or print them? 
+
+ 6 = Display Only 
+
+ 7 = Untested Capability 
+
+ 8 = Supported via add-on program 
+
+ 9 = In KISS Mode and via KIPSS, free for the download 
+
+ 10 = Using DOSemu emulator (free) 
+
+ 11 = Up to 16 chars per Trimble extension 
+
+ 12 = Yes in KISS Mode 
+
+ 13 = Yes for RELAY alias 
+
+ 14 = Some versions of Windows supplying real DOS underneath 
+
+ 15 = Using Virtual PC emulator 
+
+ 16 = Using POSE emulator (free) 
+
+ 17 = Using VMWare emulator 
+
+ 18 = Using Cygwin emulator (free) 
+
+ 19 = Using VicinityAlarm add-on (free) 
+
+ 20 = Send object by changing MYCALL & making a one-time transmission 
+
+ 21 = Display as upper-case always 
+
+ 22 = Can speak or spell limited voice module words 
+
+ 23 = Donation to cancer treatment organization is appreciated 
+
+ Alinco 
+
+ Kenwood 
+
+ AGWTracker 
+
+ APRS+SA 
+
+ APRSPoint 
+
+ AprsCE 
+
+ AprsDOS 
+
+ BalloonTrack 
+
+ DMapper 
+
+ JavAPRS 
+
+ WinAPRS 
+
+ MacAPRS 
+
+ X-APRS 
+
+ OziAPRS 
+
+ APRS-SCS 
+
+ PocketAPRS 
+
+ Radio Mobile 
+
+ SmartPalm 
+
+ UI-Messenger 
+
+ UI-View 
+
+ Xastir

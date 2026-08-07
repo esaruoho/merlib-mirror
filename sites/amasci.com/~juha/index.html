@@ -1,0 +1,331 @@
+<html>
+<!-- Don't even hesitate to grab any of this code. It is all free :) -->
+<head>
+<title></title>
+<meta name="Description" content="Juha's Home Page">
+<meta name="Keywords" content="sauna, hockey, Finnish sauna, NHL, Jari Kurri, Finnish hockey players, virtual sauna, red baron, digital art">
+<meta name="Author" content="Juha">
+<meta name="Generator" content="AceHTML 4 Freeware">
+<meta name="robots" content="all / follow">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<base href="www.eskimo.com/~juha/"> 
+
+<!--
+<link rel="stylesheet" type="text/css"
+href="style1.css" />
+-->
+
+<script>
+
+/*Rollover effect on different image script-
+By JavaScript Kit (http://javascriptkit.com)
+Over 200+ free scripts here!
+*/
+
+function changeimage(towhat,url){
+if (document.images){
+document.images.targetimage.src=towhat.src
+gotolink=url
+}
+}
+function warp(){
+window.location=gotolink
+}
+
+</script>
+<script language="JavaScript1.1">
+var myimages=new Array()
+var gotolink="#"
+
+function preloadimages(){
+for (i=0;i<preloadimages.arguments.length;i++){
+myimages[i]=new Image()
+myimages[i].src=preloadimages.arguments[i]
+}
+}
+
+
+preloadimages("SEWER.jpg","FPA.jpg","KURRIJ.jpg","SAUNAP.jpg","VIRTUP.jpg")
+</script>
+
+<script LANGUAGE="JavaScript"><!--
+// Preload and play audio files with event handler (MouseOver sound)
+// designed by JavaScript Archive, (c)1999
+// Get more free javascripts at http://jsarchive.8m.com
+
+var aySound = new Array();
+// Below: source for sound files to be preloaded
+aySound[0] = "perkele.au";
+
+// DO NOT edit below this line
+document.write('<BGSOUND ID="auIEContainer">')
+IE = (navigator.appVersion.indexOf("MSIE")!=-1 && document.all)? 1:0;
+NS = (navigator.appName=="Netscape" && navigator.plugins["LiveAudio"])? 1:0;
+ver4 = IE||NS? 1:0;
+onload=auPreload;
+
+function auPreload() {
+if (!ver4) return;
+if (NS) auEmb = new Layer(0,window);
+else {
+Str = "<DIV ID='auEmb' STYLE='position:absolute;'></DIV>";
+document.body.insertAdjacentHTML("BeforeEnd",Str);
+}
+var Str = '';
+for (i=0;i<aySound.length;i++)
+Str += "<EMBED SRC='"+aySound[i]+"' AUTOSTART='FALSE' HIDDEN='TRUE'>"
+if (IE) auEmb.innerHTML = Str;
+else {
+auEmb.document.open();
+auEmb.document.write(Str);
+auEmb.document.close();
+}
+auCon = IE? document.all.auIEContainer:auEmb;
+auCon.control = auCtrl;
+}
+function auCtrl(whSound,play) {
+if (IE) this.src = play? aySound[whSound]:'';
+else eval("this.document.embeds[whSound]." + (play? "play()":"stop()"))
+}
+function playSound(whSound) { if (window.auCon) auCon.control(whSound,true); }
+function stopSound(whSound) { if (window.auCon) auCon.control(whSound,false); }
+//-->
+</script>
+
+<STYLE TYPE="text/css">
+<!--
+
+BODY{
+overflow:scroll;
+overflow-x:hidden;
+}
+
+.s1
+{
+  position  : absolute;
+  font-size : 10pt;
+  color     : blue;
+  visibility: hidden;
+}
+
+.s2
+{
+  position  : absolute;
+  font-size : 18pt;
+  color     : red;
+	visibility : hidden;
+}
+
+.s3
+{
+  position  : absolute;
+  font-size : 14pt;
+  color     : gold;
+	visibility : hidden;
+}
+
+.s4
+{
+  position  : absolute;
+  font-size : 12pt;
+  color     : lime;
+	visibility : hidden;
+}
+
+//-->
+</STYLE>
+
+</head>
+<body background="bgrounds/space3.gif">
+<style type="text/css">
+
+p {margin-left: 20px}
+p {margin-right: 20px}
+
+
+p.thick {font-weight:bold}
+p.sansserif {font-family: "sans-serif"}
+p {color:white; font-size: 15pt}
+img.top {vertical-align:text-top}
+
+a {  font-family: Arial, Helvetica, sans-serif; font-size: 15pt; color: green; text-decoration: none }
+a:link    { color: red }
+a:active  { color: blue; font-size: 100% }
+a:visited { color: red; font-size: 100% }
+a:hover   { color: yellow; font-size: 100% }
+
+BODY { 
+            scrollbar-base-color: #DAA520; 
+            scrollbar-track-color: "black"; 
+            scrollbar-face-color: "red";
+            scrollbar-highlight-color: #EFEFEF; 
+            scrollbar-3d-light-color: #000099; 
+            scrollbar-darkshadow-color: #ffffff; 
+            scrollbar-shadow-color: #000099; 
+            scrollbar-arrow-color: "black"; 
+           } 
+
+
+</style>
+
+<DIV ID="div1" CLASS="s1">*</DIV>
+<DIV ID="div2" CLASS="s2">*</DIV>
+<DIV ID="div3" CLASS="s3">*</DIV>
+<DIV ID="div4" CLASS="s4">*</DIV>
+
+
+<SCRIPT LANGUAGE="javascript" TYPE="text/javascript">
+
+/*
+Script by Mike McGrath- http://website.lineone.net/~mike_mcgrath
+Featured on JavaScript Kit (http://javascriptkit.com)
+For this and over 400+ free scripts, visit http://javascriptkit.com
+*/
+
+var nav = (document.layers);
+var tmr = null;
+var spd = 50;
+var x = 0;
+var x_offset = 5;
+var y = 0;
+var y_offset = 15;
+
+if(nav) document.captureEvents(Event.MOUSEMOVE);
+document.onmousemove = get_mouse; 
+
+function get_mouse(e)
+{    
+  x = (nav) ? e.pageX : event.clientX+document.body.scrollLeft;
+  y = (nav) ? e.pageY : event.clientY+document.body.scrollTop;
+  x += x_offset;
+  y += y_offset;
+  beam(1);     
+}
+
+function beam(n)
+{
+  if(n<5)
+  {
+    if(nav)
+    { 
+      eval("document.div"+n+".top="+y);
+      eval("document.div"+n+".left="+x);
+      eval("document.div"+n+".visibility='visible'");
+    }  
+    else
+    {
+      eval("div"+n+".style.top="+y);
+      eval("div"+n+".style.left="+x);
+      eval("div"+n+".style.visibility='visible'");
+    }
+    n++;
+    tmr=setTimeout("beam("+n+")",spd);
+  }
+  else
+  {
+     clearTimeout(tmr);
+     fade(4);
+  }   
+} 
+
+function fade(n)
+{
+  if(n>0) 
+  {
+    if(nav)eval("document.div"+n+".visibility='hidden'");
+    else eval("div"+n+".style.visibility='hidden'"); 
+    n--;
+    tmr=setTimeout("fade("+n+")",spd);
+  }
+  else clearTimeout(tmr);
+} 
+
+// -->
+</SCRIPT>
+
+<EMBED SRC="albatrossi.mid" HIDDEN="TRUE" LOOP="TRUE" AUTOSTART="TRUE"> 
+<NOEMBED> 
+<BGSOUND SRC="albatrossi.mid" LOOP="-1"> 
+</NOEMBED> 
+
+
+<p>
+<center><IMG SRC="kuva.gif">
+<table><tr><td>
+<p><img src="chickdance2.gif" border=0 width=60 height=50 align="top">
+<td><font color="white" size="4">
+Hello! I'm glad you landed on my page! 
+<br>
+Here is the stuff I have made so far. 
+</td></td></tr></table>
+<p><br><center>
+<table border="0" width="80%" cellspacing="0" cellpadding="0">
+  <tr><td width="57%">
+  <a href="javascript:warp()"><img src="BASE.jpg" name="targetimage" border=0></a></td>
+    <td width="40%" valign="top" align="left"><strong><font face="Arial"></font></strong><p><a href="artpage.html" onMouseover="changeimage(myimages[0],this.href)"><strong><font
+    face="Arial"><br>Sewer Art Gallery</font></strong></a></p>
+    <p><a onMouseover="changeimage(myimages[1],this.href)" href="fampict.html"><strong><font
+    face="Arial">Family Photo Album</font></strong></a></p>
+    <p><a href="kurri.html" onMouseover="changeimage(myimages[2],this.href)" href="kurri.html"><strong><font
+    face="Arial">Jari Kurri Fan Page</font></strong></a></p>
+    <p><a href="sauna.html" onMouseover="changeimage(myimages[3],this.href)" href="sauna.html"><strong><font
+    face="Arial">Finnish Sauna</font></strong></a></p>
+    <p><a onMouseover="changeimage(myimages[4],this.href)" href="http://home.attbi.com/~saunasisu/virtus.html"><strong><font
+    face="Arial">Virtual Sauna</font></strong></a></td>
+    <td width="85%" valign="top" align="left"><p align="left"><!--webbot bot="HTMLMarkup"
+    startspan -->
+
+<!--webbot bot="HTMLMarkup" endspan --></td>
+  </tr>
+</table>
+<p><p><br>
+</center>
+Want to hear a song from one of my favourite artists? You need a mp3 player to listen to the song. The singer/songwriter is Mikko Kuustonen and the song is called 
+<a href="mississippi.mp3">Mississippi</a>.   
+<p>
+<center>
+<img src="eyes02.gif" border=0 width=107 height=48 alt="I see you!">
+<p>
+<table border="3" bordercolorlight="#DBDB70" bordercolordark="#A69F37"><td>
+<img src="nice.gif" alt="I knew you wanted this animation you dirty dude! Go ahead and grab it and put it on your page :-)" border="0" width="130" height="85">
+</td></table><p>
+</center></center>
+Come and Fly with us on the www.won.net. It is a cool online community of great people. Download the Red Baron 2 Demo from 
+<a href="http://www.3dgamers.com/dl/games/redbaron2/redbaron2.zip.html">here</a> and have some fun shooting other pilots down! Well, they just might get you first, so watch your 6! My squad is the 
+<a href="http://www.arcticangels.org">
+rctic ngels</a>, and my handle is Kalakala. I am happy to give you some hints if you see me there! Salute!
+<p>
+<center>
+<img  alt="Kalakala looking for prey" src="SOTAKONE.jpg" onMouseOver="playSound(0)" onMouseOut="stopSound(0)"></A> 
+<p>
+</center>
+If you don't care about flying (shame on you!) then get this fun pool type of game called 
+<a href="http://www.verkkotie.com/nurkka/cgi-bin/download.cgi?Korona">Korona</a>. Nice Graphics too! 
+
+</center>
+<p>
+<hr width="600">
+<center>
+<p>
+Page created in January 1995 by
+<i>
+
+<!-- grab this email code below so robots can't get your email addy 
+and send you all kinds of garbage email :) --> 
+
+<SCRIPT TYPE="text/javascript">
+  emailE=('juha@' + 'eskimo.com')	
+  document.write(
+    '<A href="mailto:' + emailE + '">' + emailE + '</a>'
+  )
+</SCRIPT>
+</i>
+<br>Last Update: April 27, 2002<p>
+<img src="http://www.eskimo.com/~juha/cntrstrik.gif" border=0 width=76 height=24 alt="Sorry! Counter on Strike :-(">
+</center>
+<p><p></font>
+
+
+</center>
+</body>
+</html>

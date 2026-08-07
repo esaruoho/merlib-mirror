@@ -1,0 +1,35 @@
+Index DOT Html and Index DOT Css: THE Advanced HTML/CSS References 
+
+ Index&#160;DOT&#160;Css 
+ Index&#160;DOT&#160;Html 
+ THE &#160;Advanced&#160;HTML/CSS&#160;Resources 
+
+ Author: Brian Wilson 
+ [ indexdot@blooberry.com ] 
+ Last Updated: Nov 15, 2000 
+
+ &#160;&#160; Mirrors... &#160;|&#160; Downloads... 
+
+ &#160;&#160;&#160; 
+
+ &#160;&#160;&#160;&#160;Welcome to the last technical resource on
+ HTML and CSS you may ever need. These sites attempt to collect as much
+ information as possible in one location about the HTML and CSS languages,
+ the popular browsers that support them, and the histories behind each.
+ The site evolves along with the specifications
+ and browsers that it documents - it began 
+ as a simple reference on the HTML language, but its
+ purpose has grown as the languages and
+ browsers it covers have evolved in popularity and complexity.
+
+ &#160;&#160;&#160;&#160;The site aims to be a practical
+ reference resource for authors, concentrating on features that
+ have been implemented in currently popular web browsers. Those
+ features not in wide use will not often be of as great a concern
+ to an author. This resource tries not to be judgmental about
+ the use of various language constructs - most have their positive
+ AND negative sides. Presenting the language's factual
+ and historical information in a (hopefully) neutral manner
+ should make an author's choice of features and capabilities a
+ more informed one. YOU , the author, must decide what
+ features will work best for a given situation.

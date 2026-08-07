@@ -1,0 +1,95 @@
+Doom CE! 
+
+ - DOOM CE - 
+
+ June 14, 1999 - Release 2. 
+ Fixed end of level crashing bug, text display problems. Should run on more machines
+ but doesn't. Generally a lot more stable. The regular download links below
+ always have the latest version. 
+ June 9, 1999 - Release 1. 
+
+ Price: FREE 
+ Donations Welcome 
+
+ You must have 4 mb of free storage space, 2.5 mb of available program memory and
+ Windows CE version 2.0 or later. 
+ Download: Doom1.zip , unzip
+ it, and place the doom1.wad file in the "My Documents" folder on your CE machine
+ (internal or storage card). You can also download the unzipped file here but some browsers corrupt the file. 
+ Download the correct program file for your machine. If you don't know if
+ you have a MIPS or an SH3 machine click here .
+ This software is provided AS-IS and is not offered as a product or piece of
+ merchandise in anyway. It has no warranty or guarantee. Use at your own risk.
+ Really. By downloading it you agree to this. 
+
+ Here's the latest build (3). More stable, more machines
+ supported and with sound! Jornada 680 and HP 620lx work now. I will be out of town
+ for the 4th of July weekend and I don't have time to fully test it before I leave. 
+ The earlier version is still available for this reason. 
+
+ LATEST: 
+
+ DoomCE for MIPS machines. 
+
+ DoomCE for SH3 machines. 
+
+ PREVIOUS: 
+
+ DoomCE for MIPS machines. 
+
+ DoomCE for SH3 machines. 
+
+ If you have a Palm-sized PC, you will need to place the DoomCE.exe file
+ somewhere in the \Windows\Start Menu directory on your CE machine. 
+ Run the program on the CE machine. 
+ Press "Esc" or the exit button to bring up the menu. You can
+ only play the 1st Episode 'Knee-Deep in the Dead'. 
+ On Palm-size PC's you have to tap (or press) on the screen to fire or open a
+ door. The buttons on the machine are used to move forwards and backwards, and the
+ rocker switch is used to move left and right. 
+ On HPC's you can use the arrow keys to move, control to fire and space bar to
+ open doors. Most of the normal Doom keys work also. 
+
+ We all like free software, but until there's free rent, I
+ need your money. Donations are always welcome and help defray the costs involved in
+ developing software that is given away without charge. If you have a special request
+ or want a particular bug fixed, you are encouraged to use the 'comment' field when making
+ a donation (hint, hint). 
+
+ Click here to begin the process of
+making a donation with your credit card. 
+
+ Or check out PalmGB , your one-way
+ ticket to big-time gaming fun! 
+
+ Here is a list of known issues and bugs. I don't need
+ additional bug reports at this time, thanks! 
+
+ It runs differently on different machines. Some machines
+ are fast and fun, some are slow and unplayable, some don't work at all. 
+
+ Reset your machine if performance is particularly bad or uneven. 
+
+ You can use other .wad files. This is untested. 
+ Versions of CE before 2.11 (PsPC's and HPC Pros) do not support files larger than 4 mb in
+ size. The wad file has to be named "Doom1.wad" at this time. 
+
+ Some of the menu options work, some don't. Resizing the
+ screen works and this is a good way to increase performance on slow machines. 
+
+ Doom is a registered trademark of Id Software. They have
+ no affiliation with this product so don't you dare bug them about it. 
+
+ Please don't email me unless you've read all the info on this
+ page and you have thought through what you are mailing about. All email is read but
+ I can't answer it all. 
+
+ This version is based on the original Linux source release from
+ Id Software, not Bruce Lewis's CE source port. 
+
+ Cassiopeia E-10 (4 level greyscale). 
+Played with device on it's side which makes the controls much easier. 
+
+ Portions of Doom CE are Copyright (C) 1999 by Hayes Haugen, all
+ rights reserved. Other portions Copyright Id Software. Doom is a registered
+ trademark of Id Software.

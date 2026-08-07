@@ -1,0 +1,69 @@
+Whats New at Index DOT Html and Index DOT Css 
+
+ What's New at Index DOT Html/Css 
+ = Index DOT Html/Css by 
+ Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML Support
+ History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Last Archive Date: 
+ Index DOT Html: Oct 1, 2003 
+ Index DOT Css: Oct 1, 2003 
+
+ Welcome! 
+ Welcome to Index DOT Html and Index DOT Css - technical references about
+ the HTML and CSS languages.
+
+ What's new in this version 
+
+ Updated the general attribute section of the site
+ Updated the browser histories to reflect the recent upheaval
+
+ Other recent changes 
+
+ The HTML half of the site has been updated for XHTML 1 and 1.1, as well as 
+ the newest browsers
+ The CSS half of the site has been updated for the newest browsers. (I 
+ contemplated adding CSS 2.1 to the support information, but it is not 
+ mature enough yet.)
+ All browser histories have been updated, including a new skeleton history
+ for Mac IE (I need to do a lot of research here to fill in this history
+ page so that will have to wait.)
+ All HTML/CSS specification history pages have been updated
+ The main indexes have received a significant facelift: 
+ added a site search capability via Google's sitesearch; 
+ The new toolbar at the top makes some of the functions much more prominent;
+ Sidebar on the right side has been created to allow me to communicate 
+ "breaking news" more easily. 
+ Style sheet changing mechanism should be less visually annoying to most 
+ users when it applies its effects, and now works in Mozilla too.
+ Added a bunch of resources to the "Chat" button, including many helpful
+ external discussion sites, newsgroups and mailing lists.
+ Cleared some of my huge email backlog of things to add to the site. I 
+ still have a long way to go on this.
+
+ Future plans for the site 
+ Here is my current to-do list: 
+
+ Support for Bidi has been added in Opera - I need to change the support charts to reflect 
+ this.
+ Bring more contributing authors into the mix so that this site does
+ not consume so much of my life. 8-}
+ Create test files for every browser "peculiarity" assertion I list, 
+ so that I can check them more easily with each new browser version.
+ [The HTML code creator javascript 
+ page has been useful in my global testing, but I need to document the 
+ browser errata in a much more formal way that can be documented.
+ Wrap up all the email issues regarding information to add to the 
+ site that I have still pending.
+ Write a few CSS articles on topics I have wanted to cover for a very long time.
+
+- Brian, 
+ October 1, 2003

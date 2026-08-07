@@ -1,0 +1,79 @@
+---
+title: "Chris's Bio-Web"
+source_domain: amasci.com
+source_path: ~cmkinc/bio/index.htm
+order: 2002
+reachable_from_entry: false
+images: 2
+internal_links: 4
+extracted: 2026-08-07T05:55:42Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Chris's Bio-Web
+
+*Source page: `~cmkinc/bio/index.htm`*
+
+<img src="../graphics/biomain.gif" data-hspace="10" width="910" height="75" />
+
+<table data-border="0" width="700">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr data-valign="TOP">
+<td style="text-align: left;" width="125" data-valign="top"><strong><a href="resume.htm">My Rsum</a><br />
+<a href="pic.htm">Picture Page</a><br />
+<a href="../uncensored/index.htm">Uncensored!</a><br />
+<br />
+<a href="../index.htm">HOME</a></strong></td>
+<td width="575" data-valign="top"><strong>You <em>must</em> be bored!!!</strong>
+<p>Who is this man named Chris? What's he all about? From whence came he? This is the place to be for finding out the answers to those questions, and more.</p>
+<table data-border="0" width="100%" data-cellpadding="3" data-cellspacing="4">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;" width="100" data-valign="top"><a href="pic.htm"><img src="../graphics/chris2.jpg" data-border="1" width="95" height="115" alt="chris2.jpg (9052 bytes)" /></a></td>
+<td style="text-align: left;" width="450" data-valign="top"><em>Vital Signs</em><br />
+&#10;<p><strong>Age:</strong> 33 years<br />
+<strong>Born:</strong> January 30, 1967 in Bremerton, Washington<br />
+<strong>Sex:</strong> Male<br />
+<strong>Height:</strong> 5'10"<br />
+<strong>Weight:</strong> ~185 lbs.<br />
+<strong>Hair:</strong> Brown<br />
+<strong>Eyes:</strong> Steel blue<br />
+</p></td>
+</tr>
+</tbody>
+</table>
+<p>I don't remember a whole lot from my childhood except that I was always rather nerdy and frail. I did quite well in elementary school, though never quite <em>good enough</em> for the "gifted children" classes. To this day I'm rather opinionated about how such programs pigeonhole kids early on, creating an artificial stigma of inferiority that follows them throughout the rest of their school days. And sometimes beyond.</p>
+<p>My favorite teacher in high school was one Ms. Shirley Blaisdell. She taught English and Compostion, but they were the classes for the <em>normal kids</em> -  the ones who hadn't made the gifted-child cut back in 2nd grade. Nevertheless, she found ways to stimulate and challenge my creativity and writing skills, and semester after semester I would rush to take whatever class she was teaching. I made many friends in Ms. Blaisdell's classes that I don't think I would have made otherwise; sexy cheerleaders, jocks, stoners in Iron Maiden T-shirts who sometimes smoked me out in the woods during lunch. The rift between me and my brainiac "friends" in the Advanced Placement classes grew more pronounced, who, after having spent so much time together year after year, had become a tight and obnoxious clique. <em>I'll hang with the cheerleaders, thank you very much...</em></p>
+<p>It was during this time that I first got into computers. Kids today don't know how spoiled they really are with their Pentium MMX Voodoo 3-DFX screamers. My first "PC" was a Radio Shack Model I with a whopping 16k RAM memory - the same amount of RAM that my current P-90 carries <em>on chip</em>! Programs were loaded via cassette tape and took 5 minutes with a high probability of read errors if the volume on the cassette deck wasn't set just right. At school, I took all the computer classes - BASIC programming on Commodore PETs and, in my senior year, they let me in the A.P. Computer Science class where we learned PASCAL on Apple //e machines. I dreamed of owning one of those!</p>
+<p>At the end of my Junior year Ms. Blaisdell told me that she didn't want to see me back in the fall. I had eclipsed all her expectations and she didn't feel she could offer me sufficient challenge in the context of her normal lesson plans. I was to be put back with the braniac crowd I had learned to loathe. She had, in fact, already made the arrangements with Ms. LeClaire, the A.P. Senior English teacher.</p>
+<p>It was clear from the start that I was the "outsider." The clique was so well-entrenched that it was, in fact, referred to as "The Kingdom," complete with a King, Queen, Princes and Princesses, Wizards and Warlocks... <em>Puh-leeeeze!</em> Fortunately, most of the class was independent study and the bulk of the semester's grade rested on The Project. I had gained enough trust from Ms. LeClaire that I basically had a revolving-door library pass, which I put to good use. I absorbed myself in The Project. I would show them all.</p>
+<p>My paper was a well-researched essay on the morality of nuclear weapons (another of my pet-issues). When due-date arrived I was ready. I had been finished for a week actually, but did one final rewrite the night before. Handwritten, mind you; we didn't have Microsoft Word in those days and my typing was atrocious. I walked into class and was mildly amused as I watched The Kingdom scramble to finish their Projects. After much whining and coercion, Ms. LeClaire allowed until the end of class to finish up. After the hubbub died down I went up, turned in my paper, and got a library pass.</p>
+<p>Now this is my favorite part of this story. It was the day that Ms. LeClaire had finished reading and grading The Projects. She walked into class that afternoon with the most evil scowl on her face. The King started to make some wise-ass crack but her icy stare stopped him cold. She paused for what seemed an eternity before she said something to the effect of, "I've finished reading your papers and I was <strong>disgusted</strong> by what I saw. This is an Advanced Placement class, as you know, and my expectations reflect that...." She went on and on like that, and one by one she returned the papers to the class. Except mine! Panic rushed through me! I swore I turned it in! Maybe because I turned it in before everyone else, it got lost! <strong>NO!</strong> I raised my hand in desperation, and she looked at me and smiled and put her finger to her lips.</p>
+<p>"There was, however, one bright spot," she went on to say, "One paper in the whole class that truly deserved an A grade. Now be quiet and listen because this is what I expect if you want to get an A out of this class." With that, she proceeded to read my essay before the entire A.P. Senior English class and after she was done, no one spoke.</p>
+<hr />
+<p>It was things like what happened that day in English class that convinced me that I was a good writer. For years after I quit drinking I faithfully kept a journal and even imagined starting a publication of some sort. I frequently wrote letters to the editor of the Bremerton <strong>Sun</strong> expressing firebrand opinions on everything from flag-burning to urine testing. I was always published.</p>
+<p>But there was a black void of time - between 4 and 5 years - that I wasn't me. I was possessed of the most evil demon I've ever known, the demon of alcoholism. I'd like to write of that time, and in ragged notebooks I keep, there are swatches of bad writing documenting certain "events" in my life while in the throes of inebriation. I destroyed even more writing shortly after I quit drinking in 1989. For the most part, though, I just plain <em>don't remember</em> and I'm not sure if I want to remember.</p>
+<p>And here it is, some 8 years later and goddamn it I'm still not completely well! Something I don't understand and can't quite master control over, it holds me back to this day. This web page is the most I've actually written about myself in months or years and I don't give a fuck who reads it or what they think. It's my life and every day I regret having wasted so much of it wallowing in self-pity and drunken misery. And every day I search for the secret formula that allows me to reclaim this one precious life that I have, completely and without condition.</p>
+<p>I want to remember what it felt like on the day my words silenced the Kingdom. I want to know what it's like to love myself again. I'm just not all the way there yet.</p>
+<hr />
+<p>Today I'm a Records Specialist at <a href="http://www.pscleanair.org">Puget Sound Clean Air Agency</a>. Before this, I worked in the Records Department at <a href="http://www.pemco.com">PEMCO Financial Services</a> for six years. For some strange reason, records management is the direction in which my career has developed. I think it has something to do with the fact that I'm highly analytical and organized by nature, coupled with the reality of my lack of higher educational achievement. I do not hold any advanced degree, not even a B.A. Classes got too much in the way of my drinking when I was younger.</p>
+<p>If anything, my current job has convinced me that I have absolutely <strong>NO</strong> desire to pursue a records management career any further. At least we had <em>some</em> semblance of automation at PEMCO. Now I am working strictly with paper records and I am not enjoying it. I don't <em>pretend</em> to enjoy it, much to the chagrin of my manager, Mike. I can't believe that anyone <em>could</em> enjoy it. Apparently the last person to hold my position didn't; she went ballistic in the end, or so they tell me (understandably, they don't like to talk about her very much).</p>
+<p>I can't say it's <em>all</em> bad there. I do get to do some work on the web site and provide feedback and insight on plans to implement an electronic document management system. We're currently looking at <a href="http://www.pcdocs.com">PCDocs</a>, but are finding that these systems are quite expensive to purchase. I'm also beginning to privately question whether we even have the technical resources to pull it off.</p>
+<p>But I'm coming back around to realize that my passion really lies with technology. I'm looking at other options I hadn't previously considered to get the training I need to get a foot in the door <em>somewhere</em>. As you may have read elsewhere, my target is to one day have the skills to design and program enterprise databases, and somehow marry that with the Internet skills I already possess.</p>
+<p>Well, I think that's about all I have to say for now. If you've read this far, you are truly a sick individual! No, seriously, thanks for reading. I always welcome non-commercial correspondence, so feel free to email me with any thoughts, questions, propositions, job offers, etc. ;-)</p>
+<p><strong>Chris Kincaid<br />
+</strong><em>Seattle, Washington</em></p>
+<p><a href="mailto:cmkinc@eskimo.com">cmkinc@eskimo.com</a></p>
+<hr />
+<p><strong>Last updated: October 22, 2000</strong></p></td>
+</tr>
+</tbody>
+</table>

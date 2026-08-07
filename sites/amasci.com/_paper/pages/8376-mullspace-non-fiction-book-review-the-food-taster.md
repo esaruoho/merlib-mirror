@@ -1,0 +1,67 @@
+---
+title: "Mullspace | Non-Fiction | Book Review: The Food Taster"
+source_domain: amasci.com
+source_path: ~strange/nfiction/FoodTaster.html
+order: 8376
+reachable_from_entry: false
+images: 1
+internal_links: 7
+extracted: 2026-08-07T06:00:51Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mullspace | Non-Fiction | Book Review: The Food Taster
+
+*Source page: `~strange/nfiction/FoodTaster.html`*
+
+\
+<span id="top"></span>
+
+<div align="center">
+
+<img src="../images/MullChalk03a.jpg" data-border="0" alt="Welcome to Mullspace" />\
+<a href="../katbox.html" class="nav">Portal</a> \| <a href="../litter/litter.html" class="nav">Kat Litter</a> \| <a href="../fiction/fiction.html" class="nav">Tales</a> \| <a href="nfiction.html" class="nav">Lectures</a> \| <a href="../gallery.html" class="nav">Eye Candy</a> \| <a href="../list.html" class="nav">Accretions</a> \| <a href="../resume.html" class="nav">Kat Who?</a> \| <a href="mailto:mull.space@lycos.com" class="nav">Poke</a>
+
+</div>
+
+\
+\
+
+# Book Review
+
+\
+
+created: June 12, 2003
+
+\
+
+## The Food Taster
+
+Peter Elbling, Plume/Penguin, 2003
+
+\
+
+The Library of Congress information on this book states that it is a "Fictional memoir of medieval Italy written by Peter Elbling and ostensibly translated from Italian." This is a rather short book (approximately 90,000 words), and I suspect that in a mass market form with the recipe section and Author's Notes removed, it would have been too slim to market on its own. In trade paperback and a large, airy typeface, it dresses out at 272 very fast-reading pages. It was first marketed in Europe with a deceptive "translator" attribution for Elbling and has only recently been released in the US, although Elbling is American and the book is not, in fact, a translation, but an original work by Elbling. Very confusing and possibly telling, especially when you consider that the author also wrote the screenplay for *Honey I Blew Up the Kid*.
+
+The reviews quoted inside the cover call it a "hilarious Renaissance romp," "an enjoyable spin on the usual Renaissance comedy-of-manners formula," (I didn't know there was such a formula and if so, are we talking about a formula for a comedy of manners penned in that period or a formula for penning one set in that period, not to mention the idea of a "usual" comedy of manners seeming a rather odd thing, to me) and "fast, funny visual and gritty." It was also called "bizarre" and I think that is a bit more to the point. Another quote states that "Elbling oscillates in his presentation between Umberto Ecco and Monty Python" and I don't think this was meant as a compliment. In fact, I'm pretty sure of it.
+
+If only Mr. Elbling had been able to stick to one or the other, I might, indeed, have found the book "ingenious fiction," but he didn't and I couldn't. Mostly I found it vacillating between grim and mildly amusing with occasional digressions into not bad. Perhaps it's a failing in me, but a book which opens with a description of the suicide of the narrator's mother in scatalogical and repulsive detail just doesn't set the scene for uproarious hijinks in my mind and it never quite overcame that. The book, while it does have some funny and clever moments and is technically adept, is pretty repulsive in places and it certainly never becomes "rollicking" as one review described it. Not a single character struck me as admirable, decent or even nice and yet none were so dreadful and horrible of themselves that I could really enjoy a good hate of them, either. Most of them were rather mechanical and not particularly interesting or very well-rounded, their conflicts and dichotomies seeming to be devices of the author rather than humanizing features. The blurb on the back cover informed me that the main character is "charming," but I mostly found him a jerk and I generally think it a bad sign when the author and publisher feel that if I am not told how charming a character is, I might miss it.
+
+At bottom, The Food Taster is a tale about misplaced Pride, but it is dressed in so many tortured plot reversals and technical devices that it stumbles a lot and limps across the landscape of Renaissance Italy like a plague victim. The author seems to be reaching for a gritty earthiness by frequent, colloquial and raw inclusion, discussion and reference to sex, private parts, bodily functions, illegitimacy, and sexual intercourse with sheep. All of this is done in raw, colloquial Anglo-Saxon, as well as curiously modern, colloquial Italian, often side-by-side so that the reader can't possibly miss it. The first three-quarters of the text is peppered with perfectly ordinary sentences in Italian which are often "translated" into English right afterward. Clearly this is done to support the fiction that the story is "translated" from an actual, period diary, but most translators don't stoop to that device, nor would most ordinary people have made a point of recording that they had a certain conversation while defecating into a trough, and the conceit soon palls while the language becomes irritating. Later, the author stops translating and he stops making use of as much Italian, except for the swear and curse words, which continue to abound. Unfortunately, rather than providing style and making the work amusingly earthy, it mostly makes the story disruptively scatalogical and occasionally anachronistic and unlikely. At times I felt like I was touring the Uffizi with Beavis and Butthead.
+
+The author is heavy-handed in his treatment of his theme, ladling on the bombast about the price of Pride and the sweetness of True Love in the final quarter with deftness and tonnage reminiscent of shoveling elephant droppings at the Zoo although he made his point more subtly and effectively much earlier and I suspect this is a matter of inexperience and lack of confidence in the form.
+
+In spite of a lot of eye-rolling on my part, Elbling isn't actually a bad writer. The story itself is a little thin and weak, but it doesn't have any major flaws and after an initial slow start, it moves along, though mostly through exposition, rather than action. The characters are a bit under-realized and unsympathetic, but they aren't total cardboard and he's caught some nice nuances of complexity here and there. Unfortunately, they can't overcome the uneven and inconsistent plot. Although he relies over much on the cheap device of rough language for style, he does, in fact, craft perfectly nice, easy-to-read prose which moves along smoothly and smartly.
+
+The author's acknowledgement at the end states that the book was begun as part of a creative writing class at Santa Monica City College, and, unfortunately, it never rose above that, in my opinion. It's clever, but often too aware of its cleverness and far too self-congratulatory. Elbling did reasonable research into the period and he includes a great deal of detail about food, clothes and living conditions (he even includes several simple, modernized recipes at the end of the book), but he misses upon occasion and those occasions stick out horribly as a result. Although he did a lot of research into period food, he only nails the heights of Renaissance food-extravagance with a single dish: whole, roasted swans re-dressed for service in their whole, feathered pelts so that they seem to be alive, but unmoving until sliced open. No mention of such ridiculous historical dishes as pearl jelly and gold-leafed marzipan or the continued Roman love for stuffing small creatures into successively larger ones.
+
+Over all, it's not a rotten book. It has some funny and bizarre moments, it turns in some good research which is applied well and displayed nicely, it's competently constructed and it's well-built enough and quick enough to keep most readers coming back for its very short duration, but it's not a particularly *good* book, nor is it all that amusing. It tries too hard to be "earthy" and ends up being crass; it attempts to be an insightful period illustration and winds up self-conscious and a touch preachy and suffers throughout from an excess of cleverness. Basically, a good student novel, but not a good, mature one. With luck, Elbling will work these issues out, as he does show some promise and he does offer some rather loopy juxtapositions which could be fun and amusing under a more sure hand. He just needs to develop one.
+
+\
+\
+
+Back to [top](#top) of this page, please.
+
+[Back to Index](nfiction.html)\
+
+© 2003 M. Kathleen Huffine/Kat Richardson. All rights reserved.

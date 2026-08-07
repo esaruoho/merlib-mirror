@@ -1,0 +1,2862 @@
+---
+title: "M*A*S*H FAQ: Episode Guide"
+source_domain: amasci.com
+source_path: ~bpentium/marcia/faq1.html
+order: 1679
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:21Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# M*A*S*H FAQ: Episode Guide
+
+*Source page: `~bpentium/marcia/faq1.html`*
+
+# M\*A\*S\*H FAQ: Episode Guide
+
+    Archive-name: tv/mash/guide
+    Last-modified: 1995/03/21
+    Posting-Frequency: Monthly
+
+    M*A*S*H FAQ:  Episode Guide
+    ===========================
+    This is a list of episodes for CBS's television series M*A*S*H.
+    Also included are original network airdates, writers, directers,
+    and guest stars.
+
+    Original guide (titles, writers, directors) by Doug Krause <dkrause@uci.edu>
+    Airdates and reording by Samuel H. Edwards <edwards@pond.com>
+    Production codes by Tim Tompkins <timt@a3197tt.ssr.hp.com>
+    Season 1 to 3 summaries by Troy Wood <tdwood@magnus.acs.ohio-state.edu>
+    Season 4 to 8 summaries by Dean A. Dunn <dadunn@whale.st.usm.edu>
+    Season 9 to 11 summaries by Samuel H. Edwards <edwards@pond.com>
+    Final episode summary from "M*A*S*H  The Exclusive, Inside Story of T.V.'s
+      Most Popular Show"  (included without permission)
+
+    -------------------------------------------------------------------------------
+
+    Season 1  (1972 - 1973)
+    Regular Cast - Alan Alda, Gary Burghoff, Larry Linville, Wayne Rogers,
+                   McLean Stevenson, Loretta Swit
+
+    1.   M*A*S*H -- The Pilot Episode  (J-301)  
+         September 17, 1972
+         Written by Larry Gelbart
+         Directed by Gene Reynolds
+         Guest Stars:  Karen Philipp, Patrick Adiarte, G. Wood, Timothy Brown,
+                       Linda Meiklejohn, Laura Miller, George Morgan
+
+         The Swamp's Korean houseboy, Ho John, is accepted to attend school at
+    Hawkeye's alma mater.  The camp raises  to send Ho John to Maine by
+    raffling a weekend in Tokyo with a nurse, much to the chagrin of Hot Lips
+    and Burns.  The winner?  Father Mulcahy!
+
+    2.   To Market, To Market  (J-303)  
+         September 24, 1972
+         Written by Burt Styler
+         Directed by Michael O'Herlihy
+         Guest Stars:  G. Wood, Robert Ito, Jack Soo, John C. Johnson
+
+         After the 4077th supply of hydrocortisone is hijacked by black market-
+    eers, Hawkeye and Trapper concoct a deal with a local black marketeer (Jack
+    Soo) to get some more.  The catch:  Henry's antique oak desk, which is
+    whisked away by chopper as Henry watches in disbelief.
+
+    3.   Requiem for a Lightweight  (J-308) 
+         October 1, 1972
+         Written by Bob Klane
+         Directed by Hy Averback
+         Guest Stars:  Marcia Strassman, Sorrell Booke, Mike McGirr
+
+         Trapper enters the intercamp boxing tournament to save a beautiful nurse
+    (Marcia Strassman) from being transferred out by Henry, at Hot Lips' request.
+
+    4.   Chief Surgeon Who?  (J-307) 
+         October 8, 1972
+         Written by Larry Gelbart
+         Directed by E. W. Swackhamer
+         Guest Stars:  Linda Meiklejohn, Jack Riley, Sorrell Booke, Timothy Brown,
+                       Odessa Cleveland, Jamie Farr
+
+         Frank and Hot Lips fume when Hawkeye is named chief surgeon over Frank.
+    They call up a general (Sorell Booke) who arrives in camp only to encounter
+    Klinger (his first appearance of the series), declares the camp nuts and
+    Hawkeye a genius.
+
+    5.   The Moose  (J-305)
+         October 15, 1972
+         Written by Laurence Marks
+         Directed by Hy Averback
+         Guest Stars:  Paul Jenkins, Virginia Lee, Craig Jue, Barbara Brownell,
+                       Patrcik Adiarte, Tim Brown
+
+         Hawkeye ends up winning a Korean girl as servant from the sergeant who
+    purchased her.  The girl, unfortunately, has a hard time understanding
+    Hawkeye when he attempts to set her free.
+
+    6.   Yankee Doodle Doctor  (J-310)  
+         October 22, 1972
+         Written by Laurence Marks
+         Directed by Lee Philips
+         Guest Stars:  Ed Flanders, Bert Kramer, Herb Voland
+
+         The camp makes a film in response to one made about the 4077th at
+    the request of a brigadier general.  Guest appearance by Ed Flanders.
+
+    7.   Bananas, Crackers, and Nuts (After Me, the Deluge)  (J-311) 
+         November 5, 1972
+         Written by Burt Styler
+         Directed by Bruce Bilson
+         Guest Stars:  Stuart Margolin
+
+         After being denied R&R, Hawkeye fakes insanity, causing many problems
+    for the psychiatrist (Stuart Margolin) sent to study him.
+
+    8.   Cowboy  (J-309) 
+         November 12, 1972
+         Written by Bob Klane
+         Directed by Don Weis
+         Guest Stars:  Billy Green Bush, Alicia Bond, Rick Moses, Joe Corey
+
+         Henry refuses to let a chopper pilot go home, and the pilot feels there
+    is no alternative but to kill Henry.
+
+    9.   Henry, Please Come Home  (J-302)
+         November 19, 1972
+         Written by Laurence Marks
+         Directed by William Wiard
+         Guest Stars:  G. Wood
+
+         Due to the great success rate of the 4077th, Henry is transferred to
+    administrative duty in Tokyo.  Hawkeye and Trapper convince Radar to fake
+    an illness to get Henry to return.
+
+    10.  I Hate a Mystery  (J-306) 
+         November 26, 1972
+         Written by Hal Dressner
+         Directed by Hy Averback
+         Guest Stars:  Bonnie Jones, Linda Meiklejohn
+
+         Hawkeye plays detective when he becomes the chief suspect in a stealing
+    epidemic.  His sleuthful work leads him to the guilty party, none other than
+    Ho John (who still hasn't left for Maine).
+
+    11.  Germ Warfare  (J-304) 
+         December 10, 1972
+         Written by Larry Gelbart
+         Directed by Terry Becker
+         Guest Stars:  Robert Gooden, Karen Philipp, Byron Chung
+
+         Hawkeye plays Dracula when he steals a pint of Frank's blood.  When he
+    suspects Frank of hepatitis, he works frantically (with Radar and Trapper)
+    to keep him away from everyone, including Hot Lips.
+
+    12.  Dear Dad  (J-313)
+         December 17, 1972
+         Written by Larry Gelbart
+         Directed by Gene Reynolds
+         Guest Stars:  Bonnie Jones, Lizabeth Deen, Gary Van Orman
+
+         Hawkeye writes his dad, describing the antics of the 4077th--including
+    Mulcahy convincing Klinger not to kill himself.  For the finale, Hawkeye goes
+    to the front dressed as Santa to help save a wounded soldier.
+
+    13.  Edwina  (J-312)
+         December 24, 1972
+         Written by Hal Dresner
+         Directed by James Sheldon
+         Guest Stars:  Arlene Golonka, Linda Meiklejohn, Marcia Strassman
+
+         The nurses go to extremes to find a date of Nurse Eddie (Edwina)--they
+    won't go out with anyone until Eddie gets a date.  The men draw straws, and
+    Hawkeye is the big loser, especially after Eddie nearly kills him in a
+    scene resembling teenage "mating" rituals. :)
+
+    14.  Love Story  (J-314)
+         January 7, 1973
+         Written by Laurence Marks
+         Directed by Earl Bellamy
+         Guest Stars:  Kelly Jean Peters, Indira Danks, Barbara Brownell
+
+         Radar gets a "Dear John" letter.  To help cheer him up, Hawkeye and
+    Trapper try to help him with a new nurse who's into classical literature and
+    music.  Radar's "Ahhhh, Bach!" and "That's highly significant," quotes win him
+    a friend in the nurse.
+
+    15.  Tuttle  (J-315)
+         January 14, 1973
+         Written by Bruce Shelly and David Ketchum
+         Directed by William Wiard
+         Guest Stars:  Herb Voland, Mary-Robin Redd, James Sikking
+
+         Hawkeye and Trapper, with Radar's help, invent a fictitious Capt. Tuttle
+    so that his salary can be donated to help a local orphanage.  Almost caught
+    by James B. Sikking of Hill St. and Doogie Howser fame, Hawkeye must
+    sorrowfully tell the camp of Tuttle's fate to the whole camp--he leaped from
+    a chopper without a parachute.
+
+    16.  The Ringbanger  (J-316)
+         January 21, 1973
+         Written by Jerry Mayer
+         Directed by Jackie Cooper
+         Guest Stars:  Leslie Neilsen, Linda Meiklejohn
+
+         A colonel (Leslie Nielsen) with a high casualty record in the object of
+    the attention of Hawkeye, Trapper, and Radar, who conspire send him home
+    before he gets anyone else killed.
+
+    17.  Sometimes You Hear the Bullet  (J-318)
+         January 28, 1973
+         Written by Carl Kleinschmitt
+         Directed by William Wiard
+         Guest Stars:  James Callahan, Ronny Howard, Lynette Mettey
+
+         Hawkeye is confronted with death when he is unable to save an old
+    journalist friend (James Callahan) who is killed on the front.  The death
+    spurs Hawkeye to send an underaged soldier (Ron Howard) home.  Meanwhile,
+    Frank throws out his back and applies for a Purple Heart.
+
+    18.  Dear Dad...Again  (J-317)
+         February 4, 1973
+         Written by Sheldon Keller and Larry Gelbart
+         Directed by Jackie Cooper
+         Guest Stars:  Alex Henteloff, Gail Bowman, Odessa Cleveland
+
+         Hawkeye tells his dad of the cooling romance between Frank and Hot Lips
+    and Radar's correspondance corse.
+
+    19.  The Longjohn Flap  (J-319)
+         February 18, 1973
+         Written by Alan Alda
+         Direct by William Wiard
+         Guest Stars:  Kathleen King, Joseph Perry
+
+         Hawkeye gets a pair of longjohns from home.  Feeling sorry for Trapper,
+    who has a cold, he gives him the longjohns, which pass into the hands of most
+    of the camp before getting back in Hawkeye's hands.
+
+    20.  The Army-Navy Game  (J-322)
+         February 25, 1973
+         Written by Sid Dorfman
+         Directed by Gene Reynolds
+         Guest Stars:  Alan Manson, David Doyle, Tom Richards
+
+         The camp tunes-in to the Army-Navy football game, only to get bombed
+    and left with an unexploded shell in the compound.  When they try to defuse
+    the CIA bomb,it explodes--with American propaganda leaflets.
+
+    21.  Sticky Wicket  (J-321)
+         March 4, 1973
+         Written by Laurence Marks and Larry Gelbart
+         Directed by Don Weis
+         Guest Stars:  Wayne Bryan, Lynette Mettey, Bonnie Jones
+
+         Hawkeye and Frank argue over Frank's ability as a surgeon.  Then one
+    of Hawkeye's patients starts failing, Hawkeye starts reflecting about his
+    own abilities.
+
+    22.  Major Fred C. Dobbs  (J-320)
+         March 11, 1973
+         Written by Sid Dorfman
+         Directed by Don Weis
+         Guest Stars:  Harvey J. Goldenberg
+
+         A silly episode where Frank, who threatens transfer, is convinced to stay
+    when hears Hawkeye and Trapper say they discovered gold.  The joke's on
+    Frank when he finds, amongst other things, a gilded jeep!
+
+    23.  Ceasefire  (J-323)
+         March 18, 1973
+         Written by Laurence Marks
+         Directed by Earl Bellamy
+         Guest Stars:  Herb Voland
+
+         The camp receives word that there's a ceasefire and erupts into
+    celebration, only to have their hopes shattered when wounded arrive.
+
+    24.  Showtime  (J-324)
+         March 25, 1973
+         Written by Robert Klane and Larry Gelbart
+         Directed by Jackie Cooper
+         Guest Stars:  Joey Forman, Harvey Goldenberg, Stanley Clay, Sheila 
+                       Lauritsen, Oksun Kim
+
+         An entertainer performs for the camp in the compound.
+
+    -------------------------------------------------------------------------------
+
+    Season 2  (1973 - 1974)
+    Regular Cast - Alan Alda, Gary Burghoff, Larry Linville, Wayne Rogers,
+                   McLean Stevenson, Loretta Swit
+
+    25.  Divided We Stand  (K-401)
+         September 15, 1973
+         Written by Larry Gelbart
+         Directed by Jackie Cooper
+         Guest Stars:  Anthony Holland
+
+         Gen. Clayton assigns a psychiatrist Capt. Hildebrand (Anthony Holland)
+    to examine the 4077th.  Henry tells them to be on their best behavior, or else
+    they will be split up.  But the 4077th soon begins to act in their traditional,
+    inane ways.
+
+    26.  5 O'Clock Charlie  (K-403)
+         September 22, 1973
+         Written by Larry Gelbart and Laurence Marks
+         Directed by Norman Tokar
+         Guest Stars:  Norman Tokar
+
+         An inept N. Korean pilot's bombings of (near) the camp become a spectator 
+    sport.  Frank complains that the pilot should be shot down, but it isn't until 
+    Gen. Clayton's jeep is bombed until any action is taken.
+
+    27.  Radar's Report  (K-402)
+         September 29, 1973
+         Written by Laurence Marks
+         Directed by Jackie Cooper
+         Guest Stars:  Joan Van Ark, Allan Arbus, Tom Dever
+
+         Klinger's girl back home wants to marry, Hawkeye flirts with a nurse
+    (Joan Van Ark), and all the goings on are reported to the Army in Radar's 
+    weekly report.
+
+    28.  For the Good of the Outfit  (K-404)
+         October 6, 1973 
+         Written by Jerry Mayer
+         Directed by Jackie Cooper
+         Guest Stars:  Frank Aletter
+
+         The accidental shelling of the S. Korean village of Tai Dong gets Hawkeye 
+    and Trapper's attention.  While the Army accepts no responsibility, they do 
+    plan to rebuild the village, with its own soft ice cream maker!
+
+    29.  Dr. Pierce and Mr. Hyde  (K-405)
+         October 13, 1973
+         Written by Alan Alda and Robert Klane
+         Directed by Jackie Cooper
+         Guest Stars:  Jackie Cooper
+
+         Hawkeye is on duty for 3 days straight, and decides to send the 4077th's 
+    latrine to N. Korea.
+
+    30.  Kim  (K-407)
+         October 20, 1973
+         Written by Marc Mandel, Larry Gelbart, and Laurence Marks
+         Directed by William Wiard
+         Guest Stars:  Leslie Evans, Edgar Raymond Miller, Ray Poss, Maggie
+                       Roswell, Momo Yashima
+
+         Trapper becomes very attached to an apparently orphaned little Korean boy 
+    named Kim, and wants to adopt him--that is, if he doesn't get blown to bits in 
+    the minefield.
+
+    31.  L.I.P. (Local Indigenous Personnel)  (K-406)
+         October 27, 1973
+         Written by Carl Kleinschmitt
+         Directed by William Wiard
+         Guest Stars:  Corinne Camacho, Burt Young, Jerry Zaks
+
+         Hawkeye, Trapper, and Radar blackmail a lt. with a few pranks to allow 
+    Cpl. Walker to marry a local Korean girl.
+
+    32.  The Trial of Henry Blake  (K-408)
+         November 3, 1973
+         Written by McLean Stevenson, Larry Gelbart, and Laurence Marks
+         Directed by Don Weis
+         Guest Stars:  Hope Summers, Robert F. Smimon, Jack Aaron
+
+         Houlihan and Burns challenge Col. Blake's fitness to command, and it is up
+    to Nurse Meg Cratty to come to the rescue.
+
+    33.  Dear Dad...Three  (K-409)
+         November 10, 1973
+         Written by Larry Gelbart and Laurence Marks
+         Directed by Don Weis
+         Guest Stars:  Mills Watson, Sivi Aberg, Arthue Abelson
+
+         A bigoted sergeant seeking the right-"colored" blood learns a lesson in 
+    prejudice from the 4077th.
+
+    34.  The Sniper  (K-410)
+         November 17, 1973
+         Written by Richard M. Powell
+         Directed by Jackie Cooper
+         Guest Stars:  Teri Garr, Marcia Gelman, Dennis Troy
+
+         A lone sniper has the 4077th pinned down--including Radar and Henry in 
+    the shower.  The poor boy thinks he's firing on McArthur's headquarters, and  
+    a chopper finally comes by and wounds him with gunfire from above, ending the 
+    seige.
+
+    35.  Carry On, Hawkeye  (K-411)
+         November 24, 1973
+         Written by Bernard Dilbert, Larry Gelbart, and Laurence Marks
+         Directed by Jackie Cooper
+         Guest Stars:  Lynette Mettey, Gwen Farrell, Marcia Gelman
+
+         Hawkeye is the only doctor not struck down by the flu bug.  Houlihan must 
+    inject him in the ass with a flu shot!
+
+    36.  The Incubator  (K-412)
+         December 1, 1973
+         Written by Larry Gelbart and Laurence Marks
+         Directed by Jackie Cooper
+         Guest Stars:  Robert F. Simon, Logan Ramsey, Vic Tayback
+
+         Hawkeye and Trapper battle the Army in their efforts to get a badly needed
+    incubator for the 4077th.
+
+    37.  Deal Me Out  (K-413)
+         December 8, 1973
+         Written by Larry Gelbart and Laurence Marks
+         Directed by Gene Reynolds
+         Guest Stars:  Pat Morita, Allan Arbus, Edward Winter, John Ritter
+
+         The weekly poker game is interrupted when Radar hits the infamous Whiplash
+    Wang with a jeep.  Pat Morita guests as one of the poker players.  A wounded 
+    soldier (John Ritter) getting counseling from Sidney Freedman (Alan Arbus) 
+    wants to kill Frank.  Edward Winter appears as Captain Hallorin.
+
+    38.  Hot Lips and Empty Arms  (K-414)
+         December 15, 1973
+         Written by Linda Bloodworth and Mary Kay Place
+         Directed by Jackie Cooper
+         Guest Stars:  Jackie Cooper
+
+         Maj. Houlihan decides to dump Frank and requests a transfer.
+
+    39.  Officers Only  (K-415)
+         December 22, 1973
+         Written by Ed Jurist
+         Directed by Jackie Cooper
+         Guest Stars:  Robert F. Simon, Robert Weaver, Clyde Kusatsu
+
+         Hawkeye and Trapper save Gen. Mitchell's son, and they get an officer's 
+    club as a reward--well, sort of an officer's club.
+
+    40.  Henry in Love  (K-416)
+         January 5, 1974
+         Written by Larry Gelbart and Laurence Marks
+         Directed by Don Weis
+         Guest Stars:  Katherine Baumann, Odessa Cleveland, Sheila Lauritsen
+
+         Henry falls in love with Nancy Sue Parker, a former cheerleader from the 
+    Ohio State University :) while in Tokyo.  Hawkeye, Trapper, and Radar try to 
+    prevent Henry from letting his marriage go up in smoke over her.
+
+    41.  For Want of a Boot  (K-417)
+         January 12, 1974
+         Written by Sheldon Keller
+         Directed by Don Weis
+         Guest Stars:  Michael Lerner, Suzanne Zenor, Johnny Kaymer
+
+         A riotous episode in which Hawkeye will do anything to get a new pair of 
+    boots.  In order to get Zale to get him some, he must get an appointment for 
+    Zale with Futterman, the camp dentist, who will only do it if Henry will give 
+    him a pass to Tokyo, and Henry will only grant the pass if Houlihan will get 
+    off his back, which she will do only if the guys throw a party for Frank's 
+    birthday with a cake, and Radar will only help get the cake if he gets a date 
+    with Nurse Murphy, who will only date someone with a hair dryer, and Klinger 
+    won't give up the hair dryer unless he gets a section 8 (and Frank won't sign).
+    The deal falls through, much to the chagrin of Hawkeye.
+
+    42.  Operation Noselift  (K-418)
+         January 19, 1974
+         Written by Erik Tarloff
+         Directed by Hy Averback
+         Guest Stars:  Stuart Margolin
+
+         Hawkeye and Trapper arrange for an unauthorized nosejob for an unlisted 
+    man with a huge schnozz (Mulcahy concurs).  But Hawkeye's cohort who agrees to 
+    do the job has other interests, mainly bagging a nurse.
+
+    43.  The Chosen People  (K-419)
+         January 26, 1974
+         Written by Laurence Marks, Sheldon Keller, and Larry Gelbart
+         Directed by Jackie Cooper
+         Guest Stars:  Pat Morita, Clare Nono, Dennis Robertson, Jay Jay Jue,
+                       Jerry Fujikawa
+
+         The local Koreans provide interesting scenarios for the 4077th.
+
+    44.  As You Were  (K-420)
+         February 2, 1974
+         Written by Larry Gelbart and Laurence Marks
+         Directed by Hy Averback
+         Guest Stars:  Patricia Stevens
+
+         The 4077th has no wounded for several days, until they start pouring in 
+    again.
+
+    45.  Crisis  (K-421)
+         February 9, 1974
+         Written by Larry Gelbart and Laurence Marks
+         Directed by Don Weis
+         Guest Stars:  Jeff Maxwell, Alberta Jay
+
+         Supply lines to the 4077th are cut.  Consequently, the personnel must find
+    ways to deal with the shortages.
+
+    46.  George  (K-422)
+         February 16, 1974
+         Written by John Regier and Gary Markowitz
+         Directed by Gene Reynolds
+         Guest Stars:  Richard Ely, George Simmons
+
+         In an episode that would fit the headlines in 1993, Burns tries to slap a 
+    dishonorable discharge on a decorated soldier who admits to being a homosexual.
+
+    47.  Mail Call  (K-423)
+         February 23, 1974
+         Written by Larry Gelbart and Laurence Marks
+         Directed by Alan Alda
+         Guest Stars:  Dennis Troy, Sheila Lauritsen
+
+         The arrival of a new batch of mail makes Trapper depressed and he wants to
+    desert, despite Hawkeye's efforts otherwise.  Meanwhile, Hawkeye learns he has 
+    successfully tricked Frank into buying stocks in the fictitious company, 
+    Pioneer Aviation.
+
+    48.  A Smattering of Intelligence  (K-424)
+         March 2, 1974
+         Written by Larry Gelbart and Laurence Marks
+         Directed by Larry Gelbart
+         Guest Stars:  Edward Winter, Bill Fletcher
+
+         A classic episode in which Col. Flagg and another secret agent from 
+    another intelligence agency come to the 4077th to keep their eyes on one 
+    another and the camp.  Hawkeye and Trapper trick them both into thinking that 
+    Burns is a traitor--one thinks he's a facist, the other thinks he's a 
+    communist.
+
+    -------------------------------------------------------------------------------
+
+    Season 3  (1974 - 1975)
+    Regular Cast - Alan Alda, Gary Burghoff, Larry Linville, Wayne Rogers,
+                   McLean Stevenson, Loretta Swit
+
+    49.  The General Flipped at Dawn  (B-308)
+         September 10, 1974
+         Written by Jim Fritzell and Everett Greenbaum
+         Directed by Larry Gelbart
+         Guest Stars:  Harry Morgan (!!!), Jamie Farr, Bill Christopher, Lynnette 
+                       Mettey, Theodore Wilson, Brad Trumbull, Dennis Erdman
+
+         In a stunning performance that won him a role as Col. Potter, Harry Morgan
+    guests as loony General Bartford Hamilton Steele.  Even Klinger thinks Gen.
+    Steele is nuts when he mistakes Klinger for his wife, Marjorie.  Morgan won an
+    Emmy for his performance in this episode.
+
+    50.  Rainbow Bridge  (B-301)
+         September 17, 1974
+         Written by Larry Gelbart and Laurence Marks
+         Directed by Hy Averback
+         Guest Stars:  Jamie Farr, Bill Christopher, Mako, Leland Sun, Bobbie 
+                       Mitchell, Loudon Wainwright III
+
+         As Hawkeye and Trapper are planning to leave for Tokyo, an unusual offer
+    to swap POW patients between the Chinese and the 4077th comes in.  Henry, after
+    much debate, agrees to send Hawk, Trap, Burns, Radar, and Klinger into enemy
+    territory.  Burns almost botches the swap when he brings a squirt gun to the
+    exchange.  Fortunately, the Chinese Dr. Lin Tam has a sense of humor (he went
+    to U. of Illinois, after all).
+
+    51.  Officer of the Day  (B-307)
+         September 24, 1974
+         Written by Laurence Marks
+         Directed by Hy Averback
+         Guest Stars:  Jamie Farr, Bill Christopher, Edward Winter, Dennis Troy, 
+                       Jeff Maxwell, Jerry Fujikawa, Tad Horino, Richard Lee Sung, 
+                       Mitchell Sakamoto, Norman Hamano, Mary Katherine Peters, 
+                       Tom Lawrence
+
+         While Henry is away in Seoul, Burns and Houlihan are in charge, and
+    Hawkeye is the officer of the day.  His refusal to release a wounded Korean
+    wanted by US Intelligence leads to a confrontation with Col. Flagg.
+
+    52.  Iron Guts Kelly  (B-304)
+         October 1, 1974
+         Written by Larry Gelbart and Sid Dorfman
+         Directed by Don Weis
+         Guest Stars:  James Gregory, Keen Curtis, Bobbie Mitchell, Byron Chung, 
+                       Alberto Jay, Jeff Maxwell, Dennis Troy
+
+         General Iron Guts Kelly dies inconviently in Houlihan's tent (perhaps the
+    excitement was too much?!), so his aide sets out to make it appear as if the
+    general has died gloriously in battle.
+
+    53.  O.R.  (B-306)
+         October 8, 1974
+         Written by Larry Gelbart and Laurence Marks
+         Directed by Gene Reynolds
+         Guest Stars:  Jamie Farr, Bill Christopher, Allan Arbus, Odessa Cleveland,
+                       Bobbie Mitchell, Bobby Herbeck, Orlando Dole, 
+                       Jeanne Schulherr, Roy Goldman, Leland Sun
+
+         The OR is filled with more wounded than the unit can handle.  Dr. Freedman
+    drops in during the deluge as well.
+
+    54.  Springtime  (B-303)
+         October 15, 1974
+         Written by Linda Bloodworth and Mary Kay Place
+         Directed by Don Weis
+         Guest Stars:  Jamie Farr, Bill Christopher, Alex Karras, Mary Kay Place, 
+                       Greg Mabrey, Kelleye Nakahara, Gwen Farrell, Pat Stevens, 
+                       Roy Goldman, Jeff Maxwell
+
+         When spring arrives, Klinger gets word from home that his sweethart back
+    in Toledo wants to marry him.  Father Mulcahy (with help from Radar) arranges
+    to do this over short wave radio (?).  Radar falls in love with a nurse, while
+    a grateful patient won't leave Hawkeye alone--even threatens Maj. Burns.
+
+    55.  Check-Up  (B-312)
+         October 22, 1974
+         Written by Laurence Marks
+         Directed by Don Weis
+         Guest Stars:  Jamie Farr, Patricia Stevens, Jeff Maxwell
+
+         Trapper gets an ulcer and a ticket home.  Unfortunately, his going-away
+    party is spoiled by a new Army regulation which forces him to stay.
+
+    56.  Life With Father  (B-302)
+         October 29, 1974
+         Written by Everett Greenbaum and Jim Fritzell
+         Directed by Hy Averback
+         Guest Stars:  Bill Christopher, Sachiko Penny Lee
+
+         Mail from home worries Henry that Lorraine may be seeing other men.
+    Father Mulcahy presides over a Jewish circumcision ceremony for the Korean-born
+    son of a US GI.
+
+    57.  Alcoholics Unanimous  (B-314)
+         November 12, 1974
+         Written by Everett Greenbaum and Jim Fritzell
+         Directed by Hy Averback
+         Guest Stars:  Jamie Farr, Bobbie Mitchell, William Christopher
+
+         Henry's departure to Tokyo leaves Maj. Burns in charge of the 4077th.
+    He declares total prohibition of alcohol, which leads to a near riot amongst 
+    the camp (especially from Hawkeye and Trapper).
+
+    58.  There is Nothing Like a Nurse  (B-309)
+         November 19, 1974
+         Written by Larry Gelbart
+         Directed by Hy Averback
+         Guest Stars:  Jamie Farr, Loudon Wainwright III, Bill Christopher, Bobbie
+                       Mitchell, Molli Benson, Jeanne Schulherr, Leland Sun
+
+         The nurses are evacuated when the threat of an enemy parachute drop
+    arises.  Hawkeye and Trapper try to enliven everyone's spirits with them gone.
+
+    59.  Adam's Ribs  (B-316)
+         November 26, 1974
+         Written by Laurence Marks
+         Directed by Gene Reynolds
+         Guest Stars:  Basil Hoffman, Joe Stern, Jeff Maxwell
+
+         A riotous episode!  Hawkeye, driven near insanity, starts a riot in the
+    mess tent after several weeks of "a river of liver and an ocean of fish."  To
+    spice up their diets, Hawkeye, Trapper, and Radar scheme to get spare ribs sent
+    to the 4077th from Chicago.  The ribs arrive, just in time for the arrival of
+    wounded.
+
+    60.  A Full Rich Day  (B-311)
+         December 3, 1974
+         Written by John D. Hess
+         Directed by Gene Reynolds
+         Guest Stars:  Jamie Farr, William Watson, Sirri Murad, Curt Lowens, 
+                       Michael Keller, Kelleye Nakahara
+
+         Hawkeye records a letter to his dad, detailing the exploits of a mad
+    Turkish soldier who calls Hawkeye a "damn good Joe," the unfortunate loss of
+    the corpse of a Luxembourg soldier (who turns out not to be dead), and of a
+    gun-happy officer.
+
+    61.  Mad Dogs and Servicemen  (B-317)
+         December 10, 1974
+         Written by Linda Bloodworth and Mary Kay Place
+         Directed by Hy Averback
+         Guest Stars:  Michael O'Keefe, Shizuko Hoshi, Arthur Song, Jeff Maxwell, 
+                       Bobbie Mitchell
+
+         Radar is bitten by a local dog, and the camp conducts a search to find the
+    pooch so that Radar doesn't have to undergo a series of painful rabies 
+    vaccinations.  Hawkeye defies Frank to take care of a GI who's suffering from a
+    case of hysterical paralysis.
+
+    62.  Private Charles Lamb  (B-310)
+         December 31, 1974
+         Written by Larry Gelbart and Sid Dorfman
+         Directed by Hy Averback
+         Guest Stars:  Ted Eccles, Titos Vandis, Gene Chronopoulos
+
+         A Greek feast at the camp is foiled when soft-hearted Radar saves the main
+    course from the spit--a lamb, whom Radar tricks Henry into giving a medical
+    discharge and sends home to Ottumwa.  Thus, Hawkeye and Trapper invent the
+    famed Spam Lamb!
+
+    63.  Bombed  (B-320)
+         January 7, 1975
+         Written by Jim Fritzell and Everett Greenbaum
+         Directed by Hy Averback
+         Guest Stars:  Jamie Farr, William Christopher, Louisa Moritz, 
+                       Edward Marshall
+
+         The camp is under fire and is swamped with wounded.  Maj. Burns is driven 
+    with jealousy of Trapper into proposing to Houlihan.
+
+    64.  Bulletin Board  (B-323)
+         January 14, 1975
+         Written by Larry Gelbart
+         Directed by Alan Alda
+         Guest Stars:  Jamie Farr, William Christopher, Johnny Haymer, Patricia 
+                       Stevens, Kelleye Nakahara
+
+         Camp activities include Henry's nervous delivery of a sex lecture (while 
+    Hawkeye and Trapper heckle), a Shirley Temple movie, and a cookout.
+
+    65.  The Consultant  (B-318)
+         January 21, 1975
+         Written by Larry Gelbart and Robert Klane
+         Directed by Gene Reynolds
+         Guest Stars:  William Christopher, Robert Alda, Joseph Maher, Tad Horino
+
+         Dr. Borelli visits to demonstrate his artery transplant technique.  
+    Unfortunately, being so close to the front at the 4077th causes Borelli's 
+    drinking problem to interfere at the worst time--when a patient needs the 
+    transplant.
+
+    66.  House Arrest  (B-315)
+         February 4, 1975
+         Written by Jim Fritzell and Everett Greenbaum
+         Directed by Hy Averback
+         Guest Stars:  Jamie Farr, William Christopher, Mary Wickes, Bobbie 
+                       Mitchell, Jeff Maxwell, Dennis Troy, Kelleye Nakahara
+
+         Hawkeye hits Maj. Burns and Houlihan is a witness, despite Hawkeye
+    and Trapper's claims that it wasn't intentional.  A female colonel is sent to
+    investigate Burns' allegations.  When she cries "Rape!" when Burns visits her
+    tent, Houlihan recants her story, and Burns, not Hawkeye, ends up under house
+    arrest.
+
+    67.  Aid Station  (B-322)
+         February 11, 1975
+         Written by Larry Gelbart and Simon Muntner
+         Directed by William Jurgensen
+         Guest Stars:  Jamie Farr, William Christopher, Tom Dever
+
+         Hawkeye, Houlihan, and Klinger go to an aid station at the front.  Working 
+    closely together under heavy fire and unsanitary medical conditions, the three 
+    return to camp with new found respect for one another.
+
+    68.  Love and Marriage  (B-321)
+         February 18, 1975
+         Written by Arthur Julian
+         Directed by Lee Philips
+         Guest Stars:  Soon-Tek Oh, Johnny Haymer, Dennis Dugan, Jerry Fujikawa, 
+                       Pat Li, Bob Gruber, Jeanne Joe, William Christopher
+
+         Hawkeye and Trapper prevent one GI from marrying a call girl who has TB, 
+    while trying to set up another Korean soldier join his pregnant wife (with 
+    Radar's help of course).
+
+    69.  Big Mac  (B-313)
+         February 25, 1975
+         Written by Laurence Marks
+         Directed by Don Weis
+         Guest Stars:  Jamie Farr, Graham Jarvis, Loudon Wainwright III, Bob 
+                       Courtleigh, Jeanne Schulherr
+
+         The camp prepares for a visit from General MacArthur.  Klinger dresses as
+    the Statue of Liberty as the General's jeep drives through the camp.  Mac
+    Arthur is so impressed, he salutes!
+
+    70.  Payday  (B-305)
+         March 4, 1975
+         Written by John Regier and Gary Markowitz
+         Directed by Hy Averback
+         Guest Stars:  Jamie Farr, Bill Christopher, Jack Soo, Eldo Quick, 
+                       Johnny Haymer, Mary Katherine Peters, Bobbie Mitchell, 
+                       Jeff Maxwell, Leland Sun, George Holloway, George Simmons, 
+                       Pat Marshall
+
+         Payday arrives, bringing lots of 18204 for Hawkeye (for claiming he wasn't
+    getting what he should because of the war).  Burns buys his wife a pearl
+    necklace, and gives the fakes to Houlihan.  Trapper finally wins a huge poker
+    pot after stealing Hawk's watch, only to see the loot vanish to save Hawkeye's
+    neck (since he gave his windfall to the orphanage).
+
+    71.  White Gold  (B-319)
+         March 11, 1975
+         Written by Larry Gelbart and Simon Muntner
+         Directed by Hy Averback
+         Guest Stars:  Jamie Farr, William Christopher, Edward Winter, Hilly 
+                        Hicks, Stafford Repp, Michael A. Salcido, Danil Thorpe
+
+         Colonel Flagg blows into camp trying to obtain penicillin to barter for 
+    information.  But Flagg comes down with appendicitis, and the only penicillin 
+    he gets is in the keister.
+
+    72.  Abyssinia, Henry  (B-324)
+         March 18, 1975
+         Written by Everett Greenbaum and Jim Fritzell
+         Directed by Larry Gelbart
+         Guest Stars:  Jamie Farr, William Christopher, Kimiko Hiroshige, Virginia 
+                       Lee, Cherylene Lee, Ray Poss
+
+         A classic!  Henry finally gets his discharge.  While Henry is tying things 
+    up, Burns prepares for his new command.  Henry bids a tearful adieu, but not 
+    before Klinger turns up in an outrageous tropical outfit (and gets Henry to zip
+    him up) and a kiss to Houlihan.  He gives Radar a hug and his last order:  "You
+    better be good now or I'm gonna come back and kick your butt!"  In the 
+    traumatic and shocking last scene, Radar announces that Henry has been killed 
+    when his plane was shot down over the Sea of Japan.
+
+    -------------------------------------------------------------------------------
+
+    Season 4  (1975 - 1976)
+    Regular Cast - Alan Alda, Gary Burghoff, Larry Linville, Mike Farrell,
+                   Harry Morgan, Loretta Swit, Jamie Farr
+
+    73.  Welcome to Korea  (G-504-506)
+         September 12, 1975
+         Written by Everett Greenbaum, Jim Fritzell, and Larry Gelbart
+         Directed by Gene Reynolds
+         Guest Stars:  Robert A. Karnes, Arthur Song, Shirlee Kong 
+
+         Frank's dream is realized--he's in charge, but Hawkeye is unchanged --
+    he skips camp, runs a blockade to find Trapper, who's gone, and welcomes
+    a new surgeon, B.J. Hunnicutt.  (1 Hour Show)
+
+    74.  Change of Command  (G-501)
+         September 19, 1975
+         Written by Jim Fritzell and Everett Greenbaum
+         Directed by Gene Reynolds
+         Guest Stars: None  
+
+         Frank settles in as commanding officer, only to have a new one
+    appointed over his head, one that to his chagrin fits in very well.
+
+    75.  It Happened One Night  (G-502)
+         September 26, 1975
+         Written by Larry Gelbart and Simon Muntner; story by Gene Reynolds
+         Directed by Gene Reynolds
+         Guest Stars:  Christopher Allport, Darren O'Connor  
+
+         A freezing night, an artillery barrage that's coming too close,
+    a patient going downhill, and Frank's searching Hot Lips' tent for
+    his letters.
+
+    76.  The Late Captain Pierce  (G-507)
+         October 3, 1975
+         Written by Glen Charles and Les Charles
+         Directed by Alan Alda
+         Guest Stars:  Richard Masur, Eldon Quick 
+
+         When Hawkeye's father is notified that he's dead, he finds it's no
+    easy matter either to get word to him or to establish that he's alive.
+
+    77.  Hey, Doc  (G-510)
+         October 10, 1975
+         Written by Rich Mittleman
+         Directed by William Jurgensen
+         Guest Stars:  Frank Marth, Bruce Kirby, Ted Hamilton  
+
+         Quid pro quo at the 4077th:  two bottles of Scotch for secret surgery,
+    a tank to scare off snipers for an unauthorized shot of penicillin.
+
+    78.  The Bus  (G-512)
+         October 17, 1975
+         Written by John D. Hess
+         Directed by Gene Reynolds
+         Guest Stars:  Soon Teck Oh  
+
+         Radar, driving Hawkeye and others back from a medical meeting, gets
+    lost and stalls the bus, but all are saved by a surrendering Korean (Soon-
+    Teck Oh).
+
+    79.  Dear Mildred  (G-505)
+         October 24, 1975
+         Written by Everett Greenbaum and Jim Fritzell
+         Directed by Alan Alda
+         Guest Stars:  None 
+
+         While Potter writes home, Frank and Hot Lips have a wood carving made
+    for him and Radar rescues a horse and makes him a present of it.
+
+    80.  The Kids  (G-511)
+         October 31, 1975
+         Written by Jim Fritzell and Everett Greenbaum
+         Directed by Alan Alda
+         Guest Stars:  Ann Doran, Mitchell Sakamoto, Huanani Minn  
+
+         The 4077th plays host to kids bombed out of their orphanage, and at
+    the same time has to deliver a baby and care for battle casualties.
+
+    81.  Quo Vadis, Captain Chandler?  (G-513)
+         November 7, 1975
+         Written by Burt Prelutsky
+         Directed by Larry Gelbart
+         Guest Stars:  Allan Arbus, Edward Winter, Alan Fudge  
+
+         Intelligence officer Flagg (Edward Winter) and psychiatrist Sidney
+    Freedman (Allan Arbus) grapple for the fate of a wounded officer (Alan
+    Fudge) who says he's Jesus Christ.
+
+    82.  Dear Peggy  (G-509)
+         November 11, 1975
+         Written by Jim Fritzell and Everett Greenbaum
+         Directed by Burt Metcalfe
+         Guest Stars:  Ned Beatty, Dennis Troy  
+
+         B.J. writes home to his wife, reporting Klinger's escape attempts, the
+    visit of a formidable chaplain (Ned Beatty), and one of Frank's goof-ups.
+
+    83.  Of Moose and Men  (G-503)
+         November 21, 1975
+         Written by Jay Folb
+         Directed by John Erman
+         Guest Stars:  Johnny Haymer, Lois Foraker, Jeff Maxwell 
+
+         Hawkeye tangles with a tough Army colonel (Tim O'Conner), B.J. helps a
+    GI (Johnny Haymer) who's gotten a "Dear John," and Frank looks endlessly for
+    Korean saboteurs.
+
+    84.  Soldier of the Month  (G-514)
+         November 28, 1975
+         Written by Linda Bloodworth
+         Directed by Gene Reynolds
+         Guest Stars:  Johnny Haymer 
+
+         Frank has a fever and makes a will leaving all his money to his wife
+    and all his clothes to Hot Lips.
+
+    85.  The Gun  (G-517)
+         December 2, 1975
+         Written by Larry Gelbart and Gene Reynolds
+         Directed by Burt Metcalfe
+         Guest Stars:  Warren Stevens  
+
+         A wounded colonel's gun, a showpiece, disappears, and Hawkeye and
+    B.J. play a hunch and bluff Frank, who has it, into returning it.
+
+    86.  Mail Call Again  (G-518)
+         December 9, 1975
+         Written by Jim Fritzell and Everett Greenbaum
+         Directed by George Tyne
+         Guest Stars:  None  
+
+         Mail brings a letter to Frank saying his wife is divorcing him, and
+    one to Potter telling him he's going to be a grandfather.
+
+    87.  The Price of Tomato Juice  (G-519)
+         December 16, 1975
+         Written by Larry Gelbart and Gene Reynolds
+         Directed by Gene Reynolds
+         Guest Stars:  James Jeter  
+
+         Radar gets the help of Hawkeye and B.J. to procure something Colonel
+    Potter says he's fond of but that's hard to come by--tomato juice.
+
+    88.  Dear Ma  (G-515)
+         December 23, 1975
+         Written by Everett Greenbaum and Jim Fritzell
+         Directed by Alan Alda
+         Guest Stars:  Redmond Gleeson, Byron Chung, John Fujioka 
+
+         Radar writes home to his mother, as Hawkeye conducts the camp foot
+    inspection and Colonel Potter gets some shrapnel in his backside.
+
+    89.  Der Tag  (G-522)
+         January 6, 1976
+         Written by Everett Greenbaum and Jim Fritzell
+         Directed by Gene Reynolds
+         Guest Stars:  Joe Morton, John Voldstad, George Simmons, William
+                       Grant  
+
+         Potter decides Frank would be less of a pain if the others were more
+    friendly to him; they oblige, with some startling results.
+
+    90.  Hawkeye  (G-520)
+         January 13, 1976
+         Written by Larry Gelbart and Simon Muntner
+         Directed by Larry Gelbart
+         Guest Stars:  Philipp Ahn, Shizuko Hoshi, Susan Sakimoto  
+
+         When Hawkeye is injured in a jeep accident and, aware he has a
+    concussion, babbles to a Korean family to keep himself awake.
+
+    91.  Some 38th Parallels  (G-521)
+         January 20, 1976
+         Written by John Regier and Gary Markowitz
+         Directed by Burt Metcalfe
+         Guest Stars:  George O'Hanlon, Lynette Mettey, Richard Lee Sung, 
+                       Ray Poss  
+
+         Frank tries to distinguish himself by selling the camp garbage, but
+    it's Hawkeye who finds a use for it:  he dumps it on a troublesome colonel
+    (George O'Hanlon, Jr.).
+
+    92.  The Novocaine Mutiny  (G-523)
+         January 27, 1976
+         Written by Burt Prelutsky
+         Directed by Harry Morgan
+         Guest Stars:  Ned Wilson, Johnny Haymer, Patricia Stevens  
+
+         Frank has Hawkeye up on charges of mutiny for various infractions when
+    Potter was away on leave and Frank was the C.O.
+
+    93.  Smilin' Jack  (G-508)
+         February 3, 1976
+         Written by Larry Gelbart and Simon Muntner
+         Directed by Charles S. Dubin
+         Guest Stars:  Robert Hogan, Dennis Kort, Michael A. Salcido, Alba
+                       Francesca  
+
+         The 4077th turns up a sick helicopter pilot (Robert Hogan) who doesn't
+    want to quit and a twice-wounded GI (Dennis Kort) who does.
+
+    94.  The More I See You  (G-524)
+         February 10, 1976
+         Written by Larry Gelbart and Gene Reynolds
+         Directed by Gene Reynolds
+         Guest Stars:  Blythe Danner, Mary Jo Catlett 
+
+         Hawkeye is reunited with a woman (Blythe Danner) he thought was out of
+    his life forever, but who never altogether leaves.
+
+    95.  Deluge  (G-516)
+         February 17, 1976
+         Written by Larry Gelbart and Simon Muntner
+         Directed by William Jurgensen
+         Guest Stars:  None  
+
+         A sudden deluge of wounded at the 4077th is followed by a fire and a
+    rainstrom to make matters difficult for the staff.
+
+    96.  The Interview  (G-525)
+         February 24, 1976
+         Written by Larry Gelbart
+         Directed by Larry Gelbart (His final episode)
+         Guest Stars:  Clete Roberts  
+
+         A stateside television correspondent (Clete Roberts) interviews M*A*S*H
+    personnel. (in Black & White)
+
+    -------------------------------------------------------------------------------
+
+    Season 5  (1976 - 1977)
+    Regular Cast - Alan Alda, Gary Burghoff, Larry Linville, Mike Farrell,
+                   Harry Morgan, Loretta Swit, Jamie Farr, William Christopher
+
+    97.  Bug Out  (U-801-802)
+         September 21, 1976
+         Written by Jim Fritzell and Everett Greenbaum
+         Directed by Gene Reynolds
+         Guest Stars:  Ricahrd Lee Sung, Frances Fong, Don Eitner, Barry Cahill,
+                       Peter Zapp, James Lough, Eileen Saki, Ko-Ko Tani 
+
+         After a rumor grows out of proportion, the 4077th moves out, assured
+    that the Chinese are about to attack.  Hawkeye, B.J., and Hot Lips remain
+    behind as they are in the middle of critical surgery.  All is well when
+    the Chinese are pushed back and the camp returns. (one hour show)
+
+    98.  Margaret's Engagement  (U-803)
+         September 28, 1976
+         Written by Gary Markowitz
+         Directed by Alan Alda
+         Guest Stars:  None
+
+         Margaret, calling from Tokyo, holds the camp in suspense until she
+    returns with the news of her engagement to Lieutenant Colonel Donald
+    Penobscott.  Frank Burns takes the news hard and arresta a Korean family
+    as spies.
+
+    99.  Out of Sight, Out of Mind  (U-806)
+         October 5, 1976
+         Written by Ken Levine and Davis Isaacs
+         Directed by Gene Reynolds
+         Guest Stars:  Tom Sullivan, Judy Farrell, Enid Kent, Dudley Knight,
+                       Michael Cedar
+
+         While fixing a stove that explodes, Hawkeye's face is badly burned.
+    His eyes are bandaged, and it is not known if he will ever see again.
+    Meanwhile Frank bets on the outcome of a baseball game which he has
+    already heard on the radio.  After much tension in the camp the bandages
+    come off, and happily, Hawkeye can see again.
+
+    100. Lt. Radar O'Reilly  (U-805)
+         October 12, 1976
+         Written by Everett Greenbaum and Jim Fritzell
+         Directed by Alan Rafkin
+         Guest Stars:  Sandy Kenyon, Johnny Kaymer, Raymond Chao 
+
+         After an offer of promotion made by Master Sergeant Woodruff at a poker
+    game, Radar is promoted to the rank of lieutenant.  Finding this position
+    awkward, Radar opts to return to his position as an enlisted man.
+
+    101. The Nurses  (U-809)
+         October 19, 1976
+         Written by Linda Bloodworth
+         Directed by Joan Darling
+         Guest Stars:  Linda Kelsey, Gregory Harrison, Mary Jo Catlett, 
+                       Carol Lawson Locatell, Patricia Sturges  
+
+         When Hot Lips confines Nurse Baker (Linda Kelsey) to her quarters,
+    little does she know that Baker's husband (Gregory Harrison) has arrived
+    in the camp.  Hawkeye and B.J. put them together in Hot Lips' tent, tell-
+    ing everyone that a quarantined patient has been placed there.  When Hot
+    Lips discovers what has happened, she breaks down and refuses to press
+    charges.
+
+    102. The Abduction of Margaret Houlihan  (U-808)
+         October 26, 1976
+         Written by Allan Katz and Don Reo; story by Gene Reynolds
+         Directed by Gene Reynolds
+         Guest Stars:  Edward Winter, June Kim, Le Quynh, Susan Bredhoff  
+
+         After hearing that North Korean prisoners have been released in the
+    area, everyone is upset when Margaret disappears.  Colonel Flagg (Edward
+    Winter) is called in and bungles things in his usual manner.  Finally Hot
+    Lips returns, after helping in the birth of a Korean baby.
+
+    103. Dear Sigmund  (U-810)
+         November 9, 1976
+         Written by Alan Alda
+         Directed by Alan Alda
+         Guest Stars:  Allan Arbus, Charles Frank, Bart Breverman, Sal
+                       Viscuso, J. Andreww Kenny, Jennifer Davis 
+
+         Major Sidney Freedman (Allan Arbus), feeling depressed, visits the
+    4077th to observe how they fare under the pressures of war.  He begins
+    a letter to Sigmund Freud as a form of self-therapy.  Freedman releases
+    his tension in the form of a practical joke with B.J., aimed at Frank Burns.
+
+    104. Mulcahy's War  (U-812)
+         November 16, 1976
+         Written by Richard Cogan
+         Directed by George Tyne
+         Guest Stars:  Brian Byers, Ric Mancini, Richard Foronjy, Ray Poss 
+
+         After Frank discovers that Danny Fitzsimmons has shot himself to get
+    out of combat, Father Mulcahy is called in.  Realizing his lack of under-
+    standing of the fighting, Mulcahy accompanies Radar to an aid station where
+    they encounter the front.  Mulcahy performs an emergency tracheotomy guided
+    by Hawkeye on the radio.
+
+    105. The Korean Surgeon  (U-814)
+         November 23, 1976
+         Written by Bill Idelson
+         Directed by Gene Reynolds
+         Guest Stars:  Soon Tech Oh, Robert Ito, Larry Hama, Richard Russell
+                       Ramos, Dennis Troy 
+
+         When Syn Paik (Soon-Teck Oh), a North Korean surgeon, arrives with some
+    wounded, he is passed off as a South Korean by Hawkeye and B.J., but to no
+    avail.  Hot Lips and Frank try to convince Potter that Paik is a spy.  Paik,
+    Hawkeye, and B.J. agree that it would be in the interest of all for Syn to
+    leave.
+
+    106. Hawkeye Get Your Gun  (U-813)
+         November 30, 1976
+         Written by Jay Folb; story by Gene Reynolds and Jay Folb
+         Directed by William Jurgensen
+         Guest Stars:  Mako, Richard Doyle, Jae Woo Lee, Thomas Botosan,
+                       Phyllis Katz, Carmine Scelza  
+
+         After 24 hours of surgery, Hawkeye and Potter venture off to a Korean
+    hospital to lend a hand.  Hawkeye is appalled to learn that he must carry
+    a gun.  After helping the Koreans, they are shelled on the way back.  They
+    scramble from the jeep before it is shelled, and Potter urges Hawkeye to
+    shoot in self-defense, against Hawkeye's will.
+
+    107. The Colonel's Horse  (U-811)
+         December 7, 1976
+         Written by Jim Fritzell and Everett Greenbaum
+         Directed by Burt Metcalfe
+         Guest Stars:  None 
+
+         While Colonel Potter goes to Tokyo on R & R, his horse develops colic,
+    Klinger becomes chronically depressed, and Hot Lips gets appendicitis.  The
+    horse is flushed out with a hose, Hawkeye and B.J. perform an appendectomy
+    on Hot Lips, and all are well when Potter returns, except Klinger.  Potter
+    offers Klinger a discharge for severe depression, and Klinger gets very
+    excited, which loses him the discharge.
+
+    108. Exorcism  (U-815)
+         December 14, 1976
+         Written by Jay Folb; story by Gene Reynolds and Jay Folb
+         Directed by Alan Alda
+         Guest Stars:  Virginia Ann Lee, James Canning, Phillip Ahn  
+
+         After Potter orders Radar to move a Korean spirit post believed to ward
+    off evil spirits, things mysteriously begin to go wrong.  When an old Korean
+    man (Philip Ahn) is brought into camp for medical attention, he refuses
+    surgery unless the end spirits in the camp are exorcised.  A priestess is
+    brought in who exhibits her dance and her bells and chants.  All is well,
+    and Radar returns the spirit post to its original position.
+
+    109. Hawk's Nightmare  (U-804)
+         December 21, 1976
+         Written by Burt Prelutsky
+         Directed by Burt Metcalfe
+         Guest Stars:  Allan Arbus, Patricia Stevens, Sean Roche  
+
+         After Hawkeye bemoans the young age of the wounded, he appears to
+    develop problems.  Sleepwalking and bad dreams, according to Dr. Sidney
+    Freedman (Allan Arbus), are taking Hawkeye back to a simple time, but the
+    horrors of war continue to intrude.  After assurance by Dr. Freedman that
+    he is as sane as can be, Hawkeye's life once again seems to settle down.
+
+    110. The Most Unforgettable Characters  (U-818)
+         January 4, 1977
+         Written by Ken Levine and David Isaacs
+         Directed by Burt Metcalfe
+         Guest Stars:  Jeff Maxwell 
+
+         Radar gets accepted to the "Famous Las Vegas Writers School" and begins
+    to write his impressions of the camp.  It happens to be Frank's birthday, so
+    Hawkeye and B.J. stage a fight with each other to make Frank happy.
+
+    111. 38 Across  (U-821)
+         January 11, 1977
+         Written by Jim Fritzell and Everett Greenbaum
+         Directed by Burt Metcalfe
+         Guest Stars:  Dick O'Neill, Oliver Clark  
+
+         Befuddled by a crossword puzzle, Hawkeye persuades Potter to get his
+    old friend Tippy Brooks (Oliver Clark), a whiz at puzzles, brought to camp.
+    Tippy arrives from his aircraft carries with his commanding officer (Dick
+    O'Neill) amidst many casualties, and provides the needed solution to the
+    puzzle.
+
+    112. Ping Pong  (U-817)
+         January 18, 1977
+         Written by Sid Dorfman
+         Directed by William Jurgensen
+         Guest Stars:  Richards Narita, Frank Maxwell, Sachiko Penny Lee  
+
+         Lieutenant Colonel Harold Becket (Roy Goldman) lies wounded in post-op
+    waiting to get back to the front for thirty more days of combat duty to get
+    his promotion.  Meanwhile, Cho Lin (Richard Narita), the Ping Pong champ,
+    is engaged to Soony (Sachiko).  He leaves to get her a ring, when he is
+    conscripted by the South Korean army.  He arrives at the 4077th as a
+    wounded soldier, and after being patched up he is married at the camp.
+
+    113. End Run  (U-816)
+         January 25, 1977
+         Written by John D. Hess
+         Directed by Harry Morgan
+         Guest Stars:  Henry Brown, Johnny Haymer  
+
+         Billy Tyler (Henry Brown), a young black sergeant, is brought into
+    camp with a bullet wound in the leg.  He is a football player, and when
+    he discovers that his leg has been amputated, he wants to die.  After
+    talks with Radar, Billy agrees that he must live on.
+
+    114. Hanky Panky  (U-822)
+         February 1, 1977
+         Written by Gene Reynolds
+         Directed by Gene Reynolds
+         Guest Stars:  Ann Sweeney  
+
+         Nurse Carrie Donovan (Ann Sweeny) receives a "Dear Jane" letter from
+    her husband and practically falls apart.  B.J. consoles her, and they spend
+    the night together.  Feelings of guilt come over B.J. until he discusses
+    them with Donovan and the air is cleared.
+
+    115. Hepatitis  (U-823)
+         February 8, 1977
+         Written by Alan Alda
+         Directed by Alan Alda
+         Guest Stars:  Barbara James  
+
+         Father Mulcahy comes down with infectious hepatitis while B.J. performs
+    a very difficult operation and Hawkeye deals with a psychosomatic back pain.
+
+    116. The General's Practitioner  (U-807)
+         February 15, 1977
+         Written by Burt Prelutsky
+         Directed by Alan Rafkin
+         Guest Stars:   Edward T Binns, Leonard Stone, Suesie Elene  
+
+         In the midst of Hawkeye's being considered, much to his distaste, as a
+    general's personal physician, Radar becomes a surrogate father to a Korean
+    woman (Suesie Elene) and her baby, until the baby's GI father (Larry Wilcox)
+    returns.
+
+    117. Movie Tonight  (U-824)
+         February 22, 1977
+         Written by Gene Reynolds, Don Reo, Allan Katz, and Jay Folb
+         Directed by Burt Metcalfe
+         Guest Stars:  Enid Kent, Judy Farrell, Jeffrey Kramer 
+
+         As a cure for the increased tension at the 4077th, Potter gets a film
+    ("My Darling Clementine") and makes a social event out of it.  As the
+    film continues to break, tensions rise, until Mulcahy plays the piano,
+    Radar does his impersonations, and everyone acts out scenes from the film.
+
+    118. Souvenirs  (U-819)
+         March 1, 1977
+         Written by Burt Prelutsky; story by Burt Prelutsky and Reinhold Weege
+         Directed by Joshua Shelley
+         Guest Stars:  Michael Bell, Brian Dennehy, Scott Mulhern  
+
+         Korean children and American soldiers are often badly wounded when they
+    hunt for souvenirs which the enemy has booby-trapped.  Potter asks for it to
+    stop, and Hawkeye and B.J. put a local junk dealer (Michael Bell) out of
+    business.
+
+    119. Post Op  (U-825)
+         March 8, 1977
+         Written by Ken Levine and David Isaacs; story by Gene Reynolds and
+           Jay Folb
+         Directed by Gene Reynolds
+         Guest Stars:  Hilly Hicks, Sal Viscuso, Andy Romano 
+
+         In the midst of a deluge of patients and their individual medical
+    histories, the 4077th is out of blood.  Everyone in camp is donating
+    blood at 48-hour intervals when a truckload of Turkish soldiers arrive
+    to offer their blood and save the day.
+
+    120. Margaret's Marriage  (U-820)
+         March 15, 1977
+         Written by Everett Greenbaum and Jim Fritzell
+         Directed by Gene Reynolds
+         Guest Stars:  Beeson Carroll, Judy Farrell, Lynne Marie Stewart,
+                       Ray Poss, Kellye Nakahara  
+
+         Prompted by pressure from Frank, Hot Lips sets a date for marriage with
+    Lieutenant Colonel Donald Penobscott.  When Donald (Beeson Carroll) arrives
+    in camp for the wedding, a bridal shower and bachelor party are given.  When
+    he has passed out drunk, Hawkeye and B.J. place Donald in a body cast and
+    convince him that he has broken his leg.  The ceremony is performed and
+    Donald and Hot Lips leave for a week's honeymoon in Tokyo.
+
+    -------------------------------------------------------------------------------
+
+    Season 6  (1977 - 1978)
+    Regular Cast - Alan Alda, Gary Burghoff, David Ogden Stiers, Mike Farrell,
+                   Harry Morgan, Loretta Swit, Jamie Farr, William Christopher
+
+    121. Fade Out, Fade In  (Y-101-102)
+         September 20, 1977
+         Written by Jim Fritzell and Everett Greenbaum
+         Directed by Hy Averback
+         Guest Stars:  James Lough, Raymond Singer, Tom Stovall, Rick Hurst,
+                       Robert Symonds, William Flatley, Joseph Burns, Barbara
+                       James
+
+         After Margaret leaves for her honeymoon, Frank becomes very distraught,
+    so Potter sends him on R & R.  All throughout a deluge of casualties, the
+    4077th receives reports of a Frank Burns gone berserk.  Potter calls Tokyo
+    and requests a replacement surgeon.  Major Charles Emerson Winchester III
+    (David Ogden Stiers) is assigned to the 4077th.  Frank Burns is apprehended,
+    promoted, and transferred to a VA hospital in Indiana.  Winchester is made
+    a permanent part of the 4077th staff. (one hour show)
+
+    122. Fallen Idol  (Y-104)
+         September 27, 1977
+         Written by Alan Alda
+         Directed by Alan Alda
+         Guest Stars:   Frances Fong, Robin Riker, Larry Gilman, Roy Goldman 
+
+         At Hawkeye's suggestion, Radar goes to Seoul to find a woman at the
+    Pink Pagoda.  Radar never gets there because of shelling along the way,
+    and is flown to the 4077th.  Hawkeye, feeling tremendous guilt, is unable
+    to perform an operation to save Radar, and is replaced by Potter.  Hawkeye
+    and Radar have a falling out as they lose respect for each other's actions.
+    All is well in the end as Hawkeye pins a Purple Heart on Radar after he has
+    recuperated.
+
+    123. Last Laugh  (Y-103)
+         October 4, 1977
+         Written by Everett Greenbaum and Jim Fritzell
+         Directed by Don Weis
+         Guest Stars:  James Cromwell, Robert Karnes, John Ashton
+
+         Madness strikes as B.J. and his old friend Bardonaro (James Cromwell)
+    play a series of practical jokes on each other as Bardonaro is about to
+    leave Korea.
+
+    124. War of Nerves  (Y-106)
+         October 11, 1977
+         Written by Alan Alda
+         Directed by Alan Alda
+         Guest Stars:  Allan Arbus, Michael O'Keefe, Peter Reigert 
+
+         The 4077th, caught up in tension and nerves, creates a bonfire to
+    release their pressure.  Meanwhile Sidney Freedman is depressed by a
+    soldier (Peter Riegert) who blames him for his injuries because Freedman
+    had sent him back into combat.
+
+    125. The Winchester Tapes  (Y-107)
+         October 18, 1977
+         Written by Everett Greenbaum and Jim Fritzell
+         Directed by Burt Metcalfe
+         Guest Stars:  Thomas Carter, Kimiko Hiroshige 
+
+         Hawkeye tries unsuccessfully to get to Seoul to see a Nurse Gilmore
+    for the weekend.  Meanwhile, Winchester has taped a letter home asking for
+    his influential parents to help get him back to the States.  To get even,
+    Hawkeye and B.J. switch Winchester's clothes, causing Winchester to alter
+    his eating patterns.
+
+    126. The Light That Failed  (Y-108)
+         October 25, 1977
+         Written by Burt Prelutsky
+         Directed by Chrales S. Dubin
+         Guest Stars:  Enid Kent, Gary Erwin, Philip Baker Hall  
+
+         With supplies low, the 4077th gets a truckload of ice cream churns
+    and salt tablets.  B.J. receives a mystery novel that everyone in camp
+    reads in turn.  The last pate is missing and the solution to the mystery
+    is undiscovered until B.J. calls the author by long distance.
+
+    127. In Love and War  (Y-112)
+         November 1, 1977
+         Written by Alan Alda
+         Directed by Alan Alda
+         Guest Stars:  Kieu Chinh, Susan Krebs, Soorah Ahn, Enid Kent  
+
+         Hawkeye falls in love with Kyong Soon (Kieu Chinh), a Korean woman who
+    is caring for her sick mother and orphaned children.  All hope is lost as
+    Kyong takes her possessions and the children to the south after her mother
+    has died.
+
+    128. Change Day  (Y-113)
+         November 8, 1977
+         Written by Laurence Marks
+         Directed by Don Weis
+         Guest Stars:  Phillip Ahn, Noel Toy, Glenn Ash, Richard Lee Sung  
+
+         Charles plots a scheme to get rich when he discovers that blue scrip
+    is going to be exchanged for red scrip.  Hawkeye and B.J. outsmart him,
+    and he is left holding the worthless scrip.
+
+    129. Images  (Y-105)
+         November 15, 1977
+         Written by Burt Prelutsky
+         Directed by Burt Metcalfe
+         Guest Stars:  Susan Blanchard, Larry Block, John Durren  
+
+         Radar notices a number of tattoos on one of the wounded and convinces
+    himself that with a tattoo he will be irresistible to women.  Everyone tries
+    to discourage him, and he admits to having received a tattoo that will wash
+    off.
+
+    130. The M*A*S*H Olympics  (Y-111)
+         November 22, 1977
+         Written by Ken Levine and David Isaacs
+         Directed by Don Weis
+         Guest Stars:  Mike Henry, Michael McManus  
+
+         Realizing how out of shape the 4077th is, Potter decides to hold a camp
+    Olympic competition.  The winning team gets a three-day pass, so everyone is
+    excited.  Donald Penobscot (Mike Henry) arrives and is allowed to substitute
+    for an ailing Klinger.  Hawkeye's team wins, and B.J. must then chauffeur
+    Hawkeye around in a wheelchair for a week.
+
+    131. The Grim Reaper  (Y-110)
+         November 29, 1977
+         Written by Burt Prelutsky
+         Directed by George Tyne
+         Guest Stars:  Charles Aidman, Jerry Hauser, Kellye Nakahara  
+
+         Colonel Victor Bloodworth (Charles Aidman) predicts that 280 wounded
+    will arrive at the 4077th.  Hawkeye is antagonized by Bloodworth and shoves
+    him against a wall.  Bloodworth presses for a court martial until he becomes
+    one of the wounded and watches Hawkeye saving a soldier's (Jerry Houser)
+    life.  Realizing Hawkeye's value as a doctor, Bloodworth drops all charges.
+
+    132. Comrades in Arms (Part 1)  (Y-116)
+         December 6, 1977
+         Written by Alan Alda
+         Directed by: Burt Metcalfe
+         Guest Stars:  Jon Yune, James Saito     
+
+         Lost behind enemy lines, Hawkeye and Margaret form a personal truce and
+    seek shelter in a roadside hut.
+
+    133. Comrades in Arms (Part 2)  (Y-117)
+         December 13, 1977
+         Written by Alan Alda
+         Directed by Alan Alda
+         Guest Stars:  Jon Yune, James Saito, Doug Rowe
+
+         Margaret and Hawkeye seek solace from enemy fire in each other's arms 
+    and end up, briefly, as lovers.
+
+    134. The Merchant of Korea  (Y-118)
+         December 20, 1977
+         Written by Ken Levine and David Isaacs
+         Directed by William Jurgensen
+         Guest Stars:  Johnny Haymer 
+
+         After Charles hands B.J. two hundred dollars, he begins to take advan-
+    tage.  Everyone gets together and persuades Charles to play poker.  He has
+    incredible beginner's luck until Radar discovers that Charles whistles loud-
+    ly when he bluffs.  They all win back their money and then some.
+
+    135. The Smell of Music  (Y-115)
+         January 3, 1978
+         Written by Jim Fritzell and Everett Greenbaum
+         Directed by Stuart Miller
+         Guest Stars:  Jordan Clarke, Nancy Steen, Lois Foraker, Richard Lee Sung
+
+         Charles plays a French horn and drives Hawkeye and B.J. crazy.  They
+    refuse to bathe until the French horn playing is stopped.  Meanwhile Potter
+    saves the life of a suicidal patient (Jordan Clarke).  The camp collectively
+    hoses down Hawkeye and B.J. while Margaret has a soldier run over the French
+    horn with a jeep.
+
+    136. Patient 4077  (Y-114)
+         January 10, 1978
+         Written by Ken Levine and David Isaacs
+         Directed by Harry Morgan
+         Guest Stars:  Keye Luke, Brenda Thomson, Harry Gold, Pat Stevens
+
+         In need of a special surgical clamp, Hawkeye and B.J. hire Mr. Shin
+    (Keye Luke), a local jewelry dealer, to make the clamp.  Days later the
+    clamp is used to save the leg of a wounded soldier.
+
+    137. Tea and Empathy  (Y-109)
+         January 17, 1978
+         Written by Bill Idelson
+         Directed by Don Weis
+         Guest Stars:  Bernard Fox, Neil Thompson, Sal Viscuso
+
+    With British and American casualties heavy, the 4077th's supply of peni-
+    cillin has been stolen.  Father Mulcahy discovers the location of some
+    penicillin, and he and Klinger go out in search of it.  They are shot at,
+    but safely return with the drug and save the day.
+
+    138. Your Hit Parade  (Y-124)
+         January 24, 1978
+         Written by Ronny Graham
+         Directed by George Tyne
+         Guest Stars:  Ronny Graham, William Kux, Ken Michelman
+
+         With the arrival of a shipment of records, Radar plays the part of a
+    disc jockey and helps to get everyone through the incredibly long deluge
+    of wounded.
+
+    139. What's Up, Doc?  (Y-119)
+         January 30, 1978
+         Written by Larry Balmagia
+         Directed by George Tyne
+         Guest Stars:  Charles Frank, Lois Foraker, Kurt Andon
+
+         Hot Lips, believing herself to be pregnant, asks Hawkeye to test her.
+    The only rabbit available is Radar's pet Fluffy.  Hawkeye promises not to
+    kill the rabbit while performing the test.  Meanwhile, Greenleigh (Charles
+    Frank), a patient, holds Charles and B.J. at gunpoint, demanding to be sent
+    back to Ohio.  Greenleigh collapses from loss of blood, and Hot Lips isn't
+    pregnant.
+
+    140. Mail Call Three  (Y-121)
+         February 6, 1978
+         Written by Everett Greenbaum and Jim Fritzell
+         Directed by Charles S. Dubin
+         Guest Stars:  Oliver Clark, Jack Grapes, Carmine Scelza, Terri Paul
+
+         After a delay of three weeks, five sacks of mail arrive, and everyone
+    in camp reacts to good and bad news from home.  Hawkeye receives love letters
+    addressed to Benjamin Pierce (Oliver Clark), B.J.'s wife has been approached
+    by another man, and Radar's mom has found a boyfriend.
+
+    141. Temporary Duty  (Y-125)
+         February 13, 1978
+         Written by Larry Balmagia
+         Directed by Burt Metcalfe
+         Guest Stars:  George Lindsey, Marcia Rodd
+
+         With a temporary transfer of personnel between the 4077th and the
+    8063rd, Hawkeye is replaced by Captain Roy Dupree (George Lindsey).  Fear-
+    ing this to be permanent, Charles and B.J. successfully conspire to have
+    Dupree permanently removed from the 4077th.
+
+    142. Potter's Retirement  (Y-120)
+         February 20, 1978
+         Written by Laurence Marks
+         Directed by William Jurgensen
+         Guest Stars:  George Wyner, Peter Hobbs, Ken White
+
+         Potter is upset when General Kent informs him that people in the 4077th
+    are complaining about his leadership.  Potter returns to camp and discovers
+    that the complaints are coming from a Corporal Joe Benson (Peter Hobbs) sent
+    by a disturbed Colonel Frank Webster (George Wyner) who has been wounded
+    some months earlier.
+
+    143. Dr. Winchester and Mr. Hyde  (Y-122)
+         February 27, 1978
+         Written by Ken Levine, David Isaacs, and Ronny Graham
+         Directed by Charles S. Dubin
+         Guest Stars:  Chris Murney, Joe Tornatore, Ron Max, Rod Gist
+
+         Charles takes amphetamines to keep up his energy level, and even drugs
+    Radar's mouse so that it will win a race against a Marine's mouse.
+
+    144. Major Topper  (Y-123)
+         March 27, 1978
+         Written by Allyn Freeman
+         Directed by Charles S. Dubin
+         Guest Stars:  Hamilton Camp, Andrew Bloch, Donald Blackwell, Peter Zapp,
+                       Paul Linke, John Kirby, Michael Mann, Kellye Nakahara
+
+         With the possibility of contaminated morphine, the doctors at the
+    4077th administer placebos to the patients which seem to work.  Meanwhile,
+    a new soldier (Hamilton Camp) is released on a Section Eight.
+
+    -------------------------------------------------------------------------------
+
+    Season 7  (1978 - 1979)
+    Regular Cast - Alan Alda, Gary Burghoff, David Ogden Stiers, Mike Farrell,
+                   Harry Morgan, Loretta Swit, Jamie Farr, William Christopher
+
+    145. Commander Pierce  (T-404)
+         September 18, 1978
+         Written by Ronny Graham
+         Directed by Burt Metcalfe
+         Guest Stars:  James Lough, Andrew Massett, Jan Jorden
+
+         Hawkeye undergoes a drastic change when he becomes temporary commander
+    of the 4077th and learns about the tedious bureaucracy and accompanying
+    headaches that Colonel Potter deals with daily.
+
+    146. Peace On Us  (T-401)
+         September 25, 1978
+         Written by Ken Levine and David Isaacs
+         Directed by George Tyne
+         Guest Stars:  Kevin Hagen, Hugh Gillan
+
+         Hawkeye becomes so disgusted with the stalled Panmunjon peace talks
+    that he impulsively takes matters into his own hands and goes to the
+    meetings to lend a hand.
+
+    147. Lil  (T-406)
+         October 2, 1978
+         Written by Sheldon Bull
+         Directed by Burt Metcalfe
+         Guest Stars:  Carmen Matthews, W. Perren Page
+
+         Colonel Potter strikes up a warm friendship with the visiting Eighth
+    Army head nurse, Colonel Lil Rayburn (Carmen Matthews), a regular Army
+    type of his own age and interests.  But Radar reacts huffily, thinking
+    his commanding officer has more than just friendship on his mind.
+
+    148. Our Finest Hour  (T-408-409)
+         October 9, 1978
+         Written by Ken Levine and David Isaacs, Larry Balmagia, and Ronny Graham
+         Directed by Burt Metcalfe
+         Guest Stars:  Clete Roberts
+
+         Newscaster Clete Roberts, reprising an earlier interview appearance,
+    returns to update Korean War conditions when he conducts a series of tele-
+    vision talks with the leading characters of the 4077th. (1 hour, Black & White)
+
+    149. The Billfold Syndrome  (T-405)
+         October 16, 1978
+         Written by Ken Levine and David Isaacs
+         Directed by Alan Alda
+         Guest Stars:  Kevin Geer, Allan Arbus
+
+         Charles becomes so irate over a turndown for a future medical position
+    at home that he refuses to talk to anyone in the unit, until Hawkeye and
+    B.J. send him a false telegram from home.  Meanwhile, a young soldier
+    (Kevin Geer) can't remember his own identity, so Sidney Freedman (Allan
+    Arbus) is called for help.
+
+    150. None Like it Hot  (T-410)
+         October 23, 1978
+         Written by Ken Levine, David Isaacs, and Johnny Bonaduce
+         Directed by Tony Mordente
+         Guest Stars:  Ted Gehring, Johnny Haymer, Jan Jorden
+
+         The oppressive Korean heat gets to everyone, especially Klinger, who
+    responds to the conditions with an ingenious scheme to effect a discharge.
+    Meanwhile, Hawkeye and B.J. are secretly gloating over their newly arrived
+    remedy for the weather, a collapsible bathtub, until they realize that if
+    word gets out it could spoil their fun.
+
+    151. They Call the Wind Korea  (T-407)
+         October 30, 1978
+         Written by Ken Levine and David Isaacs
+         Directed by Charles S. Dubin
+         Guest Stars:  Tom Dever, Paul Cavonis, Randy Stumpf
+
+         A strong windstorm affects the M*A*S*H personnel in varying ways:
+    Hawkeye and most of the unit busy themselves securing items that could
+    blow away, Radar prepares his animal hutch for the worst, while a dis-
+    gusted Charles switches his Tokyo-leave transportation from air to
+    ground and runs into a difficult medical situation en route to Seoul.
+
+    152. Major Ego  (T-412)
+         November 6, 1978
+         Written by Larry Balmagia
+         Directed by Alan Alda
+         Guest Stars:  Greg Mullavey, David Dean, Frank Pettinger, Phyllis Katz
+
+         Charles assumes heroic proportions after reviving a dying patient
+    with heart massage, and he becomes more insufferable than ever when a
+    photojournalist from Stars and Stripes (Greg Mullavey) arrives to pub-
+    licize his medical prowess.
+
+    153. Baby, It's Cold Outside  (T-403)
+         November 13, 1978
+         Written by Gary David Goldberg
+         Directed by George Tyne
+         Guest Stars:  Terry Wills, Teck Murdock, David Dramer, Jan Jorden
+
+         While everyone is complaining about the record cold snap, Charles
+    becomes the most unpopular man in camp when his parents send him a winter-
+    ized polar suit that he insists on flaunting in front of the freezing medi-
+    cal personnel.
+
+    154. Point of View  (T-415)
+         November 20, 1978
+         Written by Ken Levine and David Isaacs
+         Directed by Charles S. Dubin
+         Guest Stars:  Brad Gorman, Marc Baxley, Edward Gallardo, Jan Jorden,
+                       Hank Ross, David Stafford, Paul Tuerpe
+
+         In this unique episode, the camera becomes the eyes of a young
+    wounded soldier.  It records his sensory responses to being wounded,
+    flown by helicopter to the 4077th, examined, operated on, and treated
+    in post-operation.
+
+    155. Dear Comrade  (T-413)
+         November 27, 1978
+         Written by Tom Reeder
+         Directed by Charles S. Dubin
+         Guest Stars:  Sab Shimono, Larry Block, Robert Clotworthy
+
+         Hawkeye and B.J. discover that Charles is living the life of Riley
+    thanks to the attentions of his menially paid Korean servant (Sab Shi-
+    mono), a man of unusual skills.  He has an important contribution to
+    make--a native remedy for a seemingly insoluble medical problem.
+
+    156. Out of Gas  (T-411)
+         December 4, 1978
+         Written by Tom Reeder
+         Directed by Mel Damski
+         Guest Stars:  Justin Lord, Byron Chung, Johnny Haymer
+
+         Heavy casualties are arriving, creating severe problems for the
+    M*A*S*H unit because they are nearly out of pentothal.  Mulcahy takes
+    up a collection from everyone--including a case of wine from Charles'
+    private supply--and he and Charles take the jeep to make a trade with
+    the black marketeers for pentothal.
+
+    157. An Eye for a Tooth  (T-414)
+         December 11, 1978
+         Written by Ronny Graham
+         Directed by Charles S. Dubin
+         Guest Stars:  Peter Palmer
+
+         Father Mulcahy takes being passed over for promotion philosophi-
+    cally until he hears of the rapid advancement made by a heroic heli-
+    copter pilot.  Then his uncharacteristically bold actions stun Colonel
+    Potter and the entire company.
+
+    158. Dear Sis  (T-417)
+         December 18, 1978
+         Written by Alan Alda
+         Directed by Alan Alda
+         Guest Stars:  Lawrason Driscoll, Patrcik Driscoll, Jo Ann Thomson,
+                       W. Perren Page
+
+         Father Mulcahy writes a pre-Christmas letter home to his sister,
+    who is a nun.  His frustration at not being more effective at the 4077th
+    seems to represent the general depression of the unit's personnel as they
+    approach the holiday season thousands of miles away from their loved ones.
+
+    159. B.J. Papa San  (T-402)
+         January 1, 1979
+         Written by Larry Balmagia
+         Directed by James Sheldon
+         Guest Stars:  Dick O'Neill, Michael Aragon, Chao-Li Chi, Stephen
+                       Keep, Johnny Haymer, Richard Furukawa, Shizuko Hoshi
+
+         B.J. becomes almost the surrogate father to a Korean family.  Finding
+    them a substitute for his own absent family, B.J. spends so much time with
+    them that his medical efficiency begins to suffer, and Hawkeye worries
+    about his health.
+
+    160. Inga  (T-420)
+         January 8, 1979
+         Written by Alan Alda
+         Directed by Alan Alda
+         Guest Stars:  Mariette Hartley, Phyllis Katz, Mark Favara
+
+         It's instant attraction for Hawkeye when a beautiful Swedish doctor
+    (Mariette Hartley) arrives to observe combat surgery.  That is, until she
+    upstages him in the operating room with a superior technique and his ego
+    is bruised.
+
+    161. The Price  (T-418)
+         January 15, 1979
+         Written by Erik Tarloff
+         Directed by Charles S. Dubin
+         Guest Stars:  Miko Mayama, Yuki Shimoda, Ken Mochizuki
+
+         The 4077th is confronted by two crises:  Colonel Potter's mare,
+    Sophie, mysteriously disappears from her corral, and Hawkeye and B.J.
+    find themselves with a young Korean boy on their hands who is trying
+    to avoid conscription into the Army.
+
+    162. The Young and Restless  (T-421)
+         January 22, 1979
+         Written by Mitch Markowitz
+         Directed by William Jurgensen
+         Guest Stars:  James Canning
+
+         A lecture on the latest techniques by a young surgeon from Tokyo
+    and a later demonstration of his surgical skill bring home to the resi-
+    dent M*A*S*H surgeons that they are out of touch with new medical practices.
+
+    163. Hot Lips is Back in Town  (T-419)
+         January 29, 1979
+         Written by Larry Balmagia and Bernard Dilbert
+         Directed by Charles S. Dubin
+         Guest Stars:  Peggy Lee Brennan, Walter Brooke, Jan Jorden
+
+         Radar, who is smitten with the cute new nurse (Peggy Lee Brennan)
+    at the hospital, relies on Hawkeye's expertise on how to cope with the
+    situation.  Hot Lips, meanwhile, celebrates her just-granted divorce by
+    taking a step that arouses Colonel Potter's ire.
+
+    164. C*A*V*E  (T-423)
+         February 5, 1979
+         Written by Larry Balmagia and Ronny Graham
+         Directed by William Jurgensen
+         Guest Stars:  Basil Hoffman, Mark Taylor, Charles Jenkins
+
+         The 4077th evacuation to a nearby cave to avoid U.S. artillery fire
+    on a Chinese target poses another hazard for Hawkeye, who has a claustro-
+    phobia problem that Colonel Potter is unaware of. 
+
+    165. Rally Round the Flagg, Boys  (T-425)
+         February 14, 1979
+         Written by Mitch Markowitz
+         Directed by Harry Morgan
+         Guest Stars:  Edward Winter, Neil Thompson, Bob Okazaki
+
+         The sinister Colonel Flagg (Edward Winter) pops up at the 4077th
+    again, playing his usual spy games, convinced that Hawkeye is a commu-
+    nist sympathizer.
+
+    166. Preventive Medicine  (T-416)
+         February 19, 1979
+         Written by Tom Reeder
+         Directed by Tony Mordente
+         Guest Stars:  James Wainwright, Larry Jenkins
+
+         The number of arriving wounded has increased because of a careless
+    Colonel Lacy (James Wainwright).  Hawkeye slips Lacy something to make
+    him ill and removes his appendix under the strong protests of B.J.
+
+    167. A Night at Rosie's  (T-426)
+         February 26, 1979
+         Written by Ken Levine and David Isaacs
+         Directed by Burt Metcalfe
+         Guest Stars:  Keye Luke, Joshua Bryant, Joseph Di Reda
+
+         Hawkeye, B.J., and their medical cohorts find a new way to escape
+    the depressing atmosphere of the war, remaining at Rosie's (Eileen Saki)
+    Bar, much to the displeasure of Colonel Potter.
+
+    168. Ain't Love Grand  (T-422)
+         March 5, 1979
+         Written by Ken Levine and David Isaacs
+         Directed by Mike Farrell
+         Guest Stars:  Kit McDonough, Sylvia Chang, Eileen Saki, Michael
+                       Williams, Judy Farrell
+
+         The impossible happens for the snobbish Charles when he shares an
+    emotional experience with Klinger, who discovers a U.S. nurse (Kit Mc-
+    Donough) who finds him and his bizarre attire attractive, while Charles
+    succumbs to the exotic charms of a Korean girl (Sylvia Chang) he meets
+    at Rosie's (Eileen Saki) Bar.
+
+    169. The Party  (T-424)
+         March 12, 1979
+         Written by Burt Metcalfe and Alan Alda
+         Directed by Burt Metcalfe
+         Guest Stars:  Burt Metcalfe
+
+         Talk of a post-war reunion suggests an idea to B.J.:  planning a
+    present-day stateside gathering of 4077th families, a scheme he conti-
+    nues to promote even under the duress of "bugging out" in the wake of
+    a Chinese breakthrough.
+
+    -------------------------------------------------------------------------------
+
+    Season 8  (1979 - 1980)
+    Regular Cast - Alan Alda, David Ogden Stiers, Mike Farrell, Harry Morgan,
+                   Loretta Swit, Jamie Farr, William Christopher
+
+    170. Too Many Cooks  (S-601)
+         September 17, 1979
+         Written by Dennis Koenig
+         Directed by Charles S. Dubin
+         Guest Stars:  John Randolph, Ed Begley, Jr.
+
+         A clumsy foot soldier (Ed Begley, Jr.) finds the quickest way to the
+    crew's heart, boosting morale at the war-weary 4077th by cooking gourmet
+    delights.  Only Colonel Potter, burdened with a personal crisis, is immune
+    from the high spirits enveloping the hospital.
+
+    171. Are You Now, Margaret  (S-602)
+         September 24, 1979
+         Written by Thad Mumford and Dan Wilcox
+         Directed by Charles S. Dubin
+         Guest Stars:  Lawrence Pressman, Jennifer Davis, Jeff Maxwell
+
+         A Congressional aide (Lawrence Pressman) visits the 4077th on a sup-
+    posedly routine fact-finding tour, but it's discovered that his motives
+    are far deeper.
+
+    172. Guerilla My Dreams  (S-603)
+         October 1, 1979
+         Written by Bob Colleary
+         Directed by Alan Alda
+         Guest Stars:  Mako, Joshua Bryant, Huanani Minn, George Kee Cheung,
+                       Marcus Mukai, Connie Izay
+
+         The arrival of a wounded Korean woman sparks a conflict at the 4077th:
+    Hawkeye wants to heal her, but a steely ROK officer (Mako) is more anxious
+    to "question" her about alleged guerilla activities.
+
+    173. Good-Bye Radar (Part 1)  (S-610)
+         October 8, 1979
+         Written by Ken Levine and David Isaacs
+         Directed by Charles S. Dubin
+         Guest Stars:  Marylin Jones, Johnny Haymer, Michael O'Dwyer, Richard
+                       Lee-Sung, Tony Cristmo, Arell Blanton
+
+         Company clerk Radar O'Reilly (Gary Burghoff), on leave in Tokyo, is
+    desperately needed back at the crisis-stricken 4077th, but his return is
+    delayed by outside events.  While casualties continue to pour in from the
+    front, the 4077th's generator conks out, depriving the medical unit of all
+    electrical power.  But Klinger, filling in for the vacationing Radar,
+    lacks the expertise and experience to wheel and deal for a new machine.
+
+    174. Good-Bye Radar (Part 2)  (S-611)
+         October 15, 1979
+         Written by Ken Levine and David Isaacs
+         Directed by Charles S. Dubin
+         Guest Stars:  Lee de Broux, Whitney Rydbeck, David Dozer
+
+         As company clerk Radar O'Reilly reluctantly prepares to depart the
+    4077th, the unit is still without electricity due to a broken generator,
+    and the operating room continues to fill up with war wounded as night
+    falls.  The responsibility for procuring a new generator falls on Klinger,
+    who lacks Radar's masterful knack of cutting through red tape in search
+    of much-needed supplies.
+
+    175. Period of Adjustment  (S-604)
+         October 22, 1979
+         Written by Jim Mulligan and John Rappaport
+         Directed by Charles S. Dubin
+         Guest Stars:  Jeff Maxwell, Eileen Saki, Gwen Farrell
+
+         Klinger, taking over as the 4077th's new clerk, wearies of complaints
+    about his inefficiency, while B.J.'s homesickness is intensified by news of
+    Radar's visit to his family.
+
+    176. Nurse Doctor  (S-608)
+         October 29, 1979
+         Written by Sy Rosen, Thad Mumford and Dan Wilcox; story by Sy Rosen
+         Directed by Charles S. Dubin
+         Guest Stars:  Alexandra Stoddart
+
+         A beautiful and ambitious young nurse (Alexandra Stoddart) who plans
+    to become a doctor when she leaves the Army finds herself in a misunder-
+    standing with Father Mulcahy.  Meanwhile, the camp's water supply is de-
+    pleted, and the rest of the 4077th is more concerned about where to find
+    a running shower.
+
+    177. Private Finance  (S-605)
+         November 5, 1979
+         Written by Dennis Koenig
+         Directed by Charles S. Dubin
+         Guest Stars:  Shizuko Hoshi, Denice Kumagi, Mark Kologi, Joey Pento,
+                       Philip Simma, Art Evans
+
+         A South Korean Woman misinterprets Klinger's motives when he tries to
+    aid her daughter financially.  Meanwhild, Hawkeye wrestles with his conscience
+    over a promise made to a dying soldier.
+
+    178. Mr. and Mrs. Who?  (S-606)
+         November 12, 1979
+         Written by Ronny Graham
+         Directed by Burt Metcalfe
+         Guest Stars:  Claudette Evans, James Keane
+
+         Charles Winchester returns to the 4077th after a trip to Tokyo with an
+    uncharacteristic hangover and the uneasy feeling of a romantic entangle-
+    ment.  Meanwhile, the hospital struggles to find a cure for an outbreak
+    of deadly hemorrhagic fever.
+
+    179. The Yalu Brick Road  (S-607)
+         November 19, 1979
+         Written by Mike Farrell
+         Directed by Charles S. Dubin
+         Guest Stars:  Soon Tech Oh, G.W. Bailey
+
+         Hawkeye and B.J. lose their way while rushing urgently needed anti-
+    biotics to the 4077th, which is wracked with food poisoning.  Wandering
+    back to M*A*S*H, the pair are found by a peculiar North Korean soldier
+    (Soon-Teck Oh).
+
+    180. Life Time  (S-609)
+         November 26, 1979
+         Written by Alan Alda and Walter D. Dishell, M.D.
+         Directed by Alan Alda
+         Guest Stars:  Kevin Brophy
+
+         A severely wounded soldier, rushed to the poorly equipped 4077th by
+    chopper, will die or be permanently paralyzed if he doesn't receive major
+    surgery in 20 minutes.  Nearly all of the action in this innovative episode
+    is compressed into the program's 25-minute running time.
+
+    181. Dear Uncle Abdul  (S-613)
+         December 3, 1979
+         Written by John Rappaport and Jim Mulligan
+         Directed by William Jurgensen
+         Guest Stars:  Kelly Ward, Richard Lineback, Alexander Petale
+
+         Klinger discovers that his duties as company clerk include catering
+    to the eccentric whims of the 4077th officers.  Consequently, the unusual
+    demands by Klinger's superiors leave little time to write a letter home
+    to Toledo.
+
+    182. Captains Outrageous  (S-614)
+         December 10, 1979
+         Written by Thad Mumford and Dan Wilcox
+         Directed by Burt Metcalfe
+         Guest Stars:  Eileen Saki, John Orchard, Sirri Murad, G.W. Bailey,
+                       Paul Cavonis, Momo Yashima, Jo Ann Thompson
+
+         A brawl at Rosie's Bar puts Rosie (Eileen Saki) in the hospital, and
+    the 4077th doctors are pressed into service as temporary saloonkeepers.
+    Meanwhile, Father Mulcahy is apprehensive that his long-pending promotion
+    to captain will again be denied.
+
+    183. Stars and Stripes  (S-615)
+         December 17, 1979
+         Written by Dennis Koenig
+         Directed by Harry Morgan
+         Guest Stars:  Joshua Bryant
+
+         Friction arises between B.J. and Winchester when they're asked to
+    write a report for a prestigious medical journal on how they saved a
+    soldier's life with a daring operation.  Meanwhile, Hot Lips receives
+    an eventful visit from Scully (Joshua Bryant), her combat soldier beau.
+
+    184. Yessir, That's Our Baby  (S-617)
+         December 31, 1979
+         Written by Jim Mulligan
+         Directed by Alan Alda
+         Guest Stars:  Howard Platt, William Bogert, Yuki Shimoda, 
+                       Elizabeth Farley
+
+         A baby born to a Korean woman and an American GI is abandoned at
+    the 4077th.  Knowing that mixed-blood children are often mistreated in
+    Korean society, the troop sets about the frustrating task of finding a
+    new home for the infant.
+
+    185. Bottle Fatigue  (S-618)
+         January 7, 1980
+         Written by Thad Mumford and Dan Wilcox
+         Directed by Burt Metcalfe
+         Guest Stars:  Shelley Long, David Hirokane, Shari Saba
+
+         Horrified by the gigantic size of his monthly bar tab at the
+    officer's club, Hawkeye vows to give up booze for a week.  Meanwhile,
+    Winchester desperately tries to halt his sister's impending marriage
+    to a man he considers unworthy of the Winchester heritage.
+
+    186. Heal Thyself  (S-616)
+         January 14, 1980
+         Written by Dennis Koenig; story by Dennis Koenig and Gene Reynolds
+         Directed by Mike Farrell
+         Guest Stars:  Edward Herrman
+
+         Colonel Potter turns crotchety when he catches the mumps, and his
+    condition is worsened when another M*A*S*H member (Winchester) gets the
+    same disease and has to move in with him.  A temporary replacement
+    surgeon (Edward Herrmann) is quickly brought into the 4077th and seems
+    to be a gem in terms of both personality and ability.
+
+    187. Old Soldiers  (S-620)
+         January 21, 1980
+         Written by Dennis Koenig
+         Directed by Charles S. Dubin
+         Guest Stars:  Jane Connell, Sally Imamura, Jason Autajay
+
+         Hawkeye is appointed temporary commander of the 4077th when
+    Colonel Potter rushes off to Tokyo on a mysterious mission.  While
+    in command, Hawkeye's main problem is housing a large group of Korean
+    refugees comprised mainly of rambunctious children who need medical care.
+
+    188. Morale Victory  (S-619)
+         January 28, 1980
+         Written by John Rappaport
+         Directed by Charles S. Dubin
+         Guest Stars:  James Stephens, G.W. Bailey, Connie Izay
+
+         Tired of their constant complaints about the quality of recrea-
+    tional activities at the 4077th, Colonel Potter appoints Hawkeye and
+    B.J. as the new morale officers.  Winchester's morale has already
+    reached a new peak.  He's ecstatic about his operation on a wounded
+    soldier (James Stephens) which saved the boy's leg, leaving only
+    "negligible" side effects--the loss of use of his arm.  However,
+    the soldier was a concert pianist before the war, so Winchester
+    obtains music written by Maurice Ravel for a pianist that had lost
+    a hand in World War I.
+
+    189. Lend a Hand  (S-621)
+         February 4, 1980
+         Written by Alan Alda
+         Directed by Alan Alda
+         Guest Stars:  Robert Alda, Antony Alda, Daren Kelly, Shari Saba
+
+         Irritated that the 4077th is planning a "surprise" party for him,
+    Hawkeye volunteers to go to the aid of a wounded surgeon at the front.
+    An additional irritant to Hawkeye is the arrival of Dr. Borelli (Robert
+    Alda), a wisecracking medical advisor with whom he habitually disagrees.
+    (NOTE:  Alda's brother Antony also appears in this episode as an ambu-
+    lance driver).
+
+    190. Goodbye, Cruel World  (S-622)
+         February 11, 1980
+         Written by Thad Mumford and Dan Wilcox
+         Directed by Charles S. Dubin
+         Guest Stars:  Clyde Kusatsu, Allan Arbus, Philip Burns, James,
+                       Lough, David Cramer
+
+         Klinger redecorates his quarters, but the resultant ridicule he
+    receives drives him to new heights in his efforts to get out of the
+    Army.  Meanwhile, the doctors are perplexed by the reaction of an
+    Asian-American war hero (Clyde Kusatsu) when he's informed that he's
+    being sent home because of his wounds, and Dr. Sidney Freedman (Allan
+    Arbus) is called in to assist.
+
+    191. Dreams  (S-612)
+         February 18, 1980
+         Written by Alan Alda; Story by Alan Alda and James Jay Rubinfier
+         Directed by Alan Alda
+         Guest Stars:  Ford Rainey, Robin Haynes, Catherine Bergstrom, Fred
+                       Stuthman, Kurtis Sanders, Ray Lynch, Connie Izay
+
+         The 4077th can't escape the Korean War, even in its dreams.  Ex-
+    hausted after two days without sleep, members of the 4077th steal away
+    for cat naps and experience dreams that reveal their fears, yearnings
+    and frustrations.
+
+    192. War Co-Respondent  (S-624)
+         March 3, 1980
+         Written by Mike Farrell
+         Directed by Mike Farrell
+         Guest Stars:  Susan Saint James, Brad Wilkin, Calvin Levels
+
+         B.J. finds himself attracted to a famous war correspondent (Susan
+    Saint James) who has fallen in love with him.
+
+    193. Back Pay  (S-625)
+         March 10, 1980
+         Written by Thad Mumford, Dan Wilcox, and Dennis Koenig
+         Directed by Burt Metcalfe
+         Guest Stars:  Sab Shimono, Peter Kim, Jerry Fujikawa, G.W. Bailey,
+                       Richard Herd, Roy Goldman
+
+         Angered by the way civilian doctors stateside are profiting from
+    the war, Hawkeye presents the Army with a bill for his medical services.
+    Meanwhile, Charles reluctantly demonstrates American medical practices
+    to three Korean medics (Sab Shimono, Peter Kim, Jerry Fujikawa).
+
+    194. April Fools  (S-623)
+         March 24, 1980
+         Written by Dennis Koenig
+         Directed by Charles S. Dubin
+         Guest Stars:  Pat Hingle, G.W. Bailey, Roy Goldman, Jennifer Davis
+
+         A no-nonsense Colonel (Pat Hingle) who is notorious as a hard-
+    nosed disciplinarian visits the 4077th during an outbreak of April
+    Fools' Day pranksterism.  Colonel Potter tries in vain to halt the
+    mayhem before Colonel Daniel Webster Tucker arrives in camp.
+
+    -------------------------------------------------------------------------------
+
+    Season 9  (1980 - 1981)
+    Regular Cast - Alan Alda, David Ogden Stiers, Mike Farrell, Harry Morgan,
+                   Loretta Swit, Jamie Farr, William Christopher
+
+    195. The Best of Enemies  (Z-404)
+         November 17, 1980
+         Written by Sheldon Bull
+         Directed by Charles S. Dubin
+         Guest Stars: Mako, Steven Lum
+         
+         A North Korean soldier forces Hawkeye to perform an emergency
+    roadside operation on his buddy.   
+
+    196. Letters  (Z-403)
+         November 24, 1980
+         Written by Dennis Koenig
+         Directed by Charles S. Dubin
+         Guest Stars: Richard Paul, Eileen Saki, Larry Cedar, Michael Currie,
+                      Shari Saba
+
+         Members of the 4077th share their impressions of war in response
+    to letters from fourth graders in Hawkeye's hometown.
+
+    197. Cementing Relationships  (Z-401)
+         December 1, 1980
+         Written by David Pollock and Elias Davis
+         Directed by Charles S. Dubin
+         Guest Stars: Joel Brooks, Alan Toy, Mel Harris
+
+         A jilted Italian soldier is smitten by Margaret; and Klinger pours a 
+    cement floor in the operating room to fight the spread of germs.
+
+    198. Father's Day  (Z-405)
+         December 8, 1980
+         Written by Karen L. Hall
+         Directed by Alan Alda
+         Guest Stars: Andrew Duggan, Jeffrey Kramer, Art LeFleur, Roy Evans
+
+         Margaret has trouble pretending she's a chip of the old block when
+    her dad, blood and guts "Howitzer" Al Houlihan, arrives for a visit.
+
+    199. Death Takes a Holiday  (Z-408)
+         December 15, 1980
+         Written by Mike Farrell
+         Directed by Mike Farrell
+         Guest Stars:  G.W. Bailey, Keye Luke, Yoshiko Hoover
+
+         Christmas at the 4077th finds the surgeons struggling to keep a
+    mortally wounded soldier alive, even if it's only through the holiday.
+
+    200. A War for all Seasons  (Z-409)
+         December 29, 1980
+         Written by Dan Wilcox and Thad Mumford
+         Directed by Burt Metcalfe
+         Guest Stars: Carl Freed, Laurie Bate, Jeff Maxwell
+
+         On New Year's Eve, the staff looks back on the highlights of 1951:
+    The doctors invent an artificial kidney machine; Mulcahy plants a garden;
+    and Margaret takes up knitting.
+
+    201. Your Retention Please  (Z-406)
+         January 5, 1981
+         Written by Erik Tarloff
+         Directed by Charles S. Dubin
+         Guest Stars: Barry Corbin, Sam Weisman, Jeff Maxwell
+
+         Klinger is so depressed by news that his ex-wife plans to remarry, he
+    reenlists for an additional six-year hitch.
+
+    202. Tell it to the Marines  (Z-410)
+         January 12, 1981
+         Written by Hank Bradford
+         Directed by Harry Morgan
+         Guest Stars: Stan Wells, Michael McGuirre, Denny Miller, James Gallery
+
+         Winchester takes command during Potter's absence; and B.J. and Hawkeye
+    try to convince the Marines to grant a hardship discharge to an immigrant
+    soldier.
+
+    203. Taking the Fifth  (Z-407)
+         January 19, 1981
+         Written by Elias Davis and David Pollock
+         Directed by Charles S. Dubin
+         Guest Stars: Charles Hallahan, Judy Farrell, Margie Impert, 
+                      Susan Berger
+
+         Hawkeye uses a bottle of vintage wine to lure unsuspecting nurses 
+    into his den; and Potter tries to secure a different sort of anesthetic
+    when the army threatens to ban a painkiller.
+         
+
+    204. Operation Friendship  (Z-412)
+         January 26, 1981
+         Written by Dennis Koenig
+         Directed by Rena Down
+         Guest Stars: Tim O'Connor, Gwen Farrell
+
+         Klinger saves Winchester's life when an explosion rocks the 
+    operating room; and B.J. is reluctant to reveal the extent of his 
+    injuries after the blast.
+
+    205. No Sweat  (Z-402)
+         February 2, 1981
+         Written by John Rappaport
+         Directed by Burt Metcalfe
+         Guest Stars: W. Perren Page, Jeff Maxwell, Kellye Nakahara
+     
+         Margaret develops a case of prickly heat-just one of the in-
+    dignities suffered by the 4077th staff during another unendurably
+    hot night.
+
+    206. Depressing News  (Z-411)
+         February 9, 1981
+         Written by Dan Wilcox and Thad Mumford
+         Directed by Alan Alda
+         Guest Stars: William Bogert, David Dozer, Albert Insinnia
+
+         Klinger's army newspaper reports on Hawkeye's monument to military
+    stupidity; a giant tower made from a half million erroneously shipped
+    tongue depressors.
+
+    207. No Laughing Matter  (Z-413)
+         February 16, 1981
+         Written by Elias Davis and David Pollock
+         Directed by Burt Metcalfe
+         Guest Stars: Robert Symonds, Mae Hi, Nathan Jung
+     
+         Hawkeye wagers that he can go a full day without a wisecrack; and
+    Winchester finally confronts the major who exiled him to the 4077th.
+
+    208. Oh, How We Danced  (Z-414)
+         February 23, 1981
+         Written by John Rappaport
+         Directed by Burt Metcalfe
+         Guest Stars: Yuki Shimoda, Arlen Dean Snyder, Catherine Bergstrom,
+                      Michael Choe, Jennifer Davis
+
+         Winchester is sent to inspect sanitary conditions on the front 
+    lines while the rest of the camp plans a surprise anniversary party for
+    B.J.
+
+    209. Bottoms Up  (Z-415)
+         March 2, 1981
+         Written by Dennis Koenig
+         Directed by Alan Alda
+         Guest Stars: Gail Strickland, Shari Saba, Kellye Nakahara
+
+         One of Margaret's nurses tries to hide her severe drinking problem;
+    and Hawkeye is scorned after a practical joke he plays on Winchester 
+    backfires. 
+
+    210. The Red/White Blues  (Z-416)
+         March 9, 1981
+         Written by David Pollock and Elias Davis
+         Directed by Gabriel Beaumont
+         Guest Stars: Roy Goodman, Jeff Maxwell, Kellye Nakahara
+
+         Colonel Potter nearly blows his stack when his well-intentioned
+    colleagues mollycoddle him in order to lower his blood pressure
+    before his upcoming physical.
+
+    211. Bless You, Hawkeye  (Z-417)
+         March 16, 1981
+         Written by Dan Wilcox and Thud Mumford
+         Directed by Nell Cox
+         Guest Stars: Allan Arbus, Barry Schwartz
+
+         When Hawkeye can't stop a sneezing fit that has no apparent cause,
+    psychiatrist Sidney Freedman digs into the surgeon's past for a clue to
+    the unusual malady.
+
+    212. Blood Brothers  (Z-421)
+         April 6, 1981
+         Written by Elias David and David Pollock
+         Directed by Harry Morgan
+         Guest Stars: Patrick Swayze, Ray Middleton, G.W. Bailey
+
+         Hawkeye is overcome by the devotion of a terminally ill GI for his
+    critically wounded buddy.
+
+    213. The Foresight Saga  (Z-422)
+         April 13, 1981
+         Written by David Pollock and Elias Davis
+         Directed by Charles S. Dubin
+         Guest Stars: Rummel Mor, Philip Sterling, Jeff Maxwell
+
+         The 4077th is given a gift of fresh-grown vegetables by a grateful
+    Korean; and Potter questions the veracity of an upbeat letter from 
+    Radar.
+
+    214. The Life You Save  (Z-418)
+         May 4, 1981
+         Written by John Rappaport and Alan Alda
+         Directed by Alan Alda
+         Guest Stars: G.W. Bailey, Val Bisoglio
+
+         After Charles is nearly felled by a sniper's bullet, he develops a
+    philosophical obsession with death.
+
+    -------------------------------------------------------------------------------
+
+    Season 10  (1981 - 1982)
+    Regular Cast - Alan Alda, David Ogden Stiers, Mike Farrell, Harry Morgan,
+                   Loretta Swit, Jamie Farr, William Christopher
+
+    215. That's Show Biz  (Z-419-420)
+         October 26, 1981
+         Written by Elias Davis and David Pollock
+         Directed by Charles S. Dubin
+         Guest Stars: Gwen Verdon, Gail Edwards, Danny Dayton, Karen Landry,
+                      Amanda McBroom
+      
+         A touring USO show brings an unexpected touch of vaudeville to the
+    4077th when the star showgirl requires an emergency operation. (one hour)
+
+    216. Identity Crisis  (Z-423)
+         November 2, 1981
+         Written by Dan Wilcox and Thad Mumford
+         Directed by David Ogden Stiers
+         Guest Stars: Dirk Blocker, Squire Fridell, Joe Pantoliano
+
+         Father Mulcahy counsels a GI who is plagued by guilt.
+
+    217. Rumor at the Top  (Z-424)
+         November 9, 1981
+         Written by David Pollock and Elias Davis
+         Directed by Charles S. Dubin
+         Guest Stars: Nicholas Pryor, Jeff Maxwell, Roy Goldman
+
+         The latest scuttlebut affects everyone's behavior when a visiting
+    emissary is rumored to be recruiting for a new M*A*S*H unit.
+
+    218. Give 'Em Hell, Hawkeye  (1-G01)
+         November 16, 1981
+         Written by Dennis Koenig
+         Directed by Charles S. Dubin
+         Guest Stars: Stefan Gierasch, Ed Vasgersian, Tom Kindle
+
+         Hawkeye writes a heartfelt letter to President Harry Truman to 
+    protest the continued fighting in Korea.
+
+    219. Wheelers and Dealers  (1-G02)
+         November 23, 1981
+         Written by Dan Wilcox and Thad Mumford
+         Directed by Charles S. Dubin
+         Guest Stars: Anthony Charnota, Tony Becker, Chris Petersen
+
+         On the eve of a big poker game, B.J.'s pride is bruised when he
+    finds out his wife is working as a waitress; and Potter takes driving
+    lessons from Klinger.
+
+    220. Communication Breakdown  (1-G03)
+         November 30, 1981
+         Written by Karen L. Hall
+         Directed by Alan Alda
+         Guest Stars: James Saito, Byron Chung, Abby Nelson
+      
+         Winchester infuriates the camp when he hoards his stateside news-
+    papers; and Hawkeye reunites two Korean brothers who have been fighting
+    on opposite sides of the war.
+
+    221. Snap Judgment  (1-G04)
+         December 7, 1981
+         Written by Paul Perlove
+         Directed by Hy Averback
+         Guest Stars: Peter Hobbs
+     
+         The military police think they've solved a rash of thefts at the 
+    4077th when they apprehend Klinger with Hawkeye's stolen camera. (part I)
+
+    222. Snappier Judgment  (1-G05)
+         December 14, 1981
+         Written by Paul Perlove
+         Directed by Hy Averback
+         Guest Stars: Peter Hobbs
+     
+         B.J. and Hawkeye resolve to clear Klinger's name after he chooses
+    Winchester to defend him at his military court-martial. (part II)
+
+    223. 'Twas the Day After Christmas  (1-G06)
+         December 28, 1981
+         Written by David Pollock and Elias Davis
+         Directed by Burt Metcalfe
+         Guest Stars: Michael Ensign, Leo Lewis, Val Bisoglio
+     
+         To boost postyuletide morale on December 26, Potter has the
+    officers and enlisted men exchange jobs for the day.
+
+    224. Follies of the Living - Concerns of the Dead  (1-G07)
+         January 4, 1982
+         Written by Alan Alda
+         Directed by Alan Alda
+         Guest Stars: Kario Salem, Randall Patrick, Jeff Tyler
+
+         In a fever dream, Klinger communicates with the spirit of a dead
+    soldier who stays on to witness his own last rites.
+
+    225. The Birthday Girls  (1-G08)
+         January 11, 1982
+         Written by Karen L. Hall
+         Directed by Charles S. Dubin
+         Guest Stars: Jerry Fujikawa, Kellye Nakahara
+
+         Margaret's birthday plans are spoiled when she and Klinger get
+    stranded on a desolate roadside; and the surgeons assist in the 
+    delivery of a calf.
+
+    226. Blood and Guts  (1-G09)
+         January 18, 1982
+         Written by Lee H. Grant
+         Directed by Charles S. Dubin
+         Guest Stars: Gene Evans, Brett Cullen, Stoney Jackson
+
+         Hawkeye is outraged when a sensationalistic war coorespondent 
+    reports irresponsible GI stunt as tales of military valor.
+
+    227. A Holy Mess  (1-G10)
+         February 1, 1982
+         Written by Elias Davis and David Pollock
+         Directed by Burt Metcalfe
+         Guest Stars: Cyril O'Reilly, David Graf, Val Bisoglio
+     
+         An AWOL seeks sanctuary behind Father Mulcahy's robes.
+     
+
+    228. The Tooth Shall Set You Free  (1-G11)
+         February 8, 1982
+         Written by Elias Davis and David Pollock
+         Directed by Charles S. Dubin
+         Guest Stars: Tom Atkins, Jason Bernard, John Fujioka, Larry
+                      Fishburne
+
+         Charles faces a tooth extraction; and the doctors suspect pre-
+    judice when an inordinate number of black casualties are brought in
+    from a single unit.
+
+    229. Pressure Points  (1-G12)
+         February 15, 1982
+         Written by David Pollock
+         Directed by Charles S. Dubin
+         Guest Stars: Allan Arbus, John O'Connell, Gene Pietragallo, 
+                      William Rogers, Roy Goldman
+
+         Potter sends for the army psychiatrist when he loses confidence 
+    in his surgical abilities; and Winchester loses patience with his 
+    bunkmates' sloppiness.
+
+    230. Where There's a Will, There's a War  (1-G13)
+         February 22, 1982
+         Written by Elias Davis and David Pollock
+         Directed by Alan Alda
+         Guest Stars: Dennis Howard, Larry Ward, Jim Borelli, James Emery
+                    
+         Hawkeye draws up a will under heavy shelling at the front lines.
+
+    231. Promotion Commotion  (1-G14)
+         March 1, 1982
+         Written by Dennis Koenig
+         Directed by Charles S. Dubin
+         Guest Stars: John Matusak, Jim Reid Boyce, Deborah Harmon, 
+                      Cameron Dye, Richard Fullerton
+
+         Winchester, Pierce, and Hunnicutt find themselves in the sticky
+    position of having to decide which enlisted men to recommend for
+    promotion.
+
+    232. Heroes  (1-G15)
+         March 15, 1982
+         Written by Thad Mumford and Dan Wilcox
+         Directed by Nell Cox
+         Guest Stars: Pat McNamara, Earl Boen, Britt Leach, Matthew Falson
+                    
+         Hawkeye is the golden boy of the world press when he treats a
+    celebrity prize fighter for a stroke.
+
+    233. Sons and Bowlers  (1-G16)
+         March 22, 1982
+         Written by Elias Davis and David Pollock
+         Directed by Hy Averback
+         Guest Stars: Dick O'Neill, William Lucking, Roger Hampton
+
+         Hawkeye anxiously awaits word on his father's stateside operation
+    as his cohorts engage the Marines in a bowling tournament.
+
+    234. Picture This  (1-G17)
+         April 5, 1982
+         Written by Karen L. Hall
+         Directed by Burt Metcalfe
+         Guest Stars: John Fujioka, Jeff Maxwell
+
+         Potter's attempts to assemble the crew for a family portrait are
+    thwarted by a feud between bunkmates Pierce, Hunnicutt, and 
+    Winchester.
+
+    235. That Darn Kid  (1-G18)
+         April 12, 1982
+         Written by Karen L. Hall
+         Directed by David Ogden Stiers
+         Guest Stars: George Presnell, John P. Ryan, Tom Kindle
+
+         Klinger's goat eats the 4077th's $22,340 payroll, leaving paymaster
+    Hawkeye holding the bag.
+
+    -------------------------------------------------------------------------------
+
+    Season 11  (1982 - 1983)
+    Regular Cast - Alan Alda, David Ogden Stiers, Mike Farrell, Harry Morgan,
+                   Loretta Swit, Jamie Farr, William Christopher
+
+    236. Look Me Over  (1-G21)
+         October 25, 1982
+         Written by Alan Alda
+         Directed by Susan Oliver
+         Guest Stars:  Keelye Nakahara, Peggy Feury, Perry Lang, Deborah Harmon
+
+         Hawkeye watched Nurse Kellye brighten a wounded GI's final moments and 
+    comes to appreciate the nurses' vital contribution to the healing process.
+
+    237. Trick or Treatment  (9-B01)
+         November 1, 1982
+         Written by Dennis Keonig
+         Directed by Charles S. Dubin
+         Guest Stars:  George Wendt, Richard Lineback, Andrew Clay, James Lough
+
+         The 4077th Halloween party hosts an unexpected guest after Father 
+    Mulcahy works an apparent miracle during the reading of a soldier's last rites.
+
+    238. Foreign Affairs  (1-G22)
+         November 8, 1982
+         Written by David Pollock and Elias Davis
+         Directed by Charles S. Dubin
+         Guest Stars:  Melinda Mullins, Jeefrey Tambor, Soon Teck Oh, Byron Chung
+
+         The Army tries to get a North Korean pilot to defect; and Charles gets a
+    rude shock when he falls for a French nurse with an unacceptable past.
+
+    239. The Joker is Wild  (1-G24)
+         November 15, 1982
+         Written by John Rappaport and Dennis Koenig
+         Directed by Burt Metcalfe
+         Guest Stars:  Clyde Kusatsu, David Haid
+
+         Hawkeye's guard is up when B.J. threatens to pull off the most elaborate
+    practical joke in the compound's history.
+
+    240. Who Knew?  (1-G19)
+         November 22, 1982
+         Written by David Pollock and Elias Davis
+         Directed by Harry Morgan
+         Guest Stars:  Kellye Nakahara, Enid Kent
+
+         Hawkeye volunteers to deliver the eulogy for a dead nurse and
+    belatedly discovers her deep feelings for him.
+
+    241. Bombshells  (9-B02)
+         November 28, 1982
+         Written by Dan Wilcox and Thad Mumford
+         Directed by Charles S. Dubin
+         Guest Stars:  Gerald O'Laughlin, Allen Williams, Stu Charno
+
+         Charles and Hawkeye start a rumor that Marylin Monroe plans to
+    visit the 4077th; and B.J. feels responsible when he's unable to 
+    rescue a wounded soldier.
+
+    242. Settling Debts  (1-G23)
+         December 6, 1982
+         Written by Dan Wilcox and Thad Mumford
+         Directed by Mike Switzer
+         Guest Stars:  Guy Boyd, Jeff East
+
+         Hawkeye and the crew surprise Colonel Potter with a party to 
+    commemorate Mildred's final payment on the couple's mortgage.
+
+    243. The Moon is Not Blue  (1-G20)
+         December 13, 1982
+         Written by Larry Balmagia
+         Directed by Charles S. Dubin
+         Guest Stars:  Hamilton Camp, Sandy Helberg, Jan Jorden
+
+         With the camp facing prohibition and a severe medical-supply shortage
+    during another heat wave, Hawkeye resolves to lift morale by importing a
+    racy new movie.
+
+    244. Run for the Money  (9-B03)
+         December 20, 1982
+         Written by Mike Farrell, David Pollock, and Elias Davis
+         Directed by Nell Cox
+         Guest Stars:  Thomas Calloway, Mark Anderson, Phil Brock, William
+                       Schilling, Robert Alan Browne
+
+         When an Olympic runner assigned to the 4077th fail to materialize,
+    Father Mulcahy must save the camp's honor in a high-stakes footrace against
+    the 8063rd.
+
+    245. U.N., the Night and the Music  (9-B06)
+         January 3, 1983
+         Written by David Pollock and Elias Davis
+         Directed by Harry Morgan
+         Guest Stars:  George Innes, Kavi Raz, Dennis Holahan, David Packer
+
+         A United Nations delegation tours the 4077th-a Swede, a Hindu, and a 
+    British officer-and each leaves a lasting effect on the men and women of
+    the camp.
+
+    246. Strange Bedfellows  (9-B07)
+         January 10, 1983
+         Written by Mike Farrell
+         Directed by Karen L. Hall
+         Guest Stars:  Dennis Dugan, Benjamin F. Wilson
+
+         The 4077th faces a sleepless night as Charles's snoring keeps B.J. 
+    and Hawkeye from counting sheep; and Colonel Potter discovers that his
+    son-in-law has had an affair.
+
+    247. Say No More  (9-B08)
+         January 24, 1983
+         Written by John Rappaport
+         Directed by Charles S. Dubin
+         Guest Stars:  John Anderson, Michael Horton, Chip Johnson, James
+                       Karen
+
+         A military strategist refuses to accept responsibility for the war
+    games that have mortally wounded his own son; and Margaret develops
+    laryngitis.
+
+    248. Friends and Enemies  (9-B05)
+         February 7, 1983
+         Written by Karen L. Hall
+         Directed by Jamie Farr
+         Guest Stars:  John McLiam
+
+         Colonel Potter must decide whether to blow the whistle on an old
+    army chum whose military follies are costing boys their lives.
+
+    249. Give and Take  (9-B09)
+         February 14, 1983
+         Written by Dennis Koenig
+         Directed by Charles S. Dubin
+         Guest Stars:  Craig Wasson, G.W. Bailey, Derek Wong
+
+         A wounded GI learns a painful lesson when he forms a recoveryroom
+    friendship with the enemy soldier he's critically wounded.
+
+    250. As Time Goes By  (9-B10)
+         February 21, 1983
+         Written by Dan Wilcox and Thad Mumford
+         Directed by Burt Metcalfe
+         Guest Stars:  Rosalind Chao, G.W. Bailey, Michael Swan, Mark Herrier,
+                       Jeff Maxwell
+
+         Hawkeye and Margaret encapsulate the breadth of their wartime experience
+    when they bury souvenirs as a reminder for future generations.
+
+    251. Goodbye, Farewell and Amen
+         February 28, 1983
+         Written by Alan Alda, Burt Metcalfe, John Rappaport, Thad Mumford,
+         Dan Wilcox, David Pollock, Elias Davis, and Karen Hall
+         Directed by Alan Alda
+         Guest Stars:  Allan Arbus, Rosalind Chao, G.W. Bailey, Shari Saba, Jeff
+                       Maxwell, Gwen Farrell, Kellye Nakahara, Roy Goldman
+
+         Although reports that the war is almost over reach the camp with
+    increasing frequency, the 4077th is still full with refugees and pri-
+    soners of war.  Fresh casualties pour in as both sides try to gain
+    ground before the armistice.  A deeply troubled Hawkeye has been sent
+    away to the psychiatric hospital where Dr. Sidney Freedman tries to
+    help him find the cause of his breakdown, which is associated with a
+    tragic incident on a trip back from R&R at the beach.
+
+    Other members of the unit are coping with the final days of war,
+    and making plans to get out.  Hot Lips' father is trying to find
+    her a glamorous Army post.  B.J. is determined to make it back for
+    his daughter's birthday.  Charles wants a plum appointment at a
+    Boston hospital.  Klinger worries about Soon-Lee's attempts to
+    find her parents.  The normal business of the camp is interrupted
+    by a runaway Army tank that crashes into the compound and destroys
+    the half-built latrine.
+
+    With two results.  First, Charles wanders off to relieve himself
+    and stumbles on a group of Chinese musicians.  They surrender and
+    come back with him to the camp.  Second, the enemy spots the tank
+    and begins to shell the base.  Father Mulcahy bravely ventures out
+    under fire to release the POWs, a shell explodes near him, and he
+    suffers a mild concussion.  When B.J. examines him, he detects a
+    hearing loss that Father Mulcahy begs him to keep from the rest
+    of the company.
+
+    The barrage continues as the unit fails to move the tank out.  Hawk-
+    eye returns to the 4077th and is called straight into the O.R.  He
+    is urgently needed because B.J. has received orders permitting him
+    to go home.
+
+    Charles learns that he has been appointed to him Boston hospital
+    but quarrels violently with Hot Lips on discovering that she has
+    pulled strings for him.  He consoles himself by teaching the Chi-
+    nese musicians a little touch of Mozart.  Klinger, meanwhile, has
+    brought back a reluctant Soon-Lee to the safety of the camp, al-
+    though she is still determined to find her parents.  He is obvi-
+    ously in love.
+
+    The pressure on the company is temporarily relieved when Hawkeye,
+    who has coped successfully with his return to surgery, drives the
+    tank into the 4077th's trash dump.  But only temporarily.  Fires
+    started by incendiary bombs in the surrounding woods are visible
+    from the camp and Colonel Potter orders evacuation proceedings.
+
+    The Colonel's desperate plea for a relief surgeon is answered un-
+    expectedly by the return of B.J., who was already one-third of the
+    way home when the Army recalled him to fulfill the Colonel's staff
+    request.  He misses his daughter's birthday, but the company hosts
+    a birthday party for an orphan with B.J. as the guest of honor.
+    Klinger proposes marriage and is accepted by Soon-Lee.  He is over-
+    joyed.  Charles, however, is not so happy when he loses his "orches-
+    tra" to a relocation center.
+
+    The end of the war is only hours away, but the casualties keep coming
+    in -- among them Charles' flutist.  Finally, the surgical teams learn
+    of the immediate ceasefire as they operate on a group of desperately
+    wounded soldiers and civilians.  The war is over.
+
+    At the noisy, joyful camp party that night, members of the company talk
+    about their lives after the war.  Colonel Potter looks forward to be-
+    coming a semi-retired country doctor.  Hot Lips declares she has opted
+    for the States and a big city hospital.  Klinger announces his engage-
+    ment and says that he is staying in Korea to help find Soon-Lee's par-
+    ents.  Charles is still  going to Boston, despite Hot Lips' "meddling."
+    B.J., of course, wants to go home, yet refuses to actually say "goodbye"
+    to the others.  And Hawkeye?  Perhaps, after all, he will not be going
+    to the big city surgical post that he always dreamed of ...
+
+    After Klinger and Soon-Lee marry and leave the camp in traditional
+    Korean style, the other members of the company depart one by one.  By
+    now, the camp is a ghost town.  Father Mulcahy leaves to start a new
+    life ministering to the deaf.  Hot Lips is kissed and hugged.  Even
+    her disagreement with Charles is reconciled.  Charles himself exits
+    with Rizzo in a garbage truck.  Colonel Potter takes Sophie for one
+    last ride before she is adopted by the orphanage.  Finally, B.J. and
+    Hawkeye go together on B.J.'s motorbike to meet Hawkeye's chopper.
+    As Hawkeye looks down over the desolate camp, he sees a message B.J.
+    has left on the pad:  a GOODBYE marked out in stone.
+
+    -------------------------------------------------------------------------------
+
+    Thanks to:
+      The cast and crew of "M*A*S*H"
+      Troy Wood <tdwood@magnus.acs.ohio-state.edu>
+      Mark Rosteck <ematias@csri.toronto.edu>
+      Dean A. Dunn <dadunn@whale.st.usm.edu>
+      Robb Miles <kmeter@knot.ece.cmu.edu>
+      Samuel H. Edwards <edwards@pond.com>
+      Tim Tompkins <timt@a3197tt.ssr.hp.com>
+      Steve Halter <shalter@qualcomm.com>
+      Robert E. Nelson <rnelson@nmt.edu>
+      Bill Madison <bmadison@crl.com>
+      "M*A*S*H  The Exclusive, Inside Story of T.V.'s Most Popular Show"
+
+    If this document is out of date, the latest version can be
+    obtained from one of these sources:
+
+    ftp://rtfm.mit.edu/pub/usenet/news.answers/tv/mash/guide
+    ftp://ftp.uu.net/usenet/news.answers/tv/mash/guide.Z
+    http://www.cis.ohio-state.edu/hypertext/faq/usenet/tv/mash/guide/faq.html
+
+    Please send any corrections or new information to dijon@lido.com.
+
+    -- 
+           Doug Krause  dijon@lido.com  http://www.lido.com/
+    "The circle is now complete.  The Circle of Life!" -Mufasa Vader

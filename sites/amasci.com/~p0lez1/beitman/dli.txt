@@ -1,0 +1,20 @@
+Instructions for Downloading and Viewing the Online Beitman Manuals 
+
+ If you are a collector of European Radios, Click HERE. 
+ HOW TO DOWNLOAD 
+ These 
+ manuals are in a compressed file format known as djvu. In order to view and 
+ print them, you will have to download and install a plug-in for your web browser 
+ if you don't already have it. 
+ Click 
+ here to download the plug-in. 
+ IThe downloadable 
+ manual files have been broken up into smaller 1.4 MB chunks so that people 
+ with unreliable internet connections will have more success getting the rather 
+ large (8 to 9 MB) files. One file will have an .exe extension; the others 
+ will extensions beginning with the letter R. All of the files must be downloaded 
+ first into the same directory on your hard drive, then you need to double 
+ click on the .exe file to join the files into a single djvu file. The joined 
+ file can then be viewed and printed using your web browser. 
+ Click 
+ here to go to the downloadable manuals section.

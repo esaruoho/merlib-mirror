@@ -1,0 +1,199 @@
+---
+title: "Re: Fishing vehicles?"
+source_domain: amasci.com
+source_path: ~wesn/waflyfishers/msg07632.html
+order: 9862
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-07T06:02:23Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Re: Fishing vehicles?
+
+*Source page: `~wesn/waflyfishers/msg07632.html`*
+
+------------------------------------------------------------------------
+
+\[[Date Prev](msg07631.html)\]\[[Date Next](msg07633.html)\]\[[Thread Prev](msg07675.html)\]\[[Thread Next](msg07634.html)\]\[[Date Index](date.html#07632)\]\[[Thread Index](index.html#07632)\]
+
+# Re: Fishing vehicles?
+
+------------------------------------------------------------------------
+
+- *To*: <waflyfishers@eskimo.com>
+- *Subject*: Re: Fishing vehicles?
+- *From*: Don Johnson \<<salmn8r@yahoo.com>\>
+- *Date*: Mon, 3 Dec 2001 18:21:57 -0800 (PST)
+- *In-Reply-To*: \<[v04220808b831a470c0d8@\[192.168.1.221\]](msg07619.html)\>
+- *Reply-To*: <waflyfishers@eskimo.com>
+- *Resent-Date*: Mon, 3 Dec 2001 18:22:01 -0800
+- *Resent-From*: waflyfishers@eskimo.com
+- *Resent-Message-ID*: \<"lzPv93.0.dC.8D33y"@mx1\>
+- *Resent-Sender*: waflyfishers-request@eskimo.com
+
+------------------------------------------------------------------------
+
+    my old fishing rig was a '72 dodge dart i inherited
+    from my deceased brother in law. his nickname was the
+    "salmonator" so, since i had extra cash after not
+    having to pay for the thing, i put vanity plates on it
+    that read "SALMN8R". that name stuck and now, as you
+    can tell, it's my e-mail. the car was mechanically
+    sound but was an eyesore, to say the least. it had
+    moss and algae growing on it and enough dog hair
+    inside to weave a filson cruiser with. it took 5 hours
+    to clean it and i got so tired of scrubbing i finally
+    just hit the thing with a not-so-dilute bleach/water
+    solution (inside and out) to kill everything off. now
+    i have a job working with hazardous waste for a
+    living.
+
+    you could start it with a jigsaw blade. it had a hole
+    in the driver's seat the size of a wash basin and
+    there were miscellaneous dents all over the place. the
+    thing floated down the highway though and when you
+    pushed the gas pedal, the 318 let you know it. i added
+    a pflueger "Trump" flyreel (with flyline) for a hood
+    ornament, a couple of blocks of wood on the passenger
+    side (one on the hood and one on the roof, both with
+    velcro) that held two rods secure at 85 MPH and, last
+    but not least, it had a brass drawer-pull as a
+    sighting device on the left, front fender lined up
+    with the center of the tire. it worked just like a
+    shotgun bead and you could sight down it and pop
+    anything you wanted. i never procured any materials
+    with it but did practice a few times on pop bottles
+    and beer cans some inconsiderate people left in the
+    road...worked pretty well. 
+
+    all in all it was a sad day to see the thing go away
+    but the spousal unit was too embarased to have it in
+    front of the house in Suquamish (i still can't figure 
+    that one out; i thought it fit in fairly well).
+
+    now i have a 1986 mazda sundowner. what an upgrade!
+    takes 25 minutes to get up to speed and i'll die if
+    i'm ever in a parking-lot accident. it gets decent
+    mileage though and it has a cd player that is worth
+    more than the truck itself. the passenger-side wiper
+    works when it feels like it and i have to break into
+    it if i lock it. but, i have the old "Trump" back on
+    the front so it's just like home again, just a little
+    slower. i've been contemplating the RSD (roadkill
+    sighting device) but seriously think even a ruffed
+    grouse could get out of the way before i got to it.
+
+    ~dj~    
+
+    --- Kent Lufkin <klufkin@l2d.com> wrote:
+    > Over the years, we've discussed just about every
+    > kind of fishing gear 
+    > or strategy imaginable. But it struck me the other
+    > day that there's 
+    > still one indispensable piece of gear that every one
+    > of us uses: the 
+    > vehicle that gets us where we fish.
+    > 
+    > I assume that for most of us, our fishing vehicle is
+    > also our daily 
+    > driver that spends most of its time making trips to
+    > the store or 
+    > commuting. For some of us in a multi-car household,
+    > a second vehicle 
+    > may be much more appropriate for fishing. A very few
+    > of us may 
+    > actually have a rig dedicated just for fishing,
+    > refined over years of 
+    > use.
+    > 
+    > To get the ball rolling, here's my own 2 on the
+    > subject:
+    > 
+    > I've always owned a pickup. In fact I can only
+    > remember a couple 
+    > years when I didn't have one. My current ride is a
+    > 1998 Ford Ranger 
+    > XLT extra cab 4x4 with a 4.0 liter V-6 and an
+    > automatic. Wish I'd got 
+    > it with the small, half-sized doors to get behind
+    > the front seats. 
+    > However, a retractable cover keeps things out of
+    > sight back there.
+    > 
+    > The bed will hold a couple float tubes fully
+    > inflated or my 9 foot 
+    > pontoon boat (I haven't tried stacking two pontoon
+    > boats back there 
+    > yet.) There's plenty of room left over for gear
+    > bags, coolers, oars 
+    > or rod tubes. Plus, the bed doubles as a place to
+    > sit and wader up 
+    > without rocks that can tear up my neoprene wader
+    > feet.
+    > 
+    > But having a pickup does pose some limitations.
+    > Leaving stuff in the 
+    > back is an open invitation to theft if you leave it
+    > there even 
+    > briefly. And relatively light weight stuff needs to
+    > be tied down to 
+    > keep it from becoming airborne at highway speeds.
+    > 
+    > My truck's bed isn't long enough that I can stretch
+    > out in it to 
+    > sleep, and I'd need some sort of canopy to stay dry
+    > in the rain. The 
+    > space behind the seats doesn't hold very much gear
+    > (long rod tubes 
+    > are an especially tight fit) and it's a real pain to
+    > get to. Finally, 
+    > if I owned a boat and trailer, my rig is probably
+    > much too puny for 
+    > serious towing.
+    > 
+    > But for the most part, it works well for the kind of
+    > fishing I do. 
+    > The 4wd and high ground clearance are a real plus on
+    > marginal roads.
+    > 
+    > I'd sure like to hear how other subscribers have
+    > adapted their 
+    > vehicles for their own fishing style.
+    > 
+    > Kent Lufkin
+    > 
+
+    =====
+
+    __________________________________________________
+    Do You Yahoo!?
+    Find the one for you at Yahoo! Personals
+    http://personals.yahoo.com
+
+------------------------------------------------------------------------
+
+- **Follow-Ups**:
+  - **<a href="msg07658.html" id="07658">Re: Fishing vehicles?</a>**
+    - *From:* "rderedfield" \<rderedfield@msn.com\>
+  - **<a href="msg07634.html" id="07634">Re: Fishing vehicles?</a>**
+    - *From:* "Vincent Pons" \<vpons@u.washington.edu\>
+
+<!-- -->
+
+- **References**:
+  - **<a href="msg07619.html" id="07619">Fishing vehicles?</a>**
+    - *From:* Kent Lufkin \<klufkin@l2d.com\>
+
+<!-- -->
+
+- Prev by Date: **[Re: Fishing vehicles?](msg07631.html)**
+- Next by Date: **[Re: Fishing vehicles?](msg07633.html)**
+- Prev by thread: **[Re: Fishing vehicles?](msg07675.html)**
+- Next by thread: **[Re: Fishing vehicles?](msg07634.html)**
+- Index(es):
+  - [**Date**](date.html#07632)
+  - [**Thread**](index.html#07632)
+
+**[Home](http://www.eskimo.com/~wesn/waflyfishers/) \| [Date Index](date.html) \| [Thread Index](index.html) [Author Index](author.html)**

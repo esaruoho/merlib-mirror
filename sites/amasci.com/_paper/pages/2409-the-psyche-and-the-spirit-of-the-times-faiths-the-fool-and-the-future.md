@@ -1,0 +1,29 @@
+---
+title: "The Psyche and the Spirit of the Times: Faiths, the Fool, and the Future"
+source_domain: amasci.com
+source_path: ~dcs/s04/gibsonabstract.html
+order: 2409
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T05:55:58Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Psyche and the Spirit of the Times: Faiths, the Fool, and the Future
+
+*Source page: `~dcs/s04/gibsonabstract.html`*
+
+# The Faiths, the Fool, and the Future: Rediscovering the Sacred Pilgrimage to Psyche's Peace
+
+These are dangerous times. The Predator of an ancient religious war stalks the land. The Alien of eco-disaster haunt our dreams on eerily hot nights. We are terrified that Alien really will meet Predator and devour us all like in our worst childhood fantasies. These times are deadly serious and that is precisely their danger. Jim Hillman seems to say war, imaginatively reconstructed, is essential to bringing a healing meaning to these terrible things. Lee Roloff seems to see the essentials in holding the tension of the opposites and connecting to the deep feminine. George Callan seems to see the essential in deep communitarian poetics and reverie.
+
+This presentation agrees and wants to walk around them all. How to find the healthy, healing, wandering Fool’s perspective (and avoid the mad, destroyer Fool) is the challenge. Pilgrimage, *peregrinatio*, has been a time-honored way to walk the earth and re-gain a soul-soothed perspective on things. Tonight we talk of possible ideas about how to circumambulate our growing individual and collective panic and bring a little peace and calm to the public sphere and our jittery planet. I have been walking a devotional peregrination around some of the ancient Celtic lands of Europe for extended periods across the last decade and occasionally the earth, the *anima mundi*, has whispered some interesting things in my ear. Let’s take a walk about together the 17th and see what mending foolishness might show up.
+
+------------------------------------------------------------------------
+
+[C.G. Jung Society, Seattle home page](../index1.html)
+
+Updated: 28 August 2004\
+\
+<webmaster@jungseattle.org>

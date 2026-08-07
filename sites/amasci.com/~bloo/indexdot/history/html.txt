@@ -1,0 +1,153 @@
+HTML Overview 
+
+ HTML Overview 
+ = Index DOT Html/Css by Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML Support
+ History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Statistics 
+
+ Original Author: Tim Berners-Lee
+ Specifications: 
+ - HTML 2.0 
+ - HTML 3.0 
+ - HTML 3.2 
+ - HTML 4.0 
+ - XHTML 1.0 
+ - XHTML 1.1 
+ - Cascading Style Sheets 
+ Timelines: 
+ - Creation of language in conjunction with Berners-Lee's WWW
+ program - Oct.->Dec. 1990
+ - Specification for HTML released on the Internet - Summer, 1991
+ - Draft defining HTML released (Internet draft later expired) - June, 1993
+ - Initial document for 'HTML 2.0' released - April, 1994
+ - Draft for HTML 2.0 cleaned up and released - July, 1994
+ - HTML 2.0 draft further refined with plans to release as an RFC - February, 1995
+ - HTML 2.0 (RFC 1866) approved as a proposed standard - September, 1995
+ - HTML 3.0 draft released (later expired) - March, 1995
+ - HTML 3.2 draft released - May, 1996
+ - HTML experimental DTD 'Cougar' released - July, 1996
+ - W3C recommendation for HTML 3.2 (Wilbur) - January, 1997
+ - HTML 4.0 draft (evolved from Cougar) released - July, 1997
+ - HTML 4.0 becomes W3C proposed recommendation - November, 1997
+ - HTML 4.0 becomes W3C recommendation - December, 1997
+ - HTML 4.0 revised and certified W3C recommendation - April, 1998
+ - Draft released for 'Reformulating HTML in XML' (codename Voyager) - December, 1998
+ - XHTML 1.0 first working draft released - January, 1999
+ - XHTML 1.0 becomes W3C Proposed Recommendation - August, December 1999
+ - XHTML 1.1 first working draft released - September, 1999
+ - XHTML 1.0 becomes W3C Recommendation - January, 2000
+ - XHTML 1.1 becomes W3C Proposed Recommendation - April, 2001
+ - XHTML 1.1 becomes W3C Recommendation - May, 2001
+
+ In The Beginning: SGML 
+
+ In 1986, a new ISO standard (ISO 8879) was released which aimed to make
+ platform and display differences irrelevant to the delivery and rendering
+ of documents. This standard detailed the language called the Standard
+ Generalized Markup Language (SGML.)
+
+ Tim Berners-Lee and The Genesis of the WWW 
+
+ In 1989, Tim Berners-Lee created a proposal for a hypertext document system to
+ be used within the CERN community.
+ Although based in Switzerland, CERN members
+ were scattered throughout the globe and project turnover was often high.
+ Collaboration over long distances, getting new project members quickly up to
+ speed and preservation of information in the face of frequent member turnover
+ were the driving factors in the development of the proposed system. This
+ system, which Berners-Lee later named "The World-Wide Web"
+ in October of 1990, outlined several important components necessary to
+ realize the vision and which, in a nutshell, defines the nature of the
+ WWW today:
+
+ It must be cross-platform
+ Must be able to use many existing informational resource systems while
+ also allowing new information to be easily added
+ A transport mechanism was necessary to move documents across networks 
+ [evolved into HTTP]
+ An identification scheme for addressing both local and remote hypertext
+ documents [evolved into URL addressing]
+ A formatting language for the hypertext documents. This was not
+ explicitly mentioned, but was part and parcel of presenting the
+ information received [evolved into HTML]
+
+ The Development of HTML 
+
+ Berners-Lee developed and defined the HTML language, which was created and
+ defined using SGML, during the development cycle for the first Web
+ browser/editor from October to December 1990. The first version of the
+ browser initially ran only on the NeXT platform and was only processing
+ text files, but it was a start. Berners-Lee later put the code and
+ specifications for the project (including HTML) on the Internet in the
+ summer of 1991. During the next few years the system introduced by
+ Berners-Lee caught on in the Internet community - and the 'web' of
+ documents available was steadily growing. A common library of code was
+ available to programmers to easily create the needed capabilities to access
+ web documents. Browsers quickly became available for a wide variety of platforms.
+ As the number of implementations grew, the variety did also. The HTML
+ language originally specified by Berners-Lee had developed and extended
+ far beyond its initial form and no real standard had yet been developed.
+ For a further discussion of how the first HTML standard finally developed,
+ please see the HTML 2.0 history page.
+
+ What HTML is today 
+
+ The standards for HTML are currently being developed by a worldwide
+ industry consortium known as the W3C .
+ This work was carried out previously by the
+ IETF . The W3C places several
+ requirements on HTML:
+
+ "The document format should be, as
+ far as practical, backwards compatible with existing HTML documents. It
+ should support both paged and scrolling layout models...A simple,
+ scaleable document format that can be used for information exchange on
+ virtually any platform." 
+
+ The W3C goes on to list the proposed range of these platforms, which include:
+
+ Graphical User Interfaces, such as Windows, Macs and X11/Unix
+ Text only systems, such as VT-100 terminals
+ Text to Speech devices
+ Rendering to Braille
+
+ The Success of HTML 
+
+ In hindsight, the following quote by Berners-Lee from the original CERN
+ proposal shows how far things have progressed in less than a decade:
+
+ "In 10 years, there may be many
+ commercial solutions to the problems above, while today we need
+ something to allow us to continue." 
+
+ The WWW and HTML solutions that Berners-Lee created have evolved into that
+ solution. HTML is now becoming the primary document format of choice not
+ only on the Web, but also elsewhere in both personal and commercial uses.
+ Despite its current limitations, HTML has become the most popular and widely
+ used rich text format ever.
+
+ Relevant Sites 
+
+ http://www.w3.org/MarkUp/PubHistory.html 
+ HTML Spec publication history 
+ http://www.w3.org/MarkUp/Bibliography 
+ A historical list of HTML and HTML-related proposals and standards 
+ http://cern.web.cern.ch/CERN/WorldWideWeb/RCTalk/history.html 
+ CERN's WWW timeline page 
+ http://www.w3.org/Mail/Archives.html 
+ W3C's mailing list archives for www-talk and www-html -
+ makes interesting reading, but some parts have VERY long download times. 
+ http://www.w3.org/MarkUp/HTML-WG/940726-minutes.html 
+ The IETF HTML 'Birds of a Feather' group meeting
+ minutes: 7/26/94. Very interesting details in this document. 
+
+ Boring Copyright Stuff...

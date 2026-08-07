@@ -1,0 +1,42 @@
+Question 1.22 
+
+ Question 1.22 
+
+How can I declare a function
+
+that can return
+a pointer to a function
+of the same type?
+I'm building a state machine with one function
+for each state, each of which returns a pointer to the function for
+the next state.
+But I can't find a way to declare the
+functions.
+
+ You can't quite do it
+
+directly.
+Either
+have the function return
+a generic function pointer,
+with some judicious casts
+to adjust the types
+as the pointers are passed around;
+or
+have
+it
+return a structure
+
+containing only
+a pointer to a function returning
+that structure.
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

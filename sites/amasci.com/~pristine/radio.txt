@@ -1,0 +1,693 @@
+Pure Mac: Radio - Software for Macintosh 
+
+ Radio 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Can't find it here? Maybe it's in the iTunes & MP3 section or Audio section. 
+
+ Basics 
+ Recorders 
+ Tuners 
+ Servers 
+
+ Flip4Mac WMV 
+ iTunes 
+ QuickTime 
+ RealPlayer 
+
+ Audio Hijack 
+ Fstream 
+ iNet Stream Archiver 
+ iRecordMusic 
+ iShout 
+ m3u2mp3 
+ RadioLover 
+ RadioRecorder 
+ Radioshift 
+ Streamers 
+ StreamRipperX 
+ WireTap Studio 
+
+ AOL Radio 
+ BBC Radio Widget 
+ Fstream 
+ iShout 
+ PandoraBoy 
+ PandoraMan 
+ RabbitRadio 
+ RadioTuner 
+
+ Darwin Streaming Server 
+ Nicecast 
+ SHOUTcast 
+
+ Electronic Musician 
+ Macintosh Music Software 
+ Mac Music 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ AOL Radio 2.0b1 
+
+AOL Radio, powered by CBS Radio, features more than 200 stations
+spanning at least 25 genres of music - plus another 150+ CBS Radio
+stations from across the U.S. AOL Radio was built on
+feedback from our users and works with Apple Mac OS X Leopard.
+
+ License : Freeware
+ Author/Publisher : AOL
+ Modification Date : July 30, 2008
+ Requirements : Mac OS X 10.5.2 or higher
+
+ Download 
+File Size: 647 Kb
+
+ Home Page 
+
+ Audio Hijack Pro 2.9 
+
+Audio Hijack is the perfect tool to record any audio on your computer.
+With Audio Hijack, you can quickly and easily save audio from almost any
+application to an AIFF file. This file can then be burned to a CD, or
+played in any software audio player like iTunes or any hardware audio
+player like an iPod.
+
+Audio Hijack Pro will allow you to record any application's audio, from
+internet streams to DVD audio and everywhere in between. If your machine
+can play it, Audio Hijack Pro can record it.
+
+And that's not all - Audio
+Hijack Pro will also enhance any audio, using industry-standard VST and
+AudioUnit audio effects to make your music sound incredible. Record.
+Enhance. Enjoy! The Pro version can record to MP3 and AAC.
+
+ License : Shareware, $16 - Pro version $32
+ Author/Publisher : Rogue Amoeba Software, LLC.
+ Modification Date : December 29, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 7.2 MB - Audio Hijack Pro 2.9
+
+ Download 
+File Size: 2.2 MB - Audio Hijack 2.2.6 - October 15, 2007
+
+ Home Page 
+
+ BBC Radio Widget 3.4 
+
+Listen to all 60 of the BBC's national, regional and local radio streams, right on your Dashboard.
+
+ License : Freeware
+ Author/Publisher : Phantom Gorilla
+ Modification Date : December 21, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 248 Kb
+
+ Home Page 
+
+ Darwin Streaming Server 5.5.4 
+
+Welcome to Darwin Streaming Server, the open source version of Apple's
+QuickTime Streaming Server technology that allows you to send streaming
+media to clients across the Internet using the industry standard RTP and
+RTSP protocols. Based on the same code base as QuickTime Streaming
+Server, Darwin Streaming Server provides a high level of customizability
+and runs on a variety of platforms allowing you to manipulate the code
+to fit your needs.
+
+ License : Freeware
+ Author/Publisher : The Open Source Community
+ Modification Date : October 6, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 26.6 MB - version 5.5.4
+
+ Download 
+File Size: 40.2 Kb - Streaming Proxy 4.1
+
+ QuickTime Streaming Server Home Page Comes with Mac OS X Server
+
+ Darwin Streaming Server Home Page 
+
+ Flip4Mac WMV 2.2.1.11 
+
+With the Windows Media Components for QuickTime by Flip4Mac, you can
+play Windows Media files (.wma and .wmv) in QuickTime Player and view
+Windows Media content on the Internet using a web browser.
+
+ License : Freeware Player - import/export $29 - $179
+ Author/Publisher : Telestream
+ Modification Date : September 5, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 11.2 MB
+
+ Home Page 
+
+ FStream 1.4.3 
+
+FStream is a small application to listen to and easily record Internet Radio.
+ Features:
+ - Decoding of OGG Vorbis, AAC/AAC+ and MP3 streams;
+ - Encoding of the streams to MP3, AAC, AIFF and WAV formats;
+ - Recognition of Apple's remote control;
+ - Efficient use of processor resources;
+ - Minimalist interface and easty to use;
+ - Personalizable interface;
+ - Great stream recognition flexibility (e.g. IceCast and ShoutCast);
+ - Access to preselected lists (ShoutCast and SourceMac)
+
+ License : Freeware
+ Author/Publisher : Julien-Pierre Averous
+ Modification Date : September 1, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.8 MB
+
+ Home Page 
+
+ iNet Stream Archiver 1.7.3 
+
+iNet Stream Archiver allows you to record Shoutcast and Icecast internet
+radio. While recording, it will check the track name being played and
+make a new mp3 file when a new song starts - each mp3 file will have the
+right song name. You can also record multiple radio stations, depending
+on how much bandwith you have.
+
+ License : Shareware, $15
+ Author/Publisher : Xample Informatique
+ Modification Date : October 9, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 8.9 MB
+
+ Home Page 
+
+ iRecordMusic 1.6.465 
+
+One-click audio recording
+ Record audio as MP3 and MP4 (AAC), suitable for playback on an iPod
+ Supports RealAudio and WindowsMedia, the preferred audio formats of many broadcasters
+ Integrates with iTunes and iCal
+
+ License : Shareware, $20
+ Author/Publisher : Bitcartel Software
+ Modification Date : August 29, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 3.4 MB
+
+ Home Page 
+
+ iShout 1.0.1 
+
+iShout is a music player to listen to shoutcast streams and record your favorite internet radios.
+
+ License : Freeware
+ Author/Publisher : Jean-Matthieu
+ Modification Date : August 11, 2005
+ Requirements : Mac OS X 10.3 and higher
+
+ Download 
+File Size: 4.0 MB
+
+ Home Page 
+
+ iTunes 8.2 
+
+The entertainment capital of your world.
+
+ License : Freeware
+ Author/Publisher : Apple
+ Modification Date : June 1, 2009
+ Requirements : Mac OS X 10.4.10 or higher
+
+ Download 
+File Size: 77.3 MB - version 8.2
+
+ Download 
+File Size: 3.5 MB - version 2.0.4
+
+ Home Page 
+
+ m3u2mp3 1.08 
+
+M3U files are simple text files used to "stream" MP3 files. You can find them at many
+excellent sites like CD Baby and Magnatune. Sometimes, you might want to keep the real MP3
+file, instead of just streaming it. This program (m3u2mp3) does just that.
+
+ License : Freeware
+ Author/Publisher : Hypert Software
+ Modification Date : March 2, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 97 Kb
+
+ Home Page 
+
+ Nicecast 1.9.5 
+
+Nicecast is the easiest way to broadcast music from OS X. Broadcast to
+the world, or just across your house. Nicecast can help you create your
+own internet radio station or allow you to listen to your iTunes Music
+Library from anywhere in the world!
+
+ License : Shareware, $40
+ Author/Publisher : Rogue Amoeba
+ Modification Date : February 3, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.0 MB
+
+ Home Page 
+
+ PandoraBoy 0.7.0 
+
+Love Pandora.com , but tired of having to run it a web browser? Ever wish you could control
+pandora without even being at your computer? Well then look no farther. PandoraBoy allows
+you to control your music with global hotkeys, applescript or your apple remote.
+Additionally, it supports growl notifications so that you always know what you're
+listening to.
+
+Pandora (created by The
+Music Genome Project) is a web-based radio site that plays new songs matching your tastes
+as determined by previously rated songs.
+
+ License : Freeware
+ Author/Publisher : Frozensilicon
+ Modification Date : March 29, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 636 Kb
+
+ Home Page 
+
+ PandoraMan 1.0.14 
+
+Small Cocoa wrapper for Pandora . Pandora (created by The
+Music Genome Project) is a web-based radio site that plays new songs matching your tastes
+as determined by previously rated songs.
+
+ License : Freeware
+ Author/Publisher : IntrArts Creative Media
+ Modification Date : March 3, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 100 Kb
+
+ Home Page 
+
+ QuickTime 7.5.5 
+
+Apple's multimedia architecture.
+
+ License : Freeware - Pro Version $30
+ Author/Publisher : Apple
+ Modification Date : September 9, 2008
+ Requirements : Mac OS X 10.4 and 10.5
+
+ Quicktime 7.5.5 Download 
+File Size: 64.7 MB - version 7.5.5 (Mac OS X 10.4 and 10.5)
+
+ Quicktime 7.5.0 Download 
+File Size: 51.4 MB - version 7.5.0 (Mac OS X 10.3.9)
+
+ Quicktime 6.5.2 Download 
+File Size: 29 MB - version 6.5.2 (Mac OS X 10.2.8 to 10.3.9)
+
+ Quicktime 6.0.3 Download 
+File Size: 10.2 MB - version 6.0.3 (Mac OS 8 to 9.x)
+
+ Quicktime 5.0.5 Download 
+File Size: 9.5 MB - version 5.0.5 (Mac OS 7.5.5 to 9.x)
+
+ Quicktime 4.0.3 Download 
+File Size: 8.4 MB - version 4.0.3 (Mac OS 7.1 to 8.1)
+
+ Home Page 
+
+ RabbitRadio 1.2 
+
+Sick of dealing with ugly audio plugins? Tired of leaving your web
+browser open to listen to online radio? RabbitRadio makes listening to
+your favourite NPR stations easy - and it features a minimal modern
+interface. RabbitRadio currently supports realtime streaming audio from
+KQED, WAMU, WGBH, WUOT, WBUR, WDET, WDUQ, KPCC, KRWG, WMUB, KEXP, KCRW
+and WHYY.
+
+ License : Freeware
+ Author/Publisher : Llew Mason
+ Modification Date : November 3, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 257 Kb
+
+ Home Page 
+
+ RadioLover 1.6v420 
+
+RadioLover splits iTunes radio and streaming MP3 radio into individual MP3 songs. 
+# Record MP3 Internet radio streams as individual MP3 songs
+ # Songs are automatically tagged with artist, album, radio station and track number
+ # Schedule recordings of your favourite shows
+ # Record multiple streams at the same time
+ # Split recordings by song, time, or size
+ # Import from iTunes Radio Tuner
+ # Drag and drop MP3 stations from iTunes and the Web (typically these are links that end with .pls)
+ # International language streams supported
+ # Supports thousands of Shoutcast compatible and M3U/EXTM3U style radio streams found on popular sites and in iTunes Radio Tuner
+
+ License : Shareware, $15
+ Author/Publisher : Bitcartel Software
+ Modification Date : October 17, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ RadioRecorder 1.08 
+
+Jogging with an iPod is fun, but even a big music collection gets tiring
+if you listen to it every day. RadioRecorder lets you take a selection
+of your favourite internet radio stations along with you.
+
+ License : Freeware
+ Author/Publisher : Oleg Kibirev
+ Modification Date : January 9, 2005
+ Requirements : Mac OS X version 10.2 or higher
+
+ Download 
+File Size: 1.1 MB
+
+ Home Page 
+
+ Radioshift 1.1.3 
+
+With Radioshift, radio is on your schedule. Like a personal video
+recorder (PVR) for radio, Radioshift enables internet and AM/FM radio to
+be recorded automatically and listened to at any time.
+ Radioshift can be used to...
+ ...explore and listen to over 50,000 radio listings from around the
+world.
+ ...subscribe and automatically record any of thousands of radio
+programs.
+ ...listen live to thousands of RealAudio, Windows Media, QuickTime, and
+MP3 streams, all in one player.
+ The key to Radioshift is its built-in Radio Guide, which enables users
+to explore over 50,000 radio listings. While exploring the Guide, users
+can listen live to streams without worrying about the format of the
+stream - Radioshift supports RealAudio, Windows Media, QuickTime, and
+MP3 streams, all in one player. Better still, with a single click, audio
+can be subscribed to right from the guide. The audio will then be
+automatically recorded whenever it airs, with no difficult setup
+required. Radioshift records in the background and has audio ready for
+listening at any time.
+
+ License : Shareware, $32
+ Author/Publisher : Rogue Amoeba
+ Modification Date : January 14, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 11.0 MB
+
+ Home Page 
+
+ RadioTuner 2.01 
+
+This widget (for Mac OS X) lets you listen to your favorite radio stations online. Unlike
+other radio widgets, RadioTuner lets you customize the list of radio stations... all your
+favorite radio stations in one widget -- enjoy!
+
+ License : Freeware
+ Author/Publisher : Markus Wuersch
+ Modification Date : December 18, 2006
+ Requirements : Mac OS X 10.4 or higher - RealPlayer (version 10.1 for Intel-Macs, version 10 vor PPC), Flip4Mac
+
+ Download 
+File Size: 158 Kb
+
+ Home Page 
+
+ RealPlayer 11.0.1 build 949 
+
+RealPlayer plays the great RealAudio and RealVideo content on the web, all without download delays.
+
+ License : Freeware
+ Author/Publisher : Progressive Networks
+ Modification Date : October 29, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 15.3 MB - RealPlayer 11.0.1 build 949
+
+ Download 
+File Size: 11.6 MB - RealPlayer 10.1 build 503 - August 10, 2007
+
+ Download 
+File Size: 6.4 MB - RealPlayer 8
+
+ Older Versions 
+
+ Home Page 
+
+ SHOUTcast 1.9.8 
+
+This SHOUTcast server runs on Mac OS X and Mac OS X Server 2. It is a
+unix-style app without an Aqua interface, and has to be run in a
+terminal window.
+SHOUTcast is a streaming media system for Windows and Un*x platforms.
+At the center of the system is this product, the SHOUTcast Distributed
+Network Audio Server (DNAS). The DNAS is responsible for accepting
+a broadcast feed from Winamp and the SHOUTcast Source DSP plug-in, and
+repeating the broadcast to listeners connected to this SHOUTcast DNAS.
+Once your source content is being fed into the SHOUTcast DNAS, it will
+also, dependent on the source content's configuration, list itself
+with the SHOUTcast directory so listeners can locate your broadcast.
+
+ License : Freeware
+ Author/Publisher : Nullsoft, Inc.
+ Modification Date : February 28, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 63 Kb
+
+ Home Page 
+
+ Streamers v28 
+
+Streamers uses Safari,
+WireTap, iCal 1.5.1 or greater, and iTunes to automate the process of
+recording internet audio streams for later playback in iTunes (and on an
+iPod). You will need all four applications for Streamers to work. (Note
+that you will also need Quicktime Player, RealPlayer and Windows Media
+Player. I'd like to workaround this, but applescript appears to require
+these apps all to be present if they're supported.)
+
+Important! In Wiretap: (Download from Ambrosia Software.) In WireTap's
+preferences, specify the Desktop as the location to which files should
+be saved. Make sure the "Application Name" checkbox is deselected.
+Select the "Prefix" checkbox, and enter only "recording" in the text
+field. Deselect the checkbox next to "Open files after recording them."
+
+ License : Freeware
+ Author/Publisher : Christian Turner
+ Modification Date : August 16, 2004
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 372 Kb
+
+ Home Page 
+
+ StreamRipperX 1.05 
+
+The MAC Internet Radio Recorder.
+
+Record songs from your favourite Internet radio stations as individual MP3 files.
+
+ License : Freeware
+ Author/Publisher : Wai (Simon) Liu
+ Modification Date : April 15, 2003
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 480 Kb
+
+ Home Page 
+
+ WireTap Studio 1.0.11 
+
+Using WireTap Studio, you can record the discrete audio output of any
+application, as well as all system audio, or record audio input from any
+microphone, line-in, or audio input hardware.
+
+If you can hear it, WireTap Studio can record it. Once you have recorded
+your audio, you can easily organize your recordings in the convenient
+Recording Library, and edit them with WireTap Studio's integrated
+lossless audio editor. WireTap Studio also boasts full Audio Unit
+effects support, for adding professional quality effects to your audio.
+
+ License : Shareware, $69
+ Author/Publisher : Ambrosia Software
+ Modification Date : April 9, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 30.7 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

@@ -1,0 +1,56 @@
+Question 6.12 
+
+ Question 6.12 
+ Since array references decay into pointers,
+if arr is an array,
+what's
+the difference between
+ arr and &arr ?
+
+The type.
+ In
+Standard C,
+ &arr yields a pointer,
+of type pointer-to-array-of-T,
+to the entire array.
+(In
+pre-ANSI C,
+the & in &arr generally elicited a warning,
+and was generally
+
+ignored.)
+Under all C compilers,
+a
+simple
+reference
+(without an explicit & )
+to an array
+yields a pointer,
+of type pointer-to-T,
+to the array's first element.
+(See
+also questions
+ 6.3 ,
+ 6.13 ,
+and
+ 6.18 .)
+
+ References:
+
+ANSI Sec. 3.2.2.1, Sec. 3.3.3.2
+
+ISO Sec. 6.2.2.1, Sec. 6.3.3.2
+
+Rationale Sec. 3.3.3.2
+
+H&S Sec. 7.5.6 p. 198
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

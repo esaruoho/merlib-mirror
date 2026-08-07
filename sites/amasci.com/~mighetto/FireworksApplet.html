@@ -1,0 +1,69 @@
+<title>FireworksApplet</title>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- This HTML comment hides the script from non-JavaScript browsers
+if ( !_isJDK11() )
+	alert("\nYou have encountered a Java applet that requires a browser\n" +
+				"that supports Java 1.1.4 or later, such as:\n\n" +
+				"      Microsoft Internet Explorer 4.0 or later\n" +
+				"      Netscape Navigator 4.06 or later\n");
+
+// return the version number times 1000
+function _get_version()
+{
+	return Math.round(parseFloat(navigator.appVersion) * 1000);
+}
+
+// return true if fully JDK 1.1 compliant browser is found
+function _isJDK11()
+{
+	var java_version = "1.02";
+	var isJDK11 = false;
+	var compareNumber1 = 49;
+	var compareNumber4 = 52;
+
+	// first check for a Netscape browser
+	if (navigator.appName.substring(0,8) == "Netscape")
+	{
+		// use LiveConnect to query the java version directly
+		java_version = java.lang.System.getProperty("java.version");
+		// we will use the charAt function below to determine
+		// our version of Java. charAt("1") on Netscape returns 49
+		compareNumber1 = 49;
+		compareNumber4 = 52;
+	}
+
+	// Unfortunately IE doesn't support LiveConnect, so we are forced
+	// to rely on the browser version number
+	else if (navigator.appName.substring(0,9) == "Microsoft")
+	{
+		if (_get_version() >= 4000)
+			java_version = "1.1.4"
+		// charAt("1") on IE returns 1
+		compareNumber1 = 1;
+		compareNumber4 = 4;
+	}
+
+	// Now look at the java_version string that we expect to be in
+	// "1.nn" format. We will examine the first character and then
+	// skip the "." and finally look at the next number. Both of these
+	// numbers should be greater than (future compatibility) or equal
+	// to 1 if the browser supports JDK 1.1
+	if (java_version.charAt(0) >= compareNumber1 &&
+		java_version.charAt(2) >= compareNumber1)
+	{
+		// Netscape 4.04 without the JDK patch reports a version
+		// number of 1.1.2 which translates to less then full
+		// JDK 1.1 support
+		if (java_version.charAt(4) >= compareNumber4 )
+			isJDK11 = true;
+	}
+	return isJDK11;
+}
+// This JavaScript comment is also the end of the HTML comment above -->
+</SCRIPT>
+
+<applet code="FireworksApplet.class" width=338 height=252 name="FireworksApplet"
+archive="FireworksApplet.jar" >
+You need a Java-enabled Web browser!
+</applet>

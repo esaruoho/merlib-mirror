@@ -1,0 +1,912 @@
+Pure Mac: Security - Software For Macintosh 
+
+ Security 
+
+ Access Protection 
+ File/Disk Wiping 
+ File Encryption 
+ File Folder Hiding 
+ Firewall 
+ Password Storage 
+ Steganography 
+
+ The Block 
+
+ Burn 
+
+ PGP 
+
+ InVisibles 
+ Xray 
+
+ BrickHouse 
+ Firewalk X 
+ InterGate 
+ IPNetSentryX 
+ MacAnalysis 
+ NetBarrier 
+
+ Pastor 
+
+ Stego 
+
+ Access Protection 
+ File/Disk Wiping 
+ File Encryption 
+ File/Folder Hiding 
+ Parental Control 
+ Password Storing 
+ Personal Firewall 
+
+ The Block DiskLock iEmpower LockOut Keys Off Password Key Sesame SuperLock 
+ Burn DoDelete The Eraser MacWasher NetShred ShredIt PGP 
+ The MacLockSmith PGP QuickEncrypt Tiny Cipher Tresor 
+ Change Visibility SECREt Secret Folder Stego Trygve's CMM Plug-ins 
+ CyberPatrol SurfDoubler 
+ ForgotIt? Key Pad MacPasser My Privacy Password Retriever PasswordWallet SecurePass The Serial Keeper Storage Bin Web Confidential 
+ BrickHouse DoorStop IPNetSentry NetBarrier SurfDoubler 
+
+ Anonymity and Privacy on the Internet 
+ The Anonymizer - Anonymous Surfing 
+ Electronic Privacy Information Center 
+ Macintosh Security 
+
+ The Block 2.1 
+
+THE BLOCK is a powerful password protection system for Macintosh 
+computers.
+Unlike other password protection systems, it will not accept real 
+passwords. To log in to a computer protected by THE BLOCK you need to go 
+through a two-step process. First you need to type a Password Key, which 
+is a key combination similar to the Finder's Copy or Paste shortcuts 
+[command+c] or [command+v]. The second step is to click with the mouse on 
+the shutdown button on the on-screen dialog or, depending on the 
+preferences you set, to press the "esc" key on your keyboard.
+A big part of THE BLOCK's security comes from the illusion that a real 
+password is needed. If intruders are not aware of how THE BLOCK works, 
+they will always choose the wrong approach. If they are aware, THE BLOCK 
+will still be as protective as every other password system because there 
+are many possible Password Keys and there is an option to disable the 
+shift key at startup. A Password Key can consist of any of the four 
+modifiers (command, alt, control or shift) and another key on your 
+keyboard, including the cursor keys, the F-keys and the page navigation 
+keys.
+
+ License : Shareware, $10
+ Author/Publisher : Marc Mennigmann 
+ Modification Date : November 1, 1998
+ Requirements : 680x0, System 7.5 or better
+
+ Direct Download
+ File Size: 1057 Kb 
+
+ Home Page 
+
+ BrickHouse 1.2b12 
+
+BrickHouse is designed to make using the network firewall built in to
+Mac OS X quick and easy. By using BrickHouse to enable your computer's
+firewall, you can help prevent unauthorized villians from gaining access
+to your computer via your internet connection.
+
+BrickHouse also helps you use your firewall to guard against denial of
+service or resource-based internet attacks. Network attacks will bounce
+off the firewall to prevent your computer from slowing down or crashing.
+
+ License : Shareware, $25
+ Author/Publisher : Brian Hill
+ Modification Date : January 13, 2004
+ Requirements : Mac OS 10.1 or higher
+
+ Direct Download 
+ File Size: 1.2 MB
+
+ Home Page 
+
+ Burn 2.5 
+
+Files and folders dragged onto the Burn icon will be overwritten a user selected 
+number of times with a user selected pattern, then renamed, then deleted. Both data 
+and resource forks are deleted.
+
+ License : Freeware
+ Author/Publisher : Michael Watson and Paul Jenson/Next Wave Software, Inc.
+ Modification Date : November 10, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 129 Kb 
+
+ Parent Directory 
+
+ Home Page 
+
+ Change Visibility 1.0 
+
+Most of the files and folders on your disk are visible. However, some of the items are hidden by the Finder (invisible). Invisible items are special files and folders maintained by the Finder, the Mac OS, or by an application or extension installed on your Mac. In general, items are invisible so that you can't move, rename or modify them. 
+Change Visibility is a contextual menu plugin that permits you to change the visibility of a file or folder. In other words you can make invisible items visible and visible items invisible.
+
+ License : Freeware
+ Author/Publisher : Alsoft
+ Modification Date : August 31, 1999
+ Requirements : PPC, Mac OS 8 or better
+
+ Download Page
+ File Size: 7 Kb
+
+ Cyber Patrol 5.0 
+
+Cyber Patrol is an Internet access management utility which parents and teachers use to control children's access
+to the Internet. It allows those responsible for children to restrict access to certain times of day, limit the total time
+spent on-line in a day and block access to Internet sites they deem inappropriate. Cyber Patrol also can be used to
+control access to the major on-line services and to local applications such as games and personal financial
+managers.
+
+ License : Demo - 7 day - Purchase for $29.95
+ Author/Publisher : SurfControl
+ Modification Date : September 8, 2001
+ Requirements : PPC
+
+ Direct Download
+ File Size: 3069 Kb
+
+ Parent Directory
+
+ Home Page 
+
+ DiskLock 4.5.1 
+
+If you ever leave your computer unattended, share it with others, use a laptop, or work on a network, you
+need DiskLock. DiskLock is a complete and flexible security solution: You can easily lock in privacy and
+security for files you want to leave open. DiskLock is as easy to set up as clicking on a few buttons--yet it's
+virtually impossible to defeat. 
+DiskLock sets up much faster than other security programs. Instead of having to select each file, you can choose entire folders with a single click.
+And DiskLocks is virutally impossible to bypass - it loads before the system software so unauthorized
+users can't start up your system, even from a floppy disk.
+
+ License : Demo, $79.95
+ Author/Publisher : Power On Software
+ Modification Date : August 23, 1999
+ Requirements : 680x0 or PPC, System 7.0 or higher including Mac OS 8.6
+
+ Direct Download
+ File Size: 2587 Kb
+
+ Home Page 
+
+ DoDelete 1.0.1 
+
+DoDelete is a "drag and drop" utility for the secure deletion of files. It uses Department of Defense recommendations for permanently removing data
+from your hard drive.
+
+ License : Shareware, $5
+ Author/Publisher : Michael F. Kamprath 
+ Modification Date : July 26, 1997
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 124 Kb
+
+ Home Page 
+
+ DoorStop Personal Edition 2.0.1 
+
+With DoorStop installed on your Macintosh you can: 
+ block access to any TCP service on the Mac from any address or range of addresses
+ block accesses to all TCP services
+ block accesses to particular IP addresses within a multihomed server
+ keep a log of all denied and allowed accesses
+
+DoorStop has been specifically tuned to work well with Open Door's ShareWay IP product line. You can use
+DoorStop with ShareWay IP to: 
+ eliminate worries about "guest" access being turned on with personal file sharing
+ enhance the built-in security of AFP servers
+ provide different levels of security for each server supported by ShareWay IP Pro
+
+ License : Demo, $299 for the Server Edition, $59 for the Personal Edition
+ Author/Publisher : Open Door Networks
+ Modification Date : September 13, 2000
+ Requirements : PPC, Mac OS 8.1 or later
+
+ Direct Download
+ File Size: 1377 Kb - Personal Edition 2.0.1
+
+ Direct Download
+ File Size: 680 Kb - Server Edition 1.0.2 - released October 25, 1999
+
+ Home Page 
+
+ The Eraser 2.7 
+
+The Eraser deletes your files by using a sophisticated procedure. It lets you customize many details of
+this job. The recovery of deleted files becomes impracticable.
+
+ License : Shareware, $25
+ Author/Publisher : Rocco Moliterno
+ Modification Date : August 24, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 512 Kb 
+
+ Home Page 
+
+ FireWalk X 2.3.6 
+
+Firewalk X is a full featured firewall for Mac OS X. Offering flexible
+firewalling plus features such as restricting application connections
+and interactive, real-time alerts.
+
+ License : Shareware, $35
+ Author/Publisher : Pliris
+ Modification Date : April 26, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Direct Download 
+ File Size: 1.7 MB
+
+ Home Page 
+
+ ForgotIt? 1.3.2 
+
+ForgotIt? manages all those passwords you barely can remember and have almost forgotten. Instead of writing them
+down on little pieces of paper that "...must be somewhere, but where?", you can can now put them in one secure place!
+ForgotIt? uses strong Blowfish encryption to ensure that nobody else gets your passwords, PINs and whatever else
+you have to remember nowadays. Have only one password instead of dozens!
+
+ License : Shareware, $15
+ Author/Publisher : Erich H Rast 
+ Modification Date : July 27, 2001
+ Requirements : 680x0 or PPC and Mac OS X
+
+ Direct Download
+ File Size: 744 Kb - 68k version
+
+ Direct Download
+ File Size: 762 Kb - Classic PPC version
+
+ Direct Download
+ File Size: 1269 Kb - Carbon version
+
+ Home Page 
+
+ iEmpower 5.9.3 
+
+iEmpower is the world's most advanced Macintosh security software implementing
+Apple Computer's latest Mac OS 9 technology.
+iEmpower is designed for the future and priced for today. Online purchasing,
+downloadable software and documentation, and free 24 x 7 technical support by phone or
+by email. Uses the Keychain for secure storage
+ Appearance Manager theme savvy 
+ Integrated Finder contextual menus 
+ Network Service Locator finds servers 
+ Navigation Services for managing files 
+
+ License : Demo, $69
+ Author/Publisher : Empower Pro
+ Modification Date : September 10, 2000
+ Requirements : Mac OS 9
+
+ Direct Download
+ File Size: 67 Kb
+
+ Home Page 
+
+ IPNetSentryX 1.1 
+
+IPNetSentryX is an advanced firewall, intrusion detector, and network
+management tool that protects your Mac from outside intruders and other
+network abuse.
+
+Unlike most other Internet security products, IPNetSentryX offers basic
+protection without erecting barriers for the safe use of your Internet
+connection. There is no need to "punch holes" in a firewall for specific
+applications you may wish to run. Instead, IPNetSentryX silently and
+intelligently watches for suspicious behavior, and when triggered,
+invokes a solid filter which completely bans the potential intruder from
+your Macintosh. The advantage is you don't need a network expert to
+configure your firewall or debug compatibility conflicts.
+
+ License : Demo, $40
+ Author/Publisher : Peter Sichel/Sustainable Softworks 
+ Modification Date : January 2, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Direct Download 
+ File Size: 1.5 MB
+
+ Direct Download 
+ File Size: 1.5 - Classic version 1.4
+
+ Parent Directory 
+
+ Home Page 
+
+ LockOut 3.1.2 
+
+LockOut is a Mac application that helps keep people from using your Mac while you're away.
+Helps keep your Mac safe from your co-workers while at the office, and from your kids while at home.
+
+ License : Shareware, $10
+ Author/Publisher : Maui Software
+ Modification Date : September 30, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 582 Kb - Classic version
+
+ Direct Download
+ File Size: 485 Kb - Mac OS X version
+
+ Parent Directory
+
+ Home Page 
+
+ Key Pad 2.0.6 
+
+Do you have a hard time remembering all those website passwords? Do you need a place to store important
+bank or personal information? Do you need a place to store those software registration codes? Then let Key
+Pad be your electronic keyring. Key Pad is Internet Config savvy so you have one click access to all of your
+password protected sites. Fast and compact, Key Pad is a perfect choice for your Apple Menu.
+
+ License : Shareware, $10
+ Author/Publisher : John Lowry 
+ Modification Date : August 14, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1656 Kb
+
+ Home Page 
+
+ Keys Off 1.3.1 
+
+Keys Off provides a quick and easy way to disable user input. Simply indidcate which of the following
+items you want disabled: keyboard input, menu bar selections, mouse clicks, disk insertions, or the 
+keyboard power key. Then press a single hot-key to have Keys Off disable them all. To turn
+everything back on, type in your password. It's that simple.
+
+ License : Shareware, $10
+ Author/Publisher : Cliff McCollum/Blue Globe Software 
+ Modification Date : October 8, 1999
+ Requirements : 680x0 or PPC - system 7.0 through Mac OS 9
+
+ Direct Download
+ File Size: 1016 Kb
+
+ Home Page 
+
+ The MacLockSmith 2.4 
+
+The MacLocksmith is an useful application to save your files from indiscreet eyes. It
+protects your files quickly by using a strong encryption method and a password. Also it
+locks/unlocks disks by software flag .
+By using Special Keys you can activate some its extra ability: you can set/unset lock bit of files,
+lock/unlock names and, finally, show/hide files, folders and (with some precautions) disks.
+The MacLocksmith works very fast and can scan your folders/disks looking for files to treat.
+
+ License : Shareware, $10
+ Author/Publisher : Rocco Moliterno
+ Modification Date : August 29, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 494 Kb
+
+ Home Page 
+
+ Mac Mixmaster 1.0 
+
+Unlike the original Mixmaster 2.0.3 written for Unix, the Mac Mixmaster Client does not run as a mixmaster server,
+parsing incoming and outgoing e-mail messages, or generating keys. Instead, it performs what hitherto has been
+unavailable to Mac users: it prepares messages to be recieved by and passed on to Mixmaster (Type 2) remailers 
+on the net. Depending upon user input, it prepares messages by encrypting them with the public keys of the
+available mixmaster remailers, and produces the text which a users can send to them as part of an e-mail
+message.
+
+ License : Freeware
+ Author/Publisher : William Crowshaw
+ Modification Date : February 12, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 93 Kb - 68k version
+
+ Direct Download
+ File Size: 104 Kb - PPC version
+
+ Home Page 
+
+ MacPasser 1.4.2 
+
+MacPasser is a small and easy-to-use password rememberer (passer). Simply put, is it an application that remembers
+account information. You can enter the name of the services, your login names, your passwords and other information
+specific to each service. The information can then be saved either as an unlocked file or as a secured, encrypted file.
+An average user can not break the encryption, but a hacker can probably do it. If you want to give your files greater
+security I suggest you use a special application for that purpose. One example of such an application is PGP (Pretty
+Good Privacy).
+
+ License : Freeware
+ Author/Publisher : Kim Alstrom
+ Modification Date : July 24, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 819 Kb
+
+ Home Page 
+
+ MacWasher 2.1 
+
+Many people do not realize that Internet browsers (Internet Explorer, Netscape, and
+America Online) as well as many other software products store information about what they have been
+doing on a computer system. This includes which documents they have used, which pictures they have
+viewed, which web sites they have visited, and various other activities they have performed.
+ Anyone can simply turn on your system and see a history of what you have been doing on your
+computer. Not only does this infringe on your privacy, but the tracks that are left behind can take up
+large quantities of valuable hard drive space. Recovering this space can be very beneficial by
+improving the overall speed and performance of a computer.
+ Cleaning up the history of your activities can be a tedious chore of manually removing each history file
+or entry. If privacy and disk space are to be maintained, this process must be performed every time
+you use your computer.
+ MacWasher can automatically clean up your browser's cache, cookies, history, recent document list,
+and much more!
+ MacWasher can run in the background and clean up your tracks when you are done surfing the
+Internet or any other time you choose.
+
+ License : Shareware, $29.95
+ Author/Publisher : WebRoot Software
+ Modification Date : October 2, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1432 Kb
+
+ Home Page 
+
+ My Privacy 1.2.1 
+
+For ages, people have used locks and safes to protect their personal and
+commercial information. Today, only encryption can provide privacy in the
+electronic world.
+VSE My Privacy is a secure repository for your passwords, notes and all
+kind of data that should be kept secret and secure. You only need to
+remember a single password for all your confidential information.
+
+ License : Shareware, $19.95
+ Author/Publisher : VSE
+ Modification Date : August 29, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 803 Kb
+
+ Home Page 
+
+ NetBarrier 10.3.3 
+
+NetBarrier X3 was designed to protect the Macintosh user from the perils of the Internet. Its four-level line of defense provides optimal security so that you can use the Internet without leaving yourself vulnerable to its dangers.
+ Including: Personal Firewall; Antivandal; Internet Filter; Monitors
+
+ License : Update, Purchase for $60
+ Author/Publisher : Intego
+ Modification Date : April 5, 2004
+ Requirements : Mac OS X 10.1.1 or higher
+
+ Direct Download 
+ File Size: 8.9 MB
+
+ Home Page 
+
+ NetShred 2.0 
+
+Provides an easy, permanent way to destroy web browser cache, web browser
+history, and email application trash. It supports several web browsers and email
+applications, can shred multiple user profiles, and can be run either
+automatically or manually.
+NetShred works with the following web browsers:
+Netscape 4.x Internet Explorer 4.5 (both AOL and Microsoft distributions)
+Internet Explorer 5.0 iCab 1.x
+And the following email applications:
+Netscape 4.x Eudora 3.1 and Eudora 4.3
+
+ License : Shareware, $10
+ Author/Publisher : Mireth Technology Corporation
+ Modification Date : October 18, 2001
+ Requirements : 680x0 or PPC - Mac OS 8 or higher
+
+ Direct Download
+ File Size: 877 Kb - 68k version
+
+ Direct Download
+ File Size: 1350 Kb - PPC version
+
+ Home Page 
+
+ Password Key 3.2.2 
+
+Password Key is a security program for the Macintosh. It was designed to provide a limited amount of security to your
+Macintosh system with emphasis on "security without modification" in its processes. It is completely safe to use and will
+help you to know if someone is trying to use your Mac in your absence.
+There are ways to circumvent its operation! It is intended to provide you with a limited security environment and a way to
+find out if someone is tampering with your system. Do not consider your system to be under "Lock and Key" while
+Password Key is running. The old adage of "Locks are for honest people" applies here.
+
+ License : Shareware, $20
+ Author/Publisher : Carl Powell III
+ Modification Date : September 11, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download File Size: 363 Kb
+
+ Home Page 
+
+ Password Retriever 2.1.1 
+
+A day at the office can be especially frustrating when you just can't remember the password to the local database right before giving a presentation. Password Retriever will let you store and categorise thousands of passwords to everything from your voice mail to your countless e-mail accounts.
+
+While Password Retriever doesn't offer the completely unnecessary 448 bit encryption of other password storage utilities, its security methods wouldn't be easily hackable. However, if you are planning to store access to nuclear warheads, our competitors products would do the job you're asking, but at a higher price. Just don't forget, nothing is ever one hundred percent secure in today's world.
+
+ License : Shareware, $10
+ Author/Publisher : Koingo Software
+ Modification Date : October 29, 2001
+ Requirements : PPC, Mac OS 8 or better and Mac OS X
+
+ Direct Download
+ File Size: 626 Kb - Classic PPC version
+
+ Direct Download
+ File Size: 799 Kb - Carbon version
+
+ Home Page 
+
+ PasswordWallet 2.6.2 
+
+PasswordWallet stores what Keychain doesn't. PasswordWallet is a convenient,
+easy to use, secure place to store all your usernames, passwords, PIN numbers, or
+combinations. It just doesn't get any easier than this!
+For security, PasswordWallet uses the BlowFish encryption with 512-bit keys to
+protect your data. For safety, PasswordWallet can copy your password to the
+clipboard and clear it automatically after you paste.
+For convenience, PasswordWallet can save URLs with your entries and launch your
+default browser for you. One "master" password unlocks all of your other
+passwords.
+If you're running MacOS 9, PasswordWallet will add your "master" password to the
+Keychain Control Panel! (Although Password Wallet works great with MacOS 8.1 or later.)
+
+You can also synch this with Password Wallet for Palm OS.
+
+ License : Shareware, $15
+ Author/Publisher : Selznick Scientific Software
+ Modification Date : October 25, 2001
+ Requirements : PPC, Mac OS 8.1 or better and Mac OS X
+
+ Direct Download
+ File Size: 620 Kb
+
+ Home Page 
+
+ PGP 7.0.3 
+
+Pretty Good Privacy. The default standard for Internet encryption. It also comes with a very handy file wiper
+to permanently delete files.
+
+ License : Freeware
+ Author/Publisher : Phillip Zimmerman/PGP Inc.
+ Modification Date : February 2, 2001
+ Requirements : PPC, Mac OS 7.6.1 or greater - U.S. or Canadian Citizenship
+
+ PGPfreeware Download Page
+ File Size: 6045 Kb - Go here to download PGP 7.0.3
+
+ PGPfreeware Download Page
+ File Size: 5638 Kb - Go here to download PGP 6.5.8
+
+ PGPfreeware Download Page
+ File Size: 8235 Kb - Go here to download PGP 6.0.2 - 68020, System 7.5 or higher, Those with systems lower than 7.5 can still get PGP 2.6.2-130v1.hqx (696 Kb)
+
+ PGPfreeware Download Page
+ File Size: 8882 Kb - PGPi 6.5.1 PPC Version (International Version) - Released November 3, 1999
+
+ International Parent Directory
+ Go here to get the latest version of PGP if you are not a US or Canadian Citizen
+
+ MIT Home Page - Go here to get Earlier versions of PGP
+
+ The International PGP Home Page - If you aren't a US or Canadian citizen you can get the international
+version of PGP here. It is basically the same but was compiled from code legally exported from the US.
+
+ Pretty Good Privacy, Inc. Home Page 
+
+ QuickEncrypt 3.1 
+
+Drop a file on this application to quickly and securely encrypt it, or decrypt
+previously encrypted files. It is very configurable and has many features, including multiple worksets,
+user-controlled password limitations, default passwords, automatic encryption and/or decryption,
+verification of validity, the option of a standard source folder and various destination options, opening
+files once decrypted (via AppleEvents), and more.
+
+ License : Shareware, $25
+ Author/Publisher : David Sinclair
+ Modification Date : January 20, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 456 Kb
+
+ Home Page 
+
+ SECREt 2.2 
+
+SECREt allows you to hide and reveal files and folders with a password.
+
+ License : Freeware
+ Author/Publisher : Ken Ng 
+ Modification Date : July 11, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 304 Kb
+
+ Home Page 
+
+ Secret Folder 1.4.2 
+
+OneApp Secret Folder lets you conceal a folder and its contents.
+It provides you with an easy and fast way to protect documents
+and avoid them being seen, modified, or erased by other users.
+
+ License : Shareware, $20
+ Author/Publisher : OneApp
+ Modification Date : July 19, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1051 Kb
+
+ Home Page 
+
+ SecurePass 2.0.1 
+
+The secure Macintosh archiving utility for passwords and other security keys. Designed for the user
+who accesses secure network services or who deals with multiple passkeys that
+are difficult to secure, memorize, use, change, or keep track of.
+
+ License : Shareware, $15
+ Author/Publisher : Highwinds Trading Company
+ Modification Date : February 14, 2000
+ Requirements : 680x0 or PPC, Mac OS 7.6 or higher
+
+ Direct Download
+ File Size: 724 Kb
+
+ Home Page 
+
+ The Serial Keeper 2.1 
+
+The Serial Keeper is a program that saves information about software, you put in the info, and hit add, and it saves the info to a database type file. The main use for The Serial Keeper is just that, keeping track of serial numbers for software you own, be it shareware, commercial, control panel, extension, whatever, if it has a serial number, you can store it using The Serial Keeper.
+Databases are also password protectable.
+
+ License : Freeware
+ Author/Publisher : Steven Byrd 
+ Modification Date : October 5, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 614 Kb - 68k version
+
+ Direct Download
+ File Size: 698 Kb - PPC
+
+ Home Page 
+
+ Sesame 2.2 
+
+Sesame is a simple but effective safety tool for your Macintosh or compatible computer.
+This application prevents unauthorized access by requesting a password whenever it is
+launched (for instance at startup). Site administrators can create an administrator password
+in addition to the individual password. Security options will prevent a power user from
+inactivating Sesame at startup or forcing it to quit. Sesame can also hide the files of folders
+you have selected.
+
+ License : Shareware, $10
+ Author/Publisher : Bernard Frangoulis 
+ Modification Date : March 22, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 266 Kb
+
+ Home Page 
+
+ ShredIt 4.8 
+
+ShredIt, the e-document shredder provides an easy, permanent way to
+destroy data. It can be used to shred a file, a folder, or even the
+free space on a disk. Files that are thrown in the trash can still be
+recovered until they are overwritten by something else. To ensure that
+a file cannot be recovered, you need to shred it instead of throwing it
+away. ShredIt and make sure it's gone.
+
+ License : Shareware, $10
+ Author/Publisher : Robert Wiebe
+ Modification Date : January 20, 2001
+ Requirements : 680x0 or PPC - Mac OS 8 or higher 
+
+ Direct Download
+ File Size: 549 Kb - 68k version
+
+ Direct Download
+ File Size: 618 Kb - PPC version
+
+ Home Page 
+
+ Stego 1.0a2 
+
+A steganography tool. Stego is a tool that enables you to embed data in, and retrieve 
+data from, Macintosh PICT format files, without changing the 
+appearance or size of the PICT file. Stego can be used as an "envelope" 
+to hide a previously encrypted data file in a PICT file, 
+making it much less likely to be detected.
+
+ License : Shareware, $15.00 or any stegosaur
+ Author/Publisher : Romana Machado/Paradigm Shift Research
+ Modification Date : November 28, 1993
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 260 Kb
+
+ Storage Bin 3.1 
+
+A stand-alone FileMaker database for storing passwords.
+
+ License : Shareware (20 days), $10
+ Author/Publisher : Tim Woodruff 
+ Modification Date : July 8, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1967 Kb
+
+ Home Page 
+
+ SuperLock Pro 4.5.1 
+
+SuperLock 4.0 Lite password protects your Macs to keep out would-be casual snoopers. It has the
+following features: 
+ Immune to force-quitting with Command-Option-escape
+ Immune to the Shift key being held down on startup (optional)
+ Maintains an activity log and notifies owner of attempted break-ins (optional)
+ Hides the desktop and all other windows for privacy
+ Supports dual users, with one being an administrator
+ Shuts down the Mac after too many attempts (optional)
+
+ License : Shareware, Lite $25 - Pro $35
+ Author/Publisher : Trivectus
+ Modification Date : May 30, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 1447 Kb SuperLock 4.5.1 Pro
+
+ Direct Download
+ File Size: 599 Kb SuperLock Lite 4.02
+
+ Home Page 
+
+ SurfDoubler 7.0.2 
+
+With VICOM SurfDoubler two people using two
+computers can surf the Internet at the same time.
+This package now incorporates parental controls including the CyberNOT content
+filtering list and timed access restrictions. Additional features include a DHCP server,
+DNS caching and server, a personal firewall and support for AppleScript.
+
+ License : Demo (expires after 7 days)- Purchase for $35
+ Author/Publisher : Vicom
+ Modification Date : August 7, 2001
+ Requirements : PPC, System 7.6.1 or higher
+
+ Direct Download
+ File Size: 2652 Kb - Demo
+
+ Direct Download
+ File Size: 1517 Kb - 7.0.2 updater
+
+ Download Page
+
+ Home Page 
+
+ Tiny Cipher 1.5 
+
+Tiny Cipher 1.5 is a fully-featured Macintosh application which uses the full power of the TEA cipher to provide
+military-grade encryption capabilities to every Macintosh user. It has all the features you will have come to expect from a Mac
+application, including Drag and Drop and extensive customisability.You can encrypt and decrypt either files or entire folders
+quickly and easily. Tiny Cipher has support for passwords up to 128 characters long, as well as secure file deletion (up to seven
+overwrites). It's very fast, very small (about 160K) and runs in well under a Megabyte of RAM. It can process files in the
+background while you get on with other work and notify you when it has finished. It runs at about three times the speed of a
+good implementation of DES, while being more secure.
+
+ License : Freeware
+ Author/Publisher : David Gillies
+ Modification Date : November 8, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 197 Kb - 68k version
+
+ Direct Download
+ File Size: 209 Kb - PPC version
+
+ Direct Download
+ File Size: 253 Kb - Documentation
+
+ Parent Directory 
+
+ Download Page 
+
+ Home Page 
+
+ Tresor 1.2 
+
+Tresor is a simple file encryption tool. Tresor was created to fill a need for an encryption tool on the shareware market that would satisfy the demand for high security. The main goal in developing Tresor was to achieve very high cryptographic security. We also wanted to make an application that would be easy to use.
+ Tresor encrypts any file using the IDEA&#153; 
+block encryption algorithm. Encryption uses self-selected passwords.
+For decryption, the same password that was used for encryption
+will bee needed again.
+
+ License : Shareware, 20 Euro
+ Author/Publisher : Roland Blaser
+ Modification Date : January 14, 2001
+ Requirements : PPC, Mac OS 8 or later
+
+ Direct Download
+ File Size: 333 Kb - PPC version
+
+ Direct Download
+ File Size: 335 Kb - G4 version
+
+ Home Page 
+
+ Trygve's CMM Plug-ins 2.2 
+
+These are MacOS 8 Contextual Menu Manager plug-ins. When you control-click on Finder files and folders,
+these plug-ins add new commands to the contextual popup menu that appears. The plug-ins do things like move
+and copy files, launch applications, convert text files, set types and creators, etc. There is also a very nifty
+little module that makes it very simple to make files and folders invisible (hide/undohide).
+
+ License : Shareware, $10
+ Author/Publisher : Trygve Isaacson 
+ Modification Date : July 28, 1998
+ Requirements : PPC, Mac OS 8
+
+ Direct Download
+ File Size: 361 Kb
+
+ Parent Directory
+
+ Home Page 
+
+ Web Confidential 2.2.2 
+
+Version 1.3 adds Keychain support in Mac OS 9.
+This little program will let you store and quickly retrieve your login names and passwords. It
+comes with a strong encryption algorithm to protect them.
+
+ License : Shareware, $25
+ Author/Publisher : Alco Blom 
+ Modification Date : September 18, 2001
+ Requirements : 680x0 or PPC and Mac OS X
+
+ Direct Download
+ File Size: 604 Kb - PPC version 2.2.2
+
+ Direct Download
+ File Size: 449 Kb - Carbon version 3.0b7 - released August 10, 2001
+
+ Parent Directory 
+
+ Home Page 
+
+ Back to the main page of Pure Mac

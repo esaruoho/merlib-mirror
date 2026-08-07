@@ -1,0 +1,386 @@
+---
+title: "Bloggity-Blog-Blog-Blog Archive 04 Apr 2004 to 10 Apr 2004"
+source_domain: amasci.com
+source_path: ~tegan/blog/20040404-20040410.html
+order: 8596
+reachable_from_entry: false
+images: 36
+internal_links: 10
+extracted: 2026-08-07T06:01:04Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bloggity-Blog-Blog-Blog Archive 04 Apr 2004 to 10 Apr 2004
+
+*Source page: `~tegan/blog/20040404-20040410.html`*
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="13" /></td>
+</tr>
+<tr>
+<td class="title" width="100%" data-bgcolor="#9e98cc" data-valign="top">Bloggity-Blog-Blog-Blog Archive LXXVII<br />
+Laura "Tegan" Gjovaag</td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td class="body" data-valign="top" width="74%"><p>Sunday, April 11, 2004 <span id="108167737864716573"></span></p>
+<strong>Sketchbook - Phil Noto</strong>
+<p><span class="rss:item">Blogger was acting up all evening, so this one is a bit delayed. Sorry. Anyway, this is another sketch that I got at the <a href="http://www.eskimo.com/~tegan/blog/20040229-20040306.html#107829148610892568">Emerald City Comicon 2004</a>. It did not occur to me until after he'd finished a sketch for my sister that I should have asked for Mera instead. Maybe next time I see him.</span></p>
+<a href="http://www.notoart.com/"><img src="http://www.eskimo.com/~tegan/blog/sketch/sketch_NotoP.jpg" data-border="0" width="400" height="396" /></a><br />
+<strong>AQUAMAN</strong><br />
+<strong>by Phil Noto</strong><br />
+29 February 2004<br />
+(permission to post given 29 February 2004 in person)<br />
+<a href="http://www.notoart.com/">the art of phil noto</a>
+<p>As a reminder: Almost every sketch in my sketchbook was non-commissioned and done on the floor of a con. These are not the best works of the artists. These are only representative of what the artist can do under pressure in a loud, crowded, and often stressed-out environment. Most of them were done as quickly as possible, to prevent huge lines from forming. Don't judge any of these artists negatively by the artwork you see, instead be as impressed as I am by what they accomplished in far-from-ideal conditions.</p>
+<p>To see all the sketches I have permission to post so far, check out my <a href="http://www.eskimo.com/~tegan/blog/sketch">Sketchbook Page</a>. If you have any contact information for any of the <a href="http://www.eskimo.com/~tegan/blog/sketch/index.html#wanted">other artists I'm trying to contact</a>, please <a href="mailto:tegan@eskimo.com?subject=Bloggity-Blog-Blog-Blog">e-mail me</a>. Click for a <a href="http://www.eskimo.com/~tegan/blog/sketch/random.html">random Aquaman sketch</a>.</p>
+<p>The Saturday Sketch ™ is brought to you by the letters "A", "Q" and the number "27", and also courtesy the fine artists who pour their lives into producing wonderful comic books, then come to conventions only to get asked by geeky fangirls for a sketch of Aquaman. Support an artist, buy a comic book.<br />
+</p>
+by Tegan at <a href="#108167737864716573">2:56 AM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108167737864716573&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108167737864716573&#39;);"></a>
+<hr />
+<p>Saturday, April 10, 2004 <span id="108164152625465132"></span></p>
+<strong>Latest In Iraq</strong>
+<p><span class="rss:item">It's hard to get anything close to a full picture, but reading Iraqi blogs gives you an idea of what the more educated people are feeling. Unfortunately, as <a href="http://healingiraq.blogspot.com/">Zeyad</a> often points out, they are too much in the minority. Still, they are worth reading if you want to know what is happening for real, instead of various propaganda bits on different news stations depending on how they are leaning in the political fight. Use the links on Zeyad's page to keep up with the Iraqi bloggers, he's got the best list I've seen so far.</span></p>
+<p>For a good general overview, all these blogs have been updated recently: <a href="http://healingiraq.blogspot.com/">Healing Iraq</a>, <a href="http://riverbendblog.blogspot.com/">Baghdad Burning</a>, <a href="http://messopotamian.blogspot.com/">The Mesopotamian</a>, <a href="http://iraqataglance.blogspot.com/">Iraq at a Glance</a>, <a href="http://hammorabi.blogspot.com/">Hammorabi</a>, <a href="http://nabilsblog.blogspot.com/">Nabil's Blog</a>, <a href="http://iraqthemodel.blogspot.com/">Iraq the Model</a>, <a href="http://iraq-iraqis.blogspot.com/">Iraq &amp; Iraqi's</a>, <a href="http://afamilyinbaghdad.blogspot.com/">A Family in Baghdad</a>, <a href="http://www.roadofanation.com/blog/">Road of a Nation</a>, <a href="http://sunofiraq.blogspot.com/">Sun of Iraq</a>, <a href="http://kurdo.blogspot.com/">Kurdo's World</a>, and <a href="http://raedinthemiddle.blogspot.com/">Raed in the Middle</a>.<br />
+</p>
+by Tegan at <a href="#108164152625465132">4:58 PM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108164152625465132&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108164152625465132&#39;);"></a>
+<hr />
+<span id="108162704664530055"></span>
+<strong>Random Thoughts</strong>
+<p><span class="rss:item">I knew I'm good at slide puzzles, but when Mark Frauenfelder at <a href="http://www.boingboing.net/2004/04/09/good_time_waster_sim.html">Boing Boing</a> said that he couldn't solve <a href="http://www.johnrausch.com/SlidingBlockPuzzles/nooff.htm">this puzzle</a>, I thought it might actually be tough. Instead, it was one of the most simple I've seen. Am I missing something?</span></p>
+<p>Hey! <a href="http://www.whoisthatwithjeremy.com/index.html">Who is that with Jeremy?</a>. Via <a href="http://www.newsfromme.com/index.html">Mark Evanier</a>.</p>
+<p><a href="http://www.anglicon.com/">Anglicon 17</a> has a guest! Her name is Virginia Hey, and she was in <em>The Road Warrior</em> and played Zhaan on <em>Farscape</em>. Now, let's cross our fingers and hope that the curse of Anglicon doesn't hit her. See, Anglicon has this curse that is wonderful for the guests, but awful for the con. Once a guest has been confirmed, that guest will suddenly get a much-higher paying job for the same weekend... and the con contracts are written so that if the guest gets a job like that they can take the higher-paying job instead of being forced to come to the con. Anyway, Anglicon 17 will be October 15-17, 2004 in SeaTac. This year's theme is "Victorian Explorers of Time, Space &amp; Magic". I think I'm going to prep a <em>Girl Genius</em> mad scientist costume for the masquerade. The musical guest will be the talented <a href="http://www.heatherlands.com/">Heather Alexander</a>.</p>
+<p>Elayne Riggs reports that <a href="http://elayneriggs.blogspot.com/2004_04_01_elayneriggs_archive.html#108159907518447468">photomosaics are hot</a> on the 'net right now. Bush-worshippers will probably not want to visit her links.</p>
+<p>Johnny B is doing more <a href="http://johnnybacardi.blogspot.com/2004_04_04_johnnybacardi_archive.html#108156890701734970">AIT/Planet Lar reviews</a>, which I'm avoiding reading until I read the books I got. Larry Young is a very wise marketer, as he's going to have <em>someone</em> on the comics blogosphere talking about his books every day for a long time to come.</p>
+<p>The nominees for <a href="http://www.noreascon.org/hugos/nominees.html">the Hugo Awards</a> have been announced. I liked reading the retrospective nominees for 1953... some good stuff there.</p>
+<p>Happy first birthday to <a href="http://billmon.org/">Billmon's Whiskey Bar</a>.</p>
+<p>Kevin Drum, ex-Calpundit, discusses the oddness of <a href="http://www.washingtonmonthly.com/archives/individual/2004_04/003664.php">handedness</a>. Hey, he can't do politicals <em>all</em> the time.</p>
+<p>You can now watch Condi Rice say "Nobody told me I was supposed to actually do anything!" at <a href="http://c-span.org/">C-SPAN.org</a>. But you really don't need to, as that just about sums up her testimony. Why a National Security Advisor expects to be told to do her job is well beyond my ken, but that's what she says.</p>
+<p><a href="http://www.highclearing.com/archivesuo/week_2004_04_04.html#005236">Jim Henley</a> linked to a terrifying first-hand account of one soldier in an ambush in Iraq. I was going to link to it also, but the note, on LiveJournal, was locked so most people can't read it.</p>
+<p>"This is Bush's 33rd visit to his ranch since becoming president. He has spent all or part of 233 days on his Texas ranch since taking office, according to a tally by CBS News. Adding his 78 visits to Camp David and his five visits to Kennebunkport, Maine, Bush has spent all or part of 500 days in office at one of his three retreats, or more than 40 percent of his presidency." - <a href="http://www.washingtonpost.com/ac2/wp-dyn/A62524-2004Apr8?language=printer">Washington Post</a>. Question: If you had a full-time job, and took 40% of the time off, wouldn't you be fired?</p>
+<p>Read <a href="http://www.mdw.army.mil/news/Contingency_Planning.html">this article</a>, then look at the date of the article, and tell me again that no one in Bush's administration had a clue that anyone might use a plane as a weapon. This link and the vacation one both via <a href="http://www.thismodernworld.com">This Modern World</a>.<br />
+</p>
+by Tegan at <a href="#108162704664530055">12:57 PM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108162704664530055&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108162704664530055&#39;);"></a>
+<hr />
+<p>Friday, April 09, 2004 <span id="108157317120413134"></span></p>
+<strong>Rapid Reviews - 7 April 2004 - Part III</strong>
+<p><span class="rss:item"><strong>Supreme Power #9</strong>: This is a rather amazing bit of story... on how the general who was responsible for Hyperion stayed responsible for him into adulthood, and even tried to take back control once Hyperion learned the truth of his origin. As normal, there's a small shift to other characters, but also as usual there isn't much of that. Overall, this one is just very good. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a></span></p>
+<p><strong>Amelia Rules: Superheroes #2</strong>: Oh, I really hate to say this... but this issue was a bit too disjointed. Amelia is often disjointed, and I understood what was happening, but bits of this issue felt like they were ratcheted into place, instead of fitting together like a good puzzle like previous issues. I can't quite put my finger on what bothered me the most, though, so I feel like my criticism is invalid. It's still a very good book which I highly recommend, though, even if this one issue threw me off a bit. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a></p>
+<p><strong>Banana Fish Vol 1</strong>: A friend loaned me this, but warned me that she wasn't that impressed with it. I pretty much disagree with her on that, as I liked it overall. Ok, there was a sterile sense of something missing: the book never quite engaged me fully. I think that might be because the intended audience is Japanese, but I'm not positive. Reading backwards can be difficult, but since the layout was very standard, it worked well with this book. The story is a bit more problematic. It's set in New York, among a street gang with a charismatic and handsome young leader, Ash. The plot involves a mysterious drug called "banana fish" that apparently destroyed the mind of Ash's older brother in Vietnam, and now has made a reappearance. Throw in a couple of Japanese reporters, and you have an epic in the making. This volume ends with nothing resolved, which is slightly annoying. Also annoying, or perhaps even disturbing, is the way the artwork portrays black people. Taken out of context, it would be considered racist. Even in context, it wasn't quite comfortable to read. Overall, not bad, but it had too many faults for me to go after the remaining volumes. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a></p>
+<p>Coming April 14th according to the latest shipping list: PS238, Age of Bronze, 1602, Fallen Angel, Green Arrow, Aquaman, JLA, H-E-R-O, and JSA.<br />
+</p>
+by Tegan at <a href="#108157317120413134">9:59 PM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108157317120413134&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108157317120413134&#39;);"></a>
+<hr />
+<span id="108155439627330821"></span>
+<strong>HOLY FREE BOOKS, BATMAN!</strong>
+<p><span class="rss:item">I just got <em>another</em> package from Larry Young. Perhaps this is the prize for his unofficial "who mentions <a href="http://www.ait-planetlar.com/">AIT/Planet Lar</a> first" contest. Whatever it is, my hubby and I were both astounded at the size and weight of the package. We were more astounded when I opened it and the books kept coming out like clowns out of a car. I'm not going to rush reviewing these, but I'll certainly be putting up comments on them as I go. Anyway, here's what came out of the box...</span></p>
+<ul>
+<li><em>Colonia: Islands and Anomalies</em> by Jeff Nicholson is the only book in the package I already owned. I've been buying <em><a href="http://www.coloniapress.com/">Colonia</a></em> since day one, and I was told by Jeff at the <a href="http://www.emeraldcitycomicon.com/">Emerald City Comicon</a> that new issues are coming this summer. This copy will be a good loaning copy.</li>
+<li><em>Available Light</em> by Warren Ellis. I've yet to really enjoy anything I've read by Warren Ellis. His style just has never worked for me. I'm looking forward to seeing if this book will break the string.</li>
+<li><em>Electric Girl</em> Vol 1, Vol 2, and issue 10 by Mike Brennan. I don't know much about this series, but I seem to recall looking at it at San Diego once. It'll be good to actually read it.</li>
+<li><em>Scurvy Dogs</em> 1-3 by Andrew Boyd and Ryan Yount. I don't know anything at all about this one, except that other bloggers have been reviewing it lately. And it has a little insert that says <a href="http://www.thefourthrail.com/">Randy Lander</a> liked it, too.</li>
+<li><em>Johnny Dynamite: Underworld</em> by Max Allan Collins and Terry Beatty.</li>
+<li><em>White Death</em> by Rob Morrison and Charlie Adlard.</li>
+<li><em>Jax Epoch and the Quicken Forbidden: Borrowed Magic</em> by Dave Roman and John Green. This is one that I've heard about and was mildly curious about, but never expected to get a copy to read.</li>
+<li><em>The Annotated Mantooth!</em> by Matt Fraction, Andy Kuhn, and Tim Fisher. This has got the comic, the scripts, and notes... a neat idea that I've seen done to some extent with novels (hubby has the Annotated Sherlock Holmes, Annotated Wizard of Oz, and goodness knows what else), but I've never seen applied to comics like this. And hey, it's got a gorilla, how bad can it be?</li>
+<li><em>Abel</em> by William Harms and Mark Bloodworth.</li>
+<li><em>Codeflesh</em> by Joe Casey and Charlie Adlard. I think I just read a review of this one, actually...</li>
+<li><em>Last of the Independents</em> by Matt Fraction and Kieron Dwyer. Interesting design.</li>
+<li><em>The Couriers 02: Dirtbike Manifesto</em> by Brian Wood and Rob G.</li>
+<li><em>Couscous Express</em> by Brian Wood and Brett Weldele.</li>
+<li><em>Channel Zero: Jennie One</em> by Brian Wood and Becky Cloonan. Same team as <em>Demo</em>. Yeah, this one ought to be good. I may just have to save it 'til the end.</li>
+<li><em>Astronauts in Trouble: Master Flight Plan</em> by Larry Young, Charlie Adlard, and Matt Smith. I've been wanting to read <em>Astronauts in Trouble</em> since I first heard about it. But back then I was a little less open-minded and less inclined to buy new stuff. Getting the whole story, in a hardback version no less, is like a dream come true.</li>
+<li><em>The Making of Astronauts in Trouble</em> by Larry Young. A script book. I think I'll enjoy this one.</li>
+<li><em>True Facts</em> by Larry Young. Well, someday hubby and I do want to publish our own comic books, but that day is way off in the future and requires a number of things to happen first. While we are waiting for/building toward those things, I've been reading up on comics publishing so that when we do it, if we do take the plunge, we'll do it the right way. I suspect this book will be interesting reading for that reason alone, as it claims to be "a pocket guide to self-publishing your own comic books".</li>
+</ul>
+<p>And that's the lot. I won't be going through these fast, I don't think, but I'll try to throw in one or two during my normal weekly reviews. In the meantime, THANK YOU, Larry. This box made my day.<br />
+</p>
+by Tegan at <a href="#108155439627330821">4:46 PM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108155439627330821&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108155439627330821&#39;);"></a>
+<hr />
+<span id="108153448175245834"></span>
+<strong>Rapid Reviews - 7 April 2004 - Part II</strong>
+<p><span class="rss:item"><strong>Thor #77</strong>: Ok, that's annoying. The dramatic moment gets interrupted. Which is common enough in comic books. But it was a jolting interruption that just didn't work for me at all. It just means we have to wait longer before the moment of truth comes, if ever. Ug. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a></span></p>
+<p><strong>Justice League Adventures #30</strong>: I'm not a big Kamandi fan. And while this was a fun little story, it did very little for me. Not much of substance in it, and too much of a cutesy little moral. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a></p>
+<p><strong>Amazing Spider-Man #65/506</strong>: Ok, is Ezekiel a good guy, or a bad guy, or something else entirely? He's not in this just out of the goodness of his heart, and yet his comment to MJ is entirely kind. Speaking of MJ, there's a follow-up to the bit that bothered me last issue, with MJ confiding to Aunt May. Not a bad start to a new arc, and a much better continuation from the last few issues. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a></p>
+<p>Still to review: Supreme Power and Amelia Rules. Now <em>there's</em> a pair for you.<br />
+</p>
+by Tegan at <a href="#108153448175245834">11:14 AM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108153448175245834&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108153448175245834&#39;);"></a>
+<hr />
+<p>Thursday, April 08, 2004 <span id="108148796552336607"></span></p>
+<strong>Random Thoughts</strong>
+<p><span class="rss:item">The Dark Horse solicits for July are up at <a href="http://www.comixfan.com/xfan/forums/showthread.php?threadid=26834">the ComiX-Fan Forums</a>. One of the more notable one for me was the <em>Shockrockets</em> trade. I'd almost forgotten about that series.</span></p>
+<p>I've been looking at the short films over at <a href="http://www.bmwfilms.com/">BMWfilms</a> after noticing that Dark Horse is putting out a comic book series based on the main character from the films. They really are quite good to watch. Maybe I'll review 'em one of these days. So far I've only watched <em>Ambush</em> and <em>Chosen</em> from the first "season".</p>
+<p>Elayne Riggs has <a href="http://elayneriggs.blogspot.com/2004_04_01_elayneriggs_archive.html#108147524647013170">postponed her packing party</a> until April 24th. If you live over on that coast and are near enough to go, you ought to <a href="http://elayneriggs.blogspot.com/2004_04_01_elayneriggs_archive.html#108109233342835916">give them a hand</a>.</p>
+<p>Does all Manga look the same? <a href="http://franklinharris.blogspot.com/2004_04_04_franklinharris_archive.html#108143245552691693">Franklin doesn't think so</a>. Loudly.</p>
+<p>Rachel Hartman is dealing with <a href="http://www.webamused.com/milkbreath/archives/001426.html">frat boys</a>.</p>
+<p>I just wanted to mention that, no, I haven't read most of the <a href="http://www.comic-con.org./Pages/CCIEisner04Call.html">Eisner Nominees</a>, and yes, if you feel like rectifying that situation feel free to e-mail me. I don't generally turn down free comics, and I'll always review them here on the blog.</p>
+<p>John Jakala has a bit on <a href="http://grotesqueanatomy.blogspot.com/2004_04_01_grotesqueanatomy_archive.html#108144445681496307">waiting for the trade</a> and the high quality of some recent single issues that's making him reconsider that stance. I just want to point out that I agree completely on <em>Demo</em>. This is one of the best put together books I've ever seen, physical quality-wise. The covers are thick and solid, the paper is nice... I usually don't loan my single issues out, but I've already loaned <em>Demo</em>. Also, <a href="http://www.brokenfrontier.com/columns/thewall/thewall.htm">Shawn Hoke</a> mentions the extras, and I've got to second <em>that</em>, too. There's a lot packed in each issue besides just the story... and the stories have been consistenly excellent. And, since the each issue is stand-alone, you can go check one out without fear. Issue six is due in stores soon, and issue seven is just being solicited. If your store doesn't have shelf copies, then order one. It's worth it.</p>
+<p>Speaking of <em>Demo</em>, if <a href="http://www.alltooflat.com/about/personal/sean/?BlogNum=758">Sean Collins</a> did play a big role in getting Larry Young to notice the bloggers, and to send comics to some of us, I owe him a big thanks. And I love what Larry wrote about me in the Millarworld thread: "Laura "Tegan" Gjovaag has a real lilting, soothing writing style. In spite of her possibly unhealthy fascination with Aquaman, I find something entertaining there every day." Heh heh heh.</p>
+<p>I'm going to have to consider ordering <a href="http://thoughtballoons.blogspot.com/2004_04_01_thoughtballoons_archive.html#108143077054886581">Digital Webbing Presents #17</a> in June (due out in August), as <a href="http://thoughtballoons.blogspot.com/">Thought Balloons</a> blogger Kevin Melrose has a story in it, and the preview page he's posted looks pretty good. So, um, how much does this book cost, and is it still possible to find a copy of Kevin's first story in issue #11?</p>
+<p>I wasn't going to link to <a href="http://ringwood.blogspot.com/2004_04_04_ringwood_archive.html#108114277315372054">The Great Losers Giveaway</a>, due to the name of the blog that's hosting it and the fact that my mother reads my blog. In any case, I wasn't going to, but now I have, and that's that.</p>
+<p>Comics Continuum has previews of <a href="http://www.comicscontinuum.com/stories/0404/08/index.htm"><em>Common Grounds</em> and <em>Age of Bronze</em></a> among others. That's right, <em>Age of Bronze</em> is coming out next week!</p>
+<p>If you don't know about the <a href="http://www.subservientchicken.com/">Subservient Chicken</a>, you do now.</p>
+<p>And here, just so I don't leave you on a positive note: <a href="http://www.buzzflash.com/farrell/04/04/far04011.html">Will the 2004 Election Be Called Off?</a><br />
+</p>
+by Tegan at <a href="#108148796552336607">10:19 PM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108148796552336607&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108148796552336607&#39;);"></a>
+<hr />
+<span id="108146421412934863"></span>
+<strong>Awarding</strong>
+<p><span class="rss:item">The nominees for this year's Eisner Awards <a href="http://www.comic-con.org./Pages/CCIEisner04Call.html">have been announced</a>. As usual, there are quite a few items that I've never read, and a good number I've never even heard of (although I'm getting much better at hearing about things, thanks to the blogosphere). Here's the ones I feel like commenting on (the full list is <a href="http://www.comic-con.org./Pages/CCIEisner04Call.html">here</a>):</span></p>
+<p>Best Single Issue (or One-Shot)</p>
+<em>Conan The Legend #0</em>, by Kurt Busiek and Cary Nord (Dark Horse)
+<em>Finder #30</em>: "Beware of Dog," by Carla Speed McNeil (Lightspeed Press)
+<em>Giant THB 1.v.2</em>, by Paul Pope (Horse Press)
+<em>Global Frequency #5</em>: "Big Sky," by Warren Ellis and Jon J. Muth (WildStorm/DC)
+<em>The Goon #1</em>, by Eric Powell (Dark Horse)
+<em>Usagi Yojimbo #65</em>: "Usagi and the Tengu," by Stan Sakai (Dark Horse)
+<p>I've only read Conan and Usagi, and I'd give it to Usagi by a nose out of those two.</p>
+<p>Best Limited Series</p>
+<em>Arrowsmith</em>, by Kurt Busiek, Carlos Pacheco, and Jess Merio (WildStorm/DC)
+<em>Empire</em>, by Mark Waid, Barry Kitson, and James Pascoe (DC)
+<em>Global Frequency</em>, by Warren Ellis and various artists (WildStorm/DC)
+<em>JSA: The Unholy Three</em>, by Dan Jolley, Tony Harris, and Ray Snyder (DC)
+<em>Superman: Red Son</em>, by Mark Millar, Dave Johnson/Andrew Robinson, and Kilian Plunkett/Walden Wong (DC)
+<em>Unstable Molecules</em>, by James Sturm and Guy Davis (Marvel)
+<p>Well, hey! I've actually read four of these. I think I like <em>Arrowsmith</em> the best, but <em>Superman: Red Son</em> is a very close second.</p>
+<p>Best New Series - Just one thought, how did <em>Plastic Man</em> get on this list?!??</p>
+<p>Best Graphic AlbumNew</p>
+<em>Blacksad</em>, by Juan Diaz Canales and Juanjo Guarnido (ibooks)
+<em>Blankets</em>, by Craig Thompson (Top Shelf)
+<em>The Fixer: A Story from Sarajevo</em>, by Joe Sacco (Drawn &amp; Quarterly)
+<em>Persepolis</em>, by Marjane Satrapi (Pantheon)
+<em>Yossel, April 19, 1943</em>, by Joe Kubert (ibooks)
+<p>I've read three of them, and I'd give it to <em>Persepolis</em> of the three.</p>
+<p>Talent Deserving of Wider Recognition</p>
+Derek Kirk Kim (writer/artist, <em>Same Difference and Other Stories</em>)
+Chrstine Norrie (<em>Cheat</em>)
+Jeff Parker (writer/artist, <em>The Interman</em>)
+Ben Towele (writer/artist, <em>Farewell Georgia</em>)
+Brian Wood (writer, <em>The Couriers</em>; <em>Channel Zero</em>: <em>Jennie One</em>, <em>Demo</em>)
+<p>Go Jeff! Go Brian!</p>
+<p>HALL OF FAME - Judges Choices: Otto Binder</p>
+<p>Just gotta give a wave and a YAH! for Otto, here.<br />
+</p>
+by Tegan at <a href="#108146421412934863">3:43 PM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108146421412934863&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108146421412934863&#39;);"></a>
+<hr />
+<span id="108144329321116834"></span>
+<strong>Rapid Reviews - 7 April 2004 - Part I</strong>
+<p><span class="rss:item"><strong>Plastic Man #5</strong>: Still a very scatter-brained storyline, enough so to turn me off to reading it, but there is a lot more to this issue than previous ones. I'm disappointed in the revelation, as it seems a little too cliche, but what do you expect from a book like this? Slightly better than the last issue, but I'm still neutral on it. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_0_starfish.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a></span></p>
+<p><strong>Swamp Thing #2</strong>: This issue would make absolutely no sense whatsoever if you haven't read the first issue. Fortunately, I have read the first issue, and I'm seeing where I <em>think</em> the story might be going. I'm very curious now to how it will play out. I have a feeling that this book may just join my pull list very soon. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+</p>
+<p><strong>Superman: Birthright #9</strong>: This issue isn't half bad. Ok, the art still bothers me like nobody's business, but the plot actually seems to be coming together finally. Again, I think I prefer the Smallville version of events so far, but this is workable. I can live with it. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a></p>
+<p>Still to review: Thor, Justice League Adventures, Amazing Spider-Man, Supreme Power, and Amelia Rules.<br />
+</p>
+by Tegan at <a href="#108144329321116834">9:54 AM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108144329321116834&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108144329321116834&#39;);"></a>
+<hr />
+<p>Wednesday, April 07, 2004 <span id="108139947527635702"></span></p>
+<strong>Aquaman!</strong>
+<p><span class="rss:item">I just read Aquaman #17. Oh yeah. This one felt like Pfeifer has totally hit his stride. I hope DC plans to collect this story in a trade, as I have a feeling it will read even better once the whole thing is together. This book will be out next week, and I strongly recommend it, with the usual caveats about me being an Aquaman fanatic. For a sneak peek, you can visit <a href="http://www.milehighcomics.com/firstlook/041404/aq17cvr.html">Mile High Comics</a>.</span></p>
+<a href="http://www.dccomics.com/features/aquaman/index.html"><img src="http://www.eskimo.com/~tegan/aqua/pics/cvr2003/cvra417.jpg" data-border="0" width="200" height="300" /></a>
+<br />
+&#10;by Tegan at <a href="#108139947527635702">9:44 PM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108139947527635702&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108139947527635702&#39;);"></a>
+<hr />
+<span id="108137672418573345"></span>
+<strong>A General Summary</strong>
+<p><span class="rss:item">My gut doesn't want to dwell on my life, as I'm watching events in Iraq closely and I'm horrified by what's happening over there. But life goes on, even if my heart and mind are mostly with our soldiers who are fighting and dying in a pointless and ill-advised war.</span></p>
+<p>So.</p>
+<p>Yesterday I had no internet and no television, as the cable was <em>completely</em> out. Luckily, I had a dentist appointment to distract me. Um. Or rather, unluckily. Anyway, I went to the dentist, got numbed up in the mouth for the first time in over three years, and had a filling replaced. They offered laughing gas, I took it. I don't know that it actually helped any in the way it's meant to, but I was concentrating hard on breathing properly and so it distracted me that way. The dentist and his assistant were cracking non-stop jokes, also, to the point where I asked if it was really <em>me</em> getting the laughing gas...</p>
+<p>After the dental work, I walked from the dentist down to the library. It's not a bad walk, and I needed the exercise. It felt pretty good to get out, and I picked up a couple of books they had on hold for me, including the next Betty MacDonald book. This is the book I read as a teenager, that influenced me in many ways over the years. It's titled <em>Anybody Can Do Anything</em>, and I remember it being fun as well as very instructive about life back in the pre-WWII days. The copy I got from the library appears to be a second edition rebound, and it feels like it's carrying the weight of the years when I hold it. I can hardly wait to start it.</p>
+<p>Moving on... to my immense surprise, somebody ordered some Oz t-shirts from <a href="http://www.zazzle.com/link.asp?associate_id=238498794449118802&amp;redirect=contributor&amp;contributor_id=238498794449118802">my Zazzle.com shop</a>. I suppose I shouldn't be terribly surprised, as Eric himself intends to order quite a few of the shirts I've made once we have some cash. I've mostly been enjoying myself coming up with stupid slogans like "Winged Monkey Airlines... Fly the Furry Skies!" Still, it's gratifying that one of the Oz fans enjoyed the shirts enough to buy some!</p>
+<p>Speaking of hubby-Eric, he's getting a new computer. As I was researching digital cameras I found that none of the modern ones will work with his old iMac. In fact, I realized that he is sadly out of sync with his computer. Well, I was going to buy a laptop for myself, you may recall, before hubby-Eric's father so kindly supplied me with my current one. So I suggested to Eric that we take the money we had budgeted and get him a new computer. And after some quick on-line research, I discovered that because he's a teacher, he can get a really nice computer much more cheaply than I would have been able to. True, it's a Mac, but I've never held that against hubby. In any case, hubby-Eric's new computer is supposed to arrive sometime today. I look up every time I hear the sound of something that might be a FedEx truck... of course, as I wrote those words, a white van with a tiny FedEx logo pulled up and delivered the precious cargo. Now I have to wait until hubby gets home to see it.</p>
+<p>Lastly, Comcast has me both irritated and pleased. See, the cable went out before I got up yesterday, and left me with nothing to distract me from my forthcoming dental appointment. When I got home, I called Comcast to see if they had an ETA on when service would be back. I got a "service" tech who didn't have any intention of actually answering any of my questions. When I asked if they had an ETA, he immediately said that they didn't know what had caused it, so it wasn't their fault. That's not what I asked for. A simple, "No, sorry" would have saved us both a lot of frustration, even though I would think that six hours into an outage they should at least have a clue. The discussion escalated, with the service guy constantly interrupting me before I could get my question out, while I tried to explain that I didn't care whose fault it was, I just wanted service back or credit on my bill for the hours I had lost. Finally he snarkily stated that he would give me credit, and asked if there was anything else he could do in a tone of voice that clearly indicated that he wasn't about to do anything for me. I told him yes, there was. I said he needed to get himself an attitude adjustment before taking any more calls, and that he was in the wrong line of work.</p>
+<p>Now please, don't take this the wrong way. I worked in tech support for years. I answered phones for a living. I try very hard to be nice to the front-line folks. But this guy drove me nuts. He didn't answer any of my questions, and kept offering lame excuses that had nothing to do with the issue at hand. He then got increasingly rude to me. When I hung up the phone, I was ready to throttle something.</p>
+<p>However, I try not to judge any company by one person, particularly by one person who was having a bad day. I waited an hour until I was completely calm, then called Comcast back. I got a female tech this time, but it sounded to me like my call was intercepted and transferred oddly. It didn't matter. I had only two questions. 1) Is there an ETA on repair? and 2) Will I get credit off my bill for the hours I've lost? I asked the new tech in the flatest voice possible (I even sounded flat to me) if they had an ETA yet. She asked me to wait a moment while she checked for new information, then said that the outage was due to a construction project severing an underground trunk line, and that repairs were taking longer than expected due to the nature of the cut, but they expected service would be up late that night. She then offered to credit me for the day of lost service, before I had a chance to ask. As I suspected, the first tech didn't give me credit even after saying he would, and when I mentioned that call, she apologized to me.</p>
+<p>Now, folks, I may be overestimating my own importance, but I suspect that my first call was recorded, and that the information being put into the database was a direct result of that call. I also suspect that my phone number was flagged so if I called in again I'd get special service. I don't have any proof of that, but the odd noises on the phone when I called in the second time got my paranoia going. Whatever the reason, I was completely satisfied a minute into my second call. But you would think that, six hours into an outage that completely cut off all cable tv and internet in an entire town, the service techs would actually have more to say than "It's not our fault!" Oddly enough, seven hours into the outage, they did.</p>
+<p>And service came back late in the night, around 11pm, about the time I finally decided to stop watching <em>Angel</em> and go to bed.<br />
+</p>
+by Tegan at <a href="#108137672418573345">3:25 PM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108137672418573345&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108137672418573345&#39;);"></a>
+<hr />
+<span id="108135743504452061"></span>
+<strong>Going Backwards in Iraq</strong>
+<p><span class="rss:item"><em>Now it seems we are almost literally reliving the first few days of occupation I woke up to the sound of explosions and gunfire last night and for one terrible moment I thought someone had warped me back a whole year and we would have to relive this last year of our life over and over again</em> - <a href="http://riverbendblog.blogspot.com/">Riverbend</a></span></p>
+<p><em>The situation in Baghdad looks the same as it was in the couple of days before the war last year. Streets are almost empty by seven in the evening, a whole lot of Baghdadis have remained home yesterday for fear of getting cut off from their neighbourhoods in event of Americans blocking off streets or something. There was an ongoing military operation very close to our neighbourhood almost all of Monday night till midday. At one point I imagined that the Apaches were landing on our roof (that was after I published the previous post), and explosions kept rocking our house which brought back uncanny memories of last April 10th when there was a fierce confrontation between Fedayeen and advancing Americans just outside our doorsteps.</em> - <a href="http://healingiraq.blogspot.com/">Zeyad</a></p>
+<p><em>I mean from my secular point of view it is a disaster to have all of these extremist religious right-winged militias but this is the direct result of the lost policy of the Bush administration, which are exactly what the expected problem of imported democracy would be, I used to call this cul-de-sac that we are stuck in: The Algerian Dead End. Algeria went through the exact scenario some years ago do you want elections and democracy? The powerful extremist religion people are going to win :*) You dont want democracy and elections? Dont start the mess.</em> - <a href="http://raedinthemiddle.blogspot.com/">Raed</a></p>
+<p><em>Remember the days when every time you hear an Iraqi talk on TV you had to remember that they are talking with a Mukhabarat minder looking at them noting every word? We are back to that place.</em> - <a href="http://dear_raed.blogspot.com/">Salam Pax</a></p>
+<p><em>No one knows where it is all heading. If this uprising is not crushed immediately and those militia not captured then there is no hope at all. If you even consider negotiations or appeasement, then we are all doomed.</em> - <a href="http://healingiraq.blogspot.com/">Zeyad</a><br />
+</p>
+by Tegan at <a href="#108135743504452061">10:03 AM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108135743504452061&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108135743504452061&#39;);"></a>
+<hr />
+<p>Tuesday, April 06, 2004 <span id="108130193169044287"></span></p>
+<strong>Keeping the Streak Alive</strong>
+<p><span class="rss:item">Comcast is rather out at the moment, at our house. And has been since I got up this morning. Luckily, the pug house of horror has internet access, so hubby and I used that as an excuse to visit... So here's my blog for the day (unless Comcast is back up when we get home, in which case I might blog again).</span></p>
+by Tegan at <a href="#108130193169044287">6:38 PM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108130193169044287&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108130193169044287&#39;);"></a>
+<hr />
+<p>Monday, April 05, 2004 <span id="108122603235630921"></span></p>
+<strong>Rapid Reviews - The Majipoor Trilogy</strong>
+<p><span class="rss:item"><img src="http://www.eskimo.com/~tegan/blog/blogpics/shop_lordvalentinescastle.jpg" data-align="right" data-border="0" width="100" height="150" alt="cover" /><strong><a href="http://www.amazon.com/exec/obidos/ASIN/0061054879/theaquamanwebsit">Lord Valentine's Castle</a></strong> by Robert Silverberg: Set on the unimaginably huge world of Majipoor, this is the story of a king who is overthrown and has to journey back to his rightful place. While the book tells a complete story in its own right, it also is the start of an even bigger saga, as the ending makes clear. My introduction to Majipoor came in the pages of <a href="http://www.amazon.com/exec/obidos/ASIN/0312867875/theaquamanwebsit">Legends</a>, in the short story "The Seventh Shrine". I enjoyed that little murder mystery, and got myself a copy of this book to read based on the strength of that story alone. And now, based on the strengths of this tale, I plan to read the entire series (both trilogies and a short novel). This was an interesting book with enough twists and turns to keep the relentless rush to the inevitable conclusion from going stale or becoming overly predictable. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+</span></p>
+<p><img src="http://www.eskimo.com/~tegan/blog/blogpics/shop_majipoorchron.jpg" data-align="right" data-border="0" width="100" height="150" alt="cover" /><strong><a href="http://www.amazon.com/exec/obidos/ASIN/0061054852/theaquamanwebsit">Majipoor Chronicles</a></strong> by Robert Silverberg: While the copy I got from the library billed itself as "Book Two In The Majipoor Trilogy", this is really an aside in which a young character from <em>Lord Valentine's Castle</em> visits the past of his planet in the forms of several lives. As Hissune experiences each life, he learns a bit more about his world and the way it works, and we get to learn some of that along with him. This is really an anthology of short Majipoor stories, and the result is excellent taken either that way or as a single narrative. Taken as an anthology, I think my favorite story is "A Thief in Ni-moya", chapter Nine, right near the end. A pretty good book. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+</p>
+<p><img src="http://www.eskimo.com/~tegan/blog/blogpics/shop_valentinepontifex.jpg" data-align="right" data-border="0" width="100" height="150" alt="cover" /><strong><a href="http://www.amazon.com/exec/obidos/ASIN/0061054860/theaquamanwebsit">Valentine Pontifex</a></strong> by Robert Silverberg: The final book in the first trilogy, this is the story of how Valentine finally accepts his fate to be Pontifex of Majipoor. While the plot seems to be about how Valentine stops the metamorph menace, it's really less about that than about Valentine's desire to finish things while he's still the junior king, and free to wander the world he loves. It's also a coming-of-age story about Hissune, who Valentine is grooming for leadership. While it's a strong story, and a good read, the conclusion was very quick and I want more. My introduction to Majipoor in <a href="http://www.amazon.com/exec/obidos/ASIN/0312867875/theaquamanwebsit">Legends</a> was just such a story, but I want even more. Particularly with Valentine. There was much left to be said. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+</p>
+by Tegan at <a href="#108122603235630921">9:33 PM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108122603235630921&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108122603235630921&#39;);"></a>
+<hr />
+<span id="108119973326696658"></span>
+<strong>Rapid Reviews - Demo #4-5</strong>
+<p><span class="rss:item"><strong>Demo #4</strong>: Wow, what a cover! She says it was intentionally made to look like a propaganda poster, and that's what it does to you. You aren't sure what this one will deliver. Like the first three books, someone has powers. But it's secondary to who the person is. And the events in the book tell us what kind of a person he is. But slowly. None of these stories rush events. They are all paced perfectly. I have only one nit with this story, and it involves the artwork. Three of the characters have shaved heads, and in a couple of spots it's hard to tell two of them apart. After a second read-through, I saw that there were more differences than I realized at first, but it still made reading it hard in points. Other than that minor problem, this was another excellent issue of a very excellent series. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a></span></p>
+<p><strong>Demo #5</strong>: Hmmm. If there's one thing I really like about this book, it's that every issue makes you think. There's a veritable feast for thought in each issue. And this one, although it falls flat for me on several levels, definitely makes me think. But this is the first issue that I feel has a real problem. I'm loathe to criticize, as I did enjoy the book, but the artwork just didn't work. Kate physically changes, right? But we only get to see the changes dramatically on one page, with a couple of other minor changes. It's not enough for me, even with the majority of the story focusing on the stalker side of the tale. So I was very mildly disappointed in the art on this one, but it's still a leap above most other comics out there. Still recommended, just not as highly as the first four. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a></p>
+<p>And, in case you still don't know how to get these, go to your local comic shop and give them these backorder codes: Demo #1 - SEP03 1995, Demo #2 - OCT03 2016, Demo #3 - NOV03 1967, Demo #4 - DEC03 2041, Demo #5 - JAN04 2043, Demo #6 - FEB04 2047, and Demo #7 - APR04 2236.</p>
+<p>Coming on Wednesday: Plastic Man, Amelia Rules, Swamp Thing, Amazing Spider-Man, Superman: Birthright, Thor, Justice League Adventures, and Supreme Power. If everything ships <em>and</em> UPS doesn't mess up again.<br />
+</p>
+by Tegan at <a href="#108119973326696658">2:15 PM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108119973326696658&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108119973326696658&#39;);"></a>
+<hr />
+<span id="108118875553096374"></span>
+<strong>Random Thoughts</strong>
+<p><span class="rss:item">A hearty welcome to Heidi MacDonald and her new blog Seventh World. Not much there at the moment, but I'm sure that will change soon. <em>Update</em>: I was e-mailed by Heidi and asked to please remove the link, so I've done so.</span></p>
+<p>Fred Hembeck has a new feature on his website called <a href="http://www.hembeck.com/FreddyDrewit/FreddyDrewitMainPage.htm">Freddy Drewit</a>. This page will feature original artwork from Fred on a regular basis. I hope he does an Aquaman sometime.</p>
+<p>It looks like <a href="http://newsarama.com/forums/showthread.php?s=&amp;threadid=11364">everybody</a> is <a href="http://newsarama.com/forums/showthread.php?s=&amp;threadid=11407">leaving</a> CrossGen. I wonder if we'll ever see another issue of Abadazad?</p>
+<p>Joss Whedon tells <em>Angel</em> fans to <a href="http://www.scifi.com/scifiwire/art-main.html?2004-04/05/10.00.tv">keep writing</a>. If you want to step up and try to get the show back, go to the <a href="http://saveangel.org/">Save Angel Campaign Site</a>.</p>
+<p>Big news in the comics world is the rumor reported by <a href="http://www.comicbookresources.com/columns/?column=13">Rich Johnson's Lying in the Gutters</a> that <em>Powers</em> may be moving to Marvel. It's yellow-lit, so take it with a chunk of salt.</p>
+<p>Anyone who doesn't read Neil Gaiman's blog needs to go read <a href="http://www.neilgaiman.com/journal/2004_04_04_archive.asp#108111343851793010">this entry</a>. It's pretty bad when a school starts expelling people and firing teachers like this, then barring people from coming to campus to speak about free speech.</p>
+<p>My sister reported seeing a large bit of graphitti on the freeway yesterday that said "Kurt Lives!" She suspected it had something to do with a once-local rock celebrity, and she was <a href="http://news.bbc.co.uk/2/hi/entertainment/3599769.stm">probably correct</a>.</p>
+<p>A democrat blogger who grew up in war-torn El Salvador expresses disdain for four dead mercenaries, stating "screw them", and a huge fuss goes up among republicans who call for an ad boycott of his blog and get Kerry's campaign to de-link him. A republican advocates murder (by nuclear bomb) of at least 250,000 Iraqis, most of them completely innocent, and no similar fuss goes up, even though <a href="http://www.pandagon.net/mtarchives/001813.html">she's linked by Bush's campaign</a>. Do none of the republicans see the irony?<br />
+</p>
+by Tegan at <a href="#108118875553096374">11:12 AM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108118875553096374&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108118875553096374&#39;);"></a>
+<hr />
+<p>Sunday, April 04, 2004 <span id="108113848200043124"></span></p>
+<strong>Easter Thoughts</strong>
+<p><span class="rss:item">Ok, who hasn't seen <a href="http://www.peepresearch.org/">research done on Peeps</a>? But that's nothing compared to what happens when <a href="http://www.millikin.edu/staley/fluff/peep_research.html">Peeps do research</a>.<br />
+</span></p>
+by Tegan at <a href="#108113848200043124">9:14 PM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108113848200043124&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108113848200043124&#39;);"></a>
+<hr />
+<span id="108111215947589574"></span>
+<strong>Rapid Reviews - Angel Season One DVDs - Part II</strong>
+<p><span class="rss:item"><strong><a href="http://www.tvtome.com/Angel/">Angel</a>: Lonely Hearts</strong>: Oh my. This one definitely had its intense moments. I think the best moment was when Angel pulls out a grappling hook, expertly flips it around a beam on the ceiling, then tests it... only to have the beam fall down. There were some icky moments, too. Despite the gross nature of the bad guy, the gore is kept to a minimum compared to other modern horror. You see it, the camera cuts to another scene quickly. The structure of the show kept the nature of the baddy hidden as long as possible, which was a nice change from shows that spoon-feed you the plot. And the introduction of Kate as a possible ally for Angel was also nice to see. Overall, a solid second show. No commentary on this one, though, so once through was all I got. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a></span></p>
+<p><strong><a href="http://www.tvtome.com/Angel/">Angel</a>: In the Dark</strong>: The opening dialogue as imagined by Spike was hysterical. Spike is such a wonderful character, even as an evil vampire trying for a magical artifact. I figured Angel would be too noble to use the thing, of course, and the instant Angel brought up the torturer as a likely rival for Spike I knew what would happen... I was right, too, although it didn't happen exactly as I imagined. Not bad, but not really anything special. No commentary on this one, either. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a></p>
+<p>My sister tells me that she already has the second season of Angel, and has ordered the third, so I've got a <em>lot</em> of episodes to watch and review. As before, if anyone wants to see my opinions on Buffy, you can always order it for me from <a href="http://www.amazon.com/o/registry/1LQ0LSAUK0S6I">my wishlist</a>. Heh.<br />
+</p>
+by Tegan at <a href="#108111215947589574">1:55 PM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108111215947589574&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108111215947589574&#39;);"></a>
+<hr />
+<span id="108109883417305531"></span>
+<strong>Happy Day, Chloe!</strong>
+<p><span class="rss:item">Happy Birthday Chloe... and don't forget to set those clocks forward.<br />
+</span></p>
+by Tegan at <a href="#108109883417305531">10:13 AM</a> Seattle time <a href="javascript:HaloScanTB(&#39;108109883417305531&#39;);" target="_self"></a>
+<a href="javascript:HaloScan(&#39;108109883417305531&#39;);"></a>
+<hr /></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-valign="top" width="25%"><table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc">current</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://realtegan.blogspot.com/">Bloggity-Blog-Blog-Blog</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">archives</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="20040328-20040403.html">03/28/2004 - 04/03/2004</a><br />
+04/04/2004 - 04/10/2004<br />
+<a href="20040411-20040417.html">04/11/2004 - 04/17/2004</a><br />
+<br />
+<a href="2002Archive.html">2002 Archive</a><br />
+<a href="2003Archive.html">2003 Archive</a><br />
+<a href="2004Archive.html">2004 Archive</a><br />
+</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">other</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://www.eskimo.com/~tegan/aqua/">My Aquaman Website</a><br />
+<a href="20021124-20021130.html#85318589">Why Aquaman?</a><br />
+<a href="sketch/index.html">Aquaman Sketchbook</a><br />
+<br />
+<a href="shop.html">Bookshop</a><br />
+<a href="supportsites.html">Support This Site</a><br />
+<br />
+<a href="rapidreviews.html">Rapid Reviews Index</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#B6B8FC"></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="bloggertemplate59_cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td rowspan="2" data-bgcolor="#036303"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+<td></td>
+</tr>
+</tbody>
+</table>

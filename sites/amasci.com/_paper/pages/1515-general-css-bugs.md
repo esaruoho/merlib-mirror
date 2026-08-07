@@ -1,0 +1,84 @@
+---
+title: "General CSS Bugs"
+source_domain: amasci.com
+source_path: ~bloo/indexdot/css/syntax/generalbugs.htm
+order: 1515
+reachable_from_entry: false
+images: 0
+internal_links: 7
+extracted: 2026-08-07T05:55:13Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# General CSS Bugs
+
+*Source page: `~bloo/indexdot/css/syntax/generalbugs.htm`*
+
+<span class="pagetitle">General CSS Bugs</span>\
+= <span class="sitetitle">Index DOT Css</span> by Brian Wilson \[[indexdot@blooberry.com](../../misc/email.htm)\] =
+===================================================================================================================
+
+<div align="center">
+
+|  |
+|----|
+|   [Main Index](../index.html) \| [Property Index](../propindex/font.htm) \| [CSS Support History](../supportkey/syntax.htm) \| [Browser History](../../history/browsers.htm)   |
+
+</div>
+
+\
+
+**Introduction**  
+Several of the problematic browser behaviors are not based on CSS properties or syntax (these are documented elsewhere on the pages most appropriate), but on usage with certain HTML elements or scenarios. Since they can not be cleanly classified under any specific CSS syntax page, they are lumped together here.
+
+<!-- -->
+
+**General Syntax**  
+\- IE 3.0: There is no documented way to specify a user style sheet. An [obscure method](../topics/stylefaq.htm#fourteen) does exist to accomplish this.
+
+\- IE 3.0: Applying CSS properties to the BODY element via external style sheets does not work.
+
+\- IE 3.0: The use of multiple STYLE and LINK elements is not unsupported. Only the last one specified in the document is used.
+
+\- IE 3.0: The use of external *AND* embedded style sheets is not supported.
+
+\- IE 3.0: It does not appear to cascade styles correctly.
+
+\- Netscape 4.x: Problems with CSS applied to HTML tags where "optional" end tags are omitted (LI\|DT\|P\|TR\|TH\|TD\|THEAD\|TBODY\|TFOOT.)
+
+\- Netscape 4.x does not allow CLASS or ID attributes to contain underscore characters ("\_".) Underscores are legal in HTML atributes according to the HTML standards but not according to the original CSS standards (this has been ammended in the CSS2 errata document so that CSS now allows the underscore.
+
+\- Opera 3.5+: properties applied to some selectors controlled by user settings, such as hyperlink Pseudo-classes have no effect (eg: 'text-decoration: none' applied to hyperlink Pseudo-classes are not rendered, but are rendered if applied to the A element.
+
+\- Opera 3.5+: does not allow CLASS or ID attributes to contain underscore characters ("\_".) Underscores are legal in HTML atributes according to the HTML standards but not according to the CSS standard.
+
+<!-- -->
+
+**HTML Tags**\
+**LI**  
+Netscape 4.0+: Many CSS properties applied to this element only affect the list marker, not the list item content.
+
+**HR**  
+Netscape 4.0+: Most CSS properties do not apply to this element.
+
+**Form Fields**  
+Netscape 4.0+: Most CSS properties do not apply to these elements.
+
+**OPTION**  
+IE 4.0+: The only CSS properties applicable to this element are 'color' and 'background-color'.
+
+**P**  
+IE 3.0: Unless a closing tag is added for this element, styles are not applied.
+
+**TABLE/TR**  
+\- Netscape 4.0+: Most CSS properties do not apply to these elements. CSS rules must be applied instead to TD and TH elements.
+
+\- Netscape 4.0+: Applying properties to TABLE/TR, some form element cases, and TD/TH elements can cause problems with applying CSS to elements that follow. To insure correct behavior, apply styles to redundant selectors. (One reader told me wrapping the Table or form in its own DIV will often make this problem go away.)
+
+\- Internet Explorer 3.0 does not stop CSS property inheritance (eg from the BODY element) when a table structure is encountered. Other browsers and versions do. Style rules must be repeated for cell contents.
+
+\- Opera 3.50: Applying style rules to elements that contain tables - Inheritance stops inside the table as expected, but the original CSS rules are not applied on content that follows the table.
+
+\
+\
+[Boring Copyright Stuff...](../../misc/copyright.htm)\

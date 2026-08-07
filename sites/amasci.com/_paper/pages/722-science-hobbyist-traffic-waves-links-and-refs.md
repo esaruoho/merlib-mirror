@@ -1,0 +1,277 @@
+---
+title: "SCIENCE HOBBYIST: Traffic Waves: links and refs"
+source_domain: amasci.com
+source_path: amateur/traffic/links.html
+order: 722
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T05:54:14Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SCIENCE HOBBYIST: Traffic Waves: links and refs
+
+*Source page: `amateur/traffic/links.html`*
+
+<table height="77" data-summary="nav links, google search window" width="100%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr data-valign="top">
+<td><table data-summary="nav links" data-cellpadding="4">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr data-valign="middle">
+<td><strong><a href="http://trafficwaves.org/">TRAFFICWAVES. ORG</a></strong><br />
+</td>
+<td><a href="http://amasci.com/unew.html">GOOD STUFF</a><br />
+</td>
+<td><a href="http://amasci.com/news.html">NEW STUFF</a><br />
+</td>
+<td><a href="http://amasci.com/search.html">SEARCH</a><br />
+</td>
+</tr>
+</tbody>
+</table></td>
+<td style="text-align: right;" data-summary="google search" data-valign="top"><div id="google_translate_element">
+&#10;</div>
+<div>
+&#10;</div></td>
+</tr>
+</tbody>
+</table>
+
+# LINKS
+
+<table data-cellpadding="5">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td><a href="http://trafficwaves.org/">UP</a><br />
+</td>
+<td><a href="http://trafficwaves.org/trafexp.html">EXPERI MENTS</a><br />
+</td>
+<td><a href="http://trafficwaves.org/seatraf.html">MERGE- JAMS</a><br />
+</td>
+<td><a href="http://trafficwaves.org/tfaq.html">FAQ</a><br />
+</td>
+<td><a href="http://amasci.com/~billb/cgi-bin/traffic/guestbok.html">COM MENTS</a><br />
+</td>
+</tr>
+</tbody>
+</table>
+
+<table width="100%" data-summary="two columns">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-valign="top" width="50%"><h2 id="simulators-traffic-physics">Simulators &amp; Traffic Physics</h2>
+<ul>
+<li><a href="%0Ahttps://ops.fhwa.dot.gov/publications/fhwahop18013/chap2.htm#sec4" rel="nofollow">Federal Hwy Admin: instructions for proper merging</a></li>
+<li><a href="http://trafficwaves.org/preventwaves.html">Preventing Stop-and-Go</a> (2016)</li>
+<li>Don't be an <a href="https://www.youtube.com/watch?v=Ivme-_PE1d8" rel="nofollow">early merger</a>, use both lanes, <a href="https://www.youtube.com/watch?v=ZcPby71TNC0" rel="nofollow">merge at the last minute</a></li>
+<li>WA state merge instructions: <a href="http://kuow.org/post/how-merge-traffic-seattle-youre-not-going" rel="nofollow">merge late, use that empty lane.</a> Do the <a href="http://komonews.com/news/auto-matters/whats-the-best-way-to-merge-when-a-lane-closes-use-the-zipper" rel="nofollow">zipper</a>.</li>
+<li>cars technica: <a href="http://arstechnica.com/cars/2014/07/the-beauty-of-zipper-merging-or-why-you-should-drive-ruder/" rel="nofollow">drive ruder (merge late, not early.)</a></li>
+<li><a href="http://www.slate.com/articles/life/transport/2011/10/rolling_speed_harmonization_how_colorado_fights_congestion_on_i_.single.html" rel="nofollow">Go Slow to Go Fast</a></li>
+<li><a href="http://www.cbc.ca/news/technology/how-to-zip-through-summertime-road-construction-1.1340869" rel="nofollow">CBC: signs to stop the early merging</a></li>
+<li><a href="http://www.youtube.com/watch?v=8G7ViTTuwno" rel="nofollow">Rice trick: go slow to go fast</a>, WA state DOT on youtube</li>
+<li><a href="https://www.youtube.com/watch?v=ZefgUVg3qx0" rel="nofollow">Traffic Tricks</a> mythbusters, <a href="https://www.youtube.com/watch?v=U4qZTdMOJBk" rel="nofollow">also this</a></li>
+<li><a href="http://web.archive.org/web/20130121004803/http://www.sciencenews.org/sn_arc99/7_3_99/bob1.htm" rel="nofollow">SCIENCE NEWS: Stop and Go Science</a> ( &lt;--- highly recommended )</li>
+<li><a href="http://www.mtreiber.de/MicroApplet" rel="nofollow">M. Treiber's simulator</a> (amazing java applet)</li>
+<li><a href="http://ops.fhwa.dot.gov/wz/workshops/accessible/McCoy.htm" rel="nofollow">Merge early or late?</a> late merge wins! see <a href="https://scholar.google.com/scholar?cites=10482738966636659606&amp;as_sdt=5,48&amp;sciodt=1,48">cites</a></li>
+<li><a href="http://nautil.us/issue/3/in-transit/traffic-ghost-hunting" rel="nofollow">Traffic Ghost Hunting</a></li>
+<li><a href="http://www.newscientist.com/article/dn6094-bad-driving-the-secret-to-traffic-forecasts.html" rel="nofollow">Successful jam forecasts</a> (Germany)</li>
+<li><a href="http://web.archive.org/web/20120512091912/http://www.autobahn.nrw.de/olsim3_6/index_e.html" rel="nofollow">Forecast: simulator coupled to real traffic</a> (Germany)</li>
+<li><a href="http://www.youtube.com/watch?v=Q8CjLL4yP_M" rel="nofollow">Wavedriving</a> vid</li>
+<li><a href="http://rjwagner49.com/Robotics/Software/Applet/Traffic/" rel="nofollow">Ringroad, R Wagner</a></li>
+<li><a href="http://goo.gl/xRxpF" rel="nofollow">Blokrijden smoothing</a> pace-cars in Europe</li>
+<li><a href="http://www.fhwa.dot.gov/publications/research/operations/tft/index.cfm" rel="nofollow">Traffic Flow Theory .pdf</a> ten chapters</li>
+<li><a href="http://www.slate.com/articles/life/transport/2011/10/rolling_speed_harmonization_how_colorado_fights_congestion_on_i_.single.html" rel="nofollow">Pace cars on I-70 Colorado</a></li>
+<li><a href="http://www.trafficforum.org/links.html" rel="nofollow">More simulators</a></li>
+<li>VIDEOS:
+<ul>
+<li><a href="https://www.technologyreview.com/s/607841/a-single-autonomous-car-has-a-huge-impact-on-alleviating-traffic/" rel="nofollow">Real life jam-absorption driving</a></li>
+<li><a href="https://www.youtube.com/watch?v=8b7-Q7q1FRQ" rel="nofollow">Trucker's lesson</a> to 4wheels drivers</li>
+<li><a href="https://vimeo.com/106226560" rel="nofollow">vimeo: "RUSH HOUR"</a> Heh.</li>
+<li><a href="http://www.youtube.com/watch?v=Suugn-p5C1M" rel="nofollow">Real life traffic shockwave</a></li>
+<li><a href="http://www.youtube.com/watch?v=19S3OdK6710" rel="nofollow">Phantom jams</a></li>
+<li><a href="http://www.youtube.com/watch?v=1B-Ox0ZmVIU" rel="nofollow">55: Meditation on the Speed Limit</a> (rolling barrier)</li>
+<li><a href="http://www.youtube.com/watch?v=Q78Kb4uLAdA" rel="nofollow">Idiots removed!</a> even w/identical drivers, JAM STILL APPEARS! Not caused by human behavior.</li>
+<li><a href="http://www.youtube.com/watch?v=ddiDVEC6SVk" rel="nofollow">Racing to traffic light</a></li>
+<li><a href="http://www.youtube.com/watch?v=W_kYXpAEnd8" rel="nofollow">3D simulator</a> M. Treiber</li>
+<li><a href="http://www.youtube.com/watch?v=PbnjGiGFxG8" rel="nofollow">Bruno Bozzetto cartoon</a></li>
+</ul></li>
+<li><a href="http://www.quickmeme.com/meme/3poqoi/" rel="nofollow">Willie Wonka Mudflaps</a></li>
+<li><strong><a href="http://www.youtube.com/watch?v=PbnjGiGFxG8" rel="nofollow">Traffic Dys- educational Film</a></strong> ( hilarious! )</li>
+<li><a href="http://www.cbrd.co.uk/indepth/atm/" rel="nofollow">Jam- cancelling physics</a> used on M25 and M42 in the UK</li>
+<li><a href="http://vwisb7.vkw.tu-dresden.de/TrafficForum/journalArticles/ctd03123101.pdf" rel="nofollow">Treating Inadequate Headways...</a> PDF paper, Lierkamp 2003</li>
+<li><a href="http://www.google.com/search?q=%2B%22traffic+jams%22+%2Bdavis" rel="nofollow">New discovery: adaptive cruise control busts traffic jams</a> Craig Davis 2004</li>
+<li><a href="http://web.archive.org/web/20030122103358/http://www.dfw.com/mld/dfw/news/local/4942533.htm" rel="nofollow">Police use 'pace cars' to smooth traffic</a> (Dallas)</li>
+<li><a href="http://www.washingtonpost.com/wp-srv/national/daily/aug99/traffic05.htm" rel="nofollow">Traffic science</a> 5/1999 Washinton Post</li>
+<li><a href="http://discovermagazine.com/1999/mar/curingcongestion1603" rel="nofollow">Curing congestion</a> Discover Magazine</li>
+<li>K. Jain's <a href="http://web.archive.org/web/*/http://pubweb.northwestern.edu/~kja321/netlogo.html" rel="nofollow">student paper</a> and <a href="http://web.archive.org/web/*/http://pubweb.northwestern.edu/~kja321/Highway%20Traffic%20Simulation.ppt">PPT</a></li>
+<li><a href="http://www.sciencenews.org/view/generic/id/2002/title/Waves_of_Congestion" rel="nofollow">MathTrek: waves of congestion</a></li>
+<li><a href="http://www.nature.com/nsu/030929/030929-2.html" rel="nofollow">Chaotic shuttle buses</a></li>
+<li><a href="http://www.nature.com/news/2000/000417/full/news000420-4.html" rel="nofollow">NATURE: one driver can trigger jams</a>, and <a href="http://link.aps.org/abstract/PRE/v61/p3534">refs</a></li>
+<li><a href="http://vishnu.bbn.com/papers/traffic/" rel="nofollow">Traffic-light algorithms via evolution</a></li>
+<li><a href="http://soundprint.org/whatif/traffic.htm" rel="nofollow">Soundprint: Traffic Jams &amp; Chaos</a>(audio, 28min)</li>
+<li><a href="https://www.researchgate.net/profile/Dirk_Helbing/publication/228773166_Critical_discussion_of_synchronized_flow/links/0fcfd50bafbc43a980000000.pdf" rel="nofollow">Critical discussion of synchronized flow</a> 2002</li>
+<li><a href="http://www.uni-due.de/ptt/" rel="nofollow">U. of Duisburg</a> Traffic- physics page</li>
+<li><a href="http://www.TrafficForum.org" rel="nofollow">Forum for traffic research</a></li>
+<li><a href="http://www.helbing.org" rel="nofollow">Dr. D. Helbing</a> U. Dresden</li>
+<li><a href="http://www.its.berkeley.edu/bhl/" rel="nofollow">Berkely Highway Laboratory</a></li>
+<li><a href="http://www.newscientist.com/article/mg14219314.400" rel="nofollow">New Scientist: What causes traffic waves?</a></li>
+<li><a href="http://www.math.toronto.edu/mathnet/carcompet/carcompet.html" rel="nofollow">Traffic light sim</a></li>
+<li><a href="http://www.red3d.com/cwr/steer/Unaligned.html" rel="nofollow">Collision avoidance</a> (pedestrians)</li>
+<li><a href="http://www.phy.ntnu.edu.tw/java/trafficControl/trafficControl.html" rel="nofollow">Java Traffic Simulator</a> (stop lights in city, try delay=15)</li>
+<li><a href="http://eewww.eng.ohio-state.edu/~coifman/shock/" rel="nofollow">Traffic Shockwaves</a>, professional traffic research (w/animations)</li>
+<li><a href="http://education.mit.edu/starlogo/samples/traffic.htm" rel="nofollow">Traffic Waves Program</a> (w/anim) (written in Media Lab <a href="http://education.mit.edu/starlogo/">starLOGO</a> language)</li>
+<li><a href="http://web.archive.org/web/20070216004742/http://www.nbi.dk/~horlyck/paris_poster.html" rel="nofollow">Dynamics of Traffic Jams</a> (w/anim)</li>
+<li><a href="http://www.nature.com/nsu/000504/000504-3.html" rel="nofollow">Can chaos be engineered?</a> (Nature)</li>
+<li><a href="http://www.ece.osu.edu/~coifman/shock/" rel="nofollow">B. Coifman</a> shockwave animations</li>
+<li><a href="http://www.trafficware.com/" rel="nofollow">TRAFFIC WARE</a> professional sw</li>
+<li><a href="http://trafficwaves.org/big.html" rel="nofollow">Add More Lanes</a> (traffic in 2050)</li>
+<li>BOOK: <a href="http://www.amazon.com/Traffic-Drive-What-Says-About/dp/0307264785/sciencehobbyist" rel="nofollow">Traffic: Why We Drive The Way We Do</a> 2008</li>
+<li>BOOK: <a href="http://www.amazon.com/exec/obidos/ASIN/0262680939/sciencehobbyist/" rel="nofollow">Turtles, Termites, and Traffic Jams: Massively Parallel Microworlds</a></li>
+<li>BOOK: <a href="http://www.amazon.com/exec/obidos/ISBN%3D1573928461/sciencehobbyist/" rel="nofollow">Road rage and agressive driving</a> L. James, D. Nahl</li>
+<li>BOOK: <a href="http://www.amazon.com/exec/obidos/ASIN/0874208033/sciencehobbyist/" rel="nofollow">Moving Beyond Gridlock: Traffic and Development</a></li>
+<li>BOOK: <a href="http://www.amazon.com/exec/obidos/ASIN/3540670912/sciencehobbyist/" rel="nofollow">Traffic and Granular Flow 1999</a></li>
+<li>BOOK: <a href="http://www.amazon.com/exec/obidos/ASIN/3540402551/sciencehobbyist/" rel="nofollow">Traffic and Granular Flow 2001</a></li>
+</ul>
+<br />
+</td>
+<td data-valign="top" width="50%"><h2 id="other-traffic-sites">Other Traffic sites:</h2>
+<ul>
+<li>My video: secret <a href="http://www.youtube.com/watch?v=iGFqfTCL2fs" rel="nofollow">Zen traffic warrior</a> techniques</li>
+<li>Harmonization: <a href="http://seattletransitblog.com/2009/04/11/what-is-active-traffic-management/" rel="nofollow">Lane Variable Speed Limits</a> about to <a href="http://seattletimes.nwsource.com/html/localnews/2004334020_lowspeed08m.html" rel="nofollow">hit Seattle I-5</a></li>
+<li><a href="http://www.wsdot.com/traffic/seattle/default.aspx">Seattle traffic map, cams</a></li>
+<li><a href="http://www.google.com/search?q=%22traffic+deaths+lowest%22" rel="nofollow">Search: Traffic deaths lowest since</a>
+<ul>
+<li><a href="http://blog.tstc.org/2010/09/23/u-s-traffic-fatalities-plummet-but-why/" rel="nofollow">Highway deaths plummet, but why?</a></li>
+<li><a href="http://www.usatoday.com/news/nation/2010-09-09-1Aroaddeaths09_ST_N.htm" rel="nofollow">Un precedented drop in highway deaths</a> 2010</li>
+<li><a href="http://cityroom.blogs.nytimes.com/2010/01/27/2009-traffic-deaths-were-the-lowest-in-a-century/" rel="nofollow">NYC traffic deaths lowest in 100yrs</a> 2009</li>
+</ul></li>
+<li><a href="http://scorecard.inrix.com/scorecard/uscorridors.asp" rel="nofollow">National Traffic Score</a>, worst bottlenecks</li>
+<li><a href="http://www.grand-illusions.com/articles/traffic_jam/" rel="nofollow">Edible traffic 'jam'</a></li>
+<li>Trafficwaves.org publicity:
+<ul>
+<li>May 2016, brief fame on BBC: Autos <a href="http://www.bbc.com/autos/story/20160428-how-ai-will-solve-traffic-part-one">Phantom jams vs. AI cars</a></li>
+<li>NPR brief interview for <a href="http://www.npr.org/templates/story/story.php?storyId=211025038" rel="nofollow">Weekend Edition</a> (.mp3) Aug 12 2013</li>
+<li>An <a href="http://www.cracked.com/article_19004_6-things-that-annoy-you-every-day-explained-by-science_p2.html" rel="nofollow">article on cracked.com</a> Feb 20 '13 pulled in about 100,000 hits in one day, then it got picked up by reddit video. Then facebook, <a href="http://www.fark.com/comments/5977028/Six-Things-That-Annoy-You-Every-Day-Explained-by-Science" rel="nofollow">fark</a>, and <a href="http://www.i-am-bored.com/forums.asp?action=read&amp;ct=10&amp;q_id=56950&amp;read_page=1" rel="nofollow">i -am -bored.com</a></li>
+<li>An entry on <a href="http://news.ycombinator.com/item?id=1626403" rel="nofollow">Hackernews</a> triggered off a <a href="http://tweetmeme.com/story/2097843889/traffic-wave-experiments" rel="nofollow">Twitter uproar</a>, got mentioned on Slate <a href="http://www.slate.com/id/2262287/" rel="nofollow">gabfest</a></li>
+<li>Column in <a href="http://www.thestranger.com/seattle/Content?oid=655979&amp;hp" rel="nofollow">The Stranger</a></li>
+<li>I got into the <a href="http://nytimes.com/2008/08/03/magazine/03traffic-t.html" rel="nofollow">NY Times</a>, Caldecott tunnel problem</li>
+<li>Trafficwaves made the <a href="http://archives.seattletimes.nwsource.com/cgi-bin/texis.cgi/web/vortex/display?slug=bumper06m0&amp;date=20021006" rel="nofollow">Seattle Times</a> even <a href="http://archives.seattletimes.nwsource.com/cgi-bin/texis.cgi/web/vortex/display?slug=bumper13m&amp;date=20021013" rel="nofollow">twice</a> Oct 2002</li>
+<li>Hey, I was interviewed by <a href="http://news.bbc.co.uk/1/hi/uk/1017242.stm" rel="nofollow">BBC News</a> Nov/2000</li>
+<li>I'm in the <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2002/01/06/MN229472.DTL" rel="nofollow">SF Chronicle</a> Jan 2002</li>
+<li>Made Cartalk's <a href="http://www.cartalk.com/" rel="nofollow">site of the week</a> Nov 99</li>
+<li>Yahoo <a href="http://buzz.yahoo.com/" rel="nofollow">pick of the week</a> Aug 98</li>
+<li><a href="http://web.archive.org/web/20001205190600/http://cool.infi.net/cgi-bin/stillcool.pl?month=08&amp;year=1998" rel="nofollow">Cool Site ot day</a> for 8/98</li>
+</ul></li>
+<li><a href="http://www.drdriving.org/articles/musings.htm" rel="nofollow">Traffic Social Psychology</a> (online book chapter, excellent!)</li>
+<li><a href="http://findmyaccident.com" rel="nofollow">Find My Accident</a></li>
+<li><a href="https://web.archive.org/web/20160901000000*/www.skaggmo.com/articles.htm" rel="nofollow">Driver Stories</a>
+<ul>
+<li><a href="https://web.archive.org/web/20160901000000*/www.skaggmo.com/bottleneck.htm" rel="nofollow">Traffic Bottleneck Users Guide</a></li>
+<li><a href="https://web.archive.org/web/20160901000000*/www.skaggmo.com/gravelpitetiquette.htm" rel="nofollow">Gravel Pit Etiquette</a> (excellent!)</li>
+</ul></li>
+<li><a href="http://www.wired.com/wired/archive/12.12/traffic.html" rel="nofollow">Chaos equals cooperation</a></li>
+<li><a href="http://www.kuro5hin.org/story/2003/9/2/194550/2299" rel="nofollow">Traffic Zoology</a>, crystalline amoebae on Kuro5hin</li>
+<li><a href="http://www.google.com/search?q=%22mobile+speed+bump%22" rel="nofollow">Search: "Mobile Speed Bump" program</a></li>
+<li><a href="http://web.archive.org/web/20091027155152/http://geocities.com/bobvanx/play/topicplayperform.html" rel="nofollow">Art Car: LET PEOPLE MERGE</a></li>
+<li>SEATTLE:
+<ul>
+<li><a href="http://iamseattletraffic.blogspot.com/2007/05/dont-stop-moving.html" rel="nofollow">Don't Stop Moving (on 520)</a></li>
+<li><a href="http://forums.seattletimes.nwsource.com/forums/viewforum.php?f=46" rel="nofollow">Seattle forum: road rant</a></li>
+<li><a href="http://www.wsdot.wa.gov/traffic/seattle/cameralist.htm" rel="nofollow">Traffic Cameras List</a>, and <a href="http://www.wsdot.wa.gov/Traffic/seattle/i5_44th.htm#cam" rel="nofollow">map</a></li>
+<li><a href="http://www.wsdot.wa.gov/traffic/seattle/" rel="nofollow">Seattle Realtime Traffic Map</a></li>
+<li><a href="http://www.electrifyingtimes.com/Seattletimes.html" rel="nofollow">Worst traffic bottlenecks</a> in the US (1999)</li>
+<li><a href="http://tinyurl.com/8un3w" rel="nofollow">NW USA worst traffic: Seattle, I-90 merge into I-5</a> (google maps)</li>
+<li><a href="http://web.archive.org/web/20060929010153/www.psrc.org/datapubs/pubs/trends/t6trend.htm" rel="nofollow">Seattle-area rush-hour graphs</a></li>
+</ul></li>
+<li><a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2001/01/08/MN168185.DTL&amp;type=science" rel="nofollow">Mysteries of traffic congestion</a> (SF Chronicle)</li>
+<li><a href="http://globalideasbank.org/site/bank/idea.php?ideaId=1226" rel="nofollow">Global Ideas Bank</a> (vote on 'anti-traffic')</li>
+<li>Jam-cancelling <a href="http://www.itscarma.com/" rel="nofollow">Commuter Awareness Project</a> in Atlanta</li>
+<li><a href="http://www.pbs.org/saf/transcripts/transcript904.htm#5" rel="nofollow">Sci Frontiers: traffic jams</a></li>
+<li><a href="http://goo.gl/NPLEQ" rel="nofollow">Traffic Zipper</a> (Dutch, .nl)</li>
+<li>Atlantic Monthly: <a href="http://www.theatlantic.com/issues/2000/12/budiansky.htm" rel="nofollow">The Physics of Gridlock</a></li>
+<li><a href="http://reality.sculptors.com/~salsbury/Articles/traffic.busting" rel="nofollow">Traffic Busting</a>, go play in traffic</li>
+<li><a href="http://www.dctech.com/physics/features/0700.php" rel="nofollow">Tailgaters and red lights</a></li>
+<li><a href="http://trafficwaves.org/m25.zip">A traffic screensaver (for MS-WIN)</a> (freeware, m25.zip)</li>
+<li><a href="http://www.pbs.org/saf/3_ask/archive/qna/3294_traffic.html" rel="nofollow">Q &amp; A</a> from "Life's Little Questions" show about traffic jams</li>
+<li><a href="http://www.discovery.com/area/skinnyon/skinnyon970101/skinny1.html" rel="nofollow">Traffic Waves article on Discovery Channel</a></li>
+<li><a href="http://sd.znet.com/~schester/calculations/traffic/la/index.html" rel="nofollow">L.A. Traffic</a></li>
+<li>FixOurTraffic, forum (defunct, <a href="http://web.archive.org/web/20070302195810/http://www.fixourtraffic.com/" rel="nofollow">archive</a>)</li>
+<li><a href="http://groups.google.com/group/rec.autos.driving/topics?lnk=lr" rel="nofollow"><strong>REC. AUTOS. DRIVING</strong></a> (Usenet)</li>
+<li><a href="http://web.archive.org/web/19990401000000*/http://www.eskimo.com/~billb/amateur/traffic/traffic1.html" rel="nofollow">Ancient 1998 vers. of Trafficwaves site</a> on archive.org</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<table width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="800"><h2 id="references">References</h2>
+<a href="http://www.sciencenews.org/sn_arc99/7_3_99/bob1.htm" rel="nofollow">"Stop and Go Science"</a>, by P. Weiss, SCIENCE NEWS, V156 No1 7/3/99<br />
+&#10;<p>"TRAFFIC WAVES", in Scientific American Magazine THE AMATEUR SCIENTIST, March 1983<br />
+</p>
+<p>"Jams, waves, and clusters," D. Helbing &amp; M. Treiber, Science #282, 11 Dec 2001<br />
+</p>
+<p>"Experimental Features of of Self-Organization in Traffic Flow"<br />
+B. Kerner, Physical Review Letters, vol 81, pp3797-3800, 26 Oct 1998<br />
+<span id="links"></span></p>
+<h2 id="other-things-here">Other things here:</h2>
+<ul>
+<li><a href="http://trafficwaves.org/seatraf.html">Merging-lane Traffic Jams</a> (w/gif animation)</li>
+<li><a href="http://trafficwaves.org/trafexp.html">TRAFFIC EXPERIMENTS</a>, Annhilating traffic-waves with artificial pulses of "antitraffic."</li>
+<li>Collected <a href="http://trafficwaves.org/trafmsg1.html">email</a> messages (Newsgroup msgs too)</li>
+<li><a href="http://trafficwaves.org/jamail.html">Email</a> about merging-lanes traffic jams.</li>
+<li><a href="http://amasci.com/~billb/cgi-bin/traffic/guestbok.html" rel="nofollow">COMMENT BOOK</a>, add your own</li>
+</ul>
+<h2 id="main-site-pages">MAIN SITE PAGES</h2>
+<ul>
+<li><a href="http://amasci.com" rel="nofollow">Science Hobbyist</a></li>
+<li><a href="http://amasci.com/amasci.html" rel="nofollow">Amateur Science</a></li>
+<li><a href="http://amasci.com/weird.html" rel="nofollow">Weird Science</a></li>
+<li><a href="http://amasci.com/scied.html" rel="nofollow">Experiments and Demonstrations</a></li>
+<li><a href="http://amasci.com/search.html" rel="nofollow">Site nav help</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+<http://trafficwaves.org/links.html>\
+Created and maintained by <a href="http://amasci.com/billb.html" rel="nofollow">Bill Beaty</a>. Mail me at: <a href="http://amasci.com/amfrm/#urls" rel="nofollow"><img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" /></a>.\
+Hosted by <a href="http://www.eskimo.com" rel="nofollow">ESKIMO NORTH</a>, offering full unix shell services.\
+.
+
+<div class="statcounter">
+
+<a href="http://statcounter.com/shopify/" target="_blank" title="shopify stats"><img src="http://c.statcounter.com/10408414/0/00267183/0/" class="statcounter" alt="shopify stats" /></a>
+
+</div>
+
+[View My Stats](http://statcounter.com/p10408414/?guest=1)

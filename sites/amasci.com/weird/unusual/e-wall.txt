@@ -1,0 +1,303 @@
+David Swenson's electrostatic "invisible wall" (1996) 
+
+ UNUSUAL PHENOMENA | 
+
+ WEIRD IONS | 
+
+ GOOD STUFF | 
+
+ NEW STUFF | 
+
+ SEARCH 
+
+ " Invisible Electrostatic Wall" 
+at 3M adhesive tape plant
+
+Aug 1996 W. Beaty 
+
+ jeeze Reddit it's after twelve PST, don't you have to 
+get up early 
+tomorrow? [Hafa adai other 
+time zones ] 
+
+ SESSION 7: SPECIAL SESSION, 17th Annual EOS/ESD Symposium 
+
+ THURSDAY, SEPTEMBER 14, 1995, 8:00 am
+
+ SESSION 7: SPECIAL SESSION: ELECTROSTATIC CONSIDERATIONS IN INDUSTRY
+
+ MODERATOR: D. Swenson, 3M
+
+ 7.7 CASE STUDY - LARGE PLASTIC WEB ELECTROSTATIC PROBLEMS,
+
+ RESULTS, AND CURE, D. Swenson, 3M Company
+
+Tremendous static charge generation on a plastic web causes unique
+physical phenomena and special problems. Solution was simple and cost
+effective.
+
+David Swenson of 3M Corporation describes an anomaly where workers
+encountered a strange "invisible wall" in the area under a 
+fast-moving
+sheet of electrically charged polypropelene film in a factory. This
+"invisible wall" was strong enough to prevent humans from passing through. 
+A person near this "wall" was unable to turn, and so had to walk
+backwards to retreat from it. 
+
+This occurred in late summer in South Carolina, August 1980, in extremely 
+high
+humidity. Polypropelene (PP) film on 50K ft. rolls 20ft wide was being
+slit and transferred to multiple smaller spools. The film was taken off
+the main roll at high speed, flowed upwards 20ft to overhead rollers,
+passed horizontally 20ft and then downwards to the slitting device, where
+it was spooled onto shorter rolls. The whole operation formed a cubical
+shaped tent, with two walls and a ceiling approximately 20ft square. The
+spools ran at 1000ft/min, or about 10MPH. The PP film had been
+manufactured with dissimilar surface structure on opposing faces. Contact
+electrification can occur, even in idental materials, if the surface
+textures or micro-structures are significantly different. The generation
+of a large imbalance of electrical surface-charge during unspooling was
+therefore not unexpected, and is a common problem in this industry. 
+"Static cling" in the megavolt range! 
+
+On entering the factory floor and far from the equipment, Mr. Swenson's 
+200KV/ft handheld electrometer was found to slam to full scale. Later, 
+when he attempted to walk through the corridor formed by the moving PP 
+film, he was stopped about half way through by an "invisible wall." He 
+could lean all his weight forward but was unable to pass. He observed a 
+fly get pulled into the charged, moving plastic, and speculates that the 
+e-fields might have been strong enough to suck in birds! 
+
+ ABOVE: sparks from a much smaller roll at a different 
+plant 
+
+The production manager did not believe Mr. Swenson's report of the strange
+phenomena. When they both returned to the factory floor, they found that
+the "wall" was no longer there. But the production workers had noticed
+the effect as occurring early in the morning when humidity was lower, so
+they agreed to try again another day. The second attempt was successful,
+and early in the morning the field underneath the "tent" was strong enough
+to raise even the short, curly hair of the production manager. The
+"invisible wall" effect had returned. He commented that he "didn't know
+whether to fix it or sell tickets." 
+
+ [ 
+NOTE from billb: where electrostatics is 
+concerned, concrete floors are conductors (ohm/sq in megohms, where 
+true insulators would be higher by X 10K over four orders.) 
+And, the PP spools on either side would behave as opposite-charged 
+electrets, megavolt-scale with the originating charges trapped deep within 
+insulating layers, suppressing all plasma-streamers and perhaps even 
+suppressing glow-discharge. The fast-moving PP film might produce equally 
+fast 
+air-motions, a 20ft dia. horizontal tornado between the pair of 
+meter-thick spinning 
+rolls of PP film. The air-motion might strongly confine an ion-cloud,
+if composed of large ions (perhaps water microdroplets, with condensation 
+forced by huge e-fields combined with expected nucleation sites, for 
+e-field induced "effective RH" far about 100%. Speculation 
+here! ] 
+
+ads: 
+
+ echisholm 5/2016
+
+Have a relative (sort of) who works at a 3M plant. Shit still occasionally 
+happens. 
+> You can't just say that and go away!! How are you not irresistibly 
+> interested in that?? I would've interrogated that relative so hard 
+It just came up in passing at Thanksgiving! I don't really know him 
+that 
+well; he's an in-law. He mentioned being able to throw small washers and 
+bolts at the field and watching them get repelled. People got 
+interested, and so someone came with a voltmeter, and after throwing a 
+couple more, they checked for voltage, and there was a residual charge 
+after they finally caught on on a plastic sheet to prevent immediate 
+grounding. It also had a very slight magnetic field. It's apparently 
+fairly common, but engineering hasn't come up with a solid explanation 
+why. 
+
+ALSO: dc469 5/2016 
+
+I met this guy at an ESD meeting in austin once. He said the strength of 
+the field maxed out his equipment at a distance so he couldn't get a 
+maximum measurement.
+
+After he published the paper he was contacted by NASA and all the three 
+letter agencies asking for more info. He wanted to experiment around with 
+it but no company had millions to throw into such a project (presumably, 
+the government did). It had to be a pretty narrow window of temperature, 
+pressure, humidity, etc. They kept the garage door open so that's where 
+the insects and sparrows got sucked in (which obviously ruined the 
+product).
+
+He said it was actually known to the technicians for awhile before he 
+experienced it and they just were kinda like "meh". Eventually they fixed 
+the grounding issue on the machine and the problem never popped up again.
+
+edit: found the ESD website. David Swenson apparently is still with them 
+on their board of directors. http://centxesdassoc.homestead.com/
+
+ LINKS 
+
+ WIRED magazine 1/2018
+ ESD Journal 
+ Askreddit 2017 
+ Reddit TIL 
+ Sticky Electrostatics , classroom physics demos
+
+ Another poly unwind setup (vid)
+
+ Problems: coulomb forces would be expected to attract a person
+ into the "chamber" formed by the PP film, and the attractive force
+ should increase linearly across distance. There should be no "wall" in
+ the center, a discrete wall is repulsive, also nonlinear. 
+
+ If for some reason a
+ person was repelled from the center of the chamber rather than being
+ attracted, there still should be no "wall," since the repulsion force 
+should exist over a large distance; it
+ should act like a deep pillow which exerts more and more force as one
+ moves deeper into it. Large fuzzy fields, this is how
+ magnets and iron behave, and this is how e-fields and conductive objects
+ should also behave.
+
+ A thought: unspooling of film typically generates a much higher net 
+charge on
+ the long piece of film than on the small surface of the spool.
+ However, since charge is created in pairs, and net charge is conserved, 
+the imbalances of charge must 
+be
+ equal and opposite. The charge on the entire length of moving film 
+ must 
+ be equal in magnitude to the charge on the spool. Yet the charge on the
+ film is very large and is continuously increasing. The limited
+ surface-charge on the spool required that opposite charge is being 
+ lost
+ through some unseen path. 
+
+Very probably the spool is spewing out 
+enormous quantities of ionized air with polarity opposite that of the 
+charge on the moving plastic film.
+
+ Charged air would be created by discharge in the cleft between film and 
+spool as the 
+film
+ was peeled from the spool. I wonder if film was being peeled from the 
+top of
+ the spool, so that any ionized air created in the cleft would be 
+launched into the
+"tent-chamber" region? (If it was peeled from the bottom of the spool,
+the charged air would end up outside the "tent.") Or, if a corona
+discharge arises in the cleft between film and spool, perhaps the UV and
+e-fields of this corona can ionize the air on both sides of the exiting
+plastic film, and spray the charged air everywhere. 
+
+ So, if the charged "tent" of film is negative in the above situation,
+ and if a large quantity of positively charged air is being generated
+ by the spool, then perhaps the "invisible wall" is caused by a cloud of
+ suspended air ions held in position by e-fields. Perhaps it's a 
+pressure gradient created by
+ ionized air trapped under the tent by electrostatic attraction. Yet
+ again this effect would be expected to create a diffuse zone of 
+increasing
+ force, not a "wall", but an "invisible pillow." Added note: concrete 
+floors behave as conductors (resistors) in this situation. Where 
+megavolts at 
+microamps are involved, the division between insulators and conductors is 
+at 10^6/10^-6 = 1000 gigaohms. Concrete resistivity is 
+in the realm of megohms, so it behaves like a grounded metal sheet. 
+
+ However, a volume of charged air is somewhat analogous to iron
+ filings near a magnet. If a solid sheet of iron filings is held in
+ place by a magnet, then a literal "wall" is created, and this wall will
+ resist penetration by nonferrous objects. If in the above manufacturing
+ plant, a sheet of highly charged air is for some reason being held in
+ place by the fields created by the charged film, then a transparent
+ "wall" made of charged air would come into being. It might produce 
+pressures on surfaces, and resist penetration by human bodies. 
+
+ My question is this: if the entire situation could be turned on its
+ side, so the "invisible wall" became an "invisible floor", could a
+ person * stand * on it? Have we discovered the long-sought "Zero-G
+ waterbed?" :) - B.B.
+
+Reference: 
+Article about the "Wall" in ESD Journal (IT'S BACK! 8/2000)
+
+The 'force field' event was from 1980, while the report was given at an 
+ESD conference in 1995. Where is that machine today?
+In other words... 
+
+Does that 3M sheet-slitter 
+still slits sheets? Single sheet slitted into three slit sheets spooled 
+onto spools called 'jumbos.' The supposed 
+sheet-slitter shift staff says 3M sold that sheet-slitter. It may 
+be surplused and still exist, sitting in SC, slitting and spooling 
+someone else's slit sheets. Or, since OSHA's lawshuits when staff 
+suddenly statically sucked into sheet slitters 
+don't exhisht shouth of the border, it may haved moved to Mehicco.
+
+ MORE THOUGHTS: 
+
+From: Beaty, William J
+
+Subject: Ion cushion
+
+Date: Monday, August 12, 1996 4:02PM
+
+Also: I wonder if the (I assume) huge quantity of air ions had anything to
+do with your weird phenomenon. Maybe the "wall" effect involves a plug of
+ionized air which is held in place by the opposite charge on the film. If
+so, your repulsion phenomenon would not occur if the "tent" of film was
+replaced with highly charged metal plates, since the source of
+oppositely-polarized electric wind would then be missing. I'm still
+convinced that the charged film should produce an attractive force upon a
+human body. Repulsion requires that the human be charged with the same
+polarity as the PP film, yet induction should produce an *opposite* body
+charge, so attraction is expected. But if a plug of oppositely-charged
+air was strongly attracted into the "tent" of PP film, it might produce a
+significant pressure-gradient in the surrounding air. A fraction of a PSI
+per foot would be more than enough to prevent someone from walking
+forward. If this is the origin of the effect, then the repulsion forces
+you experienced involved air pressure rather than electrostatic
+attraction/repulsion. 
+
+This might be an entirely new way to accomplish levitation. Attract
+a whirling blob of ionized air to an oppositely-charged plate, then use
+the resulting pressure gradient to lift and manipulate uncharged objects.
+Sort of like a fluidized bed, but using charged air instead of sand.
+
+Why doesn't the population of opposite ions "plate" itself onto the
+plastic surface? Maybe it tries to do so, but the air within the moving
+tent is swirling like a horizontal tornado, so the charged air cannot
+simply move straight to the plastic film. If true, then the phenomena
+would not appear if motionless charged air and oppositely charged plastic
+were present. The tent shape and the motion of the plastic would also be
+required. Incredible coincidence that all the required components could
+ever come together in one place! (if this is indeed how it works!)
+
+Speculative, untried experiments: MOVED TO /freenrg/iontest.html 
+
+ ALSO SEE: 
+
+ HackerNews comments , and Reddit and earlier 
+
+ Air Threads 
+
+ Water Thread Experiment
+
+ Giant Water Threads occur naturally?
+
+ YT vid of invisible wall! Really!!!!
+
+/weird/unusual/e-wall.html 
+
+ Electrica Technology Inc. 
+and Linkedin 
+
+Created and maintained by Bill 
+Beaty . Mail me at: 
+ . 
+
+ View My Stats

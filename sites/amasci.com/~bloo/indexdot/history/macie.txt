@@ -1,0 +1,100 @@
+Browser History: Macintosh Internet Explorer 
+
+ Internet Explorer (Macintosh) 
+ (Microsoft&reg;) 
+ = Index DOT Html/Css by Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML Support
+ History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Platforms 
+ OS7-9.x, OSX 
+
+ About the Browser 
+
+ Browser Timelines 
+
+ Version 
+ Released 
+ Features 
+
+ 2.0 
+ Apr. 1996 
+
+ 2.0.1 
+ May. 1996 
+
+ 2.1B1 
+ Jul. 1996 
+
+ 2.1 
+ Sep. 1996 
+
+ 3.0B1 
+ Nov. 1996 
+
+ 3.0 
+ Jan. 1997 
+
+ 3.0a 
+ Feb. 1997 
+
+ 3.01 
+ May. 1997 
+
+ Aug. 1997 
+ IE becomes the default browser on MacOS after 
+ Microsoft invests $150 million in Apple. 
+
+ 4.0B1 
+ Jul. 1997 
+
+ 4.0B2 
+ Nov. 1997 
+
+ 4.0 
+ Jan. 1998 
+
+ 4.01 
+ May. 1998 
+ Last 68k version of Mac IE. 
+
+ 4.5 
+ Jan. 1999 
+
+ 5.0 
+ Mar. 2000 
+
+ 5.0sr1 
+ Sep. 2001 
+
+ 5.1 
+ Nov. 2001 
+
+ 5.1.2 
+ Nov. 2001 
+
+ 5.1.4 
+ Jan. 2002 
+
+ 5.1.5 
+ Jun. 2002 
+
+ 5.2.1 
+ Jul. 2002 
+
+ Jun. 2003 
+ Microsoft announces that development on new 
+ versions of Mac IE will be halted except for bug-fixing on 5.x. One of the 
+ stated reasons for this move is the claim that Microsoft won't be able to 
+ compete with the work that Apple is doing on its own Safari browser (first 
+ version final release also announced in June 2003), citing Safari's potential 
+ for having greater integration with the OS than Microsoft could achieve. 
+
+ Boring Copyright Stuff...

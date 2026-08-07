@@ -1,0 +1,13 @@
+More Information About the Elements [Horizon Technology] 
+
+ The Elements - In Spreadsheet and Other Formats 
+
+ Excel 5.0/95 Format 
+
+ Excel 97 Format 
+
+ HTML Page 
+
+ Text File In Browser (Using <pre> tags) 
+
+ Text File - Tab Delimited for download. ('Right click > Save As...' or 'Shift > Click', etc, or just display in browser and then 'Save As')

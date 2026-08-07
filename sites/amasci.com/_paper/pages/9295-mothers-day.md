@@ -1,0 +1,1483 @@
+---
+title: "Mother's Day"
+source_domain: amasci.com
+source_path: ~vecna/mothers.htm
+order: 9295
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T06:01:51Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mother's Day
+
+*Source page: `~vecna/mothers.htm`*
+
+Mother's Day
+
+------------------------------------------------------------------------
+
+    Mother's Day
+    Christine Morgan (vecna@eskimo.com)
+
+    Author's Note: the characters of Gargoyles belong to Disney, used
+    without their knowledge or consent. The others are mine, although
+    Elektra owes a lot of her character development to my friend Stephen.
+    This story is dedicated to my mom, from a daughter who appreciates
+    and understands!
+
+        Fox Xanatos knew even before she opened her eyes that she
+    was alone in bed.
+        She opened her eyes anyway, because what else would she do
+    upon awakening? And yes, just as she'd thought, the pillow next to hers
+    was unoccupied, and the covers on David's side lay flat upon the
+    mattress.
+        A yawn and a stretch later, she was ready to sit up. She
+    glanced at the clock and saw that it wasn't even seven yet, then looked
+    back at David's empty half of the bed and laughed softly.
+        "Even God took Sunday off," she'd chided him once, teasingly,
+    in the early days of their marriage.
+        "Yes," he'd replied with a grin, "but He was already immortal,
+    and I've got a long way to go!"
+        Time and fatherhood had calmed his overworking Type-A
+    habits a bit, but evidently not entirely, as proved by his absence. So
+    much for a leisurely morning in bed, the thick Sunday edition of the
+    paper strewn out between them, Owen delivering trays of sinfully
+    decadent Eggs Benedict or Belgian waffles piled high with strawberries
+    and whipped cream.
+        Her stomach rumbled enthusiastically at the thought, but as she
+    crossed to the closet she caught a glimpse of herself in the full-length
+    mirrors and paused, then moved in for a closer examination.
+        Inventory time, starting at the top.
+        Hair of fire-gold, mussed from sleep. Seablue eyes, still a little
+    groggy, one of them surrounded by her trademark foxhead. Skin creamy
+    and unlined. High cheekbones, a chin just on the stubborn side of firm.
+    Graceful neck, good shoulders, supple toned arms. A pair of knockers
+    that would make a bishop weep (when she'd still been nursing
+    Alexander, they would've roused a stone statue!). A waist that was ...
+        Uh-oh.
+        How did the old Special K commercial go? Something about
+    pinching an inch? She gave it a try. No, not an inch, but she could still
+    seize a dismaying amount of flab between her knuckles.
+        Fox exhaled a disgusted snort. She poked her middle, feeling
+    the solid muscle beneath. By anyone's standards, she was still drop-dead
+    sexy, but by her own standards, held over from her days in the Pack
+    when she could take a gut punch without flinching, she felt like a
+    walrus.
+        Dreading the completion of her inventory, she let her gaze
+    keep on going down.
+        Hips that had widened a bit since Alex's birth, that was
+    unavoidable and David sure as hell didn't have any complaints. But
+    there was a puffy pooch below her navel that simply had to go, and
+    heaven help her, a hint of what could easily become full-blown love
+    handles.
+        Her legs were still as flawless as ever, so she only gave them a
+    cursory glance before turning and craning her neck to check her tush.
+        Now, she'd never been able to crack walnuts between her rear
+    cheeks the way Wolf had (or at least, the way Wolf had boasted;
+    thankfully he'd never actually demonstrated that particular skill in her
+    presence!), but she remembered them being a lot firmer, and she
+    certainly did not remember having a little dimple on the left side.
+        Okay, so she was no longer a teen, but did that mean she had
+    to go gracefully into the twilight zone of pre-middle-age? Not according
+    to thousands of magazines and Oil of Olay commercials!
+        Banishing all thoughts of hollendaise sauce and whipped
+    cream, she quickly pulled on a pair of Spandex jogging shorts and a
+    sports bra. She twisted her hair into a ponytail, snugged a sweatband
+    around her brow, put on her athletic shoes (obscenely expensive even
+    on her clothes budget), and headed out.
+        One glance out the window, at the beautiful spring morn, made
+    her abruptly change course. There would be time enough to use the gym
+    during the winter's chill or the summer's blistering heat. Today she just
+    couldn't face a treadmill or stairmaster, not when she had a whole castle
+    to exercise in.
+        She set herself a rigorous course that would take her along all
+    of the battlements and up and down plenty of flights of stairs. As soon
+    as she set out, feeling the crisp wind on her face, she knew she'd made
+    the right decision.
+        Twice around the castle, passing the gargoyles in their frozen
+    fearsome postures. That reminded her of her earlier thoughts about
+    getting a rise out of a statue. She wondered which of them would watch
+    her go by if they could, checking out the bounce of her tits and the long
+    flex of her thighs.
+        Goliath? Too serious. Too polite. Wouldn't do to ogle the
+    landlord's wife. If she was Elisa, yeah, he'd look until his eyes popped
+    out and dangled like big yoyos at the end of his optic cables.
+        Hudson? Only if he thought he could sneak a peek without
+    getting caught. He didn't like the younger ones to think he had a spark
+    of life left in that old husk, but Fox thought she knew better.
+        Bronx wouldn't care. Broadway would blush. Brooklyn, rogue
+    that he was, would probably whistle just because he knew it was
+    expected.
+        Lex? Hard to tell with Lex. He seemed like a typical
+    technogeek, but more than once Fox had caught him and Aiden in some
+    fairly compromising positions.
+        The gargoyles were behind her and she had to make a
+    decision. Down a flight, or around again?
+        She glimpsed the welcome green of the courtyard garden
+    below and decided to go down there. Calisthenics in the shade, and then
+    maybe a swift dip in the fountain pool.
+        Maybe even a skinny dip, she thought with a grin. It would
+    mean getting a lecture from her husband on distracting the security staff
+    with her exhibitionist tendencies, but since she could already quote the
+    speech right back at him, maybe he'd see it was a waste of time.
+        She descended into the fragrant paradise of the garden and was
+    looking for a likely spot when something unusual caught her eye.
+        It was a medium-sized shrub, but it was completely covered in
+    pale yellow blossoms with delicate green traceries. She had never seen
+    flowers like that before. Especially flowers that seemed to be undulating
+    softly, stirring in a breeze that wasn't there.
+        Fox took a step closer, and that was when all of the blossoms
+    swirled outward, spinning around her like the flakes of a snowglobe, a
+    petalstorm of pale yellow and green.
+        No, not a petalstorm. A wingstorm.
+        Butterflies. Dozens of butterflies in a fluttering cloud around
+    her, wings against her skin in velvety angel kisses.
+        And then she was free of it as the swarm moved to a nearby
+    wall and landed in uniform lines, rows of butterflies with their wings
+    folded together.
+        As she stared, unsure of what to make of this strangeness
+    (she'd heard about packs of monarch butterflies flocking somewhere in
+    California, Monterey or Santa Cruz, but nothing like this), the
+    butterflies unfolded their wings one by one with the precision of a drill
+    team.
+        The green markings on the soft wings formed letters, and the
+    letters spelled out a message:
+        HAPPY MOTHERS DAY MOMMY I LOVE YOU LOVE
+    ALEX
+        Fox gasped in wonder and delight.
+        A high peal of childish laughter sounded behind her, and she
+    turned to see the three main men in her life. The two smallest, who were
+    paradoxically also the oldest and the youngest, were floating side by
+    side in midair.
+        Alex (growing to look more like his father every day -- if not
+    for the finespun amber of his hair, he could have been a clone) was
+    laughing and clapping his hands, well pleased with himself. Puck patted
+    him on the head and tipped Fox an impish wink.
+        David was standing a bit behind and to the side, beaming
+    proudly. She smiled at him, feeling as she so often did these days the
+    bittersweet tang of mingled pride and jealousy she felt whenever she
+    watched him and Alex together. Jealousy because Alex had been able to
+    do what her love hadn't, mellowing David's almost frantic drive for
+    power and immortality. Pride because she, after all, was Alex's mother.
+        "Well done, kiddo!" Puck said brightly.
+        "Do you like it, Mommy?" her son piped.
+        "It's wonderful," she said, plucking him out of the air and
+    nuzzling kisses on his face in the way that made him twist and squeal.
+    "Thank you so much!"
+        David slipped an easy arm around her waist. "And we have
+    reservations for nine-thirty in the Carnegie Room. Mother's Day
+    Brunch."
+        "I hate to interrupt," Puck said suddenly, and his elfin face had
+    grown somber. "I think we're about to have company."
+        "Who?" David asked alertly. "Trouble?"
+        "You could call it that," Puck said. "Titania."
+        David caught a curse on his lips, casting a quick glance to
+    Alex, who had picked up some astonishingly vulgar language and liked
+    nothing better than repeating it at inopportune moments. "The wards
+    won't work?"
+        Puck shrugged. "Alex has power and Aiden has talent. Those
+    wards will keep out just about any lesser power. But the two of them
+    together can't stack up against Queen Titania. Give them a hundred
+    years and maybe. Plus, at one point she was invited in. Welcomed. Bit
+    like Count Dracula, truth be told, but don't tell her I said that!"
+        A star shimmered in the morning sky, dropping rapidly toward
+    the castle.
+        "Is that Gramma?" Alex asked worriedly, pressing himself
+    close against his mother. "Is she gonna take me away?"
+        "No." Fox held him firmly. "I won't let her."
+        David seconded that as he stepped to a decorative stone
+    pedestal, slid aside a potted plant, and withdrew a pistol from the
+    concealed space beneath. "Puck, take Alex inside."
+        "You go too," Fox said, taking the pistol deftly from his hand.
+    "I'll handle this."
+        He opened his mouth to argue, saw the look in her eye, and
+    wisely closed it again.
+        The star expanded, a green and gold sphere hanging above the
+    grass. As the males retreated, Fox moved forward to meet it.
+        It bloomed outward into the shape of a woman and then there
+    was Titania. "Hello, child," she said with what sounded like genuine
+    warmth.
+        Fox didn't buy it. "What do you want?" She held the pistol in a
+    way that advertised she was ready to use it, willing to use it, and really
+    really _wanted_ to use it, but wasn't going to just yet.
+        The queen of Avalon made a cute little pout. "Why, Fox, aren't
+    you pleased to see me?"
+        "Not particularly." She glanced back, and was relieved to see
+    that the guys had gone inside, where a sturdy iron-cored door was
+    between them and Titania.
+        "I only thought to do you a favor, it being Mother's Day and
+    all. You always used to be so conscientious, even when you'd run away
+    -- oh, that used to make Renard crazy! But these past couple of years,
+    not so much as a card! I was prepared to be hurt, but then I realized that
+    with my being on Avalon, you'd have precious little means to call or
+    write. The postal service there isn't the best."
+        "You're not my mother," Fox said flatly.
+        Titania laughed kindly. "This is who I am, child. It is who I've
+    always been. I thought you understood that."
+        "I understood that you tried to take my son!"
+        "I explained that." She sighed dramatically. "How else would I
+    have won Puck's right to stay here, and shown you your own magical
+    powers?"
+        "And I'm supposed to thank you? I don't know which is worse.
+    That you tried to take my baby, or that you put me through that whole
+    thing as some game, some plot. You never cared about me and how I
+    felt."
+        "I wanted what was best for you."
+        "And the fear? The sickening terror and helplessness of having
+    my son torn from my arms? If that's what you think was best, then
+    you've got a lot to learn. There had to have been better ways to do it.
+    But you had to get Oberon all riled up. You didn't care about me or
+    anyone. Do you know what happened in the city? The midsummer
+    night's dream he spoke of hurt _thousands_ of people."
+        "What are you talking about?" Titania frowned.
+        "When everyone got put to sleep. Crashing their cars. Falling
+    down flights of stairs. In operating rooms or house fires. People _died_,
+    Titania!" She got ahold of herself with a deep shuddering breath. "But
+    they were only humans, so I suppose that doesn't mean anything to
+    you."
+        "Fox --" Titania began.
+        "Shut up!" She almost lifted the gun menacingly but forced
+    herself to lower it. "Now you come around here expecting a hug and a
+    present, as if nothing ever happened? I don't think so. You're not
+    welcome here."
+        "Fox, you don't mean that." Titania seemed genuinely shaken.
+        "Follow me. I've got something to show you."
+        Without waiting to see if the other woman would indeed
+    follow, Fox turned and walked to a corner nook of the courtyard. Two
+    willows flanked a stone arch, their trailing leafy tendrils forming a
+    curtain across the doorway.
+        "Where are you going?"
+        "In there," Fox said. "After you." She used the muzzle of the
+    pistol to lift aside the willow curtain, enough to reveal what was in the
+    tiny shadowed alcove beyond.
+        "A headstone?" Titania leaned closer and read the name
+    chiseled into the marble. "Anastasia Renard? The date -- that's
+    Alexander's birthday!"
+        "As far as I'm concerned," Fox said, "my mother died on that
+    day. The day, the hour, the very minute she turned out to be you.
+    Anyone who would care so little about me and my happiness to do what
+    you did is no mother of mine, and no grandmother to my son."
+        "Fox, no," Titania said weakly. "Oh, child, I never meant --"
+        "No more of your stories," Fox snapped. "Now get the hell out
+    of my house before we need another tombstone!"
+        Titania drew back. She had gone a paler blue, and her large
+    liquid eyes swam with unshed tears. She reached out but couldn't quite
+    touch Fox, as if the younger woman was emitting a force field formed
+    of hostile emotion.
+        As for Fox, she stood her ground and never wavered. At last,
+    Titania backed wordlessly away and vanished in a ripple of gold light.
+    Only then, when she felt that Titania was truly gone, did Fox turn and
+    kneel and rest her brow on the cool marble arch bearing her mother's
+    name.
+        "Sorry, Mom," she murmured. She plucked a lily from a
+    nearby stalk and laid it on the grass at the foot of the stone. "Happy
+    Mother's Day."
+            *       *
+        The Carnegie Room was booked solid, but after a sizeable tip
+    and an Avalonian version of the old Jedi mind trick, Titania was
+    escorted to a small half-circle of a table on the upper level.
+        She attracted little notice, since she now wore the guise of
+    Anastasia Renard in a simple but smart beige linen suit instead of her
+    more elaborate bare-midriff ensemble.
+        This section of the room, more dimly lit with secluded cozy
+    tables, was perfect for lovers but a bit awkward for larger parties. It
+    overlooked the open, flower- and fountain-filled spacious area below,
+    where many of the wealthiest of New York's families were gathered.
+        She had a good view of the table where her daughter, son-in-
+    law, and grandson were seated. Alexander, her precious prince, was
+    wearing a miniature duplicate of his father's Armani suit, while Fox was
+    stunning in a bold blue velvet gown. The three of them seemed to be
+    enjoying themselves immensely.
+        Anastasia accepted the menu from the solicitous waiter, gave it
+    a cursory glance, and turned her attention to the other patrons in her
+    vicinity. A dismayingly large number were women sitting alone. She
+    didn't have to read their auras to know that they were the childless, the
+    widowed, the divorced, the lonely. By coming here, they thought to in
+    some small way make themselves a part of the joyful celebratory
+    atmosphere that permeated the rest of the room.
+        The waiters surely knew what she did, for they were more
+    attentive than usual, the almost overbearing amiability of cruise ship
+    staff. Gifts of carnations were offered, although technically these were
+    supposed to be gifts for mothers only.
+        Overall, it was a pathetic display. But, pathetic as it was, that
+    didn't stop her own throat from tightening when her waiter bowed and
+    produced with a flourish a single white carnation.
+        Perhaps coming here had been a mistake. She murmured her
+    thanks to the waiter and picked up her glass of ice water just to have
+    something to do with her hands.
+        As she raised it to drink, she happened to look through her
+    ring. She very nearly slopped water all over her skirt but recovered in
+    time and sipped slowly, trying to make her scrutiny casual.
+        The ring on the first finger of her right hand was a wide ornate
+    and antiqued band of silver, topped with a spherical diamond of
+    surpassing clarity and value.
+        The woman who had caught her eye was, like Anastasia
+    herself, alone at one of the small tables. A bouquet, lilies and daisies in
+    a crystal vase, was before her on the table. She toyed with it listlessly
+    from time to time as she sat. To outward appearances, she was in her
+    early thirties, red-haired and beautiful (if morose).
+        To the inner eye, seen through the magic gem on Anastasia's
+    ring, the lady was a gargoyle.
+        She rose and approached. The woman looked up and scowled
+    faintly. "Can I help you?"
+        "I was wondering if I might join you," Anastasia said
+    smoothly. "I think we have something in common."
+        "Oh?" She sounded less than interested. "And what might that
+    be?"
+        Anastasia offered her hand as if to shake, making sure that the
+    gem moved into the redhead's line of sight. The jewel worked both
+    ways, revealing her true self even as it gave her a closer look at the
+    woman's inner gargoyle.
+        "Demona, isn't it?"
+        She showed neither shock nor alarm, only a weary sort of
+    acceptance. "Dominique, during the day. Thanks to your servant's
+    meddling."
+        "You summoned him. You must have known the risks. And
+    you were very careless with my mirror. Fortunately for you, no harm
+    came to it. I see that you recognize me."
+        "Of course, Titania."
+        She demurred. "Please, call me Anastasia."
+        Dominique raised an eyebrow. "As in Anastasia Renard, co-
+    founder of Cyberbiotics?" Her eyes widened in realization, then
+    narrowed. "As in, Xanatos' mother-in-law."
+        "You do keep up on the gossip." The waiter drew near, and
+    Anastasia looked at Dominique's glass. A faint slur in the redhead's
+    voice hadn't gone undetected. "What are you drinking?"
+        "Champagne and orange juice. Mostly champagne." She
+    drained the last of it and gestured for another without bothering to look
+    at the waiter. "It is my intention to get ... what do they call it? ...
+    shitfaced."
+        The waiter blanched. Such was not a term heard in the tasteful
+    Carnegie Room, especially not at the Mother's Day Brunch of all days!
+        "Make it two," Anastasia said, and he looked thankful for an
+    opportunity to flee.
+        "Should've made it a dozen."
+        "My dear," Anastasia laughed, "if you intend to get that drunk
+    on that drink, I hope you're prepared to spend the rest of the day in the
+    ladies' room. Not to mention the cost."
+        "And what would _you_ recommend?"
+        "Ah, on Avalon we have such elixirs ..." she sighed longingly.
+    "But, since we're here, you'd doubtless find hard liquor more efficient,
+    timewise and money wise. Although, at least with this, you're getting
+    plenty of Vitamin C."
+        The waiter returned, bringing with him a basket of warm
+    muffins and a dish of butter that had been shaped into rosebuds. He
+    took their orders and hastily retreated once again.
+        "I do believe you've scandalized that poor youth," Anastasia
+    observed as she neatly sliced open a blueberry muffin and deposited
+    butter inside to melt.
+        "That's nothing," Dominique replied. "When he brings the
+    check, I plan to pat him on his pert tight little buns."
+        "Goodness, you have changed in your attitude toward
+    humans."
+        A snarl curled her lip. "That's not to say I still wouldn't love to
+    see them all wiped off the skin of the earth! I've just come to accept that
+    some of them have other, entertaining uses."
+        Anastasia blinked politely. "Oh?" she inquired, wondering
+    how much of a confession she could lead out of Dominique.
+        Not much, apparently. Dominique looked at the bouquet again
+    and sighed. "How long has it been, anyway?"
+        A quick calculation later, she replied, "Longer than I'd
+    thought. Since Will died, isn't it? Tell me, did you ever dance on his
+    grave as you threatened to do?"
+        "There was no love lost between us." Dominique attacked a
+    lemon muffin with a savagery that would have made their waiter, had he
+    been present, take a step back.
+        "I was always rather partial to him," Anastasia said, smiling in
+    fond remembrance. "Oh, but Oberon was furious! I told Puck he
+    shouldn't have gone around mouthing off about my lord's and my little
+    squabbles. And you, well, you've no one to blame but yourself, for
+    trying to make dear MacBeth look bad."
+        "Where is Puck these days?" Dominique asked with sudden
+    cunning, as if she hadn't heard or (more likely) was ignoring the dig
+    about MacBeth. "I've been meaning to thank him for his parting gift,
+    and I've always had the feeling he was nearby."
+        "He's around," Anastasia said lightly. "But as a word of
+    friendly advice, I'd think twice before trying to get revenge on Puck. He
+    might seem like a harmless prankster, but he can be devilsome if
+    crossed. So, let us talk about something else. What brings you here
+    today? It hardly seems your scene, you know. Here in the midst of
+    happy and loving human families."
+        She sighed again. "My daughter."
+        "Hmm? Oh, yes! Why, of course, I should have realized! The
+    sweet child Goliath brought back from Avalon." Her mirth faded a bit.
+    "Oh. I see. These broken marriages, or matings as the case may be, are
+    so often difficult on the children."
+        "She doesn't understand me," Dominique said, sitting back
+    briefly as the waiter returned.
+        "French Toast Monte Cristo," he announced. "Thinly sliced
+    ham and Swiss cheese between two pieces of our own fresh cinnamon-
+    raisin bread, dipped in egg batter and Grand Marinier and cooked to a
+    nice golden brown."
+        "I read the menu!" she snapped. "You don't need to quote it at
+    me!"
+        He backed off hastily and turned to Anastasia, who gave him
+    an encouraging smile. "And for you, madam, the spinach omelette."
+        As soon as he was gone, evidently having realized that in this
+    case over-attentiveness was more apt to earn him a glass of ice water
+    down the front of his pants than a nice tip, Dominique went on.
+        "All I want is what's best for her, but she doesn't understand.
+    She doesn't know the humans as I do. She was sheltered on Avalon, and
+    now she's been blinded by Goliath's stubborn optimism. She won't even
+    listen to me."
+        "I know just how you feel. It's the same way with Fox. When I
+    try and do what's best for her, she accuses me of not respecting her
+    decisions, or caring about her feelings."
+        "Angela wants me to rejoin the clan. Forgive Goliath, when if
+    not for him none of this would have happened. She thinks gargoyles and
+    humans _can_ live together, no matter how often it's proved to the
+    contrary! And Goliath is no help at all. He just encourages her to think
+    that way, and it's going to get her killed."
+        "Fox won't even speak to me," Anastasia confessed. "She had
+    a headstone made with my name on it. Rather gruesomely symbolic,
+    don't you agree?"
+        "At least Angela sent me these. But look at the card. 'Dear
+    Mother, how I wish you could be with us to share this special time, that
+    we could be a real family and a real clan again.' Even with her gift, she
+    drives the knife deeper!"
+        "I only wanted to show her how much more there was to life
+    than being human! She had such potential, but even as a girl she
+    resisted my every attempt to turn her mind toward more ... intuitive
+    thoughts. Always fixated on her looks, her figure, athletics. So
+    distressingly mortal."
+        "I can't give Angela what she wants. Even if I wanted it too,
+    there's no way it would work. I could never bow to following Goliath as
+    the leader, not when I've spent centuries as a leader myself. The others
+    would never accept me back. They'd always be waiting for a trick, a
+    trap, a betrayal."
+        "Fox doesn't understand how precious she is to me."
+        "Angela too. She's my daughter, my only --" Dominique broke
+    off. Her mouth widened into a perfect O. A piece of bread fell from her
+    fork with a syrupy plop.
+        "Dominique?"
+        "By the Dragon," she breathed. "How could I forget?"
+        "What is the matter?"
+        Her emerald eyes came into focus again, fixing on Anastasia.
+    "I laid _two_ eggs that mating season!"
+        Anastasia picked up on it at once. "Avalon!"
+        "I must go there!" She grasped the other woman's wrist
+    urgently. "Take me to Avalon!"
+            *       *
+        The breeding season was nearing its peak, and the cries of
+    mating gargoyles reached even to the lonely tower that had once been
+    lair of the Magus. Dark silhouettes wheeled and frolicked against a
+    backdrop of ever-shifting stars. In the east, light glimmered, but it was
+    not the dawn, only the golden-rose-silver glow of Oberon's palace.
+        "What a terrible thing to ask!" Elektra gasped. "Never!"
+        "Oh, come on, sister," Jericho wheedled. "What's the point of
+    knowing magic if you never use it? Why, if I had half your skill, I
+    wouldn't spend all my time sitting on my tail in a musty old library! I'd
+    be putting it to good use! Benefitting my clan!"
+        She frowned sternly at him, and for an instant looked eerily
+    enough like a scolding Katherine to make him shiver. In the candlelight,
+    with her wings folded and her pale brown hair brushed smoothly over
+    her shoulders, she almost didn't seem a gargoyle at all.
+        "How would enspelling Gabriel's mates benefit the clan?" she
+    inquired.
+        He ran his talons through his shock of scarlet hair and sighed
+    in frustration. "Angela is supposed to be Gabriel's mate."
+        "Your concern on her behalf is touching," Elektra remarked,
+    "but I think it is rather your own benefit that you put first."
+        "Well, does he really need three mates?" Jericho asked
+    bitterly. "He knows that there are already some of us, his brothers,
+    destined to go mateless. With Angela gone, Elswyth in love with one of
+    Oberon's get, Hippolyta too caught up in being a warrior to even think
+    about mating, and you locked away here, that only leaves twelve
+    females to eighteen males! And if three of those twelve decide to play
+    harem girls to Gabriel, what are the rest of us supposed to do?"
+        "I'm not locked away," she said quietly.
+        "It's just not fair," he continued, ignoring her. "Gabriel should
+    know that. But he's always had to be first and best at everything."
+        "They care for him, and he for them. He could not command
+    them to cast their sights elsewhere. Choosing a mate is not as simple as
+    the way the Magus used to seat us male and female at the feasting table,
+    as they did in Castle Wyvern in days of old."
+        Jericho went to the window and looked down over the moon-
+    dusted forests. "How he's going to keep up with all three of them is
+    beyond me," he muttered darkly.
+        "Then perhaps the strain will prove o'ermuch for him, and
+    you'll have your other wish."
+        Though she'd said it in the same soft tone she always used, he
+    reacted as if slapped. He whirled to face her. "Is that what you think of
+    me? That I'd cheer Gabriel's death and seize power for myself?"
+        She regarded him evenly with her pale blue eyes. "The though
+    occurred."
+        He spun back to the window. "Right or wrong, he's the leader,"
+    he said, mouthing the hollow words. "And my rookery brother."
+        "Then why do you begrudge him the happiness of his mates?"
+        "I don't." He was confused now, a usual state when talking to
+    Elektra. Sometimes it was as if the Magus hadn't really gone away, just
+    donned false wings and a girlish disguise so that he could continue to
+    spout his nonsense. "I just don't think it will last. They'll start bickering,
+    fighting over him. He won't be able to keep all three happy. You'll see."
+        "Opal, Citrine, and Onyx have always been able to share," she
+    pointed out. "The Magus did say it was as if they'd hatched from the
+    same egg. They're inseperable and have ever been. It seems only
+    reasonable to me that they would not want different mates."
+        "It's supposed to be one male, one female."
+        Elektra trailed her slim hand across the desk. "Such cannot
+    always be," she said sadly. "Some hearts years for that which they
+    cannot have, and seek solace in other things."
+        "You mean Carnelian and his infatuation with the Lady of the
+    Lake?" Jericho laughed, sharp and short. "He and Elswyth, a fine pair
+    of dreamers! They'll go on chasing stardust and their own tails, and
+    when all's said and done the immortals will laugh at them. They laugh at
+    us already. The humans drove our kind from their rightful homes, the
+    humans chased us from our very world, and now we must grovel and
+    tug our forelocks before Oberon to even remain here!"
+        "If Avalon so dissatisfies you, brother, why do you stay?"
+        "Leave Avalon?" Sudden fear clutched his soul. "Where would
+    I go?"
+        Elektra moved to his side and gestured out the window. "The
+    wide world beckons. Angela told us of her travels and the gargoyles she
+    did find in many lands. We did ourselves meet those two who brought
+    their sacred plants to grow and thrive free of danger, proof of Angela's
+    words. The magic of this place is strong, my brother. Mayhap it calls to
+    you. Mayhap it has a mission for you. Where do you need to be,
+    Jericho? Where will Avalon send you?"
+        "I don't know," he said uncertainly. "Leave Avalon? Leave my
+    home? I ... I must think on it."
+        She inclined her head. "Of course."
+            *       *
+        David Xanatos signed his name to the credit slip with a
+    flourish, glanced up to give the waiter a grin, and faltered only
+    momentarily as he saw his mother-in-law leaving the restaurant with
+    none other than Dominique Destine.
+        He opened his mouth to call Fox's attention to it, but she was
+    engaged in listening to one of Alex's stories (something about a little
+    boy, a time machine and a magic dinosaur) and wore one of the first
+    real smiles he'd seen on her since this morning. He hated to rob her of
+    her good mood.
+        So he calmly returned pen and pad to the waiter, assured him
+    once again that everything had been fabulous, and stirred the dregs of
+    his coffee as he watched the two women vanish through the brass and
+    glass doors.
+        He had a feeling that life was about to get a lot more
+    interesting.
+            *       *
+        "Why should I do this for you?" Anastasia asked as they
+    settled into the plush backseat of Dominique's favorite limo. "I owe you
+    no favors."
+        After giving instructions to the driver and raising the window
+    to seal them into silence, Dominique smiled and played her trump card.
+    "Because I know where the lady's veil grows."
+        She had the distinct pleasure of seeing Anastasia's eyes fly
+    wide open before slitting into avaricious glinting jewels. "Lady's veil!
+    But how? It was all destroyed, centuries ago!"
+        "Not so." Oh, she was enjoying this, having the almight and
+    all-powerful Titania hanging on her every word. "There is a place, a
+    secret place where it still blooms. I have been there. I have seen it with
+    my own eyes, smelled its sweet perfume. The Inquisitors came to root it
+    out and burn it and instead they were the ones left hacked and
+    smoldering."
+        Suspicion touched Anastasia's gaze now. "Why would you risk
+    yourself to protect it? You cannot use it. Only my kind can draw upon
+    its magic."
+        Dominique shrugged. She was no longer feeling the chamagne,
+    thanks to a combination of her swift metabolism and this new
+    excitement. "The Inquisitors were my enemies too. They thought me a
+    demon." She showed her teeth. "They weren't the first, or the last, but
+    they were among the most resourceful. Besides, I knew of your people
+    and I knew that someday the information might be of use to me."
+        "That was so long ago. How can you be sure it still exists?"
+        "You're right. This is the modern world, the age of growth,
+    when humans spread like a pestilence upon the earth. They could have
+    plowed the lady's veil under, blacktopped over it, put up a shopping
+    mall."
+        Anastasia winced.
+        "But I know that is not the case," she continued.
+        "Have you been there, have you seen it?" Anastasia pressed.
+        "I have. It is not far."
+        "Lady's veil," she sighed, gazing through the windows but
+    surely seeing something other than the dingy crowded streets of
+    Manhattan. "What I would do for that!"
+        "So, do we have a deal?" Dominique extended her hand.
+        "A deal." Anastasia shook it firmly.
+            *       *
+        "The world feels strange tonight," Angela observed.
+        "Aye. It puts me in mind of a night not so long distant, when
+    we first met yer friend Griff." Hudson looked up at the sky, which was
+    tinged a peculiar shade of emerald green over deep blue. "There be
+    sorcery afoot."
+        "Do you think it's the same thing?" Lexington wondered.
+        "I would like to see Griff again," Goliath said, "but I sense
+    only foreboding tonight."
+        "Hey, come on, it's just an atmospheric inversion or
+    something," Brooklyn said. "No need for everyone to get all gloom and
+    doom."
+        Hudson slowly and somberly shook his head. "Nay, lad. This
+    be not the work o' nature."
+        Elisa emerged onto the roof. "Hi, guys! What's up?"
+        "Oh, they all think something bad's going to happen,"
+    Brooklyn said. "Hudson's seeing omens again."
+        "Dinna mock yer elders, laddie."
+        Elisa went to Goliath. "What's wrong?"
+        "I do not know," he rumbled. "A feeling, nothing more. But I
+    think we should all patrol tonight, and be vigilant."
+        "How's your mother, Elisa?" Angela asked.
+        "Great! Dad and I took her out for brunch, Beth sent a singing
+    telegram of all things, and then we went to dinner in the Labyrinth." She
+    patted Goliath's arm. "I gave her that bracelet, like you said. She loves
+    it! And for once she couldn't tell me I'd spent too much on it!"
+        "Can't put a price tag on Viking plunder," Brooklyn said. He
+    nudged Goliath with his tail. "Kissing up to the future in-laws?"
+        Goliath mock-growled, then cast a teasing eye at his daughter
+    before fixing Brooklyn with a stern glare. "You'd do well to think of
+    such things yourself."
+        Brooklyn flushed maroon. Angela smiled and twined her arm
+    through his. She pressed a quick kiss on his ear. "Don't let him bully
+    you. If he had his way, I'd view the whole clan as my parents, so he
+    doesn't have a wing to glide on with this protective father act!"
+        Everyone laughed, but it was oddly muffled, as if the
+    strangeness of the night robbed their mirth of some of its strength.
+        "How are the kids?" Broadway asked.
+        "Cute," Elisa said. "Real cute. Almost too cute. Makes me
+    have very un-Elisa-like thoughts. I was never much of a one for those
+    old maternal urges, you know? But when Dee fell asleep on my lap, just
+    a warm little fuzzy bundle that smelled like milk and baby powder ..."
+        Hudson glanced knowingly at Goliath, and Elisa promptly shut
+    up with a maroon flush of her own.
+        "Come on, then," Goliath said, looking a bit embarrassed
+    himself. "The night is short this time of year, so we'd best get started
+    before we find it is dawn again already."
+        "Why, Father!" Angela fluttered a hand in front of her mouth
+    as if shocked. "Get started? In front of all of us?"
+        "I thought we were going on patrol," Brooklyn added, leering.
+    "Though this sounds like more fun!"
+        "It sure would be great to have a rookery around again,"
+    Lexington chimed in.
+        Goliath roared and made a halfhearted lunge, which sent the
+    others diving off the wall in twirling fits of laughter. Even Hudson,
+    normally disapproving of such behavior, hid a smile as he trudged off
+    after Bronx, who was prancing anxiously in front of the closed door
+    between him and his food bowl.
+        "Can't blame 'em for trying, I suppose," Elisa said. "My folks
+    are just as bad, but they're still focused on the wedding thing. We really
+    should set a date before Dad comes after you with a shotgun."
+        "I thought your parents were not fully supportive of our
+    marriage plans."
+        "Well, it did take some getting used to." She chuckled. "Can
+    you imagine the guest list? Mom would want to invite Fara Maku, and
+    he'd want to bring Te'a ..."
+        "Our friends from Japan ..."
+        "MacBeth and King Arthur ..."
+        "And of course your Aunt Agnes," he finished.
+            *       *
+        "David?" Are you coming? Alex is waiting to be tucked in."
+        "Hmm? Yes, in a minute."
+        She approached and peered over his shoulder, out the window
+    at the weird-tinted sky. Her hair crackled faintly, full of static electricity
+    despite her expensive conditioner. She felt unsettled, ill at ease, as if
+    she was having a mild case of PMS. "What's going on?"
+        "The gargoyles think there's magic afoot, and I believe them."
+    He sighed and absently slipped an arm around her waist. "I wish Owen
+    were here."
+        "You'd promised him the rest of the day off. He's where he
+    should be, with Cordelia and the baby. The wards are in place, and if
+    Titania does come back here, she'll regret it."
+        "That's just it," he replied. "I don't think she is coming here,
+    but I know she's up to something, and I don't like not knowing what it
+    is."
+            *       *
+        "All this, for a simple transport spell?" Titania said. She had
+    abandoned her guise of Anastasia, confident that no prying eyes could
+    penetrate the high-walled garden of Dominique's stately home.
+        All about her, gargoyles loomed. In the variable light and
+    flickering shadows of the blazing braziers, they seemed to move. Why,
+    she wondered, would Demona surround herself with stone gargoyles?
+    Mementos of her lost clan? Penance for her guilt at their destruction?
+        Ah, but she sensed that now was not the time for in-depth
+    psychoanalysis of her hostess. Even sweet, muddled old Sigmund
+    would have had his hands full with Demona. A cigar is just a cigar, but
+    what would be make of the bulbous, spiked mace that swayed from
+    Demona's belt?
+        "Some of us had to _learn_ our magic," Demona retorted,
+    casting a handful of black sand into the leaping flames.
+        The light flared bright yellow. She intoned some words in
+    Latin, and the chalk lines she'd etched on the patio between the three
+    braziers began to shimmer with faint purple light.
+        The air felt heavy and leaden, pressing down on them. Even
+    the trees seemed to droop dispiritedly under that unseen weight. No
+    clouds gathered, but a haze of greenish mist seemed to lay over the city.
+        Titania eyes the glowing triangle apprehensively. It neither
+     looked nor felt like something meant to trap one of her race, but
+    Demona had lived a long and crafty life and only a fool would trust her
+    completely.
+        Oh, but the lure of the lady's veil was too strong to deny! It had
+    been centuries since she'd known its fragrance, felt the softness of its
+    leaves upon her cheek.
+        "It is ready," Demona said. She stepped into the triangle and
+    glanced impatiently at Titania.
+        With a shrug, Avalon's queen joined her. Demona raised her
+    hands overhead, holding between them a slim twig of white willow. She
+    spoke one final command, snapped the twig, and the purple lines grew
+    blindingly bright before rapidly shrinking into an amethyst starburst.
+        When the starburst was gone, no eyes except the stone eyes of
+    the gargoyles looked upon the empty patio and the darkened braziers.
+            *       *
+        It was a side of Owen Burnett that few people ever saw, and
+    Aiden Ferguson still wasn't used to it even though it was all her fault.
+        A year ago, toying with a magic wand, she'd put a spell of love
+    on Owen and her schoolmistress. She had been much more careful with
+    her studies and her magic since then, to atone for her carelessness, but
+    she still felt responsible. Her actions hadn't gone without repurcussions.
+        Far from it, she thought as she peeped into the parlor and saw
+    Owen, lying on his back on the rug, holding his infant daughter Patricia
+    in the air.
+        Patricia, a platinum-haired cherub with bright and dancing
+    eyes, cooed and gurgled and smiled down at her father. Looking at the
+    baby made Aiden feel even weirder, because yet another magical
+    mishap had given her a look at a possible future in which Patricia would
+    grow up to marry Alexander Xanatos, and their daughter would prove
+    to be even more darkly ambitious than Alexander's own father.
+        "Is there something we can help you with, Miss Ferguson?"
+    Cordelia St. John asked coolly, glancing up from where she sat on the
+    sofa.
+        Even after a year as a student of the Sterling Academy, it only
+    took one word or a single look from her to reduce Aiden to a nervous
+    fourth-grader. She _knew_ that Owen had long since explained her
+    unusual course of study at Castle Wyvern, _knew_ she hadn't done
+    anything wrong, but still her stomach rolled itself into a tight ball of
+    anxiety.
+        "Thank you, ma'am ... um, but ... I hate to intrude, but I was
+    wondering if I could talk to Owen ... just for a minute?"
+        Owen rolled onto his elbow, setting Patricia on the rug next to
+    him, where she promptly grabbed his tie and crammed it into her pink
+    rosebud mouth. "Is something the matter, Aiden?"
+        She twisted fitfully at a lock of her own beige hair. "Do you
+    remember asking me to raise warning wards over the school and the
+    grounds?"
+        "Yes. To test your ability at maintaining them over a large area
+    and for a considerable time."
+        "Well ... um ... they just went down."
+        Owen gently extracted the considerably dampened end of his
+    tie from Patricia's mouth. He glanced at Cordelia. "You might want to
+    give your uncle a call," he suggested. "It may be nothing, but caution is
+    ever called for."
+        Aiden groaned inwardly. Now she wasn't just barging in on
+    Owen's rare family time, but she was also going to get the Illuminati all
+    worked up. All because she hadn't taken her roommate Birdie's advice
+    and gone quietly to check it out herself. It would turn out to be nothing,
+    of course, Owen would be right about that, and then she'd look like a
+    skittish little girl.
+        Cordelia nodded, gathered the baby into her arms, swept
+    Aiden with a wordless gaze that managed to convey a whole spectrum
+    of disdain and irritation while still remaining chillingly polite, and left
+    the room. Owen donned his suit jacket, straightened his hair, and saw
+    the miserable look on Aiden's face.
+        "What is it?"
+        "She doesn't like me."
+        Owen smiled slightly. "Pay it no mind."
+        Which, Aiden thought glumly as she followed him outside,
+    wasn't anywhere close to a denial.
+            *       *
+        The purple light winked out and Titania inhaled deeply. "What
+    place is this, where the air is so clean and the night so fair? It almost
+    puts me in mind of Avalon!"
+        "Upstate New York," Demona murmured distractedly. "The
+    Sterling Academy."
+        "Really?" Titania perked up even more. "I taught a course in
+    advanced chemistry here once, oh, forty years ago. This was where I
+    met Halcyon Renard." She looked around approvingly. "They've kept it
+    up nicely."
+        "We're not here to admire the landscaping. Something's not
+    right. I felt something as we came in. Wards, maybe. We'd better be
+    quick." Demona dropped into a tense, alert crouch. "This way."
+        The campus lay slumbering although it was still fairly early. A
+    few lights gleamed behind the shutters of the dorms, and here and there
+    was the irregular bluish flicker of a television. Moths ticked against the
+    soft moon globes that shed their light on the walkways, but nary a
+    student was to be seen.
+        To the east was a bulking, hulking mass of dark stone, an
+    unkempt manor falling slowly into decay, or so it appeared. Demona
+    knew better. Inside would be found levels of luxury, comfort, and
+    technology decades ahead of the rest of the country.
+        The Illuminati liked to conduct themselves in style.
+        Had they erected the wards? She doubted it. They were men of
+    knowledge and secrecy, but their power came from old rituals and
+    musty artifacts that they hardly dared use. What she had sensed felt
+    young, fresh.
+        No time to worry about it. If there existed a threat that Demona
+    herself couldn't handle, surely her companion could. Until Titania had
+    her dainty mitts on the lady's veil, she would surely do all in her power
+    to preserve their freedom.
+        On the north side of the campus, the well-tended grounds gave
+    way to a more natural sprawling of woods, still within the fenced
+    boundaries of the Academy. Demona slipped wraithlike between the
+    trees, moving fast, enjoying the race, the hunt. Titania came after,
+    seeming to drift, never getting her hair entangled in a bough or
+    muddying her feet on the creekbanks.
+        "It is near!" Titania breathed excitedly.
+        "Here." Demona stopped.
+        There before them was a gentle hollow, where a shimmering
+    rill trickled over moss-clothed rocks and pooled mirrorlike in a frame
+    made of the ancient and gnarled exposed roots of an oak. From the
+    middle of the pool rose a small hillock, tufted with velvety grass. And
+    from the middle of the hillock rose a thin, graceful plant, with stalks of
+    milky green and flowers of pure translucent white. The petals were long
+    and flowing, like a veil; hence its name. At the center of each bloom
+    was a cluster of tiny golden nubs.
+        "Ohhh," Titania sighed, pressing her hands to her lips. "So
+    beautiful!"
+        "Now your part of the bargain," Demona said. "I've fulfilled
+    mine."
+        Like someone in a dream, Titania produced a slender silver
+    bracelet from somewhere in the folds of her garments. Runes were
+    inlaid around it, shining in the moonlight with eldritch fire. "Wear this,
+    and recite the inscription, and any body of water will be your portal to
+    Avalon."
+        Demona studied it, memorized it, and slipped the bracelet over
+    her claws and onto her left wrist.
+        "Titania! Demona!"
+        Of all the people who could have come crashing through the
+    bushes at that point, Owen Burnett was one of the last ones she would
+    have expected.
+        There was a human with him, a pale and frightened girl that
+    Demona would have dismissed if not for the wand clutched in one small
+    hand. To her sharpened senses, it was the magical equivalent of a
+    trumpet fanfare.
+        Owen moved forward, his fists clenched, and then his gaze fell
+    past Titania and his mouth fell open. "The lady's veil?"
+        "No you don't," Titania chided. She struck swiftly, pulling the
+    plant up by the roots. A faint trill of pain rang briefly through the night.
+    "This posey is mine!" A green glow wavered into being around her.
+        "No!" Owen jumped at her, pased through her as she vanished,
+    and brought himself neatly into Demona's reach.
+        Her claws clamped around his throat. She could feel his fragile
+    human lifebeat pumping beneath her palms, and traced the ridge of
+    bone that was his spine. She debated briefly between snapping and
+    squeezing.
+        "Let go of him!" the human girl cried, brandishing the wand.
+        That fanfare sounded in Demona's mind again. She recognized
+    the item, Hecate's Wand, long thought lost. Here was the caster of the
+    wards, young, but formidably armed.
+        She froze, neither killing nor releasing Xanatos' dogsbody
+    servant. Eyeing the wand, she felt much as Titania must have when the
+    lady's veil was mentioned. Hecate's Wand could only be great in the
+    hands of a human sorceress, but thanks to Puck, half the time she was
+    one.
+        "Give me the wand, and I'll free him."
+        "No, Demona," the girl said, and then Demona recognized her
+    as well. She was the tiny human that had come a'caroling last
+    Christmas. A friend of the gargoyles. A friend of Angela.
+        Killing Owen was one thing. He'd been a thorn in her side time
+    and again, he and Xanatos. There had always been something
+    exasperatingly sneaky about him, something she could never quite put a
+    talon on. But she dared not kill this frail girl, not if there was still a
+    chance to win Angela over.
+        She made her decision half an instant before Owen made his
+    move. Even as he flexed to attack, she hurled him away from her. He
+    reeled back the way he had come and the girl was not quick enough to
+    sidestep.
+        Before either of them could get up, Demona recited the
+    incantation and dove headlong into the shallow pool. If Titania had
+    tricked her, she would finish this night with a hell of a headache and a
+    faceful of mud.
+        A silver ripple expanded from the point where her left arm met
+    the water, and she passed through into another world.
+            *       *
+        Owen brushed himself off, his lips tight in a pucker of disgust.
+    "She's gone to Avalon."
+        "I'm sorry!" Aiden gasped. "I didn't know what to do!"
+        "The fault is partly mine. I've taught you no spells of attack.
+    There was no way you could have stopped her."
+        She fingered the wand absently, before remembering that it
+    made him almighty nervous when she did that. Hastily, she put it back
+    in its case. "Do ... do we go after her?"
+        Owen sighed. "Avalon is forbidden me. The incantation
+    Demona used was a shortcut, linked to an item. A gift, no doubt, from
+    Titania. Therefore it is of no use to us."
+        "How did Goliath and Elisa get there? Doesn't he know a
+    spell?"
+        "He does, but even so, we dare not follow. Whatever is going
+    on, it involves an alliance between Demona and Titania. You are not
+    ready to face either of them, let alone both. And Oberon would not
+    allow Hecate's Wand to return to Avalon. He thinks it long-destroyed."
+        It was Aiden's turn to sigh. "But we should do something,
+    shouldn't we?"
+        "All we can do is inform and warn Mr. Xanatos and Goliath.
+    And Fox. Fox especially, now that Titania has the lady's veil." He shook
+    his head and laughed ruefully. "Here all this time, and I never knew."
+        "The flower? What is it? My mom kept a garden, but I've
+    never seen anything like that before."
+        "Nor, in likelihood, will you again. That was the lady's veil,
+    most precious of all growing things. To Avalon's Children, it is both
+    energy source and drug, ambrosia, giver of power." He took a deep,
+    wistful breath, then blinked and recovered himself.
+        "Kind of like catnip?" Aiden asked doubtfully.
+        "That will do. I had thought that there was no more. It was
+    once plentiful. Humans --" he glanced over his shoulder toward the
+    distant gabeled roof of the abandoned manor "-- an offshoot of an old,
+    old society, sought it out and burned it. All of it, or so we'd thought."
+        "But why?"
+        "They knew of us, they feared us. They knew also of Oberon's
+    decree that we be exiled upon the world. They worried that, had we the
+    lady's veil, we might become a power to rival theirs. And so they got rid
+    of it."
+        Aiden frowned. "That doesn't make sense. From everything
+    you've told me, Oberon's Children don't work together. It doesn't seem
+    like they _would_ organize to seize power, even if they could."
+        "You're right, of course. But these humans, these Inquisitors,
+    did not see it that way."
+        "Why do we need to warn Fox, though?"
+        "She has the blood of Avalon in her veins. Titania may try to
+    use the lady's veil to make her daughter beholden to her. Fox rejected
+    her harshly this morning, and Titania does not take rejection well."
+            *       *
+        Jericho sat on a rock outcropping, sharpening his knife in long
+    slow strokes as he looked down at the gathered clan below.
+        The remains of a respectable feast were spread out around
+    them. Malachi and Uriel had taken time out from breeding to hunt down
+    two fat hinds, and their mates Ruth and Miriam had spent the night
+    coaxing breads and pastries from Avalon's generous magical larders.
+        The clan was mostly arranged in mated pairs, with some
+    exceptions. Hippolyta sat apart, fussing with her bow. Three were
+    absent: Elektra still brooding in her solitary tower and Carnelian and
+    Elswyth off making sheep's eyes at their fay fancies. A few other
+    mateless males lingered at the fringes of the circle, some still foolishly
+    and hopelessly trying to change Hippolyta's mind.
+        And of course, leader Gabriel, a sultan, surrounded by his
+    harem.
+        His three mates were nearly identical in their beauty. They
+    differed only in the colors of their hair, and it was that which had
+    earned them their names. Opal's tresses were silver blond, Citrine's as
+    yellow as the sun they never saw, and Onyx's as dark as the gem by that
+    name.
+        Jericho fumed silently. Only Tourmaline noticed him, and
+    offered a faint smile. He ignored it, and saw it turn into a glower before
+    she returned her attention to Jacob. Jacob, smallest and quickest of the
+    clan, pale tan with wings that stretched from wrist to ankle, was only
+    too glad to accept her attention.
+        The feasting was done. Deborah began to sing softly, and soon
+    Garnet and Ezekial joined in. Ruth and Malachi left hand in hand with
+    tails entwined.
+        Jericho jabbed his knife idly into a loaf of bread, again and
+    again.
+        "What's the matter, brother?" Corwin asked. "You've been
+    some quiet of late. Are you troubled?"
+        "Indeed, brother. Look at this clan. We've grown fat and soft."
+        "Nay, that will be the fate of the females, as they grow big with
+    egg," he grinned.
+        "No egg of yours, nor mine," Jericho meanly but truthfully
+    pointed out. Handsome Corwin, despite a strong resemblance to
+    Gabriel, was also among the mateless.
+        "'Tis for us to be the best warriors," Corwin said. "Do you not
+    remember what the Magus told us of our clan, in the days of Castle
+    Wyvern? How the leader before Goliath took no mate, but was a
+    warrior without compare and leader for many decades? That is the fate
+    that awaits us, my brother, a good destiny if ever there was one."
+        "Warriors," Jericho snorted. "Once in all our lives have we
+    been called upon to be warriors, when the Archmage attacked us. A
+    poor showing we made! It was only blind luck that none died!"
+        "I charge any warrior to do better against a wizard!" Corwin
+    argued. "Had we but fought Vikings, as our parents before us --"
+        "Bah! You're grasping at excuses, Corwin. We failed.
+    Guardian Tom had to go find Goliath to pull our bacon from the flames.
+    We would have otherwise been killed, one and all."
+        "Goliath is the greatest warrior of our kind! There is no shame
+    in seeking his help!"
+        "Shame? Aye, shame indeed! What must he have thought of
+    us, his clan's children, unable to hold off even one attack without
+    sending our human Guardian to beg for his aid! Small wonder he did
+    not wish to remain, to bring his clan back to rejoin us. He was right glad
+    to leave us behind!"
+        "Not so! He welcomed Angela to join him."
+        Jericho snorted again. "Think it through, brother dear. The
+    Magus enspelled Goliath, the leader before him, three young warriors,
+    and their watchdog. Males all! Of course he was pleased to take Angela
+    along!"
+        "I disagree with you," Corwin said, but he said it thoughtfully
+    and Jericho knew his words had hit the mark a time or two.
+        "What good is it to be a warrior, with no battles to fight?"
+    Jericho wiped crumbs from his knife and replaced it in its sheath. "We
+    have no purpose."
+        "We protect our home and clan." Corwin gestured to the
+    others.
+        "From what? Any threat to this island will be swiftly sundered
+    by Oberon and his defenses. We are not needed here. Nor wanted here.
+    He suffers our presence, and do you know why, brother? Because
+    Goliath forced his hand. If not for Goliath, we would have been cast
+    out. So, he saves us from the Archmage, he saves us from Oberon's
+    wrath, all because we can do nothing for ourselves!"
+        "My heart says you are wrong, brother," Corwin said slowly,
+    "but my mind cannot fashion a goodly debate."
+        "That's because the heart is more easily misled." Jericho rose
+    and stood braced with the wind in his hair. "Isn't that something else the
+    Magus always said? I, brother, will follow my mind!" With that, he
+    leaped from the outcropping and let the wind catch in his wings.
+            *       *
+         Demona had emerged from a rippling stream-fed lake,
+    untouched by the water thanks to the spell that had brought her to
+    Avalon. At once, some dim memory had stirred in her. She knew that
+    somehow she had been here before, during that curious blank period
+    before Paris. She strove to recall more, but the best she could come up
+    with was a ghost of a voice, Goliath's voice.
+        "These are our clan's children," he'd said. And strangely,
+    MacBeth had been nearby.
+        She shook her head. It made no sense. Whenever she tried to
+    remember those unsettlingly vague days, a sweeping tingle of fear
+    overtook her and she was left with just the image of the moon, the silver
+    moon with its darker mottlings that almost seemed to form the shape of
+    a gargoyle.
+        But, whatever had happened before, this was Avalon. She had
+    followed distant firelight and the smell of roasting venison, and soon
+    found the gathering place of the clan.
+        She looked upon them from concealment. So many, so vibrant
+    and healthy and happy! Owing their very lives to that snippet of a
+    princess, the cause of all of the clan's misfortune! Had Katherine not
+    dismissed them with scorn, as if they were even lower than the hogs in
+    the castle's pen, Demona would never have been compelled to strike her
+    bargain with the captain of the guard.
+        She set aside her old anger and studied the young gargoyles.
+        At the time their eggs had been laid, she would have never
+    given another thought to their parentage. She and all of the other
+    gargoyles would have taken equal care of and given equal attention to
+    the hatchlings. But now, after centuries of seeing how humans were
+    devoted to their offspring, and after seeing some of herself in Angela,
+    she looked differently upon the children of her clan.
+        Her rookery brothers and sisters had produced these young
+    ones. She saw familiar features everywhere. That amber-haired male
+    ringed with admiring females -- what would Coldstone think if
+    presented with this son of his? She strove to recall how many eggs he
+    and his mate had laid, and thought it was three.
+        Other old friends, centuries dead and dust, seemed to come
+    vividly alive to her as she looked upon their children. She looked,
+    seeking, scanning, and then her breath caught in her throat.
+        There on an outcropping was a familiar silhouette against the
+    moon.
+        A male very like in build to Goliath. He lacked some of the
+    breadth of shoulder and depth of chest, but was tall and strong and had
+    the same majestic wings.
+        She crept closer, circling around until she could see him in the
+    firelight.
+        His skin was the same twilight blue as her own, his hair was
+    thick and coarse and fell over his eye in a blood-red tumble, and his
+    features were a masculine version of hers.
+        "My son," she whispered into the night, and moved even
+    closer.
+        Another male joined him, golden-skinned, with unusual split
+    wings the banded deep brown of a tiger's eye agate and ivory-white
+    hair. Surely another hatchling of Coldstone and his mate. Demona
+    keened her ears to hear. Soon she was close enough to make out their
+    words.
+        "What good is it to be a warrior, with no battles to fight? We
+    have no purpose."
+        Listening to the remainder of their discussion, Demona could
+    have wept with the fierce savage joy that welled up in her soul. She
+    heard the dissatisfaction in her son's voice, the bitter tone with which he
+    spoke Goliath's name.
+        When her son spread his wings and took to the air, it was all
+    Demona could do from shrieking in triumph and pride.
+            *       *
+        Oberon's Children were busy with their own plans, plans for a
+    peculiar and amusing little party they planned to hold.
+        They were busy also presenting the gifts with which they
+    honored their Lord. He hadn't demanded gifts, no. But all knew that
+    gifts were expected, and a way to earn the goodwill and favor of
+    Oberon.
+        Busy renewing age-old acquaintances, reminiscing, scheming
+    against each other. Some were busy having fun, others were busy
+    griping (as Puck would have, had he been in attendance) how dreadfully
+    dull Avalon was compared to the unpredictable humor to be found
+    among mortals.
+        So, in all the general business, few noticed the absence of
+    Queen Titania. As Oberon himself had declared in the presence of all,
+    she came and went as she pleased. It did not concern him. He'd been
+    occupied with other things. Casting out an incubus, for instance, or
+    enduring ceaseless pleas from the sea witch Sycorax to free her half-
+    mortal son from his imprisonment.
+        "Our Queen does come and go these days," Phoebe observed
+    to her sisters as they lounged in the marble-columned enclosure that had
+    once been the domain of the Archmage.
+        "With one of our chosen she deals and plays," Selene added,
+    frowning darkly.
+        "Unless our edicts Demona disobeys," Luna said, "no harm in
+    her visit here, and no reason have we Titania to fear. Other news
+    troubles me now, the Archmage's curse --"
+        "What? No! How?!" the other two broke in, alarmed and even
+    more pale.
+        Luna dipped a finger in the still pool. It rippled and an image
+    appeared, of gargoyles lazing in a woodland glen. "Look and behold, as
+    was foretold."
+        Her sisters studied the scene in silence, and then Phoebe
+    passed her hand across the water and disrupted it.When the water
+    cleared there was naught to be seen save their nearly identical
+    reflections.
+        "The curse did not die with his life's end," Luna said. "Beyond
+    our powers all, to mend."
+        "Gargoyles three, alike as we," Selene mused.
+        "Humans as well, I have seen when in the mortal world I've
+    been," Phoebe said reluctantly.
+        They looked solemnly at each other for a long, long time.
+            *       *
+        Dawn came to Avalon with a diffuse, milky light.
+        Dominique, tired after the long night, ate well of sweet fruit
+    and drank deeply of clear water. She never strayed too far from the spot
+    where a single male gargoyle stood in stone sleep, because she had the
+    feeling that Avalon would shift about just on a whim and she might
+    wind up getting lost.
+        She used the daylight to study her son. Cast in stone, he looked
+    more like Goliath, but she could still see her genetic heritage. Goliath's
+    jaw was a stubborn square block; her son's was sharper. He had her
+    nose instead of the sizeable chiseled ship's prow in the middle of
+    Goliath's face. He even had her brow ridges.
+        Very pleased, she gathered herself a pile of soft leaves and
+    grasses and settled down to snooze the day away. Just as she was about
+    to drift off, she realized that Princess Katherine was somewhere
+    hereabouts, as well as that annoying whelp of a human lad, Tom.
+        But, frustratingly, the same logic that had spared Owen's little
+    sorceress sidekick also applied to Katherine. Angela spoke fondly of
+    the human woman, who had been more of a mother to her than Demona
+    ever could be. Most likely, her son would have at least some of the
+    same feelings.
+        So, much as she might have otherwise liked to gouge holes in
+    Katherine's soft white skin and pull out her innards, she accepted that it
+    might be a bad way to start off her relationship with her newfound son.
+        She slept, and dreamed old dreams of her long-dead clan,
+    bittersweet now that she had seen their children.
+            *       *
+        "I don't like this," Xanatos said. "There's nothing we can do?"
+        Owen shook his head. "Short of going to Avalon. Some
+    consolation, though -- Titania is unlikely to make her move quickly.
+    She may take time to form a plan, and a few days on Avalon can
+    amount to many months here."
+        "Which means we'll have to be on our guard forever," Xanatos
+    said sourly.
+        "She also knows that I know what she has done," Owen
+    pointed out. "She must realize that I would warn you. She may not try
+    anything at all."
+        "Somehow, nice as that thought is, I just can't believe she'd let
+    it go." Xanatos sighed. "Don't I have enough to worry about with just
+    one dimension?"
+        "Normally, yes. However, sir, your unusual lifestyle has its
+    price."
+        "Yeah. Tell me about it."
+            *       *
+        Jericho awoke to an agonized cry.
+        He shook off the lingering shards of his stone skin and leaped
+    forward, to the side of the hunched figure.
+        He reached, he faltered. "What --?"
+        The figure stood and looked at him. A gargoyle, a female. A
+    stranger, yet somehow familiar. And then he had it.
+        "You look like ... me?" he said.
+        She smiled and tears glimmered unshed. "I am your mother."
+        Jericho staggered back and put a hand to his brow. "Mother?"
+    His gaze fell upon the grass where she stood and he saw that something
+    was wrong, but he couldn't quite bring his thoughts together.
+        "My son!" She held out her arms.
+        He looked at her, at the love shining from her face with the
+    imagined brightness of the sun. The rightness of it rang in him like a
+    deep bell. A need he'd never even suspected washed over him in a
+    flood. He ignored the darkness in her eyes and gladly accepted her
+    embrace.
+        "Mother!"
+        She cradled him as if he was a tiny hatchling, and finally they
+    stepped apart. She touched his face, traced his brow ridges. "Such a
+    handsome lad," she said approvingly.
+        "How can this be?" he asked. "How did you come to be here? I
+    thought our clan was destroyed, all save a few males!" Something else
+    occurred to him and he frowned. "Wait ... when the Archmage attacked,
+    he brought two great warriors. I saw only one of them, a silver-haired
+    human." He rubbed his jaw in remembered pain, and saw his mother's
+    eyes flare dangerously.
+        "Did he hurt you? That insolent fool MacBeth! When I see
+    him again, I'll --"
+        He hastened to calm her, even as he was trying to get over his
+    surprise at seeing his own lightning-quick temper mirrored in her. "A
+    glancing blow, and I am unharmed. But my brothers and sisters saw the
+    other, and they said it was one of our kind, with hair of red like yours!"
+        "I am not your enemy," she said firmly. "If I have been here
+    before, believe me, I was under a spell and not acting of my own
+    choosing. I would never want to hurt you, or your brothers and sisters."
+        "I do believe you. I just don't understand." He looked at the
+    grass again and realized what had puzzled him before. There were no
+    stone fragments where she'd been standing. The ground around his feet
+    had been littered with them, as usual, but he could not spot a single one
+    in all the grassy glade.
+        "I will explain everything ... " she paused and laughed. "What
+    are you called, my son? I know the princess gave names to you all."
+        "Jericho," he said.
+        "Jericho." She sampled it, then nodded. "I like the sound of
+    that. I am called Demona." She extended her hand. "Come, my son. I
+    will tell you my story. I will tell you everything. Even ..." she drew in a
+    deep breath and let it go. "Even about your father."
+        Here was another all new subject. Jericho blinked. "My
+    father?"
+        "Your father." She had trouble meeting his eyes, then found
+    the strength. "Goliath."
+        "Is this a jest?" he cried.
+        "No." She squeezed his hand. "I was once his second-in-
+    command and his mate. Mine is a long story, but I escaped the
+    destruction of our clan and spent long centuries alone, seeking,
+    desperate. When at last we were reunited ..." she looked away, unable
+    to go on.
+        "What?" he urged.
+        "He turned me away," she admitted heavily. "He refused to
+    welcome me back to the clan. He said I had grown too hard and cruel.
+    Maybe he was right."
+        Jericho was shaking his head slowly. "No. I cannot believe
+    that."
+        She gripped his hand bruisingly tight. "He _was_ right. But I
+    had to become hard and cruel if I was going to survive! Goliath never
+    understood that, never believed that being _too_ trusting was even more
+    dangerous!"
+        "I have met him," Jericho said. "But ... why did he not tell me
+    he was my father?"
+        Demona shrugged and looked away, distressed. "I ... I don't
+    know."
+        "Please, tell me! Mother, please!"
+        "Well ..."
+        "He's ashamed of us, isn't he?" Jericho said bitterly. "Because
+    we're such poor warriors."
+        She didn't answer but he saw the truth of it in her eyes. His lip
+    curled in a snarl.
+        "Now, wait," Demona said hastily. "You must understand, that
+    is his way, to judge others without knowing or caring what their lives
+    have been like. He cared not that I had spent a milennium being hunted
+    and hated by the humans, but just blamed me for not trusting them as he
+    does. He certainly should not blame you for something that is not your
+    fault. It's his fault, if anyone's, for he gave our eggs into the keeping of
+    the princess and abandoned you."
+        "Why did you let him?"
+        "I did not learn of it until it was too late. I am sorry." She hung
+    her head.
+        Jericho sank to his knees and put his arms around her waist. "I
+    know you would have taken care of us if you could," he said fervently.
+    "You would have given us a home that was our own, a purpose! You
+    would have raised us as warriors!"
+        She stroked his hair. "I would have raised you as warriors, yes.
+    And I would have led you against the Vikings for revenge, and put you
+    in danger. Even led you to your deaths. You've been safe here."
+        "Safe, soft, and useless!" He clung to her velvety wings and
+    looked up at her. "I'm not afraid of death, Mother, but I want to live
+    first! Live as a gargoyle, to protect and avenge and to _be_ a warrior!
+    Oberon calls us nothing more than decorative stonework, and I want
+    more than that!"
+        "What of your brothers and sisters?"
+        "They are content to sit about. I am not. I've never been. Of
+    them all, only one came close to understanding, and she's already gone
+    to the real world to find her place in it."
+        "Angela."
+        "Yes! She left with Goliath. How did you know?"
+        "I know, because she is my daughter. Your sister, not just your
+    rookery sister but your sister in birth and blood." She turned her head
+    away. "But she sees things as Goliath does. She cares more for the
+    humans than for her own kind. Goliath tried to keep her from even
+    knowing about me, and then to poison her against me! When I learned
+    of Avalon, I knew I had to find a way here, to see my other child, and
+    hope that you might not come to hate me too."
+        "Never!"
+        "You're all I have left, Jericho. I've lost my clan, my daughter,
+    everything. Yes, I've done terrible things against the humans. No
+    terrible than what they've done to our kind, but terrible nonetheless. I
+    tell you this because I want you to know the truth."
+        "You've done only what you had to do. I can see that! And
+    been ill-used by humans and your own clan alike! I won't do that,
+    Mother! All my life, I've wanted something more, some purpose, and
+    you've brought me new hope! Take me with you!"
+        She gasped. "You cannot mean that!"
+        "I can and I do!" He clutched her hands and pleaded. "Teach
+    me to be a warrior! Give me a cause to fight for! We will be our own
+    clan, a clan of two, mother and son against the world if need be!"
+        "Goliath would never allow it. He seeks to deny me --"
+        "To the Dragon with Goliath and what he will and won't allow!
+    Maybe he clouded Angela's mind, but not mine!"
+        Demona embraced him again, and her tears wet his shoulder.
+    "My son! I will take you with me, because you are all that I hoped you
+    would be!"
+            *       *
+        "This be dire news indeed," Hudson said, at the end of the
+    lengthy silence which followed Owen's story.
+        Angela wrung her hands. "She _wouldn't_ do anything bad!
+    Would she?"
+        Brooklyn, whose forgiveness of Demona was still fairly new
+    and shaky, glowered but said nothing.
+        "Why would she go to Avalon anyway?" Broadway asked.
+    "Didn't she make enemies last time she was there?"
+        "She was enspelled," Goliath said. "As was MacBeth, and he
+    has no memories of Avalon except images that might have been nothing
+    more than a dream." He doubled his fists and then saw his daughter
+    looking at him with worry and heartbreak all over her face. He forced
+    his fingers to unclench.
+        "Whatever she's up to, it's got to be no good," Lexington said.
+        "You don't know that!" Angela flared. "Maybe she's sorry! No
+    one in this clan will give her a second chance --"
+        "_Second_ chance?" Brooklyn blurted, then bit his lip.
+        But Hudson nodded at his outburst. "Aye, the lad is right.
+    She's had chances aplenty to mend her ways, and little to show for it."
+        "Maybe we should just go and take a look," Broadway
+    suggested. "To make sure everything's all right."
+        "No," Goliath said heavily. "We will not go to Avalon."
+        "What? Why?" Brooklyn's beak got away from him again, the
+    words coming out sounding like a direct assault on Goliath's authority.
+        He ignored the tone and replied. "If we go, if any of us go,
+    Demona will see it as an attack. We cannot know that her purpose there
+    is malign; Angela is right. But if a battle breaks out, the Avalon clan
+    will be drawn into it, putting innocent gargoyles at risk. They are my
+    first concern."
+        "If they're your first concern, though," Broadway said slowly,
+    "then shouldn't we be trying to protect them from Demona?"
+        "Demona has no quarrel with them." Goliath strode to the
+    window and looked out, as if he could see Avalon from the windows of
+    Castle Wyvern.
+        "But they might with her," Angela reluctantly said. "They'll
+    remember her other visit, even if she does not. They might attack her
+    first."
+        "What about Oberon?" Lexington piped up.
+        "That is my other concern," Goliath said. "Oberon would not
+    tolerate further disruption of his island. He may drive the clan from
+    their home, or his punishment might be more dire. I do not want to
+    chance angering him."
+        "Demona and Titania were together," Owen reminded them.
+    "Whatever Demona's purpose, it might be part of some plan of Titania's
+    and not even involve the gargoyles."
+        "I wish I could believe that," Goliath said. He growled/sighed.
+    "No. We will not go after her, but we will be ready in case we are
+    summoned."
+        Angela walked away with her arms wrapped around herself,
+    clearly torn between worry for her siblings and her mother. Brooklyn
+    muttered darkly but followed her.
+        "If Oberon throws them out," Broadway wondered, "will they
+    come here?"
+        "They'll be welcome, I'm sure," Hudson replied. "Ah, would
+    that not be fine, to have the castle filled again? And a breeding season,
+    too, so Goliath told us. I'd thought I would not live to see a thriving
+    rookery again."
+        Owen glanced at him under arched brows. "I cannot predict
+    what Mr. Xanatos' response to that idea might be."
+        Hudson grinned and patted the hilt of his sword. "He can take
+    it up with me, then, should it come to pass!"
+        "I'm going to call Aiden," Lex announced. "She must've been
+    scared stiff, going up against Demona like that!" He bounded off
+    toward the phone.
+        Goliath turned to Owen. "You will keep us informed," he said.
+        Owen inclined his head. "Of course."
+            *       *
+        Days passed, and then weeks.
+        "Look, Owen!" Fox snapped one afternoon, "I appreciate your
+    concern, but if you don't quit hovering around me, I'm going to have to
+    either hit you or sleep with you!"
+        One month slowly turned into two months.
+        "Nightstone is still operating without Dominique Destine,"
+    Matt Bluestone reported. "The vice-presidents are finally getting a
+    chance to do things their way without the dragon lady breathing down
+    their necks, and they're getting to like it."
+        At the end of the second month, after much discussion, Goliath
+    and Elisa formally set the wedding date for October 31, Halloween, in
+    honor of their first dance. Two weeks after that, Elisa got a call from
+    her sister Beth in Arizona.
+        "I need some advice," Beth said over hundreds of miles of
+    long-distance. "I'm kind of seeing somebody."
+        "That's great!" Elisa responded enthusiastically.
+        "Well," Beth wavered, "I'm worried Dad won't approve."
+        Elisa laughed. "Sis, I'm marrying a gargoyle and Derrek's kids
+    have fur! Who could you possibly be going out with that Dad wouldn't
+    like?"
+        Beth told her.
+        "Oh," Elisa said through numb and shocked lips. "Oh, I see
+    what you mean!"
+        Summer came to New York. Hudson, at least, was glad of the
+    extra hours of sunbaked warmth on his old bones, even if the others
+    bemoaned the shortness of the night.
+        "Will it never end?" Angela wailed. "Will we never know?"
+        Goliath consolingly rubbed his knuckles against her brow
+    ridges. "Sometimes there is no clear ending. We must wait, and watch,
+    and see what will come to pass."
+        And the time went on ...
+        
+            *       *   
+        "My lord, if I may take a moment of the Gathering's time?"
+        Oberon at once raised a hand for silence. "Attend our Queen,
+    by Oberon's command!"
+        Titania made a gracious gesture of thanks. "My lord and
+    husband, I have seen many grand gifts given by Avalon's returning
+    children. I would not seem remiss in my own devotion."
+        He smiled. "Why, Titania, you need not bring us any further
+    gift, when already you've once more afforded us your love."
+        "Even so, my lord, I have a small trifle, if you will aceept it.
+    Nothing so fine and bejeweled as many of these splendors, yet it may
+    please your fancy."
+        Oberon leaned forward, intrigued and anticipatory. The
+    gathered children shuffled for positions and vantage points.
+        Titania swept a graceful curtsey. "Here, Lord Oberon, is the
+    gift with which I honor thee." She held out her hand, palm up, and
+    uncurled her long slender fingers.
+        Bright and airy though the Grand Hall of Oberon was, the
+    shine from the white petals was the clearest light in the room.
+        "A trifle indeed," Oberon gasped breathlessly. "To please our
+    fancy? Titania ..."
+        She demurred sweetly. "Say no more, my lord. Accept this gift
+    of me, and bear me only goodwill in return." Stepping forward, she
+    placed the flower in his eager outstretched hand.
+        An envious, hungry sigh went up from the assemblage.
+    Although Titania kept her gaze fixed on Oberon, she sensed still the
+    furtive gleam that came into many an eye. Plots were being formed,
+    schemings were underway.
+        Oberon had been getting bored, starting to think of other
+    things, starting to look beyond his own self-absorbed ego. The lady's
+    veil would change much of that, and the plots and schemings would
+    occupy the rest of his attention.
+        And Titania would continue to rule Avalon her way.
+            *       *
+        "He's gone," Elektra said softly.
+        "What do you mean, gone?" Gabriel nearly took his slim sister
+    by the shoulders and shook her, but restrained himself. "When? Where?
+    Most importantly, why?"
+        "I could answer your questions, brother, but it would change
+    nothing. You never saw him as he truly is."
+        "What?" He blinked at her.
+        She sighed restlessly. "Envious of you, close to no one, always
+    a shadow on his spirit that urged him toward a destiny he did not
+    understand. Nor do I, but I've at least an inlking of it. He has chosen to
+    follow another path, although I fear it will be his undoing."
+        "If all this is because he didn't get a mate, or if he was still sore
+    because Tourmaline tried to win him when she couldn't get me --"
+        "No, no. Not that. If he truly wanted a mate, he would have
+    had one." She dropped her eyes, long lashes brushing against her ivory-
+    pale cheeks, and Gabriel looked at her with sudden comprehension.
+        He put a hand on her wing-caped shoulder. "And you just let
+    him go? You said nothing?"
+        She nodded mutely.
+        "If he regrets nothing else, my sister, I know he will live to
+    regret that."
+            *       *
+        He turned slowly in a circle, his face alight with awe. "This is
+    your home?"
+        Demona smiled. "It serves my needs."
+        "It is the most splendid place I've ever seen! We've nothing
+    like this on Avalon! Not even Oberon's palace holds such wonders!
+    How is it that you have such magic?"
+        "Not magic, my son. These things are the work of science, and
+    human inventors. They are not all entirely without merit, I give them
+    credit for that at least."
+        Jericho leaned close to the blank television screen. "What is
+    this, a window of darkness?"
+        "Hardly." She triggered the remote control and smothered a
+    laugh as her son sprang back in alarm at the sudden light and color and
+    sound. "A window to many places, some real, and some imaginary."
+    Her thoughts flashed back several years to something she'd overheard
+    while lurking in a secret passage outside of Xanatos' office. "Think of it
+    as a ... living tapestry."
+        He roamed around the room. "I feel so primitive," he finally
+    said. "A barbarian amid all of these marvels."
+        Demona shook her head. "Not for long. Those days on Avalon,
+    I told you all about the past. Now, your education on the present and
+    future begins. I will teach you to understand and use everything you'll
+    find in this world. A warrior in this era must be able to do more than
+    swing a sword. And you, Jericho, will be a great warrior."
+        He drew himself straight and tall. The new garments she'd
+    given him, made of metal like the armor that Guardian Tom wore but
+    lighter and stronger, gleamed glossy black and shining silver. "I will not
+    fail you, Mother."
+            *       *
+    The End
+
+------------------------------------------------------------------------
+
+Click [here](ffiction.htm) to return to the previous page.
+
+------------------------------------------------------------------------
+
+Mother's Day / Page Copyright 1997 - Tim Morgan / <vecna@eskimo.com>

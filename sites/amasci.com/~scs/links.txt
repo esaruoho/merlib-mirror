@@ -1,0 +1,43 @@
+``Useful'' Links 
+
+ Search engines 
+
+Dave Walker's Eskimo
+ Weather Station 
+
+ UW weather info 
+
+ UW earthquake info 
+
+ U.S. Patent & Trademark Office 
+
+ U.S. Geological Survey 
+(including
+ EROS Data Center ,
+USGS map data online!)
+
+ Northwest Folklife 
+festival
+
+ The RISKS archive 
+
+ DeLorme map company 
+
+ U.S. Library of Congress 
+(search)
+
+ Monty Python's Flying Circus 
+
+ Unicode 
+
+ NOAA Coastal & Estuarine Oceanography Branch ,
+including tide predictions
+
+ U.S. Naval Observatory Directorate of Time 
+
+ Transit and Transportation info 
+(mostly Seattle area)
+
+ data file formats 
+
+ cryptography, authentication, privacy, and anonymity links

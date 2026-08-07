@@ -1,0 +1,263 @@
+More Programming Information 
+
+ More Programming Information 
+
+ Program startup 
+
+ Subsystem version 
+
+ More on messages and threads 
+
+ Creating an import library from an
+arbitrary DLL 
+
+ Deadlock theory 
+
+ Title (caption) bar and Taskbar button
+anomalies 
+
+ Documented Win32 functions that don't
+exist 
+
+ Obsolete Win16 functions 
+
+ Back to Win32 ASM Page 
+
+ Program startup 
+
+When a Win32 program starts, the segment registers are set up
+this way: 
+
+ CS = code selector 
+DS = ES = SS = data selector 
+FS = data selector to TIB (thread information block) for the
+first thread 
+GS = 0, the null selector 
+
+ CS maps to the same linear address as DS, ES, and SS. 
+ FS maps to a TIB which is embedded in a data block known as
+the TDB (thread data base). The TIB contains the thread-specific
+exception handling chain and pointer to the TLS (thread local
+storage.) The thread local storage is not the same as C
+local storage. 
+ ESP is set to a high address, not necessarily at the 2G mark.
+
+ DF (descending/direction flag) is cleared, so string ops will
+cause an increment (ascending mode.) 
+
+ If you've ever written code to switch from real mode to
+protected mode, you'll know how CS can have a different "segment"
+value and still be able to address the same memory area with the
+same offsets. 
+ For x86 ASM programmers who aren't familiar with protected
+mode, the "segment" is no longer a segment (paragraph) value,
+it's a selector . A selector is a reference to a
+descriptor, where the real information about the "segment" (which
+can be any size) is stored. 
+
+ Other startup values 
+
+Previous instance handle: 
+ If you've written Windows programs in C or C++, you may be
+familiar with this parameter. 
+ In 16-bit Windows, this was mostly used to make sure there
+was only one instance (running copy) of an application. Other
+techniques exist for ensuring only one instance of an
+application. 
+ When systems had far less memory than today, this allowed
+several instances of a 16-bit application to share common data
+(such as graphics). In Win32, this is always 0 (NULL) because
+instance handles cannot be used to access data from another
+process (instance). 
+
+ Instance/module handle of EXE: 
+
+ push large 0 ; NULL string pointer
+ call GetModuleHandle ; EAX = hInstance of EXE
+
+Command line arguments: 
+
+ call GetCommandLine ; EAX = pointer to full command line
+
+[Environment variables:] 
+
+ Standard I/O, nCmdShow: 
+
+STARTUPINFO struc
+si_cb dd ? ; size of STARTUPINFO
+ dd ? ; lpReserved
+si_lpDesktop dd ? ; (string) name of desktop
+; *** Start of console window info
+si_lpTitle dd ? ; (string) title/caption
+si_dwX dd ? ; upper left corner
+si_dwY dd ? ; upper left corner
+si_dwXSize dd ? ; width
+si_dwYSize dd ? ; height
+si_dwXCountChars dd ? ; console width
+si_dwYCountChars dd ? ; console height
+si_dwFillAttribute dd ? ; console window attributes
+; *** End of console window info
+si_dwFlags dd ? ; option flags, used by CreateProcess
+si_wShowWindow dw ? ; used in first call to ShowWindow
+ dw ? ; cbReserved2
+ dd ? ; lpReserved2
+si_hStdInput dd ? ; standard input handle
+si_hStdOutput dd ? ; standard output handle
+si_hStdError dd ? ; standard error output handle
+STARTUPINFO ends
+
+ .data
+start_info STARTUPINFO <size STARTUPINFO> ; set value in first field
+
+ .code
+ push offset start_info
+ call GetStartupInfo ; void function
+
+ Subsystem version 
+
+With version 4 compilers, Microsoft's IDE automatically
+sets the subsystem version to 4.0 or later. The linker will not
+set this unless you use the /subsystem: option. To get a high
+enough version number, use /SUBSYSTEM:CONSOLE or
+/SUBSYSTEM:WINDOWS. Because of the way our examples were written, 
+the version 6 linker requires the /SUBSYSTEM option. 
+ The Borland linker that comes with TASM 4.0 does not provide
+this capability. Later linkers have a /Vn.n option for setting
+this important value. 
+
+ The subsystem version affects the behavior of Win32 apps. 
+
+ If previous to 4.0, standard Win32 apps will not be started
+by Win9x from the DOS box unless you use the START command.
+Console apps can always be invoked as if they were DOS
+commands. 
+
+ If previous to 4.0, the background colors of standard
+controls will be white (the old style). This is annoying when you
+are building dialog boxes in the new style. 
+
+ Creating an import library from an
+arbitrary DLL 
+
+With the Borland linker, use IMPDEF to create a .DEF file from
+the DLL. Then use IMPLIB to create the import library from the
+.DEF file. 
+
+ With the Microsoft linker, use DUMPBIN /EXPORTS to get a list
+of entry points and their "ordinals". Redirect the output into a
+.DEF file. Change each line with an entry point name to: 
+
+ entryname
+
+Eliminate all other lines. Then add to the beginning of the file:
+
+ LIBRARY dllbasename
+ EXPORTS
+
+Then use LIB /DEF to generate the .LIB file from the editted .DEF
+file. LIB will prepend an underscore, "_", to each entry name.
+Due to the lack of argument information, LIB will not add any
+other characters to the link name. 
+
+ Deadlock theory 
+
+ Deadlock , or the deadly embrace , is a
+condition where processes are waiting forever to
+acquire resources that can't be released. For the
+purposes of deadlock theory, a Win32 thread can be treated as a
+process, and a resource is defined as any allocatable item. 
+ For reasoning about deadlock due to window messaging, it's
+more fruitful to treat each window as a process, and each thread
+as a resource that can cause deadlock. 
+ There are four necessary and sufficient conditions for
+creating deadlocks. 
+
+ Necessary means that all conditions must 
+exist for deadlock to occur. 
+ Sufficient means that when all conditions exist,
+deadlock will occur. 
+
+ According to Tanenbaum [referring to an article by Coffman,
+Elphick & Shoshani], they are: 
+
+ Mutual exclusion condition . Each resource is either
+currently assigned to exactly one process or is available. 
+
+ Hold and wait condition . Processes currently holding
+resources granted earlier can request new resources. 
+
+ No preemption condition . Resources previously granted
+cannot be forcibly taken away from a process. They must be
+explicitly released by the process holding them. 
+
+ Circular wait condition . There must be a circular
+chain of two or more processes, each of which is waiting for a
+resource held by the next member of the chain. 
+
+Brinch Hansen's restatement [of Coffman et al.] may be more
+revealing: 
+
+ Mutual exclusion : A resource can only be acquired by
+one process at a time. 
+
+ Nonpreemptive scheduling : A resource can only be
+released by the process which has acquired it. 
+
+ Partial allocation : A process can acquire its
+resources piecemeal. 
+
+ Circular waiting : The previous conditions permit
+concurrent processes to acquire part of their resources and enter
+a state in which they wait indefinitely to acquire each other's
+resources. 
+
+ Title (caption) bar and Taskbar button
+anomalies 
+
+The standard Win95 title bar (requested either by default or with
+WS_CAPTION) isn't nearly as customizable as the old Win3.1 title
+bar (NT 3.x or 16-bit). If you want the title bar to behave
+better, you'll probably have to draw your own. 
+ When you disable a title bar button, it doesn't necessarily
+disappear. The minimize and maximize buttons disappear as a pair.
+If you disable one and enable the other, both will show and the
+disabled button is grayed. The close (X) button can be disabled
+(grayed) with CS_NOCLOSE, but doesn't appear to be removable.
+
+ Enabling the minimize button will create a Taskbar button,
+but enabling the maximize button won't. 
+ The close button cannot be enabled unless the system menu is
+also enabled. 
+ There is some curious behavior when no system menu and no
+size buttons are specified. When a shortcut is used to start with
+maximized windows, you get a Taskbar button. When the shortcut is
+used to start with minimized windows, you get a "button" that
+doesn't sit in the Taskbar. 
+
+ Documented Win32 functions that
+don't exist 
+
+There are a few official API functions that are converted by C
+macros to equivalent functions with extra arguments. The extra
+arguments are 0 or NULL. 
+
+ CreateWindow, use CreateWindowEx 
+
+ DialogBox, use DialogBoxParam 
+
+ DialogBoxIndirect, use DialogBoxIndirectParam 
+
+ Obsolete Win16 functions 
+
+There are a number of Win16 API functions that either no longer
+exist in Win32, or exist solely for compatibility with Win16
+programming in C. 
+
+ No longer existing 
+
+ GetModuleUsage, was mainly used to wait for other apps to
+end. 
+For this purpose, use CreateProcess, OpenProcess, and GetExitCode
+or WaitForSingleObject. 
+
+ MoveTo, use MoveToEx

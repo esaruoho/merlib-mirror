@@ -1,0 +1,67 @@
+---
+title: "'The Grand' Episode Guide"
+source_domain: amasci.com
+source_path: ~rkj/weekly/aa022600b.htm
+order: 6887
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T05:59:40Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# "The Grand" Episode Guide
+
+*Source page: `~rkj/weekly/aa022600b.htm`*
+
+THE GRAND \> Page [**1**](aa022600a.htm), **2**
+
+***The Grand*** **Episode Guide**
+
+**Season 1**
+
+ITV, April-May 1997.
+
+Episode 1. The hotel reopens after a major remodel, but a New Year's Eve suicide spells financial disaster for the Bannermans.
+
+Episode 2. A pregnant girl appears at the hotel, and there are rumors about the staff accommodations changing.
+
+Episode 3. Stephen dates a former protege of Miss Harkness.
+
+Episode 4. Collins suffers a breakdown, haunted by the death of his son.
+
+Episode 5. Adele's friend runs amok while Sarah mourns a dead child.
+
+Episode 6. Monica dates a guest, Sarah strays after James is bitten by a dog.
+
+Episode 7. Monica gets dumped, Ruth chaffs under Marcus, the staff parties.
+
+Episode 8. Monica meets her fate, Marcus gets married, and Stephen rebels.
+
+**Season 2**
+
+ITV, January-March 1998.
+
+Episode 9. Stephen opens his club with the help of Marcus, Ruth's grandmother arrives.
+
+Episode 10. Lynn appears on stage, Stephen's army buddy is shot.
+
+Episode 11. Ruth loses the baby but keeps it a secret. The girls want to attend a sex education lecture.
+
+Episode 12. Jeffries returns, John reacts to his wife's infidelity.
+
+Episode 13. Marcus takes over the hotel, Kate becomes a Lady's Maid for a Russian madam, staff cuts are made.
+
+Episode 14. Clive gets a promotion, a homosexual guest stays at the hotel, Stephen gets engaged.
+
+Episode 15. Miss Harkness' old flame returns and proposes to her, Ruth gets her baby, Clive wants to unionize.
+
+Episode 16. Miss Harkness and Marcus's partnership meets antagonism, the staff has a rare day out, Christina breaks Stephen's engagement.
+
+Episode 17. Mrs. Harvey quits, Edith West returns, Marcus uses hotel rooms for illicit purposes.
+
+Episode 18. Stephen meets Kate's parents, and Marcus discovers the truth about his son.
+
+**\>** \> Page [**1**](aa022600a.htm), **2**
+
+[**Previous Features**](mpreviss.htm)

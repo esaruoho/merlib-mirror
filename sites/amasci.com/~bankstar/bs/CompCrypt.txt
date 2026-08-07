@@ -1,0 +1,40 @@
+CompCrypt : A System to compress and encrypt files for intra and inter bank exchange 
+
+ Banks 
+ often need to exchange files with : 
+
+ Their Branches 
+
+ Other Banks 
+
+ With Central Banks 
+
+ It 
+ is advisable that the files be exchanged such that they are : 
+
+ Compressed to save transmission time 
+
+ Encrypted to ensure security and integrity 
+
+ CompCrypt 
+ is utility package that assists Commercial Banks in Compressing 
+ and Encrypting the Data Files. 
+ Key 
+ features of the system are: 
+
+ Encryption 
+ To 
+ ensure the Authentication, Integrity, Non-Repudiation and Confidentiality 
+ of files, BankBridge uses highly secure encryption algorithms which 
+ conform to International standards. 
+
+ Compression 
+
+ Standard ASCII files, when compressed, can result in a huge saving in 
+ bandwidth and reliability of transfer. CompCrypt compress files by upto 
+ 95% using a sophisticated compression technology resulting in transfer 
+ times of minutes rather than hours. 
+
+ * 
+ CompCrypt was released in Q4 2001 and is running live at Member 
+ Banks

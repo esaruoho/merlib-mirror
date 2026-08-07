@@ -1,0 +1,513 @@
+SMALLnet post355 
+
+ SMALLnet Posting post355
+
+Date: Sat, 4 Nov 2000 02:35:10 -0600
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet >
+
+...Sorry for the long interval between Postings, gang. My old
+computer has been acting up again the last several days, and
+spoiling my e-mail activity. I've just GOT to get my new system
+set up and running; but haven't been able to find the time and
+ambition to do that yet... [JW]
+
+Harry Stewart < hstewart@jps.net > sent some very bad news:
+
+I thought I had better let you know that I got word that Fred
+Reese died yesterday. He had been diagnosed with cancer earlier
+this year.
+
+If anybody embodied the spirit of SMALL it was Fred. He was
+probably responsible for more designs and kits that were built
+just for the fun of it and flown by average modelers than anybody.
+Fred once told me that he had had over 60 designs published and
+about 40 kitted.
+
+We're all going to miss you, Fred.
+
+Harry Stewart
+
+Mike O'Brien < MObrien843@aol.com > amplifies that:
+
+I am saddened to advise that Fred Reese died November 2, 2000 as
+a result of prostate cancer. Fred was a nice guy and past president
+of the Las Vegas Radio Control Club. He will likely be voted into
+the AMA Hall of Fame.
+
+Fred was the designer, builder, manufacturer and flyer of model
+airplanes of all types and sizes, including many smallsters both
+gas and electric -- up to some classic giants like his Ryan STA.
+We will sorely miss his smile and helpful ways.
+
+Make sure you guys out there get a regular prostate exam! Prostate
+cancer is a preventable and curable disease if caught early.
+
+Mike O'Brien
+
+Don Garry < dongarry@webtv.net > wrote:
+
+I am seriously on the verge of building a model of the Beechcraft
+Model 18 Twin. It will be from an old RCM plan (May 1969) and I
+have the magazine article (and magazine) to go with it, which makes
+it nice. There are enough photos in the article to enable me to
+copy the very beautiful (in my opinion) color scheme shown in
+the magazine picture.
+
+I intend to power the model with Enya .19 Glow engines. (The plan
+calls for .15 to .19 engines.) I have chosen this particular engine
+(Enya) because I can turn the front housing on one of the power plants
+90 degrees to the right in order to achieve a "clockwise" running
+engine. This will enable me to run counter-rotating props on the plane
+and negate any torque problems involved in twin engine operation.
+
+I have 2 questions you guys might help me with. Which engine would
+I install on the left and right wing panels for proper prop wash?
+I would think I should install the normal, counter clockwise rotating
+engine on the right wing panel and the clockwise engine on the left
+wing, yes ... no??? Why?
+
+Secondly, how much "outward" thrust (in degrees) would you suggest
+for each engine. I just read the RCM report on the Hobbico Twinstar
+AWARF. They said it would fly very well with one dead engine mainly
+due to the outward engine thrust built into each engine thrust line,
+but did not say how much outward thrust was incorporated in each pod.
+
+Thanks for any help on this issue of flying twin engine model
+planes. This will be my first twin, have always wanted to do one and
+just love the looks of this C-45. It kind of reminds me of the old
+Sky King days of television! Don
+
+...I replied to Gary on two points. First, VERY FEW multi-engine
+airplanes used counter-rotating props. In a fast but fairly
+thorough search through my full-scale aviation archives I found
+only two twin-engine planes whose propellers didn't spin the same
+way. One was (of course) the P-38. The other was a limited-
+production Luftwaffe ground attack plane made by Henschel.
+
+The second point is that thrust adjustments on most twin-engined
+model airplanes require far more offset to take effect than for
+nose-mounted motors. That's because the twin engines are close to
+the aircraft CG, and therefore have a short "lever arm". [JW]
+
+Don sent in a later submission:
+
+Has any one actually flown any of the Cox Droids or Naboos?
+How do they fly?
+
+I just received my Sig R/C Rascal kit; it looks great and should
+be a blast to build and to fly. The kit has nice wood, plans,
+instruction book, and bunch of hardware, including pushrods.
+
+I bought my Rascal from Ron Ferrer of Armadillo Hobbies at a 
+great price (a good bit cheaper than Tower Hobbies' price).
+
+Also purchased one of Ron's Ferro-Planes (ARTF). This kit is
+hand-built by Ron himself. I could not have picked better wood nor
+built the plane any better myself. And it looks to be a very FUN
+airplane, and quick to get in the air.
+
+If its reputation means anything, it is much more than that: a real
+"hot dog" with a .15 installed. If you want some good small stuff,
+give Ron a call at (877)994-9100. He carries most all of the small
+stuff and will make you a deal that the big Catalog discount houses
+can not beat.
+
+Joe Wagner, tell us some more about the "good old days". This is
+some of the best, most interesting reading on the entire SMALLnet
+in my opinion!! Don
+
+...OK, Don -- next time... [JW]
+
+Ken Brockway < WB2TDG@aol.com > has "Rascal" problems:
+
+I have just started building a Sig "Rascal" and am wondering if
+anyone has found any problems. The wing sheeting doesn't seem to
+align with the plans and the spars are not notched for the ribs at
+the proper places. Also, when assembling the stabilizer, it too
+appears that it is smaller than indicated on the drawings.
+
+I have contacted Sig and they stated that they have not had any
+complaints about their new kit. They did however want better
+details from me as to my problems I am experiencing.
+
+I am wondering if anyone else is having any problems with this kit.
+I have talked briefly with another fellow and he checked his kit and
+found it to be very close to the plans. I have double and triple
+checked and mine seems to be off about a quarter of an inch on the
+spar rib notches. This is a problem if you build it the way stated
+in the building manual. That tells you to glue together the bottom
+wing sheeting and pin to plans, add cap stripping, and glue in the
+spar. Mine does not align with the cap strips.
+
+I would like to thank everyone for making this site possible.
+I very much look forward to reading all the Postings.
+
+Thank You, Ken Brockway AMA5911
+
+...Ken, the trouble you're having isn't new. It results from the
+fact that plans printing has no connection with the balsa-cutting
+process. In the Good Old Days it was common to find dimensional
+differences between model plans and the printed (or die-cut)
+parts, because in the plans-printing process the paper was
+slightly dampened, and shrunk a bit as it dried later.
+
+This wasn't noticeable on ten-cent model plans: those were too
+small for dimensional differences to show up. But on a 6-foot gas
+model there was sometimes a BIG difference! Berkeley's pre-war
+engine-powered free flight kits were particularly bad that way.
+Would you believe a three-inch error in the wingspan? The 
+Berkeley "Custom Cavalier" was off that much.
+
+The thing to bear in mind is that rib position, leading edge sheeting
+width, and details like that make no difference if they vary a little
+from the plan depiction. What DOES matter is the angular relation-
+ships: wing and tail angle of incidence in particular. And those
+seldom vary on printed plans, regardless of "humidity distortions"
+or optical errors inherent in the plans printing method. [JW]
+
+Dave Hill < d-hill@juno.com > offers:
+
+I am a teacher, and I use model sales to supplement my teaching
+income and support my hobby. I bought several (A LOT) of the 
+Cox Naboo Fighters with the intent of removing the engines and 
+offering them for sale. My normal ad runs as follows:
+
+"I have Cox .049 Sure Start engines with spring starter and spinner
+nut for electric starter. The back plate of the engine doubles as
+an engine mount. This engine has a real spraybar and needle valve,
+which allows you to choose your own desired size fuel tank.
+
+"I believe the piston and cylinder, case, and crankshaft for this
+engine are the same as for the Cox Texaco. These engines are new,
+complete with instructions. $18.20 each shipped, or two for
+$33.20 shipped."
+
+There has been some talk here on SMALLnet of finding manu-
+facturing chips in the Cox engines. If anyone would like for me to 
+remove the backplate from an engine and flush and clean for chips 
+before purchase, I would do that. I work cheap :-). I am an Airframe 
+and Powerplant mechanic with FAA Inspection Authorization and 
+I teach aircraft engine overhaul at the local community college. 
+I think this should make me over-qualified for disassembly of one of 
+these engines. Please respond by e-mail to me. I use PayPal.
+
+I also have Cox Naboo Fighters with and without engines. If anyone
+is interested, contact me for prices.
+
+Regards, Dave Hill
+
+Ken Park < k.d.park@sympatico.ca > announces:
+
+The Mosquito Club up in Ottawa Canada are hard at it! Last year
+we began a winter building project to get more people started in
+SMALL. This year we are doing it again, but this time we are using
+our own designer: Mark Winstanley! His idea for this year was the
+Cassutt. I am proud to say we are now into phase 2 of development,
+and we now need you! to sign up for the fun!
+
+Go to: < http://www3.sympatico.ca/k.d.park/Cassuttpage.htm > and see 
+what it's all about.
+
+(Captions for two of the photos follow: SMALLnet has no graphic
+e-mail capabilities.) "The Cassutt is brought to you by our very
+own designer Mark Winstanley and Project Manager Ken Park. 
+This project is open to everyone near and far. Shipping is no 
+problem; last year we sent kits all over Canada and the US of A."
+
+"It's with great excitement and pleasure we feel we have chosen a
+model that will offer everyone the fun and performance of a real
+winner. The Cassutt is a sport Scale rendition of a Formula One
+Racing plane as seen at "Reno" every year. The Cassutt is a fast
+and groovy little plane that's been around since the 1950's in one
+form or another. The real plane continues to be extremely
+competitive. Most Cassutt pilots fly them at air shows when they're
+not racing. It's fully aerobatic and it should thrill your thumbs
+to fly. The size of our model should fall in the range for 1/4
+Midget Racing with a stock 0.15 engine. But there's plenty of
+room for a fire-breathing 0.25 FX under that cowl."
+
+Greg Green < g.agreen@lightdog.com > inquires:
+
+ Source: Fabric, polycarbonate ripstop by Icarex 
+
+Just wanted to find out if anyone has any experience with
+polycarbonate ripstop fabric by Icarex. This fabric is 1/2 ounce
+per yard, is 41" wide, comes in 31 different colors and is $8.95
+per yard.
+
+I have talked to the lady there (she will send you a sample of the
+fabric if you want a closer look) and she tells me that it is fuel
+proof and heat shrinkable -- and is being used by model flyers
+with success. The link is:
+< http://www.citystar.com/hang-em-high/ushop/index.cgi?ID=3DS6YNZV&task=3Ds=how&cat=3DFABRIC >.
+
+Look for the number 12PCxxx. I will be building a few new models
+this winter and plan on trying out this new fabric. If anyone wants
+an update on how it goes just let me know. Greg
+
+Dave Moellenkamp < Djsmoe@aol.com > wrote:
+
+I am interested in building a real slow-flying trainer. Does anyone
+have suggestions other than the Butterfly or powered Gentle Lady?
+
+I would like a plane of considerable size (not a park flyer). It must
+be a three-channel model. I notice Randy Randolph has designed some
+with these specifications. Does anybody have a contact for him?
+
+Also I noticed a Lazy Cub kit the hobby shop last night. Looks like a
+Lazy Bee!! Any experience with this one?? The slow-flying trainers
+seem to be difficult to find in kit form. Would like to know sources
+if anybody knows of some, or has had experience with a particular kit.
+
+Thanks, Dave Moellenkamp
+
+...Dave, I recommend Randy's "Twilighter"! That was Model Airplane
+News' most popular full-size plan for about four years running, and
+they still have it available. As for contacting Randy, see the
+next submission. [JW]
+
+Randy Randolph < randyranman@juno.com > wonders:
+
+Has anyone out there ever built a Scientific Varsity? That design
+came out just before WW2 and has been almost totally forgotten.
+Shame, it was a good looking airplane.
+
+Randy
+
+Andre Landrum < rcflyer@netdoor.com > asked:
+
+Who makes an engine mount that fits the C*x .074 Queen Bee with
+the R/C carb mounted on the back? Would have to be a L O N G
+mount. Thanks, Andre
+
+...Andre, C*x used to make a mount for that engine, which they
+also USED to make. Both are extinct now, but you MAY be able
+to find a mount at an older-type hobby shop. [JW]
+
+The Wormwood SMALLster < Matlasg@aol.com > inquires:
+
+Does anyone out there have any ideas or experience on the possibility
+of mounting a ducted fan unit -- maybe a small electric type -- to a
+Norvel .061 with the heat sink and throttle system from a Lite
+Machine 110, in order to get a small I/C ducted fan with throttle
+control? Any ideas???
+
+I'm into experimenting with a small I/C ducted fan, perhaps even
+powered by a Cox TD .020 with a throttle sleeve.
+
+Thanks, Wormwood SMALLster
+
+John Rossetti < jyuma@axxent.ca > suggests:
+
+Mike Monosky is looking for some retracts using 1/8" wire for
+legs, etc. While I no longer have them, if I am not mistaken,
+Goldberg Models used to offer a set of mechanical, servo-operated
+retracts, nose and mains, at a reasonable cost. I'm sure with a
+little effort he could locate some of these.
+
+Happy landings, John Rossetti
+
+Gary Gullikson < garyg@oc-net.com > reports:
+
+I converted an old Comet Aeronca kit a number of years ago. Made
+removable wings with functional struts, rudder, and elevator,
+beefed up landing gear and mounting, Cox .049 with Tarno carb,
+"mini" servos; filled in nose to rear former in cabin with 1/32"
+balsa sheet. Sheeted leading edge of flimsy wing, Silkspan and dope
+paint. Tried to keep it light. .049 was not enough power, needed
+.099-10, probably due to weight and drag. Also the 6x3 prop was
+blanked by large cowl. Besides, the wing was not very thick which
+probably hurt lift. A skilled freeflighter could probably make the
+big Comet T-Craft and Aeronca kits fly well, but I agree with
+the other suggestion of the "Piece o' Cake" or "Butterfly" powered
+glider plane as a good beginner self-taught R/C flying subject.
+
+Once again thanks to SMALLsters who gave me recommendations. 
+I bit the bullet and acquired a Titanic Airlines GD280, two 270 mAh 
+NiMh 8-cell packs, Pixie 14 ESC, three Hitec HS-55 servos, an 
+AstroFlight 110D charger and a Pyramid 10 Amp power supply; plus 
+Nick Ziroli's new short kit for the MAN Aeronca Champ, DB Lite 
+wheels, and a bunch of Litespan. Also got a 400/Mini Olympus gear 
+drive and Modelair Tech Stickota (Dakota) plans and 600 mAh NiMh 
+pack for later.
+
+I cut out the formers, ribs, etc. for the Aeronca yesterday.
+I will cut stringers and strip wood with a Master Airscrew M4000
+today and start assembly.
+
+I made contact with a soaring/e-power club flying legally at El
+Dorado Park in Long Beach California and will join. Also contacted
+a new flying buddy in my neighborhood.
+
+I've gotten a lot of good advice from discussion groups on the
+E-Zone. Also "The Future is Electric" was highly recommended as
+an information source. Gary Gullikson, Garden Grove, California
+
+...CONSIDERABLE response came in about starting Cox engines, 
+from the query on that topic in the previous Posting:
+
+Tom Pearson < ShooterTom@aol.com > asserts:
+
+I started building 1/2A planes again when a buddy and I got
+interested in the AMA endurance event where you use a modified
+glider with a Cox in the nose.
+
+Starting was a problem as the Cox plug clip is an abomination.
+Someone was making a Head-Lock type plug connector (this was 4-5
+years ago) that I ordered from the Tower Catalog. It has a push
+button release for the mechanism that grips the center electrode of
+the plug and comes with pretty heavy gauge wire (16-18 gage ?).
+
+Since I use a 2-Volt D size lead acid cell for starting larger
+engines, using a fairly long lead from the battery to the Head
+Lock connector, I rigged up something similar for the 1/2A connector.
+
+The Cox or Nelson plugs glow a very bright red and light off the
+engine nearly instantly -- which a Nicad or alkaline cell will
+not do. Tom Pearson
+
+...Tom, I've been using the McDaniel 1/2A plug connector myself
+ever since they first came out. But I had troubles with it after
+some use, and took it apart to find out why.
+
+The wires were only friction-clamped to the electrodes! Oil had
+crept in there and reduced the conductivity quite a bit. I soldered
+the connections, and have had no difficulty since. [JW]
+
+David Larkin < dslarkin@blvl.igs.net > says:
+
+The best method I have found for 'energizing' Cox glow heads is to
+use a Head Lock Half-A adaptor attached to a standard Nistarter
+unit, like those sold by Head Lock or McDaniel. You get a reliable
+connection and a quick start.
+
+And, in comparison to the results when one uses power panel systems,
+the glow heads last virtually indefinitely. Yes, I know power panels
+can be adjusted, but even when properly adjusted they tend to reduce
+plug life and performance. (The tip on power panels comes from Neil
+Tidey, the LASER engine designer, and he's absolutely right.)
+
+Dave Larkin
+
+...Duke Fox also decried the use of Power Panels. I never use them
+myself -- because all the ones I have ever seen send pulses of 12
+volts to the plug. "Yes, but those pulses are spaced so that the
+current flow to the plug is within a safe range!" claim the Power
+Panel fans.
+
+Yes -- according to the panel meter that's true. But anyone who
+doubts that the plug element feels the pulses of high voltage
+should point an optical tachometer at a 100-watt light bulb. The
+human eye can't see the flicker caused by voltage (and current)
+variation at 120 Hz (I know that it's "60-cycle" power; however,
+single-phase AC passes through the zero point twice per cycle) --
+but the tach proves that the filament brightens and darkens.
+
+Well, the same thing happens to a Power Panel-energized glow
+plug. Duke Fox used to pass around photomicrographs of a plug
+element that had been lit with a Power Panel, but hadn't yet
+failed. After looking at those photos, I wasn't about to
+place any wagers as to how many more starts that plug would
+provide... [JW]
+
+Jim Rundle < jrr10@cornell.edu > wrote:
+
+Regarding the discussion on starting batteries, I have used alkaline
+cells for years for both Cox and standard glow plugs and I think
+they are great for that purpose. My habit has always been to use
+two D or C cells in parallel -- maybe that's why it works for me.
+
+I take off about 1 1/2 - 2 inches of insulation from the glow plug
+wire to bridge the two batteries. I clean the battery ends with
+sandpaper and rubbing alcohol and solder each the wire to the
+battery ends (one wire positive to positive and the other negative
+to negative). Then I wrap it all up with strapping tape, with a
+bit of the wires taped up separately for strain relief.
+
+Every two years I take off the tape and replace the batteries --
+whether they need it or not. Once when I did a lot of flying I
+replaced them after one season. In between, I get perfect glow
+lighting every time. I don't have to recharge, it's cheap, and
+it's 1.5 volts instead of 1.2.
+
+I don't know why I've always used two cells, but I do know my
+alkaline battery packs are one of the few things I've done with
+airplanes that has never failed me. Jim
+
+Roy S Bourke < roybourke@juno.com > contributed:
+
+Re: shortening an antenna, I believe the problem aircraft was a
+Shrike. Isn't a Shrike virtually a flying wing? Why not just run
+the antenna through one of the wings, even if you have to double it
+back a bit?
+
+Re: Cox glow plugs, they are 2 volt plugs. A Nicad delivers only
+1.25 volts or so and an alkaline delivers 1.5 volts. Because the
+nicad has the capability of delivering a high current, it usually
+works well enough. But if you really want to light the plug, use a
+2 volt lead/acid cell. I would suggest the Gates Xcel sealed
+rechargeable cell. They have a high capacity and excellent current
+delivery. You can also drop the voltage down a bit from 2 volts
+with a high-power (15 Watts or so) adjustable resistor in the line
+(1/2 ohm or less), but it's not really necessary. Roy
+
+Larry Renger < larry_renger@earthlink.net > was Chief Engineer 
+for the old Cox Hobbies outfit in California, and tells us:
+
+As far as I know, C*x plugs will go to Platinum heaven on 2 volts.
+Now, with the old, undersize C*x wire that was in use up till I
+found out about it, you probably could use that voltage. But, with
+good clips and wire, you will have a short, and not even very merry
+life with anything over 1.5 volts.
+
+Do not use stock C*x wires on their clips. They vary all over the
+map and will most likely cause lousy ignition, but if you pump up
+the volts, you may crisp the plug. Rewire the clips and use NiCd
+or Alkaline power as below.
+
+Recommend: 2 to 4 Alkaline D cells soldered into a parallel battery
+pack. Use lamp cord of about 12 to 18 inch length, and then the
+clip of your choice. I love the ones from Bear, but the DuBro or
+even rewired C*x clips will work well. Larry
+
+David Felin < dfelin@otc.cc.mo.us > suggests:
+
+This is in response to Keith Luneau's comments in posting #354
+concerning Cox glow heads. Keith, you might want to try a Norvel
+glow head. The Norvel head threads right on to the TD and reed-
+valve .049 engines. I assume it will fit the .051 also but I've never 
+tried. You can then attach a standard Ni-Cad glow heater directly 
+to the Norvel head and do away with the wires and clips altogether. 
+
+I've had good luck with this setup on my TD. The Norvel head 
+doesn't seem to cost the engine any rpms.
+
+If you order the Norvel glow head and clamping ring (you'll need
+both parts, the clamping ring is permanent while the glow head is
+replaced when it burns out) pick up some of Norvel's head gaskets.
+They fit the Cox engines also. I like to run two head gaskets for
+a total clearance of around 0.012 inch. It's been my experience
+that the 1/2As are tricky to start and tune if the compression is
+maxed out.
+
+Norvel also makes a nifty little 1/2 ounce tank mount which fits the
+TDs and Medallions like a glove. I believe their web address is
+< http://www.norvel.com >. If you order online they only charge $2.50 for
+shipping, which is nice. Good luck. David
+
+Al Clark < aclark@hiwaay.net > asks:
+
+Anyone got a useable set of Bel-Aire .40 Biplane plans, in one
+piece, they would be willing to part with for a reasonable fee?
+I'm considering scaling it down for a Thunder Tiger GP-07. Al
+
+...There's a bit more in the "In" box tonight, but it will have to
+wait until tomorrow. [JW]
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

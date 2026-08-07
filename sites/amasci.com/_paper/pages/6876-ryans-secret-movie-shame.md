@@ -1,0 +1,34 @@
+---
+title: "Ryan's Secret Movie Shame"
+source_domain: amasci.com
+source_path: ~rkj/vixens.html
+order: 6876
+reachable_from_entry: false
+images: 1
+internal_links: 1
+extracted: 2026-08-07T05:59:40Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Ryan's Secret Movie Shame
+
+*Source page: `~rkj/vixens.html`*
+
+# Ryan's Secret Movie Shame
+
+------------------------------------------------------------------------
+
+Although I had nothing to do with making it, I must confess that there is a movie available that I appear in that is my Secret Shame. It's called **Revenge of the Teenage Vixens from Outer Space**, a 1985 feature-length movie made in Seattle by Michelle Licter and Jeff Farrell. This movie is available on home video (Continental 1083V -- though it may be out of print now), and turns up frequently on the USA network's *Gilbert Gottfried's Up All Night*. Somewhere near the end of the movie I appear, in all my 18-year-old glory, as "The Poor Sap" who tries to pick up on the antagonist's girlfriend and then gets to watch as the bully is punched out by the movie's hero. I don't have any lines but I do get some close-ups and am referred to in the dialog. Despite the success Michelle and Jeff had with the movie (Michelle is now a successful screenwriter living in Los Angeles), I *really* wish this movie had never come out. People I barely know have rented *Space Vixens* and then recognize me in the movie. It's *so* embarrassing.
+
+So just remember, kids, always be careful about whose project you appear in. It might come back to haunt you. (Little known fact: While I was living in England in 1993, I came across a copy of *Teenage Vixens* in a video rental-return shop in Oxford Street in London on sale for five pounds. Imagine my surprise. What was even more surprising was when I reported this back to Michelle who told me, "That's funny, we never sold the overseas rights to the movie. It's a bootleg!" Who'd a thunk it?)
+
+#### Credits:
+
+*Revenge of the Teenage Vixens from Outer Space*\
+83 minutes. 16mm film. Filmed throughout 1980, released 1985.\
+*Cast. . .* Lisa Schwedop, Howard Scott, Amy Crumpacker, Sterling Ramberg, Julian Schembri.\
+Written by Michelle Licter and Jeff Ferrell, Produced by Michelle Licter, Directed by Jeff Ferrell.\
+
+------------------------------------------------------------------------
+
+[<img src="ryan1.jpg" width="40" height="48" />Back to Ryan's Homepage](index.html)

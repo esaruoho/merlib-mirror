@@ -1,0 +1,4495 @@
+<HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Created on October, 31  2001 by texi2html 1.64 -->
+<!-- 
+Written by: Lionel Cons <Lionel.Cons@cern.ch> (original author)
+            Karl Berry  <karl@freefriends.org>
+            Olaf Bachmann <obachman@mathematik.uni-kl.de>
+            and many others.
+Maintained by: Olaf Bachmann <obachman@mathematik.uni-kl.de>
+Send bugs and suggestions to <texi2html@mathematik.uni-kl.de>
+ 
+-->
+<HEAD>
+<TITLE>Algae: Standard Functions</TITLE>
+
+<META NAME="description" CONTENT="Algae: Standard Functions">
+<META NAME="keywords" CONTENT="Algae: Standard Functions">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META NAME="Generator" CONTENT="texi2html 1.64">
+
+</HEAD>
+
+<BODY LANG="" BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080" ALINK="#FF0000">
+
+<A NAME="SEC36"></A>
+<TABLE CELLPADDING=1 CELLSPACING=1 BORDER=0>
+<TR><TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_5.html#SEC35"> &lt;&lt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_7.html#SEC47"> &gt;&gt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae.html#SEC_Top">Top</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_toc.html#SEC_Contents">Contents</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57">Index</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_abt.html#SEC_About"> ? </A>]</TD>
+</TR></TABLE>
+
+<HR SIZE=2>
+<h1><img src="icon.gif" alt="">  6. The Standard Functions </H1>
+<!--docid::SEC36::-->
+<P>
+
+Functions are called by giving their name followed by a parenthesized
+list of their arguments.  For example, <CODE>sqrt(a)</CODE> computes the
+square root of its argument <SAMP>`a'</SAMP>.  The parentheses are required,
+whether they contain any arguments or not.  Functions may take more than
+one number and kind of argument.</P><P>
+
+<BLOCKQUOTE><TABLE BORDER=0 CELLSPACING=0> 
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_6.html#SEC37">6.1 Basic Math</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP">abs, sin, sqrt, ...</TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_6.html#SEC38">6.2 Arrays</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP">fill, sparse, zero, ...</TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_6.html#SEC39">6.3 Sets</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP">union, intersection, ...</TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_6.html#SEC40">6.4 Linear Algebra</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP">solve, factor, fft, ...</TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_6.html#SEC41">6.5 Numerical Analysis</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP">ode, brent, ...</TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_6.html#SEC42">6.6 Basic I/O</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP">read, printf, ...</TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_6.html#SEC43">6.7 Entity I/O</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP">get, put, ...</TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_6.html#SEC44">6.8 Execution</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP">source, system, ...</TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_6.html#SEC45">6.9 Special Tools</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP">plot, npsol, ...</TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_6.html#SEC46">6.10 Miscellaneous</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP">who, what, time, ...</TD></TR>
+</TABLE></BLOCKQUOTE>
+<P>
+
+<A NAME="Basic Math"></A>
+<HR SIZE="6">
+<A NAME="SEC37"></A>
+<H2> 6.1 Basic Math </H2>
+<!--docid::SEC37::-->
+<P>
+
+<A NAME="abs"></A>
+</P><P>
+
+<A NAME="IDX172"></A>
+<A NAME="IDX173"></A>
+<A NAME="IDX174"></A>
+<DL>
+<DT><U>Function:</U> <B>abs</B> <I>( x )</I>
+<DD>The <CODE>abs</CODE> function returns the absolute value of its numeric
+argument.  "Absolute value" is synonymous with "magnitude" for
+complex types.  If <VAR>x</VAR> is non-scalar, every element is replaced by
+its absolute value.</P><P>
+
+<CODE>x</CODE> must be a numeric scalar, vector, or matrix.
+</DL>
+</P><P>
+
+<A NAME="acos"></A>
+</P><P>
+
+<A NAME="IDX175"></A>
+<A NAME="IDX176"></A>
+<A NAME="IDX177"></A>
+<DL>
+<DT><U>Function:</U> <B>acos</B> <I>( x )</I>
+<DD>The <CODE>acos</CODE> function returns the arc cosine of its numeric
+argument.  If it's argument is complex or has a magnitude greater than
+one, then the result is complex.  Otherwise, the result is real.  If
+<VAR>x</VAR> is non-scalar, every element is replaced by its arc
+cosine.</P><P>
+
+The argument <VAR>x</VAR> must be a numeric scalar, vector, or matrix.</DL>
+</P><P>
+
+<A NAME="acosh"></A>
+</P><P>
+
+<A NAME="IDX178"></A>
+<A NAME="IDX179"></A>
+<A NAME="IDX180"></A>
+<A NAME="IDX181"></A>
+<DL>
+<DT><U>Function:</U> <B>acosh</B> <I>( x )</I>
+<DD>The <CODE>acosh</CODE> function returns the hyperbolic arc cosine of its
+numeric argument.  If it's argument is complex or is less than 1.0, then
+the result is complex.  Otherwise, the result is real.  If <VAR>x</VAR> is
+non-scalar, every element is replaced by its hyperbolic arc cosine.</P><P>
+
+The argument <VAR>x</VAR> must be a numeric scalar, vector, or matrix.  Note
+that <CODE>acosh(0)</CODE> is not zero, so if <CODE>acosh</CODE> is applied to a
+sparse vector or matrix, then a dense array is the result.</DL>
+</P><P>
+
+<A NAME="arg"></A>
+</P><P>
+
+<A NAME="IDX182"></A>
+<A NAME="IDX183"></A>
+<A NAME="IDX184"></A>
+<DL>
+<DT><U>Function:</U> <B>arg</B> <I>( z )</I>
+<DD>The <CODE>arg</CODE> function returns the argument (phase angle) of its
+numeric argument.</P><P>
+
+See also <CODE>abs</CODE>.
+</DL>
+</P><P>
+
+<A NAME="asin"></A>
+</P><P>
+
+<A NAME="IDX185"></A>
+<A NAME="IDX186"></A>
+<DL>
+<DT><U>Function:</U> <B>asin</B> <I>( x )</I>
+<DD>The <CODE>asin</CODE> function returns the arc sine of its numeric argument.
+If it's argument is complex or has a magnitude greater than one, then
+the result is complex.  Otherwise, the result is real.  If <VAR>x</VAR> is
+non-scalar, every element is replaced by its arc sine.</P><P>
+
+The argument <VAR>x</VAR> must be a numeric scalar, vector, or matrix.</DL>
+</P><P>
+
+<A NAME="asinh"></A>
+</P><P>
+
+<A NAME="IDX187"></A>
+<A NAME="IDX188"></A>
+<A NAME="IDX189"></A>
+<A NAME="IDX190"></A>
+<DL>
+<DT><U>Function:</U> <B>asinh</B> <I>( x )</I>
+<DD>The <CODE>asinh</CODE> function returns the hyperbolic arc sine of its numeric
+argument.  If <VAR>x</VAR> is non-scalar, every element is replaced by its
+hyperbolic arc sine.</P><P>
+
+The argument <VAR>x</VAR> must be a numeric scalar, vector, or matrix.</DL>
+</P><P>
+
+<A NAME="atan"></A>
+</P><P>
+
+<A NAME="IDX191"></A>
+<A NAME="IDX192"></A>
+<A NAME="IDX193"></A>
+<DL>
+<DT><U>Function:</U> <B>atan</B> <I>( x )</I>
+<DD>The <CODE>atan</CODE> function returns the arc tangent of its numeric
+argument.  If it's argument is complex, then the result is complex.
+Otherwise, the result is real.  If <VAR>x</VAR> is non-scalar, every element
+is replaced by its arc tangent.</P><P>
+
+The argument <VAR>x</VAR> must be a numeric scalar, vector, or matrix.
+</DL>
+</P><P>
+
+<A NAME="atanh"></A>
+</P><P>
+
+<A NAME="IDX194"></A>
+<A NAME="IDX195"></A>
+<A NAME="IDX196"></A>
+<A NAME="IDX197"></A>
+<DL>
+<DT><U>Function:</U> <B>atanh</B> <I>( x )</I>
+<DD>The <CODE>atanh</CODE> function returns the hyperbolic arc tangent of its
+numeric argument.  If it's argument is complex or has magnitude greater
+than 1.0, then the result is complex.  Otherwise, the result is real.
+If <VAR>x</VAR> is non-scalar, every element is replaced by its hyperbolic
+arc tangent.</P><P>
+
+The argument <VAR>x</VAR> must be a numeric scalar, vector, or matrix.
+</DL>
+</P><P>
+
+<A NAME="atan2"></A>
+</P><P>
+
+<A NAME="IDX198"></A>
+<DL>
+<DT><U>Function:</U> <B>atan2</B> <I>( y; x )</I>
+<DD>The <CODE>atan2</CODE> function computes an angle corresponding to <VAR>y</VAR> and
+<VAR>x</VAR>, the lengths of the opposite and adjacent sides.  This is
+similar to <CODE>atan(y/x)</CODE>, but with these differences:</P><P>
+
+<UL>
+<LI>
+The signs of <VAR>y</VAR> and <VAR>x</VAR> are used to determine the quadrant in
+which the angle lies.  The angle returned is in the range -pi to
+pi.<P>
+
+<LI>
+The argument <VAR>x</VAR> may be zero, as long as <VAR>y</VAR> is nonzero.  This
+is different than <CODE>atan(y/x)</CODE>, because it avoids division by
+zero.</UL>
+<P>
+
+The arguments must be numeric scalars, vectors, or matrices.</DL>
+</P><P>
+
+<A NAME="ceil"></A>
+</P><P>
+
+<A NAME="IDX199"></A>
+<A NAME="IDX200"></A>
+<DL>
+<DT><U>Function:</U> <B>ceil</B> <I>( x )</I>
+<DD>The <CODE>ceil</CODE> function returns the ceiling of its numeric argument.
+The ceiling of <VAR>x</VAR> is the smallest integer that is not less than
+<VAR>x</VAR>.  If <VAR>x</VAR> is complex, the ceiling is applied to both real and
+imaginary parts.  If <VAR>x</VAR> is non-scalar, every element is replaced by
+its ceiling.  The type of <VAR>x</VAR> is not changed by <CODE>ceil</CODE>.</P><P>
+
+<VAR>x</VAR> must be a numeric scalar, vector, or matrix.
+</DL>
+</P><P>
+
+<A NAME="conj"></A>
+</P><P>
+
+<A NAME="IDX201"></A>
+<A NAME="IDX202"></A>
+<A NAME="IDX203"></A>
+<DL>
+<DT><U>Function:</U> <B>conj</B> <I>( x )</I>
+<DD>The <CODE>conj</CODE> function returns the complex conjugate of its numeric
+argument.  If <VAR>x</VAR> is non-scalar, every element is replaced by its
+complex conjugate.</P><P>
+
+<VAR>x</VAR> must be a numeric scalar, vector, or matrix.
+</DL>
+</P><P>
+
+<A NAME="cos"></A>
+</P><P>
+
+<A NAME="IDX204"></A>
+<A NAME="IDX205"></A>
+<DL>
+<DT><U>Function:</U> <B>cos</B> <I>( x )</I>
+<DD>The <CODE>cos</CODE> function returns the cosine of its numeric argument.  If
+<VAR>x</VAR> is non-scalar, every element is replaced by its cosine.</P><P>
+
+<VAR>x</VAR> must be a numeric scalar, vector, or matrix.
+</DL>
+</P><P>
+
+<A NAME="cosh"></A>
+</P><P>
+
+<A NAME="IDX206"></A>
+<A NAME="IDX207"></A>
+<DL>
+<DT><U>Function:</U> <B>cosh</B> <I>( x )</I>
+<DD>The <CODE>cosh</CODE> function returns the hyperbolic cosine of its numeric
+argument.  If <VAR>x</VAR> is non-scalar, every element is replaced by its
+hyperbolic cosine.</P><P>
+
+<VAR>x</VAR> must be a numeric scalar, vector, or matrix.
+</DL>
+</P><P>
+
+<A NAME="exp"></A>
+</P><P>
+
+<A NAME="IDX208"></A>
+<A NAME="IDX209"></A>
+<DL>
+<DT><U>Function:</U> <B>exp</B> <I>( x )</I>
+<DD>The <CODE>exp</CODE> function returns the exponential of its numeric argument.
+If <VAR>x</VAR> is non-scalar, every element is replaced by its
+exponential.</P><P>
+
+<VAR>x</VAR> must be a numeric scalar, vector, or matrix.
+</DL>
+</P><P>
+
+<A NAME="floor"></A>
+</P><P>
+
+<A NAME="IDX210"></A>
+<A NAME="IDX211"></A>
+<DL>
+<DT><U>Function:</U> <B>floor</B> <I>( x )</I>
+<DD>The <CODE>floor</CODE> function returns the floor of its numeric argument.
+The floor of <VAR>x</VAR> is the largest integer that is not greater than
+<VAR>x</VAR>.  If <VAR>x</VAR> is complex, the floor is applied to both real and
+imaginary parts.  If <VAR>x</VAR> is non-scalar, every element is replaced by
+its floor.  The type of <VAR>x</VAR> is not changed by <CODE>floor</CODE>.</P><P>
+
+<VAR>x</VAR> must be a numeric scalar, vector, or matrix.
+</DL>
+</P><P>
+
+<A NAME="imag"></A>
+</P><P>
+
+<A NAME="IDX212"></A>
+<A NAME="IDX213"></A>
+<DL>
+<DT><U>Function:</U> <B>imag</B> <I>( x )</I>
+<DD>The <CODE>imag</CODE> function returns the imaginary part of its numeric
+argument.  If <VAR>x</VAR> is non-scalar, every element is replaced by its
+imaginary part.  The value returned by <CODE>imag</CODE> has real type.</P><P>
+
+See also <CODE>real</CODE>.
+</DL>
+</P><P>
+
+<A NAME="integer"></A>
+</P><P>
+
+<A NAME="IDX214"></A>
+<DL>
+<DT><U>Function:</U> <B>integer</B> <I>( x )</I>
+<DD>The <CODE>integer</CODE> function converts the real part of its numeric
+argument to integer type, rounding it if necessary.</P><P>
+
+See also <CODE>round</CODE>.
+</DL>
+</P><P>
+
+<A NAME="log"></A>
+</P><P>
+
+<A NAME="IDX215"></A>
+<A NAME="IDX216"></A>
+<DL>
+<DT><U>Function:</U> <B>log</B> <I>( x )</I>
+<DD>The <CODE>log</CODE> function returns the natural logarithm of its numeric
+argument.  If <VAR>x</VAR> is non-scalar, every element is replaced by its
+logarithm.</P><P>
+
+<VAR>x</VAR> must be a numeric scalar, vector, or matrix.
+</DL>
+</P><P>
+
+<A NAME="log10"></A>
+</P><P>
+
+<A NAME="IDX217"></A>
+<DL>
+<DT><U>Function:</U> <B>log10</B> <I>( x )</I>
+<DD>The <CODE>log10</CODE> function returns the base-10 logarithm of its numeric
+argument.  If <VAR>x</VAR> is non-scalar, every element is replaced by its
+base-10 logarithm.</P><P>
+
+<VAR>x</VAR> must be a numeric scalar, vector, or matrix.
+</DL>
+</P><P>
+
+<A NAME="real"></A>
+</P><P>
+
+<A NAME="IDX218"></A>
+<A NAME="IDX219"></A>
+<DL>
+<DT><U>Function:</U> <B>real</B> <I>( x )</I>
+<DD>This function returns the real part of <VAR>x</VAR>.  The value returned by
+<CODE>real</CODE> has real type.</P><P>
+
+See also <CODE>imag</CODE>.
+</DL>
+</P><P>
+
+<A NAME="round"></A>
+</P><P>
+
+<A NAME="IDX220"></A>
+<A NAME="IDX221"></A>
+<DL>
+<DT><U>Function:</U> <B>round</B> <I>( x )</I>
+<DD>The <CODE>round</CODE> function rounds its numeric argument to the nearest
+whole number.  If <VAR>x</VAR> is complex, both real and imaginary parts are
+rounded.  If <VAR>x</VAR> is non-scalar, every element is rounded.  The type
+of <VAR>x</VAR> is not changed by <CODE>round</CODE>.</P><P>
+
+If Algae has been compiled to use the system's rint(3m) function, then
+arguments with a fractional part of exactly 1/2 are rounded to the
+nearest even whole number.  Otherwise, such arguments are rounded
+towards +infinity.</P><P>
+
+See also <CODE>integer</CODE>.
+</DL>
+</P><P>
+
+<A NAME="sin"></A>
+</P><P>
+
+<A NAME="IDX222"></A>
+<A NAME="IDX223"></A>
+<DL>
+<DT><U>Function:</U> <B>sin</B> <I>( x )</I>
+<DD>The <CODE>sin</CODE> function returns the sine of its numeric argument.  If
+<VAR>x</VAR> is non-scalar, every element is replaced by its sine.</DL>
+</P><P>
+
+<A NAME="sinh"></A>
+</P><P>
+
+<A NAME="IDX224"></A>
+<A NAME="IDX225"></A>
+<DL>
+<DT><U>Function:</U> <B>sinh</B> <I>( x )</I>
+<DD>The <CODE>sinh</CODE> function returns the hyperbolic sine of its numeric
+argument.  If <VAR>x</VAR> is non-scalar, every element is replaced by its
+hyperbolic sine.</DL>
+</P><P>
+
+<A NAME="sqrt"></A>
+</P><P>
+
+<A NAME="IDX226"></A>
+<A NAME="IDX227"></A>
+<DL>
+<DT><U>Function:</U> <B>sqrt</B> <I>( x )</I>
+<DD>The <CODE>sqrt</CODE> function returns the square root of its numeric
+argument.  If <VAR>x</VAR> is complex or negative, then the result is
+complex.  Otherwise, the result is real.  If <VAR>x</VAR> is non-scalar,
+every element is replaced by its square root.</DL>
+</P><P>
+
+<A NAME="tan"></A>
+</P><P>
+
+<A NAME="IDX228"></A>
+<A NAME="IDX229"></A>
+<DL>
+<DT><U>Function:</U> <B>tan</B> <I>( x )</I>
+<DD>The <CODE>tan</CODE> function returns the tangent of its numeric argument.  If
+<VAR>x</VAR> is non-scalar, every element is replaced by its tangent.</DL>
+</P><P>
+
+<A NAME="tanh"></A>
+</P><P>
+
+<A NAME="IDX230"></A>
+<A NAME="IDX231"></A>
+<DL>
+<DT><U>Function:</U> <B>tanh</B> <I>( x )</I>
+<DD>The <CODE>tanh</CODE> function returns the hyperbolic tangent of its numeric
+argument.  If <VAR>x</VAR> is non-scalar, every element is replaced by its
+hyperbolic tangent.</DL>
+</P><P>
+
+<A NAME="Arrays"></A>
+<HR SIZE="6">
+<A NAME="SEC38"></A>
+<H2> 6.2 Arrays </H2>
+<!--docid::SEC38::-->
+<P>
+
+<A NAME="band"></A>
+</P><P>
+
+<A NAME="IDX232"></A>
+<A NAME="IDX233"></A>
+<A NAME="IDX234"></A>
+<DL>
+<DT><U>Function:</U> <B>band</B> <I>( m; flag )</I>
+<DD>The <CODE>band</CODE> function computes the upper and lower bandwidths and
+profiles of the square matrix <VAR>m</VAR>.  The row bandwidth of a
+particular row is the number of elements to the left of the diagonal in
+that row, but not including any consecutive zero elements at the
+beginning of that row.  Likewise, the column bandwidth of a particular
+column is the number of elements above the diagonal in that column, but
+not including any consecutive zero elements at the beginning of that
+column.  Notice that, for a diagonal matrix, all row and column
+bandwidths are zero.  The lower bandwidth is the largest of all the row
+bandwidths, and the upper bandwidth is the largest of all the column
+bandwidths.  The lower profile is the sum of all the row bandwidths, and
+the upper profile is the sum of all the column bandwidths.</P><P>
+
+This function returns an integer vector with four elements.  In order,
+these elements are as follows:  lower bandwidth, lower profile, upper
+bandwidth, and upper profile.</P><P>
+
+Profile reduction can be very effective in reducing the time and memory
+required to factor a matrix.  The function <CODE>gpskca</CODE> provides one
+approach for doing this.</P><P>
+
+See also <CODE>gpskca</CODE>.
+</DL>
+</P><P>
+
+<A NAME="bdiag"></A>
+</P><P>
+
+<A NAME="IDX235"></A>
+<A NAME="IDX236"></A>
+<DL>
+<DT><U>Function:</U> <B>bdiag</B> <I>( x; m; n )</I>
+<DD>The <CODE>bdiag</CODE> function mimics the <CODE>diag</CODE> function, but in a
+"block" sense.  The matrix <VAR>x</VAR> is taken to be comprised of
+<VAR>m</VAR> rows and <VAR>n</VAR> columns of blocks that are themselves matrices.
+If either <VAR>m</VAR> or <VAR>n</VAR> is 0, then the matrix returned has the
+blocks of <VAR>x</VAR> on its diagonal and is elsewhere zero.  Otherwise,
+the blocks of the diagonal of <VAR>x</VAR> are appended together.</P><P>
+
+An example of the former case is:
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>&#62; M = magic (4)
+        [  9   7   6  12 ]
+        [  4  14  15   1 ]
+        [ 16   2   3  13 ]
+        [  5  11  10   8 ]
+&#62; bdiag (M; 0; 2)
+        [           9          7          .          . ]
+        [           4         14          .          . ]
+        [          16          2          .          . ]
+        [           5         11          .          . ]
+        [           .          .          6         12 ]
+        [           .          .         15          1 ]
+        [           .          .          3         13 ]
+        [           .          .         10          8 ]
+</pre></td></tr></table></P><P>
+
+An example of the latter case is:
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>&#62; bdiag ( M; 2; 2 )
+        [  9   7   3  13 ]
+        [  4  14  10   8 ]
+</pre></td></tr></table></P><P>
+
+<VAR>x</VAR> must be scalar, vector, or matrix.  After being converted to a
+matrix, if necessary, the number of rows of <VAR>x</VAR> must be evenly
+divisible by <VAR>m</VAR> (unless <VAR>m</VAR> is 0) and the number of columns of
+<VAR>x</VAR> must be evenly divisible by <VAR>n</VAR> (unless <VAR>n</VAR> is 0).</P><P>
+
+See also <CODE>btrans</CODE> and <CODE>diag</CODE>.
+</DL>
+</P><P>
+
+<A NAME="btrans"></A>
+</P><P>
+
+<A NAME="IDX237"></A>
+<A NAME="IDX238"></A>
+<DL>
+<DT><U>Function:</U> <B>btrans</B> <I>( x; m; n )</I>
+<DD>The <CODE>btrans</CODE> function mimics the transpose operator, but in a
+"block" sense.  The matrix <VAR>x</VAR> is taken to be comprised of <VAR>m</VAR>
+rows and <VAR>n</VAR> columns of blocks that are themselves matrices.  The
+blocks themselves are not transposed, but are simply moved across the
+diagonal.</P><P>
+
+For example:
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>&#62; M = magic (4)
+        [  9   7   6  12 ]
+        [  4  14  15   1 ]
+        [ 16   2   3  13 ]
+        [  5  11  10   8 ]
+&#62; btrans (M; 2; 2)
+        [  9   7  16   2 ]
+        [  4  14   5  11 ]
+        [  6  12   3  13 ]
+        [ 15   1  10   8 ]
+</pre></td></tr></table></P><P>
+
+<VAR>x</VAR> must be scalar, vector, or matrix.  After being converted to a
+matrix, if necessary, the number of rows of <VAR>x</VAR> must be evenly
+divisible by <VAR>m</VAR> and the number of columns of <VAR>x</VAR> must be evenly
+divisible by <VAR>n</VAR>.</P><P>
+
+See also <CODE>bdiag</CODE>.
+</DL>
+</P><P>
+
+<A NAME="combine"></A>
+</P><P>
+
+<A NAME="IDX239"></A>
+<DL>
+<DT><U>Function:</U> <B>combine</B> <I>( u; v )</I>
+<DD>The <CODE>combine</CODE> function appends the vectors <VAR>u</VAR> and <VAR>v</VAR>,
+removing all but the first of any redundant elements.  This is exactly
+like the <CODE>union</CODE> function, except that the result is not sorted.</DL>
+</P><P>
+
+<A NAME="cram"></A>
+</P><P>
+
+<A NAME="IDX240"></A>
+<DL>
+<DT><U>Function:</U> <B>cram</B> <I>( shape; x )</I>
+<DD>This function uses the elements of <VAR>x</VAR> to make an entity described
+by the vector <VAR>shape</VAR>.  If <VAR>shape</VAR> is NULL or has no elements, a
+scalar is returned.  If <VAR>shape</VAR> has one element, then a vector of
+length <CODE>shape[1]</CODE> is returned.  If <VAR>shape</VAR> has two elements,
+then a matrix with <CODE>shape[1]</CODE> rows and <CODE>shape[2]</CODE> columns is
+returned.</P><P>
+
+The elements of <VAR>x</VAR> are used, in order, to fill the new entity.  For
+matrices, this proceeds by rows.  If the entity returned has more
+elements than <VAR>x</VAR>, it is padded with zeros or null strings.  For
+example, <CODE>cram( 5; 1,2 )</CODE> returns the vector
+<CODE>(1,2,0,0,0)</CODE>.</P><P>
+
+If the return value is an array, it may be either dense or sparse.  The
+code will try to make a reasonable choice, but avoids spending much time
+in deciding.  For example, <CODE>cram( 1000; 1 )</CODE> returns a sparse
+vector since it is immediately apparent that most of its elements are
+zero.  On the other hand, <CODE>cram( 1000; (1:1000)&#60;2 )</CODE> is dense even
+though it would be more efficient to store it sparse; since its second
+argument is a dense vector, <CODE>cram</CODE> would need to check most of its
+elements to realize that.</P><P>
+
+The <CODE>form</CODE> function is identical to this function except that the
+arrays it returns are always dense.</P><P>
+
+See also <CODE>fill</CODE>, <CODE>form</CODE>, and <CODE>zero</CODE>.
+</DL>
+</P><P>
+
+<A NAME="dense"></A>
+</P><P>
+
+<A NAME="IDX241"></A>
+<A NAME="IDX242"></A>
+<DL>
+<DT><U>Function:</U> <B>dense</B> <I>( x )</I>
+<DD>The <CODE>dense</CODE> function converts its argument array to dense storage.
+See also <CODE>sparse</CODE>.</DL>
+</P><P>
+
+<A NAME="diag"></A>
+</P><P>
+
+<A NAME="IDX243"></A>
+<A NAME="IDX244"></A>
+<A NAME="IDX245"></A>
+<DL>
+<DT><U>Function:</U> <B>diag</B> <I>( x )</I>
+<DD>The <CODE>diag</CODE> function performs two different tasks, depending on the
+class of <VAR>x</VAR>.  If <VAR>x</VAR> is a matrix, then its diagonal is returned
+as a vector.  If <VAR>x</VAR> is a vector, then a matrix is returned which
+has <VAR>x</VAR> as its diagonal and is zero elsewhere.  (If <VAR>x</VAR> is a
+scalar, it is returned intact.)</P><P>
+
+See also <CODE>bdiag</CODE>.
+</DL>
+</P><P>
+
+<A NAME="dice"></A>
+</P><P>
+
+<A NAME="IDX246"></A>
+<DL>
+<DT><U>Function:</U> <B>dice</B> <I>( s )</I>
+<DD>The <CODE>dice</CODE> function takes a character scalar <VAR>s</VAR> and returns a
+character vector, each element of which is a single character from
+<VAR>s</VAR>.  For example, the expression <CODE>dice("Go dawgs!")</CODE>
+yields</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>(  "G", "o", " ", "d", "a", "w", "g", "s", "!" )
+</pre></td></tr></table></P><P>
+
+See also <CODE>split</CODE>.
+</DL>
+</P><P>
+
+<A NAME="diff"></A>
+</P><P>
+
+<A NAME="IDX247"></A>
+<DL>
+<DT><U>Function:</U> <B>diff</B> <I>( v )</I>
+<DD>The <CODE>diff</CODE> function takes a numeric vector <VAR>v</VAR> and returns a
+vector of differences between its elements.  If <VAR>v</VAR> has <CODE>n</CODE>
+elements, then the return vector is</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>v[2]-v[1], v[3]-v[2], ..., v[n]-v[n-1]
+</pre></td></tr></table></P><P>
+
+The return vector has one less element than <VAR>v</VAR>.  If <VAR>v</VAR> has
+labels, then the return vector contains all but the last one.</P><P>
+
+One simple use for <CODE>diff</CODE> is to compute forward-difference
+approximations for the slope of a curve.  If <CODE>c</CODE> is a vector
+containing ordinates of the curve in its elements and abscissae in its
+labels, then the expression</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>diff (c) / diff (unlabel (c.eid))
+</pre></td></tr></table></P><P>
+
+returns an approximation to its slope.  (The call to <CODE>unlabel</CODE> is
+probably unnecessary in most cases, but it avoids trouble when the
+labels of <CODE>c</CODE> themselves have labels.)</DL>
+</P><P>
+
+<A NAME="exsparse"></A>
+</P><P>
+
+<A NAME="IDX248"></A>
+<DL>
+<DT><U>Function:</U> <B>exsparse</B> <I>( x )</I>
+<DD>This function disassembles a matrix, returning it in its "coordinate"
+form, suitable for reassembly by the <CODE>mksparse</CODE> function.  A table
+is returned, containing the members <VAR>shape</VAR>, <VAR>rows</VAR>, <VAR>cols</VAR>,
+and <VAR>values</VAR>.  The argument matrix <VAR>x</VAR> must be numeric.  Despite
+the name of the function, it need not be sparse.</P><P>
+
+See also <CODE>mksparse</CODE>.
+</DL>
+</P><P>
+
+<A NAME="fill"></A>
+</P><P>
+
+<A NAME="IDX249"></A>
+<DL>
+<DT><U>Function:</U> <B>fill</B> <I>( shape; x )</I>
+<DD>This function uses the elements of <VAR>x</VAR> to make an entity described
+by the vector <VAR>shape</VAR>.  If <VAR>shape</VAR> is NULL or has no elements, a
+scalar is returned.  If <VAR>shape</VAR> has one element, then a vector of
+length <CODE>shape[1]</CODE> is returned.  If <VAR>shape</VAR> has two elements,
+then a matrix with <CODE>shape[1]</CODE> rows and <CODE>shape[2]</CODE> columns is
+returned.</P><P>
+
+The elements of <VAR>x</VAR> are used, in order, to fill the new entity.  For
+matrices, this proceeds by rows.  If the entity returned has more
+elements than <VAR>x</VAR>, then the elements of <VAR>x</VAR> are reused.  For
+example, <CODE>fill( 5; "a","b" )</CODE> returns the vector
+<CODE>("a","b","a","b","a")</CODE>.</P><P>
+
+When the return value from <CODE>fill</CODE> is a vector or matrix, it will
+always be dense.  See the <CODE>cram</CODE> function for sparse return arrays.
+</P><P>
+
+The <CODE>form</CODE> function differs from this function only in that it
+pads with zeros rather than reusing elements of <VAR>x</VAR>.</P><P>
+
+See also <CODE>form</CODE>, <CODE>cram</CODE>, and <CODE>zero</CODE>.
+</DL>
+</P><P>
+
+<A NAME="find"></A>
+</P><P>
+
+<A NAME="IDX250"></A>
+<DL>
+<DT><U>Function:</U> <B>find</B> <I>( a; b )</I>
+<DD>The <CODE>find</CODE> function locates the elements of <VAR>b</VAR> that have the
+values given by <VAR>a</VAR> and returns a vector containing their element
+numbers.  For example, <CODE>find( 2,3; 0,1,2,3,4 )</CODE> returns the vector
+<CODE>(3,4)</CODE>.  One common use is in an expression like
+<CODE>A[find(77;A.rid);]</CODE>, which returns the row (or rows) of <VAR>a</VAR>
+having the row label 77.</P><P>
+
+If <VAR>a</VAR> is a scalar, then <CODE>find(a;b)</CODE> returns the element
+numbers of <VAR>b</VAR>, sorted from smallest to largest, for which the
+corresponding element of <VAR>b</VAR> is equal to <VAR>a</VAR>.  If <VAR>a</VAR> is a
+vector, then <CODE>find(a;b)</CODE> returns the same as
+<CODE>find(a[1];b),find(a[2];b),...</CODE>.</P><P>
+
+See also <CODE>grep</CODE> and <CODE>lose</CODE>.
+</DL>
+</P><P>
+
+<A NAME="first"></A>
+</P><P>
+
+<A NAME="IDX251"></A>
+<DL>
+<DT><U>Function:</U> <B>first</B> <I>( v )</I>
+<DD>The <CODE>first</CODE> function returns the index of the first "true"
+element in the vector <VAR>v</VAR>.  If none are found, 0 is returned.</P><P>
+
+See also <CODE>find</CODE> and <CODE>last</CODE>.
+</DL>
+</P><P>
+
+<A NAME="form"></A>
+</P><P>
+
+<A NAME="IDX252"></A>
+<DL>
+<DT><U>Function:</U> <B>form</B> <I>( shape; x )</I>
+<DD>This function uses the elements of <VAR>x</VAR> to make an entity described
+by the vector <VAR>shape</VAR>.  If <VAR>shape</VAR> is NULL or has no elements, a
+scalar is returned.  If <VAR>shape</VAR> has one element, then a vector of
+length <CODE>shape[1]</CODE> is returned.  If <VAR>shape</VAR> has two elements,
+then a matrix with <CODE>shape[1]</CODE> rows and <CODE>shape[2]</CODE> columns is
+returned.</P><P>
+
+The elements of <VAR>x</VAR> are used, in order, to fill the new entity.  For
+matrices, this proceeds by rows.  If the entity returned has more
+elements than <VAR>x</VAR>, it is padded with zeros or null strings.  For
+example, <CODE>form( 5; "a","b" )</CODE> returns the vector
+<CODE>("a","b","","","")</CODE>.</P><P>
+
+When the return value from <CODE>form</CODE> is a vector or matrix, it will
+always be dense.  See the <CODE>cram</CODE> function for sparse return arrays.
+</P><P>
+
+The <CODE>fill</CODE> function differs from this function only in that it
+reuses the elements of <VAR>x</VAR> rather than padding with zeros.</P><P>
+
+See also <CODE>fill</CODE>, <CODE>cram</CODE>, and <CODE>zero</CODE>.
+</DL>
+</P><P>
+
+<A NAME="full"></A>
+</P><P>
+
+<A NAME="IDX253"></A>
+<A NAME="IDX254"></A>
+<DL>
+<DT><U>Function:</U> <B>full</B> <I>( x )</I>
+<DD>The <CODE>full</CODE> function converts a matrix stored in "sparse_upper"
+form to the "sparse" form.</DL>
+</P><P>
+
+<A NAME="gpskca"></A>
+</P><P>
+
+<A NAME="IDX255"></A>
+<A NAME="IDX256"></A>
+<A NAME="IDX257"></A>
+<A NAME="IDX258"></A>
+<A NAME="IDX259"></A>
+<A NAME="IDX260"></A>
+<A NAME="IDX261"></A>
+<A NAME="IDX262"></A>
+<DL>
+<DT><U>Function:</U> <B>gpskca</B> <I>( m; flag )</I>
+<DD>The <CODE>gpskca</CODE> function attempts to find a symmetric permutation of
+the rows and columns of matrix <VAR>m</VAR> to reduce either its bandwidth or
+its profile.  If the <VAR>flag</VAR> argument is "true" (in the sense of
+the <CODE>test</CODE> function, then the Gibbs-Poole-Stockmeyer algorithm is
+used for bandwidth reduction; otherwise, the Gibbs-King algorithm is
+used for profile reduction.  See the description of the <CODE>band</CODE>
+function for a definition of these terms.</P><P>
+
+The return value is the permutation, given as an integer vector with
+length equal to the order of <VAR>m</VAR>.  Consider the following example
+interaction:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>&#62; a = symmetric (magic(6) &#62; 25);
+&#62; band (a)
+    ( 4, 13, 4, 13 )
+&#62; v = gpskca (a);
+&#62; b = a[v;v];
+&#62; band (b)
+    ( 2, 9, 2, 9 )
+</pre></td></tr></table></P><P>
+
+First, the sparse, symmetric matrix <VAR>a</VAR> is created.  The
+<CODE>band</CODE> function shows that it has a bandwidth of 4 and a profile of
+13.  Next, <CODE>gpskca</CODE> provides a permutation to reduce the profile.
+The matrix <VAR>b</VAR> is set to equal <VAR>a</VAR> but with this permutation
+applied.  Finally, <CODE>band</CODE> shows that this permutation reduces both
+the bandwidth (to 2) and the profile (to 9).
+</P><P>
+
+The matrix <VAR>m</VAR> must be either symmetric or hermitian.  This function
+uses the GPSKCA subroutine written by John Lewis.</P><P>
+
+See also <CODE>band</CODE>.
+</DL>
+</P><P>
+
+<A NAME="grep"></A>
+</P><P>
+
+<A NAME="IDX263"></A>
+<A NAME="IDX264"></A>
+<A NAME="IDX265"></A>
+<A NAME="IDX266"></A>
+<DL>
+<DT><U>Function:</U> <B>grep</B> <I>( expr; v )</I>
+<DD>The <CODE>grep</CODE> function finds the elements of the vector <VAR>v</VAR> which
+match the pattern <CODE>expr</CODE>.  The pattern is an extended regular
+expression which is given to the UNIX function <CODE>egrep</CODE> to do the
+searching.</P><P>
+
+The character strings in <VAR>v</VAR> must not contain a newline, or the
+results will generally be wrong.</P><P>
+
+Here are some examples (user input is preceded by the <SAMP>`&#62;'</SAMP> prompt):
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>&#62; grep ("a"; "ab", "ac", "bc")
+    ( 1, 2 )
+
+&#62; grep ("9$"; 1:40)
+    ( 9, 19, 29, 39 )
+
+&#62; m = magic (3)
+    [ 8  1  6 ]
+    [ 3  5  7 ]
+    [ 4  9  2 ]
+&#62; m.rid = "top", "middle", "bottom";
+&#62; m[ grep ("top|bottom"; m.rid); ]
+    [ 8  1  6 ]
+    [ 4  9  2 ]
+</pre></td></tr></table></P><P>
+
+This is a terribly inefficient implementation (maybe someday Algae will
+have builtin regular expressions), but maybe you'll find it useful.</P><P>
+
+See also <CODE>find</CODE> and <CODE>lose</CODE>.
+</DL>
+</P><P>
+
+<A NAME="hermitian"></A>
+</P><P>
+
+<A NAME="IDX267"></A>
+<DL>
+<DT><U>Function:</U> <B>hermitian</B> <I>( x )</I>
+<DD>This function returns the hermitian part of the square, numeric matrix
+<VAR>x</VAR>.  If <VAR>x</VAR> has both row and column labels, they must match.</P><P>
+
+See also <CODE>symmetric</CODE>.</DL>
+</P><P>
+
+<A NAME="ident"></A>
+</P><P>
+
+<A NAME="IDX268"></A>
+<A NAME="IDX269"></A>
+<DL>
+<DT><U>Function:</U> <B>ident</B> <I>( n )</I>
+<DD>The <CODE>ident</CODE> function returns an identity matrix with <VAR>n</VAR> rows
+and columns.</DL>
+</P><P>
+
+<A NAME="imax"></A>
+</P><P>
+
+<A NAME="IDX270"></A>
+<DL>
+<DT><U>Function:</U> <B>imax</B> <I>( v )</I>
+<DD>This function returns the number of the element in <VAR>v</VAR> with the
+greatest value.  If multiple elements qualify, then the number of the
+first one is returned.  Complex values are not accepted.  Note that
+<CODE>imax(v)</CODE> is not necessarily equal to <CODE>imin(-v)</CODE>.</P><P>
+
+<VAR>v</VAR> must be (or be convertible to) a vector, and must not have
+complex type.</P><P>
+
+See also <CODE>imin</CODE>, <CODE>max</CODE>, <CODE>min</CODE>, <CODE>isort</CODE>, and <CODE>sort</CODE>.
+</DL>
+</P><P>
+
+<A NAME="imin"></A>
+</P><P>
+
+<A NAME="IDX271"></A>
+<DL>
+<DT><U>Function:</U> <B>imin</B> <I>( v )</I>
+<DD>This function returns the number of the element in <VAR>v</VAR> with the
+least value.  If multiple elements qualify, then the number of the last
+one is returned.  Complex values are not accepted.  Note that
+<CODE>imin(v)</CODE> is not necessarily equal to <CODE>imax(-v)</CODE>.</P><P>
+
+<VAR>v</VAR> must be (or be convertible to) a vector, and must not have
+complex type.</P><P>
+
+See also <CODE>imax</CODE>, <CODE>max</CODE>, <CODE>min</CODE>, <CODE>isort</CODE>, and <CODE>sort</CODE>.
+</DL>
+</P><P>
+
+<A NAME="isort"></A>
+</P><P>
+
+<A NAME="IDX272"></A>
+<A NAME="IDX273"></A>
+<DL>
+<DT><U>Function:</U> <B>isort</B> <I>( v )</I>
+<DD>This function sorts the elements of vector <VAR>v</VAR> in increasing order,
+and returns a vector containing the corresponding indices.  For example,
+<CODE>sort(20,40,10,30)</CODE> returns the vector <CODE>(3,1,4,2)</CODE>.  The
+expression <CODE>v[isort(v)]</CODE> actually returns the sorted vector
+<VAR>v</VAR>, although the builtin function <CODE>sort</CODE> does this more
+efficiently.  Complex numbers are sorted primarily by real value and
+secondarily by imaginary value.</P><P>
+
+See also <CODE>sort</CODE>, <CODE>max</CODE>, <CODE>min</CODE>, and <CODE>set</CODE>.
+</DL>
+</P><P>
+
+<A NAME="label"></A>
+</P><P>
+
+<A NAME="IDX274"></A>
+<DL>
+<DT><U>Function:</U> <B>label</B> <I>( x; a; b )</I>
+<DD>The <CODE>label</CODE> function assigns labels to vectors and matrices.  If
+<VAR>x</VAR> is a vector, <VAR>a</VAR> is assigned as its element labels.  If
+<VAR>x</VAR> is a matrix, <VAR>a</VAR> and <VAR>b</VAR> are assigned as its row and
+column labels, respectively.  If <VAR>x</VAR> has any other class, an
+exception is raised.</P><P>
+
+See also <CODE>unlabel</CODE>.
+</DL>
+</P><P>
+
+<A NAME="last"></A>
+</P><P>
+
+<A NAME="IDX275"></A>
+<DL>
+<DT><U>Function:</U> <B>last</B> <I>( v )</I>
+<DD>The <CODE>last</CODE> function returns the index of the last "true"
+element in the vector <VAR>v</VAR>.  If none are found, 0 is returned.</P><P>
+
+See also <CODE>find</CODE> and <CODE>first</CODE>.
+</DL>
+</P><P>
+
+<A NAME="linspace"></A>
+</P><P>
+
+<A NAME="IDX276"></A>
+<A NAME="IDX277"></A>
+<DL>
+<DT><U>Function:</U> <B>linspace</B> <I>( a; b; n )</I>
+<DD>The <CODE>linspace</CODE> function generates a vector of <VAR>n</VAR> elements,
+spaced uniformly between <VAR>a</VAR> and <VAR>b</VAR>.  All three arguments must
+be (or be convertible to) scalars.  The argument <VAR>n</VAR> must be (or
+round to) an integer greater than one.</P><P>
+
+The vector generation operator <SAMP>`:'</SAMP> also generates uniformly spaced
+vectors.  With the operator, the number of elements is determined from
+the specified spacing; with the <CODE>linspace</CODE> function, the spacing is
+determined from the number of elements specified.  Also notice that the
+last element of the vector returned by <CODE>linspace</CODE> is equal to
+<VAR>b</VAR>, which is not necessarily the case with the <SAMP>`:'</SAMP> operator.</P><P>
+
+See also <CODE>logspace</CODE>.
+</DL>
+</P><P>
+
+<A NAME="logspace"></A>
+</P><P>
+
+<A NAME="IDX278"></A>
+<A NAME="IDX279"></A>
+<DL>
+<DT><U>Function:</U> <B>logspace</B> <I>( a; b; n )</I>
+<DD>The <CODE>logspace</CODE> function generates a vector of <VAR>n</VAR> elements,
+spaced logarithmically between <VAR>a</VAR> and <VAR>b</VAR>.  All three arguments must
+be (or be convertible to) scalars.  Both <VAR>a</VAR> and <VAR>b</VAR> must be
+nonzero, and <VAR>n</VAR> must be (or round to) an integer greater than one.</P><P>
+
+Logarithmic spacing means that the logarithm of the result vector is a
+uniformly spaced vector.  This also means that the ratio between any two
+adjacent elements is constant.  Note that even if both <VAR>a</VAR> and
+<VAR>b</VAR> are real, the result will be complex if they have opposite
+signs, and that a complex result will not necessarily form a straight
+line in the complex plane.
+</P><P>
+
+See also <CODE>linspace</CODE>.
+</DL>
+</P><P>
+
+<A NAME="lose"></A>
+</P><P>
+
+<A NAME="IDX280"></A>
+<DL>
+<DT><U>Function:</U> <B>lose</B> <I>( a; b )</I>
+<DD>The <CODE>lose</CODE> function locates elements of <VAR>b</VAR> that do not have
+the values given by <VAR>a</VAR> and returns a vector containing their
+element numbers.  For example, <CODE>lose( 2,3; 0,1,2,3,4 )</CODE> returns the
+vector <CODE>(1,2,5)</CODE>.  One common use is in an expression such as
+<CODE>A[lose(77;A.rid);]</CODE>, which returns all of the rows of <VAR>a</VAR> that
+don't have the row label 77.</P><P>
+
+If <VAR>a</VAR> is a scalar, then <CODE>lose(a;b)</CODE> returns the element
+numbers of <VAR>b</VAR>, sorted from smallest to largest, for which the
+corresponding element of <VAR>b</VAR> is not equal to <VAR>a</VAR>.  If <VAR>a</VAR> is
+a vector, then <CODE>lose(a;b)</CODE> returns the intersection of the results of
+<CODE>lose(a[1];b)</CODE>, <CODE>lose(a[2];b)</CODE>, etc.</P><P>
+
+See also <CODE>find</CODE>.
+</DL>
+</P><P>
+
+<A NAME="magic"></A>
+</P><P>
+
+<A NAME="IDX281"></A>
+<A NAME="IDX282"></A>
+<DL>
+<DT><U>Function:</U> <B>magic</B> <I>( n )</I>
+<DD>The <CODE>magic</CODE> function returns a magic square of order <VAR>n</VAR>.
+(What system would be complete without it?)  The elements of a magic
+square consist of all the integers 1 through <VAR>n^2</VAR>, arranged so
+that the row, column, and the two diagonal sums are equal.</P><P>
+
+<VAR>n</VAR> must be greater than 0.  No magic square exists for order
+2.</DL>
+</P><P>
+
+<A NAME="matrix"></A>
+</P><P>
+
+<A NAME="IDX283"></A>
+<DL>
+<DT><U>Function:</U> <B>matrix</B> <I>( x )</I>
+<DD>This function converts its argument <VAR>x</VAR> to a matrix if possible.
+Scalars become one-by-one matrices, vectors become matrices with one
+row, and matrices are unchanged.  If <VAR>x</VAR> is NULL, <CODE>matrix</CODE>
+returns a real matrix with zero rows and zero columns.</P><P>
+
+See also <CODE>scalar</CODE> and <CODE>vector</CODE>.
+</DL>
+</P><P>
+
+<A NAME="max"></A>
+</P><P>
+
+<A NAME="IDX284"></A>
+<DL>
+<DT><U>Function:</U> <B>max</B> <I>( v )</I>
+<DD>This function returns a scalar that equals the greatest value of any
+element in <VAR>v</VAR>.  Complex values are not accepted.</P><P>
+
+Argument <VAR>v</VAR> must be (or be convertible to) a vector, and must not
+have complex type.</P><P>
+
+See also <CODE>min</CODE>, <CODE>imax</CODE>, <CODE>imin</CODE>, <CODE>isort</CODE>, and <CODE>sort</CODE>.
+</DL>
+</P><P>
+
+<A NAME="merge"></A>
+</P><P>
+
+<A NAME="IDX285"></A>
+<DL>
+<DT><U>Function:</U> <B>merge</B> <I>( x; y )</I>
+<DD>This function merges two entities, <VAR>x</VAR> and <VAR>y</VAR>, with respect to
+their labels.  The result has labels that consist of the union of the
+labels of <VAR>x</VAR> and <VAR>y</VAR>.  Its elements come from the corresponding
+elements in <VAR>x</VAR> and <VAR>y</VAR>; they are summed when the same element
+occurs in both.</P><P>
+
+This is demonstrated by the following interactive session:
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>&#62; A = fill (3,3; 1:9)
+        [  1   2   3 ]
+        [  4   5   6 ]
+        [  7   8   9 ]
+&#62; A.rid = A.cid = 1:3;
+&#62; B = fill (3,3; 10:90:10)
+        [ 10  20  30 ]
+        [ 40  50  60 ]
+        [ 70  80  90 ]
+&#62; B.rid = B.cid = 2:4;
+&#62; merge (A; B)
+        [  1   2   3   0 ]
+        [  4  15  26  30 ]
+        [  7  48  59  60 ]
+        [  0  70  80  90 ]
+</pre></td></tr></table></P><P>
+
+If <VAR>x</VAR> and <VAR>y</VAR> are not vectors or matrices, they are simply
+summed.</DL>
+</P><P>
+
+<A NAME="min"></A>
+</P><P>
+
+<A NAME="IDX286"></A>
+<DL>
+<DT><U>Function:</U> <B>min</B> <I>( v )</I>
+<DD>This function returns a scalar that equals the least value of any
+element in <VAR>v</VAR>.  Complex values are not accepted.</P><P>
+
+Argument <VAR>v</VAR> must be (or be convertible to) a vector, and must not
+have complex type.</P><P>
+
+See also <CODE>max</CODE>, <CODE>imax</CODE>, <CODE>imin</CODE>, <CODE>isort</CODE>, and <CODE>sort</CODE>.
+</DL>
+</P><P>
+
+<A NAME="mksparse"></A>
+</P><P>
+
+<A NAME="IDX287"></A>
+<DL>
+<DT><U>Function:</U> <B>mksparse</B> <I>( t )</I>
+<DD>This function returns a sparse matrix with dimensions and elements given
+by the members of table <VAR>t</VAR>.  If the member <VAR>shape</VAR> exists, it
+should be a vector with two elements specifying the number of rows and
+columns of the matrix.  If it does not exist, the matrix is sized just
+large enough to include all of the given elements.  The members
+<VAR>rows</VAR>, <VAR>cols</VAR>, and <VAR>values</VAR> must all exist; these are
+vectors, all with the same length, corresponding elements of which
+specify respectively the row number, column number, and value of each
+specified element of the matrix.  If an element is not specified, it is
+zero.  If an element is given more than once, its value is the sum of
+the given values.</P><P>
+
+The following interactive session provides an example:
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>&#62; mksparse ({shape=3,4; rows=1,2,3; cols=1,3,2; values=10,11,12})
+	[          10          .          .          . ]
+	[           .          .         11          . ]
+	[           .         12          .          . ]
+</pre></td></tr></table></P><P>
+
+The <VAR>values</VAR> vector must have numeric type.  If <VAR>t</VAR> is NULL, a
+real matrix with 0 rows and 0 columns is returned.</P><P>
+
+See also <CODE>sparse</CODE> and <CODE>exsparse</CODE>.
+</DL>
+</P><P>
+
+<A NAME="norm"></A>
+</P><P>
+
+<A NAME="IDX288"></A>
+<A NAME="IDX289"></A>
+<A NAME="IDX290"></A>
+<A NAME="IDX291"></A>
+<DL>
+<DT><U>Function:</U> <B>norm</B> <I>( x; p )</I>
+<DD>The <CODE>norm</CODE> function computes the <VAR>p</VAR>-norm of <VAR>x</VAR>, where
+<VAR>p</VAR> is 1, 2, "frobenius", or "infinity".  (The latter two may be
+abbreviated as "frob" and "inf".)  If <VAR>p</VAR> is not specified, the
+2-norm is used.</P><P>
+
+For complex <VAR>x</VAR>, the 1 and "infinity" norms deal not with the
+magnitude of each element, but with the sum of the absolute values of
+the real and imaginary parts.</DL>
+</P><P>
+
+<A NAME="pick"></A>
+</P><P>
+
+<A NAME="IDX292"></A>
+<DL>
+<DT><U>Function:</U> <B>pick</B> <I>( x )</I>
+<DD>This function returns a vector containing the indices of the non-zero
+elements of the numeric input vector <VAR>x</VAR>.  For example, the
+expression</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>V [ pick (V &#60; 0) ]
+</pre></td></tr></table></P><P>
+
+returns all of the negative elements of <CODE>V</CODE>.
+</P><P>
+
+See also <CODE>find</CODE>.
+</DL>
+</P><P>
+
+<A NAME="product"></A>
+</P><P>
+
+<A NAME="IDX293"></A>
+<DL>
+<DT><U>Function:</U> <B>product</B> <I>( x )</I>
+<DD>The <CODE>product</CODE> function computes the product of the elements of an
+array.  If <VAR>x</VAR> is a scalar, it is returned unchanged.  If <VAR>x</VAR> is
+a vector, the product of all of its elements is returned.  If <VAR>x</VAR> is a
+matrix, a vector is returned, each element of which is the product of the
+elements in the corresponding columns of <VAR>x</VAR>.  If <VAR>x</VAR> is a
+table, the <CODE>product</CODE> function is applied to each of its members.</DL>
+</P><P>
+
+<A NAME="rand"></A>
+</P><P>
+
+<A NAME="IDX294"></A>
+<A NAME="IDX295"></A>
+<DL>
+<DT><U>Function:</U> <B>rand</B> <I>( shape )</I>
+<DD>This function generates pseudo-random numbers with a uniform
+distribution in the range from 0 to 1.  Called with no arguments, it
+returns a scalar.  Otherwise, the vector <VAR>shape</VAR> specifies a vector
+or matrix; see the <CODE>readnum</CODE> function for more information.</P><P>
+
+The random number generator may be "seeded" with the <CODE>srand</CODE>
+function.  If you don't call <CODE>srand</CODE>, the seed is based on the
+system's clock.  Note that <CODE>rand</CODE> and <CODE>randn</CODE> share the same
+seed.</P><P>
+
+See also <CODE>randn</CODE> and <CODE>srand</CODE>.
+</DL>
+</P><P>
+
+<A NAME="randn"></A>
+</P><P>
+
+<A NAME="IDX296"></A>
+<A NAME="IDX297"></A>
+<DL>
+<DT><U>Function:</U> <B>randn</B> <I>( shape )</I>
+<DD>This function generates pseudo-random numbers from a normal distribution
+with zero mean and unit variance.  Called with no arguments, it returns a
+scalar.  Otherwise, the vector <VAR>shape</VAR> specifies a vector or matrix;
+see the <CODE>readnum</CODE> function for more information.</P><P>
+
+The random number generator may be "seeded" with the <CODE>srand</CODE>
+function.  If you don't call <CODE>srand</CODE>, the seed is based on the
+system's clock.  Note that <CODE>rand</CODE> and <CODE>randn</CODE> share the same
+seed.</P><P>
+
+See also <CODE>rand</CODE> and <CODE>srand</CODE>.
+</DL>
+</P><P>
+
+<A NAME="reverse"></A>
+</P><P>
+
+<A NAME="IDX298"></A>
+<DL>
+<DT><U>Function:</U> <B>reverse</B> <I>( v )</I>
+<DD>The <CODE>reverse</CODE> function simply reverses the order of the elements in
+vector <VAR>v</VAR>.  For example, <CODE>reverse(1,2,3)</CODE> returns the vector
+<CODE>(3,2,1)</CODE>.</DL>
+</P><P>
+
+<A NAME="scalar"></A>
+</P><P>
+
+<A NAME="IDX299"></A>
+<DL>
+<DT><U>Function:</U> <B>scalar</B> <I>( x )</I>
+<DD>This function converts its argument <VAR>x</VAR> to a scalar if possible.
+See also <CODE>matrix</CODE> and <CODE>vector</CODE>.</DL>
+</P><P>
+
+<A NAME="select"></A>
+</P><P>
+
+<A NAME="IDX300"></A>
+<DL>
+<DT><U>Function:</U> <B>select</B> <I>( x )</I>
+<DD>The <CODE>select</CODE> function selects one element at random from the given
+vector.  The result is a scalar.  The vector <VAR>x</VAR> must have at least
+one element.</DL>
+</P><P>
+
+<A NAME="seq"></A>
+</P><P>
+
+<A NAME="IDX301"></A>
+<DL>
+<DT><U>Function:</U> <B>seq</B> <I>( n )</I>
+<DD>The <CODE>seq</CODE> function returns a vector of consecutive integers from 1
+to <VAR>n</VAR>.  The argument <VAR>n</VAR> is first rounded to the nearest
+integer; if it is less than 1, a zero-length vector is returned.</DL>
+</P><P>
+
+<A NAME="shape"></A>
+</P><P>
+
+<A NAME="IDX302"></A>
+<DL>
+<DT><U>Function:</U> <B>shape</B> <I>( x )</I>
+<DD>This function returns the "shape" (that is, the dimensions) of its
+argument <VAR>x</VAR>.  This return value has the same form as is used for
+the <VAR>shape</VAR> arguments of functions like <VAR>readnum</VAR> and <VAR>rand</VAR>.
+If <VAR>x</VAR> is a scalar, NULL is returned.  If <VAR>x</VAR> is a vector, a
+scalar is returned having the length of <VAR>x</VAR> as its value.  If
+<VAR>x</VAR> is a matrix, a vector is returned having the number of rows and
+the number of columns as its first and second elements, respectively.
+If <VAR>x</VAR> has any other class, an exception is raised.
+</DL>
+</P><P>
+
+<A NAME="sign"></A>
+</P><P>
+
+<A NAME="IDX303"></A>
+<A NAME="IDX304"></A>
+<A NAME="IDX305"></A>
+<DL>
+<DT><U>Function:</U> <B>sign</B> <I>( v )</I>
+<DD>The <CODE>sign</CODE> function returns an array with the same size as
+<VAR>v</VAR>.  Each element of the returned array is either -1, 0, or +1,
+depending on whether the corresponding element of <VAR>v</VAR> is negative,
+zero, or positive, respectively.  The argument <VAR>v</VAR> must be a numeric
+scalar or array.</DL>
+</P><P>
+
+<A NAME="sort"></A>
+</P><P>
+
+<A NAME="IDX306"></A>
+<A NAME="IDX307"></A>
+<DL>
+<DT><U>Function:</U> <B>sort</B> <I>( v )</I>
+<DD>This function sorts the elements of vector <VAR>v</VAR> in increasing order.
+For example, <CODE>sort(20,40,10,30)</CODE> returns the vector
+<CODE>(10,20,30,40)</CODE>.  Complex numbers are sorted primarily by real
+value and secondarily by imaginary value.</P><P>
+
+See also <CODE>isort</CODE>, <CODE>max</CODE>, <CODE>min</CODE>, and <CODE>set</CODE>.
+</DL>
+</P><P>
+
+<A NAME="sparse"></A>
+</P><P>
+
+<A NAME="IDX308"></A>
+<A NAME="IDX309"></A>
+<DL>
+<DT><U>Function:</U> <B>sparse</B> <I>( x )</I>
+<DD>This function converts its argument <VAR>x</VAR> to sparse storage.</DL>
+</P><P>
+
+<A NAME="srand"></A>
+</P><P>
+
+<A NAME="IDX310"></A>
+<A NAME="IDX311"></A>
+<DL>
+<DT><U>Function:</U> <B>srand</B> <I>( s )</I>
+<DD>The <CODE>srand</CODE> function is used to "seed" the random number
+generator <CODE>rand</CODE>.  (OK, they're really pseudo-random numbers.)  The
+seed <VAR>s</VAR> determines the sequence of numbers returned by <CODE>rand</CODE>.
+If <VAR>s</VAR> is NULL (or if <CODE>srand</CODE> is never called at all), then the
+seed is taken from the system's clock.  See also <CODE>rand</CODE>.</DL>
+</P><P>
+
+<A NAME="sum"></A>
+</P><P>
+
+<A NAME="IDX312"></A>
+<DL>
+<DT><U>Function:</U> <B>sum</B> <I>( x )</I>
+<DD>The <CODE>sum</CODE> function sums elements of arrays.  If <VAR>x</VAR> is a
+scalar, it is returned unchanged.  If <VAR>x</VAR> is a vector, the sum of
+all of its elements is returned.  If <VAR>x</VAR> is a matrix, a vector is
+returned, each element of which is the sum of the elements in the
+corresponding columns of <VAR>x</VAR>.</DL>
+</P><P>
+
+<A NAME="symmetric"></A>
+</P><P>
+
+<A NAME="IDX313"></A>
+<DL>
+<DT><U>Function:</U> <B>symmetric</B> <I>( x )</I>
+<DD>This function returns the symmetric part of the square, numeric matrix
+<VAR>x</VAR>.  If <VAR>x</VAR> has both row and column labels, they must match.</P><P>
+
+See also <CODE>hermitian</CODE>.</DL>
+</P><P>
+
+<A NAME="tril"></A>
+</P><P>
+
+<A NAME="IDX314"></A>
+<A NAME="IDX315"></A>
+<A NAME="IDX316"></A>
+<DL>
+<DT><U>Function:</U> <B>tril</B> <I>( a; k )</I>
+<DD>The <CODE>tril</CODE> function returns the lower "triangular" part of the
+matrix <VAR>a</VAR>.  The return matrix is identical to <VAR>a</VAR> except that,
+for any <CODE>i</CODE>, all elements <CODE>a[i;i+k+1]</CODE>, <CODE>a[i;i+k+2]</CODE>,
+etc. are zero.  If <VAR>k</VAR> is NULL, it defaults to zero.  Here is an
+example:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>&#62; tril (magic (4); 1)
+        [  9   7   0   0 ]
+        [  4  14  15   0 ]
+        [ 16   2   3  13 ]
+        [  5  11  10   8 ]
+</pre></td></tr></table></DL>
+</P><P>
+
+<A NAME="triu"></A>
+</P><P>
+
+<A NAME="IDX317"></A>
+<A NAME="IDX318"></A>
+<A NAME="IDX319"></A>
+<DL>
+<DT><U>Function:</U> <B>triu</B> <I>( a; k )</I>
+<DD>The <CODE>triu</CODE> function returns the upper "triangular" part of the
+matrix <VAR>a</VAR>.  The return matrix is identical to <VAR>a</VAR> except that,
+for any <CODE>i</CODE>, all elements <CODE>a[i;i+k-1]</CODE>, <CODE>a[i;i+k-2]</CODE>,
+etc. are zero.  If <VAR>k</VAR> is NULL, it defaults to zero.  Here is an
+example:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>&#62; triu (magic (4); 1)
+        [  0   7   6  12 ]
+        [  0   0  15   1 ]
+        [  0   0   0  13 ]
+        [  0   0   0   0 ]
+</pre></td></tr></table></DL>
+</P><P>
+
+<A NAME="unlabel"></A>
+</P><P>
+
+<A NAME="IDX320"></A>
+<DL>
+<DT><U>Function:</U> <B>unlabel</B> <I>( x )</I>
+<DD>The <CODE>unlabel</CODE> function removes the labels from its argument.  If
+<VAR>x</VAR> is a vector or a matrix, it sets the labels to NULL and returns
+the result.  If <VAR>x</VAR> has any other class, it is returned
+unchanged.</DL>
+</P><P>
+
+<A NAME="vector"></A>
+</P><P>
+
+<A NAME="IDX321"></A>
+<DL>
+<DT><U>Function:</U> <B>vector</B> <I>( x )</I>
+<DD>This function converts its argument <VAR>x</VAR> to a vector if possible.
+Scalars become one-element vectors.  If <VAR>x</VAR> is a matrix with either
+one row or one column, then it is converted to a vector.</P><P>
+
+See also <CODE>scalar</CODE> and <CODE>matrix</CODE>.
+</DL>
+</P><P>
+
+<A NAME="zero"></A>
+</P><P>
+
+<A NAME="IDX322"></A>
+<DL>
+<DT><U>Function:</U> <B>zero</B> <I>( shape )</I>
+<DD>This function generates an integer scalar, vector, or matrix, all the
+elements of which are zero.  The vector <VAR>shape</VAR> specifies the
+dimensions of the entity returned; see the <CODE>readnum</CODE> function for more
+information.</P><P>
+
+If a vector or matrix is returned, it is stored in sparse form.  This
+may or may not be the most efficient storage for your application; use
+the <CODE>dense</CODE> function to convert it if desired.</P><P>
+
+See also <CODE>dense</CODE>.
+</DL>
+</P><P>
+
+<A NAME="Sets"></A>
+<HR SIZE="6">
+<A NAME="SEC39"></A>
+<H2> 6.3 Sets </H2>
+<!--docid::SEC39::-->
+<P>
+
+<A NAME="complement"></A>
+</P><P>
+
+<A NAME="IDX323"></A>
+<A NAME="IDX324"></A>
+<DL>
+<DT><U>Function:</U> <B>complement</B> <I>( a; b )</I>
+<DD>The <CODE>complement</CODE> function returns the relative complement of
+<VAR>a</VAR> in <VAR>b</VAR>; that is, the set of elements of <VAR>b</VAR> which are
+not in <VAR>a</VAR>.  The return value is a set, which we define as a sorted,
+irredundant vector.  "Sorted" means sorted by increasing value;
+character strings are sorted by ASCII values and complex numbers
+are sorted with the real values as the primary key and the imaginary
+values as the secondary key.</P><P>
+
+See also <CODE>intersection</CODE>, <CODE>set</CODE>, and <CODE>union</CODE>.
+</DL>
+</P><P>
+
+<A NAME="intersection"></A>
+</P><P>
+
+<A NAME="IDX325"></A>
+<A NAME="IDX326"></A>
+<DL>
+<DT><U>Function:</U> <B>intersection</B> <I>( a; b )</I>
+<DD>The <CODE>intersection</CODE> function returns the intersection of set <VAR>a</VAR>
+in <VAR>b</VAR>; that is, the set of elements that are in both <VAR>a</VAR> and
+<VAR>b</VAR>.  The return value is a set, which we define as a sorted,
+irredundant vector.  "Sorted" means sorted by increasing value;
+character strings are sorted by ASCII values and complex numbers
+are sorted with the real values as the primary key and the imaginary
+values as the secondary key.</P><P>
+
+See also <CODE>complement</CODE>, <CODE>set</CODE>, and <CODE>union</CODE>.
+</DL>
+</P><P>
+
+<A NAME="set"></A>
+</P><P>
+
+<A NAME="IDX327"></A>
+<A NAME="IDX328"></A>
+<DL>
+<DT><U>Function:</U> <B>set</B> <I>( x )</I>
+<DD>This function changes <VAR>x</VAR> into a set, if possible.  A "set" is
+defined as a sorted, irredundant vector.  "Sorted" means sorted by
+increasing value; character strings are sorted by ASCII values and
+complex numbers are sorted with the real values as the primary key and
+the imaginary values as the secondary key.  "Irredundant" means that
+no two elements have the same value.</P><P>
+
+If <VAR>x</VAR> has labels, then the returned vector also has labels that
+correspond to the retained elements.  If <VAR>x</VAR> has no labels, the
+labels of the returned vector give the index of the corresponding
+element in <VAR>x</VAR>.  If <VAR>x</VAR> has redundant elements, the element
+retained is not necessarily the first.  For example,
+<CODE>set(1,1,1).eid</CODE> might be 1, 2, or 3.</P><P>
+
+See also <CODE>complement</CODE>, <CODE>intersection</CODE>, and <CODE>union</CODE>.
+</DL>
+</P><P>
+
+<A NAME="union"></A>
+</P><P>
+
+<A NAME="IDX329"></A>
+<A NAME="IDX330"></A>
+<DL>
+<DT><U>Function:</U> <B>union</B> <I>( a; b )</I>
+<DD>The <CODE>union</CODE> function returns the union of sets <VAR>a</VAR> and <VAR>b</VAR>.
+The return value is a set, which we define as a sorted, irredundant
+vector.  "Sorted" means sorted by increasing value; character strings
+are sorted by ASCII values and complex numbers are sorted with the
+real values as the primary key and the imaginary values as the secondary
+key.</P><P>
+
+See also <CODE>complement</CODE>, <CODE>intersection</CODE>, and <CODE>set</CODE>.
+</DL>
+</P><P>
+
+<A NAME="Linear Algebra"></A>
+<HR SIZE="6">
+<A NAME="SEC40"></A>
+<H2> 6.4 Linear Algebra </H2>
+<!--docid::SEC40::-->
+<P>
+
+<A NAME="backsub"></A>
+</P><P>
+
+<A NAME="IDX331"></A>
+<A NAME="IDX332"></A>
+<A NAME="IDX333"></A>
+<A NAME="IDX334"></A>
+<DL>
+<DT><U>Function:</U> <B>backsub</B> <I>( afac; b )</I>
+<DD>The <CODE>backsub</CODE> function solves the set of linear equations
+<CODE>A*x=b</CODE> for <VAR>x</VAR>.  The argument <VAR>afac</VAR> must contain the
+factorization of <CODE>A</CODE> returned as a table from either of the
+functions <CODE>factor</CODE> or <CODE>chol</CODE>.  The argument <VAR>b</VAR> provides
+the right-hand side.</P><P>
+
+<A NAME="IDX335"></A>
+<A NAME="IDX336"></A>
+If BCSLIB-EXT (a sparse math library produced by Boeing Computer
+Services) is available on your system and <CODE>algae</CODE> has been compiled
+for it, then the <CODE>backsub</CODE> function can use it.  If <VAR>afac</VAR>
+contains factors computed by BCSLIB-EXT routines (in <CODE>factor</CODE>
+or <CODE>chol</CODE>), then <CODE>backsub</CODE> will call the corresponding
+routines to perform the back substitution.</P><P>
+
+See also <CODE>chol</CODE>, <CODE>factor</CODE>, and <CODE>solve</CODE>.
+</DL>
+</P><P>
+
+<A NAME="chol"></A>
+</P><P>
+
+<A NAME="IDX337"></A>
+<A NAME="IDX338"></A>
+<A NAME="IDX339"></A>
+<DL>
+<DT><U>Function:</U> <B>chol</B> <I>( m )</I>
+<DD>The <CODE>chol</CODE> function computes the Cholesky factorization of the
+symmetric, positive definite matrix <VAR>m</VAR>.  The factors are returned
+in a table, which may contain a variety of members depending on the type
+and density of <VAR>m</VAR>.  For example, if <VAR>m</VAR> is a real, dense
+matrix, then <CODE>"L"</CODE> (the output of the LAPACK routine
+<CODE>DSYTRF</CODE> routine) and <CODE>"RCOND"</CODE> are returned.  For now, you'll
+have to go digging in the code if you really want to understand the
+output.  The idea, though, is that functions like <CODE>backsub</CODE> can
+make sense of them so that you don't have to.</P><P>
+
+Although its other members vary, the table returned by <CODE>chol</CODE>
+always contains a member named <CODE>"RCOND"</CODE>.  This non-negative real
+scalar is an estimate of the reciprocal of the condition number of
+<VAR>m</VAR>.  If <CODE>"RCOND"</CODE> is very small (that is, the condition number
+is very large), then the matrix <VAR>m</VAR> is ill-conditioned.  A warning
+message is produced if <CODE>"RCOND"</CODE> is less than 1.0E-8.</P><P>
+
+<A NAME="IDX340"></A>
+<A NAME="IDX341"></A>
+If BCSLIB-EXT (a sparse math library produced by Boeing Computer
+Services) is available on your system and <CODE>algae</CODE> has been compiled
+for it, then <CODE>chol</CODE> may use its routines to factor sparse matrices.
+In turn, the <CODE>backsub</CODE> and <CODE>solve</CODE> functions can use these
+factors to solve linear equations.  It is often useful to compute the
+factors of a matrix and then save them (using <CODE>put</CODE>) for later use.
+Keep in mind, however, that if these factors were computed with the
+BCSLIB-EXT routines, then the <CODE>algae</CODE> version with which you
+intend to use them must also support BCSLIB-EXT.  The table
+returned by <CODE>chol</CODE> contains the member <CODE>HOLD</CODE> iff a
+BCSLIB-EXT routine was used to produce it.  BCSLIB-EXT is
+never used on dense matrices.</P><P>
+
+The key difference between the <CODE>chol</CODE> and <CODE>factor</CODE> functions
+is that <CODE>chol</CODE> requires that the matrix be symmetric and positive
+definite.  In that case, no pivoting is required; this generally results
+in a significant savings in execution time over the <CODE>factor</CODE>
+function.</P><P>
+
+See also <CODE>backsub</CODE>, <CODE>factor</CODE>, and <CODE>solve</CODE>.
+</DL>
+</P><P>
+
+<A NAME="eig"></A>
+</P><P>
+
+<A NAME="IDX342"></A>
+<A NAME="IDX343"></A>
+<DL>
+<DT><U>Function:</U> <B>eig</B> <I>( a; b; opts )</I>
+<DD>The <CODE>eig</CODE> function computes eigenvalues and eigenvectors for the
+standard and generalized eigenvalue problems<TABLE><tr><td>&nbsp;</td><td class=example><pre>A * x = lambda * x
+</pre></td></tr></table>and
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>A * x = lambda * B * x
+</pre></td></tr></table></P><P>
+
+If <VAR>a</VAR> is the only matrix argument, then both <VAR>lambda</VAR> and
+<VAR>x</VAR> are computed for the standard problem.  If a matrix <VAR>b</VAR> is
+given as the second argument, then the generalized problem is solved.</P><P>
+
+A table of options <VAR>opts</VAR> may be given as the last argument.  If it
+contains the member <CODE>no_right</CODE>, then the right eigenvectors <VAR>x</VAR>
+are not computed.  If it contains the member <CODE>left</CODE>, then the
+corresponding left eigenvectors are computed.</P><P>
+
+This function returns a table containing the eigenvalues in a member
+called <CODE>values</CODE> and, if appropriate, the (right) eigenvectors in a
+member called <CODE>vectors</CODE>.  If the <CODE>left</CODE> option was given and
+the problem is unsymmetric, then the left eigenvectors are returned in a
+member called <CODE>left_vectors</CODE>.</P><P>
+
+The solution method used depends on the type and symmetry of the
+coefficient arrays.  Some of these methods entail strict requirements,
+such as positive definiteness, on the matrices.  Each case is described
+below, along with the LAPACK routine called to solve it.  See the
+<CITE>LAPACK Users' Guide</CITE> for more information.</P><P>
+
+For real, symmetric, standard problems, DSYEV is used.  The eigenvalues
+are real and in ascending order; the eigenvectors are orthonormal.</P><P>
+
+For complex, hermitian, standard problems, ZHEEV is used.  The
+eigenvalues are real and in ascending order; the eigenvectors are
+orthonormal.</P><P>
+
+For nonsymmetric, standard problems, DGEEV is used for real type and
+ZGEEV for complex type.  The eigenvalues are complex, and complex
+conjugate pairs appear consecutively with the eigenvalue having the
+positive imaginary part first.  The eigenvectors are normalized to have
+Euclidean norm equal to 1 and largest component real.</P><P>
+
+For real, symmetric, generalized problems, DSYGV is used.  This method
+requires that <VAR>a</VAR> be symmetric and that <VAR>b</VAR> be symmetric and
+positive definite.  The eigenvalues are real and in ascending order.
+The eigenvectors are <VAR>b</VAR>-orthonormal.</P><P>
+
+For real, nonsymmetric, generalized problems, DGGEV is used.  This
+method performs full balancing on <VAR>a</VAR> and <VAR>b</VAR>.  The eigenvalues
+are complex, and complex conjugate pairs appear consecutively with the
+eigenvalue having the positive imaginary part first.  Note, however,
+that the eigenvalues are returned in a table; the member <CODE>num</CODE>
+contains their numerators and member <CODE>denom</CODE> contains their
+denominators.  The quotients may easily overflow or underflow, and the
+denominator (and maybe the numerator, too) may be zero.  A good
+beginning reference is the book <CITE>Matrix Computations</CITE> by G. Golub
+and C. Van Loan.  Each eigenvector is scaled so that the sum of the
+absolute values of the real and imaginary parts of the largest component
+is 1, except that for eigenvalues with numerator and denominator both
+zero, the corresponding eigenvector is zero.</P><P>
+
+For complex, hermitian, generalized problems, ZHEGV is used.  This method
+requires that <VAR>a</VAR> be hermitian and that <VAR>b</VAR> be hermitian and
+positive definite.  The eigenvalues are real and in ascending order.
+The eigenvectors are <VAR>b</VAR>-orthonormal.</P><P>
+
+For complex, nonsymmetric, generalized problems, ZGGEV is used.  The
+eigenvalues and eigenvectors are complex.  Note, however, that the
+eigenvalues are returned in a table; the member <CODE>num</CODE> contains
+their numerators and member <CODE>denom</CODE> contains their denominators.
+The quotients may easily overflow or underflow, and the denominator (and
+maybe the numerator, too) may be zero.  A good beginning reference is
+the book <CITE>Matrix Computations</CITE> by G. Golub and C. Van Loan.  Each
+eigenvector is scaled so that the sum of the absolute values of the real
+and imaginary parts of the largest component is 1, except that for
+eigenvalues with numerator and denominator both zero, the corresponding
+eigenvector is zero.</DL>
+</P><P>
+
+<A NAME="equilibrate"></A>
+</P><P>
+
+<A NAME="IDX344"></A>
+<A NAME="IDX345"></A>
+<A NAME="IDX346"></A>
+<DL>
+<DT><U>Function:</U> <B>equilibrate</B> <I>( A )</I>
+<DD>The <CODE>equilibrate</CODE> function computes row and column scalings
+intended to equilibrate a matrix and reduce its condition
+number.  The input matrix <VAR>A</VAR> need not be square, but it must be
+numeric and both dimensions must be nonzero.  If <VAR>A</VAR> is hermitian or
+real symmetric, it must be positive definite.</P><P>
+
+If <CODE>equilibrate</CODE> succeeds, it returns a table containing the
+following members:
+</P><P>
+
+<DL COMPACT>
+<DT><VAR>r</VAR>
+<DD>A vector containing the row scale factors.
+<P>
+
+<DT><VAR>c</VAR>
+<DD>A vector containing the column scale factors.
+<P>
+
+<DT><VAR>rowcnd</VAR>
+<DD>The (scalar) ratio of the smallest to the largest of the row scale
+factors.
+<P>
+
+<DT><VAR>colcnd</VAR>
+<DD>The (scalar) ratio of the smallest to the largest of the column scale
+factors.
+<P>
+
+<DT><VAR>amax</VAR>
+<DD>The (scalar) absolute value of the largest matrix element.
+</DL>
+<P>
+
+Even if the matrix <VAR>A</VAR> is symmetric or hermitian, the row and column
+scale factors may or may not be identical.  If not, the resulting
+equilibrated matrix would no longer be symmetric or hermitian.  You will
+have to decide whether the improvement in matrix condition is worth the
+loss of symmetry.  The row and column scale factors will be identical
+for dense, real, symmetric matrices and for dense, complex, hermitian
+matrices (both of which must also be positive definite); otherwise,
+there's no guarantee.</P><P>
+
+Oftentimes, going on to apply the equilibration scale factors is not
+worth the effort.  Roughly speaking, if <VAR>amax</VAR> is not close to
+overflow or underflow and both <VAR>rowcnd</VAR> and <VAR>colcnd</VAR> are greater
+than 0.1, it probably isn't worth doing.</P><P>
+
+If <CODE>equilibrate</CODE> is unsuccessful, it returns a scalar integer
+instead of a table.  If this value is positive, it indicates the row
+causing the problem.  If it is negative, its absolute value indicates
+the column causing the problem.</P><P>
+
+To apply the equilibration, the matrix must be pre- and post-multiplied
+by the scale factors.  If <VAR>r</VAR> and <VAR>c</VAR> are identical, you'll
+probably want to use the <CODE>transform</CODE> function to preserve symmetry.
+Here is an example usage:
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>e = equilibrate (A);
+if (equal (e.r; e.c))
+{
+  Ae = transform (A; diag (e.r));
+else
+  Ae = diag (e.r) * A * diag (e.c);
+}
+</pre></td></tr></table></P><P>
+
+Notice, though, that this example does not check the result of
+<CODE>equilibrate</CODE> to determine if it succeeded, it applies the scale
+factors without checking to see if it's worth it, and it assumes that
+<VAR>A</VAR> obeys the requirement regarding positive definiteness.</DL>
+</P><P>
+
+<A NAME="factor"></A>
+</P><P>
+
+<A NAME="IDX347"></A>
+<A NAME="IDX348"></A>
+<DL>
+<DT><U>Function:</U> <B>factor</B> <I>( m )</I>
+<DD>The <CODE>factor</CODE> function computes a triangular factorization of the
+matrix <VAR>m</VAR>.  The factors are returned in a table, which may contain
+a variety of members depending on the type, density, and definition of
+<VAR>m</VAR>.  For example, if <VAR>m</VAR> is a real, dense, symmetric matrix,
+then <CODE>"LD"</CODE> and <CODE>"IPIV"</CODE> (the output of the LAPACK
+routine <CODE>DSYTRF</CODE> routine) are returned.  For now, you'll have to go
+digging in the code if you really want to understand the output.  The
+idea, though, is that functions like <CODE>backsub</CODE> can make sense of them
+so that you don't have to.</P><P>
+
+Although its other members vary, the table returned by <CODE>factor</CODE>
+always contains a member named <CODE>"RCOND"</CODE>.  This non-negative real
+scalar is an estimate of the reciprocal of the condition number of
+<VAR>m</VAR>.  If <CODE>"RCOND"</CODE> is very small (that is, the condition number
+is very large), then the matrix <VAR>m</VAR> is ill-conditioned.  A warning
+message is produced if <CODE>"RCOND"</CODE> is less than 1.0E-8.</P><P>
+
+<A NAME="IDX349"></A>
+<A NAME="IDX350"></A>
+If BCSLIB-EXT (a sparse math library produced by Boeing Computer
+Services) is available on your system and <CODE>algae</CODE> has been compiled
+for it, then <CODE>factor</CODE> may use its routines to factor sparse matrices.
+In turn, the <CODE>backsub</CODE> and <CODE>solve</CODE> functions can use these
+factors to solve linear equations.  It is often useful to compute the
+factors of a matrix and then save them (using <CODE>put</CODE>) for later use.
+Keep in mind, however, that if these factors were computed with the
+BCSLIB-EXT routines, then the <CODE>algae</CODE> version with which you
+intend to use them must also support BCSLIB-EXT.  The table
+returned by <CODE>factor</CODE> contains the member <CODE>HOLD</CODE> iff a
+BCSLIB-EXT routine was used to produce it.  BCSLIB-EXT is
+never used on dense matrices.</P><P>
+
+The key difference between the <CODE>chol</CODE> and <CODE>factor</CODE> functions
+is that <CODE>chol</CODE> requires that the matrix be symmetric and positive
+definite.  In that case, no pivoting is required; this generally results
+in a significant savings in execution time over the <CODE>factor</CODE>
+function.</P><P>
+
+See also <CODE>backsub</CODE>, <CODE>chol</CODE>, and <CODE>solve</CODE>.
+</DL>
+</P><P>
+
+<A NAME="fft"></A>
+</P><P>
+
+<A NAME="IDX351"></A>
+<A NAME="IDX352"></A>
+<DL>
+<DT><U>Function:</U> <B>fft</B> <I>( x )</I>
+<DD>The <CODE>fft</CODE> function computes the complex discrete Fourier transform
+of the vector <VAR>x</VAR> using the fast Fourier transform method.  The
+result is ordered such that the corresponding frequencies are
+increasing (from negative to positive).  Note that this is a different
+order than that returned by many FFT routines.</P><P>
+
+If <VAR>x</VAR> has <CODE>N</CODE> elements, the transform is a complex vector with
+the same length.  If <CODE>N</CODE> is even, then element <CODE>k</CODE> of the
+transform is equal to<TABLE><tr><td>&nbsp;</td><td class=example><pre>sum (x @ exp (-2*i*pi*(k-N/2)*((1:N)-1)/N))
+</pre></td></tr></table>If <CODE>N</CODE> is odd, then element <CODE>k</CODE> is equal to
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>sum (x @ exp (-2*i*pi*(k-(N+1)/2)*((1:N)-1)/N))
+</pre></td></tr></table></P><P>
+
+The method is most efficient when the number of elements in <VAR>x</VAR> is
+the product of small primes.  For example, a vector with 1021 elements
+(a large prime number) takes roughly 100 times longer to transform than
+a vector with 1024 elements (a power of 2).  On the other hand, 1152
+elements (with prime factors of 2 and 3) is almost as fast as
+1024.</P><P>
+
+If <VAR>x</VAR> has integer or real labels, they are taken to be the
+corresponding abscissae (i.e., time or distance) and are transformed
+accordingly to form labels for the results vector.  In that case, the
+label values must be evenly spaced.</P><P>
+
+See also <CODE>ifft</CODE>.
+</DL>
+</P><P>
+
+<A NAME="filter"></A>
+</P><P>
+
+<A NAME="IDX353"></A>
+<A NAME="IDX354"></A>
+<DL>
+<DT><U>Function:</U> <B>filter</B> <I>( b; a; x; z )</I>
+<DD>The <CODE>filter</CODE> function computes a digital filter from the standard
+difference equation<TABLE><tr><td>&nbsp;</td><td class=example><pre>y[n] = b[1]*x[n] + b[2]*x[n-1] + b[3]*x[n-2] + ...
+                 - a[2]*y[n-1] - a[3]*y[n-2] - ...
+</pre></td></tr></table></P><P>
+
+This filter is implemented using the "direct form II transposed"
+method.  For more information, see Chapter 6 of the book "Discrete-Time
+Signal Processing" by Oppenheim and Schafer.</DL>
+</P><P>
+
+<A NAME="ifft"></A>
+</P><P>
+
+<A NAME="IDX355"></A>
+<A NAME="IDX356"></A>
+<DL>
+<DT><U>Function:</U> <B>ifft</B> <I>( x )</I>
+<DD>The <CODE>ifft</CODE> function computes the complex inverse discrete Fourier
+transform of the vector <VAR>x</VAR> using the fast Fourier transform method.
+The input is ordered such that the corresponding frequencies are
+increasing (from negative to positive).  Note that this is a different
+order than that required by many inverse FFT routines.</P><P>
+
+If <VAR>x</VAR> has <CODE>N</CODE> elements, the transform is a complex vector with
+the same length.  If <CODE>N</CODE> is even, then element <CODE>n</CODE> of the
+transform is equal to<TABLE><tr><td>&nbsp;</td><td class=example><pre>(1/N) * sum (x @ exp (2*i*pi*((1:N)-N/2)*(n-1)/N))
+</pre></td></tr></table>If <CODE>N</CODE> is odd, then element <CODE>n</CODE> is equal to
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>(1/N) * sum (x @ exp (2*i*pi*((1:N)-(N+1)/2)*(n-1)/N))
+</pre></td></tr></table></P><P>
+
+The method is most efficient when the number of elements in <VAR>x</VAR> is the
+product of small primes.  For example, a vector with 1021 elements
+(a prime number) takes roughly 100 times longer to transform than a
+vector with 1024 elements (a power of 2).  On the other hand, 1152
+elements (with prime factors of 2 and 3) is almost as fast as
+1024.</P><P>
+
+If <VAR>x</VAR> has integer or real labels, they are taken to be the
+corresponding abscissae (i.e., frequencies) and are transformed
+accordingly to form labels for the results vector.  In that case, the
+label values must be evenly spaced.</P><P>
+
+See also <CODE>fft</CODE>.
+</DL>
+</P><P>
+
+<A NAME="inv"></A>
+</P><P>
+
+<A NAME="IDX357"></A>
+<A NAME="IDX358"></A>
+<A NAME="IDX359"></A>
+<DL>
+<DT><U>Function:</U> <B>inv</B> <I>( a; opts )</I>
+<DD>The <CODE>inv</CODE> function computes the inverse of a matrix.  This is
+sometimes useful, but you should be aware that an alternative approach
+using <CODE>factor</CODE> (or <CODE>chol</CODE>) and <CODE>solve</CODE> is usually more
+efficient and accurate.  (See below for more details.)</P><P>
+
+The <CODE>inv</CODE> function is implemented simply by calling the
+<CODE>solve</CODE> function with an identity matrix as the second argument.
+The argument <VAR>opts</VAR> is optional and is passed as the third argument
+to <CODE>solve</CODE>.  For example,</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>inv (A; {pos});
+</pre></td></tr></table></P><P>
+
+computes the inverse of the positive-definite matrix <CODE>A</CODE>.</P><P>
+
+The matrix inverse is often used to solve systems of linear equations.
+If <CODE>Ax=b</CODE> is such a system, where <CODE>A</CODE> is a square matrix with
+full rank, then its solution may be computed as</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>x = inv (A) * b;
+</pre></td></tr></table></P><P>
+
+A more efficient and accurate approach, though, is to use the
+<CODE>solve</CODE> function as</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>x = solve (A; b);
+</pre></td></tr></table></P><P>
+
+The use of <CODE>solve</CODE> is appropriate even when several right-hand
+sides are to be considered separately.  For example, the code</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>x = {};
+A_inv = inv (A);
+for (b in members (blist))
+{
+  x.(b) = A_inv * blist.(b);
+}
+</pre></td></tr></table></P><P>
+
+would be better written as
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>x = {};
+A_fac = factor (A);
+for (b in members (blist))
+{
+  x.(b) = solve (A_fac; blist.(b));
+}
+</pre></td></tr></table></P><P>
+
+See also <CODE>backsub</CODE>, <CODE>chol</CODE>, <CODE>factor</CODE>, and <CODE>solve</CODE>.</DL>
+</P><P>
+
+<A NAME="leastsq"></A>
+</P><P>
+
+<A NAME="IDX360"></A>
+<A NAME="IDX361"></A>
+<A NAME="IDX362"></A>
+<A NAME="IDX363"></A>
+<DL>
+<DT><U>Function:</U> <B>leastsq</B> <I>( A; b )</I>
+<DD>This function solves full-rank overdetermined and underdetermined linear
+systems using a QR or LQ factorization.  The inputs are the coefficient
+array <VAR>A</VAR> and the RHS <VAR>b</VAR>.  The return value is the solution
+array <VAR>x</VAR>.</P><P>
+
+An underdetermined system is one for which <VAR>A</VAR> has fewer rows than
+columns.  The rank of <VAR>A</VAR> must be equal to the number of rows of
+<VAR>A</VAR>.  The return value is the minimum norm solution.</P><P>
+
+An overdetermined system is one for which <VAR>A</VAR> has more rows than
+columns.  This function treats a square <VAR>A</VAR> as if it were an
+overdetermined system.  The rank of <VAR>A</VAR> must be equal to the number
+of columns of <VAR>A</VAR>.  The return value is the solution to the least
+squares problem</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>minimize || B - A*X ||
+</pre></td></tr></table></P><P>
+
+See also <CODE>solve</CODE>.
+</DL>
+</P><P>
+
+<A NAME="solve"></A>
+</P><P>
+
+<A NAME="IDX364"></A>
+<A NAME="IDX365"></A>
+<A NAME="IDX366"></A>
+<DL>
+<DT><U>Function:</U> <B>solve</B> <I>( A; b; opts )</I>
+<DD>This function solves the linear equations <CODE>A*x=b</CODE> for <VAR>x</VAR>.
+Conceptually it returns <CODE>inv(A)*b</CODE>, except that <CODE>solve</CODE> is
+generally much more efficient and accurate.  If <VAR>A</VAR> has already been
+factored by the <CODE>factor</CODE> or <CODE>chol</CODE> functions, then its factors
+(in the form of a table returned by those functions) may be given in the
+place of <VAR>A</VAR>.  If the optional argument <VAR>opts</VAR> contains the
+member "pos", then the Cholesky method is used to factor
+<VAR>A</VAR>.</P><P>
+
+See also <CODE>backsub</CODE>, <CODE>chol</CODE>, and <CODE>factor</CODE>.
+</DL>
+</P><P>
+
+<A NAME="ssi"></A>
+</P><P>
+
+<A NAME="IDX367"></A>
+<A NAME="IDX368"></A>
+<DL>
+<DT><U>Function:</U> <B>ssi</B> <I>( A; B; V; eps )</I>
+<DD>The <CODE>ssi</CODE> function uses subspace iteration to compute the first few
+eigenvalues and vectors for a real, symmetric, generalized eigenvalue
+problem <CODE>A*v=B*v*w</CODE>.  The terms <VAR>w</VAR> and <VAR>v</VAR> are the
+eigenvalues and eigenvectors, respectively.</P><P>
+
+Subspace iteration is an effective approach for large, sparse problems
+and for problems for which good estimates of the eigenvectors are
+available.  Otherwise, it sucks.</P><P>
+
+Both <VAR>A</VAR> and <VAR>B</VAR> must be real, symmetric, non-singular matrices.
+The matrix <VAR>V</VAR> contains a set of starting vectors, one to a column.
+A convergence tolerance may be specified with <VAR>eps</VAR>; 1.0E-6 is used
+if <VAR>eps</VAR> is NULL.  A table is returned, containing the members
+"values" and "vectors".</P><P>
+
+See also <CODE>eig</CODE>.
+</DL>
+</P><P>
+
+<A NAME="svd"></A>
+</P><P>
+
+<A NAME="IDX369"></A>
+<A NAME="IDX370"></A>
+<DL>
+<DT><U>Function:</U> <B>svd</B> <I>( A; opts )</I>
+<DD>This function computes the singular value decomposition (SVD) of the
+matrix <VAR>A</VAR>.  In the full case, the SVD is written <CODE>A=U*S*V'</CODE>,
+where <VAR>S</VAR> is a real matrix with the same dimensions as <VAR>A</VAR> and
+<VAR>U</VAR> and <VAR>V</VAR> are the orthogonal (unitary) left and right singular
+vectors.  The matrix <VAR>S</VAR> contains the singular values on its
+diagonal and is zero elsewhere.</P><P>
+
+When <VAR>A</VAR> is not square, one or more rows or columns of <VAR>S</VAR> are
+known <I>a priori</I> to be zero.  By default, <CODE>svd</CODE> then returns a
+"compact" form of the singular vectors, in which the corresponding
+columns of <VAR>U</VAR> or <VAR>V</VAR> are not included.  This behavior may be
+modified by using the <CODE>full</CODE> option, as described below.</P><P>
+
+The argument <VAR>opts</VAR> is an options table; it may contain the members
+<CODE>novectors</CODE> and <CODE>full</CODE>.  (The values of these members are
+irrelevant; only their existence is signficant.)  If <VAR>opts</VAR> contains
+the member <CODE>novectors</CODE>, then only the singular values are computed.
+If <VAR>opts</VAR> contains only the member <CODE>full</CODE>, then the full
+singular vectors are computed.</P><P>
+
+The results of <CODE>svd</CODE> are returned in a table.  The member
+<CODE>sigma</CODE> contains the vector of singular values, sorted in
+decreasing order.  Unless the <CODE>novectors</CODE> option is specified, the
+members <CODE>U</CODE> and <CODE>V</CODE> contain the corresponding left and right
+singular vectors.</P><P>
+
+This function calls the LAPACK routines DGESVD and ZGESVD.</DL>
+</P><P>
+
+<A NAME="transform"></A>
+</P><P>
+
+<A NAME="IDX371"></A>
+<DL>
+<DT><U>Function:</U> <B>transform</B> <I>( A; P )</I>
+<DD>The <CODE>transform</CODE> function performs the linear coordinate
+transformation <CODE>P'*A*P</CODE>, where <VAR>A</VAR> is a square matrix.  In
+fact, there are only two differences between the operator expression
+<CODE>P'*A*P</CODE> and the function expression <CODE>transform(A;P)</CODE>:</P><P>
+
+<UL>
+<LI>
+The <CODE>transform</CODE> function results in the most appropriate symmetry.
+For example if <VAR>A</VAR> and <VAR>P</VAR> are both real, and <VAR>A</VAR> is
+symmetric, then the result is a symmetric matrix.  With the operator
+expression this would not be the case; the result would be exactly the
+same (neglecting any roundoff errors) except that it would be marked
+with general symmetry.<P>
+
+<LI>
+The <CODE>transform</CODE> function is considerably faster than the operator
+expression for some matrix combinations.  In particular, it may be two
+or three times faster when <VAR>P</VAR> is dense and <VAR>A</VAR> is large,
+sparse, and either hermitian or real symmetric.</UL>
+</DL>
+<P>
+
+<A NAME="Numerical Analysis"></A>
+<HR SIZE="6">
+<A NAME="SEC41"></A>
+<H2> 6.5 Numerical Analysis </H2>
+<!--docid::SEC41::-->
+<P>
+
+<A NAME="brent"></A>
+</P><P>
+
+<A NAME="IDX372"></A>
+<A NAME="IDX373"></A>
+<A NAME="IDX374"></A>
+<A NAME="IDX375"></A>
+<DL>
+<DT><U>Function:</U> <B>brent</B> <I>( f; a; b; tol )</I>
+<DD>This function uses Brent's method to find a single root of the function
+<VAR>f</VAR>; that is, a solution to <CODE>f(x)=0</CODE>.  The ordinates <VAR>A</VAR>
+and <VAR>B</VAR> must bracket a root, meaning that <CODE>f(A)*f(B)</CODE> must be
+negative.</DL>
+</P><P>
+
+<A NAME="monte"></A>
+</P><P>
+
+<A NAME="IDX376"></A>
+<A NAME="IDX377"></A>
+<DL>
+<DT><U>Function:</U> <B>monte</B> <I>( f; limits; tol )</I>
+<DD>This function uses the Monte Carlo method to integrate a function.  The
+function values are obtained by calling the function <VAR>f</VAR> with one
+vector argument.  The matrix <VAR>limits</VAR> describes the rectangular
+region over which the function is integrated.  It has two columns and as
+many rows as <VAR>f</VAR> has dimensions.  Each row specifies the extremes of
+the region for the corresponding dimension.  The <VAR>tol</VAR> argument
+specifies an error tolerance.  There is no limit to the number of points
+chosen; <CODE>monte</CODE> continues to pick points until its one standard
+deviation error estimate is less than <VAR>tol</VAR>.  Generally, the
+accuracy increases only as the square root of the number of points
+evaluated.</DL>
+</P><P>
+
+<A NAME="ode4"></A>
+</P><P>
+
+<A NAME="IDX378"></A>
+<A NAME="IDX379"></A>
+<A NAME="IDX380"></A>
+<A NAME="IDX381"></A>
+<DL>
+<DT><U>Function:</U> <B>ode4</B> <I>( f; t0; tf; x0; y; tol; h; s )</I>
+<DD>The <CODE>ode4</CODE> function uses fourth and fifth order Runge-Kutta
+formulas to solve an initial value problem involving a system of
+ordinary differential equations.  The function <VAR>f</VAR>, called as
+<CODE>f( t; x )</CODE>, is expected to return the first derivative of the
+state vector <VAR>x</VAR> with respect to the independent variable <VAR>t</VAR>.
+The arguments <VAR>t0</VAR> and <VAR>tf</VAR> are the initial and final values of
+the independent variable, and <VAR>x0</VAR> is the initial state vector.  The
+argument <VAR>y</VAR> may be a function, called as <CODE>y( t; x )</CODE>, that
+returns a vector of output values.  If <VAR>y</VAR> is NULL, the output
+vector is the state vector itself.</P><P>
+
+The optional argument <VAR>tol</VAR> specifies the desired accuracy; we use
+0.001 if <VAR>tol</VAR> is NULL.  An initial stepsize may be suggested with
+<VAR>h</VAR>.  The <VAR>s</VAR> argument may be used to provide better control
+over the accuracy--if <VAR>s</VAR> is not NULL, then a step is accepted if
+the estimated error in each state, divided by the corresponding term of
+<VAR>s</VAR>, is not greater than <VAR>tol</VAR>.</P><P>
+
+The return value is a matrix containing the output history.  Each column
+contains the output from <VAR>y</VAR> for the particular value of the
+independent variable given by the column label.</DL>
+</P><P>
+
+<A NAME="roots"></A>
+</P><P>
+
+<A NAME="IDX382"></A>
+<A NAME="IDX383"></A>
+<A NAME="IDX384"></A>
+<DL>
+<DT><U>Function:</U> <B>roots</B> <I>( c )</I>
+<DD>This function computes the roots of the polynomial having the
+coefficients given by the vector <VAR>c</VAR>.  If <VAR>c</VAR> has <CODE>n+1</CODE>
+elements, the equation solved (for <CODE>x</CODE>) is</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>c[1]*x^n + c[2]*x^(n-1) + ... + c[n]*x + c[n+1] = 0
+</pre></td></tr></table></P><P>
+
+A vector with zero elements is returned if the equation has no solution
+(<CODE>roots(1)</CODE>, for example).  NULL is returned if it has an infinite
+number of solutions (<CODE>roots(0)</CODE>, for example).  Otherwise, the
+vector returned contains all of the solutions.</DL>
+</P><P>
+
+<A NAME="spline"></A>
+</P><P>
+
+<A NAME="IDX385"></A>
+<A NAME="IDX386"></A>
+<A NAME="IDX387"></A>
+<A NAME="IDX388"></A>
+<DL>
+<DT><U>Function:</U> <B>spline</B> <I>( a; x )</I>
+<DD>This function computes or evaluates natural cubic spline interpolations
+for given data.  If called with one argument, <VAR>a</VAR>, a spline for the
+points in the vector <VAR>a</VAR> is computed.  The elements of <VAR>a</VAR> give
+the ordinates; the labels of <VAR>a</VAR> give the abscissae.  If <VAR>a</VAR> has
+no numeric labels, then the natural numbers from one to the length of
+<VAR>a</VAR> are assumed.  In any case, the vector <VAR>a</VAR> is sorted with
+respect to its labels; they must be unique.</P><P>
+
+If <CODE>spline</CODE> is called with two arguments, <VAR>a</VAR> and <VAR>x</VAR>, then
+the spline <VAR>a</VAR> (or a spline interpolation of <VAR>a</VAR>, if <VAR>a</VAR> is
+not a spline) is evaluated at the abscissa values given by the vector
+<VAR>x</VAR>.</DL>
+</P><P>
+
+<A NAME="Basic I/O"></A>
+<HR SIZE="6">
+<A NAME="SEC42"></A>
+<H2> 6.6 Basic I/O </H2>
+<!--docid::SEC42::-->
+<P>
+
+<A NAME="close"></A>
+</P><P>
+
+<A NAME="IDX389"></A>
+<A NAME="IDX390"></A>
+<A NAME="IDX391"></A>
+<DL>
+<DT><U>Function:</U> <B>close</B> <I>( file )</I>
+<DD>The <CODE>close</CODE> function closes the specified file.  The file name
+<VAR>file</VAR> must be given exactly as it was when the file was opened.
+(Whitespace is significant.)  Any buffered data is flushed.
+</DL>
+</P><P>
+
+<A NAME="digits"></A>
+</P><P>
+
+<A NAME="IDX392"></A>
+<A NAME="IDX393"></A>
+<A NAME="IDX394"></A>
+<A NAME="IDX395"></A>
+<DL>
+<DT><U>Function:</U> <B>digits</B> <I>( n )</I>
+<DD>The <CODE>digits</CODE> function may be used to specify the number of digits
+that <CODE>algae</CODE> uses when printing real and complex numbers.  This
+applies to the <CODE>print</CODE> function and to "printing statements"
+(those with question mark or newline terminators).  The argument <VAR>n</VAR>
+specifies the number of digits.  If <VAR>n</VAR> is NULL, no action is
+taken.</P><P>
+
+The function returns the number of digits being used.  By default,
+<CODE>algae</CODE> uses 4 digits.</P><P>
+
+Here's an example interaction, with user input preceded by the "&#62;"
+prompt:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>&#62; digits ()      # the default
+        4
+&#62; acos (-1)      # pi, to 4 significant digits
+        3.142
+&#62; digits (20);   # set to 20 digits
+&#62; acos (-1)      # pi, to 20 digits (but only accurate to 17)
+        3.1415926535897931000
+</pre></td></tr></table></P><P>
+
+See also <CODE>print</CODE>.
+</DL>
+</P><P>
+
+<A NAME="fread"></A>
+</P><P>
+
+<A NAME="IDX396"></A>
+<A NAME="IDX397"></A>
+<A NAME="IDX398"></A>
+<DL>
+<DT><U>Function:</U> <B>fread</B> <I>( file; length; type )</I>
+<DD>The <CODE>fread</CODE> function reads data from a binary file into a numeric
+array.  This is a low-level routine, and it requires that you know
+precisely the format of the data that is being read.  To read Algae's own
+binary files (those written with <CODE>put</CODE>), see <CODE>get</CODE>.</P><P>
+
+The <VAR>file</VAR> argument (a character scalar) is the file name.  As with
+any file name, if its first character is an exclamation mark then the
+rest of the string is given to the shell as a filter.  If <VAR>file</VAR> is
+NULL, then standard input is read.</P><P>
+
+The <VAR>length</VAR> argument (an integer scalar) gives the number of items
+to read.  If it's NULL, the entire file is read.  Otherwise, it should
+be a non-negative integer.  A vector is returned that contains the data
+that was read.  If <CODE>fread</CODE> reaches the end of the file before
+having read <VAR>length</VAR> elements, then the vector it returns will
+contain fewer than <VAR>length</VAR> elements.</P><P>
+
+The <VAR>type</VAR> argument is an optional table; its member's names specify
+the type of data to read and, implicitly, the type of the returned
+array.  (The values of this table's members are inconsequential; only
+their names are important.)  These names may include any of the C
+language types:
+<DL COMPACT>
+<DT><CODE>char</CODE>
+<DD>Each is cast to an Algae <CODE>integer</CODE>.
+<DT><CODE>int</CODE>
+<DD>Same as an Algae <CODE>integer</CODE>.
+<DT><CODE>float</CODE>
+<DD>Each is cast to an Algae <CODE>real</CODE>.
+<DT><CODE>double</CODE>
+<DD>Same as an Algae <CODE>real</CODE>.
+</DL>
+<P>
+
+The C language type qualifiers are also accepted in <VAR>type</VAR>:
+<DL COMPACT>
+<DT><CODE>long</CODE>
+<DD>A qualifier for <CODE>int</CODE> and <CODE>double</CODE> types.  Both are cast
+to <CODE>real</CODE>.<DT><CODE>short</CODE>
+<DD>A qualifier for <CODE>int</CODE>.  Casts to <CODE>integer</CODE>.
+<DT><CODE>signed</CODE>
+<DD>A qualifier for <CODE>char</CODE> and <CODE>int</CODE>.  Casts to <CODE>integer</CODE>.
+<DT><CODE>unsigned</CODE>
+<DD>A qualifier for <CODE>char</CODE> and <CODE>int</CODE>.  An <CODE>unsigned char</CODE>
+casts to <CODE>integer</CODE>, while an <CODE>unsigned int</CODE> casts to
+<CODE>real</CODE>.</DL>
+Combinations that are disallowed in C (such as <CODE>unsigned double</CODE>)
+are disallowed here, too.  If <VAR>type</VAR> is NULL or empty, <CODE>double</CODE>
+is assumed.<P>
+
+Besides the C language type qualifiers just described, the following
+special qualifiers are also accepted:
+<DL COMPACT>
+<DT><CODE>big</CODE>
+<DD>Specifies the so-called "big endian" byte order.
+<DT><CODE>little</CODE>
+<DD>Specifies the so-called "little endian" byte order.
+<DT><CODE>ieee</CODE>
+<DD>Specifies the IEEE 754 binary floating point format.
+</DL>
+</DL>
+<P>
+
+<A NAME="fprintf"></A>
+</P><P>
+
+<A NAME="IDX399"></A>
+<A NAME="IDX400"></A>
+<A NAME="IDX401"></A>
+<A NAME="IDX402"></A>
+<DL>
+<DT><U>Function:</U> <B>fprintf</B> <I>( file; format; <small>...</small> )</I>
+<DD>The <CODE>fprintf</CODE> function prints formatted output to <VAR>file</VAR>.  The
+<VAR>format</VAR> argument is a character string that contains two types of
+objects: characters and conversion specifications.  Characters are
+printed directly; conversion specifications cause the next argument to
+be formatted and printed.</P><P>
+
+Conversion specifications are introduced using the percent sign
+<SAMP>`%'</SAMP>.  Although extensions are planned, the conversion
+specifications are currently identical to those for the "fprintf"
+function of the ANSI C language.</P><P>
+
+<A NAME="IDX403"></A>
+<A NAME="IDX404"></A>
+<A NAME="IDX405"></A>
+<A NAME="IDX406"></A>
+If the first character of <VAR>file</VAR> is an exclamation mark, then the
+rest of <VAR>file</VAR> is given to the shell as a filter to which the
+printed output of <CODE>fprintf</CODE> is sent.  For example, the command
+<CODE>fprintf("!sort";"a\nc\nb\n");close("!sort");</CODE> sends "a", "c",
+and "b", each on a separate line, to the system's sort function, which
+then presumably sorts and prints it.  If <VAR>file</VAR> is NULL, stdout is
+used.</P><P>
+
+See also <CODE>message</CODE>, <CODE>print</CODE>, <CODE>printf</CODE>, <CODE>sprintf</CODE>,
+and <CODE>put</CODE>.</DL>
+</P><P>
+
+<A NAME="fwrite"></A>
+</P><P>
+
+<A NAME="IDX407"></A>
+<A NAME="IDX408"></A>
+<A NAME="IDX409"></A>
+<DL>
+<DT><U>Function:</U> <B>fwrite</B> <I>( file; v; type )</I>
+<DD>The <CODE>fwrite</CODE> function writes binary data to a file from a numeric
+array.  This is a low-level routine, and it requires that you specify
+precisely the format of the data being written.  To write an entity for
+use in Algae, you'll probably want to use <CODE>put</CODE> instead.</P><P>
+
+The <VAR>file</VAR> argument (a character scalar) is the file name.  As with
+any file name, if its first character is an exclamation mark then the
+rest of the string is given to the shell as a filter.  If <VAR>file</VAR> is
+NULL, then the data is written to standard output.</P><P>
+
+The data to be written is given in the argument <VAR>v</VAR>, a numeric
+vector.</P><P>
+
+The <VAR>type</VAR> argument is an optional table; its member's names specify
+the type of data to write.  (The values of this table's members are
+inconsequential; only their names are important.)  These names may
+include any of the C language types and qualifiers, and a few others.
+See <CODE>fread</CODE> for details.</DL>
+</P><P>
+
+<A NAME="message"></A>
+</P><P>
+
+<A NAME="IDX410"></A>
+<A NAME="IDX411"></A>
+<A NAME="IDX412"></A>
+<DL>
+<DT><U>Function:</U> <B>message</B> <I>( fmt; <small>...</small> )</I>
+<DD>The <CODE>message</CODE> function is used to write error messages to stderr.
+Its arguments are exactly like <CODE>printf</CODE>, except that a maximum of
+10 arguments is allowed.  The message written includes the program and
+file names as well as the line number.</P><P>
+
+See also <CODE>printf</CODE>.
+</DL>
+</P><P>
+
+<A NAME="print"></A>
+</P><P>
+
+<A NAME="IDX413"></A>
+<DL>
+<DT><U>Function:</U> <B>print</B> <I>( x; file )</I>
+<DD>The <CODE>print</CODE> function prints its argument <VAR>x</VAR> to a file named by
+<VAR>file</VAR>.  This output goes through the same formatting that
+<CODE>algae</CODE> uses to print entities to the screen.  In particular, the
+variable <CODE>$term_width</CODE> controls the width of this output, and the
+<CODE>digits</CODE> function specifies the number of significant digits
+printed for real and complex numbers.</P><P>
+
+If <VAR>file</VAR> is NULL, then the output is written to stdout.
+</P><P>
+
+See also <CODE>digits</CODE>, <CODE>fprintf</CODE>, <CODE>printf</CODE>, <CODE>sprintf</CODE>,
+and <CODE>put</CODE>.</DL>
+</P><P>
+
+<A NAME="printf"></A>
+</P><P>
+
+<A NAME="IDX414"></A>
+<A NAME="IDX415"></A>
+<A NAME="IDX416"></A>
+<A NAME="IDX417"></A>
+<DL>
+<DT><U>Function:</U> <B>printf</B> <I>( format; <small>...</small> )</I>
+<DD>The <CODE>printf</CODE> function prints formatted output to stdout.  It is
+exactly the same as calling <CODE>fprintf</CODE> with NULL as the first
+argument.</P><P>
+
+See also <CODE>fprintf</CODE>, <CODE>message</CODE>, <CODE>print</CODE>, <CODE>put</CODE>, and
+<CODE>sprintf</CODE>.</DL>
+</P><P>
+
+<A NAME="read"></A>
+</P><P>
+
+<A NAME="IDX418"></A>
+<A NAME="IDX419"></A>
+<A NAME="IDX420"></A>
+<DL>
+<DT><U>Function:</U> <B>read</B> <I>( file )</I>
+<DD>This function reads a line of text and returns it as a character string.
+The argument <VAR>file</VAR> may be a file name or a pipe; see <CODE>fprintf</CODE>
+for details.  If <VAR>file</VAR> is NULL, the text is read from standard
+input.</P><P>
+
+When <CODE>read</CODE> reaches the end of file, it returns NULL.</P><P>
+
+See also <CODE>get</CODE> and <CODE>readnum</CODE>.</DL>
+</P><P>
+
+<A NAME="readnum"></A>
+</P><P>
+
+<A NAME="IDX421"></A>
+<A NAME="IDX422"></A>
+<A NAME="IDX423"></A>
+<DL>
+<DT><U>Function:</U> <B>readnum</B> <I>( shape; file )</I>
+<DD>This function reads real numbers from a file named <VAR>file</VAR>.  The vector
+<VAR>shape</VAR> specifies the form of the output.  If <VAR>shape</VAR> is NULL or
+has zero length, a scalar is returned.  If <VAR>shape</VAR> has length one,
+then a vector with <CODE>shape[1]</CODE> elements is returned.  If <VAR>shape</VAR>
+has two elements, then a matrix is returned with <CODE>shape[1]</CODE> rows and
+<CODE>shape[2]</CODE> columns.</P><P>
+
+The values are read from <VAR>file</VAR>, or from stdin if <VAR>file</VAR> is NULL
+or not given.  The <SAMP>`#'</SAMP> symbol is special--it and all remaining
+characters on a line are ignored.  If the end of file is reached before
+the specified number of values is read, then the result is filled out
+with zeros.  After a call to <CODE>readnum</CODE>, the number of values actually
+read is contained in the variable <CODE>$read</CODE>.</P><P>
+
+For example, let's say you have a file called <TT>`jnk'</TT> that contains
+the following:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre># this line is ignored - numbers like 1.23 are skipped
+the first two numbers are 42 and 99.
+3.14 is the next one
+</pre></td></tr></table></P><P>
+
+In the following interaction we read the numbers from the file into a
+matrix:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>&#62; x = readnum (2,4; "jnk")?
+        [         42.00        99.00        3.140        0.000 ]
+        [         0.000        0.000        0.000        0.000 ]
+&#62; $read?
+        3
+&#62; readnum (3; "jnk")?
+        (        0.000,       0.000,       0.000 )
+</pre></td></tr></table></P><P>
+
+As you can see, anything that doesn't look like a number is simply
+skipped.  The <CODE>readnum</CODE> function found three numbers and filled in
+the rest of the matrix with zeros.  The global variable <CODE>$read</CODE> was
+set to 3 - the number of values actually read.</P><P>
+
+Subsequent calls to <CODE>readnum</CODE> with the same file name simply
+continue reading from the last position in the file.  In the last
+statement of the previous example, no more numbers were found so the
+vector was filled with zeros.  To read again from the start of the file,
+you must first close the file with the <CODE>close</CODE> function.</P><P>
+
+The <CODE>readnum</CODE> function recognizes integers and floating point
+numbers.  A floating point number consists of an optionally signed
+integer part, a decimal point, a fraction part, an <SAMP>`e'</SAMP> or <SAMP>`E'</SAMP>,
+and an optionally signed integer exponent.  All of the following
+examples are recognized as numbers: <SAMP>`1'</SAMP>, <SAMP>`-1.2'</SAMP>, <SAMP>`1e2'</SAMP>,
+<SAMP>`-1.e2'</SAMP>, <SAMP>`.1e2'</SAMP>, <SAMP>`-1.2e3'</SAMP>, and <SAMP>`1.2e-3'</SAMP>.</P><P>
+
+Fortran users take note!  A Fortran double precision number such as
+<SAMP>`1.23D4'</SAMP> will not be read by <CODE>readnum</CODE> as a single number.
+The character <SAMP>`D'</SAMP> is not recognized as part of a floating point
+number, so <CODE>readline</CODE> will read this as the two numbers <SAMP>`1.23'</SAMP>
+and <SAMP>`4'</SAMP>.</DL>
+</P><P>
+
+<A NAME="sprintf"></A>
+</P><P>
+
+<A NAME="IDX424"></A>
+<DL>
+<DT><U>Function:</U> <B>sprintf</B> <I>( format; <small>...</small> )</I>
+<DD>The <CODE>sprintf</CODE> function writes formatted output to a character
+scalar.  It works the same as <CODE>printf</CODE>, except that the output is
+returned instead of printed.  For example, <CODE>x=sprintf("y=%d";1)</CODE>
+puts the string "y=1" in the scalar <VAR>x</VAR>.</P><P>
+
+See also <CODE>fprintf</CODE>, <CODE>printf</CODE>, and <CODE>put</CODE>.</DL>
+</P><P>
+
+<A NAME="tmp_file"></A>
+</P><P>
+
+<A NAME="IDX425"></A>
+<A NAME="IDX426"></A>
+<DL>
+<DT><U>Function:</U> <B>tmp_file</B> <I>( )</I>
+<DD>The <CODE>tmp_file</CODE> function creates a temporary file and returns its
+name.  This file will be deleted automatically when <CODE>algae</CODE>
+exits.</P><P>
+
+By default, <CODE>algae</CODE> writes temporary files in the directory
+<TT>`/tmp'</TT>.  You can override that with an environment variable called
+<CODE>TMPDIR</CODE>.  For example, if you use the Bourne shell and put the
+lines</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>TMPDIR=/usr/tmp
+export TMPDIR
+</pre></td></tr></table></P><P>
+
+in your <TT>`~/.profile'</TT> file, then <CODE>algae</CODE> will put its temporary
+files in the <TT>`/usr/tmp'</TT> directory.</P><P>
+
+This function not only creates the file, but opens it for output.  If
+you want to read from the temporary file, then you should close it
+first.  (Of course, you'll need to arrange to get something in it,
+first.)  Notice that temporary files are not deleted when closed, but
+only when <CODE>algae</CODE> exits.</DL>
+</P><P>
+
+<A NAME="Entity I/O"></A>
+<HR SIZE="6">
+<A NAME="SEC43"></A>
+<H2> 6.7 Entity I/O </H2>
+<!--docid::SEC43::-->
+<P>
+
+<A NAME="get"></A>
+</P><P>
+
+<A NAME="IDX427"></A>
+<A NAME="IDX428"></A>
+<DL>
+<DT><U>Function:</U> <B>get</B> <I>( file )</I>
+<DD>The <CODE>get</CODE> function reads an Algae entity from a binary file named
+<VAR>file</VAR>.  If no argument is given, standard input is used.  Use this
+function to read files written with <CODE>put</CODE>.  The file name can
+specify a pipe; see <CODE>fprintf</CODE> for more details.</P><P>
+
+NULL is returned if an error occurs in reading the file; otherwise
+<CODE>get</CODE> returns the entity it read.</DL>
+</P><P>
+
+<A NAME="getdyn"></A>
+</P><P>
+
+<A NAME="IDX429"></A>
+<DL>
+<DT><U>Function:</U> <B>getdyn</B> <I>( fname )</I>
+<DD>This function reads matrices from the DYNASTY file <VAR>fname</VAR>.
+(DYNASTY is the name of a software package used at Boeing for dynamic
+analysis.)  A table is returned, containing the matrices as
+members.</P><P>
+
+The file name can specify a pipe; see <CODE>fprintf</CODE> for more
+details.</DL>
+</P><P>
+
+<A NAME="getmat"></A>
+</P><P>
+
+<A NAME="IDX430"></A>
+<A NAME="IDX431"></A>
+<DL>
+<DT><U>Function:</U> <B>getmat</B> <I>( fname )</I>
+<DD>The <CODE>getmat</CODE> function reads matrices from a MATLAB binary file
+named <VAR>fname</VAR>.  It returns the matrices in a table.</P><P>
+
+The file name can specify a pipe; see <CODE>fprintf</CODE> for more
+details.</P><P>
+
+Notice that <CODE>getmat</CODE> doesn't assign the matrices to the global
+symbol table as MATLAB's "load" function does.  To do that, you might
+use something like the following:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>Load = function (fname)
+{
+  local (t; n);
+  t = getmat (fname);
+  for (n in members (t))
+  {
+    $$.(n) = t.(n);
+  }
+};
+</pre></td></tr></table></P><P>
+
+The <CODE>getmat</CODE> function reads the MATLAB v.4 "Level-1 MAT-file"
+format.  MATLAB can read and write in this format, but its default for
+writing is now Level-2.  Using the newer format would require us to link
+to their libraries, meaning that you'd need to actually have MATLAB on
+that machine.  We'll stick with the older format.</P><P>
+
+One unfortunate consequence of using the older file format is that
+matrices cannot be written in sparse form.  To get around this, convert
+the matrix to coordinate form (which is dense) within MATLAB and then
+change it back to sparse form in <CODE>algae</CODE> with the <CODE>mksparse</CODE>
+function.</P><P>
+
+See also <CODE>get</CODE>, <CODE>put</CODE>, and <CODE>putmat</CODE>.</DL>
+</P><P>
+
+<A NAME="load"></A>
+</P><P>
+
+<A NAME="IDX432"></A>
+<DL>
+<DT><U>Function:</U> <B>load</B> <I>( fname )</I>
+<DD>The <CODE>load</CODE> function reads a table from a file named <VAR>fname</VAR> and
+assigns its members as global variables.  This can be used, for example,
+to restore an <CODE>algae</CODE> session that was saved with the <CODE>save</CODE>
+function.</P><P>
+
+If an error occurs in reading the file, <CODE>load</CODE> returns 0; otherwise
+it returns 1.</P><P>
+
+See also <CODE>get</CODE>, <CODE>put</CODE>, and <CODE>save</CODE>.</DL>
+</P><P>
+
+<A NAME="put"></A>
+</P><P>
+
+<A NAME="IDX433"></A>
+<A NAME="IDX434"></A>
+<DL>
+<DT><U>Function:</U> <B>put</B> <I>( x; fname )</I>
+<DD>The <CODE>put</CODE> function writes <VAR>x</VAR> to a binary file named
+<VAR>fname</VAR> (or standard output if <VAR>fname</VAR> is NULL).  This binary
+file can be read with <CODE>get</CODE>.  The file name can specify a pipe; see
+<CODE>fprintf</CODE> for more details.</P><P>
+
+NULL is returned if an error occurs in writing the file; otherwise a 1
+is returned.</DL>
+</P><P>
+
+<A NAME="putdyn"></A>
+</P><P>
+
+<A NAME="IDX435"></A>
+<DL>
+<DT><U>Function:</U> <B>putdyn</B> <I>( x; fname )</I>
+<DD>This function writes the members of the table <VAR>x</VAR> to a DYNASTY file
+named <VAR>fname</VAR>.  (DYNASTY is the name of a software package used at
+Boeing for dynamic analysis.)  The file name may specify a pipe; see
+<CODE>fprintf</CODE> for more details.</P><P>
+
+The file is not closed when <CODE>putdyn</CODE> finishes, so subsequent writes
+to the same file will append data to the end of it unless you close it
+first.  On some machines, this could be used to build a complete DYNASTY
+file with several different calls to <CODE>putdyn</CODE>.  The disadvantage,
+though, is that the DYNASTY file format doesn't allow this on all
+machines.</DL>
+</P><P>
+
+<A NAME="putmat"></A>
+</P><P>
+
+<A NAME="IDX436"></A>
+<A NAME="IDX437"></A>
+<DL>
+<DT><U>Function:</U> <B>putmat</B> <I>( t; fname )</I>
+<DD>The <CODE>putmat</CODE> function writes a table of matrices <VAR>t</VAR> to a
+MATLAB binary file named <VAR>fname</VAR>.  The file name can specify a pipe;
+see <CODE>fprintf</CODE> for more details.</P><P>
+
+NULL is returned if an error occurs in writing the file; otherwise a 1
+is returned.</P><P>
+
+NULL members in <VAR>t</VAR> are skipped; otherwise each member is converted
+to a matrix if necessary and then written to the file.</P><P>
+
+The <CODE>putmat</CODE> function writes in the MATLAB v.4 "Level-1 MAT-file"
+format.  MATLAB can read and write in this format, but its default for
+writing is now Level-2.  Using the newer format would require us to link
+to their libraries, meaning that you'd need to actually have MATLAB on
+that machine.  We'll stick with the older format.</P><P>
+
+One unfortunate consequence of using the older file format is that
+matrices cannot be written in sparse form.  To get around this, use the
+<CODE>exsparse</CODE> function to convert the matrix to coordinate form (which
+is dense) and then change it back to sparse form within MATLAB.</P><P>
+
+See also <CODE>get</CODE>, <CODE>getmat</CODE>, and <CODE>put</CODE>.</DL>
+</P><P>
+
+<A NAME="save"></A>
+</P><P>
+
+<A NAME="IDX438"></A>
+<DL>
+<DT><U>Function:</U> <B>save</B> <I>( fname )</I>
+<DD>The <CODE>save</CODE> function writes all non-NULL global variables as a table
+to a file named <VAR>fname</VAR>.  This can be used, for example, to save an
+<CODE>algae</CODE> session that you wish to start again later using the
+<CODE>load</CODE> function.</P><P>
+
+NULL is returned if an error occurs in writing the file; otherwise
+<CODE>save</CODE> returns 1.</P><P>
+
+See also <CODE>get</CODE>, <CODE>load</CODE>, and <CODE>put</CODE>.
+</DL>
+</P><P>
+
+<A NAME="Execution"></A>
+<HR SIZE="6">
+<A NAME="SEC44"></A>
+<H2> 6.8 Execution </H2>
+<!--docid::SEC44::-->
+<P>
+
+<A NAME="autosrc"></A>
+</P><P>
+
+<A NAME="IDX439"></A>
+<A NAME="IDX440"></A>
+<DL>
+<DT><U>Function:</U> <B>autosrc</B> <I>( name; file )</I>
+<DD>This function creates an <EM>autosrc</EM> function named <VAR>name</VAR>.  When
+this new function is later called, it replaces itself with a definition
+that it reads by calling the <CODE>src</CODE> function with the file name
+<VAR>file</VAR>.  In this way, you can put off reading a function's
+definition until it is actually called.</P><P>
+
+If <VAR>file</VAR> is <CODE>NULL</CODE>, then <CODE>autosrc</CODE> uses the value of
+<VAR>name</VAR> for the file name.</P><P>
+
+For example, consider the following code:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>autosrc ("yow");
+yow ();
+</pre></td></tr></table></P><P>
+
+The first line defines an autosrc function named <CODE>yow</CODE>.  When
+<CODE>yow</CODE> is called on the second line, it reads the real definition of
+<CODE>yow</CODE> by calling <CODE>src</CODE> with the file name <CODE>"yow"</CODE>.  It
+then calls its replacement (with the same arguments, of course).</P><P>
+
+The current implementation of <CODE>autosrc</CODE> restricts the number of
+arguments to 10.  (It's an ugly restriction, but if you need that many
+arguments perhaps you should be using a table, instead.)  A zero
+returned indicates success.</DL>
+</P><P>
+
+<A NAME="builtin"></A>
+</P><P>
+
+<A NAME="IDX441"></A>
+<A NAME="IDX442"></A>
+<A NAME="IDX443"></A>
+<A NAME="IDX444"></A>
+<DL>
+<DT><U>Function:</U> <B>builtin</B> <I>( file; symbol )</I>
+<DD>On machines that support dymamic linking, this function creates a new
+builtin function by linking to a shared object named by <VAR>file</VAR> and
+locating the symbol named by <VAR>symbol</VAR>.</P><P>
+
+Suppose you have some old Fortran code that computes your chances of
+being hit by a comet.  You can write a C wrapper for it, link them as a
+shared object, use <CODE>builtin</CODE> to attach it, and, voila!, it's a
+builtin function.</P><P>
+
+Unlike other functions in Algae that deal with files, <CODE>builtin</CODE> does
+not accept the special "bang" type file names.  (These are file names
+that begin with an exclamation point and are given to the shell as a
+command.)</P><P>
+
+It isn't hard to create shared objects for <CODE>builtin</CODE>, but currently
+there's no documentation for it.  Perhaps you can find some code to
+imitate.</DL>
+</P><P>
+
+<A NAME="cd"></A>
+</P><P>
+
+<A NAME="IDX445"></A>
+<A NAME="IDX446"></A>
+<A NAME="IDX447"></A>
+<DL>
+<DT><U>Function:</U> <B>cd</B> <I>( path )</I>
+<DD>The <CODE>cd</CODE> function changes the current default directory to that
+specified by the character scalar <VAR>path</VAR>.  If <VAR>path</VAR> is NULL,
+the directory is changed to that given by the <CODE>HOME</CODE> environment
+variable.</P><P>
+
+An exception is raised if an error occurs; otherwise, <CODE>cd</CODE> returns
+the integer 1.</DL>
+</P><P>
+
+<A NAME="eval"></A>
+</P><P>
+
+<A NAME="IDX448"></A>
+<A NAME="IDX449"></A>
+<DL>
+<DT><U>Function:</U> <B>eval</B> <I>( s )</I>
+<DD>The <CODE>eval</CODE> function evaluates the string <VAR>s</VAR> as an expression
+and returns its value.  Variable references, if any, have global scope.
+For example, consider the following interaction:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>&#62; x = 0.5;
+&#62; str = "sin(x)";
+&#62; eval (str)
+        0.4794
+&#62; x = 1.0;
+&#62; eval (str)
+        0.8415
+</pre></td></tr></table></P><P>
+
+Although the value of <CODE>str</CODE> remains <CODE>"sin(x)"</CODE>, the result of
+<CODE>eval(str)</CODE> changes when the value of <CODE>x</CODE> changes.</P><P>
+
+Unlike its prominent place in some matrix programming languages,
+<CODE>eval</CODE> is rarely necessary in Algae.  Most examples of its use are
+rather contrived.  Here's some code which evaluates an expression typed
+in by the user:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>x = eval (read ("!echo -n \"expression?  \" 1>&2 ; head -1"))
+</pre></td></tr></table></P><P>
+
+One use for <CODE>eval</CODE> that may not be quite so contrived involves
+building a function within a function--something that you can't do
+directly in Algae.  Here's an example:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>add_const = function (c)
+{
+  return eval (sprintf ("function (x) { return x+%g; }"; c));
+};
+</pre></td></tr></table></P><P>
+
+This could then be used as follows:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>&#62; ten_more = add_const( 10 );
+&#62; ten_more(1)?
+        11
+</pre></td></tr></table></P><P>
+
+Probably the most common mistake made with <CODE>eval</CODE> is giving it a
+statement instead of an expression.  If that's really what you want to
+do, use the <CODE>exec</CODE> function instead.</P><P>
+
+Remember, too, that all variable references are at global scope.  For
+example, the function</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>function( a; b ) { return eval( "a + b" ); }
+</pre></td></tr></table></P><P>
+
+returns the sum of the global variables <CODE>a</CODE> and <CODE>b</CODE>; it
+completely ignores the function's arguments, as they are local
+variables.</P><P>
+
+See also <CODE>exec</CODE>.
+</DL>
+</P><P>
+
+<A NAME="exception"></A>
+</P><P>
+
+<A NAME="IDX450"></A>
+<A NAME="IDX451"></A>
+<DL>
+<DT><U>Function:</U> <B>exception</B> <I>( )</I>
+<DD>This function "raises an exception", meaning that Algae makes an error
+return.  If execution is interactive, control returns to the user.
+Otherwise, Algae exits.</DL>
+</P><P>
+
+<A NAME="exec"></A>
+</P><P>
+
+<A NAME="IDX452"></A>
+<A NAME="IDX453"></A>
+<DL>
+<DT><U>Function:</U> <B>exec</B> <I>( s )</I>
+<DD>The <CODE>exec</CODE> function causes <CODE>algae</CODE> to parse and execute the
+Algae statements contained in the character string <VAR>s</VAR>.  Execution
+begins at global scope, even if <CODE>exec</CODE> is called from a function.
+It returns a negative integer if an error occurs, and zero otherwise.</P><P>
+
+See also <CODE>eval</CODE> and <CODE>source</CODE>.
+</DL>
+</P><P>
+
+<A NAME="exit"></A>
+</P><P>
+
+<A NAME="IDX454"></A>
+<A NAME="IDX455"></A>
+<A NAME="IDX456"></A>
+<DL>
+<DT><U>Function:</U> <B>exit</B> <I>( status )</I>
+<DD>This function terminates Algae.  The optional argument <VAR>status</VAR>
+specifies the exit status that Algae returns.  On most computer
+platforms, the exit status is expected to be a small, positive integer.
+The <VAR>status</VAR> argument to <CODE>exit</CODE> should be numeric scalar.  If
+<CODE>exit</CODE> is called with anything else, Algae returns 0 as its exit
+status.</P><P>
+
+A call to <CODE>exit</CODE> is not mandatory in your Algae programs.  Algae
+terminates when it reaches the end of its input, returning exit status
+0.  If an error causes Algae to terminate, exit status 1 is returned.</DL>
+</P><P>
+
+<A NAME="file"></A>
+</P><P>
+
+<A NAME="IDX457"></A>
+<DL>
+<DT><U>Function:</U> <B>file</B> <I>( )</I>
+<DD>The <CODE>file</CODE> function returns the name of the file from which
+statements are currently being executed.</DL>
+</P><P>
+
+<A NAME="get_path"></A>
+</P><P>
+
+<A NAME="IDX458"></A>
+<A NAME="IDX459"></A>
+<DL>
+<DT><U>Function:</U> <B>get_path</B> <I>( env; def )</I>
+<DD>The <CODE>get_path</CODE> function returns a path list, for use in file
+searching.  The argument <VAR>env</VAR>, if it isn't NULL, gives the name of
+an environment variable containing a colon-separated list of paths.  The
+<VAR>def</VAR> argument gives a default value, in case <VAR>env</VAR> isn't given
+or doesn't exist.</P><P>
+
+See also <CODE>search_path</CODE> and <CODE>src</CODE>.
+</DL>
+</P><P>
+
+<A NAME="getenv"></A>
+</P><P>
+
+<A NAME="IDX460"></A>
+<A NAME="IDX461"></A>
+<A NAME="IDX462"></A>
+<DL>
+<DT><U>Function:</U> <B>getenv</B> <I>( ename )</I>
+<DD>The <CODE>getenv</CODE> function returns a character scalar that contains the
+value of the environment variable named by <VAR>ename</VAR>.  If no such
+variable exists, NULL is returned.</DL>
+</P><P>
+
+<A NAME="line"></A>
+</P><P>
+
+<A NAME="IDX463"></A>
+<DL>
+<DT><U>Function:</U> <B>line</B> <I>( )</I>
+<DD>The <CODE>line</CODE> function returns the line number from which it is
+called.</DL>
+</P><P>
+
+<A NAME="provide"></A>
+</P><P>
+
+<A NAME="IDX464"></A>
+<A NAME="IDX465"></A>
+<DL>
+<DT><U>Function:</U> <B>provide</B> <I>( feature )</I>
+<DD>A <EM>feature</EM> is simply a name that stands for a particular collection
+of functions or other entities.  A program announces that a feature is
+present by calling the <CODE>provide</CODE> function with <VAR>feature</VAR>, the
+name of that feature.  This means that the facilities associated with
+<VAR>feature</VAR> have been made available for other Algae programs.</P><P>
+
+Programs that require a particular feature can source the appropriate
+file with the <CODE>require</CODE> function.</P><P>
+
+The argument <VAR>feature</VAR> must be a character scalar.  It is added to
+the global variable <CODE>$features</CODE> if it is not already present in
+that vector.  The <CODE>provide</CODE> function returns <VAR>feature</VAR>.</DL>
+</P><P>
+
+<A NAME="require"></A>
+</P><P>
+
+<A NAME="IDX466"></A>
+<DL>
+<DT><U>Function:</U> <B>require</B> <I>( feature; filename )</I>
+<DD>A <EM>feature</EM> is simply a name that stands for a particular collection
+of functions or other entities.  A program that needs the collection may
+ensure that they are defined by calling <CODE>require</CODE> with the name of
+that feature.  The use of named features simplifies the task of
+determining whether required assignments have been made.</P><P>
+
+The <CODE>require</CODE> function checks for the feature named <VAR>feature</VAR>
+in the current Algae session; if it isn't present, then <CODE>require</CODE>
+reads the source file <VAR>filename</VAR> with <CODE>src</CODE>.  If <VAR>filename</VAR>
+is <CODE>NULL</CODE>, then the value of <VAR>feature</VAR> is used as the file
+name.</P><P>
+
+Before it finishes, the source file read by <CODE>require</CODE> is expected
+to call the <CODE>provide</CODE> function, indicating that the desired feature
+has been provided.  An exception is raised if the source file cannot be
+read or does not provide the feature named <VAR>feature</VAR>.</DL>
+</P><P>
+
+<A NAME="search_path"></A>
+</P><P>
+
+<A NAME="IDX467"></A>
+<DL>
+<DT><U>Function:</U> <B>search_path</B> <I>( fn; suffices; path )</I>
+<DD>The <CODE>search_path</CODE> function searches for a file in the directories
+named in <VAR>path</VAR>.  The file name begins with the string given by
+<VAR>fn</VAR>, with one of the suffices given by <VAR>suffices</VAR>.</DL>
+</P><P>
+
+<A NAME="source"></A>
+</P><P>
+
+<A NAME="IDX468"></A>
+<DL>
+<DT><U>Function:</U> <B>source</B> <I>( fname )</I>
+<DD>This function causes <CODE>algae</CODE> to parse and execute the file named
+<VAR>fname</VAR>.  Execution begins at global scope, even if <CODE>source</CODE> is
+called from a function.  It returns NULL if it has a problem opening
+<VAR>fname</VAR>, a negative integer if a parse or run time error occurs, and
+zero otherwise.</P><P>
+
+The file is closed after it is read.</P><P>
+
+See also <CODE>exec</CODE> and <CODE>sources</CODE>.
+</DL>
+</P><P>
+
+<A NAME="sources"></A>
+</P><P>
+
+<A NAME="IDX469"></A>
+<DL>
+<DT><U>Function:</U> <B>sources</B> <I>( fname )</I>
+<DD>The <CODE>sources</CODE> function causes <CODE>algae</CODE> to parse and execute
+specified files.  The character scalar <VAR>fname</VAR> is passed through
+sh(1) to ls(1), so file name generation is available and multiple names
+may be given.  For example,</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>sources( "*.A" );
+</pre></td></tr></table></P><P>
+
+sources all of the files ending with <TT>`.A'</TT> in your working
+directory.  Although you could use the <CODE>source</CODE> function to do this
+as</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>source( "!cat *.A" );
+</pre></td></tr></table></P><P>
+
+using <CODE>sources</CODE> is preferable because it maintains the correct file
+and line information for the interpreter.</P><P>
+
+The "pipe" capability normally available to Algae I/O functions is not
+permitted in <CODE>sources</CODE>.  Command substitution works, though, as
+demonstrated here:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>sources( "`find $HOME -name '*.A' -print`" );
+</pre></td></tr></table></P><P>
+
+This example sources every file ending with <TT>`.A'</TT> found in any
+subdirectory under your home directory.</DL>
+</P><P>
+
+<A NAME="src"></A>
+</P><P>
+
+<A NAME="IDX470"></A>
+<A NAME="IDX471"></A>
+<DL>
+<DT><U>Function:</U> <B>src</B> <I>( filename )</I>
+<DD>The <CODE>src</CODE> function finds and opens a file of Algae code, executes
+the statements within it at global scope, and then closes the file.
+This function, rather than <CODE>source</CODE> or <CODE>sources</CODE>, is intended
+to be the normal way to source files directly.  Other functions that may
+be used to source files are <CODE>require</CODE> and <CODE>autosrc</CODE>.</P><P>
+
+To find the file, <CODE>src</CODE> looks first for a file named
+<TT>`<VAR>filename</VAR>.A'</TT>, that is, it appends <SAMP>`.A'</SAMP> to the name given
+by the argument <VAR>filename</VAR>.  If a file with that name exists, it is
+sourced; otherwise, <CODE>src</CODE> looks for a file named <VAR>filename</VAR>
+with nothing appended, and sources it if it exists.</P><P>
+
+<A NAME="IDX472"></A>
+<A NAME="IDX473"></A>
+If <VAR>filename</VAR> is a relative file name, such as <TT>`foo'</TT> or
+<TT>`foo/bar.A'</TT>, <CODE>src</CODE> searches for the file using the variable
+<CODE>$src_path</CODE>.  It appends <VAR>filename</VAR> to each of the directories
+listed in the character vector <CODE>$src_path</CODE> (both with and without
+the <SAMP>`.A'</SAMP>), and sources the first file it finds whose name matches.
+The current default directory is tried only if it is specified in
+<CODE>$src_path</CODE>.</P><P>
+
+<A NAME="IDX474"></A>
+No directory searching is performed if <VAR>filename</VAR> is an absolute
+file name.  File names that begin with <SAMP>`/'</SAMP>, <SAMP>`./'</SAMP>, <SAMP>`../'</SAMP>,
+or <SAMP>`~/'</SAMP> are absolute.  If the file name begins with <SAMP>`~/'</SAMP>, the
+tilde is replaced with the value of the <CODE>HOME</CODE> environment
+variable.</P><P>
+
+<A NAME="IDX475"></A>
+<A NAME="IDX476"></A>
+<A NAME="IDX477"></A>
+A file name that begins with the <SAMP>`!'</SAMP> character is a pipe; the rest
+of the file name is given as a command line to the shell, the standard
+output of which is then read by <CODE>src</CODE>.  For example,</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>src("!m4 foo.A")
+</pre></td></tr></table></P><P>
+
+runs the file <TT>`foo.A'</TT> through the <CODE>m4</CODE> macro preprocessor
+first before <CODE>src</CODE> reads it.</P><P>
+
+<A NAME="IDX478"></A>
+The <CODE>$src_path</CODE>
+vector is initialized from the environment variable
+<CODE>ALGAE_SRC_PATH</CODE>, if it exists.  It may be modified in either of
+the startup files <TT>`/usr/local/lib/algae/3.6.2/algae.A'</TT> or
+<TT>`$HOME/.algae'</TT>.  (See section <A HREF="algae_7.html#SEC48">7.1 Startup Files</A>.)</P><P>
+
+The syntax of <CODE>ALGAE_SRC_PATH</CODE> is the same as that of <CODE>PATH</CODE> for
+the shell; fields are separated by <SAMP>`:'</SAMP>, and <SAMP>`.'</SAMP> is used for
+the current default directory.  To set <CODE>ALGAE_SRC_PATH</CODE> in the Bourne
+shell, type something like the following:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>export ALGAE_SRC_PATH
+ALGAE_SRC_PATH=.:~/algae:/usr/local/lib/algae
+</pre></td></tr></table></P><P>
+
+Execution of the Algae code in <VAR>filename</VAR> begins at global scope.
+For example, if the source file contains the single statement
+<CODE>x=1</CODE>, the assignment is made to the global variable <VAR>x</VAR>
+regardless of whether <CODE>src</CODE> was called from within a function or
+not.</P><P>
+
+The <CODE>src</CODE> function raises an exception if <VAR>filename</VAR> cannot be
+found. It returns <CODE>NULL</CODE> if it cannot be opened, a negative integer
+if a parse or run-time error occurs, and 0 otherwise.</DL>
+</P><P>
+
+<A NAME="strip"></A>
+</P><P>
+
+<A NAME="IDX479"></A>
+<DL>
+<DT><U>Function:</U> <B>strip</B> <I>( f )</I>
+<DD>The <CODE>strip</CODE> function removes all file and line information from the
+given function <VAR>f</VAR>.  The parser ordinarily includes this information
+so that, for example, run-time error messages can identify the line on
+which they occurred.  If an error occurs in a function that has been
+stripped, then the error is attributed instead to the calling
+expression.</P><P>
+
+This function may also be useful in conjunction with profiling.  Any
+time spent in a call to a stripped function gets charged to the file and
+line from which it was called.</P><P>
+
+All members of <VAR>f</VAR> are left unchanged as members of the return value.
+</DL>
+</P><P>
+
+<A NAME="system"></A>
+</P><P>
+
+<A NAME="IDX480"></A>
+<DL>
+<DT><U>Function:</U> <B>system</B> <I>( s )</I>
+<DD>This function passes the string <VAR>s</VAR> to the command processor for
+execution.  On a UNIX system, for example, the statement
+<CODE>system("ls")</CODE> lists the files in the current directory.  If the
+call succeeds, the exit status is returned; otherwise a -1 is returned.</DL>
+</P><P>
+
+<A NAME="Special Tools"></A>
+<HR SIZE="6">
+<A NAME="SEC45"></A>
+<H2> 6.9 Special Tools </H2>
+<!--docid::SEC45::-->
+<P>
+
+<A NAME="npsol"></A>
+</P><P>
+
+<A NAME="IDX481"></A>
+<DL>
+<DT><U>Function:</U> <B>npsol</B> <I>( objective; start; constraints; options; state )</I>
+<DD>The <CODE>npsol</CODE> function uses a sequential quadratic programming method
+to minimize a given objective function subject to given constraints.
+The domain of the objective function is called the "design space", and
+the coordinates of the design space are called "design
+variables".</P><P>
+
+This function uses the NPSOL package of Fortran routines developed and
+sold by Stanford University.  Your version of Algae might not have the
+<CODE>npsol</CODE> builtin function; if not, it probably means that you don't
+have a license for NPSOL or that there was some problem installing it on
+your computer.</P><P>
+
+The <VAR>objective</VAR> argument may be either a function or a table.  If a
+function, then it's assumed to take one argument, a vector of design
+variables, and return the value of the objective at that point.  If
+<VAR>objective</VAR> is a table, it may have the following members:</P><P>
+
+<DL COMPACT>
+<DT><CODE>objf</CODE>
+<DD>A function that returns the value of the objective function for the
+vector of design variables given as its first argument.  If the member
+<CODE>params</CODE> exists in <VAR>objective</VAR>, then it is passed as a second
+argument to <CODE>objf</CODE>.<P>
+
+<DT><CODE>objgrd</CODE>
+<DD>A function that returns the sensitivities of the objective function;
+that is, the first derivatives with respect to the design variables.
+Its arguments are the same as for <CODE>objf</CODE>.<P>
+
+<DT><CODE>params</CODE>
+<DD>This member, if it exists, is passed as the second argument to
+<CODE>objf</CODE> and <CODE>objgrd</CODE>, providing a means for passing additional
+parameters to those functions.</DL>
+<P>
+
+Only the <CODE>objf</CODE> member is required.
+</P><P>
+
+The <VAR>start</VAR> argument is a vector that specifies the starting
+point.</P><P>
+
+The <VAR>constraints</VAR> argument is a table that may contain any of all of
+the following members:</P><P>
+
+<DL COMPACT>
+<DT><CODE>side_constraints</CODE>
+<DD>A matrix that specifies upper and lower constraints on values of the
+design variables.  This matrix has two columns, the first column giving
+lower bounds and the second column giving upper bounds.  If this member
+is not given, then a default is provided using 1.0E10 as "infinity".
+In that case, you should be aware that NPSOL will take these values
+literally if you also use the "infinite_bound" option (in
+<VAR>options</VAR>) with a value greater than 1.0E10.<P>
+
+<DT><CODE>linear_constraints</CODE>
+<DD>A table that may contain any or all of the following members:<P>
+
+<DL COMPACT>
+<DT><CODE>coefficients</CODE>
+<DD>A matrix of the linear constraint coefficients.  The i-th row contains
+the coefficients for the i-th linear constraint.<P>
+
+<DT><CODE>bounds</CODE>
+<DD>A matrix, like <CODE>side_constraints</CODE>, that gives the upper and lower
+bounds for the linear constraints.  If not given, defaults are provided
+as with <CODE>side_constraints</CODE>.</DL>
+<P>
+
+<DT><CODE>nonlinear_constraints</CODE>
+<DD>A table that may contain any or all of the following members:
+<P>
+
+<DL COMPACT>
+<DT><CODE>values</CODE>
+<DD>Either a function that computes the vector of nonlinear constraint
+function values at the given point, or a table in which member
+<CODE>conf</CODE> is a function returning the values and <CODE>congrd</CODE> is a
+function returning the gradients.  The constraint gradients, if
+provided, should be given as a matrix in which the rows correspond to
+the constraints and the columns correspond to the design variables.  As
+in <VAR>objectives</VAR>, a member called <CODE>params</CODE> may also be
+included.<P>
+
+<DT><CODE>bounds</CODE>
+<DD>A matrix, like <CODE>side_constraints</CODE>, that gives the upper and lower
+bounds for the nonlinear constraints.  If not given, defaults are
+provided as with <CODE>side_constraints</CODE>.</DL>
+<P>
+
+The <VAR>options</VAR> argument is a table that may contain any of the valid
+NPSOL options.  For example, <CODE>{ hessian = "yes" }</CODE> specifies the
+corresponding option in NPSOL.  Use an underscore instead of blanks
+between words, as in <CODE>{ major_print_level = 1 }</CODE>.  The valid
+options are:</P><P>
+
+<DL COMPACT>
+<DT><CODE>central_difference_interval</CODE>
+<DD>If the algorithm switches to central differences because the
+forward-difference approximation is not sufficiently accurate, this value
+is used as the difference interval for every variable.<P>
+
+<DT><CODE>cold_start</CODE>
+<DD><DT><CODE>warm_start</CODE>
+<DD>These flags control the specification of the initial working set in
+both the procedure for finding a feasible point for the linear
+constraints and bounds, and in the first QP subproblem thereafter.  With
+a <CODE>cold_start</CODE>, the first working set is chosen by <CODE>npsol</CODE>
+based on the values of the variables and constraints at the initial
+point.  Broadly speaking, the initial working set will include equality
+constraints and bounds or inequality constraints that violate or
+"nearly" satisfy their bounds within <CODE>crash_tolerance</CODE>.  With a
+<CODE>warm_start</CODE>, the user must provide the <CODE>state</CODE> table.  A warm
+start will be advantageous if a good estimate of the initial working set
+is available--for example, when <CODE>npsol</CODE> is called repeatedly to
+solve related problems.<P>
+
+<DT><CODE>crash_tolerance</CODE>
+<DD>This value is used in conjunction with the optional parameter
+<CODE>cold_start</CODE>, which is the default.  When making a cold start, the
+QP algorithm in <CODE>npsol</CODE> must select an initial working set.  The
+initial working set will include, if possible, bounds or general
+inequality constraints that lie within <CODE>crash_tolerance</CODE> of their
+bounds.  The default value is 0.01.  If <CODE>crash_tolerance</CODE> is less
+than zero or greater than one, the default value is used.<P>
+
+<DT><CODE>derivative_level</CODE>
+<DD>This value indicates which objective and constraint derivatives are
+provided by the user.  The choices are as follows:
+<P>
+
+<DL COMPACT>
+<DT><CODE>0</CODE>
+<DD>Neither objective nor constraint derivatives are provided.<P>
+
+<DT><CODE>1</CODE>
+<DD>The objective derivatives are provided by the <CODE>objgrd</CODE> function in
+argument <VAR>objective</VAR>.  Constraint derivatives are not
+provided.<P>
+
+<DT><CODE>2</CODE>
+<DD>The nonlinear constraint derivatives are provided by the <CODE>congrd</CODE>
+function in argument <VAR>constraints</VAR>.  Objective derivatives are not
+provided.<P>
+
+<DT><CODE>3</CODE>
+<DD>The objective derivatives are provided by the <CODE>objgrd</CODE> function in
+argument <VAR>objective</VAR>, and the nonlinear constraint derivatives are
+provided by the <CODE>congrd</CODE> function in argument <VAR>constraints</VAR>.</DL>
+<P>
+
+The value 3 is the default, and should be used whenever possible, since
+<CODE>npsol</CODE> is more reliable and will usually be more efficient when
+all derivatives are exact.</P><P>
+
+If <CODE>derivative_level</CODE> is 0 or 2, <CODE>npsol</CODE> will estimate the
+objective gradients using finite differences.  The computation of
+finite-difference approximations usually increases the total run time,
+since a call to the objective function is required for each constraint.
+Furthermore, less accuracy can be attained in the solution.</P><P>
+
+If <CODE>derivative_level</CODE> is 0 or 1, <CODE>npsol</CODE> will approximate the
+constraint gradients.  One call to the constraint function is required
+for each variable.  At times, central differences are used rather than
+forward differences, in which case twice as many calls to the objective
+and constraint functions are needed.  The switch to central differences
+is not under the user's control.</P><P>
+
+<DT><CODE>difference_interval</CODE>
+<DD>This value defines an interval used to estimate gradients by finite
+differences in the following circumstances: (1) for verifying the
+objective and constraint gradients, and (2) for estimating the objective
+or constraint derivatives.  If a difference interval is not specified by
+the user, a finite difference interval will be computed automatically
+for each variable by a procedure that requires up to six calls of the
+objective and constraint functions for each component.  This option is
+recommended if the function is badly scaled or the user wishes to have
+<CODE>npsol</CODE> determine constant elements in the objective and constraint
+gradients.<P>
+
+<DT><CODE>feasibility_tolerance</CODE>
+<DD>This value defines the maximum acceptable absolute violations in linear
+and nonlinear constraints at a "feasible" point; i.e., a constraint is
+considered satisfied if its violation does not exceed this value.  The
+default value is the square root of machine precision.<P>
+
+<DT><CODE>function_precision</CODE>
+<DD>This value is intended to be a measure of the accuracy with which the
+objective and constraint functions can be computed.  It acts as a
+relative precision when the magnitude is large, and as an absolute
+precision when the magnitude is small.  For example, if the objective
+function is typically on the order of 1000 and the first 6 digits are
+known to be correct, then <CODE>function_precision</CODE> should be set to
+1.0E-6. In contrast, if the objective function is typically on the
+order of 1.0E-4 and the first 6 digits are known to be correct, then
+<CODE>function_precision</CODE> should be set to 1.0E-10.  The choice of
+<CODE>function_precision</CODE> can be quite complicated for badly scaled
+problems.  The default value is machine precision raised to the 0.9
+power; this is appropriate for most simple functions that are computed
+with full accuracy.  However, when the accuracy of the computed function
+values is known to be significantly worse than full precision, then
+<CODE>function_precision</CODE> should be large enough that <CODE>npsol</CODE> will
+not attempt to distinguish between function values that differ by less
+than the error inherent in the calculation.<P>
+
+<DT><CODE>hessian</CODE>
+<DD>This option must be either <CODE>"yes"</CODE> or <CODE>"no"</CODE>.  (The default is
+<CODE>"no"</CODE>).  This option controls the contents of the <CODE>R</CODE> matrix
+in <VAR>state</VAR>.  The user should set <CODE>hessian</CODE> to <CODE>"yes"</CODE> if
+the <CODE>state</CODE> table returned is to be used for a subsequent warm
+start.<P>
+
+<DT><CODE>infinite_bound_size</CODE>
+<DD>If this value is greater than zero, it defines the "infinite" bound
+in the definition of the problem constraints.  Any upper bound greater
+than or equal to this value will be regarded as positive infinity.  Any
+lower bound less than or equal to the negative of this value will be
+regarded as negative infinity.  The default value is 1.0E10.<P>
+
+<DT><CODE>infinite_step_size</CODE>
+<DD>This value specifies the magnitude of the change in variables that is
+treated as a step to an unbounded solution.  If the change in any
+variable during an iteration would exceed the value of
+<CODE>infinite_step_size</CODE>, the objective function is considered to be
+unbounded below in the feasible region.  The default is the greater of
+<CODE>infinite_bound_size</CODE> and 1.0E10.<P>
+
+<DT><CODE>iteration_limit</CODE>
+<DD>This value specifies the maximum number of major iterations allowed
+before termination.<P>
+
+<DT><CODE>linear_feasibility_tolerance</CODE>
+<DD><DT><CODE>nonlinear_feasibility_tolerance</CODE>
+<DD>These values define the maximum acceptable absolute violations in linear
+and nonlinear constraints at a "feasible" point.  A constraint is
+considered satisfied if its violation does not exceed this value.  The
+default value for both options is the square root of machine
+precision.<P>
+
+On entry to <CODE>npsol</CODE>, an iterative procedure is executed in order to
+find a point that satisfies the linear constraints and bounds on the
+variables to within <CODE>linear_feasibility_tolerance</CODE>.  All subsequent
+iterates will satisfy the linear constraints to within the same
+tolerance, unless this value is comparable to the finite difference
+interval.</P><P>
+
+For nonlinear constraints, <CODE>nonlinear_feasibility_tolerance</CODE>
+defines the largest constraint violation that is acceptable at an
+optimal point.  Since nonlinear constraints are generally not satisfied
+until the final iterate, this value acts as a partial termination
+criterion for the iterative sequence.</P><P>
+
+These tolerances should reflect the precision of the corresponding
+constraints.  for example, if the variables and the coefficients in the
+linear constraints are of order unity, and the latter are correct to
+about 6 decimal digits, it would be appropriate to specify
+<CODE>linear_feasibility_tolerance</CODE> as 1.0E-6.</P><P>
+
+<DT><CODE>linesearch_tolerance</CODE>
+<DD>This value controls the accuracy with which a step taken during each
+iteration approximates a minimum of the merit function along the search
+direction.  The smaller the value, the more accurate the line search.
+The default value is 0.9; it requests an inaccurate search that is
+appropriate for most problems, particularly those with any nonlinear
+constraints.<P>
+
+If there are non nonlinear constraints, a more accurate search may be
+appropriate when it is desirable to reduce the number of major
+iterations--for example, if the objective function is cheap to evaluate
+or if the gradients are not specified.</P><P>
+
+<DT><CODE>list</CODE>
+<DD>If this flag is given, all of the options and their values are
+printed.<P>
+
+<DT><CODE>print_level</CODE>
+<DD>This value controls the amount of printed output produced by the major
+iterations of <CODE>npsol</CODE>.  The levels are as follows:<P>
+
+<DL COMPACT>
+<DT><CODE>0</CODE>
+<DD>No output.  This is the default.
+<P>
+
+<DT><CODE>1</CODE>
+<DD>The final solution only.
+<P>
+
+<DT><CODE>5</CODE>
+<DD>One line of output for each major iteration, but no final
+solution.<P>
+
+<DT><CODE>10</CODE>
+<DD>The final solution and one line of output for each iteration.<P>
+
+<DT><CODE>20</CODE>
+<DD>At each major iteration, the objective function, the Euclidean norm of
+the nonlinear constraint violations, the value of the nonlinear
+constraints, the values of the linear constraints, and the current
+values of the variables.</DL>
+<P>
+
+<DT><CODE>minor_iteration_limit</CODE>
+<DD>This value specifies the maximum number of iterations for the optimality
+phase of each QP subproblem.<P>
+
+<DT><CODE>minor_print_level</CODE>
+<DD>This value controls the amount of printout produced by the minor
+iterations of <CODE>npsol</CODE>.  The levels are as follows:<P>
+
+<DL COMPACT>
+<DT><CODE>0</CODE>
+<DD>No output.  This is the default.<P>
+
+<DT><CODE>1</CODE>
+<DD>The final QP solution.
+<P>
+
+<DT><CODE>5</CODE>
+<DD>One line of output for each minor iteration, but no final QP
+solution.<P>
+
+<DT><CODE>10</CODE>
+<DD>The final QP solution and one line of output for each minor iteration.
+<P>
+
+<DT><CODE>20</CODE>
+<DD>At each minor iteration, the current estimates of the QP multipliers,
+the current estimate of the QP search direction, the QP constraint
+values, and the status of each QP constraint.</DL>
+<P>
+
+<DT><CODE>optimality_tolerance</CODE>
+<DD>This value specifies the accuracy to which the user wishes the final
+iterate to approximate a solution of the problem.  Broadly speaking, it
+indicates the number of correct figures desired in the objective
+function at the solution.  For example, if <CODE>optimality_tolerance</CODE>
+is 1.0E-6 and <CODE>npsol</CODE> terminates successfully, the final value of
+the objective function should have approximately 6 correct figures.  The
+<CODE>npsol</CODE> function will terminate successfully if the iterative
+sequence is judged to have converged and the final point satisfies the
+first-order optimality conditions.<P>
+
+<DT><CODE>verify_level</CODE>
+<DD>This value refers to finite-difference checks on the gradients computed
+by the user function <CODE>objgrd</CODE> and <CODE>congrd</CODE>.  It may take on
+one of the following values:<P>
+
+<DL COMPACT>
+<DT><CODE>-1</CODE>
+<DD>No checks are made.
+<P>
+
+<DT><CODE>0</CODE>
+<DD>Perform only a very inexpensive check, involving one call to the
+objective function and one call to the constraint function.<P>
+
+<DT><CODE>1</CODE>
+<DD>Perform a reliable but expensive check on the objective
+gradients.<P>
+
+<DT><CODE>2</CODE>
+<DD>Perform a reliable but expensive check on the constraint
+gradients.<P>
+
+<DT><CODE>3</CODE>
+<DD>Perform reliable but expensive checks on both the objective and the
+constraint gradients.</DL>
+<P>
+
+These checks are recommended whenever a new function routine is being
+developed.</DL>
+<P>
+
+The <VAR>state</VAR> argument is used only when the NPSOL "warm_start"
+option is requested.  It may be obtained from the return of a previous
+call to <CODE>npsol</CODE>.  Its members are:</P><P>
+
+<DL COMPACT>
+<DT><CODE>ISTATE</CODE>
+<DD>A vector describing the status of the constraints.
+<P>
+
+<DT><CODE>CLAMDA</CODE>
+<DD>The Lagrange multiplier estimates for the nonlinear constraints.
+<P>
+
+<DT><CODE>R</CODE>
+<DD>The factored Hessian of the Lagrangian function.
+</DL>
+<P>
+
+The <CODE>npsol</CODE> function returns a table containing the following
+members:</P><P>
+
+<DL COMPACT>
+<DT><CODE>objective</CODE>
+<DD>The value of the objective function at the final iterate.
+<P>
+
+<DT><CODE>solution</CODE>
+<DD>The solution vector (or final estimate) for the problem.
+<P>
+
+<DT><CODE>inform</CODE>
+<DD>The INFORM value (success/error indicator) returned by NPSOL.  The
+possibilities are:<P>
+
+<DL COMPACT>
+<DT><CODE>0</CODE>
+<DD>The iterates have converged to a point that satisfies the first-order
+optimality conditions to the accuracy requested by the optional
+parameter <CODE>optimality_tolerance</CODE>, i.e., the projected gradient and
+active constraint residuals are negligible.  (Success.)<P>
+
+<DT><CODE>1</CODE>
+<DD>The final iterate satisfies the first-order optimality conditions to the
+accuracy requested, but the sequence of iterates has not yet converged.
+NPSOL was terminated because no further improvement could be made in the
+merit function.  (Probable success.)<P>
+
+<DT><CODE>2</CODE>
+<DD>No feasible point could be found for the linear constraints and bounds.
+The problem has no feasible solution.<P>
+
+<DT><CODE>3</CODE>
+<DD>No feasible point could be found for the nonlinear constraints.  The
+problem may have no feasible solution.<P>
+
+<DT><CODE>4</CODE>
+<DD>The limiting number of iterations, determined by the optional parameter
+<CODE>major_iteration_limit</CODE>, has been reached.<P>
+
+<DT><CODE>6</CODE>
+<DD>The current point does not satisfy the first-order optimality
+conditions, and no improved point for the merit function could be found
+during the final line search.<P>
+
+<DT><CODE>7</CODE>
+<DD>The user-provided derivatives of the objective function and/or nonlinear
+constraints appear to be incorrect.<P>
+
+<DT><CODE>9</CODE>
+<DD>An input parameter is invalid.
+</DL>
+<P>
+
+<DT><CODE>iter</CODE>
+<DD>The number of major iterations performed.
+<P>
+
+<DT><CODE>state</CODE>
+<DD>The <CODE>state</CODE> table described above.
+</DL>
+</DL>
+</DL>
+<P>
+
+<A NAME="plot"></A>
+</P><P>
+
+<A NAME="IDX482"></A>
+<DL>
+<DT><U>Function:</U> <B>plot</B> <I>( <small>...</small> )</I>
+<DD>The <CODE>plot</CODE>, <CODE>splot</CODE>, <CODE>replot</CODE>, and <CODE>unplot</CODE>
+functions provide an interface to the gnuplot program for plotting
+data.  Use <CODE>plot</CODE> for plotting lines in two or three dimensions;
+<CODE>splot</CODE> is for plotting surfaces in three dimensions.</P><P>
+
+To use these plotting functions effectively, you will probably need some
+familiarity with the gnuplot commands.  For example, to add a title to an
+existing plot, you'd type something like <CODE>replot("set title 'Good
+Stuff'")</CODE>.  Read the gnuplot manual or its on-line help for more
+information.</P><P>
+
+The <CODE>plot</CODE> function accepts as many as three arguments.  If either
+or both of the first two arguments are (or can be converted to)
+character vectors, then their elements are sent, each on a separate
+line, to gnuplot as commands.  For example, <CODE>plot("set term X11")</CODE>
+causes gnuplot to generate X11 output.  Even commands that request
+information from gnuplot, like <CODE>plot("show term")</CODE> are acceptable
+(although you might temporarily lose sight of Algae's prompt).  Don't use
+the "exit" or "quit" commands of gnuplot--they cause gnuplot to
+exit without Algae knowing about it.</P><P>
+
+If more than one argument is given to <CODE>plot</CODE> and the last one is an
+integer scalar, then it is taken to be an identifier for the plot
+process.  This allows you to have more than one plot open at a time.  If
+no identifier is given, then the active plot is killed and replaced by a
+new one with the same identifier.  The "active" plot is the one last
+referenced, or 1 if there are no plots open.  The <CODE>replot</CODE> function
+may be used to modify an open plot.</P><P>
+
+Any other arguments given to <CODE>plot</CODE> are taken to be data to be
+plotted.  Vectors are plotted using their element values as ordinates
+and their labels for the abscissae.  Matrices with 2 columns are plotted
+using the second column for ordinates and the first column for
+abscissae.  A matrix with 3 columns is plotted as a curve in three
+dimensions, with the third column specifying the ordinates.  Surface
+plots are obtained using the <CODE>splot</CODE> function.</P><P>
+
+If the data given to <CODE>plot</CODE> is a vector, but has no labels, then
+the element indices are used instead of the labels.</P><P>
+
+Multiple curves may be shown on the same plot, either by giving
+<CODE>plot</CODE> two data arguments or (better yet) supplying the data in a
+table.  When data is given in a table (even if it contains only one
+member), the member name is used in the plot legend.  Otherwise,
+<CODE>plot</CODE> uses the names "y_1" and "y_2".</P><P>
+
+If the data is given in a table, any members that are tables themselves
+are given to gnuplot in a single data file.  This means that the same
+line and point type is used.  For example, if <CODE>x</CODE> and <CODE>y</CODE> are
+vectors to be plotted, then <CODE>plot({x;y})</CODE> plots the two, each
+with a different line and point type and described by name in the
+legend.  On the other hand, <CODE>plot({z={x;y}})</CODE> plots them with
+the same line and point type and names the combination "z" in the
+legend.</P><P>
+
+If <CODE>plot</CODE> is called with no arguments, it returns a vector of the
+open plot identifiers.  This vector is sorted from most to least
+recently referenced, so the "active" plot is first.</P><P>
+
+Here's an example that simulates the Van der Pol system and plots the
+results:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>xdot = function( t; x ) {
+    return x[1]*(1-x[2]^2)-x[2], x[1];
+}
+x = ode( xdot; 0; 20; 0,.25 );
+plot( "set data style lines"; { x1=x[1;]; x2=x[2;] } );
+</pre></td></tr></table></P><P>
+
+See also <CODE>splot</CODE>, <CODE>replot</CODE>, and <CODE>unplot</CODE>.
+</DL>
+</P><P>
+
+<A NAME="replot"></A>
+</P><P>
+
+<A NAME="IDX483"></A>
+<DL>
+<DT><U>Function:</U> <B>replot</B> <I>( <small>...</small> )</I>
+<DD>The <CODE>replot</CODE> function is used to modify or redisplay plots created
+with either the <CODE>plot</CODE> or <CODE>splot</CODE> functions.  It takes at most
+2 arguments.  If the first argument has character type, it is passed to
+gnuplot as commands.</P><P>
+
+The last argument is the optional plot identifier.  If not given, the
+active plot is used by default.</P><P>
+
+See also <CODE>plot</CODE>, <CODE>splot</CODE>, and <CODE>unplot</CODE>.
+</DL>
+</P><P>
+
+<A NAME="splot"></A>
+</P><P>
+
+<A NAME="IDX484"></A>
+<DL>
+<DT><U>Function:</U> <B>splot</B> <I>( <small>...</small> )</I>
+<DD>The <CODE>splot</CODE> function is used to plot surfaces in three dimensions.
+Except for the form of the data, its input is identical to that of the
+<CODE>plot</CODE> function.  The data is specifed as a matrix of ordinates.
+The labels of the matrix, or the corresponding indices if the labels
+don't exist, are used for the abscissae.</P><P>
+
+See also <CODE>plot</CODE>, <CODE>replot</CODE>, and <CODE>unplot</CODE>.
+</DL>
+</P><P>
+
+<A NAME="umin"></A>
+</P><P>
+
+<A NAME="IDX485"></A>
+<DL>
+<DT><U>Function:</U> <B>umin</B> <I>( objective; start; options )</I>
+<DD>The <CODE>umin</CODE> function performs unconstrained minimization using the
+Nelder-Mead direct search method.  It does not have the features or
+sophistication of <CODE>npsol</CODE>, but it works well for some
+cases--particularly when the objective surface is not smooth.</P><P>
+
+The <VAR>objective</VAR> argument is a function that takes one or two
+arguments and returns the value of the objective at that point.  The
+first argument is a vector of design variables.  The second
+argument, which is optional, is passed unchanged from the <VAR>params</VAR>
+member of the <VAR>options</VAR> argument to <CODE>umin</CODE> itself.</P><P>
+
+The <VAR>start</VAR> argument is an integer or real vector that specifies the
+starting point.</P><P>
+
+The <VAR>options</VAR> augument may be either NULL or a table containing
+convergence and other specifications.  The meaningful options are:</P><P>
+
+<DL COMPACT>
+<DT><CODE>bound</CODE>
+<DD>The minimum value permitted for the objective function.  The default is
+-1e32.<P>
+
+<DT><CODE>display</CODE>
+<DD>A function called at each "successful" iteration with the current design
+point as its only argument.  This may be used, for example, to plot the
+design as it changes.<P>
+
+<DT><CODE>evals</CODE>
+<DD>The maximum number of objective function evaluations permitted.  The
+default value is 1000.<P>
+
+<DT><CODE>iter</CODE>
+<DD>The maximum number of iterations permitted.  The default value is
+100.<P>
+
+<DT><CODE>params</CODE>
+<DD>The value of this member is passed as the second argument to the
+objective function.<P>
+
+<DT><CODE>right</CODE>
+<DD>If this member exists, then the initial simplex has right angles.  By
+default, the initial simplex has sides of equal length.<P>
+
+<DT><CODE>size</CODE>
+<DD>The initial size of the simplex.  By default, this is the greater of 1
+and the infinity norm of the starting vector.<P>
+
+<DT><CODE>tol</CODE>
+<DD>The relative size of the simplex, below which the iteration is taken to
+have converged.  The tolerance is 1e-6 by default.<P>
+
+<DT><CODE>verbose</CODE>
+<DD>If this member exists, then information is printed at each "successful"
+iteration.</DL>
+<P>
+
+The return value from <CODE>umin</CODE> is a table with the following
+members:</P><P>
+
+<DL COMPACT>
+<DT><CODE>evals</CODE>
+<DD>The number of objective function evaluations.<P>
+
+<DT><CODE>inform</CODE>
+<DD>A return code specifying success or failure:<P>
+
+<DL COMPACT>
+<DT><CODE>0</CODE>
+<DD>success
+<P>
+
+<DT><CODE>1</CODE>
+<DD>failure, objective bound reached
+<P>
+
+<DT><CODE>2</CODE>
+<DD>failure, function evaluation limit exceeded
+<P>
+
+<DT><CODE>3</CODE>
+<DD>failure, iteration limit exceeded
+</DL>
+<P>
+
+<DT><CODE>iter</CODE>
+<DD>The number of iterations performed.<P>
+
+<DT><CODE>msg</CODE>
+<DD>A message corresponding to the inform code.<P>
+
+<DT><CODE>obj</CODE>
+<DD>The final objective value.<P>
+
+<DT><CODE>sol</CODE>
+<DD>The final design point.</DL>
+<P>
+
+This code is based on <CODE>nmsmax</CODE>, a MATLAB function by Nick
+Higham.</P><P>
+
+See also <CODE>npsol</CODE>.
+</DL>
+</P><P>
+
+<A NAME="unplot"></A>
+</P><P>
+
+<A NAME="IDX486"></A>
+<DL>
+<DT><U>Function:</U> <B>unplot</B> <I>( id )</I>
+<DD>The <CODE>unplot</CODE> function is used to terminate plots created with the
+<CODE>plot</CODE> or <CODE>splot</CODE> functions.  The integer scalar or vector
+argument <VAR>id</VAR> specifies the identifiers of the plots to be
+terminated.  If no <VAR>id</VAR> is given, the active plot is terminated.
+You can terminate all open plots with <CODE>unplot(plot())</CODE>.</P><P>
+
+See also <CODE>plot</CODE>, <CODE>replot</CODE>, and <CODE>splot</CODE>.
+</DL>
+</P><P>
+
+<A NAME="Miscellaneous"></A>
+<HR SIZE="6">
+<A NAME="SEC46"></A>
+<H2> 6.10 Miscellaneous </H2>
+<!--docid::SEC46::-->
+<P>
+
+<A NAME="all"></A>
+</P><P>
+
+<A NAME="IDX487"></A>
+<DL>
+<DT><U>Function:</U> <B>all</B> <I>( x )</I>
+<DD>The <CODE>all</CODE> function evaluates the "truth" of its argument <VAR>x</VAR>
+in the same way that the function <CODE>test</CODE> does, except that vectors
+and matrices are "true" only if all of their elements are "true".
+For example, <CODE>all(1,0)</CODE> returns 0 while <CODE>test(1,0)</CODE> returns
+1.  If <VAR>x</VAR> has no elements, <CODE>all</CODE> returns 0.</P><P>
+
+See also <CODE>test</CODE> and <CODE>equal</CODE>.
+</DL>
+</P><P>
+
+<A NAME="atof"></A>
+</P><P>
+
+<A NAME="IDX488"></A>
+<DL>
+<DT><U>Function:</U> <B>atof</B> <I>( s )</I>
+<DD>The <CODE>atof</CODE> function converts character strings to real numbers.
+The argument <VAR>s</VAR> may be a scalar, vector, or matrix.  The function
+reads only up to the first unrecognized character of each string, and
+ignores anything that remains.  If the first character of a string is
+unrecognized, then the value is taken to be zero.</DL>
+</P><P>
+
+<A NAME="char"></A>
+</P><P>
+
+<A NAME="IDX489"></A>
+<DL>
+<DT><U>Function:</U> <B>char</B> <I>( v )</I>
+<DD>The <CODE>char</CODE> function converts the vector <VAR>v</VAR> into a character
+string; each element of <VAR>v</VAR> contributes a single character according
+to its ASCII value.  For example, <CODE>char(65,66,67)</CODE> returns the
+string <CODE>"ABC"</CODE>.</P><P>
+
+If an element of <VAR>v</VAR> is less than 0 or greater than 255, then it
+will "wrap" (modulo 256).  Thus <CODE>char(65)</CODE> and
+<CODE>char(65+256)</CODE> both return the string <CODE>"A"</CODE>.</P><P>
+
+Algae's character strings are terminated with a NUL (0) character.  For
+the <CODE>char</CODE> function, that means that if an element of <VAR>v</VAR> is
+zero (or a multiple of 256) then the string is terminated at that
+point.  For example, <CODE>char(65,0,66)</CODE> yields the string
+<CODE>"A"</CODE>.</DL>
+</P><P>
+
+<A NAME="class"></A>
+</P><P>
+
+<A NAME="IDX490"></A>
+<DL>
+<DT><U>Function:</U> <B>class</B> <I>( x )</I>
+<DD>The <CODE>class</CODE> function returns a character string (such as "scalar"
+or "table") that describes the class of <VAR>x</VAR>.</DL>
+</P><P>
+
+<A NAME="equal"></A>
+</P><P>
+
+<A NAME="IDX491"></A>
+<DL>
+<DT><U>Function:</U> <B>equal</B> <I>( a; b )</I>
+<DD>This function tests <VAR>a</VAR> and <VAR>b</VAR> for equality.  For vectors and
+matrices, it returns true (1) only if every pair of corresponding
+elements is equal, and false (0) otherwise.  For all other classes, this
+function returns the same value as the expression <CODE>a==b</CODE>
+would.</P><P>
+
+See also <CODE>test</CODE>.
+</DL>
+</P><P>
+
+<A NAME="members"></A>
+</P><P>
+
+<A NAME="IDX492"></A>
+<DL>
+<DT><U>Function:</U> <B>members</B> <I>( e )</I>
+<DD>This function returns a vector containing the names of the members of
+<VAR>e</VAR>.</DL>
+</P><P>
+
+<A NAME="info"></A>
+</P><P>
+
+<A NAME="IDX493"></A>
+<DL>
+<DT><U>Function:</U> <B>info</B> <I>( topic )</I>
+<DD>This function starts up an interactive browser for Algae's
+documentation.  The optional argument <VAR>topic</VAR> (a character scalar)
+takes you directly to that topic.  For example, <CODE>info("sort")</CODE>
+takes you directly to the description of the <CODE>sort</CODE>
+function.</P><P>
+
+If possible, <CODE>info</CODE> uses an X-based html browser (like netscape
+or mosaic).  Otherwise, a character-based html browser (like lynx)
+will be tried.  As a final resort, the GNU Info browser is called.</P><P>
+
+The names of the available browsers are assigned by the startup code
+(see section <A HREF="algae_7.html#SEC48">7.1 Startup Files</A>) as members <CODE>xhtml</CODE>, <CODE>html</CODE>, and
+<CODE>info</CODE> of the global table <CODE>$programs</CODE>.  To prevent
+<CODE>algae</CODE> from using a particular browser, simply set the
+appropriate member of <CODE>$programs</CODE> to a zero-length string.  If
+you prefer to use Info, for example, you could simply put the
+line</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>$programs.xhtml = $programs.html = "";
+</pre></td></tr></table></P><P>
+
+in your <TT>`.algae'</TT> file.
+</DL>
+</P><P>
+
+<A NAME="prof"></A>
+</P><P>
+
+<A NAME="IDX494"></A>
+<A NAME="IDX495"></A>
+<A NAME="IDX496"></A>
+<A NAME="IDX497"></A>
+<DL>
+<DT><U>Function:</U> <B>prof</B> <I>( infile; outfile; threshold )</I>
+<DD>The <CODE>prof</CODE> function reads an <TT>`algae.out'</TT> file produced by
+<CODE>algae</CODE>'s execution profiler (the <SAMP>`-p'</SAMP> option), and summarizes
+it by file and by line number.  The <VAR>infile</VAR> argument specifies the
+file name.  <VAR>outfile</VAR> specifies the output file; if it's NULL,
+stdout is used.</P><P>
+
+The <VAR>threshold</VAR> argument may be used to truncate the summary
+listings.  The truncation occurs after enough entries have been printed
+to account for <VAR>threshold</VAR> percent of the total number of hits.  If
+<VAR>threshold</VAR> is NULL, no truncation is performed.</P><P>
+
+Below is an example of <CODE>prof</CODE> output, obtained with the command
+<CODE>prof("algae.out";;50);</CODE>.</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>Algae execution profile listing.
+
+628 total hits
+
+--- by file ---
+
+      hits   % hits    cum %   file
+       201    32.01    32.01   lqrtest.A
+       127    20.22    52.23   /usr/local/lib/algae/ode.A
+
+--- by line ---
+
+      hits   % hits    cum %   line   file
+       130    20.70    20.70     88   lqrtest.A
+        42     6.69    27.39      1   /usr/local/lib/algae/plot.A
+        40     6.37    33.76     38   lqrtest.A
+        21     3.34    37.10      1   /usr/local/lib/algae/ode.A
+        17     2.71    39.81     44   /usr/local/lib/algae/ode.A
+        15     2.39    42.20     42   /usr/local/lib/algae/ode.A
+        15     2.39    44.59     41   /usr/local/lib/algae/ode.A
+        14     2.23    46.82      1   /usr/local/lib/algae/ode4.A
+        12     1.91    48.73      1   /usr/local/lib/algae/spline.A
+        10     1.59    50.32      1   lqrtest.A
+</pre></td></tr></table></P><P>
+
+First, notice that the number of hits counted in this example was only
+628.  Four digits of precision in the statistics are clearly unjustifed
+with such a small sample.  The first column reports the number of
+profiler hits counted toward each particular file or line number.  The
+second column restates that as a percentage of the total number of hits.
+The third column gives the cumulative percentage.</P><P>
+
+All profiler hits that occur while <CODE>algae</CODE> is parsing a file are
+counted toward its first line.  This is normally insignificant compared
+to execution, but it explains why line 1 shows up so often in the "by
+line" report in the example above.</P><P>
+
+No files are closed in <CODE>prof</CODE>.  Normally, this means that you must
+close them yourself if <CODE>prof</CODE> is to be called more than
+once.</DL>
+</P><P>
+
+<A NAME="show"></A>
+</P><P>
+
+<A NAME="IDX498"></A>
+<DL>
+<DT><U>Function:</U> <B>show</B> <I>( e )</I>
+<DD>This function prints information about the entity <VAR>e</VAR> and its
+members.</DL>
+</P><P>
+
+<A NAME="split"></A>
+</P><P>
+
+<A NAME="IDX499"></A>
+<A NAME="IDX500"></A>
+<A NAME="IDX501"></A>
+<DL>
+<DT><U>Function:</U> <B>split</B> <I>( s; w )</I>
+<DD>The <CODE>split</CODE> function takes a character scalar argument <VAR>s</VAR>,
+splits it into tokens, and returns the tokens in a character vector.
+Each token is delimited by one or more characters from <VAR>w</VAR>.  For
+example, <CODE>split("/bin:/usr/bin";":")</CODE> returns the vector</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>(  "/bin"    , "/usr/bin" )
+</pre></td></tr></table></P><P>
+
+If <VAR>w</VAR> is NULL, the string <CODE>" \t\n"</CODE> is used.  Thus
+<CODE>split("This is a test.")</CODE> returns the vector</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>(  "This" , "is"   , "a"    , "test." )
+</pre></td></tr></table></DL>
+</P><P>
+
+<A NAME="string"></A>
+</P><P>
+
+<A NAME="IDX502"></A>
+<A NAME="IDX503"></A>
+<A NAME="IDX504"></A>
+<DL>
+<DT><U>Function:</U> <B>string</B> <I>( e )</I>
+<DD>The <CODE>string</CODE> function converts its argument <VAR>e</VAR> to character
+type.  If <VAR>e</VAR> is NULL, a zero-length character scalar is returned.
+For example, <CODE>string(1/(1:3))</CODE> returns the vector</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>(  "1"       , "0.5"     , "0.333333" )
+</pre></td></tr></table></P><P>
+
+Currently, the output format cannot be changed.
+</DL>
+</P><P>
+
+<A NAME="substr"></A>
+</P><P>
+
+<A NAME="IDX505"></A>
+<A NAME="IDX506"></A>
+<A NAME="IDX507"></A>
+<DL>
+<DT><U>Function:</U> <B>substr</B> <I>( c; start; length )</I>
+<DD>The <CODE>substr</CODE> function returns the substring of the character string
+<VAR>c</VAR>, beginning at index <VAR>start</VAR>, with length <VAR>length</VAR>.  The
+integer <VAR>start</VAR> must be greater than zero; if it exceeds the length
+of <VAR>c</VAR>, then a zero-length string is returned.  If <VAR>length</VAR> is
+NULL, then all of the remaining characters of <VAR>c</VAR> are returned;
+otherwise, <VAR>length</VAR> must not be negative.</P><P>
+
+See also <CODE>dice</CODE>, <CODE>split</CODE>, and <CODE>string</CODE>.</DL>
+</P><P>
+
+<A NAME="test"></A>
+</P><P>
+
+<A NAME="IDX508"></A>
+<DL>
+<DT><U>Function:</U> <B>test</B> <I>( e )</I>
+<DD>The <CODE>test</CODE> function evaluates the "truth" of <VAR>e</VAR> in the same
+way that Algae's <CODE>if</CODE> statement would, returning 1 for true and 0
+for false.  The following entities are false:</P><P>
+
+<UL>
+<LI>
+NULL.
+<P>
+
+<LI>
+Numeric arrays in which every element is zero.
+<P>
+
+<LI>
+Character arrays in which every element is <CODE>""</CODE>.
+<P>
+
+<LI>
+Vectors and matrices with no elements.
+<P>
+
+<LI>
+Tables with no members.
+</UL>
+<P>
+
+All others are true.  Notice that if <VAR>e</VAR> is an array
+(<CODE>scalar</CODE>, <CODE>vector</CODE>, or <CODE>matrix</CODE>), then <CODE>test</CODE>
+returns true if any element of <VAR>e</VAR> is nonzero (or has nonzero
+length, for character type).</P><P>
+
+An example of the use of <CODE>test</CODE> is Algae's <CODE>equal</CODE> function,
+which is written as</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>equal = function( a; b ) { return !test( a != b ); }
+</pre></td></tr></table></P><P>
+
+If <CODE>a</CODE> and <CODE>b</CODE> are both matrices, then <CODE>a!=b</CODE> returns a
+matrix that is all zeros only if every element pair is equal.  In that
+case, <CODE>test</CODE> returns 0 and <CODE>!</CODE> changes that to 1.</P><P>
+
+See also <CODE>equal</CODE> and <CODE>all</CODE>.
+</DL>
+</P><P>
+
+<A NAME="time"></A>
+</P><P>
+
+<A NAME="IDX509"></A>
+<DL>
+<DT><U>Function:</U> <B>time</B> <I>( )</I>
+<DD>The <CODE>time</CODE> function returns the number of seconds of user time that
+the current process has used.  On most machines, its precision is not
+much more than 1/10 of a second.</DL>
+</P><P>
+
+<A NAME="tolower"></A>
+</P><P>
+
+<A NAME="IDX510"></A>
+<A NAME="IDX511"></A>
+<A NAME="IDX512"></A>
+<DL>
+<DT><U>Function:</U> <B>tolower</B> <I>( s )</I>
+<DD>The <CODE>tolower</CODE> function converts strings to lower case.  Every
+letter is converted as appropriate for the current locale.  The argument
+<VAR>S</VAR> may be a character scalar, vector, or matrix.</P><P>
+
+See also <CODE>toupper</CODE>.
+</DL>
+</P><P>
+
+<A NAME="toupper"></A>
+</P><P>
+
+<A NAME="IDX513"></A>
+<A NAME="IDX514"></A>
+<A NAME="IDX515"></A>
+<DL>
+<DT><U>Function:</U> <B>toupper</B> <I>( s )</I>
+<DD>The <CODE>toupper</CODE> function converts strings to upper case.  Every
+letter is converted as appropriate for the current locale.  The argument
+<VAR>S</VAR> may be a character scalar, vector, or matrix.</P><P>
+
+See also <CODE>tolower</CODE>.
+</DL>
+</P><P>
+
+<A NAME="what"></A>
+</P><P>
+
+<A NAME="IDX516"></A>
+<DL>
+<DT><U>Function:</U> <B>what</B> <I>( )</I>
+<DD>The <CODE>what</CODE> function returns a table containing all of the global
+functions.  See also <CODE>who</CODE>.</DL>
+</P><P>
+
+<A NAME="who"></A>
+</P><P>
+
+<A NAME="IDX517"></A>
+<DL>
+<DT><U>Function:</U> <B>who</B> <I>( opt )</I>
+<DD>The <CODE>who</CODE> function returns a table containing all global variables
+that are neither functions nor NULL.  Variables with names that begin
+with <SAMP>`$'</SAMP> are excluded, unless the optional argument <VAR>opt</VAR>
+equals <CODE>"$"</CODE>.  See also <CODE>what</CODE>.</DL>
+</P><P>
+
+<A NAME="Running Algae"></A>
+<HR SIZE="6">
+<TABLE CELLPADDING=1 CELLSPACING=1 BORDER=0>
+<TR><TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_6.html#SEC36"> &lt;&lt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_7.html#SEC47"> &gt;&gt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae.html#SEC_Top">Top</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_toc.html#SEC_Contents">Contents</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57">Index</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_abt.html#SEC_About"> ? </A>]</TD>
+</TR></TABLE>
+<BR>  
+<FONT SIZE="-1">
+This document was generated
+by <I>K. Scott Hunziker</I> on <I>October, 31  2001</I>
+using <A HREF="http://www.mathematik.uni-kl.de/~obachman/Texi2html
+"><I>texi2html</I></A>
+
+</BODY>
+</HTML>

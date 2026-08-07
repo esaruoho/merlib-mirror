@@ -1,0 +1,95 @@
+---
+title: "William Affleck-Asch's Index Tree for this Site"
+source_domain: amasci.com
+source_path: ~feminist/index.tree.html
+order: 3120
+reachable_from_entry: false
+images: 0
+internal_links: 37
+extracted: 2026-08-07T05:56:34Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# William Affleck-Asch's Index Tree for this Site
+
+*Source page: `~feminist/index.tree.html`*
+
+------------------------------------------------------------------------
+
+## My index tree so I can test updated pages:
+
+- My pages (web stats as of 09/19/97 for 100 or more hits)
+- William Affleck-Asch's personal web pages (I donate the site ...)
+  - [ian.html](ian.html) - my son's page (**tigers!**)(82 surfs)
+  - [images/](images/) - treasure is here, Pinky! (surfs unknown)
+  - [index.html](index.html) - (669 surfs - **8th most popular**)
+  - [index.tree.html](index.tree.html) - you are here! (95 surfs)
+  - [music.html](music.html) - my music page (142 surfs)
+  - [resume.html](resume.html) - current resume for a Seattle job (143 surfs)
+  - [Frequently updated index of web pages with surf counts](sites.web.html) - (590 surfs)
+  - [test.html](test.html) - my test page (surfing dangerous here)
+  - [toriamos.html](toriamos.html) - my Tori Amos page (105 surfs)
+- Washington State NOW main sites (we have two right now - Eskimo and ATT)
+  - [Current Pages at the main WA NOW site (eskimo.com)](http://www.eskimo.com/~feminist/sites.web.html)
+  - [Current Pages for Will at ATT site](http://home.att.net/~feminist/sites.web.html)
+  - [Current Pages at the high-speed WA NOW site on ATT](http://home.att.net/~feminist/wanow/sites.web.html)
+- Washington State NOW pages
+  - [WA NOW Home Page](wastnow.html) - wastnow.html (8430 surfs - **MOST POPULAR**)
+    - [WA NOW Activist Ad Rates](adrates.html) - adrates.html (60 surfs)
+    - [NW Regional NOW Press Statement](nwnow.press.statement.html) - nwnow.press.statement.html (72 surfs)
+    - [NW Regional NOW Report](nwnow.rpt.html) - nwnow.rpt.html (59 surfs)
+    - [WA NOW Officers (and NW National Board)](officers.html) - officers.html (97 surfs)
+    - [Message from the President of WA NOW](pres.msg.html) - pres.msg.html (137 surfs)
+
+    <!-- -->
+
+    - [WA NOW Media Contacts](wastnow.media.html) - wastnow.media.html (178 surfs) (but my **recommended** second choice)
+      - [WA NOW British Columbia Media Contacts](wastnow.media.bc.html) - wastnow.media.bc.html (27 surfs)
+      - [WA NOW Idaho Media Contacts](wastnow.media.id.html) - wastnow.media.id.html (85 surfs)
+      - [WA NOW Montana Media Contacts](wastnow.media.mt.html) - wastnow.media.mt.html (186 surfs)
+      - [WA NOW Oregon Media Contacts](wastnow.media.or.html) - wastnow.media.or.html (173 surfs)
+      - [WA NOW Washington State Media Contacts](wastnow.media.wa.html) - wastnow.media.wa.html (486 surfs - **10th most popular**)
+      - [WA NOW Canadian National Media Contacts](wastnow.media.ca.html) - wastnow.media.ca.html (48 surfs - but I surf around Santa Barbara on vacations)
+      - [WA NOW National Media Contacts](wastnow.media.us.html) - wastnow.media.us.html (178 surfs)
+      - [WA NOW International Media Contacts](wastnow.media.intl.html) - wastnow.media.intl.html (114 surfs)
+    - [WA NOW Related Sites](wastnow.sites.html) - wastnow.sites.html (460 surfs - **11th most popular**)
+      - [WA NOW Government Resources](wastnow.sites.govt.html) - wastnow.sites.govt.html (2600 surfs - **4th most popular**)
+      - [WA NOW Other Related Sites](wastnow.sites.other.html) - wastnow.sites.other.html (109 surfs) (Tori Amos, Blue Stocking, neat stuff)
+    - [WA NOW Chapters](wastnow.chapters.html) - wastnow.chapters.html (265 surfs)
+    - [WA NOW Upcoming Events](events.html) - events.html (198 surfs)
+      - [WA NOW Upcoming Events - Seattle](seanow.events.html) - seanow.events.html (440 surfs - **12th most popular**)
+      - [WA NOW Upcoming Events - non-Seattle](wastnow.events.html) - wastnow.events.html (206 surfs)
+    - [Feminism and the Net - a guide for fun feminists](nownetin.html) (primer on web, email, and more) - nownetin.html (2811 surfs - **3rd most popular**) (my first **recommended** choice)
+    - [WA NOW Position Papers](wastnow.position.papers.html) - wastnow.position.papers.html (1135 surfs for all position papers)
+    - [WA NOW Email your Government Officials](wastnow.govt.mail.html) - wastnow.govt.mail.html (820 surfs - **5th most popular**)
+      - [Guidelines for Writing Government Officials Effectively](govt.email.guidelines.html) (98 surfs)
+      - [Email your US Senators](senators.us.email.html) - senators.us.email.html (3514 surfs - **2nd most popular**)
+      - [Email your US Congress](congress.us.email.html) - congress.us.email.html (500 surfs - **9th most popular**)
+      - [Email your WA State Senators](wa.senate.email.html) - wa.senate.email.html (738 surfs - **7th most popular**) (the *only* single page fast email list for WA St Senators - if mail bounces, tell me)
+      - [Email your WA State Representatives](wa.house.mail.html) - wa.house.mail.html (also email) (786 surfs - **6th most popular**) (the *only* single page fast email list for WA St Reps - if mail bounces, tell me)
+    - [WA NOW - NOW/PAC Endorsements](wastnowpac.endorsements.html) - wastnowpac.endorsements.html (127 surfs) (reprint of their endorsements)
+    - [WA NARAL - NARAL/PAC Endorsements](wanaral.endorse.html) - wanaral.endorse.html (39 surfs) (reprint of their endorsements)
+- Washington State NOW FTP site (files, files, more files) (no stats on usage)
+  - [root directory](ftp://ftp.eskimo.com/u/f/feminist/) - ftp.eskimo.com/u/f/feminist/
+  - [root directory message](ftp://ftp.eskimo.com/u/f/feminist/.message) - usually from Washington State NOW President
+  - [Catt's Claws](ftp://ftp.eskimo.com/u/f/feminist/Catts.Claws.feminist.NL/) directory - from Irene Stuber
+    - [DOS versions](ftp://ftp.eskimo.com/u/f/feminist/Catts.Claws.feminist.NL/DOS/) of Catt's Claws
+      - and then directories for each month (only the current is at top)
+    - and then directories for each month (only the current is at top)
+  - [US Federal Government Statements](ftp://ftp.eskimo.com/u/f/feminist/Fed.Gov.Statements/) directory - relevent ones
+  - [Legislative Positions](ftp://ftp.eskimo.com/u/f/feminist/Legislative/) from Washington State NOW (or National) and related files
+  - [Feminist Majority Online alerts](ftp://ftp.eskimo.com/u/f/feminist/Feminist.Majority.Online/) that I save here
+  - [NARAL alerts](ftp://ftp.eskimo.com/u/f/feminist/NARAL/) that I save here (some from WA NARAL)
+  - [Political Woman Hotline](ftp://ftp.eskimo.com/u/f/feminist/Political.Woman.Hotline/) ezine and alerts - who says feminists fear the Net?
+    - [DOS versions](ftp://ftp.eskimo.com/u/f/feminist/Political.Woman.Hotline/DOS/) of Political Woman Hotline
+  - [Women of Achievement and Herstory](ftp://ftp.eskimo.com/u/f/feminist/Women.of.Achievement.and.Herstory/) - from Irene Stuber
+    - [DOS versions](ftp://ftp.eskimo.com/u/f/feminist/Women.of.Achievement.and.Herstory/DOS/) of Women of Achievement and Herstory
+    - and then directories for each month (only the current one is at top)
+
+------------------------------------------------------------------------
+
+William Affleck-Asch's Index Tree ("index.tree.html")\
+Maintained by [William Affleck-Asch](index.html), email: [feminist@eskimo.com](mailto:feminist@eskimo.com?subject=WANOW-index-tree)\
+Webitor for Washington State NOW\
+Seattle NOW member\
+Last updated: September 20, 1997

@@ -1,0 +1,336 @@
+---
+title: "C.M. Connelly: Summary of Experience by Position"
+source_domain: amasci.com
+source_path: ~c/work/resume/byjob.html
+order: 1793
+reachable_from_entry: false
+images: 3
+internal_links: 7
+extracted: 2026-08-07T05:55:27Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# C.M. Connelly: Summary of Experience by Position
+
+*Source page: `~c/work/resume/byjob.html`*
+
+<span id="top"> </span>
+
+<div id="navbar">
+
+<a href="../../blog/index.html" class="navbar">Blog</a> \| <a href="../../debian/index.html" class="navbar">Debian</a> \| <a href="../index.html" class="navbar">Work</a> \| <a href="index.html" class="navbar">Résumé</a> \| <a href="../../about/index.html" class="navbar">About...</a>
+
+</div>
+
+<div id="header">
+
+[<img src="../../images/logo-light.png" data-border="0" width="200" height="85" alt="Link to Home" />](../../index.html)
+
+# Summary of Experience by Position
+
+</div>
+
+<div id="content">
+
+This document is meant to provide a summary of my work experience. Because of the wide range of hardware and software I have worked with, I can only hope to include a subset by name.
+
+The [Adobe PDF format version](C.M.Connelly-ByJob.pdf) of this document is the most up-to-date version—please download it if you're considering me for a position rather than relying on this HTML version.
+
+For more information, please see my page on [work](../) or [my résumé](resume.html).
+
+## Quick Access
+
+### [The Debian Project](#DEBIAN)
+
+### [Technical and Copyediting](#EDIT)
+
+[Systems](#EDIT-Systems) \| [Software](#EDIT-Software) \| [Notable Duties and Projects](#EDIT-Notable)
+
+### [California Medical Association](#CMA)
+
+[Systems](#CMA-Systems) \| [Software](#CMA-Software) \| [Notable Duties and Projects](#CMA-Notable)
+
+### [CyberSource Corporation](#CYBERSOURCE)
+
+[Systems](#CYBERSOURCE-Systems) \| [Software](#CYBERSOURCE-Software) \| [Notable Duties and Projects](#CYBERSOURCE-Notable)
+
+### [Miscellaneous](#MISC)
+
+[Systems](#MISC-Systems) \| [Software](#MISC-Software)
+
+------------------------------------------------------------------------
+
+## The Debian Project
+
+The Debian Project is an organization of volunteers with a commitment to free (*libré*) software. The Project produces the Debian GNU/Linux distribution, a completely free version of the GNU/Linux operating system. The Project is also working on the GNU Hurd, a microkernel-based operating system.
+
+I began working with the Project when I installed Debian GNU/Linux on my home machine, a PowerPC-based Macintosh clone. Because Debian was just starting its port to the PowerPC architecture, I encountered many problems for which I filed detailed bug reports, sometimes including patches to fix those problems. I also took part in the `debian-powerpc` mailing list, providing feedback to other developers and help to new users. In October, 2000, I became a Debian Developer—a full member of the Debian Project.
+
+I have taken a special interest in issues relating to Debian's teTeX packages, and have recently become an official member of Debian's teTeX maintenance team, with the power to upload new versions of these packages. I have written twenty-eight manual pages for various scripts and configuration files included with teTeX. In 2002, I conducted a survey of teTeX documentation licenses in response to a bug report iled by a user, and contacted the authors of approximately thirty packages or font distributions with no license information or licenses that conflict with the Debian Free Software Guidelines. I have also been working with Thomas Esser, teTeX's developer, and with the CTAN maintainers on this project.
+
+In addition to working on the teTeX packages, I currently maintain four packages:
+
+`mminstance`  
+a set of utilities for working with multiple-master fonts
+
+`t1utils`  
+a set of utilities for working with Type 1 PostScript fonts
+
+`texdoctk`  
+a TCL/Tk application providing easy access to teTeX documentation
+
+`thoughttracker`  
+a knowledge-base application
+
+I also occasionally contribute to the Project's documentation efforts.
+
+## Technical and Copy Editing
+
+After volunteering to proofread an early draft of George Grätzer's First Steps in LaTeX, the author contacted his publisher, Birkhäuser Boston (Springer), and asked them to hire me as his technical and copy editor. I then worked on two books, the first edition of First Steps in LaTeX, and the third edition of Math into LaTeX.
+
+Stylistic inspiration was taken from Lyn Dupré's BUGS in Writing: A Guide to Debugging Your Prose (Revised edition. New York: Addison-Wesley. 1998.) with The Chicago Manual of Style (Chicago: University of Chicago Press. 1993.) as our final authority. Typographic advice came from Robert Bringhurst's The Elements of Typographic Style, second edition. (Vancouver: Hartley & Marks. 1996.)
+
+### Systems
+
+- PowerComputing PowerCenter 132 running Mac OS 8.0 (for First Steps) and Debian GNU/Linux (for Math into LaTeX)
+
+### Software
+
+- Desktop Applications
+  - Alpha (Macintosh text editor)
+  - OzTeX and Textures (Macintosh TeX systems)
+  - teTeX 1.06 and 1.07 (Unix TeX system)
+  - GNU Emacs 20 (Unix text editor)
+  - Perl 5
+  - MakeIndex 2.13
+  - BibTeX 0.99
+  - CVS 1.10.7
+
+### Notable Duties and Projects
+
+- Copyediting. Applied, advised, and explained spelling, grammatical, and stylistic rules based on those presented by BUGS in Writing and The Chicago Manual of Style.
+
+- Technical editing. Checked facts presented against source materials (documentation for LaTeX, AMS LaTeX, and other programs and packages described in the text). Modified and created LaTeX code where necessary to create desired input. Provided advice and code affecting the structure and page layout of the books.
+
+- Redesigned all tables in Math into LaTeX to conform to the style advocated by The Chicago Manual of Style. Doing so required additional LaTeX coding to provide the desired results.
+
+- Created detailed indexes for both books using the tools provided by LaTeX's `makeidx` package and the MakeIndex application written by Pehong Chen.
+
+  Because of the complexity of the index, most index entries were provided by LaTeX commands defined by a style file I created. Index commands in the manuscript such as `amssubalignenvindex[prim]{split}` would produce multiple index entries in the final index (six, for this example).
+
+## CyberSource Corporation
+
+CyberSource Corporation provides backend support and turnkey Internet commerce applications (Internet Commerce Services (ICS)), including fraud protection and order processing. CyberSource grew out of software.net, which sells commercial software over the Internet using secure commerce servers, and was spun out to market the proprietary services developed for software.net to other companies.
+
+As the Senior Systems Administrator for CyberSource, I was responsible for systems providing services to clients as well as internal computing resources.
+
+The ICS systems (including software.net) ran primarily on Sun Microsystems Ultra workstations running Solaris, but also included an HP-UX system.
+
+Internal systems included Ultra workstations running Solaris and older systems running SunOS for the engineering group; a Microsoft Windows NT 4.0 server providing file and print services for the office; various Windows NT 4.0 workstations and servers and Windows 95 workstations; a Linux server performing as a security gateway; and a Silicon Graphics O2 system for evaluation purposes.
+
+### Systems
+
+- Sun Microsystems Ultra 1 and Ultra 2 systems running Solaris 2.5.1
+- Hewlett Packard 9000 Series system running HP-UX 10.10
+- Hewlett Packard NetServer LX running Microsoft Windows NT Server 4.0
+- Silicon Graphics O2 running Irix 6.2
+- Cisco Systems 2500 Series routers
+- Cisco Systems Catalyst Ethernet switches
+- 3Com SuperStack hubs
+- Livingston PortMaster Access Server (dial-up router)
+- Livingston FireWall IRX firewall router
+- ON Technology ON Guard firewall
+- Hewlett Packard LaserJet printers (various models) with JetDirect cards
+- Gateway 2000 PCs (various models) running Microsoft Windows 95, Windows NT Workstation or Windows NT Server
+- Nortel telephone and voicemail system
+- DLT autochanger
+- Axis Communications 200+ Web Cameras
+- Remote power switches
+- Terminal servers (for remote access to servers located at our ISP)
+
+### Software
+
+- Network Applications
+  - Netscape Commerce, Web, and Mail servers
+  - BIND (DNS) and Sendmail (SMTP mail)
+  - SAMBA
+  - Legato Systems NetWorker 5.1
+  - Livingston RADIUS authentication software
+  - Livingston PMconsole PortMaster administration software
+  - Sun Microsystems SunScreen SKIP VPN software
+  - Secure shell (ssh) servers and clients
+  - Ipswitch WhatsUp network monitoring software
+- Unix Applications
+  - Perl 5
+  - CyberSource proprietary ICS applications
+  - CyberCash servers
+- Desktop Applications
+  - Microsoft Office applications (Word, Excel, Access, PowerPoint, Outlook)
+  - Eudora Pro
+  - Visio
+  - Claris FileMaker Pro and FileMaker Pro Server
+
+### Notable Duties and Projects
+
+- Managed IS group (consisting of one full-time person and one contractor) and interviewed candidates for additional positions
+- Worked closely with vendors (notably CyberCash and Exodus Communications) to resolve and prevent problems and improve service
+- Collected information and met with vendors to implement high-availability server solutions (automatic failover)
+- Worked with vendors to obtain (lease/purchase) new hardware and software
+- Built new Solaris servers, including installation of operating system software, configuration of networking and disk arrays, installation of security software (ssh, SKIP), installation of CyberSource proprietary software, installation of Netscape Web servers, and preparation for additional work by engineering staff (e.g., installation of Sybase database servers)
+- Built Microsoft Exchange server to evaluate the product as an alternative to existing electronic mail, scheduling, and contact management applications
+
+## California Medical Association
+
+The CMA is the California State chapter of the national American Medical Association. During the period I worked there, they had a complex network that included Unix systems providing database, word processing, and electronic mail services; Novell NetWare servers providing file and print services; an AS/400 belonging to the finance department; and both Microsoft Windows 3.11 and Apple Macintosh clients. The remaining users on the Unix systems were migrated to desktop PCs and Macintoshes over the two years after I was hired.
+
+By the end of my employment there, the CMA had acquired an Internet connection and was beginning to use Microsoft Windows NT systems as clients and intranet Web servers.
+
+When I was first hired by the CMA, I ran the help desk for all desktop and server systems, with approximately 150 users in two locations. I also did systems and network administration, which eventually became my primary role, with a new hire taking over the help desk and freeing me to take a greater role in strategic planning. When I left, my role was primarily project planning and management, although I also continued to provide support for the frontline technical support staff, and to act as a contact between various vendors and the Association.
+
+### Systems
+
+- Hewlett Packard 9000 Series 800 servers, running HP-UX 9.X
+- Hewlett Packard NetServers (various models), running Novell NetWare 3.12 and 4.1X
+- Hewlett Packard Vectra PCs as client workstations, primarily running Microsoft Windows for Workgroups (3.11), Windows 95, or Windows NT (3.51 or 4.X)
+- Apple Macintosh (various models) as client workstations
+- Caldera and Red Hat Linux
+- Hewlett Packard hubs and routers (for WAN connections between the San Francisco and Sacramento offices and to the CMA's health insurance subsidiary, California Advantage)
+- Hewlett Packard DTC16TN Datacommunications and Terminal Controllers
+- EverSys CAPserver communications servers (dial-in/dial-out, FAX)
+- Hewlett Packard LaserJet printers (various models) with JetDirect cards
+- Cisco Systems 2500 Series router
+- Lexar digital telephone system and voicemail
+
+### Software
+
+- Network Applications
+  - Novell LANalyzer and ManageWise network monitoring applications
+  - WordPerfect Office 4.0a/Novell GroupWise 4.1, including SMTP Gateway
+  - Apache and Microsoft Internet Information Server (IIS) Web servers
+  - BIND (DNS) and Sendmail (SMTP mail)
+  - Cheyenne (now Computer Associates) ARCserve 4–6.0
+  - Intel (now Symantec) Net SatisFAXtion FAX server
+  - Novell LAN WorkPlace/LAN WorkGroup
+  - Novell NFS/PLPD
+  - Novell NetWare for SAA
+  - Raptor Eagle NT firewall software
+- HP-UX Applications
+  - USC Software Systems uniVerse and TOADS
+  - WordPerfect 5.1 UX
+  - WordPerfect Office 3.1 UX
+  - Perl 5
+- Desktop Applications
+  - Novell PerfectOffice/Corel Office applications (Especially WordPerfect 6.0a–7.X)
+  - Microsoft Office applications (Word, Excel, Access, PowerPoint)
+  - Microsoft Project
+  - Visio
+  - Claris FileMaker Pro (cross-platform)
+
+### Notable Duties and Projects
+
+- Designed, built, and maintained Ethernet network using Hewlett Packard hubs and routers, with multiple subnets and WAN connection between San Francisco and Sacramento offices.
+
+  This project required a complete teardown and rebuild of the machine room, reassignment of IP and IPX addresses, and reconfiguration of all routers, hubs, servers, and workstations.
+
+- Built, installed, configured, and maintained Novell NetWare 3.12 and NetWare 4.10 servers
+
+- Designed and implemented a Novell Directory Services (NDS) directory for the Association
+
+- Designed and implemented backup system for NetWare servers using Cheyenne ARCserve
+
+- Administered WordPerfect Office/Novell GroupWise and standard SMTP (Sendmail) electronic mail and scheduling systems
+
+- Monitored network performance with tools such as LANalyzer and ManageWise
+
+- Installed and maintained network-based applications for Windows workstations
+
+- Built and maintained Microsoft Windows 3.11 and Windows NT 3.51 and 4.X servers and workstations
+
+- Migrated printing from HP-UX systems to use Hewlett Packard JetAdmin (direct IP printing)
+
+- Planned and managed migration from Unix accounts to desktop PCs or Macintoshes
+
+- Installed, configured, and maintained HTTP intranet servers (Apache and Microsoft IIS)
+
+- Participated in task force meetings leading to the recommendation that the Association obtain an Internet connection and provide Internet-related services to the membership
+
+- Analyzed price and services data provided by vendors and wrote the task force's final report for management.
+
+- Oversaw the Association's connection to the Internet, including installing and configuring Raptor Eagle NT firewall software and a DNS server for external addresses
+
+- Acted as the technical contact for domain name system inquires
+
+- Worked on Information Technology Services master plan
+
+- Planned migration to Novell GroupWise 4.1 and 5.0
+
+- Planned upgrade of HP-UX systems to version 10.10
+
+- Created space plan for move from second to third floor, including the Association's library
+
+## Miscellaneous
+
+In addition to the skills and experience gained in the positions I've broken down, I have also worked with many other systems and software packages both outside of work and in other positions I have held.
+
+### Systems
+
+- Sun Microsystems SPARCstation IPX running SunOS 4.X
+- Sun SPARCstations and SPARCservers running Solaris 1.0–2.5X
+- Apple PowerMac G4 running Mac OS X
+- NeXTstation running NEXTSTEP 3.3
+- Digital Equipment Corporation Ultrix and VAX VMS
+- Gould Unix
+- IBM mainframes running VM/CMS
+- Apple Macintoshes (various models) running various versions of Mac OS and Debian GNU/Linux
+
+### Software
+
+- Network Applications
+  - Network Information Service (NIS)
+  - Sendmail
+  - BIND (DNS)
+  - Apache (webserver) with `mod_perl`
+  - HTML::Mason (content-management/web-scripting platform)
+  - Columbia AppleTalk Package (CAP)
+  - Netatalk
+  - Trusted Information Systems Firewall Toolkit
+- Unix Applications
+  - Perl 5
+  - Rand MH (electronic mail)
+  - GNU Emacs and Emacs Lisp
+  - LaTeXe and teTeX
+  - GNU gcc compilers
+  - Bourne and csh scripting
+  - awk and sed
+  - KDE & GNOME
+- Desktop Applications
+  - WordPerfect (3.5 Macintosh; 7.0 Windows)
+  - Microsoft Office applications (Word, Excel, etc.)
+  - Adobe Photoshop & Illustrator
+  - Adobe Acrobat Distiller, Exchange, Reader 3.X
+  - LaTeXe and OzTeX (Macintosh)
+  - Connectix Virtual PC 2.0
+  - FileMaker Pro
+  - Visio
+  - OmniGraffle
+  - UserLand Frontier 4.2.3–5.0 (Web development and general scripting application)
+  - Mozilla
+  - OmniWeb
+  - Netscape Navigator (2.0–4.0) and Communicator (4.7.X)
+  - Microsoft Internet Explorer
+
+<div id="footer">
+
+[<img src="../../images/Valid_XHTML10.png" data-border="0" width="88" height="31" alt="Valid XHTML 1.0!" />](http://validator.w3.org/check?uri=http://www.eskimo.com/~c/work/resume/byjob.html;ss)
+
+Copyright © 1998–2002, C.M. Connelly.
+
+Last modified at 1:43 PM PDT, Monday, September 22, 2003; last rendered at 9:22 PM PST, Sunday, November 30, 2003 with [Mason](http://www.masonhq.com/) and [Perl](http://www.perl.org/).
+
+Please [e-mail me about problems with this page](mailto:c@eskimo.com?Subject=Problem%20with%20/eskimo/work/resume/byjob.html). Thanks.
+
+</div>
+
+[<img src="../../images/scrollup.gif" data-border="0" width="9" height="11" alt="Return to Top of Page" />](#top)
+
+</div>

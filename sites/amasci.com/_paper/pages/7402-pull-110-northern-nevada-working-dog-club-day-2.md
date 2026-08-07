@@ -1,0 +1,621 @@
+---
+title: "Pull 110 -- Northern Nevada Working Dog Club -- Day 2"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0203/Pull110.html
+order: 7402
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-07T06:00:01Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 110 -- Northern Nevada Working Dog Club -- Day 2
+
+*Source page: `~samoyed/iwpa/0203/Pull110.html`*
+
+Northern Nevada Working Dog Club\
+Penn Valley, California
+=================================
+
+Pull: 110
+
+Organizer(s):Lewis, Steve
+
+Wheels on Dirt Region: 10
+
+Track:
+
+Good
+
+Date: Sun 2 Mar 2003
+
+Weather:
+
+Great
+
+Day 2 of 2
+
+Entered by Donna Daymude
+
+<div align="center">
+
+<table data-border="1" data-cellpadding="2" data-bordercolorlight="#0000FF" data-cellspacing="1" data-bordercolordark="FF0000">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2">Color<br />
+Codes</td>
+<td><em><strong>%</strong></em> -- Working Dog (WD) Leg Eligibility</td>
+<td data-bgcolor="#FFFF00">WD</td>
+<td data-bgcolor="#00FFFF">WD Excellent</td>
+<td data-bgcolor="#00FF00">WD Superior</td>
+</tr>
+<tr>
+<td><strong><em>Handler</em></strong> -- Owner / Handler relationship</td>
+<td><p>Owner</p></td>
+<td data-bgcolor="#FFFF00">Family Member</td>
+<td data-bgcolor="#00FFFF">Other Membership</td>
+</tr>
+</tbody>
+</table>
+
+Chief Judge: Steve Lewis
+
+</div>
+
+40 \# Class\
+Judged by Justin Boxberger Apprenticing under Steve Lewis
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Jesse
+
+2
+
+320
+
+8.16
+
+21
+
+15.24
+
+5.0
+
+Robyn Kissler
+
+Rat Terrier
+
+60 \# Class\
+Judged by Justin Boxberger Apprenticing under Steve Lewis\
+400 \# Start weight, 100 \# Increment, Cart weighs 180 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Autumn
+
+10
+
+1500
+
+16.94
+
+52
+
+28.85
+
+7.0
+
+Chad Fain
+
+Am. PitBull Terrier
+
+Sinder
+
+10
+
+900
+
+6.94
+
+44
+
+20.45
+
+4.0
+
+Jack Lynch
+
+Am. PitBull Terrier
+
+Tein
+
+P
+
+400
+
+43.22
+
+55
+
+7.27
+
+.
+
+Beth Loyd
+
+Am. Staffordshire Terrier
+
+80 \# Class\
+Judged by Justin Boxberger Apprenticing under Steve Lewis\
+450 \# Start weight, 100 \# Increment, Cart weighs 180 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Kane
+
+10
+
+2050
+
+10.28
+
+78
+
+26.28
+
+12.0
+
+Jack Lynch
+
+Am. PitBull Terrier
+
+Tittan
+
+10
+
+1350
+
+7.84
+
+70
+
+19.29
+
+9.0
+
+Kerry Fain\
+Chad Fain
+
+Am. PitBull Terrier
+
+P-Dub
+
+10
+
+1350
+
+10.25
+
+70
+
+19.29
+
+6.0
+
+Nathan Marcott
+
+Am. PitBull Terrier
+
+Luke
+
+10
+
+1150
+
+7.16
+
+78
+
+14.74
+
+4.0
+
+Jose Villarreal
+
+Am. PitBull Terrier
+
+Di
+
+10
+
+1050
+
+9.10
+
+64
+
+16.41
+
+3.0
+
+Nancy Best
+
+Am. Bull Dog
+
+Magnum
+
+10
+
+750
+
+6.94
+
+70
+
+10.71
+
+2.0
+
+Jose Villarreal\
+Cheryl Larom
+
+Am. PitBull Terrier
+
+Assumption that Cheryl Larom is part of Jose Villarreal's family membership
+
+Neo
+
+P
+
+550
+
+15.64
+
+68
+
+8.09
+
+.
+
+Beth Loyd
+
+Am. Staffordshire Terrier
+
+Maddie
+
+P
+
+450
+
+46.22
+
+70
+
+6.43
+
+.
+
+Mark Gullikson
+
+Am. Bull Dog
+
+100 \# Class\
+Judged by Nancy Best\
+500 \# Start weight, 100 \# Increment, Cart weighs 180 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Komdo
+
+10
+
+2400
+
+12.47
+
+90
+
+26.67
+
+7.0
+
+Brian Fain
+
+Am. PitBull Terrier
+
+Tianna
+
+10
+
+1200
+
+11.15
+
+100
+
+12.00
+
+4.0
+
+Cathy Thomas
+
+Pressa Canario
+
+Gibson
+
+P
+
+1200
+
+13.06
+
+90
+
+13.33
+
+.
+
+Jed Ritchey
+
+Am. Bull Dog
+
+125 \# Class\
+Judged by Nancy Best\
+550 \# Start weight, 100 \# Increment, Cart weighs 180 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Magnum
+
+10
+
+2850
+
+18.96
+
+103
+
+27.67
+
+9.0
+
+Brian Fain
+
+Am. PitBull Terrier
+
+Blade
+
+10
+
+2850
+
+29.03
+
+104
+
+27.40
+
+6.0
+
+Omar Ross
+
+Am. PitBull Terrier
+
+Sabre
+
+10
+
+2050
+
+11.88
+
+109
+
+18.81
+
+3.0
+
+Justin Boxberger
+
+Am. Bull Dog
+
+Katana
+
+10
+
+1550
+
+34.44
+
+112
+
+13.84
+
+1.0
+
+Steven Wiese
+
+Cane Corso Mastiff
+
+Jane
+
+10
+
+1050
+
+7.57
+
+108
+
+9.72
+
+0.5
+
+Chad Fain
+
+Rottweiler
+
+150 \# Class\
+Judged by Nancy Best\
+550 \# Start weight, 100 \# Increment, Cart weighs 180 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Tacoma
+
+10
+
+1750
+
+39.84
+
+127
+
+13.78
+
+6.0
+
+James Galli
+
+Alaskan Malamute
+
+Kurgen
+
+10
+
+1350
+
+24.63
+
+126
+
+10.71
+
+3.0
+
+Skip Russell
+
+Rottweiler
+
+Last Updated: 04:35:29 on 03-18-2003
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](../pulllist.htm) | [Previous Pull \#](Pull109.html) | [Next Pull \#](Pull111.html) | [IWPA Home Page](../index.html) |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

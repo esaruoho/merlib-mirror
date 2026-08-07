@@ -1,0 +1,372 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0403.htm
+order: 6707
+reachable_from_entry: false
+images: 22
+internal_links: 0
+extracted: 2026-08-07T05:59:29Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0403.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> > **The fluid call in a sudden\
+> > silence abandons the search for direction**
+> >
+> >        *George Kalamaras,* "Evening"
+
+[]()\
+[]()\
+\
+--
+
+APRIL 3
+
+TERENCE McKENNA\
+Sacred substances psychonaut & futurist shaman.\
+
+
+> 
+>
+> ------------------------------------------------------------------------
+>
+> Ancient Egyptian FESTIVAL OF MIN.
+>
+> Iran: SIZDAR-BEDAH: It is unlucky to stay indoors.\
+> (Bowlers Beware!)
+>
+> ------------------------------------------------------------------------
+
+\
+
+
+> []()\
+> []()\
+> \
+> 1279 -- Kublai Khan defeats the Sung Chinese in a battle at sea. []()\
+> []()\
+> \
+> <img src="http://www.costumes.org/subwebs/mwbh/images/ichabodglasses.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="141" height="100" alt="?" />\
+> 1783 -- Washington Irving lives (1783-1859). American author, short story writer, essayist, poet, travel book writer, biographer, and columnist, best known for the short stories The Legend of Sleepy Hollow; Rip Van Winkle. In Joseph Heller's novel Catch-22 the central character, Captain Yossarian, signs the censored letters of the soldiers with the name Washington Irving (or Irving Washington).
+>
+> > <img src="http://www.eskimo.com/~recall/bleed/images/oldbook.gif" data-vspace="10" data-hspace="10" data-align="left" width="67" height="39" alt="oldbook" />*"I don't go upstairs to bed two nights out of seven,"* writes Charles Dickens, *"...without taking Washington Irving under my arm."*
+>
+> <http://www.kirjasto.sci.fi/wirving.htm>\
+> []()\
+> \
+> 1789 -- US: A Boston trader visits & describes Neah Bay, a principal village of the Makah Indians (Washington State). []()\
+> []()\
+> \
+> <img src="http://recollectionbooks.com/bleed/Encyclopedia/RobinPaul/robinTN.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="120" height="170" alt="Paul Robin" />\
+> 1837 -- France: [Paul Robin](http://recollectionbooks.com/bleed/Encyclopedia/RobinPaul.htm) lives, in Toulon (VAr). Wrongfully forgotten anarchist educator & no-Malthusian whose libertarian legacy influences the educators [Sbastien Faure](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Faure) & [Francisco Ferrer](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Ferrer).\
+> \
+>
+> []()\
+> []()\
+> \
+> 1837 -- England: Heads Up? 2,000 workers at the Crown & Anchor Tavern, London, declare support for Canadian Patriots. []()\
+> []()\
+> \
+> 1849 -- Germany: during this month Mikhail Bakunin moves to Dresden. Next month a popular uprising breaks out & Bakunin emerges as an "heroic" leader, & also involves Richard Wagner & Heuber. When the rebellion is crushed, Bakunin receives a death sentence.\
+>
+> anarchist; alt Mihail Aleksandrovi Bakunin
+>
+> <http://recollectionbooks.com/bleed/sources.htm#BakuninMikhail>\
+> []()\
+> \
+> <img src="http://www.americanwest.com/trails/images/PE1.gif%0BALT=%22Snail" data-mail="" data-on="" data-horse"="" data-border="0" data-hspace="10" data-vspace="10" width="391" height="263" />\
+> 1860 -- US: Pony Express service begins, between Sacramento, California & St. Joseph, Missouri. It was discontinued six and a half months later due to the completion of the first transcontinental telegraph line. An ad in California newspaper read:
+>
+> > *"Wanted. Young, skinny, wiry fellows. Not over 18. Must be expert riders. Willing to risk death daily.*
+> >
+> > Orphans preferred."
+>
+> []()\
+> []()\
+> \
+> 1868 -- An Hawaiian surfs on highest wave ever, he rides a 50' tidal wave. []()\
+> []()\
+> \
+> <img src="http://recollectionbooks.com/bleed/images/dingbats/bullet.gif" data-hspace="10" data-vspace="5" data-align="left" width="28" height="28" alt="Ooopsie! bullet hole" />\
+> 1882 -- US: Jesse James shot by Robert Ford at St. Joseph, Missouri. []()\
+> []()\
+> \
+> 1894 -- England: Dora Winifred Russell-Black lives, in Thornton Heath, Surrey. Humanist & a feminist, joined the freethinking Heretics Society & supported the Suffragette Movement. She also became interested in socialism & pacifism. Companion to philosopher & mathematician Bertrand Russell.\
+> <http://www.iisg.nl/archives/html/r/10767897.html>\
+> []()\
+> \
+> 1898 -- [<img src="http://www.torget.se/users/c/Chilli/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="?" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: [Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm), continuing her speaking tour of Feb-June, addressing 66 meetings) scheduled to speak in Milwaukee, today & tomorrow.\
+> []()\
+> []()\
+> \
+> 1910 -- US: Highest mountain in North America, Alaska's Mt. Denali climbed. []()\
+> []()\
+> \
+> 1914 -- [<img src="http://recollectionbooks.com/bleed/images/dingbats/pixel.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="LEFT" width="1" height="1" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: During this month [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma)'s The Social Significance of the Modern Drama published. []()\
+> []()\
+> \
+> 1914 -- [<img src="http://recollectionbooks.com/bleed/images/dingbats/pixel.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="LEFT" width="1" height="1" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: Reunited, [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) & [Ben Reitman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Reitman) open their seventh annual tour in Chicago with "splendid" Jewish meetings.\
+> []()\
+> []()\
+> \
+> 1915 -- Poland: Deadbeat?: Having played an important moderating role as deputy chairman at the Yiddish Conference that assembled at Czernowitz to promote the status of the language & its culture, Isaac Leib Peretz, dies in Warsaw. []()\
+> []()\
+> \
+> 1920 -- F. Scott & Zelda Fitzgerald kicked out of Biltmore Hotel bridal suite, New York City for rowdiness.
+>
+> > ......in a real dark night of the soul
+> >
+> > it is always three o'clock in the morning,
+> >
+> > ... day after day
+>
+> <http://www.sc.edu/fitzgerald/index.html>\
+> []()\
+> \
+> 1924 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="30" height="19" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)[Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma), this month, is unable to solicit writing contracts with European & American magazines; she finds mainstream magazines are interested only in her experiences in Russia, thus thwarting her attempts to earn a living.\
+> []()\
+> []()\
+> \
+> 1924 -- Marlon *"Stella, I coulda been a contender,"* Brando lives, Omaha Nebraska.\
+> <http://www.geocities.com/Hollywood/9766/brando.html>\
+> []()\
+> \
+> 1925 -- China: During this month strikes occur in the Japanese-owned textile mills.\
+> [\[Source: K.S. Karol\]](http://recollectionbooks.com/bleed/sources.htm#Karol) []()\
+> []()\
+> \
+> 1926 -- Italy: La legge sull'organizzazione sindacale riconosce solo due confederazioni, una per gli imprenditori e una per i lavoratori, entrambe affidate a dirigenti fascisti. Sono vietati gli scioperi e qualsiasi forma di agitazione sindacale. 
+>
+> > Viene costituita l'Opera Nazionale Balilla che inquadra i ragazzi dagli 8 ai 12 anni (balilla) e quelli dai 12 ai 18 anni (avanguardisti). Il regime pensa proprio a tutto e a tutti.\
+> > [\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta) []()\
+>
+> []()\
+> \
+> 1927 -- During this month The Black Sun Press is founded by Harry & Caresse Crosby. Their magazine "Transition" alsofirst appears.\
+> Source: See Geoffrey Wolff, Black Sun (Random House, 1976).\
+> <http://www.banger.com/banger/crosby/bio.html>\
+> []()\
+> \
+> 1930 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="30" height="19" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)April-May, [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) sends her publisher what she assumes is the last installment of her autobiography concluding with her deportation from the United States aboard the Buford but Knopf insists on additional chapters covering her years in Russia & Europe.\
+> []()\
+> []()\
+> \
+> 1931 -- Italy: Pietro Secchia, capo del centro interno del Partito Comunista, arrestato a Torino. Sar condannato a 18 anni di prigione.\
+> [\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta) []()\
+> []()\
+> \
+> <img src="http://www.vic.com/nepal/images/icons/everest.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="287" height="142" alt=" ? " />\
+> 1933 -- First airplane flight over Mt. Everest.\
+> <http://aleph0.clarku.edu/rajs/mountains/everest.html>\
+> []()\
+> \
+> 1938 -- Italy: During the 1000-mile Mille Milaga sportscar road race, a Lancia hits street car tracks & somersaults into the crowd, killing three adult & seven child spectators & injuring 27 others, Bologna. []()\
+> []()\
+> \
+> 1939 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="30" height="19" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)England: [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) returns to London: on the trip she meets a group of 50 refugees from Madrid & Valencia & in her final days in London organizes a committee to support them.\
+> []()\
+> []()\
+> \
+> 1948 -- Marshall Aid plan for Europe formally ratified by US. []()\
+> []()\
+> \
+> 1948 -- Korea: Cheju April 3rd Massacre.
+>
+> > One of the darkest yet least-known chapters of postwar Asian history the horrific genocide of 30,000 innocent civilians on Cheju-do between 1948 & 1949. 
+> >
+> > In the space of one year, fully 10% of the island's total population of 300,000 was massacred literal Roman decimation. Privately the governor of Cheju told American intelligence at the time that 60,000 were killed.
+> >
+> > This mass murder, in the guise of an anti-Communist civil war, was undertaken by the South Korean army, the Cheju-do police, & the US military.
+> >
+> > On August 21, 1998 the Second East Asia Peace & Human Rights Academic Conference was held on the island in commemoration of this mass murder & to help publicize an event hidden from the American public.
+> >
+> > <http://www.kimsoft.com/1997/43wh.htm>\
+> > <http://www.kimsoft.com/1997/cheju.htm>\
+> > []()\
+>
+> []()\
+> \
+> <img src="http://www.kwf.org/media/kwbanner99_r1_c4.jpg" data-border="0" data-hspace="10" data-vspace="10" data-="" width="300" height="265" alt="Kurt Weill" />\
+> 1950 -- Radical composer Kurt Weill dies, New York City.\
+> <http://www.kwf.org/pages/kwbio.html>\
+>
+> []()\
+> \
+> 1954 -- US: United Auto Workers (UAW) Local 833 strikes the Kohler bathroom fixtures company in Kohler, Wisconsin.
+>
+> > Before the union contract expired, the company prepared for the strike by installing rooftop searchlights & arming guards with shotguns, tear gas, revolvers & thousands of ammunition rounds. 
+> >
+> > <img src="http://recollectionbooks.com/bleed/images/bolsheviks.gif" data-border="0" data-hspace="10" data-vspace="10" width="216" height="331" alt="?" />
+> >
+> > 
+> >
+> > The strike did not end until September 1960, when the National Labor Relations Board (NLRB) decides the Kohler Company is guilty of refusing to bargain. The company agrees to reinstate 1,400 strikers & pay them 4.5 million dollars in back pay & pension credits.
+>
+> []()\
+> []()\
+> \
+> 1959 -- The BBC bans the Coasters song "Charlie Brown" because of the word "spitball." Two weeks later the uptight Brits change their decision & play the single. []()\
+> []()\
+> \
+> 1959 -- US: The Chicago Post Office, having already seized several hundred copies of "Big Table 1", today sends a copy to the Director of the Division of Postal Services for a ruling as to its mailability. A hearing is eventually set for June 4, 1959, in Washington, D. C.\
+> <http://www.poetrycenter.org/usps.htm>\
+> []()\
+> \
+> 1963 -- US: Martin Luther King, Jr., launches voter registration drive in Birmingham, Alabama, (Home of the Free). 
+>
+> > Police Chief "Bull" Connor responds with fire hoses & attack dogs. Sit-ins & demos begun by SCLC & volunteers. The progressive city government & Bull will get an injunction to prevent demonstrations on April 11, & King & many others will be jailed on the 12th for violating the injunction.
+>
+> []()\
+> []()\
+> \
+> 1963 -- France: Achille Daude dies. Trade union activist, anarchist, &, especially, an advocate of cooperatives. Daude contributed to Sebastian Faure's Anarchist Encyclopaedia as well as writing numerous works on cooperatism, food & social questions.\
+> See the Anarchist Encyclopedia page\
+> [http://www.eskimo.com/~recall/bleed/sinners/AchilleDaude.htm](http://www.eskimo.com/~recall/bleed/sinners/AchilleDaude.htm)\
+>  []()\
+> []()\
+> \
+> 1963 -- England: 700 in Budget Day protest against taxation for nuclear arms, House of Commons, London. []()\
+> []()\
+> \
+> 1965 -- US: Students at UC Berkeley circulate a flyer claiming seismologist Dr. Charles Richter suggested the next big earthquake would be centered in the East Bay. It was a tongue-in-cheek ad for the [Johnny Otis Show](http://www.rockhall.com/hof/inductee.asp?id=162) at Zellerbach Hall which, the flyer said, met all State earthquake requirements.\
+> <http://www.sfmuseum.org/hist1/rock.html>\
+> []()\
+> \
+> 1969 -- US: 7,000 Illinois National Guardsmen mobilized to quell a wave of shooting, stoning & looting that broke out in black neighborhoods of Chicago in response to police brutality. []()\
+> []()\
+> \
+> 1972 -- US: Politico Adam Clayton Powell dies, Harlem, New York City.
+>
+> ADAM CLAYTON POWELL\
+> Daily Bleed Saint 2001. Harlem politico, high liver, nemesis of state bureaucracy.\
+>  []()\
+> []()\
+> \
+> <img src="http://www.southendpress.org/images/detroit.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="175" alt="?" />\
+> 1973 -- "But that isn't as serious as some of the other things that have happened in the Rouge area in the past. Six men in a basic oxygen plant were killed, & there wasn't enough left of those men to put in a decent shopping bag."
+>
+> 
+>
+> > > 
+> > >
+> > > Wesley Johns, statement to a People's Court convened by the Motor City Labor League, April 3, 1973 (cited in Dan Georgakas's Detroit: I Do Mind Dying)
+> > >
+> > > <http://www.southendpress.org/books/detroit.shtml>\
+>
+> \
+> []()\
+> \
+> <img src="http://recollectionbooks.com/bleed/images/dingbats/smiley2.gif" data-border="0" data-hspace="5" data-vspace="5" data-align="left" width="18" height="18" alt="Hey, hey! Smiley Face" />\
+> 1974 -- US: California Lt. Governor Ed Reinecke indicted on three counts of lying under oath during a Senate Judiciary Committee investigation into charges that political influence was a major factor in the settlement of an antitrust case against ITT.
+>
+> > > []()\
+> > > []()\
+> > > \
+> > > 1974 -- US: Patty Hearst announces in a taped message to a Berkeley radio station that she has joined her kidnappers, the Symbionese Liberation Army (SLA): 
+> > >
+> > > > > "I would never choose to live the rest of my life surrounded by pigs like the Hearsts"
+> > > > >
+> > > > > see also 5 & 22 February.\
+> > > > > Source: 'Calendar Riots'
+
+[]()\
+[]()\
+\
+<img src="http://www.eskimo.com/~recall/bleed/images/animfire.gif" data-vspace="0" data-hspace="5" data-align="left" width="30" height="50" alt="Ooops..." />\
+1975 -- Steve Miller charged with setting fire to the clothes & personal effects of a friend, Benita DiOrio. 
+
+> In the late night confusion, Miller tussles with policemen & is also charged with resisting arrest. The incident is quickly forgotten the next day when DiOrio asks to drop the charges & Miller jokes with reporters that the publicity might "rekindle" his career.
+
+[]()\
+[]()\
+\
+<img src="http://www.fright.com/vmoon/art/bloodglas.gif" data-jpg="" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="150" height="150" alt=" ? " />\
+1975 -- Bobby Fischer stripped of world chess title for refusing to defend his title & drink the blood of his vanquished opponent.
+
+<http://www.cdmag.com/traditional_vault/chessmaster_5000_review/shot2a.gif>\
+
+\
+
+> > []()\
+> > \
+> > 1979 -- Iranian author Hadi Khorsandi, (The Ayatollah & I; Readers International, 1987) skeedaddles for London.
+> >
+> > > "When he returned to Iran at the time of the Revolution, his satirical writings quickly brought demands for his execution from mobs of the Jezbollah & he flew back to London on 3 April,1979, only 2 days afterthe Islamic Rep. had been declared."
+> > >
+> > > <http://news.gooya.com/khorsandi.htm>\
+> >
+> >  []()\
+> > \
+> > 1980 -- US: Congress reinstates the Shvwits, Kanosh, Koosharem, & Indian Peaks & Cedar City bands of Paiute Indians of Utah. []()\
+> > []()\
+> > \
+> > 1984 -- Italy: Mediterrannean Cruises? Cruise missles announced as operational, Comiso, Sicily. []()\
+> > []()\
+> > \
+> > <img src="http://www.subgenius.com/bigfist/fun/devivals/dev-art/Devival1!.JPG" data-border="1" data-hspace="10" data-vspace="10" data-="" width="480" height="360" alt=" ? " />\
+> > 1985 -- US: Beloved & Respected Comrade Leader Rightwing-Sweetheart B-1 Bob Dornan (R-CA.) reveals the "best compliment" he has yet received on the House of Representitives floor -- Henry Hyde (R-IL.) said to him,
+> >
+> > 
+> >
+> > > "If we were Indians in the Plains Wars & you were a cavalry trooper, we would kill you just to drink your blood."
+> > >
+> > > This, explains Bob, was how true warriors showed respect.
+> > >
+> > > <http://www.subgenius.com/newdevivals.html>\
+> > > []()\
+> > > \
+> > > 1989 -- US: In Mississippi Choctaw Case, US Supreme Court upholds rights of tribal courts under the Indian Child Welfare Act of 1978.
+> >
+> > []()\
+> > []()\
+> > \
+> > 1990 -- American singer Sarah Vaughn, 66, dies of lung cancer in Los Angeles. "Divine Sassie," the Daily Bleed Saint, March 27.
+> >
+> > > " I don't remember when I first heard her, but I remember when she died. I heard it on the radio & I had to pull the car over.\
+> > > She means more to me than any other artist, because she truly had to sing. She didn't do that well commercially, she had trouble with record companies, she needed to sing what she wanted to sing.\
+> > > She was the singer's singer. "\
+> >
+> >  []()\
+> >
+> > []()\
+> > \
+> > <img src="http://www.eskimo.com/~recall/bleed/images/abes2.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="100" alt="?" />\
+> > 4000 --
+> >
+> > > > []()\
+> > > > []()\
+> > > >
+> > > > ------------------------------------------------------------------------
+> > > >
+> > > > anti-CopyRite 1997-3000, more or less\
+> > > > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > > > or send questions, suggestions, additions, corrections to:\
+> > > > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> > > >
+> > > > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> > > >
+> > > > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> > > >
+> > > > anarchist, labor, radical books
+> > > >
+> > > > See also: Anarchist Encyclopedia\
+> > > > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > > > Stan Iverson Memorial Library\
+> > > > http://recollectionbooks.com/siml/\
+> > > > Anarchist Time Line / Chronology\
+> > > > http://recollectionbooks.com/bleed/indexTimeline.htm

@@ -1,0 +1,48 @@
+Question 11.19 
+
+ Question 11.19 
+ I'm getting strange syntax errors inside
+lines
+I've
+ #ifdef fed out.
+
+ Under ANSI C,
+the text inside a ``turned off''
+
+ #if , #ifdef , or #ifndef 
+must still consist of ``valid preprocessing
+tokens.''
+This means that there must be
+no newlines inside quotes,
+and
+no unterminated comments or quotes
+(note particularly that an apostrophe
+within a contracted word
+looks like the beginning of a character constant).
+Therefore, natural-language comments
+and pseudocode
+should always be written
+between the ``official'' comment delimiters /* and */ .
+(But see question
+ 20.20 ,
+and
+also
+ 10.25 .)
+
+ References:
+
+ANSI Sec. 2.1.1.2, Sec. 3.1
+
+ISO Sec. 5.1.1.2, Sec. 6.1
+
+H&S Sec. 3.2 p. 40
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

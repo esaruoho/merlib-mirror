@@ -1,0 +1,43 @@
+---
+title: "C.G. Jung Society, Seattle: About the Society"
+source_domain: amasci.com
+source_path: ~dcs/about.html
+order: 2365
+reachable_from_entry: false
+images: 1
+internal_links: 2
+extracted: 2026-08-07T05:55:56Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# C.G. Jung Society, Seattle: About the Society
+
+*Source page: `~dcs/about.html`*
+
+# <img src="testlogo.jpeg" data-align="top" width="75" height="74" /> C.G. Jung Society, Seattle
+
+------------------------------------------------------------------------
+
+# About the Society
+
+The C.G. Jung Society, Seattle is a nonprofit educational corporation formed to promote an understanding of C.G. Jung's analytical psychology and the current use of Jungian concepts by contemporary thinkers. By exploring these viewpoints we hope to better understand ourselves and to gain new insights into our relationships, our culture, and our world.
+
+One of many such groups throughout the world, the Jung Society sponsors lectures and workshops by both locally and nationally known Jungian scholars.
+
+Our reference library, [the Nancy Alvord Library](library.html), contains more than 1,500 volumes on psychology, religion, philosophy, symbolism, and cultural anthropology. The library subscribes to Jung-related periodicals. This library includes the Kate Millard Memorial Colleciton of rare and out-of-print works by Jung and Jungians.
+
+Membership is open to anyone interested in learning about Jungian thought. As an added membership benefit, our Society has reciprocity agreements with the [Oregon Friends of C.G. Jung](http://www.ofj.org/) (Portland, Oregon), the C.G. Jung Society of Olympia (Olympia, Washington), and the C.G. Jung Society of Victoria (Victoria, British Coloumbia); members of the Jung Society, Seattle are admitted to events sponsored by these neighboring groups at their members' rates.
+
+To begin or renew membership in the Society, please print and use the [provided form](mailform.html).
+
+Individuals who do not desire full membership status but want to receive the newsletter and other mailings may do so by sending \$10.00 with the [attached form](mailform.html).
+
+For further information, call (206) 547-3956, send e-mail to the office at [`office@jungseattle.org`](mailto:office@jungseattle.org), or send e-mail to David Steinmetz at [`webmaster@jungseattle.org`](mailto:webmaster@jungseattle.org). You can also ask to be on an e-mail distribution list, used to send reminders of upcoming Society events.
+
+------------------------------------------------------------------------
+
+[C.G. Jung Society, Seattle home page](http://www.jungseattle.org/index.html)
+
+Updated: 3 October 2004\
+\
+<webmaster@jungseattle.org>

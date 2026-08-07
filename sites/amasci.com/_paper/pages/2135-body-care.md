@@ -1,0 +1,253 @@
+---
+title: "body_care"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/carcare/all_car_body_care.html
+order: 2135
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:48Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# body_care
+
+*Source page: `~dalus/bmw/all/carcare/all_car_body_care.html`*
+
+<span id="null">From bmw-digest.v4.n403 Mon Apr 8 17:53:50 1996</span>\
+From: Larry Schwarcz \<lrs@hpisrhw.cup.hp.com\>\
+Date: Mon, 08 Apr 96 15:17:35 -0700\
+Subject: Re: Sap on the paint\
+
+David Watson \<watson@wink.corp.sgi.com\> writes: \>My '95 M3 (the "silly" metallic green color ;-) is suffering from a\
+\>moderately bad case of very tiny droplets of tree sap all over the\
+\>exterior horizontal surfaces. Zymol Clear and even Zymol HD-Cleanse do\
+\>not remove this sap. I can scratch individual droplets away with a\
+\>fingernail, but the whole car is too big to do this for!\
+\>\
+\>Is there a product good at removing tree sap while leaving the paint in\
+\>good shape?
+
+Yes. Zip down to your local auto parts store (all should carry this) and buy a can of Dupont Bug & Tar Remover. It's a small (about 8 oz.) with can with black writing (at least my 5 year old can is like this). Should cost ya a few bucks.
+
+This stuff will remove tree sap, road tar and all sorts of hard to remove stuff from the paint. But, it will also remove the wax! So, wax any area that this stuff touches!
+
+I use this on my Alpine White convertible (on the paint, not the soft top) and it's GREAT!
+
+              Later...
+                 Larry.
+    ______________________________________________________________________________
+    Lawrence R. Schwarcz, Software Design Engr/NCD      Internet:  lrs@cup.hp.com
+    Hewlett Packard Company                               Direct:  (408) 447-2543
+    19420 Homestead Road MS 43LN                            Main:  (408) 447-2000
+    Cupertino, CA 95014                                      Fax:  (408) 447-2264
+
+Internal-only WWW: http://hpisrhw.cup.hp.com/~lrs/homepage.html OA
+
+day without sunshine is like night.
+
+------------------------------------------------------------------------
+
+<span id="null">From bmw-digest.v4.n402 Mon Apr 8 17:53:17 1996</span>\
+From: "Shane Callaghan" \<stc@ra.isisnet.com\>\
+Date: Mon, 8 Apr 1996 16:24:30 -0400\
+Subject: Re: Detailing advice/CarCare\
+
+pos@lanl.gov (Page O. Stoutland) wrote:
+
+I just wanted to say that two recent posts, one on car washing and the other on products for rubber and vinyl are very useful. This kind of information is "not found in books", and I'd be interested in hearing more of this sort of thing.
+
+Can we hear more from the two of you (and others) who have experience in the "car care" area which they'd like to share? For example, what "special" tools do you use to clean the nook and crannys in the interior and the engine area? What's best to clean under the hood? ...
+
+I have a very rare and exotic tool to clean some of the interior areas - it's the same tool I use to clean my teeth! (well, not the \*exact\* same one...). An old toothbrush works pretty well for many small areas. You can also get long narrow brushes to clean the dash and console (I use an old drafting brush) - works well on the centre vent and for getting loose dust off the dash. You should be able to find that and a smaller and stiffer detailing brush at your local auto supply store. I find the smaller narrow brush good for cleaning out seams (b/w the centre vent and the dash, b/w window switches, door trim panels, anywhere two panels meet). The same type of brush can be good for removing wax residue from trim panels.
+
+For under the hood, I have a hand-sized deep-pile curved brush. I don't give the engine bay nearly the attention I should, but it is good for removing the majority of dirt, in conjunction with liberal application of engine degreaser.
+
+The first BMW I ever drove was one I detailed when I was 17 - a 633CSi ;-)
+
+**STC**
+
+------------------------------------------------------------------------
+
+Shane T. Callaghan Halifax, Nova Scotia '88 RX-7 Turbo (10th Anniversary)\
+'89 BMW 525i <span id="null">From bmw-digest.v4.n402 Mon Apr 8 17:53:17 1996</span>\
+From: "Felipe Payet" \<fpayet@village.ios.com\>\
+Date: Mon, 8 Apr 1996 16:03:14 +0000\
+Subject: RE: Car care info on the web\
+
+\>Actually, can someone (or I) post this information on a\
+\>website for all to view? Of course credits will be given\
+\>to the source of the information and also bmw-digest.
+
+Shameless self promotion:\
+The BMW CCA New York Chapter web site has good article on washing your car, written by a professional detailer. It will be (hopefully soon) followed by a similar writeup of the wax/detailing process. Check it out at:
+
+http://Village.ios.com/~fpayet/BMW-CCA-NY/newsletr.html
+
+P.S. There was a previous article in our newsletter on cleaning your wheels, which I will also be posting within the next week or so (promises, promises...)
+
+Felipe Payet\
+humble web-servant\
+BMW CCA NY Chapter
+
+------------------------------------------------------------------------
+
+    Felipe B. Payet            fpayet@village.ios.com
+                            payet@offitny.attmail.com
+    BMWCCA
+    AOPA               http://village.ios.com/~fpayet
+
+<span id="null"></span>
+
+# DNRC http://village.ios.com/~fpayet/BMW-CCA-NY/
+
+<span id="null">From bmw-digest.v4.n399 Mon Apr 8 08:32:13 1996</span>\
+From: CarcareSp@aol.com\
+Date: Mon, 8 Apr 1996 00:50:22 -0400\
+Subject: Silicone based products\
+
+The problems associated with silicone based products may be broken down into the two catagories of usage, tires and vinyl: I have so many requests for this information, that I am posting to the entire list.
+
+1.  Tires/Rubber Trim: There are two main degrading agents that attack tires. They are UV light waves and ozone. Both of these attack the long hydrocarbon chains of the rubber and by breaking these chemical bonds, shorten the molecules with resulting loss of elasticity and other problems. Tire manufacturers add two primary sacrificial protectants to the rubber. To protect against UV, they add carbon black. This is why tires don't come in designer colors to match your paint. The carbon black will turn white/gray as it absorbs the UV and dissipates the energy as heat. Thus the basis of rubber parts turning gray as they age. To protect against ozone, tire manufacturers add a wax based sacrificial protectant. The ozone attacks the wax and depletes it. As the tire rolls, additional wax is forced to the surface of the tire. This is referred to as "blooming". This blooming refreshes the surface wax protectant. A tire that has not been flexed will have the wax depleted by the ozone and thus begin to degrade and suffer "dry rot". The silicone oil in Armour All et Al may actually dissolve the wax and be the cause of premature tire side wall cracking/failure. It is rumored that some tire manufacturers will not honor warranties on failures caused by silicone based products. I am in the process of checking with the major tire manufacturers to determine the validity of this rumor. In conclusion, any tire dressing should contain a UV protectant to bolster the efforts of the carbon black and preferably not contain any silicone.
+
+Plastics/Vinyls: The dash, door panels, seat backs, and numerous other interior/exterior trim pieces are usually vinyl. Vinyl may be viewed as raw semi-liquid vinyls that are held in place by a solid vinyl "skin" (this description is for illustration only and not a PhD chemical dissertation ). The dash and other vinyl parts of your BMW are constantly bombarded by UV that breaks down the molecules of the skin, allowing the raw vinyls to escape (off-gassing). These vinyls then may deposit themselves on the glass, forming a haze that is difficult to remove. If you have such a haze, it is probably your dash that has decided to pick up stakes and migrate(back to Germany?). Silicone based products do not usually contain UV protectants, and the silicone may act as a magnifying glass, intensifying the UV degradation. Silicone oil may also dissolve the essential oils in the vinyl skin, hastening the premature formation of cracks in the vinyl skin. A quality vinyl protectant will contain a UV protectant and essential oils to replace lost oils from the vinyl. These protectants are expensive, so the K-Mart specials may do more harm than good. Silicone also has very strong electrostatic attraction which may be considered beneficial in that it will tend to stay where it is placed, but will also attract every dust particle in the surrounding three counties.
+
+This list is my personal favorites. I am constantly testing new products and retesting old ones to compare their performance. We have a committee of 10+ people including national restoration and concours experts involved in these testing programs. Of these favorites, there are some that I personally like better than others. I have customers who will argue against my choices and defend their choice with equal vigor. When I am conducting work shops, I take a tire or two and divide them into sections and use all of the following products so people and see them side by side. Each person likes a different look, so each chooses a different product.
+
+Tire/Rubber(spoilers, trim, bumpers, etc.) Care:
+
+1.  My favorite is Black Again with a top coat of Meguiar \#42.
+2.  Black Again - is a white creamy polymer formulation the gives rubber a jet black color and a soft patena. My only problem with BA is that it doesn't last as long a I think it should. That is why I use the Meguiar \#42 on top. This combo seems to really last. BA will also remove the white wax residue that you slopped on the rubber trim.
+3.  Meguiar \#42 - is thick emulsion specifically formulated for black trim areas and tires. Will maintain the black patena without greasy shine. Does not restore color quite as well a Black Again.
+4.  Harly Tire Nu - many of the old time concour people use harlys. They love it. It maintains rubber for long periods of time and does not turn brown.
+5.  Meguiar \#40 - This is supposed to be for rubber and vinyl - I feel that it works a lot better on vinyl.
+6.  Tony Nancy Vinyl/Rubber Care - This is a great product. Tony Nancy is a World class restorationist (Pebble Beach Class) and judge. This is his own brew. Does a great job on rubber. I only use it on the exterior as the smell will kill you.
+7.  One Grand Exterior Rubber - This is similar to the Harly product. Lots of people swear by it.
+
+8.Zymol Vinyl - Better for vinyl than rubber. I think it is too much \$, but many people love it. Be aware that Zymol has hooked up with Turtle Wax Co. to produce a new line of K-Mart crowd products with the Zymol name. I call them Zurtle Waxes. They are crap. They come in black or blue containers. I think it is Turtle Wax with pina colada mix thrown in. I got pre-release samples and tested them, hoping for a decent product at a reasonable price. Wrong!
+
+9\. Tire-Nu - This used to be a GREAT product. The original formula was made in Japan. They now make it in California for the K-Mart crowd and it stinks. They changed the formula to make it CHEAP. I bought up every case in the country when they discontinued importing it. I now own 2 cans for my personal use.
+
+10\. Formula 303 - A good product. It leaves a slicker finish than I care for, but some people love it.
+
+11\. Sonax or Wurth Rubber Care Spray - These are better suited for the rubber gaskets around doors, windows, etc. They rejeuvinate the rubber and help maintain the seal. Should be used twice a year.
+
+12\. Sonax PVC Maintenance Spray - A good product that is better for the hard rubber of spoilers and whaletails. Leaves a little more shine to the surface than I care for, but many people swear by it. Lasts a long time.
+
+Interior Vinyl:
+
+1.  My personal favorite is Lexol Vinyex Spray. This in my humble opinion has it all. A very strong UV protectant, essential oils, anti-static (helps keep dust off) and a soft patena finish.
+2.  Harly Polyguard - This used to be my favorite, till I lost my heart to Vinylex. Leaves a touch more shine to the finish than Vinylex.
+3.  Somethin' Else - This is the sister to Black Again. Has all the right ingredients and people who love it are died in the wool. I prefer the Vinylex, but that only a subjective opinion. It leaves a "new car" smell.
+4.  Harly Interior Magic - An old standby that leaves a lemon scent. Some people love it. I don't think a car should smell like lemons, but that's my opinion and I could be wrong.
+5.  Zymol Vinyl - Another tropical oil product. Leaves a pina colada smell. Die hards will defend this product to the death. I just think it is to Much \$. See warning in tire section.
+6.  Meguiar \#40 - A great product that cleans and protects. Does not leave a slippery finish.
+7.  Meguiar \#39 - A very strong cleaner. This should be used carefully and very infrequently. It will clean just about anything out of vinyl. Must be followed by \#40. A great cleaner for plastic Targa tops.
+8.  Tony Nancy - I don't recommend use on the inside. The smell is a bit much for me. Some people do and swear by it.
+9.  Sonax Cockpit Spray - This is a German product that is designed for German vinyl. Does a great job, but leaves a little more shine to the surface than I care for. There are a gagle of users who love it.
+10. Wurth Cockpit Spray - ditto above. Wurth people don't like Sonax and vice versa.
+11. Formula 303 - This leaves an Armour All type of high gloss shine to the vinyl. I personally don't like this type of finish. Some people do, so feel comfortable using it as it is a very good product.
+
+I hope that the above has shed some light on the subject rubber and vinyl care. If there are any questions, please do not hesitate to call or write. If you can't find the products locally, please give me a shout.
+
+Larry Reynolds\
+Car Care Specialties, Inc.\
+Distributors of Quality Car Care Products Post Office Box 535\
+Saddle Brook, NJ 07663\
+Phone (201) 796-8300\
+Fax (201) 791-9743\
+E-mail carcaresp@aol.com\
+Old enough to remember when sex was safe and race cars were dangerous Member BMW CCA <span id="null">From bmw-digest.v4.n396 Sun Apr 7 12:06:20 1996</span>\
+From: Jbrucebmw@aol.com\
+Date: Sun, 7 Apr 1996 05:18:30 -0400\
+Subject: Detailing advice part 1 (washing)\
+
+Washing and waxing questions seem to come up frequently on the digest so I thought I would give some advice. I could write a book but I will try to keep it short and save bandwidth. As backround I have had 1st and 2nd place finishes in BMW Club concours and I took 2nd at Oktoberfest last year.
+
+WASHING: Do it in the shade to avoid water spotting. DO NOT use dish washing soap unless you want to remove all the wax on your car. Use a quality car wash soap like Meguire's or Zymol and several soft cotton wash mits. Use alot of water to get off surface dirt and prevent scratching. Keep seperate wash mits for wheels,wheel wells and door jams (dirtier places). Foam paint brushes come in handy for getting in crevices.
+
+DRYING: Again do it in the shade to prevent water spotting. Use a synthetic chamios (these don't become brittle) for the initial wipe down of each panel to remove most of the water. Then imediately follow with a soft100% cotton towel. Don't forget to dry the jams, grills and wheels.
+
+Next Installment: waxing (it's alot more than just waxing)
+
+Juan Bruce\
+**BMWCCA 95025**\
+**BMW ACA**\
+95 ///M3\
+85 ///M635 <span id="null">From bmw-digest.v4.n340 Tue Mar 26 10:34:35 1996</span>\
+From: "Fred Miller" \<fred@gene.COM\>\
+Date: Mon, 25 Mar 1996 16:01:21 -0800\
+Subject: Re: spots on black\
+
+I actually read the label of a good car wash, Meguire's I think, a few weeks ago that recommended rinsing with a slow stream of water, rather than a spray. The idea is to prevent the water from beading. I always used how well the water beaded as an indication of how well the wax was holding up. No longer. If I adjust the flow of water properly, I can rinse the car without forming any beads, the water just sheets off, even on a new coat of wax. I can almost let it air dry, with no spots! Except for the thin rubber molding on the doors, it always spots and needs a coat of 'black again' or equiv. every time. Anyone know how to keep the molding black?
+
+Fred\
+'94 530i
+
+- --
+
+<span id="null">From bmw-digest.v4.n336 Mon Mar 25 08:17:55 1996</span>\
+From: "Steve D'Gerolamo" \<steved3@village.ios.com\>\
+Date: Sun, 24 Mar 1996 21:30:34 -0500\
+Subject: Cosmoline Removal\
+
+I've found 2 products effective at removing cosmoline from painted surfaces and engine compartments. There are other strong solvents on the market that will do the job but many will damage the cars finish. Zymol has a product called Strik which is a non-caustic, non-acidic citrus base cleaner that will remove cosmoline and grease from all surfaces. I use Zymol products on my own cars and have found them to be effective and easy to use, although a bit pricey. A bottle (8oz) of Strik retails for \$19.95 and can be purchased through mail order houses for somewhat less. The second product is made by Wurth of Germany and is called "Citrus Based Solvent Degreaser". This product is similar to the Zymol Strik, although somewhat more concentrated (can be diluted with 9 parts water). A can of Wurth Degreaser retails for \$19.95 but is 18oz. This product is 100% biodegradeable with no harmful vapors.\
+Both products are excellent but the latter is a better value and comes highly recommended by the Porsche Club concours guru, John Paterak. We sell the Wurth degreaser for \$12.00/can but it can also be purchased through your local Wurth distributor. Steve D\
+Steve D'Gerolamo c/o The Parts Co-op, Inc, Emerson, NJ <span id="null">From bmw-digest.v4.n287 Sun Mar 10 20:33:05 1996</span>\
+From: BMW@comet.net (Bavarian Motor Warehouse)\
+Date: Sun, 10 Mar 1996 18:51:45 -0500\
+Subject: re: CAR CARE\
+
+\>From: LAURMOL@aol.com\
+\>There is one wax that stands above them all , Diamond 55, its only sold in\
+\>\>professional paint supply stores or by sending (\$12.00 for a pt.) and\
+\>your address to: Diamond 55
+
+115 \>4th st. N.W
+
+New \>Phila. Oh. 44663
+
+\>P.S. Zymol is made in the USA and marketed by...Turtle Wax
+
+Zymol is made in the USA, proudly, and has been for over 20 years, by Zymol in Connecticut. The only questionable product is the Auto Polish, sold at WalMart etc. which has Turtle Wax's address on it. This is a polish only and does not offer the protection qualities of the Zymol Cream/Carbon waxes. I have used their products for over 15 years. If you want more info, ask Zymol: 800 999-5563
+
+    Phil Marx  (*=00=*) BMWCCA #6021       (804) 293-8269    fax (804) 293-0817
+    Bavarian Motor Warehouse, Inc.         Check out our Web page: See the M635CSi
+    416 W. Main St.                        and a few other lovely 2 & 4 wheel BMWs
+    Charlottesville, VA.  22903            http://www.comet.chv.va.us/bav/
+
+<span id="null">From bmw-digest.v4.n338 Mon Mar 25 14:20:34 1996</span>\
+From: KKelly6788@aol.com\
+Date: Mon, 25 Mar 1996 10:09:52 -0500\
+Subject: Cosmoline\
+
+\>Do any Digest readers have good methods for removing cosmoline? I have\
+\>patches of it my engine compartment, and am wondering what works best to\
+\>clean it out?
+
+Use spray on snow ski base wax remover.
+
+Kevin Kelly\
+**BMW CCA \#50039** <span id="null">From bmw-digest.v4.n402 Mon Apr 8 17:53:17 1996</span>\
+From: "Shane Callaghan" \<stc@ra.isisnet.com\>\
+Date: Mon, 8 Apr 1996 16:24:30 -0400\
+Subject: Re: Detailing advice/CarCare\
+
+pos@lanl.gov (Page O. Stoutland) wrote:
+
+I just wanted to say that two recent posts, one on car washing and the other on products for rubber and vinyl are very useful. This kind of information is "not found in books", and I'd be interested in hearing more of this sort of thing.
+
+Can we hear more from the two of you (and others) who have experience in the "car care" area which they'd like to share? For example, what "special" tools do you use to clean the nook and crannys in the interior and the engine area? What's best to clean under the hood? ...
+
+I have a very rare and exotic tool to clean some of the interior areas - it's the same tool I use to clean my teeth! (well, not the \*exact\* same one...). An old toothbrush works pretty well for many small areas. You can also get long narrow brushes to clean the dash and console (I use an old drafting brush) - works well on the centre vent and for getting loose dust off the dash. You should be able to find that and a smaller and stiffer detailing brush at your local auto supply store. I find the smaller narrow brush good for cleaning out seams (b/w the centre vent and the dash, b/w window switches, door trim panels, anywhere two panels meet). The same type of brush can be good for removing wax residue from trim panels.
+
+For under the hood, I have a hand-sized deep-pile curved brush. I don't give the engine bay nearly the attention I should, but it is good for removing the majority of dirt, in conjunction with liberal application of engine degreaser.
+
+The first BMW I ever drove was one I detailed when I was 17 - a 633CSi ;-)
+
+**STC**
+
+------------------------------------------------------------------------
+
+Shane T. Callaghan Halifax, Nova Scotia '88 RX-7 Turbo (10th Anniversary)\
+'89 BMW 525i

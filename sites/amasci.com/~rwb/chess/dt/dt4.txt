@@ -1,0 +1,58 @@
+From: mginsbur@rnd.GBA.NYU.EDU (Mark Ginsburg)
+Newsgroups: rec.games.chess
+Subject: aries-deep thought - reprise
+Message-ID: <35669@rnd.GBA.NYU.EDU>
+Date: 21 Jan 93 23:48:05 GMT
+References: <35668@rnd.GBA.NYU.EDU>
+Distribution: rec.games.chess
+Organization: NYU Stern School of Business
+Lines: 44
+
+
+From wk0x@estonia.andrew.cmu.edu Wed Jan 13 20:23:55 1993
+Flags: 000000000011
+Received: from estonia.andrew.cmu.edu by rnd.stern.nyu.edu (4.1/1.34)
+        id AA28142; Wed, 13 Jan 93 20:23:54 EST
+Received: by estonia.andrew.cmu.edu (5.64/1.34)
+        id AA00343; Wed, 13 Jan 93 20:19:57 -0500 (EST)
+Date: Wed, 13 Jan 93 20:19:57 -0500 (EST)
+From: wk0x@estonia.andrew.cmu.edu (William Stephen Kish)
+Message-Id: <9301140119.AA00343@estonia.andrew.cmu.edu>
+To: mginsburg@rnd.stern.nyu.edu
+
+
+        aries vs. scratchy
+      Wed Jan 13 11:24:49 1993
+
+1.  d4   (0:05)   f5   (0:01)
+2.  c4   (0:15)   Nf6  (0:02)
+3.  g3   (0:10)   g6   (0:01)
+4.  Bg2  (0:02)   Bg7  (0:01)
+5.  Nh3  (0:03)   c5   (0:37)
+6.  d5   (0:07)   Ng4  (0:14)
+7.  0-0  (0:15)   Qb6  (0:23)
+8.  Nc3  (0:04)   Na6  (0:18)
+9.  e4   (0:44)   Ne5  (0:19)
+10. exf5 (0:09)   Nxc4 (0:20)
+11. Nf4  (0:19)   Nxb2 (1:30)
+12. Qc2  (0:26)   Nc4  (0:00)
+13. d6   (0:35)   Qxd6 (0:18)
+14. Nb5  (1:34)   Qb8  (0:44)
+15. Qxc4 (0:23)   Bxa1 (0:41)
+16. fxg6 (0:05)   e6   (0:43)
+17. Be3  (0:17)   Be5  (0:32)
+18. gxh7 (0:12)   Rxh7 (0:11)
+19. Re1  (0:58)   Rf7  (0:24)
+20. Ng6  (0:33)   Rh7  (0:54)
+21. Qg4  (0:54)   Bd6  (0:16)
+22. Rd1  (0:34)   Bxg3 (0:10)
+23. hxg3 (0:05)   d5   (0:10)
+24. Bf4  (0:08)   e5   (0:10)
+25. Qe2  (0:09)   Kf7  (0:02)
+26. Nxe5 (0:05)   Kg7  (0:06)
+27. Nf3  (0:10)   Qxf4 (0:12)
+Black resigns
+
+
+
+

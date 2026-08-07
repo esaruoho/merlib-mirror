@@ -1,0 +1,555 @@
+<HTML>
+
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<STYLE type="text/css">
+<!--
+  .clsFlagHead { font-family: Arial, Helvetica, Sans-Serif; font-size: 12pt; background-color: rgb(255,0,0); color: rgb(255,255,0); font-weight: bold; background-position: center }
+  .clsFlagMain { font-family: Times New Roman, Times, Serif; font-size: 8pt; background-color: rgb(255,255,255); color: rgb(255,0,0) }
+  .clsCmdHead { font-family: Times New Roman, Times, Serif; font-size: 10pt; font-weight: bold; color: #FFFF00; background-color: #008000; text-align: center; }
+  .clsCmdMain1 { font-family: Tahoma, Arial, Helvetica, Sans-Serif; font-size: 10pt; font-weight: bold; background-color: #00FF00; text-align: center; }
+  .clsCmdMain2 { font-family: Tahoma, Arial, Helvetica, Sans-Serif; font-size: 8pt; background-color: #FFFF00; }
+-->
+</STYLE>
+<TITLE>VeNoM [commands]</TITLE>
+</HEAD>
+
+<BODY background="graphics/backgrounds/parchmnt.jpg" bgcolor="#FFFFFF" topmargin="0" leftmargin="0" text="navy" link="Teal" vlink="Maroon" alink="Gray">
+
+<TABLE border="0" cellpadding="5" cellspacing="0" width="100%">
+  <TR>
+    <TD colspan="2" bgcolor="#008000" align="center"><FONT color="#FFFFFF" face="Courier New"><STRONG>V
+    e N o M&nbsp;&nbsp;I N T E R A C T I V E </STRONG></FONT></TD>
+  </TR>
+  <TR>
+    <TD width="300" align="CENTER" valign="MIDDLE"><IMG src="graphics/ven-cmd.gif" alt="VeNoM Commands" width="248" height="104"></TD>
+    <TD valign="MIDDLE"><FONT face="Tahoma, Arial, Helvetica" size="+1" color="#0033CC">Running
+    Eggdrop can be a daunting task for the novice. This page outlines some of <B>VeNoM's</B>
+    more common commands and techniques. </FONT></TD>
+  </TR>
+</TABLE>
+
+<P align="center"><FONT face="Comic Sans MS, Arial, Helvetica" size="2">[ </FONT><A href="venom.htm"><FONT face="Comic Sans MS, Arial, Helvetica" size="2"><B>VeNoM </B>Home</FONT></A><FONT face="Comic Sans MS, Arial, Helvetica" size="2"> ]</FONT></P>
+
+<P align="CENTER"><IMG src="graphics/cactusbar.gif" border="0" width="419" height="22"></P>
+
+<BLOCKQUOTE>
+  <P><FONT color="green" face="Comic Sans MS, Arial Narrow, Arial">Rules of the Game</FONT><BR>
+  <FONT size="-1"><B>VeNoM</B> is good, but it's far from perfect. The bot's overall
+  functioning is a semi-controlled chaos of built-in eggdrop stuff, an assortment of tcl
+  scripts found at places like EspReSso's
+  Eggdrop Archive and <A href="http://www.xcalibre.com" target="_blank">XCalibre</A>,
+  and literally dozens of hours of testing, tweaking, tuning, and customizing. As a result, <B>VeNoM</B>
+  tends to exhibit behavior that reinforces the IRC philosophies of its creator <I>(me!)</I>,
+  and the main one is <B>RESPECT!</B> The bot will do everything it can to protect and serve
+  the ops it knows (including protection from renegade ops). Do not betray this sacred
+  trust! </FONT></P>
+  <P><FONT color="green" face="Comic Sans MS, Arial Narrow, Arial">Starting Out</FONT><BR>
+  <FONT size="-1">After an administrator deems you worthy to access <B>VeNoM</B> and adds
+  you to its user list, you'll probably want to set a password right away. It isn't <I>absolutely</I>
+  necessary, but without a password you won't be able to get into all the nifty stuff
+  through DCC chat or telnet connection. Besides, it doesn't take but a second; here's what
+  to type: </FONT></P>
+  <P align="center"><FONT color="black"><B><CODE>/msg VeNoM pass &lt;password&gt;</CODE></B></FONT>
+  </P>
+  <P><FONT size="-1">The <B>&lt;password&gt;</B> in the above line is a <I>command argument</I>,
+  in this case representing a word you make up and remember as your own personal password.
+  Most of <B>VeNoM's</B> commands require one or more arguments telling it who, what, and/or
+  where to perform the action. Oh, and omit the <B>&lt;brackets&gt;</B> when keying in a
+  command argument. That's pretty standard convention, on this page, in the on-line help
+  files, and in other eggdrop documentation you might happen across. </FONT></P>
+  <P><FONT color="green" face="Comic Sans MS, Arial Narrow, Arial">You're SO Controlling!</FONT><BR>
+  <FONT size="-1"><B>VeNoM</B> <I>loves</I> to serve! There are 3 ways to send <B>VeNoM</B>
+  commands to make it do exactly what you want: <OL type="1">
+    <LI><B><FONT color="red">DCC Chat</FONT></B> - Commands issued &quot;inside&quot; the bot,
+      after a DCC (or telnet) connection has been established. All bot functions are accessible.
+      DCC commands are always preceded with a <I><B>period (.)</B></I> </LI>
+    <LI><B><FONT color="red">Private Message</FONT></B> - Commands issued in private query with
+      the bot. Primarily op-related functions are accessible. Message commands are generally
+      preceded with an <I><B>exclamation point (!)</B></I> </LI>
+    <LI><B><FONT color="red">Public Chat</FONT></B> - Commands issued directly from the channel.
+      Op-related, channel, and some utility functions are accessible. Public commands are
+      generally preceded with an <I><B>exclamation point (!)</B></I> </LI>
+  </OL>
+  </FONT><P><FONT color="green" face="Comic Sans MS, Arial Narrow, Arial">Users, Flags, and
+  Getting Help</FONT><BR>
+  <FONT size="-1">The concept of flags takes some getting used to, especially if you're
+  comfortable with scripts, script-bots, or channel services that assign a numerical access
+  level to users. To start to get a feel for flags, DCC chat with <B>VeNoM</B>, enter your
+  password when asked, then type this command in the DCC window: </FONT></P>
+  <P align="center"><FONT color="black"><B><CODE>.whois &lt;your nick&gt;</CODE></B></FONT> </P>
+  <P><FONT size="-1">An example of what you see might look something like this:</FONT> </P>
+  <FONT color="navy"><B><PRE>
+          HANDLE    PASS NOTES FLAGS                     LAST
+          Bouncer   yes      0 xp                        20:32
+            #CyberCafe         o                         20:32
+            HOSTS: *!mel@*.aug.com
+</PRE>
+  </B></FONT><P><FONT size="-1">Let's examine each element of this user record, paying
+  particular attention to those cryptic letters in the <B>FLAGS</B> column: </FONT><UL type="circle"><FONT size="-1">
+    <LI><B><FONT color="red">HANDLE</FONT></B> - This is the name that <B>VeNoM</B> knows you
+      by. Usually it's the same as your IRC nickname, but not necessarily so. Your bot handle
+      and IRC nickname are independent of one another, and you need not have them match for <B>VeNoM</B>
+      to recognize and obey you. </LI>
+    <LI><B><FONT color="red">PASS</FONT></B> - Shows whether or not you've set a password. </LI>
+    <LI><B><FONT color="red">NOTES</FONT></B> - Shows how many notes you have stored <I>(see <B>.notes</B>
+      in the <A href="#cmdtbl">command table</A>)</I>. </LI>
+    <LI><B><FONT color="red">FLAGS</FONT></B> - These determine overall access to <B>VeNoM</B>,
+      and what channel functions you can use on which channels. Confused yet? Bear with me. The
+      first set of flags (on the same line as the handle) are <I>global flags</I> and apply
+      anywhere. In the above example, <B>&quot;x&quot;</B> denotes access to <B>VeNoM's</B> file
+      transfer area and <B>&quot;p&quot;</B> allows a user to chat on the 'party line' inside
+      the bot. On the next line we see an <B>&quot;o&quot;</B> flag for <B>#CyberCafe</B>, which
+      means that this person is a recognized chanop for that channel. A global <B>&quot;o&quot;</B>
+      flag, on the other hand, would recognize the user as an op on any channel the bot sits.<BR>
+      <STRONG><I>Following is a complete rundown of available user flags:</I></STRONG><P><I><BR>
+      </I></P>
+      <DIV align="center"><DIV align="center"><CENTER><TABLE border="3" cellpadding="2" cellspacing="1">
+        <TR>
+          <TD align="center" class="clsFlagHead" style="border: medium none rgb(255,255,0)"><FONT size="-1" face="Arial, Helvetica"><B>Flag</B></FONT></TD>
+          <TD align="center" class="clsFlagHead" style="border: medium none rgb(255,255,0)"><FONT size="-1" face="Arial, Helvetica"><B>Meaning</B></FONT></TD>
+          <TD align="center" class="clsFlagHead" style="border: medium none rgb(255,255,0)"><FONT size="-1" face="Arial, Helvetica"><B>Glob</B></FONT></TD>
+          <TD align="center" class="clsFlagHead" style="border: medium none rgb(255,255,0)"><FONT size="-1" face="Arial, Helvetica"><B>Chan</B></FONT></TD>
+          <TD align="center" class="clsFlagHead" style="border: medium none rgb(255,255,0)"><FONT size="-1" face="Arial, Helvetica"><B>Bot</B></FONT></TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>o</B></TD>
+          <TD align="left" class="clsFlagMain"><B><I>op</I></B> (bot will give this user chanop)</TD>
+          <TD align="center" class="clsFlagMain"><B>X</B></TD>
+          <TD align="center" class="clsFlagMain"><B>X</B></TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>m</B></TD>
+          <TD align="left" class="clsFlagMain"><I><B>master</B></I> (user is a bot or channel
+          master)</TD>
+          <TD align="center" class="clsFlagMain"><B>X</B></TD>
+          <TD align="center" class="clsFlagMain"><B>X</B></TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>n</B></TD>
+          <TD align="left" class="clsFlagMain"><I><B>owner</B></I> (user is a bot or channel owner)</TD>
+          <TD align="center" class="clsFlagMain"><B>X</B></TD>
+          <TD align="center" class="clsFlagMain"><B>X</B></TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>B</B></TD>
+          <TD align="left" class="clsFlagMain"><I><B>botnet master</B></I> (user is a botnet master)</TD>
+          <TD align="center" class="clsFlagMain"><B>X</B></TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>x</B></TD>
+          <TD align="left" class="clsFlagMain"><I><B>xfer</B></I> (user has file-area access)</TD>
+          <TD align="center" class="clsFlagMain"><B>X</B></TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>p</B></TD>
+          <TD align="left" class="clsFlagMain"><I><B>party-line</B></I> (user has party-line access)</TD>
+          <TD align="center" class="clsFlagMain"><B>X</B></TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>j</B></TD>
+          <TD align="left" class="clsFlagMain"><I><B>janitor</B></I> (user is a file-area master)</TD>
+          <TD align="center" class="clsFlagMain"><B>X</B></TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>f</B></TD>
+          <TD align="left" class="clsFlagMain"><I><B>friend</B></I> (user is not punished for doing
+          bad things)</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain"><B>X</B></TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>k</B></TD>
+          <TD align="left" class="clsFlagMain"><I><B>kick</B></I> (user is auto-kicked)</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain"><B>X</B></TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>d</B></TD>
+          <TD align="left" class="clsFlagMain"><I><B>deop</B></I> (bot will not allow this user to
+          become a chanop)</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain"><B>X</B></TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>b</B></TD>
+          <TD align="left" class="clsFlagMain"><STRONG><EM>bot</EM></STRONG> (user is another bot)</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain"><STRONG>X</STRONG></TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>h</B></TD>
+          <TD align="left" class="clsFlagMain"><STRONG><EM>hub</EM></STRONG> (bot is auto-linked at
+          highest priority)</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain"><STRONG>X</STRONG></TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>a</B></TD>
+          <TD align="left" class="clsFlagMain"><STRONG><EM>alternate</EM></STRONG> (bot is
+          auto-linked if no hub bots can be linked)</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain"><STRONG>X</STRONG></TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>l</B></TD>
+          <TD align="left" class="clsFlagMain"><STRONG><EM>leaf</EM></STRONG> (bot is not allowed to
+          link in other bots)</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain"><STRONG>X</STRONG></TD>
+        </TR>
+        <TR>
+          <TD align="center" class="clsFlagMain"><B>r</B></TD>
+          <TD align="left" class="clsFlagMain"><STRONG><EM>reject</EM></STRONG> (bot is not allowed
+          on the net)</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain">&nbsp;</TD>
+          <TD align="center" class="clsFlagMain"><STRONG>X</STRONG></TD>
+        </TR>
+      </TABLE>
+      </CENTER></DIV>
+      <DD align="center"><BR>
+      </DD>
+      </DIV></LI>
+    <LI><B><FONT color="red">LAST</FONT></B> - Shows the last time <B>VeNoM</B> saw you, overall
+      and by channel <I>(see <B>!seen</B> in the <A href="#cmdtbl">command table</A>)</I>. </LI>
+    <LI><B><FONT color="red">HOSTS</FONT></B> - Hostmask(s) <B>VeNoM</B> uses to authenticate
+      your identity. You may have as many as you need to allow for different accounts, etc.</LI></FONT>
+  </UL>
+  <P><FONT color="green" face="Comic Sans MS, Arial Narrow, Arial">The Console</FONT><BR>
+  <FONT size="-1"><STRONG>VeNoM's</STRONG> console is your &quot;window to IRC.&quot; You
+  can fine-tune console settings to filter exactly what messages you want to see in the bot,
+  and set the channel you want <STRONG>VeNoM</STRONG> to perform channel-specific commands
+  on. Like user records, the console also uses a system of flags to determine the level of
+  message detail you'll see.<BR>
+  <STRONG><EM>Following is a complete listing of available console flags:</EM></STRONG></FONT></P>
+  <FONT size="-1"><DIV align="center"><CENTER><TABLE border="3" cellpadding="2" cellspacing="1">
+    <TR>
+      <TD align="center" class="clsFlagHead" style="border: medium none rgb(255,255,0)"><FONT size="-1" face="Arial, Helvetica"><B>Flag</B></FONT></TD>
+      <TD align="center" class="clsFlagHead" style="border: medium none rgb(255,255,0)"><FONT size="-1" face="Arial, Helvetica"><B>Meaning</B></FONT></TD>
+    </TR>
+    <TR>
+      <TD align="center" class="clsFlagMain"><B>m</B></TD>
+      <TD align="left" class="clsFlagMain">display private msgs/ctcps to the bot</TD>
+    </TR>
+    <TR>
+      <TD align="center" class="clsFlagMain"><B>p</B></TD>
+      <TD align="left" class="clsFlagMain">display public talk and ctcps on the channel</TD>
+    </TR>
+    <TR>
+      <TD align="center" class="clsFlagMain"><B>k</B></TD>
+      <TD align="left" class="clsFlagMain">display kicks/bans/mode changes on the channel</TD>
+    </TR>
+    <TR>
+      <TD align="center" class="clsFlagMain"><B>j</B></TD>
+      <TD align="left" class="clsFlagMain">display joins/parts/nick changes/signoffs on the
+      channel</TD>
+    </TR>
+    <TR>
+      <TD align="center" class="clsFlagMain"><B>b</B></TD>
+      <TD align="left" class="clsFlagMain">display bot links/unlinks/userfile-sharing</TD>
+    </TR>
+    <TR>
+      <TD align="center" class="clsFlagMain"><B>s</B></TD>
+      <TD align="left" class="clsFlagMain">display server messages and connects/disconnects</TD>
+    </TR>
+    <TR>
+      <TD align="center" class="clsFlagMain"><B>w</B></TD>
+      <TD align="left" class="clsFlagMain">display msgs between IRCops (wallops)</TD>
+    </TR>
+    <TR>
+      <TD align="center" class="clsFlagMain"><B>1</B></TD>
+      <TD align="left" class="clsFlagMain">display clone-detector messages</TD>
+    </TR>
+    <TR>
+      <TD align="center" class="clsFlagMain"><B>c</B></TD>
+      <TD align="left" class="clsFlagMain">display user commands (dcc and msg, <EM>masters only</EM>)</TD>
+    </TR>
+    <TR>
+      <TD align="center" class="clsFlagMain"><B>o</B></TD>
+      <TD align="left" class="clsFlagMain">display other bot notices (<EM>masters only</EM>)</TD>
+    </TR>
+    <TR>
+      <TD align="center" class="clsFlagMain"><B>x</B></TD>
+      <TD align="left" class="clsFlagMain">display file transfers and file-area commands (<EM>masters
+      only</EM>)</TD>
+    </TR>
+  </TABLE>
+  </CENTER></DIV><P>To see your current console setting, simply type:</P></FONT>
+  <P align="center"><FONT color="black"><B><CODE>.console</CODE></B></FONT> </P>
+  <P align="left"><FONT size="-1">A typical console display might look something like this:</FONT></P>
+  <P><FONT face="Courier New" size="2"><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Your console is #cybercafe: mcb1 (msgs, cmds, bots, level 1)</STRONG></FONT></P>
+  <P align="left"><FONT size="-1">What that line tells me is that <STRONG>#cybercafe</STRONG>
+  is my current console channel, and that the only messages I'll see in the bot are /msgs to
+  the bot, commands that other people use, any bot links or unlinks, and clone-detector
+  activity. The full syntax of the <STRONG>.console</STRONG> command is:</FONT></P>
+  <P align="center"><FONT color="black"><B><CODE>.console [channel] [+/- flags]</CODE></B></FONT></P>
+  <P align="left"><FONT size="-1">The command arguments above are shown in <STRONG>[square
+  brackets]</STRONG> because they are not required. You can change as much or as little of
+  the console as you wish, and you can do it all in one command. The &quot;+&quot; and
+  &quot;-&quot; simply toggle flags on or off. For instance, suppose I'd like to change to a
+  setting that lets me see what's going on in a different channel, including all public
+  chat, joins, kicks -- I want it ALL! I want to SNOOP! Okay, let's try this:</FONT></P>
+  <P align="center"><FONT color="black"><B><CODE>.console #25+flirtz +pjk-cb</CODE></B></FONT></P>
+  <P align="left"><FONT size="-1">Finally, if you find a particular console setting that you
+  prefer, type <STRONG>.store</STRONG> in the DCC window. This saves the current console
+  setting as your personal default whenever you log in to <STRONG>VeNoM</STRONG>.</FONT></P>
+  <P align="center"><IMG src="graphics/cactusbar.gif" border="0" width="419" height="22"></P>
+</BLOCKQUOTE>
+<A name="cmdtbl"><P align="center"><FONT color="green" face="Comic Sans MS, Arial Narrow, Arial">
+
+<B>VeNoM's</B> Command Table</FONT> <BR>
+</P>
+<DIV align="center"><CENTER>
+
+<TABLE width="775" border="3" cellpadding="3" cellspacing="0">
+  <TR>
+    <TD class="clsCmdHead" width="122">Function</TD>
+    <TD class="clsCmdHead" width="48">Where?</TD>
+    <TD class="clsCmdHead" width="250">Format</TD>
+    <TD class="clsCmdHead" width="275">Remarks</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain1" valign="middle" rowspan="8" width="122">Opping/De-opping</TD>
+    <TD class="clsCmdMain2" align="center" width="48"><B>Pub</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>!up</B></FONT></TD>
+    <TD class="clsCmdMain2" width="275">Ops self <B>if</B> you are a known operator on the
+    channel the command is issued from.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>Pub</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>!down</B></FONT></TD>
+    <TD class="clsCmdMain2" width="275">De-ops self on the channel the command is issued from.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>Pub</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>!op &lt;nick&gt;</B></FONT></TD>
+    <TD class="clsCmdMain2" width="275">Ops &lt;nick&gt; <B>if</B> you are a known operator on
+    the channel the command is issued from.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>Pub</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>!deop &lt;nick&gt;</B></FONT></TD>
+    <TD class="clsCmdMain2" width="275">De-ops &lt;nick&gt; <B>if</B> you are a known operator
+    on the channel the command is issued from, <B>and</B> &lt;nick&gt; is not.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>DCC</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>.op &lt;nick&gt;</B></FONT></TD>
+    <TD class="clsCmdMain2" width="275">Ops &lt;nick&gt; on your current console channel.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>DCC</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>.deop &lt;nick&gt;</B></FONT></TD>
+    <TD class="clsCmdMain2" width="275">De-ops &lt;nick&gt; <B>if</B> &lt;nick&gt; is not a
+    known operator on your current console channel.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>Pub</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>!voice
+    &lt;nick&gt;</B></FONT></TD>
+    <TD class="clsCmdMain2" width="275">Voices &lt;nick&gt; <B>if</B> you are a known operator
+    on the channel the command is issued from.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>Pub</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>!devoice
+    &lt;nick&gt;</B></FONT></TD>
+    <TD class="clsCmdMain2" width="275">De-voices &lt;nick&gt; <B>if</B> you are a known
+    operator on the channel the command is issued from.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain1" valign="middle" rowspan="7" width="122">Kicking/Banning</TD>
+    <TD class="clsCmdMain2" align="center" width="48"><B>Pub</B><BR>
+    or<BR>
+    <B>Msg</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>!k &lt;channel&gt;
+    &lt;nick&gt;</B> <I>&lt;reason&gt;</I></FONT></TD>
+    <TD class="clsCmdMain2" width="275">Kicks &lt;nick&gt; from &lt;channel&gt; <B>if</B> you
+    are a known operator on &lt;channel&gt;. &lt;Reason&gt; is optional.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>Pub</B><BR>
+    or<BR>
+    <B>Msg</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>!bk
+    &lt;channel&gt; &lt;nick&gt;</B> <I>&lt;reason&gt;</I></FONT></TD>
+    <TD class="clsCmdMain2" width="275">Bans and kicks &lt;nick&gt; from &lt;channel&gt; <B>if</B>
+    you are a known operator on &lt;channel&gt;. &lt;Reason&gt; is optional. Ban is temporary.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>Pub</B><BR>
+    or<BR>
+    <B>Msg</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>!s &lt;channel&gt;
+    &lt;nick&gt;</B> <I>&lt;reason&gt;</I></FONT></TD>
+    <TD class="clsCmdMain2" width="275">Shitlists &lt;nick&gt; from &lt;channel&gt; <B>if</B>
+    you are a known operator on &lt;channel&gt;. &lt;Reason&gt; is optional. Ban is permanent.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>Pub</B><BR>
+    or<BR>
+    <B>Msg</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>!sh
+    &lt;channel&gt; &lt;nick&gt;</B> <I>&lt;reason&gt;</I></FONT></TD>
+    <TD class="clsCmdMain2" width="275">Shitlists &lt;nick&gt;'s <B>entire domain</B> from
+    &lt;channel&gt; <B>if</B> you are a known operator on &lt;channel&gt;. &lt;Reason&gt; is
+    optional. Ban is permanent.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>DCC</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>.bans</B></FONT></TD>
+    <TD class="clsCmdMain2" width="275">Displays active bans on your current console channel.
+    Use <FONT color="red"><B>.bans all</B></FONT> to list all bans. <B>VeNoM</B> uses a
+    dynamic ban system and applies them only as needed.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>DCC</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>.+ban</B> <I>&lt;channel&gt;</I>
+    <B>&lt;hostmask&gt;</B> <I>&lt;reason&gt;</I></FONT></TD>
+    <TD class="clsCmdMain2" width="275">Adds &lt;hostmask&gt; to <B>VeNoM's</B> permanent ban
+    list and immediately applies the ban. If &lt;channel&gt; is omitted, the ban applies to
+    all channels. &lt;Reason&gt; is optional.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>DCC</B></TD>
+    <TD class="clsCmdMain2" align="center" width="250"><FONT color="red"><B>.-ban</B> <B>&lt;hostmask&gt;</B>
+    OR <B>&lt;number&gt;</B></FONT></TD>
+    <TD class="clsCmdMain2" width="275">Removes &lt;hostmask&gt; OR &lt;number&gt; from <B>VeNoM's</B>
+    permanent ban list and immediately removes the ban.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain1" align="center" width="122" rowspan="12">Tools and Toys</TD>
+    <TD class="clsCmdMain2" align="center" width="48"><STRONG>DCC</STRONG></TD>
+    <TD class="clsCmdMain2" valign="middle" align="center" width="250"><STRONG><FONT color="#FF0000">.note &lt;handle&gt;</FONT></STRONG></TD>
+    <TD class="clsCmdMain2" align="left" width="275">Sends a note to &lt;handle&gt;. If they
+    are on the bot when the note is sent, they receive it like a private message. If not, the
+    note is stored for them to retrieve later. Remember, a person's bot &lt;handle&gt; is not
+    necessarily the same as their IRC &lt;nick&gt;!</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><STRONG>DCC</STRONG></TD>
+    <TD class="clsCmdMain2" valign="middle" align="center" width="250"><STRONG><FONT color="#FF0000">.notes read</FONT></STRONG></TD>
+    <TD class="clsCmdMain2" align="left" width="275">Read any notes you have stored. <STRONG>VeNoM</STRONG>
+    will let you know when you join the channel if you have any unread notes or not.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><STRONG>DCC</STRONG></TD>
+    <TD class="clsCmdMain2" valign="middle" align="center" width="250"><STRONG><FONT color="#FF0000">.notes erase</FONT></STRONG></TD>
+    <TD class="clsCmdMain2" align="left" width="275">Erase any notes after you've read them.
+    Actually, you don't <EM>have</EM> to read them prior to erasing.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><STRONG>DCC</STRONG></TD>
+    <TD class="clsCmdMain2" valign="middle" align="center" width="250"><FONT color="#FF0000"><STRONG>.info
+    &lt;phrase&gt;</STRONG> OR <STRONG>none</STRONG></FONT></TD>
+    <TD class="clsCmdMain2" align="left" width="275">Set your &quot;info line&quot; and <STRONG>VeNoM</STRONG>
+    will so greet you whenever you join a channel he's on. Set <FONT color="#FF0000"><STRONG>.info
+    none</STRONG></FONT> to get rid of your info line.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><STRONG>DCC</STRONG></TD>
+    <TD class="clsCmdMain2" valign="middle" align="center" width="250"><FONT color="#FF0000"><STRONG>.email
+    &lt;address&gt;</STRONG></FONT></TD>
+    <TD class="clsCmdMain2" align="left" width="275">For informational purposes only. Setting
+    your email will show it in your user record.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><B>Pub</B><BR>
+    or<BR>
+    <STRONG>Msg</STRONG></TD>
+    <TD class="clsCmdMain2" valign="middle" align="center" width="250"><STRONG><FONT color="#FF0000">!seen &lt;nick&gt;</FONT></STRONG></TD>
+    <TD class="clsCmdMain2" align="left" width="275">Reports how long it's been since <STRONG>VeNoM</STRONG>
+    last saw &lt;nick&gt;, and where &lt;nick&gt; was at the time. &lt;Nick&gt; does not need
+    to be a registered user to be known.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><STRONG>DCC</STRONG></TD>
+    <TD class="clsCmdMain2" valign="middle" align="center" width="250"><FONT color="#FF0000"><STRONG>.seen
+    &lt;nick&gt;</STRONG></FONT></TD>
+    <TD class="clsCmdMain2" align="left" width="275">Same as above.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><STRONG>DCC</STRONG></TD>
+    <TD class="clsCmdMain2" valign="middle" align="center" width="250"><FONT color="#FF0000"><STRONG>!ping
+    me</STRONG> OR <STRONG>&lt;nick&gt;</STRONG></FONT></TD>
+    <TD class="clsCmdMain2" align="left" width="275">Returns a standard ping reply for
+    yourself or another &lt;nick&gt;.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><STRONG>Pub</STRONG></TD>
+    <TD class="clsCmdMain2" valign="middle" align="center" width="250"><FONT color="#FF0000"><STRONG>!joins</STRONG></FONT></TD>
+    <TD class="clsCmdMain2" align="left" width="275">Reports a count how many times <STRONG>#cybercafe</STRONG>
+    has been joined since a certain date, and if you're an op, how many times you have joined.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><STRONG>DCC</STRONG></TD>
+    <TD class="clsCmdMain2" valign="middle" align="center" width="250"><FONT color="#FF0000"><STRONG>.joins</STRONG></FONT></TD>
+    <TD class="clsCmdMain2" align="left" width="275">Same as above.</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><STRONG>Pub<BR>
+    </STRONG>or<BR>
+    <STRONG>Msg</STRONG></TD>
+    <TD class="clsCmdMain2" valign="middle" align="center" width="250"><FONT color="#FF0000"><STRONG>!slots</STRONG></FONT></TD>
+    <TD class="clsCmdMain2" align="left" width="275">Plugs a quarter into <STRONG>VeNoM's</STRONG>
+    built-in slot machine and pulls the handle. Will you hit the jackpot?</TD>
+  </TR>
+  <TR>
+    <TD class="clsCmdMain2" align="center" width="48"><STRONG>Pub</STRONG></TD>
+    <TD class="clsCmdMain2" valign="middle" align="center" width="250"><FONT color="#FF0000"><STRONG>VeNoM
+    &lt;question&gt;<BR>
+    </STRONG>OR<BR>
+    <STRONG>8ball &lt;question&gt;</STRONG></FONT></TD>
+    <TD class="clsCmdMain2" align="left" width="275">Who says bots are dumb? Just ask <STRONG>VeNoM</STRONG>
+    a question, ask anything!</TD>
+  </TR>
+</TABLE>
+</CENTER></DIV>
+
+<BLOCKQUOTE>
+  <P align="left"><FONT size="-1">Eggdrop is the most advanced bot on IRC today. This list
+  is not intended to be an all-inclusive command reference, but it does contain most of the
+  everyday sorts of things an average user might want to use. Many of the things you see
+  here do not necessarily work on other eggies you have access to, and some of the things
+  other bots have may not be implemented on <STRONG>VeNoM</STRONG>. For example, I do not
+  have an &quot;XDCC&quot; file service set up like the bot-armies you may have seen in
+  warez or porn channels, nor do I employ (or endorse) war tools of any kind. <STRONG>VeNoM's</STRONG>
+  main purpose is channel protection and chanop services.</FONT></P>
+</BLOCKQUOTE>
+
+<P align="center"><IMG src="graphics/cactusbar.gif" border="0" width="419" height="22"></P>
+</A>
+
+<P align="center"><FONT face="Comic Sans MS, Arial, Helvetica" size="2">[ </FONT><A href="venom.htm"><FONT face="Comic Sans MS, Arial, Helvetica" size="2"><B>VeNoM </B>Home</FONT></A><FONT face="Comic Sans MS, Arial, Helvetica" size="2"><B> </B>]</FONT></P>
+
+<TABLE border="0" cellpadding="5" cellspacing="0" width="100%">
+  <TR>
+    <TD width="100%" bgcolor="#008000" align="center"><FONT color="#FFFFFF" face="Courier New, Courier, Monospace"><STRONG>V e N o M&nbsp;&nbsp; I N T E R A C T I V E</STRONG></FONT>
+    <BR>
+    <FONT color="#FFFFFF" size="-2" face="Times New Roman, Serif"><B>VeNoM INTERACTIVE</B> is
+    an independent producer of interactive, entertaining and useful Internet products and
+    services. Stay tuned!</FONT> </TD>
+  </TR>
+</TABLE>
+</BODY>
+</HTML>

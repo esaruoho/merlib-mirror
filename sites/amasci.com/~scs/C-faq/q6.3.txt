@@ -1,0 +1,85 @@
+Question 6.3 
+
+ Question 6.3 
+ So what is meant by the ``equivalence of pointers and arrays'' in C?
+
+ Much of the confusion surrounding
+arrays and
+pointers in C can be traced to
+a misunderstanding of
+this statement.
+Saying that arrays and pointers are ``equivalent''
+means
+neither
+that they are
+identical
+nor
+even
+interchangeable.
+ ``Equivalence'' refers to the
+following key definition:
+ An lvalue
+of type array-of-T
+which appears in an
+expression
+decays
+
+(with three exceptions)
+into a pointer to its first element;
+the type of the resultant pointer is pointer-to-T.
+ (The exceptions are when the array is the operand of
+a sizeof 
+or
+ & 
+operator,
+or is a string literal initializer for a character
+array.)
+ As a consequence of
+this definition,
+the compiler doesn't apply the array subscripting operator
+ [] 
+that differently
+to arrays and pointers,
+after all.
+
+In
+an expression of the form a[i] ,
+the array
+decays
+into a pointer,
+following the rule above,
+and
+is then
+subscripted just as would be a pointer variable in
+the expression p[i] 
+(although the eventual memory accesses will be different,
+as explained in question
+ 6.2 ).
+If you were to assign the array's address to the pointer:
+ p = a;
+
+then p[3] and a[3] would access the same element.
+ See also 
+question 6.8 .
+
+ References:
+
+K&R1 Sec. 5.3 pp. 93-6
+
+K&R2 Sec. 5.3 p. 99
+
+ANSI Sec. 3.2.2.1, Sec. 3.3.2.1, Sec. 3.3.6
+
+ISO Sec. 6.2.2.1, Sec. 6.3.2.1, Sec. 6.3.6
+
+H&S Sec. 5.4.1 p. 124
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

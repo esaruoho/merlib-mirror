@@ -1,0 +1,56 @@
+Given that there is significant existing variation in human intelligence,
+it's curious that we are not all much smarter than we actually are.
+Besides the well-known costs of higher intelligence (e.g., more energy
+use, bigger heads causing more difficult births), it seems that being
+smart can be a disadvantage when playing some non-zero-sum games. Here is
+one example.
+
+Consider an infinitely repeated game with 2n players, where in each round 
+all players are randomly matched against each other in n seperate 
+prisoner's dillema stage games. After each round is finished, the outcomes 
+are recorded and published.
+
+One plausible outcome of this game is for everyone to follow this strategy 
+(let's call it A): Initially mark all players as "good". If anyone defects 
+against a player who is marked as "good", mark him as "bad". Play 
+"cooperate" against "good" players, "defect" against "bad" players.
+
+Now suppose in each stage game, there is probability p that the outcome is
+not made public. Also assume that n is large enough so that we can
+disregard the possibility that two players might face each other again in
+the future and remember a previous non-published outcome. Now depending on
+p, the discount factor, and the actual payoffs, it can still be an
+equilibrium for everyone to follow strategy A.
+
+For example, suppose the payoffs are 2,2/3,-10/-10,3/0,0, and p=0.5. If a
+player deviates from the above strategy and plays "defect" against a
+"good" player, he gains 1 utility (compared to strategy A) for the current
+round, but has a probability of 0.5 of losing 2 utility in each future
+round.
+
+Now further suppose that the random number generator used to decide
+whether each outcome is published or not is only pseudorandom, and there
+are some "smart" players who are able to recognize the pattern and predict
+whether a given stage game's outcome will be published. And suppose it's
+public knowledge who these "smart" players are. In this third game, its no
+longer an equilibrium for everyone to follow strategy A, because a "smart"
+player should always play "defect" in any round in which he predicts the
+outcome won't be published. The "normal" players can follow strategy A, or
+they can follow a modified strategy (B) which starts by marking all
+"smart"  players as "bad", in which case the "smart" players should also
+start by marking all "normal" players as "bad".
+
+In either case the total surplus is less than if there were no "smart" 
+players. But with some game parameters, only the latter is an equilibria, 
+in which case "smart" players actually end up worse off than "normal" 
+players. (Note that even when the first outcome is an equlibrium, it is 
+not coalition-proof. I.e., the "normal" players have an incentive to 
+collectively switch to strategy B.)
+
+For example, consider the above payoffs again. When a "normal" player 
+faces a "smart" player, he knows there is .5 probability that the "smart" 
+player will defect. If he deviates from strategy A to play "defect", there 
+is .5 probability that he gains 10 utility, and .5 probability that he 
+gains 1 utility in the current round and loses no more than 2 utilities in 
+each future round. Therefore depending on the time discount factor he may 
+have an incentive to play "defect".

@@ -1,0 +1,41 @@
+SSC Main Page 
+
+ Tim Worcester 
+ Normal 
+ Tim Worcester 
+ 13 
+ 61 
+ 2001-12-16T18:43:00Z 
+ 2001-12-28T04:40:00Z 
+ 1 
+ 74 
+ 423 
+ 3 
+ 1 
+ 519 
+ 9.2720 
+
+ THE ELECTRONIC CLOSET 
+
+ Hardware Design Support 
+
+ Transducer Matching Transformers- 
+
+ Design, fabricate, and test matching networks for underwater
+transducers. 
+
+ Computer Control Circuits- 
+
+ Design and fabricate prototype PC interface circuits for control
+applications. 
+
+ Embedded Micro Controller Circuits- 
+
+ Design and fabricate prototype embedded micro controller circuits. 
+
+ Hydrophone Preamplifier Circuits- 
+
+ Design and prototype pre-amplifier and driver circuits. 
+
+ --- Website 
+The Electronic Closet, 1980-2001 ---

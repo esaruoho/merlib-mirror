@@ -1,0 +1,37 @@
+James Thiele's JavaScript stuff
+
+ James Thiele's
+
+ programming examples and references 
+
+ See the current phase of the moon graphically
+ generated on the fly with JavaScript.
+
+ A pair of pages that remember things with cookies:
+
+ Reminder Calendar 
+ page allows you to attach a reminder to a day.
+ Your Last Visit 
+ page remembers the last time you visited a page.
+
+ Temperature Converter 
+for fahrenheit centigrade.
+
+ Snoopy's Novel 
+writes a very short story.
+ A modestly amusing quiz .
+ Load a different page depending on which browser version opens a page.
+
+My 1996 presentation at Seattle Java
+Users Group entitled "What is JavaScript and Why Should I Care?"
+
+ Course materials from a class I taught on JavaScript.
+
+ This page belongs to James Thiele who can be reached:
+ at his home page 
+ http://www.eskimo.com/~jet 
+ via email at 
+ jet@eskimo.com 
+
+ Page last modified 26 July 2004 
+ Previously modified 24 April 2002

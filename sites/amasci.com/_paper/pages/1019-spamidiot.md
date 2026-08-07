@@ -1,0 +1,187 @@
+---
+title: "spamidiot"
+source_domain: amasci.com
+source_path: ~ables/spamidiot.html
+order: 1019
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T05:54:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# spamidiot
+
+*Source page: `~ables/spamidiot.html`*
+
+I received the most unbelievable piece of SPAM I have ever seen. This guy is either in major denial, grasping to justify how he chooses to make money, or just plain stupid. I suspect it's a combination, I want to believe nobody could be enough of a moron to actually believe this dreck.
+
+This is too good not to take apart bit by bit. You can see the original message (without my comments) [here](spamidiotoriginal.txt) if you want to read it through once.
+
+    Date: Wed, 31 May 2000 03:57:00
+    From: officialpolltaker6@hotmail.com
+    Subject: I Love Spam/I Hate Spam Official Polling !
+
+    Hi,
+        A Poll is being taken to settle the issue whether 
+    commercial e-mail or SPAM is a good form of advertisement, 
+    which you would like more of or it's a bad form of 
+    advertisement which you are against.
+
+Yeah, right. I defy anyone to show me anyone who likes SPAM to any level higher than tolerance. And exactly what kind of "settling" of the issue will this poll do? This appears to be nothing more than an address verifier (and maybe they'll make some money on the 900 number they want you to call). You respond to this message and they have another target. Using SPAM to poll you about SPAM is like shooting people to see if anybody objects to your owning a gun.
+
+    The arguments go more or less as follows:
+
+    Pro:
+         Commercial E-mail is a very efficient, cost effective means 
+    of informing people about new goods and services. This translates
+    into substantial savings to the consumer. That the vast majority 
+    of internet users don't mind Spam and want to hear about new 
+    goods and services.  
+
+Of course it's efficient, it's practically free to the sender! If you could run a TV ad and have the viewers pay for it, that would be efficient, too! I doubt it's very effective, but how effective does it have to be when it didn't cost the sender anything to put it out? If I sent 5 million SPAMs and *one* person buys my product, it was worth it. At least when the consumer (indirectly via cost of doing business) pays for the TV ad, it's the consumer who has interest in and ultimately purchased the product who pays for it.
+
+That last sentence is simply a lie. A survey conducted in 1999 by the Gartner Group research firm found that the majority of the 91% of e-mail users who receive SPAM at least once a week favor either regulating SPAM or banning it altogether.
+
+         That for Years now, more advanced bulk mailing software 
+    has allowed bulk mailers to shoulder the full cost of Spamming. 
+
+That's not even a halfway believable lie. I pay for connect time to download e-mail and I pay for storage space of that e-mail on my mail server. How does the SPAMmer pay for this? Perhaps someone is sending out checks and they don't have my proper address! (Here's a hint: NOT).
+
+    This cost has increased and access has become much more difficult 
+    due to unfair and illegal practices by the big providers (the 
+    later day Robber Barons) Who have a vested interest in keeping 
+    Costs and Profits high for as long as possible, and with the news 
+    media with whom most have formed alliances, have and continue 
+    to wage a war of misinformation, deceptions, and out and out lies.  
+
+I don't even understand what they mean to imply here. Maybe that ISPs are making life more difficult for SPAMmers to *steal service* from them? Imagine that.
+
+         That through an unholy alliance with vix.com, individuals 
+    and companies have been targeted by cyber terrorists who have 
+    attacked their equipment, programming and subjected people to 
+    threats of violence by posting personal information on these 
+    legitimate companies employees and individuals home addresses, 
+    phone numbers, which leads to threats against them, there 
+    families and children.  
+
+Can't comment on this as I am unfamiliar with the incident to which they refer. If someone is doing things like this it would be unfortunate. This would be right up there with people who kill abortion doctors in the name of life. Please. As long as the action you disapprove of is legal, work to make it illegal if that's what you want (which anti-SPAMmers are doing), don't take it upon yourself to punish those you see as guilty.
+
+         Lastly, that the Robber Barons (Big Internet Providers) use 
+    special identification programs in their efforts to stop free 
+    trade that invades the privacy of all individuals by identifying, 
+    reading, and then determining whether or not you will get your 
+    mail or not (ask yourself this question, if AOL or SPRINT or AT&T 
+    or MicroSoftNetwork, (MSN), sent someone to your house to 
+    intercept your mail, open it, read it, and then arbitrarily 
+    decide whether they will put it in your mail box or not. Would 
+    you put up with that?)  They call it filtering, we know it by 
+    its more insidious name, CENSORSHIP.  
+
+I have to say I more or less agree with this. This is one reason I don't use a big ISP and I have my own filters which only filter SPAM that is 100% identifiable. In some cases, some slips through, but I wouldn't want to risk losing real e-mail because it looked like SPAM. He's right, this is censorship. But it's also censorship that the customer has signed up for and approved of, so it isn't as evil as he's trying to make you believe. I question it's wisdom, though.
+
+    Why in the world should you be subjected to this, and have to pay 
+    higher prices !  
+
+"Subjection" is in the eye of the beholder. Some people are willing to pay extra not to be beaten over the head with SPAM. Just like some pay the phone company extra for services that prevent telemarketers from calling them (a right which I think everyone should already have by default, not have to pay *extra* for!).
+
+    Anti SPAM:
+
+         Anti Spam arguments go something like this:
+    They don't like it.  
+
+This is the **one** thing in this section this guy got right. Other than this, he doesn't have a clue, but of course, why would he use any real argument here when he's trying to sway you to the SPAMmer's side. This is some poll. Have you ever seen a poll that tries to persuade you of one of the responses?
+
+I wrote a web page on [why SPAM is bad](spam.html) that gives all the arguments that this guy *should* have provided in this section but didn't (assuming that he was interested in presenting a balanced argument, which, of course, he wasn't).
+
+         Some genuinely want to be isolated fromthe world, others it 
+    seems are simply being mislead.   Spammers steal services and 
+    don't really pay for access, Spammers are evil because the big, 
+    rich, powerful, largeinternet service providers say so, and it's 
+    OK to targetthem for all kinds of bad things, legal or not.  
+    They don't like it. 
+
+Actually, SPAMmers aren't usually big or rich, they're usually individuals with no budget for any kind of advertising so they resort to this. I have never gotten SPAM from any company I have ever heard of before. You don't see IBM or AT&T SPAMming people, they know better and they have other options. Clearly if SPAMming worked as well as this guy claims, *everyone* would be doing it.
+
+And to say anti-SPAMmers want to be isolated from the world is silly. I want to be isolated from idiots who want to send me e-mail trying to sell me worthless junk, yes. But that is not the world, that is only one small, greedy portion of it.
+
+He doesn't say how people are being mislead... what, because I don't agree with you, I must be wrong and therefore mislead? SPAMmers *do* steal services from ISPs and their customers, that has been proven over and over.
+
+         And would rather have themselves and consumers everywhere 
+    continue to pay high inflated pricesso that the Robber Barons 
+    may grow even richer and morepowerful.  
+
+You aren't going to convince me that prices of anything you sell via SPAM are any better than things advertised in conventional media. Much of the stuff sold by SPAMmers are scams of one kind or another so selling by conventional media (where the seller could be identified, tracked down, and sued later) isn't a good option.
+
+         And finally, much like the Nazi's final solution to the 
+    Jewish problem, they are willing to act as the RobberBaron's 
+    Gestapo, ready to report for termination any Spammers or Spam 
+    sympathizers.  
+
+This is so offensive I can hardly express my outrage. To compare the actions of almost anyone to the Nazi's is to show one's ignorance and insensitivity about a pivotal time in human history. Then again, if this guy had a brain he'd have a real job and wouldn't be sending out SPAM. This paragraph should convince just about anybody that this guy is a complete idiot in addition to being a greedy and dishonest son-of-a-bitch.
+
+Of course we report misuse of services. When SPAMmers sign up for Internet access, they almost always agree to a Terms Of Use contract which specifically forbids SPAM. Then they SPAM and get all pissed off when they have to pay the price. Do you also rob banks and then blame the witness who turned you in? Sheesh. Clearly this guy is one of those "the rules apply to everyone *except* me" morons.
+
+    SIMPLE SOLUTION: Press the delete key, STUPID !
+
+Why should I have to store, pay for, download, and then DELETE 20-30 e-mail messages a day that I never wanted in the first place? It isn't a matter of how inconvenient it is for me, it's the fact that they shouldn't be there to inconvenience me in the first place. You do not have the right to fill up my mailbox and potentially prevent me from receiving other e-mail that I **do** want.
+
+SIMPLER SOLUTION: Don't SPAM me, ASSHOLE!
+
+    Have a different opinion, give us a call because, your 
+    opinion on how to make this kind of advertisement better & 
+    to increase its use, is vital. Or if this is a terrible 
+    form of advertisement and how it should be curtailed, 
+    regulated or ended all together.
+
+Uh, yeah, duh, I have a different opinion.
+
+        Please call, 1-900-***-**** and tell us.
+
+       The charges for registering your opinion are as follows:
+    Of the $1.99 per minute charge, 
+    1-dollar goes to the telephone service Bureau 
+    19 cents to retrieve your opinion
+    79 cents to transcribe this information into a viable format
+    Leaving a total of 2 cents.
+       So do call if you wish to get your 2 cents worth in !
+
+This is priceless. Not only have I been brainwashed by the text of this message (in theory) to agree with SPAMmers, but now I'm going to have to **pay** to voice my opinion!? I think not. This is so idiotic I don't even want to repeat the phone number in this text. I guess they hope to get a few militant anti-SPAMmers who will want to call it thinking it might actually do some good when all it will do is lose them some money.
+
+    Attention both Pro and Anti Spam Advocates and those of you who 
+    may have sought removal from any number of bulk mailing lists.  
+    If you have received this e-mail it is because it is a conscious 
+    decision on our part to try and include everyone in this important 
+    poll. To not have included those who profess a dislike for this 
+    form of advertisement would have eliminated those individuals 
+    from the process and provide an unfair advantage to one side of 
+    the poll. We sincerely hope that all interested individuals or 
+    entity's understand the necessity of inclusion.
+
+Sure. This is always the last justification of SPAMmers. We're busy apologizing for bothering you but we want to make sure we apologize to *everybody*!
+
+     ******************************************************** 
+     This message is sent in compliance of the proposed 
+     bill: SECTION 301. 
+     Per Section 301, Paragraph (a)(2)(C) of S. 1618, 
+     further transmissions to you by the sender of this 
+     email may be stopped at no cost to you by sending a 
+     reply to this email address with the word remove in 
+     the subject line. This message is not intended for 
+     residents in the State of Washington, screening of 
+     addresses has been done to the best of our technical 
+     ability. If you are a Washington, Virginia, or 
+     California resident or otherwise wish to be removed 
+     from this list, further transmissions to you by the 
+     sender of this email may be stopped at no cost to you 
+     by sending a reply to   mstrsrvcs@mailme.org 
+     with the word remove in the subject line. 
+     *********************************************************
+
+This is old and useless disclaimer text. It stands up in a courtroom about as well as the one I used to use that said each e-mail I received gave me the right to bill the sender for the time it took me to read it and sending it was an acknowledgment of that. It sounds good but has no legal basis.
+
+Do you really think if you send a note to this address anything good will happen? If it doesn't bounce, it will only verify that your address is real so that it can be put on lots of other SPAM lists.
+
+This message is so hypocritical, outlandish, and just plain wrong, it was almost fun to read. The part that isn't fun is considering that the author might actually believe even a small portion of it. That would be sad, for the author as well as humanity in general. Just when I think I've pegged how low someone can go, someone like this lowlife comes along and proves me wrong. Sigh.
+
+But if nothing else, it shows the mentality of SPAMmers and should discourage just about anybody from wanting to do business with them. We could kill SPAM nearly overnight simply by ignoring it. If SPAM didn't work, at least a little, they wouldn't use it. Someone is out there sending them money. QUIT IT! ;-)

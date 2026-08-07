@@ -1,0 +1,9 @@
+JBM
+
+ Welcome to the third incarnation of my ballistics web site. All of the 
+ information and calculations that were here are still here. Additionally,
+ I've added a new ballistics DLL called PM (point mass) for writing 
+ ballistics programs. The only difference is the absence of the old 
+ graphics. The new site is quicker to load and smaller.
+
+ Click on the links below to find what you're looking for.

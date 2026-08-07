@@ -1,0 +1,42 @@
+Jon's Site - Technical 
+
+ The Technical Side 
+
+For some reason I haven't figured out, I really enjoy computers, 
+especially computer programming. If you enjoy or are interested
+in computers as well, I hope this page has something for you. In
+addition to what's here, I have a technical web log at Advogato. I also like to Predict the future (Netscape 6 or similar required).
+
+ HOWTOs 
+
+ Digital Video to VideoCD Conversion HOWTO 
+ Blender Stuff - tutorials and artwork for Blender 3d stills an animation 
+
+ Projects 
+
+ Serial Terminal Linux - a mini-distribution for turning laptops into terminals 
+ XML Tangle - a program for doing literate programming with XML 
+ The Toy Language - an example GCC front-end language 
+ TODO Projects - projects I'd like to do but don't have the time 
+ Multimedia Scripts and Tools - I've been doing a lot with Multimedia on Linux, and this is where I'm sticking the scripts and other little tools I've used to help me get the job done 
+
+ Classes 
+
+These are still works in progress. If you have any ideas of classes to add 
+or change, please let me know. I am especially interested in classes to add in 
+the web solution designer's class.
+
+Classes are starting March 24th. For more information, see our ad ( PDF Postscript )
+
+ My Programmer's Toolbox series 
+ My Web Solution Designer's Toolbox series 
+
+ Papers and Books 
+
+ Programming from the Ground Up - an introductory book about programming - Now on Savannah! (unfinished) 
+ Taking Advantage of Inheritance through Empirical Factoring - a short paper on developing inheritance hierarchies 
+ A proposal for a GNOME Meta Infrastructure 
+
+ Reviews 
+
+ The UNIX Guide to Defenestration

@@ -1,0 +1,25 @@
+---
+title: "Palmer Mt"
+source_domain: amasci.com
+source_path: ~sfox/SJF/HIKE/01Palmer.htm
+order: 7871
+reachable_from_entry: false
+images: 2
+internal_links: 0
+extracted: 2026-08-07T06:00:24Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Palmer Mt
+
+*Source page: `~sfox/SJF/HIKE/01Palmer.htm`*
+
+Palmer Mt
+
+Palmer Mt (USGS Grotto)
+
+2/25/01
+
+After an attempt on an unpleasant, brushy route in January, we tried a different approach. Mike Collins reported a route via Money Creek/Lowe Creek roads on WTA. So we set off on a foggy Sunday morning. Lowe Creek road was fairly potholed. At 1.5 miles was a major dip in the road, but we attacked it with our snow shovels and managed to drive another .8 miles to Lowe Creek. We parked at the missing bridge location and set off across the dry creek. Up the road a few hundred yards we set uphill through reasonably open forest. We crossed logging roads from time to time. At 2600 feet we reached the deep chasm of the northern limestone quarry. Heading to the left, we ascended above it, then onto the ridge that heads west to the summit. This ridge is very pleasant snowshoeing along most of the length. Near the summit, the rocks were partially bare of snow. Our party split in two. We ascended the east ridge, belaying me for one brief section. The others contoured around and up a small gully on the south side. Our descent route was via the gully, using a hand line. The rest of the way down was uneventful, except we amazingly stumbled out onto the Lowe Creek road exactly where we had started. Total time about 8 hours.\
+![](MAP/Palmer.JPG)\
+![](JPG/01PalmerBob.jpg)

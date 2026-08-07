@@ -1,0 +1,297 @@
+<html>
+<head>
+<title>C strings: pointers vs. arrays</title>
+<body>
+[This article was originally posted on September 26, 1998.]
+<p>
+From: scs@eskimo.com (Steve Summit)
+<br>
+Newsgroups: comp.lang.c
+<br>
+Subject: Re: newbie question: stings, pointers and arrays
+<br>
+Date: 26 Sep 1998 16:25:24 GMT
+<br>
+Lines: 234
+<br>
+Message-ID: &lt;6uj4hk$ts2$1@eskinews.eskimo.com&gt;
+<br>
+References: &lt;slrn70lima.8b4.edward@portaloo.hairnet&gt; &lt;6uhpkp$len$1@nnrp1.dejanews.com&gt;
+<p>
+In article &lt;6uhpkp$len$1@nnrp1.dejanews.com&gt;, bbarnette@my-dejanews.com writes:
+<br>
+&gt;In article &lt;slrn70lima.8b4.edward@portaloo.hairnet&gt;,
+<br>
+&gt;edward@hairnet.demon.co.uk wrote:
+<br>
+&gt;&gt; but if I do this it seg faults
+<br>
+&gt;&gt; 	<TT>char *play[2]={"1","2"};</TT>
+<br>
+&gt;&gt; 	<TT>strcpy(play[0]="3");</TT>
+<br>
+&gt;&gt; 	<TT>strcpy(play[1]="4");</TT>
+<br>
+&gt;&gt; What am I doing wrong?
+<br>
+&gt; 
+<br>
+&gt; Your problem is in <TT>strcpy()</TT>. It is <TT>strcpy(</TT>destination, source<TT>)</TT>;
+<br>
+&gt; There is no need for the <TT>=</TT> here.
+<p>
+True, but that was only <em>one</em> of his problems, and here,
+as so often happens (to borrow a line from Douglas Adams), the
+superficial design flaw has hidden a more fundamental design flaw.
+<p>
+&gt; Try this:
+<br>
+&gt; 	<TT>char *play[2]={"1","2"};</TT>
+<br>
+&gt; 	<TT>strcpy(play[0],"3");</TT>
+<br>
+&gt; 	<TT>strcpy(play[1],"4");</TT>
+<p>
+This is also likely to seg fault or otherwise abort.  The problem
+is that the two pointers <TT>play[0]</TT> and <TT>play[1]</TT> point to constant
+strings, as requested by the string literals <TT>"1"</TT> and <TT>"2"</TT>.  Those
+constant stings are <em>not</em> necessarily writable, and on more and
+more systems, attempts to do so will fail.  Yet modifying those
+strings is exactly what the calls
+<p>
+<pre>
+	strcpy(play[0], "3"); strcpy(play[1], "4");
+</pre>
+<p>
+attempt to do -- the <TT>"3"</TT>, for example, is supposed to be copied
+into the (possibly read-only) memory occupied by the constant
+string <TT>"1"</TT>.
+<p>
+The situation is different if <TT>play[0]</TT> and <TT>play[1]</TT> are arrays
+rather than pointers.  If the code had been
+<p>
+<pre>
+	char playa[2][2] = {"1", "2"};
+</pre>
+<p>
+then the <TT>strcpy</TT> calls would have been correct and guaranteed to
+work.  Here, <TT>playa[0]</TT> is not a pointer to a <TT>char</TT>, it is an array
+of <TT>char</TT>, and a writable one at that.  In this case, it doesn't
+matter whether the string literal <TT>"1"</TT> is writable or not, because
+when a string literal is used as an array initializer, the string
+is copied into the array, after which it's the array you might be
+trying to write to, not the string literal.
+<p>
+There's a second potential problem with those <TT>strcpy</TT> calls, of
+course.  If the replacement strings were any longer, e.g. if we
+were to call
+<p>
+<pre>
+	strcpy(play[0], "345"); strcpy(play[1], "678");
+</pre>
+<p>
+we would exceed the storage allocated for the two initial
+strings, and this would be a problem regardless of whether we
+were using pointers or arrays.  (In the array case, we could
+preallocate the arrays larger than required, by declaring, say,
+<TT>char playa[2][10]</TT>, where we'd be assuming that no string longer
+than 9 characters would ever be copied into either of the arrays.)
+<p>
+<br>
+<p>
+There's actually a very interesting sort of paradox underlying
+this whole issue.  It's true that strings in C are arrays, and
+it's true that you can't assign arrays, and it's true that you
+therefore often need to call <TT>strcpy</TT> when you want to "assign" a
+string.  But this does <em>not</em> mean that whenever you have the
+notions of "string" and "assign" in your head, you should
+reflexively call <TT>strcpy</TT>!  The reason is that strings are often
+referred to by pointers, and <TT>strcpy</TT> can be dangerous when used
+with unknown pointers (that is, when you're not sure how much
+memory they point to, or whether the memory is writable).
+<p>
+The paradox is that although your C teacher told you that since
+arrays aren't assignable you have to call <TT>strcpy</TT> to "assign" a
+string, pointers <em>are</em> assignable, and it's often much safer to
+use simple assignment when working with pointers to strings!
+(Besides safety, if you're at all worried about efficiency,
+assigning pointers can be significantly more efficient than
+copying strings around all the time.)
+<p>
+For example, the code
+<p>
+<pre>
+	char *play[2] = {"1", "2"};
+	strcpy(play[0], "3");
+	strcpy(play[1], "4");
+</pre>
+<p>
+is wrong, because it attempts to overwrite constant strings.
+Furthermore, the code
+<p>
+<pre>
+	char *play[2] = {"1", "2"};
+	strcpy(play[0], "345");
+	strcpy(play[1], "678");
+</pre>
+<p>
+is doubly wrong, because it attempts to overwrite constant
+strings and overflows them if it succeeds.  <strong>BUT</strong>, the code
+<p>
+<pre>
+	char *play[2] = {"1", "2"};
+	play[0] = "3";
+	play[1] = "4";
+</pre>
+<p>
+is perfectly legal and correct, as is
+<p>
+<pre>
+	char *play[2] = {"1", "2"};
+	play[0] = "345";
+	play[1] = "678";
+</pre>
+<p>
+In these cases, we're reassigning the pointers to point to
+different string constants, and although those string constants
+might not be writable, either, we've successfully accomplished
+our goal of assigning new string values to <TT>play[0]</TT> and <TT>play[1]</TT>.
+<p>
+Here's another example.  When attempting to write a function
+which returns a string, beginners frequently write code like
+this:
+<p>
+<pre>
+	char *digitvalue(int d)
+	{
+		char result[10];
+		switch(d) {
+			case 0: strcpy(result, "zero"); break;
+			case 1: strcpy(result, "one");  break;
+			case 2: strcpy(result, "two");  break;
+		...
+			case 9: strcpy(result, "nine"); break;
+		}
+		return result;
+	}
+</pre>
+<p>
+This code has a serious and fatal bug, of course: the local
+<TT>result</TT> array will not exist by the time the function returns
+to its caller, so the pointer that the caller receives will be
+useless.  (See the <a href="http://www.eskimo.com/~scs/C-faq/top.html">comp.lang.c FAQ</a> list, question <a href="http://www.eskimo.com/~scs/C-faq/q7.5.html">7.5</a>.)  One
+recommended fix for this problem is to declare the <TT>result</TT> array
+as <TT>static</TT>, but taking the larger view, it turns out that might
+not be the best fix in this situation, after all!  Much better,
+I think, is to rewrite the function completely, as
+<p>
+<pre>
+	const char *digitvalue(int d)
+	{
+		switch(d) {
+			case 0: return "zero";
+			case 1: return "one";
+			case 2: return "two";
+		...
+			case 9: return "nine";
+		}
+	}
+</pre>
+<p>
+Now we've gotten rid of the <TT>result</TT> array completely; this has the
+additional benefit that besides not having to worry about its
+allocation, we also don't have to worry about making it big
+enough.  (In other words, the arbitrary value 10 from the previous
+implementation has disappeared.)  Since the returned pointers now
+point directly to string literals, the pointed-to storage must not
+be written to, and I've documented this fact by declaring the
+function as returning <TT>const char *</TT>.  (This may seem like an
+unfortunate and perhaps unacceptable additional restriction over
+the initial implementation, but since the initial implementation
+returned a pointer to storage which was neither readable nor
+writable, I'm perfectly comfortable with the function as
+modified.)  If your programming style disallows functions with
+multiple exit points, you can use a temporary internal return
+value which is a pointer rather than an array:
+<p>
+<pre>
+	const char *digitvalue(int d)
+	{
+		const char *result;
+		switch(d) {
+			case 0: result = "zero"; break;
+			case 1: result = "one";  break;
+			case 2: result = "two";  break;
+		...
+			case 9: result = "nine"; break;
+		}
+		return result;
+	}
+</pre>
+<p>
+Finally, as an aside, this particular switch statement is
+somewhat unnecessary -- since the case values are dense and
+0-based, it would suffice to pluck the digit names out of an
+array:
+<p>
+<pre>
+	const char *digitnames[] = {"zero", "one", "two", "three",
+		"four", "five", "six", "seven", "eight", "nine"};
+
+	const char *digitvalue(int d)
+	{
+		if(d &gt;= 0 &amp;&amp; d &lt;= 9)
+			return digitnames[d];
+		else	return "error";
+	}
+</pre>
+<p>
+(We can immediately tell that this last implementation is
+superior, because I've been able to present a complete,
+equally-readable example, with error-checking, in less space
+than I was formerly using to present abbreviated examples.
+This last example, too, could be written with one exit point
+by assigning one of the digitname strings to a local temporary
+return value pointer, but the point is that it's superior to one
+that used <TT>strcpy</TT> to copy one of the digitname strings to a local
+temporary return value array.)
+<p>
+<br>
+<p>
+To summarize the argument I've been making, <strong>IF</strong> all the strings
+you're working with are constant, it's arguably safer to use
+pointer assignment all of the time, and never to call <TT>strcpy</TT>.
+<p>
+<strong>BUT</strong>, that's a mighty big "if", of course.  If you're
+constructing any strings on the fly, perhaps by calling <TT>strcat</TT>,
+you have to be more careful, because neither a rule like "always
+use arrays and call <TT>strcpy</TT> for simple assignments" nor "always
+use pointers and use assignment for simple assignments" will
+suffice.  If you're constructing strings on the fly (or reading
+them in from the outside world), you have to ensure that the
+storage you write them into is both writable and big enough.
+If you're using arrays, this will probably mean declaring arrays
+having some explicit, maximum size (i.e. the maximum size of the
+strings you'll ever be able to construct or read in), and if
+you're using pointers, it will probably mean calling <TT>malloc</TT> or
+<TT>realloc</TT>.  (And, if you've settled on arrays, you may end up going
+back to <TT>strcpy</TT> for all string "assignments".)
+<p>
+<br>
+<p>
+The bottom line is: if you have a program that manipulates a lot
+of strings, what should you choose as your basic "string" type?
+If you choose "array of char", then yes, you will have to call
+<TT>strcpy</TT> all the time.  But if you choose "pointer to char", you
+probably do <em>not</em> want to call <TT>strcpy</TT>; most of the time you will
+want to use pointer assignment instead.  (And if you want to get
+the best of both worlds, by using some arrays and some pointers,
+you'll have to be more careful still.)
+<p>
+<address>
+<a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+<br>
+<a href="mailto:scs@eskimo.com">scs@eskimo.com</a>
+</address>
+</body>
+</html>

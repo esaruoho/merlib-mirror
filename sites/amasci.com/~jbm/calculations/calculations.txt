@@ -1,0 +1,81 @@
+JBM - Calculations
+
+ [Bibliography] 
+ [Calculations] 
+ [Downloads] 
+ [Equations] 
+ [FAQ] 
+ [JBM] 
+ [Links] 
+ [MPM] 
+ [PM] 
+ [Personal] 
+ [Software] 
+
+ JBM - Calculations
+
+ NOTE: I will not guarantee these calculations for ANY purpose. 
+ Remember to use common sense at all times and to check loading with 
+ current manufacturer's data.
+
+ There are now two different trajectory calculations. A "basic"
+ one with few options and the original one with a few new options.
+ Most notably, the ability to move the zero point. 
+
+ Ballistic Coefficients (Time) 
+
+ Calculates the ballistic coefficient for a near velocity,
+ time of flight, atmospheric conditions and drag function.
+
+ Ballistic Coefficients (Velocity) 
+
+ Calculates the ballistic coefficient for near and far 
+ velocities, atmospheric conditions and drag function.
+
+ Bullet Drag and Twist 
+
+ Calculates the bullet CD, and CD components, BC required twist and
+ stability for input twist. Inputs required are the bullet measurements
+ including nose length, total length, boattail length, meplat diameter,
+ base diameter, caliber, weight, atmospheric conditions and drag function.
+ This algorithm is based on the McDrag work done by Robert McCoy. 
+ See bibliography 
+
+ Maximum Bullet Range 
+
+ Calculates the maximum range and the elevation required to achieve
+ this range. Also calculated is the absolute maximum height for the 
+ same bullet fired "straight up". 
+
+ Point Blank Range 
+
+ Calculates maximum point blank range and maximum point blank range
+ zero from ballistic coefficient, muzzle velocity, vital zone radius 
+ and atmospheric conditions.
+
+ Sunrise/Sunset 
+
+ Calculates Sunrise and Sunset time and length of the day 
+ for a given day of the year, time zone, latitude and longitude.
+
+ Trajectories 
+
+ from bullet BC and firearm info. Inputs include muzzle velocity,
+ sight heights, chronograph distance, ballistic coefficient, drag 
+ function, line of sight and cant angles and atmospheric conditions. 
+ Output options include variable ranges and choice of units for windage
+ and drop (inches, MOA, and mils). Calculations are performed assuming
+ the bullet is a point mass. Elevation and azimuth are iteratively 
+ corrected to ensure a correct zero.
+
+ Trajectories -- Basic 
+
+ Not really "basic", but simpler. Many people don't use all the terms
+ in the trajectory calculation page listed above, so this page invisibly
+ sets defaults for variables like drag function (G1), sight offset, etc.
+ The calculation is done with the same program as the trajectory page 
+ above.
+
+ Last update 3 October 2004, Copyright &copy; 1996-2004
+ JBM 
+ [V]

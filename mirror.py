@@ -58,6 +58,10 @@ MAX_DISCOVER_PAGES = 500
 DEFAULT_WAYBACK_WORKERS = 4
 MAX_LINK_DEPTH = 5
 BATCH_SIZE = 50
+# Checkpoint at least this often regardless of counter multiples — concurrent
+# workers skip past `count % BATCH_SIZE == 0`, which stranded a resume point 80
+# minutes behind reality on the amasci run.
+SAVE_INTERVAL_S = 120
 BATCH_PAUSE = 10
 MAX_TIMESTAMP_ATTEMPTS = 8
 CONSECUTIVE_FAIL_BAIL = 8
@@ -184,35 +188,59 @@ def _fetch_scrapling(url, timeout, retries):
 
 
 def _fetch_urllib(url, timeout, retries):
-    """Fetch using stdlib urllib (zero dependencies)."""
+    """Fetch using stdlib urllib (zero dependencies).
+
+    Falls back from https:// to http:// on a CONNECTION failure. That fallback
+    existed before but was unreachable dead code: both `except` branches
+    `return`ed on the final attempt, so control never reached the code below the
+    loop. It mattered enormously — in an environment where https to
+    web.archive.org is blocked (measured: 000 in 0.18s, 4/4, while plain http
+    returned 200 in ~5.5s, 4/4), EVERY Wayback fetch failed at the connection
+    stage and got recorded as a missing snapshot. The archive looked absent when
+    it was only unreachable over one scheme.
+
+    An HTTP *status* (404, 429) is a real answer about the resource and is NOT
+    retried over http — only transport-level failures are.
+    """
     headers = {'User-Agent': USER_AGENT}
+    last_err = "Max retries exceeded"
+    http_status = None
+
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 return resp.read(), resp.headers.get('Content-Type', ''), resp.status
         except urllib.error.HTTPError as e:
-            if attempt < retries - 1:
+            # A status is an answer; scheme-switching will not change it.
+            if attempt < retries - 1 and e.code in (429, 500, 502, 503, 504):
                 time.sleep(2 * (attempt + 1))
                 continue
-            return None, '', e.code
+            http_status = e.code
+            break
         except Exception as e:
+            last_err = str(e)
             if attempt < retries - 1:
                 time.sleep(2 * (attempt + 1))
                 continue
-            return None, str(e), 0
 
-    # HTTPS failed — try HTTP fallback
+    if http_status is not None:
+        return None, '', http_status
+
+    # Transport failed every attempt. Try the same URL over http:// — reachable
+    # now, because the loop breaks out instead of returning.
     if url.startswith('https://'):
         http_url = 'http://' + url[8:]
         try:
             req = urllib.request.Request(http_url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 return resp.read(), resp.headers.get('Content-Type', ''), resp.status
-        except Exception:
-            pass
+        except urllib.error.HTTPError as e:
+            return None, '', e.code
+        except Exception as e:
+            last_err = str(e)
 
-    return None, "Max retries exceeded", 0
+    return None, last_err, 0
 
 
 def fetch_url(url, timeout=60, retries=3):
@@ -983,7 +1011,7 @@ def generate_index(output_dir, domain, source='web.archive.org', progress=None):
 
 # ── 15. Main loop — wayback mode ────────────────────────────────────────────
 
-def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, output_base=None, dry_run=False, path_filter=None, workers=None):
+def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, output_base=None, dry_run=False, path_filter=None, workers=None, max_timestamps=None):
     """3-phase wayback mirror: CDX discovery -> download -> index."""
     global _current_delay
 
@@ -996,6 +1024,16 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
 
     _current_delay = delay or DEFAULT_WAYBACK_DELAY
     workers = max(1, int(workers or DEFAULT_WAYBACK_WORKERS))
+    # How many snapshot timestamps to try before declaring a URL absent. This is
+    # THE cost driver on a miss-heavy tail: a hit costs one fetch (~13s), a miss
+    # costs this many. Measured on amasci at the default 8: rate collapsed to
+    # 3/min with an ETA of 116 HOURS once the easy on-disk hits ran out, with
+    # failures outpacing successes.
+    global MAX_TIMESTAMP_ATTEMPTS
+    if max_timestamps:
+        MAX_TIMESTAMP_ATTEMPTS = max(1, int(max_timestamps))
+        log(f"Timestamp attempts per URL: {MAX_TIMESTAMP_ATTEMPTS} "
+            f"(a miss costs ~{MAX_TIMESTAMP_ATTEMPTS * 13}s)")
 
     log("=" * 60)
     log(f"WAYBACK MIRROR: {domain}")
@@ -1175,18 +1213,62 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
         # were /amblog/wp-includes alone. Skipping them also keeps
         # _failed_downloads.txt meaningful instead of a wall of WordPress noise.
         def unmirrorable(u):
-            p = urllib.parse.urlparse(u).path
-            low = p.lower()
+            parsed = urllib.parse.urlparse(u)
+            low = parsed.path.lower()
+            base = os.path.basename(low)
+
+            # Server-side endpoints and WordPress plumbing — no static content.
             if any(seg in low for seg in ('/wp-includes/', '/wp-admin/',
                                           '/wp-content/plugins/')):
                 return True
-            return os.path.splitext(low)[1] in ('.php', '.asp', '.aspx', '.jsp',
-                                                '.pl', '.cgi')
+            if os.path.splitext(low)[1] in ('.php', '.asp', '.aspx', '.jsp',
+                                            '.pl', '.cgi'):
+                return True
+
+            # Apache mod_autoindex sort links (?D=A, ?C=S;O=D, ?N=D…) and tracking
+            # params. These are the SAME directory listing re-sorted — not content,
+            # and each one costs a full FALLBACK_TIMESTAMPS walk before failing.
+            if parsed.query:
+                return True
+
+            # Apache's own directory-listing icons, not the author's material.
+            if '/icons/' in low:
+                return True
+
+            # The author's working detritus: editor backups and scratch files that
+            # happen to have been served once. amasci has weird.html.save,
+            # maglev.html.save, we-nerds.html.save, indexphp.old, temp1, temp2,
+            # newsrc. Measured: 13 of the first 91 failures were these.
+            if base in ('temp', 'temp1', 'temp2', 'newsrc'):
+                return True
+            if low.endswith(('.save', '.old', '.bak', '~')):
+                return True
+
+            return False
 
         pending = [u for u in urls if u['original'] not in downloaded]
         skipped_unmirrorable = [u for u in pending if unmirrorable(u['original'])]
         if skipped_unmirrorable:
             pending = [u for u in pending if not unmirrorable(u['original'])]
+
+        # One fetch per OUTPUT FILE. amasci.com/x, www.amasci.com/x and
+        # www.amasci.com:80/x all write the same path, so fetching all three is
+        # two wasted requests — and on a miss each costs a full timestamp walk.
+        # `temp1` failed three times for exactly this reason.
+        # Modest in aggregate here (20,440 -> 20,249 distinct paths; CDX had
+        # already collapsed most host variants) but it is free and it stops the
+        # failure list double-counting one lost file as three.
+        seen_keys, deduped = set(), []
+        for u in pending:
+            k = dedup_key(u['original'])
+            if k in seen_keys:
+                continue
+            seen_keys.add(k)
+            deduped.append(u)
+        if len(deduped) != len(pending):
+            log(f"Collapsed {len(pending) - len(deduped):,} host-variant "
+                f"duplicate(s) to one fetch each")
+            pending = deduped
             log(f"Skipping {len(skipped_unmirrorable):,} unmirrorable URL(s) "
                 f"(server-side / WordPress plumbing) — not fetched, not counted "
                 f"as failures")
@@ -1195,6 +1277,7 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
             f"(delay {_current_delay}s each)")
 
         lock = threading.Lock()
+        last_save = time.time()
 
         def fetch_one(url_info):
             original = url_info['original']
@@ -1241,7 +1324,17 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
                             failed.append({'url': original,
                                            'error': err or 'all timestamps failed'})
 
-                        if count % BATCH_SIZE == 0:
+                        # Checkpoint on ELAPSED TIME, not on `count` hitting an exact
+                        # multiple. With concurrent workers the counter jumps past
+                        # multiples, so `count % BATCH_SIZE == 0` fires erratically —
+                        # measured on the amasci run: _progress.json went 80 MINUTES
+                        # without a save while the crawl was visibly working. Two
+                        # costs: the resume point silently rots that far behind, and
+                        # anything watching the progress file (a stall detector, a
+                        # status pane) reads "no movement" on a healthy crawl.
+                        now = time.time()
+                        if now - last_save >= SAVE_INTERVAL_S or count % BATCH_SIZE == 0:
+                            last_save = now
                             progress['downloaded'] = list(downloaded)
                             progress['failed'] = failed
                             save_progress(progress, progress_file)
@@ -2153,6 +2246,7 @@ Smart mode (auto-detects):
     wb.add_argument('--dry-run', action='store_true', help='Run CDX discovery only, show URL count without downloading')
     wb.add_argument('--output-dir', dest='output_dir', help='Override output base directory')
     wb.add_argument('--path', dest='path_filter', help='Only download URLs containing this path (e.g. /ine/)')
+    wb.add_argument('--max-timestamps', type=int, default=None, dest='max_timestamps', help=f'Snapshot timestamps to try before calling a URL absent (default: {MAX_TIMESTAMP_ATTEMPTS}). Lower = much faster on a miss-heavy tail, at some recall cost; failures are retried on --resume so a later pass can use a higher value.')
     wb.add_argument('--workers', type=int, default=None, help=f'Concurrent Wayback fetches (default: {DEFAULT_WAYBACK_WORKERS}). Wayback replay is ~13s/URL, so this is the only real speed lever.')
 
     # live
@@ -2190,7 +2284,8 @@ Smart mode (auto-detects):
                     ts_from=args.ts_from, ts_to=args.ts_to, delay=args.delay,
                     output_base=output_base, dry_run=getattr(args, 'dry_run', False),
                     path_filter=getattr(args, 'path_filter', None),
-                    workers=getattr(args, 'workers', None))
+                    workers=getattr(args, 'workers', None),
+                    max_timestamps=getattr(args, 'max_timestamps', None))
     elif args.mode == 'live':
         run_live(args.url, seeds_file=args.seeds, delay=args.delay,
                  max_pages=args.max_pages, output_base=output_base,

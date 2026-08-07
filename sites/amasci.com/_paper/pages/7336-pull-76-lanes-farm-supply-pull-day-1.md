@@ -1,0 +1,666 @@
+---
+title: "Pull 76 -- Lane's Farm Supply Pull -- Day 1"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0001/Pull76.html
+order: 7336
+reachable_from_entry: false
+images: 0
+internal_links: 3
+extracted: 2026-08-07T05:59:57Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 76 -- Lane's Farm Supply Pull -- Day 1
+
+*Source page: `~samoyed/iwpa/0001/Pull76.html`*
+
+Lane's Farm Supply Pull -- Day 1\
+Gates, North Carolina
+=================================
+
+Pull: 76
+
+Organizer(s):Terry & Debbie Lee
+
+Wheels Region: 7
+
+Dirt
+
+Track:Dry packed dirt
+
+Date:2/10/2001
+
+Weather:
+
+Sunny, 70F
+
+35 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Reba
+
+7
+
+1310
+
+9.62
+
+34
+
+38.53
+
+5.0
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Ginger
+
+7
+
+1965
+
+15.00
+
+59
+
+33.31
+
+7.0
+
+Debbie Lee
+
+Am. PitBull Terrier
+
+Dutchess
+
+7
+
+1854
+
+11.00
+
+45
+
+41.20
+
+4.0
+
+Brandon Pederson
+
+Am. PitBull Terrier
+
+Koala
+
+6
+
+633
+
+26.06
+
+59
+
+10.73
+
+1.0
+
+Stephanie Coleman
+
+Am. Bull Dog
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Froggy
+
+7
+
+2890
+
+68.40
+
+80
+
+36.13
+
+11.0
+
+Brandon Pederson
+
+Am. Bull Dog
+
+Nala
+
+7
+
+2705
+
+11.43
+
+79
+
+34.24
+
+8.0
+
+Todd Pederson
+
+Am. Bull Dog
+
+Chesty
+
+7
+
+2520
+
+12.93
+
+80
+
+31.50
+
+5.0
+
+Donald Taylor
+
+Am. PitBull Terrier
+
+Shane
+
+6
+
+2150
+
+10.25
+
+76
+
+28.29
+
+3.0
+
+Dave Coleman
+
+Am. PitBull Terrier
+
+Bobbie-Sue
+
+7
+
+1965
+
+55.87
+
+77
+
+25.52
+
+2.0
+
+Debbie Lee
+
+Am. Bull Dog
+
+Xena
+
+6
+
+1780
+
+12.09
+
+80
+
+22.25
+
+1.0
+
+Carol Dodds
+
+Alaskan Malamute
+
+Darla
+
+6
+
+1595
+
+48.06
+
+76
+
+20.99
+
+0.5
+
+Stephanie Coleman
+
+Am. Bull Dog
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Avalanche
+
+7
+
+2890
+
+31.34
+
+94
+
+30.74
+
+12.0
+
+Donald Taylor
+
+Am. PitBull Terrier
+
+Zeus
+
+7
+
+2890
+
+50.96
+
+91
+
+31.76
+
+9.0
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+Moose
+
+6
+
+2705
+
+23.15
+
+88
+
+30.74
+
+6.0
+
+Dave Coleman
+
+Am. Bull Dog
+
+Max
+
+7
+
+2520
+
+12.87
+
+97
+
+25.98
+
+4.0
+
+Wayne Mullins
+
+Am. PitBull Terrier
+
+Alcatraz
+
+7
+
+2335
+
+9.28
+
+94
+
+24.84
+
+3.0
+
+Donald Taylor
+
+Am. PitBull Terrier
+
+Ike
+
+6
+
+2335
+
+9.46
+
+94
+
+24.84
+
+2.0
+
+Ricky Stevens
+
+Alaskan Malamute
+
+Casper
+
+7
+
+1780
+
+7.56
+
+99
+
+17.98
+
+1.0
+
+Gregory Byers
+
+Am. Bull Dog
+
+Dozer
+
+6
+
+1595
+
+8.78
+
+86
+
+18.55
+
+0.5
+
+Stephanie Coleman
+
+Am. Bull Dog
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Bo-Bo
+
+6
+
+2742
+
+21.37
+
+111
+
+24.70
+
+8.0
+
+Ricky Stevens
+
+Alaskan Malamute
+
+Toby
+
+7
+
+2520
+
+41.15
+
+102
+
+24.71
+
+5.0
+
+Caroline Howell
+
+Am. Bull Dog
+
+Atom
+
+6
+
+1410
+
+6.21
+
+120
+
+11.75
+
+2.0
+
+Dave Coleman
+
+Am. Bull Dog
+
+Riggs
+
+6
+
+744
+
+7.15
+
+104
+
+7.15
+
+0.5
+
+Dave Coleman
+
+Am. Bull Dog
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Cleatus
+
+7
+
+3186
+
+10.65
+
+171
+
+18.63
+
+9.0
+
+Debbie Lee
+
+Mastiff/Bernard
+
+Anna
+
+7
+
+2964
+
+33.00
+
+153
+
+19.37
+
+6.0
+
+Terry Lee
+
+Mastiff/Bernard
+
+Largo
+
+6
+
+2742
+
+48.25
+
+133
+
+20.62
+
+3.0
+
+Carol Dodds
+
+Tibetan Mastiff
+
+Butkus
+
+7
+
+2298
+
+11.65
+
+164
+
+14.01
+
+1.0
+
+Terry Lee
+
+Mastiff/Bernard
+
+Moses
+
+6
+
+1854
+
+53.56
+
+141
+
+13.15
+
+0.5
+
+Mark Pickrel
+
+Alaskan Malamute
+
+Last Updated: 07:59:41 on 03-04-2001
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull75.html) | [Next Pull \#](Pull77.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

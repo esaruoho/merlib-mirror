@@ -1,0 +1,294 @@
+In-Line Example 
+
+ In-Line CSS Example 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Example | Analysis 
+
+ Example 
+
+ &#160;&#160;&#160;&#160;&#160;&#160;< html >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;< head >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;< title >Document
+ Title</ title >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;</ head > 
+
+ < body 
+ LINK ="#ff8080"
+ VLINK ="#ff0000"
+ ALINK ="a05050"
+ STYLE =" background: 
+ #000000; color: #80c0c0">
+
+ < h1 
+ ALIGN ="center"
+ STYLE =" background: 
+ #000080; font: 36pt/40pt courier;
+ font-variant: small-caps; border: 
+ thick dashed blue">Welcome to my home page!</ h1 >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;< br >< br >
+
+ < p >< span 
+ STYLE =" margin-left: 
+ 25px">Hi there! If you are reading this then you have found my home page!
+ Congratulations!</ span >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;I know it can be hard to find my pages, but I
+ bet that you feel lucky now. Now that you are here, please take a look at my page
+ of links to < a 
+ HREF ="http://www.mysite.com/coolsites.html">cool
+ sites</ a > or sign my
+ < a 
+ HREF ="http://www.mysite.com/guestbook.html">guest
+ book</ a ></ p >
+
+ < div >< div 
+ STYLE =" font-weight: 
+ bold; margin-left: 30px">
+
+ < span STYLE =" font-size: x-large; color: 
+ #ffffff">M</ span >y
+ wonderful poetry</ div > is available if you are
+ REALLY bored. Why not give it a spin?</ div >
+
+ < h2 STYLE =" background: #000080; color: 
+ green; line-height: 50px;
+ font-size: 40px">
+
+ The Best Poetry I < em 
+ STYLE =" font-weight: 
+ 900">NEVER</ em > Wrote</ h2 >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;< ul >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;< li >'There Once Was A Man From Nantucket' -
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ < span 
+ STYLE =" font-family: 
+ 'comic sans ms', fantasy; color: rgb(100%, 100%,
+ 0%)">Anonymous</ span ></ li >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;< li >'Cool In Fur' -
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ < span 
+ STYLE =" font-family: 
+ 'comic sans ms', fantasy; color: rgb(100%, 100%,
+ 0%)">Harry B. Foot</ span ></ li >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ < li >And My All Time Fave:
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ < ul >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ < li 
+ STYLE =" font-size: 
+ x-large; font-style: italic">
+ 'A Toast To My Toaster' -
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ < span 
+ STYLE =" font-family: 
+ 'comic sans ms', fantasy; color: rgb(100%, 100%,
+ 0%)">Me!</ span ></ li >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ </ ul >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;</ li ></ ul >
+
+ < blockquote 
+ STYLE =" background: 
+ #000080; color: #00ff00;
+ margin-left: 2cm">Brought to you by the letter
+
+ < span 
+ STYLE =" font-family: 
+ 'comic sans ms', fantasy; color: rgb(100%, 100%,
+ 0%)">"H"</ span >
+
+ and < span 
+ STYLE =" Padding: 
+ 20px; border: 20px groove #ffffff">Joe
+ Shmoe</ span >
+ </ blockquote >
+
+ < div 
+ STYLE =" background: 
+ #000080; font-weight: bold;
+ margin-left: 30px">
+
+ < span 
+ STYLE ="" font-size: 
+ x-large; color: #ffffff">
+ W</ span >hen you are done looking through these
+ masterpieces, I encourage you to visit my proud sponsor!!
+ </ div >
+
+ < p STYLE =" font: 12pt/14pt
+ sans-serif; margin: 5px 0px 2px 25px; border: medium dashed #ff0000;
+ background: white url(http://www.foo.com/image.gif)
+ repeat-x fixed top right }">
+
+ < span 
+ STYLE =" font: 
+ 36pt/40pt courier; font-variant: small-caps;
+ border: thick dashed blue&#160;}"> ADVERTISEMENT:</ span >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;Buy Navel Lint Contemplator! Its a browser and
+ its a sandwich spread! Go to our < a 
+ HREF ="http://www.navellint.com">home
+ page</ a > without delay! Why? Because shelf
+ life is only 8 hours unless refrigerated. We know that makes it hard to browse,
+ but it promotes frequent upgrading to the latest and greatest version.
+ </ p >
+
+ < h6 STYLE =" font-size: xx-small ! important; color: 
+ red ! important">All standard disclaimers apply. Your life depends on NOT
+ copying this document in any way. This tape will
+
+ < a 
+ HREF ="http://www.mysite.com/selfdestruct.html">self
+ destruct</ a > in 10
+ seconds...</ h6 >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;</ body >
+ &#160;&#160;&#160;&#160;&#160;&#160;</ html >
+
+ Analysis 
+
+ Line: General 
+ CSS Issues: In-line Styles 
+ Description: Note that this example seems more
+ cluttered than the External and Embedded CSS examples. This is because
+ the style information is mixed in with the document content. Even with this
+ rather small quantity of style rules, the size of the resulting document is
+ larger than either the External or Embedded CSS examples. This method
+ can be useful if a small number of styles are applied to individual tags,
+ but it quickly becomes unwieldy (as seen here) when style rules are applied
+ to multiple tags. The lack of classes to address multiple selectors is a
+ big liability to this method.
+ Line: 5 
+ CSS Issues: Pseudo-classes 
+ Description: We are using the HTML BODY attributes
+ to control hyperlink behavior. The lack of anchor pseudo-classes makes this
+ necessary. The BGCOLOR and TEXT attributes for the BODY tag could be used here
+ as well, but we are trying to use in-line styles in as many situations here as
+ possible, so just ignore that point. =)
+ Line: 6 
+ CSS Issues: Multiple
+ Selectors , Multiple Declaration Shorthands 
+ Description: The style attribute here sets many
+ properties for the H1 tag. much of this style information is also used on the
+ SPAN tag in line 31. In using the in-line method we lose the advantage of
+ selector grouping that classes offer.
+ Line: 8 
+ CSS Issues: Pseudo-elements 
+ Description: We are using the SPAN tag within
+ the P element to simulate a 'first-line' pseudo-element used in the
+ document-level and external style sheet examples. In-line styles do not
+ allow for the possibility of attaching styles to virtual tags, so the effect
+ must be simulated with a real tag. Note that the hack in this example is crude,
+ and can not be counted on to always produce a true 'first-line' effect that is
+ created by the virtual pseudo-element structure.
+ Line: 10 
+ CSS Issues: Pseudo-elements 
+ Description: Here we have nested DIV tags. The
+ innermost DIV tag pair is used as in the previous line to achieve a
+ pseudo-element effect (a 'first-line'.) The first line is quite easily
+ determined in this case by the early placement of the BR tag to end the first
+ line. The end of the 'first-line' is not as easily determined in the previous
+ line because the original line as designed would flow to well over one line
+ under most browser resolutions and screen sizes. Remember that line breaking
+ decisions for an end user can not be pre-determined - if you keep this in mind
+ you will be far less perturbed by the inevitable variations that occur from
+ browser to browser.
+ Line: 11 /
+ 29 
+ CSS Issues: Pseudo-elements 
+ Description: Another little hack is used in these
+ instances in the absence of the ability to use the 'first-letter' pseudo-element.
+ Since we can easily determine what constitutes the first letter in these and
+ most cases, we can assign a SPAN with the desired style information to our
+ intended 'first-letter'. Given the choice, it seems preferable to use the
+ pseudo-element when possible, as it does not use extra tags. Drawback: few
+ browsers support the pseudo-elements yet.
+ Line: 12 
+ CSS Issues: Multiple Selectors 
+ Description: The External and Embedded CSS
+ examples use a separate rule to set the background information for several tags.
+ Since that can not be done here, it must be specified again and again for
+ each element instance. This has the effect of creating duplicate style statements
+ as well as some very busy HTML tags.
+ Line: 13 
+ CSS Issues: Contextual
+ Selectors , In-line Styles 
+ Description: A special style is given to the EM tag.
+ In other CSS examples this is accomplished by contextual selectors (which can
+ not be used in the case of in-line styles.) Because there is only one instance
+ of this tag nesting situation in these examples, neither method has any drawbacks.
+ Line: 16 /
+ 18 / 22 / 26 
+ CSS Issues: Multiple
+ Selectors , Special Properties 
+ Description: We are setting several properties
+ on multiple HTML tags here. Now we begin to see the great power in the
+ brevity of HTML class structures. We have to repeat our style information
+ not just twice, but FOUR times in order to cover all occurrences. Clearly
+ this leads to increases in file size and are a detriment to download time.
+ Line: 21 
+ CSS Issues: Inheritance 
+ Description: Special properties are assigned to
+ this particular item in the list. The nested SPAN tag will inherit the
+ FONT-SIZE and FONT-STYLE properties assigned to this LI.
+ Line: 25 /
+ 26 / 27 / 28 /
+ 31 
+ CSS Issues: Inheritance 
+ Description: These are just normal, mundane
+ inline CSS statements applied to BLOCKQUOTE, DIV, P with SPAN tags nested
+ inside them. The SPAN tags will inherit the property values assigned to
+ the parent tags unless those properties are also specified for the SPANs
+ as well.
+ Line: 30 
+ CSS Issues: Shorthand
+ Properties 
+ Description: Uses shorthand properties on the
+ P tag. Using 4 shorthands in this case accomplishes same work using an
+ abbreviated syntax as 15 of the regular individual properties. When using
+ in-line styles, we need to conserve all the space we can.
+ Line: 33 
+ CSS Issues: Inheritance ,
+ Cascading Rules 
+ Description: This use of '!important' on style
+ assignments is unique here in this document. It will indicate to the browser
+ that the rule must be used in preference to a normal rule set for this tag
+ situation specified using another method (using a reader's own style sheet
+ for example.) This is a good way to guarantee that a crucial style element
+ in your page survives the uncertainty of a Cascading Order calculation.
+ This control should not be abused however, as it reduces the control the
+ reader has over their browsing environment (a reader may have, for instance,
+ valid physical reasons for their viewing environment settings.)
+ Line: 34 
+ CSS Issues: Pseudo-classes 
+ Description: In other examples we use a
+ pseudo-class to assign styles to a particular state of this individual
+ anchor. Because state dependent style assignments are only possible through
+ External or Embedded style sheets, we can do nothing to the tag in this case.
+
+ Boring Copyright Stuff....

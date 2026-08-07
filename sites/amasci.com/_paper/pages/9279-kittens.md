@@ -1,0 +1,1525 @@
+---
+title: "Kittens"
+source_domain: amasci.com
+source_path: ~vecna/kittens.htm
+order: 9279
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T06:01:51Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Kittens
+
+*Source page: `~vecna/kittens.htm`*
+
+# Kittens
+
+## by Christine Morgan
+
+------------------------------------------------------------------------
+
+    Kittens
+    Christine Morgan (vecna@eskimo.com)
+    comments welcome
+    Author's Note: this story is a sequel to Sins of the Father. The characters
+    from the show Gargoyles are not mine although I love them as if they
+    were, and they are used here without their rightful creators' knowledge or
+    consent. Special thanks to Proteus for the technical details. If you spot a
+    mistake, it's mine, not his.
+
+        "Mother Goose, this is Stork. Do you read me? Over."
+        "I read you, Stork. Progress report?"
+        "The cat's away."
+        "Then the mice will play."
+        Judge Halverson sighed. "Are these codes necessary? I feel like
+    an idiot."
+        "Hmm ... truth in advertising," the smug, sarcastic voice at the
+    other end replied. Even across several miles, Halverson felt his instinctive
+    dislike of Anton Sevarius bubble up.
+        "I don't like being called a mouse," Inge Runolf, sitting beside
+    Judge, muttered darkly. She ran her hand along the barrel of her Gauss
+    needler with more fondness than she'd ever shown a man, or any other
+    living thing, for that matter.
+        The rest of the team, gathered tensely in the dim glow of the
+    instrument panels, nodded in agreement. Red lettering on their dark brown
+    combat suits spelled out their names: DONNER, RODRIGUEZ, KEENE,
+    MATHERS, TORRES.
+        Francisco Rodriguez brushed the controls, and the engine revved
+    up from its prior muted hum. Their vehicle was much too sleek and sporty
+    for Halverson's tastes, not military or functional enough. Too much like
+    something a spoiled rich kid would buy. Which, he reflected, went a ways
+    toward summing up Sevarius.
+        The small craft was fast and maneuverable, almost too
+    maneuverable. The controls were so sensitive as to be almost over-
+    responsive. Cisco, though, played it like a virtuoso. It rose gently from its
+    concealed spot among the rust-eaten machines crowding the old
+    construction site, its wheels sliding up into the undercarriage, riding on a
+    thin cushion of ionized particles. The slick wet ground, already icing over
+    as the night's temperatures plummeted, could not hamper their
+    movements.
+        The seven of them were crowded but not cramped, not even with
+    Keene's grenade launcher taking up enough room for an eighth person.
+    Lawson Keene himself wore a grin that Halverson didn't like in the
+    slightest. The big man was liable to be a problem. Bricks with a grudge
+    often were. Halverson reminded himself to keep a close eye on him.
+        Mathers, who was unfortunate enough to have the first name of
+    Jerry and therefore could not avoid being called The Beav, chuckled to
+    himself as he went for his pistol. The power holster, reacting to the nerve
+    impulses in his wrist, ejected the gun into his hand. He replaced it and did
+    it again. And again. And again.
+        Until Inge Runolf leaned over and slammed his lower arm into
+    the wall behind him. She brought her hard, Valkyrie-beautiful face right
+    up to his and snarled through gritted teeth, "Knock it off, asshole!"
+        Guadalupe Torres, Inge's complete physical opposite, shouldered
+    her foam tank and strapped the hose and nozzle securely along the length
+    of her arm. She flashed Judge a sunny smile and a thumbs up. Inge's
+    opposite more than just physically.
+        "Come on, break it up," Bradley Donner said, prying Inge's
+    fingers from Beav's wrist. "We're not here to fight each other."
+        "We're not here to fight anybody," Halverson reminded them.
+    "This is a simple abduction. In and out, no fuss, no muss, no bother."
+        "But now that we know where their lair is, we should go in and
+    blast the bastards," Keene said. "I owe them for Burkie. He was a jerk,
+    yeah, but he was family."
+        "So why bring seven of us?" Donner asked. "And why with all
+    our new toys?" He patted the stock of his assault carbine, running his
+    thumb over the gold and black company logo imprinted on the side.
+        "Just in case," Runolf said. "Judge and I have fought these
+    creatures before. They're tougher than they look."
+        "And they look pretty tough," Torres chimed in.
+        "Yeah, but we let the big one fly away," Keene groused. He
+    looked like a goodnatured farmboy, all ham-hands and red hair and
+    freckles, but had the worst disciplinary record of any of the team.
+        "There will be other chances," Judge said. "They're too valuable
+    to destroy, especially before this study is complete. Mission priority is the
+    female. We do what's necessary to get her and get out. No excessive
+    violence."
+        Runolf uttered a humorless chuckle. "Donner has a point, then.
+    We're only equipped for excessive violence."
+        "Then let's see some good judgement." Judge let his gaze fall
+    heavily on Keene, who stared back belligerently before looking away.
+        "You'll have trouble with him," Runolf said in a low voice.
+        "Tell me about it. Okay, people, we're ready to go." He touched
+    the communicator. "Mother Goose, this is Stork. Over the river and
+    through the woods."
+        
+            *       *
+        "Hello! We're here!" Elisa called brightly.
+        "Hello! Come in!" Fox Xanatos replied in the same cheery,
+    singsong tone.
+        Elisa drew back, startled. "What are you doing here?"
+        Fox hefted Alex to her other hip and held the door open. "I
+    brought a bunch of baby things that Alex doesn't need anymore. Us new
+    moms have to stick together."
+        Diane Maza pushed past her daughter and extended one hand,
+    the other being occupied with a large present wrapped in pink and blue
+    teddy-bear patterned paper. "I'm Derrek's mother, Diane."
+        "Nice to meet you. I'm Fox. Fox Xanatos."
+        Diane recoiled as if she'd reached for a snake. "Xanatos!"
+        Fox winced.
+        "Your husband is responsible for my son's condition!"
+        "Mom ..."
+        "And you come prancing in here like you own the place, bringing
+    your baby, your normal, healthy baby, to flaunt in our faces?"
+        "Mom! We're past that!" Elisa shot Fox a glare. "You could've
+    warned us, though."
+        "I'm sorry," Fox said. She looked earnestly at Diane. "David is a
+    good man. He just sometimes doesn't think about the effects his actions
+    have on other people."
+        "Effects --!" Diane nearly gagged.
+        Elisa interposed herself between them. "Mom, give her a break.
+    She's crazy about him, crazy being the operative word. He even
+    experimented on her once. But, listen, Goliath seems to believe him this
+    time. He's had a change of heart. If he has a heart."
+        "You're misjudging him," Fox said.
+        "Yeah, well, there's case precedent."
+        "We've got enough enemies without fighting each other," Fox
+    said. "For Maggie's sake, can't we at least pretend to be friends?"
+        "For Maggie's sake," Diane agreed, finally accepting Fox's
+    handshake. "So, this is the little fellow who ruined Doyle's campaign. I
+    never liked that man."
+        "Me either!" Fox said firmly.
+        "Let's not talk about that," Elisa interrupted. "I think we'd all be
+    better off pretending that just never happened."
+        "They kidnapped my son!"
+        "And you were ready to turn over the gargoyles!"
+        "Girls!" Diane said sharply. The voice of authority silenced
+    Elisa, conditioned over her entire life, and also quelled Fox. "For
+    Maggie's sake."
+        "Did somebody call me?" Maggie waddled toward them, wings
+    spread slightly to help her balance, distended stomach leading the way.
+        "Hello, dear!" Diane hugged her and patted her belly. "Hello
+    down there, too! It's Grandma!"
+        "Ooh, heard that!" Maggie laughed. "Did you feel the kick?"
+        "I certainly did!"
+        "Hi, sis," Elisa said. "How's it going?" She always tried to make
+    an extra effort to make Maggie feel like part of the family. The runaway
+    from Ohio had never been brave enough to contact her parents, and
+    except for the people of the Labyrinth, didn't have anyone in the whole
+    city.
+        "I feel like a walrus."
+        "Don't worry. You get over it," Fox said. She frowned briefly. "I
+    was karate-kicking bad guys before my epidural even wore off."
+        Walking slowly to allow for Maggie, the women proceeded
+    down the hall. Elisa, watching her mother's reaction, suddenly saw the
+    Labyrinth through her eyes. Dark, subterranean, with thick pipes running
+    along the ceilings, grates exhaling puffs of steam, distant rumblings. What
+    sort of place was this for a baby?
+        The hall was short, though, and the room they entered was
+    brightly lit and comfortable enough to relieve Diane's misgivings. The
+    walls were paneled halfway up and painted pale blue. A suspended ceiling
+    hid the pipes and beams. The carpet was blue, the couch a muted grey and
+    blue plaid with many throw pillows. Except for the lack of windows,
+    compensated for by large photo murals of mountainscapes, it could have
+    been a living room in any normal house.
+        The room was further made festive by all of the decorations.
+    Tissue-paper storks and baby booties dangled from the ceiling. A folding
+    table was set up in front of the television, bedecked with crepe paper.
+    There was a sheet cake covered with pink and blue icing roses, a few
+    bowls of chips and snacks, four deep-green bottles of sparkling cider,
+    plastic champagne glasses, paper plates with "Congratulations!" scrolled
+    across them, and a small stack of gifts. A crib, stroller, mobile, and other
+    objects, all obviously top-of-the-line and expensive were gathered in one
+    corner.
+        Elisa was still watching her mother's reaction and couldn't help
+    laughing. Everything looked just right for a baby shower. Except for the
+    two gargoyles that greeted them as they entered.
+        "This is _so_ cute!" Angela held up a toy made to attatch to the
+    side of the crib and play music when the ring in the bottom was pulled.
+        "Alex loved that," Fox said, putting the heir to the Xanatos
+    millions on the floor and letting him crawl rapidly around. "The black and
+    white contrast is supposed to make the kid smarter."
+        "Does it work?" Elisa asked.
+        Fox shrugged and pointed. "Well, he still eats fuzz off the
+    carpet."
+        "Oh!" Maggie cried.
+        "Don't worry about it. Yours will do the same." She snickered.
+    "Owen sure does have to vacuum a lot now that Alex is mobile."
+        Diane Maza was staring at the other gargoyle. "You must be ...
+    Delilah."
+        The white-haired female nodded slowly. "Yes. I am."
+        "She's kind of shy," Maggie said, coaxing Delilah to join the
+    group.
+        "Elisa, she looks and sounds --"
+        "Yeah."
+        "Let's open presents!" Angela enthused.
+        "Wait, wait, the games first!" Fox passed out pencils and paper
+    and then produced a tray covered with a cloth. "Okay, under here are
+    fifteen items associated with a baby. You'll have one minute to look at
+    them, and then I'll take them away and you write down as many as you
+    can remember."
+        Elisa, with a cop's eye for detail, won that one. Her prize was a
+    candy pacifier. Next, Fox made them sample different flavors of the same
+    color baby food and try to guess what they were. Delilah claimed that
+    prize, a bit embarrassed. Elisa noted that her language skills were much
+    improved, though she clearly had some distance yet to go.
+        "These are strange customs," Angela observed. "But I like the
+    apricots!"
+        "Did you do all this at your baby shower?" Elisa asked.
+        Fox laughed. "Hardly. It wasn't so much a shower as a chance for
+    all David's business associates and political connections to bribe him with
+    expensive gifts. Next game, and you'll really hate this one, Maggie, is for
+    each of you to take a good look at the mother-to-be and cut a length of
+    this yarn that you think will go around her middle."
+        Maggie groaned goodnaturedly and stood obligingly in the
+    center of the room, turning this way and that. "Sure you have enough
+    yarn?"
+        Diane came within two inches of Maggie's girth, and none of the
+    others were even close. "See?" she teased Elisa. "If you'd let me teach you
+    how to sew, you would have done better. But of all of you, Derrek was the
+    only one who paid attention."
+        "He made my dress," Maggie said. "Well, he altered it."
+        "I imagine it's not easy finding backless maternity wear," Fox
+    said.
+        "I cut cake now?" Delilah offered.
+        Feasting on cake and sparkling cider, they all oohed and aahed as
+    Maggie worked her way through the presents. There were rattles, toys,
+    blankets, bottles, a gorgeous creamy leather album from Beth in Arizona,
+    an exquisite woven African baby sling that Diane had brought back from
+    her travels, but no clothes. Carefully, deliberately, no clothes.
+        None of the others seemed to notice, but Elisa did and it bummed
+    her out. How could they buy clothes for a baby whose shape was
+    unknown? She'd gone shopping with her mother and seen Diane linger
+    over little outfits longingly, but in the end she'd passed them by and
+    bought other things.
+        She suddenly felt really bad for her mother. Most of Diane's
+    friends had grandchildren and were always cornering each other to show
+    off pictures. Diane wouldn't be able to join them. She'd reached the
+    exalted status of grandmother but would have to keep it secret. Not even
+    the rest of the family could know. No birth announcements, no trips to
+    Sears for portrait specials to tuck in the Christmas cards.
+        Angela regarded everything with delight and awe, constantly
+    sharing tidbits about childhood on Avalon and wondering what the clan
+    used to do to prepare for new hatchlings.
+        Elisa, trying to jolt herself out of her black mood, teasingly
+    remarked without thinking, "Well, if I know Brooklyn, he'd love to show
+    you."
+        Angela and Maggie looked at each other, and it was only then
+    that Elisa remembered Brooklyn's initial crush on Maggie, and his jealous
+    reaction to Talon.
+        "Oops," she murmured.
+        "It's okay," Angela said, subdued. "Brooklyn ... I really like him,
+    but ... oh, never mind."
+        "You can tell us," Maggie said, shifting awkwardly around until
+    she could put a hand on Angela's arm.
+        "Oh, I just don't know," Angela said. "Broadway's awfully sweet,
+    in his own bumbling way, and lately I've been thinking more about him.
+    But I don't want to hurt Brooklyn! He told me something that he was
+    afraid would make me stop liking him, and I don't want to let that happen,
+    but whenever I'm with him now, it's all I can think of!"
+        "Males are hard," Delilah said.
+        Elisa choked on cider and her mother had to hammer on her
+    back, all the while giving her a scandalized look.
+        Fox laughed so hard she woke Alex, who had gone to sleep
+    curled by her feet after deciding that discarded wrapping paper was more
+    fun to munch on than cake. He joined in with a high-pitched squeal.
+        Maggie held her stomach. "Oh, don't make me laugh! Oh, ow!"
+        Delilah looked puzzled. "I say it wrong?"
+        "No, dear, you said it right," Diane told her. "Everyone else just
+    heard it wrong with their dirty ears."
+        "I have to pee," Maggie announced. "See? You made me laugh.
+    I'll be right back." She hoisted herself out of her chair and trundled out the
+    door.
+        Leaving Fox and her mother to explain to the perplexed Delilah,
+    Elisa drew Angela aside. "Do you want to talk about it?"
+        "I can't," Angela said, anguished. "I don't want my father to find
+    out."
+        Elisa thought back to the cathedral, and how Demona had
+    taunted the chained Goliath. Intuition told her she was right. "Is it about
+    Demona?"
+        Angela gasped. "You know?"
+        "She told Goliath."
+        "He knows?!"
+        Elisa reassured her as best she could, right up until Maggie burst,
+    screaming, back into the room.
+            *       *
+        "Creepy place," Bradley Donner observed.
+        "Yeah," Beav said. "Reminds me of Aliens. Is this a stand up
+    fight, or another bug-hunt?"
+        "Cut the chatter, people," Halverson said sternly.
+        Runolf, on point, held up a hand and they all froze. A door
+    opened and closed, spilling light briefly into the dim, damp-smelling
+    corridor. They heard shuffling footsteps and someone humming a lullaby.
+        The female mutate hove into view, swollen with her advanced
+    pregnancy. Halverson gestured to Torres and Mathers, and they crept
+    forward. Their visors were even superior to the catlike night-sight the
+    target was bound to possess, so they were within yards before she saw
+    them.
+        She gasped, fur bristling, amber eyes wide.
+        Mathers lunged for her. She whirled clumsily, buffeted him with
+    her wing, and fled. Torres leaped over Mathers but lost precious ground.
+    The mutate let loose with a piercing, terrified shriek, and vanished
+    through another door.
+        "Go, go, move it!" Halverson commanded. "Keene, cover the
+    rear!" He plunged after her. He shouldered through the door and was
+    slapped in the eyes by the disrupted party scene before him.
+        A woman in a red leather jacket drew on him. "Xanatos' goon
+    squad!" she yelled in a furious, betrayed voice. He put a shot her way,
+    sending her diving for cover.
+        The target was being supported by a lavendar she-garg, the
+    saccharine sweetie from Loch Ness, but there was nothing sweet in the
+    way her eyes burned scarlet. Another gargess, familiar from their failed
+    mission in the Pacific Northwest, was coming at them with a roar.
+        "Take them down!" Inge Runolf yelled.
+        Donner stepped to meet the white-haired female like a square
+    dancer about to do an allemande right, caught her wrist, and tripped her
+    headfirst into a pile of wrapping paper.
+        Red leather jacket fired, her bullet punching into the wall an inch
+    from Halverson's head. Mathers pasted her with a burst of hard rubber
+    bullets, sure to sting and bruise and generally make her lose interest in
+    busting butt.
+        A child was wailing. Halverson looked, saw a baby in the middle
+    of the carpet, all balled-up fists and bawling face. Donner, recovering
+    from a vicious taloned kick, stumbled and toppled right toward the kid.
+    Halverson swept him out of harm's way not a moment too soon.
+        "Don't you touch my baby!" a woman shrieked.
+        He had time to recognize her as Xanatos' wife and wonder what
+    the hell she was doing down here among the mutates, when emerald
+    witchlight exploded from her eyes and mouth and hammered him against
+    the far wall with bone-numbing force.
+        Runolf backed off from the advancing lavendar garg. A clawed
+    hand came at her in a lethal arc. She threw herself backward. Her Gauss
+    went hs-k! hs-k! hs-k! as dozens of thin metal slivers shredded a wing to
+    leathery lace before stitching a ragged seam across inhuman flesh.
+        A plump, middle-aged black woman was standing aghast in all
+    the commotion. When Mathers passed her and cornered the target,
+    though, this matronly lady hefted a bottle of Martinelli's and swung it like
+    Ken Griffey Jr. The Beav's mouth disintegrated in a shower of broken
+    teeth, shattered glass, and foaming sparkling cider.
+        "Get away from her!" she said sharply, brandishing the jagged
+    neck of the bottle.
+        Beav goggled at her, then dropped like a sack of laundry.
+        "Mom! Stay down!" Red leather jacket, who Halverson
+    recognized now as not only the lead mutate's kid sister but the lead
+    gargoyle's woman, didn't stay down like a good girl but rose up and shot
+    Donner in the shoulder just as his carbine spat a deadly hail of teflon-
+    coated bullets that would have wasted white-hair. Instead, she was only
+    struck twice, blood flying in an amazing fan as she executed an almost
+    balletic spin.
+        Keene came raging in. "Kill them! For Burkie!"
+        Mrs. Xanatos, her crying son cradled in one arm, followed up
+    with a leaping karate-kick that sent Donner crashing to his knees.
+    Halverson laid the butt of his pistol upside the woman's head and
+    managed to catch the kid as she went down. He deposited the boy behind
+    the couch.
+        Bleeding and snarling, white-hair leapt upon Keene and savaged
+    his face with her talons. He reacted by squeezing off a grenade, which
+    plowed into the carpet next to the struggling forms of Runolf and the
+    lavendar one. The combatants were hurled apart, Runolf twisting in
+    midair to land on her feet and lavendar smashing through the refreshment
+    table.
+        The floor cratered in a gout of flame. Even through their
+    protective helmets, Halverson's team was nearly deafened by the blast.
+    The others were worse off, screaming their pain and shock into the ringing
+    after-echoes.
+        Halverson wrestled white-hair off of Keene and spun her around,
+    right into Torres' capable hands. The diminutive Latina delivered what she
+    liked to call the "Vulcan death-grip" and white-hair writhed, went rigid,
+    and collapsed.
+        "Yah! Yah! Yah!" Keene began chanting. He discarded his
+    grenade launcher, brought up his carbine, and pulled the trigger. The look
+    in his eyes was madness and beyond. Halverson had seen it before, knew
+    what it meant, and dreaded it.
+        The first armor-piercing rounds penetrated Donner's combat suit
+    as if it was made of Kleenex. Most of Bradley Donner's insides exited his
+    body in a chunky spray.
+        Red leather jacket tackled her mom out of the way just in time.
+    Lavendar, with icing in her sable hair, rose out of the cake like the
+    entertainment at some nightmare bachelor party. Keene swung toward her,
+    still yelling insensibly and firing wildly. Runolf, swearing in German,
+    dove clear.
+        Halverson knew what he had to do. He rammed the end of his
+    pistol into Keene's ear and blew him away before the crazy bastard killed
+    them all.
+        Torres, probably the only one to keep her cool, went after the
+    target mutate and extended her arm. There was a disgusting sound --
+    fshplooch! -- and thick white foam belched from the nozzle strapped to
+    the back of her hand. It coated the cowering mutate from neck to tail,
+    leaving only her head and parts of her wings exposed. The foam hardened
+    instantly, completely immobilizing her.
+        "Got her!" Torres cried triumphantly, and then would say no
+    more ever again as a time-lapse scarlet rose unfolded where her throat had
+    been, thanks to a bullet from red leather jacket.
+        Runolf kicked red leather jacket, more of a stomp than a kick,
+    bringing her boot down hard on the other woman's collarbone, then kicked
+    her in the temple.
+        "Elisa!" Mom yelled. She seized another cider bottle, and
+    Runolf, taking one look at what remained of the Beav's face, got out of
+    there in a hurry.
+        Halverson thumbed his communicator, knowing that Rodriguez
+    had to have heard some of the ruckus and would have the vehicle ready.
+    "Jack fell down!" he said urgently. "Repeat, Jack fell down!"
+        "I copy," Rodriguez's voice replied.
+        Lavendar leaped at Halverson and knocked him flat on his back.
+    He punched her in the stomach as her claws ripped through his combat
+    suit, steel mesh lining giving way. Her tail wrapped around his neck and
+    began to contstrict. The bony spur on her knee gouged a hole in his side.
+    He found his dropped pistol lying next to his head, grabbed it, and shot
+    her.
+        She cried out, doused him in gargoyle blood, and fell off of him.
+    Runolf, having retrieved Keene's grenade launcher, blew a huge hole in
+    the wall. Halverson scrambled to his feet. His combat suit, triggered by
+    the stress of the situation, injected him with a hefty dose of synth-
+    adrenaline. At once, his limbs felt so supercharged with energy that he
+    was surprised he didn't glow.
+        The two of them, two left out of six, dammit!, shoved the mutate
+    through. She was an awkward bundle, and when Halverson let his hands
+    get too close to her head she punished him with a fierce bite, but then her
+    eyes widened and she sucked in a breath and generally lost all interest in
+    struggling.
+        Rodriguez met them at the hatch just as the first of the
+    Labyrinth's human raggamuffin inhabitants were coming around, braving
+    the bitter cold to see what was going on. A well-placed few shots from
+    Runolf convinced them that they were better off acting like good New
+    Yorkers and staying out of it.
+        The mutate uttered a low, agonized cry as they bound her hard
+    foam cocoon to a bench and prepared for takeoff.
+        "Damn it!" Halverson said. "We weren't supposed to hurt her!"
+        "She's not hurt," Rodriguez, father of six, said knowingly. "She's
+    in labor."
+            *       *
+        
+        Coughing.
+        Crying.
+        Groaning.
+        "Elisa!"
+        "Lemme 'lone, Mom, it's Saturday."
+        Hands. Shaking. Rough.
+        "Ow! Quit it!"
+        "Elisa Maria Maza!"
+        That brought her around in a hurry. She opened her eyes,
+    couldn't see much, blinked, tried again, and realized it was because the
+    room was filling with smoke, the carpet was on fire, there was a hole in
+    the wall big enough to drive her Fairlane through, and her mom was
+    obscuring the rest of her view.
+        "They've taken Maggie!" Diane pointed through the hole.
+        "Okay." Elisa was on her feet. She looked around for allies, saw
+    Fox out cold on the floor, baby Alex crying and tugging on her hair,
+    Angela lying in a bloodstained wreck, and Delilah crumpled. "I'm going
+    after. Help them, find Goliath."
+        With that, she grabbed her gun and was on her way. She reached
+    the roof of the old loading dock just in time to see the vehicle rising
+    smoothly. Freezing sleet and biting wind attacked Elisa like living things.
+        There was no time to think. She ran along the slick cement
+    surface, her feet trying to shoot out from under her, and made one
+    desperate leap. If she missed --
+        She didn't miss. She caught hold of the craft and clung to it, her
+    gloveless hands already numb, a straitjacket of agony wrapped around
+    her. Sharp, digging pain in her collarbone and shoulder, throbbing misery
+    everywhere else.
+        The craft hummed onward into the night, apparently unaware of
+    its external stowaway. Before they'd gone two blocks, Elisa was wishing
+    they would find her and tie her up, just to be out of the cold. Before they'd
+    gone seven blocks, she was hanging on by nothing but will and
+    determination.
+        Before they'd gone ten blocks, she knew she'd never make it.
+            *       *
+        It was an unusual meeting of leaders.
+        They'd never be friends, and trust was long and slow in coming
+    after so many battles, lies, and betrayals. But they had all come to respect
+    one another, and gradual bonds were forming between their clans.
+        Goliath wondered again if this was a good idea. But it had been
+    Elisa's suggestion, and therefore worth trying. He considered, then shoved
+    two chips to the center of the table. "I'll raise you five," he rumbled.
+        "You're bluffing," Talon said surely. "I'll call."
+        "I'm out," David Xanatos said, dropping his cards in disgust. "I
+    should be better at this game. In some other life, some parallel universe, I
+    just know I'm a master."
+        Goliath showed his cards with a resigned sigh, and Talon
+    whooped. "I knew it! I knew you were bluffing!"
+        "How?" Xanatos demanded. "His face is as unreadable as a stone
+    wall."
+        "Yeah," Talon said, raking in his chips, "but when he bluffs, his
+    tail twitches."
+        "What?" Goliath looked disbelievingly at his tail.
+        "Good thing we're not playing for real money," Xanatos
+    observed, "or you'd be CEO of my company by midnight."
+        "Nah. Wouldn't care for the business suits." Talon gathered the
+    cards and shuffled with the speed of a Vegas dealer. "Another hand?"
+        "Let me get a drink first." Xanatos went to the corner wet bar.
+    "Maybe it'll improve my playing. Anything for you?"
+        Before either could answer, Brooklyn burst in without knocking.
+    "Trouble!"
+        Hudson, grimly belting on his sword, was right behind the
+    younger gargoyle. "Matt just called. There be trouble in the Labyrinth."
+        The table flipped as both Talon and Goliath sprang up. A bottle
+    of brandy fell from Xanatos' hand and shattered. All three of them spoke
+    at once, and it came out sounding something like, "Magelisalex!"
+        "Elisa's mom called Matt," Brooklyn explained breathlessly,
+    bounding ahead of them toward the exit. "She said they were attacked."
+        "I knew I shouldn't have left them alone!" Talon raged.
+        "Go. I'll be there." Xanatos darted down a different hallway,
+    presumably to suit up.
+        "What about Elisa?" Goliath felt fear wrap its cold fingers
+    around his heart. "Why didn't she call us?"
+        "I don't know. Matt said Mrs. Maza wasn't making much sense."
+        "If anything has happened to Elisa --!"
+        "And Maggie! What about Maggie?!"
+        "I don't know!" Brooklyn said again. They reached the roof and
+    the four of them were pelted with sleet.
+        "Where are Lex, Broadway?"
+        "Broadway be at a film festival," Hudson explained, getting onto
+    a rampart. "Lex went shopping for a computer program. 'Tis just us."
+        Goliath and Talon spread their wings and leaped into the night.
+            *       *
+        Even expecting trouble, they weren't prepared for the sight that
+    met their eyes.
+        "Angela!" Brooklyn and Goliath cried in identical tones of
+    anguish at the sight of her, lying so pale and still, one wing folded over
+    herself and the other, what was left of it, extended gingerly to one side.
+        Diane Maza was crouched over her, applying pressure to a
+    terrible wound high on her chest. When they came in, she looked up
+    tearfully at her son. "Oh, thank God! Derrek!"
+        Xanatos, who had caught up with them outside, clanked in and
+    tore off his helmet. His son, who had been shrieking inconsolably despite
+    all of Claw's best silent efforts to soothe him, extended his chubby arms
+    and wailed, "Dah-dah!" Claw handed over the baby with visible relief.
+        Samson knelt beside Delilah, cradling her tenderly in his massive
+    arms. His long black mane all but obscured her face.
+        "Angela!" Brooklyn said softly, putting his own hands on the
+    compress. "Don't go!"
+        Xanatos held his son on his lap and gathered his unconscious
+    wife to him, running his fingers along the hideous swelling purple gash on
+    the side of her head. His expression was deadly.
+        Talon held his mother, then drew back. "Where's Maggie?"
+        "They took her!" Diane sobbed.
+        The room stank of smoke and blood. Goliath counted four bodies
+    in combat suits, one hole in the floor and another in the wall, discarded
+    weapons everywhere, but no sign of Elisa.
+        "Elisa went after them," Diane continued, clinging to Talon's fur.
+    "She's hurt so bad, my poor baby, but she went after them. She said they
+    were his! His goon squad!" She thrust an accusing finger at Xanatos.
+        "I should have known!" Talon leapt forward but found Hudson in
+    the way.
+        "Have some sense, lad! He'd ne'er endanger his own son!"
+        "Never," Xanatos said flatly.
+        "He's tricked us before!" Talon tried to get around Hudson and
+    still found himself blocked.
+        Goliath took Talon by the shoulders. "Whatever else he may
+    have done, this time he speaks true. What is important is finding Elisa and
+    Maggie. Finding them, and bringing them safely home!"
+        "Who else could have done this?" Diane waved at the
+    destruction.
+        "Not Quarrymen," Brooklyn said, stroking Angela's cheek. "Not
+    Hunters, either."
+        "I heard explosions, and saw a flying car," Samson said without
+    looking up. "There wasn't any writing on it. Some of the Labyrinth
+    dwellers saw it too. A man and a woman, and another man who came out
+    of the craft." He finally raised his head and looked at Goliath. "One of
+    them says he saw Elisa run and jump and catch hold of it, as it flew off."
+        "Which way?" Talon's wings flexed.
+        "West."
+        "You can't just go chasing off after them with no idea where they
+    went or who they are," Xanatos said as Talon and Goliath made ready to
+    do just that.
+        "They took my woman!" Talon howled at the ceiling, shaking his
+    fists.
+        Goliath nodded in agreement, and saw through his own fiercely
+    lit eyes Hudson bending close to Brooklyn.
+        "Ye'll have to go with them, lad," the older gargoyle said in a
+    low voice.
+        "What? Me? I can't!"
+        "Ye must. They be thinking with their hearts, out o' their minds
+    with worry for their mates, and 'twill lead to their downfall."
+        "What about Angela? She needs me!"
+        "I'll watch over her. Go, lad. The clan needs ye."
+        "He is right, Brooklyn," Goliath said heavily. "I cannot trust
+    myself to lead wisely."
+        "This is absurd. You don't even know where you are going.
+    Bring me that gun." Xanatos accepted the sleek carbine Claw offered, and
+    studied the logo. "I thought so. Athens, Inc."
+        "Who?" Goliath frowned.
+        "A rising star among my competitors. Some former exp --
+    associates of mine. Experts at weaponry design. Quite good, really."
+        "How do we find them?" Talon demanded.
+        "I doubt they're your enemy," Xanatos said. "They're
+    manufacturers, suppliers. Someone bought this gear. Maybe we can find
+    out who." He flipped open a cellular phone withdrawn from somewhere
+    inside his armor and dialled.
+        "Are they going to die?" Samson asked.
+        "Not if they can hold on 'til dawn, lad," Hudson said. "And we'll
+    be making sure they do just that."
+        Talon looked at Claw. "You're in charge. Take care of my
+    mother. Protect our home."
+        Claw inclined his head.
+        "Damn it!" Xanatos dialled again. "Son of a bitch won't tell me
+    anything for 'confidentiality reasons.' Damn honest businessman!"
+        "What are you doing now?" Brooklyn asked.
+        "Calling Owen to have him hack into their data banks and call up
+    the purchase order."
+        
+            *       *
+        She was dying.
+        Maybe she was already dead, and hell was cold.
+        It wasn't until she became aware that the vehicle had stopped
+    moving that Elisa realized she was still among the living.
+        In her mind's eye, she knew exactly what she'd do. Drop, crouch,
+    wait for them to come out. Take them by surprise. Cut them down if she
+    had to. Rescue Maggie and get out of here.
+        In reality, it took the better part of a minute to unclench her
+    frozen fingers, and then she simply slid weakly off and puddled on the
+    ground. Her hair lay in a sodden mass against her neck, trickling ice water
+    down the inside of her jacket.
+        The engines were silent. There was no sign of movement other
+    than her own. She had no idea how long she'd been hanging dazed on the
+    back of the craft.
+        She took in her surroundings. A round, domed room nearly as
+    big as a sports stadium, filled with a variety of cars, vans, helicopters, and
+    other more exotic pieces of transportation. Parts of the dome looked as if
+    they were made to retract, and steel doors reminiscent of airplane hangars
+    were set in the walls. Several smaller doors, and even at this distance she
+    could see the security-coded keypads winking red and green.
+        No people in sight.
+        The straitjacket of pain had been replaced with one of those
+    medieval torture devices that clamped and twisted. Her left arm was
+    mostly useless. The only way she knew for sure she was alive was because
+    it hurt so much every time she took a breath. Not only did her chest ache
+    and throb from the pellets she'd been shot with, but the freezing air had
+    left her throat raw.
+        It would be so easy to just lay her head on the cold hard floor
+    and go to sleep. When she awoke, surely she'd be in her own apartment,
+    with Goliath by her side, watching her in that endearing protective way of
+    his.
+        Instead, she forced herself to get up. Her legs didn't want to
+    support her, and her feet felt like solid blocks inside her shoes. She
+    staggered around to the hatchway and opened it, her gun gripped in a stiff,
+    clawlike hand.
+        Nobody. No goons, no Maggie.
+        She pressed her forehead against the curved hull and tried to get
+    her thoughts in order. When they were as clear as she figured they were
+    going to get, she lurched toward one of the small doors.
+        Some of the trucks had writing on their sides. General Industries,
+    it read simply. Brown letters on white, nothing flashy.
+        Elisa frowned. General Industries? Makers of household
+    appliances, auto parts, and office equipment? A cover for Xanatos?
+        She frowned harder. Not even Xanatos would have sicced his
+    goons on his wife and kid. Not the son that meant more to him than life
+    itself.
+        But, if not Xanatos, then who?
+        She reached one of the keypads and was about to try her luck,
+    although sure that she would set off alarms and bring every guard in the
+    place running, when the light suddenly switched from red to green and the
+    door hissed open.
+        Elisa threw herself against the wall and brought up her gun. A
+    man in a plain brown coverall entered, clipboard in hand. Muttering to
+    himself, he did not even glance her way but proceeded toward one of the
+    trucks.
+        She wasted no time slipping through the door. It hissed closed
+    behind her, leaving her in a hall with bland grey walls and ribbed rubber
+    flooring, with muted flourescents every forty feet or so.
+        How was she going to find Maggie in this maze, a Labyrinth a
+    hundred times worse than the one they'd left? No helpful Ariadne was
+    going to pop up with a ball of twine, and Elisa was pretty sure she
+    wouldn't find any "you are here" maps either. General Industries was a
+    front for something, she didn't know what, and she was sure they wouldn't
+    take kindly to snooping presence.
+        Corridor after corridor, past rooms of computers and rooms of
+    test tubes and rooms of caged apathetic animals. Time and again, Elisa
+    barely avoided detection by the staff, some of whom were in brown,
+    others who boasted nice lab coats, an ominous few in full radiation suits.
+        Voices were coming her way. With nowhere else to go, she
+    ducked through a door and found herself in a cavernous chamber. Her
+    body, which had only just begun to warm up by making her tingle and
+    sting all over, protested at the chill in the room. Tendrils of white mist,
+    probably from liquid nitrogen, crept around her calves.
+        The room was dark yet palely lit at the same time, most of the
+    illumination coming in a cloudy, frosty glow from the tall cylinders that
+    marched off into the distance. Each cylinder was rounded like a capsule,
+    eight feet tall, and set into a metal base. Tubes and wires led into the
+    capsules. The glass surfaces were covered with thin skins of ice, and
+    shadowy forms could barely be seen within.
+        Elisa crept to the closest one and rubbed away a small circle of
+    frost. She peered in.
+        Suspended inside was the body of a naked man. The tubes and
+    wires led into his flesh. His eyes were closed, his expression slack and
+    dead.
+        His face was that of Anton Sevarius.
+        "Derrek said he was dead," she breathed. "Cryogenics?"
+        She spun to the next cylinder and rubbed a window, and her
+    breath caught in her lungs.
+        The man in that capsule was also Anton Sevarius.
+        She tried the next.
+        Sevarius.
+        Her eyes scanned the ranks and ranks of capsules. Hundreds in
+    all.
+        She put her hands over her face. "Clones?" she whispered. "An
+    army of Sevarius clones? All on ice? Why?"
+        And then she knew. Sevarius must have found a way to transfer
+    his mind from a dying body to a new one. Xanatos' quest for immortality
+    had inspired the mad scientist to this hideous conclusion.
+        She had a sudden urge to find an ax and start smashing glass.
+            *       *
+        "Now, my dear, don't struggle so. You don't want anything to
+    happen to your baby, do you?"
+        Maggie turned in horror toward that voice. "Sevarius!"
+        He smiled at her, a predatory shark's grin, and snapped a rubber
+    glove on his wrist.
+        "When Talon finds --" she started, then groaned in pain as
+    another contraction built with crushing pain.
+        Her captors had sprayed her with something that dissolved her
+    foam cast, but before she could even begin to get her bearings they'd
+    strapped her to a table. An operating table. In a well-lit room that reeked
+    of hospital smells and was filled with glinting steel instruments. One wall
+    was entirely taken up with a computer and monitor screens.
+        Maggie strained against her bonds, but the metal-reinforced
+    nylon restraints would have challenged her mate.
+        "When's your due date, dear?" Sevarius asked, and by his tone he
+    could have been a concerned country doctor.
+        "Let me go!" The bright new-penny taste of terror filled her
+    mouth. Throughout her pregnancy, she'd been worried sick about the
+    birth, the health of the baby, and a thousand other things. Never in her
+    worst nightmares had she imagined this. Anything but this! Anything but
+    having Sevarius deliver her baby!
+        "Now, you're not being very cooperative. I'm only trying to help
+    you, after all."
+        "Help me?!"
+        "You don't need to beg. Really, Maggie, I do have your best
+    interests at heart. Yours and your children's. You do know, it's twins."
+        She fell back against the table and stared at him.
+        "Oh, yes, I'm quite sure of it." He placed a device against her
+    stomach and turned a dial. "Do you hear that? Two little heartbeats.
+    Under a good deal of stress, I'm afraid. You're not doing them any good
+    by struggling."
+        The sound of her children's hearts, thumping rapidly within her,
+    brought tears to Maggie's eyes.
+        "Believe me, it is very important to me that they survive."
+        "You want to experiment on them!" she cried.
+        "I want to examine them," he corrected. "I want to see if the
+    instability of the mutagenics affects them. Surely you've noticed the
+    changes?"
+        "What changes?"
+        He called up a picture on one of his monitors. "This was Derrek
+    -- Talon, as he prefers -- shortly after his metamorphosis. Note the tufts of
+    facial fur, the coloration, the prominent ears, and of course the tail."
+    Another screen lit up, another picture appeared. "This is the same subject,
+    several months later. Quite a difference, wouldn't you say? The tail has
+    receded, the ears likewise, and the texture and coloring of the fur has
+    changed. Clear proof that the mutation has continued."
+        Maggie looked back and forth between the images, her lip
+    quivering between her sharp teeth. She remembered when they'd all
+    noticed their tails beginning to shrink, gradually, week by week becoming
+    shorter until they were bobcats' tails, then disappearing entirely. Fang had
+    tried to talk about it once but Talon refused to discuss it.
+        "So, naturally, I'm quite concerned about the effect this will have
+    on your children. You can't tell me that you two proud parents aren't also
+    worried. Isn't that why Talon came looking for me? How was I to know he
+    was interested in my services? He is the sort to carry a grudge. That is
+    why I didn't dare approach you openly with my offer."
+        "What offer?"
+        "Why, to help you, of course! Who else would be able to deliver
+    your children? Surely you didn't plan to crawl into the closet all by
+    yourself and then lick them clean!"
+        "You captured me! Shot my friends!"
+        He sighed exaggeratedly. "I had ordered them to avoid excessive
+    violence. However, your friends gave at least as good as they got. And I'm
+    told they initiated the attack."
+        "You lie! You always lie! Why should I trust you?"
+        "My dear girl," he said, stroking her brow as she tried to recoil
+    from his touch, "what choice do you have?"
+        She turned her head away, snarling and weeping. Not like this!
+    her mind cried out. Not him! She refused to let him get his hands on her
+    baby. She would resist!
+        Another contraction seized her, and this time she felt the gush as
+    her water broke.
+            *       *
+        Owen Burnett pursed his lips as the words came up on his
+    computer screen. "Mr. Xanatos, sir?"
+        "I'm still here."
+        "I've obtained a copy of the purchase order for that particular
+    weapon's serial number."
+        "Excellent! Is there a name?"
+        "Yes, sir. Inge Runolf."
+        Startled silence from Xanatos' end.
+        "I've taken the liberty of calling up her employment profile,"
+    Owen said even as he did so. A picture of the tight-jawed Valkyrie
+    appeared in the upper corner, along with a list of her physical statistics
+    and other details.
+        "Wasn't she listed among the dead in Scotland?" Xanatos asked.
+    "Her and Judge Halverson."
+        Owen heard voices in the background. Fox, sounding groggy and
+    in pain, said, "Halverson! That was the name on the one that hit me!"
+        "Delilah and I fought him!" Talon. "He was working for
+    Sevarius!"
+        "Apparently, we were premature in our assessment of the body
+    count, sir," Owen said. He could also hear Alex, and was relieved to note
+    that the boychild was shaken up but unharmed.
+        "Is there an address?" Goliath's deep voice.
+        Before Xanatos could begin to relay, Owen replied, "There is.
+    General Industries." He relayed the information.
+        "Good work, Owen. That'll be all."
+            *       *
+        "Hold still!" Inge Runolf ordered.
+        Judge Halverson winced as she poked the needle through his skin
+    and drew it tight. The stitches would hold together the painful gouge long
+    enough for the coagulant spray to scab it over, but he was having a hard
+    time staying in place.
+        Runolf, for all of her martial skills, evidently had neglected both
+    first aid and home ec. She might as well have been using a stapler, which
+    would have at least been quicker.
+        Cisco Rodriguez stuck his head in. "There's a problem in the
+    cryo unit!" he said urgently. "Power failures all over the grid. Could be
+    mechanical, but we might have an intruder."
+        Halverson tugged his combat suit back into place but left the
+    helmet. He wouldn't need it. "Let's move!"
+            *       *
+        Elisa hoisted herself into the ventilation shaft. She was sure that
+    her actions would draw attention, which was her only chance of finding
+    Maggie.
+        It had been a stroke of luck to discover that each of the capsules
+    was simply hooked up to one of a series of small power strips. She'd
+    pulled the plug on a dozen or more of the strips, randomly, watching with
+    morbid triumph as the lights in the cylinders faded.
+        The thought that she might also be disconnecting legitimate
+    cryogenically-preserved people did cross her mind, but she dismissed it as
+    unlikely. Even if they all weren't clones of Sevarius, odds were that they
+    were clones of people of his type. Not really murder, then. More of an
+    abortion.
+        That made her worry even more for poor Maggie, and for her
+    unborn niece or nephew.
+        She was just in time. No sooner had she hauled the grate back
+    into place than the door opened, and her good friends in brown came in
+    with weapons at the ready.
+        The lead guy and the blond woman were the same ones she'd
+    been seeing for years, starting with the time they'd tranquilized Goliath
+    and she'd led them on a wild chase through the park. Pretending to be
+    Cyberbiotics operatives, really working for Xanatos, and now somehow in
+    league with Sevarius.
+        Well, figuring that the scientist had done extensive work not only
+    for Xanatos but for Thailog and Demona, it was only reasonable that by
+    now he'd amassed enough of a fortune to maintain his own private thugs.
+    These two, though, led charmed lives.
+        Charmed, or else ... her gaze once again fell on the rows of
+    cylinders.
+        She massaged and stretched her exhausted, aching limbs as best
+    she could without bringing new flares of agony.
+        "The power strips are unplugged!" the woman called to her
+    companions.
+        "Search the room," the lead guy ordered. He moved quietly yet
+    purposefully, alert.
+        Elisa tensed. When he reached a spot below her, she kicked the
+    grate out and jumped after it. The heavy grate struck the man, and her
+    weight finished the job of driving him to the floor. A tremendous sheet of
+    pain flared over her but she threw her knees into his back. He wasn't
+    wearing a helmet so she cracked him on the head with the butt of her
+    pistol. He grunted and went limp.
+        A shot squealed off of metal, and Elisa turned to see another man
+    running in her direction. She rolled and fired, crying out as her injuries
+    bounced and jostled. Her first shot took him in the chest but didn't even
+    slow him; the next one struck his knee. The armor there must have been
+    weaker because he went down writhing and holding his leg.
+        The blond came at her.
+        Elisa ran behind one row of capsules, feeling like a kid playing
+    hide-and-seek in the corn, which was absurd for someone born and raised
+    in New York. She'd never seen a cornfield except for on television. But
+    the image persisted.
+        She took refuge behind one of the dark ones and watched the
+    woman's shadow through some of the others. Trying to hold her breath for
+    fear the plumes in the chill air would give her away, Elisa waited until the
+    blond was almost on her, then leaped out, planted her elbow in the other
+    woman's midsection, wrestled her gun away, and pressed the muzzle of
+    her pistol under the shelf of her jaw.
+        "Where's Maggie?"
+            *       *
+        "Push! Harder! Oh, that's very good. Remember your breathing,"
+    Sevarius coached.
+        Maggie sobbed helplessly as she followed his directions. Giving
+    birth wasn't like having to use the bathroom. Once it started, there was no
+    way to hold it. Loathesome as it was, she had to comply with Sevarius.
+        "I see a fuzzy little head," he said, horridly cheerful. "One more
+    good push!"
+        Every muscle locked. Maggie felt like her bones were shaking
+    apart. She bore down hard as she could, until red firebursts filled her
+    vision. She swam in a haze, nearly blacking out, and the only thing that
+    brought her back was a sound, a pitiful sound somewhere between a mewl
+    and a cry.
+        "It's a girl," Sevarius announced.
+        "Give her to me!" Maggie threw herself upward as far as she
+    could, but only got the barest glimpse of a small form as the scientist
+    turned away.
+        "Fascinating! Her eyes are sealed shut, just like a newborn
+    kitten's! No teeth; good news if you were planning to breastfeed. The
+    wings appear proportionate for her size ..."
+        "Give me my baby!!" In a burst of strength, one of her wrist
+    restraints tore free.
+        Sevarius set the infant in a hospital bassinet and came toward
+    her. "Now, my dear, let's not do anything antisocial --"
+        She swung, and though her claws were unable to reach him, the
+    dangling end of the strap whipped briskly across his mouth, splitting his
+    lips.
+        Beyond him, she could see something tiny moving in the
+    bassinet, something with a tawny-gold pelt and dusky rosette markings. Its
+    cries pierced straight to her heart.
+        Another contraction, even deeper and glassier than before, put a
+    quick end to her fight. As she gasped for breath, Sevarius pressed an air-
+    injecting hypo against her neck. Almost immediately, she felt a dull
+    heaviness in her limbs.
+        He wiped blood from his mouth. "Naughty girl," he said, but all
+    pretense at good humor and kindliness was utterly absent.
+        Tight, tense, unbearable spasm, even with the drug rapidly
+    coursing through her. Maggie screamed until she thought her throat would
+    burst.
+        "Here's number two," she heard Sevarius say from far away. "A
+    boy."
+        She tried to move, tried to raise her head, but it was a stone
+    tumbling down a deep dark well and pulling her after it.
+            *       *
+        Owen's voice spoke into his ear. "I decoded some secret files
+    about General Industries, sir. I thought they might interest you."
+        Xanatos diverted part of his attention from flying to a peripheral
+    section of his HUD.
+        Ahead of him, Goliath and Talon flew valilantly on, battling the
+    elements while his armor carried him effortlessly along. Brooklyn, smaller
+    than the two leaders but more agile and certainly thinking a bit more
+    clearly, was pacing them.
+        "Go ahead, Owen."
+        "To begin with, sir, General stands for GENetic Engineering
+    Research And Laborotories. You should now be receiving a directory of
+    some of their most top-secret projects."
+        "Thank you, Owen. Not quite an in-flight movie, but it'll pass the
+    time."
+            *       *
+        She crawled down the ventilation shaft, every movement a new
+    adventure in pain, every new sound making her jerk and look back over
+    her shoulder, half-expecting to see some ugly slobbering reptilian monster
+    loping after her.
+        The blond had seemed sincere, and with a gun to her face had
+    surely been motivated to be truthful, but the further Elisa went the more
+    she became certain that she was never going to find Maggie, let alone get
+    out. The complex was huge, a regular ant farm.
+        Tiny squares of light shone through a grate in the floor. Elisa
+    crept to it and peered down, and saw with dismay that she was directly
+    over a large cafeteria, about one-third full of people in lab coats or
+    uniforms. To her further dismay, she realized that the metal shaft was only
+    bolted to the ceiling instead of tucked away out of sight.
+        She inched forward, and her left shoulder chose that moment to
+    just give out like an old tire. She fell on her side with a k-ponk! that
+    sounded big as a gong, and forced herself to instantly hold still despite the
+    pain that rolled down the left side of her body. She ground her teeth,
+    trying not to groan, hot tears trickling down her cheeks.
+        If anybody noticed the noise, it went unremarked. When the pain
+    subsided a bit, though nowhere close to its former levels, Elisa resumed
+    her movements. She lay flat, scooting along by pulling with her right hand
+    and elbow and pushing with her feet.
+        She was on the grate now, staring down at a lab tech below her.
+    He was eating a pastrami sandwich and reading "The Dilbert Principle,"
+    and Elisa was suddenly sure that the grate would fall and she'd end up in
+    his lap.
+        That didn't happen, and then the grate was behind her. An
+    eternity later, the cafeteria was also behind her. Once back on more solid
+    ground, so to speak, she laid her head down and shivered with reaction.
+    Her shoulder was on fire, and a ginger exploration of the flesh around it
+    found a bulge that was surely the end of her collarbone sticking up like a
+    broken pencil. It hadn't broken the skin, small favors.
+        "Oh, man," she whispered. "This is nuts. I'm going to die up here
+    and they'll only notice when I start to stink!"
+        The sound of her own voice got her moving again. It was only a
+    matter of time before somebody noticed the goons missing, and found
+    them sealed in the cryo tanks. And then, friends and neighbors, there'd be
+    hell to pay.
+        She reached an intersection, a capital T with the crossbar dead
+    ahead. Both ways looked equally promising, or equally futile.
+        Sobbing?
+        Elisa held her breath to make sure it wasn't her own. Sure
+    enough, distant muffled sobbing down the lefthand passage.
+        She hitched herself around the corner without hurting anything
+    too badly and found the strength to resume crawling. The sobbing was
+    both a beacon and a balm, making her own suffering diminish and
+    renewing her purpose.
+        The grate was on the side instead of the bottom, and she found
+    herself looking into an operating room. Medical equipment, computers,
+    instruments. The table was stainless steel, orbited by shiny metal devices
+    on folding metal arms, looking exactly like something out of a looney's
+    tale of alien abduction, and lying on it, covered with a scrub-green sheet,
+    was her brother's mate.
+        One of Maggie's arms was securely strapped down. The other
+    dangled limply, a ragged shred of tough nylon hanging from the wrist. Her
+    head was turned to the side, her eyes shut, tears dampening her golden fur.
+        No sign of Sevarius.
+        Elisa tried to pull the grate in and was shocked to find that she
+    barely had the strength to budge it. When it came free, it did so with a
+    huge scraping sound, but Maggie didn't even open her eyes.
+        "Maggie!" she whispered, loud as she dared, though after the
+    noise the grate had made, it was probably a moot point.
+        No reaction from Maggie.
+        Elisa levered herself through the opening. Her questing feet
+    found the seat of a chair, but just as she trusted her weight to it, the casters
+    shot it out from under her and she crashed to the floor. What wanted to be
+    a throat-shattering scream came out only as a harsh gasp, but for several
+    seconds all she could do was lay where she'd fallen, fighting to keep from
+    passing out.
+        At last, she was able to get up. She made her way to the table and
+    touched Maggie's arm. "Maggie? Hey, sis, it's okay. It's Elisa. I'm getting
+    you out of here."
+        Amber eyes slid briefly open, still mostly covered by the inner
+    membrane. Elisa realized that Maggie was doped to the gills.
+        "Bayy-beee," Maggie exhaled.
+        Elisa struggled with the strap. "The baby will be --" she broke off
+    as she glanced at Maggie's middle and saw it much smaller, shrunken.
+    When she'd greeted them at the shower, it had been firm and taut and
+    round, drumlike, a cariacture of a swallowed basketball.
+        Just then, she heard a sound she'd previously dismissed. A faint
+    rustling and mewling.
+        Her mind instantly flashed back to a couple of kids sitting in
+    front of a grocery store, a cardboard box between them and several cans
+    stacked in front. A sign, written in crayon, had read: free kitty food, kitty
+    included. In the box, tumbling over each other, had been six grey kittens.
+    One of them had gone home in the Fairlane, nearly causing a wreck when
+    it had gotten under the brake pedal, and that had been Cagney.
+        Slowly, like someone in a strange dream, Elisa turned toward the
+    noise. Two covered basinettes or incubators, hooked up to all sorts of
+    equipment.
+        She found herself standing by them with no memory of crossing
+    the room. Stuck to each lid was a post-it note. Across the top was a
+    cartoon of a brain in a jar flanked by two crackling electrodes, over the
+    legend: FROM THE BRAIN OF ANTON SEVARIUS. And below that,
+    in block printing, were two words that didn't make any sense to Elisa.
+        RUMPLETEAZER on the right.
+        MUNGOJERRIE on the left.
+        Heart in her throat, Elisa lifted off the lids. "Ohhhh," was all she
+    could say as she beheld her niece and nephew for the first time.
+        They both had funny, bristly, stiff hair on their heads that
+    reminded Elisa of baby cheetahs she'd seen in some nature documentary.
+    The girl's fur was the same color as Maggie's but dotted with darker
+    brown. The boy was the same shade as Derrek, and he too had the
+    shadows of darker markings. Their eyes were squinched shut. Their faces
+    were startlingly human except for the fur, with button noses instead of
+    muzzles. The girl had her tiny fist in her mouth, while her brother tried to
+    suck on air. Fragile, batlike wings were folded against their backs.
+        She reached in and stroked the boy's cheek. He turned his head
+    toward her hand.
+        "Hey, kiddo," she said softly. "I'm your Aunt Elisa."
+        The girl uttered a thin wail. Elisa touched her hand, and felt tears
+    come to her eyes when those little fingers wrapped around her own.
+        "Nothing's going to happen to you. I promise."
+        "Elisa?" Maggie mumbled weakly.
+        She went to her. "Maggie! Are you okay?"
+        "Babies?"
+        "They're here. They're beautiful."
+        "Sevarius."
+        "Yeah, I know. I'm getting all of you out of here."
+        "Can't. Help ... babies."
+        "I will. What's Sevarius done? He's got some code or medicine
+    or something written on them. Has he given them anything?"
+        "Names," Maggie said dreamily. "Because they're practically
+    cats."
+        "Huh?"
+        Her head rolled to the side and she began singing "Memories" in
+    a terrible, broken voice that was even worse than her earlier sobs.
+        A light on the wall began to flash, and from the intercom next to
+    it, a computerized but commanding voice issued. "Interuder alert. All
+    staff. Sector 12. Intruder alert."
+        "Oh, hell," Elisa said. "That's me. Come on, Maggie, let's get this
+    thing unhooked."
+        "No time. Save my babies, Elisa, please!"
+        "I'm not leaving you here!"
+        "Don't let him get them," Maggie begged. Her free hand clutched
+    at Elisa's jacket and fell away.
+        There was no way she could carry the twins and support Maggie
+     as well. She was too drugged up to move, even if Elisa had been whole
+    and healthy.
+        "I'll come back for you," she vowed, taking another sheet from a
+    shelf and tearing it into wide strips to swaddle the infants. "I'll find
+    Derrek, and we'll come back for you."
+        Maggie smiled, sighed and sank back into a stupor.
+        She shrugged out of her jacket, eliciting a new icepick of pain
+    from her collarbone, and fashioned two crude slings out of the rest of the
+    sheet. Tucked one baby into each sling. Put her jacket back on and zipped
+    it shut, leaving room for air. Awkward, but she had to keep them secure
+    and warm.
+        Her arms around the babies, cradling them to her chest, Elisa
+    hurried out the door.
+            *       *
+        
+        "There has to be a more subtle way to --" Brooklyn began.
+        Goliath and Talon roared together and peeled back a layer of
+    sheet steel like it was a wet decal. Alarms brayed into the freezing night.
+        "--do this," he finished.
+        "INTRUDER ALERT! SECTOR 12!"
+        "So much for subtlety," Xanatos commented. "I might as well get
+    in on this too." He aimed his wrist laser and cut a circle in the cement slab
+    revealed by the missing steel.
+        Goliath delivered a punch that popped the circle down through a
+    hole. Without so much as a pause, Talon was through and running down
+    the dark corridor, yelling for Maggie. Goliath, saving his breath but his
+    heart doubtless calling out for Elisa with just as much fervency, overtook
+    him.
+        "So much for me being the leader," Brooklyn muttered. He
+    jumped through the hole and took off after the others, with Xanatos
+    behind him.
+        A group of men, security-guard-types and not commandos,
+    rounded a corner in response to the alarm. The looks on their faces as
+    their flashlights found Goliath and Talon bearing down on them would
+    have been funny, if those faces hadn't been mashed to pulp a heartbeat
+    later. By the time Brooklyn got there, the men looked like bowling pins
+    after someone threw a powerful strike.
+        All they way here, Brooklyn had been psyching himself up to
+    deal with armed, organized resistance. He was ready to kick ass and take
+    names, as Matt Bluestone sometimes said, and pay back every scratch
+    these creeps had put on Angela. Goliath and Talon were even more
+    vehement, and Xanatos was ready to dish out some vengeance for the
+    threat to his son and the harm to his wife. They would have gone up
+    against battle-armored superheroes, cheerfully.
+        Instead, corridor after corridor and level after level, all they
+    encountered were security guards and terrified people in lab coats. Poor
+    fare to feed the hunger of revenge.
+        Until, up ahead in a babble of raised voices, one stood out.
+        "What the devil is going on?" demanded the familiar tones of
+    Doctor Sevarius.
+        At which point, Talon went purely bugshit. It was the only
+    phrase Brooklyn felt adequately described the mutate's reaction. Berserk
+    didn't even scratch the surface.
+        Talon launched himself into the cafeteria. He looked twice his
+    normal size, fur bristling like a Halloween cat, sizzling with so much
+    electricity that tables and chairs were flung from his path before he even
+    got near them.
+        He scythed through the bystanders and was on Sevarius before
+    the scientist knew what hit him. One of Sevarius' arms came off with a
+    horrible overcooked-drumstick sound that would haunt Brooklyn for
+    years.
+        "Wait!" Brooklyn yelled over the din. "We need him to tell us
+    where they are!"
+        "Electric eels!" Talon snarled. "See if you can fake this!"
+        Every flourescent light in the cafeteria simultaneously blew out.
+    Talon, wreathed in blue-white energy, channeled every last volt of it into
+    Sevarius. His jittering death-dance lasted only an instant before ending in
+    an explosion of charred flesh.
+        Something shot from the blackened, firecracker-in-a-tomato
+    wreck of his skull. It was a metal projectile the size of a bullet, whizzing
+    toward the door.
+        A metal-clad hand seized it out of the air. "Braintaping," Xanatos
+    said clearly. "Recording his every thought and experience, to transfer
+    from one clone to another."
+        Goliath looked as repulsed as Brooklyn felt.
+        "This is the real Anton Sevarius," Xanatos said, holding up his
+    fist. He slowly clenched it. Something cracked. Xanatos squeezed harder.
+    There was a grinding noise. Flakes of metal sifted through his fingers.
+        Grim satisfaction filled Talon's smile. He flung aside what was
+    left of the body.
+        Anyone still mobile was fleeing from the four of them. Goliath
+    reached out almost idly and caught one by the neck. "Where is Sevarius'
+    lab?"
+            *       *
+        Judge Halverson awoke to the sound of the alarm.
+        It was something that should have instantly jolted him out of
+    sleep, and something that should have been much louder.
+        He understood everything the moment he opened his eyes, and
+    found himself slumped on the bottom of one of the cryogenic storage
+    capsules. Not dead and replaced, because he was still wearing his combat
+    suit and still in a hell of a lot of pain. No, the Maza woman must've
+    dumped him in here while he was unconscious. Lucky she hadn't switched
+    it on, or he would have woken up a giant Popsicle.
+        He looked left and right, and confirmed his suspicions when he
+    saw Inge and Cisco similarly sealed up. Inge was alert and angry, Cisco in
+    pain and sporting a bloody bandage around his knee.
+        "We have to get out of here!" Inge mouthed.
+        Judge nodded. He experimentally hammered on the curved glass,
+    but it was too thick to be broken that way. Inge was obviously unarmed or
+    she would've tried something by now. In fact, he could see her beloved
+    Gauss lying in a swirl of white mist a few yards away.
+        His own holster was empty, but his captor hadn't taken time to
+    search him thoroughly because his little personal luxury, a derringer-sized
+    gyroc pistol, was still on him. He drew it, aimed at the capsule's seal, and
+    fired.
+        Moments later, Inge was retrieving her Gauss.
+            *       *
+        "Maggie!" Talon cried.
+        She rolled her head his way, eyelids fluttering sleepily. She
+    murmured something, a fragment of a song. Talon was at her side,
+    cradling her head, looking like he wished he could kill Sevarius all over
+    again.
+        The room was a mess. A grate was lying on a desk, a chair was
+    tipped over, scraps of green cloth were scattered on the floor.
+        "Goliath, look!" Brooklyn reached under a desk and came up
+    with a gun. "It's Elisa's!"
+        "Then where is Elisa?"
+        "And where are the babies?" Xanatos asked.
+        "What?" Talon whipped around.
+        "They've been born. Look." Xanatos gestured at the basinettes
+    and held up a pad of paper covered with scrawled notes. "Twins. Girl and
+    a boy."
+        "Maggie," Talon said urgently, stroking her brow. "Maggie,
+    where are our children?"
+        "Derrek ..." she breathed. "Elisa ..."
+        "She's been drugged," Brooklyn said.
+        "Here." Xanatos rummaged. "This should counteract the
+    sedative."
+        "Sevarius!" Maggie sat up, wild-eyed, lunging against her bonds.
+        "Damn, that was quick!" Brooklyn observed.
+        When Talon saw the restraints, he growled fiercely and shredded
+    them, then held his mate close.
+        "He's dead," Talon assured her. "This time, he really is."
+        "Elisa took the babies. I made her go." She buried her face
+    against Talon's chest. "I never even got to hold them!"
+        "You will," he promised.
+        "We must find her," Goliath said. He strode to the door, yanked
+    it open, and there stood a man in a brown combat suit identical to the ones
+    covering corpses back in the Labyrinth.
+        The man, whose nametag spelled out HALVERSON, had a
+    ridiculously small gun, but when he fired, Goliath went down with
+    authority.
+        "Surrender now," Halverson said, stepping over Goliath's
+    outstretched arm.
+        A woman appeared behind him, blond and cruel, carrying a
+    strange weapon that Brooklyn instinctively knew was the one that had hurt
+    Angela.
+        Xanatos stepped forward. "Well, well. Former employees. Too
+    late to fire you."
+        The two looked startled, but that didn't stop them both from
+    leveling their guns at the man in the red and black armor.
+        Talon pulled Maggie off the table and sheltered her with his
+    wings and body.
+        Brooklyn realized he was still holding Elisa's gun. No time to
+    think about it or worry that he'd never used one before. He pointed and
+    pulled, just before Halverson tried to blow a hole in his former boss.      
+    Aiming for the guy's head, he instead hit the tiny but powerful gun. It
+    exploded in his hand, turning that hand into something that looked like a
+    soggy sponge with a few toothpicks sticking out of it.
+        Xanatos' metal-plated fist pistoned out and shattered Halverson's
+    nose. The man flew backward and out of sight. "That's for Fox."
+        The woman sent a snapping and hissing silvery jet at Xanatos.
+    The needles broke harmlessly against his armor. And then Brooklyn was
+    on her, roaring, grabbing her blond ponytail and playing crack-the-whip
+    against the wall. Her forehead left a crater in the plaster and she collapsed
+    in a boneless heap.
+        "That's for Angela," he said.
+        
+            *       *
+        The strident bray of the alarms made the babies cry. The strident
+    bray of the alarms also meant that nobody else could hear the babies cry.
+    Typical mixed blessing, Elisa thought as she ran down yet another
+    corridor.
+        Ran wasn't the best word for it. A quick stagger was the best she
+    could manage, and she was rapidly tiring. Twice now, she'd nearly
+    blundered into frantic groups of people. To make matters worse, she had
+    lost her gun somewhere along the line.
+        She would never find her way back to the hangar, and even if she
+    did, what then? Steal a truck? Hotwire a helicopter?
+        EXIT.
+        The sight of the sign was so utterly unexpected that she nearly
+    went past it, thinking that it had to be a hallucination brought on by pain
+    and panic.
+        DO NOT OPEN. ALARM WILL SOUND.
+        "What have I got to lose?" Elisa said, and shoved the bar.
+        Alarm did indeed sound, one more voice in the crowd. But the
+    door opened, and fresh, cold air swirled around her face. She'd worked up
+    quite a sweat, and that moisture evaporated instantly in a bone-deep chill.
+        She emerged onto a large concrete surface ringed with an iron
+    waist-high fence. Through the wind and sleet, she saw many sparkling
+    lights below and distant. The clouds were heavy and black against a sky
+    beginning to lighten. Had she really been here all night?
+        The complex behind her wasn't underground so much as it was
+    built into the side of a hill. She could see the hangar dome on the extreme
+    far side and was amazed how far she'd managed to come, but also
+    dismayed because there was no way she could reach the vehicles within.
+        The wind let up a little, and she saw a narrow staircase leading
+    down. The steps were slick with ice and water, a fire-escape switchback
+    that descended hundreds of feet to a parking lot. Trying to navigate that,
+    in her condition and carrying her precious burdens, was just plain crazy.
+        The door alarm sounded again.
+        A man in a brown combat suit stood by it. A bloodstained
+    bandage was around his knee, he leaned heavily on an aluminum crutch,
+    but he had a gun. "You shot me, you bitch," he said.
+        Crazy or not, the staircase was her only chance. A bullet spanged
+    off the iron fence ahead of her, followed by a second that hit just behind
+    her as she fled along the edge. The babies squalled and squirmed in her
+    arms. She didn't dare let go of either of them to secure a handhold.
+        Her feet stuttered on a slick step and even over the whistle of the
+    wind she heard her ankle pop. A bullet passed through her hair as she
+    stumbled. It was all too easy to see herself tumbling down the stairs,
+    coming to rest in a broken pile on the next landing, helpless and unable to
+    move while her pursuer descended to finish her off.
+        She was spared that fate, this time anyway, by catching herself
+    on the handrail with her left elbow. It sent a bolt of pure agony slamming
+    up to her shoulder and across her chest. She shrieked but kept going,
+    splashing through puddles of sleet on the landing, caroming off the far
+    rail, making the turn and starting down again so now a level of stairs were
+    between her and the gunman.
+        Cold, so cold. Her breath was ice and fire in her lungs.
+        Another bullet struck sparks off the steps. His aim was terrifying!
+    She didn't even want to think about what he could do unwounded and in
+    good weather!
+        Down, down, another flight and another, the cars in the parking
+    lot seeming as far away now as they'd been when she started. She'd never
+    make it; it was only a matter of time until --
+        She slipped. Her right foot shot out from under her and went
+    through the space between stairs. She landed on her hip and right
+    shoulder, twisting to shelter the babies. Not even able to scream anymore,
+    just panting like a hunted animal at the end of its strength, she scrambled
+    to her feet again.
+        Just in time to get shot. The bullet only grazed her thigh but was
+    enough to knock her back, against the rail, over the rail.
+        She fell, and this time there would be no strong, magnificent
+    Goliath swooping to catch her. Only the parking lot.
+        The world was silent except for the wind. Even the babies had
+    stopped crying. She could still feel the warmth of their tiny bodies against
+    her, the only warmth in all the world, the only way she knew they were
+    still alive. She turned herself to absorb the impact, even though it might
+    be kinder to let them die in the fall.
+            *       *
+        Cisco Rodriguez saw the woman fall and knew it was over. He
+    turned and began hauling himself up the stairs.
+        The outer door opened. Probably Halverson, responding to the
+    alarm which also triggered a signal in their visor HUD's.
+        "It's all right," he yelled above the wind. "I got the intruder! She's
+    dead!"
+        "RRRRRRAAAAARRRRRGGGHHH!"
+        Something truly enormous lunged at him. It was wounded, he
+    could clearly see the raw and tattered hole in its side, and that was the last
+    thing he saw before two huge clawed hands settled on either side of his
+    skull and the world ended in a flash of white light.
+            *       *
+        Xanatos, who had been able to link up to the HUD signal used
+    by Halverson's team and led them to the door, knew it was pointless trying
+    to reason with him.
+        With one wing hanging at an unnatural angle, Goliath couldn't
+    have glided down to the parking lot below. He made as if to throw himself
+    over, regardless.
+        "Wait!" Xanatos slung Goliath's arm over his shoulders and
+    blasted off.
+        His computer-enhanced visor saw her first, and he could pinpoint
+    from the way Goliath's grip tightened to the point where it dug trenches in
+    his armor the exact moment that he saw her too.
+        He landed between two cars and released the gargoyle.
+    Overhead, Talon and Maggie and Brooklyn were fighting the tricky winds
+    as they, too, descended as rapidly as possible.
+        "No ..." Goliath said, crouching beside Elisa's crumpled form.
+        Brooklyn landed. "Oh, Elisa," he said miserably.
+        Xanatos reached for her, and Goliath angrily shoved his hands
+    away. "Leave her be!"
+        "Look." He pulled open her jacket, revealing the source of the
+    movement he'd seen.
+        The babies howled as the icy air hit them. Maggie cried out, her
+    knees buckling as she landed, and crawled to Elisa's side. She clutched the
+    twins, weeping. Talon knelt beside her, torn between joy for his children
+    and grief for his sister.
+        Goliath ran his fingers through Elisa's dark hair, the pain of his
+    injuries nothing compared to the suffering now evident on his face.
+        "It's almost dawn." Brooklyn's voice was dull, dispirited.
+        Xanatos bowed his head. He'd come to not only admire the
+    gargoyle but like him as well, and hated seeing him suffer like this. What
+    would he do, if that were Fox dying in his grasp?
+        "Dawn ..." Goliath said. His hands moved over her face, her
+    neck. Paused. "The lifebeat! She lives!"
+        Xanatos shook his head sadly. "Goliath, she's gone."
+        "No! See there!" A thin cloud of a faint breath stirred at Elisa's
+    lips.
+        "Alive?" Talon dared to hope.
+        "We'd never get her to a hospital," Brooklyn said. "We can't
+    even move her. She's dying."
+        "No," Goliath said firmly. "I'll not let her. Elisa, my love, hear
+    me! Stay with me!" He lifted her, held her in his arms. Forced his
+    damaged wing to join the other one in folding around her. He glanced up
+    at Xanatos. "Protect us."
+        "Of course," he said automatically.
+        Goliath pressed his brow to Elisa's. Her head moved, and
+    Xanatos saw or thought he saw a faint flutter of a pulse in the hollow of
+    her neck.
+        Although they could not see the rising sun through the thick
+    clouds, Xanatos and the mutates knew the dawn in the stiffening skin of
+    the gargoyles. Brooklyn went first, a sculpture of sorrow with a single tear
+    running down his face.
+        "Stay with me," Goliath murmured as his skin turned to stone.
+        As Elisa's skin turned to stone.
+        Xanatos yanked off his helmet, unable to believe his visor and
+    not sure if he even believed his own eyes. But there, before him, was the
+    proof. Elisa, solid stone, in Goliath's arms.
+        "Holy mother of God," Talon sounded as if all the breath had
+    been driven out of him. "How --?"
+        Xanatos heard himself talking, although his brain was still trying
+    to come to grips with what was in front of him. "Sometimes objects
+    change with them, but sometimes not. I never thought --"
+        "Will she make it?" Maggie ventured tremulously. "Heal, the
+    way they do?"
+        "Sunset will tell us," Xanatos said. "If love and will can do it,
+    Goliath has enough of both. Until then, we'll do as he asked. We'll protect
+    them."
+            *       *
+        The stolen helicopter hovered above Castle Wyvern until the
+    pilot had proved to Owen's satisfaction that he was indeed Mr. Xanatos.
+        Fox, her head bandaged and the bruise creeping out from under it
+    like an inkstain, hurried to meet him as he got out. When she saw Maggie
+    and Talon, each holding a swaddled bundle, she hugged her husband
+    fiercely. "I knew you'd do it, David!"
+        "I can't take all the credit. Elisa saved the babies."
+        "Where is Elisa?" Fox asked. "Her mom's worried sick. I tried to
+    get her to come back here with me, but she wanted to stay with Angela
+    and Delilah. They both made it until dawn, so it looks like they'll be all
+    right."
+        Xanatos nodded. "That's what we're hoping for." He slid open
+    the cargo bay door and Fox gasped in astonishment.
+        "But that's --"
+        "Elisa."
+        "My God, David, is it possible?"
+        "Everything is possible, Mrs. Xanatos," Owen said as he joined
+    them, but even he looked surprised.
+        "How's your head, darling?"
+        "I have just three words for you. Extra strength Tylenol."
+        Xanatos turned to Maggie. "You must be exhausted. I'm sure
+    Alex wouldn't mind some company in the nursery."
+        Fox took a peek at the twins. "They are just priceless!" she
+    exclaimed.
+        "The price was high," Talon said, glancing at his sister. "Very
+    high."
+        "Show them the way, would you?" Xanatos asked his wife. "I've
+    got some things to discuss with Owen."
+        Fox led the mutate family inside. When they were safely out of
+    earshot, Owen raised an inquiring eyebrow. "Sevarius?"
+        Xanatos sighed. "Dead, I think. I evacuated the General complex
+    and planted thermite detonators; that'll take care of the clones and other
+    experiments."
+        "A shame to have to destroy everything," Owen said. "Sevarius
+    may have been a renegade, but he did have his moments of genius."
+        "Yes, he did." Xanatos reached into the helicopter and brought
+    out a silver metal suitcase. "And he was considerate enough to record
+    them all on disk. Once we break the encryption codes, we'll have detailed
+    files on all of General's projects. Why let good information and research
+    go to waste?"
+        "People and equipment can be replaced," Owen observed.
+        "Oh, and there's this." Xanatos handed him a small object.
+        Owen unwrapped the paper square, his eyes flicking over the
+    cartoon and the legend at the top without so much as a ghost of a grin.
+    "From the brain of Anton Sevarius," he read. He prodded the small metal
+    sphere, its surface covered with microcircuitry, with the tip of his finger.
+        "In this case," Xanatos said, "literally."
+            *       *
+        "We've decided to name her Diane," Derrek said. "But we'll call
+    her Dee for short, to avoid confusion."
+        "Why, Derrek," the new grandmother said, cradling the baby.
+    "I'm honored! But don't you think you should name her after Elisa?"
+        "That's her middle name." Maggie glanced at the clock, saw that
+    it was still hours yet until dusk, and squeezed Derrek's hand. "We owe her
+    everything! We have to have a chance to thank her!"
+        "We will," he said with a surety he didn't really feel.
+        They all fell silent for a moment. Diane had been to the roof,
+    seen her daughter locked in stone and in Goliath's embrace, a sight which
+    removed her last doubts as to the deep and intense love the two shared.         
+        Now, here with her mutate son and daughter-in-law, she finally
+    felt acceptance. Not resignation to her children's fates, not a determination
+    to tolerate their differences, but a true acceptance. They were happy, and
+    that was all any parent truly wanted.
+        "What about this little fellow?" Diane tickled her grandson's
+    chubby chin. "You're not naming him after your father, are you? Oh, I
+    wish he could be here! Of all the times to go ice-fishing!"
+        Derrek shook his head. "I know all about how Dad feels. If he'd
+    wanted anyone named after him, he would've tagged me with Peter Jr. No,
+    we thought it was only fair to name him after Maggie's dad, Tom. Thomas
+    Reed Maza."
+            *       *
+        The explosion ripped apart the General Industries complex and
+    shook the surrounding community so hard that many thought it was an
+    earthquake, the fabled California "big one" hitting their coastline by
+    mistake.
+        The warrens of corridors and labs folded in upon themselves like
+    a house of cards. Chain reactions of chemicals fueled white-hot blasts.
+    Genetically-engineered viruses were incinerated, new lifeforms boiled
+    away in their test tubes.
+        "Millions of dollars, years of work, gone just like that," the man
+    said.
+        His companion nodded.
+        "You know what this means?" he asked.
+        His companion shrugged.
+        "We're out of a job."
+        Inge Runolf skimmed her fingertips across the controls and the
+    craft rose on its cushion of ionized particles. "I hear Athens is hiring," she
+    said.
+        Judge Halverson, barely able to see anything through the
+    bandages that felt like they were all that was holding his nose onto his
+    face, or holding his head together for that matter, thought it over. "That
+    sounds promising."
+            *       *
+        The clouds had moved on, leaving a crisp, bitterly cold and clear
+    sky over Manhattan. As the day deepened toward twilight, an anxious
+    knot of people gathered in the courtyard of Castle Wyvern.
+        The last pale gold winter rays of the sun slid off the topmost
+    tower.
+        Statues trembled. Cracks appeared, spread, grew. Fragments
+    flaked off.
+        With a snarl and a stretch, Brooklyn cast off his stone skin. His
+    face immediately fell into a soul-deep expression of anguish, knowing in
+    his heart that by now Elisa would be several hours dead.
+        Goliath thrust back his wings, sending stone chips flying. His
+    arms tightened in an embrace. His eyes opened.
+        To find Elisa's gazing up at him as her own stone skin fell off in
+    a shower of dust. "Goliath?"
+        He crushed her to him. "Elisa!" Heedless of the watching crowd,
+    he kissed her.
+        "Elisa!" Brooklyn cried. "You're all right!"
+        "What ... happened?" She moved her limbs, felt her collarbone
+    and the torn place in her jeans where a bullet had grazed. Only unmarked
+    skin lay beneath. Nothing hurt, everything worked the way it should. And,
+    shaking gravel from her hair, she knew how it had come to be.
+        There would be time later for explanations and speculations. All
+    that mattered was that Goliath, in his love, had worked a miracle.
+            *       *
+    The End
+        
+
+------------------------------------------------------------------------
+
+Click [here](ffiction.htm) to return to the previous page.
+
+------------------------------------------------------------------------
+
+Kittens / Copyright 1996 - Tim Morgan / <vecna@eskimo.com>

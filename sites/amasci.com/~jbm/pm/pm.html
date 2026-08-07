@@ -1,0 +1,141 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+  <TITLE>
+    JBM - PM
+  </TITLE>
+  
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+
+  <STYLE TYPE="text/css">
+    BODY { BACKGROUND: #FFFFFF; COLOR: #000000 } 
+    A:LINK { COLOR: #3333FF }
+    A:VISITED { COLOR: #666699 }
+    A:ACTIVE { COLOR: #CC00FF }
+    A:HOVER { COLOR: #FF3366 }
+  </STYLE>
+
+  <LINK REL="SHORTCUT ICON" HREF="http://www.eskimo.com/~jbm/graphics/jbm.ico">
+
+</HEAD>
+
+<BODY>
+
+<CENTER>
+  <TABLE>
+    <TR>
+      <TD><A HREF="../ballistics/ballistics.html">[Ballistics]</A>
+      <TD><A HREF="../bibliography/bibliography.html">[Bibliography]</A>
+      <TD><A HREF="../downloads/downloads.html">[Downloads]</A>
+      <TD><A HREF="../index.html">[JBM]</A>
+      <TD><A HREF="../links/links.html">[Links]</A>
+      <TD><A HREF="../mpm/mpm.html">[MPM]</A>
+      <TD><A HREF="../pm/pm.html">[PM]</A>
+      <TD><A HREF="../personal/personal.html">[Personal]</A>
+      <TD><A HREF="../software/software.html">[Software]</A>
+  </TABLE>
+</CENTER>
+
+
+<HR>
+
+<H1>
+  JBM - PM
+</H1>
+
+<P>
+  PM is a Windows DLL designed for writing point mass small arms ballistics
+  programs.  PM is written in the C language and compiled with Borland C++.
+</P>
+
+<P>
+  <EM>
+  NOTE: This version is really a beta version.  All functionality is included,
+  all have been tested (by me) and no more functionality will be added, but 
+  there may be some bugs which I will fix as soon as I know about them (I don't
+  currently know of any!)  As I fix bugs, I'll note the
+  <A HREF="pm_changes.html">changes</A>.
+  </EM>
+</P>
+
+<P>
+  Some of the functionality includes:
+</P>
+
+<UL>
+  <LI>Automatic unit conversion
+  <LI>Multiple ballistic coefficients (linear interpolation)
+  <LI>ICAO atmosphere routines
+  <LI>Multiple drag functions or user defined CD vs Mach Number
+  <LI>Muzzle velocity correction for distance to chronograph
+  <LI>Variable sight height and offset
+  <LI>Wind profiles (3D wind as a function of range)
+  <LI>Output includes range, drop, windage, velocity, mach number, energy,
+      momentum and time, corrected muzzle velocity and point blank range
+  <LI>Drop and windage unit calculations including inches, feet, cm, MOA,
+      mils, etc.
+</UL>
+
+<P>
+  An example <A HREF="text/example1.c">program</A> is provided that 
+  produces very simple <A HREF="text/example1.txt">output</A>.  All 
+  the input values are "hard-wired" and this example is only designed to show some 
+  of the function calls.  <A HREF="text/example1.dpr">Here</A> is a 
+  Delphi (Object Pascal) console application that produces the same output as 
+  <A HREF="text/example1.c">example1.c</A> using the 
+  <A HREF="text/pm.pas">pm.pas</A> import unit.
+</P>
+
+<P>
+  If you're using something other than a C compiler, you will probably need 
+  to know that the DLL is compiled with all functions export with a prefixed 
+  underscore.  A <A HREF="text/pm.def">.DEF</A> shows the
+  exported functions and ordinal numbers.
+</P>
+
+<P>
+  The DLL is downloadable <A HREF="binary/pm_dll.zip">here</A>.  The Linux
+  shared library is available <A HREF="binary/pm-1.0.so.tgz">here</A>.  
+  Documentation for the PM DLL is a group of HTML files, downloadable
+  <A HREF="binary/pm_doc.zip">here</A>.  Documentation is also 
+  <A HREF="help/pm_contents.html">online</A>.
+</P>
+
+<P>
+  The PM DLL is free for private and non-profit use.  If you make money (in any
+  way) from this DLL, you must purchase the source code.  Please read the
+  <A HREF="help/pm_license.html">license</A>.
+</P>
+
+<P>
+  If you would like to purchase the source, or have questions about it, contact
+  <A HREF="mailto:jbm@eskimo.com">me</A>.  You will be required to sign a 
+  license and non-disclosure agreement.  An example of the source code is
+  provided <A HREF="text/interp.c">here</A>.  The file interp.c 
+  includes the interpolation routines used for wind and drag interpolation.
+  The file <A HREF="text/pm.h">pm.h</A> is the include file 
+  providing prototypes for all exported functions.  After you purchase the source
+  code, you may modify it, use all of it, parts of it for anything you see fit.
+  You may NOT redistribute the source code in source/printed form.
+</P>
+
+<HR>
+
+<TABLE WIDTH="100%">
+  <TR ALIGN="RIGHT">
+    <TD ALIGN="RIGHT">
+      <SMALL>
+        Last update 29 June 2004, Copyright &copy; 1996-2004
+        <A HREF="mailto:jbm@eskimo.com">JBM</A>
+        <A HREF="http://www.htmlhelp.com/cgi-bin/validate.cgi?url=referer&amp;input=yes">[V]</A>
+      </SMALL>
+</TABLE>
+
+
+</BODY> 
+</HTML>
+
+
+

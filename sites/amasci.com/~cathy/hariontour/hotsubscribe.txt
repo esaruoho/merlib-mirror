@@ -1,0 +1,88 @@
+HariOnTour Subscription Instructions 
+
+ HOT-L Subscription Information 
+
+ HariOnTour has a fair list load, currently 
+ averaging about ten messages a day - more since Hari's passing. 
+
+ SUBSCRIBING TO HARIONTOUR 
+
+ You can join the list via email simply 
+ by sending an email to: 
+
+ majordomo@lists.spunge.org 
+
+ In the *body* of the message, type: 
+
+ subscribe hariontour user@domain.com 
+
+ UNSUBSCRIBING FROM HARIONTOUR 
+
+ Subscribers can unsubscribe from the 
+ list simply by sending an email to: 
+
+ majordomo@lists.spunge.org 
+
+ In the *body* of the message, type: 
+
+ unsubscribe 
+ hariontour user@domain.com 
+
+ or by clicking the link at the bottom 
+ of each list message. 
+
+ POSTING MESSAGES TO HARIONTOUR 
+
+ To post a message to the list, subscribers 
+ can send email to: 
+
+ hariontour@lists.spunge.org 
+
+ DIGEST OPTION 
+
+ An alternative to the regular list form 
+ is a digest, which sends out an average of one, maybe two posts 
+ a day, depending on the number of individual messages, combining 
+ several messages into one. 
+ TO SUBSCRIBE TO THE DIGEST VERSION 
+ Send an email to: 
+
+ majordomo@lists.spunge.org 
+
+ In the *body* of the message, type: 
+
+ subscribe hariontour-d user@domain.com 
+
+ The -d tells majordomo that you want the 
+ digest version of the list. 
+ TO UNSUBSCRIBE FROM THE DIGEST 
+ Send an email to: 
+
+ majordomo@lists.spunge.org 
+
+ In the *body* of the message, type: 
+
+ unsubscribe hariontour-d user@domain.com 
+
+ or click the link at the bottom of each 
+ digest message. 
+ If you encounter a problem, e-mail Aya 
+ Makarova or the list technical advisor 
+ and clearly explain the problem. Please use this option only as 
+ a last resort after you have followed the above instructions. 
+ Once you are subscribed, you will receive 
+ information about the list. By subscribing to the list, you agree 
+ to READ and SAVE 
+ the instructions you are given. 
+ return 
+ to home page 
+
+ Direct 
+ questions about this Site to Lynn 
+ Harvey 
+ Direct questions about HariOnTour-L 
+ to Aya 
+ B. Makarova 
+ 2002 Lynn Harvey, Aya B. Makarova 
+ and HariOnTour 
+ All Rights Reserved

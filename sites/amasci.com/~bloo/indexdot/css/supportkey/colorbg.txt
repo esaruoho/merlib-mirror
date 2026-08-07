@@ -1,0 +1,364 @@
+CSS specification/browser support page: Color/Background Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson 
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index | 
+ Property Index | 
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units | 
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ Internet Explorer 
+ Netscape 
+ Opera 
+
+ color 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Color] 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ layer-background-color 
+ -- 
+ -- 
+ -- 
+ 4.0-4.x 
+ -- 
+
+ [Color] 
+ -- 
+ -- 
+ -- 
+ 4.0-4.x 
+ -- 
+
+ transparent 
+ -- 
+ -- 
+ -- 
+ 4.0-4.x 
+ -- 
+
+ layer-background-image 
+ -- 
+ -- 
+ -- 
+ 4.0-4.x 
+ -- 
+
+ [URL] 
+ -- 
+ -- 
+ -- 
+ 4.0-4.x 
+ -- 
+
+ none 
+ -- 
+ -- 
+ -- 
+ 4.0-4.x 
+ -- 
+
+ background 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ [Background-color] 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ [Background-image] 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ [Background-repeat] 
+ X 
+ X 
+ 3.0 
+ 4.0B3 
+ 3.5 
+
+ [Background-attachment] 
+ X 
+ X 
+ 3.0 
+ 6.0 
+ 3.5 
+
+ [Background-position] 
+ X 
+ X 
+ 3.0 
+ 6.0 
+ 3.5 
+
+ background-color 
+ X 
+ X 
+ 4.0B1 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ [Color] 
+ X 
+ X 
+ 4.0B1 
+ 4.0B2 
+ 3.5 
+
+ transparent 
+ X 
+ X 
+ 4.0B1 
+ 4.0B2 
+ 3.5 
+
+ background-image 
+ X 
+ X 
+ 4.0B1 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ [URL] 
+ X 
+ X 
+ 4.0B1 
+ 4.0B2 
+ 3.5 
+
+ none 
+ X 
+ X 
+ 4.0B1 
+ 4.0B2 
+ 3.5 
+
+ background-repeat 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ repeat 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ repeat-x 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ repeat-y 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ no-repeat 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ background-attachment 
+ X 
+ X 
+ 4.0B1 
+ 6.0 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ scroll 
+ X 
+ X 
+ 4.0B1 
+ 6.0 
+ 3.5 
+
+ fixed 
+ X 
+ X 
+ 4.0B1 
+ 6.0 
+ 3.5 
+
+ background-position 
+ X 
+ X 
+ 4.0B1 
+ 6.0 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ [X% Y%] 
+ X 
+ X 
+ 4.0B1 
+ 6.0 
+ 3.5 
+
+ [X Y] 
+ X 
+ X 
+ 4.0B1 
+ 6.0 
+ 3.5 
+
+ [(left|center|right) (top|center|bottom)] 
+ X 
+ X 
+ 4.0B1 
+ 6.0 
+ 3.5 
+
+ background-positionX 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [Percentage] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [Length] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [left|center|right] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ background-positionY 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [Percentage] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [Length] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [top|center|bottom] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ Boring Copyright Stuff...

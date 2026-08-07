@@ -1,0 +1,11 @@
+Current Auctions 
+
+ Current Auctions: 
+
+ Ebay 
+
+ http://cgi6.ebay.com/ws/eBayISAPI.dll?ViewSellersOtherItems&userid=quorthon13&include=0&since=-1&sort=3&rows=25 
+
+ Yahoo 
+
+ none currently

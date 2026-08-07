@@ -1,0 +1,764 @@
+---
+title: "Guestbook"
+source_domain: amasci.com
+source_path: ~lisa/guestbook.html
+order: 4605
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T05:57:40Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Guestbook
+
+*Source page: `~lisa/guestbook.html`*
+
+# Guestbook
+
+Thank you for visiting my pages. I would love it if you would [Add](addguest.html) to this guestbook we are keeping!
+
+------------------------------------------------------------------------
+
+**I own a dance boutique in an upstate NY collegetown, and am interested in offering your CDs for sale in my shop. Do you have wholesale prices for retailers? Thank you!**\
+Mary Ellen Sprague \<<BodyGear1@aol.com>\>\
+Ithaca, NY USA - Tuesday, August 28, 2001 at 00:37:27 (PDT)
+
+------------------------------------------------------------------------
+
+**Cool site.**\
+[Art Bell](http://www.lateniteradio.com)\
+USA - Thursday, August 23, 2001 at 14:26:23 (PDT)
+
+------------------------------------------------------------------------
+
+**Cool!!!**\
+[Phil Taylor](http://www.kansas-city.cc)\
+USA - Monday, August 06, 2001 at 04:13:39 (PDT)
+
+------------------------------------------------------------------------
+
+**"Not all of those to whom we do good love us, neither do all those to whom we do evil hate us." - Joseph Roux**\
+[Jenny Simpson](http://www.dynamicsex.com)\
+Hoboken, NJ USA - Monday, July 23, 2001 at 13:48:31 (PDT)
+
+------------------------------------------------------------------------
+
+**Dancing is a lot of hard work but in the end it always pays off.**\
+Gabriella \<<mommyslildevil666@hotmail.com>\>\
+Setauket, N.Y USA - Saturday, June 30, 2001 at 23:52:18 (PDT)
+
+------------------------------------------------------------------------
+
+**Hey~this was an awesome website! keep it up!**\
+Kelsey \<<kels_29@hotmaill.com>\>\
+Fairmont, MN USA - Saturday, June 16, 2001 at 15:32:47 (PDT)
+
+------------------------------------------------------------------------
+
+**test**\
+lisa \<<lisa@eskimo.com>\>\
+USA - Wednesday, June 13, 2001 at 09:24:51 (PDT)
+
+------------------------------------------------------------------------
+
+**There is only 1 Nicole Sapienza and it's not you sister. So fuck off**\
+Nicole Sapienza\
+belmont, NJ USA - Wednesday, June 13, 2001 at 06:49:04 (PDT)
+
+------------------------------------------------------------------------
+
+**I love the magazine!!!!!!! And the web site is the bomb!!**\
+Victoria Remocaldo \<<Remocaldo@msn.com>\>\
+Richmond, va USA - Friday, June 08, 2001 at 16:44:45 (PDT)
+
+------------------------------------------------------------------------
+
+**I am a ballet teacher in sarasota florida...my daughter dances in new york with american ballet theatre(elizabeth) I am always looking for indpiring classroom music. Please send me a cataloge..thankyou**\
+[Gloria Gaither](gatorglo@mindspring.net) \<<gatorglo@iopener.net>\>\
+sarasota, fl USA - Sunday, May 20, 2001 at 19:05:41 (PDT)
+
+------------------------------------------------------------------------
+
+**great site**\
+[natrajd](http://people.freenet.de/natrajd/index.htm)\
+USA - Friday, April 27, 2001 at 18:42:34 (PDT)
+
+------------------------------------------------------------------------
+
+**Lost your web page and I could not find it until now. I am anxious to order some of your CD'S since I gave mine away to a ballet teacher friend. I have your e-mail address. Mary Ann**\
+Mary Ann P. Van Buskirk \<<nanavb@socal.rr.com>\>\
+Huntington Beach, CA USA - Friday, April 20, 2001 at 14:42:17 (PDT)
+
+------------------------------------------------------------------------
+
+**great site, new to the adult ballet world, having fun dance is a bliss!!!**\
+mark passero \<<arerial@yahoo.com>\>\
+chicago, il USA - Friday, April 20, 2001 at 12:31:02 (PDT)
+
+------------------------------------------------------------------------
+
+**great page, new to the adult ballet world, but, having fun!!**\
+mark passero \<<arerial@yahoo.com>\>\
+chicago, il USA - Friday, April 20, 2001 at 12:29:34 (PDT)
+
+------------------------------------------------------------------------
+
+**This music is the most amazing!It is great for class and it is wonderful just to listen to!If I could I would buy all of the CDs.**\
+Rachael \<<zdrl@epix.net>\>\
+Towanda, PA USA - Saturday, March 31, 2001 at 06:27:51 (PST)
+
+------------------------------------------------------------------------
+
+**GREAT SITE!!! MANY PEOPLE NEED GREAT CD'S LIKE THOSE OFFERED TO EITHER PRACTICE AT HOME OF FOR CLASSES AT THE STUDIO.**\
+Kaileigh \<<lovebug86_04@hotmail.com>\>\
+OH USA - Friday, March 30, 2001 at 09:53:09 (PST)
+
+------------------------------------------------------------------------
+
+**GREAT SITE!!! MANY PEOPLE NEED GREAT CD'S LIKE THOSE OFFERED TO EITHER PRACTICE AT HOME OF FOR CLASSES AT THE STUDIO.**\
+Kaileigh \<<lovebug86_04@hotmail.com>\>\
+OH USA - Friday, March 30, 2001 at 09:52:52 (PST)
+
+------------------------------------------------------------------------
+
+**GREAT SITE!!! MANY PEOPLE NEED GREAT CD'S LIKE THOSE OFFERED TO EITHER PRACTICE AT HOME OF FOR CLASSES AT THE STUDIO.**\
+Kaileigh \<<lovebug86_04@hotmail.com>\>\
+OH USA - Friday, March 30, 2001 at 09:52:23 (PST)
+
+------------------------------------------------------------------------
+
+**great site**\
+[seenu](http://members.tripod.de/seenu/)\
+USA - Sunday, March 25, 2001 at 09:46:39 (PST)
+
+------------------------------------------------------------------------
+
+**Thanks for the "The Magic Wand". Elementary songs I'll never outgrow neither will my students. Thank you Lisa!**\
+Katrina Plybon \<<raplybon@cs.com>\>\
+Marysville, Wa USA - Monday, March 19, 2001 at 17:24:18 (PST)
+
+------------------------------------------------------------------------
+
+**Love your music. Use it every week in class.**\
+Shelly Beech \<<aomdance@aol.com>\>\
+Bartlesville, OK USA - Sunday, February 18, 2001 at 21:03:43 (PST)
+
+------------------------------------------------------------------------
+
+**Beautiful music!**\
+[Jaimie](http://www.expage.com/page/thejaimiepage) \<<JAMKAYC@aol.com>\>\
+St.Pete, FL USA - Sunday, February 18, 2001 at 16:27:22 (PST)
+
+------------------------------------------------------------------------
+
+**Hi. Figured if you had a guestbook, you wanted people to sign it. Well, here's mine!**\
+[Tim Pashly](http://www.SanDiegoForRent.com)\
+San Diego, California USA - Wednesday, February 14, 2001 at 23:14:05 (PST)
+
+------------------------------------------------------------------------
+
+**It's good to learn that you have released the third one. It's a great feeling to share this passion knowing the first time I heard you play on the island. I look forward to hearing this one. Jeremie loves the sound of your guitar. Both Francis and I wish you great success. God bless.**\
+Mary Marsac \<<Mary.Marsac@free.fr>\>\
+Montpellier, France - Wednesday, January 31, 2001 at 12:29:23 (PST)
+
+------------------------------------------------------------------------
+
+**hi miro, wishing you lots of success with your new cd. We love to listen to your music, and are allways proud telling our friends that it is YOU playing the guitarre. Un abrazo fuerte. Paul en Ingeborg**\
+paul & ingeborg \<<Ingeborg-parmet@planet.nl>\>\
+Baarn, netherlands - Sunday, January 14, 2001 at 05:09:27 (PST)
+
+------------------------------------------------------------------------
+
+**hi this is heather ive been dancing for 10 wonderful years... ummm i love the tunes and they set me at ease when i come home from a hard class.....**\
+~\*HEATHER\*~ \<<heather_hunny7474@hotmail.com>\>\
+levittown, pa USA - Friday, January 12, 2001 at 08:38:12 (PST)
+
+------------------------------------------------------------------------
+
+**Lisa, Your CD's for the Ballet Class are wonderful! "Pas de Chat", "Micky's kiss", "Solo Piano" and "Impressions" provide an inspiring mix of classics and popular songs especially appealing to advanced dancers and adults. Thank you for playing so beautifully.**\
+Anonomyous\
+USA - Thursday, January 04, 2001 at 11:59:40 (PST)
+
+------------------------------------------------------------------------
+
+**well done miro all the best with the new cd all i can say is watch out elton here comes miro regards from ariel from wallingford**\
+ariel \<<ariel@zeckler.co.uk>\>\
+uk - Thursday, January 04, 2001 at 03:00:52 (PST)
+
+------------------------------------------------------------------------
+
+**Sorry 'bout that, guestbook didn't work since Dec. 16th. Should be fine now. Happy New Year Christian**\
+[Christian](http://www.webpre.com) \<<bantzer@webpre.com>\>\
+seattle, wa USA - Sunday, December 31, 2000 at 12:57:35 (PST)
+
+------------------------------------------------------------------------
+
+\
+Lisa Schuh \<<LMSchuh@AOL.com>\>\
+Elk Grove, CA USA - Sunday, December 03, 2000 at 19:30:46 (PST)
+
+------------------------------------------------------------------------
+
+\
+katie \<<katie_l_escher@hotmail.com>\>\
+pascagoula, ms USA - Thursday, November 30, 2000 at 19:32:36 (PST)
+
+------------------------------------------------------------------------
+
+**miro does very well for you in UK. But where is his latest cd? Are you about to update soon?**\
+Jo\
+london, - Friday, November 24, 2000 at 06:06:43 (PST)
+
+------------------------------------------------------------------------
+
+**miro does very well for you in UK**\
+Jo\
+london, - Friday, November 24, 2000 at 06:04:30 (PST)
+
+------------------------------------------------------------------------
+
+**i have one of the cd's and i love it! ballet is my all time fav dance!**\
+don't wanna tell \<<k926smile@yahoo.com>\>\
+USA -
+
+------------------------------------------------------------------------
+
+\
+Lolly Pop \<<dancergurl_1213@hotmail.com>\>\
+Franklin, Ma USA - Wednesday, November 08, 2000 at 19:01:52 (PST)
+
+------------------------------------------------------------------------
+
+**I really love your music. It's so beautiful. I just wish you had more song samples.**\
+Allison \<<mingtea80@hotmail.com>\>\
+Almont, MI USA - Wednesday, November 01, 2000 at 20:26:18 (PST)
+
+------------------------------------------------------------------------
+
+**This is great. I really love your music!**\
+[Kristy Key](http://northstar.nhmccd.edu) \<<kristine_key_1999@yahoo.com>\>\
+Houston, TX USA - Monday, October 30, 2000 at 19:42:48 (PST)
+
+------------------------------------------------------------------------
+
+\
+[Kristy Key](http://northstar.nhmccd.edu) \<<kristine_key_1999@yahoo.com>\>\
+Houston, TX USA - Monday, October 30, 2000 at 19:41:39 (PST)
+
+------------------------------------------------------------------------
+
+\
+katie escher \<<katie_lynn_escher@hotmail.com>\>\
+pascagoula, ms \`USA - Saturday, October 21, 2000 at 20:45:35 (PDT)
+
+------------------------------------------------------------------------
+
+**I lost your phone number please forward**\
+Patty \<<anderson.pa.2@pg.com>\>\
+cincinnati, Oh USA - Wednesday, October 18, 2000 at 13:45:03 (PDT)
+
+------------------------------------------------------------------------
+
+**I love your work, and my teacher uses it often. I hope you get some sound samples from the Magic Wand soon. I ordered it for a class I help teach and am looking forward to listening to it.**\
+Tara Kohlstaedt \<<cloud_dancer15@hotmail.com>\>\
+Wellington, MO USA - Sunday, October 08, 2000 at 12:44:07 (PDT)
+
+------------------------------------------------------------------------
+
+**I would like to say that this is my very first year of taking point so I am very excited!I have really been blessed to get through a terrible accident with my ankle this summer! I thank God I can still dance!Please email me and let me know how point is going for you! God Bless, Jenny**\
+Jenny \<<Carolinagirl2006@hotmail.com>\>\
+USA - Thursday, September 28, 2000 at 11:10:17 (PDT)
+
+------------------------------------------------------------------------
+
+**I love to dance! I'm in Outlaw Tap, Jazz-Ballet-and Swing!! If I had a choice to choose my Career right now I would be a dancer!! I love to dance to Brian Setzer! Vavoom!!**\
+Rachel \<[Mlilnutcase@aol.com](mailto:Mlilnutcase@aol.com%0A) \>\
+LeClaire, IA USA - Sunday, September 17, 2000 at 17:32:07 (PDT)
+
+------------------------------------------------------------------------
+
+**I find that your CD's are perfect to use in my ballet classes. I've been using them for a little over a year & find that they work great with most ages & abilities Thank You!**\
+Rachel Kirschner \<<racheledy@hotmail>\>\
+Durham, CT USA - Wednesday, September 06, 2000 at 20:23:49 (PDT)
+
+------------------------------------------------------------------------
+
+\
+Wanda L. Percise \<<Donwanda@mindspring.com>\>\
+Wake Forest, NC USA - Thursday, August 31, 2000 at 09:14:23 (PDT)
+
+------------------------------------------------------------------------
+
+**Lisa: es un gusto conocerte yo soy bailarina y tambien enseo ballet y me fascinan tus msicas, me encantara saber como puedo hacer para comprar tus cd. y que me lleguen aqu a Paraguay. Te deseo muchos exitos.**\
+[Adriana Zaputovich](www.telesurf.com.py) \<<485485@telesurf.com.py>\>\
+Asuncin, Paraguay - Wednesday, August 30, 2000 at 23:21:58 (PDT)
+
+------------------------------------------------------------------------
+
+**Kyle is heartbroken you haven't send any CD's. PLEASE, PLEASE, What have you been up to. Hugs and hugs, Your sister, Patty**\
+Patricia Anderson/Kyle Anderson \<<anderson.pa.2@pg.com>\>\
+Cincinnati, OH USA - Monday, August 28, 2000 at 10:53:58 (PDT)
+
+------------------------------------------------------------------------
+
+**Please send me some CD's for personal use because I am your dear friend. HUGS HUGS HUGS**\
+Patricia Anderson \<<anderson.pa.2@pg.com>\>\
+Cincinnati, Oh USA -
+
+------------------------------------------------------------------------
+
+**Please send me some CD's for personal use because I am your dear friend.**\
+Patricia Anderson \<<anderson.pa.2@pg.com>\>\
+Cincinnati, Oh USA - Thursday, July 13, 2000 at 11:31:44 (PDT)
+
+------------------------------------------------------------------------
+
+**I loved the music samples and am very excited to receive my copies...Thanks Dawn**\
+Dawn Slusher \<<slush@surge.net>\>\
+Elida, OH USA - Wednesday, July 05, 2000 at 13:56:30 (PDT)
+
+------------------------------------------------------------------------
+
+**12235455585455**\
+[ng poh aik](0124550301) \<<top_best_1>\>\
+malaysia - Saturday, July 01, 2000 at 02:49:37 (PDT)
+
+------------------------------------------------------------------------
+
+**thank u for the beautiful classes....i would love it if you made your bands longer....i love billy joel! make more cds soon!!**\
+Dacia\
+San Francisco, CA USA -
+
+------------------------------------------------------------------------
+
+**Do you have a catalog to send me and my partner? 22341 Forman Drive Albany NY 11789 thanks**\
+Otto Kruvman\
+Albany, NY USA - Tuesday, April 11, 2000 at 13:04:10 (PDT)
+
+------------------------------------------------------------------------
+
+**I would love to link your page to mine. Just beginning a small business of supplying dance resources to schools. Do you mail out information on your cds that are available if someone is not InternetAccess? Thank you, donna**\
+[Donna Stephens](http://hometownaol.com/danceart2000/myhomepage/index.html) \<<danceart2000@aol.com>\>\
+McDonough, GA USA - Sunday, April 09, 2000 at 17:01:27 (PDT)
+
+------------------------------------------------------------------------
+
+**Still dancing to your music and hope you are making more than ever**\
+Georgia Sands \<<dodi@aol.com>\>\
+Metarie, LA USA - Friday, April 07, 2000 at 08:37:04 (PDT)
+
+------------------------------------------------------------------------
+
+\
+Courtney \<<cdancer_14@yahoo.com>\>\
+USA - Thursday, March 23, 2000 at 12:48:24 (PST)
+
+------------------------------------------------------------------------
+
+**Juste pour dire felicitation.....et je suis fiere d'ecouter votre musique pour danser et je vais l'utiliser pour ma classe de danse.**\
+Melissa Labbe \<<melissa.labbe@caramail.com>\>\
+Montreal, Qc Canada - Wednesday, March 08, 2000 at 19:48:11 (PST)
+
+------------------------------------------------------------------------
+
+**Hi,Lasa I am ballet accompanist(beginner) in Korea. How can I get your ballet music score? Is it possible on internet? please answer me as soon as possible Bye! have a nice day^^**\
+soo-young \<<sh6625@chollian.net>\>\
+SEOUL, KOREA - Tuesday, March 07, 2000 at 00:02:15 (PST)
+
+------------------------------------------------------------------------
+
+**Hi,Lasa I am ballet accompanist(beginner) in Korea. How can I get your ballet music score? Is it possible on internet? please answer me as soon as possible Bye! have a nice day^^**\
+soo-young \<<sh6625@chollian.net>\>\
+SEOUL, KOREA - Tuesday, March 07, 2000 at 00:02:11 (PST)
+
+------------------------------------------------------------------------
+
+**Love taking ballet class to your music. Our ballet company loves the CD's**\
+Theresa Wolf \<<Ballet4953@AOL>\>\
+Pittsburgh, PA USA - Friday, February 25, 2000 at 04:43:31 (PST)
+
+------------------------------------------------------------------------
+
+**Thank you for your talent. You music inspires me to dance, and I am impressed with your talent.**\
+Leslie Wynn \<<les53@hotmail.com>\>\
+San Francisco, CA USA - Sunday, February 13, 2000 at 18:08:19 (PST)
+
+------------------------------------------------------------------------
+
+**Lisa. As a dancer,your CD's are boring.Could you do something different? My teacher forces us to dance to it and I find it old. You are talened but the selections put me to sleep. Frances**\
+Frances Lee\
+Davis, CA. USA - Sunday, February 13, 2000 at 08:29:03 (PST)
+
+------------------------------------------------------------------------
+
+**Don't know your music but you look good when you ride your bike. Especially from behind. MMMMMMHHHHH!!!!**\
+Hiram \<<guaycura@hotmail.com>\>\
+La Paz, BCS Mexico - Saturday, January 29, 2000 at 15:43:48 (PST)
+
+------------------------------------------------------------------------
+
+**Greetings from the Canary Islands. You are the greatest and we love your music, especially your CD "Alma." I use it for my massage work, very relaxing. Keep up the excellent work.**\
+Karyn Giles and Toniet Riera \<<lasvegas@arrakis.es>\>\
+Arinaga, Spain - Tuesday, January 18, 2000 at 14:15:06 (PST)
+
+------------------------------------------------------------------------
+
+**I think you are very strange.Would you go out with me? I'm at 360-671-4532**\
+Bernard\
+Tacoma, WA USA - Tuesday, November 16, 1999 at 19:16:37 (PST)
+
+------------------------------------------------------------------------
+
+\
+Juliana de Paiva Tosato \<<arlequinade@mandic.com.br>\>\
+Brazil -
+
+------------------------------------------------------------------------
+
+**this site was an awsome site i love it you should keep it always updated you are doing a good job at it**\
+jennifer sheare \<<jazzin234@aol.com>\>\
+carbondale, pa USA - Tuesday, October 05, 1999 at 13:27:08 (PDT)
+
+------------------------------------------------------------------------
+
+**yo, remember, always go the arrivals, it really helps.**\
+bucky brattin \<<bbrattin@signaturesnet.com>\>\
+san francisco, ca USA - Tuesday, September 21, 1999 at 23:12:33 (PDT)
+
+------------------------------------------------------------------------
+
+**Very nice. I will be sure to recommend it to Pamela Hayes Classical Ballet Training here.**\
+Brenda Jew Waters \<<BJewWaters@aol.com>\>\
+Sacramento, CA USA - Thursday, September 16, 1999 at 14:50:45 (PDT)
+
+------------------------------------------------------------------------
+
+**Stuarto, Thanks for telling me about Centerstage. They were very helpful and I bought 3 of Lisa's CD.s and they will help my classes. I will write Lisa as you suggested for a catalog. Thanks Felice**\
+Felice Navanno\
+Boston, MA.. USA - Tuesday, September 14, 1999 at 13:46:20 (PDT)
+
+------------------------------------------------------------------------
+
+**Lisa- Thanks so much for your awesome talent shared with many. Your music is refreshing and uplifting in our classes. We started with your Apres le Plie last semester- the students were AMAZED at how much the new music inspires them to stretch their ability in barre and floor exercises. We are looking forward to the new selections we've ordered today. Thank you for your wonderful website! Miss Lisa/La Petite Pirouette Dance Academy**\
+Lisa Brown \<<tippytoes@elkgrove.net>\>\
+elkgrove, CA USA -
+
+------------------------------------------------------------------------
+
+**Dear Lisa, I am so very, very sorry to hear about your cat Micky. I myself have three cat's which are as much of my life as teaching dance. My heart goes out to you as last year at this time I had to put my cat Tiffany down to sleep and am still grieving myself. Thus your story brought tears. I just wanted to tell you to keep up the great work. I have been using your music in class for over 10 years now and still look forward to your new releases. Please keep them coming.**\
+Amy L. Aichele \<<andrew_aichele@yahoo.com>\>\
+Milwaukee, WI USA - Wednesday, September 08, 1999 at 15:32:00 (PDT)
+
+------------------------------------------------------------------------
+
+**Dear Lisa, I'm from the UK and have dance schools in the South West. We teach the RAD syllabus and I was delighted to receive one of your fabulous cd'd from a South African friend and ballet teacher. We wish to buy your other cd's but they are not easily available in UK so we hope to get them dirct from USA. Thanks for your super music. Jan Cload Sidmouth Ballet School.**\
+[Jan Cload](www.sbsuk.com) \<<dance@sbsuk.com>\>\
+Sidmouth, UK - Saturday, September 04, 1999 at 07:02:14 (PDT)
+
+------------------------------------------------------------------------
+
+**Lisa and Stuarto I got your CD.s Alma and Stuarto at the Oakland Dance shop and at Mill Valley Temple Beth Orr. I found them to be helpful for me as a handicapped woman, to use for relaxation and meditation. Thank you ,Elenor White**\
+Elenor White \<<platt@earthnet.org>\>\
+San Francisco, CA USA - Friday, August 27, 1999 at 13:39:56 (PDT)
+
+------------------------------------------------------------------------
+
+**Until June, 1999, I had worked as an accompanist in ballet classes in Japan. To study at Boston University,I have just come to Boston. I would like to join ballet classes as an accompanist in the USA. Please tell some information sbout Ballet classes in Boston. Thanks for reading my notes.**\
+Izumi Uchida \<<izuzo@bu.edu>\>\
+Boston, MA USA - Tuesday, August 10, 1999 at 13:28:00 (PDT)
+
+------------------------------------------------------------------------
+
+\
+Adele Trahan \<<Trahan18@aol.com>\>\
+Tallahassee, FL USA - Saturday, August 07, 1999 at 08:12:08 (PDT)
+
+------------------------------------------------------------------------
+
+**Shalom Stuarto, My mother passed July 16th.She loved your music.It comforted all of us. When will you make the next CD. We're still dancing!!!!! Thank you**\
+Debby Fuller \<<day-z@aol.com>\>\
+Buffalo, NY USA - Friday, July 30, 1999 at 03:00:29 (PDT)
+
+------------------------------------------------------------------------
+
+**Have two of your CD's... love 'em both!!**\
+Maureen Maguire \<<rompro@mindspring.com>\>\
+Sanfoard, Fl USA - Tuesday, June 22, 1999 at 19:49:45 (PDT)
+
+------------------------------------------------------------------------
+
+**I love the fact that Ms. Harris has included such pieces as gilligan's island, the tango and various broadway hits in her compilations- they liven the mood in ballet class so greatly :)**\
+ivana tamayo \<<skavoovee69@excite.com>\>\
+lake worth, Fl USA - Thursday, June 17, 1999 at 19:14:16 (PDT)
+
+------------------------------------------------------------------------
+
+**Thank you Stuarto for sending the catalog. A friend recently picked up 2 of Lisa's CD,s in NY city and we are using them in our class now. We also love the Jewish music. Sorry it's taken so long to write..Thanks to Lisa!!! Debby and Richard...**\
+Debby Fuller \<<day-z@aol.com>\>\
+Buffalo, ny USA - Monday, May 31, 1999 at 08:52:30 (PDT)
+
+------------------------------------------------------------------------
+
+**Dear Lisa, I was glad to hear from you. I wish you all the best and lots of love. Sara C.**\
+[Sara Campbell](http://www.cvc.net/cvcmem/campbell/ballet.htm) \<<campbell@cvc.net>\>\
+Klamath Falls, OR USA - Tuesday, May 25, 1999 at 14:56:50 (PDT)
+
+------------------------------------------------------------------------
+
+**Qu gusto conocerte! Te escribo en espaol porque creo que hay mucha gente latina contactndote y les va a gustar leer en espaol. Supe de t por la red y ya compr tu msica, estoy eperando que me llegue para vivir la experiencia que todos los que la conocen dicen vivir. Casi no puedo esperar. Te deseo mucha suerte en tu trabajo y espero que sigas produciendo msica inspiradora. Lamento mucho lo de tu gatito, te comprendo bien porque mis dos hijos son gatos. Cuando reciba tu cd te vuelvo a escribir. Estudio de Ballet de Patrizia Gallo.**\
+Patrizia Gallo \<<dalessio@sol.racsa.co.cr>\>\
+San Jos, Costa Rica - Saturday, May 22, 1999 at 01:45:40 (PDT)
+
+------------------------------------------------------------------------
+
+**Just to say that I have enjoyed playing your CDs in my Children's Ballet and Adult Ballet programs. Yours CDs are a wonderful aid for studios and teachers who need a wide range of music for amateur to professional level classes. I am so glad I discovered your CDs last summer ! Shall keep in touch . . . .**\
+Ching Ching Teo \<<tkteo@pacific.net.sg>\>\
+Singapore - Saturday, April 17, 1999 at 08:29:37 (PDT)
+
+------------------------------------------------------------------------
+
+**Hola from Buenos Aires. Thank you everyone for your comments. Lisa Harris**\
+[Lisa Harris](http://www.eskimo.com/~lisa) \<<lisa@eskimo.com>\>\
+buenos aires, AR Argentine - Monday, March 22, 1999 at 08:37:13 (PST)
+
+------------------------------------------------------------------------
+
+**great music... the students here in the philippines will surely bring out their expressions with it.**\
+Arlene Titular \<<rtitular@mozcom.com>\>\
+Laguna, Philippines - Sunday, March 14, 1999 at 05:29:32 (PST)
+
+------------------------------------------------------------------------
+
+**To Lisa: The Stuarto CD is a reminder that I am proud to be Jewish. The music reminds me and my family of all the great Passovers in years past. We have played it during Friday night service.I hope you will do more of these. Also my sister has your Alma CD and we also listen to it.It is very soothing. Keep the music coming. Shalom, Rabbi Doreen Siegal**\
+Doreen Siegal \<<yitogal@aol.com>\>\
+Berkeley, CA USA - Monday, February 22, 1999 at 23:12:43 (PST)
+
+------------------------------------------------------------------------
+
+**Hi, Lisa. Nice Web Page! I will be calling you to see if you have new C.D's. We have them all up till now! I am with Cary Ballet in Cary NC. (formerly with New Paltz School of Ballet in NY, which is where we ordered from you before) All of our teachers love your music. Talk to you soon..Pat**\
+Pat Laliberte' \<<Pat53140@AOL.com>\>\
+Cary, NC USA - Monday, February 22, 1999 at 23:11:33 (PST)
+
+------------------------------------------------------------------------
+
+**Lisa, Love the cats, but you need to get a dirty bird baby!**\
+Jamal \<[Dirty Birds.com](mailto:Dirty%20Birds.com)\>\
+Hotlanta, GA USA - Tuesday, January 19, 1999 at 20:05:49 (PST)
+
+------------------------------------------------------------------------
+
+**HI LISA HARRIS, I THOUGHT I WOULD WRITE THIS LETTER TO INTRODUCE MYSELF AS MY NAME IS ALSO LISA HARRIS.**\
+LISA HARRIS \<<REST@HOTMAIL.COM>\>\
+BRISBANE, QL AUSTRALIA - Friday, January 15, 1999 at 02:14:22 (PST)
+
+------------------------------------------------------------------------
+
+**Hi Thank you Stuarto for a great CD.Our synagogue loves it and would like to carry it in our store. It is a special treat for our dance circle. Will you be on the east coast? I would love to meet you. Thank you, Jene'**\
+Jene' Vannette' \<<jvt@donfriday.org>\>\
+Buffalo, NY USA - Thursday, January 14, 1999 at 01:19:54 (PST)
+
+------------------------------------------------------------------------
+
+**Dear Lisa, I was delighted to have met you today at A-Z Dance studio in Las Vegas. You were so very gracious and warm. Your CD "Pas De Chat" is a perfect addition to our class structure and will be used thoroughly. Hope to be getting the other discs shortly. You are a very talented and lovely artist. Thank you for sharing your gift with us at A-Z Dance. Sincerely, Jasmine Gamal**\
+Jasmine Gamal \<<AtoZDance@aol.com>\>\
+Las Vegas, NV USA - Tuesday, January 12, 1999 at 14:34:45 (PST)
+
+------------------------------------------------------------------------
+
+**Hi Miss Lisa Harris, I sure did enjoyed your fabulous piano music very much indeed. I would like to now if you are married. And if not I would like to get to know you better. I'm a 41yrs. young Tex-Mex that enjoys all kinds of classical music. I'm a Spanish Classical Guitar player too. Who nows maybe someday we will be playing great music together. Call me if you can at: 713.246.1008 Have a Happy New Year 1999! Good-bye Lisa...**\
+Jose G. Ramos, Jr. \<<rainman357@yahoo.com>\>\
+pasadena, tx USA - Saturday, December 26, 1998 at 17:12:41 (PST)
+
+------------------------------------------------------------------------
+
+**.Dearest Lisa...Thanks for letting me be Mickey's step-dad. I spent much time with him over the last year and a half.He often was by my side as I worked around the house. In the garden, in the backyard, in the shed and on the trampoline. The love he had was amazing, for me, all the other kitties, but especially for you.He would kiss you in the morning,and when you came home he would light up with joy hearing you come through the door.Mickey died as I was holding him at the vet, on that cold Friday. While you waited in the next room his spirit soared..It was not easy to come and tell you. He is a great part of our life together and will always be one of the loving bonds between us...He sleeps in his garden, under his tree and next to his cup of tea........ILYS**\
+stuarto \<<stuarto@w-link.net>\>\
+Seattle, Wa USA - Wednesday, December 02, 1998 at 11:58:50 (PST)
+
+------------------------------------------------------------------------
+
+**Hi Lisa. You have a very nice webpage.**\
+Afami Zoe \<<zafam@hotmail.com>\>\
+Limassol, Cyprus - Sunday, September 06, 1998 at 14:19:11 (PDT)
+
+------------------------------------------------------------------------
+
+**Lisa, I have enjoyed your music in my dance classes. You make class planing easy. I have shared your CD with other dance teachers. They all agree that your music is great. Thanks. Susan**\
+Susan Dykes \<<ssdykes@mailexcite.com>\>\
+farmville, va USA - Saturday, August 22, 1998 at 21:39:48 (PDT)
+
+------------------------------------------------------------------------
+
+**I am always looking for new music for my dance classes, I like your wed site very much and I am looking forward to hearing & using your music in my classes! I would like to see you record some music for the little ones in my studio! Thank You! Cindy's Le\` Danse Studio**\
+Cindy St, Martine \<<Danser38@hotmail.com>\>\
+Phila, PA USA - Monday, August 17, 1998 at 11:37:23 (PDT)
+
+------------------------------------------------------------------------
+
+**I have found your music very helpful, I hope you will continue to make more great albums!!**\
+[Nicole Sapienza](http://www.angelfire.com/md/otb2) \<<dancer1028@hotmail.com>\>\
+LaPlata, MD USA -
+
+------------------------------------------------------------------------
+
+**Hi Lisa! I enjoyed your site very much; I play piano for Merseyside Dance & Drama Centre here and I'm outnumbered by the men so it's great to find a woman pianist on the Web!**\
+Chris Brown \<<Daffodil_Jones@hotmail.com>\>\
+Liverpool, UK - Saturday, July 04, 1998 at 10:34:40 (PDT)
+
+------------------------------------------------------------------------
+
+**I love my ballet CD. Even my daughter loves to dance around the room when your music is on.**\
+Edie Rice \<<ERicemusic@AOL.com>\>\
+El Segundo, CA USA - Thursday, July 02, 1998 at 21:42:51 (PDT)
+
+------------------------------------------------------------------------
+
+**Lisa Harris is a talented and skilled pianist. She is a delightful woman with a great sense of humor. Sincerely, Martin A. Totusek, Keyboardist/Bandleader**\
+[Martin A. Totusek](http://www.scn.org/~bb553/) \<<bb553@scn.org>\>\
+Seattle, WA USA - Friday, June 26, 1998 at 00:36:39 (PDT)
+
+------------------------------------------------------------------------
+
+**Your music has been used in my classroom since I found you at SRP Productions! Keep up the wonderful work! AVERY BALLET**\
+[Lisa Snape Avery/Avery Ballet](http://www.erols.com/klcavery) \<<klcavery@erols.com>\>\
+Spotsylvania, VA USA - Sunday, June 21, 1998 at 06:10:47 (PDT)
+
+------------------------------------------------------------------------
+
+**Hi Lisa, I miss your playing, come back to inspire me,lots of love**\
+Kim David McCarthy \<<Skippy@netcom.es>\>\
+Madrid, Spain - Monday, May 25, 1998 at 08:16:07 (PDT)
+
+------------------------------------------------------------------------
+
+**Your music is just beautiful**\
+Daphine Ates \<<Misti33@worldnet.att.net>\>\
+Newark, NJ USA - Sunday, May 24, 1998 at 15:50:09 (PDT)
+
+------------------------------------------------------------------------
+
+**hello**\
+yankee, mn USA - Monday, May 11, 1998 at 13:18:21 (PDT)
+
+------------------------------------------------------------------------
+
+**Hi Lisa,greetings from Frankfurt.Great website!**\
+Kathryn Bennetts \<<kab@frankfurt.netsurf.de>\>\
+Frankfurt, Germany - Sunday, April 05, 1998 at 14:09:10 (PDT)
+
+------------------------------------------------------------------------
+
+**Dear Lisa, Great web site!Would be nice to see you soon.Of course I still live in Frankfurt!!**\
+Kathy Bennetts \<<kab@frankfurt.netsurf.de>\>\
+Frankfurt, Germany -
+
+------------------------------------------------------------------------
+
+**HI LiSA!!!! I Can't find your Phone \# Send me an E-mail!!!! There's 3 lisa Harrises in seattle and you ain't one of them!!! Hughs and lots of kisses Fernando**\
+Fernando \<<fernand2@mail.idt.net>\>\
+ny, ny USA - Sunday, February 22, 1998 at 21:59:22 (PST)
+
+------------------------------------------------------------------------
+
+**Love using your music for class (My Favourite Ballet Class) because it has such vitality and is right for each quality of movement**\
+amatthew \<<pirouette@img.net>\>\
+Penticton, BC Canada - Sunday, February 08, 1998 at 13:01:55 (PST)
+
+------------------------------------------------------------------------
+
+**I look forward to bringing your new recordings into my ballet classes. Jane**\
+Jane R. \<<roberts@fsi.net>\>\
+Nazareth, Pa USA - Thursday, January 29, 1998 at 06:45:10 (PST)
+
+------------------------------------------------------------------------
+
+**BRAVO!**\
+DAVID(DAH WEI) HSU \<<HTTP://DAVIDSSS@MS14.HINET.NET>\>\
+TAIWAN - Tuesday, January 13, 1998 at 19:31:55 (PST)
+
+------------------------------------------------------------------------
+
+**I enjoyed visiting this page. I would appreciate it very much to receive your advise on what the best music for classical ballet classes is recommended. I belong to the "Ballet Nacional del Paraguay"**\
+diana ivanauskas \<<felippo1@infonet.com.py>\>\
+asuncion, paraguay - Sunday, January 11, 1998 at 12:57:19 (PST)
+
+------------------------------------------------------------------------
+
+**Enjoyed your pafes. could not retreive the music sampels. Happy Holidays. Come visit and sign my guest book when you have time Crystal Wolf**\
+[Mary B](http://cc.northcoast.com/~buzzerb) \<<buzzerb@cc.northcoast.com>\>\
+Crescent City, CA USA - Monday, December 15, 1997 at 12:06:08 (PST)
+
+------------------------------------------------------------------------
+
+**Lisa, this is one nifty homepage you've got here. I hope the business is going well. We need to go out for sushi still :)**\
+Angela Gasperetti \<<trueseek@u.washington.com>\>\
+Seattle, WA USA - Monday, December 08, 1997 at 12:47:44 (PST)
+
+------------------------------------------------------------------------
+
+**good working with your music,thank you**\
+corrina \<<askew@melborn.com>\>\
+sidney, Aust - Wednesday, November 26, 1997 at 16:30:25 (PST)
+
+------------------------------------------------------------------------
+
+**Hey Lisa, you're the best in the world (as the world is well aware) any new jokes?**\
+Frank Schramm \<<franks@rio.com>\>\
+Eugene, OR USA - Monday, November 24, 1997 at 14:18:47 (PST)
+
+------------------------------------------------------------------------
+
+**Dear Lisa, Thanks for being such a great person and friend! Best of luck to you! Love, Aubrey**\
+Aubrey Glasser\
+Bellingham, WA USA - Sunday, November 09, 1997 at 12:43:31 (PST)
+
+------------------------------------------------------------------------
+
+**Dear Lisa, We are a new Dance Company and look forward to using music in our classes. Thank you.**\
+Tammy Zydel \<<L2Dance@aol.com>\>\
+Chesterfield, MI USA - Thursday, November 06, 1997 at 11:30:57 (PST)
+
+------------------------------------------------------------------------
+
+**THANKS FOR THE MUSIC, IT REALLY BRIGHTENS UP CLASS.**\
+JESSICA \<<U149529@PPC.EDU>\>\
+PGH, PA USA - Saturday, November 01, 1997 at 10:30:48 (PST)
+
+------------------------------------------------------------------------
+
+**Lisa: it is a pleasure to cooperate with you selling each others CDs. Maybe one day the sales of Classical Guitar CDs will be close to those of Piano for Ballet! Love**\
+Miro \<<vdmplatypus@madrid.co.uk>\>\
+Madrid, Spain - Wednesday, October 29, 1997 at 07:14:38 (PST)
+
+------------------------------------------------------------------------
+
+**Dear Lisa, not only me and your friends are missing you in Spain but also all the dancers and specially our piano.We love you.**\
+carlos iturrioz \<<mediart@mad.servicom.es>\>\
+madrid, Spain - Tuesday, October 28, 1997 at 23:38:23 (PST)
+
+------------------------------------------------------------------------
+
+**Thank you for the wonderful music. You play with such feeling. Jill**\
+jill \<<jill@aol.com>\>\
+chicago, IL USA - Saturday, October 18, 1997 at 19:20:34 (PDT)
+
+------------------------------------------------------------------------
+
+**Lisa: I am excited about the new stuff.So are the cats... ILYS**\
+Stuarto \<<stuarto@nwlink.com>\>\
+Seattle, WA USA - Monday, October 13, 1997 at 13:11:18 (PDT)
+
+------------------------------------------------------------------------
+
+**Hi Lisa, Great web page. nice music!**\
+Christian\
+USA - Friday, October 10, 1997 at 17:18:51 (PDT)
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+- [Back to My Home Page](index.html)\
+- Scripts and Guestbook created by Matt Wright and can be found at [Matt's Script Archive](http://worldwidemart.com/scripts/)
+- Adapted for use on [Eskimo North](http://www.eskimo.com) by [Web-presentatives](http://www.webpre.com)

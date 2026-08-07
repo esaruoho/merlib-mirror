@@ -1,0 +1,369 @@
+---
+title: "Calipers Ring and Finger Gauges"
+source_domain: amasci.com
+source_path: ~two/106.htm
+order: 9005
+reachable_from_entry: false
+images: 10
+internal_links: 4
+extracted: 2026-08-07T06:01:30Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Calipers Ring and Finger Gauges
+
+*Source page: `~two/106.htm`*
+
+<div align="center">
+
+<table data-border="0" data-cellpadding="0" data-cellspacing="0" width="100%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="50%" data-valign="top"><div data-align="center">
+<table data-border="0" data-cellpadding="0" data-cellspacing="0" width="100%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="50%" data-valign="top"><img src="images91_120/35-174b.jpg" data-border="0" width="229" height="220" /><br />
+<br />
+<br />
+<img src="images91_120/35-284b.jpg" data-border="0" width="255" height="100" /><br />
+<br />
+<br />
+<img src="images91_120/35-290b.jpg" data-border="0" width="261" height="79" /></td>
+<td width="50%" data-valign="top"><img src="images91_120/35-158.jpg" data-border="0" width="96" height="272" /><br />
+<br />
+<img src="images91_120/35-156.jpg" data-border="0" width="77" height="217" /></td>
+</tr>
+</tbody>
+</table>
+</div></td>
+<td width="50%" data-valign="top"><div data-align="center">
+<table data-border="0" data-cellpadding="0" data-cellspacing="0" width="100%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="50%" data-valign="top"><p><img src="images91_120/46-298.jpg" data-border="0" width="103" height="181" /><br />
+<br />
+<br />
+<br />
+<img src="images91_120/35-254b.jpg" data-border="0" width="109" height="82" /><br />
+<br />
+<br />
+<br />
+</p></td>
+<td width="50%" data-valign="middle"><img src="images91_120/35-012b.jpg" data-border="0" width="230" height="175" /></td>
+</tr>
+<tr>
+<td colspan="2" width="50%" data-valign="top"><p><img src="images91_120/35-256b.jpg" data-border="0" width="261" height="100" /></p></td>
+</tr>
+</tbody>
+</table>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<div align="center">
+
+**Calipers**
+
+</div>
+
+**(1) COLUMBUS STYLE VERNIER CALIPER**- Combination metric and inch. Capacity 5" or 125mm. Vernier reads to 1/128" and 1/10mm. Has thumb roller and locking screw, Jaws measure inside and outside. Depth gauge in end.
+
+35.174
+
+ShpWt 3 oz
+
+\$5.00
+
+**(2) STAINLESS VERNIER CALIPER** -Metric and inch. Capacity 6 1/4" or 179mm. Vernier reads to 1/128" or 1/20mm. Thumb release locks in measurement. Glass-hard inside and outside jaws, with depth gauge in end. Comes in pouch.
+
+35.178
+
+ShpWt 8 oz
+
+\$31.95
+
+**(3)   Electronic Digital Caliper**
+
+This stainless steel caliper measures in millimeters or inches and has a range of 0-150mm or 0-6 inches. It is accurate to 0.01mm or 0.001 inches. Carrying case & battery included.
+
+35.179
+
+ShpWt 1 lb.
+
+\$99.95
+
+**(4)  HIGH-IMPACT PLASTIC DIAL CALIPERS** - Large 1 1/2" diameter dial make it easy to read graduations. Jaws measure inside and outside, with depth gauge in end. Available in either metric or inch models. Economical, unbreakable, and lightweight. Shipping weight 2 oz each.
+
+No.
+
+Capacity
+
+Graduations
+
+Each
+
+35.182
+
+6"
+
+0.010"
+
+\$32.25
+
+35.184
+
+150 mm
+
+0.1 mm
+
+33.75
+
+**(5) DELUXE BRASS GAUGE** This gauge is equipped with a metal underplate that allows for easy measuring.
+
+35.158
+
+ShpWt 10 oz.
+
+\$7.25
+
+**(6)  POCKET SLIDING GAUGE** - Combination mm and inch. Capacity 3" or 80mm. Graduations by 1/16" and 1.0mm. Vernier scale reads to 0.1 mm. Made of brass.
+
+35.156
+
+ShpWt 2 oz
+
+\$11.40
+
+ 
+
+**Ring and Finger Gauges**
+
+**(7)  PLASTIC FINGER GAUGES** - Inexpensive plastic molded rings on chain, graduated by half sizes from 1 to 13. Name tag allows you to attach your store label, so that you can give the set to prospective ring buyers.
+
+35.254
+
+ShpWt 2 oz
+
+\$2.25
+
+**(8)   STANDARD FINGER GAUGES** - For measuring fingers for normal width rings. Graduated in half sizes by U.S. Standard. Available in flat or half-round wedding ring styles with numerals that are stamped and colored for easier reading. All are brightly plated. Shipping weight 3 oz each.
+
+No.
+
+Style
+
+Sizes
+
+Each
+
+35.256
+
+Flat
+
+13-Jan
+
+\$13.75
+
+35.258\*
+
+Flat
+
+13-Jan
+
+14.00
+
+35.260\*
+
+Flat
+
+15-Jan
+
+9.25
+
+35.262
+
+Half-round
+
+13-Jan
+
+14.95
+
+\* numbers are in color for easier reading
+
+**(9)  WIDE FINGER GAUGES** - For measuring fingers for extra wide rings. Graduated by half sizes from 1 to 15.
+
+35.264
+
+ShpWt 9 oz
+
+\$19.75
+
+**(10)  POCKET FINGER GAUGES** - Fits pocket so can be carried easily. For measuring fingers for normal width rings. Graduated by half sizes from 1 to 13 with colored numerals.
+
+35.266
+
+ShpWt 4 oz
+
+\$14.95
+
+**(11)  HOLLOW METAL RING STICKS** - For measuring rings 1 to 15 by quarter sizes to U.S. Standard. Also has gauge to show length of material needed to make specific sizes of rings. Nickel-plated with wood handles. These lightweight, well-made sticks are available plain or with grooves for stone set rings. ShpWt 6 oz.
+
+35.284
+
+Grooved style
+
+\$13.50
+
+35.286
+
+Plain style
+
+\$13.50
+
+ 
+
+**\
+\
+(12)  ALUMINUM RING STICKS** - For measuring rings 1 to 13 by 1/4 sizes to U.S. Standard. These are solid aluminum, available plain or grooved for stone set rings.\
+ShpWt 8 oz.
+
+35.280
+
+Grooved style
+
+\$14.50
+
+35.282
+
+Plain Style
+
+\$14.50
+
+**(13) UNIVERSAL ALUMINUM RING STICKS**
+
+Measures by US and European ring sizes. US sizes in quarter sizes, 2 - 15. No groove.
+
+35.0174
+
+ShpWt 8 oz.
+
+\$12.00
+
+**(14)   PLASTIC RING STICKS** - For measuring rings 1 to 15 by quarter sizes to U.S. Standard.
+
+35.288
+
+Grooved style ShpWt 3 oz
+
+\$3.75
+
+**(15)  DELUXE PLASTIC RING STICK** - For measuring rings 1 to 15 by quarter sizes to U.S. Standard. Also has gauge to show length of material needed to make specific sizes of rings. Grooved to accept stone set rings.
+
+35.290
+
+ShpWt 4 oz
+
+\$43.50
+
+**Degree Gauges**
+
+**(16)  DEGREE GAUGE** - Lightweight, sensitive gauge made of polished steel. Easy-to-read. Non-adjustable. ShpWt 2 oz.
+
+No.
+
+Capacity
+
+Graduations
+
+Each
+
+35.012
+
+150mm
+
+1/10mm
+
+\$31.00
+
+**(17)  ADJUSTABLE DEGREE GAUGE** -adjustable point for close tolerance work. ShpWt 3 oz.
+
+No.
+
+Capacity
+
+Graduations
+
+Each
+
+35.018
+
+150mm
+
+1/10mm
+
+\$32.00
+
+**(18)   Mini Degree Gauge** - For accurate measurements of stones and other small objects. Stainless steel. The jaws are precision ground and accurate to 1/10mm.
+
+No.
+
+Capacity
+
+Graduations
+
+Each
+
+46.298
+
+10mm
+
+1/\`10mm
+
+\$18.95
+
+Prices Subject to Change Without Notice.
+
+<div align="center">
+
+[Previous Page](105.htm)
+
+</div>
+
+[Next Page](107.htm)
+
+[Index A thru G](index_A_G.htm)
+
+<div align="center">
+
+<table data-border="0" data-cellpadding="0" data-cellspacing="0">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><a href="index.html" onmouseover="chGraphic(&#39;java&#39;,&#39;over_java&#39;)" onmouseout="chGraphic(&#39;java&#39;,&#39;normal_java&#39;)"></a>
+<p><img src="images/blueoff.gif" id="java" data-border="0" width="50" height="30" /><br />
+<strong>Home</strong></p></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+Page 106

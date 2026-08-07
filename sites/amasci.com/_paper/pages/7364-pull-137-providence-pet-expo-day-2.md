@@ -1,0 +1,900 @@
+---
+title: "Pull 137 -- Providence Pet Expo -- Day 2"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0102/Pull137.html
+order: 7364
+reachable_from_entry: false
+images: 0
+internal_links: 4
+extracted: 2026-08-07T05:59:59Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 137 -- Providence Pet Expo -- Day 2
+
+*Source page: `~samoyed/iwpa/0102/Pull137.html`*
+
+Providence Pet Expo\
+Providence, Rhode Island
+========================
+
+Pull: 137
+
+Organizer(s):Anthony Statuto
+
+Wheels on Carpet Region: 5
+
+Track:
+
+Indoor Concrete
+
+Date: Sun 10 Mar 2002
+
+Weather:
+
+indoor
+
+Day 2 of 2
+
+<div align="center">
+
+<table data-border="1" data-cellpadding="2" data-bordercolorlight="#0000FF" data-cellspacing="1" data-bordercolordark="FF0000">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2">Color<br />
+Codes</td>
+<td><em><strong>%</strong></em> -- Working Dog (WD) Leg Eligibility</td>
+<td data-bgcolor="#FFFF00">WD</td>
+<td data-bgcolor="#00FFFF">WD Excellent</td>
+<td data-bgcolor="#00FF00">WD Superior</td>
+</tr>
+<tr>
+<td><strong><em>Handler</em></strong> -- Owner / Handler relationship</td>
+<td><p>Owner</p></td>
+<td data-bgcolor="#FFFF00">Family Member</td>
+<td data-bgcolor="#00FFFF">Other Membership</td>
+</tr>
+</tbody>
+</table>
+
+Chief Judge: Anthony Statuto
+
+</div>
+
+20 \# Class\
+Judged by Anthony Statuto\
+50 \# Start weight, 50 \# Increment, Cart weighs 50 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Sugar
+
+11
+
+350
+
+13.54
+
+13
+
+26.92
+
+5.0
+
+Emmanual Faxio
+
+Jack Russell Terrier
+
+40 \# Class\
+Judged by Ron Poitras\
+500 \# Start weight, 150 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Daisy
+
+5
+
+1250
+
+19.28
+
+37
+
+33.78
+
+7.0
+
+Brian Corbett
+
+Am. PitBull Terrier
+
+Took
+
+5
+
+1100
+
+10.81
+
+40
+
+27.50
+
+4.0
+
+Noel Palmer
+
+Am. PitBull Terrier
+
+Bella
+
+5
+
+1100
+
+11.40
+
+37
+
+29.73
+
+1.0
+
+Robert Viereck
+
+Am. PitBull Terrier
+
+60 \# Class\
+Judged by Ron Poitras\
+200 \# Start weight, 150 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Snoopy
+
+5
+
+2000
+
+18.01
+
+52
+
+38.46
+
+9.0
+
+Anthony Statuto
+
+Am. PitBull Terrier
+
+Precious
+
+11
+
+1850
+
+18.49
+
+60
+
+30.83
+
+6.0
+
+Dwayne Phipps
+
+Am. Bull Dog
+
+Lady Bug
+
+11
+
+1700
+
+39.59
+
+58
+
+29.31
+
+3.0
+
+Wendell Faxio
+
+Am. Bull Dog
+
+Kindr
+
+5
+
+1550
+
+27.70
+
+59
+
+26.27
+
+1.0
+
+Debi Pruznick
+
+Samoyed
+
+Montauk
+
+5
+
+1400
+
+50.51
+
+60
+
+23.33
+
+0.5
+
+Robert Boudreau
+
+Am. PitBull Terrier
+
+80 \# Class\
+Judged by Stephen Palinkas\
+200 \# Start weight, 200 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Babe
+
+5
+
+2200
+
+13.40
+
+80
+
+27.50
+
+11.0
+
+Ron Poitras
+
+Am. Bull Dog
+
+Loki
+
+5
+
+2200
+
+64.67
+
+79
+
+27.85
+
+8.0
+
+Melanie Morehouse
+
+Alaskan mix
+
+K-Oz
+
+P
+
+2000
+
+12.16
+
+80
+
+25.00
+
+.
+
+Kris Jackson
+
+Am. Bull Dog
+
+Captain
+
+5
+
+2000
+
+50.59
+
+66
+
+30.30
+
+3.0
+
+Richard Dunn
+
+Am. PitBull Terrier
+
+Norman
+
+5
+
+1800
+
+15.90
+
+64
+
+28.13
+
+2.0
+
+Michelle Falcon
+
+Am. PitBull Terrier
+
+Nita
+
+5
+
+400
+
+37.79
+
+72
+
+5.56
+
+1.0
+
+Kelley Ford
+
+Am. Bull Dog
+
+Magnum
+
+5
+
+No Pull /400
+
+66
+
+.
+
+0.0
+
+Peter Bernier
+
+Am. PitBull Terrier
+
+100 \# Class\
+Judged by Brian Corbett Apprenticing under Stephen Palinkas\
+200 \# Start weight, 200 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Ozone
+
+11
+
+2600
+
+55.09
+
+88
+
+29.55
+
+13.0
+
+Dwayne Phipps
+
+Am. Bull Dog
+
+Nitro
+
+11
+
+2400
+
+30.59
+
+88
+
+27.27
+
+10.0
+
+Dwayne Phipps
+
+Am. Bull Dog
+
+Infamous
+
+5
+
+2400
+
+31.22
+
+85
+
+28.24
+
+7.0
+
+Richard Dunn
+
+Am. PitBull Terrier
+
+Patch
+
+5
+
+2400
+
+58.47
+
+92
+
+26.09
+
+5.0
+
+Phil Kanakis
+
+Am. Bull Dog
+
+Beau
+
+5
+
+2200
+
+10.79
+
+98
+
+22.45
+
+4.0
+
+Anthony Statuto
+
+Bull Mastiff
+
+Thor
+
+5
+
+2200
+
+65.97
+
+91
+
+24.18
+
+3.0
+
+Ron Poitras
+
+Am. Bull Dog
+
+Chubbs
+
+5
+
+2000
+
+8.10
+
+100
+
+20.00
+
+2.0
+
+Kelley Ford
+
+Am. Bull Dog
+
+Jazz
+
+5
+
+1600
+
+35.35
+
+100
+
+16.00
+
+1.0
+
+Carlene Way
+
+Alaskan Malamute
+
+Muddy
+
+5
+
+1000
+
+14.34
+
+82
+
+12.20
+
+0.5
+
+Brian Wilkenson\
+Stephen Palinkas
+
+Alaskan Malamute
+
+125 \# Class\
+Judged by Stephen Palinkas\
+200 \# Start weight, 250 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Atom
+
+11
+
+2950
+
+49.38
+
+120
+
+24.58
+
+7.0
+
+Dwayne Phipps
+
+Am. Bull Dog
+
+Bogie
+
+11
+
+2700
+
+74.48
+
+119
+
+22.69
+
+4.0
+
+Brenda Lemon
+
+Alaskan Malamute
+
+Unbeliveable time.
+
+Baloo
+
+5
+
+1450
+
+9.07
+
+114
+
+12.72
+
+1.0
+
+Jane Palinkas\
+Stephen Palinkas
+
+Alaskan Malamute
+
+150 \# Class\
+Judged by Stephen Palinkas\
+200 \# Start weight, 250 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Chelsea
+
+5
+
+2700
+
+12.36
+
+138
+
+19.57
+
+6.0
+
+Joost Postma
+
+Saint Bernard
+
+Grizzly
+
+5
+
+1700
+
+9.20
+
+135
+
+12.59
+
+3.0
+
+Robert Wilson
+
+Saint Bernard
+
+Unlimited Class\
+Judged by Stephen Palinkas\
+200 \# Start weight, 250 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Bella
+
+5
+
+3200
+
+11.02
+
+156
+
+20.51
+
+9.0
+
+Pat Postma
+
+Saint Bernard
+
+Ike
+
+5
+
+3200
+
+15.27
+
+175
+
+18.29
+
+6.0
+
+Joost Postma
+
+Saint Bernard
+
+Soloman
+
+5
+
+2700
+
+14.11
+
+169
+
+15.98
+
+3.0
+
+Shelly Angevine
+
+Saint Bernard
+
+Bugsy
+
+5
+
+2700
+
+19.44
+
+162
+
+16.67
+
+1.0
+
+Richard Angevine
+
+Saint Bernard
+
+Emma
+
+5
+
+2200
+
+21.46
+
+170
+
+12.94
+
+0.5
+
+Richard Angevine
+
+Saint Bernard
+
+Last Updated: 03:46:28 on 04-04-2002
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull136.html) | [Next Pull \#](Pull138.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

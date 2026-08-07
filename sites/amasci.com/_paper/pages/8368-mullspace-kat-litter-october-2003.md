@@ -1,0 +1,192 @@
+---
+title: "Mullspace | Kat Litter | October, 2003"
+source_domain: amasci.com
+source_path: ~strange/litter/octlitter03.html
+order: 8368
+reachable_from_entry: false
+images: 1
+internal_links: 8
+extracted: 2026-08-07T06:00:51Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mullspace | Kat Litter | October, 2003
+
+*Source page: `~strange/litter/octlitter03.html`*
+
+<span id="top"></span>
+
+<div align="center">
+
+<img src="../images/MullChalk03a.jpg" data-border="0" alt="Welcome to Mullspace" />\
+<a href="../katbox.html" class="nav">Portal</a> \| <a href="litter.html" class="nav">Kat Litter</a> \| <a href="../fiction/fiction.html" class="nav">Tales</a> \| <a href="../nfiction/nfiction.html" class="nav">Lectures</a> \| <a href="../gallery.html" class="nav">Eye Candy</a> \| <a href="../list.html" class="nav">Accreations</a> \| <a href="../resume.html" class="nav">Kat Who?</a> \| <a href="mailto:mull.space@lycos.com" class="nav">Poke</a>
+
+</div>
+
+\
+\
+
+# October, 2003
+
+\
+
+posted: October 10, 2003
+
+\
+
+## Bootsie
+
+\
+
+It's officially Autumn, now, in my mind; I have switched from shoes to boots. I have switched from cute, fluffy, moderately athletic girl to assertive, acerbic cynic. All of this because of a pair of shoes and a black leather jacket (nice one, too).
+
+In my sandals, deck shoes or barefoot, I am lighter of step and lighter of heart, lighter of speech and lighter of mind. Even in fleece-lined slippers, my demeanor is more open and carefree. But once the weather darkens, grows cold and bitter, out come the boots and the jacket and with them comes the 'tude. I cease to walk, to skip, to stroll, and begin to stride, to slink, to stalk with bold and arrogant tread. It's not me, man: it's the shoes!
+
+One cannot walk with light and dancerly foot in four-pound walking boots, but one must be a badass, striking heels first. Nor can one walk casually in four-inch-heeled, black-leather thigh-highs, but one must be a prowling creature of sensuality. What choice is there? I have the boots and I must walk.
+
+It's the stride that does it. Clothes may make the man, but for women, it's all in the way you move your hips. A man puts on his shirt and jacket and he has armored himself in his attitude for the day, and it is the same attitude as most days of the week, until the pullovers and sweats come out on the weekend. His shoes are just an accessory to protect his feet from cold or curious critters. But when a woman dresses, she puts on her attitude with her shoes. And for every outfit, the right attitude must be matched.
+
+Women are inculcated to please, to be agreeable and, so, they must have shoes which match their outfits: shoes for dresses which proclaim them "no threat," or "dangerous"; "secretary," or "boss". The little black dress needs little black shoes, most of the time, but a real wild girl wears red. It's in the rules. And you can tell a rule-breaker by the shoes she wears....
+
+What uproar ensues if MaryJane puts on her bovver boots instead of her ankle-straps! Suddenly she has thrown a curve, asserted that she is both sweet and punkish, still adorable, but capable of kicking your ass, none the less. She goes from flower-girl to rebel just by changing her shoes.
+
+This, you see, is the miracle of footwear, which men have rarely mastered. When they meet a woman with a closet full of pumps, sandals, sneakers and boots they are usually amused, if not appalled, and cannot imagine what she needs with all those shoes. But, at the risk of being found dead in a dark alley with my throat cut by a fingernail file and the word "fink" scored into my forehead in lip gloss, I'm going to tell you the horrible truth:
+
+Those aren't shoes, lads; they're attitude modifiers.
+
+Men may drink to reset their harried world, but women change shoes; the ultimate happy hour for both sexes would take place at a hosted bar installed at the Plaza Shoes level of Nordstrom.
+
+A woman who changes her stride is a woman changed, indeed. A high heel demands that she walk like a stalking panther, hips first and breasts upthrust, unless she wants to look like Whoopi Goldberg or fall on her nose. The hard sole of a boot insists on an authoritative stride while the lightness of a ballet slipper enjoins her to dance, as who could not with feet so light and pretty? Beware of a woman who owns only one pair of shoes, for she has no mystery.
+
+Either that, or she lives on a boat...
+
+and keeps the spares in storage with the long, black coat..
+
+\
+
+This Litter went up on Oct. 10 with the title "Made for Stalkin'" but it was changed to the current title the next day to discourage the impression that I was writing about or in any way advocating stalking.
+
+\
+\
+
+posted: October 18, 2003
+
+\
+
+## ... And Taxes
+
+\
+
+The car ahead has a bumper sticker on it which reads "Follow me to Certain Death." This seems a bit silly since, so far as we know, Death is the only certain thing in Life. I mean, you never hear anyone talk about "the path to *un*-certain death."
+
+What would constitute Uncertain Death? Like pregnancy, you can't be just a little bit dead. Some people might, under the right circumstances, be dead off-and-on, but that probably doesn't last long. Those resuscitation thingies in hospitals must really make for confusion for poor Death. "Whoop, gotta pick-up--... oh, no--... wait, yes--... no.... 'Heck with it! Let the bastard live!"
+
+Or maybe some fellow has decided to off himself but he just can't make up his mind about the method?
+
+"Hmmm... pills or gun? Oh, what a quandary...."
+
+And Death, hanging over his shoulder, is tapping his watch and saying "Snap it up, buddy. I ain't got all day. I have other appointments, y'know."
+
+Or maybe it is Death, himself, who may be uncertain.
+
+"Oh, should I just 'reap' the guy or not...? He's really pissing me off, here. Maybe I should go out for coffee and come back, later."
+
+Death is someone you probably shouldn't piss off. Yet, people must get on his nerves all the time. You know the ones I mean; those people who laugh in his face or spit in his eye, defy him, cheat him and generally act like bad sports about the whole deal. I plan on being one, myself, but y'gotta see it from Death's perspective, sometime.
+
+Here he is, just a Force of Nature, doing his job and people treat him pretty shittily. He never gets to go out for fun and hang out with the guys. No one wants to invite the Death of the Party to their place. And, in this P-C age, he's probably not very popular with anyone, really, since, I imagine, he smokes, which is such a no-no these days. I mean, why not? What's it going to do to him? He's *Dead*--about as Dead as you can get. But he's probably got that whole super-cool thing about cigarettes down pat. A friend recently said, "Smoked right, a cigarette could make a hideous person look smooth," and you can be sure that Death knows all about being both hideous and smooth. He can probably swing that scythe with insouciant aplomb and Deadly accuracy without disturbing the ash on the end of the smoldering smoke by so much as a hair.
+
+But at the same, time, smooth as he may be, he's got to be one lonely dude. It's not to say he doesn't have plenty of dates with people, but they're all one-night stands and none of them is going to turn into a stable relationship. There's always going to be some brassy ball-breaker out there, tempting Death, flirting with him, then going and cheating him--the bitch--but she'll get her desserts, eventually, because Death probably retains a Hell of a collection agent. Piper, I imagine his name is.
+
+If Death was Uncertain, it might be because he has a bit of an identity crisis. Although Western culture tends to think of Death as Male, that's not universal, yet Death is still Death. Like some gods, Death is all genders and all things. It must make the day kind of strange, not knowing quite what you are. Death could be a drag queen, for all we know. Does Death look into the wardrobe in the morning and think: "Should I go with the plain black shroud or... well, Black it is!" I tremble to think what would happen were Death ever made-over by the crew from *Queer Eye for the Single Guy*. Death might break out in paisley or be seen sporting red, patent-leather espadrilles under the Stygian robes to embrace his feminine side. How seriously could one take the Reaper who "zouzshes up" his sleeves? It would be the end of Death and we can't have that.
+
+Terry Pratchett once sent Death on vacation and, before long, there were dozens of little Deaths all over the place (and I don't mean the euphemistic French kind!) While it might lighten the work-load, I don't think it would do much for the poor guy's self-confidence, knowing he could be replaced by a couple of smart-aleck junior Deaths at any time--slick, young things in slick, black Armani suits and slicked-back hair with shark-skin smiles and switch-blade scythes. He'd spend half his time looking over his bony shoulder to see who or what was coming up behind and, before you know it, *Splotch!* he's swung too soon like a rookie batter facing a change-up pitcher and reaped the wrong guy. "Errmm... 'scuse me. So sorry.... Uhh... I'll just be going along, now, shall I?"
+
+Now, that really would make for an Uncertain Death. Dead one minute, back the next, in and out, up and down. If Death were truly that uncertain, they'd have to call it Life. But we already have that.
+
+All in all, I think that Certain Death is a much better idea. Not only does it have a reassuring reliability and standard which is sorely lacking in so many other goods and services, but it's nice to know that someone out there is totally confident. In the event of Uncertain Death, I suspect there would be far too much paperwork, as well, and I really hate that, don't you?
+
+Now, the only remaining questions are: how long do I have to follow this car and are we going to see anything really interesting during the trip?
+
+\
+\
+
+posted: October 24, 2003
+
+\
+
+## Pumpkin Mambo
+
+\
+
+There are pumpkins by the payphone;\
+There are pumpkins in the hall;\
+Homeless pumpkins on the street corners\
+Are panhandling for Fall.
+
+Everywhere I look, there's pumpkins by the score:\
+Pumpkins piled under windows;\
+Pumpkins propping open doors.
+
+Pumpkins gleaming in the moonlight,\
+Pumpkins rolling on the floor,\
+Pumpkins waiting for the Mambo,\
+To shake and shimmy through the door.
+
+There's a thousand-thousand pumpkins\
+Waiting for the dance\
+A million unborn Jack-o-Lanterns\
+Dying for a chance
+
+Everywhere I look, there's pumpkins by the score:\
+Pumpkins piled under windows;\
+Pumpkins propping open doors.
+
+A field of orange monsters,\
+A stall of orange beasts,\
+Patient martyr-pumpkins,\
+To punctuate the feast.
+
+There's a hundred-thousand pumpkins\
+Scattered all around the place;\
+A hundred-thousand little monsters\
+Waiting for a face.
+
+Everywhere I look, there's pumpkins by the score:\
+Pumpkins piled under windows;\
+Pumpkins propping open doors.
+
+They await the Pumpkin Mambo,\
+Dressed in candle-grins and rags.\
+On Hallowe'en, they'll join the dance\
+With werewolves, ghosts and hags!
+
+Beware the Pumpkin Mambo!\
+It's all for Tricks and not for Treats.\
+By dawn on All-Saints' morning,\
+A million pumpkins will lie slaughtered in the streets!
+
+Everywhere I look, there's pumpkins by the score:\
+In shards across the landscape,\
+Orange smears across the floor.
+
+They danced the Pumpkin Mambo;\
+Those poor, deluded gourds,\
+And went to death by hand and knife,\
+In grinning, orange hordes.
+
+....
+
+I've always rather liked carving pumpkins into Jack-o-Lanterns for Hallowe'en. There's nothing quite like jabbing a knife into a huge, juicy squash, trepanning its top and scooping out its stringy, slimy innards to set the mood for an evening fraught with ghosts, demons and Death--at least in form, if not in fact. El día de los muertos, alas, is honored somewhat more in the breach, these days, at least north of Albuquerque (and, sometimes, in Detroit). Scary is out, cute and safe is in. Kids don't trick-or-treat around their own neighborhoods, or dare each other to walk up to that old, dark house of local legend; they go to the mall where they are given safe, approved "treats" under the watchful eyes of parents in well-lit halls. No one goes all-out to build elaborate props to enhance the spookiness of their front walk and costumes for anyone under 35 are pretty tame, unless you're a religious fundamentalist who finds Harry Potter threateningly heretical.
+
+Though I am too old to go out on All-Hallows' Eve and dare the wrath of spirits which walk freely on that night (or so the legends say), I still miss the dreadful thrill of it. What fun to walk among them! Dress in costume so they will not know you, for the spirits of the dead can be jealous and hungry. Carry your Jack-o-lantern to light your way, or the Will-o-the-wisps and ghost-lights will surely lead you astray. Go down to the cemetery and pay homage to the dead, dance around the bonfire and drive the demons back to Hell. It really seems a grand tradition.
+
+Too bad it's become just an excuse to eat sweets.
+
+\
+\
+
+Back to [top](#top) of this page, please.
+
+[Back to Index](lindex.html)\
+
+© 2003 M. Kathleen Huffine/Kat Richardson. All rights reserved.

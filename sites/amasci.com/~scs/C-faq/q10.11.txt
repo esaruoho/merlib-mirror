@@ -1,0 +1,30 @@
+Question 10.11 
+
+ Question 10.11 
+ I seem to be missing the system header file <sgtty.h> .
+Can someone send me
+a copy?
+
+Standard headers exist in part so that definitions appropriate to your
+compiler,
+operating system,
+and
+processor
+can be supplied.
+You cannot
+just
+pick up a copy of someone else's header file
+and expect it to work,
+unless that person is using exactly the same environment.
+Ask your compiler vendor why the file was not provided
+(or to send a replacement copy).
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

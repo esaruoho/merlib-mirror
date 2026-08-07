@@ -1,0 +1,158 @@
+file: error_x.txt
+date: Tue, 9 May 2000 23:09:43
+root: /u/u16/r/rmisaac/verify
+
+#------------------------------------------------------------
+# ERROR    4 missing html files (cross referenced)
+#------------------------------------------------------------
+FILE:/u/u16/r/rmisaac/public_html/www.jewishsf.com/bk980710/etaatel.htm
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/israel.html
+
+FILE:/u/u16/r/rmisaac/public_html/www.sfjff.org/sfjff18/filmmakers/d0719d-a.html
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/israel.html
+
+FILE:/u/u16/r/rmisaac/public_html/www.sfjff.org/sfjff18/programs/p0719d.html
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/israel.html
+
+http://eon.law.harvard.edu/cgi-bin/annotate/main.cgi?view=http://www.aldga
+te.freeserve.co.uk/halacha/mekor.htm
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/gayjews.html
+
+#------------------------------------------------------------
+# ERROR    3 missing image files (cross referenced)
+#------------------------------------------------------------
+FILE:/u/u16/r/rmisaac/public_html/graphics/R.jpg
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/rmisaac.html
+
+FILE:/u/u16/r/rmisaac/public_html/graphics/armband2.JPG
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/eurjew.html
+
+FILE:/u/u16/r/rmisaac/public_html/graphics/pinkbg.gif
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/oralhist.html
+
+#------------------------------------------------------------
+# ERROR    2 missing cgi files (cross referenced)
+#------------------------------------------------------------
+/cgi-bin/AnyURL
+    used in 23 files:
+    FILE:/u/u16/r/rmisaac/public_html/cyber.html
+    FILE:/u/u16/r/rmisaac/public_html/eurjew.html
+    FILE:/u/u16/r/rmisaac/public_html/eurtrip.html
+    FILE:/u/u16/r/rmisaac/public_html/fun.html
+    FILE:/u/u16/r/rmisaac/public_html/gayjews.html
+    FILE:/u/u16/r/rmisaac/public_html/israel.html
+    FILE:/u/u16/r/rmisaac/public_html/isrmusic.html
+    FILE:/u/u16/r/rmisaac/public_html/jewish.html
+    FILE:/u/u16/r/rmisaac/public_html/lang.html
+    FILE:/u/u16/r/rmisaac/public_html/lovesex.html
+    FILE:/u/u16/r/rmisaac/public_html/news.html
+    FILE:/u/u16/r/rmisaac/public_html/pennpin.html
+    FILE:/u/u16/r/rmisaac/public_html/politics.html
+    FILE:/u/u16/r/rmisaac/public_html/queer.html
+    FILE:/u/u16/r/rmisaac/public_html/queer2.html
+    FILE:/u/u16/r/rmisaac/public_html/reference.html
+    FILE:/u/u16/r/rmisaac/public_html/rmisaac.html
+    FILE:/u/u16/r/rmisaac/public_html/seagay.html
+    FILE:/u/u16/r/rmisaac/public_html/seagen.html
+    FILE:/u/u16/r/rmisaac/public_html/seaout.html
+    FILE:/u/u16/r/rmisaac/public_html/seattle.html
+    FILE:/u/u16/r/rmisaac/public_html/startrek.html
+    FILE:/u/u16/r/rmisaac/public_html/travel.html
+
+/cgi-bin/Count.cgi
+    used in 25 files:
+    FILE:/u/u16/r/rmisaac/public_html/cyber.html
+    FILE:/u/u16/r/rmisaac/public_html/eurjew.html
+    FILE:/u/u16/r/rmisaac/public_html/eurtrip.html
+    FILE:/u/u16/r/rmisaac/public_html/fun.html
+    FILE:/u/u16/r/rmisaac/public_html/gayjews.html
+    FILE:/u/u16/r/rmisaac/public_html/index.html
+    FILE:/u/u16/r/rmisaac/public_html/israel.html
+    FILE:/u/u16/r/rmisaac/public_html/isrmusic.html
+    FILE:/u/u16/r/rmisaac/public_html/jewish.html
+    FILE:/u/u16/r/rmisaac/public_html/lang.html
+    FILE:/u/u16/r/rmisaac/public_html/lovesex.html
+    FILE:/u/u16/r/rmisaac/public_html/news.html
+    FILE:/u/u16/r/rmisaac/public_html/oldindex.html
+    FILE:/u/u16/r/rmisaac/public_html/pennpin.html
+    FILE:/u/u16/r/rmisaac/public_html/politics.html
+    FILE:/u/u16/r/rmisaac/public_html/queer.html
+    FILE:/u/u16/r/rmisaac/public_html/queer2.html
+    FILE:/u/u16/r/rmisaac/public_html/reference.html
+    FILE:/u/u16/r/rmisaac/public_html/rmisaac.html
+    FILE:/u/u16/r/rmisaac/public_html/seagay.html
+    FILE:/u/u16/r/rmisaac/public_html/seagen.html
+    FILE:/u/u16/r/rmisaac/public_html/seaout.html
+    FILE:/u/u16/r/rmisaac/public_html/seattle.html
+    FILE:/u/u16/r/rmisaac/public_html/startrek.html
+    FILE:/u/u16/r/rmisaac/public_html/travel.html
+
+#------------------------------------------------------------
+# ERROR   12 missing text files (cross referenced)
+#------------------------------------------------------------
+FILE:/u/u16/r/rmisaac/public_html/anchor.txt
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/linklint.html
+
+FILE:/u/u16/r/rmisaac/public_html/anchor_x.txt
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/linklint.html
+
+FILE:/u/u16/r/rmisaac/public_html/dir.txt
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/linklint.html
+
+FILE:/u/u16/r/rmisaac/public_html/file.txt
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/linklint.html
+
+FILE:/u/u16/r/rmisaac/public_html/file_f.txt
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/linklint.html
+
+FILE:/u/u16/r/rmisaac/public_html/file_x.txt
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/linklint.html
+
+FILE:/u/u16/r/rmisaac/public_html/orphan.txt
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/linklint.html
+
+FILE:/u/u16/r/rmisaac/public_html/remote.txt
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/linklint.html
+
+FILE:/u/u16/r/rmisaac/public_html/remote_x.txt
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/linklint.html
+
+FILE:/u/u16/r/rmisaac/public_html/warn.txt
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/linklint.html
+
+FILE:/u/u16/r/rmisaac/public_html/warn_f.txt
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/linklint.html
+
+FILE:/u/u16/r/rmisaac/public_html/warn_x.txt
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/linklint.html
+
+#------------------------------------------------------------
+# ERROR    2 missing unknown files (cross referenced)
+#------------------------------------------------------------
+FILE:/u/u16/r/rmisaac/public_html/www.123greetings.com
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/fun.html
+
+FILE:/u/u16/r/rmisaac/public_html/www.miriamscup.com
+    used in 1 file:
+    FILE:/u/u16/r/rmisaac/public_html/jewish.html
+

@@ -1,0 +1,169 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+  <TITLE>
+    JBM - Calculations
+  </TITLE>
+  
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+
+  <STYLE TYPE="text/css">
+    BODY { BACKGROUND: #FFFFFF; COLOR: #000000 } 
+    A:LINK { COLOR: #3333FF }
+    A:VISITED { COLOR: #666699 }
+    A:ACTIVE { COLOR: #CC00FF }
+    A:HOVER { COLOR: #FF3366 }
+  </STYLE>
+
+  <LINK REL="SHORTCUT ICON" HREF="http://www.eskimo.com/~jbm/graphics/jbm.ico">
+
+</HEAD>
+
+<BODY>
+
+<CENTER>
+  <TABLE>
+    <TR>
+      <TD><A HREF="../bibliography/bibliography.html">[Bibliography]</A>
+      <TD><A HREF="../calculations/calculations.html">[Calculations]</A>
+      <TD><A HREF="../downloads/downloads.html">[Downloads]</A>
+      <TD><A HREF="../equations/equations.html">[Equations]</A>
+      <TD><A HREF="../faq/faq.html">[FAQ]</A>
+      <TD><A HREF="../index.html">[JBM]</A>
+      <TD><A HREF="../links/links.html">[Links]</A>
+      <TD><A HREF="../mpm/mpm.html">[MPM]</A>
+      <TD><A HREF="../pm/pm.html">[PM]</A>
+      <TD><A HREF="../personal/personal.html">[Personal]</A>
+      <TD><A HREF="../software/software.html">[Software]</A>
+  </TABLE>
+</CENTER>
+
+
+<HR>
+
+<H1>
+  JBM - Calculations
+</H1>
+
+<CENTER>
+  <P>
+  <STRONG>
+    NOTE:  I will not guarantee these calculations for ANY purpose.  
+    Remember to use common sense at all times and to check loading with 
+    current manufacturer's data.
+  </STRONG>
+  </P>
+</CENTER>
+
+<P>
+  There are now two different trajectory calculations.  A "basic"
+  one with few options and the original one with a few new options.
+  Most notably, the ability to move the zero point.  
+</P>
+
+<P>
+  <BIG>
+    <A HREF="bct/bct.html">Ballistic Coefficients (Time)</A>
+  </BIG>
+  <BR>
+  Calculates the ballistic coefficient for a near velocity,
+  time of flight, atmospheric conditions and drag function.
+</P>
+
+<P>
+  <BIG>
+    <A HREF="bcv/bcv.html">Ballistic Coefficients (Velocity)</A>
+  </BIG>
+  <BR>
+  Calculates the ballistic coefficient for near and far 
+  velocities, atmospheric conditions and drag function.
+</P>
+
+<P>
+  <BIG>
+    <A HREF="drag/drag.html">Bullet Drag and Twist</A>
+  </BIG>
+  <BR>
+  Calculates the bullet CD, and CD components, BC required twist and
+  stability for input twist.  Inputs required are the bullet measurements
+  including nose length, total length, boattail length, meplat diameter,
+  base diameter, caliber, weight, atmospheric conditions and drag function.
+  This algorithm is based on the McDrag work done by Robert McCoy.  
+  See <A HREF="../bibliography/bibliography.html">bibliography</A>
+</P>
+
+<P>
+  <BIG>
+    <A HREF="maxdist/maxdist.html">Maximum Bullet Range</A>
+  </BIG>
+  <BR>
+  Calculates the maximum range and the elevation required to achieve
+  this range.  Also calculated is the absolute maximum height for the 
+  same bullet fired "straight up". 
+</P>
+
+<P>
+  <BIG>
+    <A HREF="pbrange/pbrange.html">Point Blank Range</A>
+  </BIG>
+  <BR>
+  Calculates maximum point blank range and maximum point blank range
+  zero from ballistic coefficient, muzzle velocity, vital zone radius 
+  and atmospheric conditions.
+</P>
+
+<P>
+  <BIG>
+    <A HREF="sun/sun.html">Sunrise/Sunset</A>
+  </BIG>
+  <BR>
+  Calculates Sunrise and Sunset time and length of the day 
+  for a given day of the year, time zone, latitude and longitude.
+</P>
+
+<P>
+  <BIG>
+    <A HREF="traj/traj.html">Trajectories</A>
+  </BIG>
+  <BR>
+  from bullet BC and firearm info.  Inputs include muzzle velocity,
+  sight heights, chronograph distance, ballistic coefficient, drag 
+  function, line of sight and cant angles and atmospheric conditions. 
+  Output options include variable ranges and choice of units for windage
+  and drop (inches, MOA, and mils).  Calculations are performed assuming
+  the bullet is a point mass.  Elevation and azimuth are iteratively 
+  corrected to ensure a correct zero.
+</P>
+
+<P>
+  <BIG>
+    <A HREF="traj_basic/traj_basic.html">Trajectories -- Basic</A>
+  </BIG>
+  <BR>
+  Not really "basic", but simpler.  Many people don't use all the terms
+  in the trajectory calculation page listed above, so this page invisibly
+  sets defaults for variables like drag function (G1), sight offset, etc.
+  The calculation is done with the same program as the trajectory page 
+  above.
+</P>
+
+<HR>
+
+<TABLE WIDTH="100%">
+  <TR ALIGN="RIGHT">
+    <TD ALIGN="RIGHT">
+      <SMALL>
+        Last update 3 October 2004, Copyright &copy; 1996-2004
+        <A HREF="mailto:jbm@eskimo.com">JBM</A>
+        <A HREF="http://www.htmlhelp.com/cgi-bin/validate.cgi?url=referer&amp;input=yes">[V]</A>
+      </SMALL>
+</TABLE>
+
+
+</BODY> 
+</HTML>
+
+
+

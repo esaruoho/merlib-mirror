@@ -1,0 +1,40 @@
+---
+title: "Used 16 Magazines"
+source_domain: amasci.com
+source_path: ~robertf/stuff/sixteen.html
+order: 7141
+reachable_from_entry: false
+images: 0
+internal_links: 4
+extracted: 2026-08-07T05:59:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Used 16 Magazines
+
+*Source page: `~robertf/stuff/sixteen.html`*
+
+> # Surplus *16* Magazines for Sale
+>
+> **These magazines are for sale for \$5.00 each (plus shipping, taxes, etc., as explained below).**
+>
+> The purchaser shall be responsible for costs of mailing, taxes, and customs duties as applicable.
+>
+> For payment options, please see [Payment Options](payment.html).\
+> Please check out our [Conditions of Sale](salecond.html).
+>
+> If interested, please send an e-mail to Bob Fleming at <robertf@eskimo.com>.
+>
+> - **November 1967** Issue is in good condition except for some wear to cover and somebody clipped a coupon for a Monkees book, but no text was lost. The Monkees have several articles, plus others on the Beetles, Mark Lindsay, The Raiders, Jim Morrison, others.
+>
+> There are also business magazines for sale at [The Fleming Company's magazines-for-sale site.](http://www.eskimo.com/~flemco/stuff/magazine.html)\
+> and computer magazines for sale at [the Flem-Data mgazines-for-sale site.\
+> \
+> ](http://www.eskimo.com/~flemdata/stuff/magazine.html)[Return to Magazines for Sale](magazine.html)\
+> [Return to List of Stuff to Sell](main.html)\
+> [Return to The Fleming Family home page](../index.html)\
+>
+> ©2000 Robert M. Fleming Jr.
+>
+> \
+> This page last updated 6 October 2001.

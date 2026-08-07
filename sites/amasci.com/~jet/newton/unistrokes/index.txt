@@ -1,0 +1,21 @@
+James Thiele's Newton Unistrokes 
+
+ James Thiele's Newton Unistrokes 
+
+Unistrokes is a writing system developed at Xerox PARC specifically for 
+stylus based computers. A Postscript version of the paper and lists
+of strokes is at
+ ftp://ftp.parc.xerox.com/pub/unistrokes/ 
+
+A read me for Unistrokes.
+
+Unistrokes version 1.1 can be accessed in the following compressed formats:
+
+ unistrok.zip (13K)
+ Unistrokes11.sit (15K)
+
+ This page is maintained by
+ James Thiele . Contact via
+ email 
+
+ Page last modified 30 October 1996

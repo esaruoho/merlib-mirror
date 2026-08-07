@@ -1,0 +1,105 @@
+---
+title: "Used 1988 Scientific American Magazines"
+source_domain: amasci.com
+source_path: ~robertf/stuff/sciam88.html
+order: 7135
+reachable_from_entry: false
+images: 1
+internal_links: 4
+extracted: 2026-08-07T05:59:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Used 1988 Scientific American Magazines
+
+*Source page: `~robertf/stuff/sciam88.html`*
+
+Surplus 1988 *Scientific American* Magazines for Sale
+
+**These magazines are for sale for US\$3.00 each (plus shipping, taxes, etc., as explained below).**
+
+The purchaser shall be responsible for costs of mailing, taxes, and customs duties as applicable.
+
+The items for sale on this page belong to Robert M. Fleming Jr. and Emma G. Fleming (The Fleming Family). In order to make our selling more efficient and better organized, as of 1 May 2002 the sales of all of our personal and business surplus stuff is being handled by [Flemco Surplus Sales](http://www.eskimo.com/~surplus/index.html). For important information regarding the procedures and rules about how we sell our stuff, please see our [Conditions of Sale](salecond.html). If you are interesting in buying any of our stuff, or otherwise contacting us, please send an e-mail to <surplus@eskimo.com>.
+
+For shipping options, please see [Shipping Options](shipmags.html).
+
+For payment options, please see [Payment Options](payment.html).
+
+**SCA8804: April 1988**
+
+- **ARTICLES**
+  - **Computers in Music,** \<*by Pierre Boulez and Andrew Gerzso*\
+    If there is more in a composer’s head than strings, woodwinds and brasses can utter, he or she can turn to the computer. It synthesizes sounds the composer’s mind hears, and its electronic output can be interwoven with the sounds of conventional instruments. A composer-conductor and his colleague report from the techno-artistic frontier.
+  - **The Self, the World and Autoimmunity,** *by Irun R. Cohen*\
+    When the immune system fails to distinguish between self and not self, it may attack the self, giving rise to autoimmune disease. Now it appears that the self-recognizing and self-attacking properties of the immune system can be exploited to police its own aberrant behavior by destroyuing the rogue cells responsible for certain autoimmune diseases.
+  - **The Membrane Paradigm for Black Holes,** *by Richard H. Price and Kip S. Thorne*\
+    Black holes, those holes in space that trap light, curve space and slow time, are well understood in terms of general relativity. How, though, is one to study them as real astrophysical objects—which may, for example, supply power for quasars? The authors suggest thinking of a black hole as a spheroidal surface made of a thin, electrically conducting membrane.
+  - **Energy-efficient Buildings,** *by Arthur H. Rosenfeld and David Hafemeister*\
+    Since the 1973 oil famine the U.S. has learned to save \$45 billion a year by making homes and offices more energy-efficient. Now an oil glut has led to complacency. This is shortsighted. For 50 to 100 years the nation will be paying energy bills for buildings going up today. Innovative technologies and policies can cut \$50 billion a year from those bills.
+  - **Light Switches for Plant Genes,** *by Phyllis B. Moses and Nam-Hai Chua*\
+    Light, for plants, is more than energy for photosynthesis. It tells a plant when to sprout, how to grow, when to flower and when to age. To do those things light must affect plant genes. Stretches of DNA that turn genes on and off in response to light have been identified. Such knowledge may help molecular biologists to engineer better crops.
+  - **The Effects of Spin in Gases,** *by Franck Laloö and Jack H. Freed*\
+    Quantum mechanics describes the activity of individual atoms; who would have thought the theory could predict the behavior of a gas of billions of randomly moving atoms? It turns out that modifying the spin angular momentum of certain atomic nuclei can change macroscopic properties of gases, such as the speed at which they conduct heat.
+  - **The Behavior of Baleen Whales,** *by Bernd Würsig*\
+    It is not easy to study whales: they are big and they spend most of their time underwater. Yet careful observations reveal that baleen whales (the ones that have frondlike sieves in place of teeth) communicate, feed, mate, and play much like the ungulates (terrestrial grazers) from which the evolved some 55 million years ago.
+  - **Trembley’s Polyps,** *by Howard M. Lenhoff and Sylvia G. Lenhoff*\
+    The hydra, a tiny polyp that seems all stem and arms, has a central role in the history of biological science. In 1740 Abraham Trembley, a young tutor, undertook studies of the hydra that demonstrated grafting, regeneration and asexual reproduction by budding in animals—and that taught naturalists the value of precise observation and experimentation.
+- **DEPARTMENTS**
+  - Letters
+  - 50 and 100 Years Ago
+  - The Authors
+  - Science and the Citizen
+  - The Amateur Scientist
+  - Computer Recreations
+  - Books
+  - Bibliography
+
+**SCA8810: October 1988** A Single-Topic Issue: What Science Know about AIDS
+
+- **ARTICLES**
+  - **AIDS in 1988,** \<*by Robert C. Gallo and Luc Montagnier*\
+    Where do we stand? What are the key areas of current research? The prospects for therapy or a vaccine? In their first collaborative article the two investigators who established the cause of AIDS answer these questions and tell how HIV was isolated and linked to AIDS.
+  - **The Molecular Biology of the AIDS virus,** *by William A. Hazeltine and Flossie Wong-Stahl*\
+    Just three viral genes can direct the machinery of an infected cell to make a new HIV particle—provided that at least three other viral genes give the go-ahead. These regulatory genes give the virus its protean behaviorial repertoire: they spur viral replication, hold it in check or bring it to a halt.
+  - **The Origins of the AIDS Virus,** *by Max Essex and Phyllis J. Kanki*\
+    The AIDS virus has a past and it has relatives. An inquiry into its family history can reveal how the related viruses interact with human beings and monkeys. The inquiry may also uncover vulnerabilities: some forms of the virus have evolved toward disease-free coexistence with their hosts.
+  - **The Epidemiology of AIDS in the U.S.,** *by William L. Heyward and James W. Curran*\
+    Since 1981 more than 66,000 people in the U.S. have contracted AIDS; by 1992 there may be 300,000 more cases—even if the incidence of infection begins to decline. By identifying risk groups and risky behaviors, epidemiology can suggest nonmedical strategies for controlling AIDS.
+  - **The International Epidemiology of AIDS,** *by Jonathan M. Mann, James Chin, Peter Piot and Thomas Quinn*\
+    The pandemic is still in its early stages. Although no one is certain how many AIDS cases have already developed, the World Health Organization estimates the number at 250,000. Furthermore, at least five million people worldwide are probably infected with the AIDS virus.
+  - **HIV Infections: The Clinical Picture,** *by Robert R. Redfield and Donald S. Burke*\
+    To focus only on treating AIDS is to lose the battle against HIV, the virus that causes it. AIDS is actually the final manifestation of a progressive immune disorder that may be silent for years. Early diagnosis and accurate staging of HIV infection help physicians to optimize therapy.
+  - **HIV Infection: The Cellular Picture,** *by Jonathan N. Weber and Robin A. Weiss*\
+    The AIDS virus can do no damage until it enters a target cell. The first step in invasion is the binding of a molecule on the viral membrane to a molecule on the membrane of the target. The receptor molecule, known as the CD4 antigen, exists primarily on certain immune system cells.
+  - **AIDS Therapies,** *by Robert Yarchoan, Hiroaki Mitsuya and Samuel Broder*\
+    The Prognosis for treatment was once grim, but now undertstanding of HIV’s life cycle makes it possible to design drugs that take aim at specific targets. The authors describe an all-out effort to develop a number of drugs that can be administered in a concerted attack.
+  - **AIDS Vaccines,** *by Thomas J. Matthews and Dani P. Bolognesi*\
+    A vaccine against HIV would be the most effective means of stemming the AIDS crisis. Several candidate vaccines are being tested in people, but HIV is a devious enemy and there is no evidence that any of them will work. What kinds of obstacles are investigators up against?
+  - **The Social Dimensions of AIDS,** *by Harvey V. Fineberg*\
+    To cope with an ever increasing number of cases, public health officials must focus not only on medical and hospital concerns but also on prevention, largely through education. AIDS patients require compassionate and effective care; there should be broad prohibition of discriminiation.
+
+  **DEPARTMENTS**
+  - Letters
+  - 50 and 100 Years Ago
+  - Science and the Citizen
+  - Science and Business
+  - The Amateur Scientist
+  - Computer Recreations
+  - Books: William A. Blattner
+  - Essay: Lewis Thomas
+
+There are also used magazines for sale at [The Fleming Company’s magazines-for-sale site](http://www.eskimo.com/~flemco/stuff/magazine.html) and the [Flemco Surplus Sales web site](http://www.eskimo.com/~surplus/stuff/index.html).
+
+------------------------------------------------------------------------
+
+Return to [Stuff for sale](index.html)
+
+Return to the [Fleming Family home page](../index.html)
+
+©2000 Robert M. Fleming Jr.
+
+This page was last updated on 22 June 2006.
+
+Our internet service provider and web host is:\
+[![](../images/eskiwhite.gif)](http://www.eskimo.com/)

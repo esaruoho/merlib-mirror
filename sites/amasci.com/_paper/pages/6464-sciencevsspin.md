@@ -1,0 +1,128 @@
+---
+title: "ScienceVsSpin"
+source_domain: amasci.com
+source_path: ~rarnold/sciencevsspin.htm
+order: 6464
+reachable_from_entry: false
+images: 2
+internal_links: 8
+extracted: 2026-08-07T05:59:15Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# ScienceVsSpin
+
+*Source page: `~rarnold/sciencevsspin.htm`*
+
+<table id="AutoNumber1" style="BORDER-COLLAPSE: collapse" data-bordercolor="#ffffff" height="50" data-cellspacing="1" data-bordercolordark="#FFFFFF" width="750" data-bgcolor="#336699" data-bordercolorlight="#FFFFFF" data-border="1">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bordercolorlight="#336699" width="100%" data-bgcolor="#336699" data-bordercolordark="#336699"><p><strong><img src="NickNichols.jpg" data-border="1" data-align="left" width="82" height="111" /></strong></p>
+<p><strong><img src="paul_driessen_portrait_05.jpg" data-border="1" data-align="left" width="77" height="111" />Center for the Defense of Free Enterprise</strong></p>
+<p><strong>Nick Nichols and Paul Driessen<br />
+Global warming: Science versus spin</strong></p></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><p><strong><a href="index.html" style="text-decoration: none">HOME</a>    <a href="issues.htm" style="text-decoration: none">ISSUES</a>    <a href="opposition.htm" style="text-decoration: none">OPPOSITION</a>    <a href="projects.htm" style="text-decoration: none">PROJECTS</a>    <a href="defenders.htm" style="text-decoration: none">DEFENDERS</a>    <a href="wiseuse.htm" style="text-decoration: none">WISE USE</a>    <a href="book_store.htm" style="text-decoration: none">BOOKSTORE</a>    <a href="archive.htm" style="text-decoration: none">ARCHIVE</a></strong></p></td>
+</tr>
+</tbody>
+</table>
+
+**Policy wonks and scientists have long worried about the vast gulf that often separates facts from news stories and public perception. Perhaps few issues exemplify this better than global warming.**
+
+**In the age of dinosaurs, the Earth was much warmer than today, and atmospheric carbon dioxide levels were 5-10 times higher. Following the last ice age, oceans rose nearly 400 feet - rapidly at first, then at around 6-8 inches a century for the past 7,000 years. Unless the glaciers return, the seas could continue rising for another millennium.**
+
+**When Leif Eriksson colonized Greenland in 980, the big ice island, Europe and much of the world basked in the "Medieval warm period." By 1300, those halcyon days had been replaced by a "Little ice age" that lasted until around 1850, when the atmosphere began warming again.**
+
+**Wild weather whipsawed Detroit back in '68 to '79. Six snowstorms hit during April of '68, frosts in mid-August of '69, ice in mid-May and a 98 heat wave in June of '74. Local lakes were ice-free in January of '77 and '79. Actually, this was 1868 to 1879! Abnormal, violent weather is nothing new.**
+
+**The biggest U.S. tornado in history lasted three hours, killed 700 people and leveled entire communities along its 220-mile path - in 1925. In more recent years, while the number of news stories about hurricanes and tornadoes has skyrocketed, the frequency and severity of these storms has actually remained constant or even declined slightly.**
+
+**The climate scare**
+
+**Scientists generally agree that the Earth's atmosphere warmed by about 1F (0.6C) between 1850 and 1940, then cooled for several decades. Around 1960, cars and industries began emitting far more greenhouse gases, just as people began noticing that temperatures had fallen.**
+
+**An April 1975 Newsweek story proclaimed, "There are ominous signs that the Earth's weather patterns have begun to change dramatically." Scientists are "almost unanimous" in the view that agricultural productivity will decline for the rest of the century, because temperatures in the Northern Hemisphere are cooling, due to air pollution, it said.**
+
+**Obviously, those ominous trends did not continue. Instead, dire prophecies that the Earth might cool by 5-10F were transformed into alarmist predictions that it could warm by 5-10F.**
+
+**Satellites and weather balloons reveal only slight atmospheric warming since 1979, mostly in Alaska and Siberia, at night, in mid-winter. Land-based thermometers located away from urban "heat islands" are in general agreement with these readings. Other urban monitors suggest slightly more surface warming over the past 20 years, while some computer models predict much higher temperatures by the end of the century.**
+
+**Many people are clearly concerned about catastrophic global warming. But over 17,000 scientists (including hundreds of climate experts) have signed the Oregon Petition, saying they see "no convincing scientific evidence" that humans are disrupting the earth's climate. More than 100 climate scientists signed the Leipzig Declaration, expressing serious doubts about computer-driven climate change forecasts.**
+
+**As debate continues, even former warming theory stalwarts like Dr. James Hansen are now saying "empirical evidence does not lend much support to the notion that climate is headed precipitously toward more extreme heat and drought." His views are supported by a major study recently published by Cambridge University Press, concluding that a doubling of CO2 and moderate warming (1-3F) would bring numerous benefits, especially for forests and agriculture, with few downsides.**
+
+**Science versus spin**
+
+**Nevertheless, proponents of cataclysmic climate change theories continue to thunder that any planetary warming, rise in sea level or wacky weather pattern is due - not to solar variations or other natural causes - but to our growing use of fossil fuels. We are heading toward a catastrophe, say PR mavens Sheldon Rampton and John Stauber - and the only reason the world hasn't already adopted the Kyoto Protocol on global climate change is that "industry PR has been successful in creating the illusion that global warming is some kind of controversial, hotly disputed theory." ("Global Warming is Good for You," PRSA's The Public Relations Strategist, spring 2001.)**
+
+**How can there be such a yawning chasm between the evidence and alarmist claims that the Kyoto treaty is the only thing standing between a livable planet and a climate fiasco?**
+
+**Atmospheric physicist Richard S. Lindzen offers a perceptive analysis: "Science, in the public arena, is commonly used as a source of authority with which to bludgeon political opponents and propagandize uninformed citizens. This is what has been done with both the reports of the IPCC and NAS \[Intergovernmental Panel on Climate Change and National Academy of Sciences\]. It is a reprehensible practice that corrodes our ability to make rational decisions. A fairer view of the science will show that there is still a vast amount of uncertainty - far more than advocates of Kyoto would like to acknowledge."**
+
+**Climate alarmists have found they can dramatically alter the scientific findings, by drafting "summaries" and press releases that emotionalize the issues and tilt the findings in favor of their agenda. Why would they do that? "To capture the public imagination," climate scientist, global warming activist and former global-cooling prophet Stephen Schneider once said, "we have to offer up some scary scenarios, make simplified dramatic statements, and make little mention of any doubts we might have. Each of us has to decide what the right balance is between being effective and being honest."**
+
+**The NAS used the words "uncertain" and "uncertainty" 43 times in its 28-page June 2001 report, which concluded: "A causal linkage between the buildup of greenhouse gases in the atmosphere and the observed climate changes during the 20th century cannot be unequivocally established." The panel's summary and news release, however, were drafted by several warming activists, who ignored the uncertainties and focused on computer forecasts of a planet baking under 10F higher global temperatures by 2100.**
+
+**In October 2000, a few IPCC zealots had done the same thing, turning a relatively evenhanded report into a headline-grabbing horror story. Sent to the New York Times, Washington Post and other carefully selected media outlets, the news release and summary falsely claimed "an international panel of climate scientists" had discovered even "stronger evidence" that greenhouse gases could devastate the planet by the end of this century.**
+
+**In 1995, alarmists altered another IPCC document, after the final peer review process was complete; they deleted important conclusions and inserted the hotly disputed claim that there is a "discernible human influence on global climate."**
+
+**Models, media and more spin**
+
+**In each case, print and electronic news outlets trumpeted the hysterical claims and quoted alarmist views at great length. They largely ignored contradictory evidence, dozens of climate catastrophe skeptics, and even NAS and IPCC scientists who might have corrected the errors and explained how the scary temperature projections were actually developed.**
+
+**The "Frankenclime" forecasts were based on a series of worst-case scenarios that began by assuming that global energy demands will soar, be met primarily by fossil fuels with few pollution controls, and send air emissions up exponentially. The emission numbers then drove models that still cannot calculate climate conditions just one year ahead - and the most extreme of 245 possible outcomes were chosen to form the centerpiece for "summaries" and news releases.**
+
+**Messrs. Stauber and Rampton have likewise spun the facts to make their case. For example:**
+
+**They claim 1998 was the "hottest year ever." Actually, several years in the past century were warmer, the 1998 temperature spike was due to a major El Nio event, and 2000 was slightly cooler worldwide. 2001 was only 0.1 degrees Fahrenheit warmer than the global average over the past 20 years. Reliable satellite and weather balloon data on global atmospheric temperatures do not support the surface data cited by Stauber and Rampton.**
+
+**They also impugn the character of atmospheric physicist Dr. S. Fred Singer, a leading climate alarm skeptic, by calling him a paid consultant for the oil industry. Singer did do some consulting 20 years ago but had only one oil company project - on petroleum pricing. He has not been a consultant since then and does not solicit industry funding.**
+
+**Neo-ethics**
+
+**All these claims and tactics fall under Rules for Corporate Warriors' Ethics Edict 5: The more important the mission, the less activists feel they need to be concerned about ethics. Activists justify their use of phony summaries, slanted news stories, grievous errors of omission, and even ad hominem attacks, by claiming they are saving the world from a climate or other apocalypse.**
+
+**Journalistic integrity, objectivity and ethics suffer the same fate. Former Boston Globe editor Ross Gelbspan urged an Institute for Policy Studies audience in July 2000, "Not only do journalists not have a responsibility to report what skeptical scientists have to say about global warming - they have a responsibility not to report what these scientists say." So much for "all the news that's fit to print."**
+
+**In a similar vein, Time science editor Charles Alexander admitted to a Smithsonian Institution global warming conference: "I would freely admit that on this issue we have crossed the boundary from news reporting to advocacy." And Boston Globe environmental reporter Dianne Dumanoski once boasted, "I've become even more crafty about finding the voices to say the things I think are true. That's my subversive mission."**
+
+**"Environmentalists are quick to accuse their opponents in business of having vested interests," The Economist has observed. "But their own incomes, their fame, and their very existence can depend on supporting the most alarming versions of every environmental scare. Pressure groups, journalists, and fame seekers will no doubt continue to peddle ecological catastrophes at an undiminishing speed."**
+
+**Actually, industry has much stronger motivations for honesty than do the activists, as Daniel Koshland, Jr. noted when he was Science magazine editor. "Businesses today have product liability and can incur legal damages if they place a dangerous product on the market." Environmental pressure groups "have no such constraints at the moment."**
+
+**Money and power versus accountability**
+
+**Not at that moment and not now, either. In fact, the Crisis Creation Industry is the last unregulated, unaccountable big business in America. This fact has helped make it incredibly successful in generating revenue, amassing power and promoting its agenda.**
+
+**Recent studies have found that the overall budget for the environmental division of this vast industry is \$4 billion a year! The ten largest U.S. environmental groups collectively had annual 1998 revenues in excess of \$1 billion, according to Robert Lichter and Stanley Rothman. This revenue comes primarily from foundations, government grants, a constant barrage of shrill direct mail campaigns, and even corporate grants and shakedowns.**
+
+**Global warming too is a big business. The White House alone spent \$18 billion on global warming research and "education" between 1992 and 2000. The United Nations spent billions more, as did the European Union.**
+
+**Big foundations provided still more millions to aid The Cause. The Pew Charitable Trusts gave \$5 million to its Global Climate Change Center in 2000, and the International Institute for Sustainable Development is spending \$700,000 just to assess "how farmers in India may be vulnerable" to problems supposedly due to "economic globalization and climate change."**
+
+**Skeptics generally need not even bother applying for these grants. And for the most part, the press has said little about them, the incentives they create for bureaucrats and scientists, the pressure groups' real motives behind global warming scares, the vested interests some companies have in supporting the Kyoto accords, or the anemic level of industry efforts to ensure that other viewpoints are heard above the alarmist hurricane.**
+
+**The environmental pressure groups' primary motive, of course, is raising money, curtailing fossil fuel use and economic growth, and dictating lifestyle, housing and transportation choices. Frankenclime is by far the most brilliant, audacious strategy yet conceived to accomplish these ends.**
+
+**The stakes get higher**
+
+**Ethics Edict 5 also gives activists, bureaucrats and journalists an excuse for presenting only one side of the precautionary balance sheet. If there is any chance at all that the global warming theory is right, we must adopt drastic measures immediately, they say. Better safe than sorry. But only rarely do they mention the social or economic devastation that those measures might cause, or that they will actually do little or nothing to address hypothetical climate problems**
+
+**The Kyoto accord would slash America's fossil fuel use to some 40 percent below what it would otherwise be by 2012. The U.S. Energy Information Administration has calculated that the treaty could drain as much as \$340 billion a year from a U.S. economy that drives one-third of the entire global economy. This means the climate treaty would sharply curtail the developing countries' economic growth, health and environmental progress, and hope for the future. Kyoto-style pollution edicts would deal another crippling blow to a U.S. and global economy already battered by the year-2000 stock market collapse and September 11, 2001 terrorist attacks.**
+
+**Even worse, the misery would be for naught. According to the National Center for Atmospheric Research, even "full and perfect compliance" with Kyoto would mean average global temperatures in 2050 would be only 0.13F lower than they would be in the absence of a climate treaty! Actually stabilizing "greenhouse gases" at current concentrations would require "19 Kyotos" - and send our use of fossil fuels tumbling to Depression Era levels.**
+
+**It's no wonder that only a few nations that ratified the Kyoto Protocol have finalized various "operational details," regarding how the treaty would be implemented. Economically comatose Japan has rejected the treaty's mandatory carbon dioxide emission caps. Even the Europeans are hardly stampeding to implement it - though it could be another useful weapon of trade protectionism, and a way to bring the United States down to the EU's less productive levels (just as its campaign for "global tax equity" would do).**
+
+**It is time to take an honest look at these environmental scares - and demand that the Green pressure groups, their PR spin doctors and the dominant media be held to the same standards of ethics, honesty, integrity and accountability that we now demand for industry. At a minimum, public relations professionals must insist that news stories accurately and fairly report all sides of this important debate over science, economics, energy use and our nation's future.**
+
+**Only then will the United States be able to ensure rational decisions, based on science and a full, accurate assessment of claims, uncertainties, costs, benefits and potential consequences.**
+
+**The stakes are too high to accept anything less.\
+----------------------------------------------------------------------------------\
+*Nick Nichols is the retired president of Nichols-Dezenhall communications management firm and author of Rules for Corporate Warriors: How to fight and survive attack group shakedowns. Paul Driessen, APR, Esq. is author of Eco-Imperialism: Green Power, Black Death and is Director of the Center's Economic Human Rights Project. He was editor of Nichols' book.***

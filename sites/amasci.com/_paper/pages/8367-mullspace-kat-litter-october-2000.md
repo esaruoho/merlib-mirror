@@ -1,0 +1,282 @@
+---
+title: "Mullspace | Kat Litter | October, 2000"
+source_domain: amasci.com
+source_path: ~strange/litter/octlitter00.html
+order: 8367
+reachable_from_entry: false
+images: 1
+internal_links: 8
+extracted: 2026-08-07T06:00:51Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mullspace | Kat Litter | October, 2000
+
+*Source page: `~strange/litter/octlitter00.html`*
+
+<span id="top"></span>
+
+<div align="center">
+
+<img src="../images/MullChalk03a.jpg" data-border="0" alt="Welcome to Mullspace" />\
+<a href="../katbox.html" class="nav">Portal</a> \| <a href="litter.html" class="nav">Kat Litter</a> \| <a href="../fiction/fiction.html" class="nav">Tales</a> \| <a href="../nfiction/nfiction.html" class="nav">Lectures</a> \| <a href="../gallery.html" class="nav">Eye Candy</a> \| <a href="../list.html" class="nav">Accreations</a> \| <a href="../resume.html" class="nav">Kat Who?</a> \| <a href="mailto:mull.space@lycos.com" class="nav">Poke</a>
+
+</div>
+
+\
+\
+
+# October, 2000
+
+\
+\
+
+posted: undated
+
+\
+
+## The Attack of the Rude
+
+\
+
+Who are these people? I'm working my butt off on some project and some stranger comes along and watches me, then tells me all about exactly how I'm doing it wrong (or at least not the most efficient way), how I ought to do it, what I ought to be using and how much I've already screwed the project up by doing things incorrectly in the past. Where do these doofuses come from and why do they think I give a damn? What makes them believe I give them and their unsolicited opinions any kind of weight at all?
+
+And yet, I will stand there, nodding sagely and saying "that's what I thought". Vomit. What am I thinking? What I want to do is smack them upside the head with a handy 2x4 and say "Shut up! If you're so damned skilled and marvelous, you do it, 'cause I've got stuff I'd much rather do." Certainly, I have things I'd rather get accomplished than listen to them spew... like whatever blasted project I'm hips-deep in when they inevitably come ambling by.
+
+Now, I don't mind my neighbor coming along and making "misery loves company" jokes as I labor along, since I've seen him head-down over some wretched project many a time. He's earned the right to razz me a bit and I've razzed right back a time or two. That's fine. But these... people. Were their parents perfectionistic monsters? Do they feel the need to return the favor? Or are they just arrogant swine?
+
+And if, as I suspect, they are swine, why can I not have them made into a nice pair of work gloves? Hey, if they want to help out, that would be perfect. I need some new gloves. I just ripped though mine trying to use a hacksaw blade without the frame. Prickly.
+
+My dad used to lecture me about "the right tool for the job" when I was a kid. Most of the time, the right tool for my job has been a word processor or a pen and a notebook. What do I know about tools? Well, I do know which end to hold onto and that the tool should be doing the work, not me. So, I plod along when scraping paint and sanding wood and things of that nature, letting the tools do the work and listening to my husband bitch about how slow I am.
+
+And, of course, the free-advice folks seem to be most attracted to the slow-moving workers, as if doing your work at a steady and agreeable pace means that you're in over your head and that you need their friendly and unbiased help without delay.
+
+Actually, I don't. I prefer to make my own mistakes and learn from them, not make someone else's mistakes and then be confounded. Bugger off you pestilent chatterers. If I screw up, you can laugh all you like, but please don't say "I told you so," because I'd prefer it if you didn't tell me in the first place. Want to help me out? Become a glove. And trap up.
+
+\
+\
+
+posted: undated
+
+\
+
+## Well, thank the gods that's over....
+
+\
+
+This site <span class="small">(wildpixels/kat that was)</span> has been reorganized and, although you may not be able to tell, it is now much sleeker to run and maintain. Once again, much thanks to Ken, the wonder-man, and nods of the head to *HTML 4 for Dummies reference guide* and to my husband, who put up with my moaning and growling and did not start crying when I seemed about to rip all my hair out by the roots. I believe I owe him a lot of sexual favors for this....
+
+Still a bit more work to be done on the gallery and the links page <span class="small">(which I never did finish)</span>, but most of the hard stuff is done. And since you guys have been so very patient (well... some of you have; certain people can go piss up a rope) you get two presents, today. Below is some new Kat Litter and there's something new in the non-fiction section. Have fun, wander around the place and let me know if you completely hate it (or otherwise). I probably won't do anything about it but send you rude e-mail, but you can always try, right?
+
+\
+\
+
+posted: undated
+
+\
+
+## Legally high and half-drowned
+
+\
+
+For a while on Friday, I seem to have become a turtle. At least, I remember carrying a large, shell-like carapace around on my back for a while. Judging from its current position, this was most likely the dinghy. It's an 8-foot long, injection-molded plastic row boat which should have come with a plastic lid with a "burp button" on the top. We call it the tupperboat.
+
+Hmm... tupperboat seems to have had an interesting ride: It's standing up on it's blunt end, wedged between the dock transformer and the storage box. Now, if I knew why I was wet....
+
+Let me retrace my day and maybe I can figure this out.
+
+First I hung around online as I usually do while the ferrets are out of their cage. Ok, I remember that. There was some kind of food in there somewhere. Was that breakfast or lunch? And then I went out to finish epoxy repairs to the deck....
+
+Ahhh... the whiff of raw epoxy and fiberglass tape. Wheeheheeee! Plus fumed silica to make it all thick and goopy. No wonder I can't remember this stuff: I was squiffed! Oh, boy... cheap and legal. I hope I didn't say anything rude to anybody. Well, OK, I hope I did say rude things to the right somebodies, if the occasion arose. I can always blame it on the fumes, right?
+
+But that tupperboat worries me. It's dry and I can't quite fathom how it got off the bow of the big boat and onto the dock without ending up in the water. It's rather heavy for a frail, fainting flower o' femininity like myself to be tossing blithely about. Great legs, yes, but I somehow doubt I wrestled it successfully onto the dock with those alone. Perhaps one of my neighbors....
+
+But, judging from the odd looks they all give it as they go by, none of them are quite sure how it got there, either. I can't have walked it down the deck, since that's covered in epoxy I obviously didn't step in.
+
+Dry dinghy, wet me.... Why do I have the feeling these things go together? I just hope no one has video footage of whatever embarrassment I may have committed. I prefer to speculate only on what flavor of fool I may have made of myself rather than have it recorded and remove all doubt. Repeatedly.
+
+And just think: if it ever stops raining this week, I get to inhale paint fumes! Maybe I'd best remove all the other things from the top of the boat before I start, this time....
+
+\
+\
+
+posted: undated
+
+\
+
+## There Ought (Not) to be a Law
+
+\
+
+Oh, I bemoan the state of law in this country. It has become a political platform from which to snatch a moment's glory for the next electoral campaign. Who gives a rat's whiskers that old laws never die, they just get ignored? or that there are so many contradictory laws in place that it is, in some places and situations, impossible to do any damned thing without breaking some regulation somewhere?
+
+But, come an election year, and suddenly we're bombarded with the statement "there ought to be a law... and I'm the one to give it to you." Oh, yeah... you'll give it to us, all right, you bottom-feeding child of a plenarium-worm, whether we need it or not.
+
+This tirade, of course, is brought on by yet another move to evict liveaboard boaters from anchorages and moorages in coastal states. An issue which is near and dear to my living arrangement. Constantly, constantly the outcry against the boats of residence is that they pollute the water and abuse the trust of the fair cities, counties and states which so generously allow them to drop an anchor or cast a line. "We must regulate them! We must stop them! We must... eradicate them!"
+
+But there's no need to create another law to regulate sewage and trash that goes overboard from any boat, liveaboard or not. All US cities with navigable waters and all waters that come under the pervue of the US Coast Guard are already protected by a mass of clean-water laws that fine and penalize anyone who discharges or dumps anything. In Washington, a fuel spill as small as a quarter of a cup can see you into a \$5,000 fine and you get to clean it up yourself or pay for that to be done (not a cheap affair). It you drop a single piece of trash overboard, biodegradable or not, you can be fined again and, again, forced to clean it up or pay for it. I'm in complete agreement with the law, here: if any boater makes a mess, they should be smacked and smacked hard and forced to clean it up with their own, filthy hands. Every boater, every ship's master, every ship-owner, should be treated to the same stringent enforcement, not just the ones who sit still long enough to get caught or who make messes no one can ignore.
+
+Yet, weekend boaters and commercial ships leak fuel, dump crap overside and go their merry way. They are hard to catch because they are moving and there just aren't enough people on the watch for this sort of thing. Most casual boaters don't even know the laws exist and many have never taken so much as a boating safety class, much less basic vessel-handling or rules of the road. They don't know which side of the channel to stay on, can't read a compass, wouldn't know a danger signal from a "fuck you". (Though, as far as I can tell, this is true in most situations, not just on boats....)
+
+But, because it's an election year, and water uses have become a focal point in some states, and at the federal level, the screaming and raging is on the rise, again.
+
+I'm not going to go into all the reasons this is full of crap from a moral, legal and traditional standpoint. I could go on for hours. I just want to point out that, instead of attempting to enforce the laws that already exist in a fair and equitable fashion, the political vultures have chosen to go the high-profile route of assuming a problem that is in need of a solution that doesn't currently exist, so that they can appear to the be righteous saviours of... whoever... by riding in on their media-horse and slaying the evil dragon with a sword of law and self-aggrandizement. The fact that there is no evil dragon, that a perfectly good sword already existed with which to beat back the occasional infidel at the gate if they'd just bother to take it down out of the rusty, dust-crusted nook it's drifted into and **use** the flippin' thing, seems to be immaterial.
+
+To a political mind in search of election, it's just not sexy enough to say "Hey, these laws aren't being enforced like they ought to be and I'm going to be the fella to do it!" How many headlines can you grab with that, eh? Who wants to be known as "the great enforcer" when you can be "the author of the boat-trash law"?
+
+And in the meantime, perfectly nice systems get trashed and people get vilified and their rights get trampled so that some schmuck in a \$5,000 suit can look good at a fund-raising dinner....
+
+I think I'm going to be sick....
+
+\
+\
+
+posted: undated
+
+\
+
+## The Fine and Dying Arts of Wit and Flirtation
+
+\
+
+**"You certainly have your banter down."\
+"No... this is an entirely different thing. It's spontaneous and it's called Wit."***(Black Adder II)*
+
+I have to make a confession:
+
+As a wordy-girl, I adore double- and triple-entendre, double-edged compliments, three-pronged phrases, obscure words and sexual innuendo. Which makes me a bad girl and dangerous to know, socially unacceptable and politically incorrect.
+
+Once upon a time, a clever turn of phrase was an admirable thing. A person's entire career and reputation could be made or broken by a bit of witty repartee. Great feuds were once carried out in the fields of erudition alone, running on for years, even lifetimes. Winston Churchill's on-going battle of barbed comments with Lady Astor is legendary ("Sir, if you were my husband, I would poison your tea." "Madam, if you were my wife, I would drink it."). Another favorite is the bitter verbal acid spewed by Dorothy Parker over the subject and person of Claire Booth Luce (meeting in a doorway, Luce: "Do go first, Dotty... age before beauty." Parker, sweeping through: "Yes, and pearls before swine.") Parker was noted for her sharp, acid-laced tongue and, when asked by an errand boy for a column her editor was demanding, replied to the poor lad: "Tell him I was too fucking busy... or vice versa." Noel Coward and Cole Porter both based their careers on wit. (Well, OK, Porter was a pretty good composer, too.)
+
+**"Birds do it. Bees do it. Even educated fleas do it...."** *(Cole Porter)*
+
+Where is wit, now? The height of clever these days seems to be contained in Julia Roberts films and commercials... bleh; a combination on a par with creamed chipped beef on toast: one doesn't know which of the tasteless things is actually better. What a pit we've sunk into. I can't even remember the last really funny thing anyone said in a film and I don't have a TV.
+
+**"Surely you're not serious?"\
+"Deadly serious... and stop calling me Shirley."** *(Airplane!)*
+
+Additionally, I miss flirting and not just because I'm married. I still flirt with my long-time friends, with whom I share a long and proud tradition of pointed and ambiguous turns of phrase, lifted eyebrows and crooked grins. It's difficult for me to resist a conversational opening....
+
+He: Rats, foiled again.
+
+Me: Must get rid of the foil. Have you considered epee?
+
+He: I was thinking of saber, myself....
+
+Me: Oh, I prefer whole-body target.... (grin)
+
+He: Oh, well, with a body like yours, that would be a very inviting target. Which reminds me, have you talked to (mutual friend of the curvaceous variety mentioned here). I keep trying to call her and forgetting.
+
+Me: Try harder.... (wink)
+
+He: Ooo... bad girl.... (spank)
+
+Me: Watch it. My husband's coming home soon.
+
+He: Ah... home coming... the stuff exhaustion is made of.
+
+Me: (uncontrollable laughter) I'll tell your wife you said that.
+
+He: Oh, would you, please?
+
+Me: What, not enough exhaustion in your life?
+
+He: Never. (evil grin)
+
+**"Well, there goes the original good time who was had by all...."** *(Dorothy Parker)*
+
+.... However, this sort of conversation is pretty much verboten these days and certain to be misconstrued by someone, more's the pity. One is no longer allowed to say funny things of a sexually-oriented color to anyone under the age of dead in public (or even in private) and it's become such a cultural no-no that many people I meet fall into a morass of confusion and discomfort when such a conversational gambit makes an appearance. Well, there go years of honing a dry, sly, insinuating wit down the tubes with one "I do." I mutter a sub-vocal "bugger that" and bite my tongue in company.
+
+**"I note that you enjoy the taste of shoe-leather. Tell me: how long were you a hobo? Or do you always conduct your conversations this way?"** *(My Man Godfrey)*
+
+Even a lack of delicacy can turn a good phrase. One afternoon, working on a long-winded and manual-labor-intensive project, one of the workers called for a break to, as he put it "go home and get laid." He said he'd be back in two hours. Three hours later, he had not returned. The rest of us looked at each other and speculated on his fate. "I don't know," I said. "Maybe he got de-laid." "Maybe he got re-laid," another of us suggested. "Well, I wish someone would relay his ass over here so we could finish this sucker." "Re-lay that? I wouldn't have laid it the first time." "Yeah... he's a bad egg." Which was when the bad egg rolled in and we all broke up. So much for being suave and subtle.
+
+**"Bart, Bart! They told us you was hung!" "... And they was right...."** *(Blazing Saddles)*
+
+"What's the female equivalent of a rake?" my step-mother once asked and I, unthinkingly, replied: "I don't know... a hoe?" We almost drove into a jersey barrier as she broke up laughing. I must remember not to make jokes while other people are driving too fast....
+
+**"I'm sorry.... Did I break your concentration?"** *(Pulp Fiction)*
+
+There is a subtlety between a leer and a laugh, a verbal slash and a slashed throat, that seems to have gotten lost somewhere. Maybe it's the oversaturation of mindless, adolescent-oriented entertainment or the boring sanitization of pervasive media. Whatever it is, the sophisticated, literate interaction of adults seems to be rare, now. Gone are the Parkers, Benchleys, Menckens, Wooleys et al and we have only, at best, Nora Ephron, a few smirking Clooney-clones and the blonde-of-the month.
+
+To quote the noxious Mrs. Luce: "Pardon me, girls. I must go un-swallow...."
+
+\
+\
+
+posted: undated
+
+\
+
+## Long Black Coat
+
+\
+
+I was awakened Friday at 4AM by a pounding on the top deck. A racketing clatter that peeled my eyelids back and made my head throb. It carried on for a little over two hours.
+
+Rain, Seattle style. Welcome to Autumn, the rainiest season of the year.
+
+Now, much of the year, it does, in fact, rain here. This is not just a way to scare off the tourists, but usually rain is an off-again, on-again, tease-you sort of thing. "Don't like the weather? Wait fifteen minutes," is our running joke in Seattle. Of course, you won't like the weather you get in fifteen minutes, but at least it will be a change. It may get worse: it may hail. They don't call this season "Fall" for nothing around here. Water is constantly falling from the sky and with a pounding intensity that would turn most ducks off... or into pate.
+
+And it is often windy, so you can recognize the people from out of town or who don't spend much time on the streets by their umbrellas. Real Seattlites wear coats, usually with hoods or hats. Often one of these may be purple, because the University of Washington's colors are purple and gold and we are nothing if not demonstrative in our loyalties (go, dawgs... and all that drivel-- can you tell I couldn't give less of a damn about sports?)
+
+But, though I am fond of purple (out of pure perversity, I assure you) I do not wear a purple raincoat. Mine is black. Not just black, though. An ankle-length, oil-cloth, black duster. This is my attitude coat and it is coming out of storage.
+
+I don't really need my "piss off" attitude during the summer. In the winter it comes in handy, though, when busses are crowded and people suddenly lose all sense of dignity and decorum. And come the holiday-shopping season, they simply go mad. A long black coat and a scowl go a long way toward keeping people in line. And a few hands off my ass. Maybe I just look like the kind of girl who carries a firearm in her pocket....
+
+I developed that look when I used to work swing shift in an industrial neighborhood and come home on the bus about midnight. Even though the neighborhood was mostly deserted at that time of night, it was also... deserted. I waited at the bus stop outside a brew pub which was already closed by the time I got there. No help from the friendly drunks and waitresses. I had to look out for myself and boy did I have an attitude. It seems to have served me well, however. I am here and, so far, unmolested and not a shot fired. Well, not literally, at least. I've fired any number of verbal volleys in defense of honor and shopping bags.
+
+The media is on my side, here, and I thank them for their perpetuation of the idea that long, black coat = homicidal maniac. People cast a wary eye on me. They do not know how to react to the long blonde hair and the Marilyn Monroe figure under such a thing as that. Is she... dangerous? or just quirky? If I suddenly smile, they smile back, though their smile is often self-conscious. "Is she sizing me up? What is that bulge in her pocket? Will she do something... scary?" they seem to be wondering.
+
+Yes, yes... I might, in fact, do something scary. Sit beside you and refuse to speak to your inanities, snap back and tell you to shut the fuck up, or simply glower. I turn up my coat collar, sit back and drowse, boots up against the seat backs. I mutter and growl or read arcane books. (People rarely ask the possible-psycho if she's really enjoying that murder mystery or that book about particle physics.) Sometimes, I laugh. That unnerves them the most. Unable to pigeon-hole the person, it is impossible to guess what may be causing her to laugh. Other people do not like uncertainty. They shy away, they turn their head, they shut their mouth. (Oh, thank you, Rain-coat god....)
+
+Sometimes it is better to have an attitude and let people know it than to be a good girl. So, now I have an attitude and the wardrobe to go with it. And I'm going to be wearing them for the next nine months or so. Or until it dries out in Seattle....
+
+And Hell freezes over.
+
+\
+\
+
+posted: undated
+
+\
+
+## You Think That's Scary?
+
+\
+
+I hate teen slasher flicks. That's not to say I don't like a scary movie upon occasion, but I really am not frightened by gratuitous gore. Repulsed, maybe, raised to derisive snickering, certainly, but scared? Nuh-uh. I really cannot see why anyone likes them or is ever surprised by them. The plot is always pretty much the same and so annoying. I especially hate the fact that they seem to dress up these little morality tales and stick them in: anyone under the age of 30 who has sex or even thinks about it is going to be the next sish-kebab on the bad guy's menu. Talk about un-safe sex.... Spare me.
+
+Now, the original *Haunting of Hill House* scared me the first time I saw it and so did *Ghost Story*. *The Sixth Sense* creeped me out a bit. The first *Poltergeist* movie gave me nightmares, or rather, it just resurrected the ones I'd had as a kid. That's what's scary: irrational fears; hints and memories of things that reduced you to a gibbering mass of hysteria in the past; the things that live in the darkness of your soul and the shunned and shuttered compartments of your mind. Not a big guy with a knife and a bad attitude. Hell, I say shoot the fucker and have done. In fact, shoot him twice... with a mortar.
+
+So far as I can tell, there are basic rules which smart people ought to observe, pretty much all the time, in movies or in real life. Here they are:
+
+1.  Candles and drafty cellars or attics don't mix.
+2.  Do not accept private invitations to dinner from strangers with unusually pointed teeth and glowing eyes, no matter how cool their outfit is.
+3.  If the strange noise coming from the window turns out to be the cat, the next one won't.
+4.  Don't wear sexy clothing or impractical shoes to go walking in the woods, especially if the woods are near a cemetery.
+5.  If the scary, disembodied voice tells you to "get out!" take its advice.
+6.  Flashlights need batteries, guns need ammunition, brains need to be used, once in a while. All should be applied when fully functional and not with hysterical abandon.
+7.  On dates associated with death, avoid animals and showers. Oh, and don't go swimming, either.
+8.  For peace of mind, do not stay the night in old houses or hotels which have "an interesting history" or which are run by guys named Norman.
+9.  If the door is locked and sealed with strange, arcane and mystical symbols, you probably shouldn't open it, no matter how much treasure you think is on the other side.
+10. Inanimate objects which suddenly begin bleeding or screaming are not a good sign.
+11. Raising up ghosts, demons or the Devil on Halloween is serious business best left to professionals. Whatever you do, don't try this at home.
+12. Keep all kitchen knives sharpened and out of reach of monsters and homicidal maniacs.
+13. If the heavy-breather on the phone has a sepulchral voice, chances are good that he's calling from one. And don't accept collect calls from the dead: you will also be accepting the consequences.
+14. Always carry a crucifix (even if you are not Christian), a stake and a pistol. There's alway someone you can offend or defend yourself from with one of these.
+15. If you have just killed the giant, evil monster, do not stick around to check that is is truly dead: it isn't (unless you plan to do this "checking" with a load of napalm and a match.)
+16. As a general rule, it is a bad idea to complete any puzzle or quest which opens a portal to Hell
+
+\
+
+And whatever you do, don't give caramels to dogs: you'll never hear the end of it.
+
+\
+\
+
+Back to [top](#top) of this page, please.
+
+[Back to Index](lindex.html)\
+
+© 2000, 2001 M. Kathleen Huffine/Kat Richardson. All rights reserved.

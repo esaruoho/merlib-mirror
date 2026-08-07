@@ -1,0 +1,23 @@
+Question 11.15 
+
+ Question 11.15 
+ The book I've been using,
+ C Programing
+for the Compleat Idiot ,
+always uses void main() .
+
+ Perhaps its author
+counts himself among the target audience.
+Many books unaccountably use void main() in examples.
+They're
+wrong.
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

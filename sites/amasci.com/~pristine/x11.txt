@@ -1,0 +1,381 @@
+Pure Mac: X Window System - Software for Macintosh 
+
+ X Window System 
+
+ Web 
+
+ Pure-Mac.com 
+
+ There are a few major X11 programs (eg. Gimp, OpenOffice) which have Mac OS X packages that install and run pretty
+much like any typical Mac program. Most, however, you will have to tweak a bit to get running. Those who need more (scientists, network admins, assorted geeks), can install virtually any X11 program from source with
+ Apple's Developer Tools or use the ports from 
+ MacPorts or Fink . 
+
+ Ardour 
+ FontForge 
+ Freeciv 
+
+ GIMP 
+ Gimpshop 
+
+ ImageMagick 
+ Inkscape 
+
+ OpenOffice 
+ Wireshark 
+ X11 
+
+ Apple - Mac OS X - X11 
+ XFree86 
+ X.Org Foundation 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Ardour 2.1 
+
+Ardour is a digital audio workstation. You can use it to record, edit and mix multi-track
+audio. You can produce your own CDs, mix video soundtracks, or just experiment with new
+ideas about music and sound. Ardour capabilities include: multichannel recording,
+non-destructive editing with unlimited undo/redo, full automation support, a powerful
+mixer, unlimited tracks/busses/plugins, timecode synchronization, and hardware control
+from surfaces like the Mackie Control Universal. If you've been looking for a tool similar
+to ProTools, Nuendo, Pyramix, or Sequoia, you might have found it.
+
+ License : Freeware
+ Author/Publisher : Paul Davis
+ Modification Date : October 1, 2007
+ Requirements : Mac OS X 10.4 or higher and X11 and Jack OS X 
+
+ Download 
+File Size: 34.2 MB
+
+ Home Page 
+
+ Freeciv 2.1.1 
+
+Freeciv is an open-source, turn-based strategy game that originated from the Linux world.
+
+ License : Freeware
+ Author/Publisher : freeciv.org
+ Modification Date : November 29, 2007
+ Requirements : Mac OS X 10.4 or higher and X11
+
+ Download 
+File Size: 29.4 MB
+
+ Home Page 
+
+ FontForge 20071312 
+
+An outline font editor that lets you create your own postscript, truetype, opentype,
+cid-keyed, multi-master, cff, svg and bitmap (bdf, FON, NFNT) fonts, or edit existing
+ones. Also lets you convert one format to another. FontForge has support for many
+macintosh font formats.
+
+ License : Freeware
+ Author/Publisher : George Williams
+ Modification Date : March 12, 2007
+ Requirements : Mac OS X 10.3 or higher and X11
+
+ Download 
+File Size: 6.6 MB
+
+ Download 
+File Size: 6.5 MB
+
+ Home Page 
+
+ GIMP.app 2.2.11 
+
+The GIMP is the GNU Image Manipulation Program. It is a freely
+distributed piece of software for such tasks as photo retouching, image
+composition and image authoring. It works on many operating systems, in
+many languages.
+
+ License : Freeware
+ Author/Publisher : Gimp Project
+ Modification Date : April 21, 2006
+ Requirements : Mac OS X 10.3 or higher, X11
+
+ Download 
+File Size: 82.6 MB
+
+ Gimp.app Home Page 
+
+ Gimp Home Page 
+
+ Gimpshop 2.2.11 
+
+If you've never used Photoshop before, you may not appreciate my GIMPshop hack. What I've
+done is renamed and reorganized GIMP's tools, options, windows, and menus to closely
+resemble Adobe Photoshop's menu structure and naming conventions. Many of the menu options
+and even whole menus were recreated to faithfully reproduce a Photoshop-like experience.
+After running my GIMPshop hack, you'll find that Photoshop and the GIMP are strikingly
+similar.
+
+ License : Freeware
+ Author/Publisher : Plastic Bugs
+ Modification Date : May 23, 2006
+ Requirements : Mac OS X 10.3 or higher with X11
+
+ Download 
+File Size: 84.9 MB
+
+ Home Page 
+
+ ImageMagick 6.3.6 
+
+ImageMagick is a software suite to create, edit, and compose bitmap
+images. It can read, convert and write images in a large variety of
+formats. Images can be cropped, colors can be changed, various effects
+can be applied, images can be rotated and combined, and text, lines,
+polygons, ellipses and Bezier curves can be added to images and
+stretched and rotated.
+
+Most of the functionality of ImageMagick can be used interactively from
+the command line; more often, however, the features are used from
+programs written in the programming languages C, Ch, C++, Java, Lisp,
+Pascal, Perl, PHP, Python, Ruby, Tcl/Tk, for which ready-made
+ImageMagick interfaces (MagickCore, MagickWand, PerlMagick, Magick++,
+PythonMagick, MagickWand for PHP, RMagick, TclMagick, L_Magick, and
+JMagick) are available. This makes it possible to modify or create
+images automatically and dynamically.
+
+ImageMagick supports many image formats (over 95) including formats like
+GIF, JPEG, JPEG-2000, PNG, PDF, PhotoCD, TIFF, and DPX.
+
+ License : Freeware
+ Author/Publisher : ImageMagick Studio
+ Modification Date : October 14, 2007
+ Requirements : Mac OS X
+
+ Download 
+File Size: 6.9 MB
+
+ Home Page 
+
+ Inkscape 0.45.1 
+
+Inkscape is an Open Source vector graphics editor, with capabilities
+similar to Illustrator, Freehand, CorelDraw, or Xara X using the W3C
+standard Scalable Vector Graphics (SVG) file format. Supported SVG
+features include shapes, paths, text, markers, clones, alpha blending,
+transforms, gradients, patterns, and grouping. Inkscape also supports
+Creative Commons meta-data, node editing, layers, complex path
+operations, bitmap tracing, text-on-path, flowed text, direct XML
+editing, and more. It imports formats such as JPEG, PNG, TIFF, and
+others and exports PNG as well as multiple vector-based formats.
+
+Inkscape's main goal is to create a powerful and convenient drawing tool
+fully compliant with XML, SVG, and CSS standards. We also aim to
+maintain a thriving user and developer community by using open,
+community-oriented development process, and by making sure Inkcape is
+easy to learn, to use, and to extend.
+
+ License : Freeware
+ Author/Publisher : Inkscape Developers
+ Modification Date : March 21, 2007
+ Requirements : Mac OS X 10.4 or higher and X11
+
+ Download 
+File Size: 22.9 MB - Universal
+
+ Home Page 
+
+ OpenOffice 2.3 
+
+OpenOffice.org the product is a multi-platform office productivity
+suite. It includes the key desktop applications, such as a word
+processor, spreadsheet, presentation manager, and drawing program, with
+a user interface and feature set similar to other office suites.
+Sophisticated and flexible, OpenOffice.org also works transparently with
+a variety of file formats, including those of Microsoft Office, and the
+vendor-neutral OpenDocument standard from OASIS.
+
+ License : Freeware
+ Author/Publisher : openoffice.org
+ Modification Date : September 30, 2007
+ Requirements : Mac OS X 10.4 or higher and X11
+
+ Download 
+File Size: 148 MB
+
+ Home Page 
+
+ Wireshark 0.99.5 
+
+Sniffing Problems A Mile Away
+
+Same developers, same code, different name. The Ethereal network protocol analyzer has
+changed its name to Wireshark.
+
+Wireshark's powerful features make it the tool of choice for network troubleshooting,
+protocol development, and education worldwide.
+
+Wireshark was written by an international group of networking experts, and is an example
+of the power of open source. It runs on Windows, Linux, UNIX, and other platforms.
+
+ License : Freeware
+ Author/Publisher : wireshark.org
+ Modification Date : February 1, 2007
+ Requirements : Mac OS X 10.3 or higher, X11
+
+ Download 
+File Size: 13.3
+
+ Download 
+File Size: 62.1 - Mac OS X Package by Andreas Fink
+
+ Download 
+File Size: 73.6 - Mac OS X Package by Andreas Fink
+
+ Download Page - Mac OS X Package by Andreas Fink
+
+ Home Page 
+
+ X11 2006 1.1.3 
+
+Prior to the introduction of Mac OS X, virtually the only way developers
+could create a graphical application in a UNIX-based operating system
+was with the X Window System, more commonly called X11. X11 for Mac OS X
+offers UNIX users the ability to run thousands of X11 applications
+concurrently with other Mac OS X applications.
+
+ License : Freeware
+ Author/Publisher : Apple
+ Modification Date : November 13, 2006
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 49.7 MB - 2006 Update
+
+ Download Page 
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

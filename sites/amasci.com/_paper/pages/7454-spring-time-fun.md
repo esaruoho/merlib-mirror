@@ -1,0 +1,552 @@
+---
+title: "Spring Time Fun"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/9596/pull76.htm
+order: 7454
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T06:00:04Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Spring Time Fun
+
+*Source page: `~samoyed/iwpa/9596/pull76.htm`*
+
+Pull 76, First day of event (Sat)
+
+Spring Time Fun
+
+Yelm, Washington
+
+Organizer(s): Steve & Jason Loper
+
+Region: 2
+
+Track: ?
+
+Date: 03/02/96
+
+Weather: Very sunny, but cold (wind) 50F
+
+Dog's Name
+
+Reg
+
+Pulled
+
+Time
+
+Weight
+
+%
+
+Handler
+
+Breed
+
+35 Class
+
+Sass
+
+2
+
+950
+
+1.04
+
+31
+
+30.65
+
+Jaime Morris
+
+Cocker Spaniel
+
+Dollar
+
+2
+
+390
+
+30.37
+
+28
+
+13.93
+
+Jane Riffle
+
+Welsh Corgi
+
+60 Class
+
+Newton
+
+2
+
+1930
+
+13.18
+
+52
+
+37.12
+
+Becky Jensen
+
+Am. PitBull
+
+Grip
+
+2
+
+1930
+
+14.60
+
+54
+
+35.74
+
+Diane Jessup
+
+Am. PitBull
+
+Maxx
+
+2
+
+1090
+
+53.38
+
+57
+
+19.12
+
+Steve Loper
+
+Samoyed
+
+\* Karadji
+
+2
+
+950
+
+50.11
+
+56
+
+16.96
+
+Judy Cooper
+
+Samoyed
+
+Jingo
+
+2
+
+810
+
+6.67
+
+59
+
+13.73
+
+Renee Graham
+
+Am. PitBull
+
+Flint
+
+2
+
+810
+
+9.54
+
+50
+
+16.20
+
+Stan Hiller
+
+Am. PitBull
+
+Quazar
+
+2
+
+810
+
+50.11
+
+52
+
+15.58
+
+Jason Loper
+
+Samoyed
+
+Buddy
+
+2
+
+670
+
+17.44
+
+53
+
+12.64
+
+Danielle Olsson-Boyd
+
+Samoyed
+
+Babe
+
+2
+
+670
+
+18.14
+
+52
+
+12.88
+
+Kathy Buckner
+
+Samoyed
+
+Tika
+
+2
+
+530
+
+9.60
+
+40
+
+13.25
+
+Judy Cooper
+
+Samoyed
+
+Kaelin
+
+2
+
+530
+
+21.64
+
+46
+
+11.52
+
+Kathy Buckner
+
+Samoyed
+
+Riser
+
+2
+
+No Pull
+
+46
+
+0.00
+
+Dorthea Jacobsen
+
+Samoyed
+
+80 Class
+
+\* Tazmanian Pulle
+
+2
+
+2350
+
+19.87
+
+74
+
+31.76
+
+Dean Tibbet
+
+Am. PitBull
+
+Norma Jean
+
+2
+
+2175
+
+50.70
+
+78
+
+27.88
+
+David Douthit
+
+Am. Bulldog
+
+Odin
+
+2
+
+2000
+
+12.56
+
+70
+
+28.57
+
+Diane Jessup
+
+Doberman
+
+Kodiak
+
+2
+
+1125
+
+60.38
+
+67
+
+16.79
+
+Cheri Hollenback
+
+Samoyed
+
+Covee
+
+2
+
+950
+
+11.43
+
+68
+
+13.97
+
+Jane Riffle
+
+Alaskan Malamut
+
+Misha
+
+2
+
+775
+
+39.27
+
+68
+
+11.40
+
+Annette Brink
+
+Alaskan Malamut
+
+100 Class
+
+\* Hoss
+
+2
+
+2245
+
+30.04
+
+88
+
+25.51
+
+Dean Tibbet
+
+Am. Bulldog
+
+\* Max
+
+2
+
+2070
+
+15.14
+
+96
+
+21.56
+
+Annette Brink
+
+Alaskan Malamut
+
+\* Tarik
+
+2
+
+2070
+
+28.14
+
+90
+
+23.00
+
+Bina Renkopp-Rivera
+
+Alaskan Malamut
+
+\* Sheba
+
+2
+
+1545
+
+12.89
+
+82
+
+18.84
+
+David Daly
+
+Alaskan Malamut
+
+\* Rebel
+
+2
+
+1545
+
+14.46
+
+84
+
+18.39
+
+Al Morris
+
+Mastiff
+
+Larry
+
+2
+
+1195
+
+48.25
+
+84
+
+14.23
+
+Jane Riffle
+
+Alaskan Malamut
+
+120 Class
+
+Lonesome
+
+2
+
+1405
+
+2.33
+
+115
+
+12.22
+
+Deanne Morris
+
+Rottweiler
+
+Unlimited Class
+
+Thor
+
+2
+
+2980
+
+11.93
+
+158
+
+18.86
+
+Don Dunsworth
+
+St. Bernard
+
+Kody
+
+2
+
+2980
+
+34.59
+
+125
+
+23.84
+
+Jeff Parsons
+
+Alaskan Malamut
+
+Joe Kool
+
+2
+
+1405
+
+34.50
+
+164
+
+8.57
+
+Ray Slish
+
+St. Bernard
+
+\* - Personal best
+
+------------------------------------------------------------------------
+
+[Next day](pull77.htm)\
+[Earlier region 2 pull](pull72.htm)\
+[Later region 2 pull](pull82.htm)\
+[Previous IWPA Pull](pull74.htm)\
+[Next IWPA Pull](pull78.htm)\
+
+[Pull Index](pulllist.htm)
+
+[Wheels Standings](wheels.htm)\
+[Snow Standings](snow.htm)

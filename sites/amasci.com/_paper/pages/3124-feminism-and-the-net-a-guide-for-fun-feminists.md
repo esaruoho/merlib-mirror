@@ -1,0 +1,241 @@
+---
+title: "Feminism and the Net - a guide for fun feminists"
+source_domain: amasci.com
+source_path: ~feminist/nownetin.html
+order: 3124
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T05:56:34Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Feminism and the Net - a guide for fun feminists
+
+*Source page: `~feminist/nownetin.html`*
+
+Feminism and the Net (HTML)
+
+------------------------------------------------------------------------
+
+Back to the [Washington State NOW Home Page](wastnow.html)
+
+------------------------------------------------------------------------
+
+To add material to this Net primer, email the [WA NOW Webitor](mailto:feminist@eskimo.com?subject=NOWNETIN-ADD)
+
+------------------------------------------------------------------------
+
+What's in this primer (index)
+
+- [Introduction](#INTRO)
+- [Mailing Lists](#LISTS)
+- [FTP: anonymous File Transfer Protocol](#FTP)
+- [Gopher](#GOPHER)
+- [WWW: World Wide Web](#WWW)
+- [Newsgroups (UseNet)](#NEWSGROUPS)
+- [Electronic Mail (Email)](#EMAIL)
+- [Credits](#CREDITS)
+
+------------------------------------------------------------------------
+
+# <span id="INTRO">Feminism and the Net: a guide for fun feminists</span>
+
+## An Introduction to Feminism and the Net
+
+Since the 1995 resolutions at the National NOW Conference, NOW members and other feminists are starting to use the Internet (or Net) for many things: research, electronic mail, organizing, and (*my favorite*) activism.
+
+For those of us new to the Net (or **"Newbies"**), it helps to have some ideas as to where to start. For that reason, here's a short primer on some of the Feminist resources and other useful things that one can find on the Net. By no means exhaustive, this is just a start.
+
+The Net is divided into many parts, each of use in its own way. I've included some of the categories that I tend to use: **Mailing Lists**, anonymous File Transfer Protocol (**FTP**), **Gopher**, World Wide Web (**WWW**), **Newsgroups** (including News Clipping Services), and electronic mail (**email**). You may have access to one or more of these. If shopping for your own service (if your work or educational institution doesn't provide it), look for something which doesn't charge per hour, as it can get very expensive otherwise. Commercial on-line services are a lot easier to use, but tend to cost a lot more. Two of the best for feminists are Women's WIRE (Women's Information & Resource Exchange) and the Well (from San Francisco). Some services are free through Public Libraries: ask and see.
+
+------------------------------------------------------------------------
+
+## <span id="LISTS">Mailing Lists</span>
+
+One of the most useful and more private methods of communicating is the use of a Mailing List. Since the moderator of the list controls access, it is least likely to have as many abusive anti-feminists (many of whom will call themselves feminists) as other methods, while still allowing one to interact with many other individuals with similar interests. Most Mailing Lists are maintained by something called ListProc, ListServ, SmartList or Majordomo. When subscribing to the List (or asking to change your account), you communicate with the ListServ. Since a Mailing List can get anywhere from 10 to 100 letters per day, it's a good idea to use the Digest version (to do this, add the line\
+`SET MAIL DIGEST`\
+as a second line when you subscribe). A Digest is an easier to read version that gathers all the letters sent that day to the Mailing List into one big letter that is then sent to you. If unsure of this or other options, try sending a one-line message of HELP or INFO instead of subscribing first. If you send a letter to the Mailing List, everyone on the mailing list gets a copy of your letter (great for announcements).
+
+Example: To get info on **ECOFEM**, send a message to: <listserv@csf.colorado.edu> with text of **INFO** or **HELP**. To subscribe to ECOFEM, send a message to the same address with text of:\
+\
+` Sub ECOFEM William Affleck-Asch <- replace with your name`\
+`SET ECOFEM MAIL DIGEST <- request the Digest version (optional)`\
+
+**Here are some useful Mailing Lists:** (first Net address is the mailing list, second is to subscribe)
+
+- **PNWFEM-LEG** - Pacific NorthWest Feminist Legislative and Legal Issues List (open to all feminists, hosted by Washington State NOW) - [pnwfem-leg@eskimo.com](mailto:pnwfem-leg-request@eskimo.com?subject=SUBSCRIBE) (to sub, send msg to: [pnwfem-leg-request@eskimo.com](mailto:pnwfem-leg-request@eskimo.com?subject=SUBSCRIBE),\
+  text: `subscribe YourEmailAddress` ) For digest, send to [pnwfem-leg-digest-request@eskimo.com](mailto:pnwfem-leg-digest-request@eskimo.com?subject=SUBSCRIBE) the same message.
+- **PNWFEM-GEN** - Pacific NorthWest Feminist General Issues List (open to all feminists, hosted by Washington State NOW - [pnwfem-gen@eskimo.com](mailto:pnwfem-gen@eskimo.com?subject=SUBSCRIBE) (to sub, send msg to: [pnwfem-gen-request@eskimo.com](mailto:pnwfem-gen-request@eskimo.com?subject=SUBSCRIBE),\
+  text: `subscribe YourEmailAddress` ) For digest, send to [pnwfem-gen-digest-request@eskimo.com](mailto:pnwfem-gen-digest-request@eskimo.com?subject=SUBSCRIBE) the same message.
+- **NOW Action List** - National NOW Action and Legislative Update list (open to all NOW members) - <now-action-list@now.org> (to sub, send msg to: <majordomo@now.org>,\
+  text: `subscribe now-action-list` )
+- **Great Lakes NOW** - Marion Wagner (<iboh100@indycms.iupui.edu>) maintains a Listserv mailing list for NOW members in the Great Lakes region - <glnow@indycms.iupui.edu> (to sub, send msg to: <listserv@indycms.iupui.edu>,\
+  with text of: `subscribe GLNOW YourFirstName, YourLastName`)
+- **Abigail's List** - ABIGAILS-L is a feminist activist discussion list dedicated to gaining full and equal women's rights through immediate actions. <abigails-l@home.ease.lsoft.com> (to sub, send msg to: <listserv@home.ease.lsoft.com> with text of: `SUBSCRIBE ABIGAILS-L` Your subscription request will be forwarded to the listowners for approval.
+- **CAN-RW** - (Campus Activists' Network, Right-Wing alert) (to sub, send msg to: <canet@pencil.math.missouri.edu> with subject of: `canet`\
+  and text of: `SUB CAN-RW Your Name`\
+  For more information, contact KOWAN@AI.MIT.EDU
+- **CAN-YFN** - (Campus Activists' Network, Young Feminist Network) (to sub, send msg to: <canet@pencil.math.missouri.edu> with subject of: `canet`\
+  amd text of: `SUB CAN-YFN Firstname Lastname`
+- **CATTS-CLAWS** - periodic news concerning the feminist community, created by Irene Stuber. <catts-claws@netcom.com> (to sub, send msg to: <listserv@netcom.com> with text of: `SUBSCRIBE CATTS-CLAWS`
+- **CCOAR** - Coalition of Campus Organizations Addressing Rape (moderated) (to sub, send msg to: [eribet@orion.oac.uci.edu](mailto:eribet@orion.oca.uci.edu) or to <u54232@uicvm.uic.edu>. with subject of: `sub CCOAR YourEmailAddress`\
+  and for text: include your name, email address, the password you want to use (4-8 letters), and specify if you want to receive the list in digest form.
+- **ECOFEM** - Ecofeminist - <ecofem@csf.colorado.edu> (to sub, send msg to: <listserv@csf.colorado.edu>,\
+  text: `Sub ECOFEM FirstName LastName` )
+- **EMILYS-LIST** - Early Money Is Like Yeast (pro-choice Democratic women) - (to sub, send msg to: <majordomo@newmedium.com> text: `SUBSCRIBE EMILYS-LIST` )
+- **FEMECON-L** - Feminist Economists - <femecon-l@bucknell.edu> (to sub, send msg to: <listserv@bucknell.edu>,\
+  text: `Sub FEMECON-L FirstName LastName` )
+- **FEMINIST** - ALA Feminist Mailing List - <feminist@mitvma.mit.edu> (to sub, send msg to: <listserv@mitvma.mit.edu>,\
+  text: `Sub FEMINIST FirstName LastName` ). Supposedly restricted to the American Library Association, but they never check; this does talk about feminist library issues mostly.
+- **FEMISA** - Feminist Issues - <femisa@csf.colorado.edu> (to sub, send msg to: <listserv@csf.colorado.edu>, text: `Sub FEMISA FirstName LastName` ).
+- **FEM-ALERT** - Feminist Alert Network - from the Feminist Majority (to sub, send msg to: <majordomo@feminist.org> text: `SUBSCRIBE FEM-ALERT` ).
+- **FGM-L** - Female Genital Mutilation in the United States and internationally. (to sub, send msg to: <majordomo@hollyfeld.org> text: `SUBSCRIBE FGM-L YourEmailAddress` ).
+- **GLB-NEWS** - Gay & Lesbian News - glb-news@listserv.aol.com (to sub, send msg to: listserv@listserv.aol.com, text: Sub glb-news FirstName LastName, leave subject blank).
+- **PAR-L** - bilingual (English/French), moderated list for women in Canada. (to sub, send msg to: [PAR-L-SERVER@UNB.CA](mailto:par-l-server@unb.ca) with text of: `SUBSCRIBE PAR-L Firstname Lastname` ).
+- **PRAXNEX** - Praxis Nexus - (moderated) - for feminist activist networking and discussion. More info from listowner Pamela Moss (pamelam@uvic.ca). (to sub, send msg to: [LISTSERV@UVVM.UVIC.CA](mailto:listserv@uvvm.uvic.ca) \[UVVM has 2 v's, not a w\]\
+  with text of: `SUBSCRIBE PRAXNEX Your Name`
+- **STOPRAPE** - sexual assault activist list - (to sub, send msg to: [LISTSERV@BROWNVM.BROWN.EDU](mailto:listserv@brownvm.brown.edu) with text of: `sub STOPRAPE YourEmailAddress` ).
+- **WHAM! Online** - Women's Health Action and Mobilization - (to sub, send msg to: [LISTPROC@LISTPROC.NET](mailto:listproc@listproc.net)\
+  with text of: `SUBSCRIBE WHAM Your Name`
+- **WMST-L** - Women's Studies List - WMST-L@umdd.umd.edu (to sub, send msg to: listserv@umdd.umd.edu, text: Sub WMST-L FirstName LastName )
+- **WOMEN-CLINICDEFENSE** - list for info, discussion, and analysis of "the escalating war against women, particularly regarding reproductive rights and abortion access." (to sub, send msg to: <majordomo@igc.apc.org> with text of: `SUBSCRIBE WOMEN-CLINICDEFENSE YourEmailAddress` ).
+
+There are additional Mailing Lists noted in Laura Hunt's "Sources for Women's Studies / Feminist Information on the Internet" and Jeanne M. Langendorfer's "Women's Studies / Gender Studies", which can be reached at the University of Maryland's Gopher & FTP sites ( [inform.umd.edu](gopher://inform.umd.edu/) ).
+
+Joan Korenman (<korenman@umbc2.umbc.edu>) maintains a compilation about other women- and gender-related mailing lists for WMST-L. It's available on the Web at:\
+<http://www.umbc.edu/wmst/forums.html>\
+Her compilation is updated **FREQUENTLY**. In a recent month, for example, there were 22 changes made. And I thought I had no personal life ... :-)
+
+------------------------------------------------------------------------
+
+## <span id="NEWSGROUPS">Newsgroups</span>
+
+Most Internet Newsgroups are found on UseNet, and some newsgroups have email digests of their postings.
+
+The best Newsgroup for feminists is still **soc.feminism**, a moderated pro-feminist Newsgroup. While **soc.women** and **alt.feminism** get more traffic, they get a lot of posts from anti-feminists and can seem fairly hostile to most women. For Lesbigays, there's **soc.motss** to peruse. If you get abusive email from someone, consider sending a message to their address, but replace the part before the @ with Postmaster. (E.g. to complain about feminist@eskimo.com, send mail to Postmaster@eskimo.com, using the Reply method that sends the Full text of the offensive letter). This gets the best results.
+
+------------------------------------------------------------------------
+
+## <span id="FTP">anonymous FTP</span>
+
+Anonymous File Transfer Protocol is available through FTP (login as anonymous, with your Net address as the password) or NCFTP (does it for you). This is a method of sending and receiving files around the world. Remember, the question mark (?) or the word HELP will usually get you a listing of the commands that work, and typing MAN FTP normally gives you an online manual for FTP. An interesting aside: most systems allow you to use WOMAN FTP instead of MAN FTP. I currently maintain an FTP directory for Washington State NOW, NARAL, etc. on ftp.eskimo.com ([FTP://ftp.eskimo.com/u/f/feminist/](ftp://ftp.eskimo.com/u/f/feminist/)). To get a list of files, type DIR or LS -L ; to copy the files to your site, type GET filename (but set it to Binary or Text first). There are hundreds of files, including action alerts (ALERT, NARAL, FMO, etc.), copies of position papers, Irene Stuber's Women of Achievement and Herstory and Catt's Claw newsletters, this file, and whatever I found interesting. If you want to upload to there, just ask.
+
+**Some FTP sites of interest:**
+
+- Microsoft: ftp.microsoft.com (get a free copy of the Internet Explorer browser here)
+- Northwest Net: ftp.nwnet.net
+- President at the White House: whitehouse.gov
+- US Senate: ftp.senate.gov
+- Voice of America: voa.gov
+- Washington State Legislature: [leginfo.leg.wa.gov](ftp://leginfo.leg.wa.gov)
+- US Congress WWW: [thomas.loc.gov](ftp://thomas.loc.gov)
+- NOW (National Organization for Women): ftp.now.org
+
+------------------------------------------------------------------------
+
+## <span id="GOPHER">Gopher</span>
+
+Gopher is a searchable, menu-driven method of getting files without having to type in all those long names and do the downloading. Many gopher sites are interconnected, so that you can get from one to the other. Generally, to use a different Gopher than the one that you usually use, type `gopher://gopher.address.here/` - with the `gopher.address.here` listed below.
+
+- gopher.bucknell.edu - Bucknell Archives Gopher
+- gopher.epa.gov - Environmental Protection Agency Gopher
+- peg.cwis.uci.edu - Government Gopher Lists
+- gopher.spu.edu - Seattle Pacific University
+- gopher.seattle.wa.us - Seattle USA Gopher (various local stuff)
+- [gopher.house.gov](gopher://gopher.house.gov) - US Congress Gopher
+- [marvel.loc.gov](gopher://marvel.loc.gov) - US Library of Congress Gopher
+- [gopher.senate.gov](gopher://gopher.senate.gov) - US Senate Gopher
+- gopher.hwwilson.com - Wilson Library Bulletin
+- inform.umd.edu - Women's Studies Archives (Univ of Maryland)
+- [leginfo.leg.wa.gov](gopher://leginfo.leg.wa.gov) - Washington State Legislature
+- [thomas.loc.gov](gopher://thomas.loc.gov) - US Congress WWW
+- una.hh.lib.umich.edu/0/socsci/poliscilaw/usleg/conemail - Directory of Congressional EMail addresses (hey, it was in the NYTimes ...)
+- now.org - well, if it's WWW it probably handles Gopher, so I'm going to see if the NOW Home Page is also a Gopher site (or maybe gopher.now.org)
+
+------------------------------------------------------------------------
+
+## <span id="WWW">World Wide Web (WWW)</span>
+
+While the World Wide Web is the easiest to use, especially with Netscape or Internet Explorer (see the FTP list for where to get it free), it can be slow to use, unless you have ISDN, ADSL, or a cable modem (all expensive). Recently, one of the online Feminist activists announced that she has made her WWW home page (the starting point) available. I've listed it first, followed by other WWW sites that you may wish to add to your home page. I'm no expert on this, but I know that, once you add something to your home page, it's a lot easier to use than any other Net method. Feel free to contact webperson@now.org, the originator of the Feminist Activist World Wide Web Home Page for further assistance. (And the NOW Home Page)
+
+World Wide Web pages can be accessed through e-mail for text-basedinformation.
+
+Instructions:
+
+send a message to: <webmail@www.ucc.ie>
+
+don't put anything in the subject line.
+
+The request goes in the text area.
+
+To get the NOW page type: `GO http://www.now.org/`
+
+The mail server sends the document back in the form of an e-mail message.
+
+In the documents you receive, you'll find that numbers in brackets, such as \[7\], represent the document's hypertext references. At the end of the message the addresses (URL's) for the link will be present.
+
+To get the linked document copy that HTTP reference and submit another message to the listserv.
+
+- Washington State NOW
+  - [Washington State NOW Home Page](http://www.eskimo.com/~feminist/wastnow.html): "http://www.eskimo.com/~feminist/wastnow.html"
+  - [FASTER Washington State NOW site](http://home.att.net/~feminist/wanow/wastnow.html): "http://home.att.net/~feminist/wanow/wastnow.html"
+  - [some online Washington State NOW stuff](ftp://ftp.eskimo.com/u/f/feminist/): "ftp://ftp.eskimo.com/u/f/feminist/"
+  - [NOW and other feminist events in Washington State](http://www.eskimo.com/~feminist/events.html)
+  - [Other Sites from Washington State NOW](http://www.eskimo.com/~feminist/wastnow.sites.html)\
+    contains the links following for other sites
+  - [Media Contacts from Washington State NOW](http://www.eskimo.com/~feminist/wastnow.media.html)
+- Feminist Activist WWW Home Page: [http://www.igc.apc.org/women/feminist.html](http://www/igc.apc.org/women/feminist.html)
+- Netscape web browser (free version): <http://www.netscape.com>
+- Microsoft web browser (Internet Explorer) (free version): <http://www.microsoft.com>
+- Dummies Daily--The Online Resource for the Rest of Us: <http://www.dummiesdaily.com/>
+- US Supreme Court Decisions: "http://www.law.cornell.edu/supct/supct.table.html"
+- Women's Information & Resource Exchange (Women's WIRE): "http://women.com/"
+- US Congress WWW Site (Thomas): <http://thomas.loc.gov/>
+- Washington State Legislature: <http://leginfo.leg.wa.gov/>
+- The White House: <http://www.whitehouse.gov/>
+- Fedworld (Guide to govt databases): "http://www.fedworld.gov/"
+
+------------------------------------------------------------------------
+
+## <span id="EMAIL">Email</span>
+
+Here are a few of the more useful email addresses for feminists on the Net that I've seen: (The Net address for the President & Vice-President works: applying pressure to them about Taslima Nasrin got a number of responding letters from the State Dept.)
+
+- Washington State NOW [Email your Govt Officials](http://www.eskimo.com/~feminist/wastnow.govt.mail.html)
+- National Organization for Women (NOW): <now@now.org>
+- Equal Means (tri-annual Journal published by the Ms. Foundation): hn1526@handsnet.org equalmean@igc.apc.org
+- EMail Directory of Lesbigay Scholars: lcrew@andromeda.rutgers.edu ; also maintains an announcement mail drop for all listed members as a resource list.
+- Ms. Magazine: ms@echonyc.com
+- President of the US: <president@whitehouse.gov>
+- Vice-President of the US: <vice-president@whitehouse.gov>
+- US House of Representatives (current list of online Reps and Committees): <congress@hr.house.gov> (sends return mail with current list)
+- Speaker Newt Gingrich: georgia6@hr.house.gov
+- Senator Edward M. Kennedy: senator@kennedy.senate.gov
+- Where to complain about spam (unsolicited email): <uce@ftc.gov> (but not sex ads, sadly, unless forged)
+- US White House documents: send msg to: <Publications@whitehouse.gov>, with text: `send info`
+- US White House (other): send msg to: <Clinton-Info@Campaign92.org>, subject: `Help`
+- Women's Non-Governmental Organizations (NGOs) online: womensdesk@igc.apc.org
+- Women's Legal & Public Policy Issues: um-womenlegpol@umich.edu
+- Women's Environmental & Development Organization (WEDO): wedo@igc.apc.org
+
+<span id="CREDITS"></span>
+
+I hope this article has been of help, regardless of which Net resources you can use. If you find any useful ones, please contact me at: [feminist@eskimo.com](mailto:feminist@eskimo.com?subject=ADD-NOWNETIN)and I'll add them to my list.
+
+========= END OF nownetin.html FILE ==================\
+William Affleck-Asch\| The above is my personal opinion only and does not\
+Seattle \_\_\_\_\_\_\_\_\_\_\_ \| necessarily reflect the opinions of any of the\
+feminist@eskimo.com \| many organizations I belong to or represent. :-)\
+
+------------------------------------------------------------------------
+
+Back to the [Washington State NOW Home Page](wastnow.html)\
+Feminism and the Net - a guide for fun feminists\
+( "http://www.eskimo.com/~feminist/nownetin.html" )\
+Maintained by [William Affleck-Asch](index.html), [feminist@eskimo.com](mailto:feminist@eskimo.com?subject=NOWNETIN)\
+Seattle NOW member\
+
+Copyright (c) 1994-2000 William Affleck-Asch. All Rights Reserved. Permission to reprint for non-commercial use or by any NOW or NARAL Chapter granted. Permission to repost or upload granted if file is in its entirety.
+
+Last updated: April 26, 2000\

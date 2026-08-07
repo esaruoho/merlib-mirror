@@ -1,0 +1,619 @@
+Juno-106 MIDI Implementation 
+
+ Juno-106 MIDI Implementation 
+
+ This information is taken from the Juno-106 Owner's Manual. Corrections
+can be mailed to Chad Beeder at syzygy@eskimo.com . 
+
+ Transmitted Data 
+
+ When MIDI Function is 1. 
+
+ Note events, Hold on/off, and Channel Mode messages are sent. 
+
+ Status 
+
+ Second 
+
+ Third 
+
+ Description 
+
+ 1001 nnnn 
+
+ 0kkk kkkk 
+
+ 0100 0000 
+
+ Note On 
+
+ 1001 nnnn 
+
+ 0kkk kkkk 
+
+ 0 
+
+ Note Off 
+
+ 1011 nnnn 
+
+ 0100 0000 
+
+ 0111 1111 
+
+ Hold On (from rear panel jack) 
+
+ 1011 nnnn 
+
+ 0100 0000 
+
+ 0 
+
+ Hold Off 
+
+ 1011 nnnn 
+
+ 0111 1011 
+
+ 0 
+
+ All Notes Off* 
+
+ 1011 nnnn 
+
+ 0111 1100 
+
+ 0 
+
+ Omni Off** 
+
+ 1011 nnnn 
+
+ 0111 1111 
+
+ 0 
+
+ Poly On** 
+
+ Notes: 
+
+ nnnn: MIDI channel number-1. (If chan=1, nnnn=0000) 
+kkkkkkk: 24-108 
+* When all notes turn off 
+** When power up or MIDI channel number is set 
+
+ When MIDI Function is 2. 
+
+ All messages in Function 1, plus Program Change, Bender, and LFO Modulation
+are sent. 
+
+ Status 
+
+ Second 
+
+ Third 
+
+ Description 
+
+ 1100 nnnn 
+
+ 0ppp pppp 
+
+ Program Change (0-127) 
+
+ 1110 nnnn 
+
+ 0bb0 0000 
+(LSB) 
+
+ 0bbb bbbb 
+(MSB) 
+
+ Pitch Bender 
+MAX (high): MSB=127, LSB=96 
+CENTER: MSB=64, LSB=0 
+MIN (low): MSB=0, LSB=0 
+
+ 1011 nnnn 
+
+ 0000 0001 
+
+ 0111 1111 
+
+ LFO Modulation On 
+
+ 1011 nnnn 
+
+ 0000 0001 
+
+ 0 
+
+ LFO Modulation Off 
+
+ When MIDI Function is 3. 
+
+ All messages in Function 1, plus Bender, LFO Modulation and System Exclusive
+messages are sent. 
+
+ Recognized Receive Data 
+
+ When MIDI Function is 1. 
+
+ When power is first applied, receiver's mode is Omni On, Poly mode.
+Note events, Hold on/off and Channel Mode messages are recognized. 
+
+ Status 
+
+ Second 
+
+ Third 
+
+ Description 
+
+ 1000 nnnn 
+
+ 0kkk kkkk 
+
+ 0vvv vvvv 
+
+ Note Off, velocity ignored 
+
+ 1001 nnnn 
+
+ 0kkk kkkk 
+
+ 0000 0000 
+
+ Note Off 
+kkkkkkk=0-127 (24-108) 
+
+ 1001 nnnn 
+
+ 0kkk kkkk 
+
+ 0vvv vvvv 
+
+ Note On 
+kkkkkkk=0-127 (24-108) 
+vvvvvvv=1-127, velocity ignored 
+
+ 1011 nnnn 
+
+ 0100 0000 
+
+ 0 
+
+ Hold Off 
+
+ 1011 nnnn 
+
+ 0100 0000 
+
+ 0vvv vvvv 
+
+ Hold On 
+vvvvvvv=1-127 
+
+ 1011 nnnn 
+
+ 0111 1011 
+
+ 0 
+
+ All Notes Off 
+
+ 1011 nnnn 
+
+ 0111 1100 
+
+ 0 
+
+ Omni Off 
+
+ 1011 nnnn 
+
+ 0111 1101 
+
+ 0 
+
+ Omni On 
+
+ 1011 nnnn 
+
+ 0111 1110 
+
+ 0mmm mmmm 
+
+ Mono On 
+
+ 1011 nnnn 
+
+ 0111 1111 
+
+ 0 
+
+ Poly On 
+
+ Notes: 
+
+ Mode messages (123-127) are also recognized as All Notes Off. 
+The Juno-106 does not respond to Mono On messages. 
+
+ Mode messages are recognized as follows: 
+
+ Poly On 
+
+ Mono On 
+mmmmmmm=1 
+
+ Mono On 
+mmmmmmm<>1 
+
+ Omni Off ($7C) 
+
+ Omni=Off, Poly 
+
+ Omni=Off, Poly 
+
+ Omni=On, Poly 
+
+ Omni On ($7D) 
+
+ Omni=On, Poly 
+
+ Omni=On, Poly 
+
+ Omni=On, Poly 
+
+ Recognized channels are as follows: 
+
+ Mode 
+
+ Voice Messages 
+
+ Mode Messages 
+
+ Omni Off mode 
+
+ Basic channel only 
+
+ Basic channel only 
+
+ Omni On mode 
+
+ All channels 
+
+ Basic channel only 
+
+ When MIDI Function is 2. 
+
+ All messages in Function 1, plus Program Change, Bender, and LFO Modulation
+are recognized. 
+
+ Status 
+
+ Second 
+
+ Third 
+
+ Description 
+
+ 1100 nnnn 
+
+ 0ppp pppp 
+
+ Program Change (0-63: Bank A, 64-127: Bank B) 
+
+ 1110 nnnn 
+
+ 0b00 0000 
+
+ 0bbb bbbb 
+
+ Pitch Bender (Least significant 6 bits are ignored) 
+
+ 1011 nnnn 
+
+ 0000 0001 
+
+ 0vvv vvvv 
+
+ LFO Modulation (v=0-127) 
+
+ Notes: 
+
+ Sensitivity of the pitch bender and modulation can be adjusted by receiver.
+
+ When MIDI Function is 3. 
+
+ All messages in Function 2, plus System Exclusive messages are recognized. 
+
+ Exclusive Messages 
+
+ When Group, Bank, or Patch Number is changed. 
+
+ Byte 
+
+ Description 
+
+ a 
+
+ 1111 0000 ($F0) 
+
+ Exclusive 
+
+ b 
+
+ 0100 0001 ($41) 
+
+ Roland ID# 
+
+ c 
+
+ 0011 0000 ($30) 
+
+ Function Type 
+
+ d 
+
+ 0000 nnnn ($0N) 
+
+ N+1=MIDI channel (N=0-15) 
+
+ e 
+
+ 0xxx xxxx 
+
+ Program Number (0-127) 
+
+ f 
+
+ 0zzz zzzz 
+
+ Value (0-127) 
+(18 bytes total for values) 
+
+ g 
+
+ 1111 0111 ($F7) 
+
+ EOX (End of Exclusive) 
+
+ Example: 
+
+ a b c d e f f f f f f f f f
+ F0 41 30 00 00 39 2D 00 37 00 55 00 00 00
+
+ f f f f f f f f f g
+ 19 34 3B 20 56 28 00 1A 18 F7
+
+ When Manual button is pressed. 
+
+ Byte 
+
+ Description 
+
+ a 
+
+ 1111 0000 ($F0) 
+
+ Exclusive 
+
+ b 
+
+ 0100 0001 ($41) 
+
+ Roland ID# 
+
+ c 
+
+ 0011 0001 ($31) 
+
+ Function Type 
+
+ d 
+
+ 0000 nnnn ($0N) 
+
+ N+1=MIDI channel (N=0-15) 
+
+ e 
+
+ 0000 0000 ($00) 
+
+ Number indicates "Manual" 
+
+ f 
+
+ 0zzz zzzz 
+
+ Value (0-127) 
+(18 bytes total for values) 
+
+ g 
+
+ 1111 0111 ($F7) 
+
+ EOX (End of Exclusive) 
+
+ Example: 
+
+ a b c d e f f f f f f f f f
+ F0 41 31 00 00 03 00 00 00 00 3F 3C 00 00
+
+ f f f f f f f f f g
+ 7F 45 00 00 7F 00 00 2A 19 F7
+
+ When sliders are adjusted or switches are changed. 
+
+ Byte 
+
+ Description 
+
+ a 
+
+ 1111 0000 ($F0) 
+
+ Exclusive 
+
+ b 
+
+ 0100 0001 ($41) 
+
+ Roland ID# 
+
+ c 
+
+ 0011 0010 ($32) 
+
+ Function Type 
+
+ d 
+
+ 0000 nnnn ($0N) 
+
+ N+1=MIDI channel (N=0-15) 
+
+ e 
+
+ 0yyy yyyy 
+
+ Parameter number (0-17) (See below) 
+
+ f 
+
+ 0zzz zzzz 
+
+ Value (0-127) 
+
+ g 
+
+ 1111 0111 ($F7) 
+
+ EOX (End of Exclusive) 
+
+ Example: 
+
+ a b c d e f g
+ F0 41 32 00 03 04 F7
+
+ Parameter number table 
+
+ For sliders: 
+
+ $00 
+
+ LFO rate 
+
+ $01 
+
+ LFO delay 
+
+ $02 
+
+ DCO LFO modulation level 
+
+ $03 
+
+ DCO PWM modulation level 
+
+ $04 
+
+ Noise level 
+
+ $05 
+
+ VCF cutoff level 
+
+ $06 
+
+ VCF resonance level 
+
+ $07 
+
+ VCF ENV level 
+
+ $08 
+
+ VCF LFO modulation level 
+
+ $09 
+
+ VCF KYBD modulation level 
+
+ $0A 
+
+ VCA level 
+
+ $0B 
+
+ ENV attack rate 
+
+ $0C 
+
+ ENV decay rate 
+
+ $0D 
+
+ ENV sustain level 
+
+ $0E 
+
+ ENV release rate 
+
+ $0F 
+
+ Sub level 
+
+ For buttons/switches: 
+
+ bit: 
+
+ 6 
+
+ 5 
+
+ 4 
+
+ 3 
+
+ 2 
+
+ 1 
+
+ 0 
+
+ $10 
+
+ Chorus Level 
+1: I, 0: II 
+
+ Chorus 
+1: Off, 0: On 
+
+ Sawtooth 
+1: On, 0: Off 
+
+ Pulse 
+1: On, 0: Off 
+
+ Range 
+100: 4', 010: 8', 001: 16' 
+
+ $11 
+
+ 0 
+
+ 0 
+
+ High Pass Filter 
+11: Off, 10: 1, 01: 2, 00: 3 
+
+ VCA 
+1: gate, 0: ENV 
+
+ ENV 
+1: -, 0: + 
+
+ PWM 
+1: Manual, 0: LFO

@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>Graphical Net Access</title>
+</head>
+<body>
+Navigating the Internet can be a difficult task using text based tools, even for
+those familiar with Unix. Wouldn't it be great to use the wonderful graphical
+interface of the Macintosh to access the net? Well, you can. Point-and-click
+applications are available for things like email, World Wide Web browsing, and
+Usenet news. These used to only be available to those with direct gateways to
+the net, or with expensive dialup SLIP connections. Now there is a program
+called <a href="http://marketplace.com/tia/tiahome.html">TIA</a> that gives you
+the advantages of SLIP using a dialup connection to a regular Unix system.
+<h2>What you need</h2>
+On your mac you need MacTCP and InterSLIP (or any other SLIP package). You also
+need a "client" program for each of the things you want to do. There are often
+multiple programs available that do essentially the same thing, just like there
+are different word processors available. For example, there are different kinds of
+Usenet news readers, with slightly different implementations. I use MacWeb to
+access the WWW, Eudora for email, and NewsWatcher for news.<p>
+You also need a script for dialing into your service provider. I've uploaded
+scripts that work for Eskimo North users. Check out my 
+<a href="http://www.eskimo.com/~millerd/">home page</a> for a link to this.  It
+also contains configuration instructions for MacTCP and InterSLIP. These will 
+<em>only</em> work for Eskimo users, although they can be tailored for other
+systems. Here's a <a href="ftp://ftp.eskimo.com/u/m/millerd/DavesLatestTIAScripts.sit.hqx">
+direct link</a> to the scripts.
+<h2>Where to get these programs</h2>
+MacTCP is commercial. It's also included in System 7.5. The cheapest way to
+buy it is by getting Adam Engst's book, <cite>The Internet Starter Kit for 
+Macintosh</cite>. The disk that comes with the book includes MacTCP. This can 
+sometimes be found at the local Costco for $16.99.  It's a deal even if you 
+already have MacTCP. It has useful information on configuring some of the client
+programs.<p>
+Most of the other programs, including InterSLIP, are freeware, available from 
+the 
+<a href="http://rever.nmsu.edu/~elharo/faq/software.html">major sites</a>.
+<h2>TIA & Eskimo North</h2>
+TIA is the software that runs on the unix host system to emulate a SLIP
+connection. You do not need to purchase a copy (assuming you have an Eskimo id). 
+Eskimo North owns a site license. Other sysops consider banning TIA, and ours 
+embraces it. I love this place!<p>
+To manually run TIA, you login with a terminal emulator, then type "tia" at the
+unix command line. You then quit the terminal emulator and start InterSLIP, and
+hit connect (with the dialing and gateway settings as "direct"). The dialing 
+and gateway scripts do all of this automatically.
+<h2>SLiRP</h2>
+SLiRP is another program that is similar to TIA. It was recently installed on
+Eskimo. The staff here says that it's more stable than TIA, and puts less of a
+load on the host. Things may change with the next release of TIA, but for now,
+it's recommended that you try using SLiRP first. My package of scripts includes
+options for either TIA or SLiRP.
+<h2>Other options</h2>
+PPP can also be used for connecting to Eskimo. SLiRP supports PPP, as does the
+latest beta of TIA. To use this, you need MacPPP rather than InterSLIP, and it
+is configured different than InterSLIP. If you wish to try this, Nick Zitzman
+has developed instructions for connecting with MacPPP. 
+<A href="http://www.eskimo.com/~nickzman/MacnSLiRPPP.html">Click here</a> to
+see these. I recommend trying out MacPPP if you have significant troubles getting
+SLIP to work, or if you can't get the performance you expect with SLIP.<p>
+If you have trouble with my scripts, Nick also has another set of similar, but
+slightly different scripts. You could always check those out. They are at
+<A href="ftp://ftp.eskimo.com/u/o/onenet/eskimo_InterSLIP_Scripts.sea.bin">
+ftp://ftp.eskimo.com/u/o/onenet/eskimo_InterSLIP_Scripts.sea.bin</a>.
+<hr>
+Updated Aug 15, 1995<br>
+Dave Miller<br>
+<a href="mailto:millerd@eskimo.com">millerd@eskimo.com</a>
+</body>
+</html>
+

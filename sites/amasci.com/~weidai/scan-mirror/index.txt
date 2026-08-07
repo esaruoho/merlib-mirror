@@ -1,0 +1,39 @@
+Standard Cryptographic Algorithm Naming 
+
+ Contents 
+
+ MessageDigest 
+ Mac (Message Authentication Codes)
+ Cipher (symmetric)
+
+ Block Cipher Modes 
+ Block Cipher Padding 
+
+ KeyGenerator 
+ PRF (Pseudo Random Functions) *
+ PassphraseHash *
+ SecureRandom 
+ Cipher (asymmetric)
+
+ Asymmetric Cipher Encoding Methods 
+
+ Signature 
+
+ Signature Encoding Methods 
+ Signature Output Formats 
+
+ Signcryption *
+-->
+ KeyAgreement 
+ KeyPairGenerator 
+ KeyFactory 
+ AlgorithmParameterGenerator 
+ AlgorithmParameters 
+
+* Experimental; not in JCE 1.2.
+
+ Author : David Hopwood < david.hopwood@zetnet.co.uk > 
+ Current maintainer : David Hopwood < david.hopwood@zetnet.co.uk > 
+
+ Copyright &copy; 1995-2001 The Cryptix Foundation Limited and David Hopwood. All rights reserved. 
+ Cryptix is a trademark of The Cryptix Foundation Limited.

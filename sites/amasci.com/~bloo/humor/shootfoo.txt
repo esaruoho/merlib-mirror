@@ -1,0 +1,88 @@
+foot_OS 
+
+ FOOTOS 
+ A Guide to Modern Operating Systems 
+
+ REDO THIS 
+
+This was inspired by the recent file making its rounds on the Net describing
+how to shoot yourself in the foot in a variety of programming languages.
+Now, the madness is extended to operating systems.
+
+ originally received from Jeremy Elson(jelson@condor.cs.jhu.edu) 
+
+ Unix 
+
+You shoot yourself in the foot.
+
+ DOS 
+
+You keep running up against the one-bullet barrier.
+
+ MS-Windows 
+
+The gun blows up in your hand.
+
+ Windows NT 
+
+The gun is so huge and unwieldy that you have to keep swapping it from one
+ hand to the other.
+
+ OS/2 
+
+The gun and the bullet aren't speaking to each other any more.
+
+ Mac Finder 
+
+It's easy to shoot yourself in the foot -- just point and shoot.
+
+ AIX 
+
+You can shoot yourself in the foot with either a .38 or a .45.
+
+ IRIX 
+
+The Terminator shoots you in the foot. A T-Rex bites your other foot.
+
+ SVR4 
+
+The gun isn't compatible with your foot.
+
+ Minix 
+
+You learn how to shoot yourself in the foot with a Saturday
+Night Special.
+
+ Linux 
+
+Generous programmers from around the world all join forces to help
+you shoot yourself in the foot for free.
+
+ HURD 
+
+You'll be able to shoot yourself in the foot Real Soon Now.
+
+ VM/CMS 
+
+IBM shoots you in the foot.
+
+ VMS 
+
+\FOOT\ ambiguous: supply more toes.
+
+ AMIGA-DOS 
+
+The gun works pretty well, except that few people use one and
+it's impossible to find bullets.
+
+ Mach 
+
+The bullets work pretty well, but they don't make guns for it any more.
+
+ Cray 
+
+You shoot yourself in the foot with an Uzi.
+
+ MasPar 
+
+You shoot all of your friends' feet simultaneously.

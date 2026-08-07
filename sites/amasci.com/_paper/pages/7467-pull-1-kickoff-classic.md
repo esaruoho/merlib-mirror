@@ -1,0 +1,504 @@
+---
+title: "Pull 1 -- Kickoff Classic"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/9899/Pull1.html
+order: 7467
+reachable_from_entry: false
+images: 0
+internal_links: 7
+extracted: 2026-08-07T06:00:06Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 1 -- Kickoff Classic
+
+*Source page: `~samoyed/iwpa/9899/Pull1.html`*
+
+Kickoff Classic\
+Corapeake, NC
+================
+
+Pull: 1
+
+Organizer(s): Todd & Tina Pederson
+
+Wheels Region: 7
+
+Natural
+
+Track: Crushed Granite Screenings Hard & Fast Surface
+
+Date: 9/5/98
+
+Weather:
+
+84 - Slight Breeze, Warm
+
+35 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Diffy
+
+7
+
+1800
+
+14.38
+
+32
+
+56.25
+
+5.0
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Ginger
+
+7
+
+2100
+
+33.47
+
+54
+
+38.89
+
+9.0
+
+Debbie Lee
+
+Am. PitBull Terrier
+
+Samson
+
+7
+
+2100
+
+40.32
+
+54
+
+38.89
+
+6.0
+
+Pat McCann
+
+Am. PitBull Terrier
+
+Reba
+
+7
+
+1800
+
+12.78
+
+39
+
+46.15
+
+3.0
+
+Tina Pederson
+
+Am. PitBull Terrier
+
+Missy
+
+7
+
+1300
+
+13.50
+
+60
+
+21.67
+
+1.0
+
+Ed St. Lawrence
+
+Am. Bull Dog
+
+Charlie (Helter Skelter)
+
+P
+
+800
+
+44.31
+
+49
+
+16.33
+
+.
+
+Jesse Bean
+
+Am. PitBull Terrier
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Gunner
+
+7
+
+2400
+
+12.60
+
+78
+
+30.77
+
+9.0
+
+Todd Pederson
+
+Am. Bull Dog
+
+Bobbie-Sue
+
+7
+
+2200
+
+22.28
+
+73
+
+30.14
+
+6.0
+
+Debbie Lee
+
+Am. Bull Dog
+
+Thunder
+
+7
+
+1800
+
+8.22
+
+63
+
+28.57
+
+3.0
+
+Pat McCann
+
+Am. PitBull Terrier
+
+Ringo
+
+6
+
+1600
+
+9.47
+
+80
+
+20.00
+
+1.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Glory
+
+7
+
+1400
+
+7.56
+
+76
+
+18.42
+
+0.5
+
+Tina Pederson
+
+Am. Bull Dog
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Blitz
+
+6
+
+3200
+
+17.38
+
+92
+
+34.78
+
+10.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Bolo
+
+6
+
+3200
+
+47.85
+
+92
+
+34.78
+
+7.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Zena
+
+6
+
+3000
+
+22.40
+
+90
+
+33.33
+
+4.0
+
+Nella Johnson
+
+Am. Bull Dog
+
+Kayla
+
+7
+
+2200
+
+10.93
+
+90
+
+24.44
+
+2.0
+
+Todd Pederson
+
+Alaskan Malamute
+
+Xena
+
+6
+
+1600
+
+18.69
+
+89
+
+17.98
+
+1.0
+
+Carol Dodds
+
+Alaskan Malamute
+
+Dozer
+
+6
+
+1200
+
+7.31
+
+84
+
+14.29
+
+0.5
+
+Stephanie Coleman
+
+Am. Bull Dog
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Nieka
+
+6
+
+1600
+
+45.87
+
+112
+
+14.29
+
+5.0
+
+Shannon Turner Dodds
+
+Alaskan Malamute
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Butkus
+
+7
+
+3600
+
+24.57
+
+175
+
+20.57
+
+5.0
+
+Terry Lee
+
+Mastiff/Bernard
+
+Last Updated: 00:42:48 on 12-16-1998
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](%20%20%20%20%20%20%20%20%20%20../pulllist.htm%20%20%20%20%20%20%20%20%20%20%20%20%20) | [Next Pull \#](%20%20%20%20%20%20%20%20%20%20Pull2.html%20%20%20%20) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

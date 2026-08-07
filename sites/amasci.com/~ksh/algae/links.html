@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>Other Stuff</title>
+<link rev=made href="mailto:ksh@eskimo.com">
+<meta name="description"
+content="other stuff you'll need to compile algae">
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#0000EF"
+ vlink="#55188A" alink="#FF0000">
+<h1><img src="brown.gif" align=middle> Other Stuff</h1>
+The libraries and packages listed below are optional.  Algae will use
+them if they're available at the time it's configured.
+<dl>
+<dt><strong>gnuplot</strong>
+<dd>Algae's "plot" function is a front end for
+<a href="ftp://ftp.dartmouth.edu/pub/gnuplot/">gnuplot</a>.  This package
+is optional, but you can't plot without it.  Version 3.5 is the latest
+official release, but it's four years old.  You'll probably prefer the
+beta release of <a href="ftp://cmpc1.phys.soton.ac.uk/pub/">version
+3.6</a>, if for no other reason than that it's so much easier to install.
+<p>
+<dt><strong>Readline</strong>
+<dd>The GNU <a href="ftp://prep.ai.mit.edu/pub/gnu/">Readline</a>
+library is a command-line editing and history
+utility.  It isn't required, but it's pretty handy.
+Unfortunately, readline tempts
+us with more capabilities (like completion on variable names)
+than it can deliver.
+<p>
+<dt><strong>BLAS</strong>
+<dd>The <a href="http://netlib.org/netlib/blas/">BLAS</a>
+(Basic Linear Algebra Subroutines) library is optional in that Algae
+supplies its own if you don't have it.  The version that Algae supplies
+is a subset of the generic version that comes with
+<a href="http://netlib.org/netlib/lapack/">LAPACK</a>.
+If your system provides a BLAS library, it may be faster than
+the one that comes with Algae.  Some systems, though, have
+BLAS libraries that are broken or that contain only a subset
+of the routines you'll need.
+<p>
+<dt><strong>LAPACK</strong>
+<dd>The <a href="http://netlib.org/netlib/lapack/">LAPACK</a>
+library is also optional, as Algae supplies its own if you don't have
+it.  It contains routines for
+many numerical linear algebra operations.
+<p>
+<dt><strong>BCSLIB</strong>
+<dd>BCSLIB is a package of high-quality linear algebra routines
+from <a href="http://www.boeing.com/">Boeing</a>.  (BCS was the
+acronym for "Boeing Computer
+Services".)  If you have BCSLIB, Algae can use its
+sparse matrix capabilities to good advantage.  Actually, it's
+BCSLIB-EXT that we use -- it then calls BCSLIB.  I've been told that
+all <a href="http://www.cray.com/">Cray</a> machines have this.
+<p>
+<dt><strong>Info</strong>
+<dd>Algae provides its documentation in both html and info formats.
+You probably already have an html browser (like
+<a href="http://www.netscape.com/">Netscape</a> or
+<a
+href="http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/NCSAMosaicHome.html">
+Mosaic</a>);
+if you prefer, the info format can be read
+either within <a href="ftp://prep.ai.mit.edu/pub/gnu/">Emacs</a> or
+with one of the stand-alone Info programs such as
+<a href="ftp://prep.ai.mit.edu/pub/gnu/">Info</a> or
+<a href="ftp://ptolemy.eecs.berkeley.edu/pub/misc/">tkinfo</a>.
+</dl>
+<hr>
+<a href="index.html">
+<img src="icon.gif" border=0 align=middle> Algae Home</a>
+</body>
+</html>

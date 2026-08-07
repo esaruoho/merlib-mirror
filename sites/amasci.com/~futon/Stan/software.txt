@@ -1,0 +1,87 @@
+Stan's Links to Software Page 
+
+ Stan's Links to Software Page 
+
+ If there are any links that you think I should add, please let me know at
+ sgregory@sprynet.com . I
+have a few major catagories for types of software and documentation. Each
+catagory is in something resembling alphabetical order, based on the word(s)
+that are emphasised (which are the ones that make sense to me). 
+ Some of the links are to directories. I did this where I thought that it
+would allow you to select the most up-to-date version of the file. 
+ I hope that you find this pages (and my other ones) useful. 
+
+ PC Games 
+
+ Doom , shareware version, ver. 1.9 (>2 Megs)
+ Heretic , shareware version, ver. 1.2 (>2 Megs)
+ Hexen: Beyond Heretic , demo (>5 Megs)
+ Hi-Octane demo (> 4 Megs)
+ Magic Carpet II demo (> 5 Megs)
+ Warcraft : Orcs & Humans Demo for the PC (1.5 Megs)
+ Warcraft II : Tides of Darkness Electronic Demo for the PC (> 10 Megs)
+
+ Games Homepages 
+
+ Blizzard Entertainment 
+
+ PC Winsock Applications 
+
+ Chameleon Sampler software - directory [a Winsock]
+ E-Mail Connection (>1 Meg) [Mail Program for Windows]
+ Eudora Light - directory [Mail Program for Windows]
+ Free Agent 1.0 (735K) - [Mail Program for Windows]
+ Internet Explorer 2.0 for Windows 95 (>1 Meg)
+
+ Microsoft Internet Explorer 2.0 - page
+
+ NetTerm - directory
+ NewsXpress 1.0 Beta 4 (?K) [News Reader for Windows]
+ Pegasus Mail - page (many versions) [Mail program]
+ Spell Check without vbrun300.dll (approx. 326K)
+ Trumpet WinSock 
+ Virtual Explorer Beta 1.0 (>1 Meg)
+
+ Microsoft Virtual Explorer Beta 1.0 - page
+
+ WS_FTP [FTP program for Windows]
+
+ "Stable" 16-bit version (?K)
+ "Stable" 32-bit version (?K)
+ Recent 16-bit version (?K)
+ Recent 32-bit version (?K)
+
+ WinSock IRC Client Ver. 2.00 (approx. 670K)
+ WinSock Video IRC Client Ver. 2.00 (approx. 720K)
+ WinVN - directory [News Reader for Windows]
+
+ Misc. PC Programs 
+
+ notGNU - directory [emacs-like editor for Windows]
+ WinZip and related
+
+ WinZip 6.0 for Windows 95 and NT (?K)
+ WinZip 6.0 (16-bit version) (?K)
+ WinZip Self-Extractor (?K)
+
+ Program Documentation 
+
+ Windows freeware user manual for Eudora Light - directory
+ WinVN documentation - directory
+
+ Homepages for Programs 
+
+ Free Agent Homepage 
+ notGNU Homepage 
+ Pegasus Mail by David Harris
+ WinVN Homepage 
+
+ Webspace generously donated by: 
+The Retail/Wholesale Futon Outlet Page .
+
+ Return to Stan's Homepage. 
+
+Stan's Links to Software Page / http://www.eskimo.com/~futon/Stan/software.html /
+ sgregory@sprynet.com 
+
+[ &#169; Copyright 1995-1996 Stanley F. Gregory | Most recent update: 4/2/96 ]

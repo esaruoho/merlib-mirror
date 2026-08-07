@@ -1,0 +1,88 @@
+---
+title: "Pinehaven: News"
+source_domain: amasci.com
+source_path: ~pc22/Pinehaven/news.html
+order: 5928
+reachable_from_entry: false
+images: 2
+internal_links: 7
+extracted: 2026-08-07T05:58:48Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pinehaven: News
+
+*Source page: `~pc22/Pinehaven/news.html`*
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="74"><img src="images/pinecone.jpg" data-align="bottom" width="72" height="69" /></td>
+<td width="359"><h2 id="summer-at-the-cabin">Summer at the cabin</h2></td>
+</tr>
+</tbody>
+</table>
+
+------------------------------------------------------------------------
+
+**Mid-June**: <img src="images/2001/summer-after.jpg" data-align="left" data-border="2" width="432" height="324" />Summer came early, as the snowpack and moisture in the ground was only around half normal. From the [grasses and flowers](images/2001/summer-after.jpg) you'd never know there was a big fire a year ago; everything has grown up quite a bit in the two weeks since Memorial day. The pine regeneration is so prolific that in the good soil areas it's not possible to walk anywhere without trampling some [seedlings](images/2001/regen2.jpg); they're now around 5cm tall.
+
+In contrast, we're now seeing the first of the Western Pine Beetle killed treees; these little critters are a part of the dry Ponderosa fire cycle, and bore into fire weakened Pines and kill them by eating the bark essentially. Woodpeckers often make killed trees more visibily by [pecking off the bark](images/2001/beetles.jpg) to eat the beetles, though by then, the tree is usually dead. Eight out of the ten 20-year-old Pines in front of the cabin have now succumbed to these guys, together with at least one of the larger trees next to the cabin. We'll lose a good deal more if this is any indication. Still, we're being philosophic about it.
+
+The interior of the cabin is now getting close to completion! Just a smattering of sheetrock, perhaps a day's worth, another day's worth of electrical stuff, together with some taping and final painting. The [woodwork](images/2001/woodwork.jpg) is looking pretty spiffy!
+
+We had a final morning's work, re-seating the water tank up the hill. I was unsatisfied with the condition of the earth beneath the tank, it turned out to not have been compressed at all, and might well have caused the tank to fracture when fully loaded with 4500kg of water. So, we hauled it out, and packed the underneath with a bed of gravel and sand. This should be more than sufficient. Rome, and a friend of his were good enough to come over and help me with this task; we'll have to return the favor some day, and help him rebuild. (His place burned in the fire)
+
+I also had one of the more spectacular [sunsets](images/2001/sunset.jpg) at the cabin, and had several hummingbirds for company...
+
+------------------------------------------------------------------------
+
+**Cinco de Mayo:** this year, it was hot at this time, perhaps an ominous sign of the summer to come. Still, there's a good deal of regeneration around; we found that there were 5 surviving Aspen along Homestead way (which looks surprisingly green). Most encouragingly, there are literally hundreds of thousands of tiny (1cm high) [pine starts](images/2001/regen1.jpg). Of all the millions of seeds we saw on the snow during late winter, perhaps 10 percent have successfully implanted. Of course, only a tiny fraction of these will make it into year old seedlings, and still fewer into saplings, but it does give us encouragement that even the most burned out places will naturally regenerate, provided decent soil and moisture.
+
+The [larch sapling](images/2001/larch.jpg) (with the flagging) David gave us, and the three larch seedlings transplanted from Roger's place are surviving, though on second thoughts, this north facing slope isn't quite as friendly a place as I'd thought; it gets the hot late afternoon sun. We're going to do a controlled experiment: two of the larch will be left on the north slopes, and two will be transplanted to a more protected east-facing slope, protected from the western sun by a rock face.
+
+We hired Sundog and his buddy Josh to build us a western and southern section of fencing, from the Homestead way fence, down to the fence surrounding Clarence's place. This is truly a [work of art](images/2001/fence.jpg), with all kinds of elaborate structures to handle the rocky terrain. We think the cows will have more respect for this one than last year's temporary fence around the wetlands.
+
+Things are looking pretty green around the place, and the face of spring is spreading wide; the grouse are mating, and in some cases, [losing battles](images/2001/grouse.jpg) with Coyotes.
+
+------------------------------------------------------------------------
+
+We had two trips in **March**. The first one unfortunately, coincided with break-up, when the snows start melting and the road turns to mush, interrupted with bottomless mudpits. We put the chains on our station wagon, but were defeated anyway, around 1.5km up, and had to hike the rest of the way in. There was still quite a bit of snow around the cabin, and we were glad to fire up the stove. We had a couple of achievements, the first was finishing the [tongue and groove panels on the ceiling](images/2001/ceiling.jpg) - a project that has been engaging us since last fall, and has consumed many more hours than we estimated. The wood panels were surplus seconds from the local lumber yard, and each was distinctive - not all the same size, some a few mm thicker than others, different colours, and some bowed. So, fitting them together was very much like a large-scale jigsaw puzzle. We just have the area over the kitchen to do now.
+
+The other project was [re-seeding](images/2001/seeding.jpg) some of the skid trails done in the logging. We're not sure how effective this will be given the absence of moisture in the soil this year, but we're keeping seed for next year, just in case. We also tried to help some of the trees damaged in the skidding operation by means of a somewhat awful looking substance [treekote](images/2001/treekote.jpg)...
+
+The second trip was a 4 day working weekend, and we were fortunate enough to have our friend John with us. John can build almost anything, and he installed our [kitchen cabinets](images/2001/kitchen.jpg), the drains and other plumbing while we stood around and made useful comments.
+
+Not all was smooth sailing of course; it turned out that the generator has a gasoline leak somewhere around the carburator gasket, and has somewhat ominous looking drips when the gas tank is filled more than 1/8th full. So, we could only run the thing 20 mins before it would run out of gas! Still, John eventually managed to get all the sawing done, and to celebrate the completion of the work, it snowed on him.
+
+------------------------------------------------------------------------
+
+**End of February**: Well, no doubt about it: there's been a logging operation here! The guys took about 20 [loads of logs](images/2001/logging.jpg) from the burned out places, constituting perhaps 20 acres; Lake Arvia was amongst the hardest hit, and there's not too many live trees there now... The Gazebo, having somehow survived the fire, now looks out onto what might have been described as the "Least Worst Land in Mississippi" (A great book if you're interested, is [Don Schueler's *A Handmade Wilderness*](http:www.olemiss.edu/depts/english/ms-writers/1996/february.html)). We're not going to replant this year, since it has every sign of being one of the driest in the last hundred years, and we want to give new seedlings the best possible opportunity, and anyway, there may be more seedlings than we can handle after the logging operation. We now have a hunded year supply of firewood, left over from the logging, and a good quantity of board quality short lengths, which the mill wasn't interested in; we're going to see if our neighbor Mark's sawmill can do anything useful with them.
+
+------------------------------------------------------------------------
+
+My neighbor Dave (from Seattle) decided to check out the scene with me at the beginning of January; he hadn't been out there since the first Memorial day work party in 1999, and never during the snow, and he was curious to see what the fire damage was too. About 30cm of new snow had fallen in the last few days, not yet consolidated, so we chained up down at the gravel pit. The poor Escort really knows that it's not a winter car though, and around 4km up the jeep track, it couldn't summon the traction to get up a minor hill - not even the big one where the road splits. So, we abandoned it in a pull out, and hauled the sled with supplies the remaining 2km.
+
+Supposedly, people use these same kiddies sleds on Denali expeditions - but ours consistently turned turtle even on the fairly flat roadbed. Eventally, after an hour, we had our supplies and ourselves at the cabin. Temps had been pretty low in the month since the last visit, and all the water in plastic jugs was frozen solid. Took us most of the next day to thaw them next to the woodstove.
+
+The only real project this visit was to go over our land with Clay Brown, who we were thinking of hiring to run a timber sale of the burned portions of the land. It's a struggle for us to think of some of our trees being taken out on logging trucks and turned into dimensional lumber, plywood and so on. However, we really do seem to be caught in a bad place. Due to the fire, we have lots of standing kire scorched trees with less than 20% crown left - these trees will almost certainly die in the next year or two. These trees also harbor an unknown number of Western Pine Beetles, which moved in shortly after the fire, and like to munch on fire-stressed trees. So, taking out some of these trees both reduces the fuel load for future fires, and the vector for beetle transmission this summer.
+
+We cringe when we see a logging truck go by, but we really should do this operation. Plus, our friend Roger used Clay in the past to do some thinning operations, so we trust him to do a decent job.
+
+We had a really great [sunset behind Duffy Mtn](images/2001/winter-sunset.jpg) from Antoine Flats on the way out, that the picture alas does not do justice to.
+
+------------------------------------------------------------------------
+
+**News Archives**
+
+- [2000](news2000.html)
+- [1999](news1999.html)
+- 1998
+
+------------------------------------------------------------------------
+
+\[ [Home](ph.html) \| News \| [Cabin](cabin.html) \| [History](history.html) \| [Place](place.html) \| [Fun](fun.html) \| [Projects](projects.html) \]

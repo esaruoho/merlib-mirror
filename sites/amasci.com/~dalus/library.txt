@@ -1,0 +1,17 @@
+Library Page 
+
+ Libraries 
+
+ Last Update: as of April 29, 1995 
+
+ King County Library (telnet, login as "kcls") 
+ Seattle Public Library (telnet) 
+ UW Information (UWIN) (telnet) 
+ SDSM&T Library System (gopher) 
+ SD Library Network (telnet) 
+ Duke Library Network (telnet, login as "library") 
+ NCSU Library Web 
+ CARL (Colorado Alliance of Research Libraries) (telnet) 
+
+ Back to TOC 
+ Back to TOP

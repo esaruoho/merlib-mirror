@@ -1,0 +1,48 @@
+file: error.txt
+date: Tue, 9 May 2000 23:09:43
+root: /u/u16/r/rmisaac/verify
+
+#------------------------------------------------------------
+# ERROR    4 missing html files
+#------------------------------------------------------------
+FILE:/u/u16/r/rmisaac/public_html/www.jewishsf.com/bk980710/etaatel.htm
+FILE:/u/u16/r/rmisaac/public_html/www.sfjff.org/sfjff18/filmmakers/d0719d-a.html
+FILE:/u/u16/r/rmisaac/public_html/www.sfjff.org/sfjff18/programs/p0719d.html
+http://eon.law.harvard.edu/cgi-bin/annotate/main.cgi?view=http://www.aldga
+te.freeserve.co.uk/halacha/mekor.htm
+
+#------------------------------------------------------------
+# ERROR    3 missing image files
+#------------------------------------------------------------
+FILE:/u/u16/r/rmisaac/public_html/graphics/R.jpg
+FILE:/u/u16/r/rmisaac/public_html/graphics/armband2.JPG
+FILE:/u/u16/r/rmisaac/public_html/graphics/pinkbg.gif
+
+#------------------------------------------------------------
+# ERROR    2 missing cgi files
+#------------------------------------------------------------
+/cgi-bin/AnyURL
+/cgi-bin/Count.cgi
+
+#------------------------------------------------------------
+# ERROR   12 missing text files
+#------------------------------------------------------------
+FILE:/u/u16/r/rmisaac/public_html/anchor.txt
+FILE:/u/u16/r/rmisaac/public_html/anchor_x.txt
+FILE:/u/u16/r/rmisaac/public_html/dir.txt
+FILE:/u/u16/r/rmisaac/public_html/file.txt
+FILE:/u/u16/r/rmisaac/public_html/file_f.txt
+FILE:/u/u16/r/rmisaac/public_html/file_x.txt
+FILE:/u/u16/r/rmisaac/public_html/orphan.txt
+FILE:/u/u16/r/rmisaac/public_html/remote.txt
+FILE:/u/u16/r/rmisaac/public_html/remote_x.txt
+FILE:/u/u16/r/rmisaac/public_html/warn.txt
+FILE:/u/u16/r/rmisaac/public_html/warn_f.txt
+FILE:/u/u16/r/rmisaac/public_html/warn_x.txt
+
+#------------------------------------------------------------
+# ERROR    2 missing unknown files
+#------------------------------------------------------------
+FILE:/u/u16/r/rmisaac/public_html/www.123greetings.com
+FILE:/u/u16/r/rmisaac/public_html/www.miriamscup.com
+

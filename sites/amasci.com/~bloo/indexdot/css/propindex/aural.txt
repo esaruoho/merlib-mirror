@@ -1,0 +1,50 @@
+CSS Property Index: Aural 
+
+ CSS Property Index 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Aural&#160;&#160;&#160; 
+ &#160;&#160;&#160;[ About Aural Properties... ] 
+
+ volume 
+ stress 
+ richness 
+ azimuth 
+ elevation 
+ voice-family 
+
+ speak 
+ &#160;-&#160; speak-punctuation 
+ &#160;-&#160; speak-numeral 
+ pitch 
+ &#160;-&#160; pitch-range 
+ speech-rate 
+ play-during 
+
+ pause 
+ &#160;-&#160; pause-before 
+ &#160;-&#160; pause-after 
+ cue 
+ &#160;-&#160; cue-before 
+ &#160;-&#160; cue-after 
+
+ All | Fonts |
+ Text | Colors/Backgrounds |
+ Scrollbars | Outlines |
+ Lists | Tables 
+
+ &#160;&#160;&#160; Classification | Dimensions |
+ Positioning | Margins |
+ Padding | Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Boring Copyright Stuff....

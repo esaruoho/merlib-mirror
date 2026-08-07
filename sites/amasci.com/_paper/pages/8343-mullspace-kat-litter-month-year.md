@@ -1,0 +1,151 @@
+---
+title: "Mullspace | Kat Litter | Month, Year"
+source_domain: amasci.com
+source_path: ~strange/litter/janlitter03.html
+order: 8343
+reachable_from_entry: false
+images: 1
+internal_links: 8
+extracted: 2026-08-07T06:00:49Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mullspace | Kat Litter | Month, Year
+
+*Source page: `~strange/litter/janlitter03.html`*
+
+<span id="top"></span>
+
+<div align="center">
+
+<img src="../images/MullChalk03a.jpg" data-border="0" alt="Welcome to Mullspace" />\
+<a href="../katbox.html" class="nav">Portal</a> \| <a href="litter.html" class="nav">Kat Litter</a> \| <a href="../fiction/fiction.html" class="nav">Tales</a> \| <a href="../nfiction/nfiction.html" class="nav">Lectures</a> \| <a href="../gallery.html" class="nav">Eye Candy</a> \| <a href="../list.html" class="nav">Accreations</a> \| <a href="../resume.html" class="nav">Kat Who?</a> \| <a href="mailto:mull.space@lycos.com" class="nav">Poke</a>
+
+</div>
+
+\
+\
+
+# January, 2003
+
+\
+\
+
+posted: January 12, 2003
+
+\
+
+## Fight for It
+
+\
+
+All right, so I'm slow. But I finally come to the most amazing film of my life to date: *Fight Club*.
+
+Yeah, a freaked out, violent, manipulative, unpleasant, ugly and wickedly funny guy-flick based on a truly whacked-out book. Roger Ebert called it "macho porn." Rex Reed said it could only find its audience "in Hell." Fuck 'em. I always thought those two were spineless men-of-bread-dough, and now I have proof. See, the problem is that people like Reed and Ebert only see the violence and the youth and the disaffection. They don't see the underlying disgust with and rejection of a society in which most people have things, not values; possessions, not experience; ambition, but no real self and no unity between their desires and their actions.
+
+We are slaves to jobs and things, false security, outside demands, artificial goals as meaningless as the cycling of a street signal on the frozen tundra of the dark side of the Moon. It is a film which is screaming in tongues about the pointless stupidity of modern consumer society and the raw need to destroy that artificial self to get to the real thing underneath.
+
+There seems to be a split between people who live in varying fantasy worlds, be they corporate drone, gamer/slacker/student, dot-com entrepreneur, selfless saver-of-the-world, downtrodden victim, or whatever, and the people who want to *live* through their life, rather than merely survive it.
+
+We should all be living our lives, not just plodding through them, struggling to hold on, keep going, keep up, stay with the program. The "program" doesn't care about people. It is a machine and you are a part.
+
+I do not want to be a replaceable part in a machine-world and this weird, iconoclastic, violent, unpleasant, in-your-face movie reminded me of that. I left a very nice, comfortable, well-paying, well-respected and even occasionally fun corporate job to wander around on the fringes of economic safety, so that I could do things I really enjoyed a lot more than getting up at 4 A.M., working to satisfy someone other than myself for eight-and-a-half hours a day, and then driving home through some of the worst urban traffic in the USA just to be alone in a tiny apartment I could barely afford, with no time or energy left to do a bloody-damned thing five days a week. That is not Life. That is survival of the lowest kind. Because it does not whittle life down to the bare essentials of a real existence and then open up possibilities of exploration beyond those essentials. It whittles *you* down to a mentally and emotionally exhausted machine-part of easily-replaced use in someone else's master plan. It does not help you to survive a real world, but places you in an artificial treadmill where "survival" becomes a pointless, circuitous race to keep from falling into the cogs of the machine itself.
+
+The modern corporate- and consumption-driven world raises fear to a religion. Fear of falling behind, fear of your boss, fear of financial insecurity, fear of wrong appearances or wrong thoughts. What is there to fear but Death? And even that is something which seems artificial, after a while.
+
+You *will* die. That's the nature of Life. Why fear it? What we fear, really, is loss, but you cannot fear if you have nothing to lose or if its loss cannot hurt you. You *will* fear. That is also in our nature. But, if you live your life for joy and personal satisfaction, you can choose what you would fear to lose, rather than have fear thrust upon you.
+
+Yes, I am still afraid of things. A life is something to strive for, something to live, organically changing, to experience as it happens, in real-time. To live my Life, I must say "No" when I want to say No and "Yes" when I want to say Yes, to cease playing a role and start being what I want to be, independent of the pressures of a society which has grown away from the individual.
+
+Yes, it is selfish. But it is selfishness in the pursuit of happiness and it is much easier to bring happiness when you are, yourself, happy. It is easier to be generous when you have been generous to yourself. When you have chosen the burdens you bear, it is easier to bear them, than when you resent burdens laid upon you through some social assumption you have not opposed.
+
+For the New Year, I hope to become the person I started out to be when I had no fear of the future.
+
+And you?
+
+\
+\
+
+posted: January 25, 2003
+
+\
+
+## Imp
+
+\
+
+Some people believe they have a guardian angel; a benign spirit which hovers over them and keeps them from harm--which leaves me to wonder how they reconcile any bad which does befall them. I, however, believe I have a personal gremlin.
+
+Somewhere, invisibly trailing me, is a wicked imp with a case of kleptomania. He is part magpie, attracted to shiny things like jewelry and scissors and pocket knives. He is a tease and a practical joker and has a very bad memory.
+
+My gremlin has always had a taste for scissors. He hovers nearby whenever I have a nice pair in hand. If I am sewing and put my scissors down, he nips invisibly forward and snatches them. I look and look, and cannot find them. If I yell at him, he will, eventually, return them, putting them right back where I put them down in the first place.
+
+This is not my imagination, nor is it an explanation for my own shortsightedness or memory-lapse. The scissors are always right in plain sight in a place I already looked for them.
+
+I am quite sure I can hear my gremlin laughing when I find them and curse him throughly, though everyone else says they hear nothing.
+
+Of course they don't. He is *my* personal gremlin. If he was everyone's gremlin, he wouldn't have time to fuck with me as much as he does.
+
+Occasionally, he has gone on vacation, sometimes for years. He does not like the boat as much as he liked the house, because it has fewer places for him to hide out when I might catch him and the necessary discipline of a smaller space means I am far more aware of and likely to see my tools and personal belongings, so he has no chance to snitch them.
+
+There are rules he must, apparently, apply to:
+
+He can only take something when I am not looking at it, but it is still warm from my touch.--once it has cooled down too far, he can no longer take it;
+
+He may only take my things--if he takes someone else's things, he must put them back into the owner's pocket, even if he didn't get them from the pocket;
+
+He may only take things while no one is looking and only when they are in plain sight;
+
+He must return nine out of ten objects--the tenth he gets to keep, if he wants it;
+
+If he is yelled at immediately after the object is taken, he must put it back as soon as will make me look totally foolish, but if no yelling happens immediately, he may keep the object a while before he leaves it in some improbable location to be found, later;
+
+He may not destroy the object, but he may put it in such a location and position that I will, myself, destroy it or be injured with it;
+
+He may tip knives off of the counter whenever he likes.
+
+Recently, my gremlin has made off with a box of jewelry. I know it's him, since I can't find the box anywhere on the boat and I know it was here. I wonder if the box counts as one object or more and if not, I hope it is not a tenth-object. I'd like it back.
+
+So far, yelling has availed me nothing.
+
+I suspect he is having an affair with some nearby guardian angel and trying to impress her with my jewelry. Little does he know that those goody-two-shoes angels will never be swayed by stolen gifts.
+
+I on the other hand, would be really happy to get my stuff back. I have a nice pair of scissors I'm willing to trade....
+
+\
+\
+
+posted: January 29, 2003
+
+\
+
+## Der Ring
+
+\
+
+A wedding ring is supposedly a token, exchanged as a seal on the wedding vows. It is to be worn proudly as a symbol of one's contract and devotion to the mate. A good part of the time it ends up being a billboard, however.
+
+"Looky: I'm married! I caught one!" "Looky: my spouse spent a lot of money on me!" or possibly "Bugger off! I'm not available."
+
+The absence of the ring is just as important. The ring-less may be single, or divorced or pretending to be one of these. Or they may have simply lost the damned thing.
+
+Some people attach a great significance to their wedding ring and think that losing it is a tragedy on the scale of a death in the family. Breaking one is even worse, presaging all sorts of dire calamities.
+
+It's amazing that anyone believes this clap-trap. OK, yeah, it's a symbol. But that's all it is: a symbol; not the thing itself. Breaking your wedding ring doesn't mean your marriage is destined to be broken. Losing it isn't an irretrievable insult, though I suppose it might represent a bit of a financial drain to replace and a certain thoughtlessness on the part of the person who lost it. Still, it happens.
+
+Now, taking it off with the intent of pretending that you aren't married and *then* losing it, that's pretty dire. Mostly it's pretty dire in that if your marriage is so fucked up that you have to be sneaking around, maybe you *should be* losing that ring. And if you're still wearing your ring on the same finger after your spouse is gone, it had better be because they died, because anything else is kind of creepy, no matter how nice the ring is. If it was an important symbol to you when you first put it on, it's an equally potent symbol to take it off. Keeping it around has the tang of materialism and a certain lack of gracious good taste.
+
+There is an assumption by people who do wear (or would wear) wedding rings that everyone else does, but a lot of people don't and it goes in cycles of fashion where men don't or no one does or everyone starts wearing them on chains around their necks, instead. You can't assume that what is meaningful for you is equally meaningful for others, yet people will. At the same time, something which has no meaning for you should probably be dumped.
+
+"It don't mean a thing if it ain't got that ring." Except that it does. A marriage is not a ring, nor is a ring a marriage. How ostentatious or simple, how present or absent is not a measure of the relationship. What is important is that you honor it with consistency. If you choose to wear a wedding ring, then wear it with honor or take off and get out.
+
+And if you lose it, be honest. I just lost mine in a terrifying bathroom accident: I accidentally left it in a terrifying bathroom.
+
+\
+\
+
+Back to [top](#top) of this page, please.
+
+[Back to Index](lindex.html)\
+
+© 2003 M. Kathleen Huffine/Kat Richardson. All rights reserved.

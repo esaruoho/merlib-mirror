@@ -1,0 +1,29 @@
+---
+title: "Long live the King!"
+source_domain: amasci.com
+source_path: ~warlock/rants/rant.html
+order: 9578
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T06:02:04Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Long live the King!
+
+*Source page: `~warlock/rants/rant.html`*
+
+George Bush II has been in power now for close to a year. All in all the doomsayers of the left have been disappointed, as have been the cheerleaders on the right. Neither side has gotten all they wanted, nor lost all they feared. But, like usual, we the people have taken it in the shorts.
+
+First there was a "tax rebate" that wasn't, all that happened was that some people got money now, so they could pay it later. Sort of like a mugger loaning you \$25 knowing that next week he'll take it and \$20 more from you.
+
+Then came the appointment of John Ashcroft as Atty. Gen. On the plus side, he's sort of pro gun, but on the down side, he's sort of a police state appologist. As the things he has been saying since Sept 11 show.
+
+Then of course there was the attack on Sept-11, truly a "day that will live in infamy", since then, both the dems and the reps have been trying to out gestapo each other with draconian proposal after proposal. One rep even suggested national ID cards, after all he said, "what to honest people have to hide?". I guess the only reply to a statement that stupid is to tell him to ask the jews.
+
+Now when you fly the friendly skies, you have to show ID to every trumped up monkey in a suit, as if that was actually some sort of security policy. Exactly what does showing ID do? did any of the hijackers lack ID on sept-11? Don't try to bring a nail file on board the plane, you might be a terrorist... bah! The events of Sept-11 show how stupid the idea of disarming people is. I mean what do schools, airplanes and airports have in common? no guns... Except of course if you are willing to break the law. But anyone who thinks that ID checks at airports and pat downs at concerts has anything to do with security hasn't been reading the program. These are simply steps to get people used to the idea of presenting papers when asked, and of submitting meekly to anything someone in a uniform tells you to do. The powers that would be know that they can't control the whole country by force, there aren't enough soldiers to do that. Not openly. But they know something that most of you don't.
+
+**"It is simplicity itself to shackle a sleeping man"**
+
+So wake up America, before it's too late.

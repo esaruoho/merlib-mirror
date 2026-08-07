@@ -1,0 +1,61 @@
+FailCodes 
+
+ FailCodes 
+
+ Fail 
+ Code 
+
+ Description 
+
+ Unknown. Wasn't 
+ specified 
+
+ t 
+
+ Timed-out 
+
+ T 
+
+ Tangle 
+
+ c 
+
+ Crossed the line 
+ illegally 
+
+ h 
+
+ touched (handled) 
+ the dog 
+
+ f 
+
+ false start 
+
+ b 
+
+ baiting 
+
+ d 
+
+ double handling 
+
+ v 
+
+ some other 
+ violation 
+
+ q 
+
+ quit - decided 
+ dog had enough 
+
+ D 
+
+ DQed - 
+ Unspecified foul 
+
+ Q 
+
+ QUIT - decided 
+ against higher weights

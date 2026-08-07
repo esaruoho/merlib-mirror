@@ -1,0 +1,101 @@
+Nekocon Flash Programming Page 
+
+ So, What's Gonna Happen? 
+Along with the usual assortment of panels, workshops, video rooms, and
+autograph sessions, Neko-Con Flash will be trying out some new and innovative
+programming. Along with Steve Bennetts now famous classes on traditional
+Cel painting, there will be one on the basic techniques of DIGITAL
+Cel painting hosted by Scott Frazier.
+ We encourage anyone who has an idea they would like to see to contact
+us. Join in the fun, be part of the excitement. Have a panel or discussion
+group you want to hold? Maybe you wat to tell the world about the
+joy of Pop Idols, or Mahou Shojou A panel to tell people what Mahou
+Shojou is? A workshop perhaps? Or maybe youre starting your company
+and want to let the world in on it. Or your current compnay or organization
+has an announcement that will strike the masses with awe. Just contact
+our head of programming, Matt
+Beschta .
+
+ Major Events Planned for Nekocon Flash 
+ FRIDAY, OCT 26, 2001: 
+ Opening Ceremonies 
+ Anime Music Video Contest (Afternoon and Midnight)
+ Hyper Karaoke Battle Royal (Evening)
+ Chibi Neko Dance (Late Night) 
+
+ SATURDAY, OCT 27, 2001: 
+ Anime Music Video Contest (Morning/Noon)
+ Mari Iijima Concert (Saturday Afternoon)
+ COSPLAY (Saturday Night)
+ Saturday Night Cat Scratch Fever Dance 
+ Saturday Night Video Game Tournament 
+
+ SUNDAY, OCT 28, 2001: 
+ Cosplay Replay (Morning)
+ Art Auction (Afternoon)
+ Closing Ceremonies 
+
+ Planned Programming for Nekocon Flash 
+
+ Two 24 Hour Anime Video Theaters
+ Artist Alley
+ Multiple Workshops from Cel Painting to Voice Acting
+ Multiple Panels by Guests, Industry and Fandom.
+ Fanfic Summit
+ ...and more
+
+Neko-Con Flash and the contents of this page &copy;2000 Chibi Neko Entertainment, L.L.C. 
+Please send comments to the sites webmaster 
+
+................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... 
+
+//* script by Apiradee *
+//added up to btn 16 value
+
+btn1val= 0;
+btn2val = 2;
+btn3val = 4;
+btn4val = 6;
+btn5val = 8;
+btn6val = 10;
+btn7val = 12;
+btn8val = 14;
+btn9val = 16;
+btn10val = 18;
+btn11val = 20;
+btn12val = 22;
+btn13val = 24;
+btn14val = 26;
+btn15val = 28;
+btn16val = 30;
+btn17val = 32;
+btn18val = 34;
+btn19val = 36;
+btn20val = 38;
+btn21val = 40;
+images = new Array(32);
+for(i=0;i<32;i++)
+{
+ images[i] = new Image();
+}
+images[0].src = "sidebar/b1001.jpg";
+images[1].src = "sidebar/b2001.jpg";
+images[2].src = "sidebar/b1002.jpg";
+images[3].src = "sidebar/b2002.jpg";
+images[4].src = "sidebar/b1003.jpg";
+images[5].src = "sidebar/b2003.jpg";
+images[6].src = "sidebar/b1004.jpg";
+images[7].src = "sidebar/b2004.jpg";
+images[8].src = "sidebar/b1005.jpg";
+images[9].src = "sidebar/b2005.jpg";
+images[10].src = "sidebar/b1006.jpg";
+images[11].src = "sidebar/b2006.jpg";
+images[12].src = "sidebar/b1007.jpg";
+images[13].src = "sidebar/b2007.jpg";
+images[14].src = "sidebar/b1008.jpg";
+images[15].src = "sidebar/b2008.jpg";
+images[16].src = "sidebar/b1009.jpg";
+images[17].src = "sidebar/b2009.jpg";
+images[18].src = "sidebar/b1010.jpg";
+images[19].src = "sidebar/b2010.jpg";
+images[20].src = "side

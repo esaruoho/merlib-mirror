@@ -1,18 +1,18 @@
 ---
 title: "PHYSVIDS: Science videos physics shorts: odd & weird"
 source_domain: amasci.com
-source_path: physvids/11.html
+source_path: physvids/12.html
 order: 479
 reachable_from_entry: true
-images: 3
+images: 2
 internal_links: 0
-extracted: 2026-08-03T18:12:14Z
+extracted: 2026-08-07T05:53:39Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # PHYSVIDS: Science videos physics shorts: odd & weird
 
-*Source page: `physvids/11.html`*
+*Source page: `physvids/12.html`*
 
 <table data-summary="nav links, google search window" width="100%">
 <colgroup>
@@ -57,14 +57,13 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: left;" width="180" data-nowrap="" data-valign="top" data-summary="google ad"><img src="http://amasci.com/graphics/vertstr7.gif" data-align="right" />
-<pre><code></code></pre></td>
+<td style="text-align: left;" width="180" data-nowrap="" data-valign="top" data-summary="google ad"><pre><code></code></pre></td>
 <td data-summary="spacer" width="25"> </td>
-<td data-nowrap="" data-valign="top" data-summary="bizarre science videos" width="700"><h1 id="odd-physics-video-archive">ODD PHYSICS VIDEO ARCHIVE</h1>
+<td data-nowrap="" data-valign="top" data-summary="bizarre science videos" width="660"><h1 id="billbs-odd-physics-video-archive">Billb's ODD PHYSICS VIDEO ARCHIVE<br />
+</h1>
 <br />
-&#10;<p>     <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/12.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/15.html">...15</a>   <a href="http://amasci.com/physvids/14.html">14</a>   <a href="http://amasci.com/physvids/13.html">13</a>   <a href="http://amasci.com/physvids/12.html">12</a>   11   <a href="http://amasci.com/physvids/10.html">10</a>   <a href="http://amasci.com/physvids/9.html">9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7...</a>   <a href="http://amasci.com/physvids/10.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
-</p>
-<hr />
+     <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/13.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/16.html">...16</a>   <a href="http://amasci.com/physvids/15.html">15</a>   <a href="http://amasci.com/physvids/14.html">14</a>   <a href="http://amasci.com/physvids/13.html">13</a>   12   <a href="http://amasci.com/physvids/11.html">11</a>   <a href="http://amasci.com/physvids/10.html">10</a>   <a href="http://amasci.com/physvids/9.html">9</a>   <a href="http://amasci.com/physvids/8.html">8...</a>   <a href="http://amasci.com/physvids/11.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
+&#10;<hr />
 <div class="iframe">
 <div id="player">
 &#10;</div>
@@ -76,7 +75,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Fluid Faraday waves, solitons!
+Type-II superconductor, doin' it's type-II stuff. Also <a href="http://www.youtube.com/watch?v=5O6QAJGA12U">Supercon animal circus</a>
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -91,7 +90,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Waaaaaaaaaaaa!
+Powerline arc-over, <a href="http://amasci.com/tesla/ballgtn.html">not BL.</a>
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -106,7 +105,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-The smell of Neon Sign Transformers in the morning.
+Oil floats on water. And bubbles!
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -121,33 +120,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Poor man's high speed video camera! Also watch <a href="http://www.youtube.com/watch?v=PR0gwyZYZ_Q">the whole thing</a>
-<pre><code>
-&#10;</code></pre>
-<hr />
-<div class="iframe">
-<a href="https://player.vimeo.com/video/18842873"></a>
-<div id="crawler_player">
-Play
-<img src="https://f.vimeocdn.com/p/images/crawler_logo.png" class="logo" alt="Vimeo" />
-</div>
-</div>
-<a href="https://vimeo.com/18842873">-&gt;</a><br />
-Notvery mandel.           From <a href="http://www.subblue.com/blog/2011/1/16/surface_detail">http://subblue.com/</a>
-<pre><code>
-&#10;</code></pre>
-<hr />
-<div class="iframe">
-<div id="player">
-&#10;</div>
-<div class="player-unavailable">
-<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
-<div class="submessage">
-JavaScriptin suoritus ei onnistu.
-</div>
-</div>
-</div>
-<a href="https://m.youtube.com/watch/JscH1KSUO-0">-&gt;</a> Downtown Seattle, zScape hologram print
+High Voltage Iridescence! More <a href="http://amasci.com/amateur/sundog.html">leaping sundogs</a> , also on <a href="http://forgetomori.com/2011/science/leaping-streams-of-light-a-new-natural-phenomenon/">Forgetomori 7/2011</a>
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -162,7 +135,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Square Wheels
+Solid splashes
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -177,7 +150,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Mousetrap pingpong runaway process (no, NOT is reactor. Is bomb.)
+Lumps of ultrasound
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -192,7 +165,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Jackass firehose (wait for it...)
+Liquid Mercury Fountain (Spain, sculpt. by Calder)
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -207,11 +180,41 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Inverse Ice Hockey. Nice air bubbles with Total Internal Reflection!
+Microwave Oven Death-ray RC Helicopter! Also <a href="%20http://www.youtube.com/watch?v=tDy94xgEhEw">Another</a>
+<pre><code>
+&#10;</code></pre>
+<hr />
+<div class="iframe">
+<div id="player">
+&#10;</div>
+<div class="player-unavailable">
+<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
+<div class="submessage">
+JavaScriptin suoritus ei onnistu.
+</div>
+</div>
+</div>
+<br />
+3D printer: molten Sahara desert sand
+<pre><code>
+&#10;</code></pre>
+<hr />
+<div class="iframe">
+<div id="player">
+&#10;</div>
+<div class="player-unavailable">
+<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
+<div class="submessage">
+JavaScriptin suoritus ei onnistu.
+</div>
+</div>
+</div>
+<br />
+Cheating at billiards.
 <pre><code>
 &#10;</code></pre>
 <hr /></td>
-<td data-valign="top" data-summary="google ad"><div style="width:300px;height:260px;margin-left:60px;margin-top:160px;float:left;">
+<td data-summary="google ad" data-valign="top"><div style="width:300px;height:260px;margin-left:60px;margin-top:160px;float:left;">
 &#10;</div></td>
 <td></td>
 </tr>
@@ -232,9 +235,9 @@ Inverse Ice Hockey. Nice air bubbles with Total Internal Reflection!
 </tbody>
 </table>
 
-     [\< \<](http://amasci.com/amateur/physvids.html)   [\< PREV](http://amasci.com/physvids/12.html)   [...15](http://amasci.com/physvids/15.html)   [14](http://amasci.com/physvids/14.html)   [13](http://amasci.com/physvids/13.html)   [12](http://amasci.com/physvids/12.html)   11   [10](http://amasci.com/physvids/10.html)   [9](http://amasci.com/physvids/9.html)   [8](http://amasci.com/physvids/8.html)   [7...](http://amasci.com/physvids/7.html)   [NEXT \>](http://amasci.com/physvids/10.html)   [\> \>](http://amasci.com/physvids/1.html)  \
-
 \
+
+     [\< \<](http://amasci.com/amateur/physvids.html)   [\< PREV](http://amasci.com/physvids/13.html)   [...16](http://amasci.com/physvids/16.html)   [15](http://amasci.com/physvids/15.html)   [14](http://amasci.com/physvids/14.html)   [13](http://amasci.com/physvids/13.html)   12   [11](http://amasci.com/physvids/11.html)   [10](http://amasci.com/physvids/10.html)   [9](http://amasci.com/physvids/9.html)   [8...](http://amasci.com/physvids/8.html)   [NEXT \>](http://amasci.com/physvids/11.html)   [\> \>](http://amasci.com/physvids/1.html)  \
 
 <http://amasci.com/amateur/physvids.html>\
 Created and maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\

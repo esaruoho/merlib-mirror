@@ -1,0 +1,22 @@
+
+   Tue, 1 Dec 1998 18:03:30
+   Linklint version: 2.0B2
+
+ summary.txt: summary of results
+     dir.txt: found    3 directories
+    file.txt: found  213 files
+  file_x.txt: found  213 files (cross referenced)
+  file_f.txt: found   25 files with forward links
+  remote.txt: found 1652 remote links
+remote_x.txt: found 1652 remote links (cross referenced)
+  anchor.txt: found  134 named anchors
+anchor_x.txt: found  134 named anchors (cross referenced)
+  orphan.txt: found    2 directories with orphan files/directories
+    warn.txt: Warn   213 warnings
+  warn_x.txt: Warn   213 warnings (cross referenced)
+  warn_f.txt: Warn    25 files with warnings
+   error.txt: ERROR   14 missing files
+ error_x.txt: ERROR   14 missing files (cross referenced)
+ error_f.txt: ERROR   19 files had broken links/anchors
+ error_a.txt: ERROR   15 missing named anchors
+error_ax.txt: ERROR   15 missing named anchors (cross referenced)

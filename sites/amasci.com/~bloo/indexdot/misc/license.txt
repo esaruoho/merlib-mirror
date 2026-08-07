@@ -1,0 +1,59 @@
+Site Usage and License Information 
+
+ Site Usage License Information 
+ = Index DOT Html/Css by Brian Wilson 
+[ indexdot@blooberry.com ] = 
+
+ Index DOT Html: 
+ Main Index | Element Tree | 
+ Element Index | HTML Support 
+ History 
+ Index DOT Css: Main Index |
+ Property Index | 
+ CSS Support History |
+ Browser History 
+
+ Usage Terms 
+
+ Use of the Index DOT Html and Index DOT Css sites are at the users own risk.
+ The author is not responsible or liable for any misinformation or lack of
+ information in the sites' content or any losses that are the result thereof. 
+ Ownership of the Index DOT Html/Css sites and their content shall remain with the
+ author.
+ If used elsewhere, the copyright and license agreements pages, and existing
+ hyperlinks to them must always remain intact.
+ Any other usages of the Index DOT Html/Css sites and their content not covered 
+ in this usage and license agreement is prohibited unless express permission is 
+ granted by the author.
+
+ Distribution Terms 
+
+ The latest versions of the Index DOT Html and Index DOT Css sites can always
+ be found on the author's main site
+ ( http://www.blooberry.com/indexdot/intro.htm )
+ The content of the sites MUST NOT be re-posted, or distributed
+ in any medium (i.e. if you want to include the site archive on a CD
+ accompanying a publication, with other software, or any distribution
+ situation similar to these) without the
+ author's explicit permission.
+ [ This point is new ]
+ The Index DOT Html and Index DOT Css site archives MUST NOT 
+ be distributed as part of any larger package (such as those described
+ above) without the author's 
+ explicit permission.
+
+ Registration 
+
+The Index DOT Html and Index DOT Css site archives are currently available for 
+download under a 2-year, 10$US 
+download license . This download version will always represent the latest 
+version of the site content as it exists on the website. 
+
+A much older archive (November 1998) of the Index DOT Html site is also still 
+available for free download, but the differences between this 
+old version and the latest content are too numerous to mention. 
+
+Please contact the author if you have 
+any questions regarding the site or the archive. 
+
+ [ Please see also: Site Copyright Information ]

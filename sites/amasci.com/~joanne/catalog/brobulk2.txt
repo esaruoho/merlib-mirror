@@ -1,0 +1,304 @@
+BULK ORDER FORM 
+
+ BULK ORDER FORM 
+ JUNE 2002 
+
+ Printer 
+ friendly version 
+
+ CARRIER 
+ OILS / BASE OILS 
+ CODE 
+ PART 
+ OF PLANT 
+ EXT 
+ PRC 
+ GROWING 
+ PRACTICE 
+ COUNTRY 
+ OF ORIGIN 
+ 1 
+ GALLON PRICE 
+ QTY 
+ TOTAL 
+
+ SWEET ALMOND 
+ Refined, expeller pressed 
+ 3001 
+ seed 
+ CP 
+ regular 
+ USA 
+ $45.00 
+
+ APRICOT KERNEL 
+ Refined, expeller presssed 
+ 3002 
+ seed 
+ CP 
+ regular 
+ USA 
+ $34.00 
+
+ EVENING PRIMROSE 
+ Refined, expeller presssed 
+ 3003 
+ seed 
+ CP 
+ regular 
+ USA 
+ $120.00 
+
+ GRAPESEED 
+ 3004 
+ seed 
+ CP 
+ regular 
+ USA 
+ $35.00 
+
+ JOJOBA, NATURAL 
+
+ 3005 
+ seed 
+ CP 
+ regular 
+ USA 
+ $90.00 
+
+ ROSEHIP SEED 
+ OIL 
+ 3006 
+ seed 
+ CP 
+ regular 
+ Chile 
+ $300.00 
+
+ SESAME Refined, 
+ expeller pressed 
+ 3007 
+ seed 
+ CP 
+ regular 
+ USA 
+ $40.00 
+
+ WHEATGERM Refined 
+ 3008 
+ seed 
+ CP 
+ regular 
+ USA 
+ $68.00 
+
+ INFUSED 
+ OILS 
+ CODE 
+ PART 
+ OF PLANT 
+ EXT 
+ PRC 
+ GROWING 
+ PRACTICE 
+ COUNTRY 
+ OF ORIGIN 
+ 1 
+ GALLON PRICE 
+ QTY 
+ TOTAL 
+
+ CALENDULA Infused 
+ in olive oil 
+ 3020 
+ flower 
+
+ organic 
+ France 
+ $300.00 
+
+ MASSAGE 
+ OILS 
+
+ Same 
+ blends as the 4 ounce size Code 70-73 
+
+ 32 
+ ounce amber glass bottle 
+ CODE 
+
+ 32 
+ OZ PRICE 
+ QTY 
+ TOTAL 
+
+ ENERGY 
+ 70-32 
+
+ $35.00 
+
+ MUSCLE RELIEF 
+ 71-32 
+
+ $35.00 
+
+ RELAXING 
+ 72-32 
+
+ $35.00 
+
+ SENSUALITY 
+ 73-32 
+
+ $35.00 
+
+ 1 
+ gallon plastic container 
+ CODE 
+
+ 1 
+ GALLONPRICE 
+ QTY 
+ TOTAL 
+
+ ENERGY 
+ 70-G 
+
+ $100.00 
+
+ MUSCLE RELIEF 
+ 71-G 
+
+ $100.00 
+
+ RELAXING 
+ 72-G 
+
+ $100.00 
+
+ SENSUALITY 
+ 73-G 
+
+ $100.00 
+
+ HYDROSOLS 
+ (FLORAL WATERS) 
+ CODE 
+ PART 
+ OF PLANT 
+ EXT 
+ PRC 
+ GROWING 
+ PRACTICE 
+ COUNTRY 
+ OF ORIGIN 
+ 1 
+ GALLON PRICE 
+ QTY 
+ TOTAL 
+
+ ROMAN CHAMOMILE 
+ 3030 
+ flower 
+ SD 
+ organic 
+ France 
+ $70.00 
+
+ LAVENDER 
+ 3031 
+ flower 
+ SD 
+ organic 
+ France 
+ $70.00 
+
+ ORANGE BLOSSOM 
+ (NEROLI) 
+ 3032 
+ flower 
+ SD 
+ organic 
+ France 
+ $70.00 
+
+ ROSE GERANIUM 
+ 3033 
+ flower/leaf 
+ SD 
+ organic 
+ USA 
+ $70.00 
+
+ BULGARIAN ROSE 
+ 3034 
+ flower 
+ SD 
+ organic 
+ Bulgaria 
+ $70.00 
+
+ ALBA (WHITE) 
+ ROSE 
+ 3035 
+ flower 
+ SD 
+ organic 
+ Bulgaria 
+ $100.00 
+
+ LEMON VERBENA 
+ (VERVEINE) 
+ 3036 
+ leaf 
+ SD 
+ organic 
+ USA 
+ $100.00 
+
+ MELISSA (LEMON 
+ BALM) 
+ 3037 
+ herb 
+ SD 
+ organic 
+ USA 
+ $100.00 
+
+ BODY 
+ LOTIONS 
+ CODE 
+
+ 1 
+ GALLON PRICE 
+ QTY 
+ TOTAL 
+
+ RELAXING 
+ 80-G 
+
+ $85.00 
+
+ SENSUALITY 
+ 81-G 
+
+ $85.00 
+
+ STRESS FREE 
+ 82-G 
+
+ $85.00 
+
+ UNSCENTED 
+ 83-G 
+
+ $70.00 
+
+ Total: 
+
+ &copy; 
+ 2001 Bassett Aromatherapy. All rights reserved. Reproduction in whole or 
+ in part without permission is prohibited. Disclaimer: All material provided 
+ in at this website is provided for educational purposes only. Consult your 
+ own physician regarding the applicability of any opinions or recommendations 
+ with respect to your symptoms or medical condition.

@@ -1,0 +1,438 @@
+---
+title: "petals of the infinite help by R.S. Pearson"
+source_domain: amasci.com
+source_path: ~telical/petals.html
+order: 8774
+reachable_from_entry: false
+images: 2
+internal_links: 0
+extracted: 2026-08-07T06:01:17Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# petals of the infinite help by R.S. Pearson
+
+*Source page: `~telical/petals.html`*
+
+<table data-cellspacing="1" data-cellpadding="1" width="100%" data-border="0">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td><a href="http://www.qksrv.net/click-1431511-10306848" target="_top" onmouseover="window.status=&#39;http://www.flowerrewards.com&#39;;return true;" onmouseout="window.status=&#39; &#39;;return true;"><img src="http://www.qksrv.net/image-1431511-10306848" data-border="0" width="468" height="60" alt="Earn valuable gift cards when you send flowers!" /></a>
+<p><a href="http://www.eskimo.com/~telical/index.html"><strong><code>Creative Virtue</code></strong></a></p></td>
+<td><p><a href="http://www.eskimo.com/~telical/lit.html"><strong><code>Robert Pearson Poetry and Prose</code></strong></a></p></td>
+</tr>
+</tbody>
+</table>
+
+    petals of the infinite help
+
+     by R.S. Pearson
+     
+
+     
+    1
+
+    cast the jewels into the sea, your soul
+     
+    so cautious to touch this volatile membrane again 
+    yet I touch it and it lights fire up ubiquitous to the absolute 
+    I can get response from it just by seeing it as personal 
+    no voice of man touches it and me simultaneously 
+     
+    a framework 
+    a grid my questions come into 
+    the spectacular greeting me by virtue of my probes 
+     
+    so what bring these motivations around so much? 
+    to pour out from a heart its documents 
+     
+    blood of earth 
+    mustard seed of rainbows 
+    powder of stars 
+    balance of timelessness 
+     
+    anything magical left on 
+    earth for you? 
+    have you felt impoverishment 
+    take hold? 
+    and made of funds all your brain? 
+     
+    learning boom 
+    presto titles 
+    shuttle year 
+     
+    dense was the day mind 
+    historic ambitions gave power 
+    was it their hate for a deeper love to bloom?
+    apathy for social concern 
+    apathy for love itself 
+    not me, not us, not the worthwhile 
+     
+    pour out a heart its documents 
+    dense the sky when time stopped 
+     
+    This small town was a railway station to the absolute 
+    coming here -- if you've tried 
+    you can buy a ticket to the stars 
+    and even get lost in outer space 
+    while you resume life on earth. 
+     
+    I wanted philosophical finality 
+    I wanted to take a hierarchy road of knowledge
+    -- something neither academia nor 
+    metaphysics could teach me -- 
+    a vertical journey. 
+     
+    one element of the experience 
+    was the disappearance of the time sense 
+    this was not a dangerous phenomena 
+    as the belief in the experiences of being telepathic, 
+    that one had actually encountered other types of beings 
+    This I see as a dangerous folly 
+     
+    instead, I see these experiences 
+    we go through as a type of scripting language 
+    that one encounters 
+    when one registered  inside oneself 
+    patterns of trying to alter one's prayerfulness 
+    or sense of time, 
+    or just  awareness of one's thoughts and movements 
+     
+    we have a past together 
+    we create an alternate universe together
+    day by day
+    better than human minds may have yet spoken 
+
+    2
+
+    color book archangel breadth 
+    help arrives in every flower ascending 
+    beautiful weather changing your perceptions 
+    salvation cooling hues of life 
+
+    softer shades drinking absorbing 
+    the proof of power for beautifying life 
+
+    a granite structure girding the universe 
+    which feels like life looking up 
+    knowing the best is yet to come 
+
+    super-rainbow soaked one
+    nothing's over, it just begun
+    don't stop believing in peace
+    you knew life's greatest goal is potentially bliss
+
+    remember arms wrapped around you
+    the lover's kiss
+    the need to remember life as potentially bliss
+    your breath goes deeper
+    face creases a smile
+    not identified with stress, it's true
+    but life inside your air of blue
+
+    3
+
+    some people are lovers,  some people are loners 
+    overflowing of actions point them that way 
+    they study differently other's maps
+    the loners,  victims of abuse of one type or the other 
+    the lovers, who maybe are or aren't 
+    yet, lovers who were victimized still remain lovers
+    because a type of sap clouded their mind 
+    kept all humanity in a glory 
+    everyone wanting to be held eventually 
+    physically, symbolically, by all
+
+    we know that certain actions against us 
+    can cause emotional cognitive scaring 
+    therefore it must be certain positive actions
+    cause growth that will override them
+     
+    as sensing love for each stranger we see 
+    takes us to feel a goodness because 
+    we are put into a relationship with their real value 
+
+    the value both they have for themselves 
+    and the value their loved ones feel for them 
+     
+    this cause is that uplifting transformative experience 
+     
+
+    4
+
+    the one who created blue snow 
+    in atmospheres of hearts enjoying new zest 
+    after rebounded from death 
+    the recovery from the boundless dreams of youth 
+    from which 
+    a distance apart is gaining 
+    sails became open
+    unknowingly embraced destruction
+    to create a joy that creates words 
+    towards not accumulating shame 
+    seems so possible as for sometime everything
+    is careful not to be endangered 
+    by the descent from great heights
+     
+    5
+      
+    finding the rivers gold tops shimmering 
+    waving in windstreams feeling the feelings 
+
+    day rooted earthy staring at the lifebeam 
+    upon inner horizon 
+    remaking the sunshine 
+
+    rain of jingling happiness 
+    makes an envelope 
+    hopeful enclosures dwell 
+    remaking the sunshine 
+
+    6
+
+    days that soar with other powers of days passed by
+    clear air shadows and the stormy sun
+
+    something gorgeous comes to you
+    it's your future
+    when that great fire 
+    in your eyes 
+    shines once more 
+    you ask how yourself how 
+    to use it? 
+    its locus is wholeness 
+    to catch it and enjoy it
+    while it lasts 
+    you watch them one by one
+
+    7
+
+    it isn't in the intellect behind some walls that we 
+    can't see how smart an inconception, maplessness 
+    and in the source of health and fun, secrets stay 
+
+    it's not that we judge everyone,   pratically everyone 
+    and side with a few, or even just ourselves 
+    we accept each one, their works, their abilities 
+    and we don't grow well-pocketed by harshness, hoarding 
+
+    but by accepting each other
+    the wages they get as only adequate 
+    and, by this, in joy and security
+    we notice the light of each environment we are in 
+
+    an inner secret the depth of our perceptions different sensings
+    and if this is the secret of internal beautification 
+    can it be guarded as such? 
+    how can it be elevated?  
+
+    the quest and thirst of inner beautification 
+    by noticing 
+    how the light of all worlds strikes 
+
+    8
+
+    there was this secret thing 
+    it caused beautiful explosions 
+    rains of tears surrounded it 
+    the real of life kept one there 
+     
+    it didn't have money 
+    and it created a reckless child 
+    it was sometimes holy 
+    had sometimes wisdom 
+    and many carefully 
+    dug around it to uproot it 
+
+    yet if a strain remained 
+    it's going to grow 
+    and it will shake loose
+    the last threads of holiness in one 
+
+    9
+
+    importance goal-like structure 
+    hands own reaches renewed
+    competence heavy and a refuge 
+    on life not on what life chewed
+    from in fires and flames 
+    sparked through 
+    comforts from old times construe 
+    a floating vengeance to anchor the vision 
+    holding in omnipotent true 
+
+    10
+
+    a love link for all faces 
+    inside connected with everyone's choices 
+    dusted off the dingy promises 
+    resigned myself to the blessed fate 
+    action sets in space 
+     
+    keep us away
+    from the faith of sloths
+    covering the land today 
+    the robbing faith of sloths
+
+    and work for open eyes
+    work for agile minds
+    and work for angry concerns
+    work for a faith in hope
+     
+    and the fire will rise
+    and burns the lack of desire on our part 
+    to all our declines 
+    flames shoot out 
+    and incinerate
+
+     
+
+    11
+
+    I found a guide 
+    in a gypsy moth catepillar walking 
+    across the hood of my moving car 
+
+    it seemed to suffer in the accelerating wind 
+
+    an allegory 
+    in suburbia 
+
+    it eats and must survive 
+    on what we only like to look at 
+
+    no one wants to tolerate a gypsy moth 
+
+    even if the damage they do here 
+    is only to our suburban beauty 
+     
+    and isn't this the story 
+    of the poor and the adequate 
+
+    people go homeless and without medical attention 
+    because some can't balance the wealth of the land 
+
+    nor spend time with the weak 
+    because they don't want to look 
+    at an object too annoying 
+
+    an object that doesn't beautify their lives 
+
+     
+    12
+     
+    experiences remembered as haunting shadows   
+    through such they all seemed to live 
+    as colored by new sanity 
+    for some, such days one can only recall in a good light as lessons 
+    positive reflections as odd lessons of the soul 
+
+    what some view as carnal-minded delusions 
+    perhaps are pathways to the genius we all might pass through 
+    as the glory of life not hoped for by common man 
+
+    13 
+
+    when any prayer 
+    brings pounding tears 
+    changed our life 
+    and the bitter error 
+      
+    what are we going to do?  
+    each day jet propelled by the Spirit
+    what bliss to follow?  we'll find some 
+    been passive for the touch of God
+    reaching out in sobriety for things intoxicants would bring  
+
+    road way rainbow civilian surrounded 
+    blue, clouds so white, sun bright 
+    we can have life back  
+    we'll steal it back from wealth 
+
+    every jewel of love drips 
+    the nights are sober 
+    yet intoxicated still 
+
+    when any prayer 
+    brings pounding tears 
+    changed our life 
+    and the bitter error 
+
+    14
+
+    some people just are molded nuances 
+    God speaks when they talk 
+    it's a soul talking God's voice 
+    the yielding they've done through time 
+    comes out so we see 
+    the mind of God 
+    here in words 
+    just in ordinary ways 
+    because they couldn't stop praying 
+    "make me an instrument of You" 
+     
+    this total power confidence of all outward 
+    self-esteemed business competence 
+    in rhythm with all alternative head space 
+    supercloud economic growth with charitable 
+    habit and givingness 
+    blend of elements fusing each 
+    filament of sufficiency 
+    inner glow and auric dynamic hairbow 
+     
+    fire inside comes out in flames all around you 
+    to others on a bus toward God's prayer simultaneously 
+    towards ice lake layer yellow intellect library circuitry current 
+     
+    abundant fecundities dew from higher duty capitalist 
+    ability can be free from constricted paranoid viewing upon 
+    the shores of statues of liberties upon 
+    Neptune's blinding positron seas 
+     
+
+    15
+
+    remember the self 
+    where He builds roads 
+    out of eternal arches higher and higher 
+
+    of every your life we will lay down our hearts 
+    whose order will thrive on the earth 
+
+    the pride of alarms the sins we don't respond 
+    it will be washed by a humble pride in Christ 
+
+    as for their eyes the pleasure singing finally 
+    some absence star is doomed with heavenly life 
+
+    bore the words in windows of first endlessness 
+    what else have I known but its mercy 
+
+    instructions futureless night bows to omniscience 
+    all darkness is doomed 
+
+    15
+     
+    the revolution is your soul 
+    the revolution is your self-esteem 
+    never able to be stolen by another artist 
+    you won't find freedom identifying with what they can identify 
+    your spectacles and situationalisms 
+    will get you tons of guilt by 30 
+    but the revolution is your soul 
+    no commodity that someone beat you to in the market 
+
+     
+     
+
+|     |
+|-----|
+|     |
+
+[**`Creative Virtue`**](http://www.eskimo.com/~telical/index.html)
+
+[**`Robert Pearson Poetry and Prose`**](http://www.eskimo.com/~telical/virtuism.html) <a href="http://www.qksrv.net/click-1431511-5395126" target="_top"><img src="http://www.qksrv.net/image-1431511-5395126" data-border="0" width="120" height="60" alt="Click Now for the Leading Astronomy Software!" /></a>

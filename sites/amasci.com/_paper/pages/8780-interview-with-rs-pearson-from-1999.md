@@ -1,0 +1,79 @@
+---
+title: "Interview with R.S. Pearson from 1999"
+source_domain: amasci.com
+source_path: ~telical/rspview1999.html
+order: 8780
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T06:01:17Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Interview with R.S. Pearson from 1999
+
+*Source page: `~telical/rspview1999.html`*
+
+Interview with R.S. Pearson from 1999
+
+### Interview with R.S. Pearson from 1999
+
+Interview done with "Tara" from Australia for an art school project.
+
+QUESTION 1:\
+Do you feel that Christianity expressed in art around the Renaissance period lacked the depth and spirituality, and maybe maturity of Christianity expressed in art today? In the sense that artists today have more freedom to express individually?
+
+No, I don't believe that Renaissance art lacks the depth and spirituality, or maturity of Christianity compared to today's art. The Renaissance was a time of tremendous innovation and spirituality. Individuality isn't a positive thing in itself, as when there is no listening to the inner law of God in people's hearts. Artists can use the banner of individuality to be a cloak for aimlessness and creating art that has a lack of meaning and aesthetic value. With the Renaissance, artists were under some strong guidelines of meaning and beauty.
+
+Today's Christian art, as expressed in visual arts, doesn't always strike me as better or deeper. In fact, I'm usually more moved by Renaissance art, and the work of 19th Century art, like the Pre-Raphealite movement, than I am by modern Christian art I've seen.
+
+QUESTION 2:\
+Have you observed, or do you feel that there has been a drastic change in the purpose for the expression of Christianity in art?
+
+There shouldn't be a drastic change, but sometimes I see today's Christian visual artists as still fairly immature. I run one of the oldest internet sites for Christian Modern Art, and I don't come across many artists who have a mature figurative style in describing aspects of Christ's relationship to man. Perhaps many are still in a stage of needing to explore a new-found freedom of artistic expression, and are forgetting the need the world has for spiritual healing.
+
+QUESTION 3:\
+Do you feel that artists such as Andres Serrano ("Piss Christ") are more associated with a rebellion against aspects of Christianity instead of spiritual expression? Why?
+
+From what I've seen of Andres Serrano, I personally don't believe there is much value in any of his work. I think most people are basically sleep walkers in this respect. They don't really look to see if there is anything of value in his other works, they look only at his publicity gimmick, which in itself really wasn't so original when you look at the last hundred years of modern art. In seeing his other work which are mostly on the themes of urine, supposed morgue shots, other sacriligious subjects, etc. it seems like his cover-up statement that his work was for deeper values was really just press-release material to make his work seem more substantial.
+
+QUESTION 4:\
+When do you feel an artist has gone too far with controversial Christian portrayals in art? Is there a boundary? and when has it been pushed/crossed?
+
+I think that any artist must be understanding of what the spectrum is of how his work will be understood. If an artist is incapable of that, he or she really dosn't have much intelligence, as one of the signs of intelligence is an ability to communicate effectively. I think it's not right that so many Christian artists seem to need to portray a certain darkness or painfulness in their art, and we don't see much "Joy of the Lord" expressed intelligently in today's Christian art. I would say the main boundary is creating relatively meaningless work, and then calling it Christian. We must remember to pray to God to make us ministers to the needs of other human beings. We can't do it on our own.
+
+QUESTION 5:\
+Do you feel society places too many restrictions on artistic expression of Christianity? If so, how do they do this?
+
+Well, the art society can be at times pretty accepting of Christian work. I have a friend named Miska (www.miska.com) who is a Catholic artist and she shows in secular galleries while still having Christian themes in her work. She's not exclusively painting Christian themes but most of her work is sunny and bright and shows the fruit of the Spirit.
+
+My biggest concern is that the new awakening of Christian artists seems to be cut-off from communicating with the secular world. I don't know everything about what is going on out there, but from what I've seen, I've been a bit angered that there is so much of this "church speak" -- people talking more about having \>art\< in a Christian's life than trying to get some \>Christian art\< into the secular world.
+
+QUESTION 6:\
+Is it these such restrictions placed on artists by society that are the cause of much "controversial" Christian work? Has society's efforts to conform to the glorified and idealistic portrayal of Christ, in fact enticed a rebellion against it?
+
+I'm not really aware of what controversial Christian work you are talking about. I could believe that some of the work I've seen on the web over the years has been called controversial by some.
+
+About the second part of your question: the more society tries to conform to the glorified and idealistic portrayal of Christ, the better it is. Trying to conform to Christ has caused more than half of the mental and emotional evolution on the planet. It started in the days of the ancient Romans, it was happening in the Middle Ages, and it is even happening in this century, as we see the barbarism of the Nazi's and the Communists, and even today, the barbarism of the teens in American high schools, and sadly, much of the adults in their lives. Sadly, in America, we have some real clowns on TV who portray themselves as ministers of the gospel, and yet to some people, they actually are doing the job. But to most unchurched people, there aren't enough Christian role models to understand what to conform to and why this way is better. They can't yet see how becoming one with God's plan can make their lives more beautiful, harmonious, enjoyable and effective.
+
+Perhaps the rebellion against what Christ is really about isn't at stake here. Most people say they're against Christian people's hypocrisy. Yet we all have to learn to not make accounts of how we imagine someone to be on the inside, because mistakes in communication is really humanity's biggest problem. Everybody is fighting their own battles. I have a lot less respect for people who are just rebelling for their personal ideas of righteousness than I use to. I used to be one of them and in awe of them. But today, and even for many years, a stack of rebellious attitudes and expressions inside a person is often just divisiveness against well-meaning people and therefore blindness. It's the creation of alternative types of power-structures more than working for charity and doing what God needs done. Being an alternative-type isn't righteousness in itself anymore than being any other type of person.
+
+QUESTION 7:\
+Under what circumstances might the government or other bodies be justified in censoring or prohibiting such critical expression?
+
+Good governments do what they can do to keep the most number of people happy while still having some control over people who cause problems. Most people don't understand art's potential for good or harm, or have something at stake -- perhaps they enjoy violent movies. Many are saying that we have given people too much freedom, that the profit motive is overrunning any sense of moral responsibility of not creating a narcissitic violent youth sub-population. I personally don't think it's a problem that is going to be easily solved and I don't envision that many people sacrificing themselves to such hostility by advocating censorship of any kind. I myself don't think about censorship being the solution, I see the solution in educating the souls of men towards not creating and liking violent reptile-brain garbage.
+
+QUESTION 8:\
+Do you feel there is more need for the regulation of Christianity in contempory art? Why?
+
+No, I don't see any need for regulation in Christian comtemporary art.
+
+QUESTION 9:\
+Patronage played a major role in art created in the Renaissance period. Do you feel that because of this fact, artists of this time lacked a spiritual depth and understanding in their works? Why?
+
+No, I am very appreciative of Renaissance art in general. In the Renaissance, the structure of faith was often more open at that time and embraced areas of depth and understanding that some Christians might lack today. For instance, it seems in the Renaissance, Christians could understand the use of mythology, say as Carl Jung had understood it, and I think we've lost touch with that today.
+
+QUESTION 10:\
+Do you feel that society's perception of religious art is too conformed as a result of such religious depictions found in the Renaissance?
+
+That is true. There needs to be some way to break this stereotype. Only very great artists are capable of doing it, since very great artists created the art that produced the stereotype.

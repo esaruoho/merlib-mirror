@@ -1,0 +1,234 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995, 1996 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>5.1 Function Basics</title>
+<link href="sx5.html" rev=precedes>
+<link href="sx5b.html" rel=precedes>
+<link href="sx5.html" rev=subdocument>
+</head>
+<body>
+<H2>5.1 Function Basics</H2>
+
+<p>So what defines a function?
+It has a <em>name</em> that you call it by,
+and a list of zero or more <dfn>arguments</dfn> or
+<dfn>parameters</dfn> that you hand to it for it to act on or
+to direct its work;
+it has a <dfn>body</dfn>
+containing the actual instructions
+(statements)
+for carrying out the task the function is supposed to perform;
+and it may give you back a <dfn>return value</dfn>,
+of a particular type.
+</p><p>Here is a very simple function,
+which accepts one argument, multiplies it by 2, and hands that
+value back:
+<pre>
+	int multbytwo(int x)
+	{
+		int retval;
+		retval = x * 2;
+		return retval;
+	}
+</pre>
+On the first line we see the return type of the function (<TT>int</TT>),
+the name of the function (<TT>multbytwo</TT>),
+and a list of the function's arguments, enclosed in parentheses.
+Each argument has both a name and a type;
+<TT>multbytwo</TT> accepts one argument,
+of type <TT>int</TT>,
+named <TT>x</TT>.
+The name <TT>x</TT> is arbitrary, and is used only within the
+definition of <TT>multbytwo</TT>.
+The caller of this function only needs to know that a single
+argument of type <TT>int</TT> is expected;
+the caller does not need to know what name the function will
+use internally to refer to that argument.
+
+(In particular,
+the caller does not have to pass the value of a variable
+named <TT>x</TT>.)
+</p><p>Next we see, surrounded by the familiar braces,
+the body of the function itself.
+This function consists of one declaration
+(of a local variable <TT>retval</TT>)
+and two statements.
+The first statement is a conventional expression statement,
+which computes and assigns a value to <TT>retval</TT>,
+and the second statement is a <TT>return</TT> statement, which
+causes the function to return to its caller, and also
+specifies the value which the function returns to its caller.
+</p><p>The <TT>return</TT> statement can return the value of any
+expression, so we don't really need the local <TT>retval</TT>
+variable;
+the function could be collapsed to
+<pre>
+	int multbytwo(int x)
+	{
+		return x * 2;
+	}
+</pre>
+</p><p>How do we call a function?
+We've been doing so informally since day one,
+
+but now we have a chance to call one that we've written, in
+full detail.
+Here is a tiny skeletal program to call <TT>multby2</TT>:
+<pre>
+	#include &lt;stdio.h&gt;
+
+	extern int multbytwo(int);
+
+	int main()
+	{
+		int i, j;
+		i = 3;
+		j = multbytwo(i);
+		printf("%d\n", j);
+		return 0;
+	}
+</pre>
+This looks much like our other test programs, with the
+exception of the new line
+<pre>
+	extern int multbytwo(int);
+</pre>
+This is an <dfn>external function prototype declaration</dfn>.
+It is an external declaration, in that it declares something which is
+defined somewhere else.
+(We've already seen the defining instance of the function
+<TT>multbytwo</TT>, but maybe the compiler hasn't seen it yet.)
+The function prototype declaration contains the three
+pieces of information about the function
+that a caller needs to know:
+the function's name,
+return type, and argument type(s).
+Since we don't care what name
+the <TT>multbytwo</TT> function will use to refer to its first argument,
+we don't need to mention it.
+(On the other hand, if a function takes several arguments,
+giving them names in the prototype
+may make it easier to remember which is
+which, so names may optionally be used in function prototype
+declarations.)
+Finally, to remind us that this is an external declaration and not a
+defining instance,
+the prototype is preceded by the keyword <TT>extern</TT>.
+</p><p>The presence of the function prototype declaration lets the
+compiler know that we intend to call this function, <TT>multbytwo</TT>.
+The information in the prototype lets the compiler generate the
+correct code for calling the function,
+and also enables the compiler to check up on our code
+(by making sure, for example, that we pass the correct number
+of arguments to each function we call).
+</p><p>Down in the body of main, the action of the function call
+should be obvious:
+the line
+<pre>
+	j = multbytwo(i);
+</pre>
+calls <TT>multbytwo</TT>, passing it the value of <TT>i</TT> as its
+argument.
+When <TT>multbytwo</TT> returns,
+the return value is assigned to the variable <TT>j</TT>.
+
+(Notice that the value of
+<TT>main</TT>'s local variable <TT>i</TT>
+will become the value of
+<TT>multbytwo</TT>'s parameter <TT>x</TT>;
+this is absolutely not a problem,
+and is a normal sort of affair.)
+</p><p>This example is written out in ``longhand,'' to make
+each step equivalent.
+The variable <TT>i</TT> isn't really needed, since we could just
+as well call
+<pre>
+	j = multbytwo(3);
+</pre>
+And the variable <TT>j</TT> isn't really needed,
+either, since we could just
+as well call
+<pre>
+	printf("%d\n", multbytwo(3));
+</pre>
+Here, the call to <TT>multbytwo</TT> is a subexpression which
+serves as the second argument to <TT>printf</TT>.
+The value returned by <TT>multbytwo</TT> is passed immediately
+to <TT>printf</TT>.
+
+(Here,
+as in general,
+we see the flexibility
+and generality
+
+of expressions in C.
+An argument passed to a function
+may be an arbitrarily complex subexpression,
+and a function call is itself an expression
+which may be embedded as a subexpression
+within arbitrarily complicated
+surrounding
+expressions.)
+</p><p>
+We should say a little more about the mechanism by which an
+argument is passed down from a caller into a function.
+Formally, C is <dfn>call by value</dfn>,
+which means that a function receives <em>copies</em>
+of the values of its arguments.
+We can illustrate this with an example.
+Suppose, in our implementation of <TT>multbytwo</TT>,
+we had gotten rid of the unnecessary <TT>retval</TT>
+variable like this:
+<pre>
+	int multbytwo(int x)
+	{
+		x = x * 2;
+		return x;
+	}
+</pre>
+We might wonder,
+if we wrote it this way,
+what would happen to the value of the variable <TT>i</TT>
+when we called
+<pre>
+	j = multbytwo(i);
+</pre>
+When our implementation of <TT>multbytwo</TT> changes the
+value of <TT>x</TT>, does that change the value of
+<TT>i</TT> up in the caller?
+The answer is no.
+<TT>x</TT> receives a copy of <TT>i</TT>'s value,
+so when we change <TT>x</TT> we don't change <TT>i</TT>.
+</p><p>However, there is an exception to this rule.
+When the argument you pass to a function is not a single variable,
+but is rather an array,
+the function does <em>not</em> receive a copy of the array,
+and it therefore <em>can</em> modify the array in the caller.
+The reason is that it might be too expensive to copy the entire array,
+and furthermore,
+it can be useful for the function to write into the caller's array,
+as a way of handing back more data
+than would fit in the function's single return value.
+We'll see an example of an array argument
+(which the function deliberately writes into)
+in the next chapter.
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx5.html" rev=precedes>prev</a>
+<a href="sx5b.html" rel=precedes>next</a>
+<a href="sx5.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995, 1996
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

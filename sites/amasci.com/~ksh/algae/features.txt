@@ -1,0 +1,45 @@
+Algae Features 
+
+ Algae Features 
+Here are some of the features that set Algae apart from other numerical
+analysis languages:
+
+ speed 
+ Algae is fast. It's generally faster than
+ MATLAB ,
+ RLaB , and
+ Octave , often by a
+significant margin. Of course, words like "generally" and "often"
+(and benchmarks themselves, for that matter) don't mean much when it
+comes time to run your particular problem, and I'm sure that you can
+find cases where Algae gets beat. Still, Algae is fast.
+
+ sparse arrays 
+ Algae's arrays may be stored in sparse form; only the non-zero
+elements and their locations are stored. This type of storage is
+required for practical analysis in many fields. In my own field
+(structural dynamics), a matrix with 20,000 rows and columns is not
+considered large.
+
+ array labels 
+ In Algae, every vector and matrix may be given a set of labels for
+each dimension. These labels persist in a consistent way across
+operations, and may be used to specify particular elements. MATLAB
+code that I've seen often has expressions like states[127] --
+the user has carefully tracked the size and order of his equations and
+knows that the 127th element contains, for example, the nose gear
+stroke rate. In Algae, the user can simply refer to
+ states["nose_gear_rate"] .
+
+ vectors 
+ Scalars, vectors, and matrices are distinct data types in Algae.
+Some folks disagree, but I consider this a distinct advantage over
+MATLAB's approach, which suffers from ambiguity and from having two
+valid yet incompatible vector types (row and column).
+
+ statistical profiling 
+ Algae offers a profiling capability that can show you, by file and
+by line number, where your code spends its time. This is a very
+powerful tool for performance improvement.
+
+ Algae Home

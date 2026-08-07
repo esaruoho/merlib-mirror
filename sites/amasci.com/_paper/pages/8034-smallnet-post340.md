@@ -1,0 +1,167 @@
+---
+title: "SMALLnet post340"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post340.html
+order: 8034
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:32Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post340
+
+*Source page: `~smallnet/Archive/post340.html`*
+
+## SMALLnet Posting post340
+
+------------------------------------------------------------------------
+
+**Date: Thu, 24 Aug 2000 23:39:28 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet/> \>
+
+Don Garry \< <dongarry@webtv.net> \> insists:
+
+Check out the new R/C Rascal from Sig. It is set up for 1/2A or electric power at 324 square inches. I can't wait to get mine, will power it with a 1/2A diesel!
+
+Donald Garry\
+535 Clearview Drive\
+Cocoa, Florida 32927\
+Phone# (407) 632-9115\
+
+Mark D. Fain \< <110773.133@compuserve.com> \> wrote:
+
+Many thanks to all those who aided me in my search for Pacer plans. I have now scanned and vectorized the magazine article and am in the clean-up phase. I have a couple of further questions:
+
+1.  Does anyone have an idea what airfoil section(s) were used in the original ACE wing panels?
+2.  How does the Norvel .074 compare to the Norvel .061 Big Mig in terms of power? Is there enough of a power increase to justify the extra weight?
+
+Thanks, Mark D. Fain
+
+Fred Reese \< <fredreese@gv.net> \> offers this helpful tip:
+
+Just talked to Tom Runge at Ace Hobby Distributors (Ace RC) this morning. The Ace Mini Foam wings are in stock at Ace. They are available through your local hobby shop. The hobby shop can order the wings only from Ace; they are not available through the other distributors.
+
+Fred Reese
+
+Rob Wells \< <rwells@thefoliogroup.com> \> contributed:
+
+About those chopsticks.... they are nice but unless you can suggest some creative way to rip 'em down, you're in for a tough time like I had. I did manage to finesse a set of struts for a Fokker D-7. I cut them with a sharp \#7 X-Acto and a straightedge, but you can't go for the whole thing in one pass, or you will end up bowing the strut.
+
+Rob Wells, 65 Lukens Drive, Riveredge Park, New Castle, Delaware 19720 (302) 654-1352 X3018
+
+Richard DeAngelis \< <rcdeangelis@snet.net> \> adds:
+
+In Posting \#339 JW mentioned the bamboo chopsticks he found. It would be helpful to many if you mentioned the market (if a national chain) and the brand name of the chopsticks. Maybe we could let our fingers do the walking. RCD
+
+Keith Griffith \< <kgriffit@wolfenet.com> \> informs us:
+
+A magazine by the name of the Bamboo Rod has sources for great Tonkin (?) cane. There seems to be a regrowth of bamboo rod building interest. Long distances between nodes, straight grain, uniform flex are all really big deals to that crowd. Depending on how hard-core you are, even jigs and cutters are available to plane the product to specific dimensions.
+
+'Grif'
+
+...OK, OK, fellows -- I had forgotten that some SMALLsters aren't accustomed to working with bamboo. It's much different from wood! You don't "slice it", and rip-sawing bamboo isn't really practical in a home workshop.
+
+Instead, bamboo is shaped to size by SPLITTING to the approximate dimensions wanted, then finished by SCRAPING.
+
+For best results the bamboo "blank" should be split close to its centerline. (Trying to split a narrow piece away from a wider one usually causes the blade to wander from the desired split line.) Thus, you have to "think ahead" and plan your splitting sequence so you end up with the right size (slightly oversize, really).
+
+Because bamboo is most easily brought to its desired cross-sectional shape (by scraping with a sharp knife blade) while it's flat, all that shaping should be completed before the bamboo is bent.
+
+Bamboo has been called "Nature's thermoplastic". That's because its binding resin softens with heat. Bamboo can be bent to quite tight radii when heated to JUST the right temperature. (Too cold and the material splits and splinters; too hot and it chars and loses strength.)
+
+In the Good Old Days we bent bamboo parts around light bulbs, free-hand around candle flames; and some fellows I knew even used hair curling irons (do those still exist?) and soldering irons.
+
+Today we needn't mess with primitive equipment like that. Covering irons (both full-size and "trim") make neat bamboo-bending tools. Practice until you get the heat right, and acquire a "feel" for the point where the bamboo resin "relaxes" and permits reasonably effortless forming.
+
+As for the source of the chopsticks I mentioned, I bought them at Winn-Dixie (a southern USA supermarket chain); and the brand name is "Good Cook" -- distributed by Bradshaw International, Inc., Rancho Cucamonga, California 91730. (They're Taiwanese products.)
+
+Cementing bamboo used to be a problem, because model cement doesn't penetrate deeply into bamboo's tiny pores. We usually lashed our bamboo parts to balsa with silk thread, then spread a coat of Ambroid over all. (Ambroid was originally developed for exactly that use -- in making bamboo fishing rods.) However, CA adhesives seem to work well in bamboo-to-wood joints. Just make sure that the glued surfaces of the bamboo are clean-scraped. \[JW\]
+
+Ron Ferrer \< <armadilo@creative-net.net> \> reports:
+
+Got the Mirage, but haven't got it built yet. It is made of white styrofoam, and appears to be molded well. This is a "package deal": for about a hundred bucks you get plane/electrics.
+
+I have never tried electric, as I am too thrifty (cheap) to buy a fancy charger, but this looks like a good candidate, as it has a 9.6V, 600 mAh pack. That is what my transmitter has, so I am planning on charging it on my fast field charger. If I am gonna blow it up using it to charge this thing, someone let me know!
+
+Is it important to let the pack cool first? Should have the thing flying in a week or two, will let you know how it does...
+
+...Well, since the e-mail I sent this morning, a lot has happened with the Mirage! I decided to get it together, and it went nicely; less than 6 hours total. Fuselage is styrofoam, but wings are styro core, sheeted with egg carton material.
+
+It reminds me of material that Cox used on the wings of the FW-190 Butcher Bird control-line stunter they made in the late 70's, and sold the wing as an aftermarket item for about \$2. I made many C/L scratchbuilts with that, including a real cool 1/2A Nobler...
+
+I would love to see it produced again. Was Larry Renger behind the FW-190? \[That's quite right -- Larry certainly was! JW\]
+
+Doggone it, got sidetracked! Anyhow, I decided to test fly it tonight. Fast charged it with my field charger, worked great. But it was dead calm, had rained earlier, high humidity, and I didn't break in the motor first (electric novice!).
+
+The Mirage wouldn't maintain level flight, but flew stable and straight and landed nice and slow in about 100 feet. Tried several times, then decided maybe motor break-in WAS important! I went back to the shop, and got some motor cleaner spray, commutator drops, and oil. I read the instructions, followed them; now my motor cranks a lot higher. It should be OK now.
+
+The instructions mentioned that even if I did not choose to break in the motor, follow steps etc., etc... So I figured it would be OK to try flying "out of the box". I would now recommend breaking in the motor from the start, now.
+
+Will try flying tomorrow, and if it goes OK, will give flight report. If it doesn't fly OK, I noticed it would be an easy matter to put in a Norvel and 2-ounce tank... Better the devil you know than the one you don't, I guess! ;) But I will give the electric a fair chance before I hack into it. I am running the 6-3 propeller the Mirage came with; any suggestions for more power from you electric guys who know what you are doing (unlike me!) would be appreciated!
+
+Thanks, Ron Ferrer.
+
+...Ron, I saw an out-of-the-box Mirage flown at the SMALL meet at Maumelle last June -- on Sunday, with the rain pouring down!
+
+It was a most impressive performance, and caused the few stalwarts who remained at the sopping wet field to all want to buy Mirages for themselves. (I was even tempted myself.) I'm fairly sure that the Texans who put that foam Mirage together at their motel room on Saturday night followed the instructions for breaking in the motor.
+
+(It's ALWAYS a good idea to follow the manufacturer's instructions. Those folks are NOT trying to boss you around or cause you unnecessary work -- they want very much for you to be successful with their products!) \[JW\]
+
+Mark Vance \< <mvance@iglou.com> \> inquires:
+
+Greetings Fellow Smallsters! As usual I have a question: Has anyone in our group ever built and flown the 1/12 scale Gus Morphis Me-262? I have one framed up, and am ready to outfit it with 2 Norvel .074's, as I feel the .09-.12 and I'm sure .15's as well may make it a rocket; but will weigh down the little 235 square-inch plane so much as to make it way too snappy to be much fun.
+
+I suspect my all-up weight will be around 32 ounces, and that the dependable .074's will be just perfect to have a nice swoopy, fast little plane.
+
+The Gus Morfis Planset doesn't include any recommended CG infor- mation, and since it's a double-tapered wing, and pretty thin, I'd like to hear any experiences anyone has had with flying this plane, as well as final weight and paint/covering information. When I bought these plans on E-Bay, I also bought a set of foam cores as well. This was a mistake, as my completed foam wing, less nacelles, weighed almost 4 ounces more than the fully sheeted all-balsa wing I scratch-built afterwards. I figure 10-15% weight savings in this case would have a big influence on the "Happy Flying factor".
+
+Anyway, any experiences with the Morphis 1/12 ME-262 would be greatly appreciated.
+
+On another note, I recently tried one of the shakedown ship of the new Norvel .25 Plain Bushed engine. It performs just as solidly as its smaller .15 brother, and it too has the better bolt-on muffler that the BB .25 has. Power-to-weight ratio is simply outstanding. Plus we all got a little itchy waiting 6 months last Fall for the BB model to get shipped!!!! hehehe!
+
+I think the 1/12 combat guys are going to really flock to this lightweight little feller as soon as they show up in sizeable quantities. I'm not aware of the shipping status of this model at the present time though, but I'm sure one could find out on the Norvel web site. I think this one would be quite neat to fly a lightly-built Telemaster .40 with, as it would have the flight qualities of an INDOOR flyer, but outside, and on a 72" span plane! A Truly Big, but SMALL powered kite!
+
+Regards, Mark Vance
+
+Adam Bryant \< <adamdb@juno.com> \> submitted:
+
+<span id="235">Source: CAD Tools, Turbocad\
+</span> I use the free 2D version of Turbocad from \< <http://www.turbocad.com> \>. It works well, and is the easiest to learn CAD program that I have seen.
+
+My two cents worth on ARF's: When I first started in this hobby I swore that I would never buy an ARF. Then came a full-time job, wife, kids, house, etc. I recently needed a trainer for my sons, and since I fly at a windy field, needed a heavier trainer the well- worn Eaglet I learned on 15 years ago.
+
+I purchased a Hobbico Superstar ARF trainer and was very impressed with the price, quality, completeness, and ease of building (about 10-15 hours). I will still build models from kits in the future (even though I don't like building all that much), but I will also take a serious look at ARF's if I want a particular plane and don't have the time to build from a kit.
+
+ARF's are great for a new person getting into the hobby that doesn't want to spend a lot of time and effort building, only to discover they don't like the hobby. They are also great for people like me who have limited building time, and might not fly at all if not for ARF's. So who cares where the airplane comes from as long as it gets another person in the air.
+
+Adam Bryant, Parker, Colorado USA
+
+Dave Segal \< <DDavesegal@cs.com> \> has a helpful suggestion:
+
+In my area the U.S. Weather Service does not provide radio broadcasts of wind forecasts until about dinner time for the following day. So in order to plan for tomorrow's flying activities I am in the habit of first checking in with the Intellicast web site. This is a rather odd web site so just follow these instructions:
+
+Go to \< <http://www.intellicast.com> \>
+
+Select Sailcast
+
+Select Forecasts
+
+Select Windcast
+
+A map of the U.S. will appear and you can click on your region. After the larger-scale map comes up you can select the time period desired for the forecast.
+
+Dave Segal
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

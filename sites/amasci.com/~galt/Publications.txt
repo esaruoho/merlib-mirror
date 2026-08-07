@@ -1,0 +1,27 @@
+Publications 
+G. Alt, K. King, A Dynamic Reputation System Based on 
+Event Knowledge in AI Game Programming Wisdom , edited by Steve Rabin, 2002 
+(Charles River Media) 
+
+C. Hsu, G. Alt, Z. Huang, E. Beier, B. Bruderlin, "A Constraint-based 
+Manipulator Toolset for Editing 3D Objects" in Symposium on Solid Modeling, 1997 
+(ACM SIGGRAPH) 
+
+Master's Thesis: "TWEAK: a 3D Toolkit and Modeling System Using Snapping and 
+Constraints," University of Utah, 1996 
+
+Nintendo Powerglove PC driver, in Virtual Reality Playhouse by Nicholas 
+Lavroff, 1992 
+
+ASCII stereogram generator, in Random Dot Stereograms by Andrew A. Kinsman, 
+1992 
+
+ Greg Alt's Personal Pages 
+
+ Companies I've Worked For 
+ Education 
+ Completed Games 
+ Publications 
+ Bicycle Commuting Checklist 
+ My Realtime Raytracer 
+ Homepage

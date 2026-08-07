@@ -1,0 +1,574 @@
+SMALLnet post431 
+
+ SMALLnet Posting post431
+
+Date: Mon, 9 Sep 2002 02:02:59 -0500
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet/ >
+
+...Back again, gang! No, I haven't gone to California -- not yet,
+anyway. I've been having further pesky medical problems, and
+undergoing tests galore to find the cause of my recent complete
+lack of energy and stamina.
+
+This condition is neither painful nor life-threatening. It just
+severely limits my ability to stay awake and get things done.
+I need something like 15 hours sleep a day... [JW]
+
+Dennis Hansen < > reported last time 
+on the relocation of John Pond's Old Time Plans Service. This 
+time Dennis conveys bad news:
+
+I was just reading my recent SAMtalk email. The word from
+the 2002 SAM Champs in Muncie is that all orders sent to Kevin
+Pond are being returned with a note saying the plans service
+is no longer in business. Yikes! Dennis
+
+Don Typond < > wrote:
+
+Here's how I make windshields for small models from clear
+MonoKote: I cut it out just as you would an acetate one,
+then tack it with the iron along the roof line -- then onto
+the vertical side posts, keeping the front bottom edge tight
+against the cowl. (Pretty much as you would with glue.)
+
+Do not heat-shrink the MonoKote!
+
+All we're doing here is using MonoKote as we would a thin acetate,
+and not for its heat-shrinking abilities. The advantage is
+primarily being able to attach its edges without having to use
+glue, with glue's attendant smearing.
+
+But another real advantage is MonoKote's "floppiness." As you
+know, acetate and butyrate are "springy," acetate more so than
+butyrate. That means you have to pin, tape, or hand-hold the
+windshield in place until the glue dries. With MonoKote you
+just wrap and heat-tack. So simple!
+
+It's also good for flat side windows too, although on lightweight
+models I prefer cellophane for the side windows because it's
+lighter than MonoKote, and easy enough to glue in place. But on
+larger models, MonoKote is perfect because it's almost invisibly
+thin, and on the side windows you CAN heat-shrink it so it
+has NO wrinkles.
+
+I glue a narrow strip of wet colored tissue along the bottom
+edge junction at the cowl with thinned RC-56 glue and a fine
+brush. This attaches the windshield to the cowl with a realistic-
+looking joining strip. The strip of tissue was cut across the
+grain, by the way, which allows it to conform to the curve of
+the windshield-cowl intersection without buckling.
+
+On Hobbypoxy: I know exactly why Hobbypoxy paints 
+disappeared, because Pettit asked for my input before they 
+decided to discontinue that product line.
+
+Hobbypoxy paints were a spin-off from Pettit's "Polypoxy" brand
+of two-part epoxy marine topside paints. (Hobbypoxy 
+represented only about 2 percent of Pettit's business volume!):
+
+About 14 years ago the EPA began cracking down on VOC 
+emissions, which would put an end to two-part epoxy paints as 
+we knew them. Since the two-part epoxy topside paints for boats 
+were very high-end, and didn't have nearly the sales volume as 
+the lower-cost Pettit paints, they decided to discontinue that line
+of finishes rather than go through the R&D to reformulate.
+
+And so Hobbypoxy paints disappeared too. Actually, the timing
+wasn't all that bad, because with the hobby going more to shrink-
+film coverings and ARFs, paint sales were falling off anyway.
+
+(K&B's supplier did reformulate their paints, but I don't know if
+they're still around.)
+
+Another factor was the EPA ban on lead, which killed Hobbypoxy's
+particular reds and yellows.
+
+All in all, for a loss of less than 2% of their business, Pettit
+decided (and I concurred) it was wiser to discontinue Hobbypoxy
+paints than to try to reformulate for a shrinking market. They
+did continue to market epoxy glues, but I don't know if they
+still do. I have so much Hobbypoxy glue in my shop, I'll
+probably never have to buy any more.
+
+To sum up: environmental regulations put an end to the
+availability of Hobbypoxy paints. Don
+
+Roger Soliday < > announces:
+
+I have a lot of small glow engines I am parting with. They are
+all new in box except for a few, and I thought that SMALLsters
+might be interested in them. Email me for a list and prices.
+
+Thanks, Roger
+
+Harry Stewart < > reports:
+
+Last year Flying Models published my Mini-7 park/slow flyer
+design in the November 2001 issue. The Mini-7 is designed 
+around the micro motors and radio equipment like that used in 
+the Lite Stick type models.
+
+ Source: Kits, Mini-7 
+
+Since then, Brian Malin of BMJR Models has put together an
+absolutely super laser-cut kit of the Mini-7 that will be
+available shortly.
+
+I've assembled a couple of the prototype kits and they really go
+together quickly and accurately. If you are looking for a light,
+easy-to-fly, really easy-to-build slow flyer for the park down
+the street, or the schoolyard in the evening -- or even indoors
+if you've got a spot: Check out < http://www.bmjrmodels.com >.
+
+The Mini-7 is under Park Flyers, kit # B-305 -- but take a look
+at all of their kits. There are a lot there for SMALL flyers.
+
+Harry Stewart
+
+Donevan Myers < > submitted:
+
+JW's comments on "tapering longerons" prodded me to pass along 
+a similar modification to "add lightness" and put the "beef" where
+it is needed. A couple of seasons ago I built an early sixties'
+1/2A FF design by Woody Blanchard, called DUZIT.
+
+That incorporated a banana-shaped fuselage (in side view), but
+was built of conventional bulkheads, corner longerons, and
+sheeted sides, top, & bottom.
+
+Planning to power my version with a P.A.W. .8 cc diesel rather 
+than a lighter weight glow engine, I looked at ways to save weight
+without sacrificing strength, and decided that triangular section
+stock could replace the square section longerons.
+
+With fuselage side sheets cut to shape, the triangle longerons
+(top and bottom) were pinned in place, and Voila! Before 
+cementing, I realized that by letting the longeron overhang the 
+outline, I could, after cementing, go to the disk sander and grind 
+off the excess; obtaining gradually-tapered longerons from front
+to tail, where less strength would be required.
+
+The bonus of course was that the tapering occurred in PLANview
+also! Bulkheads were cut as rectangles, and "bumped" against the
+disk sander with the miter gage set at 45 degrees to custom-fit
+the bulkheads.
+
+As with the original design, the fuselage corners were sanded
+off to produce the required oval cross section. All in all this
+was a fun exercise in pseudo-engineering, and weight-saving.
+
+Don Myers
+
+Mac < > inquires:
+
+I am retired military in central Florida. Since getting back into
+the hobby, I have become interested in diesels. I have had a 
+hard time finding any diesel enthusiasts, local sources for model
+diesel fuel, or model diesel fuel components here.
+
+I'd like to hear from any diesel guys in the Orlando area. Mac
+
+...Mac, in one of my recent Engine Shop columns in Model 
+Aviation I described a simple and effective system for making 
+diesel fuel at home, from Wal Mart ingredients.
+
+Here is an updated version. (Dennis Hansen tried doing this 
+and it worked as nicely for him as it did for me.)
+
+Buy castor oil from Sig; aviation-grade kerosene from your local
+airport; and John Deere Starting Fluid from your local John 
+Deere dealer. If you want, you can get hexyl nitrate "ignition
+improver" from Eric Clutton -- but that's not really necessary.
+Check Eric's web site: < http://www.cafes.net/doctordiesel >.
+
+Now obtain a heavy-wall glass jar with a steel screw-on lid and
+straight sides. (I used a Chi-Chi's Salsa jar.) This will become 
+both a mixing container and a fueling supply for your engine.
+
+The screw-on top needs to be modified. Buy a length of 5/32"
+diameter K&S brass tubing from your hobby shop and cut off &
+deburr two pieces about 3/4" long. Buy a couple of 10-32 brass
+hex nuts from the hardware store and drill those out 5/32", 
+to provide a nice snug push fit onto the brass tubes.
+
+Now comes the tricky part. Using an awl or an ice pick, care-
+fully punch a pair of holes in the steel jar cap, directly across
+from each other and as close to the rim as you can manage --
+without harming the integral "sealing gasket" inside the cap.
+
+The idea is to install the two brass tubes so that they will work
+like the holes you punch in a can of evaporated milk or tomato
+juice: one is to act as a "pouring source" while the other serves
+as a vent.
+
+The punched holes should provide a firm press fit for the brass
+tubes, so start small and CAREFULLY work the holes bigger, 
+a bit at a time. After the tubes fit snugly and firmly in place,
+remove them and sand away the paint on the TOP side around 
+each hole. This is to provide a clean surface for soldering the 
+tubes and brass nuts. (The nuts act as mechanical reinforcements 
+and prevent the tubes from working loose in service.)
+
+Clean all the metal areas to be soldered. I use acetone for this,
+but lacquer thinner works well too. Soldering is MUCH easier to
+do with sparkling clean base metal!
+
+Using at least a 200-watt soldering gun (with a shiny clean tip!),
+resin flux, and electronic grade solder, "tin" the bare metal areas
+on the jar cap; then assemble one tube and nut at a time and solder
+in place into the cap holes. I like to build up a fillet of solder
+all around the junctures. That assures a strong, leakproof joint.
+
+The purpose of all this is to provide a container for your diesel
+fuel that never needs to be opened in use! That eliminates the
+major problem with model diesel fuel: evaporation of the ether.
+
+When not in use, the brass tubes in the "diesel jar cap" are
+connected together with a length of Tygon or Neoprene tubing.
+
+For fueling, pull one end of the Tygon tubing off the brass tube,
+and use that to fuel your engine. Let gravity do the work:
+no pumps are needed...
+
+Now for mixing the fuel! I use a strip of white file folder
+label tape stuck onto the side of the jar as a gage. This is
+marked off at two measured places to provide my own favorite
+diesel fuel blend: 30% of the straight-sided jar height up from
+the bottom for the Sig castor oil; another 30% above that mark
+for the aviation kerosene. The remaining space is for the
+John Deere Starting Fluid.
+
+It's OK to remove the jar cap for adding the oil and kerosene,
+but put it back on firmly -- maybe using plumber's Teflon tape
+around the outside of the jar neck for extra sealing insurance --
+and then spray the Starting Fluid in through one of the brass
+tubes. (That avoids excessive ether loss.)
+
+You can adapt a length of metal tubing to the Starting Fluid
+nozzle (something like what a can of WD-40 comes with but 
+bigger) to allow easy injection of the starting fluid into the jar.
+
+If you do decide to use hexyl nitrate "ignition improver",
+remember that too much is worse than none at all. For a 
+16-fluid-ounce (one pint) jar, the MAXIMUM amount of hexyl 
+nitrate to use is ONE THIRD of a fluid ounce, or 9.4 cc. [JW]
+
+John Van Buuren < > wrote:
+
+I am looking for alternatives for diesel tanks. As the Australian
+manufacturer of control line tanks has stopped making them, the
+only commercial option seems to be forking out for a Sullivan or
+Dubro tank, and then again for the diesel/gas conversion kit.
+
+I could make a tin-plate or brass tank, but I'm wondering if there
+are other ways. One idea could be plastic photographic film
+canisters -- but what do I use to retain the tubes in the lid?
+Any other ideas?
+
+As an aside, my current project is an Airsail (New Zealand) kit of
+a Heron Gas Buggy which appeared in a 1939 Flying Aces magazine.
+Wingspan is 48", and I'll fit it with a 2cc Taipan Tyro diesel,
+2 micro servos, and smallish receiver. The kit is a bit of fun.
+It contains a copy of the original Flying Aces construction
+article written with all the enthusiasm for flying models that
+was prevalent at the time.
+
+I really enjoy the SMALLnet posts when they arrive. Thanks for
+running a great forum. John Van Buuren Canberra, Australia
+
+...John, the best way I know of using 35 mm film canisters for
+diesel fuel tanks is to install small-diameter plastic tubing
+through carefully hand-drilled holes in the canister BODY, not
+the lid. (The lid plastic isn't as durable as that of the body.)
+
+Vinyl tubing works OK for this. The easiest way to install
+that is to drill slightly undersize holes in the canister wall,
+then cut a long taper on an overlength plastic tube. Working 
+with the materials under hot water, the tube can be pulled 
+slowly through the hole. After that it relaxes, expands, and 
+seals itself into place. [JW]
+
+Dave Campbell < > admires Randy 
+Randolph's designs:
+
+I've never met Randy, but he's already one of my heroes! 
+My first venture into this hobby was after seeing his gorgeous 
+1/2A BeeTween in Model Airplane News about 10 years ago.
+
+I had purchased an O.S. .10FP as my first motor prior to seeing 
+the plans for the BeeTween, so I scaled it up 12-1/2%. Dad loaned 
+me his Ace Bantam Midget servos, and the smallest receiver he had --
+and off to the bench I went while Dad went out to dinner with my
+Stepmother.
+
+When he got back the wing was framed up and mostly sanded, and 
+I had started cutting the fuselage parts already. This was quite a
+shock for my dad, as he'd been flying R/C for about 20 years and
+had never seen an airframe go together so fast.
+
+That wasn't because I was setting the building board on fire, but
+because he'd never used CA glue before! Needless to say, Dad
+builds a whole lot faster now, and the Ambroids and wood glue
+are getting stale in their tubes...
+
+The BeeTween took me about a week to get ready for flight.
+The time was good bonding for my "new" Dad and I, as I'd been
+separated from him since I was a little boy. Once my enlarged
+BeeTween was finished, at the field Dad helped me with the
+needle adjustment, and hand-launched the model for me.
+
+To my surprise, it flew right out rather than go down in flames
+or explode with 'all that power' on the front of it. I had three
+great laps around the field with the BeeTween with my Dad 
+cheering me on. Then, getting disoriented, I did a figure "9" and 
+that was the last of the fuselage.
+
+I was impressed enough by that minute of success that I went into
+SMALL R/C with both feet. I built (and crashed) 13 airplanes 
+that year as I taught myself to fly. As you guessed, a natural-born
+flyer I was not. Over the next ten years I built a bunch of
+different types of aircraft, but still go back to SMALL airplanes.
+
+Few things look as 'right' in modeling to me as a box-fuselage
+airplane with a hot 1/2A on its nose.
+
+All the time I spent on airplanes in my young adult years were a
+blessing. They kept me out of trouble and my money out of bars
+while all my friends and co-workers went their own way. These 
+days I fly high-performance 1/2A and electric pylon racers.
+
+Modeling has had seen me travel cross country for meets and
+contests; in fact I'm getting ready for the 1/2A Electric (Speed
+400 class) Pylon NATs in Indiana this week as I type.
+
+I've come a long way and met a lot of good people since I was
+first mesmerized by the images of the BeeTween in that magazine,
+and I have Randy to thank for it.
+
+Hats off to you, Randy! Dave Campbell
+
+Ken Knowles < > recommends:
+
+Two good web sites:
+
+ Source: Plans, Old-time Rubber 
+
+< http://www.ualberta.ca/~khorne/ > for old-time rubber
+plans and great stories from the past; and
+
+ Source: Plans, Earl Stahl designs 
+
+ for lots of downloadable
+Earl Stahl rubber-powered flying scale plans.
+
+Ken Knowles, Nanaimo, British Columbia
+
+Joe Papasso < > asks:
+
+Does anyone have information on the following R/C system:
+4-channel FM ACOMS, Model AP472FM, 72.550MHZ, Digital
+Proportional Radio Control System. Operating Voltage 12/9.6,IC
+Endcoding System, FCC ID. BTQ9P7AP472FM, ASHI 
+Communication. Joe Papasso
+
+Curt Hulett < > inquires:
+
+A special on TV about the Ryan STA prompted my interest in
+building a "small" version. Has anyone built a SMALL size
+(.15-powered) Ryan ST ? Where would one find plans? Curt
+
+Tim Hamel < > contributed:
+
+I have read cautions about improper use of lithium batteries that
+kept me from using them until now. Has any one else done this 
+and had problems? "Exploding cells" ?, Fires while charging? etc. ?
+Despite all the warnings I have yet to find a problem.
+
+I have been flying Lite Sticks and Speed 280's with lithium
+batteries for the last few months. I use a $4.00 2-cell
+800 mAh Qualcom cellular telephone pack (only 54 grams) 
+and a $6.00 2-cell 1200 Qualcoms (84 grams) surplus pack in
+my 280's. Although the nominal voltage is 7.2 volts, they
+come off the charger at nearly 8.4 volts, and fly my planes
+more like a 7-cell pack if the load is not too great.
+
+Besides long flying times, these packs are cheap to make and 
+weigh less than the batteries they replaced.
+
+They come with a tiny protection circuit board that protects the
+battery from improper charging or over discharging. However,
+the board will cut off the batteries at 1.6 amps for the 800's
+and less than 3 amps on the 1200's.
+
+I found this unacceptable. So despite the warnings about ruptured
+and destroyed cells, I cut of the boards and re-soldered the cells.
+
+I have routinely run the 800s at 2 -- 2.5 amps, and the 1200s
+at 4 amps. After more than 10 LONG flights with each 800 and
+1200 pack, I have yet to see a problem. I ran both my old test
+batteries on an Astro Flite Whatt Meter, and they perform better
+(more amps) and with no loss of capacity, compared to unused
+packs.
+
+I still charge my packs in a water bucket just in case the
+"warnings" have any basis in truth. You must us a special
+lithium charger that limits voltage to 4.2 volts per cell.
+
+(This is not an endorsement for you to do the same; use only
+RECHARGEABLE Lithium Ion or Polymer cells. Also, you 
+may be killed by exploding packs and your house will certainly
+burn down if you modify these packs, but aren't those long
+flight times worth it?)
+
+Tim Hamel
+
+...Tim, do I understand you correctly: that you charge your
+lithium battery packs submerged in water? [JW]
+
+Larry Dodd < > wrote:
+
+I must first say that I thoroughly enjoy JW's articles in the
+magazines, and my first successful flying airplane was a Veco
+Taylor Cub (designed by JW) powered with an Atwood 
+Cadet .049. It flew quite well, but due to a number of coats 
+of colored dope, it didn't stray far.
+
+I have a question concerning alternate power for some old kits.
+I would like to know what e-power would be correct for these
+older designs (of which I happen to have kits on hand).
+
+The Sky Knight, designed by J. Zarembowski and Electric Model
+Design (Toledo, Ohio). It was distributed by Midway Model Co.
+Specifications are: span 44", Area 330 square ", recommended
+power was an 05 electric and 6-7 cell 800-1200 pack. Design
+weight was 15 ounces. What is this in terms of a Speed xx motor,
+and NiMH cells? Also the original was direct drive; should we
+now use a geared motor?
+
+Another tricky one is the Craft-Air "Piece of Cake". Wingspan
+is 72" and area is a whopping 573 square ". Weight with an
+.049 is 24 ounces and the airfoil is 12% flat bottom.
+
+Way back we had the Astro 05 etc., but now it is Speed 400,
+600, etc. and I have no idea how to relate them.
+
+Larry Dodd, Elgin, Illinois
+
+< > requests:
+
+I have enlarged the Piper Pawnee Brave plan by Earl Stahl from
+the January 1997 Model Aviation, from 30" to 45" span.
+I would appreciate suggestions for converting to electric
+free flight.
+
+...To save calculations by our e-power mavens, the full-size
+Pawnee Brave (a "duster" design briefly made by Piper in the
+1980's) had a span of 39 feet and a wing area of 225 square ft.
+That would give the 45" span model a gross wing area of 300
+square inches. [JW]
+
+Larry Renger < > submitted:
+
+My experience with getting colored transparent finishes uses
+Higgins Fade Proof inks. They can be diluted in alcohol for
+dyeing wood, and probably Silkspan, and put in dope to give a
+simply glowing, transparent finish.
+
+I haven't tried it on Silkspan; but on my baby Magician control-
+liner, I dyed the wood with the ink-alcohol mix, then put dye in
+the dope too, and the effect was WOW!
+
+On another model, I covered with orange silk, but then put a
+mix of yellow and red ink in my clear dope, and ended up with
+a really exceptional transparent finish. These were both base
+dope finishes of Aerodyne Nitrate Dope.
+
+However, beware! Check out compatibility. I put some of the dye
+in Sig Butyrate, and it went white on me ("blushed" is the usual
+term). Couldn't fix it with brushed retarder or thinner, the
+usual fixes. The stuff also pulled away from every possible
+corner. Not a happy experience!
+
+My preferred finish is Nitrate dope from clear through color,
+then a single coat of Epoxy clear over that for fuel proofing
+and gloss. Hobbypoxy and old K&B were preferred, but I am
+finding that the furniture layering epoxy seems to work about
+the same. Cheers, Larry
+
+Chuck Swiger < > reports:
+
+Here's the final report on my "Littlest Stick" experiment,
+it's now a nice flying and loads of fun plane.
+
+Built per the original plans with 5-6 degrees of wing incidence
+it performed about like my brief 1985 one: when balanced OK 
+for powered flight, it dives steeply into the thicket during the
+glide phase. I went ahead and ground the wing saddle down
+to 2-3 degrees per the updated CAD drawings and, what the 
+heck, put in a simple lightweight elevator and servo.
+
+With the extra servo load I upgraded the battery from a small
+60 mAh to 270 mAh. With that arrangement the battery has
+to fit right under the wing, and the tiny GWS radio goes in
+the front compartment with a small sinker for balance.
+
+With it balancing right on the wing spar just as flat as on the
+table, and the original engine down- and right-thrust, it flies
+straight out of my hand toss, dips a bit to pick up speed; then
+up up and away for a good three minutes of feisty excitement,
+then smooth glide back to short cut grass (I never added the
+landing gear). Chuck
+
+John Meacham < > agrees with comments 
+in the previous Posting that model airplane BUILDING is as 
+enjoyable as flying:
+
+Right ON! I think I have more fun building stick and tissue than
+flying them. Build them, fly enough to see that they do fly, then
+hang them up for viewing.
+
+I used to get "Modelcraft" kits from Helms Bakery: save enough
+bread wrappers and trade them for a kit. The local hardware store
+carried Megow kits and some Cleveland. (Also a great supplier of
+plans.)
+
+Nothing beats a long slow flight with the sun shining through
+a stick-and-tissue wing, but I'm living out here in southern
+California's Antelope Valley (the wind tunnel of the west).
+Even the space shuttle lands backwards here when the winds
+come up.
+
+For me, model flying is only an early morning activity.
+
+John Meacham (Lover of all sizes of the old Modelcraft
+"Pacific Ace": not a contest plane, but a consistent flyer.)
+
+...Bill Hannan (Hannan's Runway: < http://www.hrunway.com/ >)
+has just issued another in his series of thin but lovingly-
+composed books. This one's "Model Builders (International)
+and Their Models".
+
+Packed with photos and biographical data, this is more in the
+order of a "coffee table" book than one to build models from.
+(Though there's a few intriguing model plan pages included,
+such as the 1913 Borel 2-seat Hydro -- a clean-looking French
+monoplane designed for Schneider Trophy racing.)
+
+The information about model builders was fascinating to me:
+about Bill himself (and his charming, talented wife Joan);
+the Williams brothers (noted these days mostly for the line
+of plastic components for scale models, such as dummy engines,
+wheels, and WW1 machine guns; but exceedingly talented model
+builders and flyers); and Ray Malmstrom -- the "elderly youth"
+whose offbeat but simple and oddly attractive creations
+graced the pages of the British Aeromodeller magazine for
+decades. (Ray advocated the "3 F's of Aero Modeling: Flying,
+Friendship, and Fun.") [JW]
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

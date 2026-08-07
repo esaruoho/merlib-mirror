@@ -1,0 +1,814 @@
+---
+title: "Pull 56 -- Leavenworth Ice Fest - Day 2"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0001/Pull56.html
+order: 7318
+reachable_from_entry: false
+images: 0
+internal_links: 4
+extracted: 2026-08-07T05:59:56Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 56 -- Leavenworth Ice Fest - Day 2
+
+*Source page: `~samoyed/iwpa/0001/Pull56.html`*
+
+Leavenworth Ice Fest - Day 2\
+Leavenworth, Washington
+=============================
+
+Pull: 56
+
+Organizer(s):Jeff Parsons
+
+Snow Region: 2
+
+Snow
+
+Track:Icy & sticky both days
+
+Date:1/14/01
+
+Weather:
+
+Sunny & partly cloudy - 30F to 35F
+
+35 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Eddie
+
+3
+
+260
+
+7.30
+
+33
+
+7.88
+
+6.0
+
+Scott Smith
+
+Schipperke
+
+Harry Potter
+
+3
+
+No Pull
+
+10
+
+.
+
+0.0
+
+Scott Smith
+
+Schipperke
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Red Ace
+
+2
+
+230
+
+3.85
+
+58
+
+3.97
+
+10.0
+
+Anthony Wines
+
+Am. PitBull Terrier
+
+Poe
+
+3
+
+150
+
+8.60
+
+52
+
+2.88
+
+7.0
+
+Ingrid Rosenquist
+
+Australian Cattle Dog
+
+Tango
+
+2
+
+70
+
+2.70
+
+57
+
+1.23
+
+4.0
+
+Michelle Wines
+
+Am. PitBull Terrier
+
+Todd
+
+2
+
+70
+
+14.85
+
+47
+
+1.49
+
+2.0
+
+Robert Reeff
+
+Springer Spaniel
+
+Kianna
+
+P
+
+No Pull
+
+52
+
+.
+
+.
+
+Romona Locke
+
+Alaskan Husky
+
+Chopper
+
+P
+
+No Pull
+
+54
+
+.
+
+.
+
+Cindy Maryoel
+
+Siberian Husky
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Aky
+
+3
+
+550
+
+7.08
+
+71
+
+7.75
+
+11.0
+
+Teressa Keenan
+
+German Shepherd
+
+Nuka Tu
+
+2
+
+550
+
+9.99
+
+74
+
+7.43
+
+8.0
+
+Bob Daymude
+
+Alaskan Malamute
+
+Timber
+
+2
+
+390
+
+4.25
+
+73
+
+5.34
+
+5.0
+
+Judith McCauley
+
+Siberian Husky
+
+Kady
+
+2
+
+150
+
+10.34
+
+80
+
+1.88
+
+3.0
+
+Jaci Rodgers
+
+Labrador Retriever
+
+Mica
+
+2
+
+No Pull
+
+66
+
+.
+
+0.0
+
+Robert Reeff
+
+Alaskan Malamute
+
+Wylie
+
+2
+
+No Pull
+
+62
+
+.
+
+0.0
+
+Pamela Reeff
+
+Rottweiler
+
+Woof
+
+2
+
+No Pull
+
+68
+
+.
+
+0.0
+
+Robin O'Hearn
+
+Alaskan Malamute
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Ranger
+
+2
+
+470
+
+6.80
+
+85
+
+5.53
+
+7.0
+
+Robert Reeff
+
+Alaskan Malamute
+
+Jazz
+
+2
+
+470
+
+6.93
+
+92
+
+5.11
+
+4.0
+
+Ryan Wood
+
+Alaskan Malamute
+
+Charlie
+
+2
+
+310
+
+6.21
+
+94
+
+3.30
+
+1.0
+
+Donna Daymude
+
+Alaskan Malamute
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Lakota
+
+2
+
+890
+
+6.96
+
+119
+
+7.48
+
+12.0
+
+Ryan Wood
+
+Alaskan Malamute
+
+Koluk
+
+2
+
+710
+
+12.20
+
+111
+
+6.40
+
+9.0
+
+Devin Crouch
+
+Alaskan Malamute
+
+Bandit
+
+2
+
+710
+
+27.59
+
+115
+
+6.17
+
+6.0
+
+Jack Scofield
+
+Alaskan Malamute
+
+Avalanche
+
+2
+
+550
+
+18.78
+
+112
+
+4.91
+
+4.0
+
+George Ferrari
+
+Alaskan Malamute
+
+Dakota
+
+2
+
+230
+
+9.38
+
+118
+
+1.95
+
+3.0
+
+Aviva Beach
+
+Alaskan Malamute
+
+Coqueta
+
+2
+
+230
+
+58.18
+
+107
+
+2.15
+
+2.0
+
+Salvador Bibian
+
+Alaskan Malamute
+
+Sunshine
+
+2
+
+150
+
+13.50
+
+103
+
+1.46
+
+1.0
+
+Kathy Wolff
+
+Golden Labrador Retriever
+
+Yukia
+
+2
+
+No Pull
+
+106
+
+.
+
+0.0
+
+Anita Bibian
+
+Alaskan Malamute
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Hennessy
+
+2
+
+1030
+
+13.88
+
+130
+
+7.92
+
+15.0
+
+Raymond Slish
+
+Saint Bernard
+
+Iceman
+
+2
+
+910
+
+6.78
+
+163
+
+5.58
+
+12.0
+
+Toni Beninger
+
+Saint Bernard
+
+Chunka
+
+2
+
+790
+
+14.59
+
+168
+
+4.70
+
+9.0
+
+Nathan Sellers
+
+Alaskan Malamute
+
+Rebel
+
+2
+
+550
+
+4.34
+
+142
+
+3.87
+
+7.0
+
+Ryan Wood
+
+Alaskan Malamute
+
+Storm
+
+2
+
+550
+
+7.09
+
+132
+
+4.17
+
+6.0
+
+Tim Broere
+
+Alaskan Malamute
+
+Barry
+
+2
+
+550
+
+16.75
+
+172
+
+3.20
+
+5.0
+
+Raymond Slish
+
+Saint Bernard
+
+Kiska
+
+2
+
+430
+
+5.10
+
+150
+
+2.87
+
+4.0
+
+James Charles
+
+Alaskan Malamute
+
+Lewis
+
+2
+
+430
+
+16.71
+
+180
+
+2.39
+
+3.0
+
+Ron Rodgers
+
+Newfoundland
+
+Tug
+
+2
+
+430
+
+50.63
+
+133
+
+3.23
+
+2.0
+
+Lissi Dunsdon
+
+Alaskan Malamute
+
+Big Thunder
+
+2
+
+310
+
+9.00
+
+132
+
+2.35
+
+1.0
+
+George Ferrari
+
+Alaskan Malamute
+
+Tacoma
+
+10
+
+310
+
+16.74
+
+126
+
+2.46
+
+0.5
+
+James Galli
+
+Alaskan Malamute
+
+Last Updated: 02:36:25 on 02-27-2001
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull55.html) | [Next Pull \#](Pull57.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

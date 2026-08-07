@@ -1,0 +1,402 @@
+Unicode character entities: Greek Small Letters 
+
+ Unicode character entities: 
+ Greek Small Letters 
+ Character Ranges 
+
+ Unicode Index 
+ ISO 8859-1 Index 
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ = Index DOT Html 
+ by Brian Wilson 
+ = 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 
+
+ Main Index |
+ Element Tree |
+ Element Index |
+ HTML Support History 
+
+ Character 
+ &#160;&#160; 
+ Numbered Entity 
+ &#160;&#160; 
+ Named Entity 
+
+ Unicode Position 
+ Description 
+
+ Entity Number 
+ HTML Result 
+ Standards/Browser Support 
+
+ Entity Name 
+ HTML Result 
+ Standards/Browser Support 
+
+ 03B1 
+ Greek small letter alpha 
+ &#945; &#945; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &alpha; &alpha; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03B2 
+ Greek small letter beta 
+ &#946; &#946; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &beta; &beta; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03B3 
+ Greek small letter gamma 
+ &#947; &#947; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &gamma; &gamma; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03B4 
+ Greek small letter delta 
+ &#948; &#948; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &delta; &delta; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03B5 
+ Greek small letter epsilon 
+ &#949; &#949; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &epsilon; &epsilon; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03B6 
+ Greek small letter zeta 
+ &#950; &#950; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &zeta; &zeta; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03B7 
+ Greek small letter eta 
+ &#951; &#951; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &eta; &eta; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03B8 
+ Greek small letter theta 
+ &#952; &#952; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &theta; &theta; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03B9 
+ Greek small letter iota 
+ &#953; &#953; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &iota; &iota; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03BA 
+ Greek small letter kappa 
+ &#954; &#954; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &kappa; &kappa; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03BB 
+ Greek small letter lambda 
+ &#955; &#955; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &lambda; &lambda; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03BC 
+ Greek small letter mu 
+ &#956; &#956; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &mu; &mu; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03BD 
+ Greek small letter nu 
+ &#957; &#957; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &nu; &nu; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03BE 
+ Greek small letter xi 
+ &#958; &#958; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &xi; &xi; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03BF 
+ Greek small letter omicron 
+ &#959; &#959; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &omicron; &omicron; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03C0 
+ Greek small letter pi 
+ &#960; &#960; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &pi; &pi; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03C1 
+ Greek small letter rho 
+ &#961; &#961; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &rho; &rho; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03C2 
+ Greek small letter final sigma 
+ &#962; &#962; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &sigmaf; &sigmaf; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03C3 
+ Greek small letter sigma 
+ &#963; &#963; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &sigma; &sigma; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03C4 
+ Greek small letter tau 
+ &#964; &#964; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &tau; &tau; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03C5 
+ Greek small letter upsilon 
+ &#965; &#965; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &upsilon; &upsilon; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03C6 
+ Greek small letter phi 
+ &#966; &#966; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &phi; &phi; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03C7 
+ Greek small letter chi 
+ &#967; &#967; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &chi; &chi; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03C8 
+ Greek small letter psi 
+ &#968; &#968; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &psi; &psi; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03C9 
+ Greek small letter omega 
+ &#969; &#969; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &omega; &omega; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03D1 
+ Greek small letter theta symbol 
+ &#977; &#977; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &theta; &theta; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03D2 
+ Greek upsilon with hook symbol 
+ &#978; &#978; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &upsih; &upsih; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ 03D6 
+ Greek pi symbol 
+ &#982; &#982; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] 
+ &piv; &piv; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] 
+
+ Boring Copyright Stuff...

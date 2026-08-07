@@ -6,7 +6,7 @@ order: 311
 reachable_from_entry: true
 images: 4
 internal_links: 24
-extracted: 2026-08-03T18:11:46Z
+extracted: 2026-08-07T05:53:19Z
 extractor: site_to_paper.py (pandoc)
 ---
 
@@ -30,13 +30,13 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td><a href="http://amasci.com/">SCIENCE HOBBYIST</a>  |<br />
+<td><a href="/">SCIENCE HOBBYIST</a>  |<br />
 </td>
-<td><a href="http://amasci.com/unew.html">GOOD STUFF</a>  |<br />
+<td><a href="/unew.html">GOOD STUFF</a>  |<br />
 </td>
-<td><a href="http://amasci.com/news.html">NEW STUFF</a>  |<br />
+<td><a href="/news.html">NEW STUFF</a>  |<br />
 </td>
-<td><a href="http://amasci.com/search.html">SEARCH</a><br />
+<td><a href="/search.html">SEARCH</a><br />
 </td>
 </tr>
 </tbody>
@@ -51,13 +51,16 @@ extractor: site_to_paper.py (pandoc)
 
 <table data-summary="format two columns" width="100%">
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: left;" width="18" data-valign="top" data-summary="google ad"></td>
+<td style="text-align: left;" width="180" data-valign="top" data-summary="google ad"><pre><code></code></pre>
+<pre><code></code></pre></td>
+<td width="15"> </td>
 <td data-valign="top" data-summary="main text content" width="800"><h1 id="capacitor-bank-discharge-experiments-w-dale-travous-capacitor-bank-seattle.-61594-william-beaty">CAPACITOR-BANK<br />
 DISCHARGE EXPERIMENTS<br />
 w/ Dale Travous' capacitor bank, Seattle.<br />
@@ -88,18 +91,18 @@ about my capacitor discharge experiments below.</code></pre>
 <hr />
 <h3 id="my-other-high-voltage-projects">My Other High-voltage Projects</h3>
 <ul>
-<li><em><a href="http://amasci.com/emotor/mestat.html">My history as an HV kid</a></em></li>
-<li><a href="http://amasci.com/emotor/negion.html">Safe HV source: negative ionizer</a></li>
-<li><a href="http://amasci.com/emotor/vdgtame.html">HV Voltage-regulator</a> for your <a href="http://amasci.com/emotor/vdg.html">VandeGraaff Generator</a></li>
-<li><a href="http://amasci.com/tesla/heli1.html">One-atmosphere Plasma Globe</a> and <a href="http://amasci.com/tesla/plasplan.html">others</a></li>
-<li><a href="http://amasci.com/emotor/duluc.html">Duluc's 'Dry Pile'</a></li>
-<li><a href="http://amasci.com/emotor/kelvin.html">Kelvin's Thunderstorm</a></li>
-<li><a href="http://amasci.com/emotor/emotor.html">Soda-bottle Voltage Motor</a></li>
-<li><a href="http://amasci.com/weird/unusual/airthred.html">"Air Threads" electrostatic phenomenon</a></li>
-<li><a href="http://amasci.com/freenrg/iontest.html">Weird air-ion experiments</a></li>
-<li><a href="http://amasci.com/weird/microexp.html">Kitchen HV: microwave ovens</a></li>
-<li><a href="http://amasci.com/tesla/diode.html">HV Diodes &amp; wire</a> for <a href="http://amasci.com/tesla/tesla.html">Tesla Coils</a></li>
-<li><a href="http://amasci.com/tesla/microtc.html">Tiny $5 Tesla Coil</a></li>
+<li><em><a href="/emotor/mestat.html">My history as an HV kid</a></em></li>
+<li><a href="/emotor/negion.html">Safe HV source: negative ionizer</a></li>
+<li><a href="/emotor/vdgtame.html">HV Voltage-regulator</a> for your <a href="/emotor/vdg.html">VandeGraaff Generator</a></li>
+<li><a href="/tesla/heli1.html">One-atmosphere Plasma Globe</a> and <a href="/tesla/plasplan.html">others</a></li>
+<li><a href="/emotor/duluc.html">Duluc's 'Dry Pile'</a></li>
+<li><a href="/emotor/kelvin.html">Kelvin's Thunderstorm</a></li>
+<li><a href="/emotor/emotor.html">Soda-bottle Voltage Motor</a></li>
+<li><a href="/weird/unusual/airthred.html">"Air Threads" electrostatic phenomenon</a></li>
+<li><a href="/freenrg/iontest.html">Weird air-ion experiments</a></li>
+<li><a href="/weird/microexp.html">Kitchen HV: microwave ovens</a></li>
+<li><a href="/tesla/diode.html">HV Diodes &amp; wire</a> for <a href="/tesla/tesla.html">Tesla Coils</a></li>
+<li><a href="/tesla/microtc.html">Tiny $5 Tesla Coil</a></li>
 </ul>
 <h3 id="links-other-cap-discharge-sites">LINKS: Other Cap-Discharge sites</h3>
 <ul>
@@ -111,8 +114,8 @@ about my capacitor discharge experiments below.</code></pre>
 <li><a href="http://members.tripod.com/extreme_skier/tesla/" rel="nofollow">T. Stewart</a> can crusher, railgun</li>
 <li><a href="http://www.powerlabs.org/capexperiments.htm" rel="nofollow">Sam Barros'</a> Powerlabs</li>
 <li><a href="http://hibp.ecse.rpi.edu/Can_Crusher/home.html" rel="nofollow">EM pulse Can Crusher</a> at RPI Plasma Dyn. Lab</li>
-<li><a href="http://amasci.com/amateur/capacitron.html">The Brasch Capacitron</a> 1950s, enormous</li>
-<li><a href="http://amasci.com/amateur/steril.txt">Sterilization by cap discharge?!</a></li>
+<li><a href="/amateur/capacitron.html">The Brasch Capacitron</a> 1950s, enormous</li>
+<li><a href="/amateur/steril.txt">Sterilization by cap discharge?!</a></li>
 </ul>
 <span id="shrink"></span>
 <hr />
@@ -120,8 +123,8 @@ about my capacitor discharge experiments below.</code></pre>
 &#10;<h2 id="the-watergun">THE "WATERGUN"</h2>
 by Bill Beaty, experiment by Chris P., Gary H., Dan Y. and<br />
 Dale Travous in ?1991? Water cannon built by Chris P.
-<p>The capacitor discharge gun was a 6" cylinder of mild steel, 2" diameter with a 1/2" hole bored most of the way through axially. At the base, two holes were bored in from the sides and threaded to take standard sparkplugs. The gun was fired at potentials ranging up to 40,000 Volts supplied Gary H's bank of six 3uF, 150,000-volt capacitors (about 1/2 cubic yard in size!) using 1-1/2" x 1/2" copper busbar as conductors. The switching gap was an aluminum slab with a moving small sphere and short length of metal rod inserted using air pressure. The charging supply was Gary's DC HV unit from an old X-ray machine. Later versions used a 50,000V neon sign transformer and strings of the <a href="http://amasci.com/tesla/diode.html">high voltage diodes</a> sold as replacement parts for microwave oven repair. About one cm^3 of water was placed in the gun, and a steel ballbearing was initially used as the projectile.</p>
-<img src="http://amasci.com/graphics/qshrnk2.jpg" data-align="left" rel="nofollow" width="256" height="238" /> <img src="http://amasci.com/graphics/qshrnk.jpg" data-align="right" rel="nofollow" width="261" height="237" /><br />
+<p>The capacitor discharge gun was a 6" cylinder of mild steel, 2" diameter with a 1/2" hole bored most of the way through axially. At the base, two holes were bored in from the sides and threaded to take standard sparkplugs. The gun was fired at potentials ranging up to 40,000 Volts supplied Gary H's bank of six 3uF, 150,000-volt capacitors (about 1/2 cubic yard in size!) using 1-1/2" x 1/2" copper busbar as conductors. The switching gap was an aluminum slab with a moving small sphere and short length of metal rod inserted using air pressure. The charging supply was Gary's DC HV unit from an old X-ray machine. Later versions used a 50,000V neon sign transformer and strings of the <a href="/tesla/diode.html">high voltage diodes</a> sold as replacement parts for microwave oven repair. About one cm^3 of water was placed in the gun, and a steel ballbearing was initially used as the projectile.</p>
+<img src="/graphics/qshrnk2.jpg" data-align="left" rel="nofollow" width="256" height="238" /> <img src="/graphics/qshrnk.jpg" data-align="right" rel="nofollow" width="261" height="237" /><br />
 &#10;<p><strong>ABOVE: GARY H. CAPACITOR BANK</strong><br />
 (gun not present, set up for 'shrinking' coins<br />
 </p>
@@ -131,7 +134,7 @@ Dale Travous in ?1991? Water cannon built by Chris P.
 </p>
 <p>5/95 - In the spring issue of ELECTRIC SPACECRAFT JOURNAL, the Richmond Virginia Tesla Coil Builders Assn. have an article on their own watergun experiments. They manage to <em>perforate a 1/4" aluminum plate</em> with nothing but the water fired from the end of the gun. Yet a few feet downstream, one can place a hand in the jet (only stings.) They attempt to look for anomalous energy production, but their results are inconclusive.<br />
 </p>
-<p>For info on subscribing to ESJ, see FREE ENERGY NEWSLETTERS AND JOURNALS in WWW Weird Science at <a href="http://amasci.com/weird.html" rel="nofollow">http://amasci.com/weird.html</a><br />
+<p>For info on subscribing to ESJ, see FREE ENERGY NEWSLETTERS AND JOURNALS in WWW Weird Science at <a href="/weird.html" rel="nofollow">/weird.html</a><br />
 </p>
 <p>Some references recommended by Tom Coradeschi<br />
 </p>
@@ -169,7 +172,7 @@ Dale Travous in ?1991? Water cannon built by Chris P.
 </p>
 <p>With 1/2" electrodes at 1/4" spacing, the blast was extremely loud, the agar was thrown out from the discharge as a liquid spray, the cottage cheese bowl was again shattered and blown downwards, and the 10" tupperware bowl that covered the assembly was shattered! Bill thinks it happened not only from overpressure, but from fast risetime of force which shattered the plastic like sillyputty with a hammer. Because the agar was liquified rather than gently fractured as before, we suspect that the voltage and spacing in the previous run must have been just at the explosion-producing threshold. Also note that the explosion energy seems to be nonlinear with respect to e-field, and with respect to total input energy, since reducing the gap while keeping capacitor voltage and capacitance constant seems to have enormously raised the energy output. Perhaps energy is proportional to peak current? Or perhaps there is a threshold in the voltage or current below which explosion energy falls rapidly.<br />
 </p>
-<p>Since the discharge is intensely loud, Bill suspects that the extremely loud noise from the quartershrinker[1] setup may be coming from the switching gap, and not from the exploding coil. After all, covering the quarter with the iron pipe did not reduce the noise all that much. Dr. <a href="http://amasci.com/weird/wvort.html#gran" rel="nofollow">P. Graneau</a> has written about anomolies with high current air arcs, pointing out in particular that the sound from lightning may not simply be from thermal transient air expansion, but from unexplored plasma dynamics which produce shock waves via motor effects. Perhaps this is the source of the intense sound from the discharge.<br />
+<p>Since the discharge is intensely loud, Bill suspects that the extremely loud noise from the quartershrinker[1] setup may be coming from the switching gap, and not from the exploding coil. After all, covering the quarter with the iron pipe did not reduce the noise all that much. Dr. <a href="/weird/wvort.html#gran" rel="nofollow">P. Graneau</a> has written about anomolies with high current air arcs, pointing out in particular that the sound from lightning may not simply be from thermal transient air expansion, but from unexplored plasma dynamics which produce shock waves via motor effects. Perhaps this is the source of the intense sound from the discharge.<br />
 </p>
 <pre><code>
 &#10; [1] Quartershrinker: device which electrically compresses a coin
@@ -249,8 +252,14 @@ Dale Travous in ?1991? Water cannon built by Chris P.
 
 \
 
-<a href="http://amasci.com/amateur/capexpt.html" rel="nofollow">http://amasci.com/amateur/capexpt.html</a>\
-Created and maintained by <a href="http://amasci.com/billb.html" rel="nofollow">Bill Beaty</a>. Mail me at: <a href="http://amasci.com/amfrm/" rel="nofollow"><img src="http://amasci.com/graphics/abc.gif" data-border="0" rel="nofollow" width="141" height="19" /></a>.\
+|     |     |
+|:---:|-----|
+|     |     |
+
+\
+
+<a href="/amateur/capexpt.html" rel="nofollow">/amateur/capexpt.html</a>\
+Created and maintained by <a href="/billb.html" rel="nofollow">Bill Beaty</a>. Mail me at: <a href="/amfrm/" rel="nofollow"><img src="/graphics/abc.gif" data-border="0" rel="nofollow" width="141" height="19" /></a>.\
 \
 \
 

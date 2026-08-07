@@ -1,0 +1,761 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.2 beta6 (August 14th, 1998)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Taking Advantage of Inheritance Through Empirical Factoring </TITLE>
+<META NAME="description" CONTENT="Taking Advantage of Inheritance Through Empirical Factoring ">
+<META NAME="keywords" CONTENT="factoringinheritance">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="factoringinheritance.css">
+</HEAD>
+<BODY >
+
+<P>
+
+<P>
+
+<P>
+
+<P>
+<H1 ALIGN="CENTER">Taking Advantage of Inheritance Through Empirical Factoring </H1>
+<P ALIGN="CENTER"><STRONG>Jonathan Bartlett</STRONG></P>
+<P ALIGN="CENTER"><STRONG>December 1998</STRONG></P>
+<BR>
+
+<H2><A NAME="SECTION00010000000000000000">
+Contents</A>
+</H2>
+<!--Table of Contents-->
+
+<UL>
+<LI><A NAME="tex2html24"
+ HREF="factoringinheritance.html">Contents</A>
+<LI><A NAME="tex2html25"
+ HREF="factoringinheritance.html#SECTION00020000000000000000">Why Object-Orientation is Important</A>
+<UL>
+<LI><A NAME="tex2html26"
+ HREF="factoringinheritance.html#SECTION00021000000000000000">The Usefulness of Operational Definitions</A>
+<LI><A NAME="tex2html27"
+ HREF="factoringinheritance.html#SECTION00022000000000000000">Inheriting For Reuse</A>
+<LI><A NAME="tex2html28"
+ HREF="factoringinheritance.html#SECTION00023000000000000000">Creating Inheritance Trees Empirically</A>
+</UL>
+<LI><A NAME="tex2html29"
+ HREF="factoringinheritance.html#SECTION00030000000000000000">Rules of Object-Oriented Inheritance</A>
+<UL>
+<LI><A NAME="tex2html30"
+ HREF="factoringinheritance.html#SECTION00031000000000000000">Finding the Greatest Common Factor<SUP>7</SUP></A>
+<LI><A NAME="tex2html31"
+ HREF="factoringinheritance.html#SECTION00032000000000000000">Changing States, not Classes</A>
+<LI><A NAME="tex2html32"
+ HREF="factoringinheritance.html#SECTION00033000000000000000">Access of Non-Constant Data</A>
+<LI><A NAME="tex2html33"
+ HREF="factoringinheritance.html#SECTION00034000000000000000">Unused Data Rule</A>
+<LI><A NAME="tex2html34"
+ HREF="factoringinheritance.html#SECTION00035000000000000000">Compatibility of Subclass Methods</A>
+</UL>
+<LI><A NAME="tex2html35"
+ HREF="factoringinheritance.html#SECTION00040000000000000000">Conclusions</A>
+<UL>
+<LI><A NAME="tex2html36"
+ HREF="factoringinheritance.html#SECTION00041000000000000000">The Intended Result - Stable Intermediate Forms</A>
+<LI><A NAME="tex2html37"
+ HREF="factoringinheritance.html#SECTION00042000000000000000">Empiricism over Mysticism</A>
+<LI><A NAME="tex2html38"
+ HREF="factoringinheritance.html#SECTION00043000000000000000">With a Grain of Salt</A>
+</UL>
+<LI><A NAME="tex2html39"
+ HREF="factoringinheritance.html#SECTION00050000000000000000">Bibliography</A>
+</UL>
+<!--End of Table of Contents-->
+
+<P>
+
+<H1><A NAME="SECTION00020000000000000000">
+Why Object-Orientation is Important</A>
+</H1>
+
+<P>
+Object oriented programming is the current revolution in programming techniques.
+Object-oriented programming attempts to make extendable, reusable systems. It
+does this by creating a dynamic typing system, where new types and typing rules
+can be created by the programmer. This allows the programmer to customize his
+environment to better suit the problem, encapsulating the underlying structure
+and semantics of the programming language to suit the current structure and
+semantics of the problem at hand. However, just like any other methodology,
+it can be used both poorly and well. This paper intends to give some of the
+goals and criteria for the judgment and production of object-oriented systems.
+
+<P>
+
+<H2><A NAME="SECTION00021000000000000000">
+The Usefulness of Operational Definitions</A>
+</H2>
+
+<P>
+Traditional definitions of objects, generalizations, etc. in history have generally
+been definitions that consist of <I>what attributes</I> different objects in
+the world have. A chair would be defined as a piece of furniture with four legs,
+a seat, and a back. However, the problem with defining a chair in terms of its
+attributes is that there are many chairs with three legs, which have no backs,
+or have similar variations. What makes them still be called a chair?
+
+<P>
+Operational definitions are the answer to this problem. Operational definitions,
+instead of listing the attributes of an object, list the functions of an object.
+An operational definition of a chair would be <I>something a person sits
+on</I>. Therefore, all sorts of shapes and sizes of furniture can be chairs, as
+long as a person can sit on it. This allows a person to be able to treat all
+chairs similarly without having to worry about how the chair's structure enables
+its function. I don't have to figure out how a bean bag chair holds me up, all
+I have to know is that I can sit on it.
+
+<P>
+Similarly, object-oriented programming allows the programmer to publicly describe
+objects based on what they can do (their methods) rather than on what they look
+like (their implementation). This allows algorithms to operate on all similarly
+functioning classes equally well, without having to know anything about their
+implementation. This leads to three main advantages to object-oriented programming.
+
+<P>
+
+<UL><LI>Programs do not have to explicitly know the exact types of data they deal with
+in order to use them - they must only know the set of methods which they implement
+
+<LI>Programmers can add additional classes and integrate them with existing programs
+without having to change anything in the existing program (except for a recompile
+in some languages)<A NAME="footfnm1"
+ HREF="#fnm1"><SUP>1</SUP></A>
+<P>
+
+<LI>Programmers can declare a general set of methods to which other classes must
+conform, enabling other methods and objects to use any of these declarations
+without knowing the specific type of the object
+
+<LI>Programs can minimize dependency problems by being dependent on a common, stable
+set of classes.<A NAME="footfnm2"
+ HREF="#fnm2"><SUP>2</SUP></A>
+<P>
+
+</UL>
+<P>
+
+<H2><A NAME="SECTION00022000000000000000">
+Inheriting For Reuse</A>
+</H2>
+
+<P>
+There are two main reasons for inheritance in object-oriented systems - interface
+reuse and implementation reuse. Implementation reuse is also called private
+inheritance. It uses another piece of code as its base, but limits and expands
+its interface for a new situation. However, since the interface of the object
+was not inherited, it cannot be used in the same algorithms as the superclass.<A NAME="tex2html1"
+ HREF="#foot29"><SUP>3</SUP></A> This kind of inheritance does not produce the same kinds of advantages that
+interface reuse brings. In fact, many theorists think that it should not be
+allowed at all and should only be simulated through aggregation(is-composed-of)
+relationships.
+
+<P>
+Interface (also called facility) reuse is a much more powerful feature of object-oriented
+systems. Interface reuse means that all subclasses must implement all of the
+interface of the superclass. Data and implementation can be inherited too, but
+that is not the major consideration. Interface reuse allows objects and classes
+to be used in algorithms that did not know of their existence. This is done
+by defining new classes in terms of existing interfaces.<A NAME="tex2html2"
+ HREF="#foot30"><SUP>4</SUP></A> This kind of reuse gives the greatest amount of flexibility and extensibility
+to object-oriented systems. Therefore, this paper will focus on interface reuse
+and inheritance and not implementation reuse.
+
+<P>
+
+<H2><A NAME="SECTION00023000000000000000">
+Creating Inheritance Trees Empirically</A>
+</H2>
+
+<P>
+The object-oriented field needs a set of criteria to judge the correctness of
+inheritance trees. Codd's rules of relational databases were meant to bring
+the best utilization of the relational design model. Codd's rules were made
+to put as much of the burden on the DBMS as possible. The rules of object-oriented
+programming are made to put as much of the work on the class hierarchy as possible.
+These rules will make the programmer make the best use of object-oriented principles,
+and will make the best use of the facilities available within object-oriented
+programming languages.
+
+<P>
+These rules only work when applied to existing class definitions. Class definitions
+can be reworked to take better advantage of these rules, but that is outside
+the scope of this paper. There are many existing papers describing the process
+of creating good class definitions, and I will not duplicate their work.<A NAME="tex2html3"
+ HREF="#foot96"><SUP>5</SUP></A> However, the inheritance hierarchy should only be created after all classes
+and class methods have been defined. As will be shown, inheritance is an empirical
+matter which is decided from examining the commonalities within existing classes
+and methods. Inheritance is not decided by formulating conceptions beforehand
+and trying to impose inheritance on classes.<A NAME="tex2html4"
+ HREF="#foot33"><SUP>6</SUP></A>
+<P>
+
+<H1><A NAME="SECTION00030000000000000000">
+Rules of Object-Oriented Inheritance</A>
+</H1>
+
+<P>
+
+<H2><A NAME="SECTION00031000000000000000">
+Finding the Greatest Common Factor</A><A NAME="tex2html5"
+ HREF="#foot35"><SUP>7</SUP></A>
+</H2>
+
+<P>
+Inheritance in object-oriented systems can be viewed as a factoring process.
+The way to find the greatest common factor between two numbers is to show all
+of the prime factors for which each are composed and then find all of the factors
+that exist in both sets. The same method is employed when dealing with inheritance.
+A superclass is simply a set of methods which is in common between two already-defined
+classes. Thus, a superclass could be considered a <I>factor</I> of existing
+classes. This paper will refer to factors and superclasses synonymously. Most
+work in the field of object-oriented programming has dealt with creating subclasses
+from superclasses, which is called subclassing. However, this paper deals with
+the empirical process of creating superclasses from subclasses, which I will
+call factoring.
+
+<P>
+Object-oriented systems should have all common and similarly functioning methods
+of any two classes factored into at least one common superclass. This means
+that any two classes which share <I>any</I> method(s) should also share a superclass.
+For example, if we wrote a program that could read a variety of file systems
+(MSDOS, Mac HFS, ISO9660, etc.), we could put each file system in its own class.
+Now, each file system would probably have a getFile(filename) method. Therefore,
+all of our file systems would need a common superclass that would have a getFile(filename)
+method,<A NAME="tex2html6"
+ HREF="#foot38"><SUP>8</SUP></A> which would probably be called the Filesystem class.<A NAME="tex2html7"
+ HREF="#foot39"><SUP>9</SUP></A>
+<P>
+This factoring of classes into superclasses has one really great benefit - algorithms
+can use a variety of different subclasses without having to know which one it
+is using. For example, in our file system case, a program could be passed a
+Filesystem object (an instance of any of the subclasses), and it could simply
+call getFile without caring which Filesystem subclass it was using, or even
+having to know which Filesystem subclasses are available at compile time. Therefore,
+as more and more Filesystem subclasses are implemented, programs using the generic
+Filesystem class would not have to be modified in order to use the new file
+systems. This prevents any algorithm from being locked into a specific implementation
+of a class and allows it to use any class that can perform the same function.
+According to Singer,
+
+<P>
+<BLOCKQUOTE>
+A primary benefit of using specialization relationships in analysis is to improve
+the clarity of the model . . . It also allows one to easily refer to the common
+properties of many types without enumerating them each time . . . It also allows
+use of the supertype in the program to represent uses of the subtype and to
+be able to add additional subtypes without affecting any of the properties or
+behavior of the supertype.<A NAME="tex2html8"
+ HREF="#foot41"><SUP>10</SUP></A>
+</BLOCKQUOTE>
+The one problem with this is, however, that all of the common methods among
+subclasses must accept the same inputs and have the same runtime errors defined.
+For example, the getFile method must be able to take a filename of any length
+for all of the file systems. This, however, is not a problem if specific errors
+are defined in the superclass to be checked, such as file name too long or file
+not found. One thing to notice, however, is that there are two types of factors
+involved in factoring classes, feature factors and ISA factors.<A NAME="tex2html9"
+ HREF="#foot43"><SUP>11</SUP></A>
+<P>
+
+<H3><A NAME="SECTION00031100000000000000">
+ISA Factors</A>
+</H3>
+
+<P>
+An ISA factor<A NAME="tex2html10"
+ HREF="#foot45"><SUP>12</SUP></A> is what most people refer to as a superclass. It means that the classes which
+have common methods <I>are a type of</I> that common object. In our file system
+example, the Filesystem class was an ISA factor, because each class <I>is
+a</I> Filesystem. It is important for any class to only have one ISA factor.<A NAME="tex2html11"
+ HREF="#foot48"><SUP>13</SUP></A> Often times, ISA factors share data and implementation methods as well as the
+interface specifications (methods), although this is not required. 
+
+<P>
+
+<H3><A NAME="SECTION00031200000000000000">
+Feature Factors</A>
+</H3>
+
+<P>
+A feature factor is simply a list of operations that many classes have in common.
+They are called feature factors because they simply list methods that are available,
+and they are usually grouped around a specific function. The factors themselves
+only contain the interface, and contain no data or implementation specifics.
+For example, there could be a system where many different object types (text,
+graphics, etc.) could be sent to the printer with the printMe(printer) method.
+This would mean that there could be a feature factor called Printable which
+contained the method printMe(printer). Any class that wanted to be able to be
+printed would have Printable as a factor. Also, since feature factors
+are simply a list of abilities of an object, a class could implement as many
+feature factors as desired.<A NAME="tex2html12"
+ HREF="#foot52"><SUP>14</SUP></A> This is similar to multiple inheritance, but it doesn't have the complexity
+involved with inheriting code and data. Feature factors are also called <I>interfaces</I>
+in Java and <I>Mixin Classes</I><A NAME="tex2html13"
+ HREF="#foot55"><SUP>15</SUP></A> in systems that support multiple inheritance. In systems that implement late
+binding such as Perl and Smalltalk, feature factors don't need to be explicitly
+declared, but they should be at least documented for clarification.
+
+<P>
+
+<H3><A NAME="SECTION00031300000000000000">
+Deciding Between ISA and Feature Factors</A>
+</H3>
+
+<P>
+Theoretically, all factorizations could be done with feature factors instead
+of ISA factors. However, many applications benefit from a single inheritance
+line of code reuse, because it prevents code rewriting. The best way to decide
+which factors should be ISA factors is to figure out which factors will share
+the most code between subclasses.
+
+<P>
+
+<H3><A NAME="SECTION00031400000000000000">
+Using Factors Well</A>
+</H3>
+
+<P>
+In order to make the best use of feature factors and ISA factors within a program,
+method interfaces should specify the highest superclass or factor available
+that can get the job done. For example, in the file system situation, if a program
+only used behaviors that were available in the Filesystem supertype yet specified
+a specific file system like Mac HFS in its interface, it would lose the flexibility
+that was gained through factoring. It would be unnecessarily tied to the specific
+implementation.
+
+<P>
+
+<H2><A NAME="SECTION00032000000000000000">
+Changing States, not Classes</A>
+</H2>
+
+<P>
+The next rule of object-oriented programming is that objects should never change
+their class type, only their states within a class. For example, it would be
+erroneous for me to create a superclass Person, and then two subclasses of person,
+Executive and Worker. The problem is that when an object changes its class,
+the operations available change as well. So, if a client class were holding
+a Worker, and the person suddenly got promoted to an Executive, the assumed
+operations available would change, and client classes would no longer be able
+to assume that any of the class's operations were available. It would instead
+have to continually test for which type it was holding in order to find out
+which operations were available. This would nullify all of the advantages of
+object-oriented programming. This can be avoided by having things such as age
+and occupation be attributes of a class, and not subclasses of them.<A NAME="tex2html14"
+ HREF="#foot59"><SUP>16</SUP></A> 
+
+<P>
+Subclasses <I>must</I> differ from their superclass by either overrided methods
+or by extending its set of methods. Usually both will occur. Changes in attribute
+<I>values</I> should not create a change in class, only a change in state. This
+prevents breaks in the inheritance chain which are unnecessary and could lead
+to multiple inheritance and object state changes. For example, if there was
+a class Ball which had a method called bounce(), there should not be subclasses
+for red and blue balls, because the operation of the ball has not changed. If
+we were to later add subclasses to Ball which could each be red or blue, we
+would have to resort to multiple inheritance or interfaces (feature factors)
+in order to account for all of the variations. This whole mess could be avoided
+by simply adding setColor and getColor methods to Ball and leaving the color
+as a changeable attribute, not as a part of the type.<A NAME="tex2html15"
+ HREF="#foot62"><SUP>17</SUP></A>
+<P>
+
+<H2><A NAME="SECTION00033000000000000000">
+Access of Non-Constant Data</A>
+</H2>
+
+<P>
+All access to non-constant data should be in the form of a method call, not
+a direct memory access. This is actually a class design rule, not an inheritance
+rule. However, the impact it has on inheritance warranted its inclusion here. 
+
+<P>
+The reason for this rule is this - if the implementation of the class ever changes
+in such a way as to have that value calculated instead of stored, the other
+classes which use that class would have to be rewritten. Inheritance also becomes
+difficult because subclasses are forced to share implementation with the superclass,
+not just the interface. For example, if a subclass calculated a value instead
+of storing it, it would break compatibility with the superclass. Data in a class
+should be considered the private property of the class, and access should be
+explicitly given or restricted through method calls only.<A NAME="tex2html16"
+ HREF="#foot64"><SUP>18</SUP></A>
+<P>
+
+<H2><A NAME="SECTION00034000000000000000">
+Unused Data Rule</A>
+</H2>
+
+<P>
+This rule is for ISA factors (superclasses which declare both the interface
+and implementation). No subclass of an ISA factor should leave data elements
+of the factor unused.<A NAME="tex2html17"
+ HREF="#foot66"><SUP>19</SUP></A> This creates waste of memory by the system, which can readily cause problems
+if the subclass is instantiated several times. Also, it can lead to unintended
+side-effects later down the road.
+
+<P>
+Having unused data is is usually a symptom of either of these two problems:
+
+<P>
+
+<UL><LI>The factor is used as an ISA factor when it should only be a feature factor
+
+<LI>The factor, although it is an ISA factor, declares too many implementation details.
+
+</UL>
+These two situations are very similar, and the diagnosis is mostly a judgment
+call. The only difference is in the solutions. The solution to the first problem
+is this: First, move the common methods to a feature factor. Then, put the superclass
+and the subclass in different inheritance hierarchies,<A NAME="tex2html18"
+ HREF="#foot69"><SUP>20</SUP></A> but have them both implement the same feature factor. The solution to the second
+problem is to create a third class which is also a subclass of the given ISA
+factor. The implementation details in the superclass which conflict with the
+subclass would be moved to the newly created class. This normally leaves the
+superclass as an abstract class.
+
+<P>
+For example, a system could have classes for a WagedWorker class and an Executive
+class.<A NAME="tex2html19"
+ HREF="#foot70"><SUP>21</SUP></A> Because the WagedWorker and the Executive both have the computePay method,
+the Executive class is declared as a subclass of the WagedWorker class. However,
+the WagedWorker's pay is calculated based on the hoursWorked and payPerHour
+data elements which are stored in the class, while the Executive's pay is calculated
+solely on the basis of salary. However, instances of the Executive class will
+still contain the hoursWorked and payPerHour data fields, since they are a part
+of the WagedWorker superclass, even though they now have no use. As mentioned,
+this could be solved in two ways.
+
+<P>
+
+<UL><LI>The WagedWorker and the Executive classes could be put into separate inheritance
+lines, and a feature factor, called PaidJob, could be defined which would be
+included by both the WagedWorker and the Executive classes
+
+<LI>Instead of just being a feature factor, the PaidJob class could be an ISA factor
+that only has the declaration of the computePay method without the implementation.
+Then, the WagedWorker and the Executive classes would each inherit from it.
+
+</UL>
+
+<P>
+
+<H2><A NAME="SECTION00035000000000000000">
+Compatibility of Subclass Methods</A>
+</H2>
+
+<P>
+As mentioned earlier, in order to be useful, classes which inherit methods from
+other classes (either feature factors or ISA factors) must be compatible with
+the same types of data and sequences of operations. What this means is that
+everywhere a superclass (or factor) is expected, any subclass could be substituted
+and it would work properly. This is known as the Liskov substitution principle.
+Essentially, this means that in a given situation, all subclasses of a superclass
+must perform their operations in a way that is compatible with the subclass.<A NAME="tex2html20"
+ HREF="#foot74"><SUP>22</SUP></A> This means that simply having the same method name and parameters may not be
+enough. Subclasses must also produce the same types of errors (subclasses cannot
+invent their own), and be able to be executed in the same sequence as the superclass.<A NAME="tex2html21"
+ HREF="#foot75"><SUP>23</SUP></A>
+<P>
+Subclasses cannot be more restrictive than superclasses classes on parameters
+passed to their methods, they can be more restrictive on their returns. Otherwise,
+the client objects would have to test for class types before sending messages,
+thereby upsetting the whole object-oriented system.<A NAME="tex2html22"
+ HREF="#foot76"><SUP>24</SUP></A> Also, they need to be able to follow the same state transition diagrams as
+their superclasses (factors). One of the current deficiencies of object-oriented
+programming is that state transition diagrams must be enforced by the programmers,
+not the language.
+
+<P>
+
+<H1><A NAME="SECTION00040000000000000000">
+Conclusions</A>
+</H1>
+
+<P>
+
+<H2><A NAME="SECTION00041000000000000000">
+The Intended Result - Stable Intermediate Forms</A>
+</H2>
+
+<P>
+Although these rules are useful, they can only have their greatest benefit when
+classes are designed with this ordering in mind. Programmers need to be looking
+for ways in which methods can be shared among the greatest number of classes.
+If this is done, after analyzing classes and deciding on the inheritance hierarchy,
+there should develop a set of factors which will remain relatively stable throughout
+software versions. Many of the common methods of existing classes will also
+be common with future classes. This intermediate classes will then become the
+stabilizing force of the software development process. According to Berard,
+having these stable intermediate classes are what makes an application scalable
+through increasingly complex versions.<A NAME="tex2html23"
+ HREF="#foot79"><SUP>25</SUP></A>
+<P>
+
+<H2><A NAME="SECTION00042000000000000000">
+Empiricism over Mysticism</A>
+</H2>
+
+<P>
+As shown, the process of creating inheritance hierarchies should not be a mystical
+experience. Instead, it should be grounded on solid principles. Many developers
+follow this plan intuitively, but it is better to have it spelled out so that
+others do not have to rely on their gut feelings to make good programming choices.
+These rules should make the greatest use of object-oriented inheritance without
+misusing its ideas.
+
+<P>
+
+<H2><A NAME="SECTION00043000000000000000">
+With a Grain of Salt</A>
+</H2>
+
+<P>
+All the rules and guidelines known to man will not beat good intuition, common
+sense, or performance requirements. These guidelines are meant to put more of
+the work on the programming language and less on the programmer. Therefore,
+if other considerations are more pressing than ease of programming, or if these
+rules get in the way of programming, there is nothing sacred about any of these
+rules. As always, use judgment. However, I believe these rules will help programmers
+to see where and how their object designs could be restructured.
+
+<P>
+ <H2><A NAME="SECTIONREF">Bibliography</A>
+</H2>
+<DL COMPACT><DD><P></P><DT><A NAME="1">1</A>
+<DD>Berard, Edward V. Essays on Object-Oriented Software Engineering. Englewood
+Cliffs, N.J.: Prentice Hall, 1993.
+<P></P><DT><A NAME="2">2</A>
+<DD>Eliens, Anton. Principles of Object-Oriented Software Development. Wokingham,
+England: Addison-Wesley Publishing Company, 1995.
+<P></P><DT><A NAME="2">2</A>
+<DD>Henderson-Sellers, Brian. A Book of Object-Oriented Knowledge: Object-Oriented
+Analysis, Design, and Implementation: A New Approach to Software Engineering.
+New York: Prentice Hall, 1992.
+<P></P><DT><A NAME="5">3</A>
+<DD>Johnson, Ralph E. and Brian Footer. &#34;Designing Reusable Classes&#34;
+in Journal of Object Oriented Programming June/July 1988, Volume 1, Number 2,
+pgs 22-35. Available online at http://www.laputan.org/drc/drc.html, accessed
+December 7, 1998.
+<P></P><DT><A NAME="5">3</A>
+<DD>Meyer, Bertrand, ISE. <I>Object-Oriented Software Construction, 2nd Edition.</I>
+Prentice Hall, 1997. Chapter 25, ``Using Inheritance,'' Available Online at
+http://www.eiffel.com/doc/manuals/technology/oosc/inheritance-design/index.html,
+accessed December 7, 1998.
+<P></P><DT><A NAME="6">4</A>
+<DD>Rumbaugh, Dr. James. ``Disinherited! Examples of Misuse of Inheritance.''
+http://www.rational.com/support/techpapers/omt/joop9302.html, February, 1993.
+Accessed December 7, 1998.
+<P></P><DT><A NAME="5">3</A>
+<DD>Singer, Gilbert L. Object Technology Strategies and Tactics. New York: SIGS
+Books and Multimedia, 1996.
+</DL>
+<H1><A NAME="SECTION00060000000000000000">
+About this document ...</A>
+</H1>
+ <STRONG>Taking Advantage of Inheritance Through Empirical Factoring </STRONG><P>
+This document was generated using the
+<A HREF="http://www-dsed.llnl.gov/files/programs/unix/latex2html/manual/"><STRONG>LaTeX</STRONG>2<tt>HTML</tt></A> translator Version 98.2 beta6 (August 14th, 1998)
+<P>
+Copyright &#169; 1993, 1994, 1995, 1996,
+<A HREF="http://cbl.leeds.ac.uk/nikos/personal.html">Nikos Drakos</A>, 
+Computer Based Learning Unit, University of Leeds.
+<BR>Copyright &#169; 1997, 1998,
+<A HREF="http://www-math.mpce.mq.edu.au/~ross/">Ross Moore</A>, 
+Mathematics Department, Macquarie University, Sydney.
+<P>
+The command line arguments were: <BR>
+ <STRONG>latex2html</STRONG> <TT>-split 0 factoringinheritance.tex</TT>
+<P>
+The translation was initiated by Jonathan Bartlett on 1999-12-14<BR><HR><H4>Footnotes</H4>
+<DL>
+<DT><A NAME="fnm1">... languages)<SUP>1</SUP></A>
+<DD>
+Singer, 117.
+
+
+<DT><A NAME="fnm2">... classes.<SUP>2</SUP></A>
+<DD>
+Berard, 76.
+
+
+<DT><A NAME="foot29">... superclass.</A><A NAME="foot29"
+ HREF="factoringinheritance.html#tex2html1"><SUP>3</SUP></A>
+<DD>
+Meyer, http://www.eiffel.com/doc/manuals/technology/oosc/inheritance-design/section_08.html.
+
+
+<DT><A NAME="foot30">... interfaces.</A><A NAME="foot30"
+ HREF="factoringinheritance.html#tex2html2"><SUP>4</SUP></A>
+<DD>
+Meyer, http://www.eiffel.com/doc/manuals/technology/oosc/inheritance-design/section_09.html.
+
+
+<DT><A NAME="foot96">... work.</A><A NAME="foot96"
+ HREF="factoringinheritance.html#tex2html3"><SUP>5</SUP></A>
+<DD>
+http://www.laputan.org/drc/drc.html is a great example of a paper on this subject,
+as well as http://www.cse.unsw.edu.au/~timm/pub/subjects/oois96/rules.html.
+
+
+<DT><A NAME="foot33">... classes.</A><A NAME="foot33"
+ HREF="factoringinheritance.html#tex2html4"><SUP>6</SUP></A>
+<DD>
+The empirical method of deciding which classes inherit from others will eliminate
+what is, according to Rumbaugh, one of the main problems new object oriented
+programmers have with inheritance - using inheritance where aggregation is more
+appropriate.
+
+
+<DT><A NAME="foot35">... Factor</A><A NAME="foot35"
+ HREF="factoringinheritance.html#tex2html5"><SUP>7</SUP></A>
+<DD>
+In this paper, base classes are often referred to as factors, because they function
+as a subset of the methods offered by a subclass. The least common denominator
+between subclasses refers to the fact that many classes have certain methods
+in common, and there should be superclasses defined which take advantage of
+the greatest common set of methods between classes.
+
+
+<DT><A NAME="foot38">...
+method,</A><A NAME="foot38"
+ HREF="factoringinheritance.html#tex2html6"><SUP>8</SUP></A>
+<DD>
+This class would not have to define any implementation of the getFile method,
+only be a placeholder for it. This could be an actual class, or it could be
+an abstract class. The only thing is that it needs to have a getFile(filename)
+method defined.
+
+
+<DT><A NAME="foot39">... class.</A><A NAME="foot39"
+ HREF="factoringinheritance.html#tex2html7"><SUP>9</SUP></A>
+<DD>
+There would probably be several methods that were common to all filesystems
+that would be implemented here.
+
+
+<DT><A NAME="foot41">... supertype.</A><A NAME="foot41"
+ HREF="factoringinheritance.html#tex2html8"><SUP>10</SUP></A>
+<DD>
+Singer, 117.
+
+
+<DT><A NAME="foot43">... factors.</A><A NAME="foot43"
+ HREF="factoringinheritance.html#tex2html9"><SUP>11</SUP></A>
+<DD>
+This is terminology I made up in order to better reflect the functions of the
+two types of superclasses. Typically, feature factors are called interfaces
+or mixin classes, and ISA factors are called base classes.
+
+
+<DT><A NAME="foot45">... factor</A><A NAME="foot45"
+ HREF="factoringinheritance.html#tex2html10"><SUP>12</SUP></A>
+<DD>
+They are called ISA factors because the classes are a type of the superclass.
+
+
+<DT><A NAME="foot48">... factor.</A><A NAME="foot48"
+ HREF="factoringinheritance.html#tex2html11"><SUP>13</SUP></A>
+<DD>
+This is also called single inheritance. Having one line of inheritance keeps
+the namespace from getting cluttered as well as prevent inheritance relationships
+which should be aggregation relationships.
+
+
+<DT><A NAME="foot52">... desired.</A><A NAME="foot52"
+ HREF="factoringinheritance.html#tex2html12"><SUP>14</SUP></A>
+<DD>
+Henderson-Sellers, 247.
+
+
+<DT><A NAME="foot55">... Classes</A><A NAME="foot55"
+ HREF="factoringinheritance.html#tex2html13"><SUP>15</SUP></A>
+<DD>
+implemented as abstract base classes
+
+
+<DT><A NAME="foot59">... them.</A><A NAME="foot59"
+ HREF="factoringinheritance.html#tex2html14"><SUP>16</SUP></A>
+<DD>
+Johnson and Footer, http://www.laputan.org/drc/drc.html.
+
+
+<DT><A NAME="foot62">... type.</A><A NAME="foot62"
+ HREF="factoringinheritance.html#tex2html15"><SUP>17</SUP></A>
+<DD>
+Rumbaugh, http://www.rational.com/support/techpapers/omt/joop9302.html.
+
+
+<DT><A NAME="foot64">... only.</A><A NAME="foot64"
+ HREF="factoringinheritance.html#tex2html16"><SUP>18</SUP></A>
+<DD>
+Johnson and Footer, http://www.laputan.org/drc/drc.html.
+
+
+<DT><A NAME="foot66">... unused.</A><A NAME="foot66"
+ HREF="factoringinheritance.html#tex2html17"><SUP>19</SUP></A>
+<DD>
+This does not mean that the subclass has to explicitly refer to all the data
+elements, only that it does not render data elements useless through overriding
+methods.
+
+
+<DT><A NAME="foot69">... hierarchies,</A><A NAME="foot69"
+ HREF="factoringinheritance.html#tex2html18"><SUP>20</SUP></A>
+<DD>
+Note that now the two classes will no longer have a superclass/subclass relationship.
+
+
+<DT><A NAME="foot70">...
+class.</A><A NAME="foot70"
+ HREF="factoringinheritance.html#tex2html19"><SUP>21</SUP></A>
+<DD>
+This example is shown to have other problems as well, but it illustrates the
+point well.
+
+
+<DT><A NAME="foot74">... subclass.</A><A NAME="foot74"
+ HREF="factoringinheritance.html#tex2html20"><SUP>22</SUP></A>
+<DD>
+Eliens had a stricter view on this, saying that the operations had to duplicate
+the superclass behaviors exactly. However, this is almost impossible to do.
+The method proposed by Liskov is more pragmatic, and leaves the designer of
+the class responsible for determining the compatibility with the superclass.
+
+
+<DT><A NAME="foot75">... superclass.</A><A NAME="foot75"
+ HREF="factoringinheritance.html#tex2html21"><SUP>23</SUP></A>
+<DD>
+http://c2.com/cgi/wiki?OoDesignPrinciples
+
+
+<DT><A NAME="foot76">... system.</A><A NAME="foot76"
+ HREF="factoringinheritance.html#tex2html22"><SUP>24</SUP></A>
+<DD>
+Eliens 282 - 283
+
+
+<DT><A NAME="foot79">... versions.</A><A NAME="foot79"
+ HREF="factoringinheritance.html#tex2html23"><SUP>25</SUP></A>
+<DD>
+Berard, 76.
+
+
+</DL><HR>
+<ADDRESS>
+<I>Jonathan Bartlett</I>
+<BR><I>1999-12-14</I>
+</ADDRESS>
+</BODY>
+</HTML>

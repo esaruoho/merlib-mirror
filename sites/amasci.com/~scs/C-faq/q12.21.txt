@@ -1,0 +1,103 @@
+Question 12.21 
+
+ Question 12.21 
+ How can I tell how much destination buffer space I'll need
+for an arbitrary sprintf call?
+How can I avoid
+overflowing
+the destination buffer with sprintf ?
+
+ There are not
+(yet)
+any good answers to either of these
+excellent
+questions,
+and this
+
+represents perhaps the biggest deficiency in the
+traditional
+stdio library.
+ When the format string being used with sprintf is
+known and
+relatively simple,
+you can usually predict
+a
+buffer
+size in an ad-hoc way.
+If
+the format
+consists of one or two %s 's,
+you can count the fixed
+characters in the format
+string yourself
+(or let sizeof count them for you)
+and add in the result of calling strlen 
+on the string(s) to be inserted.
+You can
+conservatively
+estimate the size that %d will expand to with
+code like:
+ #include <limits.h>
+char buf[(sizeof(int) * CHAR_BIT + 2) / 3 + 1 + 1];
+sprintf(buf, "%d", n);
+
+ (This code
+computes
+the number of characters required
+for a base-8 representation of a number;
+a base-10 expansion is guaranteed to take as much room or less.)
+ When the format string is more complicated,
+or
+is
+not
+even
+known until run time,
+predicting the buffer size becomes as
+difficult
+as reimplementing sprintf ,
+and correspondingly error-prone
+(and inadvisable).
+A
+last-ditch
+technique
+which is sometimes
+suggested
+is to use
+ fprintf to print the same text to a
+bit bucket or
+temporary file,
+and
+then to
+look at fprintf 's return value
+
+or
+the size of the file
+(but see question 19.12 ).
+ If there's
+any
+chance that the buffer might not be big enough,
+you won't want to call sprintf 
+without some guarantee
+that the buffer will not overflow
+and overwrite some other part of
+memory.
+Several
+stdio's
+(including GNU and 4.4bsd)
+provide
+the obvious
+ snprintf function,
+which can be used like this:
+ snprintf(buf, bufsize, "You typed \"%s\"", answer);
+ and we can hope that a future revision of the ANSI/ISO C Standard
+will include this function.
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

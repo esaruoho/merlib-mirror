@@ -1,0 +1,117 @@
+---
+title: "The Cosmological Argument - Charles W. Johnson"
+source_domain: amasci.com
+source_path: ~cwj2/atheism/cosmo.html
+order: 2031
+reachable_from_entry: false
+images: 0
+internal_links: 6
+extracted: 2026-08-07T05:55:43Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Cosmological Argument - Charles W. Johnson
+
+*Source page: `~cwj2/atheism/cosmo.html`*
+
+\
+
+<div class="sig">
+
+[Charles W. Johnson](http://www.eskimo.com/~cwj2)\
+
+</div>
+
+<div class="title">
+
+Atheist Resources: The Cosmological Argument\
+
+</div>
+
+<div class="updated">
+
+Last revised 6 August 1998\
+
+</div>
+
+------------------------------------------------------------------------
+
+<div class="toolbar">
+
+|                                       |
+|---------------------------------------|
+| [Common Arguments](index.html#common) |
+| [Web](index.html#web)                 |
+| [IRC](index.html#IRC)                 |
+| [Usenet](index.html#news)             |
+| [Christianity](index.html#xian)       |
+| [Evolution](index.html#evo)           |
+
+\
+
+|                                                                          |
+|--------------------------------------------------------------------------|
+| [Homepage](http://www.eskimo.com/~cwj2/ "Charles W. Johnson's homepage") |
+| [Feedback](mailto:cwj2@eskimo.com "E-mail Charles W. Johnson")           |
+
+</div>
+
+<div class="paper">
+
+## The Argument from First Cause
+
+The cosmological argument for God, also known as the *argument from First Cause*, has been one of the most frequent defenses of the rationality of theism throughout its long history. Cosmological arguments have been proposed by some of history's greatest intellects, including Saint Thomas Aquinas and Aristotle. In essence, it states:
+
+> All events have a cause, and the world as we know it is comprised of events. Everything that we observe is an effect of some previous cause. Since there cannot be an infinite regress of events, there must be some Uncaused Cause outside of the world, that is, a God.
+
+The problems with this argument are manifold. Some debaters, drawing on on some interpretations of Quantum Mechanics, may deny the iron law that all events must have a cause. Some also question the premise that an infinite regress of events cannot exist; however, a lot of modern cosmology points to a Universe with a definite beginning point. The issue of infinite regress will be dealt with at greater length below when we consider Craig's [Kalam Cosmological Argument](#kalam). One way to circumvent the dilemma while preserving a definite beginning point for the Universe is to adopt the "oscillating" model of the Universe, which has at times received the support of Stephen Hawking, one of the foremost minds in modern cosmology. In this circular-time model there is an eternal cycle of bang/crunch events, where the "crunched" Universe "bangs" into another. Equations have been developed which can reconcile such a cyclical view with modern inflationary models of early Universe history. The primary factor in determining whether such models of the Universe's geometry are true is the total amount of mass in the Universe; the amount of known mass is safely within the realm of an open Universe, but dark matter may account for the "missing mass."
+
+The logical implications of asserting that the Universe must have an explanatory entity are also theologically troublesome: the belligerent atheist can respond by asking why the Universe needs a Cause but God doesn't. While at first such a question seems insipid and stupid due to the conception of eternal God, it is not stupid in the context of the Universe: for no apparent reason, the Universe is assumed to not be self-sufficient, while God is assumed to be so, which simply shifts the locus of the Uncaused Cause rather than resolving it. Thus, such a superficially trivial question in fact forges an important argument by analogy; the atheist is as justified in demanding, "What caused God?" as the theist is in demanding, "What caused the Universe?"
+
+Even if we were to grant the theist's argument for an external Uncaused Cause, his conclusion that such a being is necessarily a God is a *non sequitur*. This hypothetical explanation for the Universe could be any number of things which we would not call a god (indeed, Aristotle's metaphysical primary only loosely qualifies as one)--the Cause could just as easily be the Tao or other transcendental, unconscious forces.
+
+The most critical flaw in the cosmological argument, however, lies in its faulty understanding of time and causality. Modern cosmological theory states that the beginning of the Universe is, by definition, also the beginning of time. Causality *requires* time as a *frame of reference*<sup>[1](#fn1)</sup>, and thus by definition the beginning of time--and the beginning of the Universe as well--has no cause in the traditional sense.
+
+------------------------------------------------------------------------
+
+## <span id="kalam">The Kalam Cosmological Argument</span>
+
+The *Kalam Cosmological Argument* is a spin on the First Cause argument which draws from medieval theology and subsequent philosophical cosmology. Its primary supporter today is the theologian William Lane Craig. Its essence is quite simple, following the mold of the previously presented cosmological argument: whatever begins to exist has a cause of its existence; the Universe began to exist. Therefore, the Universe has a cause of its existence. Craig goes on to argue that this cause is, in fact, a personal God, in order to dodge the blunder of the prior cosmological argument. It commits several critical flaws, many of which are committed by other cosmological arguments. Because of this, it will be useful to consider a rebuttal against this specific breed of First Cause.
+
+The first premise may again be challenged: some schools of QM hold that the existence of particles is a matter of probability. Indeed, empty space seethes with "ephemeral particles" which wink in and out of existence with no apparent cause (whether they have a hidden cause or not is a matter of debate). The QM cosmologist may come again to say that the Universe itself is explained by quantum fluctuation, thus removing the necessity for God at the first premise.
+
+But let us assume a more old-fashioned view of the Universe and move on to the second premise. As Craig correctly points out, the argument itself is quite simple, and most of the work on the argument is necessarily debate over the second premise and its implications. Craig uses two primary sub-proofs to demonstrate the necessity of a finite Universe. First, he argues that an "actual," or completed infinity cannot exist in reality. Second, he argues that time cannot infinitely regress because of the impossibility of traversing an infinite set: since infinity can never be reduced to finity by subtraction, if the Universe is infinitely old (beginning at t=-oo) then there is no way that it could ever reach the present moment (t=0).
+
+Craig, however, *never gives proper justification* for the first sub-proof. He cites thought experiments such as *Hilbert's Hotel*<sup>[2](#fn2)</sup> but never bothers to show why these strange examples prove logical impossibility. His argument is, verbatim: "Can anyone sincerely believe that such a hotel could exist in reality? These sorts of absurdities illustrate the imposibility of the existence of an actually infinite number of things."<sup>[3](#fn3)</sup> Read it carefully: Craig has done nothing more than resort to personal incredulity. This is the only justification he gives for his primary sub-proof. Why Craig expects transfinite sets to act according to our presuppositions rooted in the behavior of the finite sets which we observe is not altogether clear. Craig, in essence, simply refuses to believe oo+1=oo, and attempts to convince us by his lack of imagination.
+
+The second argument may also be defeated by a number of devices. One of the first is again an appeal to science. The oscillating, or cyclical model of Universe history presented in the previous section is one possible defense, because if time moves in a circle rather than a straight line, then the problem of traversal is eliminated; there is a finite beginning point, but one may traverse forever if he so desires without reaching a boundary. Although Craig attempts to refute this model, his attempt is anemic at best: he proposes two points which supposedly defeat the model: (i) that no known physics explain the re-explosion after the "crunch," and (ii) that there is not enough observed matter to bring about the crunch. Both are essentially God of the Gaps arguments: "I can't explain this, therefore God exists." (ii) may be explained away by dark matter; this issue, as far as I know, remains unresolved. (i) is subject to another problem: there is no reason to assume that we can find a cause for the re-Bang, because the crunch involves the end of time, and thus, the end of causality as we know it.
+
+A more fundamental problem of Craig's argument, however, lies in his naive presuppositions about time. Craig explicitly presupposes "a dynamical view of time according to which events are actualized in serial fashion, one after another."<sup>[3](#fn3)</sup> Craig assumes that time, rather than an expanded dimension of the Universe, is an external property of change and movement. However, *this position is simply scientifically untenable*. The dimensional nature of time has been a fundamental part of physics since Einstein, and its expansion in the Big Bang is one of the least controversial notions in cosmology today. Further, Craig does not realize the vast importance of the idea that *the beginning of the Universe is the beginning of time*. Yes, there is some finite distance into the past before which the Universe did not exist. But that is because *time is part and parcel of the Universe*, not some disjoint phenomenon in which the Universe exists. The Universe did not non-exist for a period of time and then suddenly wink into existence; at the moment of the Big Bang, the Universe simply *was*, and time only existed after that moment. The ultimate cause cannot be traced back further because there is no frame of reference in which to trace.
+
+Finally, Craig attempts to justify that the Uncaused Cause of the Universe must be a metaphysical primary *with a will*, a volitional entity, which he (and I as well) considers a sufficient condition for godhood. The argument is based on the notion of sufficient causes: if A is a sufficient condition for B, then whenever A is observed, B must also be observed. Thus, it is argued, if the sufficient condition for the Universe's existence was simply the action of some transcendental force, then the Universe should have always existed, a notion which was already discarded in the process of the KCA. Therefore, it is argued, the sufficient condition for the Universe's existence was the *act of will* of its Uncaused Cause, which occurred a finite amount of time ago and therefore explains the finity of time.
+
+This argument, however, is pitifully flawed and inconsistent with Craig's previous argument. In his hypothetical dilemma, one must wonder why the action of the force at a particular moment is any less valid a sufficient cause than the volition of the God. Forces are, fundamentally, relationships, and they do not produce the same result for all values of their independent variables. However, this comparison betrays an even more fundamental flaw of the matter: *the argument hinges on time progression*. If God does not will the Universe to be at one *moment*, and then did will it to be in the finite past, then there must be a time progression and a change between these moments--God is dethroned from his eternal and immutable posture outside time. Craig dismisses a Universe existing infinitely into the "dynamical" past, but he proposes a God which exists backward infinitely before the Universe. The incoherency in a system of propositions is rarely so obvious. Thus we could turn Craig's KCA (if we admitted its validity) against God Himself. Craig gives atheists the tools for impiety by wanting to have his ontological cake and eat it too.
+
+</div>
+
+\
+
+<div class="talkback">
+
+### Notes
+
+- <span id="fn1">This necessity</span> is established both in theory and in practice of causality. In practice, one of the criteria required for acceptance of a causal hypothesis is that the property which is being caused cannot occur before the property which is alleged to cause it. In theory, there are two primary notions of causality: *necessary condition* and *sufficient condition*. In the case of the former, if A is said to be a necessary condition of B, then *A must always be present while B is present*, i.e., *in the same section of time*. In the case of the latter, if A is said to be a sufficient condition of B then *B must always be present while A is present*. Again, the temporal frame-of-reference is required.
+
+- <span id="fn2">Hilbert's Hotel</span> is a thought experiment which involves a hotel with an infinite number of rooms. All of the hotel's infinite rooms are occupied and the NO VACANCY sign is lit outside. However, a weary traveler arrives at the front desk and asks for a room. "Very well," the management responds, and in order to give the man a room, they simply shift the occupant of room \#1 to room \#2, room \#2 to room \#3, and so *ad infinitum*. When all the guests have been shifted, the hotel's guests still all have a room, but room \#1 is now left unoccupied and the traveler is free to have a room.
+
+  More weirdness ensues if the experiment is carried further. If the traveler now in room \#1 checks out the following day, then the hotel still has no fewer guests--despite what the maid cleaning room \#1 may say. If all the guests are shifted back to the room they occupied before the troublesome traveler arrived, then the hotel's only empty room is filled and the VACANCY sign goes back to NO VACANCY. The discovery of further oddities is left as an exercise to the reader.
+
+- <span id="fn3">Craig, William Lane</span>. "[The Existence of God and the Beginning of the Universe](http://www.leaderu.com/truth/3truth11.html)."
+
+</div>
+
+------------------------------------------------------------------------
+
+Written and maintained by Charles W. Johnson (<cwj2@eskimo.com>).\
+Copyright 1997-1998 Charles W. Johnson.\
+All rights reserved.

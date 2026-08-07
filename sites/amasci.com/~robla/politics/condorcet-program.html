@@ -1,0 +1,118 @@
+<HTML>
+<HEAD></HEAD>
+<BODY>
+<link rev="made" href="mailto:robla@eskimo.com">
+<title>Two Programs to Calculate Condorcet Winners</title>
+<h1>Two Programs to Calculate Condorcet Winners</h1>
+
+This is <a href="condorcet.pl">condorcet.pl</a> and <a
+href="condorcetcgi.txt">condorcet.cgi</a>, two programs which tally
+ranked preference ballots using Condorcet's method.  They are both
+written in Perl, and are in essense the same program with a different
+wrapper.<p> <a href="condorcetcgi.txt">condorcet.cgi</a> creates much
+more aesthetically pleasing HTML 2.0+ tables than the plain text
+output of <a href="condorcet.pl">condorcet.pl</a>.  If you want to see
+<a href="condorcetcgi.txt">condorcet.cgi</a> in action, check out <a
+href="condorcet-front.html">the working version of the program</a>.
+
+This is only the initial alpha release of this script.  It's pretty crude,
+and the documentation is pretty much the program.  This is just a release 
+for the technically inclined.  If you do decide to try it out, please let
+me know what you think.  I was going to wait until I had the time to get 
+everything documented and tested, but I would probably just wait
+forever.<p>
+
+Hopefully, there will be more user-friendly releases in the 
+near future.  I'll announce new versions here as they become 
+available.<p>
+
+
+<h2>Getting <TT>condorcet.pl</TT> To Work</h2>
+If you are unfamiliar with Perl, check for info in the following places:
+<UL>
+<LI><a href="http://www.perl.com/">Tom Christiansen's list of Perl Resources</a>
+<LI><a href="http://www.yahoo.com/Computers_and_Internet/Languages/Perl/">Yahoo's list</a>
+</UL>
+
+Perl is essentially the Swiss Army Chainsaw of scripting languages, and it runs on
+just about every operating system available.  Note, though, that this 
+script runs only with Perl version 5.<p>
+
+condorcet.pl is freely available software, licensed under
+<a href="/~robla/gplv2.txt">the GNU Public License</a>.<p>
+
+<TT>
+usage:  perl condorcet.pl [-t] <i>candidate-list ballot-list</i><p>
+</TT>
+
+Here's what it all means:
+<PRE>
+ -t    Print the raw tally table. (pair-wise election results)
+
+ candidate-list - contains a two column, comma-separated list of
+                  candidate number and candidate names.  Candidate    
+        	  numbers can be any non-negative integers of unlimited
+		  size.  For efficiency, numbering should start at zero
+	          and proceed up in increments of one, but this is not
+	          a requirement.
+
+ ballot-list -    this should be a list of ballots, one per line.  Each
+  	          line should contain a list of candidate numbers
+		  separated by commas.
+
+</PRE>
+
+ Ballots are not checked for validity, and results may be
+ unpredictable with bad input.
+<p>
+
+ Copyright 1995  Rob Lanphier<p>
+
+ This program may be copied under the terms of the GNU public
+ license, version 2.<p>
+
+Now for <a href="condorcet.pl">the script itself</a>.<p>
+
+<TABLE BORDER=2>
+  <TR>
+    <TD>
+	<a href="condorcet.html">Back to the Condorcet's Method Home
+	Page</a>
+    <TD>
+	<a href="condorcet-explain.html">Political Justification of
+	Condorcet's Method</a>
+    <TD>
+	<a href="condorcet-front.html">Interactive Demo of Condorcet's
+	Method</a>
+    <TD>
+	<a href="condorcet-tech.html">Technical Explanation of
+	Condorcet's Method</a>
+  </TR>
+</TABLE>
+
+Related sites:<br>
+<a href="http://www.igc.apc.org/cvd"><img
+src="/~robla/cpr/cvdsmall.gif" alt="The Center For Voting & Democracy"
+hspace=5 vspace=5 border=0  height=79 width =196 ></a>
+
+<a href="http://www.eskimo.com/~robla/cpr/"><img
+src="/~robla/cpr/wacprsml.gif" alt="Washington Citizens
+For Proportional Representation" hspace=5 vspace=5 border=0></a>
+
+<a href="http://www.eskimo.com/~robla">
+<img src="/~robla/littleho.gif" alt="Rob's Homepage" hspace=5 vspace=5
+border=0></a><p>
+
+<HR> <i><a href="mailto:robla@eskimo.com">robla@eskimo.com</a></i><br>
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+
+

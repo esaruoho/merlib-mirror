@@ -1,0 +1,327 @@
+Pure Mac: Extensions/MIME Type Key 
+
+ Extensions Key 
+
+ Hit your command-F keys to find the extension or MIME type you're looking for 
+
+ Name 
+ Extension 
+ MIME Type 
+ Applications 
+ Plug-ins 
+
+ AIFF 
+ aiff, aif 
+ audio/x-aiff audio/aiff 
+ SoundApp , Sound Machine , QuickTime 
+ Beatnik , QuickTime 
+
+ AVI 
+ avi 
+ video/x-msvideo video/avi video/msvideo 
+ AVI-to-QT Kit , Indeo Video Codecs , Internet Explorer , QuickTime 
+ QuickTime 
+
+ Base64 
+ mme, mm 
+ application/base64 
+ Decoder , DropStuff , MPack , YA-Decoder 
+
+ Binhex 
+ hqx 
+ application/mac-binhex40 application/mac-binhex application/x-mac-binhex40 application/binhex application/binhex4 application/x-binhex40 
+ Binhex 4.0 , MindExpander , Stuffit Expander , Stuffit Lite 
+
+ Bitmap Graphic - Windows 
+ bmp 
+ image/bitmap 
+ GraphicConverter , JPEGView , QuickTime 
+
+ Chat 
+ chat, cha 
+ application/x-chat 
+ ircle 
+
+ Compact Pro 
+ cpt 
+ application/mac-compactpro application/x-compactpro application/x-cpt 
+ Compact Pro , Stuffit Expander , Stuffit Lite 
+
+ Digital Paper 
+ dp 
+
+ Common Ground Mini-Viewer 
+
+ Director 
+ dcr, dir, dxr 
+ application/x-director 
+
+ ShockWave 
+
+ Disk Image 
+ img, image 
+
+ Disk Copy , DiskDup+ , ShrinkWrap 
+
+ DL Animation 
+ dl 
+ video/x-dl video/dl 
+ GraphicConverter 
+
+ FLI Animation 
+ fli 
+ video/x-fli video/fli 
+ GraphicConverter , QuickTime 
+
+ GIF 
+ gif 
+ image/gif 
+ GIFConverter , GraphicConverter , Jade , JPEGView , QuickTime 
+
+ GL Animation 
+ gl 
+ video/x-gl video/gl 
+ GraphicConverter , 
+
+ Gnu Zip Archive 
+ gz 
+ application/x-gzip 
+ DropStuff , Easy-GZ , MacGzip 
+
+ Hotsauce 
+ mcf 
+ image/vasa text/mcf 
+
+ ProjectX 
+
+ JPEG 
+ jpg, jpeg, jpe 
+ image/jpeg 
+ GIFConverter , GraphicConverter , Jade , JPEGView , QuickTime 
+
+ LaTeX 
+ latex 
+ application/x-latex 
+ CMacTeX , OzTeX 
+
+ LHArc Archive 
+ lzh, lha 
+ application/octet-stream application/x-lzh application/x-lha 
+ DropStuff , French Kiss , LHA Expander , MacLHa 
+
+ Live Picture 
+ ivr, wrl 
+ i-world/i-vrml 
+ RealSpace Viewer 
+ RealSpace Viewer 
+
+ Karaoke 
+ kar 
+ music/x-karaoke audio/midi 
+ Arnold's MIDI Player , Melody Assistant , QuickTime 
+
+ Macbinary 
+ bin 
+ application/octet-stream application/x-Binary application/x-macbinary application/mac-binary application/macbinary 
+ Macbinary II+ , MindExpander , Stuffit Expander , Stuffit Lite 
+
+ Macbinary iii 
+ bin 
+ application/octet-stream application/x-Binary application/x-macbinary application/mac-binary application/macbinary 
+ Macbinary III , MindExpander , Stuffit Expander 
+
+ Microsoft Word 
+ doc 
+ application/msword 
+ icWord , Microsoft Word 
+
+ MIDI 
+ mid, midi 
+ x-music/x-midi application/x-midi audio/x-mid audio/x-midi audio/midi 
+ Arnold's MIDI Player , Club MID , MIDIGraphy , Player Pro , QuickTime , SoundApp 
+ Beatnik , MIDPlug , QuickTime 
+
+ MIME/Base64 
+ mme 
+ application/base64 
+ Decoder , DropStuff , MPack , YA-Decoder 
+
+ MOD 
+ xm, mod, it 
+ audio/mod audio/x-mod audio/xm audio/it 
+ MacMOD Pro , Player Pro , QuickTime , SoundApp 
+ Beatnik 
+
+ MPEG 3 
+ mp3, m3a 
+ audio/mpeg audio/x-mpeg-3 
+ Audion , MACAST , MACAST Lite , MPEG Realtime Audio Player , QuickTime 4.x , SoundApp , SoundJam MP 
+ QuickTime 4.x 
+
+ MPEG Audio 
+ mpg, mpa, mp2, m2a 
+ audio/mpeg 
+ MACAST , MACAST Lite , MPEG Realtime Audio Player , QuickTime , SoundApp , SoundJam MP 
+ QuickTime 
+
+ MPEG Video 
+ mpg, mpeg, mpe, m2v 
+ video/mpeg 
+ QuickTime , Sparkle 
+ QuickTime 
+
+ PC Paintbrush Graphic 
+ pcx 
+ image/x-pcx 
+ GraphicConverter 
+
+ PICT 
+ pct, pict 
+ image/x-pict 
+ GIFConverter , GraphicConverter , Jade , JPEGView , SimpleText , QuickTime 
+
+ PNG 
+ png 
+ image/x-png 
+ GIFConverter , GraphicConverter , QuickTime 
+ QuickTime 
+
+ Portable Document Format 
+ pdf 
+ application/pdf 
+ Adobe Acrobat Reader 
+ Adobe Acrobat Reader 
+
+ PostScript 
+ ps 
+ application/postscript 
+ CMacTeX , Mac Ghostscript , PS2EPS+ , Transverter Pro 
+
+ PostScript Graphic 
+ eps 
+ application/postscript 
+ GraphicConverter 
+
+ PureVoice 
+ qcp 
+
+ PureVoice , QuickTime 
+
+ QuickTime 
+ qt, mov, moov 
+ video/quicktime 
+ QuickTime , Sparkle 
+ QuickTime 
+
+ RAR 
+ rar 
+ application/rar 
+ MacRAR 
+
+ RealAudio/RealVideo 
+ ra, ram, rm, rmp 
+ audio/x-pn-realaudio audio/x-pn-realaudio-plugin 
+ RealPlayer 
+ RealPlayer 
+
+ Rich Text Format 
+ rtf 
+ application/rtf text/richtext 
+ Alpha , BBEdit Lite , Your Word Processor 
+
+ ScreamTracker 3 
+ s3m 
+ audio/s3m 
+ Player Pro , SoundApp 
+
+ Self Extracting Archive 
+ sea 
+ application/x-sea application/sea 
+ Stuffit Expander or just click on the Icon 
+
+ StuffIt Archive 
+ sit 
+ application/x-stuffit application/x-sit 
+ MindExpander , Stuffit Expander , Stuffit Lite 
+
+ TeX 
+ tex, texi 
+ application/x-tex 
+ CMacTeX , OzTeX 
+
+ Text 
+ txt, text 
+ text/plain application/text 
+ Alpha , BBEdit Lite , SimpleText , TexEdit Plus 
+
+ Text to Speech 
+ spc, talk 
+ plugin/talker text/x-speech x-plugin/x-talker 
+
+ Speech Plug-in , Talker 
+
+ TIFF 
+ tiff, tif 
+ image/tiff 
+ GIFConverter , GraphicConverter , Jade , JPEGView , QuickTime 
+
+ Ulaw Audio 
+ au 
+ audio/basic 
+ SoundApp , Sound Machine 
+ Beatnik 
+
+ Unix Compress Archive 
+ Z 
+ application/x-compress 
+ DropStuff , MacCompress 
+
+ Unix Shell Archive 
+ shar, sha 
+ application/x-shar 
+ UnShar 
+
+ Unix Tape Archive 
+ tar 
+ application/x-tar 
+ DropStuff , MacTar , SunTar 
+
+ UUencode 
+ uu, uue 
+ application/uue 
+ Decoder , DropStuff , UULite , uuUndo , YA-Decoder 
+
+ VOC 
+ voc 
+ audio/voc 
+ SoundApp 
+
+ Vivoactive 
+ viv 
+ video/vnd.vivo video/vivo 
+
+ VivoActive 
+
+ VRML 
+ wrl 
+ model/vrml x-world/x-vrml 
+ MacLookat 
+ Cosmo Player 
+
+ WAV Audio 
+ wav 
+ audio/wav audio/x-wav 
+ SoundApp , Sound Machine 
+ Beatnik , MIDPlug , QuickTime 
+
+ X-Windows Pixmap 
+ xpm 
+ image/x-xpm image/x-xpixmap 
+ GraphicConverter , JPEGView 
+
+ Zip Archive 
+ zip 
+ application/zip 
+ MacZip , MindExpander , Stuffit Expander , Zip It! 
+
+ Back to the main page of Pure Mac

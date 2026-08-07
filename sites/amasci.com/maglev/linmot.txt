@@ -1,0 +1,103 @@
+http://www.eskimo.com/~billb/maglev/linmot.txt
+
+POSSIBLE MAGLEV DRIVE: LINEAR MOTOR                     1997 W. Beaty
+
+Here's a possible way to add an electrical drive motor to a model maglev
+train.  Note that I have NOT tried this myself.  It may or may not be
+difficult to build, and there may or may not be hidden problems in this
+method.
+
+Normal (rotary) DC motors are made of three parts: an outer magnet, an
+inner rotating coil, and a commutator switch.  A DC linear motor is also
+made up of three parts: a long magnetic "stator" track, a moving coil, and
+some sort of "commutator" to reverse the poles of the coil.  Linear motors
+are like normal motors which have been unwrapped and flattened out. 
+
+My "maglev cradle" device already contains electronic commutators in
+the form of hall effect switches and transistors.  It also contains coil
+electromagnets.  Therefor, it should be possible take one of the segments
+of the "levitation cradle" and morph it into a linear drive motor.  Rather
+than lifting a magnet, it will apply sideways thrust to a magnet.
+
+                                       _____________________________
+                      electromagnet   |                             |
+                        _____ n       |  drive circuit & batteries  |
+                       |     |        |_____________________________|
+                       |     |    
+                       |_____|             hall sensor
+           force <-----  |_| s          === 
+   _______________________________________________________________________
+  |  S  |  N  |  S  |  N  |  S  |  N  |  S  |  N  |  S  |  N  |  S  |  N  |
+  |_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|
+
+   Fig. 1   Central thrust track, coil, and sensor
+
+(See http://www.eskimo.com/~billb/maglev/magschem.html for more info.)
+
+In figure 1 above, we've built a "stator" track out of permanent magnets. 
+Hovering over the magnet strip is an electromagnet coil, a hall sensor,
+and the rest of the 3-transistor "magnet cradle" circuit discussed
+elsewhere. (see magschem.gif)  The position of the hall sensor chip and
+the tip of the magnet is important. The hall sensor is next to an "S" pole
+of the magnet track.  It turns the coil on, and the coil is oriented so
+its bottom pole becomes "S".  The tip of the iron core of the coil is
+between an "N" and an "S" pole of the permanent the magnet track, so it is
+attracted/repelled from right to left. 
+
+Since the coil, sensor, and battery circuitry is all riding on the
+levitated cart, the entire cart moves forward.  As the cart moves forward,
+the hall sensor moves away from the "S" pole of the track, and approaches
+the "N" pole.  This turns the coil off, then turns it back on again with
+its poles reversed.  But now the tip of the coil's iron core is between
+opposite poles of the magnet track, so the fields still force the coil to
+move from right to left.  The cart keeps moving, the sensor keeps
+switching the coil polarity, and the fields always force the cart from
+right to left. 
+
+When placed on the maglev track, the cart should take off fast,
+accelerating as it goes.  At some point the speed should level off because
+of air friction or switching speed of the coil circuit.  Battery voltage
+should control the acceleration (reduce voltage to reduce the coil current
+and the magnetic force.)  Rather than the two separate 24V power supplies
+used for the cradle device, I bet that a pair of 9v batteries would work
+OK.
+
+It might help things if you first develop your linear motor on a wheeled
+cart.  Once it is all working, you can move to the levitated car.
+
+Note that the linear motor's magnet strip is not part of the main
+levitation system.  Figure 2 below shows where it should be positioned in
+my "train.txt"  permanent magnet levitation project. 
+
+I don't know if the attraction between the drive coil and the NSNS magnet
+track will cause troubles.  It might attract the drive coil so that it
+drags along the magnets.  You'll have to experiment. If the drive coil and
+the NSNS magnets are fairly weak, then their downward pull should not
+overpower the main levitator magnets.  If they do, you might need to
+change the linear motor so the central magnet track sticks up, and two
+drive coils face it from the sides, with one coil on either side.  This
+would eliminate any vertical forces (but add some horizontal forces, as
+well as adding complexity.)  Or instead you could try removing the iron
+rod from the coil, and perhaps use a coil which is as large in diameter as
+one of the magnets in the NSNS strip.
+
+
+  side  ____            (end view)                ____  side
+  rail |    |                                    |    | rail
+       |    |      levitated cart                |    |
+       |    | __________________________________ |    |
+       |    ||__________________________________||    |
+       |    |    |_____|              |_____|    |    |
+       |    |     _____       __       _____     |    |
+     __|____|____|_____|_____|__|_____|_____|____|____|__
+    |____________________________________________________|
+                              /\ 
+                               central NSNS thrust track
+
+
+   Fig. 2    Maglev train with central thrust track
+
+
+If all of this is a bit too much to contemplate, then here's a hint:
+
+    Propellor and rubber band from a toy balsa wood airplane!

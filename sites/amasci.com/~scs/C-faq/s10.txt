@@ -1,0 +1,88 @@
+C Preprocessor 
+
+ 10. C Preprocessor 
+
+ 10.2
+I've got
+some cute preprocessor macros
+that let me
+write C code that looks more like Pascal.
+What do y'all think?
+ 10.3
+How can I write a generic macro to swap two values?
+ 10.4
+What's the best way to write a multi-statement macro?
+ 10.6
+What are .h files and what should I put in them?
+ 10.7
+Is it acceptable for one header file to #include another?
+ 10.8
+Where are header
+(`` #include '')
+files searched for?
+ 10.9
+I'm getting strange
+syntax errors
+on the very first
+declaration in
+a file,
+but it looks fine.
+
+ 10.11
+Where can I get
+a copy
+of a missing header file?
+ 10.12
+How can I construct preprocessor #if expressions
+which compare strings?
+ 10.13
+Does the sizeof operator work in preprocessor #if directives?
+ 10.14
+Can I use an #ifdef in a #define line,
+to define something two different
+ways?
+ 10.15
+Is there 
+
+anything like
+an #ifdef for typedef s?
+ 10.16
+How can I use a preprocessor #if expression to
+detect endianness?
+ 10.18
+How can I preprocess
+some
+code
+to
+remove selected conditional compilations,
+without preprocessing everything?
+ 10.19
+How can I list all of the pre #define d identifiers?
+ 10.20
+I have some old code that tries to construct identifiers with a
+macro like
+" #define Paste(a, b) a/**/b ",
+but it doesn't work any more.
+ 10.22
+ What does the message
+``warning: macro replacement within a string literal''
+mean?
+
+ 10.23
+How can I
+use
+a macro argument
+inside
+a string
+literal
+in the macro expansion?
+ 10.25
+I've got this tricky preprocessing I want to do
+and
+I can't figure out a way
+to do it.
+ 10.26
+How can I write a macro which takes a variable number of
+arguments?
+
+ top

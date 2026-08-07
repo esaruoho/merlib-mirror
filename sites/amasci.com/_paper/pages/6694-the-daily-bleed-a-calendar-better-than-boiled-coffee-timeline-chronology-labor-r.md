@@ -1,0 +1,459 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0321.htm
+order: 6694
+reachable_from_entry: false
+images: 16
+internal_links: 0
+extracted: 2026-08-07T05:59:28Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0321.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> > **Wherever I go I carry a door with me, opened or closed, depending onwhat's happening**
+> >
+> >        *David Ignatow,* "Thank You"
+
+[]()\
+[]()\
+\
+<img src="http://www.dickshovel.com/sbull.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="180" height="257" alt=" ? " />\
+--
+
+**MARCH 21**
+
+SITTING BULL\
+Visionary war chief of the Ogalala Sioux; eliminated Custer atBattle of the Little Big Horn.\
+<http://www.roadsideamerica.com/set/HISTbull.html>\
+<http://www.dickshovel.com/sittingbull.html>\
+
+
+> > 
+> >
+> > ------------------------------------------------------------------------
+> >
+> > EVERY YEAR, EVERYWHERE: END OF THE WORLD DAY.
+> >
+> > France: FESTIVAL OF THE WASHERWOMEN.
+> >
+> > Italy: MEZZAQUARESIMA, the Mid-Lenten festival, where Carnevale is a fat man & Mid-Lent a skinny old hag sometimes with seven legs for seven weeks. Young people cavort around her effigy in the streets.
+> >
+> > 
+> >
+> > NEW YEAR'S DAY: Ancient Babylonia & still is in Afghanistan & Iran (Zoroastrian Fasli calendar, since 1906).\
+> > Begins 13 days of fire- & water-jumping, masked door-to-door communal soup collections, wrestling displays, open-air kettle-drum & oboe concerts, all culminating in mass picnics on the 13th day \[Iran\]. \
+> > Forget resolutions & party down.
+> >
+> > TREE PLANTING DAY, Lesotho. 
+> >
+> > Spring equinox: days begin to outstrip nights. Picnic or evening soire, the choice is yours.
+> >
+> > First of the month of GERMINAL (budding) in the French revolutionary calendar. 
+> >
+> > Old (and fixed) date for X-tian EASTER celebrations, in order to avoid coincidence with Passover. In use between 433 & 596CE but finally proved unworkable. Nobody should work on Easter anyhow. Or any other day....
+> >
+> > 
+> >
+> > \
+> > Iran: END OF THE WORLD DAY.
+> >
+> > I ran U ran\
+> > we all ran\
+> > from Iran
+> >
+> >  a tee-shirt
+> >
+> > Visit Howard Besser's fabulous t-shirt collection, 533 of them & counting...\
+> > [http://sunsite.berkeley.edu/T-Shirts](http://sunsite.berkeley.edu/T-Shirts/)\
+> >  <http://www.spankmag.com/>\
+> >
+> > ------------------------------------------------------------------------
+
+\
+
+> > []()\
+> > \
+> > 62 -- England: Queen Boadicea \[boh-DAY-shuh\] of Iceni in eastern Britain commits suicide rather than be captured by Roman troops.
+> >
+> > > The Romans began taking over Boadicea's kingdom last year when her husband died. They publicly beat her & raped her two daughters.
+> > >
+> > > In response to this brutality, Boadicea raised an army & led a revolt against the Romans. Leading her troops into battle, Boadicea rode a chariot & wielded a sword with her daughters beside her. They sacked Colchester, St. Albans & London the three largest Roman encampments in England & annihilated the famous Ninth Legion.
+> > >
+> > > All the Romans in Britain, however, rallied to defeat Boadicea's undisciplined troops, killing thousands of her people. 
+> >
+> > []()\
+> > []()\
+> > \
+> > 1678 -- The London Gazette offers a reward to anyone who can reveal the author of An Account of the Growth of Popery, published anonymously by Andrew Marvell in 1677.\
+> > <http://history.hanover.edu/early/marvell.htm>\
+> > []()\
+> > \
+> > <img src="http://www.ozemail.com.au/~bachlogc/luten.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="124" height="169" alt=" ? " />\
+> > 1685 -- "Get Bach?": German classical composer Johann Sebastian Bach lives.\
+> > <http://www.bachplucked.com/>\
+> > []()\
+> > \
+> > 1788 -- US: Fire in New Orleans destroys 800 buildings. []()\
+> > []()\
+> > \
+> > 1804 -- French Civil code, the Code Napoleon, adopted. []()\
+> > []()\
+> > \
+> > 1843 -- Robert Southey, historian & poet laureate for 30 years, dies at Greta Hall, Keswick, England. []()\
+> > []()\
+> > \
+> > 1843 -- William Miller says the world will end on this day..... (oops!) He'll try again a few more times. []()\
+> > []()\
+> > \
+> > 1844 -- William Miller says the world will end on this day. (Ooops. Can't win them all.) Sorry, Bill, try again Y2k. []()\
+> > []()\
+> > \
+> > 1848 -- Gustaf von Numers (1848-1913) lives. Finnish playwright; his best known works were in cooperation with Kaarlo Bergbom, the central figure of Finnish theatre in the 1880s. Later Numers broke with Bergbom & wrote plays for Swedish theatres.\
+> > <http://www.kirjasto.sci.fi/gvnumers.htm>\
+> > []()\
+> > \
+> > 1851 -- US: Modern Times, an anarchist colony, founded in NY by Josiah Warren, Stephen Pearl Andrews, William G. Greene.\
+> > See "The Lemonade Ocean & Modern Times" by Hakim Bey,\
+> > <http://www.evolutionzone.com/kulturezone/bey/lemonade.ocean.and.modern.times.html>\
+> > []()\
+> > \
+> > 1853 -- US: American Labor Union founded. []()\
+> > []()\
+> > \
+> > 1857 -- Japan: A major earthquake followed by massive fires fanned by high winds all but destroys Tokyo; an estimated 107,000 die, most from the flames. []()\
+> > []()\
+> > \
+> > 1871 -- France: Proclamation of the Commune of Toulouse. []()\
+> > []()\
+> > \
+> > 1877 -- Anna Strunsky Walling lives. A family story says that because Anna was small at nine her parents misstated her age to get a cheaper ticket, hence much subsequent confusion over her real birthdate, which is today.
+> >
+> > > In her novel, The Heart's Country (1914), labor journalist Mary Heaton Vorse created a fictional character, Roberta, who concluded that women would be judged far differently than men:
+> > >
+> > > "I fancy that women will have another bar of judgment & that the question asked of us there will be: Have you loved well?" 
+> > >
+> > > For Vorse as for Anna Strunsky Walling, dancer Isadora Duncan, anarchist [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma), Mabel Dodge, & many other notable radical women of the 1910s, loving well was critical to their identity...
+> > >
+> > > [\[Details, click here\]](http://recollectionbooks.com/bleed/03ref.htm#21/1877)
+> >
+> > []()\
+> > []()\
+> > \
+> > 1891 -- A Hatfield marries a McCoy, ends long feud in West Virginia. <http://www.matewan.com/History/feuds.htm>\
+> > \
+> > []()\
+> > \
+> > 1905 -- Author Phyllis McKinley lives, Ontario, Oregon. []()\
+> > []()\
+> > \
+> > <img src="http://ourworld.compuserve.com/homepages/Andy_Graves/Moo_shoe.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="179" height="186" alt=" ? " />\
+> > 1907 -- Honduras: Marines land here during war with Nicaragua, to "protect US interests". Yup. Must be a nice place. Done it before (1903), & done going to keep going back (1911, 1912, 1919, 1982-90).\
+> > <http://www2.truman.edu/~marc/resources/interventions.html>\
+> > <http://home.clear.net.nz/pages/cpa/news/..%5Ctheory%5CUSIntervention.htm>\
+> > <http://ourworld.compuserve.com/homepages/Andy_Graves/>\
+> > \
+> > []()\
+> > \
+> > 1911 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="30" height="19" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: Scheduling problems, March 13-21, for [Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm)'s lecture series in St. Paul she holds only one meeting. []()\
+> > []()\
+> > \
+> > 1913 -- France: Emile Maurin (1862-1913) (known as Elie Murmain) dies. Militant & photographer. See the Anarchist Encyclopedia page, <http://recollectionbooks.com/bleed/Encyclopedia/MaurinEmile.htm> []()\
+> > []()\
+> > \
+> > 1914 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="30" height="19" alt="Emma Goldman, anarchist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma), the "Queen of Anarchy", addresses a demonstration of unemployed workers at Union Square in New York City; the rally is followed by a march along Fifth Avenue. This event launches a city-wide campaign of the unemployed, in which [Alexander Berkman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Berkman) takes an active role. []()\
+> > []()\
+> > \
+> > 1918 -- [<img src="http://recollectionbooks.com/bleed/images/dingbats/pixel.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="LEFT" width="1" height="1" alt="Ricardo Flores Magon, anarchist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: Mexican revolutionary [Ricardo Flores Magn](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#MagonRicardoFlores) arrested in Los Angeles, placed under \$25,000 bail. He is later convicted, under the Espionage Act for obstructing the war effort, & sentenced to 20 years imprisonment. He will die there, ostensibly at the hands of his prison guards. []()\
+> > []()\
+> > \
+> > 1919 -- Hungary: Insurrection of the Councils with the participation of anarchists in the Commune of Budapest. 
+> >
+> > > The Communists, however, seize power from the new Republic & repress the revolutionists before being swept, in their turn, at the beginning of August, by the reactionary armies of Czechoslovakia & Rumania. The latter occupy Budapest.
+> > >
+> > > The Hungarian communist revolution of 1919 has been long considered by the students of history as an important episode in the genesis of national communism. The birth of the Bela Kun regime today & its 133 day existence jolted the world.
+> >
+> > []()\
+> > []()\
+> > \
+> > 1920 -- Brazil: Segundo Congresso Operrio Estadual do Rio Grande do Sul - Na rua Comendador Azevedo, 30, dias 21 a 25 de maro.\
+> >  <http://www.thebizarrespunkrock.hpg.ig.com.br/anarquistas.htm>\
+> > <http://www.mauc.ufc.br/expo/2002/02/>\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/humor/mao.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="170" height="223" alt="?" />\
+> > 1927 -- China: New insurrection by Shanghai workers succeeds. Tomorrow Nationalist troops enter the already liberated city. 
+> >
+> > Beginning of the Shanghai Commune, which lasts until April 12 when it is crushed by Beloved & Respected Comrade Leader Chiang Kai-shek's nationalist troops (aided by Communist Russia's arms, advisors & money). 
+> >
+> > Where's Mao when you need him?\
+> > []()\
+> > []()\
+> > \
+> > 1937 -- Puerto Rico: The "Ponce Massacre", 22 Puerto Ricans killed in demonstrations for independence from US.\
+> > <http://www.boondocksnet.com/ailtexts/civillib.html>\
+> > <http://www.dnai.com/~pthomas/reviews/marcantonio.html>\
+> > \
+> > 1937 -- Spain: The anarchist Iron Column meets in assembly to vote on militarization or disbandment: it agrees to militarization.\
+> > <http://www.spunk.org/texts/places/spain/sp001780/chap1.html>\
+> > []()\
+> > \
+> > <img src="http://www.janm.org/images/manzanar.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="185" alt="?" />\
+> > 1942 -- US: The first advance groups of Japanese American "volunteers" arrive at Manzanar. The WRA would take over on June 1 & transform it into a "relocation center."\
+> >  <http://www.janm.org/clasc/chronology.htm>\
+> > \
+> > []()\
+> > \
+> > 1946 -- US: First the Schools, Then the World?: United Nations set up temporary headquarters at Hunter College, New York. []()\
+> > []()\
+> > \
+> > 1960 -- South Africa: Sharpeville Massacre, 69 people murdered by police during protests of apartheid pass laws.
+> >
+> > > The Treason Trial was in its fourth year when the shootings at Sharpeville took place on 21 March 1960. Sixty-nine Africans were killed & 176 wounded when police opened fire on an unarmed crowd. 63 were shot in the back; another 20 are killed in other towns; 13,000 people end up jailed.
+> > >
+> > > 
+> > >
+> > > Their stones were no match for Verwoerd's machine guns. Until a white man, David Pratt, did what no black man dared, & shot at the mastermind of Apartheid in South Africa, the symbol of white supremacy & all the injustices, the exploitation of native labor that had existed from the moment the white colonists had invaded the African continent. 
+> > >
+> > > Verwoerd survived...the Queen, & Prime Minister Macmillan & the leader of the Labour Party sent telegrams of sympathy to Verwoerd but not to the relatives of the victims of Sharpeville.
+> > >
+> > >   <http://www.anc.org.za/ancdocs/history/mandela/1960s/treason.html>\
+> > > <http://www.ecn.org/freedom/violenc.html>\
+> >
+> > []()\
+> > \
+> > 1961 -- The Beatles play Liverpool's Cavern Club for the first time. []()\
+> > []()\
+> > \
+> > 1962 -- A bear becomes the first creature to be ejected at supersonic speeds.\
+> > <http://www.nature-net.com/bears/brown.html>\
+> > []()\
+> > \
+> > 1963 -- US: Alcatraz, the world's most secure prison, closes. Only one man ever escaped the island in San Francisco Bay in 30 years -- only to be arrested when reaching the mainland. []()\
+> > []()\
+> > \
+> > 1964 -- Timothy Leary starts first week of solitary LSD. This spring "Newsweek" reports on Millbrook. []()\
+> > []()\
+> > \
+> > 1964 -- England: Top This? Three women found guilty of indecency for wearing topless dresses, London.\
+> > [\[Source: Calendar Riots\]](http://recollectionbooks.com/bleed/sources.htm#Riots) []()\
+> > []()\
+> > \
+> > 1965 -- US: Viola Liuzzo murdered while transporting civil rights workers after the Selma-to-Montgomery march (see 19 March). []()\
+> > []()\
+> > \
+> > 1965 -- US: Civil rights marchers from Selma head for Alabama capitol Montgomery, Alabama with Martin Luther King, Jr. among the 25,000 who participate. TWU (Transportation Workers' Union) contingent included, to support voting rights drive. They arrive on the 25th. []()\
+> > []()\
+> > \
+> > 1967 -- [Eric Burdon & the Animals](http://www.onlinetalent.com/EricBurdon_biography.html) appear at the Civic Auditorium in Frisco.\
+> > <http://www.sfmuseum.org/hist1/rock.html>\
+> > []()\
+> > \
+> > <img src="http://www.eskimo.com/~recall/bleed/images/soil0008t.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="100" height="100" alt="?" />\
+> > 1969 -- US: Proctor & Gamble Company accidentally ejects 5,000 gallons of soybean oil into the Chicago River, reducing the local percentage of dissolved oxygen (necessary for marine life respiration) to zero.\
+> > []()\
+> > []()\
+> > \
+> > <img src="http://www.bagism.com/img/john-yoko-bagism.jpg" data-hspace="10" data-vspace="10" width="140" height="120" />\
+> > 1969 -- The newly wed John Lennon & Yoko Ono begin their famous "bed-in for peace" at the Amsterdam Hilton. []()\
+> > []()\
+> > \
+> > 1969 -- US: San Francisco State College strike ends. []()\
+> > []()\
+> > \
+> > 1969 -- US: Philip Roth's Portnoy's Complaint heads fiction bestseller list; Kurt Vonnegut's Slaughterhouse-Five published. Vonnegut's calls himself an anarchist & uses black humor against the ruling class. []()\
+> > []()\
+> > \
+> > 1969 -- US: Black students exit from occupied student union building at Cornell University carrying guns. []()\
+> > []()\
+> > \
+> > 1969 -- US: Easy Rider, starring Dennis Hopper, Peter Fonda & Jack Nicholson, premieres. []()\
+> > []()\
+> > \
+> > 1970 -- US: In New York, an effigy of Gus Johnson, president of the letter carriers' union local there, is hung at a tumultous meeting where the national union leaders are called "rats" & "creeps." 
+> >
+> > > During this month a wildcat strike of postal employees, in defiance of union orders, public employee anti-strike law, & federal injunctions, spread across the country disabling post offices in more than 200 cities & towns. Only the use of thousands of National Guardsmen ended the strike, major issues of which were the projected layoff of large numbers of workers & methods of work. 
+> > >
+> > > See [John Zerzan"](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Zerzan)'s "Organized Labor versus 'The Revolt Against Work'",\
+> > > <http://geocities.com/cordobakaf/zerzan.html>\
+> >
+> > []()\
+> > \
+> > 1971 -- US: Following a high-speed chase, a Seattle, Washington police officer shoots & kills black suspect Leslie Allen Black. An inquest later finds the shooting "unjustified." Similar to a number of other killings by police during this period. []()\
+> > []()\
+> > \
+> > 1973 -- US: Watergate tapes.
+> >
+> > 
+> >
+> > > *"There's a cancer in the Presidency." John Dean informs Richard Nixon.*
+> > >
+> > > The Trickster inquires: How much money do you need?
+> > >
+> > > Dean: I would say these people are going to cost a million dollars over the next two years.
+> > >
+> > > Trickster: We could get that ... you could get a million dollars. And you could get it in cash. I, I know where it could be gotten . . .
+> >
+> >  By recording this, the billiant lawyer & Beloved & Respected Comrade Leader Dick M Nixon provided the evidence needed for Article I of Impeachment: Obstruction of Justice. Not to mention creating one of the top ten mescaline comedy tapes of all time.
+> >
+> > > "I love the Nixon stamp because I can spit on both sides."
+> >
+> > \
+> > []()\
+> > []()\
+> > \
+> > 1977 -- US: Menomonee activists take over courthouse in Kenosha, Wisc., demanding authorities investigate the beating of two women. []()\
+> > []()\
+> > \
+> > 1980 -- US: 550 women gather at Amherst, Massachusetts, for Women & Life on Earth Conference. []()\
+> > []()\
+> > \
+> > 1981 -- West Germany: Demonstrations erupting into violence involving young people most in sympathy with squatters angry with authority, in 19 cities.\
+> > <http://www.eskimo.com/~recall/bleed/1003b.htm#1990>\
+> > <http://www.notbored.org/squatworld.html>\
+> > \
+> > <img src="http://goodfelloweb.com/layabouts/images/nmfront.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="200" height="197" alt="?" />\
+> > 1981 -- US: The useless & lazy anarchist band, The Layabouts takes form, Highland Park, Detroit, Spring, 1981, the Colorado House...
+> >
+> > 
+> >
+> > > "...You get a shiver in the dark itsa rainin' in the park in the meantime..."
+> > >
+> > > A bleary-eyed Alan Franklin was staggering down the stairs into the kitchen, preparing for another days onslaught of work & wondering if Stephen Goodfellow had left any food in the refrigerator....
+> >
+> > \
+> >
+> > > 'Cause next to the fatherland, God is the best\
+> > >  Excuse there is for killin' the rest\
+> > >  God, & country, & patriotism\
+> > >  Social-, commun-, & capital-ism\
+> > >  With nation-states & legal borders\
+> > >  & hoards of soldiers awaiting orders\
+> > >  Civilization has tamed the beast\
+> > >  With outposts of progress in West & East\
+> > >  In Falklands, Afghanistan, Kurdistan too\
+> > >  Poland, El Salvador & Timbuktu\
+> > >  With Regan & Begin at Sabra & Shatilla\
+> > >  The state is God & the state is a killer!
+> > >
+> > >  Ah, but there's hope yet...
+> > >
+> > >  'Cause governments die!\
+> > >  Yeah, governments die!\
+> > >  Governments die I'm not talking only 'bout\
+> > > some of them\
+> > > Governments die I mean every single one ofthem
+> > >
+> > >  "Governments Lie"
+
+<http://goodfelloweb.com/layabouts/index.html>\
+<http://goodfelloweb.com/layabouts/Songs/govlie.html>\
+
+\
+[]()\
+\
+1985 -- South Africa: During funeral march for 3 killed in Sharpeville memorial demo, South African police kill 19 more. []()\
+[]()\
+\
+1988 -- Franois-Charles Carpentier dies. French militant anarchist, friend of Louis Mercier Vega & fighter with the Durruti Column. See the Anarchist Encyclopedia page,<http://recollectionbooks.com/bleed/Encyclopedia/CarpentierFrancois.htm>\
+[]()\
+[]()\
+\
+1990 -- Namibian Independence Day. (or yesterday?) []()\
+[]()\
+\
+1990 -- England: Ploughshares Two disable U.S. F-111 bomber, Upper Heyford. []()\
+[]()\
+\
+1991 -- Fender Bender?: The man who invented the electric guitar, Leo Fender dies.
+
+
+
+> "While the question of who designed the first successful solid-body guitar is still being debated,..."
+>
+> Here are a couple of other nominees.
+>
+> Les Paul, inventor, guitarist, & all-around good guy (though I must admit I like Chet Atkins' picking a lot better).
+>
+> An also-ran for popularity, but neck-&-neck with Fender & Gibson/Les Paul for making early electric instruments, is Rickenbacker (wait 'till you see the blonds on this site!):<http://www.provide.net/~cfh/rick.html>\
+> & from the manufacturer: <http://www.rickenbacker.com/us/history.htm>
+>
+>  GuitarMeister Ben,\
+> <http://www.mindspring.com/~benbradley/>\
+> <http://www.rockhall.com/>\
+
+[]()\
+\
+1995 -- Cutting Edge?: The state of Mississippi ratifies the 13th amendment to the US Constitution outlawing slavery. []()\
+[]()\
+\
+1995 -- South Africa: On the anniversary of the Sharpeville Massacre, newly elected democratic government establishes today as Human Rights Day. []()\
+[]()\
+\
+1996 -- France: Conference on La Culture Libertaire begins in Grenoble, March 21st to 23rd, with over 30 sessions (some parallel) running from 9am to 7pm for three days.\
+<http://tao.ca/ainfos/A-Infos96/4/0029.html>\
+[]()\
+\
+<img src="http://www.shaftagents.com/skullgun.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="193" height="115" alt="?" />\
+1996 -- 2003: Iraq: US begins concerted bombing & missle attack of western Baghdad.
+
+> Beloved & Respected Comrade Leader Secretary of Defense continues the administration's "spin", attempting to cloak the Bush administation's long-planned effort to kill Saddam, in platituninous phrases about "democracy," "liberation," "weapons of mass destruction," "the defense of America". 
+>
+> The price of oil drops, SUV owners & the executives of oil companies & others who will soon move into Iraq seize control of Iraq's economic assets (read: "rebuilding") rejoice, & Wall Street stocks soar.
+
+[]()\
+
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/humor/armyexam.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="62" height="236" alt="?" />\
+3000 --
+
+> "Social theorists have tried many definitions of human nature: human beings are the animals that make tools, that laugh, that play. I have another:
+>
+> Human-beings are history-makers. We eternally make our present by looking backwards. We present ourselves by expressing a significant past. To know us in our history is to know who we are."
+>
+> 
+>
+> Greg Dening, Performances
+>
+> []()\
+
+[]()\
+\
+<img src="http://www.eskimo.com/~recall/bleed/images/abes2.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" data-="" width="150" height="100" alt="?" />\
+3500 -- []()\
+
+[]()\
+
+------------------------------------------------------------------------
+
+anti-CopyRite 1997-3000, more or less\
+Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+or send questions, suggestions, additions, corrections to:\
+[BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+
+Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+
+The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+
+anarchist, labor, radical books
+
+See also: Anarchist Encyclopedia\
+http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+Stan Iverson Memorial Library\
+http://recollectionbooks.com/siml/\
+Anarchist Time Line / Chronology\
+http://recollectionbooks.com/bleed/indexTimeline.htm

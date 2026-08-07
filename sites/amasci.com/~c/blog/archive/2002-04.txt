@@ -1,0 +1,606 @@
+C.M. Connelly: Blog: Archive for April, 2002 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ Blog: Archive for April, 2002 
+
+ April 1, 2002 (Mon) 
+
+ Feeling pretty ill today. Read Structures . Slept.
+Spent some time this afternoon and again this evening dealing with
+some of the licensing stuff. RMS is involved now. 
+
+ April 2, 2002 (Tue) 
+
+ Still slogging away on the licensing stuff, but I was able to put
+together a status report. I've also been talking with Thomas Esser
+(the &#8220;te&#8221; in &#8220;teTeX&#8221;), and it turns out that RMS 
+thinks that the LPPL is a free license, which is good
+enough for me. 
+
+ More 
+on Steve Mann .
+
+ Via Slashdot . 
+
+ The Guardian on Philip
+Pullman winning the Whitbread for The Amber Spyglass .
+
+ Via Locus . 
+
+ Even better! The &#8220;Left Alone&#8221; series . (The real
+thing is a major seller here, which is a pretty serious sign that this
+is a Bad Place.&trade;) 
+
+ April 3, 2002 (Wed) 
+
+ I'm hobnobbing with the greats now. ;-) Yet another mention in DWN ... 
+
+ Best guarantee ever: 
+
+ The Meta-CVS Guarantee 
+
+ If you are not fully satisfied with Meta-CVS for any reason, simply
+change to your installation directory and type &#8220;rm mcvs*&#8221;. Your disk
+space will be promptly refunded. No questions asked (unless you use rm
+-i, of course). 
+
+ ( Meta-CVS 
+actually looks interesting. I've been wondering if I want to tinker
+with Subversion , but
+Meta-CVS offers some of Subversion's advantages without having to
+learn a dramatically different way of doing things. I'll probably
+just stick with CVS, though.) 
+
+ April 4, 2002 (Thu) 
+
+ Spent the morning upgrading a Virtual PC Debian install to woody, in
+part to check the upgrade path for the tetex-* packages,
+and in part because I wanted a VPC woody image. 
+
+ I spent most of this afternoon playing with Illustrator, trying out
+various possibilities for a personal letterhead. The next step is to
+make it work in LaTeX. 
+
+ April 5, 2002 (Fri) 
+
+ Spent all day fighting with the Bourne shell to try to find a
+workaround for an annoying release-critical teTeX bug. Basically, the
+ FHS 
+says that (1) you can't mess with /usr/local/ , beyond
+creating directories under some major directories there, and (2) you
+can't write anything to /usr/ . (1) wasn't
+really a problem, as we only create directories under major
+directories, which is okay by the FHS and Debian Policy. But (2)
+turned out to be more complicated. 
+
+ Every night, a cron job runs to rebuild the ls-R files
+that the kpathsea stuff uses to find files quickly. As
+it was, the tetex-bin cron job just ran
+ mktexlsr , a Bourne shell script that generates an
+ ls-R file for each directory in the TEXMF 
+path. On Debian systems, that usually means
+ /usr/share/texmf/ , /var/spool/texmf/ , and
+ /usr/local/{lib,share}/texmf/ . I spent some time trying
+to hack the mktexlsr script before giving up. Later,
+when I talked to M about it, she asked whether I could just modify the
+cron job, which I had thought of, but forgotten about in my initial
+rush of enthusiasm about tinkering with mktexlsr . So
+that's what I did. Future releases of Debian's teTeX packages will no
+longer attempt to create an ls-R file for any directory under
+ /usr/local/ unless the systems administrator edits the
+ /etc/cron.daily/tetex-bin file to allow it to do so. 
+
+ That was my unfun Friday. 
+
+ April 6, 2002 (Sat) 
+
+ We bought another switch/gateway router device, this one with wireless
+support. We didn't really need one of these, but given the general
+flakiness of Apple's Airport (which, you may recall, crashes the USB
+speakers if we happen to be playing music with iTunes and using the
+wireless network), it seemed like a good idea to not be dependent on
+the Airport card in the G4. Plus we thought we'd end up with several
+additional switch ports, which doesn't seem to be working out as well
+as we'd hoped. 
+
+ Alas, the manufacturers of these little SOHO units don't seem to have
+taken into account the idea that you might want to hook two of them
+together, and switch off their firewall/gateway software on one of
+them. So I think we've only picked up one port. 
+
+ Also annoying was the fact that we bought the thing from CompUSA. I
+always forget how much I hate that place (where they often want to
+search customers to be sure they haven't stolen anything). Much to my
+annoyance, they asked me for ID, and when I asked why, they fed me the
+line about how it was &#8220;for [my] protection&#8221;. Which, of course, it
+isn't. If someone steals my card, it will cost me&#8212;at most&#8212;$50.
+I would gladly trade $50 for not having various businesses tell me
+that they think I might be a criminal. 
+
+ Finally got a chance to work on the letterhead thing again, which was
+kind of fun. After much tinkering, I ended up with a pretty close
+approximation of what I'd put together in Illustrator. 
+
+ April 8, 2002 (Mon) 
+
+ Fighting with Earthlink most of the morning. Their authentication
+machines and DNS servers have been really flaky for the last couple of
+weeks, leading to our longest downtime since the first day. Annoying,
+but if you're reading this entry, things must have started working
+again, at least for a little while.... 
+
+ Hmm. Up long enough to download some mail, but gone again before I
+could update my blog (or send any mail).... 
+
+ April 9, 2002 (Tue) 
+
+ Just put up a temporary
+placeholder page for M's new course. 
+
+ April 10, 2002 (Wed) 
+
+ Slashdot has yet another
+article about Star Wars , spurred this time by an article 
+in Salon , a site I
+used to read quite often. 
+
+ Among the comments was a pointer to a followup 
+to an earlier 
+ Salon article by David Brin, wherein he took Lucas to
+task for his (in Brin's opinion) trumpeting of the power and glory of
+aristocracy. 
+
+ I love bashing Lucas as much as anyone, and The Phantom
+Menace was one of the worst movies I've ever sat through (I
+started laughing hysterically when Obi-Wan's master was cut down in a
+scene that could almost have been shot from the original Star
+Wars script), but I have to admit to having been intrigued by
+the trailer we saw when we saw Blade II . (Yeah, yeah, I
+know, my credibility is gone now, right?) 
+
+ Anyway, that trailer made the film actually look interesting&#8212;probably because, instead of just showing CG spaceships flashing by
+each other and Jedi Knights bumping lightsabers, it featured snatches
+of conversations&#8212;the Jedi council expressing concern about the
+developing political situation, a debate in the Senate, a heated
+discussion in a hallway&#8212;followed by CG spaceships and dueling Jedi.
+The implication was that this movie has a plot&#8212;things happen, and
+people care, and people try to influence them. Whether or not that
+aspect of things will actually seem significant in terms of the whole
+movie, of course, remains to be seen. 
+
+ I just ordered the Savage Republic CDs I mentioned a while back (on February 16 ), and have been chatting
+with Ethan Port, who was the main guy in the band, and also runs mobilization.com . It turns
+out, to my disappointment, that the CD releases of
+ Ceremonial were instrumental only. The vinyl copy I
+bought back in 1986, of course, has lyrics, and it was mainly the
+memory of one of those songs that made me decide to buy the CDs. Oh,
+well&#8212; caveat emptor , as they say in corporate offices. 
+
+ Apprently Ethan's working on getting the other people from the band to
+approve a &#8220;bootleg&#8221; release of the version with lyrics, so maybe
+I'll have them again someday after all. 
+
+ April 12, 2002 (Fri) 
+
+ So, here's a dream for you... 
+
+ Segue from a dream involving mutant children revolting
+against their government and gathering in a mall/underground tunnel
+complex, which ends with the children choosing between leaving on one
+last train or staying, with the sounds of gunfire beginning to echo
+through the tunnels into M and I contemplating a grave at the edge of
+a road. We exchange some South Park -style insults about
+which of us might be buried there someday, I make a comment about the
+tree growing out of the grave that's right on the edge of the road,
+and then we wander away from the road toward the white suburban house
+at the end of the driveway. 
+
+ Our attention is drawn back to the road when a small white car
+driven by a woman with a man in the passenger seat has just stopped
+directly in front of an old, orangey-tan Jeep Cherokee, which squeals
+to a halt. The woman leans out of her window and asks whether the
+other driver is all right. 
+
+ &#8220;I'd be better if I wasn't havin' to stand on my brakes, Darlin'!&#8221;
+the man calls. Behind him, I see a SouthWest Airlines passenger jet
+descending rapidly toward the mountains&#8212;it seems to be falling,
+then regains control, then begins tumbling again. 
+
+ The man in the Cherokee glances at his wrist, shakes his arm, says,
+&#8220;Damn! Now my watch has stopped!&#8221; I look at my watch. It isn't
+working, either. 
+
+ I curse, thinking of our computers running&#8212;or not&#8212;in the house
+behind us. I whisper, &#8220;EMP.&#8221; 
+
+ M touches my arm, drawing my attention back to the sky. A small
+airplane is having trouble, too. I look higher, take her hand.
+Hundreds of planes of all sizes are beginning to appear, tumbling out
+of control. 
+
+ &#8220;At least we'll die,&#8221; M says, and we lie down on the grass to watch
+the 'planes come closer and closer.
+
+ The radio comes on. 
+
+ In other news, there's a new New Order single, &#8220;Here to Stay&#8221; out.
+Apparently this is the much rumored Chemical Brothers collaboration.
+You can find the video on the evil FHM site via a link from worldinmotion .
+(The video is also available from the Get Ready 
+site, but only in Real and Windows Media Player formats. FHM has a
+(downloadable) QuickTime file.)
+
+ Thanks to Andrew , for drawing my attention to
+the fact that there is a new single. 
+
+ The new Iain Banks book, Dead Air , is due out in the UK
+in September. It's a 384-page &#8220;thriller&#8221; from Little, Brown
+according to the sum total of information I could find out about it
+(basically, Amazon.co.uk ), as
+all the Banks sites are dead. 
+
+ Hey, cool. You can opt
+out of DoubleClick ad tracking by having their site install a
+&#8220;blank&#8221; cookie. Whether or not you actually trust them not to do
+something else evil, well, that's up to you.
+
+ Via Zeldman . 
+
+ After looking at Rebecca's
+page , I noticed she had a link in her to-do list called &#8220;weblog
+monitor ping form&#8221;. What's that? , I wondered, and followed
+ the link myself. 
+
+ Turns out that what she was talking about was modifying whatever tool
+she uses to maintain her blog to let Dave Winer's weblogs.com know when she'd
+updated. Hmm , I thought. I could do that, too.... 
+
+ So I have. Now, anyone who cares about such things can see when I've
+updated my site by monitoring http://www.weblogs.com/ .
+No doubt there are various keen features that people can use to have
+that information appear on their own sites, or in their browsers&#8212;that's up to you. 
+
+ Since I was writing a Perl script anyway, I generalized it to replace
+all of the various Bourne shell scripts I have to publish the several
+sites I maintain. It now reads from a single configuration hash of
+hashes, fills in various variables, and renders, fixes permissions,
+and publishes changed pages to the appropriate remote site. The next
+step is to put the configuration data into its own file, and then to
+implement some command-line options to specify the site to publish and
+be able to specify or override some settings. 
+
+ Fun, fun, fun! 
+
+ To be honest, most of the work was getting the rendering and
+publishing stuff working&#8212;I was able to adapt some code from an
+example file included with the SOAP::Lite Perl
+module (packaged for Debian GNU/Linux as
+ libsoap-lite-perl ). 
+
+ Weblogs.com has some other implementations, as well, including one
+using LWP ,
+and one using its own Perl
+module . (The last site also has a JavaScript bookmarklet for your
+browser.) 
+
+ April 13, 2002 (Sat) 
+
+ We saw Panic
+Room today. The best part of the film was the titles&#8212;names and positions floating against the New York skyline, aligned
+with the surface of buildings, reflected in their windows. 
+
+ The rest, however, was only okay while the movie lasted. Post-theatre
+discussion with your partner, friends, or perfect strangers makes the
+film's flaws exceedingly obvious. I can't say anything really nasty
+without spoiling the film, and while I generally don't care about that
+(my take on things is that they shouldn't depend on a shocking twist
+that makes it impossible to discuss the work without ruining it for
+someone who hasn't read or seen it), I'm not even sure it's worth it. 
+
+ I was stuck by the way that it seemed to have been made for
+television, complete with fades to black at convenient places. I'm
+not even sure it would work all that well on television, though,
+because what little suspense does build would be dissipated by the
+time you got back from the bathroom or kitchen. 
+
+ Oh, and the audience was lame, too. It's amazing how many incredibly
+slow people feel they need to announce their discoveries to the whole
+crowd (well after everyone else has figured out what was happening, of
+course). 
+
+ Do yourself a favor&#8212;skip this one, and rent The Game 
+or Fight Club . You won't be sorry. 
+
+ April 14, 2002 (Sun) 
+
+ Today we saw an infinitely superior film, Frailty .
+Real suspense, real emotion, real acting. Powerful stuff. 
+
+ What if God sent an angel to you who told you that God needed you to
+destroy some demons for Him? Demons that looked like ordinary people.
+And that you'd have to get your children involved? 
+
+ No nonsense from this audience. A couple of people walked out fairly
+early on, the rest were stunned into silence. 
+
+ The film plays out slowly and deliberately. There's plenty of time
+for you to think about what's being said and what you're seeing. Time
+to feel scared for the kids. Time to feel scared for the
+ victims . 
+
+ And lots to think (and talk) about after the film, as well. 
+
+ Recommended. 
+
+ April 15, 2002 (Mon) 
+
+ Finally got my letterhead working. Woo-hoo! 
+
+ April 16, 2002 (Tue) 
+
+ Infrequently Asked
+Questions . 
+
+ April 17, 2002 (Wed) 
+
+ The Covers Project tracks chains
+of cover versions. I added a few obscurities, though I'd probably be
+able to find more if I dug out my records. Fun stuff!
+
+ Via Andrew . 
+
+ In order to apply for a job, I spent most of the day going over my r&eacute;sum&eacute; , updating and reformatting it. Shiny new versions
+are now available, if you're interested. 
+
+ April 19, 2002 (Fri) 
+
+ In a bit of a slump, here. Sorry. 
+
+ I started rereading &#8220; Stephen Bury's &#8221;
+ The Cobweb . Sometimes, when you're depressed, familiar
+fiction is a great escape. Sometimes familiar fiction you've
+forgotten most of is even better. 
+
+ Anyway, The Cobweb seems, sadly, apropos yet again. It's
+a conspiracy potboiler in which the Iraqis attempt to cook up some
+biological death for America right in America's heartland. 
+
+ Ex-site-ment: I changed the background color (icier, I think,
+reflecting my mood), and also spent a little while tinkering with the
+code that generates the calendars on the archive pages. (You had
+noticed those, right?) 
+
+ I think they look better now, and are a bit more informative, as well. 
+
+ Graham has redesigned again,
+and it's pretty sexy. 
+
+ April 21, 2002 (Sun) 
+
+ Oldies but goodies&#8212; xyWrite . I
+remember people using this &#8220;text processor&#8221; back when I worked in
+the safety department. Scary stuff at the time&#8212; vi 
+meets Emacs meets WordPerfect. 
+
+ My birthday is rapidly approaching. Yeck. 
+
+ April 22, 2002 (Mon) 
+
+ Eblen Mogen ( FSF 's attorney) on Enforcing
+the GPL .
+
+ Via Slashdot . 
+
+ Salon explains
+ Mulholland Drive .
+
+ Via Andrew . 
+
+ Bruce Sterling's CFP
+speech , in which he disses the Mouse, that Dell dope, Microsoft,
+and corporate copyright creeps. 
+
+ Not that this is likely to be a big surprise for anyone, but a Deep
+Space Nine movie is &#8220;unlikely&#8221; , according to Ira Steven
+Behr, one of the producers. 
+
+ April 23, 2002 (Tue) 
+
+ Excerpts
+from an interview with Tim Powers that appeared in the February,
+2002, issue of Locus . 
+
+ Some people (and institutions) are astoundingly stupid. Suppose you
+have some services that you offer to a group of people. Suppose that&#8212;in order to &#8220;save money&#8221; and &#8220;allocate resources to your
+`primary community'&#8212;you offer a more limited set of services to
+spouses of members of the first group. If you're an idiot, you can
+kid yourself that you are somehow preventing the members of the second
+group from taking advantage of the full range of services available to
+the first group. But only if you're an idiot. 
+
+ Sobe does Yoo-Hoo : Love Bus
+Brew . (It's actually pretty good, and you can't get Yoo-Hoo in
+this benighted land.) 
+
+ April 24, 2002 (Wed) 
+
+ </modesty> 
+
+I have been the bug-fix goddess over the last couple of days, combing
+over the bugs open against Debian's tetex-* packages and
+closing old ones, forwarding ones that needed to be forwarded, asking
+for more information where necessary, and just generally working the
+BTS for all it's worth. 
+
+ Not only that, but I fixed three bugs in CVS, and uploaded new
+versions of two of my own packages. 
+
+ To quote Lester Burnham, &#8220;I rule !&#8221;
+
+ <modesty> 
+
+ April 25, 2002 (Thu) 
+
+ Somewhere down the road, after we buy a house, we'll probably be
+buying a washing machine. M will, no doubt, be glad to see this
+thread , in which people enthuse about European front-loading
+washing machines. (I got to see one in action when we stayed with her
+parents&#8212;slower, but the clothes were very clean, and the machine
+was very, very quiet.)
+
+ Via Rebecca's
+Pocket . 
+
+ Also from Rebecca ,
+it turns out that they never stopped making Space Food Sticks in
+Australia, and someone's
+selling them ! I don't know, though, $17.95 for 24 or $10 for a
+dozen still seems like a lot of money. Although I might grab them if
+I saw them in a store, so.... 
+
+ April 27, 2002 (Sat) 
+
+ Spent the entire day rewriting the rules file for the
+ tetex-base source package. It should be much cleaner and
+easier to understand than the old one, which will, I hope, make it
+easier for us to adjust which files end up in which packages. 
+
+ April 28, 2002 (Sun) 
+
+ I met with Biella Coleman today, an anthropology grad student at the
+University of Chicago who's doing her dissertation on the free
+software movement. She's travelling around and interviewing Debian
+developers, hoping to end up with between forty and fifty by the time
+she's ready to sit down and start writing. 
+
+ The interview was a lot of fun, not least because I got a chance to
+rant about all sorts of things that M and my immediate family are
+tired of hearing about (free software and Debian, of course, but also
+the degenerative state of the culture today, intellectual property
+rights and nastiness, evil corporations, architecture, and more). 
+
+ Claremont was looking particularly fine, as the sun was shining
+brightly but it was just a bit cool and breezy. Sadly, this weather
+won't last much longer. 
+
+ April 29, 2002 (Mon) 
+
+ Apple announced some new toys
+today, although not really anything I'd be terribly interested in. 
+
+ While the TiBook is sexy, everything I've heard about it makes me
+leery about actually owning one. The new feature the new machines
+have that makes them a bit more attractive is the ability to hook them
+up to one of Apple's LCD monitors. 
+
+ I think I'll wait for something as tough as the iBook with the same
+features as the current TiBook. Meanwhile, the desktop machine is
+just fine. 
+
+ April 30, 2002 (Tue) 
+
+ Apparently your chance to sign the Deep Space Nine movie/miniseries
+petition ends tomorrow, as they're planning to send it on May 1.
+Go and sign it! 
+
+ A fantastic news
+piece on John Kristensen, letterpress printer, and his Firefly
+Press. Amazingly cool.
+
+ Via Lines & Splines . 
+
+ Our technology today is impenetrable. Almost everything is done in
+software, controlling minute bursts of electricity that often only
+manifest themselves in a brief burst of output, itself rendered by
+bursts of electricity guided by magnetic fields to make a glass screen
+glow. 
+
+ Even when a machine is mechanical, its workings are usually hidden&#8212;sheathed inside steel, aluminum, or plastic, or tucked away in a
+factory. 
+
+ Our artifacts are all about smoothness. Aerodynamic fairings covering
+the messy reality. &#8220;Excess&#8221; decoration has been stripped away.
+Buildings are sheer glass walls with little connection to the people
+who use or build them. Interior surfaces are manufactured sheetrock&#8212;paper-covered gypsum&#8212;installed to be as smooth as possible.
+Ornamentation is rare, and often crude. 
+
+ We've lost something. Maybe something important. Maybe not. But if
+things continue, we may never be able to get it back. Much like
+masons puzzling over the formulation of Roman concrete during the
+middle ages, exactly how many forms of craftwork was done has been
+lost. 
+
+ newer entries | older entries 
+
+ Activity 
+
+ << 
+ April, 2002 
+ >> 
+
+ Mo 
+ Tu 
+ We 
+ Th 
+ Fr 
+ Sa 
+ Su 
+
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+
+ 29 
+ 30 
+
+ More Archives... 
+ September, 2002 
+ August, 2002 
+ July, 2002 
+ June, 2002 
+ May, 2002 
+
+ more... 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 12:24 AM PDT, Sunday, September 8, 2002; last rendered at 
+ 12:24 AM PDT, Sunday, September 8, 2002 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

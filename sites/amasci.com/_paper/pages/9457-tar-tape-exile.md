@@ -1,0 +1,131 @@
+---
+title: "Tar tape exile"
+source_domain: amasci.com
+source_path: ~wakemup/thinktankz.html
+order: 9457
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T06:01:59Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Tar tape exile
+
+*Source page: `~wakemup/thinktankz.html`*
+
+?BACK  0UT!
+
+    >
+       I started losing all thought control 
+        when alone for nine hours 
+         in a Terminal effects lab.
+     
+           LA  killed.  
+        Yes.  I lost my voice. 
+         No point to singing in
+          deaf red herrings' scales.
+     
+    .I became a full blown agora/xenophobe.
+
+    (graveyards at 52 degrees do that..)
+
+     I was talking too much in person 
+    to compensate the aloneness of work, 
+    causing people to leave me alone.
+
+    This produced compound isolation... 
+
+    kind of like zip within a zip  
+    within a zip of a cor.dump
+
+    My life became a series of back-ups.. 
+
+            Candy
+             Apple
+              Red
+         Car falling ...
+        flame encoded implosions
+        of smiley face hit....
+    fake people.
+     in fake plane..
+      watching fake sunset...
+       having a fake dialog....
+
+    ... with no fake sound...
+
+         just-
+       the hissing. 
+    of a SGI ONX series II named Karen,
+     who was busy beta testing me.
+       
+        ...worse yet... 
+         with no image.
+           Just type.
+
+     All type in quote brackets.
+
+    "ls-L_ /clip/film" hit enter key
+     { from now on referred to as  (k) }
+
+    " mkdir_*"(k) (if *=anything I want)
+
+      "df-k"or "STATS" (k) LOOK. then type
+     "cd /j*" 
+    (if *=hit shift 8::anything Onx finds first)
+
+    ((^....yes. the actual unix commands were aliased..^))
+    (((^so that every Typing command I was taught...^)))
+    ***WOULD BE USELESS TO ME WHEN I FINISHED***
+    ........sigh......
+
+      pull up host window, 
+    type "getclip_F_*_  / ".....
+
+    etc. Back me up on this data.
+
+    Aye, Arr, Gee. 
+
+        I started HIRING people
+     to transcribe conversations
+     that I'd have with myself 
+     by calling my message machine at home
+     while waiting for KAREN 
+    (and her forbearing cousins...
+    my only true companians) 
+         to complete work.
+
+    ..I started writing stuff like this. 
+
+    >(^ Back-ups don't take up the slack in my head..
+    gotta do SOMEthing
+    while staring into myopic utopialand.).
+
+    unix bks are soooo000ooo....text oriented!
+        aye.are.gee .ARG!
+
+    I need to escape this:
+
+     cd /tv/windoworldwhorlowind
+     >&Life.LESSnest  $
+
+    I want to look 
+    THROUGH windows, 
+    but my innereyes 
+    can't stand 
+    the light of daze
+     breakining against 
+     the wind anymoral.
+
+    ..Looks like my frustration of 
+    no waccom access is 
+    shoveling sovilethings...
+
+    ::pointCliking is such sweat sorrow.
+    no planes in here but one. click. esc.
+
+    P.S.  is this mail thing
+     all .wri file for you, or what?  .wps ?
+                tank loads.
+              .blipper innert eyes have it.
+    skNOw!

@@ -1,0 +1,8 @@
+Index of /~roger/files/scripts 
+
+ Index of /~roger/files/scripts 
+ Name Last modified Size Description 
+
+ Parent Directory 19-Jan-2005 17:13 - 
+ gc82con.sh 17-Jan-2005 12:06 8k 
+ gc82sig.sh 06-Sep-2004 09:02 1k

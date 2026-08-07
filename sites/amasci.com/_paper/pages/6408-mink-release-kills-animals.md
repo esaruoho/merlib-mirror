@@ -1,0 +1,51 @@
+---
+title: "Mink release kills animals"
+source_domain: amasci.com
+source_path: ~rarnold/mink_release_kills_animals.htm
+order: 6408
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T05:59:13Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mink release kills animals
+
+*Source page: `~rarnold/mink_release_kills_animals.htm`*
+
+FUR COMMISSION USA PRESS RELEASE, AUGUST 25, 2003\
+\
+Terrorists Strike Washington Family Farm\
+\
+(See also: [http://seattletimes.nwsource.com/html/localnews/2001615032_webmink26m.html](http://seattletimes.nwsource.com/html/localnews/2001615032_webmink26m.html%22%3E%22Sultan)
+
+Note: the figure of 5,000 reported in the Seattle Times is erroneous. The figure of 10,000 cited below is correct.)\
+\
+Sultan, Washington: Eco-terrorists attacked a small mink farm in Snohomish County, Washington early today, releasing and abandoning over 10,000 domesticated mink from their pens at Roesler Brothers Fur Farm in Sultan.\
+\
+Along with a "small army" of 50 neighbors, farmers and retired farmers, Frank Candelario of American Legend Cooperative and Doug Kelly of the American Mink Council, the marketing cooperatives of North American mink farmers, worked side by side catching mink as temperatures reached almost 90 degrees.\
+\
+Frank reported that it was "intense" and "I was very impressed with everyone working hard." The "small army of people" caught mink in the thick brushy trees and on the farm while paramedics helped the workers deal with cuts and bites.\
+\
+Another crew worked cleaning pens of the old feed since the mink had been let out and abandoned before they'd eaten their feed that morning. Yet more neighbors brought food and drinks to fuel the crews.\
+\
+Brothers Brad and Jeff Roesler run the farm along with their families, raising mink for use in cold-weather clothing, oils and other products. "I got people helping catch mink that I don't even know," said Brad Roesler, visibly moved by the kindness of his neighbors.\
+\
+Candelario reported that it was the farmers' goal was to get the mink into their pens and well fed, "with a healthy dose of feed, to get them calmed down and into their routine."\
+\
+By 6 p.m., about the time the Animal Liberation Front admitted guilt for the crime, about two-thirds of the traumatized mink were bedded down for the night and the farm workers took their first breath of the day. The next morning they would start again.\
+\
+The attack on the mink farm is estimated at over \$500,000 in damages, including the loss of genetic history for the animals.
+
+The latest terrorist strike continues an expensive month for the West. On Aug. 1, an arson attack on a San Diego apartment construction site caused \$50 million in damages. This was followed on Aug. 21 by a \$1 million arson at an automobile dealership in West Covina, Los Angeles.
+
+"Obviously eco-terrorists are on a road trip doing damage in Western States," stated Teresa Platt, Executive Director of Fur Commission USA, which represents mink farmers in 28 states. "We urge people to stay alert. Everyone who relies on the Earth and its animals to live is a potential target. That's all of us."
+
+Platt added, "We'd like to thank all the good neighbors who helped recover the mink, and ask people to call us at 619-575-0139 if they find a lost mink. They should also use care since the mink will be scared, hungry and thirsty, and it might bite."
+
+**FAIR USE NOTE: In accordance with U.S. Copyright Law as codified in Title 17 U.S.C. section 107, any copyrighted material herein is displayed without profit or payment for non-profit research and educational purposes only. It is posted here only after a commercial purpose of any copyright holder has been satisfied, and complies with fair use clauses of the U.S. Copyright Act. For more information go to: <a href="http://www.law.cornell.edu/uscode/17/107.shtml" style="text-decoration: none">http://www.law.cornell.edu/uscode/17/107.shtml</a>**
+
+**<a href="ecoterror.htm" style="text-decoration: none">RETURN TO ECOTERROR TOP PAGE</a>**
+
+**<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**

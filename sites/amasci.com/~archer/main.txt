@@ -1,0 +1,108 @@
+WE7U's Home Pages 
+
+Click on the GPS or Mapping links to the left for
+a LOT of links that may be of interest.
+
+My FTP site (see the link to the left) includes:
+
+Coordinate.pm: Perl module for earth datum translations
+
+GCC-2.81 patches for the Motorola MC68HC11 processor
+
+A GCC library for the MIT Handyboard
+
+Richard Cochran's DGPS software
+
+Perl GPS decoder program (runs on DOS and Linux so far)
+
+Perl aprsd.pl program (APRS server software)
+
+A few screenshots of the Xastir APRS program with
+topo map support added in.
+
+Also see
+
+Stephane Carrez' GCC-2.95 port for the HC11 
+
+(looks pretty complete).
+
+ Ham's might try 
+ Akula Technologies Web Page ,
+ QRZ.com , the
+ UCSD FTP Site , the
+ Boston ARC , the
+ Ham Radio and More Site ,
+ Bode.EE.Ualberta.Ca , the
+ Ottowa Amateur Radio Club , or the
+ Satellite TV Page for amateur
+radio-related software. The FCC web site can be obtained through the Satellite Page
+as well (look for "Other Web Servers"). 
+ Motorola's Web Site is experimental, but possibly
+useful to the electronics enthusiast. Here is the
+ Mobile Computing Site . 
+ Ve4umr.Ampr.Org .
+ JNOS FTP Site .
+ Marshall.Com . 
+ Pc.Usl.Edu . 
+ Hpcos.Col.Hp.Com . 
+ Mojo.Ots.Utexas.Edu . 
+ Ftp.Njit.Edu .
+
+ Click here for more amateur radio links. 
+
+ For linux files : Try
+ Red Hat Linux ,
+ Sunsite Archive and
+ MIT's Archive . The
+ Slackware FTP Site contains the complete Slackware distribution of Linux, which I used for a long time. I am currently using the Red Hat version of Linux, which I highly recommend. The latest Linux kernel patches can be found in
+ Linus Torvald's Directory in Finland. For the Linux enthusiast who is also into amateur packet radio, try the
+ AX.25 Kernel Patches Site . For the latest Windows Emulator (Wine) for Linux, try the
+ WINE Site . For the DOS Emulator for Linux, go to the
+ DOSEMU Site . Another good site for Unix software is
+ Ftp.Uu.Net .
+
+ Click here for more Linux links. 
+
+ For DOS/Windows software or games , try the
+ Happy Puppy game site, 
+ Apogee Site (games),
+ Washington University Archive (lots of stuff),
+ Cica.Indiana ,
+ Oak.Oakland (includes mirror of SIMTEL20),
+ Oregon State University (good site, lots of mirrors),
+ Novell ,
+ Microsoft , or
+ Digital Equipment Corp .
+
+ Miscellaneous sites :
+ Woodstock Info ,
+ Main Eskimo Home Page ,
+ WWW Addressing Info ,
+ Style Guide for Hypertext Mark-Up Language (HTML) ,
+ Style Guide 2 for HTML ,
+ HTML FAQ ,
+ Music Site ,
+ MIDI Site ,
+ Caving Stuff at Yale ,
+ Electronic Books at Wiretap ,
+ Mosaic RGS ,
+ NCSA Mosaic ,
+ Cornell ,
+ CERN WWW Site ,
+ Writing Site , and the
+ CERN Httpd Server Site .
+ Archie Search . Log in as "archie".
+ Lynx Home Page .
+ FAQ FTP SITE ,
+ List of Mail-Order Electronic Companies ,
+ PC Hardware FAQ .
+ Latest HP Printer Drivers .
+ Latest Packet Drivers 
+ Packet Driver FAQ .
+ List of Internet Service Providers. .
+
+ Local Libraries :
+ Washington State Public Libraries Online ,
+ King County Library (login as "kcls"),
+ Seattle Public Library (login as "library"),
+ University of Washington Library .

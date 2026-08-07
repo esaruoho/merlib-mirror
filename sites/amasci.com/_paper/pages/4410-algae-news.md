@@ -1,0 +1,260 @@
+---
+title: "Algae News"
+source_domain: amasci.com
+source_path: ~ksh/algae/news.html
+order: 4410
+reachable_from_entry: false
+images: 1
+internal_links: 1
+extracted: 2026-08-07T05:57:30Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Algae News
+
+*Source page: `~ksh/algae/news.html`*
+
+# Algae News for January 2002
+
+------------------------------------------------------------------------
+
+## What's Happening
+
+From a development standpoint, Algae is coming out of a three-year hibernation. During that time, however, Algae was used a great deal and on several very interesting aircraft and spacecraft projects. When I finally got a breather from work last month, I dusted off the source code and started in on some of the improvements I've been wanting to make.
+
+Algae is now hosted on [SourceForge](http://sourceforge.net/projects/algae). They provide a wealth of support, including mailing lists. (The old Algae mailing lists from [Eskimo North](http://www.eskimo.com/) were shut down last year when spammers took them over.)
+
+------------------------------------------------------------------------
+
+## What Needs Doing?
+
+Naturally, there are many improvements I'd like to make:
+
+- Algae should incorporate the [ARPACK](http://www.netlib.org/arpack/) sparse eigenvalue routines. This will be a bit of work, but pretty straightforward. I consider this a high priority.
+- We should consider using the [SuperLU](http://www.nersc.gov/~xiaoye/SuperLU/) sparse linear solvers.
+- Algae's FFT routines are old and crusty, but they work well. Still, we ought to take a look at the [FFTW](http://www.fftw.org/) code and consider using it.
+- The **atan** and **atanh** functions need improvement for complex arguments. They are based on simple formulas, but better algorithms are available that are faster, more accurate, and less prone to overflow.
+- In the old days, getting Readline to do context-based completion (as on variable names) was nearly impossible. This may have changed -- we ought to take a new look at it.
+- The **printf** and related functions should be given additional capabilities to accept array arguments.
+- I'm interested in exploring a better arrangement for the help system. Users should be able to tie in documentation for their own code.
+- With the **builtin** function, Algae has dynamic linking capability. To make this useful, though, we have to document the interface and reorganize the header files.
+- Wouldn't a [GTK+](http://www.gtk.org/) interface be nice?
+- We need to complete the **fread** and **fwrite** implementation and we'll probably want an **fseek** function as well.
+
+------------------------------------------------------------------------
+
+## Recent Releases
+
+Below is a digest of recent Algae releases. A complete record is distributed with Algae in the NEWS file.
+
+**Version**
+
+**Date**
+
+**Type**
+
+**Description**
+
+3.6.2
+
+11/1/01
+
+patch
+
+Minor installation improvements.
+
+3.6.1
+
+10/26/01
+
+patch
+
+Improved the logical operations to do a much better job at maintaining sparsity. New standard function "select".
+
+3.6.0
+
+10/11/01
+
+minor
+
+Changes to matrix bandwidth minimization code, and new "equilibrate" function. Added other new functions, and fixed deficiencies in the "transform" function.
+
+3.5.2
+
+9/19/01
+
+patch
+
+Fix errors involving hermitian symmetry.
+
+3.5.1
+
+9/14/01
+
+patch
+
+Configuration accommodations for AIX, and fix for obscure matrix multiplication bug.
+
+3.5.0
+
+8/31/01
+
+minor
+
+Added "short-circuit" logical operators && and \|\|. Use floating point exception support from glibc 2.2 on Linux. Numerous other improvements, and several minor bug fixes.
+
+3.4.0
+
+5/1/98
+
+minor
+
+New assignment operators: \*=, /=, @=, and %=.
+
+3.3.6
+
+4/1/98
+
+patch
+
+Various configuration improvements.
+
+3.3.5
+
+3/3/98
+
+patch
+
+Improved the "umin" function; now it can pass parameters to the objective function. Also improved configuration for HP-UX 10.
+
+3.3.4
+
+10/21/97
+
+patch
+
+Fixed a bug introduced in version 3.3.3, involving the "provide" and "require" functions.
+
+3.3.3
+
+10/18/97
+
+patch
+
+Standard user functions are now pre-compiled. This makes startup much faster.
+
+3.3.2
+
+10/5/97
+
+patch
+
+New "-x" command line option causes algae not to read stdin by default when no file names are given on the command line.
+
+3.3.1
+
+9/25/97
+
+patch
+
+New "-R" and "-n" command line options.
+
+3.3.0
+
+9/2/97
+
+minor
+
+Better support for "site" files. The "src" and "require" functions now look in ~/algae and /usr/local/lib/algae/site/A (by default), unless overridden by the ALGAE_SRC_PATH environment variable.
+
+3.2.9
+
+8/4/97
+
+patch
+
+Improvements in the "info" function.
+
+3.2.8
+
+7/28/97
+
+patch
+
+Improved EOF handling in "fread", and a few minor bug fixes.
+
+3.2.7
+
+7/24/97
+
+patch
+
+Minor bug fixes.
+
+3.2.6
+
+6/25/97
+
+patch
+
+New "char" function and faster "get" and "put".
+
+3.2.5
+
+5/13/97
+
+patch
+
+Fixed a serious bug in the "improved" sorting.
+
+3.2.4
+
+5/9/97
+
+patch
+
+Previously, Algae had used a "heap sort" algorithm for sorting vectors. It turns out that it was extremely inefficient when the vector contained many duplicate elements. Now we use quicksort.
+
+3.2.3
+
+5/2/97
+
+patch
+
+Algae now catches SIGQUIT and makes a clean exit.
+
+3.2.2
+
+4/25/97
+
+patch
+
+This patch release fixed an installation problem that affected users lacking a Fortran compiler.
+
+3.2.1
+
+3/28/97
+
+patch
+
+Added float (4-byte real number) capability to the `fread` and `fwrite` functions. A few minor bugs were also fixed.
+
+3.2.0
+
+2/21/97
+
+minor
+
+This is the first release of Algae. Previously, it was called Alki.
+
+3.0.0
+
+5/9/96
+
+major
+
+Among other things, a significant syntax change was adopted.
+
+------------------------------------------------------------------------
+
+[<img src="icon.gif" data-border="0" data-align="middle" /> Algae Home](index.html)

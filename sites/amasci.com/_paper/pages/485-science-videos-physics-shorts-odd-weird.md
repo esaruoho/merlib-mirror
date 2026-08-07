@@ -1,18 +1,18 @@
 ---
 title: "Science videos physics shorts: odd & weird"
 source_domain: amasci.com
-source_path: physvids/5.html
+source_path: physvids/6.html
 order: 485
 reachable_from_entry: true
 images: 3
 internal_links: 0
-extracted: 2026-08-03T18:12:20Z
+extracted: 2026-08-07T05:53:44Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # Science videos physics shorts: odd & weird
 
-*Source page: `physvids/5.html`*
+*Source page: `physvids/6.html`*
 
 <table data-summary="nav links, google search window" width="100%">
 <colgroup>
@@ -57,12 +57,11 @@ extractor: site_to_paper.py (pandoc)
 <tbody>
 <tr>
 <td style="text-align: left;" width="180" data-valign="top" data-summary="google ad"><img src="http://amasci.com/graphics/vertstr7.gif" data-align="right" />
-<pre><code></code></pre>
 <pre><code></code></pre></td>
 <td data-summary="spacer" width="25"> </td>
 <td data-valign="top" data-summary="bizarre science videos" width="660"><h1 id="odd-physics-video-archive">ODD PHYSICS VIDEO ARCHIVE<br />
 </h1>
-<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/6.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/9.html">...9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   <a href="http://amasci.com/physvids/6.html">6</a>   5   <a href="http://amasci.com/physvids/4.html">4</a>   <a href="http://amasci.com/physvids/3.html">3</a>   <a href="http://amasci.com/physvids/2.html">2</a>   <a href="http://amasci.com/physvids/1.html">1</a>   <a href="http://amasci.com/physvids/4.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
+<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/7.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/10.html">...10</a>   <a href="http://amasci.com/physvids/9.html">9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   6   <a href="http://amasci.com/physvids/5.html">5</a>   <a href="http://amasci.com/physvids/4.html">4</a>   <a href="http://amasci.com/physvids/3.html">3</a>   <a href="http://amasci.com/physvids/2.html">2...</a>   <a href="http://amasci.com/physvids/5.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
 </p>
 <br />
 &#10;<hr />
@@ -77,8 +76,8 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Long a mystery, we now know that <a href="http://www.google.com/search?q=singing+sand">flowing sand</a> forms<br />
-a sound amplifier. Strumming the bass Qatar (sorry.)
+When draining a tank from below, it's wise to allow air to<br />
+enter from above
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -93,7 +92,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-A tornado without dust ...unless entire trees count as "particles."
+A dust-devil ...using giant dust!
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -108,7 +107,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-The sun is a miasma of incandescent plasma.
+Remember "<a href="http://amasci.com/freenrg/ideas.html#blimp">rotating blimps hovercraft?</a>" Here's the airplane version
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -123,8 +122,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Thunderstorm sprites supposedy "dance." Above we can<br />
-see the effect in action.
+Flying car, also <a href="http://www.youtube.com/watch?v=XFEOctt9-UE">Mythbusters' version</a>
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -139,7 +137,56 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Power failure? Kids with sticks.
+<a href="http://en.wikipedia.org/wiki/Steganography">Steganogram</a> image encoded in frequency. The shy Richard<br />
+James shows his "Face." (long)
+<pre><code>
+&#10;</code></pre>
+<br />
+&#10;<hr />
+<div class="iframe">
+<div id="player">
+&#10;</div>
+<div class="player-unavailable">
+<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
+<div class="submessage">
+JavaScriptin suoritus ei onnistu.
+</div>
+</div>
+</div>
+<br />
+Hovering amateur LOX rocketships (long)
+<pre><code>
+&#10;
+</code></pre>
+<hr />
+<div class="iframe">
+<div id="player">
+&#10;</div>
+<div class="player-unavailable">
+<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
+<div class="submessage">
+JavaScriptin suoritus ei onnistu.
+</div>
+</div>
+</div>
+<br />
+Visible sound waves during concert: synchronized cellphone flashes (long)
+<pre><code>
+&#10;
+</code></pre>
+<hr />
+<div class="iframe">
+<div id="player">
+&#10;</div>
+<div class="player-unavailable">
+<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
+<div class="submessage">
+JavaScriptin suoritus ei onnistu.
+</div>
+</div>
+</div>
+<br />
+Automated music from 1906: The 'Telharmonium' (long)
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -154,7 +201,10 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-The *other* secret banned NASA tape of zero-G fun
+Plasma in your microwave oven. Besides carbon fiber, also try<br />
+leads from mechanical pencils. Also try charred toothpicks<br />
+atop burning candles. Any salt grains stuck to the glass<br />
+ceiling will give intensely bright yellow light.
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -169,7 +219,9 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-HTSC superconductor puck on a track of neodymium magnets
+Generators generators generators. And induction motors.<br />
+Westinghouse plant, 1904. It's why Tesla was a millionaire.<br />
+See <a href="https://www.loc.gov/collections/films-of-westinghouse-works-1904/">film collection</a>, Lib. of Congress
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -184,7 +236,8 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-OK-GO's rube goldberg machine (long)
+Weird "convection" effect of fluidized beads in a rotating<br />
+container
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -199,7 +252,8 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Classic vid of mach-1 shock wave
+The speed of sound in glass (speed of the cracks) is much<br />
+faster than the speed of sound in air.
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -214,28 +268,16 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Exploratorium museum "Kundt's Tube" forms nonlinear walls of styro beads
+<a href="http://amasci.com/amateur/sundog.html">Thunderstorm, plus sundogs</a>, equals mysterious moving<br />
+lights in sky. Watch closely, you can see the lights flick<br />
+suddenly, then slowly shift as the e-field again builds up<br />
+before the next lightning. Also <a href="http://www.youtube.com/watch?v=1IAGE9f0K1Q">another</a>. It only takes<br />
+10v/inch to align the suspended ice crystals.
 <pre><code>
 &#10;</code></pre>
 <hr />
-<div class="iframe">
-<div id="player">
-&#10;</div>
-<div class="player-unavailable">
-<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
-<div class="submessage">
-JavaScriptin suoritus ei onnistu.
-</div>
-</div>
-</div>
-<br />
-Giant underground drill craft works better aboveground
-<pre><code>
-&#10;</code></pre>
-<hr />
-<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/6.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/9.html">...9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   <a href="http://amasci.com/physvids/6.html">6</a>   5   <a href="http://amasci.com/physvids/4.html">4</a>   <a href="http://amasci.com/physvids/3.html">3</a>   <a href="http://amasci.com/physvids/2.html">2</a>   <a href="http://amasci.com/physvids/1.html">1</a>   <a href="http://amasci.com/physvids/4.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
+<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/7.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/10.html">...10</a>   <a href="http://amasci.com/physvids/9.html">9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   6   <a href="http://amasci.com/physvids/5.html">5</a>   <a href="http://amasci.com/physvids/4.html">4</a>   <a href="http://amasci.com/physvids/3.html">3</a>   <a href="http://amasci.com/physvids/2.html">2...</a>   <a href="http://amasci.com/physvids/5.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
 </p>
-<br />
 <br />
 &#10;<table data-summary="google ad">
 <tbody>

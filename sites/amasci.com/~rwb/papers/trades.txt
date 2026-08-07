@@ -1,0 +1,13 @@
+In this paper we focus on the representation of Steiner trades
+of volume less than or equal to nine and identify those for which the
+associated partial latin square can be decomposed into six disjoint
+latin interchanges.
+
+1 950 935
+Bean, Richard(5-QLD-DMM); Donovan, Diane(5-QLD-DMM); 
+Khodkar, Abdollah(5-QLD-DMM); Penfold Street, Anne(5-QLD-DMM)
+Steiner trades that give rise to completely decomposable Latin interchanges. 
+(English. English summary)
+11th Australasian Workshop on Combinatorial Algorithms (Hunter Valley, 2000).
+International Journal of Computer Mathematics 79 (2002), no. 12, 1273--1284.
+05B15

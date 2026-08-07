@@ -1,0 +1,32 @@
+Browse Tree 
+
+ Browse Tree 
+
+Browse provides an overview of the hypertext nodes and how they are linked
+by displaying a tree
+structure. You can move around the tree with the mouse or the navigation
+keys. A node in the
+tree can be selected. In this manner the user can "drill down" on the area
+of interest. A forward
+browse is invoked when pressing F1 from a window displaying hypertext. 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+[ Home ]
+[ Decision Tree ] 
+[ Deep Knowledge ]
+[ Acknowledgements ]
+[ Map ] 
+
+http://www.eskimo.com/~mighetto/lsbtree.htm client side map; last update
+March 23, 2001
+
+

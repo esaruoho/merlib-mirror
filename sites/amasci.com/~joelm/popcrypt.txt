@@ -1,0 +1,34 @@
+Popular Cryptography 
+
+ Practical Attacks
+on PGP (new as of 8/09/97) 
+
+ The Complete,
+Unofficial TEMPEST Information Page ( new as of 3/03/98 )
+
+ Something Wicked
+this Web Comes - Web hacking revealed ( new as of 1/07/97 )
+
+ Junk E-mail Filter
+Clearinghouse - SPAM filters for popular e-mail apps (new as of
+6 /09/97 )
+
+ Private Idaho 
+- version 2.8b3 now with source code ( updates on 32-bit versions -
+ new as of 3/04/98 )
+
+ Building a CryptoBook 
+( new CryptoBook 98 - as of 2/27/98 )
+
+ Due to other projects, Popular Cryptography 
+ will be irregularly updated, even more so 
+ than in the past. For current, up-to-date 
+ information on PGP and remailers and 
+ crypto and privacy, I recommend 
+ Francis Litterio's
+site and 
+ Arnoud "Galactus"
+Engelfriet's site . 
+
+ copyright 1996, 1997, 1998 Joel
+McNamara

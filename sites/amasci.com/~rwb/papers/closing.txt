@@ -1,0 +1,13 @@
+2001f:05030 05B15
+Bean, Richard(5-QLD-DMM); Donovan, Diane(5-QLD-DMM)
+Closing a gap in the spectrum of critical sets. (English. English summary)
+Australas. J. Combin. 22 (2000), 191--200.
+-------------------------------------------------------------------------------
+Summary: "In 1998 D. Donovan and A. Howse [Australas. J. Combin. 21 (2000),
+107--130; MR 2000m:05041] proved that for all $n$ there exist critical sets of
+order $n$ and size $s$, where $\lfloor n\sp 2/4\rfloor\leq s\leq (n\sp 2-n)/2$
+with the exception of the case $s=n\sp 2/4+1$ when $n$ is even. In this paper
+we present a construction for this case, where $n\geq 6$, based on the
+discovery of a critical set of size 17 for a Latin square of order 8. This
+verifies that there does exist a critical set of order $n$ and size $n\sp 2/
+4+1$ when $n$ is even."

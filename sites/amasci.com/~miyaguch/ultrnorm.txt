@@ -1,0 +1,91 @@
+Ultra Test Norms 
+
+ Ultra Test Results 
+ Maintained by Darryl Miyaguchi 
+ Last updated: June 10, 1997 
+ Ronald Hoeflin reports: 
+ &#160;As of July 1, 1996, 33 people have attempted the Ultra Test. Their scores, on a scale of 0 to 72 
+(with verbal problems counting one point and nonverbal problems counting two points, with half a 
+point for slightly incorrect verbal answers), were as follows: 
+
+ 9 34 51 
+ 14 36 52 
+ 16 36 59 
+ 17 37.5 62 
+ 27 38 62.5 
+ 28 41 64.5 
+ 30 43.5 65 
+ 30 45 67 
+ 30 47.5 68 
+ 30.5 49.5 68 
+ 34 50 68 
+
+ The median score (50th percentile) was 41 and the mean score was 42.74, or rounded off 43. There 
+were 79 usable scores from previous tests reported, yielding 79 pairs of scores, the other half of each 
+pair being the score achieved above on the Ultra Test. I arranged each group of 79 scores in 
+numerical order from lowest to highest, smoothed the rough edges a bit, and arrived at the following 
+norms for the Ultra Test. IQ's are based on a normal distribution curve and 16 IQ points per 
+standard deviation. Some extrapolation and interpolation was required, of course, to arrive at these 
+results. 
+ &#160; 
+
+ Raw 
+score I.Q. %ile Raw 
+score I.Q. %ile 
+ 1 100 50 37 143 99.6 
+ 2 102 55 38 144 99.7 
+ 3 104 60 39 144 99.7 
+ 4 106 65 40 145 99.8 
+ 5 108 69 41 145 99.8 
+ 6 110 73 42 146 99.8 
+ 7 112 77 43 146 99.8 
+ 8 114 81 44 147 99.8 
+ 9 116 84 45 147 99.8 
+ 10 118 87 46 148 99.87 
+ 11 119 88 47 148 99.87 
+ 12 120 89 48 149 99.89 
+ 13 121 90 49 149 99.89 
+ 14 122 92 50 150 99.9 
+ 15 123 92 51 150 99.9 
+ 16 124 93 52 151 99.9 
+ 17 125 94 53 151 99.9 
+ 18 126 95 54 152 99.9 
+ 19 127 95 55 152 99.9 
+ 20 128 97 56 153 99.95 
+ 21 129 97 57 153 99.95 
+ 22 130 97 58 154 99.96 
+ 23 131 97 59 155 99.97 
+ 24 132 98 60 156 99.98 
+ 25 133 98 61 158 99.985 
+ 26 134 98 62 160 99.99 
+ 27 135 99 63 162 99.995 
+ 28 136 99 64 164 99.997 
+ 29 137 99 65 166 99.998 
+ 30 138 99 66 168 99.999 
+ 31 139 99 67 170 99.9994 
+ 32 140 99 68 172 99.9997 
+ 33 141 99 69 174 99.9998 
+ 34 142 99.5 70 176 99.9999 
+ 35 142 99.5 71 178 99.9999 
+ 36 143 99.6 72 180 99.99997 
+
+ &#160; 
+ Regarding the last five problems in the Ultra Test, the spatial sequences, the performance of the 33 
+participants, when they are divided into the top eleven scorers, the middle eleven scorers, and the 
+bottom eleven scorers on the test as a whole, looked like this: 
+ The top eleven scorers had a 64 percent success rate (i.e., they solved a total of 35 right out of 55 
+attempted problems) 1 , the middle eleven scorers had a 25 percent success rate (i.e., they solved a 
+total of 14 problems out of 55), and the bottom third had a success rate of 16 percent (i.e., they were 
+successful a total of 9 times out of 55 attempted problems). 
+ For problem 50, the top eleven all successfully solved the problem; the middle eleven were successful 
+7 times out of 11; and the bottom eleven were successful 5 times out of 11. 
+ For problem 51, the top eleven were right 4 times out of 11; the middle third were successful 2 times 
+out of 11; and the bottom third were successful 1 time out of 11. 
+ For problem 52, the top third were successful 9 times out of 11; the middle third were successful 5 
+times out of 11; and the bottom third were successful 2 times out of 11. 
+ For problem 53, the top third were successful 4 times out of 11; the middle third were successful 0 
+times out of 11; and the bottom third were successful 0 times out of 11. 
+ And for problem 54, the top third were successful 7 times out of 11; the middle third were successful 
+0 times out of 11; and the bottom third were successful 1 time out of 11. 
+ 1 That is, the top 11 in overall score averaged 3.2 correct on the last five problems. -- DTM 
+ Return to the Uncommonly Difficult I.Q. Tests page.

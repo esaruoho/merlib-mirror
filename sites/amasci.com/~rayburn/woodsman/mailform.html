@@ -1,0 +1,100 @@
+<HTML>
+<HEAD>
+  <TITLE>Email the Woodsman Guy</TITLE>
+<SCRIPT>
+<!-- Hide from older browsers
+function StartForm() {
+//	document.WRITEME.refer.value=document.referrer;
+   	document.WRITEME.FirstName.focus();
+
+}
+
+function CheckData(){
+	var email=document.WRITEME.mailfrom.value;
+	if (email!="") {
+
+
+      return true;
+   	} else {
+      	alert("Email address is a required field.");
+		document.WRITEME.mailfrom.focus();
+  	    return false;
+   	}
+}
+//Stop hiding -->
+</SCRIPT>
+
+</HEAD>
+
+<BODY onload="StartForm();" BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080" ALINK="#FF0000" >
+
+<H3>Email Bob Rayburn - the Woodsman guy</H3>
+I welcome feedback and conversation. I read every message (except spam), and try to answer every one, but requests for value estimates will generally be ignored. Such requests have nearly overwhelmed me in the past, so that I could not keep up with other feedback and conversation. I understand that Woodsman owners want to know how much their gun is worth, and I have tried to help in the past. I carefully qualified my estimates with "In the condition you describe", "Assuming all original finish," "Assuming all original parts," then the value would range from $xxx to $XXX, only to later see the gun for sale at the top end of my estimate, without any of the caveats, and with "Price based on appraisal by Woodsman Collector Bob Rayburn!"
+<P>
+
+The value of a collectible gun depends very much on the exact condition and on all parts and finish being factory original. Since these factors cannot be determined without a "hands on" examination, it would be irresponsible to attempt to estimate value without examining the item in question. I recommend Stephen Fjestad's "Blue Book of Gun Values" for value determination. The latest edition of the Blue Book can be ordered by calling 1-800-877-4867, or it can be found at most any gun shop and many public libraries. There are also some general guidelines for value determination in my Colt Woodsman Pocket Guide at: <A HREF="cwpginfr.html#FACTORS">Value Factors</p></A>
+<P>
+This is a private web site. I am a serious collector of the Colt Woodsman, but I am in no way affiliated with Colt Firearms, Inc. I do not have access to the factory records or to the history of any particular firearm.
+<P> 
+
+
+
+
+
+<FORM NAME=WRITEME ACTION="http://cgi.eskimo.com/cgi-bin/mailback" METHOD="POST" ENCTYPE="application/x-www-form-urlencoded" onSubmit="return CheckData();">
+
+<INPUT TYPE="HIDDEN" NAME="mailitto" SIZE="-1" VALUE="rayburn@colt22.com">
+<INPUT TYPE="HIDDEN" NAME="subject" SIZE="-1" VALUE="web page mail">
+<INPUT TYPE="HIDDEN" NAME="namefrom" SIZE="-1" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="emailaddr" SIZE="-1" VALUE="">
+<input TYPE="HIDDEN" NAME="refer" SIZE="-1" VALUE="">
+
+<TABLE BORDER=0>
+<TR>
+	<TD WIDTH=10%><B>First Name:</B>
+	</TD>
+	<TD COLSPAN=3><INPUT NAME=FirstName SIZE=15> 
+       <B>Last Name:</B> <input type=text name=Lastname size=15 value="" onChange="this.form.namefrom.value=this.value;">
+	</TD>
+</TR>
+<TR>
+   	<TD VALIGN=TOP><B>Comments:</B>
+	</TD>
+   	<TD COLSPAN=3>
+	<TEXTAREA ROWS=14 COLS=70 NAME=Comments WRAP=VIRTUAL ></TEXTAREA>
+	</TD>
+</TR>
+<TR>
+	<TD><B>E-mail Address:</B>	</TD>
+	<TD COLSPAN=3 ><input type=text name=mailfrom size="15"  
+onBlur="this.form.emailaddr.value=this.value;" >
+<FONT COLOR=RED>(REQUIRED)</FONT>
+
+	</TD>
+</TR>
+
+<TR>
+   	<TD COLSPAN=4><HR></TD>
+</TR>
+<TR>
+<TD COLSPAN=2>Add me to the Woodsman email list:</TD>
+<TD><INPUT type="radio" name="MLIST" value="Yes" checked>Yes<BR>
+<TD><INPUT type="radio" name="MLIST" >No<BR>
+<TD>
+</TR>
+<TR>
+   <TD COLSPAN=4 ALIGN=CENTER>
+
+   <INPUT TYPE=SUBMIT VALUE="Click to send mail">
+   <INPUT TYPE=RESET VALUE="Click to cancel or reset">
+   </TD>
+</TR> 
+</TABLE></CENTER>
+</FORM>
+
+
+
+<HR>
+<P><SMALL>Modified on ... Aug 9, 2000</SMALL></P>
+</BODY>
+</HTML>

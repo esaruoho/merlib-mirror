@@ -1,0 +1,375 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+  <TITLE>
+    JBM - Equations - Runge Kutta
+  </TITLE>
+  
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+
+  <STYLE TYPE="text/css">
+    BODY { BACKGROUND: #FFFFFF; COLOR: #000000 } 
+    A:LINK { COLOR: #3333FF }
+    A:VISITED { COLOR: #666699 }
+    A:ACTIVE { COLOR: #CC00FF }
+    A:HOVER { COLOR: #FF3366 }
+  </STYLE>
+
+  <LINK REL="SHORTCUT ICON" HREF="http://www.eskimo.com/~jbm/graphics/jbm.ico">
+
+</HEAD>
+
+<BODY>
+
+<CENTER>
+  <TABLE>
+    <TR>
+      <TD><A HREF="../bibliography/bibliography.html">[Bibliography]</A>
+      <TD><A HREF="../calculations/calculations.html">[Calculations]</A>
+      <TD><A HREF="../downloads/downloads.html">[Downloads]</A>
+      <TD><A HREF="../equations/equations.html">[Equations]</A>
+      <TD><A HREF="../faq/faq.html">[FAQ]</A>
+      <TD><A HREF="../index.html">[JBM]</A>
+      <TD><A HREF="../links/links.html">[Links]</A>
+      <TD><A HREF="../mpm/mpm.html">[MPM]</A>
+      <TD><A HREF="../pm/pm.html">[PM]</A>
+      <TD><A HREF="../personal/personal.html">[Personal]</A>
+      <TD><A HREF="../software/software.html">[Software]</A>
+  </TABLE>
+</CENTER>
+
+
+<HR>
+
+<H1>
+  JBM - Equations - Runge Kutta
+</H1>
+
+<P>
+  Most anybody that has done numerical integration is familiar with 
+  Runge Kutta methods.  The most common being the fourth order 
+  integration equations.  But, the equations for simultaneous 
+  differential equations are generally not presented so I've put them here.
+</P>
+
+<P>
+  I'm not trying to teach Runge Kutta methods here, just present
+  the equations for those familiar with numerical integration 
+  methods.  If this is "greek" to you, take a look at any number
+  of books on numerical methods.
+</P>
+
+<H2>
+  General Runge Kutta Methods
+</H2>
+
+<P>
+  I'm presenting the common second, third and fourth order equations 
+  here for completeness.  You should be able to find them just about
+  anywhere.  These were taken from <CITE>Handbook of Mathematical
+  Functions</CITE> (see below).  NOTE: there are other equations
+  for the Runge Kutta method, usually differing by constants.  I'm 
+  not claiming that these are the only methods or even the best.
+</P>
+
+<P>
+  All equations are for single integration step of the function y = F(x,y)
+  over a step size of h.
+</P>
+
+<CENTER>
+  <TABLE>
+    <TR><TH>
+      Second order
+    <TR><TD>
+      y<SUB>n+1</SUB> = y<SUB>n</SUB> + 
+        ( k<SUB>1</SUB> + k<SUB>2</SUB> ) / 2 + O( h<SUP>3</SUP> )
+    <TR><TD>
+      k<SUB>1</SUB> = h F( x<SUB>n</SUB>,y<SUB>n</SUB> )
+    <TR><TD>
+      k<SUB>2</SUB> = h F( x<SUB>n</SUB> + h,y<SUB>n</SUB> + k<SUB>1</SUB> )
+  
+    <TR><TH>
+      Third order
+    <TR><TD>
+      y<SUB>n+1</SUB> = y<SUB>n</SUB> + 
+      1/6  k<SUB>1</SUB> + 2/3  k<SUB>2</SUB> +
+      1/6  k<SUB>3</SUB> + O( h<SUP>4</SUP> )
+    <TR><TD>
+      k<SUB>1</SUB> = h F( x<SUB>n</SUB>,y<SUB>n</SUB> )
+    <TR><TD>
+      k<SUB>2</SUB> = h F( x<SUB>n</SUB> + h/2, y<SUB>n</SUB> + k<SUB>1</SUB>/2 )
+      <TR><TD>
+      k<SUB>3</SUB> = h F( x<SUB>n</SUB> + h,
+        y<SUB>n</SUB> -k<SUB>1</SUB> + 2 k<SUB>2</SUB> )
+  
+    <TR><TH>
+      Fourth order:
+    <TR><TD>
+      y<SUB>n+1</SUB> = y<SUB>n</SUB> + 
+        1/6  k<SUB>1</SUB> + 1/3  k<SUB>2</SUB> +
+        1/3  k<SUB>3</SUB> + 1/6  k<SUB>4</SUB> + O( h<SUP>5</SUP> )
+    <TR><TD>
+      k<SUB>1</SUB> = h F( x<SUB>n</SUB>,y<SUB>n</SUB> )
+    <TR><TD>
+      k<SUB>2</SUB> = h F( x<SUB>n</SUB> + h/2, y<SUB>n</SUB> + k<SUB>1</SUB>/2 )
+    <TR><TD>
+      k<SUB>3</SUB> = h F( x<SUB>n</SUB> + h/2, y<SUB>n</SUB> + k<SUB>2</SUB>/2 )
+    <TR><TD>
+      k<SUB>4</SUB> = h F( x<SUB>n</SUB> + h, y<SUB>n</SUB> + k<SUB>3</SUB> )
+  </TABLE>
+</CENTER>
+
+<P>
+  The equations of motion for a bullet in flight, are simultaneous 
+  coupled differential equations.  Specifically three equations
+  for acceleration, position and spin.  These equations may have 
+  been transformed using the substitution:
+</P>
+
+<CENTER>
+  d<B>u</B>/dt = d<B>u</B>/dy dy/dt = d<B>u</B>/dy u<SUB>y</SUB>
+</CENTER>
+
+<P>
+  producing equations as a function of mach number and range:  
+</P>
+
+<CENTER>
+  <B>a</B> = d<B>u</B>/dt = d<B>u</B>/dy u<SUB>y</SUB> = 
+    -p pi/8 C<SUB>D</SUB>(m)/SD V <B>V</B>
+</CENTER>
+
+<CENTER>
+  d<B>u</B>/dy = 
+    -p pi/8 C<SUB>D</SUB>(m)/SD V/u<SUB>y</SUB> <B>V</B>
+</CENTER>
+
+<P>
+  where <B>v</B> = <B>u</B> - <B>w</B> and <B>u</B> is the velocity relative to the ground
+  and <B>w</B> is the wind velocity.
+</P>
+
+<P>
+  Integrating this equation is much easier when trajectory
+  parameters are required as a function of range.  [This vector
+  equation for velocity is derived in the discussion of 
+  <A HREF="cdkd.html">CD and KD</A>] But,
+  it does introduce another differential equation for time.
+</P>
+
+<H2>
+  Simultaneous Equations of First Order
+</H2>
+
+<P>
+  The Runge Kutta methods for coupled equations are slightly
+  different and not seen very often (at least by me!).  I've
+  found them listed in one book, <CITE>Ballistics of the Future</CITE> 
+  (see below), and have listed them here for anybody that does
+  not have access to this book (only fourth order was shown).
+</P>
+
+<P>
+  For two equations, dy/dx = F(x, y, z) and dz/dx = G(x, y, z), a
+  single integration step of h is defined by:
+</P>
+
+<CENTER>
+  <TABLE>
+    <TR><TD>
+      y<SUB>n+1</SUB> = y<SUB>n</SUB> + 
+        1/6  k<SUB>1</SUB> + 1/3  k<SUB>2</SUB> +
+        1/3  k<SUB>3</SUB> + 1/6  k<SUB>4</SUB> + O( h<SUP>5</SUP> )
+    <TR><TD>
+      z<SUB>n+1</SUB> = z<SUB>n</SUB> + 
+        1/6  l<SUB>1</SUB> + 1/3  l<SUB>2</SUB> +
+        1/3  l<SUB>3</SUB> + 1/6  l<SUB>4</SUB> + O( h<SUP>5</SUP> )
+    <TR><TD>
+      k<SUB>1</SUB> = h F( x<SUB>n</SUB>,y<SUB>n</SUB>, z<SUB>n</SUB> )
+    <TR><TD>
+      k<SUB>2</SUB> = h F( x<SUB>n</SUB> + h/2, 
+                           y<SUB>n</SUB> + k<SUB>1</SUB>/2,
+                           z<SUB>n</SUB> + l<SUB>1</SUB>/2 )  
+    <TR><TD>
+      k<SUB>3</SUB> = h F( x<SUB>n</SUB> + h/2, 
+                           y<SUB>n</SUB> + k<SUB>2</SUB>/2,
+                           z<SUB>n</SUB> + l<SUB>2</SUB>/2 )  
+    <TR><TD>
+      k<SUB>4</SUB> = h F( x<SUB>n</SUB> + h, 
+                           y<SUB>n</SUB> + k<SUB>3</SUB>,
+                           z<SUB>n</SUB> + l<SUB>3</SUB> )  
+    <TR><TD>
+      l<SUB>1</SUB> = h G( x<SUB>n</SUB>,y<SUB>n</SUB>, z<SUB>n</SUB> )
+    <TR><TD>
+      l<SUB>2</SUB> = h G( x<SUB>n</SUB> + h/2, 
+                           y<SUB>n</SUB> + k<SUB>1</SUB>/2,
+                           z<SUB>n</SUB> + l<SUB>1</SUB>/2 )  
+    <TR><TD>
+      l<SUB>3</SUB> = h G( x<SUB>n</SUB> + h/2, 
+                           y<SUB>n</SUB> + k<SUB>2</SUB>/2,
+                           z<SUB>n</SUB> + l<SUB>2</SUB>/2 )  
+    <TR><TD>
+      l<SUB>4</SUB> = h G( x<SUB>n</SUB> + h, 
+                           y<SUB>n</SUB> + k<SUB>3</SUB>,
+                           z<SUB>n</SUB> + l<SUB>3</SUB> )  
+  
+  </TABLE>
+</CENTER>
+
+<H2>
+  Simultaneous Equations of Second Order
+</H2>
+
+<P>
+  Consider the coupled differential equations of second
+  order:
+</P>
+
+<CENTER>
+  y'' = F ( x, y, z, y', z' )
+  <BR>
+  z'' = G ( x, y, z, y', z' )
+</CENTER>
+
+<P>
+  where ' denotes differentiation with respect to x.
+</P>
+
+<P>
+  Assume
+</P>
+
+<CENTER>
+  y' = u
+  <BR>
+  z' = v
+</CENTER>
+
+<P>
+  then
+</P>
+
+<CENTER>
+  u' = F ( x, y, z, u, v )
+  <BR>
+  v' = G ( x, y, z, u, v )
+</CENTER>
+
+<P>
+  reducing the second order differential equations to a
+  system of four simultaneous eqations of first order.
+</P>
+
+<P>
+  A single integration step, h of x, is then given by:
+</P>
+
+<CENTER>
+  <TABLE>
+    <TR><TD>
+      y<SUB>n+1</SUB> = y<SUB>n</SUB> + 
+        1/6  k<SUB>1</SUB> + 1/3  k<SUB>2</SUB> +
+        1/3  k<SUB>3</SUB> + 1/6  k<SUB>4</SUB> + O( h<SUP>5</SUP> )
+    <TR><TD>
+      z<SUB>n+1</SUB> = z<SUB>n</SUB> + 
+        1/6  l<SUB>1</SUB> + 1/3  l<SUB>2</SUB> +
+        1/3  l<SUB>3</SUB> + 1/6  l<SUB>4</SUB> + O( h<SUP>5</SUP> )
+    <TR><TD>
+      k<SUB>1</SUB> = h u
+    <TR><TD>
+      k<SUB>2</SUB> = h ( u + m<SUB>1</SUB>/2 )
+    <TR><TD>
+      k<SUB>3</SUB> = h ( u + m<SUB>2</SUB>/2 )
+    <TR><TD>
+      k<SUB>4</SUB> = h ( u + m<SUB>3</SUB> )
+    <TR><TD>
+      l<SUB>1</SUB> = h v
+    <TR><TD>
+      l<SUB>2</SUB> = h ( v + p<SUB>1</SUB>/2 )
+    <TR><TD>
+      l<SUB>3</SUB> = h ( v + p<SUB>2</SUB>/2 )
+    <TR><TD>
+      l<SUB>4</SUB> = h ( v + p<SUB>3</SUB> )
+    <TR><TD>
+      u<SUB>n+1</SUB> = u<SUB>n</SUB> + 
+        1/6  m<SUB>1</SUB> + 1/3  m<SUB>2</SUB> +
+        1/3  m<SUB>3</SUB> + 1/6  m<SUB>4</SUB> + O( h<SUP>5</SUP> )
+    <TR><TD>
+      v<SUB>n+1</SUB> = v<SUB>n</SUB> + 
+        1/6  p<SUB>1</SUB> + 1/3  p<SUB>2</SUB> +
+        1/3  p<SUB>3</SUB> + 1/6  p<SUB>4</SUB> + O( h<SUP>5</SUP> )
+    <TR><TD>
+      m<SUB>1</SUB> = h F ( x, y, z, u, v )
+    <TR><TD>
+      m<SUB>2</SUB> = h F ( x + h/2,
+                          y + k<SUB>1</SUB>/2 ,
+                            z + l<SUB>1</SUB>/2 ,
+                            u + m<SUB>1</SUB>/2 ,
+                            v + p<SUB>1</SUB>/2 )
+    <TR><TD>
+      m<SUB>3</SUB> = h F ( x + h/2,
+                            y + k<SUB>2</SUB>/2 ,
+                            z + l<SUB>2</SUB>/2 ,
+                            u + m<SUB>2</SUB>/2 ,
+                            v + p<SUB>2</SUB>/2 )
+    <TR><TD>
+      m<SUB>4</SUB> = h F ( x + h,
+                            y + k<SUB>3</SUB> ,
+                            z + l<SUB>3</SUB> ,
+                            u + m<SUB>3</SUB> ,
+                            v + p<SUB>3</SUB> )
+    <TR><TD>
+      p<SUB>1</SUB> = h G ( x, y, z, u, v )
+    <TR><TD>
+      p<SUB>2</SUB> = h G ( x + h/2,
+                            y + k<SUB>1</SUB>/2 ,
+                            z + l<SUB>1</SUB>/2 ,
+                            u + m<SUB>1</SUB>/2 ,
+                            v + p<SUB>1</SUB>/2 )
+    <TR><TD>
+      p<SUB>3</SUB> = h G ( x + h/2,
+                            y + k<SUB>2</SUB>/2 ,
+                            z + l<SUB>2</SUB>/2 ,
+                            u + m<SUB>2</SUB>/2 ,
+                            v + p<SUB>2</SUB>/2 )
+    <TR><TD>
+      p<SUB>4</SUB> = h G ( x + h,
+                            y + k<SUB>3</SUB> ,
+                            z + l<SUB>3</SUB> ,
+                            u + m<SUB>3</SUB> ,
+                            v + p<SUB>3</SUB> )
+  </TABLE>
+</CENTER>
+  
+<H2>
+  <A NAME="REFERENCES">References</A>
+</H2>
+
+<P>
+  <CITE>Ballistic of the Future</CITE>, J. M. J. Kooy and J. W. H. Uytenbogaart, 
+  McGraw-Hill Book Company, Inc.  New York, 1946.
+</P>
+
+<P>
+  <CITE>Handbook of Mathematical Functions</CITE>, Edited by Milton Abramowitz 
+  and Irene A. Stegun, Dover Publications, Inc., New York, 1972.
+</P>
+
+<HR>
+
+<TABLE WIDTH="100%">
+  <TR ALIGN="RIGHT">
+    <TD ALIGN="RIGHT">
+      <SMALL>
+        Last update 3 October 2004, Copyright &copy; 1996-2004
+        <A HREF="mailto:jbm@eskimo.com">JBM</A>
+        <A HREF="http://www.htmlhelp.com/cgi-bin/validate.cgi?url=referer&amp;input=yes">[V]</A>
+      </SMALL>
+</TABLE>
+
+
+</BODY> 
+</HTML>

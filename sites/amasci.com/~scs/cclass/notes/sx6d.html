@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995-7 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>6.4 Reading Numbers</title>
+<link href="sx6c.html" rev=precedes>
+<link href="sx7.html" rel=precedes>
+<link href="sx6.html" rev=subdocument>
+</head>
+<body>
+<H2>6.4 Reading Numbers</H2>
+
+<p>The <TT>getline</TT> function of the previous section
+reads one line from
+the user,
+as a <em>string</em>.
+What if we want to read a number?
+One straightforward way is to read a string as before,
+and then immediately convert the string to a number.
+The standard C library contains a number of functions for doing this.
+The simplest to use are
+<TT>atoi()</TT>, which converts a string to an integer, and
+<TT>atof()</TT>, which converts a string to a floating-point number.
+(Both of these functions are declared in the header <TT>&lt;stdlib.h&gt;</TT>,
+so you should <TT>#include</TT> that header
+at the top of any file using these functions.)
+You could read an integer from the user like this:
+<pre>
+	#include &lt;stdlib.h&gt;
+
+	char line[256];
+	int n;
+	printf("Type an integer:\n");
+	getline(line, 256);
+	n = atoi(line);
+</pre>
+Now the variable <TT>n</TT> contains the number typed by the user.
+(This assumes that the user <em>did</em> type a valid number,
+and that <TT>getline</TT> did not return <TT>EOF</TT>.)
+</p><p>Reading a floating-point number is similar:
+<pre>
+	#include &lt;stdlib.h&gt;
+
+	char line[256];
+	double x;
+	printf("Type a floating-point number:\n");
+	getline(line, 256);
+	x = atof(line);
+</pre>
+(<TT>atof</TT> is actually declared as returning type <TT>double</TT>,
+but you could also use it with a variable of type <TT>float</TT>,
+because
+in general,
+C automatically converts between <TT>float</TT> and 
+<TT>double</TT> as needed.)
+</p><p>Another way of reading in numbers,
+which you're likely to see in other books on C,
+involves the <TT>scanf</TT> function,
+but it has
+several problems,
+so we won't discuss it for now.
+(Superficially, <TT>scanf</TT> seems simple enough,
+which is why it's often used,
+especially in textbooks.
+The trouble is that to perform input reliably using <TT>scanf</TT>
+is not nearly as easy as it looks,
+especially when you're not sure what the user is going to type.)
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx6c.html" rev=precedes>prev</a>
+<a href="sx7.html" rel=precedes>next</a>
+<a href="sx6.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995-1997
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

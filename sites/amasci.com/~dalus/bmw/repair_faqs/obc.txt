@@ -1,0 +1,374 @@
+The On-Board Computer (OBC). 
+
+This page was originally hosted here: http://cbsgi1.bu.edu/bmw/bmw_new.html . But that site has gone down so I'm hosting these pages here.
+
+ The On-Board Computer (OBC). 
+
+ Contents: 
+
+ Undocumented Features. 
+ Fixing the backlight. 
+ The PPPP Problem. 
+ Also check the 
+ Electrical FAQ 
+
+Last updated 1/2/97
+
+ Undocumented Features. 
+
+These work on OBC II cars: 
+ Simultaneously press the 1000 and the 1 button to get remaining fuel
+in liters (the car needs to be running). 
+
+ Simultaneously press the 1000 and the 10 button to get the version
+number. You should get something like: 
+4 .6TYP 
+Where the 4 is the car/engine designator, the 6 is the chip firmware.
+That tells you the programming of the OBC, what coding plug is in it.
+Specific to each engine type, injector type, tire size, fuel tank and
+reserve capacity.
+And here's some more from Phil Marx....
+
+ OBC car/engine designators and firmware number. 
+
+ E30 318i 3-3 TYP
+ E30 325e ('84-87) 3-8 TYP
+ E30 325e ('88) 4-4 TYP
+ E30 325i ('87) 3-1.2 TYP
+ E30 325i ('88 on) 4-6 TYP
+ E30 M3 3-1.1 TYP
+ E28 528e ('85-87) 5-8 TYP
+ E28 528e ('88) 5-1.3 TYP
+ E28 535i 5-6 TYP
+ E28 M5 6-4 TYP
+ E24 635Csi/L6 ('85-87) 6-2 TYP
+ E24 635Csi ('88 on) 6-6 TYP
+ E24 M6 6-4 TYP
+ E23 735i/L7 ('85-87) 7-4 TYP
+
+For what this bit of knowledge is worth to anyone.......
+No other test functions on that type OBC but you'd need a book to discuss
+the E32/4 type. 
+- -Phil Marx BMWCCA #6021
+
+The following is for newer OBC found in E36 cars for example: 
+
+To determine if your OBC is eligible .. press 1000 and 10 together. 
+
+ you should see TEST NO . -- or something like that. 
+
+Now, some of the functions are locked out -- I do NOT recommend messing
+with them and you do so at your own risk -- that said ... 
+
+To unlock all functions .. press 1000 and 10 and at the TEST prompt
+enter 19 using the keys .. press SET/RES .. you should see LOCK:ON
+or something similar ... press the DATE key .. (today you'd see 08.20)
+and add the two numbers (day and month) together (today 28) 
+
+Now enter the number you just calculated (28) and press SET/RES. 
+
+TADA .. you have unlocked the secret functions ... 
+
+To lock them back up .. press 1000 and 10 then enter 19, SET/RES 
+now press SET/RES again .. it should show .. LOCK:ON again 
+
+In general when I show a test enter it by pressing 1000 and 10 together
+then enter the number of the test with the numeric keys and press SET/RES
+to actually execute the test ... 
+
+Test numbers for E36 OBC (Note: Joe this should also work for your 535!)
+
+ Test no. 
+ Description 
+ 1 Display Test .. all LCDs and LEDs activate 
+ 2 Current Consumption in l/100km 
+ 3 Current Consumption in l/hour 
+ 4 Average Consumption (used to calc. Range) 
+ 5 Current Range 
+ 6 Not used .. 
+ 7 Average Fuel in Tank (l) 
+ 8 Current Speed (km/h) 
+ 9 System Voltage at terminal R 
+ 10 Country/Language 
+ 11 Units/ AM.PM 
+ 12 Average Speed (km/h) for calc. ETA 
+ 13 ETA 
+ 14 Date of software/mask of OBC 
+ 15 Production Diagnosis (??) 
+ 16 Production Diagnosis (??) 
+ 17 Display Vehicle Specific Data 
+ 18 Alarm Changeover (continuous v. intermittent) 
+ 19 LOCK/UNLOCK all functions 
+ 20 Correction Factor for OBC Fuel Consumption (SEE BELOW!) 
+ 21 Reset all defect codes, date and time ... activate by
+pressing SET/RES 
+
+ Note on test #20:
+
+ The factor is used to correct the OBC Avg Fuel Consumption figure
+ to reality. If your OBC is off a bit: fill UP totally,
+ run tank down and refill; then calculate your Actual MPG.
+ Now enter test 20 to get the old Correction Factor. 
+
+ NEW CF= OLD CF *(OBC MPG/Actual MPG) 
+
+ Enter the NEW CF using the numeric keys and hit SET/RES to store.
+ PLEASE record your OLD CF so that IF you screw up you can
+ always go back to what it was. 
+
+ Updates: 
+This is from a European 1990 M5 owner (9/3/96): 
+
+I have also found a deviation from the FAQ (which describes an E36 OBC)
+in the 'lock/unlock secret functions' of the E34 OBC: 
+To unlock: 
+
+ Press the DATE key, and add the day + month numbers
+ Press 1000 and 10 simultaneoulsy, then use 10 and 1 keys
+ to enter test 19
+ Press S/R once. You will now see 0000LOCK or similar
+ Use the 10 and 1 keys to enter the sum of day + month
+ Press S/R -- secret functions are unlocked...
+ Verify by entering test 19 again. Display should show
+FREE
+
+To lock: 
+
+ Press 1000 and 10 simultaneoulsy, then use 10 and 1 keys
+ to enter test 19
+ Press S/R once. You will now see FREE or similar
+ Press the little square button (F/C) to the left of display
+ Verify by entering test 19 again. Display should be 0000LOCK.
+
+The procedure to show the version number also differs from the FAQ.
+On the E34 OBC, you need to press the 100 and 1 buttons simultaneously,
+to display the type/version (Mine shows '5-00TYP').
+
+ (return to contents) 
+
+ Fixing the backlight: 
+This is about a 1988 325is, but many other models are similar. 
+A variation of this note appeared in the Feb., 1994 Roundel and is
+included in the "BMW Enthusiasts Companion" book published by 
+ Bentley. 
+
+The backlight for the OBC display is provided by a pair of small
+incandescent bulbs which are soldered to a small printed circuit board.
+This board is in a white plastic housing that slides into the right side
+of the OBC. The bulb assembly cost about $20.00 from the dealer.
+A resourceful hack mechanic could save 20 bucks by
+unsoldering the old bulb and soldering in a new one. You probably would 
+have a hard time finding an exact replacement bulb but you could
+find one close enough. 
+
+Added. 11/2/94... 
+The bulbs are 5 Volt and use about 80 mA. The nearest Radio Shack bulbs
+are: part number 272-1140, 6 volt. They can be soldered right in the
+circuit board. 
+
+The hard part is getting at the side of the OBC to remove the bulb
+holder without disassembling the entire center console. You must
+partially remove the center console panel. The OBC is screwed into the
+center console panel from the rear with 4 phillips screws. Once the
+screws are out, it comes out toward the rear (unfortunately!!). 
+
+First I removed
+the radio by loosening the screws that lock it into the center
+console. These screws are a special 5 sided torx-like screw that require
+a special tool to remove properly. The tool costs something like $15.00
+at the dealer, but you can usually get by with a 2mm hex wrench. 
+It's really maddening that of all the worhtless crap in the BMW toolbox
+that comes with the car, they cant put this $0.50 tool in. The hex
+wrench might chew up the screw a little bit, but it will still work
+repeatedly.
+
+I did all this with the battery connected so I didn't have to
+reset codes or reprogram the computer. No electrical connectors have to
+be removed so there's not much danger of shorting things. The radio has
+long enough wires that you can pull it out the front and rest it on the
+ashtray while you do the rest. The 
+ Bentley 
+manual really helped on the
+next step because it showed the location of the screws that hold the
+center panel. There are 2 #1 Phillips screws at the top, behind the
+hazard flasher switch, which you have to pull out and leave dangling by
+the wires, the other behind the
+dummy plug. The 2 #2 Phillips screws at the bottom are harder to
+reach--you need a short screwdriver--but they're not that tough. Once
+the four screws are out you can pull the center console out enough to
+access the computer. You have to be careful not to snap off plastic
+edges, slide the panel to the right as you pull to free the lip on the
+left side. Note that everything (heater controls, radio balance control, etc.)
+is still connected to the center console. This makes it a little harder
+to maneuver, but it's a lot less work in the end. [See below for
+alternate method to removing bottom console screws.]
+If your wrist is small enough, you can reach in through the
+radio opening and loosen the 2 Phillips screws that hold the left side of
+the OBC. You don't need to remove the screws, just loosen them. If
+you can't fit through the radio opening, you'll have to remove the glove
+box and side panels to reach the screws from behind. Now with the left
+side loose you just need to pull the right side of the center panel out
+about 2 inches until you can access the left side screws. At this point
+you can see the flush mounted bulb-holder and you realize that this
+thing was not very well engineered! The center panel cutout blocks
+access to the slide out bulb-holder. That is why you have to remove the
+2 screws holding the left side of the computer. It would have been an
+easy matter to design a center console that didn't block the bulb. For
+that matter, it seems it would have been easy to design a computer mount
+that allowed it to just snap out toward the front or screw out like the
+radio. The bulb could then be changed in 30 seconds. Back to the 2 left
+side screws--to really get a screwdriver on these you would have to pull
+the center panel out at least 4 or 5 inches. It didn't seem like it
+wanted to be pulled out that far without removing more stuff (like heater
+controls) so instead I just opened it enough to get a pair of small
+needle nose vise-grips on the heads of the screws. They aren't in
+very tight so with a little patience the vise-grips remove the
+screws. 
+[Addition from Rick Kjeldsen: 
+The center panel will come completely off the heater if you do the
+following: Take (pull) off the caps from the 3 heater slider controls.
+There is a thin plastic cover over the three slider slots that covers
+4 screws. It is about the size of a 3x5 card. You have to gently pry
+it off to avoid damaging it. I found I can pull from one of the
+slider slots to get it started. That will uncover 4 screws that hold
+the center panel to the heater core.] 
+
+Now the on-board computer can be pushed in from the center
+panel, the bulb-holder pulled out and the new one slips right in. I
+checked the old bulbs and sure enough one was burned out (they're in
+series so this takes out the other one). Just to make sure before I
+closed everything up, I stuck in the key, turned on the ignition and the
+correct time of day lit up beautifully! 
+
+I just reversed the procedure to
+get everything back. The biggest problem here was restarting the 2
+bottom screws on the center panel. It's impossible to see anything and
+there isn't enough room even for my small hands. A little patience will
+get you there though. 
+
+[11/5/93 Update: You might be able to get away with this easier method,
+supplied by Kent Shephard which worked on his M3] 
+
+My mechanic showed me how to do this on my M3 today and he said this
+description is *NOT* the way a flat rate mechanic does it.
+He works for a dealership and he did my M3 is all of 10 minutes.
+So folks I'll outline it so the FAQ can be changed.
+He said all the screws don't need to come out. He said this 
+description is for those obsessed with getting the computer
+out.
+So follow along. 
+
+* DO NOT REMOVE THE BOTTOM SCREWS * 
+
+At this point tilt the top of the console forwad.
+Don't be scared you won't break it.
+
+You will now be able to look on the right side of 
+
+the computer and see the light module and a single 
+
+screw.
+
+You will need the needle nose pliers to remove that screw.
+It has fine threads so be patient. Throw screw away.
+The computer will hold fine with three screws.
+
+After the screw is out, pull the module with the needle nose pliers
+and it will come out. Now slide the new one in and reassemble.
+
+Here is another person's experience. Note this is in conflict with the
+above--namely in that the OBC comes out toward the front and is held in
+by nuts not phillips screws. Maybe BMW used different methods.
+I think sometime in the early 90's the OBC does snap out toward the
+front simply by prying with a credit card. (can somebody verify this 
+and e-mail me. 
+
+(by Mike Whitley: WHITLEYM@mcl.saic.com) 
+
+A lot of people have complained about the backlight on the E30 onboard computer.
+When I had a 325is, the lights burned out. Replacing the little panel or even
+just the bulbs is an easy job. Saves you $70 or $80 as well compared to
+letting a dealer do it. A quick summary follows.
+
+Access the computer... this involves first taking out the glove box, and right
+side dash board cover. Everything is held in place by push pins, they just
+twist and pull out.
+
+Now, you need a socket wrench, with a short handle and a very small socket. I
+can't remember how big... anyway, use the wrench to undo the nuts that hold
+the computer in place on the dash baord. You won't be able to see them just
+feel around and you will find them. Once the nuts have been removed, the
+computer will slide out of the dash towards the seats.
+
+On the side of the computer is a small white panel. This is the back light
+bar. Pry it out with a small screwdriver or fingernail and pop in the new one.
+If spending $25 or $30 for this seems like a waste of money to you, desolder
+the dead bulbs and solder in new ones for about $2.00. They may not have the
+exact same wattage though. If the computer push buttons have also stopped
+lighting up, the bulb for that is located in the back. Twist it out and pop in
+a new one. (You remembered to pick one up at your dealer right?)
+
+Reverse the installation instructions and voila! You are done. The whole
+thing shouldn't take more than two hours. Less if you are quick.
+
+(by Steve Fox: SRFox@aol.com) 
+
+Alternate method: 
+
+Remove radio (easy). 
+
+Pop top switches above radio (easy). 
+
+Remove two phillips screws at top of center
+console. They will be visible through the
+recently vacated switch holes (easy).
+
+Remove two phillips screws at bottom of
+center console, just under bottom edge (easy).
+
+Pull center console forward on the right
+edge exposing the business side of OBC (easy,
+but gently, not much distance needed).
+
+Remove top right nut that secures OBC (easy).
+
+Trim pointless plastic interfering with removal of light
+bar (easy, makes next replacement even easier).
+
+Pull out light bar with needle nose and replace
+with new unit (easy).
+
+Assemble in reverse order of disassembly (easy).
+
+I did this in 20 minutes the first time. The other method
+on this list (through the glove box) sounds great too but I
+could not contort my fingers enough to remove the four OBC
+nuts. Local dealer wants about $80 for this procedure.
+
+ (return to contents) 
+
+ What to do if you get PPPP displayed on the OBC 
+
+I've heard that disconnecting the
+battery for a long time (like 1 hour) will make this go away. 
+
+I lived with this problem for several (3) years. I tried 
+disconnecting the battery for the 1+ hours or so to no avail. The 
+ultimate solution was to disconnect the computer itself from its 
+multi-pin connector. I left it unhooked for approximately 24 hours. 
+Upon reconnecting the computer.....viola a full up and running OBC 
+II. 
+
+Jeff Wilcox 
+
+ So here is what works most of the time. 
+
+With the key in the "Radio" position (Radio and OBC light up, but not 
+the instrument cluster), press the "CODE" button. Then push the little 
+reset-hole with a Pen and hold it, 'till the computer blinks in the 
+display, and it will ask you for a time and date entry. - You now have 
+re-adapted the coding plug to the computer. - Normally the computer goes 
+into a PPPP mode when the car has been boosted, or some other very 
+drastically voltage changes have occurred.
+
+ (return to contents)

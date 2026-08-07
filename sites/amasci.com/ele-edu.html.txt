@@ -1,0 +1,364 @@
+Articles on "Electricity" . . . . WJ Beaty 
+
+ SCIENCE HOBBYIST 
+
+ GOOD STUFF 
+
+ NEW STUFF 
+
+ SEARCH 
+
+ ARTICLES ABOUT "ELECTRICITY" 
+ New Explanations, Alternate Mental Toolkit 
+ William J. Beaty 
+ Electrical Engineer, U. of Washington 
+
+ Tweet this 
+
+Jump down to Highly Recommended 
+Books 
+or Build-it Projects . 
+
+What's the relation between Watts, Ohms, Amps, and Volts? 
+ Memorizing facts? That's not learning. Tie it all together instead. 
+Ohm's law and electrical energy.
+
+ What Is "Electricity?" 
+ There is a simple answer to this question. Really. Not the one you
+expect, though.
+
+What is Voltage? 
+ What the heck is VOLTAGE? What the *HECK* is voltage? Charles Fort 
+said that when investigating a circle you can start at any point.
+
+ Electricity: Frequently-asked Questions (FAQ) 
+Browse these Electricity Answers, or submit a new question. 
+
+ Capacitor complaints 
+ Why I never really understood capacitors... 
+
+ How transistors REALLY work 
+ Problems with traditional transistor explanations... 
+
+ Explaining "electricity" visually 
+ A simple classroom activity using red and green plastic sheets.
+Here's a way to visualize Electric Current, "Static", and the electric
+charge which creates both.
+
+ Why three prongs? 
+ Why do wall outlets have three holes? "Grounding" and safety. 
+
+ Right Angle Circuitry 
+ Do Lenz' Law and the Right Hand rule still work... after you've been 
+turned INSIDE OUT by that greasy black Fog? 
+
+ "Static Electric"
+misconceptions 
+ A list of things which gave me a warped view of Electrostatics. Once
+I recognized their existence, I was able to fight free of them. 
+
+ Speed of "Electricity"? 
+Everyone is sure that charges flow in wires at nearly the speed of light. 
+All the K12 books say so, and that many books can't be wrong,
+can they? Ah, but science is not settled by voting. 
+
+ Triboelectric
+Series 
+If a cat gets trapped in a clothes dryer full of nylon pantyhose, which
+way do the electrons flow?
+
+ Where does EM energy flow in a circuit?
+
+ The schematic of a flashlight looks simple, but only because the
+electromagnetic energy flow is invisible.
+
+ How Scientists Define 
+the word "Electricity" 
+Quotes from J.C. Maxwell's "Treatise" and others. Maxwell says that 
+electricity is not energy. So does Faraday.
+Also Millikan, Einstein, and JJ. Thompson. The CRC Handbook agrees!
+
+ Barriers to
+Understanding Electricity 
+ Twenty misconceptions which prevented me from understanding simple
+electrical science as a student. Maybe they cause trouble for you as
+well? 
+
+ "Static" Electricity 
+is really just high voltage. 
+ Scuff on the rug, then measure your body voltage. Three Thousand 
+Volts?!! 
+
+ Electricity mistakes and 'nitpicking' 
+also
+ How SHOULD we teach Electricity? 
+ My encounters with elementary-school electricity, and how I
+started my "electricity debunking" articles.
+
+ "Static" sparks 
+Doorknob sparks and zapping yourself on the car door... and people who
+suffer from an "electric shock" disease.
+
+ The Electricity Map 
+ How are batteries different than static cling? Perhaps this diagram
+will "generate" some insights.
+
+ If Voltage is 
+Pressure 
+ ...then how many pounds-square-inch is one volt?
+
+ Which way does
+'electricity' flow? 
+ The direction of the current. 
+Charge really flows from negative to positive, right? RIGHT???
+
+ Electricity is not a form of energy 
+ How can so many K12 texts and encyclopedias make a major mistake?
+
+ What Is Charge? 
+Even if we stop asking about "electricity," we still must ask about 
+Charge.
+
+ What Is Energy? 
+Even if "electricity" isn't a form of energy, WHAT IS ENERGY? Is it like 
+a substance, or is it just an abstract concept?
+
+ Sparks and Lighting 
+What would lightning look like if we could slow it down?
+
+ How is "static"
+different from "current?" 
+ Not the usual answer found in most K12 textbooks!
+
+ How is "current"
+different from "net charge?" 
+ This one goes with the article above.
+
+ Sticky Electrostatics 
+ Use sticky tape to demonstrate electric charge. 
+
+Can current stay constant, yet voltage reverses? 
+ Doesn't voltage always cause current? Not if we're talking about 
+spinning flywheels made out of "electricity."
+
+Tesla's Big Mistake 
+ Why did physicists deride Nikola Tesla? What was really going on
+in Tesla's mind? Some insights...
+
+"Acoustimagnetoelectricism" 
+A long rant about sound, work and electrical energy
+
+ When currents DON'T shock 
+ High current versus low current. The oomph of the zappth.
+
+ LED explanation 
+ How are Light Emitting Diodes like thermocouples and solar
+cells? 
+
+ Are Amperes"Fundamental?" 
+Everyone learns about "Amps" but never remembers what a "Coulomb" is.
+This is totally backwards.
+
+ Flowing "static
+electricity." 
+If "static electricity" could flow along, would the world end? Maybe
+not...
+
+ Discussing Electrical
+Energy 
+
+I'm always getting into flamewars about this stuff...
+
+ How should we
+teach "electricity?" 
+Doing something, rather than just whining. ;)
+
+ Why "Electricity" is
+Impossible to Understand 
+Gigantic collection of thoughts on learning-barriers in electrical
+education.
+
+Electricity educational links collection 
+Part of my Electronics Hobbyist page.
+
+ ELECTRONICS HOBBYIST 
+A whole large pageful of links for the electronics freak. Online 
+discussion groups, schematic and project archives, etc.
+
+ REFERENCES 
+Don't trust what random strangers on the internet stay about electricity!
+Instead read professional papers by PUBLISHED random strangers.
+
+LOOKING FOR BOOKS? Try searching
+
+amazon.com : 
+
+ (try "science fair" too) 
+
+ Build These Electrical Devices 
+
+ Static Electricity Projects , all the High Voltage, low-current stuff in one place.
+
+ Ultra-simple Electric
+Generator 
+Spin the magnet, light a bulb. The complement to the "Beakman Motor". 
+Challenge: make the one run the other.
+
+ Plasma Globes , make an "eye of the storm" using a tiny 
+Tesla coil and a plastic bag of Argon gas. 
+
+ 3D E-field 
+viewing bottle 
+Actually SEE invisible electrostatic fields and magnetic fields by
+harnessing the amazing powers of Baby Oil.
+
+ Faraday Machine 
+, a generator with no coils 
+Spin some copper pipe-caps in mercury pools. Create huge electric 
+currents.
+
+ Plasma Globe with no vacuum
+pump The Radio Shack "Eye of the Storm" device would be REALLY
+impressive if it didn't need that glass globe... 
+
+ Electrostatic
+Loudspeakers 
+by Mark Rehorst. No magnets, no magnetism, this speaker uses voltage-force.
+ Almost like wiggling the air itself.
+
+ VandeGraaff Generators 
+Instructions for having fun with 500,000 volts, including 
+ finding a cheap one ,
+ plans sources , FAQ , 
+ debug ...
+
+ MAGLEV CRADLE 
+Lifts a bar magnet from below. Use this to perpetrate a Room Temperature
+Superconductor hoax?
+
+Your own picoammeter . 
+If you already have a digital voltmeter, use it in heretical fashion:
+as a nano-amp meter, even measure picoamps. 
+
+ Ball Lightning plasma in your microwave oven 
+Demonstrate the 'Maser Theory' of Ball Lightning formation
+
+ Ridiculously
+sensitive charge detector 
+ Build this simple circuit and detect miniscule levels of electric
+charge at large distances. Befuddle onlookers with the the "mysterious
+voice commands" trick by holding it and scuffing your shoes on a rug.
+
+ The Duluc Drypile 
+
+A "battery" with so many cells that Electrostatic effects appear.
+
+ Dangerous experiments
+with a big capacitor bank 
+Nobody died from simply reading this. But stay away from actually 
+performing any of these demos.
+
+ Acid/Base Goldenrod
+secret 
+Use a battery to draw red lines on wet yellow paper
+
+ High Powered Ultrasound 
+Shatters water into a fine mist. Collect some in a bowl. Probe it with 
+high voltage, see what happens.
+
+ ELECTROSTATIC
+GENERATOR , Kelvin's Thunderstorm" An electrostatic generator based
+on dribbling water. Also see the INLINE VERSION 
+
+ ELECTROSTATIC MOTOR
+made from plastic pop bottles. 
+Who says "static electricity" must remain static, or that it's useless and
+feeble?
+
+ ELECTROSTATIC
+GENERATOR , a simple one 
+A simple device which can be used to power the pop-bottle motor.
+
+ Hints for
+electrostatic device construction 
+Building 500,000 volt devices in your basement? Avoid these pitfalls.
+
+ Solving Humidity
+Problems 
+Egor! Activate the Dehumidifier Array!
+
+ ARRAY
+ELECTROMETER 
+Build this and SEE electrostatic fields! 
+
+ VISIBLE CURRENT 
+Build this moving-LEDs device which makes the flowing charges visible in 
+wires. Wouldn't "electricity" be easier to understand if you could SEE it 
+moving? 
+
+ Incredibly easy way to
+make a 100-amp cable .
+ Around the world, the physics teachers look at this and say
+"Doh!" 
+
+ Threadlike streams 
+of electrostatic wind 
+Play with these strange "threads" of high-speed, high-voltage air.
+
+ Rotating disk
+device makes e-fields visible 
+
+Idea for dangerous whirling mechanisms which reveal invisible field
+patterns.
+
+ HIGHLY RECOMMENDED BOOKS 
+
+Books, but also one website. Paul F's circuit simulator does what I've 
+always dreamed about: uses the "charge flow" concept to animate a complex 
+circuit without needing any 
+ hardware. The slow
+charges move along, and the wires' surface charge appears as changing 
+red and green!
+
+Paul Falstad's Java circuit simulator 
+ http://www.falstad.com/circuit/ 
+
+ Since the 1980s, K12 textbook offerings have been improving. When I 
+first started these articles in 1986 I could find no text that wasn't 
+choked with mistakes and misleading concepts. But during the time I 
+lectured on the problem to teachers in MA, the late Dr. Mel 
+Steinberg at Smith College (also in MA) was working on a solution: Genecon 
+generators and supercapacitors. His C.A.S.T.L.E. highschool curriculum, 
+Capacitor-aided System for Teaching and Learning Electricity, is designed 
+to directly attack typical student misconceptions in electricity.
+
+A curriculum: 
+ C.A.S.T.L.E Project 
+ (also kit of parts ) 
+Steinberg/Wainwright/Nelson 
+For student guide zipfile, see Pasco FTP site 
+
+A textbook: 
+ Electricity and Magnetism 
+ ( also teacher's ed ) 
+Camille L. Wainwright 
+Prentice-Hall Science Explorer
+
+A textbook: 
+
+ Electrical Energy and Circuit Design 
+Science and Technology Concepts for Middle Schools 
+STC/MS Project, Smithsonian / The National Academies
+
+ MORE TECH 
+BOOKS 
+
+ ARTICLES LISTED BY POPULARITY 
+
+ ALL ARTICLES ON WEBSITE 
+
+ SITE MAP 
+
+ /ele-edu.html 
+Created and maintained by Bill
+Beaty . Mail me at: .

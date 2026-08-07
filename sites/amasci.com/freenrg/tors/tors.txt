@@ -1,0 +1,3460 @@
+From vortexC-L-request@eskimo.com  Thu Jul 13 10:08:24 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id KAA05326;
+	Thu, 13 Jul 2000 10:03:20 -0700
+Resent-Date: Thu, 13 Jul 2000 10:03:20 -0700
+Message-ID: <000f01bfecec$3b6e8900$1201a8c0@workstation-11>
+From: "James D Mann" <psi@ozemail.com.au>
+To: <vortexC-L@eskimo.com>
+Subject: Enquiry re metal sample
+Date: Fri, 14 Jul 2000 02:57:30 +1000
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 4.72.3110.1
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+Resent-Message-ID: <"TSFTJ.0.6J1.NPVRv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1894
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+I have attempted a microhardness test of carbon steel of 0.4% using Alex's
+torsion generator. see www.ozemail.com.au/~psi/torsion01.htm This grade of
+steel is (more or less) the highest grade of plain carbon steel that is
+commercially available.
+
+Does anybody know how to obtain a 0 .8% plain carbon steel sample??? I have
+thought of carburizing a piece of mild steel, but the book says that this
+may leave the steel with a large crystal structure, which might be bad.
+
+Otherwise, all I can think of is to heat a piece of mild steel with an oxy
+torch and add a measured quantity of graphite or something, and stir. But
+what sort of crucible? And what to stir with?
+
+Is anybody knowledgeable in these matters?
+
+Regards
+James Mann
+
+
+From vortexC-L-request@eskimo.com  Fri Jul 14 01:07:04 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id BAA30334;
+	Fri, 14 Jul 2000 01:04:48 -0700
+Resent-Date: Fri, 14 Jul 2000 01:04:48 -0700
+Message-ID: <00a701bfed72$3519c840$44ad0dd4@S>
+From: "Alexander A.Shpilman" <sah@kaznet.kz>
+To: <vortexC-L@eskimo.com>
+References: <000f01bfecec$3b6e8900$1201a8c0@workstation-11>
+Subject: Re: Enquiry re metal sample
+Date: Fri, 14 Jul 2000 15:00:17 +0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6600
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6600
+Resent-Message-ID: <"i5r4b.0.vP7.VciRv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1895
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi James and All!
+
+> I have attempted a microhardness test of carbon steel of 0.4% using Alex's
+> torsion generator. see www.ozemail.com.au/~psi/torsion01.htm This grade of
+> steel is (more or less) the highest grade of plain carbon steel that is
+> commercially available.
+
+In your page it is necessary to add the approximately following text:
+
+"Average hardness of steel before an irradiation = 193,5.
+Average hardness of steel after an irradiation = 189,7.
+Error of measurement ~ 1%.
+The hardness has decreased on 2%.
+
+In experiments (see
+http://www.pmicro.kz/MISC/UFL/Almanach/Exp/hardness.htm ), at low-carbon
+steel (C=0.08%) after an irradiation the hardness decreased on 6-8%. At
+steel with C=0.8% after an irradiation the hardness was increased by 35 %
+At some value of concentration of carbon (between these two points) hardness
+become will not vary. At concentration C=0.45% has appeared is close to a
+zero point."
+
+
+>
+> Does anybody know how to obtain a 0 .8% plain carbon steel sample??? I
+have
+> thought of carburizing a piece of mild steel, but the book says that this
+> may leave the steel with a large crystal structure, which might be bad.
+
+What concentration of carbon has Damascus steel?
+
+> Otherwise, all I can think of is to heat a piece of mild steel with an oxy
+> torch and add a measured quantity of graphite or something, and stir. But
+> what sort of crucible? And what to stir with?
+>
+> Is anybody knowledgeable in these matters?
+
+Try to irradiate cast iron.
+Or try to irradiate steel, with the low concentration of carbon, through a
+plate of carbon. (Homoeopathy with steel.)
+
+Best regards,
+Alexander A.Shpilman, E-mail: sah@kaznet.kz
+
+
+
+From vortexC-L-request@eskimo.com  Sat Jul 15 15:54:16 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id PAA24743;
+	Sat, 15 Jul 2000 15:52:43 -0700
+Resent-Date: Sat, 15 Jul 2000 15:52:43 -0700
+Message-ID: <000001bfeeaf$600cc3c0$1201a8c0@workstation-11>
+From: "James D Mann" <psi@ozemail.com.au>
+To: <vortexC-L@eskimo.com>
+Subject: Re: Enquiry re metal sample
+Date: Fri, 14 Jul 2000 23:04:53 +1000
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 4.72.3110.1
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+Resent-Message-ID: <"oHeam3.0.Y26.xiESv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1896
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+>>>>>>>>>
+In your page it is necessary to add the approximately following text:
+
+"Average hardness of steel before an irradiation = 193,5.
+Average hardness of steel after an irradiation = 189,7.
+Error of measurement ~ 1%.
+The hardness has decreased on 2%.
+
+In experiments (see
+http://www.pmicro.kz/MISC/UFL/Almanach/Exp/hardness.htm ), at low-carbon
+steel (C=0.08%) after an irradiation the hardness decreased on 6-8%. At
+steel with C=0.8% after an irradiation the hardness was increased by 35 %
+At some value of concentration of carbon (between these two points) hardness
+become will not vary. At concentration C=0.45% has appeared is close to a
+zero point."
+>>>>>>>>>
+
+I have updated the page accordingly.
+
+
+
+
+>>>>>>
+What concentration of carbon has Damascus steel?
+
+Try to irradiate cast iron.
+Or try to irradiate steel, with the low concentration of carbon, through a
+plate of carbon. (Homoeopathy with steel.)
+>>>>>>>
+
+I will attempt to determine the composition of Damascus steel. I have also
+read that antique cold chisels and cutting tools were usually made from
+plain carbon steel of approximately 1% carbon, before ready availability of
+alloyed steel. However before testing with torsion generator it would be
+necessary to obtain an analysis of content of sample. This costs approx $120
+per sample, and thus it would be essential to be fairly certain that sample
+steel is of the required type, otherwise funds would soon run dry.
+
+The test engineer was determined not to test cast iron (he was concerned
+with his reputation, due to possible consequences to his career from
+involvement with ridiculous energies). Although Alex has pointed out that
+the microhardness test should be done on areas of steel between carbon
+nodules in the cast iron, I would prefer not to try cast iron until steel
+tests are completed.
+
+When correct steel is obtained, I will also try irradiating low carbon steel
+through carbon plate during the same test run.
+
+Regards
+James Mann
+
+
+
+From vortexC-L-request@eskimo.com  Sun Jul 16 23:02:42 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id WAA06887;
+	Sun, 16 Jul 2000 22:56:06 -0700
+Resent-Date: Sun, 16 Jul 2000 22:56:06 -0700
+Message-ID: <3972A02A.3D11EBA5@cyberone.com.au>
+Date: Mon, 17 Jul 2000 15:56:58 +1000
+From: Wesley Bruce <wbruce@cyberone.com.au>
+X-Mailer: Mozilla 4.5 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: vortexC-L@eskimo.com
+Subject: Re: Enquiry re metal sample
+References: <000f01bfecec$3b6e8900$1201a8c0@workstation-11> <00a701bfed72$3519c840$44ad0dd4@S>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Resent-Message-ID: <"3Y9VD3.0.Yh1.s_fSv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1897
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+
+"Alexander A.Shpilman" wrote:
+
+> >
+> > Does anybody know how to obtain a 0 .8% plain carbon steel sample??? I
+> have
+> > thought of carburizing a piece of mild steel, but the book says that this
+> > may leave the steel with a large crystal structure, which might be bad.
+>
+> What concentration of carbon has Damascus steel?
+
+Mixed Damascus steel is a macroscopic mix of hard and soft steel not a pure
+alloy. The britle cristals of pure steel is protected by the carbon steel and
+vise versa.
+
+
+>
+>
+> > Otherwise, all I can think of is to heat a piece of mild steel with an oxy
+> > torch and add a measured quantity of graphite or something, and stir. But
+> > what sort of crucible? And what to stir with?
+> >
+> > Is anybody knowledgeable in these matters?
+
+Some to harden steel heat and quench repeatedly in water but it will become
+brittle.
+The hardest steels are alloys that may introduce complex variables into your
+experiment. If the Torsion process your studying modifies the strenght by
+modifying the electrons or bonds, a change in the alloy may confuse the results.
+
+>
+>
+> Try to irradiate cast iron.
+> Or try to irradiate steel, with the low concentration of carbon, through a
+> plate of carbon. (Homoeopathy with steel.)
+>
+> Best regards,
+> Alexander A.Shpilman, E-mail: sah@kaznet.kz
+
+From vortexC-L-request@eskimo.com  Fri Jul 21 00:29:28 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id AAA10791;
+	Fri, 21 Jul 2000 00:21:28 -0700
+Resent-Date: Fri, 21 Jul 2000 00:21:28 -0700
+Message-ID: <000901bff3ad$5ecc43c0$e3042cd5@oemcomputer>
+Reply-To: "Jean-Pierre Lentin" <jplentin@club-internet.fr>
+From: "Jean-Pierre Lentin" <jplentin@club-internet.fr>
+To: <vortexC-L@eskimo.com>
+Subject: torsion aversion (fwd)
+Date: Sat, 22 Jul 2000 09:15:33 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0006_01BFF3BD.639152A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Resent-Message-ID: <"NK3y4.0.Se2.ud_Tv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1898
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0006_01BFF3BD.639152A0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi all !=20
+
+Here is a post that was sent last week on KeelyNet discussion list.
+I must say I'm not convinced.
+Sounds like it was written by some Russian conterparts of Robert Park, =
+Martin Gardner, Douglas Morrison, you name them...
+Anyway, for the records...=20
+
+Subject: The torsion swindle
+Date:    Wed, 12 Jul 2000 16:40:34 +0400 (MSD)
+From:    "PROFESSOR kONKRETNYJ" <professor@narod.ru>
+To:      jdecker@keelynet.com (and others)
+
+Gentlemen,
+
+There are publications on Shipov's theory of the physical
+vacuum (the theory of torsion fields) on your web-sites. I
+would like to inform you that in 1998, the Presidium of
+Russian Academy of Sciences has organized a special
+Commission for the struggle against falsification of
+scientific research.=20
+
+That Commission, headed by Academician of RAS Eduard P.
+Kruglyakov has found a great number of facts which clearly
+show that G.I.Shipov and A.E.Akimov are swindlers. I would
+also like to inform you that in 1991 (!), the RAS has
+carried a resolution that the so-called "torsion research
+program" organized by A.E.Akimov and based on Shipov's
+theory was a swindle in order to receive funding from the
+state budget.=20
+
+The money was spent, and no experimental results were
+achieved. Nobody has seen "torsion generators" Akimov and
+Shipov talk about. The aforementioned Commission has a
+number of protocols which show that Akimov's group falsified
+all results of their experiments. It is obvious that at
+present,=20
+
+Akimov and his group of swindlers are trying to repeat their
+swindle in other countries.
+
+It is also important to emphasize that leading Russian
+experts in torsion theories (e.c. P.I.Pronin) have
+repeatedly stated that Shipov's theory contains a number of
+obvious errors, it lacks the required mathematical rigor and
+contradicts the number of known experimentally established
+facts.
+
+If you wish to know the details I could give you Academician
+Kruglyakov's phone in Novosibirsk-city so that you could ask
+him any questions on the  "torsion swindle" (that term is
+well known in Russia).=20
+
+Here are links to Acad. Kruglyakov's articles where he
+describes a lot of facts on torsion swindle:
+
+http://www-sbras.nsc.ru/HBC/2000/n03/f12.html
+
+http://www-sbras.nsc.ru/HBC/2000/n07/f14.html
+
+The articles were published by Nauka v Sibiri (Science in
+Siberia in English) newspaper (an official weekly newspaper
+of Siberian Branch of Russian Academy of Sciences). =20
+
+Unfortunately, the articles are in Russian, but I can assure
+you, they are worth translating, for they present a great
+number of very interesting facts about the torsion swindle
+and the activities of Akimov and Shipov.
+
+I would also like to ask you to publish these articles on
+your web-sites, so that people in other countries could know
+the truth about this torsion swindle.
+
+If you have any questions, don't hesitate to email me.
+
+Alexander Konkretny - professor@narod.ru
+------------------------
+Torsion Field documents on the web;
+
+Vacuum spin waves;
+http://www.amasci.com/freenrg/tors/
+
+http://www.padrak.com/ine/NEN_5_11_2.html
+
+http://flux.aps.org/meetings/BAPSES96/abs/G0170002.html
+
+http://www.centuryinter.net/tjs11/hist/shipov.htm
+
+http://www.keelynet.com/interact/arc_1_98-7_98/00001918.htm
+------------------------
+Two online Russian translation programs (limited dictionary
+and size of translated text) can be found at;
+
+PromT - http://www.translate.ru/eng/erre.asp
+
+Dr. Michael Blekhmans Lingvistica 98 for PARS -
+http://www.ling98.com/index.html
+
+=20
+
+------=_NextPart_000_0006_01BFF3BD.639152A0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META content=3D"MSHTML 5.00.2614.3500" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>Hi all ! </FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Here is a post that was sent last week =
+on KeelyNet=20
+discussion list.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>I must say I'm not =
+convinced.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>Sounds like it was written by some =
+Russian=20
+conterparts of Robert Park, Martin Gardner, Douglas Morrison, you name=20
+them...</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>Anyway, for the =
+records...&nbsp;</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Subject: The torsion=20
+swindle<BR>Date:&nbsp;&nbsp;&nbsp; Wed, 12 Jul 2000 16:40:34 +0400=20
+(MSD)<BR>From:&nbsp;&nbsp;&nbsp; "PROFESSOR kONKRETNYJ" &lt;<A=20
+href=3D"mailto:professor@narod.ru">professor@narod.ru</A>&gt;<BR>To:&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;=20
+<A href=3D"mailto:jdecker@keelynet.com">jdecker@keelynet.com</A> (and=20
+others)</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Gentlemen,</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>There are publications on Shipov's =
+theory of the=20
+physical<BR>vacuum (the theory of torsion fields) on your web-sites. =
+I<BR>would=20
+like to inform you that in 1998, the Presidium of<BR>Russian Academy of =
+Sciences=20
+has organized a special<BR>Commission for the struggle against =
+falsification=20
+of<BR>scientific research. </FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>That Commission, headed by Academician =
+of RAS=20
+Eduard P.<BR>Kruglyakov has found a great number of facts which =
+clearly<BR>show=20
+that G.I.Shipov and A.E.Akimov are swindlers. I would<BR>also like to =
+inform you=20
+that in 1991 (!), the RAS has<BR>carried a resolution that the so-called =
+
+"torsion research<BR>program" organized by A.E.Akimov and based on=20
+Shipov's<BR>theory was a swindle in order to receive funding from =
+the<BR>state=20
+budget. </FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>The money was spent, and no =
+experimental results=20
+were<BR>achieved. Nobody has seen "torsion generators" Akimov =
+and<BR>Shipov talk=20
+about. The aforementioned Commission has a<BR>number of protocols which =
+show=20
+that Akimov's group falsified<BR>all results of their experiments. It is =
+obvious=20
+that at<BR>present, </FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Akimov and his group of swindlers are =
+trying to=20
+repeat their<BR>swindle in other countries.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>It is also important to emphasize that =
+leading=20
+Russian<BR>experts in torsion theories (e.c. P.I.Pronin) =
+have<BR>repeatedly=20
+stated that Shipov's theory contains a number of<BR>obvious errors, it =
+lacks the=20
+required mathematical rigor and<BR>contradicts the number of known=20
+experimentally established<BR>facts.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>If you wish to know the details I could =
+give you=20
+Academician<BR>Kruglyakov's phone in Novosibirsk-city so that you could=20
+ask<BR>him any questions on the&nbsp; "torsion swindle" (that term =
+is<BR>well=20
+known in Russia). </FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Here are links to Acad. Kruglyakov's =
+articles where=20
+he<BR>describes a lot of facts on torsion swindle:</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2><A=20
+href=3D"http://www-sbras.nsc.ru/HBC/2000/n03/f12.html">http://www-sbras.n=
+sc.ru/HBC/2000/n03/f12.html</A></FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2><A=20
+href=3D"http://www-sbras.nsc.ru/HBC/2000/n07/f14.html">http://www-sbras.n=
+sc.ru/HBC/2000/n07/f14.html</A></FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>The articles were published by Nauka v =
+Sibiri=20
+(Science in<BR>Siberia in English) newspaper (an official weekly =
+newspaper<BR>of=20
+Siberian Branch of Russian Academy of Sciences).&nbsp; </FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Unfortunately, the articles are in =
+Russian, but I=20
+can assure<BR>you, they are worth translating, for they present a=20
+great<BR>number of very interesting facts about the torsion =
+swindle<BR>and the=20
+activities of Akimov and Shipov.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>I would also like to ask you to publish =
+these=20
+articles on<BR>your web-sites, so that people in other countries could=20
+know<BR>the truth about this torsion swindle.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>If you have any questions, don't =
+hesitate to email=20
+me.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Alexander Konkretny - <A=20
+href=3D"mailto:professor@narod.ru">professor@narod.ru</A><BR>------------=
+------------<BR>Torsion=20
+Field documents on the web;</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Vacuum spin waves;<BR><A=20
+href=3D"http://www.amasci.com/freenrg/tors/">http://www.amasci.com/freenr=
+g/tors/</A></FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2><A=20
+href=3D"http://www.padrak.com/ine/NEN_5_11_2.html">http://www.padrak.com/=
+ine/NEN_5_11_2.html</A></FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2><A=20
+href=3D"http://flux.aps.org/meetings/BAPSES96/abs/G0170002.html">http://f=
+lux.aps.org/meetings/BAPSES96/abs/G0170002.html</A></FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2><A=20
+href=3D"http://www.centuryinter.net/tjs11/hist/shipov.htm">http://www.cen=
+turyinter.net/tjs11/hist/shipov.htm</A></FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2><A=20
+href=3D"http://www.keelynet.com/interact/arc_1_98-7_98/00001918.htm">http=
+://www.keelynet.com/interact/arc_1_98-7_98/00001918.htm</A><BR>----------=
+--------------<BR>Two=20
+online Russian translation programs (limited dictionary<BR>and size of=20
+translated text) can be found at;</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>PromT - <A=20
+href=3D"http://www.translate.ru/eng/erre.asp">http://www.translate.ru/eng=
+/erre.asp</A></FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Dr. Michael Blekhmans Lingvistica 98 =
+for PARS=20
+-<BR><A=20
+href=3D"http://www.ling98.com/index.html">http://www.ling98.com/index.htm=
+l</A></FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_000_0006_01BFF3BD.639152A0--
+
+From vortexC-L-request@eskimo.com  Fri Jul 21 02:08:48 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id CAA25173;
+	Fri, 21 Jul 2000 02:03:37 -0700
+Resent-Date: Fri, 21 Jul 2000 02:03:37 -0700
+Message-ID: <00cf01bff2fa$8c0ef700$f11552c3@S>
+From: "Alexander A.Shpilman" <sah@kaznet.kz>
+To: "Jean-Pierre Lentin" <jplentin@club-internet.fr>, <vortexC-L@eskimo.com>
+References: <000901bff3ad$5ecc43c0$e3042cd5@oemcomputer>
+Subject: Re: torsion aversion (fwd)
+Date: Fri, 21 Jul 2000 15:58:38 +0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00B4_01BFF32C.88C6BE20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6600
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6600
+Resent-Message-ID: <"FcA_C2.0.G96.f71Uv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1899
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_00B4_01BFF32C.88C6BE20
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi All !
+
+" PROFESSOR kONKRETNYJ " is a nickname old, patient, anonymous =
+intriguer. He has no what the relation to a science.
+
+On this theme read (Russian) in =
+http://www.pmicro.kz/MISC/UFL/Almanach/2n00/Rev.htm
+http://www.pmicro.kz/MISC/UFL/Almanach/2n00/NOstrange.htm
+http://www.pmicro.kz/MISC/UFL/Almanach/2n00/pseudoscience.htm
+
+Actually the Presidium of Russian Academy of Sciences began struggle =
+with free opinion of the scientists, and with freedom of access of the =
+people to the information. Tries will return to a situation which =
+existed in USSR.
+
+" PROFESSOR kONKRETNYJ " - calls to establish censorship in Internet.
+
+Regards,
+Alexander A.Shpilman, E-mail: sah@kaznet.kz
+
+
+------=_NextPart_000_00B4_01BFF32C.88C6BE20
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META content=3D"MSHTML 5.00.2919.6307" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV>
+<DIV><FONT color=3D#000000 face=3D"Times New Roman">
+<P>Hi All !</P>
+<P>" PROFESSOR kONKRETNYJ " is a nickname old, patient, anonymous =
+</FONT><FONT=20
+color=3D#000000 face=3D"Times New Roman">intriguer</FONT><FONT =
+color=3D#000000=20
+face=3D"Times New Roman">. He has no what the relation to a=20
+science.</P></FONT><FONT color=3D#000000 face=3DArial size=3D2>
+<P>On this theme read (Russian) in <A=20
+href=3D"http://www.pmicro.kz/MISC/UFL/Almanach/2n00/Rev.htm">http://www.p=
+micro.kz/MISC/UFL/Almanach/2n00/Rev.htm</A><BR><FONT=20
+face=3D"Times New Roman" size=3D3><A=20
+href=3D"http://www.pmicro.kz/MISC/UFL/Almanach/2n00/NOstrange.htm">http:/=
+/www.pmicro.kz/MISC/UFL/Almanach/2n00/NOstrange.htm</A><BR><A=20
+href=3D"http://www.pmicro.kz/MISC/UFL/Almanach/2n00/pseudoscience.htm">ht=
+tp://www.pmicro.kz/MISC/UFL/Almanach/2n00/pseudoscience.htm</A></FONT></P=
+>
+<P>Actually </FONT><FONT color=3D#000000 face=3DArial size=3D2>the =
+Presidium=20
+of</FONT><FONT color=3D#000000 face=3DArial size=3D2> </FONT><FONT =
+color=3D#000000=20
+face=3DArial size=3D2>Russian Academy of Sciences </FONT><FONT =
+color=3D#000000=20
+face=3DArial size=3D2>began struggle with free opinion of the =
+scientists, and with=20
+freedom of access of the people to the information. Tries will return to =
+a=20
+situation which existed in USSR.</P></FONT><FONT color=3D#000000=20
+face=3D"Times New Roman">
+<P>" PROFESSOR kONKRETNYJ " - calls to establish censorship in=20
+Internet.</P></FONT></DIV>
+<DIV><FONT face=3D"Times New Roman">Regards,</FONT></DIV>
+<DIV>Alexander A.Shpilman, E-mail: <A=20
+href=3D"mailto:sah@kaznet.kz">sah@kaznet.kz</A></DIV>
+<DIV>&nbsp;</DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_00B4_01BFF32C.88C6BE20--
+
+From vortexC-L-request@eskimo.com  Fri Aug 11 19:28:05 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id TAA26401;
+	Fri, 11 Aug 2000 19:23:38 -0700
+Resent-Date: Fri, 11 Aug 2000 19:23:38 -0700
+Message-ID: <3994CFDB.1795@telia.com>
+Date: Sat, 12 Aug 2000 04:17:31 +0000
+From: Stefan Lofstrand <hunneberg@telia.com>
+Reply-To: hunneberg@telia.com
+Organization: Not organized
+X-Mailer: Mozilla 2.02 [sv] (Macintosh: I 68K)
+MIME-Version: 1.0
+To: vortexC-L@eskimo.com
+CC: Taoshm-L <taoshum-L@eskimo.com>, William Beaty <billb@eskimo.com>
+Subject: Re: Radar Images
+References: <Pine.SUN.3.96.1000502165803.8028C-100000@eskimo.com>
+Content-Type: text/plain; charset=iso-8859-1; x-mac-type="54455854"; x-mac-creator="4D535744"
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline; filename="Vortex"
+Resent-Message-ID: <"ZUx6i2.0.SS6.gKBbv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1900
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Tuesday May 2 2000 William Beaty wrote:
+(Yes, an _old_ thread...)
+
+>On Mon, 1 May 2000, Stefan Lofstrand wrote:
+
+>> Goto http://www.carnicom.com/rad0429.htm
+>>
+>> >RADAR & SATELLITE IMAGES          APRIL 29 2000
+>>
+>> >The following images were collected from earthwatch.com and
+>> >weathertap.com on 04/29/00 at 0200. There is a marked disparity...
+
+>A single radar station doesn't cover the whole USA, they each can only
+>cover a couple of hundred miles.  The radar "image" is a composite made
+>from lots of separate radar displays.  Each radar produces a circular
+>display, so the composite image is full of little circular blotches.
+
+Yes, but there is also a _progression_ in the development of circular 
+blotches, which you can see in the animated weather radar map above. 
+First there are no circular cloud formations, then they develop and then 
+they grow. (Better radar movies were available in May, but now those links 
+give "Error 404"...)
+
+My pertinent (or maybe impertinent) question in the post of May 1 2000 
+was:
+
+>Is this some kind of HAARP experiment, or are those 'vortices' a natural
+>phenomenon?
+
+The "HAARP experiment" I was implying was of course weather 
+manipulation, an effect which HAARP is supposed to be able to perform, as 
+I understand. 
+
+I considered all the answers I received at the VortexC-list, but, I must 
+admit, I still did not feel convinced that weather engineering could not 
+reasonably be suspected to be the cause of this unusual radar image effect 
+(supposed to be an artifact).
+
+I snooped around the web for a while in search of further clues, but with 
+no success. Then I recently stumbled over the extract below, quoted from:
+
+http://www.millenngroup.com/repository/secret/brightskies5.html
+
+This is part 5 of a series of 6 with the title "Bright Skies" by Harry Mason, 
+B.Sc., M.Sc., M.A.I.M.M., M.I.M.M., F.G.S. As you probably already know, the web 
+is densely populated by moonies'n'loonies, but this guy can at least claim a 
+string of letters as a token of credibility... A connection between the 
+circular radar images and the information below is however not made by 
+Harry Mason (from what I know). This is instead my question: could such a 
+connection be ruled out?
+
+>>>
+Certain public observations on exotic cloud formations, new weather 
+patterns, and unusually wet weather suggest to this author that 
+experiments in weather engineering involving EM weapons technology 
+transmissions have been underway in Western Australia over the past 4-5 
+years, with the apparent aim to green our central semi-deserts and create 
+a series of huge forests - for commercial gain and to act as a CO2 sink.
+
+A large group of Japanese scientists including military personnel (some 50 
+people) were observed east of Perth last Easter 96 photographing with 
+telescopic tripod mounted cameras and observing by telescope such exotic 
+weather tests.
+
+Weather patterns observed on several occasions, including Easter 96, 
+consisted of several perfectly symetrical and exactly similar circular 
+cloud multi-ring complexes - each complex touching the next along the 
+outer cloud ring - each complex consisting of one cloud ring inside the 
+next - like a "Russian Doll" - creating five concentric "smoke rings" - 
+each cloud ring being tube like in x-sectional form - each complex having a
+diameter of some 30km - the group of cloud ring complexes formed as a 
+line over some 100km offshore of our western coast. Such totally 
+symetrical cloud formations and the associated events have never been 
+observed in previous W.A. history.
+
+The individual cloud ring complexes formed as one ring puff followed by 
+another each expanding until the entire cloud system was established over 
+a few hours in the late morning. Heavy weather formed up to seaward of 
+these cloud complexes by late afternoon and then swept inland in the early 
+evening. These events always involved evening power outages caused by 
+overvoltage generation in our Darling Ranges power line system - just 
+prior to the eastward movement of the previously static storm systems.
+Persons sensitive to EM fields were in physical agony all day as the cloud 
+system and heavy weather formed up. Such weather events have been seen 
+several times in the 1995/96 time period and correlated well with 
+cyclonic storms turning south off of our northern shores and rushing inland 
+to connect up with the eastwards moving heavy weather fronts - the 
+combination of two enormous storm systems then proceeding to
+dump highly anomalous rainfall into central and south-eastern Western 
+Australia.
+
+Note the recent press (Washington Post/Asia Wall Street 
+Journal/Malaysian Star 14/13-11-97 ) re Malaysia's intention to engage 
+the services of a Russian State company and it's secret orbital satellite 
+technology to create large cyclones (hurricanes to you Yanks) in order to 
+blow away the smoke and haze from the recent massive environmental
+disaster created by the huge Indonesian and Borneo Jungle Fires. This 
+Russian company now provides weather to order - anywhere on the planet - 
+at a multi-million dollar price.
+<<<
+
+$£: by the way, if you start reading "Bright Skies" from the beginning...
+
+http://www.millenngroup.com/repository/secret/brightskies1.html
+
+...you (@ taoshum-L) will find several references to "a loud roaring pulsed 
+diesel engine noise" &c...
+
+I cannot vouch for the credibility of Harry Mason, but...
+
+...if weather engineering is supposed to be a possibility, shouldn't it be 
+supposed to become a _reality_, already, sooner or later?
+
+Friendly greetings from humming Hunneberg: $£
+
+
+From vortexC-L-request@eskimo.com  Wed Aug 16 11:14:03 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id LAA31135;
+	Wed, 16 Aug 2000 11:09:47 -0700
+Resent-Date: Wed, 16 Aug 2000 11:09:47 -0700
+Message-ID: <399ADA2C.9A45DC7F@bellsouth.net>
+Date: Wed, 16 Aug 2000 14:15:08 -0400
+From: Terry Blanton <commengr@bellsouth.net>
+X-Mailer: Mozilla 4.73 [en] (WinNT; U)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: vortexc-l@eskimo.com
+Subject: [Fwd: ISSO San Francisco Torsion Field Conference]
+Content-Type: multipart/mixed;
+ boundary="------------B4FA3D8AF754CECCD0C1692E"
+Resent-Message-ID: <"iCvoG2.0.Qc7.gZjcv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1901
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+This is a multi-part message in MIME format.
+--------------B4FA3D8AF754CECCD0C1692E
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+ 
+--------------B4FA3D8AF754CECCD0C1692E
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Received: from mail13.bellsouth.net (mail13.bellsouth.net [205.152.0.11])
+	by mail1.atl.bellsouth.net (3.3.5alt/0.75.2) with ESMTP id NAA19699
+	for <commengr@atl.bellsouth.net>; Wed, 16 Aug 2000 13:42:37 -0400 (EDT)
+Received: from lbmail2.listbot.com (lbmail5.listbot.com [204.71.191.17])
+	by mail13.bellsouth.net (3.3.5alt/0.75.2) with SMTP id NAA07459
+	for <commengr@bellsouth.net>; Wed, 16 Aug 2000 13:52:08 -0400 (EDT)
+Received: (qmail 36797 invoked by uid 0); 16 Aug 2000 17:58:58 -0000
+Date: 16 Aug 2000 17:58:58 -0000
+Message-ID: <966448738.31327.qmail@ech>
+To: List Member <commengr@bellsouth.net>
+Mailing-List: ListBot mailing list contact stardrive.org-help@listbot.com
+From: StarDrive <lensman@stardrive.org>
+Delivered-To: mailing list stardrive.org@listbot.com
+Subject: ISSO San Francisco Torsion Field Conference
+X-Mozilla-Status2: 00000000
+
+StarDrive - http://www.stardrive.org
+
+Greetings StarDrive List Members,
+
+The International Space Sciences Organization (ISSO), in conjunction with
+the Internet Science Education Project (ISEP), is currently holding a
+Torsion Field Conference at ISSO facilities in San Francisco.  This topic
+has major significance for advanced, propellantless propulsion, as well as
+for novel forms of energy production. Be sure to read Jack Sarfatti's
+daily reports from the conference.  Click on the URL below:
+
+http://www.stardrive.org/title.shtml
+
+Bye for now,
+
+Lensman
+
+
+______________________________________________________________________
+To unsubscribe, write to stardrive.org-unsubscribe@listbot.com
+
+FREE SHIPPING OR FREE SUNGLASSES at wonderfulbuys.com!  We're giving
+free shipping on all our great buys plus get free sunglasses.  Also,
+register to win a Total Gym 3000 ($1000.00 retail value).  Click now,
+limited time offer.
+
+http://www.bcentral.com/listbot/wonderfulbuys
+
+
+
+--------------B4FA3D8AF754CECCD0C1692E--
+
+From vortexC-L-request@eskimo.com  Wed Aug 16 11:29:52 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id LAA05876;
+	Wed, 16 Aug 2000 11:27:19 -0700
+Resent-Date: Wed, 16 Aug 2000 11:27:19 -0700
+Date: Wed, 16 Aug 2000 14:21:50 -0400 (EDT)
+From: Jim Uban <uban@world.std.com>
+Message-Id: <200008161821.OAA15954@world.std.com>
+To: freenrg-l@eskimo.com, vortexC-L@eskimo.com
+Subject: FWD: ISSO San Francisco Torsion Field Conference
+Resent-Message-ID: <"YKwyf3.0.fR1.7qjcv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1902
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+All, Just received this notice, FYI...	Jim
+
+---------------------------------------------
+
+StarDrive - http://www.stardrive.org
+
+Greetings StarDrive List Members,
+
+The International Space Sciences Organization (ISSO), in conjunction with
+the Internet Science Education Project (ISEP), is currently holding a
+Torsion Field Conference at ISSO facilities in San Francisco.  This topic
+has major significance for advanced, propellantless propulsion, as well as
+for novel forms of energy production. Be sure to read Jack Sarfatti's
+daily reports from the conference.  Click on the URL below:
+
+http://www.stardrive.org/title.shtml
+
+Bye for now,
+
+Lensman
+
+From vortexC-L-request@eskimo.com  Thu Aug 17 17:10:24 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id RAA08999;
+	Thu, 17 Aug 2000 17:05:39 -0700
+Resent-Date: Thu, 17 Aug 2000 17:05:39 -0700
+X-Authentication-Warning: eskimo.com: billb owned process doing -bs
+Date: Thu, 17 Aug 2000 17:05:30 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Reply-To: William Beaty <billb@eskimo.com>
+To: freenrg-l@eskimo.com
+Subject: FWD: Russian Scientists demonstrate Magnetic-Gravity Effects    
+Message-ID: <Pine.SUN.3.96.1000817143927.22859P-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"UgzKA.0.IC2.Gt7dv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1903
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+
+
+Is this an old message?  I don't remember seeing it before (below).
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-781-3320          freenrg-L taoshum-L vortex-L webhead-L
+
+> >-----Original Message----- 
+> >From:	Tony Craddock [SMTP:webmaster@cseti.org]
+> >Sent:	Tuesday, August 15, 2000 5:10 PM 
+> >To:	webmaster@cseti.org
+> >Subject:	Russian Scientists demonstrate Magnetic-Gravity Effects    
+> >
+> >In a paper published in June, 2000, V.V. Roschin and S.M. Godin, two
+> >Members of the Institute for High Temperatures, Russian Academy of
+> >Sciences, Moscow,
+> >describe some amazing magnetic-gravity effects they have  achieved on
+> >the lab bench that parallel the breakthrough Anti-Gravity  research
+> >results released this year by Brazilian physicist Fran de Aquino. The
+> >Russian device, loosely derived from the legendary Searl Generator,
+> >exhibited the following anomalous characteristics: The rotor of the
+> >converter self-accelerated. At 550 RPM, the weight of the device
+> >changed rapidly.  The weight also depended on the power removed into
+> >the active load. The weight
+> >ultimately was reduced to 35% of the initial value.  In a  darkened
+> >room the converter rotor had a blue-pink luminescent coronic
+> >discharge. The device created a vertical magnetic wall around the
+> >installation, with sharp edge separation. There was an abnormal fall
+> >of temperature of 6-8 deg C in the lab, and also  within the magnetic
+> >walls, which could be clearly felt by hand. To quote from the Paper:
+> >"All the results we obtained are extremely unusual and require some
+> >theoretical explanation." The complete
+> >paper (in English) can be downloaded from the CSETI Website. A
+> >Department of Energy spokesperson commented to CSETI: "we have not been
+> >able to find any fault with the theory or the  experimental setup that
+> >Dr. De Aquino
+> >supplied nor have we found fault in  Dr.  Godin's experimental work in
+> >Moscow.  Both experiments offer insight  into controlling gravity and
+> >inertia through electromagnetics and should  provide a good basis for
+> >development of improved experiments and theory." Onwards and upwards
+> >(literally!) Tony Craddock   
+> >Regards Tony Craddock Web Administrator CSETI
+> >http://www.cseti.org
+
+From vortexC-L-request@eskimo.com  Mon Aug 21 13:37:31 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id NAA17077;
+	Mon, 21 Aug 2000 13:34:24 -0700
+Resent-Date: Mon, 21 Aug 2000 13:34:24 -0700
+X-Authentication-Warning: eskimo.com: billb owned process doing -bs
+Date: Mon, 21 Aug 2000 13:34:13 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+To: freenrg-l@eskimo.com
+Subject: Breakthrough Propulsion Physics (BPP)  (fwd)
+Message-ID: <Pine.SUN.3.96.1000821133328.28835F-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"T4Jo03.0.PA4.E9Pev"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1904
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+---------- Forwarded message ----------
+Date: Fri, 18 Aug 2000 10:04:04 -0500
+From: "Marc G. Millis" <Marc.G.Millis@lerc.nasa.gov>
+To:
+Subject: Breakthrough Propulsion Physics (BPP) 
+
+For those who are interested in what's next for the NASA Breakthrough
+Propulsion Physics (BPP) Project and what the project is doing to keep up
+with the latest round of claims (such as the one recently sent to you),
+here's WHAT'S NEXT
+
+A review of all tasks supported by the BPP project will occur in a session
+at the July 2001 Joint Propulsion Conference (JPC):
+
+	37th AIAA/ASME/SAE/ASEE Joint Propulsion Conference
+	Salt Lake City, Utah
+	08 to 11, July 2001
+
+Other papers about BPP related research results will also be solicited for
+this conference session.  This CALL FOR PAPERS will likely go out in the
+fall of 2000.  Contrary to prior years, I am not having BPP sessions at the
+next STAIF conference.  Rather than devoting my limited resources to
+another round of paper reviews, I am focusing my attention on setting up
+the means to support more research.
+
+
+Due to the larger than expected number of viable research candidates and
+the positive response to the BPP Project in general, the BPP Project plans
+and resources are under revision.  Currently, the following elements are
+being considered for addition to the BPP:
+	- BPP Research Consortium of NASA, Academic, and Industry Advisors.
+	- Internet Database with research results.
+	- Internet proposal / idea submission mechanism.
+
+The next CALL FOR RESEARCH PROPOSALS is currently being planned.  It is
+estimated that this call might go out around July of 2001 and will have a
+3-month response window.  In addition to having another formal solicitation
+in the summer of 2001, I am adapting the BPP solicitation and review
+process to the internet to handle submissions and reviews on a continuous,
+distributed basis.  In this way, spurious proposals can be compared to
+those that are already in the queue so that the best, rather than the most
+opportunistic, get support.  Furthermore, to prevent duplications of
+research, I am also setting up a database of research results and to list
+those topics that are currently under investigation.  In this way,
+prospective researchers or supporters can check to see if certain
+approaches have already been investigated.  I've encountered a number of
+frustrating situations where researchers have conducted tests without
+publishing the results, only to have that same dead-end approach get
+another round of support from someone else - again without publishing the
+null results.
+
+If you are doing any research related to BPP, I implore you to publish the
+results so that other researchers can learn from your experiences.  The
+2001 JPC is an appropriate venue.  Furthermore, I implore you to ensure
+that all reports are done in the most legitimate manner - no sensationalism
+and no jumping to conclusions.  This topic is still far enough off the
+beaten path so that exemplary behavior is required for it to be taken
+seriously.
+
+
+Thank you for your consideration,
+
+Marc
+
+------------------------
+Marc G. Millis
+Project Manager, NASA Breakthrough Propulsion Physics Project
+NASA John H. Glenn Research Center at Lewis Field
+21000 Brookpark Rd., MS 86-2
+Cleveland, OH 44135-3191
+
+Voice (216) 977-7535
+Fax (216) 977-7545
+Marc.G.Millis@GRC.NASA.gov
+
+Breakthrough Propulsion Physics PROJECT site:
+http://www.grc.nasa.gov/WWW/bpp/
+
+PUBLIC EDUCATION "Warp Drive, When?" site:
+http://www.grc.nasa.gov/WWW/PAO/warp.htm
+
+
+
+
+From vortexC-L-request@eskimo.com  Fri Oct 13 06:20:38 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id GAA03868;
+	Fri, 13 Oct 2000 06:16:20 -0700
+Resent-Date: Fri, 13 Oct 2000 06:16:20 -0700
+Message-ID: <006501c03520$1b6fa0e0$ef1552c3@s>
+From: "Alexander A.Shpilman" <sah@kaznet.kz>
+To: <vortexC-L@eskimo.com>
+References: <000c01be6efb$73f909a0$744e02c3@default>
+Subject: a place of power
+Date: Fri, 13 Oct 2000 19:58:43 +0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6600
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6600
+Resent-Message-ID: <"q2y-F1.0.Ny.aimvv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1905
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi All !
+
+"...N. is keeping the sticks in hands during half of a minute.
+A. - Do you have any exotic sensations?
+N. - No, I don't. There is only weak pulsing in the left hand.
+A. - Slowly conduct by the right hand (with the stick R in it) in front of
+you up and down to your sensations.
+N. -There are some sensations here (in the upper part of breast).
+A. - It is good. Now slowly conduct by the left hand (with the stick L in
+it) in front of you up and down and listen to your sensations.
+N. - Now I have a stronger sensation (in the upper part of the breast).
+A. - It is good. Now slightly move your hand up and down from the place
+where there are sensations, expanding a zone of sensations.
+N. - I feel increasing heat (hand is going up and down increasing its
+range)... The heat is distributing all over the body...
+A. - It is good. Is there a sensation of heat in your legs?
+N. - No, there is not.
+A. - Stand up (from the chair) and make a couple of squats... It is enough.
+What sensations do you have now?
+N. - The warmth has passed into my legs. I have burning in my heels. I am
+sweating all over.
+A. - It is good. It is enough for now.
+..."
+
+See http://www.pmicro.kz/MISC/UFL/Almanach/2n00/effectA.htm
+
+********
+
+"In some points of the Earth with the large intensity of "geofield" the
+increased concentration m-state of elements is observed. These points
+sometimes name as "a place of power".
+....."
+
+See http://www.pmicro.kz/MISC/UFL/Almanach/2n00/PowerA.htm
+
+********
+
+"For concentration m-state of elements in points of the Earth with the large
+intensity of "geofield" it is possible to use a simple design shown on
+figure in a section. It can easily and quickly be assembled from improvised
+materials.
+..."
+
+See http://www.pmicro.kz/MISC/UFL/Almanach/2n00/MstateA.htm
+
+
+Regards,
+Alexander A.Shpilman, E-mail: sah@kaznet.kz
+
+
+
+From vortexC-L-request@eskimo.com  Fri Oct 13 10:17:28 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id KAA07728;
+	Fri, 13 Oct 2000 10:14:40 -0700
+Resent-Date: Fri, 13 Oct 2000 10:14:40 -0700
+Message-ID: <002401c034f8$51623be0$3ae5b5d0@a9o0z0>
+From: "Alik S" <alik@intergate.bc.ca>
+To: <vortexC-L@eskimo.com>
+Subject: Re: a place of power
+Date: Fri, 13 Oct 2000 09:31:07 -0000
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 4.72.3110.1
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+Resent-Message-ID: <"_TPSd1.0.hu1._Bqvv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1906
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Regarding 'places of power' , has anyone here ever visited Oregon Vortex or
+any of the other half a dozen similar spots in US, and what do you think of
+them ?
+
+Alik S.
+
+
+-----Original Message-----
+From: Alexander A.Shpilman <sah@kaznet.kz>
+To: vortexC-L@eskimo.com <vortexC-L@eskimo.com>
+Date: Friday, October 13, 2000 1:16 PM
+Subject: a place of power
+
+
+>Hi All !
+>
+>"...N. is keeping the sticks in hands during half of a minute.
+>A. - Do you have any exotic sensations?
+>N. - No, I don't. There is only weak pulsing in the left hand.
+>A. - Slowly conduct by the right hand (with the stick R in it) in front of
+>you up and down to your sensations.
+>N. -There are some sensations here (in the upper part of breast).
+>A. - It is good. Now slowly conduct by the left hand (with the stick L in
+>it) in front of you up and down and listen to your sensations.
+>N. - Now I have a stronger sensation (in the upper part of the breast).
+>A. - It is good. Now slightly move your hand up and down from the place
+>where there are sensations, expanding a zone of sensations.
+>N. - I feel increasing heat (hand is going up and down increasing its
+>range)... The heat is distributing all over the body...
+>A. - It is good. Is there a sensation of heat in your legs?
+>N. - No, there is not.
+>A. - Stand up (from the chair) and make a couple of squats... It is enough.
+>What sensations do you have now?
+>N. - The warmth has passed into my legs. I have burning in my heels. I am
+>sweating all over.
+>A. - It is good. It is enough for now.
+>..."
+>
+>See http://www.pmicro.kz/MISC/UFL/Almanach/2n00/effectA.htm
+>
+>********
+>
+>"In some points of the Earth with the large intensity of "geofield" the
+>increased concentration m-state of elements is observed. These points
+>sometimes name as "a place of power".
+>....."
+>
+>See http://www.pmicro.kz/MISC/UFL/Almanach/2n00/PowerA.htm
+>
+>********
+>
+>"For concentration m-state of elements in points of the Earth with the
+large
+>intensity of "geofield" it is possible to use a simple design shown on
+>figure in a section. It can easily and quickly be assembled from improvised
+>materials.
+>..."
+>
+>See http://www.pmicro.kz/MISC/UFL/Almanach/2n00/MstateA.htm
+>
+>
+>Regards,
+>Alexander A.Shpilman, E-mail: sah@kaznet.kz
+>
+>
+>
+>
+
+From vortexC-L-request@eskimo.com  Mon Oct 16 01:52:11 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id BAA12914;
+	Mon, 16 Oct 2000 01:44:31 -0700
+Resent-Date: Mon, 16 Oct 2000 01:44:31 -0700
+From: "Fred Epps" <fepps@fidalgo.net>
+To: <vortexC-L@eskimo.com>
+Subject: RE: a place of power
+Date: Mon, 16 Oct 2000 01:43:37 -0700
+Message-ID: <NDBBKNDBNLNEONFFPBKLOEIEDEAA.fepps@fidalgo.net>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Importance: Normal
+In-Reply-To: <002401c034f8$51623be0$3ae5b5d0@a9o0z0>
+Resent-Message-ID: <"aWiF-3.0.j93.l_hwv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1907
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi Alik, Alexander, and all,
+
+Yes, I've visited the Oregon vortex twice. Although my own experiments have
+shown me that such "power spots" exist, I was very suspicious of this one,
+due to the hut built there which was designed as an optical illusion of the
+"distorted perspective" type. So I was careful to observe effects away from
+the hut. It does appear to be a very powerful vortex. It's possible to see
+the distortion of the tree trunks in the surrounding area. You can also
+feel the energy emanating from the ground. If you stand in one place, you
+will discover that your body is rotating slightly around the perpendicular.
+There is a location which has a (I think it was) a bubble level, built into
+the ground. I stood on one end of the level and my wife on the other, I
+appeared much taller than her, both in photos and my own position. But with
+positions reversed, she was taller than me.
+I agree with many of Alexander's observations about "power spots"-- the
+vegetation, UFO sightings, etc.-- but not that they are the products of
+materials with special properties. I do agree that such materials exist,
+and they may have synergy with the power spots, to make them more powerful
+or alter their properties. But the spots themselves seem to be in grid-like
+patterns regardless of the composition of the earth beneath them.
+
+Regards,
+Fred
+>
+> Regarding 'places of power' , has anyone here ever visited
+> Oregon Vortex or
+> any of the other half a dozen similar spots in US, and what do
+> you think of
+> them ?
+>
+
+From vortexC-L-request@eskimo.com  Mon Oct 16 14:48:00 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id OAA29394;
+	Mon, 16 Oct 2000 14:40:25 -0700
+Resent-Date: Mon, 16 Oct 2000 14:40:25 -0700
+From: "Fred Epps" <fepps@fidalgo.net>
+To: <vortexC-L@eskimo.com>
+Subject: RE: a place of power
+Date: Mon, 16 Oct 2000 14:39:25 -0700
+Message-ID: <NDBBKNDBNLNEONFFPBKLOEIKDEAA.fepps@fidalgo.net>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Importance: Normal
+In-Reply-To: <39EAF58A.A1F991F8@bellsouth.net>
+Resent-Message-ID: <"B_L-71.0.CB7.9Ntwv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1909
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi Terry  and all,
+
+Like many things in nature, the smaller they are, the more of them there
+are. Small ones are everywhere, like within any
+house-sized area-- unless you are unfortunate enough to live in a "dead
+zone".
+
+Regards,
+Fred
+>
+> I think Sedona, AZ is alleged to be one of these.
+>
+> Terry
+>
+>
+
+From vortexC-L-request@eskimo.com  Mon Oct 16 20:57:57 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id UAA30872;
+	Mon, 16 Oct 2000 20:56:30 -0700
+Resent-Date: Mon, 16 Oct 2000 20:56:30 -0700
+Message-ID: <001a01c037ad$80bcca60$59e5b5d0@a9o0z0>
+From: "Alik S" <alik@intergate.bc.ca>
+To: <vortexC-L@eskimo.com>
+Subject: Re: a place of power
+Date: Mon, 16 Oct 2000 20:13:08 -0000
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 4.72.3110.1
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+Resent-Message-ID: <"U1-4X3.0.BY7.jtywv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1910
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+I just drove from Santa Cruz up to Canada and the vortex in Santa Cruz seems
+to do the height-change thing, There is another one in Redwood forest, seems
+to work. Another 2 are in Hungry-Horse Montana and on HWY 2 near Great-Lakes
+and they also seem to 'work'. What is bizzare is that they all have the
+silly crooked cabin planted on them, like some kind of a 'franchise'.
+
+Alik S.
+
+From vortexC-L-request@eskimo.com  Mon Oct 16 23:17:19 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id XAA00699;
+	Mon, 16 Oct 2000 23:03:42 -0700
+Resent-Date: Mon, 16 Oct 2000 23:03:42 -0700
+From: Robin van Spaandonk <rvanspaa@bigpond.net.au>
+To: vortexC-L@eskimo.com
+Subject: Re: a place of power
+Date: Tue, 17 Oct 2000 17:03:04 +1100
+Organization: Improving
+Message-ID: <jrqnussnt43s9f85gti9jlu686l27s7jep@4ax.com>
+References: <001a01c037ad$80bcca60$59e5b5d0@a9o0z0>
+In-Reply-To: <001a01c037ad$80bcca60$59e5b5d0@a9o0z0>
+X-Mailer: Forte Agent 1.8/32.548
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by mx1.eskimo.com id XAA00647
+Resent-Message-ID: <"f3fdL.0.sA.zk-wv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1911
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+In reply to  Alik S's message of Mon, 16 Oct 2000 20:13:08 -0000:
+
+>I just drove from Santa Cruz up to Canada and the vortex in Santa Cruz seems
+>to do the height-change thing, There is another one in Redwood forest, seems
+>to work. Another 2 are in Hungry-Horse Montana and on HWY 2 near Great-Lakes
+>and they also seem to 'work'. What is bizzare is that they all have the
+>silly crooked cabin planted on them, like some kind of a 'franchise'.
+>
+>Alik S.
+The idea is to look so ridiculous that no one will look for a real anomaly.
+
+
+Regards,
+
+Robin van Spaandonk
+
+It's no good just telling people to stop doing whatever they do 
+to earn a living...you have to show them a better way.
+
+From vortexC-L-request@eskimo.com  Tue Oct 17 06:32:43 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id GAA12152;
+	Tue, 17 Oct 2000 06:30:23 -0700
+Resent-Date: Tue, 17 Oct 2000 06:30:23 -0700
+X-Originating-IP: [192.250.112.133]
+From: "Chris Moon" <cjmoon@hotmail.com>
+To: vortexC-L@eskimo.com
+Subject: Re: a place of power
+Date: Tue, 17 Oct 2000 13:29:50 GMT
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F13ZS2TRqf69aZbLAX3000040f7@hotmail.com>
+X-OriginalArrivalTime: 17 Oct 2000 13:29:50.0789 (UTC) FILETIME=[5396BF50:01C0383E]
+Resent-Message-ID: <"BCwM3.0.lz2.kH5xv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1912
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi
+Are there any vortices in England?
+
+Cheers
+
+Chris M.
+
+
+>Resent-Sender: vortexC-L-request@eskimo.com
+>
+>In reply to  Alik S's message of Mon, 16 Oct 2000 20:13:08 -0000:
+>
+> >I just drove from Santa Cruz up to Canada and the vortex in Santa Cruz 
+>seems.....................
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at 
+http://profiles.msn.com.
+
+From vortexC-L-request@eskimo.com  Tue Oct 17 12:56:20 2000
+Received: (from smartlst@localhost)
+	by mx2.eskimo.com (8.9.1a/8.8.8) id MAA17215;
+	Tue, 17 Oct 2000 12:46:11 -0700 (PDT)
+Resent-Date: Tue, 17 Oct 2000 12:46:11 -0700 (PDT)
+From: "Fred Epps" <fepps@fidalgo.net>
+To: <vortexC-L@eskimo.com>
+Subject: RE: a place of power
+Date: Tue, 17 Oct 2000 11:12:07 -0700
+Message-ID: <NDBBKNDBNLNEONFFPBKLMEJADEAA.fepps@fidalgo.net>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Importance: Normal
+In-Reply-To: <F13ZS2TRqf69aZbLAX3000040f7@hotmail.com>
+Resent-Message-ID: <"fBUH31.0.uC4.QnAxv"@mx2>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1913
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi Chris and all,
+
+Yes, of course. The great neolithic sites like Stonehenge and Silsbury
+(sp?)  Hill are placed on large vortices. The ancient people were well
+aware of the locations of these things.
+
+It should be said though that the ley lines and vortices, though they
+interact, are probably not the same thing. Ley lines are energy flows. I
+believe the poorly named "vortices" are pure one-dimensional geometric
+intersections between different realities. Energy flows in and out of them
+but they are not themselves energy.
+
+Regards,
+Fred
+>
+> Hi
+> Are there any vortices in England?
+>
+> Cheers
+>
+> Chris M.
+>
+>
+> >Resent-Sender: vortexC-L-request@eskimo.com
+> >
+> >In reply to  Alik S's message of Mon, 16 Oct 2000 20:13:08 -0000:
+> >
+> > >I just drove from Santa Cruz up to Canada and the vortex in
+> Santa Cruz
+> >seems.....................
+> _________________________________________________________________________
+> Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+>
+> Share information about yourself, create your own public profile at
+> http://profiles.msn.com.
+>
+>
+
+From vortexC-L-request@eskimo.com  Tue Oct 17 17:02:39 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id QAA22694;
+	Tue, 17 Oct 2000 16:54:16 -0700
+Resent-Date: Tue, 17 Oct 2000 16:54:16 -0700
+Message-ID: <000601c03854$d5ea8a20$72e5b5d0@a9o0z0>
+From: "Alik S" <alik@intergate.bc.ca>
+To: <vortexC-L@eskimo.com>
+Subject: Re: a place of power
+Date: Tue, 17 Oct 2000 16:10:56 -0000
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 4.72.3110.1
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+Resent-Message-ID: <"kHxkR1.0.TY5.dQExv"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1914
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+There is a really neat book called "Earth energy" that discusses all sorts
+of Ley lines and related phenomena in England.
+
+The Oregon vortex supposedly has a set of criss-crossing ley lines mapped
+out by the previous inhabitants and for what it is worth my
+bent-coat-hangers picked them up.
+
+Alik S.
+
+
+
+>> Hi
+>> Are there any vortices in England?
+>>
+>> Cheers
+>>
+>> Chris M.
+>>
+>>
+>> >Resent-Sender: vortexC-L-request@eskimo.com
+>> >
+>> >In reply to  Alik S's message of Mon, 16 Oct 2000 20:13:08 -0000:
+>> >
+>> > >I just drove from Santa Cruz up to Canada and the vortex in
+>> Santa Cruz
+>> >seems.....................
+>> _________________________________________________________________________
+>> Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+>>
+>> Share information about yourself, create your own public profile at
+>> http://profiles.msn.com.
+>>
+>>
+>
+>
+
+From vortexC-L-request@eskimo.com  Wed Nov  1 11:06:15 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id KAA23081;
+	Wed, 1 Nov 2000 10:56:33 -0800
+Resent-Date: Wed, 1 Nov 2000 10:56:33 -0800
+X-Authentication-Warning: eskimo.com: billb owned process doing -bs
+Date: Wed, 1 Nov 2000 10:56:28 -0800 (PST)
+From: William Beaty <billb@eskimo.com>
+To: vortexC-L@eskimo.com
+Subject: Re: a place of power
+In-Reply-To: <jrqnussnt43s9f85gti9jlu686l27s7jep@4ax.com>
+Message-ID: <Pine.SUN.3.96.1001101101909.23979A-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"OgD1O.0.ae5.XT60w"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1915
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+On Tue, 17 Oct 2000, Robin van Spaandonk wrote:
+
+> In reply to  Alik S's message of Mon, 16 Oct 2000 20:13:08 -0000:
+> >What is bizzare is that they all have the
+> >silly crooked cabin planted on them, like some kind of a 'franchise'.
+> >
+> >Alik S.
+>
+> The idea is to look so ridiculous that no one will look for a real anomaly.
+
+That doesn't stop your hardy fringe-science researchers!  Doug Vogt
+journeyed to many of them across the US, then wrote a book:
+
+   GRAVITATIONAL MYSTERY SPOTS
+   http://www.amazon.com/exec/obidos/ISBN=0930808045/sciencehobbyist/
+
+(delete 'sciencehobbyist' above if you don't want amazon.com to donate 10%
+to sciclub.org) 
+
+
+Mr. Vogt performed time-flow experiments at a couple of these spots by
+comparing the frequency of widely-spaced crystal oscillators (at around
+30MHz if I recall.)  He found a small effect at the 'Oregon Vortex', like
+a few tens of PPM I think.  But it was unclear whether it could have been
+caused by temperature drift.  If not, then a crystal oscillator "probe" on
+the end of a long cable can be used to map the vortex effect.  Vogt is
+local to Seattle and spoke at one of our 'Weird Science' meetings a couple
+of years ago. 
+
+His website:
+
+   http://www.wolfe.net/~archive/
+   http://www.wolfe.net/~archive/gravity.html
+
+
+I visited the Oregon Vortex last year, and the height-change effect is as
+Fred says:  clearly visible even when not facing the distorted building. 
+
+In addition my wife and I noticed a powerful subjective effect.  While
+driving to the site (on a narrow paved farm road) we saw a sign saying
+"Vortex 1/4 mile".  But then after many minutes there was nothing.  I was
+certain we had traveled a couple of miles and had missed the site.  But
+then we came to a crossroads with a sign saying (if I recall correctly)
+"vortex 1/8" mile!  After another LONG time driving, we arrived.  I
+thought that the distances must have been mismarked on the signs. 
+
+But then while driving out again, we immediately crossed some railroad
+tracks. I thought that was strange, because we had just left, yet there
+were railroad tracks near the START of the long road, out near the main
+highway.  Were there two sets of tracks?  No, because there was the
+highway!  Our drive OUT from the vortex seemed to last a couple of
+minutes, while the drive IN towards the vortex seemed to last about 20
+minutes. 
+
+If the center of the vortex was truely operating with many minutes of
+time-slip compared to the outside world, wouldn't this be easily measured?
+If the time "phase" is genuinely altered, the speed of light would alter,
+and we would see a huge bubble of optical distortion covering the region
+like a lens made of aerogel.  Radio waves would be deflected as well,
+leading to easily detected "dead zones."  I think that such a huge,
+obvious effect is surely subjective.
+
+I tried to detect any deflection in the beam from a laser pointer in the
+region of the Seattle vortex Fred Epps told me about, but the wooden boom
+that I used was too flexible to detect changes less than 1cm over about
+two meters.  And I wasn't certain about the exact location (in Gasworks
+Park north of the city.)
+
+The "height change"  effect seen at the Oregon Vortex is supposed to be
+objective, and detectable by cameras.  It must be based on the deflection
+of light, as if the vortex region was like a distorting lens.  Hey, maybe
+somebody could rig up a pair of stronger lasers to project parallel beams
+over thousands of meters, then take the device to the region of a vortex
+effect and see if the beams remain parallel. Position the lasers a couple
+of meters apart, so the beams remain spaced at 2M over a large distance,
+then send the beams through a suspected vortex region and see if the 2M
+spacing changes at all.  As I found before, the main challenge is to
+construct a solid base for the lasers which can be carried from place to
+place, but which does not bend significantly or otherwise change the
+laser alignment.
+
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-789-0775          freenrg-L taoshum-L vortex-L webhead-L
+
+From vortexC-L-request@eskimo.com  Wed Nov  1 14:19:57 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id OAA17201;
+	Wed, 1 Nov 2000 14:09:33 -0800
+Resent-Date: Wed, 1 Nov 2000 14:09:33 -0800
+From: bpaddock@csonline.net (Bob Paddock)
+To: vortexC-L@eskimo.com
+Subject: Re: a place of power
+Date: Wed, 01 Nov 2000 17:05:47 -0500
+Organization: is mostly via piles
+Reply-To: bpaddock@csonline.net
+Message-ID: <7OJA6UQy8wbO092yn@csonline.net>
+References: <Pine.SUN.3.96.1001101101909.23979A-100000@eskimo.com>
+In-Reply-To: <Pine.SUN.3.96.1001101101909.23979A-100000@eskimo.com>
+Lines: 17
+User-Agent: VSoup v1.2.9.47Beta [95/NT]
+Resent-Message-ID: <"QHXz61.0.SC4.SI90w"@mx1>
+Resent-From: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1916
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+My friends and I have often commented about this effect
+when hiking in the forest around here.  Takes you hours to
+get to camp, but only about 1/4 of the time to get from camp
+back to home.
+
+>In addition my wife and I noticed a powerful subjective effect.  While
+>driving to the site (on a narrow paved farm road) we saw a sign saying
+>"Vortex 1/4 mile".  But then after many minutes there was nothing.  I was
+...
+>But then while driving out again, we immediately crossed some railroad
+>tracks. I thought that was strange, because we had just left, yet there
+>were railroad tracks near the START of the long road, out near the main
+>highway.  Were there two sets of tracks?  No, because there was the
+>highway!  Our drive OUT from the vortex seemed to last a couple of
+>minutes, while the drive IN towards the vortex seemed to last about 20
+>minutes. 
+
+From vortexC-L-request@eskimo.com  Wed Nov  1 14:55:23 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id OAA32512;
+	Wed, 1 Nov 2000 14:48:40 -0800
+Resent-Date: Wed, 1 Nov 2000 14:48:40 -0800
+Mime-Version: 1.0
+X-Sender: rick@mail.highsurf.com
+Message-Id: <v04210102b6263a5d62c7@[192.168.0.2]>
+In-Reply-To: <Pine.SUN.3.96.1001101101909.23979A-100000@eskimo.com>
+References: <Pine.SUN.3.96.1001101101909.23979A-100000@eskimo.com>
+Date: Wed, 1 Nov 2000 12:48:24 -1000
+To: vortexC-L@eskimo.com
+From: Rick Monteverde <rick@highsurf.com>
+Subject: A place of power <long>
+Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Resent-Message-ID: <"8FlAw.0.xx7.8t90w"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1917
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Bill -
+
+I've been thinking about this since Fred's message.
+
+Does anyone know which "vortex" Einstein was supposed to have 
+visited, whether the story is true, and whether he was serious about 
+his comments regarding the site?
+
+Also after reading these and other messages and thinking about the 
+superconductor experiments, the Wallace claims, acoustic levitation 
+and similar things, I'm beginning to get the outline of an idea that 
+might be testable.
+
+It involves the movement of matter/mass phase waves through 
+materials. Nothing fancy or unconventional: ordinary longitudinal 
+sound waves compress and rarify matter, and that travelling area of 
+compression/rarification is equivalent to a small bit of mass moving 
+continuously through the larger body. But such virtual mass 
+differentials can travel far faster than the acoustic speed in the 
+material as phase waves - perhaps reaching relativistic velocities 
+under special circumstances. Such virtual waves could be composed of 
+either macroscopic areas of the mass as in sound, or subatomic 
+quantized waves as in lattice ion gyrations as per the Wallace claims 
+or in superconductors. Macroscopic motion might couple to and entrain 
+the subatomic, as Wallace claims by using ordinary (and 
+relativistically slow) macroscopic spinning of the target mass.
+
+Such mass waves in ordinary matter certainly do exist. Whether they 
+have any real significance or would or could ever create measurable 
+relativistic effects, I have no idea. But I always wondered how 
+enough mass could gyrate at relativistic velocities in Wallace's 
+samples without creating enormous gyroscopic or centrifugal forces, 
+and phase waves explain it. Fans doing the wave in a large stadium 
+(imagine this wave being composed of fans leaning right and left in 
+their seats for a compressional wave circulating around the stadium) 
+wouldn't generate large forces against the stadium structure even 
+though a very well timed fast 'wave' might be travelling several 
+hundred miles per hour and involve thousands of pounds.
+
+<WILD SPECULATION>
+Perhaps embeded geological structures like domes or cone/pyramid-like 
+structures delineated by faults can capture and amplify subtle 
+tendencies for the random motion of ordinary matter to being to 
+accumulate a circulatory bias over time, resulting in a vortex of 
+noticable proportions. Such areas would be the natural gravitational 
+equivalent of magnetic lodestone, with virtual relativistic mass 
+currents giving rise to a gravitational vortex similar to the way the 
+virtual circular electrical current in magnets give rise to a 
+magnetic field. What would you call this? Electret, magnet ... 
+"gravet"? Might explain pyramid anomalies too, as a horn shaped form 
+might enhance and focus such motions towards the peak.
+
+And how about those Tibetans?<g> Imagine all the possible phase wave 
+paths and velocities in ordinary thermally/acoustically jiggling 
+mass. Practically infinite. Any number of particle movements might be 
+compared with any number of particle movements nearby in space and 
+time, and a wave function could be generated from those figures. An 
+enormous random mess. Now consider absolutely cold matter doing one 
+nice wave (like the well-timed stadium fans above) at a single 
+velocity (frequency). One single wave function. Now consider all the 
+states of wave-ish coherence in between the chaotic example and the 
+single large wave example. Given that experiments have shown that 
+human thought can influence the statistical outcome of large numbers 
+of small-energy random events, it might be possible to shift the 
+statistical profile of that enormous number of phase waves slightly 
+towards the single wave ideal (and preferably at relativistic 
+velocity, too) with mental effort. Maybe 'prayer' does count, in 
+addition to all the noise!
+<WILD SPECULATION/>
+
+Anyway, FWIW. Anyone thinking along similar lines - aside from the 
+wild speculations above? I would think Forward would have thought 
+about this since he works on notions of gravitational modification 
+through application of conventional theory.
+
+- Rick Monteverde
+Honolulu, HI
+
+
+>On Tue, 17 Oct 2000, Robin van Spaandonk wrote:
+>
+>> In reply to  Alik S's message of Mon, 16 Oct 2000 20:13:08 -0000:
+>> >What is bizzare is that they all have the
+>> >silly crooked cabin planted on them, like some kind of a 'franchise'.
+>> >
+>> >Alik S.
+>>
+>> The idea is to look so ridiculous that no one will look for a real anomaly.
+>
+>That doesn't stop your hardy fringe-science researchers!  Doug Vogt
+>journeyed to many of them across the US, then wrote a book:
+>
+>   GRAVITATIONAL MYSTERY SPOTS
+>   http://www.amazon.com/exec/obidos/ISBN=0930808045/sciencehobbyist/
+>
+>(delete 'sciencehobbyist' above if you don't want amazon.com to donate 10%
+>to sciclub.org)
+>
+>
+<snip>
+
+From vortexC-L-request@eskimo.com  Thu Nov  2 16:20:12 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id QAA14839;
+	Thu, 2 Nov 2000 16:15:37 -0800
+Resent-Date: Thu, 2 Nov 2000 16:15:37 -0800
+Message-ID: <010901c04526$866c6b60$df5cadd1@default>
+From: "Jim Shaffer, Jr." <jshaffer@uplink.net>
+To: <vortexC-L@eskimo.com>
+References: <Pine.SUN.3.96.1001101101909.23979A-100000@eskimo.com> <v04210102b6263a5d62c7@[192.168.0.2]>
+Subject: Re: A place of power <long>
+Date: Thu, 2 Nov 2000 16:51:10 -0500
+Organization: Unconventional Conventionalists
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Resent-Message-ID: <"AOT-43.0.kd3.fEW0w"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1918
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+> Does anyone know which "vortex" Einstein was supposed to have
+> visited, whether the story is true, and whether he was serious about
+> his comments regarding the site?
+
+I've never heard that story.  I have, however, read that Wilhelm Reich visited
+the San Luis Valley, site of many bizarre UFO sightings, and agreed that it was
+a power point.  I have only read this in one source, and it sounds rather
+un-Reichian because I didn't think he would be into New Age mysticism.  If
+anyone can provide a cite in Reich's works, please let me know.
+
+--
+"[W]hether or not [the Philadelphia Experiment] happened in 1943 is not
+relevant.  It is, for us, like the 'flying saucer' a gedankenexperiment
+to get us to the next step in post-Einsteinian unified field theory."
+     -Dr. Jack Sarfatti, in http://stardrive.org/Jack/algebra.pdf
+
+
+From vortexC-L-request@eskimo.com  Fri Nov  3 17:16:11 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id RAA06109;
+	Fri, 3 Nov 2000 17:14:07 -0800
+Resent-Date: Fri, 3 Nov 2000 17:14:07 -0800
+From: bpaddock@csonline.net (Bob Paddock)
+To: vortexC-L@eskimo.com
+Subject: Re: A place of power <long>
+Date: Fri, 03 Nov 2000 20:00:07 -0500
+Organization: is mostly via piles
+Reply-To: bpaddock@csonline.net
+Message-ID: <X+1A6UQy80/H092yn@csonline.net>
+References: <Pine.SUN.3.96.1001101101909.23979A-100000@eskimo.com>
+ <v04210102b6263a5d62c7@[192.168.0.2]>
+In-Reply-To: <v04210102b6263a5d62c7@[192.168.0.2]>
+Lines: 31
+User-Agent: VSoup v1.2.9.47Beta [95/NT]
+Resent-Message-ID: <"c6hz92.0.LV1.VBs0w"@mx1>
+Resent-From: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1919
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+Rick, just about ever thing in your message reminds me of,
+or directly relates to the pages you can find here:
+
+	NAME=NEW MILLENNIUM: NEW PHYSICS
+	URL=http://hometown.aol.com/dmboss1021/NEWPH/Index.html
+
+relate pages:
+
+	NAME=Pegasus Products Home Page
+	URL=http://www.pegasusproducts.com/Pegasus/index.lasso
+
+	NAME=The Hilarion Page
+	URL=http://www.hilarion.com/
+
+They deal with the effects of 'Inert' or 'Noble' gases.
+
+>It involves the movement of matter/mass phase waves through 
+>materials. Nothing fancy or unconventional: ordinary longitudinal 
+>sound waves compress and rarify matter, and that travelling area of 
+>compression/rarification is equivalent to a small bit of mass moving 
+>continuously through the larger body.
+...
+>Anyway, FWIW. Anyone thinking along similar lines - aside from the 
+>wild speculations above?
+
+-- 
+For information on any of the following check out my WEB site at:
+                   http://www.csonline.net/bpaddock/
+             Chronic Pain Relief, Philadelphia Experiment.
+http://www.chipcenter.com/circuitcellar/crparciv.htm http://www.uCOS-II.com
+
+From vortexC-L-request@eskimo.com  Sun Nov  5 08:48:32 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id IAA21303;
+	Sun, 5 Nov 2000 08:46:19 -0800
+Resent-Date: Sun, 5 Nov 2000 08:46:19 -0800
+From: "Fred Epps" <fepps@fidalgo.net>
+To: <bpaddock@csonline.net>, <vortexC-L@eskimo.com>
+Subject: RE: a place of power
+Date: Sun, 5 Nov 2000 08:44:49 -0800
+Message-ID: <NDBBKNDBNLNEONFFPBKLEEBNDFAA.fepps@fidalgo.net>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Importance: Normal
+In-Reply-To: <7OJA6UQy8wbO092yn@csonline.net>
+Resent-Message-ID: <"fmd-B.0.iC5.RxO1w"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1922
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi Bob,
+
+Is it any particular place, or just everwhere you hike?
+
+Regards,
+Fred
+> 
+> 
+> My friends and I have often commented about this effect
+> when hiking in the forest around here.  Takes you hours to
+> get to camp, but only about 1/4 of the time to get from camp
+> back to home.
+> 
+
+From vortexC-L-request@eskimo.com  Sun Nov  5 08:48:32 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id IAA21260;
+	Sun, 5 Nov 2000 08:46:18 -0800
+Resent-Date: Sun, 5 Nov 2000 08:46:18 -0800
+From: "Fred Epps" <fepps@fidalgo.net>
+To: <vortexC-L@eskimo.com>
+Subject: RE: a place of power
+Date: Sun, 5 Nov 2000 08:44:47 -0800
+Message-ID: <NDBBKNDBNLNEONFFPBKLCEBNDFAA.fepps@fidalgo.net>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Importance: Normal
+In-Reply-To: <Pine.SUN.3.96.1001101101909.23979A-100000@eskimo.com>
+Resent-Message-ID: <"Iiz841.0.5C5.PxO1w"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1921
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: A
+
+Hi Bill,
+
+Good to see you back in the saddle on the lists :-)
+> >
+> > The idea is to look so ridiculous that no one will look for a
+> real anomaly.
+
+Or maybe the people who build these things are affected by the energy to
+get strange in their construction.
+>
+> That doesn't stop your hardy fringe-science researchers!  Doug Vogt
+> journeyed to many of them across the US, then wrote a book:
+>
+>    GRAVITATIONAL MYSTERY SPOTS
+>    http://www.amazon.com/exec/obidos/ISBN=0930808045/sciencehobbyist/
+>
+> (delete 'sciencehobbyist' above if you don't want amazon.com to
+> donate 10%
+> to sciclub.org)
+
+Yes, an excellent book.
+>
+>
+> Mr. Vogt performed time-flow experiments at a couple of these spots by
+> comparing the frequency of widely-spaced crystal oscillators (at around
+> 30MHz if I recall.)  He found a small effect at the 'Oregon Vortex', like
+> a few tens of PPM I think.  But it was unclear whether it could have been
+> caused by temperature drift.  If not, then a crystal oscillator
+> "probe" on
+> the end of a long cable can be used to map the vortex effect.
+
+Yes, the subject of using crystal oscillators came up a while back and
+Jean-Louis and Sergei Godin did some tests using various types of pyramids.
+Both saw effects. JLN and I were starting to discuss a "Time Shift
+Detector" using a radio time signal when he got caught up in some gravity
+research.
+>
+>
+> I visited the Oregon Vortex last year, and the height-change effect is as
+> Fred says:  clearly visible even when not facing the distorted building.
+>
+> In addition my wife and I noticed a powerful subjective effect.  While
+> driving to the site (on a narrow paved farm road) we saw a sign saying
+> "Vortex 1/4 mile".  But then after many minutes there was nothing.  I was
+> certain we had traveled a couple of miles and had missed the site.  But
+> then we came to a crossroads with a sign saying (if I recall correctly)
+> "vortex 1/8" mile!  After another LONG time driving, we arrived.  I
+> thought that the distances must have been mismarked on the signs.
+
+Yes, now that you mention it, we had the same experience. We thought the
+signs were wrong.
+>
+> But then while driving out again, we immediately crossed some railroad
+> tracks. I thought that was strange, because we had just left, yet there
+> were railroad tracks near the START of the long road, out near the main
+> highway.  Were there two sets of tracks?  No, because there was the
+> highway!  Our drive OUT from the vortex seemed to last a couple of
+> minutes, while the drive IN towards the vortex seemed to last about 20
+> minutes.
+
+Hmm, interesting, when we go back next time I will be sure to look for
+that. This sort of time alteration seems to be standard with the sorts of
+tests that my friend did last year with small "vortex points". These time
+alterations are still going on in that location.
+>
+> If the center of the vortex was truely operating with many minutes of
+> time-slip compared to the outside world, wouldn't this be easily
+> measured?
+> If the time "phase" is genuinely altered, the speed of light would alter,
+> and we would see a huge bubble of optical distortion covering the region
+> like a lens made of aerogel.  Radio waves would be deflected as well,
+> leading to easily detected "dead zones."  I think that such a huge,
+> obvious effect is surely subjective.
+
+I think it is a mix of subjective and objective effects. The objective
+effect is relatively small, but it interacts with the synaptic firing rate
+of neurons to give huge differences in subjective time. The vortex points
+are also conversely affected by the state of consciousness of people
+entering it. Most of the large-scale effects with the two people who did
+tests with me happened when they were in alpha states.
+When the objective time effect exceeds a certain limit, the time-shifted
+objects or people no longer share the same "rate" with ordinary reality and
+disappear from view.
+>
+> I tried to detect any deflection in the beam from a laser pointer in the
+> region of the Seattle vortex Fred Epps told me about, but the wooden boom
+> that I used was too flexible to detect changes less than 1cm over about
+> two meters.  And I wasn't certain about the exact location (in Gasworks
+> Park north of the city.)
+
+No, didn't get a chance to go out there with you to show you, sorry about
+that. Our experience of it was entirely subjective, although it appeared
+that my wife lost about 6-8 inches in height.
+>
+> The "height change"  effect seen at the Oregon Vortex is supposed to be
+> objective, and detectable by cameras.
+
+Yes, a friend of mine took pictures there that show it.
+
+ It must be based on the deflection
+> of light, as if the vortex region was like a distorting lens.  Hey, maybe
+> somebody could rig up a pair of stronger lasers to project parallel beams
+> over thousands of meters, then take the device to the region of a vortex
+> effect and see if the beams remain parallel. Position the lasers a couple
+> of meters apart, so the beams remain spaced at 2M over a large distance,
+> then send the beams through a suspected vortex region and see if the 2M
+> spacing changes at all.  As I found before, the main challenge is to
+> construct a solid base for the lasers which can be carried from place to
+> place, but which does not bend significantly or otherwise change the
+> laser alignment.
+
+I think the best detector would be a quartz crystal oscillator in a small
+oven, with its rate compared to a radio time signal. It would also be
+interesting to use a resistance-based detector, like a tungsten bulb with
+an ohmmeter.
+
+Regards,
+Fred
+
+
+From vortexC-L-request@eskimo.com  Sun Nov  5 08:48:32 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id IAA21246;
+	Sun, 5 Nov 2000 08:46:16 -0800
+Resent-Date: Sun, 5 Nov 2000 08:46:16 -0800
+From: "Fred Epps" <fepps@fidalgo.net>
+To: <vortexC-L@eskimo.com>
+Subject: RE: A place of power <long>
+Date: Sun, 5 Nov 2000 08:44:46 -0800
+Message-ID: <NDBBKNDBNLNEONFFPBKLAEBNDFAA.fepps@fidalgo.net>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Importance: Normal
+In-Reply-To: <010901c04526$866c6b60$df5cadd1@default>
+Resent-Message-ID: <"FcG9G1.0.rB5.OxO1w"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1920
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi Jim and all,
+>
+>
+> > Does anyone know which "vortex" Einstein was supposed to have
+> > visited, whether the story is true, and whether he was serious about
+> > his comments regarding the site?
+>
+> I've never heard that story.
+
+No, neither have I.
+
+ I have, however, read that Wilhelm
+> Reich visited
+> the San Luis Valley, site of many bizarre UFO sightings, and
+> agreed that it was
+> a power point.  I have only read this in one source, and it sounds rather
+> un-Reichian because I didn't think he would be into New Age
+> mysticism.  If
+> anyone can provide a cite in Reich's works, please let me know.
+
+No, I've seen nothing in Reich's writings mentioning this. It doesn't sound
+very Reichian to me either. I can certainly agree that the San Luis Valley
+is a power point, having read O'brien's books-- of the type that allows
+interdimensional travel.
+
+Regards,
+Fred
+
+
+From vortexC-L-request@eskimo.com  Sun Nov  5 09:01:39 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id IAA25122;
+	Sun, 5 Nov 2000 08:59:23 -0800
+Resent-Date: Sun, 5 Nov 2000 08:59:23 -0800
+Message-ID: <007501c04709$2c4a04a0$6ae5b5d0@a9o0z0>
+From: "Alik S" <alik@intergate.bc.ca>
+To: <vortexC-L@eskimo.com>
+Subject: Re: A place of power <long>
+Date: Sun, 5 Nov 2000 09:17:06 -0000
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 4.72.3110.1
+X-MIMEOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+Resent-Message-ID: <"i_H4w2.0.T86.g7P1w"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1923
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+-----Original Message-----
+From: Fred Epps <fepps@fidalgo.net>
+To: vortexC-L@eskimo.com <vortexC-L@eskimo.com>
+Date: Sunday, November 05, 2000 4:46 PM
+Subject: RE: A place of power <long>
+
+
+>Hi Jim and all,
+>>
+>>
+>> > Does anyone know which "vortex" Einstein was supposed to have
+>> > visited, whether the story is true, and whether he was serious about
+>> > his comments regarding the site?
+
+
+
+Re Einstein, I think its the Oregon Vortex , according to their
+brochures/stories (not 100% certain).
+
+My photos in Oregon/Hungry-Horse/ and another vortex on hwy2 in the east all
+show height change.
+
+Now that I think about it the trip to the Oregon vortex along the creek
+takes forever and I also thought the signs were wrong. I noticed it at the
+time but did not attribute to the vortex.
+
+Whole bunch of 'weird-energy' detectors that are sensitive to geophysical
+anomalies (faults, oil-fields, earthquakes) showed absolutely nothing
+remarkable at the Oregon Vortex.
+
+Would be neat to check it out with 2 atomic clocks.
+
+Alik S.
+
+From vortexC-L-request@eskimo.com  Sun Nov  5 12:46:13 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id MAA04456;
+	Sun, 5 Nov 2000 12:42:31 -0800
+Resent-Date: Sun, 5 Nov 2000 12:42:31 -0800
+From: bpaddock@csonline.net (Bob Paddock)
+To: vortexC-L@eskimo.com
+Subject: Re: a place of power
+Date: Sun, 05 Nov 2000 15:27:14 -0500
+Organization: is mostly via piles
+Reply-To: bpaddock@csonline.net
+Message-ID: <iKcB6UQy80/G092yn@csonline.net>
+References: <NDBBKNDBNLNEONFFPBKLEEBNDFAA.fepps@fidalgo.net>
+In-Reply-To: <NDBBKNDBNLNEONFFPBKLEEBNDFAA.fepps@fidalgo.net>
+Lines: 14
+User-Agent: VSoup v1.2.9.47Beta [95/NT]
+Resent-Message-ID: <"cBFGB1.0.Y51.sOS1w"@mx1>
+Resent-From: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1925
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+>Is it any particular place, or just everwhere you hike?
+
+Don't know have not hiked much except around the local area
+here.  Beautiful country/forests to do it in.
+
+I do know others have commented about this when they went
+hiking and I was not present.
+
+This is probably in a 20 mile radius of "Indian God Rock",
+Seneca Indians I believe, right a long the Allegheny River. 
+Its more or less in my back yard.
+
+Always assumed it was some kind of power spot, at least the
+Indians from 200 years ago thought so.
+
+From vortexC-L-request@eskimo.com  Sun Nov  5 12:46:30 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id MAA04444;
+	Sun, 5 Nov 2000 12:42:30 -0800
+Resent-Date: Sun, 5 Nov 2000 12:42:30 -0800
+From: bpaddock@csonline.net (Bob Paddock)
+To: vortexC-L@eskimo.com
+Subject: Re: A place of power <long>
+Date: Sun, 05 Nov 2000 15:32:32 -0500
+Organization: is mostly via piles
+Reply-To: bpaddock@csonline.net
+Message-ID: <gPcB6UQy8E7T092yn@csonline.net>
+References: <007501c04709$2c4a04a0$6ae5b5d0@a9o0z0>
+In-Reply-To: <007501c04709$2c4a04a0$6ae5b5d0@a9o0z0>
+Lines: 9
+User-Agent: VSoup v1.2.9.47Beta [95/NT]
+Resent-Message-ID: <"vRFcx3.0.J51.sOS1w"@mx1>
+Resent-From: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1924
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+>Would be neat to check it out with 2 atomic clocks.
+
+Probably not that any of use here could afford directly, but
+how about two GPS receivers?  Their getting cheap, they have
+1 second pulse outputs that are Atomic Clock synchronized.
+
+Rubidium Standards might a bit cheaper, tho still several
+hundred dollars, the Atomic Clock.
+
+From vortexC-L-request@eskimo.com  Mon Nov  6 21:56:52 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id VAA28049;
+	Mon, 6 Nov 2000 21:52:40 -0800
+Resent-Date: Mon, 6 Nov 2000 21:52:40 -0800
+X-Authentication-Warning: eskimo.com: billb owned process doing -bs
+Date: Mon, 6 Nov 2000 21:52:34 -0800 (PST)
+From: William Beaty <billb@eskimo.com>
+To: vortexC-L@eskimo.com
+Subject: RE: a place of power
+In-Reply-To: <NDBBKNDBNLNEONFFPBKLCEBNDFAA.fepps@fidalgo.net>
+Message-ID: <Pine.SUN.3.96.1001106215000.23671M-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"yZ4Z4.0.Cs6.eYv1w"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1926
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: O
+X-Status: 
+
+On Sun, 5 Nov 2000, Fred Epps wrote:
+> > In addition my wife and I noticed a powerful subjective effect.  While
+> > driving to the site (on a narrow paved farm road) we saw a sign saying
+> > "Vortex 1/4 mile".  But then after many minutes there was nothing.  I was
+> > certain we had traveled a couple of miles and had missed the site.  But
+> > then we came to a crossroads with a sign saying (if I recall correctly)
+> > "vortex 1/8" mile!  After another LONG time driving, we arrived.  I
+> > thought that the distances must have been mismarked on the signs.
+> 
+> Yes, now that you mention it, we had the same experience. We thought the
+> signs were wrong.
+
+
+Another possibility:  the buildings on the site are next to a stream which
+smells strongly of sulfur.  If the stream comes from a nearby spring,
+maybe the 'vortex' has something to do with waterholes, sacred wells, and
+that sort of thing.  (Or maybe the stream-origin is not near the vortex
+site?)
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-789-0775          freenrg-L taoshum-L vortex-L webhead-L
+
+From vortexC-L-request@eskimo.com  Tue Nov  7 01:05:29 2000
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id BAA31180;
+	Tue, 7 Nov 2000 01:00:43 -0800
+Resent-Date: Tue, 7 Nov 2000 01:00:43 -0800
+Mime-Version: 1.0
+X-Sender: rick@mail.highsurf.com
+Message-Id: <v04210100b62d7353a1b1@[192.168.0.2]>
+In-Reply-To: <Pine.SUN.3.96.1001106215000.23671M-100000@eskimo.com>
+References: <Pine.SUN.3.96.1001106215000.23671M-100000@eskimo.com>
+Date: Mon, 6 Nov 2000 23:00:34 -1000
+To: vortexC-L@eskimo.com
+From: Rick Monteverde <rick@highsurf.com>
+Subject: RE: a place of power
+Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Resent-Message-ID: <"Y9cA13.0.7d7.wIy1w"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1927
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Bill -
+
+At 9:52 PM -0800 11/6/00, William Beaty wrote:
+>Another possibility:  the buildings on the site are next to a stream which
+>smells strongly of sulfur.  If the stream comes from a nearby spring,
+>maybe the 'vortex' has something to do with waterholes, sacred wells, and
+>that sort of thing.  (Or maybe the stream-origin is not near the vortex
+>site?)
+
+Huh? Did someone mention a strong smell of sulphur before?
+
+I don't know about sulphur, but I am aware however that the 
+subjective passage of time during a drive can be extended greatly by 
+the presence of the strong smell of a certain 'herb'. A friend of 
+mine took a few tokes the other night and it took her an hour and a 
+half to make a 15 minute drive across Honolulu to her house. Got lost 
+three times in a town she's lived in for 22 years. Afterwards she 
+indignantly concluded - her words: "that shit ought to be illegal!".
+
+<shrug?>
+
+- Rick Monteverde
+Honolulu, HI
+
+From vortexC-L-request@eskimo.com  Wed Nov  8 10:24:26 2000
+Received: (from smartlst@localhost)
+	by mx2.eskimo.com (8.9.1a/8.8.8) id KAA05165;
+	Wed, 8 Nov 2000 10:19:11 -0800 (PST)
+Resent-Date: Wed, 8 Nov 2000 10:19:11 -0800 (PST)
+From: "Fred Epps" <fepps@fidalgo.net>
+To: "vortexC-L@eskimo. com" <vortexC-L@eskimo.com>
+Subject: FW: Russian Time Studies
+Date: Wed, 8 Nov 2000 10:18:42 -0800
+Message-ID: <NDBBKNDBNLNEONFFPBKLAEDGDFAA.fepps@fidalgo.net>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Resent-Message-ID: <"mqrAu3.0.dG1.TaP2w"@mx2>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1928
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi Russ,
+
+I've been able to download the files now. These articles include a great
+deal of information about Kozyrev's time experiments which has never been
+translated from Russian before. I strongly recommend this site for anyone
+interested in time or torsion field research!
+
+--- In jlnlabs@egroups.com, Russ Jones <Russ.Jones@w...> wrote:
+>
+> Hi Fred,
+>
+> No, I haven't been able to.  But you can, as I have had to,
+> use the scientist's names and Google or AltaVista to find
+> many of their works elsewhere.  Some are on lanl.gov site.
+>
+> Let us all know what you find out from Dr. Levich.
+>
+> With Kozyrev's latest paper on the material properties of
+> Time (found on LANL), this field will soon be exploding
+> with research.
+>
+> Best Regards,
+>
+> Russell M. Jones, Lightwave Engineer
+> >
+> > Have you had any sucess in downloading the papers on this site? I
+> > haven't. Also, some pages do not load. I've written Dr. Levich about
+> > this problem and some time experiments I've done.
+> >
+> > Regards
+> > Fred
+> >
+
+> > >
+> > > For those interested in Russian research of Time (Kozyrev, etc.):
+> > > http://www.chronos.msu.ru/
+> > >
+> > > Many works and references here.
+> > >
+> > > Best Regards,
+> > >
+> > > Russell M. Jones,
+> JLN Labs web site at: http://go.to/jlnlabs
+
+From vortexC-L-request@eskimo.com  Sat Nov 11 12:18:47 2000
+Received: (from smartlst@localhost)
+	by mx2.eskimo.com (8.9.1a/8.8.8) id MAA14174;
+	Sat, 11 Nov 2000 12:14:39 -0800 (PST)
+Resent-Date: Sat, 11 Nov 2000 12:14:39 -0800 (PST)
+From: bpaddock@csonline.net (Bob Paddock)
+Newsgroups: list.torsion
+To: vortexC-L@eskimo.com
+Subject: light scattering from spin waves
+Date: Sat, 11 Nov 2000 14:00:36 -0500
+Organization: is mostly via piles
+Reply-To: bpaddock@csonline.net
+Message-ID: <UdZD6UQy8USW092yn@csonline.net>
+Lines: 17
+User-Agent: VSoup v1.2.9.47Beta [95/NT]
+Resent-Message-ID: <"MmNAp3.0.OT3.dYQ3w"@mx2>
+Resent-From: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1929
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+I stumbled across this today while working on my job for
+Circuit Cellar Online Magazine.  I'm covering the topic of
+magnets if any one has any sites of interest.
+
+At any rate, I don't have a clue what this is talking about
+but thought some one here might find it of interest:
+
+Akira Yoshihara et al.
+Brillouin light scattering from spin waves in Co100xCrx alloy films
+http://www.elsevier.nl/gej-ng/29/31/27/show/Products/CMW/frame.htt
+
+-- 
+For information on any of the following check out my WEB site at:
+                   http://www.csonline.net/bpaddock/
+             Chronic Pain Relief, Philadelphia Experiment.
+http://www.chipcenter.com/circuitcellar/crparciv.htm http://www.uCOS-II.com
+
+From vortexC-L-request@eskimo.com  Sat Nov 11 22:33:05 2000
+Received: (from smartlst@localhost)
+	by mx2.eskimo.com (8.9.1a/8.8.8) id WAA18109;
+	Sat, 11 Nov 2000 22:30:16 -0800 (PST)
+Resent-Date: Sat, 11 Nov 2000 22:30:16 -0800 (PST)
+X-Authentication-Warning: eskimo.com: billb owned process doing -bs
+Date: Sat, 11 Nov 2000 22:28:13 -0800 (PST)
+From: William Beaty <billb@eskimo.com>
+To: Neil Duffy <N.D.Duffy@hw.ac.uk>
+cc: vortexc-l@eskimo.com
+Subject: Re: torsion whoswho
+In-Reply-To: <EXECMAIL.1001109095122.D@minos.hw.ac.uk>
+Message-ID: <Pine.SUN.3.96.1001111222453.9752B-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"sHSOd2.0.lQ4.pZZ3w"@mx2>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1930
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: A
+
+On Thu, 9 Nov 2000, Neil Duffy wrote:
+
+> Hi Bill
+> 
+> Can you tell me where the torsion list whoswho pages are located now.
+>  
+> They used to be at
+> http://www.scienceclub.org/cgi-pvt/tors/whoswho.html but either the 
+> site is down or they have been moved.
+
+sciclub.org lost its DNS, but the site is still there at:
+
+ http://www.halcyon.com/sciclub/cgi-pvt/tors/whoswho.html 
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ))))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-789-0775          freenrg-L taoshum-L vortex-L webhead-L
+
+From vortexC-L-request@eskimo.com  Thu Jan  4 11:12:11 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id LAA30491;
+	Thu, 4 Jan 2001 11:00:23 -0800
+Resent-Date: Thu, 4 Jan 2001 11:00:23 -0800
+X-Authentication-Warning: eskimo.com: billb owned process doing -bs
+Date: Thu, 4 Jan 2001 11:00:18 -0800 (PST)
+From: William Beaty <billb@eskimo.com>
+To: vortexC-L@eskimo.com
+Subject: Interesting textbook
+In-Reply-To: <Pine.SUN.3.96.1001111222453.9752B-100000@eskimo.com>
+Message-ID: <Pine.SUN.3.96.1010104105518.16836C-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"z2U2C1.0.MS7.6XCLw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1931
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: A
+
+
+VortexC still lives!
+
+Here's an interesting physics textbook mentioned on Sarfatti's list:
+
+  Gauge Fields in Condensed Matter
+    Volume 1 : Superflow and Vortex Lines
+    Volume 2 : Stresses and Defects
+
+  http://www.physik.fu-berlin.de/~kleinert/kleiner_reb1/contents.html
+  http://www.physik.fu-berlin.de/~kleinert/kleiner_reb1/blurb.html
+  http://www.amazon.com/exec/obidos/ISBN=9971502119/sciencehobbyist/
+
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-789-0775          freenrg-L taoshum-L vortex-L webhead-L
+
+From vortexC-L-request@eskimo.com  Sat Jan 13 09:45:41 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id JAA11534;
+	Sat, 13 Jan 2001 09:33:15 -0800
+Resent-Date: Sat, 13 Jan 2001 09:33:15 -0800
+X-Authentication-Warning: eskimo.com: billb owned process doing -bs
+Date: Sat, 13 Jan 2001 09:33:12 -0800 (PST)
+From: William Beaty <billb@eskimo.com>
+To: vortexC-L@eskimo.com
+In-Reply-To: <Pine.SUN.3.96.1010104105518.16836C-100000@eskimo.com>
+Message-ID: <Pine.SUN.3.96.1010113093022.14189F-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"3FYQg2.0.0q2.R59Ow"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1932
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Subject: [vxC]: SHUTTING DOWN VORTEX-C
+Status: RO
+X-Status: 
+
+
+VortexC is pretty dead, and I'm going to add another section to Vortex-L.
+VortexC was originally created for just this purpose.
+
+If anyone is interested in running a Torsion Physics list on
+www.egroups.com, set it up and we can announce it to the former vortexC
+subscribers. 
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-789-0775          freenrg-L taoshum-L vortex-L webhead-L
+
+From vortexC-L-request@eskimo.com  Sat Jan 13 12:09:46 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id LAA25122;
+	Sat, 13 Jan 2001 11:57:57 -0800
+Resent-Date: Sat, 13 Jan 2001 11:57:57 -0800
+Message-Id: <1.5.4.32.20010113195858.006ff520@pop.freeserve.net>
+X-Sender: rontah+enigma71.freeserve.co.uk@pop.freeserve.net
+X-Mailer: Windows Eudora Light Version 1.5.4 (32)
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Sat, 13 Jan 2001 19:58:58 +0000
+To: vortexC-L@eskimo.com
+From: Ron Hill <rontah@enigma71.freeserve.co.uk>
+Subject: Re: [vxC]: SHUTTING DOWN VORTEX-C
+Resent-Message-ID: <"98Zz21.0.T86.5DBOw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1933
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+I'm not surprised that you are doing this Bill.
+I wonder what happened to that group of Russian scientists who used to post
+there.
+Their emails to me showed that they took fright at the discussion of
+radionics, for some reason.
+
+Ron Hill.
+...............................................
+At 09:33 AM 1/13/01 -0800, you wrote:
+>
+>VortexC is pretty dead, and I'm going to add another section to Vortex-L.
+>VortexC was originally created for just this purpose.
+>
+>If anyone is interested in running a Torsion Physics list on
+>www.egroups.com, set it up and we can announce it to the former vortexC
+>subscribers. 
+>
+>
+>((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+>William J. Beaty                                  SCIENCE HOBBYIST website
+>billb@eskimo.com                                  http://www.amasci.com
+>EE/programmer/sci-exhibits          science projects, tesla, weird science
+>Seattle, WA   206-789-0775          freenrg-L taoshum-L vortex-L webhead-L
+>
+>
+>
+
+From vortexC-L-request@eskimo.com  Sat Jan 13 14:57:30 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id OAA17979;
+	Sat, 13 Jan 2001 14:50:21 -0800
+Resent-Date: Sat, 13 Jan 2001 14:50:21 -0800
+Mime-Version: 1.0
+X-Sender: rick@mail.highsurf.com
+Message-Id: <v04210102b6868ab95736@[192.168.0.2]>
+In-Reply-To: <1.5.4.32.20010113195858.006ff520@pop.freeserve.net>
+References: <1.5.4.32.20010113195858.006ff520@pop.freeserve.net>
+Date: Sat, 13 Jan 2001 12:50:05 -1000
+To: vortexC-L@eskimo.com
+From: Rick Monteverde <rick@highsurf.com>
+Subject: Re: [vxC]: SHUTTING DOWN VORTEX-C
+Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Resent-Message-ID: <"cdjfb.0.oO4.ikDOw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1934
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Ron -
+
+I keep hearing things like this, that radionics gets people scared, 
+etc. Why would that be? Radionics = basically dowsing, right? No one 
+really cares about dowsing except Robert Park, PSICOP, and a few 
+religious zealots who might associate it with witchcraft. What's the 
+deal?
+
+- Rick Monteverde
+Honolulu, HI
+
+>I'm not surprised that you are doing this Bill.
+>I wonder what happened to that group of Russian scientists who used to post
+>there.
+>Their emails to me showed that they took fright at the discussion of
+>radionics, for some reason.
+>
+>Ron Hill.
+
+From vortexC-L-request@eskimo.com  Sat Jan 13 15:39:47 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id PAA00853;
+	Sat, 13 Jan 2001 15:33:28 -0800
+Resent-Date: Sat, 13 Jan 2001 15:33:28 -0800
+Date: Sat, 13 Jan 2001 18:32:36 -0500
+From: Debbie <albedo@compuserve.com>
+Subject: Re: [vxC]: SHUTTING DOWN VORTEX-C
+Sender: Debbie <albedo@compuserve.com>
+To: "INTERNET:vortexC-L@eskimo.com" <vortexC-L@eskimo.com>
+Message-ID: <200101131832_MC2-C1A8-C49F@compuserve.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	 charset=ISO-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by mx1.eskimo.com id PAA00785
+Resent-Message-ID: <"Yqi1o2.0.GD.8NEOw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1935
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: A
+
+Rick,
+
+>>No one really cares about dowsing except Robert Park, PSICOP, and a few
+religious zealots who might associate it with witchcraft. What's the
+deal?<<
+
+I realise I'm showing my breeding (sugah!), but here in the Buckle of the
+Bible Belt, we happen to use dowsing on a regular basis.  At least out in
+the country, that is.  While I do attempt to remain sceptical, I have seen
+it work too many times.
+
+How does that relate to radionics?  (I've spent a lot of time locked away
+by the Army lately working, so forgive me is this is a stupid question.)
+
+
+Debbie
+
+From vortexC-L-request@eskimo.com  Sat Jan 13 17:53:05 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id RAA13313;
+	Sat, 13 Jan 2001 17:47:06 -0800
+Resent-Date: Sat, 13 Jan 2001 17:47:06 -0800
+Mime-Version: 1.0
+X-Sender: rick@mail.highsurf.com
+Message-Id: <v04210100b686b483d3cd@[192.168.0.2]>
+In-Reply-To: <200101131832_MC2-C1A8-C49F@compuserve.com>
+References: <200101131832_MC2-C1A8-C49F@compuserve.com>
+Date: Sat, 13 Jan 2001 15:46:58 -1000
+To: vortexC-L@eskimo.com
+From: Rick Monteverde <rick@highsurf.com>
+Subject: Re: [vxC]: SHUTTING DOWN VORTEX-C
+Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Resent-Message-ID: <"TEpBb.0.yF3.QKGOw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1936
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Debbie -
+
+I didn't mean to sound disparaging towards dowsing since I know it's 
+pretty traditional in some areas. I meant "care" as in bothering to 
+fear it or suppress it. IOW, it's not a big deal for most people. But 
+radionics (remote sensing, past or future sensing, etc., using maps, 
+photos, or dowsing-like equipment comes under the term as I 
+understand it seems to get some people fired up one way or the other. 
+The conmnection to torsion fields is that these fields, if they even 
+exist, are thought by some to be the physical means through which 
+dowsing and similar things work - that is, it's these fields and the 
+information that they might contain that the dowser/radionics 
+practitioner detects and interprets.
+
+- Rick Monteverde
+Honolulu, HI
+
+>Rick,
+>
+>>>No one really cares about dowsing except Robert Park, PSICOP, and a few
+>religious zealots who might associate it with witchcraft. What's the
+>deal?<<
+>
+>I realise I'm showing my breeding (sugah!), but here in the Buckle of the
+>Bible Belt, we happen to use dowsing on a regular basis.  At least out in
+>the country, that is.  While I do attempt to remain sceptical, I have seen
+>it work too many times.
+>
+>How does that relate to radionics?  (I've spent a lot of time locked away
+>by the Army lately working, so forgive me is this is a stupid question.)
+>
+>
+>Debbie
+
+From vortexC-L-request@eskimo.com  Sat Jan 13 18:14:03 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id SAA17530;
+	Sat, 13 Jan 2001 18:05:03 -0800
+Resent-Date: Sat, 13 Jan 2001 18:05:03 -0800
+X-Authentication-Warning: eskimo.com: billb owned process doing -bs
+Date: Sat, 13 Jan 2001 18:05:02 -0800 (PST)
+From: William Beaty <billb@eskimo.com>
+To: "INTERNET:vortexC-L@eskimo.com" <vortexC-L@eskimo.com>
+Subject: Re: [vxC]: SHUTTING DOWN VORTEX-C
+In-Reply-To: <200101131832_MC2-C1A8-C49F@compuserve.com>
+Message-ID: <Pine.SUN.3.96.1010113180213.8636A-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"m5JDy1.0.qH4.FbGOw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1937
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+On Sat, 13 Jan 2001, Debbie wrote:
+
+> How does that relate to radionics?  (I've spent a lot of time locked away
+> by the Army lately working, so forgive me is this is a stupid question.)
+
+If dowsing is analogous to using your eyes to see light, then Radionics is
+equivalent to the science of optics.   Radionic devices could be like
+"dowsing cameras"...  except they usually require a human to act as the
+sensor.  I guess a radionic device is more like a telescope than like a
+film camera.  And many people assume that "torsion device" and "radionic
+device" are two terms for the same thing.
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-789-0775          freenrg-L taoshum-L vortex-L webhead-L
+
+From vortexC-L-request@eskimo.com  Sat Jan 13 20:17:12 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id UAA17286;
+	Sat, 13 Jan 2001 20:08:51 -0800
+Resent-Date: Sat, 13 Jan 2001 20:08:51 -0800
+Date: Sat, 13 Jan 2001 23:07:38 -0500
+From: Debbie <albedo@compuserve.com>
+Subject: Re: [vxC]: SHUTTING DOWN VORTEX-C
+Sender: Debbie <albedo@compuserve.com>
+To: "INTERNET:vortexC-L@eskimo.com" <vortexC-L@eskimo.com>
+Message-ID: <200101132307_MC2-C1B6-406A@compuserve.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	 charset=ISO-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by mx1.eskimo.com id UAA17261
+Resent-Message-ID: <"UzjoZ.0.zD4.IPIOw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1938
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Rick,
+
+You'd be (almost) the last person I'd accuse of being disparaging.
+
+>>The conmnection to torsion fields is that these fields, if they even 
+exist, are thought by some to be the physical means through which 
+dowsing and similar things work - that is, it's these fields and the 
+information that they might contain that the dowser/radionics 
+practitioner detects and interprets.<<
+
+I guess I have been in my little shell for too long.  If I ever knew this
+analogy had been used, I've forgotten it.  
+
+Interesting, though...I've seen dowsing used several times, most notably
+when my parents build a house on a small hill in Arkansas in 1968, and used
+a dowser to tell them where to drill a well.  The guy 'followed' two
+underground springs with his dowsing rods and found where they intersected;
+when they drilled there, they found water at two different depths, which is
+very unusual in the area.  Granted I was only 12 at the time, but I am
+still impressed with that.
+
+Leave it to us to take a message shutting down this list to get something
+started again.  :)
+
+
+Debbie
+
+p.s.  How's the surf??
+
+From vortexC-L-request@eskimo.com  Sat Jan 13 20:19:19 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id UAA17639;
+	Sat, 13 Jan 2001 20:10:01 -0800
+Resent-Date: Sat, 13 Jan 2001 20:10:01 -0800
+Date: Sat, 13 Jan 2001 23:09:00 -0500
+From: Debbie <albedo@compuserve.com>
+Subject: Re: [vxC]: SHUTTING DOWN VORTEX-C
+Sender: Debbie <albedo@compuserve.com>
+To: "INTERNET:vortexC-L@eskimo.com" <vortexC-L@eskimo.com>
+Message-ID: <200101132309_MC2-C1B6-406B@compuserve.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	 charset=ISO-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by mx1.eskimo.com id UAA17612
+Resent-Message-ID: <"RGpiJ2.0.YJ4.OQIOw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1939
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+Bill,
+
+Thanks for the clarification. 
+
+>>Radionic devices could be like "dowsing cameras"...  except they usually
+require a human to act as the
+sensor.  I guess a radionic device is more like a telescope than like a
+film camera.  And many people assume that "torsion device" and "radionic
+device" are two terms for the same thing.<<
+
+I should ask my friend and neighbor Mr. Bearden to explain this in more
+detail to me, obviously.
+
+
+Debbie
+
+From vortexC-L-request@eskimo.com  Sat Jan 13 23:28:25 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id XAA26722;
+	Sat, 13 Jan 2001 23:26:30 -0800
+Resent-Date: Sat, 13 Jan 2001 23:26:30 -0800
+Message-ID: <003001c07dfb$12982cc0$3e1552c3@s>
+From: "Alexander A.Shpilman" <sah@kaznet.kz>
+To: <vortexC-L@eskimo.com>
+References: <200101132307_MC2-C1B6-406A@compuserve.com>
+Date: Sun, 14 Jan 2001 13:17:32 +0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Resent-Message-ID: <"Bcrpv3.0.KX6.cILOw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1940
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Subject: [vxC]: "M-state" Elements
+Status: RO
+X-Status: 
+
+Hi All !
+
+...In some points of the Earth with the large intensity of "geofield" the
+increased concentration m-state of elements is observed. These points
+sometimes name as "a place of power"...
+See http://www.pmicro.kz/MISC/UFL/Almanach/2n00/PowerA.htm
+
+...The third day. I kept the sticks for 1.5 minutes. I instantly felt a
+stream of energy in all my body, especially in the hands and the head, 20
+seconds later I got high-power pulsing in all my body. There also was the
+sensation of heat, in feet specially. The strong crunch appeared in area of
+cervical vertebra. 1 hour later I wanted to work very much, it was one
+o'clock in the morning...
+See http://www.pmicro.kz/MISC/UFL/Almanach/3n00/MeffectA.htm
+
+...But most interesting and wonderful was a sensation of internal silence,
+absence of thoughts. That what was managed for couple of minutes as a result
+of many hours' meditations has occurred now itself, and I didn't like at all
+to disturb this silence by any cares about work and other "trivialities".
+But it was not absolute silence, divine music without words sounded inside
+me! I sang (my soul sang) constantly, even being slept...
+See http://www.pmicro.kz/MISC/UFL/Almanach/1n01/effectPA.htm
+
+...This method of shielding can be used for shielding "geofield" and many
+versions of the "axion field". And if to make the electret fibre, it will be
+possible to weave the electret cloth and to make protective clothes for the
+man. This method will be effective, if potential of a volumetric charge of
+the electret film and fibre will be more longitudinal energy of the "axion
+field"....
+See http://www.pmicro.kz/MISC/UFL/Almanach/3n00/protectionA.htm
+
+Regads,
+Alexander A.Shpilman, E-mail: sah@kaznet.kz
+
+
+From vortexC-L-request@eskimo.com  Sat Jan 13 23:28:25 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id XAA26732;
+	Sat, 13 Jan 2001 23:26:31 -0800
+Resent-Date: Sat, 13 Jan 2001 23:26:30 -0800
+Message-ID: <003101c07dfb$15f7d280$3e1552c3@s>
+From: "Alexander A.Shpilman" <sah@kaznet.kz>
+To: <vortexC-L@eskimo.com>
+References: <200101132307_MC2-C1B6-406A@compuserve.com>
+Date: Sun, 14 Jan 2001 13:23:18 +0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Resent-Message-ID: <"MLqOG3.0.SX6.cILOw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1941
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Subject: [vxC]: Ring Structures of "Axion Fields"
+Status: RO
+X-Status: A
+
+
+...Probably, it can be reached, if it will be possible to receive
+requirements, which are favorable for formation of the closed ring structure
+of undirectional drift pseudo-charges in the crossed electromagnetic fields
+in a neighbourhood of a nucleus. The same things are occurring in the
+generator described in "The Generator of the "Axion Field " Sort 5". The
+necessary magnetic strength in neighbourhoods of a nucleus can be tried to
+reach, selecting a crystalline structure with the relevant intracrystalline
+magnetic field. In these requirements, the usual atoms will transfer
+self-maintainedly in a state to a similar mesonic atom without an exterior
+irradiation by muons...
+See http://www.pmicro.kz/MISC/UFL/Almanach/3n00/ringA.htm
+
+...By observing for work of the generator and by looking for a man, there
+are interesting associations: our ribs and the interrib muscles form the
+closed ring structures, that partly reminds a structure of the generator.
+Closely looking through a man, there are really closed ring structures of
+the field of sort 4. At certain respiratory movements the denseness of this
+field increases and there is a field of sort 5 round the person there.
+Depending on features of a symmetry of a man's body (and the field)
+interference ring strata (nimbus) can form above a head or (in the opposite
+direction) the dense spiral structure can form...
+See http://www.pmicro.kz/MISC/UFL/Almanach/3n00/ringGA.htm
+
+Regards,
+Alexander A.Shpilman, E-mail: sah@kaznet.kz
+
+
+From vortexC-L-request@eskimo.com  Thu Feb  8 00:42:27 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id AAA06740;
+	Thu, 8 Feb 2001 00:39:13 -0800
+Resent-Date: Thu, 8 Feb 2001 00:39:13 -0800
+X-Authentication-Warning: eskimo.com: billb owned process doing -bs
+Date: Thu, 8 Feb 2001 00:39:10 -0800 (PST)
+From: William Beaty <billb@eskimo.com>
+To: vortexC-L@eskimo.com
+In-Reply-To: <003101c07dfb$15f7d280$3e1552c3@s>
+Message-ID: <Pine.SUN.3.96.1010208001157.1514S-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"ejwjk2.0.-e1.nibWw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1942
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Subject: [vxC]: Sergi Godin's "Searl Device"
+Status: O
+X-Status: 
+
+
+Hey, someone just posted this to the s.p.emag newsgroup:
+
+   Russian Antigravity Experiment, V.V. Roschin, S.M. Godin
+   http://www.watchersnet.com/nightwatch/antigrav_paper.html
+
+Weight changes and strange concentric zones of high b-field and
+cold, even penetrating to the next floor of the building!
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-789-0775          freenrg-L taoshum-L vortex-L webhead-L
+
+From vortexC-L-request@eskimo.com  Thu Feb  8 17:57:27 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id RAA20559;
+	Thu, 8 Feb 2001 17:45:38 -0800
+Resent-Date: Thu, 8 Feb 2001 17:45:37 -0800
+Message-ID: <3A834B9A.C8159503@verisoft.com.tr>
+Date: Fri, 09 Feb 2001 03:44:58 +0200
+From: hamdi ucar <hamdix@verisoft.com.tr>
+X-Mailer: Mozilla 4.7 [en] (Win98; I)
+X-Accept-Language: en-US
+MIME-Version: 1.0
+To: freenrg-l@eskimo.com
+CC: vortexC-L@eskimo.com
+References: <Pine.SUN.3.96.1010208001157.1514S-100000@eskimo.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Resent-Message-ID: <"t8DIa3.0.515.1lqWw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1943
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Subject: [vxC]: Re: [FG]: Sergi Godin's "Searl Device"
+Status: RO
+X-Status: A
+
+
+This paper should be the pre-release of the paper which is sent by Dr. Sergei Godin privately (for not public posting) sent to some people in list on egroups last year. Fist report about the paper was on CSETI web site without permission of authors, but the issue was settled later. According my correspondence with S. Godin this experiment is performed at 1992. Unfortunately the device was destroyed in the laboratory some unknown people. I believe the story and and the paper is accurate. My conclusion is due to primary to my finding the cause of the loading characteristics of the device with incandescent lamps, and discussed with S.Godin. 
+
+I dont know currently the paper is finally published at Galilean Electrodynamics, as authors intended.
+
+
+William Beaty wrote:
+> 
+> Hey, someone just posted this to the s.p.emag newsgroup:
+> 
+>    Russian Antigravity Experiment, V.V. Roschin, S.M. Godin
+>    http://www.watchersnet.com/nightwatch/antigrav_paper.html
+> 
+> Weight changes and strange concentric zones of high b-field and
+> cold, even penetrating to the next floor of the building!
+> 
+The device was very expensive due to large amount of rare earth magnets. I hope they would find sponsors for rebuild it.
+
+Regards,
+
+hamdi ucar
+
+From vortexC-L-request@eskimo.com  Fri Feb  9 17:59:06 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id RAA19629;
+	Fri, 9 Feb 2001 17:42:26 -0800
+Resent-Date: Fri, 9 Feb 2001 17:42:26 -0800
+X-Authentication-Warning: eskimo.com: billb owned process doing -bs
+Date: Fri, 9 Feb 2001 17:42:22 -0800 (PST)
+From: William Beaty <billb@eskimo.com>
+To: freenrg-l@eskimo.com
+Subject: Re: [vxC]: Re: [FG]: Sergi Godin's "Searl Device"
+In-Reply-To: <3A834B9A.C8159503@verisoft.com.tr>
+Message-ID: <Pine.SUN.3.96.1010209172930.3331U-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"0NPbx.0.Oo4.1o9Xw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1944
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Status: RO
+X-Status: 
+
+On Fri, 9 Feb 2001, hamdi ucar wrote:
+
+> The device was very expensive due to large amount of rare earth magnets.
+> I hope they would find sponsors for rebuild it. 
+
+Some of the Searl stories mention fairly tiny devices.  
+
+If no "secret energizing technique" for the magnets was required, then
+many inexpensive variations could be attempted.  For example, build a 6" 
+diameter version.  And what if the rotating rollers are the origin of all
+effects?  If so, then standard gears or even friction drive could be used
+to spin them, and half the weight of the expensive NIB material in the
+central stator could be eliminated, at least at first.  If that doesn't
+work, then you might suspect that the central stator does play a role. 
+
+If the "vibrating fields" and "secret energizing technique" was not real,
+then look for other screwy stuff.  For example, since the central stator
+doesn't move, and since the rollers experience a static b-field from it,
+perhaps the need for a central stator is an incorrect assumption made by
+Searl but never verified.  Maybe it really is a "gear" and nothing else,
+while the magnetic rollers are where the weird stuff all occurs?  On the
+other hand, it's always best to achive replication first, and only then
+start making changes.
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-789-0775          freenrg-L taoshum-L vortex-L webhead-L
+
+From vortexC-L-request@eskimo.com  Mon Feb 19 01:13:11 2001
+Received: (from smartlst@localhost)
+	by mx1.eskimo.com (8.9.1a/8.8.8) id BAA08428;
+	Mon, 19 Feb 2001 01:09:07 -0800
+Resent-Date: Mon, 19 Feb 2001 01:09:07 -0800
+Message-ID: <003601c09a53$466ebf40$2a1552c3@s>
+From: "Alexander A.Shpilman" <sah@kaznet.kz>
+To: <vortexC-L@eskimo.com>
+References: <Pine.SUN.3.96.1010209172930.3331U-100000@eskimo.com>
+Date: Mon, 19 Feb 2001 15:05:32 +0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+X-Filter-Version: 1.3 (mail)
+Resent-Message-ID: <"uaGVE2.0.Y32.pAEaw"@mx1>
+Resent-From: vortexC-L@eskimo.com
+Reply-To: vortexC-L@eskimo.com
+X-Mailing-List: <vortexC-L@eskimo.com> archive/latest/1945
+X-Loop: vortexC-L@eskimo.com
+Precedence: list
+Resent-Sender: vortexC-L-request@eskimo.com
+Subject: [vxC]: OVERTIME
+Status: RO
+X-Status: 
+
+Hi All !
+
+"...It is possible to suspect, that in the Cosmos are distributed a
+similarity of powerful gravity waves. Let's named them "waves of time".
+These waves are similar to deep holes (potential holes U - see Fig.1) for
+us, at the bottom which one we live (point - m). The wavefront is a volume
+(three-dimensional) for "of waves of time". Or, it is possible to tell, that
+it is a three-dimensional plane for four-dimensional space, to "OVERTIME" -
+O, or in the space (4.1). The point m goes in space (4,1) along its "global
+lines" together with by a "waves of time". Probably, component of a
+substance of "global lines", are also moving from past in the future and
+from the future in past- (see Fig.2)..."
+"...Probably, the flow of matter/energy along coordinate T, is wave process
+with complex spectral structure. Manipulating spectra a component of a
+"global line", we can make "standing" waves of density of a matter along a
+"global line" of the any form (for example, see Fig.7), and freely to
+transfer itself to "present" the past and future. Freely to move in space
+(4,1) between the parallel Universe.
+It will be spectral physics of the "global lines" and the physical vacuum.
+Probably, the various sites of space have a various configuration of
+"depressions" in to a "wave of time" (see Fig.8), i.e. have a various
+spectrum of fluctuations of physical vacuum in OVERTIME.
+Reconstructing a spectrum of own frequencies of a "global line" of a matter,
+changing the form of "standing" waves of density of a matter, being adjusted
+on space by a necessary configuration of "depressions" in to a "wave of
+time", probably, the moving (on a wave of a resonance) matter from one site
+of space in another is possible. And, probably, this moving will be like
+free fall and there will be no sensation of acceleration..."
+
+See http://www.pmicro.kz/MISC/UFL/Almanach/1n01/OVERTIMEa.htm
+
+Regards,
+Alexander A.Shpilman, E-mail: sah@kaznet.kz
+
+

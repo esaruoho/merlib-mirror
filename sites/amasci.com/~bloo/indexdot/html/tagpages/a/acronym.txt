@@ -1,0 +1,105 @@
+Acronym 
+
+ Acronym 
+ Support Key: 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE4 | M | N6B1 | O4 ] 
+ What is it? 
+ Attributes 
+ Tag Example 
+
+ Parent/Content Model 
+ Tips & Tricks 
+ Browser Peculiarities 
+
+ = Index DOT Html by Brian Wilson = 
+
+ Main Index |
+ Element Tree |
+ Element Index |
+ HTML Support History 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ End Tag: 
+ Required 
+ Standards Details: 
+ HTML: In all 4.x DTDs XHTML: In all 1.0 and 1.1 DTDs 
+ XHTML Modules: 
+ Text 
+ CSS 'display' Type: 
+ " inline " 
+ CSS Mapping: 
+ NA 
+ Default Rendering: 
+ Dotted underline 
+
+ What is it? 
+ This element indicates that content is an Acronym (an abbreviation
+ formed from the initial letters or groups of letters of words in a
+ phrase.) Acronyms are used extensively in Western languages, as well
+ as languages such as Chinese and Japanese. The TITLE attribute is
+ suggested for providing the full or expanded form of the acronym.
+ While knowing the expanded form may not be implicitly important in
+ the rendering of the content, it can assist in speech synthesis,
+ spell-checking, and other document management scenarios.
+
+ Some acronyms can have unexpected pronunciations, such as being
+ pronounced as a word rather than letter-by-letter. Style sheet
+ properties should be used in such cases to aid in the
+ pronunciation of the abbreviated form.
+
+ Common Attributes 
+ % Core % 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4 | M | N6B1 | O4 ]
+
+ % Accessibility % 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B1 | M | N6 | O5 ]
+
+ % Events % 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4 | M | N6B1 | O4 ]
+
+ % Language % 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE4 | M | N | O ]
+
+ % Editing % 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE5.5 | M | N | O ]
+
+ Example 
+ < acronym 
+ TITLE ="World Wide
+ Web">WWW</ acronym > 
+
+ Parent Model 
+ % In-line Parent % |
+ % Block Parent % 
+ Content Model 
+ % In-line Content % 
+
+ Tips & Tricks 
+
+ Nothing to report.
+
+ Browser Peculiarities 
+
+ Internet Explorer 4.0 does not add any special rendering to the
+ contents of this element, but common attributes that are applied
+ are understood.
+ Netscape 6.1 applies an underline effect to this element along with a 
+ special mouse cursor when hovering (an arrow with a question mark.) 
+ Later versions apply only a dotted underline effect.
+ Opera 7+ applies a dotted underline effect to this element; in previous 
+ versions no special extra formatting was applied.
+
+ Boring Copyright Stuff...

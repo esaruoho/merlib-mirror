@@ -1,0 +1,169 @@
+Pure Mac: MUD, MUSH & MOO 
+
+ MUD, MUSH & MOO 
+
+ Clients 
+ Servers 
+
+ MacMush 
+ MUDDweller 
+ Mud-Haven 
+ Mud Wrestler 
+ Rapscallion 
+ Savitar 
+
+ PennMUSH 
+ Slash MUD 
+ TinyMUSH 
+
+ The Mac OS MUD Zone 
+
+ The MUD Connector 
+
+ The MUD Resource Collection 
+
+ MacMush 0.98 
+
+MacMUSH is a client for MUSHes (a type of MUD) with lots of nice features,
+including multiple connections, logging, ANSI, macros, getting/setting
+attributes and more.
+
+ License : Freeware
+ Author/Publisher : Jens W. Johannsen
+ Modification Date : January 4, 1996
+ Requirements : 68020 or better
+
+ Direct Download 
+ File Size: 200 Kb 
+
+ Parent Directory 
+
+ Home Page 
+
+ MUDDweller 1.2 
+
+A MUD client. It works roughly like a terminal emulator, but is line- oriented and offers additional functionality.
+
+ License : Freeware
+ Author/Publisher : Olivier Maquelin
+ Modification Date : February 21, 1994
+ Requirements : 680x0
+
+ Direct Download 
+ File Size: 163 Kb
+
+ Mud-Haven 2.0 
+
+Mud Haven is a comprehensive Macintosh Telnet client designed specifically for mudding. Some of the more prominent features include aliases, triggers, quick keys, and a variety of other shortcuts and automated taskes that give you a significant advantage while mudding. Mud-Haven also provides a plethera of muds pre-set into its intuitive mud manager, ensuring hours upon hours upon hours of pure mudding satisfaction.
+
+ License : Shareware, $10
+ Author/Publisher : Keith Kerlan
+ Modification Date : November 6, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 2111 Kb - 68k version
+
+ Direct Download
+ File Size: 2149 Kb - PPC version
+
+ Home Page 
+
+ Mud Wrestler 0.b7 
+
+A Mac MUD client. Features include triggers, aliases, macros, variables, replacements, gags, and a
+built in ticker.
+
+ License : Freeware
+ Author/Publisher : Kyle Maxwell
+ Modification Date : August 19, 1996
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 371 Kb
+
+ Parent Directory 
+
+ PennMUSH 1.1.4 
+
+PennMUSH is a MU** server in the tradition of TinyMUD and numerous others. Players connect to a
+server (PennMUSH) and interact with other players and world objects via text and the Telnet protocol.
+
+ License : Freeware
+ Author/Publisher : Dan Williams 
+ Modification Date : March 16, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1592 Kb
+
+ Home Page 
+
+ Rapscallion 2.0.2.1 
+
+Rapscallion is a MUD client. Features include triggers and blocks, multi-channel sessions, aliases, command history, travel, ansi color translation etc.
+
+ License : Shareware, $40 - 30 day evaluation
+ Author/Publisher : Andy Lewis 
+ Modification Date : January 20, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 3776 Kb
+
+ Parent Directory
+
+ Home Page
+
+ Savitar 1.1.4 
+
+Savitar is a software application designed to connect people using Macintosh computers to MUVE
+(Multi-user Virtual Environment) servers. These MUVE servers are found throughout the Earth's
+Internet. Savitar works as a "client" application which basically means it hooks your computer to
+one or more of these servers.
+
+ License : Shareware, $15
+ Author/Publisher : Jay Koutavas /Heynow Software
+ Modification Date : May 21, 2000
+ Requirements : 680x0 or PPC, System 7.1 or better
+
+ Direct Download
+ File Size: 1212 Kb
+
+ Parent Directory
+
+ Home Page
+
+ Slash MUD 1.0d44 
+
+SlashMUD is a MacOS-based MUD that is currently in the final stages of development. SlashMUD is fully
+object-oriented and includes many unique features built-in as standard. Much customisation can be done by
+editing the SlashMUD Data Files, and what can't be done that way can be done by writing a SlashMUD
+Plugin (implemented as compiled code snippets written in Pascal or C) for customisations.
+
+ License : Freeware
+ Author/Publisher : Koryn Grant
+ Modification Date : October 10, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 1991 Kb
+
+ Home Page 
+
+ TinyMUSH 0.7.0.9.1 
+
+TinyMUSH is a descendant of TinyMUD, both multi-user servers for text-based, interactive worlds, traditionally deployed on a unix system. The
+TinyMUSH/Mac project is a continuing effort to bring this to the Macintosh.
+
+ License : Freeware
+ Author/Publisher : Joshua Juran
+ Modification Date : September 20, 1998
+ Requirements : 68020 or better
+
+ Direct Download
+ File Size: 491 Kb
+
+ Home Page 
+
+ Back to the main page of Pure Mac

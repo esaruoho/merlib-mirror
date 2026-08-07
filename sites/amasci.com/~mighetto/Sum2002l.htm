@@ -1,0 +1,65 @@
+<html>
+<head>
+<TITLE>Untitled</TITLE>
+</head>
+
+<body>
+
+Hello
+
+<!--applet starts here----------------------------- -->
+<APPLET
+  CODE="hm35.class"
+  NAME="HotMedia"
+  WIDTH="320"
+  HEIGHT="240">
+  <PARAM NAME="mvrfile" value="Sum2002l.mvr">
+</APPLET>
+<P>
+<A HREF="javascript:close()">Close</A>
+
+<!--applet ends here------------------------------- -->
+
+<!--| ----- Additional tips for using HotMedia ---------------------------------------|-->
+<!--| OPTIMIZING INITIAL DOWNLOAD                                                     |-->
+<!--| 1) hm3x.zip (uncompressed zip)      use for all but Internet Explorer 3         |-->
+<!--|                   syntax                 ARCHIVE=hm3x.zip                       |-->
+<!--| 2) hm.zip   (compressed zip)        use for all but Netscape Navigator 3        |-->
+<!--|                   syntax                 ARCHIVE=hm.zip                         |-->
+<!--| 3) hm.cab   (compressed MS cab)     use only on Internet Explorer 4 and higher  |-->
+<!--|                   syntax                 PARAM NAME="cabbase" VALUE="hm.cab"    |-->
+<!--|                                                                                 |-->
+<!--| OPTIONAL APPLET PARAMETERS:                                                     |-->
+<!--| 1) Show (hide) hot link rectangles                                              |-->
+<!--|        PARAM NAME="ShowALink" VALUE = "y"                                       |-->
+<!--| 2) Click-through URL; ### delimiter; _self (or _blank, _parent ..) target frame |-->
+<!--|      from thumbnail                                                             |-->
+<!--|        PARAM NAME="T1URL" VALUE = "http://www.ibm.com###_self"                  |-->
+<!--|      from animation                                                             |-->
+<!--|        PARAM NAME="T2URL" VALUE = "r$$$http://www.ibm.com###_self"              |-->
+<!--|                                                                                 |-->
+<!--| TRACKING PARAMETERS:                                                            |-->
+<!--| 1) total time, appends "=n" where n is the total time in seconds                |-->
+<!--|        PARAM NAME="TOTALTIME" VALUE =                                           |-->
+<!--|            "http://www.track.com/cgi-bin/track.pl?AdId=100&tt"                  |-->
+<!--| 2) transition to richmedia, does not modify string in value of parameter        |-->
+<!--|        PARAM NAME="RICHMEDIA" VALUE =                                           |-->
+<!--|            "http://www.track.com/cgi-bin/track.pl?A=1&rm=Yes"                   |-->
+<!--| 3) hot link tracking, one per hot link                                          |-->
+<!--|        PARAM NAME="HM1" VALUE =                                                 |-->
+<!--|             "http://www.track.com/cgi-bin/track.pl?A=10&link=1"                 |-->
+<!--|        PARAM NAME="HM2" VALUE =                                                 |-->
+<!--|             "http://www.track.com/cgi-bin/track.pl?A=10&link=2"                 |-->
+<!--|        PARAM NAME="HM3" VALUE =                                                 |-->
+<!--|             "http://www.track.com/cgi-bin/track.pl?A=10&link=3"                 |-->
+<!--| 4) OPTIONAL modifiers for hot link tracking, if mvr-file has been authored such |-->
+<!--|    that targets for hotspots will also be tracked. In this case, appends to     |-->
+<!--|    hot link strings + applies to all hot links as appropriate per follwing rules|-->
+<!--|          hot link links to URL     TARGETURL applies                            |-->
+<!--|          hot link links to MVR     TARGETMVR applies                            |-->
+<!--|          hot link links to nothing TARGETURL and TARGETMVR ignored              |-->
+<!--|        PARAM NAME="TARGETURL" VALUE = "hotLinkedURL"                            |-->
+<!--|        PARAM NAME="TARGETMVR" VALUE = "hotLinkedMvr"                            |-->
+<!--|------ End-Additional tips for using HotMedia -----------------------------------|-->
+</body>
+</html>

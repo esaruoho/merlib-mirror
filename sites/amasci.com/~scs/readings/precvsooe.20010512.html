@@ -1,0 +1,244 @@
+<html>
+<head>
+<title>Precedence vs. Order of Evaluation</title>
+<body>
+[This article was originally posted on May 12, 2001.]
+<p>
+From: scs@eskimo.com (Steve Summit)
+<br>
+Newsgroups: comp.lang.c
+<br>
+Subject: Re: *p++
+<br>
+Date: 12 May 2001 16:15:23 GMT
+<br>
+Message-ID: &lt;9djnir$gcb$1@eskinews.eskimo.com&gt;
+<br>
+References: &lt;9dho8u$ieenp$1@ID-84876.news.dfncis.de&gt;
+<p>
+In article &lt;9dho8u$ieenp$1@ID-84876.news.dfncis.de&gt;, dac evidently wrote:
+<br>
+&gt; This is supposed to return the value pointed by <TT>p</TT>, and then increment <TT>p</TT>,
+<br>
+&gt; right?
+<p>
+That's essentially correct.
+<p>
+&gt; My problem is that, looking at the precedence table, I can't seem to
+<br>
+&gt; understand it.
+<br>
+&gt; <TT>++</TT> has greater precedence than <TT>*</TT>, and both evaluate from right to left.
+<br>
+&gt; So, in <TT>*p++</TT> shouldn't <TT>++</TT> be evaluated first, and then dereferenced?
+<p>
+I think what you've managed to do here is confuse precedence with
+order of evaluation.  But don't worry: it's extremely easy to
+confuse precedence with order of evaluation, so easy that on the
+other hand it can be very hard -- sometimes I find it essentially
+impossible -- to explain why precedence is <em>not</em> the same thing
+as order of evaluation.  But your example, and more importantly,
+your misinterpretation of this example, provides an excellent
+arena for explaining this subtle point.  So thanks for asking.
+<p>
+Yes, the precedence of postfix <TT>++</TT> is higher than unary <TT>*</TT>.
+Now, the important thing about precedence is <em>not</em> that it tells
+us what order things will be evaluated in.  The important thing
+about precedence is that it tells us which operators are matched
+up with which operands.
+<p>
+When we look at the expression <TT>*p++</TT>, before we can even start
+worrying about what order things will be evaluated in, we have
+to figure out what the expression is supposed to <em>mean</em>.  The <TT>*</TT>
+says that we're taking the contents of a pointer, and the <TT>++</TT>
+says that we're incrementing something.  But what are we
+incrementing, the pointer or the value pointed to?
+<p>
+Precedence tells us.  <em>If</em> the precedence of unary <TT>*</TT> were
+higher than postfix <TT>++</TT> (which it is not), then <TT>*p++</TT> would mean
+"take the contents of the object pointed to by <TT>p</TT>, and increment
+it in-place".  However, since it's actually the precedence of
+postfix <TT>++</TT> that's higher, the correct interpretation is that what
+we're incrementing is the pointer, and what we're taking the
+contents of is the pointer as operated on by the postfix <TT>++</TT>
+operator.
+<p>
+Notice that I did <em>not</em> say, "the interpretation is that first
+we increment the pointer, and then we take the contents of
+the incremented pointer".  When we use words like "first" and
+"and then", we're talking about order of evaluation, but order
+of evaluation can be a very slippery thing to talk about.  Here,
+by talking about it too soon, we'd confuse ourselves into getting
+the wrong answer, because as we'll see, although in <TT>*p++</TT> we do in
+fact take "the contents of the pointer as operated on by the
+postfix <TT>++</TT> operator", by the definition of postfix <TT>++</TT>, the
+pointer value we'll take the contents of is the prior,
+unincremented value.
+<p>
+So let's look at <TT>*p++</TT> very carefully.  Once more, since <TT>++</TT> has
+higher precedence, we're (a) applying <TT>++</TT> to <TT>p</TT>, and (b) applying <TT>*</TT>
+to the result.  In other words, the correct interpretation is as
+if we had written
+<p><pre><TT>
+	*(p++)
+</TT></pre><p>
+So we're taking the contents of the subexpression <TT>p++</TT>.  Now, what
+is the value of the subexpression <TT>p++</TT>?  The definition of postfix
+<TT>++</TT> is that it increments a variable, but yields as its value the
+prior, unincremented value.  Remember, when you say
+<p><pre><TT>
+	int i = 5;
+	int j = i++;
+</TT></pre><p>
+you end up with the value 5 in <TT>j</TT>, even though <TT>i</TT> ends up as 6.
+It's the same with pointer values: when you evaluate <TT>*p++</TT>, you
+end up with the value that <TT>p</TT> used to point to, even though <TT>p</TT> ends
+up pointing one beyond it.  Try it -- compile and run this little
+program:
+<p><pre><TT>
+	#include &lt;stdio.h&gt;
+	int a[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+	int main()
+	{
+		int *p = &amp;a[5];
+		int i = *p++;
+		printf("%d %d\n", i, *p);
+		return 0;
+	}
+</TT></pre><p>
+The program prints "5 6" -- <TT>i</TT> receives 5, the value <TT>p</TT> started out
+pointing to, but <TT>p</TT> ends up pointing at 6.
+<p>
+Now, what if you don't want the value pointed to by the old value
+of <TT>p</TT>, but the new one?  That is, what if you want to increment
+the pointer, and then take the value pointed to?  This is now an
+order of evaluation question, and it turns out that one of the
+first things to think of whenever you have an order of evaluation
+question is that there's a good chance that the answer does <em>not</em>
+involve precedence.
+<p>
+We want an expression like <TT>*p++</TT>, in which a pointer is
+incremented and its pointed-to value is fetched, except that
+it's the new, incremented value that's fetched.  One way, of
+course, would be to do it as two separate statements: first
+evaluate <TT>p&nbsp;=&nbsp;p&nbsp;+&nbsp;1</TT>, then apply <TT>*p</TT>.  But if we want to be Real C
+Programmers and use the slick shortcut <TT>++</TT> operator, all we have
+to do is remember that the distinction between using the old or
+the new, the unincremented or the incremented value, is precisely
+the distinction between the postfix and prefix forms of <TT>++</TT>.  So
+to increment <TT>p</TT> and fetch the incremented value, we'd write <TT>*++p</TT>.
+<p>
+(Notice, by the way, that if the explanation of <TT>*p++</TT> were
+"first we increment the pointer, then we take the contents
+of the incremented pointer" -- which, again, it is not --
+then there would be no difference between <TT>*p++</TT> and <TT>*++p</TT>.
+But of course there is -- and should be -- a very significant
+difference between these two, different expressions.)
+<p>
+While we're here, let's explain a few more things.  Suppose we
+were using <TT>*p++</TT>, and we noticed that it was the old value of the
+pointer that was being used by the <TT>*</TT> operator, and we wanted it
+to be the new value, and we said to ourselves, "I want it to first
+increment the pointer, then take the contents of the incremented
+pointer", and suppose further that we thought that the way to
+get the order of evaluation we wanted was to use explicit
+parentheses, leading us to write <TT>*(p++)</TT>.  What happens next?
+<p>
+Well, it doesn't work, of course.  <TT>*(p++)</TT> acts precisely
+like plain <TT>*p++</TT>, and the reason is that the real purpose of
+parentheses is not to force an order of evaluation, but rather
+to override the default precedence.  So when you write <TT>*(p++)</TT>,
+all that the parentheses say is, "<TT>++</TT> is applied to <TT>p</TT>, and <TT>*</TT> is
+applied to the result", and that's the interpretation that the
+higher precedence of <TT>++</TT> implied already, which is why the
+parentheses don't make any difference.  In other words, when
+you've got an order of evaluation problem, not only is the
+answer probably not going to involve precedence, it's probably
+not going to involve parentheses, either.
+<p>
+What are parentheses good for, then?  Well, let's go back to the
+earlier question of whether <TT>*p++</TT> increments the pointer or the
+thing pointed to.  We've seen that it increments the pointer,
+but what if we want to increment the thing pointed to?  That's a
+precedence problem, so the appropriate answer <em>is</em>, "use explicit
+parentheses", and the result is <TT>(*p)++</TT>.  This says, <TT>*</TT> is applied
+to <TT>p</TT> to fetch a value, and <TT>++</TT> is applied to the fetched value.
+<p>
+Exercise for the reader: <TT>(*p)++</TT> increments the pointed-to value,
+but (again, by the definition of postfix <TT>++</TT>) returns the old,
+unincremented pointed-to value.  What if you wanted to increment
+the pointed-to value and return the new, incremented, pointed-to
+value?  (Do you need explicit parentheses in this case?)
+<p>
+If I haven't put you to sleep by now, I'll launch into one more
+little digression concerning the use of time-related concepts
+to explain precedence.  Ideally, to avoid confusion between
+precedence and order of evaluation, we'd use time-related
+language to explain only order of evaluation, not precedence.
+But when your C teacher was first explaining precedence, the
+explanation probably involved an expression along the lines of
+<p><pre><TT>
+	1 + 2 * 3
+</TT></pre><p>
+and the statement was probably made that "the multiplication
+happens first, before the addition, because multiplication
+has higher precedence than addition".  And having heard an
+explanation like that, it's all too easy to come away with the
+impression that precedence controls order of evaluation, and it's
+also all too easy to get into trouble later when considering an
+expression like <TT>*p++</TT>, where the precedence does <em>not</em> control,
+doesn't even come close to controlling, the aspect of evaluation
+order that you're interested in.
+<p>
+If we look at the expression <TT>1&nbsp;+&nbsp;2&nbsp;*&nbsp;3</TT> very carefully, the
+key aspect explained by precedence is that the multiplication
+operator is applied to the operands 2 and 3, and the addition
+operator is applied to 1 and the result of the multiplication.
+(Notice that I said "and", not "and then").  Here, although
+there's definitely an order of evaluation issue, and although the
+order of evaluation is apparently influenced by the precedence
+somehow, the influence is actually not a direct one.  The real
+constraint on the order of evaluation is that we obviously
+can't complete an addition which involves the result of the
+multiplication until we've got the result of that multiplication.
+So we're probably going to have to do the multiplication first
+and the addition second, but this is mostly a consequence of
+causality, not precedence.
+<p>
+But if your C instructor misled you into thinking that precedence
+had more to do with order of evaluation than it does, have pity,
+because I don't know of a good way of explaining precedence that
+doesn't involve time-related concepts, either.  My students used
+to have to watch me do battle with myself, lips flapping like a
+fish but with no words coming out, as one part of my brain,
+paranoid about the possibility of later misunderstandings,
+desperately tried to keep another part from blurting out the
+dreaded "the multiplication happens first, before the addition,
+because multiplication has higher precedence than addition".
+(And at least half the time, that's probably what I ended up
+saying anyway.)
+<p>
+<p>
+&gt; So, for example, having
+<br>
+&gt;	<TT>char *p = "Hello";</TT>
+<br>
+&gt;	<TT>printf("%c", *p++);</TT>
+<br>
+&gt; shouldn't return <TT>'e'</TT> ?
+<p>
+Nope.  By the arguments above, it prints <TT>'H'</TT>.
+To print <TT>'e'</TT>, you'd want <TT>*++p</TT>.
+<p>
+See also the <a href="/~scs/C-faq/top.html">comp.lang.c FAQ list</a>, question <a href="/~scs/C-faq/q4.3.html">4.3</a>.
+See also <a href="/~scs/readings/precvsooe.960725.html">http://www.eskimo.com/~scs/readings/precvsooe.960725.html</a>.
+<p>
+<address>
+<a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+<br>
+<a href="mailto:scs@eskimo.com">scs@eskimo.com</a>
+</address>
+<p>
+8889185069805239596085360662344508517964037796278267072470951552302
+</body>
+</html>

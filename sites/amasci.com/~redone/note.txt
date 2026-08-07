@@ -1,0 +1,27 @@
+Note 
+
+ A note on these pages- 
+I originally did serveral verisons of the pages to accommodate all 
+known Web browsers. Now, however I'm only writing for 
+Internet Explorer 2.1 or Netscape 2.0 or higher. 
+Their features greatly enhance the look and 'feel' of the WWW. 
+These pages also include Java script and Microsoft's new ActiveX
+Controls. 
+ (you need IE 3.0 to see ActiveX. The 32-bit Netscape to 
+enjoy Java.) (IE 2.1 is reported to have a DNS bug-Netscape 3.0xbeta's
+also have a DNS bug) 
+
+Remember it's no mystery why Netscape is far and away the most 
+popular browser on earth. It's the best and mostly works all the time 
+
+I design and maintain these pages in a high resolution 
+Xwindows system on a Unix machine. 
+I saw them for the first time on a low resolution Mac 
+the other day-it's not a pretty sight. 
+My apologies (and sympathy) to the high-resolution deficient 
+
+I am resisting adding sound etc simply because of the 
+bandwidth involved (I'm already hogging up enough). 
+ RedOne 31, July '96 
+
+ back

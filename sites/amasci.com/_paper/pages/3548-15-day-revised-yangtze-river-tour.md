@@ -1,0 +1,97 @@
+---
+title: "15-DAY REVISED YANGTZE RIVER TOUR"
+source_domain: amasci.com
+source_path: ~interlak/15dayyang.html
+order: 3548
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:56:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# 15-DAY REVISED YANGTZE RIVER TOUR
+
+*Source page: `~interlak/15dayyang.html`*
+
+**15 DAY YANGTZE RIVER CRUISE & TOUR**\
+\
+DAY 1 Depart your country.\
+\
+2 Arrive Beijing. Met by local guide and transferred to your hotel in the\
+central district. Balance of day free.\
+\
+3 Beijing - Guide will take you to Tiananmen Square, the Forbidden City and\
+a Walking tour of the Hutongs (old neighborhoods). Balance of day free.\
+Ask your guide about Xiushu Market on Changon Ave. for great bargains.\
+BL Dinner on your own tonight.\
+\
+4 Beijing - Guide will take you through the countryside to the GREAT WALL\
+at Mutianyu to include the cable car both ways onto the Wall and back.\
+On the way back you will stop at a village to see village life before going\
+back to your hotel. BLD Dinner at a Daijiacun Restaurant with floor show.\
+\
+5 Beijing - Guide will take you to the Summer Palace of the Empress Dowager\
+during the Qing Dynasty and visit the very beautiful Lama Temple and Great\
+Bell Museum. Special Performance of the Peking Opera this evening. BLD\
+\
+6 Beijing/Xian by afternoon air. In the morning you will visit the Temple of\
+Heaven before lunch. After lunch you will transfer to the airport for your\
+flight to Xian. In Xian you will be met by the local guide and transferred to\
+your hotel. Special Traditional Dumpling Dinner this evening. BLD\
+\
+7 Xian. Your guide will take you to the famous Terra Cotta Warriors site and\
+to the HuaQing Pools once the Summer Palace of the Tang Dynasty. Stop\
+at the Jade Carving workshop to see craftsmen carving Jade. Early dinner\
+tonight as you will be attending the beautiful Tang Dynasty Show. BLD\
+\
+8 Xian/Chongqing by air. Guide will take you to the Provincial Museum in\
+Xian in the morning and a stop at the old Muslim Quarters after lunch before\
+going to the airport. In Chongqing you will be met by the local guide and\
+taken to dinner before transferring to the cruise boat for early boarding. BLD\
+\
+9 Yangtze River Cruise - Details in the brochure. Welcoming Dinner tonight\
+by the Victoria Cruise staff. BLD\
+\
+10 Yangtze River Cruise - Sail through the Qutang Gorge. Pass through the\
+Wu Gorge. Evening show tonight. BLD\
+\
+11 Yangtze River Cruise - Sail through the Xiling Gorge and then an off boat\
+excursion to see the new Three Gorges Dam being built. Farewell Banquet\
+tonight with floor show. BLD\
+\
+12 Arrive Wuhan after lunch. A local guide will come on board to meet you and\
+transfer you to the airport for your flight to Shanghai. Some sightseeing in\
+Wuhan if there is a time lag. Met in Shanghai by the local guide and transferred\
+to your hotel. BLD\
+\
+13 Shanghai - Guide will take you to the Yu Garden in the old district known as the\
+\#1 garden in China. After lunch you will go to the new National Museum which\
+is not to be missed. After an early dinner you will attend the famous Shanghai\
+Acrobats performance. BLD\
+\
+14 Shanghai/Suzhou/Shanghai - Your local guide will transfer you to the train\
+station for a short one hour ride to Suzhou known as the Venice of the East and\
+for its formal gardens. Guide will meet you on the platform and take you to the\
+Humble Administrator's Garden 2nd best in China. You will visit Tiger Hill\
+Park, a Silk Factory, Double Sided Embroidery Institute and take a short ride\
+on one of the canals winding through the city. After dinner in Suzhou you will\
+take an evening train back to Shanghai. BLD\
+\
+15 Shanghai/Home - Your guide will transfer you to the airport for your flight home.\
+\
+Included: 1st Class Hotels, most meals, transportation and transfers, English\
+speaking guides, airport taxes if 6 or more people, sightseeing as listed,\
+entertainment as listed, cruise with off boat excursions included, and pre tour\
+information booklet written by Dave Bruels and updated each year.\
+\
+Not included: Tips to guides and drivers, visa application (we furnish forms\
+and instructions) airport taxes if less than 6 people, and any expenses of a\
+personal nature or not specifically listed as included.\
+\
+PRICES:\
+\
+2-4 Persons \$2395 pp dbl. occ. Airport taxes extra + International Air quoted on booking.\
+6-8 Persons \$2195 pp dbl. occ. Domestic Airport Taxes included + International Air.\
+10 Persons + \$1995 pp dlb. occ. Domestic Airport Taxes included and a National Guide\
+will accompany the group. + International Air quoted at booking.\

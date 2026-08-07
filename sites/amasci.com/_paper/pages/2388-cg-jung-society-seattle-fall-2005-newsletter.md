@@ -1,0 +1,48 @@
+---
+title: "C.G. Jung Society, Seattle: Fall 2005 Newsletter"
+source_domain: amasci.com
+source_path: ~dcs/f05/f05stein.html
+order: 2388
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T05:55:57Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# C.G. Jung Society, Seattle: Fall 2005 Newsletter
+
+*Source page: `~dcs/f05/f05stein.html`*
+
+# <img src="../testlogo.jpeg" data-align="top" width="75" height="74" /> C.G. Jung Society, Seattle
+
+------------------------------------------------------------------------
+
+## ***Richard Stein, M.D.***
+
+------------------------------------------------------------------------
+
+## Surrender: Clinical Case Focusing on Series of Dreams About Crucifixion in a Patient with Chronic Pain, and a Case Centered on 60 Unconscious Drawings
+
+***Lecture: Friday, October 7, 2005, 7 to 9 p.m.\**
+Good Shepherd Center, Room 202, 4649 Sunnyside Ave. N., Seattle\
+\$10 member, \$15 nonmembers\
+2 CEUs*
+
+Co-sponsored by North Pacific Institute for Analytical Psychology (NPIAP)
+
+<img src="richardstein1.JPG" data-align="left" width="120" height="153" alt="Stein photo" />Richard Stein will discuss sacrifice and surrender as central aspects of the initiation process. In undergoing initiatory transformation, the ego identity must yield itself, willingly or not, to forces that transcend its comprehension. The lecture will include case material, primarily in the form of a dream series featuring recurrent themes of the crucifixion, baptism, and the healing of the wounded messiah.
+
+The process demonstrates how the conscious ego gradually surrenders control to an autonomous process in the unconscious, allowing for a new psychological attitude to emerge. Instinctive tensions between aggression and submission, as well as cultural conflicts between Jewish and Christian identities find resolution in the later material. Finally the patterns of initiatory trial of strength and the ordeal give way to symbolism of individuation as a more mature stage of development.
+
+**Richard Stein, M.D.**, is a psychiatrist and Jungian analyst in private practice for the last thirty years. As a member of the San Francisco Jung Institute, he teaches regularly in the public and analytic training programs. Stein lived in Pondicherry, India at the Sri Aurobindo Ashram in the early 1970's, where he began the study of yoga, blending the sanatana dharma (eternal wisdom) of the East with modern science and evolutionary theory.  Like Jung's synthesis of alchemy and Christianity, Sri Aruobindo (1872- 1950) integrated the traditions of vedanta and tantra (one source of Western alchemy). It has been a central part of his spiritual and psychological life since that time.  Stein has maintained an active interest in the synthesis of depth psychology and various spiritual traditions, as well as contemporary developments in clinical theory and practice.
+
+*This program has been approved for 2.0 CEU’s by the Washington Chapter, National Association of Social Workers (NASW) for Licensed Social Workers, Licensed Marriage & Family Therapists and Licensed Mental Health Counselors. Provider number is \#1975-157.* *The cost to receive a certificate is as follows: 2.0 units for lecture \$10.*
+
+------------------------------------------------------------------------
+
+[C.G. Jung Society, Seattle home page](../index1.html)
+
+Updated: 7 September, 2005\
+\
+<webmaster@jungseattle.org>

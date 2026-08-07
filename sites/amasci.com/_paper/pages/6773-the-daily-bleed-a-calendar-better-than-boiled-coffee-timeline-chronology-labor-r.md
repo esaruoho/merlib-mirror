@@ -1,0 +1,554 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0807.htm
+order: 6773
+reachable_from_entry: false
+images: 28
+internal_links: 0
+extracted: 2026-08-07T05:59:34Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0807.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+<img src="http://recollectionbooks.com/bleed/images/labor/FLYNEL90.JPG" data-border="1" data-hspace="1" data-vspace="10" data-="" width="233" height="350" alt="Elizabeth Gurley Flynn" />\
+--
+
+AUGUST 7
+
+ELIZABETH GURLEY FLYNN\
+"The Rebel Girl" of Wobbly fame.\
+
+
+> > 
+> >
+> > > 
+> > >
+> > > ------------------------------------------------------------------------
+> > >
+> > > Egypt: FEAST OF 'AUT-YER, Personification of Female Joy.
+> > >
+> > > <img src="http://www.wpkn.org/wpkn/amazon/COLORSQU.GIF" data-="" data-border="0" data-hspace="10" data-vspace="10" width="423" height="17" alt=" ? " />
+> > >
+> > > ------------------------------------------------------------------------
+> > >
+> > > []()\
+> > > []()\
+> > > \
+> > > 1495 -- Slim Fast for Peace?: Diet of Worms abolishes private warfare in Holy Roman Empire.\
+> > > <http://ianrwww.unl.edu/ianr/plntpath/nematode/bignema.htm>\
+> > > <http://gnv.fdt.net/~windle/tbp3.htm>\
+> > > \
+> > > 1566 -- Switzerland Heads Up!? UFO's sighted over Basel. And they have the pictures to prove it!!:
+> > >
+> > > <img src="http://www.parascope.com/articles/0697/cb01.jpg" data-="" data-border="1" data-hspace="10" data-vspace="10" width="400" height="225" alt=" ? " />
+> > >
+> > > []()\
+> >
+> > []()\
+> > \
+> > 1598 -- Georg Stiernhielm, "Father of Swedish poetry", lives. <img src="http://www.eskimo.com/~recall/bleed/images/pixel.gif" data-border="0" data-align="LEFT" width="160" height="150" />
+> >
+> > > Ya, ya live\
+> > > than ya die\
+> > > the end, ya
+> >
+> > \
+> > []()\
+> > []()\
+> > \
+> > 1620 -- All In The Family?: Kepler's mother arrested for witchcraft. []()\
+> > []()\
+> > \
+> > 1647 -- England: The Parliamentarian Army takes control of London. []()\
+> > []()\
+> > \
+> > 1754 -- Henry Fielding leaves England for the gentler climate of Lisbon to alleviate the ill health plaguing him for over a decade.\
+> > <http://history.hanover.edu/early/fielding.htm>\
+> > []()\
+> > \
+> > 1764 -- James Boswell, 24, arrives in Holland, having promised himself to "go abroad with manly resolution to improve, & correspond with Johnson," whom he recently met.\
+> > <http://history.hanover.edu/early/boswell.htm>\
+> > []()\
+> > \
+> > 1783 -- John Heathcoat, inventor of lace-making machinery, lives. []()\
+> > []()\
+> > \
+> > <img src="http://www.recollectionbooks.com/bleed/images/dollar2.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="416" height="186" alt="?" />\
+> > 1804 -- William Blake writes to biographer / poet William Hayley:
+> >
+> > > "Money flies from me. Profit never ventures upon my threshold."
+> >
+> > See Daily Bleed Saints Gallery page, <http://recollectionbooks.com/bleed/saints/StBlakeWilliam.htm>\
+> > []()\
+> > []()\
+> > \
+> > 1820 -- Potatoes first planted in Hawaii, after which the yammering never stopped. []()\
+> > []()\
+> > \
+> > 1826 -- August (Engelbrekt) Ahlqvist (1826-1889) lives. Also wrote also as A. Oksanen. Poet & critic, linguist, the first professor of Finnish at the University of Helsinki, best remembered in Finland perhaps as the strongest critic of Finnish national writer Aleksis Kivi -- a classical example of Mozart-Salieri syndrome.\
+> > <http://www.kirjasto.sci.fi/aahlqvi.htm>\
+> > []()\
+> > \
+> > 1854 -- US: Rumor that all Catholic churches were arsenals brings a mob of ax-wielding Protestants to a St. Louis house of worship. Eight Irishmen are "butchered like cattle" & 30 more seriously wounded. []()\
+> > []()\
+> > \
+> > 1859 -- France: Emile Hugonnard (aka Michel) lives, Lyon. 
+> >
+> > > Militant anarchist implicated in the famed "Lawsuit of the 66" & member of the "groupe de la Guillottire" in Lyon.
+> > >
+> > > [\[Details, click here\]](http://recollectionbooks.com/bleed/08ref.htm#07/1859)
+> >
+> > []()\
+> > []()\
+> > \
+> > 1886 -- Louis Alan Hazeltine, inventor of the neutrodyne, lives.\
+> > []()\
+> > []()\
+> > \
+> > <img src="http://women.eb.com/women/art/oflynne001p1.jpg" data-border="1" data-hspace="10" data-vspace="10" data-="" width="140" height="214" alt="Rebel Girl" />\
+> > 1890 -- US: Elizabeth Gurley Flynn lives, Concord, New Hampshire. Author of Sabotage: the Conscious Withdrawal of Workers Efficiency.
+> >
+> > <img src="http://digital.library.arizona.edu/bisbee/images/128.jpg" data-border="0" data-hspace="10" data-vspace="1" data-align="RIGHT" width="150" height="195" alt="Rebel Girl " />\
+> > <http://www.geocities.com/CapitolHill/5202/reference.html>\
+> > <http://www.hartford-hwp.com/archives/45b/009.html>\
+> > <http://www.geocities.com/CapitolHill/5202/rebelgirl.html>\
+> > <http://www.fortunecity.com/tinpan/parton/2/rebgirl.html>\
+> > <http://members.tripod.com/~RedRobin2/index-41.html>
+> >
+> > <http://women.eb.com/women/articles/Flynn_Elizabeth_Gurley.html>\
+> > \
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/labor/DebsRail-men.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="127" height="217" alt="?" />\
+> > 1894 -- US: Eugene Debs & three other trade union leaders arrested after Pullman Strike.\
+> > <http://www.thirdworldtraveler.com/Heroes/EugeneDebsSocialism.html>\
+> > \
+> > []()\
+> > \
+> > 1897 -- Argentina: Albert Perrier (or Perier), aka Germinal, lives (1897-1970), in Buenos Aires. Militant French revolutionary syndicalist.
+> >
+> > > Member "l'Union Anarchiste" in France. Published the newspaper "Le Combat", & in the 1930s joined "La Ruche". 
+> > >
+> > > In 1936, he went to Spain with a first French convoy of food & weapons for the C.N.T.- F.A.I., & for the next two 2 years helped supply the Spanish anarchists in spite of a French blockade. During the last months of the revolution Perrier facilitated the passage of those escaping from Spain. Anti-Nazi Resistance member, captured & sent to a prison camp (from which he escaped).\
+> > > [\[Details, click here\]](http://recollectionbooks.com/bleed/08ref.htm#07/1897)
+> >
+> > []()\
+> > []()\
+> > \
+> > ![](http://recollectionbooks.com/bleed/images/anarchist/tierra.gif)\
+> > 1900 -- Mexico: The periodical Regeneration, published by the Flores Magn brothers, appears.\
+> > 
+> >
+> > anarchist; alt; Flores Magon
+> >
+> > [eduardo.galeano/memoria.del.fuego/19000807.htm](http://www.patriagrande.net/uruguay/eduardo.galeano/memoria.del.fuego/19000807.htm)\
+> > [http://www.patriagrande.net/mexico/ricardo.flores.magon/](http://www.patriagrande.net/mexico/ricardo.flores.magon/index.html)\
+> > []()\
+> > []()\
+> > \
+> > 1903 -- Kenya: It's In The Pudding? Evidence found proving anthropologist Louis S. B. Leakey lives, Kabete. Wrote By the Evidence: Memoirs, 1932-1951.\
+> > <http://www.kirjasto.sci.fi/leakey.htm>\
+> > []()\
+> > \
+> > 1904 -- US: Ralph Johnson Bunche lives, Detroit, Michigan. Political & social scientist, first African-American Nobel Prize winner (1950), for his role as UN mediator of the armistice agreements between Israel & Arab neighbors in the Middle East wars of 1948. []()\
+> > []()\
+> > \
+> > 1919 -- US: A month-long actors' strike closes all theatres.\
+> > Source: 'Calendar Riots' []()\
+> > []()\
+> > \
+> > 1921 -- US: One thousand miners present Governor Morgan with a resolution calling for an end to martial law in Mingo County. 
+> >
+> > > 
+> > >
+> > > During this year West Virginia miners have been fighting with mine guards, police, hired thugs, & federal troops in a dispute over organizing unions to improve their living conditions, a battle they have been fighting for over the past decade in places like Matewan, Mingo County, Logan County, Blair Mountain & elsewhere, despite the collusion of business & government, their hired goon squads & army troops. Martial law is delcared three separate times, & many labor radicals & militants provided what support they could, including Mother Jones, who visited the area often in support of the striking miners. 
+> > >
+> > > Their appeal today is ignored, & martial law is not repealed for over another year, on September 22, 1922.
+> >
+> > <img src="http://www.newhavenadvocate.com/articles/images/workingcover.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="200" height="260" alt="?" />
+> >
+> > > 
+> > >
+> > > I loaded sixteen tons, I tried to get ahead,\
+> > >  Got deeper & deeper in debt instead.\
+> > >  Well they got what I made, & they wanted some more,\
+> > >  & now I owe my soul at the company store.\
+> > > 
+> > >
+> > > CHORUS: I loaded sixteen tons & what do I get\
+> > >  Another day older & deeper in debt.\
+> > >  Saint Peter don't call me cause I can't go\
+> > >  I owe my soul to the company store.\
+> > > 
+> > >
+> > > ---George Davis, excerpt, Sixteen Tons (1930s),\
+> > > a song popularized by Merle Travis (who ripped it off & claimed to have written in 1946) & Tennessee Ernie Ford
+> > >
+> > > > See George Korson, Coal Dust on the Fiddle (Hatboro: 1965)\
+> > > > <http://members.aol.com/jeff560/wv-hist.html>\
+> > > > <http://www.fortunecity.com/tinpan/parton/2/sixteen2.html>\
+> >
+> > \
+> > []()\
+> > \
+> > 1924 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="45" height="32" alt="EG, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)[Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) enters France from Germany under the name E. G. Kersner; visits a number of friends in Paris, including Harry Weinberger & Frank & Nellie Harris. Meets Arthur Leonard Ross who she later hires as her attorney. Meets Ernest Hemingway at a party given by English novelist Ford Madox Ford. []()\
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/labor/CNTRED.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="180" height="177" alt="?" />\
+> > 1925 -- Ricardo Mella (1861-1925), Spanish anarchist, dies.
+> >
+> > Segarra, Agusti Cuadernos, FEDERICO URALES Y RICARDO MELLA,Anagrama, 1977. 128p.
+> >
+> > ... "El socialismo anarquista" de Ricardo Mella. es tracta d alguns captols del seu llibre "IDEARIO" que ens semblen molt interessants i actuals per el seu ... pages
+> >
+> > <http://www.galeon.com/ateneosant/Ateneo/Biografias/Mella.html>\
+> > <http://membres.lycos.fr/artnono/french/anarchie/espagne/>\
+> > <http://www.cesga.es/ciug/grupostraballo/03/pxs_03.html>\
+> > <http://www.blues.uab.es/fac.com/periodisme/periodis/trebrecer/puialto.htm>\
+> > \
+> > 1928 -- Shrink Wrap?: The US dollar shrinks. []()\
+> > []()\
+> > \
+> > 1931 -- US: Industrial Workers of the World (IWW) heads labor strike at the Boulder Canyon Project.
+> >
+> > > *"Do not jump into your automobile next June & rush out to the canyon country ... In the first place, you can't see anything from a car; you've got to get out of the god-damned contraption & walk, better yet crawl, on hands and knees, over the sandstone & through the thornbush & cactus. *
+> > >
+> > > When traces of blood begin to mark your trail, you'll see something, maybe. Probably not. In the second place, most of what I write about in this book is already gone or going fast. 
+> > >
+> > > This is not a travel guide but an elegy. A memorial. You're holding a tombstone in your hands. A bloody rock. Don't drop it on your foot throw it at something big & glassy. What have you got to lose?"
+> > >
+> > > 
+> > >
+> > > [Edward Abbey](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Abbey), Desert Solitaire
+> > >
+> > > anarchist
+> > >
+> > >  <http://iww.org/>\
+> > > <http://www.usbr.gov/history/hoover.htm>\
+> > > <http://weeklywire.com/tw/01-14-99/feat.htm>\
+> >
+> > anarchist
+>
+> []()\
+> \
+> <img src="http://www.newsavanna.com/meanderings/me204/rrk/rrkmain/10.gif" data-border="0" data-hspace="1" data-vspace="10" data-align="LEFT" data-="" width="280" height="382" alt=" ? " />\
+> 1936 -- Rahsaan Roland Kirk lives, Columbus, Ohio. Blind from age two, he begins playing the tenor saxophone professionally in R&B bands before turning to jazz. Best known for his ability to play more than one instrument at once, self-made jazz instruments, & his creative improvisational skills.
+>
+> <img src="http://www.alfanet.hu/kirk/rndimg/qrrkirk.gif%0BALT=%22" data-?="" data-"="" data-border="0" data-hspace="1" data-vspace="10" data-align="LEFT" width="230" height="88" />
+
+\
+<http://www.newsavanna.com/meanderings/me204/me20404.html>\
+<http://www.alfanet.hu/kirk/index2.html>\
+
+> []()\
+> \
+> <img src="http://recollectionbooks.com/bleed/images/music/marilyn_manson_hf06.jpg" data-border="0" data-hspace="10" data-vspace="10" width="253" height="303" alt="Marilyn" />\
+> 1940 -- Marlyn Manson lives, San Fernando, California.
+>
+> []()\
+> []()\
+> \
+> 1941 -- Rabindranath Tagore dies in Calcutta, India. Winner of the 1913 Nobel Prize for Literature, Indian author, poet, composer, painter.\
+> <http://www.geocities.com/Athens/Parthenon/1963/frame5.htm>\
+> []()\
+> \
+> 1941 -- "Gloomy Sunday" Billie Holiday, (recorded or issued (?) 8/7/41)
+>
+> > Popular folklore of the Depression has Wall Street pedestrians dodging a hailstorm of failed financiers jumping from skyscrapers. Nothing like that ever happened, but America's suicide rate increased (& its birth rate declined) during the Depression. 
+> >
+> > Edmund Wilson wrote movingly in The American Earthquake of the unemployed man whose last desperate actwas rationalized in a coroner's report as due to "ill health, family troubles & no work." 
+> >
+> > Given that background, it may be understandable that Holiday's recording of "Gloomy Sunday" was reportedly banned from radio. This suicidal reverie was written in Hungary in 1933 & first recorded in English by Paul Robeson in 1940. Legend has it that "Gloomy Sunday" (or "Szomoru Vasarnap," as it was known in Hungary) inspired suicides wherever it was heard, hence its nickname, 'the suicide song.' 
+> >
+> > --- Mark Humphrey, "The Great Depression: American Music in the '30s"  <http://www2.blackside.com/blackside/PublishingNewMedia/Depressionmusic2.html>\
+> >
+> > See also
+> >
+> > <http://www.authentichistory.com/audio/1930s/1930smusic01.html>\
+> > <http://imusic.artistdirect.com/store/artist/album/0,,301462,00.html>\
+> > 
+
+[]()\
+\
+1942 -- American author Garrison Keillor lives []()\
+[]()\
+\
+1947 -- Balsa raft Kon Tiki crashes into a Polynesian archipelago reef. The crew mutinies -- crazed with Reefer Madness. []()\
+[]()\
+\
+1957 -- Film comedian Oliver Hardy dies. []()\
+[]()\
+\
+1958 -- US: Care to Dance? Emilia Newcomb, 22, burst into spontaneous combustion while waltzing at a party. Reduced to small pile of ash in a brief, intense flare. Only her shoes slightly scorched inside remain. []()\
+[]()\
+\
+1960 -- US: Students stage kneel-in demonstrations in Atlanta churches. []()\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/anarchist/cubana72b.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="144" height="105" alt="?" />\
+1960 -- Cuba: Fidel Castro announces plans to nationalize all American holdings. US & the Mafia, which had controlled the economy, takes the moral high ground, begins its non-stop campaign to assassinate him.\
+<http://dwardmac.pitzer.edu/Anarchist_Archives/bright/dolgoff/cubanrevolution/toc.html>\
+\
+[History of Cuban Anarchism](http://www.illegalvoices.org/apoc/books/cuban/front.html)\
+\
+[]()\
+\
+1961 -- US: Bob Moses (& SNCC) begins first voter registration school in Mississippi (McComb, Fayette County). []()\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/postersMisc/blob2.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="216" height="279" alt="Incredible Blob" />\
+1963 -- The original beach movie, "Beach Party", debuts. The film stars Frankie Avalon & Annette Funicello. Music is provided by Dick Dale & the Del Tones. <http://anubis.science.unitn.it/services/>\
+\
+[]()\
+\
+<img src="http://perso.club-internet.fr/ytak/images/vilacapdevila_low.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="75" height="92" alt="?" />\
+1963 -- Spain: Ramn Vila Capdevila (1908-1963) dies (aka "Caraquemada", aka "Jabal" (le Sanglier), aka "Commandant Raymond").Militant Spanish guerilla fighter.
+
+alt;Ramon Vila Capdevila; Ramon Rivas
+
+
+
+> Anarcho-syndicalist who fought with the "Iron Column"& the "Column Tierra y Libertad" during the Spanish Revolution.
+>
+> Active in the French Resistance during WWII & a member of the "Batalln Libertad" (mainly Spanish anarchist guerillas).
+>
+> Following the war Vila slipped into Spain & began his famed guerilla actions against the fascist Franco regime. 
+>
+> Today, age 55, Ramon Vila Capdevila is shot down & purposely left to die following a shootout with the "Guardia Civil" near Balsareny.
+>
+> 
+>
+> [\[More information click here\]](http://recollectionbooks.com/bleed/04ref.htm#02/1908) []()\
+
+[]()\
+\
+1964 -- Time Magazine reviews the Beatles' movie "Hard Days Night." The headline reads "Beatles Blow It" & advises readers,
+
+> **"AVOID THIS FILM AT ALL COSTS"**
+
+[]()\
+[]()\
+\
+1964 -- US: Gulf of Tonkin Resolution, in response to falsely reported attacks on US destroyers (see 2 August; 4 August) passes the House 416-0, & the Senate 88-2.
+
+Gives Beloved & Respected Comrade Leader President LBJ extraordinary powers, authorizing him to use "all necessary steps" to "win" the war in Vietnam.
+
+Only two legislators (Morse & Gruening) vote against it, with no opposition in the House -- & the FBI begins collecting the names of supporters of Morse, & his office phone lines are tapped.
+
+
+
+
+
+
+
+
+
+
+
+The resolution allows the president to take any necessary measures to repel "further" attacks & to provide military assistance to any [South Asia Treaty Organization](http://www.bartleby.com/65/st/SthEATO.html) (SEATO) member. Johnson orders the bombing of North Vietnam. For additional information, see [New Light on Gulf of Tonkin](http://www.thehistorynet.com/Vietnam/articles/1997/08972_text.htm), [McNamara Asks Giap, "What Happened at Tonkin Gulf?"](http://vi.uh.edu/pages/buzzmat/world198_4.html), and [30-Year Anniversary: Tonkin Gulf Lie Launched the Vietnam War](http://www.fair.org/media-beat/940727.html).\
+
+
+
+
+
+
+*A modest list of related sites, including our own Vietnam War checklist of over 4,000 books:*
+
+<http://www.eskimo.com/~recall/vietnamlist.html> (be patient when loading, as it is almost 1 MB in size)\
+<http://hubcap.clemson.edu/~eemoise/note.html>\
+<http://www.wsrcc.com/alison/books/vietnam.html>\
+<http://www.lbjlib.utexas.edu/shwv/mb/ref.htm>\
+<http://ssd1.cas.pacificu.edu/as/students/qualls/Mainlit.html>\
+<http://www.lopezbooks.com/articles/vnfirsts.html>\
+<http://members.aol.com/jmstarr/index.html>\
+<http://members.aol.com/VonRanke/vietnam.html>\
+<http://www.frontiernet.net/~pendino/Vietnam-War-Books.htm>\
+<http://www.refstar.com/vietnam/>\
+<http://www.illyria.com/vnbooks.html>\
+<http://servercc.oakton.edu/~wittman/chronol.htm>\
+<http://www.fair.org/media-beat/940727.html><http://www.thehistorynet.com/Vietnam/articles/1997/08972_text.htm><http://www.lbjlib.utexas.edu/shwv/mb/tonkin.htm>
+
+[]()\
+[]()\
+\
+1966 -- Third-Annual South-of-Market & North Beach Children's Adventure Day Camp benefit with Quicksilver Messenger Service, Big Brother & the Holding Company, & The Grateful Dead held at Fillmore Auditorium. Gary Goodrow of The Committee is master of ceremonies. []()\
+[]()\
+\
+1968 -- US: Dead County, Fla.? Republican Convention is held in Miami, Dade County, Fla. Two days of rioting in the black sections of the city ensue, leaving three dead. []()\
+[]()\
+\
+<img src="http://www.nytimes.com/books/98/03/08/home/davis.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="205" height="248" alt=" ? " />\
+1970 -- US: Four, including presiding judge, killed in courthouse shootout in San Rafael, California. Police charge Angela Davis provided weapons.\
+<http://www.disinfo.com/pages/dossier/id91/pg1/>\
+[]()\
+[]()\
+\
+1973 -- Guatemala: Yes, We Have No Bananas? Four thousand march in solidarity with striking teachers, sparking widespread union organizing in Guatemala City. []()\
+[]()\
+\
+1973 -- Emile Bauchet (1899-1973) dies, Villers-Sur-Mer, Calvados. French militant anarchist & pacifist.\
+[\[Details, click here\]](http://recollectionbooks.com/bleed/08ref.htm#07/1973)\
+[]()\
+\
+1974 -- US: Philippe Petit takes a stroll on a tightrope, between the twin towers of the World Trade Center high (1,350 feet up) above the city of New York, which he had secured with an arrow shot with a bow from one building to the other.\
+
+
+> 
+>
+> "If I see three oranges I have to juggle.
+>
+> 
+>
+> And if I see two towers, I have to walk".
+>
+> <http://www.juggling.org/books/alvarez/part7.html>\
+> 
+
+
+
+[]()\
+[]()\
+\
+<img src="http://www.greenpeace.org/~usa/reports/toxics/PVC/burning/pix/rigohead.gif" data-border="1" data-hspace="10" data-vspace="10" data-="" width="204" height="35" alt=" ? " />\
+1978 -- US: The Love Canal subdivision of Niagara Falls, NY built on the site of a former Hooker Chemical Co. chemical dump, formally declared a toxic disaster area by President Carter. []()\
+[]()\
+\
+1979 -- US: Highly enriched uranium released from top-secret nuclear fuel plant near Erwin, Tennessee. About 1,000 people are contaminated with up to 5 times as much radiation as would normally be received in a year. []()\
+[]()\
+\
+1982 -- Spain: 80 arrested, 23 detained at 7th International Nonviolent March, La Linea. []()\
+[]()\
+\
+1983 -- Belgium: First silent European nonviolent peace walk ends, Luxembourg. []()\
+[]()\
+\
+1987 -- An L.A. judge throws out a lawsuit against Ozzy Osbourne, filed by parents of a teenager who committed suicide while listening to "Suicide Solution." []()\
+[]()\
+\
+1990 -- US: Beloved & Respected Comrade Leader President Bush (& former CIA head) orders deployment of troops to Saudi Arabia & the Gulf region. []()\
+[]()\
+\
+1991 -- Charges of assault & property damage filed against Guns 'n' Roses lead singer Axl Rose in connection with a riot during a show in St. Louis. []()\
+[]()\
+\
+1992 -- Mozambique: Cease-fire agreement ends civil war. []()\
+[]()\
+\
+<img src="http://fusion.sims.berkeley.edu/lcush/IWThumb/t_3454019.JPG" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="130" alt="Mumia" />\
+1995 -- US: Due to international pressure, state of Pennsylvania announces a stay of its planned Aug. 17 execution of political prisoner Mumia Abu- Jamal.
+
+> Free Press?: Officials have vowed to silence Mumia at all costs, & take extraordinary actions to do so. NPR buckles under pressure from right wing. Temple University, in Philadelphia, owner of seven Pennsylvania radio stations, also buckles under pressure, refuses to air tapes, cancels contract with Pacifica network.
+>
+> 
+>
+> <img src="http://www.mumia.org/mumia.org/gifs/M4M104a.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="186" height="172" alt=" Mumia " />
+>
+>  <http://www.mumia.org/>\
+> <http://mojo.calyx.net/~refuse/mumia/index.html>
+
+\
+[]()\
+\
+1995 -- US: In two coordinated actions, six Jubilee Plowshares activists are arrested after they symbolically disarm weapons systems at a Newport News, Virginia nuclear submarine shipyard, & a Lockheed plant in San Jose, California.
+
+[]()\
+[]()\
+\
+<img src="http://recollectionbooks.com/siml/images/Images/gramps2.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="146" height="301" alt="?" />\
+1996 -- <img src="http://www.hypnoticclambake.com/images/gramps.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="188" height="283" alt="Baby Gramps" />US: Seattle songster Baby Gramps plays R.O.A.M. Fest August 7-10.
+
+> Baby Gramps is an awesome National Steel Guitar player.
+>
+> " Baby Gramps is talk of the town here & there's been a lot of team pickin'going on. Wild Stuff should be happening from now to Sunday."
+
+> With a repertoire that blends challenging Dylan covers such as "Love Minus Zero/No Limit" with cartoon like anthems like "A Heart Warming Medley of Worm Songs," Gramps tends to coerce an audiences mind to wander toward unexpected territory. Notorious for word play such songs as "Palindromes," "Anagrams," & "Aptonyms" ...
+
+\
+
+> > "Hes entertained everywhere from the streets & medicine shows to Bob Dylan's dressing room. In this day & age, seeing the Seattle based singer-songwriter-guitarist who calls himself Baby Gramps is the closest youll ever get to experiencing Harry Smiths Anthology of American Folk Music in person. 
+> >
+> > He sings in a voice that is somewhere between Cliff "Ukulele Ike" Edwardss & Blind Willie Johnsons, & his style evokes long dead pickers such as Charlie Patton & Riley Puckett. He plays with metal finger-picks on a battered National Steel that at last count had four useable frets left on it and an old clamp wrench holding one of the tuning pegs on. 
+> >
+> > With a long, flowing beard & manerisms that recall early Popeye, Baby Gramps is something of a national treasure, the final repository of an entire era of pop culture. Gramps draws from thousands of Paleozoic jazz, blues, hillbilly, & pop tunes. He is a genuine eccentric talent, an old-time songster & an incredible entertainer."
+> >
+> > Time Out
+>
+> \
+>
+> > []()\
+> > <http://www.pauserecord.com/events/Baby_Gramps_400.html>\
+> > <http://www.hypnoticclambake.com/Gramps.html>\
+> > \
+> > 1998 -- US: FREE RADIO BERKELEY: Hearing regarding Federal injunction against Stephen Dunifer.
+> >
+> > > Federal Judge hears a motion regards her ruling of June 16 enjoining Stephen Dunifer &, by extension, Free Radio Berkeley, from broadcasting without a license & from encouraging others to do so.
+> > >
+> > > Free Radio Berkeley founder, Stephen Dunifer, contends the injunction is a direct attack on his free speech rights. The injunction was issued on the basis Dunifer hadn't applied for alicense from the FCC. However, there is no license available for a station under 100 watts that originates local programming. (Free RadioBerkeley was broadcasting at 60 watts.)
+> >
+> > 
+> >
+> > []()\
+> > []()\
+> > \
+> > 2001 -- Robert Kraus, "New Yorker" cartoonist turned author who wrote, illustraed & edited more than 100 children's books, dies. His books include Leo the Late Bloomer & Whose Mouse are You. []()\
+> > []()\
+> > \
+> > <img src="http://www.wpkn.org/wpkn/amazon/COLORSQU.GIF" data-border="0" data-hspace="10" data-vspace="10" width="383" height="22" alt="?" />\
+> > 3500 --
+> >
+> > 
+> >
+> > "...I say, give Nature a little time. In five years, at most in ten, the sun & wind & storms will cleanse & sterilize the repellent mess. 
+> >
+> > The inevitable floods will soon remove all that does not belong within the canyons. 
+> >
+> > Fresh green willows & tamarisk, box elder & redbud will reappear; & the ancient drowned cottonwoods (noble monuments to themselves) will be replaced by young of their kind. With the renewal of plant life will come the insects, the birds, the lizards & snakes, the mammals. 
+> >
+> > Within a generation thirty years I predict the river & canyons will bear a decent resemblance to their former selves. Within the lifetime of our children Glen Canyon & the living river, heart of the canyonlands, will be restored to us. 
+> >
+> > The wilderness will again belong to the people."
+> >
+> > anarchist
+> >
+> >  Edward Abbey & Phillip Hyde, Slickrock, p.69
+> >
+> > <http://www.canyoncountryzephyr.com/archives/aroundthebend-april-may98.html>\
+> > <http://williamcalvin.com/bk3/bk3day6.htm>
+> >
+> > <img src="http://www.axiom-records.com/pics/logo3.jpg" data-border="0" data-hspace="10" data-vspace="10" width="320" height="320" alt="?" />\
+> > *Collage by SaintMeister [James Koehnline](http://www.isomedia.com/homes/harpo/)*
+> >
+> > []()\
+> >
+> > ------------------------------------------------------------------------
+> >
+> > anti-CopyRite 2000-3000, more or less\
+> > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > or send questions, suggestions, additions, corrections to:\
+> > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> >
+> > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> >
+> > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> >
+> > anarchist, labor, radical books
+> >
+> > See also: Anarchist Encyclopedia\
+> > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > Stan Iverson Memorial Library\
+> > http://recollectionbooks.com/siml/\
+> > Anarchist Time Line / Chronology\
+> > http://recollectionbooks.com/bleed/indexTimeline.htm

@@ -1,0 +1,111 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+
+
+<title>Question 1.32</title>
+<link href="q1.31.html" rev=precedes>
+<link href="q1.34.html" rel=precedes>
+<link href="s1.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 1.32</H3>
+<p>What is the difference between
+these initializations?
+<pre>char a[] = "string literal";
+char *p  = "string literal";
+</pre>My program
+crashes if
+I try to
+assign a new value to <TT>p[i]</TT>.
+</p><hr>
+<p>A string literal
+can
+be used in
+two slightly different
+ways.
+
+As
+an array initializer
+(as in the
+declaration of <TT>char a[]</TT>),
+it specifies the initial values of the characters in that array.
+Anywhere else,
+it turns into an unnamed,
+static
+array of characters,
+which
+may be stored in read-only memory,
+which is why you can't safely modify it.
+In
+an expression context,
+the
+array is converted at once
+to a pointer,
+as usual
+(see section <a href=s6.html>6</a>),
+so
+the second declaration initializes
+<TT>p</TT>
+to point to
+the
+unnamed
+array's
+first element.
+</p><p>(For compiling old code,
+
+
+some
+compilers
+have a switch controlling whether strings
+
+are writable
+or not.)
+</p><p>See also questions
+<a href=q1.31.html>1.31</a>,
+<a href=q6.1.html>6.1</a>,
+<a href=q6.2.html>6.2</a>,
+and
+<a href=q6.8.html>6.8</a>.
+</p>
+
+
+
+
+<p>References:
+
+K&amp;R2 Sec. 5.5 p. 104
+<br>
+ANSI Sec. 3.1.4, Sec. 3.5.7
+<br>
+ISO Sec. 6.1.4, Sec. 6.5.7
+<br>
+Rationale Sec. 3.1.4
+<br>
+H&amp;S Sec. 2.7.4 pp. 31-2
+<br></p><hr>
+<p>
+Read sequentially:
+<a href="q1.31.html" rev=precedes>prev</a>
+<a href="q1.34.html" rel=precedes>next</a>
+<a href="s1.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

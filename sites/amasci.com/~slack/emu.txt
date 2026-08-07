@@ -1,0 +1,226 @@
+The Linux Emulation Guide 
+
+A guide to emulation on linux
+
+ == download 
+ == download link (my other webspace)
+
+Caution! Warning! Disclaimer!: roms you do not own must be deleted within 24 hours.
+
+Computers / Operating systems: 
+[ Intel x86 ] [ Dos ] [ Windows 3.1 ] [ Amiga ] [ Macintosh ] [ AppleII ] [ Atari ST ] [ MSX ] [ C64 ] [ C128 ] [ VIC20 ] [ PET ] [ PDP 11 ]
+ Game systems: 
+[ SuperNES ] [ NES ] [ GameBoy ] [ Lynx ] [ PC-Engine ] [ Sega Mastersystem/GameGear ] [ Coleco ]
+ Misc: 
+[ HP-48 ] [ USR Pilot ] [ TI-92 ]
+
+* Intel x86 
+ Bochs: 
+
+This nifty program emulates x86 systems, meaning once its completed you can boot win95, another linux, plan9, etc in an X window. I managed to get minix and win3.1 working on it,I didn't try win95 because i dont have it, although it is said to run. Graphics are slow, even on a ppro200 and a diamond stealth 64 2mb vram 
+homepage: http://world.std.com/~bochs 
+
+* Dos 
+ DOSEMU: 
+
+A stable dos emulator for console and X (limited graphic support in X), runs pretty much anything except certian graphical & sound apps, got doom working in it though. 
+homepage: http://www.suse.com/~dosemu/ 
+how-to: http://sunsite.unc.edu/mdw/HOWTO/DOSEMU-HOWTO.html 
+ftp: ftp://tsx-11.mit.edu/pub/linux/ALPHA/dosemu/ 
+You'll also need:
+Any old dos operating system, ms-dos, dr. dos, opendos ..... 
+
+* Windows 3.1 
+ Wine: 
+
+Beta emulator, runs less programs then wabi but I got an older groliers electronic encyclopedia working. Networking works too (mIrc works, for those who enjoy pain). Runs 16 bit netscape, wabi dosnt, can also run several win95 programs (mspaint, wordpad, mirc32?)... 
+faq: http://www.asgardpro.com/wine/ 
+homepage: http://www.winehq.com/ 
+ftp: ftp://tsx-11.mit.edu/pub/linux/ALPHA/Wine/ 
+
+ Wabi: 
+
+A MUCH more stable emulator then wine, the only drawback is that it costs 200 bucks 
+homepage: http://www.caldera.com/wabi/ 
+You'll also need:
+Microsnot Windows 3.1 
+
+ The Blue Screen of Death for Linux: 
+
+Very accurate.... 
+ftp: ftp://uiarchive.uiuc.edu/pub/systems/linux/sunsite/system/emulators/bsod.tar.gz 
+
+* Amiga 
+ UAE: 
+
+A very stable emulator, free source code, ported to many systems.
+Version 0.6.0 is incompatible with newer binutils, but 0.6.8-beta seems pretty stable. 
+Homepage: http://www.freiburg.linux.de/~uae/ 
+ You'll also need: 
+ kickstart-3.1.rom.gz (313326 bytes) 
+ You also might want: 
+ a workbench 3.1 bootdisk (431465 bytes) 
+Software links: 
+
+* Macintosh 
+
+ vMac: 
+
+Beta freeware mac-plus emulator, emulates a mac plus, can run system 7.5.5 
+homepage: http://leb.net/vmac/ 
+ You'll also need:
+ Mac+ rom v. 3 (92821 bytes) 
+ System 6.0.8 bootdisk (756758 bytes) 
+ or a System 7.5.5 bootimage (3767243 bytes) 
+-->
+
+ Executor: 
+
+Stable emulator, someone ran photoshop on it I hear, but no network support, and its 100 bucks (you can download a 10-minute per session demo tho). 
+homepage: http://www.ardi.com 
+
+* AppleII 
+ Apple2/Linux: 
+
+Svgalib AppleII emulator, pretty good, sound and joystick support. 
+ftp: ftp://sunsite.unc.edu/pub/Linux/system/emulators/apple2-emul-v004-linux.tar.gz 
+ You'll also need: AppleII roms (10501 bytes) 
+
+ XGS: 
+
+Emulates an appleII GS, can boot the GUI os that came with those. 
+homepage: http://www.jurai.org/~funaho/emulators/XGS/ 
+ You'll also need: A GS rom (88954 bytes) 
+A version of the os is available at Apple's ftp site (They're SFX mac archives, use executor to extract). 
+
+* Atari ST 
+ STonX: 
+
+Looks pretty stable from what ive seen, except its 8 bpp X only and no joystick support yet. 
+homepage: http://www.complang.tuwien.ac.at/nino/stonx.html 
+ You'll also need:
+ an image of the st tos rom (129884 bytes) 
+
+* MSX 
+ fMSX: 
+
+Looks stable, didnt get to mess with it much. Written by Marat Fayzullin, the same one who did several other emulators listed here. 
+homepage: http://www.komkon.org/fms/fMSX 
+
+* Commodore 64 
+ Vice: 
+
+This good set of programs emulates c64s c128s vic20s and pets 
+homepage: http://www.tu-chemnitz.de/~fachat/vice/vice.html 
+ You'll also need: roms for all the systems emulated (98628 bytes) 
+ Frodo: 
+Better then VICE as far as commodore 64 emulation goes. 
+homepage: http://www.uni-mainz.de/~bauec002/FRMain.html 
+
+* PDP 11, 8, etc 
+ Bob Supnik's PDP Emulator: 
+
+Emulates pdp 1,4,7,8,9,11,15's and novas, the pdp11 program can run unix version 5,6,7 
+ftp site: ftp://minnie.cs.adfa.oz.au/pub/PDP-11/Sims/Supnik_2.3/ 
+You'll also need system software at: ftp://minnie.cs.adfa.oz.au/pub/PDP-11/Sims/Supnik_2.3/software/ 
+
+* Super Nintendo 
+ Snes9x: 
+
+The BEST snes emulator out there, sound (!), snapshot saves, game genie, transparancy, super-fx, runs most games. 
+After months of delay a new version is released which supports alot more 
+Now has source code released! 
+ But you can download the last linux elf binary here :) snes9x_linux0.23.tar.gz (182738 bytes), or here 
+-->
+homepage: http://www.snes9x.com/ 
+ SNEmul: 
+New emulation project, pretty good. 
+homepage: http://www.mygale.org/09/cassiop/ 
+snes rom links: no. 
+
+* Nintendo 
+ iNES: 
+
+This emulator supports saves, has problems with only a few games, shareware for windows, free for unix (no source) 
+homepage: http://www.komkon.org/fms/iNES/ 
+ Xnes: 
+New nes emulator, ported to linux svgalib. 
+homepage: http://emu.simplenet.com/xnes/index.html 
+nintendo rom links: no.
+
+* Nintendo Gameboy 
+ Virtual GameBoy: 
+
+The BEST gameboy emulator out there, nuff said. Supports saves and game genie codes. 
+homepage: http://www.komkon.org/fms/VGB/ 
+
+ Hans de Goede's enhanced VGB: 
+
+Based on vgb 0.7, it supports 16/32-bpp xdisplays, joystick, and has a svgalib version. 
+homepage: http://electron.et.tudelft.nl/~jdegoede/index.html 
+gameboy rom links: no. 
+
+* Atari Lynx 
+ Handy: 
+Linux port of the lynx emulator 
+homepage: http://emu.simplenet.com/lynx/ 
+Handy homepage: http://www.geocities.com/SiliconValley/Heights/1148 
+
+ * TurboGraphx16 / PC-Engine 
+VPCE: 
+Unix port of VPCE, has sound, runs slow 
+homepage: http://www.fortunecity.com/roswell/vanthal/10/index.html 
+VPCE homepage: http://www.geocities.com/SiliconValley/Way/3340/vpce.html 
+
+* Sega Mastersystem & GameGear 
+ MasterGear: 
+
+Havn't found a problem with this one yet. Supports saves. 
+homepage: http://www.komkon.org/fms/MG/ 
+my upgrade to the 16/32 bpp fix: is here 
+rom links: no.
+
+* Coleco 
+ Colem: 
+
+Pretty stable emulator with sound. 
+homepage: http://www.komkon.org/fms/ColEm/ 
+
+ Adamem: 
+
+Much better emulator then colem. 
+homepage: http://www.komkon.org/~dekogel/adamem.html 
+
+* HP-48 Calculator 
+ X48: 
+
+Pretty good emulator of the HP48 series, supports data transfers so you can run mario ;> 
+ftp: ftp://sunsite.unc.edu/pub/Linux/system/emulators/x48-0.4.0.tar.gz (134814 bytes) 
+ You'll also need:
+ hp48g.rom.gz (329558 bytes)
+
+* USR Pilot PDA 
+ XCopilot: 
+
+The emulation seems stable, but it does something strange with the files it creates, trying to read them causes an I/O error, use at your own risk 
+homepage: http://www.isaac.cs.berkeley.edu/pilot/ 
+ You'll also need: a personal edition rom (248606 bytes)
+ or a professional edition rom (454781 bytes)
+ or a pro edition rom in german (deutsch) (460774 bytes)
+-->
+
+* TI-92 Calculator/PDA 
+ Tiger: 
+
+New emulator, runs quite a few things already. 
+homepage: http://www.student.nada.kth.se/~md94-jmi/tiger/ 
+ You'll also need: a rom (v 1.4) (460222 bytes)
+
+Misc shit 
+ Dunno why you would need an Apple newton Messagepad 130 rom (3089827 bytes), there isnt an emulator planned or anything :) 
+-->
+ ACE Atari 800 emu is here 
+ Stella: "A multi-platform Atari 2600 VCS emulator" 
+ ftp://sunsite.unc.edu/pub/Linux/system/emulators/ 
+
+ Go back..

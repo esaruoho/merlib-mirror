@@ -1,0 +1,523 @@
+Many More Links From WE7U 
+
+ Many More Links From WE7U 
+
+Have any more links for me? Are some of the links listed here inactive?
+ E-Mail me to let me know.
+
+ Back to Curt's Home Page 
+
+Last update: April 23, 1999
+
+ Table Of Contents: 
+
+ Kid's Stuff 
+ Hunting/Camping 
+ Maps 
+ Search and Rescue 
+ Amateur (Ham) Radio 
+ Robotics Info 
+ Engineering/Electronics Links 
+ Electric Generators/UPS 
+ Home Automation 
+ MIDI/Synthesizers 
+ Satellite TV 
+ Colleges/Universities 
+ Internet Service Provider Lists 
+ Becoming An Internet Service Provider 
+ U.S. Tax Forms 
+ Washington Pages 
+ Web Page Construction Help 
+ U.S. Government Sites 
+ Miscellaneous Pages 
+ Educational Material 
+ Medical Stuff 
+
+ Kid's Stuff : 
+
+ Youth Central(SM) Community 
+ The Children Page 
+ Index of /ResPress 
+ Family Planet 
+ Steve and Ruth Bennett's Family Surfboard 
+ (Bob Allison's Home Page) Uncle Bob's Kids' Page 
+ The Emerald Web, Seattle 
+ Family World HomePage 
+ http://www.parentsplace.com 
+ http://www.cvu.cssd.k12.vt.us/k12tech/k12tech.htm 
+ http://www.hw.ac.uk/libWWW/irn/irn.html 
+ http://www.cam.org/~aselby/lesson.html 
+ http://www.cam.org/~aselby/logic_lessons 
+
+ Hunting/Camping : 
+
+ REI 
+ USGS Maps 
+ OutDoorLink 
+ MGear 
+ HUNTING Discussion List Logs and Related Files 
+ Christopher N. Barnes 
+ Don's House of Fine Patisseries 
+ Feathered Friends Online 
+
+ Maps : 
+
+ B.C. TRIM Map Data (Canada)
+ http://www.mapquest.com , Interactively creates maps.
+ Proximus , Interactively creates maps.
+ Tiger.census.gov , Interactively creates maps.
+ Fugawi Moving Map Software 
+ Surfer Mapping Software 
+ Data Sets/Surfer Mapping Software 
+ SOPAC WWW Service 
+ Xerox PARC Map Viewer: world 0.00N 0.00E (1.0X) 
+ Current Weather Maps/Movies 
+ Science:Geography 
+ GIS / Cartography, starting points 
+ Geographical and Geological Sites 
+ USGS Western Region Geologic Information Server 
+ USGS Mapping Information: Home Page 
+ The NASA/JPL Imaging Radar Home Page 
+ Directory of /COGS 
+ Directory of /simtel/msdos/mapping 
+ Rich Signell's Home Page 
+ GIS and GIS-Related Net Sites 
+ ivmaps home page 
+ NOAA West Region 
+ Cartography Resources on the Web 
+ Terrain Modeling Project Office 
+ Bruce Gittings' Digital Elevation Data Catalogue 
+ Yahoo - Science:Geography 
+ Riback & Company Hotlist 
+ Directory of /pub/ti 
+ GLOBAL RELIEF CD-ROM 
+ Directory of /mapinfo 
+ GISnet BBS' MapInfo Support Page 
+ NSDI MetaData and WWW Mapping Sites 
+ GEOSPATIAL SUPPORT STAFF 
+ gopher://george.peabody.yale.edu:71/1 
+ ftp://ftp.ronin.com/navigation/DIRECTORY 
+ Directory of /pub/gis/vpfview 
+ DeLorme Mapping 
+ GIS World, Inc. 
+ http://www.cnde.iastate.edu/staff/swormley/utm_grid.html 
+ http://www.backpacking.com (USGS Quads for sale over net)
+ http://www.backpacking.com/backnav.html (S/W)
+ http://dnet.net/mbu 
+ http://www.lib.utexas.edu/Libs/PCL/Map_collection/nat_park/ 
+ http://www.ngdc.noaa.gov/sed/globesys/globe.html 
+ http://info.er.usgs.gov/fact-sheets/finding-your-way/finding-your-way.html 
+ ftp://oak.oakland.edu/simtel/msdos/mapping/vmap140.zip (DLG Viewer)
+ JustSoftWorks, free beta version of GPS S/W that links into Precision Mapping 
+ Percon Corp (New mapping software coming out) 
+
+ Search And Rescue : 
+
+ Bonner County, Idaho SAR 
+ FTP Site for SarMap , Windows program that reads USGS DEM/DLG files. Also many other SAR-related programs/text files here.
+ csarreq@hp.asdd.mayfield.hp.com (mailing list)
+
+ Subject: whatever
+ Body: subscribe to csar
+ first name
+ last name
+ snohomish county sar
+
+ Amateur (Ham) Radio : 
+
+ Equinox 
+ Electronic Companies on the Web 
+ UCSD 
+ Bruce Perens' Home Page 
+ High Speed Packet Radio 
+ Hamster and The World of Radio 
+ WSU Amateur Radio Club 
+ ftp.ucsd.edu/hamradio/packet/tcpip/jnos 
+ ftp.ucsd.edu/hamradio/packet/tcpip/incoming 
+ Collegiate Amateur Radio Clubs 
+ Arasmith Engineering 
+ The Wonderful World of Amateur Radio 
+ American Digital Radio Society, Inc. - WWW Home Page 
+ Harvard Wireless Club - W1AF 
+ Linux HAM-HOWTO, Amateur Radio Software List 
+ Welcome to the FCC Web Server 
+ San Antonio Packet Radio Home Page 
+ N6GN's Higher Speed Packet Page 
+ TAPR FTP Site 
+ The Packet Radio Home Page 
+ SatTrack Home Page 
+ SSTV Home Page 
+ Welcome to the Spread Spectrum Home Pages 
+ Wide World of Packet Radio 
+ The Insight Knowledge Network 
+ SCI.ELECTRONICS FAQ 
+ Andy's PIC Project Page 
+ Fil's FAQ-Link-In Corner 
+ EOSS - Edge of Space Sciences Home Page 
+ Amateur Packet Radio Contacts 
+ Directory of /pub/XFS_AlphaTest/amateur 
+ Motorola Semiconductor Products 
+ HRO PAGE 
+ Wide World of Packet Radio 
+ FBenterprises Home Page! 
+ Ham Radio Home Page 
+
+ Robotics Info : 
+
+ The Handy Board 
+ EAS Finger Board 
+ Rug Warrior Board 
+ Miniboard/Handyboard FTP Site 
+ Interactive C Home Page 
+ SimmStick CPU Boards 
+ Robot 
+ Polymer Hydrogel 
+ Dallas Personal Robotics Group 
+ Radio Modem IC's 
+ 68HC11 GCC-2.8.1 cross-compiler (NEW!) Also: GCC Handyboard Libraries are here
+ 68HC11 GCC-2.6.3 cross-compiler (gcc-6811-fsf.tar.gz)
+ 68HC11 GCC-2.6.3 cross-compiler 
+ Robot Arm Simulation SW 
+ Robot Arm Simulation SW 
+ Motor Controllers 
+ Connectix QuickCam info 
+ Freeware for state machine design 
+ Servo controller w/PIC 
+ Rosl.com 
+ Genetic programming notebook, robotics info 
+ Robots, uP's, kits, Sharp GP1U58Y sensors 
+ Robot.ireq.ca 
+ CRR 
+ Crayon labs files: stiquito: $20 hexapod using muscle wire 
+ Stiquito Colony 
+ Stiquito 
+ Stiquito 
+ Stiquito 
+ MR 
+ Robots 
+ Motorola 
+ Design-net.com 
+ Freeweb 
+ mct.net 
+ Vendor, has 68HC11E2's in stock 
+ Bot Board 
+ Robotstore.com 
+ Robotics 
+ ebox 
+ ebox 
+ hrynkiwd 
+ Robotics.com 
+ Roboty 
+ Skip 
+ Eurobots 
+ NewMicros 
+ UFL.edu 
+ Photon Technology (Solar Cells)
+ AstroPower (Solar Cells)
+ Sun Wize (Solar Cells)
+ Panasonic (Solar Cells)
+ DIYKIT , (Oatley Electronics are also on this web site somewhere)
+ Electronics info/faqs 
+ Polaroid rangefinders, nitinol wire, pic's 
+ Robotics 
+ http://www.ecn.uoknor.edu/~jspatric/ee-info.html 
+ ftp://ftp.netcom.com/pub/di/dibald/ 
+ http://bailey2.unibase.com/local/dtmf04.html 
+ http://www.halcyon.com/pos.time.sys/top 
+ http://turbine.kuee.kyoto-u.ac.jp/staff/onat.html (insect)
+ http://www.robix.com (robotic arm)
+ http://www.robotstore.com 
+ http://www.cera.com/robotics.htm 
+ ftp://rtfm.mit.edu/pub/usenet-by-hierarchy/news/answers/robotics-faq 
+ http://www.frc.ri.cmu.edu/robotics-faq 
+ Using Radio Shack's Armatron Robotic Arm ($29.00) 
+
+ Engineering/Electronics Links : 
+
+ Chip Manufacturer's Links (Gray's List, Very Good) 
+ Embedded Systems Magazine 
+ Fil's Web Page 
+ LCD Info 
+ Mail order electronics companies 
+ Electronics and Science Oriented Magazines 
+ ProTel Professional Telecommunications 
+ Digi-Key Corporation Home Page 
+ Motorola World-Wide-Web Server 
+ Motorola Literature Ordering 
+ Exabyte Corporation 
+ Exabyte: 8200/8200SX Code 
+ Tektronix Inc. 
+ Siemens In the USA 
+ International Rectifier - Efficient Power Conversion 
+ Welcome to Intel 
+ 82930A Universal Serial Bus Microcontroller 
+ Intel Customer Support for Hardware and Software Developers 
+ Universal Serial Bus Backgrounder 
+ Access HP - Welcome to Hewlett-Packard 
+ Computer In Cars 
+ CCD Cameras 
+ CCD Cameras 
+ Weird Science Page 
+ Electric Car 
+ http://onyx.zynet.com (memory vendor)
+ http://www.compstop.com (memory vendor near Seattle)
+ http://www.atipa.com (memory vendor)
+ http://www.chipsmerchant.com (memory vendor)
+ http://www.actisys.com/IrDAProd.html 
+ http://www.tinaja.com/ (midnight engineering)
+ http://www.cs.colostate.edu/~hirsch/LCD.html (LCD page)
+ http://www.efrei.fr/Efrei/es-cao/ (links to data books and electronics firms)
+ http://www.cera2.com/srcnet.htm (electronics search faq)
+ http://eg3.com/srcnet.htm (electronics search faq)
+ http://www.anatekcorp.com/repair.htm (Electronic Repair FAQ's)
+ http://www.digikey.com (Digi-Key)
+ http://www.questlink.com 
+ http://www.hut.fi/~then 
+ http://www.engr.unl.edu/ee/eeshop/netsites.html 
+ http://www.labyrinth.net.au/~donmck 
+ http://www.marshall.com 
+ ftp://bode.ee.ualberta.ca Schematics, Assembler, Disassemblers
+ Simtel archives:/pub/msdos/emulator 8-bit uproc
+ Simtel archives:/pub/msdos/crossasm 8-bit uproc
+ ftp://ftp.funet.fi/pub/microprocs 8-bit uproc
+ ftp://ftp.cygnus.com/pub/embedded 32-bit uproc (RTEMS real-time executive for m68k,i960,i386,HP-PA)
+ ftp://ftp.cygnus.com/pub/newlib 32-bit uproc (RTEMS real-time executive for m68k,i960,i386,HP-PA)
+ http://www.cit.ac.nz/smac/cbt/hwsys/bussys/default.htm 
+ http://www.mot.com (Motorola)
+ http://design-net.com/datacom (Motorola)
+ telnet: pirs.aus.sps.mot.com (Motorola, login "bbs")
+ http://pirs.aus.sps.mot.com (Motorola)
+ http://freeware.aus.sps.mot.com/index.html (Motorola)
+ ftp://nyquist.ee.ualberta.ca/pub/motorola (Motorola)
+ http://www.circellar.com 
+ http://www.engg.uregina.ca/~hui 
+ http://www.qucis.queensu.ca/home/pham/homebuilt/achh.faq.html 
+ http://ccfadm.eeg.ccf.org/~tom/brain/hc11.faq 
+ 68hc11-microcontroller-faq 
+ http://vinny.csd.mu.edu/sean/hc11faq.html 
+ http://www.infinet.com/~dhoehnen/ha/list.html 
+ 68hc11-microcontroller-faq 
+ http://www.netrail.net/corp.html 
+ http://www.fi.uib.no/~bruce/chipsite.htm 
+ ftp://ftp.armory.com/pub/user/rstevew/giicm.zip (giicm)
+ http://www.xs4all.nl/~falstaff (giicm again)
+ ftp://ieee.cas.uc.edu/pub/electronics/faqs/ftp.armory.com 
+
+ Electric Generators/UPS : 
+
+ Vendors: Exide,APC,Best,Deltec,Liebert,Merlin Gerin,Oneac,Sola,Tripp Lite
+ genpower (on Linux mirrors in system/UPS directory)
+ powerd (on Linux mirrors in system/UPS directory)
+ Best 
+ PowerChute UPS Software 
+ http://www.exide.com/exide (Exide Electronics)
+ http://www.aone.com/~robert/woec.html 
+ ftp://navigator.jpl.nasa.gov/pub/doc/faq/UPS.faq 
+ http://www.cs.rmit.edu.au/etext/FAQs/UPS.FAQ 
+ comp.misc/Uninterruptable_Power_Source_FAQ 
+ http://www.apcc.com (American Power Conversion)
+ http://www.pic.net/~larry (American Power Conversion UPS's)
+ http://www.woodhyrst.com (Woodhyrst Inc.)
+ http://www.clary.com/onguard (Clary Corp)
+ http://www.liebert.com/tlups.htm 
+ http://www.gamatronic.co.il (Gamatronic Power Solutions)
+ http://www.saccom.com (SAC Communications Inc)
+ http://www.tsipower.com (TSi Power)
+ http://www.the-office.com (The Office)
+ http://gopher.powertech.co.uk (Power Technology Web Site)
+ http://www.dataflex.com/catalog/vendor/B/BEST_POWER_TECH/power_supplies.html 
+ http://www.dfw.net/~jedwards/best.html 
+ http://www.dialix.oz.au/justnet/nikko-mx.html 
+ http://capweb.citi.net/catalog/pc360.htm 
+ http://capweb.citi.net/catalog/pc370.htm 
+ http://www.austin.ibm.com/developer/aix/library/oemhw/oemhw_76.html 
+ http://www.rmplc.co.uk/rmplc/rmd/netcom/ups.html 
+ http://www.rasip.fer.hr/star_html/ups.html 
+ http://rampages.onramp.net/~pseaman/pgpower.htm 
+ http://www.galactica.it/Dr_Technologie/drt03.htm 
+ http://www.indra.com/unicom/powerspplyups.html 
+ http://www.qualix.com/sgi/product/sysadmin/ups.htmld 
+ http://www.sdic.com/IPT/IPTUps.html 
+ http://techweb.cmp.com/nc/601/601rev1.html 
+ http://awa.com/nct/hardware/whyups.html 
+ http://www.wadesign/co.uk/garfnet/new_millenium/john.htm 
+ http://www.cadigital.com/./ups.html 
+ http://www.itkom.dk/semidan 
+ http://www.cabletron.com/Catalog/MMAC/Chassis/AP700RM.html 
+ http://www.preferred.com/shop/55.htm 
+ http://www.adspower.com/acpower.html 
+ http://gpg.com/cnme/0695/22apc.html 
+ http://www.mpoli.fi/LDP/HOWTO/UPS-HOWTO-5.html 
+ http://kosice.upjs.sk/linux.doc/HOWTO/UPS-HOWTO-11.html 
+ http://netmar.com/mall/shops/edi/power.html 
+ Yahoo: Power_Supplies 
+ http://www.amscons.com/mdw/HOWTO/UPS-HOWTO-8.html 
+ http://www.industry.net/c/mn/03535xa 
+ App Note from SGI 
+
+ Home Automation : 
+
+ http://web.cs.ualberta.ca/~wade/HyperHome/Faq/faq_outline.html 
+ misc.consumers.house
+ http://www.senet.com.au/~hsp/home.htm (Jeeves controller)
+ http://www.smarthome.com/smarthome/x10faq.html 
+ http://www.infinet.com/~dhoehnen 
+ http://www.hometeam.com/x10.shtml 
+ http//www.gorp.com/gorp/food/main.htm 
+ http://www.cera.com/gator.htm 
+ http://www.cera.com 
+ ftp://ftp.cera.com 
+ http://www.cera.com/micro.htm 
+ http://www.ncgia.ucsb.edu 
+ ftp://ftp.ncgia.ucsb.edu 
+
+ MIDI/Synthesizers : 
+
+ Jazz Sequencer 
+ Jazz Sequencer 
+ Jazz Sequencer 
+ Jazz Sequencer 
+ ENSONIQ - Leading the World in Sound Innovation 
+ Ensoniq VFX Home Page 
+ Keyboard Magazine Web Site 
+ Keyboard System-Exclusive 
+ Cakewalk Demos 
+ The MIDI Farm 
+ ENSONIQ Corporation 
+ Directory of /pub/music 
+ Directory of /pub/ensoniq 
+ Directory of /vendors/trnsoniq 
+ Classical MIDI Archives 
+ http://www.netaxs.com/~mikeh/ensoniq.html 
+ http://www.transoniq.com/~trnsoniq 
+ ftp://ftp.teleport.com/users/qsilver/midi 
+ http://hyperreal.com or http://www.hyperreal.com 
+ Notator For Linux 
+ http://www.gil.com.au/~mcontact/smm/ (Shareware Music Machine)
+ http://darwin.topend.com.au/~jsno/ (FunkTracker Sequencer)
+ http://rexio.uci.agh.edu.pl/~kfoltman 
+ http://www.digiserve.com/ar/linux-snd (Linux MIDI Page)
+ http://www.eeb.ele.tue.nl/midi/ 
+ http://www.paranoia.com/~filipg/HTML/LINK/F_MIDI.html 
+ http://www.midifarm.com/ 
+ http://www.paranoia.com/~filipg/HTML/LINK/F_midi2.html 
+ Maybe also check out the group: rec.music.makers.builders
+
+ Satellite TV : 
+
+ The Satellite TV Page 
+ Robert's Satellite Page 
+ http://tahoma.cwu.edu:2000/~calhoun/ 
+ TV Net Lobby 
+ Keystone Communications Home Page 
+ From the virtual desk of Glen L. Roberts 
+ PageSat: Home Page 
+ Satmaster Satellite Pages 
+ Directory of /pub/cdrom 
+
+ Colleges/Universities : 
+
+ Harvey Mudd College 
+
+ Internet Service Provider Lists : 
+
+ Kimbro (Western WA)
+ Seattle Directory 
+ The List 
+ Looking for an ISP that covers Wilder or Homedale, ID...
+ Micron (Caldwell,Nyssa,Fruitland,Payette)
+ Cyberhighway (Caldwell,Fruitland,Payette)
+ DMI (800 number)
+ Netcom (800 number) ($4.90/hour)
+ Primenet (Caldwell,Fruitland,Payette)
+
+ Becoming An Internet Service Provider : 
+
+ Providers 
+ ISP 
+ Linux ISP 
+ Inet Access FAQ 
+
+ U.S. Tax Forms/Legal Info : 
+
+ http://www.ustreas.gov/treasury/bureaus/irs/taxforms.html 
+ Nolo Press 
+
+ Washington Pages : 
+
+ Home Page Washington 
+ Welcome to U/Seattle 
+ gopher://gopher.seattle.wa.us/ 
+ Eskimo Home Page 
+ gopher://cru1.cahe.wsu.edu:70/1/ 
+ WSUinfo Home Page 
+ Washington State University, School of EE/CS 
+ Microsoft Corporation World-Wide-Web Server 
+
+ Web Page Construction Help : 
+
+ Computers:World Wide Web 
+ Computers:World Wide Web:Programming:Icons 
+ Jeff's Web (under construction) 
+ Wormey's Home Page 
+
+ U.S. Government Sites : 
+
+ BLM HOME PAGE 
+ Directory of /pub/gis 
+ United States Geological Survey-HTTP Server-Home Page 
+ USGS Geo Data 
+ FGDC Manual of Federal Geographic Data Products - USGS Index 
+ FGDC Manual of Federal Geographic Data Products - Table of Contents 
+ MCMC Home Page 
+ National Geodetic Survey 
+ USGS Node of National Geospatial Data Clearinghouse 
+ National Wetlands Inventory (NWI) Products 
+
+ Miscellaneous Pages : 
+
+ Intuit Home Page 
+ Directory of /pub/emc25 
+ Consummate Winsock Apps List 
+ TBN 
+ Benny Hinn Media Ministries 
+ Oregon Extension Service Home Page 
+ Netsurfer Communications 
+ Current Weather Maps/Movies 
+ Oregon State University Front Door 
+ Rectal Foreign Bodies 
+ Entertainment:Comics:Comic Strips:Dilbert 
+ Jeff Rackowitz's Home Page 
+ Pharmaceutical Information Network Home Page 
+ List of WWW Servers (USA - Federal Government) 
+ Federal Bureau of Investigation (FBI) 
+ Military/Government WWW Servers 
+ SSgt Harding's Personal Home Page 
+ Directory of /pub/data/misc 
+ Speak Tagalog 
+ ANU Art History Top Level Menu Page 
+ UC Berkeley Home Page 
+ Philip goes to New Zealand 
+ Collected New Zealand / Aotearoa Information 
+ Stillbirth and Neonatal Death Support(Vic) 
+ DealerNet - The Source for New Car Information 
+ libHiTech.a - The Exclusive Electronic Computer Book Club 
+ http://www.connect.net/jbanta 
+ http://www.teleport.com/~dputzolu/ 
+
+ Educational Material : 
+
+ Data Comm 
+ Networking Resources 
+
+ Medical Stuff : 
+
+ Allergy 
+ Info on Lupus/ 
+ Info on Depression 
+ Info on Depression 
+ alt.support.depression
+ news.answers
+ alt-support-depression/faq/
+ Info on Bipolar Depression 
+ Info on Depression

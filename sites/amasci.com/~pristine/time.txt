@@ -1,0 +1,1239 @@
+Pure Mac: Time - Software for Macintosh 
+
+ Time 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Alarm Clocks 
+ Calendar Countdowns 
+ Kitchen Timers 
+ Reminders 
+ Clocks 
+ Internet Time 
+ NTP Clients 
+
+ Alarm Clock 
+ Alarm Clock Pro 
+ Aurora Awaken 
+ iAlarm 
+ iRooster 
+ iTaf 
+ PowerController 
+
+ Countdown Calendar 
+ Countdown Clock 
+ Days Left 
+ Final Countdown 
+ How Much Longer? 
+ TimeCounter 
+ Until 
+
+ Chimoo Timer 
+ Coffee Timer 
+ Countdown 
+ Cuppa 
+ DockTimer 
+ EggTimer 
+ FM Egg Timer 
+ Fob 
+ Minuteur 
+ Pester 
+ Tea Timer 
+ TinyAlarm 
+ TTimer 
+
+ Birthdaybook 
+ Birthdays 
+ Event Reminder 
+ GeburtstagsChecker 
+ iMOnTime 
+
+ ClockScreensaver 
+ FuzzyClock 
+ iClock 
+ PongSaver 
+ Stop Watches 
+ Chimoo Timer 
+ Minuteur 
+ ODLog 
+ Stopwatch CSM 
+ Watch It 
+
+ iBeatTime 
+ iBeatTime Widget 
+ Internet Time Dockling 
+ iTime 
+ itQuartz 
+ WebTime 
+
+ NetChronometer 
+ Vremya 
+ World Time 
+ HourWorld 
+ iClock 
+ Simple World Clock 
+ Time Palette 
+ World Clock CSM 
+ WorldClock Deluxe 
+ WorldTimes 
+
+ NTP.Servers Web 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Alarm Clock 2.4.5 
+
+ 1. Set your alarms once 
+ * Set as many alarms as you want
+ * Set repeating alarms or one-time alarms
+ 2. Wake up in style 
+ * Wake up to any song, playlist or podcast in your iTunes libaray!
+ * Wake up peacefully with "easy wake" - a configurable option that slowly increases the volume of your alarm over time
+ * Can wake your computer from sleep
+ * You can even hit snooze with your apple remote!
+
+ License : Freeware
+ Author/Publisher : Robbie Hanson
+ Modification Date : July 10, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.9 MB
+
+ Home Page 
+
+ Alarm Clock Pro 8.2.5 
+
+Alarm Clock Pro is a fully customizable time management system. Use it
+to wake up every morning, read you an inspirational quote every hour,
+time events, set appointment reminders, calculate time differences, and
+even perform various system functions!
+
+Here are just a few of the features available:
+ Alarm Check Services - run in the background to automatically
+relaunch Alarm Clock Pro prior to an alert ringing.
+ Set hourly, recurring and static alarms.
+ Create your own custom clock.
+ Wake your computer from sleep (Mac Only).
+ Calculate time difference between two dates.
+ Play a web radio station.
+ Determine the time in another Time Zone.
+ Prioritize and organize your task list.
+ Built-in stop watch.
+ Built-in kitchen timer.
+ Open a file or program.
+ Run a system shell command.
+ Play an iTunes playlist (as well as other types of Multimedia)
+ Sleep, Restart, Shutdown or Logout.
+ Automatically send out e-mails.
+
+ License : Shareware, $16
+ Author/Publisher : Koingo Software
+ Modification Date : December 23, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 13.4 MB
+
+ Home Page 
+
+ Aurora 3.3.5 
+
+Aurora is a free Alarm Clock for your Mac that lets you wake up to your favorite iTunes
+playlist or any TV or radio channel from EyeTV. Other features include a Sleep Timer,
+Apple Remote support and the ability to wake your Mac from sleep or from a powered-off
+state.
+
+ License : Freeware
+ Author/Publisher : Jonas Witt
+ Modification Date : October 25, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.7 MB
+
+ Home Page 
+
+ Awaken 3.1.7 
+
+Awaken is a digital alarm clock that wakes you up by playing the iTunes
+playlist of your choice. Alarms can be created to alert you on a weekly
+basis at a set time, or at any specific date and time. You can also fall
+asleep to your favorite music using the newly introduced sleep timer.
+
+ License : Shareware, $9
+ Author/Publisher : Embraceware
+ Modification Date : November 7, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 4.6 MB
+
+ Home Page 
+
+ Birthdaybook 4.6 
+
+Birthdaybook will remind you of upcoming birthdays and other events in a
+delightful way and allow you to coordinate your birthday list with Apple
+Address book and Ical.
+
+ License : Freeware
+ Author/Publisher : Rob DuToit
+ Modification Date : November 10, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.4 Kb
+
+ Home Page 
+
+ Birthdays 1.5 
+
+Are you also someone that always forgets the birthdays of your friends,
+family, ... Well then this program might be something for you! This program
+will remind you on time when there is a birthday.
+
+Birthdays make use of the internal address book of OS X. As soon as you
+change something there, Birthdays will know it.
+
+ License : Shareware, $18
+ Author/Publisher : Bart Kussener
+ Modification Date : June 14, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.3 MB
+
+ Home Page 
+
+ Chimoo Timer 1.5 
+
+Chimoo Timer is a simple countdown/up timer featuring speech recognition and text-to-speech support.
+ * Speech Recognition (for Start, Stop, Reset, "current value", and "disable speech recognition").
+ * Speech support for counting seconds, speaking alerts.
+ * "Tick" sound on seconds.
+ * Count up and count down modes.
+ * Floating mini window mode takes up less space.
+ * Low CPU usage (esp. when in background or hidden).
+ * Written with Cocoa - native to Mac OS X.
+ * Dock menu to start/stop/reset timer.
+ * Multiplier view for counting elapsed frames.
+ * Detachable controller.
+ * Customizable settings for what to do upon timer expiration.
+ * Optional feature to warn before stopping timer - great for timing important things such as time spent working at home which you don't want to accidentally reset.
+
+ License : Freeware
+ Author/Publisher : Chimoosoft
+ Modification Date : March 5, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 493 Kb
+
+ Home Page 
+
+ ClockScreensaver 0.2 
+
+A simple digital clock screensaver.
+ FEATURES
+ * Adjustable clock font style, size, and color
+ * Customizable clock format
+ * Clock can remain motionless, or move around the screen using different effects
+
+ License : Freeware
+ Author/Publisher : Spacehaven
+ Release Date : May 7, 2004
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 250 Kb
+
+ Home Page 
+
+ Coffee Timer 1.1 
+
+The Coffee Timer is a very simple countdown timer with a loud alarm and a couple 
+of other useful options.
+
+ License : Freeware
+ Author/Publisher : Levi Montalcini
+ Modification Date : April 30, 1997
+ Requirements : 680x0 or PPC
+
+ Download 
+File Size: 164 Kb
+
+ Home Page 
+
+ Countdown 1.6.2 
+
+Countdown is a one-trick pony, but it does it well. All it does is keep
+track of the time and alert you when the timer reaches zero. You can
+enter an end-date into the topmost field (examples: "3 pm", "12:01 am
+tomorrow") or enter how many hours, minutes, and seconds you need in the
+bottom fields. After you've done the simple setup, simply hit the "Start
+Countdown" button. Countdown updates a status bar item as it counts
+down. When it reaches zero, it shows a message and plays a sound to
+alert you. It's as simple as it is handy.
+
+ License : Freeware
+ Author/Publisher : From Concentrate Software
+ Modification Date : December 25, 2004
+ Requirements : Mac OS X
+
+ Download 
+File Size: 163 MB
+
+ Home Page 
+
+ Countdown Calendar 1.11 
+
+A nice countdown calendar.
+
+ License : Freeware
+ Author/Publisher : Greg Maletic
+ Modification Date : September 26, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 69 Kb
+
+ Home Page 
+
+ Countdown Clock 1.0 
+
+Countdown Clock puts a circular clock in your menu bar. This clock can
+count down from one date to another, or from one time of day to another.
+Use it to show you how much time you lave left in your work day, how
+much time is left on a project, or whatever else you can think of. To
+configure Countdown Clock, select Preferences from the Countdown Clock
+menu, which will appear as a small circle toward the right hand side of
+your menu bar.
+
+ License : Freeware
+ Author/Publisher : Rayner Software
+ Modification Date : July 25, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 34 Kb
+
+ Home Page 
+
+ Cuppa 1.5.4 
+
+Cuppa is a small application for Mac OS X to time your cup of tea as it
+steeps. Tired of leaving your tea too long, to become bitter and cold,
+or drinking it too soon and not appreciating its full potential? Then
+this utility is for you!
+
+Use it from the Dock: just right-click or command-click on the teacup
+icon and select the beverage you are brewing. You'll see a teabag appear
+in the cup and gradually darken as the tea steeps. When the tea is done
+the teacup will optionally bounce, make a sound, show an alert box,
+and/or send a Growl notification. You can also enable a countdown timer
+that's displayed in the dock icon.
+
+ License : Freeware
+ Author/Publisher : Nathan Cosgray
+ Modification Date : September 16, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 444 Kb
+
+ Home Page 
+
+ Days Left 1.0.2 
+
+So what does it do? Simple. It sits in your dock, telling you how many
+days are left to a certain due date. That due date can be set in its
+preference window. Thanks to Stephane Sudre's WBCalendarControl you can
+enter it nicely.
+
+ License : Freeware
+ Author/Publisher : Dominik Wagner
+ Modification Date : March 15, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 127 Kb
+
+ Home Page 
+
+ DockTimer 2.0.1 
+
+DockTimer is a simple egg timer programm. It reminds you about your Tea, Pizza or "just after five minutes".
+
+ License : Freeware
+ Author/Publisher : Jan Hegewald
+ Modification Date : November 7, 2005
+ Requirements : Mac OS X 10.2.6 or higher
+
+ Download 
+File Size: 596 Kb
+
+ Home Page 
+
+ EggTimer 3.1.5 
+
+EggTimer is an addictive fast paced reminder tool, to help you on your daily journeys.
+It can remind you when to take a periodic break, or when to drop off your kids at school.
+
+ License : Freeware
+ Author/Publisher : Esteban Uribe
+ Modification Date : June 11, 2003
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 196 Kb
+
+ Home Page 
+
+ Event Reminder 2.8.2 
+
+Event Reminder is a Macintosh OS X application that will remind you of
+important events such as birthdays and anniversaries in an easy to view
+table. You can use events from a text file, Apple's Address Book or iCal
+applications, and even Palm Desktop. To Do items from iCal, Palm
+Desktop, or a text file can also be included. Event Reminder can
+calculate ages and will countdown days to an event. The application can
+display all holidays for any year you choose and it includes both a
+yearly and a monthly perpetual calendar. Event Reminder is extremely
+customizable.
+
+ License : Freeware
+ Author/Publisher : David Hanauer
+ Modification Date : May 15, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 2.7 MB
+
+ Home Page 
+
+ Final Countdown 1.7 
+
+Final Countdown is a cocoa application that gives you the possibility to
+start as many timers as you like. A timer can be a standard countdown
+for a user-defined number of days-hours-minutes-seconds or a countdown
+to a user-defined date (day-month-year and hour-minutes-seconds). When
+the timer fires, you can choose to be notified by a beep or an alert
+sheet, to launch an app or a script or to shut down your computer.
+
+ License : Freeware
+ Author/Publisher : Marco Coisson
+ Modification Date : May 2, 2003
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 1.0 MB
+
+ Home Page 
+
+ FM Egg Timer 1.2 
+
+The FM Egg Timer is a Control Strip module designed to help you keep track of
+time while you're working at your computer. Set the timer to remind you that
+your laundry will be done in 45 minutes. Use it to give yourself a coffee break
+in half an hour. Set it because you just put a pot of water on the stove and if
+you forget about it all the water will boil away and leave that nasty white stuff
+on the bottom of your pot.
+
+ License : Freeware
+ Author/Publisher : Dave Nault
+ Modification Date : October 20, 1998
+ Requirements : 680x0 or PPC
+
+ Download 
+File Size: 86 Kb 
+
+ Home Page 
+
+ Fob 1.0.4 
+
+Fob is a free dock-based kitchen timer for Mac OS X by Leaky Puppy
+Software. It allows a user to specify possibly multiple timers to count
+down for a specified interval. When an alarm runs out of time, Fob will
+make itself conspicuous.
+
+ License : Freeware
+ Author/Publisher : Leaky Puppy Software
+ Modification Date : October 21, 2004
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 304 MB
+
+ Home Page 
+
+ FuzzyClock 1.2.11 
+
+Often you don't need the exact time in hours, minutes and seconds. A
+more human readable style like "five past ten" makes more sense. For
+that, you can now use FuzzyClock. FuzzyClock is a menubar clock which
+displays the current time in a "fuzzy" style.
+
+ License : Freeware
+ Author/Publisher : Guido Neitzer
+ Modification Date : November 25, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 198 Kb
+
+ Home Page 
+
+ GeburtstagsChecker 1.5.3 
+
+'Geburtstag' is German for 'Birthday' which makes GeburtstagsChecker an
+application that checks for upcoming birthdays and reminds you of them
+to avoid potential embarrassment if your memory is rather weak. In doing
+this, GeburtstagsChecker aims to be both customisable and easy to use.
+It allows you to import birthday information and the display of upcoming
+birthdays is highly customisable, allowing you to decide which of the
+information (e.g. birthdate, age, days until birthday etc.) you want to
+see and how it should be displayed. GeburtstagsChecker was designed to
+interfere as little as possible with the daily use of your Macintosh.
+After you've taken notice of the information GeburtstagsChecker's window
+can be dismissed with just one click of your mouse. The program can be
+made quit automatically after this but it is equally suitable to run
+permanently in the background and catch your attention whenever new
+birthdays approach. But GeburtstagsChecker is more than just a birthday
+reminder: Of course, it can be used for other annual events such as
+anniversaries, public holidays etc. as well.
+
+ License : Freeware
+ Author/Publisher : Earthlingsoft
+ Modification Date : March 26, 2003
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 232 Kb
+
+ Download 
+File Size: 558 Kb
+
+ Home Page 
+
+ HourWorld 3.2.7 
+
+The HourWorld interactive world clock is a Macintosh product for timing
+international phone calls, finding sun and moon information, lighting,
+shadows, and much more. Attractive and functional, PSE products provide
+a wealth of information in well-integrated, interactive graphical
+presentations. See the time and lighting conditions anywhere in the
+world at a glance. A planner for photography "shoots". Look up almanac
+information about past, present, or future. Explore a variety of
+locations and dates with simple mouse clicks, and use your printer to
+create almanac pages for any month and location. There is even a sundial
+feature to investigate solar lighting at any worldwide location.
+
+ License : Shareware, $35
+ Author/Publisher : Leighton L. Paul
+ Modification Date : January 17, 2007
+ Requirements : Mac OS 10.2 or higher and Mac OS 9.2 or higher
+
+ Download 
+File Size: 2.9 MB
+
+ Home Page 
+
+ How Much Longer? 1.14 
+
+The main purpose of this little program is to show "how much longer to
+wait" for something. It uses a start date/time, end date/time and the
+current system date/time to generate the number of years, months, weeks,
+days until the end date is reached. The start date/time is used to
+generate a percentage of the elapsed time.
+
+ License : Freeware
+ Author/Publisher : Nico Wald/SubtleSoft
+ Modification Date : July 4, 2002
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 201 Kb
+
+ Home Page 
+
+ iAlarm 2.01 
+
+iAlarm harnesses the power of your Mac to wake you you up with your
+iTunes music, local weather, news podcasts, custom messages and even an
+old style beep.
+
+The new interface is simple to use, and advanced users can even create
+their own custom AppleScripts to be executed by iAlarm. Additionally,
+iAlarm can wake your mac from sleep to sound your alerts in the morning.
+
+ License : Shareware, $6
+ Author/Publisher : Sam Gharabally
+ Modification Date : December 22, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 505 Kb
+
+ Home Page 
+
+ iBeatTime 2.2 
+
+iBeatTime is a clock that uses Swatch Beats. This way of representing
+time eliminates the use of timezones making it the same all over the
+world. In other words, all countries of the world will have the same
+beats. In addition, iBeatTime features a list you can use to add your
+favorite places and see what time it is over there, it also has a
+converter which can convert any local time to beats or vice versa, and
+you can add see information like the abbreviated name of the timezone
+you're currently in, the GMT offset, local time and UTC time.
+
+ License : Freeware
+ Author/Publisher : e dot studios
+ Modification Date : December 4, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 115 Kb
+
+ Home Page 
+
+ iBeatTime Widget 1.2 
+
+iBeatTime widget is a simple widget that show the current time as Swatch
+beats. You can also convert any time to beats or vice versa.
+
+ License : Freeware
+ Author/Publisher : e dot studios
+ Modification Date : December 14, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 82 Kb
+
+ Home Page 
+
+ iClock 3.0.5 
+
+Transcend the Time and Date menubar clock. iClock is an evolving
+application that replaces the menu clock with one that is much more
+powerful and customizable. iClock is a kind of centrally located time
+hub from which many time related functions can be controlled.
+ * Gives you a birds eye view of different time zones. 
+ * Customize the Time and Date display in the menubar in hundreds of ways.
+ * Change the colors separately of the Time and Date display in the menubar.
+ * Choose the font to display the Time and Date in the menubar. 
+ * Gives you a time zone calculator that finds the best time to connect up the people in as many time zones as you want. 
+ * Gives an easily accessible, at a glance system menu view of times/dates in as many parts of the world as you want. 
+ * Add the people/companies you work with directly from the address book.
+ * Gives the dial codes for countries around the world.
+ * 12 or 24 hour time.
+ * Custom alarms that are so easily accessible you will use them.
+ * Use the calendar to show birthdays from Apple's Address Book and links to iCalendar.
+ * The calendar can float on top or below other windows and its transparency can be set.
+ And more ...
+
+ License : Shareware, $20
+ Author/Publisher : Script Software
+ Modification Date : August 8, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 7.6 MB
+
+ Home Page 
+
+ iMOnTime 3.0.2 
+
+iMOnTime is designed to make it very easy for you to schedule and receive reminders. With iMOnTime, you can
+ - Set one-time or repeating reminders with complex repeating options
+ - Send emails as reminders
+ - Classify reminders into categories
+ - Create and use templates for scheduling reminders quickly
+ - Have reminders read the message when they are displayed
+ - Schedule launching of applications or AppleScript scripts
+ - Get reminders as Growl notifications
+ - Look up title or message of deleted reminders at a later date
+
+ License : Shareware, $18
+ Author/Publisher : Expersis Software
+ Modification Date : December 18, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.2 MB
+
+ Home Page 
+
+ Internet Time Dockling 1.1 
+
+This is yet again another "Internet Time" beat clock which can be
+displayed continually on the user's desktop. This incarnation lives in
+the Mac OS X Dock. The Internet Time algorithm uses a Cocoa NSTimeZone
+object instead of an arithmetic calculation using seconds since the
+epoch.
+
+ License : Freeware
+ Author/Publisher : Informagen
+ Modification Date : September 13, 2001
+ Requirements : Mac OS X
+
+ Download 
+File Size: 94 Kb
+
+ Home Page 
+
+ iRooster 2.4.3 
+
+iRooster, a Mac OS X-only, Cocoa-based application, allows you to quickly and easily create alarms to wake you up in the morning. Create a special playlist in iTunes for waking up, or use any of the pre-existing iTunes playlists: iRooster will play back your Library, smart playlists, and normal playlists too.
+
+ License : Shareware (14 day trial), $10
+ Author/Publisher : Aaron Brethorst
+ Modification Date : March 30, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 2.4 MB
+
+ Home Page 
+
+ iTaf 2.2.2 
+
+iTaf belongs to the next generation of alarm clock. iTaf allows you to
+schedule the opening or closing of iTunes. iTaf includes a powerful
+weekly agenda to organize your own sets of iTune's play times for the
+week.
+
+ License : Freeware
+ Author/Publisher : Sebastien Zwickert
+ Modification Date : December 16, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.4 MB
+
+ Home Page 
+
+ iTime 1.0.3 
+
+iTime is a free Macintosh system extension that places a metric/internet time clock in your menu bar. 
+With metric time, or internet time, each day is divided into 1,000 beats rather than into hours, minutes, and seconds.
+
+ License : Freeware
+ Author/Publisher : Pedagoguery Software
+ Modification Date : March 3, 2000
+ Requirements : 680x0 or PPC
+
+ Download 
+File Size: 49 Kb
+
+ Home Page 
+
+ itQuartz 1.0b2 
+
+itQuartz is a utility displaying the current Internet Time in the Dock for Mac OS X.
+
+Displaying information contains current Internet Time, date in Internet Time and usual formatted time.
+
+ License : Freeware
+ Author/Publisher : Pigmon
+ Modification Date : October 13, 2002
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 159 Kb
+
+ Home Page 
+
+ Minuteur 4.7.2 
+
+You can also enter a specific time for the alarm to sound, as opposed to
+a delay time. If, for example you have to leave at 13h45 for an
+appointment: type "1345" on the numeric keypad while pressing Option. On
+a laptop, hold the keys Fn Opt, and type the desired time on the virtual
+numerical keypad (not the keyboard numerals). Minuteur calculates the
+remaining time. The hour can be entered as 3 or 4 digits. The time
+cannot exceed 12 hours.
+ You may enter a time beyond midnight. If the Mac goes to sleep during a
+countdown, the countdown will not be stopped, but nor will the Mac be
+woken if it is still asleep at alarm time.
+
+ Stopwatch mode
+ Minuteur can also be used in stopwatch mode. To start the
+count, click the blue button or press Option+Return/Enter. The program
+then emits a sound each minute if the option "Sound effects" is checked.
+It is also possible to adjust the time in stopwatch mode by dragging the
+rule. To stop, click on the red button or press Enter, Return or Esc.
+Timing is limited to 12 hours. To change between timer mode and
+stopwatch mode you must first stop.
+
+ License : Freeware
+ Author/Publisher : Philippe Galmel
+ Modification Date : October 10, 2006
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 7.1 MB
+
+ Home Page 
+
+ NetChronometer 1.4.8 
+
+NetChronometer will log into NTP servers over the Internet and accurately adjust your Mac clock to the
+correct date and time.
+
+ License : Shareware, $7
+ Author/Publisher : Jeremy Kezer
+ Modification Date : August 25, 2001
+ Requirements : 680x0 or PPC
+
+ Download 
+File Size: 643 Kb
+
+ Home Page 
+
+ ODLog 2.6 
+
+ODLog is an easy-to-use application for the accurate timing and
+recording of observational data. ODLog is typically used by scientists
+in:
+ naturalistic field observation studies
+ animal behavioral experiments
+ human psychological experiments
+
+ License : Demo, $159
+ Author/Publisher : Macropod Software
+ Modification Date : May 15, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 3.9 MB
+
+ Home Page 
+
+ Pester 1.1b7 
+
+Pester is a simple alarm clock and timer for Mac OS X. Use it to remind
+you to catch the bus or attend an upcoming meeting. It is modeled after
+xalarm in functionality - though not in interface design.
+
+ License : Freeware
+ Author/Publisher : Nicholas Riley
+ Modification Date : November 28, 2002
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 739 Kb
+
+ Home Page 
+
+ PongSaver 1.1 
+
+When the game begins, the score is set to the current time. The left
+side's score is the current hour (in 24-hour time), and the right side's
+score is the current minute. Then, the right side scores about once a
+minute to keep up with the real clock. When it gets to 59, the next
+score makes it wrap around to 00, and the left side will score shortly
+afterwards to bring the hour forward. At midnight, left's score wraps
+around to 00.
+
+ License : Freeware
+ Author/Publisher : Michael Ash
+ Modification Date : July 12, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 106 Kb
+
+ Home Page 
+
+ PowerController 2.1.3 
+
+PowerController is easily the best iTunes alarm clock for Mac OS X!
+Alarms can wake your computer from sleep, play any playlist in iTunes,
+and gradually increase the song volume. PowerController runs in the
+background and is configurable through System Preferences, so you won't
+have another app hogging dock space.
+
+ License : Shareware (30 day trial), $10
+ Author/Publisher : Keaka Jackson
+ Modification Date : November 5, 2007
+ Requirements : Mac OS X version 10.4 or higher
+
+ Download 
+File Size: 662 Kb
+
+ Home Page 
+
+ Simple World Clock 1.0 
+
+A simple OS X widget to display the time in various world cities.
+
+ License : Freeware
+ Author/Publisher : Mike Bremford
+ Modification Date : August 11, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 19 Kb
+
+ Home Page 
+
+ Stopwatch CSM 2.1 
+
+Stopwatch CSM is a stopwatch for the Control Strip. With Stopwatch CSM you can:
+ measure up to a duration of 1000 hours; 
+ freeze the displayed time and resume displaying the elapsed time (split); 
+ apply different time formats; 
+ automatically start the stopwatch when you startup your computer. 
+
+ License : Shareware, $8
+ Author/Publisher : MaBaSoft
+ Modification Date : June 24, 2003
+ Requirements : System 7.5 to Mac OS 9.2.2
+
+ Download 
+File Size: 184 Kb
+
+ Home Page 
+
+ Tea Timer 1.4 
+
+Tea Timer is a countdown program which helps you remembering when your
+tea is ready. The Countdown can be displayed in the dock(!) It is really
+rather minimal but if you brew tea regularly you might find this program
+helpful.
+
+ License : Freeware
+ Author/Publisher : Herwig Henseler
+ Modification Date : January 16, 2002
+ Requirements : Mac OS X
+
+ Download 
+File Size: 278 Kb
+
+ Home Page 
+
+ TimeCounter 1.0.1 
+
+TimeCounter is a countdown, reminder and alarm clock. With it you can
+see the number of days left before the New Year, or how much months has
+passed since your birth date. TimeCounter uses skins to show digits and
+text. It's fun, attractive and easy to use.
+ Registering will allow you to create more than two counters
+simultaneously and if you have any problems with the program, we will
+help you solve them in the first place.
+
+ License : Freeware Lite version, Standard version $15
+ Author/Publisher : A!K Research Labs
+ Modification Date : September 9, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 734 Kb
+
+ Home Page 
+
+ Time Palette 5.7.8 
+
+Time Palette displays the current local time for any city, renders
+real-time, photorealistic maps of the world with correct sun and moon
+shading, and calculates a wealth of global time, geographic,
+astronomical and weather data.
+
+ License : Shareware, $30
+ Author/Publisher : Trygve Inda
+ Modification Date : February 27, 2007
+ Requirements : Mac OS X 10.1 or higher and Mac OS 9.1 or higher
+
+ Download 
+File Size: 4.2 MB
+
+ Download 
+File Size: 3.9 MB
+
+ Home Page 
+
+ TinyAlarm 1.2 
+
+TinyAlarm is, as the name suggests, a tiny alarm clock for your menubar.
+It will play your chosen alert at some time in the near future. All of
+the configuration is done using the status menu item. Clicking around
+should reveal all there is to know about TinyAlarm.
+
+ License : Freeware
+ Author/Publisher : Pixelated Software
+ Modification Date : December 1, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 627 Kb
+
+ Home Page 
+
+ TTimer 1.1 
+
+With TTimer you have chosen the most advanced technological solution for
+Advanced Tea Timing (ATT), which addresses the needs of everyone
+involved in the complicated business of Precision Tea Making.
+
+Based on carefully chosen industrial-strength development frameworks,
+TTimer ensures full interoperability with current and future usage
+scenarios.
+
+ License : Freeware
+ Author/Publisher : Carsten Muller
+ Modification Date : June 20, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.8 MB
+
+ Home Page 
+
+ Until 1.0 
+
+Life is a countdown. To your birthday, to business deadlines, to your
+vacation. Why not treasure every second of that maddening wait that is
+life? Now, you can be depressed with style.
+
+Until is a simple countdown app, but it features a customizable
+interface, a coundown in the dock icon, and all kinds of things that
+don't cost you any money.
+
+ License : Freeware
+ Author/Publisher : Mindquirk Software
+ Modification Date : April 2, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 87 Kb
+
+ Home Page 
+
+ Vremya 2.0 
+
+Vremya is an application that sets your Macintosh clock using version 1 of the 
+Network Time Protocol as described in RFC 1059 by D. Mills. This is a simple implementation 
+of NTP, but the accuracy is sufficient for the Macintosh clock.
+
+ License : Freeware
+ Author/Publisher : Kirill Levchenko
+ Modification Date : June 29, 1998
+ Requirements : 680x0 or PPC
+
+ Download 
+File Size: 51 Kb
+
+ Home Page 
+
+ Watch It 1.3 
+
+Watch It, put simply, is a stopwatch and timer for Mac OS X.
+
+ License : Shareware, $8
+ Author/Publisher : Cold Pizza Software
+ Modification Date : September 14, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 566 Kb 
+
+ Home Page 
+
+ WebTime 1.4 
+
+This app will allow you to see the new "Swatch" time.
+
+ License : Freeware
+ Author/Publisher : Eric Peyton
+ Modification Date : March 25, 2001
+ Requirements : Mac OS X 
+
+ Download 
+File Size: 22 Kb
+
+ Home Page 
+
+ WorldClock CSM 1.7 
+
+This Control Strip Mod lets you quickly see the current time of a list of cities world wide. It can be
+easily modified so you can add up to 29 cities of your choosing.
+
+ License : Freeware
+ Author/Publisher : Makoto Seki
+ Modification Date : January 1, 1999
+ Requirements : 680x0 or PPC
+
+ Download 
+File Size: 196 Kb
+
+ WorldClock Deluxe 4.4.8 
+
+With World Clock Deluxe you can:
+ display up to 24 clocks in the Control Strip;
+ show seconds, weekday, date, local time offset and assign labels and colors to clocks;
+ display Coordinated Universal Time (UTC), Internet Time and time zones;
+ keep clocks arranged by city or time zone abbreviation, longitude and label;
+ rotate clocks to minimize the module's width in the Control Strip;
+ edit cities and time zones and add custom cities and time zones;
+ calculate date and time conversions.
+
+ License : Shareware, $16
+ Author/Publisher : Marco Damaschi and Barbara Canino
+ Modification Date : October 8, 2007
+ Requirements : Mac OS 10.2 or higher
+
+ Download 
+File Size: 1.8
+
+ Home Page 
+
+ WorldTimes 1.1 
+
+WorldTimes is a clear and compact world clock that displays up to 12
+different time zones from a database of more than 420 worldwide
+locations. With a small, understated display, WorldTimes takes up little
+screen space but always lets you see the time in the places you care
+about most. Need to know the time in London, Hong Kong and New York?
+WorldTimes has you covered with space left over for both Tahiti and
+Belize.
+
+ License : Freeware
+ Author/Publisher : Artisan Codeworks
+ Modification Date : January 17, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 222 Kb
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

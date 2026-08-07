@@ -1,0 +1,97 @@
+---
+title: "SMALL Articles"
+source_domain: amasci.com
+source_path: ~smallnet/JoeArticles/LaminatedBalsa.html
+order: 8150
+reachable_from_entry: false
+images: 1
+internal_links: 1
+extracted: 2026-08-07T06:00:41Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALL Articles
+
+*Source page: `~smallnet/JoeArticles/LaminatedBalsa.html`*
+
+SMALL Articles
+
+<img src="../SMALLnetLogoBtrans.gif" data-align="center" alt="SMALLnet LOGO" />
+
+**SMALL Articles by Joe Wagner**
+
+------------------------------------------------------------------------
+
+## LAMINATED-BALSA SURFACE OUTLINES FOR SCALE MODELS
+
+### by Joe Wagner
+
+Lightness combined with strength and resiliency should be THE goal in all model airplane construction -- and especially for flying scale types. That's not so hard to accomplish as it may seem. Several years ago I designed an all-balsa model bridge that my youngest daughter built & used to win a "bridge-busting" event at a school Science Fair.
+
+The bridge weighed under 2.7 ounces -- and held 576 POUNDS before failing. It was all-balsa; glued with cyanoacrylate; and had no reinforcements of kevlar, fiberglass, carbon fiber or anything else. That shows what lightweight all-balsa construction can be capable of -- if you know how to use it to best advantage.
+
+One way to gain great strength with light balsa structure is by lamination -- in particular, laminated curved outlines. Wingtips and rudder outlines are the usual applications for this. But with a little imagination you can find other places in model airplanes where laminated balsa will provide strength, flexibility, and lightness that can't be attained in any other way.
+
+Laminated outlines are far from new. They've been employed on snowshoes and wooden tennis racquets for centuries. Model airplane designers have been featuring them for years on such types as Peanut Scale rubber models and the flying surfaces of Andy Clancy's many "Lazy Bees" and their variants.
+
+The trouble is, the recommended methods of forming laminated balsa outlines have never worked well for me. Those methods are messy and imprecise. I found it hard to achieve void-free laminations with them. Some of my laminated parts looked OK when I removed them from their soggy & deformed "molds". But when it came time to shape and sand them to their final contour, gaps in the glue line often showed their ugly presence. (It's not so much that the cracks look bad; it's that they're evidence of a weak area that should have been as strong as the rest of the laminated outline.)
+
+I won't waste time and space describing the lamination methods that I've found faulty. Instead, here's a procedure that WORKS.
+
+First, you need a sturdy forming mold. Cardboard won't do. I use pine lumber salvaged from carpentry projects; a friend of mine makes his molds from "blue foam" insulation board. Whatever material you choose should be at least three times as thick as the part you want to make, firm enough to hold pins, and FLAT.
+
+Now to shape the mold outline. Look at your full-size plan; and remember that it's NOT necessary to limit your lamination to a constant width. By that I mean the wing outline for a Spitfire could be 3/8" wide along the straight leading edge portion, widening to perhaps 3/4" at the very tip; then widening even more as the curve moves around to the trailing edge.
+
+When you've decided on its shape, draw a pattern for the INSIDE curvature you want for your lamination. Transfer the outline to your mold blank (it's OK to assemble that from narrow pieces for something like a large chord wing), then saw the mold accurately to shape.
+
+If you don't have a bandsaw, an alternative is to take your project to the woodworking shop at your local high school and explain to the instructor what you want to accomplish. Chances are he'll allow one of his better students to cut and sand the mold to shape for you. In fact, if you ask in the right way, you may be able to get the school shop to do the whole job for you, including supplying the material.
+
+Wrap the finished mold's edge area smoothly with Saran or Monokote backing material. Hold that in place with tape.
+
+Now let's figure what you'll need in the way of balsa for the laminations. Its thickness depends on the radius of curvature. The smaller that is, the thinner the balsa you need. As a rule of thumb, water-saturated 1/32" balsa will go around as small as a 3/8" radius -- with careful handling. 1/16" balsa will bend around a 3/4" radius, and so on. Check your pattern for its tightest curvature; and make your lamination thickness about one sixth of the minimum pattern radius.
+
+Actually, the job's not that scientific. Once you've made a couple of parts, you can tell "by eyeball" what thickness laminations to use. And, because the inner radius gets bigger with each lamination you add to the mold, you can begin with, say, 1/16" strips and finish with 3/32" for the outside strips.
+
+Now for strip width. For parts such as wingtips, where you need two identical laminations, cut your balsa strips three times as wide as the maximum height you need the finished lamination to meet. Looking at that Spitfire wing again: the height of the lamination at the leading edge is probably the maximum needed. (The tips and T.E. will be less.) Say that the max. L.E. height is 3/8"; then the lamination strip width you require is 1 1/8". (Make that 1 1/4" just in case.)
+
+For parts you need just ONE of, such as a rudder or a bulkhead, make the laminating strips at least 1/8" wider than the finished part's thickness. (A little more is better yet.)
+
+To figure the length of the strips, just wrap a ribbon or the like around your mold; measure how long that is; then add an inch or so. (This method is a bit wasteful of material; but the savings in time and the gain in strength justify that waste to me.)
+
+Find how many strips you need by dividing the maximum planview width of the laminated outline by the strip thickness. Back again to the Spitfire wing: say that earlier we decided to make the trailing edge of the laminated outline a full inch wide. We're going to be laminating with 3/32" balsa; dividing one inch by 3/32" comes out slightly under 11. Add one "for good measure": you need a dozen strips.
+
+Cut these from sheet balsa somehow; you know your preferred method better than I do. Now put them all into a watertight container. A bathtub is fine; it might be more convenient to use a length of plastic sewer pipe capped on one end. Even a plastic bag will work if you have nothing better available. Fill the container with enough plain water to submerge the balsa strips. DON'T add ammonia or detergent to the water; those may badly weaken the glue bond. Plain tap water is best -- but it takes HOURS for that to fully saturate balsa.
+
+Balsa SEEMS to soak up water fast. In fact, what happens is that the surface cells get saturated; those then expand and produce an almost watertight barrier skin within the wood that slows moisture from penetrating more deeply. (That's what makes balsa rafts and life preservers stay afloat. Truly SATURATED balsa hardly floats at all, as the Kon-Tiki voyagers discovered the hard way...)
+
+I allow 24 hours soaking per 1/16" of balsa thickness. Hot water penetrates somewhat faster; but personally I use room-temperature water and schedule my model building tasks to allow plenty of soaking time for the lamination strips.
+
+Now to do the work! There are two excellent adhesives for balsa lamination. One is Sig's "Sig-Weld" white glue; the other is Great Planes "Pro Wood Glue" (an "aliphatic resin" type that's not so brittle as other "yellow glue" brands).
+
+Remove the sopping wet balsa strips from their container. Squeegee the surface water off one strip by pulling it between two fingers; then pin one end firmly to the mold about half an inch short of the "start point" on your plastic-covered mold edge.
+
+Bend the strip around the forming mold, keeping it in tension as you go. (Pressing the wood down to force it against a tight radius MAY cause a fracture; but bending while pulling on the free end avoids that problem.) Pin the other end to the mold after the bend is complete.
+
+Now brush a wet coat of full-strength glue on the outside surface of the balsa strip on the mold. The moisture in the wood will "thin" the glue somewhat and ease the brushing task. Try for a uniform coat: not opaque -- that's too thick an application; yet not transparent either (that's too thin).
+
+As soon as the glue coat's complete, squeegee the surface water off another balsa strip. Unpin the "starting" end of the first strip; press the second strip firmly down over the glue, and re- pin. Now pull the second strip around the outline. Glue should ooze out all around; that's just what you want. It proves ample glue is between the laminations, and it also gives a good start for brush-gluing the next wet balsa strip.
+
+Repeat this procedure until you have all the strips in place. For some curved shapes it may be necessary to clamp the strips against the outline at various places around the perimeter.
+
+That can be done in various ways. One that works for me is to use short lengths of plastic cut from a bleach jug, the same width as the laminations -- and drill holes through the interior of the mold for 1/4" dowels. Then to clamp each lamination in place as it's applied, I put a piece of the "jug plastic" on top of the wet wood strip, and run a rubber band around it onto a dowel sticking through the mold. Done this way there's little interference with the strip-by-strip lamination procedure.
+
+By the time the last strip is in place, there's wet glue all over everything. No problem! That's what the extra material is for. Let the glue dry. 24 hours is my minimum curing time; and if I can let the lamination set three days before disturbing it, I KNOW I won't get any unpleasant surprises when I slip it off its mold.
+
+Now for the final stages. Remove the pins (and any clamps) from your laminated outline and free it from its mold. Discard all the tape and glue-encrusted plastic film. Next slide the lamination back in place on the mold and pin it a few places. With a coarse sanding block, true up the edges of the lamination, removing unevennesses and glue blobs until you've got clean, smooth, level edge surfaces all around.
+
+Sand (or plane if much material needs removing) the outer perimeter of the lamination almost to its final contour. Again you'll be removing excess glue and surface flaws in the wood from clamping. Again, that's what the extra material was provided for. And finally, for "matched pairs" of laminated outlines, use a balsa stripper to split the single "triple thickness" lamination into two matched halves close to the required final dimension.
+
+Now the lamination's ready to become part of your airplane. If possible, instead of joining your laminated outline to parts (such as straight leading and trailing edges) with a butt joint, take the time to make long, tapered "scarf" joints instead. Those will transfer stresses (such as impact loads) gradually from one structural member to the other, rather than abruptly, the way butt joints do.
+
+The whole secret of maximizing strength with minimum weight in model structures lies in avoiding stress concentrations, and permitting the forces generated by flight loads (and the inevitable ground contacts) to spread throughout an area, rather than localizing. That was the secret of my daughter's "unbreakable balsa bridge". (Parts of that were made from SOFT balsa, in order to better distribute the stress loads.)
+
+Laminated balsa parts are one of the very best ways of achieving great strength and damage resistance at minimum weight. They take advantage of their "grain running around the perimeter" characteristics to provide strength through RESILIENCY rather than cumbersome, heavy, and stress-concentrating "reinforcements".
+
+Remember: lightweight models can fly both faster and slower than heavy ones -- and they don't impact nearly as hard.
+
+**Back to [Article Selection](../WagnerWriting.html) page.**

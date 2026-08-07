@@ -1,0 +1,77 @@
+Useful (?) Web References 
+
+ C Programming 
+
+Here is a collection of
+ Usenet FAQ lists ,
+nicely archived and HTMLized by
+ Kent Landfield .
+
+If not quite all the world's knowledge,
+at least much of the world's interesting knowledge
+can be found at Everything .
+
+ Roman Czyborra 's
+ very nice set of pages about
+ character sets .
+
+Here is information (mostly technical) about
+ the Web 
+itself.
+
+Here is the infamous 
+ Jargon File .
+
+Other dictionaries:
+
+Merriam-Webster's
+" WWWebster Dictionary "
+
+ Biology 
+(Harvard University)
+
+Some references about
+ data file formats 
+
+Phylogeny -- the
+ ``Tree of Life'' 
+at Arizona University
+
+the
+ Internet Movie Database 
+(or
+ uk.imdb.com 
+in the UK)
+
+A CD Database,
+ cddb.com 
+
+Nancy McGough's
+ FAQ book page ,
+including ``launchers''
+
+ U.S. Geological Survey 
+(including
+ EROS Data Center ,
+USGS map data online!)
+
+ U.S. Naval Observatory Directorate of Time
+
+ Project Gutenberg 
+
+various versions of
+ the Bible 
+(the holy one)
+
+Internet RFC collections:
+ IETF RFC Editor 
+ Kent Landfield / faqs.org 
+
+the
+ Calendar Act of 1751 
+(England's adoption of the Gregorian calendar)
+
+ Transit and Transportation info 
+(mostly Seattle area)
+
+ cryptography, authentication, privacy, and anonymity links

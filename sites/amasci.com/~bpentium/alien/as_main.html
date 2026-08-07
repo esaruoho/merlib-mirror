@@ -1,0 +1,275 @@
+<!DOCTYPE HTML PUBLIC "-//SoftQuad//DTD draft HTML 3.2 + extensions for HoTMetaL PRO 3.0 19960923//EN">
+ 
+<HTML>
+ 
+<HEAD>
+<TITLE>Alien Skin Promotional Site</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#000000" TEXT="#00FF00" LINK="#80FFFF" VLINK="#FF0000"
+ ALINK="#0000FF">
+<CENTER>
+<TABLE BORDER="5" CELLPADDING="5" CELLSPACING="0">
+<TR ALIGN="CENTER" VALIGN="MIDDLE">
+<TD COLSPAN="2"><B><FONT SIZE="+2">Alien Skin Promotional Site</FONT></B></TD>
+</TR>
+<TR ALIGN="CENTER" VALIGN="MIDDLE">
+<TD><IMG SRC="atitle.jpg" ALT="[ Alien Skin Promotional Site Logo ]"
+WIDTH="372" HEIGHT="242"></TD>
+<TD> <H3>Adobe Photoshop Plug-in Filters </H3>
+<BR>
+<IMG SRC="animate.gif" ALT="{short description of image}" WIDTH="215"
+ HEIGHT="131" BORDER="0"> </TD>
+</TR>
+</TABLE>
+<BR>
+<IMG SRC="elegent.gif" WIDTH="575" HEIGHT="10"> <BR>
+</CENTER>
+<BR>
+<CENTER>
+<TABLE BORDER="0" WIDTH="98%" CELLSPACING="5">
+<TR>
+<TD VALIGN="MIDDLE" ALIGN="CENTER" BGCOLOR="#0000FF"><B>LINKS</B></TD>
+<TD VALIGN="TOP" ALIGN="CENTER" BGCOLOR="#0000FF"><B>LATEST NEWS</B></TD>
+</TR>
+<TR>
+<TD VALIGN="TOP" ALIGN="CENTER"> <TABLE BORDER="1">
+<TR>
+<TD> 
+<APPLET ARCHIVE="umslider.zip" CODE="umslider.class" NAME="umslider"
+ WIDTH="216" HEIGHT="340" HSPACE="0" VSPACE="0">
+<PARAM NAME="global"
+ VALUE="3|2|3|1|Loading...|000000|1|0|0|1|0|194|0|c0c0c0|13|2|6|167784515">
+
+<PARAM NAME="image1" VALUE="as_menu.jpg">
+
+<PARAM NAME="image2" VALUE="blueball.gif">
+
+<PARAM NAME="image3" VALUE="as_menu_2.jpg">
+
+<PARAM NAME="audio1" VALUE="hotclick.au">
+
+<PARAM NAME="level0"
+ VALUE="1|0|7878ff|20|6|29|Courier|19|1|c0c0c0|989898|0|0|c0c0c0|e5ff00|0|0|c0c0c0|000000|0|0|0|0|2">
+
+<PARAM NAME="level1"
+ VALUE="0|0|ff0000|44|0|25|Helvetica|15|3|c0c0c0|ffffff|0|0|c0c0c0|fff53c|0|0|c0c0c0|000000|0|0|0|0|0">
+
+<PARAM NAME="item-0" VALUE="2|EYE CANDY 4000||||0|0|0">
+
+<PARAM NAME="item-0-0"
+ VALUE="0|About Eye Candy|http://www.alienskin.com/ec4k/ec4000_main.html|_blank||3|3|0">
+
+<PARAM NAME="item-0-1"
+ VALUE="0|Filter Examples|http://www.alienskin.com/ec4k/ec4000_filters.html|_blank||3|3|0">
+
+<PARAM NAME="item-1" VALUE="2|XENOFEX||||0|0|0">
+
+<PARAM NAME="item-1-0"
+ VALUE="0|About XenoFex|http://www.alienskin.com/xenofex/xenofex_main.html|_blank||3|3|0">
+
+<PARAM NAME="item-1-1"
+ VALUE="0|Filter Examples|http://www.alienskin.com/xenofex/xenofex_filters.html|_blank||3|3|0">
+
+<PARAM NAME="item-2" VALUE="2|SPLAT!||||0|0|0">
+
+<PARAM NAME="item-2-0"
+ VALUE="0|About Splat!|http://www.alienskin.com/splat/splat_main.html|_blank||3|3|0">
+
+<PARAM NAME="item-2-1"
+ VALUE="0|Filter Examples|http://www.alienskin.com/splat/splat_filters.html|_blank||3|3|0">
+
+</APPLET>
+
+</TD>
+</TR>
+</TABLE>
+<BR>
+<BR>
+<TABLE CELLPADDING="2" CELLSPACING="0" BGCOLOR="#0000FF" BORDER="9">
+<TR>
+<TD><SCRIPT LANGUAGE="JavaScript1.2">
+
+//Drop-in slideshow II (hyperlinked)- By Dynamic Drive
+//For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+//This credit MUST stay intact for use
+
+var slideshow_width=100 //SET SLIDESHOW WIDTH (set to largest image's width if multiple dimensions exist)
+var slideshow_height=144 //SET SLIDESHOW HEIGHT (set to largest image's height if multiple dimensions exist)
+var pause=3000 //SET PAUSE BETWEEN SLIDE (2000=2 seconds)
+
+var dropimages=new Array()
+//SET IMAGE PATHS. Extend or contract array as needed
+dropimages[0]="photo1.jpg"
+dropimages[1]="photo2.jpg"
+dropimages[2]="photo3.jpg"
+
+var droplinks=new Array()
+//SET IMAGE URLs. Extend or contract array as needed
+droplinks[0]="http://www.alienskin.com/ec4k/ec4000_main.html"
+droplinks[1]="http://www.alienskin.com/splat/splat_main.html"
+droplinks[2]="http://www.alienskin.com/xenofex/xenofex_main.html"
+
+////NO need to edit beyond here/////////////
+
+var preloadedimages=new Array()
+for (p=0;p<dropimages.length;p++){
+preloadedimages[p]=new Image()
+preloadedimages[p].src=dropimages[p]
+}
+
+var ie4=document.all&&navigator.userAgent.indexOf("Opera")==-1
+var dom=document.getElementById&&navigator.userAgent.indexOf("Opera")==-1
+
+if (ie4||dom)
+document.write('<div style="position:relative;width:'+slideshow_width+';height:'+slideshow_height+';overflow:hidden"><div id="canvas0" style="position:absolute;width:'+slideshow_width+';height:'+slideshow_height+';top:-'+slideshow_height+'"></div><div id="canvas1" style="position:absolute;width:'+slideshow_width+';height:'+slideshow_height+';top:-'+slideshow_height+'"></div></div>')
+else
+document.write('<a href="javascript:rotatelink()"><img name="defaultslide" src="'+dropimages[0]+'" border=0></a>')
+
+var curpos=slideshow_height*(-1)
+var degree=10
+var curcanvas="canvas0"
+var curimageindex=0
+var nextimageindex=1
+
+
+function movepic(){
+if (curpos<0){
+curpos=Math.min(curpos+degree,0)
+tempobj.style.top=curpos
+}
+else{
+clearInterval(dropslide)
+nextcanvas=(curcanvas=="canvas0")? "canvas0" : "canvas1"
+tempobj=ie4? eval("document.all."+nextcanvas) : document.getElementById(nextcanvas)
+tempobj.innerHTML='<a href="'+droplinks[curimageindex]+'"><img src="'+dropimages[curimageindex]+'" border=0></a>'
+nextimageindex=(nextimageindex<dropimages.length-1)? nextimageindex+1 : 0
+setTimeout("rotateimage()",pause)
+}
+}
+
+function rotateimage(){
+if (ie4||dom){
+resetit(curcanvas)
+var crossobj=tempobj=ie4? eval("document.all."+curcanvas) : document.getElementById(curcanvas)
+crossobj.style.zIndex++
+var temp='setInterval("movepic()",50)'
+dropslide=eval(temp)
+curcanvas=(curcanvas=="canvas0")? "canvas1" : "canvas0"
+}
+else
+document.images.defaultslide.src=dropimages[curimageindex]
+linkindex=curimageindex
+curimageindex=(curimageindex<dropimages.length-1)? curimageindex+1 : 0
+}
+
+function rotatelink(){
+window.location=droplinks[linkindex]
+}
+
+function resetit(what){
+curpos=slideshow_height*(-1)
+var crossobj=ie4? eval("document.all."+what) : document.getElementById(what)
+crossobj.style.top=curpos}
+
+function startit(){
+var crossobj=ie4? eval("document.all."+curcanvas) : document.getElementById(curcanvas)
+crossobj.innerHTML='<a href="'+droplinks[curimageindex]+'"><img src="'+dropimages[curimageindex]+'" border=0></a>'
+rotateimage()
+}
+
+if (ie4||dom)
+window.onload=startit
+else
+setInterval("rotateimage()",pause)
+
+</SCRIPT>
+
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER"><BR>
+<TABLE WIDTH="85%" BORDER="0">
+<TR>
+<TD ALIGN="CENTER" BGCOLOR="#FFFFFF" WIDTH="569"><B><FONT SIZE="+2"
+COLOR="#FF0000">Splat!! March 2002</FONT></B><BR>
+</TD>
+</TR>
+<TR>
+<TD WIDTH="569"><FONT COLOR="#00FFFF">Splat! is a powerful, new filter set for
+Adobe Photoshop and other graphics programs. Easy to use and versatile, Splat!
+combines frames, textures, edges, borders, mosaics and more with the
+award-winning interface of Eye Candy 4000 in an all-new, affordable plug-in.
+Digital photographers, graphic designers, Web monkeys and digital artists can
+set their images apart using the stunning effects of Splat! </FONT></TD>
+</TR>
+</TABLE>
+<HR>
+<BR>
+<TABLE BORDER="0">
+<TR>
+<TD><IMG SRC="products.jpg" ALT="{short description of image}" WIDTH="528"
+HEIGHT="433" BORDER="0"></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<HR>
+<TABLE WIDTH="93%" BORDER="0">
+<TR>
+<TD WIDTH="888"><H3>The reason for this site: </H3>
+<P ALIGN="LEFT">This site is for <B>promoting</B> <FONT
+COLOR="#FF8040">&quot;Eye Candy&quot;</FONT> , <FONT
+COLOR="#FF8040">&quot;XenoFex&quot;</FONT> and <FONT
+COLOR="#FF8040">&quot;Splat!&quot;</FONT> by Alien Skin Software. All questions
+concerning upgrades/bugs/fixes/compatibility problems or any other technical
+questions should be directed to the Alien Skins authors. Contact information is
+located below. </P>
+<P ALIGN="LEFT">I've been using Adobe Photoshop since version 1.0 and have been
+on the Internet since 1995 before many of these companies like Alienskin were
+on the net. Back then there weren't many plugin filter makers around and I was
+excited to use their first product, The Black Box, set of filters. I wanted to
+help promote these new filters in hopes that they would continue to create such
+wonderful products. They have and I've been a beta tester for their products
+ever since. Keep up the good work guys!!!</P>
+</TD>
+</TR>
+<TR>
+<TD WIDTH="888"><CENTER>
+<H3>Contact <A HREF="mailto:alien-skinfo@alienskin.com">Alien Skin</A>
+Representatives </H3>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+<ADDRESS><B>Company Contact Info</B><BR>
+Toll-free in US: <FONT COLOR="#8080FF">888.921.SKIN (7546)</FONT> <BR>
+Non-US callers: 1.919.832.4124 <BR>
+Fax: 919.832.4065 Mail:<BR>
+1111 Haynes Street, Suite 113 Raleigh, NC 27604 </ADDRESS><P>Email:
+<A HREF="mailto:sales@alienskin.com">sales@alienskin.com</A></P>
+<CENTER>
+<H4>The address and phone information has been updated on March 25 2002 </H4>
+</CENTER>
+<CENTER>
+<TABLE BORDER="5" WIDTH="86%">
+<TR>
+<TD> <BLOCKQUOTE> <CENTER>
+<P><B>Note: &quot;The Alien&quot; character and any associated graphics above
+are copyrighted material, owned by Alien Skin Software and are reproduced on my
+site with express permission from the authors and owners of that copyright</B>.
+</P>
+</CENTER>
+</BLOCKQUOTE>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<H4>Visit my<A HREF="http://www.eskimo.com/~bpentium/" TARGET="_top"> home
+site</A> or <A HREF="mailto:bpentium@eskimo.com">Email me</A>. </H4>
+</BODY>
+</HTML>
+

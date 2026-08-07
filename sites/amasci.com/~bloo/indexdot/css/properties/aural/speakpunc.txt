@@ -1,0 +1,90 @@
+Speak-Punctuation - Cascading Style Sheets Properties 
+
+ speak-punctuation 
+ Support Key: 
+ CSS2 
+ Other Aural Properties 
+
+ volume 
+ stress 
+ richness 
+ azimuth 
+ elevation 
+ voice-family 
+ speak 
+ speak-numeral 
+ pitch 
+ pitch-range 
+ speech-rate 
+ play-during 
+ pause 
+ pause-before 
+ pause-after 
+ cue 
+ cue-before 
+ cue-after 
+
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ none 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Aural 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property specifies how punctuation characters are spoken.
+
+ Allowed Values 
+ inherit 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ code 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Punctuation is to be spoken literally. 
+
+ none 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Punctuation is not spoken, but is rendered naturally as pauses in the
+ rest of the content rendering. 
+
+ Example 
+ Ext/Doc: .telephone {
+ speak-punctuation: code;
+ speak-numeral: digits } 
+ In-Line:&#160; < p >The phone number is
+ < em STYLE =" speak-punctuation: code;
+ speak-numeral: 
+ digits">555-1212</ em ></ p > 
+
+ Notes 
+
+ Before its inclusion in CSS2, this property was first proposed in the W3C
+ Working Draft "Aural Cascading Style Sheets (ACSS)" (1/7/97,
+ http://www.w3.org/Style/css/Speech/NOTE-ACSS )
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

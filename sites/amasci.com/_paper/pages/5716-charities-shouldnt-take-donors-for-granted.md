@@ -1,0 +1,63 @@
+---
+title: "Charities Shouldn't Take Donors for Granted"
+source_domain: amasci.com
+source_path: ~pbarber/tess/misc/chron0006.html
+order: 5716
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:58:42Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Charities Shouldn't Take Donors for Granted
+
+*Source page: `~pbarber/tess/misc/chron0006.html`*
+
+### *The Chronicle of Philanthropy*
+
+<div align="RIGHT">
+
+From the issue dated June 1, 2000
+
+</div>
+
+## Charities Shouldn't Take Donors for Granted
+
+By PUTNAM BARBER
+
+We sent our dues check to the alumni group of my wife's alma mater early in May. We were pleasantly surprised to receive a welcome letter in response after just a couple of days. But we quickly became disconcerted when we noticed that the letter assured us that we would enjoy the many benefits of membership until the end of our membership year on May 31, 2000. In other words, for a couple of weeks.
+
+Whatever else might be said about this unusually brief term, it seems certain that no one at the university actually read the laser-printed letter that was so efficiently sent in response to our small gift. From what I've been seeing and hearing over the past few months, our experience with the alumni office isn't unusual.
+
+Missed communication, miscommunication, and no communication at all are the best ways to characterize the way many charities respond to people who have made a gift.
+
+All too often, fund raisers seem to concentrate most of their energy and creativity on soliciting people who will never give them a dime -- and in the process they end up alienating the people who care about their causes enough to have already opened their wallets. Or they lavish the wrong kind of attention on donors they hope will become big givers.
+
+Among the recent experiences that I, and some of my friends, have had when we tried to be generous:
+
+- With all the charitable gifts I made at the end of last year I enclosed a note asking to be put on mailing lists to receive news from the recipients. Now it is June and three of the six have not yet sent me anything, yet my incoming mail includes plenty of informative materials from organizations I've never supported, and probably never will.\
+   
+- It took me three letters and one grouchy phone call to get the receipt that correctly described my gift to a local charity -- a receipt I will need for the Internal Revenue Service. One friend reported a similarly vexing exchange of six letters with a social-service organization before his name was spelled correctly. By the time his name was sorted out, it had already been published incorrectly in the organization's newsletter.\
+   
+- A couple I know made a generous gift to a public radio station. The gift was large enough to catapult them, unexpectedly, into a special "circle" of donors. As a result, they receive invitations to events hosted by station management and other perks. Over dinner the wife expressed what seemed to me a reasonable reaction. "All I need is to be told how our gift helped make the station stronger," she said. "Not foie gras and pinot gris with a bunch of strangers -- even nice ones."
+
+A troubling thread runs through those anecdotes.
+
+Most of the donations were unsolicited gifts, made by donors who didn't have a continuing relationship with the recipient. Those should be the most welcome gifts of all. But the mechanics of organized fund raising are leading too many non-profit groups in the opposite direction.
+
+Smoothly functioning procedures to get out the mailings, process the responses, and focus on the people who gave last year but not this year as well as other dilatory prospects for follow-up get detailed attention from fund raisers. Missing from this efficient operation is the capacity to respond to the unexpected, to an unprovoked act of generosity.
+
+Of course, donors, and nearly everyone else, want charities to keep their administrative costs down and focus their resources on the mission. But surely that shouldn't cause charities to be rude to donors who live up to the American promise of private action for the public good.
+
+These are good times for the nation's non-profit groups, as last week's release of Giving USA, showing a 9-percent rise in gifts in 1999, demonstrates.
+
+But if this country is going to predicate the meeting of critical human needs and the accomplishment of central community tasks on generosity, then we need to be prepared to deal gracefully with the kindness of strangers. Fund-raising professionals and non-profit executives have a responsibility to us all to make sure the systems don't run so smoothly and efficiently that they run right over the individuals on whom their success depends.
+
+When community needs meet up with willing donors in the non-profit neighborhood, it should be possible to stop on the sidewalk, chat for a while, exchange a friendly handshake and some smiles. It may look a little old-fashioned and inefficient. The alternative, though, will soon run into a dead end of disgruntled ex-donors displaying thoroughly modern cynicism about the way non-profit groups operate. We'll all be the poorer if we go down that road.
+
+------------------------------------------------------------------------
+
+*Putnam Barber, a regular contributor to these pages, is the president of the Evergreen State Society, in Seattle, and the editor of the Internet Nonprofit Center* (<http://www.nonprofits.org/>).\
+\
+Copyright 2000 The Chronicle of Philanthropy

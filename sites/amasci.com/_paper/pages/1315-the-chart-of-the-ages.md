@@ -1,0 +1,37 @@
+---
+title: "The Chart Of The Ages"
+source_domain: amasci.com
+source_path: ~billz/Truth/Volumes/Charts/ChartOfTheAges.html
+order: 1315
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:04Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Chart Of The Ages
+
+*Source page: `~billz/Truth/Volumes/Charts/ChartOfTheAges.html`*
+
+THE CHART OF THE AGES
+
+The Chart of the Ages is a scanned image. Try to download the greatest resolution possible and print it out for reference. I have had trouble getting NetScape Navigator 3.0 to print enough pixels on one page to make the text readable. If you have the same problem with your browser, try saving a high resolution version to disk and using a different tool, like LView Pro ([click here for more information on LView Pro](http://www.lview.com/)), to print it out.
+
+- Portrat view:
+
+  - [Best resolution of 2815x5055x2 (312KB)](ChartOfTheAges_2815x5055x2.gif), ideal if using a tool like LView Pro to print.
+
+    [Good resolution of 1408x2528x2 (120KB)](ChartOfTheAges_1408x2528x2.gif), fine if using a tool like LView Pro to print
+
+    [Acceptable resolution of 901x1618x2 (63KB)](ChartOfTheAges_901x1618x2.gif), ok if using a tool like LView Pro to print
+
+    [Barely usable resolution of 700x1257x2 (43KB)](ChartOfTheAges_700x1257x2.gif), for me this prints on two pages from NetScape but is very hard to read. If possible, use one of the higher resolutions.
+
+  Landscape view:
+
+  - [Best resolution of 5055x2815x2 (264KB)](ChartOfTheAges_5055x2815x2.gif), ideal if using a tool like LView Pro to print.
+
+    [Good resolution of 2528x1408x2 (99KB)](ChartOfTheAges_2528x1408x2.gif), fine if using a tool like LView Pro to print
+
+    [Acceptable resolution of 1618x901x2 (52KB)](ChartOfTheAges_1618x901x2.gif), ok if using a tool like LView Pro to print

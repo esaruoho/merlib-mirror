@@ -1,0 +1,274 @@
+---
+title: "Introduction to Controls"
+source_domain: amasci.com
+source_path: ~htak/win32asm/winctl.htm
+order: 3470
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T05:56:48Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Introduction to Controls
+
+*Source page: `~htak/win32asm/winctl.htm`*
+
+# Introduction to Controls
+
+So what is a ***control***? Good question. Before Visual Basic (VB), it meant a child window created with one of six predefined window classes. Creating a window with embedded controls provides a "control panel", with the controls acting as input and output channels for an application.\
+Nowadays, there are ***custom controls*** -- they are created by non-MS programmers. Microsoft added the ***common controls*** to Win95. And adding to that, VB (Visual Basic) gave another meaning for ***control*** -- it's any software module that provides a special "control" function (e.g., a timer).\
+We will ignore the VB meaning of ***control***.
+
+- [Registering control classes](#register)
+- [Creating child windows and controls](#create)
+- [Requests and queries to controls, SendMessage](#msg)
+- [Responding to controls](#respond)
+- [A simple scratchpad editor--WINPAD.ASM](#example)
+
+\[ [Back to Win32 ASM Page](win32asm.htm) \]
+
+### <span id="register"></span>Registering control classes
+
+What Windows calls a ***control*** is implemented as a window, so there is a window class associated with each control type.\
+Six control classes are predefined by Windows. These window classes are registered before an application starts. They are: BUTTON, COMBOBOX, EDIT, LISTBOX, SCROLLBAR, and STATIC.\
+The common controls are registered by calling InitCommonControls.\
+If you are using custom controls, whether it's yours or someone else's, you will need to register their window classes by calling RegisterWindowEx.
+
+### <span id="create"></span>Creating child windows and controls
+
+Child windows are created by calling CreateWindowEx with WS_CHILD included in the *style* argument. They are usually created as visible windows by or'ing in WS_VISIBLE. The high 16-bits of the *style* argument are used to encode the general purpose WS\_ style options. The low 16-bits of the *style* argument are used to encode style options specific to the window class. The x-y coordinates must be ***client coordinates***, where (0, 0) is the top left corner of the client area in the parent window. And, of course, the *hParent* argument will be the parent window.\
+The *hMenu* argument is not used to create a menu, instead it is used to assign a ***control ID*** to the child window. Because the control ID provides a convenient reference to child windows, it's considered good practice to give unique numbers to the child windows of a parent window.\
+When a window is created, a WM_CREATE message is sent to its window procedure after it's created. The handler for this message is a convenient place to create child windows for the newly created window.\
+Controls are usually created as visible child windows (WS_CHILD or'ed with WS_VISIBLE).
+
+### <span id="msg"></span>Requests and queries to controls, SendMessage
+
+When we want to alter or query a control, we send messages to it by calling SendMessage. Each control defines its own set of messages for these purposes.\
+Most of the time, SendMessage acts like a subroutine call. At this time, we won't worry about the complications of multithreading.
+
+### <span id="respond"></span>Responding to controls
+
+Most of the predefined controls (and common controls) have the capability of sending a specific set of ***notifications*** to their parent windows in the form of WM_COMMAND messages. The control will send WM_COMMAND with its window handle, its ***control ID***, and a ***notification code***.\
+The "slider" controls are an exception. They send a WM_VSCROLL or WM_HSCROLL message depending on whether the slider has a vertical or horizontal orientation. These messages were originally defined only for scroll bar controls (class SCROLLBAR).\
+Custom controls have the option of notifying parent windows with a WM_NOTIFY message. Some of the common controls also generate WM_NOTIFY messages. The wParam is the control ID (same as nmh_idFrom below), and the lParam is the address of a NMHEADER (notification message header). Notification-specific information immediately follows the NMHEADER.
+
+    NMHEADER STRUC
+    nmh_hwndFrom DD ?    ; handle of control that sent WM_NOTIFY
+    nmh_idFrom   DD ?    ; ID of control that sent WM_NOTIFY
+    nmh_code     DD ?    ; NM or user defined code
+    NMHEADER ENDS
+
+The predefined NM codes have negative values, and include: NM_OUTOFMEMORY, NM_CLICK, NM_DBLCLICK, NM_RETURN, NM_RCLICK, NM_RDBLCLK, NM_SETFOCUS, and NM_KILLFOCUS.
+
+### <span id="example"></span>A simple scratchpad editor--WINPAD.ASM
+
+The following code implements a text editor with no file processing -- a scratchpad. All we do is create an EDIT control. Everything else, including the scrolling and the right-click menu, is handled by the EDIT control.
+
+### Registration
+
+First, we register the window class for the main window.
+
+            .386
+            .model  flat
+
+            ; If using TLINK32, don't include vclib.inc
+            include vclib.inc    ; Microsoft VC++ .lib link names
+
+            include win32hst.inc ; constants, structures, and entry names
+
+            .data
+            align   4
+    wcx     dd      size WNDCLASSEX           ; cbSize
+            dd      CS_VREDRAW or CS_HREDRAW  ; style
+            dd      WndProc                   ; lpfnWndProc
+            dd      0,0                       ; cbClsExtra, cbWndExtra
+            dd      0                         ; hInstance
+            dd      0                         ; hIcon
+            dd      0                         ; hCursor
+            dd      COLOR_WINDOW+1            ; hbrBackground
+            dd      0                         ; lpszMenuName
+            dd      wndclsname                ; lpszClassName
+            dd      0                         ; hIconSm
+
+    wndclsname db 'winpad',0
+
+            .code
+
+            public _start
+            extrn   GetModuleHandle:near
+            extrn   LoadIcon:near,LoadCursor:near
+            extrn   RegisterClassEx:near
+
+    _start:
+            push    large 0         ; NULL string pointer means
+            call    GetModuleHandle ; get HINSTANCE/HMODULE of EXE file
+            mov     [wcx.wcx_hInstance],eax
+
+            push    large IDI_WINLOGO
+            push    large 0         ; hInstance, 0 = stock icon
+            call    LoadIcon
+            mov     [wcx.wcx_hIcon],eax
+
+            push    large IDC_ARROW
+            push    large 0         ; hInstance, 0 = stock cursor
+            call    LoadCursor
+            mov     [wcx.wcx_hCursor],eax
+
+            push    offset wcx
+            call    RegisterClassEx
+
+### Creation and message loop
+
+Unlike previous programs, we eliminate the sizing options (no frame, minimizing, or maximizing), and add TranslateMessage to our message loop. The EDIT control doesn't work if we don't call TranslateMessage.
+
+            .data
+            align   4
+    cwargs  dd   0                  ; dwExStyle
+            dd   wndclsname         ; lpszClass
+            dd   wnd_title          ; lpszName
+            dd   WS_VISIBLE or WS_OVERLAPPED or WS_SYSMENU  ; style
+            dd   50                 ; x
+            dd   50                 ; y
+            dd   400                ; cx (width)
+            dd   400                ; cy (height)
+            dd   0                  ; hwndParent
+            dd   0                  ; hMenu
+            dd   0                  ; hInstance
+            dd   0                  ; lpCreateParams
+
+    msgbuf MSG      <>
+
+    wnd_title db 'Scratch Pad Editor',0
+
+            .code
+
+            extrn   CreateWindowEx:near
+            extrn   GetMessage:near,TranslateMessage:near,DispatchMessage:near
+            extrn   ExitProcess:near
+
+            sub     esp,48            ; allocate argument list
+            mov     esi,offset cwargs ; set block move source
+            mov     edi,esp           ; set block move destination
+            mov     ecx,12            ; number of arguments
+            rep movsd
+            mov     eax,[wcx.wcx_hInstance]
+            mov     [esp+40],eax      ; set hInstance argument in stack
+            call    CreateWindowEx
+
+    msg_loop:
+            push    large 0         ; uMsgFilterMax
+            push    large 0         ; uMsgFilterMin
+            push    large 0         ; hWnd (filter), 0 = all windows
+            push    offset msgbuf   ; lpMsg
+            call    GetMessage      ; returns FALSE if WM_QUIT
+            or      eax,eax
+            jz      end_loop
+
+            push    offset msgbuf
+            call    TranslateMessage
+
+            push    offset msgbuf
+            call    DispatchMessage
+
+            jmp     msg_loop
+
+    end_loop:
+            push    large 0         ; (error) return code
+            call    ExitProcess
+
+### Message dispatch
+
+We process WM_CREATE, a message that is sent to our window when it is first created.
+
+            extrn   DefWindowProc:near,PostQuitMessage:near
+
+            .code
+    WndProc:
+            mov     eax,[esp+4+4]   ; message ID
+            cmp     eax,WM_CREATE   ; window created
+            je      on_create
+            cmp     eax,WM_DESTROY  ; about to start window destruction
+            je      on_destroy
+            jmp     DefWindowProc   ; delegate other message processing
+
+    on_destroy:
+            push    large 0
+            call    PostQuitMessage
+
+            xor     eax,eax
+            ret     16
+
+### Creating a control
+
+We illustrate how to create a control when the parent window is created.\
+GetClientRect gets the coordinates of the client area of our main window. This way, we don't need to precalculate the size of the EDIT control.\
+Because several of the CreateWindowEx arguments here aren't precalculated constants, you may prefer to PUSH the arguments one at a time.
+
+            .data
+            align   4
+    wndeditargs     dd      0               ; dwExStyle
+                    dd      editclsname     ; lpszClass
+                    dd      0               ; lpszName 
+                    dd      WS_CHILD+WS_HSCROLL or WS_VSCROLL or WS_VISIBLE or \
+                            ES_AUTOHSCROLL or ES_AUTOVSCROLL or ES_MULTILINE
+                    dd      0               ; x
+                    dd      0               ; y
+                    dd      0               ; cx (width)
+                    dd      0               ; cy (height)
+                    dd      0               ; hwndParent
+                    dd      0               ; hMenu
+                    dd      0               ; hInstance
+                    dd      0               ; lpCreateParams
+
+    client_rect     RECT    <>
+
+    editclsname db 'edit',0
+
+            .code
+
+            extrn   GetClientRect:near
+
+    on_create:
+            mov     eax,[esp+4+0]   ; grab hwnd before ESP changes
+
+            push    offset client_rect
+            push    eax             ; hwnd
+            call    GetClientRect
+
+            mov     eax,[esp+4+0]   ; grab hwnd before ESP changes
+
+            push    esi             ; must save ESI and EDI
+            push    edi
+
+            sub     esp,48          ; allocate args
+            mov     esi,offset wndeditargs  ; set block move source
+            mov     edi,esp
+            mov     ecx,12
+            rep movsd
+            mov     [esp+32],eax    ; make main window the parent of "edit"
+            mov     eax,[wcx.wcx_hInstance]
+            mov     [esp+40],eax    ; set hInstance argument in stack
+            mov     eax,client_rect.rc_left
+            mov     [esp+16],eax    ; set x argument
+            mov     eax,client_rect.rc_top
+            mov     [esp+20],eax    ; set y argument
+            mov     eax,client_rect.rc_right
+            inc     eax
+            sub     eax,client_rect.rc_left
+            mov     [esp+24],eax    ; set cx (width) argument
+            mov     eax,client_rect.rc_bottom
+            inc     eax
+            sub     eax,client_rect.rc_top
+            mov     [esp+28],eax    ; set cy (height) argument
+            call    CreateWindowEx
+
+            pop     edi             ; restore ESI and EDI
+            pop     esi
+
+            xor     eax,eax         ; return OK
+            ret     16
+
+            end     _start
+
+------------------------------------------------------------------------

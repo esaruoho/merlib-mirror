@@ -1,0 +1,96 @@
+---
+title: "Ireland Marriage Exchange"
+source_domain: amasci.com
+source_path: ~chance/misc/marriage.html
+order: 1919
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:39Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Ireland Marriage Exchange
+
+*Source page: `~chance/misc/marriage.html`*
+
+ALLEN,Peter, WESTMORELAND,Isebell,11/11/1873,Ireland,Staky98@AOL.COM
+    BANFIELD,Daniel, KEANE,Mary,17/10/1899,Enniskeane,Bandon,Cork,pjorourke@eircom.net
+    BANFIELD,John A., DALTON,Catherine,15/5/1875,Tralee,Kerry,pjorourke@eircom.net
+    BARRETT,John, DONOVAN,Julia,7/2/1843,Kilmurry,Cork,retired@ihug.co.nz
+    BARRETT,Patrick, GAUGHAN,Ellen,27/02/1870,Belmullet,Mayo,Bram298@aol.com
+    BEGGS,James, MACAULEY,Helena,26/6/1858,Buckna,Antrim,mbeggs@windamere.com.au
+    BIGLEY,John, MILLER,Bridget,21/06/1867,Graigue, Queens,butchers@oceanfree.net
+    BRIODY,Peter, WESTERMAN,Elizabeth,19/09/1905,Thomastown,Kilkenny,mann@wcl.on.ca
+    BRYAN,Michael, FARRELL,Mary Ann,19/10/1891,St. Johns,Kilkenny,pjorourke@eircom.net
+    BUCKLEY,Patrick, DALY,Honorah,20/11/1870,Queenstown,Cork,fhofsheier@aol.com
+    BULLEN,John, HEALY,Bridget,05/11/1905,Cork City,Cork,m.bullen@nopres.co.uk
+    CARNEY,Henry, McMAHON,Jane,02/02/1870,South Dublin,Dublin,epgarvey@axionet.com
+    CASEY,Micheal, HANNON,Norah,24/7/1927,Tipperary Town,Tipperary,lourdes@blueyonder.co.uk
+    CHAPMAN,Abraham, GLEN,Hannah,11/09/1822,Charleville,,Cork,johngrah@ozemail.com.au
+    COLVIN,Richard, HUNTER,Minnie Jane,15/07/1911,Parish Church,Desertlyn,Derry,cheetah.racing@bigpond.com
+    CONNOR,Patrick, KEARNS,Ellen,24/08/1865,Chapel of Ballybrach,Killiney,Rathdown,Dublin,kissfamily@iprimus.com.au
+    CONNOR,Thomas, CRONIN,Mary,15/10/1868,Ahina,Macroom,Cork,sullibob@ma.ultranet.com
+    DALY,Richard, ROYCROFT,Cathrine,07/02/1855,Skibbereen,Cork,NKie105610@aol.com
+    DOBBIN,James, REDMOND,Mary,17/06/1867,Baldoyle RC Church,Dublin,lpeel@gofree.indigo.ie
+    DONOVAN,John, BRENNAN,Hannah,20/10/1866,,Cork,bwickham@nyc.rr.com
+    DRISCOLL,Michael, O'REILLY,Mary,1860,County Cork,edwina@4skate.com 
+    EGAN,Patrick, MELVIN,Bridget,09/02/1865,Cooneal,Ballysakeery Parish,County Mayo,jegan1@san.rr.com
+    FAHERTY,John, WALLACE,Margaret,16/01/1865,Glassillaun,Dawrosmore,Galway,epf_sr@yahoo.com
+    FALVEY,Michael, CONNOR,Mary,29/01/1839,Firies Parish,Kerry,sgardiner@easynet.co.uk
+    FAY,Patrick, ROGAN,Brigid,10/10/1916,Cooley,County Louth,jmbb@webjogger.net
+    FIHILY Michael, OLDEN,Ellen,20/11/1843,Aghada,Midleton,Cork,donmar@gofree.indigo.ie
+    FITZGERALD,George, HEALY,Ann,25/07/1915,Dublin,syates@dove.net.au
+    FLYNN,Thomas, MCCARRICK,Catherine,3/10/1865,Tobercurry,Sligo,kathy.simons@flashcom.net
+    FYFFE John Wm, RAMSAY Maria,13/11/1902,Derryvullen,Fermanagh,jillfyffe@home.net
+    GERRARD,Archibald, STONE,Eliza,15/12/1866,Castlecomer,Kilkenny,paul@eirehome.com
+    GILLESPIE,John, O'DONNELL,Annie,26/12/1938,St.Eugenes,Londonderry,murgill@supanet.com
+    GILLESPIE,Thomas, WILSON,Catherine,04/02/1828,Turlough,Mayo,Rosewarne@eudoramail.com
+    GOLDSPRING,John, SISK,Mary,25/02/1841,Cork,franceswachniewski@bigpond.com.au
+    GOODWIN,John, MILLEA,Ellen,15/08/1877,City of Dublin,fiona.macnaught@talk21.com
+    GRAHAM,Hugh, GRAHAM,Martha,08/10/1855,Craigs Parish,Ballymena District,Antrim,mira@eagledesign.com
+    GRAINGER,Richard, STODDART,Anne,26/10/1871,Parish Church Donamon,Galway,meglaws@emunet.com.au
+    GROVES,William, HORNER,Annie,22/12/1905,Ballyclare,Antrim,HFHW0415@AOL.com
+    HADDEN,Robert, ELLIOTT,Catherine,18/11/1853,Ballinamallard,Magheracross,Fermanagh,learning@vaxxine.com
+    HARDY,John, GALLAGHER,Maria,08/02/1890,RC Chapel of Fahan, Registrar's District of Burt,Union of Londonderry,Donegal,beatonboats@bytheshore.com
+    HEBBRON,Alban John George, MANNS,Catherine,08/07/1886,City of Dublin,Dublin,chris@ashview106.freeserve.co.uk
+    HEGARTY,William, ALLEN,Frances,11/3/1848,Goleen,Co Cork,NKie105610@aol.com
+    HIGGINS,John J., FINN,Honora,1875,(Derrynamana) New Inn,Galway,imartin@wtibos.com
+    HORNER,Andrew, MONTGOMERY,Eliza Jane 17/04/1874 Larne,Antrim,HFHW0415@AOL.com
+    HORNER,William, MAGEE,Margaret,31/07/1905 Ballyclare,Antrim,HFHW0415@AOL.com
+    HUTTON,James, McCONNELL,Margaret,15/10/1849,Derryloran,Tyrone,relf.hutt@xtra.co.nz
+    HOSFORD,Joseph  FORDE,Kate, 23/07/1870,St. Anne Parish,Shandon,City of Cork,Cork,patrick@hosford54.freeserve.co.uk
+    JUDGE,Andrew, O'CONNOR,Margaret, 17/9/1905,North Dublin,Dublin,doyles@net-tech.com.au
+    JUDGE,Patrick, MURPHY,Anastatia, 24/6/1882,North Dublin,Dublin,doyles@net-tech.com.auKANE,Samuel, KANE,Nancy,14/07/1879,Dunluce Church,Dunluce,Antrim,caindc@magna.com.au
+    KELLY,Michael, SMITH,Anne,27/02/1871,Granlahan,Roscommon,mlkocv@earthlink.net
+    LINSHAN,William, BULLEN,Catherine,09/02/1901,Kanturk,Cork,m.bullen@nopres.co.uk,
+    MALONE,Patrick, LYNCH,Margaret,09/02/1839,St.Peter&Paul RC Church,Kilmallock,Limerick,Irishjpm@aol.com
+    MALONE,Patrick, LYNCH,Margaret,09/02/1839,Sts. Peter & Paul R.C.Church,Kilmallock,Limerick,Irishjpm@aol.com
+    MARLIN,William, HUNTER,Mary Ann, 27/3/1856,Bellaghy,Derry,marlinlw@tpg.com.au
+    McATEER,Thomas, DOHERTY,Margaret,16/2/1859,,Donegal,MMCCOLE@aol.com
+    McCAY,Robert, LAVERTY,Jane,01/12/1858,Larne, Parish of Inver,Antrim,mboard@fullcomp.com.au
+    McCOLE,George, MCCANN,Catherine,31/10/1886,Movile,Donegal,MMCCOLE@aol.com
+    McDERMOTT,Charles, PATRIDGE,Mary,12/06/1872,Chapel of Clough,Ballymahon,Longford,fgilmartin@sprintmail.com
+    McERLEAN,Patrick Joseph, STEWART,Charlotte,04/03/57,Ballymena,Antrim,elderscupk@eisa.net.au
+    McKAY,Robert Alexander, LAVERTY,Jane,1/12/1858,Larne,,Antrim,mboard@fullcomp.com.au
+    McKINLEY,William, SINCLAIR,Anne Jane,8/6/1849,Armagh,nutfarm@amitar.com.au
+    MOLLOY,Michael, BROWNE,Margaret,12/07/1875,Birr,Kings,dmpafl@aol.com
+    O'CONNOR,Patrick, VESEY,Margaret, 07/09/1885,North Dublin,Dublin,doyles@net-tech.com.au
+    O'CONNOR,Timothy, CONDON,Margret,19/02/1828,Bruff,CO,Limerick,spick56@austarnet.com.au
+    PATERNOSTER,George, COLLINS,Mary,27/03/1874,,Kings(Offaly),j.martin@genetics.unimelb.edu.au
+    PATMAN,Edward Francis Damian, HEBBRON,Georgina Kathleen,19/5/1911,Dublin,Dublin,chris@ashview106.freeserve.co.uk 
+    PETTIGREW,Charles, JENKINSON,Margaret,17/05/1853,Minterburn,Tyrone,dpenny@compuserve.com
+    PHILLIPS,Thomas, MAGEE, Isabella,17/10/1890 Kilbride Parish,Antrim,HFHW0415@AOL.com
+    RANKIN,William, HORNER, Mary,26/07/1904 Ballyclare,Antrim,HFHW0415@AOL.com
+    REGAN,John, MURRAY,Mary,02/16/1862,Charlestown,Mayo,sjmr@erols.com
+    REILLY,Matthew, WICKHAM,Mary,06/08/1865,,Dublin,Dublin,bwickham@nyc.rr.com
+    RENNIE,Robert, HORNER, Olivia,29/10/1906 Belfast,Antrim,HFHW0415@AOL.com
+    ROURKE,Patrick, FURLONG,Catherine,8/5/1911,Clonroche,Enniscorthy,Wexford,pjorourke@eircom.net
+    RUSSELL,Robert, MCFADDEN,Mathilda,10/10/1856,Collooney,Ballysadare,Sligo,jtdris@ix.netcom.com
+    SWINDELL,Samuel, BLAIR,Susan,07/09/1918,Eglinton,Shankill,Belfast,Antrim,lynne55@gateway.net
+    THOMPSON,James Joseph, TYRRELL,Catherine Josephine,17/07/1906,Belfast,pthomps@tpg.com.au
+    WALDRON,Thomas, BYRNE,Annie,26/09/1871,R. C. Church Arklow,mawberry@bigpond.net.au
+    WALL,Joseph, PIERCE,Margaret,10/09/1934 Dublin,Dublin,mlaigne@powersurfr.com
+    WATSON,Perceval, SALTER,Susanna,28/12/1895,Skibbeneen,Cork,jantom@dragnet.com.au
+    WATT,John, RITCHIE,Sarah,12/05/1860,Ballymena District,Ballymena,stanleysmith@home.com
+    WICKHAM,Mark, McDERMOTT,Mary,12/06/1864,Dublin,Dublin,bwickham@nyc.rr.com

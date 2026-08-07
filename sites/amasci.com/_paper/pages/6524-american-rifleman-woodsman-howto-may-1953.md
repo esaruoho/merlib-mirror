@@ -1,0 +1,38 @@
+---
+title: "American Rifleman Woodsman Howto: May 1953"
+source_domain: amasci.com
+source_path: ~rayburn/woodsman/armay53.html
+order: 6524
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T05:59:18Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# American Rifleman Woodsman Howto: May 1953
+
+*Source page: `~rayburn/woodsman/armay53.html`*
+
+<img src="arp2btm.gif" width="556" height="292" alt="2nd Match Target, 4.5 inch barrel" />\
+
+# COLT MATCH TARGET WOODSMAN
+
+**From** ***THE AMERICAN RIFLEMAN,*** **MAY, 1953**
+
+**REPRINTED WITH PERMISSION FROM THE NATIONAL RIFLE ASSOCIATION OF AMERICA**
+
+It took about 37 years to evolve the 22 caliber Colt Woodsman semi-automatic handgun into the beautifully designed pistol it is today. The exterior shape has been changed to keep pace with the demands of American shooters.
+
+The original Woodsman target model suffered from a small grip and a light barrel. It was designed for low-velocity ammunition. Any Woodsman with a serial number under 83,790 should not be fired with high-speed ammunition until the main spring housing has been changed. An attempt was made in 1938 to obtain a better grip by extending the stocks below the frame and to give more weight by adding a slab-sided barrel. But it was in 1947 that the Woodsman really had its face lifted! The gun was redesigned externally and many improvements made.
+
+Even though the outside shape of the Woodsman handgun has been changed, the interior mechanism, with the exception of the magazine safety and the slide stop, is basically the same as in the original model. The fact that the interior mechanism has changed very little is another tribute to the genius of John Browning, designer of the original Woodsman in 1915.
+
+The Match Target Woodsman of today is made in .22 long rifle caliber only. Naturally, .22 shorts can be fired in it, but the shorts haven't enough power to operate the blow-back type of action used in the Woodsman. Made in two barrel lengths, 4-1/2 inch and 6 inch, the gun weighs 36-1/2 ounces and 41 ounces, respectively. The current Colt Match Target model, Woodsman target model, and sport models are equipped with a magazine safety and an automatic slide stop. The magazine safety prevents a lot of the "Oh, I didn't know it was loaded" type of accidents, for when the magazine is removed, even though there is a cartridge in the chamber, the gun cannot he fired. This type of safety would be a desirable feature in all non-military automatic pistols. These safety features plus the fine balance, sights, and above all the flawless finish, leave little to be desired.
+
+Like other .22 caliber semiautomatics, the chamber and breech face of the Colt Woodsman must be kept clean. Greased or waxed ammunition leave deposits that cause extraction troubles and, at times, misfires.
+
+The field stripping procedure for this gun is the same as the early models, with the exception of one point. The grips must be removed and the upper housing lock pin (PP) pushed out of the frame. This housing lock pin was added to the Woodsman, at the request of the Marine Corps, to prevent the back strap being forced inward and pinching the soft skin between thumb and forefinger when the pistol is gripped tightly.
+
+Push the NEXT button for illustrated takedown instructions.\
+[<img src="next.gif" data-align="RIGHT" data-border="0" width="87" height="37" alt="Next &gt;" />](artakedown.html)

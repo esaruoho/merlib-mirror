@@ -1,0 +1,369 @@
+---
+title: "David Kerlick Chronology"
+source_domain: amasci.com
+source_path: ~davidk/chron.html
+order: 2280
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:53Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# David Kerlick Chronology
+
+*Source page: `~davidk/chron.html`*
+
+David Kerlick Chronology
+
+# David Kerlick Chronology
+
+### Ancestors
+
+???? Settlement of Scythians in the Hundarian plain?
+
+898 Hungarians displace Slavs, who head for the hills
+
+965 Traditional date for Methodian mission to Ruthenia
+
+c\. 1200 Bela IV stations settlers at the mountain borders
+
+1581 Smerekova established by migration from from Galicia?
+
+1646 Union of Uzhgorod returns most of Ruthenia to Roman Church
+
+c1600 Plague in Smerekova, three women survive (Maria Kirlik)
+
+1773 Smerekova "Possessio" Census shows 'Kirlik'
+
+1828 Smerekova Census shows 'Kirlik'
+
+~1840 ?. Kovach, Hussar, Fr. of John Kovach Franz-Josef palace guard, Budapest?
+
+~1860 John Kovach MMFF
+
+~1860 Anna Yavorchak MMFM
+
+~1860 Anna Sura MMMM
+
+~1860 George Zbur MMMF
+
+1863 Dual Monarchy of Austria-Hungary established
+
+~1865 Vasil Kirlik FFF b. Smerekova, Austria-Hungary
+
+~1870 Anna Plavayko, FFM Lumshory/Ranosfured A-H
+
+1881 Mary Zbur MMM b. C^ukalovce, Zemplin Co. A-H, now Slovakia
+
+1881 Andrew Kovach MMF b. Serednye, Ung Co., A-H (Roman Cath?)
+
+1890 Feb 15 Fedyor Kirlik FF b. Smerekova, A-H
+
+1894 ? Veronica Hamnik FM b. Cihanivci? A-H
+
+1897 Mary Zbur emigration, age 14 "Christopher Columbus" (statue of Liberty) This is before Ellis Island 1904 building.
+
+1900 Mary Zbur works at Harvey's Lake Resort near Wilks-Barre, PA
+
+1901 Mihaly Kirlik of Smerekova emigration, to NYC \*half-brother?)
+
+1902 Wedding Andrew Kovach & Mary Zbur, Windber PA Mr Seech is a sponsor
+
+1904 Sept 4 Mary Kovach MM b. Wehrum PA (now a ghost town, GDK visited in 1998)
+
+1910 census Ernest PA Kovaches
+
+1912 ? Fedyor Kirlik emigration w/ Alex Kurtanich
+
+1918 April 18 George Kerlick F b. Perth Amboy NJ
+
+1920 census Kovaches, Ernest PA
+
+1923 July 23 Evelyn Kovach M b. Ernest PA
+
+1925 Kovaches move to Sharpsville PA
+
+1930 census to be released 2002
+
+1947 June 7 George & Evelyn Kerlick wedding, St. Michael's, Farrell PA Tornado strikes and causes wedding reception by candlelight. Noted in NY Times.
+
+### Early Years
+
+1949 June 24 Friday 11:22 A.M. birth in Sharon PA
+
+Christian H. Buhl hospital, later Sharon General
+
+1949 July 10 baptism
+
+St. Michael's Gr. Cath Cath Church, Farrell PA
+
+Fr. Aurelius A. Petrick (c 1890-1966)
+
+1951 Dec. 21 11 AM Sister Evelyn Lorraine b. Sharon PA
+
+TV arrives the same month. A diversionary tactic?
+
+1954 Sacred Heart Kindergarten
+
+Sharon PA Stevenson Mansion, Mrs. Treffs, Mrs. Knapp.
+
+Davy Crockett outfit for graduation
+
+1955-60 Emma Deeter School, Mercer Ave. built 1869
+
+1955-56 Grade 1, Miss Rebecca Miles
+
+1956 audition for skip to 3rd w/ McWhirter, principal
+
+1956 Grade 2
+
+Miss Susan(?) Gergeley, later Mrs. Spadin.
+
+1957 Spring, Onstage w/ Pinky Lee, Stoneboro Fair
+
+1957 June 9 1st Holy Communion, St. Michael's. Newly ordained asst Fr. Judson, later Metropolitan Archbishop (1995-2001).
+
+1957 Grade 3, Miss Frieda Lang
+
+Sputnik launched
+
+Cub Scouts
+
+Pack 39 George Mathewson (?) Dorothy Jennings Den Mother
+
+"Spankin' Collekshun"
+
+1958 summer study of 4th grade material
+
+1958 Grade 5, Mr. John Stutzman
+
+meet Patrick O'Connell & O.K. Rocket Builders
+
+Brother Mark born 1959 March 21 4:55 PM
+
+outing that day to Pittsburgh Planetarium
+
+1959 Grade 6, Mrs. Elizabeth Grimes.
+
+### Adolescence
+
+1960-63 Junior High School\
+1960 Old SJHS  
+David Chestnut, Stanley Schubel, Tom Leonard, Lombardi, Jim Stewart, Scarvell, Marcolivio
+
+1961 Split Sessions at new HS 7-noon, noon to 5  
+Watch "Video Village" with Monty Hall w/ Lori
+
+1962 New "Snyder" JSH.  
+As far as I know, Snyder never set foot in a school; he was a mill owner.
+
+English w/ John Tallarico
+
+Penn History w/ Scott Lewis
+
+Alg I John Racosi
+
+Chorus w. Stewart
+
+1963 Sharpsville High School, Soph  
+Geom w/ Mrs Robins.
+
+English w/ Mrs. Natalie Muia
+
+JFK Assassinated, announced in study hall, dismissed
+
+1964 SHS Jr.  
+Alg II Krotenak
+
+Physics w/ Orvis Anderson. Career Day, 1st Physicist: Paul Narbut
+
+1965 SHS Sr.  
+Chem w/ Christ Hodges. Math w/ Alex Krotenak
+
+1966 HS Graduation. Valedictory address  
+Summer job, Boats @ Buhl Park, \$.90 an hour, Gordon W. "Cap" Esterline
+
+### Undergraduate RPI
+
+1966-7 Frosh, 303 Nason Hall w/ Bernie Blick  
+9 Sept 1966 Move in.
+
+RPI Players "Threepenny Opera"
+
+Glee Club, Joel Dolven
+
+Russian w/ Bross
+
+Physics w/ Eppenstein
+
+Calc Honors w/ Campbell
+
+Frosh Chem wit various, West Hall lectures
+
+Language and Experience / Doherty
+
+Frosh Honors w/ Henry Holinger (chem). Watch Super Bowl I.
+
+1966 18 Mov 11th. The movement of its name at the Inside Out Coffee House
+
+6 Dec 1966 Voices in the Wind on People's Ave.
+
+1967-8 Sophomore  
+197 Tenth St. w/ Michael Current & Richard Albagli
+
+Tongue of Wood
+
+Summer job Westinghouse. Nick Blavos, Dr. van Nice
+
+1968-9 Jr. Tenth St.  
+Vonnegut, Simon & Garfunkel,
+
+Chapel & Cultural Center
+
+summer job Westinghouse
+
+Riots at Democratic Convention, Chicago Seven.
+
+1969 Sr, Tenth St.  
+Sara Katz, Grafton House.
+
+1970 R.P.I. Graduation, watch Kubrick's 2001
+
+Back to Buhl Farm boat job
+
+RPI Players outing to Long Island
+
+1970 August Dad's Heart Attack, Powerful Hourly Novena
+
+### Grad School Princeton
+
+Year I: 183 Princeton Old Grad College, rmmt John Cunninghum
+
+- Relativity (MTW) Kuchar
+- Mechanics (Simon)
+- E&M (Jackson)
+- Quantum (Messiah)
+- Experiment Reynolds *photobacterium phosphoreum* Image Intensifier tubes
+- Electri Tequila PArty and Trout Qunitet
+- fail prelims
+
+1971 PUGC (W L Nollner) Tour South America
+
+Year II 1971-2, 16 Dickinson St.
+
+Anne & Nels, Rob Patch
+
+1972 General Exams, passed (Wilkinson gives the news)
+
+What's the point of a general examination without revolutionary copulation?
+
+1973 Jan PUGC Tour Mexico
+
+April 25 ? PUGC at Carnegie Hall
+
+1973 Jul-Aug Road Trip to Chicago, Madison, Yellowstone, Calgary, Banff, Jasper, Vancouver(Wreck Beach), Seattle, Portland, Oregon and Cal Coast, Berkeley (Hardcastle, almost made it), SF (Fern St.), LA (MAry Whitney in Upland), San Diego (Frank MAngo), Sonoran Desert, Organ Pipe AZ, New Mexico, Colorado, I-70
+
+1973 Sept. Come out to Parents, extreme negative reaction
+
+1974 May 8th, first sex contact "Rivendell" Ted Ehemann, anticlimax
+
+1974 October (20?)
+
+Drive to Danbury CT with Paul Julien for Charles Ives 100th Anniv Concert
+
+1975, January 21, Ph.D., Princeton
+
+1975, January 22, Ls.D., Princeton
+
+1975, January 24, Jamaica Tour w/ PUGC
+
+### Postdocs
+
+1975 Bozeman MT
+
+1975 Feb COLD trip via Chicago (Jeff Evans) Minneapolis -25 F (Jim Kelley), Dickinson SD (motel)
+
+share house with Al Baker before he gets hitched.
+
+1975-6 Cologne, Germany
+
+Braunstr 34 5th floor walkup
+
+1976 Die Filmdose gay bar in Cologne, first contacts.
+
+1976-77 Max Planck Institute, Munich, Germany
+
+Record w/ Munich Bach Choir Cantata Nr. 80
+
+1977-78, Oregon State, Math Dept. Francis Flaherty
+
+### California
+
+1978 USF and SF City College\
+1979 24 June Acid Trip on Gay Day on XXX Birthday\
+1979 Munich Reprise\
+1979-83 Nielsen Engineering  
+1980 Sunnyvale Condo
+
+1980 First envcounter w/ Faeries, Hal Hershey's House, HArper Av, Berkeley, Oct-Nov.
+
+1980 Dec fateful trip to HArbin Hot Springs Winter Solstice.
+
+1981 Romantic Love Dies in Flames, Takes Decades to Mend
+
+1983-89 NASA Ames  
+1986 Move to SF, part then full
+
+1989 26 Sept Gary Compton dies.
+
+1989 Oct Earthquake!
+
+1989 Oct-Nov Slavyanka tour to USSR
+
+### Oregon
+
+Job at Tektronix Labs
+
+Home at 5627 SW 45th, Portland.
+
+8 Dec 1989 Move In
+
+1990 Feb Meet Scott B.
+
+1990 Aug Laid Off
+
+1991 July 5 Boeing Job Offer
+
+1991 July 11 Eclipse Baja
+
+### Seattle
+
+Job at Boeing Computer Services\
+1991-1995 Capitol Hill 1201 E. John \#6  
+1992 Sept join Seattle Pro Musica
+
+1993 Holden Village, dramatic hike
+
+1993 cats Akbar and Jeff
+
+1995 May 17, W Seattle Home, to present  
+Crooked seller, claims, repairs.
+
+1995 June 19, mail from Read S.-W. evolves to relationship 2 years.
+
+1996 Wolf Creek, reture the Persimmon game.
+
+1997? Feb Gay Men's Spiritual Retreat Camp Long
+
+1998 Feb Curacao Ecddpse
+
+1998 Mar Rachmaninoff All-Night Service w/ Pro Musica
+
+1999 July-Aug: London, Ukraine, Slovakia, Prague, Turkey 8/11 eclipse in Osmanjik, Med. coast, Rhodos, Crete.
+
+2000 Greet year at Samadhi Yoga w/ David Hykes
+
+2000 October 2nd Pro Musica CD "Alnight by the Rose"
+
+2001 June 21-29 Hells Canyon vacation, break toe

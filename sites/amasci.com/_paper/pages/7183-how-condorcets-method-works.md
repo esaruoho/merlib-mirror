@@ -1,0 +1,89 @@
+---
+title: "How Condorcet's Method Works"
+source_domain: amasci.com
+source_path: ~robla/politics/condorcet-tech.html
+order: 7183
+reachable_from_entry: false
+images: 3
+internal_links: 4
+extracted: 2026-08-07T05:59:51Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# How Condorcet's Method Works
+
+*Source page: `~robla/politics/condorcet-tech.html`*
+
+How Condorcet's Method Works
+
+# How Condorcet's Method Works
+
+Here's where I get into the messy math and talk about how *my implementation* of Condorcet's method works. You've been warned :)
+
+Here is a sample field of candidates:
+
+    A-John Anderson
+    B-Jerry Brown
+    C-Bill Clinton
+    D-Bob Dole
+    E-Dwight Eisenhower
+    F-Steve Forbes
+
+I create an NxN matrix, where N is the number of candidates in the field (6x6, in the case above). The computation of this matrix is stage one of two stages to compute the winner. The matrix consists of how many votes the x coordinate candidate received over the y coordinate candidate. So, \[A, B\] is the number of votes John Anderson received over Jerry Brown. \[B, A\] is the number of votes Jerry Brown received over John Anderson.
+
+Each ballot is tallied by determining the pairwise result of the ballot. So, if someone ranks their ballot:
+
+    A, B, C, E, D, F
+
+...then I increment \[A,B\], \[A,C\], \[A,E\], \[A,D\], \[A,F\], \[B,C\], \[B,E\], \[B,D\], \[B,F\], \[C,E\], \[C,D\], \[C,F\], \[E,D\], \[E,F\], and \[D,F\], since this is how the voter would have voted in each pairwise election, given their ranked ballot.
+
+The second stage computation involves using the matrix to determine the pairwise winners. Each complimentary pair is compared, and the winner receives one point in his/her "win" column, and the loser receives one point in his/her "loss" column. If the simulated pairwise election is a tie, both receive one point in the "tie" column.
+
+Here is a possible outcome:
+
+       Wins  Losses  Ties
+    E   5       0                   (Our deceased former president beats 
+                                     everyone in separate pairwise elections)
+    A   4       1                   (A loses to E, but beats everyone else)
+    B   3       2                   (B loses to A and E)
+    C   1       3      1            (C loses to A, E and B, and ties D)
+    D   1       3      1            (D loses to A, E and B, and ties C)
+    F   0       5                   (F loses in all elections)
+
+This is a clean pairwise victory for Eisenhower. If no candidate emerges unscathed by a pairwise defeat or tie, an alternative method of calculating the winner involves finding the candidate whose worst pairwise defeat was the smallest. For instance, lets modify the table above:
+
+       Wins  Losses  Ties
+    E   3       3                   (E loses to C, D, and F)
+    A   4       2                   (A loses to E and D)
+    B   3       3                   (B loses to F, A, and E)
+    C   3       3                   (C loses to A, E and B)
+    D   3       3                   (D loses to A, F and B)
+    F   2       4                   (F loses to A, B, C, and D)
+
+It is then necessary to look at the margins of defeat for each candidate: Let's say we are talking about a 1000 vote election:
+
+    E  (495, 505)  (492, 508)  (474, 526)*
+    A  (491, 509)  (482, 518)*
+    B  (482, 518)  (476, 524)* (492, 508)
+    C  (474, 526)* (488, 512)  (490, 510)
+    D  (497, 503)  (491, 509)* (493, 507)
+    F  (482, 518)  (481, 519)  (477, 523)*  (498, 502)
+
+    * Worst defeat
+
+In this election, D has the narrowest "worst defeat" and so he would win using Condorcet's method. This is true in spite of the fact that A lost fewer elections, and in fact beat D in a pairwise election. This apparent weakness in Condorcet is perhaps the reason why it is often paired with Approval for situations where Condorcet doesn't produce a clear winner. I like Condorcet's tie-breaker, though, for asking the question "Given that there is no candidate who a majority of the electorate would pick over any other candidate, who is the candidate that a plurality chooses over any other candidate?" No solution to this quandry is going to be particularly satifying, but I think Condorcet's tie-breaker works about as well as any when trying to avoid a new election to find a winner.
+
+[Back to the Condorcet's Method Home Page](condorcet.html)
+
+[Political Justification of Condorcet's Method](condorcet-explain.html)
+
+[Interactive Demo of Condorcet's Method](condorcet-front.html)
+
+[Source Code for Condorcet Winner Calculator](condorcet-program.html)
+
+Related sites:\
+[<img src="/~robla/cpr/cvdsmall.gif" data-hspace="5" data-vspace="5" data-border="0" width="196" height="79" alt="The Center For Voting &amp; Democracy" />](http://www.igc.apc.org/cvd) [<img src="/~robla/cpr/wacprsml.gif" data-hspace="5" data-vspace="5" data-border="0" alt="Washington Citizens For Proportional Representation" />](http://www.eskimo.com/~robla/cpr/) [<img src="/~robla/littleho.gif" data-hspace="5" data-vspace="5" data-border="0" alt="Rob&#39;s Homepage" />](http://www.eskimo.com/~robla)
+
+------------------------------------------------------------------------
+
+*<robla@eskimo.com>*\

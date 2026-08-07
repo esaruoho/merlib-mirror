@@ -1,0 +1,13 @@
+Certainty Factor 
+
+ Certainty Factor 
+
+In many situations it is not possible to answer a question with a Yes or No. In the Decision
+Maker expert system the user may specify "UNK" for unknown by using the CF (Certainty
+Factor) function. The expert system will then use fuzzy logic in searching for efficient method(s). 
+
+ In the above example. The user has answered two questions with a degree of certainty and is in
+the process of answering a third. A CF of 100 is the same as answering "YES" to the question. 
+
+http://www.eskimo.com/~mighetto/lscf.htm - last update September 21,
+1996

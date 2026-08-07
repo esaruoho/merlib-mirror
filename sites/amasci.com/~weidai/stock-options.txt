@@ -1,0 +1,23 @@
+Stock options should never be exercised before they expire. If
+someone wants to lock in gains on their stock options and can't
+sell them (for example if they're employee stock options), they
+should short the company's stock, and exercise their stock
+options when they are about to expire to cover the short
+positions. There is no additional risk since any potential loss
+on the short positions would be balanced by the gain on the stock
+options. But there are two benefits. First is the interest on the
+strike value of the stock options. Second is the potential gain
+if the market price were to fall below the strike price.
+
+Here's an example to make things clear. Suppose Alice holds
+options to buy 100 shares of XYZ at $10 and the current market
+price for XYZ is $20. If she was to exercise her options she
+would get (20-10)*100 = $1000. Suppose that instead she shorts
+100 shares of XYZ now and exercises her options five year later
+to cover the short, when XYZ rises to $50. She would get $2000 now
+and pay $1000 five year later. This is equivalent to $1216.47
+today because she can put $783.53 in a bank account yielding 5%
+and five years later it will turn into $1000. If five years later
+XYZ drops to $5 instead, Alice would only have to pay $500 to
+cover her short and her gain is even larger. So no matter what
+happens Alice gets at least an extra $216.47, possibly more.

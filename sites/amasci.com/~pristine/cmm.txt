@@ -1,0 +1,871 @@
+Pure Mac: Contextual Menus - Software for Macintosh 
+
+ Contextual Menus 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Mac OS X PPC 
+ Universal 
+ Universal 
+
+ BinJugglerCM 
+ CalculateSizeCM 
+ CleverKeys 
+ FinderIconCM 
+ Launch Items X 
+ PhotoToolCM 
+ QuickImageCM 
+
+ Big Cat 
+ ClipMasterCM 
+ DejaMenu 
+ DeskPicChanger 
+ FileCutter 
+ FileHeirToClip 
+ FilePathCM 
+ FilePathToClip 
+ FileUtilsCM 
+ FinderPop 
+ Folder Contents CM 
+ FolderGlance 
+ FTPortal 
+ GrimRipperCM 
+
+ Icon2Image 
+ LockPopCM 
+ Move Items X 
+ MoveCM 
+ MP3-Info CMM 
+ Nudge 
+ NuFile 
+ One Finger Snap 
+ OnMyCommand 
+ Open Subfolder 
+ PicturePopPro 
+ QuickAccessCM 
+ Shortcuts 
+ SymbolicLinker 
+
+ If you're looking for Contextual Menus for Mac OS 8/9 you want the Contextual Menus (Classic) page. 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Big Cat 1.0.1 
+
+Big Cat adds a Scripts menu when you ctrl-click in applications - such as
+the Finder, BBEdit, Internet Explorer, and Eudora - that support system
+contextual menus.
+
+You can run your own AppleScript and shell scripts from the Scripts
+menu.
+
+In other words, you can add your own commands to these applications,
+customize your workflow, spend more time creating and less time clicking
+around.
+
+ License : Freeware
+ Author/Publisher : Brent Simmons
+ Modification Date : June 30, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 181 Kb
+
+ Home Page 
+
+ BinJugglerCM 1.3.1 
+
+BinJugglerCM is a plugin for encoding and decoding MacBinary III files.
+
+Menu behavior and usage
+ * This plugin is activated when you click on a file. You cannot encode a folder or disk into MacBinary III.
+ * Current limitation is that it does not recognize and decode MacBinary II files. You are welcome to fix it and contribute the change to the sources. 
+
+ License : Freeware
+ Author/Publisher : Abracode, Inc.
+ Modification Date : September 15, 2002
+ Requirements : Mac OS X 10.1.2 or higher
+
+ Download 
+File Size: 96 Kb
+
+ Home Page 
+
+ CalculateSizeCM 1.3 
+
+Contextual menu plugin for MacOS X that calculate the total size and
+number of sub folders, files, invisible items of the selected files and
+folders. It can also calculate the break down by fork (data/resource)
+and can show more info. than Finder's Get Info dialog.
+
+ License : Freeware
+ Author/Publisher : Hide Itoh
+ Modification Date : December 14, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 264 Kb
+
+ Home Page 
+
+ CleverKeys 1.1 
+
+ What Is It?
+ CleverKeys for Mac OS X is free software providing instant access to definitions at Dictionary.com, synonyms at Thesaurus.com, Web search and more.
+ Usage
+ 1. To use the Contextual Menu, select a word you want to lookup then control-click it (hold down control and click on your selection) and choose your search option.
+ 2. To use the Service, select a word you want to lookup then choose your search option from the Services - CleverKeys menu (or use the command-key equivalent, when available).
+ 3. Your search will launch in your default browser.
+
+ License : Freeware
+ Author/Publisher : Lexico Publishing Group, LLC
+ Modification Date : July 7, 2003
+ Requirements : Mac OS X 10.1.4 or higher
+
+ Download 
+File Size: 90 Kb
+
+ Home Page 
+
+ ClipMasterCM 1.1.1 
+
+Contextual menu plug-in for for saving multiple clipboards for later access via contextual menu.
+
+ License : Freeware
+ Author/Publisher : Abracode Inc.
+ Modification Date : July 10, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 151 Kb
+
+ Home Page 
+
+ DejaMenu 1.2.2 
+
+DejaMenu will display the current application's main menu as a context
+menu when a key combination is pressed.
+
+This is particularly useful for people using multiple monitors. Since
+the Menubar only appears on a single monitor, it is awkward to use
+applications on a different monitor. DejaMenu solves this - just press
+the configured key combo, and a copy of the Menubar is right there for
+your to use.
+
+ License : Freeware
+ Author/Publisher : Karl Hsu
+ Modification Date : November 3, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 97 Kb
+
+ Home Page 
+
+ DeskPicChangerCMPlugin 2.1 
+
+DeskPicChangerCMPlugin is a contextual menu plugin for Mac OS X and
+Classic Mac OS that sets the Desktop picture to the selected image file.
+Once installed, when a contextual menu is invoked (control-click)
+DeskPicChangerCMPlugin checks if the contextual menu was invoked on a
+single image file (any image type supported by QuickTime such as .png,
+.jpg, .gif, .tiff, etc.). If so, a "DeskPicChange!" menu item is added
+to the contextual menu. Selecting this menu item will set the Desktop
+picture of the main monitor to the selected image, positioned
+automatically.
+
+ License : Freeware
+ Author/Publisher : Hsoi's Shop
+ Modification Date : May 29, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 430 Kb - Universal
+
+ Home Page 
+
+ FileCutter 1.3.3 
+
+FileCutter enhances the Finder context menu to let you cut and paste files (rather than
+just copy and paste) and lets you paste an alias to a copied file.
+
+ License : Shareware, $5
+ Author/Publisher : Greg Weston
+ Modification Date : October 27, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 100 Kb
+
+ Home Page 
+
+ FileHeirToClipCMPlugin 2.1 
+
+FileHierToClipCMPlugin is a contextual menu plugin that can generate a text representation
+of a file/folder hierarchy and place it on the Clipboard. Once installed, when a
+contextual menu is invoked (control-click) FileHierToClipCMPlugin checks if the contextual
+menu was invoked on a file or folder (or any other Finder item). If so, a
+"FileHierToClip!" (Mac OS X version) or "Copy File Hierarchy to Clipboard" (Mac OS 8 and 9
+version) menu item is added to the contextual menu. Upon selecting this menu item, if the
+clicked upon item is a file, the file's name is placed on the Clipboard. If the clicked
+upon item is a folder (or a disk), a textual representation of the hierarchy of files and
+folders within the clicked upon folder is generated and placed on the Clipboard. . Once
+the text is on the Clipboard, you can then paste it wherever text can be pasted.
+
+ License : Freeware
+ Author/Publisher : Hsoi's Shop
+ Modification Date : May 29, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 430 Kb - Universal
+
+ Home Page 
+
+ FilePathCM 1.0.9 
+
+FilePathCM is a contextual menu item for:
+ - Copying the POSIX path of a file or folder to the clipboard.
+ - Copying the HFS path of a file or folder to the clipboard.
+ - Copying the full name of a file or folder to the clipboard.
+ - Copying the display name of a file or folder to the clipboard.
+ - Copying the extension of a file or folder to the clipboard.
+
+ License : Shareware, your choice of $10 - $25 (you also get 45 other generally well done simple programs)
+ Author/Publisher : Limit Point Software
+ Modification Date : January 8, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 246 Kb
+
+ Home Page 
+
+ FilePathToClipCMPlugin 2.1 
+
+FilePathToClipCMPlugin is a contextual menu plugin that can generate a
+text representation of the path to a file/folder and place it on the
+Clipboard. Once installed, when a contextual menu is invoked
+(control-click) FilePathToClipCMPlugin checks if the contextual menu was
+invoked on a file or folder (or any other Finder item). If so, a
+"FilePathToClip!" (Mac OS X version) or "Copy File Path to Clipboard"
+(Mac OS 8 and 9 version) menu item is added to the contextual menu. Upon
+selecting this menu item, a textual representation of the path from the
+root volume to the clicked-upon item is generated and placed on the
+Clipboard. Once the text is on the Clipboard, you can then paste it
+wherever text can be pasted.
+
+ License : Freeware
+ Author/Publisher : Hsoi's Shop
+ Modification Date : May 29, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 430 Kb - Universal
+
+ Home Page 
+
+ FileUtilsCM 1.7.3 
+
+FileUtilsCM is a plug-in for setting different file or folder
+attributes. It is a set of several utilities which can:
+ * refresh the look of an object in Finder,
+ * copy path to clipboard,
+ * touch creation and modification date,
+ * toggle lock,
+ * toggle extension visibility,
+ * set file type and creator from extension (consulting InternetConfig preferences),
+ * remove file type and creator
+ * obtain file information in "File Info" submenu.
+
+ License : Freeware
+ Author/Publisher : Abracode Inc.
+ Modification Date : November 4, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 235 Kb
+
+ Home Page 
+
+ FinderIconCM 2.4 
+
+Contextual menu plugin for MacOS X that let's you copy/paste/clear icon
+from selected items (volumes/folders/files) without opening Finder's Get
+Info dialog. It can handle multiple items with one operation. Also, it will
+let you view the icon image in detail. Paste function works not only
+with icon data but also with PICT data in the clipboard.
+
+ License : Freeware
+ Author/Publisher : Pixture Studio
+ Modification Date : December 18, 2004
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 638 Kb
+
+ Home Page 
+
+ FinderPop 2.2 
+
+Open the FinderPop preference pane. Click on the Show FinderPop Items Folder button in the
+Items sub-panel. Add aliases to your favourite applications, folders, documents, and
+whatnots to that folder. Now every time you control-click in the Finder or click in an
+unused part of the menubar, you'll get a few more options... 
+Control-free contextual menu popup in finder.
+
+ License : Freeware
+ Author/Publisher : Turlough O'Connor
+ Modification Date : February 13, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.0 MB - version 2.2
+
+ Download 
+File Size: 393 Kb - version 1.9.2 - December 3, 2000
+
+ Home Page 
+
+ Folder Contents CM 1.7.1 
+
+Folder Contents CM is a Mac OS X-compatible contextual menu plugin (CM)
+which allows users to access folder contents by control-clicking on that
+folder. The engine can also view the contents of the packages, including
+application packages. The contents are displayed on icon-decorated
+hierarchical menus where users can browse the folder contents to
+unlimited depth. Folder Contents CM has ability to handle disks, files,
+folders, aliases, symbolic links, and invisible objects.
+
+ License : Shareware, $14
+ Author/Publisher : Narattaphol Charoenphandhu
+ Modification Date : March 31, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.0 MB
+
+ Home Page 
+
+ FolderGlance 2.1 
+
+FolderGlance is a Contextual Menu Items plugin for the Finder, which
+allows you to hierarchically browse the contents of folders in the
+Finder by right- or control-clicking one or several folders. It comes
+with a preference panel allowing you to customize the number of levels
+you can browse, as well as enable or disable display of hidden files.
+
+ License : Freeware
+ Author/Publisher : Yellow Lemon Software
+ Modification Date : November 5, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.9 MB
+
+ Home Page 
+
+ FTPortal 1.0.7 
+
+FTPortal is an application and contextual menu for easily uploading files to specific
+folders of one or more FTP servers. You do this by either creating and configuring
+multiple copies of the program, or using the FTPortal System Preferences pane to configure
+the contextual menu items. Then you upload files by either dropping them onto the main
+window or application icon in the Finder or by selecting an appropriate contextual menu
+item in the Finder.
+
+ License : Shareware, $25
+ Author/Publisher : Limit Point Software
+ Modification Date : March 15, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.4 MB
+
+ Home Page 
+
+ GrimRipperCM 1.4.1 
+
+GrimRipperCM is a simple utility for ripping off the resource fork. Very
+handy if you know what you are doing. Very destructive if you don't. I
+take no resposibility if you damage the only copy of your important
+document.
+
+ License : Freeware
+ Author/Publisher : Abracode Inc.
+ Modification Date : April 18, 2006
+ Requirements : Mac OS X 10.1.2 or higher
+
+ Download 
+File Size: 132 Kb
+
+ Home Page 
+
+ Icon2Image 1.3.2 
+
+Icon2Image is a contextual menu plug-in that you use to convert file,
+folder and disk icons into images. Any image format supported by your
+installed version of Quicktime is available for conversion. Standard
+formats include JPEG, TIFF, PNG, PICT etc.
+
+ License : Shareware, $25
+ Author/Publisher : Limit Point Software
+ Modification Date : March 30, 2009
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 1.3 MB
+
+ Home Page 
+
+ Launch Items X 1.8 
+
+Launch Items is an easy-to-use contextual menu plug-in which allows to
+launch customized applications or open documents with customized
+applications. It has a graphic user interface called Launch Items Editor
+where users can add any applications to the menu of Launch Items. The
+editor supports drag & drop, drag to change position of menu items, and
+more.
+
+ License : Shareware, $15
+ Author/Publisher : Narattaphol Charoenphandhu
+ Modification Date : November 26, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.4 MB
+
+ Home Page 
+
+ LockPopCM 1.12 
+
+LockPopCM is a very simple and compact contextual menu plugin that
+allows to lock or unlock your selection in the Finder or any software
+that handle this sort of plugin.
+
+ License : Freeware
+ Author/Publisher : Setnan
+ Modification Date : August 24, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 29 Kb
+
+ Home Page 
+
+ MoveCM 1.0.13 
+
+MoveCM is a contextual menu item for moving, copying, aliasing and
+archiving (zip compressing) files and folders quickly into common
+folders. i.e. without the need to drag and drop them, use aliases, etc.
+It is a generalization of the Finder's "Move to Trash" contextual menu
+item, you can apply it to any folder you like. Use the
+System Preference pane to specify destination folders. The contextual
+menu will then consist of menu items that correspond to these
+destinations.
+
+ License : Shareware, your choice of $10 - $25 (you also get 45 other generally well done simple programs)
+ Author/Publisher : Limit Point Software
+ Modification Date : November 8, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 288 Kb
+
+ Home Page 
+
+ Move Items X 1.6.1 
+
+Move Items X is a set of Mac OS X-compatible contextual menu plug-ins
+which allow users to copy items, move items and make aliases. Users can
+copy files and folders from the desktop (or any folders) to a specific
+destination by using the contextual menu features. Destinations folders
+will be shown on the hierarchical menus, i.e. entire hard disks will be
+listed on the menus, and users can browse to any levels of the hard
+disks. Users can customize the advanced options of Move Items X through
+an interface software called Move Items Enabler.
+
+ License : Shareware, $8
+ Author/Publisher : Narattaphol Charoenphandhu
+ Modification Date : March 18, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 2.7 MB
+
+ Home Page 
+
+ MP3-Info CMM 1.4 
+
+MP3-Info CMM is a Contextual Menu Module designed for Mac OS X (version 10.2 or newer,
+PowerPC- & Intel-Mac). That is essentially an extension to the Finder.
+
+It displays information about MP3, AAC (iTunes), AIFF, and even WAV files, such as their
+duration, the bitrate, and also the MP3-Tags, such as the artist, the title of the song,
+and some more, all directly inside the Finder, without the need to open any application to
+get this information! That can save you a lot of time when you often have to manage MP3
+files.
+
+ License : Freeware
+ Author/Publisher : Norbert M. Doerner
+ Modification Date : February 27, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 536 Kb
+
+ Home Page 
+
+ Nudge 1.2 
+
+This Contextual Menu "nudges" the Finder to update the information it displays about a
+file or folder. Use it on any item (or groups of items) if you suspect the Finder hasn't
+updated its view. This should work for most attribute changes, icon changes, size changes,
+files that have been saved but don't appear, and so forth. It now also changes the item's
+modification timestamp to the current date and time, and works on both PowerPC and Intel
+Macs. On Mac OS X 10.3 (Panther) and up, you can control-click on the empty space in any
+Finder window and have the contextual menu act on the containing folder. Unfortunately,
+some attribute changes are NOT properly recognized. This includes the "invisible" and
+"package" attributes. For changes to those attributes, you must quit and restart the
+Finder.
+
+ License : Freeware
+ Author/Publisher : Rainer Brockerhoff
+ Modification Date : August 19, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 148 Kb
+
+ Home Page 
+
+ NuFile 2.0 
+
+NuFile (pronounced new-file (Nu is a greek letter)) is a contextual menu plugin. It adds a
+new file menu when you right click at a folder(ie: desktop or Finder background); just
+like what you can do in Windows.
+
+ License : Freeware
+ Author/Publisher : Piti Ongmongkolku
+ Modification Date : November 4, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 189 Kb
+
+ Home Page 
+
+ One Finger Snap 1.4.1 
+
+One Finger Snap is a Preference Pane that brings up the contextual menu
+whenever you click and hold down the mouse button. This means that you
+can do everything with a single-button mouse that you can do with a
+2-button mouse. Don't throw away that 1-button mouse. Don't carry around
+a clunky mouse with your powerbook. Don't think that you've lost a
+second mouse button when you switch from that other OS. Just click and
+hold wherever you would normally right-click.
+
+ License : Freeware
+ Author/Publisher : Old Jewel Software
+ Modification Date : August 31, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 296 Kb
+
+ Home Page 
+
+ OnMyCommand 2.1 
+
+Contextual menu for executing Unix commands. Hundreds of commands
+submitted by users are available in online archive . It is like having
+hundreds of different contextual menu plug-ins to choose from! The most
+powerful and most advanced of all contextual menu plug-ins developed by
+Abracode. Command Droplets take the OMC format beyond contextual menus
+and enable building custom GUI applets wrapping a CLI command or script.
+
+ License : Freeware
+ Author/Publisher : Abracode Inc.
+ Modification Date : December 2, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.1 MB
+
+ Home Page 
+
+ Open Subfolder 1.0.6 
+
+Open Subfolder is a contextual menu extension for Mac OS and Windows
+which adds the ability to open a folder located inside of the currently
+selected folder.
+
+ License : Freeware
+ Author/Publisher : Bubble Pop Software
+ Modification Date : April 22, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 433 MB - version 1.0.6 for Mac OS X 10.4 or higher
+
+ Download 
+File Size: 147 MB - version 1.0.5 for Mac OS X 10.1.x to 10.3.x
+
+ Home Page 
+
+ PicturePopPro 2.0p3 
+
+PicturePopPro (initialy named PicturePop) was born in 2001. It was one of the first
+contextual menu plugins for MacOS X, and the first picture viewer as contextual menu
+plugin for MacOSX. PPP2 is designed to work on all PowerPC macs, from 10.3.9 to 10.4.x,
+especially with less memory [on low configuration]. With Tiger, Apple has introduced a
+contextual menu with similar diaporama functionality but.. just test PPP2 and compare.. :)
+PPP2 offers fast browsing-viewing-searching-marking-actions.
+
+ License : Freeware
+ Author/Publisher : setnaN
+ Modification Date : August 24, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 619 Kb
+
+ Home Page 
+
+ PhotoToolCM 
+
+Contextual menu plugin that helps you manage/organize JPEG photo image files taken by
+digital cameras. This can be a good companion of QuickImageCM. Please read the enclosed
+ReadMe before using it.
+
+ License : Freeware
+ Author/Publisher : Hide Itoh
+ Modification Date : January 14, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.7 MB
+
+ Home Page 
+
+ QuickAccessCM 1.7.2 
+
+Contextual menu plug-in for easy access to frequently used folders,
+documents and applications. The most popular of all contextual menu
+plug-ins developed by Abracode. Adds a "Move To" item to your contextual
+menus to easily send a file to any folder on your Mac.
+
+ License : Freeware
+ Author/Publisher : Abracode Inc.
+ Modification Date : November 2, 2007
+ Requirements : Mac OS X 10.1.2 or higher
+
+ Download 
+File Size: 532 Kb
+
+ Home Page 
+
+ QuickImageCM 2.4 
+
+Contextual menu plugin that makes it possible to view/edit/print image
+files without launching any applications. Also it has various other
+functions like add/remove thumbnail icons, rename image files, convert
+images files to a different format, etc.
+
+ License : Freeware
+ Author/Publisher : Hide Itoh
+ Modification Date : December 18, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.0 MB
+
+ Home Page 
+
+ Shortcuts 2.0 
+
+Shortcuts is a Mac OS X application to assign hot keys to contextual
+menu items. It works only with menu items added by contextual menu
+plug-ins. Version 2.0 also allows you to display a menu with items added
+by CM plug-ins (Even in Snow Leopard).
+
+ License : Freeware
+ Author/Publisher : Abracode
+ Modification Date : August 29, 2009
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 1.3 MB
+
+ Home Page 
+
+ SymbolicLinker 1.3 
+
+As some of you may have noticed, a number of Unix tools, especially file
+and Web servers (such as FTP, NFS, Samba, and Apache), have trouble
+resolving the System 7 style alias files created by the Finder's "Make
+Alias" command. Many of these tools think these alias files are actually
+regular files with nothing inside them, which makes them useless in some
+situations. Just about all Unix tools, however, can resolve symbolic
+links. Symbolic links are similar to aliases, except that they point
+back to the original file in a way that every Unix application can
+understand. Until now, however, creating a symbolic link usually
+involved a trip to the Terminal.
+
+SymbolicLinker is a tiny contextual menu plugin that, once installed,
+allows any user to create symbolic links to files inside the Finder.
+SymbolicLinker does this by adding a contextual menu item to the Finder
+that generates symbolic links to the selected files. The goal of this
+product is to decrease users' trips to the Terminal in order to use the
+"ln -s" command. 
+The plugin requires Mac OS X 10.1 through 10.5.8. It is a two-way
+universal binary with support for the PPC32 and Intel 32 architectures.
+The service requires Mac OS X 10.6 or alter. It is a two-way universal
+binary with support for the Intel 32 and Intel 64 architectures.
+
+ License : Freeware
+ Author/Publisher : Nick Zitzmann
+ Modification Date : August 28, 2009
+ Requirements : Mac OS X 10.1 or higher including Snow Leopard
+
+ Download 
+File Size: 571 Kb
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

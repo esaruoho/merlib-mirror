@@ -1,0 +1,273 @@
+---
+title: "Pilgrim Pull"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/9596/pull20.htm
+order: 7445
+reachable_from_entry: false
+images: 0
+internal_links: 3
+extracted: 2026-08-07T06:00:04Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pilgrim Pull
+
+*Source page: `~samoyed/iwpa/9596/pull20.htm`*
+
+Pull 20
+
+Pilgrim Pull
+
+Redwood Acres, Eureka, CA
+
+Organizer(s): Debi Biss
+
+Region: 10
+
+Track: Very hard packed dirt, few ruts at end
+
+Date: 11/05/95
+
+Weather: Cool, overcast, under arena
+
+Dog's Name
+
+Reg
+
+Pulled
+
+Time
+
+Weight
+
+%
+
+Handler
+
+Breed
+
+35 Class
+
+Taz
+
+10
+
+475
+
+56.43
+
+29
+
+16.38
+
+Mike Lau
+
+Beagle
+
+Hannah
+
+10
+
+355
+
+11.06
+
+13
+
+27.31
+
+Ardith Dahlstrom
+
+Border Terrier
+
+60 Class
+
+\* Idgie
+
+10
+
+1015
+
+65.58
+
+49
+
+20.71
+
+Sara Borok
+
+Siberian Husky
+
+Gussie
+
+P
+
+625
+
+19.09
+
+48
+
+13.02
+
+Amanda Nevers
+
+\* Reba
+
+10
+
+565
+
+24.00
+
+37
+
+15.27
+
+Carole Kindrick
+
+Rottweiler Mix
+
+80 Class
+
+Norma Jean
+
+2
+
+2050
+
+8.27
+
+77
+
+26.62
+
+David Douthit
+
+Am. Bulldog
+
+Carley
+
+10
+
+520
+
+15.97
+
+76
+
+6.84
+
+Debi Biss
+
+Alaskan Malamut
+
+Goldie
+
+P
+
+520
+
+28.62
+
+62
+
+8.39
+
+Julie Aldige
+
+Kelsey
+
+P
+
+520
+
+49.50
+
+61
+
+8.52
+
+Stacy Gaunt
+
+100 Class
+
+\* Jessie
+
+10
+
+1330
+
+48.58
+
+90
+
+14.78
+
+Debi Biss
+
+Alaskan Malamut
+
+Kinko
+
+P
+
+520
+
+23.04
+
+88
+
+5.91
+
+Margaret
+
+120 Class
+
+\* Rocky
+
+10
+
+1780
+
+55.47
+
+101
+
+17.62
+
+Marjorie Grotting
+
+Alaskan Malamut
+
+Unlimited Class
+
+Dudley
+
+2
+
+2350
+
+11.18
+
+164
+
+14.33
+
+Lia Greendale
+
+St. Bernard
+
+\* - Personal best
+
+------------------------------------------------------------------------
+
+[Earlier region 10 pull](pull9.htm)\
+[Later region 10 pull](pull54.htm)\
+[Previous IWPA Pull](pull19.htm)\
+[Next IWPA Pull](pull21.htm)\
+
+[Pull Index](pulllist.htm)
+
+[Wheels Standings](wheels.htm)\
+[Snow Standings](snow.htm)

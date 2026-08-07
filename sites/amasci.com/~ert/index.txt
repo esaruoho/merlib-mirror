@@ -1,0 +1,43 @@
+Ert's Personal Page 
+
+ Hiya! 
+
+I'm Ert, a long-travelled software engineer currently settled in Boston.
+
+ If you're here, you're probably trying to get some info related to
+me for one reason or another. That's somewhat unfortunate, because it's recently come to my attention that this decade-old web site of mine is rather out of date. Sometime in 2003 I'll probably get to updating it, but for now now you can peruse some of the older stuff.
+
+ Try one of:
+
+ Travels 
+
+ I live in Boston now, but I've resided in San Francisco, Houston, and suburban Toronto, as well as travels from Hawai'i to Berlin. Here's a horribly-formatted table of my 6-month walkabout in 1998. 
+
+ Personal page 
+ If you really want to know all the fiddily details of who
+ I am, and to see the cutesy pictures of my pets, here ya
+ go. It needs a lot of updating. 
+
+ My Resume 
+ Work Experience, Education, Extra-curriculars,
+ Publications 
+-->
+
+ Research projects 
+ Some stuff I did while working on degrees. 
+
+ Radio 
+ Working on the interface between information networks and
+ broadcast audio is a hobby of mine, as is noncommercial radio
+ DJing. 
+
+ My PGP key 
+ Feel free to encode anything you want to send. 
+
+ My picons 
+ If you correspond with me and use any of the cool mail
+ programs that let you have a little graphic icon of the
+ person, you might want these. 
+-->
+
+ ert [at] alum [dot] mit [another dot] edu

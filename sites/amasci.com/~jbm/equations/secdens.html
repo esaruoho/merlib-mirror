@@ -1,0 +1,176 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+  <TITLE>
+    JBM - Equations - Sectional Density
+  </TITLE>
+  
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+
+  <STYLE TYPE="text/css">
+    BODY { BACKGROUND: #FFFFFF; COLOR: #000000 } 
+    A:LINK { COLOR: #3333FF }
+    A:VISITED { COLOR: #666699 }
+    A:ACTIVE { COLOR: #CC00FF }
+    A:HOVER { COLOR: #FF3366 }
+  </STYLE>
+
+  <LINK REL="SHORTCUT ICON" HREF="http://www.eskimo.com/~jbm/graphics/jbm.ico">
+
+</HEAD>
+
+<BODY>
+
+<CENTER>
+  <TABLE>
+    <TR>
+      <TD><A HREF="../bibliography/bibliography.html">[Bibliography]</A>
+      <TD><A HREF="../calculations/calculations.html">[Calculations]</A>
+      <TD><A HREF="../downloads/downloads.html">[Downloads]</A>
+      <TD><A HREF="../equations/equations.html">[Equations]</A>
+      <TD><A HREF="../faq/faq.html">[FAQ]</A>
+      <TD><A HREF="../index.html">[JBM]</A>
+      <TD><A HREF="../links/links.html">[Links]</A>
+      <TD><A HREF="../mpm/mpm.html">[MPM]</A>
+      <TD><A HREF="../pm/pm.html">[PM]</A>
+      <TD><A HREF="../personal/personal.html">[Personal]</A>
+      <TD><A HREF="../software/software.html">[Software]</A>
+  </TABLE>
+</CENTER>
+
+
+<HR>
+
+<H1>
+  JBM - Equations - Sectional Density
+</H1>
+
+<P>
+  Sectional density equations and calculations.
+  <A HREF="#REFERENCES">References</A> and
+  a list of <A HREF="#VARIABLES">variables</A> are at the bottom of this
+  page.
+</P>
+
+<H2>
+  Sectional Density and Ballistic Coefficient
+</H2>
+
+<P>
+  The BC, or ballistic coefficient is defined as:
+</P>
+
+<CENTER>
+  BC = w / [i d<SUP>2</SUP>]
+</CENTER>
+
+<P>
+  where the diameter is specified in inches and the weight in
+  pounds and the form factor is found using:
+</P>
+
+<CENTER>
+  i = CD / CD<SUB>G</SUB>
+</CENTER>
+
+<P>
+  The sectional density is defined as:
+</P>
+
+<CENTER>
+  SD = w / d<SUP>2</SUP>
+</CENTER>
+
+<P>
+  making the ballistic coefficient
+</P>
+
+<CENTER>
+  BC = SD / i
+</CENTER>
+
+<P>
+  [NOTE: Some references define the sectional density with the
+  mass not weight.  All the listings I've seen from bullet 
+  manufacturers use weight.  Most ballistics texts use mass.]
+</P>
+
+<P>
+  So this means that the ballistic coefficient is proportional
+  to the weight of the bullet and inversely proportional to 
+  the diameter squared.  (Keep in mind that the ballistic 
+  coefficient is also inversely proportional to the form factor
+  which depends on the shape of the bullet!)
+</P>
+
+<P>
+  Calculation of the sectional density is straight forward.  For
+  a 300 grain, .338 caliber bullet, the sectional density is:
+</P>
+
+<CENTER>
+  SD = [ 300 gr / (7000 gr/lb) ] / [ 0.338 in ]<SUP>2</SUP>
+    = 0.375 lb/in<SUP>2</SUP>
+</CENTER>
+
+<P>
+  NOTE: With the common definition of the sectional density, the 
+  units have to be converted when used with drag functions, velocity, 
+  etc, to convert the in<SUP>2</SUP> to ft<SUP>2</SUP> resulting
+  in a factor of 144.
+</P>
+
+<H2>
+  <A NAME="VARIABLES">Variables</A>
+</H2>
+
+<TABLE WIDTH="100%">
+  <TR>
+    <TD> <B>d</B>  
+    <TD> bullet diameter  
+    <TD> <B>w</B>  
+    <TD> bullet weight  
+  <TR>
+    <TD> <B>SD</B>  
+    <TD> sectional density  
+    <TD> <B>BC</B>  
+    <TD> ballistic coefficient  
+  <TR>
+    <TD> <B>i</B>  
+    <TD> form factor  
+    <TD> <B>G</B>  
+    <TD> "G" function  
+  <TR>
+    <TD> <B>CD</B>  
+    <TD> drag coefficient  
+    <TD> <B>CD<SUB>G</SUB></B>  
+    <TD> drag coefficient of the standard bullet 
+</TABLE>
+
+<H2>
+  <A NAME="REFERENCES">References</A>
+</H2>
+
+<P>
+  <CITE>Hatcher's Notebook</CITE>, Julian S. Hatcher, Major General, 
+  USA, retired, Stackpole Books, Harrisburg, Pennsylvania, Second 
+  printing, 1966.
+</P>
+
+<HR>
+
+<TABLE WIDTH="100%">
+  <TR ALIGN="RIGHT">
+    <TD ALIGN="RIGHT">
+      <SMALL>
+        Last update 3 October 2004, Copyright &copy; 1996-2004
+        <A HREF="mailto:jbm@eskimo.com">JBM</A>
+        <A HREF="http://www.htmlhelp.com/cgi-bin/validate.cgi?url=referer&amp;input=yes">[V]</A>
+      </SMALL>
+</TABLE>
+
+
+</BODY> 
+</HTML>

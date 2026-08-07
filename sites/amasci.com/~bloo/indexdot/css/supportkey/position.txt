@@ -1,0 +1,441 @@
+CSS specification/browser support page: Positioning Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units |
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ Internet Explorer 
+ Netscape 
+ Opera 
+
+ top 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 5.0 
+
+ auto 
+ -- 
+ X 
+ 4.0 
+ 6.0 
+ 4.0 
+
+ [Length] 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 4.0 
+
+ [Percentage] 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 4.0 
+
+ right 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 5.0 
+
+ auto 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ 4.0 
+
+ [Length] 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ 4.0 
+
+ [Percentage] 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ 4.0 
+
+ bottom 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 5.0 
+
+ auto 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ 4.0 
+
+ [Length] 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ 4.0 
+
+ [Percentage] 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ 4.0 
+
+ left 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 5.0 
+
+ auto 
+ -- 
+ X 
+ 4.0 
+ 6.0 
+ 4.0 
+
+ [Length] 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 4.0 
+
+ [Percentage] 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 4.0 
+
+ vertical-align 
+ X 
+ X 
+ 4.0 
+ 4.0 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ baseline|middle 
+ X 
+ X 
+ 4.0 
+ 4.0 
+ 3.5 
+
+ top|bottom 
+ X 
+ X 
+ 4.0 
+ 4.0 
+ 3.5 
+
+ text-top| text-bottom 
+ X 
+ X 
+ 4.0 
+ 4.0 
+ 3.5 
+
+ super|sub 
+ X 
+ X 
+ 4.0 
+ 6.0 
+ 3.5 
+
+ [Length] 
+ -- 
+ X 
+ 6.0 
+ 6.0 
+ 3.5 
+
+ [Percentage] 
+ X 
+ X 
+ 6.0 
+ 6.0 
+ 3.5 
+
+ overflow 
+ -- 
+ X 
+ 4.0 
+ 6.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ visible 
+ -- 
+ X 
+ 4.0 
+ 6.0 
+ 4.0 
+
+ hidden 
+ -- 
+ X 
+ 4.0 
+ 6.0 
+ 4.0 
+
+ scroll 
+ -- 
+ X 
+ 4.0 
+ 6.0 
+ -- 
+
+ auto 
+ -- 
+ X 
+ 4.0 
+ 6.0 
+ -- 
+
+ -moz-scrollbars-none 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ -moz-scrollbars-horizontal 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ -moz-scrollbars-vertical 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ overflow-x 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ visible 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ hidden 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ scroll 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ overflow-y 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ visible 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ hidden 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ scroll 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ text-overflow 
+ -- 
+ -- 
+ 6.0 
+ -- 
+ -- 
+
+ clip 
+ -- 
+ -- 
+ 6.0 
+ -- 
+ -- 
+
+ ellipsis 
+ -- 
+ -- 
+ 6.0 
+ -- 
+ -- 
+
+ clip 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0?? 
+ -- 
+
+ auto 
+ -- 
+ X 
+ 4.0 
+ 6.0 
+ -- 
+
+ [Shape] 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ -- 
+
+ z-index 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ auto 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 6.0 
+
+ [Integer] 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 6.0 
+
+ Boring Copyright Stuff...

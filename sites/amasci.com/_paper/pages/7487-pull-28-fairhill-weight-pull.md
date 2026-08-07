@@ -1,0 +1,750 @@
+---
+title: "Pull 28 -- Fairhill Weight Pull"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/9899/Pull28.html
+order: 7487
+reachable_from_entry: false
+images: 0
+internal_links: 7
+extracted: 2026-08-07T06:00:07Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 28 -- Fairhill Weight Pull
+
+*Source page: `~samoyed/iwpa/9899/Pull28.html`*
+
+Fairhill Weight Pull\
+Fairhill, Maryland
+=====================
+
+Pull: 28
+
+Organizer(s): Melissa Kehler-Swoyer
+
+Wheels Region: 6
+
+Grass
+
+Track: It was a tough surface. It had a slight uphill grade and it developed some "ruts". This event was held in conjunction with a gig race. Saturday we had a seminar that went over IWPA rules and then we had a novice pull. Had a nice turnout in spite of rain.
+
+Date: 12/6/98
+
+Weather:
+
+Unseasonably warm and sunny
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Dink
+
+5
+
+750
+
+5.45
+
+54
+
+13.89
+
+16.0
+
+Ron Poitras
+
+Am. PitBull Terrier
+
+Jack
+
+P
+
+750
+
+32.23
+
+48
+
+15.63
+
+.
+
+Carolyn Brandt
+
+Siberian Husky
+
+Iceman
+
+6
+
+650
+
+11.63
+
+59
+
+11.02
+
+10.0
+
+Toni Yoakam
+
+Siberian Husky
+
+Justice
+
+6
+
+650
+
+19.58
+
+58
+
+11.21
+
+8.0
+
+Janet McMillan
+
+Am. PitBull Terrier
+
+Slick
+
+6
+
+650
+
+33.37
+
+58
+
+11.21
+
+7.0
+
+Janet McMillan
+
+Am. PitBull Terrier
+
+Zorro
+
+5
+
+550
+
+4.84
+
+54
+
+10.19
+
+6.0
+
+Steve Jackson
+
+Siberian Husky
+
+Thorn
+
+P
+
+500
+
+6.81
+
+48
+
+10.42
+
+.
+
+Jackie Baker
+
+Siberian Husky
+
+Ginger
+
+7
+
+500
+
+8.65
+
+50
+
+10.00
+
+4.0
+
+Debbie Lee
+
+Am. PitBull Terrier
+
+Jake
+
+5
+
+450
+
+8.25
+
+52
+
+8.65
+
+3.0
+
+Steve Jackson
+
+Siberian Husky
+
+Peanut
+
+5
+
+350
+
+4.50
+
+48
+
+7.29
+
+2.0
+
+Nancy Bobik
+
+Am. PitBull Terrier
+
+Majic
+
+6
+
+No Pull
+
+56
+
+.
+
+0.0
+
+Toni Yoakam
+
+Siberian Husky
+
+Kiana
+
+5
+
+No Pull
+
+46
+
+.
+
+0.0
+
+Diane Geitzenauer
+
+Samoyed
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Bess
+
+6
+
+1100
+
+30.09
+
+74
+
+14.86
+
+12.0
+
+Larry Brillhart
+
+Alaskan Malamute
+
+Ringo
+
+6
+
+1000
+
+7.82
+
+80
+
+12.50
+
+9.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Bobbie-Sue
+
+7
+
+800
+
+22.59
+
+74
+
+10.81
+
+6.0
+
+Debbie Lee
+
+Am. Bull Dog
+
+K. C.
+
+5
+
+600
+
+6.62
+
+72
+
+8.33
+
+4.0
+
+Steve Jackson
+
+Mixed
+
+A.J.
+
+5
+
+600
+
+31.19
+
+68
+
+8.82
+
+3.0
+
+Nancy Bobik
+
+Am. PitBull Terrier
+
+Laika
+
+5
+
+500
+
+6.16
+
+72
+
+6.94
+
+2.0
+
+Frank Caldwell
+
+Alaskan Malamute
+
+Speckles
+
+5
+
+400
+
+4.47
+
+68
+
+5.88
+
+1.0
+
+Steve Jackson
+
+Alaskan Malamute
+
+Troika
+
+5
+
+300
+
+17.66
+
+64
+
+4.69
+
+0.5
+
+Diane Geitzenauer
+
+Samoyed
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Zena
+
+6
+
+1300
+
+9.31
+
+91
+
+14.29
+
+11.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Blitz
+
+6
+
+1300
+
+30.17
+
+93
+
+13.98
+
+8.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Sarg
+
+6
+
+1200
+
+33.84
+
+98
+
+12.24
+
+5.0
+
+Larry Brillhart
+
+Alaskan Malamute
+
+Takoma
+
+5
+
+1000
+
+11.38
+
+94
+
+10.64
+
+3.0
+
+Frank Caldwell
+
+Alaskan Malamute
+
+Chinook
+
+5
+
+900
+
+13.25
+
+98
+
+9.18
+
+2.0
+
+Brian Heft
+
+Alaskan Malamute
+
+Zig-Zag
+
+5
+
+500
+
+11.38
+
+86
+
+5.81
+
+1.0
+
+Steve Jackson
+
+Alaskan Malamute
+
+Yingling
+
+5
+
+300
+
+10.56
+
+83
+
+3.61
+
+0.5
+
+Steve Jackson
+
+German Shepherd
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Ox
+
+5
+
+1460
+
+5.88
+
+106
+
+13.77
+
+7.0
+
+Ron Poitras
+
+Am. Bull Dog
+
+Brutus
+
+5
+
+1040
+
+10.00
+
+119
+
+8.74
+
+4.0
+
+Melissa Swoyer
+
+Alaskan Malamute
+
+Fiacc
+
+5
+
+1040
+
+23.24
+
+114
+
+9.12
+
+1.0
+
+Regina Caldwell
+
+Alaskan Malamute
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Butkus
+
+7
+
+1460
+
+17.24
+
+170
+
+8.59
+
+8.0
+
+Terry Lee
+
+Mastiff/Bernard
+
+Goldie
+
+5
+
+1040
+
+8.56
+
+122
+
+8.52
+
+5.0
+
+Melissa Swoyer
+
+Alaskan Malamute
+
+Blazer
+
+5
+
+1040
+
+19.56
+
+124
+
+8.39
+
+2.0
+
+Steve Jackson
+
+Alaskan Malamute
+
+Hugo
+
+5
+
+480
+
+7.16
+
+130
+
+3.69
+
+0.5
+
+Charlie Fant
+
+Saint Bernard
+
+Last Updated: 15:04:18 on 01-17-1999
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](%20%20%20%20%20%20%20%20%20%20Pull27.html%20%20%20) | [Next Pull \#](%20%20%20%20%20%20%20%20%20%20Pull29.html%20%20%20) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

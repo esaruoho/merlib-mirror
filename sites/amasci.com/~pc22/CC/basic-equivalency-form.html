@@ -1,0 +1,149 @@
+<HTML>
+<!-- hide
+function queryClimbsDB(Branch,Class) {
+
+var currDate=new Date()
+var queryString="/mountaineers/"
+var queryHost="http://larch.forest.net"
+
+queryString+="FMPro?-DB=Trips98_.fp4"
+queryString+="&-Format=trip_schedule2.htm"
+queryString+="&-Lay="
+queryString+=escape("Trip Signup View")
+queryString+="&-Op=gt"
+queryString+="&Date="
+queryString+=1+currDate.getMonth() 
+queryString+="/"
+queryString+=currDate.getDate()
+queryString+="/"
+queryString+=currDate.getYear()
+if (Class != "") {
+   queryString+="&TripClass="
+   queryString+=Class
+   }
+if (Branch != "") {
+   queryString+="&Branch="
+   queryString+=Branch
+   }
+queryString+="&-Max=20"
+queryString+="&-SortField=Date"
+queryString+="&-Find"
+
+// alert(queryString)
+ 
+window.location = queryHost + queryString
+}
+
+// unhide -->
+<!--This file created 08/04/99 18:44 by Claris Home Page version 3.0-->
+<HEAD>
+   <TITLE>Basic Equivalency Form</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 3.0">
+</HEAD>
+<BODY BGCOLOR="#E5ECEF">
+<P><FORM ACTION="" METHOD=POST>
+   <H2>Basic Equivalency Application Form</H2>
+   
+   <P>
+   
+   <HR ALIGN=left>
+   
+   </P>
+   
+   <P>Note: each application for Basic Equivalency is evaluated on an
+   individual basis. Please provide the following information. Be
+   brief, but complete.</P>
+   
+   <P><B>This form must be recieved at the Mountaineers clubhouse
+   before the published deadline.</B></P>
+   
+   <BLOCKQUOTE><DL>
+         <DD>The Mountaineers</DD>
+         
+         <DD>300 Third Avenue West</DD>
+         
+         <DD>Seattle, WA 98119</DD>
+         
+         <DD>Attn: Basic Administration</DD>
+      </DL>
+   </BLOCKQUOTE>
+   
+   <P>There is no fee for filing this application. If you are accepted for the
+field trip, you must then pay a $25 fee to sign up for the trip. Please make your
+check payable to The Mountaineers.</P>
+   
+   <P><B>1.</B></P>
+   
+   <DL>
+      <DD><CENTER><TABLE BORDER=1 CELLPADDING=0 WIDTH=488 HEIGHT=84>
+         <TR>
+            <TD WIDTH="72%">
+               <P>&nbsp;Name: <INPUT TYPE=text NAME=name VALUE="" SIZE=32></P>
+            </TD>
+            <TD WIDTH="28%">
+               <P>&nbsp;Age:<INPUT TYPE=text NAME=name VALUE="" SIZE=2 MAXLENGTH=2></P>
+            </TD>
+         </TR>
+         <TR>
+            <TD WIDTH="72%">
+               <P>&nbsp;Address:<INPUT TYPE=text NAME=name VALUE="" SIZE=32></P>
+            </TD>
+            <TD WIDTH="28%">
+               <P>&nbsp;Phone:<INPUT TYPE=text NAME=name VALUE="" SIZE=12></P>
+            </TD>
+         </TR>
+         <TR>
+            <TD WIDTH="72%">
+               <P>&nbsp;City:<INPUT TYPE=text NAME=name VALUE="" SIZE=30>State:<INPUT TYPE=text NAME=name VALUE="" SIZE=2>Zip:<INPUT TYPE=text NAME=name VALUE="" SIZE=5></P>
+            </TD>
+            <TD WIDTH="28%">
+               <P>&nbsp;Member #: <INPUT TYPE=text NAME=name VALUE="" SIZE=6></P>
+            </TD>
+         </TR>
+      </TABLE>
+      </CENTER></DD>
+   </DL>
+   
+   <P><B>2. </B>Please attach a copy of your MOFA card<B>. </B>(Note,
+   an applicant may be approved pending MOFA, so if you have not yet
+   completed MOFA, you may still apply).</P>
+   
+   <P><B>3. </B>Please list any climbing courses that you have
+   completed.</P>
+   
+   <BLOCKQUOTE><DL>
+         <DD>a. Name of organization</DD>
+         
+         <DD>b. Date of course</DD>
+         
+         <DD>c. Were successful summit climbs required for
+         graduation?</DD>
+         
+         <DD>d. Did you graduate?</DD>
+      </DL>
+   </BLOCKQUOTE>
+   
+   <P><TEXTAREA NAME=name ROWS=18 COLS=72 WRAP=virtual></TEXTAREA></P>
+   
+   <P><B>4</B>. Please describe your climbing experience. Please list
+   recent, successful climbs. Include peak name, location, route,
+   difficulty, date of the climb, names of other party members, and
+   your role in the party.</P>
+   
+   <P><TEXTAREA NAME=name ROWS=48 COLS=72 WRAP=virtual></TEXTAREA></P>
+   
+   <P><B>5.</B> Please list any conservation service you have
+   performed, with the date of service, hours performed, project
+   leader and a brief description of the project.</P>
+   
+   <P><TEXTAREA NAME=name ROWS=18 COLS=72 WRAP=virtual></TEXTAREA></P>
+   
+   <P>&nbsp;</P>
+   
+   <CENTER><B>Please print this completed form out, and send it in to
+   the Mountaineers Clubhouse,<BR>
+   with the </B><A HREF="course-registration-form.html"><B>Course
+   Registration Form</B></A><B>.</B></CENTER>
+</FORM></P>
+</BODY>
+</HTML>

@@ -1,0 +1,40 @@
+Uncle Chuck's Animated Sokoban Puzzle Solutions 
+
+ Uncle Chuck's Animated Sokoban Puzzle Solutions (.gif Files) 
+
+Uncle Chuck has generated .gif files that animate the 
+solutions to 22 of 379 Sokoban puzzles. Uncle Chuck may 
+publish additional animations of Sokoban puzzle solutions in the 
+future. 
+
+ The Animations (.gif Files) 
+
+ CLICK HERE to view animated solution to Puzzle 0001 
+ CLICK HERE to view animated solution to Puzzle 0002 
+
+ CLICK HERE to view animated solution to Puzzle 0189 
+ CLICK HERE to view animated solution to Puzzle 0190 
+ CLICK HERE to view animated solution to Puzzle 0191 
+ CLICK HERE to view animated solution to Puzzle 0192 
+ CLICK HERE to view animated solution to Puzzle 0193 
+ CLICK HERE to view animated solution to Puzzle 0194 
+ CLICK HERE to view animated solution to Puzzle 0195 
+ CLICK HERE to view animated solution to Puzzle 0196 
+ CLICK HERE to view animated solution to Puzzle 0197 
+ CLICK HERE to view animated solution to Puzzle 0198 
+ CLICK HERE to view animated solution to Puzzle 0199 
+ CLICK HERE to view animated solution to Puzzle 0200 
+ CLICK HERE to view animated solution to Puzzle 0201 
+ CLICK HERE to view animated solution to Puzzle 0202 
+ CLICK HERE to view animated solution to Puzzle 0203 
+ CLICK HERE to view animated solution to Puzzle 0204 
+ CLICK HERE to view animated solution to Puzzle 0205 
+ CLICK HERE to view animated solution to Puzzle 0206 
+ CLICK HERE to view animated solution to Puzzle 0207 
+ CLICK HERE to view animated solution to Puzzle 0208 
+
+ CLICK HERE... to go to Uncle Chuck's Sokoban Solutions - Interactive Java Applets Freeware 
+
+ CLICK HERE... to go to Uncle Chuck's Home Page 
+
+(c) Copyright Uncle Chuck (Charles W. Dickens) 1999, 2000, 2001

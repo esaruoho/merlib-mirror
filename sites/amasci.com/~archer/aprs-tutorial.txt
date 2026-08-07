@@ -1,0 +1,412 @@
+Subject: APRS Articles, Part I
+From: Arte Booten <n2zrc@webspan.net>
+Date: Tue, 09 Jan 2001 19:34:18 -0500
+X-Message-Number: 20
+
+The Automatic Position Reporting System
+An Overview and Introduction
+by Arte Booten,  N2ZRC <n2zrc@arrl.net>
+
+     Many of you have heard about a packet radio program called  The Au-
+tomatic Position Reporting System,  (also called APRS.)   It's  a system
+which,  unlike a BBS, node and DX cluster,  uses an unconnected protocol
+to transmit  your exact position,  a symbol denoting the type of station
+you're
+running and a brief comment about it.  It also uses keyboard-to-
+keyboard "chat",  has direction-finding capabilities and much more.
+
+     How does it work?  In its simplest form, you transmit a packet con-
+taining your callsign, exact latitude and longitude, information on your
+transmitter's power, antenna height, gain and pattern as well as a brief
+comment of your choosing,  along with some symbols which make the system
+work.  With this information your station appears graphically - on a map
+(or one in a series of many maps) on your computer's monitor.   It'd al-
+so appear on the screens of other stations that are on frequency.   Your
+station would similarly appear on theirs. Since APRS uses an UNCONNECTED
+protocol, on-air packets can be kept to a minimum.
+
+     Consider this:  When you connect to your local node, using standard
+AX.25, you send a connect request to it.  It'll acknowledge that packet,
+then send you a connected packet which you must then acknowledge.   This
+same thing happens with each and every packet you, or the other station,
+send.
+
+     With APRS you need send only ONE packet to convey your information.
+If it's not received on the first transmission, APRS retransmits it, us-
+ing a decaying time delay (that is, the second packet is sent eight sec-
+onds after the first, the third fifteen seconds later, the fourth half a
+minute later, the fifth a minute later, the sixth two minutes later etc.
+until, after two hours, you're only sending three packets an hour!)   It
+makes more efficient use of the frequency.
+
+     APRS uses several different kinds of digipeaters in order to propa-
+gate beyond their immediate area.  They use aliases such as RELAY, WIDE,
+TRACE, ECHO and GATE.  There are also variations of WIDE and TRACE known
+as WIDEn-n and TRACEn-n.   A RELAY station (the default setting) are us-
+ually base stations, and are used to digipeat low-power portable and mo-
+bile stations.  They are an essential part of the APRS system as a whole
+which is why most versions of APRS default to it.
+
+     WIDE digipeaters retransmit  packets addressed either to their spe-
+cific MYCall or the generic  WIDE to other local VHF stations and WIDEs.
+Some have the ability to change that generic WIDE to its own MYCall.
+
+     ECHO stations performs a similar function on HF.   GATEs retransmit
+signals from HF to VHF.   However, they should NEVER be used to retrans-
+mit from VHF to HF.   This is because VHF APRS uses 1200-baud signals on
+144.39 MHz in most parts of North America.  HF APRS uses 10.151 MHz LSB,
+just inside the upper edge of the 30-meter band, which is limited to us-
+ing a maximum of 300-baud.
+
+When setting up APRS for your location, you'd set your digipath based on
+the situation at that QTH and where you want your packets to go.  In us-
+ing keyboard-to-keyboard communication (the only comms that use "ACK's")
+you can also set alternate digipeater paths.   Not only does this direct
+your message via the shortest possible route, but it also reduces QRM.
+
+     The program also interfaces with popular weather stations,  such as
+those made by Davis and Peet Brothers, showing real-time weather data at
+the touch of a key.  The potential for this during SKYWARN situations is
+obvious.  You'll get wind speed and direction, temperature, rainfall am-
+ounts by the hour and 24-hour period and, in some cases, barometric rea-
+dings.   Such weather data can also be entered manually if a station has
+the information but not the hardware.
+
+     There's also a Direction-Finding mode which can be used by stations
+with either a beam or omni antenna!   When the "fox" transmits, stations
+can call, by voice (on another frequency) or keyboard beam headings and/
+or signal strength.   Using the antenna gain figures for these stations,
+circles are drawn on the map.   The "fox" will usually be located at the
+converge of these circles.  If you have one of the many "doppler" anten-
+na systems, they can also be used.
+
+     If DX-ing is your thing, there's a "DX-mode" which also uses the UI
+protocol by simply monitoring the DX cluster frequency. As a new spot is
+posted, they appear on the map with their callsign,  based on their pre-
+prefix.   Obviously, since you're not connected to the cluster, it's not
+meant as a replacement to your normal AX.25 program,  and you can't SEND
+messages, but you can receive them (the program will flag yours and dis-
+play them when asked.)  It's just another tool for your county- or coun-
+try-hunting efforts.
+
+     If you have a Global Positioning System  (GPS)  receiver with NMEA-
+0183 output this, too, can be utilized with amazing results!   Your mob-
+ile or portable position can be regularly updated.   Using a stand-alone
+tracker (including radios such as Kenwood's TH-D7a HT and TM-D700 mobile
+rig) you don't even need a computer.   All you need is an H-T, TNC and a
+GPS!  Think about the possibilities for such a setup in something like a
+marathon, walkathon or even for someone shadowing an important official.
+
+     The DOS version of APRS was written to be able to run on just about any
+PC
+clone from the latest Pentium IV  down to a lowly 8086.   Heck, I
+know several  people that use it with a Hewlett-Packard  HP-200 palmtop!
+Maps are available from a large-scale map of the whole world to extreme-
+ly detailed street-level maps.   It's lots of fun, has many  ARES/RACES/
+SKYWARN uses and I'm sure you'll enjoy playing with it!
+
+
+------------------------------------------------------------------------
+
+
+SOME REALLY SIMPLE BASIC INSTRUCTIONS ON GETTING APRS ON THE AIR NOW
+by Arte Booten,  N2ZRC <n2zrc@arrl.net>
+
+     In order to start using APRS,  you'll need the following equipment,
+much of which you may already own:
+
+     I.   A two-meter transceiver.   Neither CTCSS nor frequency agility
+is necessary.  Lots of older rigs, particularly HT's, can be had for al-
+most nothing at hamfests.
+
+     II.  A TAPR-2 compatible Terminal Node Controller (TNC).  This cov-
+ers practically every TNC built for the past fifteen or so years.   Kan-
+tronics, PacComm and AEA are popular brands to choose from.   Older ones
+can also often be found on tables at a 'fest.
+
+     III. A computer.  There are versions of APRS written for Macintosh,
+Windows, Linux, WindowsCE and the Palm OS.  The DOS version, however, is
+able to run on practically *any* PC-compatible computer ... even ancient
+8086's!  These articles focus on APRSDos (which runs just fine under Win
+3.x, 9.x, NT and 2k and Linux (using dosemu), and the following descrip-
+tions are for installing it and getting it running on a PC.
+
+     IV.  Assorted cabling, power supply, antenna, etc.
+
+     V.   The program.  Simply point your browser at the archives of The
+Tucson Amateur Packet Radio organization (or use FTP), by going to:
+
+               ftp://ftp.tapr.org/aprssig/dosstuff/APRSdos/
+
+and look for the latest version.  It ought to be just large enough to be
+able to fit onto one floppy disk.  While there, go up a few levels, then
+burrow down into the Maps/PCmaps area.   You'll find a file there called
+"nynyc01.zip", which contains street-level maps of most of New York City
+made by the author of this article.
+
+     In this example I'll use the non-existant APRS version 9.99, which
+would be called "APRS999.zip."  Substitute the appropriate file name for
+this.
+
+     If you use  PkZip204,  put the  APRS disk into your floppy drive of
+choice (I'll call it drive A) then expand the APRS files, using the fol-
+lowing commands on the hard drive of choice (C in this example):
+
+     Change to the root directory  C:\>CD\
+     Make an appropriate directory C:\>MD APRS
+     Change to this directory      C:\>CD \APRS
+     Switch to the A drive         C:\>A:
+     Run PKUNZIP with directories  A:\>PKUNZIP -d APRS999.zip C:\APRS
+
+     Don't forget to use that "-d" switch.  This lets it create the nec-
+cessary subdirectories.
+
+     If using WINZIP, change to drive A and double-click on APRS999.zip,
+click the expand button,  tell it where you want APRS to live and follow
+onscreen directions.
+
+	Make sure your TNC is in Terminal or Command mode (whatever it's
+called by the manufacturer.)  At the C:\> prompt, go to your chosen APRS
+folder and invoke "APRS999.exe".   If you're using Windows, just double-
+click on that file.  This brings us to the LOGO screen.  Enter your call
+and SSID, if any.   Tell it which  TNC  you're using.   Answer the other
+various questions.  When you're done, the main map screen will appear.
+
+     Now press the arrow keys (or use your mouse) to bring the cursor to
+your approximate location (keep your eye on the upper left corner of the
+screen which shows latitude/longitude of the cursor.)   Then press  HOME
+to center the screen on it.   Use the PgDN key  to zoom in a few screens
+and tweak the cursor to your EXACT QTH.  Once the cursor is at the right
+spot hit the HOME key again.
+
+     Press I(nput) M(y) P(osition) and confirm your lat/long.  Then pick
+a symbol for yourself, type in a brief comment, and verify it.  Once you
+press that "Y" you're essentially ready to go on the air.   In it's most
+basic form, you're configured!  Tune the radio to 144.39, hook it up and
+see what you can see.  It might take a few minutes for other stations to
+appear (assuming there are some)  but if you get a little impatient, try
+pressing  X(mit)  Q(uery) and give it a radius such as 64 to force posi-
+tion reports from others.
+
+     Look for stations whose symbol is a green star.  THESE ARE THE WIDE
+DIGIPEATERS!  Is there one near you?  Now press the "D" key.  If an ast-
+erisk  (*) appears next to a callsign  (hopefully that nearby WIDE), you
+hear
+it directly.   Make a note of that nearby WIDE station's digipeater
+path.
+
+     Now you're going to set YOUR digipeater path.  Press O(perations)
+E.  If you heard that WIDE station directly, enter it's callsign and its
+ssid, if any.  Follow this with a comma, then type in "WIDE".  For exam-
+ple: "N2MH-15,WIDE" would be how I might enter it here in The Bronx, but
+the nearest WIDE to YOU is what YOU'RE looking for.
+
+     Next you want to set your Power-Height-Gain figures.  Press I(nput)
+M)y) P(ower)  and tell it how many watts you're using,  the elevation of
+your antenna above AVERAGE terrain  (look at a topographical map of your
+area,) it's gain in dBd and the antenna's directional pattern in degrees
+or 0 (zero)for an omnidirectional antenna.
+
+     Finally, set your Status Text by pressing I(nput) M(y) S(tatus) and
+typing in a short comment, different than what you used in your Position
+Text earlier.   At this point, you're about as far as you need to go for
+now.
++----------------------------------------------------------------------+
+|Arte Booten  <n2zrc@arrl.net> AEC for Digital Services, NYC ARES/RACES|
++----------------------------------------------------------------------+
+
+
+------------------------------------------------------------------------
+
+
+Subject: APRS Articles, Part II
+From: Arte Booten <n2zrc@webspan.net>
+Date: Tue, 09 Jan 2001 19:15:43 -0500
+X-Message-Number: 19
+
+APRS: Using It
+(or: Now that I've got it set up, how do I make it work for me?)
+by Arte Booten,  N2ZRC <n2zrc@arrl.net>
+
+     In other articles I've described what The Automatic Position Repor-
+ting System is and how to get it set up on your computer and radio.   So
+you're now probably telling yourself "OK, great.   I've got all of these
+stations appearing on my screen.  Now what do I do?"
+
+     One feature in APRS is the ability to send what we call one-liners;
+that is, one-line messages from station to station either direct, or via
+digipeaters.  From the main APRS screen press S(end), type the station's
+call and <cr>.  Then type your message and another <cr>.  You'll know if
+they got it when you receive an *ACK* which replaces the first five cha-
+racters of your message.   These one-liners are the only  situation when
+APRS uses anything other than UI packets.
+
+     When you send a message in this manner it will be sent via the same
+digipeater path as your position and ID packets.   If the station you're
+trying to send to is someplace else, you can STILL send it there (if us-
+ing APRSDos or pocketAPRS)  by specifying any of several alternate digi-
+peater paths which the program can store for you.   If you press O(pera-
+tions) D(igipath) S(ave), you're prompted to enter a two-letter code for
+that path via whatever path you choose, such as:
+
+          NJ VIA WB2ZII,N2MH-15,KB2EAR-1,K3ATI-11
+
+to get to Southern New Jersey from Westchester.  To see the paths you've
+stored, press O(perations) D(igipath) L(ist).  The MAIN purpose of these
+alternate paths is to keep the QRM to a minimum, and to use the most di-
+rect and, sometimes, the only feasible path.
+
+     The weather systems  feature of APRS allows you to see weather data
+in real-time, transmitted by stations with using several different kinds
+of autometed weather stations, including those made by Peet Bro's, Davis
+Instruments and Oregon Scientific (which made the Radio Shack unit).
+
+     Depending on which options the weather station owner installed, you
+can get different kinds of  information including temperature,  rainfall
+amounts (to the 1/100th inch) in the past hour and 24 hour periods, wind
+speed, direction and gusts and barometric pressure.   Press W(eather) to
+see a list of options to choose from.
+
+     If at any time you wish to cease transmitting without shutting down
+the program, simply touch C(ommands) X(mit).   This toggles the TX timer
+within APRS.   You will still send out whatever the TNC itself is set to
+transmit  at their predetermined periods.   When you want to send a spe-
+cific packet  (usually your position),  you can do so by pressing X(mit)
+P(osition)  [or S(tatus), M(essage), S(tatus), O(bject) or A(ll), as the
+case may be.]
+
+     In order to find a station on the screen, use  O(perations)  F(ind)
+(what else!) command.   If you'd like to see something really neat,  try
+O(perations) R(eplay) with a mobile station.   You'll see that station's
+track being replayed.  To access your TNC you'd use O(perations) C(omms)
+T(NC) which leads you to a very basic terminal screen.   To get stations
+to appear on your screen faster  (within two or three minutes) you'd use
+O(perations) Q(uery), followed by a radius in miles from you.
+
+     Now that you've been QRV with APRS for a few hours,  you don't par-
+ticularly want to wait  for all those stations to reappear if,  for some
+reason, you have to exit the program.   No problem.   When you shut down
+APRS by pressing Q(uit) Q(uit) <cr> <cr>,  it asks if you want to save a
+backup (it'll do so by default).   Next time you fire it up, you'd press
+F(iles) L(oad), then type BACKUP.BK .  Every time you shut APRS down, it
+saves this file, replacing the previous copy.   Be aware,  though,  that
+all of those packets are timed,  and any station in this backup that was
+heard more than two hours ago will "gray-out" (APRS considers them to be
+inactive and makes room for more stations that way.)
+
+     One thing to bear in mind when playing APRS is that the best way to
+learn, as with anything else, is by doing.  You can use most of the com-
+mands as much as you want.   You're not going to BREAK anything!   About
+the worst thing that can happen is a lockup, and this is rare.   Usually
+the three-fingered-salute (Ctrl-Alt-Del)  will get you out of it and you
+have to start over.  So play with the thing.  I mean, how do you think I
+learned all this about APRS stuff, by reading about it?
+
+     Speaking of reading about it,  yes I did.   It's all right there in
+the APRS distribution zip file.  You can always read those files by just
+pressing F1 F(iles)  and typing in the name of the file you want to see.
+One suggestion: if you're a slow reader, press the down-arrow button ev-
+ery so often,  as APRS seems to get impatient with you when it just sits
+there while you re-read that paragraph for the umpty-umph time and push-
+es you back into the program.
+
+     There are dozens of these readme files in the "README" folder.  You
+can also see them  (at your leisure and there for the printing) by using
+any old text editor.  Many of the answers to your questions can be found
+there, sometimes buried deep and not quite as visible as you'd like.
+
+     I hope you've enjoyed this series about APRS and hope to see you on
+the map in the near future.   Whenever I see a new station on the screen
+I try to send them a one-liner, welcoming them to APRS and offering live
+assistance and advice.  Feel free to take advantage of this or ask ques-
+questions of any station on the air at that time.  We're all very excit-
+ed about this program and think that  "the more, the merrier" is the way
+to go.  We've gotten a lot of "converts" in the last few years, and this
+situation can only improve so come and join us on 144.390!            73
+
+
+------------------------------------------------------------------------
+
+
+         FIGURING OUT THE BEST DIGIPEATER PATH FOR APRS PACKETS
+                  (or, Which Way Do They Go, George?)
+                 by Arte Booten, N2ZRC <n2zrc@weca.org>
+
+     As with any packet  networking,  path selection depends on what can be
+heard by you  and those that can actually  hear you.  You can get the
+equivalent of an MHEARD command, showing you the paths stations near you
+are using and which stations you hear direct by pressing the  D(igipeat)
+key.  See who these are.  Hopefully, one of them will be a WIDE.
+
+     Any  APRS  network relies on the majority of fixed stations  having
+their TNC's  DIGIpeat function turned on and their MYAlias set to RELAY.
+Since APRS is an unconnected protocol,  packet nodes  (with a few excep-
+tions), which rely on connections  and error-checking for data transfer,
+are counterproductive.  APRS utilizes that  DIGIpeat function by the use
+of GENERIC callsigns as a TNC's alias(es), most commonly RELAY and WIDE.
+
+     There are various  flavors of WIDE,  all represented differently on
+the screens of different APRS  versions.   But first let me describe the
+function of  RELAY in the APRS network,  as this is a useful,  but often
+misused,  generic callsign.   RELAY stations  generally consist of  your
+average  "Joe Aperze"  in order to allow low-power,  low gain mobile and
+portable stations into the network.  In many areas, most of these RELAYs
+are able to hit the nearest WIDE directly.
+
+     This means that if you can hear and get digi'd by the nearest  WIDE
+from a fixed location with reasonable consistency,  you should AVOID THE
+USE OF RELAY because if a WIDE hears you,  others probably can as well..
+and they're probably also using the alias RELAY.  This causes collisions
+as each of the RELAYs that hear you try to digipeat your packet at about
+the same instant.  And your packet will probably die then and there.
+
+     Now back to the  various flavors of WIDE.   The first is just that.
+It'll digipeat  anything that specifically goes via its callsign as well
+as to the generic callsign WIDE, shown as a small green star in APRSDos.
+Sometimes, there's also a weather station associated with this  DIGI, in
+which case APRSDos shows them as a green circle.  Next comes WIDE-RELAY.
+These are TNC's that can have two aliases and digi packets addressed via
+RELAY, WIDE or its own callsign and show on APRSDos as big green stars.
+
+     We also use WIDEs that use an alias of TRACE.   Their firmware sup-
+ports the  DIGI-SWAP  function.   When it DIGIs something  addressed via
+one of its generic callsigns it changes that GENERIC callsign to that of
+its own in the VIA: field of that packet.  This allows people to see how
+the network is  propagating and makes  selection of paths  a bit easier.
+Those of us running APRSDos, WinMacAPRS and pocketAPRS see these as that
+large star with a T in the middle.
+
+     The next type uses something the inventor of APRS (The Great Oracle
+of Glen Burnie)  Bob Bruninga, WB4APR,  first proposed several years ago
+to enhance unconnected networking  via amateur packet radio and  Kantro-
+nics recently picked up on.  It uses a scheme Bob calls WIDEn-n.  "N" is
+a number between 1 & 6.   The first of these would represent  the number
+of "hops" you want to take.
+
+     The second of these numbers  depends on how many times  that packet
+has been digipeated  by the time the last digi retransmitted  it.   It's
+set by the firmware in current  Kantronics TNC's  (but I understand that
+others *MAY* be coming out with it in the "near" future)  and decrements
+one  from that number on the packet  it's heard, but hasn't yet  DIGI'd.
+WIDEn-n TNC's  can also be set for callsign substitution, as I described
+above.  They have an N in the middle of the green star.
+
+     The  beauty of  WIDEn-n  is seen best  in a network in which  most,
+if not all, WIDEs in a given area have such firmware.   In others, users
+of callsign substitution might consider shutting that feature off.   Un-
+fortunately,  not everybody that has a digi is  USING Kantronics' stuff.
+And some of those that are  aren't willing or able  to change the  chip.
+This pretty much  describes the  APRS  network in my part of  the woods.
+
+     What's the best path?   Look around.   Who hears you.   Who do they
+hear.   And where do you  want the packets to go?   I suppose you'd like
+a nice, stable path from  Montauk to  Albany and  Newark to Binghampton.
+Good luck.   The path you need is there, if you can see  anybody else on
+your screen.   If a Green Star  can hear you,  then that's gonna be your
+starting point.  From there, just follow the bouncing green stars.  73
++----------------------------------------------------------------------+
+|Arte Booten  <n2zrc@arrl.net> AEC for Digital Services, NYC ARES/RACES|
+|Riverdale, New York    [FN30bu]    !4052.71N/07354.06WNPHG5370/A=00240|
+|PGP Key Fingerprint: D73E B889 C630 6F4A F31F 3083 56BD 0AAD 9996 3B03|
++----------------------------------------------------------------------+
+

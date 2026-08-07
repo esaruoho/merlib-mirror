@@ -1,0 +1,169 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>Mountaineers: Climbing Program Overview</title>
+		<script language="JavaScript"><!--
+function queryClimbsDB(Branch,Class) {
+
+var currDate=new Date()
+var queryString="/mountaineers/"
+var queryHost="http://larch.forest.net"
+var yrString = (currDate.getYear() < 1900) ? currDate.getYear() + 1900 :
+currDate.getYear();
+
+queryString+="FMPro?-DB=Trips98_.fp4"
+queryString+="&-Format=trip_schedule2.htm"
+queryString+="&-Lay="
+queryString+=escape("Trip Signup View")
+queryString+="&-Op=gt"
+queryString+="&Date="
+queryString+=1+currDate.getMonth() 
+queryString+="/"
+queryString+=currDate.getDate()
+queryString+="/"
+queryString+=yrString
+if (Class != "") {
+   queryString+="&TripClass="
+   queryString+=Class
+   }
+if (Branch != "") {
+   queryString+="&Branch="
+   queryString+=Branch
+   }
+queryString+="&-Max=20"
+queryString+="&-SortField=Date"
+queryString+="&-Find"
+
+window.location = queryHost + queryString
+}
+function jumpTo(sel) {
+  if (sel.options[sel.selectedIndex].value) {
+    window.location=sel.options[sel.selectedIndex].value;
+  };
+}
+// -->
+		</script>
+	</head>
+
+	<body background="Images/eldoback.jpg">
+		<form action="./" method="POST" name="jumpMenu" enctype="x-www-form-encoded">
+		<h1><font size="2">The Mountaineers<br>
+		</font>Seattle Climbing Program<br>
+		</h1>
+		<p>
+		<hr size="4">
+		<table border="0" cellspacing="0" cellpadding="0" width="571" height="237">
+			<tr>
+				<td width="56%">&nbsp;
+					<table border="1" cellspacing="0" cellpadding="0" width="314" height="172">
+						<tr height="10">
+							<th width="308" height="10" bgcolor="#8bff91">Upcoming Events<br>
+								(at the Seattle Clubhouse unless otherwise noted)</th>
+						</tr>
+						<tr height="90">
+							<td valign="top" width="308" height="90"><html>
+
+	<!--This file created 12/10/99 22:29 by Claris Home Page version 3.0-->
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+	</head>
+
+	<body bgcolor="white">
+		<font size="2">
+		
+		Jon Krakauer: reading, Q/A. 1Nov 7:30pm, Town Hall, Seattle<br>
+		Tom Kroese: 50 Favorite Climbs, 8Nov, 7:30pm<br>
+		Paul Gauthier, Slide show, 17Nov, 6pm, Museum of Industry<br>
+		Winter Backcountry Expo, 10am-5pm, $5, kids free, Clubhouse<BR>
+		Bannf Festival, 28-30Nov, 7pm<br>
+		Alpinists Event 17Dec 7pm, Gene Yore, Exploratory climbs, Tech Tips<br>
+		GPS Seminar, 23Jan02, 7-9pm<BR>
+		<a href="http://www.alpineclubofcanada.ca">Bugaboo Hut Reservations</a> now available<br>
+		</font>
+		<p><font size="2">Climb Leaders: The </font><a href="http://larch.forest.net/mountaineers/news/mentor.html"><font size="2">Mentored Climb Program</font></a><font size="2"> can help you pass on your experience.</font>
+	</body>
+
+</html>
+
+							</td>
+						</tr>
+					</table>
+				</td>
+				<td width="2%">&nbsp;</td>
+				<td width="42%"><img src="Images/pointer.gif" width="4" height="12" align="bottom" naturalsizeflag="0">&nbsp;<a href="intro.shtml">Overview</font></a><br>
+					<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3">&nbsp;<a href="basic-climbing.shtml">Basic Climbing Class</a><br>
+					<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3">&nbsp;<a href="crag-climbing.html">Crag Climbing Class</a><br>
+					<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3">&nbsp;<a href="schedules.shtml">Current Climbs</a><br>
+					<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3">&nbsp;<a href="http://larch.forest.net/mountaineers/express" target="_parent">Express Climbs</a><br>
+					<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3">&nbsp;<a href="http://www.eskimo.com/~pc22/CC/Bboard/wwwboard.html">Climbing Bboard</a><br>
+					<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3">&nbsp;<a href="Reference/reference.shtml">Reference</a><br>
+					<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3">&nbsp;<a href="History/history.shtml">History</a><br>
+					<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3">&nbsp;<a href="http://mountaineers.library.net" target="_parent">Mountaineers Library Catalog</a><br>
+					<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3">&nbsp;<a href="Gallery/gallery.shtml">Photo Galleries </a>&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="56%">&nbsp;<select name="jump" size="1" onchange="jumpTo(this)">
+						<option value="">Go to ...
+						<option value="intro.shtml">Overview of Climbing
+						<option value="basic-climbing.shtml">Basic Climbing Class
+						<option value="basic-equivalency.shtml">Basic Equivalency
+						<option value="basic-refresher.shtml">Basic Refresher Class
+						<option value="intermediate-climbing.shtml">Intermediate Climbing Class
+						<option value="advanced-climbing.shtml">Advanced Climbing Experiences
+						<option value="crag-climbing.html">Crag Climbing Class
+						<option value="club-climbs.shtml">Club Climbing Program
+						<option value="seminars.shtml">Climbing Seminars
+						<option value="schedules.shtml" selected>Current Climbing Schedules
+						<option value="http://www.eskimo.com/~pc22/CC/Bboard/wwwboard.html">Climbing BBoard
+						<option value="http://www.eskimo.com/~pc22/CC/addsuggestion.html">Suggestions
+						<option value="Reference/reference.html#Basic">Reference: Basic Climbing
+						<option value="Reference/reference.html#Information">Reference: Information Exchange
+						<option value="Reference/reference.html#Safety">Reference: Safety
+						<option value="Reference/reference.html#Local">Reference: Local Climbing Clubs
+						<option value="Reference/reference.html#Other">Reference: Other
+						<option value="http://larch.forest.net/mountaineers">Climb Leaders Page
+						<option value="History/history.html">Mountaineers Climbing History
+						<option value="Gallery/gallery.html">Photo Gallery: Climbs
+						<option value="FieldTrips/field-trips-gallery.html">Photo Gallery: Field Trips
+					</select></td>
+				<td width="2%">&nbsp;</td>
+				<td width="42%">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="56%">&nbsp;
+					<table border="1" cellspacing="0" cellpadding="0" width="300" height="110">
+						<tr height="14">
+							<th height="14" bgcolor="#ffa075">New!</th>
+						</tr>
+						<tr height="90">
+							<td valign="top" height="90"><img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3"> <a href="basic-climbing-welcome.html">Basic Class Welcome!</a><br>
+								<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3"> <a href="basic-climbing-equipment.html">Basic Class Equipment</a><br>
+								<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3"> <a href="basic-climbing-mentor.html">Basic Class Mentor Groups</a><br>
+								<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3"> <a href="access.html">Stewardship: User Fees Mtg</a><br>
+								<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3"> You can now send in guesses for <a href="summit-savvy.html">Summit Savvy</a><br>
+								<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3"> <a href="club-climbs.shtml">Club Climbs Page</a> now available<br>
+								<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3"> Current issue of <a href="CliffNotes/CN1198.html">Cliff Notes</a> is online<br>
+								<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3"> Lots of Mountaineers' <a href="History/history.shtml">Climbing History</a><br>
+								<img src="Images/pointer.gif" width="5" height="12" align="bottom" naturalsizeflag="3"> Climbing graduates: please complete our <a href="http://www.eskimo.com/~pc22/CC/basic-course-survey.html">Survey Form</a>!</td>
+						</tr>
+					</table>
+				</td>
+				<td width="2%">&nbsp;</td>
+				<td width="42%">&nbsp;</td>
+			</tr>
+		</table>
+		</p>
+		<center>
+			<p><font size="1">Copyright &copy; 2000 The Mountaineers<br>
+			Comments to </font><a href="mailto:pc22@eskimo.com"><font size="1">Peter Clitherow</font></a><font size="1"><br>
+			Since the bivvy we've done&nbsp; <img src="/cgi-bin/Count.cgi?frgb=ffffff&amp;dd=E|ft=0|pad=N|df=pc22.dat" align="bottom">&nbsp;pitches</font></p>
+		</center>
+		<p>
+		</form>
+	</body>
+
+</html>

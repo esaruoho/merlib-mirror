@@ -1,0 +1,285 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>SQL Tutorial: Perl DBI and Optimizing Output</TITLE>
+<META name="author" content="Eric T. Jorgensen (ericj@eskimo.com)">
+<META name="copyright" content="Copyright &copy;1994-2003">
+<LINK rev="made" href="mailto:ericj@eskimo.com">
+<LINK rel="stylesheet" type="text/css" href="/~ericj/common.css">  
+
+</HEAD>
+<BODY background="/~ericj/img/marble-grey.gif">
+<P align=center><A href="/~ericj/"><IMG src="/~ericj/frtitle.jpg" alt="Home"
+   height=75 width=484 border=0></A></P>
+
+<H1 align=center>SQL Tutorial III</H1>
+<P align=center><FONT size="+1"><B>-- Perl DBI and Optimizing Output --</B></FONT></P>
+
+<P align=center><A href="postgres.htm">Back to the PostgreSQL Tutorials List</A></P>
+
+<HR width="75%">
+
+<BLOCKQUOTE>
+<H2>Perl DBI</H2>
+
+<P>With Perl's DBI interface, CGI scripts necessarily get more complicated,
+with commands to open a connection, execute queries, and close connections,
+rather than the simple form of CGI's used in the previous examples (one-line
+shell script entires for the most part).  The logic is the same, it just
+needs to be spelled out in more detail.</P>
+
+<P>To open a database connection, I typically like to setup two variables
+at the top of a script, to help make it easy to edit a faulty query line if
+necessary:</P>
+
+<DIV align=center><TABLE border=1 bgcolor="#ffffee" cellpadding=5 cellspacing=0>
+<TR><TD>
+<PRE><FONT color="#000080"><B>#!/usr/local/bin/perl5
+
+$database = "DBI:Pg:dbname=ericj";
+$dbquery = join(" ", "SELECT title, type, rating FROM video_rating",
+                     "WHERE title LIKE 'G%'",
+                     "ORDER BY title;");
+</B></FONT></PRE>
+</TD></TR></TABLE></DIV>
+
+<P>The variable <B>$database</B> will tell our command (below) which database
+to open and which driver to use; replace 'ericj' with your own username.  For
+these examples, you'll need the following modules from CPAN (already installed
+here on the eskimo servers):</P>
+
+<UL>
+  <LI>CGI -- Commands to make processing forms and outputting HTML easier</LI>
+  <LI>DBI -- The database-independent portion of DBI</LI>
+  <LI>DBD::Pg -- A PostgreSQL-specific driver for DBI use</LI>
+</UL>
+
+<P>Then, the variable <B>$dbquery</B> will be used to create and execute an SQL
+command (also below).  In case of typos or field-name changes, putting this at
+the top of the file can save some hunting later for lines of code to edit.</P>
+
+<P>To output an HTML page, open a connection to the PostgreSQL server, and run
+the query, we'll need a few commands to set this up:</P>
+
+<DIV align=center><TABLE border=1 bgcolor="#ffffee" cellpadding=5 cellspacing=0>
+<TR><TD>
+<PRE><FONT color="#000080"><B>use CGI;
+$cgih = new CGI;
+print $cgih->header, "\n";
+
+use DBI;
+$dbh = DBI->connect("$database") or die $DBI::errstr;
+
+$sth = $dbh->prepare("$dbquery");
+$sth->execute;
+</B></FONT></PRE>
+</TD></TR></TABLE></DIV>
+
+<P>With the perl DBI interface, however, we can format the output any way we
+like; not simply as a brute table showing all the data in the query.  I'll show some examples of different formats with the same query below.  Let's process
+things simply first -- remember the "rule" of perl: "There's more than one way
+to do it."</P>
+
+<DIV align=center><TABLE border=1 bgcolor="#ffffee" cellpadding=5 cellspacing=0>
+<TR><TD>
+<PRE><FONT color="#000080"><B>while (@row = $sth->fetchrow_array) {
+  ($title, $type, $rating) = @row;
+
+  print "&lt;TR&gt;&lt;TD align=left&gt;$title&lt;TD&gt;
+        "	",
+        "&lt;TD align=right&gt;$type&lt;TD&gt;
+        "	",
+        "&lt;TD align=right&gt;$rating&lt;TD&gt;
+        "&lt;TR&gt;n";
+}
+</B></FONT></PRE>
+</TD></TR></TABLE></DIV>
+
+<P>Here, we're only printing the title, type, and rating from a video database;
+With a little extra printing of HTML code, we can manipulate individual field
+colors, make a full page surrounding the output, etc.</P>
+
+<P>Before we run the script, though, be sure to close the connections we
+opened (<B>$sth</B> for the statement and <B>$dbh</B> for the database
+connection):</P>
+
+<DIV align=center><TABLE border=1 bgcolor="#ffffee" cellpadding=5 cellspacing=0>
+<TR><TD>
+<PRE><FONT color="#000080"><B>$sth->finish;
+$dbh->disconnect;
+</B></FONT></PRE>
+</TD></TR></TABLE></DIV>
+
+<P>Here's what the above lines will show, with a little extra HTML coding for
+the table, new column headers, and field colors:</P>
+
+<DIV align=center>
+
+<DIV align=center><TABLE bgcolor="#ffffff" width="50%" border=1 cellspacing=0 cellpadding=5>
+<TR><TH bgcolor="e0e0e0"><FONT color="000000">Title</FONT></TH>
+    <TH bgcolor="e0e0e0"><FONT color="000000">Type</FONT></TH>
+    <TH bgcolor="e0e0e0"><FONT color="000000">Rating</FONT></TH></TR>
+<TR><TD align=left bgcolor="eeffee" nowrap><B>Galaxy Express 999</B></TD>	<TD align=right nowrap>TM*</TD>	<TD align=right nowrap>:</TD></TR>
+<TR><TD align=left bgcolor="eeffee" nowrap><B>Gasaraki</B></TD>	<TD align=right nowrap>T</TD>	<TD align=right nowrap>12+</TD></TR>
+<TR><TD align=left bgcolor="eeffee" nowrap><B>Ghost in the Shell</B></TD>	<TD align=right nowrap>M</TD>	<TD align=right nowrap>NR</TD></TR>
+<TR><TD align=left bgcolor="eeffee" nowrap><B>Grave of the Fireflies</B></TD>	<TD align=right nowrap>M</TD>	<TD align=right nowrap>NR</TD></TR>
+<TR><TD align=left bgcolor="eeffee" nowrap><B>Gunsmith Cats</B></TD>	<TD align=right nowrap>O</TD>	<TD align=right nowrap>15+</TD></TR>
+</TABLE></DIV>
+
+</DIV>
+
+<P>Compare this to the shell-script method we used earlier (modified to use the
+same query as above):</P>
+
+<DIV align=center>
+<table border=1 bgcolor="#ffffff" cellspacing=0 cellpadding=3>
+  <tr>
+    <th align=center>title</th>
+    <th align=center>type</th>
+    <th align=center>rating</th>
+  </tr>
+  <tr valign=top>
+    <td align=left>Galaxy Express 999</td>
+    <td align=left>TM*</td>
+    <td align=left>:</td>
+  </tr>
+  <tr valign=top>
+    <td align=left>Gasaraki</td>
+    <td align=left>T</td>
+    <td align=left>12+</td>
+  </tr>
+  <tr valign=top>
+    <td align=left>Ghost in the Shell</td>
+    <td align=left>M</td>
+    <td align=left>NR</td>
+  </tr>
+  <tr valign=top>
+    <td align=left>Grave of the Fireflies</td>
+    <td align=left>M</td>
+    <td align=left>NR</td>
+  </tr>
+  <tr valign=top>
+    <td align=left>Gunsmith Cats</td>
+    <td align=left>O</td>
+    <td align=left>15+</td>
+  </tr>
+</table>
+(5 rows)<br>
+
+
+</DIV>
+
+
+<H2>Optimizing Output</H2>
+
+<P>We touched on a bit of optimization above, when we saw the differences
+between the shell-script and perl-manipulated scripts.  But the script walked
+through above still does just a simple dump to the output.  But it turns out
+that the "type" and "rating" codes are different on these lines.  In order to
+make it understandable, let's expand the results (adding the listed code
+just before the 'print' command above):</P>
+
+<DIV align=center><TABLE border=1 bgcolor="#ffffee" cellpadding=5 cellspacing=0>
+<TR><TD>
+<PRE><FONT color="#000080"><B># Process "type"
+################
+  $typtmp = "";
+  $typmult = 0;
+  $typadd = 0;
+  if    ($type =~ '\*') { $typtmp = "Multiple ";
+                          $typmult = 1;
+  }
+  if    ($type =~ 'T')  { $typtmp = join("", $typtmp, "TV");
+                          $typadd = 1;
+  }
+  if    ($type =~ 'O')  { $jointmp = "";
+                          if ($typmult && $typadd) { $jointmp = "/"; }
+                          $typtmp = join($jointmp, $typtmp, "OVA");
+                          $typadd = 1;
+  }
+  if    ($type =~ 'M')  { $jointmp = "";
+                          if ($typmult && $typadd) { $jointmp = "/"; }
+                          $typtmp = join($jointmp, $typtmp, "Movie");
+  }
+  if    ($typmult)      { $typtmp = join("", $typtmp, "(s)"); }
+
+# Process "rating"
+##################
+  if    ($rating =~ ':')  { $rate = "Unknown/multiple rating(s)"; }
+  elsif ($rating =~ 'NR') { $rate = "Not Rated"; }
+  else                    { $rate = join("", "Rated ", $rating); }
+
+  $type = $typtmp;
+  $rating = $rate;
+</B></FONT></PRE>
+</TD></TR></TABLE></DIV>
+
+<P>When the new script is run with these changes, the space-saving codes used
+in the actual data can be expanded to be read by humans:</P>
+
+<DIV align=center>
+
+<DIV align=center><TABLE bgcolor="#ffffff" width="50%" border=1 cellspacing=0 cellpadding=5>
+<TR><TH bgcolor="e0e0e0"><FONT color="000000">Title</FONT></TH>
+    <TH bgcolor="e0e0e0"><FONT color="000000">Type</FONT></TH>
+    <TH bgcolor="e0e0e0"><FONT color="000000">Rating</FONT></TH></TR>
+<TR><TD align=left bgcolor="eeffee" nowrap><B>Galaxy Express 999</B></TD>	<TD align=right nowrap>Multiple TV/Movie(s)</TD>	<TD align=right nowrap>Unknown/multiple rating(s)</TD></TR>
+<TR><TD align=left bgcolor="eeffee" nowrap><B>Gasaraki</B></TD>	<TD align=right nowrap>TV</TD>	<TD align=right nowrap>Rated 12+</TD></TR>
+<TR><TD align=left bgcolor="eeffee" nowrap><B>Ghost in the Shell</B></TD>	<TD align=right nowrap>Movie</TD>	<TD align=right nowrap>Not Rated</TD></TR>
+<TR><TD align=left bgcolor="eeffee" nowrap><B>Grave of the Fireflies</B></TD>	<TD align=right nowrap>Movie</TD>	<TD align=right nowrap>Not Rated</TD></TR>
+<TR><TD align=left bgcolor="eeffee" nowrap><B>Gunsmith Cats</B></TD>	<TD align=right nowrap>OVA</TD>	<TD align=right nowrap>Rated 15+</TD></TR>
+</TABLE></DIV>
+
+</DIV>
+
+<P>Another section of my pages here uses the full video database used as an
+example here.  Entries include descriptions, number of episodes, reasons for 
+the various ratings, etc.  You can check out a different implementation and
+extension of these same CGI scripts in the <B><A href="/~ericj/anime/">Eric's
+Recommended Anime</A></B> pages.</P>
+
+</BLOCKQUOTE>
+
+<P align=center>Next Part:<BR>
+   Web-Based Searching<BR>
+   (coming soon)</P>
+
+<P align=center><A href="postgres.htm">Back to the PostgreSQL Tutorials List</A></P>
+
+<HR width="75%">
+
+<HR width="75%">
+<DIV align=center>
+<FORM action="http://seattleotaku.com/~ericj/cgi-bin/mysearch.cgi" method="POST">
+<INPUT type="hidden" name="results" value=0>
+<!-- Un-comment to specify the URL of a linked style sheet file.
+<INPUT type="hidden" name="cssurl" value="http://seattleotaku.com/swish.css">
+-->
+<INPUT name="query" size=40>
+<INPUT type="submit" value="Search...">
+</FORM>
+</DIV>
+
+<P align=center>
+  <A href="http://validator.w3.org/"><IMG src="/~ericj/img/vh401.gif" alt="[Valid HTML]" height=31 width=88 border=0></A> &nbsp;
+  <A href="http://jigsaw.w3.org/css-validator/validator-uri.html"><IMG src="/~ericj/img/vcss.gif" alt="[Valid CSS]" height=31 width=88 border=0></A> &nbsp;
+  <A href="http://www.eskimo.com/"><IMG src="/~ericj/img/eskitiny.gif" alt="[Hosted by Eskimo North]" height=31 width=86 border=0></A> &nbsp;
+  <A href="http://www.gimp.org/"><IMG src="/~ericj/img/gfx_by_gimp.gif" alt="[Graphics by GIMP]" height=36 width=90 border=0></A></P>
+<P align=center><FONT size="-1"> 
+  <B><A href="http://seattleotaku.com/">Home</A></B> &nbsp;
+  <B><A href="http://seattleotaku.com/reviews/">Reviews</A></B> &nbsp;
+  <B><A href="http://seattleotaku.com/clubs/">Clubs</A></B> &nbsp;
+  <B>Conventions</B> &nbsp;
+  <B><A href="http://seattleotaku.com/shopping/">Shopping</A></B> &nbsp;
+  <B><A href="http://www.eskimo.com/~ericj/personal/">About Me</A></B>
+  </FONT></P>
+<P align=center><FONT size="-1">
+  <B><A href="http://seattleotaku.com/forms/mail.htm">Feedback Appreciated</A></B>.
+  </FONT></P>
+
+<P align=center><FONT size="-1">
+  Copyright &copy;1994-2003 by Eric T. Jorgensen.<BR>
+  All rights reserved.  Do not copy/redistribute.
+  </FONT></P>
+
+</BODY></HTML>

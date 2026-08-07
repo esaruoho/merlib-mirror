@@ -1,0 +1,177 @@
+Style Sheet Media Types 
+
+ CSS Media Types 
+ = Index DOT Css by Brian Wilson = 
+
+ Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Introduction 
+
+In CSS1, all of the CSS properties were targeted to the then-dominant
+paged/visual rendering paradigm. Already, alternative web navigation
+devices are on the market, offering much more variety and capabilities
+than was common in the past. This crucial fact was recognized in the
+creation of CSS2, and the expectation is that the variety of rendering
+platforms for CSS will only grow as time goes by.
+
+CSS2 now allows for the targeting of style rules to specific media types.
+This means you can explicitly request that one or more style rules will
+only apply when rendering to certain device types, such as a printer, an
+aural browser or a handheld device. Several methods exist to target one or
+more style rules to one or more media rendering device-types:
+
+ Some CSS properties only apply to specific media types.
+ Some property values have different meanings in different Media contexts.
+ The @Media At-Rule
+ specifies a target rendering media for a group of style rules.
+ The Media component of the @Import 
+ At-Rule syntax specifies the target media for an imported style sheet.
+ The MEDIA attribute for the HTML
+ LINK and
+ STYLE elements
+ specify target media for an entire style sheet.
+
+ CSS2 Media Types and Descriptions 
+
+The following list of Media type keywords is given in the CSS2 spec, and
+that same spec also does not consider this list to be definitive. If a
+browser claims to support a specific media type, it should implement all
+of the CSS properties that the CSS spec should apply to the indicated media. 
+ Note: All media keywords are considered to be
+case-insensitive.
+
+ Media Keyword 
+ Description 
+
+ All 
+ May be rendered using any media-type device. 
+
+ Aural 
+ Rendering targeted for speech and sound synthesizers. 
+
+ Braille 
+ Rendering targeted for Braille touch-feedback devices. 
+
+ Embossed 
+ Rendering targeted for Braille paged printing devices. 
+
+ Handheld 
+ Rendering targeted for small or handheld devices (eg: devices with
+ small screens, limited bandwidth or display capabilities - perhaps
+ monochrome screens.) 
+
+ Print 
+ Rendering targeted for page-by-page use, typically printed on paper. 
+
+ Projection 
+ Rendering targeted for projection (eg: screen projections) using
+ transparent media (eg: slides.) 
+
+ Screen 
+ Rendering targeted for continuous (non-paged) color computer screens. 
+
+ TTY 
+ Rendering targeted for media that uses a fixed-pitch character grid
+ (eg: terminals and teletypes.) 
+
+ TV 
+ Rendering targeted for television-like devices (eg: color, basic
+ sound capabilities, limited resolution and scrollability.) 
+
+ CSS2 Media Groupings 
+
+The CSS2 specification specification defines which media groups
+that each CSS property applies to. It does so by aggregating the various
+media types by function and form
+
+ Interface 
+ Description: This category describes the way
+ a user experiences the entirety of a document with a given Media type.
+ Options: 
+ Continuous - The document is experienced using
+ a movable window/portal on the content with the Media type. 
+ Paged - The document is experienced a page at
+ a time with the Media type. 
+ Both - CSS properties are applied using either
+ continuous or paged media with the Media type.
+ Sensory 
+ Description: This category describes the human
+ senses used to experience a document with a given Media type.
+ Options: 
+ Visual - A document's content is experienced
+ primarily using the eyes with the Media type. 
+ Aural - A document's content is experienced
+ primarily using the ears with the Media type. 
+ Tactile - A document's content is experienced
+ primarily using the sense of touch with the Media type.
+ Layout 
+ Description: This describes the method used by
+ a Media type to render character content.
+ Options: 
+ Grid - Content is laid out using a character grid
+ with the Media type. 
+ Bitmap - Content is rendered as a bitmap with the
+ Media type. 
+ Both - Content can be rendered with a character grid
+ or bitmap device.
+ Interactivity 
+ Description: This category describes the
+ level of interaction possible using a specific media type
+ Options: 
+ Interactive - Media types which allow interactivity
+ with the user 
+ Static - Media types which do not allow interactivity
+ with the user 
+ Both - Applies to both Static and Interactive Media types.
+ "All" 
+ Description: Applies to all Media types.
+ Options: All 
+
+ Media Types versus Media Groupings 
+
+ Each CSS property indicates the Media grouping that it applies to. The
+ grid below, taken from the CSS2 specification, is a guide to which Media
+ types belong to which Media Groups.
+
+ Media
+ Groups 
+
+ Media Types 
+
+ Interface 
+ Sensory 
+ Layout 
+ Interactivity 
+
+ Aural 
+ Continuous Aural N/A Both 
+
+ Braille 
+ Continuous Tactile Grid Both 
+
+ Embossed 
+ Paged Tactile Grid Both 
+
+ Handheld 
+ Both Visual Both Both 
+
+ Print 
+ Paged Visual Bitmap Static 
+
+ Projection 
+ Paged Visual Bitmap Static 
+
+ Screen 
+ Continuous Visual Bitmap Both 
+
+ TTY 
+ Continuous Visual Grid Both 
+
+ TV 
+ Both Visual, Aural 
+ Bitmap Both 
+
+ Boring Copyright Stuff....

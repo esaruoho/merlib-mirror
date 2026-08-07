@@ -1,0 +1,228 @@
+---
+title: "SMALLnet post357"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post357.html
+order: 8048
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:33Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post357
+
+*Source page: `~smallnet/Archive/post357.html`*
+
+## SMALLnet Posting post357
+
+------------------------------------------------------------------------
+
+**Date: Thu, 9 Nov 2000 02:44:25 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+<div class="Joe">
+
+...Here's a bit of good news to counterbalance a little the notice of Fred Reese's passing. I spoke with Eric Clutton a day or two ago, and he has recovered nicely from his recent surgery. \[JW\]
+
+</div>
+
+Tony Turley \< 
+
+ \> wrote:
+
+First, let me say that I was sorry to hear of the passing of Fred Reese. Although I never dealt with him personally, he did have a major impact on the small airplane movement. One of my first small models was a Simple Cub.
+
+To the question at hand: does anyone know where I can scrounge up a couple of Cox 4 1/2 x 2 pusher props? I need them for a tiny electric project. My only other option is to reverse the motor, which I'd rather not do. Contact me direct if you have any leads.
+
+Tony Turley, Scott Depot, West Virginia
+
+Dan Vincent \< 
+
+ \> suggested:
+
+I was saddened to read about the passing of Fred Reese. I remember him most for his Quarter Midget .15 racing designs in the seventies.
+
+You often read about someone being referred to as a prolific designer...Fred Reese was such a person.
+
+Don Garry mentioned that it was too bad they didn't have small radios and Norvel engines back when Fred designed his .049 racers. Maybe some memorial type event could be done in the future based on Don's ideas and Fred's designs.
+
+Dan Vincent
+
+<div class="Joe">
+
+...You organize it, Dan! \[JW\]
+
+</div>
+
+LeRoy Bidgood \< 
+
+ \> advises:
+
+Let me second the advice to undergo prostate and colon cancer screening. As a prostate cancer survivor I would most emphatically advise a trip to your doctor for a PSA and digital exam. Mine was discovered (at age 67) as the result of an annual PSA test and early enough to make a complete cure probable. I am currently in my second and final year of tracking to guard against recurrence.
+
+The unpleasant fact about prostate cancer is that if you live long enough you WILL develop it. The odds that you have developed it are thus roughly associated with your age, i.e. 50 years old, 50%; 60 years, 60%; and so forth. If found early enough it is entirely curable. The alternative is lingering and unpleasant. The up side (?) is the possibility that you will expire before it develops.
+
+Please excuse the sermon but my experience has left me with rather strong feelings. I consider myself lucky to be here making balsa dust and chewing glue off my thumb. LeRoy
+
+\< 
+
+ \> responds to Norm Dial's "Crickit query":
+
+A friend has one with a Magnum .15 and it is no ball of fire. My opinion: you will be unhappy with a .049, even if your Crickit will fly at all with it. I think the .049 will just make the crash site further away.
+
+Dick Scalone \< 
+
+ \> wrote:
+
+I'm a little too old to chase rubber anymore, but have designed some nice backyard display models. These can be also be used as windvanes; actually - warplane windvanes. \< www.windm.com \>
+
+Thanks, Dick Scalone
+
+Eddie Warren \< 
+
+ \> refers to an comment in a recent Posting: "...the trouble you're having isn't new. It results from the fact that plans printing has no connection with the balsa-cutting process...":
+
+This was brought home to me recently when I scratch-built several new wings for a Clancy Lazy Bee. I traced patterns of the ribs from the plan, cut out my parts and ... and ... the ribs were all too short by about 1/8" when everything was pinned to the plan and jigged up.
+
+What the ....
+
+I called Andy Clnancy and he told me that the plans sometimes shrink or expand during the printing process. He said there was a note in the manual about it. I later checked and sure enough ... a note to that effect is there. Now, here I sit with between 80 and 100 plans I've collected over the years, and I'm worrying :C)
+
+Eddie Wilmington, North Carolina - USA
+
+<div class="Joe">
+
+...Eddie, as I stated earlier, the important features on model airplane plans are the angles: wing and tail incidence, dihedral, thrustline offset... And those DO NOT change appreciably when the plans shrink or expand. Now you can stop worrying! \[JW\]
+
+</div>
+
+Bob Peterson \< 
+
+ \> contributed:
+
+Regarding the thrust offset angles for a multiengined model, I seem to remember an article by Ken Willard in MAN, back in the fifties, where he built and flew a twin engined free flight. I believe he even developed a formula for the amount of offset.
+
+Bob Peterson
+
+Larry Renger \< 
+
+ \> informs us:
+
+The small "turbulators" near the hub of C\*x props were not aero- dynamic devices, they were stops to keep the starter spring from popping over the leading edge of the blade and jamming the engine!
+
+The white, rounded props you saw were the ones used before Bill Atwood joined the engineering team and designed the late, lamented series of modern C\*x props. Bill personally carved the master patterns for those props, and they were gorgeous!
+
+I did one prop, the hideous little 4.5"d x 4"p one for the "Sure Fliers". It was, as Joe intimated, carved with burning up power without generating much speed in mind. Not my favorite thing, but, in this case, necessary.
+
+Larry
+
+Bob Severance \< 
+
+ \> responds to two queries:
+
+The little "turbulators" (as you call them) on Cox props are actually the spots where the spring starter "pushes" on on the prop...not a "turbulator" at all...
+
+As for existing full-scale "Twin Mustangs", I believe there is also a P-82 here at Lackland AFB on the Parade Ground, in San Antonio...
+
+<span id="138"></span>
+
+<div class="green">
+
+Source: Receiver, FM: Grand Wing Servo R-4P\
+
+</div>
+
+Ron Fikes \< 
+
+ \> & Bob Bruce \< 
+
+ \> both replied to David Felin's query about where to buy the newly-announced Grand Wing Servo R-4P 4-channel FM receiver:
+
+\< <http://www.balsapr.com/balsapr/> \>
+
+Glenn Bolick \< 
+
+ \> chimes in, to offer "a few possible answers to questions raised" in previous Postings:
+
+<span id="149"></span>
+
+<div class="green">
+
+Source: Reciver, GWS R-4P\
+
+</div>
+
+David Felin asked about the GWS R-4P receiver: "R/C REPORT" has an ad from Balsa Products, 122 Jansen Ave., Iselin, New Jersey 08830 or \< [http://www:Balsapr.com](http://www:Balsapr.com) \> priced at \$28.00 including crystal.
+
+Tim Atkins reminded me I still have a G-Mark .03 R/C engine new in half box (top got lost years ago) which I ought to build a plane for. Thanks, Tim!
+
+Several have asked about how to shorten the R/C antenna. A few months back Pete Waters in his column "Radio Ramblings" in "R/C REPORT" had a drawing of a method using a business card with five holes punched on each edge and the wire loosely looped through them in a zig/zag pattern. Haven't tried it, but Pete knows his stuff; so would believe that it will work fine.
+
+Also, some have asked about the C\*x glow plug clip. Gave up on using the original ones and modified a spring clothes pin with a dimpled thin steel piece screwed to one side (fits over the center prong) and a notched (to fit into the cylinder fins) piece screwed to the other. Bend the steel pieces until good contact is achieved.
+
+Used "zip" cord and solder to connect to the two pieces, attached the other ends of the "zip" to a ni-cad cell, and it works!
+
+Glenn Bolick
+
+George Penniket \< 
+
+ \> contributed:
+
+Re: lighting C\*x glow plugs, or any other kind for that matter. I have noticed that Wal Mart carries a pack of four "D-size" Duracells in a strong-looking plastic wrap.
+
+It should be easy to cut the plastic away enough to solder wires across the tops (positive ends) and bottoms (negative ends) of the cells to make a 1.5 volt battery with enough power to light any glow plug. I would use lamp cord for leads as suggested in a previous posting, and it would also be easy to include a switch in the circuit, so that one could turn off the power to the glow plug before taking off the glow clip, to make sure that the engine was running smoothly without power to the glow head.
+
+A setup like this should last all flying season, and has the added advantage of not weighing too much. George P.
+
+Ron Fikes \< 
+
+ \> sent in several responses to various comments and queries:
+
+"..Ron, your use of Rocket City Pin Clamps for wheel retainers is the cleverest modeling idea I've seen this month! How come I didn't think of that? I've been using those pin clamps ever since they first came out, over 15 years ago. But I never thought of using 'em to hold wheels on. Mighty ingenious! \[JW\] "
+
+Joe, If you liked that one -- try this: the little, white nylon keepers that come with Goldberg pushrod connectors fit perfectly as wheel collars on 1/16" music wire. They fit tight but can be pulled off and replaced... and they don't have to be drilled out!
+
+"Many of us remember the Q-Tee, a small parasol winged model designed for Cox .049 reed valve engines that was produced by Airtronics. Dream Catcher Hobbies \< <http://www.dchobby.com> \> acquired the rights to the old Airtronics line of kits, and has redesigned the Q-Tee for electric power.
+
+"I flew it at the local school field. I tried an ROG off the packed dirt of the baseball diamond, but it just ground looped; so I gave up on that and chucked it into the air. Maintaining control after the launch is no problem, although it takes a little while to get up to speed. I think the prop is stalled at first. You can actually hear the motor get up on step once the plane is up to speed.
+
+"Overall I would have liked just a tad more power, but then I don't really know what to expect out of a park flyer like this. My other planes are bigger with lots of cells so I am used to full aerobatic capability. I need to make some measurements to see if I am getting too much voltage drop out of the wiring. (I used 22 gage wire and Deans 3-pin connectors). Jeff Bean "
+
+Jeff, I have built this as 1/2A gas -- a great plane. The new one is screaming for a direct-drive Speed 400 with a Master Airscrew 5.5 X 4 plastic prop. Plenty of wing for a 7-cell, 500 mAh pack... (and Dave Brown 1.5" LiteFlite wheels -- every flight needs at least one landing, so LG very important).
+
+"What is the (brand) name of the thin, transparent, covering used on the park flyers and indoor planes? Thanks. Steve "
+
+Tom (Popeye) Doyle \< 
+
+ \> said, "I think it's usually either Oracover Lite or light Solarfilm."
+
+Ultracote IS Oracover, but on the left coast of the U.S. it is called Ultracote (light or regular)...
+
+I showed some of our flyers, this weekend, how to cut out their own lettering for their electric planes. It is simple and inexpensive -- all you need is some Contact paper, a computer (with something like Printshop) and a light table (or piece of glass with a light under it) and an X-Acto knife. I have put a few pictures of the lettering on the following webpage - if this interests you, contact me and I will Email you the instructions (no charge)...
+
+\< <http://www.geocities.com/srfikes/Name_It.html> \>
+
+Ron Fikes, Palo Alto, California
+
+<div class="Joe">
+
+...Speaking of X-Acto knives reminds me! Many model construction articles recommend, "use a new X-Acto blade...". But I haven't bought any new X-Acto blades in 20 years! That's because around 1980 I invested in a "diamond stone" knife-sharpening tool. It's a steel plate about 2" X 6" with diamond dust imbedded into the top surface. I keep it handy on my workbench at all times. The instant that I can feel a knife blade getting "draggy", I hone it back to scalpel sharpness again.
+
+My "diamond stone" cost around \$35 mail-order, from one of the tool specialty dealers -- Leichtung if my memory's accurate. But I have seen smaller, but similar "diamond stones" at Wal Mart recently -- selling at around \$7.00!
+
+If anyone has doubts about his ability to use one of these tools to keep his knife blades keen, send in a query and I will explain the use of a "diamond stone". Incidentally, this is used dry; no lubricant is needed to prevent "loading" of the surface. \[JW\]
+
+</div>
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

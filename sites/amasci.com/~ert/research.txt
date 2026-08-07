@@ -1,0 +1,88 @@
+Ert Dredge's research interests 
+
+ Ert's research projects 
+
+ Research, research, research. If they had told me when I was seven
+that research meant building cool things out of Java and nucleic acids
+(mmm...DNA-mocha blend!) I would have liked it then, too.
+
+ My second year at UHCL I have been working on a user interface for
+working with a rule-based system for composite object manufacturing
+specifications.
+
+ My first year at UHCL I worked with the NASA-funded Research Institute for Computing and
+Information Systems lab on an agent-based information search
+engine.
+
+ When I was at Baylor College of
+Medicine , I did most of my work in two particular labs:
+
+ During my first placement I worked with Randy
+Smith 's group on genome informatics. Check out their BCM
+Search Launcher .
+
+ After that, I worked with the Computational Neurobiology Lab on
+their virtual bee model .
+
+I spent two years at The Whitehead
+Institute / MIT Center for Genome Research 
+doing extensive computational work on the dense SSLP genetic map of
+the mouse. 
+
+ While at the Whitehead I also worked with David
+Page's group . I was involved with informatics work on a mouse hermaphroditism study, , developing
+software to catalogue the lab's mouse colony, generating maps of the human Y
+chromosome , and analyzing
+CpG islands.
+
+ During 1992 I worked in Chip
+Quinn 's lab on a CREB transgene which blocks long-term memory in
+ Drosophila 
+
+ During Summer 1990 I worked with Colin Lock 
+in McMaster University 's Chemistry
+Department , examining toxic properties of gold sodium thiomalate, an
+arthritis drug. Dr. Lock 
+passed away in May 1996.
+
+During Summer 1988 I worked with Gilles
+Lajoie in the Chemistry
+Department of the University of Waterloo on the
+design of an elastase
+inhibitor.
+
+ Journal Publications 
+
+Dietrich, W.F., et. al. (1996). "A comprehensive genetic map of the
+mouse genome" Nature 380:149-152.
+Available as a Summary 
+to those with a free Nature online account.
+
+Eicher, E., et. al. (1996). "Sex-Determining Genes on Mouse
+Autosomes Identified by Linkage Analysis of C57BL/6J-Y POS Sex Reversal." Nature Genetics 14:206-209
+
+DeSanctus, G.T., et. al. (1995). "Quantitative locus analysis of airway hyperresponsiveness in A/J and C57BL/6J mice" Nature Genetics 11:150-154
+
+Dietrich, W.F., et. al. (1994). "A Genetic Map of the Mouse with 4006 Simple Sequence Length Polymorphisms" Nature Genetics 7:220-245
+
+Copeland, N.G., et. al. (1993). "Genome Maps IV" Science 262:67
+
+ Conference publications 
+
+ David C. Page, Renee Reijo, Raaji Alagappan, Tien-Yi Lee, Laura
+Brown, Robert Dredge, Ben Raphael, Bruce Lahn, Judith Seligman (1994).
+"Constructing Maps of the Human Y Chromosome." From the 1994 Y Chromosome
+Workshop . Available as Abstract
+(flat file) 
+
+ Stein, L., Marquis, A., Dredge, E., Reeve, M. P., Daly, M., Rozen,
+S., and Goodman, N. (1994). "Splicing UNIX into a genome mapping
+laboratory." From the USENIX Summer
+1994 Technical Conference , pages 221-229. Available as Text
+(compressed postscript) ,
+ Text
+(flat file) , and Abstract
+(html) .
+
+ ert [at] alum [dot] mit [another dot] edu
+ (Personal)

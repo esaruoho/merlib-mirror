@@ -1,0 +1,11 @@
+The Loadlin+Win95/98/ME mini-HOWTO: About Loadlin 
+
+ 2. About Loadlin 
+
+ 2.1 What is Loadlin? 
+
+ Loadlin is a simple DOS based utility that loads the Linux kernel into
+memory from DOS. Loadlin was written by 
+ Hans Lermen . See the
+ Loadlin-1.6 User's Guide for further details about Loadlin's
+features and how to use Loadlin.

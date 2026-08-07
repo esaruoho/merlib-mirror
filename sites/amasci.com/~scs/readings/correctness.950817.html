@@ -1,0 +1,94 @@
+<html>
+<head>
+<title>Correctness</title>
+<body>
+<p>
+[This article was originally posted on August 17, 1995, in the
+midst of a thread on whether it's a good idea to use <TT>void main()</TT>
+and the like.]
+<p><pre>
+Newsgroups: comp.lang.c
+From: scs@eskimo.com (Steve Summit)
+Subject: Re: Why the warning???
+Message-ID: &lt;DDGMr2.My3@eskimo.com&gt;
+X-Scs-References: &lt;199508171432.HAA14633@mail.eskimo.com&gt;
+References: &lt;00001a80+00003293@msn.com&gt; &lt;dqua.808547526@dqua&gt; &lt;40s7l2$mcr@garuda.csulb.edu&gt;
+Date: Thu, 17 Aug 1995 14:54:37 GMT
+</pre>
+<p>
+Earlier in the thread, someone expressed a popular sentiment:
+"I use what works."  Raise your hand if you've ever said this.
+(My hand's up.)  Now raise your hand if you've ever spent hours
+going through some code weeding out gratuitous nonportabilities
+so that you could get it to compile under a compiler or operating
+system other than the original author used.  (My hand's still up.)
+<p>
+There's always a tradeoff to be made between portability and
+convenience.  Almost no code is truly portable, even code that
+tries very hard to be, so it's reasonable to accept certain
+nonportabilities in one's code, in the interests of expediency.
+But unilaterally saying "I use what works" is an extremely risky
+attitude.  It's one thing to make an informed decision: to weigh
+the costs of being strictly portable against the risks of using
+something nonportable.  It's quite another thing to declare that
+you can't even be bothered to think about the tradeoffs, and to
+throw yourself and your code (and perhaps your company) at the
+mercy of future compilers you'll want to use.
+<p>
+Ask yourself: how long do you expect your code to last?  If it's
+a quick hack that you don't expect to use past next week, then
+most of this is moot.  But if it's production program, a product,
+that you or someone depends on or makes money on, you probably
+hope (you ought to hope) that it will be successful and
+long-lived.  And it's likely, even though you can't imagine it
+today, that some day you'll find yourself wanting to compile it
+under some completely different compiler, or for some completely
+different machine or operating system.  And, when that day comes,
+the more your attitude during development has been "I use what
+works," the more miserable the porting task will be.
+<p>
+When, for the platform and compiler you're using today, there's
+no alternative to a given bit of nonportability (for instance,
+some operating-system-dependent interaction which C doesn't
+define), there's no point spending lots of time desperately
+trying to make it portable.  You can spend the time porting that
+bit of the code when and if the time comes.  (You might spend a
+bit of time today making sure that the nonportable bit is cleanly
+isolated.)
+<p>
+When, on the other hand, there's a perfectly valid, equally easy,
+portable alternative, such as using <TT>int main()</TT> in preference to
+<TT>void main()</TT>, or <TT>/* */</TT> comments in preference to <TT>//</TT> comments, it
+really seems foolish not to avail yourself of as many Standards
+as you can.
+<p>
+You can't imagine what kind of compiler you might suddenly find
+yourself wanting to use a year from now.  Neither can I.  But one
+thing we do know is that if it is a C compiler, it is extremely
+likely to comply as closely as it can to the ANSI/ISO C Standard.
+So the more closely we can make the code we write today conform
+to that Standard, the fewer problems we are likely to have down
+the road.
+<p>
+<TT>void main()</TT> and <TT>//</TT> comments aren't perfect examples, because <TT>//</TT>
+comments (for no good reason that I know of) are likely to be in
+the next major revision of the C Standard, and <TT>void main()</TT> works
+under most compilers and is likely to remain so (even though it
+doesn't have to) if for no other reason than that so terribly
+much code uses it.  One could, I suppose, make an informed
+decision to keep using those two, if one really thought they were
+preferable to the strictly-portable alternatives.  But in the
+more general case -- for the other errors and nonportabilities
+your code is all too likely to contain if all you care about is
+that it works today -- someone, someday, is likely to curse you
+if you've made their life miserable, or to sing your praises if
+you've expended a modicum of thought and effort towards giving
+your code a fighting chance of being portable down the road.
+<p>
+<address>
+<a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+<br>
+<a href="mailto:scs@eskimo.com">scs@eskimo.com</a>
+</address>
+</body>
+</html>

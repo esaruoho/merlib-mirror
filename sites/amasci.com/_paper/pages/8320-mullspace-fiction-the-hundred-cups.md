@@ -1,0 +1,709 @@
+---
+title: "Mullspace | Fiction | The Hundred Cups"
+source_domain: amasci.com
+source_path: ~strange/fiction/thief.html
+order: 8320
+reachable_from_entry: false
+images: 1
+internal_links: 7
+extracted: 2026-08-07T06:00:48Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mullspace | Fiction | The Hundred Cups
+
+*Source page: `~strange/fiction/thief.html`*
+
+\
+<span id="top"></span>
+
+<div align="center">
+
+<img src="../images/MullChalk03a.jpg" data-border="0" alt="Welcome to Mullspace" />\
+<a href="../katbox.html" class="nav">Portal</a> \| <a href="../litter/litter.html" class="nav">Kat Litter</a> \| <a href="fiction.html" class="nav">Tales</a> \| <a href="../nfiction/nfiction.html" class="nav">Lectures</a> \| <a href="../gallery.html" class="nav">Eye Candy</a> \| <a href="../list.html" class="nav">Accreations</a> \| <a href="../resume.html" class="nav">Kat Who?</a> \| <a href="mailto:mull.space@lycos.com" class="nav">Poke</a>
+
+</div>
+
+\
+\
+
+created: November, 1999
+
+\
+
+## The Hundred Cups
+
+\
+
+The robed figure knelt on the cold, stone floor, where the light from the clerestory window shed a luminous shaft into the center of the room. The acolyte could not hear them entering the room, for the Keepers moved as silently as the shadows where they stepped. Trained eyes detected only the faintest flicker of movement within the darkness, a blacker blackness that surged like breath and then receded. The acolyte smiled and nodded respectfully.
+
+"Now, Acolyte Nevis, you have a report of your trial."
+
+"Yes, Keeper Teleford, I do."
+
+"This, you know, is your final trial before you will pass on to the mysteries of an Adept."
+
+"Yes."
+
+"Then proceed, and do not forget the details."
+
+Nevis nodded again and began: "As you know, it was my charge to observe the movements of our former brother Garrett, and to determine his fitness or readiness to return to the Keepers' mystery and to... assist him if I deemed fit."
+
+"And did he require your help?"
+
+"No, Keeper. His skills grow a pace and he has gained much in patience and subtlety since he left us."
+
+"Both valuable traits he did not possess in such abundance before," Keeper Teleford's voice replied with a chuckle from the darkness. "Go on."
+
+"As you know, he has bent his skills, and his anger, toward the trade of thievery. For most, it is a hard, brutal and short life, but Garrett shows all signs of becoming a master of his chosen trade. He has consistently eluded both the City guard and the wardens, fought shy of the thieves' guilds and avoided the notice of the Hammerites. While he does not, perhaps, thrive, he does better than merely survive.
+
+"I believe that I witnessed a significant event in his career, a turning point from which he will rise quickly, and perhaps dangerously, among the City's underworld, if his arrogance, his greed and, yes, his anger, do not trip him up. I shall tell you what I observed."
+
+....
+
+Up till now, most of his... shall we say, adventures... had been pretty small potatoes. The trick seemed to be to find a job where the payoff was high, but a single, resourceful fellow could pull it off alone. He'd seen the Downwinders in action a few times with teams of three or even four and, although they usually got what they wanted, they weren't exactly subtle. Besides, from Garrett's point of view, who wanted to split the loot?
+
+He'd finally found an opportunity that must have seemed perfect. He'd been having a quiet drink one evening at the Dead Dog--a lowlife tavern in the old town that used to be called the Sleeping Hound, until its sign was repainted by an artist with more ale in his veins than blood--and listening to the conversations of others. You know well that a man in his cups will speak indiscretely when the hour is late enough and the wine is strong enough. An old man, slumped on a broken stool in the fire corner, mumbled to himself. No one had been paying him much attention until the phrase "a hundred gold cups" dribbled out of his mouth. That pricked up Garrett's ears quite a bit. As he listened, the old man began to repeat himself, muttering the same phrases over and over again.
+
+"Under the tun," he muttered. "Long and long. Down to Vanta's secret place. Aye, a secret. A hundred gold cups for the fair--folk. A hundred cups, a hundred spoons, a hundred plates.... A hundred hundred hundred."
+
+Now, it sounded like gibberish, the ravings of an old drunk, but it rang a bell with Garrett. He must have heard a tale like this before: a hundred golden cups made for a madman's "fairy banquet" and hidden in a secret place. It's the sort of tale that would lodge in Garrett's mind. An excellent memory has always been one of his underappreciated skills.
+
+Each of these "fairy cups" differed from the next, decorated with chased designs and jewels and each no taller than a man's thumb. All one hundred had been made by the same master goldsmith and his son --nearly a lifetime's work. And there's no doubt that the entire set existed at one time, since Lord Sclaris had sixty of them. Most people assume that the rest were lost long ago, but you've observed how few truly valuable things are ever completely lost. Usually, someone's just managed to "misplace" them.
+
+Garrett had once considered going after Sclaris's collection, but realized that the price he could get would not be worth the risk. Faced with such a collection, what fence would want to buy the things, except to melt them down? And their value as curiosities is much greater than the mere weight of gold and jewels. But, if Garrett could lay his hands on the other forty cups, Sclaris would be willing to offer a very good price to complete his collection --certainly more than the gold-value of the other sixty.
+
+And Garrett knew just the right fence to take them to. There is a man in the City named Cutty, who specializes in receiving unique objects. Up to now, Cutty had been extremely cautious in his dealings with Garrett. As Garrett is a freelancer, Cutty must tread carefully, what with the guilds and city wardens being as powerful and active as they are. But a job like this would definitely appeal to Cutty's own greed and, not being a fool, Cutty would want to keep the business going, perhaps even steer some commissions Garrett's way. Now, Garrett just needed to find out where the old drunk had seen the cups and if the remaining ones were still there.
+
+The drunk looked down into his cup and drained the last drops, muttering, "Three--score for the master and two--score for the maid." He pulled at his cup again and seemed surprised to find it empty. As he patted his purse, hoping for the tell-tale jingle of another coin or two, the thief sidled along the shadowed wall and tipped the contents of his own cup into the old man's. As the old man found his cup refilled and took a noisy slurp, Garrett swiped a pitcher of wine off a passing tray and set it down in the shadow beside himself.
+
+Then the old fool began to sing:
+
+A jug of wine for my beloved and a jug of wine for me And dilly-dally by the river, my darling girl and me.
+
+Then it's a wedding ring for my lady and a blushing bride for me, A coin for the parson and gift of gold for thee. Three-score for the master and two-score for the maid And, oh, my heart's desire, at your feet my treasure's laid.
+
+A jug of wine for my beloved and a jug of wine for me And dilly-dally-hiccup!
+
+He let out a ringing belch, saving the tavern's patrons from another chorus of his awful song. He washed the words down his throat with a swig of wine.
+
+"A hundred hundred hundred," he muttered again. "Swing the grapes high and low. Swing the grapes into the basket. Snip, snip and there's another bunch. Tread and tread, round and round. Purple blood of a million grapes." He finished off his cup again and Garrett poured a bit more in as soon as the man wasn't looking. If he could just keep the old fellow lubricated with wine, he'd tell Garrett what he wanted to hear, sooner or later.
+
+"What about the cups?" the thief whispered. His voice was so low that the old man must have thought it was his own mind whispering. His eyes shifted around, but he never saw the dark-cloaked young man, crouching in the shadows.
+
+"Ah, the cups! A hundred golden fairy cups. But they never came. My master's master waited and waited, but they never came. And all that wine went to waste. Well, not all of it," he added with a drunken chuckle that ended in a hiccup. "My master helped himself, I'll be bound. Fine wine. Finest wine that ever was. Fit for fairies, fit for kings and princes! And so, goodbye the wine, goodbye the little fairy cups. Away little cups. Long and long. Low and low. Away, away the little cups did go. Tee-hee!" The old man began giggling until he belched again and drank his wine. "I saw them once. I saw them twice. I saw them spirited away by mice. No, not mice, rats, great big rats. Very, very large rats. Upright rats that crawl through the daylight sewer."
+
+"Someone stole them?" Garrett asked in a whisper.
+
+"Minions. Hungry, hungry rats. Took my master's master's cups. Thought they took them all, but the maiden was craftier than they, oh yes. Kept her treasure safe and whole. Poor maiden, cold as stone. Poor, poor maiden all alone," the old man sniffled. Tears began to trickle down his face. "The pact was broken, her bridegroom dead, my master's master's fairies fled. The wine was spilled upon the floor, the hall was sealed forever more. Under the tun, under the sun, rests my master's master's lovely one." He began hiccuping and he hiccupped and hiccupped until his eyes rolled back in his head and he toppled off his broken stool, out cold as a fresh-caught fish and twice as fragrant.
+
+Garrett slipped away a distance into the shadows as the serving maid bustled over to look at the old man. "Passed out, the old fool," she muttered. Then she spotted the pitcher of wine. "So that's where that went," she said. "Poor old sot's stooped to stealing for his cup, now. Well, I'll not tell this time.... Artus!" she shouted to the tavern-keeper. "Artus, find someone to take the old man, here, back to his house. He's too drunk to walk."
+
+"I'll do it," Garrett said, stepping up behind her.
+
+She spun around and stared at the young man, looking him up and down with an eye sharp as a knife. "You? Well, I suppose, if the old man's stooped to stealing wine as bad as that, there's nothing left in his pockets for you to steal as well."
+
+He grinned at her. "Mistress, you malign me," he said. "Besides, I'll pay for the wine, if you like." It was, after all, nearly the least he could do. Judging by the smell, it wasn't very expensive wine.
+
+"All right," she said, holding out her hand.
+
+He gave her a coin and hoisted the old man over his shoulder. He didn't weigh much. "Tell me where he lives."
+
+She gave directions and Garrett carried him home. The whole way, the old man snored and drooled down the back of the thief's cloak. Ugh. He was a disgusting old package, but, on the other hand, the night watchmen don't trouble much over a man carrying a drunk over his shoulders. They figure the one's no trouble and the other's got his hands full. If this job was successful, Garrett should see more than enough money to cover the cost of cleaning his clothes.
+
+When he got the old man back to his hovel, he hardly made a sound as Garrett dumped him onto the pallet and dropped the rat-gnawed blanket over him. The younger man didn't doubt that the old fellow would sleep through his investigation of the lodgings. Garrett rifled through the few belongings the old man had, including a stinking leather trunk that must have been very nice once. In the trunk was a medallion and a small scroll from the Brotherhood of Vintners. Unless he'd stolen it, the old man, whose name was apparently Bertram, was or had been a journeyman wine-maker.
+
+It looked as if wine figured in this job as more than just Bertram's favorite tipple. His master would have been a Master Vintner. His master's master had probably been this Vanta that Bertram had mentioned, and he'd have to have been rich, eccentric and the owner of a vineyard or winery. Garrett knew someone who could fill in those details, if pushed. He'd make that his next stop, and then Cutty's place.
+
+He was about to leave when Bertram sat straight up in bed. Garrett's heart did a dance-step in his chest and he squeezed himself into a shadow up against the wall. Bertram just sat there. "Melody," he said and dropped back onto the pallet, snoring again before his head hit the straw. As he flopped back, an object on a thong around his neck thumped gently onto the filthy ticking beside his head. Garrett bent forward and took a look at it. A ring: a funny type of adornment, he thought, that seemed to be carved from white stone: alabaster, maybe, or some type of shell. Well, it had to be worth something. Carefully, the thief cut the thong with his eating knife and drew it out from under Bertram's neck. He looked at the little ring, which had a squiggly grape vine design carved into it's surface. Pretty. He stuffed it and the thong into his pocket and bid Bertram good night.
+
+He walked across the old town and up to a more legitimate district across the river, though it was obvious that it wasn't as fashionable as it once had been. Here the lateness of the hour had sent most of the residents home, if not quite to bed, and the streets were nearly empty. Under a sign of three green bottles on an old, stained board, he found the door he wanted. Locked. He tapped lightly, but no reply came. Garrett stepped back and surveyed the building from the safety of a shadow.
+
+The shop was in poorer repair than its neighbors. Even in the dim light of the street lamps, the paint was plainly dusty and peeling. The front shutters hung crooked and several of the slats were broken. A dim flicker from a moving candle limned the edge of the upstairs window and then vanished.
+
+"Hmm.... I think I'll just see if friend Bottle is less careful of his back door," Garrett murmured to himself. He slipped through the shadows to the alley that passed the back of the shop and sauntered down the narrow passage.
+
+The proprietor's name was Martin Martinson, but he'd earned the nickname "Bottle" at a young age when he took to pilfering from his father's stock for the benefit of fairweather friends and bad companions. Martin was not a great judge of character, but he did have a fine sense of self-preservation, which explained his reaction to Garrett's appearance.
+
+Garrett found the back door locked also. Beside the door was a small window covered with greased paper. Silently, Garrett cut out the paper and pulled himself through the narrow opening. The window opened into the small stockroom beside the kitchen. A few dusty crates stood here and there, somewhat haphazardly arranged. Garrett had to move carefully to avoid toppling any of them. A staircase in the kitchen led upward and he went up with no more sound than a mouse.
+
+At the top of the stair was a short passage with three doors. The first was a small, unused bedroom. Garrett didn't bother with more than a cursory examination. The room was empty of all save dust. The next door opened onto Bottle's office. Both full and empty wine and spirits bottles rolled loose on the floor amid drifts of paper and dust. The desk was covered in untended piles of ledgers and scrolls, pages of inventory and letters long out of date. Garrett sat down in the cracked leather chair behind the desk and began exploring the content of the drawers. He didn't bother trying to stay quiet, though his movements were, by habit, stealthier than those of other men. He found some interesting pages and a small stash of silver coins, which he slipped into his own purse. Getting impatient, he picked up an empty wine bottle and threw it against the far wall.
+
+Bottle had been trying to sleep without thinking about sour wine and missing crates and customers who didn't pay their bills when he heard a crash.
+
+"What the-," he grunted, startled upright in bed. "Oh, it's a rat, to be sure. Knocking over a bottle, or som'at." He started to lay back down, but another crash and a tinkle of broken glass jerked him out of bed all together. Grumbling, he grabbed a stout stick he kept beside his bedroom door and crept out into the hall.
+
+"Crept" was, in fact a generous term for the stumbling, slow progress he made to the office door. Clutching the stick, he threw the door open and lurched into the room. "Arrgh! Where are ya?" he yelled, swinging the stick wildly. He touched nothing but his own shelves and papers. Dust and pages flew up in a cloud around him. "Errr! Damned rat!" he coughed.
+
+"Now, that's not a nice thing to say," said Garrett, a foot from his right shoulder.
+
+Bottle yelped and started to swing his stick again. Garrett grabbed the other man's forearm and pinned it to his side.
+
+"Tsk, tsk, Bottle. What a way to greet an old friend," Garrett chided. He snatched the stick from the other man's hand and tossed it away. It landed with a clatter amid a pile of empty bottles.
+
+Bottle leapt back and wheeled to stare at his visitor. "You! By my sainted mother's teeth, how did you get in here? What do you want, Garrett?"
+
+"Maybe I've come to purchase a bottle of wine."
+
+Bottle snorted. "The day you purchase a bottle of wine will be the day I grow rich and learn to fly."
+
+"What a suspicious mind you've got, Martin."
+
+"Oh, now it's 'Martin', is it? I knew you wanted something. I know about you, you sneak thief."
+
+"Sneak thief? I assure you, I'm much better than that. But, you're right, I do want something."
+
+"I knew it. Well, I haven't got anything you'd be interested in. No money, no valuables, hardly any wine worth discussing."
+
+"You'd have a lot more all those things if you sold more of your stock than you drank," Garrett observed.
+
+Bottle's face turned purple. "By my mother's-,"
+
+"Oh, please!" Garrett interrupted, pointing at him. "Your mother lives on the other side of town with your brother Fal, in a nice little house he bought with his gaming profits. He's complete slime and we both know it, but at least he's successful slime, unlike you. Fal always said: if you're going to cheat, cheat well. I guess you still haven't learned that lesson, have you, Bottle?"
+
+"Why, you-!" Bottle gurgled, lurching toward Garrett with his hands out like clawed paws. "I'll break your damned neck! I'll knock you into next week!" He stumbled over a pile of bottles as Garrett skipped nimbly away.
+
+"Ah, ah, ah!" Garrett chided, stopping behind the desk. "If you do that, you'll have to wait until next week to get what I have for you." He held up his purse and shook it so the coins inside jingled enticingly.
+
+Bottle struggled back to his feet and stared at the little pouch in Garrett's hand. He licked his lips and wiped dust off his face. The thief could see the calculations whirling in the other man's head, like moths around a flame. "Let me see it," Bottle demanded.
+
+Garrett spilled the coins onto the desk. The silver and copper coins slithered and sang across the paper-strewn surface. One tiny gold coin winked from the pile. Bottle gasped and darted toward the desk. Garrett snatched up the paper the coins rested on and jumped back.
+
+"Not so fast, old friend. You don't even know what I want, yet."
+
+Bottle plopped down into the chair. "All right!" he shouted. "Just tell me! I'll do it!"
+
+"And people say I'm greedy," Garrett murmured. "Tell me what you know about a... wine merchant named Vanta."
+
+"Vanta? He wasn't a wine merchant," Bottle scoffed. "He was a rich old fool who owned that old chateau just outside the Eastern Gate. He bought it back in my great-gaffer's time. It used to belong to Lord Randall's family, but when the family got richer and more powerful, they didn't want to live outside the City any more, in a crumbling old pile surrounded by half-dead grape vines. So they sold up and this Vanta moved in. My gaffer said the old man claimed to be a magician of some kind and he must have had some kind of magical touch with plants, at least, because those old vines came back and started producing again in just two years.
+
+"But he was a crazy old bat. My old gaffer--who was just a lad then--said that Vanta thought his vines were tended by fairies of some kind. That it was the fairies that made them grow so well. Gaffer said he used to sneak into the vineyard whenever Great-gaffer went out to the chateau to buy wine-the vines were so prolific, that Vanta had built his own little winery beside the chateau. Any road, Gaffer used to sit in the vineyard and try to catch a glimpse of the fairies, but he said he never saw a thing. Hah!" Bottle snorted. "It was probably all the work of his vintner and his gardener, anyway. He hired the best in the City and brought them out to the chateau."
+
+"Who worked for him?" Garrett asked, leaning against the wall with his arms folded across his chest, hiding the coins from Bottle's view.
+
+"I don't know all their names. The only time I ever went out there was long after Vanta went off his nut and someone else owned the place. There was an old fellow named Burt, or something like that, who used to sell my father a bottle or two upon occasion. He said he'd worked for Vanta and the bottles were definitely from Vanta's chateau. The old man said they were his prized possessions and the finest wine he'd ever made, but he was a drunk and I don't know if he came by the wine legitimately, or if he stole it. Here, wait a minute," Bottle added, scuffling around under the desk, "I think I've got one up here, somewhere."
+
+The wine-seller crawled under the desk and dragged out a very dusty bottle. The cork and wax were still intact. He dusted off the bottle and set it on the desk in front of himself, then turned the bottle slowly around until Garrett had a good look at it.
+
+"Pretty, isn't it?" Bottle asked, stroking the glass container.
+
+"I suppose," Garrett answered.
+
+Instead of the usual muddy green, this bottle's glass was dark, dark blue and the label was touched with gold leaf. The vintner's and the chateau's marks had been scribed into the bottle with a diamond so that the bottle would never be mistaken, even if the label fell off.
+
+"Most of it's gone, now, I expect," said Bottle. "About the time my old gaffer came into the business full-time, Vanta's vines went bad. They just stopped producing grapes all together. Well, old Vanta decided that the fairies were angry with him and he said he was going to have to do something to make them happy again. But, whatever it was, it didn't work and the vines never came back. Vanta went mad. Gaffer said he ran out into the vineyard and set the vines on fire. Burned them all to the ground. Even part of the chateau caught, but the servants put that out. They couldn't save the vines, though.
+
+"After that, Vanta never came out of the chateau, except to wander around in the winery. All the servants ran away, except for the vintner, who stayed a while to tend the wine that was still in the vats. Finally even he left and a few years later, so Gaffer said, old Vanta hanged himself."
+
+"If there wasn't any more wine, why did you go out there?" Garrett asked.
+
+"I didn't say there wasn't any more wine. All the wine that had been in the vats when Vanta burned the vines was still there. The winery was a wreck, but a few cases of the wine were still in there. I went out there with my father to see if we could buy the wine from the family that bought the chateau after Vanta died. They wouldn't sell it to us. Said it was too valuable and they were going to keep it, but I heard they did sell it to someone else a few years ago. I wish it had been me. That stuff's worth a fortune, now."
+
+"Old wine? Who'd want to buy that?" Garrett scoffed.
+
+"By my mother's-."
+
+"Don't start that again."
+
+"Oh, all right!" Bottle snapped. "Just goes to show what an uneducated taffer you are, Garrett. Wine gets better as it ages. And old, rare wine is worth a lot to people who really appreciate the finer things in life," he added with a sniff.
+
+Garrett rolled his eyes. "If I'd only known, I could have been stealing old wine bottles all this time and be rich enough to retire by now. Instead, I just drink the stuff. What a silly old taffer I am."
+
+Bottle snorted. "You can laugh if you want, but this bottle right here," he said, gently tapping the cork, "could pay the rent on this building for a month, if I could just find the right buyer."
+
+"Really?" Garrett sneered.
+
+"Really. Hey, now, don't go getting any ideas, Garrett," Bottle warned, snatching the wine away to the far side of the desk. "This is the only decent thing I've got and I'm not going to let you go taking it from me. You keep your thieving hands to yourself."
+
+Garrett put up one hand in a warding gesture. "All right, all right. You don't have to worry about me helping myself to your rent-in-a-bottle."
+
+"Good."
+
+"Did your old gaffer ever say anything about what Vanta planned to do to make his fairies happy again?"
+
+"I think he said Vanta was going to throw them a party, or a ball, or something. What a crazy idea, eh? Supposedly, he had a whole little dinner service made for them and built them a tiny little room to have the party in and there was going to be a feast and special wine and even music. That must have looked funny: all these musicians standing out in the vineyard, playing dance music for invisible fairies and the cooks making tiny food and tiny casks of wine.... Hmm, I wonder whatever happened to the casks. Those would be worth something, eh? Maybe I could sell them to old Sclaris to go with his tiny cups, huh?"
+
+Bottle started laughing and didn't notice that Garrett's expression had frozen into a frown. Bottle giggled himself out of breath and had to put his head down on the desk. When he looked up, Garrett had moved away from the desk. He looked around frantically.
+
+"Where'd ya go?" Bottle demanded, swiveling his head from side to side. He jumped an inch in his seat when Garrett spoke from the other side of the desk.
+
+"I'm right here," the thief said. "Don't be so nervous, Bottle. Did your gaffer ever say what happened to all this stuff?"
+
+"No, he-. Hey, why are you asking me all these questions about this stuff? I didn't think you were the sort to believe in fairies, Garrett. Maybe you want the crazy old man's dinner service, eh?" Bottle started to laugh again, then his eyes bulged and he choked on his laughter. "Hey, you do want the fairies' dinner service, don't you?! You want to steal old Vanta's tiny plates and knives, don't you? And sell em to Sclaris, I'll bet!"
+
+"Maybe," Garrett conceded. "Maybe I just want the fairies' little casks of wine...."
+
+"You can't have 'em!" Bottle objected, jumping to his feet. "If anybody ought to have those little casks it ought to be me! That's my family's right! We bought and sold Vanta's wine for years! They ought to be mine!"
+
+"Stop yelling. You'll bring the city guard down on us for disturbing the peace of this lovely neighborhood," Garrett warned. "Be quiet. I'm just taffing you. I don't want your silly little casks, if they even exist. Besides, if you really want them that much, are you going to go and get them? Do you even know where they might be?"
+
+Bottle puffed a moment longer, then sat back down. "No. I guess they'd be in the winery, if they still exist at all. I'm no thief. I wouldn't know how to go and steal them and the family that lives in the chateau is sure not going to sell them to me."
+
+"Well, then, it's lucky for you that you know me, isn't it?"
+
+"Are you really going to go and steal Vanta's fairy plates and knives?"
+
+"I might go and have a look around and see what I can find, just lying around. You never know.... And if I find any little casks of wine, I'll be sure to let you have them, old friend. Where do you suppose those things might be?"
+
+"In the winery would be my guess. If they were in the house, the present owners would have found them by now."
+
+"Do you know where I could get a plan of the winery?"
+
+"No. But I'll bet that, if there is one, it's in Vanta's office in the chateau."
+
+"What makes you think that the current owners haven't been through that room top to bottom by now? It's been years since Vanta died. Before you and I were even born."
+
+"Not only are they greedy, thoughtless snobs, they're lazy. There are parts of the house no one has been into since my gaffer's time, especially where the fire was. I saw it when I went there. I don't think they've changed. Also, the winery is a wreck, like I told you. No one goes in there. They just let it rot. Neither Vanta's office, nor the vintner's will have been touched. You can bet on it."
+
+"I hope you're right, Bottle," Garrett said, starting to turn away.
+
+"Hey. Just a moment, Garrett. I didn't sit up half the night running my jaw for nothing, remember? Where's that money, eh? Hand it over," Bottle demanded, sticking out his hand.
+
+"Oh, you're right. How could I forget?" Garrett said, sidling closer. As he poured out the coins with one hand, he reached behind Bottle with the other.
+
+"That's better," Bottle said, scooping the coins into the center drawer of the desk. When he looked up, Garrett was gone and so was the blue glass bottle. "Damn you, Garrett."
+
+Back out on the street, Garrett tucked the bottle gently into his jerkin and started back to the old town, chuckling.
+
+His route was different this time. He turned the other way when he crossed the river and slipped down a series of streets more twisted and narrow than those near the Dead Dog. He went through a mews and climbed a stair that led to an alley which clung to the second level of one wall of houses while running the length of the first level across the street. At the end of the alley he dropped down through a doorway that had settled at an odd angle and came, by a round-about way, to Cutty's place. Cutty's door was unlocked, but latched. Garrett let himself in and slipped two more locks before he found Cutty in his strong room.
+
+Cutty was tallying his books and entering the newest merchandise to cross his counter. A nice collection of old coins was spread out on a velvet cloth beside an exquisite necklace of pearls and gold.
+
+"My, my," Garrett observed as he spotted the necklace, "if that isn't Dora Malek's necklace, I'll shave my head and join the Hammers. Good evening, Cutty."
+
+"Good evening, my boy. Getting rather bold, aren't you?" Cutty asked, glancing up quickly. Garrett spotted a small crossbow moving under the counter.
+
+Garrett shrugged.
+
+With a snort, Cutty went back to his work. "Yes, Lord Sclaris does give his mistresses fine gifts, doesn't he?"
+
+"How can you hope to get rid of the thing?" Garrett asked. "Dora Malek has worn it on each of her opening nights this year. Everyone in the city must recognize that necklace by now."
+
+"Ah, but that is precisely why someone wanted it. Don't concern yourself with my hardships. I assure you, I have very few. So, what brings a young miscreant like you to my door?"
+
+"I've brought you a gift," Garrett replied, sliding the blue wine bottle from his jerkin and placing it gently on the counter beside the coins.
+
+"Ah," said Cutty picking up the bottle reverently. "Chateau Vanta. I see your taste has improved. Who did you kill for this?"
+
+"No one. I got it from a friend. I thought you could appreciate it more than some soft, spoiled lordling and his mistress."
+
+"That I most certainly can. So, what do you want?"
+
+"Why does everyone think I want something, tonight? I said it's a gift."
+
+"That, my young friend, is not a gift," Cutty replied, pointing to the bottle. "That is a bribe. What do you want?"
+
+"You know of Lord Sclaris's little gold cups?"
+
+Cutty laughed. "Don't tell me you have the outrageous gall to think of stealing them? Be certain, Garrett, a single man, no matter how clever, could never get in and out of Sclaris's manor alive."
+
+"I'm not thinking of stealing them. I'm thinking of augmenting them."
+
+Cutty blinked. "What? There aren't any more cups like that in the world."
+
+Garrett smiled. "Oh, yes, there are. There were one-hundred, originally."
+
+"Surely not?"
+
+"Surely yes. I think I know where the other forty cups are. And I think I can get them."
+
+"Are you serious, my boy?"
+
+Garrett nodded. "Serious enough to bring you a bottle of Vanta, old man."
+
+Cutty looked at the bottle. "Vanta.... Did you know that it was supposed to be Vanta himself who had the cups made?"
+
+"Yes, I did, and now I know where he hid them when his fairies didn't come to the party."
+
+"Really? Tell me, dear boy, where do you think they are?"
+
+"Oh, no, Cutty. I may be young, but I'm not wet," Garrett said, tick-tocking a finger at the fence. "If I tell you, what's to stop you from telling someone else and letting them go after my prize? No, no, Cutty. What I want from you--see there, you were right, I do want something."
+
+"You want me to approach Sclaris, eh?"
+
+"I knew you were a wily old codger, Cutty. You took the words right out of my mouth."
+
+"I'd be glad to make your proposal to Lord Sclaris. When do you think you can get the cups?"
+
+"I'm not sure yet. I need to get something out of Vanta's old house first, so I'll have to wait for a night when the owners will be gone."
+
+"Why wait?"
+
+"Why risk? Although there may be more guards on patrol when the family goes out, there will be fewer people moving about unpredictably in the rooms. If I'm patient, the risk of being caught goes down once the family is out. If you could get me a contact in the servant's quarters and, if possible, a map of the house, I can take it from there."
+
+"Servants are notoriously unreliable accomplices, my boy," Cutty warned, shaking his head.
+
+"I don't want to befriend one, I just want someone who's likely to know when the family will be out for the night, or, for preference, gone for a few days."
+
+"I see. Well, I think I can get those bits of information for you. Look for me at the Star and Sickle in two nights time, after the first watch rotation. If I'm not there, come again for three more nights. I'll have your information."
+
+"Won't that look suspicious?"
+
+"I doubt it. I'm often in the Star and Sickle after first watch. It's just down the road, if you go the front way. If you're discrete, no one will notice you, either."
+
+"I'll look for you," Garrett promised.
+
+"Good night, my boy. Thank you for the wine."
+
+....
+
+Garrett, by nature and habit, is not an early riser, but he was on the streets in time to slip aboard a wagon heading out the Eastern gate. A mile or more outside the City, he jumped to the ground and began to walk, searching for Vanta's chateau. By the time he found it, he had decided that Bottle had obviously never come this way on foot, for it was certainly not "just outside the gate". He would have to consider that distance in his plans.
+
+Dusk was settling like dust after a storm, leaving the stubbled fields gray. He found a spot to conceal himself and watch the house. From his vantage, he could see the front doors of the main house and the bulk of the winery a distance off to the side. A few servants and a handful of field workers passed, coming and going through some unseen door on the side or back of the main house. No one moved near the winery.
+
+The house was a three story cube of stone with wooden roof beams and window casings. All the visible wood seemed to be carved, but the failing light made it impossible to determine what the figures were from such a distance. No lights shone through the windows of the lower floor and only two of the upper windows showed lights. One of the upper rooms glowed with the fitful ruddiness of firelight and candles. So far, he'd spotted none of the electric lamps that illuminated the streets and rich houses of the City.
+
+The autumn weather was turning cold. The first frost couldn't be far off. A single guard kept watch at the front door, huddling over a brazier of coals for warmth as his cloak was thin and flapped in even a small breeze. A single, smoking torch illuminated the entryway.
+
+"The owners of this place must not pay too well," Garrett observed. He had learned to disregard weather, unless it was extreme, but he was still glad of his own good cloak, offering both warmth and concealment. He drew it a little closer and pulled the hood down farther, cutting the breeze that chapped his cheeks. He ate some bread and cheese and waited.
+
+The chateau was a silent place. Once full dark had fallen, no one passed in front of the house or winery. No one passed at all. Eventually, candles were extinguished at the front of the house, leaving only the dull red glow of the dying fire in the one room. Faint illumination from bedroom windows made new shadows along the north- and south-facing walls. Finally, the lights went out and the guard at the front door was replaced with another poor, shivering sufferer. The night was half gone.
+
+In an hour or so, the guard looked around and walked into the trees to relieve himself. Garrett began to creep toward the nearest corner of the house, careful not to alert the guard. On the north wall, he spotted a wide wooden door. A lean-to against the wall beside it was stacked with firewood. There was also a barrel beneath a drainpipe from the roof. The faint odor of smoke and cooking hung near the door. He slipped closer and tried the latch. It was barred from the inside and the string had been pulled in for the night. Even here on the outside, the stone walls were faintly warm. Garrett crept on, passing a vegetable garden and a field of mown grain that stretched to the north and east.
+
+He turned at the corner of the eastern wall, seeing more cut grain and ditches bordered by fruit trees. The burned wreck of a covered terrace loomed from the wall on his right, thrusting it's shambling hulk into the eastern field. Crumbling steps of fire-scored stone tumbled into a wasteland of weeds and twisted, dead grapevines. The burned vineyard stopped abruptly at a low wall of newer stone and the clean, cropped grain fields continued on the other side. No one had bothered to clear the wreckage all the way to the house, but only as far as necessary for the field.
+
+He put his hand against the wall and felt it crumbly and gritty beneath his fingers. "Burned mortar," he noted. "And it's loose as sand. I'll bet there used to be a door here somewhere. That might prove useful."
+
+He slunk on, going slowly over the crunching grit and uneven stones of the terrace. Fallen, scorched and rotting timbers, stone and creeping plants barred his way and he had to backtrack and go out into the destroyed vineyard to make his way around. On the other side, he found the door, sagging, rotted in its frame. He pulled on it and the door groaned, then collapsed toward him with a sound like a dead body slumping to the ground. He jumped back, catching his breath and falling backward as the buckled stones of the terrace caught his feet.
+
+He fell hard and the world reeled around him. Dazed, he lay still, listening for the sound of an investigating guard. No one came. He rolled to his feet and shook the last of the disorientation out of his head. "I guess that's what my friends the Keepers would have called a learning experience," he muttered. "Gotta watch out for those." He rubbed the back of his head and was pleased not to feel the stickiness of blood there. The lump wasn't really that big, either. He moved toward the empty doorway, his soft boots scraping on the gritty, detritus-strewn stones.
+
+The doorway was boarded over from the inside. "Damn. Looks like I'll have to find another way in. I hope Cutty comes through with that map."
+
+He finished his circuit of the house, coming again to the front by the south wall, this time, but spotting no other doors. He was considering investigating the winery when he heard footsteps on the gravel drive. Backing into a shadow, he watched the drive leading to the front door of the house.
+
+A man in laborer's clothes strolled boldly up the lane with a pruning hook over his shoulder, a lanthorn hanging from the handle before him, and a sack in his other hand. "Mornin' to ye!" the rustic called out.
+
+"Be quiet!" the guard hissed. "You're late, Stenish."
+
+"Am I now? Well, then, it's sorry I am that ye've been inconvenienced, amn't I?"
+
+"Shut up, can't you? The cook and her scullions will be up and about any minute, clattering around the place and asking me to carry water and haul wood. That woman would drive a demon mad. Hand it over, quick. I need to get it hidden before she sends someone to devil me."
+
+"All right, all right. It's a good thing, then, isn't it, that I don't mind walkin' all over hill and dale for your comfort, eh? Here it is." The workman lifted a jug out of the sack and offered it to the guard, who snatched it into both his arms and cradled it like a baby. "Have a care, man. You'll tear me arms off, so you will. I'll be needin' those for to swing the hook, won't I?"
+
+The guard growled and started to walk off. "Stand here while I hide it and, if anyone comes, tell them-."
+
+"I know what to say: I'll say ye've gone to water the wee charming roses, eh?" The rustic laughed and the guard glowered, but said nothing more, just darted off into the darkness on the south side of the house with the jug in his arms.
+
+Garrett caught a whiff of apple brandy from the jug as the guard passed his hiding place. Strong and rough, it was probably deadly stuff to the uninitiated. Garrett took the opportunity to creep deeper into the shadows away from the drive. If the guard was worried about the cook, then there would soon be people about, working and wandering around, and that was no place for a self-respecting thief. It must have been later than he realized. He crept along, parallel to the edge of the lane, and hoped he'd be able to steal a ride on another wagon into the City. It wasn't a walk he relished.
+
+....
+
+It was the second night he'd waited for Cutty in the Star and Sickle. The second watch rotation had already taken place and the guard had walked on. Garrett wondered if something had happened to Cutty. A few new patrons came in and Cutty was among them. Garrett watched the older man scan the room and frown very fleetingly as he didn't spot the man he searched for.
+
+Cutty took a seat against a wall where he could watch the door, but was still close to the back exit. He glowered at anyone who came close, thus keeping his little table private. Garrett made his silent and stealthy way around the room and stopped by Cutty's shoulder.
+
+"Hello, old man. Looking for me?" He nearly laughed out loud when the balding old fence started and jerked his head to stare.
+
+"You're like to give me a heart attack, my boy. Fine trick, sneaking up on a body like that."
+
+"It serves me well enough," said Garrett, sitting beside the older man. "Do you have my map?"
+
+"I do indeed and a bit of information as well. Sit down. I'll buy you a drink."
+
+Cutty had signaled to the serving maid before Garrett could refuse. The buxom, brown-haired girl brought two tankards of ale and set them on the table. Garrett turned his head aside and covered his face with his hand as if he were coughing. She didn't look at him twice, but went on about her duties, for the tavern was busy.
+
+The ale was rich and creamy and slightly cold. Just right.
+
+"Better than that swill at the Dead Dog, eh?" Cutty asked, taking a deep drink.
+
+"Something left behind by rats would be a step ahead of the stuff the Dead Dog serves," Garrett replied. "So where's the map?"
+
+"Learn some patience, lad, or you'll not last long in this business," Cutty chided him, pulling a thin scroll of paper from his jerkin. "Here. Now, listen and I'll tell you the situation. The house is almost empty. The family plans to move back to the City during the winter, but the house will never be completely abandoned. A caretaker and his wife will be there all winter. There's also a patrol of guards inside and one at the door."
+
+"I know. They change the standing guard at the door once a night. Anyone in the winery?"
+
+"No. It's been abandoned. If the building gets any worse it'll be pulled down. How do you know about the guard?"
+
+"I went out to have a look around a couple of nights ago. The only other door is barred at night from the inside, so I never got a look inside. What's the situation right now? How many guards indoors?"
+
+"Four. One per floor and another who roams about as relief. They don't keep a particular patrol, they just wander around. Unfortunately, so do the servants. When the family is at home, they stick to their quarters in the cellar, but, when the family is away, they all migrate to the warmer rooms upstairs. The family won't be moving to the City for another month, there's still a lot of work to do with the grain harvest and the apples. The family--their name is Connley, by the way--have interest in several trade routes and growing their own grain and making their own cider helps cut the costs and raise the profits of the trade. Connley's a wiley fellow."
+
+"And tight-fisted, too."
+
+"Yes. Most of the men and women in his employ don't like him much and they don't stay long. I was lucky to get a hold of a man with a grudge who had worked inside the house. Connley's wife and daughter don't really care for the countryside in winter, so, once Connley's business in the country is taken care of, they insist on retiring to the house in the City."
+
+"I don't think I can wait that long."
+
+"Nor can Lord Sclaris. He's most impatient to complete his collection. He said he would add a bonus if you could deliver it within a week."
+
+"That could be tricky if the Connleys aren't planning on moving for a month."
+
+"Ah, but I have a tidbit of news for you. Madam Connley is a friend of Lady Randall's and she has accepted an invitation to a dinner party at the Randall's manor next week. Her husband will also be attending. He'd like to do some business with Randall, if he could. They'll probably stay in town until the next day. If you scampered back here with your booty the same night, or the next day, you could meet Sclaris's deadline and get the bonus."
+
+"What about the daughter?"
+
+"That's the fly in the ointment. No one seems to know what she'll be doing. The man I talked to said she's stubborn and willful."
+
+"I suppose I could work around one little girl...."
+
+"She's fifteen years old, but, I imagine you can avoid her, if you go late enough."
+
+Garrett didn't respond to that. Waiting for some spoiled young lady to go to sleep wasn't in his plans. Instead, he unrolled the map and glanced at it. "The burned parts of the house aren't shown on this map," he observed.
+
+"Of course, not. The man had never been in them. They're closed off. He couldn't draw me a map of places he'd never been."
+
+"If they're closed off, are there still ways into those rooms?"
+
+"The doors are locked at the corridors leading to the burned rooms. The guards on patrol have the keys. Is what you wanted in those rooms?"
+
+"Maybe. I guess I'll just have to pick some pockets. Which day next week?"
+
+Cutty told him. Garrett finished his ale and stood.
+
+"Thanks, Cutty. I'll see you when I'm done with my little visit to the Connleys."
+
+"Be sure you come straight to me. Don't go off to Sclaris on your own, or any such foolish scheme, eh?"
+
+"Would I do that?"
+
+Cutty snorted. He tried to watch Garrett leave, but the thief seemed to vanish into the crowd before he was a dozen feet away. Cutty shook his head, bemused and went back to his ale.
+
+....
+
+Garrett kept himself busy for the rest of the week, more for activity than any reason of necessity. He collected a few items he needed for his project and made plans. On the afternoon of the Randall's party, he headed out of the Eastern Gate and made his way to the chateau. Getting about on the property was a little trickier in daylight, but he didn't want to waste a moment of darkness, once it came. He had much to do. He found a way into the winery and settled himself for a short nap, sure no one would disturb him there. At twilight, he emerged again and crept to the same spot he had used for his observations before. There were fewer field workers about this time, since the fields were all bare now and most of the apple trees had been plucked of their fruit.
+
+He'd considered both of the obvious entrances, but decided to avoid both the guards and the servants if possible and opted to try a window. The south side of the house would seem the best choice, since there was no door on that side, but it was also where the family bedrooms were. There simply wasn't a perfect spot. He almost hoped the daughter had decided to stay home, so the servants would stay downstairs, even though her presence in the house--still awake at this time of evening--would complicate matters. She and the servants should both be busy right now with the evening meal. He waited until the door guard was in his place and unlikely to wander soon, and crept to a spot on the south side of the house, near the back. He nocked a rope arrow to his short bow and took a quick look around. No one in sight. Garrett shot the arrow into the roof beam above him.
+
+The arrow set with a dull thump and the rope swished a few feet short of the ground. He put the bow away and began to climb. The window he had chosen was unlocked. He nudged it open and climbed inside, pausing to retrieve the rope and arrow before he closed the window behind himself. He'd rather have the rope and arrow with him if he needed it later, than have it hanging outside, waiting to alert a wandering guard to his presence. He figured that by the time he had found the winery map in Vanta's study, everyone but the guards would be tucked up in bed and he could make his way to the kitchen and out with no one the wiser.
+
+With his equipment put away, Garrett took a look at the room around him. The map hadn't given a good idea of which window led to which room. It looked like he'd found the master suite. There was one door ahead of him and another to his left. The chamber wasn't the most opulent he'd ever seen, but it didn't want for comforts or little luxuries. The bed was draped in fine fabric and the floor was thickly carpeted. He walked across it with barely a sound. A low fire in the grate gave some small light and heat. A table near the fire held some stoppered scent bottles and a box. He picked up one of the bottles and looked at it. Pretty, but fragile. And it smelled strong. "Ugh," he muttered, putting it down, his eyes watering a little from the overpowering perfume. He opened the box. "Ah, now that's more like it." Some nice jewelry rested on the velvet lining, including a pair of ruby earbobs and a gold bracelet. Garrett took the lot and closed the box.
+
+He let himself into the next room. A sitting room. A quick tour netted Garrett a pair of fancy goblets and a note in which Connley complained to his wife that she had spent too much on a new ballgown. He wondered if Madam Connley had received similar notes for the earbobs and the bracelet. She was sure to hear some kind of complaint when they turned up missing. All the better reason to clean out Connley's room, as well, and make them both equally miserable.
+
+Connley's bedroom was next and was almost as showy as his wife's. The carpet was just as thick and wood went to waste in this fireplace, too. A small writing desk yielded up some gold and silver coins, a small key, and a nice gold bowl. Garrett ate the apple that had been resting in the bowl and left the chewed core where the bowl had stood. It pleased his sense of irony. He went to the door that led to the corridor and crouched down, listening for the footsteps of the guards.
+
+In a moment, a set of heavy boots came tramping along the stones and passed the door. A second pair of feet stopped nearby. Garrett eased the door open a crack and looked out. Two guards stood just a pace or two down the hall, talking. He spotted a key hanging from one of the guard's belts and decided to wait for them to finish their chat.
+
+"What do you suppose he's going to do with that stuff in the cellar? Do you suppose he'll leave it here until the spring?"
+
+"Don't be daft. He'll send it along with the household goods when they go to the City. He'd not trust the likes of us to guard his precious crates, the miser."
+
+"Do you suppose he'd notice if we helped ourselves to just a bit of the wine? It's cold as charity in these halls of a night, now."
+
+"You great noddy! You may not be able to count higher than ten, but he can. You can lay odds-on that he knows exactly how many bottles and casks there are down there. If you're so cold, whyn't you buy some of that apple-jack from Stenish? That stuff'd keep a dead man warm."
+
+"Ah, you know I've not a copper to my name once my wife is through with me," the first guard whined.
+
+"Hark at you. Makes me glad I'm not married."
+
+"Oh, go on, Peter. Some pretty-faced wench'll get her hooks into you one day, you wait and see. Then we'll see who laughs the hardest at your wedding, eh?"
+
+Peter shoved his companion by the shoulder. "Get on, taffer. That's enough."
+
+The first guard walked on, shaking his head and chuckling. The guard called Peter came toward Garrett's hiding place, muttering under his breath. As he passed him, the thief slipped out into the corridor and lifted the key from the guard's belt. Quiet as a cat, Garrett followed the guard down the corridor. The guard stopped at the staircases built against the wall and glanced down before he turned and started back on his path.
+
+Once the guard had moved on, the thief put the new key into the lock of the door by the stairs and turned it. The key grated and resisted in the lock before it turned with a snap.
+
+Down the corridor, the guard stopped abruptly. "What was that?" he asked, turning. Garrett faded deeper into the shadows in the corner by the door. The guard walked a few steps back toward the stairs, looking about. "Hmp! Nothing. Maybe a log in the mistress's fireplace.... I should check and see that the fire hasn't escaped the hearth and warm my hands a bit, too." He turned his back on the thief by the stairs and walked away. Once the door to Madam Connley's bedroom had closed behind the guard, Garrett let himself into the abandoned wing.
+
+The front and back of the house were cut off from the middle by continuous stone walls that rose to the full height of the chateau's three floors. This created a stack of long rooms across the width of the front and back of the house. The long room on the second story had been divided with a wooden wall once, but that had scorched and rotted away, leaving only the stone support pillars. Moonlight flowing through the glassless windows illuminated the room with cold light. The stone wall behind him was still nearly untouched by fire or weather, protected by the story above. The floor was littered with windblown dirt, leaves, crumbled stone and ash and the ruined remains of furnishings.
+
+It looked as if this long room, with its two fireplaces, had been the master suite, originally. Against the southern wall stood the wreck of a grand bed. Birds had made and abandoned generations of nests within the silk sheets and feather mattress, but there were none there now. A wooden wardrobe near the windows had scorched until it warped, the doors and frame too misshapen to open again. Garrett examined the rest of the furnishings carefully, finding their contents either gone or ruined. Annoyed, he let himself out the same door he had entered by, unwilling to risk trying the lock on the other door when he couldn't see the guards.
+
+Crouching at the head of the stairs, he decided to finish looting the floor he was on. If he had guessed wrong and there were no golden cups in the winery, he didn't want to leave empty handed. Avoiding the guards, he snuck down the corridor to the next bedroom, which had little to interest a thief of Garrett's caliber. He moved on.
+
+The last bedroom on the south wall was warm and dark, except for the banked fire in the hearth. Closing the door, he began to explore the furnishings for loot. He picked up a silver vase and a small gold ring from a table and headed for the chest at the foot of the bed.
+
+Someone in the bed sat up. "Peter? Is that you? Peter?"
+
+Garrett froze, going icy with fear. The young woman in the bed rustled the covers and started to get out of bed. The thief crouched and backed into the darkest shadow he could find. The woman began to walk across the carpet, searching. Her long braid of hair glimmered red and gold in the firelight, her long, white nightrail swayed against her limbs and let the light of the fire make silhouettes of her shape. This was no servant. She looked about fifteen and very pretty. If she'd done more labor in her life than stitching fancywork, Garrett would be surprised enough to swallow a carp whole.
+
+"Is someone there? Peter, are you there?" She stopped and turned in place, looking all around the room. "I thought I saw someone...," she murmured. "This is most unlikely." She marched to the door and opened it wide. "Peter, Larrick!" she yelled. "Where are you useless guards?"
+
+Both guards came running, their boots ringing on the stone floor of the corridor. "What-what is it, Lexa? Did a mouse disturb you?" asked the voice of Peter.
+
+"No, it's not a mouse, you great idiot!" the girl snapped. "I heard someone moving around in my room. It woke me up. I saw someone in here. There's someone hiding in my room!"
+
+"Oh, now, Mistress Lexa," said the other guard, Larrick, "I don't think that's possible. Me'n Peter's been out here the whole time since your parents left for the City and we've not seen a thing."
+
+"I'm not surprised, a pair of cloth-headed fools like you," she retorted. "I said that there is someone in my room and I want you two to search it. At once!" she added, stomping one small, bare foot. She flung the door as wide as it would go and stood aside with one arm pointing into the room. The guards looked at each other, shrugged, and entered the room.
+
+They searched without enthusiasm: under the bed, in the wardrobe, under the dressing table and the writing desk. They looked around, but they didn't spot a still, dark shadow within the shadow of the wardrobe.
+
+"There, you see, Miss," said Peter, shooing Larrick out the door ahead of himself, "there's naught here. You've frightened yourself. Perhaps a touch of that illness you had...."
+
+"Don't patronize me, you oaf!" Lexa snapped. Then she sneezed in his face. "There! I hope you die of it! Now you've given me a chill! There was someone in my room. There was. I'm not a foolish child who jumps at shadows. You'll see when some thief steals all the gold from my father's study and murders us all in our beds. Then you'll see I was right. Now, get out of my room, you lump!"
+
+The guard took a step, then turned back and looked down at the small, furious young woman in the doorway. "Perhaps you'll like me better in an hour or so," he suggested, brushing her cheek with the back of his fingers.
+
+"Oh, get out!" she yelled, shoving him away and slamming the door in his face. "Oaf! Idiot! Cloth-headed noddy!" She stamped her foot again and began to pace around the room angrily, muttering imprecations under her breath.
+
+Garrett took his first deep breath since the young woman had woken up and let his shoulders slump a bit. His heart was still racing and he felt hot and cold by turns. That was the closest he'd come to being nabbed in a long time. His resolve to stay away from houses full of people was stiffening. Now, if this annoying girl would just go back to bed, he could get on with his work.
+
+She stopped at her little table and poured herself a cup of wine. She drank it quickly and coughed. "Drat them." She started pacing and muttering again, too agitated to go back to bed.
+
+Garrett lost his patience. If she was so certain someone was set to murder her in her bed, he was almost ready to oblige. He crept close to her pacing form, gripping his blackjack. She paced toward him, then turned. He stood and hit her on the back of the head. She let out a squeak and flopped onto the carpet. For a moment, he considered leaving her where she lay and letting her catch cold. But, no, that guard, Peter, might come back and then the cat would be amongst the pigeons. With great forbearance, Garrett picked up the unconscious girl and put her back into her bed. He tucked the covers around her carefully.
+
+"I hope old Peter puts a pillow over your head and smothers you, you spoiled little twit," he muttered.
+
+Once back out of Lexa's bedroom, Garrett finished looting the second floor in quick time. Then he made his way to the ground floor and let himself into the burned section. The guards on patrol never had an inkling that he was around.
+
+Down here, he found Vanta's study. It was in sorry condition, the soggy, rotting remains of old paper and parchment had drifted with the wind into corners and against the slumped hulks of destroyed furniture. A few small animals that Garrett was just as happy not to see clearly scampered away as he moved around the room.
+
+"Well, this was a waste of time," he observed, turning away from the ruined desk.
+
+As he turned, a glimmer of moonlight slid along a steely surface. He stopped and turned back, studying the wall behind the desk with a sharp and probing glance. A tattered old hanging, scorched and mildewed, hung askew against the wall. He walked up to it and cut it away from the moldy stone wall.
+
+"Hah! A safe. Hope it was fireproof."
+
+The handle was stiff, but, finally, the safe door opened. In among some slightly singed and yellowed papers, he found a map of the winery. He also found two keys: one normal_sized and the other quite small. He took them and closed the safe.
+
+On the way to the kitchen, he stopped to help himself to the contents of Connley's safe, too. The key from his bedroom fit the safe. Connley, the miser, also kept the rest of his wife's jewelry in the safe along with the key to his wine cellar. Garrett took it all. It seemed like he could repay Bottle's unwilling charity and it would only cost him a bit of time.
+
+It wasn't hard getting past the servants. Most of them were exhausted from their daily labors and slept like logs in a river. Three men amused themselves with a card game and what smelled, even at a distance, like more of the potent apple brandy provided by Stenish. Garrett began to form a fondness for the stuff himself when he saw one of the men at the table fall forward in the middle of a sentence and start snoring mightily. His companions picked him up, stealing his winnings, and carried him away. Garrett didn't linger. He took himself off to the wine cellar and let himself in.
+
+The cellar had racks of dusty bottles as well as kegs and barrels of various things all arranged along the walls. Stacked in the center of the room were a dozen or so old crates. Each had the winery's mark painted on the top. Garrett investigated the one open crate. It had ten blue bottles full of wine inside it and room for two more. He tired hefting one of the crates, wondering if it wouldn't be better just to steal the whole thing, but it was far too heavy and bulky to carry off easily. Bottle would have to be satisfied with just a few. He piled a couple of the straw_wrapped bottles into his bag, decided it was still light enough, and added two more. Not much work for a few more favors out of Martin Martinson.
+
+With the servants now all sleeping, it was simple to leave by the kitchen door. Garrett carefully dropped the bolt after himself and pushed the string back through the hole. With luck, the spoiled daughter would sleep the day away and no one would notice anything amiss before tomorrow night.
+
+Now, he had to get on with the real work of the night. He walked across the back of the house, avoiding the guard at the front door. There were no lights from the south side of the house and no one about to see him walk the fifty or so feet to the winery.
+
+The winery building was old and rickety and no one had bothered to board up most of its doors or windows. Once inside, Garrett stopped to check the map by the moonlight coming through the windows and gaps in the wall where old wood had fallen away. The map was well-drawn and labeled in a neat, flowing hand. Most of the marking meant nothing to Garrett. What, he wondered was a "tun room"? Maybe Vanta couldn't spell. Perhaps it was mislabeled with that funny old script that made s's into f's and t's into s's? But what would a winery need with a sun room?
+
+He remembered that the old vintner, Bertram, had said something about tons. He turned over his memory to recall what the old man had said.
+
+"'Under the ton, under the sun, rests my master's master's lovely one.' But a ton of what? Guess I'll have to go and find out."
+
+The map had several interesting, but indecipherable marks on the area labeled "tun room". But Garrett had no trouble figuring out the rest of it. Avoiding places where the floor had fallen through into the foundations, he went straight to the mysterious room.
+
+The tun room was built entirely of stone. The moonlight flooded in through glass skylights in the roof. Massive wooden kegs, taller than Garrett, sat on their sides in cradles around the edges of the room. Some had been stove in, some had fallen apart from other causes, but most looked untouched. Purple, red and blue stains marked the floor, scrubbed and faded, but still visible. Around the wall above the huge barrels, a mural had been painted onto the pale stonework. It seemed to start above the door and featured a vineyard where people worked and played and drank and were married. One whole wall depicted a wedding feast in the vineyard. The bride and the groom and all the guests toasted each other with fabulous golden cups beneath a blazing yellow sun and the shade of the grape vines on their arbors. A hundred beautiful guests crowded the vineyard.
+
+Garrett stopped admiring the mural and began to count the guests. There were exactly one-hundred. All of them were ethereally beautiful. Each held a golden cup. "It's the fairy banquet!" he gasped. It was difficult to be certain in the cold, silvery light from the moon, but, staring at the mural, he had the impression that there was something very odd about the vineyard in which the fairies sat and something downright sinister about the way the vines in the rest of the mural seemed to twine and coil, more like snakes than grapevines. He couldn't repress a shudder. He didn't like the mural. He looked back to his map, instead.
+
+On the map of the tun room he saw a circle with the shape of a key beneath it and a ladder. Next to the ladder was an arrow. He started walking around the room looking for anything that might be related to the symbols. Tacked to one of the barrel fronts he found a very old note.
+
+"Master Vintner,
+
+Pray be certain that the new tuns are built of properly dried wood. The one supplied by the cooper in the village some years ago was still green and sap from the wood ruined the contents. I shall be very angry if another 252 gallons of wine goes to waste for bad barrels.
+
+Vanta"
+
+Garret let out a low whistle. "Two-hundred-fifty-two gallons of wine?" He sized up the barrel in front of him. "That looks like about the right size. So, this must be a tun. Somehow, it looks heavier than that." He looked around the room full of tuns. "That's a lot of wine."
+
+He looked again at the map. He looked at the looming wine tuns. He looked up at the mural. He put his finger on the circle drawn above the key on the map. "The sun, a key and a way down."
+
+He walked to one of the towering barrels. Just above it, the painted sun shone down on the revelers in the vineyard. He searched all around the tun and found the lock concealed on the side of the cradle. He took the larger key he had found in Vanta's safe and tried it in the keyhole. It turned easier than he had expected. A grinding of stone threw sound and dust into the air in front of the tun.
+
+A large stone had slid away under the tun, leaving a hole in the floor. The glow of electric lamps illuminated the pit from far below, showing a wooden ladder leading to a moss-grown tunnel. Taking the measure of the opening and what it might lead to, Garrett started down the ladder.
+
+Halfway down, the ladder, old and softened with moisture, collapsed and dropped the thief onto the mossy stones of the tunnel. He landed off balance in the slippery growth and fell onto his side.
+
+"Oof!" The breath rushed out of his lungs. He got back to his feet, feeling some aches in his knee and ribs. He dusted himself off and checked the wine bottles, which seemed to have escaped breakage, then looked up to assess the route back up. No luck there. He could barely see the edge of the wooden tun above. He'd just have to find another way out. He nodded to himself and started walking along the tunnel.
+
+The tunnel burrowed underground for fifty yards, or so. "Long and long. Low and low,'" Garrett quoted the old man to himself. " Down to Vanta's secret place.' Hope it's worth the walk."
+
+The tunnel ended in another door. Garrett pushed it open and stepped out...
+
+Into a room outdoors. Except it wasn't outdoors. The stillness of the air proved that he was still below ground. The room was painted and decorated to resemble the vineyard, as it must have been. A light in the ceiling masqueraded as the sun. The floor was covered in a carpet of brown and green. A myriad of tiny fairy faces peered from the painted greenery, watching. Garrett looked around. The room was a long oval. At one end was an archway that led off into the darkness. At the other end was a pile of broken white stone.
+
+Curious, Garrett approached the pile of stone. Closer, the pile of stones had deliberate shape, but was tumbled together so it was difficult to tell, at first glance, that it had once been a statue. Turning his head this way and that, Garrett figured out that the statue had depicted a tall man in the clothes of a country bridegroom standing on a square base. He could read part of what had been carved on the base: "Harm-". The base had been smashed open and was hollow inside. The statue had toppled and broken when its base was shattered.
+
+"Get cold feet?" Garrett asked the statue. He poked at the broken base, noting the honeycomb shape of the inside. A tiny spot of color gleamed in one of the cells of the comb. He picked it out. It was a small, dome-shaped sapphire, no bigger around than the tip of his smallest finger. He counted the cells and calculated that there had to be just sixty of them, before the statue had been smashed.
+
+So this was the hiding place of the first sixty cups--the three-score for the master--but where was the maiden and her forty? Garrett started walking up the other tunnel. It didn't go far, opening after a couple of turns and a rise, into a blind built of brambles and branches that stood on the edge of a meadow. From the edge of the meadow, Garrett could barely make out the dark bulk of the chateau and the winery a distance to the side. He returned to the underground room, getting a few scratches from the brambles for his trouble.
+
+He walked around the edge of the room, testing the walls, but, beneath their paint the walls were rough stone and finding a door or switch by feel seemed impossible. He stood in the middle of the room and studied the walls. There was the vineyard, stretching all around. And there was the arbor, with it's bowed trellises. And in the trellis there was a door. A painted door, but it had a real keyhole.
+
+Garrett walked up to the door. The top of the door only reached to his hip. He crouched down and tried the small key he had taken from the safe. It turned sweetly and the door opened. Inside was a grille that barred him from the tiny chamber he could see through it. Mounted to the grille was a box where the lock would have been with these words painted on the box: "He who would marry must pay the piper... and the parson."
+
+Garrett thought about it, shrugged and reached into his pocket. As he pulled out a coin, the little white ring on the thong he had taken from Bertram's neck fell onto the ground. He looked at the coin in his hand and down at the ring. He laughed and picked it up, then dropped the coin into the box. The gate made a chiming sound and opened. He crawled through the opening, into the chamber beyond.
+
+Garrett could stand up in the chamber only if he stooped his head and shoulders uncomfortably. He decided it was easier to crouch. The chamber was painted blue and white, like clouds across a summer sky. At the far end was another white statue. Beside the statue was an iron table with a wine bottle and two goblets of the same white stone standing on it. He crept towards the stone figure.
+
+This statue was a lovely young woman in her bridal clothes, seated on a stone box. She held her left hand in front of her heart, with the fingers slightly spread. On the box was carved the word "Melody". Kneeling in front of the stone maiden, Garrett slipped the carved stone ring onto her finger. "I believe this belongs to you, my lady," he said.
+
+Another chime rang out, turning into an enchanting tune. When the little tune ended, the lady slid to the side, revealing forty tiny golden goblets nestled in the cold stone box. Garrett packed them each carefully into his bag.
+
+Ready to go, he stopped and looked back at the pale stone bride. Unable to resist, he turned and bowed to the stone maiden. "Thanks." By some trick of the light, the lady seemed to smile at him. A shiver scurried down his back and Garrett left her company quickly.
+
+He tramped up the dark tunnel into the blind and out into the meadow, carrying his booty and anxious to put some distance between himself and the interrupted statue wedding before daylight.
+
+....
+
+Getting past the guards at the Eastern Gate was simple. Garrett simply threw stones into the bushes until the guard at the pass door grew curious enough to come out onto the road, then the thief slipped through the open door in the gate and into the City. He went straight to Cutty's, rousing the fence, who had just gotten into bed, and left his loot--except for the wine bottles which he had tucked into his jerkin.
+
+Cutty's eyes gleamed when he saw the forty tiny cups. He haggled with Garrett for the rest of the loot and told him to return the next night, when Lord Sclaris would have paid for the cups. They would divide the money together, he assured the thief.
+
+Garrett still had one thing to do before he could rest. He went to Martinson's shop and let himself in as before, going up the stairs to the hall. This time, he went to Bottle's bedroom, instead of the study and roused the wine seller by shaking his shoulder.
+
+With a snort, Bottle woke and sat up, groggily rubbing at his eyes. "What? What's a'matter? Don't smell smoke. Where's'afire?"
+
+"There's no fire, you muddle-head. I brought you something."
+
+"Garrett!" Bottle exclaimed, coming awake in an instant. "You rat! You--you... thief! You stole my Vanta!"
+
+"And I've brought it back. Along with three of its brothers. Keep your voice down. Deafening me is no way to show your gratitude."
+
+Bottle rolled out of his bed and stared at the four blue bottles on his table. "Four? Why?"
+
+"Well, I couldn't carry any more and I didn't find any little casks of fairy wine."
+
+Bottle stared through the darkness at the thief. "You stole these from the winery?"
+
+"They were in the cellar of the chateau."
+
+"Why?" Bottle demanded, narrowing his eyes in suspicion. "Why would you do something for me?"
+
+"I pay my debts. And there's one more thing: Connley may find himself short of cash in the near future. He might even be desperate enough to sell some of his precious hoard of wine to an enterprising merchant, if that merchant showed up in the next two days with gold in his pockets. Grain and cider may feed caravan guards, but they don't go far with purveyors of trade goods."
+
+"What's the catch? You could have sold this wine yourself and made a tidy profit. You didn't have to tell me about Connley's misfortunes, either."
+
+"What do I know about wine? I'll be sure to collect my favors from you when I need them."
+
+"Never something for nothing with you, is there?" The thief didn't reply. "Garrett? Like a sneaking ghost, he is." He looked for him, but Garrett had gone, without a trace left behind but four dark blue bottles. Martinson went back to sleep, smiling at the straw-wrapped bottles.
+
+....
+
+"Garrett's exploit has caused a stir in the underworld of the City," Nevis said. "The thieves' guilds have noticed the appearance of the cups and the... I dare to say 'artistry' of the looting of the Connley chateau. Though they are angry that the loot did not come into their coffers, they can hardly complain, since the robbery did not take place within their realm of control. Garrett could not have chosen better on that score. His sudden affluence has been noted and most of the guild members believe that he is responsible. There is some grudging admiration there.
+
+"The City wardens have not become aware of this new player in their games. They know that the thieves' guilds are agitated and they know of Lord Sclaris's addition to his collection. What the two details mean to each other, they have not yet calculated. Soon, they will. Once they become aware of his talents, they will each try to control him. If he does not submit to them, he will have made some powerful enemies. If he does submit, they will grind him between the millstones of their own greed. He must tread very carefully here."
+
+"And what do you think of his 'exploit', Nevis?"
+
+"To my mind this is the mark of a journeyman, if you will forgive me the analogy. Garrett has honed his skills and developed new ones, turning them to a project more complex and complete than anything he has attempted before, just as an apprentice must complete a task completely on his own before his master will release him as a journeyman. In this case, the craftsmanship, shows not only required polish, but flair, though there are still some points where he is clumsy or impatient. If he can continue on his own terms, I believe that Garrett will correct most of these flaws and become a significant piece in this... chess game."
+
+"Then you would consider him a journeyman thief?"
+
+"I would, Keeper Teleford."
+
+"I recall that you have known Garrett before this."
+
+"Yes. My novitiate was somewhat more... arduous and I had only been an acolyte some few weeks when he left us."
+
+"What do you think of him?"
+
+"I pray your pardon, Keeper, but I believe that my opinion has already intruded too much here."
+
+"Your opinion of his future, then."
+
+"I think that it will be difficult to bring him back into our fold, if it is possible at all. His anger and his disillusion are hardening into cynicism. His view of mankind is no longer neutral, but negative. And his view of us... well, better not to put that into words. He has created a role for himself which he enjoys: it feeds his vanity and his drive for retribution against... whatever it is that he sees as his Nemesis. He rejects Fate and craves control over his destiny. He has a fatal flaw. It is for us only to wait and see if it destroys him, or bends him into a more useful shape. This hard school in which he has enrolled himself may yet prove the best fire in which to temper his mettle."
+
+Silence held the room a moment, broken again by a low murmuring from the darkness. Nevis's knees ached on the cold stone, but the robed acolyte didn't move.
+
+"Most thought-provoking, Adept Nevis."
+
+Nevis nodded. "Thank you, Keeper Teleford."
+
+"You may return to the antechamber, now."
+
+Nevis rose, going quietly to the door, but not quite leaving the room.
+
+"Hmm," said Teleford. "Interesting observations. This begins to seem familiar. Do you suppose Garrett could, indeed, become the vital piece on the board?"
+
+"While the observations are cogent, Nevis has always suffered from an excess of imagination," came another voice in the darkness.
+
+"Perhaps it is our fatal flaw, gentlemen, that we do not," Teleford replied. "You may leave, now, Nevis. Enough of eavesdropping for you."
+
+Nevis slipped out the door and smiled.
+
+\
+\
+
+Back to [top](#top) of this page, please.
+
+[Back to Index](fiction.html)\
+
+© 1999-2001 M. Kathleen Huffine/Kat Richardson. All rights reserved.

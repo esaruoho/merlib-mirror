@@ -1,0 +1,577 @@
+<html>
+<head>
+<title>Reactive Button</title>
+<META http-equiv="PICS-Label" content='(PICS-1.1                              
+"http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America 
+Server" by "mighetto@eskimo.com" for "http://www.eskimo.com/~mighetto" on     
+"1996.09.15T19:00-0500" r (n 0 s 0 v 0 l 0))'>                                
+</head>
+<body>
+<h1>Reactive Button</h1>
+<hr>
+Please copy, compile and use the following code on your web page. The more folks using Java
+the more likely Microsoft will return Java to its own web pages. View document source to see
+how the button is implemented. The .au files are in JDK 1.02, or make your own. The idea is for
+the button to repeat its name while it is highlighted for use. The button can be used on many
+pages on your web site. It is loaded only once the first page visited and remains available for use
+on otherpages. Hence Java is faster than scriplets when your visitors are expected to view more
+than a
+single page from your site. Go Java.
+
+<p>
+
+<CENTER>
+     <APPLET code="ReactiveButton.class" width=160 height=50>
+     <PARAM name=string  value="Home">
+     <PARAM name=focus_string value="Home">
+     <PARAM name=url   value="http://www.eskimo.com/~mighetto">
+     <PARAM name=focus_font_color value="0000FF">
+     <PARAM name=focus_button_color value="E1E379">
+          <PARAM name=font_size value="20">
+     <PARAM name=font_name value="TimesRoman">
+          <PARAM name=focus_sound=spacemusic.au>
+          <PARAM name=pressed_sound=whoopy.au>
+     <H2>Java</H2></APPLET>
+</CENTER>
+<hr>
+//  Reactive button  Copyright(C)1996,1997. Masakazu Fujimiya
+
+<p>//  m-fujimiya@nri.co.jp
+
+<p>//  Modifications for sound Copyright(C) 1997. Mighetto &amp; Associates
+
+<p>//  mighetto@eskimo.com
+
+<p>import java.applet.*;
+
+<p>import java.awt.*;
+
+<p>import java.net.*;
+
+<p>public class ReactiveButton extends java.applet.Applet {
+
+<p>Color fColor,nColor,fFontColornFontColor,f1Color,n1Color;
+
+<p>boolean focus,bDown;
+
+<p>String str,fstr,fontName;
+
+<p>String toURL,toFrame;
+
+<p>URL docURL;
+
+<p>int stx,sty,fstx,fsty;
+
+<p>int fontSize;
+
+<p>//  Mighetto &amp; Associates**************************************
+
+<p>     SoundList soundList;
+
+<p>     String onceFile;
+
+<p>    String loopFile;
+
+<p>     AudioClip onceClip;
+
+<p>     AudioClip loopClip;
+
+<p>       boolean looping = false;
+
+<p>//*********************************************************  
+
+<p>public void init() {
+
+<p>String at;
+
+<p>int h,w;
+
+<p>//  Mighetto &amp; Associates**************************************
+
+<p>  loopFile  = getParameter("focus_sound");
+
+<p>if (loopFile==null) loopFile = "spacemusic.au";
+
+<p>  onceFile  = getParameter("pressed_sound");
+
+<p>if (onceFile==null) onceFile =  "whoopy.au";
+
+<p>           startLoadingSounds();
+
+<p>//*********************************************************  
+
+<br wp="br1"><br wp="br2">
+<p>str = getParameter("string");
+
+<p>if (str==null) str = "";
+
+<br wp="br1"><br wp="br2">
+<p>fstr = getParameter("focus_string");
+
+<p>if (fstr==null) fstr = str;
+
+<br wp="br1"><br wp="br2">
+<p>toURL = getParameter("url");
+
+<p>if (toURL==null) {
+
+<p>docURL = null;
+
+<p>} else {
+
+<p>try {docURL = new URL(toURL);} catch (MalformedURLException e) {docURL = null;}
+
+<p>}
+
+<br wp="br1"><br wp="br2">
+<p>toFrame = getParameter("frame");
+
+<br wp="br1"><br wp="br2">
+<p>at = getParameter("normal_button_color");
+
+<p>if (at==null) {
+
+<p>nColor = new Color(192, 192, 192);
+
+<p>} else {
+
+<p>nColor = new Color(Integer.valueOf(at,16).intValue());
+
+<p>}
+
+<p>n1Color = new Color(255-(255-nColor.getRed())/2, 255-(255-nColor.getGreen())/2,
+255-(255-nColor.getBlue())/2);
+
+<br wp="br1"><br wp="br2">
+<p>at = getParameter("focus_button_color");
+
+<p>if (at==null) {
+
+<p>fColor = new Color(160, 160, 160);
+
+<p>} else {
+
+<p>fColor = new Color(Integer.valueOf(at,16).intValue());
+
+<p>}
+
+<p>f1Color = new Color(255-(255-fColor.getRed())/2, 255-(255-fColor.getGreen())/2,
+255-(255-fColor.getBlue())/2);
+
+<br wp="br1"><br wp="br2">
+<p>at = getParameter("normal_font_color");
+
+<p>if (at==null) {
+
+<p>nFontColor = new Color(0);
+
+<p>} else {
+
+<p>nFontColor = new Color(Integer.valueOf(at,16).intValue());
+
+<p>}
+
+<br wp="br1"><br wp="br2">
+<p>at = getParameter("focus_font_color");
+
+<p>if (at==null) {
+
+<p>fFontColor = nFontColor;
+
+<p>} else {
+
+<p>fFontColor = new Color(Integer.valueOf(at,16).intValue());
+
+<p>}
+
+<br wp="br1"><br wp="br2">
+<p>at = getParameter("font_size");
+
+<p>if (at==null) {
+
+<p>fontSize = 14;
+
+<p>} else {
+
+<p>fontSize = Integer.valueOf(at).intValue();
+
+<p>}
+
+<br wp="br1"><br wp="br2">
+<p>at = getParameter("font_name");
+
+<p>if (at==null) {
+
+<p>fontName = "TimesRoman";
+
+<p>} else {
+
+<p>fontName = at;
+
+<p>}
+
+<br wp="br1"><br wp="br2">
+<p>Graphics g = getGraphics();
+
+<p>g.setFont(new java.awt.Font(fontName, Font.PLAIN, fontSize));
+
+<p>setFont(new java.awt.Font(fontName, Font.PLAIN, fontSize));
+
+<p>h = g.getFontMetrics().getHeight();
+
+<p>fsty = sty = (size().height - h)/2 + h*8/10;
+
+<p>w = g.getFontMetrics().stringWidth(str);
+
+<p>stx = (size().width - w)/2;
+
+<p>w = g.getFontMetrics().stringWidth(fstr);
+
+<p>fstx = (size().width - w)/2;
+
+<br wp="br1"><br wp="br2">
+<p>bDown = focus = false;
+
+<p>}
+
+<p>//  Mighetto &amp; Associates**************************************
+
+<p>    void startLoadingSounds() {
+
+<p>        //Start asynchronous sound loading.
+
+<p>        soundList = new SoundList(this, getCodeBase());
+
+<p>        soundList.startLoading(loopFile);
+
+<p>        soundList.startLoading(onceFile);
+
+<p>   }
+
+<br wp="br1"><br wp="br2">
+<p>    public void stop() {
+
+<p>        //If one-time sound were long, we'd stop it here, too.
+
+<p>        if (looping) {
+
+<p>            loopClip.stop();    //Stop the sound loop.
+
+<p>        }
+
+<p>    }    
+
+<br wp="br1"><br wp="br2">
+<p>    public void start() {
+
+<p>        if (looping) {
+
+<p>            loopClip.loop();    //Restart the sound loop.
+
+<p>        }
+
+<p>    }    
+
+<p>//*********************************************************  
+
+<p>public void paint(Graphics g) {
+
+<p>int x,y;
+
+<p>if (focus) {
+
+<p>x = fstx ; y = fsty;
+
+<p>} else {
+
+<p>x = stx ; y = sty;
+
+<p>}
+
+<br wp="br1"><br wp="br2">
+<p>if (bDown) {
+
+<p>x-- ; y--;
+
+<p>}
+
+<br wp="br1"><br wp="br2">
+<p>if (focus) {
+
+<p>g.setColor(fColor);
+
+<p>} else {
+
+<p>g.setColor(nColor);
+
+<p>}
+
+<p>g.fill3DRect(0, 0, size().width, size().height, !bDown);
+
+<br wp="br1"><br wp="br2">
+<p>if (focus) {
+
+<p>g.setColor(f1Color);
+
+<p>g.drawString(fstr, x+1, y+1);
+
+<p>g.setColor(fFontColor);
+
+<p>g.drawString(fstr, x, y);
+
+<p>} else {
+
+<p>g.setColor(n1Color);
+
+<p>g.drawString(str, x+1, y+1);
+
+<p>g.setColor(nFontColor);
+
+<p>g.drawString(str, x, y);
+
+<p>}
+
+<p>}
+
+<br wp="br1"><br wp="br2">
+<br wp="br1"><br wp="br2">
+<p>public boolean mouseUp(java.awt.Event evt, int jx, int jy) {
+
+<p>bDown = false;
+
+<p>getAppletContext().showStatus("Go to " + str);
+
+<p>                     repaint();
+
+<p>if (inside(jx,jy)) {
+
+<p>if (toFrame==null) {
+
+<p>if (docURL!=null) getAppletContext().showDocument(docURL);
+
+<p>} else {
+
+<p>if (docURL!=null) getAppletContext().showDocument(docURL, toFrame);
+
+<p>}
+
+<p>}
+
+<p>return(true);
+
+<p>}
+
+<br wp="br1"><br wp="br2">
+<br wp="br1"><br wp="br2">
+<p>public boolean mouseDown(java.awt.Event evt, int jx, int jy) {
+
+<p>bDown = true;
+
+<p>//getAppletContext().showStatus(docURL.getProtocol()+"://"+docURL.getHost()+docURL.
+getFile());
+
+<p>          
+//getAppletContext().showStatus(getCodeBase().getProtocol()+":"+getCodeBase().getHost()+ge
+tCodeBase().getFile());
+
+<p>//getAppletContext().showStatus("Reactive button... Copyright(C)1997.
+mighetto@eskimo.com
+04");
+
+<br wp="br1"><br wp="br2">
+<p>//  Mighetto &amp; Associates**************************************
+
+<p>            if (onceClip == null) {
+
+<p>                //Try to get the AudioClip.
+
+<p>                onceClip = soundList.getClip(onceFile);
+
+<p>            }
+
+<p>            if (onceClip != null) {  //If the sound is loaded:
+
+<p>                onceClip.play();     //Play it once.
+
+<p>                showStatus("Playing sound " + onceFile + ".");
+
+<p>            } else {
+
+<p>                showStatus("Sound " + onceFile + " not loaded yet.");
+
+<p>            }
+
+<p> //           return true;
+
+<p>//*********************************************************  
+
+<p>repaint();
+
+<p>return(true);
+
+<p>}
+
+<br wp="br1"><br wp="br2">
+<br wp="br1"><br wp="br2">
+<p>public boolean mouseMove(java.awt.Event evt, int jx, int jy) {
+
+<p>getAppletContext().showStatus(docURL.getProtocol()+"://"+docURL.getHost()+docURL.g
+etFile());
+
+<p>return(true);
+
+<p>}
+
+<br wp="br1"><br wp="br2">
+<p>public boolean mouseExit(java.awt.Event evt, int jx, int jy) {
+
+<p>focus = false;
+
+<p>getAppletContext().showStatus("");
+
+<p>repaint();
+
+<br wp="br1"><br wp="br2">
+<p>//  Mighetto &amp; Associates**************************************
+
+<p>if (looping) {
+
+<p>                looping = false;
+
+<p>                loopClip.stop();    //Stop the sound loop.
+
+<p>            }
+
+<p>            showStatus("Stopped playing sound " + loopFile + ".");
+
+<p>//***************************************************061197
+
+<p>return(true);
+
+<p>}
+
+<br wp="br1"><br wp="br2">
+<p>public boolean mouseEnter(java.awt.Event evt, int jx, int jy) {
+
+<p>focus = true;
+
+<p>getAppletContext().showStatus(docURL.getProtocol()+"://"+docURL.getHost()+docURL.g
+etFile());
+
+<p>repaint();
+
+<p>//  Mighetto &amp; Associates**************************************
+
+<p>if (loopClip == null) {
+
+<p>                //Try to get the AudioClip.
+
+<p>                loopClip = soundList.getClip(loopFile);
+
+<p>            }
+
+<p>            if (loopClip != null) {  //If the sound is loaded:
+
+<p>                looping = true;
+
+<p>                loopClip.loop();     //Start the sound loop.
+
+<p>                showStatus("Playing sound " + loopFile + " continuously.");
+
+<p>            } else {
+
+<p>                showStatus("Sound " + loopFile + " not loaded yet.");
+
+<p>            }
+
+<p>//***************************************************061197
+
+<p>return(true);
+
+<p>}
+
+<p>}
+<p>
+<hr>
+<CENTER>
+<table width=80% cellpadding=5>
+<tr>
+<td><CENTER>
+     <APPLET code="ReactiveButton.class" width=160 height=50>
+     <PARAM name=string  value="Home">
+     <PARAM name=focus_string value="Home">
+     <PARAM name=url   value="http://www.eskimo.com/~mighetto">
+     <PARAM name=focus_font_color value="0000FF">
+     <PARAM name=focus_button_color value="E1E379">
+          <PARAM name=font_size value="20">
+     <PARAM name=font_name value="TimesRoman">
+          <PARAM name=focus_sound=spacemusic.au>
+          <PARAM name=pressed_sound=whoopy.au>
+     <H2>Java</H2></APPLET>
+</CENTER><BR>
+
+<td>
+<CENTER>
+     <APPLET code="ReactiveButton.class" width=160 height=50>
+     <PARAM name=string  value="Decision Tree">
+     <PARAM name=focus_string value="Decision Tree">
+     <PARAM name=url   value="http://www.eskimo.com/~mighetto/lstree.htm">
+     <PARAM name=focus_font_color value="0000FF">
+     <PARAM name=focus_button_color value="E1E379">
+          <PARAM name=font_size value="20">
+     <PARAM name=font_name value="TimesRoman">
+          <PARAM name=focus_sound=spacemusic.au>
+          <PARAM name=pressed_sound=bark.au>
+     <H2>Java</H2></APPLET>
+</CENTER><BR>
+
+
+<td>
+<CENTER>
+     <APPLET code="ReactiveButton.class" width=160 height=50>
+     <PARAM name=string  value="Deep Knowledge">
+     <PARAM name=focus_string value="Deep Knowledge">
+     <PARAM name=url   value="http://www.eskimo.com/~mighetto/lsknow.htm">
+     <PARAM name=focus_font_color value="0000FF">
+     <PARAM name=focus_button_color value="E1E379">
+     <PARAM name=font_size value="20">
+     <PARAM name=font_name value="TimesRoman">
+          <PARAM name=focus_sound=spacemusic.au>
+          <PARAM name=pressed_sound=gong.au>
+     <H2>Java</H2></APPLET>
+</CENTER><BR>
+
+<td>
+<CENTER>
+     <APPLET code="ReactiveButton.class" width=160 height=50>
+     <PARAM name=string  value="Acknowledgements">
+     <PARAM name=focus_string value="Acknowledgements">
+     <PARAM name=url   value="http://www.eskimo.com/~mighetto/acknow.htm">
+     <PARAM name=focus_font_color value="0000FF">
+     <PARAM name=focus_button_color value="E1E379">
+          <PARAM name=font_size value="20">
+     <PARAM name=font_name value="TimesRoman">
+          <PARAM name=focus_sound=spacemusic.au>
+          <PARAM name=pressed_sound=ooh.au>
+     <H2>Java</H2></APPLET>
+</CENTER><BR>
+
+<td>
+<CENTER>
+     <APPLET code="ReactiveButton.class" width=160 height=50>
+     <PARAM name=string  value="Map">
+     <PARAM name=focus_string value="Map">
+     <PARAM name=url   value="http://www.eskimo.com/~mighetto/lswebmap.htm">
+     <PARAM name=focus_font_color value="0000FF">
+     <PARAM name=focus_button_color value="E1E379">
+          <PARAM name=font_size value="20">
+     <PARAM name=font_name value="TimesRoman">
+          <PARAM name=focus_sound=spacemusic.au>
+          <PARAM name=pressed_sound=train.au>
+     <H2>Java</H2></APPLET>
+</CENTER><BR>
+
+</table>
+<br wp="br1"><br wp="br2">
+</body>
+</html>

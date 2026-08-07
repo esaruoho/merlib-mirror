@@ -1,0 +1,95 @@
+<html>
+<head>
+<title>
+Guide to installing an Apple Laserwriter II printer on a Windows PC
+</title>
+</head>
+<body>
+<b><center>
+<h1>Guide to installing an Apple Laserwriter II printer on a Windows PC</h1>
+</b></center>
+
+<p>
+Note: I'm not currently using this setup as it was just too slow for me.
+<p>
+I have just finished setting up two different Apple LW printers on separate Windows machines.
+First config is a LW IIf on WinNT 4.0.  I downloaded the Apple installer and Adobes latest 5.0 
+driver.  Configured the serial port for 9600/N/8/1, used a NullModem cable, 9pin-25pin.  And 
+it works fine.  Slow, but fine.  By slow I mean 4 minutes to print 1 page from Acrobat.
+I downloaded the Mac based Apple LW Utilities, hooked up my Mac 7300/200 to the printer
+via localtalk, set the baud rate in the printer to 57600, changed the WinNT com1 setting to 57600
+(no reboots required) and the time went from 4 minutes to 2 minutes.  Still not the greatest,
+but not that bad either.
+I'm also sharing this across my ethernet to my Win98 box next to the WinNT box, and I just 
+installed the Adobe drivers for the Apple LW IIf, and it prints fine from there.
+<p>
+Items needed:
+<ul>
+<li>LaserWriter IIf printer
+<li>Windows NT 4.0 on a PC with an available serial port
+<li>Adobe Drivers
+<li>9pin-25pin serial cable, preferably a NULL modem cable
+<li>NULL modem adapter, 25pin-25pin, if you don't get the NULL modem cable, I bought mine at Radio Shack
+<li>Buy a <a href=http://www.radioshack.com/product.asp?catalog%5Fname=CTLG&category%5Fname=CTLG%5F003%5F001%5F007%5F000&product%5Fid=950%2D0188>NULL modem cable</a> from Radio Shack
+</ul>
+<p>
+Step by step:
+<ol>
+<li>Set LW near PC, plug in, do not turn on
+<li>Connect 9pin end of serial cable to open port on back of PC, make sure you know which COM port this is, and that it's working
+<li>Connect 25pin end of serial cable to back of LW, if the cable is a NULL modem cable.  If it's not a NULL modem cable, insert the NULL modem adapter between the 25pin connector on the serial cable and the printer
+<li>Power up LW, after a minute or two, the status sheet should print.  This may be turned off by default
+<li>Power up PC if not already running
+<li>Download Adobe Drivers
+<li>Download Apple Drivers
+<li>Install all drivers
+<li>Configure printer to use correct COM port
+<li>Configure COM port to 9600/N/8/1 XON/XOFF (LW defaults)
+<li>Check that the DIP switches on the back of the LW are set correctly, read the manual from Apple's site to see what all these settings are.
+<li>For a LW IIf or IIg, <a href=http://til.info.apple.com/tilarchive.nsf/artnum/n15066>here</a> are the communication switch settings.
+</ol>
+<hr>
+<p>
+
+The other install is downstairs on my father's Win98 laptop.  We hooked an Apple II NTX 
+printer up via null modem serial cable, 9pin-25pin.  Tried using the latest Adobe drivers and
+they didn't work, they only support Postscript II, the NTX is Postscript I.
+Went to "add a printer", selected "apple", then "laserwriter II ntx", installed.
+Then in properties for that printer, I set the com1: to 9600/N/8/1.  
+Presto, it works.  Kinda slow, but workable.
+<p>
+Items needed:
+<ul>
+<li>LaserWriter II NTX or NT printer
+<li>Windows 95/98 on a PC with an available serial port
+<li>Windows 95/98 install disk
+<li>9pin-25pin serial cable, preferably a NULL modem cable
+<li>NULL modem adapter, 25pin-25pin, if you don't get the NULL modem cable
+<li>For the LW II NTX <a href=http://til.info.apple.com/tilarchive.nsf/artnum/n2031>here</a> are the communication port switch settings.
+<li>For the LW II NT <a href=http://til.info.apple.com/tilarchive.nsf/artnum/n1992>here</a> are the communication port switch settings.
+<li><a href=http://til.info.apple.com/techinfo.nsf/artnum/n30991>Apple's page</a> on connectiong a Windows PC to a LW NT printer.
+</ul>
+<p>
+<p>
+Dale Beuning
+
+<ul>
+<li><a href=http://til.info.apple.com/techinfo.nsf/artnum/n30991>Apple's page</a> giving complete details on the correct null modem serial cable pinouts.
+<li>Apple <a href=http://til.info.apple.com/techinfo.nsf/printers?OpenView&Start=1&Count=100&Expand=3.1#3.1>TIL</a> page on hookup your LW up to Windows.
+<li><a href="http://www.adobe.com/support/downloads/pdrvwin.htm">Adobe Windows Drivers</a>
+<li><a href="http://asu.info.apple.com/swupdates.nsf/artnum/n10083">Apple Windows Drivers for Windows NT</a>
+<li><a href="http://asu.info.apple.com/swupdates.nsf/artnum/n10082">Apple Windows Drivers for Windows 95</a>
+<li><a href="http://asu.info.apple.com/swupdates.nsf/artnum/n10081">Apple Windows Drivers for Windows 3.1.x</a>
+<li><a href="http://www.info.apple.com/info.apple.com/applespec/applespec.taf?cat=printer&ql=laser">Apple Laserwriter PDF Documents</a>
+<li><a href="http://asu.info.apple.com/swupdates.nsf/artnum/n10093">Apple Macintosh Printer Utility</a>
+
+</ul>
+
+<hr>
+Links:<p>
+
+<a href=http://tesla.public.lib.ga.us/pls/faqs/win-faq/LW-win95.html>Other ways to connect a Laserwriter to a Windows machine</a>
+<p>
+
+</body>
+</html>

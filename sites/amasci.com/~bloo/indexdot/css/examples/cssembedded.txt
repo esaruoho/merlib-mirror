@@ -1,0 +1,410 @@
+Embedded CSS Example 
+
+ Embedded CSS Example 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Example | Analysis 
+
+ Example 
+
+ &#160;&#160;&#160;&#160;&#160;&#160;< html >
+ &#160;&#160;&#160;&#160;&#160;&#160;< head >
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;< title >Document
+ Title</ title >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;< style 
+ TYPE ="text/css">
+
+ &#160;&#160;&#160;&#160;&#160;&#160;<!--
+
+ &#160;&#160;&#160;&#160;&#160;&#160; body { 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ background: black; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ color: #80c0c0 }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; a:link 
+ { color: #ff8080 }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; a:visited 
+ { color: #ff0000 }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; a:active 
+ { color: #a05050 }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; a.case1:link 
+ { background: green }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; p:first-line 
+ { margin-left: 25px }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; div.foo:first-line { 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ font-weight: bold; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ margin-left: 30px }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; div:first-letter { 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ font-size: x-large; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ color: #ffffff }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; ul ul li { 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ font-size: x-large; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ font-decoration: italic }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; h2 em 
+ { font-weight: 900 }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; h2.ex1 { 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ color: green; 
+ &#160;&#160;&#160;&#160;&#160;&#160;/* This type of heading MUST be Green and Large! */ 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ line-height: 50px; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ font-size: 40px }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; .funkyclass { 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ font: 36pt/40pt courier; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ font-variant: small-caps; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ border: thick dashed blue }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; #tagid1 { 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ padding: 20px; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ border: 20px groove #ffffff }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; .class1, #tagid2 
+ { font-family: 'comic sans ms', fantasy;
+ color: rgb(100%,100%,0%) }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; h1, h2, div.class5, blockquote 
+ { background: #000080 }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; p.special { 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ font: 12pt/14pt sans-serif; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ margin: 5px 0px 2px 25px; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ border: medium dashed #ff0000; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ background: white url(http://www.foo.com/image.gif)
+ repeat-x fixed top right }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; blockquote { 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ margin-left: 2cm; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ color: #00ff00 }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; .part1 { 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ font-size: xx-large; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ color: #808000 }
+
+ &#160;&#160;&#160;&#160;&#160;&#160; h6 { 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ font-size: xx-small ! important; 
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ color: red ! important }
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;-->
+
+ &#160;&#160;&#160;&#160;&#160;&#160;</ style >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;</ head > 
+
+ < body >
+
+ < h1 
+ CLASS ="funkyclass"
+ ALIGN ="center">Welcome
+ to my home page!</ h1 >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;< br >< br >
+
+ < p >Hi there! If you are reading this
+ then you have found my home page! Congratulations! I know it can be
+ hard to find my pages, but I bet that you feel lucky now. Now that
+ you are here, please take a look at my page of links to
+ < a 
+ HREF ="http://www.mysite.com/coolsites.html">cool
+ sites</ a > or sign my
+ < a 
+ HREF ="http://www.mysite.com/guestbook.html">guest
+ book</ a ></ p >
+
+ < div 
+ CLASS ="foo"> My wonderful
+ poetry < br > is available
+ if you are REALLY bored. Why not give it a spin?</ div >
+
+ < h2 CLASS ="ex1">
+ The Best Poetry I < em >NEVER</ em > Wrote</ h2 >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;< ul >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;< li >'There Once Was A
+ Man From Nantucket' - < span 
+ CLASS ="class1">Anonymous</ span ></ li >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;< li >'Cool In Fur' -
+ < span 
+ CLASS ="class1">Harry B.
+ Foot</ span ></ li >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;< li >And My All Time Fave:
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;< ul >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;&#160;< li >
+ 'A Toast To My Toaster' - < span 
+ CLASS ="class1">Me!</ span ></ li >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ &#160;&#160;&#160;&#160;&#160;</ ul >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;</ li ></ ul >
+
+ < blockquote >Brought to you by the
+ letter < span 
+ ID ="tagid2">"H"</ span > and < span 
+ ID ="tagid1">Joe
+ Shmoe</ span >
+ </ blockquote >
+
+ < div CLASS ="class5">
+ When you are done looking through these masterpieces, I encourage you to visit my proud sponsor!!
+ </ div >
+
+ < p CLASS ="special">< span 
+ CLASS ="funkyclass">ADVERTISEMENT:</ span > Buy Navel Lint Contemplator! Its a browser and
+ its a sandwich spread! Go to our < a 
+ HREF ="http://www.navellint.com">home
+ page</ a > without delay! Why? Because shelf
+ life is only 8 hours unless refrigerated. We know that makes it hard to browse,
+ but it promotes frequent upgrading to the latest and greatest version.
+ </ p >
+
+ < h6 >All standard disclaimers apply.
+ Your life depends on NOT copying this document in any way. This tape will
+ < a 
+ HREF ="http://www.mysite.com/selfdestruct.html"
+ CLASS ="case1">self
+ destruct</ a > in 10
+ seconds...</ h6 >
+
+ &#160;&#160;&#160;&#160;&#160;&#160;</ body >
+ &#160;&#160;&#160;&#160;&#160;&#160;</ html >
+
+ Analysis 
+
+ Line: General 
+ CSS Issues: Embedded
+ Style Sheets 
+ Description: This example contains exactly the
+ same STYLE rule information as the external CSS
+ example does - just in a slightly different format. The rules
+ specified here can only be used for the current document, but there is still
+ a big win in using selectors to group style rules, which serves to reduce
+ duplication of effort by the author.
+ Line: 4 
+ Description: The STYLE tag requires the TYPE
+ attribute to tell the browser which style language is being used.
+ Lines: 5 /
+ 23 
+ CSS Issues: Inheritance 
+ Description: Enclosing the contents of the
+ STYLE tag in a comment ensures that older browsers will not display the
+ contents.
+ Lines: 6 /
+ 28 
+ CSS Issues: Inheritance 
+ Description: This is the normal background and
+ character color set for this site. Assigning these properties to the BODY tag
+ means that all BODY content (child elements) will inherit the text color and
+ background color property values unless otherwise specified.
+ Lines: 7 /
+ 8 / 9 / 31 /
+ 44 / 45 
+ CSS Issues: 
+ Pseudo-Classes 
+ Description: This defines the general behavior
+ for all anchor tags in the document
+ Lines: 10 /
+ 45 
+ CSS Issues: 
+ Pseudo-Classes 
+ Description: The special anchor case - This defines
+ a special behavior for all anchor tags in the 'case1' class (Note: This rule
+ only controls the LINK Pseudo-class - The other two link pseudo-class properties
+ will be inherited from the rules specified on lines 8 /
+ 9 )
+ Lines: 11 /
+ 31 / 44 
+ CSS Issues: 
+ Pseudo-Elements 
+ Description: Only the first line of
+ paragraphs will be indented (25 pixels)
+ Lines: 12 /
+ 13 / 32 
+ CSS Issues: 
+ Pseudo-Elements 
+ Description: The DIV element: DIV is a tag w/o
+ much real semantic meaning of its own. We are assigning a special appearance
+ here to the first letter and line of the element.
+ Lines: 14 /
+ 15 / 33 / 39 
+ CSS Issues: 
+ Contextual Selectors 
+ Description: The specified rules only apply to
+ list items within doubly nested unordered lists and emphasized elements
+ within level 2 headings.
+ Lines: 16 /
+ 31 
+ CSS Issues: 
+ Classes ,
+ Inheritance and
+ Comments 
+ Description: Only heading level 2 elements with the
+ class name of 'ex1' are given these style rules. Note that the 'green' text
+ color overrides the '#80c0c0' color set on the BODY tag in Line 6 .
+ Notice also the CSS comment syntax used - it will be ignored by the browser. 
+ Lines: 17 /
+ 29 / 44 
+ CSS Issues: 
+ Selector syntax ,
+ Classes 
+ Description: Use of a class name only as a tag
+ selector - All tags having the 'funkyclass' class name will be displayed as
+ indicated. Notice this document has two diverse elements (H1 and SPAN) using
+ this class name. Any number of elements can share a class name, but be sure
+ to keep in mind that some properties only apply to certain HTML tag types.
+ Lines: 18 /
+ 42 
+ CSS Issues: 
+ ID Selector syntax 
+ Description: Usage of an ID selector - Only one
+ tag in the document may use this style rule. This usage is much more limiting
+ than regular tag Selectors or Class selectors, but allows extremely granular
+ control of elements in a document (which could be helpful if a document is
+ being generated dynamically.)
+ Lines: 19 /
+ 35 / 36 / 39 /
+ 42 
+ CSS Issues: 
+ Shorthand Selector Syntax 
+ Description: Styles being assigned to both ID and Class
+ selectors. Note that the yellow font color overrides the bluish (#80c0c0) color
+ set on the BODY tag in Line 6 .
+ Lines: 20 /
+ 29 / 33 / 42 /
+ 43 
+ CSS Issues: 
+ Shorthand Selector Syntax ,
+ Inheritance 
+ Description: This rule is the motherload - It specifies
+ rules for multiple tags using selector shorthand syntax. Several of these tags also
+ have other style information attached as well, but this does not conflict with those
+ other rules. If you know you will be using a single property/value assignment for
+ more than one tag, it makes sense to use a shorthand syntax like this rather than
+ repeating yourself repeating yourself. (In the off case that a property assignment
+ made here is also made for the same selector elsewhere using a different style rule,
+ the style assignment that was made last will be applied.)
+ Lines: 21 /
+ 44 
+ CSS Issues: 
+ Shorthand property syntax ,
+ Abbreviated property types 
+ Description: Multiple styles are assigned in this
+ rule using both Style grouping and Shorthand property rules. Each of the
+ properties used can set multiple display behaviors with an abbreviated syntax.
+ These properties could all be set separately, but the extra space it would
+ occupy would be wasteful. The nested SPAN and A tags in this block inherit
+ any unspecified properties from this parent tag. Note also that margin rules
+ are specified for the 'first-line' pseudo-class, as well as the 'special'
+ class for the P tag in line 44 . The problem lies in the
+ 'margin-left' property which conflicts with the same component property in
+ the 'margin' property rule. Because the the 'margin' rule was specified
+ later, it will be used.
+ Lines: 22 /
+ 42 
+ CSS Issues: 
+ Inheritance ,
+ Cascading Rules 
+ Description: As mentioned before, the rules specified
+ here does not include the 'background' property indicated on Line 20 because
+ it is more useful to specify that separately in order to take up less space.
+ Line: 23 
+ CSS Issues: NA 
+ Description: This is a normal rule applied to a
+ class. The problem is that it is not used. This is not a fatal mistake, but having
+ rules around that are never used takes up space - and extra space means more download
+ time. In the context of an external style sheet such an occurrence will be more
+ common (since a style sheet referenced by many documents will need to cover display
+ rules for ALL documents, and many documents may not contain ALL the selectors
+ indicated. In this case it would be better to eliminate this rule.
+ Lines: 24 /
+ 45 
+ CSS Issues: 
+ Inheritance ,
+ Cascading Rules 
+ Description: The use of '!important' is unique
+ here in this document. It will indicate to the browser that the rule must be
+ used in preference to a normal rule set for this tag situation specified using
+ another method (using a reader's own style sheet for example.) This is a good
+ way to guarantee that a crucial style element in your page survives the
+ uncertainty of a Cascading Order calculation. This control should not be abused
+ however, as it reduces the control the reader has over their browsing
+ environment (a reader may have, for instance, valid physical reasons for
+ their viewing environment settings.)
+
+ Boring Copyright Stuff....

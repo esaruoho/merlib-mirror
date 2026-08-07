@@ -1,0 +1,50 @@
+Poetry Links - What's New 
+
+ Home | What's New | Anthologies and Link Sites | Poets 
+ Journals | Movements and Criticism | Tools | Members 
+
+ What's New 
+
+ A list of what's changed recently.
+
+ 09/11/00
+
+ Added an entry for Frances Jaffers (co-founder with Kathleen Fraser of HOW(ever)) to the
+ Poets page.
+
+ 08/03/00
+
+ Added one link and updated others on the Tools page. Also
+added Perl sources for doing Travesty and Markov generation. Web implementations to follow
+soon.
+
+ 07/27/00
+
+ Added links to the Journals page: Alterran Poetry Assemblage, HOW(ever) and How2,
+Rain Taxi, and Readme. And added links to pieces by Rae Armantrout, Meredith Quartermain, and
+Lisa Robertson to the Poets page.
+
+ 08/28-29/99
+
+ Added links to Jack Foley, Paul Celan, and Tony Hoagland sites to the Poets page.
+Also fixed a bug in the diastic reading script : leading 
+blanks in the key phrase were being treated as a word.
+
+ 08/19/99
+
+ Added links to Sylvia Plath sites to the Poets page.
+
+ 07/01/99
+
+ Added members, movements and criticism, and tools pages. Updated links. 
+And tried to add some color to the stark black and white.
+
+ 12/05/98
+
+ Added link to The Wr-eye-ting Scratchpad, a concrete and visual poetry site, to the anthology and links page.
+
+ 12/02/98
+
+ Everything is new today. So, please feel free to explore.
+
+ Last updated 11 September 2000.

@@ -1,0 +1,38 @@
+---
+title: "quick_lube_bad_idea"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/engine/quick_lube_bad_idea.html
+order: 2216
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# quick_lube_bad_idea
+
+*Source page: `~dalus/bmw/all/engine/quick_lube_bad_idea.html`*
+
+<span id="null">From digest.v6.n315 Fri Mar 7 19:06:17 1997</span>\
+From: "Brett Anderson" \<bretta@webspan.net\>\
+Date: Tue, 4 Mar 1997 21:07:53 -0500\
+Subject: \<all\> false economy gone wrong\
+
+Today was a strange day. 92 525i comes in for a couple of jobs including inspection 2. Just over 100k on the clock, owner obviously doesn't mind spending a few dollars on his car.\
+Last line on the repair order says " local mechanic says oil drain bolt loose ". My first reaction is OK, we changed the oil last and left the drain bolt loose. I pick car up and find an aftermarket replacement drain plug , put a wrench on it to drain the oil, it spins freely, OOPS. Stripped is not the word, this plug spins like its on a bearing, but it won't come out, seems its caught.\
+I check the cars history, we haven't done an oil change for 50k miles, but oil is clean, open filter, aftermarket. Remove glove box to replace microfilter, glove box has almost nothing but receipts for synthetic oil changes at a local "quick lube " type establishment. Oil changed every 5-6 k miles, with synthetic.\
+This place charges him \$75.00 per oil change, \$30 just for labor, shit, I work for a dealer and we only charge \$19.95, plus \$10 for a filter and \$5 per quart for 7 qt. of synthetic.\
+So I guess the guy is only trying to save time, not money , by using this place. Bottom line is it cost him almost \$1000 for a new oil pan, drain bolt and gasket, including labor.\
+And the stupid thing about it is he is paying, he doesn't even want the old parts to confront the lube shop with.\
+I have been changing oil on BMW's with aluminum pans and over 400k miles, and the plugs show no sign of stripping, yet this one was ripped to shreds, my guess would be an air ratchet being used to install the plug.
+
+Moral is , just because it aint cheap, doesn't mean it is good. Advice is, stay away from any chain shop, especially the ones that use 16 year olds or illegal immigrants at \$3.50 an hour.
+
+OK class , todays vent is over, thanks for listening
+
+Brett Anderson
+
+BMW and ASE master technician
+
+Bretta@webspan.net

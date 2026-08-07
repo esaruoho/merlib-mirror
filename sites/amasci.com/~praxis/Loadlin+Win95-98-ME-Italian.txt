@@ -1,0 +1,40 @@
+The Loadlin+Win95/98/ME mini-HOWTO 
+
+ The Loadlin+Win95/98/ME mini-HOWTO 
+
+ Autore: Chris Fischer, 
+ protek@firstlinux.net v1.5.1, 26 Jan 2001
+
+ Questo documento descrive come utilizzare Loadlin con Windows 95/98/ME per avviare Linux. 
+
+ 1. Introduzione 
+
+ 1.1 Copyright 
+ 1.2 Nuove Versioni Di Questo Documento 
+ 1.3 Feedback 
+ 1.4 Disclaimer 
+
+ 2. IMPORTANTE: Informazioni Preliminari E Setup 
+
+ 2.1 Prerequisiti: 
+ 2.2 Di cosa avrete bisogno prima di cominciare: 
+
+ 3. Per cominciare: 
+
+ 3.1 Primo: 
+ 3.2 Secondo: 
+ 3.3 Terzo: 
+
+ 4. FAQ - Domande Frequenti: 
+
+ 4.1 Dove posso trovare maggiori informazioni su Loadlin? 
+ 4.2 Non sono sicuro su quale partizione e' installato Linux. Come faccio a scoprirlo? 
+ 4.3 Dove trovo l'immagine del kernel e come faccio a copiarla nella mia partizione DOS? 
+ 4.4 Fa differenza se installo prima Linux o Windows 95/98/ME? 
+ 4.5 Attualmente ho installato LILO, ma vorrei usare Loadlin. Come faccio a rimuovere LILO? 
+ 4.6 Cosa posso fare se ho gia' un dual boot per selezionare tra Windows 95 e Windows 3.x, e volessi usare lo stesso metodo per avviare Linux? 
+ 4.7 E' possibile avviare Linux dal desktop di Windows 95/98/ME? 
+ 4.8 Dove posso trovare una versione in formato testo di questo documento? 
+ 4.9 Loadlin e' l'unica alternativa a LILO? 
+
+ 5. Internazionalizzazione

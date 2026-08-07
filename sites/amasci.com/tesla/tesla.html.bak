@@ -1,0 +1,349 @@
+
+<html>
+<head>
+ 
+<TITLE>Nikola Tesla Page, Tesla Coil (Bill Beaty's Homepage)</title>
+
+<meta http-equiv="keywords" content="nikola,tesla,coil,coils,high,voltage,
+plasma,sphere,ball,lightning,science,project,jacob,jacob's,ladder"> 
+
+<meta http-equiv="description" content="Very large collection of resources
+for the Tesla coil builder.  Construction hints and techniques, sources
+for coil plans, pointers to online forums, collection of Tesla links,
+software aids.  Part of Bill B.s SCIENCE HOBBYIST site.">
+
+</head>
+
+<body bgcolor="#ffffff">
+
+
+
+<table border summary="nav links, google search window" width=100%><tr>
+<td valign=top summary="nav links">
+<center>
+<TABLE cellpadding=5><TR>
+<TD ALIGN="CENTER">
+<font size=2><a href="/">up&nbsp;to&nbsp;SCI.&nbsp;HOBBYIST&nbsp;</a>&nbsp;&nbsp;<br></font></TD>
+<TD ALIGN="CENTER">
+<font size=2><a href="/surplus/surpls.html">SURPLUS</a>&nbsp;&nbsp;<br></font></TD>
+<TD ALIGN="CENTER">
+<font size=2><a href="/unew.html">GOOD&nbsp;STUFF</a>&nbsp;&nbsp;<br></font></TD>
+
+
+<TD ALIGN="CENTER">
+<font size=2><a href="/news.html">NEW&nbsp;STUFF</a>&nbsp;&nbsp;<br></font></TD>
+<TD ALIGN="CENTER">
+<font size=2><a href="/search.html">SEARCH</a><br></font></TD>
+</TR></TABLE>
+</center>
+</td>
+
+<td summary="google search" align=center valign=top>
+
+<!-- SiteSearch Google -->
+<form method="get" action="http://www.google.com/custom" target="google_window">
+
+<table border bgcolor="#ffffff">
+<tr>
+
+<td nowrap="nowrap" valign="top" align="left" height="32">
+test
+</td>
+
+<td nowrap="nowrap">
+<input type="hidden" name="domains" value="amasci.com"></input>
+<input type="text" name="q" size="15" maxlength="255" value=""></input>
+<input type="submit" name="sa" value="Google Search"></input>
+</td></tr>
+
+<tr>
+<td>&nbsp;</td>
+
+
+<td nowrap="nowrap">
+
+<table border  summary="google search window"><tr>
+
+<td>
+<input type="radio" name="sitesearch" value="" checked="checked"></input>
+<font size="-1" color="#000000">Web</font>
+</td>
+
+<td>
+<input type="radio" name="sitesearch" value="amasci.com" checked="checked"></input>
+<font size="-1" color="#000000">amasci.com</font>
+
+<input type="hidden" name="client" value="pub-9565921359963939"></input>
+<input type="hidden" name="forid" value="1"></input>
+<input type="hidden" name="ie" value="ISO-8859-1"></input>
+<input type="hidden" name="oe" value="ISO-8859-1"></input>
+<input type="hidden" name="safe" value="active"></input>
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:90;LW:90;L:/graphics/newearth.gif;S:http://amasci.com/;FORID:1;"></input>
+<input type="hidden" name="hl" value="en"></input>
+</td></tr></table>
+</td></tr></table>
+</form>
+<!-- SiteSearch Google -->
+</td></tr></table>
+
+
+
+
+
+
+
+<font size=4>
+
+<table  width=100% summary="shortcut links to following sections">
+<tr><td colspan=3>
+<font size=3>
+<center><h1>Nikola Tesla Page, tesla coils</h1></center>
+
+<b>My <a href="http://www.youtube.com/watch?v=NX3dVpK23xo">Tesla Exhibit 
+Video Footage</a> at Vancouver, BC</b></font><br><p>
+
+</td>
+
+
+<tr valign=top>
+
+<td width=180 nowrap valign=top summary="google ad" align=left>
+<pre>
+
+</pre>
+<img align=right src="/graphics/vertstr7.gif">
+
+<pre>
+</pre>
+<b><a href="/surplus/surpcats.html">ELECTRONIC</a><br>
+<a href="/surplus/surpcats.html">SURPLUS</a><br>
+<a href="/surplus/surpcats.html">CATALOGS</a><br>
+</b>
+
+
+The Big List
+
+<pre>
+
+</pre>
+<hr>
+<script type="text/javascript"><!--
+google_ad_client = "pub-6310699831332590";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_image = "text";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "666666";
+google_color_text = "333333";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+
+
+<td nowrap width=300 align=left summary="shortcuts" valign=top>
+
+<font size=3>
+<h2>Shortcuts</h2>
+
+
+
+
+<ul>
+<li><a href="/tesla/diode.html">HV Diodes</a>, &
+ <a href="/tesla/wire1.html">AWG Wire Gauge</a>
+<li><a href="/tesla/high_voltage1.html">Tesla Discussion Groups</a>
+<li><a href="/supliers.html">Electronics surplus catalogs, links</a>
+<li><a href="/tesla/high_voltage3.html#tfiles">BillB Tesla articles &amp; other info</a>
+<li><a href="/tesla/high_voltage3.html">Coil plans, instructions, etc.</a>
+<li><a href="/tesla/heli1.html">Plasma Sphere wo/glass</a>
+<li><a href="/tesla/plasplan.html">Plasma Sphere HV supplies</a>
+<li><a href="/tesla/high_voltage2.html">Tesla WWW links</a>
+
+<li><a href="/tesla/high_voltage1.html#tclr">Coilers' pages</a>
+<li><a href="/tesla/high_voltage1.html#tphot">Coil Photos</a>
+<li><a href="/weird/wbookstr.html#tes">Some Tesla Books</a>
+<li><a href="/tesla/high_voltage3.html#tcaps">Homebrew Capacitors</a>
+<li><a href="/tesla/high_voltage3.html#tsupl">Suppliers/stores</a>
+<li><a href="/emotor/statelec.html">High voltage projects, links</a>
+</ul>
+</font>
+<br><p>
+<center>
+<a href="http://homepage.ntlworld.com/forgottenfutures/tesla/tesla.htm">
+
+
+<img width=196 height=268 alt="[Painting of Tesla in front of Tesla Coil emitting a fan-shaped beam]" src="/graphics/tesbeam.jpg">
+</a></center>
+<br><p>
+
+
+</font></td>
+
+
+<td nowrap width=40% align=left valign=top summary="list of tesla books &amp; videos">
+
+<font size=3>
+<h3>SOME TESLA BOOKS<br>(via AMAZON)</h3>
+<ul>
+<li>Videos:
+<ul>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/B000051SHA/sciencehobbyist/">Tesla, Master of Lightning</a>
+
+
+, VHS from <a href="http://www.pbs.org/tesla/">PBS</a>
+<li><a href="http://www.amazon.com/exec/obidos/tg/detail/-/6305497664/sciencehobbyist/">Secret of Nikola Tesla</a> VHS
+ &amp;  <a href="http://www.amazon.com/exec/obidos/tg/detail/-/B000083C6E/sciencehobbyist/">DVD</a>
+<li><a href="http://www.amazon.com/exec/obidos/tg/detail/-/6304952899/sciencehobbyist/">The Genius who Lit the World</a> VHS
+, <a href="http://www.amazon.com/exec/obidos/tg/detail/-/B00014NEIK/sciencehobbyist/">DVD</a>
+
+</ul>
+<li><a href="http://www.tfcbooks.com/">21st Cent. Books</a>
+
+
+ (books)
+<li><a href="http://www.lindsaybks.com/prod/sub/tesla.html">Lindsay Publications</a>
+ (books)
+<li><a href="http://www.fairradio.com/books.htm">Fair Radio Sales</a>
+ (books)
+<li><a href="http://store.g-books.com">Electrical Experimenter Magazine</a> (Tesla articles)
+<li><a 
+href="http://www.amazon.com/exec/obidos/ASIN/0786420642/sciencehobbyist/">Ken Strikfaden, Frankenstein's Electrician</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0972747281/sciencehobbyist/">Wonder of the Worlds</a>, Tesla fiction
+
+
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/1931882045/sciencehobbyist/">Harnessing the Wheelwork of Nature</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0913022403/sciencehobbyist/">Prodigal Genius</a> J. O'Neill
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0743215362/sciencehobbyist/">Tesla: man out of time</a> M. Cheney
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/158663187X/sciencehobbyist/">Master of Lightning</a> M. Cheney
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0822549204/sciencehobbyist/">Tesla: a spark of genius</a> (young adult)
+<li>Trinkaus' <a href="http://www.amazon.com/exec/obidos/ASIN/0970961804/sciencehobbyist/">Tesla Coil</a>
+
+
+ and <a href="http://www.amazon.com/exec/obidos/ASIN/0970961812/sciencehobbyist/">#2</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/1883319919/sciencehobbyist/">Tesla: the Modern Sorcerer</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0806519606/sciencehobbyist/">Wizard: life and times of N. Tesla</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/157282008X/sciencehobbyist/">Earthquake Machine</a>
+</ul>
+
+<ul>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0787300934/sciencehobbyist/">
+Tesla: Europe trip &amp; scheme to split the Earth</a>
+
+
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/156649169X/sciencehobbyist/">The Man Who Harnessed Niagra</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0370311221/sciencehobbyist/">Little Egypt</a> (fiction: 1920 hackers &amp; Tesla)
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/1564597113/sciencehobbyist/">Inventions, Research, &amp; Writings</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0914119001/sciencehobbyist/">Tesla Said</a>
+<li>Conference proceedings:
+<ul>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0962039403/sciencehobbyist/">1984 Tesla Symposium</a>
+
+
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0962039403/sciencehobbyist/">1984 Tesla Symposium (pb)</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/9992617195/sciencehobbyist/">1986 Tesla Symposium</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/9992617225/sciencehobbyist/">1988 Tesla Symposium</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/B000GXJJBM/sciencehobbyist/">1990 Tesla Symposium</a>
+</ul>
+<li>Books by Tesla himself:
+<ul>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0910077002/sciencehobbyist/">My Inventions</a>, autobiography
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/1564598446/sciencehobbyist/">The Problem of Increasing Human Energy</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+&nbsp;
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0913022268/sciencehobbyist/">Colorado Springs Notes</a>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/096360127X/sciencehobbyist/">Lecture: NY Acad. of Sci.</a>
+</ul>
+
+</ul>
+
+
+
+</font></td>
+
+<td summary="spacer">&nbsp;</td>
+
+
+</tr></table>
+
+
+
+
+<font size=2>
+<b>T-SHIRTS!</b>
+  Hey, some people (not me) are selling Tesla t-shirts:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://ntesla.org">Color photo on white</a> (Bust The Smithsonian)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="
+http://purpleplates.com/mm5/merchant.mvc?Screen=CTGY&Store_Code=purpleplates&Category_Code=t_shirts1">Tesla company</a>
+(purple plates)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.cafepress.com/cp/search/search.aspx?q=tesla">Cafe Press</a>
+</font>
+
+
+
+<br>
+<a 
+href="http://www.sciplus.com/singleItem.cfm?terms=7325&cartLogFrom=Search">
+Classroom Tesla Coil $200</a>, 
+or a <a href="http://www.teachersource.com/catalog/page/Electricity_Magnetism_Engines/Tesla_Coils/">Handheld 
+Tesla coil, $149.95</a>, 
+also a <a href="/tesla/microtc.html">Micro Tesla Coil $4.95</a>
+<br><p>
+
+
+
+
+
+
+
+
+<a name="tdis"></a>
+<br><P>
+<script type="text/javascript"><!--
+google_ad_client = "pub-6310699831332590";
+google_ad_width = 728;
+google_ad_height = 15;
+google_ad_format = "728x15_0ads_al_s";
+google_ad_channel ="";
+google_color_border = "D0D0D0";
+google_color_bg = "F0F0F0";
+google_color_link = "000000";
+google_color_url = "666666";
+google_color_text = "333333";
+//--></script>
+<script align=right type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+<table summary="main text content" width=100%><tr>
+
+<td nowrap width=180 summary="google ads" valign=top align=left>
+
+<pre>
+
+
+</pre>
+<script src="http://rcm.amazon.com/e/cm?t=sciencehobbyist&l=st1&search=nikola%20tesla&mode=books&p=14&o=1" type="text/JavaScript"></script>
+
+
+
+
+<!-- Copyright (c)2006 Site Meter -->
+</center>
+
+</strong>
+</font>
+</body>
+</html>
+
+
+
+

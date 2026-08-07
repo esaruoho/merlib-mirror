@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+  <TITLE>
+    JBM - MPM - Input
+  </TITLE>
+  
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+
+  <STYLE TYPE="text/css">
+    BODY { BACKGROUND: #FFFFFF; COLOR: #000000 } 
+    A:LINK { COLOR: #3333FF }
+    A:VISITED { COLOR: #666699 }
+    A:ACTIVE { COLOR: #CC00FF }
+    A:HOVER { COLOR: #FF3366 }
+  </STYLE>
+
+  <LINK REL="SHORTCUT ICON" HREF="http://www.eskimo.com/~jbm/graphics/jbm.ico">
+
+</HEAD>
+
+<BODY>
+
+<CENTER>
+  <TABLE>
+    <TR>
+      <TD><A HREF="../bibliography/bibliography.html">[Bibliography]</A>
+      <TD><A HREF="../calculations/calculations.html">[Calculations]</A>
+      <TD><A HREF="../downloads/downloads.html">[Downloads]</A>
+      <TD><A HREF="../equations/equations.html">[Equations]</A>
+      <TD><A HREF="../faq/faq.html">[FAQ]</A>
+      <TD><A HREF="../index.html">[JBM]</A>
+      <TD><A HREF="../links/links.html">[Links]</A>
+      <TD><A HREF="../mpm/mpm.html">[MPM]</A>
+      <TD><A HREF="../pm/pm.html">[PM]</A>
+      <TD><A HREF="../personal/personal.html">[Personal]</A>
+      <TD><A HREF="../software/software.html">[Software]</A>
+  </TABLE>
+</CENTER>
+
+
+<HR>
+
+
+<H1>
+  JBM - MPM - Input
+</H1>
+
+<P>
+  MPM is currently a command line driven program.  It reads it's input
+  data from specified files and produces the output based on options
+  in each file.  There are three files for use with MPM.  The first is
+  a bullet file.  It holds all the parameters associated with a 
+  particular projectile.  The second is the trajectory file which holds
+  trajectory parameters, firearm paramters, etc.  The third and last
+  file is an options which holds default filenames, and output formatting
+  options.
+</P>
+
+<P>
+  All three files have the same format.  Each parameter is on it's own
+  line, with the syntax "name = value", where "name" is the parameter
+  name (e.g. muzzle_velocity, chron_velocity) and "value" is the 
+  desired value (e.g. 2600.0).  Blank lines, and lines beginning with
+  a pound sign, "#", are ignored.  Similarly, on any other line, the
+  "#" denotes a beginning of a comment and all characters after it are
+  ignored.  Fields (name and value) are not required to be in any 
+  particular order.  In the example files with MPM, the like fields are
+  grouped together.  The sample files, 
+  <A HREF="text/mpm.trj">trajectory file</A>, 
+  <A HREF="text/mpm.blt">bullet file</A>,
+  <A HREF="text/mpm.opt">options file</A>,
+  <A HREF="text/mpm.vel">velocity file</A>,
+  <A HREF="text/mpm.txt">output file</A> and an
+  <A HREF="text/mpm.wnd">wind file</A>. 
+  are heavily commented and make a good starting point for your
+  own files.
+</P>
+
+<P> 
+  As of version 0.9.19, bullet input units can be inches or calibers.
+  The default is calibers so that old files still work, but newer files
+  can set the variable "bullet_units" to "1" to use inches.  An example
+  of the file mpm.blt with inches instead of calibers is
+  <A HREF="text/in.blt">in.blt</A>.  Note that all the 
+  variables in the DIMENSIONS section are in units of inches.  Also, 
+  the center of gravity is inches from the nose.
+</P>
+
+<P>
+  Also included in the download are the 
+  <A HREF="text/README">README</A>, and the 
+  <A HREF="text/LICENSE">LICENSE</A> file.
+</P>
+
+<HR>
+
+<TABLE WIDTH="100%">
+  <TR ALIGN="RIGHT">
+    <TD ALIGN="RIGHT">
+      <SMALL>
+        Last update 26 January 2005, Copyright &copy; 1996-2005
+        <A HREF="mailto:jbm@eskimo.com">JBM</A>
+        <A HREF="http://www.htmlhelp.com/cgi-bin/validate.cgi?url=referer&amp;input=yes">[V]</A>
+      </SMALL>
+</TABLE>
+
+
+</BODY> 
+</HTML>
+
+
+

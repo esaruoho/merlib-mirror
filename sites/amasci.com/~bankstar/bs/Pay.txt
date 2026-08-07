@@ -1,0 +1,95 @@
+PAY : A Secure Electronic Funds Transfer System 
+
+ Logic dictates that the medium on which commerce is conducted 
+ and the speed at which it is conducted must have corresponding mediums and 
+ speeds for Payments which arise as a consequence of this commerce. 
+ The volume of e-commerce conducted over the Internet is growing exponentially 
+ and to date, aside from credit cards, there is no payment system to support 
+ this. While credit cards are useful to effect payments resulting from 
+ e-commerce, they are largely restricted to payments between consumers 
+ and established merchants (C-To-B Payments). In addition to the substantial 
+ capital outlays required to establish a credit card infrastructure, credit 
+ risk factors and chargebacks contribute to adding onto transaction costs. 
+ PAY is a revolutionary End-To-End payment system which allows C-To-B, 
+ B-To-B or C-To-C payments between parties across international boundaries 
+ in minutes. 
+
+ Key 
+ Features : 
+
+ Secure 
+ PAY 
+ uses Testkeys, Asymmetrical Encryption, Symmetrical Encryption, SSL and 
+ hardware tokens making it a highly secure system. 
+
+ Cost 
+ Effective 
+ As 
+ PAY uses structured messaging over the Internet, it is a very cost effective 
+ system. 
+ Fast 
+ Using 
+ PAY, funds in any currency can be sent across international boundaries 
+ in minutes. Typically the time taken for a payment between a payer and 
+ payee in two countries, in the currency of a third country, will take 
+ place End-to-End in about 10 minutes. 
+ Human 
+ Resource Effective 
+ PAY 
+ is an End-to End system which transfers the data entry function from a 
+ financial institution to its customers. 
+ Flexible 
+ Authorization Automation 
+ PAY 
+ allows users to fine tune the automation of transaction authorization 
+ based individual risk perceptions. 
+ Currency 
+ Independent 
+ PAY 
+ can effect payments in any currency and supports multiple exchange rates. 
+ Intra 
+ / Inter Bank Networks 
+ PAY 
+ allows easy implementation of Intra or Inter Bank Networks. 
+
+ System 
+ Features : 
+
+ Structured 
+ Input / Output Formats 
+ All 
+ PAY messages are structured allowing easy integration to other payment 
+ systems such as SWIFT. 
+ User 
+ Defined Charges 
+ Institutions 
+ can set up absolutely any type of charge structure using Bankstar's Rule 
+ Designer. Charges can be set up to be payable by the Payer, Payee or both. 
+ Thin/Fat 
+ Client 
+ PAY 
+ supports both Thin and Fat Clients allowing a bank's customers to choose 
+ between the simplicity of a Thin Client and the flexibility of a Fat Client. 
+ Interface 
+ to BILL 
+ PAY 
+ is interfaced to Bankstar's electronic billing package, BiLL. An invoice 
+ raised using BiLL will trigger a payment from PAY when the invoice is 
+ selected for payment. 
+ User 
+ Difinable Payment Instance 
+ Any 
+ number of Payment instances can be set up and parameters controlled for 
+ each instance. Transactions generated using the instance will conform 
+ to rules set up . 
+ Interface 
+ to TEST 
+ PAY 
+ is interfaced to Bankstar's testkey package, TEST. TEST will generate 
+ a testkey for Any payment transaction which requires one. 
+ Customer 
+ Confirmation 
+ At 
+ an institution's option, a PAY instance can be set up such that a customer 
+ of the institution will need to reconfirm a transaction by email before 
+ the payment is made.

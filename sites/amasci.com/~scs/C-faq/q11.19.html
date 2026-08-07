@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+
+<title>Question 11.19</title>
+<link href="q11.18.html" rev=precedes>
+<link href="q11.20.html" rel=precedes>
+<link href="s11.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 11.19</H3>
+<p>I'm getting strange syntax errors inside
+lines
+I've
+<TT>#ifdef</TT>fed out.
+</p><hr>
+<p>Under ANSI C,
+the text inside a ``turned off''
+
+<TT>#if</TT>, <TT>#ifdef</TT>, or <TT>#ifndef</TT>
+must still consist of ``valid preprocessing
+tokens.''
+This means that there must be
+no newlines inside quotes,
+and
+no unterminated comments or quotes
+(note particularly that an apostrophe
+within a contracted word
+looks like the beginning of a character constant).
+Therefore, natural-language comments
+and pseudocode
+should always be written
+between the ``official'' comment delimiters <TT>/*</TT> and <TT>*/</TT>.
+(But see question
+<a href=q20.20.html>20.20</a>,
+and
+also
+<a href=q10.25.html>10.25</a>.)
+</p>
+
+
+<p>References:
+
+ANSI Sec. 2.1.1.2, Sec. 3.1
+<br>
+ISO Sec. 5.1.1.2, Sec. 6.1
+<br>
+H&amp;S Sec. 3.2 p. 40
+<br></p><hr>
+<p>
+Read sequentially:
+<a href="q11.18.html" rev=precedes>prev</a>
+<a href="q11.20.html" rel=precedes>next</a>
+<a href="s11.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

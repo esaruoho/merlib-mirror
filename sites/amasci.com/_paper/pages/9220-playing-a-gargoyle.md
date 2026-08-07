@@ -1,0 +1,112 @@
+---
+title: "Playing a Gargoyle"
+source_domain: amasci.com
+source_path: ~vecna/g99_game03.html
+order: 9220
+reachable_from_entry: false
+images: 1
+internal_links: 9
+extracted: 2026-08-07T06:01:46Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Playing a Gargoyle
+
+*Source page: `~vecna/g99_game03.html`*
+
+# So You Want to be a Gargoyle ...
+
+    That's great!
+
+    The year is 2000 A.D., and you may be from any clan (including one of your own\
+devising) **except** for Clan Wyvern or Clan Avalon. You may be from the same clan\
+as another player character if you wish, even be related or mates, it's up to you.
+
+    You must be a pure gargoyle, no hybrids please.
+
+    You may have any skills and interests suitable to a modern gargoyle, though it is\
+unlikely that you will have strong magical powers.
+
+    No actual characters from the show, TGS, or other fanfic will be permitted as PCs (in\
+the case of fanfic, if you are or have the permission of the author, that may be\
+allowable but is not recommended ... just in case).
+
+    Please do not have any major ties to the actual characters from the show, no\
+convoluted origins such as being brought forward in time from before the attack on\
+Castle Wyvern or saying that Goliath had a brief affair with Una during his trip to\
+1940 and your character is the result.
+
+***Introduction:***\
+    For several weeks now, the elders and mystics of your clan have been experiencing\
+disturbing visions that center on a glowing ball in a glass wall, leaving them with\
+feelings of warning and foreboding. Other clans have reported similar visions,\
+leading the elders to conclude that some great danger to gargoyle-kind is looming.\
+    About this same time, the scientific world is stunned by the discovery of several\
+ancient artifacts in the Antarctic, recently revealed by a massive earthquake.\
+    One of the images shown on television, a picture taken by an archeological team led\
+by Brendan Vandermere and Dakota Jones, shows a bright sphere buried in the ice,\
+as well as an excavated stone tablet with carved images of a robed man holding aloft\
+a burning disk, while winged shapes collapse and writhe at his feet.\
+    The elders and mystics are certain that these images relate to the one in the vision.\
+A group of gargoyles from these various clans have volunteered to get together in\
+secret and try to learn more about this threat. You are among them.\
+    The game begins as you board the Mariko, a private vessel provided by Toshio\
+Adachi, a friend of the Japanese Clan, and set sail for the Antarctic.\
+    The Antarctic, where the nights are six months long ...\
+ 
+
+    Being a gargoyle is a racial advantage that costs 95 points and includes the following\
+as a part of that cost:
+
+***Advantages***\
++5 to Strength -- where an average human will have a ST of 10, the average\
+    gargoyle's will be 15\
+Striker (tail) -- you can use your tail as a weapon\
+Extended Lifespan -- you age at 1/2 human speed\
+Gliding, with Special Enhancement of riding on thermals and air currents\
+Claws -- you may choose to attack hand-to-hand with fists or with claws; using your\
+    claws lets you do additional damage to your opponent\
+Regeneration, Fast -- during a day's stone sleep, all but the most extreme of wounds\
+    (amputations, etc.) will heal completley\
+Temperature Tolerance -- extremes of heat and cold do not affect you as strongly as\
+    they would a human\
+Nightvision -- you have the ability to see well with a very limited amount of light,\
+    though not in **complete** darkness.\
+Recovery -- you regain consciousness in minutes rather than hours if knocked out
+
+**Disadvantages**\
+Inconvenient Size -- among humans, your body structure (wings, tail) makes use of\
+    clothes, furniture, vehicles, etc., awkward and difficult.\
+Sleepy -- defined as turning to stone during daylight hours\
+Nocturnal -- you only function at night\
+Sense of Duty -- you feel a very strong urge to help and defend your clan, your\
+    friends, and anyone else covered by your clan's 'protectorate.'\
+Social Stigma, monster -- although gargoyles protect, humans in general will view\
+    you as a scary monster; you have little in the way of legal rights\
+Secret -- you go to great lengths to keep the location of your home and the existance\
+    of your kind a secret from those who would harm you
+
+***Description:***\
+    Gargoyles come with an amazingly wide range of physical features. Their skin color,\
+wings, hair, horns, tails, etc. vary widely even within the same clan. So, basically,\
+anything goes. If, however, you choose something that is different even from the\
+gargoyle norm, you may need to take additional Advantages or Disadvantages to\
+reflect this (Lexington's wings are actually a minor Disadvantage, because unlike the\
+rest of his clan, he cannot use his arms while gliding as they are needed to keep his\
+wings spread).
+
+To see an example of a gargoyle character, click [here](g99_game07.html)\
+ \
+ 
+
+|  |  |
+|----|----|
+| ***[Introduction](g99_game01.html)*** | ***[Quickie GURPS Rules](g99_game02.html)*** |
+| ***[Being a Gargoyle](g99_game03.html)*** | ***[How Combat Works](g99_game05.html)*** |
+| ***[Being of the Third Race](g99_game04.html)*** | ***[How Magic Works](g99_game06.html)*** |
+| ***[Sample Character -- Ilona of Clan Vancouver](g99_game07.html)*** | ***[Sample Character -- Nix the Water-Sprite](g99_game08.html)*** |
+| ***[Pre-Generated Character Descriptions](g99_game09.html)*** | ***[E-mail the GM](mailto:vecna@eskimo.com)*** |
+
+ 
+
+[<img src="ad_cotsb_1.GIF" width="350" height="60" />](http://www.eskimo.com/~vecna/magelore_index.html)

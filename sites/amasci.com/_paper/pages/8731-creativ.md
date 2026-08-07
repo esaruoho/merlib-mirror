@@ -1,0 +1,29 @@
+---
+title: "creativ"
+source_domain: amasci.com
+source_path: ~telical/creativ.htm
+order: 8731
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T06:01:15Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# creativ
+
+*Source page: `~telical/creativ.htm`*
+
+A Creativity Tool
+
+------------------------------------------------------------------------
+
+With the program of ParaMind, creative individuals, whether they be scientists, teachers, artists, business executives or social workers, can now start to seriously experiment with thinking outside the speed of their mind. Since all future ideas will be represented by language as past ideas have been, it could be said that by sophisticated new uses of language we will be able to find these new ideas. We must use rules to get at sentences that make sense, let alone have any meaningful new value. Linguistics is simply the science of language. The easiest way to do this is to brainstorm with the merge concept. The merge concept in brainstorming allows us to produce volumes of meaningful and grammatically correct output.
+
+ParaMind can be used by scientists at any level because anything can be typed onto the editor and the Word Categories can contain anything as well. Symbol, word, phrase, or number; anything that can be typed can be stored and re-used. ParaMind becomes a spreadsheet for ideas.
+
+Thinkers without ParaMind work at the thinking speed of their own associations. They may have a library of books to help them, maybe even a CD-ROM and a modem on their computer, but they are still restricted to how fast they can type or how fast they can talk into a tape recorder.
+
+Higher speeds of association are now possible because now we have the copy-merge concept of brainstorming. For instance, one scientist could merge together concepts in such sciences as electronics, industrial engineering, botany, and organic chemistry to form totally new and safer ways to supply the needs of a technologically advanced society.
+
+Use your back button or click here for [Table of Contents Page](contents.htm)

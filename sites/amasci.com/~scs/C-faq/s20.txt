@@ -1,0 +1,103 @@
+Miscellaneous 
+
+ 20. Miscellaneous 
+
+ 20.1
+How can I return
+multiple
+values from a function?
+ 20.3
+How do I access command-line arguments?
+ 20.5
+How can I write data files which can be read on other machines
+with different
+data
+formats?
+ 20.6
+How can I call a function, given its name as a string?
+ 20.8
+How can I implement sets or arrays of bits?
+
+ 20.9
+How can I determine whether a machine's
+byte order
+is big-endian or little-endian?
+ 20.10
+How can I convert integers to
+binary or
+hexadecimal?
+
+ 20.11
+Can I use base-2 constants
+(something like 0b101010 )?
+ Is there a
+ printf format for binary?
+ 20.12
+What is the most efficient way to count the number of bits
+which are set in a value?
+ 20.13
+How can I make my code more efficient?
+ 20.14
+Are pointers really faster than arrays?
+How much do function calls slow things down?
+ 20.17
+Is there a way to switch on strings?
+ 20.18
+Is there a way to have non-constant case labels
+(i.e. ranges or arbitrary expressions)?
+ 20.19
+Are the outer parentheses
+in return statements
+really optional?
+ 20.20
+Why don't C comments nest?
+Are
+they
+legal inside quoted strings?
+ 20.24
+Why doesn't C have nested functions?
+ 20.25
+How can I call FORTRAN
+(C++, BASIC, Pascal,
+Ada, LISP) functions from C?
+ 20.26
+Does anyone know of a program
+for converting
+Pascal or FORTRAN
+to C?
+ 20.27
+Can I use a C++ compiler to compile C code?
+ 20.28
+I need
+to compare
+two strings for close, but not necessarily exact, equality.
+ 20.29
+What is hashing?
+ 20.31
+How can I find the day of the week given the date?
+ 20.32
+Will 2000 be a leap year?
+ 20.34
+How
+do you write a program which produces its own source code as its output?
+ 20.35
+What is ``Duff's Device''?
+ 20.36
+When will the next
+Obfuscated C Code Contest
+be held?
+How can I get a copy of
+previous
+winning entries?
+ 20.37
+What was the entry keyword
+mentioned in K&R1?
+ 20.38
+Where does the name ``C'' come from, anyway?
+ 20.39
+
+How do you pronounce `` char ''?
+ 20.40
+Where can I get extra copies of this list?
+
+ top

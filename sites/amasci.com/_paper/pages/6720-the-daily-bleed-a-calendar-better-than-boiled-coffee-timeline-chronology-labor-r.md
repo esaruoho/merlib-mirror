@@ -1,0 +1,412 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0418.htm
+order: 6720
+reachable_from_entry: false
+images: 21
+internal_links: 0
+extracted: 2026-08-07T05:59:30Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0418.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> **This is Darrow,\
+> Inadequately scrawled, with his young, old heart,\
+> & his drawl, and his infinite paradox\
+> & his sadness, and kindness,\
+> & his artist sense that drives him to shape his life\
+> To something harmonious, even against the schemes of God.**
+>
+>        *Edgar Lee Masters,* "Darrow," (1922)
+>
+> > []()\
+> > []()\
+> > \
+> > -- **APRIL 18**
+> >
+> > CLARENCE DARROW\
+> >  *Hard to think "saint" & "lawyer" together, but Darrow defended Debs, anti-work radicals & "the underdog."*\
+> > 
+> >
+> > ------------------------------------------------------------------------
+> >
+> > ZIMBABWE: INDEPENDENCE DAY.
+> >
+> > US: ALFRED PACKER DAY. Eatcher heart out, Ronald McDonald: Honors the only American to be convicted on charges of cannibalism, 1854.
+> >
+> > ------------------------------------------------------------------------
+> >
+> > 
+>
+> >  []()\
+> > []()\
+> > \
+> > 1587 -- John Foxe dies in Cripplegate, London. English Puritan preacher, wrote The Book of Martyrs, in France, forced to flee England when Roman Catholic queen Bloody Mary got throned.\
+> > <http://www.luminarium.org/renlit/foxe.htm>\
+> > []()\
+> > \
+> > <img src="http://www.creativeattractions.com/images/PaulRevereRaidersIIa.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="175" height="100" alt=" (F)red on Drums, Paul on horse" />\
+> > 1775 -- Paul Revere goes joyriding, gets captured;\
+> > William Dawes warns "The British are coming!" <http://www.beach-party.com/pr/>\
+> > \
+> > []()\
+> > \
+> > 1792 -- Vancouver "discovers" Vancouver Island, & renames it for himself. []()\
+> > []()\
+> > \
+> > 1817 -- George Henry Lewes lives, London. Philosopher, literary critic, common-law husband of George Eliot.\
+> > <http://lang.nagoya-u.ac.jp/~matsuoka/Eliot.html>\
+> > []()\
+> > \
+> > 1839 -- What is Today's Youth Coming To?!: French decadent Charles Baudelaire expelled from college.\
+> > <http://www.geocities.com/Paris/Metro/1301/>\
+> > <http://www.empirezine.com/spotlight/bau/bau-bio.htm>\
+> > \
+> > 1842 -- US: Rhode Island Reds? Dorr's Rebellion; Rhode Island citizens, disgruntled by property-owning requirements, hold their own elections.\
+> > <http://www.rilin.state.ri.us/studteaguide/RhodeIslandHistory/chapt4.html>\
+> > []()\
+> > \
+> > <img src="http://members.aol.com/labadiejo/img2.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="110" height="180" alt="Joseph Labadie" />\
+> > 1850 -- **Joseph A. Labadie**
+> >
+> > 
+> >
+> > > Labor activist, writer, poet, printer, anarchist lives, Paw Paw, Michigan.\
+> > > \
+> > > [http://www.eskimo.com/~recall/bleed/sinners/LabadieJoseph.htm](http://www.eskimo.com/~recall/bleed/sinners/LabadieJoseph.htm)\
+> >
+> > []()\
+> > []()\
+> > \
+> > <img src="http://www.law.umkc.edu/faculty/projects/Ftrials/DAR6.GIF" data-border="1" data-hspace="10" data-vspace="10" data-align="right" width="150" height="190" alt="Clarence Darrow" />\
+> > 1857 -- US: American lawyer (one of the very few good 'uns) for the underdog, Clarence Darrow, lives: "To retain all the means of life in the hands of the few - & compel the many to do service to support these few - requires the machinery of the state. It is for this reason that penal laws are made".
+> >
+> > > *"Just think of the tragedy of teaching children not to doubt."*
+> > >
+> > > <http://www.law.umkc.edu/faculty/projects/Ftrials/darrow.htm>\
+> >
+> > []()\
+> > \
+> > 1864 -- Richard Harding Davis, romance author & a leading reporter lives, Philadelphia, Pennsylvania.\
+> > <http://members.aol.com/mg4273/rhdavis.htm#Davis>\
+> > []()\
+> > \
+> > <img src="http://www.eskimo.com/~recall/bleed/images/oldbook.gif" data-vspace="0" data-hspace="5" data-align="left" width="50" height="30" alt="old book" />\
+> > 1879 -- Viljo Tarkiainen (1879 - 1951) lives, Juva. Finnish literature researcher/critic.\
+> >  <http://www.kirjasto.sci.fi/tarkiain.htm>\
+> > []()\
+> > \
+> > 1879 -- US: Trial starts in Standing Bear vs. General Crook in front of Judge Dundy, arguing that Indians citizens have the same rights to habeas corpus as other U.S. citizens. []()\
+> > []()\
+> > \
+> > 1898 -- French Symbolist painter Gustave Moreau dies. []()\
+> > []()\
+> > \
+> > <img src="http://www.geo.lsa.umich.edu/~crlb/COURSES/107/Lec7/sfburning.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="180" height="150" alt="Shake&#39;n&#39;Bake" />\
+> > 1906 -- US: San Francisco Earthquake destroys much of Frisco. Combined with the ensuing fire, 500-700 died & another 250,000 left homeless. Damages totaled over \$500 million from the quake, estimated at 7.9-8.3 on the (yet-to-be devised) Richter Scale.
+> >
+> > > "I asked a man standing next to me what happened. Before he could answer a thousand bricks fell on him & he was killed. A woman threw her arms around my neck. I pushed her away & fled. All around me buildings were rocking & flames shooting. As I ran, people on all sides were crying , praying & calling for help. I thought the end of the world had come."
+> > >
+> > > <http://www.sfmuseum.org/1906/usgs.html>\
+> >
+> > []()\
+> > \
+> > 1908 -- <img src="http://www.utahphillips.org/images/cdwehavefed.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="170" height="170" alt="?" />The IWW poem We Have Fed You All For A Thousand Years is published in the Industrial Union Bulletin.
+> >
+> > > We have fed you all for a thousand years\
+> > > & you hail us still unfed\
+> > > Though there's never a dollar of all your wealth\
+> > > But marks the workers dead\
+> > > We have yielded our best to give you rest\
+> > > & you lie on crimson wool\
+> > > But if blood be the price of all your wealth\
+> > > Good God we have paid in full...
+> > >
+> > > \
+> > > <http://www.utahphillips.org/fedyouall.html>\
+> > > <http://www.rounder.com/Album.asp?catalog_id=5610>\
+> > > <http://www.numachi.com/cgi-bin/rickheit/dtrad/lookup?ti=FEDYUALL>\
+> > > <http://www.geocities.com/capitolhill/senate/3671/fedyou.htm>\
+> > > <http://www.geocities.com/capitolhill/senate/3671/iwwliter.htm>\
+> > > <http://iww.org/>\
+> > > <http://www.cyberbeach.net/~willows/cupw/local/site/music.htm>\
+> >
+> > []()\
+> > \
+> > 1908 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="EG, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: Objecting to the notoriety caused by Emma Goldman's presence, the management of the St. Francis Hotel in San Francisco forcesher to leave; encounters an escalated level of surveillance. []()\
+> > []()\
+> > \
+> > 1912 -- US: Paint Creek-Cabin Creek coal miners strike in West Virginia. They are forced to defend themselves against National Guard, beginning one of the most violent strikes in the nation's history.US: 
+> >
+> > > UMWA miners on Paint Creek in Kanawha County demanded wages equal to those of other area mines & recognition of the United Mine Workers of America. The operators rejected the wage increase & miners walked off the job today. Miners along nearby Cabin Creek, having previously lost their union, join the Paint Creek strikers.
+> > >
+> > > [\[Details, click here\]](http://recollectionbooks.com/bleed/04ref.htm#18/1912)
+> >
+> > []()\
+> > []()\
+> > \
+> > 1913 -- US: Paint Creek-Cabin Creek coal miners, on strike for over a year; they have endured a cold winter in tents & on meager rations.
+> >
+> > > They had suffered humiliation, brutality & death at the hands of mine guards. They had been machined gunned by an armor plated train, illegally court martialed & illegally imprisoned by the state governor, with whom local UMWA officials -- supposed to be representing the best interests of the miners -- were working in cahoots with the governor to break the strike.
+> > >
+> > > In a betrayal of the miners, Eugene Debs visited West Virginia & reported that the governor was doing a good job.
+> > >
+> > > [\[Details, click here\]](http://recollectionbooks.com/bleed/04ref.htm#18/1913)
+> >
+> > []()\
+> > []()\
+> > \
+> > 1923 -- Danish novelist/dramatist, Leif Panduro lives, Frederiksberg. A social critic writing in a satirical, humorous vein. Wrote Av, Min Guldtand (1957, "Oh, My Gold Tooth"). []()\
+> > []()\
+> > \
+> > <img src="http://www.deborahholland.net/images/paniccd.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="186" height="185" alt="?" />\
+> > 1930 -- US: Atlanta's "Barbecue Bob" (aka Robert Hicks), records "We Sure Got Hard Times Now". One of the most popular bluesmen of the late 20's, recording 68 sides before his death in 1931.
+> >
+> > > Spring. Four million Americans are out of work. Breadlines continue to form in New York, Chicago & other American cities.
+> > >
+> > > Some depressing music, including Barbecue Bob's tune,\
+> > > <http://www.deborahholland.net/discography.htm>\
+> > > or <http://imusic.artistdirect.com/store/artist/album/0,,301462,00.html>\
+> > > 
+> > >
+> > > [\[Details, click here\]](http://recollectionbooks.com/bleed/04ref.htm#18/1930)\
+> > > [\[ Source: Vanessa Collection\]](http://recollectionbooks.com/bleed/sources.htm#Vanessa)
+> >
+> > []()\
+> > []()\
+> > \
+> > 1934 -- US: First "Washateria" (Laundromat) opens, in Fort Worth, Texass. []()\
+> > []()\
+> > \
+> > 1936 -- The singing cowboy, Gene Autry, records "Back in the Saddle Again." []()\
+> > []()\
+> > \
+> > <img src="http://flag.blackened.net/liberty/images/wildcat01.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="133" height="459" alt="?" />\
+> > 1937 -- Spain: "Friends of Durruti Group," (former anarchists in the Durruti Column) hold their first public meeting at a theatre with about 1000 workers present & four speakers.
+> >
+> > [\[Details, click here\]](http://recollectionbooks.com/bleed/04ref.htm#18/1937) []()\
+> > []()\
+> > \
+> > 1941 -- US: After a four-week boycott bus companies in New York City agree to hire black workers\
+> >
+> > > []()\
+> > > []()\
+> > > \
+> > > <img src="http://www.users.interport.net/~scrypt/acker_mine_sm.gif" data-border="0" data-hspace="10" data-vspace="10" width="268" height="251" alt="?" />\
+> > > 1948 -- Kathy Acker lives.
+> > >
+> > > Kathy Acker: 1948-1997
+> > >
+> > > 
+> > >
+> > > 
+> > >
+> > > "Kathy Acker loved Miles Davis &, like Miles, she didn't give a fuck, except about the things she gave a fuck about. She gave a fuck about books (the ones she wrote & the library of 30,000 volumes she amassed over the years), about the subliminal politics of everyday life -- where the brittle edges of gender politics & class would come into sharp focus -- &, mostly, about the power of words to define the world & shape our thoughts. Whoever controlled the words controlled thought, Kathy knew. She set out to understand & liberate words (& herself) by direct action: She'd seize control of language & reinvent it in her work.
+> > >
+> > >        Richard Kadrey, author (Metrophage; Horse Latitudes; Covert Culture Sourcebook; From Myst To Riven)
+> > >
+> > > <img src="http://www.users.interport.net/~scrypt/plasma.gray.gif" data-align="BOTTOM" data-naturalsizeflag="0" width="503" height="3" />
+> > >
+> > > 
+> > >
+> > > Re(a)d, Not Dead\
+> > > \
+> > > <img src="http://www.users.interport.net/~scrypt/plasma.gray.gif" data-align="BOTTOM" data-naturalsizeflag="0" width="503" height="3" />
+> > >
+> > >  In the words of David Antin: *Her works will answer for her. They remain alive.*
+> > >
+> > > <img src="http://www.users.interport.net/~scrypt/plasma.gray.gif" data-align="BOTTOM" data-naturalsizeflag="0" width="503" height="3" />
+> > >
+> > > <http://www.users.interport.net/~scrypt/RIP_Kathy.html>\
+> > > <http://www.nagasaki-gaigo.ac.jp/ishikawa/amlit/a/acker21.htm>\
+> > >
+> > > 
+
+<div align="left">
+
+[]()\
+\
+1950 -- J.D. Salinger's story, "For Esm, With Love & Squalor", opens:
+
+> *"Just recently, by air mail, I received an invitation to a wedding that will take place in England on April 18th."*
+
+[]()\
+[]()\
+\
+1954 -- Egypt: Colonel Nasser seizes power. []()\
+[]()\
+\
+1955 -- US: Relative Death, more or less, of Albert Einstein, pacifist, socialist, scientist, Princeton, New Jersey.
+
+> Human society is passing through a crisis ... The economic anarchy of capitalist society as it exists today is, in my opinion, the real source of the evil...
+>
+> The result of...\[the concentration of private capital in a few hands\] is an oligarchy of private capital the enormous power of which cannot be checked even by a democratically organised political society.
+>
+> 
+>
+> ---Albert Einstein, Why I Am A Socialist, 1949
+>
+> 
+>
+> <img src="http://recollectionbooks.com/bleed/images/misc/ein_opp.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" width="190" height="150" alt="Birt &amp; Bob" />
+>
+> *Albert Einstein with colleague J. Robert Oppenheimer (a victim of the McCarthy era witch hunts) in 1947, the year Oppenheimer became Director of the Institute for Advanced Study at Princeton:*
+
+<http://www.aip.org/history/einstein/>\
+<http://www.westegg.com/einstein/>\
+\
+
+"It's all relative"
+
+------------------------------------------------------------------------
+
+[]()\
+\
+<img src="http://www.jargonbooks.com/043.JPG" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="100" height="100" alt="?" />\
+1958 -- A US Federal Court decides since Ezra Pound is incurably, permanently insane, he can no longer be held for treason & can be set free.
+
+As he leaves St. Elizabeth's Hospital in Washington, D.C., 13 years after being taken into custody, he reflects:
+
+> "How did it go in the madhouse?\
+> Rather badly.\
+> But what other place could one live in America?"
+>
+> <http://www.lit.kobe-u.ac.jp/%7Ehishika/pound.htm>\
+> <http://www.jargonbooks.com/pelist3.html#pe43>\
+
+[]()\
+\
+1958 -- West Germany: First march against nuclear arms. []()\
+[]()\
+\
+1963 -- Henrietta Kreis is the third famous Wallenda aerialist to fall to death.
+
+[]()\
+[]()\
+\
+1964 -- American writer Ben Hecht dies. []()\
+[]()\
+\
+1966 -- US: Bill Russell becomes first black coach in National Basketball Association (NBA) history (Boston Celtics). []()\
+[]()\
+\
+1968 -- US: Baaaaa Humbug? Army concedes that nerve gas sprayed from planes, burned in pits, & released from 155mm shells at its Dugway Proving Ground is responsible for the death of at least 6,400 Utah sheep. []()\
+[]()\
+\
+1969 -- Stout Fellow?: Patrick Stout, a former Army sergeant who had entered an atomic bomb crater in Alamogordo, New Mexico to demonstrate that it presented no safety hazard, dies of leukemia. Doctors attributed Stout's contraction of the disease to atomic radiation exposure.
+
+> The only journalist allowed to witness the Alamogordo atomicbomb test, two months later, after A-bombs were dropped on Hiroshima & Nagasaki, he wrote about the Alamogordo event in glowing terms in the New York Times. 
+>
+> *"The hills said yes' & the mountains chimed in yes,'"* the newsman waxed poetic. 
+>
+> *"It was as if the earth had spoken & the suddenly iridescent clouds & sky had joined in one mighty affirmative answer. Atomic energyyes."*
+>
+>  <http://flag.blackened.net/apr/wrongstuff.html>\
+
+[]()\
+\
+1970 -- US: Flower Power? 4,000 march in Seattle for peace in Vietnam/SE Asia, escorted by Seattle police officers with daffodils tied to their night sticks. []()\
+[]()\
+\
+1970 -- US: Native Americans start five-day sit-ins at several Bureau of Indian Affairs (BIA) offices across the country. []()\
+[]()\
+\
+<img src="http://www.wiseacre-gardens.com/cards/javabugs.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="200" alt="?" />\
+1971 -- US: Howard Hughes, billionaire, dies. Lover of bugs, germs & the great outdoors.\
+[]()\
+[]()\
+\
+1977 -- US: Native American activist Leonard Peltier found guilty of murdering two FBI agents, despite government testimony that he was not present at the scene of the killings.\
+<http://www.freepeltier.org/>\
+[]()\
+\
+1978 -- US: Senate voteS 68-32 to turn over the Panama Canal to Panama on 31 December 1999, ending several months of heated debate; an earlier vote (on 16 March) had given approval to a treaty guaranteeing the area's neutrality after the year 2000. []()\
+[]()\
+\
+1980 -- Rhodesia: Ending racial civil war, thIS segregated African nation becomes the liberated African nation of Zimbabwe, gains independence from the U.K. []()\
+[]()\
+\
+1980 -- El Salvador: Democratic Revolutionary Front (FDR), a coalition of all popular organizations, founded. []()\
+[]()\
+\
+1983 -- A lone suicide bomber kills 63, at the US Embassy in Lebanon.\
+<http://caq.com/cryptogate> []()\
+[]()\
+\
+1996 -- Lebanon: 100 refugees in UN compound killed by intentionally targeted Israeli artillery, Qana. The US tried unsuccessfully to suppress a UN report blaming Israel for the massacre.\
+[\[Source: Reclaim Our History/Eat the State!\]](http://recollectionbooks.com/bleed/sources.htm#ETR)\
+<http://home.no.net/norplt/qana.html>\
+<http://arjanelfassed.mediamonitors.org/art20010303.html>\
+\
+1997 -- Sweden: "Choose Life" Plowshares action at Bofors weapons factory in Karlskoga, exporter of arms to Indonesia.
+
+[]()\
+[]()\
+\
+<img src="http://fusion.sims.berkeley.edu/lcush/IWThumb/t_3454010.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="130" alt="?" />\
+1998 -- Chile: Labor organizations from across Latin America converge on Santiago, in a mass protest of Beloved & Respected Comrade Leader President Bill Clinton's free trade visit & negotiations there.
+
+> The US government & a few elite US corporations have long ago replaced Chilean democracy with a military dictatorship under the butcher Augusto Pinochet. The latter undertakes a campaign of genocide against labor, activist workers & those to the left of his extreme rightwing pals. In the economic realm, so-called "radical" capitalist economist Milton Friedman, the darling of Republicans & "Free Market" advocates, plotted out an economic dictatorship that makes the rich richer & the poor poorer. 
+>
+> Together they effect a destruction & terrorism in Chile in mere years -- while decrying Castro's comparatively "mild" tyranny, now decades old.
+>
+> 
+>
+> <img src="http://www.ossimoro.it/pinocho.gif" data-border="0" data-hspace="10" data-vspace="10" width="104" height="105" alt="?" />
+
+<http://recollectionbooks.com/bleed/dobyns.htm>\
+\
+<http://fusion.sims.berkeley.edu/lcush/>\
+[]()\
+\
+3000 --
+
+> "Strange that science, which in the old days seemed harmless, should have evolved into a nightmare that causes everyone to tremble."
+>
+> 
+>
+>  Albert Einstein
+>
+> <img src="http://www.th.physik.uni-frankfurt.de/~jr/gif/phys/einstein_tongue.jpg%0BALT=%22Hey," data-(f)red!"="" data-border="0" data-hspace="10" data-vspace="10" width="300" height="430" />
+>
+> *"Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world."*
+>
+> []()\
+> []()\
+>
+> ------------------------------------------------------------------------
+>
+> anti-CopyRite 2000-3000, more or less\
+> Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> or send questions, suggestions, additions, corrections to:\
+> [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+>
+> Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+>
+> The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+>
+> anarchist, labor, radical books
+>
+> See also: Anarchist Encyclopedia\
+> http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> Stan Iverson Memorial Library\
+> http://recollectionbooks.com/siml/\
+> Anarchist Time Line / Chronology\
+> http://recollectionbooks.com/bleed/indexTimeline.htm
+
+</div>

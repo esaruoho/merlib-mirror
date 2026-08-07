@@ -1,0 +1,43 @@
+Steve Summit's home page 
+
+ Steve Summit's home page 
+
+I maintain the Usenet comp.lang.c FAQ list .
+
+It's also available as a
+ book .
+
+I
+used to
+teach a pair of C programming classes ,
+and their
+ notes 
+are all
+on line.
+
+(More
+ information about C .)
+
+Other
+ stuff I've written 
+(mostly C-related Usenet posts).
+
+Here are my collections of
+ links ,
+ home pages ,
+and
+ other assorted references .
+
+The ISP hosting this page
+and where I receive my e-mail,
+ eskimo.com ,
+is a rare and special one,
+perfect for my needs.
+If you're looking for an ISP
+that gives you the access you need
+(including Unix shells)
+without getting in your way
+or charging too much,
+check it out.
+
+ Steve Summit .

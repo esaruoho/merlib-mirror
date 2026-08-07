@@ -5,8 +5,8 @@ source_path: freenrg/tors/index.html
 order: 121
 reachable_from_entry: true
 images: 4
-internal_links: 29
-extracted: 2026-08-03T18:11:23Z
+internal_links: 30
+extracted: 2026-08-07T05:52:59Z
 extractor: site_to_paper.py (pandoc)
 ---
 

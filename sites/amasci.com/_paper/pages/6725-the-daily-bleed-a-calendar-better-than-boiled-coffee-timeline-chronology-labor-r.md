@@ -1,0 +1,371 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0425.htm
+order: 6725
+reachable_from_entry: false
+images: 21
+internal_links: 0
+extracted: 2026-08-07T05:59:30Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0425.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> **APRIL 25**
+>
+> GEORG SIMMEL\
+> Sociologist, theorist of impersonalism & capitalist alienation.\
+> 
+>
+> > NABOHASSAR NEW YEAR, 2743.
+> >
+> > Ancient Rome: ROBIGALIA, Sacrificial rites to placate the God of Mildew.
+> >
+> > 
+> >
+> > <img src="http://www.eskimo.com/~recall/bleed/images/skullGlowing.gif" data-border="1" data-hspace="10" data-vspace="10" width="74" height="100" alt=" ? " />
+> >
+> > ANTI-NUCLEAR DAY: Mutants for Nuclear Power -) say "No Nukes is Not Enough!" & "Better Living Through Radiation!"\
+> > 
+> >
+> > ARBOR DAY: Plant a tree.Takes longer to load an image than to plant an instant virtual tree:\
+> >  <http://www.instanttrees.com/River2.jpg>\
+> > <http://www.msue.msu.edu/msue/imp/moduf/07279513.html>
+>
+> ------------------------------------------------------------------------
+>
+> []()\
+> []()\
+> \
+> -- US: Hagbard Celine has the Mafia assassinate suspected Illuminati. (Anybody know the year?)
+>
+> > From: Bleedster Darby \
+> > I thought you would like to know that: A Terrible Thunder: The Story of the New Orleans Sniper by PeterHernon is back in print.
+> >
+> > Keep up the good work.
+> >
+> >  <http://www.gcpress.com/thunder/>\
+>
+> []()\
+> \
+> 1324 -- England: An entry in the Jornal de la Chambre of King Edward II shows pence a day paid to one "Robyn Hod" for service to the King. []()\
+> []()\
+> \
+> <img src="http://www.eskimo.com/~recall/bleed/images/bullet.gif" data-hspace="10" data-vspace="5" data-align="left" data-="" width="28" height="28" alt="Ooopsie!" />\
+> 1523 -- England: King Henry VIII forbids private ownership of firearms by any person with an income of less than 100 pounds per year. The ban is cheerfully ignored. []()\
+> []()\
+> \
+> <img src="http://www.danheller.com/images/Africa/Mali/Timbuktu/hidden-sun.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="185" height="265" alt="?" />\
+> 1593 -- Mali: Why?: Moroccans take Timbuktu, "Town of the 333 Saints" (or guardian genies).
+>
+> <http://www.danheller.com/timbuktu.html>\
+> \
+> []()\
+> \
+> 1684 -- Patent granted for the thimble. []()\
+> []()\
+> \
+> 1792 -- France: The guillotine is erected in Paris at the Place de Grve. Quite the erection it is, too.\
+> 'Calendar Riots' []()\
+> []()\
+> \
+> <img src="http://www.liii.com/~nycore/images/guill16.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="220" height="294" alt=" ? " />\
+> 1793 -- France: Highway to Hell? Guillotine first used -- executes highwayman Nicolas Pelletier. (or is this the same as above?)
+>
+> > In contrast to today's sanitary executions, behind closed doors, yesteryear's were held in the town center, where families & friends gathered for the 18th-century equivalent of mass entertainment. 
+> >
+> > The death penalty didn't count for much unless it could be stretched out, subjecting all but upper-class convicts to excruciating hours of torture. In earlier days, quartering was popular (simply tie the victim's limbs to four horses & send the beasts galloping in four directions); fun were the rack & the wheel, both designed for drawn-out death. Luckier victims were simply gutted, then hanged.
+> >
+> >  <http://www.liii.com/~nycore/guilltne.htm>\
+>
+> []()\
+> \
+> 1800 -- British poet William Cowper, after six years of nearly unbroken madness, dies.\
+> <http://www.library.utoronto.ca/utel/rp/authors/cowper.html>\
+> []()\
+> \
+> <img src="http://www.eskimo.com/~recall/bleed/images/bullet.gif" data-hspace="10" data-vspace="5" data-align="left" data-="" width="28" height="28" alt="Ooopsie!" />\
+> 1816 -- As Lord Byron leaves England in permanent exile, friends arm themselves with firearms to protect him lest the very sight of the poet incites a riot.
+>
+> 
+>
+> > Consternation in Mayfair\
+> >  Rioting in Notting Hill Gate\
+> >  Fascists marching on the high street\
+> >  Carving up the welfare state\
+> >  Operator get me the hotline\
+> >  Said, father can you hear me at all?\
+> >  Telephone kiosk out of order\
+> >  Spraycan writing on the wall\
+> > \
+> >  Look out, listen can you hear it?\
+> >  Panic in the county hall!\
+> >  Look out, listen can you hear it?\
+> >  Whitehall up against a wall\
+> >  Up against the wall !\
+> > 
+> >
+> >  Tom Robinson Band (from "Up Against The Wall")\
+> > <http://www.tomrobinson.com/>\
+>
+>  []()\
+> []()\
+> \
+> <img src="http://www.eskimo.com/~recall/bleed/images/bullet.gif" data-hspace="10" data-vspace="5" data-align="left" data-="" width="28" height="28" alt="Ooopsie!" />\
+> 1846 -- Mexico: Pig in a Polk?: Mexican forces obligingly attack a US "scouting party" sent by Beloved & Respected Comrade Leader President James Polk into disputed territory between the Nueces & Rio Grande Rivers in hopes of provoking just such a skirmish. The incident was used by the expansionist Congress as an excuse to start the Mexican-American War, during which the US seized California (Surf's Up!). []()\
+> []()\
+> \
+> 1870 -- US Tired of living as second-class citizens on Klamath land & discouraged by failed crops during the government attempts to convert them from hunting, Captain Jack & a group of 371 Modoc Indians leave the reservation April 25th or 26th, & return to their ancestral lands near Tule Lake, California.\
+> Source: daver@flag.blackened.net []()\
+> []()\
+> \
+> 1873 -- Walter de la Mare lives (1873-1953), Charlton, Kent, England. Novelist, mystic poet, loosely in the literary tradition of Wordsworth & Coleridge. His material often appear in horror collections because of their ghostly atmosphere. Aka Walter Ramal.\
+> <http://www.kirjasto.sci.fi/delamare.htm>\
+> []()\
+> \
+> 1874 -- Radio inventor Guglielmo Marconi lives. []()\
+> []()\
+> \
+> 1878 -- Anna Sewell completes Black Beauty, the Autobiography of a Horse & dies, in England, after being invalided to her home in Old Catton, Norfolk the last eight years. This children's classic is said to have been instrumental in abolishing the cruel practice of the "checkrein".\
+> <ftp://uiarchive.cso.uiuc.edu/pub/etext/gutenberg/etext95/bbeau10.txt>\
+> []()\
+> \
+> 1892 -- France: The trial of Ravachol begins. 
+>
+> [\[Details, click here\]](http://recollectionbooks.com/bleed/04ref.htm#25/1892)
+>
+> Octave Mirbeau's article in "L'Endehors" 52 (May 1, 1892), gave one of the most balanced anarchist views of Ravachol's terrorist activity:
+>
+> > "Who is it throughout this endless procession of tortures which has been the history of the human race who is it that sheds the blood, always the same, relentlessly, without any pause for the sake of mercy? 
+> >
+> > Governments, religions, industries, forced labor camps, all of these are drenched in blood.
+> >
+> > 
+> >
+> > Octave Mirbeau, Ravachol
+> >
+> > <http://burn.ucsd.edu/~mai/TEXT/mirbeau_ravachol.html>\
+>
+> []()\
+> \
+> 1898 -- Candy Man?: William S. Porter, convicted of embezzlement, enters the Ohio penitentiary where he begins writing short stories under a name copped from a guard O. Henry. []()\
+> []()\
+> \
+> 1898 -- US: War declared on Spain; grabs many colonies outside the continent in its continuing imperialist expansion, part of its "Manifest Destiny". []()\
+> []()\
+> \
+> <img src="http://webreference.com/outlook/license/car.jpg" data-border="0" data-hspace="10" data-vspace="10" width="650" height="170" alt="Tale Spin" />\
+> 1901 -- US: Licentious Communism?: New York becomes first state requiring auto license plates (\$1 fee).\
+> <http://webreference.com/outlook/license/gallery.html>\
+> \
+> []()\
+> \
+> 1908 -- American TV investigative journalist Edward R. Murrow lives. []()\
+> []()\
+> \
+> 1913 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="EG, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: Emma Goldman opens series of lectures on Nietzsche at the Woman's Club in Denver.\
+> []()\
+> []()\
+> \
+> 1914 -- Claude Mauriac lives. French novelist/critic, eldest son of novelist Francois Mauriac, interpreter of the avant-garde school of nouveau roman, "new novel". Private secretary to Charles de Gaulle 1944-1949, later film & literary critic for the newspaper "Le Figaro." []()\
+> []()\
+> \
+> 1920 -- Poland "invades" Russia. Most of the WWI allied countries have done the same (including the US & Britain) in an effort to overthrow the Bolsheviks.
+>
+> > (It depends how you define Russia. Pilsudski forces entered Ucrainawith Ucrainian nationalists' forces to support them. Before WWI, Ucraine (& huge part of Pole populated territory) formed part ofTsarist imperial Russia. Bleedster Piero)
+>
+> anarchist Ukraine
+>
+> []()\
+> []()\
+> \
+> 1923 -- Albert King, American bluesman, lives. []()\
+> []()\
+> \
+> 1932 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="EG, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)Germany: Emma Goldman is on the last leg of her German tour (April 25-May 15) through Bavaria, Baden-Wurttemberg, & Hessen all meetings are sponsored by the FAUD. She lectures in Schweinfurt, Furth, Nuremberg, Stuttgart, Heilbronn, Gppingen, Ulm, Offenbach, Darmstadt, Mannheim, & Ludwigshafen. Among her lecture topics are "Birth Control," "The American Labor Movement," "Art & Revolution," & "Women's Role in the Russian Revolution." []()\
+> []()\
+> \
+> 1937 -- Spain: The UGT leader Roldn Cortada is murdered in Molins del Llobregat.
+>
+> Anarchist chronology, Friends of Durruti Group 1937-39
+>
+> [\[Source: Agustin Guillamn, AK Press, click here\]](http://recollectionbooks.com/bleed/sources.htm#FriendsDurruti) []()\
+> []()\
+> \
+> 1937 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="EG, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)England: The benefit concert for the Spanish refugees, which Emma Goldman has worked frantically to produce, is held at Victoria Palace. With Paul Robeson's performance, it is an artistic success but raises less money than Goldman had hoped for.\
+> []()\
+> []()\
+> \
+> <img src="http://www.mypetstop.com/Assets/Images/shared/cat/main_right.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="135" height="91" alt=" ? " />\
+> 1938 -- First use of seeing eye dog.\
+> <http://www.netfunny.com/rhf/jokes/95q4/doggie.html>\
+> <http://www.petsource.com/ATOC.HTM>\
+> \
+> 1944 -- "Krazy Kat" cartoonist George Herriman dies, Hollywood.
+>
+> > There is a wonderful resource site for Krazy & Herriman, which was once forced to remove all images when the copyright holder wanted \$5,000 a month to use them. 
+> >
+> > Thankfully, King syndicate, which does nothing for Herriman anymore, relented & allowed this fan page to continue. Another generation may now discover Krazy.
+> >
+> > <http://www.krazy.com/>\
+>
+> []()\
+> \
+> 1945 -- US: Founding conference of United Nations (UN) opens, Frisco, California. []()\
+> []()\
+> \
+> 1947 -- France: Renault strike begins. See Birchall, Workers Against the Monolith, Pluto Press. []()\
+> []()\
+> \
+> 1959 -- More Leaway?: Saint Lawrence Seaway opened. []()\
+> []()\
+> \
+> <img src="http://perso.club-internet.fr/ytak/images/cochon2_low.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="99" height="125" alt="Georges Conchon" />\
+> 1959 -- France: Georges Conchon (1879-1959) dies. Tapestry maker, anarchist & very popular secretary of the "Federation of Tenants" (ancestor of the DAL). See the Anarchist Encyclopedia page, <http://www.eskimo.com/~recall/bleed/sinners/ConchonGeorges.htm>\
+> \
+> []()\
+> []()\
+> \
+> 1962 -- US: Resumption of atmospheric nuclear testing announced after test-ban negotiations fail. America loves to share its wealth with the rest of the world. []()\
+> []()\
+> \
+> <img src="http://members.aol.com/hkeleher/littlemermaid/smileb1.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="75" height="100" alt="Mermaid" />\
+> 1964 -- Denmark: Heads Up? "Little Mermaid" statue loses head to a saw in Copenhagen harbor. The head was removed & stolen -- see also 6 January.\
+> []()\
+> []()\
+> \
+> 1968 -- US: 80 Olympic Community College students arrested in a protest on their Bremerton, Washington campus.\
+> []()\
+> []()\
+> \
+> <img src="http://www.pieman.org/beatfaces.gif" data-border="0" data-hspace="30" data-vspace="30" data-align="LEFT" width="85" height="85" alt=" Heads of State? " />\
+> 1968 -- The Beatles refuse to perform for the Queen of England at a British Olympic Appeal Fund show. Ringo Starr explains, *"Our decision would be the same no matter what the cause. We don't do benefits."* []()\
+> []()\
+> \
+> 1968 -- Paul Horn records in the Taj Mahal. []()\
+> []()\
+> \
+> 1969 -- US: The Rev. Ralph Abernathy & 100 others arrested while picketing a Charleston, South Carolina hospital to support unionization. []()\
+> []()\
+> \
+> 1969 -- Italy: gli anarchici sono accusati e poi assolti di vari attentati alla fiera di Milano. Un anarchico di nome Braschiviene invitato durante un interrogatorio dal commissario Calabresi a buttarsi dalla finestra.\
+> <http://www.geocities.com/CapitolHill/8485/glca/pinelli.html>\
+> []()\
+> \
+> <img src="http://www.eskimo.com/~recall/bleed/images/bullet.gif" data-hspace="10" data-vspace="5" data-align="left" data-="" width="28" height="28" alt="Ooopsie!" />\
+> 1970 -- US: After playing a concert in Raleigh, North Carolina, where men in the crowd taunt the interracial band with racial insults, Pacific Gas & Electric is shot at as its van leaves the club. Four bullets hit the vehicle but no one is hurt. []()\
+> []()\
+> \
+> 1970 -- France: Albert Perrier (or Perier), aka Germinal, (1897-1970) dies, Angers. Militant revolutionary syndicalist & resistance fighter.
+>
+> > Perrier joined "l'Union Anarchiste" in the 1920s, & became secretary of the fdration du Nord-Pas-de-Calais, & where he fought the influence of the Communist Party in his union.
+> >
+> > In 1923-24, Albert Perrier published the newspaper "Le Combat", & in the 1930s joined the working cooperative "La Ruche". In February 1934 he was jailed for organizing an antifascist demonstration in the streets of Prigueux. In August 1936, he went to Spain with a first French convoy of food & weapons for the C.N.T.- F.A.I., & for the next two 2 years helped supply the Spanish anarchists in spite of a French blockade. During the last months of the revolution Perrier facilitated the passage of those escaping from Spain.
+> >
+> > Perrier was involved in the anti-Nazi Resistance movement in France, & was arrested & sent to a prison camp for 18 months (from which he escaped). 
+> >
+> > Following the war he took up again his trade-union & libertarian activities, particularly agitating for the construction of affordable housing.
+> >
+> > [\[Source: L'Ephmride Anarchiste\]](http://recollectionbooks.com/bleed/sources.htm#Ephemeride)
+>
+> []()\
+> []()\
+> \
+> <img src="http://www.eskimo.com/~recall/bleed/images/bullet.gif" data-hspace="10" data-vspace="5" data-align="left" data-="" width="28" height="28" alt="Ooopsie!" />\
+> 1974 -- Portugal: Armed Forces Movement (MFA - Movimento das Foras Armadas) Revolt, the Revoluo dos Cravos ("Carnation Revolution") begins, ending 48-year military dictatorship.
+>
+> See: The Carnation Revolution, 1974-1976, Stewart Lloyd-Jones . <http://www.cphrc.org.uk/focus/april/fo-ap-images.htm#>\
+> []()\
+> \
+> 1976 -- Portugal: The first free parliamentary elections in 50 years Socialists & Popular Democrats share win. []()\
+> []()\
+> \
+> 1978 -- US: Supreme Court rules pension plans can't require women to pay more. []()\
+> []()\
+> \
+> 1982 -- Australia: Women lay wreath for all women of all countries raped in war, Canberra. []()\
+> []()\
+> \
+> 1983 -- Australia: 175 women arrested for marching to mourn the rape of women in war, Sydney & Melbourne. []()\
+> []()\
+> \
+> 1983 -- US: A House of Representatives report criticizes the Interior Department for selling coal leases at "fire sale" prices. More than 1.6 billion tons in the Powder River Basin went for 55 million dollars about half its market value.
+>
+> > A Northern Cheyenne community organization called Native Action forms to protect the reservation from the impact of the Powder River coal fields & Colstrip, which hosts the nation's largest coal-generating & gasification complex. Native Action launches a court action resulting in anationwide moratorium on all federal coal leases.
+>
+> []()\
+> []()\
+> \
+> <img src="http://recollectionbooks.com/bleed/images/camelot.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="151" height="111" alt=" ? " />\
+> 1984 -- US: James Baker III is asked if he's ever been to a Communist country. *"Well,"* he replies,
+>
+> 
+>
+> > *"I've been to Massachusetts."*
+>
+> []()\
+> []()\
+> \
+> 1988 -- Denmark: Greenpeace & the Danish Government debate. []()\
+> []()\
+> \
+> <img src="http://oposite.stsci.edu/pubinfo/PicsBanner.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="150" height="150" alt=" ? " />\
+> 1990 -- Outer Space: Blind Leading the Blind? Hubble Space Telescope is deployed from the Space Shuttle.\
+> <http://oposite.stsci.edu/pubinfo/pictures.html>\
+> []()\
+> \
+> 1993 -- US: Over one million march in Washington, D.C., for gay, lesbian, bisexual, & transgender rights. []()\
+> []()\
+> \
+> <img src="http://www.anarki.net/barricade/shop.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="216" height="274" alt="?" />\
+> 1996 -- Australia: ANZAC Day. Swastikas were painted on front door of Barricade Books, as well as those of other local anti-fascist activists. A local demonstration against fascist organising is held, & a march to the bookstore.
+>
+> <http://www.anarki.net/barricade/history.html>\
+> []()\
+> \
+> 
+>
+> []()\
+> \
+> 3000 --
+>
+> > "Expect nothing from the state except your passport & your ticket home to a prison of your country's choice. A free hotel for you & your kind. The rats that came ashore with the cargo have got a sporting chance of survival. They can hide & set up house & they don't need a passport, & they don't speak out except in times of plague."
+> >
+> >        Ralph Steadman, from his introduction to Waterstone's & The Medical Foundation For the Care of Victims of Torture celebrate the 50th anniversary of the Universal Declaration of Human Rights.
+> >
+> > []()\
+> > []()\
+> >
+> > ------------------------------------------------------------------------
+> >
+> > anti-CopyRite 2000-3000, more or less\
+> > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > or send questions, suggestions, additions, corrections to:\
+> > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> >
+> > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> >
+> > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> >
+> > anarchist, labor, radical books
+> >
+> > See also: Anarchist Encyclopedia\
+> > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > Stan Iverson Memorial Library\
+> > http://recollectionbooks.com/siml/\
+> > Anarchist Time Line / Chronology\
+> > http://recollectionbooks.com/bleed/indexTimeline.htm

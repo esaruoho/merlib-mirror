@@ -1,0 +1,56 @@
+ILOILO on the web! (About Us) 
+
+ | 
+ home | about us | eyeball |
+ friends | msg board | chat |
+ links | guestbook 
+ | 
+
+ Y O U R A D H E R E 
+
+ About Us 
+
+ Here are some FAQ about
+ iloilo.org.ph: 
+
+ * about iloilo
+ (geographical location) 
+
+ Test 123 
+
+ * chat related
+ questions 
+
+ Q. How do I get there? 
+ A. You must have an Internet Connection, download an IRC Client (pref. mIRC
+ or PIRCH), 
+ connect to any UNDERNET IRC server and join #iloilo. (syntax: /j
+ #iloilo) 
+
+ Click here to get mIRC or Click here to get PIRCH 
+
+ Q. What are the Commands available for the channel bot (MaLdItA) 
+ A. 
+ 1.PING-type !ping to be pinged by the bots 
+
+ 2.SEEN-type seen nick to get info on MaLdItA's last sighting of that nick. 
+ Example: 
+ seen nickname 
+
+ Q. Can I have that @ thing before my nick too? 
+ A. Yes please click here to apply. 
+
+ Q. Who are managing the #iloilo HP? 
+ A. Pyron and ilaw 
+
+ Q. When was the #iloilo HP created? 
+ A. August 7, 1997 
+
+ Q. What if I was banned from the channel, how can I rejoin the channel? 
+ A. Banning someone from the channel is one of the op privileges. If you get
+ banned, you 
+ need the to ask someone with ops to unban you. 
+
+ 1999 ILOILO on the web! 
+ All Rights Reserved. 
+ No part of this web site may be reproduced without proper notice from the webmaster .

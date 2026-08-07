@@ -1,0 +1,105 @@
+#!/usr/local/bin/perl5
+
+# Script to create a summary of what procmail recipes "hit" and their count.
+# by Gary Hawkins, 11, 2001 (ghawk@eskimo.com)
+# See http://www.eskimo.com/~ghawk/antispam/
+
+$whoami = `whoami`;             # so that anyone can use them, get login name
+chop $whoami;                   # all to find .procmailrc
+$whoamiletter = $whoami;
+$whoamiletter =~ s#^(.).*#$1#;
+
+@lines = `grep 'Match on' *.log | sort`;
+
+print "/u/$whoamiletter/$whoami/.procmailrc\n";
+
+open PROCMAILRC, "< /u/$whoamiletter/$whoami/.procmailrc" or die "Cannot open .procmailrc, $!";
+
+$/ = "===== Suspected_Spam: filters =====";	# grab sections of .procmailrc
+<PROCMAILRC>;
+
+$/ = ":0";
+chomp ($discard = <PROCMAILRC>);
+
+$/ = "\n";
+@procmailrc = <PROCMAILRC>;
+
+@procmailrc = grep(/\t*\* /, @procmailrc);
+for (@procmailrc) {
+	s#^\t*\* ##;
+}
+
+close PROCMAILRC;
+
+$file0 = '';
+$file = '';
+$hit0 = '';
+$hit = '';
+$count = 0;
+
+for (@lines) {
+	s#procmail: Match on "##;
+	s#"$##;
+	$file0 = $file;
+	$hit0 = $hit;
+	($file, $hit) = split/log:/;
+	if ($count == 0) {
+		$count++;
+		next;		
+	}
+	if ($hit0 ne $hit) {
+		push @records, "\t$count\t$hit0";
+		$count = 1;
+	} else {
+		$count++;
+	}
+}
+if ($hit) {				# add the last one
+	push @records, "\t$count\t$hit";
+}
+
+for (@records) {			# move digits to right for sorting
+	if (/^\t\d\t/) {
+		s#^\t(\d)#\t  $1#;
+	}
+	if (/^\t\d\d\t/) {
+		s#^\t(\d)#\t $1#;
+	}
+}
+
+@records = reverse sort @records;
+
+for (@records) {			# matched records
+	print;
+}
+
+# Fine so far, but we add non-matched
+
+$num = 0;
+chomp @lines;
+chomp @procmailrc;       
+for $item (@procmailrc) {               
+	next if $item =~ /^\s*#/;	# skip commented lines
+	if ($item =~ /(\$)$/) {		# trailing or escaped '$' is tough
+		chop $item;
+	}
+	#$item =~ s#\$#\\\$#g;
+	$item =~ s#(\\)$##g;
+	$item =~ s#\[#\\\[#g;
+	$item =~ s#\]#\\\]#g;
+	$item =~ s#\^#\\\^#g;
+	$item =~ s#\!#\\\!#g;
+	$num = scalar (grep (/$item/, @lines));
+	if (! $num) { $num = 0; }
+	if ($num == 0) {
+		push @final, "\t$num\t$item\n";
+	} 
+}
+
+for (@final) {
+	s#^\t(\d)#\t  $1#;
+	s#\\\^#^#;
+}
+@final = reverse sort @final;
+print @final;   
+

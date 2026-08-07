@@ -1,0 +1,171 @@
+<html>
+<!-- Copyright 2003-2004 Al Wong, Los Angeles, California, USA -->
+
+<head>
+<title>
+Windows XP
+</title>
+
+<link rel=stylesheet type="text/css"
+      href="../css.css" title="hoverstyle">
+
+<link rel="shortcut icon" href="../favicon.ico">
+
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#ff0000" vlink="#880000">
+
+<center>
+<table width=80%>
+<tr>
+<td>
+
+<center>
+<h2>
+Setting up the<br>
+Windows XP Server<br>
+on the Local Area Network
+</h2>
+</center>
+
+<a href="../writings/reply.html">
+Al Wong
+</a>
+<br>
+May 11, 2003
+<p>
+
+<font size=+0>
+
+My Windows XP Home (WinXP) computer has its own LAN card and phone jack built-in.
+To make the WinXP computer run as a network server with a shared dialup, 
+do the following:
+<p>
+
+<ol type=1>
+<li>Run the <i>Network Setup Wizard</i> from WinXP. Choose the <b>first</b> option:
+<p>
+
+<blockquote>
+<font size=-1>
+This computer connects directly to the Internet. The other computers
+on my network connect to the Internet through this computer.
+</font>
+</blockquote>
+<p>
+
+When the <i>Network Setup Wizard</i> prompts if you need to create a floppy disk
+to install the other computers on the network, say <b>Yes.</b> Create a floppy.
+You probably need to reboot now.
+<p>
+
+<li>Then do the following. See the WinXP help for detailed explanations on how-to:
+<p>
+
+<ol type=a>
+<li>You need to create a <b>unique name</b> for this computer on the LAN.
+Again, it doesn't matter what it is as long as it's <b>different</b> from
+every other computer on the LAN.
+<p>
+
+<li>You need to create a group name. Again, it doesn't matter what it is
+as long as it's the <b>same group name</b> on every computer on the LAN.
+<p>
+
+<li>You need to create another account with a username and password for the network.
+It doesn't matter what the username and password is as long as you
+<b>exactly match</b> this account information with the other computers that are
+going to be on the LAN.
+<p>
+
+I would suggest you create a separate user account just for the network on each machine. Make the network account on your WinXP server a <b>limited</b> 
+account and <b>not</b> an administrator account.
+<p>
+
+Please note the WinXP computer does not need to be logged into the
+network account at all but this account must exist for the benefit of the
+other computers on the LAN.
+All other computers must login to the network account to be recognized
+by the LAN.
+<p>
+
+<li>Then you may want to set some folders as <i>Shared</i> in the 
+<i>File Manager.</i> If you want <i>older</i> versions of Windows (like Windows 3.11)
+to be
+able to access your share folder, make the share folder name 8 characters
+or less.
+<p>
+
+<li>Please see the 
+<a href="ics.html">ICS main webpage</a> 
+regarding <i>firewall</i> information and updates.
+
+</ol>
+<p>
+
+You probably need to reboot again.
+<p>
+
+<li>Open a <i>Command Window</i> and type:
+<p>
+
+<blockquote>
+ <b>ipconfig</b>
+</blockquote>
+<p>
+
+The IP address should be <b>192.168.0.1</b> with a subnet mask of <b>255.255.255.0</b>
+<p>
+
+<li>The WinXP computer is now set up as a network server.
+Now set up the other computers that are going to be on the network
+with the floppy disk you created above.
+<p>
+
+<li>Once the other computers are set up,
+go to <i>My Network Places</i> and click <i>View workgroup computers.</i> 
+This should bring up the other computer names on the LAN.
+<p>
+
+</ol>
+
+</font>
+
+</td>
+</tr>
+</table>
+</center>
+<p>
+
+
+<center>
+
+<table border=7 cellpadding=5>
+<tr><td>
+<a href="ics.html">
+Internet Connection Sharing
+</a>
+</td>
+
+<td>
+<a href="../writings/writings.html">My Writings</a>
+</td></tr>
+</table>
+<p>
+
+<font size=2>
+Last updated : March 13, 2004
+<br>
+Copyright 2003-2004 Al Wong, Los Angeles, California, USA
+</font>
+
+</center> 
+
+</body>
+</html>
+
+
+
+
+
+

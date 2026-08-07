@@ -1,0 +1,19 @@
+Information on J-Mouse
+
+If you purchased or obtained a Zenith Z-Star or other laptop computer
+equipped with a J-Mouse, you need special drivers to use the mouse.  A
+J-Mouse is built into the "J" key on the laptop's keyboard, so that you
+enter mouse mode by holding it down, and you can then apply finger
+pressure on the "J" key in the direction you want the mouse to go.  It
+works under DOS as well as Windows.
+
+The drivers should be in the C:\DRIVERS directory (for DOS) and in
+C:\WINDOWS and C:\WINDOWS\SYSTEM for Windows.  If you do not have these
+files (check by issuing a DIR JM*.* command in these directories), then
+e-mail me at nickz@eskimo.com for instructions on how to get your J-Mouse to
+work properly.  If you have all the files on disk or floppy you can run
+the setup procedure, or you can do a manual install and setup using JMINIT
+for DOS and JMSETUP for Windows.
+
+J-Mouse is a trademark of Home Row, Inc.  I have no connection to them; I
+am just passing along information that might be useful.

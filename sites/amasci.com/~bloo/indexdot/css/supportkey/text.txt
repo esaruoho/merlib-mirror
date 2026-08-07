@@ -1,0 +1,451 @@
+CSS specification/browser support page: Text Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units |
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ Internet Explorer 
+ Netscape 
+ Opera 
+
+ word-spacing 
+ X 
+ X 
+ 6.0 
+ 6.0 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ normal 
+ X 
+ X 
+ 6.0 
+ 6.0 
+ 3.5 
+
+ [Length] 
+ X 
+ X 
+ 6.0 
+ 6.0 
+ 3.5 
+
+ letter-spacing 
+ X 
+ X 
+ 4.0B1 
+ 6.0 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ normal 
+ X 
+ X 
+ 4.0B1 
+ 6.0 
+ 3.5 
+
+ [Length] 
+ X 
+ X 
+ 4.0B1 
+ 6.0 
+ 3.5 
+
+ white-space 
+ X 
+ X 
+ 5.5 
+ 4.0B2 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ normal 
+ X 
+ X 
+ 5.5 
+ 4.0B2 
+ 4.0 
+
+ pre 
+ X 
+ X 
+ 6.0 
+ 4.0B2 
+ 4.0 
+
+ -pre-wrap 
+ -- -- 
+ -- 
+ -- 
+ 4.0 
+
+ -moz-pre-wrap 
+ -- -- 
+ -- 
+ 6.0 
+ -- 
+
+ nowrap 
+ X 
+ X 
+ 5.5 
+ 6.0 
+ 4.0 
+
+ word-wrap 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ normal 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ break-word 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ text-align 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ left 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ center 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ right 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ justify 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ [string] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ -moz-center 
+ -- -- 
+ -- 
+ 6.0 
+ -- 
+
+ -moz-right 
+ -- -- 
+ -- 
+ 6.0 
+ -- 
+
+ text-align-last 
+ -- 
+ -- 
+ 5.5 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ -- 
+ 5.5 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ -- 
+ 5.5 
+ -- 
+ -- 
+
+ left 
+ -- 
+ -- 
+ 5.5 
+ -- 
+ -- 
+
+ center 
+ -- 
+ -- 
+ 5.5 
+ -- 
+ -- 
+
+ right 
+ -- 
+ -- 
+ 5.5 
+ -- 
+ -- 
+
+ justify 
+ -- 
+ -- 
+ 5.5 
+ -- 
+ -- 
+
+ text-decoration 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ none 
+ X 
+ X 
+ 3.0B1 
+ 4.0B3 
+ 3.5 
+
+ underline 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ overline 
+ X 
+ X 
+ 4.0B1 
+ 6.0 
+ 3.5 
+
+ line-through 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ blink 
+ X 
+ X 
+ -- 
+ 4.0B2 
+ 4.0 
+
+ text-transform 
+ X 
+ X 
+ 4.0B1 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ none 
+ X 
+ X 
+ 4.0B1 
+ 4.0B2 
+ 3.5 
+
+ capitalize 
+ X 
+ X 
+ 4.0B1 
+ 4.0B2 
+ 3.5 
+
+ uppercase 
+ X 
+ X 
+ 4.0B1 
+ 4.0B2 
+ 3.5 
+
+ lowercase 
+ X 
+ X 
+ 4.0B1 
+ 4.0B2 
+ 3.5 
+
+ text-shadow 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ none 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Shadow effects] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ text-indent 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Length] 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ [Percentage] 
+ X 
+ X 
+ 3.0B1 
+ 4.0B2 
+ 3.5 
+
+ text-underline-position 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ -- 
+ 6.0 
+ -- 
+ -- 
+
+ auto-pos 
+ -- 
+ -- 
+ 6.0 
+ -- 
+ -- 
+
+ below 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ above 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ Boring Copyright Stuff...

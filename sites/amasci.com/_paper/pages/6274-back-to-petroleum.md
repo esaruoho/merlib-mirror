@@ -1,0 +1,110 @@
+---
+title: "Back to Petroleum"
+source_domain: amasci.com
+source_path: ~rarnold/back_to_petroleum.htm
+order: 6274
+reachable_from_entry: false
+images: 2
+internal_links: 8
+extracted: 2026-08-07T05:59:05Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Back to Petroleum
+
+*Source page: `~rarnold/back_to_petroleum.htm`*
+
+<table id="AutoNumber3" style="BORDER-COLLAPSE: collapse" data-bordercolor="#ffffff" height="50" data-cellspacing="1" data-bordercolordark="#ffffff" width="100%" data-bgcolor="#336699" data-bordercolorlight="#ffffff" data-border="1">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bordercolorlight="#336699" width="100%" data-bgcolor="#336699" data-bordercolordark="#336699"><p><img src="paul_driessen_portrait_05.jpg" data-border="0" data-align="left" width="70" height="100" /><strong>Center for the Defense of Free Enterprise</strong></p>
+<p> </p>
+<p><strong>Paul Driessen</strong></p></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><p><strong><a href="index.html" style="text-decoration: none">HOME</a>    <a href="issues.htm" style="text-decoration: none">ISSUES</a>    <a href="opposition.htm" style="text-decoration: none">OPPOSITION</a>    <a href="projects.htm" style="text-decoration: none">PROJECTS</a>    <a href="defenders.gif" style="text-decoration: none">DEFENDERS</a>    <a href="wiseuse.htm" style="text-decoration: none">WISE USE</a>    <a href="book_store.htm" style="text-decoration: none">BOOKSTORE</a>    <a href="archive.htm" style="text-decoration: none">ARCHIVE</a></strong></p></td>
+</tr>
+</tbody>
+</table>
+
+<table id="AutoNumber2" style="BORDER-COLLAPSE: collapse" data-bordercolor="#111111" data-cellspacing="1" width="100%" data-border="0">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%"><strong><img src="eco-imperialism-small.jpg" data-align="left" data-border="1" width="80" height="126" /></strong>
+<h3 id="pauls-new-book" style="TEXT-ALIGN: left" data-align="center"><strong><br />
+<br />
+<br />
+Paul's new book,</strong></h3>
+<h3 id="eco-imperialism-green-power-black-death" style="TEXT-ALIGN: left" data-align="center"><strong><em>Eco-Imperialism: Green Power Black Death</em></strong></h3>
+<h3 id="is-now-in-bookstores-we-present-a-series-of-his-essays-on-related-subjects-the-second-of-which-is" style="TEXT-ALIGN: left" data-align="center"><strong>is now in bookstores!<br />
+we present a series of his essays on related subjects,<br />
+the second of which is</strong></h3></td>
+</tr>
+</tbody>
+</table>
+
+###  
+
+#### Back to Petroleum
+
+**<span style="font-family: Arial">BP, a master of greenwashing its public image through advertising,</span>**
+
+**<span style="font-family: Arial">is rushing back to its petroleum base. In reality, it never left it.</span>**
+
+**<span style="font-size: 18.0pt">F</span>**<span style="font-size: 11.0pt">or two years, the world's second largest hydrocarbons producer spent many dollars on a clever public relations and advertising campaign to convince consumers that BP no longer stands for British Petroleum, but for Beyond Petroleum.</span>
+
+<span style="font-size: 11.0pt">One ad proclaimed, We're one of the largest producers of natural gas ... and are investing in the new energy sources of the future hydrogen and wind. It's a start. Another tried to get beyond the guffaw test with the line: We believe in alternative energy. Like solar cappuccino.</span>
+
+<span style="font-size: 11.0pt">Many people were surprised that a huge oil company was so committed to alternative energy technologies. They needn't have been. BPs total six-year investment in renewable technologies was US\$200-million the same amount it spent on its Beyond Petroleum ad campaign. Nearly US\$45-million of this went to buy Solarex Corporation meaning BPs renewable energy investment was 0.05% of the US\$91-billion it spent to buy oil giants Arco and Amoco back in the 1990s.</span>
+
+<span style="font-size: 11.0pt">That US\$200-million is a lot for an ad campaign. But its a drop in the barrel for futuristic technologies that were the centrepiece for the slick marketing effort. Moreover, just as the ad campaign was winding down, BP announced it was spending US\$6.75-billion for a 50% controlling interest in a rich Russian oil prospect and will be spending another US\$20-billion over the next five years exploring this and other newer fields in Angola, Azerbaijan, the Gulf of Mexico and the Asia-Pacific.</span>
+
+<span style="font-size: 11.0pt">In other words, the ad campaign was little more than greenwashing disinformation intended to present an environmentally responsible public image. BP wanted journalists, politicians, investors and environmentalists to perceive it as a socially responsible leader and reward it accordingly.</span>
+
+<span style="font-size: 11.0pt">Few did. Green activists denounced BP for hypocrisy and blasted the company for continuing to exploit some of the world's most sensitive ecological areas. A major business magazine said simply, Well, please: If the world's second largest oil company is beyond petroleum, Fortune is beyond words.</span>
+
+<span style="font-size: 11.0pt">Meanwhile, BPs total wind and solar electrical output last year was barely enough to keep the lights burning in Regina, Saskatchewan. and thoughtful observers began to realize that wind and solar arent quite as eco-friendly as activists claim.</span>
+
+<span style="font-size: 11.0pt">A single new 555-MW gas-fired generating plant in California produces more electricity in a year than do all the states 13,000 wind turbines. The gas-fired plant occupies about 10 acres; the giant 200-foot-tall windmills dominate thousands of acres, and kill thousands of raptors and other birds every year. Current photovoltaic technology is just as habitat hungry.</span>
+
+<span style="font-size: 11.0pt">Worse, chief executive Lord John Browne was forced to lower BPs production estimates three times last year, and the companys 11% return on average capital was well below that of arch-rivals ExxonMobil (13.7%) and Royal Dutch/Shell (14.8%). BP share prices reflected investors displeasure with its poor performance and the fact that the company's profit margins would not improve for a decade or more if the company remained focused on renewable energy and old oil fields.</span>
+
+<span style="font-size: 11.0pt">Thus, if BP ever really was Beyond Petroleum, going Back to Petroleum (and Bigger Profits) was a sound business decision. However, the Great Beyondo ad campaign involves more than mere greenwashing and disingenuous but theoretically harmless puffery. It also reflects the desire of many multinational companies to appease critics and gain a public relations advantage over competitors, by adopting the language of ideological environmentalism.</span>
+
+<span style="font-size: 11.0pt">This radical school of thought increasingly uses ethical buzz-words and dogmas to justify its demands. Chief among them are sustainable development and the precautionary principle, the foundations of so-called corporate social responsibility (CSR) and socially responsible investing doctrines.</span>
+
+<span style="font-size: 11.0pt">Activists from affluent Western countries developed the doctrines to promote their agendas and oppose energy and economic development. They define what is responsible, focusing debate on conjectural problems and theoretical needs of future generations of wealthy elites -- and ignoring real, immediate, life-and-death needs of people who struggle daily just to survive. The stakes are huge.</span>
+
+<span style="font-size: 11.0pt">More than 1.5 billion people in developing countries do not have access to electricity. Half a billion women and children spend their days collecting firewood, or squatting in mud laced with animal feces and urine to collect and dry manure for fuel. Millions die every year from lung diseases caused by indoor air pollution from cooking fires, and dysentery due to contaminated drinking water.</span>
+
+<span style="font-size: 11.0pt">Hydroelectric or fossil fuel projects could provide electricity for families, water purification plants and economic development. But radical activists oppose these projects and say the worlds rural poor should be content with solar panels on huts.</span>
+
+<span style="font-size: 11.0pt">Today, 14 million Africans face imminent starvation. Desperate people are destroying woodlands and wetlands in search of barely edible plants, and hunting anything that flies, swims or crawls. Biotechnology could save lives, reduce suffering, and preserve wildlife and habitats by enabling farmers to grow more food on less land. But radical activists prevent its use and threaten sanctions on any nation that ignores their edicts again in the name of sustainable development and social responsibility.</span>
+
+<span style="font-size: 11.0pt">Investors are also at risk, particularly retirees whose futures depend on pension and mutual funds that own nearly US\$8-trillion in market share 50% of the total stock market. Many of these funds are managed less to safeguard or increase principal than to promote radical principles.</span>
+
+<span style="font-size: 11.0pt">The California Public Employees Retirement System is among the largest and most influential of these institutional investors. But as the Wall Street Journal noted recently, the fund has begun to tailor more of its investment calls to an ideological agenda. Calpers fiduciary duty is to its 1.3 million public employees and their families, who expect a solid return on their money. The fund claims to keep a watch over business, but someone is going to have to keep a more careful eye on Calpers.</span>
+
+<span style="font-size: 11.0pt">Due in no small part to significant investments in companies like Enron, WorldCom and BP, which somehow met Calpers slippery criteria for socially responsible investing, the pension funds retirees lost billions of dollars over the past couple years. Somewhere along the line, Calpers fiduciary duty to its investors apparently gave way to an assumed duty to activist groups.</span>
+
+<span style="font-size: 11.0pt">Others to watch closely are Robert Monks' Institutional Shareholder Services, CERES (the business and activist Coalition for Environmentally Responsible Economies), London-based Claros Consulting -- and Innovest Strategic Value Investors, which now provides company and industry sustainability research for BP Investments, the investment arm of the British Petroleum pension fund. Even the Dow Jones Sustainability Index merits investigation.</span>
+
+<span style="font-size: 11.0pt">All provide supposedly professional, unbiased analytical and advisory services. But they support political agendas based on CSR doctrines, underwrite often questionable analyses, and rely heavily on stakeholder (activist) input to justify how they grade companies in client portfolios.</span>
+
+<span style="font-size: 11.0pt">Some of these advisors also work with liberal foundations to recruit, advise and fund labour unions, church groups like the Interfaith Center on Corporate Responsibility, and even attack groups like Greenpeace and Campaign ExxonMobil, whose fusillades against ExxonMobil indirectly benefit BP. All to advance ethics, morality and social responsibility, of course.</span>
+
+<span style="font-size: 11.0pt">For investors, it can be a double whammy. Their retirement nest eggs face financial risk, and they are forced to support causes the retirees may vigorously oppose causes that lock billions of people into lives of hunger, poverty, disease and despair.</span>
+
+<span style="font-size: 11.0pt">What to do? Urge regulators and journalists to investigate these companies and investor firms for breech of fiduciary duty. Demand that the companies, firms and activist groups open their books and provide full disclosure of their meetings, contacts, and monetary and other relationships. Then insist that legislators change the law, to make these groups subject to the same false advertising laws and the same standards of transparency and accountability that activists insist should govern for-profit corporations. Unbelievably, right now, these ideologues are mostly exempt.</span>
+
+<span style="font-size: 11.0pt">The world will be a better, safer, more ethical place especially for retirees and the world's poor. </span>
+
+**<a href="the_center_view.htm" style="text-decoration: none">RETURN TO THE CENTER VIEW</a>**
+
+**<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**

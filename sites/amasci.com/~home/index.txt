@@ -1,0 +1,22 @@
+home@eskimo.com 
+
+ UNIX SunOS Release 4.1.4 #2: Tue Apr 18 04:07:39 PDT 1995 ...
+ > ls -R1 
+
+/email: 
+ home@eskimo.com Scott_Eickhoff 
+ sutton@eskimo.com Dave_Sutton 
+
+/mp3: 
+ The Animal In You (Kent) 
+
+/web: 
+ Online_Comic_Book_Database 
+ Noize_Next_Door 
+ Noize_Next_Door_Administration 
+ Sherlock_Holmes_Database 
+ Star_Wars_Customizable_Card_Game 
+ Trombone_Troubadours 
+ Userspace_remaining 
+
+>

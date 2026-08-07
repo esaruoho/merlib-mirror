@@ -1,0 +1,84 @@
+Benchmarking 
+
+ Benchmarking 
+
+Benchmarking is a proactive strategy that can provide a high level of
+understanding regarding process improvement and customer expectations. It is the
+search for the best practices and an understanding of how those are achieved. The
+four kinds of Benchmarks are: internal, competitive, functional and generic.
+
+ Internal benchmarking compares similar operations within the organization,
+ competitive benchmarking involves the analysis of competitor processes, functional benchmarking
+ involves the analysis of a particular function (say billing) which may be common within
+an industry, generic benchmarking involves analysis across industries.
+
+ Internal Benchmarking 
+ [ Top ] 
+[ Next ] 
+[ Prev ] 
+[ Bot ]
+
+ Internal Benchmarking compares similar operations within the organization. For example,
+shipping and receiving at one plant can be compared with shipping and receiving at another. A
+second example involves demonstration projects where two or more processes are implemented
+on a temporary basis to determine the best practice.
+
+ Competitive Benchmarking 
+ [ Top ] 
+[ Next ] 
+[ Prev ] 
+[ Bot ]
+
+ Competitive Benchmarking involves the analysis of competitor processes. Typically this is done
+by reviewing trade publications and competitor literature, and by hiring individuals who are
+familiar with competitor processes (IE former employees, investors, customers, and suppliers). A
+temporary alliance among competitors may foster Benchmarking.
+
+ Functional Benchmarking 
+ [ Top ] 
+[ Next ] 
+[ Prev ] 
+[ Bot ]
+
+ Functional Benchmarking involves the analysis of a particular function (say billing) which may be
+common within an industry. This is typical for automated processes that utilize commercially
+available software. A team of potential software users will visit a business that has agreed to serve
+as a show case for the software. Functional Benchmarking has become a red flag of sorts to
+financial officers because of its use in justifying company paid holidays.
+
+ Generic Benchmarking 
+ [ Top ] 
+[ Next ] 
+[ Prev ] 
+[ Bot ]
+
+ Generic Benchmarking involves analysis across industries. For example, an insurance company
+may Benchmark a bank loan application process against its insurance claims process. While the
+processes may appear dissimilar, they both require timely and consistent adjudication.
+
+ [ Top ] 
+[ Next ] 
+[ Prev ] 
+[ Bot ]
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+[ Home ]
+[ Decision Tree ] 
+[ Deep Knowledge ]
+[ Acknowledgements ]
+[ Map ] 
+
+ http://www.eskimo.com/~mighetto/lsbench.htm - last update March 23,
+2001. 
+
+ This topic is included in Decision Maker's smart database. Select the icon to
+display an imagemap.

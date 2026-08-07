@@ -1,0 +1,58 @@
+---
+title: "Index of /~mtnboy"
+source_domain: amasci.com
+source_path: ~mtnboy/index.html
+order: 5183
+reachable_from_entry: false
+images: 37
+internal_links: 13
+extracted: 2026-08-07T05:58:11Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Index of /~mtnboy
+
+*Source page: `~mtnboy/index.html`*
+
+# Index of /~mtnboy
+
+     Name                    Last modified       Size  Description
+
+     Parent Directory        24-Jul-2002 22:39      -  
+     Clock.htm               27-Feb-2002 12:42     7k  
+     Ghirardelli.JPG         25-Nov-2000 10:09   204k  
+     Haley1.jpg              01-Apr-2002 09:32   106k  
+     Haley3.jpg              01-Apr-2002 09:33    97k  
+     JimMansen_02.pdf        10-Feb-2002 10:53    96k  
+     Weeeeeethe_Clown4Hyr..> 22-Apr-2002 10:33   3.6M  
+     bike.html               18-Apr-2002 11:27     6k  
+     ca.html                 13-Nov-2001 18:14     1k  
+     cams.html               08-Apr-2002 10:38     5k  
+     camsold.html            20-Mar-2002 13:37     5k  
+     carson-smith.jpg        30-May-2002 09:57   637k  
+     chmod644.txt            18-Sep-2001 08:31     1k  
+     ciro.html               02-Jun-2002 21:10     2k  
+     ciro_map.png            02-Jun-2002 20:15    78k  
+     crm612.pdf              22-Mar-2002 11:04   204k  
+     darksde.jpg             29-Oct-2001 08:55   104k  
+     dial.txt                02-May-2002 10:34     1k  
+     doppler.html            30-Jan-2002 00:25     2k  
+     idiot.swf               03-Jan-2002 13:27    11k  
+     images/                 31-Mar-2002 10:32      -  
+     laidoff2.swf            02-Nov-2001 07:46   2.3M  
+     liquidlunch1.jpg        14-Mar-2002 10:07    24k  
+     map.doc                 18-Mar-2002 23:02   195k  
+     resume-JimMansen.doc    06-Nov-2001 10:45    44k  
+     resume02-JimMansen.doc  10-Feb-2002 10:47    48k  
+     status.mht              18-May-2002 20:05    65k  
+     timesheet_jim.xls       12-Mar-2002 12:29    40k  
+     wanted.html             18-Mar-2002 11:14     1k  
+     weather.htm             31-Mar-2002 09:25     3k  
+     weather.html            31-Oct-2001 09:01     4k  
+     weatherold.html         23-Aug-2001 14:23     3k  
+     weeee.swf               22-Apr-2002 09:58   759k  
+     where.html              20-Oct-2001 08:44     2k  
+     window.html             11-Apr-2002 17:18     3k  
+     windowold.html          02-Apr-2002 11:44     3k  
+
+------------------------------------------------------------------------

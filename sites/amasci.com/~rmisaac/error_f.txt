@@ -1,0 +1,204 @@
+file: error_f.txt
+date: Tue, 9 May 2000 23:09:43
+root: /u/u16/r/rmisaac/verify
+
+#------------------------------------------------------------
+# ERROR   28 files had broken links/anchors
+#------------------------------------------------------------
+FILE:/u/u16/r/rmisaac/public_html/cyber.html
+    had 4 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/cyber.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/startrek.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/eurjew.html
+    had 3 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/graphics/armband2.JPG
+
+FILE:/u/u16/r/rmisaac/public_html/eurtrip.html
+    had 2 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+
+FILE:/u/u16/r/rmisaac/public_html/fun.html
+    had 6 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/cyber.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/fun.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/jewish.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/www.123greetings.com
+
+FILE:/u/u16/r/rmisaac/public_html/gayjews.html
+    had 6 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/gayjews.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/jewish.htmlFILE
+    http://eon.law.harvard.edu/cgi-bin/annotate/main.cgi?view=http://www.aldga
+    te.freeserve.co.uk/halacha/mekor.htm
+
+FILE:/u/u16/r/rmisaac/public_html/index.html
+    had 1 broken link/anchor
+    /cgi-bin/Count.cgi
+
+FILE:/u/u16/r/rmisaac/public_html/israel.html
+    had 8 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/israel.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/jewish.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/lang.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/www.jewishsf.com/bk980710/etaatel.htm
+    FILE:/u/u16/r/rmisaac/public_html/www.sfjff.org/sfjff18/filmmakers/d0719d-a.html
+    FILE:/u/u16/r/rmisaac/public_html/www.sfjff.org/sfjff18/programs/p0719d.html
+
+FILE:/u/u16/r/rmisaac/public_html/isrmusic.html
+    had 2 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+
+FILE:/u/u16/r/rmisaac/public_html/jewish.html
+    had 7 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/israel.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/jewish.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/lang.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/travel.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/www.miriamscup.com
+
+FILE:/u/u16/r/rmisaac/public_html/lang.html
+    had 3 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/lang.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/linklint.html
+    had 12 broken links/anchors
+    FILE:/u/u16/r/rmisaac/public_html/anchor.txt
+    FILE:/u/u16/r/rmisaac/public_html/anchor_x.txt
+    FILE:/u/u16/r/rmisaac/public_html/dir.txt
+    FILE:/u/u16/r/rmisaac/public_html/file.txt
+    FILE:/u/u16/r/rmisaac/public_html/file_f.txt
+    FILE:/u/u16/r/rmisaac/public_html/file_x.txt
+    FILE:/u/u16/r/rmisaac/public_html/orphan.txt
+    FILE:/u/u16/r/rmisaac/public_html/remote.txt
+    FILE:/u/u16/r/rmisaac/public_html/remote_x.txt
+    FILE:/u/u16/r/rmisaac/public_html/warn.txt
+    FILE:/u/u16/r/rmisaac/public_html/warn_f.txt
+    FILE:/u/u16/r/rmisaac/public_html/warn_x.txt
+
+FILE:/u/u16/r/rmisaac/public_html/lovesex.html
+    had 3 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/lovesex.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/news.html
+    had 5 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/jewish.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/news.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/queer2.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/nwlghmp.html
+    had 1 broken link/anchor
+    FILE:/u/u16/r/rmisaac/public_html/nwlghmp.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/oldindex.html
+    had 1 broken link/anchor
+    /cgi-bin/Count.cgi
+
+FILE:/u/u16/r/rmisaac/public_html/oralhist.html
+    had 1 broken link/anchor
+    FILE:/u/u16/r/rmisaac/public_html/graphics/pinkbg.gif
+
+FILE:/u/u16/r/rmisaac/public_html/pennpin.html
+    had 3 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/fun.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/politics.html
+    had 4 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/politics.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/queer.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/queer.html
+    had 6 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/politics.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/queer.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/queer2.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/seattle.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/queer2.html
+    had 5 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/gayjews.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/queer.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/queer2.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/reference.html
+    had 3 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/reference.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/rmisaac.html
+    had 8 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/fun.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/graphics/R.jpg
+    FILE:/u/u16/r/rmisaac/public_html/jewish.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/politics.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/rmisaac.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/travel.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/seagay.html
+    had 2 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+
+FILE:/u/u16/r/rmisaac/public_html/seagen.html
+    had 2 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+
+FILE:/u/u16/r/rmisaac/public_html/seaout.html
+    had 3 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/seaout.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/seattle.html
+    had 5 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/news.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/politics.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/seattle.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/startrek.html
+    had 3 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/startrek.htmlFILE
+
+FILE:/u/u16/r/rmisaac/public_html/travel.html
+    had 4 broken links/anchors
+    /cgi-bin/AnyURL
+    /cgi-bin/Count.cgi
+    FILE:/u/u16/r/rmisaac/public_html/jewish.htmlFILE
+    FILE:/u/u16/r/rmisaac/public_html/queer.htmlFILE
+

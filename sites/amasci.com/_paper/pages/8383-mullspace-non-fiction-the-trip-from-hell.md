@@ -1,0 +1,75 @@
+---
+title: "Mullspace | Non-Fiction | The Trip from Hell"
+source_domain: amasci.com
+source_path: ~strange/nfiction/trip99.html
+order: 8383
+reachable_from_entry: false
+images: 1
+internal_links: 7
+extracted: 2026-08-07T06:00:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mullspace | Non-Fiction | The Trip from Hell
+
+*Source page: `~strange/nfiction/trip99.html`*
+
+\
+<span id="top"></span>
+
+<div align="center">
+
+<img src="../images/MullChalk03a.jpg" data-border="0" alt="Welcome to Mullspace" />\
+<a href="../katbox.html" class="nav">Portal</a> \| <a href="../litter/litter.html" class="nav">Kat Litter</a> \| <a href="../fiction/fiction.html" class="nav">Tales</a> \| <a href="nfiction.html" class="nav">Lectures</a> \| <a href="../gallery.html" class="nav">Eye Candy</a> \| <a href="../list.html" class="nav">Accretions</a> \| <a href="../resume.html" class="nav">Kat Who?</a> \| <a href="mailto:mull.space@lycos.com" class="nav">Poke</a>
+
+</div>
+
+\
+\
+
+created: July, 1999
+
+\
+
+## The Trip from Hell
+
+\
+
+Northern Idaho is really creepy at night.
+
+The Northern part is that skinny little panhandle that sticks up into the mountains and it's nothing but tiny, crumbling old silver and copper mining towns. Most of them are practically ghost towns and there's nothing in between them but empty highway, twisting through the mountains with only enough light to keep you on the road. Creepy.
+
+That was my feeling for the whole 3 hours we drove through it. I just kept thinking: Thank God John and Misty just got the truck tuned and serviced. It is not a place you want to break down after dark.
+
+On the return trip, we drove through while it was still light and the area is quite pretty, but strangely depressing.
+
+Little abandoned shacks and mine heads tucked in by the side of the road. We saw a log cabin that was literally falling down only a few feet from the highway. It looked about 100 years old, but it probably wasn't.
+
+I'd never been East of the Rockies before that trip July of '99, except for one trip to Manhattan (which I don't like). But South Dakota is like a different planet.
+
+If you drive in from the northwest, you pass the Black Hills, first. That's where Mt. Rushmore and the mountains are. And the hills do look black from a distance, covered in a variety of pine tree so dark-needled that it looks like the folds of land are sheathed in a dark blanket. Then you go past Rapid City and into a pass and when you come out, it's a desolate plateau all around. But that's not all.
+
+You drive across this sort of strange, empty plateau until you come to Wall. It's just a wide place in the road, with a giant drug store that's become a tourist site. Then the road plunges down another narrow cut and you come out into this strange, scrubby grassland called Buffalo Gap. And the rocky, patchwork desert spreads around you. You look back over your shoulder and then you see The Wall....
+
+If you drive from the East you will cross the weird, alkalai, patchwork desert first, it looks endless and awful and then there's this strange, dark line on the Western horizon, miles after you've left the last gas station. It grows and grows into this massive Wall that stretches across the entire horizon. It looks like a curtain of red stone. Impenetrable, implacable.
+
+You can see nothing ahead but that and the buffalo grazing on the scrub. Just the Wall and the buffalo. If you were on a horse and did not see the tiny cut at Buffalo Gap, you would probably fall down and sob, sure you would die there in the desert.
+
+It really left an impression on me. I didn't have any idea there were place like that in real life, just in movies.
+
+Some of that trip was surreal. Like the truck accident in Iowa. Something really strange about watching the rising plume of burning oil from the middle of the endless cornfields.... It really did seem like a movie or a dream.
+
+Considering the amount of sleep I was operating on, it might have been a dream....
+
+I was really amazed at how strange the country is. I never thought I'd say this, but I think driving across the country is a trip most people should take sometime.
+
+Western PA looked just like all those tourist board pictures of "Amish country", with the red barns in the rolling fields just at the foot of the mountains. Actually, the Mennonite country we drove through in Ohio was flat and brown and completely the same for mile upon mile. Obviously their Amish cousins got all the really good bits. ;)
+
+\
+\
+
+Back to [top](#top) of this page, please.
+
+[Back to Index](nfiction.html)\
+
+© 1999-2002 M. Kathleen Huffine/Kat Richardson. All rights reserved.

@@ -1,0 +1,87 @@
+---
+title: "Linux"
+source_domain: amasci.com
+source_path: ~roger/linux/index.html
+order: 7205
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:59:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Linux
+
+*Source page: `~roger/linux/index.html`*
+
+#### My Linux Related News:
+
+2003.06.04    -  I've been spending most of my time now archiving old VHS tapes using my Canopus ADVC-100 with Kino and compressing with divx4linux codec.  I've also been archiving my digital images using Linpha (a photo database tool using Apache/PHP/MySQL) to my server here.  If you're interested in veiwing the collection of images on my local server, just email me for info on how to view the archive.  My next step in archiving may include a purchase of Minolta's Scan Dual III (using Vuescan?) to archive 35mm film that is older then 1999.  And, out of curiusity, found that the Webcam Go now works under linux (I've made notes leading to the urls further back in this log on the date of 20010301).
+
+2003.05.10    -  I've finally gotten [Gento Linux](http://www.gentoo.org/) installed.  While trying to get a stable install, one thing that sererly stalled me was the mention of using Metalog as the system logger.  Avoid using Metalog.  I've found the metalog to have several bugs and seriously breaks the system as well as my PCMCIA/Cardbus (unknown if \>\>=0.7 version resolve these see [Gentoo Bugs](http://bugs.gentoo.org/).  Use a more stable logger such as sysklogd or it's successor syslog-ng.  Another nice package to have installed is qpkg.  One more tip is to use only the recommended Gentoo CFLAGS.  Configuration was simplified by copying the contents of my Mandrake configuration files over to Gentoo installs.  Some pros to using Gentoo: 1) If one has \>=P3's, can compile the entire system to actually use P3 optimizations instead of using (ie) Mandrake's default i586 binaries.  2) You only install the packages you need (I'm saving roughing 6-7GB from installing packages that I never use -- Minimized the o/s size by 50% compared to an install of Mandrake(?).  3) Gentoo contains many packages in it's main tree required for playing dvds and performing other operations (not completely GNU Licensed) such as libdvdcss.  4) Almost everything compiles without any breaks in the process.  5) The system can be kept more updated with every individual stable package release.  If you're interested in what details a gentoo install, then have a look over this small [Gentoo Install Howto](http://vergil.chemistry.gatech.edu/~park/dell.html).  It's simpler then I thought (especially if you already have installed something like Redhat or Mandrake and have preserved your /etc folder).
+
+2003.04.04    -  I'm in the process of switching from Mandrake to the Gentoo Linux Distrobution.  It's sure nice to be able to compile a whole distrobution without compiler errors.  The only downside, Gentoo is not rpm based.  However, there's a rumor that the portage tree might be moving to a rpm based one. (Note: This data was published on 04/01)  From what I have seen though, it wouldn't be too hard to migrate the ebuild file to a rpm spec file. 
+
+2002.01.15    -  Bah.  I returned the linksys hardware and got the orinco pcmcia card.  It fully works and the modules/drivers are within the vanilla kernel.  For me, the orinoco just works better.  I found the WPC11 wlan-ng drivers to be buggy for the WPC (ver. 3) PCMCIA Card.
+
+2002.11.29    -  Am getting excellent tx/rx rates at T-Mobile Hotspots (ie Starbucks).  It was pretty easy.  First, I got a Linksys WPC11 PCMCIA wireless card and installed the linux-wlan-ng-0.1.16pre7-1 drivers. (you may need to set one of the conf files to use dhcp.)  Also ensure you have "dhcp-client" and "pump" installed.  If you are able to issue "pump -i wlan0" and the wlan interface becomes activated (in gkrellm), then you should only have to issue that particular "pump" command via console when you're around a hotspot enabled Starbucks.  Once done, you then need to startup a browser that will automagically forward you to you're T-Mobile sign-in page.  The only downside is that the service is only apparently one during Starbucks store hours.
+
+2002.11.29    -  Well, I finally completed installing Mandrake 9.0 and have compiled two srpm's for the dell i8k laptops. I just want to package the gkrellm plugin for the i8k laptops fan control...mmm..might add that into the i8kutils package.
+
+2002.08.07    -  Started putting my "Photographs" section and am now mirroring the entire personnal website to eskimo.com.  Please update your bookmarks to show [http://www.eskimo.com/~roger/](http://www.eskimo.com/%7Eroger/)
+
+2002.07.14    -  I've posted some screen shots of my desktop1, desktop2, desktop3, desktop\
+
+- [Desktop 1](../images/desktop1.png) has the chat client i use, as well as the system monitor and other misc apps. (Notice the implementation of tabbed-browsing within multi-gnome-terminal!)
+
+<!-- -->
+
+- [Desktop 2](../images/desktop2.png) has Mozilla!  It's the successor to the ol' Netscape and it's great! (Notice how effecient tabbed-browsing is!)
+
+<!-- -->
+
+- [Desktop 3](../images/desktop3.png) has [OpenOffice.org](http://www.openoffice.org/).  It's very similar to MS Office, but better. (see [Star Office](http://wwws.sun.com/software/product_family/staroffice.html) for the commerical version that contain support for those that do not want to participate within the developement of worry about recompiling a program.)
+
+<!-- -->
+
+- [Desktop 4](../images/desktop4.png) is Evolution which is similar to MS Outlook.  As you can see, i'm on several email mailing lists and evolution contains the other contacts, appointments, & tasks modules as well.
+
+20010118    -  If you're using SGI's XFS filesystem, I would highly recommend upgrading from Mandrake's stock kernel 2.4.8!  Mandrake's Cooker kernel is now @ 2.4.17 and proves much more stable.  I'm also just got finished upgrading to XFree86-4.1.99.6-2mdk.  It added font aliasing to my Enlightenment enviroment!  Very Nice Indeed!! :-)\
+
+20011214    -  Now using Mandrake 8.1 with Cooker kernel-smp-2.4.16.9mdk-1-1mdk. Also using SGI's nice XFS for a journalized filesystem.
+
+20010516    -  Well, finally bought a new scanner.  The old one needed a new transformer. 
+
+20010418    - Mandrake 8.0 is released.  I have good iso's and have confirmed a successful install!
+
+20010331    - Also working on Umax 610p Scanner driver.  You can find more info [here](http://umax1220p.sourceforge.net/).
+
+20010319    -  Looks like s good Linux User Group has a show going.  Check out the info (old url was here).\
+And the LUG groups [home page](http://www.talug.org/).
+
+20010301    -  Currently (trying) to work on Webcam Go drivers for linux.  You can find more info [here](http://sourceforge.net/projects/winbond-webcam/).  You will need to sign up on the mailing list for more current info.  Recent activity since ~March 15, 2001; so post an email to the mailing list to find out the latest.  Please note, this is for developers only with C, C++ knowledge as this just starting.  20030604 - a small update here incase you're browsing this article, Creative Labs Webcam Go linux driver developement can now be found here <http://go.lamarinapunto.com/modules/news/> and you need the updated ov511 module version 2.25 code (which is not included in 2.4 kernels yet) here <http://alpha.dyndns.org/ov511/download.html#2.xx>.  I'm in the process of testing this now.  From reading the author's webpage, there's a very good chance that this will be in kernel-2.6, if not already in 2.5!  \
+ 
+
+#### Some Back Ground On What I Use:
+
+I currently use [Gentoo](http://www.gentoo.org/).   Many of the advanced users of Mandrake migrated to Gentoo, and so have I lately.   I finally had time to test the stability and Gentoo has proven it's stability to include XFS Filesystem support.
+
+As of 2003.05:  The current version is 1.4rc\
+
+\
+**Support:**\
+
+Popular Mandrake user site for support documents (i'll leave this url up since it is a good site for simple howto docs):  <http://www.mandrakeuser.org/>
+
+Linux From Scratch hints and documentation:   <http://www.linuxfromscratch.org/>
+
+IRC Chat:  irc.freenode.net  port# 6667\
+/join \#gentoo\
+There are many more irc channels for gentoo, just grep for them on irc.freenode.net!
+
+\
+
+If you have any question, feel free to contact me via ICQ or email.
+
+\
+\

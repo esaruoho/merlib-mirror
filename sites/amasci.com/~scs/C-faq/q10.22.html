@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 10.22</title>
+<link href="q10.20.html" rev=precedes>
+<link href="q10.23.html" rel=precedes>
+<link href="s10.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 10.22</H3>
+<p>Why is the macro
+<pre>	#define TRACE(n) printf("TRACE: %d\n", n)
+</pre>giving me the warning ``macro replacement within a string literal''?
+It seems to be expanding
+<pre>	TRACE(count);
+</pre>as
+<pre>	printf("TRACE: %d\count", count);
+</pre></p><hr>
+<p>See question <a href=q11.18.html>11.18</a>.
+</p><hr>
+<p>
+Read sequentially:
+<a href="q10.20.html" rev=precedes>prev</a>
+<a href="q10.23.html" rel=precedes>next</a>
+<a href="s10.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

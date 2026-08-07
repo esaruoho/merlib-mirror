@@ -1,0 +1,5 @@
+Darren's Webcam 
+
+ Floyd's Webcam 
+
+ Image reloads every 30 seconds.

@@ -1,0 +1,30 @@
+C Programming Notes 
+
+ C Programming Notes 
+ A Brief Refresher on Some Math Often Used in Computing
+
+Steve Summit
+
+ There are a few
+mathematical concepts
+which
+figure prominently in programming.
+None of these involve higher math
+(or even algebra,
+and as we'll see,
+knowing algebra too well
+can make one particular programming idiom rather confusing).
+You don't have to understand these with deep mathematical 
+sophistication,
+but keeping them in mind will help some things make more sense.
+
+ Integers vs. real numbers 
+ Exponential Notation 
+ Binary Numbers 
+ Boolean Algebra 
+
+ Read Sequentially 
+
+This page by Steve Summit 
+// Copyright 1995, 1996
+// mail feedback

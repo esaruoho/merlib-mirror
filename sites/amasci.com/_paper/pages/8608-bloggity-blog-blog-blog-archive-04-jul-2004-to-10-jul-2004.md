@@ -1,0 +1,466 @@
+---
+title: "Bloggity-Blog-Blog-Blog Archive 04 Jul 2004 to 10 Jul 2004"
+source_domain: amasci.com
+source_path: ~tegan/blog/20040704-20040710.html
+order: 8608
+reachable_from_entry: false
+images: 30
+internal_links: 10
+extracted: 2026-08-07T06:01:05Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bloggity-Blog-Blog-Blog Archive 04 Jul 2004 to 10 Jul 2004
+
+*Source page: `~tegan/blog/20040704-20040710.html`*
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="13" /></td>
+</tr>
+<tr>
+<td class="title" width="100%" data-bgcolor="#9e98cc" data-valign="top">Bloggity-Blog-Blog-Blog Archive XC<br />
+Laura "Tegan" Gjovaag</td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td class="body" data-valign="top" width="74%"><p>Saturday, July 10, 2004 <span id="108952366712754116"></span></p>
+<strong>Sketchbook - Phil Foglio</strong>
+<span class="rss:item">I'd never heard of <a href="http://www.studiofoglio.com/girlgenius.html">Girl Genius</a> when I got this sketch (it was still a couple of years away from publication), but I knew who Phil Foglio was. To me, Phil was the guy who did the covers for the Myth books, and a few illustrations for Magic cards. I never really thought of him as a comic book artist, though. I was absolutely delighted with the sketch, which is typical Phil while fun Aquaman at the same time.<br />
+<br />
+</span>
+<a href="http://www.studiofoglio.com/"><img src="http://www.eskimo.com/~tegan/blog/sketch/sketch_FoglioP.jpg" data-border="0" width="303" height="400" /></a><br />
+<strong>AQUAMAN</strong><br />
+<strong>by Phil Foglio</strong><br />
+14 Nov 1999<br />
+(permission to post given 29 Feb 2004 in person)<br />
+<a href="http://www.studiofoglio.com/">Studio Foglio</a>
+<br />
+<br />
+As a reminder: Almost every sketch in my sketchbook was non-commissioned and done on the floor of a con. These are not the best works of the artists. These are only representative of what the artist can do under pressure in a loud, crowded, and often stressed-out environment. Most of them were done as quickly as possible, to prevent huge lines from forming. Don't judge any of these artists negatively by the artwork you see, instead be as impressed as I am by what they accomplished in far-from-ideal conditions.<br />
+<br />
+To see all the sketches I have permission to post so far, check out my <a href="http://www.eskimo.com/~tegan/blog/sketch">Sketchbook Page</a>. If you have any contact information for any of the <a href="http://www.eskimo.com/~tegan/blog/sketch/index.html#wanted">other artists I'm trying to contact</a>, please <a href="mailto:tegan@eskimo.com?subject=Bloggity-Blog-Blog-Blog">e-mail me</a>. Click for a <a href="http://www.eskimo.com/~tegan/blog/sketch/random.html">random Aquaman sketch</a>.<br />
+<br />
+The Saturday Sketch ™ is brought to you by the letters "G", "G" and the number "57", and also courtesy the fine artists who pour their lives into producing wonderful comic books, then come to conventions only to get asked by geeky fangirls for a sketch of Aquaman. Support an artist, buy a comic book.<br />
+&#10;by Tegan at <a href="#108952366712754116">10:26 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/sketchbook-phil-foglio.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108952366712754116&#39;);"></a>
+<hr />
+<span id="108949600777383146"></span>
+<strong>Random Thoughts</strong>
+<span class="rss:item">It should be no secret to anyone that I pre-write some of my blog entries. I use the most basic of text editors for most of my writing, and edit everything at the last minute to try to keep up-to-date. This sometimes leads me to be "behind" on the news. But, as I've reminded myself repeatedly, I'm not a journalist and I'm not trying to scoop people. I don't care if I'm first to report something. Ok, I care, but I'm trying to stop caring. I'm writing this blog mostly for myself, and myself doesn't care if I get the scoop. Anyway, if something seems slightly out-of-date, this is probably the reason. I probably wrote it a few days ago.<br />
+<br />
+If you miss letter columns, and as a former letter-hack I sure do, DC has finally posted their first <a href="http://www.dccomics.com/news/article_display.html?nw_dc_itemCode=letterseditor1">on-line letter column</a>. Am I happy with the new format? No, not really. But at least it's something.<br />
+<br />
+<a href="http://www.boingboing.net/2004/07/09/july_13_is_computer_.html">July 13 is Computer Ate My Vote Day</a>. If you understand the problems with unverified electronic voting, join in and <a href="http://vevo.verifiedvoting.org/action/20040713.dayofaction/toolkit/logos.htm">put a badge on your blog</a>. Make sure everyone knows about this issue. And, if you have a choice, request a paper ballot. If you vote electronically, you might as well not be voting.<br />
+<br />
+</span>
+<a href="http://www.verifiedvoting.org/verifier/"><img src="http://www.verifiedvoting.org/action/20040713.dayofaction/toolkit/camv_logo_color.gif" data-border="0" width="300" height="81" /></a>
+<br />
+&#10;by Tegan at <a href="#108949600777383146">2:46 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/random-thoughts_10.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108949600777383146&#39;);"></a>
+<hr />
+<p>Friday, July 09, 2004 <span id="108942152863888852"></span></p>
+<strong>Delays...</strong>
+<p><span class="rss:item">I was going to review the two Steve Lieber books that Steve kindly sent to me, "Family Reunion" and "Me and Edith Head" (information on how to get them at <a href="http://www.stevelieber.com">http://www.stevelieber.com</a>), and I was going to do this week's comic book reviews, but I've somehow caught The Crud, and my writing ability has turned itself off while I fight off whatever this disease is. So, light blogging for a couple of days until I've recovered, sorry.<br />
+</span></p>
+by Tegan at <a href="#108942152863888852">6:02 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/delays.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108942152863888852&#39;);"></a>
+<hr />
+<span id="108939304477926977"></span>
+<strong>Friday Fitness Blogging</strong>
+<p><span class="rss:item"></span></p>
+<ul>
+<li><br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/LauraSouthPark.gif" data-align="right" data-border="0" width="100" height="100" /></li>
+<li>Weight = <a href="http://realtegan.blogspot.com/2004/04/friday-fitness-blogging.html">X-2</a><br />
+</li>
+<li>Change From Last Week = +2<br />
+</li>
+<li>Met Exercise Goal? Yes<br />
+Goal was ten minutes a day (walk/bike/swim) at least six days.<br />
+</li>
+<li>Current Exercise Goal = fifteen minutes a day (walk/bike/swim) at least six days.<br />
+</li>
+<li>Kept food diary? No.</li>
+</ul>
+<p>Um. Oops. While I'm still feeling healthier, I'm losing ground with the weight thing. Having a jump in weight one week is fine, having jumps two weeks in a row is disturbing. In response, I'm upping my exercise time to 15 minutes (which I should have done a couple of weeks ago, really). And I think some food adjustments may be needed, though I'm not sure right now what I'll change.<br />
+<br />
+Hopefully the fright of seeing the scale going up will get me back on track. And so I'm off to the treadmill, since it's raining outside.<br />
+</p>
+by Tegan at <a href="#108939304477926977">10:10 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/friday-fitness-blogging_09.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108939304477926977&#39;);"></a>
+<hr />
+<p>Thursday, July 08, 2004 <span id="108933248608538340"></span></p>
+<strong>Uh, Free Comic Book Day was last Saturday, Diamond...</strong>
+<p><span class="rss:item">Many Northwest comic book retailers, including Paige at <a href="http://www.cornercomics.com/">Corner Comics</a>, got an unexpected package from UPS on Tuesday or Wednesday... that's right, Diamond sent them their Free Comic Book Day T-shirts. AFTER the event. In its own box, complete with extra shipping that the stores had to pay. Not to mention that the stores were charged on their invoices for the now useless shirts. When they contacted their Diamond rep to complain, they got no response. Eventually it was discovered that the Diamond rep for many of the stores in this area quit last week, and nobody at Diamond had bothered to tell the stores affected.<br />
+<br />
+To all the local stores: I <em>really</em> hope you get your money back from Diamond. It sucks being under the thumb of a monopoly distributor.<br />
+</span></p>
+by Tegan at <a href="#108933248608538340">5:16 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/uh-free-comic-book-day-was-last.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108933248608538340&#39;);"></a>
+<hr />
+<span id="108930857544761006"></span>
+<strong>Random Thoughts</strong>
+<p><span class="rss:item">A Jeopardy category, in Double Jeopardy, was "Marvel Comics Heroes". The category was run by the reigning champion, Ken. Here are the "answers" with their value. You can figure out the "questions" yourself. Hubby-Eric and I had no problem with the category either:</span></p>
+<ul>
+<li>$400 - The Incredible<br />
+</li>
+<li>$800 - The Amazing<br />
+</li>
+<li>$1200 - The Uncanny<br />
+</li>
+<li>$1600 - The Man Without Fear<br />
+</li>
+<li>$2000 - The Invincible</li>
+</ul>
+<p>Yes, hubby-Eric and I are watching Jeopardy. Hubby says he is determined to see the show in which Ken finally loses. And if you aren't up to date on Ken Jennings, he's a 26 day champion with $828,960. Yeah, they dropped the five day limit on winnings.<br />
+<br />
+Scott at Polite Dissent thrills us with a <a href="http://politedissent.com/archives/148/">tale of learning how to draw blood</a>. *shudder* I've had a great many botched blood draws in my life, and you find that you <em>really</em> appreciate the folks who are good at it. The best blood draw I ever had was a guy who spoke no English, who came in after a nurse had tried to get blood out of my veins-that-love-to-hide. She couldn't get enough for the lab, so the lab sent one of their own up. He came in, pointed to the tube and said (heavily accented), "blood". After the previous botched job, my right arm was in agony, so I pointed to my left arm. It took him a mere moment, while the nurse watched in astonishment. She hadn't even been able to find a vein at all in my left arm (and she tried, believe me). He left without a word after getting the full tube.<br />
+<br />
+Comic Book Idol 2 is <a href="http://cbi.comicbookresources.com/index.php">Ov-ah!</a> and the winner is Carlos Rodriguez of Spain.<br />
+<br />
+And now for something a lot more serious: <a href="http://www.brownequalsterrorist.com/artiststatement/">Humiliated, Angry, Ashamed, Brown.</a> A man in Seattle, the place I call home, was harassed by police when he attempted to fulfill a photography assignment by taking pictures, WITH PERMISSION, of a public landmark. He's blogging about <a href="http://www.brownequalsterrorist.com/">the fallout</a> from the incidents. Go read. Got this link via <a href="http://www.boingboing.net/2004/07/07/photography_students.html">Boing Boing</a>.<br />
+</p>
+by Tegan at <a href="#108930857544761006">10:42 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/random-thoughts_08.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108930857544761006&#39;);"></a>
+<hr />
+<p>Wednesday, July 07, 2004 <span id="108925663213986213"></span></p>
+<strong>Rapid Reviews - 30 June 2004 - Part III</strong>
+<p><span class="rss:item"><strong>Colonia #9</strong>: It's been so long since the last issue I was afraid I wouldn't remember what had happened. I shouldn't have worried. The inside front cover was devoted to a nice "catch up" text piece that reminded me of what had gone before without me having to go dig out those issues from storage. The story itself is intriguing, and Adarro the man-of-fish makes another appearance and gives some more hints as to what is really happening in this universe. All-in-all, a solid issue of a pretty good book. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>Emily and the Intergalactic Lemonade Stand</strong>: Well, it was cute. I wish I could say I liked it more, but I had some issues with the storytelling and the style. In short, the artwork isn't the kind I enjoy. There were a lot of unanswered questions, too. Too many to just let go. It was cute, and I'm sure a lot of people will enjoy it, but I didn't love it. I'm neutral on it. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_0_starfish.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Days of the Dragon #1</strong>: There are three stories in this book, and they seem to go back in time starting with a "current" tale, then flashbacks. The world these stories are set in seems to be nicely fleshed out, but I'm not sure the light and easy artwork fits with the grim and nasty nature of the first tale. Even the bad guy looks cute. These were fun, and I would certainly give them a mild recommendation without qualms, but I don't think I'm likely to seek any more stories like these out. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+This week's books (arriving tomorrow): Usagi Yojimbo, Supreme Power, Classics Illustrated Jr Wizard of Oz, Birds of Prey, DC Presents Batman, Justice League Adventures, Swamp Thing, Thor, and Powers.<br />
+</span></p>
+by Tegan at <a href="#108925663213986213">8:16 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/rapid-reviews-30-june-2004-part-iii.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108925663213986213&#39;);"></a>
+<hr />
+<span id="108923808158138113"></span>
+<strong>Random Thoughts</strong>
+<span class="rss:item">Jeff Parker reminds everyone that <a href="http://parkerspace.blogspot.com/2004/07/interman-offered-again.html">The Interman</a> is being offered again, and lets retailers know of an incentive to order a bunch of copies. This is a great book, and I highly recommend it. So order some. Jeff Parker also did <a href="http://realtegan.blogspot.com/2004/05/sketchbook-jeff-parker.html">an awesome Aquaman sketch</a> for me.<br />
+<br />
+</span>
+<a href="http://www.theinterman.com/start.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/parkerbanner.gif" data-border="0" width="468" height="60" /></a>
+<p>Voting has started in <a href="http://forums.comicbookresources.com/showthread.php?t=8737">Comic Book Idol 2</a>. Follow the action on the forum.<br />
+<br />
+<a href="http://www.bloglines.com/">Bloglines</a> has redesigned, and gone from a simple layout to a more crowded layout. I'm not keen on it, but I'm sure I'll get used to it. I discovered that I'm subscribed to over 200 feeds, of which I read mostly the comics stuff and skim the rest.<br />
+<br />
+I'm very tempted by the new <a href="http://www.comicbookresources.com/news/newsitem.cgi?id=3865">Graphic Novel Line</a> by Scholastic. The first offering is a doozy: Jeff Smith's "Bone" in color. I've long been curious about Bone, now might be the time to try it out.<br />
+<br />
+Grim has tidings on <a href="http://fanboyrampage.blogspot.com/2004_07_01_fanboyrampage_archive.html#108922888758522854">the continuing saga of CrossGen's death</a>. I want Abadazad!<br />
+<br />
+Everyone is talkin' about Blogger being all messed up. I've seen a few moments of frustration, mostly when my page wouldn't open on the first try and I had to hit refresh a couple of times, but I haven't had any difficulty posting. I guess I'm just lucky. Anyway, I get better service from Blogger than I generally expect from something I'm not paying for...<br />
+<br />
+I'm just going to note now that I have not yet seen Spider-Man 2, nor even the new Harry Potter, and I don't have any plans at the moment to see either movie any time soon. This has made reading certain mailing lists and blogs difficult, as most people don't feel spoilers are needed for a movie that's been out longer than two days.<br />
+</p>
+by Tegan at <a href="#108923808158138113">3:07 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/random-thoughts_07.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108923808158138113&#39;);"></a>
+<hr />
+<span id="108922440009179371"></span>
+<strong>Rapid Reviews - 30 June 2004 - Part II</strong>
+<p><span class="rss:item"><strong>Batman: Harley &amp; Ivy #3</strong>: The final issue of a three issue... um... "series" doesn't do this justice. I'll call it a three issue romp, instead. In this one, the demented duo take over a movie shoot when they learn that they are characters in the movie. I won't give away the surprise ending, but I will say that this is just on par with the other issues in this romp. If you enjoyed the first two, you will likely enjoy this one also. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>Kindergoth #3</strong>: I got the first two issues for review <a href="http://www.eskimo.com/~tegan/blog/20040222-20040228.html#107763872697478586">from the publisher</a>, so this is the first issue of the series I actually bought. It's also been a little while since I read the first issues, but that wasn't a problem. The book picked up nicely from the last issue and the characters are so distinctive it wasn't hard to remember what was happening. If there is a fault with this series, it's the large cast. On the other hand, without the large cast, the jokes might get stale too fast. It's a fine line, and I think it's played well. If you have read and enjoyed the first two issues, this one is just as good. If you haven't, you can get a good look from the samples on <a href="http://www.bloodfire.com/products/comics/kindergoth/">the website</a>. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+Still to review: Emily and the Intergalactic Lemonade Stand, Days of the Dragon, and Colonia. Good thing books are late this week, or I'd have to mix in this week's books: Usagi Yojimbo, Supreme Power, Classics Illustrated Jr Wizard of Oz, Birds of Prey, DC Presents Batman, Justice League Adventures, Swamp Thing, Thor, and Powers. I really had best get down to reading.<br />
+</span></p>
+by Tegan at <a href="#108922440009179371">11:19 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/rapid-reviews-30-june-2004-part-ii.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108922440009179371&#39;);"></a>
+<hr />
+<p>Tuesday, July 06, 2004 <span id="108917524436117280"></span></p>
+<strong>First Ever Bothell Blogger Bash...</strong>
+<p><span class="rss:item">Well, it happened. As <a href="http://blog.donnael.com/2004/07/and-answer-isa-qualified-yes.html">Garrett reports</a>, however, there were only two of us (and the Garrett spawn). The coffee shop was a nice little place, maybe next time I'll have enough cash to get myself something. The next Bothell Blogger Bash will be August 3rd, at 7 pm, at <a href="http://www.the-lyonsden.com/">The Lyons' Den</a> (which is a nice family coffee shop). Next time I'll remember to bring my laptop.<br />
+</span></p>
+by Tegan at <a href="#108917524436117280">9:36 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/first-ever-bothell-blogger-bash.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108917524436117280&#39;);"></a>
+<hr />
+<span id="108915844409138265"></span>
+<strong>Rapid Reviews - A Series of Unfortunate Events, Book 1: The Bad Beginning</strong>
+<p><span class="rss:item"><img src="http://www.eskimo.com/~tegan/blog/blogpics/shop_ls01badbeginning.jpg" data-align="right" data-border="0" width="100" height="150" alt="cover" /><strong><a href="http://www.amazon.com/exec/obidos/ASIN/0064407667/theaquamanwebsit">The Bad Beginning</a></strong> (A Series of Unfortunate Events, Book 1) by Lemony Snicket: I wasn't sure what to expect with this series. I'd read somewhere that it was just a Harry Potter knock-off, but the descriptions of it didn't support that. I finally gave in to the curiousity, and checked it out from the library. And I'm very glad I did.<br />
+<br />
+First off, there is nothing even remotely Harry Potterish about this series, except <em>maybe</em> they both have a bit of Englishness to them and are both children's book series. Beyond that, nothing. This series is to Harry Potter like grapes are to watermelons.<br />
+<br />
+The reading level is lower than many children's series, and I think younger readers could tackle it without much difficulty. But there are a lot of snide asides, breaking of the fourth wall, which make it a delight for adults to read too. It's a short read. I think I got through it in less than a full hour of reading, although I'm not certain of that. In any case, when I reserved more of the series from the library, I confidently reserved the next five, knowing I would have no trouble getting through them.<br />
+<br />
+The writing style is witty, and the author has a lovely tendency to define words that might be difficult for young readers. The style makes the book a lot more funny than a story about three newly orphaned children going to live with a sinister relative ought to be. And it's the writing style that got me curious as to what happens in the rest of the books. So I'll be following this one with depressing glee, and if anyone tells you this series is just a poor man's Harry, don't believe them. It's something completely different, and oddly fun as well. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+</span></p>
+by Tegan at <a href="#108915844409138265">4:58 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/rapid-reviews-series-of-unfortunate.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108915844409138265&#39;);"></a>
+<hr />
+<span id="108913405643552480"></span>
+<strong>Random Thoughts</strong>
+<p><span class="rss:item"><a href="http://www.ait-planetlar.com/">AiT/Planet Lar</a> has redesigned their website. Now we just need an RSS feed so I can add them to bloglines.<br />
+<br />
+Tonight is the Bothell Blogger Bash as organized by <a href="http://blog.donnael.com/">Garrett Fitzgerald</a>. If you happen to be in Bothell, it's at <a href="http://www.the-lyonsden.com/">The Lyon's Den</a> at 7pm. I'll be wearing my "I'm Blogging This" Shirt.<br />
+<br />
+<a href="http://www.boingboing.net/2004/07/05/disease_trading_card.html">Boing Boing</a> points us to these disturbing <a href="http://www.cdc.gov/global/cards.htm">disease collector cards</a>, downloadable so you can print out your own sets. *shudder*<br />
+<br />
+<a href="http://www.boingboing.net/2004/07/05/advanced_google_synt.html">Boing Boing</a> also directs us to a page on <a href="http://www.googleguide.com/advanced_operators.html">Advanced Google syntax</a>, so you can improve your results from Google.<br />
+<br />
+The final round of <a href="http://cbi.comicbookresources.com/">Comic Book Idol</a> is up for perusal. The entries are up on <a href="http://forums.comicbookresources.com/forumdisplay.php?f=29">the forum</a>, and here are my thoughts on them...<br />
+<br />
+<a href="http://forums.comicbookresources.com/showthread.php?t=8391">Jason Masters</a>: lots of heavy inks, but a limited view of our hero, Nate Elling, who should be the focus of attention. I like his space-suited samurai a lot, though, it fits the line in <a href="http://forums.comicbookresources.com/showpost.php?p=169707&amp;postcount=8">the script</a> that says "It should look very odd, make-shift, like something a kid pretending to be a Samurai might put together." The backgrounds are very spare, and as I read the script and compared it to the work I kept thinking that there should be something more. The cover I like a lot, as it makes Elling look like a knight.<br />
+<br />
+<a href="http://forums.comicbookresources.com/showthread.php?t=8402">Carlos Rodriguez</a>: because of the lack of inks, it seems much less finished than Masters' work. But that's all to the good, I think. The detail makes this one. There's a strong focus on Elling, and you get a better sense of what he's thinking from the excellent facial expressions. I don't like this space-suited samurai as much, mostly because it looks a little too well-made to fit the description in the script. But I prefer just about everything else.<br />
+<br />
+I'll be voting for Rodriguez in the final, but either one of these guys would make a great artist for any book.<br />
+</span></p>
+by Tegan at <a href="#108913405643552480">10:13 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/random-thoughts_06.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108913405643552480&#39;);"></a>
+<hr />
+<p>Monday, July 05, 2004 <span id="108907792993885985"></span></p>
+<strong>Flipping Through Previews...</strong>
+<p><span class="rss:item">Sorry this is "late". I try to get it out quickly, but Free Comic Book Day and the Independence Day holiday got in the way. This issue of Previews went on sale June 23rd, and orders from it are officially due July 10th (that's this Saturday).<br />
+<br />
+Yes, it's that time again... time for "Things in Previews That Look Interesting But I Can't Afford To Get (with a list of things I am getting just for contrast)". I'm going to start with the bulk of the book, and then come back and cover the "big four" at the end. Please remember, I'm listing what looks interesting. My actual purchase list is going to be much smaller. The numbers after each title are usually the page number in <a href="http://previews.diamondcomics.com/">Previews Magazine</a>, so you can follow along at home.<br />
+<br />
+Let's start with the covers. The back cover is a <em>Darkness &amp; Witchblade</em> pin-up. Doesn't do anything for me. Even less impressive to me, but perhaps more striking in general, is the front cover which features <em>Catwoman</em>. I think the impact of the cover is pretty much destroyed by the text on the left. Instead of being a cool image of the way light hits a person, it's a jumble of white with a little red thrown in. If you turn to page 59, you can see that it looks a lot better without the text. Yeah, I'm being picky. But I've rarely seen a Previews cover that really drew my eye, and since the covers are just high profile ads for particular books, they should be attention-getters, not just more run-of-the-mill stuff.<br />
+<br />
+Moving on, let's hit the Splash Page (8-9). There's a new theme for this month: Haunt Your Comic Shop. That makes sense when you consider that books solicited this month will be shipping in September, just in time to get shops ready for October... er... Anyway. Other items of note are an article about the new <em>Dr Strange</em> series, and a couple of new <em>Smallville</em> offerings.<br />
+<br />
+As they have the last few months, pages 12-15 feature <a href="http://www.freecomicbookday.com/">Free Comic Book Day</a> books. I'll note that Silicon Times offering <em>Delicious Seasons</em> had vanished from the FCBD website last I checked, which is depressing, as that was one I really wanted to read. Check out my reviews of the Free Comics for more information on what shipped (to my shop at least).<br />
+<br />
+Right... so I'm skipping the "Big Four" aka Premier Comics and starting on page 188 with Wizard Entertainment. After going through the rest of the book, I'll go back and mention what I'll be getting from the earlier pages.<br />
+<br />
+Wizard is putting out a Wolverine special (190). Like Wolvey really needs another book...<br />
+<br />
+The Featured Items on pages 196-199 include something called <em>Waterwise</em> from Alternative Comics that looks intriguing from the tiny bit seen here. Archie Comics is offering <em>The Adventures of Little Archie</em> which looks cute and is no doubt up to their usual standards. Bongo has <em>Bart Simpson's Treehouse of Horror #10</em>, and I'll save the comments on that for when I hit the Bongo section. The <a href="http://www.cbldf.org/">Comic Book Legal Defense Fund</a> has <em>Even More Fund Comics</em> which I'll get somehow. Fantagraphics shows off the second volue of <em>The Complete Peanuts</em>. There's also a trade of <em>Courtney Crumrin in the Twilight Kingdom</em> from Oni. <em>Owly</em> from Top Shelf looks good.<br />
+<br />
+<a href="http://www.aboutcomics.com/">About Comics</a> (200) is offering a book called <em>Crossfire</em> from everybody's favorite internet writer Mark Evanier. A story featuring the character also shows up in About Comics' offering for Free Comic Book Day, so if you are interested you might see if you can score a copy of <em>Wild About Comics</em> from your retailer on FCBD.<br />
+<br />
+Adv Manga (203) has a book called <em>Apocalypse Meow</em> which features cats and rabbits in place of people. There is a <a href="http://www.itmedia.co.jp/games/ga/cat/">website</a> with some of the art from the original Japanese book so you can take a look. This one is certainly worth a look.<br />
+<br />
+<a href="http://www.airshipbooks.com/">Airship Entertainment</a> (206) is putting out the second collection of <em>Girl Genius</em>, in either a not too expensive softcover or a bit more expensive hardcover. I recommend the book in either form.<br />
+<br />
+<a href="http://www.ait-planetlar.com/">AIT/Planet Lar</a> (206) has two MUST-GET books this month, <em>Demo #10</em> and <em>Jax Epoch and the Quicken Forbidden Vol 2</em>. Whether or not I actually get the second one depends entirely on the financial situation this summer, which has been looking worse and worse. However, if you have the money, I strongly recommend both books, and the first volume of <em>Jax Epoch</em> as well.<br />
+<br />
+Alternative Comics has the aforementioned <em>Waterwise</em> (207) which is described as a cross between American Splendor and Alice in Wonderland. I don't know what to make of it.<br />
+<br />
+<a href="http://www.slavelabor.com/">Amaze Ink/Slave Labor</a> has <em>Street Angel #3</em> (210) as well as a resolicit of the first issue, so you can catch up if you missed it.<br />
+<br />
+Some strange stuff from <a href="http://www.antarctic-press.com/">Antarctic Press</a> this month. Yeah, the <em>Dictators</em> series continues with the second part of Saddam Hussein's story (214). But the book that scares me is <em>You Can Vote: Decision Battle 2004</em> (215), which looks like Manga-ized versions of Bush and Kerry, and offers a trading card edition with parody gaming cards.<br />
+<br />
+<a href="http://www.apcomics.com/">AP Comics</a> has a book called <em>Comicana #1</em> (216) which might appeal to some folks: two guys working in a comic shop receive a mysterious board game that opens a door to another dimension. Sounds very run-of-the-mill for comic shop owners, I guess...<br />
+<br />
+<a href="http://www.arcanastudio.comchance/">Arcana Studio</a> (220) has another issue of Ant, which I have to decide to get or not.<br />
+<br />
+<a href="http://www.beckettcomics.com/">Beckett Comics</a> has the third issue of <em>The Ballad of Sleeping Beauty</em> (234). The free comic book edition of the first issue got me curious about this series, and I would definitely hunt down issue #2 and order #3 if money weren't so tight.<br />
+<br />
+Bongo Comics has the tenth issue of <em>Bart Simpson's Treehouse of Horror</em> (235). The writers from this issue are a real surprise. I don't know how well Alice Cooper, Gene Simmons, and Rob Zombie write comics. We'll be getting this one. We've got all the Treehouse of Horror issues. Looks like <em>Futurama #19</em> (238) will also make the list.<br />
+<br />
+<a href="http://www.checkerbpg.com/">Checker Book Publishing</a> (240) has the second volume of classic <em>Star Trek</em> comics. This month is looking more and more expensive.<br />
+<br />
+Clib's Boys Comics has <em>True Story, Swear To God #11</em> (242). After reading <em>100 Stories</em> (thanks again, Larry), I really want to add this book to the pull.<br />
+<br />
+The bi-monthly schedule continues for <a href="http://www.coloniapress.com/">Colonia Press</a> with <em>Colonia #10</em> (242). That one is also on the list.<br />
+<br />
+Comely Comix is putting out <em>Captain Canuck: Unholy War #1</em> (243). Don't know if it's any good, but it's quite a fascinating solicit and ad.<br />
+<br />
+<a href="http://www.cbldf.org/">CBLDF</a> has the next must-get book of the season: <em>Even More Fund Comics</em> (243). The first one was fantastic, and would've been worth it at over twice the price, so get this one. This month is going to break the bank.<br />
+<br />
+<a href="http://www.committedcomics.com/">Committed Comics</a> is soliciting <em>Neo Dawn #3</em> (245). I bought the first issue on a whim, mostly because Committed is local, and enjoyed it enough to want to get the rest.<br />
+<br />
+<a href="http://www.devilsdue.net/">Devil's Due Publishing</a> has a neat Oeming cover to <em>Army of Darkness: Ashes 2 Ashes #3</em> (250), but I'm still not buying it. Cool cover, though.<br />
+<br />
+<a href="http://www.gamespy.com/comics/dorkstorm/index.asp">Dork Storm Press</a> (265) is resoliciting <em>Nodwick #25</em>, <em>PS238 #7</em>, and <em>PS238 #8</em>. In case you don't know, <em>PS238</em> is my current everybody-must-get-it book, so go order it.<br />
+<br />
+You'd have to be blind and deaf to have missed <a href="http://www.fantagraphics.com/">Fantagraphics</a> recent success with <em>The Complete Peanuts</em> (282). Now you can get the second volume, or if you haven't gotten the first volume, you can order a boxed set with both volumes.<br />
+<br />
+Funnypages Press (286) brings back the long-missing <em>Opposite Forces</em> with issue number four. It's about time!<br />
+<br />
+<a href="http://www.iboxpublishing.com/">I Box Publishing</a> has <em>Thieves &amp; Kings #46</em> (293). This issue marks the start of a new storyarc.<br />
+<br />
+<a href="http://www.nbmpub.com/">NBM Publishing</a> is putting out a book called <em>The Silk Tapestry &amp; Other Chinese Folktales</em> (306). If the sample in the FCBD offering is anything to go by, this is something that many folks will want in their collections. I know I want it and its predecessor <em>The Yellow Jar</em> in my collection now. Anyway, if you like magical art and traditional stories, get these.<br />
+<br />
+I want to point out that <a href="http://theinterman.com/"><em>The Interman</em></a> is being resolicited on page 308. Those of you who haven't read it no longer have any excuse.<br />
+<br />
+<a href="http://www.onipress.com/">Oni Press</a> is putting out the already mentioned once <em>Courtney Crumrin in the Twilight Kingdom TP</em> (308). I seem to recall first meeting Courtney during last year's FCBD and wishing I could get more of her stories. If I weren't flat broke and already looking at the biggest month of the year for comic book spending, I might consider getting this. As it is, I'm afraid Courtney will have to wait.<br />
+<br />
+Panini is putting out another volume of <em>Doctor Who</em> comic reprints. This one is <em>Doctor Who: Dragon's Claw</em> (312). I'm not sure how we're going to pay for this one.<br />
+<br />
+There's a book from <a href="http://www.randomhouse.com">Random House</a> called <em>Sticks and Stones</em> (313) that looks nicely different. A rock man is born and must lead little rock people. Another one that I can't afford to get.<br />
+<br />
+<em>Scary Godmother: The Mystery Date Storybook</em> (317) is being offered in softcover, and I would get any and all Scary Godmother if I could. Indeed, just wait until later in this post for more Scary news...<br />
+<br />
+I still think <a href="http://tokyopop.com/index.php">Tokyopop</a>'s solicits (321-340) are close to unreadable thanks to the odd layouts, but I'm curious enough to work through them thanks to their efforts with TV ads. While there are a number of interesting titles in their catalog, I'm not drawn in by anything.<br />
+<br />
+<a href="http://www.topshelfcomix.com/">Top Shelf</a> has a book called <em>Owly</em> (342) that appears to be both all-ages and no-reading required. I admit it looks fun.<br />
+<br />
+A company called Ultimate Sports Entertainment (343) provides us with annoying superhero versions of NBA stars. I am still waiting for someone to put out a good comic book based on sports that doesn't involve superpowers or the supernatural.<br />
+<br />
+Don't miss <em>Daisy Kutter #2</em> (346), which I missed last month but managed to add to my order at the last minute.<br />
+<br />
+And that's it for the main comic book section... moving on to the rest of the back of Previews...<br />
+<br />
+<em>Alter Ego #40</em> (363) has a trio of giants to focus on: Gil Kane, Julius Schwartz, and Russ Heath. This is generally a mag worth getting, and this issue would be one certainly worth looking at.<br />
+<br />
+In the book section, <a href="http://www.overduemedia.com/">Overdue Media</a> is represented by two <em>Unshelved</em> collections (384). This is the librarian comic strip I enjoy so much that it makes me want to become a librarian. I can't afford the collections, but if you can I recommend going for them. Particularly if you like librarians.<br />
+<br />
+Fun looking book on page 386: <em>What Were They Thinking? The 100 Dumbest Events In Television History</em>. It sounds more like a special feature in the TV Guide than something I would buy a book for, but it's silly so I'll mention it.<br />
+<br />
+There are a couple of Wonder Woman books on page 388 I found interesting. They seem to be "young" WW storybooks, and I can't tell what reading level they are for. They could be very good, or absolutely awful.<br />
+<br />
+I was depressingly interested in the <em>Star Wars Heritage Cards</em> on page 406. The cards will have the same borders and design as old Star Wars cards that I collected as a kid, but with new images. I still wish I had a full set of the original cards. These ones are terribly tempting in a nostalgic kind of way. I know I won't get them, but I also know I really want them.<br />
+<br />
+Speaking of Star Wars, is it just me, or are the Star Wars Galactic Heroes on page 445 some of the ugliest little figures ever made based on the movies?<br />
+<br />
+Cool Alien vs Predator Chess set on page 452. I like imaginative chess sets, personally, though I'm absolutely lousy at the game.<br />
+<br />
+Whew... there still isn't an Aquaman Headstrong Hero (ad on page 483, solicit page 485). If there was, I'd want it, but I really hope they don't make one. That would save me both money and a little tiny bit of dignity. Oh, who am I kidding? My dignity as far as Aquaman is concerned went away a long time ago...<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/shop_scarygodmother.jpg" data-align="left" width="100" height="150" />Now for that Scary news... the Scary Godmother Halloween Spooktacular (532) is going to be released in the US! It's even <a href="http://www.amazon.com/exec/obidos/ASIN/B00020HCB8/theaquamanwebsit">on Amazon now</a>. As many of you know, I <a href="http://www.eskimo.com/~tegan/blog/20030921-20030927.html#10643836242190651">promoted the DVD</a> when it came out in Canada last fall, and I'm going to promote it some more this year. I don't know if the features on the DVD will be different, but I strongly recommend this one. Order it! Especially if you have young kids.<br />
+<br />
+Jumping back to the beginning of the book, it's time for me to cover the "big four" Premier Publishers. As usual, I'll finish with DC Comics, since they are the publisher I tend to buy the most books from.<br />
+<br />
+Starting with <a href="http://darkhorse.com/">Dark Horse</a>, I can again see that I'm going to leave this month disappointed. I really would like to get <em>The Art of Usagi Yojimbo</em> (25), but $39.95 is just too much for one book. I will be ordering <em>Conan #8</em> (26) which apparently, from the cover, deals with Conan's birth. <em>Magnus, Robot Fighter HC</em> (28) looks great, but again, it's just too much. I'd love to read the original stories. The second volume of <em>Samurai Executioner</em> (37) is solicited. I'll be getting that. It'll fit in with my <em>Lone Wolf and Cub</em> collection.<br />
+<br />
+Skipping DC for the moment and moving to <a href="http://www.imagecomics.com/">Image Comics</a>, I'm mildly interested in <em>Invincible</em> (140) now that I've read the FCBD story about it. Getting the first trade would be an option if I were more flush. At the moment, though, it's just going to go on my huge want list. <em>Noble Causes #3</em> (144) is a no-brainer... it makes the list. This month I don't have a preference for covers like I did last month. If you missed <em>Common Grounds</em>, get the "Reader Set" (168) that includes all six issues for $14.99. This one is recommended, folks.<br />
+<br />
+As usual, I didn't bother picking up the Marvel Preview, so for <a href="http://marvelcomics.com/">Marvel Comics</a> I'm ordering via the shipping list (178). This month: <em>Thor #84</em> and possibly <em>Thor: Son of Asgard #8</em> for my friend. I'll be getting <em>Amazing Spider-Man #71/512</em> and <em>Powers #4</em> for myself for sure, and we haven't yet decided, but we'll probably get <em>Strange #1</em> also. I used to love the 2099 universe, but I'm not in the slightest interested in the five new books Marvel is putting out under the Marvel Knights banner. Of more interest is the <em>Marvel Comics 65th Anniversary Special</em> and the <em>Marvel Masterworks: Golden Age Marvel Comics Vol 1</em>. If I had the money I'd get both. Considering how tight money is going to be this month, I doubt I'll be able to justify either. I've always liked Jubilee, and I would consider getting <em>Jubilee #1</em> if I hadn't read the solicit. The term "left coast" irritates me, and I'm sure that wouldn't be the only thing about the book that would annoy. It's clearly aimed at more "hip" readers than I consider myself to be. I would also consider getting <em>Gambit #1</em>, but I'm not that interested, and Marvel solicited two issues at once, which is usually enough to turn me off to a new series.<br />
+<br />
+So I finally get back to <a href="http://www.dccomics.com/">DC Comics</a> with their funky new listing style.<br />
+<br />
+Starting with the Batman Section (59-66) we get another view of the <a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=ctwwheninrome1&amp;month=September">cover to Previews</a>. It looks a lot better without a splash of text to distract from the image. The next two pages are full of the latest crossover, so I'll just skip them. Nothing of interest to me on those pages.<br />
+<br />
+I would like to read both <em>Batman: Child of Dreams</em> and <a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=bmhongkongsc&amp;month=September"><em>Batman: Hong Kong</em></a> (62), but not enough to buy them. I'll note that the <em>Batman: The Dark Knight Archives Vol 1</em> is now on sale for $19.95. I wouldn't mind getting myself that one, but then I'd like to get all the Archives except the stupid one.<br />
+<br />
+There are two issues of <em>Birds of Prey</em> (64) again, annoyingly enough. <a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=bop73&amp;month=September"><em>Birds of Prey #73</em></a> and <a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=bop74&amp;month=September"><em>Birds of Prey #74</em></a>. Nothing else of interest to me in the Batman books this month.<br />
+<br />
+The Superman Section (67-75) has a lot more of interest this month than last month. Which isn't saying much at all. First up is <a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=smallv10&amp;month=September"><em>Smallville #10</em></a> (70), which has been consistently very good for a series based on a TV show.<br />
+<br />
+Of course, the real exciting book is <a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=smtruebrit&amp;month=October"><em>Superman: True Brit</em> (71), which is written by Kim "Howard" Johnson with help from John Cleese. I've already heard some people complaining that they thought it would be completely written by Cleese, but I don't see anything wrong with Johnson being the main writer, as he's the "other Python" anyway. I want to get it, only problem is the price. I'm not sure we can fit a $25 hardcover into the order this month.<br />
+<br />
+Next up is the DC Universe Section (76-95), and as usual there are a lot of book we want to get.<br />
+<br />
+I've never been a huge Adam Strange fan, but the new <em><span>Adam Strange #1</span></em> (76-79) looks like something different and new. I don't think I'll be getting it, but I'll be watching the reviews.<br />
+<br />
+</a><a href="http://www.dccomics.com/features/aquaman/index.html"><img src="http://www.eskimo.com/~tegan/aqua/pics/cvr2003/cvra422.jpg" data-align="right" data-border="0" width="200" height="300" /></a>I don't think anyone will be surprised that I'm getting <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=aqua22&amp;month=September">Aquaman #22</a></em> (80). In fact, I think people would be surprised if I didn't.<br />
+<br />
+I'll also be getting <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=bloodh3&amp;month=September">Bloodhound #3</a></em> (80) as part of its trial run. And <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=dcnewfront6&amp;month=September">DC: The New Frontier #6</a></em> (81) claims to include Aquaman, which I'm looking forward to seeing. I'm still getting <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=fangel15&amp;month=September">Fallen Angel #15</a></em> (82), and I wonder how the trade did, since that may be the indicator of whether or not we get more of this book.<br />
+<br />
+Moving into the Green Books, <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=ga42&amp;month=September">Green Arrow #42</a></em> (83) is the third part of another story. I'm getting tired of longer stories, and I wish some writers would switch to done-in-one or two parters for awhile. Long arcs are all well and good, but sometimes they are too long. <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=gl181&amp;month=September">Green Lantern #181</a></em> (84) is the final issue of the series, for now. Soon we'll get the big Green Lantern crossover story that brings back Hal or something.<br />
+<br />
+<em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=hero20&amp;month=September">H-E-R-O #20</a></em> (84) continues the fallout from the big Robby Reed storyline, but I've been avoiding spoilers for this one so I can enjoy it more. DC continues to scam us loyal readers out of money with <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=jlasf2004&amp;month=September">JLA Secret Files 2004</a></em> (85). Yeah, we'll probably get it... the solicit mentions the Crime Syndicate. Just call us suckers.<br />
+<br />
+Some other DC books we'll be getting: <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=idcrisis4&amp;month=September">Identity Crisis #4</a></em> (86), <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=jla105&amp;month=September">JLA #105</a></em>, <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=jla106&amp;month=September">JLA #106</a></em>, <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=jsa65&amp;month=September">JSA #65</a></em> (87), <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=jsastrangeadv2&amp;month=September">JSA: Strange Adventures #2</a></em>, <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=outs16&amp;month=September">Outsiders #16</a></em> (88), and <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=plas10&amp;month=September">Plastic Man #10</a></em> (89).<br />
+<br />
+The newest section for DC is the Johnny DC section (96-98) which features most of the all-ages DC books. We'll be getting a couple: <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=bmstrikes1&amp;month=September">The Batman Strikes! #1</a></em> and <em><a href="http://www.dccomics.com/comics/dc_display.html?cm_dc_itemCode=jlu1&amp;month=September">Justice League Unlimited #1</a></em>. I actually consider these to be some of the best books DC currently puts out.<br />
+<br />
+I'm going to pretty much skip over the Beyond the Universe section (99-103). I'm more interested in seeing what the Wildstorm section (104-109) has for us... like <em><a href="http://www.dccomics.com/comics/ws_display.html?cm_ws_itemCode=lifeeaters&amp;month=September">The Life Eaters</a></em> (106), which is based on a short story by David Brin. In the story as I remember it, the Germans in WWII managed to bring the Norse gods down on their side... except for Loki who might be on any side. I'd really like to get this one.<br />
+<br />
+Almost done... we move on to the Vertigo section (110-122). Someday I'd like to read the entire Animal Man series, and DC is reprinting some of them in <em>Animal Man: Deus Ex Machina</em> (111). Maybe I'll get a chance sometime. I also note that <em>The Little Endless Storybook</em> (114) is being re-released. I have this somewhere, and it was a lot of fun. If money weren't so tight, I'd love to try out Dave Gibbons <em><a href="http://www.dccomics.com/comics/vt_display.html?cm_vt_itemCode=originals&amp;month=October">The Originals</a></em> (115). Unfortunately, money is tight, and we'll have to wait on a paperback. Will Pfeifer gets his shot at Swampy in <em><a href="http://www.dccomics.com/comics/vt_display.html?cm_vt_itemCode=swpthing7&amp;month=September">Swamp Thing #7</a></em> (119), which I'll get. I'll get the series until Pfeifer stops writing it.<br />
+<br />
+Last up is the DC Direct section (123-130). I'm happy to say that nothing is cool enough that I want to get it. I like the oversized posters on page 127, but I don't have anywhere to hang them, so I'm not interested.<br />
+<br />
+So that's it for this month's "Things in Previews That Look Interesting But I Can't Afford To Get (with a list of things I am getting just for contrast)". Comments? Questions? Did I miss any really cool books that you know about and would like to point out? Do you disagree with something I wrote, and want to correct me? There's the comments, right below. Post something. And, yes, I accept review copies. I'm willing to give almost anything a try.<br />
+<br />
+And hey, don't like my point of view? Check out the preview review of <a href="http://www.ninthart.com/display.php?article=873">Greg McElhatton at Ninth Art</a>.<br />
+</span></p>
+by Tegan at <a href="#108907792993885985">6:30 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/flipping-through-previews.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108907792993885985&#39;);"></a>
+<hr />
+<span id="108904554149765664"></span>
+<strong>Rapid Reviews - 30 June 2004 - Part I</strong>
+<p><span class="rss:item"><strong>Green Lantern #178</strong>: Oddly enough, the recent <a href="http://cbi.comicbookresources.com/">Comic Book Idol</a> contest changed the way I thought about this series, and this issue in particular. I actually thought Carlos Rodriguez drew the sequence better than Luke Ross did, and kind of wished I could see Rodriguez's take on the rest of the book. Because I was looking at the book much more closely, I found I liked it more than I probably would have. I was impressed with the emotion in the opening sequence, and Kyle's thought balloons after being drugged were great. I liked this issue. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>JLA #100</strong>: Well, the stupid vampire storyline is over, at least. And although Joe Kelly tends to favor overcomplicated stories over anything comprehensible, at least it doesn't have faux Silver Age dialogue. And the story itself isn't <em>that</em> bad when you get down to it, however long that takes. It's not that good, either, but not terribly bad. As a device to spin-off a title from DC's flagship title, I'm not keen on it either. I guess I'm neutral on it. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_0_starfish.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+Still to review: Kindergoth, Harley &amp; Ivy, Emily and the Intergalactic Lemonade Stand, Days of the Dragon, and Colonia.<br />
+</span></p>
+by Tegan at <a href="#108904554149765664">9:38 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/rapid-reviews-30-june-2004-part-i.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108904554149765664&#39;);"></a>
+<hr />
+<p>Sunday, July 04, 2004 <span id="108896939730597369"></span></p>
+<strong>Happy Independence Day!</strong>
+<p><span class="rss:item">"Oooh, there's gonna be fireworks..."</span></p>
+by Tegan at <a href="#108896939730597369">12:29 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/07/happy-independence-day.html">- Permalink</a> <a href="javascript:HaloScan(&#39;108896939730597369&#39;);"></a>
+<hr /></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-valign="top" width="25%"><table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc">current</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://realtegan.blogspot.com/">Bloggity-Blog-Blog-Blog</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">archives</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="20040627-20040703.html">06/27/2004 - 07/03/2004</a><br />
+07/04/2004 - 07/10/2004<br />
+<a href="20040711-20040717.html">07/11/2004 - 07/17/2004</a><br />
+<br />
+<a href="2002Archive.html">2002 Archive</a><br />
+<a href="2003Archive.html">2003 Archive</a><br />
+<a href="2004Archive.html">2004 Archive</a><br />
+</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">other</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://www.eskimo.com/~tegan/aqua/">My Aquaman Website</a><br />
+<a href="20021124-20021130.html#85318589">Why Aquaman?</a><br />
+<a href="sketch/index.html">Aquaman Sketchbook</a><br />
+<br />
+<a href="shop.html">Bookshop</a><br />
+<a href="supportsites.html">Support This Site</a><br />
+<br />
+<a href="rapidreviews.html">Rapid Reviews Index</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#B6B8FC"></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="bloggertemplate59_cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td rowspan="2" data-bgcolor="#036303"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+<td></td>
+</tr>
+</tbody>
+</table>

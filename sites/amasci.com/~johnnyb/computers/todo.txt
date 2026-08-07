@@ -1,0 +1,63 @@
+Jon's Site - Projects Todo 
+
+ Projects I'd Like To Do 
+
+This is a list of projects I would like to write at some point, but I'm
+really starting to doubt I will ever have time for any of them. If one
+of these inspires someone, let me know.
+
+ ORBit Transaction Service 
+
+I think it would be good to implement a transaction service in ORBit2,
+so you could use ORBit in a server environment instead of the proprietary
+CORBAs. This would also facilitate my next idea.
+
+ EnterOrbit Application Server 
+
+This would be a Linux distribution that was geared toward application 
+serving. It would NOT be a kitchen sink distribution. It would also
+NOT be a Linux-ish distribution - it would basically be its own OS, based
+on Linux. That's not to say it wouldn't be 99% from RedHat, but the osed
+on Linux components. Every component would be in there for a reason, with
+documentation on how to put it to work. In fact, the documentation would
+be written before the pieces would be put together, and they would each be
+modified so as to have hooks into each other. I have written a 
+ unfinished document for a programmer's manual
+about what I would like to do. I think specialized distributions are where
+Linux's true potential is at. Imagine each specialty having their own
+dists just for them. Of course, there would always be the kitchen sink
+ones for the nerds, but that would turn into the exception. Anyway, some
+ideas I had for EnterOrbit are here .
+
+ Nethack 3D Frontend 
+
+ Nethack is a great game. It would
+be even better if it had a 3D frontend. It could stay a non-realtime game,
+it would just be more immersive if it had a 3D gui. In fact, it could
+probably go into retail sales in that case. I think it would be fun to
+release it only on Macintosh and Linux first, and have the box sitting 
+right next to RHL in Best Buy. Then, after a few weeks, put the
+Windows version out, too. Or, have advertisements for it, and say
+"only available on RHL x.x", and see if RHL will ship it. It also needs
+a better name.
+
+ Personal Chess Trainer 
+
+All of the current chess engines play the way a computer would - look
+50 moves ahead using filtering heuristics, and pick the best one. It would
+be neat to have a chess program that played the way a person would - using
+basic techniques, looking for pins, discovered checks, etc., and tell you
+why it made the move it made. You could request that it play a particular
+opening or defense so that you could practice, and you could request that
+it play daring or conservatively. It could also highlight the attacks
+available to your pieces, and all other sorts of good information, like
+bad formations on both sides and how they could be exploited.
+
+ Computer Algebra System in Scheme 
+
+Most computer algebra systems have their own language. Why not have
+one that was both written in scheme, and used scheme to run it? After 
+all scheme and lisp are both for symbolic manipulation. 
+
+That's the end of my list. If you have any such ideas, feel free to 
+ mail me !

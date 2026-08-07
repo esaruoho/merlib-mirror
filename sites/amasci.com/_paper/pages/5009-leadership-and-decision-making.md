@@ -1,0 +1,63 @@
+---
+title: "Leadership and Decision-Making"
+source_domain: amasci.com
+source_path: ~mighetto/lsvroom.htm
+order: 5009
+reachable_from_entry: false
+images: 1
+internal_links: 5
+extracted: 2026-08-07T05:58:03Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Leadership and Decision-Making
+
+*Source page: `~mighetto/lsvroom.htm`*
+
+# Leadership and Decision-Making
+
+[<img src="tutmask.gif" data-align="left" width="139" height="185" />](lstqm.htm)This book is the classic presentation upon which Vroom and Jago's 1988 work is based. In the latter case, Victor Harold Vroom largely failed in making [The New Leadership: Managing Participation in Organizations](http://www.amazon.com/exec/obidos/ASIN/0136150306/qid=910140157/sr=1-3/002-6413828-9307046) relevant to today's managers and leaders. Hence the original 1976 book is still the more valuable work. *Leadership and Decision-Making* is a must read for those following the [Department of Justice](http://www.usdoj.gov/atr/whatsnew.html) antitrust cases and other maters related to modern business leadership.
+
+It is also a recommended book for anyone who aspires to a [leadership](http://www.eskimo.com/~mighetto/lslead.htm) position because it is thought provoking and avoids, as much as possible, the mathematics which overwhelm his 1988 work. Many students of leadership will find the concepts presented familiar.
+
+The main message conveyed is that leadership behavior should be dependent on certain characteristics of the general situation in which a decision is to be made. By understanding the situations, readers are able to influence leaders they may work with or judge the appropriateness of decisions made by others.
+
+In 1988 Vroom and Jago attempted to expand this classic work with a mathematical computerized approach that could be used by [decision makers](http://www.eskimo.com/~mighetto/) in daily practice. This mathematical "[expert system](http://www.eskimo.com/~mighetto/lsexpert.htm)" was to correct the discrete nature of the 1976 work's [decision trees](http://www.eskimo.com/~mighetto/lstree.htm).
+
+Expert systems, however, are not based in mathematics, but on something that has nothing to do with mathematics called [certainty theory](http://www.eskimo.com/~mighetto/lscert.htm). This partially explains deficiencies in the latter work. *Leadership and Decision-Making* remains the best presentation and in paperback it is an exceptional value. The book, while not out of print, is often difficult to obtain.
+
+<span id="paper"></span>
+
+------------------------------------------------------------------------
+
+Should you be unable to obtain a copy of *Leadership and Decision Making* (see above), Mighetto & Associates can provide a [white paper](http://www.eskimo.com/~mighetto/lsprice.htm) report titled *Toward A Normative Model of Leadership Style*. The model utilizes a taxonomy of leadership styles expressed in terms of decision processes, varying in terms of the amount of opportunity for subodinates to influence the decision. The general proposition that the effectiveness of any leadership style is dependent on the situation is translated into an analytic framework (expressed in terms of a decision tree) for analysing the attributes of the particular decision to be made and specifying the most effective decision process. The research underlying the model is described and the model is applied to a set of cases to illustrate its behavior. This is the research that Vroom and Yeton used in their classic work. Mighetto & Associates also markets an expert system with the white paper.
+
+## Java
+
+\
+
+## Java
+
+\
+
+## Java
+
+\
+
+## Java
+
+\
+
+## Java
+
+\
+
+\[[Home](http://www.eskimo.com/~mighetto/)\] \[[Decision Tree](lstree.htm)\] \[[Deep Knowledge](lsknow.htm)\] \[[Acknowledgements](acknow.htm)\] \[[Map](lswebmap.htm)\]
+
+***Mighetto & Associates*** - 1260 NE 69th St. Seattle, WA 98115 - (206) 525-1458 voice and fax
+
+<mighetto@eskimo.com> - Internet email address
+
+[](http://www.skytel.com/) [mighetto@compuserve.com](mailto:72154.3467@compuserve.com) - Internet email address or 72154,3467 from within Compuserve
+
+http://www.eskimo.com/~mighetto/lsvroom.htm - last update October 6, 1999.

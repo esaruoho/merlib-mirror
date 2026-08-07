@@ -1,0 +1,279 @@
+---
+title: "Bloggity-Blog-Blog-Blog Archive 24 Apr 2005 to 30 Apr 2005"
+source_domain: amasci.com
+source_path: ~tegan/blog/20050424-20050430.html
+order: 8636
+reachable_from_entry: false
+images: 25
+internal_links: 10
+extracted: 2026-08-07T06:01:08Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bloggity-Blog-Blog-Blog Archive 24 Apr 2005 to 30 Apr 2005
+
+*Source page: `~tegan/blog/20050424-20050430.html`*
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="13" /></td>
+</tr>
+<tr>
+<td class="title" width="100%" data-bgcolor="#9e98cc" data-valign="top">Bloggity-Blog-Blog-Blog Archive<br />
+Laura "Tegan" Gjovaag</td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td class="body" data-valign="top" width="74%"><p>Saturday, April 30, 2005 <span id="111492168540035070"></span></p>
+<strong>Sketchbook - Batton Lash</strong>
+<span class="rss:item">I first met Batton Lash at <a href="http://www.eskimo.com/~tegan/aqua/sandiego/#2e">San Diego 2000</a>, at a rather memorable dinner with Nick Cardy. I went from admiring Nick at that dinner to practically worshipping him, as the stories he told were both amazing and infused with a sincere modesty that made you want to say, "No Nick, you really <em>are</em> one of the greats!" Thanks to Batton and Jackie my inherent shyness was not a problem (stop laughing, Eric), as both of them were experts at drawing out stories from reluctant speakers, and their presence got Nick talking.<br />
+<br />
+Anyway, to make a short story long... I met Jackie and Batton again at <a href="http://realtegan.blogspot.com/2005/02/emerald-city-comicon-report-2005.html">Emerald City Comicon 2005</a> and Batton drew this wonderful sketch of ... um ... Aquaman?<br />
+<br />
+</span>
+<a href="http://www.exhibitapress.com/"><img src="http://www.eskimo.com/~tegan/blog/sketch/sketch_LashB.jpg" data-border="0" width="316" height="400" /></a><br />
+<strong>AQUAMAN?</strong><br />
+<strong>by Batton Lash</strong><br />
+6 February 2005<br />
+(permission to post given 6 February 2005 in person)<br />
+<a href="http://www.exhibitapress.com/">Exhibit A</a>
+<br />
+<br />
+As a reminder: Almost every sketch in my sketchbook was non-commissioned and done on the floor of a con. These are not the best works of the artists. These are only representative of what the artist can do under pressure in a loud, crowded, and often stressed-out environment. Most of them were done as quickly as possible, to prevent huge lines from forming. Don't judge any of these artists negatively by the artwork you see, instead be as impressed as I am by what they accomplished in far-from-ideal conditions.<br />
+<br />
+To see all the sketches I have permission to post so far, check out my <a href="http://www.eskimo.com/~tegan/blog/sketch">Sketchbook Page</a>. If you have any contact information for any of the <a href="http://www.eskimo.com/~tegan/blog/sketch/index.html#wanted">other artists I'm trying to contact</a>, please <a href="mailto:tegan@eskimo.com?subject=Bloggity-Blog-Blog-Blog">e-mail me</a>. Click for a <a href="http://www.eskimo.com/~tegan/blog/sketch/random.html">random Aquaman sketch</a>.<br />
+<br />
+The Saturday Sketch ™ is brought to you by the letters "B", "L" and the number "95", and also courtesy the fine artists who pour their lives into producing wonderful comic books, then come to conventions only to get asked by geeky fangirls for a sketch of Aquaman. Support an artist, buy a comic book.
+by Tegan at <a href="#111492168540035070">9:27 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/04/sketchbook-batton-lash.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111492168540035070&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111492168540035070" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111492168540035070&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Friday, April 29, 2005 <span id="111481213614537844"></span></p>
+<strong>A Smattering of Thoughts</strong>
+<p><span class="rss:item">Ha! I've finally caught up on reading blogs! Now to get to the comic books... how many weeks behind am I now? I haven't even read the latest Aquaman...<br />
+<br />
+<a href="http://www.sfcrowsnest.co.uk/dailynews.php?subaction=showfull&amp;id=1114767480&amp;archive=">Hunting the Mongolian Death Worm!</a> <em>Three to five feet long, the Death Worm is said to lurk beneath the sands, emerging only at certain times of the year to spread fear among the desert dwellers. The nomads insist that the beast can spit a corrosive yellow saliva that acts like acid and that they can generate blasts of electricity powerful enough to kill a full grown camel. It is a monster worthy of Dr Who but how true are the stories?</em> I read about this creature in Fortean Times, it would be a real trip if they actually catch one.<br />
+<br />
+<a href="http://www.boingboing.net/2005/04/15/chocolate_ingredient.html">Chocolate is good for you.</a><br />
+<br />
+<a href="http://www.gregkucera.com/images/newpo_aquaman.jpg">Hand-knit Aquaman costume</a>. No, I don't want one. For one thing, this one apparently goes for over $5000 (see <a href="http://www.gregkucera.com/newport.htm">here</a>). And for another, I'm not sure it would work well in the water. The gallery is in Seattle, but I don't think I'll head down to visit.<br />
+<br />
+For my Breast Cancer 3-Day Benefit Raffle (see previous post), I've dug out Street Angel 1, 3, and 4, Bricktop A1 Special, the Dave Johnson Sketchbook, Codeflesh, Last of the Independents, The Couriers 02: Dirtbike Manifesto, Channel Zero: Jennie One, and The Annotated Mantooth. That's ten books, ready to go in a straight up drawing that anyone who <a href="http://www.the3day.org/faf/r.asp?t=4&amp;i=61814&amp;u=61814-63361410">donates</a> at least $15 to the Seattle 3-Day for me can enter. I haven't yet decided if I'll send one winner all the books, or if I'll have a number of prizes, but I only thought of the drawing this morning and I've already got a little collection of prizes, so we'll see where it takes us. I think I may be writing snailmail to a few of my old friends in the comic book biz to see if I can score another book or two to add to the pot. We'll see what happens.</span></p>
+by Tegan at <a href="#111481213614537844">2:49 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/04/smattering-of-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111481213614537844&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111481213614537844" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111481213614537844&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111478692737780670"></span>
+<strong>The Walk Update</strong>
+<p><span class="rss:item">For the one or two people who haven't figured it out, I'm doing the <a href="http://www.the3day.org/faf/r.asp?t=4&amp;i=61814&amp;u=61814-63361410">Seattle 3-Day Walk</a> to fight breast cancer. It'll be happening in July, and as it's a fundraising walk, I need to raise a certain amount of money in order to just participate. I'm not quite halfway there, yet.<br />
+<br />
+The Walk is quite a challenge for me in other ways. I am not what you would call a petite woman, and I want and need to get into better health. When I started training for The Walk, I also discovered some really nasty problems that I didn't know I had involving my leg muscles. Weeks of physical therapy and chiropractic work have gotten me almost to the point where I can walk longer distances like a normal person.<br />
+<br />
+So, with participating in The Walk as my goal, I've not only raised almost $1000 for breast cancer research, I've also gotten healthier and happier myself. I'd like to see this through to the end, though. And to do that, I need a <em>bit</em> more money in donations to the 3-Day.<br />
+<br />
+To use a tactic that PBS stations always use... I need 78 people to give $15... or 39 people to give $30... or 20 people to give $60... It's not so overwhelming that way. I know I've got well over 78 readers, and all but the most broke have $15 to spare for a worthy cause like breast cancer research.<br />
+<br />
+I'm also considering doing some kind of "raffle". Like, say, donate $15 and send me an e-mail and I'll enter you in a drawing for some kind of prize pack of good comic books I pull together. My only problem with that is pulling together a good prize pack with no money to work with. I also wonder if I should let people who donate more than $15 get multiple entries... and I'd definitely let anyone who has already donated participate if they want. I have to think that one through, but if anyone is interested, post in the comments section with helpful suggestions.<br />
+<br />
+Ha. That'll tell me if anyone actually reads these begging posts.<br />
+<br />
+In any case, if you have the money to spare, please donate. It goes to a worthy cause. I also got the deadlines for donations from my 3-Day coach: "Mailed-in donations must be postmarked by June 14th to ensure they are posted to your account before the walk. Online donations should be made by July 7th."</span></p>
+<a href="http://www.the3day.org/faf/r.asp?t=4&amp;i=61814&amp;u=61814-63361410"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3daylogo.gif" title="Please Donate" data-border="0" width="176" height="192" alt="Please Donate" /></a>
+by Tegan at <a href="#111478692737780670">7:45 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/04/walk-update.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111478692737780670&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111478692737780670" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111478692737780670&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Thursday, April 28, 2005 <span id="111475534914742311"></span></p>
+<strong>Random Thoughts</strong>
+<p><span class="rss:item">Haven't been reading blogs for a few weeks, but in my catching up, I found <a href="http://johnnybacardi.blogspot.com/2005/03/happened-this-morning-upon-website-of.html">this nice post</a> from Johnny B. Thanks JB!<br />
+<br />
+Alton Brown and <a href="http://www.arcanetimes.com/images/misc_bw/zombiealton.jpg">Zombies</a>.<br />
+<br />
+Mark Evanier's <a href="http://www.newsfromme.com/archives/2005_04_27.html#009828">wrong number story</a> got me. I sat stunned for a few moments after reading it. Heh.<br />
+<br />
+My Aquaman website is <a href="http://www.netdisaster.com/go.php?mode=flood&amp;lang=en&amp;url=http://www.eskimo.com/~tegan/aqua/">flooding</a>.<br />
+<br />
+<a href="http://ask.yahoo.com/ask/20050412.html">Chocolate is good for you.</a><br />
+<br />
+Ever wondered what those "emoticons" really mean? Like ;) is obvious a wink and a smile, right? But what does ^^ mean? Well, if you are curious, <a href="http://www.sonic.net/~id/images/funny/cat_emo.jpg">look here</a>. Via <a href="http://www.livejournal.com/users/filkertom/158264.html">FilkerTom</a>.<br />
+<br />
+NASA has a <a href="http://www.nasa.gov/returntoflight/main/index.html">Return to Flight</a> page on the upcoming shuttle mission.<br />
+<br />
+<a href="http://www.mashinc.org/resources-essay-water.html">Water intoxication</a>, what it is, and why it's deadly. When I suffered from heat exhaustion as a teen, the doctors always forced me to drink salt water. Now I know why.<br />
+<br />
+Yeah, this really is a <a href="http://newsarama.com/forums/showthread.php?threadid=5759">great press release</a> from the world of comic books.<br />
+<br />
+<a href="http://www.newsfromme.com/archives/2005_04_10.html#009784">Things hotels should do differently</a>.<br />
+<br />
+Just go read <a href="http://gutterninja.com/">gutterninja</a>. Some good posts recently. I'm too lazy to link to them individually, so just read the whole blog.<br />
+<br />
+There is a <a href="http://www.museumofhoaxes.com/hoax/weblog/bigboy_graveyard/">BigBoy Graveyard</a>. Or, at least, there was one.<br />
+<br />
+<a href="http://stuarthughes.blogspot.com/">Stuart Hughes' blog</a> is hi-jacked by an irate Romanian hacker. The hacker claims to be worried about some journalists in Iraq, but actually <em>threatens</em> Hughes to make his point. While what's happening to the journalists is hideous and wrong, threatening somebody else because they don't like that you've posted on their blog without their permission is just stupidity at it's highest level. I hope the hacker is caught and punished for his threat, even as I hope the journalists in Iraq survive their ordeal.<br />
+<br />
+Larry Osterman <a href="http://blogs.msdn.com/larryosterman/archive/2005/04/21/410485.aspx">has a surreal drive</a>, then <a href="http://blogs.msdn.com/larryosterman/archive/2005/04/26/412308.aspx">a surreal moment</a>.</span></p>
+by Tegan at <a href="#111475534914742311">11:15 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/04/random-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111475534914742311&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111475534914742311" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111475534914742311&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111474126892787102"></span>
+<strong>Gas Prices</strong>
+<p><span class="rss:item">Haven't done one of these for awhile, but I noticed the lows and highs along my commute and wondered what you all are seeing out there...<br />
+<br />
+The low price along my commute in North Seattle is $2.39. The high is $2.59. The station I usually fill up at is $2.45 right now.<br />
+<br />
+What's it like where you are?<br />
+<br />
+Update: I had a massive brain fart and wrote "$1" when I meant "$2". Sheesh.</span></p>
+by Tegan at <a href="#111474126892787102">7:19 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/04/gas-prices.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111474126892787102&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111474126892787102" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111474126892787102&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Wednesday, April 27, 2005 <span id="111464656557812813"></span></p>
+<strong>Rapid Reviews - Library Books</strong>
+<p><span class="rss:item"><strong><a href="http://www.amazon.com/exec/obidos/ASIN/1582403910/theaquamanwebsit">Invincible: Perfect Strangers</a></strong>: Well... after the last, somewhat disjointed, volume, I wasn't sure what I was expecting in this one. I can tell you that it wasn't what happened, though. Wow. This volume just threw all the previous ones out the door, and went in a completely different direction. Very cool. And it makes me wonder when the next volume will be out. I want to read more. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0035.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong><a href="http://www.amazon.com/exec/obidos/ASIN/1401203558/theaquamanwebsit">The Originals</a></strong>: Wow. If you take out the swearing, this book would be 60 pages thinner. But then, what do you expect from a book about retro-futuristic motorcycle gangs? The artwork is very stylish and evokes the period, or periods, very nicely. It's both 1960s mod and whatever not-so-distant future this claims to be. The story is very basic. The old gang revenge tale in which people die and nobody learns anything. I would not recommend this to most folks, but those who like Gibbons work should be impressed with it. I'm glad I got it from the library and didn't buy it. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong><a href="http://www.amazon.com/exec/obidos/ASIN/1563899426/theaquamanwebsit">Fables: Legends in Exile</a></strong>: I'd been meaning to read this book for some time, but it took me forever to finally put it on hold at the library. Then it was another forever before I sat down to read it... inspired in part by hubby-Eric accidently spoiling part of the story for me because he thought I'd already read it. I didn't think I'd like it much. I was wrong. This is a strangely fun book. Certainly worth a peek. The first volume is all about the mystery of Rose Red's murder. Go check it out. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a></span></p>
+by Tegan at <a href="#111464656557812813">5:02 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/04/rapid-reviews-library-books.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111464656557812813&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111464656557812813" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111464656557812813&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Tuesday, April 26, 2005 <span id="111457946206392204"></span></p>
+<strong>Hitchhiker's Guide To The Galaxy</strong>
+<p><span class="rss:item">So, we saw it tonight. Preview tickets (thanks Paige!) and somebody willing to wait in line early to make sure we got in and got good seats (thanks Jim!).<br />
+<br />
+It was really good.<br />
+<br />
+Lots missing, of course. But the key notes were there, including a few in-jokes. And, like every other version of HGTTG, it had stuff that was different from the other versions and stuff that was new. It was campy enough to capture the flavor of the books/radio series/etc, and it was slick enough to appeal to a general audience.<br />
+<br />
+Definitely worth seeing. And don't leave early, as there is a bit during the credits.<br />
+<br />
+Being an Aquaman fan, I particularly liked the way the movie started. Hey, when it starts underwater, it appeals to me. And the song was good, too. Still humming it...</span></p>
+by Tegan at <a href="#111457946206392204">10:19 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/04/hitchhikers-guide-to-galaxy.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111457946206392204&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111457946206392204" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111457946206392204&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Monday, April 25, 2005 <span id="111448107640400436"></span></p>
+<strong>Girl Genius...</strong>
+<p><span class="rss:item">Don't forget to read <a href="http://www.girlgeniusonline.com/">Girl Genius</a>... and try some nice calming pie.</span></p>
+<a href="http://www.girlgeniusonline.com/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/horsepie.jpg" data-border="0" width="173" height="140" /></a>
+by Tegan at <a href="#111448107640400436">7:03 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/04/girl-genius.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111448107640400436&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111448107640400436" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111448107640400436&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Sunday, April 24, 2005 <span id="111439304302403906"></span></p>
+<strong>Sunday Audioblog</strong>
+<p><span class="rss:item">Yeah, it's still working!</span></p>
+<div class="audblog">
+<a href="http://www.audioblogger.com/media/48378/179101.mp3" class="audLink"><img src="http://www.blogblog.com/audiopost.gif" class="audImg" data-border="0" alt="this is an audio post - click to play" /></a>
+</div>
+<p>This one is about plumbing, property taxes, and walking. Oh so very exciting, I'm sure.</p>
+by Tegan at <a href="#111439304302403906">6:37 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/04/sunday-audioblog_24.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111439304302403906&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111439304302403906" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111439304302403906&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111435736358019225"></span>
+<strong>Rapid Reviews - More Manga</strong>
+<p><span class="rss:item"><strong><a href="http://www.amazon.com/exec/obidos/ASIN/1595322086/theaquamanwebsit">Planetes (Vol 4)</a></strong> by Makoto Yukimura. Wow, the action switches entirely from Hachi to the rest of the gang, and we see what's happening on Earth while Hachi is outbound for Jupiter. The war and the possible consequences make for a fascinating tale, though. I'm looking forward to seeing the finale, if I ever get a chance to see it. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong><a href="http://www.amazon.com/exec/obidos/ASIN/1569713006/theaquamanwebsit">Blade of the Immortal: Cry of the Worm</a></strong> by Hiroaki Samura. I'm still not sure what to make of this punk samurai style. It's very odd, with the same sort of gore that you see in other samurai books... but the sense of humor doesn't seem to match up for me. I still haven't figured out whether or not that's a good thing. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong><a href="http://www.amazon.com/exec/obidos/ASIN/1931514593/theaquamanwebsit">Mars (Vol 2)</a></strong> by Fuyumi Soryo. Hot biker dude goes out with shy artist. Shy artist discovers biker's deep dark secret. This one moves on nicely from the basics of the last volume. Still lots of stereotypes, but the story gets more interesting as it moves along. Rei started out as a basic punk, but the revelations in this volume flash him out and make him more interesting. This still isn't the best Manga I've read, but it works as a library read. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a></span></p>
+by Tegan at <a href="#111435736358019225">8:42 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/04/rapid-reviews-more-manga_24.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111435736358019225&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111435736358019225" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111435736358019225&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr /></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-valign="top" width="25%"><table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc">current</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://realtegan.blogspot.com/">Bloggity-Blog-Blog-Blog</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">archives</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="20050417-20050423.html">04/17/2005 - 04/23/2005</a><br />
+04/24/2005 - 04/30/2005<br />
+<a href="20050501-20050507.html">05/01/2005 - 05/07/2005</a><br />
+<br />
+<a href="2002Archive.html">2002 Archive</a><br />
+<a href="2003Archive.html">2003 Archive</a><br />
+<a href="2004Archive.html">2004 Archive</a><br />
+<a href="2005Archive.html">2005 Archive</a><br />
+</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">other</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://www.eskimo.com/~tegan/aqua/">My Aquaman Website</a><br />
+<a href="20021124-20021130.html#85318589">Why Aquaman?</a><br />
+<a href="sketch/index.html">Aquaman Sketchbook</a><br />
+<br />
+<a href="shop.html">Bookshop</a><br />
+<a href="supportsites.html">Support This Site</a><br />
+<br />
+<a href="rapidreviews.html">Rapid Reviews Index</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#B6B8FC"></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="bloggertemplate59_cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td rowspan="2" data-bgcolor="#036303"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+<td></td>
+</tr>
+</tbody>
+</table>

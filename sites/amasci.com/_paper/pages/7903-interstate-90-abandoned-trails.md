@@ -1,0 +1,78 @@
+---
+title: "Interstate 90 -- Abandoned Trails"
+source_domain: amasci.com
+source_path: ~sfox/TRAILS/i90.htm
+order: 7903
+reachable_from_entry: false
+images: 1
+internal_links: 1
+extracted: 2026-08-07T06:00:26Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Interstate 90 -- Abandoned Trails
+
+*Source page: `~sfox/TRAILS/i90.htm`*
+
+# Interstate 90 -- Abandoned Trails
+
+------------------------------------------------------------------------
+
+### <span id="Si">Mount Si (old trail</span>)
+
+The Mt. Si trail is one of the most popular in the state. This trail was built to replace the old trail, abandoned due to clearcutting. Now that the trees have grown, the old trail is in second growth forest and in good to excellent condition.
+
+*Getting there*: Start on the Little Si trail. Hike up the old gravel road, turning right on the third trail to the right. This trail has branches covering the start (to keep folks from missing the route to Little Si, I presume). The trail is steeper and shorter than the newer trail, but has softer tread and less mud. You will pass some interesting rock formations. Note that some sections are quite steep!
+
+*References*: 100 Hikes -- Mt. Si (briefly mentioned).
+
+*Surveyor: S.Fox, 1999*
+
+------------------------------------------------------------------------
+
+### <span id="crest">Cascade Crest Trail (Snoqualmie Pass Hiker Route)</span>
+
+There are several sections of the old Cascade Crest trail that were abandoned when the Pacific Crest Trail (PCT) was moved in the early to mid 1970's. One section is just north of Snoqualmie Pass.
+
+*Getting there*: Start at the PCT trailhead on the north side of Snoqualmie Pass.
+
+*Trail report*: Hike up the PCT about 100 yards until you see a trail/gravel roadbed leading off to the left. This roadbed eventually changes to a trail. The trail goes through second-growth forest with some steep and sometimes wet sections. Entering the Basin, you will encounter glorious old-growth. The first crossing of Commonwealth Creek may get your feet wet, but is quite shallow. In late summer, the creek can be crossed on a narrow log. The second crossing is a bit easier. The trail is obvious, and in good to excellent condition.
+
+After the nearly level section at the bottom of the basin, the trail switchbacks up to the Commonwealth Basin trail (quite close to its intersection with the current PCT). Continue on this maintained trail to Red Pass, where you will see a "trail abandoned" sign. Shortly after, the old trail descended down and traversed left. You can see the tread for a short distance from the pass, but it is obliterated by rock slides. This section is steep and slippery, and often with hard snow until August. Follow the gully down then left towards the base of the cliffs below Lundin Mt on the left.
+
+The practiced eye can see a route through the talus slopes. It climbs to a ridge for a couple switchbacks, where the trail becomes obvious and in good to excellent condition. ![](../SJF/HIKE/new.gif) Recent brushing by volunteers of blue huckleberry bushes has opened the trail until 1500' vertical below the pass.
+
+Keep an eye out for two rusty PCT trail markers on trees. The trail enters forest and soon becomes lost. Some ribbons show the route for a while, but this surveyor lost the trail 2000' vertical below Red Pass. Hopefully some worthy souls will reopen this route down to [Goldmyer Hot Springs](http://www.goldmyer.org), and only the section just below the pass and the difficult river crossing of Burnt Boot Creek will cause problems.
+
+*References*: 100 Hikes -- Commonwealth Basin trail (briefly mentioned), old Forest Service maps, USGS 7.5' map Snoqualmie Pass 1989 (trailhead to Commonwealth Basin only - section north of Red Pass not shown).
+
+*Surveyor: S.Fox 1999,2000*
+
+------------------------------------------------------------------------
+
+### <span id="crest_horse">Cascade Crest Trail (Snoqualmie Pass Horse Route)</span>
+
+The Cascade Crest trail over Red Pass was for hiker use. The horse folks took a different route from Snoqualmie Pass to Goldmyer Hot Springs. The trail headed towards Alpental, then up the present Snow Lake Trail to the Source Lake overlook trail. Above Source Lake, a hiker with a keen eye can spot the route up through the boulder field. It switches back up and finally heads towards the right. This passes some nice campsites. The trail is still used by climbers going up Chair Peak. Then the trail passes over a pass and heads down towards Snow Lake, meeting the Snow Lake trail quite a ways above the lake, but not quite at the high point. You'll pass under the big rock where many hikers gaze over Snow Lake. Other than the boulder field, this trail is in ex cellent condition.
+
+The route then followed the present trail around Snow Lake and down the Rock Creek trail to the Middle Fork Snoqualmie River. The Rock Creek trail is little used, but shown on the Greentrails map. An excellent loop trip could be made over the hiker and ho rse routes.
+
+*Surveyor: S.Fox, 1999*
+
+------------------------------------------------------------------------
+
+### <span id="SnoqMt">Snoqualmie Mountain</span>
+
+This trail climbs from the Alpental parking area to the summit of Snoqualmie Mountain. It is a steep trail much of the way. There is an official-looking old sign found on Cave Ridge for the junction to Guye Peak or Snoqualmie Mountain. There is also a lar ge sign partway up Snoqualmie Mountain referring to danger from avalanches.
+
+*Getting there*: The trail starts 50 feet to the right of the Snow Lake trail. Look for a pile of dirt that seems to block the trail entrance.
+
+*References:* USGS Snoqualmie Quadrangle (30' series) 1903, updated 1950 -- shows trail up to Cave Ridge. A Mountaineers map from July 1952 called "Snoqualmie Pass Region" shows this as a route, not a trail. *Surveyor: S.Fox & co., 1998*
+
+------------------------------------------------------------------------
+
+Back to [Washington Abandoned Trails](abandon.htm).
+
+------------------------------------------------------------------------
+
+[Send comments to the webmeister](mailto:sfox@eskimo.com).\
+[Webmeister's home page](http://www.eskimo.com/~sfox).

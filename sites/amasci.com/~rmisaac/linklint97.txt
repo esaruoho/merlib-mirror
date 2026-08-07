@@ -1,0 +1,22 @@
+file: linklint.txt
+date: Thu, 27 Nov 1997 23:15:12
+root: /u/u8/r/rmisaac/verify
+
+ summary.txt: summary of results
+     dir.txt: found    3 directories
+    file.txt: found  138 files
+  file_x.txt: found  138 files (cross referenced)
+  file_f.txt: found   26 files with forward links
+  remote.txt: found 1275 remote links
+remote_x.txt: found 1275 remote links (cross referenced)
+  anchor.txt: found   77 named anchors
+anchor_x.txt: found   77 named anchors (cross referenced)
+  orphan.txt: found    2 directories with orphan files/directories
+    warn.txt: Warn   138 warnings
+  warn_x.txt: Warn   138 warnings (cross referenced)
+  warn_f.txt: Warn    23 files with warnings
+   error.txt: ERROR   22 missing files
+ error_x.txt: ERROR   22 missing files (cross referenced)
+ error_f.txt: ERROR   20 files had broken links/anchors
+ error_a.txt: ERROR   13 missing named anchors
+error_ax.txt: ERROR   13 missing named anchors (cross referenced)

@@ -1,0 +1,127 @@
+C.M. Connelly: All About Work 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ All About Work 
+
+ Quick Access 
+
+ Areas of Interest | 
+ Operating Systems | 
+ Documents Available 
+
+ Looking... 
+
+ Like many people these days, I'm looking for work that would both
+be interesting and allow me to develop my skills (in writing,
+computing, graphic design, or whatever). 
+
+ Areas of Interest 
+
+ Some things I would be very interested in being
+paid to do (again) include 
+
+ Book editing 
+ Web design 
+ Web writing/content creation 
+ Technical writing 
+ Systems integration 
+ Project management 
+
+ I've worked on problems ranging from getting an application to
+print properly, to installing a new server, to redesigning a Local
+Area Network on the fly, to collecting, analyzing, and reporting on
+options for connecting a complex LAN/WAN to the Internet. 
+
+ In the process, I have discovered that I am very good at working
+with the bigger picture. I can see how smaller things fit together to
+create a whole, and determine how to coordinate work to achieve that
+goal. 
+
+ I've found that I tend to like working with people to design
+elegant solutions to problems, rather than dealing with the day-to-day
+routine of fixing existing systems. I think that I've pretty much
+conquered that world of routine tasks&#8212;if something breaks, I can
+usually fix it immediately, fix it after some research, or know who I
+can talk to to get it fixed. 
+
+ I'm also very interested in the ways in which people interact with
+computer systems and each other, and in devising systems which give
+individuals the most possible control over their environment, and the
+best possible tools to allow them to complete their work tasks. 
+
+ Operating Systems 
+
+ Having spent a great deal of time working with various operating systems, I 
+have come to some conclusions about which ones I prefer to work with, and 
+which I prefer to avoid. While Windows, in one form or another, has become 
+fairly ubiquitous, I tend to be more interested in higher-end systems, such 
+as various flavours of UNIX or NetWare, than in working directly with the 
+client systems of those servers. 
+
+ I would be most interested in working with the following operating systems, 
+in more-or-less the following order: 
+
+ UNIX
+
+ Linux (especially Debian GNU/Linux ) 
+ Mac OS X 
+ *BSD 
+ Solaris/SunOS 
+ HP-UX 
+ Irix (SGI) 
+
+ Novell NetWare 
+ Microsoft Windows 
+
+ Documents Available 
+
+ HTML Format 
+
+ HTML (you're viewing it now) provides a platform-independent way of
+sharing information. It's relatively quick to download and view, and
+provides some control over the formatting available. 
+
+ My R&eacute;sum&eacute; 
+ Summary of Experience by Position 
+ Towards an Ideal Job 
+
+ PDF Format 
+
+ Adobe has created the Portable
+Document Format (PDF), more commonly known as the Adobe
+Acrobat format, to allow people to produce high-quality portable
+documents. I have used Acrobat to create PDF versions of several of
+the more complexly formatted documents on my site. Downloading these
+files will give you a highly-readable document which includes all of
+my original formatting, as well as appearing in the typeface(s) of my
+choice. These files provide the highest-quality versions of these
+documents I can make available on the Web at this time. 
+
+ My R&eacute;sum&eacute; (153 Kb) 
+ Summary of Experience by 
+ Position (174 Kb) 
+
+ Text Format 
+
+ ASCII text is pretty much the lowest-common denominator on the
+Internet. I have the following documents available in text format,
+which is useful for e-mailing and adding into text-based database
+applications: 
+
+ My R&eacute;sum&eacute; 
+ Summary of Experience by Position 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 1:43 PM PDT, Monday, September 22, 2003; last rendered at 
+ 9:22 PM PST, Sunday, November 30, 2003 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

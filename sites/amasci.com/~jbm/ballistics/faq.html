@@ -1,0 +1,275 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+  <TITLE>
+    JBM - Ballistics - FAQ
+  </TITLE>
+  
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+
+  <STYLE TYPE="text/css">
+    BODY { BACKGROUND: #FFFFFF; COLOR: #000000 } 
+    A:LINK { COLOR: #3333FF }
+    A:VISITED { COLOR: #666699 }
+    A:ACTIVE { COLOR: #CC00FF }
+    A:HOVER { COLOR: #FF3366 }
+  </STYLE>
+
+  <LINK REL="SHORTCUT ICON" HREF="http://www.eskimo.com/~jbm/graphics/jbm.ico">
+
+</HEAD>
+
+<BODY>
+
+<CENTER>
+  <TABLE>
+    <TR>
+      <TD><A HREF="../ballistics/ballistics.html">[Ballistics]</A>
+      <TD><A HREF="../bibliography/bibliography.html">[Bibliography]</A>
+      <TD><A HREF="../downloads/downloads.html">[Downloads]</A>
+      <TD><A HREF="../index.html">[JBM]</A>
+      <TD><A HREF="../links/links.html">[Links]</A>
+      <TD><A HREF="../mpm/mpm.html">[MPM]</A>
+      <TD><A HREF="../pm/pm.html">[PM]</A>
+      <TD><A HREF="../personal/personal.html">[Personal]</A>
+      <TD><A HREF="../software/software.html">[Software]</A>
+  </TABLE>
+</CENTER>
+
+
+<HR>
+
+<H1>
+  JBM - Ballistics - FAQ
+</H1>
+
+<H2>
+  Topics
+</H2>
+
+<DL>
+  <DD>
+    <A HREF="#Ballistics">Ballistics...</A>
+  </DD>
+  <DD>
+    <A HREF="#CGI">CGI/Bugs</A>
+  </DD>
+  <DD>
+    <A HREF="#Usage">Using the programs</A>
+  </DD>
+</DL>
+
+<H2>
+  <A NAME="Ballistics">Ballistics</A>
+</H2>
+
+<P>
+  <STRONG>(Q)</STRONG>
+    <EM>Why can't I calculate BC from bullet drop at different ranges?</EM>
+  <BR>
+  <STRONG>(A)</STRONG> 
+  You can, but not very accurately.  If you look at the bullet drop for
+  two bullets, one with a BC of 0.5 and the other with a BC of 0.55, you'll
+  find that the bullet drops at 300 yards with a muzzle velocity of 3000 f/s 
+  and a 100 yard zero, are -10.9" and -10.7" respectively.  So if you can shoot
+  groups less than 0.2" at 300 yards, have at it.  Of course you'll still
+  only know the BC within about 10% (the BC calculation CGI can be as
+  accurate as 2%!).
+</P>
+
+<P>
+  <STRONG>(Q)</STRONG>
+    <EM>Why doesn't the air density change when I change the altitude?</EM>
+  <BR>
+  <STRONG>(A)</STRONG> 
+  The altitude is only used when you check "Standard conditions at
+  Altitude".  If this is not checked, the density is calculated from the
+  Temperature, Pressure and Humidity you entered.
+</P>
+
+<P>
+  <STRONG>(Q)</STRONG>
+    <EM>Where can I get the formula for these programs?</EM>
+  <BR>
+  <STRONG>(A)</STRONG> 
+  The source code to my CGI programs is now available under the
+  GNU public license -- see my downloads page.  I have also put 
+  the programs that I received from Bob McCoy in the 
+  <A HREF="../downloads/downloads.html">downloads</A>
+  page of this site.  The "formula" for the trajectory program
+  is available in various sources, including the downloads page.  It
+  does involve "numerical integration" of the equations of motion (as
+  I have implemented it...).  The Sierra Reloading manual has a 
+  section on Exterior Ballistics which provides the differential 
+  equations of motion, as does "Exterior Ballistics" and "Mathematics
+  for Exterior Ballistics".  Calculation of a trajectory also requires
+  calculation of atmospheric density as a function of temperature,
+  pressure (sometimes humidity, if you want).  I would recommend the
+  ICAO Standard Atmosphere (see 
+  <A HREF="../bibliography/misc.html">U.S. Standard Atmosphere</A> 
+  for governing equations).
+</P>
+
+<P>
+  I have recently written a <A HREF="../ballistics/equations.html">page</A> 
+  outlining certain equations.
+</P>
+
+<P>
+  <STRONG>(Q)</STRONG>
+    <EM>Can I change the drag function to a better one for my bullet?</EM>
+  <BR>
+  <STRONG>(A)</STRONG> 
+  Yes and No.  Ballistics Coefficient and Drag Function go 
+  hand in hand.  The Drag Function specifies the "standard bullet" that
+  the BC is comparing too.  You must enter the correct Drag Function of 
+  that BC.  Typically,  this is the G1.  There are however some 
+  manufacturers that specify different BCs using different drag functions 
+  because the force on the bullet is modeled better with the different 
+  drag function. (For instance, Berger uses the G7 for some of it's VLD 
+  bullets.)
+</P>
+
+<P>
+  <STRONG>(Q)</STRONG>
+    <EM>How is the energy calculated?</EM>
+  <BR>
+  <STRONG>(A)</STRONG> 
+  Energy listed in the trajectory calculations is the kinetic
+  energy of the bullet.  This is discussed more in depth on the 
+  <A HREF="energy.html">Equations - Energy</A> page.
+</P>
+
+<H2>
+  <A NAME="CGI">CGI/Bugs</A>
+</H2>
+
+<P>
+  <STRONG>(Q)</STRONG>
+    <EM>Have I found a bug?</EM>
+  <BR>
+  <STRONG>(A)</STRONG> 
+  Possibly.  I would recommend that you recheck your numbers on
+  the data page and ensure you are calculating what you think you are.  
+  If you still can't see the problem, let 
+  <A HREF="mailto:jbm@eskimo.com">me</A> know.
+</P>
+
+<P>
+  <STRONG>(Q)</STRONG>
+    <EM>The requested URL /cgi-bin/jbm/jbmtraj was not found on this server</EM>
+  <BR>
+  <STRONG>(A)</STRONG> 
+  My ISP recently changed domain names.  Although I believe it is supposed
+  to work with the old addresses (roadrunner.com and lascruces.com) it 
+  appears to only work with the newest address: 
+  <A HREF="http://www.eskimo.com/~jbm">http://www.eskimo.com/~jbm </A>.
+</P>
+
+<P>
+  <STRONG>(Q)</STRONG>
+    <EM>What are the programs written in?</EM>
+  <BR>
+  <STRONG>(A)</STRONG> 
+  All of the on-line calculations are written in C and compiled
+  with gcc (GNU C Compiler).  Most of the calculations are math intensive 
+  and require numerical integration.  This (in my opinion) makes any non-compiled 
+  language unsuitable for this kind of CGI.
+</P>
+
+<P>
+  <STRONG>(Q)</STRONG>
+    <EM>Can I have a copy of your programs?</EM>
+  <BR>
+  <STRONG>(A)</STRONG> 
+  Yes and No.  The on-line CGI programs have been GPL'd and are
+  freely available for download from my "Downloads" page.  The 
+  MPM program, I have not released publicly (source code that is).
+  I may again write ballistics programs for commercial use
+  and therefore don't really want to give away my MPM source code.
+  Besides, you'll learn much more doing it yourself.  (Now, if
+  you want to buy it, that's a different story...)
+</P>
+
+<H2>
+  <A NAME="Usage">Using the programs</A>
+</H2>
+
+<P>
+  <STRONG>(Q)</STRONG>
+    <EM>Where can I get an explanation of the terms used 
+        in your calculations?</EM>
+  <BR>
+  <STRONG>(A)</STRONG> 
+  At the top of each data page (the left side) are instructions 
+  for the particular calculation.  Directly under the instructions paragraph 
+  is a link to an explanation of terms used in the input and output of the 
+  particular calculation.
+</P>
+
+<P>
+  <STRONG>(Q)</STRONG>
+    <EM>Why doesn't the text print?</EM>
+  <BR>
+  <STRONG>(A)</STRONG> 
+  The output of the programs has white lettering on a dark 
+  background.  Printing white lettering on white paper will result in 
+  nothing being printed.  To fix this, configure your browser to print 
+  black text.  (Netscape users can configure this from the 
+  <EM>Page Setup</EM> dialog opened from <EM>File | Page Setup</EM> menu 
+  command.)  NOTE:  I've changed to a white background and this shouldn't
+  even be an issue anymore.
+</P>
+
+<P>
+  <STRONG>(Q)</STRONG>
+    <EM>Why are my input numbers different in the output?</EM>
+  <BR>
+  <STRONG>(A)</STRONG> 
+  Each input value has a certain allowed range.  This range is
+  given above each input on the data page (the left page in the frame).  
+  The following line above the muzzle velocity input shows the name of 
+  the variable with a minimum value of 500 ft/sec and a maximum value of 
+  4500 ft/sec.
+</P>
+
+<TABLE WIDTH="100%">
+  <TR ALIGN="CENTER">
+    <TD>
+      Muzzle Velocity (500 to 4500 ft/sec) [3000.0]
+</TABLE>
+
+<P>
+  If the value falls outside this range, it is set to the default value
+  shown in brackets.  Note the units are also given for the value.
+</P>
+
+<P>
+  <STRONG>(Q)</STRONG>
+    <EM>How important is the measurement of sight height and offset?</EM>
+  <BR>
+  <STRONG>(A)</STRONG> 
+  Not very.  At longer ranges it can add a few inches of error.  Measuring with
+  a ruler is certainly accurate enough.
+</P>
+
+<HR>
+
+<TABLE WIDTH="100%">
+  <TR ALIGN="RIGHT">
+    <TD ALIGN="RIGHT">
+      <SMALL>
+        Last update 4 August 2004, Copyright &copy; 1996-2004
+        <A HREF="mailto:jbm@eskimo.com">JBM</A>
+        <A HREF="http://www.htmlhelp.com/cgi-bin/validate.cgi?url=referer&amp;input=yes">[V]</A>
+      </SMALL>
+</TABLE>
+
+
+</BODY>
+</HTML>
+
+
+

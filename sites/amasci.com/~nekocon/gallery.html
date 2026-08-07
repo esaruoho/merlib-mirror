@@ -1,0 +1,593 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<SCRIPT LANGUAGE = "JavaScript1.1">
+
+//* script by Apiradee *
+//added up to btn 16 value
+
+btn1val= 0;
+btn2val = 2;
+btn3val = 4;
+btn4val = 6;
+btn5val = 8;
+btn6val = 10;
+btn7val = 12;
+btn8val = 14;
+btn9val = 16;
+btn10val = 18;
+btn11val = 20;
+btn12val = 22;
+btn13val = 24;
+btn14val = 26;
+btn15val = 28;
+btn16val = 30;
+btn17val = 32;
+btn18val = 34;
+btn19val = 36;
+btn20val = 38;
+btn21val = 40;
+images = new Array(34);
+for(i=0;i<34;i++)
+{
+	images[i] = new Image();
+}
+images[0].src = "sidebar/rola000.gif";
+images[1].src = "sidebar/rolb000.gif";
+images[2].src = "sidebar/rola001.gif";
+images[3].src = "sidebar/rolb001.gif";
+images[4].src = "sidebar/rola002.gif";
+images[5].src = "sidebar/rolb002.gif";
+images[6].src = "sidebar/rola003.gif";
+images[7].src = "sidebar/rolb003.gif";
+images[8].src = "sidebar/rola004.gif";
+images[9].src = "sidebar/rolb004.gif";
+images[10].src = "sidebar/rola005.gif";
+images[11].src = "sidebar/rolb005.gif";
+images[12].src = "sidebar/rola006.gif";
+images[13].src = "sidebar/rolb006.gif";
+images[14].src = "sidebar/rola007.gif";
+images[15].src = "sidebar/rolb007.gif";
+images[16].src = "sidebar/rola008.gif";
+images[17].src = "sidebar/rolb008.gif";
+images[18].src = "sidebar/rola009.gif";
+images[19].src = "sidebar/rolb009.gif";
+images[20].src = "sidebar/rola010.gif";
+images[21].src = "sidebar/rolb010.gif";
+images[22].src = "sidebar/rola011.gif";
+images[23].src = "sidebar/rolb011.gif";
+images[24].src = "sidebar/rola012.gif";
+images[25].src = "sidebar/rolb012.gif";
+images[26].src = "sidebar/rola013.gif";
+images[27].src = "sidebar/rolb013.gif";
+images[28].src = "sidebar/rola014.gif";
+images[29].src = "sidebar/rolb014.gif";
+images[30].src = "sidebar/rola015.gif";
+images[31].src = "sidebar/rolb015.gif";
+images[32].src = "sidebar/rola016.gif";
+images[33].src = "sidebar/rolb016.gif";
+// 20 images for 10 buttons
+
+function out(butnam,butval)
+{
+	
+	document[butnam].src = images[butval].src;
+
+}
+function over(butnam,butval)
+{
+
+	document[butnam].src = images[butval + 1].src;
+
+}
+
+</SCRIPT>
+
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Larry Drews">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en] (Win98; I) [Netscape]">
+   <title>Nekocon 3 Artist Galley</title>
+</head>
+<BODY MARGINWIDTH=0 MARGINHEIGHT=0 LEFTMARGIN=0 TOPMARGIN=0>
+<!--Main Table-->
+<TABLE WIDTH=717 BORDER="0" cellpadding="0" cellspacing="0" valign="top" align="left">
+
+<!-- Side Bar Table -->
+
+<!-- TOP BAR -->
+    <table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="717">
+    <td VALIGN=TOP width=717><img SRC="sidebar/neo000.gif" BORDER=0></td>
+    </tr>
+    </table>
+
+<!-- Bar and Buttons -->
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="717">
+<tr>
+<td VALIGN=TOP WIDTH="9" BACKGROUND="sidebar/neo2004.gif">
+<center><img SRC="sidebar/clear.gif" height=10 width=9></center>
+</td>
+<td VALIGN=TOP WIDTH="100" BACKGROUND="sidebar/blubg.jpg">
+
+<!-- java buttons  -->
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100" >
+<td align=center>
+<A HREF="index.html" onMouseOver="over('btn1',btn1val );" onMouseOut="out('btn1',btn1val);">
+<IMG SRC="sidebar/rola000.gif" NAME="btn1" NOSAVE width=100 height=25 border=0 alt='Front Page'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="guest.html" onMouseOver="over('btn2',btn2val );" onMouseOut="out('btn2',btn2val);">
+<IMG SRC="sidebar/rola001.gif" NAME="btn2" NOSAVE width=100 height=25 border=0 alt='The NekoCon Guest List'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="dealer.html" onMouseOver="over('btn3',btn3val );" onMouseOut="out('btn3',btn3val);">
+<IMG SRC="sidebar/rola002.gif" NAME="btn3" NOSAVE width=100 height=25 border=0 alt='Dealer Room Information'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="hotel.html" onMouseOver="over('btn4',btn4val );" onMouseOut="out('btn4',btn4val);">
+<IMG SRC="sidebar/rola003.gif" NAME="btn4" NOSAVE width=100 height=25 border=0 alt='Hotel, Travel and Local Information'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="general.html" onMouseOver="over('btn5',btn5val );" onMouseOut="out('btn5',btn5val);">
+<IMG SRC="sidebar/rola004.gif" NAME="btn5" NOSAVE width=100 height=25 border=0 alt='Registration, Mailing and Internet Info'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="prog.html" onMouseOver="over('btn6',btn6val );" onMouseOut="out('btn6',btn6val);">
+<IMG SRC="sidebar/rola005.gif" NAME="btn6" NOSAVE width=100 height=25 border=0 alt="What's Going on at the Con"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="amvcontest.html" onMouseOver="over('btn7',btn7val );" onMouseOut="out('btn7',btn7val);">
+<IMG SRC="sidebar/rola006.gif" NAME="btn7" NOSAVE width=100 height=25 border=0 alt='Anime Music Video Contest Rules'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="cosplay.html" onMouseOver="over('btn8',btn8val );" onMouseOut="out('btn8',btn8val);">
+<IMG SRC="sidebar/rola007.gif" NAME="btn8" NOSAVE width=100 height=25 border=0 alt="Cosplay Rules and Info"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="dnloads.html" onMouseOver="over('btn9',btn9val );" onMouseOut="out('btn9',btn9val);">
+<IMG SRC="sidebar/rola008.gif" NAME="btn9" NOSAVE width=100 height=25 border=0 alt="Forms for Download"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="ads.html" onMouseOver="over('btn10',btn10val );" onMouseOut="out('btn10',btn10val);">
+<IMG SRC="sidebar/rola009.gif" NAME="btn10" NOSAVE width=100 height=25 border=0 alt="Advertising"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="vol.html" onMouseOver="over('btn11',btn11val );" onMouseOut="out('btn11',btn11val);">
+<IMG SRC="sidebar/rola010.gif" NAME="btn11" NOSAVE width=100 height=25 border=0 alt='Help run the con'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="art.html" onMouseOver="over('btn12',btn12val );" onMouseOut="out('btn12',btn12val);">
+<IMG SRC="sidebar/rola011.gif" NAME="btn12" NOSAVE width=100 height=25 border=0  alt="Art Show Rules"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="contacts.html" onMouseOver="over('btn13',btn13val );" onMouseOut="out('btn13',btn13val);">
+<IMG SRC="sidebar/rola012.gif" NAME="btn13" NOSAVE width=100 height=25 border=0  alt="Get in touch with us"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="t-shirts.html" onMouseOver="over('btn14',btn14val );" onMouseOut="out('btn14',btn14val);">
+<IMG SRC="sidebar/rola013.gif" NAME="btn14" NOSAVE width=100 height=25 border=0 alt="T-shirts"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="gallery.html" onMouseOver="over('btn15',btn15val );" onMouseOut="out('btn15',btn15val);">
+<IMG SRC="sidebar/rola014.gif" NAME="btn15" NOSAVE width=100 height=25 border=0 alt="NekoCon Art Gallery"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="link.html" onMouseOver="over('btn16',btn16val );" onMouseOut="out('btn16',btn16val);">
+<IMG SRC="sidebar/rola015.gif" NAME="btn16" NOSAVE width=100 height=25 border=0 alt="Links"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="News.html" onMouseOver="over('btn17',btn17val );" onMouseOut="out('btn17',btn17val);">
+<IMG SRC="sidebar/rola016.gif" NAME="btn17" NOSAVE width=100 height=25 border=0 alt="News, Web Updates"></A>
+</td>
+</table>
+
+
+
+
+
+<td VALIGN=TOP WIDTH="13" BACKGROUND="sidebar/neo2006.gif">
+<center><img SRC="sidebar/clear.gif" height=10 width=13></center>
+</td>
+<!-- end java buttons  -->
+</td>
+
+
+<td valign=top WIDTH="575">
+
+<TABLE align=center BORDER=0 WIDTH="575">
+<TR>
+<TD>
+
+
+<!-- Begin Main Body Insertion Point -->
+
+<table BORDER=0 CELLSPACING=0 CELLPADDING=3 COLS=1 WIDTH="540" >
+<tr VALIGN=TOP>
+<td VALIGN=TOP WIDTH="150"><font color="#000000"></font>
+<table BORDER=0 CELLSPACING=2 CELLPADDING=2 WIDTH="540" >
+<tr VALIGN=TOP>
+<td VALIGN=TOP WIDTH="330">
+
+<h2>Pardon the mess, Page is still under development</h2>
+
+<font face="Arial,Helvetica"><font color="#000000"><font size=-1>When
+Neko-Con was founded 1997 one of our guest, Scott Frazier, asked if he
+could design our mascot. Like we were going to say no?</font></font></font><font color="#000000"></font>
+<p><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Since
+then a regular flow of art work and images has poured into our email and
+post office box.  Some of the artwork is from the guests of Neko-Con.
+But a majority of the original art work that we have received comes
+from the attendees of Neko-Con, and fans of our mascot Reiko-chan.
+And so we have dedicated a section of our webite to the art of Reiko-chan.</font></font></font><font color="#000000"></font>
+<p><font face="Arial,Helvetica"><font color="#000000"><font size=-1>To
+keep the loading speed of this page down, we refrain from using thumbnail
+images. Sections are setup by individual artists&nbsp; Some have contributed
+a little, some a lot. We've also listed thier websites so you can see what
+other work these talentes individuals have created..&nbsp; If you see your
+name and art listed, but not your web page. Let us know and we'll fix it
+ASAP.</font></font></font>
+<br>
+<hr WIDTH="100%"></td>
+
+<td VALIGN=TOP WIDTH="180"><font color="#000000"></font>
+<table BORDER=3 CELLSPACING=3 CELLPADDING=3 WIDTH="196" >
+<tr VALIGN=TOP>
+<td>
+<center><img SRC="Scott.jpg" BORDER=0 height=220 width=180></center>
+</td>
+</tr>
+</table>
+
+<center><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Original
+Artwork by Scott Frazier</font></font></font></center>
+</td>
+</tr>
+</table>
+<font color="#000000"></font>
+<table BORDER=0 CELLSPACING=2 COLS=2 WIDTH="535" >
+<tr VALIGN=TOP>
+<td WIDTH="120"><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Scott
+Frazier</font></font></font></b></td>
+
+<td WIDTH="410">
+<div align=right><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="http://www.catgirl.net">www.catgirl.net</a></font></font></font></b></div>
+</td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/kitty.html">First
+Concept Image of Reiko-chan</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/scott3.html">Reiko
+in a formal Autumn Kimono</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/scott2.html">Cheering
+Reiko-chan</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/Cover.html">Neko-Con
+R Program Book Cover</a></font></font></font></td>
+</tr>
+
+<tr>
+<td VALIGN=TOP><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Hiroyuki
+Kitazume</font></font></font></b></td>
+
+<td><font color="#000000"></font></td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/Tallpost.html">Image
+of Reiko-chan&nbsp; by Neko-Con Ichi's GOH</a></font></font></font></td>
+</tr>
+
+<tr VALIGN=TOP>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Robert
+DeJesus</font></font></font></b></td>
+
+<td>
+<div align=right><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="http://www.icongroup.com/~banzai">www.icongroup.com/~banzai</a></font></font></font></b></div>
+</td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/Catbot.html">Neko-Fighter!</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/bobcover.html">Neko-Con
+Ichi Program Book Cover</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/bioimage.html">Neko
+Chibi Banzai-chan!</a></font></font></font></td>
+</tr>
+
+<tr>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Danny
+Valentini</font></font></font></b></td>
+
+<td>
+<div align=right><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="http://www.icongroup.com/~banzai">www.angelfire.com/va/2wc</a></font></font></font></b></div>
+</td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/Shorty.html">Neko-Con-R
+Pre-Reg Badge Image</a></font></font></font></td>
+</tr>
+
+<tr VALIGN=TOP>
+<td WIDTH="150"><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>James
+Schadd</font></font></font></b></td>
+
+<td><div align=right><font color="#000000"><b><font face="Arial,Helvetica"><font size=-1><font color="#000000">
+<a href="http://www.access.digex.net/~jeschaad/sterling/">www.access.digex.net/~jeschaad/sterling/</a></b></font>
+</font></td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/3nekos.html">Various
+Reiko Images 1</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/nekodance.html">Various
+Reiko Images 2</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/reiko1.html">Beach
+Reiko</a></font></font></font></td>
+</tr>
+
+<tr>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>James
+Dawsey</font></font></font></b></td>
+
+<td><font color="#000000"></font></td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/reiko2.html">Rock'nRoll
+Reiko</a></font></font></font></td>
+</tr>
+
+<tr>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>John
+Barrett</font></font></font></b></td>
+
+<td><font color="#000000"></font></td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/Reiko-jb.html">The
+Big Thumbs Up!</a></font></font></font></td>
+</tr>
+
+<tr>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Kenichi
+Lowe</font></font></font></b></td>
+
+<td><font color="#000000"></font></td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/reiko4.html">Reiko-Chan
+loaded up on Catnip</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/Reiko5.html">Hip-Hop
+Reiko</a></font></font></font></td>
+</tr>
+
+<tr VALIGN=TOP>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Meg
+Porter</font></font></font></b></td>
+
+<td><font color="#000000"></font></td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/neko1.html">Chibi
+Reiko!</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/neko2.html">Chow
+Time!</a></font></font></font></td>
+</tr>
+
+<tr>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Jamie
+Godley</font></font></font></b></td>
+
+<td><font color="#000000"></font></td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/StaffFront.html">Neko-Con
+R Staff T-shirt Design</a></font></font></font></td>
+</tr>
+
+<tr>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Heather
+McCullom</font></font></font></b></td>
+
+<td WIDTH="385"><font color="#000000"></font></td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/nekoyarn.html">A
+cat girl and her ball of yarn</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/sailorneko.html">Sailor
+Neko</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/nekoback.html">Casual
+Reiko-Chan</a></font></font></font></td>
+</tr>
+
+<tr>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Mark
+Mandolia</font></font></font></b></td>
+
+<td>
+<div align=right><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="http://www.icongroup.com/~banzai">www.denizens.com</a></font></font></font></b></div>
+</td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/Chibineko-mm.html">Cat
+Girl with Hyper-D Mallet</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/NWOfront.html">Neko
+World Order Shirt design for Neko-Con Ichi</a></font></font></font></td>
+</tr>
+
+<tr>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Elizabeth
+Kirkindall</font></font></font></b></td>
+
+<td>
+<div align=right><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="http://www.big-big-truck.com">www.big-big-truck.com</a></font></font></font></b></div>
+</td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/Staff2.html">NekoCon-R
+Staff Badge Image</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/neko-scifi2.html">Reiko-Chan
+does Old School Anime</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/neko-fukucolor.html">Ready
+for School Reiko-chan</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/neko-singercolor.html">Reiko-Chan
+as a Pop Idol</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/neko-kimonocolor.html">Reiko-Chan
+ready for the Spring Festival</a></font></font></font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/neko-fantasy.html">Fantasy
+Reiko-chan</a></font></font></font></td>
+</tr>
+
+<tr>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Larry
+Drews</font></font></font></b></td>
+
+<td><font color="#000000"></font></td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/sakura.html">Reiko
+in a Spring Kimono</a></font></font></font></td>
+</tr>
+
+<tr>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Deidre
+McClintock</font></font></font></b></td>
+
+<td><font color="#000000"></font></td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/nekocuddle.html">Reiko,
+and her favorite plushie</a></font></font></font></td>
+</tr>
+
+<tr>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Gabriel
+Lamberty</font></font></font></b></td>
+
+<td><font color="#000000"></font></td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/neko.html">Reiko-chan's
+"busting out" all over</a></font></font></font></td>
+</tr>
+
+<tr>
+<td><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Jeff
+Howerton</font></font></font></b></td>
+
+<td><font color="#000000"></font></td>
+</tr>
+
+<tr>
+<td><font color="#000000"></font></td>
+
+<td><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="art/NekoR2.html">Punk
+Rock Reiko!</a></font></font></font></td>
+</tr>
+</table>
+
+<hr WIDTH="100%">
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1>If
+you wish to submit art work here are some basic guidelines you should follow.</font></font></font><font color="#000000"></font>
+<p><font color="#000000">Hand Drawn</font>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1>1.
+If you send us original art. Make a copy of it.</font></font></font><font color="#000000"></font>
+<p><font face="Arial,Helvetica"><font color="#000000"><font size=-1>2.
+Mail your art in large enevlopes. Don't fold it. place it between backing
+boards in the envelope.&nbsp; It will deter the evil postal workers from
+folding it ruining it.</font></font></font><font color="#000000"></font>
+<p><font face="Arial,Helvetica"><font color="#000000"><font size=-1>3.
+Electronic Images are best sent to us in 72dpi, 75dpi or 150dpi. JPEG should
+be saved in the best quality.</font></font></font><font color="#000000"></font>
+<p><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Reiko-chan
+2000 Neko-Con and Chibi Neko Entertainment. All images on this page are
+the property of Neko-Con.&nbsp; Original artist may retain reproduction
+rights. Any artwork donated to, or commisioned by Neko-Con becomes the
+property of Neko-Con</font></font></font></td>
+
+<!-- End Main Body Insertion Point -->
+</TD>
+</TR>
+</TABLE>
+<center>
+<hr size=3 width=75%>
+<font size=-1>
+Neko-Con 3 and the contents of this page &copy;2000 Chibi Neko Entertainment, L.L.C.<br>
+Please send comments to the sites <a href="mailto:admin@nekocon.org">webmaster</a>
+</font>
+<hr size=3 width=75%>
+</center>
+</td>
+</tr>
+</table>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

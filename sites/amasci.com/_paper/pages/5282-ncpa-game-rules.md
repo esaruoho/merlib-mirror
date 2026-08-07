@@ -1,0 +1,394 @@
+---
+title: "NCPA Game Rules"
+source_domain: amasci.com
+source_path: ~ncpa/gamerules.html
+order: 5282
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:58:15Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# NCPA Game Rules
+
+*Source page: `~ncpa/gamerules.html`*
+
+<table data-border="0" data-cellspacing="10">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><h1 id="rough-draft-of-ncpa-game-rules">Rough draft of NCPA Game Rules</h1>
+1.0 Field Standards
+<ul>
+<li>1.0.1 All Game fields shall be free from anything that would pose an unnecessary risk to players, including cliffs, areas with jagged rocks, etc.</li>
+<li>1.0.2 Both players and judges should be able to move freely on game fields, and game fields should not contain significant wet or swamp areas, dense undergrowth or other obstacles that impede free movement.</li>
+<li>1.0.3 All field borders will be free of doglegs, and no section of border will be constructed in such a manner that allows players to shoot over a boundary and back onto the playing field.</li>
+<li>1.0.4 Fields will consist of three flag stations, two team flag stations at either end of the field and a center flag station at midfield. The center flag will be placed in such a manner as to assure that equally fast players can reach the center flag station from either team's flag station in the same amount of time as well as have equal ability to pull the flag or to be eliminated. </li>
+<li>1.0.5 Taking into account terrain, cover, ability to move, fire lanes and topography, game fields shall be balanced so that the better and more talented of two teams will usually win starting the game from either team flag station.</li>
+<li>1.0.6 Fields shall be approx. 100 to 240 feet wide and 150 to 450 feet long and contain suitable bunkers for 5 man play.</li>
+</ul>
+1.1 Field staffing
+<ul>
+<li>1.1.0 Each game field shall be staffed by a minimum of 6 field judges (including the head field judge). Judges shall be spread evenly over the whole field. An ultimate judge shall have jurisdiction over all fields and grounds; a head judge will have jurisdiction over his field only and will be subject to the ultimate judge's ruling. </li>
+<li>1.1.1 Only judges authorized by the head judge of a field may actually make calls on that field.</li>
+<li>1.1.2 One time keeper shall be designated by the head judge. This judge will have sole authority to start the game, the countdown or to call the end of the game on account of time.</li>
+<li>1.1.3 The ultimate judge has full and sole authority. He may act as a judge on the field, or in any other capacity he deems appropriate, and shall have final authority over all calls, rulings and interpretations. </li>
+</ul>
+2.0 Standards
+<ul>
+<li>2.0.1 All judges shall be thoroughly familiar with the rules and regulations contained herein and shall put forth their best efforts in discharging their duties as judges. </li>
+<li>2.0.2 All judges shall perform their obligations and shall make decisions in a totally unbiased manner. If any judge is found to have been bias in his judging activities for or against any team, such person shall be dropped from the judging team for the remainder of the tournament.</li>
+<li>2.0.3 Radios will be used by the judging staff if available for communication with each other. </li>
+<li>2.0.4 Judges will wear clothing of bright colors that will distinguish the judges from the players. Head and ultimate judges will wear additional markings that readily indicate their status on the game field.</li>
+<li>2.0.5 Clerical or mathematical errors may be corrected at any time prior the beginning of play which involves a team advancing (or de-advancing) to another bracket.</li>
+<li>2.0.6 Starting flag stations for preliminary, semi-finals and final rounds will be determined by coin toss prior to the start of the game.</li>
+<li>2.0.7 Judges will not provide information to teams regarding the location of flag stations, terrain, boundaries, game time or progress of a game during the game, except with respect to safety concerns.</li>
+<li>2.0.8 Judges will not, through action or inaction, deliberately reveal or conceal the locations or actions of players during the course of a game. Judges will not impede the progress of the game, nor will the judge take any unnecessary action to reveal or hinder a player in determining that players status.</li>
+</ul>
+2.1 Brackets
+<ul>
+<li>2.1.1 Brackets will be used when enough teams participate for teams in each bracket to play the minimum number of games.</li>
+<li>2.1.2 The number of teams in any bracket may not be more than one fewer or one greater than the number of teams in any other bracket in that round.</li>
+<li>2.1.3 Teams from the same school will not be placed into the same bracket, but if the same school has more teams than brackets, prior to brackets being drawn, they may select exactly two of their teams to be placed in different brackets.</li>
+<li>2.1.4 There shall be no more than four brackets. If there are more than 32 teams in a round, each team will only play six other teams in their bracket in that round.</li>
+<li>2.1.5 If the event has a Junior Varsity division, Junior Varsity teams will play only in Junior Varsity brackets.</li>
+</ul>
+2.2 Finals
+<ul>
+<li>2.2.1 The teams receiving the top two scores in each bracket advance to finals.</li>
+<li>2.2.2 Varsity and Junior Varsity teams shall have separate finals.</li>
+</ul>
+<p><br />
+2.2 Game controls</p>
+<ul>
+<li>2.2.1 In the event of an emergency situation, the judge discovering the emergency will request that all judges stay off the radios. Other judges on the field will immediately cause all action to stop. The game will also be halted for the duration of the emergency.</li>
+</ul>
+3.0 Scoring
+<ul>
+<li>3.0.1 Scoring for the game will be conducted on a 100 point system and will be awarded as follows.
+<ul>
+<li>3.0.1.a. Flag hang is 50 points</li>
+<li>3.0.1.b. First flag pull is 20 points</li>
+<li>3.0.1.c. Flag in transit, not hung, and in possession of a live player at game end is 15 points</li>
+<li>3.0.1.d. Elimination's are 4 points per player</li>
+<li>3.0.1.e. Live players are 2 points each.</li>
+</ul></li>
+<li>3.0.2 Elimination points will be awarded to the opposing team for every opponent removed from the field during play. A player may be removed from the field for any valid hit, for surrendering or exiting the field, any erroneous elimination by an official, any elimination for penalties assessed against a teammate, for placing any part of his body or anything he is wearing or carrying out of bounds, unsportsmanlike conduct, concealment of an armband or acting in any manner indicating elimination, abandonment of equipment (moving at least 5 feet away from such equipment), (except pods used to carry extra paint), being out of the flag station at the start of the game, or delaying taking the field after being told to do so by the head judge. A player will be signaled as eliminated by removing his armband, placing his marker above his head, placing a barrel plug or other safety device onto his gun, placing his hand on his head, or verbally signaling his elimination.</li>
+<li>3.0.3 A first flag pull occurs when a player not eliminated physically grabs the flag before a player from the other teams manages to do the same and is not eliminated in the process of pulling the flag. A flag pull may not be awarded until a judge can verify that the player has not been marked.</li>
+<li>3.0.4 Flag hang points are awarded when a player breaks the plane of a flag station with a flag. Flag hangs may be awarded in conjunction with or independently of first flag pulls. Flag hangs may be awarded to the team that is not in possession of the flag when it is hung since it is the flag hang and the station that it is hung in that determines the points awarded and to whom. Flag hangs will not be immediately awarded upon the flag breaking the boundary planed of a flag station as the status of the flag carrying player will first be verified before a flag hang is considered to be official. Hangs made after the timekeepers announcement of time will not be considered hangs.</li>
+<li>3.0.5 Hits occurring after the end of the game will or hits from a removed player will not count as eliminations.</li>
+</ul>
+3.1 Time and start
+<ul>
+<li>3.1.1 Each team is expected to report to the chrono station for the applicable game field at least 10 minutes prior to the scheduled start of the game.</li>
+<li>3.1.2 Players who have passed the chronograph will be stationed in a controlled area adjacent to the chronograph area. This area will be supervised by a judge or other tournament official. Players in this area may not be handed guns or tools. Players may leave this area to enter the playing field, or may leave this area with their gun and be rechronod in upon reentering. Players may not leave their gear unattended in the staging area.</li>
+<li>3.1.3 Players are responsible for removing old hits or bringing the same to the attention of a field judge so that it may be dealt with in a manner that would not result in it resulting in an elimination of a player.</li>
+<li>3.1.4 Players are not allowed to bring tools or other prohibited equipment onto the game field. Presence of such equipment will result in a penalty and disciplinary proceedings against the offending player and/or team. </li>
+<li>3.1.5 Each player will be given an armband in a distinctive team color and will wear the same on his left arm in plain, unconcealed view. </li>
+<li>3.1.6 Players must be standing with one foot within or touching the flag station at the start of the game, with their bodies and heads away from the opposing team and their barrels pointed to the rear of the field or breaking the plane of the flag station.</li>
+<li>3.1.7 The timekeeping Judge on the field will begin a game by giving a 10 second warning so that each team may hear clearly such warning. The timekeeping judge will give such warning with a countdown of "three, two, one, 10 seconds". Thereafter, the game will start by the timekeeper judge shouting so that each team may hear, by radio or otherwise either "Game on" or "Go, go, go." A whistle or horn may be substituted for a verbal start.</li>
+</ul>
+3.2 Chronographing
+<ul>
+<li>3.2.1 Only radar chronographs will be used for official game chronographs.</li>
+<li>3.2.2 Multiple chronographs may be designated for each playing field so that in the event that a chronograph is not working one which was available to the teams can be substituted.</li>
+<li>3.2.3 The chrono judge will take a marker from a player, inspect it and assure that the presence of foreign matter in the barrel, feed port or loader; that screws, the barrel, tank and other working parts which can increase or decrease velocity are tight; that any valves, expansion chambers or levers which can be turned on or off are in their maximum air flow positions; and that there are no external velocity adjusters which are not covered or fixed in place or any other device, part or item which would enable a player to increase the muzzle velocity of the marker on the game field without resorting to the use of tools present on the marker. He will also ascertain that markers capable of turbo, burst, full auto or other modes of enhanced fire have had those modes disabled in such a manner that they may not be reenabled without the use of tools.</li>
+<li>3.2.4 Players whose markers do not pass such inspection will be informed and will be given an opportunity to remedy the situation, time permitting.</li>
+<li>3.2.5 An equal number of players from each team shall have their markers chronographed immediately following each game.</li>
+<li>3.2.6 Players shall not discharge, disassemble, or power-toggle their markers prior to post-game chronographing.</li>
+<li>3.2.7 Each chosen player will shoot 1 clearing shot, then a string of 3 shots. The fps velocity of the three shots will be totaled, and a 1 point penalty shall be assessed to the offending player's team for each fps the total is in excess of 900. A team may lose no more than fifty (50) points per offending player per game.</li>
+<li>3.2.8 Each team will be assessed a 50 point penalty for each player refusing to have their marker chronographed.</li>
+</ul>
+3.3 Armbands
+<ul>
+<li>3.3.1 Armbands must be at least 2 inches in width and long enough to fit around the upper arm and constructed so that they are adjustable in length and can be firmly affixed to the arm.</li>
+<li>3.3.2 The sets of arm bands will be of contrasting colors as to be easily distinguishable and distinct from other official colors.</li>
+<li>3.3.3 Armbands shall be worn on the left arm uncovered and unconcealed.</li>
+</ul>
+3.4 Flag
+<ul>
+<li>3.4.1 The flag will be a minimum of 12 inches wide and 18 inches long and of a distinctive color.</li>
+</ul>
+3.5 Number of games.
+<ul>
+<li>3.5.1 Teams will play a minimum of 5 preliminary round games. Such games will be played against teams within the defined division of such team.</li>
+<li>3.5.2 In case of a tie score among teams, such tie will be broken, first, by head to head competition, the winner of such contest advancing. If the tie among teams remains after such tie breaking determination, the tie shall be broken by the previous round scores, the team with the greatest score in the previous round advancing. If the tie among teams remains after such tie breaking determination, the tie shall be broken by the eliminations received by the teams in the round, the team having received the fewest eliminations in such round advancing. If the tie among teams remains after such tie breaking determination, the tie shall be broken by the team having the fewest penalty points.</li>
+</ul>
+4.0 Clothing
+<ul>
+<li>4.0.1 Each player may only wear one layer of underclothing consistent with the weather of the day for all but unreasonably cold weather. This shall consist of, at a maximum, one pair of under shorts and one short or long sleeve T-shirt.</li>
+<li>4.0.2 Each player may only wear one pair of full-length pants and a shirt, either button or pullover style, as long as the colors on the outer garment are not the same as any armbands, flags, judges apparel or paint chosen for the event. No multi-colored or patterned clothing that makes it difficult to see or distinguish a splat mark (such as "Hawaiian" shirts) will be allowed.</li>
+<li>4.0.3 Players must wear clothing that fits well. If a judge deems that a players clothing is oversized, the judge may require new attire or make temporary adjustments using tape, pins, etc.</li>
+<li>4.0.4 Players may not wear jackets, shirts and or pants which are made out of highly absorbent material, such as felt or fleece, or a highly padded or slick nature, such as rubber or plastic.</li>
+<li>4.0.5 Players may wear a single pair of gloves, with or without full fingers. Gloves may be padded.</li>
+<li>4.0.6 Players may wear nylon neck protection of a single layer.</li>
+</ul>
+5.0 Protective gear
+<ul>
+<li>5.0.0 When in a shooting area such as chrono or field, masks with ASTM-certified goggles must be worn. A spectator must wear a mask if there is no safety netting between the field and the spectator.</li>
+<li>5.0.1 Players must wear full face protection. Players must use masks in their factory released form, except manufacturer approved accessories designed to increase safety and fan accessories which do not interfere with mask function.</li>
+<li>5.0.2 Players must wear ear protection integrated with the mask. Goggle straps are not considered ear protection.</li>
+<li>5.0.3 Players may wear forearm and elbow protection, provided that the padding on such has not been modified from the manufactures original form. Such protection may be worn over or under clothing.</li>
+<li>5.0.4 Payers may wear shin and knee protection, provided that the padding has not been modified from the manufactures original form. Such protection may be worn over or under clothing.</li>
+<li>5.0.5 Male players may wear groin protection and female players may wear breast protection.</li>
+<li>5.0.6 An active player who deliberately breaks the seal between his goggles and his face during a game, other than with the approval and under the direct supervision of a judge, shall be immediately considered eliminated from the game. A player who shoots at a player who has obviously been eliminated because his goggles have been removed is subject to a 3-for-1 penalty.</li>
+</ul>
+5.1 Markers
+<ul>
+<li>5.1.1 Players may use a single, 68 caliber, pump or semi automatic paintball marker, which consists of a single barrel, a single trigger and a gravity feed style magazine or stock class configurations. Double action, rt, turbo, burst, full auto or other enhanced fire triggers are prohibited. Any marker capable of firing more than one ball per pull of the trigger shall also be deemed capable of firing in an enhanced mode and be prohibited. A marker may be used if its enhanced mode can be rendered unusable and can not be reactivated without the use of tools.</li>
+<li>5.1.2 All markers must have a trigger guard firmly mounted to the marker. </li>
+<li>5.1.3 Gun barrels may be equipped with porting, slots, rifling, but may not have sound suppresser attached or integral to the construction of the barrel. Only one barrel will be allowed on the field.</li>
+<li>5.1.4 Players may wear a remote tank hook up. The remote line may be worn over or under clothing.</li>
+<li>5.1.5 Player may not use cloth, neoprene, or other material to cover the paint loader on the marker or the marker. Neoprene covers for air source tanks are allowed.</li>
+<li>5.1.6 Barrel plugs or barrel condoms that are properly fitted and in good working order are required at all times except on the field or within the target range. Squeegees and other objects may not be substituted for barrel plugs. Barrel plugs must fit snugly so that multiple shots will not dislodge the plug.</li>
+</ul>
+5.2 Other equipment
+<ul>
+<li>5.2.1 Players may carry any number of pouches, clips or loaders.</li>
+<li>5.2.2 Vests and pouches may not be constructed in such a fashion that they constitute padding.</li>
+<li>5.2.3 Players may carry a single hand towel or wash cloth, provided that it is not of the same color as armbands, flags or judges apparel. Players may carry multiple squeegees and or swabs. </li>
+<li>5.2.4 Players may carry extra air tanks.</li>
+</ul>
+5.3 Prohibited equipment
+<ul>
+<li>5.3.1 Prohibited equipment includes artificial sounding devices (e.g., whistles, clickers, horns); shielding devices; artificial light sources; heat generators (e.g., matches, lighters, heat packs); weapons, flares, listening devices, communication devices and any form of electronic surveillance device, incendiary devices, smoke producing devices, red paint, paint which is toxic or not biodegradable and paint which has a shell, fill or both altered or augmented in any way from factory form.</li>
+<li>5.3.2 Anything not specified in sections 5.01 through 5.34 inclusive as permitted shall be prohibited unless allowed by the ultimate judge.</li>
+</ul>
+5.4 Possession and exchange
+<ul>
+<li>5.4.1 Two live players may exchange equipment.</li>
+<li>5.4.2 Players who are eliminated must exit the field with all equipment they were carrying when they were eliminated.</li>
+<li>5.4.3 Players must have all paint, gas, and equipment to be used during the course of the game on their person at the start of the game.</li>
+<li>5.4.4 the flag may be transferred to another player freely, so long as both players are live. if the flag carrier is elminated, he may pass the flag only by holding ti at arms length.</li>
+</ul>
+6.0 Game chronographing
+<ul>
+<li>6.0.1 Chronographing on the field may be done at any time at the discretion of any field judge to determine if a markers muzzle velocity has risen above the legal limits. Judges will seek to perform on the field chronographing in a manner which least interferes with play.</li>
+<li>6.0.2 Players with markers chronoed on the field during a game at 300 FPS or less (one, two or three shots at the discretion of the field judge) will continue to play without penalty, although such marker may, at the discretion of any judge, be chronoed at the end of the game and penalties may be assessed if the marker is shooting hot.</li>
+<li>6.0.3 Markers that are shooting over 300 FPS will be held by the judge and the player using that marker will be eliminated from play. The marker will be chronographed at the conclusion of the game and penalty points will be assessed if the marker is shooting hot.</li>
+<li>6.0.4 Players who are observed working on their marker during the course of the game with the exception of cleaning paint out of the barrel, loader or feed ports and changing constant air tanks will be immediately removed from play.</li>
+</ul>
+7.0 Game times and completion
+<ul>
+<li>7.0.1 When the game time has expired or a flag judge declares a flag hanger clean and the hang completed, the head judge will communicate to all judges the "Game Over" call in accordance with the provisions of Section 2.22 hereof, and this will be repeated to all live players.</li>
+<li>7.0.2 Official game time will be kept by the head judge or a field judge appointed thereby, but in no event shall the official game time be kept by a flag judge. In the event that a game is to be interrupted because of a medical emergency or otherwise, he will mark the time or cause the field judge appointed to keep the official game time to mark the time. The head judge will restart the game and the time will begin by a ten-second warning followed by the game on signal as specified in section 2.21 hereof. Time will begin to run upon such restart.</li>
+<li>7.0.3 Game time will be 5 minutes. Only the official timekeeper will keep official time and call the 10 second warning, start the game, or end the game on account of time. </li>
+<li>7.0.4 If the game finals cannot be completed for reasons of darkness, weather, etc., then the tournament team standings as they were at the end of the semi-finals will stand and no play-off points can be used. If the semi-finals cannot be completed for reasons of darkness, weather, etc., or no semi-finals are conducted as part of the event, then the tournament team standings from the preliminary play will stand and no semi-final points can be used.</li>
+</ul>
+8.1 Checkout procedures
+<ul>
+<li>8.1.1 Players that are eliminated, immediately upon elimination, must exit the field by the most direct route unless otherwise directed by a field judge. Players that take routes that are not the most direct absent such direction by a judge or players that refuse to follow a judge's direction for leaving the field will be assessed a penalty for playing on.</li>
+<li>8.1.2 All live players at the end of the game must present themselves to a field judge at the exit point for inspection. At this time a field judge will inspect the player for hits and playing-on penalties will be assessed for each obvious hit.</li>
+<li>8.1.3 Players may not re-enter the playing field without permission of a field judge.</li>
+<li>8.1.4 Eliminated players who communicate either verbally or nonverbally with players still on the field will be assessed a playing on penalty. </li>
+</ul>
+8.2 Game ending procedures
+<ul>
+<li>8.2.1 Games will end pursuant to the provisions of section 2.22 hereof, upon a successful flag hang, the elimination of all players on the field or the elapse of game time.</li>
+<li>8.2.2 At least one field judge will be assigned to inspect live players exiting the field at the assigned exit point at game end.</li>
+<li>8.2.3 If the last player on the field is eliminated due to a penalty, the opposing team shall be awarded the flag hang, provided that their last player was not also so eliminated.</li>
+</ul>
+8.3 Game forfeits
+<ul>
+<li>8.3.1 A forfeit will be declared for each game that a team failed to report in a timely fashion for its pre-game chronographing, or for any game in which a team refused to take the field, as long as its opponent is willing to do so or does take the field. In the event that both teams fail to show for a game or both teams are unwilling to take the field, both teams will have forfeited that game.</li>
+<li>8.3.2 Any team which is scheduled to oppose a team that has forfeited a game will receive the average of all of the scores received by teams from other games played against the forfeiting team in the same round as the forfeited game. The forfeiting team will receive zero points, unless the opposing team also forfeited that game, in which case both teams will receive zero points for that game.</li>
+<li>8.3.3 Once a forfeit has been declared, the forfeited game will not be rescheduled and the score will stand, except if the reason for having missed the game was completely beyond the control of the team declared to have forfeited that game, including travel, weather or other unavoidable schedule delays.</li>
+</ul>
+8.4 Game stoppage
+<ul>
+<li>8.4.1 Games stoppages will only incur in case of emergency, dangerous weather conditions, other acts of god, or a physical altercation on the game field.</li>
+<li>8.4.2 Only the head judge may declare the game stopped.</li>
+<li>8.4.3 All field judges will note the locations of the players at the time that the game is stopped. Once the game has been stopped, the field judges will insure that players will remain in those locations. Judges will check all players and will remove any players who are eliminated prior to the game being stopped. Judges will confer to judge the sequence or events prior to the game stoppage. If penalties need to be assessed, they will be so assessed at such time. Players with hits may be reinstated into the game if the field judges determine that a player was eliminated as a direct result of illegal actions which led directly to the game stoppage. Once the conditions causing the game stoppage has abated or been resolved and all the live players and flags are placed in proper positions by the field judges, the head judge will restart the game in accordance with the procedures specified in section 2.21 hereof.</li>
+</ul>
+9.0 When Paint checks are Performed
+<ul>
+<li>9.0.1 Paint checks are performed by judges for the purpose of determining if a paintball has broken on and marked a player.</li>
+<li>9.0.2 Paint checks are performed by a judge when the judge has observed a player taking fire, when fire is directed into an area occupied by a player that a judge cannot directly observe, when the physical location that a paintball may have broken on is not visible to the judge, or when the judge is directed to do so by another judge.</li>
+<li>9.0.3 Judges may, but is under no obligation to, make a paint check after a player has requested one.</li>
+</ul>
+9.1 Neutrality
+<ul>
+<li>9.1.1 Judges will make every effort to perform a paint check without calling a player neutral. A judge may however declare a player neutral at his discretion.</li>
+<li>9.1.2 No flag carrier will be stopped and declared neutral for the purpose of performing a paint check nor will his progress be interfered with in the course of a paint check. </li>
+<li>9.1.3 A judge calling a player neutral will indicate the same to all players on the field by standing over the player, calling "neutral" and holding his arms above his head or waving them.
+<ul>
+<li>9.1.3.a A judge must declare a player neutral if the actions of the judge unreasonably impede or interfere with such players ability to continue to play.</li>
+</ul></li>
+<li>9.1.4 A player declared neutral cannot be eliminated from the game or moved on, either by the opposing team members or his own team mates.</li>
+<li>9.1.5 A judge may move a players equipment and or request that such player expose additional areas for examination.</li>
+<li>9.1.6 Players not declared neutral may be eliminated while being checked.</li>
+<li>9.1.7 While the player is declared neutral, he may not shoot his gun, signal teammates or in any way continue play until the referee puts him back into active play.</li>
+</ul>
+9.2 Flag carriers
+<ul>
+<li>9.2.1 When a player carrying a flag breaks the plane of the flag station boundary, the flag judge will signal "time" and the player carrying the flag is immediately considered neutral.</li>
+<li>9.2.2 The flag carrier will immediately be checked for paint.</li>
+<li>9.2.3 If the flag carrier is clean, the flag judge will declare "game over" to the ultimate judge who will then announce the completion of the game in accordance with the provisions specified in section 2.22 hereof.</li>
+</ul>
+10.0 Obvious hits
+<ul>
+<li>10.0.1 Obvious hits are those which impact and break on easily observable places on the body or equipment being carried or those that have been felt by the player. A judge will determine whether a player felt a hit by where that paintball impacted his body and whether he reacted upon being hit.</li>
+<li>10.0.2 Players who are hit in an obvious location are expected to immediately signal their elimination by announcing "hit or out" at the time of such elimination's.</li>
+<li>10.0.3 Such players must then remove their armbands, put in their barrel plug and hold the marker in the air above their head and exit the field immediately by the most direct route or upon the instructions of a field judge, if given.</li>
+<li>10.0.4 Players who are hit in obvious locations which are easily verifiable by such players may not call for a paint check. Players with self-verifiable obvious hits who call for a paint check will receive a playing-on penalty.</li>
+<li>10.0.5 Players who are in motion while hit in obvious locations which are easily verifiable, such as the back must immediately call on a team mate or judge who can verify whether or not the paintball broke. The teammate must respond immediately and if the hit player was eliminated, he must cease play, signal his elimination and exit the field pursuant to the provisions of section 10.0. Failure to call a teammate for verification or failure of such teammate to respond immediately constitutes playing on by the hit player. If no such teammate is available for verification, such player must immediately call for a paint check by a field judge. Failure to call for such paint check will constitute playing on by such player.</li>
+</ul>
+10.1 Unobvious hits
+<ul>
+<li>10.1.1 Unobvious hits are those which impact and break on players or equipment in locations which are neither felt nor easily seen by the player.</li>
+<li>10.1.2 Players with unobvious hits will be eliminated but will not be penalized.</li>
+<li>10.1.3 Should a player with an unobvious hit become aware, through his own actions or through information provided by teammates, that he has been validly marked, the hit shall be considered an obvious one.</li>
+</ul>
+10.2 Eliminations
+<ul>
+<li>10.2.1 A player is eliminated if a paintball shot by a live member of either team strikes that player or anything he is wearing or carrying and such paintball breaks upon the object struck. If the paintball strike the player or anything he is wearing or carrying but does not break and leave a mark, such player is not eliminated. If a judge does not see a paintball shot by a live member of the opposing team or a players team strike that player or another object, but that player has paint on himself or anything he is wearing or carrying that resembles a hit, such player will be eliminated by such judge. Generally, if the paint marking is reasonably solid and at least the size of a quarter, it will be considered a valid hit. If 2 opposing players are hit and marked, as per provided in this section 10.21 simultaneously, or if the judges cannot determine which player was hit and marked first, both players will be eliminated. Judges will wipe splatter or none valid hits off a player at the time they are inspected. No player will be allowed to continue play with paint that is considered non valid until it is wiped clean by a judge.</li>
+<li>10.2.2 Players will be eliminated if any part of their bodies or anything they are wearing or carrying breaks the plane separating the field from the out of bounds area. Such elimination will take place immediately upon the breaking of such plane. Judges may warn players once and only once if they are getting close to the boundary line of the field.</li>
+<li>10.2.3 Players will be eliminated if they are not wearing arm bands issued prior to the start of the games fully exposed on their left arms.</li>
+<li>10.2.4 Players that are found with tools or other prohibited equipment on the field or those working on their markers in violation of the provisions specified in section 7.04 hereof will be immediately eliminated and assessed a two-for-one penalty.</li>
+<li>10.2.5 Players that separate from any piece of equipment or clothing that they brought on to the game field by more than 5 feet, except squeegees, rags, or paint pods used in holding extra paintballs will be immediately eliminated.</li>
+<li>10.2.6 Players that engage in unsportsmanlike conduct, including, but not limited to, failure to obey a judges directions with respect to moving on a neutral player, deliberate avoidance of a judge in a manner to prevent a judge from chronographing a marker on the field or prevent him from making a call, shooting at judges, excessive shooting at an eliminated player, the requesting of paint checks to distract judges from checking themselves of teammates or to use judges to locate opposition players or verbal abuse of opposition players or judges will be eliminated and the head judge will assess a 20 to 50 point penalty to the offending player's team.</li>
+<li>10.2.7 Players that take action which would cause members of the opposing team to reasonably believe that such players have been eliminated, including but not limited to calling himself hit, hiding the armbands, holding the markers in positions about the shoulders, placing objects in the barrels of the markers in carrying them in view of members of the opposing teams or walking in groups of eliminated players will be eliminated.</li>
+<li>10.2.8 Players whose markers shoot on the field in excess of 300 FPS will be eliminated in accordance with the provisions of section 7.03 hereof.</li>
+<li>10.2.9 Players may be eliminated as a penalty called by a judge for infractions committed by teammates.</li>
+<li>10.2.10 Eliminated players will surrender their armbands to the closest judge and exit the field immediately or, if given, at a judge's direction.</li>
+</ul>
+11.0 Flag carriers
+<ul>
+<li>11.0.1 Players carrying flags must carry them openly.</li>
+<li>11.0.2 Flags may be passed from live player to live player.</li>
+<li>11.0.3 A player eliminated while in possession of a flag will remain on the field of play, holding the flag at arms length and at eye level, until that flag is recovered by another player from either team. Flags must be surrendered by the eliminated flag holder to any player touching it. If the flag carrier is within arms reach of a suitable object when eliminated, he may place the flag on that object and remove himself from the field of play.</li>
+</ul>
+12.0 Playing On
+<ul>
+<li>12.0.1 Playing on entails continuing to act as a player in the game after being eliminated. Playing on includes, but is not limited to, continuing to fire or otherwise engage the opposition, continuing to move except with respect to exiting the field by the most direct route or at the direction of a judge, talking, signaling or otherwise communicating, either to a judge, opposing players or teammates, except that a player may say "I'm hit" or, "out", or something to that effect once, impeding the progress of opposition players or a judge, hampering a judge in making a paint check or a call, discharging or degassing the marker or providing teammates with paintballs or equipment.</li>
+<li>12.0.2 The penalty for playing on is the removal of a teammate, unless in the judges opinion such playing on has materially influenced the course of the game giving the offending players team an advantage, in which case the penalty for playing on is the removal of two teammates.</li>
+</ul>
+12.1 Wiping
+<ul>
+<li>12.1.1 Wiping is defined as the active and deliberate removal of paint by a player in order to avoid elimination or avoid a judges call.</li>
+<li>12.1.2 Wiping is penalized by the immediate removal of the player from the game and the simultaneous removal of three additional players from the same team.</li>
+<li>12.1.3 All calls for wiping shall be reported to the head judge. A team will receive a 100 point penalty for a second call for wiping against that team. Any team which accumulates three calls for wiping amongst all of its members within the course of an event shall be eliminated from further participation in the event.</li>
+</ul>
+12.2 Freight training.
+<ul>
+<li>12.2.1 Freight training is the act of utilizing multiple players who move and act in such a manner so that the lead players after being marked and eliminated impede or prevent the timely elimination of others players in the train.</li>
+<li>12.2.2 Judges will allow a freight train to continue, but will remove one player for each instance of continuing to play by any of the freight training players. When the freight train stops, the players who took multiple hits will also be removed from play.</li>
+</ul>
+12.3 Interference
+<ul>
+<li>12.3.1 Spectators may be allowed to observe games at the discretion of the ultimate judge.</li>
+<li>12.3.2 Team members and associates of the competing teams who interfere with the play of that game will immediately receive a penalty as if a player played-on on the field.</li>
+</ul>
+12.4 Assessment of penalties
+<ul>
+<li>12.4.1 Judges must assess the penalty proscribed for playing on or wiping.</li>
+<li>12.4.2 Only head judges or the ultimate judge may assess penalties that remove points earned on the field.</li>
+<li>12.4.3 Judges will issue verbal warnings for the following infractions:
+<ul>
+<li>12.4.3.1. First offense failure to observe a neutral call.</li>
+<li>12.4.3.2. Failure to use a barrel plug.</li>
+<li>12.4.3.3. First offense abuse of calling for paint checks</li>
+<li>12.4.3.4 First offense on the use of inappropriate language.</li>
+</ul></li>
+<li>12.4.4 Judges will eliminate players for the following infractions:
+<ul>
+<li>12.4.4.1. Second offense failure to observe a neutral call.</li>
+<li>12.4.4.2. Second offense abuse of calling for paint checks.</li>
+<li>12.4.4.3. Second offense on the use of inappropriate language.</li>
+<li>12.4.4.4. Aggressive movement during a neutral call within 60 feet of neutral player.</li>
+<li>12.4.4.5. A player going out of bounds or moving a boundary tape.</li>
+<li>12.4.4.6. A player hit in an unobvious location.</li>
+<li>12.4.4.7. Not being in the appropriate starting position at the beginning of a game.</li>
+<li>12.4.4.8. Failure to wear goggles.</li>
+</ul></li>
+<li>12.4.5 Assessment of the one for one rule (the removal of the player committing the infraction and a teammate) will take place for the following infractions.
+<ul>
+<li>12.4.5.1. A player having tools on the field</li>
+<li>12.4.5.2. Freight training, applied for each infraction.</li>
+<li>12.4.5.3. Continuing to play, hit in an obvious location.</li>
+<li>12.4.5.4. Re-entering the field after elimination.</li>
+<li>12.4.5.5. Interference during the course of the game by a person affiliated with the team not playing in the game.</li>
+<li>12.4.5.6. Playing on.</li>
+<li>12.4.5.7. Talking after elimination is signaled or eliminated by a judge.</li>
+</ul></li>
+<li>12.4.6 Assessment for the two for one rule (the removal of the player committing the infraction and two teammates) will take place for the following infractions.
+<ul>
+<li>12.4.6.1. Continuing to play, hit in an obvious location which results in an alteration of the course of the game.</li>
+<li>12.4.6.2. Use of a fully automatic marker, a double action trigger, auto response or similar device.</li>
+</ul></li>
+<li>12.4.7 Assessment of the three for one rule (the removal of the player committing the infraction and three teammates) will take place for the following.
+<ul>
+<li>12.4.7.1. Wiping</li>
+<li>12.4.7.2. Engaging in physical contact with another person on the field in a hostile manner.</li>
+<li>12.4.7.3. verbally abusing a judge or other participant</li>
+<li>12.4.7.4. Throwing a marker. </li>
+<li>12.4.7.5. Arguing with a judge during game play.</li>
+<li>12.4.7.6. deliberately making contact with a bunker with the objective to bounce an opposing player out of the bunker (also known as slamming). </li>
+</ul></li>
+<li>12.4.8 Assessment of point penalties (other than hot gun penalties) will take place for the following infractions:
+<ul>
+<li>12.4.8.1. Checking in as a live player at the end of the game with a hit in an unobvious location is a -10 point penalty.</li>
+<li>12.4.8.2. Checking in as a live player at the end of the game with a hit in an obvious location is a -50 point penalty.</li>
+</ul>
+12.5 Additional penalties
+<ul>
+<li>12.5.1 An ultimate judge may assess additional one for one penalties during the game or point penalties off the field for the following infractions:</li>
+<li>12.5.1. Each time a player fails to obey a judges instructions is a 10 point penalty.</li>
+<li>12.5.2. Throwing a marker or tank is a 100 point penalty.</li>
+<li>12.5.3. Use of profanity which could be audible by the spectators is a 10 point penalty per occurrence.</li>
+</ul>
+12.6 If a penalty is called that results in the removal of the last player on a team, the other team will be awarded the flag hang automatically, so long as the other team's last player was not also eliminated by penalty. 12.7 Any team the intentionally gives up points to its opponents or plots to set scores will be disqualified from the tournament. 12.8 Any player who engages in a physical altercation will be disqualified from the tournament.</li>
+</ul>
+13.0 Arguing calls
+<ul>
+<li>13.0.1 only a team captain may argue a call, and only after the end of the game with the head field ref, who has authority to settle it in such matter as he sees fit or to refer it to the ultimate judge in the case of a rules discrepancy or uncertainty.</li>
+<li>13.0.2 In the case of a rules discrepancy or uncertainty, the call of the ultimate judge will govern all fields of play.</li>
+<li>13.0.3 A player arguing a call during play with the ref making the call may be assessed a penalty for interference in play and or/for unacceptable conduct. </li>
+</ul>
+14.0 Decorum
+<ul>
+<li>14.0.1 Teams and players thereon attending events shall refrain from wearing or otherwise displaying offensive pictures, words or logos at the site where the tournament is taking place.</li>
+<li>14.0.2 Teams and players thereon attending college events shall refrain from engaging in any conduct that would bring the tournament, the promoter or any sponsor into disrepute, including, but not limited to, the trashing of hotel rooms, the discharge of loaded markers in ungoggled trafficked areas, the willful destruction of private property, engaging in physical altercations, except in defense of ones person against an unprovoked aggressor, or the commission of a criminal act.</li>
+<li>14.0.3 Any person that fails to adhere to the rules and regulations specified in this section may be prohibited from competing in college events for at least one year after a hearing by the Board of Directors.</li>
+</ul>
+14.1 Rules and procedures for maintenance and cleanup
+<ul>
+<li>14.1.1 All teams shall have equal access to the parking and staging areas, staging tents, tables and chairs provided for the players. All teams shall adhere to the administrative rules and promulgated by the NCPA and owner of the facilities with respect thereto.</li>
+<li>14.1.2 All teams shall police and dispose of all trash generated thereby within the parking area, the staging area and/or the compound.</li>
+<li>14.1.3 Any team that fails to adhere to the rules and regulations contained in this section 14.1 and in section 13.51 for unsportsmanlike conduct may be referred by the Ultimate Judge to the Board of Directors for a disciplinary hearing to assign a possible suspension from play.</li>
+</ul>
+15.0 Player Ejections
+<ul>
+<li>15.1 Players will be immediately ejected from a tournament for the following behaviors or at the direction of the ultimate judge:
+<ul>
+<li>15.1.0 Throwing paintball markers or tanks</li>
+<li>15.1.1 Any hostile phyical contact with another player, referee or spectator</li>
+<li>15.1.2 Second wiping offense</li>
+<li>15.1.3 Gross Unsportsmanlike Conduct</li>
+<li>15.1.4 Second yelling at referee or player offense</li>
+</ul></li>
+<li>15.2 A team from which a player is ejected will play short a player for the remainder of the event.</li>
+<li>15.3 The Ultimate Judge shall report, in writing, to the NCPA President any players ejected from a tournament and the reason for their ejection.</li>
+</ul>
+16.0 Suspensions
+<ul>
+<li>16.1 The NCPA President may issue player suspensions to players ejected from NCPA-sanctioned events. The President will always issue the suspensions indicated for the following acts:
+<ul>
+<li>16.1.0 Fighting with another player, referee, or spectator: Lifetime suspension from all NCPA sanctioned events</li>
+<li>16.1.1 Throwing paintball markers or tanks: One calendar year suspension from NCPA sanctioned events</li>
+<li>16.1.2 Wiping: Suspension from the next NCPA sanctioned event attended by that player's college</li>
+</ul></li>
+<li>16.2 The NCPA President will suspend any college who has three or more players suspended in a season from further participating in any NCPA sanctioned events for the remainder of that season. A team so suspended will forfiet any series or ranking points earned that season.</li>
+<li>16.3 A player or team suspended by action of the NCPA President may file a written appeal to the Chairman of the NCPA Board of Directors. The Board of Directors will consider and act on the appeal. The Board may take any of the following actions:
+<ul>
+<li>16.3.0 Uphold the suspension as issued by the NCPA President</li>
+<li>16.3.1 Overturn the suspendion</li>
+<li>16.3.2 Reduce the length of the suspension</li>
+</ul></li>
+</ul></td>
+</tr>
+</tbody>
+</table>

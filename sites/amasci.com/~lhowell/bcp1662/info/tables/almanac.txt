@@ -1,0 +1,11 @@
+Table of the Moveable Feasts. 
+
+ A Table of the Moveable Feasts According to the Foregoing Calendar. 
+
+ To create an Almanac of the Moveable Feasts for any range of years, enter a starting and ending year below. The range must fall between 1000 and 9999. If your browser does not support tables, clear the checkbox. Then press "Create Almanac" to view the results, or "Clear Form" to cancel. 
+
+ Starting year: &#160; &#160; Ending year: &#160; Display results as a table.
+
+ &#160; &#160; 
+
+ Note. -- In the table form, the years you specify will form the columns of the table, so if the table doesn't fit on the screen try asking for fewer years.

@@ -1,0 +1,37 @@
+---
+title: "findsub"
+source_domain: amasci.com
+source_path: ~telical/findsub.htm
+order: 8742
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T06:01:15Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# findsub
+
+*Source page: `~telical/findsub.htm`*
+
+Find Word To Substitute
+
+------------------------------------------------------------------------
+
+The "Find Word to Substitute" is an automated search of the categories in the directory that you are in at the time. It will only search one group at a time. So, check the "Category Type" to see if you are in a "General" category or "Business," "Science," "Home" or "Other." You may want to select on the "All" category for this feature.
+
+"Find Word to Substitute" is a useful feature which allows you to import any text into ParaMind to brainstorm upon. You simply import the text by cutting and pasting it from another Windows application, or by opening it as a text file from the File menu.
+
+Select "All" in the "Category Type" to make sure that a large portion of the ParaMind categories will be used, or perhaps use a custom database of Word Categories. You can also use it to go over the text that you've typed onto the ParaMind screen.
+
+This feature goes over the text on the ParaMind screen and looks for any of the words in the Word Category lists. It goes over one "Category Type" at a time, so if you don't find many words you might want to go into the "Category Type" and change it to "General 2" or "Science" or any other category.
+
+To give you an example of this program in use, go ahead and mark the above paragraph or any other text you like in any document you like. Like any computer text, you can work on this manual in Window's Write, but be sure not to change it in any way because Write will save it for you in a Write format. You can get around this by selecting "No" if it asks you to save.
+
+Select "Copy" in Windows Write and in ParaMind go to Edit and select Paste. Paste it into the editor and then go into the "Create" menu and select "Find Word to Substitute."
+
+You will see a "highlighter" automatically come up on the screen which will block each word as it goes into "All" or whatever category you selected in "Category Type" and looks for your words. You will see it find several Word Categories in "All" that contains words in the paragraph. When it does it will come up with the word category unhighlighted.
+
+Click on the Word Category in the left-hand box and see if you would rather use those words instead of the one you have already written. If you would like one, highlight the new word you like and click on "OK." This will replace your old word with the new one. If you don't like it, just hit cancel.
+
+Use your back button or click here for [Table of Contents Page](contents.htm)

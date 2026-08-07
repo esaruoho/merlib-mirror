@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 1.30</title>
+<link href="q1.25.html" rev=precedes>
+<link href="q1.31.html" rel=precedes>
+<link href="s1.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 1.30</H3>
+<p>What can I safely assume about the initial values of variables
+which are not explicitly initialized?
+If global variables start out as ``zero,''
+is that good enough for null pointers and floating-point zeroes?
+</p><hr>
+<p>Variables
+with
+<dfn>static</dfn>
+duration
+
+(that is,
+those declared outside of functions,
+and those declared with the storage class <TT>static</TT>),
+are guaranteed initialized
+
+
+
+(just once, at program startup)
+to zero,
+as if the programmer had typed ``<TT>= 0</TT>''.
+Therefore,
+such variables are initialized
+to the null pointer
+(of the correct type;
+see also section
+<a href=s5.html>5</a>)
+if they are pointers,
+and
+to 0.0 if they are floating-point.
+</p><p>Variables with
+<dfn>automatic</dfn>
+duration
+(i.e. local variables without the <TT>static</TT> storage class)
+start out containing garbage,
+unless they are explicitly initialized.
+(Nothing useful can be predicted about the garbage.)
+</p><p>Dynamically-allocated memory
+obtained with <TT>malloc</TT> and <TT>realloc</TT>
+is also likely to contain garbage,
+and must be initialized by the calling program,
+as appropriate.
+Memory obtained with <TT>calloc</TT>
+is
+all-bits-0,
+but this is not necessarily useful
+for pointer or floating-point values
+(see question
+<a href=q7.31.html>7.31</a>,
+and section
+<a href=s5.html>5</a>).
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<p>References:
+
+K&amp;R1 Sec. 4.9 pp. 82-4
+<br>
+K&amp;R2 Sec. 4.9 pp. 85-86
+<br>
+ANSI Sec. 3.5.7, Sec. 4.10.3.1, Sec. 4.10.5.3
+<br>
+ISO Sec. 6.5.7, Sec. 7.10.3.1, Sec. 7.10.5.3
+<br>
+H&amp;S Sec. 4.2.8 pp. 72-3, Sec. 4.6 pp. 92-3, Sec. 4.6.2 pp. 94-5, Sec. 4.6.3 p. 96, Sec. 16.1 p. 386
+<br></p><hr>
+<p>
+Read sequentially:
+<a href="q1.25.html" rev=precedes>prev</a>
+<a href="q1.31.html" rel=precedes>next</a>
+<a href="s1.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

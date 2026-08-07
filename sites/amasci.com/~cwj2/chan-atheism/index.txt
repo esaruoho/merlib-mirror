@@ -1,0 +1,139 @@
+Heathen's Highly Unofficial #atheism Homepage 
+
+ Undernet #atheism 
+ Information and Resources 
+ Last updated 23 January 1999 
+
+ Main 
+ Ops 
+ Policy 
+ Regulars 
+
+ Glossary 
+ Resources 
+ Official Page 
+ Webzine 
+ FAQ 
+ FAQ for Atheists 
+
+ There is also an official Undernet #atheism
+homepage which grew out of a general effort to coordinate and
+improve the design of the two or three sources of #atheism information
+which existed at the time, including this one. ShaiHulud gets credit
+for the idea, all the visual design, and most of the general elbow
+grease. Content was primarily provided by ShaiHulud, Elladan , AltKey , and Heathen . We nearly killed
+ourselves assembling a truly awesome repository of links and
+information. Okay, not really. But ShaiHulud put a lot of work into it
+and it looks better than this page. So check it out anyway.
+
+ Introduction 
+
+#atheism is an IRC channel where atheists and others can congregate to
+chat about a multitude of topics, some of which include atheism,
+religion and mythology, philosophy, politics, computers, science
+fiction, and music. All viewpoints are welcome, but people who become
+offensive or disruptive will be removed. The responsibility of removing
+these elements is assumed by the #atheism chanops .
+It is our job as chanops to keep #atheism a relatively nice place to
+chat.
+
+Undernet #atheism was established by Elladan. Because he does not have
+much time to devote to the management of the channel, the managerial
+duties have been passed to Heathen and AltKey, with AltKey registered
+in W as the official channel manager. The channel is currently served
+by three bots, who distribute operator status and perform other useful
+services: Episiarch, who is operated by Elladan; W, who is a Undernet CSC bot; and
+HeathBot, who operated by Heathen (duh).
+
+Because of its nature, #atheism receives a relatively large number of
+annoying evangelists and apologists, who often trot out the same
+arguments over and over as though they were some miraculously new and
+rational arguments that we'd never seen before. In an effort to help
+eliminate this pointless, inane repetition of the same idiotic
+arguments over and over again, there are several writeups on common
+evangelical arguments hosted on this web site; I wrote most myself,
+but some have been written by others or in collaboration with others.
+
+ The Argument from Design and the
+Theistic Anthropic Principle , also known as teleological arguments 
+ Pascal's Wager 
+ The Cosmological Argument , a.k.a.
+the argument from First Cause 
+ The Lord, Liar, or Lunatic Trilemma
+ Various Ontological Arguments 
+[submitted by AegisIII]
+ Morals and Atheism 
+[by AegisIII and Heathen ]
+ The Big Rock Conundrum , a
+commonly used but faulty argument against the
+existence of omnipotent god/s (such as the Christian one).
+
+A large number of debates also center around semantic issues, such as
+the definitions of atheism vs. agnosticism .
+Such arguments are at best repetitions of arguments well established
+in published literature, and at worst are intensely boring and
+exasperating. As a community service, I am working in conjunction
+with the #atheism community at large to develop a glossary of relevant terms for
+discussion on #atheism, which defines a number of important terms as
+they are used on-channel.
+
+ Regulars 
+
+Of course, section 34A of the IRC Channel Homepage code reads:
+
+Any homepage which serves as the homepage for an IRC channel shall
+henceforth be required to have a page of the nicks of the regulars
+and/or channel operators of the aforementioned channel.
+
+Thus, in compliance with the code, here is the
+Undernet #atheism regulars page (along with some notable
+not-so-regulars).
+
+ Channel Operators 
+
+Although in an ideal world, a channel such as #atheism could exist as
+a free and unmoderated forum, it is unfortunately very clear that this
+world is not ideal. In order to keep #atheism a friendly place in
+which to carry on conversation, and to preserve the security of the
+channel from miscreants abusing IRC or other network services, channel
+operators on #atheism are invested with the authority to remove users
+from the channel, either temporarily or permanently. Operators also
+form the core government of the channel, by consensually deciding
+issues of channel policy.
+
+As channel moderators, channel operators on #atheism are authorized to
+kick or ban users for disruption of conversation and attacks on channel
+security. Offenses which constitute these include, but are not limited to:
+
+ Net abuse [eg, cloning ,
+ flood attacks ,
+ spamming ]
+ An overly abusive or insulting attitude
+ Unwarranted and repeated caps lock SHOUTING
+ Trolling and off-topic/unresponsive
+ preaching 
+
+Although there is no absolute set of rules for #atheism, I have
+compiled a list of some basic #atheism
+policy , which is pretty much what most of the chanops go by.
+
+#atheism's ops system is currently a hierarchy of four main levels,
+two of which could be compressed into a single level. The first level
+is the normal chanops, who generally have access levels of 100. This
+is the entry level for ops. The next level is essentially part of the
+first; the trusted low ops, who have levels slightly above those of
+the standard issue ops, usually 110, 150, 200, or somesuch. Above these
+two levels are the few 400 ops, who are entrusted to add new users to
+ W , change user info, et
+cetera, and finally a triumvirate of channel managers, composed of myself , Elladan , and AltKey . You
+can view the current #atheism ops list ,
+according to W in your
+browser.
+
+If you have any complaints about the behavior of a chanop, or any
+suggestions about the channel in general, e-mail them to Heathen , Elladan , or AltKey .
+
+Written and maintained by Charles W. Johnson
+( cwj2@eskimo.com ) 
+This page copyright 1997-1999 Charles W. Johnson. 
+All rights reserved.

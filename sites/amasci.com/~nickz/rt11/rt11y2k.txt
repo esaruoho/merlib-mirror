@@ -1,0 +1,25 @@
+E11>
+TYPE T[K[06CY2K.INF
+RT-11 V5.01 Handling of Y2K issues
+==================================
+
+Year	Internal Value	DIR's date	MACRO's date	.DATE (KMON overlay)
+----	--------------	----------	------------	--------------------
+
+1972	00:00000	blank		09-Nov-72 Thu	..."No date"
+1973	00:00001	09-Nov-73	09-Nov-73	09-Nov-73
+1999	00:11011	09-Nov-99	09-Nov-99	09-Nov-99
+2001	00:11101	09-Nov-101	09-Nov-101 Fri	09-Nov-:1
+2005	01:00001	-BAD-		Mo. is bad	..."Invalid date"
+
+Comments:  problem-free range is 1973-1999; it is somewhat manageable from
+2000 to 2003 and then the rollover occurs. PIP will preserve dates up to 2003
+in copying; it will ignore or clear the high bit if set, so that a file with a
+2005 date becomes dated 1973 (can be fixed easily by a directory-zapping
+utility if needed).
+
+[09-Nov-1997 12:09:00] (wr. in KEX under RT-11)
+
+
+..[K
+E11>log tt0:

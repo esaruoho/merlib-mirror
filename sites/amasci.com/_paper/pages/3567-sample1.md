@@ -1,0 +1,95 @@
+---
+title: "sample1"
+source_domain: amasci.com
+source_path: ~interlak/sample1.html
+order: 3567
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:56:53Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# sample1
+
+*Source page: `~interlak/sample1.html`*
+
+**CUSTOM TOUR SAMPLE** 
+
+Oct. 4 Depart Seattle
+
+5 Arrive Beijing on Air China \#CA991 at 17:20 Met by Guide and transferred\
+to the Wangfujing Hotel in the central district.
+
+6 Beijing – Guide will take you to Tiananmen Square, Forbidden City, Hutongs\
+tour and Madam Soong’s last home (example of pre revolutionary mansions)\
+BL dinner on your own tonight. (I will give you some suggestions)
+
+7 Beijing – Guide will take you to the Great Wall at MuTianYu with cable car\
+up and back to the Great Wall. Ming Tombs and Lama Temple on the way\
+back to Beijing. BL Dinner on your own tonight. (will give suggestions)
+
+8 Beijing/Xian by late afternoon air. Guide will take you to the Temple of Heaven\
+and Summer Palace before departing to the airport. Guide will meet you in\
+Xian and transfer you to the Garden Hotel. BL
+
+9 Xian – Guide will take you to the fantastic Terra Cotta Warriors site in the\
+morning and the Huaqing Pools in the afternoon. Visit the City Wall one of the\
+few left in China. Tang Dynasty Show in the Evening. BLD
+
+10 Xian/Kunming by evening air. Before leaving Xian the Guide will take you to\
+The Big Goose Pagoda, Steles Museum the Great Mosque and if time\
+to the Ancient Culture street. In Kunming you will be met by an Agent and\
+transferred to the Kunming Hotel. BL
+
+11 Kunming/LiJiang by early morning air. Guide will meet you in LiJiang and transfer\
+you to the Grand LiJiang Hotel. Guide will take you to the Dragon Spruce Meadow\
+in the afternoon after visiting Yufeng Temple and the Baisha Murals. BLD
+
+12 LiJiang – Guide will take you to the morning markets in the old section and give\
+you a complete tour of the old section of the city known as the City of Waters. In\
+the afternoon you will visit Black Dragon Pool Park.. Visit Dr. He known for\
+traditional Chinese medicine. Visit a Naxi family in their home. Evening you will\
+attend a performance of traditional Naxi music. BLD
+
+13 LiJiang/Kunming/Chongqing by air. You will receive your air tickets for both\
+Kunming and Chongqing. Be sure to pick up your luggage in Kunming and transfer\
+it to your next flight to Chongqing. Met in Chongqing by an Agent and transferred\
+to the Gangtian Hotel. B only
+
+14 Yangtze River Cruise – Agent will take you to the dock for boarding.
+
+15 Yangtze River Cruise
+
+16 Yangtze River Cruise 
+
+17 Yangtze River Cruise arriving in Wuhan. Agent to meet you and transfer you\
+to the airport for flight to Shanghai. Agent will meet you in Shanghai and transfer\
+you to the Galaxy Hotel for overnight. BL
+
+18 Shanghai/Guilin by morning air. Transfer to the airport for your flight to Guilin.\
+Met in Guilin by your guide and transferred to the FuBo Hotel. Afternoon you\
+will visit Yao Hill, Wang Town and Teacher’s College. BLD
+
+19 Guilin/Yangshuo via the Li River Day Cruise – Guide will take you through the\
+countryside to the boat dock. Stop at Crown Cave on the way to Yangshuo.\
+Transfer to the Paradise Hotel. BL dinner on your own.
+
+20 Yangshuo village – on your own here B
+
+21 Yangshuo/Guilin Guide will take you by car and transfer to the airport for flight\
+to Shanghai. Met in Shanghai by an Agent and transferred to the Peace Hotel\
+located on the Bund. BL Dinner and Evening on your own. (this is the heart of\
+Shanghai)
+
+22 Shanghai/U.S. via Vancouver. Your flight leaves in the mid afternoon. Guide will\
+take you to People’s Square and the new National Museum before going to lunch\
+and the airport for your international departure. \
+
+Included: All transportation, 3 & 4 star hotels, meals as indicated with full western\
+breakfasts in the hotel each morning, English speaking guides with car and driver,\
+sightseeing as listed above, and some evening entertainment as listed.\
+
+Not included are: tips to guides and drivers, airport taxes of \$6 domestic pp\
+and \$11 pp for international departures (guides will help you with this) Visas (we\
+have the forms and instructions) and any expense not mentioned above.

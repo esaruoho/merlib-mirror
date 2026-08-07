@@ -1,0 +1,180 @@
+---
+title: "SMALLnet post425"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post425.html
+order: 8114
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:38Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post425
+
+*Source page: `~smallnet/Archive/post425.html`*
+
+## SMALLnet Posting post425
+
+------------------------------------------------------------------------
+
+**Date: Mon, 17 Jun 2002 23:50:43 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet/> \>
+
+Alex Berkuta \< 
+
+ \> requests:
+
+I once had a copy of the US RCM magazine which contained an article on constructing a .20-powered parasol plane out of cardboard. It was published about 20 years back and I have misplaced the issue (just before I worked for a while in a cardboard packaging plant).
+
+Has anyone an issue available for copy or sale?
+
+Alex in Australia
+
+\< 
+
+ \> wonders:
+
+Anyone on this list know how find Bob Selman??? I have tried phone numbers and looked for websites, with no luck. One phone number had been disconnected. Any ideas? Any help would be appreciated.
+
+Paul Legenhausen \< 
+
+ \> asked:
+
+I have several paper model plane plans I would like to have enlarged and printed, and have had no luck finding a place to do it. Does anyone know of a national fast printing business that can do such a thing for a reasonable price?
+
+The places I have checked on need the files on a disk.
+
+<div class="Joe">
+
+...Paul, several years ago I had a small full-color aviation poster enlarged and printed on heavy card stock at a local "copy shop". It came out beautifully, and cost me \$5.
+
+I'm sure that the same sort of service is available from some of the "big chains" -- Kinkos comes to mind; also Staples, Office Max, and Office Depot.
+
+Depending on size, you may have to get your enlarged plan parts printed on more than one sheet -- but you WON'T need to supply "files on a disk". \[JW\]
+
+</div>
+
+Dave Larkin \< 
+
+ \> wrote:
+
+Regarding 'short' tuned pipes: Irvine makes a range of 'Super Silencers' that hang on the exhaust port. The .20-sized one was virtually required wear for Club 20 racers in England. I used the .40 size on an OS .40 FSR for some years, and it certainly gave more power.
+
+I do have an early MVVS .15 diesel, though I have not run it yet. It does have a short muffler that attaches behind the engine. However it is very short indeed, compared to the Irvine Super Silencer, and, I think, the devices used by Ranjit Phelan. So I'm not really convinced that the one I have is actually a 'tuned' pipe.
+
+Best regards, Dave Larkin
+
+Allen Wiltz \< 
+
+ \> requests:
+
+I have recently acquired a new G-Mark .12 opposed twin-cylinder engine along with the operating instructions. Included was one page (42) of a review of this engine by Peter Chinn. It appeared in the March 1980 issue of Model Airplane News.
+
+My issues of M.A.N. begin in April 1980. I would like to get a copy of the remainder of this report. I have 30 minutes of bench time on the engine. It sounds great, and I look forward to putting it in an airplane. Allen
+
+Stuart McKenzie \< 
+
+ \> needs advice:
+
+I have a Cox Dragonfly .049 with the exhaust throttle/muffler assembly. I love it; it transitions well, and is the perfect power plant for Randy Randolph's design, the Between (low wing, generous dihedral; rudder & elevator), 3-channel trainer.
+
+Unlike other Cox engines I have owned (TD's) this one is VERY reliable and starts every time (if you prime it enough).
+
+I rarely close the muffler spring, since it robs so much power from the engine. However, last Sunday I did, and now the wrap- around muffler assembly has separated from the throttle assembly.
+
+The engine runs fine, throttles well, but there is a huge amount of clatter with all that metal vibrating (not to mention radio interference).
+
+How is the top half of throttle joined to the bottom half muffler? Is it just a "press fit"? Once separated, can it be pressed together again? (And remain that way?)
+
+Inquiring minds want to know, TIA, Stuart
+
+<div class="Joe">
+
+...Stuart, the Dragonfly was not one of the old Cox company's proudest achievements; and though its production didn't last long, it went through a bunch of detail changes. I know because I was on the "de-bugging crew".
+
+I still have a couple of those engines, reworked more than a little. In fact, I did an illustrated article for MAN about 10 years ago on how to customize the Dragonfly into a reliable power plant.
+
+One of my Dragonflies is enclosed inside a snug-fitting cowl and it's hard to see the muffler-throttle assembly; but the other D-F is in front of me right now for examination.
+
+Assuming that the engine I have here is like yours: the two parts of the "muffler-throttle" assembly are press-fitted together. But the tightness of the press fit is dubious, because it depends on a lightly-knurled area just above the snap-ring groove of the "throttle" part. If the fit there ever loosens, it will only become worse.
+
+You can fix your throttle in various ways. Take it off the engine and try pushing the throttle part back into place. If that can be done with finger pressure, the fit's too loose to be reliable.
+
+Remove the snap ring, then separate and clean the two parts. One way to re-tighten the press fit is to use a fairly sharp knife blade to score grooves in the knurled area. You want to deform the metal a smidgen in quite a number of places all around, so as to restore the press fit.
+
+To re-assemble the parts, bore a 3/4" hole in a smooth piece of hardwood. This is for a "holding fixture" to equalize the pressure on the "muffler part" while you push the "throttle part" back in.
+
+I'd use a vise for that, with a piece of smooth plywood over the upper surface to protect it from marring by the vise jaw. You could also do the job in a drill press, using its chuck as a sort of arbor press. Or if nothing better is available, you could tap the parts back together with a mallet.
+
+For extra security, you could run a small fillet of JB Weld along the area above the snap ring groove and onto the underside of the "muffler". Just make sure the parts are oil-free first.
+
+Since your Dragonfly has worked well for you until its throttle/ muffler came apart, I won't say anything about the other "custom modifications" made to my Dragonflies. \[JW\]
+
+</div>
+
+Curt Hulett \< 
+
+ \> reports:
+
+I'd written some time ago about problems I had with a Playmate .25. The trouble was traced (thanks to suggestions) with an incidence meter to wing warp. I corrected that, added down-thrust, and ailerons. The plane flies beautifully now on an O.S. .15 FP. All-up weight is 2 pounds 4 ounces. Curt
+
+Richard Ranney \< 
+
+ \> wrote:
+
+I just had a very disappointing experience with a Ziroli-designed Mini-Sukhoi from MAN plans. First, the plans were not so good. A lot of the parts just didn't fit well at all, so a lot of cut and try was necessary. That takes a lot of fun out of the building.
+
+But I eventually did a really nice job with the plane. Norvel 074, 34 inch span, 245 square inch wing area; Monokote covering; 18.5 ounces ready to fly. Everything was checked out with my incidence meter... I was ecstatic to get it into the air!
+
+I was told this model needed some up elevator to keep the tail on the ground for takeoff directional stability -- which I didn't do very well. The Sukhoi was all over the runway before I finally got it shut down. Tried again and did a little better; but then it leapt off the ground and flipped over in what I think is called a ground loop.
+
+After a new firewall and wingtip repairs, I tried again -- and it did the same thing again. While I am planning the next repairs, I wonder if possibly this model should have some down thrust(?), although that just doesn't seem right for a symmetrical airfoil.
+
+I have quite a few hundred hours in the air with 1/2A ships, so it's not as if I am a beginner -- although none of them were as high powered as this one. Any suggestions or experiences?
+
+Also, if anyone has a ModelCad program they would like to sell, please e-mail me a note. I would like to learn designing with a computer program. Richard Ranney
+
+<div class="Joe">
+
+...Richard, in a groundloop the aircraft never leaves the ground. The leap into the air followed by a flipover that you described is a snaproll. Its usual cause is one wing stalling.
+
+There are a few possible reasons for that. One is a warped wing -- the condition that Curt Hulett had with his Playmate. Another is taking off in close-to-the-stall conditions, with the rudder or ailerons deflected. (Keep them both in neutral at takeoff.)
+
+Another common cause of one wing stalling is the fact that on a tapered wing the tips tend to stall first. This is especially true of a model wing with ailerons.
+
+To cure the problem, some flyers use "wash-out" -- deliberately warping the wings so that the tips have less incidence than the wing root.
+
+With ailerons, another "cure" is possible. Set the aileron linkages so that in "neutral", BOTH ailerons are slightly "up". This achieves somewhat the same effect as wash-out, and minimizes tip stalling. \[JW\]
+
+</div>
+
+<div class="Joe">
+
+...This is kind of a short Posting, so I'll fill in a few extra paragraphs on a topic discussed in a couple of recent Postings: transferring model part patterns onto wood.
+
+Here's how Andy Clancy does it (taken from his original Speedy Bee instruction sheet):
+
+"My method for cutting out parts is to use Post-It glue sticks to stick the parts templates (or copies of them) to the wood... Post-It glue sticks use an easily-removable type glue. They are made by 3M, and are available at some office supply stores. You may have trouble finding them. I had to try several stores. It is worth the trouble."
+
+Andy also cuts duplicate parts (e.g. wing ribs) by stacking up a pile of sheet balsa blanks, pinning them together, then sawing with a bandsaw. I do the same, except that to eliminate rocking and misalignment of the stack of blanks, I use wire brads to keep the stack together. I assemble the pile over a smooth steel plate (the top of my table saw works well for this) and drive the brads until their points flatten a little against the plate.
+
+That assures tight "clamping" -- which is needed for accurate cutting of spar notches in a stack of say 20 identical wing ribs.
+
+(I also usually put an extra piece of low-quality balsa on the bottom of the stack, to minimize edge fuzz on the "good parts" from the sawing operation.)
+
+A tightly-bradded set of wing ribs also makes sanding convenient. In fact, it's my custom to saw ALL my model parts a little over- size; then carefully block-sand them to exact shape.
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index
+
+</div>

@@ -1,18 +1,18 @@
 ---
 title: "Science videos physics shorts: odd & weird"
 source_domain: amasci.com
-source_path: physvids/3.html
+source_path: physvids/4.html
 order: 487
 reachable_from_entry: true
 images: 3
 internal_links: 16
-extracted: 2026-08-03T18:12:26Z
+extracted: 2026-08-07T05:53:46Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # Science videos physics shorts: odd & weird
 
-*Source page: `physvids/3.html`*
+*Source page: `physvids/4.html`*
 
 <table data-summary="nav links, google search window" width="100%">
 <colgroup>
@@ -64,7 +64,7 @@ extractor: site_to_paper.py (pandoc)
 <td data-summary="spacer" width="25"> </td>
 <td data-valign="top" data-summary="bizarre science videos" width="660"><h1 id="odd-physics-video-archive">ODD PHYSICS VIDEO ARCHIVE<br />
 </h1>
-<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/4.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/9.html">...9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   <a href="http://amasci.com/physvids/6.html">6</a>   <a href="http://amasci.com/physvids/5.html">5</a>   <a href="http://amasci.com/physvids/4.html">4</a>   3   <a href="http://amasci.com/physvids/2.html">2</a>   <a href="http://amasci.com/physvids/1.html">1</a>   <a href="http://amasci.com/physvids/2.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
+<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/5.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/9.html">...9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   <a href="http://amasci.com/physvids/6.html">6</a>   <a href="http://amasci.com/physvids/5.html">5</a>   4   <a href="http://amasci.com/physvids/3.html">3</a>   <a href="http://amasci.com/physvids/2.html">2</a>   <a href="http://amasci.com/physvids/1.html">1</a>   <a href="http://amasci.com/physvids/3.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
 </p>
 <br />
 &#10;<hr />
@@ -79,7 +79,8 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-OK, it's not weird physics. But too cool to leave out. Also <a href="http://www.youtube.com/watch?v=pEThuaKLvzo">Thai Sylvania ad</a>
+Send an entire aircraft carrier to Saturn in five weeks.<br />
+We coulda had atom-powered spaceships.
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -94,25 +95,9 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-The quite bizarre "Marinov Motor" effect. Thought to be<br />
-powered by fast-moving heat-expanded lumps on the ball surfaces.<br />
-Or perhaps this is a Faraday Disk, an "Earth's Core Dynamo" being<br />
-run as a motor instead of a generator.
-<pre><code>
-</code></pre>
-<hr />
-<div class="iframe">
-<div id="player">
-&#10;</div>
-<div class="player-unavailable">
-<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
-<div class="submessage">
-JavaScriptin suoritus ei onnistu.
-</div>
-</div>
-</div>
-<br />
-Dorothy's house won't get sucked up into the sky.
+Playing around with ion thruster plasma stream. Extensible<br />
+diagnostic probes (i.e. poke it with a stick.) Also see the<br />
+infamous <a href="http://www.youtube.com/watch?v=vpEnnUHo9yg">ion engine powered coke can</a>
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -127,7 +112,9 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-More terribly cool but not real physics
+Dolphins make bubble rings! Inflate them using laminar jets!!<br />
+Then spawn off small ones!!!! And... and... trigger oscillations<br />
+growing unstably to a turbulent regime!!!!!!!
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -142,8 +129,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-A kilowatt of ultrasound cavitation bubbles. But I wanna see if<br />
-it glows when the lights are off!!!
+Parallel processing with crystallization waves
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -158,7 +144,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Inductive repulsion, nonmagnetic aluminum slab in intense b-field
+Nikola Tesla didn't have enough magnetrons.
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -173,7 +159,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-We live submerged within a thick layer of fluid
+Liquid-y!
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -188,7 +174,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-A 45-tesla b-field! More weird inductive repulsion effects
+Ah, if only x-ray lasers could be built so simply
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -203,7 +189,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Real Ball Lightning is incandescing aerogel?
+Getting your dropped glass to squirt properly
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -218,25 +204,43 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-If the max-volt point is in the center, then that thing is<br />
-way mis-tuned...
+But how would it appear at night? Could you see the sea bottom?<br />
+Or hundreds of giant squids suspended all around down there?
 <pre><code>
 &#10;</code></pre>
 <hr />
-<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/4.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/9.html">...9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   <a href="http://amasci.com/physvids/6.html">6</a>   <a href="http://amasci.com/physvids/5.html">5</a>   <a href="http://amasci.com/physvids/4.html">4</a>   3   <a href="http://amasci.com/physvids/2.html">2</a>   <a href="http://amasci.com/physvids/1.html">1</a>   <a href="http://amasci.com/physvids/2.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
+<div class="iframe">
+<div id="player">
+&#10;</div>
+<div class="player-unavailable">
+<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
+<div class="submessage">
+JavaScriptin suoritus ei onnistu.
+</div>
+</div>
+</div>
+<br />
+Gnomes: UV pulse lasers plus high voltage, equals profit!
+<pre><code>
+&#10;</code></pre>
+<hr />
+<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/5.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/9.html">...9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   <a href="http://amasci.com/physvids/6.html">6</a>   <a href="http://amasci.com/physvids/5.html">5</a>   4   <a href="http://amasci.com/physvids/3.html">3</a>   <a href="http://amasci.com/physvids/2.html">2</a>   <a href="http://amasci.com/physvids/1.html">1</a>   <a href="http://amasci.com/physvids/3.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
 </p>
 <br />
-</td>
+&#10;<table data-summary="google ad">
+<tbody>
+<tr>
+<td style="text-align: center;" data-summary="google ad"></td>
+<td> </td>
+</tr>
+</tbody>
+</table></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-|     |     |
-|:---:|-----|
-|     |     |
-
-<http://amasci.com/physvids/3.html>\
+<http://amasci.com/physvids/4.html>\
 Created and maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\
 
 <div class="statcounter">

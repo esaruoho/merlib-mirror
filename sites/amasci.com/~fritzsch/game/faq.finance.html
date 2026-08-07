@@ -1,0 +1,324 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head>
+<title>Finance Questions</title>
+</head>
+<body bgcolor="#9999FF">
+<center><h1>Finance Questions</h1></center>
+
+<a name="F1"><h3>1.  Tax loss carry-forward</h3></a>
+<br>
+I don't think our tax loss carry-forward is correct.
+
+<h3>Answer</h3> 
+
+Thanks for your question about the tax loss carry-forward.  I regret 
+that the calculations do not show on your reports because it would be 
+easier to see the effects.
+<p>
+Your parent company's tax bill is based on consolidated income, rather 
+than only the income in the home area.  Taxes paid by subsidiaries 
+constitute a credit to the parent company tax bill.  Current period 
+income is reduced by a tax loss carry-forward, if any, from the 
+previous quarter.
+<br>
+The calculation is easy to see when there is a consolidated net loss, 
+as you had in Year 3, Quarter 1.
+<pre>
+ Consolidated Net Loss Before Tax        $-101
+ Less Income Tax paid by subsidiaries     - 60
+
+Net Loss after tax                       $-161
+</pre>
+Note that this is not the same as the loss in Area 1 ($-206), 
+attributed to the parent company.  The subsidiaries paid $60 tax on 
+$154 income (60/.39).  This income, already taxed to the subsidiary, 
+reduces the consolidated loss.  Adding it back establishes the tax 
+loss carry-forward for the parent:
+<pre>
+ Consolidated Net Loss Before Tax        $-101
+ Less Subsidiary Income already taxed     -154
+
+ Parent tax-loss carry-forward           $-255
+</pre>
+Then, in Year 3, Quarter 2,
+<pre>
+ Consolidated Net Profit Before Tax      $ 188
+ Less tax loss carry-forward              -255
+
+ Consolidated Taxable Income             $ -67
+ Taxes paid by subsidiaries                -85
+ Less subsidiary income                   -218
+
+ Parent tax-loss carry-forward           $-285
+</pre>
+Note that there is a tax loss carry-forward, even though there was a 
+profit of $207 in Area 1, due to the loss in Sereno.
+<br>
+Then, in Year 3, Quarter 3:
+<pre>
+ Consolidated Net Loss Before Tax        $-138
+ Less tax loss carry-forward              -285
+
+ Consolidated Taxable Income             $-423
+ Taxes paid by subsidiaries               -101
+ Less subsidiary income                   -259
+
+ Parent tax-loss carry-forward           $-682
+</pre>
+In Year 3, Quarter 4 there was a consolidated profit
+<pre>
+ Consolidated Net Profit Before Tax      $ 437
+ Less tax loss carry-forward              -682
+
+ Consolidated Taxable Income             $-245
+ Taxes paid by subsidiaries               -226
+ Less subsidiary income                   -579
+
+ Parent tax loss carry-forward           $-824
+</pre>
+During Year 4, your firm had a consolidated net profit each quarter, 
+including untaxed profits in Sereno (not taxed because of a peso tax 
+loss carry-forward).  It may be instructive for you to "do the sums" 
+for the first three quarters of Year 4.  At the end of Quarter 3, the 
+tax loss carry-forward was $169 thousand.
+<br>
+For Year 4, Quarter 4:
+<pre>
+ Consolidated Net Profit Before Tax      $1456
+ Less tax loss carry-forward              -169
+
+ Consolidated Taxable Income             $1287
+ Tax at 39%                                502
+ Less taxes paid by subsidiaries          -370
+
+ Net tax bill for parent company         $ 132
+</pre>
+<p>
+<a name="F2"><h3>2.  Depreciation expense</h3></a>
+<p>
+To calculate depreciation expense per quarter for equipment:  What is 
+the depreciation ($ or P) amount for equipment in Sereno?
+
+<h3>Answer</h3>
+
+Equipment is depreciated on a straight-line basis over 7 years.  
+So depreciation charges each quarter are calculated as 1/28th (3.5714 
+percent) of the original book value of all equipment in place during 
+the quarter.  This applies both to peso values in Sereno and dollar 
+values in Merica.
+<p>
+Equipment depreciation is covered in more detail on pages 111-112 
+of the BPG Player's Manual.
+
+
+<a name="F3"><h3>3.  Inflation</h3></a>
+Is maintenance expense subject to inflation?
+
+<h3>Answer</h3>
+
+Maintenance costs, along with virtually all other costs and expenses 
+in the simulation are subject to the effect of inflation.  
+
+<a name="F4"><h3>4.  ROI calculation</h3></a>
+
+On page F1 of the Quarterly Industry Report, we are curious as to 
+how "Investor ROI" is calculated.  How might we estimate future ROIs?  
+Can you please enlighten us?
+
+<h3>Answer</h3>
+
+The formula for calculating Investor's ROI is on page 55 of the BPG
+Player's Manual.  The ROI is, essentially, an IRR calculated with 
+a quarterly compounding period, adjusted to an annual rate.  The 
+investment is the amount put up for a share of stock in Year 2, 
+Quarter 4.  The "cash  inflows" are the dividend payments each 
+quarter plus the ending stock price.  Your finance VP is on his 
+own to estimate stock price.  It is determined by the types of 
+things investors use in the market, plus changes in the market itself.
+
+
+<a name="F5"><h3>5.  Affiliate purchase costs</h3></a>
+
+When a company has a plant in Merica and Sereno, what is the best way 
+to determine the purchase costs that the affiliates have to pay?  
+Should we take the average production cost of the units available 
+after local sales office orders have been fulfilled by the factories?
+
+<h3>Answer</h3>
+
+The average production cost (shown in Report D) plus 20 percent is the
+transfer price of goods sold to affiliates.
+
+
+<a name="F6"><h3>6.  	Stock price calculation</h3></a>
+
+Can you give us any insight into how the "Stock Price" is arrived at?  
+With a large swing in Net Income, from -649 to +336, and a positive 
+Earnings, we thought that our stock price would have improved.  Can 
+you tell us what factors go into figuring Stock Price?
+
+<h3>Answer</h3>
+
+Stock price is from a simulated market where investors are using 
+earnings, dividends, market factors, and other investment measures to 
+determine the amount they would be willing to pay (or receive) to buy 
+(or sell) a company's shares.
+
+
+<a name="F7"><h3>7.  Executive compensation</h3></a>
+
+We would like to have clarification of the executive compensation 
+policy. we have been charged with inflation adjusted compensation for 
+a plant that is under construction. It would seem that a plant under 
+construction. would not have executives working it? Shouldn't 
+executive compensation be charged only during quarters that the plant 
+is operational.
+
+<h3>Answer</h3>
+
+Top executives for a plant need to be aboard starting with the time 
+the construction contract is let.  They are charged with supervision 
+of construction, organizing things for future operations, hiring and 
+training employees, etc.  So executive compensation is part of the 
+cost of opening a new plant.
+
+
+<a name="F8"><h3>8.  Credit rating determination</h3></a>
+
+We are curious about how the Credit Rating is arrived at in the 
+simulation.  We have shown positives in every category for at least 
+the last two quarters but yet we have a credit rating of 3.  Can you 
+please shed some light on this for us?
+
+<h3>Answer</h3>
+
+An emergency loan from the bank will qualify a company for a number 3 
+credit rating.  Otherwise, ratings are evaluated by credit analysts at 
+the end of each year.  Generally, a company with an emergency loan 
+during the past year or two will not be upgraded.  The factors 
+affecting credit ratings are shown on  page 57, but only three or four 
+quarter's performance on most of them will not have much impact.
+
+
+<a name="F9"><h3>9.  Credit rating</h3></a>
+
+Is there a way to tell if a competitor took out a short term loan when 
+it shows a negative cash balance on the industry report?  The real 
+reason I am asking is to find out why credit ratings haven't changed 
+for some people in our world yet? Is the credit rating only updated 
+yearly?
+
+<h3>Answer</h3>
+
+Credit ratings are calculated by credit analysts in the 4th quarter of 
+each year based upon a firm's performance over an extended period of 
+time.   However emergency borrowing will normally trigger a reduction 
+in a firm's credit rating in the quarter the emergency borrowing 
+occurred.  See pages 56 and 57 of the Player's Manual for more 
+information.  
+
+
+<a name="F10"><h3>10.  Cash management</h3></a>
+Last year teams had significant troubles with cash management in the 
+later stages of the game.  The industry appeared to still be in 
+significant growth stages at the end of the competition.  Our 
+understanding of cash management and dividend policy is that rapid 
+growth industries typically do not issue frequent dividends - the cash 
+should be reinvested to strengthen the position of the firm.  However, 
+last year the teams with exorbitant amounts of cash at the end were 
+issuing large dividends each quarter. 
+<p>
+This seemed to help their stock price immensely, though as a policy it 
+doesn't seem to match what we have learned.  Is this a symptom of the 
+simulation?  Or is there some better way to manage our cash, should we 
+be in the same situation this year?
+
+<h3>Answer</h3>
+
+Dividends to shareholders is a decision variable that your team will 
+have to decide.  BPG shareholders like dividends, and a regular 
+dividend policy that allows payment of 30% to 60% of earnings may 
+enhance your stock price.  But not if the result is insufficient cash 
+and inability to invest in profitable projects.  It is best to develop 
+your strategy and policy, and stick with it.
+
+
+<a name="F11"><h3>11.  Dividends</h3></a>
+Our accountants are having trouble understanding the dividends paid to 
+parent and dividends paid to subsidiaries.  We have all read the book, 
+and we are still vague as to how we calculate the exact dividends.  As 
+you know, accountants need exact numbers and they are confused. 
+
+<h3>Answer</h3>
+
+Dividends are not paid to subsidiaries, as they do not invest in the 
+stock of other companies.
+
+Dividends paid by the parent company to stockholders result from your 
+decisions.  Your team is in complete control of the amount of the 
+payment, as entered on your decision form.
+<p>
+Dividends paid by subsidiaries to the parent are described in the 
+Player's Manual on page 130.  Until the retained earnings have been 
+built up to at least 50% of the value of common stock, only 80% of 
+earnings are paid to the parent company.  After that, all profits 
+are paid to the parent as dividends.
+<p>
+Dividend payments to the parent are subject, of course, to the 
+availability of cash in the subsidiary's bank account--after payment, 
+there must still be one million pesos in the Sereno subsidiary, or 
+$100,000 in Merican subsidiaries.
+<p>
+The parent company's account "Dividends from Subsidiaries" reflects 
+how much is received by the parent and the sum of subsidiary dividends 
+paid to the parent should equal the amount of "Dividends from 
+Subsidiaries."  As Internal transfers, these amounts net out and do 
+not show on the consolidated statements.
+
+
+<a name="F12"><h3>12.  Credit rating</h3></a>
+
+During quarter 4, year 3, our credit rating fell to level 3, along 
+with the rest of our world.  We would like to question the reasoning 
+behind this.  We had a credit rating of 2 prior to fourth quarter, 
+when we had the high sales in the industry at 5.1 million dollars, and 
+we ended with the highest cash balance of 983,000 dollars with no 
+loans.  We are hoping this was a fluke and can be appealed.  We have 
+worked very hard to manage our finances as we have made long term 
+improvements to our plant and product.  What has happened to our 
+credit rating?  We were hoping for, and honestly expecting, our credit 
+rating to move to 1 very soon.
+
+<h3>Answer</h3>
+
+The factors that are considered by credit analysts in their year-end 
+review are outlined on page 57, and are considered for an extended 
+period rather than just for a single quarter.  As this is the first 
+year of the competition, the period is for the entire Year 4.  Credit 
+analysts do not usually divulge the specific values of different 
+variables that they consider, but to have an average credit rating 
+generally expect your company to at least meet industry standards and 
+excel in relation to other companies in the industry.
+<p>
+Your company certainly met repayment obligations and had no 
+emergency borrowing, and from the Annual Industry Report showed an 
+increase in market share of about 1.6 percentage points.  You might 
+wish to check out the other factors noted on page 57 in relation to 
+general industry standards and other companies in your industry.  For 
+example, no one in your industry paid any dividends during the year.  
+Your debt ratio (bonds/equity) exceeded the maximum permitted by your 
+bond indenture.  Partly as a result of the high amount of long-term 
+debt, your interest coverage ratio is a little low by most industry 
+standards.  Please consider each of the factors listed.
+<p>
+And remember that credit rating is not the only measure to judge 
+business success.  It does affect your borrowing costs and ability to 
+raise funds with new stock offerings.
+<hr><p>
+This page is maintained by David Fritzsche (<a href="../mainFrame.html">Home 
+page</a>).  Send comments to
+<a href=mailto:fritzsch@eskimo.com>fritzsch@eskimo.com</A>. 
+<p> This page last updated 1 November 2001. 
+</BODY>
+</html>

@@ -1,0 +1,339 @@
+---
+title: "Mullspace | Kat Litter | November, 2000"
+source_domain: amasci.com
+source_path: ~strange/litter/novlitter00.html
+order: 8363
+reachable_from_entry: false
+images: 1
+internal_links: 8
+extracted: 2026-08-07T06:00:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mullspace | Kat Litter | November, 2000
+
+*Source page: `~strange/litter/novlitter00.html`*
+
+<span id="top"></span>
+
+<div align="center">
+
+<img src="../images/MullChalk03a.jpg" data-border="0" alt="Welcome to Mullspace" />\
+<a href="../katbox.html" class="nav">Portal</a> \| <a href="litter.html" class="nav">Kat Litter</a> \| <a href="../fiction/fiction.html" class="nav">Tales</a> \| <a href="../nfiction/nfiction.html" class="nav">Lectures</a> \| <a href="../gallery.html" class="nav">Eye Candy</a> \| <a href="../list.html" class="nav">Accreations</a> \| <a href="../resume.html" class="nav">Kat Who?</a> \| <a href="mailto:mull.space@lycos.com" class="nav">Poke</a>
+
+</div>
+
+\
+\
+
+# November, 2000
+
+\
+\
+
+posted: undated
+
+<span id="independent"></span>\
+
+## Independent Rear Suspension
+
+\
+
+I have two ferrets. I should perhaps say that my life is lorded over by two ferrets. In the five-plus years I've had ferrets I have observed something about them that most people seem to have missed: they are constructed in three parts and the pointy part in the front is not in charge.
+
+If you are not familiar with them, think of a ferret as a sort of fur-covered slinky with legs, a stretch kitten, a miniature dual-tractor-trailer with teeth. They have a head-part (which is somewhat pointy and has the teeth in it), a middle bit with two legs attached, and a rear bit with two more legs and a tail. Although the head-part may seem to be in charge it is, in fact, mostly oblivious to things other than food and toys. The middle part seems to be the engine, since it is the most stable and predictable part. But it's the butt that seems to be in charge, in a sort of sit-down-revolt kind of way.
+
+How do I know this? Observation. I observed the following one day and many times since then:
+
+The ferret in question had come to rest standing beside and parallel to its litter box. The head part looked up at me and blinked its shoe-button-type eyes while the middle bit stood admirably still. Meanwhile, the wayward butt, without any apparent help, direction or knowledge from the other parts, hoisted itself sideways into the litter box and maneuvered itself around to do what you can surely imagine it would do in a litter box.
+
+When this mission was complete, the butt hopped out of the box and bumped into the middle bit, which seemed a bit startled and started to move away. Meanwhile, the head remained oblivious of this activity, still directing its gaze at me with some kind of anticipation (probably hoping for a bit of my banana, or something). The middle bit decided it didn't like being bumped by the end bit and started to walk away, but the butt wasn't having any.
+
+Apparently worn out by the activity, the butt decided to rest on its tail. The middle bit, still doing its thing, continued to walk forward as the head, now concentrated on the banana, tracked the fruit with great intensity. Suddenly, the head was made aware of the unwarranted activity of its associates and looked around wildly.
+
+"Oh, no!" it seemed to be thinking, "palace revolt!"
+
+The middle bit just continued straight ahead, dragging the lazy rump along behind.
+
+The indolent rear part seemed to be enjoying the Hell out of this for a few minutes, then got bored, stood up and attempted to outrun the rest of the ferret in a mad dash to something more interesting.
+
+The middle and head bits then took a tumble, had an argument, which was punctuated with much waving about of the teeth by the front part and the discoordinated jumping up and down of the middle bit while the hind end was flung about indiscriminately.
+
+I think, if the butt could have laughed, it would have.
+
+Suddenly, the entire ferret reached consensus and darted forward to snatch a toy that was lying on the floor. Now came the committee work. The head grasped the rubber eggplant in its teeth while the front part did a bit of dancing around, but, again, it was the butt that was in charge.
+
+Without any regard for the laws of physics or any concern for whiplash, the rump made a sudden, precipitate turn to the right, reversed direction while maneuvering, and dragged the rest of the ferret under the settee, eggplant and all. The whole vanished with a protesting squeak! from the rubber eggplant as it was folded neatly in two to pass through the hole.
+
+A little while later, the head appeared and then the middle bit, both pushed out into the open by the rump, which was apparently working quite hard to move the recalcitrant fore-parts, judging by the amount of scrabbling the little back feet where doing. Of course, this could also have been because the floor was a bit slick, but I doubt it.
+
+It doesn't seem to matter what is going on where the ferrets are, if the butt gets an idea, the rest of the ferret will be dragged, pushed or tumbled along according the the ass-end's whim. Despite the fact that the front end is cuter and the middle part is more steady and stable, the butt is definitely in charge.
+
+Which kind of reminds me of a place I once worked.....
+
+\
+\
+
+posted: November 9, 2000
+
+<span id="dad"></span>\
+
+## For the Memory of My Father: Richard Dennis Huffine,
+
+**Died November 9, 1988**\
+\
+
+Usually, I am extremely morose on this day, but, it started out pretty well. Last night a friend of mine didn't die of an overdose and another friend was discharged from an unpleasant legal situation, so things were pretty up. But, still, I always wear black on this date because I don't want to forget him, even if the discomfort and unhappiness of the event have faded (though they will never really be gone.)
+
+Dad was pretty cool. He wasn't a perfect father or a perfect human being, but he was a good one. The irony of his death was that I had talked to him only a few days before about getting together for Thanksgiving (which if you are not from the US, occurs in the 3rd week or so of this month) and he had said he didn't feel well enough to discuss it. This was kind of upsetting, since Thanksgiving was really his favorite holiday.
+
+It didn't have the pressure and commercialism of Christmas, or the drunken, party atmosphere of New Year's, which always depressed him. It was and is a nice, family holiday. It is again, and at last, a pleasant, family holiday for me, too.
+
+I do, however, often wish Dad had been able to witness a few events he missed in my life. He never saw any of his kids get a college degree. Being a man with four, himself, it was significant to him that we should. I have one, now, and my younger brother has one, too. Dad did not get the chance to attend my wedding, nor meet the man I married. He never saw my first byline, or knew that I became a professional wordy-girl, which would have thrilled him. Now, as I attempt to sell my first novel-length manuscript, I really miss his advice, because I know he would have had some. I miss his editing, too.
+
+Dad wrote for underground "beat" papers, himself, when he was in college and he taught English most of my life with him. He read Latin and a little ancient Greek and one of the first "bedtime stories" I remember him reading to me and my sister was a kid's translation of *The Odyssey*. Strange stuff to most people's minds, but not to us. We loved it. Of course, we also loved *The Wind in the Willows* and *My Father's Dragon*. All of us kids starting reading long before school age, which also thrilled my dad and I believe it is because he read to us from the time we were tiny, always sitting on his lap, looking at the pages and asking questions, which he always answered.
+
+Oh, there's a lot of stuff about Dad to remember. Not all of it as as good as this. He could be depressed, snappish, obscure, blindly angry, biased, bullheaded and suicidal. He passed on some predisposition to clinical depression and other medical problems. He had habits and patterns of mind which were not always healthy. He smoked for 30 years, then quit suddenly when diagnosed with late-onset diabetes. There were strange things about his past he didn't really discuss with me. He was a political liberal and a personal conservative. He had a high-flown education and a sophisticated voice, yet he often styled himself "a dumb Okie with pretensions" and would slip into a self-consciously broad Oklahoma accent and make fun of himself.
+
+On the other hand, he could make almost anything seem funny. He told of being "mentaled" out of the Air Force for decking an officer. He made it seem quite reasonable and hilarious that a sergeant, struggling out of hospital bed, would punch out a superior officer for berating survivors for not getting killed in covert operations in Korea. He was a dichotomy in himself: a gentle liberal who knew the business end of gun and had used it without remorse or apology.
+
+He was also an actor and singer, a teacher, writer and good friend to many. To me he was my father and I see him through that colored haze, even across this stretch of time and memory, with all I know about him, good and bad. Whatever was bad, that has passed. The resonation of what was good I hope will linger in my memory forever.
+
+I miss you, Dad.
+
+\
+\
+
+posted: undated
+
+<span id="badass"></span>\
+
+## The Essence of Being Human
+
+\
+
+Modern American society is sick, corrupt, repulsive and hypocritical. We're all supposed to be nice, well-adjusted, politically-correct, gender-and-ethnicity-sensitive and terribly, terribly self-conscious about it all, clean, antiseptic and androgynous. Ooo... but you're not supposed to let anyone know that you are self-conscious. You're supposed to put forth the front that all of this is as natural to you as breathing, that it's a part of the very fiber of your identity, integral to your personality, indivisible from the very essence of "you."
+
+What a flaming crock of over-fermented kimchee. No one is like that. We are all neurotic, hungry, prejudiced, looney, sex-obsessed fiends out sniffing for the best, the safest, the biggest, the whatever-it-is that satisfies our drives. But we are not supposed to let anyone know. Oh, my, no! Lock up your drives, your weirdness, your individuality, your ugliness, your desires. Stuff 'em in a box somewhere and never, never admit you even have such a box. Certainly never take it out in public (and we're not so sure it's a good idea in private, either). Especially anything that smacks of... well, you know... that....
+
+Sex.
+
+Let me repeat that for those of you who are averting your eyes: **SEX**. Yeah, the messy stuff.
+
+Ultimately, one thing drives all creatures: survival; survival of the species; survival of the individual and we are, as Neil Stephenson put it, the stupendous evolutionary bad-ass of all time. We, as a species and as individuals, will trample, destroy and subsume whatever stands between us and survival, continuation, expansion. And the most basic drive that fuels us to be such bad asses is sex, running a neck-and-neck race with personal, physical safety. Which explains why interruption at the point of orgasm by a gun-wielding maniac may cause us a certain pause to ask ourselves (if we have that much functional brain at the time) "go ahead and come or shoot the bastard?"
+
+Well, that is a toughie.... Though, I, personally, vote for "shoot first and come later," I have yet to have to make that decision, in real life. I am not completely convinced that my brain would be that well-disciplined in the actual event, though I hope that the evolutionary bad-ass in me will leap to the fore in a surge of instinct, while not actually forgetting how to use a gun.
+
+I am a clandestine bad-ass. Unthreatening and pleasant as I may seem, beneath the surface society demands I show, there is a creature who is more interested in her own personal survival and the passage forward of her own genes, than in who is going to be the next President of the United States or if society as we know it is going to break down completely and go up in a whimpering spume of greasy smoke. I really don't care if it does. In a way, it would be better for me (from an evolutionary bad-ass perspective): more... stuff for me and fewer people to share it with. Yeah... I like that idea. My world, my species, my stuff.
+
+In the end there is me: crazed, selfish, sex-obsessed, driven to survive because that's really all there is. Being a "good citizen" or a "politically correct and morally sensitive individual" may serve for protective coloring to ease my way in modern society, but it is not the essence of the long line of stupendous bad-asses which leads to me. None of my forebears raised kids because it was the politically sensitive thing to do. They did it because, that is how you keep on being a bad-ass: you survive. Pass on the genes and let the descendents keep on fighting... and screwing. Generation after generation of stupendous, evolutionary bad-asses.
+
+Don't pretend to be offended. You are like me, too, when you have the courage to look. In a way, the panderers of platitudes are correct: we are the same under the skin. We are bad-asses with our own ends foremost.
+
+Survival and sex: it's all their fault. Be glad you're a bad-ass. Practice being the biggest evolutionary bad-ass you can be: survive long enough to laugh in your enemies' faces.
+
+And, oh, yes: have sex. It's the bad-ass thing to do.
+
+\
+\
+<span id="turkey"></span>
+
+posted: undated
+
+\
+
+## Talking Turkey
+
+\
+
+Way out there at the end of this week looms one of the ugliest things in the world: leftovers. Luckily, I shan't be the one to eat them. It's not that I have anything against the remainders of the Thanksgiving feast (yes, my non-US friends, this Thursday is Thanksgiving here in the still-headless United States), it's simply that I have too many memories of the perpetual turkey.
+
+I like turkey the first time around, but once it's been recycled into 23 turkey sandwiches, turkey soup, turkey divan, turkey hash, turkey pot pie, turkey cobbler and turkey a la mode, I'm starting to resent it's presence, like a lazy guest who simply won't pack up and move to an hotel. Despite it's annoying habit of hanging about, I feel a fond nostalgia for the old bird. Many strange moments in my life have been punctuated with turkey.
+
+One year, the 50-pound me devoured a two-pound drumstick with much defensive snarling because it was the first solid food I'd been able to swallow in a week. As a teenager, I once punctuated a tirade of my mother's by spewing turkey soup across the dining room. She should have removed the bones.... A garlic-stuffed turkey drove away the rats living in the basement, but the guests loved it. Of course, they may have loved it more for it's effect on the rats.... A turkey cooked in a bag flopped into a compromising position on the carving tray and was immediately christened "slut bird".
+
+That was an interesting bird.... It was the first turkey my college roommate and I had ever attempted on our own. First came the negotiation....
+
+"How big a turkey should we get?"
+
+"Well, not too big: the oven's not that large."
+
+"I think the oven's just fine." Opens door, sticks head and shoulders inside. "See?"
+
+"Well, we know the turkey can't be much larger than your head, then. At least we have something to measure against."
+
+"Oh, ha-ha."
+
+We did look rather silly in the frozen food aisle comparing turkeys to our heads.... We finally figured out how much the turkey should weigh by calling the turkey hotline and asking them what they thought we should do.
+
+"How big is your head?" the operator asked rather incredulously.
+
+"Uhmmm.... kind of head-sized, I guess."
+
+"Plus shoulders."
+
+So, with head and shoulders, we got a 23-pound turkey. This may have been a mistake.
+
+Then came the preparation....
+
+The operator at the turkey hotline suggested cooking the turkey in a roasting bag at a low heat for a long time.
+
+But the turkey didn't want to thaw.
+
+We stuffed it in the bag and into the flimsy disposable roaster anyway and shoved it into the amazing shrinking oven, which suddenly was a tight fit for the soon-to-be main course. I'd still swear that turkey was only about twice the size of my roommate's head.... Her head must be bigger than I realized.
+
+Exhausted, we went to bed on Wednesday night, assuming that the turkey would be happily roasting away while we slept.
+
+And it did. It thawed at an amazing pace and began to produce turkey juice...
+
+which overflowed the bag...
+
+and the roaster...
+
+and spilled onto the oven floor...
+
+and caught on fire...
+
+and woke us up when the smoke alarm began to scream at seven in the morning.
+
+My roommate's boyfriend leapt out of bed to defend us from the evil, burning turkey juice and ran into the kitchen, terrorizing the cats, who were wandering around wondering what that smell was....
+
+Snatching open the oven door, he was viciously gassed by the burning turkey juice. Holding his breath, he grabbed the potholders and tried to remove the turkey from the oven.
+
+Now, this was one of those above-the-stove type of ovens, so he had to pull the boiling turkey out through the flames at face-height and lower it carefully to the range top.
+
+The evil turkey spat bubbling hot turkey juice on his arms and tried desperately to launch itself out of the flimsy disposable roasting pan. But Bart is made of stern stuff and, despite these assaults, the world's most evil turkey was wrestled to the range top, bubbling furiously and overflowing the vicious juice everywhere.
+
+Hot turkey juice dribbled onto the stove and onto the floor. Hungry cats darted forward to lap up the steaming stuff as Bart did a dance of burned-footed fury to the sink.
+
+"Damn this turkey! It's a good thing we're going to eat it, or I'd have to kill it!"
+
+Carefully, we girls stuck our heads around the corner of the kitchen doorway and stayed far away, until the fire was put out with baking soda. My roommate dragged Bart off to the bathroom to tend the burns while I mopped up juice and chased cats.
+
+Then we carefully removed most of the juice with one of those leaky and ridiculous sucking-up tubes with the yellow bulb on the end, folded the now-ripped bag over the turkey and shoved it and it's treacherous pan back into the oven.
+
+Amazingly, we managed to prepare all the rest of the food for the feast, in spite of the glowering presence of the world's most evil turkey. It was going to be quite a feed.
+
+The guests arrived bearing a ham and three side dishes as well as one box and two bottles of wine and two six-packs of beer. We fell on the alcohol gratefully, despite the fact it was only 1 o'clock in the afternoon when it arrived.
+
+And when we presented the turkey to my roommate's father for carving, it flopped down, spreading its legs in the most wanton and outrageous fashion and slumped there like Theda Bara doing her vampish best.
+
+He took one look and threw the sharp and sparkling knife down in disgust. "I can't carve that! Just look at it! The meat is falling right off the bones!"
+
+My roommate and I just laughed, kept our comments behind our teeth, hoisted our wine glasses and went outside, leaving "slut-bird" to the untender mercies of two forks and a butter knife.
+
+At least we didn't have to watch the undressing of the dressing....
+
+And had our revenge by eating the evil bird while sitting on the terrace of our Long Beach apartment, overlooking the ocean on a balmy Southern California Thanksgiving day, drinking wine and making jokes and laughing at the adventures of "slut-bird".
+
+Man, we must have been drunk....
+
+\
+\
+
+posted: undated
+
+<span id="evilcat"></span>\
+
+## The Evil Cat
+
+\
+
+I've always lived around cats. I kind of like cats, even though they make my nose stuffy. I share the living quarters with a cat, now. We used to have two cats, but one of them... well, let's just say he didn't fit in.
+
+I never liked this cat, even though I had him for 6 years. He was named Guido, but he should have been called "capitulation." The other cat bugged me forever until I gave in and got a buddy for him to beat up on. Guido and I never got along, though. He was a compulsive purrer and a demanding self-petter. He also got pissed off easily and would demonstrate his pissyness in various pissy ways.
+
+And herein lies the tale of his very last piss-off.
+
+About two and a half years ago, we moved on to a boat from a small house. The older cat had no serious problem with this. But Guido (the pink pest as I also called him, because his fur looked slightly pink all over), did not appreciate it at all.
+
+I suppose it's understandable: moving from a small, two-bedroom house with a yard to a messy, cramped, 40-foot boat with nothing but water and narrow, cement docks all around might have been a bit upsetting. But his way of demonstrating his upset was not acceptable.
+
+First, he started to piss off the neighbors by pissing on their boats. Then he started leaving them less subtle presents. For some reason, no one said anything to me about it for a while. I eventually figured it out, though. Then, he got locked up inside the boat, but he would still leave his little calling cards whenever he got out.
+
+Guido didn't like being locked inside at night, so he started to demonstrate his ire by peeing on the bed. While we were in it. This pissed us off. Every night, we had to change the bedding and every day, I had to do the laundry.
+
+It became obvious to Guido that we just weren't getting the idea. So he left a present for us late one night, right down by my feet. No, not a fish... though it certainly stank. With much ire and disgust, the mess was cleaned up and the cat chastised severely.
+
+We tried to find him a new home, but no one wanted him, even though he was quite cute to look at and very soft and fluffy. Quite the "nermal". We came to end of our ropes and began to search for a shelter that would take him. In despair, I took him to the local animal control.
+
+"Oh, we don't keep cats who have behavior problems: we euthanize them," the lady at the counter told me, when I completed the forms.
+
+"What?!!!"
+
+Now, he may have been a pisser and a shithead, but he was my pet and I wasn't going to just hand him over to be whacked. Very unhappy, I shoved Guido back into the carrier and trudged home, muttering, "we'll have to figure out a way...."
+
+But there was no way.
+
+A few nights later, peacefully sleeping, I felt a cat walking around on my hair. I batted at it.
+
+"Hey.... ARRggghhh!!"
+
+My hand was wet. My head was wet. The pillow was wet. The little bastard had decided to piss on my head! At 2 in the morning!
+
+I shot out of the bunk like a watermelon seed pinched between wet fingers.
+
+"Why you--!" I spluttered. I was incoherent. No more than a single articulate word could pass my lips.
+
+I snatched up the cat by the scruff and rushed through the boat, out the stern hatch and onto the rear deck. With a heave, I flung the offending feline out, over the stern rail, straight into the canal.
+
+"You little shit! You rotten, pissing monster! You-- you..."
+
+And I realized I was standing on the stern deck, screaming at a cat in the canal at 2 in the morning...
+
+stark naked.
+
+I marched back into the boat, grabbed the nearest thing I could find to cover myself with, which was a very large, white towel, and marched back out to find the cat, wrapping the towel around me and tucking it in carefully.
+
+It occurred to me that I couldn't let him drown out there in the canal, since that would be littering and I'd get in big trouble for that. I looked for the cat, but couldn't find him. "Great," I thought. "The little bastard has gone and drowned. Terrific."
+
+Then I heard a little scratching noise. I looked down. There was Guido, clinging to one of our neighbor's fenders. He tried to crouch down when I spotted him, but he couldn't.
+
+"Well, hell...," I swore. I couldn't just leave him there, like that, so I bent down and hauled him out, dripping wet.
+
+With much cursing, I wrapped him up in the towel and...
+
+realized I was crouching in the middle of the dock at 2 in the morning, drying off a wet cat...
+
+stark naked.
+
+Again.
+
+I grabbed the bundle of wet cat and jumped into the boat. I threw the cat into the bathroom and slammed the door on it.
+
+"Hrm? Wha--?" said my husband from the bed.
+
+He had slept through the whole thing. I tried to explain, but I couldn't get more than a swear word or two out before my ability to speak was reduced to gagging on grunts of fury.
+
+"Cat--... piss--... head--... fucking... ggrrr...."
+
+Finally, Jim figured it out, got out of bed and helped me change the bedding.
+
+By now it was 3 AM and I was disgusted. I said I was going up to take a shower and wash the cat piss out of my hair.
+
+We were out of shampoo.
+
+I washed with fabric deodorizer and soap. And went back to bed to the sounds of a very unhappy cat locked in the head.
+
+In the morning, after making arrangements to take Guido to the no-kill shelter 45 miles out of town, the dock manager came along.
+
+"Umm... I've had complaints about your cat making messes on people's boats. This is just not acceptable."
+
+"You're telling me?"
+
+"Well, something has to be done."
+
+"Oh, it will be.... It will be...."
+
+Needless to say, Guido doesn't live here anymore. I like to think that he is in some little old lady's lap, purring up a storm, petting himself against her hand and being just the cutest little pink fluff ball he can be.
+
+While being terrified of water for the rest of his life. What a pisser, eh?
+
+\
+\
+
+Back to [top](#top) of this page, please.
+
+[Back to Index](lindex.html)\
+
+© 2000-2002 M. Kathleen Huffine/Kat Richardson. All rights reserved.

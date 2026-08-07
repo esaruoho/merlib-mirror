@@ -1,0 +1,260 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+ <META NAME="GENERATOR" CONTENT="SGML-Tools 1.0.9">
+ <TITLE>The Loadlin+Win95/98/ME mini-HOWTO: FAQ - Domande Frequenti:</TITLE>
+ <LINK HREF="Loadlin+Win95-98-ME-Italian-5.html" REL=next>
+ <LINK HREF="Loadlin+Win95-98-ME-Italian-3.html" REL=previous>
+ <LINK HREF="Loadlin+Win95-98-ME-Italian.html#toc4" REL=contents>
+</HEAD>
+<BODY>
+<A HREF="Loadlin+Win95-98-ME-Italian-5.html"><IMG SRC="next.gif" ALT="Next"></A>
+<A HREF="Loadlin+Win95-98-ME-Italian-3.html"><IMG SRC="prev.gif" ALT="Previous"></A>
+<A HREF="Loadlin+Win95-98-ME-Italian.html#toc4"><IMG SRC="toc.gif" ALT="Contents"></A>
+<HR>
+<H2><A NAME="FAQ"></A> <A NAME="s4">4. FAQ - Domande Frequenti:</A></H2>
+
+<P>
+<H2><A NAME="Section 4.1"></A> <A NAME="ss4.1">4.1 Dove posso trovare maggiori informazioni su Loadlin?</A>
+</H2>
+
+<P>
+<UL>
+<LI>Potte trovare Loadlin sul CD della vostra distribuzione preferita. Cercate usando come stringa 'loadlin'.</LI>
+</UL>
+<P>
+<UL>
+<LI>Il manuale manual.txt  disponibile al sito: </LI>
+</UL>
+<P>
+<BLOCKQUOTE><CODE>
+<A HREF="ftp://ftp.eskimo.com/u/p/praxis/manual.txt">ftp://ftp.eskimo.com/u/p/praxis/manual.txt</A></CODE></BLOCKQUOTE>
+
+<UL>
+<LI>N.d.T. Esiste anche una versione tradotta in italiano del manuale. Per ottenerne una copia scrivete a:
+<BLOCKQUOTE><CODE>
+<A HREF="mailto:mm@madeinlinux.com">mailto:mm@madeinlinux.com</A></CODE></BLOCKQUOTE>
+</LI>
+</UL>
+<P>
+<UL>
+<LI>Altre informazioni sono reperibili al sito:
+
+<BLOCKQUOTE><CODE>
+<A HREF="http://metalab.unc.edu/LDP/HOWTO/BootPrompt-HOWTO-2.html#ss2.2">http://metalab.unc.edu/LDP/HOWTO/BootPrompt-HOWTO-2.html#ss2.2</A></CODE></BLOCKQUOTE>
+</LI>
+</UL>
+<P>
+<H2><A NAME="ss4.2">4.2 Non sono sicuro su quale partizione e' installato Linux. Come faccio a scoprirlo?</A>
+</H2>
+
+<P>
+<UL>
+<LI>Al prompt della shell di Linux, lanciate l'utility <CODE>/df</CODE>. 
+Se vedete una linea con <CODE>/boot</CODE>, dovrebbe trovarsi nel percorso 
+associato (che dovrebbe cominciare con <CODE>/dev </CODE>). Se no cercate 
+una riga con un solo"<CODE>/</CODE>".</LI>
+</UL>
+<P>
+<H2><A NAME="ss4.3">4.3 Dove trovo l'immagine del kernel e come faccio a copiarla nella mia partizione DOS?</A>
+</H2>
+
+<P>
+<UL>
+<LI>L'immagine del kernel si chiama di solito <CODE>vmlinuz</CODE> e dovrebbe
+trovarsi nella directory '/boot'. Spesso <CODE>vmlinuz</CODE>  solamente 
+un link simbolico all'immagine reale. (Per scoprirlo digitate 'ls -l' 
+nella directory /boot - il file cui il link fa riferimento comparira' 
+a destra del nome 'vmlinuz'). Se proprio non riuscite a trovarlo, 
+scrivete: 
+
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+        find / -name vmlinuz*
+        
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+
+al prompt di Linux. Questo comando cerchera' il file vmlinuz in tutte 
+le partizioni Linux. Se vengono trovati piu' d'un vmlinuz, assicuratevi
+di scegliere il file corretto. Per sicurezza usate il piu' recente.     <P>Per copiare il file nella partizione DOS, dovete rendere la partizione 
+DOS visibile da Linux, montandola sul filesystem (se non lo e' gia').
+Solitamente questo viene impostato durante l'installazione.
+(N.d.T. Se cio' non fosse vero seguite le istruzioni seguenti.
+In generale se il DOS (e Windows) si trova nella prima partizione del 
+disco, digitate:
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+        mount -t vfat /dev/hda1 /mnt/dos 
+        
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P>dopo avere eventualmente creato la directory /mnt/dos.)
+Fatto questo dovrete solamente copiare il file in una directory del 
+filesystem DOS con il comando cp. 
+(N.d.T.: Tenete presente che C:\ si trova adesso nella posizione 
+/mnt/dos )
+<P>In ogni caso, se Linux non dovesse riconoscere la vostra partizione
+DOS, potete copiare vmlinuz su di un floppy. Prendete un floppy 
+formattato DOS (che disponga di spazion sufficiente a contenere
+il kernel) e inseritelo nel vostro floppy drive. Poi digitate: 
+<P>
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+
+        mount /dev/fd0 /mnt/floppy
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P>Dopodich spostatevi nella directory contenente il kernel e digitate:
+<P>
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+
+        cp vmlinuz /mnt/floppy
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P>Il kernel sara' cosi' copiato sul floppy. Riavviate il computer e 
+entrate in DOS (Windows) e copiate il kernel dal floppy alla directory 
+C:\ o un'altra directory di vostra scelta.
+Se ricompilate il kernel non dimenticatevi di copiare la nuova immagine
+nella partizione DOS. Ricordatevi eventualmente di rinominare il kernel
+vecchio prima di sovrascriverlo, in caso quello nuovo non funzioni.
+<P>
+<P>In alternativa, se avete le utility <CODE>mtools</CODE> potete digitare:
+<P>
+<P>     
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+        
+        mcopy vmlinuz a:
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P>
+</LI>
+</UL>
+<P>
+<H2><A NAME="ss4.4">4.4 Fa differenza se installo prima Linux o Windows 95/98/ME?</A>
+</H2>
+
+<P>
+<UL>
+<LI>Tecnicamente no. Comunque e' <EM>molto</EM> piu' semplice
+installare prima Windows. In questo modo sara' piu' semplice 
+impostare Linux perche' riconosca la partizione DOS, poiche' sara'
+possibile farlo durante l'installazione di Linux.</LI>
+</UL>
+<P>
+<H2><A NAME="ss4.5">4.5 Attualmente ho installato LILO, ma vorrei usare Loadlin. Come faccio a rimuovere LILO?</A>
+</H2>
+
+<P>
+<UL>
+<LI>    
+Dovrete reimpostare l'MBR (Master Boot Record, settore di avvio del 
+disco) che LILO ha sovrascritto al momento della sua installazione.
+Al prompt del DOS digitate:
+
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+                        fdisk /mbr
+                        
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+</LI>
+</UL>
+<P>
+<H2><A NAME="ss4.6">4.6 Cosa posso fare se ho gia' un dual boot per selezionare tra Windows 95 e Windows 3.x, e volessi usare lo stesso metodo per avviare Linux?</A>
+</H2>
+
+<P>
+<UL>
+<LI>Francamente, in questo caso vi suggerirei di usare LILO. 
+In ogni modo, se proprio non volete usare LILO, dovrete avviare 
+Windows 3.x prima, e poi utilizzare Loadlin. (Assicuratevi che 
+Windows 3.x non sia in esecuzione, ma di trovarvi piuttosto in 
+DOS 5.0 o 6.x).</LI>
+</UL>
+<P>
+<P>
+<H2><A NAME="ss4.7">4.7 E' possibile avviare Linux dal desktop di Windows 95/98/ME?</A>
+</H2>
+
+<P>
+<UL>
+<LI>Si. Prima di tutto create un file batch chiamato "linux.bat".
+Inserite il seguente comando all'interno del file:
+        </LI>
+</UL>
+<P>
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+
+        loadlin f:\vmlinuz root=/dev/hdc2 ro
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P>Adesso salvate il file sul vostro desktop. Dopo cliccate con il tasto destro del mouse sul file Linux.bat e selezionate Proprieta'. 
+Selezionate l'etichetta Programma, e poi cliccate su Avanzate.
+Selezionate la casella "Modalita' MS-DOS" e la casella "Avvisa prima 
+di entrare in modalita' MS-DOS". Cliccate su OK e poi ancora su OK.
+Adesso quando farete un doppio clic sull'icona del file Linux.bat
+una finestra vi chiedera' conferma prima di entrare in modalita' DOS.
+Se cliccate su "Si" Windows entra in modalita' DOS e esegue il file 
+Linux.bat. 
+<P><B>NOTE:</B> Dovrete essere in modalita' DOS per avviare Loadlin, 
+confrontate anche il manuale di Loadlin menzionato alla sezione 
+<A HREF="#Section 4.1">Section 4.1</A> 
+di questo documento 
+<A HREF="#FAQ">FAQ</A> 
+per maggiori informazioni. 
+<P>
+<P>
+<H2><A NAME="ss4.8">4.8 Dove posso trovare una versione in formato testo di questo documento?</A>
+</H2>
+
+<P>
+<UL>
+<LI>Una versione in formato testo si trova al sito:
+<BLOCKQUOTE><CODE>
+<A HREF="ftp://ftp.eskimo.com/u/p/praxis/loadlin.txt">ftp://ftp.eskimo.com/u/p/praxis/loadlin.txt</A></CODE></BLOCKQUOTE>
+</LI>
+</UL>
+<P>
+<H2><A NAME="ss4.9">4.9 Loadlin e' l'unica alternativa a LILO?</A>
+</H2>
+
+<P>
+<UL>
+<LI>No. Ci sono altre utility che si possono usare: 
+<BLOCKQUOTE><CODE>
+<A HREF="http://www.gnu.org/software/grub/grub.html">GRUB</A>: Il GNU GRand Unified Bootloader o GRUB
+</CODE></BLOCKQUOTE>
+
+<BLOCKQUOTE><CODE>
+<A HREF="http://www.xosl.org/">XOSL</A>: eXtended Operating System Loader
+</CODE></BLOCKQUOTE>
+
+<BLOCKQUOTE><CODE>
+<A HREF="http://freshmeat.net/search/?q=boot+loader">Altri Bootloader e Link</A></CODE></BLOCKQUOTE>
+</LI>
+</UL>
+<P>
+<HR>
+<A HREF="Loadlin+Win95-98-ME-Italian-5.html"><IMG SRC="next.gif" ALT="Next"></A>
+<A HREF="Loadlin+Win95-98-ME-Italian-3.html"><IMG SRC="prev.gif" ALT="Previous"></A>
+<A HREF="Loadlin+Win95-98-ME-Italian.html#toc4"><IMG SRC="toc.gif" ALT="Contents"></A>
+</BODY>
+</HTML>

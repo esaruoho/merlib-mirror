@@ -1,0 +1,2066 @@
+---
+title: "All disABILITY Links"
+source_domain: amasci.com
+source_path: ~jlubin/disabled/all.htm
+order: 3859
+reachable_from_entry: false
+images: 8
+internal_links: 0
+extracted: 2026-08-07T05:57:08Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# All disABILITY Links
+
+*Source page: `~jlubin/disabled/all.htm`*
+
+<span id="top"></span>
+
+# <img src="images/sky-blk.gif" data-align="center" width="91" height="77" alt=" " /> All disABILITY Links
+
+------------------------------------------------------------------------
+
+[<img src="images/mk_ineed1.gif" data-border="0" width="468" height="60" alt="iGive - benefit a worthy cause" />](http://www.iGive.com/html/ssi.cfm?cid=3417&mid=25997)
+
+|  |
+|----|
+| <img src="http://rcm-images.amazon.com/images/G/01/associates/amzn_recommends/gnbox392x67.gif" data-border="0" usemap="#bannermap" width="392" height="67" /> |
+
+## All disability Links
+
+[Search disAblility Resources](http://www.eskimo.com/cgi-bin/ablesearch.cgi)\
+
+------------------------------------------------------------------------
+
+[<img src="images/jldr.jpg" data-border="0" width="88" height="31" alt="Jim Lubin&#39;s disAbility Resources" />](http://www.eskimo.com/~jlubin/disabled/) [disAbility Resources Main Page](http://www.eskimo.com/~jlubin/disabled/)
+
+[Disclaimer, Copyright and Donation Information](http://www.eskimo.com/~jlubin/copyright.htm)
+
+------------------------------------------------------------------------
+
+File created on **Mon Aug 27 11:31:22 2001 PDT (GMT -0700)**
+
+------------------------------------------------------------------------
+
+- [\#1 - Common questions on SCI](http://www.makoa.org/nscia/fact01.html)
+- [\#10 - Male Reproductive Function after SCI](http://www.makoa.org/nscia/fact10.html)
+- [\#11 - What is a Physiatrist?](http://www.makoa.org/nscia/fact11.html)
+- [\#12 - Facilities and Resources for Vent Users](http://www.makoa.org/nscia/fact12.html)
+- [\#13 - Reading Resources](http://www.makoa.org/nscia/fact13.html)
+- [\#14 - Resources for Pediatric SCI](http://www.makoa.org/nscia/fact14.html)
+- [\#15 - Travel After SCI](http://www.makoa.org/nscia/fact15.html)
+- [\#17 - What is Autonomic Dysreflexia?](http://www.makoa.org/nscia/fact17.html)
+- [\#18 - Starting a Support or Discussion Group](http://www.makoa.org/nscia/fact18.html)
+- [\#2 - SCI Statistics](http://www.makoa.org/nscia/fact02.html)
+- [\#3 - Sexuality after SCI](http://www.makoa.org/nscia/fact03.html)
+- [\#4a - Choosing a Rehab. Facility](http://www.makoa.org/nscia/fact04a.html)
+- [\#4b - CARF & NIDRR Rehab. List](http://www.makoa.org/nscia/fact04b.html)
+- [\#5 - What's New in SCI Research?](http://www.makoa.org/nscia/fact05.html)
+- [\#6 - The Importance of Basic Science in Research](http://www.makoa.org/nscia/fact06.html)
+- [\#7 - Tendon Transfer Surgery to Restore Hand Function](http://www.makoa.org/nscia/fact07.html)
+- [\#8 - SCI Awareness, The Importance of Language](http://www.makoa.org/nscia/fact08.html)
+- [\#9 - Functional Electrical Stimulation](http://www.makoa.org/nscia/fact09.html)
+- [Access to Recreation](http://www.accesstr.com/) - Independent living products
+- [Access to Recreation](http://www.accesstr.com/) - cycles, exercisers
+- [Lakeshore Assistive Technology Remote Controlled Leg Bag Valve](http://www.lakeshoretechonline.com/)
+- ["250 Tips for Making Life with Arthritis Easier"](http://MakingLifeEasier.com/books.html#book3)
+- ["America's War On The Disabled: 1975-1992 (A Personal Account)"](http://www.swcp.com/promom/freebook/)
+- ["Dressing Tips and Clothing Resources for Making Life Easier"](http://MakingLifeEasier.com/books.html#book2)
+- ["One-Handed in a Two-Handed World"](http://www.gis.net/princeg/onehand.html)
+- ["Still Me" by Christopher Reeve](http://www.amazon.com/exec/obidos/ISBN=0679452354/makoa)
+- ["Still Me" by Christopher Reeve](http://www.amazon.com/exec/obidos/ASIN/0375402810/makoa) - book-on-tape
+- ["The Best 25 Catalog Resources for Making Life Easier"](http://MakingLifeEasier.com/books.html#book1)
+- ["Working on the Dream: A Guide to Career Planning and Job Success"](http://cybertowers.com/selfhelp/reviews/books/dreamjob.html)
+- [\#disabled Channel on Newnet IRC](http://members.aol.com/MMatth1228/disabled.htm)
+- ["New Horizons: Information for the Air Traveler with a Disability"](http://www.dot.gov/ost/docr/HORIZONS.PDF) (pdf file)
+- [14.181 Supportive Housing for Persons with Disabilities](http://www.cfda.gov/public/viewprog.asp?progid=319)
+- [15.045 Assistance for Indian Children with Severe Disabilities](http://www.cfda.gov/public/viewprog.asp?progid=407)
+- [1998-99 Consumer's Resource Handbook - State Vocational and Rehilibation Agencies](http://www.pueblo.gsa.gov/crh/vocational.htm)
+- [20.513 Capital Assistance Program for Elderly Persons and Persons with Disabilities](http://www.cfda.gov/public/viewprog.asp?progid=644)
+- [2000Vote.com](http://www.2000vote.com/) - Internet Guide to the 2000 elections
+- [21st Century Eloquence Voice Recognition Software](http://www.voicerecognition.com/)
+- [21st Century Scientific](http://www.wheelchairs.com/) - Power Wheelchair Manufacturer
+- [27.005 - Federal Employment for Individuals With Disabilities](http://www.cfda.gov/static/27005.asp)
+- [53.001 - Employment Promotion of People with Disabilities](http://www.cfda.gov/static/53001.asp)
+- [64.106 Specially Adapted Housing for Disabled Veterans](http://www.cfda.gov/public/viewprog.asp?progid=795)
+- [64.116 Vocational Rehabilitation for Disabled Veterans](http://www.cfda.gov/public/viewprog.asp?progid=800)
+- [64.116 - Vocational Rehabilitation for Disabled Veterans](http://www.cfda.gov/static/64116.asp)
+- [81.042 Weatherization Assistance for Low-Income Persons](http://www.cfda.gov/public/viewprog.asp?progid=874)
+- [93.613 - Mental Retardation_President's Committee on Mental Retardation](http://www.cfda.gov/static/93613.asp)
+- [**Access for Disabled Americans**](http://maxpages.com/disabledaccess/)
+- [**Adaptive Technology for the Internet : Making Electronic Resources Accessible to All**](http://www.amazon.com/exec/obidos/ASIN/0838907520/makoa)
+- [**Alternative Computer Access : A Guide to Selection**](http://www.amazon.com/exec/obidos/ISBN=0803601379/makoa)
+- [**Alzheimer's : A Caregiver's Guide and Sourcebook**](http://www.amazon.com/exec/obidos/ASIN/0471568848/makoa)
+- [**Beyond Ramps : Disability at the End of the Social Contract**](http://www.amazon.com/exec/obidos/ASIN/1567511066/makoa)
+- [**Building for a Lifetime : The Design and Construction of Fully Accessible Homes**](http://www.amazon.com/exec/obidos/ASIN/1561580368/makoa)
+- [**Cash for the Final Days: A Financial Guide for the Terminally Ill and their Advisors**](http://www.amazon.com/exec/obidos/ASIN/0965261530/makoa)
+- [**Child Care and the Ada : A Handbook for Inclusive Programs**](http://www.amazon.com/exec/obidos/isbn=1557661855/makoa/)
+- [**Circle of Years : A Caregiver's Journal**](http://www.amazon.com/exec/obidos/ASIN/0819217484/makoa)
+- [**Dying Well : Peace and Possibilities at the End of Life**](http://www.amazon.com/exec/obidos/ASIN/1573226572/makoa)
+- [**Easy Access to National Parks**](http://www.amazon.com/exec/obidos/ISBN=0871566206/makoa) - The Sierra Club Guide for People With Disabilities
+- [**Everybody Belongs : Changing Negative Attitudes Toward Classmates With Disabilities**](http://www.amazon.com/exec/obidos/ASIN/0815311796/makoa)
+- [**Fodor's Great American Vacations for Travelers With Disabilities** (2nd Ed)](http://www.amazon.com/exec/obidos/ISBN=0679032258/makoa) - With Complete Accessibility Information on Hotels, Restaurants and Attractions
+- [**IBM Special Needs Solutions**](http://www.austin.ibm.com/sns/index.html)
+- [**Microsoft Accessibility Support**](http://www.microsoft.com/enable/)
+- [**No Pity : People With Disabilities Forging a New Civil Rights Movement**](http://www.amazon.com/exec/obidos/isbn=0812924126/makoa/)
+- [**Nothing About Us Without Us : Disability Oppression and Empowerment**](http://www.amazon.com/exec/obidos/ASIN/0520207955/makoa)
+- [**SEMCO**](http://www.quadjoy.com) - QuadJoy mouse for Quadriplegic
+- [**Spinal Cord Injury : A Guide for Living (Johns Hopkins Press Health Book)** (](http://www.amazon.com/exec/obidos/ASIN/0801863538/makoa)[read chapter one](http://www.press.jhu.edu/press/books/titles/s00/s00pasp.htm))
+- [**The Caregiver's Guide : Helping Elderly Relatives Cope With Health and Safety Problems**](http://www.amazon.com/exec/obidos/ASIN/0395587808/makoa)
+- [**The Dying Time : Practical Wisdom for the Dying and Their Caregivers**](http://www.amazon.com/exec/obidos/ASIN/0609800035/makoa)
+- [**Web Accessibility for People With Disabilities**](http://www.amazon.com/exec/obidos/ASIN/1929629087/makoa) - a vital tool for Web site developers and administrators who need to understand the law, the requirements of the disabled, and the processes of site evaluation and implementation. This is a critical resource in helping companies comply with the "effective communi
+- [A + Medical Products](http://www.aplusmedical.com/index.html) - urinary care products specifically designed for women
+- [A Guide to Legal Rights for People With Disabilities](http://www.amazon.com/exec/obidos/isbn=0939957590/makoa/)
+- [A Guide to Successful Employment for Individuals With Autism](http://www.amazon.com/exec/obidos/ASIN/1557661715/makoa)
+- [A Guide to Wheelchair Selection : How to Use the Ansi/Resna Wheelchair Standards to Buy a Wheelchair](http://www.amazon.com/exec/obidos/ASIN/0929819063/makoa)
+- [A House for Michael](http://www.amazon.com/exec/obidos/ISBN=0964171333/makoa) - Story of How One Man's Dream for Self-Sufficiency on a Remote Ranch Became a Reality
+- [A Parents' Guide to the Internet...and how to protect your children in cyberspace.](http://www.familyguidebook.com/)
+- [A Primer for Corporate America on Civil Rights for the Disabled](http://www.amazon.com/exec/obidos/isbn=0934753490/makoa/)
+- [A Student Affairs Guide to the Ada & Disability Issues (Monograph, No 17)](http://www.amazon.com/exec/obidos/ASIN/0931654211/makoa)
+- [A Training Manual for Americans With Disabilities Act Compliance in Parks and Recreation Settings](http://www.amazon.com/exec/obidos/ISBN=0910251630/makoa)
+- [A-MED Health Care Center](http://www.a-med.com/) - Medical supplies
+- [A-Z Medical Supply - Incontinence, Medical Supplies, Hospital Supplies, Medicare](http://www.a-zmedical.com/)
+- [A.D.D. WareHouse](http://www.addwarehouse.com/) - Products for Attention Deficit Disorder and Learning Disabilities
+- [Aangepaste caravans voor vakantie voor mensen met en handicap](http://www.headlight.nl/hulpdienst/) - a holiday possibility in the South of France
+- [AASA Community Services Locator](http://www.aasa.dshs.wa.gov/Resources/clickmap.htm)
+- [ABA Commission on Mental and Physical Disability Law](http://www.abanet.org/disability/)
+- [Abilities Expo!](http://www.abilitiesexpo.com/)
+- [Ability Camp](http://www.abilitycamp.com/) Conductive Education for Children with Motor Disorders
+- [Ability Counts, Inc. provides developmentally disabled adults with vocational training.](http://www.abilitycounts.org/)
+- [Ability Forum - Community Access Through Technology](http://www.abilityforum.com/)
+- [Ability Forum](http://www.abilityforum.com/)
+- [Ability Research Home Page](http://www.skypoint.com/~ability/)
+- [Ability to Independence](http://disabilityexpo.com/) - disAbility Expo Index Page for the disabled
+- [Ability to Independence](http://remote-ability.com/) - The VISUAL disAbility Expo for the disAbled
+- [AbilityHub](http://www.abilityhub.com/) - Assistive Technology for computers and disability.
+- [AbilityPLUS, Inc. - Adaptive Sports and Recreation](http://www.abilityplus.org/)
+- [Able Generation - therapeutic pediatric furniture](http://www.ablegeneration.com/navigation.html)
+- [Able Generation](http://www.ablegeneration.com/) - therapeutic pediatric furniture
+- [Able Lives : Women's Experience of Paralysis](http://www.amazon.com/exec/obidos/ASIN/0704341557/makoa)
+- [Able to Travel](http://www.amazon.com/exec/obidos/ISBN=1858281105/makoa) - True Stories by and for People With Disabilities
+- [Able Trust](http://www.abletrust.org/) - assisting Floridians with disabilities in achieving employment
+- [Abledata Computer Access](http://www.abledata.com/Site_2/compute.htm)
+- [ABLEDATA Informed Consumer Guide To Wheelchair Selection](http://www.abledata.com/icg_whel.htm)
+- [ABLEDATA](http://www.abledata.com/index.htm) - The National Database of Assistive Technology Information
+- [Ablephone](http://www.ablephone.com/) - hands-free phone
+- [Abolish Homebound](http://members.aol.com/AbolishHomebound/)
+- [Academic Software, Inc.](http://www.acsw.com/) - Single-switch access WinSCAN, SS-Scan
+- [Access America Guide to the Rocky Mountain National Parks](http://www.amazon.com/exec/obidos/ISBN=1555844049/makoa)
+- [Access AMS](http://www.accessams.com/) - Wheelchair Accessible Vans and Adaptive Driving Aids
+- [Access Development](http://www.access-development.com/)
+- [Access First Switches](http://www.accessfirst.net/itmidx1.htm)
+- [Access For People With Disabilities To Airport Facilities](http://www.faa.gov/acr/ACCESS.htm)
+- [Access Industries - accessable vans](http://www.access-ind.com/)
+- [Access Options](http://www.accessoptions.com/) - lifts, ramps
+- [Access Sea To Sky Adventures](http://www.accessseatosky.com/)
+- [Access Strategies For WebTv](http://www.atole.com/webtv.htm)
+- [Access to Air Travel for People With Reduced Mobility](http://www.amazon.com/exec/obidos/ISBN=9282112004/makoa)
+- [Access to California State Parks for Disabled Visitors](http://cal-parks.ca.gov/ACCESS/)
+- [Access Travel](http://www.timdalytravel.com/)
+- [Access Unlimited](http://www.accessunlimited.com) - Adaptive Transportation And Mobility Technology
+- [Access Utah Network](http://www.accessut.state.ut.us/)
+- [Access With Ease](http://www.store.yahoo.com/capability/) - Independent living products
+- [Access-Able Travel Source](http://www.access-able.com) -- Access information for disabled travelers
+- [Access-Able's Newsletters Page](http://www.access-able.com/newsltrs.html)
+- [Accessability in Nevada](http://32.97.166.75/drac/)
+- [Accessable Journeys](http://www.disabilitytravel.com/companions.htm) - Licensed companions
+- [Accessable Threads](http://www.accessiblethreads.com)
+- [Accessable Vans of America](http://www.accessiblevans.com)
+- [Accessibility Compliance Team / USA (ACT)](http://www.freeyellow.com/members/act-usa/)
+- [Accessibility For Persons With Disabilities In Transportation Services](http://www.dot.gov/ost/docr/ACCESS.HTM)
+- [Accessibility in Everglades National Park](http://www.nps.gov/ever/visit/access.htm)
+- [Accessibility Plus, Solutions for the Physically Challenged](http://www.accessibilityplus.com/)
+- [Accessible Aviation: Flight instruction for normally-abled and disabled and handicapped in hand-rudder equipped aircraft.](http://www.accessibleaviation.com/)
+- [Accessible Bathrooms](http://www.asktooltalk.com/home/articles/construction/accessibility/accessiblebathrooms.htm)
+- [Accessible Beachfront Villas, Baja, Mexico](http://www.gocortez.com/baja.html)
+- [Accessible Design of Consumer Products](http://japan.park.org/Guests/Trace/pavilion/consumer.htm)
+- [Accessible Design Review Guide](http://www.amazon.com/exec/obidos/ISBN=0070001898/makoa) An Adaag Guide for Designing and Specifying Spaces, Buildings, and Sites
+- [Accessible Designs - Adjustable Systems, Inc.](http://www.ad-as.com/)
+- [Accessible Designs, Inc.](http://www.accessibledesigns.com/) - anti-slip transfer boards, more
+- [Accessible Environments Inc Home Page](http://www.acessinc.com/)
+- [Financing Assistive Technology: Handbook for Funding](http://trace.wisc.edu/gofr_web/fintech.html)
+- [Accessible Gardening : Tips & Techniques for Seniors & the Disabled](http://www.amazon.com/exec/obidos/ASIN/0811726525/makoa)
+- [Accessible Gardening for People With Physical Disabilities : A Guide to Methods, Tools, & Plants](http://www.amazon.com/exec/obidos/ASIN/0933149565/makoa)
+- [Accessible Home Designs](http://members.aol.com/WDutcher/designs.htm)
+- [Accessible Homes Home Page](http://www.mindspring.com/~accesshm/index.htm)
+- [Accessible Housing by Design](http://www.amazon.com/exec/obidos/ISBN=0070711747/makoa) Universal Design Principles in Practice
+- [Accessible Housing Designs](http://www.hud.gov/access.html)
+- [Accessible Italy](http://www.tour-web.com/accitaly/)
+- [Accessible Italy](http://www.accessibleitaly.com/) - accessibleitaly.com
+- [Accessible Journeys](http://www.disabilitytravel.com/)
+- [Accessible Landscapes](http://www.sfsu.edu/~sfsualp/) - Dedicated to designing for inclusion.
+- [Accessible Power Trainer Exercise Equipment](http://powertrainer.com/)
+- [Accessible San Diego](http://www.accessandiego.com/) for Travelers with Disabilities
+- [Accessible Southport (UK) - Accommodation and Attractions](http://www.visit-southport.org.uk/info/access.html)
+- [Accessible Space, Inc.](http://www.accessiblespace.org/)
+- [Accessible Switzerland - Switzerland for Visitors](http://goswitzerland.miningco.com/library/weekly/aa121397.htm)
+- [Accessible Tokyo](http://jw.nttam.com/LWT/TOKYO/REDCROSS/redcross_index.html) - (A guidebook to Tokyo for visitors with disabilities)
+- [Accessible Tours in Southern Africa](http://www.rollingsa.co.za/)
+- [Accessible Trails in Washington's Backcountry](http://www.amazon.com/exec/obidos/ISBN=0898864399/makoa) - A Guide to 85 Easy Outings
+- [Accessible Traveler's Database](http://www.projectaction.org/paweb/index.htm)
+- [Accessible Vacations / Camping, Inc.](http://users3.50megs.com/disability/canaanfield/)
+- [Accessible Venice - Venice for Visitors - 02/02/98](http://goeurope.about.com/library/venice/aa980202.htm)
+- [Accessible Venice](http://goeurope.about.com/library/venice/aa980202.htm) - Venice for Visitors
+- [Accessible Web Page Design](http://www.washington.edu/doit/Resources/web-design.html)
+- [Accommodations in Higher Education Under the Americans With Disabilities Act (Ada) : A No-Nonsense Guide for Clinicians, Educators, Administrators, an](http://www.amazon.com/exec/obidos/ASIN/157230359X/makoa)
+- [Achievable Concepts](http://www.users.bigpond.com/achievable_concepts/) - Adapted Recreation and Sporting Equipment
+- [Achievable Conceptsy](http://www.achievableconcepts.com.au/) - Adapted Recreation and Sporting Equipment
+- [Act-Together](http://www.geocities.com/CapitolHill/5975/) - promotes gainful employment
+- [Active Living Alliance for Canadians with a Disability](http://www.activeliving.ca/activeliving/alliance/alliance.html)
+- [Active Living Alliance for Canadians with a Disability](http://www.ala.ca/)
+- [Active Voices in Disabilities (AVID)](http://www.acun.com/avid/)
+- [Acupuncture Home Page](http://www.demon.co.uk/acupuncture/index.html)
+- [ACUPUNCTURE.COM](http://www.Acupuncture.com/)
+- [ADA Accessibility Guidelines (ADAAG)](http://www.access-board.gov/indexes/pubsindex.htm)
+- [ADA and Disability Information -- Manhattan, Kansas](http://www.interkan.net/~adacc/)
+- [ADA Attorney'S List](http://ADA-EXPERTS.com/)
+- [ADA Case Law, Legal Links, and Articles](http://www.vanduerr.com/links4.html)
+- [ADA Consultants / Network Consulting](http://www.istal.com/smoke/)
+- [Ada Handbook : Employment & Construction Issues Affecting Your Business](http://www.amazon.com/exec/obidos/isbn=0793105951/makoa/)
+- [ADA Information Center On-Line](http://adabbs.hr.state.ks.us/dc/)
+- [ADA Regulations and Technical Assistance Materials](http://www.usdoj.gov/crt/ada/publicat.htm)
+- [ADA Vacations Plus/The Disability Travel Experts](http://www.adavacationsplus.com/)
+- [ADAAG Review Advisory Committee Recommendations](http://www.access-board.gov/indexes/pubsindex.htm)
+- [Adapted Computer Technohlogies](http://www.compuaccess.com/) - Computer Solutions
+- [Adapted Physical Activity, Project INSPIRE](http://twu.edu/~f_huettig/index.htm)
+- [Adapted Special Needs Clothing](http://www.makoa.org/cmpyinfo.htm#clothing)
+- [Adapting Housing for People With Disabilities](http://www.amazon.com/exec/obidos/ISBN=1857423631/makoa)
+- [Adapting PCs for Disabilities](http://www.amazon.com/exec/obidos/ISBN=0201483548/makoa)
+- [Adaptivation](http://www.adaptivation.com/) - VoicePal™, FreeSwitch™, Personal Pager, Universal tv Remote
+- [Adaptive Access](http://www.adaptiveaccess.com/) - Wheelchair Accessable ADA Design
+- [Adaptive Architecture](http://www.adaparch.com/)
+- [Adaptive Computing Test For Higher Ed](http://assistivetechnology.cc/instru.htm)
+- [Adaptive Engineering Ltd.](http://www.adaptivelifts.com/) - Mobile Wheelchair Lifts
+- [Adaptive Environments Center Home Page](http://www.adaptenv.org/)
+- [Adaptive Equipment & Vehicles Modified for Persons with Disabilities](http://www.nhtsa.dot.gov/cars/rules/adaptive/)
+- [Adaptive Equipment Wheelchair Handicap Lift - Access Vans of LA](http://www.accessvans.org/)
+- [Adaptive Mall](http://www.adaptivemall.com/) - Adaptive Positioning Equipment for children special needs.
+- [Adaptive Riding Institute](http://www.open.org/horses88/)
+- [Adaptive Sports & Skiing](http://www.customax.com/ski.html)
+- [Adaptive Technologies for Learning & Work Environments](http://www.amazon.com/exec/obidos/ISBN=083890615X/makoa)
+- [Adaptive Technology Solutions for People with Upper Extremity Limitations](http://adaptive.freeservers.com/)
+- [Adaptivemall](http://www.adaptivemall.com/)
+- [ADD and the College Student : A Guide for High School and College Students With Attention Deficit Disorder](http://www.amazon.com/exec/obidos/ASIN/0945354584/makoa)
+- [Administration on Aging](http://www.aoa.gov/) - Information on Older Persons and Services for the Elderly
+- [Adobe Accessibility Plan for PDF and Acrobat](http://access.adobe.com/)
+- [Adult Dyslexia Organisation](http://www.futurenet.co.uk/charity/ado/index.html)
+- [Adult Incontinent Products & Swim Diapers by Gabbys](http://www.swim-diapers.com/)
+- [Advanced Hearing Aid Center](http://www.advancedhearing.com/index.htm)
+- [Advanced Peripheral Technologies](http://www.advancedperipheral.com/) - HydroFlush Automatic Urinary Disposal System
+- [Advanced Peripheral Technologies](http://www.advancedperipheral.com/) - Access2000 Mouse Emulator, Cordless Gyro-HeadMouse
+- [Advanced Peripheral Technologies](http://www.advancedperipheral.com/) - Mouse Emulator
+- [Advocate's Association for Disability Independence(AADI)](http://www.geocities.com/~zachar/AADIindx.html) - Disability care and housing issues
+- [Advocate's Association for Disability Independence](http://www.geocities.com/CapitolHill/Lobby/2098/)
+- [Advocates for Disabled Citizens](http://www.ald.net/adc/)
+- [AEROLET toilet lift](http://www.toiletlift.com/) - promotes independent and safe toilet use.
+- [Affording Care: How To Get Free Medications](http://www.thebody.com/afford/free.html)
+- [Africa Travel](http://www.disabilityworld.com/00000015.htm)
+- [Aging and Adult Services Administration of Washington State](http://www.aasa.dshs.wa.gov/)
+- [Aging and Our Families : Leader's Guide to Caregiver Programs](http://www.amazon.com/exec/obidos/ASIN/0898854407/makoa)
+- [Aging With Spinal Cord Injury](http://www.amazon.com/exec/obidos/isbn=0939957485/makoa)
+- [AHEAD - Association on Higher Education and Disability](http://www.ahead.org/)
+- [Ai Squared](http://www.aisquared.com/) - ZoomText screen magnification software
+- [Air Support Therapies](http://www.erols.com/airsuprt/)
+- [Aircraft Stowage Procedures For Powered Wheelchairs](http://www.eskimo.com/~jlubin/disabled/gov/t19.htm)
+- [Airline Accessibility](http://www.dot.gov/ost/docr/AIRACCES.HTM)
+- [Ala Costa Center](http://alacostacenter.org/) - Empowering students with developmental disabilities to develop their unique strengths and talents.
+- [Alan Hamm Architects](http://www.alanhamm.com/)
+- [Alaska & Horizon Airlines](http://www.alaskaair.com/help/faqs/html/Special.stm) - Passengers With Special Needs
+- [Alaska Wellcomes You](http://www.accessiblealaska.com/) - Specialists in accessible Alaska adventures
+- [Albinism & Hypopigmnetation](http://www.albinism.org/) - National Organization for Albinism & Hypopigmnetation
+- [All Ears Hearing Aid Center](http://www.wisent.com/aehome.htm)
+- [All Terrain Wheelchairs](http://www.cis.upenn.edu/~venkat/wheel.html) -- A Hybrid Adaptive Mobility System
+- [All Things Web: Accommodating Imperfection](http://www.pantos.org/atw/35263.html)
+- [All Things Web: Could Helen Keller Read Your Page?](http://www.pantos.org/atw/35412.html)
+- [All-ways Accessible, Inc.](http://www.all-waysaccessible.com/) - lifts, ramps, tranfer lifts
+- [All-ways Accessible, Inc.](http://www.all-waysaccessible.com/) - transfer lifts
+- [Allegro - wheelchairs, power scooters, and discount medical supplies.](http://www.goallegro.com/)
+- [Allegro Home Health Care](http://www.goallegro.com/) - Wheelchairs, Power Scooters and More
+- [Allegro](http://www.goallegro.com/) - Home Health Care & Medical Supplies
+- [Alliance for Technology Access](http://www.ataccess.org/) - connecting children and adults with disabilities to technology tools
+- [Allsup Inc.- Disabilty Coordination Services](http://www.allsupinc.com/) - Social Security Disability Representational Service
+- [Alphabet Signs](http://www.alphabetsigns.com/) - ADA signs
+- [Alta California Regional Center](http://www.altaregional.org/) - Program for Individuals with a Developmental Disability and Their Families
+- [Alternative Care Providers](http://www.tiac.net/users/altcare/) - Home Medical Equipment and Supplies
+- [Alternative Health E-Mall](http://www.medmarket.com/tenants/reiddds/herbplus/herbplus.html)
+- [Alternative Medicine Digest](http://www.alternativemedicine.com/)
+- [Alternative Medicine for Dummies](http://www.amazon.com/exec/obidos/ISBN=0764551094/makoa)
+- [Alternative Work Concepts: Sharing the Vision](http://www.teleport.com/~awc/)
+- [Alzheimer's Association](http://www.alz.org/)
+- [Alzheimers Disease Remember With Me Activity Kit](http://www.alzheimersdiseasekit.com/)
+- [Amazon.com Audiobooks](http://www.amazon.com/exec/obidos/redirect?tag=makoa&path=ts/browse-books/44)
+- [Amazon.com eBooks](http://www.amazon.com/exec/obidos/redirect?tag=makoa&path=tg/browse/-/497642)
+- [Ambury Park Centre For Riding Therapy](http://www.redrival.com/ambury/) (Auckland, New Zealand)
+- [America Online SCI Chat](http://www.makoa.org/chat/aol_chat.htm)
+- [America West Airlines](http://www.americawest.com/products/physchal1.htm) - Access for People with Disablities
+- [America's Athletes With Disabilities, Inc.](http://www.americasathletes.org/)
+- [America's Athletes with Disabilities](http://www.americasathletes.org/)
+- [American Airlines](http://www.aa.com/) - (see Programs & Services \> Customers Service & Travel Assistance)
+- [American Amputee Soccer Assn.](http://www.ampsoccer.org/)
+- [American Association for Retired Persons (AARP)](http://www.aarp.org/)
+- [American Association for World Health (AAWH)](http://www.aawhworldhealth.org/)
+- [American Association of Disabled Persons](http://www.geocities.com/CapitolHill/1629/)
+- [American Association of People with Disabilities (AAPD)](http://www.aapd.com/)
+- [American Association of Spinal Cord Injury Nurses](http://www.aascin.org/)
+- [American Association Of Spinal Cord Injury Psychologists And Social Workers](http://www.aascipsw.org/)
+- [American Autoimmune Related Diseases Association (AARDA)](http://www.aarda.org/)
+- [American Cancer Society](http://www.cancer.org/)
+- [American Council of the Blind](http://www.acb.org/)
+- [American Council on Education](http://www.ACENET.edu/)
+- [American Diabetes Association](http://www.diabetes.org/)
+- [American Disability Association (ADAnet)](http://www.adanet.org/)
+- [American Disability Association](http://www.adanet.org/)
+- [American Disabled for Attendant Programs Today](http://www.adapt.org/)
+- [American Foundation for the Blind, Inc](http://www.afb.org/)
+- [American Foundation for the Blind](http://www.afb.org/)
+- [American Heart Association National Center](http://www.americanheart.org/)
+- [American Lung Association](http://www.lungusa.org/)
+- [American Nystagmus Network](http://www.nystagmus.org/)
+- [American Paralysis Association](http://www.apacure.com/)
+- [American Paraplegia Society](http://www.apssci.org/)
+- [American Society for Action on Pain (ASAP)](http://druglibrary.org/schaffer/asap/) - those who suffer from chronic pain
+- [American Speech-Language-Hearing Association](http://www.asha.org/index.htm)
+- [American Spine Injury Association (ASIA)](http://www.asia-spinalinjury.org/)
+- [American Syringomyelia Alliance Project](http://www.asap4sm.com/)
+- [Americans With Disabilities Act : Accessibility Guidelines, Checklist for Buildings and Facilities](http://www.amazon.com/exec/obidos/ASIN/1557011532/makoa)
+- [Americans With Disabilities Act : Making the Ada Work for You](http://www.amazon.com/exec/obidos/isbn=0942071190/makoa/)
+- [Americans with Disabilities Act Document Center](http://janweb.icdi.wvu.edu/kinder/)
+- [Americans With Disabilities Act Handbook Basic Resource Document](http://www.amazon.com/exec/obidos/isbn=1563700808/makoa/)
+- [Americans With Disabilities Act Handbook/Building News](http://www.amazon.com/exec/obidos/isbn=155701079x/makoa/)
+- [Americans With Disabilities Act](http://www.amazon.com/exec/obidos/ISBN=0471576867/makoa) - Facilities Compliance Workbook
+- [Ameriphone](http://www.ameriphone.com/default.html) - Assistive telephones
+- [Ameriphone](http://www.ameriphone.com/default.html) - Assistive Telephones (switch activated, TTY, big button, amplified)
+- [Amity Bungalows](http://www.amitybungalows.com.au/) - Amity Point, North Stradbroke Island, Queensland
+- [AMP-L List for Amputees](http://www.amp-info.net/amp-l.htm)
+- [Amputee sports for amputees with an active lifestyle.](http://www.activeamp.org/)
+- [Amputee Treatment Center](http://www.amputee-center.com/)
+- [Anderson/Fodor Residential Care](http://www.shepnet.com/afrc/index.html)
+- [Andrea Electronics](http://www.andreaelectronics.com/)
+- [Another SureSite: YOU CAN READ AGAIN !](http://www.suresite.com/va/a/aladddin/)
+- [AOK Medi Rescue Chair](http://www.rescuechair.com/) - Emergency Stair Chair used for quick and safe evacuation of people in multi-story buildings.
+- [apartments for rent-wheelchair accessible](http://www.disabledapartments.com/) - Miami
+- [Apex](http://www.ademco.com/apex/) - Destiny voice control home automation
+- [Apex Dynamics](http://www.apexdynamics.com/) - lifts & transfers
+- [Appell Core Resources for disabled people, Families, Professionals, Amazon.com, Mother Nature.com, Empowerment Resources, KB Toys.](http://usa.internations.net/health/redapple/index2.htm)
+- [Apple Computer The Disability Connection](http://www.apple.com/disability/)
+- [Apple Macintosh Software Toolkits](http://trace.wisc.edu/world/computer_access/mac/macshare.html)
+- [Applied Assistive Technology](http://www.atole.com/)
+- [Applied Future Technologies, Inc.](http://www.appliedfuture.com/) - HomeVoice
+- [APT Technology Inc. & DU-IT CSG Inc.: Computer Access](http://www.apt-technology.com/compf.html)
+- [Aquatic Sports and Recreation Equipment](http://www.abledata.com/Site_2/aquatic.htm)
+- [Aquila Corp](http://www.aquilacorp.com/) - Wheelchair Cushion Manufacturer
+- [Arek Skrzypiski - VOBIS Start Szczecin](http://www.idn.org.pl/users/skrzypin/)
+- [Arizona Technology Access Program](http://www.nau.edu/ihd/aztap/)
+- [armchair.com: handicapped-accessible](http://www.armchair.com/tour/hc/handcap.html)
+- [Arthritis Foundation](http://www.arthritis.org)
+- [Arthritis Foundation](http://www.arthritis.org/)
+- [Artificial Language Laboratory Switches](http://www.msu.edu/~artlang/Switches.html)
+- [Artograph Projectors](http://www.rexart.com/artograph.html)
+- [ASIA Pacific Disability Rehabilitation Journal - Index](http://www.dinf.ne.jp/doc/prdl/othr/apdrj/apdrj.html)
+- [asktooltalk.com - Articles - Accessibility](http://www.asktooltalk.com/home/articles/construction/accessibility/index.html)
+- [ASL Product](http://www.asl-inc.com/ASLProd.asp?ID=ASL+550+and+551) - Wireless Infrared Transmitters/Receivers and Mouse Emulators
+- [ASL Product](http://www.asl-inc.com/ASLProd.asp?ID=ASL+701) - Wireless Remote Telephone
+- [Assis-TECH, Inc.: Assistive Technology Products](http://www.assis-tech.com/)
+- [Assis-TECH, Inc.](http://www.assis-tech.com/) - Assistive Technology (enviormental & communication products)
+- [Assis-TECH, Inc.](http://www.assis-tech.com/) - Assistive Technology Products
+- [Assis-TECH](http://www.assis-tech.com:80/cgi-bin/index/switch1w.htm) - switches
+- [Assis-TECH](http://www.assis-tech.com/) - switches
+- [Assist Cough in SCI](http://www.makoa.org/vent/assistcough.htm)
+- [Assistance Animal Advocacy](http://www.geocities.com/CapitolHill/7930/)
+- [Assistive Devices/Products for Independent Living](http://www.makoa.org/cmpyinfo.htm#assistive)
+- [Assistive Technology / Augmentative Communication Services, Tracy Rackensperger](http://members.aol.com/tdoggog/)
+- [Assistive Technology for Children With Disabilities : A Guide for Providing Family-Centered Services](http://www.amazon.com/exec/obidos/ASIN/1571290516/makoa)
+- [Assistive Technology for People with Spinal Cord Injuries](http://www.abledata.com/text2/icg_spin.htm)
+- [Assistive Technology Funding and Systems Change Project(ATFSCP)](http://www.ucp.org/ucp_channeldoc.cfm/1/12/69/69-69/607)
+- [Assistive Technology Funding](http://www.assisttech.com/)
+- [Assistive Technology in Education](http://at-advocacy.phillynews.com/index.html)
+- [Assistive Technology Specialist For Education, Workplace, And Home Accommodations For People With Disabilities](http://assistivetechnology.cc/)
+- [Assistive Technology: Essential Human Factors](http://www.amazon.com/exec/obidos/ASIN/0205273262/makoa)
+- [AssistTech Inc](http://www.assisttech.com/) - innovative toys for specal needs kids
+- [Associated Handicapable Vans](http://www.rollxvans.com/)
+- [Association for Death Education and Counseling](http://www.adec.org)
+- [Association for Spina Bifida and Hydrocephalus](http://www.asbah.demon.co.uk/)
+- [Association of Mouth and Foot Painting Artists (AMFPA)](http://www.amfpa.com/)
+- [Associazione H81](http://www.interplanet.it./h81/) - Italy
+- [Attention Control Systems](http://www.brainaid.com/) - planning and execution software for assisting brain injured people gain independence
+- [Audiobooks Online](http://www.audiobooksonline.com/) - Ear Friendly Books
+- [Auditech](http://www.auditechusa.com/) - TTYs and Assistive Devices
+- [Australian Quadriplegic Association](http://www.aqa.com.au/)
+- [Autism/Asperger's Syndrome](http://amug.org/~a203/)
+- [Automatic Door Openers & Environmental Control Units for Disabled](http://www.ecuaccess.com/)
+- [Automatic Dysreflexia (Hyperreflexia)](http://calder.med.miami.edu/pointis/automatic.html)
+- [Automotive innovations](http://www.ai1.com/index.html) - Vehicle modifications
+- [Avoiding the 100 Most Common Ada Design Errors](http://www.amazon.com/exec/obidos/ISBN=047124760X/makoa)
+- [AWE-Struck E-Books](http://www.awe-struck.net/) - Sci fi, new age, romance, instructional books, software.
+- [AZtech](http://cosmos.ot.buffalo.edu/)
+- [B&W Handicap Equipment](http://www.bwhandicap.com/) (Atlanta, GA) - van conversions
+- [B-Medical](http://www.bmedical.com/) - Homecare, durable medical equipment company
+- [Back and Neck Disorders Sourcebook : Basic Information About Disorders and Injuries of the Spinal Cord and Vertebrae, Including Facts on Chiropractic)](http://www.amazon.com/exec/obidos/isbn=0780802020/makoa)
+- [Back Talk : Teaching Lost Selves to Speak](http://www.amazon.com/exec/obidos/isbn=0226884155/makoa)
+- [Back-Up (UK)](http://www.backup.org.uk/) - organise outdoor sporting activity courses for spinally injured
+- [Backyards and Butterflies : Ways to Include Children With Disabilities in Outdoor Activities](http://www.amazon.com/exec/obidos/ASIN/1571290117/makoa)
+- [Baclofen Pump by Dr. David A. Herz](http://www.drherz.com/C_OurPractice/C32_BaclofenPump.html)
+- [Bad-Mouthing : The Language of Special Needs (hardcover)](http://www.amazon.com/exec/obidos/isbn=0750705019/makoa/)
+- [Bad-Mouthing : The Language of Special Needs (paperback)](http://www.amazon.com/exec/obidos/isbn=0750705027/makoa/)
+- [Balancing Work and Caregiving for Children, Adults, and Elders (Family Caregiver Applications, Vol 3)](http://www.amazon.com/exec/obidos/ASIN/0803942826/makoa)
+- [Barrier-Free Design](http://www.amazon.com/exec/obidos/ISBN=0750616369/makoa) - A Manual for Building Designers and Managers
+- [Basic Educational Materials, Publishers](http://www.angelfire.com/biz/bempub/)
+- [Baxley Media Group](http://www.baxleymedia.com/) - Health and Human Relations Videos
+- [Bay Area Outreach and Recreation Program](http://www.borp.org/)
+- [Beach Wheelchairs](http://www.beachwheelchair.com/) - Hanicapped Recreational Surf Chair
+- [Because We Care - A Guide for Those Who Care](http://www.aoa.gov/wecare/)
+- [Beneficial Designs Home Page](http://www.beneficialdesigns.com/)
+- [Benefits For Children With Disabilities](http://www.ssa.gov/pubs/10026.html)
+- [Berkeley Planning Associates](http://www.bpacal.com/)
+- [Berlitz Complete Guide to Cruising and Cruise Ships 2001](http://www.amazon.com/exec/obidos/ASIN/2831572061/makoa)
+- [Best Viewed With Any Browser](http://www.anybrowser.org/campaign/)
+- [Better Life On-Line Catalog](http://www.traveller.com/dymedias/)
+- [Big Keys Plus - The Original BigKeys keyboard](http://www.caro.net/gdi/)
+- [Bilbo Innovations](http://www.bilbo.com/index.html) - Keyboard Control Pedals
+- [Bionic Glove Home Page](http://www.ualberta.ca/~aprochaz/bgtemp.html)
+- [Blanche Fischer Foundation - Provides Assistance to Oregonians with Physical Disabilities](http://www.bff.org/)
+- [Blazie Engineering](http://blazie.com/) - Braille 'n Speek, Products for Blind People
+- [Blessed Are The Caregivers](http://www.amazon.com/exec/obidos/ASIN/0964663007/makoa)
+- [Blind Ring](http://www.webring.org/cgi-bin/webring?ring=blind;list)
+- [Blindness Resource Center](http://www.nyise.org/blind.htm)
+- [Bodypoint Designs](http://www.bodypoint.com/) - Wheelchair Seating Accessories
+- [Book-holder](http://www.bookholder.com/)
+- [Books On Special Children](http://www.geocities.com/Eureka/Park/3830/)
+- [Botanical.com Home Page](http://www.botanical.com/)
+- [Bowel Program in SCI](http://calder.med.miami.edu/pointis/bowel.html)
+- [Brad Morgan's Home Page](http://members.aol.com/BradMorgan/index.htm)
+- [Braille - Braille Planet, Inc.](http://www.brailleplanet.org/)
+- [Brain Injury Survivor and Caregiver Education Manual Vol 1](http://www.amazon.com/exec/obidos/ASIN/0834207443/makoa)
+- [Brain Tumor Society](http://www.tbts.org/) - Resources for patients, families, and professionals
+- [BrainWave Control, IBVA Technologies, Inc.](http://www.ibva.com/)
+- [Brandywine Senior Care, Inc.](http://www.brandycare.com/) - ventilator care, home healthcare
+- [Braun Corporation : leader in handicapped accessible vehicles, wheelchair lifts](http://www.braunlift.com/)
+- [British Deaf News](http://www.britishdeafnews.com/)
+- [Brookes Publishing](http://www.brookespublishing.com/)
+- [Brown Machine Works](http://members.xoom.com/bromac/4.html) - Lifting/Transfer Devices for Wheelchair Users
+- [Bruno Independent Living Aids](http://www.bruno.com)
+- [Building and Facilities Guidelines](http://www.access-board.gov/indexes/pubsindex.htm)
+- [C.A.S.T. for Kids](http://www.castforkids.org/) - provides disabled children the opportunity to enjoy fishing and outdoor adventure
+- [CABO/ANSI A117.1 Accessible and Usable Buildings and Facilities](http://www.intlcode.org/standards/a117.htm)
+- [Cafe Plus Coffee Shop for Traumatic Brain Injury](http://www.dreamscape.com/cafeplus/)
+- [California Back Specialists](http://www.spinecenter.com/)
+- [California Parks Access](http://www.amazon.com/exec/obidos/ISBN=0963075837/makoa) - A Complete Guide to the State and National Parks for Visitors With Limited Mobility
+- [California State University, Northridge](http://www.csun.edu/cod/) - Center On Disabilities
+- [Camp Lee Mar](http://www.leemar.com/)
+- [Camp Nuhop](http://www.campnuhop.org) - For boys and girls with learning disabilities
+- [Canadian Abilities Foundation](http://www.enablelink.org/)
+- [Canadian Centre on Disability Studies](http://www.escape.ca/~ccds/) - Disability Information Network
+- [Canadian Paralympic Committee](http://www.paralympic.com/)
+- [Canadian Paraplegic Association Web Site](http://www.canparaplegic.org/)
+- [Canadian Paraplegic Association](http://www.canparaplegic.org/)
+- [CanDo.com](http://cando.com)
+- [Cane Candle](http://home.sprynet.com/sprynet/housewright_design/) - cane/walker accessory
+- [Canine Companions National WebSite](http://www.caninecompanions.org/)
+- [Cape Cod Disability Access Directory](http://www.capecod.net/ccdad/)
+- [Care for the Caregiver : A Guide for Staff in the Helping Professions](http://www.amazon.com/exec/obidos/ASIN/1556124007/makoa)
+- [Care Packages : Letters to Christopher Reeve from Strangers and Other Friends](http://www.amazon.com/exec/obidos/ASIN/0375500766/makoa)
+- [CARE4U](http://www.care4u.com/) - Aids for Daily Living
+- [Career Search 98](http://icewall.vianet.on.ca/pages/hdc/)
+- [Career Success for People With Physical Disabilities (Vgm Career Books)](http://www.amazon.com/exec/obidos/ASIN/084424175X/makoa)
+- [CareerBuilder](http://www.careerbuilder.com/)
+- [Careers On-Line at University of Minnesota](http://www.disserv.stu.umn.edu/COL/)
+- [Caregiver Connection : Training Manual](http://www.amazon.com/exec/obidos/ASIN/0788113712/makoa)
+- [Caregiver Network](http://www.caregiver.on.ca/) - dedicated to making caregivers' lives easier.
+- [Caregiver Survival Resources](http://www.caregiver911.com/)
+- [Caregiver Therapy](http://www.amazon.com/exec/obidos/ASIN/0870292854/makoa)
+- [Caregiver's Gethsemane : When a Loved One Longs to Die](http://www.amazon.com/exec/obidos/ASIN/0809135728/makoa)
+- [Caregiver's Handbook](http://www.amazon.com/exec/obidos/ASIN/0789419696/makoa)
+- [Caregiver's Reprieve : A Guide to Emotional Survival When You're Caring for Someone You Love (The Working Caregiver Series)](http://www.amazon.com/exec/obidos/ASIN/1886230064/makoa)
+- [Caregiver](http://caregiver.com/)
+- [Caregivers.Com](http://www.caregivers.com/)
+- [Caregiving Daughters : Accepting the Role of Caregiver for Elderly Parents (Garland Studies on the Elderly in America)](http://www.amazon.com/exec/obidos/ASIN/0815330278/makoa)
+- [Caregiving](http://www.caregiving.com/)
+- [CareGuide - Child and Elder Care Directory](http://www.careguide.net/)
+- [Carolina Connection](http://www.pat.org/)
+- [Carolina Power Wheelchair - Carolina Power Wheelchair](http://www.carolinapowerwheelchair.bigstep.com/)
+- [CAST: Bobby](http://www.cast.org/bobby/) - an automatic verifier of web site accessibility.
+- [Cat's Claw for Arthritis, Cancer, AIDS, and Premature Aging?](http://www.all-natural.com/catsclaw.html)
+- [CataList, the catalog of LISTSERV lists](http://www.lsoft.com/lists/listref.html)
+- [Catalog of Federal Domestic Assistance](http://www.cfda.gov/)
+- [Catastrophic Injuries in High School and College Sports (Hk Sport Science Monograph Series, V. 8)](http://www.amazon.com/exec/obidos/isbn=0873226747/makoa)
+- [CCAR Services, Inc.](http://www.ccar.org)Training and Employment for Disabled
+- [CEC ERIC Clearinghouse on Disabilities and Gifted Education](http://www.cec.sped.org/ericec.htm)
+- [Centennial Colleges Centre for Students with Disabilities (CSD)](http://www.cencol.on.ca/csd/)
+- [Center for Accessible Technology](http://www.el.net/CAT/index.html)
+- [Center for Applied Special Technology](http://www.cast.org/)
+- [Center for Independent Living - Berkeley, CA - CIL](http://www.cilberkeley.org/)
+- [Center for Information Technology Accommodation (CITA)](http://www.gsa.gov/coca)
+- [Center for Information Technology Accommodation](http://www.gsa.gov/coca/nii.htm) and the NII
+- [Center on Human Policy](http://soeweb.syr.edu/thechp/)
+- [Centers for Disease Control and Prevention (CDC)](http://www.cdc.gov/)
+- [CenterWatch Clinical Trials Listing Service](http://www.CenterWatch.com/)
+- [Central Remedial Clinic](http://www.crc.ie/) - deals with the treatment and management of congenital physical handicap. (Ireland)
+- [Cerebral Palsy Info Central (CPIC)](http://www.geocities.com/HotSprings/Sauna/4441/CPIC.html)
+- [Cerebral Palsy Info Central](http://www.geocities.com/HotSprings/Sauna/4441/)
+- [Challenge Air for Kids and Friends](http://www.challengeair.org/) - offers motivational, inspirational and life-changing experiences
+- [Challenge Air](http://www.challengeair.com/) - flights for disabled children
+- [Challenged Athletes Foundation-athletics for the physically disabled](http://www.challengedathletes.org/)
+- [Charcot-Marie-Tooth Association Australia](http://www.e-bility.com/cmtaa/)
+- [Chauffeur Electric Scooter](http://www.electricscooter.com/)
+- [Chicago Blind Computer Users Network](http://www.city-net.com/vipace/friends/chicago/)
+- [Child Amputee Home Page](http://www.amp-info.net/)
+- [Children and Adults with Attention Deficilt Disorder (CHADD)](http://www.chadd.org/)
+- [Children with DIABETES](http://www.childrenwithdiabetes.com/)
+- [Children with Spina Bifida](http://www.waisman.wisc.edu/~rowley/sb-kids/)
+- [Children with Spina Bifida](http://WWW.Waisman.Wisc.Edu/~rowley/sb_kids.htmlx)
+- [Children's Transport for Life: Charitable Air Transportation](http://www.childtransport.org/)
+- [Chinese Herbal Doctor Remedies-Natural Healing Center](http://www.herb-doc.com/)
+- [chinese herbal online store from Hong Kong](http://www.chinesemedic.com/)
+- [ChoiceMall - For Your Convenience](http://www.choicemall.com/fyc/)
+- [Choices : A Guide to Sex Counseling With Physically Disabled Adults](http://www.amazon.com/exec/obidos/ASIN/0898749034/makoa)
+- [Choosing a Quality Nursing Home](http://www.aahsa.org/public/consumer.htm)
+- [Choosing a Wheelchair: A Guide for Optimal Independence](http://www.amazon.com/exec/obidos/ASIN/1565924118/makoa)
+- [Christophe Reeve Paralysis Foundation](http://apacure.com/)
+- [Christopher Reeve Homepage](http://www.geocities.com/Hollywood/Studio/4071/)
+- [Chronic Fatigue](http://www.lsi.ukans.edu/rtcil/cfatigue.htm)
+- [Chronic Ill net](http://www.chronicillnet.org/)
+- [Chronic Pain Management](http://www.lsi.ukans.edu/rtcil/CPM.htm)
+- [Circle of Friends Meeting Rooms](http://www.circleoffriends.org/forums/) - 4 Bulletin Boards: General, Family, Paraplegic and Quadriplegic Forums
+- [Circle of Friends](http://www.circleoffriends.org/)
+- [Circles of Friends : People With Disabilities and Their Friends Enrich the Lives of One Another](http://www.amazon.com/exec/obidos/ASIN/0687083907/makoa)
+- [Cirque GlidePoint](http://www.cirque.com/) - touchpad controllers
+- [City of Sydney](http://www.cityofsydney.nsw.gov.au/cs_disabled_services.asp) - Wheelchair Accessible Facilities
+- [CJA: Multi-Terrain Wheelchair](http://www.bhm.tis.net/~arnolcj/page/ind/chair.html)
+- [Claire E. Hulsebosch, PhD](http://cellbio.utmb.edu/hulseb/hulseb.htm) - investigating the mechanisms of recovery after spinal cord injury
+- [Cleavers Mobility Centre](http://www.cleaver.co.uk/) - UK suppliers of powered wheelchairs, manual wheelchairs, electric scooters
+- [Cleveland FES Center](http://feswww.fes.cwru.edu/) - Restoring Function through Electrical Stimulation
+- [Click-N-Type virtual keyboard](http://www.ac.net/~lakerat/cnt/) (FREE!)
+- [Closed Captioning Web](http://www.captions.org/)
+- [Closing the Gap - Computer Technology in Special Education and Rehabilitation](http://www.closingthegap.com/)
+- [Closing The Gap](http://www.closingthegap.com/)
+- [CNET Builder.com - Web Authoring - Building an Accessible Web Site - 7/20/99](http://www.builder.com/Authoring/Accessibility/)
+- [CNET.com - Special Reports - Is the Web Truly Accessible to the Disabled?](http://www.cnet.com/specialreports/0-6014-7-1530073.html)
+- [CNN - Hand implant gives quadriplegics new grasp on life - August 18, 1997](http://cnn.com/HEALTH/9708/18/nfm.quad.device/)
+- [Coalition of Rehab Engineering Research Orgs](http://trace.wisc.edu/CRERO)
+- [Coast to Coast Medical Resources](http://www.coast-resources.com/)
+- [Colorado Association of Community Centered Boards](http://www.caccb.org/) - individuals with developmental disabilities
+- [Colours by Permobil](http://www.coloursbypermobil.com/)
+- [Combined Health Information Database](http://chid.nih.gov/)
+- [Comfort Designs - Adaptive Clothing](http://www.comfortdesigns-brandon.com/)
+- [Comfort House](http://comforthouse.com/) products that make life easier, arthritis and independent living aids
+- [Comforthouse](http://www.comforthouse.com/comfort/in.html) - Incontinence Products
+- [Comforthouse](http://www.comforthouse.com/comfort/wheelram.html) - Wheelchair Ramps
+- [Command Corp Inc.](http://www.commandcorp.com/incube_welcome.html) - In Cube Voice Command Products
+- [Communication Aids for Language and Learning Centre](http://callcentre.education.ed.ac.uk/) in Scotland
+- [Complying With the Americans With Disabilities Act : A Guidebook for Management and People With Disabilities](http://www.amazon.com/exec/obidos/isbn=0899307140/makoa/)
+- [Comprehensive Development Center](http://dcwi.com/~cdc/Welcome.html)
+- [Compucare, Inc.](http://www.abilities.com/) - voice recognition, adaptive software
+- [CompuServe's Disabilities Forum](http://forumsb.compuserve.com/vlforums/default.asp?SRV=Disabilities)
+- [Computer Access Program](http://trace.wisc.edu/world/computer_access/)
+- [Computer Access Solutions](http://www.tggweb.com/disable/index.htm) - assistive technology for people with a disability
+- [Computer Accessibility Products](http://www.makoa.org/computers.htm)
+- [Computer and Web Resources for People With Disabilities : A Guide to Exploring Today's Assistive Technology](http://www.amazon.com/exec/obidos/ASIN/0897933001/makoa)
+- [Computer Applications in Occupational Therapy](http://www.amazon.com/exec/obidos/ISBN=0866565833/makoa)
+- [computer assistive technology abilityhub for disabilities](http://www.abilityhub.com/)
+- [Computer Vision and Voice](http://www.cvv.com/)
+- [Computers and the Americans With Disabilities Act : A Manager's Guide](http://www.amazon.com/exec/obidos/ISBN=083064444X/makoa)
+- [Computers for Handicapped Independence Program](http://www.wolfe.net/~dr_bill/)
+- [Computers for Handicapped Independence Program](http://www.wolfenet.com/~dr_bill/)
+- [Concord Elevator](http://www.concordelevator.com/) - vertical accessibility lifts and stair-chair lifts
+- [Concrete Change](http://concretechange.home.mindspring.com/index.htm) - An international effort to make all homes visitable
+- [Congenital Central Hypoventilation Syndrome (CCHS) Support Network](http://www.cchsnetwork.org/)
+- [Congress.Org -- Your Link to Congress](http://congress.org/)
+- [Congressional Email Directory](http://www.webslingerz.com/jhoffman/congress-email.html)
+- [Conservatorship, Trusts and Wills](http://www.empowermentzone.com/conserve.txt) - for People with Developmental or Other Disabilities
+- [Consortium for Citizens with Disabilities (CCD)](http://www.c-c-d.org/)
+- [Contact Assistive Technology](http://www.contactassist.com/)
+- [Contact Assistive Technology](http://www.contactassist.com/) - tty's, assistive listening, low vision products, accessibility, mobility and self-help aids
+- [ConvaQuip](http://www.convaquip.com/) - Obese and Bariatric Patient Aids
+- [Cooper Union & NSF's Gateway Project](http://www.cooper.edu/engineering/projects/gateway/me/concurrent/gateway.html) - mechanical feeding device for persons that only have head movement
+- [Cooperative Electronic Library](http://trace.wisc.edu/tcel/) - Selected Disability Documents and Resources
+- [Coping With Urinary Tract Infection](http://www.lsi.ukans.edu/rtcil/uti.htm)
+- [CORD: Collaboration on Repair Discoveries](http://www.cord.ubc.ca/)
+- [Cornucopia of Disability Information (CODI)](http://codi.buffalo.edu/)
+- [Courage HANDI-HAM System Home Page](http://www.mtn.org/handiham/)
+- [Cowboys & Cowgirls - Riding for the Disabled](http://cyberrodeo.com/guysgals/riding.htm)
+- [CPSWeb - School Bus Tranportation of Children with Special Needs.](http://www.childsafety.org/bus.html)
+- [Creative Concepts Dedicated to Comfort](http://www.billmileshealthaids.com/)
+- [Creative Play Activities for Children With Disabilities : A Resource Book for Teachers and Parents](http://www.amazon.com/exec/obidos/ASIN/0873229339/makoa)
+- [Cripples Are Cool](http://www.cripple.com/)
+- [Cruisers Sports Club for the Disabled of Halton Peel](http://www.cruisers.ets.net/)
+- [CTheWorld](http://www.geocities.com/TheTropics/Cabana/2862/) - travel plaining
+- [Cure Paralysis Chat Forums](http://www.cureparalysis.org/chat/index.html)
+- [Cure Paralysis Now's FAQ](http://www.cureparalysis.org/faq/index.html)
+- [Cure Paralysis Now](http://www.cureparalysis.org/index.html)
+- [Curry School of Education](http://curry.edschool.virginia.edu/)
+- [Cybermeals](http://www.food.com/) - order take-out and delivery meals from local restaurants
+- [Darci Institute](http://www.westest.com/darci/index.html) - Darci Too, Darci Card Keyboard and Mouse Emulator
+- [Deaf Digest](http://DeafDigest.Org/)
+- [Deaf Magzine](http://www.deaf-magazine.org)
+- [Deaf World Web](http://deafworldweb.org/dww/) - resource list for deaf/hearing impaired
+- [Deafbase - Portal to Deaf and Hard of Hearing Information Technology and Directory](http://deafbase.com/)
+- [Deafness/Hard of Hearing](http://deafness.miningco.com/)
+- [Dealing with Disability](http://www.metlife.com/Lifeadvice/Health/Docs/disaintro.html)
+- [DeathNET](http://www.rights.org/deathnet/open.html)
+- [DECtalk](http://www.ultranet.com/~rongemma/%20) - Text-to-speech synthesis
+- [Defending Disabled Access Claims (Real Estate Practice Library)](http://www.amazon.com/exec/obidos/isbn=0471050571/makoa/)
+- [Dehanced for Lynx: Manifesto](http://world.std.com/~adamg/manifesto.html)
+- [Delta Society Home Page](http://petsforum.com/deltasociety/)
+- [Delta Society National Service Dog Center](http://petsforum.com/deltasociety/dsb000.htm)
+- [Department of Transportation Accessibility](http://www.dot.gov/accessibility/)
+- [Department of Veterans Affairs (VA)](http://www.va.gov/)
+- [Design for Dignity](http://www.amazon.com/exec/obidos/ISBN=0471569100/makoa) - Studies in Accessibility
+- [Designing an Accessible World](http://trace.wisc.edu:80/world/)
+- [Designing an Accessible World](http://parallel.park.org/Guests/Trace/pavilion/world.htm)
+- [Designing More Usable Web Sites](http://www.trace.wisc.edu/world/web/index.html)
+- [Designing Web Sites for Multiple Browsers Without Being Bland](http://www1.shore.net/~straub/wprmultb.htm)
+- [Destiny Designs - The Draw Pad](http://www.thedrawpad.com/)
+- [DHHS/OGM GrantsNet](http://www.hhs.gov/grantsnet/)
+- [Diagnosis and Managememt of Disorders of the Spinal Cord](http://www.amazon.com/exec/obidos/isbn=0721654479/makoa)
+- [Diestco Manufacturing Co](http://www.diestco.com/) - products for wheelchair and scooters
+- [Different Roads to Learning](http://www.difflearn.com) - products for children with developmental delays
+- [Direct Casket](http://www.directcasket.com/) - low cost quality caskets
+- [Directory of Prescription Drug Patient Assistance Programs](http://www.phrma.org/patients/)
+- [Directory of State Protection and Advocacy Agencies](http://trace.wisc.edu/conet-bin/xad?Mn=index.html&db=4&ds=910&p=18)
+- [Dis-Abilities online](http://www.dis-abilities.com/)
+- [Disabilities and the Law (Individual Rights)](http://www.amazon.com/exec/obidos/isbn=0071723722/makoa/)
+- [Disabilities Law Project](http://www.dlp-pa.org/)
+- [Disability - Information - Resources - Services](http://www.e-bility.com/)
+- [Disability Access Service](http://home.vicnet.net.au/~tadas/)
+- [Disability Advocacy Work With Networking](http://home.earthlink.net/~dawwn/)
+- [Disability Aids for Sensory Impaired People - WINTONFIELD](http://www.wintonfield.co.uk/)
+- [Disability and the Law](http://www.amazon.com/exec/obidos/isbn=1853023183/makoa/)
+- [Disability Chat Links](http://www.makoa.org/chat/index.html)
+- [Disability Clip Art](http://www.disabilityart.com/)
+- [Disability Discrimination in the Workplace](http://www.amazon.com/exec/obidos/isbn=9992238399/makoa/)
+- [Disability Graphics](http://www.lareau.org/disgraph.html)
+- [Disability Information In South Australia](http://www.dircsa.org.au/)
+- [Disability Law in the United States : A Legislative History of the Americans With Disabilities Act of 1990, Public Law 101-336 (Federal Disabilities)](http://www.amazon.com/exec/obidos/isbn=0899417973/makoa/)
+- [Disability Mailing Lists](http://www.vicnet.net.au/vicnet/Adrian/dislist.htm)
+- [Disability News Service](http://www.disabilitynews.com/)
+- [Disability News Ticker](http://www.abilityinfo.com/ticker.html)
+- [disAbility Online](http://www.wdsc.org/disability/)
+- [Disability Product Postcards](http://www.blvd.com/dpp.htm) - Free product information
+- [Disability related resources on the Internet](http://www.abledata.com/links.htm)
+- [disAbility Resource Center](http://www.wa-ilsc.org/) - serves residents with disabilities of northwest Washington
+- [Disability Resources for Canterbury New Zealand, The CCIA Project](http://www.webview.co.nz/ccia/) (New Zeland)
+- [Disability Resources, Inc.](http://www.geocities.com/~drm/)
+- [Disability Rights Education And Defense Fund](http://www.dredf.org/)
+- [Disability Social History Project](http://www.disabilityhistory.org/)
+- [Disability, Discrimination and Equal Opportunities : A Comparative Study of the Employment Rights of Disabled Persons (Studies in Labour and Social L)](http://www.amazon.com/exec/obidos/isbn=0720122422/makoa/)
+- [disAbility.gov](http://www.disAbility.gov/) - Access America
+- [DisabilityClaims.com](http://disabilityclaims.com/) - The Resource for Disability Legal Issues
+- [Disable Hotline Forum](http://www.delphi.com/disable/)
+- [Disabled American Veterans](http://www.dav.org/)
+- [Disabled Businesspersons Association](http://www.catalog.com/rmg/dba.htm)
+- [DISABLED COMMUNITY Message Board](http://www.insidetheweb.com/mbs.cgi/mb196102)
+- [DISABLED HELLAS (greece)](http://www.disabled.gr/)
+- [Disabled People As Second-Class Citizens (Springer Series on Rehabilitation; V. 2)](http://www.amazon.com/exec/obidos/isbn=0826132200/makoa/)
+- [Disabled People's International](http://www.dpi.org/)
+- [Disabled Peoples' International](http://www.dpi.org/)
+- [Disabled Persons Parking](http://www.city.mississauga.on.ca/planbldg/develop/html/disable.htm) - Design Reference
+- [Disabled Sports USA -Far West](http://www.dsusafw.org/)
+- [Disabled Sports, USA](http://www.dsusa.org/)
+- [Disabled We Stand](http://www.amazon.com/exec/obidos/isbn=0253317800/makoa/)
+- [disabled-traveler.com](http://www.disabled-traveler.com/)
+- [DisabledPerson.Com](http://www.disabledperson.com/) - Disabled Online Magazine for the Disabled Community
+- [Disabling Barriers-Enabling Environments](http://www.amazon.com/exec/obidos/isbn=0803988249/makoa/)
+- [Disablity & the Law books](http://www.amazon.com/exec/obidos/external-search?tag=makoa&keyword=disabled+law&mode=books)
+- [Disablity Graphics](http://www.eskimo.com/~jlubin/disabled/graphics/)
+- [Disablity Troubleshooters](http://www.disabilitytroubleshooters.com/)
+- [Discover:Kenx](http://www.donjohnston.com/catalog/disked.htm)
+- [DiscriminationAttorney.com](http://www.discriminationattorney.com/) - Civil Rights Law Guide
+- [DJ Tech](http://www.djtech.com/) - The Communication Station
+- [DO-IT Newsletters](http://www.washington.edu/doit/Newsletters/)
+- [Doctor's Guide to the Internet - Doctor's Guide HomePage](http://www.pslgroup.com/docguide.htm)
+- [Don Johnston Incorporated](http://www.donjohnston.com/) - Comunication Computer Access
+- [Don't Worry, He Won't Get Far on Foot](http://www.amazon.com/exec/obidos/ASIN/0679728244/makoa)
+- [DOS Software Toolkit](http://trace.wisc.edu/world/computer_access/dos/dosshare.html)
+- [DosLynx Archive (Unofficial)](http://www.fdisk.com/doslynx/)
+- [DOT regulation on the rights of air travelers with disabilities (14 CFR Part 382)](http://www.dot.gov/ost/docr/382PRINT.PDF) (pdf file)
+- [DOT rule on air travel by persons with disabilities](http://www.dot.gov/ost/docr/DISABLED.PDF) (pdf file)
+- [Down Syndrome Resources](http://www.nas.com/downsyn/)
+- [Dr. Koop's Community](http://www.drkoop.com/)
+- [Dragon Systems](http://www.dragonsys.com/) - Dragon NaturallySpeaking
+- [Dragon Systems](http://www.dragonsys.com/) - DragonDictate
+- [Dragonfly Toys - Aids for daily living](http://www.dragonflytoys.com/)
+- [DSM Design Concepts](http://members.aol.com/dsmdesign/dsmdc.html)
+- [DTour](http://ireland.iol.ie/infograf/dtour/) - Accessable travel in Ireland
+- [Duxbury Product Demo Downloads](http://www.duxburysystems.com/)
+- [Duxbury Systems](http://www.duxburysystems.com/) - Software for Braille
+- [Dwarfism: Frequently Asked Questions](http://www.lpaonline.org/resources_faq.html)
+- [Dynamic Living - Solutions for Easier Living](http://www.dynamic-living.com/index.html)
+- [Dynamic Living](http://www.dynamic-living.com/) - Solutions for Easier Living
+- [Dyslexia Organisation](http://www.futurenet.co.uk/charity/ado/index.html) - UK
+- [Dysphagia Resource Center](http://www.dysphagia.com:80/)
+- [E&A's accessAbility Web Site](http://www.ada504.com/)
+- [E-mail Discussion Groups](http://www.nova.edu/Inter-Links/listserv.html)
+- [Early Management of Acute Spinal Cord Injury](http://www.amazon.com/exec/obidos/isbn=0890046751/makoa)
+- [EASI - Equal Access to Software and Information](http://www.rit.edu/~easi)
+- [EASI Equal Access to Software and Information](http://www.rit.edu/~easi/pubs.html)
+- [Easter Seals of Northwestern Ohio](http://eastersealsnwohio.org/index.htm)
+- [Easter Seals OnLine](http://www.easterseals.org/)
+- [Easter Seals serving Northwestern Ohio](http://eastersealsnwohio.org/index.htm)
+- [Easter Seals](http://www.easter-seals.org/)
+- [Eastern Paralyzed Veterans Association (EPVA)](http://www.epva.org)
+- [Easy Access Australia](http://www.vicnet.net.au/~bruceeaa/)
+- [Easy Access Centre](http://www.eac.co.nz/)
+- [Easy Access Clothing](http://www.easyaccessclothing.com/)
+- [Easy Access](http://www.easyaccess-online.com/) - specializing in accessable buliding access
+- [Easy Elegant Dining](http://www.amazon.com/exec/obidos/ASIN/0963049208/makoa)
+- [Easy Things to Make to Make Things Easy](http://www.amazon.com/exec/obidos/ISBN=1571290249/makoa) - Simple Do-It-Yourself Home Modifications for People With Physical Limitations
+- [Edlaw, Inc.](http://www.edlaw.net/) Special Education Legal Information
+- [Edmund Scientific - Bed Prism Spectacles](http://www.edmundscientific.com/Products/DisplayProduct.cfm?productid=2375)
+- [Educational Rights of Children With Disabilities : A Primer for Advocates](http://www.amazon.com/exec/obidos/isbn=0912585064/makoa/)
+- [EDUCOM](http://educom.edu/)
+- [eGroups](http://www.egroups.com/)
+- [EITAAC Final Report](http://www.access-board.gov/sec508/commrept/eitaacrpt.htm) - Accessability guidelines for federal agencies
+- [Eldercare Bookstore: Caregivers guide A hands-on Book for caring family](http://www.rbs4u.com/caregiver/)
+- [Elderdesign : Designing and Furnishing a Home for Your Later Years](http://www.amazon.com/exec/obidos/ASIN/0140258094/makoa)
+- [Electric Edge](http://www.ragged-edge-mag.com/)
+- [Electrologic of America](http://www.electrologic.com/)
+- [Electrosensitivity](http://www.feb.se/)
+- [Eleven Seconds : A Story of Tragedy, Courage & Triumph](http://www.amazon.com/exec/obidos/isbn=0446521884/makoa)
+- [Elite Medical](http://www.elitemedical.com/ehms1/crutches.html) - Crutches, Forearm Crutches, Guardian Crutches, Walk Easy Crutches
+- [Elwyn, Inc.](http://www.elwyn.org/) - a human services organization for people with special challenges
+- [emachines](http://www.emachinesinc.com/)
+- [Emacspeak --A Speech Output Subsystem For Emacs](http://www.cs.cornell.edu/Info/People/raman/emacspeak/emacspeak.html)
+- [Emerging Horizons Accessible Travel Newsletter](http://www.candy-charles.com/horizons.htm)
+- [Employer's Guide to the Americans With Disabilities Act](http://www.amazon.com/exec/obidos/isbn=0871798891/makoa/)
+- [Employment Law Guide to the Americans With Disabilities Act](http://www.amazon.com/exec/obidos/isbn=0130362603/makoa/)
+- [Employment Resources for People with Disabilities](http://www.disserv.stu.umn.edu/TC/Grants/COL/listing/disemp/)
+- [Employment Support Institute](http://www.vcu.edu/busweb/esi/)
+- [Employment](http://www.eeoc.gov/facts/adaqa1.html)
+- [emPOWER](http://www.empowernet.org/)
+- [EnableMart](http://www.enablemart.com/store?source=makoa) - - Assistive Technology Store
+- [EnableMart](http://www.enablemart.com/store?source=makoa) - computer hardware, software, development tools
+- [Enabling Romance; A Guide to Love, Sex, and Relationships for the Disabled (And the People Who Care about Them)](http://www.amazon.com/exec/obidos/ASIN/0933149786/makoa)
+- [Enabling Technologies Company](http://www.brailler.com/) - Braille Printers & More
+- [Enabling Technologies](http://www.sun.com/tech/access/) - Sun Technology
+- [Enabling Technology : Disabled People, Work, and New Technology](http://www.amazon.com/exec/obidos/ISBN=0335198015/makoa)
+- [Endless Struggle : Spinal Cord Injury](http://www.amazon.com/exec/obidos/ISBN=0805940928/makoa)
+- [Endorphin Corporation](http://www.endorphin.net/) - Fitness & Rehabilitation Products
+- [ENIL, the European Network on Independent Living](http://www.independentliving.org/ENIL/index.html)
+- [Entrez MEDLINE & PreMEDLINE Search](http://www4.ncbi.nlm.nih.gov/Entrez/medline.html)
+- [Entrez PubMed MEDLINE & PreMEDLINE Search for Spinal Cord Injury](http://www4.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=4&term=spinal+cord+injury&dispmax=100)
+- [Environmental Control Units](http://wings.buffalo.edu/ot/cat/newsletters/ECU.htm)
+- [Equal Access Cafe Chat Room](http://www.makoa.org/pchat.htm) - For Java-enabled browsers only
+- [Equipment for Older or Disabled People and the Law](http://www.amazon.com/exec/obidos/ISBN=1853023523/makoa)
+- [ESA/OFCCP](http://www.dol.gov/dol/esa/) - Federal Contractors
+- [Especially For You Concept](http://try.at/espforyou)
+- [Euthanasia Research and Guidance Organization](http://www.efn.org/~ergo/)
+- [Everest Challenge '98](http://www.mtnvisions.com/Everest/everest2.html)
+- [Everybody's Hotel Directory](http://www.everybody.co.uk/) (U.K.)
+- [Everyone's Nature/Designing Interpretation to Include All](http://www.amazon.com/exec/obidos/ISBN=1560442034/makoa)
+- [Everything You Need to Know About Environmental Control Units](http://www.dinf.org/csun_98/csun98_048.htm)
+- [ewheelin.com: Wheelchair Accessible British Columbia](http://www.ewheelin.com/)
+- [Ex 'n Plex](http://www.selene.com/selene/exnflex/index.html) - Exercise for Disabled
+- [Exceptional Parent Magazine - Eparent.com](http://www.eparent.com/)
+- [Exercise Devices/Equipment](http://www.makoa.org/cmpyinfo.htm#exercise)
+- [Exercise/Fitness Mats](http://www.sportmats.com/)
+- [Exit Technologies](http://www.exittech.com/index.htm) - fire safety and fire safety products
+- [Exotic Destinations for Wheelchair Travelers](http://www.amazon.com/exec/obidos/ISBN=1883277078/makoa) - Hotel Guide to the Orient Hong Kong MacAu Singapore Taiwan Thailand
+- [Extended care provider, Elder Care information.](http://www.extendedcare.com/asp/default.asp)
+- [Extensions For Independence](http://mouthstick.net/) - mouthstick devices
+- [Eye Tracking](http://www.cs.sunysb.edu/~vislab/projects/eye/index.html)
+- [EZ Lift & Carrier Co.](http://members.tripod.com/~abarich/page3.html) - Kar Kady Wheelchair Carrier
+- [EZTIE](http://members.aol.com/EZtie/index.html) - new shoe tying device
+- [Facilitated Communication Institute](http://soeweb.syr.edu/thefci/)
+- [Facioscapulohumeral FSH Society](http://www.fshsociety.org/)
+- [Facts About the Americans with Disabilities Act](http://www.eeoc.gov/facts/fs-ada.html)
+- [Facts: Books for Blind & Physically Handicapped Individuals](http://www.loc.gov/nls/reference/facts-books.html)
+- [Factsheet: Manual Wheelchairs](http://www.abledata.com/manwhch.htm)
+- [Factsheet: Powered Wheelchairs](http://www.abledata.com/powwch.htm)
+- [Factsheet: Scooters](http://www.abledata.com/scooters.htm)
+- [Factsheet: Wheelchairs for Children](http://www.abledata.com/whl_chil.htm)
+- [Fair Housing Accessibility Guidelines](http://198.200.153.9/fhe/fhefhag.html)
+- [Fair Housing Accessibility Guidelines](http://www.hud.gov/fhefhag.html)
+- [Families of Spinal Muscular Atrophy](http://www.fsma.org/)
+- [Families USA](http://www.familiesusa.org/)
+- [Family Caregiver Alliance](http://www.caregiver.org/)
+- [Family Caregiver Support Page](http://www.geocities.com/HotSprings/Spa/2503/)
+- [Family Village](http://www.familyvillage.wisc.edu/)
+- [Family Village](http://www.familyvillage.wisc.edu/) - a global community of disability-related resources
+- [Fanlight Production](http://www.fanlight.com/) - educational healthcare videos
+- [fastWEB! (Financial Aid Search Through the Web)](http://www.fastweb.com/)
+- [FDR Democratic Club](http://www.slip.net/~wheelssf/fdrclub.html) for Disabled People and Seniors
+- [Federal Communications Commission (FCC) Disabilities Issues Task Force](http://www.fcc.gov/dtf/)
+- [Federal Consumer Information Center](http://www.info.gov/)
+- [Federal Disability Law in a Nutshell (Nutshell)](http://www.amazon.com/exec/obidos/isbn=0314029583/makoa/)
+- [Federal Election Commission](http://www.fec.gov/votregis/vr.htm) - The National Mail Voter Registration Form
+- [Federal Office of Compliance](http://www.compliance.gov/)
+- [Feelings and Reactions in SCI](http://calder.med.miami.edu/pointis/feelings.html)
+- [FEELit Mouse](http://www.force-feedback.com/feelit/feelit.html) - force-feedback mouse
+- [FEMA: Assisting People With Disabilities In A Disaster](http://www.fema.gov/r-n-r/assistf.htm)
+- [FEMA: Disaster Preparedness For People With Disabilities](http://www.fema.gov/library/disprepf.htm)
+- [Female Sexuality Following Spinal Cord Injury](http://www.amazon.com/exec/obidos/ASIN/0915708078/makoa)
+- [Fibromyalgia And Caring Friends](http://members.tripod.com/~treasures/fms.html)
+- [Fibromyalgia Book Store](http://www.wellnessbooks.com/fibro/)
+- [Fibromyalgia, MARRTC Page](http://www.hsc.missouri.edu/fibro/)
+- [Fibromyalgia](http://www.w2.com/fibro1.html) - USA Fibromyalgia Association
+- [Filing a Complaint Based on Disability Against an Air Carrier or an Airport](http://www.faa.gov/acr/disabcmp.htm)
+- [Films involving disabilities](http://www.disabilityfilms.co.uk)
+- [FinAid: The Financial Aid Information Page](http://www.finaid.org/)
+- [Final Rule: Transportation for Individuals with Disabilities - Over-the-Road Buses](http://www.dot.gov/affairs/otrbfinal1.htm)
+- [Financial Aid for Disabled Students](http://www.finaid.org/otheraid/disabled.phtml)
+- [Financing Assistive Technology: Handbook for Funding](http://trace.wisc.edu/gofr_web/fintech.html)
+- [FindLaw: Internet Legal Resources](http://www.findlaw.com/)
+- [FindMail](http://www.findmail.com/index.html)
+- [FirstGov](http://firstgov.gov/) - Search U.S. Government
+- [Flex-Foot - Life Without Limitations](http://www.flexfoot.com/)
+- [Flexseat Wheelchair Seating](http://www.flofitmed.com/)
+- [Flip Lacer, the belt buckle for shoe laces.](http://members.aol.com/nevertie/shoes_again.html)
+- [FloCare Flotation](http://www.mcn.org/a/flocare/) - Healthcare Watermattresses and Waterbeds
+- [Florida Alliance for Assistive Services and Technology](http://faast.org/)
+- [Florida Developmental Disabilities Council](http://fddc.org/)
+- [Florida Independent Living Council](http://flailc.org/)
+- [Flotation swimsuits are ideal swimming aids for disabled or special needs children and adults. Also used for water therapy and physical therapy.](http://www.aquaforce.com/store/specialneeds.cfm)
+- [Follow Me Outdoors](http://users.ev1.net/~chada/)
+- [Food and Drug Administration (FDA)](http://www.fda.gov/)
+- [For More Information](http://www.eeoc.gov/facts/adaqa4.html)
+- [For Parents of Sick and Worn-Out Children](http://www.bluecrab.org/health/sickids/sickids.htm)
+- [For Your Convenience](http://www.foryourconvenience.com/foryourconvenience/) - A solutions company that also designs accessible and universal housing, specialists in accessible kitchen and bathroom design.
+- [For Your Health, Inc.](http://www.fyh.com/)
+- [Foundation for Spinal Cord Injury Prevention, Care & Cure](http://www.fscip.org/)
+- [Fourth and Long : The Kent Waldrep Story](http://www.amazon.com/exec/obidos/ASIN/0824515080/makoa)
+- [FRAXA Research Foundation](http://www.worx.net/fraxa)
+- [Frazier RPV - The 4wd, all terrain wheelchair carrier](http://www.frazier.co.uk/rpv/)
+- [Freedom Car](http://www.gocortez.com/)
+- [Freedom Concepts: Freedom 3 Mobility Devices](http://www.freedomconcepts.com/)
+- [Freedom Driving Aids, Inc](http://www.freedomdrivingaids.com/)
+- [Freedom Driving Aids](http://members.tripod.com/~freedom2/index.htm)
+- [Freedom Living Devices](http://freedom-living.com/) - Functional Solutions for Independent Living
+- [Freedom Motors](http://www.freedommotors.com/)
+- [Freedom One, Inc.](http://www.supremeind.com/) - Lowered Floor Mini-Vans and Full Size Van Conversions.
+- [Freedom Scientific: assistive technology for blind and visually impaired computer users.](http://www.freedomsci.com/)
+- [Freedom Wheelchair Lifts, Inc.](http://www.vansrus.com/) - vehicle modifications, van conversions, wheelchair lifts, hand controls and other adaptive equipment
+- [Freewheeling](http://www.freewheeling.net/) - travel magazine Traveling with and w/o handicaps
+- [Frequently Asked Questions & Answers](http://www.ssa.gov/pubs/faq.html)
+- [FreSch! Browse the Database](http://www.freschinfo.com/) - scholarships for disablities
+- [Frog Legs Inc](http://www.froglegsinc.com/) - shock absorbing devices which replace the front forks
+- [Full Rulles - Norway's Disability web service](http://www.fullrulle.no/index.htm)
+- [Fun-Attic Sports and Toys](http://www.funattic.com/) - Unique indoor/outdoor games, developed with the disabled needs in mind
+- [Functional Electrical Rehabilitation : Technological Restoration After Spinal Cord Injury](http://www.amazon.com/exec/obidos/isbn=0387974598/makoa)
+- [Functional Electrical Stimulation : Standing and Walking After Spinal Cord](http://www.amazon.com/exec/obidos/isbn=0849345294/makoa)
+- [Functional Electrical Stimulation](http://fourier.bme.med.ualberta.ca/~fes/fes.html)
+- [Funerals: A Consumer Guide](http://www.ftc.gov/bcp/conline/pubs/services/funeral.htm)
+- [Funtastic Learning](http://www.funtasticlearning.com/) - skill-building toys, games and tools for children with learning disabilities.
+- [Future Planning Resources](http://thearc.org/misc/futplan.html)
+- [Frst-Donnersmarck-Stiftung zu Berlin](http://www.fdst.de/)
+- [GARAVENTA (Canada) LTD. - Accessibility Solutions](http://www.garaventa.ca/)
+- [Garaventa (Canada) Ltd. - Manufacturer of Stair-Lift Evacu-Trac Stair-Trac Genesis Xpress II and Stair-Porter](http://www.garaventa.ca/)
+- [GEBERIT ShowerToilet](http://www.plumbum.com/)
+- [Gemma B. Publishing](http://www.pangea.ca/~gempub) - books with role models for disabled children
+- [George Washington University Rehabilitation Counselor Education Programs](http://www.gwu.edu/~chaos/)
+- [Get Rollin'](http://www.si.edu/natzoo/hilights/getrolln/getrolln.htm) - A Wheelchair Trail to the National Zoo
+- [getgroceries.com](http://www.getgroceries.com/) - Grocery Delivery
+- [GEWA Jupiter Speaker-Telephone](http://www.zygo-usa.com/gewafone.html) - hands-free telephone access
+- [GEWA Page Turner BLV-6](http://zygo-usa.com/blv6.htm) - hands free page turner
+- [Ginco Lift Systems](http://www.ginco.com/) - SureHands patient lift and care systems
+- [Glen Crombie Resource Center for Disability Services](http://homepages.cambrianc.on.ca/snrrc/)
+- [Global Access](http://www.globalaccess.com.au/)
+- [Global Access](http://www.geocities.com/Paris/1502/) - a Network for Disabled Travelers
+- [Global Dialysis: Dialysis Centres and Travel around the world](http://www.globaldialysis.com/)
+- [Glossary of Adaptive Technologies: Alternative Keyboard Systems](http://www.utoronto.ca/atrc/tech/altkey.html)
+- [Go Cortez](http://www.gocortez.com/page6.html)
+- [Good Shepherd Fund - Services - Special Needs Trust](http://www.goodshepherdfund.org/services/specialneeds.html)
+- [Goodwill Industries of Kentucky](http://www.gwik.org/)
+- [GORP - Olympic National Park, Disabled Access](http://www.gorp.com/gorp/resource/us_national_park/wa/dis_oly.htm)
+- [Grandeur Gimps](http://www.angelfire.com/rant/sittingimpy/)
+- [Great Lakes DBTAC](http://www.gldbtac.org) - Region 5 (IL, IN, MI, MN, OH, WI).
+- [Great Plains DBTAC](http://www.hr.state.ks.us/dc/) - Region 7 (IA, KS, MO, NE).
+- [Greentyre Airless Wheelchair Tire](http://www.greentyre.com/)
+- [Greyhound Passengers with Disabilities](http://www.greyhound.com/services/ada.shtml)
+- [Groceronline](http://www.groceronline.com/) - Grocery shopping food delivery service
+- [Grown-Up Camps - Special Needs](http://www.grownupcamps.com/cgi-bin/index.cgi?page=Special%2bNeeds)
+- [GrowthHouse](http://www.growthhouse.org)
+- [Guide Dog Foundation For The Blind Inc](http://www.GuideDog.org/)
+- [Guide of Accessible Information](http://maxpages.com/disabledaccess/RESOURCE+GUIDE)
+- [Guide to Accessible Housing](http://www.abledata.com/icg_hous.htm)
+- [Guide to Accessible Housing](http://www.abledata.com/icg_hous.htm) - includes specifications for wheelchair ramps
+- [Guide to Disability Rights Laws](http://www.pueblo.gsa.gov/cic_text/fed_prog/disability-laws/disrits.htm)
+- [Guided Tour,Inc](http://www.guidedtour.com/) - Travel for persons with developmental disabilities and mental retardation
+- [Guidelines for Aircraft Boarding Chairs](http://www.eskimo.com/~jlubin/disabled/gov/t10.htm)
+- [Guiding Eyes for the Blind](http://www.guiding-eyes.org/)
+- [Guillain-Barr (gbs.org)](http://www.gbs.org:80/) - A collection of resources and information about GBS and other related syndromes.
+- [Guillain-Barr Syndrome (GBS) Support Group of the UK](http://www.gbs.org.uk/)
+- [Guillain-Barr Syndrome (GBS)](http://www.webmast.com/gbs/)
+- [Gus Communications](http://www.gusinc.com) Multimedia Speech System
+- [Gus Communications](http://www.gusinc.com) on-screen keyboard, word prediction software
+- [Halftheplanet](http://www.halftheplanet.org/)
+- [Handi-Ramp Systems](http://marketzone.com/Handi-Ramp/)
+- [Handicap access needed in the air](http://www.csmonitor.com/durable/1999/04/19/fp9s2-csm.shtml) - Christian Science Monitor
+- [handiCAPABLE Guide Service, Inc.](http://www.handicapable.net/) - wheelchair-accessible fishing boat
+- [Handicapped in Walt Disney World : A Guide for Everyone](http://www.amazon.com/exec/obidos/ISBN=188197149X/makoa)
+- [Handicapped Vans Inc. Home Page](http://handicappedvansinc.com/)
+- [Handiflex](http://www.handiflex.com/)
+- [Hands Free Reading Aid](http://hometown.aol.com/nroberts98/BookStand.html)
+- [HandsNet](http://www.handsnet.org/index.htm)
+- [Haseltine Systems Corporation](http://www.haseltine.com/) - containers to protect wheelchairs during air travel
+- [Hatch Gloves](http://www.Hatch-gloves.com/)
+- [Hattie Larlham](http://www.larlham.org/) - for Children with Profound disablities
+- [Healing Back Pain : The Mind-Body Connection](http://www.amazon.com/exec/obidos/asin/0446392308/makoa)
+- [Healing Back Pain Naturally : The Mind-Body Program Proven to Work](http://www.amazon.com/exec/obidos/asin/0936197390/makoa)
+- [Health and Disability Related Mailing Lists](http://www.familyvillage.wisc.edu/master.html)
+- [Health Care Financing Administration (HCFA)](http://www.hcfa.gov/) - **(Medicare & Medicaid)**
+- [Health-Helper - Book: Coping With Mild Traumatic Brain Injury - Book Cover](http://www.health-helper.com/bookcovr.html)
+- [Health-Helper](http://www.health-helper.com/) - Brain Injury, Concussion and Health Resources
+- [HealthAnswers](http://www.healthanswers.com/)
+- [Healthatoz](Http://www.Healthatoz.com/) - The Search Engine for Health and Medicine
+- [Healthfinder](http://www.healthfinder.gov/) - a gateway consumer health information web site from the United States government
+- [Healthfinder](http://www.healthfinder.gov/)-- a gateway consumer health information web site from the United States government
+- [HealthGate](http://www.healthgate.com/)
+- [HealthMatters: Forum for Self-Management of Health](http://lifematters.com/healthn.html)
+- [Healthtouch - Drug Information](http://www.healthtouch.com/level1/p_dri.htm)
+- [Healthwise Handbook : A Self-Care Manual for You](http://www.amazon.com/exec/obidos/ASIN/1877930296/myelitis)
+- [Healthy Ideas: Herbal Remedies](http://www.healthyideas.com/healing/herb/980407.herb.html)
+- [Hearing Aids](http://www.advancedhearing.com/hearaids.htm)
+- [Help Mates](http://www.helpmates.on.ca/) - Assisting Independent Living
+- [Helping Hands-Monkey Helpers for the Disabled](http://www.helpinghandsmonkeys.org/)
+- [Henter-Joyce](http://www.hj.com/) - developer of Screen Readers JAWS
+- [Herbal Information Center](http://www.kcweb.com/herb/herbmain.htm)
+- [High-Access Home : Design and Decoration for Barrier-Free Living](http://www.amazon.com/exec/obidos/ASIN/0847822133/makoa)
+- [Hitec Group Int'l, Inc.](http://www.hitec.com/) - Assistive Devices
+- [Holidays for Disabled People - Wheeling around the Algarve - Portugal](http://www.player.pt/)
+- [Holistic Health](http://www.geocities.com/HotSprings/5940/)
+- [Holistic Internet Community(tm) Welcome](http://www.holistic.com/)
+- [Holistic Internet Resources: Homepage](http://www.hir.com/)
+- [Home : Easter Seals of Greater Dallas](http://www.easterseals.com/)
+- [Home Automated Living, LLC](http://www.automatedliving.com/) - HAL2000 Home Automation voice recognition technology
+- [Home Automation Inc.](http://www.HomeAuto.com/)
+- [Home Automation Systems, Inc.](http://www.smarthome.com/) - Home Automation Products
+- [Home Automation/Environmental Control](http://www.makoa.org/ecu.htm)
+- [Home Bound News](http://welcome.to/homebound) - A Newsletter for the Home-Bound
+- [Home Care Medical](Http://www.healthtology.com/hcms/) - Traveling Oxygen Services for the patient who likes to travel.
+- [Home Care/Hospice locator](http://www.nahc.org/Tango/HCLocator/locator.qry?function=form)
+- [Home Controls, Inc.](http://www.homecontrols.com/) - Home Automation Products
+- [Home Safety and Modifications](http://calder.med.miami.edu/pointis/safety.html)
+- [Home-Automation.org](http://home-automation.org/) - Your Complete Guide to Home Automation
+- [HomeCare Magazine](http://www.homecaremag.com/)
+- [Homecare Products](http://www.homecareproducts.com/) - EZ-Access Portable Ramps
+- [HomeCare Rehabilitation Equipment](http://www.mobileaid.com/)
+- [HomeHealthWares.com](http://www.homehealthwares.com/)
+- [HomeVision Home Automation Controller](http://www.csi3.com/homevis2.htm)
+- [Hospice Foundation of America](http://www.hospicefoundation.org/)
+- [Hospice Hands](http://hospice-cares.com)
+- [Hotshot Products](http://www.hotshotproducts.org/) - The Beach Cruzr, The Beachcomber
+- [Housing and Uban Development (HUD)](http://www.hud.gov/disabled.html) - "People with Disabilities"
+- [How to Apply to Free Prescription Drug Programs](http://www.sunflower.org/~cfsdays/freedrug.htm)
+- [How to Avoid Scams and Schemes Related to the ADA](http://www.bbb.org/library/ba%2Dada.asp)
+- [How to Live With a Spinal Cord Injury](http://www.amazon.com/exec/obidos/isbn=0915708272/makoa)
+- [How to Rehab a Home w/hud's 203k rehab program](http://www.hud.gov/fha/sfh/203k/203kabou.html)
+- [How to Select and Use Manual Wheelchairs](http://www.amazon.com/exec/obidos/ASIN/1880902044/makoa)
+- [How to Travel-A guidebook for Persons with a Disability](http://www.amazon.com/exec/obidos/ASIN/1888725052/makoa)
+- [How Work Affects Your Benefits](http://www.ssa.gov/pubs/10069.html)
+- [HTI Home Toys - Home Automation Link Library](http://www.hometoys.com/htilinks.htm)
+- [HTI Home Toys - Home Automation](http://www.hometoys.com/)
+- [HUD - Q & A Accessablity Guidelines](http://www.hud.gov/fhe/fhefhasp.html)
+- [HUD funds for Housing for the Elderly and Disabled](http://www.hud.gov/pressrel/pr-eldis.html)
+- [Human Resource Executive's Survival Guide to the Americans With Disabilities Act](http://www.amazon.com/exec/obidos/isbn=0934753636/makoa/)
+- [HumanWare](http://www.humanware.com/) - products for people who are blind and visually impaired
+- [Hy-Gina Care- Portable Personal Showering System - Home Page](http://www.hygina.com/)
+- [Hy-Gina Care- Portable Personal Showering System](http://www.hygina.com/)
+- [HydroFlush](http://www.advancedperipheral.com/prophf.htm) - Automatic Urinary Disposal System
+- [Hyper-ABLEDATA](http://trace.wisc.edu/tcel/abledata/index.html)
+- [I'm Here to Help : A Guide for Caregivers, Hospice Workers, and Volunteers](http://www.amazon.com/exec/obidos/ASIN/0553377973/makoa)
+- [I-CAN ONLINE The Leading Disability Community](http://www.icanonline.net/)
+- [I-CAN Online](http://www.icanonline.net/) - The Leading Disablity Community
+- [I-CAN Online](http://www.icanonline.net/) - travel resources
+- [IBM ARC - User System Ergonomics Research (USER)](http://www.almaden.ibm.com/cs/user/userdept.html)
+- [IBM Speech Viewer III](http://www.austin.ibm.com/sns/snsspv3.html)
+- [IBM](http://www-4.ibm.com/software/speech/) - ViaVoice
+- [IBM](http://www-4.ibm.com/software/speech/) - VoiceType
+- [ICan Online Article: Scholarship information for students who are blind](http://www.icanonline.net/news/fullpage.cfm?articleid=7E0D9998-D41E-4D5C-B198B37FF5E6617D)
+- [ICan Online Article: Scholarship opportunities](http://www.icanonline.net/news/fullpage.cfm?articleid=8A12B5B3-C304-4E50-A9EA7931FE3E56CE)
+- [ICan Online Article: Students with disabilities can get aid](http://www.icanonline.net/news/fullpage.cfm?articleid=65378BD7-742D-4ED5-884ECFCD933DCA4C)
+- [ICan Web site accessibility services](http://www.icanonline.net/services/accessibility.html)
+- [Illustrated Manual of Sex Therapy](http://www.amazon.com/exec/obidos/ASIN/0876305184/makoa)
+- [ILRU Directory of Independent Living Programs](http://trace.wisc.edu/conet-bin/xad?Mn=index.html&db=4&ds=901&p=18)
+- [Imperium 200H environmental control unit (ECU)](http://www.interactplus.com/)
+- [Implementing the Americans With Disabilities Act : Rights and Responsibilities of All Americans](http://www.amazon.com/exec/obidos/isbn=1557661197/makoa/)
+- [Implementing the Americans With Disabilities Act](http://www.amazon.com/exec/obidos/isbn=1557868670/makoa/)
+- [Improve Accessibility: Build a Wheelchair Ramp](http://www.asktooltalk.com/home/articles/construction/accessibility/ramps.htm)
+- [IMS-Vans](http://www.ims-vans.com/)
+- [In Search of Freedom : How Persons With Disabilities Have Been Disenfranchised from the Mainstream of American Society (Paperbook)](http://www.amazon.com/exec/obidos/isbn=0398065640/makoa/)
+- [Inclusion Daily Express!](http://www.inclusiondaily.com/) - Daily email news service on disability rights, community inclusion and integration
+- [Independence Dogs, Inc.](http://www.independencedogs.org/)
+- [Independence TM 3000](http://www.indetech.com/)
+- [IndependenceFirst](http://www.independencefirst.org/) - a non-residential Independent Living Center
+- [Independent Living at RTC/IL](http://www.lsi.ukans.edu/rtcil/rtcil.htm)
+- [Independent Living Center of Western Australia](http://www.iinet.com.au/~ilcwa/ilc.html)
+- [Independent Living Products](http://www.ilp-online.com/) - Assistive devices to help people maintain an independent lifestyle
+- [Independent Living Service Center](http://www.wa-ilsc.org/index.html)
+- [Independent Living USA](http://www.ilusa.com/)
+- [Indiana University](http://www.isdd.indiana.edu/) Institute for the Study of Developmental Disabilities
+- [Individuals With Disabilities : Implementing the Newest Laws (Roadmaps to Success: The Practicing Administrator's Leadership)](http://www.amazon.com/exec/obidos/isbn=0803960557/makoa/)
+- [Individuals with Disabilities Education Act (IDEA) Amendments of 1997](http://www.ed.gov/IDEA/)
+- [Infinitec: Special Section: Accessible Kitchens](http://www.infinitec.org/letscook.html)
+- [Infinitec: Special Section: Accessible Kitchens](http://www.infinitec.org/kitchenmod.html)
+- [Infinitec: Special Section: Special Animals](http://www.infinitec.org/assistive_pooch.html)
+- [InfoNet: Patient Advocacy Groups](http://infonet.welch.jhu.edu/advocacy.html) (phone numbers)
+- [Information About the Social Security Disability Program](http://www.ssa.gov/pubs/10029.html)
+- [Information Access and Adaptive Technology](http://www.amazon.com/exec/obidos/ISBN=0897749928/makoa)
+- [Informed Consumer Guide To Office Equipment For People With Visual Disabilities](http://www.abledata.com/icg_off.htm)
+- [Inide](http://indie.ca/)-- The Integrated Network of Disability Information and Education
+- [Inland Valley Special Olympics](http://www.geocities.com/Colosseum/Field/5425/)
+- [Innovation Management Group](http://www.imgpresents.com/) - supplier of Onscreen Keyboards and pointing device enhancements
+- [Innovative Programming](http://www.innovativeprogramming.net.au/)
+- [InnSeekers Bed & Breakfast Search](http://www.innseekers.com/) - listing wheelchair accessable B&Bs
+- [Inside the Halo and Beyond: The Anatomy of a Recovery](http://www.amazon.com/exec/obidos/ASIN/0393049000/makoa)
+- [Insider's Guide to Southern California](http://www.geocities.com/Heartland/6295/oldindex.htm)
+- [Instant Text](http://www.twsolutions.com/) - Fitaly on-screen keyboard, word prediction
+- [Institute on Independent Living: Homepage](http://www.independentliving.org/)
+- [Institute on Independent Living](http://www.independentliving.org/)
+- [Institute on Independent Living](http://www.canit.se:8000/~indliv/index.html)
+- [Integrated Arts- Home for Creative Expression](http://www.icomm.ca/iarts/)
+- [IntellaVoice](http://www.intellahome.com/) - Giving Every X-10 Automated Home a Voice
+- [InterAct Plus](http://www.interactplus.com/) - Imperium® Environmental Control System
+- [International Conference on Computers Helping People with Special Needs](http://www.ifs.uni-linz.ac.at/icchp)
+- [International MS Support Foundation](http://aspin.asu.edu/msnews/)
+- [International Paralympic Committee](http://www.paralympic.org/)
+- [International Special Olympics](http://www.specialolympics.org/)
+- [International Spinal Cord Regeneration Center](http://www.electriciti.com/~spinal/)
+- [International Ventilator Users Network](http://www.post-polio.org/ivun.html)
+- [Internet and the World Wide Web How to Program](http://www.amazon.com/exec/obidos/ASIN/0130161438/makoa)
+- [Internet Disability Resource Site](http://www.netreach.net/~abrejcha/websites.htm)
+- [Internet Mailing List Providers](http://www.gweep.bc.ca/~edmonds/usenet/ml-providers.html)
+- [Internet Resources for Special Children (IRSC) - Global disABILITY Resource](http://www.irsc.org/)
+- [Internet Resources for Special Children (IRSC)](http://www.irsc.org)
+- [Invacare Rehab Products Group](http://WWW.Invacare.com/) - power and manual wheelchairs
+- [Invacare Standard Products Group](http://WWW.Invacare.com/)
+- [Invacare wheelchair](http://catalog.invacare.com/pcatalog/gss.nsf)
+- [Invisible Disabilities Advocate Message Board](http://www.insidetheweb.com/mbs.cgi/mb284563)
+- [Invisible Disabilities Advocate-Chronic Illness](http://www.invisibledisabilities.com/)
+- [Invisible Disabilities Advocate](http://www.orci.com/~invisible/)
+- [Invisible Disablities Advocate](http://www.invisibledisabilities.com/) - Helping People Understand Chronic, Debilitating Illness
+- [inVoca.com](http://invoca.com/) - voice control remote
+- [Iowa State University](http://www.public.iastate.edu/~dus_info/homepage.html) Disabled User Services Homepage
+- [ISAAC Assistive Technology System for Cognitive Disability Including Brain Injury and Developmental Disabilities](http://www.cosys.com/)
+- [Israel for all](http://www.geocities.com/haruvi_il/)
+- [Japan Airlines](http://www.jal.co.jp/jjet_e/pri_gue.htm)
+- [Java & JavaScript Accessibility](http://trace.wisc.edu:80/world/java/java.htm)
+- [JDS Technologies](http://www.jdstechnologies.com/) - Home Automation and Environmental Control
+- [Jeeves](http://www.smart.com.au/) (Australia) - Home Automation
+- [Jeff's Home: rescuing jeffrey galli paralysis quadriplegia spinal cord injury swimming pool accident](http://www.gallilaw.com/jeffhome.htm)
+- [Jerome Home](http://www.jeromehome.com/) - nursing center and assisted living residence
+- [Jim Lubin Home Page](http://www.makoa.org/jlubin/)
+- [Joanne S Shulman](http://www.joannessa.com/) - Social Security Claim Development Specialist
+- [Job Accommodation Network (JAN)](http://janweb.icdi.wvu.edu/)
+- [Job Accommodation Network](http://janweb.icdi.wvu.edu/)
+- [Job Resources for the Disabled, Inc.](http://www2.interaccess.com/netown/announcements/jrdpromo.html)
+- [Job Search Handbook for People With Disabilities](http://www.amazon.com/exec/obidos/ASIN/1563706652/makoa)
+- [Job-Hunting Tips for the So-Called Handicapped or People Who Have Disabilities](http://www.amazon.com/exec/obidos/ASIN/1580081959/makoa)
+- [JobAccess](http://www.jobaccess.org/) - working with companies, government and non-profits to employ people with disablities
+- [Johns Hopkins University](http://www.med.jhu.edu/rehab/) Physical Medicine andpt Rehabilitation
+- [Joint Commission on Accreditation of Healthcare Organizations](http://www.jcaho.org/)
+- [Joni and Friends](http://www.joniandfriends.org/helps/needhelp.htm)
+- [Journey to Well : Learning to Live After Spinal Cord Injury](http://www.amazon.com/exec/obidos/ASIN/0965555828/makoa)
+- [Journey to Well: Learning to Live after Spinal Cord Injury](http://www.amazon.com/exec/obidos/ASIN/0965555828/makoa)
+- [Judo for Blind Athletes](http://JudoInfo.com/menu.shtml)
+- [Judy Lynn Software](http://www.castle.net/~judylynn) - Software for children with limited motor skills.
+- [Jumping the Queue : An Inquiry into the Legal Treatment of Students With Learning Disabilities](http://www.amazon.com/exec/obidos/ASIN/0674489098/makoa)
+- [Justice For All](http://www.jfanow.org/)
+- [K.S.I. START Szczecin](http://www.idn.org.pl/Szczecin/ksistart/index.html)
+- [Kempf-Katalavox](http://www.katalavox.com/) Voice Control Systems
+- [Kenny Foundation Online Equipment Connection](http://comnet.org/kenny/eq_index.html)
+- [Kessler Rehabilitation Corporation](http://www.kessler-rehab.com/)
+- [Kessler Research](http://www.kmrrec.org/)
+- [Key Tronic Corporation](http://www.keytronic.com/) - keyboards
+- [Keyboards with Left or Right Single-Handed Dvorak Layout for PC](http://adaptive.freeservers.com/)
+- [KEYTEC](http://www.magictouch.com/) - Magic Touch Screen, Magic Touch Monitor (CRT & LCD), and other touchscreen products
+- [Khartoum Cheshire Home for the handicapped](http://www.sudan.com/cheshire/)
+- [Kids' Camps - burn Camps](http://www.kidscamps.com/special_needs/burn.html)
+- [Kids' Camps - cancer/oncology Camps](http://www.kidscamps.com/special_needs/cancer_oncology.html)
+- [Kids' Camps - Special Needs Camps](http://www.kidscamps.com/cgibin/index.cgi?page=Special+Needs)
+- [Kids' Camps - Visually Impaired Camps](http://www.kidscamps.com/special_needs/visual_impaired.html)
+- [KidsHealth - Children's Health & Parenting Information](http://www.kidshealth.org/)
+- [kindred-souls.org - Web Accessibility Means -](http://www.web-accessibilty.bigstep.com/)
+- [Kitchen Design For The Wheelchair User](http://www.pva.org/access/ackitch1.htm)
+- [Knott's Berry Farm](http://www.knotts.com/guest/gs/disable/guide.htm) - Guide for Disabilities
+- [Knowledge Exchange Network (KEN)](http://www.mentalhealth.org/) - Mental Health resources
+- [Make-A-Wish Foundation of America](http://www.wish.org/)
+- [Koah Bed & Breakfast accommodation, Kuranda, Queensland Australia](http://www.ozemail.com.au/~koah/)
+- [Koss Corporation](http://www.koss.com/)
+- [Krypton Industries](http://www.dialindia.com/krypton/) - supplier of polyurethane wheelchair tyres
+- [Kurzweil AI](http://www.kurzweil.com/) (now Lernout & Hauspie) - VoicePlus
+- [KVB Manufacturing](http://members.aol.com/seawolf888/index.html) - Wheelchair Lifts Designed For Disabled Drivers
+- [KY Enterprises](http://www.quadcontrol.com/) - Adaptive Controllers for Playstation, N64, Genesis, NES & Super NES
+- [KY Enterprises](http://www.quadcontrol.com/ezra.htm) - EZRA, Single-Switch Environmental Control Unit
+- [L3 Systems Home Page](http://l3sys.eskimo.net/)
+- [La Esperanza Oasis](http://www.laesperanza.com/) - in the town of Calpe on the Mediterranean coast between Valencia and Alicante
+- [La Repandise](http://www.repandise.com/) - apartment for disabled people for holidays in Alsace (FRANCE)
+- [LAB Resources](http://www.execpc.com/~labres) - Assitive Technology for Special Needs
+- [Labtec](http://www.labtec.com/)
+- [Landmine Survivors Network](http://www.landminesurvivors.org/)
+- [Laptop Laidback](http://www.laptop-laidback.com/) - The Bed Table for Laptop Computers
+- [Las Vegas Disability Info](http://www.vegasdisabilityinfo.com/)
+- [Law about...Employment Discrimination](http://www.law.cornell.edu/topics/employment_discrimination.html)
+- [LC Technologies, Inc](http://www.lctinc.com/) - Eyegaze Communication System
+- [Learning Disabilities & Assistive Technology](http://www.amazon.com/exec/obidos/ASIN/1928752136/makoa)
+- [Leboeuf's Home Health Care Handbook : All You Need to Become a Caregiver in Your Home](http://www.amazon.com/exec/obidos/ASIN/0964885204/makoa)
+- [Legal Rights : The Guide for Deaf and Hard of Hearing People](http://www.amazon.com/exec/obidos/ASIN/1563680912/makoa)
+- [Legal Rights of Persons With Disabilities : An Analysis of Federal Law (Disability Law Series)](http://www.amazon.com/exec/obidos/isbn=0934753466/makoa/)
+- [Legislation and Policies on Information Systems Accessibility](http://www.gsa.gov/coca/llaw_pol.htm)
+- [Legislation and Policies on IS Accessibility](http://www.gsa.gov/coca/law_pol.htm)
+- [Legislative and Regulatory Developments](http://www.abanet.org/disability/reporter/home.html)
+- [Lernout & Hauspie (L&H)](http://www.lhs.com/) - speech recognition
+- [Leviton Mfg](http://www.Leviton.com/) - Home automation, lighting controls
+- [Levo AG](http://www.levo.ch/) - standing wheelchairs
+- [Levy & Davis ADA Info](http://www.levydavis.com/)
+- [Liberty Motor Co](http://www.libertymotorco.com/) - Wheelchair Accessible Minivans
+- [Life Expectancy of Ventilator-Dependent Persons With Spinal Cord Injuries.](http://library.northernlight.com/PN19990317010003614.html?cb=0&sc=0#doc)
+- **[Life on Wheels : A Guide for the Active Wheelchair User (Patient-Centered Guides)](http://www.amazon.com/exec/obidos/ASIN/1565922530/makoa)**
+- [Life Skills for Vocational Success](http://www.workshopsinc.com/manual/)
+- [Life@Home - Living Independently ... Longer](http://www.lifehome.com/)
+- [Lifeline Coordinating Systems Computer Table](http://www.webinsite.com/lifeline/)
+- [Lift America, Inc.](http://www.pwrtc.com/~liftamer/index.html) - Mobility products/services for public & private use vehicles
+- [Limbless Association](http://www.limbless-association.org/)
+- [Limbs for Life Foundation](http://www.limbsforlife.org/)
+- [Lincolnshire Post-Polio Directory \[International Polio Network (I.P.N.\]](http://www.zynet.co.uk/ott/polio/lincolnshire/directory/gini/ipn.html#I.V.U.N.)
+- [ListServe.com](http://ListServe.COM/)
+- [Liszt: Searchable Directory of e-Mail Discussion Groups](http://www.liszt.com/)
+- [Litigating Ada Claims : Forms, Pleadings, and Practical Guidance](http://www.amazon.com/exec/obidos/isbn=1578340012/makoa/)
+- [Little Bits Riding Club For The Disabled](http://www.compusmart.ab.ca/jfair/)
+- [Living in the State of Stuck : How Technology Impacts the Lives of Persons With Disabilities](http://www.amazon.com/exec/obidos/ASIN/1571290273/makoa)
+- [Living Well With MS : A Guide for Patient, Caregiver, and Family](http://www.amazon.com/exec/obidos/ASIN/0060969806/makoa)
+- [Living With Spinal Cord Injury](http://www.amazon.com/exec/obidos/ASIN/0533131995/myelitis)
+- [Liz Gray: Braille Transcribing](http://www.tusc.net/~lizgray/)
+- [llmedico.com \| Incontinence and Medical Links Library](http://www.llmedico.com/links.html)
+- [llmedico.com](http://www.llmedico.com/) - Incontinence Products
+- [Loading Ramps.com](http://www.loadingramps.com/)
+- [Loans for people with disabilities](http://www.fanniemae.com/neighborhoods/products/housing/loans_disabilities.html)
+- [Locks of Love](http://www.LocksofLove.org/)
+- [Logitech](http://www.logitech.com/) - Trackballs
+- [London for the disabled](http://www.amazon.com/exec/obidos/ISBN=0706313720/makoa)
+- [Long Distance Caregiving : A Survival Guide for Far Away Caregivers (The Working Caregiver Series)](http://www.amazon.com/exec/obidos/ASIN/1886230005/makoa)
+- [Lorien Systems](http://www.loriens.com/) - Software for Dyslexia and other special needs
+- [Los Altos Kiwanis Club - Kiwanis Special Games Page](http://www.losaltosonline.com:80/kiwanis/spgames.htm)
+- [Los Angeles Tourist Accessibility Guide](http://www.latourist.com/accessable.htm)
+- [Loughborough University](http://info.lut.ac.uk/research/paad/home.html) Physical Activity and Disability Group
+- [Loving Paws Assistance Dogs Index](http://www.lovingpaws.com/)
+- [LovingCare.net](http://www.lovingcare.net/) - A Site for Seniors and their Caregivers
+- [LRM'S PLACE: Disability, Health Care, Advocacy...and More](http://www.geocities.com/dhcpolwnk/)
+- [Lupus Foundation of America, Inc.](http://www.lupus.org/lupus/)
+- [Lycos Health Guide: Alternative Medicine Mini-Guide](http://www.lycos.com/health/miniguide/altmedicine.html)
+- [Lynx Information](http://lynx.browser.org/)
+- [MacEducational Software](http://www.tiac.net/users/wroger/) - Macintosh typing tutor shrareware programs
+- [Macintosh Disability Shareware and Freeware](http://www.ecnet.net/users/gnorris/place.shtml)
+- [Maddack, Inc.](http://www.cooper.edu/engineering/projects/gateway/me/concurrent/feeders/maddack.html)
+- [Madenta Communications](http://www.madenta.com/) - Hands free mouse, word prediction
+- [Madenta Communications](http://www.madenta.com/) - PROXi Environmental Control
+- [Madonna Rehabilitation Hospital](http://www.madonna.org/)
+- [Magee Rehabilitation](http://www.mageerehab.org/) - Philadelphia
+- [Magic Mobility](http://www.magicmobility.com.au/) - Four wheel drive power wheelchair
+- [MailList.Net](http://www.maillist.net/index.html)
+- [Maine Adaptive Sports & Recreation](http://www.agate.net/~pelle/)
+- [Maine Adaptive Sports and Recreation Web Page](http://www.agate.net/~pelle/index.html)
+- [Mainstream - Magazine of the Able-Disabled](http://www.mainstream-mag.com/)
+- [Make-A-Wish Foundation](http://www.wishoc.org/)
+- [Make-A-Wish Foundation](http://www.wish.org)
+- [Making an Exceptional Difference : Enhancing the Impact of Microcomputer Technology on Children With Disabilities](http://www.amazon.com/exec/obidos/ISBN=0930958039/makoa)
+- [Management of Spinal Cord Injury (Jones and Bartlett Series in Nursing)](http://www.amazon.com/exec/obidos/isbn=0867204389/makoa)
+- [Managing Ada : The Complete Compliance Guide (Employment Law Library)](http://www.amazon.com/exec/obidos/isbn=0471582751/makoa/)
+- [Managing Ada : The Complete Compliance Guide, 1993 Supplement](http://www.amazon.com/exec/obidos/isbn=047158276x/makoa/)
+- [Mark O'Brien's Web Page](http://www.pacificnews.org/marko/index.html)
+- [Mark's Ratpage](http://www.usinternet.com/users/markzman/adult/)
+- [Maryland Technology Assistance Program](http://www.mdtap.org/)
+- [Massachusetts Partnership for Transition](http://web1.tch.harvard.edu/ici/icinet/forum/)
+- [Massage Therapy](http://www.lightlink.com/massage/index.html)
+- [Mastervoice](http://www.mastervoice.com/) - BUTLER-IN-A-BOX™ Home Automation & Voice Recognition Systems
+- [Matias Corporation](http://www.dgp.toronto.edu/matias/product.html) - Half-Qwerty One-Handed Keyboard Software
+- [Maui Accessable Condo](http://www.mauiaccessiblecondo.com/) - located on the beach on Maui, Hawaii
+- [Mayo Clinic Family Health Book](http://www.amazon.com/exec/obidos/ASIN/0688144780/myelitis)
+- [Mays Mission](http://www.maysmission.org/) - Dedicated to assisting the disabled and promoting public awareness on disabilities.
+- [MBL a/s Denmark](http://www.mbl.dk/) - wheelchair components manufacturer
+- [McGraw-Hill World University](http://www.mhwu.edu/) -- Interactive Distance Education and Online Courses
+- [Mealtime Manual for People With Disabilities and the Aging](http://www.amazon.com/exec/obidos/ASIN/1556423411/makoa)
+- [Meaning of a Disability : The Lived Experience of Paralysis](http://www.amazon.com/exec/obidos/ASIN/156639676X/makoa)
+- [Meaning of a Disability : The Lived Experience of Paralysis](http://www.amazon.com/exec/obidos/ASIN/156639676X/makoa/)
+- [Med-Lift & Mobility](http://www.medlift.com/) - power lift/power recline chairs
+- [Med-Sell Articles and Columns](http://www.nccn.net/~medsell/articles.htm)
+- [Med-Sell](http://www.medsell.com/) - New & Previously Owned Medical Equipment
+- [Medicaid Clearinghouse](http://www.familiesusa.org/medicaid/)
+- [Medical Equipment Discount Store](http://www.cybermeds.com/)
+- [Medical EquipNet](http://www.solumed.com/)
+- [Medical Supplies](http://www.makoa.org/cmpyinfo.htm#supplies)
+- [Medicare--An Overview](http://www.ssa.gov/pubs/10043.html)
+- [Medicare](http://www.Medicare.gov/) - The Official US Government Site for Medicare Information
+- [Medicinal herbFAQ](http://sunsite.unc.edu/herbmed/mediherb.html)
+- [MedicineNet (TM) Home Page -- A FREE Medical Reference](http://www.medicinenet.com/)
+- [MEDITOPIA - The World's \#1 Oriental Medicine Web Site](http://www.meditopia.com/)
+- [MedLogic SuperSkin Web Site](http://www.medlogic.com/) - helps prevent skin breakdown
+- [MedMart!](http://www.medmart.com/index.htm)
+- [MedSeek](http://medseek.com/)
+- [MedShip Direct](http://www.medshipdirect.com/) - Urological Supplies
+- [MedSupport FSF International: 24hr. Multiple Sclerosis Support](http://www.medsupport.org/)
+- [Medsupport FSF International](http://www.medsupport.org/)
+- [Meeting the Needs of Students with Special Physical and Health Care Needs](http://members.home.net/cshcn1/factsheet.htm)
+- [Melissa's Page](http://pages.prodigy.com/melspage/)
+- [Melrose Kiwi Concept Chairs](http://www.wheelchairs.co.nz/)
+- [Mental Disabilities and the Americans With Disabilities Act : A Concise Compliance Manual for Executives](http://www.amazon.com/exec/obidos/isbn=0899308260/makoa/)
+- [Mental Retardation and Developmental Disabilities](http://members.aol.com/MRandDD/)
+- [Merindah Holiday Cottages](http://home.mira.net/~smycons/)
+- [Merry Maids](http://www.merrymaids.com/) - Merry Maids House Cleaning Gives You One Less Thing to Worry About
+- [Mesa Association of Sports for the Disabled](http://www.geocities.com/HotSprings/5896/)
+- [MGH Neurology - Neurology Web-Forum](http://neuro-www.mgh.harvard.edu/forum/)
+- [MICROCOMPUTER Science Centre Inc.](http://www.microscience.on.ca/)
+- [Microcomputer Technology for Special Education and Rehabilitation](http://www.amazon.com/exec/obidos/ISBN=0932719023/makoa)
+- [Microflip Inc](http://www.microflip.com/) - TTY/TDD Modems and software
+- [Microsoft Accessibility Site Index](http://www.microsoft.com/enable/index.htm)
+- [Microsoft Accessibility Support](http://www.microsoft.com/enable/products/default.htm) - Access Pack, Access DOS
+- [Microsoft and NBDC Announce Able to Work Consortium](http://www.microsoft.com/enable/employment/)
+- [Microsoft Products](http://www.microsoft.com/enable/products/default.htm)
+- [Microsoft Windows 95/98 Software Toolkit](http://trace.wisc.edu/world/computer_access/win95/win95sha.html)
+- [Microsoft Windows Software Toolkit](http://trace.wisc.edu/world/computer_access/win/winshare.html)
+- [Microsoft: For Web Page Designers](http://www.microsoft.com/enable/dev/web/default.htm)
+- [Mid-Atlantic DBTAC](http://www.transcen.org) - Region 3 (DE, DC, MD, PA, VA, WV).
+- [Midwest Regional Spinal Cord Injury Care System](http://www.nwu.edu/spine/index.htm)
+- [Milford (Massachusetts) Commission on Disability](http://www.milford.ma.us/disabil.htm)
+- [Miscellaneous](http://www.eeoc.gov/facts/adaqa3.html)
+- [Missouri Arthritis Rehabilitation Research and Training Ctr.](http://www.hsc.missouri.edu/arthritis/)
+- [Missouri Special Olympics](http://www.somo.org/)
+- [MIUSA Financial Aid & Scholarship Options for Disability and Exchange](http://www.miusa.org/)
+- [MJ Designs](http://www.mjdesignsinc.com/) - adaptive and everyday wear
+- [MMA: Mercy Medical Airlift Charitable Air Transportation](http://www.mercymedical.org/)
+- [MOBILE-LIFT CHAIR \[TM\]](http://www.galaxymall.com/product/mblift/)
+- [Mobility Needs Inc.](http://www.mobilityneeds.com/) (Road Island) - accessable vans, lifts, more
+- [Mobility Needs Inc. " Everything You Need To Keep You Mobile"](http://www.mobilityneeds.com/)
+- [Mobility Programs for the Physically Challenged](http://www.edmunds.com/edweb/editorial/features/mobility.htm)
+- [Mobility Solvers](http://pages.prodigy.com/NJGR89A/msolvers.htm) - Specializing in Accessible Housing
+- [MobilityWorks!](http://www.mobility-works.com/) - accessable vehicles
+- [Modern Morse Code in Rehabilitation and Education](http://www.amazon.com/exec/obidos/ASIN/0205287514/makoa) - New Applications in Assistive Technology
+- [MOMS](http://www.momsup.com/) - Medical Supplies
+- [Mons International, Inc.](http://www.magnifiers.com/) - magnifiers,visually impaired,low vision,blind
+- [Morse 2000 Homepage](http://www.uwec.edu/Academic/Outreach/Morse2000/morse2000.html)
+- [MossRehab ResourceNet-Accessible Travel](http://www.mossresourcenet.org/travel.htm)
+- [Mother Nature's General Store](http://www.mothernature.com/)
+- [Motion Automotive Specialty](http://www.motionautomotive.com/) - Meeting the Transportation Needs of the Physically Challenged
+- [Mouth Foot Painting Association (MFPA)](http://members.spree.com/esteh/mfpa.htm)
+- [Mouth-Drawn Christmas Cards by Jimmy McCoy](http://www.youens.com/mccoy/)
+- [Moving Violations : War Zones, Wheelchairs, and Declarations of Independence](http://www.amazon.com/exec/obidos/ISBN=0786881623/makoa)
+- [MSN DisAbilities Community](http://communities.msn.com/disabilities/)
+- [Mt. Sinai Medical Center](http://www.mssm.edu/rehab/) Rehabilitation Medicine
+- [Multimedia Designs Inc.](http://www.MultimediaDesigns.com/) - Multimedia Max - voice operated computer and environmental control
+- [Muscle Spasm, Pain and Marijuana Therapy : Testimony from Federal and State Court Proceedings on Marijuana's Medical Use](http://www.amazon.com/exec/obidos/ASIN/093648506X/makoa)
+- [Muscular Dystrophy Association - AU](http://www.mda.org.au/)
+- [Muscular Dystrophy Association - USA](http://www.mdausa.org/)
+- [My Baby's Health History : Newborn to 3 Years of Age](http://www.amazon.com/exec/obidos/ASIN/0966111907/makoa)
+- [My Child's Health History: 3 to 18 years of age](http://www.amazon.com/exec/obidos/ASIN/0966111915/makoa)
+- [My Handi-Capable Reporter](http://www.mhcr.com/)
+- [My Pool Pal flotation swimsuits, Coast-Guard approved pfd, and Swim Diapers make water activities safer for kids. The suits help children improve their swimming skills.](http://www.mypoolpal.com/)
+- [My Soul Purpose : Living, Learning, and Healing](http://www.amazon.com/exec/obidos/ASIN/0312964315/makoa)
+- [Nagano 1998 Winter Paralympic Games](http://www.paralympic.com/naganoe.html)
+- [NanoPac](http://www.nanopac.com/) - CINTEX2 Speak to your Appliances
+- [National Alliance OF The DisAbled (NAOTD)](http://www.naotd.org/)
+- [National Association For Down Syndrome (NADS)](http://www.nads.org/)
+- [National Association for Home Care](http://www.nahc.org/)
+- [National Association for Visually Handicapped (NAVH)](http://www.navh.org/)
+- [National Association for Visually Handicapped Mailing List](http://www.navh.org/maillist.html)
+- [National Association of Protection and Advocacy Systems](http://www.protectionandadvocacy.com/)
+- [National Ataxia Foundation](http://www.ataxia.org/)
+- [National Center for Injury Prevention and Control (NCIPC)](http://www.cdc.gov/ncipc/ncipchm.htm)
+- [National Center for Learning Disabilities](http://www.ncld.org/)
+- [National Center for the Dissemination of Disability Research](http://www.ncddr.org/)
+- [National Center on Accessibility](http://www.indiana.edu/~nca/)
+- [National Charities Information Bureau](http://www.give.org/)
+- [National Coalition to Amend the Medicare Homebound Restriction for Americans with Significant Chronic Illness Petition](http://www.PetitionOnline.com/abolish1/petition.html)
+- [National Council on Disability (NCD)](http://www.ncd.gov/)
+- [National Family Caregivers Association](http://www.nfcacares.org/)
+- [National Federation of the Blind (NFB)](http://www.nfb.org/)
+- [National Home Of Your Own Alliance](http://alliance.unh.edu/)
+- [National Home of Your Own Alliance](http://alliance.unh.edu/)
+- [National Hospice Foundation](http://hospiceinfo.org/)
+- [National Institute of Neurological Disorders and Stroke (NINDS)](http://www.ninds.nih.gov/)
+- [National Institute on Life Planning for Persons with Disabilities](http://sonic.net/nilp)
+- [National Institutes of Health (NIH)](http://www.nih.gov/)
+- [National Kidney Foundation](http://www.kidney.org)
+- [National Lekotek Center](http://www.lekotek.org/) - Leading the way to accessable play
+- [National Library of Medicine](http://www.nlm.nih.gov/)
+- [National Library Service for Blind/Physically Handicapped](http://lcweb.loc.gov/nls/nls.html)
+- [National Library Service for the Blind & Physically Handicapped](http://lcweb.loc.gov/nls/nls.html)
+- [National Marfan Foundation](http://www.marfan.org/)
+- [National Multiple Sclerosis Society](http://www.nmss.org/)
+- [National Organization for Albinism & Hypopigmnetation (NOAH)](http://www.albinism.org/)
+- [National Organization for Rare Disorders, Inc.(NORD)](http://www.rarediseases.org/)
+- [National Organization of Social Security Claimants' Representatives (NOSSCR)](http://www.nosscr.org/)
+- [National Organization on Disability](http://www.nod.org/)
+- [National Parent Network on Disabilities (NPND)](http://www.npnd.org/)
+- [National Patient Advocate Foundation](http://www.npaf.org/)
+- [National Power Chair](http://www.npcinc.com/) - wheelchair motor repair
+- [National Professional Resources](http://www.nprinc.com/)
+- [National Program for Accessibility](http://www.gsa.gov/pbs/pt/pts/access.htm)
+- [National Rehabilitation Information Center](http://www.naric.com/)
+- [National Spinal Cord Injury Association (official site)](http://www.spinalcord.org/)
+- [National Spinal Cord Injury Association of Illinois](http://www.sci-illinois.org/)
+- [National Sports Center for the Disabled](http://www.nscd.org/)
+- [National Sports Center for the Disabled](http://www.nscd.org/)
+- [National Stroke Association](http://www.stroke.org)
+- [National Vaccine InjuryCompensation (VICP) Home Page](http://www.hrsa.dhhs.gov/bhpr/vicp/)
+- [National Wheelchair Basketball Association](http://www.nwba.org/)
+- [National Zoo and Smithsonian Biopark: Access for Persons with Disabilities](http://www.si.edu/organiza/museums/zoo/hilights/disabil.htm)
+- [Natural Access](http://www.lava.net/home/) - Landeez all-terrain wheelchair (USA)
+- [Natural Health and Longevity Resource Center](http://www.all-natural.com/index.html)
+- [NaturalPoint trackIR](http://www.naturalpoint.com/) - control of your computer by tracking your body motion
+- [Naturopathic Medicine Network](http://www.pandamedicine.com/)
+- [NAVH Low Vision Aids Store](http://www.navh.org/shop/index.tagx)
+- [NC Assistive Technology Project](http://www.mindspring.com/~ncatp/)
+- [Nebraska Assistive Technology Project](http://www.nde.state.ne.us/ATP/TECHome.html)
+- [Need Meds](http://www.needymeds.com/) - Pharmaceutical Manufacturer's Drug Assistance Programs
+- [Neil Squire Foundation](http://www.vcn.bc.ca/nsf/) Canadian Non-Profit for Disabled People
+- [Neil Squire Foundation](http://www.neilsquire.ca/prod/bookhold.htm) - Bookholder
+- [Neil Squire Foundation](http://trace.wisc.edu/world/computer_access/win95/win95sha.html#ezmorse) - ezMorse for Win 95
+- [NetGrocer](http://www.netgrocer.com/) - Grocery delivery service
+- [Neurotrauma Law Center](http://www.neurolaw.com/)
+- [NeverLand Adventures](http://www.neverland-adventures.com/) - Accessible Tours to Australia
+- [New Age Automation - Montana](http://www.newageautomations.com/)
+- [New England DBTAC](http://www.adaptenv.org/) - Region 1 (CT, ME, MA, NH, RI, VT).
+- [New England Regional Spinal Cord Injury Center](http://www.bmc.org/rehab/)
+- [New Hampshire Special Olympics](http://www.gran-net.com/nh-olympics/)
+- [New Horizons : A Guide to Sexuality After Spinal Cord Injury](http://www.amazon.com/exec/obidos/ASIN/0915708426/makoa)
+- [New Horizons Newsletter](http://www.makoa.org/newhorizons/)
+- [New Horizons Un-Limited Inc](http://www.new-horizons.org/)
+- [New Horizons](http://www.dot.gov/ost/ogc/subject/consumer/aviation/publications/horizons.html) - Information for the Air Traveler with a Disability (DOT)
+- [New Horizons](http://www.faa.gov/acr/dat.htm) - Information for the Air Traveller with a Disability (FAA)
+- [New Jersey Coastal Heritage Trail Route](http://www.nps.gov/neje/)
+- [New Jersey Special Olympics](http://www.njso.org/)
+- [New Mobility Magazine](http://www.newmobility.com/)
+- [New Rule Avoids Airline Liability LImit for Damage to Wheelchairs (7/26/99)](http://www.dot.gov/affairs/1999/dot11099.htm)
+- [New South Wales Wheelchair Sports Association (NSWWSA), Inc.](http://www.nswwsa.org.au/)
+- [NFDA Consumer Tips for Arranging a Funeral](http://www.nfda.org/resources/tips.html)
+- [NLC: Understanding Spinal Cord Injury](http://www.neurolaw.com:80/spine.html)
+- [Nohands Mouse](http://www.footmouse.com/) - foot-controlled mouse
+- [Nokeys](http://members.aol.com/Leithauser/nokeys.html) - Virtual Keyboard for Windows 95/98/NT for computer users with disabilities
+- [Non Chew Cookbook](http://www.rof.net/yp/randyw/)
+- [NORD - MEAD](http://www.stepstn.com/nord/mead/) - Medical Equipment Exchange
+- [Norman De Forest Home](http://www.chebucto.ns.ca/~af380/handicapped.html) - Handicapped Tips
+- [North Bay Regional Center](http://www.nbrc.net/) - for those with Developmental Disabilities.
+- [North Bay Regional Center](http://www.nbrc.net/) - information and services for those with Developmental Disabilities
+- [North Carolina Assistive Technology Project](http://www.mindspring.com/~ncatp/)
+- [North Carolina Special Olympics](http://www.ncso.org/)
+- [North Coast Medical](http://www.ncmedical.com/) - Functional Solutions for Independent Living
+- [NovaCare Sabolich](http://www.novacaresabolich.com/) - orthotic and prosthetic services.
+- [North Rockland Special Education PTA](http://www.geocities.com/Athens/4611/)
+- [Northamptonshire People First](http://www.peoplefirst.org.uk/)
+- [Northeast Rehabilitation Hospital - Intrathecal Baclofen Trial](http://www.rehabnet.com/nrh/baclofen.htm)
+- [Northern California Special Olympics](http://www.sonc.org/)
+- [Northwest Airlines](http://www.nwa.com/services/onboard/special/index.shtml) - Access for People with Disablities
+- [Northwestern University](http://www.repoc.nwu.edu/) Rehab Engineering, Prosthetics and Orthotics
+- [Not Dead Yet!](http://acils.com/NotDeadYet/)
+- [NotePage Inc](http://www.notepage.com/dahoh/) - wireless messaging products for the deaf/hoh
+- [NPATH: National Patient Air Transport Helpline](http://www.npath.org/)
+- [NSCIA - Greater Boston Chapter](http://www.sciboston.com/)
+- [Numb Toes and Aching Soles : Coping With Peripheral Neuropathy](http://www.amazon.com/exec/obidos/asin/0967110718/makoa)
+- [NurseWeek](http://www.nurseweek.com/)
+- [Nursing Home & Long Term Care Topics](http://www.geocities.com/HotSprings/2021/)
+- [Nursing Spectrum- Career Fitness Online](http://www.nursingspectrum.com/)
+- [Nursing Spinal Cord Injuries (paperback)](http://www.amazon.com/exec/obidos/isbn=0847673871/makoa)
+- [Nursing Spinal Cord Injuries](http://www.amazon.com/exec/obidos/ASIN/0847673804/makoa)
+- [NW Regional Spinal Cord Injury System](http://depts.washington.edu/rehab/sci/) - Spinal Cord treatment center\
+- [NXi Communications](http://www.nxicom.com/) - telecommunications products for the Deaf
+- [oandp.com - the global resource for Orthotics & Prosthetics information.](http://www.oandp.com/)
+- [OASAM](http://www.dol.gov/dol/oasam/welcome.html) - State and Local Government
+- [OATS therapeutic horseback riding](http://www.oatshrh.org/)
+- [Occupational Training Program Guide](http://www.angelfire.com/biz/bempub/page2.html)
+- [Occupational Training Program Workbook](http://www.angelfire.com/biz/bempub/page3.html)
+- [Occupational Training Program](http://www.angelfire.com/sc/atcotp/)
+- [Office du transport du Canada / Canadian Transportation Agency](http://www.cta-otc.gc.ca/)
+- [Office of Special Education Programs (OSEP)](http://www.ed.gov/offices/OSERS/OSEP/osep.html)
+- [Ohio State University](http://www.osu.edu/units/ods/) - Disability Services
+- [Oklahoma ABLE Tech Home Page](http://www.okstate.edu/wellness/at-home.htm)
+- [Oklahoma Disability Law Center, Inc.](http://www.flash.net/~odlcokc/)
+- [Oklahoma State University](http://www.nchrtm.okstate.edu/) National Clearing House of Rehabilitation Training Material
+- [Older and Younger People with Disabilities: Improving Chronic Care Throughout the Life Span](http://www.aoa.gov/factsheets/disabilities.html)
+- [Omnipotence Software](http://omnipotencesoftware.com/) - ECS (Event Control System) Home Automation Software
+- [On A Roll - Talk Radio on Life & Disability](http://www.onarollradio.com/)
+- [On A Roll](http://www.onarollradio.com/) - Talk Radio on Life and Disability
+- [On-line Disability Information System (ODIS)](http://www.ume.maine.edu/~cci/odis/)
+- [ONElist](http://www.onelist.com/)
+- [Onsight Ergonomics](http://www.onsightergo.com/) - ergonomic computer products
+- [Ontario March of Dimes](http://www.dimes.on.ca/)
+- [OPCA Website -OLIVOPONTOCEREBELLAR ATROPHY](http://www.alyshia.com/opca/)
+- [Opportunities Unlimited of Niagara, delivers case management, day treatment, residential, vocational, clinical, recreational and employment services to the developmentally disabled or mentally retarded and their families](http://www.opportunitiesunlimited.org/)
+- [Origin Instruments](http://www.orin.com/) - HeadMouse Head-Controlled Pointing Systems
+- [Origin Instruments](http://www.orin.com/) - SofType on-screen keyboard
+- [Orthotic & Prosthetic Athlete Assistance Fund](http://www.oandp.com/resources/sports/opaaf/)
+- [OSERS: National Institute on Disability & Rehabilitation Research (NIDRR)](http://www.ed.gov/offices/OSERS/NIDRR/index.html)
+- [Other Complications of SCI](http://calder.med.miami.edu/pointis/other.html)
+- [Other Products/Services](http://www.makoa.org/cmpyinfo.htm#other)
+- [Our Ocean Dreams - Unique and Specialized Aquatic Adventures](http://www.ouroceandreams.com/)
+- [OUTA SIGHT!](http://www.outa-sight.com/) - Products for the Visually and Physically Challenged
+- [Outcome After Head, Neck and Spinal Trauma : A Medicolegal Guide](http://www.amazon.com/exec/obidos/isbn=0750621788/makoa)
+- [Oxford Special Olympics](http://electronicvalley.org/oso/)
+- [P.A.R.E.N.T.S., Inc.](http://www.parentsinc.org/)
+- [Pacific DBTAC](http://www.pacdbtac.org) - Region 9 (AZ, CA, HI, NV, Pacific Basin).
+- [Page Author Check List](http://trace.wisc.edu/docs/html_guidelines/authorcl.htm)
+- [Pain.com](http://www.pain.com/) - information on pain management
+- [Palaestra: Forum of Sport, Physical Education & Recreation For Those With Disabilities](http://www.palaestra.com/)
+- [Palaestra: Forum of Sport, Physical Education & Recreation For Those With Disabilities](http://www.palaestra.com/)
+- [Palliative CareCenter of the North Shore](http://www.carecenter.org/)
+- [Para-Plus medical supplies](http://www.para-plus.ca/) - all kind of wheelchairs
+- [Paralinks Electronic Magazine](http://www.paralinks.net/index.html)
+- [Paraplegic & Quadraplegic Association Of Queensland (PQAQ)](http://www.pqaq.gil.com.au/)
+- [Paratransit Van Programs](http://transit.metrokc.gov/accessible/paratransit.html) - King County, Washington
+- [Parent Advocacy Coalition for Educational Rights (PACER)](http://www.pacer.org/)
+- [Parent to Parent of the Capital Area](http://www.freenet.tlh.fl.us/Parent_to_Parent/)
+- [Parenting Special Needs](http://specialchildren.miningco.com/)
+- [Paris Ile de France Pour Tous / CNFLRH](http://whanditel.jouve.fr/)
+- [Parrot Accessibility Site](http://www.voice-assistant.com/) - voice recognition organizer
+- [Pathways Development Group](http://www.pathwaysdg.com/) - delivering control and communications solutions to people with disabilities
+- [Pathways Development Group](http://www.pathwaysdg.com/) - Team Xtreme for NES & Super NES
+- [Pathways Development Group](http://www.pathwaysdg.com/) - TeamXtreme makes it possible for people with disabilities to play any Nintendo, NES, Super NES or N64 video
+- [Patient Care Standards](http://www.amazon.com/exec/obidos/ASIN/0801651336/makoa)
+- [Paul's Home Page](http://members.aol.com/USEDVAR/index.html)
+- [PC Shopping Planet](http://www.shoppingplanet.com/)
+- [PC World News: NaturallyClear Headset Sounds Clear](http://www.pcworld.com/cgi-bin/pcwtoday?ID=10749)
+- [PC World News: Wanted: A Web for All of Us](http://www.pcworld.com/pcwtoday/article/0,1510,17505,00.html)
+- [PC World News: Web Sites Inch Toward Accessibility](http://www.pcworld.com/cgi-bin/pcwtoday?ID=18727)
+- [pd's Disability Poetry Online](http://www.expage.com/page/crippoems)
+- [Peapod](http://www.peapod.com/) - Internet Grocery Shopping and Delivery
+- [PEDIATRIC NEUROSURGERY HOME PAGE](http://cpmcnet.columbia.edu/dept/nsg/PNS/Welcome.html)
+- [Penn State University Rehabilitation Center](http://www.hmc.psu.edu/sciweb/anat/anat3.htm) - Anatomy of the Spine
+- [People with Disabilities Project](http://www.azstarnet.com/~pwd/)
+- [People With Disablities](http://www.scn.org/scripts/menus/d/Disabled/Disable.menu)
+- [People with speech disabilities](http://interwork.sdsu.edu/ablenet/sts.html)
+- [Personal Assistance Systems](http://smarthome.com/secassist.html)
+- [Personal Health History: Spinal cord injury](http://www.amazon.com/exec/obidos/ASIN/0966111931/makoa)
+- **[Personal Health History: Spinal cord injury](http://www.amazon.com/exec/obidos/ASIN/0966111931/makoa)**
+- [Personal Health History:Adults](http://www.amazon.com/exec/obidos/ASIN/0966111923/makoa)
+- [Personal Touch](http://www.nursinghomeapparel.com/) - Nursing Home Apparel
+- [Personal-experience stories and essays about disability awareness, rights, inspiration](http://www.tell-us-your-story.com/)
+- [Perspectives Network On-Line](http://www.tbi.org/) - Brain Injury (TBI)
+- [Pharmacological Approaches to the Treatment of Brain and Spinal Cord Injury](http://www.amazon.com/exec/obidos/isbn=030642732x/makoa)
+- [Phil-E-Slide: safe patient handling systems, independent patient transfers](http://phil-e-slide.com/)
+- [Physical Activity & Disability Group Home Page](http://info.lut.ac.uk/research/paad/Wheelpower/home.html)
+- [Physical Activity and Disability Group](http://info.lut.ac.uk/research/paad/home.html)
+- [Physical Activity and Health, Disabled](http://www.cdc.gov/nccdphp/sgr/disab.htm)
+- [Physical Therapy Connection](http://www.webring.org/cgi-bin/webring?ring=ptconnection;list)
+- [PI Engineering](http://www.ymouse.com/) - X-keys programmable auxiliary keyboards
+- [PI Engineering](http://www.ymouse.com/) -X-keys Switch Interface; Ymouse - attach 2 mice to 1 port
+- [PIE Medical](http://www.piemed.com/) - Pulsing Water Therapy for the bowel
+- [Piekernie](http://www.piekernie.org/) (Belgian non-profit) para & quad
+- [Pillman Architects](http://www.webcom.com/goaccess/pa/welcome.html)
+- [PlanetRx](http://www.planetrx.com/) - Medical Supplies
+- [Planning For The Disable Child: Special Needs Trust](http://www.mpmlaw.com/practice/estate/pr_estp.html)
+- [platinum healthcare equipment](http://www.platinumhealthcare.com/)
+- [Pocket Guide to Federal Help for Individuals With Disabilities](http://www.pueblo.gsa.gov/cic_text/fed_prog/fedhelp/fedhelp.txt)
+- [Polio Experience Network](http://www.polionet.org)
+- [Polio Survivors Page -- Newsletters](http://www.eskimo.com/~dempt/news.html)
+- [Polio Survivors Page](http://www.eskimo.com/~dempt/polio.html)
+- [Posey Company](http://www.posey.com/) - health care products
+- [Positioning in a Wheelchair : A Guide for Caregivers of the Disabled Adult](http://www.amazon.com/exec/obidos/ASIN/1556422512/makoa)
+- [Post Polio Task Force Information Center\</\>](http://www.post-polio.org/)
+- [Post Polio Task Force Information Center](http://www.post-polio.org/)
+- [Post-Polio-Med](http://www.skally.net/ppmed/)
+- [PPS CENTRAL - Post Polio Related Info on the Internet](http://www.skally.net/ppsc/)
+- [Pre-Owned Electronics, Inc - Refurbished and Used Apple Macintosh Systems, Parts, Peripherals, and Accessories, Apple and Macintosh computers :](http://www.preowned.com/)
+- [Prentke Romich Company](http://www.prentrom.com/) - Communication without limitations
+- [Prentke Romich Company](http://www.prentrom.com/) - HeadMaster, Jouse
+- [Prentke Romich Company](http://www.prentrom.com/) - WiVik(PC) on-screen keyboad
+- [Prescription Drug Assistance Programs](http://www.Medicare.gov/Prescription/Home.asp)
+- [President's Committee on Employment of People with Disabilities](http://www.pcepd.gov/)
+- [Presidential Task Force on the Employment of Adults with Disabilities](http://www.dol.gov/dol/_sec/public/programs/ptfead/main.htm)
+- [Preventing and Treating Pressure Sores](http://www.lsi.ukans.edu/rtcil/psores.htm)
+- [Prevention and Management of Urinary Tract Infections in Paralyzed Persons](http://www.ahrq.gov/clinic/utisumm.htm)
+- [Pride Against Prejudice : Transforming Attitudes to Disability](http://www.amazon.com/exec/obidos/isbn=0865712786/makoa/)
+- [ProBed Medical Technologies](http://www.pro-bed.com/2id.htm)
+- [Productivity Works](http://www.prodworks.com/) - pwWebSpeak
+- [Professional Fit Clothing](http://www.professionalfit.com/)
+- [Program Development Associates](http://www.pdassoc.com/) - Provide disability awereness & ADA training videos, more.
+- [Progressive Medical](http://www.progressivemedicalinc.com/) - Air mattresses, Foam Mattresses, and Miscellaneous products.
+- [Project ACTION Technical Assistance](http://www.projectaction.org/) - Accessible Community Transportation In Our Nation
+- [Project dERE](http://users1.ee.net/coldir/dere.htm) - disABLED Electronic Resource Exchange Project Inc
+- [Project Enable File Libraries](http://www.icdi.wvu.edu/ena-file.htm)
+- [Project HIRED](http://www.projecthired.org/) - assisting people with disabilities find competitive employment
+- [Project HOPE](http://www.projhope.org/) - Health Opportunities for People Everywhere
+- [Project Mend](http://www.projectmend.org/) - Medical Equipment Network for the disabled
+- [Project Vote Smart](http://www.vote-smart.org/) - A Voter's Self-Defense System
+- [Proportional Reading](http://www.proportionalreading.com) - Instant Computer Assisted Reading of Any Text
+- [Protection & Advocacy, Inc. of California](http://www.pai-ca.org/)
+- [Prctic](http://www.maptel.es/practic/) - Adaptive computer products
+- [Public Accommodations](http://www.eeoc.gov/facts/adaqa2.html)
+- [PUBLIC ROADS On-Line (Autumn 1994): ADA: Guaranteeing Access to Transportation](http://www.tfhrc.gov/pubrds/fall94/p94au18.htm)
+- [Publicly Accessible Mailing Lists](http://www.neosoft.com/internet/paml/)
+- [PVAONLINE.COM Paralyzed & Disabled Veterans National News](http://www.pvaonline.com/)
+- [Quadriplegic List](http://www.makoa.org/quadlist.htm)
+- [Quadriplegics Bulletin Board](http://www.escribe.com/health/quadriplegics/bb/)
+- [Quadriplegics Chat](http://www.escribe.com/health/quadriplegics/chat/)
+- [Quantas Airlines](http://www.qantas.com.au/flights/essentials/needs/disabilities.html) - Access for People with Disablities
+- [Quartet Technologies](http://www.qtiusa.com/) - SimplicityTM Series EC using Voice and/or Switches
+- [R.D. Equipment, Inc.](http://www.rdequipment.com/) - Electric Leg Bag Emptier
+- [R.D. Equipment, Inc.](http://www.rdequipment.com/) - Tub Slide Shower Chair, Electric Leg Bag Emptier
+- [Ragged Edge Magazine Online](http://www.ragged-edge-mag.com/)
+- [Rain Forest Inn](http://www.rainforestinn.com) - barrier free bed and breakfast, Puerto Rico rain forest
+- [Rainbow Wheels accessible vehicles](http://www.rainbowwheels.com/)
+- [Ramp Study](http://www.design.ncsu.edu/Res-Pub/publications/CUD/RAMP1.html)
+- [Rand-Scot Inc. - Bye-Bye Decubiti Cushions](http://bbdcushion.com/bbd/)
+- [RAND-SCOT](http://www.easypivot.com/) - EasyPivot Transfer Machines
+- [Reach Out Magazine!](http://www.reachoutmag.com/)
+- [Reach Out Magazine](http://www.reachoutmag.com/) - Bringing People With disAbilities Together
+- [Readers with Visual Impairments](http://www.lcc.gatech.edu/gallery/dzine/access/)
+- [ReadToMe](http://www.pixi.com/~reader1/) - reading software
+- [Recording For The Blind & Dyslexic](http://www.rfbd.org/)
+- [Red Cross/Red Crescent Web servers Worldwide](http://www.ifrc.org/)
+- [Reeve-Irvine Research Center](http://www.reeve.uci.edu/~reeve/)
+- [Reflexology Research Presents](http://www.reflexology-research.com/)
+- [Regulation, Litigation and Dispute Resolution Under the Americans With Disabilities Act : A Practitioner's Guide to Implementation](http://www.amazon.com/exec/obidos/isbn=1570733546/makoa/)
+- [Rehab Designs, Inc](http://www.rehabdesigns.com/) -
+- [Rehab Designs](http://www.rehabdesigns.com/ecus/) - Environmental Control Units
+- [REHABDATA](http://trace.wisc.edu/conet-bin/xad?Mn=index.html&db=3&ds=001&p=18)
+- [Rehabilitation Counseling Web Page](http://pages.prodigy.com/rehabilitation-counseling/index.htm) (Unofficial)
+- [Rehabilitation Engineering](http://www.cs.wright.edu/bhe/rehabengr/rehabeng.html)
+- [Rehabilitation Institute of Chicago](http://www.rehabchicago.org/)
+- [RehabTeamSite](http://calder.med.miami.edu/pointis/)
+- [RehabTool.com](http://www.rehabtool.com/) - Adaptive and Assistive Technology
+- [Rescuing Jeffrey: A True Story](http://www.amazon.com/exec/obidos/ASIN/1565122704/makoa)
+- [RESNA Technical Assistance (TA) Project](http://www.resna.org/)
+- [Resources 4 U](http://www.resources4u.com/)
+- [Resources for Caregivers of Older Persons](http://www.aoa.gov/caregivers/)
+- [Restless Legs Syndrome (RLS) Support Site](http://www.rls.org/)
+- [RGM Enterprises](http://www.mindspring.com/~rgm/rgment.html)
+- [Rick Hansen Center](http://www.per.ualberta.ca/rhc/)
+- [Rick Hansen Institute](http://www.rickhansen.org/)
+- [Ricon Group distributes its mobility and accessibility products via a network of over 1,000 dealers.](http://www.riconcorp.com/)
+- [Right Reasons! Cabo San Lucas](http://www.allaboutcabo.com/wheelchairfishing.htm) - Wheel Chair Accessible Fishing Charters
+- [Ring Of Special Needs Children](http://www.webring.org/cgi-bin/webring?ring=spneed;list)
+- [Rist-Wel](http://www.ristwel.com/) - hands-free beverage dispenser
+- [Riverbend Down Syndrome Parent Support Group](http://www.altonweb.com/cs/downsyndrome/)
+- [RJ Cooper's Special Needs](http://rjcooper.com/auggy-comm-jr/index.html) - Augmentative Communication
+- [RJ Cooper's Special Needs](http://rjcooper.com/onscreen/index.html) - on-screen keyboard with WordComplete
+- [RJ Cooper's Special Needs](http://rjcooper.com/sam-trackball/index.html) - Switch-Adapted Mouse devices
+- [Road Access for Disabled Americans](http://www.digitalthreads.com/rada/)
+- [Rocket eBook Site](http://www.rocketbook.com/)
+- [Rocky Mountain Learning Systems](http://hqnet.org/fsn/kmuir/rmls.htm) - Educational Software
+- [Rolli-Moden](http://www.rolli-moden.com/) - Designer Clothing for Wheelchair Users
+- [Rollin' on : A Wheelchair Guide to U.S. Cities](http://www.amazon.com/exec/obidos/ISBN=0396075487/makoa)
+- [Rolltalk](http://www.rolltalk.com/) (Norway) - electric wheelchairs with ECU
+- [Rolltalk](http://www.rolltalk.com/) - electric wheelchairs
+- [Round Table Deutschland (RTD) online](http://www.Round-Table.de/)
+- [Royal National Institute for the Blind](http://www.rnib.org.uk/) in the U.K.
+- [RPM Conceptions wheelchair accessory transfer walking support belt home patient care](http://www.buzweb.com/rpm/)
+- [RVL S.C.O.R.E. International](http://www.rvlscore.org/)--A not-for profit organization that assists paralyzed individuals
+- [RxList - The Internet Drug Index](http://www.rxlist.com/)
+- [S.I.R.E., Inc - Therapeutic Horseback Ridinylg for Disabled](http://members.aol.com/sireinc/)
+- [Sacramento Center for Assistive Technology (SCAT)](http://www.quiknet.com/~scat/)
+- [Sammons Preston](http://www.sammonspreston.com/) - Products for Personal independence
+- [San Luis Obispo Special Olympics](http://www.slonet.org/vv/ipsoslo/)
+- [Sand Rik](http://www.geocities.com/Colosseum/Bleachers/1494/index.htm)
+- [Saratoga Access & Fitness](http://www.saratoga-intl.com/)
+- [SCATIR Switch Page](http://www.msu.edu/~artlang/SCATIR.html)
+- [School Bus ADA/IDEA Glossary](http://www.whitebuffalopress.com/busglos2.htm)
+- [sci connection](http://www.sciconnection.com/)
+- [SCI Forum](http://depts.washington.edu/rehab/sci/forum.shtml)
+- [SCI Informational Pamphlets](http://depts.washington.edu/rehab/resources/index.shtml#pamphlets)
+- [SCI List on the Internet](http://www.geocities.com/~msalam7/scidir.htm)
+- [SCI Manual for Patients and Families](http://calder.med.miami.edu/pointis/sciman.html)
+- [SCI PILOT - Home ... \[Spinal Cord Injury Peer Information Library on Technology - A resource about spinal cord injured consumer's experiences with assistive technology.\]](http://www.scipilot.com/_g/home_g/index.html)
+- [Scoot-Around North America](http://www.scootaround.com/) - Electric Scooter rentals
+- [Scooter Tote](http://www.infostuff.com/ScooterTote/)
+- [Search The List of Lists](http://catalog.com/vivian/interest-group-search.html)
+- [Searchwave](http://www.searchwave.com/) - The Search Engine for Audiology, Hearing Loss, Hearing Aids, and the Ear
+- [Seaside Associates](http://www.seaside.org/) - info on Products and Services
+- [Seat Handler](http://seathandler.com/) - Alternative To Handling A Toilet Seat
+- [Section 8 Housing Program Fact Sheet](http://www.hud.gov/section8.html)
+- [Securement Of Wheelchairs And Other Mobility Aids On Transit Vehicles](http://www.eskimo.com/~jlubin/disabled/gov/t27.htm)
+- [SeeMore Scenic Tours](http://www.geocities.com/TheTropics/Island/4245/) - Australian disabled travel solutions
+- [Self Advocacy Net](http://www.selfadvocatenet.com/)
+- [Self-Improvement thru Riding Education](http://members.aol.com/sireinc/)
+- [Seniors-Site.com -- for adults 50+ (senior citizens) their children & caregivers](http://seniors-site.com/)
+- [SenTech Medical Systems, Inc.](http://www.sentechmedical.com/) - Thera-Turn Family Of Products
+- [SERI - Special Education Resources on the Internet](http://www.hood.edu/seri/serihome.htm)
+- [Service Alternatives for WA., Inc.](http://www.whidbey.net/~servalt/)
+- [Service Dog Access Consulting](http://www.service-dog.com/)
+- [SEVERE.net](http://www.concentric.net/~severe1/) - social security disability law information source
+- [Sexual Health Network Home Page](http://sexualhealth.com/)
+- [Sexual Health Network Home Page](http://www.sexualhealth.com/index.html)
+- [Sexuality in SCI](http://calder.med.miami.edu/pointis/sexuality.html)
+- [Sexuality of After Spinal Cord Injury : Answers to Your Questions](http://www.amazon.com/exec/obidos/ASIN/1557662657/makoa)
+- [Sexycord](http://www.sexycord.com/)
+- [Shake-A-Leg-Miami](http://ShakeALegMiami.org/)
+- [Shake-A-Leg](http://www.shakealeg.org/)
+- [Sheltered Workshop Employment Readiness Guide](http://www.angelfire.com/biz/bempub/page10.html)
+- [Shelton Products](http://members.aol.com/nevertie/phy_challenged_one_arm.html) - Fishing, with one arm or hand
+- [Shepherd Center](http://www.shepherd.org/)
+- [Shoppers Exprss](http://www.shoppersexpress.com/) - Grocery delivery service
+- [Shure TCHS Computer Wireless System](http://www.shure.com/tchs.html)
+- [Shure Voice Recognition Computer Microphones](http://www.shure.com/computer.html)
+- [ShurLok Key Storage Lock Box](http://www.shurlok-products.com/Elderly.htm)
+- [Simplantex](http://www.simplantex.co.uk/) -- Stylish Weatherwear and Casual Wear for the Wheelchair User
+- [Simply Powerful Technologies.](http://simplypowerful.com/software/) - on-screen keyboard
+- [Simtech Publications](http://www.hsj.com/) - switch accessable software for the Mac
+- [sit-easy.co.uk](http://www.sit-easy.co.uk/)
+- [Skin Management in SCI](http://calder.med.miami.edu/pointis/skin.html)
+- [Sky Ranch Inc.](http://members.aol.com/SkyRanch1/) - A Non-Profit Barrier Free Family Campground
+- [Smith-Magenis syndrome](http://www.kumc.edu/gec/support/smith-ma.html)
+- [SNAP Online: Special Needs Advocate for Parents](http://www.snapinfo.org/)
+- [Social Security Administration (SSA)](http://www.ssa.gov)
+- [Social Security Disability Benefit Site](http://www.ssdisability.net/) - Attorney Charles R. Ryan
+- [Social Security Disability Benefits--What You Need to Know](http://www.ssa.gov/pubs/10029.html)
+- [Social Security Disability Law -- Sheri R. Abrams, P.C.](http://sheriabrams.com/)
+- [Social Security Disability, Law Offices Of Michael Doran](http://ssiatty.com/)
+- [Social Security How We Decide If You Are Still Disabled](http://www.ssa.gov/pubs/10053.txt)
+- [Social Security publications available](http://www.ssa.gov/pubs/)
+- [Social Security Survivors Benefits](http://www.ssa.gov/pubs/10084.html)
+- [Society For Accessible Travel & Hospitality (SATH)](http://sath.org/)
+- [SoloRider Industries, Inc.](http://www.solorider.com/) - multi-functional golf car can be used for the disabled golfer
+- [Solutions Access Technologies for People Who Are Blind](http://www.amazon.com/exec/obidos/ISBN=0939173212/makoa)
+- [SOS Catalog](http://www.isgnet.com/sos/) - Survivors of disabled products
+- [SoundBytes](http://www.soundbytes.com/) - the hearing enhancement rescource company
+- [Soundscapes from The vOICe - Seeing with your Ears](http://ourworld.compuserve.com/homepages/Peter_Meijer/)
+- [Source Health](http://www.sourcehealth.com/) - Medical Supplies, wheelchirs
+- [Source Health](http://www.sourcehealth.com/) - wheelchirs, walkers, standers
+- [South Australia Special Olympics](http://www.cs.adelaide.edu.au/users/dwyer/SOSA.html)
+- [South Carolina Orthopaedics Institue](http://www.scoi.com/)
+- [Southeastern Guide Dogs - Guide Dog School in Florida for the Blind - guidedog training](http://www.guidedogs.org/)
+- [Spacticity](http://www.lsi.ukans.edu/rtcil/spastici.htm)
+- [Special Bikes for Special Tikes, INC](http://www.handicappedbicycles.com/)
+- [Special Bikes for Special Tikes](http://www.handicappedbicycles.com/) - Adapt regular bicycles for physically challenged children
+- [Special Child Magazine for Parents of Children with Disabilities](http://www.specialchild.com/index.html)
+- [Special Discount Passes - Disabled Persons](http://www.mta.net/metro/fareinfo/discount_passes_disabled.htm)
+- [Special Music by Special People: Home Page](http://www.specialmusic.org/)
+- [Special Needs Education Network (SNE) Home Page](http://www.schoolnet.ca/sne/)
+- [Specially Adapted Manufactured Home by Mid-South Home Center](http://www.samh.com/)
+- [Specially For You LLC](http://mail.dailypost.com/speciallyforyou/) - Clothing for the Physically Challenged
+- [Specialty Care Shoppe](http://www.specialtycareshoppe.com/) - Adaptive Clothing, Nursing Home Clothing, Clothing for Special Needs
+- [Spect-A-Lift](http://www.wheelchairlift.com/index.htm)
+- [Spina Bifida Association of America](http://www.sbaa.org/)
+- [Spinal Confusion](http://www.egroups.com/info/top?rurl=/list/spinalconfusion/info.html) - Paralysis Discussion
+- [Spinal Cord Diagram](http://www.nsnet.org/cpans/sci.html) at the Canadian Paraplegic Association (NS) web site
+- [Spinal Cord Injured Patients in Pakistan](http://www.geocities.com/HotSprings/Spa/5325/)
+- [Spinal Cord Injuries in Children](http://www.amazon.com/exec/obidos/isbn=0879932643/makoa)
+- [Spinal Cord Injury : A Guide to Functional Outcomes in Occupational Therapy](http://www.amazon.com/exec/obidos/isbn=0871896044/makoa)
+- [Spinal Cord Injury : Clinical Outcomes from the Model Systems](http://www.amazon.com/exec/obidos/isbn=0834206978/makoa)
+- [Spinal Cord Injury : Concepts and Management Approaches](http://www.amazon.com/exec/obidos/isbn=0683011286/makoa)
+- [Spinal Cord Injury : Medical Management and Rehabilitation](http://www.amazon.com/exec/obidos/isbn=083420553x/makoa)
+- [Spinal Cord Injury Manual for Patients and Families](http://calder.med.miami.edu/pointis/sciman.html)
+- [Spinal cord injury resource center](http://www.spinalinjury.net/)
+- [Spinal Cord Injury Support Network](http://www.brainlink.com/~phil/)
+- [Spinal Cord Injury Update Newsletter](http://depts.washington.edu/rehab/resources/sciu.shtml)
+- [Spinal Cord Injury Update](http://depts.washington.edu/rehab/sci/update.shtml)
+- [Spinal Cord Injury Workshop -- table of contents](http://www.ninds.nih.gov/health_and_medical/disorders/sci.htm)
+- [Spinal Cord Research Centre](http://www.scrc.umanitoba.ca/)
+- [Spinal Cord Society](http://members.aol.com/scsweb/private/scshome.htm)
+- [Spinal Network: A Comprehensive Guide to Independent Living with a Spinal Cord Injury](http://www.sapphirepress.com/UNCAT/uncat99.html)
+- [Spinal Research Fund of Australia](http://srfa.com.au/)
+- [Spinal Research](http://www.spinal-research.org/) - a cure for paralysis from spinal cord injury
+- [SPINALCORD Injury Information Network](http://www.spinalcord.uab.edu/)
+- [SPINALCORD: Functional Goals following SCI - Basic](http://www.spinalcord.uab.edu/show.asp?durki=30166)
+- [Spine and Nerve Center at MGH/Harvard](http://neurosurgery.mgh.harvard.edu/spine-hp.htm)
+- [Spine and peripheral neurosurgery at Mass. General Hospital](http://neurosurgery.mgh.harvard.edu/spine-hp.htm)
+- [Spinewire](http://www.cando.com/cgi-bin/templates/sw_index.html?section=71) - issuses and topics of interest to people with spinal cord dysfunction
+- [SportAid-MedAid](http://www.sportaid.com/) - Sports wheelchairs
+- [SPORTQuest - THE Virtual Resource Centre for Sport Information](http://www.sportquest.com/questdisabled.cfm)
+- [SSA/OAG Grant Information Page](http://www.ssa.gov/oag/grants/)
+- [St. Charles Evaluations](http://www.stcharles.org/evaluat.html)
+- [St. Luke's Rehabilitation Institute](http://www.st-lukes.org/)
+- [Starbright](http://www.starbright.org/)
+- [Staring Back : The Disability Experience from the Inside Out](http://www.amazon.com/exec/obidos/ISBN=0452279135/makoa)
+- [Staying Healthy After SCI](http://depts.washington.edu/rehab/resources/index.shtml#pamphlets)
+- [Stephen Hawking : Revolutionary Physicist](http://www.amazon.com/exec/obidos/ASIN/0791020789/makoa)
+- [Stephen Hawking's Universe](http://www.wnet.org/hawking/html/home.html)
+- [Steve's Hydrocephalus Page](http://web.syr.edu/~sndrake/hyd1.htm)
+- [Stroke Support & Information](http://www.strokenetwork.org/)
+- [Students Seeking Disability Related Information](http://www.abilityinfo.com/)
+- [Summit Assistance Dogs](http://www.pack-leader.com/summit.htm) - organization based in NW Washington that provides assistance dogs to people with disabilities (except blindness) within 250 miles of Seattle
+- [SunBelt Industries Technologies Group](http://www.sunbeltindustries.com/) - Closed Captioned, Home Automation
+- [Sunrise Medical](http://www.sunrisemedical.com/) - Quickie Electric Wheelchairs
+- [Supplemental Security Income (SSI)-How to Apply](http://www.ssa.gov/pubs/11000.html)
+- [Support Groups, Organizations, Research Centers, and Resources in SCI](http://calder.med.miami.edu/pointis/support2.html)
+- [Support-Group.com: Spinal Cord Injury](http://www.support-group.com/cgi-bin/sg/get_links?spinal_cord)
+- [Survivors Art Foundation](http://www.survivorsartfoundation.org/) - Dedicated to encourage healing through the arts
+- [Swiss Wheelchair Basketball](http://www.handibasket.ch/index.htm)
+- [Sydney Electric Wheelchair Rentals](http://www.wheelchairs.sydney.net/)
+- [Synapse](http://www.synapseadaptive.com/) - speech recognition systems
+- [Synapse](http://www.synapseadaptive.com/synapse/tapdesc.htm) - TAP Universal and UNIX voice recognition
+- [Syringomyelia Facts](http://www.syringo.org/)
+- [Tack-tiles](http://www.tack-tiles.com/) - braille learning blocks
+- [TAP's ASCII-TTY Software](http://tap.gallaudet.edu/asciifaq.htm)
+- [Tarleton State University](http://www.tarleton.edu/)
+- [TAS Switch](http://www.msu.edu/~artlang/TAS.html)
+- [TASC Disabledtravel.com](http://www.disabledtravel.com/)
+- [TASC: The American Surrogacy Center, Inc.](http://www.surrogacy.com/)
+- [Tash Inc.](http://tashinc.com/catalog/) - ecu, switches
+- [TBI and disability support](http://home.earthlink.net/~iadvocate/)
+- [Technical Braille Center](http://www.globaldialog.com/~chpi/techbrail.html) - Produces books in braille, large print, and computer formats, specializing in mathematical and technical materials.
+- [Technical Solutions Australia Pty Ltd](http://www.tecsol.com.au/)
+- [Technical Solutions](http://www.tecsol.com.au/) - Electronics for people with disablities
+- [Technology for Students with Disabilities: A Decision Maker's Resource Guide](http://www.amazon.com/exec/obidos/ASIN/0883642077/makoa)
+- [TechnoWorks](http://www.t-works.co.jp/)
+- [Teftec](http://teftec.com/) - the OmegaTrac is an ultra manuveurable indoors and go-anywhere off road outdoors
+- [Telesensory](http://www.telesensory.com/) - Personal Reading Systems and Computer Magnification Systems for Enlarging Text
+- [Telesensory](http://www.telesensory.com/) Blindness/Low Vision Products
+- [Telex Computer Audio - Microphones & Headsets for speech dictation, voice recognition, telephony, cellular](http://www.computeraudio.telex.com/)
+- [Telex Computer Audio](http://www.computeraudio.telex.com/)
+- [Tempest International](http://tempestinternational.com/products.htm) - Therapeutic Support Surfaces
+- [Tennessee Association for Disability Rights](http://www.tadr.org/)
+- [Test Accommodations for Students With Disabilities](http://www.amazon.com/exec/obidos/ASIN/0398068453/makoa)
+- [Test Accommodations for Students With Disabilities](http://www.amazon.com/exec/obidos/ASIN/0398068445/makoa/) - considers a variety of legal questions, theoretical issues, and practical methods for meeting the assessment needs of students with disabilities.
+- [Tethered Cord Syndrome](http://www.oz.net/~ccaine/tcs.html)
+- [Texas A&M Univ](http://ats.tamu.edu/) Services for Students with Disabilities
+- [Texas Hearing and Service Dogs](http://www.servicedogs.org/)
+- [Texas Special Olympics, Hurst-Euless-Bedford](http://www.flash.net/~wallis/)
+- [Text-To-Speech Info Page](http://www.ultranet.com/~rongemma/)
+- [The Accessible Games Book](http://www.amazon.com/exec/obidos/ASIN/1853028304/makoa)
+- [The Accessible Housing Design File](http://www.amazon.com/exec/obidos/ASIN/047128436X/makoa)
+- [The Accessible Kitchen](http://www.cs.wright.edu/bhe/rehabengr/kitchens/floor.htm)
+- [The Accessible Kitchen](http://www.asktooltalk.com/home/articles/construction/accessibility/kitchens.htm)
+- [The Accessible Museum](http://www.amazon.com/exec/obidos/ISBN=0931201160/makoa) - Model Programs of Accessibility for Disabled and Older People
+- [The Ada Action Guide for State and Local Governments (Disability Law Practice)](http://www.amazon.com/exec/obidos/isbn=0934753881/makoa/)
+- [The Alternative Medicine Homepage](http://www.pitt.edu/~cbw/altm.html)
+- [The Americans With Disabilities Act : A Practical and Legal Guide to Impact](http://www.amazon.com/exec/obidos/isbn=1558711635/makoa/)
+- [The Americans With Disabilities Act : From Policy to Practice](http://www.amazon.com/exec/obidos/isbn=096298700x/makoa/)
+- [The Americans With Disabilities Act : Planning for Compliance/H45109 (Litigation Series, Vol 412)](http://www.amazon.com/exec/obidos/isbn=9992629940/makoa/)
+- [The Americans With Disabilities Act Handbook (Landmark Laws)](http://www.amazon.com/exec/obidos/isbn=1880780003/makoa/)
+- [The Americans With Disabilities Act](http://www.amazon.com/exec/obidos/isbn=0929576659/makoa/)
+- [The Appeals Process](http://www.ssa.gov/pubs/appeals.html)
+- [The Arc](http://www.thearc.org/) - comprehensive info on mental retardation
+- [The Arc](http://www.TheArc.org/) - organization on mental retardation
+- [The Body Silent](http://www.amazon.com/exec/obidos/isbn=0393307026/makoa)
+- [The Boulevard](http://www.blvd.com/) - a Disability and Healthcare site
+- [The Carebook : A Workbook for Caregiver Peace of Mind](http://www.amazon.com/exec/obidos/ASIN/0963073052/makoa)
+- [The Caregiver's Book : Caring for Another, Caring for Yourself (Miller, James E., Willowgreen Series.)](http://www.amazon.com/exec/obidos/ASIN/0806629851/makoa)
+- [The Caregiver's Companion : Words to Comfort and Inspire](http://www.amazon.com/exec/obidos/ASIN/0425156176/makoa)
+- [The Caregiver's Manual : A Guide to Helping the Elderly and Infirm](http://www.amazon.com/exec/obidos/ASIN/080651597X/makoa)
+- [The Center for Universal Design](http://www.design.ncsu.edu/cud/index.html)
+- [The Center for Universal Design](http://www2.ncsu.edu/ncsu/design/cud/)
+- [The Child With a Spinal Cord Injury (paperback)](http://www.amazon.com/exec/obidos/isbn=0892031468/makoa)
+- [The Chocolate Experience](http://www.chocobraille.com) - "Choco-Braille" - Chocolate Novelties For The Visually-Impaired
+- [The Commonwealth Foundation](http://www.oneworld.org/com_fnd/)
+- [The Complete Nanny Guide : Solutions to Parents' Questions About Hiring and Keeping an In-Home Caregiver](http://www.amazon.com/exec/obidos/ASIN/0380782286/makoa)
+- [The Cord](http://www.brainlink.com/~phil/cord.html)
+- [The Council for Exceptional Children](http://www.cec.sped.org/)
+- [The Definitive Manual Wheelchair Buying Guide](http://www.llc.net/~dpw4u2/)
+- [The Design Linc Resource and Information Center](http://www.rahul.net/designlinc/)
+- [The Disability Advocacy Council](http://firms.findlaw.com/DAU/)
+- [The Disability Law Reporter Service](http://www.amazon.com/exec/obidos/isbn=0132196271/makoa/)
+- [The Disability Rights Activist](http://www.disrights.org/)
+- [The Disability Rights Movement (Cornerstones of Freedom)](http://www.amazon.com/exec/obidos/isbn=0516066323/makoa/)
+- [The Disabled (Current Controversies)](http://www.amazon.com/exec/obidos/isbn=156510529x/makoa/)
+- [The Dragonfly Toy Company](http://www.dragonflytoys.com) - items for children with special play needs
+- [The Enabling Garden : A Guide to Lifelong Gardening](http://www.amazon.com/exec/obidos/ASIN/0878338470/makoa)
+- [The Essential Guide to Prescription Drugs 1998 (Serial)](http://www.amazon.com/exec/obidos/ASIN/0062716069/myelitis)
+- [The Exceptional Childrens Assistance Center](http://www.ecac-parentcenter.org/)
+- [The Foundation Center](http://fdncenter.org/)
+- [The Free Personal Care Aid Connection](http://www.pca-hha.com/)
+- [The Gables cornwall uk](http://www.choicecareservices.co.uk/)
+- [The High Tech Store](http://www.hightech-store.com/)
+- [The Inclusion Network](http://www.inclusion.org/) - Working To Build A More Inclusive World
+- [The Instant Access Treasure Chest](http://www.fln.vcu.edu/ld/ld.html) - The Foreign Language Teachers' Guide to Learning Disabilies
+- [The International Spinal Injuries & Rehabilitation Centre](http://www.royalbucks.co.uk/isu.htm)
+- [The Internet Braille Wizard Access 20/20](http://www.access2020.com/) - braille translator
+- [The Lupus Home Pages](http://www.hamline.edu/lupus)
+- [The Magnifying Center](http://www.magnifyingcenter.com/) - Aid for the visually impaired
+- [The Management of Persons With Spinal Coryd Injuries](http://www.amazon.com/exec/obidos/ASIN/0939957108/makoa)
+- [The Medicine Program](http://www.medicineprogram.com/) Free Prescription Medicine is Available
+- [The Miami Project to Cure Paralysis](http://www.miamiproject.miami.edu)
+- [The Mila One-Step Electrical Feeder](http://www.cooper.edu/engineering/projects/gateway/me/concurrent/feeders/mila.html)
+- [The Mining Company - Deafness/Hard of Hearing](http://deafness.miningco.com/)
+- [The Model Spinal Cord Injury Center at the MCW/FMLH](http://www.mcw.edu/spinal/)
+- [The Mouse List](http://www.setbc.org/mouselist/)
+- [The Myelin Project Reports](http://www.myelin.org/pst_rprts.html)
+- [The Myelin Project](http://www.myelin.org/)
+- [The Myelin Project](http://www.myelin.org/) is a non-profit organization engaged in research to find a way to repair myelin as soon as possible.\
+- [The National Center For Stuttering](http://www.stuttering.com)
+- [The National Cristina Foundation: Homepage](http://www.cristina.org/index2.html)
+- [The New Civil Rights:](http://www.eskimo.com/~dempt/crights.htm)An article on the history of the fight for the ADA
+- [The New York Institute for Special Education](http://www.nyise.org/)
+- [The Odd Shoe Exchange, for Amputees and People with odd shoe sizes](http://www.angelfire.com/in2/oddshoes/)
+- [The Official Web Site of the Canadian Electric Wheelchair Hockey Association - Calgary Division](http://www.wheelchairhockey.com/)
+- [The Ombudsman Program: Investigating Complaints About Nursing Home Care](http://www.aoa.gov/factsheets/ombudsman.html)
+- [The Others Place](http://www.angelfire.com/bc2/theothersplace/)
+- [The Outlet -](http://the-outlet.com/) Discount Custom/brandname wheelchairs
+- [The Parenting Community: PARENTS PLACE.COM](http://www.parentsplace.com/)
+- [The Patient's Guide to Medical Tests : Everything You Need to Know About the Tests Your Doctor Prescribes (Serial)](http://www.amazon.com/exec/obidos/ASIN/081603530X/myelitis)
+- [The PDG E-news Monthly Internet Newsletter on Disability Related Issues, Concerns, and FUN!](http://www.pathwaysdg.com/current.htm)
+- [The Possibilities Company](http://www.synapse.com/possibilities/fasttalk.htm) - FastTalk Communications Assistant
+- [The Prentice Hall Ada Compliance Advisor The Legal Center](http://www.amazon.com/exec/obidos/isbn=0130312045/makoa/)
+- [The Pull-thru Network](http://members.aol.com/pullthrunw/Pullthru.html)
+- [The QUAD LINK](http://www.2tim.net/)
+- [The Quest for Cure](http://www.amazon.com/exec/obidos/ISBN=0929819039/makoa) - Restoring Function After Spinal Cord Injury
+- [The Reading Edge - The "Edge" in Reading Technology](http://www.telesensory.com/)
+- [The Regence Group (static main page)](http://www.regence.com/)
+- [The Reiki Page](http://reiki.7gen.com/)
+- [The Resource Page - Internet resources disability resources fun and games, search engines chat](http://members.aol.com/thresource/)
+- [The Resourceful Caregiver : Helping Family Caregivers Help Themselves](http://www.amazon.com/exec/obidos/ASIN/0815155565/makoa)
+- [The Rights of Students (Aclu Handbook for Young Americans.)](http://www.amazon.com/exec/obidos/ASIN/0140377840/makoa)
+- [The Sandollar HomePage](http://home.earthlink.net/~sandollar/)
+- [The Sibling Support Project](http://www.chmc.org/departmt/sibsupp/)
+- [The Social Security Office of Disability Home Page](http://www.ssa.gov/odhome/odhome.htm)
+- [The Spinal Cord Injury - For Your Information (SCI-FYI) Resource Guide](http://www.tbi-sci.org/scifyi/)
+- [The Spinal Cord Injury Handbook for Patients and Their Families](http://www.amazon.com/exec/obidos/ASIN/1891525018/makoa)
+- [The Tin Man Wheelchair Robots](http://kipr.org/robots/tm.html) - supplementary wheelchair controller
+- [The Transverse Myelitis Association Newsletters](http://www.myelitis.org/newsletters/index.html)
+- [The United States Senate](http://www.senate.gov/)
+- [The Warm Springs Resource Center for People with Disabilities](http://www.warmsprings.org/RCenter/recntera.htm)
+- [The Wheelchair Evaluation : A Practical Guide](http://www.amazon.com/exec/obidos/ASIN/0750670371/makoa)
+- [The Wheelchair Van](http://wheeledcoach.com/)
+- [The Why Files - Paralysis Analysis](http://whyfiles.news.wisc.edu/023spinal_cord/index.html)
+- [The World on Wheels](http://www.geocities.com/Heartland/6295/)
+- [The Worldwide Virtual Community of the Disabled](http://www.linkable.org/)
+- [Therapeutic Alliances Inc](http://www.MusclePower.com/)
+- [Thick & Easy Pure Express Web Site](http://www.thickandeasy.com/) - specialized food products for patients with swallowing disorders
+- [Thomas Edison State College](http://www.tesc.edu/) - Distance Learning
+- [THOMAS: Legislative Information on the Internet](http://thomas.loc.gov/home/thomas.html)
+- [Thomson, Rogers - Litigation Lawyers Renowned Among Toronto Law Firms](http://www.thomsonrogers.com/)
+- [Through the Looking Glass](http://www.lookingglass.org/)
+- [Today's Caregiver Magazine Online](http://www.caregiver.com/)
+- [Toll Free Numbers of Accessible Transportation Providers](http://www.projectaction.org/paweb/800num.htm)
+- [Topics in Spinal Cord Injury Rehabilitation](http://www.thomasland.com/)
+- [Topics in Spinal Cord Injury Rehabilitation](http://www.thomasland.com/_nonsearch/ts0101toc.htm) - Mobility Considerations for Client Independence
+- [TouchTurner](http://www.touchturner.com/index.html)
+- [Tourette Syndrome](http://members.tripod.com/~tourette13/)
+- [tourism for all - Sweden, Italy, France, Germany, Spain](http://www.cabtfe.es/sinpromi/guia/)
+- [Toy Catalog Listing for Children with Special Needs](http://www.nas.com:80/downsyn/toy.html)
+- [Toys for Special Children & Enabling Devices](http://www.enablingdevices.com/)
+- [Trace Computer Access Program](http://trace.wisc.edu/world/computer_access/)
+- [Trace Research and Development Center](http://www.trace.wisc.edu/)
+- [Trace Research and Development Center](http://www.trace.wisc.edu/)
+- [TRACEBASE](http://trace.wisc.edu/tcel/tbase/index.html)
+- [Traditional Japanese Reiki (TJR)](http://www.geocities.com/HotSprings/6542/)
+- [Tranquil Adventures](http://tranquiladventures.com/) (Florida Keys) - wheechair accessable catamaran
+- [Tranquil Adventures](http://home.att.net/~cpt.mick/) - custom private tours of the Florida Keys
+- [Transport for People With Mobility Handicaps : Information and Communication](http://www.amazon.com/exec/obidos/ISBN=9282111571/makoa)
+- [Transportation Choices Coalition](http://www.transportationchoices.org/)
+- [Transverse Myelitis Association](http://www.myelitis.org/index.html)
+- [Transverse Myelitis Association](http://www.myelitis.org)
+- [Transverse Myelitis Association](http://www.myelitis.org/)
+- [Transverse Myelitis Internet Club](http://www.myelitis.org/tmic/)
+- [Transverse Myelitis List](http://www.myelitis.org/tmic/)
+- [Traumatic Spinal Cord Injury: Lecture Outline](http://otpt.ups.edu:80/Medicine/SCI-LecOutline.html)
+- [Travel Access in London : A Guide for Those Who Have Problems Getting Around](http://www.amazon.com/exec/obidos/ASIN/1899163182/makoa)
+- [Travel Aides International](http://members.tripod.com/~Travel_us/index.html)
+- [Travel And Recreation for The Developmentally Disabled](http://www.gosprout.org/)
+- [Travel for the Disabled : A Handbook of Travel Resources and 500 World Wide Access Guides](http://www.amazon.com/exec/obidos/ASIN/0933261004/makoa)
+- [Travel Guide For The Wheelchair Traveler](http://maxpages.com/disabledaccess/WHEELCHAIR+TRAVEL+GUIDE)
+- [Travelability](http://www.amazon.com/exec/obidos/ISBN=0026011700/makoa) - A Guide for Physically Disabled Travelers in the United States
+- [Traveling with a Disability](http://www.tripspot.com/features/disability.htm)
+- [Traveling...Like Everybody Else](http://www.amazon.com/exec/obidos/ISBN=0915361779/makoa) - A Practical Guide for Disabled Travelers
+- [TRI Online! Taconic Resources for Independence, Inc.](http://www.taconicresources.net/)
+- [Tri State Lift](http://www.tri-state-lift.com/) - Elevators, Stairway Lifts, Platform Lifts, & Automatic Doors
+- [Trish & John's Resources for Parents with Disabilities](http://ourworld.compuserve.com/homepages/Trish_and_John/resource.htm)
+- [Trusts for Disabled Persons Protect Benefits](http://anclegal.com/EP-1/art114.htm)
+- [TSC&ED - Toys for Special Children & Enabling Devices](http://www.enablingdevices.com/)
+- [TTY FAQ](http://www.zak.co.il/deaf-info/old/tty_faq.html)
+- [Tub-Master.com](http://www.tub-master.com/) - grab bars, shower seats, Barrier Free folding shower enclosure
+- [Tulip Travel](http://www.tulip-travel.com/)
+- [Tumble Forms](http://www.tumbleforms.com/) - positioning and mobility equipment.
+- [Umbrella of the Capital District](http://www.theumbrella.org/) -- provides support services for elderly and disabled live safely and independently in their own homes.
+- [Tumble Forms](http://www.tumbleforms.com/) - Assistive Technology and Adaptive Positioning Equipment
+- [Turnsoft](http://www.turnsoft.com/tssystem.html) - automatic turning mattress heals "Decubitus"
+- [Turtle Homes: Accessible Housing For Independent Living](http://www.turtlehomes.com/)
+- [Typhoon Software](http://www.typhoon.com/) - Speech Recognition software
+- [Typing Injuries FAQ's and Links](http://www.cs.princeton.edu/~dwallach/tifaq)
+- [Typing Injury FAQ: Alternative Keyboards & Accessories](http://www.cs.princeton.edu/~dwallach/tifaq/keyboards.html)
+- [Typing Injury FAQ: Speech Recognition](http://www.cs.princeton.edu/~dwallach/tifaq/speech.html)
+- [U.S. Architectural and Transportation Barriers Compliance Board](http://www.access-board.gov/)
+- [U.S. Census Bureau Disability Statistics](http://www.census.gov/hhes/www/disable.html)
+- [U.S. Department of Education (ED) -- Funding](http://www.ed.gov/funding.html)
+- [U.S. Department of Health and Human Services (DHHS)](http://www.os.dhhs.gov/hpagetxt.html)
+- [U.S. Department of Justice ADA Page](http://www.usdoj.gov/crt/ada/adahom1.htm)
+- [U.S. Department of Justice](http://www.usdoj.gov/)
+- [U.S. Department of Labor](http://www.dol.gov/)
+- [U.S. Department of Transportation Accessibility](http://www.dot.gov/accessibility/)
+- [U.S. Department of Transportation](http://www.dot.gov/ost/docr/) - Departmental Office of civil Rights
+- [U.S. House Of Representatives](http://www.house.gov/)
+- [U.S. Supreme Court Actions](http://www.abanet.org/disability/reporter/home.html#supremecourt)
+- [UB Center for Assistive Technology](http://wings.buffalo.edu/academic/department/hrp/ot/cat/)
+- [UCP of Eastern Connecticut](http://www.ucpa-eastern-ct.org/)
+- [UCP/NYC - Assistive Technology](http://www.ucpnyc.org/)
+- [Ultimate Concerns -- Death & Dying](http://seniors-site.com/ultimate/index.html)
+- [Understanding Social Security](http://www.ssa.gov/pubs/10024.pdf) (pdf file)
+- [Unicorn Quest](http://www.esmerel.com/) - The Kids' Typing Tutor Game for One or Two Hands
+- [Unified Web Site Accessibility Guidelines](http://trace.wisc.edu/docs/html_guidelines/htmlgide.htm)
+- [United Airlines](http://www.ual.com/site/primary/0,10017,1039,00.html) - Access for People with Disablities
+- [United Cerebral Palsy Association of Eastern Connecticut](http://www.ucpa-eastern-ct.org/)
+- [United Cerebral Palsy of Oklahoma](http://www.ucp.org)
+- [United Design Associates](http://www.uniteddesign.com/accessible_plans.html) - Accessible Home Plans
+- [United Ostomy Association](http://www.uoa.org/uoa-9.html)
+- [United States Cerebral Palsy Athletic Assocation](http://www.uscpaa.org)
+- [United States Department of Transportation Departmental Office of civil Rights Home Page](http://www.dot.gov/ost/docr/)
+- [United States Government TTY/TDD Directory](http://www.gsa.gov/frs/)
+- [United States Quad Rugby Association (official)](http://www.quadrugby.com/)
+- [United Way of America](http://www.unitedway.org/)
+- [Univ of California @ Berkeley](http://www-gse.berkeley.edu/program/SP/sp.html) School of Psychology
+- [Univ of California @ LA Disabilities and Computing Program (DCP)](http://www.dcp.ucla.edu/)
+- [Univ of California @ LA Disability Access Web (Fourth Draft)](http://www.ucla.edu/access/)
+- [Univ of Michigan Model Spinal Care Injury Care System](http://www.med.umich.edu/pmr/model_sci/)
+- [Universal Design](http://www.amazon.com/exec/obidos/ISBN=0912045868/makoa) - Creative Solutions for Ada Compliance
+- [Universal Designers & Consultants, Inc.](http://www.Universaldesign.com/)
+- [Universal Kitchen & Bathroom Planning : Design That Adapts to People](http://www.amazon.com/exec/obidos/ASIN/0070499802/makoa)
+- [University of Delaware](http://www.asel.udel.edu/sem/) - SEM
+- [University of Florence](http://ger.mt.unifi.it/caos.htm) Pathokinesiology & Rehabilitation Unit
+- [University Of Georgia](http://www.dissvcs.uga.edu/) - Disability Services
+- [University of Illinois at Urbana-Champaign](http://www.uiuc.edu./)
+- [University of Iowa Division of Developmental Disabilities](http://www.uiowa.edu/~ddd-uhs)
+- [University of Kansas Medical Center, School of Allied Health](http://www.kumc.edu/SAH)
+- [University of Maine](http://www.ume.maine.edu/~cci/) - Center for Community Inclusion
+- [University of Minnesota, Disability Services](http://disserv.stu.umn.edu/)
+- [University of New Hampshire, Institute on Disability](http://iod.unh.edu/)
+- [University of Pittsburgh](http://www.pitt.edu/~document/adaptive_svcs/adaptive_svcs.html) - CIS Adaptive Computing Facilites and Services
+- [University of South Carolina](http://www.cdd.sc.edu/) - Center for Developmental Disabilities
+- [University of Southampton, CTI Centre for Human Services](http://www.soton.ac.uk/~chst/eo.htm)
+- [University of Virgina](http://curry.edschool.Virginia.EDU/go/specialed/), Special Education Web Site
+- [University of Washington Medicinal Herb Garden](http://www.nnlm.nlm.nih.gov/pnr/uwmhg/)
+- [University of Washington, Department of Rehab Medicine](http://depts.washington.edu/rehab/index.shtml)
+- [University of Washington, DO-IT](http://www.washington.edu/doit/)
+- [UNIX and Linux System Software Toolkit](http://trace.wisc.edu/world/computer_access/unix/unixshar.html)
+- [UPlift Seat Assist](http://www.up-lift.com/)
+- [Uppertone](http://www.gpk.com) Unassisted Muscle Strenghtening System For Quads
+- [Urinary Tract Infections in Adults](http://www.pueblo.gsa.gov/cic_text/health/urinarytract/utiadult.htm)
+- [Urinary Tract Management in SCI](http://calder.med.miami.edu/pointis/urinary.html)
+- [USA Jeans](http://www.wheelchairjeans.com/)
+- [USATOTE](http://www.usatote.com/) - covered carrier for scooters and wheelchairs
+- [Used and Improved PCs](http://www.zdnet.com/netbuyer/edit/cshopper/content/9807/318598.html)
+- [USOPM - Job Opportunities for People with Disabilities](http://www.usajobs.opm.gov/b1h.htm)
+- [Utah Special Olympics - Weber State University](http://www.weber.edu/StudentActivities/Htmls/SpecialOlympics.htm)
+- [Vacation Home Exchange](http://www.independentliving.org/VacationHomeSwap.html) - Persons with Extensive Disabilities
+- [Vail Products](http://www.vailbed.com/) - Enclosed Beds and Enclosure Systems
+- [Van Duerr Industries](http://www.vanduerr.com/) - ADA Compliance Products
+- [Vans/Transportation/Lifts](http://www.makoa.org/mobility.htm)
+- [Vantage Mini Vans](http://www.vantageminivans.com/)
+- [Vent-Users Bulletin Board](http://www.escribe.com/health/vent-users/bb/)
+- [Vent-Users Chat](http://www.escribe.com/health/vent-users/chat/)
+- [Vent-Users List](http://www.makoa.org/ventuser.htm)
+- [Venture Products Inc.](http://www.venturepro.com/) - the wheelchair accessible power unit
+- [Vermont Adaptive Ski and Sports](http://www.sover.net/~vass/)
+- [Very Special Arts Massachusetts EchoCommunity](http://www.accessexpressed.net/)
+- [Very Special Arts New Mexico](http://www.collectorsguide.com/ab/g256.html) at The Collector's Guide to the Art of New Mexico and the American Southwest
+- [VETS](http://www.dol.gov/dol/vets/) - Veterans
+- [Victorian University, TAFE Services](http://www.deakin.edu.au/extern/rdlu)
+- [Viewpoint Mobility](http://www.viewpointmobility.com/)
+- [Virginia Special Olympics](http://www.specialolympicsva.com/)
+- [Virtual Assistive Technology Center](http://www.at-center.com/) - cheap and free software for disabled
+- [Virtual Keyboard 2](http://members.iinet.net.au/~mic/vu/index.html)
+- [Virtual Memorials](http://www.virtualmemorials.com/)
+- [Virtual Paraplegia - Spinal Cord Injury Resources](http://www.mt.net/~russa/)
+- [Virtual Reality and Persons with Disabilities](http://www.csun.edu/cod/vr92.html)
+- [VisionKey Computer Controller](http://www.eyecan.ca/) - Eye control input
+- [Vitamin Discount Connection](http://www.vitamindiscount.com/)
+- [VitaNet Vitamins Your Discount Vitamin Store.](http://www.vitanet.net/)
+- [Vlkommen till AmuHadar](http://www.hadar.ideon.se/)
+- [Vocational Evaluation and Work Adjustment Association](http://www.vewaa.org/)
+- [VSA arts Home](http://www.vsarts.org/)
+- [Vulpine Outerwear](http://www.vulpineadaptive.com/)- Adaptive Apparel and Equipment
+- [W3-Access for Blind and Visually Impaired Computer Users](http://www.inf.ethz.ch/department/IS/ea/blinds/) from CERN
+- [W3C Accessibility Developments](http://www.w3.org/WAI/References/)
+- [Waist-High in the World : A Life Among the Nondisabled](http://www.amazon.com/exec/obidos/ASIN/0807070874/makoa)
+- [Walk Easy](http://www.netwiz.net/~walkeasy/products.html) - Crutches, Forearm Crutches
+- [Walk This Way](http://www.youknow.com/walk/index.html) - a film by Chris Sheridan
+- [Walks in Welcoming Places](http://www.amazon.com/exec/obidos/ASIN/0935576495/makoa) - Walks in the Northeast for the Not So Young and the Disabled
+- [Wardrobe Wagon](http://www.wardrobewagon.com/) - Special Needs Clothing Store
+- [Washington Accessible Outdoor Recreation Guide - Home Page](http://ada-rec.wa.gov/)
+- [Washington Assistive Technology Alliance (WATA)](http://wata.org/)
+- [Washington Assistive Technology Alliance Home Page](http://wata.org/)
+- [Washington Coalition of Citizens with disAbilities](http://www.wccd.org/)
+- [Washington Telephone Assistance Program](http://www.wa.gov/dshs/esarules/wtap.htm)
+- [Water Waddle - a flotation device to allow effortless sitting and floating in water. pool and boat accessories](http://www.waterwaddle.com/default.htm)
+- [WE Magzine](http://www.wemagazine.com/) - A lifestyle magzine for people with disabilities
+- [WeAreHere.com](http://www.wearehere.com/disabled.html) - Emergency Notification Network (ENN)
+- [Web Accessibility Initiative \[WAI\]](http://www.w3.org/WAI/)
+- [Web Accessibility Tutorial Index](http://www.webaim.org/tutorials/)
+- [Web Page Backward Compatibility Viewer](http://www.delorie.com/web/wpbcv.html)
+- [Web Page Repair - Widen You Web Site's Audience](http://www1.shore.net/~straub/wprwiden.htm)
+- [WebAIM](http://webaim.org/) - Web Accessibility in Mind
+- [WebTV -- Is it for You?](http://wata.org/pubs/articles/webtv.htm)
+- [WeCareTours & Travel](http://nav.to/wecaretours/)
+- [Welcome to Easter Seals](http://www.easter-seals.org/)
+- [Welcome to NeurologyChannel.com - Your Neurology Community](http://www.neurologychannel.com/index.shtml)
+- [Welcome to Special Needs Project](http://www.specialneeds.com/store/)
+- [Welcome to the Web Site of Vivax Medical Corp.](http://www.vivaxmedicalcorp.com/)
+- [Well Spouse Foundation](http://www.wellspouse.org/)
+- [WEmedia](http://www.wemedia.com/)
+- [West Virginia Univ](http://www.icdi.wvu.edu/) Rehabilitation Research and Training Center (WVRTC)
+- [Western Disabilities Network, LLC](http://www.disabilities.com)
+- [What does your HTML look like in Lynx?](http://www.delorie.com/web/lynxview.html)
+- [What is IL](http://www.wa-ilsc.org/whatisIL.html)
+- [What You Need to Know When You Get Disability Benefits](http://www.ssa.gov/pubs/10153.html)
+- [What You Need To Know When You Get Survivors Benefits](http://www.ssa.gov/pubs/10077.html)
+- [What You See Is Not What Others Get on the Web](http://www1.shore.net/~straub/wysinwog.htm)
+- [Wheel Chair Tours Australia](http://www.wheeltours.com.au/)
+- [Wheelabout Van Rentals](http://www.wheelabout.com/) (Australia) - Wheelchair Accessible Van Rentals
+- [Wheelbase Home Page](http://info.lut.ac.uk/research/paad/Wheelpower/home.html) - sports
+- [Wheelcare Online](http://www.wheelcare-inc.com/) - power wheelchairs, scooters
+- [Wheelchair Accessible Homes](http://www.waccess.org/)
+- [Wheelchair Accessible Small Ship Cruise travel information](http://www.smallshipcruises.com/allwheelboats.html)
+- [Wheelchair Around the World](http://www.amazon.com/exec/obidos/ASIN/1571970541/makoa)
+- [Wheelchair Getaways](http://www.blvd.com/wg.htm) - wheelchair accessible van rentals
+- [Wheelchair Hockey League Homepage](http://www.scorezone.com/wchl/)
+- [Wheelchair Racing Resource Page](http://www.execpc.com/~birzer/)
+- [Wheelchair Selection and Configuration](http://www.amazon.com/exec/obidos/ASIN/1888799188/makoa)
+- [Wheelchair Travel For The Disabled Visitor Minibus Hire Car Rentals](http://www.wheelchair-travel.co.uk/) (UK)
+- [Wheelchair/Mobility Products](http://www.makoa.org/mobility.htm)
+- [Wheelchairs and Scooters](http://www.seflin.org/wheels/)
+- [Wheelchairs eGroup](http://www.egroups.com/list/wheelchairs/)
+- [Wheelovator](http://www.wheelovator.com/) - elevator vertical platform lift stairway chairlift
+- [Wheels and Waves](http://www.amazon.com/exec/obidos/ISBN=0963569805/makoa) - A Cruise-Ferry Guide for the Physically Handicapped
+- [Wheels Up!](http://www.wheelsup.com/) Wheelchair Travel Specialists
+- [Wheelweb](http://www.wheelweb.com/) - Spinal Cord Injury Resource
+- [When Your Parents Need You : A Caregiver's Guide](http://www.amazon.com/exec/obidos/ASIN/1877880019/makoa)
+- [White House](http://www.whitehouse.gov/)
+- [WHYP Inc.](http://www.whyp.com) - Medical Supplies for Persons With Disabilities
+- [Wilderness Inquiry](http://www.wildernessinquiry.org/)
+- [Will the Real John Callahan Please Stand Up? : A Quasi Memoir](http://www.amazon.com/exec/obidos/ASIN/0688133398/makoa)
+- [Willkommen bei der Lebenshilfe](http://www.lebenshilfe.de/)
+- [Wingits grab bar fastening system!](http://www.wingits.com/)
+- [Winners On Wheels (WOW)](http://www.wowusa.com/)
+- [Winsford Model 5 Feeder](http://www.cooper.edu/engineering/projects/gateway/me/concurrent/feeders/winsford5.html)
+- [WisdomKing.com - Health Care Products Online Store](http://www.wisdomking.com/)
+- [WisEnt](http://www.wisent.com/) - Products for Personal independence
+- [WOLF PACKS - List of Service Dog Schools and Information](http://www.wolfpacks.com/catalog/serviced.htm)
+- [woningaanpassingen voor gehandicapten](http://home.wxs.nl/~jogro/jogro1.htm#eng) (Dutch) -advice about home adaptations
+- [Words+, Inc.](http://www.words-plus.com/) - WSKE II, the E Z Keys (morse code input)
+- [Work Return Inc](http://www.workreturn.com)
+- [Working While Disabled-How We Can Help](http://www.ssa.gov/pubs/10095.html)
+- [Working While Disabled-How We Can Help](http://www.ssa.gov/pubs/10095.pdf) (pdf file)
+- [Working With Scouts With disABILITIES](http://www.boyscouts-marin.org/wwswd/wwswd.htm)
+- [WorkLink ADA Solutions](http://www.worklink.net/) - DragonDictate
+- [World Association Of Person\`S With Disabilities](http://www.wapd.org/)
+- [World Association Of Person\`S With Disabilities](http://www.wapd.org/)
+- [World Congress and Exposition On Disabilities](http://www.wcdexpo.com/index.htm)
+- [World Drug Store](http://www.worlddrug.com/)
+- [World of Multiple Sclerosis](http://www.ifmss.org.uk/)
+- [World T.E.A.M.](http://www.worldteamsports.org/)
+- [World Wide Wheelchairs.](http://www.usedwheelchairs.com/)
+- [Wound, Ostomy and Continence Nurses Society (WOCN)](http://www.wocn.org/)
+- [Wright State University](http://www.cs.wright.edu/bhe/rehabengr/rehabeng.html) Rehabilitation Engineering Info & Training
+- [WYoming New Options in Technology (WYNOT)](http://wind.uwyo.edu/wynot/wynot.htm)
+- [X-10 Pro](http://www.x10pro.com/) - home automation products
+- [X-10 USA](http://www.x10.com) - home automation products
+- [Yahoo! Clubs thedisabledtraveler](http://clubs.yahoo.com/clubs/thedisabledtraveler) - A forum to discuss travel for disabled, and to exchange special-needs travel resources to help those travelers with a physical or developmental handicap to get out and see the world.
+- [Yahoo! Emergency Services:Ambulance Service:Airlift](http://dir.yahoo.com/Business_and_Economy/Business_to_Business/Transportation/Aviation/Organizations/Medical/)
+- [Yahoo! News Full Coverage-Disabilities and the Disabled](http://dailynews.yahoo.com/fc/World/Disabilities_and_the_Disabled/)
+- [Your Employment Rights as an Individual With a Disability](http://www.eeoc.gov/facts/ada18.html)
+- [Your Responsibilities as an Employer](http://www.eeoc.gov/facts/ada17.html)
+- [Zygo Flexiboard](http://www.zygo-usa.com/flexi.html) - alternative keyboard
+- [Zygo HandsOFF!](http://www.zygo-usa.com/handsoff.html) - On-Screen Keyboard Emulator for Microsoft Windows
+- [ZYGO Industries](http://www.zygo-usa.com/) - Augmentative communication systems
+- [ZYGO Industries](http://www.zygo-usa.com/envctrl.htm) - Environmental Control Systems
+- [Zygo Optimist](http://www.zygo-usa.com/optimist.html) - personal pen computer
+
+------------------------------------------------------------------------
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="http://www.eskimo.com/~jlubin/disabled/" title="Link to main disAbility Resources Page"><img src="images/jldr.jpg" data-border="0" data-align="center" width="88" height="31" alt="Jim Lubin&#39;s disAbility Resources" /></a><br />
+</td>
+<td style="text-align: center;"><a href="http://www.eskimo.com/~jlubin/disabled/psa/keyhole.html" title="Information page about keyhole web access symbol"><img src="images/accesskeyhole.gif" data-border="0" data-align="center" width="43" height="40" alt="Web Access Symbol (for people with disabilities)" /></a><br />
+</td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="images/lk_mouse2.gif" data-align="center" data-border="0" width="120" height="60" alt="Link to iGive.com - donate money to your favorite not-for-profit organization" /></td>
+<td style="text-align: center;"><img src="images/viralb_120x60.gif" data-align="center" data-border="0" width="120" height="60" alt="The Hunger Site - donate free food to hungry people around the world" /></td>
+</tr>
+</tbody>
+</table>
+
+\
+\[[disAbility Resources Main Page](http://www.eskimo.com/~jlubin/disabled/)\]\
+\[[Search disAblility Resources](http://www.eskimo.com/cgi-bin/ablesearch.cgi) - Search all links!\]\
+
+------------------------------------------------------------------------
+
+Send [comments, corrections](http://www.eskimo.com/~jlubin/feedback.html) to: [jlubin@eskimo.com](http://www.eskimo.com/~jlubin/feedback.html)
+
+\[[Disclaimer, Copyright and Donation Information](http://www.eskimo.com/~jlubin/copyright.htm)\]\
+<a href="#top" target="_top">[Return to Top]</a>\
+*Document: /~jlubin/disabled/all.htm*\
+*Last Modified: Monday, 27-Aug-2001 11:42:54 PDT*

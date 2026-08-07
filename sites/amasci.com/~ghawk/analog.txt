@@ -1,0 +1,302 @@
+Web Server Statistics for Horizon Technology 
+
+ Web Server Statistics for Horizon Technology 
+
+Program started at Sun-29-Jan-2006 03:05 local time.
+ Analysed requests from Fri-20-Jan-2006 00:07 to Fri-27-Jan-2006 23:54
+ (8.0 days).
+
+ Total completed requests: 8,198 (6,077)
+ Average completed requests per day: 1,026 (868)
+ Total failed requests: 113 (63)
+ Total redirected requests: 147 (112)
+ Number of distinct files requested: 407 (395)
+ Number of distinct hosts served: 2,008 (1,598)
+ Number of new hosts served in last 7 days: 1,399
+ Unwanted logfile entries: 4,840
+ Total data transferred: 144,851 kbytes (106,559 kbytes)
+ Average data transferred per day: 18,125 kbytes (15,223 kbytes)
+ (Figures in parentheses refer to the last 7 days).
+
+ ( Go To : Domain report : Request report : Directory report : Monthly report : Weekly report : Daily summary : Daily report : Hourly summary : Status code report )
+
+ Domain Report 
+
+ ( Go To : Top : Request report : Directory report : Monthly report : Weekly report : Daily summary : Daily report : Hourly summary : Status code report )
+ Printing all domains with at least 1 request,
+ sorted by number of requests.
+ #reqs: %bytes: domain
+----- ------ ------
+ 2348: 28.81%: .com (Commercial, mainly USA)
+ 2332: 30.20%: .net (Network)
+ 1329: 18.07%: [unresolved numerical addresses]
+ 229: 1.41%: .fr (France)
+ 173: 1.00%: .au (Australia)
+ 166: 1.72%: .uk (United Kingdom)
+ 161: 2.32%: .nl (Netherlands)
+ 136: 0.76%: .ca (Canada)
+ 94: 1.59%: .edu (USA Educational)
+ 85: 0.62%: .be (Belgium)
+ 79: 1.31%: .gov (USA Government)
+ 73: 0.83%: .de (Germany)
+ 64: 0.39%: .org (Non-Profit Making Organisations)
+ 57: 0.56%: .br (Brazil)
+ 56: 0.49%: .ch (Switzerland)
+ 55: 0.89%: .us (United States)
+ 53: 0.42%: .ru (Russian Federation)
+ 50: 0.42%: .pl (Poland)
+ 45: 1.13%: .cz (Czech Republic)
+ 44: 0.27%: .jp (Japan)
+ 41: 0.33%: .it (Italy)
+ 40: 0.22%: .hu (Hungary)
+ 39: 0.05%: .bg (Bulgaria)
+ 38: 0.20%: .pt (Portugal)
+ 36: 0.61%: .ro (Romania)
+ 34: 0.72%: .yu (Yugoslavia)
+ 32: 0.06%: .ar (Argentina)
+ 31: 0.46%: .nz (New Zealand)
+ 31: 0.42%: .sk (Slovak Republic)
+ 30: 0.25%: .ph (Philippines)
+ 29: 0.61%: .sg (Singapore)
+ 25: 0.48%: .dk (Denmark)
+ 20: 0.33%: .gr (Greece)
+ 19: 0.27%: .hk (Hong Kong)
+ 18: 0.09%: .mil (USA Military)
+ 14: 0.17%: .my (Malaysia)
+ 13: 0.15%: .mx (Mexico)
+ 13: 0.05%: .za (South Africa)
+ 10: 0.02%: .hr (Croatia)
+ 10: 0.04%: .ua (Ukraine)
+ 8: 0.39%: .in (India)
+ 5: 0.04%: .il (Israel)
+ 5: 0.02%: .tr (Turkey)
+ 4: 0.17%: .at (Austria)
+ 3: 0.08%: .ee (Estonia)
+ 3: 0.08%: .sa (Saudi Arabia)
+ 2: : .bm (Bermuda)
+ 2: 0.01%: .es (Spain)
+ 2: 0.02%: .fi (Finland)
+ 2: 0.18%: .no (Norway)
+ 2: 0.18%: .su (Former USSR)
+ 1: : .arpa (Old style Arpanet)
+ 1: 0.05%: .id (Indonesia)
+ 1: : .ie (Ireland)
+ 1: : .int (International)
+ 1: : .jo (Jordan)
+ 1: : .mt (Malta)
+ 1: 0.01%: .pk (Pakistan)
+ 1: 0.05%: .th (Thailand)
+
+ Request Report 
+
+ ( Go To : Top : Domain report : Directory report : Monthly report : Weekly report : Daily summary : Daily report : Hourly summary : Status code report )
+ Printing all pages with at least 1 request,
+ sorted by number of requests.
+ #reqs: %bytes: page
+----- ------ ----
+ 380: 0.75%: /~ghawk/rotary.html 
+ 367: 1.63%: /~ghawk/h-o/ 
+ 250: 0.96%: /~ghawk/ 
+ 231: 1.45%: /~ghawk/h-o/melt.htm 
+ 180: 1.10%: /~ghawk/h-o/boil.htm 
+ 170: 0.62%: /~ghawk/fogal_device/ 
+ 157: 7.26%: /~ghawk/h-o/elements/elemnt.htm 
+ 95: 5.77%: /~ghawk/fogal_device/notes.htm 
+ 84: 0.27%: /~ghawk/gravity.htm 
+ 78: 0.04%: /~ghawk/USB_Mass_Storage_Device_Solution.htm 
+ 76: 12.87%: /~ghawk/h-o/elements/elemnt.html 
+ 71: 10.28%: /~ghawk/fogal_device/glossary.htm 
+ 66: 0.09%: /~ghawk/h-o/books.htm 
+ 63: 0.07%: /~ghawk/magbrake.html 
+ 60: 1.61%: /~ghawk/fogal_device/fogal.htm 
+ 58: 0.36%: /~ghawk/h-o/alpha.htm 
+ 55: 0.17%: /~ghawk/h-o/chemchrt.htm 
+ 53: 0.06%: /~ghawk/h-o/morepics.htm 
+ 51: 0.02%: /~ghawk/h-o/drawing.htm 
+ 44: 0.04%: /~ghawk/minihelicopter.htm 
+ 40: 0.18%: /~ghawk/antispam/ 
+ 39: 0.02%: /~ghawk/billb.htm 
+ 38: 0.09%: /~ghawk/h-o/res1.htm 
+ 34: 0.02%: /~ghawk/rife/ 
+ 33: 0.07%: /~ghawk/h-o/temps.htm 
+ 31: 0.63%: /~ghawk/response.html 
+ 31: 0.01%: /~ghawk/h-o/elements/elements.htm 
+ 29: 0.09%: /~ghawk/navy.htm 
+ 27: 0.02%: /~ghawk/ghost.html 
+ 25: 0.04%: /~ghawk/fogal_device/help.htm 
+ 23: : /~ghawk/fogal-device/ 
+ 22: 1.90%: /~ghawk/eskimo/ 
+ 20: 0.09%: /~ghawk/fogal_device/reference.htm 
+ 18: 0.38%: /~ghawk/hudson.htm 
+ 18: 0.01%: /~ghawk/h-o.html 
+ 15: 0.02%: /~ghawk/email.html 
+ 14: 0.02%: /~ghawk/email_h-o.htm 
+ 14: 0.02%: /~ghawk/world.htm 
+ 13: 0.01%: /~ghawk/fogal_device/email.htm 
+ 12: 0.02%: /~ghawk/nipd/nipd2.html 
+ 12: 0.02%: /~ghawk/h-o/res2.htm 
+ 10: 0.10%: /~ghawk/analog.html 
+ 8: 0.01%: /~ghawk/pics/ 
+ 8: : /~ghawk/cbuster.html 
+ 8: : /~ghawk/email_dl.htm 
+ 7: : /~ghawk/liveaboards/articles.htm 
+ 7: : /~ghawk/perlsites2.htm 
+ 7: 0.01%: /~ghawk/chairs/ 
+ 6: 0.01%: /~ghawk/email_mag.htm 
+ 6: : /~ghawk/email_rife.htm 
+ 6: 0.01%: /~ghawk/liveaboards/other/ 
+ 5: : /~ghawk/env2.htm 
+ 5: : /~ghawk/bin/ 
+ 5: : /~ghawk/dl.htm 
+ 5: : /~ghawk/h-o/elements/ 
+ 5: 0.47%: /~ghawk/tgr_lists.htm 
+ 4: : /~ghawk/coins/ 
+ 3: : /~ghawk/rife/search.htm 
+ 3: : /~ghawk/liveaboards/ 
+ 2: : /~ghawk/fogal_device/pictures.htm 
+ 2: : /~ghawk/nipd/ 
+ 2: : /~ghawk/env.htm 
+ 2: : /~ghawk/links.htm 
+ 2: : /~ghawk/index.htm 
+ 2: : /~ghawk/liveaboards/laws.htm 
+ 2: : /~ghawk/fogal.htm 
+ 2: : /~ghawk/perl.htm 
+ 1: : /~ghawk/temp.htm 
+ 1: : /~ghawk/wsearch.htm 
+ 1: : /~ghawk/test.htm 
+ 1: : /~ghawk/books.htm 
+
+ Directory Report 
+
+ ( Go To : Top : Domain report : Request report : Monthly report : Weekly report : Daily summary : Daily report : Hourly summary : Status code report )
+ Printing all directories with at least 1 request,
+ sorted by number of requests.
+ Printing directories to depth 3.
+ #reqs: %bytes: directory
+----- ------ ---------
+ 3710: 17.54%: /~ghawk/h-o/
+ 1928: 37.90%: /~ghawk/fogal_device/
+ 1178: 3.93%: /~ghawk/
+ 649: 1.89%: /~ghawk/liveaboards/news/
+ 357: 24.48%: /~ghawk/h-o/elements/
+ 73: 3.00%: /~ghawk/cgi-bin/liveaboards/
+ 72: 0.27%: /~ghawk/antispam/
+ 37: 2.22%: /~ghawk/liveaboards/other/
+ 37: : /~ghawk/eskimo/images/
+ 37: 0.02%: /~ghawk/rife/
+ 23: 0.85%: /~ghawk/nipd/
+ 23: : /~ghawk/fogal-device/
+ 22: 1.90%: /~ghawk/eskimo/
+ 15: 5.25%: /~ghawk/chairs/
+ 13: 0.26%: /~ghawk/pics/
+ 12: 0.01%: /~ghawk/liveaboards/
+ 7: 0.47%: /~ghawk/coins/
+ 5: : /~ghawk/bin/
+
+ Monthly Report 
+
+ ( Go To : Top : Domain report : Request report : Directory report : Weekly report : Daily summary : Daily report : Hourly summary : Status code report )
+
+ Each unit ( ) represents 200 requests, or part thereof.
+
+ month: #reqs: 
+-------- ----- 
+Jan 2006: 8198: 
+
+ Weekly Report 
+
+ ( Go To : Top : Domain report : Request report : Directory report : Monthly report : Daily summary : Daily report : Hourly summary : Status code report )
+
+ Each unit ( ) represents 150 requests, or part thereof.
+
+week beg.: #reqs: 
+--------- ----- 
+16/Jan/06: 2879: 
+23/Jan/06: 5319: 
+
+ Daily Summary 
+
+ ( Go To : Top : Domain report : Request report : Directory report : Monthly report : Weekly report : Daily report : Hourly summary : Status code report )
+
+ Each unit ( ) represents 50 requests, or part thereof.
+
+day: #reqs: 
+--- ----- 
+Mon: 1044: 
+Tue: 925: 
+Wed: 1096: 
+Thu: 1181: 
+Fri: 2181: 
+Sat: 930: 
+Sun: 841: 
+
+ Daily Report 
+
+ ( Go To : Top : Domain report : Request report : Directory report : Monthly report : Weekly report : Daily summary : Hourly summary : Status code report )
+
+ Each unit ( ) represents 30 requests, or part thereof.
+
+ date: #reqs: 
+--------- ----- 
+20/Jan/06: 1108: 
+21/Jan/06: 930: 
+22/Jan/06: 841: 
+
+23/Jan/06: 1044: 
+24/Jan/06: 925: 
+25/Jan/06: 1096: 
+26/Jan/06: 1181: 
+27/Jan/06: 1073: 
+
+ Hourly Summary 
+
+ ( Go To : Top : Domain report : Request report : Directory report : Monthly report : Weekly report : Daily summary : Daily report : Status code report )
+
+ Each unit ( ) represents 10 requests, or part thereof.
+
+hr: #reqs: 
+-- ----- 
+ 0: 339: 
+ 1: 251: 
+ 2: 333: 
+ 3: 287: 
+ 4: 298: 
+ 5: 425: 
+ 6: 387: 
+ 7: 420: 
+ 8: 402: 
+ 9: 383: 
+10: 374: 
+11: 493: 
+12: 469: 
+13: 413: 
+14: 284: 
+15: 404: 
+16: 392: 
+17: 407: 
+18: 274: 
+19: 258: 
+20: 282: 
+21: 289: 
+22: 175: 
+23: 159: 
+
+ Status Code Report 
+
+ ( Go To : Top : Domain report : Request report : Directory report : Monthly report : Weekly report : Daily summary : Daily report : Hourly summary )
+ #occs: no. description
+----- ---------------
+ 7478: 200 OK
+ 41: 299 [Miscellaneous successes]
+ 147: 301 Document moved
+ 679: 304 Not modified since last retrieval
+ 50: 403 Forbidden
+ 57: 404 Document not found
+ 6: 499 [Miscellaneous client/user errors]
+
+ This analysis was produced by analog1.9beta6 .
+ Running time: 3 seconds. 
+
+ ( Go To : Top : Domain report : Request report : Directory report : Monthly report : Weekly report : Daily summary : Daily report : Hourly summary : Status code report )
+
+ Stats setup by: Gary Hawkins of Horizon Technology

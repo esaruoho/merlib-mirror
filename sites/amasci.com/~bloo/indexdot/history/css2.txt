@@ -1,0 +1,52 @@
+Cascading Style Sheets, Level 2 
+
+ Cascading Style Sheets, Level 2 
+ = Index DOT Html/Css by Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index |
+ Element Tree |
+ Element Index |
+ HTML Support History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Statistics 
+
+ Authors: Bert Bos, Ian Jacobs, H&aring;kon Lie, Chris Lilley
+ Specifications 
+ Documentation - http://www.w3.org/TR/REC-CSS2/ 
+ Timeline: 
+ - First public working draft of CSS2 released - November 1997
+ - CSS2 becomes W3C proposed recommendation - March 1998
+ - CSS2 becomes W3C recommendation - May 1998
+
+ What CSS2 covers 
+
+CSS2 builds on CSS1, integrating several intermediate CSS syntax proposals
+(Aural CSS, printing and positioning extensions) aiming for full backward
+compatibility, which it comes close to achieving. CSS2 still somehow
+manages to introduce radical new rendering capabilities as well. As use of
+web documents becomes ubiquitous, alternate rendering paradigms
+have proliferated (and are expected to increase in usage.) CSS2 allows the
+author to tailor their pages to these different rendering modes (such as
+Braille, handheld devices, printers, and aural devices.)
+
+ Other changes from CSS1: 
+
+ Did we mention the new media capabilities? They are really cool.
+ A complex visual rendering mechanism, including the concept of
+ Absolute and Relative positioning of elements.
+ Powerful mechanisms for specifying font characteristics for improved
+ matching.
+ A vastly improved Selector specification system now exists, allowing
+ a finer granularity of document specificity while also generalizing
+ the syntax for non-HTML languages.
+ Properties and rules controlling International features.
+ New properties allowing control over cursors, outlines, and table
+ display.
+ Automatically generated content capabilities.
+
+ Boring Copyright Stuff....

@@ -1,0 +1,19 @@
+Hypertext 
+
+ Hypertext 
+
+ Hypertext is a large net of cross-referenced text which allows reading in many sequences. At its
+lowest level, hypertext can be regarded as a database management system that allows the
+connection of chunks of information (nodes) in an intuitive way without the traditional database
+record and file structure. Information is collected in nodes. The nodes are connected with
+associative links that reference related information in other nodes. Nodes and links are the key
+concepts in hypertext. 
+
+Hypertext started as early as 1945 when Vannevar Bush , the science advisor of President
+Roosevelt envisioned a mechanism for on-line text retrieval that would mimic the brain's way of
+processing information. This machine was called Memex. It was never created, but the dream of
+associative information retrieval was not forgotten. It became hypertext. 
+
+ [ Home ] [ Case Study ] [ Decision Tree ] [ Deep Knowledge ] 
+
+ http://www.eskimo.com/~mighetto/lshyper.htm last update October 18, 1996.

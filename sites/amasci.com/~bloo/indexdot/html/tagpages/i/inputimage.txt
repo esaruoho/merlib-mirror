@@ -1,0 +1,434 @@
+Input Type=Image 
+
+ Input Type=Image 
+ &#160; 
+ Support Key: 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M2B1 | N1 | O2.1 ] 
+ What is it? 
+ Attributes 
+ Tag Example 
+
+ Parent/Content Model 
+ Tips & Tricks 
+ Browser Peculiarities 
+
+ = Index DOT Html by Brian Wilson = 
+
+ Main Index |
+ Element Tree |
+ Element Index |
+ HTML Support History 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ End Tag: 
+ Omitted 
+ Standards Details: 
+ In all HTML 4.x/XHTML DTDs 
+ XHTML Modules: 
+ Forms 
+ CSS 'display' Type: 
+ " inline " (Replaced element) 
+ CSS Mapping: 
+ NA 
+ Default Rendering: 
+ An activate-able image of specified dimensions which initiates submission of
+ the current form to its specified destination. 
+
+ What is it? 
+ IMAGE is a TYPE attribute value to the INPUT element for FORMs. It
+ specifies an image that can be clicked upon to pass information to the
+ processing script. In implementation, this form TYPE acts much like the
+ INPUT TYPE=SUBMIT field, but unlike the SUBMIT field, the coordinates of
+ the image that were activated are sent back to the server in addition
+ to the rest of the form data.
+
+ Common Attributes 
+ % Core % 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B1 | M | N6B1 | O4 ]
+
+ % Accessibility % 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE4B1 | M | N6 | O5 ]
+
+ % Events % 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE4B1 | M | N6B1 | O4 ]
+
+ % Language % 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE4 | M | N | O ]
+
+ % Data % 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE4 | M | N | O ]
+
+ % Editing % 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE5.5 | M | N | O ]
+
+ Specific Attributes 
+ Accesskey 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE4B1 | M | N6B2 | O7 ]
+ Standards
+ Details: In all HTML 4.x DTDs
+ Required? No
+ Description: 
+ This is a method of giving access/focus to an active HTML element using
+ a keyboard character. This is a common GUI paradigm also known
+ as a "keyboard shortcut" or "keyboard accelerator"
+ A single character is used as the value of this attribute. In addition,
+ a platform-dependent key is usually used in combination with the
+ ACCESSKEY character to access the functionality of the active field.
+ Values: 
+ A single, case-insensitive alphanumeric character from a browser's
+ character set.
+
+ Align 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M2B1 | N1 | O4 ]
+ Standards Details: 
+ Deprecated in HTML 4.x/XHTML 1.0. Dropped in XHTML 1.1 in favor of CSS.
+ Required? No
+ Description: 
+ This attribute specifies the alignment of text following the IMG
+ reference relative to the graphic on screen. 'Left' and 'Right'
+ specify floating horizontal alignment of the image in the browser
+ window, and subsequent text will wrap around the image. The other
+ options specify vertical alignment of text relative to the image
+ on the same line.
+ Values: &#160;&#160;&#160;
+ Left | Right |
+ Top [ DEFAULT ] |
+ Texttop |
+ Middle | Absmiddle |
+ Baseline | Bottom |
+ Absbottom 
+
+ Alt 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N7 | O4 ]
+ Standards Details: 
+ In all HTML 4.x/XHTML DTDs
+ Required? No
+ Description: 
+ This is text to be displayed in place of an image for browsers that can 
+ not handle this ability or for browsers that have disabled this ability.
+ Values: Alphanumeric characters
+
+ Border 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE | M2B1 | N1 | O ]
+ Standards Details: NA
+ Required? No
+ Description: 
+ This controls the pixel thickness of the border around the image.
+ Values: 
+ 0 , for no border, or a positive integer pixel value.
+
+ Disabled 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O7 ]
+ Standards Details: 
+ In all HTML 4.x/XHTML DTDs
+ Required? No
+ Description: 
+ This is a stand-alone attribute which indicates the element is initially non-functional. 
+ Disabled form elements should not be submitted to the form processing script.
+ Values: NA
+
+ DynSrc 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE2 | M | N | O ]
+ Standards Details: NA
+ Required? No
+ Description: 
+ This attribute specifies the URL of an in-line video.
+ Values: 
+ Either an absolute or relative URL. All URLs should be URL encoded where required.
+
+ Height 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE4B1 | M | N1.1 | O4-4.x ]
+ Standards Details: NA
+ Required? No
+ Description: 
+ This attribute explicitly specifies the height of the graphic in pixels.
+ It is mainly used to create custom image dimensions without physically
+ changing the image itself. It can also be used to speed up display of the
+ document being downloaded so it can pre-render the document with image
+ placeholders while the images download.
+ Values: Positive integer pixel values.
+
+ HSpace 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE5 | M | N4 | O4 ]
+ Standards Details: NA
+ Required? No
+ Description: 
+ This attribute specifies the horizontal spacing around the INPUT image
+ in pixels (left and right side padding.)
+ Values: Positive integer pixel values
+
+ ISMap 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE | M | N6B1 | O ]
+ Standards Details: 
+ Introduced in HTML 4.01. Now in all HTML 4.01/XHTML DTDs
+ Required? No
+ Description: 
+ This is a stand-alone attribute which is used during form submittal to
+ identify the image as a region-sensitive map. When ISMAP is used in an IMG
+ element, it is used in combination with a hyperlink to give the location
+ of a server-side area definition file. In the context of forms, it is
+ unknown how the browser sends the coordinates - possibly also by embedding
+ the INPUT element in a hyperlink.
+
+ The server-side map file is a series of shape names with associated
+ coordinate values that list corresponding URLs to jump to when the
+ coordinates are activated.
+ Values: NA
+
+ Loop 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE2 | M | N | O ]
+ Standards Details: NA
+ Required? No
+ Description: 
+ This attribute specifies the number of times the video will play and
+ is used in conjunction with the DYNSRC attribute.
+ Values: 
+ Specified as a positive integer, or Infinite
+ (or -1) which will play the video indefinitely.
+
+ LowSrc 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE4 | M | N4-4.x | O ]
+ Standards Details: NA
+ Required? No
+ Description: 
+ This attribute specifies the URL of a low-resolution image to be
+ downloaded before a higher resolution image specified in the SRC
+ attribute. The reasoning is that a low-resolution image is smaller
+ in size than a higher resolution image and is thus faster to download.
+ After the lowres image has been downloaded, it is displayed until the
+ high resolution image is downloaded.
+ Values: 
+ Either an absolute or relative URL. All URLs should be URL encoded where required.
+
+ Name 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M2B1 | N1 | O2.1 ]
+ Standards Details: 
+ In all HTML 4.x/XHTML DTDs
+ Required? Yes
+ Description: 
+ This is a required attribute that associates a symbolic name to the
+ field for submittal to the form processing script.
+ Values: Alphanumeric characters.
+
+ SDAPref 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE | M | N | O ]
+ Standards Details: NA
+ Required? No
+ Description: 
+ This is an SGML Document Access
+ (SDA) attribute. SDA attributes are designed to transform HTML (and
+ other SGML-based documents) to the ICADD 
+ DTD - which is used in creating accessible documents for users with
+ visual disabilities (rendering in Braille, large print, speech
+ synthesis, etc.) The attribute value specifies content to be added
+ BEFORE the original element content (in this case the string
+ "Input: ") when the SDA document is rendered.
+ Value: " Input: "
+
+ Src 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M2B1 | N1 | O2.1 ]
+ Standards Details: 
+ In all HTML 4.x/XHTML DTDs
+ Required? No
+ Description: 
+ Indicates the URL to reference the graphic.
+ Values: 
+ Either an absolute or relative URL. All URLs should be URL encoded where required.
+
+ Tabindex 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE4B1 | M | N6B3 | O7 ]
+ Standards Details: 
+ In all HTML 4.x/XHTML DTDs
+ Required? No
+ Description: 
+ "Tabbing" is a method of giving access/focus to an active HTML
+ element using a standard keyboard sequence. All the active elements in a
+ document can be cycled through using this sequence (ex: Windows TAB key.)
+ The order of the active elements in this cycle is usually the order they
+ occur in the document, but the TABINDEX attribute allows a different order
+ to be established. The use of this attribute should create the following
+ tabbing order cycle if the browser supports the attribute:
+
+ Active elements using the TABINDEX attribute with positive integers are
+ navigated first. Low values are navigated first.
+ Active elements not specifying any TABINDEX attribute
+
+ Those elements carrying a DISABLED attribute or using negative TABINDEX
+ values do not participate in the tabbing cycle.
+ Values: Positive or negative integers.
+
+ Type 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M2B1 | N1 | O2.1 ]
+ Standards Details: 
+ In all HTML 4.x/XHTML DTDs
+ Required? Yes * 
+ Description: 
+ * This is the required TYPE attribute for this 
+ INPUT mechanism. From the strict view, the TYPE attribute is not required.
+ Values: IMAGE 
+
+ Usemap 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE | M | N2 | O6 ]
+ Standards Details: 
+ In all HTML 4.x/XHTML DTDs 
+ Required? No
+ Description: 
+ This attribute specifies the URL (usually internal to the document) of
+ the client-side image map specification to be used if the browser has
+ that capability. If the argument to USEMAP begins with a "#"
+ it is assumed to be in the same document as the INPUT TYPE=IMAGE element.
+ Values: Either an absolute URL, a relative URL
+ or an internal anchor name. All URLs should be URL encoded where required.
+
+ Value 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE | M | N | O ]
+ Standards Details: 
+ In all HTML 4.x/XHTML DTDs
+ Required? No
+ Description: 
+ This represents the symbolic result of the field when activated
+ that is passed to the form processing script (browsers do not do anything
+ with this.)
+ Values: Alphanumeric characters.
+
+ VSpace 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE5 | M | N4 | O4 ]
+ Standards Details: NA
+ Required? No
+ Description: 
+ This attribute specifies the vertical spacing around the INPUT image
+ in pixels (top and bottom side padding.)
+ Values: Positive integer pixel values
+
+ Width 
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE4B1 | M | N1.1 | O4-4.x ]
+ Standards Details: NA
+ Required? No
+ Description: 
+ This attribute explicitly specifies the width of the graphic in pixels.
+ It is mainly used to create custom image dimensions without having to
+ physically change the image itself. It can also be used to speed up
+ display of the document being downloaded so it can pre-render the
+ document with image placeholders while the images download.
+ Values: Positive integer pixel values.
+
+ Example 
+ < form > 
+ &#160;&#160;&#160;< input 
+ TYPE ="image"
+ SRC ="http://www.foo.com/submitimage.gif" 
+ NAME ="imagesubmit1"
+ ALIGN ="top"
+ HEIGHT =50
+ WIDTH =50> 
+ </ form > 
+
+ Parent Model 
+ % In-line Parent % |
+ % Block Parent % 
+ Content Model 
+ This element does not accept any content. 
+
+ Tips & Tricks 
+
+ DTD Note: Support for the NAME attribute was added
+ to HTML 4.01 and did not exist in the original HTML 4.0 DTDs.
+
+ Browser Peculiarities 
+
+ All of the surveyed browsers ignore any VALUE attribute, if it is present.
+ When the image is activated, the form data is submitted along with
+ two extra name/value data items: the X- and Y-coordinates of the point
+ of activation on the image. Coordinates are sent in this format - 
+ Item 1 - 
+ Name: [ name ].x 
+ Value: [ x-position ] 
+ Item 2 - 
+ Name: [ name ].y 
+ Value: [ y-position ] 
+ Netscape uses a non-zero value for the BORDER attribute by default.
+ Setting the value to zero eliminates the border.
+ Mosaic honors the BORDER attribute, but treats it as a binary setting -
+ if present and set to a non-zero value, a thin, hyperlink color line is
+ drawn around the image.
+ Linefeed and Carriage Return handling (&#10; and &#13;
+ respectively) for the ALT attribute: 
+ - Internet Explorer: All literal/unencoded or
+ encoded CR/LFs are maintained and displayed as intended. 
+ - Netscape: All unencoded or encoded CR/LFs are
+ collapsed to nothing in ALT display (not the normal method for
+ spacing-character collapsing - usually it would collapse to a
+ single space.) 
+ Notes on the BORDER attribute in Netscape: This
+ attribute has been supported since version 1.0, but some changes have
+ happened. It looks like the attribute was NOT supported in version 2.0
+ at all, but support returned in 3.0. In version 6.0, the default border
+ color for borders is black, not the document hyperlink color as is the
+ case in other Netscape versions.
+ Opera 3.5-3.6x has a problem laying out form fields on the same
+ line as INPUT IMAGE fields... fields on the same line BEFORE the image
+ are top aligned with the top of the image, and fields on the same line
+ AFTER the image are bottom aligned with the bottom of the image. This
+ behavior is fixed in Opera 4. (If the fields are RADIO or IMAGE, they
+ seem to be immune to this effect.)
+ Opera 5/6: Using the DISABLED attribute still sends the name/value pair
+ for the element to the form processing script. It should not do this.
+ The ALT attribute is exposed in Netscape 7+ by invoking a context 
+ menu on the image (PC: right clicking) and choosing "properties."
+
+ Boring Copyright Stuff...

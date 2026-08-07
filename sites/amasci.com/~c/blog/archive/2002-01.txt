@@ -1,0 +1,344 @@
+C.M. Connelly: Blog: Archive for January, 2002 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ Blog: Archive for January, 2002 
+
+ January 15, 2002 (Tue) 
+
+ We're back! 
+
+ Actually, we've been back for about a week. We're still pretty out of
+the loop, timewise. We're waking up early, and falling asleep early.
+It's annoying, although probably better than getting up late and going
+to bed really late. 
+
+ M's class starts in a week, so we have lots to do. 
+
+ More later, with a redesign in the not-too-distant future, I hope,
+once I get M's site up and running, of course. 
+
+ January 18, 2002 (Fri) 
+
+ For those who're interested in such matters, the typeface used in the
+Harry Potter books (at least in the U.K. Bloomsbury 
+editions) is almost certainly Font Bureau's FB
+Californian . (For those of us without several hundred spare
+dollars waiting to be spent on some fonts, a less sophisticated and
+complete, but eminently more affordable option is ITC Berkeley
+Oldstyle , which would only cost you a couple hundred.) 
+
+ Tim Powers's Declare is set in the same typeface. 
+
+ I'm now using Mozilla as my main
+browser, and it's pretty nice. All it took was getting an 867 MHz G4
+machine with 1.5 GB of RAM to make it run fast enough to be usable! 
+
+ I now have IE 5, OmniWeb, Mozilla, Opera, Konqueror, and Netscape 4.73
+available to check my sites. I really like OmniWeb, but its standards
+support needs a lot of work before I could commit to using it full
+time again. Meanwhile, Mozilla is growing on me. 
+
+ January 21, 2002 (Mon) 
+
+ The new
+site for M's class is up, if you're interested in such things.
+It's full of shiny standards compliance, with an all-CSS design, which
+means that you really need to be using Mozilla, Konqueror, Netscape
+6.2, IE 5 (on the Mac), IE 6 (on Windows, but it's buggy), or Opera.
+Your old Netscape or IE won't cut it, but it's probably time you
+upgraded, anyway. 
+
+ January 24, 2002 (Thu) 
+
+ A stupid
+article in the NYT about Marmite . Apparently it's
+the foulest substance known on Earth, tastes terrible, smells worse,
+and makes anyone who smells it on another's breath vomit. And &#8220;no
+foreigner has ever been known to like it&#8221;. Um, yeah, right. D'ya
+think he's ever tasted it? 
+
+ Apparently the author is trying to be Bill Bryson, only mean. Where
+Bryson was perplexed or amused, this guy is apparently horrified and
+disgusted. Just what we need. Give me Bryson any day, and give me a
+break from ignorant Americans capitalizing on bogus myths about
+Britain. Yeesh. 
+
+ While looking to see if I could find out whether the U.S. editions of
+Philip Pullman's &#8220;His Dark Materials&#8221; books have been edited for
+American audiences, I came across HP Galleries , covering the
+&#8220;Harry Potter Phenomenon&#8221;. Among other interesting resources, they
+have a list
+of all the phrases changed in the U.S. editions . I am so 
+glad that I have the unaltered UK editions. 
+
+ I still can't understand why the US publishers feel that American kids
+must be protected from learning that not everyone in the world speaks
+American English. God forbid a kid starts calling people &#8220;barking&#8221;
+instead of &#8220;asshole&#8221;, or has to figure out from context that a car's
+&#8220;bonnet&#8221; is the same as its &#8220;hood&#8221;. 
+
+ [Also, some jokes were lost. For example, in Harry Potter and
+the Chamber of Secrets , Ron is forced to repair his wand with
+&#8220;Spellotape&#8221;. &#8220;Sellotape&#8221; is a brand of tape in the UK. (And, if
+they hadn't changed &#8220;Sellotape&#8221; to &#8220;Scotch tape&#8221; in Harry
+Potter and the Sorcerer's Stone (the US version of Harry
+Potter and the Philosopher's Stone ), people might have gotten
+the joke without having ever laid eyes on a genuine roll of
+Sellotape.)] 
+
+ And, while I'm talking about Harry Potter, we caught an episode of
+A&E's Biography on Joanne Rowling, which was
+fascinating. She's much younger than I had imagined, and I was also
+really impressed by the amount of work she's put into the Harry Potter
+books (she spent something like 10 years putting together background
+material before the first book was complete, and has the entire story
+plotted out to fit into seven books). Granted, by the time I'd
+finished reading the last of the four extant books, I was already
+pretty impressed by her writing (prior to actually reading the books,
+I was under the impression they were fairly derivative, an opinion
+that wasn't changed by seeing the film&#8212;I can now see where she's
+borrowed various things, but also put her own distinctive stamp on
+those things, twisting them to fit into Harry's world). Catch it if
+you have a chance. 
+
+ M can't talk! 
+
+ She's had a sore throat for a couple of days that has been getting a
+bit worse every day. Today, after teaching two classes, seeing
+innumerable students, and attending a department meeting, she was
+barely able to speak. 
+
+ I had what seems to be the same thing last week, but without the
+laryngitis, probably because I wasn't doing much talking. 
+
+ Meanwhile, M's acquired a couple more computers. One is a Micron
+ClientPro VXE that's slightly more modern than our DEC Celebris XL
+(among other things, it can use the discarded RAM from our new Macs).
+The other is more interesting: a SPARCserver 1000 with four
+processors. 
+
+ We spent several hours trying to reinstall Solaris on the SPARCserver.
+There's something up with the CD-ROM drive (apparently), and it's
+going to take a bit longer than we'd hoped. Still, it should be
+useful for M's research once we get the thing running again. 
+
+ January 25, 2002 (Fri) 
+
+ Kept M home today, in hopes that she'll be better by Monday (or
+Tuesday, at the latest, when she next has to teach). 
+
+ M installed Red Hat on the
+&#8220;new&#8221; PC. I may install Debian 
+on it at some point, as well. 
+
+ Ordered a slew of books (&#8220;His Dark Materials&#8221; HCs; The Phantom
+Tollbooth (all-time fave); England's Dreaming 
+(revised edition!)), DVDs ( Buckaroo Banzai (finally!);
+ Buffy , season 1), and CDs ( Come With Us , the
+new Chem. Bros.) from the evil Amazon. I admit to being lured by the
+free shipping on $99 or more of stuff, but between Buckaroo
+Banzai , Come With Us , and the three &#8220;His Dark
+Materials&#8221; books, we were practically there, anyway. 
+
+ January 26, 2002 (Sat) 
+
+ Wait,
+Wait... Don't Tell Me! continues to be my favorite NPR program since returning to the
+States. I used to love Fresh
+Air , but our local station cleverly puts it on at 10:30 PM
+(to make room for their awful local talk shows), so I never hear it.
+Without a (Mac OS X) native version of RealPlayer, I can't listen to
+it across the 'Net, either. 
+
+ In the meantime, Wait, Wait is great. It's the
+ only show that dared to suggest that Bush wasn't the best
+choice post-9/11, and was a welcome break from NPR's nauseating
+nonstop &#8220;rally 'round the flag&#8221; programming during the months after
+the attack. Happily, the Enron debacle seems to be starting to take
+the wind out of those particular sails, and, with the exception of the
+local talk shows, NPR is approaching listenability again. 
+
+ January 27, 2002 (Sun) 
+
+ I've just finished reading Anne Fadiman's collection of essays about
+books from Civilization magazine, Ex Libris:
+Confessions of a Common Reader . It was wonderful&#8212;funny,
+heartwarming, and insprirational. If you love books, I strongly
+suspect that you'd love this book. (Thanks, Jackie!) 
+
+ I'm now reading Henry Petroski's The Book on the
+Bookshelf , continuing the book theme. Petroski's book examines
+the history and development of the bookshelf&#8212;from pigeonholes for
+papyrus scrolls, through armaria and book presses, chained books,
+standard bookcases, and library shelving, including compact shelving.
+Bookshelves, of course, evolved alongside and in response to the
+changes in books, and Petroski covers those, as well. Good stuff. 
+
+ January 30, 2002 (Wed) 
+
+ We finally had to give in and turn the heat on, as it was down around
+65 degrees in the living room. That doesn't sound that cold, but it
+has a vaulted ceiling. And a sliding glass door, which, as far as I
+can tell, isn't actually insulated. (After all, it's southern
+California, how cold could it get?) 
+
+ Apparently Connectix finally
+fixed their VirtualPC product so that you can install (Red Hat) Linux
+again. M picked up the Mac OS X version today. It's kind of neat
+being able to run Windows or Linux or whatever PC OS you're interested
+in full-screen on a shiny new Mac. On the other hand, it's also
+pretty sick. 
+
+ Ha! I finally figured out how to make Mac OS X handle our printer
+correctly. By default, the printer would use 600 dpi, no duplex. To
+get it to print things at 1200 dpi and duplex, you had to go through
+the options and set them manually. You could set a &#8220;custom&#8221; setting
+(so long as you only wanted one, mind you&#8212;who could ever want more
+than one custom setting?), but that gets old fast. In any case, I
+don't want to have to switch to a custom setting everytime&#8212;I want
+the damn thing to do what I want it to do everytime, without having to
+jump through any hoops. 
+
+ After some poking around with fs_usage , in hopes of
+finding some nice file somewhere, I realized that the only way to do
+it was to copy the PPD file, modify that PPD file with my choices for
+default settings, and then recreate the printer using the new PPD. 
+
+ Some poking around revealed the PPD files living in
+ /Library/Printers/PPDs/Contents/Resources/en.lproj/ . I
+copied the HP LaserJet 4000 Series file to Sensible
+HP LaserJet 4000 Series , then edited it with Emacs. I used
+isearch to find all the occurences of the string Default ,
+and changed their values to what I wanted (the possible values appear
+below each setting, as the PPD file is really a PostScript program
+that gets run to set various parameters appropriately). Then I saved,
+zapped the old printer, created a new one, chose Sensible HP
+LaserJet 4000 Series as the type of printer, and
+ voila! , the defaults now reflect my choices. 
+
+ Too bad it wasn't easier. 
+
+ January 31, 2002 (Thu) 
+
+ Our furnace blew up this morning. 
+
+ Well, no, not really quite as spectacular as that. What really
+happened was that we got up, and while I was washing my hands at the
+bathroom sink, I heard this really loud crash that sounded like it was
+either very far away or just on the other side of the wall (I think
+that's because some of the sound was carried through the ducts). 
+
+ The only possible source for a noise like that was the furnace
+(especially given that it is on the other side of the
+aforementioned wall. Checking it out showed that a big metal panel on
+the front had fallen off and crashed against the inside of the door. 
+
+ It wouldn't go back on, of course. It has metal tabs at the top and
+bottom. You slide in the top tab, then push the bottom into the
+furnace and slide it down until the bottom tabs lock behind another
+piece of metal. But they were all bent. So I used a hammer and a
+pair of needle-nose
+Vise-Grips to bend everything back straight. 
+
+ What a fun start to the day! 
+
+ Speaking of those Vise-Grips, they're the
+single best thing my father ever gave me. He's a builder, and one day
+he took me to a tool store where only builders were allowed to shop.
+They had everything, amazing tools&#8212;huge ones, tiny ones, tools that
+could do several things, and tools that were incredibly specialized.
+He offered to buy me something. 
+
+ My first choice was a Yankee
+Screwdriver , as seen in The Blues
+Brothers , but he talked me out of that. (It turned out he
+had one he never used that he gave me later.) So I looked again, and
+settled on the relatively tiny pair of needle-nose Vise-Grips. I've
+had them for nearly twenty years now, and they're still the most
+useful thing I think I own. I use them to bend things, hold things
+together, screw things back together again. They never make it back
+to our tool drawer because they're always needed, instead sitting on
+the counter between the kitchen and the living room. They're great
+for opening cans of frozen orange juice or milk jugs after the plastic
+tabs designed for &#8220;easy opening&#8221; tear off in your fingers. And they
+do a great job on furnace covers, too. 
+
+ Thanks, Dad! 
+
+ newer entries | older entries 
+
+ Activity 
+
+ << 
+ January, 2002 
+ >> 
+
+ Mo 
+ Tu 
+ We 
+ Th 
+ Fr 
+ Sa 
+ Su 
+
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+
+ 28 
+ 29 
+ 30 
+ 31 
+
+ More Archives... 
+ March, 2004 
+ February, 2004 
+ January, 2004 
+ December, 2003 
+ November, 2003 
+ October, 2003 
+ more... 
+
+ Copyright &copy; 1998&#8211;2004, C.M. Connelly. 
+
+This work is licensed under a Creative Commons License .
+
+ Last modified at 4:53 PM PST, Wednesday, March 3, 2004; last rendered at 
+ 4:53 PM PST, Wednesday, March 3, 2004 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

@@ -1,0 +1,67 @@
+
+The 1996 NBA Draft
+First Round
+Pick  Team          Player               College/Country       Pos  Hgt   Wgt
+  1.  Philadelphia  Allen Iverson        Georgetown             PG  6- 0  167
+  2.  Toronto       Marcus Camby         Massachusetts          PF  6-11  223
+  3.  Vancouver     Shareef Abdur-Rahim  California             PF  6-10  220
+  4.  Minnesota     Stephon Marbury      Georgia Tech           PG  6- 2  182
+  5.  Milwaukee     Ray Allen            Connecticut            SG  6- 5  198
+  6.  Boston        Antoine Walker       Kentucky               SF  6-10  234
+  7.  LA Clippers   Lorenzen Wright      Memphis                PF  6-10  230
+  8.  New Jersey    Kerry Kittles        Villanova              SG  6- 5  177
+  9.  Dallas        Samaki Walker        Louisville             PF  6- 9  247
+ 10.  Indiana       Erick Dampier        Mississippi State       C  6-11  268
+ 11.  Golden State  Todd Fuller          North Carolina State    C  6-11  255
+ 12.  Cleveland     Vitaly Potapenko     Wright State            C  6- 9  277
+ 13.  Charlotte     Kobe Bryant          Lower Merion HS        SG  6- 6  199
+ 14.  Sacramento    Predrag Stojakovic   PAOK (Greece)          SF  6- 9  229
+ 15.  Phoenix       Steve Nash           Santa Clara            PG  6- 3  192
+ 16.  Charlotte     Tony Delk            Kentucky               SG  6- 1  190
+ 17.  Portland      Jermaine O'Neal      Eau Claire HS           C  6-11  216
+ 18.  New York      John Wallace         Syracuse               SF  6- 9  240
+ 19.  New York      Walter McCarty       Kentucky               PF  6-11  217
+ 20.  Cleveland     Zydrunas Ilgauskas   Atletas (Lithuania)     C  7- 3  258
+ 21.  New York      Dontae Jones         Mississippi State      SF  6- 7  218
+ 22.  Vancouver     Roy Rogers           Alabama                PF  6-10  232
+ 23.  Denver        Efthimis Retzias     PAOK (Greece)           C  6-11  250
+ 24.  LA Lakers     Derek Fisher         Arkansas-Little Rock   PG  6- 1  200
+ 25.  Miami         Martin Muursepp      Kalev Talinn (Estonia) SF  6- 9  238
+ 26.  Detroit       Jerome Williams      Georgetown             SF  6- 9  201
+ 27.  Orlando       Brian Evans          Indiana                SF  6- 8  218
+ 28.  Atlanta       Priest Lauderdale    Per. Nikas (Greece)     C  7- 4  343
+ 29.  Chicago       Travis Knight        Connecticut             C  7- 0  234
+
+Second Round
+Pick  Team          Player               College/Country       Pos  Hgt Wgt
+ 30.  Houston       Othella Harrington   Georgetown             PF  6- 8  236
+ 31.  Philadelphia  Mark Hendrickson     Washington State       PF  6- 8  242
+ 32.  Philadelphia  Ryan Minor           Oklahoma               SF  6- 7  230
+ 33.  Milwaukee     Moochie Norris       West Florida           PG  6- 0  178
+ 34.  Dallas        Shawn Harvey         West Virginia State    PG  6- 4  184
+ 35.  Seattle       Joseph Blair         Arizona                PF  6-10  256
+ 36.  LA Clippers   Doron Sheffer        Connecticut            PG  6- 5  192
+ 37.  Denver        Jeff McInnis         North Carolina         PG  6- 3  184
+ 38.  Boston        Steve Hamer          Tennessee               C  7- 0  244
+ 39.  Phoenix       Russ Millard         Iowa                   PF  6- 8  252
+ 40.  Golden State  Marcus Mann          Mississippi Valley St  PF  6- 7  238
+ 41.  Sacramento    Jason Sasser         Texas Tech             SF  6- 5  220
+ 42.  Houston       Randy Livingston     Louisiana State        PG  6- 4  209
+ 43.  Phoenix       Ben Davis            Arizona                PF  6- 8  253
+ 44.  Charlotte     Malik Rose           Drexel                 PF  6- 7  262
+ 45.  Seattle       Joe Vogel            Colorado State          C  6-11  240
+ 46.  Portland      Marcus Brown         Murray State           SG  6- 2  192
+ 47.  Seattle       Ron Riley            Arizona State          SG  6- 4  200
+ 48.  Philadelphia  Jamie Feick          Michigan State         PF  6- 9  256
+ 49.  Orlando       Amal McCaskill       Marquette               C  6-11  231
+ 50.  Houston       Terrell Bell         Georgia                 C  6-10  247
+ 51.  Vancouver     Chris Robinson       Western Kentucky       SG  6- 6  199
+ 52.  Indiana       Mark Pope            Kentucky                C  6-10  238
+ 53.  Milwaukee     Jeff Nordgaard       Wisconsin-Green Bay    SF  6- 7  219
+ 54.  Utah          Shandon Anderson     Georgia                SF  6- 6  213
+ 55.  Washington    Ronnie Henderson     Louisiana State        SG  6- 4  201
+ 56.  Cleveland     Reggie Geary         Arizona                PG  6- 1  188
+ 57.  Seattle       Drew Barry           Georgia Tech           SG  6- 4  183
+ 58.  Dallas        Darnell Robinson     Arkansas                C  6-10  270
+
+

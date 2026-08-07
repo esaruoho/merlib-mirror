@@ -1,0 +1,3 @@
+PERFORMANCE DATA 0-60: 7.0 sec 1/4 Mile: 15.6 sec Skidpad: 0.84g Top Speed: 133 MPH Braking 60-0: 122 ft 
+
+ SPECIFICATIONS 1.8L DOHC 16 Valve I-4 Horsepower: 170 bhp @ 7600 rpm Torque: 128 lb-ft @ 6200 rpm Curb Weight: 2660 lb

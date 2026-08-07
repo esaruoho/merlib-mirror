@@ -1,0 +1,224 @@
+Homopolar Generator, HPG, Faraday's Disk 
+
+ WEIRD SCIENCE 
+ | ELEKTROMAGNUM 
+ | Keelynet on WWW 
+
+ Untried Homopolar Generator Experiments 
+ (c)1996 William J. Beaty 
+
+ Pipecaps and mercury test: 
+
+ HOMOPOLAR DIAGRAMS (GIF) 
+
+ Ext. circuit is the Stator 
+ Bilateral symmetry version 
+ Pipecaps and mercury 
+ Shorted-load configurations 
+ Untried o/u heater 
+ Untried self-excited cylindrical motor 
+ E-fields around a rotating disk magnet? 
+ "N-machine" links 
+ BUY THIS BOOK: The Homopolar Handbook 
+ References 
+
+In 1992-94 I messed around with homopolar generators, ("HPGs" or
+"N-machines",) tried a simple test, and drew some GIFs of possible
+devices. The general idea was that an HPG might lack back-torque if the
+rotor and stator circuits are radially symmetrical. If all wires were
+replaced with cups and tubes, would the mechanical energy per output
+wattage be reduced? If this were true, conservation of energy would be
+violated. The generator would create large currents and heat output, yet
+it would require little driving energy. If a pair of these was hooked
+together in motor/generator configuration, they might self-accelerate
+anomalously and spin without extrnal energy input. Impossible by standard
+physics, of course. Yet a radially-symmetric HPG does not change flux
+linkage when rotating, and so it might not be expected to produce output
+currents. Yet it does. Tewari and Depalma in fringe-science publications
+claim to have observed anomalous behavior when investigating these
+devices. If there is a way to extract the energy of the quantum vacuum
+sea, perhaps here is a device which accomplishes the feat. 
+
+ The pipecaps/mercury experiment was my crude attempt to detect changes
+in electromagnetic braking in a shorted, symmetrical HPG. I hoped to
+compare the braking forces with and without the permanent magnet present. 
+Unfortunately my setup didn't show low friction without the magnet, since
+the oxide crust on the mercury contributed a large friction compared to
+the EM braking effects. The crust/scum on the mercury gave such high
+friction that I couldn't see any obvious difference between the magnet
+version and the no-magnet version. To detect forces, I only relied on
+twisting up the thread and making crude time measurements of the
+unwinding. Later I realized that the crust could be eliminated. This
+experiment needs to be repeated. 
+
+Hint for anyone who wants to try the experiment: silver-plate the copper
+so that the mercury will wet it, and put light oil on the mercury to seal
+it from oxygen and prevent the formation of an oxide scum layer. This
+will vastly lower the friction and make the differences between the magnet
+version and the no-magnet version measurable. Big hint: build a large,
+heavy version of one of these shorted-out generators, spin it with a
+motor, stick it in a calorimiter, and see if unexplained excess heat is
+evolved. (See if the shorted homopolar generator makes more heat energy
+than is input by the wires to the driving motor.) 
+
+In thinking long and hard about HPGs, I have come up with some
+observations and questions. Are you confused about spinning magnets
+versus spinning disks? Here's more to think about. Perhaps it will
+help to clarify things. 
+
+ The diagram below depicts a simplified Homopolar Generator (HPG). 
+Rather than using a separate external circuit and a spinning disk, I've
+combined them into a two-disk arrangement. One half of the device in fig
+1a is the "disk," of a classic HPG, while the other half acts as the
+"external circuit." Carbon brushes connect the halves with sliding
+contact. Liquid metal brushes would be better. 
+
+The two halves are placed together in fig 1b. When a magnetic field is
+applied (vertical field in fig 1b) and the two halves are spun together as
+a unit, the
+relative motion of the metal and the magnetic field should cause a radial
+voltage to appear, which causes the rim of the metal assembly to aquire a
+positive charge, and the axis of the assembly to receive an equal negative
+charge. NO CURRENT RESULTS, instead the device acts like a charged
+capacitor as long as the rotation continues. Also, if the metal assembly
+is held still and the magnets are spun instead, the same radial voltage
+should appear and the same separation of charges should exist on the
+object, again with a voltage only. There is a momentary separation of
+charge, but no constant current. 
+
+ Fig 1c shows my idea of how HPGs are able to create electric currents. 
+If the upper and lower halves of the device are spun in opposite
+directions, the polarity of the radial voltage and the radial separation
+of charges should be opposite in each disk. Since the two halves are in
+sliding contact, the positive and negative regions are in electrical
+contact and a very large electric current should appear. This current is
+zero if the two halves are spun together. It is large if one half spins
+and the other is kept still. It is twice as large if both halves are spun
+in opposite directions. However, any relative rotation of the MAGNET, or
+the magnetic field, should result in equal voltages radially across both
+halves, and therefor should create no relative voltage between the halves,
+so rotating magnets should create no current. In other words, the
+magnetic field might spin with the magnet or it might not, but this cannot
+be detected by the HPG disks. The HPG doesn't care if the magnet
+spins. Instead, it only cares about differing rotation of the two
+metal parts. 
+
+ If you hold one half of the metal parts still and spin the other half,
+you create a "classic" HPG having a spinning disk and a nonspinning
+"external circuit." Simply add a current meter in series with the shaft
+of the non-spinning half depicted above. You can even carve away most of
+the shell of the non-spinning half and form it into "wires". You'll end
+up with the "classic" HPG circuit in full. 
+
+ This then shows why the rotating copper parts might apply back-action
+forces against the external circuit, but need not apply any forces against
+the permanent magnet. It explains the seeming non-reversibility of
+current-generating action in Faraday's homopolar experiment. It APPEARS
+that there is a paradox, and that the rotation of Faraday's disk generates
+current, while rotation of his bar magnet does not. In reality, the only
+important motion is the *relative* movement between Faraday's disk and his
+external circuit, and the rotation of the magnet is unimportant. Of
+course the presence of the magnetic field is necessary to accomplish the
+effect and create current, but its rotation relative to the average
+rotation of the disk-plus-circuit assembly only creates a net radial
+charge separation without creating constant current. 
+
+ Once we realize that the external circuit is the "stator" of the
+device, the homopolar generator is not as weird as it first seems. 
+
+ Note that these are all UNTRIED THOUGHT EXPERIMENTS. There is a small
+chance that the HPG does not work as I describe above, and that there is a
+true anomaly here. If the mechanical energy input to a homopolar generator
+is not in perfect 1:1 proportion to its heat output, then there are
+mysteries here to be investigated. 
+
+ There is a chance that the device of fig. 1c will not create
+back-action against whatever mechanical forces are causing it to turn. In
+this case a motor could be used to spin one disk, and the current in them
+would create heat, but the current would not create electromagnetic back
+action, and so the motor would do no work in driving the disks, resulting
+in heat energy "from nowhere." Or as with the Searle device claims, the
+generated current in the disks might even create a motor action which
+would spin the disks, which would create higher current but no back-action
+force, which would in turn spin the disks even faster, and which would
+create continuous acceleration, an explosive runaway flywheel reaction,
+and again create "energy from nowhere." If you short out a radially
+constructed HPG and spin it fast enough, will it start spinning faster and
+faster, until it shatters from the radial forces? There are rumors that
+such things happen. I haven't heard that anyone has tried this recently
+and verified that nothing mysterious occurs. 
+
+I'll leave you with this though. In the diagram below, I have attempted
+to sketch the electrostatic field created by a spinning disk magnet. It
+seems as though there is an imbalanced charge along the rim of the magnet.
+However, since charge is conserved, a region of opposite charge must
+appear elsewhere. The equal and opposite charge is not on the magnet at
+all, it is hanging in space along the axis of rotation! (At least 
+my crude drawing strongly suggests this. Am I mistaken?) 
+
+Is this real? Isn't it like those strange circular e-fields which exist
+in the empty space around a toroidial AC inductor? But this is the DC
+version. And I cannot see how the e-field could have these closed loops,
+since the field lines seem to end in empty space at the axis of rotation. 
+If there were a cloud of charged particles surrounding this spinning
+magnet, would the rotating field cause them to collect at the axis?
+Surely simple electromagnetic physics doesn't have such a gaping flaw. 
+However, I've heard that in Gen. Rel., EM does not apply correctly when
+the objects in question are rotating. Is this true? I don't know how to
+think about this, and if I've made an error in visualizing it, I cannot
+see my error. [perhaps the concept of 'lines of flux' doesn't apply to
+the e-field generated by a changing magnetic field?]
+
+Some references:
+ Earth's core simulated with rotating liquid metal
+ http://physicsweb.org/article/news/4/5/4 
+
+ IEI (Ireland) finds new Faraday Disk effect
+ http://www.iei.ie/papers/faraday/faraday71.html , also some discussion 
+
+ THE HOMOPOLAR HANDBOOK: A definitive guide to faraday disk and
+ N-machine technologies, by Thomas Valone, 1994. Published by 
+ Integrity Research Institute, 1377 K St. NW, Suite 204, 
+ Washington DC 20005 See bookstore 
+
+ Don Lancaster's "Tech Musings", tinaja.com site:
+ - muse117.pdf , Shattering HPG Myths
+ - muse121.pdf , Understanding Faraday's Disk
+
+ Homopolar motor torque equation 
+
+ Delpalma's site http://depalma.pair.com/ 
+
+ Eric K's free energy EM skepticism 
+
+ Dr. I. Moroz current homopolar generator research
+
+ Spinning Magnetic Fields, Jovan Djuric
+ Journal of Applied Physics v48 #9 Sep 1977 p 3981
+
+ Comments on Spinning Magnetic Fields, A. Viviani
+ Journal of Applied Physics v46 #2 Feb 1975 p 679 
+
+ Principal of relativity as applied to motional electromagnetic
+ induction, Valverde, Am J Phys, v63 #3, p228
+
+ Maxwell's Equations in a Rotating Medium: Is There a Problem?"
+ by G. N. Pellegrini and A. R. Swift, Am J. Phys. Vol 63 No 8,
+ August 1995, pages 694-705
+
+ The Radial Magnetic Field Homopolar Motor, Eagleton, R. D., and Kaplan,
+ M. N., Am J of Phys, Vol. 56, No. 9, Sep. 1988, pp. 858-859
+
+ Fenyman Lectures on Physics, Vol II, Sect 3.10
+
+ From CyberWorkshop :
+ Homopolar Generator Principle (jap lang)
+ HPGs I (jap lang)
+ HPGs II (jap lang)
+ HPGs III (jap lang)
+
+ Graneau's EM forces , bibliography
+
+Created and maintained by Bill Beaty . Mail me at: billb@eskimo.com .
+
+If you are using Lynx, type "c" to email.

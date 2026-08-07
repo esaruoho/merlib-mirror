@@ -1,0 +1,68 @@
+A few 'gotchas' for which any "AG" research must beware:
+
+  If high voltage is involved, everyone should realize that bare metal can
+  emit air jets which create forces.  Even a small corona discharge can
+  eject a stream of "electric wind."  Spinning gyroscopes can do the same,
+  an unshrouded flywheel can act as a propellor blade.  If we surround our
+  antigravity device with a plastic bag, then any thrust from air jets is
+  eliminated.  If doing so also eliminates the weight change, then perhaps
+  the weight change was really caused by air jets from moving parts or
+  from high-voltage all along.
+
+  If high temperatures are involved, then rising plumes of hot air can
+  create forces.  If the AG force from your device is small, and if it 
+  rises slowly with time and then decreases slowly when power is removed,
+  then suspect bouyancy forces and rising hot air. To eliminate this
+  problem, operate your device within a vacuum chamber.  Or, if your
+  device is meant to create a directional thrust, then rotate your device
+  so that all of the expected force is sideways.  Hot air should mostly
+  produce up/down forces, and should therefor be separate from any
+  sideways forces created by genuine AG effects.
+
+  Electrostatic forces caused by high voltage can masquerade as
+  small weight changes.  If any part of your device becomes "frictionally"
+  charged, or if your device employs high voltage as part of its
+  operation, then electrostatic forces will be present.  One way to
+  eliminate them: surround your device with a conductive bag (aluminum
+  foil or aluminized mylar), and use a fine wire to connect the
+  conductive bag to earth. This will eliminate any electrostatic forces
+  between the bag and the outside world.
+
+  Don't trust scales, especially if your device is vibrating.  Some 
+  scales are nonlinear, and will convert any vibrations into a false
+  reading of directional force.  Better to suspend your device
+  from a pendulum, orient it so that it produces sideways thrust, then
+  measure any deflection from vertical.  Or, if your device only produces
+  changes in weight, then build a balance beam, suspend your device from
+  one end of the beam, and attach a counterweight to the other end.
+  (And surround it in a conductive plastic bag to eliminate electrostatic 
+  forces, AND perform the experiment in a vacuum chamber to eliminate
+  forces caused by rising hot air.)
+
+  And finally, beware of PSYCHOLOGICAL forces!  :)  Very often we will let
+  our experiments become entangled in our egos.  This is bad, because in
+  order to shield against ego damage, we will stop looking for con-
+  ventional explanations for apparant success.  If my antigravity device
+  seems to really work, my first thoughts should NOT be about how superior
+  I am when compared to other researchers, or about the riches and
+  accolades I soon will receive.  Those thoughts will steer me away from
+  discovering even the most obvious sources of failure.  Instead my first
+  thoughts should be "OK, so how am I fooling myself THIS time?"
+
+
+  Obviously all of the above warnings apply to SMALL forces.  If your
+  device can lift itself off the table and fly around the room, then there
+  is little doubt that you have a genuine AG effect.  Better put it in 
+  a plastic bag anyway, just to convince the doubters that you have no
+  electric helicopters hidden somewhere inside it!  :)
+
+
+http://www.eskimo.com/~billb/freenrg/antigrav.html
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  www.eskimo.com/~billb
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-781-3320          freenrg-L taoshum-L vortex-L webhead-L
+
+

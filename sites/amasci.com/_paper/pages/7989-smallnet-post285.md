@@ -1,0 +1,256 @@
+---
+title: "SMALLnet post285"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post285.html
+order: 7989
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:29Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post285
+
+*Source page: `~smallnet/Archive/post285.html`*
+
+## SMALLnet Posting post285
+
+------------------------------------------------------------------------
+
+**Date: Fri, 11 Feb 2000 23:06:46 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>.
+
+Tim Dannels \< 
+
+ \> leads off this Posting with:
+
+When I first discovered SMALLnet, I seem to recall that the site was said to be for small planes - engines - and fields. All kinds. Have I missed something somewhere? Where are the Yo-Yo's ????
+
+Everything I see is free flight and/or R/C.
+
+Yea, as some will recall I've put in my time chasing free flight models - hardly of the smallish type - but still flyable. For a variety of reasons I sort of tapered off and hadn't built models for a number of years. I recently retired (No excuses, Joe, I saw your "dig" a couple issues ago) and thought I'd try and remember how to build a model. Being a sort of nostalgic type, I thought I'd go back and learn all over again, like I did originally.
+
+I learned to fly Yo-Yo's (that's control line for the younger set) with a Wee-Duper Zilch powered by a McCoy .098. My first successful free flight was a Hogan 45 powered by that same McCoy .098. I have since liberated a pair of McCoy .098's and have almost completed the Zilch. Boy, have things changed!!! The dope don't dope the way it used to -- the paint don't paint the way it used to, and in the engines the pistons don't p --- well, don't work the way they used to, either.
+
+Did I have fun trying to remember how to build a symmetrical airfoil wing! You know, curved on both surfaces. Oh, free flights don't do that! Anyway, due to a recent move from a low elevation of 1 mile above sea level to my present height of 8000 fasl (feet above sea level) I am interested to find out if the little McCoy will still fly the Zilch. I am also trying to become interested in this electric stuff - surely they don't lose power (voltage?) at elevation!
+
+Bought a couple of electric motors off of eBay (big - medium - small) but have no idea what I ended up with. Need help in the most basic ways - how do you mount the dang things?? What are all the battery specs supposed to mean?? How do you determine what size motor you've got and what size model it will fly?? Simple, basic stuff like that.
+
+Taken enough space for now. I can be reached at \< 
+
+ \> (ecj stands for the Engine Collectors' Journal - ever see it?)
+
+Tim
+
+<div class="Joe">
+
+....Good point, Tim. SMALL has quite a bunch of control-line enthusiasts: Larry Renger, Walt Legan, Bob Severance, Jim Correll, George Aldrich, Dale Kirn, and John Brodak come readily to mind. I fly those spindizzies myself, too. But for some reason we don't get much SMALLnet input from the C/L gang.
+
+I hereby appoint YOU to stir up enthusiasm, Tim.
+
+As for technical data on electric motors etc., the Hobby Lobby catalog contains considerable information; but for truly compre- hensive specifications from guys who FLY with electric power (instead of just offering it for sale) you can't beat the news- letter put out by Ken Myers (assisted by Dr. Keith Shaw).
+
+<span id="65"></span>
+
+<div class="green">
+
+Source: Hobby Lobby Catalog\
+
+</div>
+
+It's available in "hard copy" and on-line; the Ampeer/Ken Myers, 1911 Bradshaw Court, Walled lake, Michigan 48390 --- \< <http://members.aol.com/KMyersEFO> \>.
+
+The last 2 issues have been CRAMMED with specific information of just the type you asked for, Tim: motor data (with various gear- boxes), propeller sizes, battery weights -- everything you could want for design purposes. Still & all, flight testing remains THE criterion -- and that gang up around Ann Arbor probably does more of that than any comparable-sized bunch of electric power R/C enthusiasts anywhere.
+
+As for free flight electrics, HiLine's the place to go to find out about that. \[JW\]
+
+</div>
+
+John Rimmer \< 
+
+ \> has something to say about electrics:
+
+I have been ordering APC slow flier props for a while and they have been adding a few new sizes each month. Check out their web site at \< <http://www.apcprop.com/> \>.
+
+I order via the web and have had good results.
+
+While on the subject, may I remind the small electric fliers that these little gems require careful balance of the motor, gear ratio, battery weight and capacity, prop dimensions and type.
+
+I have had a good-flying ship become a dog when changing a prop for the identical size and type due to damage. The problem was I failed to dress the new prop with sandpaper.
+
+Best I could figure was that the ragged edges and raised lettering caused drag on the blades at high speed and degraded the thrust. While flying 1/4 Midget (0.15 engines) I found the prop to be the key to winning. Those 7-inch sticks were easy to modify and design.
+
+I note from one source that geared props can be made from balsa similar to Wakefield rubber-power types.
+
+John
+
+Sam Brauer \< 
+
+ \> reports:
+
+At our last indoor flying session at Glastonbury I finally flew my Mayfly (Wes-Technik DC6, 2 cell rechargeable lithium pack, 2 FMA S80 servos, and Sky Hooks and Rigging receiver) indoors. All went well until the prop came off the shaft. The Mayfly, contrary to many other indoor R/C airplanes, glided fine and landed with no more than a mild thump.
+
+Pressing the prop back onto the shaft showed that the motor was fine but the elevator channel was out. During discussions with Tom McAnn concerning repairs (the receiver's builder) he commented that he did not like the FMA Mini 5 speed control and suggested I use something else. I suspect that this recommendation holds for most of the very small receivers on the market such as the Garrett, Potensky, etc.
+
+Also present at this indoor session was a Hobby Lobby Fokker triplane. This is the all foam airplane that looks so neat in the ads. Well from a dozen feet away it still looks pretty good. Unfortunately I don't think the airplane ever got more than 6 inches in the air even after a several hundred foot run. The airplane was equipped stock with a 6 (7?) cell 350 nicad pack and a geared Speed 280 swinging a 10 x 4 APC prop. The pilot clearly knew what he was doing, since he could keep the airplane tracking reasonably straight -- no easy task for such a short-coupled plane.
+
+Basically, with a 14-ounce airplane, this motor just wasn't hacking it. I also thought from the taxiing runs that the airplane looked tailheavy although the builder said he balanced it according to the plans.
+
+I've been playing with a Speed 300 motor I ordered from New Creations R/C -- Kirk Massey was very helpful, knowledgeable, and a straight shooter. I recommend this shop if you need help sizing an electric powerplant up for an airplane. The Speed 300 is very slightly larger than the Speed 280 and weighs 7 grams more; and I think would be a much better match with the Hobby Lobby Triplane.
+
+(I plan on using the Speed 300 in a Dare Sopwith Triplane I'm building.) It's not a drop-in replacement however, since gearbox/prop combinations will have to be adjusted to make sure something doesn't melt. I still don't understand companies that come up with these marginal electric systems for aircraft to save a couple of bucks. It's very few dollars difference between a Speed 280 and a Speed 300, and the design process is largely the same.
+
+Why not have happy customers instead of frustrated ones? There should be sufficient profit either way.
+
+One word of warning concerning flying indoor R/C at a rubber free flight indoor site. There seems to be some friction from trying to do both in a relatively small venue. When the R/C guys are flying, the rubber stuff comes down. Furthermore, the whine of gearboxes can be an irritant. I'm not sure that mixing these two flying styles together is such a hot idea.
+
+Sam Brauer, Norwalk, Connecticut
+
+Frank Hodson \< 
+
+ \> wrote:
+
+I build a lot of electrics, both FF and R/C. Motor shafts never seem to fit the props. The best thing I've found to use as shim/spacer is soft aluminum tubing. Cut tubing a hair shorter than the hub thickness, then split lengthwise.
+
+Place split tube on the prop shaft and gently form around the shaft, slide prop on. I always seem to get a good fit, as after reaming the prop hub (slightly larger), the tube usually takes up the slop. Frank Hodson
+
+<div class="Joe">
+
+....Frank, a trick I've often used in situations such as you mention is to unravel a length of fine-stranded hookup wire, and tight-wind one strand around the motor shaft. One tiny drop of CA will secure the wire; then the prop hub can be HAND-drilled (never use a powered drill bit to enlarge the hole in a plastic prop!) to a nice firm "push & twist" fit over the "expanded" shaft. \[JW\]
+
+</div>
+
+Larry Hacker \< 
+
+ \> contributed:
+
+RE: John Tolbert's request for information on the Rich Uravich Extra 3.25. I built the Lanier version of this plane and wrote a Product Report in the February 1998 R/C Modeler magazine.
+
+My plane had an OS .26 FS engine and it flew quite well off my club's grass field. The plane has low speed characteristics which include tip stall, as was to be expected.
+
+Another product report on the same kit in Model Airplane News also indicated this. A .25 FX would offer some takeoff and emergency power without adding any weight penalty, but, if you are careful, the .26 FS is adequate. I remember the fuselage feeling flimsy until the last piece of sheeting was added; then it felt like an empty eggshell! Wing loading was a comfortable 21 ounce/sq foot.
+
+PS: I still have my 3.25.
+
+Larry Hacker
+
+Paul Rodrigues \< 
+
+ \> asserts:
+
+Mark Nankivil wrote last Posting that he had just finished a Multiplex TwinStar, and that it was a blast to fly.
+
+Mark, if you loved the TwinStar you've just gotta try out the Pico Jet. I have both, but the Pico is in a league of its own.
+
+Paul
+
+Alan Hahn \< 
+
+ \> suggests:
+
+Re the source for Norvel parts:
+
+I suggest that Dustan take a look at Norvel's web site \< Norvel.com \> for parts. I have seen Norvel claim that the carb isn't a removable part (it is glued into the crankcase, with a JB Weld-like epoxy).
+
+However once there, Dustan could just order a BigMig .049 or 061 R/C engine; I think they are just under \$40 (+\$3.40 S&H).
+
+Personally I find the Norvel engines to be among the best bargains around these days. We are running 1/2A cheapie combat with the standard unthrottled BigMig 061 and the Norvel Folding Flyers. My 061 has now taken two vertical (yard dart!) dives into the ground (after mid-airs), and still ticks over 23k rpm with a Black 5-4 Tornado prop.
+
+Alan Hahn
+
+John Meacham \< 
+
+ \> wonders:
+
+Just moved to the California high desert area, Antelope Valley near Palmdale. No shop set up yet, but looking around, the area looks like there's plenty of empty land to fly small planes. Big blue skies, gorgeous sunrises and sunsets, and stars galore at night.
+
+Does anyone know of any organized (or unorganized) flying sites near the Palmdale area? Interested in small stuff, back yard, school yard; even indoor slow fly. I generally flew alone in my old area as I did not want to compete with the "Big Boys" and the 1/4 scale stuff at the local club.
+
+I can fly at a club field maybe, or if flying alone in the desert don't want to "shoot down" anybody or get shot down myself.
+
+And as soon as I get a shop setup will be ordering the plans for the Dakota and for that high wing plane that was built for the PAA load lifting (don't remember the name of that one).
+
+John Meacham (who lost an original Dakota with an .020 in a thermal, but it was sure pretty seeing that little all-balsa bipe disappear into the sky.)
+
+<div class="Joe">
+
+....John, I know one Palmdale resident who does a LOT of SMALL FF flying -- but as far as I know, not around Palmdale itself. He drives in to the San Fernando Valley most Sunday mornings to fly at the Balboa Lake facility. However, that's limited to gliders, electric, CO2, compressed air, and rubber power. For "gas" FF he goes elsewhere -- sometimes as far as the Lost Hills site up past Bakersfield...
+
+Your best bet would be to call Tony Naccarato -- of T & A Hobby Lobby, 3512 West Victory Boulevard, Burbank, California 91505-1501 (818) 842-5062. If there is any model flying in the Palmdale area, Tony will know -- and can tell you who to contact.
+
+BTW, the PAA-Load free flight model design of mine you're thinking of is the Comanche. My son David and I have been flying these again (in both the original 36" span size and a scaled-up 48" version) for a few years now. They still go upstairs as well as they did half a century ago when 1/2A PAA-Load FF was new & popular. \[JW\]
+
+</div>
+
+Howard Metcalfe \< 
+
+ \> wrote:
+
+First of all, many thanks to Marcel Lavoie for taking the trouble to detail his fuselage building method. I have been into foam models lately, and this may just give me the nudge to do some balsa bashing again.
+
+FWIW in my view, this is a highly-rated contribution to SMALLnet, and is of a type that I would like to see more of: other people's working methods and flying tales are just so intriguing.
+
+Can we have more, please? Anyone in the UK know if you can still get thin razor blades - I haven't seen any for years...
+
+I have recently completed an own design Sukhoi Su-27 Flanker from 2 mm sheet foam for indoor rubber power; rather bigger and more scale than the Concorde shown on my website. The wings and fuselage are fully built up, and much to my amazement it flew beautifully first flight with no extra balance weight or trimming.
+
+That layout is a winner; all the outlines are to scale too! It flies really slowly and sort of mushes to the ground as the power runs down, rather than gliding. It flies in smooth open right handed circles about 10 foot up using a right handed pusher prop and a short loop of .090 Tan ll. If I try to put a lot of turns on it tends to tighten the turn and point its nose down resulting in an up and down first circuit -- but then it settles down and climbs a little for about 5 or 6 circuits.
+
+I didn't bother to time it or try any trimming changes, I just enjoyed watching it cruising majestically round in utter silence. Hopefully there is some real performance to come from it too. Next is to put some colour on it; it looks so anaemic in all white!!!
+
+Specifications: 13.75" span, 20.5 long, all up weight 17 grams. I will try to get some photos of it posted on my website soon.
+
+Cheers, Howard \< <http://www.metcalfehmm.freeserve.co.uk> \>
+
+<div class="Joe">
+
+....Howard, a while ago I bought a box of the thin double-edged razor blades from a South African source. The brand name is Leopard Blades, and they have worked well for me. Maybe John Godwin or Ed Baumgartner could tell us whether these are still available. \[JW\]
+
+</div>
+
+Adrian Page \< 
+
+ \> passes along a favorable comment:
+
+I just had to share this e-mail from Mike McConville with the list. I thought that would warm the heart of any SMALLster to hear how much a pilot of Mike's stature enjoyed flying such a small model.
+
+Mike normally flies huge T.O.C. planes. He placed 6th at the '99 T.O.C. flying a 40% CAP 232.
+
+"Hi Guys,
+
+"I just wanted to shoot you a message and congratulate you on a very nice-flying model. Last weekend a flying buddy of mine, Andy Pond, went to a little swap meet where Andy bought a very nicely built Gee Bee 20 R-2 (41" span model) with a Saito 30 in it.
+
+"To be honest we really thought it would be a horrible flying plane, but it was just so cute it was worth a shot. Well, Andy installed some radio gear in it and we just got back from test flying it before the snow storm hit.
+
+"I was so impressed that I just had to let you know. It's a very sweet little plane, even takeoff and landings are a breeze. We even got a few mild 3D aerobatics out of it. Very nice little plane, and just a perfect match for the Saito 30. I might have to build one myself. What a blast it would be to race them!
+
+Mike McConville"
+
+Mike has since bought a Gee Bee 20 kit of his own. Planes don't have to be big to fly great! Have a look at my web site: \< <http://www.glinx.com/users/page> \> Adrian
+
+<div class="Joe">
+
+....For those who don't already know, Adrian is the designer of no less than three kitted sorta-scale Gee Bee R/C models. One is a profile R2 "Fun Flyer"; the others are full-fuselage renditions of Lowell Bayles' "Model Z" and the Bendix-racing R1, sister ship of Jimmy Doolittle's Thompson Trophy winner. \[JW\]
+
+</div>
+
+Mike Russell \< 
+
+ \> wonders:
+
+Is there anybody out there in model airplane land who knows what kind of model biplane that kid is flying in the opening ad that shows about every hour or so on the Wings channel ??? I'd like to know because I would like to build it !
+
+I'm glad you had a good trip to the West Coast -- in March we're going to that area.....Mike Russell
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

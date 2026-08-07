@@ -1,0 +1,639 @@
+MOVED TO:
+http://amasci.com/emotor/kelvin.html
+
+
+
+
+
+
+OLD VERSION:
+
+
+
+
+
+
+
+                           "Kelvin's Thunderstorm"
+              Lord Kelvin's water-drop electrostatic generator
+                               Bill Beaty, 1995
+
+
+      NOTE: avoid using wood to support metal parts!  See "debugging"
+            notes at end.
+
+It is possible to build a very simple high voltage generator which has no
+moving parts and is powered by the energy of falling water.  By dribbling
+water through some old soup cans, several thousand volts magically
+appears.  The magic lies in the fact that water (as well as everything
+else!) is made of vast quantities of positive and negative electric charge
+in perfect balance.  It's not that hard to cause an imbalance.  Water
+normally has zero net electrical charge because it contains equal and
+opposite charges.   "Kelvin's Thunderstorm" is a gravity-powered charge
+un-canceller.
+
+
+
+                                 ||||||
+                                 ||||||   Grounded
+                                 ||||||   Water
+                                 ||||||   Dripper
+                                 ||||||
+               Negative charge   ||||||
+               is 'induced' at    \  /
+               tip of dripper    - || -
+                                  - _ -
+
+                                    _           + + + + + + +
+                                   -o-        + -------------- +
+                                    -        + |              | +
+                                             + |  positively  | +
+                                    _        + |  electrified | +
+                                   -o-       + |  object      | +
+                                    -        + |              | +
+                                             + |              | +
+                    Negatively               + -------------- +
+                    electrified     _           + + + + + + +
+                    droplets       -o-
+                                    -
+
+                             -             -
+                          - |               | -  Negative
+                            |               |    Collector Can
+                          - |--__----____---| -
+                            |               |
+                          - |               | -
+                            |               |
+                          - |_______________| -
+                              -    -     -
+
+
+      Fig 1.  WATER DROPLETS BEING ELECTRIFIED BY "INDUCTION"
+
+
+THE BASIC THEORY
+
+Even though water has no net electric charge, it is full of movable
+electric charges (ions).  Half of the water's charges are positive and
+half are negative.  The positive object shown in the above diagram
+attracts the water's negative ions and repels the positive.  This draws an
+excess of negative ions into the tip of the water dripper, while repelling
+an equal amount of positive ions back into electrical ground.  When the
+water drop detaches from the tip of the dripper, an overall negative
+electric charge is still trapped in the drop.  The falling drop carries
+away negative charge, leaving the earth slightly positive. 
+
+Negative water drops will be continuously created forever as long as the
+water flows, yet this process does not exhaust the imbalanced charge on
+the positive object.  Sounds like perpetual motion?  Actually no.  The
+electrical energy is all created by the work that gravity does in pulling
+the negative droplet away from the grounded dripper, and away against the
+attraction of the positive object.  Electrical force from the positively-
+charged object keeps the tip of the dripper charged negatively, but the
+positively charged object does not supply energy.  YOU supply the energy,
+since you LIFT the water to a height to fill the dripper.  It's like the
+generator in a hydroelectric dam, but without the turbine or the spinning
+coils and magnets.  The water itself becomes the moving parts of the
+electric generator. 
+
+(Note: the charge polarities can be reversed: if the "object" is negative,
+the droplets would be positive.)
+
+
+BUILDING A GENERATOR
+
+If we already have a positively-charged object, we can make negative water
+drops.  But where can we get a positive object?  If there was some way to
+change the negative charge on the water into a positive charge, then we
+could build a self-sustaining generator.  There is a simple way to do
+this: build a second water-drop device like that in figure 1!  See?  The
+device in figure one uses a positive object to create negative water.  It
+uses positive to create negative.  If we build a second device, it could
+use the negative to create positive.  We could hook the two devices in a
+loop.  The first one would create an imbalance of negative charge, which
+could be fed to the second one which would create an imbalance of positive
+charge, which would be fed back to the first one.
+
+We will build two of the drippers in Fig. 1, set them side by side, then
+collect the electrified water drops from one side and use them to
+electrify the "charged object" on the other, and vice versa.   We'll
+cross-connect the lower and upper parts with wires.  One side will have a
+positive "object" and will make negative drops, while the other side will
+have a negative "object"  and will make positive drops.  We'll then have a
+self-sustaining electrical reaction. 
+
+__________________________
+_   _____________________  \
+  \ \                      \ \
+    \ \                      \ \
+      \ \                      \ \
+       ||                       ||    Drippers (need not be metal), ground
+       ||                       ||    the water supply with a wire to
+       ||                       ||    metal faucet, or to the screw on an
+       ||                       ||    electric outlet or wall switch
+       ||                       ||
+       ||                       ||
+
+    |    |                     |    | Bottomless metal coffee cans, or
+    |    |                     |    | wire rings, or bundt pans, or metal
+    |    |   Wires not shown,  |    | disks with holes (supported by
+    |    |   see next diagram  |    | insulating rods.)  Called "Inducers."
+    |    |      (below)        |    |
+
+
+    |    |                     |    |
+    |    |                     |    |
+    |    |                     |    |   Metal cans on insulators (styrofoam?
+    |    |                     |    |   insulating rods?)  The "Collectors"
+    |____|                     |____|
+     |  |                       |  |    The inducers and collectors
+     |  |                       |  |    should be separated from each
+     |__|                       |__|    other by several inches
+
+Fig. 2   TWO DROPLET-CHARGERS PLACED NEAR EACH OTHER (see below for wires)
+
+
+Wires connect the two sides together.  The negative droplets touching the
+lower can of the first side will charge the negative upper ring of the
+second side, and the positive droplets on the second side will touch the
+second lower can and will charge the upper ring of the first side
+positively.  The grounded drippers are connected to each other and to
+ground.  This all is illustrated in Fig. 2.   See Fig. 3 below to see how
+the wires connect things together.
+
+
+
+SELF-STARTING
+
+In fact, if you build such a device, it will usually create voltage
+spontaneously without being pre-charged.  During dry conditions everything
+ends up with a tiny electric charge just from being handled.  If one of
+the upper cans is slightly negative, it will cause the water to have
+imbalanced positive, which will start up the other side of the generator,
+which will make the negative side larger, etc., over and over.  It's like
+balancing a penny on edge: it's hard to start out with perfect balance,
+and usually it falls one way or the other.  Same with this generator.  If
+there's a tiny electrical imbalance at the start, the generator will
+amplify it over and over.  A high voltage will magically appear from
+nowhere.  (But nobody knows which side will start out positive and which
+negative.)
+
+
+CONSTRUCTION
+
+The metal parts of the generator must be supported with insulating
+materials.  A vertical sheet of acrylic plastic works well.  So does
+styrofoam plastic.  Don't use wood as the supports, it's too conductive. 
+Fasten the collectors and inducers to the sheet with screws or silicone
+caulk, or make holes in the sheet and tie them to the sheet with string or
+wire.  Some people have used plastic rods or strips to support things. 
+The inducers and collectors must be spaced away from each other by several
+inches horizontally and vertically.  The lower collectors must be kept
+away from the table surface.
+
+Bare wires are used to cross-connect the four cans.  The two diagonal
+wires must be far from any other conductive object, and must not touch
+together.  Use bare wire, this will let you create sparks between the
+wires, or to later flash a NE-2 neon bulb. 
+
+Connect the ends of the diagonal wires directly to the metal of the cans
+and rings.  If you use plastic-covered wire, strip off the plastic coating
+from an inch of each end of the wire.  You can use tape to hold the wire
+against the metal, as long as the wire touches the bare metal directly
+(not, for example against the painted part of a coffee can.)  Alligator
+clipleads (bought from Radio Shack stores) work well for this.  Or poke a
+hole in the metal near the edge of the can, stick the wire through the
+hole, and bend it and tape it so it doesn't fall out. 
+
+__________________________
+_   _____________________  \
+  \ \                      \ \
+    \ \                      \ \
+      \ \                      \ \
+       ||                       ||
+       ||                       ||
+       ||                       ||
+       ||                       ||
+
+    |  o |                     | o  |
+    |    |                     |    |
+    |  o |+    +         -   - | o  |
+  + |    |----\            /---|    |  -
+    |  o |  +   \ +    - /  -  | o  |         (no connection between
+                + \    /                       the crossed wires!)
+       o            C/           o
+  - |    | -       / \       + |    | +
+  - |  o | -   - /   + \     + | o  | +
+    |    |_____/         \_____|    |
+  - |----|   -             +   |----| +
+    |____|                     |____|
+     |  |                       |  |
+     |  |                       |  |
+     |__|                       |__|
+
+     Fig. 3   LORD KELVIN'S THUNDERSTORM, W/WIRES SHOWN
+
+The upper rings (or cans) must be near the place where the water droplets
+break from the rest of the water.  If the drops break away right at the
+tip of the nozzle, then put the nozzles within the upper cans.  If a solid
+stream of water comes from the nozzle and breaks up further down, then
+move the nozzels up so the water-break point is inside the cans.
+
+
+OPERATION
+
+Once you have the water dripping, you can expect high voltage to
+immediately appear.  After the device runs for a minute, touch one of the
+coffee cans gently with a finger and listen for the tiny snap of a
+"static" spark.  If you don't hear a spark, the machine is running weakly
+or not al all.  See the "debugging" section near the end of this article.
+
+If you can't hear any spark, you can try detecting sparks electronically
+with an AM radio.  Place a radio a foot away from your generator, tune it
+between AM stations, and turn the volume up.  Run your Kelvin machine.
+Touch one of the cans with your finger and listen to the radio.  You
+should hear a "snap" noise as your finger touches the metal.  Touch one
+upper can, then the other, then the first.  You should hear a "snap" each
+time.  Even when sparks are too small to hear or see, a radio will
+sometimes still detect them.
+
+
+FLASHING A NEON BULB
+
+Once your machine is able to produce sparks, you can also make it flash a
+small lightbulb.  Normal flashlight bulbs won't work, you need a small
+neon "pilot light" instead.  Obtain a small "NE-2" neon light, the kind
+which looks like a short glass tube with two parallel wires inside and two
+bare wires sticking out of the glass. Hold the bulb by one wire, look at
+the tube, then use the other wire to touch one of the cans of your Kelvin
+device.  You should see a dim orange flash inside the bulb.  (It might
+help to turn off the lights and work in a dimly lit room.)  Hold one bulb
+wire, then use the other wire to touch the positive can, then the negative
+can, then the positive, and you should see a tiny orange flash each time.
+
+
+CONTINUOUSLY FLASHING BULB
+
+Don't connect the NE-2 bulb directly across the two generator wires.  It
+will short out the generator and prevent high voltage buildup.  You can
+make the generator automatically flash the neon bulb by making a "spark
+gap".  First twist one wire from the NE-2 around one of the generator's
+diagonal wires, then bend the wires so other short wire from the NE-2 is
+very close to the other generator wire ( but not touching).  Small sparks
+will occasionally jump across the small gap and flash the NE-2.  The
+smaller the gap, the faster (and dimmer) the flashing.  Try a 1/16" gap at
+first.  If it works, increase the distance to get slow, bright flashes.
+Bend  the sharp tip of the wire over, this sometimes lets the voltage rise
+higher before a spark jumps, which lets the bulb flash more brightly.
+
+
+FLAPPING KLEENEX
+
+To "see" the high voltage surrounding the cans, tape some strips of tissue
+paper to the cans.  Put tape only at the top of each strip of tissue so
+the strip hangs down against the side of the can.  When the can charges
+up, the strips should lift slightly outwards.  The higher the voltage, the
+farther the strips move.  When a spark jumps, the strips jerk because the
+force suddenly becomes less.
+
+
+SLOWING WATER
+
+The energy that builds up between the cans comes from the falling of the
+water, and as the stored energy grows, the water has to do more and more
+work every time it adds a bit more imbalanced charge to the cans.  The
+electrified drops feel a repulsion force as they fall towards the
+alike-charged cans.  As the voltage increases, the drops will fall more
+and more slowly.  They may even start bending their paths, even
+occasionally falling upwards!
+
+
+EMPTYING THE LOWER CANS
+
+If the device is run for very long, the lower cans fill up.  How to get
+the water out of the cans without discharging them?  Here's my addition to
+the classic Kelvin Waterdropper: use the "faraday ice pail" effect, where
+a conductive hollow object always has no charge imbalance on its inside.
+To do this, connect an exit tube inside each lower can as below, so the
+water DRIPS out (if it falls in a solid stream, the cans will discharge
+and the generator will stop working.)
+
+
+   ||                 ||
+   ||                 ||
+   ||                 ||
+   ||                 ||
+   ||/\/\/\/\/\/\/\/\/||
+   ||                 ||   For best results, no sharp edges or
+   ||                 ||   burrs anywhere.  Or, cover sharp edges
+   ||     WATER       ||   with thick bead of RTV silicone caulk
+   ||                 ||
+   ||     __   __     ||
+   ||    |  | |  |    ||
+   ||    |  | |  |    ||
+   ||    |   U   |    ||
+   ||    |   O   |    ||
+    ======       ======
+             O
+                Uncharged drops
+             O  exit from bottom
+
+
+   Fig. 4  REMOVING THE WATER FROM THE LOWER CANS
+
+
+Or, even simpler, install a cone-shaped piece of metal window screen
+inside a bottomless can, so the water drops touch the screen and continue
+through.  Make sure the screen is centered vertically within the can, so
+that the point of the cone doesn't extend past the lower lip of the can.
+Don't let the water drip from the edge of the can, otherwise it will carry
+charge away with each drop.
+
+With a little catcher-tray and a fountain pump, you can make the system
+recirculate.  Or, you can stack all four parts of one Kelvin device in a
+single row, for an in-line waterdropper generator.  See my article on
+"Inline Kelvin Thunderstorm Device"  found on my site at
+http://amasci.com/emotor/ikelv.txt.  Note that the Inline
+version is more tricky to make work.  Build the above device first
+before attempting the one below.
+
+             \ \
+               \ \
+                 \ \
+                  ||
+     Grounded     ||
+      Dripper     ||
+                  ||
+                  o
+                  o
+                |   |
+        Neg     |   |
+        can     | o |
+                |   |
+
+       Pos      |   |
+       can      |...|
+      w/screen  |   |         Connecting wires not shown, see ikelv.txt
+                |   |         article for more info
+
+                \    /        Connect pos to pos, neg to neg
+    Grounded     \  /
+    Funnel        ||
+                  o
+                |   |         Note that this is a more advanced project,
+        Pos     |   |         and is more difficult to debug than
+        can     | o |         the side-by-side version.
+                |   |
+
+       Neg      |   |
+       can      |...|
+      w/screen  |   |
+                |   |
+                  o
+
+    Fig. 5   IN-LINE VERSION (wires not shown)
+
+The water supply need not be a "dripper", it can be a high velocity spray,
+as long as the jet divides into droplets, not a contiguous stream.  And
+multiple jets can be used, sort of like a shower head.  The faster the
+flow and the larger the number of separate streams, the higher the total
+output current.  (Higher current gives faster recharge rate after a spark,
+and it lets the generator self-start more reliably.)
+
+
+GIGANTIC VERSION
+
+I've always wanted to build a gigantic version like the one below, with
+hollow metal toroids.  (Use halves of VandeGraff spheres, the halves with
+the holes).  Or maybe use metal 55-gal drums.  But the drums have sharp
+edges, and we can't get millions of volts if the edges are sharp.  A
+foil-covered truck innertube should support about a million volts before
+corona leakage stops the voltage from rising any higher.
+
+        \\                              \\
+          \\                              \\
+            \\                              \\
+             ||                              ||
+             ||                              ||   water
+             ||                              ||   spray
+             ||                              ||
+     ___           ___                ___           ___
+    /   \         /   \              /   \         /   \
+   |     |       |     |            |     |       |     |  Four torii
+    \___/         \___/              \___/         \___/   (shown cross-
+                                                            sectional)
+
+
+     ___           ___                ___           ___
+    /   \         /   \              /   \         /   \
+   |     |\     /|     |            |     |\     /|     |
+    \___/   \_/   \___/              \___/   \_/   \___/
+
+          conical screens in lower torii touch droplets and release,
+          discharging them.  Entire screen assy must be deep within
+          the "hole" of each donut so the torus shields the departing
+          water drops from the field on the outside.
+
+  Fig. 6  GIANT KELVIN DEVICE BUILT FROM SPUN-METAL DONUTS (or tire
+          inner tubes covered with aluminum foil!)
+
+
+High-velocity shower heads and cross-connecting conductors made from
+large-diameter pipes will complete the scene above:  a "VandeGraaff
+Generator" version of Kelvin's Thunderstorm apparatus! 
+
+   NEWS: I suspended a bundt-pan by fishlines, then sprayed water through
+   the center, so that the water did not touch the metal.  I used a garden
+   hose with a "water breaker", a sort of shower head attachment.  I
+   charged up the bundt pan with a power supply, and then measured the
+   electric current between a collector pot and ground.  2.5 microamps!
+   This doesn't sound like much, but it is as much as some VandeGraaff
+   generators put out.
+
+   I found that if I disconnected the power supply from the bundt pan,
+   the current did not vanish.  The charge on the bundt pan stayed the
+   same as I watched for about 30sec.  And this was in high humidity
+   conditions!  Fishing line makes a VERY GOOD insulator.  When I touched
+   the bundt pan with my finger, the electric current coming from the
+   collector can did go to zero.
+
+
+RUNNING A MOTOR
+
+The above generators can be used to run a motor, if the motor is my Pop
+Bottle Electrostatic Motor at:
+
+   http://amasci.com/emotor/emotor.html
+
+I find that these small Kelvin Waterdrop Generators are a little too
+feeble to keep the motor going continuously.  Instead it builds up a
+charge imbalance, then the motor starts turning and rotates a few times.
+This exhausts the imbalance, the motor stops, then it builds up again and
+repeats.  This happens a couple of times per minute.  A bigger waterdrop
+generator is needed if you want to run the motor continuously.
+
+
+MULTIPLE DRIPPERS
+
+I set up multiple nozzles on the waterdrop generator and this improved
+things considerably.  In a cluster of nozzles, the inner ones may be
+electrically shielded by the outer ones.  Therefor a circle of nozzles is
+probably best.  I drilled a circle of eight tiny holes in a plastic bowl
+(using #64 drill bit), and this gave good results.  Crude version of
+multiple-dripper: use a soup can, and punch a bunch of holes in the bottom
+by using a tiny nail.  I've also seen a shower-head thing called a "water
+breaker" in the garden supply section of hardware stores.  If a circle of
+tape was stuck to the center of one of these, it would plug up the middle
+holes and form a ring of about 100 tiny water jets.
+
+
+SPEEDING UP THE RECHARGE
+
+Whenever you discharge the generator, you also discharge the inducer
+rings.  As a result, the generator takes quite a while to "ramp up" to
+full voltage again.  This is exponential growth, and it's quite slow at
+first.  There are two possible ways to solve this (I haven't tried them,
+you be first!)  One way to solve the problem is to insert very large
+resistors in series with the wires to the inducers (large = thousands of
+megohms).  Then always discharge only the collectors.  The resistors will
+keep the inducers from instantly discharging, and the generator will
+quickly recharge with a linear voltage increase curve rather than
+exponential.  High-value resistors are expensive, so perhaps use thin
+strips of carbon paper, or use strips of paper with lines of india ink
+(india ink is conductive carbon.) 
+
+Another possibility: insert high voltage diodes rather than resistors. For
+example, use several 7,000-volt microwave oven diodes in series, available
+from Allied Electronics.  Orient the polarity of diodes to allow the
+Inducers to charge but not to discharge.  Diodes in one conductor should
+point upwards, and in the other conductor should point downwards.  This
+way the collectors will charge the inducer rings, but when you discharge
+the collectors, the diodes will turn off and the excess charge on the
+inducer rings will remain high.  Also, the generator polarity would always
+be predictable, since the generator would not function if the polarity
+became reversed.
+
+
+WEIRDNESS: antigravity
+
+If your generator really works well, you will see water droplets slow down
+and their paths curve upwards!  No, this is not antigravity, this is just
+electrostatic repulsion.  Alike charges repel.
+
+WEIRDNESS: really really gigantic generators
+
+In a private conversation someone told me that there were patents on a
+wind generator based upon the Kelvin Generator.  Build two big parallel
+vertical metal screens the size of outdoor movie theater screens (or
+larger).  The upwind screen has coarse mesh, the downwind screen has fine
+mesh to gather water drops.  Suspend them on insulators which are good for
+millions of volts.  Charge the upwind screen with a power supply.  Spray a
+fine mist of water into the screens upwind, and let the wind push the
+spray through the screens.  The upwind screen will attract imbalanced
+charges into the sprayer tips, and the water drops will have an imbalanced
+charge of opposite polarity.  The wind takes the place of gravity in the
+classic Lord Kelvin device.  Wind pushes charged water to the second,
+fine-mesh screen.  Water drops touch this screen and deliver their charge. 
+The wind is slowed by repulsion of the water mist, the upwind screen uses
+no current, and the downwind screen puts out amperes at millions of volts
+potential (megawatts).  Simply step down the megavolts of DC and convert
+it to AC.  Ta da, a wind generator with no moving parts!  An artificial
+thunderstorm, harnessed as a commercial generator, powered by the wind.
+
+
+
+DEBUGGING:
+
+If your project will not work, it may be because the humidity is high and
+your device is having trouble "deciding" which side should be positive and
+which side negative.  See my hints about humidity, found at
+http://amasci.com/emotor/statelec.html.  With Kevin generators
+it takes voltage to make voltage.  If your device starts totally at zero,
+it may take a minute or two to build up to maximum.  Therefor give it a
+goose by holding an electrified object briefly near one of the cans while
+the water is running (for example: a balloon, a 2liter pop bottle, or some
+styrofoam, each rubbed on hair to electrify them.)  This gives the
+generator a "kick start."
+
+AVOID WOOD
+
+Kelvin Generators usually can tolerate fairly high humidity.  Watch out
+though.  Materials with large internal surface area, such as wood, cloth,
+masonite, etc., usually absorb moisture from the air and become slightly
+conductive.  Therefor, assume that these materials are the same as metal,
+and avoid using them as supports or framework when you build this device.
+Wood provides a leakage path and shorts out the high voltage.  One
+experimenter even found that problems were caused by supporting their cans
+with insulating blocks glued to a wooden panel.  The short lengths of
+plastic must not have been sufficiently insulating, and there must have
+been a leakage path across the plastic and through the wood.  Switching to
+all-plastic construction solved their problem.
+
+If acrylic sheets such as plexiglas(tm) or perspex(tm) are not available,
+large styrofoam blocks work well as supports.  Avoid using solvent-based
+glues with styrofoam, it makes it dissolve.  Nylon fishing line makes a
+good insulating support, especially during high humidity conditions. Long,
+very thin supports such as fishing line have small surfaces and therefor
+give less surface leakage than short, fat supports or flat panels.  Don't
+use twine or string as supports, of course, since these materials become
+too conductive when the humidity is high.
+
+If humidity is very high, even plastic can become slightly conductive.
+This can be temporarily fixed by drying the plastic surfaces with a blow
+dryer.  Bathe the plastic in hot air for several minutes, taking care not
+to heat it so much that it softens!  Try testing your generator again, and
+it may begin to work.
+
+To detect the tiniest charge imbalance, build the RIDICOLOUSLY SENSITIVE
+CHARGE DETECTOR shown elsewhere on my web pages. 
+(http://amasci.com/emotor/chargdet.html) This device will
+detect a few hundred volts of electrostatic potential at a great distance
+from the cans.  It is extremely sensitive: the tiniest sparks won't begin
+until the cans reach about 1,000v potential, yet the sensor responds to
+about ten times less.  A sparking Kelvin generator can make the Charge
+Detector flash even if it is many feet away. 
+
+Don't neglect the balloon trick.  If your device doesn't self-start, then
+momentarily hold a charged balloon near one of the cans while the water is
+running.  (Verify that the balloon is really electrified, see if it raises
+your arm-hair when rubbed.  Sometimes humidity is so high that the balloon
+will not aquire an imbalanced charge by rubbing on hair.)
+
+A simple way to detect static charging: place a portable AM radio near the
+device, tune it to a blank station, then touch one of the cans with a
+finger.  If your device is just barely working, there will be an
+imperceptible spark.  But this will make a loud click on the radio!  If
+you wear an AM Walkman headphone radio, it will extend your senses so that
+you can hear the electromagnetic pulses given off by the tiniest spark. 
+Become a "Borg" from Star Trek, with the ability to hear electromagnetic
+impulses via a biointerface to electronic circuitry (Walkman headphones). 
+:)  Try spending the day wearing AM radio headphones tuned to an empty
+station, and you will encounter all sorts of interesting electromagnetic
+"sounds"  in the environment.  You'll hear the "crack" noises of distant
+lightning even when the thunderstorms are too far away to hear the
+thunder.  Electric fences in countryside farms make a periodic click.  The
+overhead wires from electric city busses make all sorts of musical tones. 
+
+
+REFERENCES:
+
+
+  THE PHYSICS TEACHER (magazine), May 1988, pp304-306, The Ting-A-Ling
+  Machine, by Cliff Bettis   (uses mixing bowls)
+
+  THE PHYSICS TEACHER (magazine), February 1972, pp100-101, Electrostatic
+  Lobby Display, by M. Fast   (uses coffee cans)
+
+  Scientific American Magazine  June 1960, THE AMATEUR SCIENTIST, by C. L.
+  Stong
+
+  Inline version of "Kelvin's Thunderstorm" electrostatic generator:
+  http://amasci.com/emotor/ikelv.txt
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-781-3320          freenrg-L taoshum-L vortex-L webhead-L
+

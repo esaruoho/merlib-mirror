@@ -1,0 +1,399 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+  <TITLE>
+    Trajectory Input
+  </TITLE>
+  <STYLE type="text/css">
+    BODY { background: white; color: black }
+    A:link { color: "#0F2FEF" }
+    A:visited { color: "#4F4F4F" }
+  </STYLE>
+</HEAD>
+
+<BODY>
+
+<H2>
+  Trajectory Input
+</H2>
+
+<HR>
+
+<TABLE>
+  <TR>
+    <TD>
+      <A HREF="../../index.html" TARGET="_top">[JBM]</A>
+    </TD>
+    <TD>
+      <A HREF="../ballistics.html" TARGET="_top">[Ballistics]</A>
+    </TD>
+  </TR>
+</TABLE>
+
+<P>
+  <STRONG>Instructions</STRONG>
+</P>
+
+<P>
+  Enter your data in the areas provided below. Select the "Calculate" button 
+  when all fields are filled. Wind direction is perpendicular to the line of 
+  sight, positive values are to  the shooter's right. If the Chronograph 
+  distance is greater than zero, the muzzle velocity is corrected for this
+  distance. If the field is blank, the default (shown in brackets) is used.
+  <BR><BR>
+  Explanation of <A HREF="traj_exp.html" TARGET="RESULTS">terms</A>.
+</P>
+
+<FORM 
+  ACTION="http://www.eskimo.com/~jbm/cgi-bin/jbmtraj.cgi" 
+  METHOD="POST" TARGET="RESULTS">
+
+<INPUT TYPE=HIDDEN NAME="setup_ttl" VALUE="Trajectory Output">
+<INPUT TYPE=HIDDEN NAME="setup_txt" VALUE="#000000">
+<INPUT TYPE=HIDDEN NAME="setup_bgc" VALUE="#FFFFFF">
+<INPUT TYPE=HIDDEN NAME="setup_lnk" VALUE="#0F2FEF">
+<INPUT TYPE=HIDDEN NAME="setup_vlk" VALUE="#4F4F4F">
+<INPUT TYPE=HIDDEN NAME="setup_bkg" 
+  VALUE="http://www.eskimo.com/~jbm/graphics/calcback.png" >
+<INPUT TYPE=HIDDEN NAME="setup_frm"
+  VALUE="http://www.eskimo.com/~jbm/ballistics/traj/traj_dat.html">
+
+<STRONG>
+  Muzzle Velocity
+</STRONG>
+
+<P>
+  <SMALL>
+    Muzzle Velocity (500 to 4500 ft/sec) [3000.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="mv" VALUE="3000.0"> 
+</P>
+
+<P>
+  <SMALL>
+    Chronograph Distance (0 to 100 feet) [10.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="xc" VALUE="10.0"> 
+</P>
+
+<BR>
+
+<STRONG>
+  Bullet
+</STRONG>
+
+<P>
+  <SMALL>
+    BC (<A HREF="../common/bclinks.html" TARGET="RESULTS"> links</A>),
+    (0.010 to 2.0) [0.5]
+  </SMALL>
+  <BR>
+  <INPUT NAME="bc" VALUE="0.5"> 
+</P>
+
+<P>
+  <SMALL>
+    Drag Function [G1]
+  </SMALL>
+  <BR>
+  <SELECT NAME="df" SIZE="1">
+    <OPTION VALUE="1" selected> G1
+    <OPTION VALUE="2"> G2
+    <OPTION VALUE="3"> G5
+    <OPTION VALUE="4"> G6
+    <OPTION VALUE="5"> G7
+    <OPTION VALUE="6"> G8
+    <OPTION VALUE="7"> GL
+    <OPTION VALUE="8"> GI
+  </SELECT>
+</P>
+
+<P>
+  <SMALL>
+    Bullet Weight (5 to 5000 grains) [220.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="wt" VALUE="220.0"> 
+</P>
+
+<BR>
+
+<STRONG>
+  Sights
+</STRONG>
+
+<P>
+  <SMALL>
+    Sight Height (-100 to 100 inches) [1.5]
+  </SMALL>
+  <BR>
+  <INPUT NAME="sh" VALUE="1.5">
+</P>
+
+<P>
+  <SMALL>
+    Sight Offset (-100 to 100 inches) [0.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="so" VALUE="0.0">
+</P>
+
+<BR>
+
+<STRONG>
+  Wind
+</STRONG>
+
+<P>
+  <SMALL>
+    Range Wind Speed (-100 to 100 mph) [0.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="wx" VALUE="0.0">
+</P>
+
+<P>
+  <SMALL>
+    Vertical Wind Speed (-100 to 100 mph) [0.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="wy" VALUE="0.0">
+</P>
+
+<P>
+  <SMALL>
+    Cross Wind Speed (-100 to 100 mph) [10.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="wz" VALUE="10.0">
+</P>
+
+<BR>
+
+<STRONG>
+  Angles
+</STRONG>
+
+<P>
+  <SMALL>
+    Azimuth (-300 to 300 MOA) [0.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="az" VALUE="0.0">
+</P>
+
+<P>
+  <SMALL>
+    Elevation (-300 to 300 MOA) [0.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="el" VALUE="0.0">
+</P>
+
+<P>
+  <SMALL>
+    LOS (-90 to 90 degrees) [0.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="la" VALUE="0.0">
+</P>
+
+<P>
+  <SMALL>
+    Cant (-90 to 90 degrees) [0.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="ca" VALUE="0.0">
+</P>
+
+<BR>
+
+<STRONG>
+  Target
+</STRONG>
+
+<P>
+  <SMALL>
+    Speed (-100 to 100 mph) [10.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="sp" VALUE="10.0">
+</P>
+
+<P>
+  <SMALL>
+    Angle (0 to 180 degrees) [90.0]
+  </SMALL>
+  <BR>
+  <SELECT NAME="sa" SIZE="1">
+    <OPTION VALUE="0"> 0
+    <OPTION VALUE="15"> 15
+    <OPTION VALUE="30"> 30
+    <OPTION VALUE="45"> 45
+    <OPTION VALUE="60"> 60
+    <OPTION VALUE="75"> 75
+    <OPTION VALUE="90" SELECTED> 90
+    <OPTION VALUE="105"> 105
+    <OPTION VALUE="120"> 120
+    <OPTION VALUE="135"> 135
+    <OPTION VALUE="150"> 150
+    <OPTION VALUE="165"> 165
+    <OPTION VALUE="180"> 180
+  </SELECT>
+</P>
+
+<BR>
+  
+<STRONG>
+  Zero
+</STRONG>
+
+<P>
+  <SMALL>
+    Range (10 to 2000 yards) [100.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="rz" VALUE="100.0">
+</P>
+
+<P>
+  <SMALL>
+    Height (-100 to 100 inches) [0.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="zy" VALUE="0.0">
+</P>
+
+<P>
+  <SMALL>
+    Offset (-100 to 100 inches) [0.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="zz" VALUE="0.0">
+</P>
+
+<BR>
+
+<STRONG>
+  Ranges
+</STRONG>
+
+<P>
+  <SMALL>
+    Minimum Range (0 to 1900 yards) [0.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="rn" VALUE="0.0">
+</P>
+
+<P>
+  <SMALL>
+    Maximum Range (100 to 2000 yards) [1000.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="rx" VALUE="1000.0">
+</P>
+
+<P>
+  <SMALL>
+    Range Increment (1 to 500 yards) [100.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="ri" VALUE="100.0">
+</P>
+
+<BR>
+
+<STRONG>
+  Options
+</STRONG>
+
+<P>
+  If correction for azimuth or elevation is chosen the entered values
+  (above) for azimuth and elevation are ignored.
+</P>
+
+<P>
+  <INPUT TYPE=CHECKBOX CHECKED NAME="elc"> 
+  <SMALL>
+    Elevation Correction for Zero Range
+  </SMALL>
+  <BR>
+  <INPUT TYPE=CHECKBOX NAME="azc"> 
+  <SMALL>
+    Azimuth Correction for Zero Range
+  </SMALL>
+</P>
+
+<P>
+  <SMALL>
+    Drop and Windage units
+  </SMALL>
+  <BR>
+  <SELECT NAME="un" SIZE="1">
+    <OPTION VALUE="1" selected>Inches
+    <OPTION VALUE="2">MOA
+    <OPTION VALUE="3">Mils
+  </SELECT>
+</P>
+
+<BR><STRONG>Atmosphere</STRONG>
+
+<P>
+  <SMALL>
+    Temperature (-40 to 140 degrees Fahrenheit) [59.0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="tp" VALUE="59.0"> 
+</P>
+
+<P>
+  <SMALL>
+    Pressure (15 to 40 inches Hg) [29.92]
+  </SMALL>
+  <BR>
+  <INPUT NAME="pr" VALUE="29.92"> 
+</P>
+
+<P>
+  <SMALL>
+    Relative Humidity (0 to 100%) [0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="hu" VALUE="0"> 
+</P>
+
+<P>
+  <SMALL>
+    Altitude (-1000 to 15000 feet) [0]
+  </SMALL>
+  <BR>
+  <INPUT NAME="al" VALUE="0"> 
+</P>
+
+<P>
+  Checking standard conditions at altitude cause the temperature, pressure
+  and humidity to be adjusted for the given altitude, otherwise the air 
+  density is calculated from the temperature, pressure and humidity using 
+  the ICAO Standard Atmosphere.
+</P>
+
+<P>
+  <INPUT TYPE=CHECKBOX NAME="alc"> 
+  <SMALL>
+    Standard conditions at altitude
+  </SMALL>
+</P> 
+
+<P>
+  <INPUT TYPE="SUBMIT" VALUE="Calculate">
+</P>
+
+</FORM>
+
+</BODY>
+</HTML>

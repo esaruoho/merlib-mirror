@@ -1,0 +1,548 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0310.htm
+order: 6684
+reachable_from_entry: false
+images: 20
+internal_links: 0
+extracted: 2026-08-07T05:59:27Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0310.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+<img src="http://WWW.recollectionbooks.com/bleed/images/pixel.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="100" alt="?" />\
+--
+
+> > **Named & nameless, all live in us;\
+> > One & all, they lead us yet:\
+> > Every pain to count for nothing,\
+> > Every sorrow to forget."**
+> >
+> >        *William Morris*
+
+\
+[]()\
+[]()\
+\
+--
+
+**MARCH 10**
+
+HARRIET TUBMAN
+
+<img src="http://lists.village.virginia.edu/sixties/Graphics/Buttons/harriet_sm.gif" data-border="0" data-hspace="10" data-vspace="10" width="118" height="117" alt="?" />\
+Conducted over 300 slaves on the Underground Railroad.\
+
+
+> > > 
+> > >
+> > > ------------------------------------------------------------------------
+> > >
+> > > Thai New Year: THAI ONE ON.
+> > >
+> > > FESTIVAL OF LIFE IN THE CRACKS.
+> > >
+> > > Stavelot, Belgium: CARNIVAL, with a parade led by the "Black Mossis", draped completely in white cloth, with their distinctive masks & long red noses.
+> > >
+> > > ------------------------------------------------------------------------
+> > >
+> > > 
+> >
+> > []()\
+> >
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/barbwire.jpg" data-border="0" data-hspace="10" data-vspace="10" width="230" height="146" alt="?" />\
+> > 1410 -- Wire invented. Now we're connected. []()\
+> > []()\
+> > \
+> > 1582 -- England: Two of Britains best-known magicians, the astrologer Dr John Dee & necromancer Edward Kelley, meet. Dee, when spying abroad for Queen Elizabeth I, signed his letters 007 -- perhaps a prototype for Ian Flemings James Bond?\
+> > <http://groups.yahoo.com/group/WilsonsAlmanac/message/465>\
+> > []()\
+> > \
+> > 1739 -- Horace Walpole & Thomas Gray depart together for the Grand Tour.
+> >
+> > > "The world is a comedy to those that think, a tragedy to those who feel." <http://www.cc.columbia.edu/acis/bartleby/bartlett/260.html>\
+> >
+> > []()\
+> > \
+> > 1772 -- Friedrich von Schlegel (1772-1829) lives. German writer, contemporary of Goethe, Schiller & Novalis, a pioneer in comparative Indo-European linguistics & comparative philology, critic, & philosopher who influenced early German Romantic Movement.\
+> > <http://www.kirjasto.sci.fi/schlegel.htm>\
+> > []()\
+> > \
+> > 1783 -- US: Revolutionary War officers consider refusing to disband until certain "grievances" with Congress are settled, thus bringing the infant U.S. to the verge of civil war. []()\
+> > []()\
+> > \
+> > 1791 -- Got Piles?: John Stone patents the pile driver.
+> >
+> > See Archie Green, "Wobblies, Pile Butts, & Other Heroes: Laborlore Explorations." University of Illinois Press, 1993. Through the lens of a labor folklorist, an examination of John Henry as expressed in visual art.\
+> > <http://www.mudcat.org/thread.cfm?threadid=4018&messsages=16>\
+> > []()\
+> > \
+> > 1812 -- First two cantos of Lord Byron's Childe Harold's Pilgrimage are published, causing a national sensation & immediately establishing the author as a public figure: 
+> >
+> > *"I awoke one morning & found myself famous."* []()\
+> > []()\
+> > \
+> > 1817 -- England: The Blanketeers: Impoverished & hungry handloom weavers & spinners assemble in St Peter's Field, Manchester, each equipped with a blanket for their march to London to present a petition to the Prince Regent. After intimidation from the authorities, only a few reached Macclesfield, & no organised marchers got further than Derby.\
+> > <http://groups.yahoo.com/group/WilsonsAlmanac/message/465>\
+> > []()\
+> > \
+> > 1849 -- US: Lincoln Logs? Beloved & Respected Comrade Leader Abraham Lincoln applies for a patent; only US president to do so. (A device for "buoying vessels over shoals".) []()\
+> > []()\
+> > \
+> > 1875 -- Australia: Eleanor May Moores, pacifist activist, lives. []()\
+> > []()\
+> > \
+> > 1876 -- First coherent message transmitted by telephone.
+> >
+> > > *"Would you like your rugs shampooed today?"*
+> >
+> > []()\
+> > []()\
+> > \
+> > 1883 -- England: Founding of the Women's Co-operative Guild, England.\
+> > <http://groups.yahoo.com/group/WilsonsAlmanac/message/465>\
+> > []()\
+> > \
+> > 1893 -- US: Failed the Grade? New Mexico State University cancels it's first graduation ceremony -- its only graduate, Sam Steele, was robbed & killed last night. <img src="http://www.e-navan.com/brosnan/007%20James%20Bond%20Pierce%20Brosnan%20Web%20Page_files/small_tnd_logo.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="153" height="45" alt="007" />\
+> > []()\
+> > []()\
+> > \
+> > 1898 -- Prominent leaders of the Puerto Rican section of the Cuban Revolutionary Party, Dr. Julio J. Henna & Robert H. Todd, began to correspond with United States President McKinley & Senate in hopes that they would consider including Puerto Rico in whatever intervention is planned for Cuba. Henna & Todd also provided the U.S. government with information about the Spanish military presence on the island. []()\
+> > []()\
+> > \
+> > 1906 --
+> >
+> > > France: Catastrophe de Courrires (Pas-de-Calais). Coal dust explosion kills 1,060 workers in Courrieres, France.
+> > >
+> > > > Over 1,000 die in the worst mining disaster of the 20th century. 45,000 miners go on strike for 55 days against the disastrous working conditions, which the army suppresses.
+> > >
+> > > 
+> > >
+> > >  <http://maitron.org/histoire/chrono/chrono3.htm>\
+> >
+> > []()\
+> > \
+> > 1912 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="30" height="19" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: [Red Emma](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm) has speaking engagements, March 10-April 13, in Grand Rapids, Detroit, Ann Arbor, Milwaukee, Madison, Minneapolis, Omaha, Kansas City, & Lawrence, Kansas.\
+> > []()\
+> > []()\
+> > \
+> > 1913 -- US: Underground Railroad conductor Harriet Tubman dies, New York City.
+> >
+> > > Tubman was closely associated with abolitionist John Brown, & well acquainted with others, including Frederick Douglass, Jermain Loguen, & Gerrit Smith.
+> > >
+> > > She worked closely with Brown, & reportedly missed the raid on Harper's Ferry only because of illness.
+> > >
+> > > <http://www.nyhistory.com/harriettubman/life.htm>\
+> >
+> > \
+> > []()\
+> > \
+> > 1914 -- England: Serious Cleavage? Mary Richardson slashes Velasquez's "Rokeby Venus" in London's National Gallery with a meat cleaver in order "to destroy the most beautiful woman in mythological history" as a response to continued harassment of the suffragettes.\
+> > Source: 'Calendar Riots' []()\
+> > []()\
+> > \
+> > 1916 -- [<img src="http://recollectionbooks.com/bleed/images/dingbats/pixel.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="LEFT" width="1" height="1" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: Mass meeting held in San Francisco to protest [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma)'s Feb. 11 arrest.\
+> > []()\
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/BorisVian.jpg%0B" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="278" height="253" alt="?" />\
+> > 1920 -- <span id="Vian"></span>[Boris Vian](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#VianBoris) lives. Vehemently anti-militarist & a pacifist, best known as an extremely gifted writer & jazz musician. He wrote the novel, *J'irai cracher sur vos tombes (I'll Spit On Your Graves) &, in the mid-1950s, at the time of the Algerian crisis, he wrote popular songs (including "Le dserteur", a french classic chanson). Also by Vian: L'Ecume des jours, L'Herbe rouge, L'Arrache-coeur. [Vian](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#VianBoris) made his antimitilitarism (& scorn for existentialism) plain when he wrote,*
+> >
+> > > "War is a social phenomenon of capital interest because all those who engage in it may earn a pure & complete objectification & thus reach the corpse state ... but war does not provide a solution because often one is not killed."
+> >
+> > Vian went to a preview screening of the film J'irai cracher sur vos tombes. He strongly disapproved of the film's treatment of his work, having battled with the film company for years & having all his own film treatments of the book rejected by the producers. Having forgotten to take his medicine that morning, & very agitated, the experience literally killed him. After ten minutes of attendance, seated in an armchair, he collapsed & died. 
+> >
+> > > [Boris Vian](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#VianBoris) was born at Ville d'Avray in 1920. He was trained as a civil engineer, receiving his diploma in 1942. He was also a jazz trumpeter, film actor, cabaret singer, translator, inventor, record company executive & Transcendent Satrap of the College de Pataphysique. [Vian](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#VianBoris) wrote novels, plays, songs, scenarios & one short opera. His career began with a satirical erotic novel Jirai cracher sur vos tombes (1947), which was seized by police on moral grounds. In 1959, while attending a film version of his novel, which he disliked, he suffered a fatal heart attack.
+> > >
+> > > <img src="http://www.obyron.com/hue00/borisv/vian04.jpg" data-border="0" data-hspace="10" data-vspace="10" width="180" height="240" alt="?" />
+> >
+> > <http://www.toadshow.com.au/rob/vian/vian.htm>\
+> > <http://greenspun.com/boohoo/related.tcl?page_id=boris-vian>\
+> > <http://www.cad.polito.it/~squiller/Heroes/BorisVian.html><http://www.obyron.com/hue00/borisv/cinvit.htm>\
+> > \
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/Encyclopedia/Kronstadt/deadice.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="178" height="120" alt="?" />\
+> > 1921 -- Russia: Attack on Kronstadt, which had rebelled against Bolshevik absolutism, for Free Soviets.alt: Cronstadt\
+> >
+> > > Radiotelegramme to the Workers of all Countries, from the Provisional Revolutionary Committee of Kronstadt:
+> > >
+> > > \
+> >
+> > "Three days ago, the Communists opened fire upon us, & spilled our blood. As we fight for a just cause, we took up the challenge. The garrison & the working population of Kronstadt, which shook the infamous yoke of the Communists, has decided to fight until the end."
+> >
+> > Excellent collection of online texts (Emma Goldman's My Disillusionment in Russia, Ida Mett's The Kronstadt Revolt 1921, & related materials at:\
+> > <http://flag.blackened.net/revolt/russia.html>\
+> > []()\
+> > \
+> > 1923 -- Spain: Salvador Segui Rubinat, "El noi del sucre", assassinated with another trade unionist, Francesc Comes (murders financed by the governor of Catalonia). Born in 1890, Salvador Segui was an anarcho-syndicalist in the very active & popular CNT in Catalonia. Fundacion Salvador Segui now exist in Barcelona, Valencia & Madrid.\
+> > <http://www.anarca-bolo.ch/cira/anarchives.htm>\
+> > []()\
+> > \
+> > 1926 -- Viking Press publishes Sylvia Townsend Warner's Lolly Willowes, or the Loving Huntsman. 
+> >
+> > > The first selection of the newly formed Book-of-the-Month Club, it is unpopular with the club's 4,750 members. She publishes more popular works, including 144 short stories that appear in The New Yorker, novels, poetry, French translations, &, following her original vocation as musicologist, contributions to the 10-volume Tudor Church Music & Grove's Dictionary of Music.
+
+[]()\
+[]()\
+\
+<img src="http://picturebook.nothingness.org/images/1936/14.gif" data-border="1" data-hspace="10" data-vspace="10" width="400" height="264" alt="?" />\
+1937 -- "i wanted nothing & don't want anything to do with order, rank\
+orders & commands. i am as i am, a peasant who learned to read\
+in prison, who experienced pain & death close by, who was an\
+anarchist without knowing it, & today, now that i know, i am even\
+more anarchist than yesterday, when i killed to be free"\
+
+
+From Nosotros, anarchist daily march 1937
+
+<http://picturebook.nothingness.org/pbook/1936/display/35>\
+
+\
+[]()\
+\
+1938 -- Spain: Nationalists begin major offensive in Aragn; the Lincoln Brigades retreat south out of Belchite & are overrun by rebel offensive, with many taken prisoner; the beginning of the Great Retreats. ADD TO SOURCES PAGE <http://www.english.uiuc.edu/maps/scw/chronology.htm>\
+[]()\
+\
+<img src="http://www.morgane.org/pictures/anarred.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="left" data-="" width="141" height="228" alt="?" />\
+1939 -- Armand Guerra dies. Spanish filmmaker & anarchist. Fought fascism with a camera.
+
+As a 20-year old anarchist in France Guerra helps found a film co-operative (two of his films were recently found: "The Old Docker" & "The Commune").
+
+
+
+>  His film "Carne de Fieras" was never released, & thought lost forever, until the negative was discovered & the film released in 1993.
+>
+> \
+> As a journalist, Guerra chronicled his own efforts, & the collected articles constitute an unique view on the Spanish conflict: Through the Grapeshot. 
+>
+> Exhausted, he dies in Paris today, after 20 days in exile.
+>
+> Armand Guerra: Requiem for an Anarchistic Scenario Writer by Ezquiel Fernandez & produced by Zangra productions is a recent video which touches on aspects of his life.
+>
+> See the Anarchist Encyclopedia,\
+> <http://recollectionbooks.com/bleed/Encyclopedia/GuerraArmand.htm>\
+
+\
+
+> > []()\
+> > \
+> > 1942 -- US: Workers in Local 101 win recognition from Brooklyn Union Gas Co.\
+> > <http://www.twu.org/AboutUs/Histories/About.Hist.Lbr.html>\
+> > []()\
+> > \
+> > 1945 -- Japan: US kills 100,000 civilians & leaves 1.5 million people homeless.
+> >
+> > > The most destructive raid of World War II occurrs, with more dead than in Hiroshima & Nagasaki combined.
+> > >
+> > > 
+> > >
+> > > 334 B-29s drop nearly 2,000 tons of incendiaries on Tokyo, destroying large portions of non-military targets in the Japanese capital.
+> > >
+> > > Early in the morning, the B-29s dropped their bombs of napalm & magnesium incendiaries over the packed residential districts along the Sumida River in eastern Tokyo. The conflagration quickly engulfed Tokyos wooden residential structures, & the subsequent firestorm replaced oxygen with lethal gases, superheated the atmosphere, & caused hurricane-like winds that blew a wall of fire across the city. The majority of the 100,000 dead perished from carbon monoxide poisoning & the sudden lack of oxygen, but others died horrible deaths within the firestorm, such as those who attempted to find protection in the Sumida River, & were boiled alive, or those who were trampled to death in the rush to escape the burning city.
+> > >
+> > > <http://www.hwcn.org/~ak109/index.htm>\
+> > > <http://www.cafb29b24.org/history-b29.shtml>\
+> >
+> > []()\
+> > \
+> > 1945 -- Bulgaria: 90 members of the Bulgarian Anarchist Federation meet (or attempt to meet?) in an extraordinary session, seeking ways of resisting the new communist regime (which has closed all meeting places & prohibited the anarchist newspapers), are stopped by the communist militia & sent in concentration camps, where they are tortured & compelled to do forced labor.\
+> >  <http://perso.club-internet.fr/ytak/mars2.html#10>\
+> > []()\
+> > \
+> > 1948 -- US: Zelda Fitzgerald & eight other women killed in sanitarium fire in Asheville, North Carolina. Trapped on the third story, she dies at 48.
+> >
+> > > Zelda's marriage to novelist F. Scott Fitzgerald was successful only while she subordinated her considerable artistic talents to Scott's. When Zelda demanded time & space to develop her dancing & writing, he accused her of egotism & insanity.
+> > >
+> > > After Scott put her in the hospital, Zelda's male psychiatrists declared her ambitions self-deceptions & the good doctors tried to re-educate her as a wife. But Zelda said she saw no difference between institutionalization & marriage, so her husband & doctors effectively imprisoned her.
+> > >
+> > > []()\
+> > >
+> > > Pip Wilson's [Almanac](http://groups.yahoo.com/group/WilsonsAlmanac/message/465) has an animated version of the [paper doll](http://attach6.groups.yahoo.com/v1/EJGLPK8SfY_mS9u0r-3k61XERIAVe4RVsdgc8G0y7p912p94T9jdGwMZNfzu1RyMQdrlAV2_8xdPQlggz5BoNQJyCr0/mar10_fitzgerald-doll_ani.gif) Zelda made of Scott.
+> >
+> > []()\
+> > \
+> > 1951 -- US: Beloved & Respected Comrade Leader President Ike Eisenhower states willingness to launch a first-strike nuclear attack. []()\
+> > []()\
+> > \
+> > 1958 -- US: A B-47 accidentally drops a nuclear bomb on the town of Mars Bluffs, South Carolina. A 50-foot wide crater was dug, & six injured by conventional explosives incorporated in the weapon, but there was no atomic blast. []()\
+> > []()\
+> > \
+> > 1964 -- <span id="Fedeli"></span>Italy: Ugo Fedeli (1898-1964) dies, Ivrea. 
+> >
+> > > Italian anarchist militant, part of the early 'Platformist meetings', fled to uruguay to escape the fascists in the 20s, but was deported back to Italy by the Terra dictatorship c. 1933; imprisoned until 1943; secretary of the Federazione Anarchica Italiana (FAI) c. 1945-1952. Became a librarian in 1951. Author of many publications on anarchism, in particular of bibliographical & biographical studies.
+> > >
+> > > <http://www.iisg.nl/archives/gias/f/10748450.html>\
+> > > <http://flag.blackened.net/revolt/platform/plat_hist_intro.html>\
+> > > <http://www.municipio.re.it/manifestazioni/berneri/fedeli.htm>\
+> >
+> > []()\
+> > \
+> > 1966 -- Holland: Provos smoke bomb the Dutch Royal wedding.anarchist\
+> > <http://pdxnorml.org/HT_provos_0190.html>\
+> > []()\
+> > \
+> > 1966 -- Italy: La polizia di stato arresta a Milano 8 persone per aver diffuso manifesti in cui si rivendica l'uscita dell'Italia dalla Nato e ci si pronuncia a favore dell'obiezione di coscienza.\
+> > [\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta) []()\
+> > []()\
+> > \
+> > 1968 -- US: Csar Chvez breaks his fast at a mass in Delano's public park with 4,000 supporters at his side, including Senator Robert Kennedy. <http://thecity.sfsu.edu/~ccipp/cecresources.html>\
+> > []()\
+> > \
+> > <img src="http://perso.club-internet.fr/ytak/images/macsay_low.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="128" height="88" alt="?" />\
+> > 1972 -- Stephen Mac Say (1884-1972) dies. French anarchist, professor, bee-keeper. Wrote L'cole laque contre l'enfant; De Fourier Godin; Les btes proches de l'homme; Propos sans gards. See [October, 15, 1884.](http://www.eskimo.com/~recall/bleed/1015.htm) <http://perso.club-internet.fr/ytak/mars2.html#10>\
+> > <http://cda.cybertaria.org/l_m.html>\
+> > \
+> > 1974 -- The More Things Change, the More They Remain the Same?: 
+> >
+> > Pennsylvania Crime Commission finds police corruption in Philadelphia "ongoing, widespread, systematic, & occurring at all levels of the Police Department." 
+> >
+> > It also accuses Beloved & Respected Comrade Leader Philadelphia Mayor Frank Rizzo of trying to block its investigation.
+> >
+> > 
+> >
+> > *Clothespin*\
+> > Claes Oldenburg, Philadelphia\
+> > \
+
+<img src="http://recollectionbooks.com/bleed/images/art/Clothespeg.jpg" data-hspace="10" data-vspace="10" data-align="LEFT" width="208" height="350" alt="?" />
+
+> "The streets are safe it is only people who make them unsafe."
+>
+>        former Police Chief & Mayor Frank Rizzo
+>
+> <http://www.mumia.org/>\
+
+[]()\
+\
+1974 -- Philippines: A Japanese soldier is found hiding out on the island of Lubang , believing World War II was still going. You mean it's over?\
+<http://groups.yahoo.com/group/WilsonsAlmanac/message/465>\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/humor/chbrown.jpeg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="216" height="182" alt=" ? " />\
+1975 -- Read'em & Weep?: Dog spectacles patented in England. []()\
+\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/music/punklife.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="222" height="250" alt="?" />\
+1977 -- After EMI nullified contracts with the Sex Pistols, A&M Records signs the band, in front of Buckingham Palace. The group has been banned from airplay & virtually every U.K. concert venue. Nine days later, A&M terminates the deal because of the reputation for attracting violence which the media has pinned on them.
+
+[]()\
+<http://www.geocities.com/CapitolHill/7412/punklinx.html>\
+\
+<http://www.geocities.co.jp/MusicStar/6282/pistols/discography/boot.html>\
+
+
+\
+[]()\
+\
+<img src="http://galileo.jpl.nasa.gov/graphics/pia00600.jpg" data-vspace="10" data-hspace="10" data-align="right" width="241" height="156" />\
+1982 -- The dreaded "Jupiter Effect" occurs, remember?
+
+(Well, no I don't either... http://seds.lpl.arizona.edu/billa/tnp/thumb/jupring.gif\
+<http://photojournal.jpl.nasa.gov/catalog/PIA00489.jpg>\
+\
+
+> []()\
+> \
+> 1985 -- Port Watson: *"No one who loves freedom can hear of Sonsorol without longing, without envy, without nostalgia for something unknown but deeply desired... ANARCHIST*
+>
+> > Sonsorol could be created anywhere -- nothing stands in the way but false consciousness & the grim power of those rulers who feast on false consciousness like vampires. We call for a network of Port Watsons to encircle the Earth: one, two, many, an infinite number of Port Watsons! Let those who envy us transmute their frustration into anger & insurrection, into a determination to enjoy utopia now, not in some never neverland after death or after the Revolution. 
+> >
+> > We reach out to those who yearn for us in the poverty-ridden 'third world,' the ideology-choked 'second world,' & the illusion-riddled 'West' -- & we whisper across thousands of miles to tell them,
+> >
+> > 'Don't despair: Port Watson exists within you, & you can make it real'." []()\
+> > []()\
+> > \
+> > 1985 -- Esotericist & mystic writer Israel Regardie dies. []()\
+> > []()\
+> > \
+> > 1987 -- United Nations recognizes conscientious objection to military service as a human right. []()\
+> > []()\
+> > \
+> > 1988 -- Andy Gibb, youngest of the bros. Gibb who is best remembered for his solo hit "I Just Want To Be Your Everything", dies penniless of a heart virus, Oxfordshire, England. []()\
+> > []()\
+> > \
+> > 1988 -- Tibet: In Lhasa, demonstrations against the Communist regime are put down by Chinese troops.\
+> > <http://groups.yahoo.com/group/WilsonsAlmanac/message/465>\
+> > []()\
+> > \
+> > 1990 -- England: Poll tax riots in Brixton & Swindon -- during the latter, good sense & ingenuity are displayed as cop radios are jammed.\
+> > Source: 'Calendar Riots' []()\
+> > []()\
+> > \
+> > <img src="http://www.wbaifree.org/defendFSR.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="120" height="170" alt="?" />\
+> > 1999 -- US: Microradio movement news accounts on the struggle to free the airwaves: The Texan pirates who are ruling the waves ("Independent", London).\
+> > [\[Source: Pirate Radio Kisok\]](http://recollectionbooks.com/bleed/sources.htm#Cronologia) <http://www.infoshop.org/news6/radio_pirates.php>\
+> > \
+> >
+> > []()\
+> > \
+> > 3000 --
+> >
+> > > "We got preachers dealin' in politics & diamond mines\
+> > > & their speech is growing increasingly unkind\
+> > > They say they are Christ's disciples\
+> > > But they don't look like Jesus to me\
+> > > & it feels like I'm livin' in the wasteland of the free
+> > >
+> > > We got politicians runnin' races on corporate cash\
+> > > Now don't tell me they don't turn around & kiss them people's ass\
+> > > Now you may call me old-fashioned\
+> > > But that don't fit my picture of a true democracy\
+> > > & it feels like I'm living in the wasteland of the free
+> > >
+> > > We got CEO's makin' 200 times the workers' pay\
+> > > But they'll fight like hell against raisin' the minimum wage\
+> > > & if you don't like it Mister\
+> > > They'll ship your job to some third world country 'cross the sea\
+> > > & it feels like I'm livin' in the wasteland of the free
+> > >
+> > > Living in the wasteland of the free\
+> > > Where the poor have now become the enemy\
+> > > Let's blame our troubles on the weak ones\
+> > > Sounds like some kind of Hitler remedy\
+> > > Living in the wasteland of the free
+> > >
+> > > We got little kids with guns fightin' inner city wars\
+> > > So, what do we do, we put these little kids behind prison doors\
+> > > & we call ourselves the advanced civilization\
+> > > But that sounds like crap to me\
+> > > & it feels like I'm livin' in the wasteland of the free
+> > >
+> > > We got high school kids runnin' 'round in Calvin Klein & Guess\
+> > > Who cannot pass a 6th grade reading test\
+> > > But if you ask them, they can tell you\
+> > > The name of every crotch on MTV\
+> > > & it feels like I'm livin' in the wasteland of the free
+> > >
+> > > We kill for oil then we throw a party when we win\
+> > > Some guy refuses to fight & we call that the sin\
+> > > But he's standin' up for what he believes in\
+> > > & that seems pretty damned American to me\
+> > > & it feels like I'm living in the wasteland of the free.
+> > >
+> > > While we sit gloating in our greatness\
+> > > Justice is sinking to the bottom of the sea\
+> > > & it feels like I'm living in the wasteland of the free."
+> > >
+> > > --- Songster Iris DeMent, Wasteland of the Free
+> > >
+> > > <http://www.irisdement.com/>\
+> > > <http://members.aol.com/jarmode/DeMent.html>\
+> >
+> > []()\
+> >
+> > []()\
+> > \
+> > ![](http://www.tmcrew.org/news/nato/tornado.gif)\
+> > 9003 --
+> >
+> > 
+> >
+> > 
+> >
+> > 
+> >
+> > 
+> >
+> >  I bombardamenti effettuati dagli USA dalla fine della Seconda Guerra  Mondiale
+
+
+
+
+
+
+
+
+
+- 
+- Cina 1945-46 
+- Corea 1950-53 
+- Cina 1950-53 
+- Guatemala 1954 
+- Indonesia 1958 
+- Cuba 1959-60 
+- Guatemala 1960 
+- Congo 1964 
+- Peru 1965 
+- Laos 1964-73 
+- Vietnam 1961-73 
+
+
+
+
+
+
+
+- 
+- Cambogia 1969-70 
+- Guatemala 1967-69 
+- Grenada 1983 
+- Libia 1986 
+- Salvador 1980s 
+- Nicaragua 1980s 
+- Panama 1989 
+- Iraq 1991-99 
+- Sudan 1998 
+- Afganistan 1998 
+- Jugoslavia 1999 
+
+
+
+
+
+
+
+
+
+
+
+tratto dal libro di William Blum ***Killing Hope; U.S. military  and C.I.A. interventions since World War II*** 
+
+per una scheda approfondita e accurata degli interventi USA nel  mondo vedi [\
+**A CENTURY OF U.S. MILITARY INTERVENTIONS:** From Wounded Knee to  Yugoslavia](http://www.zmag.org/CrisesCurEvts/interventions.htm) 
+
+
+
+
+
+
+
+<http://www.tmcrew.org/csa/l38/wwi/us_interventions.htm>\
+[]()\
+
+------------------------------------------------------------------------
+
+anti-CopyRite 1997-3000, more or less\
+Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+or send questions, suggestions, additions, corrections to:\
+[BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+
+Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+
+The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+
+anarchist, labor, radical books
+
+See also: Anarchist Encyclopedia\
+http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+Stan Iverson Memorial Library\
+http://recollectionbooks.com/siml/\
+Anarchist Time Line / Chronology\
+http://recollectionbooks.com/bleed/indexTimeline.htm

@@ -1,0 +1,516 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995-7 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Chapter 8: Strings</title>
+<link href="sx7c.html" rev=precedes>
+<link href="sx9.html" rel=precedes>
+<link href="top.html" rev=subdocument>
+</head>
+<body>
+<H1>Chapter 8: Strings</H1>
+
+<p>Strings in C are represented by arrays of characters.
+The end of the string
+is marked with
+a special 
+character, the <dfn>null character</dfn>,
+which is simply the character with the value 0.
+(The null character has no relation except in name to the 
+<dfn>null pointer</dfn>.
+In the ASCII character set, the null character is named NUL.)
+The null or string-terminating character is represented by 
+another character escape sequence, <TT>\0</TT>.
+(We've seen it once already, in the <TT>getline</TT> function 
+of chapter 6.)
+
+</p><p>Because C has no built-in facilities for manipulating entire 
+arrays (copying them, comparing them, etc.),
+it also has very few built-in facilities for manipulating strings.
+</p><p>In fact, C's only truly built-in string-handling is that
+it allows us to use
+<dfn>string constants</dfn> (also called <dfn>string 
+literals</dfn>) in our code.
+Whenever we write a string, enclosed in double quotes, C 
+automatically creates an array of characters for us, 
+containing that string, terminated by the <TT>\0</TT> character.
+
+
+For example, we can declare and define an array of characters,
+and initialize it with a string constant:
+<pre>
+	char string[] = "Hello, world!";
+</pre>
+In this case, we can leave out the dimension of the array, 
+since the compiler can compute it for us based on the 
+size of the
+initializer (14, including the terminating <TT>\0</TT>).
+This is the only case where the compiler sizes a string array 
+
+for us, however; in other cases, it will be necessary that 
+<em>we</em> decide how big the arrays and other data structures 
+we use to hold strings are.
+</p><p>To do anything else with strings, we must typically call functions.
+The C library contains a few basic string manipulation functions,
+and to learn more about strings, we'll be looking at how these 
+functions might be implemented.
+</p><p>
+Since C
+never lets
+us assign entire arrays,
+we use the <TT>strcpy</TT> function to copy one string to another:
+<pre>
+	#include &lt;string.h&gt;
+
+	char string1[] = "Hello, world!";
+	char string2[20];
+
+	strcpy(string2, string1);
+</pre>
+The destination string is <TT>strcpy</TT>'s first 
+argument, so that a call to <TT>strcpy</TT> mimics an 
+assignment expression (with the destination on the left-hand side).
+Notice that we had to allocate <TT>string2</TT> big enough to 
+hold the string that would be copied to it.
+Also, at the top of any source file where we're using the 
+standard library's string-handling functions (such as 
+<TT>strcpy</TT>)
+we must include
+the line
+<pre>
+	#include &lt;string.h&gt;
+</pre>
+which contains external declarations for these functions.
+</p><p>
+Since C won't let us compare entire arrays,
+either,
+we must call a function to do that, too.
+The standard library's <TT>strcmp</TT> function compares two 
+strings, and returns 0 if they are identical, or a negative 
+number if the first string is alphabetically ``less than'' the 
+second string, or a positive number if the first string is 
+``greater.''
+(Roughly speaking,
+what it means for one string to be ``less than'' another
+is that it would come first in a dictionary or telephone book,
+although there are a few anomalies.)
+Here is an example:
+<pre>
+	char string3[] = "this is";
+	char string4[] = "a test";
+
+	if(strcmp(string3, string4) == 0)
+		printf("strings are equal\n");
+	else	printf("strings are different\n");
+</pre>
+This code fragment will print ``strings are different''.
+Notice that <TT>strcmp</TT> does <em>not</em> return a Boolean, 
+true/false, zero/nonzero answer, so it's not a good idea to 
+write something like
+<pre>
+	if(strcmp(string3, string4))
+		...
+</pre>
+because it will behave backwards from what you might reasonably 
+expect.
+(Nevertheless, if you start reading other people's code,
+you're likely to come across conditionals like 
+<TT>if(strcmp(a, b))</TT> or even
+<TT>if(!strcmp(a, b))</TT>.
+The first does something if the strings are unequal;
+the second does something if they're equal.
+You can read these more easily if you pretend for a moment
+that <TT>strcmp</TT>'s name were <TT>strdiff</TT>, instead.)
+</p><p>
+Another standard library function is <TT>strcat</TT>,
+which concatenates strings.
+It does <em>not</em> concatenate two strings together
+and give you a third, new string;
+what it really does is append one string onto the end of another.
+(If it gave you a new string, it would have to allocate memory 
+for it somewhere, and the standard library string functions 
+generally never do that for you automatically.)
+Here's an example:
+<pre>
+	char string5[20] = "Hello, ";
+	char string6[] = "world!";
+
+	printf("%s\n", string5);
+
+	strcat(string5, string6);
+
+	printf("%s\n", string5);
+</pre>
+The first call to <TT>printf</TT> prints ``Hello, '',
+and the second one prints ``Hello, world!'',
+indicating that the contents of <TT>string6</TT> have been tacked 
+on to the end of <TT>string5</TT>.
+Notice that we declared <TT>string5</TT> with extra space,
+to make room for the appended characters.
+</p><p>If you have a string and you want to know its length (perhaps 
+so that you can check whether it will fit in
+some other
+array you've
+allocated for it), you can call <TT>strlen</TT>,
+which returns the length of the string
+(i.e. the number of characters in it),
+not including the <TT>\0</TT>:
+<pre>
+	char string7[] = "abc";
+	int len = strlen(string7);
+	printf("%d\n", len);
+</pre>
+</p><p>Finally, you can print strings out
+with <TT>printf</TT>
+using the <TT>%s</TT> format specifier,
+as we've been doing in these examples already
+(e.g. <TT>printf("%s\n", string5);</TT>).
+</p><p>
+Since a string is just an array of characters,
+all of the string-handling functions we've just seen
+can be written quite simply,
+using no techniques
+
+more complicated than the ones we already know.
+In fact,
+it's quite instructive to look at how these functions might be implemented.
+Here is a version of <TT>strcpy</TT>:
+<pre>
+mystrcpy(char dest[], char src[])
+{
+int i = 0;
+
+while(src[i] != '\0')
+	{
+	dest[i] = src[i];
+	i++;
+	}
+
+dest[i] = '\0';
+}
+</pre>
+We've called it <TT>mystrcpy</TT> instead of <TT>strcpy</TT> 
+so that it won't clash with the version that's already in the 
+standard library.
+Its operation is simple:
+it looks at characters in the <TT>src</TT> string one at a time,
+and as long as they're not <TT>\0</TT>,
+assigns them,
+one by one,
+to the corresponding positions in the <TT>dest</TT> string.
+When it's done, it terminates the <TT>dest</TT> string
+by appending a <TT>\0</TT>.
+(After exiting the <TT>while</TT> loop,
+<TT>i</TT> is guaranteed to have a value one 
+greater than the subscript of the last character in <TT>src</TT>.)
+For comparison, here's a way of writing the same code, using a 
+<TT>for</TT> loop:
+<pre>
+for(i = 0; src[i] != '\0'; i++)
+	dest[i] = src[i];
+
+dest[i] = '\0';
+</pre>
+Yet a third possibility
+is to move the test for the terminating <TT>\0</TT> character
+out of the <TT>for</TT> loop header and into the body of the loop,
+using an explicit <TT>if</TT> and <TT>break</TT> statement,
+so that we can perform the test after the assignment
+and therefore use the assignment inside the loop
+to copy the <TT>\0</TT> to <TT>dest</TT>, too:
+<pre>
+for(i = 0; ; i++)
+	{
+	dest[i] = src[i];
+	if(src[i] == '\0')
+		break;
+	}
+</pre>
+</p><p>(There are in fact many, many ways to write <TT>strcpy</TT>.
+Many programmers like to combine the assignment and test,
+using an expression like <TT>(dest[i] = src[i]) != '\0'</TT>.
+This is actually the same sort of combined operation
+as we used in our <TT>getchar</TT> loop in
+
+chapter 6.)
+</p><p>Here is a version of <TT>strcmp</TT>:
+<pre>
+mystrcmp(char str1[], char str2[])
+{
+int i = 0;
+
+while(1)
+	{
+	if(str1[i] != str2[i])
+		return str1[i] - str2[i];
+	if(str1[i] == '\0' || str2[i] == '\0')
+		return 0;
+	i++;
+	}
+}
+</pre>
+Characters are compared one at a time.
+If two characters in one position differ,
+the strings are different,
+and we are supposed to return a value less than zero
+if the first string (<TT>str1</TT>)
+is alphabetically less than the second string.
+Since characters in C are represented
+by their numeric character set values,
+and since most reasonable character sets
+assign values to characters in alphabetical order,
+we can simply subtract the two differing characters from each other:
+the expression <TT>str1[i] - str2[i]</TT>
+will yield a negative result if the <TT>i</TT>'th character of
+<TT>str1</TT> is less than the corresponding character in <TT>str2</TT>.
+(As it turns out,
+this will behave a bit strangely
+when comparing upper- and lower-case letters,
+but it's the traditional approach,
+which the standard versions of <TT>strcmp</TT> tend to use.)
+If the characters are the same, we continue around the loop,
+<em>unless</em> the characters we just compared were (both) 
+<TT>\0</TT>, in which case we've reached the end of both strings, 
+and they were both equal.
+Notice that we used
+what may at first appear to be an
+infinite loop--the
+controlling expression is the constant 1,
+which is always true.
+
+What actually happens is that
+the loop runs until one of the two <TT>return</TT>
+statements breaks out of it (and the entire function).
+
+Note also that when one string is longer than the other,
+the first test will notice this
+(because one string will contain a real character at the <TT>[i]</TT> location,
+while the other will contain <TT>\0</TT>, and these are not equal)
+and the return value will be computed by subtracting the real 
+character's value from 0, or vice versa.
+(Thus the shorter string will be treated as
+``less than'' the longer.)
+</p><p>Finally, here is a version of <TT>strlen</TT>:
+<pre>
+int mystrlen(char str[])
+{
+int i;
+
+for(i = 0; str[i] != '\0'; i++)
+	{}
+
+return i;
+}
+</pre>
+In this case, all we have to do is find the <TT>\0</TT> that 
+terminates the string,
+and it turns out that the three control expressions of the 
+<TT>for</TT> loop do all the work;
+there's nothing left to do in the body.
+Therefore, we use an empty pair of braces <TT>{}</TT> as the loop 
+body.
+Equivalently, we could use a <dfn>null statement</dfn>,
+which is simply a semicolon:
+<pre>
+for(i = 0; str[i] != '\0'; i++)
+	;
+</pre>
+Empty loop bodies can be a bit startling at first,
+but they're not unheard of.
+</p><p>Everything we've looked at so far has come out of C's standard libraries.
+As one last example, let's write a <TT>substr</TT> function,
+for extracting a substring out of a larger string.
+We might call it like this:
+<pre>
+	char string8[] = "this is a test";
+	char string9[10];
+	substr(string9, string8, 5, 4);
+	printf("%s\n", string9);
+</pre>
+The idea is that we'll extract a substring of length 4, 
+starting at character 5 (0-based) of <TT>string8</TT>,
+and copy the substring to <TT>string9</TT>.
+Just as
+with
+<TT>strcpy</TT>,
+it's our responsibility to declare the destination string
+(<TT>string9</TT>)
+big enough.
+Here is an implementation of <TT>substr</TT>.
+Not surprisingly, it's quite similar to <TT>strcpy</TT>:
+<pre>
+substr(char dest[], char src[], int offset, int len)
+{
+int i;
+for(i = 0; i &lt; len &amp;&amp; src[offset + i] != '\0'; i++)
+	dest[i] = src[i + offset];
+dest[i] = '\0';
+}
+</pre>
+If you compare this code to the code for <TT>mystrcpy</TT>,
+you'll see that the only differences are that characters are
+fetched from <TT>src[offset + i]</TT> instead of <TT>src[i]</TT>,
+and that the loop stops when <TT>len</TT> characters have been copied
+(or when the <TT>src</TT> string runs out of characters,
+whichever comes first).
+</p><p></p><p>In this chapter, we've been careless about declaring the return 
+types of the string functions, and (with the exception of 
+<TT>mystrlen</TT>) they haven't returned values.
+The real string functions do return values,
+but they're of type ``pointer to character,'' which 
+we haven't discussed yet.
+</p><p>
+When working with strings,
+it's important to keep firmly in mind the differences
+between characters and strings.
+We must also occasionally remember the way characters are represented,
+and about the relation between character values and integers.
+</p><p>As we
+have had several occasions to mention,
+
+a character is represented internally as a small integer,
+with a value depending on the character set in use.
+For example, we might find that <TT>'A'</TT> had the value 65,
+that <TT>'a'</TT> had the value 97,
+and that <TT>'+'</TT> had the value 43.
+(These are, in fact, the values in the ASCII character set,
+which most computers use.
+However,
+you don't need to learn these values,
+because the vast majority of the time,
+you use character constants to refer to characters,
+and the compiler worries about the values for you.
+Using character constants in preference to raw numeric values
+also makes your programs more portable.)
+</p><p>As we
+may
+also
+have
+mentioned,
+
+there is a big difference between a character and a string,
+even a string which contains only one character
+(other than the <TT>\0</TT>).
+For example, <TT>'A'</TT> is <em>not</em> the same as <TT>"A"</TT>.
+To drive home this point,
+let's illustrate it with
+
+a few examples.
+</p><p>If you have a string:
+<pre>
+	char string[] = "hello, world!";
+</pre>
+you
+can modify its
+first character by saying
+<pre>
+	string[0] = 'H';
+</pre>
+(Of course, there's nothing magic about the first character;
+you can modify any character in the string in this way.
+Be aware, though,
+that it is not always safe to modify strings in-place like this;
+we'll say more
+about the modifiability of strings
+in a later chapter on pointers.)
+Since you're replacing a character,
+you want a character constant, <TT>'H'</TT>.
+It would <em>not</em> be right to write
+<pre>
+	string[0] = "H";		/* WRONG */
+</pre>
+because <TT>"H"</TT> is a string
+(an array of characters),
+not a single character.
+(The destination of the assignment, <TT>string[0]</TT>,
+is a <TT>char</TT>,
+but the right-hand side is a string;
+these types don't match.)
+</p><p>On the other hand, when you need a string, you must use a string.
+To print a single newline,
+you could call
+<pre>
+	printf("\n");
+</pre>
+It would <em>not</em> be correct to call
+<pre>
+	printf('\n');			/* WRONG */
+</pre>
+<TT>printf</TT> always wants a string as its first argument.
+(As one final example,
+<TT>putchar</TT> wants a single character,
+so <TT>putchar('\n')</TT> would be
+correct,
+and <TT>putchar("\n")</TT> would be
+incorrect.)
+</p><p>We must also remember the difference between strings and integers.
+If we treat the character <TT>'1'</TT> as an integer,
+perhaps by saying
+<pre>
+	int i = '1';
+</pre>
+we will probably <em>not</em> get the value 1 in <TT>i</TT>;
+we'll get the value of the character <TT>'1'</TT>
+in the machine's character set.
+(In ASCII, it's 49.)
+When we do need to find the numeric value of a digit character
+(or to go the other way,
+to get the digit character with a particular value)
+we can make use of the fact that,
+in any character set used by C,
+the values for the digit characters,
+whatever they are, are contiguous.
+In other words,
+no matter what values <TT>'0'</TT> and <TT>'1'</TT> have,
+<TT>'1' - '0'</TT> will be 1
+(and, obviously, <TT>'0' - '0'</TT> will be 0).
+So, for a variable <TT>c</TT> holding some digit character,
+the expression
+<pre>
+	c - '0'
+</pre>
+gives us its value.
+(Similarly, for an integer value <TT>i</TT>,
+<TT>i + '0'</TT> gives us the corresponding digit character,
+as long as 0 &lt;= <TT>i</TT> &lt;= 9.)
+</p><p>Just as the character <TT>'1'</TT> is not the integer 1,
+the string <TT>"123"</TT> is not the integer 123.
+When we have a string of digits,
+we can convert it to the corresponding integer
+by calling the standard function <TT>atoi</TT>:
+<pre>
+	char string[] = "123";
+	int i = atoi(string);
+	int j = atoi("456");
+</pre>
+
+Later
+
+we'll learn how to go in the other direction,
+to convert an integer
+into a string.
+(One way,
+as long as what you want to do is print the number out,
+is to call <TT>printf</TT>,
+using <TT>%d</TT>
+
+in the format string.)
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx7c.html" rev=precedes>prev</a>
+<a href="sx9.html" rel=precedes>next</a>
+<a href="top.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995-1997
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

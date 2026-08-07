@@ -1,0 +1,127 @@
+jessamyn.com what's new
+
+ What's New 
+
+ 24jan02 
+
+moved around some of the barn pages & updated the 
+ faq a bit 
+
+ 05jan02 
+
+ made librarian.net 
+a little more readable 
+
+ 13dec02 
+ updated the Jessamyn 
+West [the author] page 
+
+ 10dec02 
+
+ resume now all CCS-y 
+
+ 18nov02 
+
+ completely redid the Barthelme front page and 
+added two new litcrit articles 
+
+ 13nov02 
+
+ Vermont Film Festival movie 
+list 28oct02 
+
+ updated the look of the naked 
+librarians page and 
+checked all the links. 
+ made a little page for katherinewest.com 
+ 21sep02 
+
+ did a reorg, so if you can't find something, check the 
+ updated index . 
+ added two more stories: Report and Our Work and 
+Why We Do It 
+
+ 11sep02 
+
+having another party 
+
+Greg fixed the mailform script so it now puts in 
+line breaks
+
+ 01sep02 
+
+ Oddbook 
+released to the general public 
+
+ 13aug02 
+ thanks to Jude , I got 
+.htaccess files working on 
+all my image directories to prohibit external linking to 
+my images 
+
+ 16jun02 
+ I am working on a faq 
+
+ 04jun02 
+
+I am having a BBQ in July.
+
+ 03jun02 
+
+ added trivia archive 
+page , to avoid a million separate 
+entries and links
+
+ 29may02 
+
+ two additional trivia weeks: four & 
+ five 
+
+ 16may02 
+
+ two more trivia weeks: three & 
+ two 
+
+ screw copyright, I added four lit crit essays to the 
+barthelme page one , two , 
+ three and four plus a 
+new bio 
+
+ 30apr02 
+
+ new job of sorts, trivia master! 
+here are this weeks 
+questions 
+
+ 27apr02 
+ barthelme essay added to the barthelme page 
+ journey to center of the earth now 
+fixed and functional 
+
+ 26mar02 
+ bad job is encouraging me to update the resume again 
+ tracy kidder page updated and
+improved 
+
+ 10mar02 
+ removed mailto links from the jessamyn
+clearinghouse page 
+
+ 05feb02 
+ did I mention the new 404 page ? 
+
+ 04feb02 
+ the two most frequently updated pages here -- librarian.net and jessamyn.com/journal -- are now stylesheet happy. go-figure. 
+
+ 01feb02 
+ damnit to hell, sloppy overwriting deleted this file, here is what I can remember..... 
+ my two mailto [ 1 , 2 ] forms now have redirects 
+ The! Science! of! Vegetable! Soup! for your cooking pleasure 
+ The Naked Librarians link page got updated 
+
+ 01jan02 
+ added " Librarian at Burning Man " essay 
+ decided that design-y " what's new " pages are for suckers, switched to this format 
+
+ [ old new is here ] 
+[chickenhead gives good cheer ]

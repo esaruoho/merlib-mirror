@@ -1,0 +1,15 @@
+JavaScript presentation for SeaJUG 
+
+ What is JavaScript and why should I care? 
+
+ James Thiele 
+ Presentation to the
+ Seattle Java Users Group 
+
+15 January 1997
+
+ Begin 
+
+The author can be reached via email at 
+ jet@eskimo.com or at his
+home page http://www.eskimo.com/~jet

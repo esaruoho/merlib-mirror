@@ -1,0 +1,29 @@
+#
+# Velocity input file for MPM.
+#
+# Measured (chronographed) velocities are input in this file,
+# one velocity per line.  If you don't want to use this capability
+# don't worry about this file.  Just remove any reference to it in
+# your options file, and enter the muzzle velocity in the 
+# trajectory file.
+#
+# NOTE: Option "correct_velocity" must be set for this file to be
+# used.
+#
+# To specify a velocity file to be used with a trajectory 
+# calculation, insert the name of the file into the options file 
+# or on the commandline with the "-s" option.
+#
+# Lines beginning with a "#" are comments.  Similarly,
+# from a "#" to the end of a line is a comment.
+#
+
+# VELOCITIES
+#
+velocity_data = 3010.0
+velocity_data = 3011.0
+velocity_data = 3012.0
+velocity_data = 3013.0
+velocity_data = 3014.0
+velocity_data = 3015.0
+

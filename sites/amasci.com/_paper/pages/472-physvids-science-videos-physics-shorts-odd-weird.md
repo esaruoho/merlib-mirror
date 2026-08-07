@@ -1,20 +1,20 @@
 ---
 title: "PHYSVIDS: Science videos physics shorts: odd & weird"
 source_domain: amasci.com
-source_path: physvids/18.html
+source_path: physvids/19.html
 order: 472
 reachable_from_entry: true
 images: 2
-internal_links: 16
-extracted: 2026-08-03T18:12:04Z
+internal_links: 17
+extracted: 2026-08-07T05:53:32Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # PHYSVIDS: Science videos physics shorts: odd & weird
 
-*Source page: `physvids/18.html`*
+*Source page: `physvids/19.html`*
 
-<table data-summary="nav links, google search window" width="100%" height="77">
+<table height="77" data-summary="nav links, google search window" width="100%">
 <colgroup>
 <col style="width: 50%" />
 <col style="width: 50%" />
@@ -62,7 +62,7 @@ extractor: site_to_paper.py (pandoc)
 <td style="text-align: left;" width="180" data-valign="top" data-summary="google ad"><pre><code></code></pre></td>
 <td data-summary="spacer" width="15" data-valign="top"> </td>
 <td data-valign="top" data-summary="bizarre science videos" width="660"><h1 id="billbs-odd-physics-video-archive">Billb's ODD PHYSICS VIDEO ARCHIVE</h1>
-<p>     <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/19.html">&lt;PREV</a>   <a href="http://amasci.com/amateur/physvids.html">21</a>   <a href="http://amasci.com/physvids/20.html">20</a>   <a href="http://amasci.com/physvids/19.html">19</a>   18   <a href="http://amasci.com/physvids/17.html">17</a>   <a href="http://amasci.com/physvids/16.html">16</a>   <a href="http://amasci.com/physvids/15.html">15</a>   <a href="http://amasci.com/physvids/14.html">14</a>   <a href="http://amasci.com/physvids/13.html">13...</a>   <a href="http://amasci.com/physvids/17.html">NEXT&gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
+<p>     <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/20.html">&lt;PREV</a>   <a href="http://amasci.com/amateur/physvids.html">21</a>   <a href="http://amasci.com/physvids/20.html">20</a>   19   <a href="http://amasci.com/physvids/18.html">18</a>   <a href="http://amasci.com/physvids/17.html">17</a>   <a href="http://amasci.com/physvids/16.html">16</a>   <a href="http://amasci.com/physvids/15.html">15</a>   <a href="http://amasci.com/physvids/14.html">14</a>   <a href="http://amasci.com/physvids/13.html">13...</a>   <a href="http://amasci.com/physvids/18.html">NEXT&gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
 </p>
 <hr />
 <div class="iframe">
@@ -90,7 +90,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Bohemian Rhapsody renormalized!
+Electric current, but not electrons
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -105,7 +105,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Physvids? Biolvids!
+Submerged blast, watch the cavitation "inchworm" its way downwards
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -120,7 +120,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Balls
+Mister Bean vs. VandeGraaff vs. Benny Hill.
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -135,7 +135,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Inverse bubblevomit world
+via <a href="http://fuckyeahfluiddynamics.tumblr.com/" rel="nofollow">Fsck Yeah Fluid Dynamics</a>
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -150,7 +150,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Powers your WHOLE HOUSE ...on a crapload of hidden triple-A batteries.
+U been foaaaaamed
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -165,7 +165,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Needed: 256-channel ultrasound source, beanbag chair.
+popping, <a href="http://karmadecay.com/r/oddlysatisfying/comments/25a8dv/water_balloon_mushroom_explosion_xpost_from/" rel="nofollow">via reddit</a>
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -180,7 +180,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Cool effect: retroreflector screen &amp; stereo 3D
+No 10KV power supply needed!
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -195,8 +195,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-DAS RAD! DAS RAD! What, though, will be our "wheel2?" "fire-II?"
-<pre><code>
+&#10;<pre><code>
 &#10;</code></pre>
 <hr />
 <div class="iframe">
@@ -210,7 +209,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Google up some "pyrolytic graphite" from scitoys, KJM, United Nuclear
+Fluoresceeeeeeen!
 <pre><code>
 &#10;</code></pre>
 <hr /></td>
@@ -237,9 +236,9 @@ Google up some "pyrolytic graphite" from scitoys, KJM, United Nuclear
 
 \
 
-     [\< \<](http://amasci.com/amateur/physvids.html)   [\<PREV](http://amasci.com/physvids/19.html)   [21](http://amasci.com/amateur/physvids.html)   [20](http://amasci.com/physvids/20.html)   [19](http://amasci.com/physvids/19.html)   18   [17](http://amasci.com/physvids/17.html)   [16](http://amasci.com/physvids/16.html)   [15](http://amasci.com/physvids/15.html)   [14](http://amasci.com/physvids/14.html)   [13...](http://amasci.com/physvids/13.html)   [NEXT\>](http://amasci.com/physvids/17.html)   [\> \>](http://amasci.com/physvids/1.html)  \
+     [\< \<](http://amasci.com/amateur/physvids.html)   [\<PREV](http://amasci.com/physvids/20.html)   [21](http://amasci.com/amateur/physvids.html)   [20](http://amasci.com/physvids/20.html)   19   [18](http://amasci.com/physvids/18.html)   [17](http://amasci.com/physvids/17.html)   [16](http://amasci.com/physvids/16.html)   [15](http://amasci.com/physvids/15.html)   [14](http://amasci.com/physvids/14.html)   [13](http://amasci.com/physvids/13.html)   [12...](http://amasci.com/physvids/12.html)   [NEXT\>](http://amasci.com/physvids/18.html)   [\> \>](http://amasci.com/physvids/1.html)  \
 
-<http://amasci.com/physvids/18.html>\
+<http://amasci.com/physvids/19.html>\
 Created and maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\
 
 <div class="statcounter">

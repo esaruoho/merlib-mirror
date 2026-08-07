@@ -1,0 +1,157 @@
+---
+title: "Some Observations on the Titan Intelligence Test"
+source_domain: amasci.com
+source_path: ~miyaguch/titandata/gradynorm.html
+order: 5120
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T05:58:09Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Some Observations on the Titan Intelligence Test
+
+*Source page: `~miyaguch/titandata/gradynorm.html`*
+
+## Some Observations on the Titan Intelligence Test
+
+by Grady M. Towers\
+Published with permission from the author
+
+ 
+
+The Titan is a mental ability test constructed by Ronald K. Hoeflin, Ph.D., which was published in the April 1990 issue of *Omni* magazine. It was designed to measure into the stratosphere of mental ability, and it succeeded. For educated native speakers of English, this is unquestionably among the most difficult tests of crystallized intelligence ever constructed. It has virtually as much top as the Mega Test, another super-high level IQ test also constructed by Dr. Hoeflin, which in turn had more top than every conventional test with which it has been compared. The following is a synopsis of the Titan's most important properties.
+
+A stratified sample of 120 was chosen from a 500 subject persons x items score matrix and subjected to item analysis. Four unacceptable items were discovered. Item characteristic curves for items 2, 4, 16 and 33 were found to be defective. Nevertheless, despite these minor imperfections, the test as a whole was found to have a Kuder-Richardson formula twenty reliability of 0.952, which is excellent and compares favorably with the very best mental ability tests in existence. (The odd-even split-half reliability of 0.965 was also found.)
+
+This sample of test scores provided the following test parameters.
+
+<div align="center">
+
+|                    |     |              |
+|-------------------:|-----|--------------|
+|               Mean | =   | 14.416667    |
+| Standard Deviation | =   | 11.496799    |
+|               Skew | =   | 0.86369386   |
+|           Kurtosis | =   | -0.096271073 |
+
+</div>
+
+The skew and kurtosis indicate that this distribution has a long tail to the right, and that the curve is flatter on top than a normal curve. In fact, this curve departs so strongly from a normal curve that the data can be modeled better by a Type I Pearson curve. As this curve is an excellent method for smoothing data and calculating percentiles, its equation is given here.
+
+<img src="gradynorm1.gif" width="197" height="53" />
+
+Y<sub>0</sub> = 3.0427412\
+A<sub>1</sub> = 13.533031\
+A<sub>2</sub> = 37.770376\
+M<sub>1</sub> = -0.24251726\
+M<sub>2</sub> = 1.1141168
+
+Here is how this equation works. X is the raw score minus the mean of the distribution, i.e., the raw score - 14.416667. When this value is substituted into the equation, the calculation will estimate the number of individuals expected at that raw score out of a sample of 120. By adding up the number expected at each raw score from 1 to the score in question, and dividing by 120, it's possible to find the smoothed percentile with reference to the norming group for that raw score. Alternatively, a Simpson approximation may be used.
+
+A proper factor analysis can only be done when a test is analyzed along with a half dozen or more other tests. Nevertheless, some appreciation can be gained of a test's factor structure by breaking it up into subtests, finding their correlations, and factor analyzing them. Consequently, the Titan was divided into four subtests designated Verbal I (1 - 12), Verbal II (13 - 24), Spatial (25 - 36), and Numerical (36 - 48), their correlations found, and the following factor analysis performed.
+
+ 
+
+**Unrotated Principal Component Analysis of the Titan**
+
+<div align="center">
+
+|            |        |        |         |        |                       |
+|:----------:|:------:|:------:|:-------:|:------:|:---------------------:|
+|            | **I**  | **II** | **III** | **IV** | **h**<sup>**2**</sup> |
+|  Verbal I  | 0.852  | 0.491  |  0.108  | -0.145 |           1           |
+| Verbal II  | 0.890  | 0.256  | -0.322  | 0.195  |           1           |
+|  Spatial   | 0.861  | -0.364 |  0.296  | 0.198  |           1           |
+|   Number   | 0.891  | -0.374 | -0.066  | -0.248 |           1           |
+| Eigenvalue |  3.05  |  .57   |   .21   |  .16   |                       |
+|            | 76.35% | 14.45% |  5.18%  | 4.01%  |                       |
+
+</div>
+
+ 
+
+Factor analysis is intended to simplify data, so factor analysts typically discard one or more factors as being statistically insignificant. By a strict mathematical test, there is only one significant factor here, which is represented by the g loadings found in the first column. A less stringent criterion -- which this investigator prefers -- is to discard all factors accounting for ten percent or less of the total test variance. In which case there are two significant factors here: the g loadings in the first column, and a verbal/non-verbal bifactor in the second column.
+
+The general factor accounts for slightly more than 76 percent of the total test variance. Loadings on g rarely exceed 0.8 on even the best tests, so these numbers are unusually good. The same g loadings discovered by common factor analysis (principle factors), another factor method used in psychometrics, were found to be Verbal I = 0.79, Verbal II = 0.86, Spatial = 0.80, and Numerical = 0.86.
+
+The positive versus negative loadings on factor II, the Verbal/Non-Verbal bifactor, suggest that the first 24 items differ in some important way from the second 24. Therefore, the following convention was established: the first 24 items were designated a Verbal subtest, and the second 24 as a Non-Verbal subtest. Next, item difficulties were designated hard if they fell within the 0.01 to 0.33 range, medium if within the 0.34 to 0.66 range, and easy if greater than 0.67. These conventions permitted the following frequency table to be constructed.
+
+<div align="center">
+
+|        |            |                |
+|:------:|:----------:|:--------------:|
+|        | **Verbal** | **Non-Verbal** |
+|  Hard  |     10     |       17       |
+| Medium |     13     |       7        |
+|  Easy  |     1      |       0        |
+
+</div>
+
+These data show three things. First, that the Titan has too few easy items, and therefore has insufficient bottom for this sample. Second, that there are twice as many easy and medium verbal items than easy and medium non-verbal ones. (14 versus 7) And third, that there are many more hard non-verbal items than there are hard verbal ones. In essence, the Titan is a very hard test that is mostly verbal in its lower range, and mostly non-verbal in its upper range. That means that people who score very high on this test are not only more intelligent than those who score low, but also show a qualitative difference in their mental abilities as well.
+
+How well do Titan raw scores compare with those from the Mega Test? From the following it can be seen that the Titan has much less floor than the Mega Test, but almost as much top. Bear in mind that owing to relatively small sample sizes, these norms are subject to sampling fluctuations, and the small difference found for these test ceilings are probably meaningless. The same is not true of the test floors. The difference there is clearly too large to be accounted for by sampling variability.
+
+<div align="center">
+
+|           |          |     |           |          |     |           |          |
+|-----------|----------|-----|-----------|----------|-----|-----------|----------|
+| **Titan** | **Mega** |     | **Titan** | **Mega** |     | **Titan** | **Mega** |
+| (-5)      | 1        |     | 15        | 18       |     | 35        | 35       |
+| (-4)      | 2        |     | 16        | 19       |     | 36        | 36       |
+| (-3)      | 3        |     | 17        | 20       |     | 37        | 37       |
+| (-1)      | 4        |     | 19        | 21       |     | 39        | 38       |
+| \(0\)     | 5        |     | 20        | 22       |     | 40        | 39       |
+| 1         | 6        |     | 21        | 23       |     | 41        | 40       |
+| 2         | 7        |     | 22        | 24       |     | 42        | 41       |
+| 3         | 8        |     | 23        | 25       |     | 43        | 42       |
+| 5         | 9        |     | 24        | 26       |     | 44        | 43       |
+| 6         | 10       |     | 26        | 27       |     | 46        | 44       |
+| 7         | 11       |     | 27        | 28       |     | 47        | 45       |
+| 8         | 12       |     | 28        | 29       |     | 48        | 46       |
+| 9         | 13       |     | 29        | 30       |     | \(49\)    | 47       |
+| 10        | 14       |     | 30        | 31       |     | \(50\)    | 48       |
+| 12        | 15       |     | 31        | 32       |     |           |          |
+| 13        | 16       |     | 33        | 33       |     |           |          |
+| 14        | 17       |     | 34        | 34       |     |           |          |
+
+</div>
+
+ 
+
+Establishing norms for the Titan is very difficult owing to a lack of high level conventional tests with which to compare it. The best that can be done with available data is to find a bridge with the old SAT. This is complicated by the distortion introduced by the Titan's high floor, but after discarding all SAT scores below 1175 (seven data pairs), the following score equivalence can be found.
+
+<div align="center">
+
+|           |         |     |           |         |     |           |          |
+|-----------|---------|-----|-----------|---------|-----|-----------|----------|
+| **Titan** | **SAT** |     | **Titan** | **SAT** |     | **Titan** | **SAT**  |
+| 1         | 1175    |     | 17        | 1381    |     | 33        | 1587     |
+| 2         | 1188    |     | 18        | 1394    |     | 34        | 1600     |
+| 3         | 1200    |     | 19        | 1407    |     | 35        | \(1613\) |
+| 4         | 1213    |     | 20        | 1419    |     | 36        | \(1625\) |
+| 5         | 1226    |     | 21        | 1432    |     | 37        | \(1638\) |
+| 6         | 1239    |     | 22        | 1445    |     | 38        | \(1651\) |
+| 7         | 1252    |     | 23        | 1458    |     | 39        | \(1664\) |
+| 8         | 1265    |     | 24        | 1471    |     | 40        | \(1677\) |
+| 9         | 1278    |     | 25        | 1484    |     | 41        | \(1690\) |
+| 10        | 1291    |     | 26        | 1497    |     | 42        | \(1703\) |
+| 11        | 1303    |     | 27        | 1510    |     | 43        | \(1716\) |
+| 12        | 1316    |     | 28        | 1522    |     | 44        | \(1729\) |
+| 13        | 1329    |     | 29        | 1535    |     | 45        | \(1741\) |
+| 14        | 1342    |     | 30        | 1548    |     | 46        | \(1754\) |
+| 15        | 1355    |     | 31        | 1561    |     | 47        | \(1767\) |
+| 16        | 1368    |     | 32        | 1574    |     | 48        | \(1780\) |
+
+</div>
+
+Notice that approximately one quarter of the Titan raw scores exceed a perfect score of 1600 on the old SAT.
+
+It should also be noted that anyone who scores above 44 on this test is within one standard error of the difference of a perfect score, and consequently this test has insufficient top for such a subject.
+
+We pick pebbles at a boundless ocean.
+
+ 
+
+Return to the [Uncommonly Difficult I.Q. Tests](http://www.eskimo.com/~miyaguch/hoeflin.html) page.

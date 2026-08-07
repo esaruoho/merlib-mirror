@@ -1,0 +1,156 @@
+UFO SCOPE                                         (c)1996 William Beaty
+
+Needed:
+ - Binoculars
+ - Small solar cell
+ - Audio amplifier
+ - Headphones
+
+Something I always wondered about regarding UFO sightings.  Say its night,
+and you see a light in the distant sky.  Is it really an airplane?  Or
+suppose it's behaving oddly, performing manouvers impossible for an
+aircraft, etc.  Is the light coming from that object similar to that of an
+ordinary 120V AC lightbulb?  Specifically, is the light amplitude of that
+object pure and smooth DC?  After all, nearly all manmade light sources
+are modulated as a result of their AC power supplies, so their brightness
+is vibrating with audio frequency.  Connect a solar cell to an audio
+amplifier, hold it under an incandescent bulb, and you'll hear MMMMMMMMMM
+at 120Hz.  Therefor we should ask: what sort of vibration might be imposed
+on those distant and mysterious lights in the sky, hmm?
+
+As a kid with an electronics hobby I once taped a selenium solar cell to
+the eyepiece of a small 50X telescope, routed it to an audio amplifier,
+then pointed it at distant light sources at night while listening to the
+signal.  Incandescent streetlights give a deep hum, their AC light output
+is a pure 120hz sine wave.  Mercury and sodium vapor bulbs are nonlinear,
+they give a complex 120hz waveform that sounds like WHAANNNNNNNNN.  Neon
+signs sound different, with a squealy high frequency buzz component to
+their 120hz fundamental.  Automobile headlights are DC, so I never tried
+viewing them.  Recently I saw an article by (I think) Don Lancaster which
+mentioned that headlights are modulated by car vibrations, so I checked it
+out and yes, car headlights give off a continuous soft gonging sound even
+on smooth highways.  Their filaments vibrate, and different cars give
+different pitches of "bell" sounds.  Aircraft strobes are easy to detect
+as a loud clicking.  Other aircraft lights *may* have a standard 800Hz
+modulation (from their 400Hz supplies), but it wasn't loud enough to hear
+from distant aircraft lights.  Perhaps the thermal inertia of their
+filaments tends to filter out any high frequencies, whereas 60Hz is slow
+enough to be "broadcast" by light bulb filaments.  Maybe with a low noise
+detector and some bandpass filtering, the 800Hz of aircraft lights could
+be sensed.
+
+I put together a better viewer recently.  Binoculars provide a "sighting
+scope," even when one eyepiece is occupied by a photocell.  A Seimens
+BPW34 P.I.N. photodiode and a low-noise opamp front end gives a bit more
+gain than my selenium cell.  Headphones give much better low frequency
+response than a speaker. And the whole thing can be battery powered and
+duct-taped to a set of large-aperature nighttime binoculars.  Any light
+source seen by your eye through one side of the binocs will be heard as
+optically demodulated audio picked up by the other side. 
+
+-------------------------------------------------------------------------
+
+                              220K        Use 9V battery as power supply
+                    ____/\/\/\______ 
+                   |                |       +9V to opamp + pwr (pin 7)
+         BPW34     |   |\           |       Gnd to opamp - pwr (pin 4)
+  (+)______|/|_____|___|-  \        |
+           |\|         |     \______|____(out)
+                     __|+  /  TL071       
+                    |  |/                 probably needs a capacitor in
+     (+)___/\/\/\___|___/\/\/\_           series with the output (10uF)
+            47K         47K    |
+                               |
+                               V gnd
+
+
+         My "I to V" Photodiode Lo-noise Front End
+
+
+-------------------------------------------------------------------------
+
+The above is a Current to Voltage converter circuit: if a 10 microamp
+signal comes from the photodiode, then a 2.2v signal will appear at the
+opamp output pin.  The input is DC coupled for good lo-freq response. 
+However, bright lights will overload the circuit.  Here's an AC-coupled
+version: 
+                                      ____/\/\/\______ 
+                                     |                |
+       BPW34            .1uF         |   |\           |
+  (+)____|/|_____.______| |__________|___|-  \        |
+         |\|     |      | |              |     \______|____
+                 /                     __|+  /
+                 \                    |  |/
+            10K  /     (+)___/\/\/\___|___/\/\/\_
+                 \                               |
+                 |                               |
+                 V                               V
+                gnd                             gnd
+
+I powered mine with a single 9V battery.  The output signal will ride on
+4.5VDC, so you might need to put a capacitor in series with the output to
+block the DC (my audio amp already had a capacitor in series with the
+input.)  Either that, or use two 9V batteries as a standard bipolar
+supply, and ground the (+) input pin of the op amp.
+
+If you build this "UFO Scope," definitely make a point to use it quite
+a bit before going hunting for "craft."  You want to become familiar with
+the sounds of all conventional light sources, including lamps, headlights,
+aircraft, fires, and if you manage to crank the gain high enough, the
+twinkle patterns of various stars.  That way you'll be able to point the
+device at the local version of "Marfa Lights" and either say "yeah, sure,
+it's just headlights," or possibly "holy $#!%!, the aliens modulate their
+ship-lights for voice communications!"   Spa fon!   :)
+
+To greatly increase the sensitivity (by maybe 100x), replace the BPW34
+with a phototransistor.  I haven't tried this myself, so I can't recommend
+any particular phototransistor to try.  Find one with a large active area
+if possible.
+
+Another idea: build two sensors, install them in both eyepieces, and send
+the signals to stereo headphones.  Then put an IR filter over one lens,
+and no filter (or an IR-cut filter) over the other (or perhaps magenta
+on one, and green on the other).  This would be harder to aim, but it
+would let you hear the colors of the light as stereo information.  If the
+light source was changing colors, this might sound very interesting.  At
+the very least, it would give you more clues for recognizing mundane light
+sources.  Incandescent lights would be loud in the IR earpiece, while merc
+vapor lights would not.
+
+If one of these audio photosensor circuits was attached to the eyepiece of
+a large telescope, would any interesting sounds be received?  For example,
+the flame of a candle *sounds* like the low rush of a burning candle.  If
+the nucleus of a comet has wailing gas jets, occasional explosions,
+vibrating plasma, etc., perhaps some of the comet's reflected light will
+become modulated, and the original sounds in the comet's atmosphere could
+be extracted by the telescope and photodetector.  If the gain could be
+raised by orders of magnitude, it might become possible to monitor the
+moon at new phase, and pick up tiny signals of lunar meteor strikes. 
+Their brief flashes would sound like clicks. Star-twinkle, if it contains
+moving interference fringes, might do more than make rumbles and thumps,
+it might ping or squeak.  Lunar occultation of stars also might create
+brief audio tones because of interference patterns.  And if significant
+numbers of amateurs start listening to the sky as well as watching it,
+perhaps unexplainable noises will lead to new discoveries for conventional
+(non-fringe!)  science. 
+
+So far I've not encountered any mysterious lights.  I have found that my
+single opamp stage doesn't give enough gain to "hear" the dimmest of the
+light sources without burying them in noise, so it's time to modify the
+thing.  Extra gain stages, bigger initial gain resistor, a few tens of
+picofarads across the gain resistor to prevent oscillation, maybe a
+phototransistor replacing the photodiode to give higher front-end gain,
+and perhaps sacrifice low-freq response by making it AC coupled, so bright
+lights won't drive the opamp's output to the rails.
+
+The Marfa Lights:
+http://www.urbanlegends.com/science/marfa_lights.html
+
+Diode Optical Receiver:
+http://www.qsl.net/k3pgp/Construction/Frontend/frontend.htm
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                             SCIENCE HOBBYIST website
+billb@eskimo.com                             http://www.eskimo.com/~billb
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-781-3320          freenrg-L taoshum-L vortex-L webhead-L

@@ -1,0 +1,938 @@
+#!/usr/local/bin/perl5 -T
+
+$rcsid='$Id: condorcet.cgi 1.12 1996/12/29 07:32:56 robla Exp robla $';
+
+# $Log: condorcet.cgi $
+# Revision 1.12  1996/12/29  07:32:56  robla
+# Made it consistent with Eskimo North
+#
+# Revision 1.11  1996/12/29  07:05:24  robla
+# Added Steve Eppley's suggestions (votes against fix & summary, colors)
+#
+# Revision 1.10  1996/07/21  10:37:09  robla
+# Added support for multiple ballots on a single line, and ranking multiple
+# candidates as peers.
+#
+# Revision 1.9  1996/07/21  07:14:16  robla
+# Added comments and cleaned up for Perl Journal
+#
+# Revision 1.8  1996/07/16  05:53:00  robla
+# Added comments, fixed Smith Set calculation
+#
+# Revision 1.7  1996/05/28  07:12:41  robla
+# Added Smith Set calculation
+#
+# Revision 1.6  1996/05/25  05:49:18  robla
+# Finished off modularization
+#
+# Revision 1.5  1996/05/23  04:59:57  robla
+# Added election_standings object
+#
+# Revision 1.4  1996/05/21  07:18:19  robla
+# Created election_data object
+#
+# Revision 1.3  1996/05/21  05:10:35  robla
+# A little more modularizing
+#
+# Revision 1.2  1996/05/17  06:21:34  robla
+# Started modularization
+#
+# Revision 1.1  1996/05/10  04:42:14  robla
+# Initial revision
+#
+# Revision 1.1  1996/02/18 20:05:20  robla
+# Initial revision
+#
+# Revision 0.2  1995/12/31 13:29:33  robla
+# Added comment capability to vote data
+# Now truly "Condorcet complient" (thanks Mike O.)
+# Now handles tie elections correctly (rather than arbitrarily picking a winner)
+#
+# Revision 0.1.1.1  1995/12/22  04:02:38  robla
+# Added more comments
+#
+# Revision 0.1  1995/12/22  02:46:22  robla
+# First version.  The tie-breaker still incorrectly calculates worst
+# defeat by votes for, rather than votes against.
+#
+#    condorcet.cgi - tallies ranked preference ballots using
+#                    Condorcet's method
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#    For more information about this program, check out my home page
+#    at <URL:http://www.eskimo.com/~robla>, or email me (Rob Lanphier
+#    <robla@eskimo.com>) for what the web page doesn't answer.
+#
+#    See $helpstring below for more details.
+
+#
+# Setup environment
+#
+
+$ENV{'PATH'} = "/bin:/usr/bin:/usr/lib";
+$ENV{'IFS'} = "";
+
+
+BEGIN {
+     unshift(@INC,'/usr/public/www/cgi-bin');
+}
+use CGI;
+
+###########################################################################
+
+#  MAIN PROGRAM
+
+###########################
+
+
+
+# This value can be adjusted as needed
+$maxcandnum=200;
+
+# Initialize list of bad candidates
+@badcand=();
+@badvote=();
+
+$query = new CGI;
+$edata = new election_data;
+$edata->load_candidates($query->param('candlist'));
+$edata->pairwise_tally($query->param('votelist'));
+$standings = new election_standings($edata);
+$standings->compute_wlt($edata);
+$standings->rank_copeland($edata);
+$standings->calc_smith_set($edata);
+$condorcet_results=new Condorcet($edata, $standings);
+$copeland_results=new Copeland($edata, $standings);
+print_header();
+print_raw_results($edata, $standings);
+print_results($edata, $standings, $condorcet_results, $copeland_results);
+
+###########################################################################
+
+package ballot_obj;
+
+###########################
+
+sub new {
+    my $self={};
+    my ($type, $edata, $ballotstring) = @_;
+
+    # Strip comments
+    $ballotstring=~s/#.*$//;			
+    
+    # Ignore blank lines.
+    if ($ballotstring=~/^\s*$/)	{
+	return ();
+    }
+    
+    # Strip quantity, if specified
+    if ($ballotstring=~s/^\s*(\d+)\s*:\s*//) {
+	$self->{'quantity'}=$1;
+    } else {
+	$self->{'quantity'}=1;
+    }
+    # Ignore lines with bad characters in them
+    if ($ballotstring=~/[^\d>=\s]/) {
+	$edata->add_badvote("Bad Formatting: $ballotstring");
+	return 0;
+    }
+
+    my(@checklist)=split(/[>=]/, $ballotstring);
+    if(grep(($_>$main::maxcandnum),@checklist) != ())  {
+	$edata->add_badvote("Candidate number too high: $ballotstring");
+	return 0;
+    }
+    if(grep(!(vec($edata->{'candvec'},$_,1)),@checklist) != ()) {
+	$edata->add_badvote("Invalid candidate number in $ballotstring");
+	return 0;
+    }
+    my(@votelist)=();
+    foreach $tier (split(/>/, $ballotstring)) {
+	my(@foo)=split(/=/, $tier);
+	push(@votelist,\@foo);
+    }
+    $self->{'rankings'}=\@votelist;
+    bless $self;
+}
+
+###########################################################################
+
+package election_data;
+
+###########################
+
+sub new {
+    my $self={};
+    my $localvec;
+
+    vec($localvec, $1, 1)=0;
+    $self->{'candvec'}=$localvec;
+    bless $self;
+}
+
+#load_candidates($query->param('candlist'))
+
+sub load_candidates {
+    my ($self, $candlist)=@_;
+
+    # Load the candidate list
+    for (split(/\r\n/,$candlist))
+    {   
+	if (/(\d+)\s*,\s*(.*)$/)	# If the line starts with a
+                                        # number and a comma (they all
+                                        # should)... 
+	{				# Stuff the candidate's name in an
+	                                # array and set a flag in $candvec
+	                                # corresponding to this
+	                                # candidate number.
+
+	    if(vec($self->{'candvec'}, $1, 1)==1)
+	    {
+		add_badcand("Duplicate Numbering: $_");
+	    }
+	    elsif($1>$main::maxcandnum)
+	    {
+		add_badcand("Candidate number too high: $_");
+	    }
+	    else
+	    {
+		$self->{'candidate'}[$1]=$2;
+		vec($self->{'candvec'}, $1, 1)=1;
+	    }
+	}
+	else
+	{
+	    add_badcand("Bad Formatting: $_");
+	}
+    }
+}
+
+sub candvec {
+    my $self = shift;
+
+    $self->{'candvec'};
+}
+
+sub add_badcand {
+    my $self = shift;
+
+    push(@{$self->{'badcand'}}, @_);
+}
+
+sub add_badvote {
+    my $self = shift;
+
+    push(@{$self->{'badvote'}}, @_);
+}
+
+
+sub pairwise_tally {
+    my ($self, $votelist)=@_;
+
+#  $self is an object (ala Perl 5) that stores all basic pairwise
+#  election data
+#
+#  @self->{'tally'} is a two-dimensional array (also ala Perl 5) that
+#  stores the pairwise tally results.  
+#
+#  $self->{'tally'}[$candx][$candy] is the number of votes that $candx
+#  received over $candy. 
+#
+#  $votelist is a string that is essentially a raw text file that
+#  contains all of the ballots.
+
+    for(split(/\n/,$votelist)) { 
+
+	#  $loservec-a boolean vector with a flag set for all "losers"
+	#  reset with every new ballot.  All are losers until they are
+	#  listed on a ballot.
+	my($loservec)=$self->{'candvec'};
+
+	# Parse ballot.  Skip if no ballot is returned.
+        (!(my($ballot)=new ballot_obj($self, $_))) && next;
+	
+	# @{$ballot->{'rankings'}} is an array of integers
+        # representing the candidates this voter (or voters) voted
+        # for, in order of preference.
+
+	my(@votelist)=@{$ballot->{'rankings'}};
+	    
+	foreach $tier (@votelist) {	  # For each preference listed...
+            # Remove the chosen candidate(s) from the loser vector.
+	    foreach $peer (@{$tier}) { 
+		vec($loservec, $peer, 1) = 0; 
+	    }
+
+	    # For all candidates...
+	    for ($i = 0; $i<= $#{$self->{'candidate'}}; $i++) {
+
+		# If said candidate hasn't been listed yet...
+		if(vec($loservec,$i,1)) {
+
+		    # ...they've been beat by the chosen candidate.
+                    # Increment their "votes for the other guy"
+                    # counter by the number of ballots ranked like this
+		    foreach $peer (@{$tier}) { 
+			if(defined($self->{'tally'}[$peer][$i])) {
+			    $self->{'tally'}[$peer][$i]
+				+=$ballot->{'quantity'};
+			} else {  
+			    $self->{'tally'}[$peer][$i]
+				=$ballot->{'quantity'};
+			}
+		    }
+		}
+	    }
+	}
+	$self->{'total_vote'}+=$ballot->{'quantity'};
+    }
+}
+
+sub candnum_array {
+    my($self)=@_;
+
+    return (grep((vec($self->{'candvec'}, $_, 1)==1),
+		 (0 .. $#{$self->{'candidate'}})));
+}
+
+###########################################################################
+
+package election_standings;
+
+###########################
+
+sub new {
+    my $self={};
+
+    if(scalar(@_)==2) {
+	my($edata, $candvec)=@_;
+    }
+    else {
+	my($edata)=@_;
+	my($candvec)=$edata->candvec;
+    }
+# $self->{'results'}: A two-dimensional array storing election results
+#                     for each candidate.
+    
+    for ($i=0;$i<=$#{$edata->{'candidate'}};$i++)  {
+	if (vec($edata->candvec,$i,1))	{	     
+	    $self->{'results'}[$i][0]=0;	# Number of defeats for $i
+	    $self->{'results'}[$i][1]=0;	# Number of ties for $i
+	    $self->{'results'}[$i][2]=0;	# Number of victories for $i
+	    $self->{'results'}[$i][3]=0;	# Worst defeat, as measured by
+	}                                       # total votes against $i
+    }
+    bless $self;
+}
+
+sub compute_wlt {
+    my($self, $edata)=@_;
+# Compute the win-lost-ties...
+for ($i=0;$i<$#{$edata->{'candidate'}};$i++)
+{
+    if (vec($edata->candvec,$i,1))
+    {
+	for ($j=$i+1;$j<=$#{$edata->{'candidate'}};$j++)
+	{
+	    if (vec($edata->candvec,$j,1))
+	    {
+		if(!defined($edata->{'tally'}[$i][$j])) # Initialize the tally
+					     # array for uninitialized value.
+		{
+		    $edata->{'tally'}[$i][$j] =0;
+		}
+		if(!defined($edata->{'tally'}[$j][$i]))
+		{
+		    $edata->{'tally'}[$j][$i] =0;
+		}
+		my($itally)=$edata->{'tally'}[$i][$j]; # Votes for candidate
+					       # number $i
+		my($jtally)=$edata->{'tally'}[$j][$i]; # Votes for candidate
+					       # number $j
+		my($x)=($itally <=> $jtally)+1;
+		my($y)=2-$x;
+		$self->{'results'}[$i][$x]++;
+		$self->{'results'}[$j][$y]++;
+		if(($jtally > $self->{'results'}[$i][3]) &&
+		   ($jtally > $itally))
+		{
+		    $self->{'results'}[$i][3]=$jtally; # This is $i's worst defeat.
+		}			
+		if(($itally > $self->{'results'}[$j][3]) &&
+		   ($itally > $jtally))
+		{
+		    $self->{'results'}[$j][3]=$itally; # This is $j's worst defeat.
+		}
+	    }
+	}
+    }
+}
+}
+
+
+sub rank_copeland {
+    my($self, $edata)=@_;
+
+    # A Copeland score is computed by doubling the number of victories
+    # and adding the number ties a candidate received.
+
+    my(@copeland_rankings)=sort {-(($self->{'results'}[$a][2]*2
+				    + $self->{'results'}[$a][1]) 
+				   <=> 
+				   ($self->{'results'}[$b][2]*2
+				    + $self->{'results'}[$b][1]))}
+    $edata->candnum_array;
+    $self->{'copeland_rankings'}=\@copeland_rankings;
+}
+
+sub calc_smith_set {
+    my($self, $edata)=@_;
+ 
+    my($smithsetvec, $beatsmithvec);
+
+    # Initialize $smithsetvec with the top Copeland entry set.  
+    # Even if the top entry in the array is tied with all others in 
+    # terms of Copeland score, they are certainly in the Smith set
+    vec($smithsetvec,$self->{'copeland_rankings'}[0],1)=1;
+
+    # If the top Copeland entry is an all-out winner, there's no
+    # need for the hoopla.
+    if(($self->{'results'}[$self->{'copeland_rankings'}[0]][0]==0)&&
+       ($self->{'results'}[$self->{'copeland_rankings'}[0]][1]==0))
+    {
+	$self->{'all_out_winner'}=1;
+    }
+    # Let's see who beat each entry
+    else
+    {
+	my($i)=0;
+	while($smithsetvec ne $beatsmithvec)
+	{
+	    vec($smithsetvec, $self->{'copeland_rankings'}[$i], 1)=1;
+	    for ($j=0;$j<=$#{$edata->{'candidate'}};$j++)
+	    {
+		if (vec($edata->candvec,$j,1))
+		{
+		    if($edata->{'tally'}[$j][$self->{'copeland_rankings'}[$i]]
+		       >= 
+		       $edata->{'tally'}[$self->{'copeland_rankings'}[$i]][$j])
+		    {
+			vec($beatsmithvec, $j, 1)=1;
+		    }    
+		}
+	    }
+	    $i++;
+	    
+	}
+    }
+    for ($j=0;$j<=$#{$edata->{'candidate'}};$j++)
+    {
+	if (vec($smithsetvec,$j,1))
+	{
+	    push(@{$self->{'smith_set'}}, $j);
+	}
+    }
+    $self->{'smith_set_vec'}=$smithsetvec;
+
+}
+
+
+###########################################################################
+
+package Condorcet;
+
+###########################
+
+sub new {
+    my $self = {};
+    my ($type, $edata, $standings) = @_;
+    $self->{'all_out_victory'} = 0;
+
+# This is the loop where the Condorcet winner is calculated.  The winner is
+# stored in an array to deal with the possibility of a tie, in which
+# the array grows to accomodate multiple "winners".  God help us if
+# there is a tie.
+
+    {
+	my($min_worst_defeat)=$edata->{'total_vote'};  
+	my(@leading_cand_num);
+	
+	for ($i=0;$i<=$#{$edata->{'candidate'}};$i++)
+	{
+	    if (vec($edata->{'candvec'},$i,1))
+	    {				
+		# Check if we have a new Condorcet winner
+		if($standings->{'results'}[$i][3]<$min_worst_defeat)
+		{
+		    $min_worst_defeat=$standings->{'results'}[$i][3];
+		    @leading_cand_num=($i); # $i is now the hands-down
+		                            # winner, so far
+		}
+		# Check if we have a tie for the new Condorcet winner
+		elsif($standings->{'results'}[$i][3]==$min_worst_defeat)
+		{
+		    push(@leading_cand_num, $i); # $i is tied for the lead
+		                             # with those already in the
+		    # leading_cand_num array
+		}
+		if($standings->{'results'}[$i][0]==0 &&
+		   $standings->{'results'}[$i][1]==0)     # If they haven't lost or tied
+		    # any elections, they win.
+		{
+		    @leading_cand_num=($i);
+		    $self->{'all_out_victory'}=1;
+		    last;		# That's all she wrote.
+		}
+	    }
+	}
+	$self->{'leading_cand_num'}=\@leading_cand_num;
+    }
+    bless $self;
+}
+
+sub is_sweep {
+    my $self = shift;
+    
+    $self->{'all_out_victory'};
+} 
+
+sub winner {
+    my $self = shift;
+
+    $self->{'leading_cand_num'};
+} 
+###########################################################################
+
+package Copeland;
+
+###########################
+
+sub new {
+    my $self = {};
+    my ($type, $edata, $standings) = @_;
+    $self->{'all_out_victory'} = 0;
+
+# This is the loop where the Copeland winner is calculated.  The winner is
+# stored in an array to deal with the possibility of a tie, in which
+# the array grows to accomodate multiple "winners".  This was adapted
+# from my original Condorcet code, before I learned how easy
+# calculating the Copeland winner could be.  See rank_copeland() for a
+# simpler piece of code for doing this.
+
+    {
+	my($most_wins)=0;                   #Used for Copeland tie-breaker
+	my(@leading_cand_num);
+	
+	for ($i=0;$i<=$#{$edata->{'candidate'}};$i++)
+	{
+	    if (vec($edata->{'candvec'},$i,1))
+	    {				
+		# Check if we have a new Copeland winner
+		if($standings->{'results'}[$i][2] 
+		   + 0.5*$standings->{'results'}[$i][1] > $most_wins)
+		{
+		    $most_wins=$standings->{'results'}[$i][2] 
+			+ 0.5*$standings->{'results'}[$i][1];
+		    @leading_cand_num=($i);      # $i is now the hands-down 
+                                                 # winner, so far
+		}
+		# Check if we have a tie for the new Copeland winner
+		elsif($standings->{'results'}[$i][2] 
+		      + 0.5*$standings->{'results'}[$i][1] == $most_wins)
+		{
+		    push(@leading_cand_num, $i); # $i is tied for the lead
+		                                 # with those already in the
+		                                 # @leading_cand_num array
+		}
+		if($standings->{'results'}[$i][0]==0 &&
+		   $standings->{'results'}[$i][1]==0)     
+		    # If they haven't lost or tied
+		    # any elections, they win.
+		{
+		    @leading_cand_num=($i);
+		    $self->{'all_out_victory'}=1;
+		    last;		# That's all she wrote.
+		}
+	    }
+	}
+	$self->{'leading_cand_num'}=\@leading_cand_num;
+    }
+    bless $self;
+}
+
+sub is_sweep {
+    my $self = shift;
+    
+    $self->{'all_out_victory'};
+} 
+
+sub winner {
+    my $self = shift;
+    
+    $self->{'leading_cand_num'};
+} 
+
+sub rank_candidates {
+    my ($self) = @_;
+    
+# This list is 1-indexed rather than 0 indexed for clarity
+    $self->{'ranking'}[1]=$self->{'leading_cand_num'};
+
+
+    
+} 
+
+
+
+###########################################################################
+
+package main;
+
+###########################
+
+
+#############################
+sub print_header {
+print $query->header;
+
+#StartOfHTML
+print <<"#EndOfHTML";
+<html>
+<head>
+<TITLE>Pairwise Election Results</TITLE>
+</head>
+<body>
+<A NAME="top">
+<H1>Pairwise Election Results</H1>
+</A>
+All preference ballots are used to simulate how each voter
+would have voted in elections between each pair of candidates.<p>
+#EndOfHTML
+
+}
+
+#############################
+sub print_raw_results {
+    my($edata,$standings)=@_;
+# Print out the raw tally table.
+#StartOfHTML
+print <<"#EndOfHTML";
+Total votes tallied: $edata->{'total_vote'}<p>
+<TABLE BORDER><CAPTION>Pairwise Election Results</CAPTION>
+#EndOfHTML
+
+# Find the number of candidates by counting the number
+# of set bits in $edata->candvec
+$numcands = unpack("%32b*", $edata->candvec);
+
+print "<tr><th colspan=2><th colspan=$numcands bgcolor=\"#c0c0ff\">A</tr>\n";
+print "<tr>\n";
+print "<th colspan=2>";
+for ($i=0;$i<=$#{$edata->{'candidate'}};$i++)
+{
+    if (vec($edata->candvec,$i,1))
+    {	     
+	print"<th bgcolor=\"#c0c0ff\">$edata->{'candidate'}[$i]\n";
+    }
+}
+print "</tr>\n";
+
+{
+    my($rowsprinted)=0;
+    
+    for ($i=0;$i<=$#{$edata->{'candidate'}};$i++)  {
+	if (vec($edata->candvec,$i,1))	{
+	    if ($rowsprinted==0) {
+		print "<tr><th  bgcolor=\"#ffc0c0\" rowspan=", $numcands, ">B";
+		$rowsprinted=1;
+	    } 
+	    else {print "<tr>"};
+	    
+	    print"<th bgcolor=\"#ffc0c0\">$edata->{'candidate'}[$i]";
+	    for ($j=0;$j<=$#{$edata->{'candidate'}};$j++) {
+		if($i==$j) {
+		    print "<td>";
+		} 
+		else {
+		    if(vec($edata->candvec,$j,1)) {
+			my($no_preference)=
+			    ($edata->{'total_vote'}-$edata->{'tally'}[$j][$i]-$edata->{'tally'}[$i][$j]);
+			if ($edata->{'tally'}[$j][$i] >
+			    $edata->{'tally'}[$i][$j]) {
+			    print "<td nowrap bgcolor=\"#e0e0ff\">";
+			}
+			elsif ($edata->{'tally'}[$j][$i] <
+			    $edata->{'tally'}[$i][$j]) {
+			    print "<td nowrap bgcolor=\"#ffe0e0\">";
+			}
+			else {
+			    print "<td nowrap bgcolor=\"#ffffff\">";
+  			}
+			printf("[A] %d votes (%0.1f%%) <br>",
+			       $edata->{'tally'}[$j][$i],
+			       ($edata->{'tally'}[$j][$i] / $edata->{'total_vote'}) * 100);
+			printf("[B] %d votes (%0.1f%%) <br>",
+			       $edata->{'tally'}[$i][$j],
+			       ($edata->{'tally'}[$i][$j] / $edata->{'total_vote'}) * 100);
+			if($no_preference>0) {
+			    printf("[NP] %d votes (%0.1f%%) <br>",
+				   $no_preference,
+				   ($no_preference / $edata->{'total_vote'}) * 100);
+			}    
+		    }
+		}
+	    }	
+	    print "</tr>\n";
+	}
+    }
+}
+
+print "<tr><th colspan=2 bgcolor=\"#c0c0ff\">Pairwise election results (won-lost-tied):\n";
+
+for ($i=0;$i<=$#{$edata->{'candidate'}};$i++) {
+    if (vec($edata->candvec,$i,1)) {	     
+	if(!defined($standings->{'results'}[$i][0])) {
+	    $standings->{'results'}[$i][0]=0;
+	}
+	if(!defined($standings->{'results'}[$i][1])) {
+	    $standings->{'results'}[$i][1]=0;
+	}
+	if(!defined($standings->{'results'}[$i][2])) {
+	    $standings->{'results'}[$i][2]=0;
+	}
+	print "<td bgcolor=\"#ffffff\">$standings->{'results'}[$i][2]-$standings->{'results'}[$i][0]-$standings->{'results'}[$i][1]\n";
+	
+    }
+}
+
+print "<tr><th colspan=2 bgcolor=\"#c0c0ff\">";
+print "Votes against in worst pairwise defeat:\n";
+
+for ($i=0;$i<=$#{$edata->{'candidate'}};$i++) {
+    if (vec($edata->candvec,$i,1)) {	     
+	if(!defined($standings->{'results'}[$i][3])) {
+	    $standings->{'results'}[$i][3]="n/a";
+	}
+	printf("<td bgcolor=\"#ffffff\">%d votes (%0.1f%%)",
+	       $standings->{'results'}[$i][3],
+	       ($standings->{'results'}[$i][3] / 
+		$edata->{'total_vote'}) * 100);
+    }
+}
+
+#StartOfHTML
+    print <<"#EndOfHTML";
+</TABLE>
+[A] indicates voters who preferred the candidate listed in the
+column caption to the candidate listed in the row caption<br>
+
+[B] indicates voters who preferred the candidate listed in the
+row caption to the candidate listed in the column caption<br>
+
+[NP] indicates voters who expressed no preference between either
+candidate<p>
+#EndOfHTML
+
+# End of raw tally table printout.
+}
+
+#############################
+sub print_results {
+    my($edata,$standings,$condorcet_results,$copeland_results)=@_;
+
+# Now for the moment we've been waiting for.  This is where we
+# announce the winner(s)
+
+    print"<H2>Results</H2>\n";
+    print"<H3>Condorcet Method Results</H3>\n";
+
+
+if($#{$condorcet_results->winner}==0)	# i.e. if there is only one
+    # leading_cand_num, they win
+{
+    print"The winner is <b>$edata->{'candidate'}[${$condorcet_results->winner}[0]]</b><p>\n\n";
+    if($condorcet_results->is_sweep)
+    {
+#StartOfHTML
+    print <<"#EndOfHTML";
+$edata->{'candidate'}[${$condorcet_results->winner}[0]];
+won every simulated pairwise election outright.  No other candidate
+can make this claim.  This also means that
+$edata->{'candidate'}[${$condorcet_results->winner}[0]] also is the sole member of the Smith
+Set.<p>
+
+#EndOfHTML
+    }
+    else
+    {
+
+#StartOfHTML
+    print <<"#EndOfHTML";
+
+This situation is the result of a Condorcet tie-breaker.  Notice there
+were no candidates who won all pairwise elections.  In a Condorcet
+tie-breaker, the winning candidate is the one who has the least number
+of people that explicitly vote against them in any pairwise
+election. $edata->{'candidate'}[${$condorcet_results->winner}[0]] had the fewest number of
+voters vote against him/her of any of the candidates in his/her poorest
+showing ($standings->{'results'}[${$condorcet_results->winner}[0]][3] votes).<p> 
+
+#EndOfHTML
+
+    }
+}
+else			# Oh, hell...
+{
+    print"There has been a tie. The winners are:\n";
+    for ($i=0;$i<=$#{$condorcet_results->winner};$i++)
+    {
+	if($i!=0 && $#{$condorcet_results->winner}!=1) {print ", ";}
+	if($i==$#{$condorcet_results->winner}) {print " and ";}
+	print"<b>$edata->{'candidate'}[${$condorcet_results->winner}[$i]]</b>";
+    }
+    print ".<p>";
+
+    print " 
+A tie occurs when there is no candidate that emerges
+unbeaten in all pairwise elections.  Normally, it is possible to find
+the candidate who had the least votes against them in any pairwise
+election.  However, in this case, ";
+    for ($i=0;$i<=$#{$condorcet_results->winner};$i++)
+    {
+	if($i!=0 && $#{$condorcet_results->winner}!=1) {print ", ";}
+	if($i==$#{$condorcet_results->winner}) {print " and ";}
+	print"$edata->{'candidate'}[${$condorcet_results->winner}[$i]]";
+    }
+    print " had equal numbers of voters voting against them in
+their poorest showings ($standings->{'results'}[${$condorcet_results->winner}[0]][3] votes).  As a
+result, a second election may be necessary to determine a winner.<p>\n
+";
+
+}
+
+# See if there is a difference between the Condorcet and Copeland winners
+if($#{$condorcet_results->winner}==$#{$copeland_results->winner})
+{
+    $copeland_diff=0;
+
+    for ($i=0;$i<=$#{$condorcet_results->winner};$i++)
+    {
+	if(${$condorcet_results->winner}[$i]!=${$copeland_results->winner}[$i])
+	{
+	    $copeland_diff=1;
+	    last;
+	}
+    }
+}
+else
+{
+    $copeland_diff=1;
+}
+    print"<H3>Copeland Method Results</H3>\n";
+
+if(!$copeland_diff)
+{
+    print "Copeland's method returns the same result as Condorcet's.<p>";
+}
+elsif($#{$copeland_results->winner}==0)	# i.e. if there is only one
+    # leading_cand_num, they win
+{
+#StartOfHTML
+    print <<"#EndOfHTML";
+
+Copeland's method returns a different result than Condorcet's.  The
+Copeland winner is <b>$edata->{'candidate'}[${$copeland_results->winner}[0]]</b>.<p>
+
+Since there were no candidates who won all pairwise elections, the
+Copeland winner is the one who has the highest number of wins, with
+ties counting as one half of a win.  $edata->{'candidate'}[${$copeland_results->winner}[0]]
+had the best win-loss-tie record of any of the other candidates
+($standings->{'results'}[${$copeland_results->winner}[0]][2]-$standings->{'results'}[${$copeland_results->winner}[0]][0]-$standings->{'results'}[${$copeland_results->winner}[0]][1]).<p>
+
+#EndOfHTML
+
+}
+else			# Oh, hell...
+{
+    print "Copeland's method returns a different result than
+Condorcet's.  There is a tie using Copeland's method between ";
+
+    for ($i=0;$i<=$#{$copeland_results->winner};$i++)
+    {
+	if($i!=0 && $#{$copeland_results->winner}!=1) {print ", ";}
+	if($i==$#{$copeland_results->winner}) {print " and ";}
+	print"<b>$edata->{'candidate'}[${$copeland_results->winner}[$i]]</b>";
+    }
+    print ".<p>";
+
+    print " 
+A tie occurs when there is no candidate that emerges
+unbeaten in all pairwise elections.  Normally, it is possible to find
+the candidate who has the best win-loss-tie record. However, in this case, ";
+    for ($i=0;$i<=$#{$copeland_results->winner};$i++)
+    {
+	if($i!=0 && $#{$copeland_results->winner}!=1) {print ", ";}
+	if($i==$#{$copeland_results->winner}) {print " and ";}
+	print"$edata->{'candidate'}[${$copeland_results->winner}[$i]]";
+    }
+    print " had equal win-loss-tie records
+($standings->{'results'}[${$copeland_results->winner}[0]][2]-$standings->{'results'}[${$copeland_results->winner}[0]][0]-$standings->{'results'}[${$copeland_results->winner}[0]][1]).<p>\n
+";
+
+}
+    print"<H3>Smith Method Results</H3>\n";
+
+    print"The Smith Set consists of:\n";
+    for ($i=0;$i<=$#{$standings->{'smith_set'}};$i++)
+    {
+	if($i!=0 && $#{$standings->{'smith_set'}}!=1) {print ", ";}
+	if($i!=0 && $i==$#{$standings->{'smith_set'}}) {print " and ";}
+	print"<b>$edata->{'candidate'}[${$standings->{'smith_set'}}[$i]]</b>";
+    }
+    print ".<p>";
+
+
+
+#StartOfHTML
+    print <<"#EndOfHTML";
+Try hitting the "back" button on your browser to simulate
+other election outcomes.<p>
+
+<HR>
+All Candidates As Entered:
+<PRE>
+#EndOfHTML
+    print $query->param('candlist');
+    print "</PRE>\nAll Votes as Entered:<PRE>";
+    print $query->param('votelist');
+
+#StartOfHTML
+    print <<"#EndOfHTML";
+</PRE>
+Invalid Candidates (due to improper entry):
+<PRE>
+@{$edata->{'badcand'}}
+</PRE>
+
+Invalid Votes (due to improper entry):
+<PRE>
+@{$edata->{'badvote'}}
+</PRE>
+
+<HR>
+</body></html>
+#EndOfHTML
+}

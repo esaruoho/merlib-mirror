@@ -1,0 +1,1125 @@
+<html>
+<head>
+<link rev="made" href="mailto:billb@eskimo.com">
+<title>The Airfoil Misconception in K-6 Textbooks</title>
+
+<meta http-equiv="keywords" content="newton,bernoulli,airfoil,wing,lift,
+airfoil,lifting,force,controversy,misconception,newton,vs,bernoulli,
+vs,newton,downwash,flow,wingtip,vortex,vortices,wake,weltner,aerodynamic,
+aerodynamics,coanda,effect,path,length,pathlength,streamlines,kutta">
+</head>
+
+<body bgcolor="#ffffff">
+<table width=800><tr><td><font size=4>
+
+<center>
+<TABLE bgcolor="#ffffff" cellpadding=0 summary="Navigation"><TR>
+<TD ALIGN="CENTER"><b>
+<a href="/news.html">TOP</a>&nbsp;&nbsp;|&nbsp;&nbsp;</b><br></TD>
+<TD ALIGN="CENTER"><b>
+<a href="/miscon/miscon">MISCONS</a>&nbsp;&nbsp;|&nbsp;&nbsp;</b><br></TD>
+<TD ALIGN="CENTER"><b>
+<a href="/unew.html">GOOD STUFF</a>&nbsp;&nbsp;|&nbsp;&nbsp;</b><br></TD>
+<TD ALIGN="CENTER"><b>
+<a href="/search.html">SEARCH</a> </b><br></TD>
+</TR></TABLE>
+</font>
+</center>
+
+
+
+<center>
+<h1>Airfoil Lifting Force Misconception<br>
+Widespread in <a href="/miscon/k6.txt">K-6</a> Textbooks</h1>
+<a href="/me.html">William Beaty</a> 1996</h1>
+</center>
+
+
+
+<table width=100%><tr>
+<td width=15% valign=top><font size=3>
+&ordm;&nbsp;<a href="/wing/airfoil.html#parts">Misconceptions</a><br>
+&ordm;&nbsp;<a href="/wing/airfoil.html#articles">Articles Here</a><br>
+&ordm;&nbsp;<a href="/wing/airgif2.html">GIF Diagrams</a><br>
+&ordm;&nbsp;<a href="/wing/airfoil.html#L1">Links</a><br>
+&ordm;&nbsp;<a href="/wing/airfoil.html#refs">Refs</a>
+<br><p>
+</font></td>
+
+<td width=80% valign=top><font size=4>
+
+<table><tr><td><a href="/wing/airgif2.html">
+<img border=0 width=600 height=130
+src="/miscon/wing2.gif"></a><br clear=all><p></td></td></tr></table>
+
+</font></td></tr></table>
+
+<font size=4>
+
+<br><p>
+
+Beat around in the underbrush of aerodynamics and you'll encounter an
+interesting question:<br><p>
+
+<blockquote><b>HOW DO AIRPLANE WINGS *<i>REALLY</i>* WORK?</b><br><p></blockquote>
+
+Amazingly enough, this question is still argued in many places, from
+elementary school classrooms all the way up to major pilot schools, and
+even in the engineering departments of major aircraft companies.  This is
+unexpected, since we would assume that aircraft physics was completely
+explored early this century.  Obviously the answers must be spelled out 
+in detail in numerous old dusty aerodynamics texts.  However, this is not 
+quite the
+case.  Those old texts contain the details of the math, but it's the
+*<i>interpretation</i>* of the math that causes the controversy.  There is
+an ongoing Religious War over both the way we should understand the
+functioning of wings, and over the way we should explain them in
+children's textbooks.  The two sides of the controversy are: <br><p>
+
+<a name="new"></a> <ul><li><b>The physics explanation</b>, NEWTONIAN or 
+ATTACK
+ANGLE: wings are forced upwards because they are tilted and they deflect
+air.  A wing's trailing edge must be sharp, and it must be aimed 
+diagonally downward if it's to create lift.
+  Both the upper and lower surfaces of the wing act to
+deflect the air.  The upper surface deflects air downwards because the
+airflow "sticks" to the wing surface and follows the tilted wing (this
+phenomena is called "Coanda effect" or "Flow Attachment.")  After the wing 
+has passed by, air remains flowing downwards. Airplanes
+fly because of Newton's 3rd law (action/reaction forces,) the law of
+Conservation of Momentum, and the Coanda effect.</ul> 
+<a name="ber"></a>
+
+<ul><li><b>The popular explanation</b>, PATH-LENGTH or AIRFOIL-SHAPE: 
+wings do
+not deflect air,
+instead they are sucked upwards because the "airfoil" shape has a longer
+surface on top.  Airfoils are curved on top and flat below, and therefore
+the air follows a longer path above than below.  Air that is
+divided at the leading edge of a wing must rejoin at the trailing edge. 
+Since the upper surface of the wing is longer, it causes the air to flow
+faster over the upper surface, which (by Bernoulli's principle) creates
+lower pressure above.  Because lift is caused by the shape of the wing,
+wings can create lift at zero attack angle.  They can create lift simply
+from path length difference which leads to pressure difference, and no air
+needs to be deflected.  After a wing has passed by, the air does not 
+remain moving downwards. (THIS EXPLANATION IS SERIOUSLY FLAWED.) </ul>
+
+This webpage is biased towards the ATTACK ANGLE view.  See just about any
+K-6 science book for the PATH LENGTH argument.  (Note that the controversy 
+extends far beyond grade school, and even some 
+pilot training manuals contain the discredited "path length" explanation.)
+<br><p>
+
+Also three <i>other</i> explanations of lift exist: the circulation
+explanation, the flow-turning or streamline-curvature explanation, and the
+vortex-based explanation. These three appear in advanced textbooks, where
+they form the basis of the mathematics used by aircraft designers.  The
+misleading "popular" or "airfoil-shape" explanation commonly appears in
+children's science books, magazine articles, and in pilot's textbooks.  
+On the other hand, the public rarely or never encounters explanations
+based upon circulation, upon curvature of streamlines, or upon Newton's
+Laws.  <br><p>
+
+A possible solution to the controversy:
+<blockquote>
+Billb's Airplane Flight Analogy<br>
+<a href="/wing/rotbal.html">
+/wing/rotbal.html</a>
+</blockquote>
+
+Note well: Newton and Bernoulli do not contradict each other. Explanations
+which are based on Newton's and on Bernoulli's principles are completely
+compatible.  Each explanation describes 100% of the lifting force.  For
+the most part they're just two different ways of simplifying a single
+complicated subject.  Much of the controversy arises because one side or
+the other insists that only *THEIR* view is correct.  They insist that
+only a *SINGLE* explanation is possible, and the opposing view is
+therefore wrong.  In other words, which is the single best way to crack an
+egg?  This is a war between the Big-endians and Little-endians from
+"Gulliver's Travels."  They simply refuse to acknowledge that there are
+several valid yet independant approaches to solving the problem, and they
+insist that their version must be the single right answer.<br><p>
+
+However, there are also several serious mistakes usually associated with
+the "popular" explanation described above.  People who believe the
+"popular" explanation wrongly insist that any parcels of air divided by 
+the wing's leading edge  must meet again at the trailing edge.  This is 
+incorrect.  They also believe
+that wings don't deflect the oncoming air downwards.  Also incorrect.  
+These and several
+other mistakes commonly appear in elementary science texts, as well as in
+popular articles on aircraft physics. These mistakes change the popular
+"airfoil-shape" explanation into a system of misconceptions. I explore
+these <a 
+href="/wing/airfoil.html#expl">below</a>.<br><p>
+
+Also, those who firmly adhere to the popular explanation have been
+successful in convincing many
+authors that there can only be a <i>single</i> best method for explaining
+aerodynamic lift, and that the "Airfoil-shape" method is far better
+than the "Attack-angle"  method.  I strongly disagree with this, and
+believe that the correct versions of <i>both</i> explanations should be in
+constant use.  Since the Newton method gives a better intuitive grasp of
+the issues, that method is more appropriate for elementary explanations
+aimed at the public and for introductory material for science students and
+pilots.  On the other hand, the "Airfoil Shape" explanation is less 
+intuitive,
+yet it dovetails very well with lifting force calculations, so it is very
+useful in mathematical modeling, for physics students, for aircraft
+design, fluid flow simulation software, etc.  <br><p>
+<hr>
+<center><i>The Truth shall set your free... But first it will piss you off!</i>
+<br>-Anon</center>
+<hr>
+
+
+
+</font></td></tr></table>
+
+<font size=4>
+
+
+<ul>
+<li><a href="/wing/rotbal.html">Disk Balloons</a>
+<li><a href="/wing/whyhard.html">Why Airfoils Are So Hard 
+to Understand</a>
+<li><a href="/wing/airgif2.html">GIF Diagrams</a>
+<li><a href="#articles">Articles</a>
+<li><a href="#dis">Discussions</a>
+<li><a href="#sites">Other websites</a>
+<li><a href="#refs">References</a>
+<li><a href="#parts">Components of the misconception</a>
+<li><a href="#expl">Analysis of the two explanations</a>
+<li><a href="/~billb/cgi-bin/miscon/guestbook.html">ADD YOUR COMMENTS</a> about misconceptions
+</ul>
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+<hr> <a name="articles"></a>
+
+<table><tr><td valign=top><font size=4>
+<h2>Bill B.'s "Newtonian" Articles & Misc.Controversy</h2></a> 
+
+<ul>
+<li><a href="/wing/rotbal.html">Disk balloons</a> explain flight.  
+<ul><li><a href="http://www.monmouth.com/~jsd/fly/rotbal.htm">J. Denker's review</a>
+<ul><li><a href="/wing/rotbal2.html">My Response</a></ul></ul>
+<li><a href="/wing/whyhard.html">Why Airfoils Are So Hard to Understand</a>
+<li><a href="/wing/wingexp.html">Airfoil Explanations</a>
+<li><a href="/wing/airgif2.html">Airfoil GIFs</a> show controversial effects 
+<li><a href="#expl">The two explanations</a>
+<li><a href="#parts">Parts of the misconception</a> 
+<li><a href="#refs">References</a> 
+<li><a href="/wing/swartz.txt">C. Swartz editorial</a> from The Physics Teacher 
+<li><a href="/miscon/wing.gif">GIF of misleading "Bernoulli" diagram</a> 
+<li><a href="/wing/airfoil2.gif">GIF of tilted airfoil confusion</a>
+<li><a href="http://www.google.com/search?q=%2Bbernoulli+%2Bnewton+%2Blift+%2Bwing">SEARCH GOOGLE</a> for newton/bernoulli/wing/lift
+</ul>
+
+<a name="sites"></a>
+<br><p>
+
+<h2>The "Airfoil Mistake" in the news</h2></a>
+<ul>
+<li><a href="http://college3.nytimes.com/guests/articles/2003/12/09/1129265.xml">NY Times: What does keep them up there?</a>
+<li><a href="http://www.discover.com/issues/apr-01/departments/featphysics/">Discover magazine Apr 2001: an old lofty theory loses altitude</a>
+<li><a href="http://travel.howstuffworks.com/airplane5.htm">Imperfect explanations of lift</a> (How Stuff Works)
+<li><a href="http://www.avweb.com/news/airman/183261-1.html">Lift Doesn't Suck</a> AVWEB aviation magazine (w/excellent animation!)
+<li><a href="http://web.archive.org/web/20010607215323/physics.about.com/science/physics/library/weekly/aa041401a.htm">about.com: physics: How Airplanes Don't Fly</a>
+</ul>
+</font></td>
+<td>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+</td>
+<td valign=top><font size=4>
+<a name="dis"><h2>Discussions, message threads</h2></a>
+<ul>
+<li><a href="/wing/wcommnt.txt">Misc. received messages</a>
+<li><a href="/wing/wphysl2.txt">PHYS-L EMAIL DEBATE</a> (Recent)
+<li><a href="/wing/wphysl.txt">PHYS-L EMAIL DEBATE</a> (Older)
+<li><a href="http://lapphp0.in2p3.fr/~orloff/FF/hgt/physics/">Physics discussion</a> on <a href="http://lapphp0.in2p3.fr/~orloff/FF/">Hang Gliding List</a>
+<li><a href="/wing/rmrcair.html">Newton/Bernoulli thread from rec.models.rc.air</a>
+</ul>
+<a name="L1"></a>
+
+<h2>Relevant forums</h2>
+<ul>
+<li><a href="http://groups.google.com/groups?group=rec.aviation.piloting">Newsgroup: rec.aviation.piloting</a>
+<li><a href="http://groups.google.com/groups?group=rec.aviation.student">Newsgroup: rec.aviation.student</a>
+<li><a href="http://groups.google.com/groups?group=rec.aviation">Newsgroup: rec.aviation</a>
+<li><a href="http://groups.google.com/groups?group=rec.models.rc.air">Newsgroup: rec.models.rc.air</a>
+<li><a href="http://groups.google.com/groups?group=sci.aeronautics">Newsgroup: sci.aeronautics</a>
+<li><a href="http://groups.google.com/groups?group=sci.physics.computational.fluid-dynamics">Newsgroup: sci.physics.computational.fluid-dynamics</a>
+</ul>
+
+
+<h2>BOOKS</h2>
+<ul>
+<li><a href=""></a>
+<li><a href=""></a>
+<li><a href=""></a>
+<li><a href=""></a>
+</ul>
+
+</font></td>
+</tr></table>
+
+
+<h3>Other websites</h3></a>
+<ul>
+<li><a href="http://www.seykota.com/rm/index.htm">Radial Momentum</a> theory of lift
+<li><a href="http://www.iop.org/EJ/abstract/0031-9120/38/6/001">How do wings work?</a> Phys. Educ. <b>38</b> (Nov 2003) 497-503
+<li><a href="http://www.iop.org/EJ/abstract/0143-0807/21/4/302">Why Aircraft Fly, Eur. J. Phys.</a> <b>21</b> (July 2000) 289-296
+<li><a href="http://www.oriontechnologies.net/Documents/Airfoil.htm">Airfoil design</a>
+<li>NEW BOOK: <a href="http://www.amazon.com/exec/obidos/ASIN/0071363777/sciencehobbyist/">Understanding Flight</a>
+<ul>
+<li><a href="http://www.aa.washington.edu/faculty/eberhardt/lift.htm">How Airplanes Fly: A Physical Description of Lift</a> (c) (Anderson & Eberhardt)
+<li><a href="http://www.aa.washington.edu/faculty/eberhardt/Lift_AAPT.pdf">Newtonian description of lift</a>
+<li><a href="http://www.aa.washington.edu/faculty/eberhardt/">Author's site</a>
+</ul>
+
+<li><a href="http://www.jefraskin.com/forjef2/jefweb-compiled/published/coanda_effect.html">Coanda Effect Article</a> from QUANTUM magazine (Jeff Raskin)
+<li>Two from <a href="http://www.rz.uni-frankfurt.de/~weltner/">K. Weltner</a>
+<ul>
+<li><a href="http://www.rz.uni-frankfurt.de/~weltner/Mis6/mis6.html">Misinterpretations of Bernoulli's Law</a> 
+<li><a href="http://www.rz.uni-frankfurt.de/~weltner/Flight/PHYSIC4.htm">Physics of Flight - reviewed</a> 
+</ul>
+<li><a href="http://www.monmouth.com/~jsd/fly/how/htm/airfoils.html">Airfoils</a> chapter of <a href="http://www.monmouth.com/~jsd/">SEE HOW IT FLIES,</a> online pilot instruction manual (EXCELLENT!)
+<li><a href="http://www.idra.unige.it/~irro/">Irrotational Flow</a> (mini-lecture with animations!)
+<li><a href="http://web.archive.org/web/20030718072407/http://ltp.arc.nasa.gov/aero/question/aerotheory/">Attack angle, Bernoulli, wing-shape</a> "NASA Quest" gets it right!
+<li><a href="http://www.idra.unige.it/~irro/profilo1a_e.html">Animations</a> disprove the "wing shape" explanation
+<li><a href="http://www.grc.nasa.gov/WWW/K-12/airplane/bga.html">NASA Glenn Research Center: Beginner's Aerodynamics</a> (correct!)
+<ul>
+  <li><a href="http://www.grc.nasa.gov/WWW/K-12/airplane/wrong3.html">nasa/grc: the incorrect ""Half Venturi" theory debunked</a>
+  <li><a href="http://www.grc.nasa.gov/WWW/K-12/airplane/wrong1.html">nasa/grc: the incorrect "Longer Path" theory debunked</a>
+  <li><a href="http://www.grc.nasa.gov/WWW/K-12/airplane/bernnew.html">nasa/grc: Bernoulli vs. Newton</a>
+</ul>
+
+<li><a href="http://www.allstar.fiu.edu/aero/coanda.htm">about H. M. Coanda</a>
+<li><a href="http://web.archive.org/web/*/http://home.mira.net/~radacorp/ground_effect.html
+">Ground Effect vehicle</a> photo archive
+<li><a href="http://www.pbs.org/saf/transcripts/transcript904.htm#4">Bumblebees cannot fly!</a>
+
+<li>Gale Craig,<a href="http://web.archive.org/web/*/http://www.geocities.com/CapeCanaveral/Hangar/6544/">"How Airplanes Really Fly"</a>
+<li><a href="http://www.idra.unige.it/~irro/">Irrotational Flow</a> (mini-lecture with animations!)
+<li><a href="http://www.cybercom.net/~copters/aero/ground_effect.html">Ground Effect</a> regarding helicopters
+<li><a href="http://home.dmv.com/~tbastian/russ.htm">Secret Russian "Coanda" aircraft</a>
+<li>Downwash photos:
+<ul>
+<li><a href="http://www.diam.unige.it/~irro/gallery.html">Irro. Photo Gallery</a>
+<li><a href="http://www.galleryoffluidmechanics.com/vortex/v_lift.htm">Gallery of fluid mech.:  lift-generated vortices</a>
+<li><a href="http://www.efluids.com/efluids/pages/gallery.htm">Fluid Dyn. Picture of the Week</a>
+</ul>
+
+<li>Downwash doesn't exist?  Riiiight. <a href="http://www.efluids.com/efluids/gallery/cessnajet_1.htm">
+Great GIF</a> of visible downwash at Princeton's Fluid Dyn. <a href="http://www.efluids.com/efluids/pages/gallery.htm">picture of the week</a>
+<li><a href="http://ojps.aip.org/phf/gallery/archives.jsp">Physics of fluids: gallery</a>
+<li><a href="http://landau1.phys.virginia.edu/Education/Teaching/HowThingsWork/airplanes.html">
+How Things Work: Wings</a> (Newton *AND* Bernoulli)
+<li><a href="http://www.princeton.edu/~asmits/pow_96_Oct11.html">GIF 
+of downwash</a>, red smoke is pushed down and outwards, edge curls up.
+<li><a href="http://www.se-technology.com/wig/html/main.php?open=aero&code=0">Ground Effect</a>
+, and <a href="http://www.se-technology.com/wig/html/main.php?open=listmovies&code=0">G. E. craft</a>
+<li><a href="/wing/nasm.txt">Corrections</a> at the <a href="http://www.nasm.edu/GALLERIES/GAL109/LESSONS/TEXT/TEASERS.HTM">Nat. Air and Space Mus.</a> (Yay!)
+<li><a href="http://aero.stanford.edu/onlineaero/appliedaero.html">Online aerodynamics textbook</a>
+<li><a href="http://www.desktopaero.com/appliedaero/appliedaerodemo/airfoils1/cpandcurvature.html">Lift caused by curvature of streamlines</a>
+<li><a href="http://wings.ucdavis.edu/Book/Flight/instructor/lift.html">Newton AND Bernoulli</a>, from <a href="http://wings.ucdavis.edu/">Cislunar Aerospace K-8 Textbook</a>!
+<li><a href="/wing/johnson.txt">J. Johnson article</a> from rec.aviation.student
+<li><a href="/wing/straub.txt">D. Straub article</a>, from <a href="http://lapphp0.in2p3.fr/~orloff/FF/hgt/physics/">Physics discussion</a> on <a href="http://lapphp0.in2p3.fr/~orloff/FF/">Hang Gliding List</a>
+<li><a href="/wing/gell.txt">Gell article</a> from rec.models.rc.air
+</ul>
+<br>
+
+<hr>
+<a name="refs"><h3>"Newtonian" Lifting Force References</h3></a>
+
+Cliff Swartz, "<a href="/wing/swartz.txt">Numbers Count</a>", editorial in THE PHYSICS TEACHER, p536,
+Vol34, Dec 1996<p>
+
+Gale Craig, NEWTONIAN AERODYNAMICS FUNDAMENTALS, 1995, Regenerative Press,
+Anderson Indiana 46011, ISBN: 0964680602<br>
+<p>
+Prof. Klaus Weltner, AERODYNAMIC LIFTING FORCE, The Physics Teacher (magazine), Feb 1990, pp78-82<br>
+<p>
+K. Weltner, BERNOULLI'S LAW AND AERODYNAMIC LIFTING FORCE, The Physics Teacher, Feb 1990, pp84-86<br>
+<p>
+K. Weltner, A COMPARISON OF EXPLANATIONS OF THE AERODYNAMIC LIFTING FORCE, Am. J. of Physics, 55 (1) Jan. 1987 pp50-54<br>
+<p>
+Langewiesche, Wolfgang, STICK AND RUDDER, 1975 Tab Books, ISBN: 0070362408<br>
+<p>
+N.H. Fletcher, MECHANICS OF FLIGHT, Physics Education, Wiley, NY 11975, pp385-389<br>
+<p>
+HOW AIRPLANES FLY<p>
+
+<table width=800><tr><td><font size=4>
+
+<hr>
+
+<a name="expl"><h1>THE TWO COMPETING EXPLANATIONS FOUND IN K-6 BOOKS:</h1></a>
+
+Here is the typical "Airfoil shape" or "Popular" explanation of
+airfoil lift which commonly appears in childrens' science books:
+<br><p>
+<blockquote>
+As air approaches a wing, it is divided into two parts, the part which
+flows above the wing, and the part which flows below.  In order to create
+a lifting force, the upper surface of the wing must be longer and more
+curved than the lower surface.  Because the air flowing above and below
+the wing must recombine at the trailing edge of the wing, and because the
+path along the upper surface is longer, the air on the upper surface must
+flow faster than the air below if both parts are to reach the trailing
+edge at the same time.  The "Bernoulli Principle" says that the total
+energy contained in each part of the air is constant, and when air gains
+kinetic energy (speed) it must lose potential energy (pressure,) and so
+high-speed air has a lower pressure than low-speed air.  Therefore, 
+because the air flows faster on the top of the wing than below, the 
+pressure above
+is lower than the pressure below the wing, and the wing driven upwards by
+the higher pressure below.  In modern wings the low pressure above the
+wing creates most of the lifting force, so it isn't far from wrong to say
+that the wing is essentially 'sucked' upwards.  (Note however that
+"suction" doesn't exist, because air molecules can only push upon a
+surface, and they never can pull.)
+</blockquote>
+<br><p>
+
+<h2>  MY NOTES:  
+&nbsp;&nbsp;&nbsp;&nbsp;
+(1996)</h2>
+<blockquote>
+       Uh oh, <a href="airgif2.html"> wind tunnel photographs</a> of lift-generating wings reveal a
+       serious problem with the above description!  They show that the
+       divided parcels DO NOT RECOMBINE AT THE TRAILING EDGE.  Whenever
+       an airfoil is adjusted to give lift, then the parcels of air above
+       the wing move FAR faster than those below, and the lower parcels 
+lag
+       far behind.  After the wing has passed by, the parcels remain 
+forever divided.  This has nothing to do with the wing's path lengths.  
+This even applies to thin flat wings such as a "flying
+       barn door."  The wind
+       tunnel experiments show that the "wing-shape" argument regarding 
+       difference in path-length is simply wrong.
+<br><p>
+
+       Also, real-world aircraft demonstrate another fallacy.  In order to
+       create lift, <i>must</i> a wing have greater path length on the
+       upper surface than on the lower?  No.  Thin cambered (curved) wings
+       such as those on hang gliders and on rubberband-powered balsa
+       gliders, have equal path length above and below, yet they generate
+       lift.  Still the air does flow faster above these wings than below.
+       However, since there is no difference in path length, we cannot
+       refer to path length to explain the difference in air speed above
+       and below the thin wing.  The typical "airfoil shape" explanation
+       cannot tell us why a paper airplane can fly, because it does not
+       tell us why the air above the paper wing moves faster.
+<br><p>
+
+       It is also a fallacy that in order to create lift, a wing *must* be
+       more curved on top.  In fact, wings which are designed for high
+       speed and aerobatics are symmetrical streamlined shapes, with equal
+       curvature above and below.  Some exotic airfoil shapes are even
+       flat on top and more curved on the bottom! (NASA's "supercritical"
+       wing designs, for example.)
+<br><p>
+
+       If the typical "popular" or "airfoil-shape" explanation is
+       correct, then how can symmetrical wings and thin cambered wings
+       work at all?  How can rubberband balsa gliders work?  Those who
+       support the "path length" explanation will sometimes suggest that
+       some other method must be used to explain these particular wings. 
+       But if so, why then do so many books put forth only the above
+       "popular" explanation as the single explanation of aerodynamic 
+       lift?  Why do they avoid detailing or even mentioning any other
+       important explanations of lifting force?
+<br><p>
+
+       The cloth aircraft of old had single-layer wings having 
+       identical path length above and below.  If the "Wing-shape" or
+       "popular" explanation is correct and path-length is very
+       important, how can the Wrights' flyer have worked at all?
+       Conversely, we do find that thin airfoils such as the Wrights'
+       have faster flow on the upper surface than the lower surface.
+       Since the path lengths are identical, how can we explain this?
+<br><p>
+
+	The above "path length" viewpoint would predict that the
+	addition of a lump to the top of a wing should always increase the
+	lift (since it increases the upper surface path length.)  In fact,
+	the addition of a lump does not increase lift.  This suggests that 
+	there is a problem with the "airfoil shape" explanation of lift.
+<br><p>
+
+	Forces on sailboat sails are explained using the typical
+	"pathlength/wingshape" explanation above.  But sailboat sails are
+	thin cloth membranes with identical path-lengths on either side.
+	Why should air on either side of a sail have different velocities
+	if the path length is the same?
+<br><p>
+
+	Children have experience with rubberband-powered balsa wood
+	aircraft having wings composed of a single flat layer of very 
+	thin wood.  Paper airplanes usually have flat thin wings.  These 
+	aircraft cannot fly?  How can the "path length" version explain 
+	their successful operation?
+<br><p>
+
+       Regardless of the angle of attack, if a wing does not deflect
+       air downwards, it creates no lift at all.  To say otherwise would
+       go against the law of Conservation of Momentum.  Yet those who
+       believe in the "airfoil-shape" explanation commonly state that
+       wings operate only by pressure, and Newton's laws are unimportant.
+       This is a direct violation of basic physics principles. 
+       Bernoulli's equation incorporates basic physics, and anyone who
+       depart from Newton must automatically depart from Bernoulli as
+       well.  Besides buoyancy and helium balloons, the only way to remain
+       aloft is to take some matter and accelerate it downwards.  The
+       downward force applied to the matter is equal to the upward force
+       applied by the matter against the craft.  Rockets work like this,
+       as do ship propellers, jet engines, helicopters, ...and wings! 
+<br><p>
+ 
+	Some people argue that the "path length" explanation must be
+	right, since some wings generate lift even at zero angle of
+	attack. However, Attack-angle is determined geometrically, by
+	drawing a line between the tip of the leading and trailing edge.
+	This geometrically-determined attack angle can be misleading:
+<br><p>
+
+<center>
+<a href="/wing/airfoil2.gif">
+<img alt="[GIF: add an off-center bump, then tilt the wing to "zero" attack]" src="/wing/airfoil2.gif">
+</a>
+<br clear=all>
+</center><p>
+       Small bumps on the leading edge of a blunt-nosed wing have a large
+       effect on where the line is drawn.  These bumps strongly affect
+       the determination of "attack angle, yet these bumps may have
+       little if any effect on the lifting forces being generated.  Also,
+       inertial effects will cause a thin, curved airfoil to deflect air
+       downwards from its trailing edge <i>more</i> than it deflects air
+       upwards at its leading edge, and the unequal deflection generates
+       lift even at zero angle of attack.  This type of wing may APPEAR
+       to have zero attack angle, but the inertia of air causes the air
+       to flow straight from the trailing edge of the airfoil.  Because
+       of inertia, the trailing edge of a cambered airfoil itself behaves
+       as a tilted plane, and therefore the airfoil effectively has a
+       positive angle which causes air to be deflected.  Other cambered
+       wings are similar;  they still have a positive "effective" attack
+       angle even when their geometrical attack angle of zero. 
+<br><p>
+
+	Some people argue that flat wings, symmetrical aerobatic wings,
+	Supercritical wings, and thin cloth wings do not employ the
+	Bernoulli Effect, and these wings must instead be explained by
+	Newton and attack angle.  But as I said before, if jet fighters
+	and the Wright Flyer use Attack Angle rather than Bernoulli
+	Effect, why do the books teach only Bernoulli Effect?  At the very
+	least, these books are ignoring an entire class of aircraft by
+	never mentioning Attack Angle.  However, even these thin wings and
+	symmetrical wings exhibit the full-blown Bernoulli principle!
+	There is a difference in speed between the upper and lower air
+	streams along flat wings.  If a flat sheet of plywood is tilted 
+	into the air stream, the air flows faster above the sheet than 
+	below, and lift is generated by the pressure difference.  But the 
+	flat sheet also deflects the air, and just as much lift is 
+	generated by deflection of air.  In fact, 100% of aerodynamic lift 
+	can be explained by the Bernoulli principle.  And 100% of lift can 
+	be explained by Newton's third law.  They are two different ways 
+	of explaining a single event.  However, any appeals to differences 
+	in path length are simply wrong, and any book which uses that 
+	explanation is acting to spread science misconceptions.
+</blockquote>
+<hr>
+<pre>
+An alternate explanation of lift: "ATTACK ANGLE"
+
+As air flows over a wing, the flow adheres to the surfaces of the wing. 
+This is called the "Coanda effect."  Because the wing is tilted, the air
+is deflected downwards as it moves over the wing's surfaces.  Air which
+flows below the wing is pushed downwards by the wing surface, and because
+the wing pushes down on the air, the air must push upwards on the wing,
+creating a lifting force.  Air which flows over the upper surface of the
+wing is adhering to the surface also.  The wing "pulls downwards" on the
+air as it flows over the tilted wing, and so the air pulls upwards on the
+wing, creating more lifting force.  (Actually the air follows the wing
+because of reduced pressure, the "pull" is not really an attraction.)  The
+lifting force is created by Newton's Third Law and by conservation of
+momentum, as the flowing air which has mass is deflected downward as the
+wing moves forward.  Because of Coanda Effect, the upper surface of the
+wing actually deflects more air than does the lower surface.
+
+   My notes on "attack angle":
+
+	If you understand the "attack angle" explanation, then the causes
+	of other aircraft phenomena such as wingtip vortex will suddenly
+	become clear.  The air at the trailing edge of the wing is 
+	streaming downwards into the surrounding still air.  The edge 
+	of this mass of air curls up as the air moves downwards, creating 
+	the "wingtip vortex."  A similar effect can be seen when a drop
+	of dye falls into clear water: the edge of the mass of dye curls
+	up as the dye forces itself downwards into the water, resulting
+	in a ring vortex which moves downwards.
+
+	There is one major error associated with the "attack angle"
+	explanation.  This is the idea that only the LOWER surface of
+	the wing can generate a lifting force.  Some people imagine that
+	air bounces off the bottom of the tilted wing, and they come to
+	the mistaken belief that this is the main source of the lifting
+	force.  Even Newton himself apparantly made this mistake, and so
+	overestimated the necessary size of man-lifting craft. In reality,
+	air is deflected by both the upper and the lower surfaces of the
+	wing, with the major part being deflected by the upper surface.
+
+	Because a large, heavy aircraft must deflect an enormous amount of 
+	air downwards, people standing under a low-flying aircraft are 
+	subjected to a huge downblast of air.  They are essentially feeling 
+	a portion of the pressure which supports the plane.
+
+	The downwash can be useful: when a cropduster flies low over a 
+	field, the spray is injected into the airflow coming 
+	from the wings.  Rather than trailing straight back behind the 
+	craft, the spray is sent downwards by the downwash from the wings.
+	Also, during takeoff the downwash interacts with the ground and
+	causes lift to greatly increase.  Pilots use this effect to gain a
+	large airspeed just after takeoff.  Because of downwash "ground
+	effect," their engine needs to do much less work in keeping their
+	aircraft aloft, therefore the extra power available can be used to
+	speed up the plane.
+
+	To create adequate lift at extremely low speeds, an airfoil 
+	must be operated at a large angle of attack, and this leads to 
+	airflow detachment from wing's the upper surface (stall.)  To
+	prevent this, the airfoil must be carefully shaped.  A good low-
+	speed airfoil is much more curved on the top, since lift can be
+	created only if the wing surface carefully deflects air downwards
+	by adhesion.  Thus one origin of the misconception involving "more
+	curved upper surface."  The surface must be curved to prevent 
+	stall, not to create lift. The situation with the lower surface is 
+	different, since the lower surface can deflect the air by collision.
+	Even so, it makes sense to have the lower surface be somewhat 
+	concave, so that the air is slowly deflected as it proceeds along, 
+	and so the upwards pressure is distributed uniformly over the
+	lower surface.
+
+	Why does flowing air adhere to the upper surface of the wing?  This
+	is called the Coanda effect.  Apparently Dr. Bernoulli has a better
+	PR department than Dr. Coanda, (grin!) since everyone has heard of
+	Bernoulli, while Coanda is rarely mentioned in textbooks.
+
+	The only correct part of the "wingshape/pathlength" explanation of
+	lift is the description of the Bernoulli effect itself.  But the 
+	"Bernoulli Effect" can also be interpreted thus: because the 
+	wing is tilted, it creates a pocket of reduced pressure behind its
+	upper surface.  Air must rush into this pocket.  And at the tilted
+	lower surface, air collides with the surface and creates a region
+	of increased pressure.  Any air which approaches the high pressure
+	region is slowed down.  Therefore, the pressure is the cause of
+	the air velocity, not vice-versa as in the "airfoil-shape"
+	explanation above.  Also, it is wrong to imagine that the low
+	pressure above the wing is caused by the "Bernoulli effect" while
+	the high pressure below the wings is not.  Both pressure
+	variations have similar origin, but opposite values.
+
+	The "airfoil shape" explanation could be very useful in 
+	calculating the lifting force of an airfoil.  Knowing the fluid 
+	velocity at all points on the airfoil surface, the pressure may be 
+        calculated via Bernoulli's equation at all points, and if the
+        pressure at each point is vector summed, the total lifting force
+	upon the wing will be obtained.  The trick then is knowing how to
+	obtain the fluid velocities.  Appeals to differences in pathlength
+	do not work, so other methods (circulation and Kutta condition)
+	must be used.
+</pre>
+
+<hr><a name="parts"></a>
+
+<h3>Parts of the Airfoil Misconception</h1>
+
+<ol>
+<li><a href="/wing/airfoil.html#m1">
+Wings create lift because they are curved on top and flat on the
+   bottom.</a>   Incorrect.
+
+<li><a href="/wing/airfoil.html#m2">
+Part of the lifting force is due to Bernoulli effect, and part is due 
+   to Newton's 2nd law.</a>   Incorrect.
+
+<li><a href="/wing/airfoil.html#m3">
+To produce lift, the shape of the wing is critical.</a>  Incorrect.
+
+<li><a href="/wing/airfoil.html#m4">
+The Bernoulli effect pertains to the shape of the wing, while 
+   Newton's laws pertain to the angle of attack.</a>  Incorrect.
+
+<li><a href="/wing/airfoil.html#m5">
+Air which is divided by the leading edge must recombine at the 
+trailing edge.</a>  Incorrect.
+
+<li><a href="/wing/airfoil.html#m6">
+The upper surface of an airfoil must be longer than the lower surface.</a>  Incorrect.
+
+
+<li><a href="/wing/airfoil.html#md">
+The tilt of the wing produces part of the lift.  The shape of the wing 
+produces the rest.</a>  Incorrect.
+
+
+<li><a href="/wing/airfoil.html#m7">
+A wing is really just the lower half of a venturi tube.</a> Incorrect.
+
+
+<li><a href="/wing/airfoil.html#me">
+The upper surface of a wing will deflect air, but the lower surface is 
+horizontal, so it has little effect.</a> Incorrect.
+
+<li><a href="/wing/airfoil.html#m8">
+Airfoils need not deflect any air; pressure differences
+alone can produce lift.</a>  Incorrect.
+
+<li><a href="/wing/airfoil.html#m9">
+Ship propellors, rudders, rowboat oars, and helicopter blades all deflect water or 
+air.  But airplane wings are entirely different.</a>  NOPE.
+
+<li><a href="/wing/airfoil.html#ma">
+The "Coanda effect" only applies to thin liquid jets, not to airfoils 
+and flow attachment.</a>  Incorrect.
+
+<li><a href="/wing/airfoil.html#mb">
+An airfoil can create lift even at zero attack angle.</a>  Misleading.
+
+<li><a href="/wing/airfoil.html#mc">
+Cambered airfoils create lift at zero AOA, which proves that the 
+"Newtonian" theory of lift is wrong.</a>  Incorrect.
+
+<li><a href="/wing/airfoil.html#md">
+The "Newtonian" theory of lift is wrong because downwash happens 
+far behind the wing where it can have no effect.</a>  Incorrect.
+
+</ol>
+<pre>
+
+<a name="m1"></a>
+1. <b>Wings create lift because they are curved on top and flat on the
+   bottom.   INCORRECT.</b>
+
+     Incorrect because only some wings look like that, while other wings are
+     symmetrical (they're the same on top and bottom,) while still others 
+     are flat on top  ...and curved on the bottom!   And don't forget the 
+     hang-gliders and the Wright Brothers' flyer, both of which used thin 
+     fabric wings.
+
+
+<a name="m2"></a>
+2. <b>Part of the lifting force is due to Bernoulli effect, and part is due 
+   to Newton.   INCORRECT</b>
+
+     Incorrect because ALL wings, regardless of shape or degree of tilt,
+     must create ALL of their lift because of Newton.  To say otherwise 
+     would mean that a wing could violate Newton's Laws!  Yet at the same 
+     time, ALL wings create ALL of their lift because of the Bernoulli 
+     Equation.  This is true because all of the lifting force comes from
+     pressure differences on the wings' surfaces.
+
+     In fact, one hundred percent of the lifting force can be explained
+     by "Newton," by ignoring the pressure differences and instead 
+     measuring the deflected air and calculating the change in momentum.
+
+     And of course 100% of the lifting force can <i>also</i> be explained by
+     "Bernoulli", by looking at air speeds and then calculating the air 
+     pressure on every part of the wing surface.  See <a href="http://www.grc.nasa.gov/WWW/K-12/airplane/bernnew.html">the NASA site.</a>
+
+
+<a name="m3"></a>
+3. <b>To produce lift, the shape of the wing is critical.  INCORRECT.</b>
+
+     Incorrect because aerodynamic scientists have found that there are
+     two critical features of all airfoils:  the trailing edge of the wing
+     must be fairly sharp, and the trailing edge of the wing must be 
+     angled downwards.  This is discussed in advanced textbooks in the
+     chapters on circulatory flow, in the section on "Kutta Condition."
+
+     Wings are allowed to have all sorts of crazy airfoil, but if they 
+     don't have a downwards-tilted trailing edge which is sharp, they 
+     won't produce much lift.
+
+     Other featues of the wing are important but not critical.  For
+     example, in order to prevent "stall" the leading edge of the wing
+     must be fairly bulbous and the wing's upper surface must lack
+     sharp curves as well as being fairly smooth (no bumpy screws or
+     rivets allowed.)  If the wing's leading edge is too sharp, or if
+     its upper surface is made wrong, then the flow of air above the wing 
+     will break loose or "detach," and it will no longer be guided 
+     downwards by the upper surface.  This problem is called a "stall," 
+     and during a stall the amount of lifting force contributed by the 
+     upper wing surface becomes very small.
+
+
+<a name="m4"></a>
+4. <b>The Bernoulli effect pertains to the shape of the wing, while 
+   Newton's laws pertain to the angle of attack.  INCORRECT.</b>
+
+     Incorrect because Newton's laws pertain to all features of the wing; 
+     both to wing shape and attack angle.   Exactly the same thing is true 
+     of Bernoulli's equation.  Wings don't violate Newton's laws, and
+     wings in conventional flight (slower than the speed of sound) don't
+     violate Bernoulli's equation.  See #2 above.
+
+
+
+
+     Incorrect because aerodynamic scientists have found that there are
+
+
+  There are even some wings which
+     
+
+3. <b>Flat thin wings generate lift entirely because of Newton; because they
+   are tilted, while thick curved wings generate lift exclusively because 
+   of "Bernoulli Effect?"  INCORRECT.</b>
+
+Think a moment: if a wing
+  when a flat thin wing is given a positive angle of attack,
+    the air above the wing speeds up, and the air below the wing slows
+    down.  100 percent of the lifting force can be explained using 
+    either the "Bernoulli effect" or the Newton/Coanda principles.
+    These two simply are a pair of alternate viewpoints on the same
+    situation, and it's <i>wrong</i> to try to break the lifting force 
+    into a separate percentage of "Bernoulli" force and an "attack angle" 
+    force.
+
+
+longer path
+http://www.grc.nasa.gov/WWW/K-12/airplane/wrong1.html
+
+
+<a name="m6"></a>
+- In order to generate lift, the upper surface of an airfoil must be more
+  strongly curved than the lower surface?  INCORRECT
+
+   Incorrect, since lift can be generated by symmetrical airfoil such as 
+   those used on acrobatic aircraft.  Lift can also be generated by
+   thin fabric airfoils, by sheets of paper (paper airplanes), by tilted
+   pieces of flat plywood, or by "supercritical" airfoils which are more
+   curved on the BOTTOM than the top.
+
+
+<a name="m5"></a>
+5.<b>Air which is divided by the leading edge must recombine at the 
+trailing edge.</b>  INCORRECT.
+
+    Incorrect, since mathematical models and wind tunnel experiments both
+    show that the upper and lower air flows do not recombine.  See these 
+    <a href="airgif2.html">wind-tunnel photos</a> which illustrate this 
+    lack of recombining.
+
+
+
+
+
+
+
+
+- Asymmetrical airfoils produce lift because of their special shape, while 
+  symmetrical airfoils produce lift because they are tilted?  INCORRECT.
+
+- A symmetrical airfoil cannot create lift? INCORRECT
+
+
+- Aircraft cannot fly upside down?  INCORRECT
+
+
+- The decreased pressure above an airfoil creates much more lifting force
+  than the increased pressure below the airfoil.  Since the decreased
+  pressure above is supposedly caused by the Bernoulli effect, while the
+  increased pressure below is supposedly caused by collision of air with
+  the tilted wing, the "Bernoulli effect" supplies the lift.  Therefore 
+  the "angle of attack" effects are of less importance and can be ignored 
+  in order to simplify the explanation?  INCORRECT.
+
+    Incorrect, because both the increased pressure below the airfoil and
+    the decreased pressure above are created entirely by the Bernoulli
+    effect.  ALSO, both are caused by the angle of attack and the forces
+    resulting from the deflection of massive air.  100% of the lifting
+    force can be explained by appeals to the Bernoulli effect.  But also
+    100% of the lifting force can be explain by the process of deflection
+    of air by the wing.  However, explaining the difference in air speed
+    above and below the wing is not straightforward.
+
+
+- The low pressure above an airfoil produces suction.  The lifting force
+  is an upwards suction force. INCORRECT.
+
+    Incorrect.  Air molecules produce pressure upon a surface by colliding
+    with that surface.  They do not attract that surface.  In other words,
+    SUCTION DOES NOT EXIST.  When you suck air through a straw,
+    you are lowering the pressure within the straw.  There is no suction.
+    Instead, the outside atmosphere PUSHES the air into the straw.
+    So, while it is true that the pressure above the wing is low, it is
+    not true that the lifting force is caused by suction.  Instead, the
+    lifting force is caused by the pressure-difference.  If the pressure
+    above the wing should fall, then the ambient pressure below the wing
+    will force the airplane to move upwards.
+
+
+- The air in front of the leading edge of an airfoil and the air behind
+  the trailing edge are moving at zero degrees deflection?  INCORRECT.
+
+    Incorrect, since with a real aircraft, the air moves slightly upwards
+    to meet the leading edge of the wing, but then it is projected greatly
+    downwards from the trailing edge, creating a "downwash" flow.
+    Although the "upwash" equals the "downwash" in a 2-dimensional wind 
+    tunnel experiment, this is not true in practice with real airplanes. 
+    (2D wind tunnels depict ground-effect flight, not normal flight.)
+    With a real airplane flying high above the earth, if the "upwash" and
+    the "downwash" flows were equal, yet the lifting force was non-
+    zero, then this would totally violate the law of conservation of
+    momentum.  Unfortunately for the "airfoil-shape" camp, fundamental
+    physics principles must be satisfied, and Newton's laws are not
+    selectively violated by airfoils. In order to create an upwards
+    lifting force, there must be a net downward acceleration of parcels of
+    air.  Planes fly by pushing air downwards, which creates a pressure
+    difference across a wing.  Air-deflection and pressure are linked.  
+    You cannot have one without the other.
+
+
+- Airplane propellors, rudders, jet turbine blades, and helicopters all 
+  function by deflecting air to create force.  They throw the air one way,
+  and the air pushes them the other way.  But airplane wings are 
+  different? Wings operate by a separate kind of physics, and are "sucked 
+  upwards" by the Bernoulli effect?  INCORRECT.
+
+    Incorrect, because the real world cannot tell the difference between 
+    an airplane wing and a helicopter blade.  It does not know that a
+    ship's rudder and an airplane wing are different.  Wings, rudders, 
+    propellors, oars;  all these devices work by identical principles: 
+    they throw massive fluid one way, and are thrown the other way by 
+    action/reaction forces.  Bernoulli's equation does have bearing, since 
+    the action/reaction forces express themselves as a pressure difference 
+    across the surfaces of the object which deflects the fluid.
+
+
+- An airfoil can generate lift without deflecting air downward? INCORRECT.
+
+    Incorrect. If it did so, it would be staying in the air without
+    ejecting mass downwards, and this would violate the Conservation
+    of Momentum law.  Yes, balloons remain aloft without ejecting mass,
+    but balloons function via bouyancy forces, and an airplane wing
+    obviously does not.  Think about it: a helicopter hovers because it
+    throws air downwards.  Yet a 'copter blade is simply a moving wing!
+    If wings did not fling air downwards, if wings remained aloft only
+    through pressure differences, then helicopter blades would do the
+    same, and there would be no downblast below a helicopter.
+
+
+- An airfoil can generate a lifting force without causing a reaction 
+  force against the air?  INCORRECT.
+
+    Incorrect.  If it did so, it would violate Newton's Third Law of
+    Motion, the law of equal action and reaction forces.
+
+
+- The majority of textbooks use the popular 'path length' or 'airfoil
+  shape' explanation of lift, and it is inconceivable that this many books
+  could be wrong.  Therefore, the "path length" explanation is the 
+  correct one?  INCORRECT.
+
+    Incorrect, this argument from authority is simply wrong.  It is also
+    dangerous, since it convinces us to never question authority and to 
+    close our eyes to authors' errors.  If we trust the concensus 
+    agreements of others, then we become sheep which follow a leaderless 
+    herd.  Beware of this habit!  As the NASA space shuttle managers who 
+    closed their eyes to the Challanger booster seal problem found out, 
+    the real world is all too real.  Nature ignores politics, and 
+    scientific facts are determined by evidence, not by majority votes.
+
+
+<a name="me"></a>
+
+?. <b>The upper surface of a wing will deflect air, but the lower surface is 
+   horizontal, so it has little effect.</b> INCORRECT.
+
+     Incorrect, but for an interesting reason.  If a thin flat wing
+     deflects air downwards, diagrams show that the air above the wing and 
+     the air below the wing are equally deflected.  If we then make this 
+     wing thicker and streamlined, the total amount of deflected air and 
+     the lifting force remain the same...  but the air below the wing
+     appears less deflected, and the air above the wing appears more
+     deflected.  This happens because a thick wing must push air out
+     of its way, and as the flowing air curves away from the oncoming
+     wing, it takes a straighter path in the region below the wing.
+     This has no effect on the lifting force, since the air above the
+     wing takes a more curved path, so the pressure difference remains
+     the same.  The thick wing SEEMS to get more lift from the curved
+     streamlines above than from the straight streamlines below, but 
+     this is an illusion.  The lift comes from the DIFFERENCE between
+     the two flows, and changing the thickness of the wing will alter
+     the appearance of the air flows without changing the difference or
+     changing the lifthing force.
+
+
+<a name="m7"></a>
+
+- The 'Coanda effect' only involves narrow jets of air, and has little to
+  do with airfoil operation, so its exclusion from explanations of lift is
+  understandable and justified?  INCORRECT.
+
+    Incorrect, the Coanda effect involves the adhesion of a flow to a
+    surface.  It applies to ANY flowing fluid, not just to narrow jets. 
+    If the airflow across a wing did not adhere to the wing, the wing
+    would be permanently in the 'stall' regiem of operation.  During
+    "stall", it would not deflect air across its upper surface, and it
+    would produce a greatly diminished lifting force.
+
+<a name="m8"></a>
+
+- There are two explanations of airfoil lifting force: angle of attack, and
+  pressure differential.  The 'pressure differential' explanation is correct,
+  and the 'angle of attack' is misleading and can be ignored?  INCORRECT.
+
+    Incorrect.  Both explanations are useful once the incorrect parts of
+    the "path length" explanation have been removed.  They are two
+    different "mental models," they are two different ways of looking at
+    one complicated situation.  Paraphrasing the physicist R. Feynman:
+    "Unless you have several different ways of looking at something, you
+    don't really understand it."  A complete understanding requires that
+    we easily shift between alternate viewpoints.  Wings really do
+    produce lift when velocity differences create a vertically-
+    directed pressure differential across their surface area.  But also,
+    they really do produce lift by reacting against air and driving it
+    downwards.  Unfortunately the airfoil-shape-based explanation has 
+    become connected with several incorrect add-on explanations; the
+    "path-length" fallacy for example.
+
+
+<a name="m9"></a>
+- An airfoil can generate lift at zero angle of attack?  MISLEADING
+
+    Not entirely wrong: depending on how we define 'angle of 
+    attack', a wing may be at zero angle of attack even though it 
+    obviously *acts* tilted and deflects the oncoming air downwards.
+    This is a fight between semantics and reality.  If the rear portion of
+    a wing is tilted downwards and deflects the air downwards, shouldn't
+    it by definition have a positive angle of attack?
+    No, not if 'angle of attack' is measured by drawing a line between the
+    tips of the leading and trailing edges of the wing crossection.  If
+    the leading edge is bulbous, then small details on the leading edge
+    can radically change the location of the drawn line without radically
+    changing the interaction of the wing with the air.  If such a wing is
+    then rotated to force it to take a "zero" angle, that rotation in
+    reality tilts the wing to a positive attack angle and generates lift.
+
+
+<a name="ma"></a>
+- Cambered airfoils produce lift at zero AOA, which proves that the
+  "Newton" explanation is wrong?  INCORRECT
+
+    Incorrect.  Air has mass, and this means that it has inertia.  Because
+    of inertia, an exhaust port can produce a narrow jet of air, yet an
+    intake port cannot pull a narrow jet inwards from a distance.  This
+    concept applies to wings.  When a cambered airfoil moves forwards at
+    zero AOA (Angle of Attack,) air moves up towards the leading edge, and
+    air also flows downwards off of the trailing edge.  The air which
+    flows downwards behind the wing keeps moving downwards, and so the
+    rear half of the wing controls the angle of the downwash, while the
+    leading edge has little effect.  (In aerodynamics, this is called the 
+    "Kutta Condition.")  In a cambered wing at zero AOA, the rear half of 
+    the wing behaves as an airfoil with positive AOA.  On the whole, the 
+    cambered airfoil BEHAVES as if it has a positive AOA, even though the 
+    geometrical angle of attack is zero.
+
+<a name="mb"></a>
+
+- A properly shaped airfoil gives increased lift because the air on the 
+  upper surface moves faster than the air on the lower?  MISLEADING
+
+    Not entirely wrong.  This is only half the story.  A properly
+    shaped airfoil gives increased lift because the airflow does not
+    easily "detach" from the upper surface, so the upper airflow can 
+    generate lift even at large angles of attack and at low aircraft 
+    speeds.  A sheet of plywood makes a poor wing because the airflow will 
+    "detach" from the upper surface of the wood when the sheet is tilted 
+    more than a tiny bit. This is called "stall", and it causes the upper 
+    surface of the wing to stop contributing a lifting force.  A properly 
+    designed wing must spread the net deflection of air widely across its 
+    upper leading surface rather than concentrating all the deflection at 
+    its leading edge.  Hence, the upper surfaces of most wings are 
+    designed with the curvature which avoids immediate flow-detachment and 
+    stall.  The shape of wings does not create lift, instead it only
+    avoids stall.
+
+
+<a name="mc"></a>
+- The "Newton" explanation is wrong because downwash occurs BEHIND the 
+  wing, where it can have no effects?  Downwash can't generate a lifting
+  force?   INCORRECT.
+
+    Wrong, and silly as well!  The above statement caught fire on the
+    sci.physics newsgroup.  Think for a moment: the exhaust from a rocket
+    or a jet engine occurs BEHIND the engine.  Does this mean that
+    action/reaction does not apply to jets and rockets?  Of course not.
+    It's true that the exhaust stream doesn't directly push on the inner
+    surface of a rocket engine.  The lifting force in rockets is caused
+    by <i>acceleration</i> of mass, and within the exhaust plume the mass
+    is no longer accelerating.  In rocket engines, the lifting force 
+    appears in the same place that the exhaust is given high velocity:
+    where gases interact inside the engine.
+
+    And with aircraft, the lifting force appears in the same place that
+    the exhaust (the downwash) is given high downwards velocity.  If a 
+    wing encounters some unmoving air, and the wing then throws the air 
+    downwards, the velocity of the air has been changed, and the wing will 
+    experience an upwards reaction force.  At the same time, a downwash- 
+    flow is created.  To calculate the lifting force of a rocket engine, 
+    we can look exclusively at the exhaust velocity and mass, but this 
+    doesn't mean that the rocket exhaust creates lift.  It just means that
+    the rocket exhaust is directly proportional to lift (since the exhaust
+    velocity and the lifting force have a common origin.)  The same is 
+    true with airplane wings and downwash.   To have lift at high 
+    altitudes, we MUST have downwash, and if we double the downwash, we 
+    double the lifting force.  But downwash doesn't cause lift, instead 
+    the wing's interaction with the air both creates a lifting force and 
+    gives the air a downwards velocity (by F=MA, don't you know!)
+
+
+
+
+
+</pre>
+
+</font></td></tr></table>
+
+
+<center>
+<font size=3>
+<a href="/wing/airfoil.html">/wing/airfoil.html</a><br>
+Created and maintained by <a href="/billb.html">Bill Beaty</a>.  Mail me at: <a href="/amateur/amform.html#urls">billb@eskimo.com</a>.
+<br>
+If you are using Lynx, type "c" to email.
+</center>
+</strong>
+</font>
+</body>
+</html>
+
+

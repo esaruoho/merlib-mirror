@@ -1,0 +1,114 @@
+JBM - Calculations
+
+ Bibliography 
+ |
+ Calculations 
+ |
+ Downloads 
+ |
+ FAQ 
+ |
+ JBM 
+ |
+ Links 
+ |
+ Personal 
+ |
+ Software 
+ |
+ Topics 
+
+ A new topic, Elevation , has been added. It shows
+ the differences in trajectories when zeroing at different atmospheric conditions and how to calculate
+ a trajectory for different atmospheric conditions.
+
+ about these ads... 
+
+ JBM - Calculations
+
+ NOTE: I will not guarantee these calculations for ANY purpose. 
+ Remember to use common sense at all times and to check loading with 
+ current manufacturer's data.
+
+ If you think the functionality has changed, check the list of
+ changes because it probably has!
+
+ Ballistic Coefficients (Time) 
+
+ Calculates the ballistic coefficient for a near velocity,
+ time of flight, atmospheric conditions and drag function.
+
+ Ballistic Coefficients (Velocity) 
+
+ Calculates the ballistic coefficient for near and far 
+ velocities, atmospheric conditions and drag function.
+
+ Bullet Drag and Twist 
+
+ Calculates the bullet CD, and CD components, BC required twist and
+ stability for input twist. Inputs required are the bullet measurements
+ including nose length, total length, boattail length, meplat diameter,
+ base diameter, caliber, weight, atmospheric conditions and drag function.
+ This algorithm is based on the McDrag work done by Robert McCoy. 
+ See bibliography 
+
+ Drag Function Conversion 
+
+ Converts a ballistic coefficient for one drag function to a ballistic
+ coefficient for another drag function.
+
+ Maximum Distance 
+
+ Calculates the maximum range a bullet can travel given the 
+ muzzle velocity, ballistic coefficient, weight and atmospheric
+ conditions.
+
+ Modified Point Mass Trajectory 
+
+ Calculates a trajectory from bullet dimensions. This type of trajectory
+ provides a good estimate for things like spin drift and stability.
+ I have also added coriolis effects. It has a considerable number of 
+ inputs, so beware. This online calculation replaces my previously available
+ MPM program.
+
+ Power Factor 
+
+ Calculates the power factor and checks divisions for IDPA,
+ IPSC, TSA and USPSA.
+
+ Recoil 
+
+ Calculates the free recoil energy and velocity using firearm
+ weight, charge weight, bullet weight and firearm velocity.
+
+ Trajectories 
+
+ from bullet BC and firearm info. Inputs include muzzle velocity,
+ sight heights, chronograph distance, ballistic coefficient, drag 
+ function, line of sight and cant angles and atmospheric conditions. 
+ Output options include variable ranges and choice of units for windage
+ and drop (inches, MOA, and mils). Calculations are performed assuming
+ the bullet is a point mass. Elevation and azimuth are iteratively 
+ corrected to ensure a correct zero.
+
+ Trajectories -- Basic 
+
+ Not really "basic", but simpler. Many people don't use all the terms
+ in the trajectory calculation page listed above, so this page invisibly
+ sets defaults for variables like drag function (G1), sight offset, etc.
+ The calculation is done with the same program as the trajectory page 
+ above.
+
+ Trajectory Cards 
+
+ Very similar to the other trajectory programs on input, but the output
+ is currently limited to range, drop and windage (if you have suggestions
+ email me ) suitable for printing
+ on a 3"x5" card.
+
+ about these ads... 
+
+ JBM Small Arms Ballistics . 
+ Last update 30 June 2007, Copyright &copy; 1996-2007
+ JBM 
+ [V]

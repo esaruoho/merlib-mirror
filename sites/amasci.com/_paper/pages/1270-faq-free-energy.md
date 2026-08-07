@@ -1,0 +1,117 @@
+---
+title: "FAQ: Free Energy"
+source_domain: amasci.com
+source_path: ~billb/freenrg/fefaq.html
+order: 1270
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T05:55:02Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# FAQ: Free Energy
+
+*Source page: `~billb/freenrg/fefaq.html`*
+
+# "FREE ENERGY"
+
+# FREQUENTLY ASKED QUESTIONS
+
+                                                    1997 W. Beaty
+
+1.  [WHAT IS A "FREE ENERGY DEVICE?"](#what)
+2.  [AREN'T THEY ALL JUST "PERPETUAL MOTION" MACHINES, AND IMPOSSIBLE EVEN IN PRINCIPLE?](#pmm)
+3.  [ISN'T THERE A CONSPIRACY TO SUPPRESS THESE DEVICES?](#consp)
+4.  [AREN'T MOST F/E DEVICES REALLY JUST SCAMS TO RIP OFF GULLIBLE PEOPLE?](#arent)
+5.  [WHERE CAN I BUY ONE TO POWER MY HOME OR CAR?](#where)
+6.  [BUT.. BUT.. \*PLANS\* FOR F/E DEVICES ARE FOR SALE!](#plans)
+
+<!-- -->
+
+<span id="what"></span>
+
+### Q1: WHAT IS A "FREE ENERGY DEVICE?"
+
+A: The term "Free energy device" has a number of meanings:
+
+1.  A device which collects energy from a source that's not recognized by modern science.
+2.  Another name for "perpetual motion machine."
+3.  A device which collects energy at zero cost.
+
+Definition number one is the most commonly used. By this definition, a nuclear reactor would be a free energy device... if this were the year 1890! And if tomorrow a researcher discovers how to harness the neutrino flux, or finds out how to convert matter directly to energy, or harnesses gravity, or taps the energy of the Vacuum's particle sea, then that will be a "free energy device." However, as soon as the mainstream of science accepts the existence of the device and starts to figure out how it works, then the device will lose its "free energy" status.\
+
+For example, when Rutherford discovered that uranium ore would fog filmplates, he had discovered a "free energy" device. When science explained the radioactivity of unstable elements, uranium stopped being "free energy."\
+
+So, when a successful device is first attained, but before most people stop their hostile disbelief, and before scientists track down the true source of the unexplained energy, then the device can be called a "free energy" machine.\
+
+------------------------------------------------------------------------
+
+<span id="pmm"></span>
+
+### Q2: AREN'T THEY ALL JUST "PERPETUAL MOTION" MACHINES, AND IMPOSSIBLE EVEN IN PRINCIPLE?
+
+A: Is a thermoelectric cell a perpetual motion machine? Or a nuclear battery? After all, both of these devices just sit there silently, continuously producing energy from no obvious source. But a little investigation of either device will reveal a hidden energy source. If somebody discovers a new process which appears to emit energy continuously, then obviously that process must be extracting energy from somewhere. A true "perpetual motion machine" is impossible, but a machine which taps an unknown energy source is not.\
+
+Many scientists are greatly embarrased by any important discoveries made by amateurs. They fiercely hope that "free energy" reports indeed are crackpottery. Also, overly-zealous skeptics may wish to ridicule all claims of successful "free energy" devices, and place them into the wastecan labeled "Perpetual Motion Crackpottery." But both of these behaviors throw the baby out with the bathwater. Anyone who stumbles across a way to extract energy from the Zero Point Fields (for example,) will, at first glance, appear to be claiming the existence of perpetual motion. If a non-scientist discovers an unexpected source of energy, how can that non-scientist hope to convince anyone to take their claims seriously? How can they convince anyone to actually review their evidence? Therefor we should remain wary of automatically rejecting all "free energy" reports before inspecting the evidence.\
+
+Also, if such things as "Vacuum Energy converters" are possible, there is always the chance that a non-scientist might be the first to stumble across a way to build a successful device. After all, professional scientists cannot pursue such things ( too damaging to one's career!) If "free energy" devices are easy to build, then the secret to success might be within the reach of amateurs who follow up on their anomalous observations. Professional scientists will tend to ignore any anomaly which violates the conservation of energy. Therefor, while it might be correct to say that the discovery of "Free Energy" has low probability, it is very definitely wrong to dismiss these claims on the grounds that the probable existence of unknown energy sources is exactly zero.\
+
+On the other hand, "perpetual motion" crackpots really do exist in large numbers. Nowdays they attempt to hide behind the name "free energy." How can we sort the crackpots from the maverick heretical scientists? By using the same methods science has aways used : take a hard and honest look at the PHYSICAL EVIDENCE, the experimental results. It doesn't matter if a person is a PhD physicist or a lunatic backyard experimenter, their physical evidence will show if their discovery is real.\
+
+------------------------------------------------------------------------
+
+<span id="consp"></span>
+
+### Q3: IS THERE A CONSPIRACY TO SUPPRESS THESE DEVICES?
+
+A: Yes and no.\
+
+Is there a CONSPIRACY to keep women in low-paying jobs? No, there is just wide-ranging sexism, and sexist employers need not "conspire" together.\
+
+To the people who are victims of sexist behavior, it may SEEM as if employers are conspiring together against them. But bigotry is not a conspiracy, instead it is a sort of disease which spreads through groups of people. We might become "infected" with bigotry, but obviously no secret organization is needed for bigotry to spread. We don't have to join a secret society in order to become a practicing sexist. In other words, suppression can easily exist without any conspiracies.\
+
+Prejudice against the "Free Energy" research field has a similar origin. People who behave as "science bigots" constantly attack its adherents. They smear the field with derogatory names and use fairly underhanded tactics to discredit the research. And they believe that their behavior is proper. They are convinced that Science needs to be defended against the "hoards of crackpots." It's a war, and in war, underhanded tactics become acceptable. If tomorrow I were to publicly announce that I was attempting to duplicate some inventor's claimed "overunity device," I would expect to receive smug laughter and sneering putdowns from any reputable scientist who heard about it. If my income depended on peer review by other scientists, I would expect to have my funding quickly cut off. But this bigotry is a result of belief systems, not of conspiracy. Skeptical scientists know, WITHOUT EXAMINING EVIDENCE that I must be some sort of deranged crackpot. They take "justified" action in preventing my incompetent waste of funding. But what if they're wrong? The problem is not that crackpots might waste funding. The problem is that "crackpots" are condemned without a fair hearing (often without any hearing at all.)\
+
+Was it a conspiracy which threatened great unconventional discoveries of the past? The scientists who derided and dismissed plate tectonics, flying machines, perceptrons, endosymbiosis, black holes, spacecraft, television, etc., they didn't belong to any conspiracy. Do the scientists of today ridicule free energy? Well, history teaches us that ever was it so. If something is outside of science, it will be disparaged by scientists. If it later is proved to be genuine, scientists silently accept it, and might even claim that their disparagement never happened. History shows many [instances](/weird/vindac.html) of this process. Yet the lessons of history have no impact on the behavior of "science bigots."\
+
+No conspiracy is needed to explain why a widespread group of people will exhibit identical styles of prejudice and ignorance. F/E devices might be suppressed, but look to human nature for the cause, not to secret conspiracies.\
+
+On the other hand, a few inventors have reported genuine harassment, among them H. Moray, John Bedini, Floyd Sweet, and [Dr. Paul Brown](http://www.padrak.com/ine/INE17.html). Adam Trombly had his homopolar machine patent placed under a Secrecy Order. Teuro Kawai's [magnetic motor](http://www.cheniere.org/correspondence/012202a.htm) was taken over by the japanese mafia. Attempts at active suppression do occur, but these are not what is keeping FE devices off the market.\
+
+------------------------------------------------------------------------
+
+<span id="arent"></span>
+
+### Q4: AREN'T MOST F/E DEVICES REALLY JUST SCAMS TO RIP OFF GULLIBLE PEOPLE?
+
+A: No, most are not. But some are. As the skeptics constantly say, "KEEP YOUR HAND ON YOUR WALLET!" :) Don't make donations to companies unless they are registered Nonprofit organizations. Don't buy expensive device plans by mail-order. Don't buy a franchise in a free energy sales company until the inventors have broken their secrecy and allowed independant groups to replicate their devices.\
+
+The vast majority of F/E researchers really are honestly pursuing the goal of New Science which makes "fuelless" portable energy sources possible. Some have advanced to the point where they need funds to properly develop their discoveries. However, since scams are not unknown in this field, investors in F/E companies should be extremely wary. They should expect to lose their investment, and never risk their life savings. After all, longshot-betting is risky, even if it sometimes does give large returns!\
+
+Some skeptics claim that ALL free energy reports are scams. They are wrong, and they probably have a hidden reason to be making this claim. However, those who claim that F/E scams do not exist are similar: look for a hidden agenda. The truth is somewhere between.\
+
+------------------------------------------------------------------------
+
+<span id="where"></span>
+
+### Q5: WHERE CAN I BUY ONE TO POWER MY HOME OR CAR?
+
+A: No successful F/E machine exists. The situation resembles that with flying machines in 1900: there are occasional successes, lots of crazy overblown claims, experts smugly assuring us that such things are impossible, crackpots with crazy theories, and paranoid inventors hiding fantastic discoveries both real and imagined. The equivalent of the "Wright Brothers" have yet to appear on the scene and show us how to REALLY do it right. Drs. Pons and Fleichman came close to "Wright Brothers" status with their cold fusion discovery, but couldn't penetrate the walls of skepticism.
+
+------------------------------------------------------------------------
+
+<span id="plans"></span>
+
+### Q6: BUT.. BUT.. \*PLANS\* FOR F/E DEVICES ARE FOR SALE!
+
+A: As of 02/2001, no proven F/E device exists. Hundreds of amateurs are hotly pursuing anything which could lead to success. There are several [FREE ENERGY PRIZES](http://www.eskimo.com/~billb/weird/wener.html), but so far nobody has won any of them.\
+
+Yet some mail-order companies sell plans for working free energy devices. THESE ARE A LIE AND A RIPOFF! The companies pretend that the plans really work. They don't say "experimental only," or "speculative," or "unproven device". Some companies even suggest that their devices could power a home or a car. But they cannot even run a flashlight. Their prices are high, which might be reasonable if the devices were real. But since they don't work, the high price is simply a way to maximize the ripoff.\
+
+Suppose it was 1890 (long before the Wright brothers.) Would you buy plans for a "genuine" flying machine? If so, you'd be wasting your money. If someone can make a successful machine, why do they need to sell plans to the gullible? Or suppose it was 1930, would you buy plans for a "genuine" atomic generator to run your home? Of course not. So "vote with your wallet," and don't send any money to these dishonest "plans" companies. If you already have wasted money, then contact the post office. Mail-order ripoffs are a federal crime, so it should be easy to get a refund.\
+
+On the other hand, there are a couple of HONEST companies which sell mail-order booklets and information packets at reasonable prices. They provide information for amateur researchers. They just quietly provide a service without all the screaming hype. They NEVER sell expensive secret plans for "real" gravitational energy generators which can run a home or car.\
+
+Created and maintained by [Bill Beaty](http://www.eskimo.com/~billb/billb.html). Mail me at: [billb@eskimo.com](http://www.eskimo.com/~billb/amateur/amform.html#urls).\
+If you are using Lynx, type "c" to email.

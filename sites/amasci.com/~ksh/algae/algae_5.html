@@ -1,0 +1,333 @@
+<HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Created on October, 31  2001 by texi2html 1.64 -->
+<!-- 
+Written by: Lionel Cons <Lionel.Cons@cern.ch> (original author)
+            Karl Berry  <karl@freefriends.org>
+            Olaf Bachmann <obachman@mathematik.uni-kl.de>
+            and many others.
+Maintained by: Olaf Bachmann <obachman@mathematik.uni-kl.de>
+Send bugs and suggestions to <texi2html@mathematik.uni-kl.de>
+ 
+-->
+<HEAD>
+<TITLE>Algae: Data</TITLE>
+
+<META NAME="description" CONTENT="Algae: Data">
+<META NAME="keywords" CONTENT="Algae: Data">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META NAME="Generator" CONTENT="texi2html 1.64">
+
+</HEAD>
+
+<BODY LANG="" BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080" ALINK="#FF0000">
+
+<A NAME="SEC35"></A>
+<TABLE CELLPADDING=1 CELLSPACING=1 BORDER=0>
+<TR><TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_4.html#SEC7"> &lt;&lt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_6.html#SEC36"> &gt;&gt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae.html#SEC_Top">Top</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_toc.html#SEC_Contents">Contents</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57">Index</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_abt.html#SEC_About"> ? </A>]</TD>
+</TR></TABLE>
+
+<HR SIZE=2>
+<h1><img src="icon.gif" alt="">  5. Data </H1>
+<!--docid::SEC35::-->
+<P>
+
+Entities are the basic objects (constants and variables) in Algae.
+They contain members and elements.  Members contain information about
+the entity, such as the number of rows in a matrix.  An entity's
+elements, if it has any, contain the data such as the value of a scalar.
+There are five classes:</P><P>
+
+<DL COMPACT>
+<DT><SAMP>`scalar'</SAMP>
+<DD><A NAME="IDX143"></A>
+<A NAME="IDX144"></A>
+The <SAMP>`scalar'</SAMP> data structure contains a single element, its value, which
+may have any of the data types described above.  Its members are:<P>
+
+<DL COMPACT>
+<DT><SAMP>`class'</SAMP>
+<DD>The string <SAMP>`"scalar"'</SAMP>.
+<P>
+
+<DT><SAMP>`type'</SAMP>
+<DD>The type (like <SAMP>`"integer"'</SAMP> or <SAMP>`"real"'</SAMP>).
+</DL>
+<P>
+
+Notice that a scalar is not the same as a one-element vector or
+matrix.</P><P>
+
+<DT><SAMP>`vector'</SAMP>
+<DD><A NAME="IDX145"></A>
+The <SAMP>`vector'</SAMP> entity contains a one-dimensional array of elements.
+Its members are:<P>
+
+<A NAME="IDX146"></A>
+<DL COMPACT>
+<DT><SAMP>`class'</SAMP>
+<DD>The string <SAMP>`"vector"'</SAMP>.
+<P>
+
+<DT><SAMP>`type'</SAMP>
+<DD>The type (like <SAMP>`"integer"'</SAMP> or <SAMP>`"real"'</SAMP>).
+<P>
+
+<DT><SAMP>`density'</SAMP>
+<DD>Either <SAMP>`"dense"'</SAMP> or <SAMP>`"sparse"'</SAMP>.
+<P>
+
+<DT><SAMP>`ne'</SAMP>
+<DD>The number of elements.
+<P>
+
+<DT><SAMP>`nn'</SAMP>
+<DD>The number of non-zero elements.
+<P>
+
+<DT><SAMP>`eid'</SAMP>
+<DD>The element labels.
+</DL>
+<P>
+
+The element labels of a vector are themselves a vector.
+</P><P>
+
+<DT><SAMP>`matrix'</SAMP>
+<DD><A NAME="IDX147"></A>
+The <SAMP>`matrix'</SAMP> data structure contains two-dimensional arrays of
+elements.  It contains zero or more rows and columns.  The members of a
+matrix are:<P>
+
+<A NAME="IDX148"></A>
+<DL COMPACT>
+<DT><SAMP>`class'</SAMP>
+<DD>The string <SAMP>`"matrix"'</SAMP>.
+<P>
+
+<DT><SAMP>`type'</SAMP>
+<DD>The type (like <SAMP>`"integer"'</SAMP> or <SAMP>`"real"'</SAMP>).
+<P>
+
+<DT><SAMP>`symmetry'</SAMP>
+<DD>One of <SAMP>`"general"'</SAMP>, <SAMP>`"symmetric"'</SAMP>, or <SAMP>`"hermitian"'</SAMP>.
+<P>
+
+<DT><SAMP>`density'</SAMP>
+<DD>One of <SAMP>`"dense"'</SAMP>, <SAMP>`"sparse"'</SAMP> or <SAMP>`"sparse_upper"'</SAMP>.
+<P>
+
+<DT><SAMP>`nr'</SAMP>
+<DD>The number of rows.
+<P>
+
+<DT><SAMP>`nc'</SAMP>
+<DD>The number of columns.
+<P>
+
+<DT><SAMP>`nn'</SAMP>
+<DD>The number of nonzero elements.  For matrices with "sparse_upper"
+density, this number does not include the elements on the diagonal, all
+of which are stored.  Sorry.
+<P>
+
+<DT><SAMP>`rid'</SAMP>
+<DD>The row labels.
+<P>
+
+<DT><SAMP>`cid'</SAMP>
+<DD>The column labels.
+</DL>
+<P>
+
+The row and column labels of a matrix are vectors.  The row label vector
+has the same number of elements as its matrix has rows, and likewise for
+the column label.</P><P>
+
+<A NAME="IDX149"></A>
+<DT><SAMP>`table'</SAMP>
+<DD>The <SAMP>`table'</SAMP> object is like a bucket that can contain any number of
+other objects.<P>
+
+Several functions return tables.  For example, the <CODE>eig</CODE> function
+returns a table that contains the matrices <CODE>values</CODE> and
+<CODE>vectors</CODE>.</P><P>
+
+The entities contained in a table are members of it, so they can be
+extracted using the <KBD>.</KBD> operator.  Thus <CODE>eig(A).values</CODE> returns
+the eigenvalues of <SAMP>`A'</SAMP>.</P><P>
+
+<A NAME="IDX150"></A>
+<DT><SAMP>`function'</SAMP>
+<DD>Functions are entities just like scalars and matrices, and can be
+operated on in the same manner.  Functions have two members:
+<SAMP>`class'</SAMP>, which is <CODE>"function"</CODE>, and <SAMP>`ilk'</SAMP>, which is
+either <CODE>"user"</CODE> or <CODE>"builtin"</CODE>.
+</DL>
+<P>
+
+<A NAME="IDX151"></A>
+<A NAME="IDX152"></A>
+<A NAME="IDX153"></A>
+The <CODE>scalar</CODE>, <CODE>vector</CODE>, and <CODE>matrix</CODE> classes are known
+collectively as <EM>arrays</EM>.  These are the only classes that contain
+elements, and all have the member <CODE>type</CODE> that specifies the data
+type.  There are four types:</P><P>
+
+<DL COMPACT>
+<DT><SAMP>`integer'</SAMP>
+<DD><A NAME="IDX154"></A>
+On most machines this is a 32-bit integer, like 42 or -273.
+<P>
+
+<DT><SAMP>`real'</SAMP>
+<DD><A NAME="IDX155"></A>
+This is a floating point number like 3.1415.  It is stored in 64 bits on
+most machines.
+<P>
+
+<DT><SAMP>`complex'</SAMP>
+<DD><A NAME="IDX156"></A>
+This is a complex number having both real and imaginary
+parts.
+<P>
+
+<DT><SAMP>`character'</SAMP>
+<DD><A NAME="IDX157"></A>
+This is a character string like <SAMP>`"Hello"'</SAMP>.
+</DL>
+<P>
+
+<A NAME="IDX158"></A>
+<A NAME="IDX159"></A>
+<A NAME="IDX160"></A>
+Scalar constants are specified in a manner similar to that used in other
+programming languages.  Numeric constants can be given in decimal form,
+such as <SAMP>`32'</SAMP> or <SAMP>`32.0'</SAMP>, or in scientific notation, such as
+<SAMP>`3.2E1'</SAMP>.  In the latter notation, the letters <SAMP>`e'</SAMP> and <SAMP>`E'</SAMP>
+may be used interchangeably to prefix the exponent.  White space (space,
+tab, etc.) is significant in that context, of course, so that <SAMP>`1.2e+3'</SAMP>
+(1200.0) is definitely not the same as <SAMP>`1.2e +3'</SAMP> (4.2).</P><P>
+
+<A NAME="IDX161"></A>
+<A NAME="IDX162"></A>
+<A NAME="IDX163"></A>
+<A NAME="IDX164"></A>
+<A NAME="IDX165"></A>
+<A NAME="IDX166"></A>
+<A NAME="IDX167"></A>
+<A NAME="IDX168"></A>
+A <SAMP>`character'</SAMP> constant is a sequence of one or more characters
+surrounded by matching double-quotes.  Within the quotes, the backslash
+character may be used to introduce "escape sequences" for unusual
+characters like <KBD>newline</KBD>.  For example, the string <SAMP>`"\""'</SAMP> is a
+string containing a single character (the right double-quote).  The
+following escape sequences may be used:</P><P>
+
+<DL COMPACT>
+<DT><CODE>\a</CODE>
+<DD>bell
+<DT><CODE>\b</CODE>
+<DD>backspace
+<DT><CODE>\e</CODE>
+<DD>escape
+<DT><CODE>\f</CODE>
+<DD>formfeed
+<DT><CODE>\n</CODE>
+<DD>newline
+<DT><CODE>\r</CODE>
+<DD>carriage return
+<DT><CODE>\t</CODE>
+<DD>tab
+<DT><CODE>\v</CODE>
+<DD>vertical tab
+<DT><CODE>\ooo</CODE>
+<DD>octal number
+<DT><CODE>\xhh</CODE>
+<DD>hexadecimal number
+</DL>
+<P>
+
+The escape sequence <CODE>\ooo</CODE> consists of a backslash followed by one,
+two, or three octal digits, which are taken to specify the value of the
+desired character.  For example, <CODE>\33</CODE> is the ASCII "escape"
+character (which is also given by <CODE>\e</CODE>).  Likewise, the sequence
+<CODE>\xhh</CODE> consists of a backslash followed by <SAMP>`x'</SAMP>, followed by
+one or two hexadecimal digits, which specify the value of the desired
+character.  For example, <CODE>\x1b</CODE> also specifies the ASCII "escape"
+character.</P><P>
+
+If the character following the backslash is not one of those specified
+above, then that character is taken literally.  For example, <CODE>\"</CODE>
+specifies the double-quote character--not the end of the character
+constant.</P><P>
+
+<A NAME="IDX169"></A>
+Matrices may be generated by specifying their elements within brackets.
+Commas separate elements within rows and semicolons separate the rows.
+Thus <CODE>[1,2;3,4]</CODE> specifies the matrix</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=display><pre style="font-family: serif">[ 1  2 ]
+[ 3  4 ]
+</pre></td></tr></table></P><P>
+
+<A NAME="IDX170"></A>
+<A NAME="IDX171"></A>
+A vector may be generated by using either of the forms <SAMP>`i:j'</SAMP> or
+<SAMP>`i:j:k'</SAMP>.  It is obtained by starting with the value <SAMP>`i'</SAMP> and
+incrementing by <SAMP>`k'</SAMP> (or 1 if the first form is used) while
+remaining between <SAMP>`i'</SAMP> and <SAMP>`j'</SAMP>, inclusive.  (Notice that this
+is not the same format used by MATLAB.)  For example, <CODE>[1:8:2]</CODE> is
+the same as <CODE>[1,3,5,7]</CODE>.  All elements within a matrix have the
+same type (<SAMP>`integer'</SAMP>, <SAMP>`real'</SAMP>, etc.); conversion will be
+performed automatically if possible.</P><P>
+
+The terms within the brackets may be constants, variables, or
+expressions.  For example, <CODE>[1+2,3]</CODE> is the same as <CODE>[3,3]</CODE>.
+Matrices may be involved, as long as their dimensions are appropriate.
+For example, if the variable <SAMP>`A'</SAMP> is defined to be equal to the
+square matrix <SAMP>`[1,2;3,4]'</SAMP>, then a new column could be appended to
+it with the expression <CODE>[A,[5;6]]</CODE> to yield</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=display><pre style="font-family: serif">[ 1  2  5 ]
+[ 3  4  6 ]
+</pre></td></tr></table></P><P>
+
+Matrices may be partitioned by specifying the desired row and column
+numbers within brackets.  For example, if <SAMP>`A'</SAMP> is a previously
+defined matrix then <CODE>A[1;1]</CODE> specifies a scalar having the value of
+the element in the first row and the first column of <SAMP>`A'</SAMP>.  The
+semicolon within the parentheses separates the row specifiers from the
+column specifiers.</P><P>
+
+Members of data structures are referred to by using the member operator
+<SAMP>`.'</SAMP>.  For example, the number of rows in a matrix is stored in the
+member <CODE>nr</CODE>, so <CODE>A.nr</CODE> returns the number of rows in the
+matrix <CODE>A</CODE>.  The member operator associates left to right, so that
+<CODE>A.type.type</CODE> returns the string <CODE>"character"</CODE>.</P><P>
+
+<A NAME="Standard Functions"></A>
+<HR SIZE="6">
+<TABLE CELLPADDING=1 CELLSPACING=1 BORDER=0>
+<TR><TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_4.html#SEC7"> &lt;&lt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_6.html#SEC36"> &gt;&gt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae.html#SEC_Top">Top</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_toc.html#SEC_Contents">Contents</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57">Index</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_abt.html#SEC_About"> ? </A>]</TD>
+</TR></TABLE>
+<BR>  
+<FONT SIZE="-1">
+This document was generated
+by <I>K. Scott Hunziker</I> on <I>October, 31  2001</I>
+using <A HREF="http://www.mathematik.uni-kl.de/~obachman/Texi2html
+"><I>texi2html</I></A>
+
+</BODY>
+</HTML>

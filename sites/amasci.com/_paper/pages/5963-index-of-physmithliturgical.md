@@ -1,0 +1,47 @@
+---
+title: "Index of /~physmith/Liturgical"
+source_domain: amasci.com
+source_path: ~physmith/Liturgical/index.html
+order: 5963
+reachable_from_entry: false
+images: 26
+internal_links: 1
+extracted: 2026-08-07T05:58:49Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Index of /~physmith/Liturgical
+
+*Source page: `~physmith/Liturgical/index.html`*
+
+# Index of /~physmith/Liturgical
+
+     Name                    Last modified       Size  Description
+
+     Parent Directory        08-Oct-2000 16:10      -  
+     advent3.gif             02-Nov-1997 13:42     8k  
+     bethanim.gif            05-Dec-1999 13:53    15k  
+     bible.jpg               02-Nov-1997 13:43     3k  
+     chrstli.jpg             02-Nov-1997 13:43     6k  
+     crchild.gif             02-Nov-1997 13:43     7k  
+     crchild2.jpg            02-Nov-1997 13:43     4k  
+     croix.jpg               02-Nov-1997 13:43     2k  
+     croix2.jpg              02-Nov-1997 13:43     2k  
+     cross.gif               02-Nov-1997 13:43     2k  
+     cross4.gif              02-Nov-1997 13:43     2k  
+     grcross.gif             02-Nov-1997 13:43     1k  
+     hands.gif               02-Nov-1997 13:43     1k  
+     jerucrli.gif            02-Nov-1997 13:44     1k  
+     jerucrss.gif            02-Nov-1997 13:44     2k  
+     jnoise.gif              02-Nov-1997 13:44     5k  
+     liturgcl.html           05-Dec-1999 13:58     4k  
+     passion.jpg             02-Nov-1997 13:44     4k  
+     redcrossjpg             02-Nov-1997 13:44     5k  
+     risen.jpg               02-Nov-1997 13:44     6k  
+     stain4.jpg              02-Nov-1997 13:44     7k  
+     star.gif                02-Nov-1997 13:44     3k  
+     sunmoon.gif             02-Nov-1997 13:44     3k  
+     virgin.gif              02-Nov-1997 13:44     6k  
+     whpclogo.jpg            02-Nov-1997 13:45     2k  
+
+------------------------------------------------------------------------

@@ -1,0 +1,153 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+ <META NAME="GENERATOR" CONTENT="SGML-Tools 1.0.9">
+ <TITLE>The Loadlin+Win95 mini-HOWTO: Getting started:</TITLE>
+ <LINK HREF="loadlin-4.html" REL=next>
+ <LINK HREF="loadlin-2.html" REL=previous>
+ <LINK HREF="loadlin.html#toc3" REL=contents>
+</HEAD>
+<BODY>
+<A HREF="loadlin-4.html"><IMG SRC="next.gif" ALT="Next"></A>
+<A HREF="loadlin-2.html"><IMG SRC="prev.gif" ALT="Previous"></A>
+<A HREF="loadlin.html#toc3"><IMG SRC="toc.gif" ALT="Contents"></A>
+<HR>
+<H2><A NAME="s3">3. Getting started:</A></H2>
+
+<P>
+<H2><A NAME="ss3.1">3.1 Determine what version of Windows 95 you have.</A>
+</H2>
+
+<P>Boot your computer to Windows 95 and right click on the My computer
+icon. Now left click on Properties. On the General Tab, look under the
+&quot;System:&quot; line. There you will see the version number.
+<P>
+<H2><A NAME="ss3.2">3.2 Determine if you are using the FAT32 file system.</A>
+</H2>
+
+<P><B>NOTE:</B> If you have Windows 95 version 4.00.950b, <EM>make certain
+you are <B>not</B> using the FAT32 file system</EM>. Double click the
+My Computer  icon, then right click the Drive C icon. Left click on 
+Properties. On the General tab, the &quot;Type:&quot; line will 
+indicate whether or not you have a FAT32 file system. <B>If you
+are using the FAT32 file system, then go directly to
+<A HREF="loadlin-6.html#Section 6">Section 6</A> </B>. Otherwise, continue with
+<B>Section 3.3</B>.
+<P>
+<H2><A NAME="ss3.3">3.3 Make sure filename extensions are visible in Windows Explorer.</A>
+</H2>
+
+<P>
+<UL>
+<LI>Run the Windows Explorer file manager program.</LI>
+<LI>On the Menu Bar, click on View, then click on Options. 
+On the View Tab, make sure that the &quot;Show all files&quot; radio
+button is marked. Also, make sure that the line with &quot;Hide MS-DOS
+file extensions for file types that are registered&quot; is unchecked.
+Click on the OK button.</LI>
+</UL>
+<P><B>NOTE:</B> If your hard drive already contains the *.dos files mentioned
+in the 
+<A HREF="loadlin-2.html#&quot;NOTE:&quot; of Section 2.3">NOTE: of Section 2.3</A>, then skip to the next 
+<A HREF="#&quot;NOTE:&quot;">NOTE:</A>. Otherwise, continue with
+<B>Section 3.4</B>.
+<P>
+<H2><A NAME="ss3.4">3.4 Rename your system files.</A>
+</H2>
+
+<P>
+<UL>
+<LI>Insert the DOS 5.0 or DOS 6.x bootable floppy into Drive A. Click
+on the Drive A icon so you can see the contents on the floppy disk.</LI>
+<LI>Rename each file to a .dos file extension. You can do this by
+single clicking on a file, pressing the F2 function key, and typing in
+the new name. Do not worry if you need the bootable floppy to work
+properly, just rename the files back after you are finished with this  
+procedure.</LI>
+</UL>
+<P>
+<H2><A NAME="ss3.5">3.5 Important Warning.</A>
+</H2>
+
+<P>
+<UL>
+<LI><B>EXTREMELY IMPORTANT:</B> Make sure you rename the files on the
+floppy <B>BEFORE</B> you copy them to Drive C. Otherwise you will
+overwrite your Windows 95 system files. <EM>You have been warned</EM>. 
+Now, copy all files to the root directory of Drive C. One method is to
+click on the Drive A icon, press CTRL+A, press CTRL+C, click on the
+Drive C icon, and press CTRL+V.</LI>
+</UL>
+<P>
+<A NAME="&quot;NOTE:&quot;"></A> <B>NOTE:</B> If you <B>do not</B> have
+Windows 95 OSR2 (version 4.00.950b), please skip to 
+<A HREF="#Section 3.6">Section 3.6</A>.
+<P>
+<UL>
+<LI>If (and only if) you have Windows95 version 4.00.950b, make sure
+you have a file named Winboot.sys in the root directory of Drive C, as
+stated in 
+<A HREF="loadlin-2.html#Section 2.3">Section 2.3</A> above. <B>Failure to have Winboot.sys
+in the root directory of Drive C will result in a system lockup should
+you attempt to boot to an earlier version of DOS.</B></LI>
+</UL>
+<P><B>NOTE:</B> If you are using a  DOS 6.x boot disk skip to 
+<A HREF="loadlin-4.html#Section 4">Section 4</A>, otherwise continue with the next step.
+<P>
+<H2><A NAME="Section 3.6"></A> <A NAME="ss3.6">3.6 Edit your system files.</A>
+</H2>
+
+<P>
+<UL>
+<LI>Open Notepad. On the Menu Bar, click on Open. Change &quot;Files
+of type&quot; to &quot;All files (*.*)&quot;. Change &quot;Look
+in:&quot; from Desktop to Drive C. Now open Config.dos by double
+clicking on the filename. Delete all the contents. This will create a
+0K file...I will explain later. Save the file.</LI>
+<LI>Use Notepad to open and edit Autoexec.dos and type in the Loadlin
+command. The Loadlin command must be in the following syntax: </LI>
+</UL>
+<P>
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+
+ Loadlin DriveLetter:\LinuxKernelFile root=/dev/LinuxBootPartition ro
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P>Here is my Autoexec.dos file as an example:
+<P>
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+
+ Loadlin f:\vmlinuz root=/dev/hdc2 ro
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P><B>NOTE:</B> The kernel, as well as the Loadlin.exe, file may be anywhere
+on your hard drive as long as you reference the correct path. For
+example, if your kernel file was located in  the directory
+e:\linux\kernels and Loadlin.exe was located in the directory c:\utils,
+you would use:
+<P>
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+
+ c:\utils\loadlin e:\linux\kernels\vmlinuz root=/dev/hdc2 ro
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P>
+<UL>
+<LI>Save the file.</LI>
+</UL>
+<P>
+<HR>
+<A HREF="loadlin-4.html"><IMG SRC="next.gif" ALT="Next"></A>
+<A HREF="loadlin-2.html"><IMG SRC="prev.gif" ALT="Previous"></A>
+<A HREF="loadlin.html#toc3"><IMG SRC="toc.gif" ALT="Contents"></A>
+</BODY>
+</HTML>

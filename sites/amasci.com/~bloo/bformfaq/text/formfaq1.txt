@@ -1,0 +1,484 @@
+
+This document can also be found on the WWW at: 
+Main Site (English):    
+    <URL:http://www.blooberry.com/bformfaq/>
+In French:
+    <URL:http://www.cam.org/~trav/prothese.htm>
+In German:
+    <URL:http://crossdress.t-data.com/Crossdressing/5brust.htm>
+
+            Breast Form FAQ v4.0 Index
+           ---------------------------
+
+
+******************************************************************
+PART I: Introductions, breast cancer and the breast form industry
+******************************************************************
+     0. What's new in this version/wish list for future versions
+     1. Disclaimers
+     2. Thanks To...
+     3. Purpose of the FAQ
+     4. What is a breast form?
+     5. History
+        A. History of the bra
+        B. History of breast implants
+        C. History of breast forms
+     6. Information about breast cancer
+     7. Breast cancer treatment and recovery options 
+     8. Medical purpose for the breast form industry
+     9. How soon can you be fitted for a prosthesis after breast surgery?
+    10. How the transgendered community benefits
+
+PART II: Materials, Form Types, and Attachable Forms
+----------------------------------------------------
+    11. Materials used in commercial breast forms
+        (Good points and Bad points)
+          A. Silicone
+          B. Rubber/Latex
+          C. Foam
+          D. Cotton Batting
+    12. Why choose a weighted or non-weighted form?
+    13. Types of forms
+          A. Symmetrical
+             1. Triangle (tri-corner)
+             2. Teardrop 
+             3. Heart shape
+          B. Asymmetrical
+             1. Curved teardrop 
+             2. Extended triangle
+          C. Other types of breast forms and accessories
+             1. Custom breast forms
+             2. Attachable forms
+             3. Thin shell breast forms
+             4. Attachable nipples
+    14. More details about Custom breast forms
+        A. Why choose a custom form? 
+        B. General process of creating a custom form 
+        C. Known custom breast form manufacturers 
+    15. More details about attachable breast forms
+         A. What are the parts of an attachable form?
+         B. What are the advantages of this type of form?
+         C. How are they attached to the chest? (step by step)
+            1. Shaving the chest area
+            2. Preparing the skin
+            3. Marking the position for the supports
+            4. Attaching the support
+            5. Attaching the form to the support
+            6. Detaching the form from the skin support
+            7. Detaching the support from the chest wall
+         D. Tips for attachable forms
+         E. Amoena Luxa breast forms 
+         F. If your breast form is non-attachable... 
+
+PART III: Bras and Forms - How to fit them, get them and keep them
+------------------------------------------------------------------
+     16. Can people tell if you are wearing a breast form?
+     17. Do I need a special bra to wear a breast form?
+     18. A properly fitted bra...
+     19. How to measure for a bra
+         A. Before you begin 
+         B. Traditional measurement method
+         C. The usual bra measuring system may not work
+         D. Notes
+     20. Bra band sizing conversion charts from around the world
+     21. Common bra fitting problems and possible solutions
+     22. Reasons why it may be difficult to receive a professional 
+         fitting. ***EVERYONE SHOULD READ THIS***
+     23. Form fitting tips
+     24. Taking care of your breast forms
+     25. Breast forms and hot weather
+     26. How long can I expect my breast forms to last?
+     27. When your breast form approaches retirement
+         A. Donating your old breast forms
+         B. Repairing a damaged form
+
+PART IV: Appendix A & B - Manufacturers and Retailers 
+------------------------------------------------------
+     Appendix A: Manufacturers of commercial breast forms  
+     Appendix B: Retailers and suppliers of breast forms 
+
+PART V: Appendix C - How to make your own forms
+------------------------------------------------
+     A. Making your own forms
+     B. Special considerations when creating your own breast form
+     C. Form 1: Grain and nylons
+     D. Form 2: Rubber fishing worms and balloons
+     E. Miscellaneous "make your own form" directions
+
+=============================================================================
+
+
+0. What's new in version 4.0
+-----------------------------------------------------------
+     This is the biggest update I have ever done to the FAQ since I first 
+created it back in 1996. There are several BIG new or re-vamped topics, quite a 
+few new miscellaneous questions, a web site re-design, and the retailer listing
+alone is almost triple its former size. I would like to do a few more things 
+soon, such as add more images of breast forms and the attachment process, 
+describe the Luxa Contact breast form in greater detail, and make a section 
+on breast form placement.
+
+     Enjoy!
+  
+1. Disclaimers
+---------------
+   * I have absolutely no interest in the companies mentioned except as a
+     consumer. 
+   * I am not a physician nor do I have any medical training. I am 
+     transgendered and am only an interested customer. I have tried to get as 
+     much input from as many sources as possible to make this FAQ usable by all 
+     who may want to find out more about breast forms. But I come to the topic 
+     from a certain point of view and there may still be some biases that 
+     reflect that.
+   * All information listed about the breast form manufacturers and products 
+     is not guaranteed to be fact. The reader is urged to verify for 
+     themselves any information in these documents.
+   * Where mentioned, all prices are US dollars (unless otherwise stated.)
+   * This document is not copyrighted and may be distributed freely in its 
+     entirety only. If you wish to reprint or translate the FAQ elsewhere, 
+     you must contact the author (bformfaq@blooberry.com) first. 
+   * No profit shall be made from the distribution of the FAQ. 
+   * Shop for, and wear breast forms at your own risk and/or enjoyment. 
+   * Although some of the information here may relate to medical topics and 
+     issues, no part of this FAQ should be considered to be "medical advice",
+     and is not intended to replace the advice and recommendation of a 
+     physician. 
+     
+2. Thanks To...
+----------------
+   * Amanda: For buying breast forms after reading this document. In so doing 
+     she was able to add some wonderful and invaluable information.        
+   * Carla: For having bought breast forms before, and being patient while 
+     I bombarded her with questions on how to do it right.
+   * Chris: Fitter extraordinaire.
+   * The many anonymous readers who have sent in additions, comments, even 
+     entire sections for use in this FAQ (and you all know who you are! =)
+   * Special thanks go out to the anonymous authors of sections 13, 14, 15, 
+     17 and all of Appendix C!
+   * Mom: For being mom, as well as being so supportive of me. It also
+     helped that she is a survivor of breast cancer...
+   * The Academy: Just because. =)
+
+
+3. Purpose of the FAQ 
+----------------------
+     The purpose of this FAQ was originally to provide information about all 
+aspects of breast forms for folks in the Transgendered community who might not
+otherwise have ready access to this sort of information. People have told me 
+since that this is also a good introductory resource as well for women who are
+seeking information about breast prostheses after surviving breast cancer. 
+     Currently, most of the details in this document relate to complete forms 
+for those without any current breast tissue. Much of the document also centers
+on silicone breast forms, since that is the primary material used in 
+commercial forms, but information about other types of forms (breast 
+enhancers, thin-shell forms and pads) can also be found here as well.
+
+
+4. What is a breast form?
+--------------------------
+     A breast form is a prosthesis worn either inside a bra or attached 
+to the body to simulate the weight, bounce, feel, movement, and especially
+shape of the natural female breast. Depending on the material or shape used, 
+these qualities can be achieved to different degrees.
+     More expensive modern breast forms are designed by computers and can 
+even be attached to the chest. They can be worn with strapless dresses and 
+lingerie, while bathing, sleeping or even during strenuous activity. 
+     And expensive breast forms can be...they can run anywhere from 5$ for 
+an unweighted foam or fiber-filled "falsie", to several hundred dollars for 
+a premium off-the-shelf weighted silicone form to several *thousand* dollars
+for the better individually designed, created and fitted custom prostheses. 
+As one retailer put it to me: 
+        "...you can pick up a cell phone for less than a hundred dollars and 
+         they have a LOT of technology invested in them. Then a bag of silicone 
+         goes for an average of $250??? Something is amiss!"
+     Possibly.
+
+
+5. History 
+-----------
+   A. History of the bra:
+   2500 BC    Minoan women on the island of Crete wear bra-like garments that 
+              lift the bare breast out of their clothing. 
+   ~450BC-    Roman and Greek women choose restraint instead for their fashions 
+   285AD      - using a band strapped around their breasts to reduce their bust 
+              size. 
+   1550s AD   Catherine de Médicis, wife of King Henri II of France enforces ban 
+              on "thick waists" at court functions through the introduction of 
+              the steel corset. The corset becomes the dominant undergarment (in 
+              various designs) of support and restraint for the next 350 years. 
+   1850s      US patents registered for first known bra-like devices. 
+   1850s      Corsets fall out of style for about 10 years. 
+   1860s      Corsets come back in fashion with a vengeance. Severe corset 
+              "training" is common which reduces waists to such unhealthy levels 
+              that ribs and internal organs become deformed. Controversy over 
+              corseting health risks ensues. 
+   1875       Designer Susan Taylor Converse creates a no-bones/eyelets/laces/
+              pulleys garment called the "Union Under-Flannel", made from wool 
+              fabrics. Manufacturers George Frost and George Phelps 
+              patent it.[1] 
+   1889       Corset-maker Herminie Cadolle invents a bra-like garment called 
+              "Bien-être" ('Well-Being'.) Resembling a "Victorian bikini", its 
+              main differentiating feature from regular corsets is that the 
+              breasts are supported by the shoulders rather than squeezed up 
+              from below with traditional corset designs. Although marketed as a 
+              health aid beginning in 1889 in a Paris department store ad, the 
+              item does not gain widespread notice. 
+   1893       Marie Tucek patents the "Breast Supporter". The garment includes 
+              separate pockets for each breast, shoulder straps, and 
+              hook-and-eye closures, making it the earliest known design to be 
+              similar to modern-day bras. 
+   1907       Vogue magazine first uses the term "brassiere", which comes from 
+              the old French word for 'upper arm'. Before this, bra-like devices 
+              were known by another French term "soutien-gorge" (literally, 
+              "throat support" or "breast support".) 
+   1912       The term "brassiere" first appears in the Oxford English 
+              Dictionary. 
+   1913       Dissatisfied with the idea of having to wear a heavy corset 
+              underneath a new sheer evening gown she just bought for a social 
+              event, socialite Mary Phelps Jacob improvises a garment from two 
+              silk handkerchiefs and some ribbon. 
+   1914       After considerable interest from friends, Mary Phelps Jacob 
+              applies for a patent (under the business name "Caresse Crosby") on 
+              November 3 for her "Backless Brassiere" design, which is basically 
+              the same garment that she previously improvised. This "brassiere" 
+              was very lightweight, soft, and separated the breasts naturally. 
+              Unlike Marie Tucek's 1893 design, Jacob's garment did not have 
+              cups to support the breasts, but flattened them instead. Jacob 
+              markets the "Backless Brassiere" garment until she tires of the 
+              business and sells the patent to Warner Brothers Corset Company in 
+              Bridgeport, Connecticut, for $1,500. Warner's reportedly made over 
+              15 million dollars over the next 30 years from the patent. 
+   1914-18    World War I forces women into the work-force. Many women begin 
+              working in factories and wearing uniforms, making the use of daily 
+              corset wear a problem. 
+   1917       The U.S. War Industries Board requests women to stop buying 
+              corsets to reduce the consumption of metal. Sources say up to 
+              28,000 tons of metal was conserved through this effort - "enough 
+              to build two battleships." 
+   1920s      Warner introduces a tight, chest-flattening bra, in keeping with 
+              the Flapper styles of the day. 
+   1928       Ida Rosenthal, a Russian immigrant, and her husband William found 
+              Maidenform. Ida is responsible for the creation of bust size 
+              categories (cup sizes) and developed bras for every stage of life 
+              - puberty to maturity. 
+   1930s      The shortened form of the word "brassiere" - the "bra" becomes 
+              popular. 
+   1930s      Warner produces the first popular all-elastic bra, which shows off 
+              a woman's curves. 
+   1935       Warner's creates the cup sizing system (A to D), which becomes the 
+              system commonly used by all manufacturers throughout the world. 
+   1941-45    Common fabric materials (cotton, rubber, silk and steel) are in 
+              short supply, so manufacturers turn to synthetic fabrics. 
+   1946       The first bikini swimwear is introduced in Paris. 
+
+   Sources:
+   - http://www.inventions.org/culture/female/jacob.html
+   - http://inventors.about.com/education/inventors/library/weekly/aa042597.htm
+   - http://www.louisville.edu/~jagree02/brahistory.htm
+   - http://www.discovery.com/stories/deadinventors/dead980910/deadinventors.html
+   - http://www.shh-lingerie.com/Store/ [1 - Discrepancy about 1875 events/names]
+
+   B. History of the breast implants:
+   (This topic seems relevant because the development of silicone for internal 
+   breast augmentation may very well have influenced the development of silicone 
+   for external breast prostheses. Also, the perceived health risks associated 
+   with breast implants have persuaded many to choose a non-invasive solution 
+   after breast cancer. If I sound like I am trying to make the history of 
+   breast implants a cautionary one, you are correct. Although many who have 
+   had implants are satisfied, too many have paid the price for the lack of 
+   proper research by the industry into the long term effects. See 
+   http://www.siliconeholocaust.org/.)
+
+   Late 1890s First breast augmentations are attempted with Paraffin. Many 
+              complications are reported with this method. Later reported 
+              attempts utilize ivory or glass balls and other substances. 
+   Late 1940s Japanese prostitutes, apparently desiring to appear "more 
+              attractive to American GIs" (read: bigger breasts), have 
+              industrial silicone liquid injected into their breasts. In this 
+              process, the silicone can eventually migrate to other parts of 
+              the body and cause many health problems, including death. Even so, 
+              the procedure becomes increasingly popular and spreads to the 
+              United States (some reports state the procedure developed in 
+              parallel in the US in many places around this time.) Thousands 
+              have the procedure done, including actresses and others in the 
+              entertainment industry before the practice is banned. 
+   1962       Silicone breast implants, consisting of a silicone envelope filled 
+              with silicone gel are "tested" on a thirty-year-old mother of six 
+              at a Texas charity hospital. 
+   1960s-     Breast implants remain relatively rare because the implants often  
+   Early 70s  feel hard and unrealistic - due to the scar tissue around the 
+              implant hardening. 
+   1970s      New silicone implants produced which are more "lifelike", but have 
+              a tendency to break easier. Once broken, total removal is 
+              difficult or impossible. 
+   1970s      Polyurethane foam covering for implants becomes popular to prevent 
+              capsular contracture. The foam begins to disintegrate in the body 
+              almost immediately, making it difficult to remove and causing 
+              other complications. 
+   1976       Breast implants approved for use in the USA on the basis that they 
+              had been on the market prior to implementation of FDA regulations 
+              begun in this year. 
+   1990s      Use of saline as implant filler replaces silicone gel, especially 
+              after 1992. Saline appears to suffer less capsular contracture 
+              than silicone with fewer of the health concerns. 
+   1992       FDA declares moratorium on silicone gel implants due to mounting 
+              health concerns (although the FDA committee could find no direct 
+              evidence that many of the reported illnesses were because of 
+              implants.) 
+
+   Sources:
+   - http://ej.rsna.org/ej3/0112-99.fin/body/introduction-long.htm
+   - http://www.exn.ca/Stories/1999/10/13/52.asp
+   - http://199.45.69.176/tony/Blais/006.html
+   - http://www.silicone-review.gov.uk/history/
+
+   C. History of breast forms
+      "Falsies" have probably been around in one form or another for many 
+      centuries, but it has only been in the last few decades that a large 
+      industry has blossomed around simulation or enhancement of breast tissue. 
+      I haven't been able to find a whole lot of information on the history of 
+      breast forms either on the web or by contacting breast form manufacturers 
+      and other companies directly, so this section will have to be a little 
+      different. I can provide some anecdotal information that I've found in my 
+      searches so far, but it is sketchy at best. As I learn more I will update 
+      this section accordingly.
+
+   1700       Canadian doctor Michel Sarrazin performs first known Canadian 
+              mastectomy [1]
+   1889       US Patent for "Bosom Form" Patent 401028, April 9, 1889 by J. W. 
+              Greene - a breast growth device that could double as a 
+              prosthesis. [2] 
+   Early 1900s "In the early 1900s, when the mastectomy was first performed, 
+              there were no breast prostheses available. Women either did 
+              without a prosthesis or made their own out of available 
+              materials." [3] 
+   1940       Time capsule from 1940 - includes "1 Lady's Breast Form" [4] 
+   Late 1960s Airway introduces "Companion" - the first external silicone 
+              prosthesis. 
+   1992       Amoena Affinity/Discrene attachable form systems introduced
+   1998       Amoena Luxa Contact attachable form system introduced 
+
+   Sources:
+   [1] This item implies that mastectomies HAD been performed ELSEWHERE prior 
+       to 1700 - this also directly contradicts information found in [3] I will 
+       try to get this discrepancy clarified.  
+       http://www.canadapost.ca/personal/corporate/about/newsroom/pr/
+       archive-e.asp?prid=183
+   [2] http://www.suctioncupmuseum.com/html/patents.html
+   [3] http://www.thebreastcaresite.com/eendcom/USAmoena/Homepage.nsf/
+       00000000000000000000000000000000/79a830ded462c9a905256ac20004dc22
+       ?OpenDocument
+   [4] http://www.oglethorpe.edu/itcs/inventory.htm
+
+       Company Histories
+       -----------------
+                                             First              Country of
+       Company                 Created       Prosthesis         Manufacture
+       ---------------------------------------------------------------------
+       Airway(SAI)             1893          ~1964              Germany
+       Amoena (Coloplast)      1957          1975               Denmark
+       Camp(Trulife)           1908          "over 30 years"    Ireland
+       Classique               1976          1976               Germany
+       Expressions(Otto Bock)  1919          ??                 ??
+       Freeman                 1891          1990               USA
+       Jodee                   1971          1971               Germany 
+       Natural Profile Corp.   1986          1995               USA
+       Nearly Me               1976          1976               USA
+       Saville 1300            1991          1993               USA/Brazil
+
+6. Information about breast cancer
+-----------------------------------
+     No discussion of breast forms would be complete without mention of the 
+reason they exist - breast cancer. This year alone, over 180,000 women will 
+be diagnosed with some form of breast cancer (of that number over 45,000 
+will die because of the disease.) Men can develop breast cancer as well. 
+
+I can not hope to do this topic the justice it deserves, but there are many 
+places where one can find out more about the critical fight against breast cancer:
+ 
+   - The American Cancer Society  [1-800-ACS-2345, http://www.cancer.org/]
+     This is a wonderful organization in general dedicated to eliminating 
+     cancer in all its forms. Reach To Recovery is the branch of this 
+     organization dedicated to helping those affected by breast cancer.
+   - The Breast Cancer Compendium [http://www.microweb.com/clg/index.html]
+   - The Breast Cancer Information Clearinghouse [http://nysernet.org/bcic/]
+   - Breast Cancer Bookstore [http://www.wellnessbooks.com/breastcancer/]
+   - About Breast Cancer [http://www.laparoscopy.com/pleatman/breast.htm]
+   - Breast Cancer in Men [http://interact.withus.com/interact/mbc/]   
+   - Male Breast Cancer 
+     [http://region4.tricare.osd.mil/breast_health/Malecancer.html]
+
+7. Breast cancer treatment and recovery options 
+------------------------------------------------
+     Traditional treatments for breast cancer often involve chemotherapy, 
+radiation or hormonal therapy to halt the spread of the cancer, coupled with 
+a removal of the affected tissue areas. The old traditional removal method is 
+called a "radical mastectomy" or "modified radical mastectomy," and involves 
+removal of the entire affected breast, the lymph nodes under the arm, and 
+sometimes the lining over the chest muscles as well. In recent years, new 
+techniques have been used in which it is not necessary to remove the entire 
+breast (called a lumpectomy or partial mastectomy.)
+     Following a mastectomy, there are several options available to a woman; 
+she can live without a breast, have breast reconstruction surgery, or she can 
+wear a prosthesis. Choosing which alternative(s) is best is really up to you 
+and how you feel. Please note that these are not the ONLY options, just some
+of the more common ones - you should always consult with your doctor about 
+treatment options.
+     Questions about the details and ramifications of breast reconstruction 
+and living with a single breast are addressed by the resources listed in 
+question 5 with more sensitivity and thoroughness than I could ever hope to 
+offer here and I recommend these resources highly. 
+
+
+8. The medical purpose of the breast form industry 
+---------------------------------------------------
+     While I haven't seen specific figures for the numbers of breast 
+mastectomies and reconstructions in any particular year, various statistics DO 
+show that about 1.2 million people in the world are diagnosed with breast 
+cancer each year (about 200,000 in the US alone), and that 1 in 9 women will 
+have breast cancer in their lifetime. Even if you allow for mortality rates 
+among this group from the cancer, mortality rates among other survivors, and 
+the fact that not all breast cancer diagnoses result in mastectomies, 
+lumpectomies, or other breast surgeries, there are still probably somewhere 
+around 500,000- 1,000,000 new women in need of some form of breast enhancement 
+device each year. 
+
+     The commercial breast form industry fills this need of supplying 
+prosthetics for breast cancer survivors. A breast prosthesis can help to 
+restore physical symmetry and peace of mind following the devastating effects 
+that breast cancer can bring. The breast form industry produces a wide variety 
+of prosthetics and accessories for an unfortunately large market. The range of 
+products available to create or restore visual and physical symmetry between 
+the affected breast area and the non-affected area is truly amazing.
+
+Statistics sites found: (which reference other sources)
+    - http://www.imaginis.com/breasthealth/statistics.asp
+    - http://www.lingerie-direct.com/surgical/facts.htm 
+
+
+9. How soon can you be fitted for a prosthesis after breast surgery?
+---------------------------------------------------------------------
+     The site of your surgery should be sufficiently healed before you are 
+fitted for a permanent, weighted prosthesis. Your physician will let you 
+know when the correct time is. It may be as soon as 4-8 weeks after 
+surgery, but everyone's healing process is unique. Aside from allowing time
+for the surgery site to heal, the effects of radiation treatment may leave
+the surgery area too sensitive for the constant minor movements a breast form 
+in a bra can produce. Waiting for the proper time also allows for post-surgery 
+swelling to recede, which could hamper a proper breast form fitting as well.
+
+
+10. How the transgendered community benefits 
+---------------------------------------------
+     Prices for high quality breast forms can be very expensive. Most medical 
+insurance plans allow for at least partial reimbursement for the purchase of 
+breast forms and post-mastectomy bras each year (section 6109A of a 1974 
+Medicare ruling.) This sort of coverage is limited to genetic women who have 
+had breast surgery, and the Transgendered community cannot reduce the high 
+costs for prostheses in this manner. The TG community _can_ benefit from all 
+of the work by the industry to develop materials and form shapes that resemble 
+the natural female breast as closely as possible.
+
+
+-----------------------------------------------------------------------------
+Please send any comments, ideas or corrections to bformfaq@blooberry.com

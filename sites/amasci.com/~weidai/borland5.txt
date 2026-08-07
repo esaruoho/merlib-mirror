@@ -1,0 +1,5 @@
+Crypto++ 3.2 will compile under Borland C++Builder 5, but code generation
+bugs in the compiler cause the validation test to crash part way through.
+This may not be a problem for you because not all algorithms are
+affected. All of the symmetric ciphers and hash functions seem to work
+ok.

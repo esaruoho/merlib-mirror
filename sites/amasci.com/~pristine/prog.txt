@@ -1,0 +1,573 @@
+Pure Mac: Programming and Scripting 
+
+ Programming and Scripting 
+
+ AppleScript 
+ AppMaker 
+ Chipmunk Basic 
+ CodeWarrior 
+
+ Forker 
+ Frontier 
+ FutureBASIC 
+ HexEdit 
+ MacApp 
+
+ MacPerl 
+ MacsBug 
+ Metal 
+ MPW 
+ MRJ SDK 
+
+ PrographCPX 
+ Python 
+ REALbasic 
+ ResCompare 
+ ResEdit 
+
+ Resorcerer 
+ Script Debugger 
+ Scripter 
+ Snoop 
+ SuperCard 
+
+ Apple Developer World
+
+ AppleScript Home Page
+
+ Macintosh Programmer's Link Library
+
+ MacTech
+
+ Metrowerks CodeWarrior
+
+ Symantec C++
+
+ AppleScript 1.4.3 
+
+This version of AppleScript corrects some problems with the previous versions of AppleScript, and also
+has some added enhancements. For more information on many of these features, see AppleScript Help
+in the Finder's Help menu. 
+What is fixed in this AppleScript Update?
+ There were three problems fixed with this AppleScript Update:
+ 1- The performance of the AppleScript Script Editor could be adversely affected by an interaction with
+Carbon Lib 1.02.
+ 2- A crash when attempting to compile scripts simultaneously.
+ 3- Inability of Standard Additions "mount volume" command to mount NT, OS X or other
+non-AppleShare volumes.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : May 18, 2000
+ Requirements : Mac OS 9
+
+ Direct Download
+ File Size: 955 Kb
+
+ Info 
+
+ Home Page 
+
+ AppMaker 13.1 
+
+AppMaker is a programming tool that makes it faster and easier to make a
+Macintosh application - not just the user interface, but also the functional
+code. AppMaker saves development time and cuts drudgery by letting you create
+menus, windows, dialogs, and their contents just by clicking and dragging to
+arrange what you want on the screen. You also point and click to declare data
+structures and to connect UI items to data items. With one command, AppMaker
+automatically generates the source code for your design. AppMaker generates code
+and resources for C, C++, Pascal, PowerPlant, and Tools Plus. AppMaker also
+supports the OOFILE object I/O library and has preliminary support for Java.
+
+ License : Demo - Purchase for $199
+ Author/Publisher : Bowers Development Corp
+ Modification Date : July 12, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1425 Kb
+
+ Home Page 
+
+ Chipmunk Basic 3.5.7 
+
+Chipmunk Basic is an old fashioned Basic interpreter which runs on all Macs and which is also
+accelerated for PPCs. Features supported include AppleScript, Drag&Drop, graphics, sprites, sound,
+speech and OOP (object oriented programming).
+
+ License : Freeware
+ Author/Publisher : Ron Nicholson
+ Modification Date : May 28, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 391
+
+ Parent Directory 
+
+ Home Page 
+
+ CodeWarrior 7.1 
+
+CodeWarrior's cross-platform compilers support C, C++, Java and assembly
+programming languages. CodeWarrior is used by more than 200,000 developers in 80
+countries to create platforms and applications for both desktop and embedded
+systems from a single, unique Integrated Development Environment.
+
+ License : Various updates - Purchase the complete program for $365
+ Author/Publisher : MetroWorks
+ Modification Date : December 20, 2001
+ Requirements : Classic Mac OS and Mac OS X
+
+ Direct Download
+ File Size: 28,370 - 7.1 updater - released Decmber 20, 2001
+
+ Direct Download
+ File Size: 604 - 6.3 updater - released July 12, 2001
+
+ Direct Download
+ File Size: 15,138 - 6.1 updater - released February 2, 2001
+
+ Direct Download
+ File Size: 37,513 - 5.3 updater with libraries - released December 22, 1999
+
+ Direct Download
+ File Size: 25,504 - 5.3 updater without libraries
+
+ Direct Download
+ File Size: 6034 - 5.3 Documentation Update
+
+ Updates Page 
+
+ Parent Directory
+
+ Home Page 
+
+ Forker 1.3 
+
+Forker is a little hack which fools ResEdit into editing the data forks of files.
+
+ License : Freeware
+ Author/Publisher : J. Scott Howlett
+ Modification Date : June 1, 1993
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 11 Kb
+
+ Parent Directory 
+
+ Frontier 6.2 
+
+Frontier is an integrated Internet content system built around Key Features such as a high
+performance object database, outliner, scripting, and a multi-threaded runtime.
+Our object-oriented Website Framework flows content thru templates, with macros, link
+management and a direct connection to the Workgroup web server, which fully supports HTTP
+1.1, and provides membership, preferences, storage, discussion groups, virtual domains,
+subscriptions, a search engine, calendars, cookies, logging, news sites, file uploads, for communities
+with tens of thousands of members.
+This powerful scripting environment is the first Power Mac-native, multithreaded, OSA-compliant scripting
+language for the Mac.
+
+ License : Up to 5.0.1 is Freeware, 5.1.x and above is commercial - $899 annual license - academic licenses are $99
+ Author/Publisher : UserLand Software, Inc.
+ Modification Date : June 27, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 3430 Kb - version 5.0.1 - Released March 2, 1998
+
+ Direct Download
+ File Size: 3767 Kb - version 4.2.3a - released April 20, 1997
+
+ Parent Directory 
+
+ Home Page 
+
+ FutureBASIC 3.4 
+
+If you want to learn how to program on the Mac, FutureBASIC^3 is the tool for
+you. Macintosh BASIC programming has been our focus since we got our first "Slim"
+Mac back in '84. This is a real basic language that adapts to your style whether
+you are a beginner or a seasoned professional.
+
+ License : Demo, $169
+ Author/Publisher : Staz Software
+ Modification Date : February 9, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 3324 Kb
+
+ Download Page
+
+ Home Page 
+
+ HexEdit 1.7.4 
+
+HexEdit is a hexdump viewer and editor that works similarly to the hex editor provided with Apple's ResEdit.
+It allows you to edit either the data fork or the resource fork of a file.
+
+ License : Freeware
+ Author/Publisher : Lane Roathe/Nick Shank, Jim Bumgardner and others
+ Modification Date : October 29, 2001
+ Requirements : 680x0 or PPC and Mac OS X
+
+ Direct Download
+ File Size: 329 Kb - Carbon version 1.7.4
+
+ Direct Download
+ File Size: 167 Kb - Classic version 1.2 - released December 9, 1997
+
+ Home Page 
+
+ MacApp R15d3 
+
+MacApp is Apple's premiere application framework for creating
+professional user-friendly, robust, object-oriented Macintosh
+applications.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : December 13, 2000
+ Requirements : Classic Mac OS and Mac OS X
+
+ Release 14
+
+ Download Page
+
+ Parent Directory 
+
+ Home Page 
+
+ MacPerl 5.2.0r4 
+
+MacPerl is a port of Larry Wall's Perl (Practical Extraction and Report Language) to the Apple Macintosh.
+Perl is a language that combines some of the features of C, sed, awk and shell. 
+
+ License : Freeware
+ Author/Publisher : Matthias Neeracher
+ Modification Date : April 20, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 3527 Kb - Version 5.2.0r4 Application 
+
+ Direct Download 
+ File Size: 1066 Kb - Version 5.2.0r4 Tool 
+
+ Direct Download
+ File Size: 1269 Kb - Version 4.1.8 Application 
+
+ Direct Download 
+ File Size: 837 Kb - Version 4.1.8 Tool 
+
+ Parent Directory 
+
+ Home Page 
+
+ MacPerl Primer 
+
+ MacPerl Q & A 
+
+ MacsBug 6.6.3 
+
+MacsBug is Apple's assembly-level 680x0 and PowerPC
+debugger for Mac OS. It can be used to debug code running in
+most execution environments, from applications to drivers, and
+everything in between. It's often used as a bug-reporting tool by
+many 3rd-party developers, as well as Mac OS system software
+developers.
+
+ License : Free
+ Author/Publisher : Apple Computer, Inc.
+ Modification Date : September 14, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 499 Kb - version 6.6.3
+
+ Direct Download
+ File Size: 432 Kb - version 6.6.1 - released April 20, 2000
+
+ Direct Download
+ File Size: 990 Kb - version 6.6
+
+ Direct Download
+ File Size: 1926 Kb - version 6.5.3
+
+ Home Page
+
+ Tips and Tricks for MacsBug 
+
+ Metal 1.6 
+
+One of the fastest BASICs around, METAL (Meta Language) has a rich command
+library that includes powerful graphics, sound, speech, math and file I/O
+routines.
+ METAL is a complete programming environment that readily produces
+standalones and features numerous examples, 2800 lines of hypertextual
+documentation and a new pleasant to use editor
+
+ License : Freeware
+ Author/Publisher : Galactic Dreams
+ Modification Date : July 3, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 2182 Kb
+
+ Home Page 
+
+ MPW 3.6d1 
+
+Comprehensive set of tools for developing software in C, C++
+or assembly language for 680x0 based and Power Macintosh
+based systems.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : May 25, 2000
+ Requirements : 680x0 or PPC
+
+ Updates
+
+ Home Page 
+
+ MRJ SDK 2.2 
+
+The MRJ SDK 2.2 is now available. It contains a collection of tools, libraries, sample code, and
+documentation that will make it easier for you to build better Java software for the Macintosh. You can
+use this SDK to:
+ Enable standard Macintosh applications written in C, C++ or Pascal to embed Java applets, call
+ Java methods, and access the Java runtime through the JManager API 
+ Incorporate basic Macintosh functionality in Java applications using the MRJToolkit 
+ Call native methods from Java using JDirect or JNI 
+ Build stand-alone Java applications using JBindery or MRJAppBuilder 
+ Run JDK tools from a Macintosh application or MPW script 
+ Run non-AWT Java code from MPW 
+ Run and test Java applets using the Apple Applet Runner 
+ Create AppleScript scripting dictionaries for Java applications 
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : February 8, 2000
+ Requirements : PPC, Mac OS 8.1 or better 
+
+ Direct Download
+ File Size: 6684 Kb - MRJ Software Development Kit 2.2 - Released February 8, 2000
+
+ Direct Download
+ File Size: 5737 Kb - MRJ 2.2.2
+
+ Parent Directory 
+
+ Download Page 
+
+ Home Page 
+
+ PrographCPX 
+
+Pictorius' Prograph is a true visual language.
+Programs are constructed by directly manipulating a graphical representation of
+the program. In Prograph the diagrams are the code; there is no translation to a
+textual language.
+Prograph is a fully visual, dataflow-driven programming language designed for
+Rapid Application Development (RAD). Users of Prograph have commented on
+increases in productivity from 3 to 5 times over traditional text-based
+programming languages such as Java, C and C++.
+
+ License : Demo, $495
+ Author/Publisher : Pictorious
+ Modification Date : September 10, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 8738 Kb - PrographCPX Demo - Complete Prograph CPX development environment minus compilers
+
+ Parent Directory 
+
+ Home Page 
+
+ Python 1.5.2 
+
+Python is an interpreted, interactive, object-oriented, extensible programming
+language. It provides an extraordinary combination of clarity and versatility, it is free,
+and it runs on Unix, PC, Macintosh, and many other systems.
+
+ License : Freeware
+ Author/Publisher : Stichting Mathematisch Centrum
+ Modification Date : September 30, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 8415 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ REALbasic 3.5.2 
+
+An object-oriented BASIC language environment for Macintosh. If you want to build powerful Macintosh applications quickly and easily, without learning lots of
+cryptic programming code, this is the product you've been waiting for. And if you like Microsoft's Visual
+Basic and wish there was a Macintosh version, you need to check out REALbasic.
+
+ License : Demo - Purchase for $99.95
+ Author/Publisher : REAL Software, Inc.
+ Modification Date : November 8, 2001
+ Requirements : PPC, Mac OS 7.6.1 or higher and Mac OS X
+
+ Direct Download
+ File Size: 6426 Kb - Classic Version
+
+ Direct Download
+ File Size: 6253 Kb - Mac OS X Version
+
+ Home Page 
+
+ ResCompare 2.6 
+
+ResCompare is a programmer's utility for comparing two resource files. It
+will show you what resources are different, apply updates from one resource file
+to another, view comprehensive differences between two resources, and build
+self-applying patch applications (updaters) that convert one resource file
+into another.
+
+ License : Freeware
+ Author/Publisher : Michael Hecht 
+ Modification Date : February 20, 1996
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 262 Kb
+
+ Parent Directory 
+
+ ResEdit 2.1.3 
+
+Apple's indispensable resource editor.
+
+ License : Free
+ Author/Publisher : Apple Computer, Inc.
+ Modification Date : July 15, 1994
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 464 Kb
+
+ Parent Directory 
+
+ Resorcerer 2.2 
+
+Resorcerer is the only supported general-purpose resource editor for Macintosh
+and MacOS-compatible computers. Relied upon by thousands of Mac developers all
+over the world, Resorcerer features a wealth of powerful yet easy-to-use tools
+for easier, faster, and safer editing of Macintosh data files and resources.
+Whether you have to parse a picture, debug a data fork, design and try out
+Balloon Help, create a scripting dictionary, create anti-aliased icons, design
+and edit a custom resource with 40,000 fields in it, create C source code to run
+a dialog, find every reference to a control, change the structure of existing
+custom resources, or any of hundreds of other resource-related tasks,
+Resorcerer's magic will quickly save you time and money.
+
+ License : Free Update, Purchase for $256
+ Author/Publisher : Mathemaesthetics
+ Modification Date : June 8, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1599 Kb - PPC 2.2 updater
+
+ Download Page 
+
+ Home Page 
+
+ Script Debugger 2.0.1 
+
+Script Debugger 2.0 is the much-anticipated successor to Late Night Software's
+award-winning Script Debugger 1.0 AppleScript authoring environment. The 1.0
+version is still the only commercial scripting tool that offers no 32K limit on
+scripts. Script Debugger 2.0 builds on that tradition by offering more first-ever
+features to provide the most productive environment for building AppleScript
+solutions of any complexity.
+
+ License : Demo, $189
+ Author/Publisher : Late Night Software
+ Modification Date : June 8, 2000
+ Requirements : PPC, Mac OS 8.1 through Mac OS 9
+
+ Direct Download
+ File Size: 2262 Kb - Demo
+
+ Updates Page
+
+ Home Page 
+
+ Scripter 2.2 
+
+Beginning with System Software Version 7.5, Apple Computer, Inc. began shipping AppleScript with the Macintosh Operating System (Mac OS). AppleScript is the first integrated systemwide scripting language for personal computers. 
+The capabilities of Scripter predominately fall into three categories:
+ - Better access to application vocabularies. To understand the capabilities of a particular scriptable application, Scripter provides browsers for examining the commands (and syntax of the commands), and the types of objects which comprise the vocabulary of that application. Commands and object descriptions can be assembled using terms from the applications vocabulary, leading to a higher probability that these constructs will more likely serve to accomplish the script writers goals. In addition, a command area allows trial-and-error sessions, encouraging experimentation.
+ - Advanced editing capabilities and shortcuts. Included are many time-savers that streamline the writing of tedious, repetitive constructs. Also, collections of frequently-used routines can be gathered and made readily available.
+ - Tools for debugging scripts. Several tools work together to provide a unique framework in which to perfect scripts. The debugging capabilities in Scripter are so easy to understand that someone who has never used a development environment can easily make use of facilities that were previously only the province of the high-end programmer.
+
+ License : Demo, $189
+ Author/Publisher : Main Event
+ Modification Date : November 15, 1999 - Version 2.5 available as of August 1, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 728 Kb - Demo
+
+ Direct Download
+ File Size: 916 Kb - 2.2 updater
+
+ Home Page 
+
+ Snoop 1.6 
+
+Snoop is an advanced data editor that lets you view and edit any file or view any
+portion of memory. Snoop presents the file or memory's data to you in an easy to
+undersant hex and ascii view, allowing you to do your editing in either view.
+Use Snoop to look at the raw data of the resource or data fork of any file, look
+at the contents of a corrupt file, view and monitor portions of memory, and more.
+
+ License : Shareware, $10
+ Author/Publisher : Thomas Carstensen/Evatac Software
+ Modification Date : June 28, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1058 Kb - Snoop 1.6
+
+ Direct Download
+ File Size: 1058 Kb - Snoop 1.6 for Carbon - Requires Mac OS X or Carbon shared library
+
+ Home Page 
+
+ SuperCard 3.6.2 
+
+What can you do with SuperCard? The better question is ... What do you want to
+accomplish? Whether you wish to deliver multimedia content, learn how to program,
+teach how to program, build custom applications and utilities, prototype user
+interfaces and applications, or even develop commercial software titles.
+SuperCard provides you with a rich, powerful, and easy to use environment to
+empower you to create whatever you wish.
+
+ License : Demo, $145
+ Author/Publisher : Solutions Etcetera
+ Modification Date : May 18, 2000
+ Requirements : 68040 or PPC, System 7 or later
+
+ Direct Download
+ File Size: 9048 Kb - 3.5 Demo
+
+ 3.6.2 updates Page
+
+ Demo Download Page
+
+ Home Page 
+
+ Back to the main page of Pure Mac

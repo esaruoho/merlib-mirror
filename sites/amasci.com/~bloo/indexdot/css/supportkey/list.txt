@@ -1,0 +1,176 @@
+CSS specification/browser support page: List Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units |
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ CSS 
+
+ Browsers 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ IExplorer 
+ Netscape 
+ Opera 
+
+ marker-offset 
+ -- X 
+ -- -- -- 
+
+ inherit 
+ -- X 
+ -- -- -- 
+
+ auto 
+ -- X 
+ -- -- -- 
+
+ [Length] 
+ -- X 
+ -- -- -- 
+
+ list-style 
+ X X 
+ 4.0B2 4.0B5 
+ 3.5 
+
+ inherit 
+ -- X 
+ -- 6.0 
+ 7.0 
+
+ [List-style-type] 
+ X X 
+ 4.0B2 4.0B5 
+ 3.5 
+
+ [List-style-position] 
+ X X 
+ 4.0B2 6.0 
+ 3.5 
+
+ [List-style-image] 
+ X X 
+ 4.0B2 6.0 
+ 3.5 
+
+ list-style-type 
+ X X 
+ 4.0B2 4.0B5 
+ 3.5 
+
+ inherit 
+ -- X 
+ -- 6.0 
+ 7.0 
+
+ none 
+ X X 
+ 4.0B2 4.0B5 
+ 3.5 
+
+ [Bullet types] 
+ X X 
+ 4.0B2 4.0B5 
+ 3.5 
+
+ decimal 
+ X X 
+ 4.0B2 4.0B5 
+ 3.5 
+
+ decimal-leading-zero 
+ -- X 
+ -- 6.0 -- 
+
+ lower-roman| upper-roman 
+ X X 
+ 4.0B2 4.0B5 
+ 3.5 
+
+ lower-alpha| upper-alpha 
+ X X 
+ 4.0B2 4.0B5 
+ 3.5 
+
+ [Greek/Latin] 
+ -- X 
+ -- 6.0 
+ 6.0 * 
+
+ [E. European/ Middle E.] 
+ -- X 
+ -- 6.0 * 
+ 6.0 * 
+
+ [Asian] 
+ -- X 
+ -- 6.0 -- 
+
+ [NS Proprietary] 
+ -- -- 
+ -- 6.0 -- 
+
+ list-style-position 
+ X X 
+ 4.0B2 6.0 
+ 3.5 
+
+ inherit 
+ -- X 
+ -- 6.0 
+ 4.0 
+
+ outside 
+ X X 
+ 4.0B2 6.0 
+ 3.5 
+
+ inside 
+ X X 
+ 4.0B2 6.0 
+ 3.5 
+
+ list-style-image 
+ X X 
+ 4.0B2 6.0 
+ 3.5 
+
+ inherit 
+ -- X 
+ -- 7.0 
+ 4.0 
+
+ none 
+ X X 
+ 4.0B2 6.0 
+ 3.5 
+
+ [URL] 
+ X X 
+ 4.0B2 6.0 
+ 3.5 
+
+ Boring Copyright Stuff...

@@ -1,0 +1,81 @@
+Question 1.32 
+
+ Question 1.32 
+ What is the difference between
+these initializations?
+ char a[] = "string literal";
+char *p = "string literal";
+ My program
+crashes if
+I try to
+assign a new value to p[i] .
+
+ A string literal
+can
+be used in
+two slightly different
+ways.
+
+As
+an array initializer
+(as in the
+declaration of char a[] ),
+it specifies the initial values of the characters in that array.
+Anywhere else,
+it turns into an unnamed,
+static
+array of characters,
+which
+may be stored in read-only memory,
+which is why you can't safely modify it.
+In
+an expression context,
+the
+array is converted at once
+to a pointer,
+as usual
+(see section 6 ),
+so
+the second declaration initializes
+ p 
+to point to
+the
+unnamed
+array's
+first element.
+ (For compiling old code,
+
+some
+compilers
+have a switch controlling whether strings
+
+are writable
+or not.)
+ See also questions
+ 1.31 ,
+ 6.1 ,
+ 6.2 ,
+and
+ 6.8 .
+
+ References:
+
+K&R2 Sec. 5.5 p. 104
+
+ANSI Sec. 3.1.4, Sec. 3.5.7
+
+ISO Sec. 6.1.4, Sec. 6.5.7
+
+Rationale Sec. 3.1.4
+
+H&S Sec. 2.7.4 pp. 31-2
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

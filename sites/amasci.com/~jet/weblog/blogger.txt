@@ -1,0 +1,33 @@
+James Thiele's Blog 
+
+ James Thiele's Blog 
+
+ Sunday, October 26, 2003 
+
+ Went to a talk last Tuesday by Margaret Martonosi of Princeton about the ZebraNet project. The trendy buzz phrase is "sensor networks." To track zebras migrating over tens of kilometers the project will create a peer to peer network. They will outfit collars with Global Positioning System receivers and mid range (about 8 kilometers) radio transmitters and receivers. They'll record positions every 3 minutes, record the data, and every three hours look for another collar in range. If another collar is found they transmit their data to each other, thereby duplicating the data. Occaisionally they'll send out a vehicle to collect data - when they find one collared zebra the radios will send data from all the zebras this zebra has exchanged data with. They intend to collar 30 zebras for a six(?) month prooject. An interesting use of P2P. She mentioned that the GPS gives them a synchronizing clock. ZebraNet can tolerate large latencies and long periods of disconnected nodes. They also have a scheme for doing software updates over the network. She said, "We can't go tranquilize a zebra every time we need to fix a software bug." They're using an event based kernal they call "Impalla" which sends events to the appropriate application. She talked a bit about power management, an interest of mine. The collar has solar cells and bateries. They use a 16 bit CPU from TI (I couldn't read the number off the screen). They clock the CPU at either 8 MHz or 32 KHz depending on what tasks are being done. Most of the time it runs at 32 KHz. Good talk. 
+
+ &para; 10:29 AM 
+
+ Wednesday, October 15, 2003 
+
+ Yesterday I went to an interesting talk at the University of Washington Computer Science and Engineering department given by Ben Shneiderman. His talk was The Eyes Have It: User Interfaces for Information Visualization. He was a very entertaining speaker, ran a lot of demos and they all worked. He was showing various data sets and manipulating their views very quickly. One point that I found useful was that he said that all the demos updated their display in 100 milliseconds(ms). I asked why 100 ms? He said that studied have shown that people notice a lag of 160 ms on keystrokes or mouse movements, and their performance suffers at 400 ms delay. By designing to 100 ms response they have some margin. He said they achieve 100 ms response by keeping their data structures in RAM. They use simple data structures that can be scanned rapidly. 
+
+ &para; 11:26 AM 
+
+ Yesterday I went to an interesting talk at the University of Washington Computer Science and Engineering department given by Ben Shneiderman . His talk was The Eyes Have It: User Interfaces for Information Visualization . He was a very entertaining speaker, ran a lot of demos and they all worked . He was showing various data sets and manipulating their views very quickly. One point that I found useful was that he said that all the demos updated their display in 100 milliseconds(ms). I asked why 100 ms? He said that studied have shown that people notice a lag of 160 ms on keystrokes or mouse movements, and their performance suffers at 400 ms delay. By designing to 100 ms response they have some margin. He said they achieve 100 ms response by keeping their data structures in RAM. They use simple data structures that can be scanned rapidly. The talk was videotaped and will some day be available here . 
+
+ &para; 11:19 AM 
+
+ Monday, October 13, 2003 
+
+ The first attempt kind of worked - I had to adjust my website. Let's see whether this works. 
+
+ &para; 10:55 AM 
+
+ This is a first attempt - unlikely to work. 
+
+ &para; 10:49 AM 
+
+ It's just mine. 
+
+ ARCHIVES

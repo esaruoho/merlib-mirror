@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 10.3</title>
+<link href="q10.2.html" rev=precedes>
+<link href="q10.4.html" rel=precedes>
+<link href="s10.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 10.3</H3>
+<p>How can I write a generic macro to swap two values?
+</p><hr>
+<p>There is no good answer to this question.
+If the values are integers, a well-known trick using exclusive-OR
+
+
+could perhaps be used,
+but it will not work for floating-point values or
+pointers,
+or if the two values are the same variable
+(and
+the ``obvious'' supercompressed implementation
+for integral types <TT>a^=b^=a^=b</TT> is
+
+
+
+
+illegal due to multiple side-effects;
+see question
+<a href=q3.2.html>3.2</a>).
+If the macro is intended to be used on values of arbitrary type
+(the usual goal),
+it cannot use a temporary,
+since it does not know what type of temporary it needs
+(and would have a hard time naming it if it did),
+and standard C does not provide a <TT>typeof</TT>
+operator.
+
+</p><p>The best all-around solution is probably to forget about using a
+macro,
+unless you're willing to pass in the type as a third argument.
+
+</p><hr>
+<p>
+Read sequentially:
+<a href="q10.2.html" rev=precedes>prev</a>
+<a href="q10.4.html" rel=precedes>next</a>
+<a href="s10.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

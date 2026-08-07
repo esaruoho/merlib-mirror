@@ -1,0 +1,273 @@
+CSS specification/browser support page: Dimension Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson 
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index | 
+ Property Index | 
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units | 
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ Internet Explorer 
+ Netscape 
+ Opera 
+
+ width 
+ X 
+ X 
+ 4.0 
+ 4.0 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ auto 
+ X 
+ X 
+ 4.0 
+ 4.0 
+ 3.5 
+
+ [Length] 
+ X 
+ X 
+ 4.0 
+ 4.0 
+ 3.5 
+
+ [Percentage] 
+ X 
+ X 
+ 4.0 
+ 4.0 
+ 3.5 
+
+ min-width 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ [Length] 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ [Percentage] 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ max-width 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ none 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ [Length] 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ [Percentage] 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ line-height 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ normal 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ [Number] 
+ X 
+ X 
+ 4.0 
+ 4.0 
+ 3.5 
+
+ [Length] 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ [Percentage] 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ height 
+ X 
+ X 
+ 4.0 
+ 6.0 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ auto 
+ X 
+ X 
+ 4.0 
+ 6.0 
+ 3.5 
+
+ [Length] 
+ X 
+ X 
+ 4.0 
+ 6.0 
+ 3.5 
+
+ [Percentage] 
+ -- 
+ X 
+ 4.0 
+ 6.0 
+ 3.5 
+
+ min-height 
+ -- 
+ X 
+ 6.0 
+ 6.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ [Length] 
+ -- 
+ X 
+ 6.0 
+ 6.0 
+ 4.0 
+
+ [Percentage] 
+ -- 
+ X 
+ 6.0 
+ 6.0 
+ 4.0 
+
+ max-height 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ none 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ [Length] 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ [Percentage] 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ Boring Copyright Stuff...

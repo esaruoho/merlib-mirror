@@ -1,0 +1,243 @@
+Dr. Ice's Web Development Page 
+
+ Dana's WWW Home 
+
+ Dr.Ice's Home |
+ SciFi |
+ Computers |
+ Web Devo |
+ Legal Code | 
+ Business 
+ Theatre |
+ WWW Search |
+ Reading | 
+ Seattle |
+ Training |
+ Hobbies 
+
+ Web Development Jumpsite 
+
+ Links to Sites of Interest for Web Developers in Seattle, Washington, USA 
+
+ Getting Started with Web Development 
+
+ Resources for Eskimo North Subscribers 
+
+ Intermediate &amp Advanced Web Devo 
+
+ Sites to Get Web Devo Tools 
+
+ Code and Site Evaluation Tools 
+
+ Web Browsers 
+
+ Miscellaneous Helpful Information 
+
+ Some Interesting Example Sites 
+
+ More of Dr. Ice's site 
+
+ Places to Start Learning About Website Planning and HTML: 
+
+ John December's Web Development Seminar 
+ NCSA's Beginner's Guide to HTML 
+ HTML Style Guide 
+ The 1994 Version of the Crash Course in HTML by Eamonn Sullivan. The place it all 
+started for me and my Notepad. ::chuckle::
+ The 1996 Version of the Crash 
+Course in HTML by Eamonn Sullivan. Old information can be helpful in understanding the evolution 
+of our art. Plus, this page is a nice starter's guide. You can throw a simple page together in minutes
+with no fancy software, just an ASCII text editor like Notepad, SimpleText, or PICO.
+ Another Version of the Crash Course 
+ at the W3-Tech School of Web Design. It has Crash Courses in HTML, Java and JavaScript.
+
+ The World Wide Web Unleashed -- Chapter 33: Basic Hypertext Markup Language (HTML) 
+
+ A Practical Guide to Developing World Wide Web Content Published by
+ Seattle's Public Access Network (PAN).
+ A very nice guide, written for content providers who wish to publish materials on the City of Seattle's PAN WWW Site.
+ It's also a very handy overview for anyone who is thinking of developing WWW content elsewhere. 
+
+ Back to Top of Page 
+
+ More of Dr. Ice's site 
+
+ Resources for Eskimo North Subscribers: 
+
+ Starter Home Page for Eskimo North Subscribers 
+
+ CGI Authoring on Eskimo North 
+
+ Back to Top of Page 
+
+ More of Dr. Ice's site 
+
+ Places to Learn More About Writing HTML (and ASPs, CGI Scripts, etc.) and About WWW Sites: 
+
+ JHU/APL's WWW HTML Developer's JumpStation 
+ The Active Server Pages Site Companion to
+ Active Server Pages Unleashed 
+ Dr. Design's Home Page ask web design questions...
+ WebMastery Resource Lists 
+ Standards for an Interactive Web 
+ Publishing on the Web at Carnegie Mellon
+ The World Wide Web Unleashed -- Chapter 34: Advanced HTML Features 
+ The HTML Guru! 
+ Yahoo! 's HTML page 
+
+ WebCom Guide - HTML Guide - Creating Imagemaps (clickable images) 
+
+ Creating Transparent Background Images 
+ iHTML 
+ Learn by Learning What Not To Do 
+ Ariadne Web Design Hints 
+ Allaire's Web Developer Site Contains tons of sample code, and some training
+materials on Allaire products. Most training materials are in RealVideo, requiring a sound card on your
+machine.
+ Web Learning Center 
+ WebReference.com - The Webmaster's Reference Library
+
+ Back to Top of Page 
+
+ More of Dr. Ice's site 
+
+ Places to Get Tools: HTML Editors, Graphics Programs,
+ Helper Applications: 
+
+ Allaire , makers of HomeSite and ColdFusion
+ Adobe , makers of PhotoShop, Acrobat and PageMaker
+ Microsoft's Download Page 
+ Microsoft's Browsers, Editing Tools, server components, etc.
+ HTML
+Assistant at Brookline North Software 
+ RGB Color Chart Text Colours -
+Hexadecimal triplet reference and tutorial
+ Tools for Aspiring Web Weavers at NASA 
+ Macromedia , makers of Dreamweaver
+
+LookSmart's List of Web Development links. An amazing jumpsite to all sorts of resources for
+people like us making web sites.
+ Metacreations , makers of
+ Painter 5.5 (Web Edition), MetaStream, Kai's Power Tools, and Ray Dream Studio 
+ Wacom , makers of the ArtZ II 12 X 12 tablet
+ Graphic Workshop for Windows 
+ Galleries of downloadable images:
+
+ Texture Land Junction Texture graphics for backgrounds. (Most style guides recommend against using background graphics.) 
+ Coder.com Home of the Free Online Banner Generator
+ Web Clip Art and Icons Page at the Mining Company
+ The Clipart Connection 
+ An enormous collection of art for web pages, and links to other sites like it.
+ Free Web Art At A Touch of Magic 
+
+ Transparent background Image Resources:
+
+ Transparent Background Images 
+ How do I use Lview Pro to create transparent images on my PC? 
+
+ Back to Top of Page 
+
+ More of Dr. Ice's site 
+
+ Online Web site evaluators: 
+
+ SiteInspector at the LinkExchange
+ Web Site Garage 
+ GIF Wizard Evaluate one page, your whole site, or use
+ their gif compression utility
+ Bobby Evaluates your site for accessibility
+ to people with disabilities 
+ Jumpsite of Site evaluation Products at Elsop 
+
+ Back to Top of Page 
+
+ More of Dr. Ice's site 
+
+ WWW Browsers: 
+
+ Netscape Communications 
+ Yahoo's World Wide Web Browsers Page 
+ The WDVL: WWW Browsers 
+ Web Developer's Virtual Library: Browsers 
+ NCSA Mosaic for Microsoft Windows Home Page 
+ NCSA Mosaic for the Macintosh Home Page 
+
+ Back to Top of Page 
+
+ More of Dr. Ice's site 
+
+ Places to Find Miscellaneous Helpful Information: 
+
+ LinkExchange A Web Developer's Jumpsite
+ devoted to simple solutions to grow online traffic and revenue 
+
+ HyperNews 
+
+ Web Collaboration Projects 
+ The World Wide Web Consortium 
+
+ TORNADO ePUBLISHING A Local Seattle Web Development Company
+
+ Digital Art Services A Company Which Sells Digital Art and Offers Seminars
+
+An International Internet Providers List 
+ The List of internet access providers,
+ by region, area code, etc.
+
+ Eskimo North Includes instructions for Eskimo North Users on Setting Up a website , plus A Cool
+ "Starter Home Page" section, plus links to other helpful info.
+
+ Examples of Acceptable Use Policies 
+ Yahoo - Computers 
+ 911 Media Arts Center 
+A local Seattle center that offers many classes in the media arts,
+including a lovely one on WWW Publishing
+ Computer Education Workshop Catalog 
+ Micro Modeling, Inc. 
+ Seattle Webgrrls 
+
+ Back to Top of Page 
+
+ More of Dr. Ice's site 
+
+ Example Web Pages: 
+
+ Web Pages That Suck 
+ How to tell bad web design when you see it, and how to prevent and repair it on your own site.
+ Paul Haas's Web Server 
+ A robotics interface to his hot tub, refrigerator, and robotic arm that waves to his cats... 
+ nj's visual home page Just a funky cool example page...
+ Seattle Web's Maps 
+ Trojan Room Coffee Machine 
+ A current image of how much coffee is in the coffee machine at the University of Cambridge's
+ Computer Science Department ::chuckle:: 
+ Geek Code Generator 
+ A form that feeds into a program that spits out a string of text with all the proper formatting
+ for inclusion in one's sig file
+ The Nerdity Test 
+ An actually useful function for Java, an interactive online questionnaire
+ UW Computer Science Department 
+ Follow the links under the SPOTLIGHT section to live colloquia and classes on the Web. 
+ Also of interest is the camera attached to the home page for the UW .
+ Cool Site of the Day Sites
+ that someone considers really cool today. Remember, taste is a
+ wildcard variable in any artistic endeavour. ::chuckle:: 
+
+ Back to Top of Page 
+
+ More of Dr. Ice's site 
+
+ Search Engines to Find More WWW Sites of Interest: 
+ Dr. Ice's Search Engine Page 
+
+ Back to Dr. Ice's Home Page 
+
+ Dr. Ice's Internet Training Hotlist 
+ Back to Top of This Page 
+
+ Updated August, 2001 by Dana Rice. If you know of any more sites
+that would be of interest to web developers in Seattle, please email me
+at drice@eskimo.com with
+the URL and a description, and I'll add it to the list! 
+
+This site hosted by

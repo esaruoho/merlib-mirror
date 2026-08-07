@@ -1,0 +1,30 @@
+
+Playoff Standings
+  1st Round            2nd Round            3rd Round            Finals
+  (Best of 7)          (Best of 7)          (Best of 7)          (Best of 7)
+1 Minnesota (4) ____
+8 Denver (1)        |_ 1 Minnesota (4) __
+                     _ 4 Sacramento (3)  |
+4 Sacramento (4) ___|                    |_ 1 Minnesota (2) _
+5 Dallas (1)                              _ 2 LA Lakers (4)  |
+                                         |                   |
+2 LA Lakers (4) ____                     |                   |
+7 Houston (1)       |_ 2 LA Lakers (4)  _|                   |
+                     _ 3 San Antonio (2)                     |
+3 San Antonio (4) __|                                        |
+6 Memphis (0)                                                |_ 2 LA Lakers (1)
+                                                              _ 3 Detroit (4)
+                                                             |
+1 Indiana (4) ______                                         |
+8 Boston (0)        |_ 1 Indiana (4) ____                    |
+                     _ 4 Miami (2)       |                   |
+4 Miami (4) ________|                    |                   |
+5 New Orleans (3)                        |_ 1 Indiana (2) ___|
+                                          _ 3 Detroit (4)
+2 New Jersey (4) ___                     |
+7 New York (0)      |_ 2 New Jersey (3) _|
+                     _ 3 Detroit (4)
+3 Detroit (4) ______|
+6 Milwaukee (1)
+ 
+

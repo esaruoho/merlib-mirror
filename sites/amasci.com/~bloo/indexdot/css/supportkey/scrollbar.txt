@@ -1,0 +1,147 @@
+CSS specification/browser support page: Scrollbar Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units |
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ Internet Explorer 
+ Netscape 
+ Opera 
+
+ scrollbar-face-color 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [Color] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ scrollbar-arrow-color 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [Color] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ scrollbar-base-color 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [Color] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ scrollbar-shadow-color 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [Color] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ scrollbar-darkshadow-color 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [Color] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ scrollbar-highlight-color 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [Color] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ scrollbar-3dlight-color 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [Color] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ scrollbar-track-color 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ [Color] 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ Boring Copyright Stuff...

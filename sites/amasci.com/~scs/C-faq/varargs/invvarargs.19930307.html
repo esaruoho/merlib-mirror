@@ -1,0 +1,176 @@
+<html>
+<head>
+<title>"inverse varargs problem", take 4</title>
+<body>
+[This message was originally sent on March 7, 1993,
+to someone who asked about the "wacky ideas".]
+<p>
+From: scs@adam.mit.edu (Steve Summit)
+<br>
+Subject: Re: dynamic function call
+<br>
+Date: Sun, 7 Mar 93 17:58:52 -0500
+<br>
+Message-Id: &lt;9303072258.AA22973@adam.MIT.EDU&gt;
+<p>
+You wrote:
+<br>
+&gt; I was curious to find out your ideas on the below question appearing
+<br>
+&gt; in the C language FAQ:
+<br>
+&gt;
+<br>
+&gt;	7.5:	How can I call a function with an argument list built up at run
+<br>
+&gt;		time?
+<br>
+&gt;
+<br>
+&gt;	A:	There is no guaranteed or portable way to do this.  If you're
+<br>
+&gt;		curious, ask this list's editor, who has a few wacky ideas you
+<br>
+&gt;		could try...  (See also question 16.10.)
+<br>
+<a href="/~scs/C-faq/q15.13.html">[current version of this question, now numbered 15.13]</a>
+<p>
+Believe it or not, you're the first to have asked, so you get to
+be the first to hear me apologize for the fact that several
+elaborate discussions of those "wacky ideas" which I've written
+at various times are in fact stuck off in my magtape archives
+somewhere, not readily accessible.
+<br>
+[The two main ones I was probably thinking of are
+<a href="invvarargs.19890604.html">this one</a>
+and
+<a href="invvarargs.19920714.html">this one</a>.]
+<p>
+Here is an outline; I'll try to find one of my longer old
+descriptions and send it later.
+<p>
+The basic idea is to postulate the existence of the following
+routine:
+<p><pre><TT>
+	#include &lt;stdarg.h&gt;
+
+	callg(funcp, argp)
+	int (*funcp)();
+	magic_arglist_pointer argp;
+</TT></pre><p>
+This routine calls the function pointed to by <TT>funcp</TT>, passing to
+it the argument list pointed to by <TT>argp</TT>.  It returns whatever the
+pointed-to function returns.
+<p>
+The second question is of course how to construct the argument
+list pointed to by <TT>argp</TT>.  I've had a number of ideas over the
+years on how to do this; perhaps the best (or at least the one
+I'm currently happiest with) is to do something like this:
+<p><pre><TT>
+	extern func();
+	va_alloc(arglist, 10);
+	va_list argp;
+
+	va_start2(arglist, argp);
+
+	va_arg(argp, int) = 1;
+	va_arg(argp, double) = 2.3;
+	va_arg(argp, char *) = "four";
+
+	va_finish2(arglist, argp);
+
+	callg(func, arglist);
+</TT></pre><p>
+The above is equivalent to the simple call
+<p><pre><TT>
+	func(1, 2.3, "four");
+</TT></pre><p>
+Now, the interesting thing is that it's often (perhaps even
+"usually") possible to construct <TT>va_alloc</TT>, <TT>va_start2</TT>, and
+<TT>va_finish2</TT> macros such as I've illustrated above such that the
+standard <TT>va_arg</TT> macro out of <TT>&lt;stdarg.h&gt;</TT> or <TT>&lt;varargs.h&gt;</TT> does the
+real work.  (In other words, the traditional implementations of
+<TT>va_arg</TT> would in fact work in an lvalue context, i.e. on the left
+hand side of an assignment.)
+<p>
+I'm fairly sure I've got working versions of macros along the
+lines of <TT>va_alloc</TT>, <TT>va_start2</TT>, and <TT>va_finish2</TT> macros somewhere,
+but I can't find them at the moment, either.  At the <a href="#end">end of this
+message</a> I'll append a <a href="varargs2.h">different set of macros</a>, not predicated on
+the assumption of being able to re-use the existing <TT>va_arg</TT> on the
+left hand side, which should serve as an example of the essential
+implementation ideas.
+<p>
+A third question is what to do if the return type (not just the
+argument list) of the called function is not known at compile
+time.  (If you're still with me, we're moving in the direction of
+doing so much at run time that we've practically stopped
+compiling and started interpreting, and in fact many of the ideas
+I'm discussing in this note come out of my attempts to write a
+full-blown C interpreter.)  We can answer the third question by
+adding a third argument to our hypothetical <TT>callg()</TT> routine,
+involving a tag describing the type of result we expect and a
+union in which any return value can be stored.
+<p>
+A fourth question is how to write this hypothetical <TT>callg()</TT>
+function.  It is one of my favorite examples of a function that
+essentially must be written in assembler, not for efficiency, but
+because it's something you simply can't do in C.  It's actually
+not terribly hard to write; I've got implementations of it for
+most of the machines I use.  I write it for a new environment by
+compiling a simple little program fragment such as
+<p><pre><TT>
+	int nargs;
+	int args[10];
+	int (*funcp)();
+	int i;
+
+	switch(nargs)
+		{
+		case 0:	(*funcp)();
+			break;
+
+		case 1:	(*funcp)(args[0]);
+			break;
+
+		case 2:	(*funcp)(args[0], args[1]);
+			break;
+
+		...
+
+	for(i = 0; i &lt; nargs; i++)
+		(*funcp)(args[i]);
+</TT></pre><p>
+, and massaging the assembly language output to push a variable
+number of arguments before performing the (single) call.  It's
+possible to do this without knowing very much else about the
+assembly/machine language in use.  (It helps a lot to have a
+compiler output or listing option which lets you see the its
+generated assembly language.)
+<p>
+When I say it's generally easy to write <TT>callg</TT>, I'm thinking of
+conventional, stack-based machines.  Some modern machines pass
+some or all arguments in registers, and which registers are used
+can depend on the type of the arguments, which makes this sort of
+thing much harder.
+<p>
+A fifth question is where my name "callg" comes from.  The VAX has a
+single instruction, CALLG, which does exactly what you want here. 
+(In other words, an assembly-language implementation of this
+<TT>callg()</TT> routine is a single line of assembler on the VAX.)
+I've also used the name <TT>va_call</TT> instead of <TT>callg</TT>.
+<p>
+If you have questions or comments prompted by any of this, or if
+you'd like to see more code fragments, feel free to ask.
+<p>
+<address>
+<a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+<br>
+<a href="mailto:scs@eskimo.com">scs@eskimo.com</a>
+</address>
+<p>
+<a name="end">
+[The aforementioned "set of macros" is in this file:
+<a href="varargs2.h">varargs2.h</a> .]
+</body>
+</html>

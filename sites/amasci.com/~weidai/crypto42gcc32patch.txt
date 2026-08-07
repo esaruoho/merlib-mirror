@@ -1,0 +1,163 @@
+diff -aur c42/hmac.h cvs/src/hmac.h
+--- c42/hmac.h 2001-11-06 04:52:16.000000000 -0500
++++ cvs/src/hmac.h 2002-04-23 17:05:02.000000000 -0400
+@@ -72,10 +72,11 @@
+ template 
+ void HMAC ::TruncatedFinal(byte *mac, unsigned int size)
+ {
+- hash.Final(mac);
++ SecByteBlock innerHash(DIGESTSIZE);
++ hash.Final(innerHash);
+
+ hash.Update(k_opad, T::BLOCKSIZE);
+- hash.Update(mac, DIGESTSIZE);
++ hash.Update(innerHash, DIGESTSIZE);
+ hash.TruncatedFinal(mac, size);
+ Init();
+ }
+diff -aur c42/pubkey.cpp cvs/src/pubkey.cpp
+--- c42/pubkey.cpp 2001-11-06 04:52:18.000000000 -0500
++++ cvs/src/pubkey.cpp 2002-06-20 17:57:44.000000000 -0400
+@@ -21,18 +21,18 @@
+ unsigned int DecryptorTemplate ::Decrypt(const byte *cipherText, byte *plainText)
+ {
+ SecByteBlock paddedBlock(PaddedBlockByteLength());
+- f.CalculateInverse(Integer(cipherText, CipherTextLength())).Encode(paddedBlock, paddedBlock.size);
++ f.CalculateInverse(Integer(cipherText, this->CipherTextLength())).Encode(paddedBlock, paddedBlock.size);
+ return pad.Unpad(paddedBlock, PaddedBlockBitLength(), plainText);
+ }
+
+ template 
+ void EncryptorTemplate ::Encrypt(RandomNumberGenerator &rng, const byte *plainText, unsigned int plainTextLength, byte *cipherText)
+ {
+- assert(plainTextLength MaxPlainTextLength());
+
+ SecByteBlock paddedBlock(PaddedBlockByteLength());
+ pad.Pad(rng, plainText, plainTextLength, paddedBlock, PaddedBlockBitLength());
+- f.ApplyFunction(Integer(paddedBlock, paddedBlock.size)).Encode(cipherText, CipherTextLength());
++ f.ApplyFunction(Integer(paddedBlock, paddedBlock.size)).Encode(cipherText, this->CipherTextLength());
+ }
+
+ template 
+diff -aur c42/pubkey.h cvs/src/pubkey.h
+--- c42/pubkey.h 2001-11-06 04:52:18.000000000 -0500
++++ cvs/src/pubkey.h 2002-06-20 17:57:44.000000000 -0400
+@@ -335,7 +335,7 @@
+ throw KeyTooShort();
+ SecByteBlock representative(PaddedBlockByteLength());
+ ma->Encode(rng, representative);
+- f.CalculateInverse(Integer(representative, representative.size)).Encode(signature, SignatureLength());
++ f.CalculateInverse(Integer(representative, representative.size)).Encode(signature, this->SignatureLength());
+ }
+
+ template 
+@@ -343,7 +343,7 @@
+ {
+ std::auto_ptr ma(static_cast (messageAccumulator));
+ SecByteBlock representative(PaddedBlockByteLength());
+- f.ApplyFunction(Integer(signature, SignatureLength())).Encode(representative, representative.size);
++ f.ApplyFunction(Integer(signature, this->SignatureLength())).Encode(representative, representative.size);
+ return ma->Verify(representative);
+ }
+
+@@ -351,7 +351,7 @@
+ HashModule * VerifierWithRecoveryTemplate ::NewLeftoverMessageAccumulator(const byte *signature) const
+ {
+ SecByteBlock representative(PaddedBlockByteLength());
+- f.ApplyFunction(Integer(signature, SignatureLength())).Encode(representative, representative.size);
++ f.ApplyFunction(Integer(signature, this->SignatureLength())).Encode(representative, representative.size);
+ return new H(representative, PaddedBlockBitLength());
+ }
+
+diff -aur c42/rijndael.cpp cvs/src/rijndael.cpp
+--- c42/rijndael.cpp 2001-11-06 04:52:18.000000000 -0500
++++ cvs/src/rijndael.cpp 2002-01-07 14:59:52.000000000 -0500
+@@ -46,7 +46,7 @@
+ switch(keylen)
+ {
+ case 16:
+- for (;;)
++ while (true)
+ {
+ temp = rk[3];
+ rk[4] = rk[0] ^
+@@ -64,7 +64,8 @@
+ }
+
+ case 24:
+- for (;;) {
++ while (true)
++ {
+ temp = rk[ 5];
+ rk[ 6] = rk[ 0] ^
+ (Te4[(temp >> 16) & 0xff] & 0xff000000) ^
+@@ -83,7 +84,8 @@
+ }
+
+ case 32:
+- for (;;) {
++ while (true)
++ {
+ temp = rk[ 7];
+ rk[ 8] = rk[ 0] ^
+ (Te4[(temp >> 16) & 0xff] & 0xff000000) ^
+diff -aur c42/rsa.cpp cvs/src/rsa.cpp
+--- c42/rsa.cpp 2001-11-06 04:52:18.000000000 -0500
++++ cvs/src/rsa.cpp 2002-09-19 19:23:28.000000000 -0400
+@@ -29,7 +29,8 @@
+ {
+ BERSequenceDecoder algorithm(subjectPublicKeyInfo);
+ ASN1::rsaEncryption().BERDecodeAndCheck(algorithm);
+- BERDecodeNull(algorithm);
++ if (!algorithm.EndReached())
++ BERDecodeNull(algorithm);
+ algorithm.MessageEnd();
+
+ BERSequenceDecoder subjectPublicKey(subjectPublicKeyInfo, BIT_STRING);
+diff -aur c42/zinflate.cpp cvs/src/zinflate.cpp
+--- c42/zinflate.cpp 2001-11-06 04:52:18.000000000 -0500
++++ cvs/src/zinflate.cpp 2002-04-10 11:41:04.000000000 -0400
+@@ -1,5 +1,10 @@
+ // zinflate.cpp - written and placed in the public domain by Wei Dai
+
++// This is a complete reimplementation of the DEFLATE decompression algorithm.
++// It should not be affected by any security vulnerabilities in the zlib 
++// compression library. In particular it is not affected by the double free bug
++// (http://www.kb.cert.org/vuls/id/368819).
++
+ #include "pch.h"
+ #include "zinflate.h"
+
+@@ -244,9 +249,6 @@
+ {
+ while (true)
+ {
+- if (m_inQueue.IsEmpty())
+- return;
+-
+ switch (m_state)
+ {
+ case PRE_STREAM:
+@@ -278,6 +280,8 @@
+ ProcessPoststreamTail();
+ m_state = m_repeat ? PRE_STREAM : AFTER_END;
+ Filter::MessageEnd(GetAutoSignalPropagation());
++ if (m_inQueue.IsEmpty())
++ return;
+ break;
+ case AFTER_END:
+ m_inQueue.TransferTo(*AttachedTransformation());
+diff -aur c42/zlib.cpp cvs/src/zlib.cpp
+--- c42/zlib.cpp 2001-11-06 04:52:18.000000000 -0500
++++ cvs/src/zlib.cpp 2002-04-10 11:43:18.000000000 -0400
+@@ -1,5 +1,10 @@
+ // zlib.cpp - written and placed in the public domain by Wei Dai
+
++// "zlib" is the name of a well known C language compression library
++// (http://www.zlib.org) and also the name of a compression format
++// (RFC 1950) that the library implements. This file is part of a
++// complete reimplementation of the zlib compression format.
++
+ #include "pch.h"
+ #include "zlib.h"
+ #include "zdeflate.h"

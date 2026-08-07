@@ -1,0 +1,142 @@
+<html>
+<head><title>0-1 Integer Linear Programming</title></head>
+<body>
+Richard Bean, <a href="contact.html">contact me</a> <br>
+<p>
+I use 0-1 Integer Linear Programming extensively in
+my combinatorics research.  However the <a href="http://www-unix.mcs.anl.gov/otc/Guide/faq/">Linear Programming FAQ</a> is out of date, and doesn't list
+all the software available.
+<p>
+Typically the models I use have a very high degree of symmetry,
+and solve set-covering problems or slight generalisations
+of such problems.  <a href="http://web.gsia.cmu.edu/fmargot/index.html">
+Francois Margot</a> works on these kind of problems.
+<p>
+These are the programs I've been using.  
+<p>
+<h3>Tested</h3>
+<ul>
+<li><a href="http://www.ps.uni-sb.de/~walser/wsatpb/wsatpb.html">WSAT</a>
+This is excellent at finding the best solutions quickly, but
+it cannot prove maximum or mimimum bounds.  A Linux version
+which works until December 2003 is available (January 13,2003).
+January 9, 2004 - now you have to email the author. 
+I used it in the <a href="../papers/ae23.pdf">critical sets for elementary abelian 2- and 3-groups paper.</a>
+
+<li><a href="http://www.cplex.com">CPLEX</a> with 
+<a href="http://www.ampl.com">AMPL</a> where the demo version of CPLEX 8 is.
+This is apparently the industry standard for linear programming.
+It has a good output format providing upper and lower bounds,
+and many options for guiding the search.  It doesn't find
+the best solutions quickly, but is excellent at proving bounds - you
+can take the WSAT answer and put it into CPLEX.  Even
+the academic version is at least <a href="http://www.ilog.com/partners/academic/pricelist_us.cfm">$US995</a> - this is only
+affordable by large companies or Western universities.
+I used CPLEX 8 in my <a href="../papers/scs8.pdf">smallest critical set</a> paper
+and
+in the <a href="../papers/ae23.pdf">critical sets for elementary abelian 2- and 3-groups paper.</a>  But BonsaiG, GLPK, and Sbb are all so good, 
+I could have coped without it.  Of course, ILOG claims that
+ILP has wonderfully improved between CPLEX 8 and CPLEX 9,
+but with the death of the benchmark page below, who would know?
+
+<li><a href="http://www.mpi-sb.mpg.de/units/ag2/software/opbdp/">OPBDP</a>
+This is sometimes better than CPLEX at finding good initial
+solutions and uses less memory.  But it cannot find
+provably optimal solutions as well as CPLEX.
+
+<li><a href="http://www.eecs.umich.edu/~faloul/">PBS</a>
+The papers about it claim great performance, but the results
+for the kind of problems I typically solve weren't good.  Email
+the author for information.
+
+<li><a href="http://sat.inesc.pt/bsolo/">BSOLO</a>
+Haven't used it much.  Uses <a href="http://sat.inesc-id.pt/~jpms/scripts/">"pbf format" files,</a>
+performance
+doesn't seem to be exceptional.  No documentation.  Use "+V0"
+to just have the bounds displayed, "+Tn" to set the maximum
+CPU time used to n seconds.  It seems pretty flaky too.
+
+<li><a href="ftp://ftp.es.ele.tue.nl/pub/lp_solve/">lp_solve</a>
+A standard LP solver, but not much good for integer programming.
+
+<li><a href="http://www-3.ibm.com/software/data/bi/osl/index.html">OSL</a>
+IBM's Optimization Solutions and Library software.  Free for research.
+Average performance.  Whoever invented MPS format should be shot.
+
+<li><a href="http://www.lindo.com/">LINDO</a>  Got a demo version for Linux based on Lindo 6.  It wasn't so good.  Sent some sample programs to them for benchmarking with latest version, not so good either.
+
+<li><a href="http://www.cs.sfu.ca/~lou/BonsaiG/">BonsaiG</a> GPL.  
+I used it in my <a href="../papers/scs8.pdf">smallest critical set</a> paper.  
+On AMD processors, it performed better than CPLEX for this kind of problem.
+<li><a href="http://www.gnu.org/software/glpk/glpk.html">GLPK</a> GPL.  Could have used it in the scs paper too.
+
+<li><a href="http://www.mosek.com">MOSEK</a>  Had them send a time-limited demo version - wasn't so great.
+<li><a href="http://www.iiasa.ac.at/~marek/soft/">MOMIP</a> Free.  I can't remember if it was good, but see benchmark below.
+<li><a href="http://www.coin-or.org">COIN/Sbb</a>  The author of BonsaiG suggested I use this instead when I emailed him about the FORTRAN kludge in BonsaiG beoming crufty (it only works with gcc 2.95, not gcc 3.3).  Haven't tested it lately.
+</ul>
+<p>
+<h3>Commercial or untested or maybe not even for 0-1 ILP</h3>
+<ul>
+<li><a href="http://www.sunsetsoft.com/">XA</a>  
+<li><a href="http://www.dashoptimization.com/">XPRESS</a>  
+<li><a href="http://www.ubmail.ubalt.edu/~jsinghal/">ZOOM</a> 
+<li><a href="http://www.sbsi-sol-optimize.com/">MINOS</a> (Not for ILP, I don't think!).
+<li><a href="http://www.optirisk-systems.com/">FortMP</a>
+<li><a href="http://www.isye.gatech.edu/faculty/Martin_Savelsbergh/software/">MINTO</a>
+<li><a href="http://www.saitech-inc.com/">SOPT</a>
+<li><a href="http://www.frontsys.com/amplprod.htm">XLSOL</a>
+<li><a href="http://www.wisc.edu/mathsoft/m14.html">IPENUM</a> (link broken as at 2004-03-02)
+<li><a href="http://orlab.snu.ac.kr/software/or_prog/">OR Library</a>
+<li><a href="http://ai.uwaterloo.ca/~vanbeek/software/software.html">CSPLIB</a> when there's no objective function (another <a href="http://www.4c.ucc.ie/~tw/csplib/links.html">CSPLib</a> link for constraint solvers)
+<li><a href="http://www.prism.uvsq.fr/recherche/themes/ANCIENS/teams/optimize/softs/bob.en.html">BOB</a> branch-and-bound library, link doesn't work 2003-02-18
+<li><a href="http://orly1.snu.ac.kr/software/lpabo">LPABO</a>
+<li><a href="http://www.mcs.anl.gov/otc/Tools/PCx/">PCx</a>
+<li><a href="http://www.maths.ed.ac.uk/~gondzio/software/hopdm.html">HOPDM</a>
+<li><a href="http://www.sztaki.hu/~meszaros/bpmpd/">BPMPD</a>
+<li><a href="http://www.ziena.com/knitro/kindex.htm">KNITRO</a>
+</ul>
+<br>
+Many of the above are available at <a 
+href="http://www-neos.mcs.anl.gov/">the NEOS server.</a>
+And more obscure software is at <a href="http://www-fp.mcs.anl.gov/otc/Guide/SoftwareGuide/Categories/intprog.html">NEOS Guide.</a>
+There WAS a <a href="http://plato.la.asu.edu/bench.html">Mixed Integer Linear Programming Benchmark.</a>  (The author didn't just stop doing
+the benchmarks, he took down all the current ones.  How unfriendly.)
+<br>
+Also, according to <a
+href="http://www.eecs.umich.edu/~faloul/Papers/faloul_iccad02.pdf">the PBS
+paper</a>, it should be possible to rewrite any 0-1 ILP problem in
+(DIMACS) CNF format, which means SAT solvers such as <a
+href="http://ee.princeton.edu/~chaff/zchaff.php">zChaff </a> could be
+used.  However I haven't found software to do this or written any
+myself.  
+
+In old versions of the Linear Programming FAQ, Bob Craig
+from Lucent is mentioned as having written software
+to do this, but I couldn't find a working email address.
+
+<!-- Begin Nedstat Basic code -->
+<!-- Title: 0-1 Integer Linear Programming -->
+<!-- URL: http://www.eskimo.com/~rwb/misc/01ilp.html -->
+<script language="JavaScript" type="text/javascript" src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript" type="text/javascript" >
+<!--
+  nedstatbasic("ACoRtAkq4z5GYWfD8R22V6Jt34pQ", 0);
+// -->
+</script>
+<noscript>
+<a target="_blank" href="http://www.nedstatbasic.net/stats?ACoRtAkq4z5GYWfD8R22V6Jt34pQ"><img
+src="http://m1.nedstatbasic.net/n?id=ACoRtAkq4z5GYWfD8R22V6Jt34pQ"
+border="0" width="18" height="18"
+alt="Nedstat Basic - Free web site statistics
+Personal homepage website counter"></a><br>
+<a target="_blank" href="http://www.nedstatbasic.net/">Free counter</a>
+</noscript>
+<!-- End Nedstat Basic code -->
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,150 @@
+Pure Mac: Charts & Graphs 
+
+ Charts & Graphs 
+
+ Adrenaline Charts Pro 
+
+ ConceptDraw 
+
+ Flowchart Maker 
+
+ KaleidaGraph 
+
+ MacFlow 
+ OmniGraffle 
+
+ Adrenaline Charts Pro 1.5.1 
+
+Adrenaline Charts Pro is the most versatile tool for rapidly creating static and
+dynamic professional-looking charts. With a fast interactive 3D engine, Charts
+Pro lets you create shaded charts you can manipulate in real-time and publish so
+as to achieve the highest quality output.
+
+ License : Demo, $399
+ Author/Publisher : Adrenaline Software, Inc
+ Modification Date : Decmeber 2, 2000
+ Requirements : PPC, System 8.5 or higher
+
+ Direct Download
+ File Size: 6229 Kb - 1.5 Demo
+
+ Direct Download
+ File Size: 431 Kb - 1.5.1 updater
+
+ Direct Download
+ File Size: 5361 Kb - 1.0.4 Demo - Requires PPC and System 7.5.3 or later - released April 13, 1999
+
+ Direct Download
+ File Size: 414 Kb - 1.0.4 updater - Requires PPC and System 7.5.3 or later - released April 13, 1999
+
+ Home Page 
+
+ ConceptDraw 1.6.1 
+
+ConceptDraw is the powerful and easy-to-use application, which enables users
+at all levels to quickly produce professional-looking flowcharts, business
+diagrams, research layouts, organization schemes, plans and more. It's
+cross-platform, so all documents, libraries and templates open seamlessly
+between the Windows and Macintosh platforms.
+
+The program has a rich set of versatile drawing tools, which allow the user
+to create elementary segements, apply patterns, fills and shadows to
+objects, reshape, rotate and resize objects on page in all possible ways.
+More complex drawings can be created with the help of pre-drawn library
+objects (over 1700), organized in industry-specific libraries. Each object
+may contain text, which can be edited with the built-in text processor.
+
+ConceptDraw allows for customly programmed objects, described by formulas
+and mathematic functions, can process hyperlinks assigned to objects and
+text, supports most popular graphic formats and HTML export.
+
+ License : Demo, $125
+ Author/Publisher : Computer Systems Odessa
+ Modification Date : May 21, 2001
+ Requirements : PPC, Mac OS 8.6 or later and Mac OS X
+
+ Direct Download
+ File Size: 9556 Kb - Demo
+
+ Updates Page
+
+ Home Page 
+
+ Flowchart Maker 1.3 
+
+Flowchart maker is a graphical program to realize flowcharts. It uses an
+interactive drawing environment, with rulers, grids, different measure units and
+scales of magnification. User interacts with flowchart elements directly
+manipulating them in a true pleasant Mac environment. Using Flowchart Maker
+everyone can realize astonishing flowcharts easily.
+
+ License : Shareware, $39
+ Author/Publisher : Tension Software
+ Modification Date : March 31, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 358 Kb - 68k version
+
+ Direct Download
+ File Size: 334 Kb - PPC version
+
+ Home Page 
+
+ KaleidaGraph 3.5 
+
+Let KaleidaGraph clarify your data... 
+ Impressive Speed.
+ Capacity - 1000 columns by 1 million rows in each data window. 
+ Data can be entered or imported from an Excel or text file.
+ Precise control of plot elements for 19 2D plot types. 
+ Flexible error bars. 
+ Includes 9 built-in fits (Linear Regression and Smoothing Fits), 
+ plus a library of over 100 industry-specific formulas. 
+ In addition you can enter your own fit equation.
+
+ License : Demo, $155
+ Author/Publisher : Synergy Software
+ Modification Date : April 20, 2000
+ Requirements : 680x0 or PPC, System 7 or higher
+
+ Direct Download
+ File Size: 8729 Kb
+
+ Home Page 
+
+ MacFlow 5.0.1 
+
+Use MacFlow to produce top-quality diagrams fast, without tedious drawing.
+Flowcharts and organization charts can be entirely freeform. Link a subchart and
+pages of text comments to any symbol. Included are more than 400 ANSI-standard
+and custom symbols. Even "teach" symbols how you would like them to scale, to
+handle text, etc.
+
+ License : Demo, $179
+ Author/Publisher : Mainstay
+ Modification Date : June 9, 1999
+ Requirements : 680x0 or PPC, System 7 or higher
+
+ Direct Download
+ File Size: 2003 Kb
+
+ Home Page 
+
+ OmniGraffle 1.1.4 
+
+OmniGraffle helps you draw beautiful diagrams, family trees, flow charts, org charts, layouts, and other directed
+or non-directed graphs. If you want to organize anything graphically using boxes and lines, OmniGraffle is your
+tool. 
+
+ License : Demo, $110
+ Author/Publisher : The Omni Group
+ Modification Date : October 12, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 1404 Kb
+
+ Home Page
+
+ Back to the main page of Pure Mac

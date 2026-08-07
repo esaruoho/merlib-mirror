@@ -1,0 +1,109 @@
+Index DOT Html: Common Authoring Questions 
+
+ Common Authoring Questions 
+ = Index DOT Html by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ Main Index |
+ Element Index |
+ Element Tree |
+ HTML Support History 
+
+ If you frequent any forums on HTML, many of the following questions may seem
+ VERY familiar. I see these questions asked more than any others, and I hope
+ I can do my part to answer or address them all in one place (whether for
+ better or worse.) If you know of any other FATDQ [Frequently Asked To Death
+ Questions =)] of HTML, please e-mail me 
+ - I would be interested in trying to address them.
+
+ How Do I Get Started Learning HTML? 
+ When I first started to create this site, I decided to stay away from
+ introductory topics in order to concentrate on the heart of HTML. I have
+ had some readers rave about my site, and then subsequently confess that
+ it was a bit too advanced for the level they were currently at. When these
+ people ask me for sites that would be good starting points, I have been at
+ somewhat of a loss - until now. Hopefully the sites reviewed here can serve
+ as a gateway into the wonderful world of HTML. 'When yer done with these, y'all
+ come back now!' =)
+
+ How Do I Indent Using HTML? 
+ This is one of the most frequently asked questions posed by many HTML
+ authors. I will try to cover all possible methods that can (or SHOULD )
+ be used and weigh the pros and cons for each method. Hopefully, you can draw your
+ own conclusion about which method will work best for you.
+
+ What is the 'NATURALSIZEFLAG' attribute for
+ the IMG element? 
+ Due to a design decision by an HTML editor company, there are more than
+ a few pages running around with this unexplained phantom attribute. What is it,
+ where did it come from, and why isn't it part of the HTML specifications?
+ [I knew part of the answer to this a while back, but a reader was kind
+ enough to send me the clarification that he received directly from the
+ company on the matter.]
+
+ How can frame borders be controlled in BOTH 
+ Netscape and Internet Explorer? 
+ When the basic HTML frame syntax was extended in Netscape and Internet Explorer
+ to allow control over the appearance of the borders around frames, both browsers
+ chose to use a slightly differing syntax from the other. Despite this
+ inconsistency, it IS possible to get the same rendering behavior
+ in both browsers if simple rules are followed.
+ How do I include the subject line in a 'mailto:' URL? 
+ The original syntax for 'mailto:' URLs is clear that it is meant only for specifying
+ email addresses. A new RFC proposes an updated format for the 'mailto:' URL syntax
+ that has long had support in Netscape, but has only recently gained wider acceptance.
+
+ How do I hide the source of my HTML document from
+ readers? 
+ I have yet to understand the desire to do this, but I see this question asked
+ all the time. Using just HTML this cannot be done, but people have sent me several
+ suggestions on how this might be accomplished using other methods.
+
+ How do I create a new window in
+ Javascript? 
+ I have seen this question quite a bit. I have tried to address this question,
+ and I also include a little form to pick and choose the new window features
+ you want. It creates the code for you or shows an example in use.
+
+ How can the width of a form SELECT
+ field be controlled? 
+ This is a brief one, but a good one. The answer is quite safe and
+ works across a wide range of browsers.
+
+ What are those strange "%20" codes
+ I see in URLs? 
+ The types of characters legally allowed in URLs are very constrictive.
+ Any characters that are not allowed need to be specially encoded using
+ legal characters. Read all about URL character encoding here.
+
+ How to detect a browser's capabilities? 
+ A dash of magic, a pinch of knowledge about User Agent string conventions...
+ and a lot of Javascript.
+
+ How do HTML <BODY>
+ attributes map to CSS properties? 
+ Its a pretty easy one-to-one mapping...read more about it here.
+
+ How do I break my pages out of frames? 
+ If there is anything more unpopular than frames, it is being stuck inside
+ them. Several simple methods are detailed.
+
+ How can you create a custom icon for your site's bookmark in IE5+? 
+ Rather than address this issue myself, there are a few pages that
+ cover this particular question to such great depth that to try to
+ re-hash it myself would be a waste of effort. For great coverage of
+ this question, see
+ Microsoft's
+ reference page , Favicon.com , or the
+ WDVL's
+ great page on the topic. (BTW...this now works in Mozilla as of 0.9.7 -
+ it should be in Netscape 6.x builds soon.)
+
+ How do I insert background music in my pages? 
+ For best compatibility with the most browsers, this will probably serve best: 
+ < embed SRC ="mysound.wav"
+ HIDDEN ="True">< bgsound SRC ="mysound.wav"></ embed > 
+ (other EMBED attributes which may be useful are: AUTOPLAY=[true/false] and
+ LOOP=[true/false].)
+
+ Boring Copyright Stuff...

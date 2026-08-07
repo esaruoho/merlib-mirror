@@ -1,0 +1,306 @@
+---
+title: "Shawna's Performance Resume"
+source_domain: amasci.com
+source_path: ~allegro/sperformanceres.htm
+order: 1105
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T05:54:53Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Shawna's Performance Resume
+
+*Source page: `~allegro/sperformanceres.htm`*
+
+* **Shawna L. Walls***
+
+*** **<img src="images/bwhead.jpg" data-border="0" width="85" height="112" />*
+
+**Singer/Actor**
+
+**\* Musical Theater \* Opera/Classical \* Comedy \* Voiceovers \*Straight Theater**
+
+Please [e-mail](mailto:allegro@eskimo.com) for address and telephone information.
+
+***Overview:*** I have been involved with performance and production of plays, musical theater and opera since I was a small child (my first role was at age 3 as Goldilocks in a pre-school play.) I really enjoy being on and around the stage, as well non-stage work, such as radio theater, voiceovers and studio work. I am also interested in doing television and film. I learn quickly, and am very flexible. I am comfortable with comedy and improv, and think on my feet well during performances.
+
+***Personal Info:***
+
+- Age- 30. 
+- Hair/Eyes- Red-Dk Blonde/Blue. 
+- Height/Weight- 5’2"/270.
+
+***Vocal Range:*** 
+
+1st Soprano in ensembles. Approx 3-Octave range: D below middle C to E 2 1/2 octaves above. Have done Soubrette, Coloratura, Light Dramatic and even Mezzo and Contralto work.
+
+***Stage Credits:***
+
+**Seattle Lesbian and Gay Chorus:**
+
+Buttercup
+
+*HMS Pinafore*
+
+ 6/01
+
+Sister Mary Theresa (lead)
+
+*Is Nothing Sacred?*
+
+ 2/99
+
+**Portland State University Opera Workshop:**
+
+*Full Productions:*
+
+1<sup>st</sup> Witch
+
+*Dido and Aeneas*
+
+ 6/95
+
+Mrs. Ham
+
+*Noye's Fludde*
+
+ 6/94
+
+Narrator
+
+*The True Story of Cinderella *
+
+12/93
+
+Chorus
+
+*The Magic Flute*
+
+ 6/93
+
+Chorus
+
+*Susannah*
+
+ 6/92
+
+*Opera Workshop Scene Performance*
+
+Dame Quickly
+
+*Falstaff*
+
+12/94
+
+***Cabarets and Revues:    ***
+
+Featured Soloist 
+
+Rodgers and Hart: A Celebration
+
+ 4/99
+
+"
+
+Lovesick
+
+ 4/00
+
+"
+
+Love a Little, Laugh a Lot
+
+ 11/00
+
+Chorus and featured performer 
+
+Clinton St Cabaret (ongoing variety and improv show) 
+
+10/90- 3/92
+
+***Other Work:***
+
+The Nevada Gunslingers (gunfight re-enactments and old west skits)-Reno, NV, 2 years
+
+Membership Committee Chair on the Board of Directors for SLGC, and Board liaison to the Artistic Direction Committee
+
+Recorded Carl Orff's Carmina Burana with the Seattle Choral Company
+
+5 years as a Disc Jockey- Reno, NV
+
+** ****
+
+Musical Ensembles:
+
+1<sup>st</sup> Soprano
+
+*Sing for the Cure*, with Seattle Men's Chorus
+
+6/01
+
+1st Soprano
+
+Seattle Choral Company
+
+9/98-3/00
+
+1<sup>st</sup> Soprano and soloist
+
+Seattle Lesbian and Gay Chorus
+
+9/98-present
+
+1<sup>st</sup> Soprano and soloist
+
+Something Else!
+
+2/99-3/01
+
+1<sup>st</sup> Soprano
+
+PSU Concert Choir
+
+9/91-5/95
+
+Soprano and soloist
+
+PSU Vocal Jazz
+
+9/94-5/95
+
+**
+
+Non-Performing Credits:
+
+Various Productions:
+
+- Props manager
+
+- Stagehand
+
+- Makeup assistant
+
+- Scenery construction
+
+- Costume assistant
+
+**
+
+Special Skills:
+
+- Comfortable with computers and technical language. 
+
+- Writing (fiction, non-fiction and technical) 
+
+- Gun handling and safety
+
+- Animal handling
+
+- Customer service
+
+***Sung Languages:***
+
+- French
+
+- Italian
+
+- Latin (Italianate and Austro-German)
+
+- German
+
+- Spanish
+
+- Russian
+
+- Guarani
+
+- Serbian
+
+- Mandarin
+
+**
+
+Spoken Languages:
+
+- Basic Conversational French
+
+- Some Spanish, Italian and German
+
+***Diction training:***
+
+- French
+
+- Italian
+
+- German
+
+ 
+
+***Accents:***
+
+- Formal British
+
+- Cockney
+
+- Australian
+
+- Irish
+
+- American South (Texas and Georgia) 
+
+- Brooklyn
+
+- German
+
+- Spanish
+
+- French
+
+- Italian
+
+- Southern California
+
+- Character voices (child, elderly, etc)
+
+***Musical Styles:*** 
+
+- Broadway
+- Standards
+- Opera
+- Operetta
+- Jazz
+- Blues
+- Pop
+- Rock
+- Country
+- Choral (classical and modern)
+- Close-harmony acappella
+- Repertoire list available on request
+
+***Education:***
+
+*Voice Study-*
+
+4 years with Diane Hammack at Portland State
+
+Currently studying wtih Karen Oleson in Seattle
+
+College-
+
+Portland State University, Portland, OR 1998 B.A. General Studies, Minor in Music. 4 years as a Music Major with Theater and Psychology Minors
+
+University of Nevada-Reno- 1988-89 Studied French, Theater and Music 
+
+High School- 
+
+Washoe High, Reno, NV- Graduated as a junior. Participated in yearbook production, student council and community relations
+
+Reed High, Sparks, NV- Involved with Literary Magazine, choir and 3 theater productions
+
+****
+
+Special Interests/Experience
+
+Sci-Fi/Fantasy, gay-themed productions, computers/online communication, video games, radio broadcasting, writing, cultural criticism, psychology/sociology, pets and animals, travel, cooking, antiques, progressive politics, domestic architecture and design

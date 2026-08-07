@@ -1,0 +1,911 @@
+~~~ ~~ ~ 
+ , &#169; = 
+-->
+ key.
+
+ Nearly 500 topics are covered, in many tens of thousands of lines
+ of code, with 
+
+ When you BUY AllCommonCode, you are supporting
+ a fallen soldier in the Tech-Know wars. I have not had a job for 
+ over a year as of the end of 2002, and Washington State reportedly 
+ has the highest unemployment in the nation. 
+
+ // -->
+
+ Dobe Doinat's VB.NET Code Library: AllCommonCode Screenshots 
+
+ // -->
+
+ Dobe Doinat's VB.NET Code Library 
+
+ "AllCommonCode" &#169; 
+
+ Introduction to "AllCommonCode" &#169; 
+
+ AllCommonCode Feature List 
+
+ Demo Version 
+
+ Table of Contents Screenshot 
+
+ Demo Dialog Box Screenshot #1 
+
+ Demo Dialog Box Screenshot #2 
+
+ Demo <F1> Key Screenshot 
+
+ Demo Math Form Screenshot (Typical) 
+
+ Index List (ASCII) 
+
+ Index Screenshot (from Demo) 
+
+ Rich Text Format Editor Screenshot 
+
+ F1 Key Screenshot: Opens Help File! 
+
+ Add Items to ListBox Code Screenshot 
+
+ VS.NET Bug Report Screenshot 
+
+ Installation Screenshots 
+
+ Add | Remove Programs Screenshot (before installation) 
+
+ Install: Welcome Splashscreen Screenshot 
+
+ Install: Set the Path Screenshot 
+
+ Install: Confirm Installation? Screenshot 
+
+ Install: -- Wait; Busy! -- Screenshot 
+
+ Install: Successful Completion Screenshot 
+
+ Add | Remove Programs Screenshot (after installing) 
+
+ Add | Remove Programs Screenshot (confirm removal) 
+
+ Try AllCommonCode Demo&#169; today! 
+
+ Buy AllCommonCode &#169; today! 
+
+ AllCommonCode Introduction 
+
+ Back to the Beginning of this page 
+
+ AllCommonCode is an easy-to-locate, cut-and-paste Code Library of:
+
+ Tested features , usually with opinions on which felt more 
+ intuitive or had less problems. 
+ Tested intrinsic Functions, Enums, Subroutines, Classes, etc. 
+ Sample code snippets for copy-and-paste to other projects 
+ Example code which always works (or noted as questionable during testing!) 
+ Concepts , discussed in detail with examples in the included Help file, 
+ PNA_VBdotNET_REF.CHM &#169; 
+ Nearly 500 Indexed Topics 
+
+ When Visual Studio.NET was released in February of 2002,
+ I decided to learn the Visual Basic,NET and C# languages
+ completely, to own them, to know how to accomplish anything I 
+ wanted to do. 
+
+ I also wanted to leave a trail of HOW that
+ something got accomplished, HOW that syntax worked, which
+ Class and which properties are most convenient in a given
+ situation... 
+
+ Why re-invent the wheel? Do it once and keep 
+ the code where it is easily found and reused! Thus this project
+ was conceived and nurtured. The VB.NET portion is now ready for 
+ publication. I do not release this project for free as I have been
+ underemployed for over a year, and really need for companies and
+ other developers who can, to 
+ please help support my work .
+
+ Purchase the fruits of my work
+ either as a CD with the project as an installable application
+ for $ 50.00 USD or the Gold version which includes not only the 
+ installable application, but exact copies of the actual directories 
+ used to create the project for $ 150.00 USD , which also has 
+ some additional tools and features. 
+
+ You can use the source code in any way
+ you want, as long as you don't simply copy-and-paste your information into 
+ the project and claim you created it! This is simply intended for those
+ who would prefer to see the working code in the VS.NET IDE, with the added 
+ advantage of simply "uncommenting" code left behind and using the VS.NET 
+ debugging and tracing tools.
+
+ Try AllCommonCode Demo&#169; today! 
+
+ Buy AllCommonCode &#169; today! 
+
+ ~~~ ~~ ~ 
+ , 
+ width="100%" 
+ height="100%" 
+-->
+
+ AllCommonCode Feature List 
+
+ Back to the Beginning of this page 
+
+ 30 Main Topics (each in it's own form): Screenshot 
+
+ 460 SubTopics (selectable from index or form.listbox): Screenshot 
+
+ Integrated Help File in Compiled Help Format ( .CHM ): Screenshot 
+
+ Rich Text Format Editor with Source Code: Screenshot 
+
+ Complete with Install/Uninstall : Screenshot 
+
+ Available for purchase over the Internet: Using PayPal 
+
+ Tens of thousands of lines of tested code : for cut-and-paste productivity enhancements
+
+ One year of free updates : to any future versions released on the web
+
+ Source code : included with " Gold version " only !
+
+ Try AllCommonCode Demo&#169; today! 
+
+ Buy AllCommonCode &#169; today! 
+
+ ~~~ ~~ ~ 
+ , 
+ width="100%" 
+ height="100%" 
+-->
+
+ Table of Contents Form (Demo) 
+
+ Back to the Beginning of this page 
+
+ Demo version contains advertising, extraneous dialog boxes 
+ and un-enabled controls.
+
+ The actual program, once registered, works with no 
+ splash screens or advertising of any kind!
+
+ ACC_TOCDemoForm06.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Demo Dialog Box #1 
+
+ Back to the Beginning of this page 
+
+ This is nearly identical to the Help | About
+ dialog box in the Registered version.
+
+ It merely gives the Author contact information and Version number.
+
+ ACC_AuthorDemoDBox01.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Demo Dialog Box #2 
+
+ Back to the Beginning of this page 
+
+ The second dialog box in the demo version gives
+ a price list and a small feature list.
+
+ This does not appear in the Registered Version. 
+
+ ACC_RegVersionDemoDBox05.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ F1 Key 
+
+ Back to the Beginning of this page 
+
+ Since the demo version is merely to determine
+ whether .NET applications run on your local environment, the 
+ Visual Basic.NET Reference (.CHM) Help file is not included.
+
+ The 
+ Visual Basic.NET Reference (.CHM) Help file is included with the 
+ AllCommonCode Registered Version! 
+
+ ACC_F1KeyDemoDBox02.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Math Form (Demo) 
+
+ Back to the Beginning of this page 
+
+ This is a typical screenshot of the Demo Version.
+
+ (In the demo version, the textbox of most forms have NOT been enabled!)
+
+ In the Registered version of AllCommonCode, everything is enabled and is working!
+
+ ACC_MathDemoForm04.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ AllCommonCode Topic List 
+
+ Back to the Beginning of this page 
+
+ Note that in both the demo and Registered Versions,
+ the Index is a listbox with all subtopics alphabetized and "hyperlinked" to 
+ the form containing the subtopic clicked!
+
+ These are 460 subtopics discussed in AllCommonCode. 
+
+ Index for AllCommonCode VB.NET Code Library 
+
+ #CONST TRACE 
+ #Const Directive Syntax 
+ #ExternalSource Directive 
+ #If...Then...#Else Directives 
+ #Region / #End Region Directive 
+ Abs Method 
+ Acos Method 
+ AddHandler Statement 
+ AddressOf Operator 
+ Alias Command 
+ AppActivate Function 
+ Application Class 
+ Array Class 
+ Array.BinarySearch Method 
+ Array.Copy Method 
+ Array.Erase Statement 
+ Array.IndexOf Method 
+ Array.IsArray Function 
+ Array.Join Function 
+ Array.LBound Function 
+ Array.LastIndexOf Method 
+ Array.Sort Method 
+ Array.UBound Function 
+ ArrayList Class 
+ Arrays: Dim and ReDim 
+ Arrays: Introduction to 
+ Asc & AscW Functions 
+ Asc / AscW Functions 
+ Asin Method 
+ Assemblies, References to 
+ Assembly Contents 
+ Assembly Manifests 
+ Assembly Overview 
+ Assertions 
+ Atan Method 
+ Atan2 Method 
+ Attributes Syntax 
+ Attributes and Metadata Overview 
+ Attributes, Common Uses for 
+ Attributes, Commonly used in VB.NET 
+ Attributes, Global 
+ Beep Statement 
+ CBool Function 
+ CByte Function 
+ CChar Function 
+ CDate Function 
+ CDbl Function 
+ CDec Function 
+ CInt Function 
+ CLng Function 
+ CObj Function 
+ CShort Function 
+ CSng Function 
+ CStr Function 
+ CType Function 
+ Calandar Class 
+ Call Statement 
+ CallByName Function 
+ Ceiling Method 
+ ChDir Procedure 
+ ChDrive Procedure 
+ Choose Function 
+ Chr & ChrW Functions 
+ Chr, ChrW Functions 
+ Class | End Class Statement 
+ Clipboard Class 
+ Clipboard Introduction 
+ Clipboard.GetDataObject Method 
+ Clipboard.SetDataObject Method 
+ Collection Object 
+ Collection.Add Method 
+ Collection.Count Method 
+ Collection.Item Method 
+ Collection.Remove Method 
+ Collections Overview 
+ ColorDialog Class 
+ Command Function 
+ Command Window 
+ Common Dialog Overview 
+ Conditional Compilation Overview 
+ Conditional Constants 
+ Const Statement 
+ Conversions and Casting Overview 
+ Cos Method 
+ Cosh Method 
+ Countdown Documentation 
+ CreateObject Function 
+ Creating Graphics Object 
+ CurDir Function 
+ Custom attributes 
+ DOM Example Code 
+ DOM: Best Uses for DOM 
+ DataFormats Class 
+ Date (Data Type) 
+ Date / Time Overview 
+ Date Class 
+ DateAdd Function 
+ DateDiff Function 
+ DatePart Function 
+ DateSerial Function 
+ DateString Property 
+ DateTime Structure 
+ DateTimeFormatInfo Class 
+ DateValue Function 
+ DateValue Function 
+ Day Function 
+ Debug & Trace 
+ Declarations Introduction 
+ Declare Statement 
+ Declare Statement 
+ Delegate Example: myDelegate Example 
+ Delegate Example: testClassWithSubClassAndDelegate 
+ Delegate Examples 
+ Delegates Overview 
+ DeleteSetting Statement 
+ DictionaryBase Class 
+ Dim Statement 
+ Dir Function 
+ Directives Introduction 
+ Directives: #CONST TRACE 
+ Directives: #Const Directive Syntax 
+ Directives: #ExternalSource Directive 
+ Directives: #If...Then...#Else Directives 
+ Directives: #Region / #End Region Directive 
+ Directory Class 
+ Directory.CreateDirectory 
+ Directory.Delete 
+ Directory.Exists 
+ Directory.GetCreationTime 
+ Directory.GetCurrentDirectory 
+ Directory.GetDirectories 
+ Directory.GetDirectoryRoot 
+ Directory.GetFileSystemEntries 
+ Directory.GetFiles 
+ Directory.GetLastAccessTime 
+ Directory.GetLastWriteTime 
+ Directory.GetLogicalDrives 
+ Directory.GetParent 
+ Directory.Move 
+ Directory.SetCreationTime 
+ Directory.SetCurrentDirectory 
+ Directory.SetLastAccessTime 
+ Directory.SetLastWriteTime 
+ DirectoryInfo Class 
+ Do Until...Loop Statements 
+ Do While...Loop Statements 
+ Do... Loop Until Statements 
+ Do... Loop While Statements 
+ Document Object Model (DOM) 
+ E Field 
+ EOF Function 
+ Enum Statement 
+ Environ Function 
+
+ Err & Erl 
+ Err Object 
+ Err.Clear Method 
+ Err.Description Property 
+ Err.Erl Property 
+ Err.GetException Method 
+ Err.HelpContext Property 
+ Err.HelpFile Property 
+ Err.LastDLLError Property 
+ Err.Number Property 
+ Err.Raise Method 
+ Err.Source Property 
+ Error Constants 
+ Error Handling :Best Practices 
+ Error Statement 
+ Error-Handling Overview 
+ ErrorToString Function 
+ ErrorToString Method 
+ Events Overview 
+ Exception Class 
+ Exit Statement 
+ Exp Method 
+ File Class 
+ File Class 
+ File Example: A Random Access File 
+ File Example: A Sequential Access File 
+ File.AppendText 
+ File.Copy 
+ File.Create 
+ File.Createtext 
+ File.Delete 
+ File.Exists 
+ File.GetAttributes 
+ File.GetCreationTime 
+ File.GetLastAccessTime 
+ File.GetLastWriteTime 
+ File.Move 
+ File.OpenRead 
+ File.OpenText 
+ File.OpenWrite 
+ File.SetAttributes 
+ File.SetCreationTime 
+ File.SetLastAccessTime 
+ File.SetLastWriteTime 
+ FileAttr Function 
+ FileClose Function 
+ FileCopy Function 
+ FileDateTime Function 
+ FileGet, FileGetObject Functions 
+ FileInfo Class 
+ FileLen Function 
+ FileOpen Function 
+ FilePut, FilePutObject Functions 
+ FileSystem Overview 
+ FileWidth Function 
+ Filter Function 
+ Financial Procecures Overview 
+ Financial.DDB 
+ Financial.FV 
+ Financial.IPmt 
+ Financial.IRR 
+ Financial.MIRR 
+ Financial.NPV 
+ Financial.NPer 
+ Financial.PPmt 
+ Financial.PV 
+ Financial.Pmt 
+ Financial.Rate 
+ Financial.SLN 
+ Financial.SYD 
+ Fix Function 
+ Fix Method 
+ Floor Method 
+ FontDialog Class 
+ For...Each Statements 
+ For...Next Statements 
+ Format Function 
+ Format Function 
+ FormatCurrency Function 
+ FreeFile Function 
+ Friend Keyword 
+ Function Statement 
+ GDI+ Form Example 
+ GDI+ Graphics Overview 
+ GetAllSettings Function 
+ GetAttr Function 
+ GetChar Function 
+ GetObject Function 
+ GetSetting Function 
+ Hashtable Class 
+ Hashtable.Add Method 
+ Hashtable.Clear Method 
+ Hashtable.ContainsKey Method 
+ Hashtable.ContainsValue Method 
+ Hashtable.CopyTo Method 
+ Hashtable.Count Property 
+ Hashtable.Item Property 
+ Hashtable.Keys Property 
+ Hashtable.Remove Method 
+ Hashtable.Values Property 
+ Hex Function 
+ Hour Function 
+ IDBNull Function 
+ IDataObject Interface 
+ IEEERemainder Method 
+ IIf Function 
+ Identity of Assembly 
+ InStr Function 
+ InStrRev Function 
+ Information Overview 
+ Input Function 
+ InputBox Function 
+ InputBox Function 
+ InputString Function 
+ Instrumentation 
+ Int Function 
+ Int Method 
+ Interaction Overview 
+ Intro to Strings 
+ Intro to System.Math 
+ Introduction to File I/O 
+ IsArray Function 
+ IsDate Function 
+ IsError Function 
+ IsError Method 
+ IsNothing Function 
+ IsNumeric Function 
+ IsReference Function 
+ Join Function 
+ Kill Function 
+ LBound Function 
+ LCase Function 
+ LOF Function 
+ LTrim Function 
+ Len Function 
+ Like Function 
+ LineInput Function 
+ Loc Function 
+ Lock Function 
+ Log Method 
+ Log10 Method 
+ Loop Constructs Overview 
+ Max Method 
+ MessageBox Class 
+ MessageBox.Show Function 
+ Mid Function 
+ Mid Statement 
+ Min Method 
+ Minute Function 
+ MkDir Function 
+ Mod Method 
+ Month Function 
+ MonthName Function 
+ MsgBox Function 
+ MySubDelegate Example 
+
+ Nested Loop Constructs 
+ Now Property 
+ Oct Function 
+ On Error Statement 
+ OpenFileDialog Class 
+ Option Compare 
+ Option Statements 
+ Option Strict Statement 
+ Other Format Functions 
+ PageSetupDialog Class 
+ Partition Method 
+ Pi Field 
+ Pow Method 
+ Print: PrintLine Functions 
+ PrintDialog Class 
+ PrintPreviewDialog Class 
+ Private Statement 
+ Property Statement 
+ Protected Statement 
+ Public Statement 
+ QBColor Function 
+ QBColor Function 
+ QBColor Function 
+ Queue Class 
+ Queue.Clear Method 
+ Queue.Contains Method 
+ Queue.CopyTo Method 
+ Queue.Count Method 
+ Queue.Dequeue Method 
+ Queue.Enqueue Method 
+ Queue.Peek Method 
+ Queue.ToArray Method 
+ RGB Function 
+ RGB Function 
+ RGB Function 
+ RTrim Function 
+ RaiseEvents Statement 
+ Randomize Statement 
+ Read an XML Schema in VB.NET 
+ Reflection / Attribute Example Code 
+ Registry Class 
+ Registry Overview 
+ Rem Statement 
+ Rename Function 
+ Replace Function 
+ Reset Function 
+ Resume Statement 
+ RmDir Function 
+ Rnd Method 
+ Round Method 
+ SAX Example Code 
+ SAX: Best Uses for SAX 
+ SaveFileDialog Class 
+ SaveSetting Procedure 
+ ScriptEngine Properties (READONLY) 
+ Second Function 
+ Seek Function 
+ Seek Procedure 
+ SendKeys.Send Method 
+ SendKeys.SendWait Method 
+ SetAttr Procedure 
+ Shell Command 
+ Shell Function 
+ Sign Method 
+ Simple API for XML (SAX) 
+ SimpleDelegate Example 
+ Sin Method 
+ Sinh Method 
+ SortClass Example 
+ SortedList Class 
+ Space Function 
+ Spc Function 
+ Spc Function 
+ Split Function 
+ Sqrt Method 
+ Stack Class 
+ Stack.Clear Method 
+ Stack.Contains Method 
+ Stack.CopyTo Method 
+ Stack.Count Property 
+ Stack.Peek Method 
+ Stack.Pop Method 
+ Stack.Push Method 
+ Stack.ToArray Method 
+ StackTrace Property 
+ Static Statement 
+ Str Function 
+ StrComp Function 
+ StrConv Function 
+ StrDup Function 
+ StrReverse Function 
+ Structure | End Structure Statement 
+ Sub Statement 
+ Switch Function 
+ SystemTypeName Function 
+ Tab Function 
+ Tan Method 
+ Tanh Method 
+ Throw Statement 
+ TimeOfDay Property 
+ TimeSerial Function 
+ TimeSpan Structure 
+ TimeString Property 
+ TimeValue Function 
+ Timer Class 
+ Today Property 
+ Trace.Assert Method 
+ Trace.AutoFlush Property 
+ Trace.Close Method 
+ Trace.Fail Method 
+ Trace.Flush Method 
+ Trace.Indent Method 
+ Trace.IndentLevel Property 
+ Trace.IndentSize Property 
+ Trace.Listeners Property 
+ Trace.Unindent Method 
+ Trace.Write Method 
+ Trace.WriteIf Method 
+ Trace.WriteLine Method 
+ Trace.WriteLineIf Method 
+ Trim Function 
+ Try...Catch...Finally Statement 
+ TypeName Function 
+ UBound Function 
+ UCase Function 
+ VB.NET Debugging Tips 
+ Val Function 
+ VarType Function 
+ VbTypeName Function 
+ Weekday Function 
+ WeekdayName Function 
+ While...End While Statements 
+ With...End With Statements 
+ WithEvents Statement 
+ XML & VS.NET IDE 
+ XML DTD 
+ XML Data Islands 
+ XML Namespaces 
+ XML Overview 
+ XML Schema 
+ XML Serialization 
+ XML: * XML Glossary * 
+ XML: Best Uses for DOM 
+ XML: Best Uses for SAX 
+ XML: DOM Example Code 
+ XML: Document Object Model (DOM) 
+ XML: SAX Example Code 
+ XML: Valid XML 
+ XML: Well-Formed XML 
+ Year Function 
+
+ Index Form Screenshot (from Demo) 
+
+ Back to the Beginning of this page 
+
+ Here's the actual screenshot of the Index in the 
+ Demo Version.
+
+ Clicking on any subtopic opens the form containing the information desired! 
+
+ ACC_IndexDemoForm03.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Rich Text Format Editor Screenshot 
+
+ Back to the Beginning of this page 
+
+ Here's the actual screenshot of a working 
+ Rich Text Format Editor, usable in both the Demo and Registered versions.
+
+ Note that in the Registered version, the RTF Control opens an RTF
+ document containing the source code to the RTF Editor, as shown below!
+
+ AllCommonCode_RTF_Form10.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Add | Remove Programs (Before) 
+
+ Back to the Beginning of this page 
+
+ This is the dialog box which opens when a User
+ clicks on: 
+ START | CONTROL PANEL | ADD/REMOVE PROGRAMS.
+
+ This shows that the machine has had the .NET Framework installed previously.
+
+ This is just before the installation of AllCommonCode. 
+
+ AllCommonCodeAddRemovePrograms_Before12.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Installation Welcome Screen 
+
+ Back to the Beginning of this page 
+
+ When you click on "Setup.exe" in the 
+ AllCommonCode setup directory, the following set of dialog boxes lead 
+ you through the installation.
+
+ If you purchase the "Gold" version of AllCommonCode, you will also get
+ the original file-by-file copy of the original Setup project, so you 
+ can see how that works in the original Visual Studio.NET Solution Source files! 
+
+ AllCommonCodeInstall_Welcome18.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Installation: Set the Path 
+
+ Back to the Beginning of this page 
+
+ This shows the default Path, although
+ it gives the User the oportunity to change the Path to any other 
+ directory. (Click on "Browse")
+
+ Default Path: D:\Program Files\AllCommonCode 
+
+ AllCommonCodeInstall_Path15.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Installation: Confirm Parameters? 
+
+ Back to the Beginning of this page 
+
+ Here the User gets a chance to change any 
+ parameters (Back) or cancel the installation (Cancel) or continue with the 
+ accepted parameters (Next)...
+
+ (This is the last chance to change parameters or cancel before installation.) 
+
+ AllCommonCodeInstall_Confirm14.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Installation: Please Wait! (Working) 
+
+ Back to the Beginning of this page 
+
+ This shows AllCommonCode in the process of 
+ being installed.
+
+ It should take much less than a full minute on a fast machine! 
+
+ AllCommonCodeInstall_PleaseWait16.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Installation: Successful Completion 
+
+ Back to the Beginning of this page 
+
+ This shows the installation was successful!
+
+ After this, either the demo or the Registered version may be 
+ uninstalled by going to the 
+ Control Panel | Add/Remove Programs and selecting 
+ AllCommonCode's <Remove> button.
+
+ AllCommonCodeInstall_Success17.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Add | Remove Programs (After Installation!) 
+
+ Back to the Beginning of this page 
+
+ Now, either the demo or the Registered version may be 
+ uninstalled by: 
+ Control Panel | Add/Remove Programs and selecting 
+ AllCommonCode's <Remove> button.
+
+ Note that there are Shortcuts set up on the Desktop and 
+ in the Start | Programs menu to the AllCommonCode executable which
+ are also removed during uninstallation . 
+
+ AllCommonCodeAddRemovePrograms_After11.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Add | Remove Programs (Confirm) 
+
+ Back to the Beginning of this page 
+
+ If you do click on AllCommonCode's <Remove> button,
+ the uninstaller gives you a confirmation dialog box to change your mind!
+
+ AllCommonCodeAddRemovePrograms_Confirm13.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ <F1> Key brings up the Help file! 
+
+ Back to the Beginning of this page 
+
+ The Registered version of the 
+ Visual Basic.NET Reference (.CHM) Help file is activated 
+ from the <F1> Key , or from the Help | Show Tutorial .
+
+ The 
+ Visual Basic.NET Reference (.CHM) Help file is integrated with the 
+ AllCommonCode Registered Version! 
+
+ Also, try some other key combinations, like <ALT><F1> , 
+ <SHIFT><F1> , or <CONTROL><F1> . 
+ My code shows how to trap for certain keys the User presses during runtime.
+
+ AllCommonCode_F1Key08.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Add to ListBox Code 
+
+ Back to the Beginning of this page 
+
+ Everything about this project makes it easy to learn VB.NET!
+
+ I actually show most of the code to make the project run within a cut-and-paste
+ textbox, so you can see how I created the entire project! 
+
+ AllCommonCode_ListCodeAdd_Form09.jpg 
+
+ ~~~ ~~ ~ 
+-->
+
+ Visual Studio.NET Bug Report 
+
+ Back to the Beginning of this page 
+
+ Sure, I show you bugs I found in Visual Studio.NET ,
+ but my next version will have a bug-tracking form.
+
+ Send in any problems you find with my code! All feedback is appreciated! 
+
+ AllCommonCode_BugReport07.jpg 
+
+ ~~~ ~~ ~ 
+-->

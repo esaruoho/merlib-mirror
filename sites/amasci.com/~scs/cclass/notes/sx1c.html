@@ -1,0 +1,208 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995-7 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>1.3 Program Structure</title>
+<link href="sx1b.html" rev=precedes>
+<link href="sx2.html" rel=precedes>
+<link href="sx1.html" rev=subdocument>
+</head>
+<body>
+<H2>1.3 Program Structure</H2>
+
+<p>We'll have more to say later about program structure,
+but for now let's observe a few basics.
+A program consists of one or more functions;
+it may also contain global variables.
+(Our two example programs so far have contained one function apiece, 
+and no global variables.)
+At the top of a source file are typically a few boilerplate 
+lines such as <TT>#include &lt;stdio.h&gt;</TT>,
+followed by the definitions (i.e. code) for the functions.
+(It's also possible to split up the several functions making up 
+a larger program into several source files, as we'll see in a 
+later chapter.)
+</p><p>Each function is further composed of <dfn>declarations</dfn> 
+and <dfn>statements</dfn>, in that order.
+When a sequence of statements should act as one
+(for example,
+when they should all serve together as the body of a loop)
+they can be enclosed in braces
+(just as for the outer body of the entire function).
+
+The simplest kind of statement is an <dfn>expression statement</dfn>, 
+which is an expression
+(presumably performing some useful operation)
+followed
+
+by a semicolon.
+Expressions are further composed of <dfn>operators</dfn>, <dfn>objects</dfn> 
+(variables), and <dfn>constants</dfn>.
+</p><p>C source code consists of several <dfn>lexical elements</dfn>.
+Some are words, such as <TT>for</TT>, <TT>return</TT>, 
+<TT>main</TT>, and <TT>i</TT>, which are either 
+<dfn>keywords</dfn> of the language (<TT>for</TT>, <TT>return</TT>)
+or <dfn>identifiers</dfn> (names) we've chosen for our own 
+functions and variables (<TT>main</TT>, <TT>i</TT>).
+There are <dfn>constants</dfn> such as <TT>1</TT> and
+<TT>10</TT> which introduce new values into the program.
+There are <dfn>operators</dfn> such as <TT>=</TT>, 
+<TT>+</TT>, and <TT>&gt;</TT>, which manipulate variables 
+and values.
+There are other punctuation characters
+(often called <dfn>delimiters</dfn>),
+such as parentheses and squiggly braces <TT>{}</TT>,
+which indicate how the other elements of the program are grouped.
+Finally, all of the preceding elements can be separated by
+<dfn>whitespace</dfn>: spaces, tabs, and the ``carriage 
+returns'' between lines.
+</p><p>The source code for a C program is, for the most part,
+``free form.''
+This means that the compiler does not care how the code is arranged:
+how it is broken into lines, how the lines are indented,
+or
+whether
+whitespace is
+used between things like variable names and other punctuation.
+(Lines like <TT>#include &lt;stdio.h&gt;</TT>
+are an exception;
+they must appear alone on their own lines, generally unbroken.
+Only lines beginning with <TT>#</TT> are affected by this rule;
+
+we'll see other examples later.)
+You can use whitespace, indentation, and appropriate line breaks
+to make your programs more readable for yourself and other people
+(even though the compiler doesn't care).
+You can place explanatory <dfn>comments</dfn> anywhere in your
+program--any text between the characters <TT>/*</TT> and
+<TT>*/</TT> is ignored by the compiler.
+(In fact, the compiler pretends that all it saw was whitespace.)
+Though comments are ignored by the compiler,
+well-chosen comments can make a program <em>much</em> easier to read
+(for its author, as well as for others).
+</p><p>The usage of whitespace is our first <dfn>style</dfn> issue.
+It's typical to leave a blank line between different parts of 
+the program, to leave a space on either side of operators such 
+as <TT>+</TT> and <TT>=</TT>, and to <dfn>indent</dfn> the bodies of 
+loops and other control flow constructs.
+Typically, we arrange the indentation so that
+the subsidiary statements controlled by a loop statement
+(the ``loop body,'' such as the <TT>printf</TT> call 
+in our second example program) are all aligned with each other and 
+placed one tab stop (or some consistent number of spaces) to 
+the right of the controlling statement.
+This indentation (like all whitespace) is not required by the 
+compiler,
+but it makes programs <em>much</em> easier to read.
+(However, it can also be misleading, if used incorrectly or in 
+the face of inadvertent mistakes.  The compiler will decide 
+what ``the body of the loop'' is based on its own 
+rules, not the indentation, so if the indentation does not 
+match the compiler's interpretation, confusion is inevitable.)
+</p><p>To drive home the point that the compiler doesn't care about 
+indentation, line breaks, or other whitespace, here are a few 
+(extreme) examples:
+The fragments
+<pre>
+for(i = 0; i &lt; 10; i = i + 1)
+	printf("%d\n", i);
+</pre>
+and
+<pre>
+for(i = 0; i &lt; 10; i = i + 1) printf("%d\n", i);
+</pre>
+and
+<pre>
+for(i=0;i&lt;10;i=i+1)printf("%d\n",i);
+</pre>
+and
+<pre>
+	for(i = 0; i &lt; 10; i = i + 1)
+printf("%d\n", i);
+</pre>
+and
+<pre>
+for	(	i
+=	0	;
+i	&lt;	10
+;	i	=
+i	+	1
+)	printf	(
+"%d\n"	,	i
+)	;
+</pre>
+and
+<pre>
+    for
+   (i=0;
+  i&lt;10;i=
+ i+1)printf
+("%d\n", i);
+</pre>
+are all treated exactly the same way by the compiler.
+</p><p>Some programmers argue forever over
+the best set of 
+``rules''
+for indentation and other aspects of 
+programming style,
+calling to mind the old philosopher's debates about the number 
+of angels that could dance on the head of a pin.
+Style issues
+(such as how a program is laid out)
+<em>are</em> important,
+but they're not something to be too dogmatic about,
+and there are
+also
+other, deeper style issues besides mere layout 
+and typography.
+Kernighan and Ritchie take a fairly moderate stance:
+<blockquote>Although
+C compilers do not care about how a program looks,
+proper indentation and spacing are critical
+in making programs easy
+for people to read.
+We recommend writing only one statement per line,
+and using blanks around operators to clarify grouping.
+The position of braces is less important,
+although people hold passionate beliefs.
+We have chosen one of several popular styles.
+Pick a style that suits you,
+then use it consistently.
+</blockquote></p><p>There is some value in having a reasonably standard style
+(or a few standard styles)
+for code layout.
+Please don't take the above advice to
+``pick a style that suits you''
+as an invitation to invent your own brand-new style.
+If
+(perhaps after you've been programming in C for a while)
+you have specific objections to specific facets of existing styles,
+you're welcome to modify them,
+but if you don't have any particular leanings,
+you're probably best off copying an existing style at first.
+
+(If you want to place your own stamp of originality
+on the programs that you write,
+there are better avenues for your creativity than inventing a bizarre layout;
+you might instead try to make the logic easier to follow,
+or the user interface easier to use,
+or the code freer of bugs.)
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx1b.html" rev=precedes>prev</a>
+<a href="sx2.html" rel=precedes>next</a>
+<a href="sx1.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995-1997
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

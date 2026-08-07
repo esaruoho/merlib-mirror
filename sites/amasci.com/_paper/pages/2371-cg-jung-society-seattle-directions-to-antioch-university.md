@@ -1,0 +1,33 @@
+---
+title: "C.G. Jung Society, Seattle: Directions to Antioch University"
+source_domain: amasci.com
+source_path: ~dcs/dirantioch.html
+order: 2371
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T05:55:56Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# C.G. Jung Society, Seattle: Directions to Antioch University
+
+*Source page: `~dcs/dirantioch.html`*
+
+### Directions to Antioch
+
+*2326 Sixth Ave., Seattle, WA*
+
+**From I-5**, take the Stewart Street exit off Interstate 5 to Sixth Avenue. Turn right on Sixth Avenue (one-way street) and continue about four blocks. Antioch is on your right between Battery and Bell streets.
+
+**From Aurora/Highway 99**, take the Denny Way exit (next after the Broad Street exit). Cross Denny Way. This will put you on Wall Street. Get in the left lane. Turn left on Fifth Avenue. Go one block to Battery Street and turn left on Battery Street. Go one block. Antioch is on your right, on Sixth Avenue between Battery and Bell streets.
+
+For a map, more driving directions, and parking information, see the [campus Web site](http://www.antiochsea.edu/contact/directions.html).
+
+------------------------------------------------------------------------
+
+[C.G. Jung Society, Seattle home page](index1.html)
+
+Updated: 9 September 2005\
+\
+<webmaster@jungseattle.org>

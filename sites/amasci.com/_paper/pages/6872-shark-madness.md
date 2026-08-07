@@ -1,0 +1,54 @@
+---
+title: "Shark Madness!"
+source_domain: amasci.com
+source_path: ~rkj/shark.html
+order: 6872
+reachable_from_entry: false
+images: 6
+internal_links: 1
+extracted: 2026-08-07T05:59:40Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Shark Madness!
+
+*Source page: `~rkj/shark.html`*
+
+# Ryan's Shark Page
+
+#### A true story about some Archie McPhee rubber sharks\
+and what happened to them at one of my jobs.
+
+------------------------------------------------------------------------
+
+<img src="fish.jpg" data-align="left" data-hspace="0" data-img="" width="208" height="148" /> In 1990 I was working at Quality Press in Fremont, Seattle (nearby [Archie McPhee's](http://www.mcphee.com/)) in the typesetting department where the equipment was affectionately known as "Sharky's Machine" because it was always eating paper. In honor of this, the offical mascot of the machine became an official Archie McPhee rubber shark.
+
+It wasn't enough for the rubber shark to sit idly on the machine. It started finding its way into the women's restroom, inside equipment, and even took a few rides home as an unexpected hitchhiker in employee's cars. In June 1990 I changed jobs to Garrett Press thinking I had bid farewell to the sharks (whose number had now grown to three) forever.
+
+A few months later one of the sharks appeared without warning on my desk at Garrett Press. Who knew? It turned out the typesetter in our shop knew the women at Quality Press and had been put up to laying a shark on me. This shark was quickly joined by another one found in an employee's garage.
+
+That fall I began taking classes during the day, thus guaranteeing I would be out of the office for several hours each day. The other employees saw this as the perfect opportunity to heap mounds of abuse upon my sharks by dressing them up in all sorts of costumes and tableauxs.
+
+<img src="glider1.jpg" data-align="right" data-hspace="0" data-img="" width="208" height="150" /> One can only imagine how much company time was wasted doing each of these scenes each day while I was off at school. In the afternoons I would return back from classes to see what was perpetrated on sharks that day.
+
+The first scene done was the shark handgliding. This was suspended from the ceiling over my desk. All the pieces were hand made by the other employees.
+
+The second scene was a bit simpler (*at top of page*), consisting of a view looking up at a boat supposedly "fishing" on the surface with all the fish swimming around underneath.
+
+<img src="ocean1.jpg" data-align="left" data-hspace="0" data-img="" width="208" height="149" /> **The sharks go Hawaiian!** The setting for the next scene was a tropical island (a hand-made backdrop) with the sharks on holiday complete with surfboards, grass skirts, and ukuleles. This scene managed to stay up for quite a while, and soon my work station became quite a tourist attraction to visitors around the office.
+
+A few weeks later I arrived at work after school as usual and knew immediately something was up. <img src="space2.jpg" data-align="right" data-hspace="0" data-img="" width="208" height="147" /> I went to my desk only to discover no sharks! I started looking around and found them in another part of the room. This time we had **Sharks in Space.** Their "spacesuits" were made of aluminum foil and they even had little water tanks so they could breath in space.
+
+<img src="xmas2.jpg" data-align="left" data-hspace="0" data-img="" width="208" height="148" /> By the end of the year, the sharks developed a holiday theme, seen here with **Santa Shark** and his happy little Reindeer Shark.
+
+Today, the sharks are still at Garrett Press, though they have retired from active duty as *objets d'art*. Their life and times live on in pictures and this website. Long live the sharks!
+
+------------------------------------------------------------------------
+
+[<img src="ryan1.jpg" width="40" height="48" />Back to Ryan's Homepage](index.html)\
+
+------------------------------------------------------------------------
+
+Written and maintained by [Ryan K. Johnson](mailto:rkj@eskimo.com)\
+Version 1.3\
+January 3, 1996\

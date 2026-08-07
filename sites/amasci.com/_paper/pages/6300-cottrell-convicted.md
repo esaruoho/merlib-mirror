@@ -1,0 +1,80 @@
+---
+title: "Cottrell convicted"
+source_domain: amasci.com
+source_path: ~rarnold/cottrell_convicted.htm
+order: 6300
+reachable_from_entry: false
+images: 4
+internal_links: 9
+extracted: 2026-08-07T05:59:06Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Cottrell convicted
+
+*Source page: `~rarnold/cottrell_convicted.htm`*
+
+<table id="AutoNumber1" style="BORDER-COLLAPSE: collapse" data-bordercolor="#ffffff" height="50" data-cellspacing="1" data-bordercolordark="#ffffff" width="100%" data-bgcolor="#336699" data-bordercolorlight="#ffffff" data-border="1">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bordercolorlight="#336699" width="100%" data-bgcolor="#336699" data-bordercolordark="#336699"><p><strong><img src="cottrell.jpg" data-border="1" data-align="left" width="100" height="126" />Center for the Defense of Free Enterprise</strong></p>
+<p> </p>
+<p><strong>William Cottrell convicted in SUV arsons</strong></p></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><p><strong><a href="index.html" style="text-decoration: none">HOME</a>    <a href="issues.htm" style="text-decoration: none">ISSUES</a>    <a href="opposition.htm" style="text-decoration: none">OPPOSITION</a>    <a href="projects.htm" style="text-decoration: none">PROJECTS</a>    <a href="defenders.htm" style="text-decoration: none">DEFENDERS</a>    <a href="wiseuse.htm" style="text-decoration: none">WISE USE</a>    <a href="book_store.htm" style="text-decoration: none">BOOKSTORE</a>    <a href="archive.htm" style="text-decoration: none">ARCHIVE</a></strong></p></td>
+</tr>
+</tbody>
+</table>
+
+<span class="article-body"> **Ecoterrorism case decided swiftly**</span>
+
+LOS ANGELES -- William Jensen Cottrell, a California Institute of Technology graduate student, was convicted November 19, 2004 of firebombing sports utility vehicles at a Hummer dealership last year to protest the American auto industrys contribution to environmental pollution.
+
+After deliberating less than a day, a federal court jury found Cottrell, a 24-year-old doctoral candidate in physics, guilty of seven counts of arson and one count of conspiracy.
+
+Cottrell, who testified that SUV dealers were "evil," faces at least five years in prison when he is sentenced in March.
+
+But he was spared an additional 30 years behind bars, mandatory under federal law, when the jury acquitted him of the most serious charge, using a destructive device during a crime of violence.
+
+Two other suspects in the Aug. 22, 2003, string of arsons and vandalism are fugitives. Tyler Johnson, a Caltech graduate, and his girlfriend, Michie Oe, have been named as unindicted co-conspirators. They are believed to have fled the country.
+
+"The U.S. Attorneys office is pleased that justice has been served," Beverly Reid OConnell, the lead prosecutor, said after Fridays verdict. The hunt for the other two suspects is continuing, she said.
+
+Cottrell, Johnson and Oe are blamed for causing nearly \$5 million in property damage during a nighttime escapade in which about 125 vehicles and a building were damaged or destroyed at four auto dealerships in L.A.s San Gabriel Valley.
+
+The case attracted wide attention after the Earth Liberation Front, a loose association of militant environmentalists, claimed responsibility.
+
+Prosecutors offered no evidence during eight days of trial that Cottrell was connected to the ELF, although his lawyer suggested that Johnson and Oe were tied to the group.
+
+The defense contended that Johnson and Oe duped Cottrell into joining them on what was supposed to be a foray to spray paint environmental protest slogans on gas guzzling SUVs.
+
+Defense attorneys Michael Mayock and Marvin Rudnick had intended to call a psychologist to testify that Cottrell suffers from Aspergers syndrome, a form of autism marked by impaired ability to understand social situations.
+
+U.S. District Judge R. Gary Klausner ruled such testimony irrelevant and barred the defense from raising the issue before the jury.
+
+Mayock said he plans to ask for a new trial based on the contention that Cottrell was unable to adequately explain his behavior because of the judges refusal to allow evidence of Aspergers disorder.
+
+<img src="2424853_320X240.jpg" data-border="1" data-align="left" width="133" height="100" />Testifying in his own defense, the boyish looking Cottrell said he was surprised and upset when Johnson shattered the side window of an SUV parked on a residential street and hurled a Molotov cocktail inside, setting the vehicle ablaze.
+
+As they left the scene, Cottrell said, he argued with Johnson about the firebombing. His friend promised not to do it again, he said. But as he was painting slogans on Hummers at a dealership, Cottrell said, Johnson resumed firebombing vehicles.\
+\
+<img src="2424816_320X240.jpg" data-border="1" data-align="left" width="133" height="100" />Cottrell said he was "mad" and left the lot immediately after Johnson threw the first of at least seven Molotov cocktails into SUVs. About 15 vehicles and a parts building were set ablaze as the fire spread.
+
+Federal prosecutors accused Cottrell of trying to "write himself out of the script" by placing all of the blame on Johnson and Oe. They said he was actively involved in planning and carrying out the arsons.\
+ 
+
+<img src="2424776_320X240.jpg" data-border="1" data-align="left" width="133" height="100" />Among the 42 witnesses called by the government were three fellow Caltech graduate students who testified about Cottrells behavior and comments after the arson attacks.
+
+One friend, Daniel Feldman, said Cottrell told him he was concerned about possibly having been caught on videotape as he helped Johnson and Oe fill bottles with gasoline at a service station. Cottrell denied saying that.
+
+Claire Jacobs, another Caltech friend and confidante, said that Cottrell asked her to provide an alibi for him on the morning after the arsons. She also disclosed that he later offered to marry her so she would not have to testify against him.
+
+None of Cottrells friends testified that he had admitted taking part in the actual arsons.
+
+**<a href="ecoterror.htm" style="text-decoration: none">RETURN TO ECOTERRORISM TOP PAGE</a>**
+
+<span lang="en-us"> **<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**</span>

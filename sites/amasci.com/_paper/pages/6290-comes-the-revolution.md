@@ -1,0 +1,63 @@
+---
+title: "Comes the Revolution"
+source_domain: amasci.com
+source_path: ~rarnold/comes_the_revolution.htm
+order: 6290
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T05:59:06Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Comes the Revolution
+
+*Source page: `~rarnold/comes_the_revolution.htm`*
+
+**The Center View: Comes the Revolution\
+"Revolutionary Cells" bombing at Chiron Corp. racheting revolutionary rhetoric\
+Craig Rosebraugh's revolutionary oratory reverberates as domestic terrorist movement shifts gears**
+
+**September 4, 2003**
+
+**The FBI has opened a domestic terrorism investigation of a group called "Revolutionary Cells" that claimed blame for the August 28, 2003 bombing of Chiron Corp. in Emeryville, California.**
+
+**We haven't seen that group's name before, but we've heard the rhetoric. And it's becoming the defining characteristic of ecoterrorism. Revolution. The violent overthrow of the United States government. And of technological society.**
+
+**Is it a serious threat to the survival of the United States? Probably not.**
+
+**Is it a serious threat to the survival of technological society? As a whole, no. To its victims, you bet. Serious enough to stop it with law enforcement tools before military tools become necessary.**
+
+**The "revolutionary" tag in "Revolutionary Cells" is another in a growing number of ecoterrorist references to revolution in their rhetoric. While the idea of ecoterrorism as an act of revolution has been floating around radical circles for some years, it was brought into sharp focus by former Earth Liberation Front spokesman Craig Rosebraugh, whose 2002 master's thesis was titled, "Rethinking Nonviolence: Arguing for the Legitimacy of Armed Struggle." Rosebraugh obtained his master's degree through the Institute for Social Ecology, affiliated with Vermont's Goddard College. Rosebraugh's message, "Terrorism can be OK, can be justified," is increasingly reflected in current headlines.**
+
+**In the past month, we've seen a \$50 million Earth Liberation Front arson of a San Diego apartment complex under construction, a \$1 million ELF arson of a Los Angeles-area Hummer dealership, attacks against chefs who serve *pate de foie gras* (fattened goose or duck liver), the animal rights bombing of Chiron Corp, and vandalizing of SUVs in Houston.**
+
+**A few examples among many of revolution entering the ecoterrorist universe of discourse:**
+
+**California State University at Fresno hosted an event February 13-14, 2003 dedicated to the topic of Revolutionary Environmentalism A Dialogue between Activists and Academics. It included a list of speakers that read like a Whos Who of the environmental and animal-rights criminal culture.**
+
+**Convicted felon Craig Marshall (aka "Critter") gave a prison interview to *Outside* magazine contributing editor Bruce Barcott in April, 2003 to discuss "the revolution necessary to save a doomed planet." Barcott wrote of Marshall, "He describes the radical environmental circles in which he traveled as a tight-lipped culture that recognizes arson as a legitimate act of political protest. 'It takes all the tools in the toolbox to dismantle the master's machine,' he says. 'More passive people do tree-sits. More active people are comfortable risking their well-being. There's a line a lot of people are not willing to cross. I was willing to cross it.'"**
+
+**The line Marshall crossed involved firebombing Joe Romania Chevrolet dealership in Eugene, Oregon in 2000 "to punish carmakers and consumers for their love affair with the gas-hogging SUV." Marshall now dwells for a five and a half year term at taxpayer expense in a clean, well-lighted facility called Snake River Correctional Institution in the eastern Oregon desert. His co-conspirator Jeffrey Luers (aka "Free") got twenty-two and a half years in prison for the same crime plus the attempted arson of two gasoline tankers.**
+
+**Ecoterrorists in jail consider themselves to be political prisoners. That's a little hard to swallow considering we don't know what their preferred political system looks like. Do they want some kind of eco-socialism? State ownership of industry? The elimination of private property? Would they like an absolute eco-dictatorship where only the faithful get to vote? Or nobody gets to vote?**
+
+**We have not yet seen anything resembling a revolutionary program from the ecoterrorists, nothing that draws a picture of the future ideal society they might want.**
+
+**One reason may be that an ideal society, or any society at all, may not be in their plans. Rhetoric about dismantling the master's machine does not necessarily mean they have some better society in mind. Their goal may be *no* society. Total genocide could be lurking in the murk.**
+
+**We've heard reports of campfire chants among the eco-revolutionaries that endlessly repeat "Billions are living that should be dead." That could be mere youthful enthusiasm, but it might be more.**
+
+**Chatter about revolution is an American clich that shouldn't trouble us too much.**
+
+**Chatter about revolution accompanied by bombing and arson should trouble us a lot. Add to that chants about genocide, and you have a situation that deserves close scrutiny.**
+
+**Radicals are fond of recalling that Thomas Jefferson made a famous 1786 remark about "A little rebellion now and then is a good thing" but that was before he became President in 1801, after which he became much less tolerant. Things look different when you're responsible for making things work.**
+
+**The FBI is talking about radicals "racheting up" ecoterrorism. Maybe they're missing the point.**
+
+**It's the revolution, stupid.**
+
+**<a href="ecoterror.htm" style="text-decoration: none">RETURN TO ECOTERROR TOP PAGE</a>**
+
+**<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**

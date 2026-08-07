@@ -1,0 +1,120 @@
+---
+title: "Here is all the news you need to know"
+source_domain: amasci.com
+source_path: ~kyuss/fakenews.htm
+order: 4461
+reachable_from_entry: false
+images: 13
+internal_links: 6
+extracted: 2026-08-07T05:57:32Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Here is all the news you need to know
+
+*Source page: `~kyuss/fakenews.htm`*
+
+# Here's all the news you need to know, when you need to know it.
+
+\
+\
+[<img src="news.jpg" data-naturalsizeflag="3" data-align="BOTTOM" width="72" height="78" />](overkill.htm)
+
+[Last Weeks top stories](fake3.htm)
+
+[News from two weeks ago](fakenew2.htm)\
+[News from three weeks ago](fake1.htm)\
+
+ 
+
+**`TOP STORY:`**
+
+**[G'KAR](gkar.htm) Voted time man of the year, narrowly beats out Sheridan, Ivanova, Garibaldi and ICP.**
+
+Says [G'Kar](gkar.htm),"It is a great honor and I accept it with my humblest gratitudes." Both Lando Molari and Matt Perry claim that the contest was rigged and that they should have won. "I should have won, the contest was rigged, i demand a recount for all that is fair." -Lando Molari "Uh this sucks!" -Matt Perry. Also considered but non winning, K Miller, Chai Kao, NavBoot, Quest \<aol\> 2846, Tony "wrestling dude who added me to his listserv for no reason" Herbers, Tia Kutschia, Nicole Winn, [Mitzi Marie Emrich](http://www.wwu.edu/~n9643726/index.htm), Mark Acheson, ICP, Heathen, benilda de andrade, Hulk Hogan, George Muresan, Jerry Sinefeld, Kramer, and many others.
+
+<img src="gkarman.jpg" data-align="BOTTOM" data-naturalsizeflag="3" width="170" height="152" />
+
+**Chris Farley Resurrected in a bizarre vodoo ritual, People in Louisiana suspected**
+
+"Since I'm back from the dead, I'm going to eat every thing i can." Says a strangely emaciated Farley. It is rumored that Farley lost over 300 lbs.while dead. The ceremony to bring him back involved 2 gallons of strawberry yougart, 1 slaughtered lamb, 6 tubs filled with chili, 200 mexican peasants singing,***"eins, swei, drei, thats how we make the tacos."*** , and of course Chris Farleys disentombed corpse. Says fellow comic Adam Sandler,"Man this is Ragin', and speakin' of ragin', lets get this kegger going." Farley imediately proceeded to put the 300 lbs. back on.
+
+<img src="FARLEY.JPG" data-align="BOTTOM" data-naturalsizeflag="3" width="300" height="200" />
+
+ 
+
+**Dinosuars all die in a fiery storm of meteors**
+
+<img src="bush.jpg" data-align="BOTTOM" data-naturalsizeflag="3" width="550" height="365" />
+
+millions of years ago."Grarrararrarrarararararararraaaaaa." - T-Rex. "Arrarararargaraararaaggaarrarara." - Ceratopsionoid. "That story was lame and completely irrelavent. It might..... have.... been news... millions.... of years ago.....when I was a ......kid" - Walter Conkite. "Eat My Shorts." -Bart Simpson " I didn't end the reign of the dinosaurs, but i will be tireless in my search for the real killers." O.J. simpson.
+
+This photo was taken using a kodak camera, gold film, a telephoto lense, special goggles, a tripod, a bottle of sunscreen, special fingerless gloves, a profeesional photographer, and a TIME MACHINE. (editors note: the time machine was by far the toughest item of the bunch to obtain, seeing as how they haven't been invented yet.)
+
+ 
+
+ 
+
+# Microsoft today anounces another in a series of patches for the workaround for the version for fix for the correction for the bug for the lamerz for the update to [WIN95](nomacs.htm).
+
+"Ha Ha, screw you justice systeme and the American public." -Quothe Bill Gates
+
+<img src="crash.gif" data-naturalsizeflag="3" data-align="BOTTOM" width="300" height="81" />
+
+**In a Related Story:**
+
+**[Win 98](nomacs.htm) delayed again, BTW nobody cares**
+
+"Ha Ha, screw you justice systeme and the American public." -Quothe Bill Gates
+
+"I don't care."- ICP\
+
+<img src="crash.gif" data-naturalsizeflag="3" data-align="BOTTOM" width="300" height="81" />
+
+**\
+[13](13.htm) once again voted top number, just sqeaks by the numbers [42](42.htm) and [1066](1066.htm) in a really close race.**
+
+ 
+
+ 
+
+\
+[<img src="c3ding1.gif" data-naturalsizeflag="3" data-align="BOTTOM" width="29" height="47" />](13.htm)
+
+**And here's one from the I caught a fish this big, but I'm still a dork dept.**
+
+Senator Sheckles Kennedy of Massechuessetts today caught this rather sizable catfish. But he's still a dork. The camera doesn't lie. Say's Sheckle,"I farted on my hook and the smell attracted this monterific catfish. I am not a dork." Say's Mattew Perry in Voldavlostak Russia,"He's a dork." Say's Saq,"He's a dork, but he used to work for the postal service before he became a senator, so i wouldn't mess with him." Say's Kennedy of MTV,"Thank god I'm not related to that dork." You'd think being a senator and being related to the prestigious Kennedy family would have some cache but it doesn't. Rumor has it fellow dork Bill Gates bought the election for him.
+
+<img src="dorkfish.jpg" data-align="BOTTOM" data-naturalsizeflag="3" width="609" height="408" />
+
+# Henson down yet again!
+
+sys admin baffled!?! Says Habib,"I am without figuring out on the subject." Says Matt Perry,"I don't really give a shit, since I graduated and I already have my own crappy provider." He continues,"Why are you asking me, are you threatning me, are you afraid of my bungjolio, i am the great cornholio, i need tp for my bunghole, did you bring me tp." at this point the news crew takes away his sugar and subdues him.
+
+\
+
+ 
+
+<img src="mtvnews.gif" data-naturalsizeflag="3" data-align="BOTTOM" width="35" height="30" />
+
+**In a related story:**
+
+# MTV signs Shaq and Matt Perry of friends to do a talk show about sex a la roadrules/rodmanrules/a-team.
+
+The premise of the show is the 2 of them driving around in a tricked out 82 Van painted black with red stripes with 6 strangers driving around talking about sex, having adventures, and of course solving fictional crimes. Says a surprised shaq,"I know I got skillz."flashing a million dollar grin. Matt Perry could not be reached for comment.
+
+<img src="so1.gif" data-naturalsizeflag="3" data-align="BOTTOM" width="96" height="98" />
+
+<a href="http://leader.linkexchange.com/27/X123417/clickle" target="_top"></a>
+
+<img src="http://leader.linkexchange.com/27/X123417/showle?" data-border="0" ismap="" width="468" height="60" />\
+<a href="http://leader.linkexchange.com/27/X123417/clicklogo" target="_top"><img src="http://leader.linkexchange.com/27/X123417/showlogo?" data-border="0" ismap="" width="468" height="16" alt="LinkExchange Network" /></a>\
+
+This page Copyright 1999
+
+[Check out the enhanced stats, added as of 01-27-98](http://www.fxweb.holowww.com/v2-openstat.cgi?userid=F75441&password2=public)\
+<img src="http://cgi1.fxweb.com/v2-trackrun.cgi?userid=F75441" width="88" height="31" />
+
+[Back to my Homepage](eric.htm)
+
+[send me email](mailto:kyuss@eskimo.com)

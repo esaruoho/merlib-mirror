@@ -1,0 +1,35 @@
+Question 1.34 
+
+ Question 1.34 
+ I finally figured out the syntax for declaring pointers to
+functions, but now how do I initialize one?
+
+ Use something like
+ extern int func();
+int (*fp)() = func; 
+ When the name of a function appears in an expression
+like this,
+it ``decays'' into a pointer
+(that is,
+it has its address implicitly taken),
+much as an array name does.
+ An explicit
+declaration for the function is normally
+needed,
+since implicit external function declaration does not
+happen in this case
+(because the function name
+in the initialization
+is not
+part of a function call).
+ See also question 4.12 .
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

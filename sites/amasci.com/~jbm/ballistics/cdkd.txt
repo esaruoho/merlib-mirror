@@ -1,0 +1,168 @@
+JBM - Ballistics - Equations - CD and KD
+
+ [Ballistics] 
+ [Bibliography] 
+ [Downloads] 
+ [JBM] 
+ [Links] 
+ [MPM] 
+ [PM] 
+ [Personal] 
+ [Software] 
+
+ JBM - Ballistics - Equations - CD and KD
+
+ This page attempts to explain the uses of the various quantities that
+ I have used in ballistics calculations, such as KD, G functions, CD, etc.
+ The equations here deal mainly with the acceleration of a bullet when 
+ treated as a point mass. References and
+ a list of variables are at the bottom of this
+ page.
+
+ Drag Force and Acceleration
+
+ The force on the bullet due to drag, using K D , can be
+ given as:
+
+ F D = M a D = 
+ -i K D (m) p d 2 | v | v 
+
+ where K D is a function of mach number. In terms of 
+ K D , the G function can be written as
+
+ G(m) = K D (m) p 0 | v |
+
+ so that the drag force on the bullet may be written as
+
+ F D = M a D = 
+ -i p/p 0 G(m) d 2 v 
+
+ Defining the ballistic coefficient, C, as
+
+ C = M/(i d 2 ) = SD M /i
+
+ [M is the mass, and not the weight -- to convert to the standard 
+ sectional density, multiply by g, the acceleration due to gravity] 
+ we can rewrite the previous equation in terms of the bullet 
+ acceleration, G function and C
+
+ a D = -p/p 0 G(m)/C v 
+
+ To find a trajectory, we have to sum all forces (and therefore all
+ the accelerations) on the bullet and integrate the resulting equation. 
+ For point mass trajectories, the only other force we need to account 
+ for is due to gravity:
+
+ a = -p/p 0 G(m)/C v + g 
+
+ This expression can be integrated from the muzzle to the target
+ to obtain a three dimensional point mass trajectory.
+
+ K D and C D 
+
+ In terms of the newer ballistic nomenclature, C D , we may
+ rewrite K D as
+
+ C D = 8/pi K D 
+
+ so that the the equation for G is
+
+ G(m) = pi/8 C D (m) p 0 | v |
+
+ The acceleration of the bullet, due to drag, in terms of C D 
+ is
+
+ a D = 
+ -p pi/8 C D (m)/C | v | v 
+
+ NOTE: that in the preceding equation, the C D is that of the
+ "standard" bullet, for which K D was defined.
+
+ For the C D of the given bullet (as output in the Drag 
+ calculations, and McDrag program) 
+
+ a D = 
+ -p s C D (m)/(2 M) | v | v 
+
+ or plugging in for the cross sectional area (or reference area)
+
+ a D = 
+ -p pi d 2 C D (m)/(8 M) | v | v 
+
+ and finally with the sectional density
+
+ a D = 
+ -p pi/8 C D (m)/SD M | v | v 
+
+ Variables 
+
+ a 
+ total vector acceleration (d u /dt) 
+ a D 
+ vector acceleration due to drag 
+
+ C 
+ ballistic coefficient 
+ C D 
+ drag coefficient 
+
+ d 
+ bullet diameter 
+ F 
+ vector drag force 
+
+ g 
+ vector gravitational acceleration 
+ G 
+ "G" function 
+
+ i 
+ form factor 
+ K D 
+ drag coefficient 
+
+ m 
+ mach number 
+ M 
+ bullet mass 
+
+ p 
+ atmospheric density 
+ p 0 
+ sea level atmospheric density 
+
+ pi 
+ 3.14159... 
+ SD M 
+ sectional density (with mass) 
+
+ s 
+ cross sectional area (pi d 2 /4) 
+ v 
+ vector velocity, | v | = ( v v ) 1/2 
+ and v = u - w 
+
+ w 
+ vector wind velocity 
+ u 
+ velocity of bullet relative to ground 
+
+ References 
+
+ The Effect of Wind on Flat-Fire Trajectories ,
+ Robert L. McCoy, BRL Report Number 1900, Ballistic Research
+ Laboratories, Aberdeen Proving Ground, Maryland, August 1976, [ADB012872]
+
+ Exterior Ballistics ,
+ McShane, Kelley and Reno, Univeristy of Denver Press, 1953.
+
+ Exterior Ballistics of Small Arms Projectiles ,
+ E. D. Lowry, Research Dept., Winchester-Western Division, Olin 
+ Mathieson Chemical Corporation, May 4, 1965.
+
+ Sierra Rifle Reloading Manual ,
+ 4th Edition, Sierra Bullets, L.P., 1995.
+
+ Last update 13 July 2004, Copyright &copy; 1996-2004
+ JBM 
+ [V]

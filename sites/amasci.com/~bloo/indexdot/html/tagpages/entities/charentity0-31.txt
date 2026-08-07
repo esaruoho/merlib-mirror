@@ -1,0 +1,75 @@
+ISO 8859-1 character set: 0-31 
+
+ The ISO 8859-1 Character Set: 
+ 0-31 
+ Character Ranges 
+
+ 0-31 
+ 32-64 
+ 65-96 
+ 97-126 
+ 127-159 
+ 160-191 
+ 192-223 
+ 224-255 
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ = Index DOT Html 
+ by Brian Wilson 
+ = 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 
+
+ Main Index |
+ Element Tree |
+ Element Index |
+ HTML Support History 
+
+ Character 
+ &#160;&#160; 
+ Numbered Entity 
+ &#160;&#160; 
+ Named Entity 
+
+ ISO 8859-1 Position 
+ Description 
+
+ Entity Number 
+ HTML Result 
+ Standards/Browser Support 
+
+ Entity Name 
+ HTML Result 
+ Standards/Browser Support 
+
+ 00-08 
+ Unused 
+ NA NA NA NA NA NA 
+
+ 09 
+ Horizontal Tab 
+ &#09; '&#09;' * 
+ NA NA NA 
+
+ 10 
+ Line Feed 
+ &#10; '&#10;' * 
+ NA NA NA 
+
+ 11-12 
+ Unused 
+ NA NA NA 
+ NA NA NA 
+
+ 13 
+ Carriage Return 
+ &#13; '&#13;' * 
+ NA NA NA 
+
+ 14-31 
+ Unused 
+ NA NA NA 
+ NA NA NA 
+
+ * Note: These are all treated as spaces in HTML.
+
+ Boring Copyright Stuff...

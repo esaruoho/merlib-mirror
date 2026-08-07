@@ -1,0 +1,49 @@
+Chapter 3: Statements and Control Flow 
+
+ Chapter 3: Statements and Control Flow 
+
+ Statements are the ``steps'' of a program.
+Most statements compute and assign values
+or call functions,
+but we will eventually meet several other kinds of statements as well.
+By default,
+statements are executed in sequence,
+one after another.
+We can, however, modify that sequence by using
+ control flow constructs 
+which
+arrange that a statement or group of statements
+is executed only if some condition is true or false,
+or executed over and over again to form a loop .
+(A somewhat different kind of control flow happens when we call a function:
+execution of the caller is suspended while the called function proceeds.
+We'll discuss functions in
+
+chapter 5.)
+ My definitions of the terms statement and
+ control flow are somewhat circular.
+A statement is an element within a program which you can apply
+control flow to;
+control flow is how you specify the order in which the
+statements in your program are executed.
+(A weaker definition of a statement might be
+``a part of your program that does something,''
+but this definition could as easily be applied to
+expressions
+or functions.)
+ 3.1 Expression Statements 
+ 3.2 if Statements 
+ 3.3 Boolean Expressions 
+ 3.4 while Loops 
+ 3.5 for Loops 
+ 3.6 break and continue 
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995, 1996
+// mail feedback

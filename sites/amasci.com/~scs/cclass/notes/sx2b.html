@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995-7 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>2.2 Constants</title>
+<link href="sx2a.html" rev=precedes>
+<link href="sx2c.html" rel=precedes>
+<link href="sx2.html" rev=subdocument>
+</head>
+<body>
+<H2>2.2 Constants</H2>
+
+<p>[This section corresponds to K&amp;R Sec. 2.3]
+</p><p></p><p>A <dfn>constant</dfn> is just an immediate, absolute value
+found in an expression.
+The simplest constants are decimal integers,
+e.g. <TT>0</TT>, <TT>1</TT>, <TT>2</TT>, <TT>123</TT>
+.
+Occasionally it is useful to specify constants in base 8 or base 16
+(octal or hexadecimal);
+this is done by prefixing an extra <TT>0</TT> (zero) for octal,
+or <TT>0x</TT> for hexadecimal:
+the constants <TT>100</TT>, <TT>0144</TT>, and <TT>0x64</TT>
+all represent the same number.
+(If you're not using these non-decimal constants,
+just remember not to use any leading zeroes.
+If you accidentally write <TT>0123</TT>
+intending to get one hundred and twenty three,
+you'll get 83 instead, which is
+123 base 8.)
+</p><p>We write constants in decimal, octal, or hexadecimal
+for our convenience,
+not the compiler's.
+The compiler doesn't care;
+it always converts everything into binary internally, anyway.
+(There is, however,
+no good way to specify constants in source code in binary.)
+</p><p>A constant can be forced to be of type <TT>long int</TT>
+by suffixing it with the letter <TT>L</TT>
+(in upper or lower case, although upper case is strongly 
+recommended, because a lower case <TT>l</TT> looks too much like 
+the digit <TT>1</TT>).
+</p><p>A constant that contains a decimal point or the letter
+<TT>e</TT> (or both) is a floating-point constant:
+<TT>3.14</TT>, <TT>10.</TT>, <TT>.01</TT>,
+<TT>123e4</TT>, <TT>123.456e7</TT>
+.
+The <TT>e</TT> indicates multiplication by a power of 10;
+<TT>123.456e7</TT>
+is
+123.456
+times 10 to the 7th,
+or
+1,234,560,000.
+(Floating-point constants are of type <TT>double</TT> by default.)
+</p><p>We also have constants for specifying characters and strings.
+(Make sure you understand the difference between a character
+and a string:
+a character is exactly one character;
+a string is a set of zero or more characters;
+a string containing one character is distinct from a lone character.)
+A character constant is simply a single character between
+single quotes: <TT>'A'</TT>, <TT>'.'</TT>, <TT>'%'</TT>.
+The numeric value of a character constant is,
+naturally enough,
+that character's value in the machine's character set.
+(In ASCII, for example, <TT>'A'</TT> has the value 65.)
+</p><p>A <dfn>string</dfn> is represented in C as a
+sequence or
+array of characters.
+(We'll have more to say about arrays in general,
+and strings in particular, later.)
+A string constant is a sequence of zero or more characters
+enclosed in double quotes:
+<TT>"apple"</TT>,
+<TT>"hello, world"</TT>,
+<TT>"this is a test"</TT>.
+</p><p>Within character and string constants,
+the backslash character <TT>\</TT> is special,
+and is used to represent characters
+not easily typed on the keyboard
+or for various reasons not easily typed in constants.
+The most common of these ``character escapes'' are:
+<br>
+<br>
+<pre>
+	<TT>\n</TT>	a ``newline'' character
+	<TT>\b</TT>	a backspace
+	<TT>\r</TT>	a carriage return (without a line feed)
+	<TT>\'</TT>	a single quote (e.g. in a character constant)
+	<TT>\"</TT>	a double quote (e.g. in a string constant)
+	<TT>\\</TT>	a single backslash
+</pre>
+</p><p>For example,
+<TT>"he said \"hi\""</TT> is a string constant
+which contains two double quotes,
+and
+<TT>'\''</TT> is a character constant consisting of a
+(single)
+single quote.
+Notice once again that the character constant <TT>'A'</TT>
+is very different from the string constant <TT>"A"</TT>.
+
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx2a.html" rev=precedes>prev</a>
+<a href="sx2c.html" rel=precedes>next</a>
+<a href="sx2.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995-1997
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

@@ -1,0 +1,8 @@
+OriginaltextBANNERframe.htm 
+
+ Filename: "OriginaltextBANNERframe.htm" 
+ Displayed in composite window called from: 
+ 0_TOC_Frames_START_dobeTutAll.htm 
+ in: (id="BANNER_frame") 
+
+Dobe's Extended Frames Template

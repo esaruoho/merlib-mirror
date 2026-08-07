@@ -1,0 +1,1040 @@
+Pure Mac: Handhelds - Software for Macintosh 
+
+ Handhelds 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Blackberry 
+ iPod 
+ Mobile Phones 
+ Newton 
+ Palm 
+ PSP 
+ Windows CE 
+ Zaurus 
+
+ Missing Sync for Blackberry 
+ PocketMac for BlackBerry 
+
+ Floola 
+ HandBrake Lite 
+ iPDA 
+ iPodDisk 
+ iPod.iTunes 
+ iPod Notes 
+ iSquint 
+ iWorkout for iPod 
+ MoviesForMyPod 
+ PodWorks 
+ Senuti 
+ ViddyUp 
+ Video2Go 
+ YamiPod 
+ VisualHub 
+
+ BluePhoneElite 
+ GSM Remote 
+ OnSync 
+ PhoneAgent 
+ PhoneDirector 
+ SoonR 
+
+ Newton Connection 
+ NewTen 
+ NewtSync 
+
+ MAL Conduit 
+ Missing Sync for Palm OS 
+ Palm Desktop 
+ Palm Encoding Setup 
+ Sync Buddy 
+
+ Missing Sync for Sony PSP 
+ PDF2PSP 
+ iPSP 
+ PSPWare 
+
+ The Missing Sync for Windows Mobile 
+ PocketMac Pro 
+
+ AJZaurusUSB 
+ ZMacSync 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ AJZaurusUSB 0.5.3 
+
+This is an USB driver for MacOS X to connect handheld devices like the
+Sharp Zaurus, Yopy, iPAQ, Motorola Linux phones, OpenMoko to MacOS X as
+an IP device via the USB cable. This allows to use telnet, ssh, SMB etc.
+to access the Zaurus.
+
+ License : Freeware
+ Author/Publisher : DSITRI
+ Modification Date : August 10, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.0 MB
+
+ Home Page 
+
+ BluePhoneElite 2.0.5 
+
+BluePhoneElite extends the calling features of your cell phone to OS X
+with a simple yet powerful interface. Dial, answer, hang up and hold
+calls with the touch of a button. Both incoming and outgoing calls are
+saved to a call log that includes the time, date and duration of the
+call, the phone that was used, and whether the call was answered, missed
+or ignored. You can even add notes to a call and export it to Apple's
+Address Book or iCal.
+ Call Features
+ Dial and answer calls from your desktop
+ Log calls with time, duration, caller and notes
+ Display caller ID using your phone's phone book or Apple's Address Book
+ Pause iTunes and DVD Player or set iChat away message when a call is in progress
+ Customize a variety of visual and aural call notifications
+ Export calls to iCal, Address Book or external files
+ Trigger AppleScripts for different call events
+ SMS Features
+ Send and receive messages using email-style SMS Center or SMS Chat
+ Archive SMS to disk using hierarchical folders
+ Pop-up incoming SMS on-screen
+ Export SMS to iCal, Address Book or external files
+ Trigger AppleScripts for different SMS events
+ Other Features
+ Proximity detection controls iTunes, iChat, DVD Player and the screen saver
+ Display battery and signal strength, power source and network name in the menu bar
+ Power saving option disconnects phones when power is running low
+ Customizable interface options like dock visibility, menu bar visibility and font sizes
+
+ License : Shareware, $20
+ Author/Publisher : Mira Software
+ Modification Date : January 7, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 6.0 MB
+
+ Home Page 
+
+ Floola 2.4 
+
+Floola is a freeware application to efficiently manage your iPod or your
+Motorola mobile phone (any model supporting iTunes). It's a standalone
+application that can be run directly from your iPod and needs no
+installation under Linux, Mac OS X and Windows (Windows Vista is
+supported). Floola supports all most common used features including
+podcasts and smart playlists! Take a look at the feature list to find
+out what it can do and feel free to suggest anything that might be
+missing.
+
+ License : Freeware
+ Author/Publisher : Tomas Camin
+ Modification Date : January 2, 2008
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 11.7 MB
+
+ Home Page 
+
+ GSM Remote 1.6.2 
+
+What are the main features?
+ Read all available standard phonebooks
+ Sending long SMS via phone
+ Export & Backup all standard phonebooks
+ Editing of the SIM and mobile phonebook is a three click task.
+ Very powerful but easy to use import function
+ Drag & Drop contacts via vCard standard
+ Extensive use of Balloon help
+ Support for a wide range of different mobile phones
+
+ License : Shareware, $10
+ Author/Publisher : Alexander Traud
+ Modification Date : March 19, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 9.1 MB
+
+ Home Page 
+
+ Handbrake Lite 1.1 
+
+HandBrake Lite is a horribly-mangled abomination of HandBrake, jettisoning its non-crucial
+features with the one-track goal of creating iPod-sized movies from DVDs.
+
+Features:
+ You only really need to click two buttons to rip a DVD for iPod. It's as easy as that.
+ Less stuff to read, and fewer confusing words.
+ All videos are automatically resized to 320px wide. Widescreen movies have any black bars properly cropped before conversion.
+
+ License : Freeware
+ Author/Publisher : Tyler Lock
+ Modification Date : January 25, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 4.3 MB
+
+ Home Page 
+
+ iPDA 4.0.3 
+
+Who needs a PDA when you have an iPod? Transfer your PIM data to your iPod so it's
+available whenever you need it; iPDA supports transferring information from Entourage,
+Stickies, Mail, Address Book and iCal, and web based calendaring systems such as Google
+Calendar. You can transfer Word, PDF, Pages, RTF and text documents for quick access and
+reading on the go. You can even download RSS feeds, weather forecasts and news headlines
+directly to your iPod.
+
+ License : Shareware, $20
+ Author/Publisher : ZappTek
+ Modification Date : January 4, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.1
+
+ Home Page 
+
+ iPodDisk 1.3 
+
+In short, it's just another tool that enables you to copy your own music
+from your iPod.
+
+iPodDisk is designed to make it easy and intuitive to copy music off
+iPod; it enables you to do so within the Finder, or whatever application
+that can read files.
+
+ License : Freeware
+ Author/Publisher : Isaac Huang
+ Modification Date : February 17, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ iPod.iTunes 3.7.7 
+
+Unlike other iPod copy tools, iPod.iTunes provides real synchronization
+of MP3, AAC, Protected AAC and Audible tracks and even playlists from
+your iPod(s) to your Mac(s). iPod.iTunes saves your time because it
+automatically only copies those tracks which are missing in the iTunes
+library, excluding duplicates. If you wish, it provides also an option
+to show a list of tracks which are not in iTunes and to copy only
+desired tracks from that list.
+
+ License : Shareware, $40
+ Author/Publisher : crispSofties
+ Modification Date : January 12, 2008
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 804 Kb
+
+ Home Page 
+
+ iPod Notes 1.0.26 
+
+Did you know that you can store and read up to 1000 text notes with your iPod?
+iPod Notes is a freeware application for Mac OS X made to manage the notes of your iPod. iPod Notes let's you create and organize any note you want to have in your iPod. You can paste text in, drag text from other applications, drop it as a text file from the Finder or, of course, write it yourself with the keyboard of your Mac.
+
+We created this little freeware application to thank the Mac community for its ten years support.
+
+ License : Freeware
+ Author/Publisher : Apimac
+ Modification Date : November 28, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 5.3 MB
+
+ Home Page 
+
+ iPSP 3.1 
+
+Unlike some other tools, iPSP was built specifically for total PSP
+Mulitmedia Management from the ground up. When iPSP is running, if a PSP
+is plugged in* to your Mac, it automatically backs up your PSP Saved
+Game data into well organized Date Stamped folders in your Library
+folder. Using the Gamesaves Manager, you can browse, restore or delete
+saved games or transfer between PSPs.
+
+For music and photos, iPSP works with apps you already know, iTunes and
+iPhoto. iPSP reads your Music or Photo Library. Select any Album or
+playist you want and with 1 click, iPSP goes to work converting and
+transferring your media.
+
+iPSP will automatically copy your selections to your PSP converting and
+optimizing as needed on the fly. It requires no settings or interaction
+from you...it Just Works. Stop struggling with counter-intuitive
+"me-too" apps that either put you on training wheels or require a degree
+to get the job done...when you're done gaming, start enjoying your PSP a
+little bit more with iPSP.
+
+Video, unlike audio and photos can take a long time to proccess. With
+iPSP, you can put the video you'd like to view on your PSP into a
+conversion queue, specify all the options you'd like for each clip, and
+run them all. iPSP lets you know when they are ready to go!
+
+ License : Shareware, $20
+ Author/Publisher : Kai Softronics
+ Modification Date : October 25, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 16.7 MB
+
+ Home Page 
+
+ iSquint 1.5.1 
+
+iSquint is an iPod video conversion app for Mac OS X. 
+ It's many times faster than QuickTime Pro, works with almost all popular video formats, and it's infinitely free-er.
+ It's also really easy.
+ Just drag in your file, and click Start.
+ You can also choose "TV" or "iPod" size, set your quality, or even go all-out by playing in the Advanced drawer.
+ On a 1GHz G4, iSquint can convert most video files to iPod-screen-sized videos in realtime. 
+ Features:
+ - Fast MPEG-4 and H.264 conversion from almost every popular video format, from 3GP to XviD. 
+ - QuickTime Pro and DivX codec not required.
+ - DivX/XviD AVIs, all forms of MPEG video, and many other formats QuickTime chokes on are supported.
+ - Batch Processing of multiple files. Save in-place, or to a different folder.
+ - Automatic aspect ratio detection. Anamorphic MPEG-2 and HDV detected too.
+ - Quality slider. Leave it as is to trust me, mess with it if you know better, or completely ignore it and play with the...
+ - Advanced settings drawer. Change every aspect of the conversion process.
+ - Just a few of the supported formats: .mov .mp4 .avi .dv .mpg .vob .3gp .asf .wmv .flv .m4v
+
+ License : Freeware
+ Author/Publisher : Tyler Loch
+ Modification Date : December 12, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 5.3 MB
+
+ Home Page 
+
+ iWorkout for iPod 1.9.1 
+
+Do you want a personal trainer in your pocket? You've got it with iWorkout for iPod. We've
+added content from some of the best certified fitness experts in the industry to give you
+the ultimate fitness guide available for iPod. This new version of iWorkout takes full
+advantage of all of your iPod's capabilities.
+ Give yourself:
+ - 101 workout videos
+ - Trainer tips
+ - Illustrated fitness guides
+ - Nutrition & dieting essentials
+ - Exercise metronomes to time your reps
+ - Fitness charts
+ - Workout routines for every body region
+ - Many more features
+
+ License : Shareware, $20
+ Author/Publisher : Helmes Innovations
+ Modification Date : December 15, 2006
+ Requirements : Mac OS X 10.3 or higher and an iPod
+
+ Download 
+File Size: 75.6 MB
+
+ Home Page 
+
+ MAL Conduit 1.0.4 
+
+MAL Conduit is a Mac OS X conduit for AvantGo. It is freeware and open source.
+
+ License : Freeware
+ Author/Publisher : Thomas Brown
+ Modification Date : November 27, 2003
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.0 MB
+
+ Home Page 
+
+ Missing Sync for Blackberry 1.0.3 
+
+The Missing Sync for BlackBerry is built on the same technology that has garnered 4.5-mice
+ratings from Macworld magazine. It's built to be reliable, so that you can count on your
+information successfully making the round trip between your Mac and BlackBerry handset.
+
+ License : Updater, $40
+ Author/Publisher : Mark/Space, Inc.
+ Modification Date : October 25, 2007
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 15.3 MB
+
+ Home Page 
+
+ Missing Sync for Palm OS 6.0.2 
+
+With support for new Sync Services technology in Mac OS X 10.4 Tiger,
+Address Book and iCal data synchronization is greatly improved. Now
+calendar categories, multiple addresses, Birthdays, IM addresses and
+other fields are synchronized. There's synchronization for iTunes
+playlists and iPhoto albums, and photos taken with camera-enabled
+devices can be sent right to iPhoto. Mac/Palm sync has never been this
+good.
+
+ License : Update, $40
+ Author/Publisher : Mark/Space, Inc.
+ Modification Date : December 20 20, 2007
+ Requirements : Mac OS X 10.4.9 or higher including Mac OS X 10.5.x - Palm OS 4 or Palm OS 5
+
+ Download 
+File Size: 40.0 MB - 6.0.2 Updater
+
+ Home Page 
+
+ Missing Sync for Sony PSP 1.0.3 
+
+The Sony Playstation Portable may very well be the coolest mobile device in existence. It
+lets you play great games, watch full-screen video and sports one of the best mobile web
+browsers out there. That's nice and all, but it's capable of so much more! The Missing
+Sync for Sony PSP turns your PSP into a killer mobile media and information center by
+downloading web sites, bookmarks, videos, and important life information, such as your
+contacts, notes, tasks and calendar events, from your Mac. Easily. Automatically. With
+style. Read on to learn more.
+
+ License : Demo, $30
+ Author/Publisher : Mark/Space, Inc.
+ Modification Date : November 20, 2007
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 22.1 MB
+
+ Home Page 
+
+ Missing Sync for Windows Mobile 4.0.2 
+
+The Missing Sync for Windows Mobile provides Mac synchronization for
+Pocket PC and Smartphone devices from Dell, HP, i-Mate, Motorola,
+Orange, Samsung and others. The Missing Sync for Windows Mobile includes
+support for Mac OS X Tiger's Sync Services, Entourage synchronization
+and an all-new architecture that allows third-party developers to create
+plugins that add new capabilities.
+
+ License : Update, $40
+ Author/Publisher : Mark/Space, Inc.
+ Modification Date : December 13, 2007
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 38.4 MB
+
+ Home Page 
+
+ MoviesForMyPod 1.11 
+
+Convert QuickTime movies to mv4 or H264 with a 320x240 aspect ratio for
+iPod compatiblity.
+
+ License : Freeware
+ Author/Publisher : Digigami
+ Modification Date : August 31, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.9 MB
+
+ Home Page 
+
+ NewTen 1.5.1 
+
+NewTen provides Newton connectivity for Mac OS X. It allows you to
+install packages on a Newton MessagePad from a Mac OS X computer over a
+serial connection, without having to use any Classic applications.
+
+At this time, NewTen supports package installation only, not
+backup/restore, etc.. NewTen does not currently support ethernet or
+infrared connections.
+
+NewTen supports any USB serial adapter that installs a driver into Mac
+OS X's "/dev" directory, such as the KeySpan TwinSerial USA-28X. The
+built-in serial port on some Macs is also supported.
+
+ License : Freeware
+ Author/Publisher : Steven Frank
+ Modification Date : January 20, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 141 Kb
+
+ Home Page 
+
+ Newton Connection 1.1 build 27 
+
+Newton Connection allows you to backup your Newton data to your Mac desktop, import and
+export Dates, Names, Notes and NewtonWorks, install packages and use your Mac desktop
+keyboard to enter text on your Newton device. In fact, most of the functions provided by
+the Newton Connection Utilities, but without the need for the Classic environment.
+
+Newton Connection is a work in progress, and the version available here is incomplete. In
+particular, it does not sync yet!
+
+ License : Freeware
+ Author/Publisher : Newton Research
+ Modification Date : June 13, 2007
+ Requirements : Mac OS X 10.4 or higher - Does not work with Intel Macs
+
+ Download 
+File Size: 6.6 MB
+
+ Home Page 
+
+ NewtSync 0.3m 
+
+This application synchronizes data from your Newton with Mac OS X 10.2
+(Jaguar). Open API allows developers to write plug-ins to sync more
+applications.
+
+ License : Freeware
+ Author/Publisher : everchanging
+ Modification Date : October 26, 2003
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 2.5 MB
+
+ Home Page 
+
+ OnSync 1.17 
+
+A mobile phone's contacts synchronizer for MacOS X.
+ Helps you to sync your contacts between a mobile phone and MacOS X Address Book, Microsoft Entourage, Eudora, Now Contact and Palm Desktop.
+ Recognizes mobile phones connected to your Mac via: serial cable, usb (with the appropriate adapter),infrared and bluetooth.
+ Copies contacts copy by drag and drop.
+ Full undo / redo.
+ Configurable format of copied contacts.
+ Can delete contacts from the mobile phone.
+ Can relocate a number on your mobile
+ Supports mobile phones equipped with an internal GSM modem and some LG and Motorola phones, future version will support more kind of phones.
+ Works with Greek, Russian, Arabic and other character sets (with some limitations, give a look to the program help for details).
+
+ License : Shareware, $12
+ Author/Publisher : Antonio Ferraioli
+ Modification Date : August 31, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 4.8 MB
+
+ Home Page 
+
+ Palm Desktop 4.2.1rd 
+
+Palm Desktop is a Date Book, To Do List, Address Book, and more. It can
+be used as a stand-alone application, or to view, sort, find, edit, back
+up, and add applications to your Palm device. HotSync Manager is the
+software that controls synchronization between your Mac and your Palm
+device. More details below.
+
+ License : Freeware
+ Author/Publisher : Palm Computing
+ Modification Date : September 9, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 16.7 MB
+
+ Home Page 
+
+ Palm Encoding Setup 1.9.22 
+
+Do you write on the Mac and the Palm in your language and need your data
+to be transferred correctly? Does your Palm display "String is
+unprintable" instead of important information? Would you like to read
+text from your Mac on your Palm?
+
+With Palm Encoding Setup and Palm Doc Converter you will finally be able
+to correctly synchronize data with national characters between your Palm
+and Mac.
+
+ License : Shareware, $12
+ Author/Publisher : Loki Software
+ Modification Date : November 19, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 480 Kb
+
+ Home Page 
+
+ PDF 2 PSP 1.6 
+
+PDF 2 PSP is a simple tool for converting PDF documents and print outs
+into JPEG images suitable for displaying on the Sony PSP handheld game
+console. This allows you to download e-books, game manuals, album
+liners, etcetera to your PSP. Once they're on your PSP, you can read
+them anywhere - on the bus, at your desk, or on your couch.
+
+PDF 2 PSP works best when used with a PSP synchronization tool such as
+PSPWare but it can also be used as a stand-alone tool.
+
+ License : Freeware
+ Author/Publisher : Michael W. Heinz
+ Modification Date : August 5, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 128 Kb
+
+ Home Page 
+
+ PhoneAgent 1.4.3 
+
+For Apple Macintosh and Sony Ericsson Sony Ericsson T610, T616, T630, T637, Z600, K700i, K750i, K790i, K800i, W800i, W880ii
+ phonebook management (extended phonebook from the phone memory is supported - 5 numbers, 2 texts, email and a person's picture for T610 series - 5 numbers, 2 texts, email, web address, postal address and a note for K700 series) - editing, uploading, deleting, backup, export, import
+ SMS management - reading from the phone, sending, replying, forwarding, deleting, flash SMS)
+ creating MMS messages and uploading them to the phone
+ creating and editing own themes and uploading them to the phone
+ downloading pictures, sounds and themes from the phone
+ sending pictures, sounds, games, themes and other files directly to the phone
+ editing phone Wap bookmarks
+ writing notes and uploading them to the phone
+ Bluetooth connection
+
+ License : Shareware, $30
+ Author/Publisher : MacMedia
+ Modification Date : October 28, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 18.6 MB
+
+ Home Page 
+
+ PhoneDirector 1.2.5 
+
+For Apple Macintosh and Nokia 6230, 6230i, 6233, 6234, 7280, 7380, 8800
+ phonebook management (extended phonebook supported - 5 numbers and 5 texts) - editing, uploading, deleting, backup, export, import
+ SMS management - text and picture SMS (reading from the phone, sending, replying, forwarding, deleting, export, delivery reports, flash SMS)
+ downloading and uploading pictures, sounds and videos from/to the phone
+ adding, editing, export and import of calendar and To-Do events
+ editing phone Wap bookmarks
+ uploading Java applications to the phone
+ setting phone radio channels from the computer
+ writing notes and uploading them to the phone
+ Bluetooth connection
+
+ License : Shareware, $30
+ Author/Publisher : MacMedia
+ Modification Date : October 28, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 17.0 MB
+
+ Home Page 
+
+ PocketMac for BlackBerry 4.0.20 
+
+Now you can dependably and stably sync your BlackBerry handheld with
+your Mac. PocketMac For BlackBerry is the first program to allow Mac
+users to sync their crucial data between their BlackBerry and Entourage,
+Address Book, iCal, Now Contact, Now Up-To-Date, and even Stickies. And
+it's fully integrated with iSync as well!
+
+ License : Demo, $30
+ Author/Publisher : Information Appliance Associates
+ Modification Date : March 30, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 24.3 MB - 4.0.20 Updater - Licensed users only
+
+ Home Page 
+
+ PocketMac Pro 3.53 
+
+Synchronize...
+ Microsoft Entourage 
+ iCal Calendar/Tasks
+ Address Book Contacts
+ Mail.app email
+ Now Contact (requires Now Contact)
+ Microsoft Word/Excel
+ The simplicity and elegance you've come to love in the Mac can now
+be yours in a Pocket PC with the new PocketMac&reg; Pro 3.0 software. And,
+it can be yours for just 19% of the cost of most Pocket PCs. You can
+even use your Pocket PC with both a Mac and Windows PC (if you must).
+
+ License : Demo, $42
+ Author/Publisher : Information Appliance Associates
+ Modification Date : July 14, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 13.7 MB - 3.53 updater
+
+ Home Page 
+
+ PodWorks 2.9.2 
+
+PodWorks is a Mac OS X (Cocoa) application that compensates for the
+iPod's only downside: Apple only allows you to copy songs to your iPod.
+If you have two Macs and want to use your iPod to transfer music from
+one to the other, or you only store your MP3s on your iPod and need to
+copy them back onto your hard drive after a disk failure, you are out of
+luck! This is where PodWorks comes in: it allows you to copy songs from
+any Mac iPod to any Mac running OS X 10.2 or higher.
+
+ License : Shareware, $8
+ Author/Publisher : Buzz Andersen
+ Modification Date : September 4, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 440 Kb
+
+ Home Page 
+
+ PSPWare 2.5.2 
+
+PSPWare integrates your Sony PSP (PlayStation Portable) with your Mac,
+simply, effectively and non-intrusively!
+
+We're really quite modest, but we've got to say PSPWare is the best
+integration software for the PSP available on the market! Give it a try,
+we are certain that you will agree.
+
+Sync your music, movies and photos and back up your game saves with ease
+using PSPWare. You specify what you want synced and PSPWare takes care
+of the rest automatically, day-to-day, syncing optimally as you would
+expect, without taking up your precious time!
+
+ License : Shareware, $15
+ Author/Publisher : Nullriver Software
+ Modification Date : December 5, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 2.9 MB
+
+ Home Page 
+
+ Senuti 0.50 
+
+Senuti is a simple utility that makes transferring songs from an iPod to your computer quick and easy. Features include:
+ iTunesDB. What? That's right, iTunesDB. Senuti reads a hidden file on your iPod in order to get all of the information quickly and accurately.
+ Playlists. Want to see the playlists on your iPod, will that help you find the music you want to copy? Done.
+ Listen. What was that song I wanted to copy? I know how it goes, but I don't know the title. Great! Listen to your music on your iPod right from Senuti. When you find the song, copy it! Search. Senuti would be worthless if you couldn't find what you wanted to copy quickly, so searching is built in.
+ Organization. Senuti will organize your music as it gets copied back to your computer. That is only if you want it organized, of course.
+
+ License : Freeware
+ Author/Publisher : Whitney Young
+ Modification Date : October 19, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 4.3 MB 0.50
+
+ Download 
+File Size: 5.0 MB 0.50.2b1 - January 10, 2008 - if you get a .bz extension, remove it
+
+ Home Page 
+
+ SoonR 1.1.8 
+
+SoonR, the global leader in delivering mobile access to computer files
+and applications, announced the SoonR mobile AJAX-enabled interface
+supports accessing files and applications including mail on a Mac or PC
+from Apple's iPhone.
+
+SoonR allows you to access your Macintosh
+from your data-enabled mobile phone. You can view shared folders, use
+Spotlight search, and even use Skype from your mobile phone.
+
+SoonR basic accounts are free. Users can access photos, files, and
+documents and even share them with others.
+
+Upcoming premium services will give you:
+ * Guaranteed access even when the host computers are turned off!
+ * Encrypted backup of your critical data
+ * International calling for pennies a minute
+ Free accounts have limited SMS messaging.
+Service providers usually have an additional charge for
+SMS messages. Please check with your provider for details.
+ SoonR is currently in Beta but we will be introducing premium services in the near future.
+
+ License : Freeware (see above)
+ Author/Publisher : SoonR
+ Modification Date : July 19, 2007
+ Requirements : Mac OS X 10.4 or higher and a web-enabled mobile phone with data service
+
+ Download 
+File Size: 1.8 MB
+
+ Home Page 
+
+ Sync Buddy 2.1 
+
+Sync Buddy is a backup, install and photo management tool for Mac OS X
+users with Palm OS handhelds. Providing worry-free backups, installs and
+pictures management, Sync Buddy lets you reclaim control of your
+handheld. It complements the standard synchronization by giving you
+direct access to your handheld's contents.
+
+ License : Shareware, $25
+ Author/Publisher : Florent Pillet
+ Modification Date : April 6, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ ViddyUp 1.8.2 
+
+ViddyUp! makes moving your video clips to iPod a cinch! Just drag your
+clips to the ViddyUp! window, tweak a setting or two (if you want), then
+let ViddyUp! get to work. iPod-compatible versions of each clip show up
+in a special playlist in iTunes, ready for you to synchronize with your
+iPod. ViddyUp! is faster than QuickTime Pro's Movie to iPod (320x240)
+option, easily handles dozens of files with its batch processing mode,
+and even works with MPEG muxed audio. And with the Custom settings
+option, it's not just for iPod. Create MPEG-4 and H.264 files for iPod,
+iTunes, Podcasts or the Web. It's up to you.
+
+ License : Shareware, $10
+ Author/Publisher : Splasm Software
+ Modification Date : October 26, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.9 MB
+
+ Home Page 
+
+ Video2Go 1.6.3 
+
+Video2Go makes for comfortable converting of your movies to the new
+iPod with video functionality.
+
+The new iPod of the fifth generation allows you to store and, of course,
+play back up to 150 hours of video material with a screen resolution of
+320 pixels wide by 240 pixels high. Video2Go was especially devised for
+the optimal conversion of a movie to this size.
+
+ License : Shareware, $10
+ Author/Publisher : OnlyMac Software
+ Modification Date : May 3, 2007
+ Requirements : Mac OS X 10.3.9 or higher, QuickTime 7.0.3 and iTunes 6.0.1 or higher
+
+ Download 
+File Size: 3.8 MB
+
+ Home Page 
+
+ VisualHub 1.30 
+
+Fast conversion from nearly every video format to iPod, PSP, DV, DVD, Tivo, AVI, MP4, WMV, MPEG and Flash.
+
+Converting a bunch of AVI files to a DVD shouldn't require a Computer
+Science degree.
+
+Getting movies from your digital camera to your iPod shouldn't take
+hours.
+
+Wading through a sea of video formats shouldn't pull you under.
+
+VisualHub bridges the gap between numerous complicated video formatting
+standards, and people that just want to get the job done - just what you
+would expect from the Mac.
+
+If you're looking for something a little more flexible, VisualHub's up
+for that challenge too. An extensive Advanced panel lets you change all
+pre-set aspects of encoding...and then some.
+
+Based on the popular, award-winning "iSquint" conversion software for
+iPods. If you've used iSquint, you already know how to use VisualHub. If
+you've never used iSquint, you won't have a lot of catching up to do
+anyway.
+
+ License : Shareware, $24
+ Author/Publisher : Techspansion
+ Modification Date : December 12, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 5.2 MB
+
+ Home Page 
+
+ YamiPod 1.7 
+
+YamiPod is a freeware application to efficiently manage your iPod under
+Mac OS X, Windows and Linux. It can be run directly from your iPod and
+needs no installation. Take a look at the feature list to find out what
+it can do and feel free to suggest anything that might be missing.
+
+ License : Freeware
+ Author/Publisher : Tomas Camin
+ Modification Date : November 16, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 4.4 MB
+
+ Home Page 
+
+ ZMacSync 2.3.2 
+
+ZMacSync is a tool to synchronize the Sharp Zaurus Personal Information
+with the standard Communication suite of the Apple Macintosh (MacOS X).
+This includes the Address Book, iCal calendars and to-do lists, as well
+as Stickies (notes) and the Zaurus system clock. Synchronization is
+optimized so that only records are interchanged that are added, modified
+or deleted with as low data transformation loss as possible.
+
+ License : Shareware, $20
+ Author/Publisher : DSITRI
+ Modification Date : December 2, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: G.o MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

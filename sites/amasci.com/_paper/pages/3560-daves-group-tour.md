@@ -1,0 +1,117 @@
+---
+title: "Dave's group tour"
+source_domain: amasci.com
+source_path: ~interlak/daves.html
+order: 3560
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:56:53Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Dave's group tour
+
+*Source page: `~interlak/daves.html`*
+
+\
+\
+\
+**DAVE'S ANCIENT CHINA TOUR AND\
+YANGTZE RIVER CRUISE**\
+\
+***LIMITED TO 18 PEOPLE***\
+\
+Oct. 10 Depart Los Angeles\
+\
+11 Arrive Beijing - Met by your National Tour Director and Local Beijing\
+Guide. Transferred to your hotel. Special welcoming Dinner tonight! D\
+\
+12 Beijing - Visit Tiananmen Square, the Forbidden City and the Summer\
+Palace. BLD\
+\
+13 Beijing - See the Great Wall at Mutianyu with cable car included in each\
+direction. This is the most beautiful section of the Great Wall and less\
+crowded. Stop at the Lama Temple on the way back to the city known for\
+its 4 story tall Buddha carved from one tree trunk. BL Free this evening\
+to enjoy dinner on your own at any of the fine restaurants near your hotel.\
+\
+14 Beijing - Free Day today. B only. Free to go shopping or visit any one\
+of the sights not included in the tour. Your National Tour Director will\
+offer suggestions and maps of the city.\
+\
+15 Beijing/Xian by afternoon air. In the morning you will visit the Temple\
+of Heaven before lunch and going to the airport. Arriving in Xian we will\
+met by the local guide and transferred to the hotel. This evening features\
+a Traditional Dumpling Dinner at a special restaurant. BLD\
+\
+16 Xian - Visit the famous Terra Cotta Warriors site in the morning before\
+lunch. Afternoon visit to the HuaQing Pools once the Summer Palace of\
+the Tang Dynasty. (Xian was the capital before Beijing) Visit the Jade\
+Carving workshop before dinner. After dinner you will enjoy the special\
+Tang Dynasty Show one of the best culture shows in China. BLD\
+\
+17 Xian/Guilin by mid morning air. Arrive in Guilin in time for lunch.\
+Tour of Guilin in the afternoon including a visit to the famous Reed Flute\
+Cave. Transfer to your hotel. BL Evening free to enjoy the beautiful\
+central park around the lake and dinner on your own at any one of the\
+very good restaurants near by your hotel.\
+\
+18 Guilin/Li River Cruise/Yangshuo - You will be bussed through the\
+beautiful countryside to the Li River Cruise dock where you will board\
+your river cruiser. This day cruise is through some of the most beautiful\
+countryside in China to the wonderful river village of Yangshuo. Transfer\
+to the hotel. (Great shopping here) BLD\
+\
+19 Yangshuo/Guilin/Chongqing During the day you will be free to shop,\
+take a bike ride into the countryside or just enjoy the everyday life of this\
+small village. Gather for an early dinner before going to the airport. In\
+Chongqing you will be met by the local agent and transferred to your\
+hotel. BD lunch on your own today at any one of the sidewalk cafes\
+or restaurants. (many western food restaurants here)\
+\
+20 Yangtze River Cruise - You will be transferred to your Victoria Cruise\
+boat dock here in Chongqing to start your cruise down the Yangtze River.\
+BLD (Brochure will give you the daily schedule with off boat excursions\
+and entertainment)\
+\
+21 Yangtze River Cruise - BLD Enter the Gorges today.\
+\
+22 Yangtze River Cruise with stop at the new Dam site which will be in full\
+operation now that it is completed. BLD\
+\
+23 Yangtze River Cruise- arrive in Wuhan and met by the local guide on\
+board the boat as you disembark after lunch. Visit the famous Rock\
+Museum before transferring to the airport for your flight to Shanghai.\
+Met in Shanghai by the local guide and transferred to your central area\
+hotel. BLD\
+\
+24 Shanghai - You will visit the famous Yu Garden in the old section of the\
+city which is listed as the \#1 garden in China, and take a walk on the\
+Bund river park before lunch. After lunch you will be taken to the\
+Shanghai National Museum to view the many artifacts taken from ancient\
+Tombs. This evening you will attend the famous Shanghai Acrobats\
+Show known throughout the world for their unique abilities. BLD\
+\
+25 Shanghai/Home. Morning free for last minute packing or shopping\
+before transferring to the airport for your mid afternoon flight home.\
+B only.\
+\
+INCLUDED: \* Deluxe centrally located hotels, meals as indicated with full\
+western buffet breakfasts, National Tour Director who travels with the Group,\
+local guides in each area, all transportation, sightseeing as listed with listed\
+entertainment. Airport taxes and luggage transfers. (international air form\
+Los Angeles is included) \*\
+\
+NOT INCLUDED: Tips to guides and drivers (suggestions will be given in\
+your tour packet) visa application (we have the form and directions to apply)\
+Any expenses of a personal nature or not specifically listed as included.\
+\
+\* Air from your city to Los Angeles and return will be quoted to you when\
+booking. If you use your own air or frequent flyer miles you may deduct \$595\
+group fair from the tour cost.\
+\
+Price: \$2995 pp dbl. occ. Single Supplement \$995\
+Tour Maximum of 18 people - Minimum of 10 people.\
+\
+\

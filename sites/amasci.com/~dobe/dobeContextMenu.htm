@@ -1,0 +1,311 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+                      "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- New format for Dobe's Punny Name Archive on 12-23-2001 -->
+<!-- Hand-written XHTML, XML, XSLT, CSS and JS suite -->
+	 <!-- filename: dobeContextMenu.htm -->
+<!-- 
+		Dobe Doinat's Punny Name Archive
+		MegaloMedia Copyright December 23, 2001
+		John W. Hartman (Dobe Doinat)
+		http://www.eskimo.com/~dobe/
+		mailto://dobe@eskimo.com
+		IDE of choice: XMLWriter, Wattle Software
+		ISP of choice: eskimo.com, Bob is Everywhere! 
+-->
+			
+<html xmlns="http://www.w3.org/1999/xhtml">
+	 <head>
+
+		<title>Dobe Doinat's Context Menu (PopUp Menu)</title>
+	    <meta name="Keywords" content="Puns,Punny,Fun,Funny,PNA,XHTML,CSS,XML,XSL,XSLT,JavaScript,tutorial,authoring,programming,learning,reference,examples,samples,source code,demos,tips,links,FAQ,forms,frames,XHTMLGuide" />
+	    <meta name="Description" content="Dobe Doinat's Punny Name Archive displayed as Example Data Access Using Markup Languages in a Networked Environment targeted for MSIE5+" />
+		<meta http-equiv="Content-Type" content="text/html" />
+	<!--*/  /*  --> 
+										<!--  *********Insert call to external CSS file here********* -->
+	<link rel="stylesheet" href="dobeDefaultEN.css" />
+<!-- INTERNAL_STYLE SHEET -->
+<style type "text/css">
+<!--
+	/*
+	DOBE_NOTE: Change the third line down to change width of menu...
+	*/
+	
+	#ie5menu{
+		position:absolute;
+		width:200px;
+		border:2px solid brown;
+		background-color:ghostwhite;
+		font-family:arial;
+		line-height:20px;
+		cursor:hand;
+		visibility:hidden;
+	}
+	
+	.menuitems{
+		padding-left:15px;
+		padding-right:15px;
+	}
+-->
+</style>
+	<script language="JavaScript1.2">
+		//set this variable to 1 if you wish the URLs of the highlighted menu 
+		//to be displayed in the status bar or '0' to hide the URLs...
+		
+		var display_url=1;
+		
+		function showmenuie5(){
+			var rightedge=document.body.clientWidth-event.clientX;
+			var bottomedge=document.body.clientHeight-event.clientY;
+			
+			if (rightedge<ie5menu.offsetWidth)
+				ie5menu.style.left=document.body.scrollLeft+event.clientX-ie5menu.offsetWidth;
+			else
+				ie5menu.style.left=document.body.scrollLeft+event.clientX;
+			
+			if (bottomedge<ie5menu.offsetHeight)
+				ie5menu.style.top=document.body.scrollTop+event.clientY-ie5menu.offsetHeight;
+			else
+				ie5menu.style.top=document.body.scrollTop+event.clientY;
+			
+			ie5menu.style.visibility="visible";
+			return false;
+		}
+		
+		function hidemenuie5(){
+			ie5menu.style.visibility="hidden";
+		}
+		
+		function highlightie5(){
+			if (event.srcElement.className=="menuitems"){
+				event.srcElement.style.backgroundColor="highlight";
+				event.srcElement.style.color="white";
+			}
+			if (display_url==1){
+				window.status=event.srcElement.url;
+			}
+		}
+		
+		function lowlightie5(){
+			if (event.srcElement.className=="menuitems"){
+				event.srcElement.style.backgroundColor="";
+				event.srcElement.style.color="brown";
+				window.status="";
+			}
+		}
+		
+		function jumptoie5(){
+			if (event.srcElement.className=="menuitems")
+				window.location=event.srcElement.url;
+		}
+	</script>
+
+ </head>
+
+ <body title="Context-menu JavaScript courtesy of: www.dynamicdrive.com, modified by Dobe Doinat.">
+<!-- Setting up a named anchor to start of document-->
+   <div id="_dobeContext_Start">
+   </div>
+ 							<!--  *********Insert call to external JS file here********* -->
+<script type="text/javascript" src="write_MenuLinks_EN.js"></script>
+
+<!-- Begin Document -->
+
+<h1>Right Click To Use Context Menu!</h1>
+<h2>Demonstration of a context menu of links</h2>
+	<hr color="darkbrown" align="center" size="3" width="65%" />
+<blockquote>
+    <marquee behavior="alternate">
+<img src="./_dobeTutAllCommon/twinkle.gif" 
+       alt="If Browser can't find image, you'll see this!" 
+       title="Do you like this image?" 
+       id="_img_twinkle_gif1" /> 
+<b>Right-click anywhere in this document for a context menu of links!</b>
+<img src="./_dobeTutAllCommon/twinkle.gif" 
+       alt="If Browser can't find image, you'll see this!" 
+       title="Do you like this image?" 
+       id="_img_twinkle_gif2" />
+    </marquee> 
+</blockquote>
+<div>&nbsp;</div>
+	<hr color="darkbrown" align="center" size="3" width="65%" />
+
+<h2>Here's how the links in the PopUp Menu work</h2>
+<blockquote>
+<h3>Have this in the &lt;body&gt; section of the document:</h3>
+<br />
+&lt;div id='<b>ie5menu</b>' onMouseover='<b>highlightie5()</b>' onMouseout='<b>lowlightie5()</b>' onClick='<b>jumptoie5()</b>'&gt;<br />
+<br />
+&lt;div class='<b>menuitems</b>' url='<b>index.html</b>'&gt;index.html&lt;/div&gt;<br />
+	&lt;hr class='menuitems' /&gt;<br />
+&lt;div class='menuitems' url='<b>PNA500_XHTML.HTM</b>'&gt;PNA500_XHTML.HTM&lt;/div&gt;<br />
+&lt;div class='menuitems' url='<b>PNADataIsland.htm</b>'&gt;PNADataIsland.htm&lt;/div&gt;<br />
+&lt;div class='menuitems' url='<b>PNA500_XSLT.XML</b>'&gt;PNA500_XSLT.XML&lt;/div&gt;<br />
+&lt;div class='menuitems' url='<b>PNA500_XML.XML</b>'&gt;PNA500_XML.XML&lt;/div&gt;<br />
+&lt;div class='menuitems' url='<b>PNA500_XSLT.XSL</b>'&gt;PNA500_XSLT.XSL&lt;/div&gt;<br />
+	&lt;hr class='menuitems' /&gt;<br />
+&lt;div class='menuitems' url='<b>PNAdobeWebTut.htm</b>'&gt;PNAdobeWebTut.htm&lt;/div&gt;<br />
+	&lt;hr class='menuitems' /&gt;<br />
+&lt;div class='menuitems' url='<b>JohnWHartman_Resume.xml</b>'&gt;JohnWHartman_Resume.xml&lt;/div&gt;<br />
+	&lt;hr class='menuitems' /&gt;<br />
+&lt;div class='menuitems' url='<b>mailto:dobe@eskimo.com</b>'&gt;Email Dobe&lt;/div&gt;<br />
+<br />
+&lt;/div&gt;<br />
+
+<br /><br />
+<table border="1" width="80%" title="Here's the event script!">
+<tr><td>
+&nbsp;&nbsp;&nbsp;	&lt;script language="JavaScript1.2"&gt;<br />
+&nbsp;&lt;!--<br />
+&nbsp;&nbsp;&nbsp;		document.oncontextmenu=<b>showmenuie5</b>;<br />
+&nbsp;&nbsp;&nbsp;		if (document.all && window.print)<br />
+&nbsp;&nbsp;&nbsp;		document.body.onclick=<b>hidemenuie5</b>;<br />
+&nbsp;--&gt;<br />
+&nbsp;&nbsp;&nbsp;	&lt;/script&gt;<br />
+&nbsp;
+</td></tr>
+</table>
+
+</blockquote>
+	<hr color="darkbrown" align="center" size="3" width="65%" />
+
+<h2>Here's the JavaScript</h2>
+<blockquote>
+<h3>Have this script in the &lt;head&gt; section of the document:</h3>
+<br />
+&lt;<b>head</b>&gt;<br />
+&nbsp;<br />
+&nbsp;&lt;<b>style</b> type "text/css"&gt;<br />
+&nbsp;&lt;!--<br />
+&nbsp;	/*<br />
+&nbsp;	DOBE_NOTE: Change the third line down to change width of menu...<br />
+&nbsp;	*/<br />
+&nbsp;	<br />
+&nbsp;	<b>#ie5menu{</b><br />
+&nbsp;		position:absolute;<br />
+&nbsp;		width:200px;<br />
+&nbsp;		border:2px solid brown;<br />
+&nbsp;		background-color:ghostwhite;<br />
+&nbsp;		font-family:arial;<br />
+&nbsp;		line-height:20px;<br />
+&nbsp;		cursor:hand;<br />
+&nbsp;		visibility:<b>hidden</b>;<br />
+&nbsp;	<b>}</b><br />
+&nbsp;	<br />
+&nbsp;	.<b>menuitems</b>{<br />
+&nbsp;		padding-left:15px;<br />
+&nbsp;		padding-right:15px;<br />
+&nbsp;	}<br />
+&nbsp;--&gt;<br />
+&nbsp;&lt;<b>/style</b>&gt;<br />
+		<hr />
+		<br />
+&nbsp;	&lt;<b>script</b> language="JavaScript1.2"&gt;<br />
+&nbsp;		//set this variable to 1 if you wish the URLs of the highlighted menu <br />
+&nbsp;		//to be displayed in the status bar or '0' to hide the URLs...<br />
+&nbsp;		<br />
+&nbsp;		var <b>display_url</b> = 1;<br />
+&nbsp;		<br />
+&nbsp;		function <b>showmenuie5()</b>{<br />
+&nbsp;			var <b>rightedge</b> = document.body.clientWidth-event.clientX;<br />
+&nbsp;			var <b>bottomedge</b> = document.body.clientHeight-event.clientY;<br />
+&nbsp;			<br />
+&nbsp;			if (rightedge&lt;ie5menu.offsetWidth)<br />
+&nbsp;				ie5menu.style.left=document.body.scrollLeft+event.clientX-ie5menu.offsetWidth;<br />
+&nbsp;			else<br />
+&nbsp;				ie5menu.style.left=document.body.scrollLeft+event.clientX;<br />
+&nbsp;			<br />
+&nbsp;			if (bottomedge&lt;ie5menu.offsetHeight)<br />
+&nbsp;				ie5menu.style.top=document.body.scrollTop+event.clientY-ie5menu.offsetHeight;<br />
+&nbsp;			else<br />
+&nbsp;				ie5menu.style.top=document.body.scrollTop+event.clientY;<br />
+&nbsp;			<br />
+&nbsp;			<b>ie5menu.style.visibility="visible";</b><br />
+&nbsp;			<b>return false;</b><br />
+&nbsp;		}<br />
+&nbsp;		<br />
+&nbsp;		function <b>hidemenuie5()</b>{<br />
+&nbsp;			ie5menu.style.visibility="hidden";<br />
+&nbsp;		}<br />
+&nbsp;		<br />
+&nbsp;		function <b>highlightie5()</b>{<br />
+&nbsp;			if (event.srcElement.className=="menuitems"){<br />
+&nbsp;				event.srcElement.style.backgroundColor="highlight";<br />
+&nbsp;				event.srcElement.style.color="white";<br />
+&nbsp;			}<br />
+&nbsp;			<b>if (display_url==1){<br />
+&nbsp;				window.status=event.srcElement.url;<br />
+&nbsp;			}</b><br />
+&nbsp;		}<br />
+&nbsp;		<br />
+&nbsp;		function <b>lowlightie5()</b>{<br />
+&nbsp;			if (event.srcElement.className=="menuitems"){<br />
+&nbsp;				event.srcElement.style.backgroundColor="";<br />
+&nbsp;				event.srcElement.style.color="brown";<br />
+&nbsp;				window.status="";<br />
+&nbsp;			}<br />
+&nbsp;		}<br />
+&nbsp;		<br />
+&nbsp;		function <b>jumptoie5()</b>{<br />
+&nbsp;			if (event.srcElement.className=="menuitems")<br />
+&nbsp;				window.location=event.srcElement.url;<br />
+&nbsp;		}<br />
+&nbsp;	&lt;<b>/script</b>&gt;<br /><br />
+&nbsp;<br />
+&nbsp; &lt;<b>/head</b>&gt;<br />
+&nbsp;
+</blockquote>
+
+<div>&nbsp;</div>
+	<hr color="darkbrown" align="center" size="3" width="65%" />
+
+<div id="ie5menu" onMouseover="highlightie5()" onMouseout="lowlightie5()" onClick="jumptoie5()">
+<div class="menuitems" url="index.html">index.html</div>
+	<hr class="menuitems" />
+<div class="menuitems" url="PNA500_XHTML.HTM">PNA500_XHTML.HTM</div>
+<div class="menuitems" url="PNADataIsland.htm">PNADataIsland.htm</div>
+<div class="menuitems" url="PNA500_XSLT.XML">PNA500_XSLT.XML</div>
+<div class="menuitems" url="PNA500_XML.XML">PNA500_XML.XML</div>
+<div class="menuitems" url="PNA500_XSLT.XSL">PNA500_XSLT.XSL</div>
+	<hr class="menuitems" />
+<div class="menuitems" url="PNAdobeWebTut.htm">PNAdobeWebTut.htm</div>
+	<hr class="menuitems" />
+<div class="menuitems" url="JohnWHartman_Resume.xml">JohnWHartman_Resume.xml</div>
+	<hr class="menuitems" />
+<div class="menuitems" url="mailto:dobe@eskimo.com">Email Dobe</div>
+</div>
+
+	<script language="JavaScript1.2">
+		document.oncontextmenu=showmenuie5;
+		if (document.all && window.print)
+		document.body.onclick=hidemenuie5;
+	</script>
+
+
+
+
+<!-- //Footer -->
+ <table width="100%" cols="2" rows="1" border="0" cellpadding="10" id="dobeXHTML_IntroPara">
+   <tr>
+   <td valign="top" align="center" width="40%">
+	<!--   The following file must be in this directory! 
+	            This site copyright&#169; 2001 
+	       by John &quot;Dobe Doinat&quot; Hartman, 
+	               All Rights Reserved.
+	-->
+							<!--  *********Insert call to external JS file here********* -->
+	<script type="text/javascript" 
+	        src="write_Copyright_EN.js">
+	</script>
+	
+   </td>
+   <td valign="top" align="left" width="60%" class="small_70bi">
+   Cut-and-pasting of code permitted for non-commercial use.<br />
+   Check out my source code: <b>&lt;Right-Click&gt; | View Source</b> <br />
+   Thank you. <br />
+	<a href="#_dobeContext_Start"><center><b>Back to the Beginning of this page</b></center></a>
+   </td>
+  </tr>
+ </table>
+
+ </body>
+ </html>

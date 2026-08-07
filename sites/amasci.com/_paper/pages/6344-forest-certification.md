@@ -1,0 +1,967 @@
+---
+title: "Forest Certification"
+source_domain: amasci.com
+source_path: ~rarnold/forest_certification.htm
+order: 6344
+reachable_from_entry: false
+images: 1
+internal_links: 7
+extracted: 2026-08-07T05:59:09Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Forest Certification
+
+*Source page: `~rarnold/forest_certification.htm`*
+
+<table id="AutoNumber1" data-border="1" data-cellspacing="1" style="border-collapse: collapse" data-bordercolor="#FFFFFF" width="100%" data-bgcolor="#336699" height="50" data-bordercolorlight="#FFFFFF" data-bordercolordark="#FFFFFF">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%" data-bordercolorlight="#336699" data-bordercolordark="#336699" data-bgcolor="#336699"><p><strong><img src="CENTERs.JPG" data-border="0" data-align="left" data-hspace="0" width="81" height="44" /> Center for the Defense of Free Enterprise<br />
+ ISSUES</strong></p></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#FFFFFF"><p><strong><a href="index.html" style="text-decoration: none">HOME</a>    <a href="issues.htm" style="text-decoration: none">ISSUES</a>    <a href="opposition.htm" style="text-decoration: none">OPPOSITION</a>    <a href="projects.htm" style="text-decoration: none">PROJECTS</a>    <a href="defenders.gif" style="text-decoration: none">DEFENDERS</a>    <a href="wiseuse.htm" style="text-decoration: none">WISE USE</a>    <a href="book_store.htm" style="text-decoration: none">BOOKSTORE</a>    <a href="archive.htm" style="text-decoration: none">ARCHIVE</a></strong></p></td>
+</tr>
+</tbody>
+</table>
+
+## Working Paper number 18, 2002, from the University of Gvle, Sweden
+
+##  
+
+## <span lang="EN-GB">A EUROPEAN VIEW OF FOREST CERTIFICATION </span>
+
+## <span lang="EN-GB">**ISSUES FOR CONSIDERATION**</span>
+
+<span class="body1">Tage Klingberg\
+<a href="http://www.hig.se/international/english.html" style="text-decoration: none">University of Gvle</a>\
+<span style="FONT-STYLE: italic">Sweden</span>\
+ </span>
+
+### <span lang="EN-GB">ABSTRACT</span>
+
+<span lang="EN-GB" style="font-size: 8.0pt"> </span>
+
+<span lang="EN-GB">Certification of forestry is a tool that may influence the image of forestry in the eyes of the consumers. Several certification schemes have been developed. </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">The organization of family forest owners in Europe turned away from FSC, (the Forest Stewardship Council) and instead established the PEFC, the Pan-European Forest Certification to better accommodate the ownership pattern with many small holdings.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">So far certification has not, in a global perspective, managed to penetrate those parts of the world where abusive forest practices are most common and where vast forest areas are lost every year.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Some problems in connection with certification are identified, e.g. increasing complexity of rules and the governance of the systems.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">To judge the potential for forest certification the attitudes of consumers to forestry and certification is discussed. Different scenarios of the role of certification are identified.</span>
+
+<span lang="EN-GB">The use of labelling as an extension of certification is mentioned.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">In the third world certification of forestry may play different roles as compared to in Europe or North America.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+**<span lang="EN-GB">Key words:</span>**
+
+<span lang="EN-GB">Forest certification, labelling, sustainable forest management, governance of certification.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">Author: Tage Klingberg, </span> <span lang="EN-GB" style="font-weight:normal">Associate professor</span>
+
+<span lang="EN-GB">Department of Business and Economics           \
+University of Gvle</span>
+
+<span lang="EN-GB">S 801 76 Gvle,  Sweden</span>
+
+<span lang="EN-GB">Telephone: + 46 26 13 32 80</span>
+
+<span lang="EN-GB">Telefax: + 46 26 13 20 31</span>
+
+<span lang="EN-GB">e-mail:  <a href="mailto:tkg@hig.se" style="color: blue; text-decoration: underline; text-underline: single">tkg@hig.se</a></span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span><span lang="EN-GB" style="font-size: 14.0pt"> </span>
+
+## <span lang="EN-GB">FOREWORD</span>
+
+<span lang="EN-GB" style="font-size: 14.0pt"> </span>
+
+<span lang="EN-GB" style="font-size: 14.0pt"> </span>
+
+<span lang="EN-GB" style="font-size: 14.0pt">The role of forest certification is developing. The effects are still diffuse.</span>
+
+<span lang="EN-GB" style="font-size: 14.0pt">My ambition is to raise some issues for discussion and further study. </span>
+
+<span lang="EN-GB" style="font-size: 14.0pt"> </span>
+
+<span lang="EN-GB" style="font-size: 14.0pt">This Working Paper is a revision of my manuscript from presentations at </span>
+
+<span lang="EN-GB" style="font-size: 14.0pt">seminars for faculty and graduate students at </span>
+
+<span lang="EN-GB" style="font-size: 14.0pt"> </span>
+
+<span lang="EN-GB" style="font-size: 14.0pt">          - the University of Gvle,</span>
+
+<span lang="EN-GB" style="font-size: 14.0pt">          - the Department of Forestry at North Carolina State University,</span>
+
+<span lang="EN-GB" style="font-size: 14.0pt">          - Nicholas School of the Environment at Duke University, NC,\
+</span><span style="font-size: 14.0pt">          </span><span lang="EN-GB" style="font-size: 14.0pt">- and at the School of Forestry & Environmental Studies at Yale University in Connecticut.</span>
+
+<span lang="EN-GB" style="font-size: 14.0pt"> </span>
+
+<span lang="EN-GB" style="font-size: 14.0pt">I am thankful for all the comments and questions I have received. They help remind me that any conclusion is at best a well-grounded hypothesis, not yet falsified. Forest certification is still under development. It is a controversial issue. Therefore it warrants further study and analysis. Any comments are welcome.</span>
+
+<span lang="EN-GB" style="font-size: 14.0pt"> </span>
+
+<span lang="EN-GB" style="font-size: 14.0pt">I am not impartial or objective even though I try to be open for different viewpoints. I consider myself an environmentalist. At the same time I am a forest owner. In a Swedish context it is not a contradiction to favor both our environment and the production of wood. That is, in my mind, the great charm about forestry.</span>
+
+<span lang="EN-GB" style="font-size: 14.0pt"> </span>
+
+<span lang="SV" style="font-size: 14.0pt">Gvle, Sweden</span>
+
+<span lang="SV" style="font-size: 14.0pt">March 2002</span>
+
+<span lang="SV" style="font-size: 14.0pt">Tage Klingberg</span>
+
+<span lang="SV" style="font-size: 14.0pt"> </span>
+
+**<span lang="EN-GB" style="font-size: 14.0pt">TABLE OF CONTENTS</span>**
+
+**<span lang="EN-GB" style="font-size: 14.0pt"> </span>**
+
+# <span lang="EN-GB" style="font-weight:normal">Marketing of wood means selling the idea of acceptability                      </span> <span style="font-weight:normal">   </span> <span lang="EN-GB" style="font-weight: normal">page  4</span>
+
+<span lang="EN-GB" style="font-size: 8.0pt"> </span>
+
+# <span lang="EN-GB" style="font-weight:normal">Certification enters the scene                                         </span> <span style="font-weight:normal">                           </span><span lang="EN-GB" style="font-weight: normal">page  4</span>
+
+<span lang="EN-GB" style="font-size: 8.0pt"> </span>
+
+# <span lang="EN-GB" style="font-weight:normal">Certification is off target                                                            </span> <span style="font-weight:normal">               </span><span lang="EN-GB" style="font-weight: normal">page  5</span>
+
+<span lang="EN-GB" style="font-size: 8.0pt"> </span>
+
+<span lang="EN-GB">The development in Sweden                                         </span>                           <span lang="EN-GB">page   6</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">The Dove                                                                  </span>                           <span lang="EN-GB">page  7</span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB" style="font-weight:normal">Three different views of certification                                          </span> <span style="font-weight:normal">               </span><span lang="EN-GB" style="font-weight: normal">page  8</span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB" style="font-weight:normal">What do the consumers in Europe want?  A matter of acceptance            page  8</span>
+
+# <span lang="EN-GB" style="font-weight:normal"> </span>
+
+<span lang="EN-GB">The explanation may be the following                                        </span>               <span lang="EN-GB">page  8</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">The origin ..                                                  </span>                                       <span lang="EN-GB">page  8</span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB" style="font-weight:normal">The Swedish policy evaluation a more relevant focus?             </span><span style="font-weight:normal">              </span><span lang="EN-GB" style="font-weight: normal">page  9</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Where is the time and money taken?                                         </span>               <span lang="EN-GB">page   9</span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB" style="font-weight:normal">A trend toward more complicated rules?                                               </span> <span style="font-weight:normal">   </span> <span lang="EN-GB" style="font-weight: normal">page   9</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Issues of governance                                                     </span>                          <span lang="EN-GB">page 10</span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB" style="font-weight:normal">Is certification a temporary phenomenon?                                  </span> <span style="font-weight:normal">              </span><span lang="EN-GB" style="font-weight: normal">page 10</span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB" style="font-weight:normal">A parallel:  Organic Food, a temporary phenomenon?                      </span><span style="font-weight:normal">    </span><span lang="EN-GB" style="font-weight: normal">page 10</span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB" style="font-weight:normal">How will the certification drive develop?                                 </span> <span style="font-weight:normal">            </span><span style="font-weight: normal"> </span><span lang="EN-GB" style="font-weight: normal">page 11</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">A diversified market scenario in Europe and North America                  </span>  <span lang="EN-GB">page 11</span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB" style="font-weight:normal">Labelling or not?                                                           </span> <span style="font-weight:normal">                         </span><span lang="EN-GB" style="font-weight: normal">page 12</span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB" style="font-weight:normal">A reservation:  Will organizations overtake the market?              </span> <span style="font-weight:normal">            </span><span style="font-weight: normal"> </span><span lang="EN-GB" style="font-weight: normal">page 12</span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB" style="font-weight:normal">A completely different role in the third world                              </span> <span style="font-weight:normal">             </span><span lang="EN-GB" style="font-weight: normal">page 12</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">A final remark   **                                               ** </span>**                                    ** <span lang="EN-GB">page 13</span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB" style="font-weight:normal"> REFERENCES                                                            </span> <span style="font-weight:normal">                         </span><span lang="EN-GB" style="font-weight: normal">page 13</span>
+
+**<span lang="EN-GB"> </span>**
+
+## <span lang="EN-GB">A EUROPEAN VIEW OF FOREST CERTIFICATION </span>
+
+<span lang="EN-GB">            **ISSUES FOR CONSIDERATION**</span>
+
+<span lang="EN-GB">  </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Forestry in Europe has gone from overexploitation a century ago to abundant supply. The annual increment in wood growth greatly exceeds harvest. Forest owners, sawmills and wood-working industries in Europe are subject to tough competition from new timber exporting countries and from other materials.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">This is met by greater efficiency and increased production which hardly solves the problem of oversupply and falling prices. Also, it is met with product development and better marketing.      </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">Marketing of wood means selling the idea of acceptability</span>
+
+<span lang="EN-GB">However, since the heated debate over tropical forestry decades ago, there is a resistance towards the use of wood. Not that people dont like the material wood. But many are concerned over the future of the global forest cover and over biodiversity.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">This fear of depletion of forests has been strongly pushed by environmental organizations, bringing the issue up to the headlines </span><span lang="EN-GB" style="font-size: 10.0pt">(see further Miller, 2002)</span><span lang="EN-GB">. This perception or interpretation of reality and the awareness, boosted by the debate and by scientific studies, persuaded the forest sector to revise and improve its forest management. In Sweden, the state forests and the large corporations made the greatest improvements, simply because they had the most to improve due to their previous harsh practices.  </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">But this was not enough. The public perception of forestry had to be improved.</span>
+
+<span lang="EN-GB">How get the material wood accepted? How to transform forestry from having an image of destruction of wilderness to an image of sustainable management of a renewable resource? Thus achieving **public acceptance** of forestry and the use of wood and paper.</span>
+
+<span lang="EN-GB">A prevailing feeling among forest owners in Sweden as well as in Denmark, Finland and Norway is that </span>
+
+*<span lang="EN-GB"> </span>*
+
+*the problem is not what we do in the forest - our problem is that people do not know about it or do not understand it. Therefore, certification as a communication instrument is of need.*
+
+** **
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">Certification enters the scene</span>
+
+<span lang="EN-GB">The idea of certification is great. An independent third party checks forest operations and, if OK, issues a certificate. I wish we in forestry had taken the initiative to certification ourselves in the 1980s. That might have avoided todays confused and contentious situation with a competition between certification schemes, that is not always constructive. </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Now the idea was launched by ENGOs (</span><span lang="EN-GB" style="font-size: 10.0pt">Environmental Non-Governmental Organizations</span><span lang="EN-GB">) in the 1990s. Primarily, so they said, as a tool to influence rough forestry practices in the tropics.</span>
+
+<span lang="EN-GB">However, it was not successful there. So they moved the pressure for certification to Europe and North America. Primarily pulp and paper, which scared the large forest corporations.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">But since each pulp mill in Scandinavia may have over 10 000 wood suppliers it was difficult to handle. So they turned to solid wood and saw mills. The prime target was still the large corporations since their structure and thinking more suited the large ENGOs. The FSC (</span><span lang="EN-GB" style="font-size: 9.0pt">Forest Stewardship Council)</span><span lang="EN-GB"> got a breakthrough for their certification system after a deal with the large Swedish forest corporations (</span><span lang="EN-GB" style="font-size: 10.0pt">AssiDomn, Korsns, MoDo, SCA and Stora</span><span lang="EN-GB">).</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">Certification is off target</span>
+
+<span lang="EN-GB">If we look at the overall certification today, FAO in Rome </span><span lang="EN-GB" style="font-size: 10.0pt">(the Food and Agriculture Organization of UN</span><span lang="EN-GB">) concludes that: </span>
+
+*<span lang="EN-GB"> </span>*
+
+*<span lang="EN-GB">.   The area of certified forests continues to increase and is now estimated to be roughly 90 million ha. Nonetheless, this represents only about 2 percent of the worlds forest area and, notably, most certified forests are located in a limited number of temperate countries, not in tropical countries for which concern about unsustainable timber harvesting practices is greatest</span>*<span lang="EN-GB">.        (</span><span lang="EN-GB" style="font-size: 9.0pt">FAO, page xii)</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB" style="font-size: 11.0pt">Data on the number of certified hectares in different parts of the world show a concentration to Europe and North America. Losses of forest cover are concentrated to other parts of the world (</span><span lang="EN-GB" style="font-size: 10.0pt">see **pictures 3 & 4** in the end). </span> <span lang="EN-GB" style="font-size: 11.0pt">You might say that certification so far has missed the prime target.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">The development in Sweden</span>
+
+<span lang="EN-GB">A FSC-process was launched in Sweden in 1995 with all stake-holders. At that time I was president of the Swedish Federation of Non-Industrial Private Forest Owners. We took an active part in the process for a year and a half. </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">We found, however, a lack of understanding for our ownership pattern, for our small scale forestry practice and culture, for our complicated network of supply lines to saw mills and pulp mills. Also, on some principal issues, primarily concerning forestry in the mountain region where relations to the reindeer herders are complicated, we were completely overruled. We had to leave the FSC process.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Shortly afterwards the organizations of private forest owners in several West European countries initiated the PEFC, the Pan-European Forest Certification scheme. After two years, in 1999, it was launched. It has developed well, area-wise. Today, 42,7 million hectares are certified under the PEFC scheme, </span> <span lang="EN-GB" style="font-size: 10.0pt">(PEFCC, 2002, page 1</span><span lang="EN-GB">).</span>
+
+<span lang="EN-GB"> </span>
+
+In PEFC national differences are respected. That in itself is an element of diversity.
+
+The Swedish PEFC-scheme is independent, based on local involvement. This is a grass roots, bottom-up approach respected by all involved and not a top-down approach, which might be seen as distant, detached and directorial.
+
+ 
+
+Small scale local ownership is respected. That is crucial, considering that the average holdings are of the following sizes:
+
+                                            In Sweden                           50 hectares
+
+                                            In Norway                           39 hectares
+
+                                            In Finland                             29 hectares
+
+                                            In Germany                          8 hectares
+
+                                            In Spain                                4 hectares
+
+                                            In France                              3 hectares
+
+ 
+
+This compares with the ownership of the large corporations, each owning 0,5 to over 2 million hectares.
+
+ 
+
+The standards in PEFC are set to maintain the diversity in each region. Local and Rural dependence and development linked to forestry is acknowledged. This is in accord with the thinking of the Rio 1992 Agenda 21 declaration (<span style="font-size: 10.0pt">see **pictures 5 7** for some key characteristics).</span>
+
+                                           
+
+<span lang="EN-GB">However, the ENGOs have, despite invitations, boycotted PEFC from the start. There is a split situation. This is troubling the mills run by  the forest industries. Actually, it is troubling us all, since it conveys an image of forestry as still being an area of conflict, which may hamper the use of wood.</span>
+
+# <span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB" style="font-size: 14.0pt">The Dove</span><span lang="EN-GB">      </span><span lang="EN-GB" style="font-size:10.0pt;font-weight:normal">(</span><span lang="EN-GB" style="font-size: 9.0pt; font-weight: normal">more correctly: The Stock Dove</span><span lang="EN-GB" style="font-size: 9.0pt">)</span>
+
+<span lang="EN-GB">Talks were initiated between PEFC Sweden and FSC Sweden already 3 years ago.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">A bridging document was presented last December (</span><span lang="EN-GB" style="font-size: 9.0pt">Auln & Bleckert, 2001</span><span lang="EN-GB">).</span>
+
+<span lang="EN-GB">The document suggests sharper rules on 4 points for FSC and on 17 points for PEFC in order to equalize the systems, e.g. </span>
+
+<span lang="EN-GB">stronger requirements for set-asides, </span>
+
+<span lang="EN-GB">no harvests in key biotopes, </span>
+
+<span lang="EN-GB">restrictions on fertilization, </span>
+
+<span lang="EN-GB">no GMO-plants, </span>
+
+<span lang="EN-GB">at least 10 trees left per hectare after harvest. </span>
+
+<span lang="EN-GB">And the forest manager shall show the green plan to whoever asks to see it.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">For me as a private forest landowner, already PEFC certified, application of  The Dove would mean some infringements on my forestry. The arguments for the changes as I can read from the bridging document seem primarily to be of a tactical or political nature rather than scientific. The justifications seem questionable from an biological point of view.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">There have been few and cautious reactions so far. Maybe because this has not been an open process. A few people have done this without consulting even the formal Swedish PEFC-organization. There has been no transparency. Now the document is to be sold. It can be noted that </span>
+
+<span lang="EN-GB">- accreditation is not solved. </span>
+
+<span lang="EN-GB">- chain-of-custody is not solved</span>
+
+<span lang="EN-GB">- use of logo is not solved</span>
+
+<span lang="EN-GB">- the relations to the reindeer-herding issue is not solved</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">The Dove does not mean that a saw mill buying from both FSC-certified and PEFC-certified sources can say that all is OK with FSC or PEFC. All they can say is that both sources are certified somehow. My conclusion is that this is not Mutual Recognition between FSC and PEFC.  This may in reality be mostly a political document, despite its technical nature.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">FSC suggests that the two are tested in parallel certification on private land </span> <span lang="EN-GB" style="font-size: 10.0pt">(FSC, 2002</span><span lang="EN-GB">).  PEFC has said no to a field test, as being unnecessary.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">It is yet to be seen how the Dove will fly when let out in the forest and on the market.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">The role of certification in the future</span>
+
+<span lang="EN-GB">Thus, the development of FSC and PEFC is still unclear.</span>
+
+<span lang="EN-GB">I will now go on to discuss the development and importance of certification in the future.</span>
+
+<span lang="EN-GB">First, I will sketch three different ways of understanding certification.</span>
+
+# <span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">Three different views of certification</span>
+
+<span lang="EN-GB">What is in the real world certification and the process around it?</span>
+
+<span lang="EN-GB">We can see it from different perspectives.</span>
+
+<span lang="EN-GB"> </span>
+
+1.  <span lang="EN-GB">The innocent view: Certification is a **tool for communication** with the consumer</span>
+
+<span lang="EN-GB">a) either giving some sellers a competitive edge</span>
+
+<span lang="EN-GB">     </span>          <span lang="EN-GB"> b) or jointly improving the image of forestry in the eyes of the public.</span>
+
+<span lang="EN-GB"> </span>
+
+2.  <span lang="EN-GB">A more progressive (or offensive) view:  Certification is a **tool to make** **forest owners and managers improve forestry**. Also to stop illegal logging and abusive labor relations etc. The mildest form of influence is by increasing awareness and knowledge. A stronger influence may be exerted by putting pressure (economic or social) on those who are not certified.</span>
+
+<span lang="EN-GB"> </span>
+
+3.  <span lang="EN-GB">A political view:  Certification is a **power game, a vehicle for some organizations** (outside the democratic system) to replace governments and the scientific community as bodies setting standards and supervising the management of natural resources**.** </span>
+
+<span lang="EN-GB">     A way for certain actors to get a power position - and maybe even money.</span>
+
+**<span lang="EN-GB"> </span>**
+
+**<span lang="EN-GB"> </span>**
+
+*<span lang="EN-GB">Number 1 above is primarily what the forest sector wants.</span>*
+
+*<span lang="EN-GB">Number 2 is probably what many other actors want</span>*
+
+*<span lang="EN-GB">Number 3 is perhaps a realistic description of what it really is.</span>*
+
+**<span lang="EN-GB"> </span>**
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">What do people the consumers in Europe want?  A matter of acceptance.</span>
+
+<span lang="EN-GB">Certification is said to be market-driven, in the name of the consumers. However, I find it more correct to describe it as organization-driven, that is driven by ENGOs, forest owners organizations, forest corporations, professional consulting firms and retailers.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">What do the consumers want and think? Let us go to the market and look at their attitudes and behavior. Several studies indicate that the environmental argument after all comes in third or fourth place for the customer after product, price and quality </span> <span lang="EN-GB" style="font-size: 10.0pt">(see e.g. Forsn, 2002</span><span lang="EN-GB">).</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Forsberg & Olsson (</span><span lang="EN-GB" style="font-size: 9.0pt">2001</span><span lang="EN-GB">) found that British consumers (at B & Q and Wickes) as well as Swedish customers primarily look at product, price and quality. But, they also want the material to be produced in a sustainable way. They have a notion of Scandinavian forestry as being OK. They think certification and/or labelling is good and important. But most consumers do not know about FSC or PEFC and they are not interested in the details of it. Many say they just want to know where the wood is coming from.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">A recent study by Ryhn (</span><span lang="EN-GB" style="font-size: 10.0pt">2002)</span><span lang="EN-GB"> on the Swedish market found that:</span>
+
+<span lang="EN-GB">-<span style="font:7.0pt &quot;Times New Roman&quot;">         </span>Price, quality and appearance are most important. For males price comes first.</span>
+
+<span lang="EN-GB">-<span style="font:7.0pt &quot;Times New Roman&quot;">         </span>The awareness of brands or marks is low, but it increases with the level of processing. It is low for construction wood, but higher for cupboards and wooden floor materials.</span>
+
+<span lang="EN-GB">-<span style="font:7.0pt &quot;Times New Roman&quot;">         </span>Consumers care little about brands. They are interested in the origin. </span>
+
+<span lang="EN-GB">-<span style="font:7.0pt &quot;Times New Roman&quot;">         </span>Consumers largely trust the dealers concerning product quality.  </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">These reports support observations from other studies. What conclusion may this indicate concerning the role for certification? People do **not** look for certificates or labels. They look for product quality, appearance and price. But they want forestry to be environmentally OK. </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+**<span lang="EN-GB">The explanation may be the following:</span>**
+
+*<span lang="EN-GB">People do really want our society to be sustainable. They will buy wood if they get the feeling that it comes from sustainable sources. But they dont want to go into details. If using wood is acceptable then it is fine. Then they look at price, quality etc.</span>*
+
+*<span lang="EN-GB"> </span>*
+
+*<span lang="EN-GB">The key thing may thus be that there is a public image of wood being acceptable.</span>*
+
+***<span lang="EN-GB">Acceptance </span>*** *<span lang="EN-GB">may be what it is all about.</span>*
+
+*<span lang="EN-GB">Once wood is accepted or some kinds or origins of wood are accepted then the</span> "<span lang="EN-GB">green arguments do not help selling any more.</span>*
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">This may explain the observations of market effects of certification. It hardly gives a price premium (at least not in the long run). The absence of a price premium may be seen as supporting the point that end consumers are hardly willing to pay for certification. However, certification may be needed anyway. </span><span lang="SV">(</span><span lang="SV" style="font-size: 9.0pt">Krn, 2001, pp 164-165</span><span lang="SV">). </span><span lang="EN-GB">Or some kind of product declaration</span><span lang="EN-GB" style="font-size: 9.0pt">.</span>
+
+<span lang="EN-GB" style="font-size: 9.0pt"> </span>
+
+<span lang="EN-GB">It may be a **matter of getting over the threshold of public acceptance**.</span>
+
+<span lang="EN-GB">Once over the threshold, traditional product arguments and marketing strategies dominate.</span>
+
+<span lang="EN-GB">This raises, of course, the question of how high is the threshold? </span>
+
+<span lang="EN-GB"> </span>
+
+**<span lang="EN-GB">The origin ..</span>**
+
+<span lang="EN-GB">Some studies indicate that people ask from where the wood comes.</span>
+
+<span lang="EN-GB">This makes sense if people have a hunch that some countries are already over the threshold.  This might lead to a mark of origin. In my childhood made in Sweden or made in U.S.A. were signs of quality. Maybe we in the future will see labels on wood saying Proudly produced in U.S.A. or Grown on private land in Sweden. Something similar to what you may find on beef in Europe today. Consumers tend to ask for the origin of other products also, </span><span lang="EN-GB" style="font-size: 10.0pt">(see e.g. Ericsson, 2002)</span><span lang="EN-GB">.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">The Swedish policy evaluation a more relevant focus?</span>
+
+<span lang="EN-GB">Talking of the threshold what the government and what the scientific community say may have a decisive influence in the long run on how the public perceives forestry and the threshold of acceptability. </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">The Swedish Forestry Act of 1994 set up two goals: Environment & Production.</span>
+
+<span lang="EN-GB">The recent official evaluation showed that the environmental goals are met, but we have to resume work to improve production, mainly improve replanting (too much natural regeneration so far) and non-commercial thinning, (</span><span lang="EN-GB" style="font-size: 10.0pt">Skogsstyrelsen, 2002).</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">The evaluation has been commended by all actors for its quality. What impact will this government study have on public attitudes? Maybe this is a more powerful certificate than the detailed checks at the ownership level performed by FSC and PEFC Sweden. After all to get a grip of diversity, an overview like the government evaluation may be more relevant, addressing the landscape level. </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">The Swedish government evaluation may be compared to the Finnish PEFC certification system, which works on a regional level. The Finnish system has been criticized for its lack of detail. Is that rather an advantage worth taking after?</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">Where is the time and money taken?</span>
+
+<span lang="EN-GB">A down side of certification work is that.  </span>
+
+<span lang="EN-GB">FSC has consumed a large proportion of the working time of many forest NGOs who previously had given their attention to a wide range of ways to resolve forest conflicts.</span>
+
+<span lang="EN-GB">(</span><span lang="EN-GB" style="font-size: 9.0pt">WRM Bulletin Dec 20, 2001, page 9</span><span lang="EN-GB">)</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">I can testify that much time and money have been spent on all discussions, negotiations and analyses of different schemes. One may ask if these resources spent have benefited the environment. Maybe the conflicts perceived have turned consumers to using plastics, steel and aluminium instead of using recyclable wood. Has the environment gained from this?  On the other hand, a positive effect of the processes may be an increased awareness and a dissemination of knowledge.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">A trend toward more complicated rules?</span>
+
+<span lang="EN-GB">Certification schemes after their honey-moons **- have to develop**.</span>
+
+<span lang="EN-GB">In the beginning they are by necessity schematic and blunt. Problems, questionable outfalls, appeals and conflicts will lead to modifications, revisions, amendments etc. One example is that rules for set-asides </span><span lang="EN-GB" style="font-size: 10.0pt">(reserves)</span><span lang="EN-GB"> may be modified. In southern Sweden scientists ask for promotion of not denser but more open forests. So they were in many places earlier, (</span><span lang="EN-GB" style="font-size: 9.0pt">see Nilsson et al, 2001</span><span lang="EN-GB">). Also in middle Sweden new evidence shows that due to an old history of cattle herding open, grazed forests were common, </span><span lang="EN-GB" style="font-size: 9.0pt">(Ericsson, T.S. 2001</span><span lang="EN-GB">).</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Such necessary modifications lead to successively more diversified and elaborate rules. </span>
+
+<span lang="EN-GB">We can see signs of this. FSC is now restructuring its national standards. They have become too national. The Swedish FSC-standard has to be put back in line with the general principles and rules. For FSC this causes tensions. According to inside sources this may make the national standards more complicated and difficult to understand. </span> <span lang="EN-GB" style="font-size: 8.0pt">(NIS newsletter nr 3,  2002, page3</span><span lang="EN-GB">)</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">This development toward more elaborate rules is parallel to what is facing most government regulations. They become so detailed that they may finally be difficult to manage. </span>
+
+<span lang="EN-GB"> </span>
+
+**<span lang="EN-GB">Issues of governance </span>**
+
+<span lang="EN-GB">The larger the role for certification and the stronger the concentration to a few systems, i.e. the closer to a monopoly situation, the more urgent it is to penetrate matters of governance: </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">-  Where does the power get its legitimacy? </span>
+
+<span lang="EN-GB">-  Is the authority acquired a problem from a democratic point of view? </span>
+
+<span lang="EN-GB">-  Do the forest owners have legal protection and assurance of equal and fair treatment?</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Another issue is the accreditation of certifiers. Who is accountable to whom? (S</span><span lang="EN-GB" style="font-size: 9.0pt">ee further Klingberg, May 2001</span><span lang="EN-GB">). How do the consumers know whether the certification criteria are based on sound science or on assumptions and myths?</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Also, the restructuring of FSC rules to make national criteria more in compliance with the international rules illustrates a problem of decision levels in the sense that local processes loose influence </span><span lang="EN-GB" style="font-size: 8.0pt">(according to NIS Newsletter nr 3, 2002, p.3</span><span lang="EN-GB">). This goes against the claim that local actors shall have an important role.</span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">Is certification a temporary phenomenon?</span>
+
+<span lang="EN-GB">When we in the year 2020 look back, we may see certification as **a temporary intervention.** </span>
+
+<span lang="EN-GB">The more it penetrates, the more hectares certified, the less special it will be. And its direct effects may diminish.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Maybe the most important impact will have been the increased interest and awareness created by the discussions we experience at present. Let us call it **the indirect effects** of certification. They may be substantial but maybe temporary. They may help push the standard upward. Once above the acceptable level the job is done.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Will this mean that certification will loose its role completely? Or will it mean that certification will be a necessary baseline requirement, which every producer will have to have? If so, will it be voluntary or de facto compulsory? These questions are still open.</span>
+
+# <span lang="EN-GB"> </span>
+
+# <span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">A parallel:  Organic Food, a temporary phenomenon?</span>
+
+<span lang="EN-GB">So called organic food is in Sweden pushed by an organization for producers and strongly backed by ENGOs and the government. Today such food has a limited part of the market, but is in increasing demand.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">There is a debate as to whether organic food actually is a sustainable solution. According to the Centre for Sustainable Farming at the University of Agriculture organic food is questioned and studied. The director believes that the role for the special organic food will vanish, as all farming will become more and more sustainable and organic farming will be adapted to new scientific knowledge. However, he says, the awareness created by the drive for organic food and the ensuing discussion has pushed all farming in a more sustainable direction. Once there, organic food will no longer have a separate market. </span> <span lang="EN-GB" style="font-size: 9.0pt">(Andersson, R, 2002)</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">How will the certification drive develop?</span>
+
+<span lang="EN-GB">One possible outcome is that certification achieves a limited penetration of the market. Let us say 2 15 % of the traded volumes. Today it is at around 2 %. Alternatively, a certificate may be required for most wooden products.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Another aspect is the number of certification schemes. We may have one dominating scheme (as is the ambition of FSC) or a number of different schemes, such as PEFC, SFI, CSA and so on. We can sketch four alternative scenarios for the role of certification on the wood market.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">                        </span> <span lang="EN-GB" style="font-size: 10.0pt">Penetration of certification</span>
+
+<span lang="EN-GB">                        **<u>Limited           Considerable</u>**</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB" style="font-size: 10.0pt">Number of</span><span lang="EN-GB">          **Several**       Today      Likely in future. </span> <span lang="EN-GB" style="font-size: 10.0pt">Decreasing importance?</span>
+
+<span lang="EN-GB" style="font-size: 10.0pt">certification           <u>                                Or will certification be  compulsory?</u></span>
+
+<span lang="EN-GB" style="font-size: 10.0pt">systems</span>
+
+<span lang="EN-GB">               </span>        <span lang="EN-GB"> **<u>Just one</u>**<u>      1990s   Monopoly for one system</u></span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">The development today shows slowly increasing market penetration. Maybe this is subject to the paradox:  *The more successful the certification the less its importance*</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">The number of certification schemes is a scene of conflict. One or several systems? </span>
+
+<span lang="EN-GB">One possible outcome is that as certification grows, tensions and interest will decrease. Consequently it would play a more marginal role in the future: Decreasing importance.</span>
+
+<span lang="EN-GB">The consumers will get over the threshold of viewing wood as acceptable.</span>
+
+<span lang="EN-GB">And then the consumer will as usual go for product, price and quality.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">A diversified market scenario in Europe and North America</span>
+
+<span lang="EN-GB">We may elaborate on these scenarios. The large dealers (</span><span lang="EN-GB" style="font-size: 10.0pt">B & Q and Sainsbury in UK, Home Depot and Lowe in US</span><span lang="EN-GB">) today pushing certification as a competitive tool may continue so. They only want very large suppliers, such as AssiDomn, Finnforest etc. They might stick to certification.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">The final customers seldom ask for labels. But the big dealers figure on developing this as a market argument to strengthen their image. This scenario is supported by a study from Worcester University </span><span lang="EN-GB" style="font-size: 10.0pt">(Wallberg, 2001</span><span lang="EN-GB">).</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">At the same time many small dealers and woodworkers do not ask for certification, because their customers dont. And thus many sawmills dont need certification, which is what Swedish saw mills claim today, according to our studies. We may come to see the following diversified outfall:</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>                                        <span lang="EN-GB">     </span>
+
+<span lang="EN-GB">     </span><span lang="EN-GB" style="font-size: 10.0pt">Use of certification and labels</span>
+
+     **<u>Little             <span lang="EN-GB">very much</span></u>**
+
+<span lang="EN-GB">            </span>
+
+<span lang="EN-GB" style="font-size: 10.0pt">Forest owners,</span><span lang="EN-GB">   </span>**    <span lang="EN-GB">Large</span>**<span lang="EN-GB"><span lang="EN-GB">  </span></span>         <span lang="EN-GB">Bulk       </span>        <span lang="EN-GB">Assi Domn</span>
+
+<span lang="EN-GB" style="font-size: 10.0pt">sawmills, cabinet                 </span><span style="font-size: 10.0pt">  </span> <span lang="EN-GB" style="font-size: 10.0pt">  </span><span style="font-size: 10.0pt"> </span><span lang="EN-GB" style="font-size: 10.0pt">             </span> <u><span style="font-size: 10.0pt">               </span>          <span lang="EN-GB"> producers     </span></u>
+
+<span lang="EN-GB" style="font-size: 10.0pt">makers etc</span><span lang="EN-GB">.</span>
+
+<span lang="EN-GB">                        </span>**  <span lang="EN-GB">Small</span>**<span lang="EN-GB"><span lang="EN-GB">   </span></span>         <span lang="EN-GB">Most small      Some niche</span>
+
+<span lang="EN-GB">                        </span>                       <u><span lang="EN-GB">Private    </span>        <span lang="EN-GB">manufacturers</span></u>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">Labelling or not?</span>
+
+<span lang="EN-GB">Once certified, forest owners, whether family foresters, corporations, municipalities, churches or state agencies, may publicly announce their status. This improves their image and it may help improve the image of forestry in general.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Another thing is to have a label on each piece of wood, on each plank, on each package of moulding and on each chair. The right to such labelling requires the dealer to prove that the pieces of wood in the product actually come from certified forests. The wood has to be traced through the sawmill and the subsequent steps of processing. The wood has to be separated from non-certified wood. This chain-of-custody control requires considerable administration.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Whether the consumers will demand labelling and thus justify the cost of chain-of-custody is not yet known. If the public view of forestry in a country or in a larger area, such as the Nordic countries or all of Europe, is favourable then a declaration of origin may be adequate.</span>
+
+<span lang="EN-GB">The general outfall of the current debate, of certification processes, of government activities, evaluations, scientific research on sustainability and biodiversity etc. will determine the potential importance of labelling. Practices in the forests are influenced and so is the public perception thereof.  </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">A reservation:  Will organizations overtake the market?</span>
+
+<span lang="EN-GB">The reasoning above rests mainly on indications of lacking interest in certification from the end consumer. However, organizations may intervene. Political bodies, e.g. many municipalities, have decided to demand certified wood in their procurements. The motivation may be a concern over forestry or it may be a political will to appear environmentalist in the eyes of the voters. Such organizational interventions may underpin a stronger position for certification than my consumer-based indications suggest.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Another factor may be the activities of so called buyersgroups, i.e. cartels of dealers acting collectively demanding a certain kind of certification as a condition for purchase of wood. If such groups come to represent a significant part of a market, those selling wood may be forced to commit themselves to a certain certification scheme.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">A completely different role in the third world</span>
+
+<span lang="EN-GB">In the **third world** certification may be a powerful tool to influence management and counteract e.g. illegal logging. Maybe it is indispensable there in the absence of effective government tools and maybe lacking a tradition of sustainable forest management.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">The role of certification is and should be - different in different countries, due to their diverse institutions, traditions and cultures. Studies indicate that certification does already play different roles in different countries, for instance:</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">-<span style="font:7.0pt &quot;Times New Roman&quot;">         </span>A communication and marketing tool (Europe and US)</span>
+
+<span lang="EN-GB">-<span style="font:7.0pt &quot;Times New Roman&quot;">         </span>A tool to spread knowledge and awareness to foresters (the Baltic countries)</span>
+
+<span lang="EN-GB">-<span style="font:7.0pt &quot;Times New Roman&quot;">         </span>In Poland a tool used by government officials to stop privatisation and to regain a reputation for responsible forestry tarnished by practices in later decades. (</span><span lang="EN-GB" style="font-size: 10.0pt">IIED, 2000</span><span lang="EN-GB">).</span>
+
+<span lang="EN-GB">-<span style="font:7.0pt &quot;Times New Roman&quot;">         </span>An instrument to force foresters, companies and governments to practice sustainable forestry (Thailand? Indonesia?).</span>
+
+<span lang="EN-GB">-<span style="font:7.0pt &quot;Times New Roman&quot;">         </span>A vehicle to promote local community self-reliance (e.g. in Africa).</span>
+
+<span lang="EN-GB" style="font-size: 10.0pt">-<span style="font:7.0pt &quot;Times New Roman&quot;">          </span></span><span lang="EN-GB">In Brazil certification is being used by large corporations, while local communities so far have been denied certification </span><span lang="EN-GB" style="font-size: 10.0pt">(personal communication). </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+**<span lang="EN-GB">A final remark</span>**
+
+<span lang="EN-GB">Certification is a strong tool. Its role and use in the future is not an issue only for a few organizations and market actors to determine. It is a broader issue for different authorities (national and super-national) to watch. It has to do with legal protection, equal treatment, transparency, avoiding unfair practices etc. And it is an issue for the final consumer.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">The somewhat critical issues and questions I have raised may be taken as if I am against certification. I am not. But I see that a sound development of certification does require that  issues raised are addressed openly. </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+# <span lang="EN-GB">REFERENCES</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Andersson, Rune, Director of the Centre for Sustainable Farming at the University of Agriculture in the radio program *P 1 Konsument*  </span><span lang="EN-GB" style="font-size: 10.0pt">(Program One, the Consumer</span><span lang="EN-GB">) on Radio Sweden, February 6, 2002. </span>
+
+**<span lang="EN-GB"> </span>**
+
+<span lang="SV">Auln, Gustaf, & Bleckert, Stefan, Skogsduvan. *verbyggnadsdokument mellan svenska PEFC och FSC standarder*. </span><span lang="EN-GB" style="font-size: 10.0pt">(The Forest Dove. Bridging document between Swedish PEFC and FSC standard</span><span lang="EN-GB">s). </span><span lang="SV">Stockholm, 2001.  </span>
+
+**<span lang="SV"> </span>**
+
+<span lang="EN-GB">Ericsson, Daniel, *En studie av varumrkens och egenskapsmrkningens funktioner,* </span> <span lang="EN-GB" style="font-size: 10.0pt">(A study of  the functions of brand names and quality labelling</span><span lang="EN-GB">), Business department, University of Gvle, Work in progress, 2002.</span>
+
+<span lang="EN-GB">  </span>
+
+<span lang="EN-GB">Ericsson, T. Staffan, *Culture within Nature. Key areas for interpreting forest history in boreal Sweden*, Doctoral Thesis, SLU, Ume, 2001 </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">FAO, *State of the Worlds Forests 2001*, Rome, 2001.</span>
+
+**<span lang="EN-GB"> </span>**
+
+<span lang="EN-GB">FSC, Forest Stewardship Council, *FSC-rdet freslr flttest av Skogsduvan*, </span> <span lang="EN-GB" style="font-size: 10.0pt">(FSC Council suggests field test of the Forest Dove</span><span lang="EN-GB">) Pressrelease, Uppsala, January 21, 2002.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB" style="font-size: 12.0pt">Forsberg, E. & Olsson, C., *Konsumenters attityder till och kunskaper om tr, skogsbruk samt miljcertifiering - en jmfrelse mellan Sverige och England*, </span> <span lang="EN-GB">(Consumer attitudes to and knowledge about wood, forestry and environmental certification - a comparison between Sweden and England</span><span lang="EN-GB" style="font-size: 12.0pt">), Business Department, thesis nr 100-01, University of Gvle, Sweden 2001.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Forsn, Martin, *The purchasers view of certification of wood*, Thesis work in progress, Faculty of Forestry, Swedish Agricultural University, Uppsala, Sweden 2002.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">IIED, *Certifications impacts on forestry, stakeholders and supply chains*, Draft, London, November 11, 2000.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Klingberg, Tage, *A European Approach to Certification of Forestry: To Foster a Tradition of Responsibility,* Presentation at University of British Columbia, May 8 12, 2001 (in press).</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Krn, Jari et al, *Green marketing of Sawn Timber and Wood Based Panels in Finland and Sweden*, in the Journal of Forest Economics, Ume, Sweden, </span> <span lang="EN-GB" style="font-size: 9.0pt">number 2, 2001, pages 145 168</span><span lang="EN-GB"> </span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">Miller, Norman, *Environmental politics. Interest Groups, the Media and the Making of Policy,* Lewis Publishers, 2002.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="SV">Nilsson, Sven et al, *Gles skog och fler gamla lvtrd*, </span><span lang="SV" style="font-size:10.0pt">(Sparse forests and more old deciduous trees),</span><span lang="SV"> in Skog och Forskning, Stockholm, nr 3, 2001, pages 20 25.</span>
+
+<span lang="SV"> </span>
+
+<span lang="EN-GB">NIS Newsletter number 3, 2002, from <a href="mailto:nis@forestry.se" style="color: blue; text-decoration: underline; text-underline: single">nis@forestry.se</a>.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB">PEFCC Newsletter,March 2002, www.pefc.org.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="EN-GB" style="font-size: 12.0pt">Ryhn, Anders, A study of consumer attitudes toward branding of wood, Thesis work in progress for a bachelors degree, Business Department, University of Gvle, Sweden 2002.</span>
+
+<span lang="EN-GB"> </span>
+
+<span lang="SV">Skogsstyrelsen, *Skogsvrdsorganisationens utvrdering av skogspolitikens effekter, SUS 2001,* </span><span lang="SV" style="font-size:10.0pt">(The Forest Policy Evaluation made by the Forest Authorities  2001),</span><span lang="SV"> Jnkping, 2001.</span>
+
+<span lang="SV"> </span>
+
+<span lang="SV">Wallberg, P., *Konsumenter efterfrgar inte certifierat tr*, (</span><span lang="SV" style="font-size:10.0pt">Consumers dont ask for certified wood</span><span lang="SV">), NTT Tr, nr 9, 2001, page 9.</span>
+
+<span lang="SV"> </span>
+
+03/14/02
+
+A debate in Congress over how to solve the Klamath Basins water battles led Wednesday to a discussion about what constitutes good science and revising the Endangered Species Act.
+
+At a sometimes testy hearing of the House Resources Committee, Re-publicans said the Endangered Species Act now lets the federal government make decisions that may not be based on sound science. Some called for more peer review and better scientific justification for natural resource decisions.
+
+The Republicans pointed to a recent National Academy of Sciences report about the Klamath Basin, which concluded that the science didnt back up the governments decision to cut off water to farmers last year in order to protect threatened and endangered fish in the region.
+
+Rep. Wally Herger said the water was taken based on the speculation of federal biologists.
+
+This situation is the poster child for the need to update the Endangered Species Act, said Herger, a Republican whose district includes Modoc and Siskiyou counties. How much balance (is there) when they get zero water?
+
+Environmentalists and some Democrats, who were not allowed to invite witnesses to the hearing, have questioned the validity of the National Academy of Sciences report, suggesting that the academy asked the wrong question.
+
+They say rather than looking at whether the government cut off water based on adequate science, the academy should have asked if the government used the best available science, as required under the Endangered Species Act.
+
+In many cases, we have little science because these species are so rare, said Susan Holmes, endangered species policy expert for Earthjustice. We cant wait for perfect science.
+
+William Lewis, chairman of the National Academy of Sciences committee on endangered and threatened fishes in the Klamath Basin, stood by the academys report.
+
+We evaluated the scientific elements of the biological opinions, considered documents and testimony, and put our consensus opinion in the report, he said. We found that the recommendations on water levels werent well enough supported.
+
+He explained that experts, kept anonymous so they can speak freely, reviewed the report and the committee dealt with each point the reviewers raised to ensure completeness and accuracy.
+
+We havent precluded the possibility that someone could prove that the water levels are needed, he said. Scientific matters of this type are never finally settled.
+
+Lewis said, however, the government needs to take actions recommended years ago for the fish, including installing fish screens to cover irrigation canals and removing a dam to allow better fish passage.
+
+Were hung up on issues related to water management, Lewis said.
+
+Rep. Greg Walden, whose district takes in the Klamath Basin on the Oregon side, has offered legislation that would hold the government to a higher scientific standard before making endangered species decisions. He said Congress should consider changing the Endangered Species Act to require peer review and other new standards no matter what happens in the Klamath Basin.
+
+That is a separate issue, he said.
+
+Tensions were high last year in the Klamath Basin when a drought left farmers, ranchers, fishermen, tribes and environmentalists fighting for a short supply of water. The Bureau of Reclamation, which runs an irrigation network serving 240,000 acres, had to sharply reduce deliveries to farmers to protect endangered sucker fish and threatened coho salmon.
+
+Some farmers and anti-government protesters broke open the head gates to the irrigation canals on Independence Day to release a trickle of water.
+
+The water problems are hardly isolated to the Klamath, though. Rep. George Miller, R-Calif., said people across the country, including the Central Valley in California, have water disputes that must be solved.
+
+It is happening over and over again as we get competing uses for this water, Miller said. You cannot make a decision in the West and think it confined to that basin, or that river, or that reservoir.
+
+**\* \* \***
+
+03/14/02
+
+A debate in Congress over how to solve the Klamath Basins water battles led Wednesday to a discussion about what constitutes good science and revising the Endangered Species Act.
+
+At a sometimes testy hearing of the House Resources Committee, Re-publicans said the Endangered Species Act now lets the federal government make decisions that may not be based on sound science. Some called for more peer review and better scientific justification for natural resource decisions.
+
+The Republicans pointed to a recent National Academy of Sciences report about the Klamath Basin, which concluded that the science didnt back up the governments decision to cut off water to farmers last year in order to protect threatened and endangered fish in the region.
+
+Rep. Wally Herger said the water was taken based on the speculation of federal biologists.
+
+This situation is the poster child for the need to update the Endangered Species Act, said Herger, a Republican whose district includes Modoc and Siskiyou counties. How much balance (is there) when they get zero water?
+
+Environmentalists and some Democrats, who were not allowed to invite witnesses to the hearing, have questioned the validity of the National Academy of Sciences report, suggesting that the academy asked the wrong question.
+
+They say rather than looking at whether the government cut off water based on adequate science, the academy should have asked if the government used the best available science, as required under the Endangered Species Act.
+
+In many cases, we have little science because these species are so rare, said Susan Holmes, endangered species policy expert for Earthjustice. We cant wait for perfect science.
+
+William Lewis, chairman of the National Academy of Sciences committee on endangered and threatened fishes in the Klamath Basin, stood by the academys report.
+
+We evaluated the scientific elements of the biological opinions, considered documents and testimony, and put our consensus opinion in the report, he said. We found that the recommendations on water levels werent well enough supported.
+
+He explained that experts, kept anonymous so they can speak freely, reviewed the report and the committee dealt with each point the reviewers raised to ensure completeness and accuracy.
+
+We havent precluded the possibility that someone could prove that the water levels are needed, he said. Scientific matters of this type are never finally settled.
+
+Lewis said, however, the government needs to take actions recommended years ago for the fish, including installing fish screens to cover irrigation canals and removing a dam to allow better fish passage.
+
+Were hung up on issues related to water management, Lewis said.
+
+Rep. Greg Walden, whose district takes in the Klamath Basin on the Oregon side, has offered legislation that would hold the government to a higher scientific standard before making endangered species decisions. He said Congress should consider changing the Endangered Species Act to require peer review and other new standards no matter what happens in the Klamath Basin.
+
+That is a separate issue, he said.
+
+Tensions were high last year in the Klamath Basin when a drought left farmers, ranchers, fishermen, tribes and environmentalists fighting for a short supply of water. The Bureau of Reclamation, which runs an irrigation network serving 240,000 acres, had to sharply reduce deliveries to farmers to protect endangered sucker fish and threatened coho salmon.
+
+Some farmers and anti-government protesters broke open the head gates to the irrigation canals on Independence Day to release a trickle of water.
+
+The water problems are hardly isolated to the Klamath, though. Rep. George Miller, R-Calif., said people across the country, including the Central Valley in California, have water disputes that must be solved.
+
+It is happening over and over again as we get competing uses for this water, Miller said. You cannot make a decision in the West and think it confined to that basin, or that river, or that reservoir.
+
+**\* \* \***
+
+**<a href="issues.htm" style="text-decoration: none">RETURN TO ISSUES TOP PAGE</a>**
+
+**<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**

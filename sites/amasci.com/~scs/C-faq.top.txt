@@ -1,0 +1,110 @@
+comp.lang.c Frequently Asked Questions 
+
+ comp.lang.c Frequently Asked Questions 
+ This collection of hypertext pages is Copyright 1995 by Steve Summit.
+Content from the book ``C Programming FAQs: Frequently Asked Questions''
+(Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by
+permission of the author and the publisher as a service to the community.
+It is intended to complement the use of the published text
+and is protected by international copyright laws. The content is
+made available here and may be accessed freely for personal use
+but may not be published or retransmitted without written permission.
+ This page is the top of an HTML version of the Usenet
+comp.lang.c Frequently Asked Questions (FAQ) list.
+An FAQ list is a collection of questions commonly asked on Usenet,
+together with presumably definitive answers,
+provided in an attempt to keep repeated questions
+on the newsgroup
+down to a low background drone
+so that discussion can move on to more interesting matters.
+Since they distill knowledge gleaned from many sources
+and answer questions which are demonstrably Frequent,
+FAQ lists serve as useful references
+outside of their originating Usenet newsgroups.
+This list is, I dare to claim, no exception,
+and the HTML version you're looking at now,
+as well as other versions referenced
+just below,
+are intended to be useful to C programmers everywhere.
+
+Several
+ other versions 
+of this FAQ list are available,
+including a
+ book-length version 
+published by
+ Addison-Wesley .
+(The book, though longer,
+also has a few more errors;
+I've prepared an
+ errata list .)
+See also question 20.40 .
+ Like so many web pages,
+this is very much a ``work in progress.''
+I would, of course, like it if it were perfect,
+but it's been two years or so
+since I first started talking about putting this thing on the web,
+and if I were to wait until all the glitches were worked out,
+you might never see it.
+Each page includes a ``mail feedback'' button,
+so you can help me debug it.
+(At first,
+you don't have to worry about reporting minor formatting hiccups;
+many of these result from lingering imperfections
+in the programs that generate these pages,
+or from the fact that I have not exhaustively researched
+how various browsers implement the HTML tags I'm using,
+or from the fact that I haven't gone the last yard
+in trying to rig up HTML that looks good
+in spite of the fact that HTML doesn't have
+everything you need to make things look good.)
+ These pages are synchronized with
+the posted Usenet version
+and the Addison-Wesley book version.
+Since not all questions appear in all versions,
+the question numbers are not always contiguous.
+ [Note to web authors, catalogers, and bookmarkers:
+the URL <http://www.eskimo.com/~scs/C-faq/top.html> is
+the right way to link to these pages.
+All other URL's implementing this collection
+are subject to change.]
+ You can browse these pages in at least three ways.
+The table of contents below is of the list's major
+sections; these links lead to sub-lists of the questions for
+those sections.
+The ``all questions'' link leads to a list of
+all the questions; each question is (obviously) linked to its answer.
+Finally,
+the ``read sequentially'' link leads to the first
+question; you can then follow the ``next'' link at
+the bottom of each question's page to read through all of the
+questions and answers sequentially.
+ Steve Summit 
+ scs@eskimo.com 
+
+ 1. Declarations and Initializations 
+ 2. Structures, Unions, and Enumerations 
+ 3. Expressions 
+ 4. Pointers 
+ 5. Null Pointers 
+ 6. Arrays and Pointers 
+ 7. Memory Allocation 
+ 8. Characters and Strings 
+ 9. Boolean Expressions and Variables 
+ 10. C Preprocessor 
+ 11. ANSI/ISO Standard C 
+ 12. Stdio 
+ 13. Library Functions 
+ 14. Floating Point 
+ 15. Variable-Length Argument Lists 
+ 16. Strange Problems 
+ 17. Style 
+ 18. Tools and Resources 
+ 19. System Dependencies 
+ 20. Miscellaneous 
+ Bibliography 
+ Acknowledgements 
+
+ All Questions 
+
+ Read Sequentially

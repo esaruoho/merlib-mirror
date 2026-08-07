@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="predictions.css" type="text/css"?>
+
+<article>
+<title>JohnnyB Predicts the Future</title>
+<date>2002/03/29</date>
+
+<intro>
+I have been watching the computer industry closely for a while, and believe this year to be a landmark year.  Therefore, I am going to make some predictions about where I think we are headed in the next two to three years, and we can see if I'm right or just full of hot air.
+</intro>
+
+<prediction>
+<title>Linux will be looked at by everyone this year, but the heavy rollouts won't occur until next year</title>
+<explanation>
+With the recent set of announcements by Red Hat, everyone knows that using Linux can be an easy way to trim your IT budget.  Everyone's company is having a tough year, so everyone will be looking at this as an option.  However, due to how long things take in the IT industry, noone will actually do anything about it until mid-2003.  Even all-Microsoft shops will start seeing how they are continually being drained of cash for the smallest of projects.
+</explanation>
+</prediction>
+
+<prediction>
+<title>Microsoft will market aggressively directly against UNIX and Linux.  This will do more to teach people about the existance of UNIX and Linux than it will help Microsoft compete against them.</title>
+<explanation>
+Microsoft has long presented itself as the only way.  When presenting comparisons between systems, especially to the masses, it has always been Windows (old) vs. Windows (new).  This has helped reinforce the idea in the public's mind that there is only Windows and nothing else.  The fact that Microsoft will be mentioning UNIX and Linux in ads will only help legitamize the competition.  It also shows that they are now playing from a position of weakness rather than strength.
+</explanation> 
+</prediction>
+
+<prediction>
+<title>Sun will become even more important in the global market.</title>
+<explanation>
+Sun has seen the writing on the wall.  They now know they can't sell high-end UNIX servers for every task.  They have started diversifying their products so that they can sell to all levels.  Although their sales may go down in the short run, this will keep them a major player in the computer field for a long time to come.  Their release of StarOffice 6.0 will have a major influence internationally because of how much they will be able to undercut Microsoft Office.  In the U.S., you probably won't see a lot of traction for this product for a few years.  However, if StarOffice takes off internationally, you will find that Microsoft either has to take their competitor into account, or risk losing business in the U.S. because of inability to interoperate with globally-used standards.  Sun's adoption of Linux on the low-end will make them a one-stop shop for all IT infrastructure hardware needs.
+</explanation>
+</prediction>
+
+<prediction>
+<title>Web Services will only make money for those doing supply-chain integration with brick-and-mortar businesses.  It will not profit anyone who uses web services as the sole moneymaker for the company.</title>
+<explanation>
+There are several things to note about web services.  First of all, they aren't new.  People have been using these concepts for a long time, using technologies like CORBA, RDF, and XML-RPC.  The new SOAP/WSDL/UDDI "web services" model is just one in a long line of models, and does not have nearly the number of features present in older technologies like CORBA.  Developers know this, but will use SOAP anyway because of it's hype-factor that is propelling it's adoption.  However, companies basing their business on creating web services for pay are going to go flat.  Web services are only really useful for making an API on top of an existing web site.  It is useful because it allows other companies to integrate their ERP software seamlessly into your website.  For example, imagine library requests for books being automatically routed to Barnes&amp;Nobel straight from the user's "approve" button.  This increases profits for Barnes&amp;Noble because they get all of the sales, and simplifies the purchasing process for the library.  The idea that people are going to develop some sort of portal for "soft" web services (like event notification, calendaring, etc) and makes lots of money off of it are dreaming.  What company will be the primary supplier of web service software?  Unless other companies do better at advertising their stuff, it will probably go to Microsoft.
+</explanation>
+</prediction>
+
+<prediction>
+<title>The next killer app will be the PDA.</title>
+<explanation>
+Yes, I know that PDAs are already in heavy use.  However, their usage will expand almost exponentially as businesses discover their potential as data entry and retrieval devices for people in the field.  People will write custom applications for construction workers, interior designers, and a number of other fields where the workers are not in offices.  This will probably be where most of the money in development will go to.
+</explanation>
+</prediction>
+
+<prediction>
+<title>In five years, Linux (or another free UNIX) will be the dominant force on the business desktop, and Apple will be in an even stronger #2 position than it is today.</title>
+<explanation>
+The growth and maturation of the Linux desktop is nothing short of phenomenal.  In the same period of time that has been put into the open-source desktops, Microsoft was only barely able to put out Windows 3.1.  You might say it was because open-source was just cloning Windows, but on the other hand Windows was just cloning Macintosh.  Python/Gnome will become the easy-to-use environment like Visual Basic was on Windows.  Business users just need to get their work done, and Linux will show that it is the most cost-effective way to do that.  However, creative people will still prefer and be more productive with Apple solutions.  Microsoft will probably still be the dominant player on the home desktop, but will start to have competition.
+</explanation>
+</prediction>
+
+<prediction>
+<title>Within three years web developers will have tired of doing anything with HTML, and finally move to XML with stylesheets.</title>
+<explanation>
+Well, I know I'm tired of writing HTML.  XML makes my documents a whole lot easier to comprehend and keep up with.  I'm not real fond of any of the style-sheet languages out there, but I imagine both CSS and XSL will improve.  You really need a full programming language like DSSSL to do it right, but I don't see that happening.  Maybe it will happen with JavaScript.  Who knows.  All I know is that from the developer's side, XML is so much nicer.
+</explanation>
+</prediction>
+
+</article>

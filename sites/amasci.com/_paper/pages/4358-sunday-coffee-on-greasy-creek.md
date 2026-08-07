@@ -1,0 +1,45 @@
+---
+title: "Sunday Coffee on Greasy Creek"
+source_domain: amasci.com
+source_path: ~knapper/sunday_coffee on greasy creek.htm
+order: 4358
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T05:57:28Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Sunday Coffee on Greasy Creek
+
+*Source page: `~knapper/sunday_coffee on greasy creek.htm`*
+
+Sunday Coffee on Greasy Creek
+
+By Dane Martin
+
+ 
+
+I was sitting on the front porch looking at the fall colors, watching the leaves fall and mussing about the peoples who lived here for the last 9000 years. I wondered to myself what it was like to walk down the Creek, find a choice piece of flint, and make it into an arrowhead. Then to use that point to kill a deer or elk.
+
+My day-dreaming was interrupted when Richard Felter, our neighbor from the north, arrived for coffee. Before the coffee was cool enough to drink, Ralph and Vicki Conrad, our neighbors from the south, showed up. We sat and chewed the fat with the normal topics: weather, health, jobs, etc. But of course when you live in an area that is a hot bed for knapping, the conversation always turns to the subject of stone.
+
+First it was the different materials each of us had found of late, then about Mike Gramly coming to the Holler for a test dig, then the really good stuff. We hung on each word as Ralph relayed to us what he had been doing and how it all came out.
+
+Not only is Ralph a Master Knapper but a fine Bowyer in his own right, and one of the best hunters that I know of, with primitive gear. He has a deep abiding love of wildlife, and this year as in others, he puts out feed plots. During the off season he feeds both the deer and turkey in our area. He loves to just see them, but his real passion is to STICK one!
+
+Seems as though a few weeks ago, he was walking on the Creek and found a useable piece of flint. Since the flint here is always small, it would still make a good arrowhead. But with Ralph, good is never good enough. So he decided to try something a little different. Instead of the usual arrowhead, he made a slightly modified Calf Creek point, just small.
+
+The point was made in the usual pattern but he put both notches very close together. The stem width was about the same as the diameter of the Dogwood shaft that he was going to use for the arrow. The point was smaller than a standard Calf Creek, but slightly larger than the average arrowhead.
+
+Ralph likes to hunt with a heavy, self-made bow (Ralph is a big tall guy) and even thought the arrow would weigh in at a little above normal weight. He didnt mind as he was going to hunt from a high stand, so the distance would be short and almost straight down. When everything was ready he used the stand that he had prepared, and the hunt was on.
+
+Shortly before dark, Ralph was greatly surprised to see not one but two, eight point bucks approaching the stand. The first one managed to get past the stand without Ralph getting a shot, but the second one didnt. He used the stone tipped arrow and with a clean shot knocked the deer down. While waiting for the first deer to bed and bleed out, the second deer doubled back and came under the stand. Ralph shot him with another stone tipped arrow.
+
+When he recovered the arrow, the point had been snapped off the shaft at the stem, as it was the weakest point. For those of you who make your own arrows, you might want to try this approach.
+
+The story made for great conversation and coffee. I could all but smell a venison steak cooking on the fire. Sure made my Sunday, bet those ancient people loved it too.
+
+<img src="images/sunday1.jpg" data-border="0" width="245" height="263" />
+
+*Ralph Conrads two arrow hunting points.*

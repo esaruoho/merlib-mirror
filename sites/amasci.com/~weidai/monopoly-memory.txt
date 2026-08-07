@@ -1,0 +1,44 @@
+Consider a two-period game between a monopolist and a buyer.  Let's assume
+in each period the monopolist can produce an item for sale at zero cost
+and its knowledge about the buyer's valuation of the item is described by
+a uniform distribution over [0,1].  In each period the monopolist offers a
+price to sell the item and the buyer can either accept or reject it.
+
+First let's consider when the monopolist cannot tell that the buyer is the
+same person in the two periods.  Then of course we simply have a
+two-period repetition of the classical monopoly in which the monopolist's
+profit is maximized at p=0.5 in each period.  The seller's expected profit
+is 0.5, the buyer's expected surplus is 0.25.
+
+Now let's consider when the monopolist knows that the same buyer is in
+both periods.  In this case (we assume) the monopolist knows that the
+buyer's valuation for the item is the same in both periods.  Therefore he
+can use the information he learns about that valuation in the first period
+to set the price for the second period.  I claim the following is a
+perfect baysian equilibrium for this game:
+
+Buyer's strategy: If in period 1 valuation (v) >= twice seller's offer
+(2*p1), then accept, otherwise reject.  If valuation >= second period
+offer, then accept in period 2, otherwise reject.
+
+Seller's beliefs: If buyer accepts in period 1, then buyer's valuation is
+distributed uniformly over [2*p1, 1], otherwise it is distributed
+uniformly over [0, 2*p1].
+
+Seller's strategy: In period 1 offer p1=3/10.  If the buyer accepts, offer
+6/10 in period 2, otherwise offer 3/10 in period 2.
+
+To verify this, note that the seller's second period strategy simply
+involves maximizing his 2nd period expected profit given his posterior
+beliefs.  Then it is easy to check that p1=3/10 maximizes his expected
+total profit given his second period strategy.  The seller's beliefs are
+clearly consistent with the buyer's strategy.  The buyer's strategy in
+period 2 is obvious.  In period 1 he can not gain by deviating because if
+he accepts, his utility is 2*v-3*p1, otherwise it is max(0, v-p1). 
+
+Now we can see some counterintuitive results by looking at the expected
+outcome.  The seller's expected profit is now 0.45 and the buyer's
+expected surplus is 0.325.  The total surplus has increased from 0.75 to
+0.775 as we expected from the improved information gathering/utilization.
+But surprisingly the seller is actually *worse off*, whereas the buyer is
+much better off.

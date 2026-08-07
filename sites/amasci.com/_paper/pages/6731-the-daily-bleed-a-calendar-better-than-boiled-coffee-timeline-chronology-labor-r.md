@@ -1,0 +1,414 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0504.htm
+order: 6731
+reachable_from_entry: false
+images: 25
+internal_links: 0
+extracted: 2026-08-07T05:59:31Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0504.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+**MAY 4**
+
+MAURICE MERLEAU-PONTY\
+French existential phenomenologist, commie fellow-traveler.
+
+
+
+> > *The world is... the natural setting of, & field for, all my thoughts & all my explicit perceptions. Truth does not "inhabit" only "the inner man," or more accurately, there is no inner man, man is in the world, & only in the world does he know himself.*
+> >
+> >  Phenomenology of Perception
+
+
+
+  
+
+> 
+>
+> ------------------------------------------------------------------------
+>
+> Prophet Mohammed's TRIP TO HEAVEN & BACK.
+>
+> DANDELION FESTIVAL in Dover, Ohio; principally a dandelion recipe exposition.
+>
+> ------------------------------------------------------------------------
+>
+> []()\
+> []()\
+> \
+> 1493 -- Alexander VI divides non-Christian world between Spain & Portugal. []()\
+> []()\
+> \
+> 1494 -- Arawaks of Jamaica discover European invaders.
+>
+> > Author Penny Slinger depicts the Arawaks' daily life, ceremonial rituals, body decorating, dream landscapes, & voyages. Sensual, mysterious & magical, Visions of the Arawaks conveys a romantic, but tangible feeling of a communal way of life among this matriarchal people so gentle they had no word for war.
+> >
+> > *"I feel a spiritual homesickness for the world of the Arawaks,"*she says.
+> >
+> > *"They lived in harmony with nature & honored the spirit in all things. It is not only their culture we need to uncover, but a part of ourselves."*
+>
+>  []()\
+> []()\
+> \
+> 1527 -- Shohaku dies. Japanese scholar/author of the late Muromachi period (1338-1573), notable for waka & renga (linked-verse) poetry. []()\
+> []()\
+> \
+> 1796 -- William Prescott lives (1796-1859). When he was at Harvard "a crust of bread thrown during a melee in the student commons caused virtual blindness in his left eye" (Britannica). \
+> [\[More on Prescott, click here\]](http://recollectionbooks.com/bleed/05ref.htm#4/4/1796) []()\
+> []()\
+> \
+> 1825 -- England: T. H. Huxley lives. Foremost British popularizer of Darwin's theory of evolution. His investigations in comparative anatomy, paleontology, & evolution exerted a great influence on the 19th century biology. Grandfather of biologist Julian Huxley & writer Aldous Huxley.\
+> <http://robin-nvh.bvsd.k12.co.us/~pfouts/utopian/Huxley.html>\
+> <http://www.island.org/>\
+> \
+> <img src="http://recollectionbooks.com/siml/images/Images/Chicago.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="263" height="332" alt="?" />\
+> 1886 -- US: Haymarket Square Bombing. A bomb kills seven Chicago cops as they attack demonstrators at a rally protesting police brutality yesterday at McCormick Reaper Works. 
+>
+> > <img src="http://perso.club-internet.fr/ytak/images/haymarket.gif" data-border="0" data-hspace="10" data-vspace="10" width="181" height="133" alt="?" />
+> >
+> > Eight including speakers at the meeting are arrested. Four anarchists (August Spies, Albert Parsons, Adolph Fischer & George Engel) were subsequently hanged for murder after a show trial & another (Louis Lingg) killed himself. No evidence linking them with the bombing has ever been found & the Chief of police manufactured his own evidence. Illinois governor John P. Altgeld denounced the trial as a travesty & pardoned some (knowingly destroying his political career).
+> >
+> > [\[More Details, click here\]](http://recollectionbooks.com/bleed/05ref.htm#4/1886)
+>
+> > 'There will come a time when our silence will be more powerful than the voices you are strangling to-day'
+> >
+> >  Albert Spies
+> >
+> > []()\
+>
+> \
+> []()\
+> \
+> 1886 -- US: In Milwaukee, meanwhile, members of the Polish Assembly of the Knights of Labor march from St. Stanislaus Church to the North Chicago Rolling Mills, shutting down factories on their way. The combined forces of city & county cops are unable to stop the march, & the sheriff requests National Guard troops.\
+> [\[Details, click here\]](http://recollectionbooks.com/bleed/05ref.htm#4/1886b) []()\
+> []()\
+> \
+> 1887 -- US: First modern communitarian experiment in Washington State: Puget Sound Cooperative Colony founded at Port Angeles. []()\
+> []()\
+> \
+> <img src="http://www.crimelibrary.com/forensics/crime/images/BE030975-Basil-Rathbone-as-.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="150" height="132" alt="Where&#39;s the Coke?" />\
+> 1891 -- Disappearance of Sherlock Holmes, Reichenbach.\
+> []()\
+> []()\
+> \
+> 1895 -- France: First appearance of Jean Grave's weekly magazine of "Les Temps Nouveaux", which, until August 8, 1914, is a formidable journal of anarchist ideas & propaganda. Grave collected many talented artists, illustrators & writers to contribute over the years.
+>
+> > 4 mai.- Premier numro du journal de l'anarchiste Jean Grave, Les Temps nouveaux.
+> >
+> > See "A Visit to L'Anarchie," by E. Armand in the Stan Iverson Memorial Library,\
+> > <http://recollectionbooks.com/siml/library/index.html>
+> >
+> > <http://www.web.net/blackrosebooks/jean.htm>\
+> > \
+>
+> []()\
+> \
+> <img src="http://www.eskimo.com/~recall/bleed/images/tnt.gif" data-border="0" data-hspace="5" data-vspace="0" data-align="right" width="70" height="80" alt="Dang!" />\
+> 1896 -- US: Booming business?: Grease fire ignites ton of dynamite at Cripple Creek Colorado. []()\
+> []()\
+> \
+> 1912 -- Elvi Sinervo lives (1912-1986). Finnish writer, translator, humanist & communist, who depicted the political class struggle of the poor. Translated Kleist, Kazantzakis, Brecht, Lidman, Kafka & Andric. A central figure in the literary movement Kiila with Arvo Turtiainen & Viljo Kajava.\
+> <http://www.kirjasto.sci.fi/sinervo.htm>\
+> []()\
+> \
+> 1919 -- Roger Paon, lives, Maritime Seine. French socialist, then an anarchist & pacifist.
+>
+> > Paon joined the Socialist Youth for a brief period in 1933, before turning to the libertarians, particularly the group l'Union Anarchiste de Rouen. He was also a member of the Ligue Internationale des Combattants de la paix, which aided in the resistance to the occupation during WWII. 
+> >
+> > Paon lived in Nice following the war, collaborating on libertarian publications, & publishing his own newspaper, "L'ordre Social" (1950-1953). He also agitated, with Louis Lecoin, for the recognition of rights of conscientious objection. Roger Paon is the author of Marine de Rivire, a work on shipping.
+>
+> []()\
+> []()\
+> \
+> 1920 -- US: Sacco & Vanzetti learn of their comrade Andrea Salsedos death while in police custody yesterday & become scared they will be implicated in a bomb plot. \
+> [\[Details, click here\]](http://recollectionbooks.com/bleed/05ref.htm#4/1920) []()\
+> []()\
+> \
+> 1921 -- US: The libertarian & utopian "Home Colony" in Washington State ends. See the article in the Stan Iverson Memorial Library,
+>
+> anarchist
+>
+> <http://recollectionbooks.com/siml/library/index.html>\
+> []()\
+> \
+> 1922 -- US: In the Sacco & Vanzetti case, the Gould & Pelser motions are made. 
+>
+> anarchist
+>
+> [\[Details, click here\]](http://recollectionbooks.com/bleed/05ref.htm#4/1922) []()\
+> []()\
+> \
+> 1926 -- England: Beginning of a nationwide General Strike.\
+> <http://www.dnai.com/~figgins/generalstrike/europe/unitedkingdom.html>\
+> []()\
+> \
+> 1927 -- Tauno Yliruusi lives. Finnish mystery writer, whose plays have gained wide audience in Finland & abroad.\
+> <http://www.kirjasto.sci.fi/yliruusi.htm>\
+> []()\
+> \
+> 1929 -- Belgium: Film actress & anti-hunger activist Audrey Hepburn lives. []()\
+> []()\
+> \
+> 1931 -- US: Gun-toting vigilantes attack striking miners & union militants in Harlan County, Kentucky. 
+>
+> [\[Sources, click here\]](http://recollectionbooks.com/bleed/sources.htm#LaborTimeline) []()\
+> []()\
+> \
+> 1935 -- Canada: [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="EG, anarchist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)
+>
+> > On May 4-14 Goldman sails from Canada to Le Havre, France; she reaches Paris on May 15.
+> >
+> > On May 18 Goldman arrives back in St. Tropez in time to celebrate the anniversary of Alexander Berkman's release from prison in 1906; Emma finds him in better health than she expected.
+>
+> []()\
+> []()\
+> \
+> 1937 -- African-American abstract sculptor Melvin Edwards lives, in Texass. Given a 30-year retrospective at the Neuberger Museum of Art, Purchase, New York. One works is located in the garden of the White House, another at the Thomas Jefferson Park & Pool, First Avenue & 116th Street, Manhattan. []()\
+> <http://www.ci.nyc.ny.us/html/dcla/html/panyc/edwards.html%0B>\
+> \
+> 1937 -- Spain: (Tuesday): Gun-battles throughout the night in Barcelona. Many barricades & violent clashes throughout the city. 
+>
+> > In the Sants barrio 400 Guards are stripped of their weapons. Companys asks the Valencia government for aircraft to bomb the anarchist CNT's premises & barracks. The CNT-controlled artillery on Montjuich & Tibidabo is trained on the Generalidad Palace....
+> >
+> > Anarchist chronology, Friends of Durruti Group 1937-39, Agustin Guillamon
+> >
+> > [\[Details continue, click here\]](http://recollectionbooks.com/bleed/05ref.htm#4/1937)
+>
+> []()\
+> []()\
+> \
+> <img src="http://www.nobel.se/peace/laureates/1935/ossietzky.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="100" height="130" alt="?" />\
+> 1938 -- Carl von Ossietzky dies. Hamburg. Pacifist & winner of the 1935 Nobel Peace Prize while in a Nazi concentration camp.
+>
+> <img src="http://www.dickalba.demon.co.uk/songs/texts/tops/p562_top.gif" data-border="1" data-hspace="10" data-vspace="10" width="339" height="39" alt="?" />
+
+
+
+> In Berlin upon the 4th of May\
+> 19 hundred and 38\
+> The Gestapo with its treatment\
+> Signed his death certificate
+>
+> Five-six-two his prison number\
+> Listen, child, I beg you please\
+> Keep in mind, always remember,\
+> He got the Nobel Prize for Peace
+>
+> In the struggle against injustice\
+> He fought hard and he fought long\
+> Child - remember Ossietsky\
+> Peace won't come by words alone
+>
+> <http://www.dickalba.demon.co.uk/songs/texts/pris562.htm>
+>
+> <http://www.nobel.se/peace/laureates/1935/ossietzky-bio.html>\
+
+\
+
+> []()\
+> \
+> 1940 -- Nora Joyce informs hubby James:
+>
+> > *"Well, Jim, I haven't read any of your books but I'll have to someday because they must be good considering how well they sell."*
+>
+> []()\
+> []()\
+> \
+> 1946 -- China: The Communist Party decides to go ahead with land reform in the regions it controls. The estates of big landowners will be confiscated & distributed to the poor peasants.\
+> [\[Source: K.S. Karol\]](http://recollectionbooks.com/bleed/sources.htm#Karol) []()\
+> []()\
+> \
+> 1948 -- Norman Mailer's first novel, The Naked & the Dead, is published.\
+> <http://hs1.hst.msu.edu/~cal/celeb/mailer.html>\
+> <http://www.kirjasto.sci.fi/nmailer.htm>\
+> \
+> <img src="http://www.haring.com/keith/new/bron/tableanim.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="77" height="80" alt="?" />\
+> 1958 -- Keith Haring, artist, lives to play.
+>
+> <img src="http://www.eskimo.com/~recall/bleed/images/pixel.gif" data-border="0" data-align="LEFT" width="125" height="54" />\
+> <img src="http://www.haring.com/keith/new/image/babdog.gif" width="65" height="54" /><img src="http://www.haring.com/keith/new/image/babdog_l.gif" width="65" height="54" /><img src="http://www.haring.com/keith/new/image/babdog.gif" width="65" height="54" /><img src="http://www.haring.com/keith/new/image/babdog_l.gif" width="65" height="54" />
+>
+> <http://www.haring.com/keith/new/new.htm>\
+> []()\
+> \
+> 1961 -- US: "Freedom Ride" (biracial) bus trips begin throughout American South, organized by James Farmer & Congress of Racial Equality (CORE) to desegregate bus terminals. Many northern civil rights activists join their southern compatriots in demonstrations for integration of public places, challenging non-compliance of 1957 & 1960 civil rights legislation. See May 14, when first bus is attacked.
+>
+> <img src="http://www.pieman.org/busmap.gif%0BALT=%22Back" data-of="" data-bus?"="" data-border="0" data-hspace="10" data-vspace="10" width="600" height="154" />
+>
+> []()\
+> []()\
+> \
+> 1961 -- Phenomenologist/existentialist, Maurice Merleau-Ponty, dies.\
+> <http://userzweb.lightspeed.net/~tameri/tframes.html>\
+> <http://www.cudenver.edu/~mryder/itc_data/postmodern.html>\
+> \
+> 1963 -- US: Trained All Winter, Balking Up? Pitcher Bob Shaw sets record of 5 balks in a baseball game.
+
+[]()\
+[]()\
+\
+<img src="http://burn.ucsd.edu/images/france/p3.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="216" height="285" alt="?" />\
+1968 -- France: May '68, in Paris & nationwide: Capitalism is discovering revolution is still a threat, even in first world industrial & consumer nations. Something is awry in paradise.
+
+<img src="http://burn.ucsd.edu/images/france/p1.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="216" height="290" alt="?" /> <http://burn.ucsd.edu/paris.htm>\
+\
+
+> > []()\
+> > \
+> > 1968 -- US: Since January of this year, 40,000 students have participated in 221 major demonstrations on 101 campuses. []()\
+> > []()\
+> > \
+> > 1969 -- US: Going Nowhere Fast? In Seattle, Washington several thousand march in the Arboretum to protest construction of a freeway planned to follow the Lake Washington shoreline throughout Seattle. Partially built ramps remain visible today to commuters sitting in idling cars on freeways.
+
+\
+
+> > []()\
+> > []()\
+> > \
+> > <img src="http://www.cris.com/~Mppa/gifs/life.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="200" alt="?" />\
+> > 1970 -- US: Four Kent State University students murdered by Ohio National Guardsmen at a demonstration protesting the U.S. incursion into Cambodia (see 30 April).
+> >
+> > > Despite warnings from advisors that invading Cambodia (Operation Duck Hook) would lead to domestic bloodshed, Kissinger & Nixon decided to invade to prove Nixon's toughness. Nixon was boozing heavily & repeatedly watching Patton to bolster himself. Many staffers worried he'd gone off the deep end mentally. He directed staffers to take a public hard-line posture toward critics/protestors: 
+> > >
+> > > > "Having drawn the sword, don't take it out -- stick it in hard."
+> > > >
+> > > > One of the killed, Allison Krause, the day before her murder, was reported to have put a flower on a National Guardsman's rifle, saying that "Flowers are better than bullets."
+> > >
+> > > With the Kent State killings the White House was stunned, more worried about mushrooming protest than the deaths, which many blamed on students themselves; J. Edgar Hoover advised that one of the women killed had been "sleeping around" & was "nothing more than a whore." VP Spiro Agnew fulminated about "traitors & thieves & perverts & irrational & illogical people in our midst." \[Sounds like the White House. --ed\]
+> > >
+> > > America's campuses exploded, finally joined in the streets by middle America, by workers, & even dissidents within the government itself.
+> > >
+> > > <img src="http://lists.village.virginia.edu/sixties/Graphics/Buttons/blanket_hill_vvaw.gif" data-border="0" data-hspace="10" data-vspace="10" width="100" height="100" alt="?" />
+> > >
+> > > <http://www.cris.com/~Mppa/ethics.html>\
+> > > <http://www.kent.edu/sociology/lewis/LEWIHEN.htm>\
+> >
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/siml/images/Images/Costantini/Chicago-3-May-1886.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="263" height="332" alt="?" />\
+> > 1970 -- US: City of Chicago unveils a new monument to policemen killed in Haymarket Square. 
+> >
+> > > Chicago police, with a tradition of indiscriminately shooting & killing unarmed workers & their supporters, honored. The statue, oddly enough, keeps getting knocked over.
+> > >
+> > > anarchist
+> >
+> > \
+> >  []()\
+> > []()\
+> > \
+> > 1970 -- US: 5,000 demonstrate at College Park, Washington, DC. 450 policemen unable to disperse them, 600 National Guard sent in to protect them, right? []()\
+> > []()\
+> > \
+> > 1970 -- US: Jackson State College woman's dorm, Mississippi, May 4/5: two black students killed, others wounded no media coverage []()\
+> > []()\
+> > \
+> > 1973 -- Author Jane Bowles dies, Malaga, Spain. []()\
+> > []()\
+> > \
+> > 1973 -- US: First TV network female nudity-Steambath (PBS) Valerie Perrine. []()\
+> > []()\
+> > \
+> > 1980 -- Yugoslavia: Beloved & Respected Comrade Leader Tito dies. []()\
+> > []()\
+> > \
+> > 1981 -- Paul Green, American novelist/playwright dies, Chapel Hill, North Carolina. Well-known for perceptive portrayal of Southern blacks. Collaborated with Richard Wright in the dramatization of Native Son.\
+> > <http://www.spindle.net/texas/pgreen.htm>\
+> > []()\
+> > \
+> > 1983 -- US: House of Representatives passes (watered down) nuclear freeze. Tabled in the Senate. []()\
+> > []()\
+> > \
+> > <img src="http://www.bluespower.com/447-1.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" width="150" height="152" alt="Paul" />\
+> > 1987 -- Paul Butterfield, 44, dies due to complications of a drug overdose.\
+> > []()\
+> > []()\
+> > \
+> > 1989 -- China: 30,000 students march for democracy to Tienanmen Square, Beijing. []()\
+> > []()\
+> > \
+> > <img src="http://www.allposters.com/images/34/009_224-009_m_a.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="145" height="100" alt=" ? " />\
+> > 1989 -- US: Rightwing sweetheart Oliver North is convicted in the Iran-Contra Affair.\
+> > <http://www.guerrillanews.com/crack/qt_hi.html>\
+> > <http://www.wayoutwest.org/store/allposters.html>\
+> > \
+> > []()\
+> > \
+> > 1991 -- US: Hip Hop? Beloved & Respected Comrade Leader President Bush is hospitalized for erratic heartbeat. America wails at the thought of a President Quayle.
+> >
+> > 
+> >
+> > > Quote: *"I want to be Robin to Bush's Batman."*
+> >
+> > > Quote: "The other day \[the President\] said, I know you've had some rough times, & I want to do something that will show the nation what faith that I have in you, in your maturity & sense of responsibility. (He paused, then said) Would you like a puppy?"
+> > >
+> > > --- Vice President Dan Quayle (LA Times 5/21/89), perennial wanna be
+> > >
+> > > []()\
+> >
+> > []()\
+> > \
+> > 1993 -- Kampuchea (Cambodia): Dhammayietra, walk for peace, to Phnom Penh, begins, Siem Reap. []()\
+> > []()\
+> > \
+> > <img src="http://www.sojourners.com/soj9511/images/951121.jpg" data-vspace="20" width="190" height="270" />\
+> > 1996 -- US: Six arrested in New York City museum of U.S.S. Intrepid in honor of Fr. Daniel Berrigan's 75th birthday.
+> >
+> > > Berrigan wrote in his journal that the prison blue jeans & denim shirt form "a clerical attire I highly recommend for a new church."
+> > >
+> > >   
+> > >
+> > > <http://www.sojourners.com/soj9511/951121.html>\
+> >
+> > []()\
+> > \
+> > 3000 --
+> >
+> > > "The mass of men lead lives of quiet desperation. What is called resignation is confirmed desperation."
+> > >
+> > >  Henry David Thoreau, Walden
+> > >
+> > > > []()\
+> > > > []()\
+> > > > \
+> > > > <img src="http://www.iisg.nl/exhibitions/art/images/crane05.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="251" height="350" alt="?" />\
+> > > > 4511 --
+> > > >
+> > > > <http://www.iisg.nl/exhibitions/art/voorstellen2.html>\
+> > > > []()\
+> > > >
+> > > > ------------------------------------------------------------------------
+> > > >
+> > > > anti-CopyRite 2000-3000, more or less\
+> > > > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > > > or send questions, suggestions, additions, corrections to:\
+> > > > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> > > >
+> > > > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> > > >
+> > > > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> > > >
+> > > > anarchist, labor, radical books
+> > > >
+> > > > See also: Anarchist Encyclopedia\
+> > > > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > > > Stan Iverson Memorial Library\
+> > > > http://recollectionbooks.com/siml/\
+> > > > Anarchist Time Line / Chronology\
+> > > > http://recollectionbooks.com/bleed/indexTimeline.htm

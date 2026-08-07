@@ -1,0 +1,33 @@
+Floyd's Freeware 
+
+Download Page
+
+"The Googler" is a simple Google search tool.
+
+It is nothing fancy, and does only one thing...searches the web.
+
+It does not install any system files.
+
+It does not write to the registry.
+
+It does not contain any spyware.
+
+To uninstall, simply delete the installation folder.
+
+It is free.
+
+ Download Here...1.35MB 
+
+Google Image Search
+
+Search images on google!
+
+ Download Here...1.33MB 
+
+XP Administrator
+
+Shortcuts to Windows XP Applications.
+
+For Windows XP Pro Only!
+
+ Download Here...951KB

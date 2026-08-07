@@ -1,0 +1,138 @@
+A Glossary of Abuses 
+
+ IRC Abuses 
+
+ Last updated 15 July 1998 
+
+This page's purpose is to define some of the terms used to describe certain
+abuses in terms of the IRC medium and the Undernet #atheism channel. I will,
+and many other ops will, kick for some if not all of these offenses.
+
+ Cloning, clonebots, clonies 
+
+This is bringing up multiple connections [or clones of yourself] from
+the same site, especially with the express purpose of attacking someone.
+People who bring up clonies without a damn good reason
+will probably be kicked, banned, and/or reported to an IRCop for possible
+G: lining. If you have ops and bring clones onto the channel without a
+ damn good reason, you will no longer have them after you
+do so.
+
+ Trolling, baiting, flaming 
+
+Trolling is purposefully inflammatory, baiting speech,
+calculated to elicit a [violent] response. It is very rude an
+unappreciated. The term may also be more generally applied to what is
+more properly called "flaming," any sort of speech that is
+inflammatory and disruptive to conversation. For example, "YOU'RE ALL
+gonna BURN in HELL!!!" would be considered trolling. Trolls may
+receive several warnings before the op finally tires of them and kicks
+and/or bans them, or may be booted after one or two lines, depending
+on the operator in question and what sort of mood he is in. As with
+all channel moderation, disciplining is strictly at the individual
+operator's discretion.
+
+ Preaching 
+
+Due to the nature of #atheism, unsolicited, unresponsive, inflammatory,
+and/or off-topic preaching is considered to be a special case of
+ trolling . Unsolicited preaching is defined for
+the purposes of this document as entering the channel and beginning to
+evangelize straight off, without any sort of context in the current
+discussion. Unresponsive preaching is evangelizing without any regard
+for the responses of the general populace. For example:
+
+[Heathen] So, has anyone read The Jesus Incident (Herbert)? 
+[Tom] Nope 
+[Dick] Yeah. Cool book. 
+[Harry] *nod* 
+[PreachBot] Have you accepted the Lord Jesus Christ into your heart? 
+[Heathen] Preaching is not welcome on #atheism. Please take it elsewhere. 
+[Harry] I'm in the middle of The Lazarus Effect right now 
+[Bob] Go away, Preach 
+[Tom] Fuck off, Preach 
+[Dick] I haven't, Preach 
+[MyLife4HIM] HALLELUJAH, PREACHBOT! Praise the LORD! 
+[PreachBot] For only he that accepts the Lord Jesus Christ as their Savior
+can know the way into Heaven 
+[Heathen] Harry: I personally like this series better than Dune so far...
+it's a lot less slow, for one. 
+[Tom] Fuck you and your God, too! 
+[Dick] Heathen: yeah, but the slowness of Dune allows you to get sort of
+a cross-section of the whole culture of the story. 
+[Harry] Heathen: True 
+[PreachBot] Seriously, do you want to spend eternity in TORMENT, or in BLISS?
+
+[Heathen] PreachBot, this is your last warning. Unresponsive preaching is not
+welcome on #atheism 
+[PreachBot] The wages of SIN are DEATH! How will you choose...DEATH, or LIFE?
+
+[PreachBot] Praise be unto GOD the HIGHEST! 
+*** Mode change by W: +b *!*preach@*.kristian.koalition.org 
+*** PreachBot has been kicked off #atheism by W ((Heathen) Unresponsive
+preaching is not welcome on #atheism [24 hour tempban])
+
+Off topic preaching is, obviously, evangelism that has absolutely nothing
+to do with the conversation at hand. Theistic opinions can be voiced, of
+course, but should be restricted [just like atheistic opinions] to some
+semblance of a topic. Inflammatory preaching is preaching calculated to
+draw a response, or patently rude preaching. "Turn to the LORD Christ or
+you will all BURN in HELL!!!" is a good example of inflammatory preaching.
+As with all offenses, actual disciplining is done purely at the individual
+operator's discretion.
+
+ Spamming, scrolling 
+
+Spamming or scrolling is outputting large amounts of text (often
+meaningless gibberish) in a relatively short time. Spamming most often
+occurs either because of annoying mental two year olds who desperately
+want attention or because of well-meaning people who accidentally
+paste too much info to the channel. Spamming is distracting, causes
+it to be harder to follow the conversation, and uses up valuable
+server resources. Spam is incredibly annoying, and you will be probably
+be given few if any warnings before more aggressive action is taken.
+
+ Flooding 
+
+Flooding is sometimes used as a synonym for spamming . For the purpose of this document, however,
+I will use more malicious meaning of "flooding," as a specific and
+common sort of IRCwar attack, which is very often used through clonebots . Basically, to flood someone, either you
+personally or your clonebots send a string of CTCP's that elicit a
+response [such as CTCP PING, CTCP VERSION, or CTCP ECHO] from the
+other client. If the client of the person being attacked sends out
+enough data fast enough, the server will kill him for "excess flood."
+Any form of IRCwar is a serious offense on #atheism, and if you
+attempt to flood off one of the chanops, your ass almost certainly
+ will be banned for quite some time to come.
+
+ Nuking 
+
+Nuking can have several meanings in IRCwar. Here are a few of the more
+common ones:
+
+Sending someone a large number of ICMP or other high-priority
+packets. This is a type of denial-of-service attack, and is basically
+a bandwidth war. If the victim has a connection speed that is low
+enough compared to yours, he may get dropped from various net services
+(such as IRC) because his machine is so busy handling the
+high-priority packets (eg, ICMP PINGing the machine back) that it does
+not handle the lower-priority packets before it idles out. If your
+connection speeds are fairly close (especially if the target does not
+return ICMP PINGs), you may well pingout as well due to the machine
+strain of sending out the packets and parsing any returned information
+(eg, ICMP PING response packets).
+
+Using raw sockets to forge an ICMP packet telling a server that the
+victim has dropped connection.
+
+Taking advantage of a bug in Windows32 OSes that screws the
+machine up if the user receives an OOB packet on any port. The NetBIOS
+port is usually attacked, because a listening socket is guaranteed on
+that port under those OSes' default setup.
+
+Like other forms of IRCwar, nuking is considered a very serious
+offense on #atheism, for both practical and historic reasons. Do it at
+the peril of your ever being in the channel again. Also keep in mind
+that if someone catches you at more or less any of these forms of
+nuking and logs the incident, you are probably as likely as not to
+lose your Internet access.

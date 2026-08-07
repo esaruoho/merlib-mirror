@@ -1,0 +1,45 @@
+---
+title: "Educational Links"
+source_domain: amasci.com
+source_path: ~robertf/edulinks/index.html
+order: 6983
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:59:45Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Educational Links
+
+*Source page: `~robertf/edulinks/index.html`*
+
+> Links to Educational Web Sites
+>
+> Most of the links on this site are good ones for children in grades 1 through 6, however we will include some that are suitable for younger children and also older ones, and adults.
+>
+> We live in Seattle, so some of the links are to sites in the Seattle area, such as the Pacific Science Center and Woodland Park Zoo. These sites, even though local to this area, should be of interest to people from other places also. However, we hope to gradually add similar sites in other parts of the country and the world.
+>
+> We are starting off with only a few of the best sites we know about, all on this page. However as we have time our goal is to add more and more sites, break them down into categories (such as Math, Science, etc.), put them on separate pages, and add links to the different pages of links.
+>
+> [Math Fact Café](http://www.mathfactcafe.com/home/):
+>
+> This site has math games and activities, but perhaps its best feature is for teachers and parents, to print out sheets of math facts. You select the type of math operations (addition, subtraction, etc.), ranges of numbers, and other factors to prepare a sheet of problems oriented toward the age level and type of math you want.
+>
+> [Pacific Science Center](http://www.pacsci.org/):
+>
+> The Pacific Science Center is a hand-on science museum and educational center in Seattle, for the education of both children and adults.
+>
+> [Science NetLinks](http://www.sciencenetlinks.com/):
+>
+> This fabulous site has links to many other science sites. It explains what you will find at each site and helps you select sites most appropriate for different age groups.
+>
+> ------------------------------------------------------------------------
+>
+> [Fleming Family Home Page](../index.html)\
+> \
+>
+> ©2000 Robert M. Fleming Jr.
+>
+> \
+> This page was last revised 24 March 2004.

@@ -1,0 +1,507 @@
+---
+title: "Mullspace | Fiction | Adventures in Paradise"
+source_domain: amasci.com
+source_path: ~strange/fiction/adventures.html
+order: 8311
+reachable_from_entry: false
+images: 1
+internal_links: 7
+extracted: 2026-08-07T06:00:47Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mullspace | Fiction | Adventures in Paradise
+
+*Source page: `~strange/fiction/adventures.html`*
+
+\
+<span id="top"></span>
+
+<div align="center">
+
+<img src="../images/MullChalk03a.jpg" data-border="0" alt="Welcome to Mullspace" />\
+<a href="../katbox.html" class="nav">Portal</a> \| <a href="../litter/litter.html" class="nav">Kat Litter</a> \| <a href="fiction.html" class="nav">Tales</a> \| <a href="../nfiction/nfiction.html" class="nav">Lectures</a> \| <a href="../gallery.html" class="nav">Eye Candy</a> \| <a href="../list.html" class="nav">Accreations</a> \| <a href="../resume.html" class="nav">Kat Who?</a> \| <a href="mailto:mull.space@lycos.com" class="nav">Poke</a>
+
+</div>
+
+\
+\
+
+created: September, 2000
+
+\
+
+## Adventures in Paradise
+
+\
+
+A long, tropical twilight lingered over the island. The sky held a slight greenish tinge in its edges, brushing the distant sea with its fingertips. A subtle odor of rot and corruption hung near the ground beneath the heavy growth of vegetation. Tourists never noticed it, drowned as it was in the smell of showy blossoms. The natives had grown used to it.
+
+But he noticed it as he darted across the open stretch, kicking up the stink as his shoes dug into the soft ground. He grimaced a little and hoped the smell wouldn't attract attention. But, why should it? Who paid it any attention, here? Nothing to stop him getting as close as needed to his target....
+
+....
+
+She looked through the papers one last time and felt sick to her stomach. They'd said someone was sabotaging the project, but she had hoped her instincts weren't correct. Damn it, you're not supposed to get close to the subjects, she berated herself. Though, it's damned hard to avoid when the subject is supposed to be the only agent on the project. Shit, shit, shit. She wished she'd never let anyone twist her arm into doing this job.
+
+She turned away from the desk. She didn't need to take the evidence with her. He wouldn't have a chance to destroy it. Protocol was very clear: don't let the saboteur live. Don't get all wet, now, she ordered herself. Get angry. That bastard has been playing subtle games with you since the beginning, he thinks you're too stupid and besotted to figure it out. He's just loving this.
+
+She let herself out of the room and started down the stairs, removing the small pistol from her purse and putting it into the pocket of her jacket. It was a little warm for a jacket, but it's difficult to conceal a gun in most women's clothes, so she put up with the discomfort.
+
+At the base of the stairs, she met Christopher Halland coming up. He looked startled to see her.
+
+"Blue. What are you doing here? Looking for me?"
+
+"In a way. Mostly I was looking for the security logs."
+
+He stared at her. "And... did you find them?"
+
+She brushed past him and started for the exterior door. "I found what I needed to find."
+
+He grabbed her arm and turned her toward him in the doorway. His eyes narrowed and he glared at her. "What do you mean by that?"
+
+She wrenched her elbow from his grip. "Are you sure you want to have this conversation right here and now?"
+
+"Now, yes."
+
+"Then let's step outside."
+
+They stopped in the darkness a few steps from the building. A guard on patrol passed a few yards away. Halland turned her toward him again.
+
+"I take it you're not a graduate student, after all, Blue."
+
+"Oh, please.... You really think very little of my intelligence, don't you?"
+
+"I can't make up my mind, actually, little spy. On the one hand, you're more clever than I thought. On the other, you haven't been as subtle as you think."
+
+"You weren't the most subtle saboteur in the world. Why no one else put two and two together I don't know. Who was in a better position than you?"
+
+He laughed, then. "You are stupid. They knew. They had to know. You are what is known as the sacrificial goat and I am the big, bad tiger.... But I'm not going to take the bait. They're not going to trap this tiger, not this time." He started to back away from her and turn back to the building.
+
+"I won't let you get away with it, Chris."
+
+"What are you going to do, little girl?" he sneered. "Arrest me?"
+
+"No...."
+
+....
+
+He backed into a shadowy doorway and let the guard go past. Halland's office was just around the corner and he should be in it about now. Security wasn't as tight as it could be. He didn't expect to have any trouble getting in or getting back out.
+
+He edged around the corner of the building and checked the field ahead.
+
+Damn it. Halland was coming out of the building. And he had a woman with him. Was the tricky bastard making a break? Using the girlfriend as a distraction? With luck, the two would part and he could follow Halland down to a better killing ground. He did not want to kill the woman. There are some things at which to draw the line and that was usually his. But, his patience with this job was drawing thin and he was within an ace of saying "to hell with it" and shooting anyone who stood between him and Halland, even the woman.
+
+The two stopped in the darkness and began to talk in low voices. God damn it, just slap his face and get it over with, he thought. He darted across the darkness, into the undergrowth closer to them and picked his way carefully to a clear line of fire. Enough waiting. Halland first, then the girl: no witnesses and get the hell out. He drew one of his guns and began to raise it.
+
+Halland suddenly turned away, then turned back. The gun tracked him, keeping a perfect bead.
+
+"What are you going to do, little girl? Arrest me?"
+
+"No...." The woman moved very quickly.
+
+A small, sharp report broke the air and half of Halland's head vanished in a red cloud of blood and tissue. The body fell to the ground.
+
+The man in the dark blinked. Scratch one spook, but... not by him.
+
+The woman was frozen, a miniscule curl of smoke trickling up from the muzzle of the small, stainless steel pistol in her hand.
+
+A shout came from the distance and the woman whirled, dropping into a crouch and firing two-handed at the guard running toward her. She fired a burst of three rounds, her mouth a grim line. The guard fell to his knees, jerked and flopped down dead.
+
+It was well-trained shooting and, though a bit wasteful, he admired the competence of it. But the commotion was drawing unwanted attention.
+
+"Fahk..." This was becoming a little too hot. Just why had she shot Halland? Well, carpe diem and all that crap... or was that "carpe dame"? He rose to his feet and ran forward.
+
+She spun toward him, gun out, bright blond hair sweeping across her face. He slapped her wrists and pushed with her momentum, so the pistol swung past his body as he closed the distance until he was almost in her face.
+
+"Don't shoot me and we both might get out of here alive."
+
+"Who the Hell are you?" she snapped.
+
+"Call me Shades. Now, let's blow this party before the bulls arrive, Ok?"
+
+Her hesitation was minute. She put the gun up and stepped aside. "I'm with you, Shades. Get us the Hell out of here."
+
+He grinned like a wolf and turned, grabbing her off side arm and pulling her back into the darkness beside the building. They pressed back against the wall as a pair of guards ran past.
+
+"One shot. I'm on the left," he muttered. He took a step away from the wall.
+
+The shots were almost simultaneous. Both guards went down and stayed there.
+
+Sirens began to scream.
+
+"Time to go."
+
+They ran.
+
+It was an interesting evening, so far, Shades reflected. Four men dead and he'd only fired his gun once. Things were a little more exciting than he'd expected, but, Hell, what was wrong with that?
+
+They plunged across the grounds toward the gates, diving into shadows as night deepened around them, split obscenely by arcing beams of light and the banshee wail of security sirens.
+
+"How are we going to get out of here?" she muttered.
+
+"Out the gate works for me," Shades replied. "Can't go over it. Got to go through it."
+
+"Six guards with automatic rifles and two mean dogs. What are the chances?"
+
+"Got a car?"
+
+"Nope. But Chris did and I know where the lazy bastard leaves the key."
+
+Shades grinned, a glimmer in the settling dark. "Really? I don't think he'll be needing it anymore. Let's go."
+
+They came fast around a corner and almost ran up a pair of guards coming out of the administration building. Tap, tap. Two more dead men. The pair paused a moment, crouching in the shadow of the building to search the parking lot.
+
+"Crap," she spat. "The paranoid son of a bitch would decide to park under a light."
+
+"Where's the key?"
+
+"Behind the driver's side front tire."
+
+"Head for the car. I'll cover you. And I hope you can drive as well as you shoot."
+
+"I drive better than I shoot."
+
+"I can't wait to see it...."
+
+Head low, gun cradled against her body, she ran the shortest route to the dark blue sports car. Two of the guards from the gate stepped forward with shouts and raised their rifles to their shoulders. Shades stepped from the corner of the building, both guns out and spitting fire and lead.
+
+One guard went down in a bloom of blood. The second started to run forward and caught a pair of bullets in the chest. He staggered backward, cracking his skull against the pavement.
+
+The woman dove under the car, snatched the key and rolled back to her feet, whipping around long enough to blow off the last three rounds in the magazine at the next guard trying to emerge from the shack. The man ducked back, bleeding from the shoulder. She wrenched the driver's door open, flung herself inside, jamming the key into the ignition.
+
+The Porsche roared and screamed as she flung it backwards and into a sharp turn, then toward Shades who was advancing on the guard shack, firing steadily. The two dogs suddenly burst out of the shack, running forward with silent intensity, wasting no energy to bark. Black and brown streaks of viciousness.
+
+"Shit!" Shades started to back up, swearing and adjusting his aim.
+
+The Porsche squealed to a pause and he dove into the open passenger door, slamming it before a toothy snout could follow him in.
+
+The car hopped forward, then slammed backward as shots screamed over the low roof. The woman looked over her shoulder and floored the car in reverse, up, onto the lawn around the administration building's square bulk.
+
+"What the Hell are you doing?!"
+
+"I am not going to run over a dog!"
+
+"What, the--?!"
+
+"They really screw up the alignment."
+
+The tires bit into the soft, rotten earth and flung the car backward. They raced around the first two corners with the dogs trying to follow. Then she jammed the hand brake, clutched and spun the wheel. The car stuck hard on the rear wheels and whipped 180-degrees as she shifted into first. The confounded dogs yelped and backed away as the car leapt forward with a shriek.
+
+Her pistol flipped across the seats and clattered onto the floor between Shades' feet. He glanced at it quickly as he dropped the wasted magazines out of his weapons and reloaded.
+
+"Empty," she bit out. "Better start shooting or this is going to be a very short drive."
+
+The four remaining guards had run out, spread across the road with rifles raised. Shades slipped up into the open window and started shooting as the car rushed the gate.
+
+Two dropped. The other two stood their ground in front of the gate. Brave, but foolish. Headlights popped up over the rise outside the gate and a white car appeared, driving fast.
+
+"Fahk..."
+
+Shades dropped back down into the seat. "Reinforcements."
+
+The woman growled and shifted up with a flick of the wrist. "Get down and brace yourself."
+
+Deadly projectiles stitched into the car's body as they both ducked down below the windows. She jerked the wheel slightly, side to side, and the car fish-tailed, connecting to a human body with a meaty thud. Shades rammed a shoulder into the padded side panel with a grunt.
+
+A crash and a shatter of glass across their bowed heads and they were through the gate. The woman popped her head up, shaking glass out of her hair. They blasted past the white sedan and the bullet-pocked Porsche lifted off the dip in the road like a blood-striped gazelle. The sedan screeched like a furious woman and turned to pursue.
+
+"Seat belt!" she yelled.
+
+Shades scrambled into the seat and braced himself as the Porsche re-met the road with an unholy slam. The car bounced like a skittish horse, then dug back into the tarmac and roared forward. The wind through the shattered front window was a slap in the face. He glanced back over his shoulder.
+
+The white sedan was sticking hard to their tail. And it had a radio. Beyond that he could just see the two dogs, sitting forlornly on the road and looking about with their tongues hanging out. They disappeared as the sedan cut the view.
+
+"They're going to call for help!" he yelled against the wind.
+
+"I figured!" she shouted back, keeping her eyes forward. "We'll have to beat them to the docks and get off this stinking island!"
+
+"Chopper or float plane would be faster!"
+
+"Can't get to them! They're all owned by the government's cronies! A boat, I can manage!"
+
+Shades shut his jaws and found the seat belt. He winced as he reached for it and realized he'd been creased a bit. A look down revealed a tear along the right side of his suit, parallel to his ribs. Damned bullet had sliced between the straps of his body armor. The wound was oozing a bit, but not too badly. A few other sharp places in his skin told him this had not been a scratch-free adventure. The Kevlar might be a write-off by the end of this. He glanced at the woman behind the wheel.
+
+She pressed back against the seat with arms and legs extended a little stiffly. The seat wasn't adjusted perfectly for her height. She had half a smile on her lips and a manic glitter in her eyes. Twin tracks of blood scored from her right eyebrow into her hair, dying the hair at the temple red. The far arm of her jacket looked ragged from her roll across the parking lot.
+
+"What's your name?" Shades asked.
+
+"Strangeblue!" she shouted back into the teeth of the wind. "That's what they call me at the lab."
+
+Shades raised an eyebrow. "Quarky."
+
+"Why 'Shades'?" she asked. "Serious romance with your sunglasses?"
+
+He gave a grim smile. "For the blackness o' me heart."
+
+She laughed and drove.
+
+A sign flashed past. "Welcome to--." Gone, before he could read it.
+
+At current speed, they'd be in the town in less than two minutes. The white sedan had fallen back a bit, whether because it could not keep up, or because something was ahead, they didn't know.
+
+"Hold on."
+
+Strangeblue spun the wheel to the left and the Porsche jumped off the road, onto a dirt track that ran off at a right angle. The car waddled a bit, then hit a smooth stretch and bit in. The white sedan jerked to follow, wallowing like a sow in mud.
+
+The track branched toward the town and Strange whipped the wheel to the right. They screamed down the last mile, tore out into an alley and turned hard left into a larger street. The car skittered on the damp cobbled surface, swayed, and straightened, digging in and leaping forward.
+
+Something howled behind them. Shades turned his head and saw a black car with lights across the top whip a corner to pursue them.
+
+"Cavalry!"
+
+"Gotta catch us first!"
+
+The black car was more nimble than the white sedan. It stuck to every tight turn she pulled. She wrenched them through a series of right, left changes and punched it down a narrow alley. Sparks scored off the fenders as they periodically touched the leaning stone walls.
+
+Headlights turned into the alley straight ahead. It was the white sedan. The black car was tight behind them.
+
+"Can you take him out before he reaches that dumpster?" Strange demanded.
+
+"Will do."
+
+Shades snapped off the seat belt and leaned forward. Weapons in hands, he braced himself against the seat, body in the shot-out front windshield. Bullets streamed from the guns with the sound of a staccato jackhammer.
+
+The white sedan's windshield went opaque with shattered glass, then it blew inward over the driver's side. The car slewed, ramming into the wall inches from the dumpster.
+
+The Porsche shot forward as Shades sat back.
+
+"Right!"she yelled.
+
+He clutched the interior handle as she turned the wheel violently to the right. The car twisted and bolted into a cross alley just ahead of the dumpster.
+
+The black car shot across the opening behind them, unable to make the turn in time.
+
+A squeal and an horrific crunch of steel and breaking glass shouted the destruction of their enemies.
+
+Shades grinned.
+
+"Can't be the only cops in town...," Strangeblue muttered.
+
+They weren't.
+
+She made a pair of tight turns that put the battered sports car on the road to the port and pulled up short and hard.
+
+"Freakin' quarks and leptons...."
+
+The bumpers and black grilles of four more pursuit cars peeked from the mouths of intersections ahead. They hadn't noticed the Porsche yet, but they soon would.
+
+"I don't think we can run that gauntlet and live. This old trap's not much of a shield anymore."
+
+Shades cocked his head thoughtfully. "What choice: no planes, no choppers and now, no boats. How do we get off this luck-forsaken hunk of rock?"
+
+Strange slammed the car into reverse. "Alternate route."
+
+"What? Swim?"
+
+"Swamp."
+
+She reversed the car about fifty yards, then made a right turn and slunk down a narrow, twisted road. They were not pursued.
+
+The road ended in a graveled verge that gave way to sucking mud and swamp. Strangeblue stopped the car with the front tires barely on the gravel and sat still a moment, staring out the opening where the windshield had been. Then she took a deep breath and let it out.
+
+"End of the line for one sports car. Now, we walk."
+
+Shades gave her a sidelong look, then shrugged and got out of the car, pausing to retrieve his emptied magazines.
+
+Strange tucked her own pistol into her jacket pocket, transfered a few items from her purse to her pockets and got out of the car, herself. She scouted around the ground a moment. Shades frowned, bent down and picked up a moderately large rock and handed it to her. She grinned, and went back to the car. She put the car in first and jammed the accelerator under the rock while keeping one foot on the clutch. She scrambled carefully from the whining, shuddering car, kissed the palm of one hand and slapped it against the Porsche's battered body.
+
+"Good night, Chris," she said and dove away from the car.
+
+The Porsche screamed and lunged forward, gravel spurting from under the tires. It hit a small lip of packed mud and leaped up, twisting slightly as it flew up, out and dove down to death in the greedy slime of the swamp.
+
+"Gods, that was gorgeous!"
+
+Shades cocked his head in curiosity.
+
+She shook hers, grinned and pointed him at a narrow trail along the edge of the muck, weaving away under the twisted, creeper-hung trees. They jogged along the firm parts of the trail, vanishing into the darkness and reek of the nighttime swamp.
+
+Shades, slightly behind her, watched the lithe movement of her figure through the will 'o the wisp-lit landscape. "How long have you been doing this shit?"
+
+"First time," she answered, slightly breathless.
+
+"Well, so far, I'm lovin' amateur night...." He shook his head sharply. "But I don't believe it."
+
+"Well, I've never shot a man in cold blood before," she said in a thoughtful voice. "And I've never run from the cops before, though, a few times, I've run with them. It's like there's a switch in my head; necessity demands and I flip the switch and do what has to get done. I'll be a gibbering, sobbing idiot when I have the luxury."
+
+"Strange...."
+
+"That's me all over."
+
+They'd been struggling slowly along the trail, pulling their shoes from the edges of slime that dragged at them, pushing the hanging creeper and moss away, when Strangeblue gasped and slipped sideways. She snatched for a branch and barely caught it. Her hands slipped on the wet bark. Shades cursed under his breath and grabbed her under the arms, hauling her back onto the trail. Something came with her.
+
+The bloated corpse seemed to groan as it broke to the surface, tangled to Strangeblue's ankle by a twist of rope. She bit down on a scream, making a gagging noise, and leaned back against the nearest tree as her knees buckled. Shades flicked the rope away with the toe of his shoe and the body drifted a yard or so before something snapped at it and pulled it back down into the ooze.
+
+"You OK?" he asked, turning back.
+
+"I'm fine," she said, her voice shaking. "That-- that was Dr. Emmerling." She swallowed hard.
+
+"Who?"
+
+"Head of my project. Chris Halland told me he was sick and was going back to the mainland. How long has he been down here?"
+
+"A week or less, I'd guess. How do you know it's him? He's in pretty bad shape."
+
+"The patch on his jacket...," she trailed off as Shades raised a gun and pointed it at her.
+
+"Be still."
+
+The gun roared and something splattered against the side of her face. He reached over her shoulder and flicked away what looked and felt like a heavy creeper... the scaly kind.
+
+"Fahkin' snakes. Let's get the Hell out of here."
+
+Strangeblue didn't argue. They scrambled along as quickly as they dared.
+
+A few yards down the trail, they past the ragged, half-fleshed remains of another of the project scientists.
+
+"How many of his enemies did Chris leave in here?" she wondered, appalled and nauseated.
+
+"Probably every one who's ever tried to leave."
+
+"And I'd have been next, I bet. Damn, I'm glad I shot him."
+
+"Why did you shoot him?"
+
+"I don't like to be set up," she snapped, then shook her head. "Never mind. I'll tell you later."
+
+Shades shrugged and they went on.
+
+In twenty minutes, they smelled sea water and found a trail of boards leading to the back of a ramshackle building on pilings over the water and ooze. Shades shot Strangeblue an inquisitive look.
+
+"Drug runners," she whispered. "Up behind the building. Keep an eye out for visitors."
+
+The night was thickly dark around the building. No lights showed outside the building, though a few narrow cracks glimmered with yellow glow from inside. Silent, they crept to the corner of the building and rested a moment in the dark. Strangeblue reached into her pockets and brought out her gun and a loaded clip. She exchanged it for the spent magazine while Shades watched.
+
+"You said empty," he whispered.
+
+"I didn't say no spare ammo."
+
+He let it pass and took a quick look around the corner. The darkness across the front of the building contained patches of restless blackness, dark shapes that moved with small creaking sounds on the boards of the dock that thrust out into the slick gleam of unlit water. Two sleek wedges bobbed at the side of the dock. He started to lean back into the dark when his attention caught on the sound of an approaching engine.
+
+A black bulk emerged from the edge of the swamp and idled up to the dock with a low grumble of twin screws. Shades turned his gaze toward the boat as it tied up to the dock. Two of the dark shapes on the dock had grown long, bulky extensions: suppressed rifles of some kind, raised warily to shoulders.
+
+A man jumped down from the new boat, a white gleam from his shirt showing under the gap of his jacket as he moved. He stood on the end of the dock and didn't attempt to move closer. One of the dark men from the dock walked down to him. Shades leaned back into the dark and listened intently.
+
+"You don't get your cut until the end of the month," the dark man said in a sloppy accent. "Greedy, bloody pigs. What do you want here, tonight?"
+
+"Our friends at the labs had some excitement tonight," the man from the boat answered. His voice was smooth and cool. "Man and a woman raised a little ruckus, killed Chris Halland and capped about a dozen others."
+
+"Really. Serves that psychotic little bastard right. And your worthless, money-grubbing employees, too."
+
+Strangeblue leaned forward and listened a moment.
+
+"Got a light of some kind?" she asked in a whisper.
+
+Absently, he reached into his pocket and handed her his lighter.
+
+"That'll do. Nothing made of gold, I suppose?"
+
+He shook his head sharply, concentrating.
+
+"I'll use my ring," she said, then turned her back to Shades and started to do something, quietly, in the dark.
+
+"You really should try to remember on which side your bread is buttered and who's providing that butter, asshole."
+
+The dark man snorted a laugh. "All right. What do you expect me to do about it? Go hunting in the swamp for the bodies?"
+
+"Just keep your damned eyes and ears open. They haven't shown up anywhere, yet, and I don't want them to get off this island alive. That would be an embarrassment and I don't like to be embarrassed. Until I see bodies, I'm not going to be in a good mood, so watch yourself."
+
+"And if they do manage to show up here, what am I supposed to do with them, eh?"
+
+The smooth man made an impatient jerk of the head. "Ask 'em in to dinner! What do you think, asshole? Kill 'em."
+
+Shades turned and watched Strangeblue's back, seeing a curious glow start under her hand. He could smell singing flesh.
+
+"What are you doing?"
+
+"My one and only party trick: collecting a few loose photons. When I say so, shut your eyes. We'll have about two seconds of harsh illumination which will, hopefully, blind those jerks long enough for us to go out shooting. How many of them are there?"
+
+"Four on the dock, plus the talkative one from the boat and someone in the boat he came from."
+
+"Six. Good odds. I've got nine rounds. You?"
+
+"More than that. You take the nearest guys on the dock. I'll head for the conversationalists."
+
+"Meet you at the boat. Close your eyes."
+
+Shades squeezed his eyes shut as Strangeblue rose to her feet and flicked her closed left hand over his head.
+
+A small, glowing wad streamed out into the air, smashing against a post and exploding silently into a momentary flash of actinic brightness. A few shouts and curses were cut off as the two fugitives dove out from cover and began shooting.
+
+Shades whirled upright and plunged forward into the renewed darkness, firing into the talking men at the end of the dock. The smooth man reached for something under his jacket, but never got it before he collapsed backward under the weight of Shades' fire.
+
+The other man on the dock turned toward Shades, one hand out as if groping for him. Shades fired rapidly. The bullets made a distinct smacking sound of lead flattening against body armor. He spat a curse as he dove under the other man's fire, aiming upward, and blew his head off.
+
+Strange had come tumbling out of cover, shot the nearest man in the lower back and saw him fall with a shriek and a gurgle into the black water. She spun to the next one and fired. Too low. The man jerked, but stayed up. She tried to dive aside, but a burst of fire from his weapon ripped a shout from her throat and and a hunk of flesh from her left arm.
+
+She rolled back behind the building's corner, gritting her teeth. Foolishly, he stepped around the corner without looking first. She fired upward from prone and the bullets ripped through his unprotected groin and into the body cavity. He made a high pitched scream and collapsed onto the boards in front of her.
+
+Unsteadily, she scrambled to her feet, clutching her gun tightly in her right hand, her left arm hanging useless and bleeding.
+
+Shades heard the scream, but could not spare a glance back. He rolled to his feet, turned and shot the man in the boat as he started to jump onto the dock. The newly-minted corpse sprawled clumsily across the boat's gunnel.
+
+He turned back toward the building. "Strange!"
+
+Small muzzle flash sparked a moment and the sharp crack of Strangeblue's pistol clapped behind it.
+
+A dark shape stalked toward her relentlessly. It was too long a shot for the handguns in this light. Shades scooped up the fallen rifle and brought it to his shoulder.
+
+Strange fired again. The figure rocked back and laughed.
+
+"Die, you son of a bitch!"
+
+A short burst from the heavy weapon in Shades' hands stitched across the figure's chest and neck. It spun and dropped.
+
+Strangeblue staggered to her feet and started running toward Shades.
+
+A door in the building opened with a flood of yellow light. Shades fired toward it, filling the half- occluded doorway with hungry projectiles. A silhouetted figure fell backward.
+
+Strange stumbled to Shades' side.
+
+"Hit?"
+
+"Left arm. I'm OK. Let's get out of here."
+
+"Into the boat," he agreed with a jerk of the head toward the black power boat, it's engines still quietly bubbling. He lifted her over the side and bent to push the dead man into the water.
+
+A shadow rose from the dock behind Shades. It took an uncertain step, drawing a gun from under it's jacket.
+
+The white flash of the shirt caught Strangeblue's eye as she turned. She raised her pistol.
+
+Something ice cold touched against the base of Shades' skull. He froze.
+
+A bright blast of muzzle flash blinded him as Strangeblue fired. A crack and a wet thump and the coldness at the back of his neck vanished. He looked back over his shoulder.
+
+The smooth man wasn't so smooth, now. He was missing most of his face.
+
+Shades dumped the clinging body off the boat and vaulted aboard. Strangeblue slumped down into the farthest seat.
+
+"Sorry," she mumbled. "I'm not much help."
+
+"Been plenty."
+
+"Hope you can pilot this bastard as well as you shoot."
+
+Shades laughed. "Let's find out."
+
+He dropped the lines and pointed the boat out into the channel that cut through the swamp like a ribbon of black glass....
+
+....
+
+That's how they met.
+
+Total body count: 23
+
+and one Porsche.
+
+Strange: 8 (and the car) Shades: 12
+
++3 in the car crash (who gets to count those, eh?)
+
+\
+\
+
+Back to [top](#top) of this page, please.
+
+[Back to Index](fiction.html)\
+
+© 2000-2002 M. Kathleen Huffine/Kat Richardson. All rights reserved.

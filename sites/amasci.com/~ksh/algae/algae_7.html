@@ -1,0 +1,342 @@
+<HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Created on October, 31  2001 by texi2html 1.64 -->
+<!-- 
+Written by: Lionel Cons <Lionel.Cons@cern.ch> (original author)
+            Karl Berry  <karl@freefriends.org>
+            Olaf Bachmann <obachman@mathematik.uni-kl.de>
+            and many others.
+Maintained by: Olaf Bachmann <obachman@mathematik.uni-kl.de>
+Send bugs and suggestions to <texi2html@mathematik.uni-kl.de>
+ 
+-->
+<HEAD>
+<TITLE>Algae: Running Algae</TITLE>
+
+<META NAME="description" CONTENT="Algae: Running Algae">
+<META NAME="keywords" CONTENT="Algae: Running Algae">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META NAME="Generator" CONTENT="texi2html 1.64">
+
+</HEAD>
+
+<BODY LANG="" BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080" ALINK="#FF0000">
+
+<A NAME="SEC47"></A>
+<TABLE CELLPADDING=1 CELLSPACING=1 BORDER=0>
+<TR><TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_6.html#SEC36"> &lt;&lt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_8.html#SEC53"> &gt;&gt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae.html#SEC_Top">Top</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_toc.html#SEC_Contents">Contents</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57">Index</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_abt.html#SEC_About"> ? </A>]</TD>
+</TR></TABLE>
+
+<HR SIZE=2>
+<h1><img src="icon.gif" alt="">  7. Running Algae </H1>
+<!--docid::SEC47::-->
+<P>
+
+The <CODE>algae</CODE> interpreter assembles your Algae statements into its own
+opcodes and then executes them.  When you are working interactively,
+it does this one statement (or one block of statements) at a time.  When
+its input comes from a file, the entire file is assembled before
+execution of it begins.</P><P>
+
+<BLOCKQUOTE><TABLE BORDER=0 CELLSPACING=0> 
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_7.html#SEC48">7.1 Startup Files</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP"></TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_7.html#SEC49">7.2 The Command Line</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP"></TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_7.html#SEC50">7.3 Errors</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP"></TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_7.html#SEC51">7.4 The algae Prompt</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP"></TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_7.html#SEC52">7.5 Signals</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP"></TD></TR>
+</TABLE></BLOCKQUOTE>
+<P>
+
+<A NAME="Startup Files"></A>
+<HR SIZE="6">
+<A NAME="SEC48"></A>
+<H2> 7.1 Startup Files </H2>
+<!--docid::SEC48::-->
+<P>
+
+When <CODE>algae</CODE> begins execution, it normally tries to read and
+execute two startup files.  The first one it tries is the file in
+which it expects some of its standard functions to be defined.  A
+default name for this file is given when <CODE>algae</CODE> is
+compiled--usually it's something like
+<TT>`/usr/local/lib/algae/3.6.2/algae.A'</TT>.  That name can be
+overridden with an environment variable called <CODE>ALGAE_RC0</CODE>.</P><P>
+
+Without this file, some of <CODE>algae</CODE>'s standard functions will be
+missing.  For this reason, <CODE>algae</CODE> will emit an error message and
+quit if it can't find the file.  (That is, unless the <SAMP>`-S'</SAMP> option
+is specified on the command line.)</P><P>
+
+After <CODE>algae</CODE> reads its standard functions, it looks for the file
+<TT>`.algae'</TT> in your home directory and executes it if it's there.  This
+file's name can be overridden with the <CODE>ALGAE_RC1</CODE> environment
+variable.  Execution of this file is inhibited by the <SAMP>`-s'</SAMP> command
+line option.  No startup files at all are read if the <SAMP>`-S'</SAMP> option
+is given.</P><P>
+
+<A NAME="Command Line"></A>
+<HR SIZE="6">
+<A NAME="SEC49"></A>
+<H2> 7.2 The Command Line </H2>
+<!--docid::SEC49::-->
+<P>
+
+Algae supports command line arguments to request various actions.
+Arguments starting with <SAMP>`-'</SAMP> are <EM>options</EM>.  Other arguments
+specify files to execute.</P><P>
+
+Option flags always begin with a hyphen.  Algae supports both traditional
+single-letter options and mnemonic long option names.  Long option names
+are indicated with <SAMP>`--'</SAMP> instead of <SAMP>`-'</SAMP>.  Abbreviations for
+option names are allowed as long as they are unique.</P><P>
+
+Options which change Algae's behavior take effect before any files are
+executed.  The order of the arguments is unimportant, with the following
+two exceptions:<OL>
+<LI>
+Any input scripts given (with the <SAMP>`-e'</SAMP> or <SAMP>`--script'</SAMP> option)
+are executed in the order that they appear on the command line.  This
+occurs after the startup files are executed and before any other files
+are executed.<P>
+
+<LI>
+Any input files named on the command line are executed in the order in
+which they appear.</OL>
+<P>
+
+Below is a list of options accepted by Algae.  Both the short and long
+option names are indicated.</P><P>
+
+<DL COMPACT>
+<DT><SAMP>`-D'</SAMP>
+<DD><DT><SAMP>`--disassemble'</SAMP>
+<DD><A NAME="IDX518"></A>
+This option turns on the disassembler, which prints <CODE>algae</CODE>'s
+opcodes to stderr in a form like assembly language.  You'll probably
+want to combine this with the <SAMP>`-S'</SAMP> option; otherwise, you'll get
+more than 800 lines of opcodes from the standard functions.<P>
+
+<DT><SAMP>`-d <VAR>i</VAR>'</SAMP>
+<DD><DT><SAMP>`--debug <VAR>i</VAR>'</SAMP>
+<DD><A NAME="IDX519"></A>
+This option sets the debug level to <VAR>i</VAR>, where <VAR>i</VAR> is an
+integer.  It is normally of use only for debugging the <CODE>algae</CODE>
+implementation.<P>
+
+<DT><SAMP>`-e <VAR>commands</VAR>'</SAMP>
+<DD><DT><SAMP>`--script <VAR>commands</VAR>'</SAMP>
+<DD>This option allows you to provide a script for <CODE>algae</CODE> to execute
+from the command line, rather than from a file or from standard input.
+Such a script is executed after any startup files but before any other
+files are executed.  Any number of <SAMP>`-e'</SAMP> (or <SAMP>`--script'</SAMP>)
+options may be given, and the specified scripts are executed in the
+order in which they appear on the command line.<P>
+
+<DT><SAMP>`-h'</SAMP>
+<DD><DT><SAMP>`--help'</SAMP>
+<DD>Print a brief description of the command line arguments.
+<P>
+
+<DT><SAMP>`-i'</SAMP>
+<DD><DT><SAMP>`--interactive'</SAMP>
+<DD><A NAME="IDX520"></A>
+<A NAME="IDX521"></A>
+<A NAME="IDX522"></A>
+This option causes <CODE>algae</CODE> to use interactive mode when reading from
+the standard input device "stdin".  Without this option, <CODE>algae</CODE>
+uses interactive mode only when its input appears to be from a terminal.
+In interactive mode, input is parsed a line at a time and exceptions do
+not cause <CODE>algae</CODE> to exit.<P>
+
+<DT><SAMP>`-n'</SAMP>
+<DD><DT><SAMP>`--nowhite'</SAMP>
+<DD>This option changes the way that scalars are displayed.  The printing
+statements (that is, statements that are terminated by either a newline
+or a <SAMP>`?'</SAMP> character) normally precede the scalar's value with a tab,
+and follow it with a newline.  With this option set, neither the tab nor
+the newline is printed.  (For character scalars, the quotation marks are
+also omitted.)  This option affects the printing statements only, and
+has no effect on the functions like <CODE>printf</CODE>.<P>
+
+<DT><SAMP>`-p'</SAMP>
+<DD><DT><SAMP>`--profile'</SAMP>
+<DD><A NAME="IDX523"></A>
+<A NAME="IDX524"></A>
+<A NAME="IDX525"></A>
+This option enables execution profiling--a means for determining the
+execution time characteristics of your Algae program.  When profiling is
+enabled, the profiler periodically interrupts <CODE>algae</CODE> and records
+the line that is currently being executed.  When <CODE>algae</CODE> exits, it
+records this data in the file <TT>`algae.out'</TT> in the current
+directory.<P>
+
+Use the <CODE>prof</CODE> function to read the <TT>`algae.out'</TT> file and
+summarize it by file and by line number.</P><P>
+
+You may wish to use the <CODE>strip</CODE> function in conjunction with
+profiling.  Since <CODE>strip</CODE> removes the line and file information
+from a function, any time spent in a call to that function gets charged
+to the line from which it was called.</P><P>
+
+We've encountered several systems on which operating system bugs prevent
+the execution profiler from working correctly.  These include a
+DECstation and a Titan, both with MIPS architectures.  If you have such
+a system, then <CODE>algae</CODE> should have been installed with the execution
+profiler disabled.  In that case, you'll get an error message if you try
+to use the <SAMP>`-p'</SAMP> option.</P><P>
+
+<DT><SAMP>`-R'</SAMP>
+<DD><DT><SAMP>`--restrict'</SAMP>
+<DD><A NAME="IDX526"></A>
+<A NAME="IDX527"></A>
+<A NAME="IDX528"></A>
+<A NAME="IDX529"></A>
+This option causes <CODE>algae</CODE> to run in restricted mode.  The
+<CODE>system</CODE> function is disabled, as are "pipes" (i.e., file names
+that begin with the <SAMP>`!'</SAMP> character).<P>
+
+Restricted mode should be used whenever you deal with untrusted Algae
+code.  Without it, a malicious provider of such code could cause major
+damage.</P><P>
+
+<DT><SAMP>`-r'</SAMP>
+<DD><DT><SAMP>`--noreadline'</SAMP>
+<DD><A NAME="IDX530"></A>
+<A NAME="IDX531"></A>
+<A NAME="IDX532"></A>
+If the GNU Readline facility is available, <CODE>algae</CODE> normally uses it
+for interactive command line editing and history.  The <SAMP>`-r'</SAMP> option
+forces <CODE>algae</CODE> to skip Readline processing.  Readline's editing
+commands are similar to emacs: <KBD>C-f</KBD> forward, <KBD>C-b</KBD> backward,
+<KBD>C-p</KBD> up, and <KBD>C-n</KBD> down.  You can change to <CODE>vi</CODE> style by
+typing <KBD>M-C-j</KBD>.<P>
+
+<DT><SAMP>`-S'</SAMP>
+<DD><DT><SAMP>`--nostartup'</SAMP>
+<DD>If this option is given, none of <CODE>algae</CODE>'s startup files are read.
+This means that many of the standard functions will be unavailable.<P>
+
+<DT><SAMP>`-s'</SAMP>
+<DD><DT><SAMP>`--norc'</SAMP>
+<DD>This option skips reading the user's startup file.
+<P>
+
+<DT><SAMP>`-V'</SAMP>
+<DD><DT><SAMP>`--version'</SAMP>
+<DD><A NAME="IDX533"></A>
+This option prints version and date information.
+<P>
+
+<DT><SAMP>`-x'</SAMP>
+<DD><DT><SAMP>`--nostdin'</SAMP>
+<DD><A NAME="IDX534"></A>
+This option causes <CODE>algae</CODE> not to read stdin by default when no
+file names are given on the command line.
+</DL>
+<P>
+
+Any file names given on the command line are executed as input to Algae.
+If no file names are given (and the <CODE>-x</CODE> option is not present),
+input comes from stdin.  You can specify stdin explicitly with a single
+hyphen, so a command line like</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>algae init.A -
+</pre></td></tr></table></P><P>
+
+has <CODE>algae</CODE> execute <TT>`init.A'</TT> first and then read from standard
+input.</P><P>
+
+<A NAME="Errors"></A>
+<HR SIZE="6">
+<A NAME="SEC50"></A>
+<H2> 7.3 Errors </H2>
+<!--docid::SEC50::-->
+<P>
+
+Several types of errors may be encountered when running <CODE>algae</CODE>.
+The two most common are <EM>parse</EM> errors and <EM>run time</EM> errors.
+Parse errors occur while <CODE>algae</CODE> is parsing its input statements.
+Run time errors occur while <CODE>algae</CODE> is executing its code.  In both
+cases, <CODE>algae</CODE> prints a file name and line number associated with
+the error.</P><P>
+
+<A NAME="Prompt"></A>
+<HR SIZE="6">
+<A NAME="SEC51"></A>
+<H2> 7.4 The algae Prompt </H2>
+<!--docid::SEC51::-->
+<P>
+
+When executing interactively, <CODE>algae</CODE> displays the primary prompt
+when it is ready to read a command, and the secondary prompt when it
+needs more input to complete a command.  You can customize the prompt
+simply by assigning a character vector to the global variable
+<CODE>$prompt</CODE>.  Its first two elements specify the primary and
+secondary prompts.  By default, <CODE>$prompt</CODE> is <CODE>( "&#62; ", " " )</CODE>.
+Assigning something other than a character vector to <CODE>$prompt</CODE> is
+not an error---<CODE>algae</CODE> just won't give you a prompt.  (Wouldn't it
+be fun to accept a function?  Hmm, maybe someday.)</P><P>
+
+If the GNU Readline facility is available (that is, linked with
+<CODE>algae</CODE> during installation), <CODE>algae</CODE> normally uses it for
+interactive command line editing and history.  Readline's editing
+commands are similar to emacs: <KBD>C-f</KBD> forward, <KBD>C-b</KBD> backward,
+<KBD>C-p</KBD> up, and <KBD>C-n</KBD> down.  You can change to <CODE>vi</CODE> style by
+typing <KBD>M-C-j</KBD>.  The <SAMP>`-r'</SAMP> command line option forces
+<CODE>algae</CODE> to skip Readline processing.</P><P>
+
+<A NAME="Signals"></A>
+<HR SIZE="6">
+<A NAME="SEC52"></A>
+<H2> 7.5 Signals </H2>
+<!--docid::SEC52::-->
+<P>
+
+<A NAME="IDX535"></A>
+<A NAME="IDX536"></A>
+<A NAME="IDX537"></A>
+If <CODE>algae</CODE> receives an interrupt signal (because you pressed a
+<KBD>C-c</KBD> on the keyboard, for example), it stops what it's doing and
+returns to the prompt.  (If it isn't running interactively, it simply
+exits.)  On Unix systems, you can also use the <CODE>kill</CODE> command to
+send a signal to a process.</P><P>
+
+The implementation of interrupt signal handling in <CODE>algae</CODE> is
+necessarily a compromise.  We want it to respond promptly, but not at
+the expense of our performance.  As a result, it sometimes happens that
+<CODE>algae</CODE> does not respond promptly to an interrupt signal.  (If you
+find a case like this; please report it.  Sometimes it's the result of
+an oversight.)</P><P>
+
+<A NAME="IDX538"></A>
+<A NAME="IDX539"></A>
+Sending <CODE>algae</CODE> a quit signal causes an immediate, clean exit.
+There are various other signals which will cause <CODE>algae</CODE> to
+terminate, but this is the one to use if you want your files closed
+properly, etc.</P><P>
+
+<A NAME="Projects"></A>
+<HR SIZE="6">
+<TABLE CELLPADDING=1 CELLSPACING=1 BORDER=0>
+<TR><TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_7.html#SEC47"> &lt;&lt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_8.html#SEC53"> &gt;&gt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae.html#SEC_Top">Top</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_toc.html#SEC_Contents">Contents</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57">Index</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_abt.html#SEC_About"> ? </A>]</TD>
+</TR></TABLE>
+<BR>  
+<FONT SIZE="-1">
+This document was generated
+by <I>K. Scott Hunziker</I> on <I>October, 31  2001</I>
+using <A HREF="http://www.mathematik.uni-kl.de/~obachman/Texi2html
+"><I>texi2html</I></A>
+
+</BODY>
+</HTML>

@@ -1,0 +1,167 @@
+---
+title: "Biodegradable Technology by R.S. Pearson"
+source_domain: amasci.com
+source_path: ~telical/bdtess.html
+order: 8721
+reachable_from_entry: false
+images: 4
+internal_links: 2
+extracted: 2026-08-07T06:01:14Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Biodegradable Technology by R.S. Pearson
+
+*Source page: `~telical/bdtess.html`*
+
+------------------------------------------------------------------------
+
+[![](paralogobetter.jpg)](http://www.paramind.net)
+
+## BIODEGRADABLE TECHNOLOGIES Copyright 1986/2001 R.S. Pearson
+
+## INTRODUCTION
+
+If industrial civilization ends, it ends, and we don't have to concern ourselves with ecology. If it does not end, we must supply ourselves with the ongoing consumer demand. This consumer demand can cause our natural environment to be greatly damaged, but it doesn't have to. If the ideas in this essay are correct and possible, the more products we manufacture the more of a positive effect we will actually have on the environment because of the carbon dioxide/oxygen exchange.
+
+It can be argued that the consumer drive does not depend only upon the type of goods sold, or its purpose in our lives, but on an inherent human need; the conquest of the item desired, and the need to occupy one's time. This means that a new technology can replace our past technology partially without having to replace its exact function. If the six-billion people on earth continue to expand at the same rate, then most of these people will assume they need televisions, stereos, computers, watches, etc. This is the great fact that most western environmentalist have historically not wanted to deal with. Without considering this fact, the work of ecology and environmentalism is incomplete. Ecology and environmentalism are not the only part of the picture: we must perserve as much original wildlife habitats as we can but we must also keep our environment as toxin-free and oxygen-rich as we can. Consumer demands are not probably not going to radically change, but the way in which these demans are met can change.
+
+Instead of an overwhelming concern regarding ecological parameters we have continued our depletion of the increasingly limited resources of the planet. We continue to use many sciences without focusing on developing new ones that would operate in a way corresponding to ecological parameters. There are scientists that work in areas and create these negative impacts without themselves searching for the more complex alternative. Surely they are far from brilliant if they are not operating in directions that sustain the health of the biosphere and humanity.
+
+When many are discussing the negative effects of our factories on the environment, they must realize the answer does not lie in eliminating our factories but in modifying them. It appears that it is possible for a technology to be invented that could coexist with the environment. We must come to the realization that our future will have even more technological devices than today. These devices, however, can be constructed on a different platform of technology for a different system of electronics, using different systems of manufacturing.
+
+This work concerns itself not with "new" energy sources, such as solar, wind and aquatic energy. It examines new types of machinery and their industrial production that use these and other new types of energy. Energy, limited throughout our technological history mainly to the burning of wood and fossil fuels, can come from more abundant sources and less damaging processes. These new sources would require machinery appropriate to them, machineries that we have not conceived of, but for needs of which we currently have technology for. Energy sources such as gravity, fermentation and other organic chemical reactions, but perhaps especially the mechanisms of photosynthesis in plant tissues may be utilized but only as we rebuild present technology so it can utilize them.
+
+My premise is if applied research scientists, those working for large manufacturing corporations, have an truly ethical and creative connection to their craft, they can take the Earth out of its present first stages of ecological decay by developing a use of plant genetics that would mimic some present technologies. This is not to say I believe in randomly producing fields of altered crops. . Some of the same precautions that should be taking place in any plant-engineering scenario would have to apply to these new types of plants.
+
+The various types of biodegradable products I envision are
+
+1\) Altered plants -- Plants such as a more advanced rubber tree. Such an item would probably be patented and regulated. The reason for this new rubber tree is that it would replace some of the more toxic plastics.
+
+2\) Machines working with photosynthetic-like processes or other non-toxic alternative technologies. Some items might be standalone devices, or some may produce items much like a tooling or manufacturing machine does in modern industrial plant.
+
+3\) Aesthetic items which also clean the air in the natural plant gas exchange cycle. Such things could be flower-murals or other types of plant modifications in large cities to take affect of the vertical landscape.
+
+## ONE
+
+Today's industrial products damage the physical environment in three distinct ways: by the method in which they are manufactured, by the way they operate when functioning, and by their disposal and eventual decay when obsolete.
+
+This new technology I speak of combines organic chemistry, botany, plant genetics, electronics and mechanics to manufacture new products to perform the tasks of our current technologies.
+
+Plants are a dynamo of power in themselves. They are very effective machines, as we see when we weed our lawns. The harnessing of this natural use of the sun's power, the refining of these natural and non-toxic producing machines is needed to be added to our current factories . One possible goal is to make a plant's biological processes work with different chemicals, producing electronic-like components that are manufactured in a way that will produce no pollution, or a small fraction of today's factory pollution.
+
+These electronics though comparable in function with the electronics of today, would be different in both theory and application. Much theory, such as the concepts of modular components, may remain similar to the electronic theory of today. Due to being built on the foundation of plant tissues and not dry elements, new concepts will be introduced.
+
+The initial technologies developed in this new area of biodegradable technologies need not be a full synthesis of genetics and electronics, but primarily the engineering of botanic variants that would fill a certain need. Some items developed may be like a paper pulp "banana- pod" a deciduous unit that requires no manufacturing after a harvest except the refining of the pulp. Also "banana-pod" trees for other resins may be grown to erase the need for certain petrochemicals.
+
+Petrochemicals form such a large percentage of our products that it is hard to foresee if we could ever live without them. Yet since we do use so much of them it also seems imperative that we abolish the way they are being produced and reinvent their chemical ideas so that the production of these substances do not harm humanity nor the environment. This general area is one that science has already conquered in many ways, but the manufacturing establishment is reluctant on changing.
+
+The first resins we could develop are the resin family's that rubber trees produce. Then with genetic engineering we could produce better strains of that resin, and more productive means for the plant to create it. With experimentation, such as feeding the plant's soil with different chemicals, we could begin to get a plant that would tolerate stronger types of rubber.
+
+This new technology would raise the standard of living in industrialized areas and to bring this technology into reality requires the participation of the very foremost scientists working today. In fact, the level of scientific expertise in genetics is such that it is impossible for its knowledge to handle the more advanced types of systems I will be describing. Some simple device, such as putting together a type of banana-pod that encases something like paper pulp or a rubber resin, seems almost possible if it became a point of focus for today's geneticists.
+
+These ideas do not point to any one specific type of technology alone, but instead at many related technologies. I am pointing toward at a spectrum of technologies and methods to handle the wide range of needs that we currently have and will continue to have.
+
+In the catalogue for the earth's plant life there are several oddities: buds, pods, knobs, hard flowers; oddities whose genes could be analyzed to reveal methods for using these compositional devices for a pragmatic purpose. Other items grown may be wooden-like objects, genetically crafted by a machine that could program specific sizes and shapes into plant genetics. The product would be a plant that gives off as fruit or acorns the specific designs. The need to cut down trees to get wood to make these items or use the petrochemical-based polymers currently used so often today to make these items would be eliminated. Even today it seems that one could make a good composition board out of acorns and pine cones, and not cause any loss of trees nor even need the residue of lumber processes.
+
+One direction we want to have available to us is work based on exploring the nature of the chemical composition of plants. As we master this, we can use it in more of our manufacturing processes. We can make things more biodegradable and toxic-free, and I believe the chemical transformations produced by plants from food and sunlight can be altered so that they can become more adaptable.
+
+This is the method by which our work becomes involved with electronics. A plant's food is the soil and the liquid that is watered into the soil. We know that if we add fertilizer we can grow better, stronger plants. But will certain chemicals effect the nature of the photosynthetic processes? If they could, it might begin the change from natural plants into biodegradable technology. Combining this with manufacturing processes derived from botany, such as changes in the environment, grafting, and new manufacturing techniques we have the potential to use the plant kingdom to divert our present use of the environment.
+
+What one can acquire are various devices that are parallel to our current merchandise, yet which are made out of organic and more readily recyclable materials than current plastics, which are not based on organic chemistry like our products are. Nor must they be derived from the lumber of trees. Maybe one day soon we will only need to cut a tree down to get lumber. The jobs that loggers once had could be replaced with jobs in this new industry.
+
+## TWO
+
+How would this change from business owners of pollution-emitting factories toward a new society of business people whose products are based on using the environmentally sound technology occur?
+
+Visually, some may be a technology that at once appears primitive and modern.
+
+What would be the first complete electronic device grown? A simple solar oscillator might be a first complete unit, but before that it seems possible to develop electronic components like the resistor and capacitor.
+
+The first primitive schematic might have on it a photosynthet- ic energy source for a battery and a hard cellulose-back support similar in form to a circuit board. Complex reproductive organ structure in embryo form shows a level of diversity that is most complex in flora. So therefore, since we are trying to find such complex structures in the present plant architecture, we would look at these designs first in the DNA. By designing this as we see fit, it may be possible, with post harvesting manipulations to not get products that exist after harvesting as a single, standalone device, such as a solar-powered l.e.d. clock, but to treat it in various ways to find an organic component for a biodegradable electronic device.
+
+The main problem is the high charge of electricity voltage required in electronics in general. Yet, presently this is not as strong as it was in old electronics. There is a key however. Chlorophyll is chemically similar to hemoglobin; hemoglobin has iron in it. Iron is a metal, and we have the promise that plants resemble electronic technology in this roundabout way. After a system gets to a certain stage, the grafting in of other devices, and a mimicry of the component system of current electronics.
+
+One idea is to manipulate genetic techniques in a seed system; a seed sac with fertilization. The fertilization can be modified to be more than just simple soil, since there are hundreds of elements and compounds that aren't pollutants and can be consid- ered biodegradable and non-toxic to plant, animal and human life. Once a plant is mutated in a certain way for increased durability then it could absorb more of a certain element into its structure for that quality. Likewise, when working with increasing the amount of energy substances in photosynthesis, a corresponding element would be needed from the soil.
+
+One problem is size. It seems just as in non-biodegradable technologies primitive devices were large that the first successful experiments will be quite large. Yet, as things progress, the size of the items will shrink, just like we are witnessing today!
+
+The types of objects that will be built from these bio-degrad- able technologies can be looked at as modular electronic compo- nents.
+
+If purposefully mutated plant DNA can be worked into molecular electronics, all problems might in this new type of electronics might be solved. And since these new devices are hooked up with their own solar power adaptor, these new devices won't require external energy, they will create it with sunlight and soil.
+
+What will the first schematics look like?
+
+It's not a good idea to predicate what we can do in the future. The ideas in this treatise have to be expanded by the mind of the reader. For instance, could a complete televi- sion set one day be grown?
+
+Flower bearing plants are the most complex plant genetics, pods on trees also have complex structures.
+
+Many of these units may still involve manufacturing, or post harvesting manipulation. The genes do not have to always simply grow completed units; rather groups of units that fit and work together.
+
+The first question to answer is what types of restructuring can be done with plant DNA? The second question is how can it be restructured?
+
+A connection of circuits of different cell types for different chemical processes may produce the differentiation we require for this technology to take on the roles of electronic devices.
+
+Let's also work to substitute non-noxious elements into electronics. Electronics has not been geared into ecological parameters; ecology has not guided electronics thus far. The chemicals needed to produce the technology we have now takes place in vast pollution producing factories, the molding of plastic cases throws out tons of carcinogens into the air and directly into the presence of the factory workers when manufacturing them.
+
+## THREE
+
+Methods of manufacturing this technology are obviously different, but so would be business and distribution of the technology. In a lawn or one's backyard, one could grow exotic fruitbearing technologies and market them in a type of Mom-and-Pop type operation. They could be powered from the sun, and some could draw all the nutrients needed for the "factory" from the soil. So a person could support an income from having these different biodegradable machineries based on plant genetics in their backyard.
+
+If one had five different modular fruitbearing technologies in their backyard one might be able to adjust them together each year for different technologies. Perhaps it would have great value for producing new hobbies.
+
+This subject matter can get quite surreal. Imagine if the machines could reproduce and bear seeds, if possible, in the distant future. A very big issue: would these plants naturally carry the mutation in their genes, and give off offspring that would be exactly like them?
+
+To further help the imagination towards the end of recognizing the possibilities of these ideas, I've thought up some future biodegradable technology publications:
+
+Popular Flower Technology\
+Fruitbearing Industries\
+Fruitbearing Technologies\
+International Catalogue of Component Fruitbearing Technologies\
+Catalogue of Electro-Fruiting Technologies\
+Here is one examined in closer detail:\
+Popular Flower Technology: From murals on the side of buildings to postcard size flower paintings, flower technology is the art of utilizing flower genes to make living works of art. In my imagination I see a type of typesetting machine that programs the flower genetics in a mosaic setting to be whatever the programmer intends. The work could be frozen in time by spraying fixative on it. Painting could shift in color by different genes controlling the images, by the different climatic controls inside the plant genes.
+
+Flower genetics could be grafted into tree genetics and then electromagnetically shifted by remote control like impulses, thus one could have a strong body of a tree and have an exquisite flower technological painting surface for exhibition.
+
+Several applications of this possible technology are immedi- ately evident.
+
+Some technologies that may be first fruitful are these applica- tions: pulp machines producing pods for paper pulp, composition boards, polymers produced for rubber and plastic-like materials, aesthetic control of genetics for objects of beauty and hobbies, production of household goods like soap dishes, combs, napkin holders, letter openers, tableware, children's modular toys -- like Legos, blocks, etc.) and cotton articles. Most of these are all items today that are created with plastics, even goods such as nylon fabrics, and any person who works in any factory that today produces items with plastics knows how damaging working in such factories is.
+
+Assorted new inventions could be produced, such as a solar 365-day-a-year calendar which produces images on a background that was similar to a l.e.d. display, and microcomputer screens based on the same principle. Things don't need to be envisioned to be grown in one simple stage but instead could be built of modular components that are grown separately. Parts of the screen could be grown, and then be added to the keyboard and the CPU.
+
+Soon it seems more control of plant genetic code will be developed and we will be able to program it like we program on magnetic tapes or electronic fields. The main apparatus of electronic progress such as the tape recorder/player that can be seen as early as the phonograph and as late as the CD-ROM. We have to invent a biode- gradable version, one that writes and reads in plant DNA. We need to make an I/O device for plant genetic code and once that device is invented, it will have a million uses, just as the tape player recorder (or disk drive, etc.) have now. And in electronics there are other powerful inventions such as the amplifier. We need some type of amplifier. We need some type of amplifier in plant genetics. Perhaps some inventions will work in a different, slower way, controlled by a photosynthetic-like process, but which would still fulfill completely the need of the outdated device.
+
+## Four
+
+The mass production mentality involved in pollution emitting, resource depleting means, is continuing fairly unobstructed in many areas. We can contribute to the "radicals" who are attempting to curb this mentality by first realizing that it is only a "radical" that is not concerned with the problem or who believes there isn't much of a problem. We are all affected by the lack of fresh air in our cities. We are all affected by the results of the toxic environments in our factories: you might not have to work in them but you do have to be around people that may have been negatively affected by them.
+
+For me, I am affected on the level of beauty as well. I don't like it when I am surrounded for dozens of square miles with only a few patches of grass here and there or a token ten-foot high tree. Instead, why not great murals on building sides built out of vegetation-paneling that would make the air of any city smell fresh? And that wouldn't mean having to rely only on valuable city real estate for parks. More parks could be vertical.
+
+There are numbers of concerned scientists working toward waste maintenance, recycling, alternate energies and the like, but even their work is incomplete. When they realize the full solution, outlined here, and when they gear genetic engineering towards the ideas in this work, we will have a platform for a much fresher earth, with the vibrant presence of plants comforting us as it was in the beginning.
+
+We need to build a new bio-friendly technology in whatever areas we are capable of doing it in. Each step that is not extraneous, but pragmatic, will be a point for the score of life over that of death.
+
+It is an incomplete science that has caused so many carcinogens and other harmful pollutants to be produced. Some believe the present manufacturing sciences have even put all life on the earth in jeopardy.
+
+It will only by be a more advanced science that the Earth can be permanently removed from this jeopardy. Our technology is not going to be taken away from us, like the ecological radicals would believe our technology is simply going to transform itself. I want to use the word "clumsy" to describe our technological innovations when they tend to have polluting effects on the environment or on our bodies.
+
+It is not a "spooky thing" that this change must occur. The change should not be seem in some type of New Age totalitarian nightmare. It should be viewed as a gradual yet eventful scientif- ic revolution, with the mechanisms of common sense and desire motivating those who have seen the pain and damage the side effects our technologies can cause. Hopefully by this new direction in science we will have products that will not only supply our present needs but discover technological ideas beyond what we now expect.
+
+By working with plants and other aspects of our environment that we were too primitive to take into account in the excitements of our first major years of technological discovery, our science will take off in new ways and we will ultimately begin to exhaust the well of scientific progress.
+
+The nature of the profitability impulse has at its heart when that heart is uncivilized only conformitive and routine repitition. The idea of "not re-inventing the wheel" when the wheel is a system that brings in large amounts of money while still degrading the whole biosphere is an area that needs to be studied and worked on by great minds who are also environmentalists and futurists.
+
+I believe through this writing I can open up a definite horizon of what some future technology will actually be like, a technology that is more advanced than present technology in the way it is harmless to life on earth.
+
+[Back to Biodegradable Technology's Contents Page](bdt.html)
+
+[Back to the Creative Virtue Contents Page](index.html)
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+[![](paralogobetter.jpg)](http://www.paramind.net)
+
+<a href="http://www.qksrv.net/click-1431511-10273964?url=http%3A%2F%2Fwww.systransoft.com%2Ft.cgi%3Fid%3Daffiliate%26link%3Dpersonal-cd" target="_top"><img src="http://www.systransoft.com/Img/personal40-small.jpg" data-border="0" alt="SYSTRAN Personal 4.0 CD version" /></a> <img src="http://www.qksrv.net/image-1431511-10273964" data-border="0" width="1" height="1" />

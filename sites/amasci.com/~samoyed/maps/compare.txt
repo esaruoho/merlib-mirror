@@ -1,0 +1,38 @@
+Comparison Matrix of Routing Programs 
+ Comparison Matrix of Routing Programs 
+
+ Map Routing Programs Comparison Matrix 
+ Microsoft Automap Series Delorme Series Rand McNally AAA 
+ Destination Series 
+ Feature Atlas Sts Camp Golf Europe Ski Pro MapNGo Sts Phone Trip Sts 
+ Home Page yes no no no no no no yes yes yes ? ? ? 
+ Price $40 $50 $40 $20 $40 $20 $50? $35 $70 $70 $40 $50 . 
+ Floppies ? no 5 ? ? ? ? . . . . . . 
+ CD's 1 2 . . . . 1 1 3? ? ? . 
+ Work w/o CD yes yes n/a . . . n/a no no? no? ? ? . 
+ Work w/ Road Atlas n/a yes yes . . . n/a . ? . . . . 
+ Work w/ Streets yes n/a no . . . ? ? . yes . . . 
+ Route Planning yes no yes* . . . yes yes no . yes . . 
+ Itinery yes yes* . . . yes no . . . . . 
+ Strip Maps no . . . . . no yes . . . . . 
+ Optimization no . . . . . yes no . . . . . 
+ Stop Overs 25T . . . . . ?TNS 50T? . . . . . 
+ Daytime prefs. yes . . . . . ? no . . . . . 
+ Rest Breaks no . . . . . ? no . . . . . 
+ Exits no no yes ? ? ? no no . 
+ Avoids RA . . . . . RA? no . . . . . 
+ Preferences yes yes yes 
+ Speeds yes . . . . . yes yes . . . . . 
+ Mileage yes . . . . . yes ? . . . . . 
+ Cost G . . . . . G ? . . . . . 
+ Gas Up yes* . . . . . . . . . . 
+ Rest Stops ov . . . . . ov? . . . . . 
+ Hotels/Motels 800# . . . . . no yes . . . . . 
+ Sites of interest yes . . . . . no yes . . . . . 
+ Relief Map yes . . . . . yes . . . . . 
+ Save Routes yes . . . . . yes yes . . . . . 
+ Vehicles 1 . . . . . many? ? . . . . . 
+
+ Last Updated: January 16, 1996 
+Analyst/Contact: Ron Bowser 
+ E-Mail Address: samoyed@eskimo.com

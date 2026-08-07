@@ -1,0 +1,29 @@
+Director I - Skills for homeworks 
+
+ Skills you need for the homework assignments 
+ Select a link below to review skills you will need to complete each homework 
+ assignment. 
+ Homework #1 
+ Homework #2 
+ Homework #3 
+
+ Homework #2 
+
+ Casting to time (making animations from multiple images) 
+ Creating buttons 
+ Creating behaviors & using the behavior inspector 
+
+ Homework #3 ( Spec ) 
+ ( Samples) 
+
+ Creating a workspace for Shockwave projects 
+ Preparing a new Director file for 
+ Shockwave 
+ Preparing images for Shockwave 
+ Creating buttons 
+ Embedding fonts 
+ Problems? Try these Troubleshooting Tips . 
+
+ END HIDING --> 
+
+ Back

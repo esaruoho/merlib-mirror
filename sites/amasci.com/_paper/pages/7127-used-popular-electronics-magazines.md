@@ -1,0 +1,143 @@
+---
+title: "Used Popular Electronics Magazines"
+source_domain: amasci.com
+source_path: ~robertf/stuff/popelec.html
+order: 7127
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-07T05:59:49Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Used Popular Electronics Magazines
+
+*Source page: `~robertf/stuff/popelec.html`*
+
+> # Surplus *Popular Electronics* Magazines for Sale
+>
+> **These magazines are for sale for \$4.00 each (plus shipping, taxes, etc., as explained below).**
+>
+> The purchaser shall be responsible for costs of mailing, taxes, and customs duties as applicable.
+>
+> Please check out our [Conditions of Sale](salecond.html).
+>
+> For shipping options, please see [Shipping Options](shipmags.html).
+>
+> For payment options, please see [Payment Options](payment.html).
+>
+> If interested, please send an e-mail to Bob Fleming at <robertf@eskimo.com>.
+>
+> Popular Electronics magazines up through 1972 were a personal expense and are listed on Bob Fleming's site. Beginning in 1973, the magazines became an expense of the Fleming Company (Flemco) and those are listed on the Flemco site. For that reason you see some of the magazines listed here, and to see the others please [**click here**](http://www.eskimo.com/~flemco/stuff/popelec.html) to go to the Fleming Company's Popular Electronics page.
+>
+> - Vol. 22, No. 1 - January 1965
+> - Vol. 22, No. 2 - February 1965
+> - Vol. 22, No. 3 - March 1965
+> - Vol. 22, No. 4 - April 1965
+> - Vol. 22, No. 5 - May 1965
+> - Vol. 22, No. 6 - June 1965
+> - Vol. 23, No. 1 - July 1965
+> - Vol. 23, No. 2 - August 1965
+> - Vol. 23, No. 3 - September 1965
+> - Vol. 23, No. 4 - October 1965
+> - Vol. 23, No. 5 - November 1965
+> - Vol. 23, No. 6 - December 1965
+> - Vol. 24, No. 1 - January 1966
+> - Vol. 24, No. 2 - February 1966
+> - Vol. 24, No. 3 - March 1966
+> - Vol. 24, No. 4 - April 1966
+> - Vol. 24, No. 5 - May 1966
+> - Vol. 24, No. 6 - June 1966
+> - Vol. 25, No. 1 - July 1966
+> - Vol. 25, No. 2 - August 1966
+> - Vol. 25, No. 4 - October 1966
+> - Vol. 25, No. 5 - November 1966
+> - Vol. 25, No. 6 - December 1966
+> - Vol. 26, No. 1 - January 1967
+> - Vol. 26, No. 2 - February 1967
+> - Vol. 26, No. 3 - March 1967
+> - Vol. 26, No. 4 - April 1967
+> - Vol. 26, No. 5 - May 1967
+> - Vol. 26, No. 6 - June 1967
+> - Vol. 27, No. 1 - July 1967
+> - Vol. 27, No. 2 - August 1967
+> - Vol. 27, No. 3 - September 1967
+> - Vol. 27, No. 4 - October 1967
+> - Vol. 27, No. 5 - November 1967
+> - Vol. 27, No. 6 - December 1967
+> - Vol. 28, No. 1 - January 1968
+> - Vol. 28, No. 2 - February 1968
+> - Vol. 28, No. 3 - March 1968
+> - Vol. 28, No. 4 - April 1968
+> - Vol. 28, No. 5 - May 1968
+> - Vol. 28, No. 6 - June 1968
+> - Vol. 29, No. 1 - July 1968
+> - Vol. 29, No. 2 - August 1968
+> - Vol. 29, No. 3 - September 1968
+> - Vol. 29, No. 4 - October 1968
+> - Vol. 29, No. 5 - November 1968
+> - Vol. 29, No. 6 - December 1968
+>
+> <!-- -->
+>
+> - Vol. 30, No. 1 - January 1969
+> - Vol. 30, No. 2 - February 1969
+> - Vol. 30, No. 3 - March 1969
+> - Vol. 30, No. 4 - April 1969
+> - Vol. 30, No. 5 - May 1969
+> - Vol. 30, No. 6 - June 1969
+> - Vol. 31, No. 1 - July 1969
+> - Vol. 31, No. 2 - August 1969
+> - Vol. 31, No. 3 - September 1969
+> - Vol. 31, No. 4 - October 1969
+> - Vol. 31, No. 5 - November 1969
+> - Vol. 31, No. 6 - December 1969
+> - Vol. 32, No. 1 - January 1970
+> - Vol. 32, No. 2 - February 1970
+> - Vol. 32, No. 3 - March 1970
+> - Vol. 32, No. 4 - April 1970
+> - Vol. 32, No. 5 - May 1970
+> - Vol. 32, No. 6 - June 1970
+> - Vol. 33, No. 1 - July 1970
+> - Vol. 33, No. 2 - August 1970
+> - Vol. 33, No. 3 - September 1970
+> - Vol. 33, No. 4 - October 1970
+> - Vol. 33, No. 5 - November 1970
+> - Vol. 33, No. 6 - December 1970
+> - Vol. 34, No. 1 - January 1971
+> - Vol. 34, No. 3 - March 1971
+> - Vol. 34, No. 4 - April 1971
+> - Vol. 34, No. 5 - May 1971
+> - Vol. 34, No. 6 - June 1971
+> - Vol. 35, No. 1 - July 1971
+> - Vol. 35, No. 2 - August 1971
+> - Vol. 35, No. 3 - September 1971
+> - Vol. 35, No. 4 - October 1971
+> - Vol. 35, No. 5 - November 1971
+> - Vol. 35, No. 6 - December 1971
+>
+> **Popular Electronics including Electronics World:**
+>
+> - Vol. 1, No. 1 - January 1972
+> - Vol. 1, No. 2 - February 1972
+> - Vol. 1, No. 3 - March 1972
+> - Vol. 1, No. 4 - April 1972
+> - Vol. 1, No. 5 - May 1972
+> - Vol. 1, No. 6 - June 1972
+> - Vol. 2, No. 1 - July 1972
+> - Vol. 2, No. 2 - August 1972
+> - Vol. 2, No. 3 - September 1972
+> - Vol. 2, No. 4 - October 1972
+> - Vol. 2, No. 5 - November 1972
+>
+> There are also business magazines for sale at [The Fleming Company's magazines-for-sale site.](http://www.eskimo.com/~flemco/stuff/magazine.html)\
+> and computer magazines for sale at [the Flem-Data mgazines-for-sale site.\
+> \
+> ](http://www.eskimo.com/~flemdata/stuff/magazine.html)[Return to Magazines for Sale](magazine.html)\
+> [Return to List of Stuff to Sell](main.html)\
+> [Return to The Fleming Family home page](../index.html)\
+>
+> ©2000 Robert M. Fleming Jr.
+>
+> \
+> This page last updated 4 January 2002.

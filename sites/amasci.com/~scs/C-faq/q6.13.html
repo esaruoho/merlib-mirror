@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 6.13</title>
+<link href="q6.12.html" rev=precedes>
+<link href="q6.14.html" rel=precedes>
+<link href="s6.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 6.13</H3>
+<p>How do I declare a pointer to an array?
+</p><hr>
+<p>Usually, you don't want to.
+
+When people speak casually of a pointer to an array,
+they usually mean a pointer to its first element.
+</p><p>Instead of a pointer to an array,
+consider
+using a pointer to one of the array's elements.
+Arrays of type T decay into pointers to type T
+(see question
+<a href=q6.3.html>6.3</a>),
+which is convenient;
+subscripting or incrementing
+the resultant pointer
+will access
+the
+individual members of the array.
+True pointers to arrays, when
+subscripted or incremented, step
+over entire arrays,
+and are generally useful only when operating
+on arrays of arrays,
+if at all.
+(See
+question
+<a href=q6.18.html>6.18</a>.)
+</p><p>If you really need to declare a pointer to an entire array,
+use something like
+``<TT>int (*ap)[N];</TT>''
+where <TT>N</TT> is the size of the array.
+(See also question
+<a href=q1.21.html>1.21</a>.)
+If the size of the array is unknown, <TT>N</TT> can
+in principle
+be omitted,
+but the resulting type, ``pointer to array of unknown size,''
+is useless.
+
+</p><p>See also question <a href=q6.12.html>6.12</a>.
+</p>
+<p>References:
+
+ANSI Sec. 3.2.2.1
+<br>
+ISO Sec. 6.2.2.1
+<br></p><hr>
+<p>
+Read sequentially:
+<a href="q6.12.html" rev=precedes>prev</a>
+<a href="q6.14.html" rel=precedes>next</a>
+<a href="s6.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

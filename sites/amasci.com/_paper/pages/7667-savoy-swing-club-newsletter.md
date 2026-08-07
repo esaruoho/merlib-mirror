@@ -1,0 +1,51 @@
+---
+title: "Savoy Swing Club Newsletter"
+source_domain: amasci.com
+source_path: ~savoy/v1n2_a3.htm
+order: 7667
+reachable_from_entry: false
+images: 3
+internal_links: 10
+extracted: 2026-08-07T06:00:16Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Savoy Swing Club Newsletter
+
+*Source page: `~savoy/v1n2_a3.htm`*
+
+<img src="images/ssclogo.gif" data-align="middle" width="408" height="158" alt="Savoy Swing Club Logo" />
+
+ 
+
+<div align="left">
+
+# Savoy Swing Club Newsletter Articles
+
+#### Vol 1, Issue 2: Spring 1996
+
+</div>
+
+## <img src="images/dog1.gif" data-align="bottom" data-hspace="10" width="32" height="42" alt="Lindy Dog" />Herrang, Sweden
+
+The Ultimate Lindy Hop Workshop. Each summer for the last three years I have said "I am not going to Herrang" and each July saw me back in Sweden. Why? What's so special about a dance camp in Sweden? The dancing. The people. For any Lindy aficionado, Herrang is a mecca. Officially, Herrang is primarily a Lindy Hop camp run as a joint effort of the Rhythm Hot Shots (RHS) and the Swedish Swing Society. In reality, most of the direction comes from Lennart Westerlund of the RHS. The camp is 4 weeks and runs from July 7 - August 4 (or as they say in Sweden, weeks 28 - 31). You can attend 1, 2, 3, or 4 weeks though I would say that most attend for 1 to 2 weeks. Each year they vary the teachers a bit. The RHS make up the core of the teaching staff but all the greats are there: Frankie and Chazz, Steven Mitchell, Erin Stevens, Ryan Francois, Dawn Hampton. They also vary the staff by adding some local talent such as Swedish, German and Swiss Boogie Woogie and Lindy Hop champions.
+
+The best dancers in the world are there teaching and learning and just hanging out. The first time I went, I thought I was pretty hot. I'd been doing Lindy for about a year and a half. I could handle whatever Frankie or Steven dished out. I was ready. Or so I thought. In Sweden, there are many who have been dancing Lindy for 10 or more years. There are teenagers who fly through the air and others who have been doing the dance for years. In Herrang, the best dancers improvise and play. There are so many dancers to watch for inspiration. This is Lindy incarnate and I learned most of my lessons outside of the workshops, at 2 or 3 in the morning.
+
+Because, as any Herrangophile will tell you, the party doesn't really cook until after midnight and often doesn't end - the people leave the dance floor, go to the mess tent for breakfast and on to class. Sleep? You can sleep when you are dead. This is the land of the midnight sun and Blues in the Night. Which brings me to my second point. The people. Yes, fabulous dancers: Lindy hoppers, tappers, boogie woogie. It all oozes together on an incredibly tiny floor (about the size of Dance on Capitol Hill - but with several hundred people trying to dance). But, it is more. It is a very social camp. Each week they have 3 events: Blues in the Night (the party starts at about midnight and its blues til dawn), the Cabaret (the inspiration for our own Wild Week Cabaret) and a party; the RHS throw the BEST parties. Each summer they have only one live band dance (usually the 3rd Friday) - but it is HUGE and the dancing superb. But, there are other parties: Fright Night (ask Jodi), Beach Party, and Crawfish Party. Each week a different theme. Then there is the Blue Moon Cafe, more recently known as Polly P's. You can share a beer or dessert (don't miss the banana pie) with a new friend. And, people come from all over the States and Europe. You will make friends for life, people who you will miss so much you think, "I can't imagine not seeing and dancing with this summer" and so off to Herrang you go.
+
+So, when you go, here are a few pointers. Pack light but bring easy to wash clothes (it is casual except for the big dance). Bring your swimsuit and sun screen - don't be surprised by topless sunbathers. This is Europe after all. Don't worry about t-shirts, the camp store is always stocked (bring cash - preferably Swedish krone but Lennart has been known to give a good deal on travellers cheques). Bring mosquito repellent - they can be voracious (don't even ask about the man-eating ladybugs 2 years ago...). Be realistic about the level of class you sign up for. Remember, intermediate level in Seattle is not the same as on the other side of the world. It is courteous to step down a level when in doubt. The Lindy is progressively more difficult over the 4 weeks. So, intermediate in week 1 may be similar to intermediate at home but in week 4, intermediate is more like advanced.
+
+Also, when you are asked to dance (or when you do the asking), remember that it is customary to dance two songs in a row. Pace yourself and learn to nap. Don't expect to eat like you do at home. If you do you will be disappointed. And, finally, plan on spending at least a few days in Stockholm after the camp has ended. With all your new friends, you are sure to have a free night's stay and a wonderful time exploring this beautiful northern city. And remember if you go this summer, you will have to say hello to everyone for me because I'm not going this year . . . I think. Well, maybe....
+
+*-- Christine Nelson*
+
+*... return to [Newsletter Index](news.htm)*
+
+<div align="left">
+
+<img src="images/waveline.gif" data-align="bottom" width="756" height="16" />
+
+[Savoy Homepage](index.html) \| [Membership](member.htm) \| [Classes](classes.htm) \| [Practice](practice.htm) \| [News](news.htm) \| [Performance](performa.htm) \| [Events](events.htm) \| [Dances](dances.htm) \| [Links](links.htm) \| [Pictures](previews.htm)
+
+</div>

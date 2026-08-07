@@ -1,0 +1,382 @@
+APRS Presentation for SnoCo RACES, 02/21/2002:
+----------------------------------------------
+Your boring presenter for tonight is:  Curt Mills, WE7U,
+archer at eskimo dot com.  I'm a member of Snohomish County
+Volunteer SAR, and my main interests there are in Base Support
+activities.
+
+NW region mailing list, details at:  http://nwaprs.org
+More links listed near the end of this document.
+
+Software available for viewing tonight:
+  APRS+ on Win95, with DeLorme Street Atlas 8.0
+  Xastir on Linux, with many free sources of maps
+  PocketAPRS on PalmOS
+  SmartPalm on PalmOS
+--------------------------------------------------------------------------
+1) What the heck is APRS?
+
+  Short answer:  Sending/receiving locations, messages, and other data
+  via amateur radio.  This info shows up graphically on users' displays.
+
+  Long answer:
+
+  NOTE:  Asterisks are next to items of interest for RACES and SAR.
+
+* - Resource Management at a glance:
+*   - Radio trackers are used for mobile or portable resources.
+*   - Manual placement of objects on the map for other resources, problem
+      areas, search boundaries, etc.
+* - One-liner messages via the APRS system, regional or world-wide.
+    NTS Messaging is supported in some APRS programs.
+* - Weather at a glance, including severe storms, hurricanes and tornados.
+* - Transmitter hunting, especially team-oriented efforts.
+* - Emergency beacons (including satellite support for this).
+* - Internet E-mail:  One-way only, from APRS to the 'net.
+* - Full capabilities are available at locations with an internet
+    connection but no radio equipment.
+* - Earthquake objects:  Objects are placed on the internet feeds multiple
+    times an hour by two geographically separate stations (WA/CA).
+  - Telemetry.
+  - Satellite Communication, Russian Space Station MIR (defunct)/
+    International Space Station (ISS)/PCsat/Sarex/Saphhire, others.
+  - Meteor Scatter propagation.
+  - HF APRS.
+  - Smart services that can be queried (traffic congestion, repeaters in
+    the local area, etc).
+  - Findu.com, JavaAPRS.
+  - Mic-E repeaters (position burst at end of TX).
+  - DX-Cluster spots can appear directly on your maps.
+  - Speech or other alarm outputs based on positions of objects (like
+    proximity alarms, alert on new message, etc).  This is seriously
+    fun to play with!
+  - Tracking for high altitude balloon experiments
+  - Tracking for public service events such as the Olympics, marathons,
+    bicycle races, Alcan rally, etc.  Someone built a tracker into an
+    Olympic torch once so it's position could be tracked.
+    (http://web.usna.navy.mil/~bruninga/torch.html)
+
+You don't need a GPS, TNC, or even a radio to participate in APRS.  You can
+get started with a computer and an internet connection.  TNC's collecting
+dust in the garage can be put to use nicely for home APRS stations.
+
+What does APRS stand for?  Does it matter?  It stands for "Automatic
+Position Reporting System".  It was invented by Bob Bruninga, WB4APR.
+He's the aprsDOS author and still very active in APRS activities.
+--------------------------------------------------------------------------
+2) What can APRS do for my emergency service organization?
+
+  Logistics:
+  ----------
+  - Real-time tactical display of an operation, including full mapping. 
+    Keeps track of resources without interrupting the voice comms. 
+
+  - Track fixed or mobile assets.  An object need not have a tracker to
+    become a tracked object on the map.  Objects can be placed on the
+    map and updated manually.
+(demonstrate this)
+
+  - Promote high usage of given resources:
+    - Real-time positioning of deployed resources
+    - Real-time positioning of unused resources
+    - Visibility of quickest routes to deploy those resources and routes
+       to avoid.
+    - Danger areas and other objects can be described directly on the map
+       and transmitted to all with an APRS map display.
+
+  - Allows people at the EOC/DEM office to keep track of the operation out
+    in the field in near real-time. 
+
+  Operations:
+  -----------
+  - Find transmitters FAST!!!  This could be useful for Project Lifesaver.
+    APRS can be used with omni-directional or directional antennas,
+    including doppler equipment.  Fade-circle technique is also available
+    in DosAPRS.
+(demonstrate a portion of this with Xastir)
+
+  - Teams can be given a direction and distance of travel to the nearest
+    road, based solely on their position as seen on the map at Base.
+    We've had a need for this on actual searches.
+
+  - Search aircraft can have their positions/tracks monitored real-time
+    on search maps, and be informed immediately if there are holes in
+    the search coverage.  Vehicles/Aircraft can be guided to particular
+    sites via APRS and voice comms, for instance SAR base camp or a
+    helicopter landing site.  Base can see the aircraft approaching the
+    target on the map. 
+
+  - Lost/misguided vehicles or teams can be quickly put back on track via
+    APRS.  We've sure needed this at times!  We've lost several man-hours
+    due to teams missing their target search areas.  The operations chief
+    could also direct teams into areas that hadn't been properly searched,
+    without waiting for a briefing at base of where a team THOUGHT it had
+    been searching.
+
+  - In areas of extreme damage (earthquakes, tornadoes, volcanoes, floods,
+    etc), APRS can help to identify buildings, street corners or other
+    tracked assets that search teams or damage control teams need to get
+    to or monitor. It can also be used to keep track of evacuation routes
+    and whether each route is currently available or blocked. 
+(demonstrate area objects?)
+
+  - For fires a real-time map can help to keep workers out of danger.
+    Positions can be updated manually from data relayed by voice, or
+    automatically by APRS trackers. 
+
+  Planning:
+  ---------
+  - If the software supports it, detailed annotated maps may be printed
+    as needed during the search, customized maps with objects and
+    boundaries relevant to the operation placed on them.
+
+  - Damage areas and extent can be updated as an operation progresses.
+
+  - Documentation of previous activities is readily available for the
+    planner.
+
+  Communications:
+  ---------------
+  - One-liner messaging.  Similar to instant messaging on the internet
+    that some of you may have used.  Can be used world-wide if you can
+    reach an internet gateway or are connected to the internet directly.
+(demonstrate?)
+
+    This should not be relied on for critical communications unless each
+    the sender verifies that each ACK is received, and the other end of
+    the link responds manually that they read the message.  Perhaps a
+    better protocol for reliable messaging would be TCP/IP, which also can
+    be provided by amateur radio operators for an event.
+
+  - Some APRS programs support NTS messaging.
+
+  - Allows sending internet e-mail from the field.  i.e. Send an "I'm ok"
+    e-mail to family members from a remote location.
+
+  - If equipped with messaging-capable units, volunteers can be checked
+    in/out while the vehicle is in transit.  Assignments may be delivered
+    to the vehicles en-route.  No long detours to search base required.
+
+  - Teams can be recalled/reassigned quickly.
+
+  - Supplemental data can be supplied to teams via APRS as it becomes
+    available using one-line messages, without tying up voice comms. 
+
+  Documentation:
+  --------------
+  - Document an event for legal purposes.  If each team and vehicle has
+    APRS and radio coverage is adequate, the search progression is easily
+    recorded.
+
+  - APRS documentation from a search may be used as feedback to teams to
+    help prepare for future events.  This info could also be fed back into
+    the pre-plan for an area to be used at the next similar event.
+
+  Weather Info:
+  -------------
+  - Weather at the site can be automatically relayed and viewed in aircraft
+    that may need to arrive/depart quickly. Wind direction and speed are
+    critical info for helicopters.  It's easy to interface a weather
+    station directly into the command vehicle's APRS system so that it
+    is broadcasting this information.  Other weather stations in the area
+    are automatically viewable.
+
+  Public Information (ham public anyway):
+  ---------------------------------------
+  - An operation can be made more visible to the public to promote
+    knowledge of the event (or not!).  Xastir has options to disable
+    certain classes of transmissions for more sensitive operations. 
+--------------------------------------------------------------------------
+3) How does APRS work?
+
+  Strings of data are sent through the radio and received by everyone
+  listening.  The data describes such things as locations, symbol types,
+  weather, speed, altitude, etc.  The computer handles displaying the
+  data in a usable manner on the map screen.
+
+  - One simplex 2-meter frequency for entire U.S. and Canada.
+  - Smarter digipeaters, duplicate packets are reduced.
+  - Nearly every home station is a RELAY digipeater.  This helps mobile
+    and portable stations to get heard.
+  - Internet and HF gateways.
+  - Findewe.com database/web server in Florida.
+
+  As a user you typically don't need to worry about the infrastructure.
+  It's already in place in many areas and maintained by very active APRS
+  people.
+
+  A place you _can_ make a difference is in the APRS settings:  Please
+  follow the settings listed on the NWAPRS pages or discussed on the
+  NWAPRS mailing list.
+
+Questions?
+--------------------------------------------------------------------------
+4) What do I need to set up an APRS station?
+
+  Typical home station:
+  ---------------------
+    a) Computer w/serial port
+    b) TNC (a soundcard can be used instead)
+    c) Radio
+    d) Antenna
+    e) Shareware or freeware APRS program
+
+  Note that no GPS is required here.  Differences between this station and
+  a packet station of 15 years ago:  The station is tuned to 144.39 MHz,
+  and we've installed APRS software on the computer.
+
+
+  Absolute minimum home station, used as relay for other stations:
+  ----------------------------------------------------------------
+  a) TNC ("myalias RELAY")
+  b) Radio
+  c) Antenna
+
+The above is the mode many home stations are in when they're using
+the computer for other things.  They're still helping out neighboring
+APRS stations by being a RELAY station.
+
+
+  Typical mobile/portable station:
+  --------------------------------
+    a) GPS
+    b) TNC (may be built into the radio)
+    c) Radio
+    d) Antenna
+
+    (Optional) PDA or Laptop w/APRS software
+
+  Many mobile/portable stations are only equipped for transmit.  These
+  stations have no messaging capability.  You can also operate mobile or
+  portable without a GPS.  In that case you'll need to update your
+  position manually via the APRS software from time to time.
+
+
+  Equipment choices optimized by money/time:
+  ------------------------------------------
+  - Plenty of money:   Kenwood/Alinco, KPC-3+, Dual-port PicoPacket,
+    ShineMicro TNC for Handspring Visors.
+
+  - Plenty of time:  TinyTrak-II, PIC TNC, HSP Adapters, soundcard TNC.
+    I usually choose this category, although I don't have much time!
+    I have sources for cheap GPS's, radios, TNC's.
+
+    HSP Adapter:  A small circuit that lets you hook both a GPS and a TNC
+    to one computer serial port.  They can be bought ready-made or built
+    from scratch.
+
+
+  Equipment choices optimized by reliability/ruggedness:
+  ------------------------------------------------------
+  - Ammo-can style trackers for mobiles.
+  - Tube-trackers for portables.
+  - Otter boxes with magnets for mounting on outside of vehicles.
+
+  Non-Ham:  Cobra & Garmin are coming out with FRS/GPS and GMRS/GPS
+  radios that can send positions to like radios at the push of a button.
+  Non-hams APRS.  Short range.  No infrastructure available to cover a
+  wider area.  No automatic positioning allowed, must push a button to
+  send the position.  Many hikers may end up equipped with these.
+
+  In the commercial world systems like our APRS system are called AVL,
+  which stands for Automatic Vehicle Location systems.
+
+
+  Computers and Operating Systems:
+  --------------------------------
+  APRS programs can run on:  DOS, Windows, Mac, PalmOS, WinCE, FreeBSD,
+  Linux, Solaris, perhaps others.
+
+  Shareware Windows software: WinAPRS (can use Precision Mapping CD's)
+                              APRS+ (Can use Delorme Street Atlas CD's)
+                              Ui-View
+                              AprsPoint (interfaces to Microsoft MapPoint CD's)
+  Freeware Windows software:  EasyAPRS (not available yet)
+
+  Shareware Mac Software:     MacAPRS
+  Freeware Mac OS X Software: XASTIR
+
+  Freeware PalmOS software:   SmartPalm
+  Shareware PalmOS software:  PocketAPRS
+
+  Shareware WinCE software:   APRSce
+
+  Freeware FreeBSD/Linux/Solaris/Mac OS X software:  XASTIR (114 map
+  formats and counting!)
+  Shareware Linux software:   Xaprs
+
+
+  - Go to http://nwaprs.org and subscribe to mailing list.  Ask questions
+    there if you get hung up.
+  - Ask me:  I should be able to direct you to someone who can help,
+    although my standard answer is, "Try installing Linux over your
+    Windows partition first to see if that helps."  ;-)
+  - If you're running Windows and have problems, try rebooting 75 times.
+    That seems to be the magic number.
+--------------------------------------------------------------------------
+More detailed discussions can occur after the meeting.  I'll be available.
+
+- Questions FROM audience?
+
+- Questions TO audience...
+  - Interested in more info?  Contact info for them?
+  - Have deviation meter available?
+
+We be done!
+--------------------------------------------------------------------------
+Additional sources of information...
+
+  Links to Software:
+  ------------------
+        Xastir:  http://www.xastir.org
+     SmartPalm:  http://smartpalm.sourceforge.net
+    PocketAPRS:  http://pocketaprs.com
+       Ui-View:  http://www.ui-view.com
+       WinAPRS:  http://www.tapr.org
+         APRS+:  http://www.tapr.org
+     AprsPoint:  http://www.aprspoint.com
+       MacAPRS:  http://www.tapr.org
+
+  Links to Information Sites:
+  ---------------------------
+    http://nwaprs.org
+    http://www.tapr.org
+    http://www.dididahdahdidit.com
+    http://www.aprs.org                 (Bob Bruninga's Pages)
+    http://www.eskimo.com/~archer       (WE7U's Main site)
+    http://wetnet.seatcp.net/~we7u/     (WE7U's Turnkey_APRS site)
+--------------------------------------------------------------------------
+  A Few Implementation Options:
+  -----------------------------
+  - APRS can be deployed using MIC-E style operation on the voice frequency.
+    This allows one transceiver to be used for voice-comms and for APRS.
+
+    When the radio unkeys an APRS packet gets sent before the transmitter
+    is dropped. This would require training of voice operators who will hear
+    modem tones on the frequency periodically. It may also require special
+    licensing of the APRS software and careful review of the FCC rules for
+    the band in question if used on non-ham frequencies. 
+
+  - Displays could be placed at Operations, Incident Command, Planning,
+    and Logistics stations, and one for searchers who aren't currently
+    deployed. This would require less interaction between all parties in
+    order to keep appraised of current status.  Most of these would not
+    need transmit capability and could be tied into one central APRS
+    station used by Operations. 
+
+  - Tactical calls may be assigned to different tracked teams that define
+    the particular talents of that team, for instance "Hasty Team 1" could
+    be called "Hasty1", "Dog Team 5" could be called "Dog5", "Man-Tracking
+    Team 6" could be "Track6", etc. This allows instant recognition of
+    where the specialty teams are deployed via a quick glance at the map.
+    It's best to use the same label for a team as used on the voice radio. 
+
+  Boring technical details:
+  -------------------------
+  - Transmit delay (TXD):  Keep it short.
+  - Deviation:  3.25 kHz is a good goal.  Must be set for each TNC/Radio
+    combination.
+  - Path setting:  Currently "RELAY,WIDE3-3" for mobiles, "WIDE3-3" for
+    home stations.
+  - Transmit interval:  Per NWAPRS recommendations.
+  - Check your tones.  They should be on or near 1200 and 2200 Hz.

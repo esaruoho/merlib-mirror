@@ -1,0 +1,223 @@
+Why Windows Sucks
+
+Why Windows Sucks
+
+a rant by
+
+Al Wong
+
+May 18, 2003
+
+Making Money on the Internet
+
+I discovered a way to make money on-line
+that is not a scam!
+
+Windows Sucks! I can't stand it anymore! Windows has always sucked.
+
+I have used Windows 2.0 in the early 1990s and it was slow, slow, slow.
+I thought Windows 3.1 was a vast improvement even though it kept crashing like
+every 10-15 minutes.
+
+I kept quiet when Microsoft forced all computer makers to abandon MS-DOS and
+put Windows 95 (Win95) 
+ on all their new computers in 1996! 
+The Command Window in Win95 and above is not true DOS. 
+Don't let anyone fool you.
+Also, you had to buy new software for Win95 to replace the old software
+you had working in MS-DOS! Of course, more bugs were introduced.
+I quietly resisted by asking that
+my new computer still have MS-DOS and Windows for Workgroups 3.11. I even had to
+pay extra for this.
+
+I knew we were going further downhill when the "more stable"
+ Windows 98 (Win98) was released and businesses around me
+tried to upgrade to it from Win95. The upgrade just made the slow systems even slower and buggier
+
+I tried to be understanding when Windows 2000 and Windows NT were released.
+Some bugs were fixed but other bugs took their place.
+You also had to buy other more expensive software to replace the older
+software you had running in the earlier version of Windows.
+This, of course,
+introduced more bugs.
+
+ Windows is the BIGGEST SCAM in the computer field. 
+It purports to make computers easier to use for everyone.
+ However, quite the opposite has occurred.
+
+I believe the real reason why the return on investment 
+for office computer productivity has been flat
+or increased little in the last 8 years is because of Windows.
+I certainly feel Windows has contributed to the computer 
+
+ productivity paradox. 
+
+It may even be the main cause for the paradox!
+Waiting for this 
+
+time parasite
+
+ to bootup, restart after frequent crashes,
+time spent on installation of programs, dealing with program conflicts,
+etc. is the biggest time waster in any business!
+Further proof:
+
+ Why Bigger and Faster? 
+Ever wonder why newer versions of Windows require
+you to upgrade your computer hardware? Ever notice your productivity remains the same
+or is less even though your present computer is hundreds of times faster 
+and more powerful than the one you
+had just five years ago?
+
+Wake up people! It's a scam! You don't need a faster computer. You need a better
+operating system. Microsoft continuingly makes money by selling you the latest
+and greatest Windows. The latest Windows version is always the most inefficient yet, 
+slowing down your fast computer. Also, now you have to upgrade all your 
+other software too because different Windows versions are not compatible with each other! 
+A hidden cost not mentioned at all. It's part of the scam.
+
+ Computer Crashes Are Not Normal. Believe it or not, your computer hardware was
+designed to run continuously for weeks and months without crashing.
+Crashing everyday is NOT normal. It is accepted as normal because of Windows.
+
+ Windows Help is Pretty Useless. 
+ What a time waster. If you want an overview, read the 
+ Windows Help 
+or better yet, read the manual. If you need help on a specific problem,
+you can be sure Windows Help does not have that information. 
+Also, I have never solved a problem I had using
+the Windows Help Troubleshooter. 
+
+ WinXP Help tries to be "smarter" by pointing to webpages.
+However, the URLs appear to be all broken in WinXP Help. 
+It appears some idiotic webmaster at Microsoft changed all the support links
+rendering WinXP Help all but useless.
+
+ What New Features? Microsoft constantly harps on providing new
+features in it's products. Features hardly anyone uses.
+You know what features I would like?
+
+I want EVERY Windows program to remember the LAST DIRECTORY
+I looked at. 
+Also, I want Windows to remember the LAST FILE TYPE I was looking at.
+
+I hate opening My Computer and having to start at the top of the directory tree
+every damn time! It should put me in the last directory I looked at.
+
+I hate running Notepad and having
+to start at the top of the directory tree every damn time.
+Then I have to set the file type to "All Files" because Notepad 
+insists on looking for *.txt files first! How asinine is that?
+I want to see ALL THE FILES, damn it!
+
+Just those two simple features would save untold hours of wasted time.
+It should be relatively trivial to implement. Those two features are the extra 10%
+that make using Windows 100% better.
+
+Do you think Microsoft will make this change to make life easier?
+A feature which will actually be used by everyone?
+A certain more bang for your buck effort?
+They have not in all the previous versions of Windows!
+
+ Idiotic Behaviour. 
+Why does Windows blame the user everytime it crashes? After a crash, some
+versions of Windows insist on scanning the hard disk first before booting up.
+Meanwhile, Windows chides the user for not shutting it down properly!
+This can and does happen several times a day.
+ It was not the user's fault Windows crashed. Microsoft, take responsibility for
+your buggy operating system.
+
+ Changing Procedures. 
+One of the strengths of Windows is it gives the user a familar and 
+common environment. All windows should behave the same way. Menu items
+should also behave the same way. Great.
+
+Then why do the procedures to do something keep changing between the versions
+of Windows?
+
+ You force the user to relearn how to do what should be a simple task.
+For example, the procedure to enable/disable 
+the hard disk caching is different in each version of Windows!
+Windows itself is behaving differently.
+
+Another example, how to disable programs that automatically
+startup in WinXP on bootup. It used to be simple.
+In earlier versions of Windows, you just move the program shortcuts 
+from the Startup folder.
+But Nooooo, let's add 3-4 levels of difficulty:
+
+ First, DON'T MENTION how to do it in the Windows XP Help. 
+ Second, let's put some Startup programs in using
+environmental variables and others in the some unknown space
+like the Windows registry where a tiny mistake can screw everything up.
+ Third, let's make one program so ONLY that program
+can make the changes. Let's not tell the user what that program is.
+And forget about the Startup folder/file model that
+everyone is used to.
+ Fourth, let's require the user to reboot his computer again
+just to break up his session and his train of thought.
+ Fifth, let's put up a warning that the system is now
+booting in "Diagnostic" mode to further confuse the user.
+
+Just because you disabled a program from starting on bootup,
+ WinXP automatically assumes you are running diagnostics.
+It doesn't assume you JUST DON'T WANT that program starting up
+because it's simply annoying, takes up space, takes time to load, etc.
+Or that you didn't ask it to load on startup. It just rudely put itself there.
+
+ Busy Work. Windows introduces a slew
+of other problems that did not exist before. Whole industries have
+arisen to solve this busy work. (i.e. work that appears to be
+accomplishing something but in fact, does nothing.)
+The infrastructure that supports Windows is a separate
+billion dollar industry unto itself! This industry strives to
+make Windows "easier" to use. 
+
+Since this has not happened,
+all the effort in the Windows industry is further productivity that is wasted.
+
+I cannot believe no one else has seen this.
+
+I just discovered something about 
+
+Ebay 
+
+that's ominous.
+I was trying to put some auctions on-line as a seller. I have not
+sold anything at Ebay for more than a year. 
+The real problem
+is this. You cannot submit an auction at Ebay
+using Netscape (I'm using Netscape version 6.2.3)
+anymore! The submission won't finish! The Netscape window just disappears
+without an error message!
+You HAVE to use Internet Explorer! 
+That really pisses me off! Ebay is forcing you to use a
+Windows product with no other options! 
+Ebay should know better than that.
+
+To my knowledge, Microsoft does not own Ebay. Yet.
+
+ Other Links 
+
+What's So Bad About Microsoft
+
+is a very well written, comprehensive piece. Recommended.
+
+Windows XP Shows the Direction Microsoft is Going
+
+is another well written piece concentrating on Windows XP.
+
+What Alternatives Are There to Microsoft?
+
+Lists various alternative operating systems and software
+that are non-Microsoft based.
+
+Rants and Rage
+
+Contains random mini-rants BBS style. Some are over the edge. Some are entertaining.
+
+ My Writings 
+
+Last updated : May 2, 2005
+
+Copyright 2003 Al Wong, Los Angeles, California, USA

@@ -1,0 +1,152 @@
+Standard Cryptographic Algorithm Naming 
+
+ UniversalHash Algorithms 
+
+ Links 
+
+ Helger Lipmaa's pages on hash functions: 
+
+ http://www.tcs.hut.fi/~helger/crypto/link/hash/ 
+ and MAC algorithms: 
+
+ http://www.tcs.hut.fi/~helger/crypto/link/hash/mac.html 
+
+ Design and Analysis 
+
+ J. Kim, D. Simon, P. Tetali, 
+ "Limits on the Efficiency of One-Way Permutation-Based Hash Functions," 
+ Microsoft Research, 1999.
+
+ http://www.research.microsoft.com/scripts/pubDB/pubsasp.asp?RecordID=234 
+
+ Description 
+
+UniversalHash algorithms are keyed hash functions with specific provable
+security properties. Although they have an interface similar to a MAC, it
+is not secure to use a UniversalHash directly as a MAC. [[Explain what should
+be done instead.]]
+
+In some cases, a MAC algorithm based on a particular UniversalHash may be defined
+(e.g. UMAC32 is based on UHASH32 ).
+Alteratively, a DEM or MAC construction can be defined generically in terms
+of any UniversalHash. ( UST may be an example of this.)
+
+ &#215; UHASH16 [( signedFlag , 
+ preferredEndian , l1KeyLen , outputLen )] UniversalHash Construction
+
+ Designers: 
+ Theodore Krovetz, John Black, Shai Halevi, A. Hevia, Hugo Krawczyk,
+ Phillip Rogaway 
+ Published: 
+ November 2000
+ Description: 
+ This is UHASH from the version of UMAC submitted to the NESSIE project (UMAC 2000),
+ with the 16-bit parameter set. The default parameters are signedFlag = S,
+ preferredEndian = LE, l1KeyLen = 1024, outputLen = 8.
+
+ Note that the signed default is different from UHASH32 .
+ References: 
+
+ [ Def ] T. Krovetz, J. Black, S. Halevi, A. Hevia, H. Krawczyk, P. Rogaway, 
+ UMAC: Message Authentication Code using Universal Hashing . 
+ draft-krovetz-umac-00.txt in
+
+ http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip 
+ [ Inf, Impl, Test ] T. Krovetz, 
+ PhD Thesis, 
+ thesis.pdf in
+
+ http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip 
+ [ Inf ] Phillip Rogaway, 
+ UMAC Home Page , 
+
+ http://www.cs.ucdavis.edu/~rogaway/umac/ 
+ [ An ] Bart van Rompey, Vincent Rijmen, Jorge Nakahara Jr., 
+ "A First Report on UMAC," 
+ NESSIE Project public report, March 12, 2001. 
+
+ https://www.cosic.esat.kuleuven.ac.be/nessie/reports/kulwp3-006-1.pdf 
+ [ Test ] Bart Van Rompay, Bert den Boer, 
+ UMAC Test Vectors . 
+ testsuite.txt in
+
+ http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip 
+
+ Key length: 
+ As block cipher.
+ Output length: 
+ As given by outputLen parameter.
+ Parameters: 
+
+ String signedFlag [creation/read, default "S"] -
+ "S" for signed, or "U" for unsigned.
+ String preferredEndian [creation/read, default "LE"] -
+ "LE" for little-endian, or "BE" for big-endian.
+ Integer l1KeyLen [creation/read, default 1024] - the length
+ of the seed (or counter) value, in bytes.
+ Integer outputLen [creation/read, default 8] - the length
+ of the hash output in bytes.
+
+ &#215; UHASH32 [( signedFlag , 
+ preferredEndian , l1KeyLen , outputLen , cipher )] UniversalHash Construction
+
+ Designers: 
+ Theodore Krovetz, John Black, Shai Halevi, A. Hevia, Hugo Krawczyk,
+ Phillip Rogaway 
+ Published: 
+ November 2000
+ Description: 
+ This is UHASH from the version of UMAC submitted to the NESSIE project (UMAC 2000),
+ with the 32-bit parameter set. The default parameters are signedFlag = U,
+ preferredEndian = LE, l1KeyLen = 1024, outputLen = 8.
+
+ Note that the unsigned default is different from UMAC16 .
+ References: 
+
+ [ Def ] T. Krovetz, J. Black, S. Halevi, A. Hevia, H. Krawczyk, P. Rogaway, 
+ UMAC: Message Authentication Code using Universal Hashing . 
+ draft-krovetz-umac-00.txt in
+
+ http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip 
+ [ Inf, Impl, Test ] T. Krovetz, 
+ PhD Thesis, 
+ thesis.pdf in
+
+ http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip 
+ [ Inf ] Phillip Rogaway, 
+ UMAC Home Page , 
+
+ http://www.cs.ucdavis.edu/~rogaway/umac/ 
+ [ An ] Bart van Rompey, Vincent Rijmen, Jorge Nakahara Jr., 
+ "A First Report on UMAC," 
+ NESSIE Project public report, March 12, 2001. 
+
+ https://www.cosic.esat.kuleuven.ac.be/nessie/reports/kulwp3-006-1.pdf 
+ [ Test ] Bart Van Rompay, Bert den Boer, 
+ UMAC Test Vectors . 
+ testsuite.txt in
+
+ http://www.cosic.esat.kuleuven.ac.be/nessie/workshop/submissions/umac.zip 
+
+ Key length: 
+ As block cipher.
+ Output length: 
+ As given by outputLen parameter.
+ Parameters: 
+
+ String signedFlag [creation/read, default "U"] -
+ "S" for signed, or "U" for unsigned.
+ String preferredEndian [creation/read, default "LE"] -
+ "LE" for little-endian, or "BE" for big-endian.
+ Integer l1KeyLen [creation/read, default 1024] - the length
+ of the seed (or counter) value, in bytes.
+ Integer outputLen [creation/read, default 8] - the length
+ of the hash output in bytes.
+
+ Alleged UniversalHashes 
+
+ hash127 .
+ TMMH16,
+ TMMH32 .
+
+ Copyright and trademarks

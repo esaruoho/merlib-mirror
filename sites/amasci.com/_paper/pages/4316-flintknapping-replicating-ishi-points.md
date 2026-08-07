@@ -1,0 +1,35 @@
+---
+title: "Flintknapping, Replicating Ishi points"
+source_domain: amasci.com
+source_path: ~knapper/Ishi_Points.html
+order: 4316
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:57:26Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Flintknapping, Replicating Ishi points
+
+*Source page: `~knapper/Ishi_Points.html`*
+
+**REPLICATING ISHI POINTS**
+
+**By Jim Redfearn**
+
+Back in 1911, the last wild Indian ever to be seen in his natural state, walked into modern civilization, and brought with him his stoneage technology. Ishi was lucky to be recognized as an anthropological find by the staff (Waterman & Kroeber) at the University of California at Berkley. Ishi came to live on campus, at the museum. He gave daily demonstrations on arrowhead and arrow manufacture along with other skills such as bow and spear making, firemaking, lodge building, etc.
+
+Ishi wasnt too much different than us, except for the fact that he relied on his weapons and tools for survival, until he came to civilization. We all try to rely on ours, when we escape back to the wilderness!
+
+As flintknappers we all try to conjure up pieces of the lost world. One of my favorite points is the Ishi Point. The one-inch by three-inch triangular point is one of the most beautiful and deadly stone points ever designed. The most incredible thing about an Ishi Point is the notches. Less than a thirty secondth of an inch at the entry, they expand to almost an eight of an inch wide, and vary from a forth to three eighths deep into the side of the point. The notches start in about one forth to five sixteens inch from the corners of the concave base. The flaking on Ishi Points is sort of indiscriminate. Wherever a flake was needed he took it, leaving the blade about three sixteens thick and the edge very sharp.
+
+Ishi liked obsidian most, but he was known to use flint, agate, plateglass, brown bottle glass and blue Milk of Magnesia bottles for his working materials.
+
+Heres my formula for Ishi Points. When using a spall, try to use a flat one if possible. Ishi points break very easy during manufacture! (HA) The less thinning you have to do the better. Use random pressure flakes to build and thin your preform. Leave the preform a hair wider and longer for the final pass. Abrade lightly on the point end, getting a little heavier toward the base, youll want those longer flakes to go at least halfway. Start the final flaking pass by working tip to base, holding the point end to the left. Then on the other edge of the same face, work from base to the tip. This gives a slightly oblique pattern. Shear the deltas off very lightly and abrade same as before only lighter, because the flakes wont be as long as before. Repeat the procedure for the second side and then flake in the basal concavity without leaving hinges. This gives a nice taper towards the notch area. The completed preform should wind up about three inches by one inch.
+
+Now for the hard part, the notches. I use a mild steel nail, filed flat, almost down to nothing, perhaps a sixty fourth of an inch thick, the point of which is then worked to a 45 degree angle. Then it is set into an antler handle with a set screw. This allows me to feed out more nail as it wears down. Keep this tool sharp or you will have failures back into the notch, (bad news for sure). Starting about one quarter to five sixteens inch from the corner of the base, take out the first flake of the notch so it will run in a little way. On the same flake from the same side, abrade with the tool in the bottom of the notch. This sets up a platform for the other side. Now take another thinning flake back the other way. This relieves thickness in the notch and keeps you from having to build up too much pressure to keep your notch going. Keep the piece down flat on a soft piece of leather to stabilize it. From the entry start working your way back into the mass of the blade. As you go farther in, start to widen out the notch upwards, more towards the tip than the base. Pay very close attention to the ears. One wrong move and you wont have one! With luck youll wind up with a narrow teardrop notch, whose depth is about one-third the width of the point. Now stop shaking and do the same thing on the other side!
+
+Id like to thank Charlie Shewey, for letting me look at his points that were made by Ishi, while at the Fort Osage knapp in this fall. It was a real privilege. Thank you Dane Martin and D.C. Waldorf for helping me write this article. (I have never done one before). Most of all Id like to thank Ishi (Man, in Yahi) for sharing his world and his beautiful work with us. Modern flintknappers started with him and his legacy is flourshing today, as it should.\
+\
+\[[CHIPS](http://www.eskimo.com/~knapper/Chips_front_page.html)\]\[[The Knapper's Corner](http://www.eskimo.com/~knapper/)\]

@@ -1,0 +1,50 @@
+SSC Main Page 
+
+ Tim Worcester 
+ Normal 
+ Tim Worcester 
+ 20 
+ 90 
+ 2001-12-18T04:35:00Z 
+ 2001-12-28T04:40:00Z 
+ 1 
+ 79 
+ 455 
+ 3 
+ 1 
+ 558 
+ 9.2720 
+
+ THE ELECTRONIC CLOSET 
+
+ Software Maintenance
+Services 
+
+ General Programming Services 
+
+ Our staff possesses expertise in the following software environments: 
+
+ MircoSoft Visual BASIC 
+
+ HP-UX &#8216;C&#8217; 
+
+ Borland 
+ &#8216;C&#8217; 
+
+ Atmel 8 bit AVR Assembly 
+
+ Acoustic Test Applications 
+
+ Our staff developed all the TATF acoustic test software. 
+
+ Cell Sentry Applications 
+
+ Our staff developed all the embedded firmware in the Cell Sentry 
+
+ hardware and also developed the software in the Cell Sentry II
+Office 
+
+ database application.. 
+
+ --- Website 
+The Electronic Closet, 1980-2001 ---

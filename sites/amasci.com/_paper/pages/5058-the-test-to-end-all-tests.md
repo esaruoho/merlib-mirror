@@ -1,0 +1,139 @@
+---
+title: "The Test to End All Tests"
+source_domain: amasci.com
+source_path: ~miyaguch/endall.html
+order: 5058
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:58:06Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Test to End All Tests
+
+*Source page: `~miyaguch/endall.html`*
+
+Paul Cooijmans's The Test to End All Tests
+
+Published online with permission from the author\
+Maintained by [Darryl Miyaguchi](mailto:miyaguch%20at%20eskimo%20dot%20com)\
+
+Revision History:
+
+|  |  |
+|----|----|
+| 8/9/97 | The test is now published as close to Paul's format as I could make it. |
+
+ 
+
+                       THE TEST TO END ALL TESTS
+                            PAUL  COOIJMANS
+                            De Wolwever 39
+                            5737 AD Lieshout
+                              Netherlands
+
+                        ALSO AVAILABLE IN DUTCH
+
+         These problems may be taken as a parody on the type of
+    analogies appearing in many IQ-tests.  They may entertain you,
+    but will also require some knowledge, persistence and under-
+    standing of what is going on.  When attempting this test, you
+    may use reference aids (including time machines) but not con-
+    sult other persons.  There is no time limit.  When you feel
+    you won't find any more answers, send your solutions with US
+    $5 scoring fee (cash) to the address on top of this page.
+    Please mention your name, age, sex and scores on previously
+    taken tests, including the names of the tests.  Within two
+    weeks you will receive a score report, containing the number
+    of problems solved correctly.
+
+         After norming, you will receive a new report indicating
+    how you did compared to other candidates and estimating gener-
+    al population IQ's and percentiles.  With a score at or above
+    the 99.9999999th percentile you will be eligible for member-
+    ship in The Giga Society, that has only one member so far.
+    Membership in other societies with lower cutoff scores will
+    also be possible.
+
+         These analogies have unique solutions; even the ones that
+    seem unsolvable have clear and sometimes crushing answers.
+    Strict reasoning will give direct insight into a bloodcurdling
+    future.
+
+         An example: to the analogy  CAUSE A FUSS :(is to) KICK
+    UP ::(as) SPASMODIC CONTRACTION OF THE DIAPHRAGM :(is to) ?
+    the best answer would be HICCUP.
+
+     1  WONDERBRA : HERZIGOVA :: HEELS SO HIGH SHE CRASHED DOWN
+        ON CATWALK : ?
+     2  RIPPER : JACK :: IMPALER : ?
+     3  REINCARNATE AS CAMILLA'S PANTIES IN SPITE DI : CHARLES
+        :: SKATE 200 KM ELFSTEDENTOCHT AND FINISH NY MARATHON IN
+        SPITE OVERWEIGHT : ?
+     4  PORN ACTOR IN SPITE PUDENDUM CUT OFF : BOBBIT :: COMPOSER
+        IN SPITE DEAF : ?
+     5  MODEL IN SPITE SIZE 40+ : SOPHIE :: AUTHOR OF THE SICK IN
+        SPITE SHOT DOWN IN '40 : ?
+     6  CHARM CLAUDIA : DAVID COPPERFIELD :: ADORE DORA : ?
+     7  GIRL POWER : SPICE GIRL :: BARF OUT - GAG ME WITH A SPOON
+        - GROSS : ?
+     8  SHOW LEG GETTING OUT OF CAR : DI :: SHOW LEG RIDING THROUGH
+        MARKET PLACE : ?
+     9  ACRONYM : ACROSTICHON :: NYLON : ?
+    10  MT ST HELENS : ERUPTION :: EDWARD VAN HALEN : ?
+    11  CONCEIVED 'GLASNOST' AND CHANGED THE WORLD - BUT DRUNK
+        UNDER THE TABLE BY JELTSIN : GORBACHEV :: WROTE SYMPHONY
+        AT 18 AND SHOOK THE WORLD - BUT STRUCK A DISCORD WITH STA-
+        LIN : ?
+    12  COULDN'T FLY WITH MOLTEN WINGS : ICARUS :: PLAYED IN SPITE
+        BROKEN STRINGS : ?
+    13  PREHISTORIC INSTRUMENTS AND SOUND OF THE PALEOLITHIC :
+        WALTER MAIOLI :: INSTRUMENTS FOR CHILDREN AND MEDIEVAL
+        TEXTS : ?
+    14  MOVIES : HITCHCOCK :: TESTS : ?
+    15  DICE : CRIME :: PRICE : ?
+    16  LOLLIPOP : KOJAK :: JELLYBABY : ?
+    17  REINCARNATE AS HIMSELF WHILE FAT ONE BECOMES DONKEY : LAUREL
+        :: BEATEN UP AND THROWN ALL OVER THE PLACE IN EACH OF HIS
+        MOVIES - HARD ACT TO FOLLOW : ?
+    18  NAME : FELIX THE CAT :: SPECIES : ?
+    19  ATLANTIC : SPIRIT OF ST LOUIS :: OLYMPIC : ?
+    20  CONSCIOUS AFTER HOLDING BREATH 3 MINUTES 15 SECONDS AND
+        RUNNING 1000 METER IN SAME TIME - BUT NOT AT THE SAME TIME
+        : COOIJMANS :: CONSCIOUS AFTER METAL BAR THROUGH BRAIN : ?
+    21  THINK WHILE FIDDLING : HOLMES :: LECTURE WHILE MUSHROOMING
+        : ?
+    22  IMPROVE SPEECH BY RECITING VERSES WHEN RUNNING OR OUT OF
+        BREATH AND WITH PEBBLES IN MOUTH : DEMOSTHENES :: IMPROVE
+        SPEED BY HOLDING BREATH AND KNEE BENDS WITH WIFE ON SHOUL-
+        DERS : ?
+    23  ADDRESS : COUNT DRACULA :: INCITE TO COMPULSIVE BEHAVIOUR
+        : ?
+    24  I SAY TO IT - BEND, BABY, BEND! : GELLER :: I HAVE A HALF-
+        WARMED FISH IN MY MIND : ?
+    25  CURED : LOURDES :: HOSPITALIZATION BECAUSE OVERDOSED ON
+        CULTURE AND ART : ?
+    26  SILLY WALK WITH WOODEN LEGS AND FINGER UNDER NOSE : CLEESE
+        :: JUGGLE WITH INFLATABLE GLOBE IN OFFICE : ?
+    27  TRIUMPH OF DEATH : BRUEGEL :: ALWAYS D., ALWAYS SUFFER : ?
+    28  IMPROVE SPEECH BY RECITING VERSES WHEN RUNNING OR OUT OF
+        BREATH AND WITH PEBBLES IN MOUTH : DEMOSTHENES :: IMPROVE
+        PITCH SINGING SCHUBERT, DELIBERATELY ACCOMPANIED IN WRONG
+        KEY BY ACOUSTICIAN FATHER : ?
+    29  EAR : VAN GOGH :: EYES : ?
+    30  IMPROVE SPEECH BY RECITING VERSES WHEN RUNNING OR OUT OF
+        BREATH AND WITH PEBBLES IN MOUTH : DEMOSTHENES :: STUDY
+        LAW, DELIBERATELY 'COUNTERACTED' BY BAILIFF FATHER : ?
+    31  WRITTEN : 1895 :: INVENTED : ?
+    32  MOON : NEIL ARMSTRONG :: MARS : ?
+    33  JEROME V MARTON : 2133 :: MIRTLE BURGON : ?
+    34  GRAZE : DIRECT HIT :: EARTH CROSSER : ?
+    35  FIRST : HOMER :: LAST : ?
+    36  DINOSAUR : YUCATN :: MAN : ?
+
+                           END OF  ALL TESTS
+
+ 
+
+    Return to the [Uncommonly Difficult I.Q. Tests](http://www.eskimo.com/~miyaguch/hoeflin.html) page.

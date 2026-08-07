@@ -1,0 +1,30 @@
+
+Playoff Standings
+1st Round     2nd Round              3rd Round            Finals
+(Best of 7)   (Best of 7)            (Best of 7)          (Best of 7)
+1 Dal (2) _
+8 GS (4)   |_ 8 Golden State (1) _
+            _ 4 Utah (4)          |
+4 Uta (4) _|                      |_ 4 Utah (1)       _
+5 Hou (3)                          _ 3 San Antonio (4) |
+                                  |                    |
+2 Pho (4) _                       |                    |
+7 LAL (1)  |_ 2 Phoenix (2)    ___|                    |
+            _ 3 San Antonio (4)                        |
+3 SA (4) __|                                           |
+6 Den (1)                                              |_ 3 San Antonio (4)
+                                                        _ 2 Cleveland (0)
+                                                       |
+1 Det (4) _                                            |
+8 Orl (0)  |_ 1 Detroit (4) ______                     |
+            _ 5 Chicago (2)       |                    |
+4 Mia (0) _|                      |                    |
+5 Chi (4)                         |_ 1 Detroit (2)  ___|
+                                   _ 2 Cleveland (4)
+2 Cle (4) _                       |
+7 Was (0)  |_ 2 Cleveland (4) ____|
+            _ 6 New Jersey (2)
+3 Tor (2) _|
+6 NJ (4) 
+ 
+

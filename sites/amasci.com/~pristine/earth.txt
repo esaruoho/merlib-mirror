@@ -1,0 +1,341 @@
+Pure Mac: Earth Sciences 
+
+ Earth Sciences 
+
+ Earth Browser 
+ HourWorld 
+ McHurricane 
+
+ QuakeMap 
+ Seditools 
+ Son of Weather Grok 
+ SunClock 
+
+ TerrainLab Earth 
+ Tide Stamp 
+ Time Palette 
+ Weather Calculator 
+ WeatherCenter 
+
+ Weather Grok 
+ WeatherMac 
+ WeatherMan 
+ WeatherTracker 
+ WeatherWatch 
+
+ Assorted Software for Geoscientists 
+ Geotechnical and Geoenvironmental Software Directory 
+ Intellicast 
+ The Soft Earth 
+ The Weather Channel 
+ WeatherNex 
+ The Weather Underground 
+
+ Earth Browser 1.5.4 
+
+Earth Browser is a three dimensional model of the Earth that is constantly
+monitoring conditions around the globe. It will keep you informed on the latest
+weather forecasts, earthquakes, volcanoes and webcams from all over the world.
+It also becomes a beautiful screen saver when your computer is idle.
+
+ License : Shareware, $19.95
+ Author/Publisher : Lunar Software
+ Modification Date : September 7, 2001
+ Requirements : PPC and Mac OS X
+
+ Direct Download
+ File Size: 1730 Kb
+
+ Home Page 
+
+ HourWorld 2.5.1 
+
+Five clocks will show you the time at selected
+places on the globe. You'll be able to calculate how far away places are from your home, moon rises and sunsets in
+the future, and lots of other things. Previously WorldClock.
+
+ License : Shareware, $30
+ Author/Publisher : Leighton L. Paul
+ Modification Date : March 18, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 1191 Kb
+
+ Parent Directory
+
+ Home Page 
+
+ McHurricane 5.0.1 
+
+McHurricane is a Macintosh hurricane/storm tracking utility, covering the Atlantic Basin and the Eastern
+Pacific including Hawaii.
+
+ License : Shareware, $25
+ Author/Publisher : Al Boyd/formerly Bill Chenault
+ Modification Date : September 9, 2001
+ Requirements : PPC, Mac OS 8.1 or higher
+
+ Direct Download
+ File Size: 1768 KB
+
+ Home Page 
+
+ QuakeMap 1.2.3 
+
+The whole history of earthquakes for last 6 months can be viewed on the map; earthquakes in
+selected areas can be charted (magnitude versus time), intensity of earthquakes in a
+particular neighborhood can be evaluated, and a simulated earthquake can be evaluated for
+damage.
+
+ License : Demo, $29.95
+ Author/Publisher : Vital Bytes
+ Modification Date : June 3, 1999
+ Requirements : PPC
+
+ Direct Download
+ File Size: 3947 Kb
+
+ Home Page 
+
+ Seditools 1.1.2 
+
+SediTools is a collection of free small applications to convert or calculate some things as used in sedimentology. At this time 6 tools are available:
+ 1 - A Geological Time Scale
+ 2 - A Stoke's sinking time auto-calculation
+ 3 - A centrifuge sinking time auto-calculation
+ 4 - A 2Theta - d-value () - auto-conversion - by a given wavelength.
+ 5 - A (simple) Time-Temperature-Index calculation (Lopatin method)
+ 6 - A simple Log Generator
+
+ License : Freeware
+ Author/Publisher : Rainer Petschick
+ Modification Date : January 22, 1998
+ Requirements : 68030 or better or PPC
+
+ Direct Download
+ File Size: 291 Kb - 68k version
+
+ Direct Download
+ File Size: 236 Kb - PPC version
+
+ Home Page 
+
+ Son of Weather Grok 4.1.4 
+
+Son of Weather Grok is an application that displays weather conditions for cities from around the world. It taps into NOAA's (National Oceanic and Atmospheric Administration) data center using 4 letter ICAO codes for Airports.
+
+ License : Freeware
+ Author/Publisher : John M. Schilling
+ Modification Date : December 19, 2001
+ Requirements : Classic PPC, Mac OS 8.6 or higher, and OS X
+
+ Direct Download
+ File Size: 1303 Kb - Carbon version 4.1.4
+
+ Direct Download
+ File Size: 1012 Kb - PPC version
+
+ Home Page 
+
+ SunClock 1.2.2 
+
+SunClock is a nifty little application that shows what part of the world the sun is shining on. The shape of the shadow changes with the season. It is a port of the UNIX program sunclock.
+
+ License : Freeware
+ Author/Publisher : Darik Datta
+ Modification Date : November 28, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 82 Kb 
+
+ Home Page 
+
+ TerrainLab Earth 1.0 
+
+TerrainLab Earth is a unique software tool to create stunning 3D globe images and
+animations from real geographical data using OpenGL. These images can be saved
+into different image file formats as well as animations. The fully functional
+demo version is available for downloading. The application is running under
+Windows and Macintosh computers. Have a look at the gallery to see more images
+and animations created by TerrainLab Earth.
+
+ License : Demo, $69.95
+ Author/Publisher : TeleLab
+ Modification Date : August 12, 1999
+ Requirements : PPC, System 7 or higher
+
+ Direct Download
+ File Size: 3406 Kb
+
+ Home Page 
+
+ Tide Stamp 2.0.2 
+
+Tide Stamp is a tide and current predictor. The key word here is predictor. 
+Tide prediction algorithms cannot consider unusually strong winds, stormy
+weather conditions, spring runoff, or other factors which can and will affect
+tides. Therefore always view tidal predictions as no more than estimates of the
+real thing. This version will calculate tides for for the year 2001.
+
+ License : Freeware
+ Author/Publisher : Brian C. Burke
+ Modification Date : December 29, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 460 Kb - World
+
+ Direct Download
+ File Size: 536 Kb - North America
+
+ Direct Download
+ File Size: 555 Kb - Canada
+
+ Direct Download
+ File Size: 274 Kb - Australia
+
+ Parent Directory 
+
+ Time Palette 4.0.3 
+
+Calculates the proper time for any location in the world.
+Daylight Saving Time is handled corectly with an Atlas of 10,000 cities
+included. The software displays maps of the earth in eleven different
+projections showing the current areas of day, twilight and night across
+the earth.
+
+ License : Shareware, $25
+ Author/Publisher : Trygve Inda
+ Modification Date : July 13, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 4632 Kb - PPC version 4.0.3
+
+ Direct Download
+ File Size: 321 Kb - 680x0 version 2.1
+
+ Home Page 
+
+ Weather Calculator 1.0 
+
+The calculator comes with the usual set of functions (+, *, /, and =) plus
+exponential (e) and exchange (X>Y), can display up to ten digits, and has
+limited help (balloon and menu).
+The calculator also has some weather functions. It can be used for the
+conversion of temperatures between centigrade and Fahrenheit, and Fahrenheit
+and centigrade! In addition, it can calculate the heat index or the wind chill
+factors.
+
+ License : Freeware
+ Author/Publisher : Nick Morris
+ Modification Date : April 24, 1996
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 283 Kb
+
+ Parent Directory 
+
+ Weather Grok 3.6.9 
+
+Weather Grok is a simple application used to grab the latest weather conditions
+from NOAA. Weather Grok uses NOAA's ICAO codes to lookup the weather conditions
+for your area. Weather Grok provides a simple, easy to use interface to the
+information on local weather provided by NOAA. Weather Grok can get this data at
+specified time intervals or whenever you wish. Please note that the NOAA weather
+server is not the most reliable and/or stable server on earth, sometimes Weather
+Grok may not be able to get the current weather exactly when you wish. 
+Simply launch Weather Grok, and choose the closet city to you from the Stations popup menu. If the city that is closest to you is not located in the menu, fear not. Simply open the Station list window by either pressing Command + L, or by pressing the "Edit List" button. Then you can choose to add a new weather station by pressing the "Add" button. The "Station name" field in the "Add Weather Station" window can be anything you wish it to be, as it is not used by NOAA. The ICAO code field, however, MUST be a valid 4 letter ICAO code. A list of these codes can be found at:
+ http://www.nws.noaa.gov/oso/siteloc.shtml 
+Simply look up the city closest to you, and enter that code into the ICAO code field. Save your changes, then select the new city from the menu, and press the "Update" button.
+
+ License : Freeware
+ Author/Publisher : John M. Schilling
+ Modification Date : July 3, 2000
+ Requirements : 680x0 or PPC, Mac OS 7.6.1 or later
+
+ Direct Download
+ File Size: 925 Kb - 68k version
+
+ Direct Download
+ File Size: 1008 Kb - PPC version
+
+ Home Page 
+
+ WeatherMac 2.0 
+
+This is a small weather program which gives you general weather information (Barometric Pressure, Temperature and Wind Speed) for a variety of cities in the United States.
+
+ License : Freeware
+ Author/Publisher : Scott Norris
+ Modification Date : June 26, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 658 Kb
+
+ WeatherMan 1.3 
+
+WeatherMan downloads current weather conditions, current weather forecast and Nexrad radar images from the
+National Weather Service.
+
+ License : Shareware, $10
+ Author/Publisher : Dean Davis
+ Modification Date : October 3, 2001
+ Requirements : PPC and Mac OS X
+
+ Direct Download
+ File Size: 1511 Kb - PPC version
+
+ Direct Download
+ File Size: 1788 Kb - OS X version
+
+ Home Page 
+
+ WeatherTracker 3.0.7 
+
+Originally MacWeather.
+WeatherTracker is a shareware application that provides an easy-to-use interface to
+the Internet weather servers at The Weather Underground. Hourly weather conditions,
+local forecasts, and climatic data are available for nearly 1500 cities in North
+America. Daily observations are also available for many cities worldwide.
+
+ License : Shareware, $20
+ Author/Publisher : Chris Kidwel/Purchased by Aladdin - No longer under development by Aladdin
+ Modification Date : September 28, 2000
+ Requirements : 68020 or better
+
+ Direct Download
+ File Size: 1234 Kb - Fat version 3.0.7
+
+ Direct Download
+ File Size: 970 Kb - Fat version 2.3.2 - released February 20, 1999 - Last version by Chris Kidwel - Still very stable and fully functional
+
+ Home Page 
+
+ WeatherTracker FAQ 
+
+ WeatherWatch 1.1 
+
+Meet your online meteorologist. WeatherWatch, within seconds, will get an
+accurate weather forecast off the Internet. The most amazing thing is
+WeatherWatch's ability to download and display satellite graphics for all the
+regions of the world and of all different kinds of things like temperature,
+humidity, visibility and more! Download it now and try it out for yourself!
+
+ License : Shareware, $12
+ Author/Publisher : Domain Softworx
+ Modification Date : April 14, 2000
+ Requirements : PPC, Mac OS 8 or later
+
+ Direct Download
+ File Size: 535 Kb
+
+ Download Page 
+
+ Home Page 
+
+ Back to the main page of Pure Mac

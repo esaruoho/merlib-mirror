@@ -1,0 +1,505 @@
+SMALLnet post411 
+
+ SMALLnet Posting post411
+
+Date: Thu, 21 Feb 2002 23:47:47 -0600
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet/ >
+
+...Fellows, once again I find it necessary to ask: PLEASE don't
+attach to your submission a copy of the entire Posting you're 
+responding to. Doing that makes extra work for me. [JW]
+
+George Bain < GCBAIN@aol.com > warns:
+
+One very important point that Austin did not mention in his tip
+about cleaning engines with a crock pot is that once used with
+antifreeze, you can NEVER use the pot for food again. The 
+antifreeze (ethylene glycol) is poison, and remains in the pot
+forever. That's why folks pick up old ones at garage sales, etc.
+to be used for this purpose.
+
+Don't grab your wife's good crock pot to clean your engines in,
+unless you plan to remain in the doghouse for a LONG time.
+
+George
+
+Sam Brauer < sbrauer@bccresearch.com > contributed:
+
+I thought I'd tell the gang about my newest entry into the
+SMALL sweepstakes. It's a Li'l Gypsy (36 inch span, 252 square
+inches) which was designed by Dave Thornburg. I've gathered 
+that the airplane was essentially a parasol version of the Honker,
+which was around at the time (1970s). (I had a Honker Bipe, but
+I thought the original Honker was just too homely for my taste.)
+
+This airplane used a Jedelsky wing, which is about the easiest
+thing going to build: a little sanding; cut a dihedral joint in
+(I wrapped with fiberglass tape and CA) and voila! OK, it's not
+as light as a framed-up wing, but it's very strong. I know, my
+airplane has already been retrieved from trees twice, and has come
+out a little bit banged up -- but a more open structure would have
+been reduced to toothpicks.
+
+Anyhow, the airplane has a Speed 300 in it geared 5:1, using
+an MP Jet gearbox. I must admit, this combination is causing
+me to change my opinion on the Speed 300. It's still a cheap
+little motor, but it's clearly working well. This gearbox is
+also cheap, and reasonably sturdy -- it's taken a couple of 
+whacks and done fine.
+
+I spent the extra couple of bucks for the ball-bearing version --
+I think they sell for about $14. Press the pinion gear onto the
+motor shaft, slide the motor in, and you're done.
+
+With a good speed control, adaptors and prop -- probably totalling
+between $60 and $70. This is now approaching the cost of a 
+comparable glow motor (which would need fuel tank, servo, etc.).
+
+The nice thing about this geared Speed 300 motor is that it'll
+swing an 8 x 3.8 inch APC slow-flyer prop at about 6000 rpms
+using an 8 cell 720 nickel metal hydride (NiMH) pack (the
+perfect setup for this motor), which for a lot of airplanes
+is a far better match than a TD 051 swinging a 6 x 3 at ear-
+splitting levels. Yes, the recommended engine for the Li'l
+Gypsy was a TD 049-051.
+
+Alternatively, the Speed 300 swings a 9 x 6 at about 4500 on
+the ground, but that may unload some in the air. The 9 x 6
+flies the airplane better. Overall weight -- well, the plans
+recommended shooting for 21-22 ounces on the Li'l Gypsy; mine
+comes in at 19 ounces. It's certainly not a wild aerobat -- you
+get to work for loops, and rolls are anything but axial; but it
+is a nice relaxing flyer. Just don't go thermal-hunting --
+a soarer it ain't.
+
+One comment on motor comparisons: some rags have written that 
+the Astro 010G is the cat's meow. Well, I've got one, and on the
+bench its performance does not scream at me that it's a wonderful
+upgrade for either the Speed 300 or the Speed 280BB. It swung an
+8 x 3.8 at 6200 rpm on a 10-cell 720 mAh NiMH pack; certainly not
+earthshattering compared to the Speed 300 on 8 cells at 6000 rpm.
+(The total Speed 300 combination is lighter.) Don't get me wrong,
+the Astro 010 is a little jewel and will certainly outlast the Speed 
+300 -- and will probably have longer flight times. But it's also 
+about 2 to 2 1/2 times the cost. And the Astro 010G will not
+keep up with a Speed 280BB geared either, since the 280BB will
+handle more watts.
+
+Spare me the efficiency argument -- what I've seen is that
+improved efficiency shows up in somewhat longer flight times.
+It seems very hard to translate efficiency to more rpms at the
+prop. Translation -- if you don't like the performance of your
+airplane on a geared Speed 300, the geared Astro 010 probably 
+won't do the trick -- but a 280BB might.
+
+Also note that if you want to run these motors direct drive, the
+Astro 010 blows everything else away. Don't waste your money
+trying to beat this motor on direct drive.
+
+One other thing about batteries: 720 NiMH cells are a little
+tricky to handle. Don't let these batteries get cold. They can
+dump their charge -- it's happened to me leaving them in a garage
+overnight (temperature outside fell to 20 degrees F or so). When
+I went flying the next day I got a very short flight, although it
+had warmed up to the mid-50's. If you want to fly when it's
+chilly out (i.e. below 50F) -- the batteries will do much better
+if you top them off at the field. I charge mine at about C/2 or
+between 300-500 mA. They need to be warm. If they're not and
+you're flying when it's cold, windy and rainy, the airplane will
+not have enough power, and you will be climbing a tree and
+getting very cold doing so. Don't ask how I know this....
+
+One trick on the Li'l Gypsy's covering (which is fluorescent pink
+Airspan) (if you ever have trouble seeing your models, this color
+works great in either sun or cloud -- it's hard to miss up there)
+was that I used Mighty Tacky (seems to be a functional equivalent
+to RC-56) to attach. My Balsarite had glopped up, and I was out
+of thinner, so I dumped in a bunch of acetone.
+
+Well, the Balsarite flowed onto the structure OK, but wouldn't
+adhere anything. Hence, I used the Mighty Tacky, slightly thinned
+with water, which worked like a charm. A couple of passes with
+the iron to tighten stuff up, and Bob's your uncle, as our
+friends from Down Under would say.
+
+Sam Brauer, Stamford, Connecticut
+
+...Sam, a better thinner for Balsarite is toluol. That's a some-
+what oilier solvent than acetone, and it helps keep the sticky
+resin in the adhesive up on the surface of the wood, rather than
+soaking deep, as acetone makes it do. However, toluol fumes 
+are intensely dangerous to breathe. 
+
+Oh -- exactly what kind of a charm is it that everyone says that
+things work like? I've never yet seen a charm at work... [JW]
+
+Oscar Aitken Corral < oscait@ctcinternet.cl > requests:
+
+I just had a minor accident with my TD .020 28" Bellanca
+Tractor that broke the TD fuel tank mount. (Fortunately, 
+the plane did not get any bones broken.) Does anyone know 
+if there is anyone selling this spare part -- or does anyone 
+have a spare TD .020 tank for sale? I would hate to move 
+the good old TD to my engine museum shelf.
+
+Also, does anyone know how many minutes per ounce an 
+O.S. .26 FS will go ? I am trying to determine the smallest 
+reasonable tank for my Flyline Great Lakes Trainer.
+
+Best, Oscar Aitken
+
+Andy Woitowicz < ajw@ntl.sympatico.ca > wrote:
+
+Winter wonderland is an understatement in this part of Canada.
+As such, by March we get real antsy to do some flying. Late
+March or early April is when we get temperatures in the just-
+above-freezing range.
+
+I'm not an accomplished diesel flyer but I hope to remedy that
+this year to some extent. I need some advice on running diesels
+in the cold, typically just above or below zero by a few degrees.
+The two engines I have in mind are PAW .06/049 and a Norvel
+converted to diesel with an RJL head. Both are well broken in.
+
+Need to know if there is any special fuel formula recommended.
+I will have, by then, amyl nitrate, real jet fuel type kerosene,
+and AA Sig castor.
+
+Also, are there any special starting techniques to consider?
+What about excessive cooling by the ambient temperature,
+especially with Norvel's large cooling fin area? Should the
+fins be turned down?
+
+Does anybody have experience with Norvel diesel conversions?
+
+Andy Woitowicz
+
+...One comment, Andy: You don't need to machine off the fins of 
+a model engine to prevent overcooling. Just wrap the fins with a
+strip of aluminum foil. Doing the job that way makes it easy to
+adjust the "cooling effect" as the weather changes. [JW]
+
+George Hostler < ghostler@plateautel.net > submitted:
+
+After being here in Clovis, New Mexico for a year (those who
+don't know where Clovis is: triangulate 95 miles SW of Amarillo,
+Texas and 95 miles NW of Lubbock, Texas); a great metropolis of
+35,000 and big city to Cannon AFB -- I found AMA 438's flying
+field. Best thing about it: it's 10 minutes and five miles away,
+all surrounded by cow pastures and other outdoor activities
+(motocross, go cart, and auto dirt oval tracks).
+
+So there are no noise restrictions. The city did a nice job;
+first time I have seen a model flying field with runways.
+
+I have had varying opinions on modifying Sterling's 48" span 
+Mambo rudder-only plane. Original had a Clark-Y stabilizer. 
+Don't see how you can do R/O aerobatics with that, so I plan to 
+make it symmetrical. There has been varying experiences/
+opinions, from (1) don't modify, it'll be fine -- to (2) the original, 
+when it built up too much speed, went into the ground like 
+an arrow.
+
+I figure that this is why the high-performance pylon F/F models
+had this type stab, so it would have a straight, high angle of
+attack at speed to get to altitude, transitioning to a floating
+glide for duration. Joe, what do you and the SMALLnet 
+readership think? George
+
+...George, "lifting tails" were used on free flight models for two
+main reasons. One was to provide more gross lifting area in events
+where the wing area was limited. The other was to permit a more
+rearward CG location -- thus reducing both decalage and looping
+tendencies in the climb.
+
+However, in some designs -- e.g. Paul Gilliam's "Civy Boy" series
+-- under high power the stabilizer lift often increased to the
+point where it became "down elevator". Result: Doom. [JW]
+
+Dr. Mike Hawkins < mikeh@samart.co.th > wrote:
+
+For the record, the Galloping Ghost system of control was developed
+in the States to give some semblance of two-channel proportional
+control from a single-channel system. It was based on the system
+used by the Germans in WW2 to control the Henschel Hs 293 
+glider bomb.
+
+In England we used a 2.4 volt Mighty Midget motor which had a
+7 to 1 reduction gear wheel mounted on top, with a spring loading
+the gear wheel to its centre point. The basis of the system was
+a transmitter signal which varied in pulse rate and independently
+in mark/space ratio (i.e. longer or shorter pulses).
+
+The relay on the Receiver would (should) follow this signal, and
+as one pole of the motor was connected to the centre tap of the
+battery (at 2.4 volts) it was alternatively driven one way and
+then the other as the relay pulled in or out.
+
+A rotary shaft ran from the gear wheel, with a crank on the end
+connected to the elevator and rudder.
+
+If the pulse rate was high, the gear wheel dithered about its
+spring-assisted lower point. If it was slow, then the motor had
+time to travel further in each direction, giving a relatively
+higher average position to the elevator.
+
+Changing the mark/space ratio caused the output gear to dither
+more on one side than the other, thus giving an average rudder
+position to one side or the other.
+
+In practice the thing dithered madly in all directions at once
+and one just hoped that the average control position would be
+somewhere near what was wanted. The relay, which was 
+switching an ampere or so to the motor several times per second, 
+soon gave up and things came to an unpredictable halt.
+
+At that time, in the mid '60s, a set of four-channel proportional
+gear cost as much as a new small car (oh, that a new car now 
+could be bought for the cost of a set of 4-channel gear !).
+
+I spent some time building my own Galloping Ghost equipment 
+but although I did once see a model flying reasonably well, albeit
+with a drunken flight path, my own attempts all ended in a brief
+corkscrew flight and a rapid return to terra oh-so-firma.
+
+All credit to Doug Spreng who put the idea of pulse width
+modulation to practical use, which has kept most of us in the
+air ever since.
+
+Of Kicking Ducks I know nothing although I did see jockeys riding
+ostriches in South Africa.
+
+Yours, Mike
+
+...Mike, in the 1950's members of my old home-town model club (New
+Castle, Pennsylvania) did a LOT of R/C flying with actuators made
+from Mighty Midget motors. (I lived in California then, but came
+East to visit in the summertime.) The Mighty Midgets were modified
+in various ways, mostly to strengthen their mounting lugs, which
+broke all too easily in crashes. The main trick to successful use
+of the Mighty Midget as a proportional actuator was to eliminate
+all friction from the hinges and linkages. [JW]
+
+Gary Gullikson < garyg@oc-net.com > reports:
+
+I covered my Dare Marionette slow-flyer wings on top side only
+per directions, then tried heat-shrinking with my sealing iron.
+Naturally the wings curved upward gracefully and warped a lot.
+
+I was able to get them symmetrical and washed out properly by
+adjusting the brace thread. Friend Jeff applied the same covering
+to his Marionette as tight as possible without heat shrinking, and
+avoided the upward curving. His Marionette wing looks better
+without the curve.
+
+Both planes fly the same. This design is forgiving of slight
+warps in wings, as it flies about 5 mph. I powered mine with a
+GWS DXA and a 10 X 4.7 prop. Flies great indoors, or outside
+in calm air.
+
+I added a "front porch" and two curved bamboo skewer landing skids.
+This was needed to get the battery pack ahead of the LG axle to
+achieve proper balance. I'm using two Qualcom 830 mAh Lithium
+Ion cells, or seven 280 mAh NiMH cells, and GWS Pico servos.
+
+Marionette is forgiving of different-weight battery packs, and
+trims for level flight easily. Switching out the GWS R4P
+receiver with a HiTec 555 didn't bother it, when the single-tuned
+GWS R4P was swamped at indoor meet.
+
+Gary Gullikson, Orange County Aeronauts (Southern California)
+
+Howell H. Gwin < Gwinhh@aol.com > points out that RC Report
+magazine DOES tell the truth in its product reviews.
+
+Richard Pawloski < rpawl@voyager.net > inquires:
+
+Being new to electric R/C, I need to know what motors are
+comparable to a 1524. I see this motor listed in some plane
+reviews, but cannot get one from my local hobby shop. (70 miles
+away, I live far away from everything.) Any help would be much
+appreciated.
+
+Richard Pawloski Harrison, Michigan
+
+Don Myers < donevanmyers@yahoo.com > mis-sent this to Bill
+Lee, who kindly forwarded it:
+
+Just got some sheets of Coverlite. Size is 19.5 X 36 inches,
+and it comes folded and slip-sheeted same as Litespan --
+and looks to me to be the same stuff. Curiously, the instruc-
+tions call for "Coverlite Adhesive" or Balsarite, though the
+magazine ads and their website make mention of only Balsarite.
+
+The "sticking" temperatures called for match those on the
+Litespan instruction sheet, but the shrinking temperature is
+lower: 125C-140C for Coverlite and 150C-160C for Litespan!
+
+So, are they the same material with just changes to the covering
+application? Or only similar in appearance? The Coverlite
+shrinking instructions caution: "Using higher temperatures to
+shrink, will make covering slacken off AFTER it's applied."
+
+Another caveat not found in the Litespan instructions but called
+out for Coverlite: "Coverlite has only a small amount of shrinkage,
+so it's important that it's smooth and wrinkle-free, BEFORE
+starting to shrink up." (Shouldn't that be "shrink down"? Oh,
+this English language!)
+
+Both coverings are said to be "resistant to diesel and glow fuels."
+Note, they did not say fuel "PROOF", so though not mentioned,
+maybe a coat of dope is needed, for power models!
+
+Don Myers
+
+David Larkin < dslarkin@blvl.igs.net > responded to this:
+
+I've talked to Derek Hardman (manufacturer of Litespan, Solarfilm,
+etc.), and he says that the caveats Don Myers outlined certainly
+apply equally to Litespan and Airspan.
+
+A coat of dope is not normally needed. Dave
+
+Dennis Hansen < DGEHansen@aol.com > included a slew of 
+model information in several personal e-mails; here are edited 
+excerpts from those:
+
+My balsa order from Lone Star arrived yesterday. It took almost
+a month to get it. Looks like they were waiting for some light
+1/16" and held the order until they had it.
+
+I didn't mind that so much, but they sent all "C" grain wood, and
+charged me 15 cents extra per sheet to hand-select it. I didn't
+ask for C grain! Oh well, it is very nice wood and the bundle deal
+of 1/16" has some light A-B grain sheets that will hold me over.
+
+The best part is they sandwiched the 50 or so sheets of various
+sizes that I received between two 1/2" balsa planks that look
+pretty darn nice. Not light wood, but it will sure work nice
+for spar stock or something of that sort.
+
+I'm back to working on the Sioux now that I have the wood. I had
+a good laugh at myself tonight too. Way back when I started
+building again I ordered a Master Airscrew balsa stripper and
+plane. The stripper works fine, but I was very disappointed with
+the plane. The darn thing cut like it had a butter knife for a
+blade. It was so bad I threw it in the back of the drawer in
+disgust and left it there. Well, a little earlier this evening
+I was shaping the leading edge of the Sioux wing and thought 
+how nice it would be to have a plane for that job.
+
+Hmmm, time for another look at that Master Airscrew plane. 
+Maybe sharpening the blade would help. As I removed the screw 
+and plastic plate that holds the blade in place, you would 
+appreciate the humor I found in the fact that the blade was, for 
+some reason, (safety?) installed backwards! The "cutting edge" 
+was in fact about the shape of a butter knife.
+
+Put that sucker back in the right way, and gee, it sure works nice.
+Not one of my more shining moments.
+
+Remember my idea of preshrinking silk on a frame as an aid to
+covering small parts like the Cloudster stabilizer? I'd like to
+report it is working well so far. I had some nice flat 3/4"
+plywood scraps which I cut into rectangular shapes.
+
+The rectangles are large enough to let me cut a window slightly
+bigger than the part being covered, and leave a border strong
+enough to resist the shrinkage of the silk. I made the window by
+making a single entry/exit cut into the rectangle on the bandsaw
+and removed the center shape. Some 5-minute epoxy repaired 
+the entry cut.
+
+After a very light sanding I diluted some Elmers yellow glue 50/50
+with water and liberally brushed it over the face of the frame.
+I then ran a generous bead of undiluted glue around the same face
+and spread it out evenly. I had precut my rectangle of silk, which
+I now soaked with water as if I were going to attach it to a model.
+
+With a little help from my wife Georgia, we stretched the silk out
+straight and carefully laid it onto the frame. From there I was
+able to tug and stretch the silk (with care to keep the weave
+straight) until I was satisfied with the way it looked. I set it
+aside to dry overnight.
+
+The next morning I found the silk had dried and shrunk very nicely.
+The next step is to find a piece of 3/4 to 1" thick block (ideally
+cut to the shape of the part being covered) that will support the
+part and permit the frame to be placed over the part and block so
+that the weight of the frame pulls the silk down over the part.
+(Whew, that is an UGLY sentence!)
+
+At this point it is very easy to align the part with the weave in
+the silk. Next simply brush some dope through the silk onto the
+part, being careful not to get too much dope beyond the perimeter
+of the part. Leave it to dry.
+
+Once dry, I cut the silk (with the part now attached to it) free of
+the frame, wet the remaining silk "overhang", and with more dope
+wrap and tack down the silk around the part -- leaving the excess
+to dry and then trimming it off with sandpaper.
+
+Repeat the previous steps for the other side of the part. (I made
+two frames.) After cutting the silk and part free from the second
+frame, trim the silk around the part, leaving just enough border
+to wet and wrap around the edges. Dope the border down and 
+you are set to go.
+
+I have yet to dope the freshly-covered Cloudster stabilizer
+because the sad excuse for a local Hobby Shop promised me 
+over a month ago that he would get me some Sig Lite-Coat 
+dope, but he hasn't gotten it yet. I guess I'll just have to order 
+it myself. You'll just have to wait for the rest of the story --
+hopefully a warp-free conclusion.
+
+[Part 2, about a week later]: Couldn't get Sig Lite-Cote without
+paying more in hazardous material surcharges to get it here than
+what the dope costs ! Anyway, I figured if I was going to do this
+silk-on-a-frame-preshrink process in a scientific method, it would
+be better to change as few variables as possible.
+
+I now have three coats of the same Randolph dope on the stabilizer
+that warped the you-know-what out of the first one. So far not a
+hint of any twisting or deformation of any kind. Guess I should
+mention that I have not thinned the dope that is being brushed
+onto the new stabilizer nearly as much as that which was used on
+the first part. Back then I had thinned it at least 50% and it
+took 5 to 6 coats to fill the weave in the silk. That is, so
+there were no pinholes through the silk. The new stabilizer is
+sealed to the same degree with three coats.
+
+Do you think using thinned dope causes the silk to shrink more?
+
+Dennis
+
+...Dennis, I do believe that excess thinner does cause more DOPE
+shrinkage than is normal. Dope cures by evaporation of its thinner;
+and as that thinner vaporizes, the volume of what's left obviously
+decreases. Therefore, the more thinner you use, the more the coat
+of dope on the model has to contract as it dries.
+
+Sprayed dope MUST be thinned more than brushed dope -- but in 
+the spray process, considerable thinner evaporates between the gun
+nozzle and the surface being doped. (That's what causes "orange
+peel" effect: if the sprayed dope isn't thinned enough, it hits
+the surface like a spray of soft pellets rather than a flowable
+liquid.)
+
+However, I learned years ago that using only "retarder" as my dope
+thinner reduced the various "application problems" almost to the
+vanishing point. No "blushing"; no stickiness while "brushing out"; 
+and no evil interaction effects when using both nitrate and butyrate
+dopes on the same surfaces.
+
+The only drawback to this is that the dope finish cures out much
+more slowly. "Regular" brushed dope finishes take about 3 days
+to cure. With my "retarder-thinned" dope, I have to wait at least
+a week for all the solvent to vaporize... [JW]
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

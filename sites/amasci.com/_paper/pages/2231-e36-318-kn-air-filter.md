@@ -1,0 +1,42 @@
+---
+title: "e36_318_kn_air_filter"
+source_domain: amasci.com
+source_path: ~dalus/bmw/e36/performance/e36_318_kn_air_filter.html
+order: 2231
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:51Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# e36_318_kn_air_filter
+
+*Source page: `~dalus/bmw/e36/performance/e36_318_kn_air_filter.html`*
+
+[UnofficialBMW.com](http://www.unofficialbmw.com)
+
+<span id="null">From digest.v5.n96 Mon Aug 12 09:56:07 1996</span>\
+From: "John G.Burns" \<john@seaway.demon.co.uk\>\
+Date: Sun, 11 Aug 1996 9:37:08 BST\
+Subject: \<E36\> 318iS K&N cone filter installation fun\
+
+At long last the K&N cone filter for my 318iS arrived last week. Alas a rubber hose supplied with the kit was the wrong diameter. K&N supplied a replacement quickly and efficiently, turns out they only just started making these kits in the UK and I bought one of the first. Their supplier delivered a few hundred hoses of the wrong size it seems.
+
+Instructions for fitting aren't but but could be better 6/10. Build quality is good overall but not up to BMW standards 8/10.
+
+The first problem I hit concerned the four bolts which join the air flow meter to the existing upper air box lid. These have to be removed to accomodate flush fitting screws supplied with the kit. The bolts are a cast iron SOB to remove, I tightened two bolts against each other and turned the bottom one anti-clockwise to remove the double threaded bolts but one broke and I spend two hours trying to remove it. Clearly removing these bolts is not K&N's fault but it would have been nice if their design could have just reused them!
+
+Second problem is that the AFM sits further forward in the engine bay by about 6". The AFM cable doesn't have a lot of slack and in my car was slightly taut when plugged in, not good. I'm going to cut 20mm of the K&N rubber hose which connects the AFM and existing BMW air intake hose and I'll also drill a new hole in one of K&Ns mounting brackets 20mm further along, this should relieve the stress on the AFM cable.
+
+Third problem was that my after-market alarm is mounted on the inner wing near the air intake, quite common I believe. It just touches the cone filter housing but hopefully moving the lot 20mm back (see above) should fix this. Check clearance before fitting to avoid dissapointment.
+
+K&N supply a flexible expandable aluminium pipe (you know the stretchy ones) to blow cold dense air over the cone filter. They suggest the outside end of this is connected to the lower spoiler below the front number plate. I wouldn't do that, more than once that part of my car has been in deep puddles and I don't think scooshing water over the intake is a good idea somehow. Is connecting such a pipe a good idea in winter? It gets real cold here and I wonder if such a cool air flow is a bad idea in winter, your thoughts would be appreciated. Avg temp in summer is about 16C, is it worth my while fitting this hose?
+
+So many problems? The results are worth it :-) The car makes a lovely roar under hard acceleration and is smoother throughout the rev range. Power increases are really noticable above 3000 rpm and at 4500-\>red line it's like a different engine, very willing.
+
+I can't quantify the performance increase but it definately brings on an instant ear-to-ear grin. The kit cost 84 GBP and is worth it. It fits the M40 and M42 engines and needs little mechanical experience to install. I'd definately do it again.
+
+- -- "It is better to remain silent and be thought a fool than to open your mouth in a meeting with the users and prove it." (Ancient programming proverb)
+
+NB: As I am a gibberring idiot any views expressed here are NOT the views of Stolt Comex Seaway Ltd. john@seaway.demon.co.uk, Aberdeen, Bonny Scotland

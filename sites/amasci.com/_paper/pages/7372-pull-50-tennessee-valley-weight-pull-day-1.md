@@ -1,0 +1,702 @@
+---
+title: "Pull 50 -- Tennessee Valley Weight Pull -- Day 1"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0102/Pull50.html
+order: 7372
+reachable_from_entry: false
+images: 0
+internal_links: 4
+extracted: 2026-08-07T06:00:00Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 50 -- Tennessee Valley Weight Pull -- Day 1
+
+*Source page: `~samoyed/iwpa/0102/Pull50.html`*
+
+Tennessee Valley Weight Pull\
+Lenoir City, Tennessee
+=============================
+
+Pull: 50
+
+Organizer(s):John W. Moyers
+
+Wheels on Carpet Region: 7
+
+Track:
+
+Flat and Smooth
+
+Date: Sat 17 Nov 2001
+
+Weather:
+
+Sunny -- morning low of 40F and reached 68F by the end of the pull
+
+Day 1 of 2
+
+Pull started late due to late arrivals by IWPA members. The experienced pullers gave support and encouraged the first time pullers.
+
+<div align="center">
+
+<table data-border="1" data-cellpadding="2" data-bordercolorlight="#0000FF" data-cellspacing="1" data-bordercolordark="FF0000">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2">Color<br />
+Codes</td>
+<td><em><strong>%</strong></em> -- Working Dog (WD) Leg Eligibility</td>
+<td data-bgcolor="#FFFF00">WD</td>
+<td data-bgcolor="#00FFFF">WD Excellent</td>
+<td data-bgcolor="#00FF00">WD Superior</td>
+</tr>
+<tr>
+<td><strong><em>Handler</em></strong> -- Owner / Handler relationship</td>
+<td><p>Owner</p></td>
+<td data-bgcolor="#FFFF00">Family Member</td>
+<td data-bgcolor="#00FFFF">Other Membership</td>
+</tr>
+</tbody>
+</table>
+
+Chief Judge: Toni Yoakam
+
+</div>
+
+40 \# Class\
+Judged by Keith Ping\
+55 \# Start weight, 60 \# Increment, Cart weighs 55 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Tyson
+
+6
+
+655
+
+61.04
+
+36
+
+18.19
+
+8.0
+
+Toni Yoakam
+
+Siberian Husky
+
+Bess
+
+7
+
+235
+
+10.91
+
+40
+
+5.88
+
+5.0
+
+Sidney Sachs
+
+Siberian Husky
+
+Denali
+
+6
+
+235
+
+19.24
+
+38
+
+6.18
+
+2.0
+
+Toni Yoakam
+
+Siberian Husky
+
+Sparkel
+
+P
+
+55
+
+4.64
+
+40
+
+1.38
+
+.
+
+Andy Powers
+
+Siberian Husky
+
+60 \# Class\
+Judged by Keith Ping\
+360 \# Start weight, 60 \# Increment, Cart weighs 360 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Majic
+
+6
+
+1320
+
+55.28
+
+56
+
+23.57
+
+11.0
+
+Toni Yoakam
+
+Siberian Husky
+
+Vinny
+
+6
+
+1260
+
+34.26
+
+44
+
+28.64
+
+8.0
+
+Kevin Mccabe
+
+Samoyed
+
+Jonathon
+
+7
+
+660
+
+20.26
+
+56
+
+11.79
+
+5.0
+
+Sidney Sachs
+
+Siberian Husky
+
+Aspen
+
+P
+
+360
+
+18.84
+
+60
+
+6.00
+
+.
+
+Kelly Bear
+
+Siberian Husky
+
+Harley
+
+7
+
+No Pull
+
+53
+
+.
+
+0.0
+
+Judy Pilkay
+
+Siberian Husky
+
+Nu-Nu
+
+7
+
+No Pull
+
+56
+
+.
+
+0.0
+
+Sidney Sachs
+
+Siberian Husky
+
+Ginger
+
+P
+
+No Pull
+
+44
+
+.
+
+.
+
+Shirley Bear
+
+Siberian Husky
+
+80 \# Class\
+Judged by Toni Yoakam\
+360 \# Start weight, 120 \# Increment, Cart weighs 360 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Meeka
+
+6
+
+1680
+
+19.24
+
+79
+
+21.27
+
+9.0
+
+Keith Ping
+
+Alaskan Malamute
+
+Bernie
+
+6
+
+1680
+
+24.10
+
+75
+
+22.40
+
+6.0
+
+Larry Shaferly
+
+Bernise Mountain Dog
+
+Egret
+
+7
+
+1320
+
+62.51
+
+79
+
+16.71
+
+3.0
+
+Sidney Sachs
+
+Alaskan Malamute
+
+Faith
+
+7
+
+1080
+
+17.58
+
+78
+
+13.85
+
+1.0
+
+John Moyers
+
+Alaskan Malamute
+
+Yana
+
+7
+
+600
+
+5.38
+
+78
+
+7.69
+
+0.5
+
+John Moyers
+
+Alaskan Malamute
+
+100 \# Class\
+Judged by Toni Yoakam\
+360 \# Start weight, 90 \# Increment, Cart weighs 360 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Lucky
+
+6
+
+2250
+
+10.14
+
+95
+
+23.68
+
+7.0
+
+Josh Leiter
+
+Bull Mastiff
+
+Tom-T.
+
+7
+
+1620
+
+13.14
+
+98
+
+16.53
+
+4.0
+
+Sidney Sachs
+
+Alaskan Malamute
+
+Ootiq
+
+P
+
+1170
+
+66.23
+
+96
+
+12.19
+
+.
+
+Lane Batot
+
+Alaskan Malamute
+
+125 \# Class\
+Judged by Toni Yoakam\
+360 \# Start weight, 120 \# Increment, Cart weighs 360 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Jake
+
+6
+
+2640
+
+59.85
+
+121
+
+21.82
+
+6.0
+
+Keith Ping
+
+Alaskan Malamute
+
+Qimuk
+
+P
+
+1920
+
+43.20
+
+119
+
+16.13
+
+.
+
+Lane Batot
+
+Alaskan Malamute
+
+150 \# Class\
+Judged by Toni Yoakam\
+600 \# Start weight, 120 \# Increment, Cart weighs 360 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Belle
+
+6
+
+3360
+
+13.09
+
+146
+
+23.01
+
+7.0
+
+Jennifer Correll
+
+Saint Bernard
+
+Monty
+
+6
+
+2880
+
+55.65
+
+126
+
+22.86
+
+4.0
+
+Larry Shaferly
+
+Saint Bernard
+
+Moose
+
+6
+
+2640
+
+40.04
+
+130
+
+20.31
+
+1.0
+
+Jennifer Correll\
+Larry Shaferly
+
+Alaskan Malamute
+
+Unlimited Class\
+Judged by Toni Yoakam\
+600 \# Start weight, 120 \# Increment, Cart weighs 360 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Little Mac
+
+6
+
+3480
+
+17.08
+
+171
+
+20.35
+
+6.0
+
+Ron Dauer
+
+Saint Bernard
+
+Shadow
+
+7
+
+1080
+
+29.94
+
+174
+
+6.21
+
+3.0
+
+Bill Comings
+
+Newfoundland
+
+Last Updated: 17:45:31 on 12-12-2001
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull49.html) | [Next Pull \#](Pull51.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

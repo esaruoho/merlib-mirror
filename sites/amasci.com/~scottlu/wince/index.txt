@@ -1,0 +1,21 @@
+Scott Ludwig's Windows CE Games 
+
+ win ce 
+
+ Home 
+ Pilot games 
+ Win CE 
+ EPOC 
+ daVinci games 
+ Windows Software 
+ Comments 
+
+ Welcome! This is my page
+ for software written for Windows CE. Windows CE is a growing platform with a bright future ahead of it. Comments? 
+ You can send me comments and feedback at scottlu@eskimo.com .
+
+ PocketChess 
+ PocketChess v1.1 for PocketPC , written by Robert
+ Ryan and myself, artwork by Christian Morency . 
+ PocketChess v1.1 for Windows CE Palm-sized PC 
+ PocketChess v1.0 for Windows CE Handheld PC and Handheld PC Pro

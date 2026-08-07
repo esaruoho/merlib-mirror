@@ -1,0 +1,47 @@
+---
+title: "History: Forward"
+source_domain: amasci.com
+source_path: ~daylight/htmls/hist/hist1.html
+order: 2347
+reachable_from_entry: false
+images: 1
+internal_links: 1
+extracted: 2026-08-07T05:55:55Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# History: Forward
+
+*Source page: `~daylight/htmls/hist/hist1.html`*
+
+<img src="../../Pix/navigation/daycol2.gif" data-border="0" width="500" alt="Daylight Logo" />
+
+**A LOOK AT DAYLIGHT LODGE\
+AND\
+THE START OF DAYLIGHT MASONRY IN THE WEST**\
+\
+\
+**FORWARD**
+
+\
+
+This is a history about Daylight Lodge No. 232, Free and Accepted Masons in Seattle, Washington, its formation and service to Masonry and the community. In preparing this history the author has chosen to adopt the most obvious and convenient method of organizing by year, with a basic biographical background of the Master and some of the interesting and informative events for that year. Nor has there been an attempt to gloss over or sanitize some controversies as they were told because they are an important part of a real history. Thus, the author has interpreted the tale of Daylight Lodge as he sees it. It is by no means definitive because even as it is written, changes and new information comes forth. It also covers in brief, information on the development of daylight Masonry and Daylight Lodge's ancestry. Doubtless, others would present a different view and hopefully some future writer will see fit to add to this history in his own style.\
+\
+
+In some cases, particularly in the early years, there is virtually no information about many of the Masters. Likewise for a number of years there exists nothing but lodge minutes and Grand Lodge reports upon which to base a tale. The few members still living in 1990's that might provide remembrances prior to the 1960's were very elderly and could remember few details. Fortunately, a number of older members were interviewed in the early and late 1970's and furnished some important details about the lodge's formative years.\
+\
+
+This is a history of a lodge which is part of a rather unique group of lodges across the nation, tied together by their daytime nature, originally by their entertainment professions, so the author has elected to highlight more than just the Seattle area history. Now revised and expanded, parts of this history were first published in the Washington Masonic Quarterly. The section entitled, **"As the Sun Rises,"** was published in a slightly different version as a Masonic Service Association, Short Talk Bulletin in March 1990, under the title **DAYLIGHT MASONRY: AN OLD IDEA RENEWED** authored by this historian. If this history provides the reader with a greater knowledge of a singular aspect of our Masonic Craft, the author will be happy that his efforts were not in vain.\
+\
+\
+September 1995\
+\
+\
+Very Worshipful Coe Tug Morgan,\
+Past Master & Secretary\
+[NOTPGM@aol.com](mailto:notpgm@aol.com)\
+FAX: 206-632-5064
+
+------------------------------------------------------------------------
+
+**[Forward](hist1.html)** \| [The Prologue](prologue.html) \| [Act I](act1.html) \| [Epilogue](epilogue.html)

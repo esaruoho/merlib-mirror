@@ -1,0 +1,296 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0218.htm
+order: 6663
+reachable_from_entry: false
+images: 21
+internal_links: 0
+extracted: 2026-08-07T05:59:25Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0218.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a.gif" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="95" height="175" alt="Cat Has Had the Time of His Life" /><img src="%20http://www.eskimo.com/~recall/logo2.gif" data-lowsrc=" http://www.eskimo.com/~recall/images/logo2_t.gif" data-align="top" width="250" height="100" alt="Recollection Used Books Logo" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> **Then came days of regret upholstered in grey silk. I twisted my ring frantically around my finger. I drank too much coffee. I was a bag of nerves & Mother, driven by the craziest illusions, prowled around me like a crow in the festooned vines. She was hoping I'd leave. I didn't care to leave her alone. With my head on her knees, I'd listen to time falling, drop by drop, into the sink..**
+>
+> 
+>
+>        *Joyce Mansour,* "Infinitely . . . on the Grass"
+>
+>  <http://www.franceweb.fr/poesie/mansour1.htm>\
+
+[]()\
+\
+--
+
+**FEBRUARY 18**
+
+<img src="http://www.uic.edu/depts/quic/graphics/audre_lorde.jpg" data-border="1" data-hspace="10" data-vspace="10" width="90" height="107" alt="Audre Lorde" />
+
+AUDRE LORDE\
+Lesbian poet, gay emancipationist, jubilator.
+
+> 
+>
+> ------------------------------------------------------------------------
+>
+> Gambia: NATIONAL INDEPENDENCE DAY.
+>
+> ------------------------------------------------------------------------
+>
+> []()\
+>
+> > []()\
+> > \
+> > 1546 -- Reformation leader Martin Luther dies.
+>
+> []()\
+> []()\
+> \
+> <img src="http://www.cleangreen.co.nz/gallery2/lakes/lakehead.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="391" height="254" alt=" ? " />\
+> 1574 -- Zeeland falls to Dutch rebels. The losers vow to move, "to a New Zeeland!" <http://www.cleangreen.co.nz/>\
+> <http://www.zorb.com/what_the.htm>\
+> \
+>
+> > []()\
+> > \
+> > 1678 -- John Bunyan's The Pilgrim's Progress is published. Begun while he was in prison for preaching without a license. <http://history.hanover.edu/early/bunyanj.htm>\
+> > []()\
+> > \
+> > 1688 -- Pennsylvania Quakers make first formal protest against slavery. []()\
+> > []()\
+> > \
+> > 1780 -- Kristijonas Donelaitis, Lithuanian poet, dies, Tolmingkehmen (now Chistyye Prudy). <http://www.efn.org/~valdas/donelaitis.html>\
+> > []()\
+> > \
+> > 1847 -- Jean Baguet lives (aka Jean Bayet). French anarchist exiled to Switzerland to avoid arrest following demonstrations at Montceau-the-Mines in August 1882. Sentenced in absentia to five years prison at the "Trial of the 66," January 1883. <http://perso.club-internet.fr/ytak/fevrier3.html#18>\
+> > []()\
+> > \
+> > <img src="http://www.eskimo.com/~recall/bleed/images/ybook.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="59" height="48" alt="?" />\
+> > 1849 -- Alexander Kielland (1849 - 1906) lives. Norwegian novelist, considered one of "the four great ones" of the 19th century along with Henrik Ibsen, Bjrnstjerne Bjrnson, & Jonas Lie. <http://www.kirjasto.sci.fi/kiella.htm>\
+> > []()\
+> > \
+> > 1856 -- American (Know-Nothing) Party abolishes secrecy, then denies it. []()\
+> > []()\
+> > \
+> > 1859 -- Dan Sickles is first man in the U.S. to use the \`Temporary Insanity' plea. []()\
+> > []()\
+> > \
+> > 1861 -- US: Arapaho & Cheyenne cede most of eastern Colorado -- land guaranteed to them "forever" in an 1851 treaty. []()\
+> > []()\
+> > \
+> > 1867 -- Nonviolent resistance to Austrian oppression results in separate constitution, Hungary. []()\
+> > []()\
+> > \
+> > 1873 -- The American Way: House of Representatives reports on Credit Mobilers scandal. Reveals government allotted far more money (welfare) than needed to subsidize the building of the Union Pacific Railroad. Credit Mobiler Corporation was then set up to build the railroad, & stock in it was gratefully sold, at a fraction of its true value, to the congressmen & government officials responsible for providing the excess grants. []()\
+> > []()\
+> > \
+> > 1883 -- Cretan poet/novelist/thinker Nikos Kazantzakis lives, Heraklion, Crete. Jubilator of raki, song & dance. Best known for Zorba the Greek. See also [2 December 1885](http://www.eskimo.com/~recall/bleed/1202.htm), also given as his date of birth by some sources. <http://www.knossos.gr/~hmuseum/kazantzakis/index1.html>\
+> > []()\
+> > \
+> > <img src="http://photocollect.com/jpegs/tolstoi.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="100" height="150" alt="?" />\
+> > 1884 -- Moscow police seize all copies of anarchist Leo Tolstoy's What I Believe In at the printers. <http://photocollect.com/under400/tolstoi.html>\
+> > \
+> > []()\
+> > \
+> > <img src="http://www.fut.es/~msanroma/GUERRACIVIL/FOTOSpersonatges/peiro.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="81" height="103" alt="?" />\
+> > 1887 -- Juan Peiro Belis (1887-1942) lives, Barcelona. Spanish anarcho-syndicalist theorist & militant in the CNT. Assiduous collaborator of the confederal & libertarian press with his many reviews & newspapers.
+> >
+> > 
+> >
+> > > November 4, 1936, Juan Peiro became Minister of Industry in the government of Caballero Largo (three other anarchists also took major posts). His participation, of short duration, was heresy to libertarian principles. Even if justified in a state of war, it will not prevent defeat, nor the treason of the Stalinist participants. Following the victory by the Fascists in Spain Peiro took refuge in France in 1939, but was extradited by Ptain & shot when he refused to collaborate with the Franco government, in Valencia, July 24, 1942. (His son, Jos Peiro, devoted a book to him; see 26 December 17.)
+> > >
+> > > 
+> > >
+> > > - "Objetivos y accion del sindicalismo"\
+> > >   <http://dftuz.unizar.es/a/files/anarq-ph/95002.htm>\
+> > >   
+> > > - Fragmentos de "Ideas sobre sindicalismo y anarquismo"\
+> > >   <http://dftuz.unizar.es/a/files/anarq-th/95001.htm>\
+> > >   
+> > > - "Revision de las tacticas de lucha"\
+> > >   <http://dftuz.unizar.es/a/files/anarq-th/95002.htm>\
+> > >   
+> > >
+> > > []()\
+> >
+> > []()\
+> > \
+> > <img src="http://perso.club-internet.fr/ytak/images/sapoundjiev_low.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="68" height="96" alt="?" />\
+> > 1893 -- Bulgarian anarchist Alexander Sapoundjiev lives (1893-1975).
+> >
+> > Alexandre Sapoundjiev
+> >
+> > <http://perso.club-internet.fr/ytak/juillet1.html#sapoundjiev>\
+> > \
+> > []()\
+> > \
+> > <img src="http://www.lifesong.com/segovia2.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="100" height="130" alt="?" />\
+> > 1894 -- Andres Segovia, guitar guy, lives in the Andalusian city of Linares, Spain & is reared in Granada. <http://www.lifesong.com/segovia.html>\
+> > \
+>
+> []()\
+> \
+> <img src="http://www.kalin.lm.com/breton.JPEG" data-border="0" data-hspace="10" data-vspace="10" data-align="CENTER" width="243" height="316" alt="?" />\
+> 1896 -- Andr Breton (1896-1966) lives, Tinchebray, Orne, France. Poet, essayist, critic, editor, communist, surrealist, promoter. One of the founders of Surrealist movement with Paul Eluard, Josef Agnon, Luis Bunuel, Dali, Aragon, Jean Cocteau, et al. In 1916 he met Jacques Vach, a legendary predecessor of dadaism. His first publications were influenced by Rimbaud. When Tristan Tzara came to Paris from Zrich in 1916, Breton joined the Paris DaDa movement together with his friends Paul Eluard & Phillipe Soupalt.
+>
+> <img src="http://members.cts.com/sd/w/wstrmyr/artaud.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="206" height="325" alt="?" />
+>
+> > Artaud: Does Surrealism still hold the same importance in the organization & disorganization of our lives?
+> >
+> > Breton: It is all mud, almost entirely composed of flowers.
+> >
+> > <http://www.creative.net/~alang/lit/surreal/writers.sht#Breton>\
+> > <http://www.kirjasto.sci.fi/abreton.htm>\
+> > <http://members.xoom.com/icono/artaud/bretaud.html><http://userpage.fu-berlin.de/~twokmi/surr/breton_B.html>\
+>
+> \
+>
+> > []()\
+> > \
+> > 1908 -- U.S. bars Japanese immigration. []()\
+> > []()\
+> > \
+> > <img src="http://flag.blackened.net/revolt/graphics/magnon_tanip.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="100" alt="?" />\
+> > 1916 -- US: The anarchist brothers Enrique & Ricardo Flora Magon arrested at their Community Farm near Los Angeles, California. Enrique is beat by the police & hospitalized. The Magon brothers are charged with mailing articles inciting "murder, arson & treason," & go on trial May 21. <http://flag.blackened.net/revolt/mexico/history.html>\
+> > []()\
+> > \
+> > 1918 -- Germans invade Russia which is all but defenseless as virtually the entire army has deserted. <http://www.barnsdle.demon.co.uk/russ/datesr.html>\
+> > <http://flag.blackened.net/revolt/russia/mett.html>\
+> > <http://www.geocities.com/WestHollywood/2163/bolintro.html>\
+> > \
+> > 1930 -- The planet Pluto is discovered. []()\
+> > []()\
+> > \
+> > <img src="http://www.cowswithguns.com/images/cowcoversmall.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="150" height="135" alt=" ? " />\
+> > 1930 -- The Milkman Cometh?: There is no stopping progress: Cow flown & milked, milk sealed in paper containers & parachuted. <http://www.cowswithguns.com/homepage.html>\
+> > <http://www.peta-online.org/>\
+> > <http://www.uslink.net/~nienaber/flipper.html>\
+> > \
+> > 1931 -- African American editor/novelist Toni Morrison lives, Lorain, Ohio. Noble prize winner, best known for Song of Solomon. <http://www.cwrl.utexas.edu/~mmaynard/Morrison/home.html>\
+> > <http://www.kirjasto.sci.fi/tmorris.htm>\
+> > <http://www.accd.edu/sac/english/bailey/morrison.htm>\
+> > \
+> > 1933 -- Yoko Ono, author (Grapefruit)/performance artist/composer, lives. []()\
+> > []()\
+> > \
+> > <img src="http://www.poesies.net/images/Motifs/livres.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="57" height="50" alt="?" />\
+> > 1934 -- Audre Lorde lives, New York City. African-American poet/essayist/autobiographer, passionate writer on lesbian feminism & racial issues. Author of the highly praised poetry in The Black Unicorn (1978).
+> >
+> > > In her book, Black Women Writers, Lorde says, (quote) *"The question of social protest & art is inseparable. . . . Art for art's sake doesn't exist for me."*\
+> > > Her poetry speaks powerfully against racial & sexual oppression, as well as her erotic poems breaking the silence on lesbian love (quote):\
+> > > *"Within a woman's capacity for feeling, our ability to love, to touch theerotic, lies so much of our power, our ability to posit, to vision."*
+> >
+> > <http://www.lambda.net/~maximum/lorde.html>\
+> > []()\
+> > \
+> > 1942 -- Dog-Eared?: Payson Terhune dies. Author of numerous novels in which dogs are central to the books. []()\
+> > []()\
+> > \
+> > 1959 -- Jacques Doubinsky (1889-1959) dies. As a young Russian labor radical he joined the Ukrainian peasant uprising in 1918, fighting with the insurrectionary Makhnovist army.
+> >
+> > > When betrayed & crushed by their one-time Bolshevik allies, Doubinsky went to Bulgaria, active with the anarchists. Arrested & tortured after the coup d'etat of 1923, he escaped to France & met up with Voline. With his companion Rosa, he directed the Jewish anarchist library "L'autodidacte". Following WWII & Voline's death, he formed the "Friends of Voline", publishing Voline's book The Unknown Revolution (1947) (translated by Fredy Perlman & a group in Chicago; published by Black & Red in Detroit, Free Life Editions in NY & Black Rose Books in Canada.) Jacques Doubinsky was also involved with the Jewish anarchist "La libre Pense" in Paris & assisting Bulgarian refugees. 
+> > >
+> > > He is the grandfather of the anarchist & writer, Sebastien Doubinsky:
+> >
+> > <img src="http://www.federation-anarchiste.org/ml/numeros/1137/image_13.jpg" data-border="0" data-hspace="20" data-vspace="5" data-align="LEFT" width="183" height="270" alt="?" />
+> >
+> > "He died before my birth; I cannot really speak about him, but I can speak about his heritage which I assert fully. To have an anarchist like him in the family, which did so much for Bulgaria, the Spanish revolution, etc, it is for me the image of insubordination, the image of freedom, & the image of a worthy fight. It is a heritage of freedom, of courage also,because my grandfather suffered in his flesh, especially in Bulgaria, & Russia, where he was tortured several times."
+> >
+> > <http://www.federation-anarchiste.org/ml/numeros/1137/article_13.html>\
+> >   <http://perso.club-internet.fr/ytak/fevrier3.html#18>\
+>
+> \
+>
+> > []()\
+> > \
+> > <img src="http://www.whitetrashcafe.com/trash/images/kids.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="48" height="38" alt="?" />\
+> > 1961 -- England: 20,000 -- including 89-year old Bertrand Russell -- march against nuclear weapons & 5,000 stage a sit-down at Ministry of Defense in the Committee of 100's first public demonstration, London. The desperado Russell is jailed for 7 days. []()\
+> > []()\
+> > \
+> > 1965 -- US: Civil rights worker Jimmie Lee Jackson is beaten & shot by state police in Marion, Alabama. He dies eight days later. []()\
+> > []()\
+> > \
+> > 1969 -- US: Feb 18-19 Howard University building is seized & boycott starts. This follows on the heels of a law school protest on the 12th. Things are beginning to heat up on campuses all over the US. []()\
+>
+> []()\
+> \
+> <img src="http://members.aol.com/_ht_a/stewa/solution2.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="90" height="87" alt="?" />\
+> 1970 -- US: Federal jury finds the "Chicago 7" innocent of conspiring to incite riots during the 1968 Democratic National Convention. However, 5 were convicted of crossing state lines with intent to incite riots. See also 24 September 1969.
+>
+> <img src="http://www.city-net.com/abbottandcostellofc/an_cops.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="191" height="257" alt=" ? " />
+>
+> > "When I appear in the Chicago courtroom... I want to be tried for having a good time & not for being serious. I'm not angry over Vietnam & racism & imperialism. Naturally, I'm against all that shit but I'm really pissed cause my friends are in prison for dope & cops stop me on the street cause I have long hair. I'm guilty of a conspiracy, all right. Guilty of creating liberated land in which we can do whatever the fuck we decide. Guilty of helping to bring the WOODSTOCK NATION to the whole earth. Guilty of trying to overthrow the motherfuckin senile government of the U.S. of A."
+> >
+> >        Abbie Hoffman
+> >
+> > <http://hometown.aol.com/stewa/chicago.htm>\
+> > <http://theaction.com/Abbie/>\
+> > <http://www.city-net.com/abbottandcostellofc/index.html>\
+> > 
+>
+> \
+>
+> > > []()\
+> > > \
+> > > 1972 -- California Supreme Court ends death penalty, finds capital punishment "cruel & unusual." Notable criminals whose lives were spared by the ban on executions are Charles Manson & Sirhan Sirhan. []()\
+> > > []()\
+> > > \
+> > > 1975 -- West Germany: Water cannons & batons disperse occupiers of nuclear power site, Wyhl. []()\
+> > > []()\
+> > > \
+> > > 1979 -- A Snow Job?: First time in living memory, snow falls on the Sahara desert (in southern Nigeria). []()\
+> > > []()\
+> > > \
+> > > <img src="http://www.wahmee.com/images/wahmeesm.jpg" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="150" height="100" alt="?" />\
+> > > 1983 -- US: The Wah Mee Massacre in Seattle is the worst mass-murder in the history of Washington State. <http://www.wahmee.com/chapone.html>\
+> > > []()\
+> > > \
+> > > 1985 -- Feb 18-21 South African police kill 18 demonstrators at Crossroads, in Capetown, injure 200. Before the month is out, they will kill another 69 on 25th anniversary of the Sharpeville massacre (1960). Also, some 1900 people are arrested in the US demonstrating against South African apartheid in last several months. []()\
+> > > []()\
+> > > \
+> > > 1995 -- Bob Stinson, a founding member of The Replacements dies in Minneapolis of complications from drug & alcohol abuse. The band found a replacement. []()\
+> > > []()\
+> > > \
+> > > 1997 -- Turkey: Political prisoner Osman Murat Ulke is one of 12 activists charged with "alienating the people from the military."
+> > >
+> > > []()\
+> > > []()\
+> > > \
+> > > 3500 -- 
+> > >
+> > > > > *"When we try to pick out anything by itself, we find it hitched to everything else in the universe."*
+> > > > >
+> > > > >        John Muir, 1869
+> > > > >
+> > > > > []()\
+> > > > > <img src="http://www.isomedia.com/homes/harpo/gallery/8690/images/ek007.jpg" data-border="0" data-hspace="10" data-vspace="10" width="305" height="396" alt="Mushroom collage by James Koehnline" />\
+> > > > > <span class="small">*[Collage by SaintMeister James Koehnline](http://www.isomedia.com/homes/harpo/)\*
+> > > > > </span>
+> > > > >
+> > > > > []()\
+> > > > >
+> > > > > ------------------------------------------------------------------------
+> > > > >
+> > > > > anti-CopyRite 2000-3000, more or less\
+> > > > > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > > > > or send questions, suggestions, additions, corrections to:\
+> > > > > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> > > > >
+> > > > > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> > > > >
+> > > > > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)

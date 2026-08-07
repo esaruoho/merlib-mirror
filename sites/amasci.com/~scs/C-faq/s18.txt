@@ -1,0 +1,49 @@
+Tools and Resources 
+
+ 18. Tools and Resources 
+
+ 18.1
+I'm looking for C development tools
+(cross-reference generators, code beautifiers, etc.).
+ 18.2
+How can I track down these pesky malloc problems?
+ 18.3
+What's a free or cheap C compiler I can use?
+ 18.4
+
+I just typed in this program, and it's acting strangely.
+Can you see anything
+wrong with it?
+ 18.5
+How can I shut off the
+``warning: possible pointer alignment problem''
+message
+which
+ lint gives me for each call to malloc ?
+ 18.7
+Where can I get an ANSI-compatible lint ?
+ 18.8
+Don't ANSI function prototypes render lint obsolete?
+ 18.9
+Are there any C tutorials
+or other resources
+on the net?
+
+ 18.10
+What's a good book for learning C?
+ 18.13
+Where can I find the sources of the standard C libraries?
+ 18.14
+I need code to parse and evaluate
+expressions.
+ 18.15
+Where can I get a BNF or
+YACC grammar for C?
+ 18.15a
+Does anyone have a C compiler test suite I can use?
+ 18.16
+Where
+and how
+can I get copies of all these freely distributable programs?
+
+ top

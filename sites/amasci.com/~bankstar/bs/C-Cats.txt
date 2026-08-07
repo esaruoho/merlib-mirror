@@ -1,0 +1,86 @@
+C-Cats : A System which allows clearing of cheques / checks based on images 
+
+ Banks work against the clock to meet deadlines set by 
+ Clearing Houses, a process which often distracts managers from profit generating 
+ tasks. C-CATS allows electronic exchange of cheque images and data, between 
+ Branches/Service Branch/Nodal Branch prior to physical cheque delivery. 
+ This allows branches to dramatically increase the cheques processing time 
+ available and moves part of the data entry task from Service Branches/Nodal 
+ Offices to Branches. 
+
+ Intra-Bank Cheque Clearing can often take longer than Inter-Bank clearing 
+ due to bottlenecks in physical cheque delivery systems and the precedence 
+ that Clearing House cheques take over Intra-Bank clearing. C-CATS allows 
+ banks to implement Intra-Bank clearing of cheques in hours. 
+
+ Secure 
+ C-CATS 
+ uses Testkeys, Asymmetrical encryption, Symmetrical Encryption and hardware 
+ dongles in addition to Server based passwords and SSL making it an extremely 
+ secure system. 
+
+ MICR/Image 
+ Scanning 
+ C-CATS 
+ implements MICR and Image Scanning simultaneously allowing the branch 
+ on which a cheque is drawn to verify both data and signatures before the 
+ physical cheque is delivered. 
+
+ Fast 
+ C-CATS 
+ dramatically increases the processing time available for Local Clearing 
+ of cheques and allows Intra-Bank clearing in Hours. 
+
+ Cost 
+ Effective 
+ A 
+ single station PC, a low cost MICR/Image scanner and a standard dial-up 
+ modem is all the hardware that is required for most branches. 
+
+ Clearing 
+ House Files 
+ C-CATS 
+ creates files for Outward Clearing House Cheques as well as uploads and 
+ distributes Inward Clearing House Cheque files. 
+
+ Inter-Branch 
+ / Nodal Office Systems 
+ C-CATS 
+ allows Users to process Intra-Bank cheques directly between branches or 
+ via a Nodal Office. 
+
+ Flexible 
+ Authorization Automation 
+ Users 
+ can define authorization automation so that cheques meeting certain criteria 
+ be automatically processed and others await manual officer authorization. 
+
+ Currency 
+ independent 
+ C-CATS 
+ allows Intra-Bank clearing in any number of currencies. 
+
+ Dual 
+ Client 
+ C-CATS 
+ has both a fat client and a thin client allowing a Bank to have either 
+ a centralized or distributed database for signature verification. 
+
+ HTTP/SMTP 
+ Protocols 
+ Banks 
+ wishing to have a centralized signature database can have a 24X7 server 
+ for signature verification via HTTP or can have an on-demand signature 
+ verification using SMTP. 
+
+ XML 
+ Compliant 
+ C-CATS 
+ messages are XML compliant. 
+
+ Interface 
+ to Baseline Systems 
+
+ Banks 
+ having legacy baseline systems can implement C-CATS using its batch database 
+ replication system.

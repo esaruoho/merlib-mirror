@@ -1,0 +1,623 @@
+RMIsaac's CyberPage 
+
+CONTENTS: * General & Miscellaneous 
+* (E)-mail 
+* Webpage Development 
+* Browsing the Web 
+* Search Engines 
+* Security 
+* Demographics & Surveys 
+* Spam & Commercialization 
+* Graphics 
+* Fun or Interesting 
+
+ GENERAL AND MISCELLANEOUS: 
+
+ Where it all began: World Wide Web Home
+Page 
+
+ Ever wonder what all that cyber-jargon means? Look it up in the Free On-line
+Dictionary of Computing 
+
+ Computer
+Currents On-line Dictionary 
+
+ Acronym and
+abbreviations 
+
+ >> "> How the Internet
+Works 
+
+ Liszt : "If you're wondering if an email
+discussion group exists about a particular topic, try this useful
+directory of mailing lists. Enter any word or phrase to search over 32,000
+listserv, listproc, majordomo mailing lists and independently managed
+lists from nearly 900 sites."
+
+ ONElist : "free mailing list
+service
+where you can start and manage new e-mail communities, subscribe to
+existing communities"; has an extensive list of e-mail lists spanning a
+wide variety of topics
+
+ Sounds
+from Cyberspace : useful links from 'Life on the Internet' for those
+who need the helper applications to hear sounds off the Net, including
+Virtual Radio and RealAudio 
+
+ Internet
+Hoaxes 
+
+ Alligators in the sewers? Poodles in the microwave? Sick boy wants
+postcards? GoodTimes virus? Check the Urban Legends page,
+including: * David and Barbara Mikkelson's Urban Legend Reference Pages
+ * Arthur Goldstuck's Legends from a Small Country
+ * Dave Wilton's home page, containing English language and etymology
+ information and links 
+ * Andy Warinner's home page, which debunks and comments on several
+ interesting urban legends and factoids
+ * Terry Chan's UL material 
+
+ The AFU & Urban Legends
+Archive : the archives of alt.folklore.urban
+
+ Trolls, Hoaxes, Culture Jamming,
+Poetic Terrorism, Media Hacks, Frauds, Impostors, Spoofs, Counterfeits,
+Fakes, Pranks, Scams, Extraordinary Popular Delusions and the Madness of
+Crowds 
+
+ (E)MAIL: 
+
+ HotMail : web-based e-mail
+
+ When you write email,
+don't forget! The Core Rules of
+Netiquette : excerpted from Netiquette by Virginia Shea. 
+
+ Anonymous Email : use the
+subject line "remailer-help" for a help file
+
+ Remind U-Mail : send
+yourself e-mail reminders of significant dates; free of charge 
+
+ e-minder : 
+will send you e-mail reminders of important events in your life
+
+ Why send email when you
+can Fakemail? 
+
+ The Electric 
+Postcard : having a great time in cyberspace, wish you were virtually here!
+
+ WEBPAGE DEVELOPMENT: 
+
+ Yale Web Style
+Guide : all you need to know to design a webpage
+
+ >> "> Special characters
+for HTML 
+
+ How to Build a
+Webpage : a very organized and thorough site with lots of links to
+helpful pages (HTML authoring, etc.)
+
+ Bobby : "a free web-based
+service that will help you make web pages
+accessible to people with disabilities. It will also find
+HTML compatibility problems that prevent pages from displaying correctly
+on different web browsers."
+
+ What does your HTML
+look like without graphics? 
+
+ Thalia : test
+colors for backgrounds and text and links using this page
+
+ ColorMaker : 
+use this site to test colors
+
+ Undocumented
+Internet Secrets : "A street-smart guide to using the Web to get ahead,
+spy on the competition, and uncover hidden stashes of incredible free
+stuff..." Contains lots of good tips on webpage design with hypertexted
+links to the recommended sites. Features include: * Secret Steals and
+Deals (free Internet access, hidden stashes of giveaway software) * Get
+the Good Stuff (how you how to break into the Web's secret cache) * Watch
+Your Back (dig up dirt--and protect yourself) * Webmaster Tricks
+
+ A Kinder,
+Gentler HTML Validator to check the HTML syntax of your webpage
+
+ WebTechs HTML
+Validation Service 
+
+ NetMechanic :
+submit your URL, it will validate your links and notify you when it is
+done; you can then go to a hypertext report
+
+ Submission
+pages of various search engines : very convenient!
+
+ Submit It! : another spot to
+submit your webpage to numerous search engines
+
+ >> "> Search Engine
+Submission Tips 
+
+ wwwstat-1.0 : an
+application to figure statistics for your webpage
+
+ BROWSING: 
+
+ Surf the Web ANONYMOUSLY : a
+very important tool, as much personal information about yourself can be
+gathered every time you make a hit on a website!
+
+ Toss them? Crush them? Find out about Cookies 
+
+ Netscape : "Netscape's Navigator
+is the very popular WWW browser on the Internet, under attack from
+Microsoft. Support it! 
+
+ BrowserWatch : "You can
+monitor everything that is happening in the world of WWW browsers at this
+site - whether your interest is in new browsers, servers, cgi's, html
+editors, plug-ins, or other software-related offerings of interest to
+users and developers of the Web." 
+
+ Browser 
+Stats : find out if you have the latest version of your browser
+
+ SEARCH ENGINES: did you know the top
+10 search terms (on Inktomi)?
+ ...sex/nude/pictures/adult/women/software/erotic/erotica/gay/naked! 
+
+ Not quite what you think: VOYEUR : lets you
+see what search-terms are being used at this very moment
+
+ Navigating the
+Web : Using Web Search Engines and Evaluating Web Resources *
+Navigating the Web * Web Search Engines * Evaluating Web Sites * Citing
+Electronic Sources
+
+ Web Directories: 
+
+ Yahoo! : a web directory (not an
+index) of 40,000 sites, organized by subject; search by single or multiple words; Boolean equivalent options
+
+ Personalized Yahoo 
+
+ Gopher
+Jewels : Over 2,000 pointers to information by category
+
+ Webring : over 15,000 of them
+already
+exist. They are a new way to find sites of interest to you. Webrings
+link sites of similar content and you can move from one to the next
+without a lot of searching or passing through sites of no interest. My JewishPage is part of the Jewish Ring, for example.
+
+ Lists of Search Engines: 
+
+ Netscape's
+Internet Search : links to a dozen or so of the most popular search
+sites
+
+ >> "> Search Engine Listings 
+
+ >> "> Search Engine
+Reviews Chart 
+
+ NlightN : an interface to the most
+popular search engines
+
+ Search
+the Web through varios Web browsers, arranged by subject
+
+ All-in-One Search Page 
+for a variety of search engines for the Web; a bit confusing
+
+ Search engines (Web indexes): 
+
+ Google! : "uses a complicated
+mathematical analysis, calculated on more than a billion hyperlinks on the
+web, to return high-quality search results... uses sophisticated
+text-matching techniques to find pages that are both important and 
+relevant to your search...gives you an excerpt of the text that matches
+your query -- with your search terms in bold -- right in the search
+results...returns pages which match all of your search terms in the text
+of the page or the link anchors pointing to it...keeps a copy of many of
+the web pages it returns. If the server is down or otherwise not 
+available, Google!'s copy of the page can be a life saver. Using our
+cached version can often be much faster than following the regular
+link, though the information you receive will be less up to date. But in
+many cases, no more frustrating 404 Not Found errors!"
+
+ AltaVista : full-text index; has
+the largest database: 22 million Web pages and 13,000 Usenet newsgroups; 
+Boolean terms OK, as well as proximity "near"; relevancy rankings "not the
+most effective"; may restrict searches to certain parts of documents
+(titles, links, dates, etc.); does not support stemming; gives the most
+comprehensive results, "when you want to find as much as you can on a
+single topic" (Internet World survey, 5/96) 
+
+ Excite : full-text index of the Web (1.5m
+pages using the most popular sites); searches by content rather than
+keyword; slower; 50,000 Websites, 10,000 newsgroups; relevancy ranking; no
+Boolean logic; does not display URLs in the search results; good for those
+interested in mainstream topics which are widely discussed 
+
+ InfoSeek : most complete and relevant
+results (Internet World survey, 5/96); full-text index (WWW, FTP, gopher);
+proximity rankings used; relevancy rankings; Similar Pages command;
+limited database at present; for when you want to find a specific piece of
+information 
+
+ Inktomi : one of the
+largest indexes of the Web; no proximity option
+
+ Lycos : partial-text index (based on
+headers, titles, links, first few words) of WWW, gopher, FTP files; 
+relevancy ranking, partly based on sites' popularity; search term marked
+in bold in results; Boolean search OK; minus sign (-) decreases relevancy
+of search term; casts a wide net 
+
+ >>NEW >"> Direct Hit : "you can instantly see the
+best sites that other people have selected as the most relevant sites for
+your search request. You benefit from the human intelligence of all
+previous searchers who were looking for similar information...Direct Hit
+tracks what sites previous Internet searchers have actually selected from
+the search results list to determine the relevancy of sites. Based on
+these previous selections and a number of other metrics, Direct Hit
+provides highly relevant search results for the next searcher who is
+looking for similar information."
+
+ MultiCrawl 
+
+ OpenText : Boolean operators OK; 
+relevancy score; three types of searches: *simple term; *multiple terms
+and operators, with field filter (title, URL, etc.); * your own weighted
+search; Similar Pages command; good if you care to expend some effort
+tailoring your search 
+
+ WebCrawler : 
+does not display text summary for found items; sparse customization
+options; no Boolean operators or upper-case letters; relevancy ranking; 
+uses well-traveled pages; 500,000 websites at present; good for finding
+the most popular pages, but not for complex searches 
+
+ Galaxy : "The Web's resources,
+compiled for professionals...": Business And Commerce; Engineering And
+Technology; Government; Humanities; Law; Medicine; Reference; Science;
+Social Sciences
+
+ "Meta"-Search Engines (search search engines): 
+
+ Ask Jeeves! : searches the top
+several
+search engines and presents the results; when going to a result, leaves a
+frame behind so you can return to Ask Jeeves! easily
+
+ All4One : executes
+searches in Yahoo!, Lycos, AltaVista, and Webcrawler simultaneously
+
+ Metacrawler :
+queries nine search engines simultaneously; collates, ranks and displays
+the results; search by type of site; use + before essential words
+
+ SavvySearch :
+queries 25 search engines; ranks results; search plan scans appropriate
+search engines first, others may be invoked later
+
+ A great search engine: WebTaxi :
+you can narrow the number of engines by subject; WebTaxi can also remain
+as a frame on your screen, ready to use, while you continue to surf the
+Web 
+
+ Usenet searches: 
+
+ DejaNews : searches Usenet
+newsgroups (except alt.*)
+
+ Search for a
+Newsgroup on a given subject
+
+ >> "> Zen & the
+Art of the Internet : "Explains what Usenet is and is not, as well as
+its history, diversity, and propagation of the news." 
+
+ >> "> Usenet FAQ 
+
+ list of Usenet FAQs for all
+sorts of newsgroups
+
+ Other types of searches: 
+
+ WorldPages :
+search for:
+Business * People * Government * Email * Web * MapMaker * Toll Free
+Numbers * Attorney * Automotive * Entertainment * Restaurant * Travel *
+Classifieds * Weather * more
+
+ 555-1212.com : find: area codes
+*
+yellow pages * white pages * fax numbers * toll-fre numers * hotels *
+reverse lookup * international numbers * maps
+
+ Bigfoot : find addresses or email
+addresses
+
+ A tool for Finding People on the 
+Internet 
+
+ International
+People Finder 
+
+ Anywho : "Search for People or
+Businesses:
++ Over 90 million entries + User-supplied E-mail, Home Page, FAX, and Toll
+Free Number information"
+
+ Personalseek : a search
+engine for personal pages all around the world
+
+ Switchboard.com : look up the
+names, phone number and street addresses of friends, colleagues and businesses
+
+ Search for a LISTSERV by name,
+description, subject and host country (note: this is for LISTSERVs only,
+not MAJORDOMO etc.)
+
+ SECURITY: 
+
+ Official PGP
+User's Guide , the user's manual for PGP (Pretty Good Privacy)
+public-key cryptography software by Phil Zimmermann, its inventor
+
+ Why Do You Need
+PGP? 
+
+ DEMOGRAPHICS/SURVEYS: 
+
+ GVU Center's WWW
+User Survey Home Page : join thousands of others in this semi-annual
+survey of Web demographics! This survey included questions on:
+ - Basic Demographics (new questions!)
+ - Web and Internet Usage
+ - Data Privacy (new questions!)
+ - Politics
+ - Consumer Opinions and Behaviors
+ - Webmasters
+ - HTML Authoring, Java
+ - Web Service Providers 
+
+ GVU's
+(Graphics, Visualization, and Usability Center) 8th WWW User survey
+results : * general demographics * internet/web usage *
+electronic privacy * consumer issues * cultural issues in web
+design *...and more 
+
+ Find out the latest Internet statistics 
+
+ InfoQuest!
+Internet Surveys & Statistics : lots and lots of analyses of the growth
+of the Web, the Internet and its users
+
+ Growth and Usage
+of the Web and the Internet : "Want to know how big the Internet is?
+How fast is it growing? Will it ever stop? These pages are meant to be a
+collection of Internet statistics in one place." 
+
+ Breakdown of
+Internic
+Domains : such as: .com 2,680,546
+ .net 258,902
+ .org 210,466
+ .edu 4,678
+ .gov 564 
+
+ ISO Country Codes : for
+when you wonder what the two-letter suffix for Mali is...
+
+ ISO Country domains 
+
+ Country Domains to
+Watch : 
+Three country-code domains are being marketed as alternatives to .com such
+as .tm (Turkmenistan), .nu (Niue), and .to (Tonga)
+
+ Host Count History :
+see the exponential growth of the Net through the fantastic growth of the
+number of hosts
+
+ Distributions by
+Top-Level Domain Name (by name) : i.e. how many .edu (.com, .de, .jp,
+.mil) sites are there? (in alphabetical order)
+
+ Distributions by
+Top-Level Domain Name (by hostcount) : i.e. how many .edu (.com, .de, .jp,
+.mil) sites are there? (in order of how many there are)
+
+ 100
+U.S Cities with the most domain names 
+
+ Mac Software 
+Archives 
+
+ >> "> Free
+Mac Software 
+
+ SPAM AND COMMERCIALIZATION: 
+
+ Hate commercialization of the Web? Blacklist of Internet
+Advertisers 
+
+ >> "> Beating the E-Mail Spammers 
+
+ Coalition Against Unsolicited
+Commercial
+Email 
+
+ >> "> Washington State Junk Email
+Consumer Protection : a 1998 law now protects Washington State citizens
+against unsolicited commercial email. See how at the Attorney General's
+page
+
+ Spam Filter ;
+another Spam Filter 
+
+ GRAPHICS: 
+
+ w e b s e r v
+i c e s . . . Graphics Archive 
+
+ >> "> Animated GIF links 
+
+ >> "> Animated GIF
+links 
+
+ >> "> Animated
+GIF Links 
+
+ >> "> CyberOlive Animated GIFs 
+
+ Can you tell I'm fond of TEXTURES? 
+
+ Texture Land! -- Odds
+'n Ends Textures 
+
+ Texture Land 
+
+ Webground - Background
+Textures 
+
+ Andrew's Texture
+Archive 
+
+ GIF Wizard will compress your
+GIFs
+
+ Barry's Clip Art 
+
+ ArtToday clip art
+
+ Triangles and rainbows and other queer stuff to spice up your
+webpage: 
+
+ Rainbow Icon Archive 
+
+ Queer
+Icons 
+
+ ASCII
+Art : lots of it, too, including signatures and Star Trek ASCII art and Smilies 
+
+ >> ">All about FIGlets 
+
+ Figlet Ascii Font
+Converter 
+
+ FUN OR INTERESTING: 
+
+ What's
+Cool on the Net, including the Site of the Day and LOTS of other neat
+stuff 
+
+ >> "> Useless
+Domain Names 
+
+ !sdrawkcaB : this web
+browser displays pages REVERSED! Has to be seen to be believed! 
+
+ Shredder : "The web
+browser is an organ of perception through which we 'see' the web. It
+filters and organizes a huge mass of structured information that spans
+continents, is constantly growing, reorganizing itself, shifting its
+appearance, evolving. The Shredder presents this global structure as a
+chaotic, irrational, raucous collage. By altering the HTML code before the
+browser reads it, the Shredder appropriates the data of the web,
+transforming it into a parallel web. Content become abstraction. Text
+becomes graphics. Information becomes art." 
+
+ >>NEW >"> The End of the Internet 
+
+ AltaVista
+Translation Service : will translate text or a whole webpage (if you
+provide the URL) into French, German, Spanish or Portuguese. Of course it
+makes mistakes but that's what's so fascinating about it!
+
+ The Dialectizer : will
+"translate" text or a webpage to: Redneck, Jive, Cockney, Elmer Fudd,
+Swedish Chef, Moron, or Pig Latin.
+
+ Not quite what you think: 
+ VOYEUR : lets
+you see what search-terms are being used at this very moment
+
+ On the other hand, this
+IS voyeurism: Sean Patrick Live! : like the
+JennyCam, this features every moment in the life of a gay man at home
+
+ Domain
+Name
+Disputes 
+
+ Domain Name
+Disputes : Cases
+
+ Here you will find (very) many Useless Sites 
+
+ >> "> Useless Pages 
+
+ More Useless
+Pages , including a particularly amusing Abandoned Site 
+
+ Bad
+Web Pages : Yahoo listing
+
+ Website
+Parodies : Yahoo listing
+
+ AOL sucks 
+
+ The
+Macintosh Secret Trick List 
+
+ >>NEW >"> Moochers : free software on the 'net
+
+ Comments? Write me at RMIsaac@eskimo.com 
+
+Jump to: 
+
+ HOME 
+ RMIsaac 
+
+ Israel 
+ Jewish 
+ GayJews 
+ My Israeli Music 
+
+ Queer I: general 
+ Queer II: net, travel, media 
+
+ All About Seattle 
+ Seattle: Sightseeing 
+ Outside Seattle 
+ Gay Seattle 
+
+ CyberStuff 
+ Fun Stuff 
+ Language 
+ News/Media/Film 
+ Pinochle! 
+ Politics 
+ Reference 
+ Sexuality 
+ Star Trek/Sci-fi 
+
+ Travel 
+ My E. Europe Trip 
+ My Gay/Jewish E. Europe 
+
+ --- 
+
+Approximately hits on all subdirectories since 28 July 1995

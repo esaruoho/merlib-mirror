@@ -1,0 +1,630 @@
+---
+title: "Pull 2 -- Kickoff Classic 2000 -- day2"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0001/Pull2.html
+order: 7306
+reachable_from_entry: false
+images: 0
+internal_links: 4
+extracted: 2026-08-07T05:59:56Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 2 -- Kickoff Classic 2000 -- day2
+
+*Source page: `~samoyed/iwpa/0001/Pull2.html`*
+
+Kickoff Classic 2000 -- day2\
+Corapeake, North Carolina
+=============================
+
+Pull: 2
+
+Organizer(s):Todd Pederson
+
+Wheels Region: 7
+
+Granite
+
+Track:Crushed granite. Wet & sloppy.
+
+Date:9/3/00
+
+Weather:
+
+85F. Heavy rain off & on all day
+
+35 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Rocko
+
+7
+
+1900
+
+26.47
+
+34
+
+55.88
+
+8.0
+
+Brandon Pederson
+
+Am. PitBull Terrier
+
+Jubilee
+
+6
+
+1900
+
+37.69
+
+32
+
+59.38
+
+5.0
+
+Charlie Johnson
+
+Am. PitBull Terrier
+
+Diffy
+
+7
+
+1900
+
+42.50
+
+33
+
+57.58
+
+2.0
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+Calli
+
+7
+
+1700
+
+15.59
+
+29
+
+58.62
+
+0.5
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Ginger
+
+7
+
+2000
+
+23.94
+
+60
+
+33.33
+
+8.0
+
+Debbie Lee
+
+Am. PitBull Terrier
+
+Kindr
+
+5
+
+1800
+
+10.72
+
+56
+
+32.14
+
+5.0
+
+Debi Pruznick
+
+Samoyed
+
+Alexis
+
+6
+
+1600
+
+16.22
+
+40
+
+40.00
+
+2.0
+
+Jose' Cintron
+
+Am. PitBull Terrier
+
+Comet
+
+6
+
+900
+
+11.93
+
+60
+
+15.00
+
+0.5
+
+Rene Schreiber
+
+Am. PitBull Terrier
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Froggy
+
+7
+
+2800
+
+18.22
+
+76
+
+36.84
+
+12.0
+
+Brandon Pederson
+
+Am. Bull Dog
+
+Gator
+
+6
+
+2800
+
+51.06
+
+80
+
+35.00
+
+9.0
+
+Cliff Pruitt
+
+Am. Bull Dog
+
+Xena
+
+6
+
+2600
+
+19.41
+
+77
+
+33.77
+
+6.0
+
+Carol Dodds
+
+Alaskan Malamute
+
+Bobbie-Sue
+
+7
+
+2200
+
+34.47
+
+75
+
+29.33
+
+4.0
+
+Debbie Lee
+
+Am. Bull Dog
+
+Darla
+
+6
+
+2200
+
+57.56
+
+78
+
+28.21
+
+3.0
+
+Stephanie Coleman
+
+Am. Bull Dog
+
+Koala
+
+6
+
+1400
+
+17.19
+
+66
+
+21.21
+
+2.0
+
+Stephanie Coleman
+
+Am. Bull Dog
+
+Precious
+
+6
+
+800
+
+13.60
+
+65
+
+12.31
+
+1.0
+
+Dwayne Phipps
+
+Am. Bull Dog
+
+Shane
+
+6
+
+800
+
+32.28
+
+80
+
+10.00
+
+0.5
+
+Dave Coleman
+
+Am. PitBull Terrier
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Diesel
+
+6
+
+2700
+
+11.62
+
+98
+
+27.55
+
+8.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Zeus
+
+7
+
+2700
+
+12.19
+
+86
+
+31.40
+
+5.0
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+Max
+
+7
+
+2500
+
+21.94
+
+93
+
+26.88
+
+2.0
+
+Wayne Mullins
+
+Am. PitBull Terrier
+
+Casper
+
+7
+
+2100
+
+7.87
+
+90
+
+23.33
+
+0.5
+
+Tina Pederson
+
+Am. Bull Dog
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Toby
+
+7
+
+2700
+
+11.15
+
+102
+
+26.47
+
+6.0
+
+Caroline Howell
+
+Am. Bull Dog
+
+Riggs
+
+6
+
+1300
+
+9.75
+
+108
+
+12.04
+
+3.0
+
+Dave Coleman
+
+Am. Bull Dog
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Cleatus
+
+7
+
+3700
+
+10.72
+
+157
+
+23.57
+
+8.0
+
+Debbie Lee
+
+Mastiff/Bernard
+
+Butkus
+
+7
+
+3700
+
+11.84
+
+151
+
+24.50
+
+5.0
+
+Terry Lee
+
+Mastiff/Bernard
+
+Anna
+
+7
+
+3500
+
+29.16
+
+139
+
+25.18
+
+2.0
+
+Terry Lee
+
+Mastiff/Bernard
+
+Largo
+
+6
+
+2900
+
+56.47
+
+144
+
+20.14
+
+0.5
+
+Carol Dodds
+
+Tibetan Mastiff
+
+Last Updated: 12:26:20 on 11-15-2000
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull1.html) | [Next Pull \#](Pull3.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

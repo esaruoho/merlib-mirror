@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Expressions</title>
+</head>
+<body>
+<H1>3. Expressions</H1>
+
+<p><a href=q3.1.html rel=subdocument>3.1
+Why doesn't
+the code
+"<code>a[i] = i++;</code>"
+work?
+</a></p><p><a href=q3.2.html rel=subdocument>3.2
+Under my compiler, the code
+"<code>int i = 7;
+printf("%d\n", i++ * i++);</code>"
+prints 49.
+Regardless of the order of evaluation, shouldn't it print 56?
+</a></p><p><a href=q3.3.html rel=subdocument>3.3
+How could
+the code
+"<code>int i = 3;
+i = i++;</code>"
+ever
+give 7?
+</a></p><p><a href=q3.4.html rel=subdocument>3.4
+Don't precedence and parentheses dictate
+order of evaluation?
+
+</a></p><p><a href=q3.5.html rel=subdocument>3.5
+But what about the
+<TT>&amp;&amp;</TT>
+and
+<TT>||</TT>
+
+
+operators?
+</a></p><p><a href=q3.8.html rel=subdocument>3.8
+What's a ``sequence point''?
+</a></p><p><a href=q3.9.html rel=subdocument>3.9
+So
+given
+"<code>a[i] = i++;</code>"
+we don't know
+which cell of <TT>a[]</TT> gets written to,
+but <TT>i</TT> does get
+incremented by one.
+</a></p><p><a href=q3.12.html rel=subdocument>3.12
+If I'm not using the value of the expression,
+should I use <TT>i++</TT> or <TT>++i</TT> to increment a variable?
+</a></p><p><a href=q3.14.html rel=subdocument>3.14
+Why doesn't the code
+"<code>int a = 1000, b = 1000;
+long int c = a * b;</code>"
+work?
+</a></p><p><a href=q3.16.html rel=subdocument>3.16
+Can I use <TT>?:</TT> on the left-hand side of an assignment expression?
+</a></p><hr>
+<p>
+<a href=faq.html>top</a>
+</p>
+</body>
+</html>

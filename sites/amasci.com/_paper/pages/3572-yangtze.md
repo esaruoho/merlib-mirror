@@ -1,0 +1,120 @@
+---
+title: "Yangtze"
+source_domain: amasci.com
+source_path: ~interlak/yangpack2.html
+order: 3572
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:56:53Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Yangtze
+
+*Source page: `~interlak/yangpack2.html`*
+
+**15 DAY YANGTZE RIVER\
+CRUISE & TOUR**
+
+DAY 1 Depart your country
+
+2 Arrive Beijing. Met by local guide and transferred to your hotel in the\
+central district. Balance of day free. 
+
+3 Beijing – Guide will take you to Tiananmen Square, the Forbidden City and\
+a Walking tour of the Hutongs (old neighborhoods). Balance of day free.\
+Ask your guide about Xiushu Market on Changon Ave. for great bargains.\
+BL Dinner on your own tonight. 
+
+4 Beijing – Guide will take you through the countryside to the GREAT WALL\
+at Mutianyu to include the cable car both ways onto the Wall and back. On\
+the way back you will stop at a village to see village life before goingback to\
+your hotel. BL dinner on your own this evening. 
+
+5 Beijing – Guide will take you to the Summer Palace of the Empress Dowager\
+during the Qing Dynasty and visit the very beautiful Lama Temple and Great\
+Bell Museum. Special Performance of the Peking Opera this evening. BLD\
+Peking Duck Dinner tonight.
+
+6 Beijing/Xian by afternoon air. In the morning you will visit the Temple of\
+Heaven before lunch. After lunch you will transfer to the airport for your flight\
+to Xian. In Xian you will be met by the local guide and transferred to your\
+hotel. Special Traditional Dumpling Dinner this evening. BLD 
+
+7 Xian. Your guide will take you to the famous Terra Cotta Warriors site and\
+to the HuaQing Pools once the Summer Palace of the Tang Dyansty. Stop at\
+the Jade Carving workshop to see craftsmen carving Jade. Early dinner\
+tonight as you will be attending the beautiful Tang Dynasty Show. BLD 
+
+8 Xian/Chongqing by air. Guide will take you to the Provincial Museum in\
+Xian in the morning and a stop at the old Muslim Quarters after lunch before\
+going to the airport. In Chongqing you will be met by the local guide and\
+taken to dinner before transferring to the Wanyou Conifer Hotel. BLD 
+
+9 Yangtze River Cruise – Guide will transfer you to the Victoria Cruise dock\
+for boarding. Departure is at 09:00. First stop is Fengdu, the “Ghost City”.\
+Captains Cocktail Party this evening to welcome you on board. BLD 
+
+10 Yangtze River Cruise – Sail through the Qutang Gorge. Dock at Wushan\
+for an off boat excursion through the Small Three Gorges in Sampans. Pass\
+through the Wu Gorge. Evening show at Zigui. BLD
+
+11 Yangtze River Cruise – Sail through the Xiling Gorge and then an off boat\
+excursion to see the new Three Gorges Dam being built. Farewell Banquet\
+tonight with floor show. BLD 
+
+12 Arrive Wuhan after lunch. A local guide will come on board to meet you\
+transfer you to the airport for your flight to Shanghai. Some sightseeing in\
+Wuhan if there is a time lag. Met in Shanghai by the local guide and transferred\
+to your hotel. BLD  
+
+13 Shanghai – Guide will take you to the Yu Garden in the old district known\
+as the \#1 garden in China. After lunch you will go to the new National Museum\
+which is not to be missed. After an early dinner you will attend the famous\
+Shanghai Acrobats performance. BLD 
+
+14 Shanghai/Suzhou/Shanghai – Your local guide will transfer you to the train\
+station for a short one hour ride to Suzhou known as the Venice of the East and\
+for its formal gardens. Guide will meet you on the platform and take you to the\
+Humble Administrator’s Garden 2<sup>nd</sup> best in China. You will visit Tiger Hill\
+Park, a Silk Factory, Double Sided Embroidery Institute and take a short ride\
+on one of the canals winding through the city. After dinner in Suzhou you will\
+take an evening train back to Shanghai. (take a card from your hotel as it is much\
+easier to take an inexpensive taxi back to your hotel this evening than it is to be\
+transferred by a guide back to your hotel) BLD 
+
+15 Shanghai/Home – Your guide will transfer you to the airport for your flight\
+home. 
+
+**Included:** 4 or 5 star hotels, most meals, transportation and transfers, English speaking\
+guides, airport taxes if 6 or more people, sightseeing as listed, entertainment as listed,\
+cruise with off boat excursions included, and pre tour information booklet written by\
+Dave Bruels and updated each year.  
+
+**Not included:** Tips to guides and drivers, visa application (we furnish forms and\
+instructions) airport taxes if less than 6 people, and any expenses of a personal nature\
+or not specifically listed as included. 
+
+**PRICES:** 
+
+2-5 persons. \$3595 pp. dlb. occ. Airport taxes extra.
+
+6-9 persons \$3295 pp. dlb. occ. Airport taxes are included.
+
+10 + persons \$2995 pp. dlb. occ. Airport taxes and a National Guide are included. 
+
+**Single Supplement: 2-9 persons \$1175. - 10 + persons \$1075.** 
+
+**International air is included from most West Coast U.S. Cities. Please add\
+\$250 per person for most other U.S. cities.** 
+
+**IF YOU HAVE YOUR OWN\
+INTERNATIONAL AIR, YOU MAYDEDUCT\
+\$595 FROM YOUR TOUR.** 
+
+**FORM YOUR OWN GROUPS WITH\
+FRIENDS AND ASSOCIATES FOR THE\
+BEST PRICES! \*** 
+
+**\***No scheduled group tours available.

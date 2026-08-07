@@ -1,0 +1,97 @@
+Scrollbar-Base-Color - Cascading Style Sheets Properties 
+
+ scrollbar- base-color 
+ Support Key: 
+ [ IE5.5B1 | O7 ] 
+ Other Scrollbar Properties 
+
+ scrollbar-face-color 
+ scrollbar-arrow-color 
+ scrollbar-shadow-color 
+ scrollbar-darkshadow-color 
+ scrollbar-highlight-color 
+ scrollbar-3dlight-color 
+ scrollbar-track-color 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ NA 
+ Applicable Elements: 
+ Elements whose intrinsic display may use scrollbars 
+ ( APPLET ,
+ BODY , EMBED ,
+ OBJECT , SELECT ,
+ TABLE , TEXTAREA ) 
+ or elements with an assigned 'overflow' property value of "scroll" or "auto". 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property describes the color of the button face of the scrollbar
+ arrow widgets, the button face color of the slider widget and half of
+ the dither colors for the scrollbar slider tray (please see also the
+ illustrated diagram showing the
+ components of a scrollbar interface.)
+
+ Allowed Values 
+ [color] 
+ [ IE5.5B1 | O7 ] 
+ Type: Explicit 
+ Description: 
+ This is a representation of the values for Red/Green/Blue used to
+ determine a final display color. Please see the section on
+ Color Units for details on the
+ various color specification schemes. 
+
+ Example 
+ Ext/Doc: body {
+ scrollbar-base-color: blue } 
+ In-Line:&#160; < body 
+ STYLE =" scrollbar-base-color: 
+ blue">text</ body > 
+
+ Browser Peculiarities 
+
+ Internet Explorer 
+
+ 5.5 Beta 1: 
+ - The listing for "Applicable Elements" previously mentioned is
+ taken directly from the IE online reference. Under direct
+ experimentation, it looks like BODY, DIV and TEXTAREA are all
+ supported, but I could not find a way to get APPLET, EMBED,
+ OBJECT, SELECT and TABLE to recognize this property.
+ - It appears that when this CSS property is used, the default
+ color used for the "shadows" of the scrollbar arrow and slider
+ widgets is black instead using the current OS settings for the
+ shadow color.
+ - It appears that when this CSS property is used, the default
+ color used for the "highlights" of the scrollbar arrow and slider
+ widgets is white instead using the current OS settings for the
+ highlight color.
+
+ Opera 
+
+ 7.x: 
+ - Opera supports CSS scrollbar coloring, but this feature is not
+ enabled by default, nor is the setting available in the UI. The user
+ has to manually add a line to their Opera6.ini file. In the "[User Prefs]" 
+ section, the following line should be added on its own line: 
+ Enable Scrollbar Colors=1 
+ - Since IE is the "reference implementation" (so to speak) of this 
+ property, it seems best to mention differences under Opera rather 
+ than IE: Opera seems to use slightly different color dithering for the 
+ scrollbar-track than IE does.
+
+ Boring Copyright Stuff....

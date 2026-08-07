@@ -1,0 +1,38 @@
+Miscellaneous HTML Topics on Index DOT Html 
+
+ Miscellaneous HTML Topics 
+ = Index DOT Html by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ Main Index |
+ Element Index |
+ Element Tree |
+ HTML Support History 
+
+ This page will provide quick access to many of the sub-topics of the
+ site that are not directly acessible from the top-level menu.
+ Color Issues 
+ Colors in HTML |
+ Color-Safe Palette |
+ VGA Names |
+ X11 Names |
+ UI Names |
+ Hex Calculator 
+
+ Frame Targeting 
+ All About Frame Targets 
+
+ URLs 
+ URL Encoding of Characters 
+
+ HTML DTD Syntax & Its Influence On This Site 
+ Parent/Content Models :
+ General Models |
+ Parent Models |
+ Content Models 
+ Parameter Entities 
+ Event Handlers 
+ Descriptions and support
+ listings for scripting language event handlers 
+
+ Boring Copyright Stuff...

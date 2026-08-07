@@ -1,0 +1,330 @@
+<html>
+<head>
+<title>"inverse varargs problem", takes 2 and 3</title>
+<body>
+[This article was originally posted on July 14, 1992.
+I have edited the text slightly for this web page.]
+<p>
+Newsgroups: comp.lang.c
+<br>
+From: scs@adam.mit.edu (Steve Summit)
+<br>
+Subject: Re: varargs fn calling varargs fn?
+<br>
+Message-ID: &lt;1992Jul14.214625.15684@athena.mit.edu&gt;
+<br>
+References: &lt;1992Jul9.171606.24625@shearson.com&gt; &lt;1992Jul10.015616.12264@infodev.cam.ac.uk&gt;
+<br>
+Date: Tue, 14 Jul 1992 21:46:25 GMT
+<p>
+In article &lt;1992Jul9.171606.24625@shearson.com&gt;, Frank Greco (fgreco@shearson.com) writes:
+<br>
+&gt; Does anyone have any examples of a C function that uses varargs
+<br>
+&gt; that calls another C function that uses the same args?
+<br>
+&gt; ...
+<br>
+&gt; The man page for varargs(3) sez:
+<br>
+&gt; 
+<br>
+&gt; 	The argument list  (or  its  remainder)  can  be  passed  to
+<br>
+&gt; 	another  function  using  a  pointer  to  a variable of type
+<br>
+&gt; 	va_list()...
+<br>
+&gt; 
+<br>
+&gt; What do they mean "pointer to a variable of type va_list()?  I've tried
+<br>
+&gt; several combinations and bus-erroring away...
+<p>
+And in article &lt;1992Jul10.015616.12264@infodev.cam.ac.uk&gt;, Colin Bell (crb11@cus.cam.ac.uk) writes:
+<br>
+&gt; I've solved this one, but have a related one of my own. I have a function which handles
+<br>
+&gt; message handling for a system: ie takes a list of arguments as one would send to
+<br>
+&gt; fprintf prefixed by two or three telling the function what to do with the resulting 
+<br>
+&gt; string. What I would like to do is strip these arguments off the front and then pass
+<br>
+&gt; the entire remainder to sprintf, and deal with the resulting string.
+<p>
+Preliminary answers to both of these questions can be found in
+the <a href="http://www.eskimo.com/~scs/C-faq/top.html">comp.lang.c frequently-asked questions (FAQ) list</a>:
+<p>
+<blockquote>
+<glossary>
+<dt>6.2:</dt>
+<dd>
+How can I write a function that takes a format string and a
+variable number of arguments, like <TT>printf</TT>, and passes them to
+<TT>printf</TT> to do most of the work?
+</dd>
+<p>
+<dt>A:</dt>
+<dd>
+Use <TT>vprintf</TT>, <TT>vfprintf</TT>, or <TT>vsprintf</TT>.
+<p>
+Here is an "<TT>error</TT>" routine which prints an error message,
+preceded by the string "error: " and terminated with a newline:
+<p>
+[sample code deleted]
+<p>
+References: K&amp;R II Sec. 8.3 p. 174, Sec. B1.2 p. 245; H&amp;S
+Sec. 17.12 p. 337; ANSI Secs. 4.9.6.7, 4.9.6.8, 4.9.6.9 .
+<p>
+<a href="/~scs/C-faq/q15.5.html">[current version of this question, now numbered 15.5]</a>
+</dd>
+<p>
+<dt>6.4:</dt>
+<dd>
+How can I write a function which takes a variable number of
+arguments and passes them to some other function (which takes a
+variable number of arguments)?
+</dd>
+<p>
+<dt>A:</dt>
+<dd>
+In general, you cannot.  You must provide a version of that
+other function which accepts a <TT>va_list</TT> pointer, as does <TT>vfprintf</TT>
+in the example above.  If the arguments must be passed directly
+as actual arguments (not indirectly through a <TT>va_list</TT> pointer)
+to another function which is itself variadic (for which you do
+not have the option of creating an alternate, <TT>va_list</TT>-accepting
+version) no portable solution is possible.  (The problem can be
+solved by resorting to machine-specific assembly language.)
+<p>
+<a href="/~scs/C-faq/q15.12.html">[current version of this question, now numbered 15.12]</a>
+</dd>
+</glossary>
+</blockquote>
+<p>
+Now, more could of course be said about these issues.  In the
+case of accepting a format string and some variable arguments and
+some other arguments, passing the format string and the variable
+arguments to <TT>vsprintf</TT>, and then doing something with the string
+produced by <TT>vsprintf</TT> and the other arguments, there is a real
+problem in that an appropriate or guaranteed-adequate size for
+<TT>vsprintf</TT>'s return buffer cannot readily be determined.  (How to
+attempt to do so is itself a frequently-asked question which the
+FAQ list should probably address
+<a href="/~scs/C-faq/q12.21.html">[and now does]</a>.
+I'll say no more about it
+today, except to lament the fact that there is unfortunately no
+good, portable solution.)
+<p>
+Frank Greco asked, "What do they mean `pointer to a variable of
+type <TT>va_list()</TT>'?".  There's apparently a typo in his manual, but
+the issue of variable-length argument lists versus "pointers" to
+same is a potentially confusing one.  Here is how I think about
+them, extracted from an e-mail discussion I had last Spring with
+someone about question 6.4 in the FAQ list:
+<p>
+<center>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*</center>
+<p>
+...one often speaks of "the variable-length part of a
+variable-length argument list," which is kind of a silly
+mouthful, but it is often important to distinguish the
+variable-length part from the fixed part, which in ANSI C must
+always exist.  (For example, <TT>printf</TT> always takes one <TT>char&nbsp;*</TT>
+argument -- the "fixed" part -- followed by 0 or more arguments
+of arbitrary types.)
+<p>
+<center>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*</center>
+<p>
+[Passing a <TT>va_list</TT> pointer along to another routine] is the
+preferred way of doing things, but note that a function that
+accepts a single <TT>va_list</TT> pointer is not at all variadic.
+(As far as C is concerned, it accepts exactly one argument.)
+<p>
+This is the solution alluded to by the (admittedly rather opaque)
+FAQ list wording
+<p>
+<blockquote>
+You must provide a version of that other function which
+accepts a <TT>va_list</TT> pointer, as does <TT>vfprintf</TT> in the
+example above.
+</blockquote>
+<p>
+That is, the answer to the question "Can I write a <TT>debug_printf()</TT>
+in terms of <TT>printf()</TT>?" is "No."  <TT>printf()</TT> is variadic, but
+<TT>vprintf</TT> et al take <TT>va_list</TT> pointers, so you <em>can</em> write a
+<TT>debug_printf()</TT> in terms of one of them.
+<p>
+<center>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*</center>
+<p>
+"Variadic" means (at least as I use it) very specifically that a
+subroutine, as the C compiler sees it, accepts a variable number
+of formal parameters.  (Sometimes the term "formal parameter" is
+used when we must distinguish very carefully between the generic
+things a subroutine is set up to receive and the "actual
+arguments" which are passed to it by a specific subroutine call.)
+<p>
+It is fairly easy to prove that one cannot call a variadic
+function with an argument list which varies at run time (which is
+what you need to do if you're going to use the variable-length
+argument list that another variadic function has just received).
+The only way that a C compiler will generate a subroutine call is
+when you write an expression of the form
+<p>
+<blockquote>
+<i>function</i> <TT>(</TT> <i>argument-list</i> <TT>)</TT>
+</blockquote>
+<p>
+where <i>function</i> is an expression which evaluates to a function
+(either the name of a function, or the "contents" of a pointer-
+to-function), and <i>argument-list</i> is a list of 0 or more comma-
+separated expressions.  Obviously, since they appear in the
+source code, there must be a fixed number of arguments (in any
+one call).
+<p>
+<center>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*</center>
+<p>
+[When a variadic function tries to pass the variable arguments
+along to another, it] doesn't matter whether or not the first
+function does any additional "processing" or not, and it doesn't
+matter whether the second function uses <TT>stdarg.h</TT> or not (there
+are other, less portable methods of accessing variable-length
+argument lists, and the second function might not even be written
+in C).  The essential question is whether a variadic function can
+call another variadic function (with the strict interpretation of
+"variadic" which I use), passing to the second function the
+(indeterminate number of) arguments which it receives (at
+run-time) in a particular call.  [Once again, the answer is that
+it cannot.]
+<p>
+If and when I fix up this question, I'm going to introduce the
+following explanation, which should help to clarify things in
+your mind if they're not clear already.
+<p>
+<blockquote>
+Just as we can use both integers and pointers-to-integers
+in C, there are also two ways of manipulating variable-
+length argument lists.  A function such as <TT>printf</TT> accepts
+a variable-length argument list -- we cannot see exactly
+how many arguments <TT>printf</TT> will be called with.  However,
+we can also conceive of a "pointer to a variable-length
+argument list," and this is exactly what a <TT>va_list</TT> is.
+<p>
+When one is dealing with pointers, one has to be very
+careful to distinguish between the pointer and the thing
+pointed to.  It is invariably incorrect to attempt to use
+a pointer value when one intends to use the value
+pointed to.  Explicit syntax, e.g. the unary <TT>*</TT> operator,
+is used to dereference a pointer, i.e. to access the
+value pointed to.
+<p>
+It is similarly meaningless and/or impossible to use a
+pointer to a variable-length argument list in place of an
+actual variable-length argument list, or vice versa.
+[For example, you cannot pass a <TT>va_list</TT> to <TT>printf</TT>, nor
+can you call <TT>vprintf</TT> with a variable number of arguments.]
+<p>
+Now, it happens that in C we as programmers do not have
+as much control over, and freedom with respect to,
+variable-length argument lists (or fixed-length argument
+lists, for that matter).  In particular, we cannot create
+a variable-length argument list, nor can we pick an
+argument out of a variable-length argument list.
+<p>
+(We can do only a little bit more with fixed-length
+argument lists.  We can "create" a fixed-length argument
+list only by writing a subroutine-call expression in a
+piece of source code, and we can pick an argument out of
+a fixed-length argument list only by naming it, in the
+context of a subroutine definition, and referring to it
+by name.)
+<p>
+The only thing we, as programmers, can do with
+variable-length argument lists are:
+<p>
+<ol>
+<li>
+Given a variable-length argument list, generate a
+pointer to it, using the <TT>va_start</TT> macro.  (Under
+this analysis, <TT>va_start</TT> is analogous to the unary
+<TT>&amp;</TT> operator.)
+<p>
+<li>
+Given a pointer to a variable-length argument
+list, (i.e. a <TT>va_list</TT>), pick an argument (of a
+particular type) out of it.
+</ol>
+<p>
+However, we <em>can</em> manipulate a <TT>va_list</TT> (a pointer to a
+variable-length argument list) with almost as much
+freedom as we manipulate other objects in C.  In
+particular, we can pass a <TT>va_list</TT> to another subroutine.
+<p>
+There is, however, neither a syntax by which we could
+declare an "object" of "type" "variable-length argument
+list," nor a mechanism by which we could initialize one
+with a particular value (i.e. with a particular variable-
+length argument list).  Therefore, we cannot accept a
+variable-length argument list in one variadic function
+and pass it (as a variable-length argument list) to
+another variadic function.  What we can do is to take a
+pointer (a <TT>va_list</TT>) to the variable-length argument list
+(using <TT>va_start</TT>), and pass that pointer (as a single
+argument) to another function; however, that other,
+<TT>va_list</TT>-accepting function is typically not variadic.
+<p>
+Examples of variadic functions, which accept variable-
+length argument lists, are <TT>printf</TT>, <TT>fprintf</TT>, and <TT>sprintf</TT>.
+Examples of non-variadic functions, which accept pointers
+to variable-length argument lists as single <TT>va_list</TT>s, are
+<TT>vprintf</TT>, <TT>vfprintf</TT>, and <TT>vsprintf</TT>.
+<p>
+As a point of general advice, whenever one writes a
+function which accepts a variable number of arguments, it
+is a good idea to write a companion routine which accepts
+a single <TT>va_list</TT>.  Writing these two routines is no more
+work than writing just the one, because the first,
+variadic function can be implemented very simply in terms
+of the second -- it just has to call <TT>va_start</TT>, then pass
+the resultant <TT>va_list</TT> to the second function.
+<p>
+By implementing a pair of functions, you leave the door
+open for someone (you or anyone else) later to build
+additional functionality "on top" of the function(s), by
+writing another variadic function (or, better, a variadic
+and non-variadic pair) which calls the second,
+<TT>va_list</TT>-accepting, lower-level function as well as doing some
+additional processing.
+<p>
+If you were to write only a single, variadic function,
+later programmers who tried to implement additional
+functionality on top of it would find themselves in the
+same situation as did people trying to write things like
+<TT>debug_printf()</TT> in the days before the v*printf family
+had been invented: they had no portable way to "hook up"
+to the core functionality provided by the *printf family;
+they had to use nonportable kludges to call <TT>printf</TT> with
+(at least some of) the (variable) arguments which the
+higher-level functions received, or they had to abandon
+<TT>printf</TT> entirely and reimplement some or all of its
+functionality.
+</blockquote>
+<p>
+Obviously, that's far too long-winded and repetetetive for the
+FAQ list, but it's a good first draft for me to try to whittle
+down and distill the essence out of.  (There's also a slight
+imperfection in its conceptual model -- although it alludes to
+"objects of type `variable-length argument list,'" there are
+really no values of type "variable-length argument list."  All
+actual argument lists obviously have a certain number of
+arguments, so an "object of type `variable-length argument list'"
+is just one that can hold arbitrary fixed-length argument lists,
+regardless of how long they are.)
+<p>
+<address>
+<a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+<br>
+<a href="mailto:scs@eskimo.com">scs@eskimo.com</a>
+</address>
+</body>
+</html>

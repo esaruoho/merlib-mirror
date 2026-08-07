@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 1.22</title>
+<link href="q1.21.html" rev=precedes>
+<link href="q1.25.html" rel=precedes>
+<link href="s1.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 1.22</H3>
+<p>
+
+
+How can I declare a function
+
+that can return
+a pointer to a function
+of the same type?
+I'm building a state machine with one function
+for each state, each of which returns a pointer to the function for
+the next state.
+But I can't find a way to declare the
+functions.
+</p><hr>
+<p>You can't quite do it
+
+directly.
+Either
+have the function return
+a generic function pointer,
+with some judicious casts
+to adjust the types
+as the pointers are passed around;
+or
+have
+it
+return a structure
+
+
+containing only
+a pointer to a function returning
+that structure.
+</p><hr>
+<p>
+Read sequentially:
+<a href="q1.21.html" rev=precedes>prev</a>
+<a href="q1.25.html" rel=precedes>next</a>
+<a href="s1.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

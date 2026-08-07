@@ -1,0 +1,471 @@
+---
+title: "A Matter of Pride"
+source_domain: amasci.com
+source_path: ~vecna/pride.htm
+order: 9313
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T06:01:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# A Matter of Pride
+
+*Source page: `~vecna/pride.htm`*
+
+# <img src="scar.jpg" data-align="Left" width="115" height="119" /><img src="sim&amp;nala.jpg" data-align="Right" width="123" height="119" />A Matter of Pride
+
+by Christine Morgan\
+\
+\
+\
+
+------------------------------------------------------------------------
+
+### 
+
+    A Matter of Pride
+    Christine Morgan (vecna@eskimo.com)
+    comments welcome
+    Author's Note: this story is based on The Lion King. All characters herein
+    are the property of Disney and used without their knowledge or permission.
+    Author's Note, additional: this story contains scenes of sex and violence.
+    Mature readers only, please! You've been warned!
+
+        The hyenas descended from the rocks, first a few, then a dozen,
+    then more than the lionesses had ever seen. Scar smiled grimly as their
+    expressions of grief turned to shock and horror.
+        Sarabi looked at him with such outrage that he nearly flinched, but
+    he did not. Was he not now the king? She was nothing now, a former queen,
+    a widow. All she had ever done for the pridelands was to produce a son, and
+    that son was now dead. Her only value was as the leader of the hunting
+    party. She no longer had the authority to defy or disobey him. If he
+    commanded it, she would have to surrender herself to him.
+        He opened his mouth with just that intention in mind, but fear
+    stopped his words before they were more than half formed. Sarabi met his
+    gaze evenly, as if she knew what he was thinking, knew that he was
+    remembering the secret they had kept for many years.
+            *       *       *
+        He had been known as Taka then. Taka the weak, Taka the coward,
+    Taka the lesser prince. He had been cheated of his destiny by only a matter
+    of minutes, by the pure coincidence that their mother had squeezed Mufasa
+    first from her laboring womb.
+        Mufasa had been first in everything. First in their father's favor,
+    first in the eyes of the rest of the pride. First to hunt, first to roar, first in line
+    for the throne. Taka, darker and possessing more cunning than strength, had
+    also been cursed with bad luck. Mufasa's daring exploits as a cub had won
+    him glory and approval from their father. Taka's own attempts had always
+    ended in disaster.
+        Worst of all, Mufasa had been promised Sarabi, the loveliest
+    lioness in the pride. Did Ahadi, their father, know that Taka had been
+    secretly fascinated with her since cubhood? Would he have cared if he had
+    known? It didn't matter. All Taka knew was that his heart filled with
+    bitterness when the betrothal was announced.
+        A few days after the announcement, Taka saw Sarabi alone, by a
+    secluded water hole. He crept closer, spying, coveting the prize that would
+    soon be Mufasa's. When he caught her scent, he froze. Her mating time, her
+    heat, was upon her.
+        Here, at last, was something at which he could be first! He would
+    have Sarabi!
+        Taka approached. She kept her head down, her tail swishing
+    provocatively, as he rustled through the tall grass. He could see her red and
+    swollen opening, and felt himself growing ready.
+        He sniffed and nuzzled her under her tail. His excitement built until
+    he was about to mount her. He rose up, forepaws over her back.
+        Sarabi looked coyly back over her shoulder, then her eyes widened.
+    She twisted out from under him, spilling him awkwardly to the ground.
+        "Taka! I thought you were Mufasa!"
+        He righted himself, burning with rage at the mention of his
+    brother's name. "He's off with Father, chasing hyenas." He rubbed his body
+    alongside hers and nipped at the back of her neck, but again she jerked
+    away. "He's neglecting you. You're in heat, Sarabi. You need it. You want
+    it."
+        "Not from you!"
+        "Mufasa doesn't have to know. Nobody has to know." He paced
+    around her, sniffing, panting. "I may not be a warrior, but at some things I
+    am as much the lion as he."
+        "No! Go away!"
+        "Curse you and your defiance, female! I will have you!" He sprang
+    upon her, snarling. His teeth sank into the loose folds of skin at the nape of
+    her neck. He thrust, but the angle was wrong and instead of entering her he
+    collided painfully with her flank.
+        "I said no!" She whirled. Her paw flashed out, quick as a striking
+    snake, but somehow slow enough for him to see the sun shining in a crescent
+    on each smooth claw. It struck him high on the face. One claw ripped across
+    his eye.
+        There was an immediate gush of blood. Taka recoiled. Sarabi
+    gasped and looked at her paw, then in horror at Taka.
+        He gingerly opened his eye. He could see nothing through it but a
+    red haze. The sizzling pain had dulled to a throb. "You she-hyena! You've
+    blinded me!"
+        "Taka ... I'm sorry," she stammered, backing away.
+        The flow from the wound was slowing. Blinking several times, he
+    realized with relief that his eye was still intact, only filled with his own
+    blood. The skin above and below the eye was split. It would soon heal, but
+    he would carry that scar, and a new name, for the rest of his days.
+            *       *       *
+        Scar shook the memory away, still feeling the shame and
+    embarrassment now as keenly as he'd felt it then.
+        The law said that whoever spilled royal blood was punished with
+    death. Though only the younger son, he was still a prince. Sarabi, betrothed
+    of Mufasa or not, should have been executed. She knew this as well as he
+    did, and must have waited many days in terror for him to accuse her.
+        He could not. Had he done so, everyone in the pride and indeed
+    everyone in the kingdom would learn how and why she hit him. He would
+    become even more of a laughingstock. It was intolerable. He made up a
+    story about driving off a vicious cheetah that had been intruding on the
+    pride's hunting grounds. While nobody ever fully believed him, it at least
+    kept them from guessing the truth.
+        As for Sarabi, he knew that she would be none too eager to confess
+    her crime, or the circumstances leading up to it. So they had gone along as if
+    nothing had happened. She married Mufasa, and when in the course of time
+    Ahadi died, she became Mufasa's queen.
+        The secret had burned between them over the years. He had come
+    to hate her with as much passion as he had ever desired her, while still
+    desiring her. The birth of Simba had been the final blow. The mate, the
+    queen, and the cub that should have been his were all Mufasa's, just as
+    everything had always been Mufasa's.
+        Now Mufasa was dead. He, Scar, had attained his rightful place as
+    king of the pridelands. All that had been Mufasa's should now be his. Sarabi
+    should be his.
+        She returned his gaze with unflinching golden eyes. In those eyes
+    he could read her thoughts, asking him if he wanted to lose the other eye or
+    even his life. She had lost her mate and her son; she had nothing more to
+    fear. He looked away first.
+        The rest of the lionesses were still staring at the hyenas, who were
+    making themselves comfortable on the rocks or devouring the remains of the
+    lionesses' most recent kill. Cowering among them, her encounter in the
+    elephant graveyard doubtless still fresh in her mind, was young Nala.
+        He let an evil grin spread across his face. There was an old custom
+    that it was time to invoke. He padded down the slope to Sarafina.
+        "No," Sarafina pleaded, shielding her cub with her forepaws.
+    "Please, Scar, no."
+        "It is custom," he said in a tone of sorrow. "When a new male takes
+    charge of the pride, all the cubs must be slain. It grieves me to do so, but
+    alas, I must."
+        All of them were looking at him now, in renewed horror. They
+    knew his words to be true. Some of the older lionesses had lost their cubs
+    when Ahadi's father seized the throne from an aged and infirm king.
+        "Scar, no," Sarabi said. Had she begged, he might have relented,
+    but she dared speak to him in a tone of command.
+        "I am king!" he growled. "It must be done."
+        "She is all that remains of Mufasa," Sarafina said. "Your brother's
+    own cub! Your own niece! Please, spare her!"
+        He cuffed her aside and stood over the she-cub. Nala cringed
+    against the ground, shivering, her blue-green eyes turned up pathetically to
+    him.
+        "Poor child," he said. He rested one paw heavily on her ribcage,
+    feeling it give slightly beneath his weight. "You've lost a father, a king, a
+    brother, a playmate, and your future mate. All in one day. And now you
+    must lose your life. A tragedy."
+        Zazu, that damned bird, flapped down. "Sire, I encourage you to
+    reconsider," he said. "There has been too much death."
+        Scar showed Zazu his teeth. "When I want you to perform your
+    duties, advisor, I will inform you. Until then, be silent or I'll eat you."
+        Zazu gulped. "Yes, sire."
+        Nala was mewling and whimpering. She licked his paw. He could
+    hear her mother's sobs, and Sarabi's low murmur as she urged the other
+    lioness not to watch.
+        He looked down at Nala, prepared to snap her little neck, when he
+    saw her as if for the first time. Always before, she had been a little nuisance,
+    nothing more than Simba's friend, not a male and no threat to his succession,
+    just an irritating little thorn in his paw. Now, he saw how truly pretty she
+    was. Her pelt was a light shade of cream and gold, her eyes large and
+    innocent. Most of all, she was little and helpless. She feared him.
+        The rest of the lionesses would obey him because he was their king
+    and the law bid them do so. But they accepted him only because he was the
+    last of the line. They did not respect him, they would never fear him.
+        Sarabi would never yeild her body to him, and he doubted that he
+    would be able to perform even if she did. The other lionesses might, but
+    their confidence and assurance unnerved him. If he failed to perform, they
+    would never openly ridicule him, but he would know. They would know. In
+    time, all the savannah would know that Scar might be king, but he was no
+    true lion.
+        Nala, on the other paw, was young enough to know fear. Pretty,
+    helpless, and afraid. That was what Scar liked best in a female. Her life was
+    in his claws. She was waiting to die, not fighting as Sarabi would have done.
+        He released her. She blinked up at him, confused.
+        "Custom or not, I cannot abide by it," he said, letting his voice
+    break as if burdened by terrible grief. "When so much death has been served
+    today, I cannot be a party to any more. I will not harm you, little Nala. In
+    fact, I shall make you a promise. I cannot bring back Mufasa or Simba, but I
+    can still give you your destiny. When you are of age, you shall be my mate,
+    and queen of all the pridelands!"
+        "No!" Sarafina breathed.
+        Scar glowered at her. "You should be grateful. Now, go and hunt!
+    My hyenas are hungry!"
+            *       *       *
+        Nala awoke shivering. She did not shiver from the cold, for indeed
+    she was too warm from the heat of Scar's body next to hers. His forepaw
+    was draped possessively over her.
+        She shivered from her nightmare. In it, she had been hunting a
+    zebra that grazed unconcernedly at the edge of the herd. Strangely, she had
+    been two places at once, in herself and watching herself, seeing the
+    adolescent lioness crouched in the tall grass. The watching Nala had cried
+    out to the stalking Nala, wanting to warn her, but the stalking Nala hadn't
+    heard. She had pounced, made the kill. Her first unassisted kill. In the eyes
+    of the pride, she would be adult.
+        Becoming an adult was supposed to be a time of joy, but Nala
+    dreaded it more than anything else in the world. Once she became an adult,
+    she would be Scar's queen. Scar's mate. She would be expected to produce
+    an heir to the pridelands.
+        She shivered again, and Scar stirred. She held still, not even daring
+    to breathe, until he subsided into sleep again. His muzzle twitched. He
+    snorted, mumbled.
+        "Mufasa ... long live the king ... run away and never return ... it's to
+    die for."
+        Whenever he spoke that way, in the grip of whatever dreams filled
+    that black-maned head, Nala felt her skin tighten. There was something
+    malevolent about Scar, something evil. The other lionesses sensed it, but
+    they did not spend as much time with him as she did. They did not know the
+    depth or intensity of his malice.
+        "Long live the king!" he snapped, thrashing and rolling onto his
+    back. Nala, released, reacted for an instant like a frightened gazelle and
+    froze, then scrambled away from him.
+        Scar's cave was dark and quiet. The large, homey place where the
+    pride had dwelt belonged to the hyenas now. The lionesses slept awkwardly
+    in trees, not trusting their scavenger allies enough to stay near them. Scar
+    himself disdained their scent and squalor, staying in the cave that had been
+    his since Mufasa's reign began so many years ago.
+        Against the back wall was a cage of wildebeast ribs. Within, Zazu
+    huddled in a pathetic ball of blue feathers. His beak was tucked beneath one
+    wing. He did not look up, lost in his own restless dreams.
+        Nala sat on the cold rocky floor, head down. She licked idly at her
+    pelt. It had not darkened much since cubhood, staying the same pale gold.
+    She was almost the size of her mother, physically mature. Only her lack of a
+    successful kill had kept her from attaining adulthood.
+        She looked at Scar. How vulnerable he was as he slept! His throat
+    was revealed, his belly exposed. She was young and strong. She could leap
+    upon him, bite and gouge and tear until Scar was dead and she was free!
+        She would be free, but the pridelands would be without a king. She
+    sighed. If only there were other lions about! But the few times rogue males
+    had come about, the packs of hyenas had mustered to drive them off. Her
+    first responsibility was to the pride. Stars knew she had failed them enough
+    already.
+        The herds, hunted to depletion by the demands of the hyenas, had
+    moved on. The dry season was the worst in years, leaving the riverbed
+    empty and the grasslands barren. It took all the skill and cunning of the
+    lionesses to keep themselves fed, let alone their king and the others. Nala
+    was the worst hunter of them all.
+        She knew it to be true, no matter how Sarabi reassured her. She
+    was a terrible hunter. A terrible fighter. It shamed her, but she purposefully
+     had neglected her training. The sooner she became a hunter, the sooner she
+    would have to submit to Scar.
+        In all ways but one, she was already his mate. He had forced her to
+    share his cave since that dark day he had claimed the throne. He ignored all
+    of the other lionesses, not that they minded. Nala was the one that brought
+    Scar his food. Nala spent long hours grooming Scar's luxuriant black mane.
+    Nala cleared away the gnawed bones. Nala slept beside him. And someday
+    soon, Nala would be mounted, mated, and made to bear his cub.
+        Silent tears rolled down her face. Most soaked into her fur, but
+    some splashed on the stones at her paws.
+        "Simba," she mouthed, remembering her brother/playmate. He had
+    been so brave, so fun. She thought of the day they had gone to the elephant
+    graveyard. Zazu had told them of their betrothal. They had reacted as
+    children, thinking it icky. Strange. Unwelcome. Oh, how she wished for a
+    second chance! Simba would have grown to be a mighty king.
+        Scar twisted again, muttering. His coarse tongue slid over his
+    whiskers. "Sarabi ..."
+        Nala's eyes widened. Why was Scar calling for Sarabi in that tone?
+    It mixed longing and hatred. His claws flexed. His tail lashed across the
+    stone.
+        "Sarabi," he breathed. He rose and began moving toward her,
+    sniffing.
+        "Scar?"
+        "Taka. Call me Taka. You're in heat, Sarabi. You need it."
+        "Scar!" He was sleepwalking, she realized. He did not know who
+    she was, where he was, what was happening. She backed away from him.
+        "You'll find me more than a match for my brother," he snarled. He
+    lunged, snapping at her neck.
+        Nala yipped and ducked away. He cuffed her, sending her rolling
+    to the floor. As she righted herself, she saw that Scar was aroused, his angry
+    red organ jutting stiffly from its furred pouch. Her heart seemed to stop.
+        Scar stalked her. She retreated, until she was cornered. She pressed
+    against the wall of the cave. Zazu had awakened, and was blinking
+    confusedly at her.
+        "Zazu! Help me!" she pleaded.
+        The hornbill looked at Scar, and knew his intent. He forced his
+    beak between the bony bars of his cage, but it stuck. Nala inched along the
+    wall. Scar rubbed his side against hers. His pelt was shaggy and loathesome.
+    He nipped lightly at her neck.
+        "Do not defy me, Sarabi," he said.
+        Panicked, Nala flung herself past him. He grappled her, climbing
+    onto her back. She tucked her tail between her back legs. He bit her ear.
+        Scar was trying to mount her now. Thrusting, biting. His front
+    claws dug painfully into her back. She squirmed and struggled, hunching
+    low to the ground. Her muscles were all clenched. She prayed to all the
+    kings of the past to make him stop, to not let him enter her.
+        Zazu covered his eyes with one wing.
+        Nala suddenly knew that nobody was going to help her. The kings
+    of the past were not with her. The lionesses could do nothing. Zazu was
+    trapped. She was the only one who could save herself. If she did not, she
+    would be pierced, raped.
+        Terror and hate gave her new strength. She wrenched herself from
+    under Scar just as he rammed forward. His erection jabbed her in the hip.
+    His eyes flew open, shocked, pained, and wide awake.
+        For an instant, lion and lioness stared at each other. Scar's lip began
+    to curl. His eyes narrowed in rage.
+        Nala moved faster than she had ever moved in her life. Her paw
+    rose and fell, claws out. She struck him full in the face.
+        Her claw snagged just over his eye, where the scar that gave him
+    his name marred his pelt. She yanked it back, ripping flesh, drawing blood.
+        He roared. "You will die for that!" He sprang.
+        Nala threw herself to the side. Scar missed, landed awkwardly.
+    Before he could right himself, Nala attacked him again. All of her young
+    strength went into the blow. She hit him on the side of the head, knocking it
+    into the cave wall.
+        Scar crumpled. His eyes rolled back, then closed.
+        She stood in place, shaking with reaction. He lay motionless.
+        "Nala?" Zazu whispered. "Nala, what have you done?"
+        "He's dead! Zazu! I've killed the king!"
+        "No." Zazu pointed, and she saw that Scar's thin chest was rising
+    and falling in shallow but steady breaths. "He's alive."
+        She padded softly over to him, tense, ready to leap away if he
+    moved into sudden deadly life. She prodded him with a paw, then nosed
+    him. "He's unconscious." She raised her paw over his neck and slowly
+    extended her claws. "I have to! He'll kill me if I don't! What else can I do?"
+        "Run away, Nala," Zazu pleaded. "Run away and never come
+    back."
+        "Yes. Run away. I'll run away. Oh, but Zazu! Run away? Leave my
+    home? Leave everyone? My mother, what will she think?"
+        "Maybe you can find help," Zazu suggested. "If something doesn't
+    change soon, we'll all die."
+        Scar groaned.
+        "Go, now! Hurry!" Zazu urged.
+        Nala fled the cave. She sped swift and silent through heaps of
+    sleeping hyenas, under the tree where her mother dozed, and out into the
+    plains. Nobody saw her leave except one very old and wise monkey.
+        Rafiki nodded. The wind was changing. Nala was going to meet
+    her destiny.
+        "It is time," he said.
+            *       *       *
+        She was panting. Her feet felt cracked and blistered. The sands had
+    seemed to go on forever, a golden blur domed by the unforgiving blue sky.
+    Many times, she had been tempted to lie down and let the desert finish what
+    Scar had begun.
+        But now, at last, grass. Trees. Where living things grew was the
+    promise of water, and possibly food.
+        She found a small stream and drank from it thankfully. For the first
+    time in days, she felt hope. All she needed now was a bit of ...
+        A scent. Her nose wrinkled. A warthog, a particularly gassy one.
+    But meat was meat, and she could always hold her breath while she ate.
+        She saw him now, fat and juicy, waddling along without a care in
+    the world. Good. He was slow, and not particularly fierce. Even a poor
+    hunter like Nala should be able to bring him down alone.
+        She crept through the grass, freezing a time or two when he seemed
+    to hear something. Closer, closer.
+        He saw her, panicked. The chase was on!
+        Nala plunged headlong after her prey. Between trees, over logs,
+    under bushes, at one point a wild looping pursuit along the trunk of a
+    massive giant. And then, conclusion as the warthog wedged tight under a
+    root.
+        She could almost taste the hot blood! A tiny creature was springing
+    hysterically around. No matter. She would snap it up in one bite and get on
+    to business. Her jaws stretched wide.
+        From out of nowhere, the lion came. She skidded, recoiled. Her
+    shock was so great that she could barely think. He crashed into her.
+        The first male of her kind except for Scar, and he was trying to kill
+    her. Young, strong, deeply chested, fully-maned, handsome. She was
+    battling for her life, expecting to die any moment, but his hunting and
+    fighting skills were on a level with her own.
+        Slash! Snap! Bite! Cuff! Claw! Snarl!
+        He jumped. She gave at first, rocking, then slammed him to the
+    ground. She stood on his chest, growling into his face. She should have torn
+    out his throat as he lay stunned, but she could not bring herself to do it. She
+    had come seeking help, and what other help was there for the pridelands
+    than a male to challenge Scar? He was a chance, a hope.
+        And then he spoke her name.
+            *       *       *
+        Simba. After all these, years, Simba. Alive.
+        She had told him that he didn't know what this would mean to
+    everyone, what it would mean to her. How could she tell him about Scar?
+    About what had almost happened?
+        She almost couldn't believe it. Part of her mind insisted that she
+    was lying in the desert, dying, hallucinating her fondest wish.
+        Simba lapped at the pool. She glanced at him, caught him looking
+    at her. She raised her head slightly, water dripping from her muzzle. He was
+    hiding something, holding back. What? Why? She was the one with the
+    secrets, with the shame.
+        Looking at him was like looking at a memory of Mufasa. But she
+    could see glimpses of the cub she had onnce known still lingering in his
+    face. When he swung past her on a vine and splashed into the pool, she
+    knew it was all true. He was Simba. Her brother. Her friend.
+        Her betrothed.
+        She had told him he was the king, and that was true. He was also
+    her rightful betrothed! Scar's claim to her was now as meaningless as his
+    claim to the throne. She felt a great weight falling from her soul. She was
+    free, free!
+        Simba erupted from the pool, grabbed, her dragged her in. The
+    water was cold and deep, driving any last doubts that this might be a dream
+    from her mind. She scrambled out, gasping. When he came after her, soaked
+    and grinning, she playfully shoved him back in.
+        The chase was on again. This time, she was the prey and he the
+    hunter, laughing, charging through the grass, scaring up flocks of birds and
+    startled animals. Together, they brought down a plump bird and shared it,
+    blood and feathers and warm pale meat, then groomed each other, rough
+    tongues and soft fur.
+        In the cool shade, they played some more, cub games, stalking and
+    hiding and pouncing, and all the while she was increasingly aware of how
+    much they had both changed. As cubs, they had found the idea of marriage
+    repulsive, but now, adults ...
+        He pounced again, but this time she turned and rose on back legs to
+    meet him. They swayed, lost their balance, and tumbled heads over tails
+    down a grassy incline. He landed atop her and lifted his head, chuckling.
+        She couldn't resist. She held his face with one gentle paw and
+    licked his cheek, not a grooming lick but a passionate one.
+        Simba blinked, startled. He looked down at her.
+        Nala lay back in the grass, her eyes filled with promise and
+    invitation. She watched as Simba's expression underwent a change, as
+    understanding dawned. In that brief span of time, he took the last step
+    between cub and lion.
+        She rose, rubbing her head against his, both of them purring. His
+    mouth reached the nape of her neck and he hesitated. She could feel his hot
+    breath. She arched her neck, pushing it against the hardness of his teeth.
+        He nipped. She sighed. How could it be so different? When Scar
+    bit her like that, all she felt was fear and shame. But with Simba, she felt
+    vibrant and alive.
+        "Nala," he said. "Nala, this is ..."
+        "This is right, Simba. This is meant to be. Don't you want me?"
+        "I do," he said.
+        She moved a few paces away, swishing her tail, presenting her
+    sleek flanks. "Simba ..."
+        He braced his forelegs on her back, uncertain and excited. "Nala,
+    are you sure?"
+        "I love you, Simba. Mate me. Make me yours."
+        He nodded and she felt his stiffness nudging her sensitive opening.
+    She pressed back and he pressed forward, and he slid smoothly into her.
+        "Oh!" he said.
+        Nala couldn't stop purring. Simba thrust rapidly, eagerly. She
+    moved with him. It would be quick, this their first time, but she knew with a
+    wisdom beyond her years that there would be many more times, all sweet
+    and wonderful.
+        His back claws dug up tufts of grass and earth. Nala crouched low,
+    bracing herself against the ground. Her haunches quivered. Simba was
+    panting in her ear. Faster now, faster, and waves of intense feeling were
+    washing over Nala.
+        It happened like a sunrise. First a growing light, a spreading
+    warmth. Then the first dazzling rays shooting skyward, one after another,
+    more and more, until the rim of the glowing ball of the sun rose over the
+    horizon and burst forth in blazing, blinding flash.
+        Simba roared and drove against her in one hard, final push. His
+    claws raked her back but even that brief pain was good. Nala echoed his
+    roar with her own.
+        He sank to the grass. Nala twisted and licked his face again. His
+    golden eyes were wide and awed.
+        "I never knew what was missing from my life until now," he said.
+        She draped her paw over his neck. "I am so glad I found you, my
+    king."
+        His smile faded. "I'm not the king," he said.
+        "Simba ..."
+        He jumped up and stalked away. "I don't want to talk about it,
+    Nala."
+        
+            *       *       *
+    The End
+
+    Click here to return to the previous page.
+
+------------------------------------------------------------------------
+
+A Matter of Pride / Copyright 1996 - Tim Morgan / <vecna@eskimo.com>

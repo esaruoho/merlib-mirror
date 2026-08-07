@@ -1,0 +1,8 @@
+Index of /~roger/files/SPEC 
+
+ Index of /~roger/files/SPEC 
+ Name Last modified Size Description 
+
+ Parent Directory 29-Jul-2004 15:12 - 
+ crw.spec 20-Sep-2003 17:02 2k 
+ mrwtoppm.spec 20-Sep-2003 17:02 2k

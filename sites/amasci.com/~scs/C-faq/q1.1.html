@@ -1,0 +1,123 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 1.1</title>
+<link href="q1.4.html" rel=precedes>
+<link href="s1.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 1.1</H3>
+<p>
+How do you decide which integer type to use?
+</p><hr>
+<p>If you might need large values
+(above 32,767 or below -32,767),
+use <TT>long</TT>.
+Otherwise,
+if
+space is very important
+(i.e. if
+there are large arrays or many structures),
+use <TT>short</TT>.
+Otherwise,
+
+use <TT>int</TT>.
+If well-defined overflow characteristics are important
+
+and
+negative values are not,
+or if you want to
+steer clear of
+
+sign-extension problems when manipulating bits or bytes,
+use
+one of
+the corresponding <TT>unsigned</TT> types.
+(Beware
+when
+mixing signed and unsigned
+
+values
+in expressions,
+though.)
+</p><p>Although
+character types
+(especially <TT>unsigned char</TT>)
+can
+
+be used as
+``tiny''
+integers,
+doing so is
+sometimes
+more trouble than it's worth,
+due to unpredictable
+
+sign extension
+and increased code size.
+(Using <TT>unsigned char</TT> can help;
+see question <a href=q12.1.html>12.1</a> for a related problem.)
+</p><p>A similar space/time tradeoff applies
+when deciding between <TT>float</TT>
+and <TT>double</TT>.
+
+None of the above rules
+apply
+
+
+if the address of a variable is taken
+and must have a particular type.
+
+</p><p>If for some reason you need to declare something with an
+<em>exact</em>
+size
+(usually the only good reason for doing so
+is when attempting to conform
+to some externally-imposed storage layout,
+but see question
+<a href=q20.5.html>20.5</a>),
+be sure to encapsulate the choice
+behind an appropriate typedef.
+</p>
+
+
+
+
+
+
+<p>References:
+
+K&amp;R1 Sec. 2.2 p. 34
+<br>
+K&amp;R2 Sec. 2.2 p. 36, Sec. A4.2 pp. 195-6, Sec. B11 p. 257
+<br>
+ANSI Sec. 2.2.4.2.1, Sec. 3.1.2.5
+<br>
+ISO Sec. 5.2.4.2.1, Sec. 6.1.2.5
+<br>
+H&amp;S Secs. 5.1,5.2 pp. 110-114
+<br></p><hr>
+<p>
+Read sequentially:
+<a href="q1.4.html" rel=precedes>next</a>
+<a href="s1.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

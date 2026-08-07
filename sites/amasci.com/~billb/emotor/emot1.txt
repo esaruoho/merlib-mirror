@@ -1,0 +1,301 @@
+High Voltage Device: Electrostatic Motor Plans 
+
+ UP to e-motor | 
+
+ DEBUGGING | 
+
+ EXPERIMENTS | 
+
+ GOOD STUFF | 
+
+ SEARCH 
+
+ Google: 
+
+ Electrostatic Motor Plans 
+ SIMPLE, SENSITIVE VOLTAGE MOTOR USING 2-LITER SODA BOTTLES 
+ - William J. Beaty, 1988 
+
+ Here's a simple electrostatic motor that's based on 2-liter soda
+bottles and aluminum foil. It's construction does not require access to a 
+machine shop. It draws a fraction of a microamp during operation,
+and can run at unexpectedly high speeds (1000 RPM!) It runs on a 
+minimum of 5000 volts DC, which can be had from several different 
+low-current electrostatic energy sources. 
+
+Any of the following can power 
+this motor: 
+
+ Van de Graaff electrostatic generator (expensive unless home-built)
+ Wimshurst electrostatic generator (expensive)
+ Negative ion generator , try this one , it runs off a 9v batt.
+ Aluminum foil on a TV screen (dangerous?)
+ M. Foster's Cheap High Voltage 
+ Lenny R's PVC Pipe generator
+ A very large electrophorus 
+(low humidity required)
+ " Kelvin's Thunderstorm " waterdrop machine (very feeble, barely works)
+ High-voltage DC supply (dangerous, avoid it unless skilled with HV!)
+ Jefimenko-style sky antenna (kite-lifted or balloon-lifted wire with needles at top)
+ Or, with some practice, even with a balloon and a piece of fur can sometimes work.
+ Batteries won't work, you need High Voltage 
+
+One of these motors is featured in the Electricity exhibit at the Museum
+of Science in Boston, powered by a hand-cranked Van de Graaff machine. 
+
+ PARTS: 
+
+ three 2-liter pop bottles, at least one with a METAL cap
+ roll of aluminum foil
+ rubber cement
+ silicone caulk
+ 13" metal rod, 1/8" dia. (could use coathanger)
+ Two 8" pieces of solid copper wire, or coathanger
+ wood plank (or metal, or plastic) for the base
+ duct tape
+ hookup wire for attaching the power supply
+
+ Up to EMOTOR PAGE 
+
+ BOTTLE MOTOR DEBUGGING 
+ DEMONSTRATIONS 
+
+ rotor
+ bottle
+ |^| 
+ ||| / \ |~|
+ stator / \ ( ) / \ stator
+ bottle ( ) | | ( ) bottle
+ (+) | | | | | | (-)
+ | |||--------- |-| |
+ | | | | | |
+ | | (_______) | |
+ ____(_______)_____|_____(_______)___
+ |____________________________________| base 
+ SIDE VIEW
+
+ brush
+ ______ support
+ stator ___ ___/ _|\|_ 
+ bottle / \ / \ / \
+ | (|) | | (|) | | (|) |
+ \_ _/ \ / \ ___ / stator
+ brush |\|______/~~~rotor bottle
+ support bottle
+
+ TOP VIEW
+
+ Highly recommended:
+ ELECTROSTATICS by A. D. Moore 
+ (lots of projects) , also others 
+
+ CONSTRUCTION: 
+
+ Metal Rod 
+
+Cut the rod so it's about 1 in. longer than the middle
+bottle. Sharpen the rod using a file. Drill a hole in the center of the
+plank using a drill bit slightly smaller than the sharpened rod. 
+Carefully force the rod into the plank, unsharpened end first. (Note:
+coathanger wire will work as the center rod, sort of. But it's very
+wobbly. 1/8" welding rod works much better.)(Note: instead of filing a
+sharp point, try attaching a piece of a sharpened pencil to the top of the
+rod. The sharp graphite point makes a good bearing.) 
+
+ "Rotor" Bottle 
+
+ Find the exact center of the bottom of the middle bottle, and drill a
+hole there that's slightly larger than the rod diameter. 
+When slid onto the
+sharpened rod, the bottle should spin very freely. If the hole is too
+big, the bottle will rattle around and make the brushes drag on its
+surface 
+
+If you can find a bottle with a metal cap, make a dimple in the center of
+the cap. The dimple is there so the point on the rod will have something
+to ride in to stay centered. Take care not
+to poke through the metal bottlecap with the sharp rod! If you can't
+find a metal cap, glue a hard
+object such as a small glass test tube into the bottle cap. 
+If you use the pencil point mentioned above, a plastic bottle cap might
+work (I haven't tried this.) You'll still have to make a dimple in the
+plastic somehow. 
+
+ Precisely cut three broad strips of aluminum foil so they are just
+wide enough to give a 1/2" spaces when attached to the
+center bottle. You want the middle bottle to have three regions of foil,
+with half-inch gaps between the regions. Trim the corners of the foil so
+they are round, and test-fit them on the bottle
+and trim as needed. 
+
+Glue the foil to the center bottle as shown in the drawing. (It doesn't
+matter
+if the shiney side of the foil faces out or in.) I used rubber cement to
+glue the foil strips. I coated the whole bottle with cement, coated one
+side of each pre-cut foil strip, allowed the glue to dry a couple of
+minutes, then CAREFULLY layed on the strips and burnished them down with a
+spoon as I went. The end result should look like an aluminum coating on
+the bottle, with three broad foil sections separated by 1/2in gaps running
+vertically. No part of each foil section should touch any other foil
+section. Bubbles in the foil don't hurt anything, and can be punctured
+with a pin and flattened with a spoon. Instead of glue and foil, you might
+instead try using a roll of adhesive aluminum foil tape available at some
+hardware stores. 
+
+ Two "Stator" Bottles 
+
+ Glue large sheets of foil around the entire center areas of both of
+the two 'stator' bottles, leaving a 2 in. foil-free space at the bottoms.
+The bottom must remain clear of foil, and no foil on these bottles should
+come close to touching the wooden base or close to any duct tape you might
+use to connect the stator bottles to the base. 
+
+ Commutator "brush" wires 
+
+ The commutators (or "brushes") are pieces of heavy wire or coathanger
+8in long, each attached to a stator bottle, and each extending sideways so
+their ends are very near (but not touching) the rotor bottle surface.
+After attaching them to the bottles, bend the tips so they point towards
+the surface of the rotor bottle. See the diagram and photos. 
+
+I attached them to the stator bottles by bending the wire ends into an
+S-shape and embedding the S-shaped part in silicone caulk on the foil
+bottles. After the glue sets, the remaining short ends of each S-shape
+should be bent so they make solid contact with the bottle's foil. Don't
+let the silicone insulate the wire from the foil, because the stator foil
+and the commutator wire must both be electrically connected to one of the
+power supply terminals. 
+
+ Attaching the Stator Bottles 
+
+ Attach the two stator bottles to the plank so they are spaced about
+1/2" from the rotor bottle. I used nuts and bolts through the bottoms,
+which allowed me to rotate the bottles a bit for easy adjustment of the
+spacing between the commutator wire tips and the center bottle. (Yes, it
+was really hard to position the bolts inside the bottles!)
+
+If you use tape to attach the stator bottles, make sure it DOES NOT reach
+up to contact the foil. Duct tape, masking tape and wood are slightly
+conductive, and when the humidity is high, they can provide an unwanted
+leakage path to ground, preventing motor operation. 
+
+ The Bearing 
+
+ The metal-cap-with-dimple bearing is pretty crude. I improved it 
+by obtaining a 1/4" diameter test tube, cutting the bottom 1/2" off it 
+(by nicking with a file and snapping by hand with gloves.) This I glued 
+into the exact center of the bottlecap. The sharpened rod spun nicely 
+against the glass. Avoid dropping the center bottle suddenly down onto
+the metal rod, or the sharp point will shatter the glass bearing.
+
+ RUNNING IT: 
+
+If it doesn't work: 
+ BOTTLE MOTOR DEBUGGING 
+
+It takes more than 5,000 volts to operate this motor. This source of
+voltage is available from "static electric" sources. Try the
+generators linked at the top of this webpage, especially the Van de Graaff
+generator. If you don't have access to a Van de Graaff, try the "TV
+SCREEN" electrostatic generator. 
+
+Animation made by Don Bangert 
+
+Any power supply will have two output terminals (although one terminal
+might be invisibly connected to ground.) The positive lead must connect
+to one stator-bottle's foil and commutator wire, while the negative lead
+goes to the other. If you use a Van de Graaff machine, use tape and bare
+wire to connect the foil on one stator bottle to the upper sphere, and
+connect the foil on the other bottle to the generator's metal base. 
+
+ If your source of high voltage has just one output wire, then its
+missing wire is actually connected to ground internally. In this case
+connect the output wire to the foil on one bottle, and connect the foil on
+other bottle to electrical ground. Electrical ground can be found in many
+places, for example, use a metal faucet, metal sink, or the metal screw on
+the cover plate of a light switch or electric outlet. In a pinch you can
+use a metal tabletop for "ground", or use a few feet of aluminum foil
+layed on the floor, or even touch the other bottle with your finger to
+provide a crude ground-path out through your feet. 
+
+If it doesn't work: 
+ BOTTLE MOTOR DEBUGGING 
+
+ HOW IT WORKS: 
+
+When a high voltage is applied between the two stator bottle foils, one
+stator bottle aquires a negative charge imbalance, while the other one
+becomes positive. Also, a tiny spark jumps from the tip of each
+commutator brush to
+one of the foil sectors on the rotor bottle. The sector under the
+positive brush becomes positive, the one under the negative brush becomes
+negative. The rotor's foil sectors are then repelled from the
+alike-charged stator bottle and attracted to the unlike charged stator
+bottle. This sideway electrostatic force causes the center bottle to
+rotate, which brings new foil sectors under the brushes. Tiny sparks then
+jump to the new sectors and charge them, which makes them attract/repel
+from the stator bottles, etc. The foil on the rotor bottle that's under
+the commutator is always charged the same as the commutator, so it's
+always being repelled/attracted sideways. 
+
+ The force is continuous, therefor the speed of the rotor bottle will
+keep rising higher and higher. In practice the rotor speed will not
+increase forever, but will stabilize because of air turbulence, bearing
+resistance and bearing chatter, etc. If the entire motor could be put
+inside a vacuum chamber, it would REALLY run fast. But then the sparks
+couldn't jump from the commutator wires, and you'd have to arrange some
+kind of sliding contact brushes instead. (Sparks cannot exist in vacuum,
+since a spark is made of air which has turned into plasma.) 
+
+ Here's another way to visualize the motor: if you turn it sideways,
+you'll see that the motor is sort of like a waterwheel. On one side the
+excess negative charge is pouring into the side of the rotor bottle and
+"falling" towards the positive bottle. On the other side the positive
+excess is "falling" upwards and dragging the rotor bottle surface up. The
+moving charge gets temporarily stuck in the foil surfaces of the rotor,
+and it drags the rotor along with it as it moves from one stator bottle to
+the other. The motor rotates because it blocks the flow of moving
+electric charge, just as a waterwheel rotates because it blocks the flow
+of moving water. 
+
+ Yet another way to imagine it: Normal coil-and-magnet motors often are
+built like this: three electromagnet coils in the rotor, two permanent
+magnets as the stator, a commutator, and they operate by magnetic
+attraction/repulsion. In the pop-bottle motor all the coils are replaced
+with capacitor plates. The rotor has three capacitor plates instead of
+three electromagnetic coils. The stator permanent magnets are replaced by
+(+) and (-) charged stator plates. All the electric currents have become
+voltages, and all the magnetic fields are replaced by electric fields. In
+electronics, the swapping of coils with capacitors and
+voltage with
+current is called the "electromagnetic dual." Capacitors are the "dual" 
+of inductors. The popbottle motor is the "electromagnetic dual" of the
+common coil/magnet motor. Small slot-car PM (permanent magnet) motors
+represent one side of the electric/magnetic duality found in light, radio,
+electric energy, and all EM phenomena. The popbottle electrostatic motor
+is the other half of the duality. Light waves, radio waves, and
+electrical energy are where the voltage/current and electric/magnetic
+duality blends into a single thing called... Electromagnetism. 
+
+ BOTTOLE MOTOR DEBUGGING 
+ DEMONSTRATIONS 
+ ELECTROSTATICS BOOKS 
+
+LOOKING FOR BOOKS? Try searching
+
+amazon.com : 
+
+ (try "science fair project" keywords too)
+
+See: Science Projects & Experiment books 
+
+Help Support the Science Club ,
+ use the above form to buy your books. 
+(We make a few $$ on any books ordered via these links.) 
+
+ LIKE THIS ARTICLE? WHY NOT 
+
+SUPPORT AMASCI.COM 
+
+/emotor/emot1.html 
+Created and maintained by Bill Beaty . Mail me at: .

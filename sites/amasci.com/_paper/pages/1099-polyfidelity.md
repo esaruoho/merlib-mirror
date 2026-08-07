@@ -1,0 +1,77 @@
+---
+title: "Polyfidelity"
+source_domain: amasci.com
+source_path: ~allegro/private/polyfidelity.htm
+order: 1099
+reachable_from_entry: false
+images: 1
+internal_links: 4
+extracted: 2026-08-07T05:54:53Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Polyfidelity
+
+*Source page: `~allegro/private/polyfidelity.htm`*
+
+<table data-border="0" width="59%" style="background-color: rgb(0,0,255); color: rgb(255,255,255)" data-bgcolor="#0000FF" data-cellspacing="0" data-cellpadding="0">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;" width="33%"><p><img src="../images/polyfi2.jpg" data-align="left" width="99" height="100" alt="polyfi2.bmp (122742 bytes)" />Polyfidelity</p>
+<p> </p></td>
+</tr>
+</tbody>
+</table>
+
+(Standard disclaimer: Any and all definitions and opinions listed below are my (our) own and do not necessarily represent the views of anyone else, nor should they be taken as gospel. So there.)   
+
+Note: This page has recently been updated with an edited excerpt from a recent [essay](Objects.htm) I wrote.  
+
+To someone who has never heard of the concept, the idea of a marriage or relationship that involves more than two people may seem pretty strange. Much of Western culture is built on the concept of two-party male-dominant heterosexual marriage- primarily oriented around property rights and child rearing- with maybe some secretive affairs on the side. As people now focus on love, and shared goals and interests as the basis, many things have changed. For some that means acknowledging being gay or bi, some are creating more egalitarian and less sex-role divided marriages, some choose to remain childless, and some people have discovered that their capacity for relationships is not limited to just one person. A couple of the better-known terms for this are Polyamory and Polyfidelity.
+
+<span style="mso-bidi-font-size: 12.0pt">"Polyamory" has about as many definitions as  people who identify that way, but most agree that what it generally means is being open to the possibility of intimate relationships with more than one person. Some also call it a blanket term for responsible (honest) non-monogamy. This therefore includes a pretty wide range of relationship constellations, which can be sort of confusing at first. Polyamory can cover anything from swinging (a hotly debated inclusion,) to the classic open relationship, to large hippie commune-style "families," to Heinleinesque Line Marriages, to extended relationship webs that have dozens of people (It's been joked that six degrees of separation in the poly community is usually more like two or three.) One of the most common forms is for someone to have a "primary" relationship with one person (a spouse, etc.) and then have other, "secondary" relationships that are on a less involved level. There's also the subset of Polyfidelity, which comes very close to how we feel about the subject. The most concrete definition of polyfi is a committed relationship that involves more than two people, that is closed to outside involvements. Kind of like a standard monogamous marriage or relationship, only with more people. Others who identify as polyfi have a slightly looser definition that allows for the possibility of eventually including more people in the family, but with group approval only. Not all wait until theyre married to have sex or anything, but overall, the main goal is a primary level committed relationship, and not just sex or casual relationships.</span>
+
+ 
+
+<span style="mso-bidi-font-size: 12.0pt">**How this applies to me personally-**</span>
+
+    Well, here's what it isn't: It isn't swinging, it isn't casual sex, (as we define it: sex with no emotional connection) it isn't the classic  "open relationship," where each partner has more or less free rein to do whatever. It isn't about cheating, lying or being deceptive or sneaky, it isn't about sex for sex's sake, playing games with people, building harems, or going through a partner-of-the-week. It also isn't the "traditional" one man, multiple wife non-egalitarian verison of polygamy. 
+
+    Though we plan to be together for a long time, maybe even for the rest of our lives, we made sure there was nothing in our marriage [ceremony](../our_ceremony.htm) about forsaking all others. In our lives, we have loved many people-some as [friends](friends.htm) or [relatives](../our_families.htm), some, like Dave and Steven,  Chris and Diana, and  Kim, that we have adopted into our lives as chosen family, that we fully expect to be in our lives forever (and we're always open to adding more to that list!) but who can't be partners in a romantic or sexual sense, and of course, several romantic relationships that, until we met, eventually fizzled out for one reason or another. One of the things that both of us noticed is that when we were in a relationship with one person, there were still others that we loved, and that being in a relationship did not diminish or cloud the feelings we had for the other person(s.) The feelings we had also didn't diminish the feelings we had for our partner, either. In some cases, these feelings were nearly as strong as the feelings we had for the person we were in the relationship with! We both, independently, came to the realization that it was possible for us to love more than one person at a time, without any loss of love and caring to anyone. People can love more than one child, more than one parent, friend or sibling, and we see no reason why it shouldn't be possible to love more than one partner. Many, many bi people are perfectly happy being monogamous, and being bi certainly isn't interdependent with nonmonogamy, (though the two often correlate) but in our case, we realized that it would be impossible to totally close off the queer parts of ourselves, and just sit back and and enjoy the forced closet of het privilege. Even if he never did actually sleep with anyone else, Mike still would have fairly strong interests in men, though hes definetly not 100% gay, and hes attracted to me regardless. I could probably be happy with just him, but I still do fall for other people sometimes- usually the ones he falls for too. Besides, it would be lying, and a disservice to ourselves and the GLBT community to try to pretend to be straight. Not to mention that weve discovered that we cant exactly pass as het anyway- especially not since we moved to good ol queer friendly Seattle a few years ago. Im too dykey, hes too much of a Nancy boy, and we hang out with too darn many gay folk anyway. We make their Gaydar go on the fritz so sometimes they feel compelled to ask us, Umm.. how does this marriage thing work with you two? (Quite well, thanks..) Even the old queen that sold us our new car last summer asked us if we were sure our friendship was really going to last for the 5 years it would take to pay the car off! People think Im a just a fag hag, and that hes really gay and just kidding himself about being attracted to me. That we just have a marriage of convenience or something. Hmph. A lot they know. They should see us in bed sometime. Usually I just answer rude questions by telling people Of course youre right- we <u>must</u> both be gay, but, yknow, Im man enough for him and hes woman enough for me. So there. People tend to get all pissy about that, though. 
+
+Our current arrangement is fairly simple, though it has gone through some morphing. Early on, we agreed that if the situation was right, we would be open to having other relationships that addressed the needs that we just couldnt fill for each other. Barring the opportunity for a serious relationship, perhaps a "threesome" or two with a close friend. Either way, we agreed that it was going to be a joint effort, and wed only be with someone who wanted to be with both of us- i.e. someone who was also bi or at least flexible. Easier wished for than found, and we remained alone, after falling for a few people that wanted nothing to do with us, or who were only interested in one of us (usually him.) <span style="mso-bidi-font-size: 12.0pt">While we both enjoy sex a great deal, and are very open about it, sex without an emotional connection has never been very satisfying to either of us. When we were doing casual sex (before we got together,) we always felt kinda empty afterwards, because we had wanted to get to know the other person better, and to be more of a part of their lives, and to be close to them in ways other than just getting naked. Being loved by Mike has really spoiled me, and I now have a lot more respect for my body and my sexuality, and Im not about to share them with people I dont know and trust. Even if the sex itself is just for fun- or even downright kinky (when Im in the mood)- I want people to consider me and my body something special, and something to be respected and cared for. So, once we realized that we both wanted caring along with the sex, we refined our agreement and decided that what we really should look for was a serious relationship with another bi person or couple where we all share our lives, and perhaps, someday, even a house and childrearing when we were ready for it. Utopian bliss, right?</span>
+
+ 
+
+<span style="mso-bidi-font-size: 12.0pt">Unfortunately, we've had little luck finding what we wanted, since polyfi is still a pretty rare philosophy.<span style="mso-tab-count:1"> </span>There are plenty of people in the poly community who have real relationships and not just a lot of emotionless sex, and  there really are some very nice people involved in it- some of whom were still friends with-  but the prevailing local flavors of poly are just not our thing. </span> We have had a few almost-happened three/foursome situations with friends, but none ever actually panned out, and we've had a couple of heartwrenching near-misses with potential serious partners. We've also had a couple of opportunities for V relationships, but the person involved just wasn't right. <span style="mso-bidi-font-size: 12.0pt"><span style="mso-tab-count: 1">We had one girlfriend, briefly, but she wasn't ready for poly, and wasn't terribly sure of her own sexuality either. </span><span style="mso-tab-count: 1">She remains the only other person either of us has had sex with since we got together in 1994. </span></span> Still, people come and go from our lives, and there is frequently a person or two on the horizon that we consider in this capacity. When/if the time and person is right, it will happen. We're also not naive enough to believe in love at first sight, or instant intimacy or commitment. It will take just as much time, effort  and patience (probably more) to develop a true long term multi-partner relationship as it would to develop one between just 2 people. It would be silly to ask someone to marry us 3 weeks after meeting them :) All the same, though, we don't like the idea of having sex on the first date, either (or even the 3rd or 4th date- though I suppose kissing would be fine :) ) Even if the relationship doesn't eventually work out, we'd like to limit our sexual encounters to people with whom we think there's a strong possibility that they're going to stay in our lives for quite a while. In short, we kind of feel that we're approaching this much the same way that a single person would, when they're looking for Mr/Ms Right. We're open to dating, and to creating connections with people, and also to adding to our non-romantic family, and if we meet the right one(s,) we'll pursue it just as strongly as we pursued each other.<span style="mso-bidi-font-size: 12.0pt"> Through our experiences, weve also learned that our attitudes about non-monogamy have really always just been based on falling for specific people rather than a generic desire for other. The constant re-modifications of our agreements seem to be inspired by fitting them to whomever were currently interested in. </span>
+
+    Is this something that we really need? No, not exactly. It's something that we would like to see happen, and I think we'd be very happy with, but we also realize that this is a pretty rare thing, and not many people can deal with the idea of multiple-partner relationships. If we fall in love with someone, though, it's really nice to know that we don't have to automatically discount the possibility of creating a relationship beyond friendship with them just because we're married. Overall, we've survived well in the time that we've been together, and if it ends up being just us, then that's how we'll live. We love each other very much, and that love is quite enough to sustain us for many, many years. Things also may modify again when we decide to have children, as it may be difficult to incorporate another person into the family then, unless the person is already a part of the family when the kids come along.<span style="mso-bidi-font-size: 12.0pt">The basic tenets- doing it jointly, caringly and with an eye toward long-term relationships or friendships- still exist, but we no longer are really looking for someone to fill some empty space- just open to possibilties. </span> We  believe that when/if the right person(s) come along, we can and will create a place for them in our hearts and arms where  they'll fit just fine. While w<span style="mso-bidi-font-size: 12.0pt">ere still theoretically poly, realistically were monogamous. Even if there never is someone else, well be ok with just each other.</span>
+
+------------------------------------------------------------------------
+
+Glossary (see above disclaimer)
+
+Triad: A committed relationship between 3 people where all 3 are involved with each other. Usually this means involvement on a sexual level as well, but in some cases can mean just a very strong emotional bond. Usually also means living together or very near each other, and sharing day-to-day lives.
+
+V- A relationship where one person is at the fulcrum of the V, and has equal relationships with both others, but the other two are not involved with each other.
+
+Quad- Like a Triad, only with 4 people.
+
+NRI-SO- A recently coined term meaning Non-Romantically Involved Significant Other. Someone with whom you are not actually sexually involved with, but who is nonetheless an essential part of your life. Perhaps the two "open" ends of a V.
+
+Primary- The person with whom you have a "primary" connection with-usually a spouse, and who often takes precedence over other ("Secondary") relationships.
+
+ 
+
+Falling all over yourself to see [more](gut%20spillings.htm) of what I have to say about love, friendships and relationships?
+
+------------------------------------------------------------------------
+
+ 
+
+If you'd like to use the Polyfi image above, please [e-mail](mailto:allegro@eskimo.com) me.
+
+[back to About Us](aboutus2.htm)

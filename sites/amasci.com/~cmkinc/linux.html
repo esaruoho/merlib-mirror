@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>
+Linux: Revolution of One</title>
+<meta name="GENERATOR" content="amaya V1.3">
+</head>
+<body BGCOLOR="#FFFFFF">
+
+<p align="center">
+<span style="color : #FF0000; font-family: helvetica; font-size: 16pt"><strong>
+Working With Linux:
+</span></strong>
+</p>
+
+<p align="center">
+<span style="font-size : 14pt; font-weight : bold; color : #0000FF">
+A Revolution of One
+</span>
+</p>
+
+<hr size="3" width="90%">
+
+<p>
+Let me just think about this for a minute. When did it all start? Well, the <A HREF="http://www.eskimo.com">Eskimo North</A>
+Lobby newsgroup certainly had alot to do with it. If there ever was a haven for <B>"ABM"</B> <I>(anything but Microsoft)</I>
+rhetoric, it's that place! One day I got fed up with it and fired off a post before I really thought about what I was saying,
+because a particularly nasty thread had emerged which not only bashed the company and its products, but also implied that users
+of those products were something less than computer literate. I resented that and let my resentment be known. I also proceeded
+to be flamed in the Lobby like a shishkabob!
+</p>
+
+<P>
+That's okay, I probably deserved it. But a consequence of this was that it set my mind to thinking about this Linux thing. I mean,
+I knew every screw and jumper of my hardware, having built it myself (with my brother's assistance) and my understanding was that
+knowing your hardware is half the battle.
+</P>
+
+<P>
+Without further ado, please indulge me by allowing me to list the main hardware components in my box:
+<UL>
+<LI><B>Motherboard/CPU/RAM:</B> <A HREF="http://www.amptron.com">Amptron</A> ATX form factor board (<A HREF="http://www.viatech.com">VIA</A> chipset) w/ 1 meg pipeline burst cache, <A HREF="http://www.amd.com">AMD</A> K62-300 CPU, 64 meg PC-100 synch DRAM.
+<LI><B>Video Display Adapters:</B> <A HREF="http://www.stb.com">STB</A> Velocity 128 (<A HREF="http://www.nvidia.com">NVidia</A> RIVA 128ZX chipset), 8 meg AGP + STB BlackMagic (<A HREF="http://www.3dfx.com">3dfx</A> Voodoo2 chipset), 12 meg PCI.
+<LI><B>Video Monitor:</B> <A HREF="http://www.nec.com">NEC</A> MultiSync C500.
+<LI><B>Storage:</B> 8 gig <A HREF="http://www.maxtor.com">Maxtor</A> which dual boots Linux-Win98. Also a 3 gig drive (I forget the brand) that has my Windows NT test setup. Swappable IDE drive tray <I>(very nice!)</I>. ATrend 36x IDE CDROM drive.
+<LI><B>Audio:</B> <A HREF="http://www.soundblaster.com">SoundBlaster</A> AWE-64 Plug-n-Play. Altec Lansing speakers and subwoofer.
+<LI><B>Modem:</B> <A HREF="http://www.3com.com">3com</A> 56k internal faxmodem.
+<LI><B>Input Devices:</B> Microsoft PS/2 Intellimouse and a <A HREF="http://www.wacom.com">Wacom</A> ArtPad II tablet+stylus.
+</UL>
+</P>
+
+<P>
+Aside from the ego-trip of saying, <I>"lookie lookie what I got!"</I> my main reason for listing hardware is to point out that everything you see above works in Linux, and works <B>well</B>. That includes the wheel on my mouse (which both scrolls and doubles as a middle mouse button, essential in Linux), my Wacom, and that nasty Plug-n-Play sound card. Starting out, I was afraid that I was going to have to junk a bunch of hardware if I ever wanted to run Linux. As it turns out, the only component I had to replace was my PCI Winmodem, purchased before I knew any better.
+</P>
+
+<P>
+I'm going to say this one time: <B>Do not buy Winmodems!</B> Most clone shops in the Seattle area use them, and it's hard to find a new PC these days that doesn't have one. Any modem sitting in a PCI slot is a Winmodem, and motherboards come with fewer and fewer ISA slots these days. Mine only has two and they're both occupied (sound and modem). If you want to run Linux you're going to have to break down and buy proper hardware, there's no two ways about it.
+</P>
+
+<P>
+As an unsolicited plug, I highly recommend <A HREF="http://www.mwave.com"><B>Multiwave Technologies</B></A> out of California if you aren't paranoid about shopping on-line. Their hardware selection is fantastic, as is their customer service. Prices, even with UPS ground shipping, are usually better than anything you can find locally (unless you happen to be an OEM). They don't always have the absolute <I>lowest</I> price on the net, but you certainly won't go wrong buying from them.
+</P>
+
+<P>
+As long as I'm talking about hardware dealers let me just say that I do like <A HREF="http://www.computerstop.com">ComputerStop</A> over in Bellevue. I hear a lot of other people recommend them to others as well. However, you will <I>never</I> come close to getting the best possible price over there. Or even a decent price. ComputerStop is good if you need something <B>now</B> and don't want to wait for mail order. Just please, please don't make major component purchases there if you can help it. You will pay too much, and you will pay Washington's onerous sales tax. However, it is better than buying from CompUSA. That outfit sucks and everyone knows it so I won't elaborate any further!
+</P>
+
+<P>
+Okay, where was I? Ahh yes we're talking about Linux. I did alot of research on the web to find out what I needed to know to get started. My particular situation was that I had my entire 8-gig drive formatted as a single FAT32 partition with Windows98. Should I junk Windows? Sorry, I don't think so... I'm not <I>that</I> brave! Besides I put a lot of effort installing stuff and optimizing my Win98 system (sure, it crashes every once in a while but for some reason I don't have the frequent crash problems I read about all the time). I had about four gigs filled, and could not forsee needing the whole rest of the drive for Windows. So I decided to give it one more gig to play and somehow free up the last 3 gigs for Linux. How did I manage that with an already-formatted partition? Two words: <A HREF="http://www.powerquest.com/partitionmagic/index.html">PartitionMagic</A>. Actually I guess that's one word. There are other utilities available that do non-destructive repartitioning of your hard drive, PM is just what I used because I had it available. Note also that I only used it to create 3 gigs of free space at the end of the drive. The process of installing Linux should give you the opportunity to whittle that down further and format your ext2 and swap partitions, using something like Linux fdisk, cfdisk, or disk druid (the latter being a RedHat thing).
+</P>
+
+<P>
+Now I'm still relatively new to Linux, so I don't want to get into a bunch of distribution pros and cons. I've found that Linux users are almost fanatically loyal to the distribution they use, and think that everything else sucks. Here too, I did a bit of research. <A HREF="http://www.redhat.com">RedHat</A> <I>(a.k.a. RatHead a.k.a. DeadRat)</I> is probably the best-known and most widely-used distribution. It's also the most expensive to buy, with the newest release 6.0 weighing in at a whopping $80.00 U.S. retail. I'll add links to some of the other distributions another time (you can always find them at <A HREF="http://www.linux.org">linux.org</A> - why beat a dead horse?). A few things I read both in print and on the web made me zero in on <A HREF="http://www.debian.org">Debian GNU/Linux</A>, and it turned out to be the distribution that I settled on. Let me say this right now: <B>you will not go wrong with Debian!</B> It's taken a bit of effort to learn (and make no mistake, you <I>will</I> learn Linux if you go with Debian), but now four months later I just can't leave it alone! I'm hooked. I'm a junkie. <I>Thanks alot, Eskimo!</I> Ahem... Another side benefit is that if you happen to go into a Linux IRC channel, say on Undernet or Dalnet, you won't be disrespected if you're running Debian. It's like flipping off the Pope, or something. RedHat or Slackware, well, you're kinda on your own.
+</P>
+
+<P>
+<B><I>To be continued...</I></B>
+</P>
+
+<P align="center">
+<FONT SIZE="4" FACE="Helvetica"><B>[ <A HREF="index.htm">Home</A> ]</B></FONT>
+</P>
+
+</body>
+</html>

@@ -1,0 +1,69 @@
+Poetry Links - Tools 
+
+ Home | What's New | Anthologies and Link Sites | Poets 
+ Journals | Movements and Criticism | Tools | Members 
+
+ Tools 
+
+ Links to pages for computer-generated writing tools.
+
+Tools Available Here
+
+ Charles O. Hartman's original DIASTEXT . C source and DOS executable. Unsupported.
+Uses the input text as the reading key.
+
+ Diastic Reading
+
+ Web implementation of diastic reading.
+
+ Perl program for diastic reading . Standalone version of the web implementation.
+
+ Travesty
+
+ Web implementation of Travesty.
+
+ Perl implementation of Travesty . Standalone version of the web
+implementation.
+
+ Markov Generator
+
+ Web implementation of a Markov generator.
+
+ Perl implementation of a Markov generator . Standalone version of the
+web implementation.
+
+Tools Elsewhere
+
+ Marius Watz's computer-generated writing page . Probably
+the best place to start. Includes
+bibliographical information as well as links to a wide variety of software and texts.
+
+ Prose , a random sentence generator, source and Mac
+version available from Charles O. Hartman's site. Program is described extensively in Hartman's The Virtual Muse .
+
+ RoboPoet , a text generator.
+
+ A large set of text manipulation programs.
+Abstracts and compressed files. Includes Janus-Node ("formerly McPoet"):
+ abstract 
+and program .
+Macintosh only. There's also a Macintosh travesty program:
+ abstract 
+and
+ program .
+
+ A Word 97 (Windows) template by Taylor Brady
+that implements Jackson Mac Low's diastic reading. Read the
+ documentation before using it.
+
+ Ray Kurzweil's Cybernetic Poet . Starts with Markov chains
+and then does a whole lot more.
+
+ The tool collection at the
+ Burning Press site. Big collection, includes Mac and DOS/Windows programs.
+
+ The best implementation of Perl for Win32 is available from ActiveState . If
+you're writing programs for text manipulation, you really ought to be using Perl. And, of course,
+there are Perl implementations for every platform in existence....
+
+ Last updated 21 January 2002.

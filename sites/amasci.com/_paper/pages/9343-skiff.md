@@ -1,0 +1,1185 @@
+---
+title: "skiff"
+source_domain: amasci.com
+source_path: ~vecna/skiff.htm
+order: 9343
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T06:01:54Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# skiff
+
+*Source page: `~vecna/skiff.htm`*
+
+# Tales From the Skiff
+
+## Christine Morgan
+
+------------------------------------------------------------------------
+
+    Author's Note: the characters of Gargoyles are the property of Disney
+    and used here without consent. Other sources of inspiration, homage,
+    and outright theft occur herein, also without knowledge or permission
+    of the rightful creators.
+
+    Author's Note Additional: the events in this story take place before
+    Broadway, Brendan, and Elektra find their way home in "The Pure and
+    the Profane," a story that just wouldn't wait to be written.
+
+    Special Thanks to Denis, for making a joke that I decided to take
+    seriously! ; )
+
+    OPENING:
+    (music by Danny Elfman)
+            Swooping camera pan toward the brass-and-glass double doors
+    of a skyscraper, zeroing in on the stylized gold-painted "X" just before
+    the door swings open. Quick skim over marble and mahogany foyer,
+    sweep up into elevator shaft.
+            Emerge into the spacious hall of a castle, skimming across
+    tapestries, antiques, displays of armor and weapons, stained-glass
+    windows. Onto the battlements, panning swiftly past fearsome figures in
+    menacing stone poses. Dart back inside, swerve down a hallway, into a
+    child's nursery.
+            Zoom in on a jack-in-the-box in jolly colors. The latch flips,
+    the lid pops open, and out springs a thin figure with floating white hair
+    and overlarge, pointed ears.
+            A maniacal laugh spirals into the upper registers, and then a
+    voice chortles, "Tales from the Skiff!"
+
+                    *               *
+
+    PART ONE -- INTRODUCTION:
+            Scene of a long dusty table littered with bits of pottery, thick
+    gold jewelry, archaeologist's tools. A sarcophagus stands in the
+    background, against the wall of a tent.
+            Puck, wearing a pith helmet and khaki, blows a cloud of grit
+    from a bejeweled brooch in the shape of a beetle, then grins into the
+    camera.
+            "Hello there, boys and girls. Hope I didn't scarab you!
+    Wouldn't want to send you running home to mummy! She's so wrapped
+    up in herself these days!"
+            He floats into the air, hovering over the table. "Our first tale
+    pushes the pyramid-ars of adventure. All's pharaoh in love and war, and
+    people always get what's Tutankhamen to them! So join me for a little
+    story that that I call ... Brendan Vandermere and the Temple of Doom!"
+
+                    *               *
+
+            The river was a wide ribbon of dull brown-green rippling
+    between banks thick with rich mud. Canals reached from the river, long
+    narrow fingers combing through the lush fields. The moon hung low
+    and full and huge, painting the landscape cool silver.
+            Statues lined the sides of the river, towering ancient stone
+    figures on square pedestals. The moment Brendan saw them, he knew.
+            "Egypt!" he said.
+            He quickly identified the gods -- hawk-headed Horus, whose
+    single eye was represented on the back of the dollar bill; Anubis, judge
+    of the dead; sleek Bast, bare-breasted with the head of a cat; many
+    more.
+            "Who's that?" Elektra breathed, pointing to the statue of a
+    woman with feathery wings extending from the undersides of her
+    outstretched arms. "She seems almost a gargoyle!"
+            "Isis," Brendan said, briefly describing the goddess' journey
+    through the underworld and her efforts to restore her husband after he'd
+    been torn to pieces.
+            "When Goliath was sent here, he fought the Pack," Broadway
+    muttered. "We better look out."
+            "Mm-hmm," Brendan replied, barely listening as he read the
+    heiroglyphs on the pedestals as the skiff glided smoothly by. "Where's
+    the camera?"
+            Elektra found it and he began taking pictures, grateful for the
+    bright moon.
+            "Hey, what's that?" Broadway put a hand to his fanlike ear,
+    which as far as Brendan was concerned, was like holding a pair of
+    binoculars up in front of the Hubble telescope.
+            pop-pop-pop-pop!
+            Next came a tatta-tatta-tatta, and a revving diesel engine, and
+    the scream of a motorcycle throttle. Then more pops and tattas.
+            Broadway brought the skiff to a halt in the shadow of a
+    weathered pillar, exerting no small effort to keep it in place against the
+    strengthening current.
+            Brendan's eyes skimmed over the heiroglyphs, saw that they
+    warned of a cataract ahead, and thought nothing of it as he realized the
+    pops and tattas were gunfire.
+            Now they could see the source of the commotion. A canvas-
+    sided truck was in hot pursuit of a solitary motorcyclist, with two dun-
+    colored jeeps bringing up the rear. A man with a machine gun leaned
+    out the passenger-side window of the truck, bullets stitching haphazard
+    seams all around the cycle as it swerved. Another man, distinctive with
+    a short blond crewcut and a black turtleneck, was standing in the back
+    of the lead jeep with a pistol.
+            "What do we do?" Elektra asked, poised for action.
+            "We don't know who the good guys are," Broadway said,
+    frustrated. "And they've got us outgunned! I guess we wait and see."
+            The motorcycle zipped up an incline that was almost too steep,
+    and raced along the top of a crumbling sandstone outcrop. The truck
+    picked up speed, the driver surely seeing that the outcrop first narrowed
+    and then petered out to nothing. The bike was rapidly running out of
+    room.
+            The rider must have known it too, because the bike slowed.
+    Then, as the truck pulled ahead, the rider gunned the engine and went
+    up on the back wheel, then jumped the bike into the back of the truck,
+    tearing through canvas.
+            Moments later, after a man in dark clothes had been forcibly
+    ejected from the back of the truck, the rider appeared through a rip in
+    the canvas, and began clambering toward the driver's compartment.
+            Beside Brendan, Broadway was humming softly.
+            The truck braked, flinging the cyclist onto the hood. A hail of
+    machine-gun fire blasted out the windshield, showering broken glass
+    but missing the precariously-clinging cyclist, who pistoned both legs
+    through the opening and kicked the machine-gunner out the passenger
+    door. The cyclist then dove inside, and the truck went crazy as a
+    wrestling match took place for possession of the steering wheel.
+            Two of the truck's wheels bounced up on the sandstone, and
+    the whole thing nearly tipped. Then it came down with a crash and a tire
+    exploded -- BANG-flappa-flappa-flappa.
+            Now they could see the driver, slumped unconscious across the
+    dashboard while the cyclist fought for control of the careening vechicle.
+    The truck came around in a big loop, and headed straight toward the
+    jeeps.
+            The lead jeep veered out of the way, but the second jeep wasn't
+    so lucky, and met the truck head-on. As they slammed together and
+    burst into flames, a motorcycle erupted from the back of the truck,
+    complete with rider.
+            Broadway was louder now, really getting into it: "Bum-ba-
+    dum-dum, bum-ba-dah, bum-ba-dum-dum, bum-ba-dah-dah-dah!"
+            The motorcycle landed hard but stayed balanced, and shot
+    toward the river with the remaining jeep close on its tailpipe. The blond
+    man in the black turtleneck fired but missed as his car bounced and
+    jolted over ruts in the earth.
+            Now they got a good look at the cyclist, and gasped as one to
+    see that it was a woman, grim-faced beneath the brim of her fedora.
+            Just before she reached the bank, the blond man's second shot
+    struck her cycle. Its rear end jerked to the side, slewed in the mud. The
+    woman leaped free and rolled, all leather jacket and brown corduroys,
+    with a whip coiled at her hip. She came up crouched next to the pillar,
+    clutching a battered satchel to her chest, her hat still miraculously on
+    her head.
+            The jeep was going too fast to avoid the tumbling motorcycle
+    and collided with it, turning it into a bent pretzel of metal that sailed up,
+    came down, and smashed through the jeep's windshield. The driver
+    spun the wheel hard to the right. Tires slid in the mud and the jeep
+    toppled onto its side, spilling all the occupants.
+            The woman saw the boat and jumped in, landing beside
+    Brendan. "Cast this thing off!"
+            "Okay," Broadway said, nonplussed, and poled them into the
+    swiftening current.
+            She looked at him and Elektra, did the grandaddy of all
+    double-takes, and then whipped her attention back to dry land as a
+    bullet tugged the collar of her jacket.
+            The blond man was standing beside the wreckage of his jeep, a
+    scratch leaking blood down his arrogant Nordic cheekbone, both hands
+    wrapped around a gun.
+            The current seized the skiff and drew it along, and now
+    Brendan remembered what he'd read on the pillar. Cataract. Rapids.
+    Whitewater.
+            Another bullet gouged a splintery wound in the skiff's
+    figurehead, turning the carved Viking head's solemn mouth into an O of
+    surprise. Broadway swore and poled more vigorously.
+            The blond man tried to fire again, but judging by the look on
+    his face and the disgusted way he flung his pistol in the mud, he was out
+    of ammo.
+            The woman stepped up on one of the benches, bracing herself
+    with one hand on Brendan's shoulders. She doffed her hat, letting a riot
+    of chestnut hair take to the wind, and waved it at the blond man in
+    mocking salute.
+            Even the growing rush and tumble noise of the approaching
+    cataract could not drown out his final infuriated cry as he shook his fists
+    in the air. "Jooooooonnnnnes!"
+            Broadway choked and almost lost hold of the pole. "No
+    way!!!"
+            There was no chance for further conversation just then,
+    because the skiff dipped into the rapids, and the woman lost her footing
+    on the bench. She fell into Brendan's arms, winked at him, then
+    disentangled herself and dropped low to grab the sides of the boat.
+            Brendan and the gargoyles followed suit, and they all held on
+    for dear life as the skiff picked up speed. Water and muddy foam
+    splattered over them.
+            Finally the river smoothed out, and they could all sit up again.
+            "Whew," the woman said, wringing out her hair and replacing
+    her hat. A small scar on her chin only accentuated her striking good
+    looks. "Thanks for the ride."
+            "Are you one of the good guys?" Broadway demanded.
+            "Are you?" she came back.
+            "Well, yeah! So if you stole something from those other
+    people, and they were just trying to get their property back --"
+            "It's not their property!" she said fiercely. "The Orb of Isis
+    belongs in a museum!"
+            "Can I cut in for a moment?" Brendan asked, as polite as if this
+    were an evening cocktail party. "Some introductions might be in order.
+    Brendan Vandermere, of the Boston Vandermeres." He extended a
+    hand.
+            The woman regarded him for a moment, making him very
+    aware of his unshaven and all-around disheveled state. Howard
+    Mosswell's tweed jacket wasn't in the best shape either, and Brendan
+    realized he must look quite a bit like a homeless college professor.
+            "Dakota Jones," she replied, seizing his hand in a grip that
+    made him struggle not to wince.
+            "I'm Broadway, and this is Elektra," Broadway said. "But
+    we're still trying to figure out who's side you're on."
+            "Likewise." She turned her dark, frank eyes on the two of them
+    and waited for an explanation. When Broadway, to his evident surprise,
+    provided one, she nodded as if it made all the sense in the world.
+    "Gargoyles, okay. Excuse me for saying so, but shouldn't you be
+    perching on Gothic cathedrals?"
+            "We are on a quest," Elektra said softly. "A magical quest that
+    sends us where we need to be, where we might render aid to those in
+    need."
+            "Ooo-kay," Dakota said. "You did provide a handy getaway
+    boat, at that. But you can just drop me off ahead at the river bend, and
+    get back to your quest."
+            "What about you?" Brendan asked.
+            "Places to go, Mr. Vandermere. I have to get to the Orb to the
+    Office of Egyptian Antiquities, for their Isis Exhibit."
+            "But who were those other guys?" Broadway demanded. "Why
+    do they want this orb thingie?"
+            "As an energy source. They mean to use it to power a weapon.
+    And I mean to keep them from doing it. If Runolf gets his hands on the
+    Orb --"
+            "Runolf?" Broadway cut in, with a puzzled look. "That name
+    sounds familiar ..."
+            "Hans Runolf." Dakota fingered the hole in the collar of her
+    jacket. "Our blond friend. Leader of an outfit that calls itself the Reich
+    2000, or the Nazis of the New Milennium."
+            "Sounds like a video game," Brendan said.
+            "Or a rock band," Broadway agreed.
+            "Laugh if you want," Dakota said, "but they're dead serious.
+    They want to use the Orb to activate the Anubis Device. If that happens
+    ..." she shuddered and shook her head.
+            "The ... who what?" Broadway's puzzled look had reluctantly
+    given way to one of a hope-I'm-wrong sort of understanding, and
+    Elektra glanced worriedly at him before touching his arm.
+            "There was an incident a few years ago. Nobody's clear on the
+    details, but someone broke into a hidden chamber and found something
+    that killed thousands of people in a split second. Aged them to dry
+    bones. Now the Reich 2000 have it, but lucky for us all, they haven't
+    been able to make it work. Yet."
+            A few silent moments passed as they all contemplated this.
+    Broadway still looked uncomfortable, but whatever he knew, he wasn't
+    saying.
+            "Where is the Anubis Device?" Brendan finally asked.
+            "They moved it to the Temple of Kal-tet," Dakota replied,
+    pointing to a distant flat-topped pyramid that rose from the dunes like a
+    mirage. "It's remote, virtually unknown, the perfect place to test it."
+            Brendan frowned. "I thought I knew my mythology, but I've
+    never heard of Kal-tet."
+            "I'm not surprised. She's not one of the major goddesses. Or
+    even one of the minor ones, for that matter. More of a cult figure in the
+    3rd dynasty. The sacrifices were considered gruesome even by the
+    standards of the time. The priests put starving crocodile hatchlings in
+    brass urns, then strapped the urns so that the openings were flush
+    against the bellies of their victims."
+            Another silent moment passed while they all contemplated
+    that.
+            Once again, Brendan broke the silence. "Is there a chance they
+    can still make the Device work, even without the Orb?"
+            "They're bound to try," Dakota said grimly. "Which is why I'm
+    going to the temple. Someone's got to stop them."
+            "So," Brendan said. "Now we know why Avalon sent us here."
+
+                    *               *
+
+            That was how, several eventful hours later, he found himself
+    struggling in the grip of two of the High Priest Mar-Alom's personal
+    thugs while they carried him to the carved stone altar.
+            "I would rather have the woman," Mar-Alom complained, the
+    leaping firelight dancing over his cruel, nearly reptilian features.
+            Hans Runolf shook his head. "Miss Jones has been a thorn in
+    my side for quite some time. I mean to deal with her personally."
+            "Let the man go," Dakota said, tugging at the ropes that held
+    her. "He's no part of this."
+            "Tell me where the monsters are, and I might agree," Runolf
+    offered with a cold little smile, balancing the Orb of Isis on his palm.
+            "Don't tell him!" Brendan shouted, then groaned as one of the
+    thugs cuffed him on the side of the head.
+            All he could think of was the shallow sandstone cave where
+    the gargoyles waited for dusk with no way of knowing that the
+    expedition to the temple had gone drastically wrong. If the Reich found
+    them ...
+            "Let him go, and I'll think about it."
+            "You are in no position to argue!" Runolf snapped, losing his
+    patience. He turned to his men. "Bring her."
+            They dragged her protesting, bound form from the room. Hans
+    Runolf glanced down at Brendan, his ice-blue eyes glittering. "Perhaps
+    you will change your mind, Herr Vandermere. When you feel the
+    crocodiles start to writhe and bite and gnaw ... yes, perhaps you will
+    reconsider."
+            With that, he spun on his heel and followed his men into the
+    depths of the Temple of Kal-Tet.
+            Brendan pulled on the cords that held his wrists. They were
+    secure. But the movement caused his arm to scrape along something,
+    and he realized that the edge of the altar was chipped, jagged.
+            Mar-Alom thrust a pair of tongs into a water-filled tank and
+    came up with a flailing, gnashing baby crocodile. He dropped it into a
+    brass urn, chuckling to himself.
+            One of the thugs tore Brendan's shirt open, and the other
+    dunked a brush into a jar and began smearing his stomach with a thick,
+    smelly paste.
+            "Fish oil," Mar-Alom explained. He put a lid on the urn, shook
+    it. A ferocious storm of hissing and snapping echoed within. "Its
+    favorite food."
+            He began chanting in a harsh dialect of Egyptian. Brendan
+    could barely understand one word in ten, but he didn't need a pocket
+    translator to know that this was a prayer to Kal-Tet, offering up a
+    sacrifice. Him, to be specific.
+            The thugs murmured along with Mar-Alom, and Brendan took
+    advantage of their distraction to rub the restraint faster against the
+    broken stone. He marveled inwardly at how well he was taking all of
+    this. The Brendan Vandermere of a year ago, who had a nervous
+    breakdown over the loss of a car, was long-gone.
+            Mar-Alom pressed the flat lid of the urn against Brendan's
+    stomach, strapping it in place. With a final reverent sigh to Kal-Tet, he
+    reached to slide the lid out from between the crocodile and Brendan's
+    unprotected, fish-paste-smeared skin.
+            The cord snapped. Brendan swung his arm, batting away Mar-
+    Alom's hand just as the fingers closed on the edge of the lid. Then,
+    though the angle was awkward, he delievered a neat boxing punch that
+    caught the High Priest in the sternum and sent him reeling back gasping
+    for air.
+            Before the thugs could shake off their trance, Brendan had
+    freed his other arm. Then he felt the cold, rubbery-pebbly nudge of a
+    snout, and saw that his twisting and exertions had caused the lid to shift.
+            He cried out in horror and fumbled at the straps.
+            "Get him!" Mar-Alom ordered furiously.
+            Brendan got the urn unstrapped just as the lid slid free and
+    clattered on the stone floor. He shoved/hurled it from him in more
+    revulsion than anything else, and certainly did not plan for it to smack
+    straight into the thug who had anointed him with fish-oil. The thug
+    reflexively caught the urn, and the crocodile launched itself madly out,
+    sinking its teeth into the thug's oily fingers.
+            That man began to scream and leap about. His first instinctive
+    reaction was to slam his hand on the edge of the altar, succeeding only
+    in shattering his fingerbones while the croc skittered up his arm.
+            The other thug stared at this spectacle just long enough for
+    Brendan to seize up one of the tall brass torchlamps and brain him with
+    it. But then Mar-Alom's arm snaked around his neck and squeezed.
+            Brendan uttered one strangled choke before his windpipe was
+    closed off. He threw himself backward, and by blind luck stomped hard
+    on Mar-Alom's foot. The two of them lunged and crashed around the
+    altar, stepping over and on one unconscious thug while the other
+    screeched and flailed at the determined, nearly demonic baby croc that
+    had by now torn red flaps from both arms and his cheeks.
+            Mar-Alom released Brendan and grabbed a ceremonial dagger.
+    His first slash snagged Brendan's sleeve, shredding what was left of his
+    shirt and leaving a shallow cut.
+            The thug, desperate to escape the vicious teeth of the
+    crocodile, blundered into the row of tanks and knocked them over.
+    Gallons of water and dozens more crocs sluiced across the floor,
+    instantly driven into a frenzy. They went at each other, at the thugs, at
+    Mar-Alom's sandaled feet and bare legs beneath his robes.
+            Brendan's shoes -- glossy black the night he'd put them on for
+    his sister's party aboard his yacht, a night that seemed a hundred years
+    ago now -- proved too much for their small teeth. He scrambled through
+    the puddles, slipping once and catching himself with one hand against
+    the floor. A croc darted in and took a piece out of his forearm before he
+    could get up again.
+            He fled, leaving Mar-Alom in a frantic dance of trying to
+    shake loose his tiny, ravenous minions. To Brendan's left, the stairs to
+    the upper chambers beckoned. Daylight, freedom, an end to the
+    catacombs. To his right, the passage Hans Runolf had taken.
+            He went right.
+            Voices ahead alerted him and he ducked into a dark alcove as
+    Dietmann, the shifty-eyed archaeologist, went by with Runolf's men.
+    They were speaking to each other in hushed German, throwing wary
+    glances in the direction of the altar room. The screams had dwindled,
+    and doubtless the men believed them to have come from Brendan's
+    throat.
+            They went on, taking the stairs up. Brendan waited until they
+    were out of sight and then hurried the way they had come.
+            "... cliche even for you, Runolf," he heard Dakota say, and a
+    huge sense of relief swept through him. "I mean, really, dangling me
+    over a pit of fire ... aren't you at least going to test the Anubis Device on
+    me?"
+            "And let you get close to it? I think not," Runolf said. "I know
+    you, Jones. I won't let you destroy my plans."
+            Brendan eased into the room, finding plenty of flickering
+    shadows to conceal him. The only light came from the pit, a glowing
+    gaping orange mouth. Heat shimmers rippled the air.
+            Dakota was suspended over the pit by her wrists from a length
+    of thick rope. Though her eyes didn't so much as waver when Brendan
+    came in, he knew she saw him.
+            "So what now?" she asked. "You've got the Orb -- Dietmann is
+    probably taking it to the Device even as we speak. You know I won't
+    betray the others."
+            "If the sounds of your friend's hideous death did not convince
+    you, torturing you won't either. In which case, I might as well ..."
+            "Tell me where the Device is, gloat about your plan, and then
+    leave me to die?" she prompted helpfully.
+            "You've seen too many movies, Jones, and listened to too
+    many of your grandfather's stories." He drew a gun and pointed it at her.
+    "I'm going to shoot you, that's all."
+            Brendan tackled him just as the gun went off, the impact
+    jarring Runolf's arm so that the bullet grazed the rope instead of
+    blowing Dakota's head off. The two of them crashed to the floor. The
+    gun sailed from Runolf's grip, and skidded to the edge of the pit. It
+    teetered there, caught in the uncertain dilemma of gravity.
+            Strands of rope popped and unraveled. Dakota rotated her
+    wrists frantically, trying to work a hand free. Her body twisted slowly
+    as the rope began unwinding.
+            Brendan and Runolf both went for the gun. Their searching
+    fingers found it in the same instant, and pushed it over. It plunged into
+    the fiery pit, where the bullets began exploding from the heat.
+            Now it was Brendan teetering on the edge, Runolf trying to
+    shove him in while he in turn tried to hold on. His face felt like it was
+    baking, his eyes squinted and watered. He threw Runolf off,
+    unfortunately not into the pit.
+            Dakota abruptly dropped two inches as more rope gave way.
+            Brendan, exhausted and going on pure adrenaline, tackled
+    Runolf again. They rolled into a table full of pottery, which fell and
+    detonated all around them. Brendan grabbed up a wide-mouthed jar and
+    brought it down on Runolf's head. The jar, thick Nile clay with several
+    coats of glazing, cracked apart like eggshell. Runolf grunted in surprise
+    and went limp.
+            The rope snapped.
+            "No!" Brendan yelled.
+            Dakota lunged upward with her one free hand, catching hold
+    just above the frayed end. Her hat fell off and she kicked, catching it on
+    the toe of her shoe. And there she dangled, by one hand with one leg
+    bent awkwardly to keep her hat from a firey doom.
+            She looked around at Brendan and smiled, a weary half-insane
+    little grin that perfectly mirrored the way he felt inside. "Our day's work
+    isn't done yet, handsome. Dietmann's got the Orb."
+            "They headed for the upper chambers." He found the lever that
+    closed the pit. "Ladies first, or age before beauty?"
+            "How nice to know that chivalry's not dead," she said, and
+    together they raced for the stairs.
+            
+                    *               *
+
+            "Now!" Klaus Dietmann cried, holding aloft the Orb of Isis in
+    both hands. "Now we shall unlock the secrets and the power!"
+            The Temple of Kal-Tet was a flat-topped pyramid, with a large
+    brass brazier in the center flanked by huge gongs in wooden stands. A
+    wide set of steps descended the side, lined with tall posts in the shape of
+    serpentine alligators with blazing glass spheres gripped in their jaws.
+    The steps ended at a wooden bridge that spanned a moat of oily-looking
+    water.
+            The men around Dietmann rolled their eyes at each other and
+    muttered as his rapturous speech went on, but none of them moved from
+    their posts. They stood along the sides of a gold-covered tube resting
+    atop an obsidian carving of a jackal. The tube was inlaid with designs
+    showing embalmers at work, and Anubis weighing the souls of the
+    deceased against the Feather of Truth to see if they had earned their
+    eternal reward of serving the pharaohs, or if they were to be devoured
+    by the Beast.
+            "Three guesses," Brendan whispered to Dakota.
+            She tapped a finger against her lips playfully. "If it's not an
+    espresso maker, or the telephoto lens of the ancients, it must be the
+    Anubis Device. Ready to rumble?"
+            He sighed. "Not really, considering they've got us
+    outnumbered and outgunned. But what the hell." He glanced hopefully
+    at the reddening sky, but the sun was still too far above the horizon for
+    them to count on a timely rescue.
+            Dakota unclipped her whip and shook it out.
+            Dietmann moved to the end of the device, where two copper
+    prongs waited to hold the Orb. The device itself was pointed toward a
+    small village in the shadow of the pyramid, where the Reich had
+    recruited their laborers and now evidently meant to repay them with
+    ageing and death.
+            "Shall we wait for Runolf?" one of the men asked.
+            The man's question went unanswered. The final six inches of
+    the whip coiled around Dietmann's wrist.
+            Dakota yanked. The Orb fell, bounced off the barrel of the
+    Anubis Device -- here Dakota and Dietmann both winced in horror --
+    spanged sideways, rebounded off a gong, smote one man in the
+    forehead, and rolled to a stop at Brendan's feet.
+            He scooped it up, noticing with dismay that the silver surface
+    was marred by several cracks. But there wasn't time to inspect the
+    damage, because Dietmann, shaking with rage, shouted, "Get them!"
+            Dakota elbowed one of them, wrested his gun away, and shot
+    another in the shoulder just as he was about to ventilate Brendan.
+            Hans Runolf, bruised and furious, erupted onto the scene with
+    a machine gun. Below, a large truck skidded to a halt at the foot of the
+    stairs and more soldiers of the Reich spilled out.
+            "And you thought we were outgunned before!" Dakota yelled
+    at Brendan, and squeezed off another shot. This one didn't even come
+    close to striking any of the men, but severed a chain holding one of the
+    gongs upright. It swayed, the remaining chain snapped, and the gong
+    banged noisily down.
+            She looked at him. A bullet whined between them, not
+    dimming the go-to-hell wild light in her eyes. "Into the garbage chute,
+    handsome!"
+            "You've got to be kidding!" Brendan hollered, but jumped into
+    the concave suface of the gong anyway, just as Runolf's machine gun
+    made gravel out of the stones he'd been standing on.
+            Dakota returned fire, then, as her ammo ran out, hurled the gun
+    -- breaking Dietmann's nose, lucky shot! -- and leaped into the gong.
+    Her weight and momentum pushed it over the edge, and the next thing
+    Brendan knew, they were sliding down the side of the pyramid like kids
+    in a snow disk, the brass against stone making the most ungodly
+    screeching and showering sparks all around.
+            "We'll never clear the moat!"
+            "Probably not," she replied, adding, "especially now!" as some
+    of the men from the truck realized what was going on and one clever
+    fellow threw a lit match onto the thick oily coating. Flames shot up
+    eagerly, racing around the bottom of the pyramid. "We've got our frying
+    pan; there's the fire!"
+            "Ha, ha!" he retorted, scanning for an escape route, but there
+    was none. Even if they bailed out, nothing was going to stop them from
+    rolling into the burning moat under their own power.
+            Defying all laws of physics, Dakota stood up and kept her
+    balance in the careening, skidding, jolting gong. "Grab on!"
+            "To what?" he demanded incredulously.
+            She looped her arm around his waist, readied her whip.
+            "You are nuts, woman," he opined, but held tight to both her
+    and the orb.
+            "Kiss for luck?" she teased, but there wasn't time. The wall of
+    fire was fast approaching. She drew back her arm, let it fly, the whip
+    snaked out in a blur, and wrapped snugly around a tall statue of Kal-Tet
+    at the edge of the moat.
+            The whip pulled taut and yanked them out of the gong.
+    Relieved of their weight, it hit the edge of the moat and took to the air,
+    flying through the flames like a giant Frisbee and plowing into the
+    waiting soldiers. Brendan and Dakota, her face a rictus of strain and his
+    a gape of shock, swung around in a tight tetherball circle and slammed
+    into Kal-Tet's unforgiving, reptilian graven image.
+            A grating, shifting noise came from the base of the statue and
+    it swiveled, revealing a square dark pit.
+            "There's the garbage chute," Brendan gasped, clinging to the
+    merciless goddess while Dakota shook her whip free.
+            "What are you waiting for? In we go!" She dropped past him
+    feet-first, and after a split-second's reflection that he had to be as crazy
+    as she was, Brendan followed.
+            The statue rotated back, sealing them in darkness.
+
+                    *               *
+
+            "Damn, am I going to pay for this tomorrow," Dakota panted,
+    flicking on a pocket flashlight and rubbing her arms. "This has been a
+    busy day even by my standards!"
+            "At least it didn't drop us in a crocodile pit," Brendan said,
+    looking around. "It's a passage, and if memory serves, it leads away
+    from the pyramid. Under the moat!"
+            "Then let's get moving before they come after us."
+            With only her light to guide them, they started to run as fast as
+    they were able with their various aches and pains.
+            "No point creeping along looking for tripwires," Dakota said.
+    "Not with the Reich on our heels! If there is a trap, and we're lucky, it'll
+    kill us straightaway."
+            "That's one way to look at it."
+            They ran for what felt like a mile, and then the passage ended
+    in a sand-gritted staircase leading up. The top was blocked by a flat
+    door, but it gave way easily enough when Brendan threw his shoulder
+    against it.
+            They burst up into the middle of a corrugated-tin hangar,
+    whose open doors showed trucks, jeeps, and stacks of crates all marked
+    with the same symbol.
+            "Oh, no!" Dakota groaned. "The Reich's motor pool! This is
+    where I started!"
+            "Can you fly a -- why am I even bothering to ask?" Brendan
+    laughed and pulled her toward a sporty red and white Cessna.
+            "Actually, I can't," she said with a shamefaced smile. "I hate
+    flying."
+            "Lucky for you, I can!" He didn't tell her, as they scrambled
+    into the plane, that his lessons had been twelve years ago and his license
+    long-since expired.
+            
+                    *               *
+            
+            "You call that a landing?" Broadway asked, staring at the
+    smoking remains of the Cessna.
+            "Any one you can walk away from ..." Brendan groaned.
+            "Can you walk?" Elektra said pointedly.
+            "Sure." He shook off Broadway's supporting arm, took three
+    steps, and fell in the dust.
+            Dakota staggered away from Elektra and collapsed beside him.
+    "For what it's worth, you did great! Would have done even better if they
+    hadn't tagged us with that rocket."
+            He reached into the remains of his shirt and withdrew the Orb
+    of Isis. As he handed it to Dakota, it slipped from his fingers and
+    thunked weakly to the sand. The cracks he had previously noticed now
+    widened and the Orb unfolded.
+            All four of them stared at it as two golden winged figures and a
+    cylinder covered with tiny bumps rose from the heart of the Orb. The
+    cylinder began to turn, the wings of the figures hugging its sides. A thin,
+    lovely melody drifted up.
+            "A music box?" Dakota gasped. "All that ... for a music box?"
+
+                    *               *       
+
+            Her warm smile that made Boston and Margot seem more that
+    half a world away. "It's been fun, handsome. Thanks for everything!"
+            "Anytime," he said.
+            "It may be just a music box, but the Orb will still be great for
+    the Isis Exhibit. And the important thing is we kept the Reich from
+    getting it."
+            "As long as you're going to the Antiquities Board in Cairo,"
+    Brendan said, digging in a duffel bag, "how about seeing if they'd like
+    to add this to the tour?"
+            Her eyes widened as she took the artifact. It was a glazed clay
+    pyramid topped with a disk of beaten gold in the shape of a sun. "This
+    is ... where did you get it?"
+            "What, that old thing?" Brendan grinned. "Just something we
+    had hanging around. I was going to keep it as a souvenir, but I'd rather
+    see it in a museum where it belongs."
+            "I can't take this!" She tried to hand it back, but he folded her
+    hands around it.
+            "I insist."
+            "If you insist." She tucked it into her satchel alongside the Orb
+    of Isis. "But that leaves you without a souvenir. Here." She shrugged
+    out of her leather jacket. "This was my grandfather's."
+            "Dakota, I can't take this!" The well-worn leather was butter-
+    soft, scuffed and creased with the grit of a hundred ancient and
+    mysterious sites.
+            "I insist," she mimicked.
+            "Well ... if you insist." He slipped it on, and it fit as if he'd
+    owned it for years. "I did need a jacket; the Kal-Tet people ruined
+    mine."
+            A backfire made them all jump, but it was only the plane, a
+    plane that looked nearly as old as the Sphinx. Its propellor started,
+    stopped, and then grudgingly spun into a choppy blur.
+            "My flight," Dakota said.
+            Brendan nodded. "I'd better say goodbye, then, before I feel
+    compelled to start quoting Bogart at you."
+            She tipped her hat to Broadway and Elektra, shouldered her
+    satchel. "Thanks again!"
+            "Good journey," Elektra replied.
+            "Say hi to your grandpa for me," Broadway added, grinning
+    hugely."I never would have guessed those movies were based on a real
+    guy!"
+            She winked, then headed for the plane.
+            Brendan watched her go, then called, "Dakota, wait!" and
+    hurried after her as she turned around.
+            "Forget something?"
+            "Yes." He plucked off her hat, tipped her face up. "You're the
+    most exotic and exciting woman I've ever met in my life, and I'd be
+    crazy not to at least try this once." With that, he kissed her.
+            Her first reaction was surprise, then a response that left him
+    breathless. When they parted, her eyes were twinkling. "See you
+    around, handsome!"
+            Then she was up the rickety stairs and into the plane. One final
+    wave, the door closed, and she was gone.
+            "Wow," Broadway said. He looked at Brendan, impressed.
+    "Wish I had the nerve to do something like that!"
+            Elektra, oblivious of how his gaze shifted yearningly to her,
+    sighed dreamily. "So romantic!"
+            "Yeah," Brendan said, waving as the plane began lumbering
+    down what passed for the runway. "Too bad I'm married." He stuffed
+    his hands in the pockets of the jacket and watched as the plane
+    dwindled into the sky
+
+                    *               *
+
+    EPILOGUE:
+            Close-up of Puck, still in khaki and pith helmet. Something
+    silvery is blurring over his head. Camera pulls back to show him tossing
+    a silver ball from hand to hand.
+            "Looks like Runolf and Mar-Alom found out their plan wasn't
+    all it was croc-ed up to be!" he chortles. "But Brendan urned his keep
+    and didn't leave Dakota hanging!"
+            Puck breaks into song. "There's Anubisness like show
+    business, like Anubisness I know ..." breaks off, tilts head as if he heard
+    voices raised in protest. "What, tomb much of a good thing? All right,
+    kiddies! Orb be seeing you next time, for more Tales from the Skiff!"
+
+    *       *       *       *       *       *       *
+
+    PART TWO -- INTRODUCTION:
+            Slow pan across gold coins, strings of pearls, other treasure
+    spilling from a wooden chest. Brittle bony fingers clutch the side; the
+    camera glides up a skeletal arm to a leering skull in an eyepatch and a
+    black bandanna.
+            A pair of fingers slips stealthily up behind the skull, making a
+    V and waggling like antennae. This is followed by an impish face, as
+    Puck peers over the skeleton's shoulder.
+            "Ahoy, mateys!" he cries merrily. "Don't worry about my
+    friend here ... his barque is worse than his bite!"
+            He floats up, revealing himself to be clad in ragged-cuffed
+    black trousers, a white-and-red-striped shirt, matching socks, and black
+    shoes with big buckles. "Like it?" he asks, gesturing to his clothes. "I
+    was going to get a gold hoop too, but the place I went charged a
+    buccaneer!"
+            A dusty green parrot squawks indignantly, and Puck grins. "So
+    avast ye and prepare to be boarded, for a tale that I call ... Crossbones."
+
+                    *               *
+
+            "Well, it's not Manhattan, and it's not Hawaii. Other than that,
+    I can't see much," Brendan said as the mist began to clear.
+            They were closer to the harbor now, which was mostly
+    enclosed by a curving breakwater of heaped, barnacle-encrusted stones.
+    A giant arch appeared to be the only way in, and as they neared it, they
+    saw the lettering.
+            "Cutlass Cove," Broadway read, rather dubiously.
+            The words were flanked by a skull-and-crossbones at one end
+    and a picture of a treasure chest at the other, and the C's in Cutlass and
+    Cove were formed from curved swords -- cutlasses.
+            A banner was suspended beneath the archway, flapping in the
+    mellow breeze. As it belled toward them, sail-like, they read what was
+    written there.
+            "Grand Opening Week," Elektra said, even more dubiously
+    than Broadway. "April 12-18. What's today?"
+            Brendan consulted his watch. "The 11th, I think."
+            They poled the skiff up to the dock, threading between a
+    variety of ships ... recreations of sailing vessels from long ago. Off to
+    one side, the harbor was partitioned off and ringed with bleachers, and
+    the half-dozen ships there seemed poised for battle.
+            Broadway thumped himself agreeably in the brow. "It's a
+    resort or something! Like they have at that hotel in Vegas!"
+            Now they were close enough to make out details of the
+    buildings that hugged the coast -- a Hollywood-style recreation of an
+    early 18th-century pirate town.
+            "Why don't you two go have a look around," Brendan
+    suggested as they found a place to tie the skiff. "I'll see if I can find a
+    phone. Or a map, to figure out where we are."
+            "Milady?" Broadway held out a hand.
+            "Gracious sir." She accepted it, and led him toward the
+    Corsair's Museum.
+            An unlatched skylight let them into the museum, which was
+    filled with watchful silence as well as exhibits of seafarers, explorers,
+    armadas, and, of course, pirates.
+            Broadway explored one room full of cinematic swashbuckler
+    memorabelia, then moved to the next. He first saw only woodcuts and
+    glass cases full of rusted tools and cracked leather-bound ship's logs,
+    and then his eye was caught by something so startling that the air was
+    driven out of him in a grunt.
+            Elektra made an inquisitive noise, and Broadway pointed.
+    "That portrait ... I know that guy!"
+            She leaned closer to read the informative card. "Captain
+    Findleagh Moray, known as the Scottish Rogue."
+            "It's MacBeth!"
+            She kept reading. "From the years 1697 to 1721, this believed-
+    to-be-nobleman harried and hunted pirates throughout the Carribean. In
+    1722, he was named governor of St. Gilbert, also known as Dead Man's
+    Cove, an island near Tortuga and Hispaniola."
+            "Wow," Broadway said. "We always did wonder what he did
+    with his time. A pirate hunter!" He grinned, studying the old image of
+    MacBeth in boots and breeches and a big hat, with a sword in hand. "If
+    I could get a postcard of that to send home ...!"
+            He wandered off in search of the gift shop, but none of the
+    postcards had what he was looking for. He selected one anyway, fishing
+    some change out of his pouch and leaving it on the counter. On his way
+    back, he heard Elektra's excited call.
+            "Broadway! Oh, do come and see!"
+            He found her in a large hall displaying parts of ships. She was
+    standing in front of a platform, seperated from the walkway by a velvet
+    rope, studying with fascination a set of five carved figureheads.
+            There was something about them ... Broadway pondered a
+    minute, then got it. All of them had wings. He grinned. "Cool!"
+            The most impressive of them was an image of Death. Great
+    sweeping black raven's wings, a body somehow skeletal yet strong, a
+    cadaverous face with hellish pits for eyes, a scythe gripped in bony
+    fingers.
+            Next to that one was a winged mermaid, her lower body a
+    sinuous scaled fishtail, with wings eerily similar to Broadway's own.
+            The next was a robed man with hooves for feet, wings of fire,
+    and a blazing sword. After that was a smaller figure with a hunched
+    back ridged with spines, fanlike wings half-extended. The last was a
+    mishmash of animal heads, a lion and a goat and a snake, all sharing the
+    same stubby-winged body.
+            "Broadway ..." Elektra whispered. "I sense magic here!"
+            "Hunh? What do you mean?"
+            She closed her eyes and spread her fingers, ivory beauty
+    caught in a moonbeam from the skylight. "Yes, magic! A spell on these
+    five ..." she gasped and her eyes flew open. "They are gargoyles!
+    Sleeping gargoyles!"
+            He goggled, first at her and then at each of the five figures in
+    turn. "But they're wood!"
+            "A seagoing race of our kind, protecting ships as others protect
+    castles!" She clapped her hands, excited, delighted. "It is true,
+    Broadway, I know it in my heart to be true! Behold, here!"
+            She tugged him to a table which held a model of a massive
+    galleon. The same scythe-bearing figure was at the prow, while dozens
+    of other winged statues were posed the length of the ship on either side,
+    flanking the gunports. They looked like ordinary wood, like carved
+    decorations, but ...
+            "I bet you're right!" he said, catching her excitement. "This
+    ship, this ..." He peered at the name on the hull, and started to laugh.
+    "It's the Wyvern!"
+            "Their castle of the waves!"
+            "And they're under a spell, like we were? Then we've got to
+    find the way to break it!"
+            "Ah!" Elektra tapped the glass of a nearby case. "A torn
+    parchment, inscribed with words in Latin!"
+            "What does it say?"
+            "It is woefully incomplete, but for the last lines." She
+    translated. "Locked in sleep as painted wood, until the seas boil."
+            Broadway nodded. "Yup. Always a condition. Castle above
+    the clouds, sky burning ... boiling seas fits right in." He rubbed his head
+    glumly. "But I don't know how we're going to manage it."
+
+                    *               *
+
+            "A phone, a phone, my kingdom for a phone," Brendan
+    muttered to himself. But, determined to keep the ersatz pirate
+    atmosphere as genuine as possible, whoever designed this place had
+    managed to hide all the modern conveniences well.
+            Footsteps on cobblestones caught his attention, and he ducked
+    into the doorway of the Pieces of Eight Tavern, trying to think of his
+    explanation should the security guards discover him.
+            "... sorry my plane got in so late," a man said, his voice deep
+    and rich and accented.
+            "We're just all so pleased you could come!" a woman gushed.
+    "Meeting you in person, after all those calls and letters ... I feel as if I
+    know you already! And having an actual descendant of the Scottish
+    Rogue here to launch the recreation of the Lady MacBeth is more than
+    the board could have hoped for!"
+            "I see you changed the name of the town," he replied,
+    bemused. "I imagine Dead Man's Cove wouldn't be the best draw for
+    the tourists."
+            They came around a corner into a pool of moonlight. The
+    woman was of the leggy model variety, with honey-colored curls and
+    warm blue eyes.
+            The man was tall and broad-shouldered. The oddest thing was,
+    Brendan could have sworn he recognized that face, that crop of silver
+    hair. A name danced tantalizingly close, tip-of-the-tongue, he was going
+    to kick himself when he finally got it.
+            He got it. He kicked himself. How could he not know that
+    man? Margot's talk-show nemesis, Birdie's favorite teacher.
+            The woman stopped and swept a hand in an expansive gesture
+    encompassing the harbor. "Tomorrow, at dusk, we'll hold the first
+    performance of the battle. It's all mechanized but the sailors. Actors.
+    The fight between the Scottish Rogue and the fleet of the pirate lord
+    Emil Santiago."
+            "The one that led to him being named governor of this island,"
+    Lennox MacDuff said, and now his bemused look faded, to be replaced
+    by one more somber. "Only one other battle was ever fought here
+    during his rule. My ... ancestor's ... wife was slain." He gazed out over
+    the water, lost in thought. Finally, he shook it off and forced a smile.
+    "Thank you for showing me around, Miss Carstairs."
+            "My pleasure, Mr. MacDuff." She leaned toward him in a
+    posture of invitation. "And please, call me Lynne!"
+            MacDuff regarded her for a long, speculative moment, then his
+    smile became more genuine. "Lynne it is."
+
+                    *               *
+
+            "So let me see if I've got this right," Brendan said, rubbing his
+    temples and wishing for an aspirin. "The man I saw isn't really the
+    descendant of this pirate hunter at all."
+            Broadway shook his head. "Nope. He is the pirate hunter."
+            "Why do I have the feeling tomorrow's going to be an
+    interesting night?"
+
+                    *               *
+
+            Dusk of the next day -- the island had changed a lot in a few
+    short hours. Flashbulbs popped, videocameras whirred. "Yer picture
+    with a wench," one sign proclaimed. Red and yellow wagons selling a
+    spicy sausage stew roamed the village. And the formerly empty
+    bleachers were overflowing with people in vacation clothes and period
+    garb.
+            Brendan now found it easy to mingle with the crowd. There
+    were too many other things to look at to pay any mind to one scruffy
+    ex-yuppie. Broadway and Elektra perched on a rooftop overlooking the
+    harbor.
+            The six ships moved smoothly on their tracks, cannons
+    belching smoke while splashes burst from the water. Sailors and pirates,
+    all in costume, clambered on the rigging, waving cutlasses and muskets.
+    They feigned their deaths with screams and occasional plunges into the
+    waves.
+            "There he is," Broadway said, pointing. "The one laughing his
+    head off."
+            The Lady MacBeth came about, preparing to launch a volley
+    of cannonballs. The man portraying the Rogue shouted orders to his
+    crew. His performance was cut short as the ship shuddered to a halt in a
+    cacophony of mechanical grinding and sproinging. Half its crew was
+    hurled overboard with clearly unrehearsed cries of surprise.
+            The other five ships, the pirate fleet, suffered the same sudden
+    fate. Men plunked into the harbor and came up, sputtering and annoyed.
+            Smoke and steam began billowing from the docks, where a
+    facade of sheds housed the machinery.
+            "The compressor's blown," a workman yelled, in a tone of
+    more disgust and resignation than alarm. "Going to turn the whole
+    goddam harbor into a Jacuzzi!"
+            Elektra's hand closed over Broadway's wrist. "Until the sea
+    boils!" she breathed.
+            They looked at each other, as bubbles rose in the harbor,
+    making the waves into a roiling froth.
+            "Come on!" Broadway pulled her to her feet, and they dove
+    from their perch.
+
+                    *               *
+
+            They reached the room where the figureheads were kept, and
+    saw that all five stood unchanged. Broadway's shoulders slumped in
+    disappointment.
+            "I was really hoping we could tell Goliath we found a new
+    clan," he said. "Not counting the Squids."
+            Elektra sighed and put her arms around him consolingly. He
+    stroked her hair, which whispered like silk beneath his hands, and in
+    that moment he wouldn't have cared if they were the only two gargoyles
+    in the world. In fact, he might have preferred it. No Jericho. No
+    competition.
+            A splintery crack echoed through the quiet chamber.
+            They gasped and turned as thin fault lines grew over the
+    surface of the figureheads with a sound like kindling breaking.
+    Broadway held Elektra more tightly.
+            The figures moved, flexed, stretched. Chips, shavings, and
+    sawdust sifted down in a fine rain. Now flesh and blood, they looked
+    down at themselves, then incredulously at each other.
+            "We're awake!" the largest one cried in a resonant baritone.
+    "We're alive!" He swept the clan to him in a laughing embrace. Now it
+    was clear that he wasn't skeletal, but his skin had unusual patterns of
+    dark and light that made it seem as if the bones were revealed.
+            "Reaper! My love!" The bare-breasted female, her muscular
+    tail holding her upright, threw herself into his arms and folded her
+    wings forward to enclose him.
+            "Melusine! My angel of the deep!"
+            The smallest gargoyle, a hatchling of no more than ten years of
+    age, capered around them until the male called Reaper swung him into
+    the air.
+            "Patience, Imp! Let your parents greet each other!"
+            The strange watchdog stiffened, sniffed, and turned his many
+    pairs of eyes toward Broadway and Elektra with a  menacing growl.
+            "Save your greetings," the robed one advised the rest.
+    "Chimera sees we are not alone." He took a step forward, the sword in
+    his hand a jet of fire.
+            "Brand, wait," Reaper commanded. "Hear what they have to
+    say first."
+            "We are friends," Elektra said. She spread her wings.
+    "Gargoyles, like you."
+            "Where are we?" Melusine asked in wonder, gazing about.
+    "How long have we slept?"
+            "Uh ... well, it's 1999," Broadway said.
+            "Nearly three hundred years?" Reaper strode forward while the
+    rest of his clan gaped in shock and disbelief. "You lie!"
+            "No, I don't," Broadway replied earnestly. "Hey, it's not so
+    bad. My clan was put to sleep for a thousand years!"
+            Brand, shedding light but not heat from his blazing wings,
+    clomped to the window on his split hooves. His face contorted with
+    fury. "Humans! Everywhere, a plague of humans! And ships, but
+    mockeries of ships! They've made a playacting of our world, a jest of
+    our suffering!"
+            "It's just a theme park --" Broadway said.
+            "Silence!" Reaper ordered. He turned to Brand, his voice
+    softening dangerously. "There are humans here?"
+            "Throngs of them."
+            "What quarrel have you with the humans?" Elektra asked
+    worriedly.
+            "What quarrel?!" Reaper whirled on her, making her take an
+    involuntary step back. "The captain we served betrayed us, let our
+    enemies destroy our clan!"
+            "Sounds familiar," Broadway said. "That's what happened
+    to --"
+            "Destroyed our clan!" Melusine echoed. "Reaper and Brand
+    had gone to chase our foes across the waves, and got caught by the
+    dawn too far to glide back! Imp and Chimera had played pranks on the
+    crew, and so I took them to the rookery hold for the day! While we
+    slept there, ships came and cut our clan to pieces!"
+            "How came you to be frozen in wood for three hundred years
+    by a magic spell?" Elektra asked.
+            "That's a long story," MacBeth said, entering the hall with a
+    grim expression.
+
+                    *               *
+
+            "You!" Reaper snarled. "This time, you will die!"
+            "I doubt it," MacBeth sighed, "but we can hope, can't we?"
+            "You put the spell on them?" Broadway blurted. "Sure, that
+    makes sense! You must've had it in for gargoyles ever since Demona,
+    but you're too noble to kill them --"
+            "Noble!" Brand's sword sliced through the air. "He hunted us
+    like animals!"
+            "You attacked my town! Killed my wife!" MacBeth shot back.
+            "Stole our lives from us!" Melusine screeched. "Not death, but
+    strange waking in a world not our own! Now we have no clan, no ship,
+    no future! And you, Rogue, will pay!"
+            "Wait! Stop!" Broadway shouted. "That's all in the past now!
+    Let it go! Yeah, okay, this isn't the world you remember. But you can
+    adjust. My clan did!"
+            "To the Devil with you and your clan!" Reaper hefted his
+    scythe, the blade glinting wickedly sharp. "Stand away from him, or
+    share his fate!"
+            "This isn't how it was supposed to be!" Broadway protested.
+            "You've lost so much already!" Elektra said. "Oughtn't you be
+    thankful for what you have, and make the best of it?"
+            Brand looked her over, his lip curling. "Pretty thing, aren't
+    you? Our clan will need more females. Are you mated?"
+            Elektra went pale, and Broadway stepped to her side. "Yes,"
+    he said, putting an arm around her. "She's mine."
+            "Leave them out of this," MacBeth said. "You're not going to
+    harm any humans, and you're not going to resume your pirates' ways. I
+    stopped you before, and I can do so again."
+            "Can you?" Reaper sneered. He smashed glass and picked up a
+    scrap of parchment. "Here's all that remains of your spell. Brand?"
+            Brand's flaming sword turned it to char in a heartbeat. "First
+    the spell, then the spellweaver, and then every louse-ridden human on
+    this island! We'll claim it for our own, and soon the seas shall be ours
+    again!" He lunged at MacBeth, and the fight was on.
+            "Sorry," Broadway hastily apologized to Elektra. "I didn't like
+    the way he was looking at you, and if he thought you didn't have a
+    mate ..."
+            She gave him a quick kiss on the cheek. "Thank you, my dear
+    friend. Thank you."
+            "Anytime," he said, more seriously than he meant to. He
+    blushed, then said, "Uh, we better help MacBeth!"
+
+                    *               *
+
+            Just as Brendan reached the doors to the museum, they flew
+    outward and Broadway came tumbling down the steps like a big blue
+    bowling ball.
+            Several people screamed, and then did so again and louder
+    when a skeletal figure shrouded in black glided out with a scythe
+    sweeping in front of him. Brendan felt his spine try to jump completely
+    out of his body in fright, then realized it was one of the gargoyles
+    Broadway and Elektra had told him about.
+            Broadway sprang to his feet and seized a bench, hurling it at
+    the black-winged figure. It drove him into the wall of the museum,
+    stunning him.
+            "I take it things didn't go well?" Brendan inquired politely, as
+    the rest of the crowd surged the other way.
+            "You could say that," Broadway said, as his foe sheared the
+    bench in half with his scythe and stalked toward them.
+            "Reaper! Let me have him!" Another gargoyle, this one
+    making Brendan think of some Old Testament vengeful angel with his
+    blazing sword and wings of fire -- except that angels weren't usually
+    depicted with a mashed nose and a swelling black eye -- swooped out of
+    the museum. "I owe him for this!"
+            "That's only a sample of what you'll get if you ever touch
+    Elektra again!" Broadway bellowed, puffing to what seemed like twice
+    his normal size.
+
+                    *               *
+
+            "Usually, in situations like these," MacBeth said, "the females
+    square off against each other for a catfight of ferocious nature. I,
+    however, have no such compunctions when it comes to dealing with
+    hellish she-gargs." With that, he kicked Melusine in the stomach and
+    then tackled her tail before she could pummel him with it a second time.
+            Elektra flung Chimera off and got unsteadily to her feet. The
+    beast's claws had shredded her dress, which had already been torn from
+    neckline to waist by Brand's rudeness, but modesty was the least of her
+    worries at the moment.
+            She dodged Chimera as he charged at her, all heads snapping
+    furiously, saliva dripping from his teeth. He ran straight into a section
+    of the mast of Sir Francis Drake's ship, and wandered in a dazed circle.
+            Imp jumped on her back, a small but wiry bundle of snarling
+    muscle. His tiny claws burrowed for her throat.
+            She caught hold of him and held him before her, and in her
+    sternest tone reprimanded him, "That was a very bad thing to do!"
+    Then she turned him over her knee and administered one sharp spank to
+    his haunches.
+            Imp froze, then looked up at her with huge reproachful eyes
+    welling with tears. They overflowed and he began to wail.
+            "Oh, little one --" she began, awash with remorse.
+            Melusine, enraged, flung MacBeth the length of the room. He
+    landed amid the smashed wreckage of the model of the Wyvern with a
+    groan.
+            "She hit me, Mama!" Imp sobbed.
+            Elektra saw Melusine coming straight at her, low to the floor,
+    using her arms to pull and her powerful tail to propel herself. Her eyes
+    glowed hot turquoise, and she slammed into Elektra with the force of a
+    torpedo.
+
+                    *               *
+
+            When someone swings a scythe at you, Brendan would later
+    reflect, the first impulse is to jump back.
+            Lucky for him, he was able to ignore that impulse and do just
+    the opposite. He went forward, so that the wooden haft instead of the
+    metal blade struck him hard enough to send him headlong down the
+    museum stairs, with a throbbing pain where his ribs should be.
+            He rolled, taking a moment to be grateful he hadn't been sliced
+    in two.
+            The Reaper moved in for the kill. Behind him, Broadway and
+    the other one had left a path of destruction through the gift shop and
+    snack bar.
+            "Cowering human! I'd tell you to think twice next time, before
+    attacking a gargoyle," Reaper said. "But you won't have a next time!"
+            The crowd had miraculously vanished, fleeing to all points of
+    the compass when they realized the events at the museum were not part
+    of the entertainment.
+            The scythe hovered for a moment, mirroring the sky-hung
+    crescent of the moon.
+            The cowering human decided it was time to play dirty, and
+    lashed out with both feet. No sooner did he feel them connect -- and
+    what a shot, since Reaper had been standing in a wide stance -- than he
+    rolled again, down the stairs, suppressing a howl as his ribs bumped and
+    banged.
+            He felt the whisper of a blade at his elbow, shaving off a
+    quarter-inch of leather from the jacket Dakota had given him in Egypt,
+    and then steel clanged on the steps. The jolt jarred the weapon from
+    Reaper's hands, or maybe he dropped it in his pain. Didn't matter to
+    Brendan. He grabbed it up quick, staggered because it was even heavier
+    than he'd expected, and pushed it into the cobbled street.
+            Reaper straightened up, and now his eyes were a cold corpse-
+    white.
+            Though he knew it ranked pretty high on the all-time list of
+    stupid things he'd ever done, Brendan grinned and said, "I'd tell you to
+    think twice next time, before gloating at a cowering human ..."
+            Reaper's bellow drowned out the rest of it, then was cut off
+    suddenly as the other gargoyle thumped into him and they both went
+    down. The other was unconscious, his wings now drab brown and
+    lightless, and Broadway brushed his hands together briskly.
+
+                    *               *
+
+            "Melusine!" MacBeth called out.
+            The female had Elektra's throat in a tight grip, and Elektra was
+    beginning to see large silent blossoms of blackness before her eyes. She
+    pried weakly at Melusine's fingers, to no avail.
+            Chimera roared/bleated/hissed warningly, and Melusine
+    looked toward MacBeth. He held something aloft, a scrap of
+    parchment.
+            "The other spell may have been destroyed, but this one will
+    not be so merciful as sleep!"
+            She tossed Elektra aside as if she was a large cloth doll and
+    screeched so piercingly that the remaining glass cases shattered.
+    MacBeth winced at the sound, but made ready to read.
+            The first words of Latin fell from his lips.
+            Imp wailed again, this time in terror, and scampered to his
+    mother. She curled one arm around him and lunged for the narrow
+    window. She dragged herself and her child through the opening and
+    onto the veranda that overlooked the sea. Chimera followed, flapping
+    his stubby wings to lift himself through.
+            Elektra raised herself enough to see them go over the railing
+    and plunge into the sea. She sagged limply down.
+            MacBeth was at her side, gallantly covering her with his coat.
+    "Are you all right?"
+            She tried to answer, coughed, and sank into the grey.
+
+                    *               *
+
+            Broadway raced and Brendan limped in, and when Broadway
+    saw Elektra so pale and still, he loosed an anguished roar the likes of
+    which he himself hadn't heard since that fateful night in the castle, a
+    thousand years ago.
+            MacBeth looked up, cradling her head. "She's going to be fine,
+    with the dawn."
+            Broadway fell to his knees. "But dawn's so far away!"
+            "We should get her out of here," Brendan said. "Before the
+    other gargoyles come back for a rematch."
+            "They'll not be coming back tonight," MacBeth said, rising. He
+    pointed to a ship moving slowly from the harbor. Even from here, they
+    could see Melusine at the helm, and the other winged shapes gliding
+    over the waves to meet it.
+            Elektra moaned and opened her eyes, and Broadway leaned
+    worriedly over her.
+            "And you were so eager to find a new clan," she whispered.
+            He mumbled something, shamefaced, but stopped when he felt
+    her light touch on his cheek, saw her smile, realized she was only
+    teasing.
+            She tried to sit up, but MacBeth's coat fell away and revealed
+    her gown in tatters. Broadway gasped and looked away as Elektra
+    modestly clutched the coat around herself, blushing a faint rose-pink.
+            "They're gone now," he said, clearing his throat. "They've got
+    a ship, and they're gone."
+            "For now," Brendan added, glancing at MacBeth. "A clan of
+    bloodthirsty pirate gargoyles, though ... that's going to play havoc with
+    the Carribean cruise lines."
+            "Would you have me explain to the authorities?" MacBeth
+    grinned wryly. "And where should I begin?"
+            A soft step alerted them, and they all turned to see a tall
+    woman with honey-colored hair and dark blue eyes.
+            "You can begin by explaining to me, Lennox," Lynne Carstairs
+    said, staring at Broadway and Elektra. "After what I've seen tonight, I'm
+    inclined to believe anything."
+            
+                    *               *
+
+    EPILOGUE:
+            Extreme close-up of one giant eye, blurred and strange, in a
+    ring of brass. Camera pans back to show Puck, now wearing a plumed
+    hat and a garish captain's coat with gold embroidery all around the
+    sleeves, peering through a telescope.
+            He lowers it, winks. "I was going to end our tale with another
+    ghastly pun, but ... well ... Carribean there, Carridone that."
+
+    *       *       *       *       *       *       *
+
+    THE END

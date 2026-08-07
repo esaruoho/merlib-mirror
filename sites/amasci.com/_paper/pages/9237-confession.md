@@ -1,0 +1,464 @@
+---
+title: "Confession"
+source_domain: amasci.com
+source_path: ~vecna/garg07.htm
+order: 9237
+reachable_from_entry: false
+images: 1
+internal_links: 1
+extracted: 2026-08-07T06:01:47Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Confession
+
+*Source page: `~vecna/garg07.htm`*
+
+<img src="dem&amp;brk.gif" data-align="Left" width="190" height="155" />
+
+# Confession
+
+### 
+
+by Christine Morgan\
+\
+\
+\
+
+------------------------------------------------------------------------
+
+    Confession
+    by Christine Morgan (vecna@eskimo.com)
+    comments welcome
+    Author's Note: the characters depicted herein are mostly the property of the
+    folks at Disney, and are used here without their authorization (although,
+    hopefully, if they ever happen to read these little tales of mine, perhaps with
+    some measure of approval and liking). This story takes place after "Family
+    Reunion."
+        "I'll get it!" Lex cried, bounding off the couch.
+        "It's for me!" Broadway yelled, grabbing Lex by the tail and
+    snapping him sharply into the back cushions, at the same time upending a
+    bowl of popcorn.
+        Angela, who had been folded gracefully on the floor, sprang up and
+    snagged the phone midway through its second ring. "I've got it," she said.
+    "Hatchlings."
+        Goliath chuckled. "Is this what it means to have teenagers?" he
+    asked Hudson.
+        "Aye, would that they'd never seen the television and learned o' the
+    prospect."
+        "Hello?" Angela asked brightly. "Oh, hi!"
+        "It's Aiden!" Lex said, squirming loose of Broadway's grip to caper
+    around Angela's legs. "She said she'd call as soon as she got home."
+        "It's Matt," Broadway argued. "He said he had a case I might get to
+    help on."
+        "Shut up, the both o' ye!" Hudson ordered. "If it's for ye, she'll be
+    telling ye!" He turned to Angela hopefully. "'Tis Maria, aye?"
+        Brooklyn collapsed in a fit of laughter. "Man, you guys are too
+    much!" was his opinion.
+        Goliath shook his head, smiling, and returned his attention to his
+    book.
+        Angela waved them all away. "No, nothing's wrong," she said into
+    the phone. "Everybody's just jumping around like a bunch of puppies. You'd
+    think they never had a telephone before." She listened. "Well, no, we didn't
+    have them on Avalon, but at least somebody around here can act mature."
+        Hudson flushed and dropped into his chair, fishing for the remote
+    and mumbling something about smart-mouthed youngsters.
+        "So, how was Vegas?" Angela chirped.
+        Goliath shot to his feet, his book landing on Bronx's head.
+        Brooklyn had just taken a sip of soda and had to struggle valiantly
+    to keep from spitting it all over himself. He swallowed, choked, coughed,
+    eyes watering, and even in his pain still laughing.
+        "Really?" Angela asked, turning slightly as if she hadn't seen
+    Goliath get up. She tented the phone cord over her fingers and walked away,
+    twitching her tail playfully. "Wow, she won five hundred dollars? That's
+    great! Did you see -- huh? Oh, yeah, he's here. Did you see anybody
+    famous? Sigfried and Roy, really? No, he's right here," she said, glancing
+    back over her shoulder, "pretending like he's not really paying attention --"
+        "Give me that!" Goliath said, snatching the phone from her hands
+    and giving her a good swat on the rear with his tail.
+        Giggling, Angela fled beyond range of a second strike. She tripped
+    over Brooklyn's foot and fell into his lap. He, having only just recovered,
+    had the breath driven out of him again but that didn't stop him from tickling
+    her. She squealed. The chair tilted under their combined weight and spilled
+    them both onto the already indignant Bronx.
+        "Ye're blocking the television," Hudson scolded.
+        "Yeah, who's the hatchling now?" Lex asked.
+        "Come on," Angela said. "Let's go outside. I'm tired of sitting
+    around anyway."
+        Brooklyn looked to Goliath for some words of caution or advice.
+    Their few patrols recently had been conducted with extreme care. Only a
+    couple of months ago, they had been caught on camera for all the world to
+    see, and even short-memoried New York hadn't forgotten them yet. But
+    Goliath, having switched to the cordless and retreated to a far corner of the
+    room, didn't even glance their way.
+        "I don't know," he said.
+        "What, second-in-command, can't make a decision on your own?"
+    she teased.
+        "Well, o.k., then let's go."
+        "Hey, you're stepping on my popcorn," Broadway protested.
+        "Don't worry about it," Lex said. "What they don't trample, Bronx
+    is just going to vacuum up anyway. Anybody mind if I turn on the
+    computer?"
+        "Not so long as ye don't play one of those games with the annoying
+    noises," Hudson said. "My program's about to start."
+        "See? Nobody'll miss us," Angela said. She darted up the stairs and
+    onto the roof.
+        Brooklyn took a deep breath. "Ah. Fresh air. As fresh as it gets in
+    New York, anyway."
+        "At least the rain stopped." She pointed to a thin sliver of crescent
+    moon visible between the sky-sailing galleons of huge dark clouds. "Look,
+    see how the rest of the moon is almost there?"
+        "Yeah. It's called earthshine, or something. I guess if we were
+    standing on the moon, we'd be seeing a nearly full earth."
+        "Imagine that! Standing on the moon! I still have a hard time
+    believing that the humans really did. Do you think we could fly there?"
+        "Nah. It's too far, and there's no air. No spacesuits designed for
+    gargoyles, either."
+        "Oh, well. At least we can enjoy it from here. But wouldn't it have
+    been something, for Avalon to send us to the moon?"
+        "Then it would have been even longer until we got to meet you."
+    He hopped up onto the parapet. "And I for one think we had to wait way too
+    long."
+        "You're sweet." She flicked him affectionately with her tail. "Come
+    on."
+        She dove off the wall, her wings spreading, filling, and sweeping
+    her upward. Brooklyn did the same, reveling in the cool air against his skin.
+        For a while, they looped and soared, playing old hatchling games
+    of tag and hide-and-seek, youthful versions of the warrior skills they now
+    had mastered. Their laughter pealed over the rooftops. He was faster, the
+    more skilled flyer, but she was trickier and used the concealing shadows and
+    play of light to her advantage.
+        He lost her in a low fogbank and huffed in frustration. Instinct
+    made him turn just as she rose up behind him and he grabbed her, surprising
+    her instead of being her victim. She whipped side to side, her dark hair a
+    banner, and nearly squirmed free. He tightened his grip, laughing.
+        "You don't play fair!" she protested.
+        "I play to win!" he replied.
+        "So do I!" She planted a kiss on his mouth, startling him into a
+    plummet. He recovered quickly, but by then she was high above him, her
+    merry trill a ribbon of music in the air.
+        He sought an updraft and soared straight at her. She taunted him by
+    waiting, hands on her hips, a challenging grin on her face. At the last
+    possible moment, she dove to the side, but he'd been anticipating just such a
+    move and lashed out with his tail. It coiled around her ankle and he instantly
+    threw his weight the other direction. She yelped prettily as the force pulled
+    her around.
+        Brooklyn loosed his tail with a hard yank that sent Angela into a
+    spin. Before she could pull out of it, he had her in his arms again. She
+    wiggled against him, bringing her lips to his.
+        This time, the kiss was long and firm. Their wings carried them
+    along the currents of air, heedless of where they were going. She murmured
+    something and slid her hands along his back, inward, toward the place where
+    wing met shoulderblade. That electrifying caress emboldened him to do
+    likewise, and he was rewarded as she melted in his embrace.
+        He snuck an eye open to check her expression and saw that they
+    were about to slam into the side of a building.
+        "Whoa!" he cried.
+        Warrior reflexes saved them from a nasty collision. Their shadows
+    chased them along the rooftop as they skimmed over the building. Brooklyn
+    had a momentary impression of two white oval faces turned up to watch
+    them from a balcony, the eyes and mouths large O's of surprise.
+        Hand in hand, they put distance between themselves and the
+    witnesses. They glided along the river, its surface shrouded in mist, until
+    Angela drew up, hovering, and extended a talon. "What's that?" she
+    whispered, awe in her voice.
+        Brooklyn looked, and his heart sank. "It's called the Cloisters," he
+    said dully.
+        "How beautiful! Let's have a closer look!"
+        "Angela, let's not."
+        "Why? It looks deserted."
+        "It is."
+        She shrugged. "Then there's nothing to worry about." Before he
+    could argue, she was moving smoothly toward the high walls.
+        Brooklyn sighed from the tip of his tail. Much as he didn't want to,
+    he followed.
+        Angela landed in the courtyard, her face a study in delight as she
+    looked from moss-encrusted walls to stained glass windows to still and
+    silent fountains. She turned in a slow circle, taking it all in.
+        He thumped down beside her, his heavy heart robbing his landing
+    of grace. His skin wanted to creep over his flesh. On the faint breath of the
+    breeze, he imagined cruel mocking laughter.
+        "I've never seen such a place," Angela said. "It reminds me of
+    Avalon. Why didn't anyone show it to me before? Why did we live in the
+    clocktower instead of here?"
+        "It's got some bad memories," Brooklyn forced out, feeling like his
+    beak and throat were stuffed with damp wool.
+        "I can't believe anything bad could happen in a place like this. It's
+    so peaceful." She stepped closer to him. "Romantic, even."
+        "Angela ..." He backed off.
+        "What's the matter?"
+        "I ... um ... don't think that's a good idea."
+        "Why not?" She came even closer, her expression a mingled smile
+    and pout. "I thought you liked me."
+        "I do," he said earnestly. "I really do, Angela."
+        "When I first came to Manhattan, I was flattered to have all three
+    of you trying to catch my eye. Oh, not that you weren't pests, but it was kind
+    of flattering. I realized right away, though, that there was something
+    different about you."
+        "Yeah." He hung his head.
+        She continued blithely. "The others, well, they were just acting like
+    kids, like they didn't know what they were doing. That's why Aiden is
+    perfect for Lex, because she's just a kid too, a shy kid. You're not like that."
+        "Yeah," he said again, the word not much more than a rough
+    exhalation.
+        "But you, you're different. You seemed older, even though I knew
+    you weren't. Less innocent, somehow. More grown up. I liked that. I like
+    you. A lot."
+        "Angela ..."
+        "And I know you think I'm pretty. Haven't we had a good time
+    together? Flying together?" She blushed dark violet. "Like just a few
+    minutes ago?"
+        "Yeah," he said for the third time.
+        "So what's changed?" she asked, shrugging in honest confusion.
+        He held out his hand. When she put hers into it, he led her to a
+    bench carved of stone with lion's heads on either end. She sat beside him on
+    a cushion of moss. He looked down glumly at their clasped hands.
+        "I do really like you. And I enjoy being with you. But, Angela,
+    there's something I've got to tell you if it's going to keep on. Us, I mean. If
+    there's ever going to be anything for us. Because once I've told you, you
+    might not want to be with me anymore."
+        His somber tone cut through her light mood. Her grip tightened on
+    his hand. "What are you talking about? What could be so bad?"
+        "Something that happened here, a couple of years ago." He
+    released her and stood, making tight involuntary fists. "Between me and
+    Demona."
+        "Demona?" she echoed softly.
+        "She ... I ... nnnrrrgh!" he snarled in frustration, jerking his head. A
+    thick sheaf of white hair fell across his face. When he angrily shoved it
+    back, he saw Angela looking at him with wide horrified eyes.
+        "You don't ... you can't mean that ... you and my mother ... made
+    love?" she stammered.
+        "Love had nothing to do with it," he said bitterly.
+        She slowly rose from the bench, moving like a sleepwalker. "Does
+    my father know?"
+        "No. Nobody ever knew. I never told anyone. Until now."
+        "Brooklyn, how could you?!?" she cried.
+        "You don't understand!"
+        "I understand plenty! Either she was your leader's mate, which
+    means you betrayed the clan, or she was your enemy, which means you
+    betrayed the clan!"
+        "It wasn't like that! She seduced me!"
+        "Oh, I'm sure that's what they all say!" Angela snapped.
+        His own anger boiled over. He grabbed her by the upper arms and
+    shook her. "Listen to me! I didn't want to tell you this, I didn't have to tell
+    you this, but since I did, you're going to listen!"
+        "Let go of me!" She tore free and they stood blazing eye to blazing
+    eye.
+        He uttered a wretched cry and spun away from her, slamming a fist
+    to his brow. He crumpled to the grass, shoulders tense and shaking.
+        "I just wanted to be honest with you," he said miserably. "I wanted
+    you to hear it from me, not Demona. I knew you'd hate me more if you
+    found out from her."
+        She was sobbing.
+        "She did trick me," he said, finding that it was easier to speak if he
+    kept his gaze fixed firmly on the ground. "She only wanted me to help her
+    put a spell on Goliath. It all started with this motorcycle Lex fixed up ..."
+            *       *
+        What sort of enemy would have saved his life?
+        What sort of enemy would be so beautiful in the moonlight?
+        He tried to banish that thought, but it insisted on lingering.
+        When he'd first seen her, stepping from the shadows, her wings
+    caped, her pale blue skin shining, even in his alarm he'd been helpless not to
+    notice her beauty.
+        When she'd told him of her centuries of suffering at the hands of
+    humans, it was with an expression he'd never thought to see. Grief, sorrow,
+    anguish. And he'd felt something he'd never expected to feel for her. Pity,
+    sympathy.
+        A thousand years ago, she had been Goliath's nameless mate, as all
+    of them had been nameless except for Goliath. She had been his angel of the
+    night, his second in command, a warrior beyond compare. No one,
+    especially not one of a younger generation, would have ever had reason to
+    pity her.
+        More recently, she had been in league with Xanatos, trying to kill
+    them. There was no room for pity when someone had just tried to shoot you
+    with a bazooka and sicced rabid robots on you.
+        But, as she had turned her face away as if to try and hide her pain,
+    he realized that she was not just a warrior, not just an enemy. She was a
+    person, with the whole range and spectrum of feelings, just like him, just
+    like anybody else.
+        And when she'd stood erect with widespread wings on the iron
+    railing, offering him her hand, how could he have not taken it?
+        She had promised to show him the evil in humanity, and she had
+    done so. But at the same time, she showed him again and again the beauty in
+    herself.
+        Her every touch burned through his veins, although he was sure she
+    meant nothing by it other than to emphasize her points.
+        When her hand had closed on his shoulder, or stroked his beak, he
+    found himself not caring what happened to the humans. When he glided
+    after her beneath the yellow globe of the moon, he saw again and again the
+    lithe sleekness of her form.
+        He had never felt so young and awkward as he did in the face of
+    her centuries of experience. How could he argue with her? How could any
+    of them, really? She knew the humans. They did not. Of the ones they'd met,
+    only Elisa hadn't tried to kill or catch them. Demona was right. Goliath was
+    misguided, and because he was the leader the rest of the clan would
+    thoughtlessly follow him into violent extinction.
+        "This place is called the Cloisters," she said now. "It is the perfect
+    place. Secluded. Bring me the Grimorum here, tomorrow night."
+        "Demona, I don't know," he said.
+        "What is left to know? Oh, my young friend, I have shown you
+    these humans and you have seen that they will never accept us. You are not
+    like Goliath, stubborn and set in your ways." She let her hand fall upon his
+    shoulder again, and this time left it there. "You're not like the rest of the
+    clan."
+        He shifted from foot to foot, not sure what to make of that. "Yes, I
+    am."
+        "No," she said, leaning close. Her warm breath tickled his ear,
+    stirred his hair. "Brooklyn. Look at me."
+        Feeling like his head weighed a ton, he swiveled it up.
+        The moon was behind her, a glowing halo around her auburn hair.
+    Her lips were parted slightly in a welcoming smile, her eyes deep as the sea.
+        "I have been alone for a very long time," she said, her voice a rich
+    purr.
+        "But ... Goliath," he managed to say.
+        Once again, pain filled her features. "He doesn't want me. He will
+    never see things as I do, as we do." A brief snarl curled her lip. "He didn't
+    try to save _me_ when the castle fell."
+        He wanted to kick himself for making her look like that. "I'm
+    sorry," he said, daring to put his hand over her own.
+        She immediately brightened. "Don't apologize for Goliath. We'll
+    open his eyes. But even then, he and I ... well, things have changed."
+        He felt a velvety brushing. The small three-fingered talon at the top
+    of her wing gripped the similar one on his like a clasping hand.
+        Brooklyn gulped. Tingles raced down his wing, through his whole
+    body. He could barely breathe, could not tear his eyes away as she bent her
+    head toward him and nuzzled her brow against his.
+        "Demona, what are you doing?" he whispered.
+        "Shh. Don't worry, my sweet Brooklyn. Everything will be fine."
+        He bit the inside of his cheek, trying to control himself, telling
+    himself she was just being companionable. Surely she wasn't trying to ... no,
+    not that. He wasn't one of her rookery brothers. He was of a younger
+    generation, supposed to wait until his own female hatchmates were of age.
+    The idea of being initiated into the mysteries of mating by an older female ...
+    that was just adolescent warrior-talk. It never really happened.
+        She bit gently on his ear. Her tail twined around his. "Together, we
+    can make this clan great again," she said. "You are young and strong, a fine
+    warrior."
+        He gulped again and half-folded one wing in front of himself to try
+    and conceal his embarrassing reaction to her nearness.
+        Her chuckle was the audible equivalent of dark chocolate. Her
+    talons skimmed over his chest and slipped beneath his wing, lower, until ...
+        "Ohh, you are grown up," she breathed.
+        All he could do was moan low in his throat. Playing at mates with
+    his rookery sisters had never been like this. Her knowledgeable hand
+    gripped and moved and squeezed. He sucked in breath in a series of quick
+    gasps, raising his beak to the sky. His wings and the tip of his tail quivered.
+        "Here," she urged, moving his wrist. "Touch me here."
+        The contrast between the coarse fabric of her halter and the smooth
+    skin of her breast was maddening. He hesitantly kneaded the firm flesh.
+        "Go on, be rough with me," she said. "Do everything you've ever
+    dreamed of doing. Let me be all that you want me to be."
+        He hurled himself against her with a desperate groan. She crooned
+    encouragement in his ear as he groped and fondled. He was being clumsy,
+    ignorant, she had to know that but she didn't seem to mind, didn't tell him to
+    stop.
+        She pulled his loincloth from him and worked him with both hands,
+    stopping a heartbeat before he would have lost all control and spent between
+    her palms. His body was afire, his mind a whirling chaos. When she released
+    him and stepped back, he nearly bent double in his need.
+        "Do you want me?" she asked.
+        He stared incredulously at her, unable to speak.
+        "I know you do. Here, this way will be easiest." She slipped out of
+    her garments, now bare and barbaric in moonlight and gold jewelry. She
+    turned her back to him and crouched, her long legs flexing, her tail held to
+    the side, presenting herself to him, looking invitingly over her shoulder.
+        He moved forward on unsteady legs and reached for her.
+        "Wait," she commanded.
+        He almost wailed in mindless agony.
+        "You will help me, won't you? The Grimorum?"
+        "Yes! Anything!"
+        "Yes." She beckoned and arched her back, pushing her taut flanks
+    at him.
+        He embraced her from behind, crouching to match her posture. His
+    hands dug into her hips. She reached around and positioned him.
+        "Now, my young one," she growled. "Now!"
+        He thrust forward, too fast, too rough, not caring. She bucked
+    strongly to meet him, her sharp fangs gnashing at the air. He drove against
+    her furiously, knowing that he wouldn't last a minute but helpless to stop or
+    slow. A frantic coupling, an explosive surge, his wings beating the sky, eyes
+    ablaze, shrieking to the watchful moon, while she writhed against him and
+    hissed like a cat.
+        His legs wouldn't support him. Together, they sank to their knees.
+    He slowly settled onto his side, rubbing at his ears because they were filled
+    with a high ringing.
+        Demona curled sinuously around him and toyed with his hair. Her
+    expression was unreadable except for a hint of smugness. He gazed
+    wordlessly at her. In that moment, he would have done murder for her. He
+    felt sudden shame at his lacks of staying power and skill, and opened his
+    mouth to say as much.
+        She silenced him by laying a finger across his lips. As if she'd read
+    his mind, she said, "The first time is always quick. Next time, you'll see, it
+    will be even better."
+        Next time? His mind reeled. His body responded with an eager
+    lurch. "Just give me a minute to catch my breath," he said.
+        "Such a fine young male," she commented. "Would that we had the
+    leisure, but it will soon be dawn. You must get back before the others
+    suspect."
+        "Yeah, I suppose you're right," he mused regretfully.
+        "Tomorrow. Bring me the Grimorum first, so I can make sure the
+    spell is still there."
+        He found the crumpled mass that was his loincloth and hurriedly
+    donned it, feeling abashed and peculiar now that the heat of the moment had
+    passed. She lay back on the cobblestones, her hands moving idly over her
+    own curves, a sly smile playing about her lips.
+        "Oh, Brooklyn?"
+        "What?"
+        "I wouldn't mention this to the others just yet. Especially Goliath.
+    You never know when he might decide to be jealous."
+        Tell Goliath? The very idea made his wings want to shrivel against
+    his back. "Don't worry," he said earnestly. "I won't."
+        "Good. Until tomorrow, my young one. Until tomorrow."
+            *       *
+        Angela was quiet for a long time, standing as straight and
+    emotionless as Owen Burnett while Brooklyn glossed over the exact details
+    of what had happened and told her the rest of the fateful events. How he had
+    stolen the Grimorum, lured Goliath to the Cloisters, and finally realized that
+    Demona's true intent was to enslave.
+        "She'd been using me," he said, crouched in the grass, elbows
+    resting on his knees and hands dangling by his feet. "It didn't mean anything
+    to her. _I_ didn't mean anything to her. The way she laughed, the way she
+    looked at me, like I was lower than dirt ... it was horrible. I hated her so
+    much! I would have killed her, if I'd had the chance."
+        He wanted to look at Angela but didn't dare. Out of the corner of
+    his eye, he could see her feet and the lower edges of her wings.
+        "So, that's how it was," he finished lamely.
+        She remained silent, so long that he finally forced himself to look
+    up.
+        Tears glimmered in her eyes and streaked her face. Her lower lip
+    was captive between her teeth, her jaw trembling faintly.
+        "If you don't want me now, I understand," he said. "But I had to tell
+    you. If I hadn't, she would have, I know it. Everything is a weapon to her. A
+    weapon or a tool."
+        "Brooklyn, I am so sorry for you," she sobbed brokenly. "And I'm
+    sorry I yelled at you. Of course it wasn't your fault. I've seen how she is,
+    what she will do. She doesn't care about anybody."
+        "She cares about you."
+        She shook her head viciously. "She wants me, to make me be like
+    her. She wants to use me, too, to hurt Goliath. Oh, why did she have to be
+    my mother?"
+        "She wasn't always like this," Brooklyn said, inwardly amazed to
+    hear himself actually defending that auburn-haired devil after he'd just
+    pulled that story out of himself like an arrow from an infected wound.
+        "She's like this now, and I'm her daughter. You said you'd
+    understand if I didn't want you, but what I don't understand is how you can
+    want me, how you could ever look on me without hating me because of who
+    I am!"
+        "You're Goliath's daughter," he said firmly. "You're part of our
+    clan. That's all that matters."
+        She came to him, laid her hand on his hair. "You're Goliath's
+    second-in-command. You're part of our clan. That's all that matters."
+        He rose, unbelieving. "You mean ...?"
+        "I still like you, Brooklyn. I still want to be with you."
+        "Angela --" He choked up, couldn't finish.
+        She tenderly put her arms around him, then her wings. She rested
+    her head on his shoulder. He hesitated, but only for a moment, and returned
+    her embrace. They stood in silence, except for the mingled beating of their
+    hearts and the distant cries of night birds.
+        They stood in silence, unaware that fierce ruby eyes watched them
+    from above.
+    The End
+        
+
+    Click here to return to the previous page.
+
+    Confession  /  Page Copyright 1996 - Tim Morgan  /  vecna@eskimo.com

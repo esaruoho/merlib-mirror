@@ -1,0 +1,36 @@
+Question 10.14 
+
+ Question 10.14 
+ Can I use an #ifdef in a #define line,
+to define something two different
+ways?
+
+ No.
+You can't
+``run the preprocessor on itself,''
+so to speak.
+What you can do is
+use one of two
+completely separate
+ #define lines,
+depending on
+the
+ #ifdef setting.
+
+ References:
+
+ANSI Sec. 3.8.3, Sec. 3.8.3.4
+
+ISO Sec. 6.8.3, Sec. 6.8.3.4
+
+H&S Sec. 3.2 pp. 40-1
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

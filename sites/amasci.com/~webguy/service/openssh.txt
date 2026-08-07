@@ -1,0 +1,350 @@
+Secure Telnet for Windows CE 2.00:
+Installation for OpenSSH
+
+Secure Telnet for Windows CE 2.00:
+
+Installation Instructions for OpenSSH
+
+Al Wong
+
+April 5, 2003
+
+The purpose of this article is to
+give a very detailed description of the installation procedure for OpenSSH
+all in one place.
+These instructions are for installing OpenSSH into the
+Windows CE 2.00 operating system only.
+The current instructions are rather terse, scattered and incomplete.
+
+I have an
+
+LG Phenom Express
+
+ (WinCE 2.00, SH3).
+It's a neat little handheld machine with a very comfortable keyboard 
+and a half height, bright color display. The only problem with this machine
+is LG Electronics stopped producing them in 1999! Surprisingly, this style of
+machine has come back in the last few years from other vendors.
+
+My main use for the LG Phenom is to type notes and be able to
+access email via dialup without carrying a lot of weight.
+ I was looking for a way 
+to retrieve email from a Unix shell
+in a secure fashion so I started looking for telnet programs with 
+
+SSH (Secure Shell)
+
+capabilities. For WinCE 2.00, this is very hard to find. It appears
+Microsoft has all but abandoned this operating system.
+
+I found a free telnet, 
+
+Pocket Tera Term 0.0, 
+
+by T. Teranishi and a commercial telnet, 
+
+vxHpc, 
+
+by Cambridge Computer Corp.
+While both programs work well under WinCE 2.00,
+both do not support SSH connections. This means anyone can easily monitor
+your sessions and your communications are not secure. This was not desirable
+for me.
+
+Finally, I discovered there is a free telnet supporting SSH1 and SSH2 called 
+
+OpenSSH
+
+and is an Open Source program.
+A version of OpenSSH that was ported to WinCE 2.00 by Andreas Bischoff 
+may be found at:
+
+http://prt.fernuni-hagen.de/~bischoff/wince/Andreas_WINCE_stuff.html
+
+This is a great find for people like me who still use an "old" 
+operating system like
+WinCE 2.00. :) 
+Andreas derived his version of OpenSSH from a version written
+by Rainer Keuchel. See also:
+
+http://www.rainer-keuchel.de/wince/ssh.html 
+
+http://www.rainer-keuchel.de/wince/console.html
+
+http://www.rainer-keuchel.de/wince/registry.html
+
+http://www.rainer-keuchel.de/wince/jornada720.reg.gz
+
+http://www.rainer-keuchel.de/wince/dirlist.html
+
+While Andreas and Rainer did a great job with OpenSSH,
+the problem is the installation instructions are rather terse, 
+scattered and incomplete. 
+(But hey, the software is free!) 
+The purpose of this article is to
+give a more detailed description of the installation procedure for OpenSSH
+all in one place.
+
+The gist of what the instructions in the above webpages are saying:
+
+ OpenSSH has its roots in the Unix operating system.
+You need to spoof Unix directories and files on your WinCE machine
+to fool OpenSSH to run.
+
+ You do this by defining various environment variables and point them
+ to Unix-like directories and files you have created on the WinCE machine.
+
+ You cannot use Microsoft's Powertoys for CE (PfCE) because there is
+ no registry editor in the PfCE WinCE 2.00 version.
+ For WinCE 2.00, you must use the CEREG.EXE program via the
+ ActiveSync connection.
+
+ You may use the CONSOLE program to confirm that your environment
+ variables have been set correctly. 
+
+ The installation procedure for OpenSSH is rather involved and complicated. 
+In fact, it's rather kludgy. But it works.
+Here are the steps:
+
+ You need to create the following directories on your WinCE machine.
+Some people create these directories in a PCMCIA memory card inserted
+into the WinCE machine. I just created the directories inside the 
+memory of my LG Phenom itself under the directory /My Handheld PC :
+
+ Directory
+
+ Function
+
+ /unix
+
+ Point UNIXROOTDIR environment variable here.
+
+ /unix/bin
+
+ Point PATH environment variable here.
+
+ /unix/dev
+
+ Unknown
+
+ /unix/etc
+
+ Point TERMCAP env var here. 
+
+ /unix/home
+
+ Point HOME env var here.
+
+ /unix/logs
+
+ Point CELIBSTDLOGDIR env var here.
+
+ Now you need to create or have the following files on your WinCE machine:
+
+ /unix/etc/passwd
+ /unix/etc/services
+ /unix/etc/termcap
+ /unix/home/_console
+
+These are plain text files. If you are acquainted with Unix,
+these directories and files should look familiar to you.
+I give the contents of each file below as examples:
+
+ My /unix/etc/passwd file contains two lines:
+
+root:x:0:0:Superuser:/unix:/unix/bin/xsh
+webguy:x:0:0:Superuser:/unix:/unix/bin/xsh
+
+Note the unix directories in the above two lines must match the
+directories you have defined on your WinCE machine.
+These lines match the directories I have defined on my LG Phenom.
+
+ My /unix/etc/services file contains two lines:
+
+ssh 22/tcp
+telnet 23/tcp
+
+ The contents of the /unix/etc/termcap file is below.
+You don't need to create this file. It is included with the CONSOLE program.
+
+wince:\
+ :co#80:it#8:li#11:\
+ :mi:ms:\
+ :al=\E[L:\
+ :bl=^G:\
+ :cd=\E[J:\
+ :ce=\E[K:\
+ :cl=\E[H\E[J:\
+ :cm=\E[%i%d;%dH:\
+ :cs=\E[%i%d;%dr:\
+ :cr=^M:\
+ :dc=\E[P:\
+ :dl=\E[M:\
+ :do=\E[B:\
+ :ho=\E[H:\
+ :se=\E[m:\
+ :so=\E[7m:\
+ :up=\E[A:\
+ :kh=\E[H:\
+ :kb=\177:\
+ :le=\E[D:\
+ :kl=\E[D:\
+ :kr=\E[C:\
+ :ku=\E[A:\
+ :kd=\E[B:
+
+ My /unix/home/_console file contains three lines.
+A version of this file is also include with the CONSOLE program.
+
+builtin more
+builtin ls
+pipeable rm mv ls sort grep find
+
+ Now you need to extract the CEREG.EXE program from the 
+ wince-desktoptools archive
+(See 
+
+http://www.rainer-keuchel.de/wince/dirlist.html )
+
+to create the environment variables on your WinCE machine.
+Extract CEREG.EXE to your desktop computer.
+
+To use CEREG.EXE, you first need to make
+an ActiveSync connection between your desktop PC and the WinCE machine.
+Then you run CEREG.EXE in the DOS window from your desktop PC
+to define environment variables on your WinCE machine.
+(Also see 
+
+http://www.rainer-keuchel.de/wince/registry.html ).
+
+I have created a DOS batch file on my desktop PC which runs CEREG.EXE to create
+the environment variables for my LG Phenom via the ActiveSync connection. 
+I list it here as an example:
+
+cereg -k "HKLM\Environment" -n "UNIXROOTDIR" -v "\unix"
+cereg -k "HKLM\Environment" -n "PATH" -v "\unix\bin;\Windows"
+cereg -k "HKLM\Environment" -n "HOME" -v "\unix\home"
+cereg -k "HKLM\Environment" -n "ROWS" -v "12"
+cereg -k "HKLM\Environment" -n "COLS" -v "80"
+cereg -k "HKLM\Environment" -n "CONSOLEFONTSIZE" -v "10"
+cereg -k "HKLM\Environment" -n "TMP" -v "\Temp"
+cereg -k "HKLM\Environment" -n "TEMP" -v "\Temp"
+cereg -k "HKLM\Environment" -n "TMPDIR" -v "\Temp"
+cereg -k "HKLM\Environment" -n "TEMPDIR" -v "\Temp"
+cereg -k "HKLM\Environment" -n "USER" -v "WinCEUser"
+cereg -k "HKLM\Environment" -n "TERM" -v "wince"
+cereg -k "HKLM\Environment" -n "TERMCAP" -v "\unix\etc\termcap"
+cereg -k "HKLM\Environment" -n "CELIBSTDLOGDIR" -v "\unix\logs"
+
+ Install the CONSOLE program on your WinCE machine.
+You may use this program to confirm the environment variables
+were actually created properly.
+(See 
+
+http://www.rainer-keuchel.de/wince/console.html )
+
+You will also need to copy over the CELIB.DLL file to the \Windows directory
+of your WinCE machine
+so the CONSOLE program will run properly.
+(See 
+http://www.rainer-keuchel.de/wince/celib.html )
+
+ Install OpenSSH on your WinCE machine.
+As Andreas mentions, do not replace your \Windows\MSVCRT.DLL file, if one
+already exists on your WinCE machine.
+See 
+http://prt.fernuni-hagen.de/~bischoff/wince/Andreas_WINCE_stuff.html 
+
+At this point, all you really need to do is
+ download OpenSSH for WinCE 2.00 
+and copy it over to your WinCE machine.
+
+ Dialup your ISP (or use your favorite method to connect).
+
+ Run the OpenSSH program.
+If all goes well, OpenSSH will prompt for 
+ Host: 
+and 
+ User: 
+and try to connect.
+
+The first time you connect to your ISP, OpenSSH will give an authentication
+error for your ISP, generate a RAS number and ask for you to continue.
+Answer Yes. All subsequent connections will not do this again.
+
+Then OpenSSH will prompt you for your shell password and you will be securely
+connected to the Unix shell. You did it!
+
+If you get any other error messages from OpenSSH, 
+either the Unix-like directories, the files
+and/or the environment variables were not created correctly on your WinCE machine.
+
+Go back to step 1 
+
+and review the installation procedure again.
+
+Observed Bugs
+
+I have observed a few bugs when running OpenSSH under WinCE 2.00.
+They are minor and there are workarounds but they are annoying
+nevertheless:
+
+ When prompted for 
+ Host: 
+and 
+ User: , the backspace key doesn't work properly.
+This means if you make a typo, you have to restart the program all over again.
+
+There is no workaround for this other than restarting the program.
+
+ The 
+ SSH Password window does not go away after you click OK or hit the
+ENTER key. It just stays there on top of the OpenSSH window and won't scroll
+away. In fact, scrolling doesn't work properly either.
+
+This would be a problem. The workaround is to make the
+OpenSSH window go temporarily away,
+say by running another program or going to the desktop, 
+and then go back to the OpenSSH window.
+Then the 
+ SSH Password 
+ window goes away and the OpenSSH window now scrolls properly(!)
+Seems the initial OpenSSH window is missing a repaint after the
+password prompt.
+
+ OpenSSH doesn't seem to check for the maximum window size on the WinCE
+machine. If you give large values for the number of rows or font size,
+ the resulting
+window may not fit on the display. You may see only part of the window.
+
+The workaround is to reduce the number of rows, columns and font size until the
+entire OpenSSH window fits on your screen. See below under Fine Tuning. 
+
+ In the Unix Mail program, the backspace key, which was
+mapped as ^H in the shell, is now mapped as ^? in Mail .
+Also, the number 4 appears to be mapped as control-C, ^C.
+This is bizarre.
+
+There is no workaround for this.
+
+Fine Tuning
+
+You probably will have to play with the environment variables for the
+number of rows, columns and font size to maximize the area of the telnet window.
+CONSOLE's env and setenv commands 
+should make this easier.
+
+You will also need to adjust the number of lines in the Unix shell via
+the stty command so that it jives with the number of lines
+in your OpenSSH window. This is important for shell programs like 
+ more, pine, emacs, etc. On my LG Phenom, I set my shell screen
+to 12 rows
+using the command:
+
+ stty rows 12 
+
+ My Writings 
+
+Last updated : April 13, 2003
+
+Copyright 2003 Al Wong, Los Angeles, California, USA

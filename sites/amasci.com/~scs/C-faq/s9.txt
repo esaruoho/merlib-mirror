@@ -1,0 +1,15 @@
+Boolean Expressions and Variables 
+
+ 9. Boolean Expressions and Variables 
+
+ 9.1
+What is the right type to use for Boolean values in C?
+ 9.2
+What if a built-in logical or relational operator ``returns''
+something other than 1?
+ 9.3
+Is if(p) ,
+where p is a pointer,
+valid?
+
+ top

@@ -1,0 +1,366 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+                      "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- New format for Dobe's Punny Name Archive on 12-18-2001 -->
+<!-- Hand-written XHTML, XML, XSLT, CSS and JS suite -->
+	 <!-- filename: PNADataIsland.htm -->
+<!-- 
+		Dobe Doinat's Punny Name Archive
+		MegaloMedia Copyright December 18, 2001
+		John W. Hartman (Dobe Doinat)
+		http://www.eskimo.com/~dobe/
+		mailto://dobe@eskimo.com
+		IDE of choice: XMLWriter, Wattle Software
+		ISP of choice: eskimo.com, Bob is Everywhere! 
+-->
+			
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+	  <title>Dobe Doinat's Punny Name Archive using XML and ADO</title>
+		<meta name="Keywords" content="Puns,Punny,Fun,Funny,PNA,XHTML,CSS,XML,XSL,XSLT,JavaScript,tutorial,authoring,programming,learning,reference,examples,samples,source code,demos,tips,links,FAQ,forms,frames,XHTMLGuide" />
+		<meta name="Description" content="Dobe Doinat's Punny Name Archive displayed as Example Data Access Using Markup Languages in a Networked Environment targeted for MSIE5+" />
+		<meta http-equiv="Content-Type" content="text/html" />
+		<!--*/  /*  --> 
+					<!--  *********Insert call to external CSS file here********* -->
+		<link rel="stylesheet" href="dobeDefaultEN.css" />
+		
+			<script type="text/javascript" language="JavaScript">
+				<!-- hide
+				// This function uses a literal string
+					function tell_me()
+					{
+						var str="This file is 500 records long, please wait.";
+						alert(str);
+						return true;
+					}
+				-->
+			</script>
+		
+	</head>
+<!--  ********* <body OnLoad="tell_me()"> ********* -->
+<body>
+
+
+<!-- Setting up a named anchor to start of document-->
+   <div id="PNADataIsland_Start"></div>
+   
+	<script type="text/javascript" src="write_MenuLinks_EN.js">
+		<!-- You don't need comments if there's nothing inside the &lt;script&gt; tags
+		 // -->
+	</script>
+
+
+<table title="See the end of this file to see how this works..."><tr>
+    <td class="specialBROWN150" width="100%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='170%';" onMouseout="this.style.color='brown'; this.style.fontSize='160%';">
+        Dobe Doinat's Punny Name XML Data Islands
+    </td>
+</tr></table>
+
+	<h3>Demonstration of Data Binding using XML and ADO</h3>
+
+ <br />
+
+
+		<xml id="xmlPNA" src="PNA500_XML.XML">
+		</xml>
+		
+	 <table border="1" width="50%" align="center">
+	 <tr>
+	  <td width="50%">Index #:</td>
+	  <td width="50%"><b> <span datasrc="#xmlPNA" datafld="PNAindexNum"></span></b></td>
+	 </tr>
+	 <tr>
+	  <td>First:</td>
+	  <td><b> <span datasrc="#xmlPNA" datafld="PNAfirst_name"></span></b></td>
+	 </tr>
+	 <tr>
+	  <td>Second:</td>
+	  <td><b> <span datasrc="#xmlPNA" datafld="PNAmid1_name"></span></b></td>
+	 </tr>
+	 <tr>
+	  <td>Third:</td>
+	  <td><b> <span datasrc="#xmlPNA" datafld="PNAmid2name"></span></b><br /></td>
+	 </tr>
+	 <tr>
+	  <td>Last:</td>
+	  <td><b> <span datasrc="#xmlPNA" datafld="PNAlast_name"></span></b></td>
+	 </tr>
+	 <tr>
+	  <td>Census #:</td>
+	  <td><b> <span datasrc="#xmlPNA" datafld="PNAcensusNum"></span></b></td>
+	 </tr>
+	 <tr>
+	  <td>Literal:</td>
+	  <td><b> <span datasrc="#xmlPNA" datafld="PNAliteral"></span></b></td>
+	 </tr>
+	 <tr>
+	  <td>Ranking:</td>
+	  <td><b> <span datasrc="#xmlPNA" datafld="PNAranking"></span></b></td>
+	 </tr>
+	 <tr>
+	  <td>Notes:</td>
+	  <td><b> <span datasrc="#xmlPNA" datafld="PNAnotes"></span></b></td>
+	 </tr>
+	 </table>
+<br /><br />
+
+<!-- these are standard input buttons -->
+<!-- they call JavaScript functions that move through the data -->
+	<center>
+	<input title="Move to first record" type="button" value="&nbsp;&nbsp;&nbsp;&nbsp;First&nbsp;&nbsp;&nbsp;&nbsp;" onclick="First()" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+	<input title="Move to previous record" type="button" value="Previous" onclick="Previous()" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+	<input title="Move to next record" type="button" value="&nbsp;&nbsp;&nbsp;&nbsp;Next&nbsp;&nbsp;&nbsp;&nbsp;" onclick="Next()" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+	<input title="Move to last record" type="button" value="&nbsp;&nbsp;&nbsp;&nbsp;Last&nbsp;&nbsp;&nbsp;&nbsp;" onclick="Last()" />
+	<br /><small>Use these buttons to scroll up and down the PNA List</small>
+	<br /><a href="#PNADataIsland_JSEventCode">Matt Mason found a bug in this code in May. See description below!</a>
+	</center>
+
+<!-- you can use either the JavaScript or JScript language -->
+<script language="JavaScript">
+<!-- // Hide
+   // MoveFirst() and MoveLast() are methods of the ADO Recordset object
+   // MoveNext() and MovePrevious() are methods of the ADO Recordset object
+   // RecordCount and AbsolutePosition are properties of the ADO Recordset object
+
+function First()
+   {
+   // we do not allow a move past the first record
+   // Should be greater than or equal to!!! See note below! 
+  var count=xmlPNA.recordset.RecordCount
+   if(count >= xmlPNA.recordset.AbsolutePosition)
+      xmlPNA.recordset.moveFirst();
+   }
+
+function Previous()
+   {
+   // we do not allow a move to before the first record
+   if(xmlPNA.recordset.AbsolutePosition > 1)
+      xmlPNA.recordset.movePrevious();
+   }
+
+function Next()
+   {
+   // we do not allow a move past the last record
+  var count=xmlPNA.recordset.RecordCount
+   if(count > xmlPNA.recordset.AbsolutePosition)
+      xmlPNA.recordset.moveNext();
+   }
+
+function Last()
+   {
+   // we do not allow a move past the last record
+  var count=xmlPNA.recordset.RecordCount
+   if(count > xmlPNA.recordset.AbsolutePosition)
+      xmlPNA.recordset.moveLast();
+   }
+ -->
+</script>
+
+  <h3>Setting the XML source file</h3>
+   <blockquote>
+   Using an inline xml tag, the src attribute sets
+   the URL to the XML data file, while the id attribute provides a unique
+   value used by the &lt;span&gt; tag as an internal link.<br /><br />
+	 <table border="1">
+	 <tr>
+	 <td>
+	    <blockquote><br />
+		    &lt;!-- //PNA500_XML.XML is a <b>raw XML</b> file, without XSLT transformations --&gt;
+	    	<br /><br />
+			&lt;xml <b>id="xmlPNA"</b> src="PNA500_XML.XML"&gt;<br />
+		    &lt;/xml&gt;
+	    </blockquote>
+      <b></b>
+	 </td>
+	 </tr>
+	 </table>
+   </blockquote>
+   
+  <h3>Setting the &lt;span&gt; element's <b>datasrc</b> and <b>datafld</b> attributes</h3>
+   <blockquote>
+   XML data will be inserted into the <b>placeholder &lt;span&gt; tag position</b>,
+   since it is being used for <b>data binding</b>. The <b>datasrc attribute</b>
+   links to the <b>inline &lt;xml&gt; tag</b>, using the &lt;xml&gt; tag
+   <b>id value</b>. Recall that the use of the pound sign # to denote the link,
+   means it is internal to the page, rather than an external file. It is the
+   <b>datafld attribute</b> that <u>binds the xml data value to the span tag</u>.<br /><br />
+	 <table border="1">
+	 <tr>
+	 <td>
+	    <blockquote><br />
+		Index #: &lt;span datasrc="#xmlPNA" datafld="PNAindexNum"&gt;&lt;/span&gt;<br />
+		First: &lt;span datasrc="#xmlPNA" datafld="PNAfirst_name"&gt;&lt;/span&gt;<br />
+		Second: &lt;span datasrc="#xmlPNA" datafld="PNAmid1_name"&gt;&lt;/span&gt;<br />
+		Third: &lt;span datasrc="#xmlPNA" datafld="PNAmid2name"&gt;&lt;/span&gt;<br />
+		Last: &lt;span datasrc="#xmlPNA" datafld="PNAlast_name"&gt;&lt;/span&gt;<br />
+		Census #: &lt;span datasrc="#xmlPNA" datafld="PNAcensusNum"&gt;&lt;/span&gt;<br />
+		Literal: &lt;span datasrc="#xmlPNA" datafld="PNAliteral"&gt;&lt;/span&gt;<br />
+		Ranking: &lt;span datasrc="#xmlPNA" datafld="PNAranking"&gt;&lt;/span&gt;<br />
+		Notes: &lt;span datasrc="#xmlPNA" datafld="PNAnotes"&gt;&lt;/span&gt;
+	    </blockquote>
+	 </td>
+	 </tr>
+	 </table>
+   </blockquote>
+   
+  <h2>Setting the User buttons</h2>
+   <blockquote>
+   The <b>Buttons</b> clicked by the User, are events that are responded to
+   by Client-Side JavaScript.
+	 <table border="1">
+	 <tr>
+	 <td>
+		<blockquote><br />
+			&lt;center&gt;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&lt;input type="button" value="<b>First</b>" onclick="First()" /&gt;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&lt;input type="button" value="<b>Previous</b>" onclick="Previous()" /&gt;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&lt;input type="button" value="<b>Next</b>" onclick="Next()" /&gt;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&lt;input type="button" value="<b>Last</b>" onclick="Last()" /&gt;<br />
+			&lt;br /&gt;<br />
+			&lt;small&gt;Use these buttons to scroll up and down the PNA List&lt;/small&gt;<br />
+			&lt;/center&gt;
+		</blockquote>
+	 </td>
+	 </tr>
+	 </table>
+	</blockquote>
+
+  <h2 id="PNADataIsland_JSEventCode">Here's the JavaScript Event Code</h2>
+   <blockquote>
+   The <b>Button-click Event</b> code contained in this page:
+	 <table border="1">
+	 <tr>
+	 <td>
+		<blockquote><br />
+			&lt;!-- you can use either the JavaScript or JScript language --&gt;<br />
+			<b>&lt;script language="JavaScript"&gt;</b><br />
+			&lt;!-- // Hide<br />
+			   // MoveFirst() and MoveLast() are methods of the <b>ADO Recordset object</b><br />
+			   // MoveNext() and MovePrevious() are methods of the ADO Recordset object<br />
+			   // RecordCount and AbsolutePosition are properties of the ADO Recordset object<br />
+
+			   <blockquote>
+			    <hr />
+			   // NOTE! On May 18th and 19th, 2002, <br />
+			   // <b><big>Matt Mason &lt;m.mason@PalmBasket.com&gt;</big></b> <br />
+			   // sent me emails to the effect that:<br />
+			   <br />
+			   <i>// "if you click the LAST button then <br />
+			   // the FIRST button it does not<br />
+			   // revert to the first button. <br />
+			    <br />
+			   // You must click the PREV button first and then<br />
+			   // the FIRST button works...."<br />
+			   <br />
+			   // I believe your IF statement is wrong and should read:<br />
+				<br />
+				// if(count <big><i class="lgred">&gt;=</i></big> xmlPNA.recordset.AbsolutePosition)<br />
+			    // xmlPNA.recordset.moveFirst();</i><br />
+			    <br />
+			    // <big> &nbsp; &nbsp;Thank you, Matt! &nbsp; &nbsp; Good troubleshooting!</big>
+			    <hr />
+			   </blockquote>
+			   
+			<br />
+			&nbsp;&nbsp;function <b>First()</b><br />
+			   &nbsp;&nbsp;{<br />
+			   // Do not allow a move past the first record!<br />
+				<i class="red">// Should be greater than or equal to (&gt;=)</i><br />
+			  &nbsp;&nbsp;&nbsp;&nbsp;<b>var count=xmlPNA.recordset.RecordCount<br />
+			   &nbsp;&nbsp;&nbsp;&nbsp;if(count 
+			   <big><i class="lgred">&gt;=</i></big> 
+			   xmlPNA.recordset.AbsolutePosition)<br />
+			      &nbsp;&nbsp;&nbsp;&nbsp;xmlPNA.recordset.moveFirst();</b><br />
+			   &nbsp;&nbsp;}<br />
+			<br />
+			&nbsp;&nbsp;function <b>Previous()</b><br />
+			   &nbsp;&nbsp;{<br />
+			   // we do not allow a move to before the first record<br />
+			   &nbsp;&nbsp;&nbsp;&nbsp;<b>if(xmlPNA.recordset.AbsolutePosition &gt; 1)<br />
+			      &nbsp;&nbsp;&nbsp;&nbsp;xmlPNA.recordset.movePrevious();</b><br />
+			   &nbsp;&nbsp;}<br />
+			<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;function <b>Next()</b><br />
+			   &nbsp;&nbsp;{<br />
+			   // we do not allow a move past the last record<br />
+			  &nbsp;&nbsp;&nbsp;&nbsp;<b>var count=xmlPNA.recordset.RecordCount<br />
+			   &nbsp;&nbsp;&nbsp;&nbsp;if(count &gt; xmlPNA.recordset.AbsolutePosition)<br />
+			      &nbsp;&nbsp;&nbsp;&nbsp;xmlPNA.recordset.moveNext();</b><br />
+			   &nbsp;&nbsp;}<br />
+			<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;function <b>Last()</b><br />
+			   &nbsp;&nbsp;{<br />
+			   // we do not allow a move past the last record<br />
+			  &nbsp;&nbsp;&nbsp;&nbsp;<b>var count=xmlPNA.recordset.RecordCount<br />
+			   &nbsp;&nbsp;&nbsp;&nbsp;if(count &gt; xmlPNA.recordset.AbsolutePosition)<br />
+			      &nbsp;&nbsp;&nbsp;&nbsp;xmlPNA.recordset.moveLast();</b><br />
+			   &nbsp;&nbsp;}<br />
+			 --&gt;<br />
+			<b>&lt;/script&gt;</b><br />
+<br />
+
+		</blockquote>
+	 </td>
+	 </tr>
+	 </table>
+	</blockquote>
+
+  <h2>What the XML file looks like</h2>
+   <blockquote>
+   The <b>Buttons</b> clicked by the User, are events that are responded to
+   by Client-Side JavaScript.
+	 <table border="1">
+	 <tr>
+	 <td>
+		<blockquote><br />
+			&lt;PNA&gt;<br />
+			&nbsp;&nbsp;&lt;PNArecord&gt;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&lt;PNAindexNum&gt;<b>1</b>&lt;/PNAindexNum&gt;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&lt;PNAfirst_name&gt;<b>Buddy</b>&lt;/PNAfirst_name&gt;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&lt;PNAmid1_name&gt;&lt;/PNAmid1_name&gt;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&lt;PNAmid2_name&gt;&lt;/PNAmid2_name&gt;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&lt;PNAlast_name&gt;<b>System</b>&lt;/PNAlast_name&gt;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&lt;PNAcensusNum&gt;<b>0</b>&lt;/PNAcensusNum&gt;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&lt;PNAliteral&gt;<b>Buddy system</b>&lt;/PNAliteral&gt;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&lt;PNAranking&gt;<b>9</b>&lt;/PNAranking&gt;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&lt;PNAnotes&gt;<b>Any applicable notes</b>&lt;/PNAnotes&gt;<br />
+			&nbsp;&nbsp;&lt;/PNArecord&gt;<br />
+			&lt;PNA&gt;<br />
+		</blockquote>
+	 </td>
+	 </tr>
+	 </table>
+	</blockquote>
+	
+<!-- //Footer -->
+ <table width="100%" cols="2" rows="1" border="0" cellpadding="10" id="dobeXHTML_IntroPara">
+   <tr>
+   <td valign="top" align="center" width="40%">
+	<!--   The following file must be in this directory! 
+	            This site copyright&#169; 2001 
+	       by John &quot;Dobe Doinat&quot; Hartman, 
+	               All Rights Reserved.
+	-->
+							<!--  *********Insert call to external JS file here********* -->
+	<script type="text/javascript" 
+	        src="write_Copyright_EN.js">
+	</script>
+	
+   </td>
+   <td valign="top" align="left" width="60%" class="small_70bi">
+   Cut-and-pasting of code permitted for non-commercial use.<br />
+   Check out my source code: <b>&lt;Right-Click&gt; | View Source</b> <br />
+   Thank you. <br />
+	<a href="#PNADataIsland_Start"><center><b>Back to the Beginning of this page</b></center></a>
+   </td>
+  </tr>
+ </table>
+
+</body>
+</html>
+

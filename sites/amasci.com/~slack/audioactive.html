@@ -1,0 +1,24 @@
+<title>Audioactive in Linux</title>
+This little kludge allows linux users to play Telos' <a href="http://www.audioactive.com">Audioactive</a> streams.<br>
+Download the .m3u link, then type mp3stream `cat whatever.m3u`. You might have to adjust the speed in wavplay (-s option) for some streams<br>
+<pre>
+#!/bin/sh
+rm -f /tmp/stream.in /tmp/stream.out
+webget $1 | l3dec -wav -fn 0 -sti  /tmp/stream.in
+mkmp3head /tmp/stream.in /tmp/stream.out
+webget $1 | l3dec -wav -sto -sti 2>/dev/null | cat /tmp/stream.out - | wavplay $2 $3 $4
+rm -f /tmp/stream.in /tmp/stream.out
+</pre>
+some streams:<br>
+WCSB (college station): http://wcsb.org/cgi-bin/swsend/tmp/source2<br>
+WCLV (classical):       http://207.170.133.100/cgi-bin/swsend/tmp/source3<br><br>
+
+I've included wavplay, l3dec, webget, mkmp3head, and the script <a href="download/mp3stream.tgz">here</a>(103569 bytes).<p>
+
+News:<p>
+
+* From the audioactive faq: <br>
+G11. Is there a version for UNIX?<br>
+Version 2.0 of the player (due in the Fall of 1997) supports most common UNIX platforms.<p>
+
+* <a href="http://www.sfs.nphil.uni-tuebingen.de/~hipp/mpg123.html">Mpg123</a>, a unix mp3 player, can now stream audioactive streams (-y option), but it dosn't sound as good as the webget/l3dec hack.<br>

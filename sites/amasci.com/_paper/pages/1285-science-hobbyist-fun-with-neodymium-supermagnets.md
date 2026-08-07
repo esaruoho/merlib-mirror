@@ -1,0 +1,280 @@
+---
+title: "SCIENCE HOBBYIST: fun with neodymium supermagnets"
+source_domain: amasci.com
+source_path: ~billb/neodemo.html
+order: 1285
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:03Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SCIENCE HOBBYIST: fun with neodymium supermagnets
+
+*Source page: `~billb/neodemo.html`*
+
+<table data-cellpadding="0">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong><a href="http://www.eskimo.com/~billb/">SCIENCE HOBBYIST</a> |</strong><br />
+</td>
+<td><strong><a href="http://www.eskimo.com/~billb/unew.html">GOOD STUFF</a> |</strong><br />
+</td>
+<td><strong><a href="http://www.eskimo.com/~billb/news.html">NEW STUFF</a> |</strong><br />
+</td>
+<td><strong><a href="http://www.eskimo.com/~billb/search.html">HELP!</a></strong><br />
+</td>
+</tr>
+</tbody>
+</table>
+
+# NEODYMIUM SUPERMAGNETS
+
+## SOME DEMONSTRATIONS
+
+#### - BILL BEATY, updated: 7/2002
+
+> Supermagnets once were fantastically expensive. Tiny cobalt-samarium magnets were priced far higher than any educator could afford. But there currently is another type of magnet that is stronger than C-S magnets and costs far less. This is the Neodymium-Iron-Boron supermagnet. The NIB magnet, or neodymium magnet, is so strong that eye protection must be worn when working with them, because if they slam together, they can shatter and eject chips at dangerous velocities. Many new science demos become possible with NIB magnets because inductive braking effects and repulsion/levitation effects become so strong that they can be directly felt and observed. A 1/2" neodyimum disk magnet costs between \$2 and \$10.
+
+------------------------------------------------------------------------
+
+Try [MAGNETS FORUM](http://www.wondermagnet.com/cgibin/webbbs/webbbs_config.pl) at Wondermagnet
+
+------------------------------------------------------------------------
+
+<table data-bgcolor="#ff0000" data-cellpadding="7">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><table data-bgcolor="#ffffff" data-cellpadding="7">
+<tbody>
+<tr>
+<td>WARNING: if you mess with TWO neodymium magnets, you are bound to pinch your fingers if you let them come together. This REALLY HURTS, it's like pliers. Also, you should wear safety glasses, since when two NIB magnets slam together, they tend to launch tiny chips at high velocities. I've had 3/4" magnets acidentally fall together and be completely shattered. The things are brittle! NOT FOR UNSUPERVISED CHILDREN!</td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+> Always keep magnets away from computers, floppy disks, credit cards, wind-up watches, etc. I've erased several credit cards by accidentally passing an NIB magnet near my pocket, or letting one fall into my lap.
+
+------------------------------------------------------------------------
+
+- [SUPER COMPASS](#comp)
+- [MAGNET RACES](#race)
+- [MAGNETIC BRAKING](#brake)
+- [FEEL THE DRAG DIRECTLY](#feel)
+- [VISIBLE, SLOW FALL](#fall)
+- [HOVERING FALL](#hov)
+- [INSIDE-OUT COPPER TUBE](#itube) (new 7/2002)
+- [INVISIBLE GEAR TEETH](#teeth)
+- [ELECTROMAGNETIC LEVITATION PLATE](#plate)
+- <a href="#fluid" data-"="">SIMULATED 2-DIMENSIONAL "FLUID"</a> (new 7/2002)
+- [GIANT "AUDIO TAPE"](#tape) (new 7/2002)
+- [FAKE MONOPOLE](#mono)
+- [DIAMAGNETIC WATER](#water)
+- [DIAMAGNETIC WATER II](#ii)
+- [DIAMAGNETIC LEVITATION](#dialev)
+- [DIAMAGNETIC EVERYTHING](#every)
+- [WHERE TO GET 'EM](#get)
+- [LINKS](#link)
+
+<span id="link"></span>
+
+## Links:
+
+- [Levitating graphite](http://www.scitoys.com/scitoys/scitoys/magnets/pyrolytic_graphite.html)
+- [Wooden magnet toys](http://www.musthaveoneofthose.com/)
+- [Comparison of magnetic materials](http://www.magnetsales.com/Otherprod/Materials.htm)
+- [Levitating graphite chunks](http://www.physics.ucla.edu/marty/diamag/index.html)(Dr. Martin Simon)
+- [More levitating graphite](http://diamagnetics.users2.50megs.com/page016.html)
+- [Levitated Seismograph](http://users2.50megs.com/diamagnetics/page014.html) by [M. Lamb](http://users2.50megs.com/diamagnetics/)
+- [Levitation with slabs of silver](http://davidfiedler.com/levitation.htm)
+- [Passive Diamagentic Levitator](http://www.lahr.org/john-jan/physics/maglev/magnet.html)
+- [back issues of MAGNETS IN YOUR FUTURE](http://www.futuremag.net)
+- [Exploratorium grape-pushing](http://www.exploratorium.edu/snacks/diamagnetism_www/index.html)
+- [Cool Experiments with Magnets](http://www.execpc.com/~rhoadley/magindex.htm)
+- [Fun with NIBs](http://www.netcomuk.co.uk/~wwl/neodym.html) from Mike's Electric Stuff
+- [Levitating Diamagnetic Frog](http://www-hfml.sci.kun.nl/hfml/levitate.html)
+
+------------------------------------------------------------------------
+
+<span id="comp"></span>
+
+## SUPER COMPASS
+
+Place a Neodymium disk magnet on edge upon a level glass plate (and far from iron objects and other magnets.) The disk will twist around and aim north/south. To guarantee success, you may have to tap upon the glass to lower the static friction momentarily, or place a drop of oil where magnet touches glass. The alignment force for an NIB magnet is so strong that it acts like a compass even when provided with a very crude bearing! If you suspend an NIB magnet from a thread, it will promptly start swinging in its attempt to aim north. A long stack of NIB disk magnets exhibits even stronger north-south alignment forces. Since the earth's field is not parallel to the ground in most locations, expect your magnet stack to both tilt at an angle and swerve into a n/s orientation.\
+
+If you close your eyes, hold a stack of NIB magnets in your hand, then wave your hand slowly around in different directions, Earth's field is just strong enough to feel directly. With practice, you can FEEL the particular north/south alignment where the tiny torque on the stack vanishes. <span id="race"></span>
+
+## MAGNET RACES
+
+Get a piece of 1/4" thick aluminum, 1/16" thick aluminum, and 1/2" thick wood. Each can be 4" to 6" wide and a couple of feet long. Tilt each piece at 45deg or so. Roll or slide an NIB (neodymium, iron,boron) magnet down each plane, or if you can afford to buy them, roll three magnets simultaneously (judiciously separated to prevent interaction!) The effects of the Lenz Law electromagnetic braking will be pretty obvious. The NIB magnets act as if the 1/4" aluminum is coated with invisible syrup! Try hiding a couple of pieces of thick aluminum behind a thin wood or posterboard plane, and the magnet will suddenly slow down as it slides down the wood and encounters the hidden metal. (Note: thick copper works even better than thick aluminum, but it's harder to find a source for copper plates.) <span id="brake"></span>
+
+## MAGNETIC BRAKING
+
+Roll your Neodymium magnet cylinder down an inclined wooden plane. Now roll it down a piece of aluminum "U"-shaped extrusion (1/2" x 1/2", or whatever size fits your magnet.) The magnet will move much slower in the aluminum. And if you affix a couple of thick aluminum plates to different spots on the extrusion (or even below the wood!) you will see obvious braking effects. <span id="feel"></span>
+
+## FEEL THE DRAG DIRECTLY
+
+Get a thick slab of aluminum or even copper (thicker than 1/4".) Hold an NIB magnet in your hand and slide it back and forth. You can definitely feel the "syrupy" friction caused by electromagnetic inductive braking effect. If you rub the magnet back and forth for long enough, you will even feel the metal plate's temperature begin to rise. <span id="fall"></span>
+
+## VISIBLE, SLOW FALL
+
+Get a length of copper plumbing pipe and drop a small neodymium magnet into it. The magnet will fall slowly. If you choose the magnet and the pipe to give a slip-fit on the magnet, the rate of fall will be very low. If you glue several NIB cylinder magnets end-to-end with repelling faces superglued together (a trick in itself!), the rate of fall will be even slower. And last: purchase some sheets of that green "magnet viewing film" from Edmund Scientific or other edu. supplier, cut them into strips and tape them around your copper tube, and the audience will be able to "see" the falling magnet as the field pattern moves along the seets of micro-encapsulated film. Or a messier version: wet the copper tube with ferrofluid, and watch the pattern as the magnet slowly falls. <span id="hov"></span>
+
+## HOVERING SLOW FALL
+
+Get a piece of thick-walled copper pipe about 1-1/4"OD, 3/4"ID, with 1/4" wall thickness, and 8" long. REALLY thick walled; more than 1/4" wall thickness is best, but 1/8" thick will work. Hold the pipe vertically and drop a thick 1/2" neodymium disk into it, and it takes a loooong time before it drops out the other end. This demo is well known. However, thin-walled copper pipe is usually employed, and the magnet usually must be a slip-fit on the tube (like a piston within a cylinder.) Now drop the magnet again, but LOOK INTO THE TOP END OF THE PIPE. The neodymium disk will be hovering in space as it falls, repelling from the walls as well as being slowed by electromagnetic braking. If you tilt the pipe a bit, the disk magnet will slowly tumble end over end as it floats downwards without touching the sides. Stick two 1/2" NIB disks together for an even slower fall.\
+
+If you can manage to place a TV camera on the top end and set it for macro close-focus, the whole lecture-hall will be able to see the strange effect.\
+
+If you cover the copper tube with green "magnet viewing film", you'll be able to see the leakage fields as the magnet settles slowly downwards. (If the copper was a perfect conductor, the eddy currents would create a perfect shielding effect.)\
+
+I obtained my copper pipe from **[ALASKAN COPPER AND BRASS](http://www.alaskancopper.com/), Seattle WA, 1-800-552-7661.** (They have a \$50 minimum order.) The exact size isn't too important, but the pipe should have a VERY thick wall, 3/16" or 1/4" thick if possible, and the inner diameter should be large enough to allow a 1/2" neodymium disk to have large, obvious clearance all around it as it falls (approx. 3/4" ID. pipe or larger). Ask for "schedule 40" pipe, then pick an inner diameter that clears your supermagnet with at least 1/8" space all around it. If they don't stock the exact dimensions, see if they have anything that's close. \[ P. Ledlie found another supplier: "Copper and Brass Sales" at 503-254-2600, \$65/ft for pipe that's 1" ID. WHEW! EXPENSIVE! It should be more like \$10-\$20 per foot. \] <span id="itube"></span>
+
+## INSIDE-OUT MAGNET TUBE
+
+In the previous demo, a magnet falls down through a tube. To reverse this effect, build a long stack of neodymium magnets which have their repelling poles stacked adjacent. This will create a stack like: N-S-N-S-N-S-N. (Use crazy glue, or find some magnet disks which have a central hole, and clamp them with a brass bolt.)\
+
+Now drop a small sebment of copper pipe down your magnet stack. It will fall sloooowly. Each pole of the magnet induces a ring of large electric current in the copper. Do the same with a copper washer. Now try it again, but this time cut a slot in the pipe or washer which breaks the electric circuit. It falls faster. Try a plastic pipe (perhaps painted copper-color) and the falls very fast.\
+
+<span id="teeth"></span>
+
+## INVISIBLE GEAR TEETH
+
+Carve a lump of wood or plastic into a 3" cylinder, drill four shallow 3/4" holes in the cylinder surface, and glue four 3/4"-dia. neodymium magnet slugs in the holes. Stick the assembly on a drill bit (even use a hand-powered drill) so you can spin it.\
+
+When spun near a metal plate, this device acts as an electromagnetic friction drive, or a gear with invisible teeth! Hold a Cu or Al plate near it, and it will push the plate along without touching. Support the spinning cylinder horizontally over a table top with a 1/2" space between table and cylinder, then stick various nonferrous metal plates under it. They will be launched forward.\
+
+I made a "top" from a 1/4" x 6" aluminum disk with a plastic rod through the center. With practice, one can spin this top up to high speed WITHOUT TOUCHING IT by using the above magnet "gear teeth" cylinder mounted on a power drill. <span id="plate"></span>
+
+## ELECTROMAGNETIC LEVITATION PLATE
+
+Attach a large Cu or Al disk to a motor or power drill. Affix this assembly under a plastic or wooden plate for safety, with the spinning metal disk parallel and almost touching the plastic plate. Run it up to speed and hold a neodymium magnet over the plate. You will feel both magnetic drag forces AND repulsion forces. Don't drop the magnet or it will be hurled across the room!\
+
+Tie your neodyimum magnet to a string, a piece of tape, etc, and affix the other end of the string or tape to the plastic plate so the string stops the drag but not the repulsion. THE MAGNET WILL LEVITATE! Watch out though, if the string lets loose, the EM drag will fling your brittle NIB magnet.\
+
+Clue: there is a way to levitate a bar magnet above two spinning metal objects which requires no strings. Can you figure it out? See my [Maglev](http://www.eskimo.com/~billb/maglev/maglev.html) page elsewhere on this site, under DOING IT MECHANICALLY. <span id="fluid"></span>
+
+## TWO-DIMENSIONAL "FLUID"
+
+Place several disk-magnets in a slippery bowl so they repel each other. They form patterns. It's almost as if the magnets were the "atoms" of a gas or liquid. We can bring out this behavior even more strongly. Clamp a large number of tiny disk magnets between two glass plates. Put spacers around the edges of the plates so that the magnets can slide around. Now place the sandwitch on edge. The magnets lift up and "crystallize" in a hex array! But they can also slide around. WIth enough magnets, the region of "fluid" will exhibit surface waves (and also sound waves within the bulk "liquid", and even cavity resonances!)\
+
+It might help to lubricate the glass surface a bit. Also, place a row of fixed disks all around the edges in order to form the walls of a two-dimensional "beaker" which repels the "fluid" within. <span id="tape"></span>
+
+## GIANT VISIBLE "AUDIO TAPE"
+
+Obtain some green "magnet viewing" film. Place it on the back of a rubber refridgerator magnet sheet (such as a magnetic business card.) The green film shows that the rubber magnet has a pattern of NSNSN stripes. This increases the overall attraction for metal. Now slide a large neodymium magnet across the rubber sheet, then "view" it again with the green film. Hey! The neodymium magnet ERASED THE POLE PATTERN! It's now all one north pole (or perhaps an S pole.) Don't worry, you can put it back again by sweeping small neo. magnets across the "erased" area. Or better yet, why not erase the entire rubber magnet... then write a secret message upon it? Or try drawing various NSNS patterns and see which one attracts a ferrous plate most strongly. Or try drawing a pattern of very fine parallel stripes (using a tiny neo. magnet fragment), then sweep the magnetic head from a tape recorder across it. Will it make noises?\
+
+Hey, why not put the rubber magnet sheet on a rotating cylinder, and magnetize the sheet with a pattern of parallel stripes. Spin the cylinder, hold a small NIB magnet near it, and the magnet should vibrate. Put the tiny magnet on a sounding-board, and the spinning cylinder should create a "magnetic siren". Try various patterns of stripes to make various noises.\
+
+<span id="mono"></span>
+
+## FAKE MONOPOLE
+
+Have you ever magnetized a nail by stroking it with a magnet? Well, neodymium magnets are so powerful that you can magnitize A BAR MAGNET by stroking it with a neodymium slug. A stack of NIB cylinders works great for doing this. Teachers can strengthen their dead classroom bar magnets. You can use a small piece of NIB magnet to write your name on the face of a large ceramic loudspeaker magnet (then use iron filings or a "magnaview sheet" to see the writing.) You can mess with your teacher's mind by reversing the poles of one of those classroom magnets so the "N" lable is actually south, and vice versa. Teachers can mess with students' minds by making a "monopole" magnet: use one end of your NIB stack and stroke a classroom bar magnet from the center and outwards. Do this to both ends and both sides of the bar, always starting from the center of the bar magnet and stroking towards the end, and always using the same pole of the NIB magnet stack. The result will be a bar magnet which is marked "N" and "S", but in fact both ends will be North, and there will be a big fuzzy South pole in the center (or vice versa, depending on how you held the NIB stack). If you wave your "monopole" magnet near a compass, the compass will show that both ends are the same! (Maybe you'll want to make another one which has two "S" poles. Maybe you'll want to paint "N" on both ends of your physics-joke magnet!) <span id="water"></span>
+
+## DIAMAGNETIC WATER
+
+Place a neodymium magnet in a shallow dish. Fill the dish with water so the magnet is completely covered (about .5cm water above the magnet). Bounce light from a distant small source off the water surface and onto a wall or screen. (sunlight works well.) You will see a uniform oval projected spot of sunlight reflection from the water surface. In the projected oval of light, right at the location of the submerged magnet, you'll find a small bright splotch.\
+
+The bright splotch is caused by a concave dimple in the water surface. The magnet repels the water slightly, which creates the concavity. Try using less water so there is just 1mm between the magnet face and the surface. This gives a bigger effect, but some people might then suspect that surface tension plays a role. Try looking down into the bowl so you see the reflection of the ceiling. If you move your head back and forth, you will detect a small distortion at the location of the magnet. C. Brown suggests placing the bowl in front of a screened window, then looking at the reflection of the wire mesh within the bowl. The distorted water surface will cause Moire' patterns to be seen.\
+
+Add more water so there is 1cm between the surface and the magnet, and the dimple will be \*very\* shallow and subtle. But it will still be detectable. Repeat the experiment by using a thin plastic dish with the magnet BELOW the dish (no surface tension effects possible!) Idea: use a large number of magnets to write some initials, perhaps cast them into an epoxy block so their faces occupy the same plane. When this is submerged, the magnetic field will spell out the initials in the reflected sunlight. A sort of "chinese magic mirror" image, with the "mirror" being the surface distortion created by magnetism. (Note: put the bowl on a sturdy countertop to stop the water ripples caused by floor vibrations.)\
+
+Neodymium magnets will repel ice cubes slightly. Hang an ice cube from a thread, and let it stretch the thread and cease spinning. Now bring your NIB magnet stack near the side of one end of the cube. You can push it so that it slowly turns. Cast a long icecube (or use an icicle in winter), which increases the lever arm and makes the effect more obvious. <span id="ii"></span>
+
+## DIAMAGNETIC WATER II
+
+Haven't tried this one (inspired by John Shurner.) Levitate a ball of oil submerged in an alcohol/water mixture adjusted for neutral density as follows. Fill a jar with rubbing alcohol, put in a small drip of oil (which promptly sinks.) Next, add small amounts of water to the alcohol and mix slowly (don't break up the oil drop.) Repeat until the oil drop neither sinks nor rises. (This is achieved with only a small percent water in the alcohol.) Use a pipette to add many more oil droplets, so the jar is full of them. Now approach the jar with an NIB magnet. Does it attract the oil? Or, does it repel the water which causes oil to approach the magnet? [John S.](http://www.gravity.org) may have replicated the Finnish Antigravity experiment: he finds that an HTSC disk chilled in liquid nitrogen causes the oil balls to "convect" when the jar is held above the superconductor. But does this occur even if electrical shielding and thermal shielding is provided?) <span id="every"></span>
+
+## DIAMAGNETIC EVERYTHING
+
+Hang a small object from a long thread. Bring an NIB magnet near it. If the material is diamagnetic, the object will be very slightly repelled. If the object is paramagnetic, the object will be very slightly attracted.
+
+------------------------------------------------------------------------
+
+<span id="dialev"></span>
+
+## DIAMAGNETIC LEVITATION
+
+Use a really huge NIB magnet to lift a tiny NIB magnet from below. The small magnet will float in the air. Adjust the distance so the small NIB magnet is \*barely\* attracted upwards, then place a piece of diamagnetic material immediately below the small magnet. The large magnet will cancel gravity, but an "energy well" will be formed because the small magnet is weakly repelled upwards by the diamagnetic material. The small magnet will hang in space. Earnshaw's theorem is apparantly violated! There is a photo of it in SCIENCE NEWS, 7/24/99, and a paper on it in NATURE, 7/22/99, author A.K. Geim. The authors use graphite plates (and even human fingers!). Bismuth slabs give a similar effect. The info about this is now on [John Lahr](http://lahr.org/john-jan/maglev/maglev.html)'s page. There's also a new build-it article on the [SCITOYS](http://www.scitoys.com/scitoys/scitoys/magnets/suspension.html) site. Buy graphite plates from [WONDERMAGNET](http://www.wondermagnet.com/dev/magnet36.html) Also see the collected links below, for experiments where graphite chips are levitated by magnets. <span id="get"></span>
+
+<table data-bgcolor="#ff0000" data-cellpadding="7">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><table data-bgcolor="#FFFFFF" data-cellpadding="7">
+<tbody>
+<tr>
+<td>WARNING: if you mess with TWO large neodymium magnets, you are bound to pinch your fingers if you let them come together. This REALLY HURTS, it's like pliers. Also, you should wear safety glasses, since when two big NIB magnets slam together, they tend to launch tiny chips at high velocities. I've had 3/4" magnets acidentally fall together and be completely shattered. The things are brittle! LARGE MAGNETS NOT FOR UNSUPERVISED CHILDREN! For kids, use NIB magnets under 1/4" across.</td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+> Always keep magnets away from computers, floppy disks, credit cards, wind-up watches, etc. I've erased several credit cards by accidentally passing an NIB magnet near my pocket, or letting one fall into my lap.
+
+------------------------------------------------------------------------
+
+## WHERE TO GET 'EM
+
+Try MR. GEORGE'S MAGNETS, <http://www.engconcepts.net/Magnets/Magnets.htm>\
+
+Inexpensive surplus NIB magnets from [WONDERMAGNET](http://www.wondermagnet.com/dev/magnets.html), go [here](http://www.wondermagnet.com/cgibin/order.cgi) to order.\
+
+["Amazing Magnets"](http://www.amazingmagnets.com)\
+
+Arbor Scientific ([www.arborsci.com](http://www.arborsci.com)\
+
+There is also an industrial supplier named Tridus in Paramount, California where you can get them for \$3 each, but there is a \$90 minimum order. (see below)\
+
+Herbach & Rademan (mail order surplus) 800-848-8001 (\$25 minimum purch) <http://www.herbach.com> a science/electronics surplus supplier, they carry several inexpensive odd-shaped NIB magnets including an extremely strong 1" disk for \$25. Call for their current "this month" catalog\
+
+    Arbor Scientific, Ann Arbor, MI,  1-800-367-6695  http://www.arborsci.com
+
+    Lee Valley Tools http://www.leevalley.com
+
+    DuraMag, http://www.duramag.com/rawmat/fr_neodymium.htm, large inexpensive 
+    disks and blocks
+
+    Tridus International, 310-408-2222, Paramount, CA (VERY low prices, but
+    $250 minimum.  Ask for MgOe:30 neodymium, its plenty strong but not
+    hyper-expensive)  www.tridus.com
+
+    Master Magnetics ???
+
+    Magnet Sales Inc., 1-800-421-6692, 
+    http://www.magnetsales.com
+
+    Magnets aRe Us Inc
+    South Bend, IN
+    1-800-470-3350
+
+    Surplus suppliers: many mailorder suppliers carry 1" trapezoidal NIB
+    magnets removed from computer hard disk head position motors.  H&R, Am.
+    Sci. Surplus, All Electronics, and others.  See:
+    http://www.eskimo.com/~billb/supliers.html or try Wondermagnet.
+
+    Or as Mike H. suggests, find old hard-disk drives and tear 'em apart to
+    get those magnets for free!  NIB magnets are used in the head-positioning
+    linear motor.  They are arc-shaped and flat, stack them for extra
+    strength.
+
+Created and maintained by [Bill Beaty](http://www.eskimo.com/~billb/billb.html). Mail me at: [billb@eskimo.com](http://www.eskimo.com/~billb/amateur/amform.html#urls).\
+If you are using Lynx, type "c" to email.

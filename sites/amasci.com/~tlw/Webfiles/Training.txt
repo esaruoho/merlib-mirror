@@ -1,0 +1,54 @@
+SSC Main Page 
+
+ Tim Worcester 
+ Normal 
+ Tim Worcester 
+ 18 
+ 85 
+ 2001-12-18T04:35:00Z 
+ 2001-12-28T04:40:00Z 
+ 1 
+ 87 
+ 497 
+ 4 
+ 1 
+ 610 
+ 9.2720 
+
+ THE ELECTRONIC CLOSET 
+
+ Training and Consulting
+Services 
+
+ TATF 
+
+ We provide on-site training and consultation in the following areas: 
+
+ Operation
+and maintenance of the HPUX and SRM operating systems 
+
+ Software revisions and configuration
+control 
+
+ Archiving
+test data to CD 
+
+ Operation
+of the data acquisition and reporting applications 
+
+ CELL SENTRY 
+
+ We
+provide training and consultation in the following areas: 
+
+ Setup
+and operation of the field unit including cellphone site survey 
+
+ Effective
+sensor installation and use of dual sensors 
+
+ Database
+maintenance 
+
+ --- Website 
+The Electronic Closet, 1980-2001 ---

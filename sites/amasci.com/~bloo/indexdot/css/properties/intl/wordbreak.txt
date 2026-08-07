@@ -1,0 +1,86 @@
+Word-Break - Cascading Style Sheets Properties 
+
+ word-break 
+ Support Key: 
+ [ IE5 ] 
+ Other International Properties 
+
+ unicode-bidi 
+ direction 
+ ruby-align 
+ ruby-overhang 
+ ruby-position 
+ line-break 
+ writing-mode 
+ ime-mode 
+ text-justify 
+ text-autospace 
+ text-kashida-space 
+ layout-flow 
+ layout-grid 
+ layout-grid-mode 
+ layout-grid-type 
+ layout-grid-line 
+ layout-grid-char 
+ layout-grid-char-spacing 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ normal 
+ Applicable Elements: 
+ Block-level elements 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property controls the line breaking behavior within words. It is
+ especially useful in cases where multiple languages are used within an element.
+
+ Allowed Values 
+ normal 
+ [ IE5 ] 
+ Type: Explicit 
+ Description: 
+ Normal line breaking behavior for the language is used. 
+
+ break-all 
+ [ IE5 ] 
+ Type: Explicit 
+ Description: 
+ Useful where content contains a majority of Asian character set content,
+ to which this value behaves like 'normal'. Non-Asian character set content
+ may be arbitrarily broken across lines. 
+
+ keep-all 
+ [ IE5 ] 
+ Type: Explicit 
+ Description: 
+ Useful where content contains a minority of Asian character set content,
+ to which content is not broken across lines. For non-Asian character set
+ content, this value behaves like 'normal'. 
+
+ Example 
+ Ext/Doc: div 
+ { word-break: keep-all } 
+ In-Line:&#160; < div 
+ STYLE =" word-break: 
+ keep-all">Western character set content mixed with a little Asian
+ character set content.</ div > 
+
+ Browser Peculiarities 
+
+ Nothing to report yet.
+
+ Boring Copyright Stuff....

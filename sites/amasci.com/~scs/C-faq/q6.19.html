@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 6.19</title>
+<link href="q6.18.html" rev=precedes>
+<link href="q6.20.html" rel=precedes>
+<link href="s6.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 6.19</H3>
+<p>How do I write functions which accept two-dimensional arrays
+when the ``width'' is not known at compile time?
+</p><hr>
+<p>It's not
+easy.
+One way is to pass in a pointer to the <TT>[0][0]</TT> element, along
+with the two dimensions, and simulate array subscripting ``by hand:''
+<pre>	f2(aryp, nrows, ncolumns)
+	int *aryp;
+	int nrows, ncolumns;
+	{ ... array[i][j] is accessed as aryp[i * ncolumns + j] ... }
+</pre>
+This function could be called with the <TT>array</TT> from
+question
+<a href=q6.18.html>6.18</a> 
+as
+<pre>	f2(&amp;array[0][0], NROWS, NCOLUMNS);
+</pre></p><p>It must be noted,
+however,
+that a program which performs
+multidimensional array subscripting ``by hand''
+in this way
+is not in strict conformance
+with the ANSI C Standard;
+
+
+
+according to
+
+an official interpretation,
+the behavior of accessing
+<TT>(&amp;array[0][0])[x]</TT>
+is not defined
+for <TT>x &gt;= NCOLUMNS</TT>.
+</p><p><TT>gcc</TT> allows local arrays to be declared
+having sizes which are specified by a function's arguments,
+but this is a nonstandard extension.
+</p><p>When you want to be able to use a function
+on multidimensional arrays of various sizes,
+one solution is to simulate all the arrays dynamically,
+as in question <a href=q6.16.html>6.16</a>.
+
+</p><p>See also questions
+<a href=q6.18.html>6.18</a>,
+<a href=q6.20.html>6.20</a>,
+and
+<a href=q6.15.html>6.15</a>.
+</p>
+<p>References:
+
+ANSI Sec. 3.3.6
+<br>
+ISO Sec. 6.3.6
+<br></p><hr>
+<p>
+Read sequentially:
+<a href="q6.18.html" rev=precedes>prev</a>
+<a href="q6.20.html" rel=precedes>next</a>
+<a href="s6.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

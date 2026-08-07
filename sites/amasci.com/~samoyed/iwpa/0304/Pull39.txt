@@ -1,0 +1,392 @@
+Pull 39 -- J & T Country Feed Pull
+ -- Day 2 
+
+ J & T Country Feed Pull 
+Greeley, Colorado 
+
+ Pull: 39 
+ Organizer(s): Rick Williams 
+ Wheels on Frozen Dirt
+ Region: 9 
+
+ Track: 
+ Still frozen from the day before. 
+ Date: 
+Sun
+ 23 
+Nov
+ 2003 
+
+ Weather: 
+ Cold, about 10F - 15F, Sunny 
+
+ Day 2 of 2 
+
+ Color Codes 
+ % -- Working Dog (WD) Leg Eligibility 
+ WD 
+ WD Excellent 
+ WD Superior 
+
+ Handler -- Owner / Handler relationship 
+ Owner 
+ Family Member 
+ Other Membership 
+
+ Chief Judge: Chris Stock 
+
+ 20 # Class 
+
+Judged by 
+Chris Stock
+
+ 50 # Start weight, 
+ 50 # Increment, 
+Cart weighs 
+ 50 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Action Jaxon 
+ 9 
+ 150
+
+ 7.09 
+ 19 
+ 7.89 
+ 5.0 
+ Kevin Hybeck
+
+ Terrier 
+
+ 40 # Class 
+
+Judged by 
+Chris Stock
+
+ 220 # Start weight, 
+ 150 # Increment, 
+Cart weighs 
+ 220 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Joker 
+ 9 
+ 1270
+
+ 16.06 
+ 39 
+ 32.56 
+ 7.0 
+ Kevin Hybeck
+
+ Am. PitBull Terrier 
+
+ Ayree Austin 
+ 9 
+ 1120
+
+ 14.81 
+ 36 
+ 31.11 
+ 4.0 
+ Kevin Hybeck
+
+ Am. PitBull Terrier 
+
+ Pixie 
+ 9 
+ 670
+
+ 9.03 
+ 38 
+ 17.63 
+ 1.0 
+ Samara Weidner
+
+ Am. PitBull Terrier 
+
+ 60 # Class 
+
+Judged by 
+Rick Williams
+
+ 220 # Start weight, 
+ 150 # Increment, 
+Cart weighs 
+ 220 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Shelby 
+ 9 
+ 1870
+
+ 13.53 
+ 60 
+ 31.17 
+ 6.0 
+ Chris Stock
+
+ Oklahoma Bulldog 
+
+ Hippo 
+ 9 
+ 1570
+
+ 11.41 
+ 51 
+ 30.78 
+ 3.0 
+ Alberto Rodriguez
+
+ Am. PitBull Terrier 
+
+ 80 # Class 
+
+Judged by 
+Chris Stock
+
+ 220 # Start weight, 
+ 200 # Increment, 
+Cart weighs 
+ 220 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Maude 
+ 9 
+ 2220
+
+ 15.31 
+ 79 
+ 28.10 
+ 8.0 
+ Chris Kopecky
+
+ Am. Bull Dog 
+
+ Pudge 
+ 9 
+ 2020
+
+ 11.81 
+ 80 
+ 25.25 
+ 5.0 
+ Carl Hart
+ Chris Wells
+
+ Am. Bull Dog 
+
+ Jazz 
+ 9 
+ 2020
+
+ 13.88 
+ 75 
+ 26.93 
+ 2.0 
+ Brian Hosfelt
+
+ Am. Bull Dog 
+
+ Mrs. Biggs 
+ 9 
+ 1820
+
+ 13.43 
+ 74 
+ 24.59 
+ 0.5 
+ John Lucero
+
+ Am. Bull Dog 
+
+ 100 # Class 
+
+Judged by 
+Chris Stock
+
+ 220 # Start weight, 
+ 300 # Increment, 
+Cart weighs 
+ 220 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Sammy 
+ 9 
+ 2620
+
+ 15.00 
+ 93 
+ 28.17 
+ 9.0 
+ Brian Hosfelt
+
+ Am. Bull Dog 
+
+ Brick 
+ 9 
+ 2620
+
+ 16.19 
+ 87 
+ 30.11 
+ 6.0 
+ Chris Kopecky
+
+ Am. Bull Dog 
+
+ Sisco 
+ 9 
+ 2620
+
+ 16.90 
+ 95 
+ 27.58 
+ 3.0 
+ John Lucero
+
+ Am. Bull Dog 
+
+ Eldorado 
+ 9 
+ 2320
+
+ 16.56 
+ 86 
+ 26.98 
+ 1.0 
+ Carl Hart
+
+ Am. Bull Dog 
+
+ Titan 
+ P 
+ 820
+
+ 10.28 
+ 84 
+ 9.76 
+ . 
+ Justin Schilling
+
+ Olde English Bulldogge 
+
+ 125 # Class 
+
+Judged by 
+Chris Stock
+
+ 220 # Start weight, 
+ 300 # Increment, 
+Cart weighs 
+ 220 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Chester 
+ 9 
+ 2920
+
+ 15.31 
+ 111 
+ 26.31 
+ 7.0 
+ Melinda Hosfelt
+ Brian Hosfelt
+
+ Am. Bull Dog 
+
+ Oscar 
+ 9 
+ 2320
+
+ 12.91 
+ 110 
+ 21.09 
+ 4.0 
+ Brian Hosfelt
+
+ Am. Bull Dog 
+
+ A.J. 
+ 9 
+ 2020
+
+ 10.82 
+ 106 
+ 19.06 
+ 1.0 
+ Brian Hosfelt
+
+ Am. Bull Dog 
+
+ Last Updated: 23:59:16 on 01-05-2004 
+
+ Pull Index 
+ Previous Pull # 
+ Next Pull # 
+ IWPA Home Page 
+
+ Standings ==> 
+ Wheels 
+ Snow 
+ Upcoming Pulls

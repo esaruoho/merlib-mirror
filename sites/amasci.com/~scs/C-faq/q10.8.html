@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 10.8</title>
+<link href="q10.7.html" rev=precedes>
+<link href="q10.9.html" rel=precedes>
+<link href="s10.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 10.8</H3>
+<p>Where are header
+(``<TT>#include</TT>'')
+files searched for?
+</p><hr>
+<p>The exact behavior is implementation-defined
+(which means that it is supposed to be documented;
+see question <a href=q11.33.html>11.33</a>).
+Typically, headers
+named with <TT>&lt;&gt;</TT>
+syntax
+are searched for
+in one or more standard places.
+Header files named with <TT>""</TT>
+syntax
+are
+first searched for
+in the ``current directory,''
+then
+(if not found)
+in the same standard places.
+</p><p>Traditionally
+(especially under Unix compilers),
+the current directory is
+taken to be
+the directory
+containing the file
+containing
+the <TT>#include</TT> directive.
+Under other compilers, however,
+the current directory
+(if any)
+is the directory in which the compiler was initially invoked.
+
+Check your
+compiler
+documentation.
+</p>
+
+
+<p>References:
+
+K&amp;R2 Sec. A12.4 p. 231
+<br>
+ANSI Sec. 3.8.2
+<br>
+ISO Sec. 6.8.2
+<br>
+H&amp;S Sec. 3.4 p. 55
+<br></p><hr>
+<p>
+Read sequentially:
+<a href="q10.7.html" rev=precedes>prev</a>
+<a href="q10.9.html" rel=precedes>next</a>
+<a href="s10.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

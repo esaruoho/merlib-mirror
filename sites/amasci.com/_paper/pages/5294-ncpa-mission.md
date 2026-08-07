@@ -1,0 +1,44 @@
+---
+title: "NCPA Mission"
+source_domain: amasci.com
+source_path: ~ncpa/mission.html
+order: 5294
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:58:16Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# NCPA Mission
+
+*Source page: `~ncpa/mission.html`*
+
+# National Collegiate Paintball Association
+
+*"A Club for Every Campus"*
+
+### Mission Statement
+
+This is an interim mission statement meant to serve the NCPA until the end of the summer of 2001 when hopefully more clubs will be able to give their direct input. It does nevertheless embody the spirit on which the NCPA was founded and continues to operate. While the goals of the NCPA remain flexible, the limitations outlined are meant to be concrete. If college paintball requires something that can not be provided within the limitations of the NCPA Mission Statement, then another organization will have to be formed for that purpose.
+
+------------------------------------------------------------------------
+
+The NCPA will attempt to provide, as the need exists:
+
+- Resources to aid in the creation, maintenence and growth of paintball clubs at the various colleges and universities;
+- The means to further reduce the expenses incurred by college students participating in paintball;
+- Promotion of collegiate paintball's viability and necessity to both the paintball industry and the public;
+- A medium through which college paintball clubs across the country can communicate and act together in their mutual interests;
+- Resources to aid collegiate events;
+- Organization of or aid to a national competitive collegiate paintball league;
+- Records of collegiate events;
+- For increased college student participation in the sport of paintball in general; and
+- The same, as a secondary mission, for paintball at the high school level.
+
+The NCPA will never:
+
+- Take any action which forces a particular school to act or not act in a certain way without that school's express consent;
+- Attempt, in any way, to represent the combined interest of college paintball as a whole or individual college clubs without that club's consent;
+- Portray itself as any sort of governing or representative body for college clubs and/or teams; or
+- Operate in a manner that financially benefits any of its coordinators.

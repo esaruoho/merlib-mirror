@@ -1,0 +1,170 @@
+<html><head><title>OBSOLETE FILE!  DO NOT USE</title></head><body>
+<pre>
+
+OBSOLETE.  Instead please use <a href="http://amasci.com/miscon/maxwell.html">http://amasci.com/miscon/maxwell.html</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCIENTISTS' QUOTES REGARDING "ELECTRICITY" AND ENERGY        1999 W. Beaty
+http://amasci.com/miscon/maxwell.txt
+
+
+During my original research about "electricity" back in 1988, I found an
+excellent quote from James Clerk Maxwell stating specifically that
+electricity is not a form of energy.  This is from A TREATISE ON ELECTRICITY 
+AND MAGNETISM, 1891:
+
+  Part I, ELECTROSTATICS, Chapter I DESCRIPTION OF PHENOMENA
+  Conductors and Insulators
+
+  "35] While admitting electricity, as we have now done, to the rank of a
+  physical quantitity, we must not too hastily assume that it is, or is
+  not, a substance, or that it is, or is not, a form of energy, or that it
+  belongs to any known catagory of physical quantities.  All that we have
+  hitherto proved is that it cannot be created or annihilated, so that if
+  the total quantity of electricity within a closed surface is increased
+  or diminished, the increase or diminution must have passed in or out
+  through the closed surface."
+
+<snip>
+
+  "There is, however, another reason which warrants us in asserting that
+  electricity, as a physical quantity synonymous with the total
+  electrification of a body, is not, like heat, a form of energy.  An
+  electrified system has a certain amount of energy, and this energy can
+  be calculated by multiplying the quantity of electricity in each of its
+  parts by another physical quantity, called the Potential of that part,
+  and taking half the sum of the products.  The quantities 'Electricity'
+  and 'Potential', when multiplied together, product the quantity
+  'Energy.'  It is impossible, therefore, that electricity and energy
+  should be quantities of the same category, for electricity is only one
+  of the factors of energy, the other factor being 'Potential.'  "
+
+-------------------------------------------------------------------------
+
+Maxwell goes on to point out that *force* is not energy, because energy
+equals force times distance.  And *mass* is not energy because potential
+energy equals mass times height.
+
+So even though Maxwell was writing in 1891, and even though electricity
+still contained many mysteries, science HAD progressed far enough to
+realize that electricity was not a form of energy.
+
+What is "electricity"?  Of course Maxwell defines all of his terminology
+elsewhere in the document.  It is clear from the following that Maxwell
+defines the word "electricity" to mean "electric charge"...
+
+  CHAPTER II  Elementary Mathematical Theory of Statical Electricity
+    Definition of Electricity as a Mathematical Quantity
+
+ 63.] "We have seen that the properties of charged bodies are such that the
+  charge of one body may be equal to that of another, or to the sum of the
+  charges of two bodies, and that when two bodies are equally and
+  oppositely charged they have no electrical effect on external bodies
+  when placed together within a closed insulated conducting vessel.  We
+  may express all these results in a concise and consistent manner by
+  describing an electrified body as "charged" with a certain "quantity of
+  electrcity" which we may denote by "e." 
+
+-------------------------------------------------------------------------
+
+OK, what about J. J. Thompson, the discoverer of the electron?  As we see
+below, he defined "electricity" as charge...  and charge is not energy:
+
+   "As the cathode rays carry a charge of negative electricity, are 
+   deflected by an electrostatic force as if they were negatively 
+   electrified, and are acted on by a magnetic force in just the way in 
+   which this force would act on a negatively electrified body moving
+   along the path of these rays, I can see no escape from the conclusion 
+   that they are charges of negative electricity carried by particles of
+   matter."    -  J. Thompson,   Phil. Mag, 44, 293 (1897)
+
+-------------------------------------------------------------------------
+
+How about Robert Millikan, the physicist who determined the electron's
+charge?  He is yet another example of an expert who uses the word
+"electricity" to mean charge rather than electromagnetic energy:
+
+  "...Faraday found that the passage of a given quantity of electricity 
+   through a solution containing a compound of hydrogen, for example, 
+   would always cause the appearance at the negative terminal of the same 
+   amount of hydrogen gas irrespective of the kind of hydrogen compound
+   which had been dissolved, and irrespective also of the strength of the
+   solution; that, further, the quantity of electricity required to cause 
+   the appearance of one gram of hydroben would always deposit from a 
+   solution containing silver, exactly 107.1 grams of silver.  This 
+   meant, since the weight of the silver atom is exactly 107.1 times the 
+   weight of the hydrogen atom, that the hydrogen atom and the silver atom 
+   are associated in the solution with exactly the same quantity of 
+   electricity."  R. A. Millikan, THE ELECTRON, 1917 p15
+
+Throughout "THE ELECTRON" and also in his Autobiography, Millikan
+repeatedly uses the word "Electricity" to mean electric charge rather than
+EM energy.
+
+-------------------------------------------------------------------------
+
+And Michael Faraday himself?  In his book "Experimental Researchers in
+ELectricty" from 1839, Faraday investigates the nature of electricity and
+frequently uses the term "quantity of electricity" to refer to quantities
+of electric charge rather than quantities of energy.  As in Millikan's
+quote above, Faraday passes a certain "quantity of electricity" through an
+electrolysis apparatus to create a distinct amount of gas or
+electroplating.  In addition he investigates "static" from electrostatic
+generators and "current" from batteries and moving coils, and he concludes
+all of the various "kinds" of electricity do not exist:  instead there is
+only one kind, but the values of current and charge can differ in 
+different situations.
+
+-------------------------------------------------------------------------
+
+If you're swayed by authorities, then listen to Albert Einstein, from his 
+1938 book Evolution of Physics:
+
+  "The electric fluid flowing through the wire is the negative one, 
+   directed, therefore, from lower to higher potential... The next 
+   important question is whether the structure of this negative fluid is
+   "granular,"  whether or not it is composed of electric quanta.  Again a
+   number of independent experiments show that there is no doubt as to
+   the existence of an elementary quantum of negative electricity.  The
+   negative electric fluid is constructed of grains, just as the beach is
+   composed of grains of sand, or a house built of bricks.  This result 
+   was forumlated most clearly by J. J. Thomson, about forty years ato.  
+   The elementary quanty of negative electricity are called *electrons.*"
+   - Einstein/Infeld, EVOLUTION OF PHYSICS 1938, p 253
+
+So Einstein believes that electricity is charge rather than 
+electromagnetic energy, Coulombs rather than Joules.
+
+-------------------------------------------------------------------------
+
+And how about the "ultimate authority" in physics?  It's the CRC Handbook
+of Chemistry and Physics!  (Heh.  Well, most physicists rely on it as the
+ultimate authority.)  What does the CRC Handbook say about the quantity
+called "electricity?"  Is it EM energy measured in Joules, or is it
+charges measured in Coulombs?  The CRC defines "Quantity of Electricity..." 
+as Coulombs.
+
+
+</body></html>

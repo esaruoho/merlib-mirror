@@ -1,0 +1,13 @@
+Linux stuff 
+
+Linux stuff(tm)
+
+ My Fvwm2.0 "theme" version 0.5 (581863 bytes) 
+ Includes rxvt-pixmap and fvwm2 bins ( patched with German Jose Gomez Garcia's pixmap menu code) for Linux-ELF-ix86, screenshot here (318804 bytes) 
+ Background from my screenshot (383059 bytes) 
+ Tau Ceti theme for the excellent gqmpeg mpg123 X frontend. (54572 bytes) 
+ Nobrainer pppd setup script ("sh pppsetup.sh" to run) 
+* Linux Audioactive streaming 
+ mirc.c (Dont ask)
+
+ Go back..

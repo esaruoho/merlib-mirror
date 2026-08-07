@@ -1,0 +1,194 @@
+Guitar Lessons - Chromaticism 
+
+ WHAT&#146;S NEW 
+
+ ABOUT US 
+
+ FORUMS 
+
+ GUITAR TAB 
+
+ REVIEWS 
+
+ INTERVIEWS 
+
+ HELP 
+
+ Site Tour 
+
+ Beginners Songs 
+
+ Intermediate Songs 
+
+ Guitar Columns 
+
+ Guitar Lessons 
+ Acoustic 
+ Blues 
+ Chords 
+ Classical 
+ Guitar 
+ Principles 
+ Heavy 
+ Metal 
+ Jamming 
+ Jazz 
+ Scales 
+ Teaching 
+ more... 
+
+ Bass Lessons 
+
+ Songwriting 
+
+ Sound Engineering 
+
+ The Other Side 
+
+ Ask The Expert 
+
+ Interviews 
+
+ Reviews 
+
+ Books 
+
+ Links 
+
+ Search 
+
+ Advanced Search 
+
+ You are here: Home , 
+ Guitar Lessons , Jazz , 
+ Chromaticism 
+
+ Chromaticism 
+
+ Published March 02, 2002 
+ By 
+ Hans 
+ Fahling 
+
+ Print this 
+ page 
+ Email to a Friend 
+
+ Bookmark 
+ this page 
+
+ If you&#146;ve heard of arpeggios, you have probably wondered 
+ how they could possibly be used for improvising on the guitar?! 
+ This column talks about the use of chord tone structures as 
+ a grid for progressively adding the in-between elements, such 
+ as passing tones, bebop sequences and many more important 
+ musical building blocks of improv. We will illustrate how 
+ modes are arrived at in the context of chromaticism, metric 
+ control, and bebop scales. 
+ Let&#146;s take a modal chord progression and progressively 
+ layer the tools we will need to create to get to those above-mentioned 
+ in-between elements. Here is a chord progression taken from 
+ Coltrane&#146;s Impressions : 
+ ||---- 16 bars of Dm7 ---||--- 8 bars of Ebm7 
+ ---||--- 8 bars of Dm7 ---|| 
+ Let&#146;s examine the first of the two chords : Dm7 ; 
+ here&#146;s the arpeggio at the fifth position (that is, starting 
+ at the fifth fret on the neck): 
+
+ In a different layout (root on 5 th string, 5 th 
+ position): 
+
+ Looking at the &#147;partials,&#148; the notes that make 
+ up this chord, we have the root (D &#150; all of which 
+ are circled on the fret chart), the b3 (F), the 5 
+ (A), and the b7 (C). These are arranged in a range 
+ of just over two octaves with the lowest note being a fifth 
+ and the top note a seventh. 
+
+ Practice this form on the guitar for a few moments, 
+ starting at first very slowly on the lowest root, playing 
+ to the top note, back down to the lowest note, and back 
+ up to the root. Always use alternate picking! It 
+ helps to realize that this is the same as a D minor 
+ pentatonic scale with the fourth (G) omitted. 
+
+ Once this gets easier after a few minutes (or however 
+ long it takes to practice to the point of the arpeggio 
+ becoming automatic in your movement), play a Dm7 chord 
+ voicing before and after you play the arpeggio; this 
+ is helpful, because it creates a reference point to 
+ something familiar. Start the arpeggio now on not only 
+ the root, but the other partials (third, fifth, or seventh) 
+ as well. 
+
+ With chord tones you are able to truly reflect the sound 
+ of the changes in a tune. The notes in-between give you options 
+ as to how to color your lines. Notice how the chord tones 
+ (boxed) in the illustration below fall on the strong beats 
+ (1, 2, 3 ,4 ) and the passing tones on the weak beats; 
+ also, the passing tones in this ascending line approach the 
+ chord tones by half steps, practically functioning as leading 
+ tones to the chord tones. 
+
+ Practice this approach now in similar fashion: Slowly 
+ from the lowest to the highest notes in this position; 
+ make sure to play the notes of the arpeggio (the boxed 
+ chord tones) with down strokes , and the passing 
+ tones with upstrokes. It is amazing how fast 
+ you can get at playing this type of phrase with alternate 
+ picking &#150; but take several days to slowly build 
+ speed; 
+
+ start the phrases on different notes &#150; down beats 
+ as well as up beats, but be aware of metric placement: 
+
+ The most common choice for the 
+ downward movement is the use of the Dorian scale (add 
+ major 7 th ) as illustrated blow: 
+
+ In some circumstances, the following 
+ scales [with differences to dorian indicated] need/can to 
+ be used: 
+
+ Aeolian (add major 7 th ) [step 
+ 6 is minor] 
+ Phrygian (add major 7 th ) [steps 
+ 2 and 6 are minor] 
+ Melodic Minor [a special case that will 
+ be discussed in the following] 
+
+ It will take a bit of time and practice to assimilate 
+ the elements illustrated above. But it will be very 
+ rewarding to then move on to the application part with 
+ taking a play-along track (self-made or a recording 
+ of So What by Miles Davis or the song Impressions 
+ by John Coltrane) or with a musician friend, and to 
+ try a few improv techniques. 
+
+ Briefly apply the same practice steps to Ebm7 by moving 
+ everything up one half step. Then play along with the 
+ music using the elements elaborated on; make sure to 
+ change after 16 bars to Ebm7 &#150; the arpeggio, the 
+ passing tone layout, the resulting Dorian bebop scale. 
+
+ Take time to get used to the new tools, and focus on the 
+ metric placement of the notes. You will notice how your consistent 
+ practice with careful regard to up and down strokes has paid 
+ off by giving you control over what notes to play when. The 
+ important chord tones will reflect the changes in your playing, 
+ enabling you to resolve your lines carefully and true to the 
+ harmonic background. With consistent practice this metric 
+ control will be accompanied by astonishing facility and speed 
+ and greatly improve your alternate picking. 
+ Hans Fahling 2002-03-02 
+ Go 
+ to a review of "The Hans Fahling Quartet" 
+ Next lesson in this series 
+ "Pattern-playing in Bebop Scales - not just for Jazz" 
+
+ Back to top 
+
+ Copyright &copy; 2002 Guitar Noise. All 
+ rights reserved. Site Map. Masterlist. 
+ Privacy Statement. 
+ Contact Us.

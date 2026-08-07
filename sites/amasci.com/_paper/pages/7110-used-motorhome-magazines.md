@@ -1,0 +1,174 @@
+---
+title: "Used MotorHome Magazines"
+source_domain: amasci.com
+source_path: ~robertf/stuff/motorhom.html
+order: 7110
+reachable_from_entry: false
+images: 0
+internal_links: 6
+extracted: 2026-08-07T05:59:49Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Used MotorHome Magazines
+
+*Source page: `~robertf/stuff/motorhom.html`*
+
+> # Surplus *MotorHome* Magazines for Sale
+>
+> MotorHome magazine is, of course, about motorhomes, but in addition to articles and ads about the various vehicles, there are articles about such things ans battery maintenance, engine maintenance, wiring, plumbing, interior equipment, accessories, and a lot of tips to make travel easier and more enjoyable.
+>
+> **These magazines are for sale for US\$1.00 each (plus shipping, taxes, etc., as explained below).**
+>
+> **NOTE:** In the early 1980s, the magazine changed it’s name from [*Motorhome Life*](mhlife.html) to *Motorhome.*
+>
+> The purchaser shall be responsible for costs of mailing, taxes, and customs duties as applicable.
+>
+> The items for sale on this page belong to Robert M. Fleming Jr. and Emma G. Fleming (The Fleming Family). In order to make our selling more efficient and better organized, as of 1 May 2002 the sales of all of our personal and business surplus stuff is being handled by [Flemco Surplus Sales](http://www.eskimo.com/~surplus/index.html). For important information regarding the procedures and rules about how we sell our stuff, please see our [Conditions of Sale](salecond.html). If you are interesting in buying any of our stuff, or otherwise contacting us, please send an e-mail to <surplus@eskimo.com>.
+>
+> For shipping options, please see [Shipping Options](shipmags.html).
+>
+> For payment options, please see [Payment Options](payment.html).
+>
+> - MOT8201: January 1982
+> - MOT8203: March 1982
+> - MOT8204: April 1982
+> - MOT8205: May 1982
+> - MOT8206: June 1982
+> - MOT8207: July 1982
+> - MOT8208: August 1982
+> - MOT8209: September 1982
+> - MOT8211: November 1982
+> - MOT8301: January 1983
+> - MOT8302: February 1983
+> - MOT8303: March 1983
+> - MOT8304: April 1983
+> - MOT8305: May 1983
+> - MOT8306: June 1983
+> - MOT8307: July 1983
+> - MOT8308: August 1983
+> - MOT8309: September 1983
+> - MOT8310: October 1983
+> - MOT8311: November 1983
+> - MOT8312: December 1983
+> - MOT8401: January 1984
+> - MOT8402: February 1984
+> - MOT8403: March 1984
+> - MOT8404: April 1984
+> - MOT8405: May 1984
+> - MOT8406: June 1984
+> - MOT8407: July 1984
+> - MOT8408: August 1984
+> - MOT8409: September 1984
+> - MOT8410: October 1984
+> - MOT8411: November 1984
+> - MOT8412: December 1984
+> - MOT8501: January 1985
+> - MOT8502: February 1985
+> - MOT8503: March 1985
+> - MOT8504: April 1985
+> - MOT8505: May 1985
+> - MOT8506: June 1985
+> - MOT8509: September 1985
+> - MOT8903: March 1989
+> - MOT8904: April 1989
+> - MOT8905: May 1989
+> - MOT8906: June 1989
+> - MOT8907: July 1989
+> - MOT8908: August 1989
+> - MOT8909: September 1989
+> - MOT8910: October 1989
+> - MOT8911: November 1989
+> - MOT8912: December 1989
+> - MOT9001: January 1990
+> - MOT9002: February 1990
+> - MOT9003: March 1990
+> - MOT9004: April 1990
+> - MOT9005: May 1990
+> - MOT9006: June 1990
+> - MOT9007: July 1990
+> - MOT9008: August 1990
+> - MOT9009: September 1990
+> - MOT9010: October 1990
+> - MOT9011: November 1990
+> - MOT9012: December 1990
+> - MOT9101: January 1991
+> - MOT9102: February 1991
+> - MOT9103: March 1991
+> - MOT9104: April 1991
+> - MOT9105: May 1991
+> - MOT9106: June 1991
+> - MOT9107: July 1991
+> - MOT9108: August 1991
+> - MOT9109: September 1991
+> - MOT9110: October 1991
+> - MOT9111: November 1991
+> - MOT9112: December 1992
+> - MOT9201: January 1992
+> - MOT9202: February 1992
+> - MOT9203: March 1992
+> - MOT9204: April 1992
+> - MOT9205: May 1992
+> - MOT9206: June 1992
+> - MOT9207: July 1992
+> - MOT9208: August 1992
+> - MOT9209: September 1992
+> - MOT9210: October 1992
+> - MOT9211: November 1992
+> - MOT9212: December 1992
+> - MOT9301: January 1993
+> - MOT9302: February 1993
+> - MOT9303: March 1993
+> - MOT9304: April 1993
+> - MOT9305: May 1993
+> - MOT9306: June 1993
+> - MOT9307: July 1993
+> - MOT9308: August 1993
+> - MOT9309: September 1993
+> - MOT9310: October 1993
+> - MOT9311: November 1993
+> - MOT9312: December 1993
+> - MOT9402: February 1994
+> - MOT9403: March 1994
+> - MOT9404: April 1994
+> - MOT9405: May 1994
+> - MOT9406: June 1994
+> - MOT9407: July 1994
+> - MOT9409: September 1994
+> - MOT9410: October 1994
+> - MOT9411: November 1994
+> - MOT9412: December 1994
+> - MOT9501: January 1995
+> - MOT9502: February 1995
+> - MOT9503: March 1995
+> - MOT9504: April 1995
+> - MOT9505: May 1995
+> - MOT9506: June 1995
+> - MOT9507: July 1995
+> - MOT9508: August 1995
+> - MOT9510: October 1995
+> - MOT9511: November 1995
+> - MOT9512: December 1995
+> - MOT9601: January 1996
+> - MOT9602: February 1996
+> - MOT9603: March 1996
+> - MOT9604: April 1996
+> - MOT9605: May 1996
+> - MOT9606: June 1996
+> - MOT9607: July 1996
+> - MOT9608: August 1996
+> - MOT9609: September 1996
+> - MOT9710: October 1997
+> - MOT9711: November 1997
+>
+> There are also business magazines for sale at [The Fleming Company's magazines-for-sale site.](http://www.eskimo.com/~flemco/stuff/magazine.html)\
+> and computer magazines for sale at [the Flem-Data mgazines-for-sale site.\
+> \
+> ](http://www.eskimo.com/~flemdata/stuff/magazine.html)[Return to Magazines for Sale](magazine.html)\
+> [Return to List of Stuff to Sell](index.html)\
+> [Return to The Fleming Family home page](../index.html)\
+>
+> ©2001 Robert M. Fleming Jr.
+>
+> \
+> This page last updated 20 June 2003.

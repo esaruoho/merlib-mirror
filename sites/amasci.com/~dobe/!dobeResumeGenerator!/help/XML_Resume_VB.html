@@ -1,0 +1,1323 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+                      "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- New format for Dobe's Punny Name Archive on 12-31-2001 -->
+<!-- Hand-written XHTML, XML, XSLT, CSS and JS suite -->
+	 <!-- filename: XML_Resume_VB.html -->
+<!-- 
+		Dobe Doinat's Punny Name Archive
+		MegaloMedia Copyright January 01, 2002
+		John W. Hartman (Dobe Doinat)
+		http://www.eskimo.com/~dobe/
+		mailto://dobe@eskimo.com
+		IDE of choice: XMLWriter, Wattle Software
+		ISP of choice: eskimo.com, Bob is Everywhere! 
+-->
+			
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>Dobe Doinat's XML_Resume_VB (RW4XML) Help File</title>
+ </head>
+
+<!-- Begin Document -->
+  <body bgcolor="white">
+
+
+<h3 id="RW4XML_top">RW4XML Help
+(
+<span title="XHTML is just like HTML only it must be a well-formed XML document.">
+XHTML format
+</span>
+)</h3>
+<hr width="40%" align="left" />
+<h3>Introduction</h3>
+<blockquote><small><b>RW4XML</b> or <u>Resume Wizard for XML</u>, is used to
+create a <u>template XML</u> and a <u>template XSL file</u> which will display a
+<u>finished resume</u> within an MSIE browser.<br /><br />
+RW4XML creates files <u>intended to be edited in NotePad</u>, or with
+<u>any other XML editing tools</u> after your first
+template is created and saved. <br /><br />
+This sample project includes a <u>DTD</u>, a <u>Schema</u>, a <u>generated XSL
+transform file</u>,  as well as the <u>source code for the Visual Basic</u> to enable
+you to modify the template in any way you wish!<br /><br />
+This is only the first version of RW4XML, which will undoubtedly
+progress and evolve through the coming months and years. <br /><br />
+Please send suggestions and feedback to <b>dobe@eskimo.com</b> and mark the subject
+line: <u>Dobe's XML_Resume_VB project</u><br /><br />
+Thanks for taking a look at my project.</small>
+</blockquote>
+<hr width="40%" align="left" />
+<ul>
+ <li><a href="#RW4XML_Screenshot">Screenshot of XML_Resume_VB running</a></li>
+ <li><a href="#RW4XML_Res_Browser">Screenshot of final Resume in Browser</a></li>
+ <li>
+ <a  title="Check out the graphics showing the Structure of the Schema!"
+     href="#RW4XML_DTD">The text of the DTD file</a></li>
+ <li><a href="#RW4XML_SCHEMA">The text of the (alternative) SCHEMA file</a></li>
+ <li><a href="#RW4XML_XML">The text of the XML file</a></li>
+ <li><a href="#RW4XML_XSL">The text of the XSL file</a></li>
+ <li><a href="#RW4XML_VB_Source">The text of the VB 6.0 source code</a></li>
+ <li >
+ <a title="If this link doesn't work, generate your own and put it in the application\help directory!"
+    href="resume_default.xml" target="_new">Actual file generated with default values in RW4XML</a></li>
+ <li >
+ <a title="Please submit feedback and suggestions to 'dobe@eskimo.com'"
+    href="resume_dobe.xml" target="_new">My own resume generated with RW4XML</a> (Unmodified)</li>
+</ul>
+
+<hr width="40%" align="left" />
+<div id="RW4XML_Screenshot"><a href="#RW4XML_top">Back to Top</a></div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The running <b>XML_Resume_VB</b> program<br /><br /></div>
+<IMG alt="Dobe Doinat's XML_Resume_VB Wizard"
+     src="RW4XML_Screenshot.jpg" /><br /><br />
+
+<hr width="40%" align="left" />
+<div id="RW4XML_Res_Browser"><a href="#RW4XML_top">Back to Top</a></div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <b>XML_Resume_VB</b> output, displayed in MSIE browser<br /><br /></div>
+<IMG alt="Dobe Doinat's XML_Resume_VB Wizard Output: Print Preview Screenshot "
+     src="RW4XML_PrintPreviewScreenshot.jpg" /><br /><br />
+
+<table border="0">
+
+<tr>
+<td align="left" valign="top">
+
+<hr width="40%" align="left" />
+<div id="RW4XML_DTD"><a href="#RW4XML_top">Back to Top</a></div>
+
+<ul>
+ <li><a href="#RW4XML_Graph1">The "<b>resume/header</b>" elements in the DTD</a></li>
+ <li><a href="#RW4XML_Graph2">The "<b>resume/name</b>" element in the DTD</a></li>
+ <li><a href="#RW4XML_Graph3">The "<b>resume/docbody/objective</b>" elements in the DTD</a></li>
+ <li><a href="#RW4XML_Graph4">The "<b>resume/docbody/education/college</b>" elements in the DTD</a></li>
+ <li><a href="#RW4XML_Graph5">The "<b>resume/docbody/experience/company</b>" elements in the DTD</a></li>
+ <li><a href="#RW4XML_Graph6">The "<b>resume/docbody/experience/distinctions</b>" elements in the DTD</a></li>
+</ul>
+
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="top">
+
+<b>The Document Type Definition file looks like this:</b><br /><br />
+<small>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT resume  (header , name , docbody )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT header  (street , city , state , zipCode , phone , email )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT street  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT city  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT state  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT zipCode  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT phone  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT email  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT name  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT docbody  (objective , education , experience )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT objective  (primary , secondary , location , note1 , note2 )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT primary  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT secondary  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT location  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT note1  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT note2  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT education  (college )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT college  (collegeName , townState , years , program , note1 , note2 )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT collegeName  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT townState  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT years  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT program  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ATTLIST program  GPA CDATA  #REQUIRED &gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT experience  (company , distinctions )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT company  (companyName , townState , years , position , note1 , note2 )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT companyName  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT position  (#PCDATA )&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!ELEMENT distinctions  (note1 , note2 )&gt;</small>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+
+<hr width="40%" align="left" />
+<div id="RW4XML_SCHEMA"><a href="#RW4XML_top">Back to Top</a></div>
+<br />
+<b>An alternative to the Document Type Definition is a .XSD file called a "Schema" and it looks like this:</b><br /><br />
+<small>
+&nbsp;&lt;?xml version ="1.0"?&gt;<br />
+&nbsp;&lt;!-- Conforms to w3c http://www.w3.org/TR/xmlschema-1/ --&gt;<br />
+&nbsp;&lt;schema targetNamespace = "resume_test.xsd"<br />
+&nbsp;&nbsp; xmlns = "http://www.w3.org/1999/05/06-xmlschema-1/structures.xsd"&gt;<br />
+&nbsp;&nbsp;&lt;element name = "resume"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;type content = "elementOnly"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;group order = "seq"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "header"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "name"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "docbody"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/group&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/type&gt;<br />
+&nbsp;&nbsp;&lt;/element&gt;<br />
+<br />
+&nbsp;&nbsp;&lt;element name = "header"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;type content = "elementOnly"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;group order = "seq"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "street"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "city"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "state"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "zipCode"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "phone"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "email"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/group&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/type&gt;<br />
+&nbsp;&nbsp;&lt;/element&gt;<br />
+<br />
+&nbsp;&nbsp;&lt;element name = "street" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "city" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "state" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "zipCode" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "phone" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "email" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "name" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "docbody"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;type content = "elementOnly"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;group order = "seq"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "objective"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "education"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "experience"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/group&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/type&gt;<br />
+&nbsp;&nbsp;&lt;/element&gt;<br />
+<br />
+&nbsp;&nbsp;&lt;element name = "objective"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;type content = "elementOnly"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;group order = "seq"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "primary"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "secondary"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "location"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "note1"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "note2"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/group&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/type&gt;<br />
+&nbsp;&nbsp;&lt;/element&gt;<br />
+<br />
+&nbsp;&nbsp;&lt;element name = "primary" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "secondary" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "location" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "note1" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "note2" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "education"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;type content = "elementOnly"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;group order = "seq"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "college"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/group&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/type&gt;<br />
+&nbsp;&nbsp;&lt;/element&gt;<br />
+<br />
+&nbsp;&nbsp;&lt;element name = "college"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;type content = "elementOnly"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;group order = "seq"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "collegeName"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "townState"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "years"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "program"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "note1"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "note2"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/group&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/type&gt;<br />
+&nbsp;&nbsp;&lt;/element&gt;<br />
+<br />
+&nbsp;&nbsp;&lt;element name = "collegeName" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "townState" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "years" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "program"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;type content = "textOnly"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;attribute name = "GPA" minOccurs = "1" type = "string"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/type&gt;<br />
+&nbsp;&nbsp;&lt;/element&gt;<br />
+<br />
+&nbsp;&nbsp;&lt;element name = "experience"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;type content = "elementOnly"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;group order = "seq"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "company"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "distinctions"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/group&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/type&gt;<br />
+&nbsp;&nbsp;&lt;/element&gt;<br />
+<br />
+&nbsp;&nbsp;&lt;element name = "company"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;type content = "elementOnly"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;group order = "seq"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "companyName"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "townState"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "years"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "position"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "note1"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "note2"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/group&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/type&gt;<br />
+&nbsp;&nbsp;&lt;/element&gt;<br />
+<br />
+&nbsp;&nbsp;&lt;element name = "companyName" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "position" type = "string"/&gt;<br />
+&nbsp;&nbsp;&lt;element name = "distinctions"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;type content = "elementOnly"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;group order = "seq"&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "note1"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;element ref = "note2"/&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/group&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/type&gt;<br />
+&nbsp;&nbsp;&lt;/element&gt;<br />
+<br />
+&nbsp;&lt;/schema&gt;<br />
+
+</small><br /><br /><div>
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="top">
+<div id="RW4XML_Graph1">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>The "<b>resume/header</b>" elements in the DTD:</u><br /><br /></div>
+<IMG alt="Header in DTD"
+     src="ResumeHeader.gif" /><br /><br />
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="top">
+<div id="RW4XML_Graph2">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>The "<b>resume/name</b>" element in the DTD:</u><br /><br /></div>
+<IMG alt="Objective in DTD"
+     src="ResumeName.gif" /><br /><br />
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="top">
+<div id="RW4XML_Graph3">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>The "<b>resume/docbody/objective</b>" elements in the DTD:</u><br /><br /></div>
+<IMG alt="Objective in DTD"
+     src="ResumeDocbodyObjective.gif" /><br /><br />
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="top">
+<div id="RW4XML_Graph4">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>The "<b>resume/docbody/education/college</b>" elements in the DTD:</u><br /><br /></div>
+<IMG alt="Objective in DTD"
+     src="ResumeDocbodyEducationCollege.gif" /><br /><br />
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="top">
+<div id="RW4XML_Graph5">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>The "<b>resume/docbody/experience/company</b>" elements in the DTD:</u><br /><br /></div>
+<IMG alt="Objective in DTD"
+     src="ResumeDocbodyExperienceCompany.gif" /><br /><br />
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="top">
+<div id="RW4XML_Graph6">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>The "<b>resume/docbody/experience/distinctions</b>" elements in the DTD:</u><br /><br /></div>
+<IMG alt="Objective in DTD"
+     src="ResumeDocbodyExperienceDistinctions.gif" /><br /><br />
+</td>
+</tr>
+
+
+<tr>
+<td align="left" valign="top">
+<hr width="40%" align="left" />
+<div id="RW4XML_XML"><a href="#RW4XML_top">Back to Top</a></div>
+
+<b>The XML file looks like this:</b><br /><br />
+<small>
+&lt;?xml version='1.0' encoding='ISO8859-1' standalone='no'?&gt;<br />
+&nbsp;&lt;?xml-stylesheet type='text/xsl' href='<b>resume_test.xsl</b>' ?&gt;<br />
+&lt;!-- Generated by Dobe's Resume Wizard for XML --&gt;<br /><br />
+
+&nbsp;&nbsp;&lt;resume&gt;<br /><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp; &lt;header&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;street&gt;418 Avenue H&lt;/street&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;city&gt;Snohomish&lt;/city&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;state&gt;WA&lt;/state&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;zipCode&gt;98290&lt;/zipCode&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;phone&gt;360-568-0336&lt;/phone&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;email&gt;dobe@eskimo.com&lt;/email&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp; &lt;/header&gt;<br /><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp; &lt;name&gt;John W. Hartman &lt;/name&gt;<br /><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp; &lt;docbody&gt;<br /><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;objective&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;primary&gt;Application and Web Development &lt;/primary&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;secondary&gt;Automation, API Support, Documentation, Quality Control, Troubleshooting&lt;/secondary&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;location&gt;Everett / Bellevue / Seattle area &lt;/location&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;note1&gt;&lt;/note1&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;note2&gt;&lt;/note2&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;/objective&gt;<br /><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;education&gt;<br /><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;college&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;collegeName&gt;Everett Community College &lt;/collegeName&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;townState&gt;Everett, WA &lt;/townState&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;years&gt;1999-2000&lt;/years&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;program GPA='0.0'&gt;Advanced Programming Certificate &lt;/program&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;note1&gt;Visual Basic, Java, C++, API, SQL, XHTML, XML, XSLT, &lt;/note1&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;note2&gt;Systems Analysis and Design, Access, Excel, Word, VBA, Interpersonal Communications (5 Quarters) &lt;/note2&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;/college&gt;<br /><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;/education&gt;<br /><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;experience&gt;<br /><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;company&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;companyName&gt;Attachmate &lt;/companyName&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;townState&gt;Bellevue, WA &lt;/townState&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;years&gt;2000-2001&lt;/years&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;position&gt;API Team Developer Support &lt;/position&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;note1&gt;Telephone helpdesk team member in API support division for Attachmate core host-to-terminal product applications and interfaces, using OLE, HLLAPI, and Objects in various environments and languages including EXTRA!Basic, Visual Basic6, ASP, XHTML, Java, XML, JavaScript, VBScript and more on virtually every Win9X, WinNT and Win2K Operating System platform and version.  &lt;/note1&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &lt;note2&gt;Assisted in Quality Control testing and documentation review of (Beta version) Enterprise Application Integration (EAI) software. &lt;/note2&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;/company&gt;<br /><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;distinctions&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;note1&gt;Maintain Archive online http://www.eskimo.com/~dobe/ since 1996 &lt;/note1&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;note2&gt;Ranked 4 Kyu GO Player by American GO Association &lt;/note2&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;/distinctions&gt;<br /><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &lt;/experience&gt;<br /><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp; &lt;/docbody&gt;<br /><br />
+
+&nbsp;&nbsp;&lt;/resume&gt;<br />
+<br />
+
+</small>
+
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="top">
+<hr width="40%" align="left" />
+<div id="RW4XML_XSL"><a href="#RW4XML_top">Back to Top</a></div>
+
+<b>The XSL file looks like this:</b><br /><br />
+<small>
+
+&lt;?xml version='1.0'?&gt;<br />
+ &lt;!-- Generated by Dobe's Resume Wizard for XML --&gt; <br />
+ &lt;xsl:stylesheet <br />
+      xmlns:xsl='http://www.w3.org/TR/WD-xsl' <br />
+      xmlns:xtxsl='http://www.w3.org/XSL/Transform/1.0' <br />
+      xmlns:msxsl='http://www.w3.org/TR/WD-xsl' <br />
+      xmlns:fo='http://www.w3.org/1999/XSL/Format' <br />
+       result-ns=''&gt;<br />
+  &lt;xsl:template match=' / '&gt;<br />
+    &lt;html&gt; <br />
+      &lt;head&gt;<br />
+        &lt;title&gt;&lt;xsl:value-of select='resume/title' /&gt;&lt;/title&gt;<br />
+       &lt;style type='text/css'&gt;<br />
+         a:link {color: blue; text-decoration:none;}<br />
+         a:visited {color:blue; text-decoration:none;}<br />
+         a:active {color:red; text-decoration:none background:lightgreen;}<br />
+         body {background:ghostwhite; font-family: ariel | helvetica | serif;}<br />
+         table {background:ghostwhite;}<br />
+         h1 {font-size:150%; color:black;}<br />
+         h2 {font-size:115%; color:black;}<br />
+         div.objectiveMain {font-size:120%; color:black; font-weight:bold; vertical-align:top;}<br />
+         div.objectiveSkillset {font-size:100%; color:black; vertical-align:top;}<br />
+         h1.Name {font-size:200%; color:black;}<br />
+         td.Header {font-style:italic; font-size:80%; color:black; vertical-align:top;}<br />
+         td.GPA {font-size:80%; color:black; vertical-align:top;}<br />
+         td.College {font-size:100%; color:black; font-weight:bold; vertical-align:top;}<br />
+         td.CollegeName {font-size:110%; color:black; font-weight:bold; vertical-align:top;}<br />
+         td.CompanyName {font-size:110%; color:black; font-weight:bold; vertical-align:top;}<br />
+         td.CollegeNotes {font-size:90%; color:black; vertical-align:top;}<br />
+         td.CompanyNotes {font-size:90%; color:black; vertical-align:top;}<br />
+         td.CollegeYears {font-size:90%; color:black; vertical-align:top;}<br />
+         td.CompanyYears {font-size:90%; color:black; vertical-align:top;}<br />
+         td.Company {font-size:100%; color:black; font-weight:bold; vertical-align:top;}<br />
+         td.CompanyPosition {font-size:100%; color:black; font-weight:bold; vertical-align:top;}<br />
+         td.distinctionNotes {font-size:90%; color:black; vertical-align:top;}<br />
+       &lt;/style&gt;<br />
+      &lt;/head&gt;<br />
+      &lt;body&gt;<br />
+       &lt;table border='0' width='90%'&gt;<br />
+        &lt;tr align='right'&gt;<br />
+         &lt;td&gt;&#160;<br />
+         &lt;/td&gt;<br />
+         &lt;td class='header'&gt;<br />
+&lt;!-- Italic, right-aligned, address, phone, email --&gt;<br />
+        &lt;xsl:value-of select='resume/header/street' /&gt;&lt;br /&gt;<br />
+        &lt;xsl:value-of select='resume/header/city' /&gt;,<br />
+        &lt;xsl:value-of select='resume/header/state' /&gt;.<br />
+        &lt;xsl:value-of select='resume/header/zipCode' /&gt;&lt;br /&gt;<br />
+        &lt;xsl:value-of select='resume/header/phone' /&gt;&lt;br /&gt;<br />
+        &lt;xsl:value-of select='resume/header/email' /&gt;&lt;br /&gt;&lt;br /&gt;<br />
+         &lt;/td&gt;<br />
+        &lt;/tr&gt;<br />
+&lt;!-- Big font for name, with &lt;hr&gt; --&gt;<br />
+        &lt;tr align='left'&gt;<br />
+         &lt;td colspan='2'&gt;<br />
+        &lt;h1 class='Name'&gt;&lt;xsl:value-of select='resume/name' /&gt;<br />
+        &lt;hr width='100%' /&gt;<br />
+        &lt;/h1&gt;<br />
+         &lt;/td&gt;<br />
+         &lt;td&gt;<br />
+         &lt;/td&gt;<br />
+        &lt;/tr&gt;<br />
+        &lt;tr valign='top' height='100'&gt;<br />
+&lt;!-- Begin OBJECTIVE Table --&gt;<br />
+         &lt;td&gt;<br />
+        &lt;h2&gt;&lt;b&gt;Objective:&lt;/b&gt;&lt;/h2&gt;<br />
+         &lt;/td&gt;<br />
+         &lt;td&gt;<br />
+         &lt;table border='0' cellspacing='0' cellpadding='0' width='100%'&gt;<br />
+          &lt;tr&gt;<br />
+           &lt;td&gt;<br />
+        &lt;div class='objectiveMain'&gt;<br />
+         &lt;xsl:value-of select='resume/docbody/objective/primary' /&gt;<br />
+        &lt;/div&gt;<br />
+         &lt;xsl:value-of select='resume/docbody/objective/secondary' /&gt;&lt;br /&gt;<br />
+         &lt;xsl:value-of select='resume/docbody/objective/location' /&gt;&lt;br /&gt;<br />
+         &lt;xsl:value-of select='resume/docbody/objective/note1' /&gt;&lt;br /&gt;<br />
+         &lt;xsl:value-of select='resume/docbody/objective/note2' /&gt;<br />
+ <br />
+           &lt;/td&gt;<br />
+          &lt;/tr&gt;<br />
+         &lt;/table&gt;<br />
+         &lt;/td&gt;<br />
+        &lt;/tr&gt;<br />
+&lt;!-- Begin EDUCATION Table --&gt;<br />
+        &lt;tr valign='top' height='150'&gt;<br />
+         &lt;td&gt;<br />
+&lt;!--  &horizontalTab; = &#09;  --&gt;<br />
+        &lt;h2&gt;&lt;b&gt;Education:&lt;/b&gt;&lt;/h2&gt;<br />
+         &lt;/td&gt;<br />
+         &lt;td&gt;<br />
+        &lt;!-- Begin XSL:FOR-EACH Element for EDUCATION   --&gt;<br />
+        &lt;xsl:for-each select='resume/docbody/education/college'&gt;<br />
+ <br />
+         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;<br />
+          &lt;tr&gt;<br />
+           &lt;td class='CollegeName' width='60%'&gt;<br />
+             &lt;xsl:value-of select='././collegeName' /&gt;<br />
+           &lt;/td&gt;<br />
+           &lt;td class='College' width='25%' align='left'&gt;<br />
+            &lt;xsl:value-of select='././townState' /&gt;<br />
+           &lt;/td&gt;<br />
+           &lt;td class='CollegeYears' width='15%' align='right'&gt;<br />
+            &lt;xsl:value-of select='././years' /&gt;<br />
+ <br />
+           &lt;/td&gt;<br />
+          &lt;/tr&gt;<br />
+         &lt;/table&gt;<br />
+ <br />
+         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;<br />
+          &lt;tr&gt;<br />
+           &lt;td width='70%' align='left'&gt;<br />
+            &lt;b&gt;&lt;xsl:value-of select='././program' /&gt;&lt;/b&gt;<br />
+           &lt;/td&gt;<br />
+           &lt;td class='GPA' width='30%' align='right'&gt;<br />
+        &lt;xsl:value-of select='././program/@GPA/text()' /&gt;&#160;GPA<br />
+           &lt;/td&gt;<br />
+          &lt;/tr&gt;<br />
+         &lt;/table&gt;<br />
+         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;<br />
+          &lt;tr&gt;<br />
+           &lt;td class='CollegeNotes' align='left'&gt;<br />
+            &lt;xsl:value-of select='././note1' /&gt;<br />
+           &lt;/td&gt;<br />
+          &lt;/tr&gt;<br />
+ <br />
+         &lt;/table&gt;<br />
+         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;<br />
+          &lt;tr&gt;<br />
+           &lt;td class='CollegeNotes' align='left'&gt;<br />
+            &lt;xsl:value-of select='././note2' /&gt;<br />
+ <br />
+           &lt;/td&gt;<br />
+          &lt;/tr&gt;<br />
+         &lt;/table&gt;<br />
+ <br />
+        &lt;xsl:apply-templates /&gt;<br />
+        &lt;/xsl:for-each&gt;<br />
+        &lt;!-- End XSL:FOR-EACH Element   --&gt;<br />
+         &lt;/td&gt;<br />
+        &lt;/tr&gt;<br />
+ <br />
+&lt;!-- Begin EXPERIENCE Table --&gt;<br />
+        &lt;tr valign='top' height='150'&gt;<br />
+         &lt;td&gt;<br />
+        &lt;h2&gt;&lt;b&gt;Experience:&lt;/b&gt;&lt;/h2&gt;<br />
+         &lt;/td&gt;<br />
+         &lt;td&gt;<br />
+        &lt;!-- Begin XSL:FOR-EACH Element for EXPERIENCE  --&gt;<br />
+        &lt;xsl:for-each select='resume/docbody/experience/company'&gt;<br />
+         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;<br />
+          &lt;tr&gt;<br />
+           &lt;td class='CompanyName' width='60%' valign='top'&gt;<br />
+             &lt;xsl:value-of select='././companyName/text()' /&gt;<br />
+           &lt;/td&gt;<br />
+          &lt;td class='Company' width='25%' align='left'&gt;<br />
+            &lt;xsl:value-of select='././townState' /&gt;<br />
+           &lt;/td&gt;<br />
+           &lt;td class='CompanyYears' width='15%' align='right'&gt;<br />
+            &lt;xsl:value-of select='././years' /&gt;<br />
+           &lt;/td&gt;<br />
+          &lt;/tr&gt;<br />
+         &lt;/table&gt;<br />
+         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;<br />
+          &lt;tr&gt;<br />
+           &lt;td class='CompanyPosition' align='left'&gt;<br />
+ <br />
+            &lt;xsl:value-of select='././position' /&gt;<br />
+           &lt;/td&gt;<br />
+          &lt;/tr&gt;<br />
+         &lt;/table&gt;<br />
+         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;<br />
+          &lt;tr&gt;<br />
+           &lt;td class='CompanyNotes' align='left'&gt;<br />
+ <br />
+            &lt;xsl:value-of select='././note1' /&gt;<br />
+           &lt;/td&gt;<br />
+          &lt;/tr&gt;<br />
+ <br />
+        &lt;/table&gt;<br />
+         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;<br />
+          &lt;tr&gt;<br />
+           &lt;td class='CompanyNotes' align='left'&gt;<br />
+            &lt;xsl:value-of select='././note2' /&gt;<br />
+           &lt;/td&gt;<br />
+          &lt;/tr&gt;<br />
+         &lt;/table&gt;<br />
+        &lt;xsl:apply-templates /&gt;<br />
+        &lt;/xsl:for-each&gt;<br />
+        &lt;!-- End XSL:FOR-EACH Element   --&gt;<br />
+        &lt;/td&gt;<br />
+        &lt;/tr&gt;<br />
+&lt;!-- Begin DISTINCTIONS Table --&gt;<br />
+        &lt;tr valign='top' height='150'&gt;<br />
+         &lt;td&gt;<br />
+        &lt;h2&gt;&lt;b&gt;Distinctions:&lt;/b&gt;&lt;/h2&gt;<br />
+ <br />
+         &lt;/td&gt;<br />
+         &lt;td&gt;<br />
+       &lt;table border='0' align='left' cellspacing='1' cellpadding='3' &gt;<br />
+        &lt;tr&gt;<br />
+         &lt;td class='distinctionNotes'&gt;<br />
+           &lt;xsl:value-of select='resume/docbody/experience/distinctions/note1' /&gt;  &lt;br /&gt;<br />
+           &lt;xsl:value-of select='resume/docbody/experience/distinctions/note2' /&gt;  &lt;br /&gt;<br />
+        &lt;xsl:apply-templates /&gt;<br />
+        &lt;/td&gt;<br />
+        &lt;/tr&gt;<br />
+       &lt;/table&gt;<br />
+ <br />
+        &lt;/td&gt;<br />
+        &lt;/tr&gt;<br />
+ <br />
+       &lt;/table&gt;<br />
+ <br />
+      &lt;/body&gt;<br />
+    &lt;/html&gt;<br />
+        &lt;xsl:apply-templates /&gt;<br />
+  &lt;/xsl:template&gt;<br />
+ &lt;/xsl:stylesheet&gt;<br />
+<br />
+
+</small>
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="top">
+<hr width="40%" align="left" />
+<div id="RW4XML_VB_Source"><a href="#RW4XML_top">Back to Top</a></div>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>A screenshot of this Project</b> in development:<br /><br /></div>
+<IMG alt="Coding in Visual Basic 6.0"
+     src="RW4XML_VB_Form_Screenshot.jpg" /><br /><br />
+
+
+
+
+<b>The VB code looks like this:</b><br /><br />
+<small>
+
+Option Explicit<br />
+Const gOpenPathNameBrowser As String = "c:\progra~1\Intern~1\iexplore.exe "<br />
+<br />
+Private Sub mnuFileExit_Click()<br />
+Unload Me<br />
+End Sub<br />
+<br />
+Private Sub mnuHelpAbout_Click()<br />
+frmAbout.Visible = True<br />
+End Sub<br />
+<br />
+Private Sub mnuHelpDocHTA_Click()<br />
+Dim strHelpPath As String<br />
+<br />
+'Adjust path as required for your system to open Microsoft Internet Explorer Browser<br />
+strHelpPath = gOpenPathNameBrowser & App.Path & "\help\XML_Resume_VB.hta"<br />
+'Since this is an application (.hta) then Microsoft Internet Explorer Browser<br />
+'will offer to download it or open it. Simply open it, it's only simple XHTML.<br />
+<br />
+        Shell strHelpPath, 1<br />
+<br />
+End Sub<br />
+<br />
+Private Sub mnuHelpContents_Click()<br />
+Dim strHelpPath As String<br />
+<br />
+'Adjust path as required for your system to open Microsoft Internet Explorer Browser<br />
+strHelpPath = gOpenPathNameBrowser & App.Path & "\help\XML_Resume_VB.html"<br />
+'Simple XHTML in browser. This may evolve into true Help as time allows.<br />
+<br />
+        Shell strHelpPath, 1<br />
+<br />
+<br />
+End Sub<br />
+<br />
+Private Sub cmdShowResults_Click()<br />
+Dim str As String<br />
+'*********************************************************************************<br />
+str = ""<br />
+str = str & "&lt;?xml version='1.0' encoding='ISO8859-1' standalone='no'?&gt;" & vbCrLf<br />
+str = str & "&lt;?xml-stylesheet type='text/xsl' href='resume_test.xsl' ?&gt;" & vbCrLf<br />
+'&lt;!DOCTYPE resume SYSTEM "DobeResume.dtd"&gt;<br />
+str = str & "&lt;!-- Generated by Dobe's Resume Wizard for XML --&gt;" & vbCrLf<br />
+str = str & "&lt;resume&gt;" & vbCrLf<br />
+<br />
+str = str & " &lt;header&gt;" & vbCrLf<br />
+str = str & "  &lt;street&gt;" & txtResumeStreet.Text & "&lt;/street&gt;" & vbCrLf<br />
+str = str & "  &lt;city&gt;" & txtResumeLoc.Text & "&lt;/city&gt;" & vbCrLf<br />
+str = str & "  &lt;state&gt;" & txtResumeState.Text & "&lt;/state&gt;" & vbCrLf<br />
+str = str & "  &lt;zipCode&gt;" & txtResumeZip.Text & "&lt;/zipCode&gt;" & vbCrLf<br />
+str = str & "  &lt;phone&gt;" & txtResumePhone.Text & "&lt;/phone&gt;" & vbCrLf<br />
+str = str & "  &lt;email&gt;" & txtResumeEmail.Text & "&lt;/email&gt;" & vbCrLf<br />
+str = str & " &lt;/header&gt;" & vbCrLf<br />
+<br />
+str = str & " &lt;name&gt;" & txtResumeName.Text & " &lt;/name&gt;" & vbCrLf<br />
+<br />
+str = str & " &lt;docbody&gt;" & vbCrLf<br />
+<br />
+str = str & "  &lt;objective&gt;" & vbCrLf<br />
+str = str & "    &lt;primary&gt;" & txtObjectivePrimary.Text & "&lt;/primary&gt;" & vbCrLf<br />
+str = str & "    &lt;secondary&gt;" & txtObjectiveSecondary.Text & "&lt;/secondary&gt;" & vbCrLf<br />
+str = str & "    &lt;location&gt;" & txtObjectiveLocation.Text & "&lt;/location&gt;" & vbCrLf<br />
+str = str & "    &lt;note1&gt;" & txtObjectiveNote1.Text & "&lt;/note1&gt;" & vbCrLf<br />
+str = str & "    &lt;note2&gt;" & txtObjectiveNote2.Text & "&lt;/note2&gt;" & vbCrLf<br />
+str = str & "  &lt;/objective&gt;" & vbCrLf<br />
+<br />
+str = str & "  &lt;education&gt;" & vbCrLf<br />
+<br />
+str = str & "  &lt;college&gt;" & vbCrLf<br />
+str = str & "    &lt;collegeName&gt;" & txtEdName.Text & "&lt;/collegeName&gt;" & vbCrLf<br />
+str = str & "    &lt;townState&gt;" & txtEdLoc.Text & "&lt;/townState&gt;" & vbCrLf<br />
+str = str & "    &lt;years&gt;" & txtEdYears.Text & "&lt;/years&gt;" & vbCrLf<br />
+str = str & "    &lt;program GPA='0.0'&gt;" & txtEdProgram.Text & "&lt;/program&gt;" & vbCrLf<br />
+str = str & "    &lt;note1&gt;" & txtEdNote1.Text & "&lt;/note1&gt;" & vbCrLf<br />
+str = str & "    &lt;note2&gt;" & txtEdNote2.Text & "&lt;/note2&gt;" & vbCrLf<br />
+str = str & "  &lt;/college&gt;" & vbCrLf<br />
+<br />
+str = str & "  &lt;/education&gt;" & vbCrLf<br />
+<br />
+str = str & "  &lt;experience&gt;" & vbCrLf<br />
+<br />
+str = str & "  &lt;company&gt;" & vbCrLf<br />
+str = str & "    &lt;companyName&gt;" & txtExpCoName.Text & "&lt;/companyName&gt;" & vbCrLf<br />
+str = str & "    &lt;townState&gt;" & txtExpLoc.Text & "&lt;/townState&gt;" & vbCrLf<br />
+str = str & "    &lt;years&gt;" & txtExpYears.Text & "&lt;/years&gt;" & vbCrLf<br />
+str = str & "    &lt;position&gt;" & txtExpPosition.Text & "&lt;/position&gt;" & vbCrLf<br />
+str = str & "    &lt;note1&gt;" & txtExpNote1.Text & "&lt;/note1&gt;" & vbCrLf<br />
+str = str & "    &lt;note2&gt;" & txtExpNote2.Text & "&lt;/note2&gt;" & vbCrLf<br />
+str = str & "  &lt;/company&gt;" & vbCrLf<br />
+<br />
+str = str & "  &lt;distinctions&gt;" & vbCrLf<br />
+str = str & " &lt;note1&gt;" & txtDistNote1.Text & "&lt;/note1&gt;" & vbCrLf<br />
+str = str & " &lt;note2&gt;" & txtDistNote2.Text & "&lt;/note2&gt;" & vbCrLf<br />
+str = str & "  &lt;/distinctions&gt;" & vbCrLf<br />
+<br />
+str = str & "  &lt;/experience&gt;" & vbCrLf<br />
+<br />
+<br />
+str = str & " &lt;/docbody&gt;" & vbCrLf<br />
+<br />
+str = str & "&lt;/resume&gt;" & vbCrLf<br />
+<br />
+'frmWizard.Visible = False<br />
+'MsgBox "Verifying data now!", vbOKOnly<br />
+'<br />
+'******************************************************************************<br />
+subWriteXSLFile<br />
+subWriteXMLFile (str)<br />
+'******************************************************************************<br />
+'<br />
+End Sub<br />
+<br />
+Private Sub cmdStartBlankText_Click()<br />
+subWriteFieldBlanks<br />
+End Sub<br />
+<br />
+Private Sub cmdStartDefaultText_Click()<br />
+subWriteFieldDefaults<br />
+End Sub<br />
+<br />
+Private Sub Form_Load()<br />
+subWriteFieldDefaults<br />
+End Sub<br />
+<br />
+Public Sub subWriteFieldDefaults()<br />
+Dim file_path As String<br />
+<br />
+    file_path = App.Path<br />
+    If right$(file_path, 1) &lt;&gt; "\" Then _<br />
+        file_path = file_path & "\"<br />
+    txtPathName.Text = file_path & "output\"<br />
+    txtFileName.Text = "resume_test.xml"<br />
+    <br />
+<br />
+txtResumeName.Text = "First Middle Last"<br />
+txtResumeStreet.Text = "123 Street"<br />
+txtResumeLoc.Text = "Example City"<br />
+txtResumePhone.Text = "123-456-7890"<br />
+txtResumeEmail.Text = "email@ISP.com"<br />
+txtResumeState.Text = "ST"<br />
+txtResumeZip.Text = "12345"<br />
+<br />
+txtObjectivePrimary.Text = "Type of Employment"<br />
+txtObjectiveSecondary.Text = "Skill Set, Secondary Objective"<br />
+txtObjectiveLocation.Text = "Location Objective"<br />
+txtObjectiveNote1.Text = "Note1"<br />
+txtObjectiveNote2.Text = "Note2"<br />
+<br />
+txtEdName.Text = "Name of Institution"<br />
+txtEdYears.Text = "1999-2001"<br />
+txtEdLoc.Text = "City, State"<br />
+txtEdProgram.Text = "Title of Certification"<br />
+txtEdNote1.Text = "Note1"<br />
+txtEdNote2.Text = "Note2"<br />
+<br />
+txtExpCoName.Text = "Name of Institution"<br />
+txtExpYears.Text = "1999-2001"<br />
+txtExpLoc.Text = "City, State"<br />
+txtExpPosition.Text = "Title of Position"<br />
+txtExpNote1.Text = "Note1"<br />
+txtExpNote2.Text = "Note2"<br />
+<br />
+txtDistNote1.Text = "Distinctive Orders"<br />
+txtDistNote2.Text = "Cannot recommend this person too highly!"<br />
+<br />
+End Sub<br />
+<br />
+Public Sub subWriteFieldBlanks()<br />
+txtResumeName.Text = ""<br />
+txtResumeStreet.Text = ""<br />
+txtResumeLoc.Text = ""<br />
+txtResumePhone.Text = ""<br />
+txtResumeEmail.Text = ""<br />
+txtResumeState.Text = ""<br />
+txtResumeZip.Text = ""<br />
+<br />
+txtObjectivePrimary.Text = ""<br />
+txtObjectiveSecondary.Text = ""<br />
+txtObjectiveLocation.Text = ""<br />
+txtObjectiveNote1.Text = ""<br />
+txtObjectiveNote2.Text = ""<br />
+<br />
+txtExpCoName.Text = ""<br />
+txtEdYears.Text = ""<br />
+txtEdLoc.Text = ""<br />
+txtEdProgram.Text = ""<br />
+txtEdNote1.Text = ""<br />
+txtEdNote2.Text = ""<br />
+<br />
+txtEdName.Text = ""<br />
+txtExpYears.Text = ""<br />
+txtExpLoc.Text = ""<br />
+txtExpPosition.Text = ""<br />
+txtExpNote1.Text = ""<br />
+txtExpNote2.Text = ""<br />
+<br />
+txtDistNote1.Text = ""<br />
+txtDistNote2.Text = ""<br />
+<br />
+txtPathName.Text = App.Path & "\output\"<br />
+txtFileName.Text = "resume_test.xml"<br />
+End Sub<br />
+<br />
+<br />
+Private Sub subWriteXMLFile(str As String)<br />
+Dim fileNum As Integer<br />
+Dim txt As String<br />
+Dim strNewWriteFilePath As String<br />
+Dim strNewReadLocation As String<br />
+<br />
+ ' Put in error code here to catch directory not created*************************<br />
+    strNewWriteFilePath = txtPathName.Text & txtFileName.Text<br />
+<br />
+'   get an available file number<br />
+   fileNum = FreeFile<br />
+'   open the file for output<br />
+  ' (change next line if Append is wanted)<br />
+    Open strNewWriteFilePath For Output As #fileNum<br />
+    Print #fileNum, str<br />
+<br />
+'   close the file<br />
+    Close #fileNum<br />
+    <br />
+'Put in WriteStyleSheet()<br />
+<br />
+'Set command line Shell switch for MSIE to open the file!<br />
+'gOpenPathNameBrowser = "c:\progra~1\Intern~1\iexplore.exe "<br />
+'strNewWriteFilePath = txtPathName.Text & txtFileName.Text<br />
+strNewReadLocation = gOpenPathNameBrowser & strNewWriteFilePath<br />
+        <br />
+        Shell strNewReadLocation, 1<br />
+<br />
+End Sub<br />
+<br />
+<br />
+Private Sub subWriteXSLFile()<br />
+Dim fileNum As Integer<br />
+Dim xsl_str As String<br />
+Dim strNewWriteFilePath As String<br />
+<br />
+<br />
+'*********************************************subWriteXSLFile!!!!*********<br />
+        xsl_str = ""<br />
+        xsl_str = xsl_str & "&lt;?xml version='1.0'?&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " &lt;!-- Generated by Dobe's Resume Wizard for XML --&gt; " & vbCrLf<br />
+        xsl_str = xsl_str & " &lt;xsl:stylesheet " & vbCrLf<br />
+        xsl_str = xsl_str & "      xmlns:xsl='http://www.w3.org/TR/WD-xsl' " & vbCrLf<br />
+        xsl_str = xsl_str & "      xmlns:xtxsl='http://www.w3.org/XSL/Transform/1.0' " & vbCrLf<br />
+        xsl_str = xsl_str & "      xmlns:msxsl='http://www.w3.org/TR/WD-xsl' " & vbCrLf<br />
+        xsl_str = xsl_str & "      xmlns:fo='http://www.w3.org/1999/XSL/Format' " & vbCrLf<br />
+        xsl_str = xsl_str & "       result-ns=''&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "  &lt;xsl:template match=' / '&gt;" & vbCrLf<br />
+        'xsl_str = xsl_str & "    &lt;html xmlns='http://www.w3.org/TR/REC-html40' &gt; " & vbCrLf<br />
+        xsl_str = xsl_str & "    &lt;html&gt; " & vbCrLf<br />
+        xsl_str = xsl_str & "      &lt;head&gt;" & vbCrLf<br />
+'MsgBox xsl_str, vbOKOnly<br />
+<br />
+        xsl_str = xsl_str & "        &lt;title&gt;&lt;xsl:value-of select='resume/title' /&gt;&lt;/title&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "       &lt;style type='text/css'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         a:link {color: blue; text-decoration:none;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         a:visited {color:blue; text-decoration:none;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         a:active {color:red; text-decoration:none background:lightgreen;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         body {background:ghostwhite; font-family: ariel | helvetica | serif;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         table {background:ghostwhite;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         h1 {font-size:150%; color:black;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         h2 {font-size:115%; color:black;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         div.objectiveMain {font-size:120%; color:black; font-weight:bold; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         div.objectiveSkillset {font-size:100%; color:black; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         h1.Name {font-size:200%; color:black;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         td.Header {font-style:italic; font-size:80%; color:black; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         td.GPA {font-size:80%; color:black; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         td.College {font-size:100%; color:black; font-weight:bold; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         td.CollegeName {font-size:110%; color:black; font-weight:bold; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         td.CompanyName {font-size:110%; color:black; font-weight:bold; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         td.CollegeNotes {font-size:90%; color:black; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         td.CompanyNotes {font-size:90%; color:black; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         td.CollegeYears {font-size:90%; color:black; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         td.CompanyYears {font-size:90%; color:black; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         td.Company {font-size:100%; color:black; font-weight:bold; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         td.CompanyPosition {font-size:100%; color:black; font-weight:bold; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "         td.distinctionNotes {font-size:90%; color:black; vertical-align:top;}" & vbCrLf<br />
+        xsl_str = xsl_str & "       &lt;/style&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "      &lt;/head&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "      &lt;body&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "       &lt;table border='0' width='90%'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;tr align='right'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;td&gt;&#160;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;td class='header'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "&lt;!-- Italic, right-aligned, address, phone, email --&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;xsl:value-of select='resume/header/street' /&gt;&lt;br /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;xsl:value-of select='resume/header/city' /&gt;," & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;xsl:value-of select='resume/header/state' /&gt;." & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;xsl:value-of select='resume/header/zipCode' /&gt;&lt;br /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;xsl:value-of select='resume/header/phone' /&gt;&lt;br /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;xsl:value-of select='resume/header/email' /&gt;&lt;br /&gt;&lt;br /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "&lt;!-- Big font for name, with &lt;hr&gt; --&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;tr align='left'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;td colspan='2'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;h1 class='Name'&gt;&lt;xsl:value-of select='resume/name' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;hr width='100%' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/h1&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;tr valign='top' height='100'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "&lt;!-- Begin OBJECTIVE Table --&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;h2&gt;&lt;b&gt;Objective:&lt;/b&gt;&lt;/h2&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;table border='0' cellspacing='0' cellpadding='0' width='100%'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;div class='objectiveMain'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;xsl:value-of select='resume/docbody/objective/primary' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/div&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;xsl:value-of select='resume/docbody/objective/secondary' /&gt;&lt;br /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;xsl:value-of select='resume/docbody/objective/location' /&gt;&lt;br /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;xsl:value-of select='resume/docbody/objective/note1' /&gt;&lt;br /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;xsl:value-of select='resume/docbody/objective/note2' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/table&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "&lt;!-- Begin EDUCATION Table --&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;tr valign='top' height='150'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "&lt;!--  &horizontalTab; = &#09;  --&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;h2&gt;&lt;b&gt;Education:&lt;/b&gt;&lt;/h2&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;!-- Begin XSL:FOR-EACH Element for EDUCATION   --&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;xsl:for-each select='resume/docbody/education/college'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;td class='CollegeName' width='60%'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "             &lt;xsl:value-of select='././collegeName' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;td class='College' width='25%' align='left'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "            &lt;xsl:value-of select='././townState' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;td class='CollegeYears' width='15%' align='right'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "            &lt;xsl:value-of select='././years' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/table&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;td width='70%' align='left'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "            &lt;b&gt;&lt;xsl:value-of select='././program' /&gt;&lt;/b&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;td class='GPA' width='30%' align='right'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;xsl:value-of select='././program/@GPA/text()' /&gt;&#160;GPA" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/table&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;td class='CollegeNotes' align='left'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "            &lt;xsl:value-of select='././note1' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/table&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;td class='CollegeNotes' align='left'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "            &lt;xsl:value-of select='././note2' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/table&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;xsl:apply-templates /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/xsl:for-each&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;!-- End XSL:FOR-EACH Element   --&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "&lt;!-- Begin EXPERIENCE Table --&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;tr valign='top' height='150'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;h2&gt;&lt;b&gt;Experience:&lt;/b&gt;&lt;/h2&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;!-- Begin XSL:FOR-EACH Element for EXPERIENCE  --&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;xsl:for-each select='resume/docbody/experience/company'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;td class='CompanyName' width='60%' valign='top'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "             &lt;xsl:value-of select='././companyName/text()' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;td class='Company' width='25%' align='left'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "            &lt;xsl:value-of select='././townState' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;td class='CompanyYears' width='15%' align='right'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "            &lt;xsl:value-of select='././years' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/table&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;td class='CompanyPosition' align='left'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "            &lt;xsl:value-of select='././position' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/table&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;td class='CompanyNotes' align='left'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "            &lt;xsl:value-of select='././note1' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/table&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;table border='0' cellspacing='2' cellpadding='2' width='90%'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;td class='CompanyNotes' align='left'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "            &lt;xsl:value-of select='././note2' /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "          &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/table&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;xsl:apply-templates /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/xsl:for-each&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;!-- End XSL:FOR-EACH Element   --&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "&lt;!-- Begin DISTINCTIONS Table --&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;tr valign='top' height='150'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;h2&gt;&lt;b&gt;Distinctions:&lt;/b&gt;&lt;/h2&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "       &lt;table border='0' align='left' cellspacing='1' cellpadding='3' &gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "         &lt;td class='distinctionNotes'&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;xsl:value-of select='resume/docbody/experience/distinctions/note1' /&gt;  &lt;br /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "           &lt;xsl:value-of select='resume/docbody/experience/distinctions/note2' /&gt;  &lt;br /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;xsl:apply-templates /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "       &lt;/table&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/td&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;/tr&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "       &lt;/table&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " " & vbCrLf<br />
+        xsl_str = xsl_str & "      &lt;/body&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "    &lt;/html&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "        &lt;xsl:apply-templates /&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & "  &lt;/xsl:template&gt;" & vbCrLf<br />
+        xsl_str = xsl_str & " &lt;/xsl:stylesheet&gt;" & vbCrLf<br />
+        <br />
+<br />
+ ' Put in error code here to catch directory not created*************************<br />
+    strNewWriteFilePath = txtPathName.Text & "resume_test.xsl"<br />
+<br />
+'   get an available file number<br />
+   fileNum = FreeFile<br />
+'   open the file for output<br />
+  ' (change next line if Append is wanted)<br />
+    Open strNewWriteFilePath For Output As #fileNum<br />
+    Print #fileNum, xsl_str<br />
+<br />
+'   close the file<br />
+    Close #fileNum<br />
+    <br />
+End Sub<br />
+<br />
+'****************************************BEGIN*GOTFOCUS()*STUFF****<br />
+Private Sub txtResumeName_GotFocus()<br />
+txtResumeName.SelStart = 0<br />
+txtResumeName.SelLength = Len(txtResumeName.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtResumeStreet_GotFocus()<br />
+txtResumeStreet.SelStart = 0<br />
+txtResumeStreet.SelLength = Len(txtResumeStreet.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtResumeLoc_GotFocus()<br />
+txtResumeLoc.SelStart = 0<br />
+txtResumeLoc.SelLength = Len(txtResumeLoc.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtResumePhone_GotFocus()<br />
+txtResumePhone.SelStart = 0<br />
+txtResumePhone.SelLength = Len(txtResumePhone.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtResumeEmail_GotFocus()<br />
+txtResumeEmail.SelStart = 0<br />
+txtResumeEmail.SelLength = Len(txtResumeEmail.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtResumeState_GotFocus()<br />
+txtResumeState.SelStart = 0<br />
+txtResumeState.SelLength = Len(txtResumeState.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtResumeZip_GotFocus()<br />
+txtResumeZip.SelStart = 0<br />
+txtResumeZip.SelLength = Len(txtResumeZip.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtObjectivePrimary_GotFocus()<br />
+txtObjectivePrimary.SelStart = 0<br />
+txtObjectivePrimary.SelLength = Len(txtObjectivePrimary.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtObjectiveSecondary_GotFocus()<br />
+txtObjectiveSecondary.SelStart = 0<br />
+txtObjectiveSecondary.SelLength = Len(txtObjectiveSecondary.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtObjectiveLocation_GotFocus()<br />
+txtObjectiveLocation.SelStart = 0<br />
+txtObjectiveLocation.SelLength = Len(txtObjectiveLocation.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtObjectiveNote1_GotFocus()<br />
+txtObjectiveNote1.SelStart = 0<br />
+txtObjectiveNote1.SelLength = Len(txtObjectiveNote1.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtObjectiveNote2_GotFocus()<br />
+txtObjectiveNote2.SelStart = 0<br />
+txtObjectiveNote2.SelLength = Len(txtObjectiveNote2.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtExpCoName_GotFocus()<br />
+txtExpCoName.SelStart = 0<br />
+txtExpCoName.SelLength = Len(txtExpCoName.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtEdYears_GotFocus()<br />
+txtEdYears.SelStart = 0<br />
+txtEdYears.SelLength = Len(txtEdYears.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtEdLoc_GotFocus()<br />
+txtEdLoc.SelStart = 0<br />
+txtEdLoc.SelLength = Len(txtEdLoc.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtEdProgram_GotFocus()<br />
+txtEdProgram.SelStart = 0<br />
+txtEdProgram.SelLength = Len(txtEdProgram.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtEdNote1_GotFocus()<br />
+txtEdNote1.SelStart = 0<br />
+txtEdNote1.SelLength = Len(txtEdNote1.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtEdNote2_GotFocus()<br />
+txtEdNote2.SelStart = 0<br />
+txtEdNote2.SelLength = Len(txtEdNote2.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtEdName_GotFocus()<br />
+txtEdName.SelStart = 0<br />
+txtEdName.SelLength = Len(txtEdName.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtExpYears_GotFocus()<br />
+txtExpYears.SelStart = 0<br />
+txtExpYears.SelLength = Len(txtExpYears.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtExpLoc_GotFocus()<br />
+txtExpLoc.SelStart = 0<br />
+txtExpLoc.SelLength = Len(txtExpLoc.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtExpPosition_GotFocus()<br />
+txtExpPosition.SelStart = 0<br />
+txtExpPosition.SelLength = Len(txtExpPosition.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtExpNote1_GotFocus()<br />
+txtExpNote1.SelStart = 0<br />
+txtExpNote1.SelLength = Len(txtExpNote1.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtExpNote2_GotFocus()<br />
+txtExpNote2.SelStart = 0<br />
+txtExpNote2.SelLength = Len(txtExpNote2.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtDistNote1_GotFocus()<br />
+txtDistNote1.SelStart = 0<br />
+txtDistNote1.SelLength = Len(txtDistNote1.Text)<br />
+End Sub<br />
+<br />
+Private Sub txtDistNote2_GotFocus()<br />
+txtDistNote2.SelStart = 0<br />
+txtDistNote2.SelLength = Len(txtDistNote2.Text)<br />
+End Sub<br />
+'****************************************BEGIN*GOTFOCUS()*STUFF****<br />
+'<br />
+'  &lt;!--<br />
+'     John W. Hartman alias "Dobe Doinat"<br />
+'     A resume, in XML format, written as a Tutorial and Sample code<br />
+'     Version 0.10-13-2001.12:39.internalDTD<br />
+'<br />
+'  To include an external DTD:<br />
+'   &lt;!DOCTYPE rootElement SYSTEM "../location_dtd/DTD_FileName.dtd"&gt;<br />
+'<br />
+'  To include an internal DTD:<br />
+'     &lt;!DOCTYPE footElement [<br />
+'     &lt;!ENTITY nbsp "&#160;"&gt;<br />
+'     &lt;!ELEMENT nextElement  (firstContainedElement, secondContainedElement)&gt;<br />
+'     &lt;!ATTLIST firstElement CDATA #REQUIRED&gt;<br />
+'  ]&gt;<br />
+'<br />
+'  To include an external XML Style Sheet Transform file (XSLT):<br />
+'     &lt;?xml-stylesheet type="text/xsl" href="..\location_xsl\XSLT_FileName.xsl" ?&gt;<br />
+'<br />
+'  To include an internal XML Style Sheet Transform file (XSLT)<br />
+'  Note: This did not work for me in XMLWriter - your parse engine may vary!<br />
+'  (Note: not all XML parse engines support this feature!):<br />
+'     &lt;?xml-stylesheet type="text/xml" href="#dobeResumeStyle"?&gt;<br />
+'      &lt;xsl:stylesheet id="dobeResumeStyle" version="1.0"<br />
+'          xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;<br />
+'<br />
+'  To include an external Cascading Style Sheet:<br />
+'     &lt;?xml-stylesheet type="text/css" href="../location_css/StyleSheetName.css" ?&gt;<br />
+'<br />
+'  To include an internal Cascading Style Sheet (In XHTML or XSLT):<br />
+'     &lt;style type="text/css"&gt;<br />
+'         a:visited {color: green; text-decoration: none}<br />
+'         body {background: lightblue; margin-left: 5%; margin-right: 5%;}<br />
+'         h1 {font-size:150%; color: green;}<br />
+'     &lt;/style&gt;<br />
+'<br />
+'  Some built-in DTD keywords:<br />
+'     CDATA | Enumerated |ID | IDREF | IDREFS | ENTITY | ENTITIES | NMTOKEN |<br />
+'     NMTOKENS | NOTATION | #REQUIRED | #IMPLIED | #FIXED | value<br />
+'<br />
+'  Some built-in DTD rules:<br />
+'     | means either one or the other<br />
+'     * means 0 to many (times it may occur)<br />
+'     , means in sequence shown<br />
+'     + means 1 to many (times it may occur)<br />
+'     ? means 0 to one  (times it may occur)<br />
+'   --&gt;<br />
+'<br />
+'<br />
+
+</small>
+
+</td>
+</tr>
+
+</table>
+
+ </body>
+ </html>

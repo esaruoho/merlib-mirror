@@ -1,0 +1,30 @@
+Question 11.14 
+
+ Question 11.14 
+ I believe that declaring void main() can't fail,
+since I'm calling exit instead of returning,
+and anyway my operating system ignores a program's exit/return status.
+
+ It doesn't matter whether main returns or not,
+or whether anyone looks at the status;
+the problem is that
+when main is misdeclared,
+its caller
+(the runtime startup code)
+may not even be able to call it correctly
+(due to the potential clash of calling conventions;
+see question 11.12 ).
+Your
+operating system may ignore the exit status,
+and void main() may work for you,
+but it is not portable and not correct.
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

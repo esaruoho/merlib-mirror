@@ -1,0 +1,48 @@
+The Algae Programming Language 
+
+ The Algae Programming Language 
+Welcome to the home of Algae, a high-level interpreted language for
+numerical analysis. Algae borrows from languages like 
+ MATLAB and
+
+APL ,
+but it was developed because we needed a free,
+efficient, and versatile language capable of handling large problems.
+
+Algae is free software. Please use it with
+ caution .
+Certain copyrights and
+disclaimers apply. You may redistribute it and/or modify it under
+the terms of the GNU General Public
+License .
+
+Algae was known as "Alki" prior to 1997. Unfortunately, there was
+confusion with an outfit called Alki
+Software .
+
+A mailing list
+for Algae is now active; to subscribe, send mail to
+
+algae-list-request@eskimo.com with the word "subscribe" as the
+subject line.
+
+This site is now mirrored at
+
+http://axams1.bo.infn.it:9999/algae . Many thanks to Giuseppe Levi for
+providing this mirror site.
+
+ Boeing users: Please go to the
+ intranet site .
+ So what do you want for nothing? 
+
+ The latest news? 
+ A handful of features? 
+ A look at the User's Manual? 
+ The source code? 
+ Optional stuff? 
+
+ Algae was designed and implemented by
+ Scott Hunziker and Mike
+Brennan. Please address questions and comments to
+ ksh@eskimo.com .
+ This page was last updated on June 13, 1998.

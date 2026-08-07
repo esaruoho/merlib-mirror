@@ -1,0 +1,256 @@
+C.M. Connelly: Blog: Archive for June, 2003 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ Blog: Archive for June, 2003 
+
+ June 6, 2003 (Fri) 
+
+ My sister-in-law pointed me to Tha
+Shizzolator , a Snoop Dogg filter. Here's a sample from a run on
+this site: 
+
+And I finished reading Ships of da Sky , which is yet
+another wickedly depressing history of airships, know what I'm sayin'?
+Every chapter wuz pretty much, &#8220;Behold da bomb diggity 'n glorious
+airship, xxx ! See that shiznit conquer da skies! See da
+crowds ooh 'n ahh! Oh, whoops, damn, there that shiznit goes, lots of
+dead muthas, hell, guess we'll has try again, know what I'm sayin'?&#8221;
+
+ June 23, 2003 (Mon) 
+
+ Got some more books from Amazon today, but still waiting on two more&#8212;one on Haida Art , and, of course, the new Harry
+Potter. Ours is coming from the UK, to match the others, so we'll
+just have to wait. 
+
+ Apple disappointed me by not announcing new laptops today
+(mostly because I want one for work). However, they did announce a pretty awesome new 64-bit
+machine , as well as show a bunch of cool new features in Panther , the next
+version of Mac OS X. In fact, the new machines are so stunning that M
+ordered a new dual-processor box to replace our 867 MHz single
+processor Mac. Should be cool. 
+
+ She's also part of Apple's developer program now, so we should get the
+prerelease versions of Panther early. I'm looking forward to the user-switching
+feature , which might actually make sharing a Mac with M almost
+practical. 
+
+ June 24, 2003 (Tue) 
+
+ Gosh, what fun! 
+
+ I logged out of my home machine this evening, and when I tried to log
+in it informed me that my settings had to be wiped out for GNOME2.
+Needless to say, I'm nowhere close to having a working environment
+like the one I had. 
+
+ Grr. 
+
+ In the end, I was forced to upgrade a whole slew of packages from
+unstable. The results, however, are pretty stunning. Fonts are now
+antialiased, which means the whole thing looks good. I finally have
+reasonable key repeat rates (for some reason that was broken before).
+The mouse scrolls smoothly. 
+
+ I miss my WindowMaker dock, but I was going to lose it sooner or
+later, and I think I can cope (I wasn't really using most of its
+functionality, anyway). In the meantime, pretty Linux is a wild thing
+to consider.... 
+
+ June 25, 2003 (Wed) 
+
+ After much tinkering, a screenshot. 
+
+ June 29, 2003 (Sun) 
+
+ Sometimes you have to wonder about coincidence. Last night I noticed
+that I was having some framerate issues. M suggested I try rebooting.
+When I did, the system decided to fsck most of the
+partitions (not surprising, as it claimed that some of them hadn't
+been checked for 200 days). And damned if it didn't find unrepairable
+problems on not one, but two partitions. One of which, of course, was
+ /home . 
+
+ The machine still ran, though, so I was able to backup the partition&#8212;doing manual backups of some special directories, such as my e-mail
+and my CVS repository. So that's good, at least. 
+
+ I also backed up a couple of other parts of the disk&#8212;some of
+ /usr/local , /etc &#8212;and dumped a list of the
+packages I have installed. 
+
+ And, it turns out, the other damaged partition was /var ,
+and, not coincidentally, some of the problems were with files in
+ /var/lib/dpkg/info , which strongly suggests that the problems I had in early May were
+caused by the disk degradation. 
+
+ Oh, and our home Mac decided that now would be a good time to have its
+drive (or drives, we're still not sure) die, too. Apparently it's
+spinning its drives down, and sometimes they're not coming back up
+again. In fact, not long after we'd started investigating the
+problems with my machine, the Mac decided to pretend it had no drives
+at all. 
+
+ Luckily, again, I talked M into buying a FireWire disk a few weeks
+ago, and she'd done some backups. She's managed to get the machine to
+come back again and is busy doing newer backups of everything on both
+drives, just in case. 
+
+ And we thought it was because of buggy drivers for the iSight . 
+
+ By the way, although I am somewhat pissed off at Apple right now, I do
+have to say that the iSight is a nice webcam. Would've been nice if
+they'd provided a way to mount it on one of their LCDs that didn't
+involve sticky disks, though (maybe suction cups?). I expect that the
+market may fill in the gaps, as it has with the iPods, for which there
+are an amazing number of products available, from cases to extra
+battery packs to miniature radio broadcasting station attachments. 
+
+ Yes, I spent way too much time wandering around the Apple
+Store last Friday. 
+
+ Meanwhile, I've gotten lots of reading done. 
+
+ I finished Erik Larsen's The Devil in the White City 
+yesterday. It was every bit as good as I'd hoped after hearing about
+it and then watching Larsen read from it on C-SPAN. 
+
+ Everyone I've told bits of stories from the book has expressed
+disbelief&#8212;&#8220;And this is a true story?&#8221; 
+
+ Well, yes, it is. Technically, it's two true stories wrapped around
+each other. On the one hand, we have the devil, Herman Mudgett, MD,
+better known as H.H. Holmes, a serial killer before anyone had ever
+heard of serial killers. And on the other we have the creators of the
+White City, Chicago's World Columbian Exposition of 1892&#8211;1893, Henry
+Burnham and his collaborators&#8212;Frederick Law Olmstead, Charles
+McKim, Louis Sullivan, et al. While Holmes manipulates and murders,
+the architects design and build a fantastic, iconic architectural
+wonder that had a massive impact on American architecture (good or
+bad, depending on your school of thought). 
+
+ Larsen is an excellent writer, and, while the book is extensively
+documented with end notes, the book reads almost like a novel. 
+
+ I've just finished William Gibson's latest, Pattern
+Recognition , which is easily his best book since Count
+Zero , and with many of the same themes. 
+
+ I can't say that I was that fond of the last few Gibson books. They
+all had some good stuff in them, but never quite struck a chord with
+me. Pattern Recognition , though, reminds me strongly of
+Banks's The Business , D.F. Wallace's Infinite
+Jest , and various bits of Pynchon, especially the more
+accessible Pynchon, such as Vineland . 
+
+ The main character, Cayce Pollard, is a &#8220;coolhunter&#8221; , hired by corporations and advertising agencies to
+sniff out the next cool thing that will sweep the global market.
+She's lost her dad in the World Trade Center attack, and suffers from
+some odd psychic allergies to spokesthings, logos, and labels. I
+sympathize. 
+
+ She's hired to vet a new logo, then to seek out the creators of some
+mysterious &#8220;footage&#8221;, apparently parts of an enigmatic film, that
+appear in different locations on the web and are sought after and
+obsessively discussed by cliques on various websites. 
+
+ Meanwhile, we get some nice insights into how such collectives work
+(that mesh with my experiences, anyway), some interesting theories
+about how the Sinclair ZX-81 fueled the creation of British computer
+programmers, and nice pointers to interesting products, past and
+present, such as Curta calculators 
+(which I've thought looked cool since I saw some in a display case at
+the school I work for) and Buzz
+Rickson's otaku esque reproductions of U.S. military
+clothing. 
+
+ Next up, the new Harry Potter, in original UK hardback. BTW, the site
+ I mentioned that had a list of
+differences between the UK and US editions seems to have died and been
+taken over by some scummy site squatters. Looks like the list is now
+available from a Geocities site 
+
+ My Initial is going to have to go
+back to the factory for repair. The pen itself is fine&#8212;it's
+actually gotten nicer and nicer to use as time has gone on&#8212;but the
+clip has come loose and I can't get it to stay in place. It's really
+a shame, especially as I finally gave in and admitted that no one else
+was going to buy me an ErgoDesk . and bought one myself.
+Of course it arrived on Friday, and I haven't yet had a chance to use
+it to see if it works for me or not. 
+
+ newer entries | older entries 
+
+ Activity 
+
+ << 
+ June, 2003 
+ >> 
+
+ Mo 
+ Tu 
+ We 
+ Th 
+ Fr 
+ Sa 
+ Su 
+
+ 1 
+
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+
+ 30 
+
+ More Archives... 
+ March, 2004 
+ February, 2004 
+ January, 2004 
+ December, 2003 
+ November, 2003 
+ October, 2003 
+ more... 
+
+ Copyright &copy; 1998&#8211;2004, C.M. Connelly. 
+
+This work is licensed under a Creative Commons License .
+
+ Last modified at 4:53 PM PST, Wednesday, March 3, 2004; last rendered at 
+ 4:53 PM PST, Wednesday, March 3, 2004 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

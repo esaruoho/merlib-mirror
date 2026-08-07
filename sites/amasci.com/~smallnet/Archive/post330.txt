@@ -1,0 +1,289 @@
+SMALLnet post330 
+
+ SMALLnet Posting post330
+
+Date: Sun, 23 Jul 2000 22:52:20 -0500
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet >
+
+Carl Dowdy < > reports:
+
+Thought the SMALLsters would like to know about another possible
+fuel bulb for smaller engines. It is made by Sullivan and is an
+8-ounce polyethylene bottle with a "squirt gun" type valve (part
+no. 175, Bottle Pump). It has two exit tubes in the cap, one of
+which has the one-way valve with fuel line and a brass clunk.
+The other is the vent/return.
+
+All you need is another length of tubing to reach the engine and of
+course a nice fuel filter. The bottle is squeezable and can be used
+to fuel and/or prime. Should not create the rubber deposits that may
+be a problem with the Norvels.
+
+Carl Dowdy < >
+
+Dave Segal < > advises:
+
+If anyone is looking for a simple, high-performing electric glider,
+I recommend Don Srull's Skeeter 50. You do not need a big nicad pack
+and a 100-inch wing to catch thermals. Construction is very simple
+and a Speed 400 6-volt motor provides nice climbs. Wing span is 46
+inches and wing area is 265 square inches. I am using a 6 x 500 mAh
+pack and a nylon 5.5 x 4 propeller.
+
+The plan is available from HiLine in North Carolina, and only costs
+$6 plus $1 postage. There is a photo of my model in Randy Randolph's
+column in the September issue of Flying Models.
+
+Dave
+
+Patrick LeRay < > informs us:
+
+Awhile back there was a brief thread about ways to shorten Receiver
+antennas. I'd asked, because some of my planes have 19"-21"
+fuselages and the HiTec antenna is about 40-odd inches long.
+
+There were several suggestions and I thank everyone for them. But
+now here's something interesting.
+
+I called HiTec about something else, and while talking with a person
+who seemed quite knowledgeable, I mentioned some of the techniques
+that'd been offered. Here is his input and the results of my test.
+
+He recommended not a soda straw, but a popsicle stick. Said you don't
+want it to form a true circular coil. And the loops should not touch
+each other. He felt that any decrease in range would be very slight.
+So I tried a test.
+
+Wrapped the antenna wire around a tongue depressor (9 loops, about
+18") and taped it onto the wood. With the plane in my kitchen,
+surrounded by brick, wood, plumbing, and electrical wiring circuits,
+I left my son in charge by the phone. I got into the van, drove about
+100 ft, called him on my cell phone, and extended the Transmitter
+antenna out the van window. We had no problems with reception.
+
+Drove down the street about 300' and tried again; still no problems.
+Finally, just a few feet short of two tenths of a mile, the servos
+began slight chattering with some jerky response to stick movements.
+That's about 1,000 feet, with an antenna shortened to just over half
+its normal length, and the signal going through overhead power lines
+and God-knows-what in the walls of a HOUSE! Impressive.
+
+Since HiTec says the range of the natural-state Receiver is "out-
+of-sight", I have a feeling that if we'd been out in open country,
+the shortened-antenna range would have been at least half-again that
+1,000 feet. I'm not sure I could see that Herr J-3 Cub at 1500 feet!
+
+Patrick LeRay
+
+...It would be difficult, Patrick. Years ago I came up with a way
+of estimating the height of a free flight model -- and I think Gene
+Chaille described something similar in an early SMALLnet Posting.
+
+Anyway, it involves the properties of "similar triangles", plus the
+fact that if you extend your arm straight out in front of you,
+anything held in your fingers will be about two feet from the
+lens of your eye.
+
+Assume that the Herr Cub under consideration is the big (48" span)
+model. At 1500 feet away, it would be 750 times as far off as your
+extended fingertips. Therefore the apparent span of the 4-foot
+"Cub" would be 48 inches divided by 750 -- or about a sixteenth of
+an inch held at arm's length... [JW]
+
+Paul Rodrigues < > contributed:
+
+Regarding Enrico Feliciano's suggestion for an electric parachute or
+hang glider, there is an electric parachute available from a company
+called G-Con and is named the Sky Surfer. It is ARF; comes complete
+with battery, charger, built in receiver/servos and transmitter.
+
+10 minutes assembly; charge the battery, and off you go. To
+illustrate how easy it is to fly, my 6-year-old daughter flies it
+with confidence in the local park. It thermals great, and my
+longest flight time thus far has been 47 minutes.
+
+Cheers, Paul
+
+Scott Winans < > wrote:
+
+John Hunton said about the new Cox electric free flight models,
+"I know that someone like Don Srull or John Worth will put R/C
+in one of these before long."
+
+I have a prototype of a Spitfire in that same series that I have
+installed a 3-channel system in and it flies beautifully. I re-
+motored it with a lower voltage wind motor and installed rudder,
+elevator, and a BEC speed control. Flies great !
+
+Scott Winans
+
+Bob Mosher < > could use some advice from Scott:
+
+Picked up one of the Cox electrics mentioned on this net, primarily
+to dissect it to see what makes it tick.
+
+Are any of you playing with this machine, and what kind of motor
+runs are you getting? About 3 to 5 seconds is all I can get out
+of it. Residual voltage is 2.4 V, so I assume those little blue
+things are nicads. Ol'Bob
+
+David Williams < > suggests:
+
+ Source: Electric, Information 
+
+Take a look at the E.M.P.S. website: < http://www.empsinc.com > for a
+whole lot of interesting stuff for the electric enthusiast.
+
+David Williams, Bolton, ENGLAND
+
+...That reminds me of my present frustrating experiences trying to
+acquire the necessary components to power a Dare Sopwith Triplane.
+
+Pat Tritle had his prototype flying at this year's SMALL meet at
+Maumelle, and its flight realism was impeccable. My previous
+attempts at electric-powered R/C disappointed me. (Too much weight,
+primarily -- even though I'd cut at least three ounces from the
+stock kit design. Model Airplane News refused to publish my Field
+and Bench report on this clunker, despite the fact that they had
+commissioned the project...)
+
+Anyway, I decided to buy a Dare Triplane kit for myself and 
+duplicate Pat's installation as closely as possible. (By the way, the
+Dare kit, although a laser-cut product, is DEFINITELY not for a
+beginner! There are no instructions; no information on markings;
+even the landing gear wires are furnished in straight lengths to
+be bent by the builder. The multitude of wing ribs are neatly
+laser-cut, including lightening holes -- but this is NOT a pre-
+fabricated kit. That's one reason I like it!)
+
+I've ordered the "power items" from several sources. The motor and
+gearbox HAD to come from Hobby Lobby -- my least favorite mail-order
+supplier. They NEVER have everything I order at the time I place
+the order; and invariably ship half the stuff I need, with a note
+enclosed about the back-ordered items. (As if I wouldn't notice!)
+
+Also, most of the stuff I've bought from H-L over the last few
+years either has no instructions whatever (e.g. Speed 400 motors)
+or they're written in German: no translation supplied.
+
+(Can anyone inform us of a Canadian supplier of Graupner items ?
+Hobby Lobby states that they are the exclusive US importer; surely
+someone in Canada also imports Graupner products...?)
+
+The batteries are coming from Pat Tritle himself -- I might as well
+patronize the Triplane's designer for items like these, right?
+
+The speed control and charger are on order from Fred Marks's outfit.
+Again, I much prefer dealing with somebody I know than a huge, face-
+less corporation. I haven't yet found a source for the propeller
+specified -- it's an APC electric type, and I know of no good
+supplier for those yet.
+
+So far, the total price of the "airborne power system" for this e-
+powered Sopwith Triplane is more than double the retail price of a
+PAW .09 TBR diesel, and I'll bet it weighs more than the PAW plus
+its fuel tank.
+
+Yes, I will complete and fly this e-powered Triplane; but inasmuch
+as the design is all built-up (laminated tail surface outlines too)
+I'm sorely tempted to make two of these craft, and power one with
+a PAW diesel, just for comparison.
+
+I have a strong suspicion that a diesel-powered Triplane would be
+less bother to operate than the e-powered version, too. [JW]
+
+Dereck Woodward < > contributed:
+
+Ed Toner wrote, "The Great Planes SONIC BLAST is the best
+electric I have ever had. It's a genuine ducted fan, and flies
+beautifully. It is larger than most, and not a bit tricky. There
+is nothing to build: just assemble, charge, and launch..."
+
+This looks much like a device that was on sale in England around the
+late 80's. A buddy of mine fitted single-channel rudder-only R/C
+into one for a bet!
+
+SMALLStar Gray - might be around here somewhere - was mostly behind
+it. By the time he and Shane Harding had finished, with a small
+receiver battery, one servo, coloured tissue replicas of the kit
+decals and minus a huge chunk of noseweight they found behind a
+rubber nose button, it was fractions of an ounce over the kit
+weight and flew pretty good. They also claimed to have made the
+first EDF R/C night flight - by taping small chemical lightsticks
+to the wingtips and flying at their site well after dark.
+
+The radio was borrowed off German SMALLStar Horst Fenchel, and
+you'd probably be laughed out of court if you described it as 'micro'
+now!
+
+Andy Woitowicz talked about, "...my Royal .25-powered Supra-fly
+turning an APC 10 X 4. With unlimited vertical acceleration
+and sustained hovering at two-thirds throttle, I was repeatedly asked
+what brand .40 engine I was using.
+
+"Another pilot was flying an OS .46 FX c/w tuned pipe mounted to 
+a Tsunami. Both aircraft are similar in size but flying character-
+istics were entirely different. The Tsunami was more than a pound
+heavier, and had at least double the horsepower..."
+
+I had one of those before leaving England; still might have the plan
+someplace, though I seem to remember you would have to do a lot of
+drafting to make it into a builder's plan, as opposed to a kit plan.
+
+The model is every bit as good as Andy describes and it would be great
+to see it re-emerge. I'm sure the lobby that wanted the miniscule
+engine limit for SMA business would cringe at the thought of 48" span
+and a Schneurle port 25 (mine had an OS 32 SF ABC at one point, we
+don't need to discuss that :-^), but for a small sum, you got a model
+that could out-fly much of the 46-sized sportsters and had an
+immaculate aerobatic pedigree. That was what made it so good to fly
+-- honest, good-mannered handling, and as near to neutral handling as
+you could ask for.
+
+I have vague memories of a smaller version of the Supra-Fly appearing
+as a full-sized freeby plan in a US magazine. It made no claims to
+being designed by a photocopier, but I compared the two and there were
+similarities ;-^). It was around a 10-sized model, could have been a
+lot of fun to fly.
+
+Oh well!
+
+I now have all the bits for a Ron Fikes MOOgallo -- even a selection
+of lightweight trash bags of sufficient area. All I need to do is
+find my Round Tuit and I can go amaze the population hereabouts!
+
+Regards, Dereck
+
+John Meacham < > wrote:
+
+Just "fixed" my loose compression screw on a home-made .12 cubic
+inch diesel by careful use of a center punch around the threaded
+opening in the head.
+
+That's similar to crushing the threads on a C*X head, but for a
+different purpose. So far it seems to be holding; its last test
+run did not show the contra-piston screw "unscrewing" itself.
+
+John Meacham
+
+Tim Atkins < > advises:
+
+There is a better way that I've found to keep Cox glow heads from
+loosening, without any modification. Simply wrap the threads with a
+couple of turns of fairly common Teflon tape. This stuff is used by
+plumbers to seal the threads on pipe fittings, and is available at
+almost any hardware store, K-Mart, Wal-Mart, etc.
+
+It comes in various thicknesses, so you may have to adjust the amount
+you use. It also has the advantage of creating a very good seal, just
+in case you forgot to install a NEW head gasket.
+
+Tim Atkins, Charleston, West Virginia.
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

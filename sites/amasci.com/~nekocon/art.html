@@ -1,0 +1,476 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD html 4.0 transitional//EN">
+<html>
+<SCRIPT LANGUAGE = "JavaScript1.1">
+
+//* script by Neko-kun *
+//added up to btn 16 value
+
+btn1val= 0;
+btn2val = 2;
+btn3val = 4;
+btn4val = 6;
+btn5val = 8;
+btn6val = 10;
+btn7val = 12;
+btn8val = 14;
+btn9val = 16;
+btn10val = 18;
+btn11val = 20;
+btn12val = 22;
+btn13val = 24;
+btn14val = 26;
+btn15val = 28;
+btn16val = 30;
+btn17val = 32;
+btn18val = 34;
+btn19val = 36;
+btn20val = 38;
+btn21val = 40;
+images = new Array(34);
+for(i=0;i<34;i++)
+{
+	images[i] = new Image();
+}
+images[0].src = "sidebar/rola000.gif";
+images[1].src = "sidebar/rolb000.gif";
+images[2].src = "sidebar/rola001.gif";
+images[3].src = "sidebar/rolb001.gif";
+images[4].src = "sidebar/rola002.gif";
+images[5].src = "sidebar/rolb002.gif";
+images[6].src = "sidebar/rola003.gif";
+images[7].src = "sidebar/rolb003.gif";
+images[8].src = "sidebar/rola004.gif";
+images[9].src = "sidebar/rolb004.gif";
+images[10].src = "sidebar/rola005.gif";
+images[11].src = "sidebar/rolb005.gif";
+images[12].src = "sidebar/rola006.gif";
+images[13].src = "sidebar/rolb006.gif";
+images[14].src = "sidebar/rola007.gif";
+images[15].src = "sidebar/rolb007.gif";
+images[16].src = "sidebar/rola008.gif";
+images[17].src = "sidebar/rolb008.gif";
+images[18].src = "sidebar/rola009.gif";
+images[19].src = "sidebar/rolb009.gif";
+images[20].src = "sidebar/rola010.gif";
+images[21].src = "sidebar/rolb010.gif";
+images[22].src = "sidebar/rola011.gif";
+images[23].src = "sidebar/rolb011.gif";
+images[24].src = "sidebar/rola012.gif";
+images[25].src = "sidebar/rolb012.gif";
+images[26].src = "sidebar/rola013.gif";
+images[27].src = "sidebar/rolb013.gif";
+images[28].src = "sidebar/rola014.gif";
+images[29].src = "sidebar/rolb014.gif";
+images[30].src = "sidebar/rola015.gif";
+images[31].src = "sidebar/rolb015.gif";
+images[32].src = "sidebar/rola016.gif";
+images[33].src = "sidebar/rolb016.gif";
+
+// 20 images for 10 buttons
+
+function out(butnam,butval)
+{
+	
+	document[butnam].src = images[butval].src;
+
+}
+function over(butnam,butval)
+{
+
+	document[butnam].src = images[butval + 1].src;
+
+}
+
+</SCRIPT>
+
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Larry Drews">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en] (Win98; I) [Netscape]">
+   <title>Nekocon FLASH! Art Show Rules</title>
+</head>
+<BODY bgcolor="white" MARGINWIDTH=0 MARGINHEIGHT=0 LEFTMARGIN=0 TOPMARGIN=0>
+
+<!--Main Table-->
+<TABLE WIDTH=717 BORDER="0" cellpadding="0" cellspacing="0" valign="top" align="left">
+
+<!-- Side Bar Table -->
+
+<!-- TOP BAR -->
+    <table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="717">
+    <td VALIGN=TOP width=717><img SRC="sidebar/neo000.gif" BORDER=0></td>
+    </tr>
+    </table>
+
+<!-- Bar and Buttons -->
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="717">
+<tr>
+<td VALIGN=TOP WIDTH="9" BACKGROUND="sidebar/neo2004.gif">
+<center><img SRC="sidebar/clear.gif" height=10 width=9></center>
+</td>
+<td VALIGN=TOP WIDTH="100" BACKGROUND="sidebar/blubg.jpg">
+
+<!-- java buttons  -->
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100" >
+<td align=center>
+<A HREF="index.html" onMouseOver="over('btn1',btn1val );" onMouseOut="out('btn1',btn1val);">
+<IMG SRC="sidebar/rola000.gif" NAME="btn1" NOSAVE width=100 height=25 border=0 alt='Front Page'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="guest.html" onMouseOver="over('btn2',btn2val );" onMouseOut="out('btn2',btn2val);">
+<IMG SRC="sidebar/rola001.gif" NAME="btn2" NOSAVE width=100 height=25 border=0 alt='The NekoCon Guest List'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="dealer.html" onMouseOver="over('btn3',btn3val );" onMouseOut="out('btn3',btn3val);">
+<IMG SRC="sidebar/rola002.gif" NAME="btn3" NOSAVE width=100 height=25 border=0 alt='Dealer Room Information'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="hotel.html" onMouseOver="over('btn4',btn4val );" onMouseOut="out('btn4',btn4val);">
+<IMG SRC="sidebar/rola003.gif" NAME="btn4" NOSAVE width=100 height=25 border=0 alt='Hotel, Travel and Local Information'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="general.html" onMouseOver="over('btn5',btn5val );" onMouseOut="out('btn5',btn5val);">
+<IMG SRC="sidebar/rola004.gif" NAME="btn5" NOSAVE width=100 height=25 border=0 alt='Registration, Mailing and Internet Info'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="prog.html" onMouseOver="over('btn6',btn6val );" onMouseOut="out('btn6',btn6val);">
+<IMG SRC="sidebar/rola005.gif" NAME="btn6" NOSAVE width=100 height=25 border=0 alt="What's Going on at the Con"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="amvcontest.html" onMouseOver="over('btn7',btn7val );" onMouseOut="out('btn7',btn7val);">
+<IMG SRC="sidebar/rola006.gif" NAME="btn7" NOSAVE width=100 height=25 border=0 alt='Anime Music Video Contest Rules'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="cosplay.html" onMouseOver="over('btn8',btn8val );" onMouseOut="out('btn8',btn8val);">
+<IMG SRC="sidebar/rola007.gif" NAME="btn8" NOSAVE width=100 height=25 border=0 alt="Cosplay Rules and Info"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="dnloads.html" onMouseOver="over('btn9',btn9val );" onMouseOut="out('btn9',btn9val);">
+<IMG SRC="sidebar/rola008.gif" NAME="btn9" NOSAVE width=100 height=25 border=0 alt="Forms for Download"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="ads.html" onMouseOver="over('btn10',btn10val );" onMouseOut="out('btn10',btn10val);">
+<IMG SRC="sidebar/rola009.gif" NAME="btn10" NOSAVE width=100 height=25 border=0 alt="Advertising"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="vol.html" onMouseOver="over('btn11',btn11val );" onMouseOut="out('btn11',btn11val);">
+<IMG SRC="sidebar/rola010.gif" NAME="btn11" NOSAVE width=100 height=25 border=0 alt='Help run the con'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="art.html" onMouseOver="over('btn12',btn12val );" onMouseOut="out('btn12',btn12val);">
+<IMG SRC="sidebar/rola011.gif" NAME="btn12" NOSAVE width=100 height=25 border=0  alt="Art Show Rules"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="contacts.html" onMouseOver="over('btn13',btn13val );" onMouseOut="out('btn13',btn13val);">
+<IMG SRC="sidebar/rola012.gif" NAME="btn13" NOSAVE width=100 height=25 border=0  alt="Get in touch with us"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="t-shirts.html" onMouseOver="over('btn14',btn14val );" onMouseOut="out('btn14',btn14val);">
+<IMG SRC="sidebar/rola013.gif" NAME="btn14" NOSAVE width=100 height=25 border=0 alt="T-shirts"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="gallery.html" onMouseOver="over('btn15',btn15val );" onMouseOut="out('btn15',btn15val);">
+<IMG SRC="sidebar/rola014.gif" NAME="btn15" NOSAVE width=100 height=25 border=0 alt="NekoCon Art Gallery"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="link.html" onMouseOver="over('btn16',btn16val );" onMouseOut="out('btn16',btn16val);">
+<IMG SRC="sidebar/rola015.gif" NAME="btn16" NOSAVE width=100 height=25 border=0 alt="Links"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="News.html" onMouseOver="over('btn17',btn17val );" onMouseOut="out('btn17',btn17val);">
+<IMG SRC="sidebar/rola016.gif" NAME="btn17" NOSAVE width=100 height=25 border=0 alt="News, Web Updates"></A>
+</td>
+</table>
+
+
+
+
+
+<td VALIGN=TOP WIDTH="13" BACKGROUND="sidebar/neo2006.gif">
+<center><img SRC="sidebar/clear.gif" height=10 width=13></center>
+</td>
+<!-- end java buttons  -->
+
+<td valign=top WIDTH="575">
+<TABLE align=center BORDER=0 WIDTH=575>
+<TR>
+<TD>
+
+
+<font face="Arial,Helvetica" size=2>
+
+<P><B>The Art Show</B>
+
+<P> The Art Show is one of the longest running convention traditions since
+the first conventions were held long, long ago, in hotel far, far away. In
+keeping with that tradition we offer a place for the professional and amateur
+artist alike to showcase their works of art. And as a part of that tradition,
+there are some rules and guide lines that go along with it.  We are trying to
+be fair to both professional and amateur alike.
+
+<P><B>Displaying Your Art Work</B>
+
+<P>Any paid member of the convention may enter artwork into the art show.
+This means we supply you a place to put your artwork on display for the rest of
+the con attendees to come and view it.   If you so desire, you may put the
+art work up for sale.  If you don't wish to sell the art, that's fine, come
+show off your skills anyway.
+
+<P>The art show is open to all kinds of art, both 2D and 3D works are
+allowed. but we request that the content reflect anime, manga, or Japanese
+images and/or styles.  The art show reserves the right to deny entry of any
+piece it feels that does not fit the concept of an Japanese anime convention.
+
+<P>There is no limit to the number of pieces that can be entered into the art
+show, however,  because we only have a finite amount of space, we are asking
+that all artists restrict their works to fit within about a 4'x4' area.  The
+art show staff reserves the right to limit the number of pieces per artist
+if hanging space becomes extremely limited.  If more space does become
+available, the extra space will also be on a first come, first serve basis. 
+
+<P>If you wish to sell your art through our art auction, you must assign a
+'minimum bid' for the piece and then wait to see if anybody bids on the
+piece.  If you do not wish to sell a piece, please notify the art show staff
+when you enter the piece to the art show, we will mark the piece
+appropriately as 'Not For Sale'.  The art show does NOT charge a flat hanging
+fee to enter artwork, instead we charge a 10% commission on all sales.  So
+you just wish to come show off your work and not sell anything, it's free!
+
+<p> The Art Show will begin accepting art work no later than Noon on Friday
+(or earlier if possible).  The art show will continue to accept artwork as
+long as there is still available space or until noon Saturday, which ever
+comes first.  
+
+<P> When you enter your art work into the art show, you much label each piece
+with the media used to create the piece. This especially holds true for
+photocopies, prints, and/or computer printed art.  Prints from limit editions
+or numbered print sets will be allowed if the print being hung comes with a
+certificate of authenticity signed by the artist and/or has the proper number
+registry on the print.  Only one instance of any given piece shall be allowed
+in the art show, no multiples (as with prints, computer print outs, etc) of
+the same piece will be allowed.
+
+<P>The art show can not accept art work sent to it by U.S. MAIL or any other
+parcel carrier.  Your art work is safest in transit while it is in your own
+hands, in the mail ANYTHING can happen, and probably will.  Therefore we
+require all artwork to be delivered by hand to the art show.  
+
+<P>If you wish to submit something to the art show but will not be able to
+attend the convention yourself, or feel that you may arrive too late to enter
+anything, you may assign an agent over your works.   An agent is someone whom
+you have authorized to work on your behalf during your absence.  The person
+who you choose to be your agent must be a paid member of the convention, and
+must deliver a signed letter of authorization from you to the Art Show
+proving that you have given your consent for their help.  An agent will then
+be able to enter, remove, and collect any monies from the art show for you.
+
+<blockquote>
+Q: Can a single person act as an agent to more than one artist at the same
+time?
+
+<P>A: Yes.  As long as the person has the appropriate authorization letters,
+they may act as agent for as many artists as they wish.
+</blockquote>
+
+<P> All two-dimensional artwork *MUST* be framed, backed or matted by the
+time the art work is presented for entry to the art show.  Other than minimal
+hanging supplies (hooks, clips, etc), the art show will not be able to supply
+frames, backings or mattes.  By framing, backing, or matting your work, it
+will have a stronger appeal to the viewer, and will be safer while hanging
+in the art show.
+
+<P>All three-dimensional works such as models and resin figures should be
+solidly mounted on a pedestal, base or stand to keep them from falling over
+and being damaged.  The Art Show staff will provide the best security
+possible for all the artists in the show, but they cannot be held responsible
+for damages due to improper supports under the pieces.  Also, by placing your
+work on a stand or base, it has a lot more appeal to the viewer than if it
+just sets on the top of a table.
+
+<P>The art show will accept adult themed pieces.  'Hentai' or material that
+could considered too "adult" for the general public will be hung in a special
+area closed off from the common viewing area. The Art Show staff has the
+final word on if a piece should be in the "Hentai Section" or not.  The Art
+Show staff also reserves the right to refuse any art work into the art show
+if it is considered far beyond the boundaries of good taste.  All artists
+whose works are to be placed in the 'Hentai' must be 18 or over.  
+
+<p> Pick-up of artwork and artist checkout may begin one hour (approx. 2pm)
+after the art auction begins on Sunday afternoon.  If you need to leave the
+convention earlier, arrangement scan be made for someone to act as your agent
+to pick up your artwork and/or payment.  
+
+<P>The art show claims no right to the reproductive rights of any art work
+displayed in the art show.  All rights remain with the artist.  To this
+effect, no cameras or video recorders are allowed into the art show.
+
+
+<P><B>The Art Auction</B>
+
+<P>If a piece of artwork catches your eye, and is for sale, you can try and
+purchase it through our art auction.  Each piece of art will have a piece of
+paper attached to it called a 'bid sheet' which tells the name of the artist,
+name of the piece, the media used to create the piece, the minimum bid for
+the piece, and a couple of blank lines underneath.  Those pieces that are not
+for sale will have a large 'NFS' (not for sale) marked through the bid lines
+and will NOT have a minimum bid listed.
+
+<P>Until the art show closes at noon Sunday, all con attendees have the
+chance to come in and peruse the artwork on display and if they choose, place
+bids on certain pieces.  To place a bid, all you need to do is mark on the
+bid sheet (in an AVAILABLE bid space) your name, your badge number, and your
+bid.  All bids must be a minimum of one dollar above the previous high bid
+and only in whole dollar amounts.  If anybody does enter a bid of other than
+whole dollars, the art show may correct their mistake by rounding UP to the
+next whole dollar.  Any piece of art work that receives three bids during
+normal viewing hours is automatically held over for our live auction on
+Sunday at 1pm.  
+
+<p>To avoid the problem of last minute bid jumpers, any bids that are
+received after 11:30 on Sunday automatically send that piece to the live
+auction at 1pm on Sunday (regardless of the actual number of bids on the
+piece).
+
+<P>At 1pm on Sunday, the live auction starts (check the program guide for the
+correct room). The live auction is a classic auction where you have to be
+present to continue to bid.  An auctioneer will continue the auction for each
+piece by starting the biding at the last marked bid.  
+
+<blockquote>
+Q: How do I know if the piece I was bidding on went to auction?
+
+<P>
+A: Best thing to do is try to check the status of the piece between 11:30 and
+noon on Sunday when the piece is still hanging in the art show. It's usually
+pretty obvious at that point if the piece is going to auction or not.  If you
+couldn't make it back to the art show before the art show closed, either go to
+the auction or check after the auction finishes.  Usually the art show staff
+doesn't know all the pieces that are going to the auction off the top of
+their heads, and by Sunday morning are rather busy getting ready for the
+auction to check for you.  
+</blockquote>
+
+
+<P><B>Paying For the Artwork</B>
+
+<P>Once you are established as the high bidder on a piece of art work, you
+can pay for your piece(s) starting at 1pm on Sunday.  You may pay by cash,
+personal check, or traveler's checks.  We do NOT accept credit cards.  No
+one may pay for artwork before 1pm on Sunday.
+
+<P><B>Artist Checkout : Claiming Your Unsold Artwork and Collecting Payment</B>
+
+<P>If you are an artist (or artist's agent) and want to pick up your unsold
+pieces of art, you will be able to do so starting at 2pm on Sunday.  *IF* you
+have to leave early on Sunday, please talk to the art show staff as early as
+you can in the weekend and make arrangements.   If you can wait until 2pm, it
+would be greatly appreciated, as the art show staff really are quite busy
+from about 11pm through the end of the auction, and it would be a great help
+to them.
+
+<P>The art show tries to pay cash to all artists as they leave, but this may
+not be possible. If we can not pay you cash we will mail you a check,
+post-marked  no later than one week  after the close of the convention.  So
+please make sure that your address information you supply to us is correct!
+
+<P>Remember the art show does take a 10% commission of all sales in the art
+show.
+
+<P>Any artwork that is left behind after the art show closes will become
+property of the art show.  The art show will try to return it to the artist
+to the best of it's ability, but it makes no guarantees about being able to
+do so.
+
+<blockquote>
+Q: I brought in my artwork, but I'm leaving early.  Can I have somebody else
+pick up my unsold artwork and any payment I may receive?
+
+<P>A: Yes.  All you need to do is write up a letter naming and authorizing some
+particular person who will be acting as your agent for pick up of unsold
+artwork and payment (if any).  Then deliver this letter to the art room staff
+as soon as you can and we will happily deal with your agent on Sunday at pick
+up!
+</blockquote>
+
+
+
+
+
+<!-- COPYRIGHT STUFF -->
+
+<center><table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="550" >
+<tr>
+<td WIDTH="8" HEIGHT="8"><img SRC="boxbars/box000.jpg" height=8 width=8></td>
+<td HEIGHT="8" BACKGROUND="boxbars/box001.jpg"><img SRC="boxbars/clear.gif" height=8 width=63></td>
+<td WIDTH="8" HEIGHT="8"><img SRC="boxbars/box002.jpg" height=8 width=11></td>
+</tr>
+<tr>
+<td WIDTH="8" BACKGROUND="boxbars/box003.jpg"><img SRC="boxbars/clear.gif" height=10 width=8></td>
+<td WIDTH="531">
+<center><font face="Arial,Helvetica"><font size=-1>Neko-Con FLASH and the contents of this page &copy;2000
+&amp; 2001 Chibi Neko Entertainment.</font>
+<br><font size=-1>Please send comments to the sites <a href="mailto:neko-kun@triad.rr.com">webmaster</a></font></center>
+</td>
+<td WIDTH="11" BACKGROUND="boxbars/box005.jpg"><img SRC="boxbars/clear.gif" height=10 width=11></td>
+</tr>
+<tr>
+<td WIDTH="8" HEIGHT="11"><img SRC="boxbars/box006.jpg" height=11 width=8></td>
+<td HEIGHT="11" BACKGROUND="boxbars/box007.jpg"><img SRC="boxbars/clear.gif" height=11 width=63></td>
+<td WIDTH="11" HEIGHT="11"><img SRC="boxbars/box008.jpg" height=11 width=11></td>
+</tr>
+</table>
+</center>
+<!-- COPYRIGHT STUFF -->
+
+</table>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

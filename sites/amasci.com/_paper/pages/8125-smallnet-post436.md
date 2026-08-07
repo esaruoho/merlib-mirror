@@ -1,0 +1,234 @@
+---
+title: "SMALLnet post436"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post436.html
+order: 8125
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:39Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post436
+
+*Source page: `~smallnet/Archive/post436.html`*
+
+## SMALLnet Posting post436
+
+------------------------------------------------------------------------
+
+**Date: Sat, 8 Jan 2005 00:33:24 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+<div class="Joe">
+
+...SMALLnet's back again at last. A "combination of circumstances" caused the past 26 months of dormancy. Briefly: in 2002 I came down with a medical problem. Though it wasn't life-threatening, its effects reduced my energy levels a LOT, and greatly increased my need for sleep.
+
+The various curative treatments my medical advisers tried were expensive; and to pay my bills I had to resume my freelance engineering work. And since I needed 12 to 14 hours sleep every day, I had to cut my "spare time" activities back severely...
+
+My health seems much improved now. In fact, it got almost back to normal about a year ago. However, other difficulties popped up -- for instance the theft of our car and almost everything in it while my wife and I were on our annual trip to southern California last Fall.
+
+.But enough about problems! However, before getting into SMALL model topics, I need to explain a "change in policy".
+
+Before the long lapse in Postings, I received complaints from some SMALLsters about their e-mail addresses being published in the Postings -- especially in the Archives.
+
+It turned out that spammers have ways of scavenging e-mail addresses from web sites. They use programs that can recognize the basic form of an e-mail address; then copy that for use in a spamming campaign.
+
+To thwart this evil practice, from now on I will alter the form of all e-mail addresses in SMALLnet Postings. Here's how.
+
+Instead of the "@" symbol, I'll use "(at)", with a space ahead and after it. And instead of the "." near the end of an address, I'll use a ":" -- again with a space on each side. That ought to baffle the bad guys, while still allowing SMALLsters to contact each other directly about topics of interest.
+
+To make this change clear: I'll alter \< 
+
+ \> to \< 
+
+ \>. Then if YOU want to contact "smartlad" by e-mail, you revise the address back into its standard format.
+
+<div class="red">
+
+\[Webmaster note: The e-mail addresses in the archive are encoded to be immune from the spam robot harvesting. You can simply click on the e-mail link to be taken to your mail application. No address decoding is necessary.\]
+
+</div>
+
+One more item! Since it's been such a long time since the last Posting came out (early November 2002), some of you SMALLsters may have forgotten how to submit your material.
+
+There are two ways. One way is to e-mail it directly to \< 
+
+ \>. Or, you can use our eskimo address. To do that, e-mail to \< 
+
+ \>, with " &SUBMISSION& " in the Subject box. \[JW\]
+
+</div>
+
+<div class="red">
+
+\[Webmaster note: do NOT include &SUBMISSION& in the Subject line. It is unnecessary.\]
+
+</div>
+
+Rod Bays \< 
+
+ \> wrote recently:
+
+Health continues OK for us but at 80 (me) just being able to look at the grass from the green side is a triumph! Just had a cataract removed -- piece of cake these days but a nuisance with glasses etc. And I've been trying to dispose of a whole bunch of modelling stuff as I know we should be moving into an apartment. Any ideas? Don't want to make a lot of money off it but it would be nice if it went to someone -- kids/whatever -- who would use it!
+
+Stay well! Rod
+
+Gary Martin \< 
+
+ \> e-mailed \[JW\] a few weeks ago to ask what advantages model diesel engines have over the glow types.
+
+<div class="Joe">
+
+...This information has appeared in some previous Postings, but since nothing much seems to have been published lately in the "model press" about diesels, here's a copy of what I advised Gary:
+
+"I much prefer model diesels to glow. Here are some of their advantages:
+
+\* Diesels produce as much useful power (i.e. prop thrust) as glows, but run about 70% longer per ounce of fuel.
+
+\* Diesel fuel doesn't harm any type of model finish.
+
+\* Because of its adjustable compression, a model diesel will run on almost any size prop that can be fitted onto its shaft. I have a P.A.W. .09 in a ducted fan unit that turns 28,000 rpm -- and another (on a test stand) that swung a 12-3 at almost 4000.
+
+\* The noise output from a model diesel seems quieter than from a glow motor of the same size, turning the same propeller. Something about the "quality" of the diesel's exhaust sound makes it less annoying. (At the Little Rock SMALL meet last June, a friend of mine flew a 54"-span scale Taylorcraft lightplane powered by an .061 diesel. People at the field said that this was the quietest R/C model on the field -- noticeably quieter than any of the geared electrics...)
+
+\* Diesel mufflers are FAR smaller than glow. Those on PAW engines don't stick out past the outer edge of the engine mount.
+
+Now for the DISadvantages.
+
+\* Diesels require a different starting and adjusting technique than glows. This isn't more difficult -- just different.
+
+\* Diesel exhaust is necessarily oily, and there's lots of it. That's inescapable, since castor oil is the only reliable lubricant for model diesels. (Many other oils have been tried, including soybean oil, "mineral oil" -- the water-clear stuff available in drugstores for use as a milder laxative than castor -- automotive motor oil -- even peanut oil. All of these have worked -- for a while, anyway.
+
+As for the "dirtiness" of model diesel exhaust -- that's usually a result of misunderstanding on the part of the operator. He associates high compression with high power, and so runs his model diesel with its compression set too high. That causes excess heat, from the fuel igniting while the piston is still on its way up. This results in the castor oil carbonizing & turning into black grease... I adjust my own diesels for the minimum compression that provides steady running, and the exhaust from those is normally no darker than iced tea.
+
+\* Some people find the aroma of model diesel fuel unpleasant. It's certainly persistent. (Much of this comes from the kerosene content -- but it's possible to mix one's own fuel using odorless "lamp oil" or "candle oil" instead of kerosene, and thus reduce the smell quite a lot.)
+
+\* It's not recommended to start a model diesel with an electric starter. But this CAN be done safely by someone with a fair amount of diesel-running experience. (The trick is to avoid any chance of a hydraulic lock occurring while starting. The head space at TDC is so small at start-up, a very small amount of wet fuel in the combustion chamber is enough to stop the piston. Eric Clutton -- PAW's US importer -- and I have proved that mounting a model diesel sideways almost completely eliminates the possibility of hydraulic lock while using an electric starter.)
+
+\[JW\]
+
+</div>
+
+Paul Gittel \< 
+
+ \> asked \[JW\] how to use "Liquid Stitch" -- a sewing product available at Wal\*Mart -- to attach model windshields. Here's an excerpt from my reply:
+
+<div class="Joe">
+
+... "...I thin Liquid Stitch with water, using a "painterly" technique. That is, with a yogurt lid for a "palette", I add a single fat drop of water alongside a dime-sized puddle of L.S. Then I mix the windshield adhesive to the consistency of heavy cream with the tip of a \#0 watercolor brush.
+
+"The windshield and/or windows are held in place temporarily with small bits of tape. Then I brush the thinned L.S. into a "fillet" along the edge where the window meets the model. After that dries (the L.S. becomes transparent then) I remove the tape bits; then brush thinned L.S. fillets over the gaps where the tape was.
+
+"BTW, make sure that the areas to be glued are free from fingerprints before applying the L.S. That stuff is quite sticky -- but it's always good to make sure of maximizing its adhesion.
+
+"Also, though I can't understand how, L.S. actually "bites into" the items it's applied to: transparent plastic of all sorts, and doped finishes. If you smear some L.S. accidentally onto a plastic window, even if you wipe it right off, it leaves a dulled area..."
+
+.Incidentally, I don't know whether L.S. works its magic on any of the iron-on coverings. I don't use those. Maybe some SMALLster can try it on Monokote, Black Baron, etc. and let us know... \[JW\]
+
+</div>
+
+Karl Bohl \< 
+
+ \> inquires:
+
+I love SMALLnet. About 25 to 35 years ago, there was a model of an Andreason plane with forward-swept wings. It was probably a 2- or 4-passenger cabin high wing plane, somewhat on the order of a Piper.
+
+I can't remember what modeling magazine it was in. If anyone can remember what publication the Andreason was in, or can find the plans, I would be very happy. I will gladly buy a copy of the plans if someone can find them.
+
+I'd like to build this as a 24 to 30 inch span FF model, rubber powered, of course. I can scale the plans up or down as necessary. Also, Harbor Freight has 2 electric FF models that they were selling for about \$13.00. They are on sale for about half that now.
+
+Karl Bohl, Sr., 185 Pease Road, Meredith, New Hampshire 03253
+
+Dick Scalone \< 
+
+ \> asked:
+
+I am looking for a 6-inch free flight rubber-power prop with hanger made by Hitoshi = Yoshida, in Japan. Dick Scalone
+
+Phil needs help:
+
+I recently joined this mailing list and have two questions. I'll ask the second question in a separate posting.
+
+Having been away from the hobby for 15 years and having resurrected some of my thirty-year-old models to get the feel of things again, I'd now like to build something a little more modern. The SMALLnet home page shows a model called a Little Guppy. Does anyone know where I might find a plan for that, or a plan of something similar?
+
+A Google search has revealed many model plans but not one like this.
+
+Regards, Phil
+
+Graham \< 
+
+ \> requests:
+
+Does anybody know the original colour scheme for the 1929 Russell Henderson light monoplane? I have completed the airframe to this model and would like to cover it in the authentic colours. Graham
+
+Charlie Woods \< 
+
+ \> asked:
+
+Well, I guess in the 10 years I have been away from the hobby... Comet Industries is no more? What about Bill Cannon? and Hi, Y'all. I want to convert one of the Comet P-40s to micro R/C... I know... ARF's are available... and better plans, too... One of those "not how well (or easily) the bear dances... but that it dances at all"... I had one of these kits saved for "a later time"... Now that time is here... and the kit has disappeared... Darned divorces! Anyone have the plans left from one of those kits?
+
+CT Woods
+
+Randy Randolph \< 
+
+ \> wrote:
+
+Joe and I have been talking about whip-powered control-line. Anyone out there remember that, or flown any? It was probably the first Backyard Flyer !
+
+Randy
+
+<div class="Joe">
+
+... Randy wrote about this in his Flying Models column (FM is by FAR the best model plane publication in the USA, and any SMALLster who doesn't subscribe is missing out on some mighty good stuff every month!) -- and its editor Frank Fanelli e-mailed me asking for more information, plus a future construction project for publication.
+
+Here's part of my reply to Frank:
+
+.About Whip-Power. (I call that W=P for short -- notice the two-line connection!)
+
+I'm not surprised that you had no luck flying A-J's reissued W=P P-39. Frank Macy sent me a couple of those kits when he started re-making them. (He knew I'd been friends with Jim Walker and wanted my feedback on his "new" W=P P-39.)
+
+I noticed immediately that the new kit had the same flaw that the original did: control lines swept back from bellcrank to wingtip. That's standard practice for engine-powered control-line, but it's DEAD WRONG for W=P. That's because W=P lines angle AHEAD of the airplane. (They've gotta do that to provide the propulsion.)
+
+Swept-BACK leadouts on W=P models cause gross yawing. I told Frank Macy about that, and informed him how to re-position the P-39's tip line guides for good flying characteristics. He wrote back enthusiastically after trying it, and said it worked fine. Frank also said he'd change the kits.
+
+But around that time Frank's health failed, and I never found out whether he actually did make that change...
+
+My profile W=P F-84 (published in American Aircraft Modeler) had correctly-located line guides. It flew fine. But that model was really just a W=P trainer. It had flat sheet-balsa wings and small elevators with limited deflection...
+
+Later I designed a W=P model intended for stunting. But that didn't fly well. For one thing, I built it too light. It wouldn't stay out on the lines reliably until I added ballast. And even then the line tension was just a little too light for positive control.
+
+That was mainly because of friction between the lines. Those were 25 feet of Sig's 1/2A Dacron "control cord". That stuff kept wrapping around itself. It could do that quite easily, because both lines came out through the pole's tip guide together -- and ran together all the way to the plane's tip guide.
+
+After a while I got tired of the project and let it lapse. But Randy has resurrected my interest in that. Now I've come up with three new developments that I believe will make W=P flying a LOT more practicable -- and much more fun!
+
+Item 1: Lines made from "Spider Wire" fishline. I've found two types of that (there are many!) with extremely low surface friction. (One has Teflon coating.) Using this for control lines should reduce the inter-line friction remarkably.
+
+Item 2: A "bream pole" for propulsion. Wal\*Mart sells these in their Sporting Goods department -- at least they do in this area: southeastern Alabama. A ten-foot pole goes for about \$7, and a 12-footer for \$10. This kind of fishing rod uses no reel. Therefore there's no need for line guides -- and the poles are telescoping! I bought a 10-foot "bream pole", and when collapsed it's a mere four feet long.
+
+Item 3: A pivoting dual line guide for the pole tip. This is another measure to keep the lines from intertwining in flight. But this guide MUST be free-pivoting, so as not to interfere with the control action. (This is something I need to work out -- so far it's merely a "bright idea".)
+
+Now for the airplane! Since I've been naming my model designs for birds (usually little-known types) for decades, I chose the name "Tumbler Pigeon" for my stuntable W=P craft. (It looks much like the DeHavilland Vampire jet fighter.) I've decided to construct a new version, all-sheet-balsa. (The original proto had a built-up wing with a thick symmetrical airfoil. Bad choice...)
+
+.Randy also asked me for a photo of my original profile Thunderjet, which I still have. It's in good shape, but its doped-on tissue insignia has faded out quite a lot over the decades. That's been a problem for me for a LONG time, because appliqued colored tissue is my favorite method of adding decorations to my doped-finish airplanes.
+
+A couple of years ago, my son David told me about Hallmark's colored tissue. That's available in a wide variety of colors, and David assures me that those are quite color-fast.
+
+In 2003 David used black Hallmark tissue to simulate wing walks on a control-line Veco "Brave" he'd built. I was amazed -- because the model had been color doped with Brodak's Aztec Red. I expected the red color to bleed through the tissue as soon as the clear-dope adhesive was brushed down from the top surface.
+
+Never happened! The tissue stuck onto the red-doped wing as if it had been welded -- yet NONE of the red pigment penetrated. \[JW\]
+
+</div>
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

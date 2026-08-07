@@ -1,0 +1,53 @@
+---
+title: "Index of /~sunset/Church"
+source_domain: amasci.com
+source_path: ~sunset/Church/index.html
+order: 8400
+reachable_from_entry: false
+images: 32
+internal_links: 13
+extracted: 2026-08-07T06:00:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Index of /~sunset/Church
+
+*Source page: `~sunset/Church/index.html`*
+
+# Index of /~sunset/Church
+
+     Name                    Last modified       Size  Description
+
+     Parent Directory        24-Apr-2002 16:15      -  
+     About1.htm              18-Jun-2001 13:44     8k  
+     Affinity.htm            18-Jun-2001 13:45    11k  
+     ArtShowGreen.gif        18-Jun-2001 13:50     1k  
+     Artist backup.htm       18-Jun-2001 13:45     8k  
+     Artists.htm             18-Jun-2001 13:45     9k  
+     Contact.htm             18-Jun-2001 13:45     3k  
+     Covenant2.htm           18-Jun-2001 13:45     4k  
+     Datelines.htm           18-Jun-2001 13:46     2k  
+     EUUC.htm                26-Apr-2001 11:40     2k  
+     Events.htm              18-Jun-2001 13:46    14k  
+     Hickman.htm             18-Jun-2001 13:46    12k  
+     Home.htm                07-Jun-2002 10:06     4k  
+     KidsRE.htm              18-Jun-2001 13:46     8k  
+     Links.htm               18-Jun-2001 13:46    12k  
+     Map3Y.GIF               18-Jun-2001 13:58    25k  
+     MapY.htm                18-Jun-2001 13:47     2k  
+     RE.htm                  18-Jun-2001 13:47     5k  
+     SServ1.htm              18-Jun-2001 15:13     8k  
+     Sermon.htm              23-Apr-2002 13:45    36k  
+     SocialConcerns.htm      18-Jun-2001 13:48    10k  
+     Toddler1.5-2.gif        18-Jun-2001 14:46    13k  
+     Welcome.htm             18-Jun-2001 13:48     4k  
+     WelcomeGroup2.GIF       18-Jun-2001 13:48     5k  
+     WelcomeGroup7.gif       26-Apr-2001 15:28     5k  
+     Wetland.htm             18-Jun-2001 13:49     2k  
+     Wetland2.htm            18-Jun-2001 13:49     2k  
+     artshow.htm             18-Jun-2001 13:45     2k  
+     bookstore.htm           19-May-2001 17:11     8k  
+     chalice_transparent.gif 02-May-2001 08:12     4k  
+     in_review.html          18-Jun-2001 13:46    73k  
+
+------------------------------------------------------------------------

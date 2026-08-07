@@ -1,0 +1,92 @@
+employment 
+
+Select the file format that works best for you... 
+
+ resume (html format) 
+
+ resume (MS Word format, small font, one page) 
+
+ resume (MS Word format, large font, three pages) 
+
+ resume (ascii text format) 
+
+Sample Code 
+
+ Perl 
+ cgi 
+ program 
+
+ click here to run program 
+
+ click here to view source code 
+
+ C++ 
+ cgi 
+ program 
+
+ click here to run program 
+
+click on a file below to view source code: 
+
+ a.txt 
+
+ b.txt 
+
+ c.txt 
+
+ d.txt 
+
+ Makefile 
+
+ aircraft.C 
+
+ aircraft.h 
+
+ cgi_data.C 
+
+ cgi_data.h 
+
+ data_file.C 
+
+ data_file.h 
+
+ errors.C 
+
+ errors.h 
+
+ fleet.C 
+
+ fleet.h 
+
+ html.C 
+
+ html.h 
+
+ main.C 
+
+ main.h 
+
+ main_private.h 
+
+ reservations.C 
+
+ reservations.h 
+
+ t_time.C 
+
+ time_slot.C 
+
+ time_slot.h 
+
+ unique_id.C 
+
+ unique_id.h 
+
+ foggy.dat 
+
+Other web sites I maintain: 
+
+ Bob Sanderson's homepage 
+
+ Leo & Mona Oxberger's
+homepage

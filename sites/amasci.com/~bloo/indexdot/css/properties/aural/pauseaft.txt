@@ -1,0 +1,92 @@
+Pause-After - Cascading Style Sheets Properties 
+
+ pause-after 
+ Support Key: 
+ CSS2 
+ Other Aural Properties 
+
+ volume 
+ stress 
+ richness 
+ azimuth 
+ elevation 
+ voice-family 
+ speak 
+ speak-punctuation 
+ speak-numeral 
+ pitch 
+ pitch-range 
+ speech-rate 
+ play-during 
+ pause 
+ pause-before 
+ cue 
+ cue-before 
+ cue-after 
+
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ Browser Dependent 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ No 
+ Applicable Media: 
+ Aural 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property specifies a pause to be inserted after speaking
+ an element's content. The pause is inserted between the element's
+ content and any 'cue-before' or 'cue-after' content.
+
+ Allowed Values 
+ inherit 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ [time] 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Sets the pause length to a time measurement (see the
+ time units for more details) 
+
+ [percentage] 
+ CSS2 
+ Type: Calculated 
+ Description: 
+ Refers to the inverse of the value of the 'speech-rate' property.
+ (eg: a value of 100% for 'pause-after' with a 'speech-rate' of
+ 60 words per minute would create a pause of 1 second.) 
+
+ Example 
+ Ext/Doc: blockquote {
+ pause-after: 1.5s } 
+ In-Line:&#160; < blockquote 
+ STYLE =" pause-after: 
+ 1.5s">text</ blockquote > 
+
+ Notes 
+
+ Before its inclusion in CSS2, this property was first proposed in the W3C
+ Working Draft "Aural Cascading Style Sheets (ACSS)" (1/7/97,
+ http://www.w3.org/Style/css/Speech/NOTE-ACSS )
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

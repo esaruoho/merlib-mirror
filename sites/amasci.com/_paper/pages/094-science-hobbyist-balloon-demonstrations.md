@@ -6,7 +6,7 @@ order: 94
 reachable_from_entry: true
 images: 2
 internal_links: 9
-extracted: 2026-08-03T18:11:20Z
+extracted: 2026-08-07T05:52:57Z
 extractor: site_to_paper.py (pandoc)
 ---
 
@@ -31,15 +31,15 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td><a href="http://amasci.com/">SCIENCE HOBBYIST</a>  |<br />
+<td><a href="/">SCIENCE HOBBYIST</a>  |<br />
 </td>
-<td><a href="http://amasci.com/scied.html">PROJECTS</a>  |<br />
+<td><a href="/scied.html">PROJECTS</a>  |<br />
 </td>
-<td><a href="http://amasci.com/unew.html">GOOD STUFF</a>  |<br />
+<td><a href="/unew.html">GOOD STUFF</a>  |<br />
 </td>
-<td><a href="http://amasci.com/news.html">NEW STUFF</a>  |<br />
+<td><a href="/news.html">NEW STUFF</a>  |<br />
 </td>
-<td><a href="http://amasci.com/search.html">SEARCH</a><br />
+<td><a href="/search.html">SEARCH</a><br />
 </td>
 </tr>
 </tbody>
@@ -65,7 +65,7 @@ extractor: site_to_paper.py (pandoc)
 <td width="15"> </td>
 <td data-valign="top" data-summary="main text content" width="800"><h1 id="balloon-demonstrations-science-classroom-physics-instructional-research-association-pira">BALLOON DEMONSTRATIONS, science classroom<br />
 Physics Instructional Research Association, PIRA</h1>
-<a href="http://amasci.com/amateur/balloon.html#first">scroll down</a>
+<a href="/amateur/balloon.html#first">scroll down</a>
 <p>From the PIRA FTP site at<br />
 ftp:// ftp.phys.ksu. edu/pub/pira /news+info/ balloon.txt<br />
 </p>
@@ -685,8 +685,8 @@ Want books? Try searching <a href="http://www.amazon.com/exec/obidos/redirect-ho
 
 (try " <a href="http://www.amazon.com/exec/obidos/tg/browse/-/13841/ref=br_bx_c_1_0/sciencehobbyist/" rel="nofollow">science experiment project</a>" too)
 
-<http://amasci.com/amateur/balloon.html>\
-Created and maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\
+[/amateur/balloon.html](/amateur/balloon.html)\
+Created and maintained by [Bill Beaty](/billb.html). Mail me at: [<img src="/graphics/abc.gif" data-border="0" width="141" height="19" />](/amfrm/).\
 
 <div class="statcounter">
 

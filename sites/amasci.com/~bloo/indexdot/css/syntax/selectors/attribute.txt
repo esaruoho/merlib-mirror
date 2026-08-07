@@ -1,0 +1,158 @@
+Attribute Selectors - Cascading Style Sheet Syntax 
+
+ Attribute Selectors 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ What Are They? 
+ These Selectors specify a portion of the document tree based
+ upon its context with relation to attribute values for elements.
+
+ Simple Attribute Selector 
+ CSS2 | N6
+ | O4 
+ Description: 
+ This Selector matches all elements containing the specified attribute. The
+ value of the attribute is unimportant in this case.
+ Syntax: 
+ [Attribute] 
+ { [ Declaration Block ] } or 
+ Element[Attribute] 
+ { [ Declaration Block ] }
+ Example: 
+ blockquote[title] 
+ { color: red } 
+ [matches all blockquote elements with a 'title' attribute. ] 
+
+ Attribute Value Selector 
+ CSS2 | N6 
+ Description: 
+ This Selector matches all elements containing the specified attribute which
+ use the specified attribute value.
+ Syntax: 
+ [Attr="value"] 
+ { [ Declaration Block ] } or 
+ Elem[Attr="value"] 
+ { [ Declaration Block ] }
+ Example: 
+ h2[align="left"] 
+ { cursor: hand } 
+ [Matches all occurrences of the element named 'h2' using an 'align'
+ attribute set to 'left'.] 
+
+ "Begins-with" Attribute Value Selector 
+ CSS3 | N6 
+ Description: 
+ Matches all elements with the specified attribute that BEGIN 
+ with the specified value. This selector would match attribute values that
+ are equal to it as well as to longer values of which it is a substring.
+ Syntax: 
+ [Attr^="value"] 
+ { [ Declaration Block ] } or 
+ Elem[Attr^="value"] 
+ { [ Declaration Block ] }
+ Example: 
+ h2[align^="left"] 
+ { cursor: hand } 
+ [Matches all occurrences of the element named 'h2' using an 'align'
+ attribute where "left" is at the beginning of the value.] 
+
+ "Ends-with" Attribute Value Selector 
+ CSS3 | N6 
+ Description: 
+ Matches all elements with the specified attribute that END with the
+ specified value. This selector would match attribute values that are equal to it as
+ well as to longer values of which it is a substring.
+ Syntax: 
+ [Attr$="value"] 
+ { [ Declaration Block ] } or 
+ Elem[Attr$="value"] 
+ { [ Declaration Block ] }
+ Example: 
+ a[href$=".html] 
+ { cursor: url(weblink.cur) } 
+ [Matches all occurrences of A elements using an 'href'
+ attribute (hyperlinks) that end in ".html"] 
+
+ Substring-match Attribute Value Selector 
+ CSS3 | N6 
+ Description: 
+ Matches all element/attribute combinations that have at least one occurrence
+ of the indicated value as a substring.
+ Syntax: 
+ [Attr*="value"] 
+ { [ Declaration Block ] } or 
+ Elem[Attr*="value"] 
+ { [ Declaration Block ] }
+ Example: 
+ h2[align*="left"] 
+ { cursor: hand } 
+ [Matches all occurrences of the element named 'h2' using an 'align'
+ attribute where "left" is any part of the value.] 
+
+ One-Of-Many Attribute Value Selector 
+ CSS2 | N6
+ | O4 
+ Description: 
+ This is a special form of the Attribute Value Selector, allowing a
+ portion of an attribute value to be exactly matched where the portions
+ of the attribute value are separated by spaces. This is especially
+ useful in HTML with the common CLASS attribute where multiple classes
+ can be assigned to a single element.
+ Syntax: 
+ [Attribute~="value"] 
+ { [Declaration Block] } or 
+ Element[Attribute~="value"] 
+ { [Declaration Block] }
+ Example: 
+ h3[class~="class2"] 
+ { font-weight: bold } 
+ [would match < h3 
+ CLASS ="class2"> and < h3 
+ CLASS ="class1 class2">] 
+
+ Hyphen Attribute Value Selector 
+ CSS2 
+ Description: 
+ This is another special form of the Attribute Value Selector, allowing a
+ portion of an attribute value to be exactly matched, where the portions of
+ the attribute value are separated by hyphens. The search for the attribute
+ value fragment always starts from the beginning of the value. This Selector
+ type is especially useful with RFC 1766 language values used in the HTML
+ common LANG attribute and the xml:lang attribute.
+ Syntax: 
+ [Attribute|="value"] 
+ { [Declaration Block] } or 
+ Element[Attribute|="value"] 
+ { [Declaration Block] }
+ Example: 
+ p[foo|="bar"] 
+ { background-color: yellow } 
+ [would match < p 
+ FOO ="bar-foo"> but not
+ < p 
+ FOO ="foo-bar">] 
+
+ Namespace Attribute Selector 
+ CSS3 | N6 
+ Description: 
+ This syntax allows distinct XML namespaces to be addressed for attributes
+ and their values in selectors.
+ Syntax: 
+ [Namespaceprefix|Attribute="Value"] |
+ { [Declaration Block] } 
+ Example: 
+ [foo|desc="value"] 
+ { color: red } 
+ [references all DESC attributes in the FOO namespace that have a value of "value"] 
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

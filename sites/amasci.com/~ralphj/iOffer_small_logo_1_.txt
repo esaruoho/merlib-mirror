@@ -1,0 +1,20 @@
+lign=right>
+
+ Dial Access Setup 
+
+ Linux 
+ MacIntosh 
+ OS/2 
+ Windows 
+
+ Client Setup 
+
+ E-Mail 
+ Usenet News 
+
+ Making a Website 
+
+ CGI Help 
+ Java
+Development Kit 
+ WWW info

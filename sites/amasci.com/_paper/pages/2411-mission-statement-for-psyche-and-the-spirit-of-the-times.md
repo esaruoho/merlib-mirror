@@ -1,0 +1,33 @@
+---
+title: "Mission Statement for Psyche and the Spirit of the Times"
+source_domain: amasci.com
+source_path: ~dcs/s04/psychemission.html
+order: 2411
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T05:55:58Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mission Statement for Psyche and the Spirit of the Times
+
+*Source page: `~dcs/s04/psychemission.html`*
+
+# Mission Statement for Psyche and the Spirit of the Times
+
+*For more information, see the [Psyche and the Spirit of the Times](s04psyche.html) main page.*
+
+The psychologist C. G. Jung asserted that we are living in a time of the “changing of the gods” when fundamental values are shifting and the entire culture seems to be undergoing a rite of passage. In this liminal period of uncertainty, we are confronted with deep questions about ourselves, our nation and the future. What does it mean to be an American citizen in a democratic society? What sense can we make of terror, violence, and the impulse to destroy? What is the path of the heroine or hero as they make their way through the wasteland? What psychological and spiritual resources can we draw upon to confront fear, strengthen the soul, and become better citizens? Of what value are The Good, the True and The Beautiful in times such as these? What is America’s destiny and its role in the fate of the earth?
+
+Psyche and the Spirit of the Times is a community service project that was initially constellated around the American election of 2004. That election served to illuminate the fault lines of the American psyche as it split over fundamental issues of war, the economy, and the environment. The goal of Psyche and the Spirit of the Times was to initiate a series of community dialogues that moved beyond typical political and economic categories to include the experience and wisdom of the psyche. In doing so, our aim was to take psyche out of the privacy of the therapy room and into the public domain where we could discuss how the structure and dynamics of the psyche were operating in the American election.
+
+After the election of 2004, it seems more imperative than ever that we reflect carefully about the psychic forces that are loose in the culture. Our goal continues to be to present speakers who can illuminate the repressed and hidden archetypal dominants that are shaping our future and to suggest forms of collective therapy that are life affirming and effective. A crucial aspect of each session is the opportunity to engage in dialogue with our fellow citizens. Come join us in a spirit of hope that our caring can ameliorate some of the suffering that inevitably accompanies a shift of archetypal realities, that caring will lead us into a deeper understanding of the role that each of us plays in the future of our country and our planet.
+
+------------------------------------------------------------------------
+
+[C.G. Jung Society, Seattle home page](../index1.html)
+
+Updated: 25 March 2005\
+\
+<webmaster@jungseattle.org>

@@ -1,0 +1,22 @@
+Poetry Links - Markov Generator 
+
+ Home | What's New | Anthologies and Link Sites | Poets 
+ Journals | Movements and Criticism | Tools | Members 
+
+ Markov {model, chain} 
+
+ Markov Generator 
+
+ Markov uses the exact same process as Travesty but applies it to words rather than to characters.
+"Word" here means a sequence of non-blank characters and includes punctuation as well as letters. The
+name comes from the statistical process used here and in Travesty, a Markov chain.
+
+ See the explanation of Travesty here for more details.
+
+ Markov can be used to scramble a source text before using it in another process such as diastic
+reading.
+
+ Use the back button or click here to go to the Markov Generator
+page.
+
+ Last updated 21 January 2002.

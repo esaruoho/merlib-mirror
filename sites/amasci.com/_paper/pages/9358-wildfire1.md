@@ -1,0 +1,254 @@
+---
+title: "wildfire1"
+source_domain: amasci.com
+source_path: ~vecna/wildfire1.html
+order: 9358
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T06:01:56Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# wildfire1
+
+*Source page: `~vecna/wildfire1.html`*
+
+# Fire and Blood
+
+## by Christine Morgan
+
+------------------------------------------------------------------------
+
+\
+         "Mother, stop!" the Queen of Delain screamed.\
+         When the young Queen's words had no effect, unable to penetrate her mother's fury, the Earl of\
+Riverwood went into action. Normally the most peaceful of men, always ready to calm his tempestuous\
+wife, he recognized that his music would not help in time. Therefore, though he hardly ever raised a\
+hand in anger, he stepped forward and slapped his wife sharply across the face.\
+         Gwendolyn Torrance Waldegrave whirled on her husband, black hair whipping around her face,\
+cheeks flushed with rage, eyes wild. Aron stood his ground, though the air around him grew tight and\
+tense. He reached out, ignoring the searing heat that threatened to blister his fine minstrel's hands, and\
+pulled her into his arms. She resisted, the temperature in the room climbing several more degrees. He\
+refused to let go.\
+         "Darling, please," he said, keeping his voice even and melodious. "Belynda is not hurt. You're\
+frightening her. Please calm down."\
+         His words penetrated her blinding anger, dissolving her immediately into hysterical sobs. He cradled\
+her head against his chest, stroking her long hair, murmuring soothing words.\
+         "Assassin --" she managed to say before starting to cry harder, clutching him with a panicky strength\
+that belied her diminutive size.\
+         "It's all right, Mother," Belynda said. "He's dead."\
+         Though the Queen was still trembling with fear at her recent ordeal, she drew herself up and took\
+charge of the situation. Aron was proud of her. Ignoring the smoldering heap of ash that was all that\
+remained of the cloaked man that had appeared without warning in the midst of her grand hall, stepping\
+over the charred crossbow bolt that had so recently been flying toward her crowned head, Belynda\
+addressed the gathered nobles. She had to raise her voice to be heard over the crying of several of the\
+ladies, her own mother included.\
+         "Lord Tyrone," she said to an older gentleman whose long moustache was badly singed, "Send for\
+the Royal Healer and have him bring his assistants. Lady Evaine, Baroness Korsta, see to the other\
+ladies." The two women, the most composed among the court, curtseyed and started herding their\
+charges into the least-scorched corner of the hall.\
+         "Sir Daniel," Belynda said, a slight blush staining her cheeks as the handsome, muscular young\
+knight swiftly knelt at her feet, "select a few able men to put out the fires."\
+         "At once, my Queen," he said, kissing the hem of her sooty gown.\
+         Her blush deepened. Aron suppressed a smile. It was hard to believe that the girl-child whose\
+tormented birth he had witnessed was now almost a young lady, and every inch a Queen.\
+         The grand hall of Delain's palace was hot and smoky despite the cool evening weather. Expensive\
+tapestries imported all the way from Garland hung in blackened strips. The woven carpets were still\
+ablaze in spots. Of the assembled nobility and courtiers, a dozen were burnt and many of the rest were\
+coughing or slapping at tiny fires in their hair or clothes. One of the long tables was engulfed in flame,\
+and it was to this target that Sir Daniel and his men moved first.\
+         The commander of Belynda's palace guard hurried in amid a great clatter of armor. He sketched a\
+rapid bow and delievered his report still gasping for breath.\
+         "There are no signs of any others, Majesty. We're starting a search of the entire castle, and I've sent\
+men into the streets."\
+         "My babies!" Gwendolyn said, bringing her head up with such speed and force that she clipped Aron\
+under the chin and almost made him bite off his tongue. He paid it no mind, lost in sudden fear for his\
+infant sons.\
+         "What about my brothers?" Belynda asked the commander.\
+         "Awakened by the ruckus, Majesty, but unhurt. I posted a guard."\
+         "Double it!" Gwen ordered.\
+         The commander glanced to the Queen, who nodded. Aron felt the knot in his stomach ease a bit. His\
+wife and sons were the most important things in the world to him, more than his earldom or even his\
+music. The thought of any harm coming to them, or to the gifted and wonderful girl that he wished was\
+his own daughter, made his blood burn.\
+         Gradually, order was restored to the grand hall. The Healers arrived and began tending the injured.\
+The flames were extinguished. And Gwen brought herself under control long enough to examine the\
+remains of the would-be assassin. The guards tried to stop her, but one look from her smoky eyes was all\
+it took. Wordlessly, they fell back.\
+         Aron watched as his wife knelt beside the man she had killed. She had used no spells or other magic,\
+though she was one of the most powerful fire-mages in Andur. What had utterly destroyed the assassin,\
+virtually in the blink of an eye, was a small ring of red-gold. Her first husband had hated that ring, and\
+to this day still did. But Aron thanked the gods for that ring, and thanked the pyreads for giving such a\
+gift to a human girl. It translated the wearer's emotions into temperature. At the sight of the man in black\
+dropping from one of the ceiling beams, a crossbow pointed at her daughter, Gwendolyn's rage had\
+erupted like a volcano. The twang of the crossbow had nearly been lost in the roar and crackle of flames.\
+         Her face twisted into a pucker of disgust, Gwen poked through the ashes. Aron moved closer. Some\
+of the nobles watched curiously, while others turned away. Sir Daniel, his work finished, stood\
+protectively near the young Queen.\
+         Something white appeared in the ashes. Gwen picked it up and dusted it off. As it came clear, Aron\
+felt the room grow warm again.\
+         It was a knife, a black-and-white-handled knife with a simple legend carved around the hilt.\
+ *                I have sought him, I have found him*\
+         "Fourcity," she said, clenching it in one small hand. Many of the nobles stared, fascinated, as the\
+metal blade began to melt and run like wax.
+
+     \*  \*  \*
+
+         Gwendolyn Torrance Waldegrave, also known as Lady Aiden, mother of the Queen of Delain, wife\
+of the Earl of Riverwood, who was believed to be the secret true love of Prince Peter of Delain, and was\
+the former wife of the notorious Harold Ethelbald, entered her room and closed the door.\
+         She crossed calmly to the mirror and regarded her reflection. Her fair skin was smeared with soot,\
+and her hair was in complete disarray though she had spent an hour arranging it before the feast. Her\
+lovely gown of scarlet silk was charred, the hem burnt away to expose her fancy stockings and gold\
+dancing slippers.\
+         She smelled of smoke. She had smelled smoke on the day that her family died at the hands of\
+horrible dogsbody demons. Ever since, she had associated that scent with anger, loss, and despair. She\
+had smelled smoke the time she had set fire to the lawn at Greenvale and boiled exotic fish in their\
+fountain pool. She had smelled smoke when they had rescued Peter from the Needle and she'd caused\
+half of Delain City to go up in flames. The time she remembered most vividly was the night from hell\
+when she'd been caught in the midst of a battle between the Overlord's forces and Alan IV's avenging\
+army. She'd thought death would come for her that night, for her, Toby, and for baby Belynda, whose\
+future as Delain's Queen was as yet unforseen by everyone except possibly Rannian.\
+         Thinking of the placid, dark-eyed Seer made her mad all over again. Why hadn't Rannian warned\
+her that assassins would be coming after Belynda? She had spent the last twelve years in a state of\
+paranoid fear that someone would try and take her precious little girl away from her. She had spent\
+thousands in Pandathaway's magic shops purchasing items to protect her daughter.\
+         She forced herself to take a few deep breaths. She could not be mad at Rannian. If Belden were to be\
+believed, the Seer was Lunari himself. She had spent half of her life hating the gods to no avail. Rannian\
+must have known about the assassin, and seen that she would handle it herself without any harm coming\
+to Belynda.\
+         She brushed out her long black hair and braided it into a single plait. There was little thought to her\
+actions as she slipped out of her gown and into a worn outfit of dark-colored leathers. Her drake, red\
+Phoenix, watched her anxiously and chirped once or twice, but she ignored even that. Her thoughts were\
+on Fourcity.\
+         She'd spent a large part of her young life in the city in the center of the Four Duchies. Her parents\
+had held lands away to the west, near the borders of the Duchy of Rhaff, but following their hideous\
+deaths, she had been forced to live with the inhuman creatures that claimed to be her uncle and cousins.\
+        She'd been a virtual slave, bound by terror, unable to escape until one day when the torment had become\
+too much to bear. Fourcity had been a prison, a place where she had spent cold winters locked in a\
+windswept attic, huddled in misery and constant fear. Like the smell of smoke, it was something she\
+linked with the bad feelings. She rarely went back, and every time she did, the urge to destroy grew\
+stronger.\
+         The time had come to stop denying those urges. Fourcity had gone too far. In her mind, the assassin\
+was just a single part of a huge, horrible monster. The actions of that one man could be laid at every\
+door in the city. Every single person was to blame.\
+         Aron knew what she was planning. He knew her too well, even better than she knew herself. She\
+was glad that he knew her well enough to stay out of her way, because she did not want to argue with the\
+man she loved. She did love Aron, though for a long time she had despaired of ever loving again. He\
+made her feel safe, precious, treasured. It was entirely unlike the thrilling, tingling feelings she'd had for\
+Harry, or the sweepingly romantic emotions she'd felt for Peter. Harry had turned out to be an uncaring,\
+unloveable cad. Only Rebecca, the gods alone knew why, could see anything in him to love despite his\
+callous treatment of her. And Peter, dear Peter, had literally been the handsome prince of her dreams.\
+Fate and circumstance had kept them from seeking any sort of lasting passion.\
+         She would never forget the things his brother Thomas had said on the day that Belynda became\
+Queen. Could it be true that Peter had been in love with her all that time? That he had never married in\
+hopes that she would someday come to him? She remembered the way his dark blue eyes had lit up when\
+she appeared in his throne room the day he'd been reviewing ladies under pressure from his advisors to\
+choose a bride, the genuinely warm and delighted smile with which he'd greeted her, and the quickly-\
+hidden look of disappointment that had come over him when she'd explained that she wasn't there for\
+that purpose.\
+         She thought about him sometimes as she walked the halls of the palace, the same halls where he had\
+played as a boy, before the awful incident that resulted in his false imprisonment. What did he think, she\
+wondered, if he looked down from the Realm Beyond to see what had happened in Delain? Did he\
+approve of Belynda, who could have been his own true daughter? Did he remember what had really\
+happened that night in the Needle, or was his memory, like hers, clouded by wine and confusion? She\
+wished she could remember, wished she could tell Belynda who her true father was. She supposed she\
+could consult the Seers, but fear held her back. Fear that Belynda might actually be Harry's daughter.\
+There were three men that Belynda could call Father, but Harry was the only living one who had any sort\
+of likely claim. Aron, who loved Belynda best of all, had the least claim.\
+         Her sword was hanging way in the back of the closet. She got it out, ignoring Phoenix's worried\
+protests, and held it up. Deciding that she would not need the blade for the night's work, she tossed it on\
+the bed. She stamped her feet into her old adventuring boots, which she hadn't worn in years, and threw\
+her cloak over her shoulders. Glancing again in the mirror, she gasped. It was like looking back through\
+time. She touched her face, almost expecting to feel the ugly scrawled scar that one of her cousins had\
+left as a reminder of his cruelty. The skin remained smooth and unblemished. Otherwise, it was like\
+seeing herself as she'd been all those years ago. She could almost expect to go to Funess and see Toby as\
+a child, instead of the good-looking young man he'd grown into. She could go to the Grey Pony and see\
+Sara, still years before the terrible events that would lead her to murder Peter and die herself on Delain's\
+chopping block. She could visit Coppers' shop and find just a crazy old man, instead of a crazy old man\
+who now had a peculiar Damonite wife and a son named after a jackalope.   Yes, the years\
+had brought a lot of changes, and while some of them were bad, many had been good. The girl she'd\
+been back then had been ugly, ashamed of her scar, distrustful. She was still distrustful, particularly of\
+Fourcity and anything that Harry had to say, but she was no longer ugly or ashamed. Even the possibility\
+of her infidelity did not trouble her, because the people of Delain blessed her for it. They loved their\
+Queen, and under Belynda's rule, Delain prospered as it never had.\
+         Thinking of her daughter reminded her of her purpose. Fourcity had tried to hurt her baby, and\
+Fourcity was going to pay. She pulled up her hood and went into the nursery that adjoined her chambers.\
+The guards, on edge, reacted in alarm to the sight of a hooded figure entering the room and nearly shot\
+her down before one of them recognized her. She hastily pushed back her hood and apologized, keenly\
+aware of how close she had come to being killed by the very people whose presence she'd demanded.\
+         The guards returned to their posts, and she approached the oversized crib. Her twin sons, Alan and\
+Peter, were snuggled beneath a fluffy blanket. Her familiar, a fox named Sasha, was lying awake and\
+watchful at the end of the crib.\
+         Peter's hair was dark, like her own, and Alan's head was covered by a reddish fuzz. Even in sleep,\
+he bore a strong resemblance to his father. The palace staff had given them the nicknames of Smoke and\
+Fire. The twins were inseperable, and the joke, "wherever there's Smoke, there's Fire", had already\
+grown old.\
+         She touched their tiny faces. Following Belynda's difficult birth, she'd been terrified of having\
+another child. But Aron had wanted a child of his own so badly, and it was the only thing he had ever\
+asked of her. Thankfully, the twins had come quickly and easily, though their timing was awkward. They\
+had been born right in the middle of the dramatic revelation of Belynda's heritage, sharing their birthday\
+with her coronation day.\
+         Leaning over, she kissed them each on the forehead. Peter wrinkled his nose, perhaps smelling the\
+smoke that still clung to her, and rubbed his eyes.\
+         "I love you, babies," she whispered. Beckoning to Phoenix, she tucked the drake under the blanket.\
+        "Take care of them."\
+         "Don't worry," Sasha said, causing the guards to look around uneasily. The people of Delain had\
+laregly gotten used to her menagerie, which consisted not only of Sasha and Phoenix but a young\
+hippogryph, a tame bear, and half a dozen other creatures. The fact that Sasha could talk was still the\
+cause of some superstitious concern. Delain was slowly coming to accept magic, but the road was long\
+and rough.\
+         "Nobody's going to hurt these cubs," Sahsa continued. Phoenix warbled in agreement.\
+         "Not with you on guard," she said, stroking the russet pelt. "I'll see you later."\
+         She nodded to the guards, and went back to her own room. Standing in the center, head down, she\
+closed her eyes and concentrated on Fourcity. Dismal, dingy, hated Fourcity. When her destination was\
+firmly fixed in her mind, she opened her eyes and looked once more around the room. It could be that\
+she would never see it again.\
+         Forcing the negative thought away, she decided she was ready to go.\
+         Gwendolyn Torrance Waldegrave, also known as Lady Aiden, had entered the room. But it was a\
+woman called Wildfire that teleported out.
+
+     \*  \*  \*
+
+         She arrived in Fourcity mere heartbeats later, and the dirty, narrow streets were worse than she'd\
+remembered. She imagined she could see the dogsbodies lurking beneath the faces of everyone she\
+passed. Some of them looked her over with the eyes of a predator, scanning for jewelry or pouches of\
+coin. She carried no money, not anticipating needing any on this trip, and the only article of jewelry she\
+wore was the one that she intended to use.\
+         The rage that had gone undiminished, since she first saw the man in black raged up inside of her.\
+This time, there was no gentle Aron to soothe her, no innocent people that might be harmed. There was\
+only Fourcity, the place of her tortured childhood. Like the phoenix that she revered, she had come home\
+to burn. By destroying Fourcity, she would not only be avenging herself on those who would try to hurt\
+her daughter. She would also be destroying her past, freeing herself to rise reborn from the ashes of what\
+had been.\
+         "You should have left me alone," she said.\
+         A passing mad glanced at her curiously, then decided she was just a harmless loony. He never had\
+time to rethink that opinion, because seconds later, the flames began.
+
+     \*  \*  \*
+
+         Chaos reigned in Fourcity that night. One one side of town, a strange vigilante showered the poor\
+with plundered goods from a looted Tristan temple, and the priests of the god of theives had been routed\
+and killed. Elsewhere, the fires spread hungrily from one building to the next, consuming everything in\
+their path. New blazes sprang up in a random, wandering trail of destruction. The people of Fourcity,\
+human and dogsbody alike, did what they could to battle or escape the raging fires, and many of them\
+feared that the gates of hell had opened wide.\
+         By daylight, less than half of the buildings were still standing, and most of those were severely\
+damaged. Blackened bodies littered the streets. Many were human, but the few survivors found some that\
+were obviously inhuman, hideous demonic shapes. Those discoveries strengthened the rumor that a gate\
+had been opened.\
+         The dukes, visiting the city later in the day, were inclined to agree. Such overwhelming destruction\
+could not have been caused by anything less than the forces of the Abyss itself, they said.\
+ Meanwhile, one woman returned to Delain. She was blistered from the ferocity of her own flame,\
+exhausted, emotionally drained, and finally satisfied. Fourcity had pain, paid in the only coin that she\
+would accept. In fire and blood.
+
+     \*  \*  \*\
+
+------------------------------------------------------------------------
+
+\
+*Copyright 1992 by Christine Morgan*\
+ \
+ \

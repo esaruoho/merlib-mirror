@@ -1,0 +1,393 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0314.htm
+order: 6687
+reachable_from_entry: false
+images: 18
+internal_links: 0
+extracted: 2026-08-07T05:59:27Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0314.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a.gif" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="95" height="175" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+<img src="http://www.music.columbia.edu/~roosevlt/shahn/ben.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="200" height="250" alt="?" />\
+-- **MARCH 14 -- BEN SHAHN\
+Lithuanian-born graphic artist, social conscience.See our Saints Page,\
+<http://recollectionbooks.com/bleed/saints/StBenShahn.htm>\**
+
+> 
+>
+> ------------------------------------------------------------------------
+>
+> FEAST OF HYPERBOREA
+>
+> Rangoon, Burma: PILGRIMAGE TO THE DRAGON PAGODA, to wash the dust from the thousand Buddhas within.
+>
+> ------------------------------------------------------------------------
+
+\
+[](%0B)\
+
+> []()\
+> \
+> 1471 -- Sir Thomas Malory who may have completed compiling/translating Le Morte d'Arthur while in prison dies in London's Newgate Prison. []()\
+> []()\
+> \
+> 1794 -- US: Eli Whitney patents the cotton gin, a device for automatically removing seeds from cotton bolls. []()\
+> []()\
+> \
+> 1826 -- Klutz?: Sir Walter Scott compares his novels with Jane Austen's: "the exquisite touch, which renders ordinary commonplace things & characters interesting . . . is denied to me." []()\
+> []()\
+> \
+> 1829 -- England: Charles Charlesworth lives. Dies at 7 of old age. []()\
+> []()\
+> \
+> <img src="http://recollectionbooks.com/bleed/Encyclopedia/Bakunin/bakuninLevine_tn.jpg" data-border="0" data-hspace="10" data-vspace="10" width="100" height="125" alt="?" />\
+> 1838 -- During this month Mikhail Bakunin's "Preface to Hegel's Gymnasium Lectures" is published.
+>
+> anarchist
+>
+> \
+>
+> > []()\
+> > []()\
+> > \
+> > 1850 -- Honore de Balzac, 51, marries Polish Countess Evelina Hanska, after 18 years of romantic correspondence.\
+> > <http://fileroom.aaup.uic.edu/FileRoom/documents/Cases/180balzac.html>\
+> > []()\
+> > \
+> > <img src="http://www.compufinity.com/img/einstein.jpg" data-border="0" data-hspace="10" data-vspace="10" data-="" width="372" height="205" alt="?" />\
+> > 1879 -- Relativity theorist, peace activist Albert Einstein probably lives, more or less, Ulm, Germany. Charter member of the American Federation of Teachers local 552 at Princeton University in 1938
+> >
+> > > "The human mind is not capable of grasping the Universe. We are like a little child entering a huge library. The walls are covered to the ceilings with books in many different tongues. The child knows that someone must have written these books. It does not know who or how. It does not understand the languages in which they are written. But the child notes a definite plan in the arrangement of the books, a mysterious order which it does not comprehend, but only dimly suspects."  <http://www.westegg.com/einstein/>\
+>
+> []()\
+> \
+> <img src="http://recollectionbooks.com/bleed/images/humor/grslepthere.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="300" height="233" alt="Groucho Marx" />\
+> 1883 -- Karl Marx dies, in poverty, London, age 64.\
+> <http://members.aye.net/~mainman/groucho/>\
+> \
+> <http://csf.colorado.edu/mirrors/marxists.org/>\
+> []()\
+> \
+> <img src="http://www.themodernword.com/joyce/bookstore_image_middle.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="160" height="195" alt="?" />\
+> 1887 -- The founder of bookstore Shakespeare & Company, Sylvia Beach, lives, her father's parsonage in Baltimore.\
+> <http://infoshare1.princeton.edu:2003/libraries/firestone/rbsc/aids/beach.html>\
+> []()\
+> \
+> 1891 -- US: The American Way? Louisiana mob storms a jail & lynches 11 Italian immigrants recently acquitted of murdering the Sheriff of New Orleans. []()\
+> []()\
+> \
+> 1896 -- France: Louis Cottin lives. Received a death sentence (later commuted) for trying to assassinate Clmenceau in 1919 (see below). Cottin was killed during Spanish Revolution in 1936, as a member of the famed anarchist Durruti Column.\
+> <http://tigerden.com/~berios/durruti.html>\
+> <http://www.geocities.com/Athens/Acropolis/8195/blasts/pointblank/spanishrevolution.htm>\
+> \
+> <img src="http://flag.blackened.net/anarpics/malatesta.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="79" height="96" alt=" ? " />\
+> 1897 -- Italy: Errico Malatesta clandestinely re-enters the country, at Ancne, & begins publishing the anarchist newspaper L'agitazione. []()\
+> <http://flag.blackened.net/revolt/ws/errico48.html>\
+> <http://tigerden.com/~berios/libertarians.html>\
+> []()\
+> \
+> 1904 -- Armas iki (1904 - 1965) lives. Finnish writer, poet, Communist & journalist.
+>
+> (alt., Armas Aikia)
+>
+> <http://www.kirjasto.sci.fi/aikia.htm>\
+> []()\
+> \
+> 1907 -- US: Beloved & Respected Comrade Leader President Theodore Roosevelt excludes Japanese laborers from the continental US. []()\
+> []()\
+> \
+> 1907 -- US: Stock market crash, New York City. []()\
+> []()\
+> \
+> 1912 -- Italy: Antonio d' Alba shoots at Beloved & Respected Comrade Leader King Victor-Emmanuel III who was attending a mass funeral for Beloved & Respected Comrade Leader Humbert I (killed on July 29, 1900 by Gaetano Bresci). The young anarchist d' Alba is sentenced to forced labor. []()\
+> []()\
+> \
+> <img src="http://recollectionbooks.com/bleed/images/labor/IWWclampswooltrustinLawrence_med.jpg" data-border="0" data-hspace="10" data-vspace="10" width="400" height="469" alt="?" />\
+> 1912 -- US: IWW (Industrial Workers of the World) agrees to terms granting wage increases as 10,000 strikers gather & vote, successfully ending the "Bread & Roses" Lawrence Textile Strike of 32,000-people against wool mills. The strike was precipitated by wage cuts & horrendous working conditions. Lawrence, Massachusetts.
+>
+> > > "They are always marching & singing.
+> > >
+> > > The tired, gray crowds ebbing & flowing perpetually into the mills had waked & opened their mouths to sing."
+> > >
+> > > --- Mary Heaton Vorse
+> >
+> > Martial law had been declared by a city owned by big business; workers were arrested, some sent to jail for a year; a young Syrian striker, John Ramy, was bayoneted to death (But, noted Joe Ettor, "Bayonets cannot weave cloth."); a pregnant woman beat so badly by police that she gave birth to a dead baby; & the strike dragged on. But the workers refused to give in.
+> >
+> > & when the raises were won, the strikers insisted that the largest increases go to the lowest-paid.
+> >
+> > <http://1912.history.ohio-state.edu/labor/theiww.htm>\
+> > <http://home.earthlink.net/~dwgsht/lawrence.html>\
+> > <http://www.freespeech.org/stevenpfo/nna/essays/zinn/Wobbly.htm>\
+> > <http://infoshop.org/texts/iww.html>\
+> > 
+> >
+> > - See also Howard Zinn, The Twentieth Century: A Peoples History []()\
+> >
+> >   []()\
+> >   \
+> >   1914 -- Canada: United Farmers of Ontario founded at Toronto's Labor Temple. []()\
+> >   []()\
+> >   \
+> >   1919 -- The 23-year-old Louis-Emile Cottin sentenced to death. Commuted to 10 years in prison following a protest campaign organized in the pages of the anarchist "Libertaire". See 2 February 1919.\
+> >   <http://perso.club-internet.fr/ytak/mars2.html#cottin>\
+> >   []()\
+> >   \
+> >   1922 -- Less than a year after beginning work at the Shawmut National Bank, author & founder of the Black Sun Press Harry Crosby resigns following a 6-day bender.\
+> >   \
+> >   Source: Geoffrey Wolff, Black Sun (Random House, 1976)\
+> >   <http://www.banger.com/banger/crosby/bio.html>\
+> >   []()\
+> >   \
+> >   <img src="http://www.torget.se/users/c/Chilli/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="?" />\
+> >   1932 -- Germany: Emma Goldman's tour continues (14-23) with two meetings in Dresden & Leipzig, & further engagements in Naumburg, Zella-Mehlis, Erfurt, & Smmerda. 
+> >
+> >   anarchist
+> >
+> >   []()\
+> >   []()\
+> >   \
+> >   1934 -- England: National Civil Liberties Council founded. []()\
+> >   []()\
+> >   \
+> >   1944 -- US: TWU organizes Philadelphia transit workers into Local 234. []()\
+> >   []()\
+> >   \
+> >   1949 -- US: To protest military build-up 41 people publicly refuse to pay income tax. []()\
+> >   []()\
+> >   \
+> >   1961 -- US: B-52 carrying nuclear weapons crashes in California while on a training flight. []()\
+> >   []()\
+> >   \
+> >   <img src="http://www.municipio.re.it/manifestazioni/berneri/occhicaleffi.GIF" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="150" height="98" alt="?" />\
+> >   1962 -- Giovanna Caleffi Berneri dies. Italian anarchist, married to Camillo Berneri (murdered by the Communists in Spain), mother of Marie Louise Berneri, Giliana Berneri (all anarchists).\
+> >
+> >   alt; Maria Luisa Berneri
+> >
+> >   <http://www.municipio.re.it/manifestazioni/berneri/caleffi.htm>\
+> >   <http://www.municipio.re.it/manifestazioni/berneri/dopo.htm>\
+> >   <http://recollectionbooks.com/bleed/sinners/BerneriCamillo.htm>\
+> >   <http://recollectionbooks.com/bleed/sinners/BerneriMarieLouise.htm>\
+> >   <http://www.mercatiesplosivi.com/famber.html>\
+> >   <http://www.municipio.re.it/manifestazioni/berneri/gilberneri.htm>\
+> >   []()\
+> >   \
+> >   <img src="http://mcadams.posc.mu.edu/oswald.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="125" height="330" alt=" Patsy " />\
+> >   1964 -- US: Dallas jury finds Jack Ruby guilty of Lee Harvey Oswald murder.
+> >
+> >   <http://mcadams.posc.mu.edu/oswald.htm>\
+> >   <http://www.webcom.com/~lpease/restrooms/cartoons/Os-Marines.htm>\
+> >
+> >   \
+> >   []()\
+> >   \
+> >   1968 -- Alphabet Soup?: CBS TV suspends RFE free advertising because RFE (Radio Free Europe) doesn't make it clear it is sponsored by the CIA. []()\
+> >   []()\
+> >   \
+> >   1968 -- Commission report publishes evidence of large-scale extermination of tribes (poisoning & machine-gunning) by Brazil's Indian Protection Service. Nearly 30 years later, such attacks are still alarmingly common.\
+> >   []()\
+> >   []()\
+> >   \
+> >   <img src="http://recollectionbooks.com/bleed/images/art/lgTl35981_med.jpg" data-vspace="10" data-hspace="10" width="400" height="206" />\
+> >   1969 -- Graphic artist & social conscience Ben Shahn dies, New York City. See our Saints page,\
+> >   <http://recollectionbooks.com/bleed/saints/StBenShahn.htm>\
+> >   <http://www.music.columbia.edu/~roosevlt/shahn/shahn1.html>\
+> >   <http://www.artmuseums.harvard.edu/Shahn/>\
+> >   \
+> >   1970 -- US: Stamp Act? First American postal strike.
+> >
+> >   []()\
+> >   []()\
+> >   \
+> >   <img src="http://members.aol.com/hynews/fannie.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="191" height="240" alt=" ? " />\
+> >   1977 -- US: Mississippi's angriest woman, Fannie Lou Hamer, dies in Ruleville, Mississippi, at age 69.
+> >
+> >   > In 1962, the Student Non-Violent Coordinating Committee, or SNCC \[snick\] approached her to register to vote. This got her fired &, that night, a mob shot into her home. Then Hamer began her work in the civil-rights movement as SNCC field secretary. In 1963, an arrest & beating in Winona, Mississippi, left her permanently injured.
+> >   >
+> >   > Hamer gained national attention as a leader of the Mississippi FreedomDemocratic Party, which challenged the state's all-white delegation to the1964 National Democratic Convention. She also concentrated on AfricanAmerican self-reliance, including the Freedom Farm Cooperative, which fed 1,500 people.
+> >   >
+> >   > Why such devotion? Hamer's famous response (now engraved on her headstone):
+> >   >
+> >   > 
+> >   >
+> >   > > "I'm sick & tired of being sick & tired."
+> >   >
+> >   > <http://www.ibiblio.org/sncc/hamer.html>\
+> >   > <http://www.teleport.com/~megaines/hamer.htm>
+> >
+> >   \
+> >
+> >   > > []()\
+> >   > > \
+> >   > > 1979 -- A military jet cargo plane on a training mission crashes into a factory outside Peking, China, killing the 12-member crew & 32 factory workers. []()\
+> >   > > []()\
+> >   > > \
+> >   > > 1981 -- Eric Clapton admitted to United Hospital in St. Paul, Minnesota after a serious attack of bleeding ulcers. []()\
+> >   > > []()\
+> >   > > \
+> >   > > 1983 -- For the first time in its 23-year history, the Organization of Petroleum Exporting Coutries (OPEC) agrees to cut the prices of its crude oil. The decision reflects falling worldwide demand for OPEC products. []()\
+> >   > > []()\
+> >   > > \
+> >   > > 1984 --
+> >   > > YOUTH ROBS WOMAN TRAPPED UNDERNEATH BUS IN TRENTON OF \$2000.
+> >   >
+> >   > *-- The New York Times*
+> >
+> >   []()\
+> >   []()\
+> >   \
+> >   <img src="http://www.utsidan.se/abbey/images/ed-clr.gif" data-hspace="30" data-align="left" width="142" />\
+> >   1989 -- No More Monkeying Around: American naturalist novelist, anarchist, xenophobe, Cactus Ed Abbey Lives! Died, more or less, today.
+> >
+> >   >  He wanted his body transported in the bed of a pickup truck. He wanted to be buried as soon as possible. He wanted no undertakers. No embalming, for Godsake. No coffin. Just an old sleeping bag... Disregard all state laws concerning burial. "I want my body to help fertilize the growth of a cactus or cliff rose or sagebrush or tree," said the message.<img src="http://www.artdamage.com/graphic/abbey/edstamp.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="154" height="226" alt="?" /> As for graveside ceremony: He wanted gunfire, & a little music. "No formal speeches desired, though the deceased will not interfere if someone feels the urge. But keep it all simple & brief." And then a big happy raucous wake. He wanted more music, gay & lively music. He wanted bagpipes. "& a flood of beer & booze! Lots of singing, dancing, talking, hollering, laughing, & lovemaking," said the message. & meat! Beans & chilis! & corn on the cob. Only a man deeply in love with life & hopelessly soft on humanity would specify, from beyond the grave, that his mourners receive corn on the cob.
+> >
+> >   \
+> >   
+> >
+> >   > *"I work best under duress. In fact I only work under duress."*
+> >   >
+> >   > 
+> >   >
+> >   > > 
+> >   > >
+> >   > > A Prayer for the Traveler
+> >   > >
+> >   > >  by Edward Abbey
+> >   > >
+> >   > >  May your trails be crooked, lonesome, dangerous, leading to the most amazing view. May your mountains rise into & above the clouds, May your rivers flow without end, meandering through pastoral valleys tinkling with bells, past temples & castles & poets towers into a dark primeval forest where tigers belch & monkeys howl, through miasmal & mysterious swamps & down into a desert of red rock, blue mesas, domes & pinnacles & grottos of endless stone, & down again into a deep vast ancient unknown chasm where bars of sunlight blaze on profiled cliffs, where deer walk across the white sand beaches, where storms come & go as lightning clangs upon the high crags, where something more beautiful & more full of wonder than your deepest dreams waits for you -- beyond that next turning of the canyon walls.
+> >   >
+> >   > <http://www.utsidan.se/abbey/abbey.html>\
+> >   >
+> >   > "It's a fools life, a rogue's life, & a good life if you keep laughing all the way to the grave."
+> >   >
+> >   > <http://www.ior.com/~mikej/abbey.html>\
+> >   > \
+> >   > 1990 -- US: Sixteen disabled rights activists arrested at the US Capitol demanding passage of what becomes the Americans With Disabilities Act.
+> >
+> >   []()\
+> >   []()\
+> >   \
+> >   1993 --
+> >
+> >   <div align="LEFT">
+> >
+> >   
+> >   
+> >   **When Gay Talese raised the question, "Where are the Italian American Novelists?" on the front page of the March 14, 1993 New York Times Book Review, I believed that he might be bringing, for the first time, national attention to the possibilities that there might be a literary tradition that is distinctly Italian American. However, hindered by his lack of familiarity with the vast body of literature created by American writers of Italian descent, Talese reduced the experience ofItalian-American writers to his own....**
+> >
+> >   </div>
+
+
+
+In John Fante I found the Italian-American Hemingway. He wanted to be a writer so badly that he sent stories, accompanied by long letters to H. L. Mencken, then one of the leading voices of American literature. Mencken rejected the stories and published the letters.
+
+By 1940, Fante had already published half of his lifetime production of short stories in nationalmagazines ... & had also published two novels & a collection of his stories (Dago Red, 1940). 
+
+His four-book saga of Arturo Bandini, of which Wait Until Spring, Bandini! is the first, follows a young Italian Catholic who lights out for California with the intent of escaping his family and its ethnicity by becoming a writer. 
+
+All of Fante's work spoke to me with a voice that drowned outall the American literature I had read in school. 
+
+
+
+
+
+> > <http://www.italianstudies.org/iam/essay.htm>\
+>
+> []()\
+> \
+> 1998 -- Pi in the Sky?: At the Exploratorium in San Francisco, mathematicians assembled as usual to celebrate pi (3.14159 etc.). One of probably dozens or maybe hundreds of such assemblies worldwide at which people sing songs & recite poetry about pi, have pi trivia quizzes, & eat pie.
+>
+> (Pi, the ratio of a circle's circumference to its diameter, is a mathematically irrational number, & is thus considered to be a symbol for the mystery of the universe.) 
+>
+> > Moe: "When the roll is called up yonder Ill eat pie."\
+> > Curly: "Pi r?"\
+> > Moe: "No, pie are round; cake are square."\
+> > Curly: "Oh."\
+> > Moe: "No, O are round, also."\
+> > 
+>
+> []()\
+> []()\
+> \
+> <img src="http://www.infoshop.org/img2/bookfair2.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="200" height="170" alt="?" />\
+> 1998 -- US: Third Annual Bay Area Anarchist Book Fair. Artists & Speakers include Lawrence Ferlinghetti, Arther Evans, John Shirley, Pat Califia, & Will Rosco. Over 50 exhibitors from all over the United States sell radical & anti-authoritarian books, records, posters &tee-shirts. <http://www.infoshop.org/bookfair98.html>\
+> \
+> []()\
+> \
+> 2007 -- Germany: A mass refusal to pay water charges in the city of Bremen quickly escalates into a series of bitter & widening conflicts with authorities. 
+>
+> > After two demonstrators are killed by police, city workers go on strike, followed within a few days by most of the rest of the country. 
+> >
+> > Deployment of UN troops triggers all-out revolt, which spreads into France & Italy. 10 days later & Western Europe is in insurrectionist hands, though it will take more than 3 years & no little bloodshed before the last of the global capitalist economy is dismantled, & the period of universal harmony is inaugurated.
+> >
+> > Source: 'Calendar Riots' []()\
+>
+> []()\
+> \
+> 3000 --
+>
+> > 
+> >
+> > ------------------------------------------------------------------------
+> >
+> > "The prestige of government has undoubtedly been lowered considerably by the prohibition law. For nothing is more destructive of respect for the government & the law of the land than passing laws which cannot be enforced. It is an open secret that the dangerous increase of crime in this country is closely connected with this."
+> >
+> > 
+> >
+> > Albert Einstein, *"My First Impression of the U.S.A."*, 1921 
+> >
+> > ------------------------------------------------------------------------
+>
+> []()\
+>
+> []()\
+> \
+> 3500 --
+>
+> 
+>
+> > "Too many of our poets novelists essayists seem to be taking the side of the State in that ancient & inevitable conflict between the State & the independent individual. This is wrong; that is not the natural place for a writer. If it weren't for all these fools & fanatics running around trying to make things better, then most certainly things would get worse. We need this constant pressure against the barriers to change in order simply to prevent a collapse into total evil. The tension against wrong. To keep things from getting worse."
+> >
+> >        Ed Abbey
+>
+> > []()\
+> > []()\
+> > \
+> > 5000 --
+> >
+> > <img src="http://www.jargonbooks.com/003.JPG" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="240" height="240" alt="?" /> []()\
+> > []()\
+> >
+> > ------------------------------------------------------------------------
+> >
+> > anti-CopyRite 2000-3000, more or less\
+> > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > or send questions, suggestions, additions, corrections to:\
+> > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> >
+> > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> >
+> > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> >
+> > anarchist, labor, radical books
+> >
+> > See also: Anarchist Encyclopedia\
+> > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > Stan Iverson Memorial Library\
+> > http://recollectionbooks.com/siml/\
+> > Anarchist Time Line / Chronology\
+> > http://recollectionbooks.com/bleed/indexTimeline.htm

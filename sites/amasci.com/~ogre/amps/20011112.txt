@@ -1,0 +1,185 @@
+Amps and EFX - Loop Garou 
+
+ WHAT&#146;S NEW 
+
+ ABOUT US 
+
+ FORUMS 
+
+ GUITAR TAB 
+
+ REVIEWS 
+
+ INTERVIEWS 
+
+ HELP 
+
+ Site Tour 
+
+ Beginners Songs 
+
+ Intermediate Songs 
+
+ Guitar Columns 
+
+ Guitar Lessons 
+
+ Bass Lessons 
+
+ Songwriting 
+
+ Sound Engineering 
+
+ The Other Side 
+
+ Interviews 
+
+ Reviews 
+
+ Books 
+
+ Links 
+
+ Search 
+
+ Advanced Search 
+
+ You are here: Home , Amps & EFX , Loop Garou 
+
+ Loop Garou 
+
+ Amps & EFX # 3 
+ Published November 12, 2001 
+ By Stefan 
+ Leonhardt 
+
+ Print this page 
+ Email to a Friend 
+
+ Bookmark 
+ this page 
+
+ Most amps today have more sockets 
+ than just "input". Chances are, your amp also has 
+ two labeled "send" and "return" - the 
+ Effects Loop. What's it good for other than a feature that 
+ might give the salesman more to talk about? 
+ Well ... 
+ The signal that "travels" through your amplifier 
+ normally takes the following route: 
+ Input - Preamp with EQ section (generally responsible for 
+ sound and - if you want - overdrive) - Power amp (generally 
+ responsible for volume, although with tube power amps the 
+ sound is also shaped). 
+
+ All well and good, the problem is that some effects 
+ (modulating effects like chorus or delay effects like delay 
+ and reverb) work and sound better if they come after any 
+ distortion or gain that is applied to your guitar signal. 
+ For example, it would not sound too good if you put the 
+ reverb before the overdrive. Why is that so? In short, you 
+ want a reverb on your overdriven signal, not an overdriven 
+ reverb. 
+ There are some basic rules that "govern" 
+ where to put effects in the signal chain (I'll add more specific 
+ information in later articles when talking about the specific 
+ effects): 
+
+ If the effect modulates the signal, put it after any preamps 
+ or overdrive/distortion boxes. 
+ If the effect boosts the signal, put it before overdrive 
+ (a compressor for example). 
+ There are no rules! Break them, experiment! 
+
+ Now without the effect loop, all you can do is put your effect 
+ boxes between your guitar and the input of the amp. If you 
+ use an overdrive/distortion box for your sound and not the 
+ amp's "hot" channel, all is well as long as you 
+ remember to have the overdrive/distortion among the first 
+ effects your signal travels through, in most cases before 
+ effects like chorus, delay, reverb, flanger etc (see text 
+ above). 
+ But if you use your amp's overdrive channel, you get the 
+ problems described above (the effect box with the delay now 
+ comes before the overdrive). This is where the effect loop 
+ comes in. The guitar signal comes from your amp's preamp and 
+ through "send" goes into those effects that should 
+ be put behind any overdrive. The signal comes back into your 
+ amp through the "return" socket. There are little 
+ switches inside these sockets that make sure the signal goes 
+ to the right place, depending on whether a cable is plugged 
+ in or not. Therefore, you should have all the stomp boxes 
+ that should come before overdrive between your guitar and 
+ the amp's input and all the boxes that should come after overdrive 
+ after your amp's preamp in the effect loop. 
+
+ "Ok, but I've got a multi-efx 
+ unit - what can I do now?" (Please note that in my eyes, 
+ something like a POD is just a sort of multi-efx: different 
+ effects - overdrive being an effect - and a way to save the 
+ parameters and sounds)? 
+ If you want to use your amp only to amplify the great sounds 
+ you've programmed into your multi, you don't want the signal 
+ to pass the amp's preamp because the preamp EQ section will 
+ color that sound. You want the signal to go straight to the 
+ power amp. So the signal path is: guitar - multi efx input 
+ - multi efx output - amp "return". Remember to switch 
+ off the multi-efx's "speaker simulation" - you don't 
+ need it, your amp has a guitar speaker, so why emulate one 
+ in addition? 
+ If you want to use your amp's sound, things get more complicated. 
+
+ a) easy way of doing it: Use your amp's clean and overdrive 
+ sounds and the multi-efx only to provide the effects that 
+ should come after overdrive/distortion. Put the multi into 
+ the effect loop. 
+ b) But I want the full monty: I want to use the overdrive 
+ sounds of my amp and my multi and the effects of my multi-efx 
+ that usually come before overdrive (compressor for example)! 
+ Gulp ... just hope your multi-efx has an effect loop, too. 
+ The signal path then is: guitar - multi - efx input - multi 
+ efx "send" (the signal has now passed the effects 
+ that should come before gain and the multi's overdrive section) 
+ - amp input - amp "send" (the signal has now passed 
+ the gain section of the amp) - multi-efx "return" 
+ - multi-efx output (the signal has now passed the effects 
+ that belong after the gain stage) - amp's "return" 
+ - the signal now "reaches" the power amp. 
+
+ Try it, but remember to turn the volume down before you 
+ switch everything on - you might have to adjust quite 
+ a bit of controls to make it work (the volume and gain controls 
+ of your multi's effects, the input sensitivity of the multi 
+ ...). 
+ Some amps have a series others a parallel effect 
+ loop. With a series effect loop, the guitar signal (=your 
+ sound) comes from the preamp of your amp, "leaves" 
+ your amp through the send jack, runs through the inserted 
+ effect and comes back through the return jack. 100% of 
+ your signal goes through the effect. Many people have 
+ found that their sound suffers (great tube amps and - perhaps 
+ cheaper - digital effects => maybe loss of sound). 
+ The solution was the parallel loop: with the control, 
+ you control how much of your original signal leaves the amp 
+ and passes through the effect. The "remaining" signal 
+ stays in your amp, preserving much of your sound, and is "joined" 
+ again by the signal coming back from the effect, now with 
+ effects on it. So you can mix the dry (without effect) and 
+ the wet (with effects) signals, but keep in mind that you 
+ won't hear much of the effects if you only put a tiny part 
+ of your signal through the effect box. The effects in the 
+ loop should be set so that they let out no original signal 
+ but 100% effect signal. You decide with the parallel effect 
+ knob how much effect you want. 
+ Hope you're still with me next time when we start talking 
+ about the individual effects. 
+ Stefan Leonhardt 2001-11-12 
+ Previous 
+ lesson in this series "Breaking The Law?" 
+ Next to a list of lessons 
+ in this series 
+
+ Back to top 
+
+ Copyright &copy; 2003 Guitar Noise. All 
+ rights reserved. Site Map. Masterlist. Privacy Statement. Contact Us.

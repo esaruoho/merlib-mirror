@@ -1,0 +1,29 @@
+---
+title: "Radio 4 Export Discussion About British Television Abroad"
+source_domain: amasci.com
+source_path: ~rkj/weekly/aa062199.htm
+order: 6909
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T05:59:41Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Radio 4 Export Discussion About British Television Abroad
+
+*Source page: `~rkj/weekly/aa062199.htm`*
+
+### Radio 4 Export Discussion
+
+Dateline: June 21, 1999
+
+Following on a British government report earlier this year that said British TV exports suffered because they were "dreary," a meeting of TV executives to discuss this dilemma in June was covered on the BBC [Radio 4](http://www.bbc.co.uk/radio4/) Show *The Message* on June 4th. I was asked to contribute some comments about the state of British TV in the U.S. My comments were recorded a day earlier over the phone... nearly 20 minutes worth, which were then edited down to 60 seconds - the net effect making me sound reasonably coherent. Here's what was said:
+
+**Host**: "First a word from an American who loves British TV and bemoans the failure to get the best stuff on over there. He's Ryan K. Johnson and he has a [website](http://www.eskimo.com/~rkj/brit.htm) and British TV media [club](http://www.eskimo.com/~onan/tardis/)."
+
+**Ryan**: "The one thing I hear over and over again is that the most popular British comedy here is [*Are You Being Served?*](http://www.comedyzone.beeb.com/aybs/aybs_home.html). [*Benny Hill*](http://pages.prodigy.com/PA/mrbrittas/Benny.html) of course has been shown a million times here. Those are two programs, and perhaps [*Keeping Up Appearances*](http://britcoms.com/kua/), that your typical American probably will have seen if they've seen any British television.... I want to see [*Father Ted*](http://www.geocities.com/Paris/2694/craggy.html) in America, it's been shown in Canada but not here, and everybody I know who's seen it, loves it.... A good comedy is universal, regardless of the language, or the accents, or anything.... [*Goodness Gracious Me*](http://www.comedyzone.beeb.com/ggm/index.html) went over very well, that's something that I think should be imported in this country even though we don't have a very large Indian population here - it's funny.... I don't watch *Keeping Up Appearances* although I did quite enjoy Patricia Routledge in *Hetty Wainthropp Investigates*, I thought it was very well done.... American shows tend to lay things out very carefully at the beginning, so nobody's confused. British shows might take the first half hour or so to just slooowly introduce you to this world. You're not quite sure who these characters are, what's going on, and how the plot's going to develop. And that's probably the hardest thing for an average American to get into is: how the drama is set up."
+
+There then followed in the studio a 10 minute discussion with a program distributor, and a research director from a University media unit about what possibly British producers are doing wrong (and Americans doing right - it was pointed out the US has a 90% market share abroad on television). The distributor said one wave of the future wasn't to sell programs abroad per se, but their formats, adapting them for local consumption. "Taking chances" with new series was often cited as a necessary element, although the British tendency to only produce a small number of episodes a year is a constant liability.
+
+[**Previous Features**](mpreviss.htm)

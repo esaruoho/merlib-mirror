@@ -1,0 +1,3012 @@
+(original author)
+ Karl Berry 
+ Olaf Bachmann 
+ and many others.
+Maintained by: Olaf Bachmann 
+Send bugs and suggestions to 
+
+-->
+
+ Algae: Standard Functions 
+
+ [ << ] 
+ [ >> ] 
+ [ Top ] 
+ [ Contents ] 
+ [ Index ] 
+ [ ? ] 
+
+ 6. The Standard Functions 
+
+Functions are called by giving their name followed by a parenthesized
+list of their arguments. For example, sqrt(a) computes the
+square root of its argument `a' . The parentheses are required,
+whether they contain any arguments or not. Functions may take more than
+one number and kind of argument. 
+
+ 6.1 Basic Math abs, sin, sqrt, ... 
+ 6.2 Arrays fill, sparse, zero, ... 
+ 6.3 Sets union, intersection, ... 
+ 6.4 Linear Algebra solve, factor, fft, ... 
+ 6.5 Numerical Analysis ode, brent, ... 
+ 6.6 Basic I/O read, printf, ... 
+ 6.7 Entity I/O get, put, ... 
+ 6.8 Execution source, system, ... 
+ 6.9 Special Tools plot, npsol, ... 
+ 6.10 Miscellaneous who, what, time, ... 
+
+ 6.1 Basic Math 
+
+ Function: abs ( x ) 
+ The abs function returns the absolute value of its numeric
+argument. "Absolute value" is synonymous with "magnitude" for
+complex types. If x is non-scalar, every element is replaced by
+its absolute value. 
+
+ x must be a numeric scalar, vector, or matrix.
+
+ Function: acos ( x ) 
+ The acos function returns the arc cosine of its numeric
+argument. If it's argument is complex or has a magnitude greater than
+one, then the result is complex. Otherwise, the result is real. If
+ x is non-scalar, every element is replaced by its arc
+cosine. 
+
+The argument x must be a numeric scalar, vector, or matrix. 
+
+ Function: acosh ( x ) 
+ The acosh function returns the hyperbolic arc cosine of its
+numeric argument. If it's argument is complex or is less than 1.0, then
+the result is complex. Otherwise, the result is real. If x is
+non-scalar, every element is replaced by its hyperbolic arc cosine. 
+
+The argument x must be a numeric scalar, vector, or matrix. Note
+that acosh(0) is not zero, so if acosh is applied to a
+sparse vector or matrix, then a dense array is the result. 
+
+ Function: arg ( z ) 
+ The arg function returns the argument (phase angle) of its
+numeric argument. 
+
+See also abs .
+
+ Function: asin ( x ) 
+ The asin function returns the arc sine of its numeric argument.
+If it's argument is complex or has a magnitude greater than one, then
+the result is complex. Otherwise, the result is real. If x is
+non-scalar, every element is replaced by its arc sine. 
+
+The argument x must be a numeric scalar, vector, or matrix. 
+
+ Function: asinh ( x ) 
+ The asinh function returns the hyperbolic arc sine of its numeric
+argument. If x is non-scalar, every element is replaced by its
+hyperbolic arc sine. 
+
+The argument x must be a numeric scalar, vector, or matrix. 
+
+ Function: atan ( x ) 
+ The atan function returns the arc tangent of its numeric
+argument. If it's argument is complex, then the result is complex.
+Otherwise, the result is real. If x is non-scalar, every element
+is replaced by its arc tangent. 
+
+The argument x must be a numeric scalar, vector, or matrix.
+
+ Function: atanh ( x ) 
+ The atanh function returns the hyperbolic arc tangent of its
+numeric argument. If it's argument is complex or has magnitude greater
+than 1.0, then the result is complex. Otherwise, the result is real.
+If x is non-scalar, every element is replaced by its hyperbolic
+arc tangent. 
+
+The argument x must be a numeric scalar, vector, or matrix.
+
+ Function: atan2 ( y; x ) 
+ The atan2 function computes an angle corresponding to y and
+ x , the lengths of the opposite and adjacent sides. This is
+similar to atan(y/x) , but with these differences: 
+
+The signs of y and x are used to determine the quadrant in
+which the angle lies. The angle returned is in the range -pi to
+pi. 
+
+The argument x may be zero, as long as y is nonzero. This
+is different than atan(y/x) , because it avoids division by
+zero. 
+
+The arguments must be numeric scalars, vectors, or matrices. 
+
+ Function: ceil ( x ) 
+ The ceil function returns the ceiling of its numeric argument.
+The ceiling of x is the smallest integer that is not less than
+ x . If x is complex, the ceiling is applied to both real and
+imaginary parts. If x is non-scalar, every element is replaced by
+its ceiling. The type of x is not changed by ceil . 
+
+ x must be a numeric scalar, vector, or matrix.
+
+ Function: conj ( x ) 
+ The conj function returns the complex conjugate of its numeric
+argument. If x is non-scalar, every element is replaced by its
+complex conjugate. 
+
+ x must be a numeric scalar, vector, or matrix.
+
+ Function: cos ( x ) 
+ The cos function returns the cosine of its numeric argument. If
+ x is non-scalar, every element is replaced by its cosine. 
+
+ x must be a numeric scalar, vector, or matrix.
+
+ Function: cosh ( x ) 
+ The cosh function returns the hyperbolic cosine of its numeric
+argument. If x is non-scalar, every element is replaced by its
+hyperbolic cosine. 
+
+ x must be a numeric scalar, vector, or matrix.
+
+ Function: exp ( x ) 
+ The exp function returns the exponential of its numeric argument.
+If x is non-scalar, every element is replaced by its
+exponential. 
+
+ x must be a numeric scalar, vector, or matrix.
+
+ Function: floor ( x ) 
+ The floor function returns the floor of its numeric argument.
+The floor of x is the largest integer that is not greater than
+ x . If x is complex, the floor is applied to both real and
+imaginary parts. If x is non-scalar, every element is replaced by
+its floor. The type of x is not changed by floor . 
+
+ x must be a numeric scalar, vector, or matrix.
+
+ Function: imag ( x ) 
+ The imag function returns the imaginary part of its numeric
+argument. If x is non-scalar, every element is replaced by its
+imaginary part. The value returned by imag has real type. 
+
+See also real .
+
+ Function: integer ( x ) 
+ The integer function converts the real part of its numeric
+argument to integer type, rounding it if necessary. 
+
+See also round .
+
+ Function: log ( x ) 
+ The log function returns the natural logarithm of its numeric
+argument. If x is non-scalar, every element is replaced by its
+logarithm. 
+
+ x must be a numeric scalar, vector, or matrix.
+
+ Function: log10 ( x ) 
+ The log10 function returns the base-10 logarithm of its numeric
+argument. If x is non-scalar, every element is replaced by its
+base-10 logarithm. 
+
+ x must be a numeric scalar, vector, or matrix.
+
+ Function: real ( x ) 
+ This function returns the real part of x . The value returned by
+ real has real type. 
+
+See also imag .
+
+ Function: round ( x ) 
+ The round function rounds its numeric argument to the nearest
+whole number. If x is complex, both real and imaginary parts are
+rounded. If x is non-scalar, every element is rounded. The type
+of x is not changed by round . 
+
+If Algae has been compiled to use the system's rint(3m) function, then
+arguments with a fractional part of exactly 1/2 are rounded to the
+nearest even whole number. Otherwise, such arguments are rounded
+towards +infinity. 
+
+See also integer .
+
+ Function: sin ( x ) 
+ The sin function returns the sine of its numeric argument. If
+ x is non-scalar, every element is replaced by its sine. 
+
+ Function: sinh ( x ) 
+ The sinh function returns the hyperbolic sine of its numeric
+argument. If x is non-scalar, every element is replaced by its
+hyperbolic sine. 
+
+ Function: sqrt ( x ) 
+ The sqrt function returns the square root of its numeric
+argument. If x is complex or negative, then the result is
+complex. Otherwise, the result is real. If x is non-scalar,
+every element is replaced by its square root. 
+
+ Function: tan ( x ) 
+ The tan function returns the tangent of its numeric argument. If
+ x is non-scalar, every element is replaced by its tangent. 
+
+ Function: tanh ( x ) 
+ The tanh function returns the hyperbolic tangent of its numeric
+argument. If x is non-scalar, every element is replaced by its
+hyperbolic tangent. 
+
+ 6.2 Arrays 
+
+ Function: band ( m; flag ) 
+ The band function computes the upper and lower bandwidths and
+profiles of the square matrix m . The row bandwidth of a
+particular row is the number of elements to the left of the diagonal in
+that row, but not including any consecutive zero elements at the
+beginning of that row. Likewise, the column bandwidth of a particular
+column is the number of elements above the diagonal in that column, but
+not including any consecutive zero elements at the beginning of that
+column. Notice that, for a diagonal matrix, all row and column
+bandwidths are zero. The lower bandwidth is the largest of all the row
+bandwidths, and the upper bandwidth is the largest of all the column
+bandwidths. The lower profile is the sum of all the row bandwidths, and
+the upper profile is the sum of all the column bandwidths. 
+
+This function returns an integer vector with four elements. In order,
+these elements are as follows: lower bandwidth, lower profile, upper
+bandwidth, and upper profile. 
+
+Profile reduction can be very effective in reducing the time and memory
+required to factor a matrix. The function gpskca provides one
+approach for doing this. 
+
+See also gpskca .
+
+ Function: bdiag ( x; m; n ) 
+ The bdiag function mimics the diag function, but in a
+"block" sense. The matrix x is taken to be comprised of
+ m rows and n columns of blocks that are themselves matrices.
+If either m or n is 0, then the matrix returned has the
+blocks of x on its diagonal and is elsewhere zero. Otherwise,
+the blocks of the diagonal of x are appended together. 
+
+An example of the former case is:
+
+ &#62; M = magic (4)
+ [ 9 7 6 12 ]
+ [ 4 14 15 1 ]
+ [ 16 2 3 13 ]
+ [ 5 11 10 8 ]
+&#62; bdiag (M; 0; 2)
+ [ 9 7 . . ]
+ [ 4 14 . . ]
+ [ 16 2 . . ]
+ [ 5 11 . . ]
+ [ . . 6 12 ]
+ [ . . 15 1 ]
+ [ . . 3 13 ]
+ [ . . 10 8 ]
+
+An example of the latter case is:
+
+ &#62; bdiag ( M; 2; 2 )
+ [ 9 7 3 13 ]
+ [ 4 14 10 8 ]
+
+ x must be scalar, vector, or matrix. After being converted to a
+matrix, if necessary, the number of rows of x must be evenly
+divisible by m (unless m is 0) and the number of columns of
+ x must be evenly divisible by n (unless n is 0). 
+
+See also btrans and diag .
+
+ Function: btrans ( x; m; n ) 
+ The btrans function mimics the transpose operator, but in a
+"block" sense. The matrix x is taken to be comprised of m 
+rows and n columns of blocks that are themselves matrices. The
+blocks themselves are not transposed, but are simply moved across the
+diagonal. 
+
+For example:
+
+ &#62; M = magic (4)
+ [ 9 7 6 12 ]
+ [ 4 14 15 1 ]
+ [ 16 2 3 13 ]
+ [ 5 11 10 8 ]
+&#62; btrans (M; 2; 2)
+ [ 9 7 16 2 ]
+ [ 4 14 5 11 ]
+ [ 6 12 3 13 ]
+ [ 15 1 10 8 ]
+
+ x must be scalar, vector, or matrix. After being converted to a
+matrix, if necessary, the number of rows of x must be evenly
+divisible by m and the number of columns of x must be evenly
+divisible by n . 
+
+See also bdiag .
+
+ Function: combine ( u; v ) 
+ The combine function appends the vectors u and v ,
+removing all but the first of any redundant elements. This is exactly
+like the union function, except that the result is not sorted. 
+
+ Function: cram ( shape; x ) 
+ This function uses the elements of x to make an entity described
+by the vector shape . If shape is NULL or has no elements, a
+scalar is returned. If shape has one element, then a vector of
+length shape[1] is returned. If shape has two elements,
+then a matrix with shape[1] rows and shape[2] columns is
+returned. 
+
+The elements of x are used, in order, to fill the new entity. For
+matrices, this proceeds by rows. If the entity returned has more
+elements than x , it is padded with zeros or null strings. For
+example, cram( 5; 1,2 ) returns the vector
+ (1,2,0,0,0) . 
+
+If the return value is an array, it may be either dense or sparse. The
+code will try to make a reasonable choice, but avoids spending much time
+in deciding. For example, cram( 1000; 1 ) returns a sparse
+vector since it is immediately apparent that most of its elements are
+zero. On the other hand, cram( 1000; (1:1000)&#60;2 ) is dense even
+though it would be more efficient to store it sparse; since its second
+argument is a dense vector, cram would need to check most of its
+elements to realize that. 
+
+The form function is identical to this function except that the
+arrays it returns are always dense. 
+
+See also fill , form , and zero .
+
+ Function: dense ( x ) 
+ The dense function converts its argument array to dense storage.
+See also sparse . 
+
+ Function: diag ( x ) 
+ The diag function performs two different tasks, depending on the
+class of x . If x is a matrix, then its diagonal is returned
+as a vector. If x is a vector, then a matrix is returned which
+has x as its diagonal and is zero elsewhere. (If x is a
+scalar, it is returned intact.) 
+
+See also bdiag .
+
+ Function: dice ( s ) 
+ The dice function takes a character scalar s and returns a
+character vector, each element of which is a single character from
+ s . For example, the expression dice("Go dawgs!") 
+yields 
+
+ ( "G", "o", " ", "d", "a", "w", "g", "s", "!" )
+
+See also split .
+
+ Function: diff ( v ) 
+ The diff function takes a numeric vector v and returns a
+vector of differences between its elements. If v has n 
+elements, then the return vector is 
+
+ v[2]-v[1], v[3]-v[2], ..., v[n]-v[n-1]
+
+The return vector has one less element than v . If v has
+labels, then the return vector contains all but the last one. 
+
+One simple use for diff is to compute forward-difference
+approximations for the slope of a curve. If c is a vector
+containing ordinates of the curve in its elements and abscissae in its
+labels, then the expression 
+
+ diff (c) / diff (unlabel (c.eid))
+
+returns an approximation to its slope. (The call to unlabel is
+probably unnecessary in most cases, but it avoids trouble when the
+labels of c themselves have labels.) 
+
+ Function: exsparse ( x ) 
+ This function disassembles a matrix, returning it in its "coordinate"
+form, suitable for reassembly by the mksparse function. A table
+is returned, containing the members shape , rows , cols ,
+and values . The argument matrix x must be numeric. Despite
+the name of the function, it need not be sparse. 
+
+See also mksparse .
+
+ Function: fill ( shape; x ) 
+ This function uses the elements of x to make an entity described
+by the vector shape . If shape is NULL or has no elements, a
+scalar is returned. If shape has one element, then a vector of
+length shape[1] is returned. If shape has two elements,
+then a matrix with shape[1] rows and shape[2] columns is
+returned. 
+
+The elements of x are used, in order, to fill the new entity. For
+matrices, this proceeds by rows. If the entity returned has more
+elements than x , then the elements of x are reused. For
+example, fill( 5; "a","b" ) returns the vector
+ ("a","b","a","b","a") . 
+
+When the return value from fill is a vector or matrix, it will
+always be dense. See the cram function for sparse return arrays.
+
+The form function differs from this function only in that it
+pads with zeros rather than reusing elements of x . 
+
+See also form , cram , and zero .
+
+ Function: find ( a; b ) 
+ The find function locates the elements of b that have the
+values given by a and returns a vector containing their element
+numbers. For example, find( 2,3; 0,1,2,3,4 ) returns the vector
+ (3,4) . One common use is in an expression like
+ A[find(77;A.rid);] , which returns the row (or rows) of a 
+having the row label 77. 
+
+If a is a scalar, then find(a;b) returns the element
+numbers of b , sorted from smallest to largest, for which the
+corresponding element of b is equal to a . If a is a
+vector, then find(a;b) returns the same as
+ find(a[1];b),find(a[2];b),... . 
+
+See also grep and lose .
+
+ Function: first ( v ) 
+ The first function returns the index of the first "true"
+element in the vector v . If none are found, 0 is returned. 
+
+See also find and last .
+
+ Function: form ( shape; x ) 
+ This function uses the elements of x to make an entity described
+by the vector shape . If shape is NULL or has no elements, a
+scalar is returned. If shape has one element, then a vector of
+length shape[1] is returned. If shape has two elements,
+then a matrix with shape[1] rows and shape[2] columns is
+returned. 
+
+The elements of x are used, in order, to fill the new entity. For
+matrices, this proceeds by rows. If the entity returned has more
+elements than x , it is padded with zeros or null strings. For
+example, form( 5; "a","b" ) returns the vector
+ ("a","b","","","") . 
+
+When the return value from form is a vector or matrix, it will
+always be dense. See the cram function for sparse return arrays.
+
+The fill function differs from this function only in that it
+reuses the elements of x rather than padding with zeros. 
+
+See also fill , cram , and zero .
+
+ Function: full ( x ) 
+ The full function converts a matrix stored in "sparse_upper"
+form to the "sparse" form. 
+
+ Function: gpskca ( m; flag ) 
+ The gpskca function attempts to find a symmetric permutation of
+the rows and columns of matrix m to reduce either its bandwidth or
+its profile. If the flag argument is "true" (in the sense of
+the test function, then the Gibbs-Poole-Stockmeyer algorithm is
+used for bandwidth reduction; otherwise, the Gibbs-King algorithm is
+used for profile reduction. See the description of the band 
+function for a definition of these terms. 
+
+The return value is the permutation, given as an integer vector with
+length equal to the order of m . Consider the following example
+interaction: 
+
+ &#62; a = symmetric (magic(6) &#62; 25);
+&#62; band (a)
+ ( 4, 13, 4, 13 )
+&#62; v = gpskca (a);
+&#62; b = a[v;v];
+&#62; band (b)
+ ( 2, 9, 2, 9 )
+
+First, the sparse, symmetric matrix a is created. The
+ band function shows that it has a bandwidth of 4 and a profile of
+13. Next, gpskca provides a permutation to reduce the profile.
+The matrix b is set to equal a but with this permutation
+applied. Finally, band shows that this permutation reduces both
+the bandwidth (to 2) and the profile (to 9).
+
+The matrix m must be either symmetric or hermitian. This function
+uses the GPSKCA subroutine written by John Lewis. 
+
+See also band .
+
+ Function: grep ( expr; v ) 
+ The grep function finds the elements of the vector v which
+match the pattern expr . The pattern is an extended regular
+expression which is given to the UNIX function egrep to do the
+searching. 
+
+The character strings in v must not contain a newline, or the
+results will generally be wrong. 
+
+Here are some examples (user input is preceded by the `&#62;' prompt):
+
+ &#62; grep ("a"; "ab", "ac", "bc")
+ ( 1, 2 )
+
+&#62; grep ("9$"; 1:40)
+ ( 9, 19, 29, 39 )
+
+&#62; m = magic (3)
+ [ 8 1 6 ]
+ [ 3 5 7 ]
+ [ 4 9 2 ]
+&#62; m.rid = "top", "middle", "bottom";
+&#62; m[ grep ("top|bottom"; m.rid); ]
+ [ 8 1 6 ]
+ [ 4 9 2 ]
+
+This is a terribly inefficient implementation (maybe someday Algae will
+have builtin regular expressions), but maybe you'll find it useful. 
+
+See also find and lose .
+
+ Function: hermitian ( x ) 
+ This function returns the hermitian part of the square, numeric matrix
+ x . If x has both row and column labels, they must match. 
+
+See also symmetric . 
+
+ Function: ident ( n ) 
+ The ident function returns an identity matrix with n rows
+and columns. 
+
+ Function: imax ( v ) 
+ This function returns the number of the element in v with the
+greatest value. If multiple elements qualify, then the number of the
+first one is returned. Complex values are not accepted. Note that
+ imax(v) is not necessarily equal to imin(-v) . 
+
+ v must be (or be convertible to) a vector, and must not have
+complex type. 
+
+See also imin , max , min , isort , and sort .
+
+ Function: imin ( v ) 
+ This function returns the number of the element in v with the
+least value. If multiple elements qualify, then the number of the last
+one is returned. Complex values are not accepted. Note that
+ imin(v) is not necessarily equal to imax(-v) . 
+
+ v must be (or be convertible to) a vector, and must not have
+complex type. 
+
+See also imax , max , min , isort , and sort .
+
+ Function: isort ( v ) 
+ This function sorts the elements of vector v in increasing order,
+and returns a vector containing the corresponding indices. For example,
+ sort(20,40,10,30) returns the vector (3,1,4,2) . The
+expression v[isort(v)] actually returns the sorted vector
+ v , although the builtin function sort does this more
+efficiently. Complex numbers are sorted primarily by real value and
+secondarily by imaginary value. 
+
+See also sort , max , min , and set .
+
+ Function: label ( x; a; b ) 
+ The label function assigns labels to vectors and matrices. If
+ x is a vector, a is assigned as its element labels. If
+ x is a matrix, a and b are assigned as its row and
+column labels, respectively. If x has any other class, an
+exception is raised. 
+
+See also unlabel .
+
+ Function: last ( v ) 
+ The last function returns the index of the last "true"
+element in the vector v . If none are found, 0 is returned. 
+
+See also find and first .
+
+ Function: linspace ( a; b; n ) 
+ The linspace function generates a vector of n elements,
+spaced uniformly between a and b . All three arguments must
+be (or be convertible to) scalars. The argument n must be (or
+round to) an integer greater than one. 
+
+The vector generation operator `:' also generates uniformly spaced
+vectors. With the operator, the number of elements is determined from
+the specified spacing; with the linspace function, the spacing is
+determined from the number of elements specified. Also notice that the
+last element of the vector returned by linspace is equal to
+ b , which is not necessarily the case with the `:' operator. 
+
+See also logspace .
+
+ Function: logspace ( a; b; n ) 
+ The logspace function generates a vector of n elements,
+spaced logarithmically between a and b . All three arguments must
+be (or be convertible to) scalars. Both a and b must be
+nonzero, and n must be (or round to) an integer greater than one. 
+
+Logarithmic spacing means that the logarithm of the result vector is a
+uniformly spaced vector. This also means that the ratio between any two
+adjacent elements is constant. Note that even if both a and
+ b are real, the result will be complex if they have opposite
+signs, and that a complex result will not necessarily form a straight
+line in the complex plane.
+
+See also linspace .
+
+ Function: lose ( a; b ) 
+ The lose function locates elements of b that do not have
+the values given by a and returns a vector containing their
+element numbers. For example, lose( 2,3; 0,1,2,3,4 ) returns the
+vector (1,2,5) . One common use is in an expression such as
+ A[lose(77;A.rid);] , which returns all of the rows of a that
+don't have the row label 77. 
+
+If a is a scalar, then lose(a;b) returns the element
+numbers of b , sorted from smallest to largest, for which the
+corresponding element of b is not equal to a . If a is
+a vector, then lose(a;b) returns the intersection of the results of
+ lose(a[1];b) , lose(a[2];b) , etc. 
+
+See also find .
+
+ Function: magic ( n ) 
+ The magic function returns a magic square of order n .
+(What system would be complete without it?) The elements of a magic
+square consist of all the integers 1 through n^2 , arranged so
+that the row, column, and the two diagonal sums are equal. 
+
+ n must be greater than 0. No magic square exists for order
+2. 
+
+ Function: matrix ( x ) 
+ This function converts its argument x to a matrix if possible.
+Scalars become one-by-one matrices, vectors become matrices with one
+row, and matrices are unchanged. If x is NULL, matrix 
+returns a real matrix with zero rows and zero columns. 
+
+See also scalar and vector .
+
+ Function: max ( v ) 
+ This function returns a scalar that equals the greatest value of any
+element in v . Complex values are not accepted. 
+
+Argument v must be (or be convertible to) a vector, and must not
+have complex type. 
+
+See also min , imax , imin , isort , and sort .
+
+ Function: merge ( x; y ) 
+ This function merges two entities, x and y , with respect to
+their labels. The result has labels that consist of the union of the
+labels of x and y . Its elements come from the corresponding
+elements in x and y ; they are summed when the same element
+occurs in both. 
+
+This is demonstrated by the following interactive session:
+
+ &#62; A = fill (3,3; 1:9)
+ [ 1 2 3 ]
+ [ 4 5 6 ]
+ [ 7 8 9 ]
+&#62; A.rid = A.cid = 1:3;
+&#62; B = fill (3,3; 10:90:10)
+ [ 10 20 30 ]
+ [ 40 50 60 ]
+ [ 70 80 90 ]
+&#62; B.rid = B.cid = 2:4;
+&#62; merge (A; B)
+ [ 1 2 3 0 ]
+ [ 4 15 26 30 ]
+ [ 7 48 59 60 ]
+ [ 0 70 80 90 ]
+
+If x and y are not vectors or matrices, they are simply
+summed. 
+
+ Function: min ( v ) 
+ This function returns a scalar that equals the least value of any
+element in v . Complex values are not accepted. 
+
+Argument v must be (or be convertible to) a vector, and must not
+have complex type. 
+
+See also max , imax , imin , isort , and sort .
+
+ Function: mksparse ( t ) 
+ This function returns a sparse matrix with dimensions and elements given
+by the members of table t . If the member shape exists, it
+should be a vector with two elements specifying the number of rows and
+columns of the matrix. If it does not exist, the matrix is sized just
+large enough to include all of the given elements. The members
+ rows , cols , and values must all exist; these are
+vectors, all with the same length, corresponding elements of which
+specify respectively the row number, column number, and value of each
+specified element of the matrix. If an element is not specified, it is
+zero. If an element is given more than once, its value is the sum of
+the given values. 
+
+The following interactive session provides an example:
+
+ &#62; mksparse ({shape=3,4; rows=1,2,3; cols=1,3,2; values=10,11,12})
+ [ 10 . . . ]
+ [ . . 11 . ]
+ [ . 12 . . ]
+
+The values vector must have numeric type. If t is NULL, a
+real matrix with 0 rows and 0 columns is returned. 
+
+See also sparse and exsparse .
+
+ Function: norm ( x; p ) 
+ The norm function computes the p -norm of x , where
+ p is 1, 2, "frobenius", or "infinity". (The latter two may be
+abbreviated as "frob" and "inf".) If p is not specified, the
+2-norm is used. 
+
+For complex x , the 1 and "infinity" norms deal not with the
+magnitude of each element, but with the sum of the absolute values of
+the real and imaginary parts. 
+
+ Function: pick ( x ) 
+ This function returns a vector containing the indices of the non-zero
+elements of the numeric input vector x . For example, the
+expression 
+
+ V [ pick (V &#60; 0) ]
+
+returns all of the negative elements of V .
+
+See also find .
+
+ Function: product ( x ) 
+ The product function computes the product of the elements of an
+array. If x is a scalar, it is returned unchanged. If x is
+a vector, the product of all of its elements is returned. If x is a
+matrix, a vector is returned, each element of which is the product of the
+elements in the corresponding columns of x . If x is a
+table, the product function is applied to each of its members. 
+
+ Function: rand ( shape ) 
+ This function generates pseudo-random numbers with a uniform
+distribution in the range from 0 to 1. Called with no arguments, it
+returns a scalar. Otherwise, the vector shape specifies a vector
+or matrix; see the readnum function for more information. 
+
+The random number generator may be "seeded" with the srand 
+function. If you don't call srand , the seed is based on the
+system's clock. Note that rand and randn share the same
+seed. 
+
+See also randn and srand .
+
+ Function: randn ( shape ) 
+ This function generates pseudo-random numbers from a normal distribution
+with zero mean and unit variance. Called with no arguments, it returns a
+scalar. Otherwise, the vector shape specifies a vector or matrix;
+see the readnum function for more information. 
+
+The random number generator may be "seeded" with the srand 
+function. If you don't call srand , the seed is based on the
+system's clock. Note that rand and randn share the same
+seed. 
+
+See also rand and srand .
+
+ Function: reverse ( v ) 
+ The reverse function simply reverses the order of the elements in
+vector v . For example, reverse(1,2,3) returns the vector
+ (3,2,1) . 
+
+ Function: scalar ( x ) 
+ This function converts its argument x to a scalar if possible.
+See also matrix and vector . 
+
+ Function: select ( x ) 
+ The select function selects one element at random from the given
+vector. The result is a scalar. The vector x must have at least
+one element. 
+
+ Function: seq ( n ) 
+ The seq function returns a vector of consecutive integers from 1
+to n . The argument n is first rounded to the nearest
+integer; if it is less than 1, a zero-length vector is returned. 
+
+ Function: shape ( x ) 
+ This function returns the "shape" (that is, the dimensions) of its
+argument x . This return value has the same form as is used for
+the shape arguments of functions like readnum and rand .
+If x is a scalar, NULL is returned. If x is a vector, a
+scalar is returned having the length of x as its value. If
+ x is a matrix, a vector is returned having the number of rows and
+the number of columns as its first and second elements, respectively.
+If x has any other class, an exception is raised.
+
+ Function: sign ( v ) 
+ The sign function returns an array with the same size as
+ v . Each element of the returned array is either -1, 0, or +1,
+depending on whether the corresponding element of v is negative,
+zero, or positive, respectively. The argument v must be a numeric
+scalar or array. 
+
+ Function: sort ( v ) 
+ This function sorts the elements of vector v in increasing order.
+For example, sort(20,40,10,30) returns the vector
+ (10,20,30,40) . Complex numbers are sorted primarily by real
+value and secondarily by imaginary value. 
+
+See also isort , max , min , and set .
+
+ Function: sparse ( x ) 
+ This function converts its argument x to sparse storage. 
+
+ Function: srand ( s ) 
+ The srand function is used to "seed" the random number
+generator rand . (OK, they're really pseudo-random numbers.) The
+seed s determines the sequence of numbers returned by rand .
+If s is NULL (or if srand is never called at all), then the
+seed is taken from the system's clock. See also rand . 
+
+ Function: sum ( x ) 
+ The sum function sums elements of arrays. If x is a
+scalar, it is returned unchanged. If x is a vector, the sum of
+all of its elements is returned. If x is a matrix, a vector is
+returned, each element of which is the sum of the elements in the
+corresponding columns of x . 
+
+ Function: symmetric ( x ) 
+ This function returns the symmetric part of the square, numeric matrix
+ x . If x has both row and column labels, they must match. 
+
+See also hermitian . 
+
+ Function: tril ( a; k ) 
+ The tril function returns the lower "triangular" part of the
+matrix a . The return matrix is identical to a except that,
+for any i , all elements a[i;i+k+1] , a[i;i+k+2] ,
+etc. are zero. If k is NULL, it defaults to zero. Here is an
+example: 
+
+ &#62; tril (magic (4); 1)
+ [ 9 7 0 0 ]
+ [ 4 14 15 0 ]
+ [ 16 2 3 13 ]
+ [ 5 11 10 8 ]
+
+ Function: triu ( a; k ) 
+ The triu function returns the upper "triangular" part of the
+matrix a . The return matrix is identical to a except that,
+for any i , all elements a[i;i+k-1] , a[i;i+k-2] ,
+etc. are zero. If k is NULL, it defaults to zero. Here is an
+example: 
+
+ &#62; triu (magic (4); 1)
+ [ 0 7 6 12 ]
+ [ 0 0 15 1 ]
+ [ 0 0 0 13 ]
+ [ 0 0 0 0 ]
+
+ Function: unlabel ( x ) 
+ The unlabel function removes the labels from its argument. If
+ x is a vector or a matrix, it sets the labels to NULL and returns
+the result. If x has any other class, it is returned
+unchanged. 
+
+ Function: vector ( x ) 
+ This function converts its argument x to a vector if possible.
+Scalars become one-element vectors. If x is a matrix with either
+one row or one column, then it is converted to a vector. 
+
+See also scalar and matrix .
+
+ Function: zero ( shape ) 
+ This function generates an integer scalar, vector, or matrix, all the
+elements of which are zero. The vector shape specifies the
+dimensions of the entity returned; see the readnum function for more
+information. 
+
+If a vector or matrix is returned, it is stored in sparse form. This
+may or may not be the most efficient storage for your application; use
+the dense function to convert it if desired. 
+
+See also dense .
+
+ 6.3 Sets 
+
+ Function: complement ( a; b ) 
+ The complement function returns the relative complement of
+ a in b ; that is, the set of elements of b which are
+not in a . The return value is a set, which we define as a sorted,
+irredundant vector. "Sorted" means sorted by increasing value;
+character strings are sorted by ASCII values and complex numbers
+are sorted with the real values as the primary key and the imaginary
+values as the secondary key. 
+
+See also intersection , set , and union .
+
+ Function: intersection ( a; b ) 
+ The intersection function returns the intersection of set a 
+in b ; that is, the set of elements that are in both a and
+ b . The return value is a set, which we define as a sorted,
+irredundant vector. "Sorted" means sorted by increasing value;
+character strings are sorted by ASCII values and complex numbers
+are sorted with the real values as the primary key and the imaginary
+values as the secondary key. 
+
+See also complement , set , and union .
+
+ Function: set ( x ) 
+ This function changes x into a set, if possible. A "set" is
+defined as a sorted, irredundant vector. "Sorted" means sorted by
+increasing value; character strings are sorted by ASCII values and
+complex numbers are sorted with the real values as the primary key and
+the imaginary values as the secondary key. "Irredundant" means that
+no two elements have the same value. 
+
+If x has labels, then the returned vector also has labels that
+correspond to the retained elements. If x has no labels, the
+labels of the returned vector give the index of the corresponding
+element in x . If x has redundant elements, the element
+retained is not necessarily the first. For example,
+ set(1,1,1).eid might be 1, 2, or 3. 
+
+See also complement , intersection , and union .
+
+ Function: union ( a; b ) 
+ The union function returns the union of sets a and b .
+The return value is a set, which we define as a sorted, irredundant
+vector. "Sorted" means sorted by increasing value; character strings
+are sorted by ASCII values and complex numbers are sorted with the
+real values as the primary key and the imaginary values as the secondary
+key. 
+
+See also complement , intersection , and set .
+
+ 6.4 Linear Algebra 
+
+ Function: backsub ( afac; b ) 
+ The backsub function solves the set of linear equations
+ A*x=b for x . The argument afac must contain the
+factorization of A returned as a table from either of the
+functions factor or chol . The argument b provides
+the right-hand side. 
+
+If BCSLIB-EXT (a sparse math library produced by Boeing Computer
+Services) is available on your system and algae has been compiled
+for it, then the backsub function can use it. If afac 
+contains factors computed by BCSLIB-EXT routines (in factor 
+or chol ), then backsub will call the corresponding
+routines to perform the back substitution. 
+
+See also chol , factor , and solve .
+
+ Function: chol ( m ) 
+ The chol function computes the Cholesky factorization of the
+symmetric, positive definite matrix m . The factors are returned
+in a table, which may contain a variety of members depending on the type
+and density of m . For example, if m is a real, dense
+matrix, then "L" (the output of the LAPACK routine
+ DSYTRF routine) and "RCOND" are returned. For now, you'll
+have to go digging in the code if you really want to understand the
+output. The idea, though, is that functions like backsub can
+make sense of them so that you don't have to. 
+
+Although its other members vary, the table returned by chol 
+always contains a member named "RCOND" . This non-negative real
+scalar is an estimate of the reciprocal of the condition number of
+ m . If "RCOND" is very small (that is, the condition number
+is very large), then the matrix m is ill-conditioned. A warning
+message is produced if "RCOND" is less than 1.0E-8. 
+
+If BCSLIB-EXT (a sparse math library produced by Boeing Computer
+Services) is available on your system and algae has been compiled
+for it, then chol may use its routines to factor sparse matrices.
+In turn, the backsub and solve functions can use these
+factors to solve linear equations. It is often useful to compute the
+factors of a matrix and then save them (using put ) for later use.
+Keep in mind, however, that if these factors were computed with the
+BCSLIB-EXT routines, then the algae version with which you
+intend to use them must also support BCSLIB-EXT. The table
+returned by chol contains the member HOLD iff a
+BCSLIB-EXT routine was used to produce it. BCSLIB-EXT is
+never used on dense matrices. 
+
+The key difference between the chol and factor functions
+is that chol requires that the matrix be symmetric and positive
+definite. In that case, no pivoting is required; this generally results
+in a significant savings in execution time over the factor 
+function. 
+
+See also backsub , factor , and solve .
+
+ Function: eig ( a; b; opts ) 
+ The eig function computes eigenvalues and eigenvectors for the
+standard and generalized eigenvalue problems A * x = lambda * x
+ and
+ A * x = lambda * B * x
+
+If a is the only matrix argument, then both lambda and
+ x are computed for the standard problem. If a matrix b is
+given as the second argument, then the generalized problem is solved. 
+
+A table of options opts may be given as the last argument. If it
+contains the member no_right , then the right eigenvectors x 
+are not computed. If it contains the member left , then the
+corresponding left eigenvectors are computed. 
+
+This function returns a table containing the eigenvalues in a member
+called values and, if appropriate, the (right) eigenvectors in a
+member called vectors . If the left option was given and
+the problem is unsymmetric, then the left eigenvectors are returned in a
+member called left_vectors . 
+
+The solution method used depends on the type and symmetry of the
+coefficient arrays. Some of these methods entail strict requirements,
+such as positive definiteness, on the matrices. Each case is described
+below, along with the LAPACK routine called to solve it. See the
+ LAPACK Users' Guide for more information. 
+
+For real, symmetric, standard problems, DSYEV is used. The eigenvalues
+are real and in ascending order; the eigenvectors are orthonormal. 
+
+For complex, hermitian, standard problems, ZHEEV is used. The
+eigenvalues are real and in ascending order; the eigenvectors are
+orthonormal. 
+
+For nonsymmetric, standard problems, DGEEV is used for real type and
+ZGEEV for complex type. The eigenvalues are complex, and complex
+conjugate pairs appear consecutively with the eigenvalue having the
+positive imaginary part first. The eigenvectors are normalized to have
+Euclidean norm equal to 1 and largest component real. 
+
+For real, symmetric, generalized problems, DSYGV is used. This method
+requires that a be symmetric and that b be symmetric and
+positive definite. The eigenvalues are real and in ascending order.
+The eigenvectors are b -orthonormal. 
+
+For real, nonsymmetric, generalized problems, DGGEV is used. This
+method performs full balancing on a and b . The eigenvalues
+are complex, and complex conjugate pairs appear consecutively with the
+eigenvalue having the positive imaginary part first. Note, however,
+that the eigenvalues are returned in a table; the member num 
+contains their numerators and member denom contains their
+denominators. The quotients may easily overflow or underflow, and the
+denominator (and maybe the numerator, too) may be zero. A good
+beginning reference is the book Matrix Computations by G. Golub
+and C. Van Loan. Each eigenvector is scaled so that the sum of the
+absolute values of the real and imaginary parts of the largest component
+is 1, except that for eigenvalues with numerator and denominator both
+zero, the corresponding eigenvector is zero. 
+
+For complex, hermitian, generalized problems, ZHEGV is used. This method
+requires that a be hermitian and that b be hermitian and
+positive definite. The eigenvalues are real and in ascending order.
+The eigenvectors are b -orthonormal. 
+
+For complex, nonsymmetric, generalized problems, ZGGEV is used. The
+eigenvalues and eigenvectors are complex. Note, however, that the
+eigenvalues are returned in a table; the member num contains
+their numerators and member denom contains their denominators.
+The quotients may easily overflow or underflow, and the denominator (and
+maybe the numerator, too) may be zero. A good beginning reference is
+the book Matrix Computations by G. Golub and C. Van Loan. Each
+eigenvector is scaled so that the sum of the absolute values of the real
+and imaginary parts of the largest component is 1, except that for
+eigenvalues with numerator and denominator both zero, the corresponding
+eigenvector is zero. 
+
+ Function: equilibrate ( A ) 
+ The equilibrate function computes row and column scalings
+intended to equilibrate a matrix and reduce its condition
+number. The input matrix A need not be square, but it must be
+numeric and both dimensions must be nonzero. If A is hermitian or
+real symmetric, it must be positive definite. 
+
+If equilibrate succeeds, it returns a table containing the
+following members:
+
+ r 
+ A vector containing the row scale factors.
+
+ c 
+ A vector containing the column scale factors.
+
+ rowcnd 
+ The (scalar) ratio of the smallest to the largest of the row scale
+factors.
+
+ colcnd 
+ The (scalar) ratio of the smallest to the largest of the column scale
+factors.
+
+ amax 
+ The (scalar) absolute value of the largest matrix element.
+
+Even if the matrix A is symmetric or hermitian, the row and column
+scale factors may or may not be identical. If not, the resulting
+equilibrated matrix would no longer be symmetric or hermitian. You will
+have to decide whether the improvement in matrix condition is worth the
+loss of symmetry. The row and column scale factors will be identical
+for dense, real, symmetric matrices and for dense, complex, hermitian
+matrices (both of which must also be positive definite); otherwise,
+there's no guarantee. 
+
+Oftentimes, going on to apply the equilibration scale factors is not
+worth the effort. Roughly speaking, if amax is not close to
+overflow or underflow and both rowcnd and colcnd are greater
+than 0.1, it probably isn't worth doing. 
+
+If equilibrate is unsuccessful, it returns a scalar integer
+instead of a table. If this value is positive, it indicates the row
+causing the problem. If it is negative, its absolute value indicates
+the column causing the problem. 
+
+To apply the equilibration, the matrix must be pre- and post-multiplied
+by the scale factors. If r and c are identical, you'll
+probably want to use the transform function to preserve symmetry.
+Here is an example usage:
+
+ e = equilibrate (A);
+if (equal (e.r; e.c))
+{
+ Ae = transform (A; diag (e.r));
+else
+ Ae = diag (e.r) * A * diag (e.c);
+}
+
+Notice, though, that this example does not check the result of
+ equilibrate to determine if it succeeded, it applies the scale
+factors without checking to see if it's worth it, and it assumes that
+ A obeys the requirement regarding positive definiteness. 
+
+ Function: factor ( m ) 
+ The factor function computes a triangular factorization of the
+matrix m . The factors are returned in a table, which may contain
+a variety of members depending on the type, density, and definition of
+ m . For example, if m is a real, dense, symmetric matrix,
+then "LD" and "IPIV" (the output of the LAPACK
+routine DSYTRF routine) are returned. For now, you'll have to go
+digging in the code if you really want to understand the output. The
+idea, though, is that functions like backsub can make sense of them
+so that you don't have to. 
+
+Although its other members vary, the table returned by factor 
+always contains a member named "RCOND" . This non-negative real
+scalar is an estimate of the reciprocal of the condition number of
+ m . If "RCOND" is very small (that is, the condition number
+is very large), then the matrix m is ill-conditioned. A warning
+message is produced if "RCOND" is less than 1.0E-8. 
+
+If BCSLIB-EXT (a sparse math library produced by Boeing Computer
+Services) is available on your system and algae has been compiled
+for it, then factor may use its routines to factor sparse matrices.
+In turn, the backsub and solve functions can use these
+factors to solve linear equations. It is often useful to compute the
+factors of a matrix and then save them (using put ) for later use.
+Keep in mind, however, that if these factors were computed with the
+BCSLIB-EXT routines, then the algae version with which you
+intend to use them must also support BCSLIB-EXT. The table
+returned by factor contains the member HOLD iff a
+BCSLIB-EXT routine was used to produce it. BCSLIB-EXT is
+never used on dense matrices. 
+
+The key difference between the chol and factor functions
+is that chol requires that the matrix be symmetric and positive
+definite. In that case, no pivoting is required; this generally results
+in a significant savings in execution time over the factor 
+function. 
+
+See also backsub , chol , and solve .
+
+ Function: fft ( x ) 
+ The fft function computes the complex discrete Fourier transform
+of the vector x using the fast Fourier transform method. The
+result is ordered such that the corresponding frequencies are
+increasing (from negative to positive). Note that this is a different
+order than that returned by many FFT routines. 
+
+If x has N elements, the transform is a complex vector with
+the same length. If N is even, then element k of the
+transform is equal to sum (x @ exp (-2*i*pi*(k-N/2)*((1:N)-1)/N))
+ If N is odd, then element k is equal to
+ sum (x @ exp (-2*i*pi*(k-(N+1)/2)*((1:N)-1)/N))
+
+The method is most efficient when the number of elements in x is
+the product of small primes. For example, a vector with 1021 elements
+(a large prime number) takes roughly 100 times longer to transform than
+a vector with 1024 elements (a power of 2). On the other hand, 1152
+elements (with prime factors of 2 and 3) is almost as fast as
+1024. 
+
+If x has integer or real labels, they are taken to be the
+corresponding abscissae (i.e., time or distance) and are transformed
+accordingly to form labels for the results vector. In that case, the
+label values must be evenly spaced. 
+
+See also ifft .
+
+ Function: filter ( b; a; x; z ) 
+ The filter function computes a digital filter from the standard
+difference equation y[n] = b[1]*x[n] + b[2]*x[n-1] + b[3]*x[n-2] + ...
+ - a[2]*y[n-1] - a[3]*y[n-2] - ...
+
+This filter is implemented using the "direct form II transposed"
+method. For more information, see Chapter 6 of the book "Discrete-Time
+Signal Processing" by Oppenheim and Schafer. 
+
+ Function: ifft ( x ) 
+ The ifft function computes the complex inverse discrete Fourier
+transform of the vector x using the fast Fourier transform method.
+The input is ordered such that the corresponding frequencies are
+increasing (from negative to positive). Note that this is a different
+order than that required by many inverse FFT routines. 
+
+If x has N elements, the transform is a complex vector with
+the same length. If N is even, then element n of the
+transform is equal to (1/N) * sum (x @ exp (2*i*pi*((1:N)-N/2)*(n-1)/N))
+ If N is odd, then element n is equal to
+ (1/N) * sum (x @ exp (2*i*pi*((1:N)-(N+1)/2)*(n-1)/N))
+
+The method is most efficient when the number of elements in x is the
+product of small primes. For example, a vector with 1021 elements
+(a prime number) takes roughly 100 times longer to transform than a
+vector with 1024 elements (a power of 2). On the other hand, 1152
+elements (with prime factors of 2 and 3) is almost as fast as
+1024. 
+
+If x has integer or real labels, they are taken to be the
+corresponding abscissae (i.e., frequencies) and are transformed
+accordingly to form labels for the results vector. In that case, the
+label values must be evenly spaced. 
+
+See also fft .
+
+ Function: inv ( a; opts ) 
+ The inv function computes the inverse of a matrix. This is
+sometimes useful, but you should be aware that an alternative approach
+using factor (or chol ) and solve is usually more
+efficient and accurate. (See below for more details.) 
+
+The inv function is implemented simply by calling the
+ solve function with an identity matrix as the second argument.
+The argument opts is optional and is passed as the third argument
+to solve . For example, 
+
+ inv (A; {pos});
+
+computes the inverse of the positive-definite matrix A . 
+
+The matrix inverse is often used to solve systems of linear equations.
+If Ax=b is such a system, where A is a square matrix with
+full rank, then its solution may be computed as 
+
+ x = inv (A) * b;
+
+A more efficient and accurate approach, though, is to use the
+ solve function as 
+
+ x = solve (A; b);
+
+The use of solve is appropriate even when several right-hand
+sides are to be considered separately. For example, the code 
+
+ x = {};
+A_inv = inv (A);
+for (b in members (blist))
+{
+ x.(b) = A_inv * blist.(b);
+}
+
+would be better written as
+
+ x = {};
+A_fac = factor (A);
+for (b in members (blist))
+{
+ x.(b) = solve (A_fac; blist.(b));
+}
+
+See also backsub , chol , factor , and solve . 
+
+ Function: leastsq ( A; b ) 
+ This function solves full-rank overdetermined and underdetermined linear
+systems using a QR or LQ factorization. The inputs are the coefficient
+array A and the RHS b . The return value is the solution
+array x . 
+
+An underdetermined system is one for which A has fewer rows than
+columns. The rank of A must be equal to the number of rows of
+ A . The return value is the minimum norm solution. 
+
+An overdetermined system is one for which A has more rows than
+columns. This function treats a square A as if it were an
+overdetermined system. The rank of A must be equal to the number
+of columns of A . The return value is the solution to the least
+squares problem 
+
+ minimize || B - A*X ||
+
+See also solve .
+
+ Function: solve ( A; b; opts ) 
+ This function solves the linear equations A*x=b for x .
+Conceptually it returns inv(A)*b , except that solve is
+generally much more efficient and accurate. If A has already been
+factored by the factor or chol functions, then its factors
+(in the form of a table returned by those functions) may be given in the
+place of A . If the optional argument opts contains the
+member "pos", then the Cholesky method is used to factor
+ A . 
+
+See also backsub , chol , and factor .
+
+ Function: ssi ( A; B; V; eps ) 
+ The ssi function uses subspace iteration to compute the first few
+eigenvalues and vectors for a real, symmetric, generalized eigenvalue
+problem A*v=B*v*w . The terms w and v are the
+eigenvalues and eigenvectors, respectively. 
+
+Subspace iteration is an effective approach for large, sparse problems
+and for problems for which good estimates of the eigenvectors are
+available. Otherwise, it sucks. 
+
+Both A and B must be real, symmetric, non-singular matrices.
+The matrix V contains a set of starting vectors, one to a column.
+A convergence tolerance may be specified with eps ; 1.0E-6 is used
+if eps is NULL. A table is returned, containing the members
+"values" and "vectors". 
+
+See also eig .
+
+ Function: svd ( A; opts ) 
+ This function computes the singular value decomposition (SVD) of the
+matrix A . In the full case, the SVD is written A=U*S*V' ,
+where S is a real matrix with the same dimensions as A and
+ U and V are the orthogonal (unitary) left and right singular
+vectors. The matrix S contains the singular values on its
+diagonal and is zero elsewhere. 
+
+When A is not square, one or more rows or columns of S are
+known a priori to be zero. By default, svd then returns a
+"compact" form of the singular vectors, in which the corresponding
+columns of U or V are not included. This behavior may be
+modified by using the full option, as described below. 
+
+The argument opts is an options table; it may contain the members
+ novectors and full . (The values of these members are
+irrelevant; only their existence is signficant.) If opts contains
+the member novectors , then only the singular values are computed.
+If opts contains only the member full , then the full
+singular vectors are computed. 
+
+The results of svd are returned in a table. The member
+ sigma contains the vector of singular values, sorted in
+decreasing order. Unless the novectors option is specified, the
+members U and V contain the corresponding left and right
+singular vectors. 
+
+This function calls the LAPACK routines DGESVD and ZGESVD. 
+
+ Function: transform ( A; P ) 
+ The transform function performs the linear coordinate
+transformation P'*A*P , where A is a square matrix. In
+fact, there are only two differences between the operator expression
+ P'*A*P and the function expression transform(A;P) : 
+
+The transform function results in the most appropriate symmetry.
+For example if A and P are both real, and A is
+symmetric, then the result is a symmetric matrix. With the operator
+expression this would not be the case; the result would be exactly the
+same (neglecting any roundoff errors) except that it would be marked
+with general symmetry. 
+
+The transform function is considerably faster than the operator
+expression for some matrix combinations. In particular, it may be two
+or three times faster when P is dense and A is large,
+sparse, and either hermitian or real symmetric. 
+
+ 6.5 Numerical Analysis 
+
+ Function: brent ( f; a; b; tol ) 
+ This function uses Brent's method to find a single root of the function
+ f ; that is, a solution to f(x)=0 . The ordinates A 
+and B must bracket a root, meaning that f(A)*f(B) must be
+negative. 
+
+ Function: monte ( f; limits; tol ) 
+ This function uses the Monte Carlo method to integrate a function. The
+function values are obtained by calling the function f with one
+vector argument. The matrix limits describes the rectangular
+region over which the function is integrated. It has two columns and as
+many rows as f has dimensions. Each row specifies the extremes of
+the region for the corresponding dimension. The tol argument
+specifies an error tolerance. There is no limit to the number of points
+chosen; monte continues to pick points until its one standard
+deviation error estimate is less than tol . Generally, the
+accuracy increases only as the square root of the number of points
+evaluated. 
+
+ Function: ode4 ( f; t0; tf; x0; y; tol; h; s ) 
+ The ode4 function uses fourth and fifth order Runge-Kutta
+formulas to solve an initial value problem involving a system of
+ordinary differential equations. The function f , called as
+ f( t; x ) , is expected to return the first derivative of the
+state vector x with respect to the independent variable t .
+The arguments t0 and tf are the initial and final values of
+the independent variable, and x0 is the initial state vector. The
+argument y may be a function, called as y( t; x ) , that
+returns a vector of output values. If y is NULL, the output
+vector is the state vector itself. 
+
+The optional argument tol specifies the desired accuracy; we use
+0.001 if tol is NULL. An initial stepsize may be suggested with
+ h . The s argument may be used to provide better control
+over the accuracy--if s is not NULL, then a step is accepted if
+the estimated error in each state, divided by the corresponding term of
+ s , is not greater than tol . 
+
+The return value is a matrix containing the output history. Each column
+contains the output from y for the particular value of the
+independent variable given by the column label. 
+
+ Function: roots ( c ) 
+ This function computes the roots of the polynomial having the
+coefficients given by the vector c . If c has n+1 
+elements, the equation solved (for x ) is 
+
+ c[1]*x^n + c[2]*x^(n-1) + ... + c[n]*x + c[n+1] = 0
+
+A vector with zero elements is returned if the equation has no solution
+( roots(1) , for example). NULL is returned if it has an infinite
+number of solutions ( roots(0) , for example). Otherwise, the
+vector returned contains all of the solutions. 
+
+ Function: spline ( a; x ) 
+ This function computes or evaluates natural cubic spline interpolations
+for given data. If called with one argument, a , a spline for the
+points in the vector a is computed. The elements of a give
+the ordinates; the labels of a give the abscissae. If a has
+no numeric labels, then the natural numbers from one to the length of
+ a are assumed. In any case, the vector a is sorted with
+respect to its labels; they must be unique. 
+
+If spline is called with two arguments, a and x , then
+the spline a (or a spline interpolation of a , if a is
+not a spline) is evaluated at the abscissa values given by the vector
+ x . 
+
+ 6.6 Basic I/O 
+
+ Function: close ( file ) 
+ The close function closes the specified file. The file name
+ file must be given exactly as it was when the file was opened.
+(Whitespace is significant.) Any buffered data is flushed.
+
+ Function: digits ( n ) 
+ The digits function may be used to specify the number of digits
+that algae uses when printing real and complex numbers. This
+applies to the print function and to "printing statements"
+(those with question mark or newline terminators). The argument n 
+specifies the number of digits. If n is NULL, no action is
+taken. 
+
+The function returns the number of digits being used. By default,
+ algae uses 4 digits. 
+
+Here's an example interaction, with user input preceded by the "&#62;"
+prompt: 
+
+ &#62; digits () # the default
+ 4
+&#62; acos (-1) # pi, to 4 significant digits
+ 3.142
+&#62; digits (20); # set to 20 digits
+&#62; acos (-1) # pi, to 20 digits (but only accurate to 17)
+ 3.1415926535897931000
+
+See also print .
+
+ Function: fread ( file; length; type ) 
+ The fread function reads data from a binary file into a numeric
+array. This is a low-level routine, and it requires that you know
+precisely the format of the data that is being read. To read Algae's own
+binary files (those written with put ), see get . 
+
+The file argument (a character scalar) is the file name. As with
+any file name, if its first character is an exclamation mark then the
+rest of the string is given to the shell as a filter. If file is
+NULL, then standard input is read. 
+
+The length argument (an integer scalar) gives the number of items
+to read. If it's NULL, the entire file is read. Otherwise, it should
+be a non-negative integer. A vector is returned that contains the data
+that was read. If fread reaches the end of the file before
+having read length elements, then the vector it returns will
+contain fewer than length elements. 
+
+The type argument is an optional table; its member's names specify
+the type of data to read and, implicitly, the type of the returned
+array. (The values of this table's members are inconsequential; only
+their names are important.) These names may include any of the C
+language types:
+
+ char 
+ Each is cast to an Algae integer .
+ int 
+ Same as an Algae integer .
+ float 
+ Each is cast to an Algae real .
+ double 
+ Same as an Algae real .
+
+The C language type qualifiers are also accepted in type :
+
+ long 
+ A qualifier for int and double types. Both are cast
+to real . short 
+ A qualifier for int . Casts to integer .
+ signed 
+ A qualifier for char and int . Casts to integer .
+ unsigned 
+ A qualifier for char and int . An unsigned char 
+casts to integer , while an unsigned int casts to
+ real . 
+Combinations that are disallowed in C (such as unsigned double )
+are disallowed here, too. If type is NULL or empty, double 
+is assumed. 
+
+Besides the C language type qualifiers just described, the following
+special qualifiers are also accepted:
+
+ big 
+ Specifies the so-called "big endian" byte order.
+ little 
+ Specifies the so-called "little endian" byte order.
+ ieee 
+ Specifies the IEEE 754 binary floating point format.
+
+ Function: fprintf ( file; format; ... ) 
+ The fprintf function prints formatted output to file . The
+ format argument is a character string that contains two types of
+objects: characters and conversion specifications. Characters are
+printed directly; conversion specifications cause the next argument to
+be formatted and printed. 
+
+Conversion specifications are introduced using the percent sign
+ `%' . Although extensions are planned, the conversion
+specifications are currently identical to those for the "fprintf"
+function of the ANSI C language. 
+
+If the first character of file is an exclamation mark, then the
+rest of file is given to the shell as a filter to which the
+printed output of fprintf is sent. For example, the command
+ fprintf("!sort";"a\nc\nb\n");close("!sort"); sends "a", "c",
+and "b", each on a separate line, to the system's sort function, which
+then presumably sorts and prints it. If file is NULL, stdout is
+used. 
+
+See also message , print , printf , sprintf ,
+and put . 
+
+ Function: fwrite ( file; v; type ) 
+ The fwrite function writes binary data to a file from a numeric
+array. This is a low-level routine, and it requires that you specify
+precisely the format of the data being written. To write an entity for
+use in Algae, you'll probably want to use put instead. 
+
+The file argument (a character scalar) is the file name. As with
+any file name, if its first character is an exclamation mark then the
+rest of the string is given to the shell as a filter. If file is
+NULL, then the data is written to standard output. 
+
+The data to be written is given in the argument v , a numeric
+vector. 
+
+The type argument is an optional table; its member's names specify
+the type of data to write. (The values of this table's members are
+inconsequential; only their names are important.) These names may
+include any of the C language types and qualifiers, and a few others.
+See fread for details. 
+
+ Function: message ( fmt; ... ) 
+ The message function is used to write error messages to stderr.
+Its arguments are exactly like printf , except that a maximum of
+10 arguments is allowed. The message written includes the program and
+file names as well as the line number. 
+
+See also printf .
+
+ Function: print ( x; file ) 
+ The print function prints its argument x to a file named by
+ file . This output goes through the same formatting that
+ algae uses to print entities to the screen. In particular, the
+variable $term_width controls the width of this output, and the
+ digits function specifies the number of significant digits
+printed for real and complex numbers. 
+
+If file is NULL, then the output is written to stdout.
+
+See also digits , fprintf , printf , sprintf ,
+and put . 
+
+ Function: printf ( format; ... ) 
+ The printf function prints formatted output to stdout. It is
+exactly the same as calling fprintf with NULL as the first
+argument. 
+
+See also fprintf , message , print , put , and
+ sprintf . 
+
+ Function: read ( file ) 
+ This function reads a line of text and returns it as a character string.
+The argument file may be a file name or a pipe; see fprintf 
+for details. If file is NULL, the text is read from standard
+input. 
+
+When read reaches the end of file, it returns NULL. 
+
+See also get and readnum . 
+
+ Function: readnum ( shape; file ) 
+ This function reads real numbers from a file named file . The vector
+ shape specifies the form of the output. If shape is NULL or
+has zero length, a scalar is returned. If shape has length one,
+then a vector with shape[1] elements is returned. If shape 
+has two elements, then a matrix is returned with shape[1] rows and
+ shape[2] columns. 
+
+The values are read from file , or from stdin if file is NULL
+or not given. The `#' symbol is special--it and all remaining
+characters on a line are ignored. If the end of file is reached before
+the specified number of values is read, then the result is filled out
+with zeros. After a call to readnum , the number of values actually
+read is contained in the variable $read . 
+
+For example, let's say you have a file called `jnk' that contains
+the following: 
+
+ # this line is ignored - numbers like 1.23 are skipped
+the first two numbers are 42 and 99.
+3.14 is the next one
+
+In the following interaction we read the numbers from the file into a
+matrix: 
+
+ &#62; x = readnum (2,4; "jnk")?
+ [ 42.00 99.00 3.140 0.000 ]
+ [ 0.000 0.000 0.000 0.000 ]
+&#62; $read?
+ 3
+&#62; readnum (3; "jnk")?
+ ( 0.000, 0.000, 0.000 )
+
+As you can see, anything that doesn't look like a number is simply
+skipped. The readnum function found three numbers and filled in
+the rest of the matrix with zeros. The global variable $read was
+set to 3 - the number of values actually read. 
+
+Subsequent calls to readnum with the same file name simply
+continue reading from the last position in the file. In the last
+statement of the previous example, no more numbers were found so the
+vector was filled with zeros. To read again from the start of the file,
+you must first close the file with the close function. 
+
+The readnum function recognizes integers and floating point
+numbers. A floating point number consists of an optionally signed
+integer part, a decimal point, a fraction part, an `e' or `E' ,
+and an optionally signed integer exponent. All of the following
+examples are recognized as numbers: `1' , `-1.2' , `1e2' ,
+ `-1.e2' , `.1e2' , `-1.2e3' , and `1.2e-3' . 
+
+Fortran users take note! A Fortran double precision number such as
+ `1.23D4' will not be read by readnum as a single number.
+The character `D' is not recognized as part of a floating point
+number, so readline will read this as the two numbers `1.23' 
+and `4' . 
+
+ Function: sprintf ( format; ... ) 
+ The sprintf function writes formatted output to a character
+scalar. It works the same as printf , except that the output is
+returned instead of printed. For example, x=sprintf("y=%d";1) 
+puts the string "y=1" in the scalar x . 
+
+See also fprintf , printf , and put . 
+
+ Function: tmp_file ( ) 
+ The tmp_file function creates a temporary file and returns its
+name. This file will be deleted automatically when algae 
+exits. 
+
+By default, algae writes temporary files in the directory
+ `/tmp' . You can override that with an environment variable called
+ TMPDIR . For example, if you use the Bourne shell and put the
+lines 
+
+ TMPDIR=/usr/tmp
+export TMPDIR
+
+in your `~/.profile' file, then algae will put its temporary
+files in the `/usr/tmp' directory. 
+
+This function not only creates the file, but opens it for output. If
+you want to read from the temporary file, then you should close it
+first. (Of course, you'll need to arrange to get something in it,
+first.) Notice that temporary files are not deleted when closed, but
+only when algae exits. 
+
+ 6.7 Entity I/O 
+
+ Function: get ( file ) 
+ The get function reads an Algae entity from a binary file named
+ file . If no argument is given, standard input is used. Use this
+function to read files written with put . The file name can
+specify a pipe; see fprintf for more details. 
+
+NULL is returned if an error occurs in reading the file; otherwise
+ get returns the entity it read. 
+
+ Function: getdyn ( fname ) 
+ This function reads matrices from the DYNASTY file fname .
+(DYNASTY is the name of a software package used at Boeing for dynamic
+analysis.) A table is returned, containing the matrices as
+members. 
+
+The file name can specify a pipe; see fprintf for more
+details. 
+
+ Function: getmat ( fname ) 
+ The getmat function reads matrices from a MATLAB binary file
+named fname . It returns the matrices in a table. 
+
+The file name can specify a pipe; see fprintf for more
+details. 
+
+Notice that getmat doesn't assign the matrices to the global
+symbol table as MATLAB's "load" function does. To do that, you might
+use something like the following: 
+
+ Load = function (fname)
+{
+ local (t; n);
+ t = getmat (fname);
+ for (n in members (t))
+ {
+ $$.(n) = t.(n);
+ }
+};
+
+The getmat function reads the MATLAB v.4 "Level-1 MAT-file"
+format. MATLAB can read and write in this format, but its default for
+writing is now Level-2. Using the newer format would require us to link
+to their libraries, meaning that you'd need to actually have MATLAB on
+that machine. We'll stick with the older format. 
+
+One unfortunate consequence of using the older file format is that
+matrices cannot be written in sparse form. To get around this, convert
+the matrix to coordinate form (which is dense) within MATLAB and then
+change it back to sparse form in algae with the mksparse 
+function. 
+
+See also get , put , and putmat . 
+
+ Function: load ( fname ) 
+ The load function reads a table from a file named fname and
+assigns its members as global variables. This can be used, for example,
+to restore an algae session that was saved with the save 
+function. 
+
+If an error occurs in reading the file, load returns 0; otherwise
+it returns 1. 
+
+See also get , put , and save . 
+
+ Function: put ( x; fname ) 
+ The put function writes x to a binary file named
+ fname (or standard output if fname is NULL). This binary
+file can be read with get . The file name can specify a pipe; see
+ fprintf for more details. 
+
+NULL is returned if an error occurs in writing the file; otherwise a 1
+is returned. 
+
+ Function: putdyn ( x; fname ) 
+ This function writes the members of the table x to a DYNASTY file
+named fname . (DYNASTY is the name of a software package used at
+Boeing for dynamic analysis.) The file name may specify a pipe; see
+ fprintf for more details. 
+
+The file is not closed when putdyn finishes, so subsequent writes
+to the same file will append data to the end of it unless you close it
+first. On some machines, this could be used to build a complete DYNASTY
+file with several different calls to putdyn . The disadvantage,
+though, is that the DYNASTY file format doesn't allow this on all
+machines. 
+
+ Function: putmat ( t; fname ) 
+ The putmat function writes a table of matrices t to a
+MATLAB binary file named fname . The file name can specify a pipe;
+see fprintf for more details. 
+
+NULL is returned if an error occurs in writing the file; otherwise a 1
+is returned. 
+
+NULL members in t are skipped; otherwise each member is converted
+to a matrix if necessary and then written to the file. 
+
+The putmat function writes in the MATLAB v.4 "Level-1 MAT-file"
+format. MATLAB can read and write in this format, but its default for
+writing is now Level-2. Using the newer format would require us to link
+to their libraries, meaning that you'd need to actually have MATLAB on
+that machine. We'll stick with the older format. 
+
+One unfortunate consequence of using the older file format is that
+matrices cannot be written in sparse form. To get around this, use the
+ exsparse function to convert the matrix to coordinate form (which
+is dense) and then change it back to sparse form within MATLAB. 
+
+See also get , getmat , and put . 
+
+ Function: save ( fname ) 
+ The save function writes all non-NULL global variables as a table
+to a file named fname . This can be used, for example, to save an
+ algae session that you wish to start again later using the
+ load function. 
+
+NULL is returned if an error occurs in writing the file; otherwise
+ save returns 1. 
+
+See also get , load , and put .
+
+ 6.8 Execution 
+
+ Function: autosrc ( name; file ) 
+ This function creates an autosrc function named name . When
+this new function is later called, it replaces itself with a definition
+that it reads by calling the src function with the file name
+ file . In this way, you can put off reading a function's
+definition until it is actually called. 
+
+If file is NULL , then autosrc uses the value of
+ name for the file name. 
+
+For example, consider the following code: 
+
+ autosrc ("yow");
+yow ();
+
+The first line defines an autosrc function named yow . When
+ yow is called on the second line, it reads the real definition of
+ yow by calling src with the file name "yow" . It
+then calls its replacement (with the same arguments, of course). 
+
+The current implementation of autosrc restricts the number of
+arguments to 10. (It's an ugly restriction, but if you need that many
+arguments perhaps you should be using a table, instead.) A zero
+returned indicates success. 
+
+ Function: builtin ( file; symbol ) 
+ On machines that support dymamic linking, this function creates a new
+builtin function by linking to a shared object named by file and
+locating the symbol named by symbol . 
+
+Suppose you have some old Fortran code that computes your chances of
+being hit by a comet. You can write a C wrapper for it, link them as a
+shared object, use builtin to attach it, and, voila!, it's a
+builtin function. 
+
+Unlike other functions in Algae that deal with files, builtin does
+not accept the special "bang" type file names. (These are file names
+that begin with an exclamation point and are given to the shell as a
+command.) 
+
+It isn't hard to create shared objects for builtin , but currently
+there's no documentation for it. Perhaps you can find some code to
+imitate. 
+
+ Function: cd ( path ) 
+ The cd function changes the current default directory to that
+specified by the character scalar path . If path is NULL,
+the directory is changed to that given by the HOME environment
+variable. 
+
+An exception is raised if an error occurs; otherwise, cd returns
+the integer 1. 
+
+ Function: eval ( s ) 
+ The eval function evaluates the string s as an expression
+and returns its value. Variable references, if any, have global scope.
+For example, consider the following interaction: 
+
+ &#62; x = 0.5;
+&#62; str = "sin(x)";
+&#62; eval (str)
+ 0.4794
+&#62; x = 1.0;
+&#62; eval (str)
+ 0.8415
+
+Although the value of str remains "sin(x)" , the result of
+ eval(str) changes when the value of x changes. 
+
+Unlike its prominent place in some matrix programming languages,
+ eval is rarely necessary in Algae. Most examples of its use are
+rather contrived. Here's some code which evaluates an expression typed
+in by the user: 
+
+ x = eval (read ("!echo -n \"expression? \" 1>&2 ; head -1"))
+
+One use for eval that may not be quite so contrived involves
+building a function within a function--something that you can't do
+directly in Algae. Here's an example: 
+
+ add_const = function (c)
+{
+ return eval (sprintf ("function (x) { return x+%g; }"; c));
+};
+
+This could then be used as follows: 
+
+ &#62; ten_more = add_const( 10 );
+&#62; ten_more(1)?
+ 11
+
+Probably the most common mistake made with eval is giving it a
+statement instead of an expression. If that's really what you want to
+do, use the exec function instead. 
+
+Remember, too, that all variable references are at global scope. For
+example, the function 
+
+ function( a; b ) { return eval( "a + b" ); }
+
+returns the sum of the global variables a and b ; it
+completely ignores the function's arguments, as they are local
+variables. 
+
+See also exec .
+
+ Function: exception ( ) 
+ This function "raises an exception", meaning that Algae makes an error
+return. If execution is interactive, control returns to the user.
+Otherwise, Algae exits. 
+
+ Function: exec ( s ) 
+ The exec function causes algae to parse and execute the
+Algae statements contained in the character string s . Execution
+begins at global scope, even if exec is called from a function.
+It returns a negative integer if an error occurs, and zero otherwise. 
+
+See also eval and source .
+
+ Function: exit ( status ) 
+ This function terminates Algae. The optional argument status 
+specifies the exit status that Algae returns. On most computer
+platforms, the exit status is expected to be a small, positive integer.
+The status argument to exit should be numeric scalar. If
+ exit is called with anything else, Algae returns 0 as its exit
+status. 
+
+A call to exit is not mandatory in your Algae programs. Algae
+terminates when it reaches the end of its input, returning exit status
+0. If an error causes Algae to terminate, exit status 1 is returned. 
+
+ Function: file ( ) 
+ The file function returns the name of the file from which
+statements are currently being executed. 
+
+ Function: get_path ( env; def ) 
+ The get_path function returns a path list, for use in file
+searching. The argument env , if it isn't NULL, gives the name of
+an environment variable containing a colon-separated list of paths. The
+ def argument gives a default value, in case env isn't given
+or doesn't exist. 
+
+See also search_path and src .
+
+ Function: getenv ( ename ) 
+ The getenv function returns a character scalar that contains the
+value of the environment variable named by ename . If no such
+variable exists, NULL is returned. 
+
+ Function: line ( ) 
+ The line function returns the line number from which it is
+called. 
+
+ Function: provide ( feature ) 
+ A feature is simply a name that stands for a particular collection
+of functions or other entities. A program announces that a feature is
+present by calling the provide function with feature , the
+name of that feature. This means that the facilities associated with
+ feature have been made available for other Algae programs. 
+
+Programs that require a particular feature can source the appropriate
+file with the require function. 
+
+The argument feature must be a character scalar. It is added to
+the global variable $features if it is not already present in
+that vector. The provide function returns feature . 
+
+ Function: require ( feature; filename ) 
+ A feature is simply a name that stands for a particular collection
+of functions or other entities. A program that needs the collection may
+ensure that they are defined by calling require with the name of
+that feature. The use of named features simplifies the task of
+determining whether required assignments have been made. 
+
+The require function checks for the feature named feature 
+in the current Algae session; if it isn't present, then require 
+reads the source file filename with src . If filename 
+is NULL , then the value of feature is used as the file
+name. 
+
+Before it finishes, the source file read by require is expected
+to call the provide function, indicating that the desired feature
+has been provided. An exception is raised if the source file cannot be
+read or does not provide the feature named feature . 
+
+ Function: search_path ( fn; suffices; path ) 
+ The search_path function searches for a file in the directories
+named in path . The file name begins with the string given by
+ fn , with one of the suffices given by suffices . 
+
+ Function: source ( fname ) 
+ This function causes algae to parse and execute the file named
+ fname . Execution begins at global scope, even if source is
+called from a function. It returns NULL if it has a problem opening
+ fname , a negative integer if a parse or run time error occurs, and
+zero otherwise. 
+
+The file is closed after it is read. 
+
+See also exec and sources .
+
+ Function: sources ( fname ) 
+ The sources function causes algae to parse and execute
+specified files. The character scalar fname is passed through
+sh(1) to ls(1), so file name generation is available and multiple names
+may be given. For example, 
+
+ sources( "*.A" );
+
+sources all of the files ending with `.A' in your working
+directory. Although you could use the source function to do this
+as 
+
+ source( "!cat *.A" );
+
+using sources is preferable because it maintains the correct file
+and line information for the interpreter. 
+
+The "pipe" capability normally available to Algae I/O functions is not
+permitted in sources . Command substitution works, though, as
+demonstrated here: 
+
+ sources( "`find $HOME -name '*.A' -print`" );
+
+This example sources every file ending with `.A' found in any
+subdirectory under your home directory. 
+
+ Function: src ( filename ) 
+ The src function finds and opens a file of Algae code, executes
+the statements within it at global scope, and then closes the file.
+This function, rather than source or sources , is intended
+to be the normal way to source files directly. Other functions that may
+be used to source files are require and autosrc . 
+
+To find the file, src looks first for a file named
+ ` filename .A' , that is, it appends `.A' to the name given
+by the argument filename . If a file with that name exists, it is
+sourced; otherwise, src looks for a file named filename 
+with nothing appended, and sources it if it exists. 
+
+If filename is a relative file name, such as `foo' or
+ `foo/bar.A' , src searches for the file using the variable
+ $src_path . It appends filename to each of the directories
+listed in the character vector $src_path (both with and without
+the `.A' ), and sources the first file it finds whose name matches.
+The current default directory is tried only if it is specified in
+ $src_path . 
+
+No directory searching is performed if filename is an absolute
+file name. File names that begin with `/' , `./' , `../' ,
+or `~/' are absolute. If the file name begins with `~/' , the
+tilde is replaced with the value of the HOME environment
+variable. 
+
+A file name that begins with the `!' character is a pipe; the rest
+of the file name is given as a command line to the shell, the standard
+output of which is then read by src . For example, 
+
+ src("!m4 foo.A")
+
+runs the file `foo.A' through the m4 macro preprocessor
+first before src reads it. 
+
+The $src_path 
+vector is initialized from the environment variable
+ ALGAE_SRC_PATH , if it exists. It may be modified in either of
+the startup files `/usr/local/lib/algae/3.6.2/algae.A' or
+ `$HOME/.algae' . (See section 7.1 Startup Files .) 
+
+The syntax of ALGAE_SRC_PATH is the same as that of PATH for
+the shell; fields are separated by `:' , and `.' is used for
+the current default directory. To set ALGAE_SRC_PATH in the Bourne
+shell, type something like the following: 
+
+ export ALGAE_SRC_PATH
+ALGAE_SRC_PATH=.:~/algae:/usr/local/lib/algae
+
+Execution of the Algae code in filename begins at global scope.
+For example, if the source file contains the single statement
+ x=1 , the assignment is made to the global variable x 
+regardless of whether src was called from within a function or
+not. 
+
+The src function raises an exception if filename cannot be
+found. It returns NULL if it cannot be opened, a negative integer
+if a parse or run-time error occurs, and 0 otherwise. 
+
+ Function: strip ( f ) 
+ The strip function removes all file and line information from the
+given function f . The parser ordinarily includes this information
+so that, for example, run-time error messages can identify the line on
+which they occurred. If an error occurs in a function that has been
+stripped, then the error is attributed instead to the calling
+expression. 
+
+This function may also be useful in conjunction with profiling. Any
+time spent in a call to a stripped function gets charged to the file and
+line from which it was called. 
+
+All members of f are left unchanged as members of the return value.
+
+ Function: system ( s ) 
+ This function passes the string s to the command processor for
+execution. On a UNIX system, for example, the statement
+ system("ls") lists the files in the current directory. If the
+call succeeds, the exit status is returned; otherwise a -1 is returned. 
+
+ 6.9 Special Tools 
+
+ Function: npsol ( objective; start; constraints; options; state ) 
+ The npsol function uses a sequential quadratic programming method
+to minimize a given objective function subject to given constraints.
+The domain of the objective function is called the "design space", and
+the coordinates of the design space are called "design
+variables". 
+
+This function uses the NPSOL package of Fortran routines developed and
+sold by Stanford University. Your version of Algae might not have the
+ npsol builtin function; if not, it probably means that you don't
+have a license for NPSOL or that there was some problem installing it on
+your computer. 
+
+The objective argument may be either a function or a table. If a
+function, then it's assumed to take one argument, a vector of design
+variables, and return the value of the objective at that point. If
+ objective is a table, it may have the following members: 
+
+ objf 
+ A function that returns the value of the objective function for the
+vector of design variables given as its first argument. If the member
+ params exists in objective , then it is passed as a second
+argument to objf . 
+
+ objgrd 
+ A function that returns the sensitivities of the objective function;
+that is, the first derivatives with respect to the design variables.
+Its arguments are the same as for objf . 
+
+ params 
+ This member, if it exists, is passed as the second argument to
+ objf and objgrd , providing a means for passing additional
+parameters to those functions. 
+
+Only the objf member is required.
+
+The start argument is a vector that specifies the starting
+point. 
+
+The constraints argument is a table that may contain any of all of
+the following members: 
+
+ side_constraints 
+ A matrix that specifies upper and lower constraints on values of the
+design variables. This matrix has two columns, the first column giving
+lower bounds and the second column giving upper bounds. If this member
+is not given, then a default is provided using 1.0E10 as "infinity".
+In that case, you should be aware that NPSOL will take these values
+literally if you also use the "infinite_bound" option (in
+ options ) with a value greater than 1.0E10. 
+
+ linear_constraints 
+ A table that may contain any or all of the following members: 
+
+ coefficients 
+ A matrix of the linear constraint coefficients. The i-th row contains
+the coefficients for the i-th linear constraint. 
+
+ bounds 
+ A matrix, like side_constraints , that gives the upper and lower
+bounds for the linear constraints. If not given, defaults are provided
+as with side_constraints . 
+
+ nonlinear_constraints 
+ A table that may contain any or all of the following members:
+
+ values 
+ Either a function that computes the vector of nonlinear constraint
+function values at the given point, or a table in which member
+ conf is a function returning the values and congrd is a
+function returning the gradients. The constraint gradients, if
+provided, should be given as a matrix in which the rows correspond to
+the constraints and the columns correspond to the design variables. As
+in objectives , a member called params may also be
+included. 
+
+ bounds 
+ A matrix, like side_constraints , that gives the upper and lower
+bounds for the nonlinear constraints. If not given, defaults are
+provided as with side_constraints . 
+
+The options argument is a table that may contain any of the valid
+NPSOL options. For example, { hessian = "yes" } specifies the
+corresponding option in NPSOL. Use an underscore instead of blanks
+between words, as in { major_print_level = 1 } . The valid
+options are: 
+
+ central_difference_interval 
+ If the algorithm switches to central differences because the
+forward-difference approximation is not sufficiently accurate, this value
+is used as the difference interval for every variable. 
+
+ cold_start 
+ warm_start 
+ These flags control the specification of the initial working set in
+both the procedure for finding a feasible point for the linear
+constraints and bounds, and in the first QP subproblem thereafter. With
+a cold_start , the first working set is chosen by npsol 
+based on the values of the variables and constraints at the initial
+point. Broadly speaking, the initial working set will include equality
+constraints and bounds or inequality constraints that violate or
+"nearly" satisfy their bounds within crash_tolerance . With a
+ warm_start , the user must provide the state table. A warm
+start will be advantageous if a good estimate of the initial working set
+is available--for example, when npsol is called repeatedly to
+solve related problems. 
+
+ crash_tolerance 
+ This value is used in conjunction with the optional parameter
+ cold_start , which is the default. When making a cold start, the
+QP algorithm in npsol must select an initial working set. The
+initial working set will include, if possible, bounds or general
+inequality constraints that lie within crash_tolerance of their
+bounds. The default value is 0.01. If crash_tolerance is less
+than zero or greater than one, the default value is used. 
+
+ derivative_level 
+ This value indicates which objective and constraint derivatives are
+provided by the user. The choices are as follows:
+
+ 0 
+ Neither objective nor constraint derivatives are provided. 
+
+ 1 
+ The objective derivatives are provided by the objgrd function in
+argument objective . Constraint derivatives are not
+provided. 
+
+ 2 
+ The nonlinear constraint derivatives are provided by the congrd 
+function in argument constraints . Objective derivatives are not
+provided. 
+
+ 3 
+ The objective derivatives are provided by the objgrd function in
+argument objective , and the nonlinear constraint derivatives are
+provided by the congrd function in argument constraints . 
+
+The value 3 is the default, and should be used whenever possible, since
+ npsol is more reliable and will usually be more efficient when
+all derivatives are exact. 
+
+If derivative_level is 0 or 2, npsol will estimate the
+objective gradients using finite differences. The computation of
+finite-difference approximations usually increases the total run time,
+since a call to the objective function is required for each constraint.
+Furthermore, less accuracy can be attained in the solution. 
+
+If derivative_level is 0 or 1, npsol will approximate the
+constraint gradients. One call to the constraint function is required
+for each variable. At times, central differences are used rather than
+forward differences, in which case twice as many calls to the objective
+and constraint functions are needed. The switch to central differences
+is not under the user's control. 
+
+ difference_interval 
+ This value defines an interval used to estimate gradients by finite
+differences in the following circumstances: (1) for verifying the
+objective and constraint gradients, and (2) for estimating the objective
+or constraint derivatives. If a difference interval is not specified by
+the user, a finite difference interval will be computed automatically
+for each variable by a procedure that requires up to six calls of the
+objective and constraint functions for each component. This option is
+recommended if the function is badly scaled or the user wishes to have
+ npsol determine constant elements in the objective and constraint
+gradients. 
+
+ feasibility_tolerance 
+ This value defines the maximum acceptable absolute violations in linear
+and nonlinear constraints at a "feasible" point; i.e., a constraint is
+considered satisfied if its violation does not exceed this value. The
+default value is the square root of machine precision. 
+
+ function_precision 
+ This value is intended to be a measure of the accuracy with which the
+objective and constraint functions can be computed. It acts as a
+relative precision when the magnitude is large, and as an absolute
+precision when the magnitude is small. For example, if the objective
+function is typically on the order of 1000 and the first 6 digits are
+known to be correct, then function_precision should be set to
+1.0E-6. In contrast, if the objective function is typically on the
+order of 1.0E-4 and the first 6 digits are known to be correct, then
+ function_precision should be set to 1.0E-10. The choice of
+ function_precision can be quite complicated for badly scaled
+problems. The default value is machine precision raised to the 0.9
+power; this is appropriate for most simple functions that are computed
+with full accuracy. However, when the accuracy of the computed function
+values is known to be significantly worse than full precision, then
+ function_precision should be large enough that npsol will
+not attempt to distinguish between function values that differ by less
+than the error inherent in the calculation. 
+
+ hessian 
+ This option must be either "yes" or "no" . (The default is
+ "no" ). This option controls the contents of the R matrix
+in state . The user should set hessian to "yes" if
+the state table returned is to be used for a subsequent warm
+start. 
+
+ infinite_bound_size 
+ If this value is greater than zero, it defines the "infinite" bound
+in the definition of the problem constraints. Any upper bound greater
+than or equal to this value will be regarded as positive infinity. Any
+lower bound less than or equal to the negative of this value will be
+regarded as negative infinity. The default value is 1.0E10. 
+
+ infinite_step_size 
+ This value specifies the magnitude of the change in variables that is
+treated as a step to an unbounded solution. If the change in any
+variable during an iteration would exceed the value of
+ infinite_step_size , the objective function is considered to be
+unbounded below in the feasible region. The default is the greater of
+ infinite_bound_size and 1.0E10. 
+
+ iteration_limit 
+ This value specifies the maximum number of major iterations allowed
+before termination. 
+
+ linear_feasibility_tolerance 
+ nonlinear_feasibility_tolerance 
+ These values define the maximum acceptable absolute violations in linear
+and nonlinear constraints at a "feasible" point. A constraint is
+considered satisfied if its violation does not exceed this value. The
+default value for both options is the square root of machine
+precision. 
+
+On entry to npsol , an iterative procedure is executed in order to
+find a point that satisfies the linear constraints and bounds on the
+variables to within linear_feasibility_tolerance . All subsequent
+iterates will satisfy the linear constraints to within the same
+tolerance, unless this value is comparable to the finite difference
+interval. 
+
+For nonlinear constraints, nonlinear_feasibility_tolerance 
+defines the largest constraint violation that is acceptable at an
+optimal point. Since nonlinear constraints are generally not satisfied
+until the final iterate, this value acts as a partial termination
+criterion for the iterative sequence. 
+
+These tolerances should reflect the precision of the corresponding
+constraints. for example, if the variables and the coefficients in the
+linear constraints are of order unity, and the latter are correct to
+about 6 decimal digits, it would be appropriate to specify
+ linear_feasibility_tolerance as 1.0E-6. 
+
+ linesearch_tolerance 
+ This value controls the accuracy with which a step taken during each
+iteration approximates a minimum of the merit function along the search
+direction. The smaller the value, the more accurate the line search.
+The default value is 0.9; it requests an inaccurate search that is
+appropriate for most problems, particularly those with any nonlinear
+constraints. 
+
+If there are non nonlinear constraints, a more accurate search may be
+appropriate when it is desirable to reduce the number of major
+iterations--for example, if the objective function is cheap to evaluate
+or if the gradients are not specified. 
+
+ list 
+ If this flag is given, all of the options and their values are
+printed. 
+
+ print_level 
+ This value controls the amount of printed output produced by the major
+iterations of npsol . The levels are as follows: 
+
+ 0 
+ No output. This is the default.
+
+ 1 
+ The final solution only.
+
+ 5 
+ One line of output for each major iteration, but no final
+solution. 
+
+ 10 
+ The final solution and one line of output for each iteration. 
+
+ 20 
+ At each major iteration, the objective function, the Euclidean norm of
+the nonlinear constraint violations, the value of the nonlinear
+constraints, the values of the linear constraints, and the current
+values of the variables. 
+
+ minor_iteration_limit 
+ This value specifies the maximum number of iterations for the optimality
+phase of each QP subproblem. 
+
+ minor_print_level 
+ This value controls the amount of printout produced by the minor
+iterations of npsol . The levels are as follows: 
+
+ 0 
+ No output. This is the default. 
+
+ 1 
+ The final QP solution.
+
+ 5 
+ One line of output for each minor iteration, but no final QP
+solution. 
+
+ 10 
+ The final QP solution and one line of output for each minor iteration.
+
+ 20 
+ At each minor iteration, the current estimates of the QP multipliers,
+the current estimate of the QP search direction, the QP constraint
+values, and the status of each QP constraint. 
+
+ optimality_tolerance 
+ This value specifies the accuracy to which the user wishes the final
+iterate to approximate a solution of the problem. Broadly speaking, it
+indicates the number of correct figures desired in the objective
+function at the solution. For example, if optimality_tolerance 
+is 1.0E-6 and npsol terminates successfully, the final value of
+the objective function should have approximately 6 correct figures. The
+ npsol function will terminate successfully if the iterative
+sequence is judged to have converged and the final point satisfies the
+first-order optimality conditions. 
+
+ verify_level 
+ This value refers to finite-difference checks on the gradients computed
+by the user function objgrd and congrd . It may take on
+one of the following values: 
+
+ -1 
+ No checks are made.
+
+ 0 
+ Perform only a very inexpensive check, involving one call to the
+objective function and one call to the constraint function. 
+
+ 1 
+ Perform a reliable but expensive check on the objective
+gradients. 
+
+ 2 
+ Perform a reliable but expensive check on the constraint
+gradients. 
+
+ 3 
+ Perform reliable but expensive checks on both the objective and the
+constraint gradients. 
+
+These checks are recommended whenever a new function routine is being
+developed. 
+
+The state argument is used only when the NPSOL "warm_start"
+option is requested. It may be obtained from the return of a previous
+call to npsol . Its members are: 
+
+ ISTATE 
+ A vector describing the status of the constraints.
+
+ CLAMDA 
+ The Lagrange multiplier estimates for the nonlinear constraints.
+
+ R 
+ The factored Hessian of the Lagrangian function.
+
+The npsol function returns a table containing the following
+members: 
+
+ objective 
+ The value of the objective function at the final iterate.
+
+ solution 
+ The solution vector (or final estimate) for the problem.
+
+ inform 
+ The INFORM value (success/error indicator) returned by NPSOL. The
+possibilities are: 
+
+ 0 
+ The iterates have converged to a point that satisfies the first-order
+optimality conditions to the accuracy requested by the optional
+parameter optimality_tolerance , i.e., the projected gradient and
+active constraint residuals are negligible. (Success.) 
+
+ 1 
+ The final iterate satisfies the first-order optimality conditions to the
+accuracy requested, but the sequence of iterates has not yet converged.
+NPSOL was terminated because no further improvement could be made in the
+merit function. (Probable success.) 
+
+ 2 
+ No feasible point could be found for the linear constraints and bounds.
+The problem has no feasible solution. 
+
+ 3 
+ No feasible point could be found for the nonlinear constraints. The
+problem may have no feasible solution. 
+
+ 4 
+ The limiting number of iterations, determined by the optional parameter
+ major_iteration_limit , has been reached. 
+
+ 6 
+ The current point does not satisfy the first-order optimality
+conditions, and no improved point for the merit function could be found
+during the final line search. 
+
+ 7 
+ The user-provided derivatives of the objective function and/or nonlinear
+constraints appear to be incorrect. 
+
+ 9 
+ An input parameter is invalid.
+
+ iter 
+ The number of major iterations performed.
+
+ state 
+ The state table described above.
+
+ Function: plot ( ... ) 
+ The plot , splot , replot , and unplot 
+functions provide an interface to the gnuplot program for plotting
+data. Use plot for plotting lines in two or three dimensions;
+ splot is for plotting surfaces in three dimensions. 
+
+To use these plotting functions effectively, you will probably need some
+familiarity with the gnuplot commands. For example, to add a title to an
+existing plot, you'd type something like replot("set title 'Good
+Stuff'") . Read the gnuplot manual or its on-line help for more
+information. 
+
+The plot function accepts as many as three arguments. If either
+or both of the first two arguments are (or can be converted to)
+character vectors, then their elements are sent, each on a separate
+line, to gnuplot as commands. For example, plot("set term X11") 
+causes gnuplot to generate X11 output. Even commands that request
+information from gnuplot, like plot("show term") are acceptable
+(although you might temporarily lose sight of Algae's prompt). Don't use
+the "exit" or "quit" commands of gnuplot--they cause gnuplot to
+exit without Algae knowing about it. 
+
+If more than one argument is given to plot and the last one is an
+integer scalar, then it is taken to be an identifier for the plot
+process. This allows you to have more than one plot open at a time. If
+no identifier is given, then the active plot is killed and replaced by a
+new one with the same identifier. The "active" plot is the one last
+referenced, or 1 if there are no plots open. The replot function
+may be used to modify an open plot. 
+
+Any other arguments given to plot are taken to be data to be
+plotted. Vectors are plotted using their element values as ordinates
+and their labels for the abscissae. Matrices with 2 columns are plotted
+using the second column for ordinates and the first column for
+abscissae. A matrix with 3 columns is plotted as a curve in three
+dimensions, with the third column specifying the ordinates. Surface
+plots are obtained using the splot function. 
+
+If the data given to plot is a vector, but has no labels, then
+the element indices are used instead of the labels. 
+
+Multiple curves may be shown on the same plot, either by giving
+ plot two data arguments or (better yet) supplying the data in a
+table. When data is given in a table (even if it contains only one
+member), the member name is used in the plot legend. Otherwise,
+ plot uses the names "y_1" and "y_2". 
+
+If the data is given in a table, any members that are tables themselves
+are given to gnuplot in a single data file. This means that the same
+line and point type is used. For example, if x and y are
+vectors to be plotted, then plot({x;y}) plots the two, each
+with a different line and point type and described by name in the
+legend. On the other hand, plot({z={x;y}}) plots them with
+the same line and point type and names the combination "z" in the
+legend. 
+
+If plot is called with no arguments, it returns a vector of the
+open plot identifiers. This vector is sorted from most to least
+recently referenced, so the "active" plot is first. 
+
+Here's an example that simulates the Van der Pol system and plots the
+results: 
+
+ xdot = function( t; x ) {
+ return x[1]*(1-x[2]^2)-x[2], x[1];
+}
+x = ode( xdot; 0; 20; 0,.25 );
+plot( "set data style lines"; { x1=x[1;]; x2=x[2;] } );
+
+See also splot , replot , and unplot .
+
+ Function: replot ( ... ) 
+ The replot function is used to modify or redisplay plots created
+with either the plot or splot functions. It takes at most
+2 arguments. If the first argument has character type, it is passed to
+gnuplot as commands. 
+
+The last argument is the optional plot identifier. If not given, the
+active plot is used by default. 
+
+See also plot , splot , and unplot .
+
+ Function: splot ( ... ) 
+ The splot function is used to plot surfaces in three dimensions.
+Except for the form of the data, its input is identical to that of the
+ plot function. The data is specifed as a matrix of ordinates.
+The labels of the matrix, or the corresponding indices if the labels
+don't exist, are used for the abscissae. 
+
+See also plot , replot , and unplot .
+
+ Function: umin ( objective; start; options ) 
+ The umin function performs unconstrained minimization using the
+Nelder-Mead direct search method. It does not have the features or
+sophistication of npsol , but it works well for some
+cases--particularly when the objective surface is not smooth. 
+
+The objective argument is a function that takes one or two
+arguments and returns the value of the objective at that point. The
+first argument is a vector of design variables. The second
+argument, which is optional, is passed unchanged from the params 
+member of the options argument to umin itself. 
+
+The start argument is an integer or real vector that specifies the
+starting point. 
+
+The options augument may be either NULL or a table containing
+convergence and other specifications. The meaningful options are: 
+
+ bound 
+ The minimum value permitted for the objective function. The default is
+-1e32. 
+
+ display 
+ A function called at each "successful" iteration with the current design
+point as its only argument. This may be used, for example, to plot the
+design as it changes. 
+
+ evals 
+ The maximum number of objective function evaluations permitted. The
+default value is 1000. 
+
+ iter 
+ The maximum number of iterations permitted. The default value is
+100. 
+
+ params 
+ The value of this member is passed as the second argument to the
+objective function. 
+
+ right 
+ If this member exists, then the initial simplex has right angles. By
+default, the initial simplex has sides of equal length. 
+
+ size 
+ The initial size of the simplex. By default, this is the greater of 1
+and the infinity norm of the starting vector. 
+
+ tol 
+ The relative size of the simplex, below which the iteration is taken to
+have converged. The tolerance is 1e-6 by default. 
+
+ verbose 
+ If this member exists, then information is printed at each "successful"
+iteration. 
+
+The return value from umin is a table with the following
+members: 
+
+ evals 
+ The number of objective function evaluations. 
+
+ inform 
+ A return code specifying success or failure: 
+
+ 0 
+ success
+
+ 1 
+ failure, objective bound reached
+
+ 2 
+ failure, function evaluation limit exceeded
+
+ 3 
+ failure, iteration limit exceeded
+
+ iter 
+ The number of iterations performed. 
+
+ msg 
+ A message corresponding to the inform code. 
+
+ obj 
+ The final objective value. 
+
+ sol 
+ The final design point. 
+
+This code is based on nmsmax , a MATLAB function by Nick
+Higham. 
+
+See also npsol .
+
+ Function: unplot ( id ) 
+ The unplot function is used to terminate plots created with the
+ plot or splot functions. The integer scalar or vector
+argument id specifies the identifiers of the plots to be
+terminated. If no id is given, the active plot is terminated.
+You can terminate all open plots with unplot(plot()) . 
+
+See also plot , replot , and splot .
+
+ 6.10 Miscellaneous 
+
+ Function: all ( x ) 
+ The all function evaluates the "truth" of its argument x 
+in the same way that the function test does, except that vectors
+and matrices are "true" only if all of their elements are "true".
+For example, all(1,0) returns 0 while test(1,0) returns
+1. If x has no elements, all returns 0. 
+
+See also test and equal .
+
+ Function: atof ( s ) 
+ The atof function converts character strings to real numbers.
+The argument s may be a scalar, vector, or matrix. The function
+reads only up to the first unrecognized character of each string, and
+ignores anything that remains. If the first character of a string is
+unrecognized, then the value is taken to be zero. 
+
+ Function: char ( v ) 
+ The char function converts the vector v into a character
+string; each element of v contributes a single character according
+to its ASCII value. For example, char(65,66,67) returns the
+string "ABC" . 
+
+If an element of v is less than 0 or greater than 255, then it
+will "wrap" (modulo 256). Thus char(65) and
+ char(65+256) both return the string "A" . 
+
+Algae's character strings are terminated with a NUL (0) character. For
+the char function, that means that if an element of v is
+zero (or a multiple of 256) then the string is terminated at that
+point. For example, char(65,0,66) yields the string
+ "A" . 
+
+ Function: class ( x ) 
+ The class function returns a character string (such as "scalar"
+or "table") that describes the class of x . 
+
+ Function: equal ( a; b ) 
+ This function tests a and b for equality. For vectors and
+matrices, it returns true (1) only if every pair of corresponding
+elements is equal, and false (0) otherwise. For all other classes, this
+function returns the same value as the expression a==b 
+would. 
+
+See also test .
+
+ Function: members ( e ) 
+ This function returns a vector containing the names of the members of
+ e . 
+
+ Function: info ( topic ) 
+ This function starts up an interactive browser for Algae's
+documentation. The optional argument topic (a character scalar)
+takes you directly to that topic. For example, info("sort") 
+takes you directly to the description of the sort 
+function. 
+
+If possible, info uses an X-based html browser (like netscape
+or mosaic). Otherwise, a character-based html browser (like lynx)
+will be tried. As a final resort, the GNU Info browser is called. 
+
+The names of the available browsers are assigned by the startup code
+(see section 7.1 Startup Files ) as members xhtml , html , and
+ info of the global table $programs . To prevent
+ algae from using a particular browser, simply set the
+appropriate member of $programs to a zero-length string. If
+you prefer to use Info, for example, you could simply put the
+line 
+
+ $programs.xhtml = $programs.html = "";
+
+in your `.algae' file.
+
+ Function: prof ( infile; outfile; threshold ) 
+ The prof function reads an `algae.out' file produced by
+ algae 's execution profiler (the `-p' option), and summarizes
+it by file and by line number. The infile argument specifies the
+file name. outfile specifies the output file; if it's NULL,
+stdout is used. 
+
+The threshold argument may be used to truncate the summary
+listings. The truncation occurs after enough entries have been printed
+to account for threshold percent of the total number of hits. If
+ threshold is NULL, no truncation is performed. 
+
+Below is an example of prof output, obtained with the command
+ prof("algae.out";;50); . 
+
+ Algae execution profile listing.
+
+628 total hits
+
+--- by file ---
+
+ hits % hits cum % file
+ 201 32.01 32.01 lqrtest.A
+ 127 20.22 52.23 /usr/local/lib/algae/ode.A
+
+--- by line ---
+
+ hits % hits cum % line file
+ 130 20.70 20.70 88 lqrtest.A
+ 42 6.69 27.39 1 /usr/local/lib/algae/plot.A
+ 40 6.37 33.76 38 lqrtest.A
+ 21 3.34 37.10 1 /usr/local/lib/algae/ode.A
+ 17 2.71 39.81 44 /usr/local/lib/algae/ode.A
+ 15 2.39 42.20 42 /usr/local/lib/algae/ode.A
+ 15 2.39 44.59 41 /usr/local/lib/algae/ode.A
+ 14 2.23 46.82 1 /usr/local/lib/algae/ode4.A
+ 12 1.91 48.73 1 /usr/local/lib/algae/spline.A
+ 10 1.59 50.32 1 lqrtest.A
+
+First, notice that the number of hits counted in this example was only
+628. Four digits of precision in the statistics are clearly unjustifed
+with such a small sample. The first column reports the number of
+profiler hits counted toward each particular file or line number. The
+second column restates that as a percentage of the total number of hits.
+The third column gives the cumulative percentage. 
+
+All profiler hits that occur while algae is parsing a file are
+counted toward its first line. This is normally insignificant compared
+to execution, but it explains why line 1 shows up so often in the "by
+line" report in the example above. 
+
+No files are closed in prof . Normally, this means that you must
+close them yourself if prof is to be called more than
+once. 
+
+ Function: show ( e ) 
+ This function prints information about the entity e and its
+members. 
+
+ Function: split ( s; w ) 
+ The split function takes a character scalar argument s ,
+splits it into tokens, and returns the tokens in a character vector.
+Each token is delimited by one or more characters from w . For
+example, split("/bin:/usr/bin";":") returns the vector 
+
+ ( "/bin" , "/usr/bin" )
+
+If w is NULL, the string " \t\n" is used. Thus
+ split("This is a test.") returns the vector 
+
+ ( "This" , "is" , "a" , "test." )
+
+ Function: string ( e ) 
+ The string function converts its argument e to character
+type. If e is NULL, a zero-length character scalar is returned.
+For example, string(1/(1:3)) returns the vector 
+
+ ( "1" , "0.5" , "0.333333" )
+
+Currently, the output format cannot be changed.
+
+ Function: substr ( c; start; length ) 
+ The substr function returns the substring of the character string
+ c , beginning at index start , with length length . The
+integer start must be greater than zero; if it exceeds the length
+of c , then a zero-length string is returned. If length is
+NULL, then all of the remaining characters of c are returned;
+otherwise, length must not be negative. 
+
+See also dice , split , and string . 
+
+ Function: test ( e ) 
+ The test function evaluates the "truth" of e in the same
+way that Algae's if statement would, returning 1 for true and 0
+for false. The following entities are false: 
+
+NULL.
+
+Numeric arrays in which every element is zero.
+
+Character arrays in which every element is "" .
+
+Vectors and matrices with no elements.
+
+Tables with no members.
+
+All others are true. Notice that if e is an array
+( scalar , vector , or matrix ), then test 
+returns true if any element of e is nonzero (or has nonzero
+length, for character type). 
+
+An example of the use of test is Algae's equal function,
+which is written as 
+
+ equal = function( a; b ) { return !test( a != b ); }
+
+If a and b are both matrices, then a!=b returns a
+matrix that is all zeros only if every element pair is equal. In that
+case, test returns 0 and ! changes that to 1. 
+
+See also equal and all .
+
+ Function: time ( ) 
+ The time function returns the number of seconds of user time that
+the current process has used. On most machines, its precision is not
+much more than 1/10 of a second. 
+
+ Function: tolower ( s ) 
+ The tolower function converts strings to lower case. Every
+letter is converted as appropriate for the current locale. The argument
+ S may be a character scalar, vector, or matrix. 
+
+See also toupper .
+
+ Function: toupper ( s ) 
+ The toupper function converts strings to upper case. Every
+letter is converted as appropriate for the current locale. The argument
+ S may be a character scalar, vector, or matrix. 
+
+See also tolower .
+
+ Function: what ( ) 
+ The what function returns a table containing all of the global
+functions. See also who . 
+
+ Function: who ( opt ) 
+ The who function returns a table containing all global variables
+that are neither functions nor NULL. Variables with names that begin
+with `$' are excluded, unless the optional argument opt 
+equals "$" . See also what . 
+
+ [ << ] 
+ [ >> ] 
+ [ Top ] 
+ [ Contents ] 
+ [ Index ] 
+ [ ? ] 
+
+This document was generated
+by K. Scott Hunziker on October, 31 2001 
+using texi2html

@@ -6,7 +6,7 @@ order: 335
 reachable_from_entry: true
 images: 3
 internal_links: 14
-extracted: 2026-08-03T18:11:48Z
+extracted: 2026-08-07T05:53:21Z
 extractor: site_to_paper.py (pandoc)
 ---
 
@@ -31,15 +31,15 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td><strong><a href="http://amasci.com/">TOP</a>  |</strong><br />
+<td><strong><a href="/">TOP</a>  |</strong><br />
 </td>
-<td><strong><a href="http://amasci.com/sc/kidproj1.html">SCI. PROJECTS</a>  |</strong><br />
+<td><strong><a href="/sc/kidproj1.html">SCI. PROJECTS</a>  |</strong><br />
 </td>
-<td><strong><a href="http://amasci.com/unew.html">GOOD STUFF</a>  |</strong><br />
+<td><strong><a href="/unew.html">GOOD STUFF</a>  |</strong><br />
 </td>
-<td><strong><a href="http://amasci.com/news.html">NEW STUFF</a>  |</strong><br />
+<td><strong><a href="/news.html">NEW STUFF</a>  |</strong><br />
 </td>
-<td><strong><a href="http://amasci.com/search.html">SEARCH</a></strong><br />
+<td><strong><a href="/search.html">SEARCH</a></strong><br />
 </td>
 </tr>
 </tbody>
@@ -56,9 +56,9 @@ TOUCH THE CLOUDS\
 Ultrasonic Humidifier Mist
 ==========================
 
-### 1995 [William Beaty](http://amasci.com/me.html)
+### 1995 [William Beaty](/me.html)
 
-<img src="http://amasci.com/graphics/vertstr7.gif" data-align="right" />
+<img src="/graphics/vertstr7.gif" data-align="right" />
 
 This device generates a pool of fog which resembles dry-ice fog, but uses only water and air. Touch the pool and you touch cloud-stuff. Totally fascinating to play with.
 
@@ -76,10 +76,10 @@ This device generates a pool of fog which resembles dry-ice fog, but uses only w
 
 ------------------------------------------------------------------------
 
-- [Construction](http://amasci.com/amateur/clouds.html#const)
-- [Demonstrations](http://amasci.com/amateur/clouds.html#demos)
-- [Finding Humidifiers](http://amasci.com/amateur/clouds.html#humi)
-- [Safety](http://amasci.com/amateur/clouds.html#safe)
+- [Construction](/amateur/clouds.html#const)
+- [Demonstrations](/amateur/clouds.html#demos)
+- [Finding Humidifiers](/amateur/clouds.html#humi)
+- [Safety](/amateur/clouds.html#safe)
 
 <!-- -->
 
@@ -143,7 +143,7 @@ Place a large, lightweight cup or bag upon a beam-balance and weigh it. Fill it 
 
 ### Question:
 
-This air/droplet "fluid" is quite dense, yet it is the same stuff as clouds and fog. Why do clouds stay up? Why does fog hug the ground? The answer is [below(1)](http://amasci.com/amateur/clouds.html#below), but it might present a topic of considerable discussion for your kids.\
+This air/droplet "fluid" is quite dense, yet it is the same stuff as clouds and fog. Why do clouds stay up? Why does fog hug the ground? The answer is [below(1)](/amateur/clouds.html#below), but it might present a topic of considerable discussion for your kids.\
 
 A hint for visualizing our world: air is not invisible, it is transparent, and air to us is like water to a fish: we can't see it, so we think it's not there. If a plume of dirty water invades a pool of clear water, a fish might see the dirt the same way that we humans think of smoke. To a fish, dirty water looks like "smoke". We who live outside the water know that the fish is really just seeing dirty water mixing in with the clean. Without the water, the dirt wouldn't act like underwater smoke, it would fall to the bottom. So, what is humidifier mist? It's not just water droplets, since water droplets alone would instantly fall like rain. Actually, humidifier mist is "dirty" air. It is air that's been stained white with some other substance. Humidifer mist makes air visible. Adding mist to the air is like adding dirt to the water. If the fish's world was without water, the dirt would not float and couldn't look like smoke. If we lived in an airless vacuum, the mist droplets would fall like so much sand. Smoke and fog cannot exist in vacuum, because smoke and fog really are air which is stained. Fires in a vacuum would not smoke, instead they would shoot out fine grey powder at high speed. Clouds and fog in a vacuum would instantly fall and turn into puddles on the ground. <span id="humi"></span>
 
@@ -199,8 +199,8 @@ Want books? Try searching <a href="http://www.amazon.com/exec/obidos/redirect-ho
 
 \
 
-<http://amasci.com/amateur/clouds.html>\
-Created and maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\
+[/amateur/clouds.html](/amateur/clouds.html)\
+Created and maintained by [Bill Beaty](/billb.html). Mail me at: [<img src="/graphics/abc.gif" data-border="0" width="141" height="19" />](/amfrm/).\
 \
 
 <div class="statcounter">

@@ -1,0 +1,103 @@
+<html>
+<head>
+<title>Leonid meteor shower - near North Bend, WA</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<STYLE><!--
+ A{text-decoration:none}
+--></STYLE>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" link="#FFCCCC" vlink="#FFCCCC" alink="#FFCCCC">
+<script language="JavaScript">
+function WritePrompt(strPrompt) {
+  if (document.all) { // IE4+
+    document.all.PromptDisplay.innerHTML=strPrompt
+  } else if (document.layers) { // NS4
+    document.ns4PromptDisplay.document.ns4PromptDisplay2.document.write(strPrompt)
+    document.ns4PromptDisplay.document.ns4PromptDisplay2.document.close()
+  } else if (document.getElementById) { // NS6
+    // document.getElementById("PromptDisplay").innerHTML=strPrompt
+    // Above: using deprecated innerHTML; below: DOM-oriented code
+    range = document.createRange();
+    elID = document.getElementById("PromptDisplay");
+    range.setStartBefore(elID);
+    htmlFrag = range.createContextualFragment(strPrompt);
+    while (elID.hasChildNodes())
+    elID.removeChild(elID.lastChild);
+    elID.appendChild(htmlFrag);
+  }
+}
+
+var cntr=1
+var ImageList=new Array()
+ImageList[1]='06_TwoThruOrion.jpg'
+ImageList[2]='17_BeltToTrees.jpg'
+ImageList[3]='14_LeonidWithTrails.jpg'
+// Preload images
+var p = ImageList.length
+var preLoad = new Array()
+for (i = 0; i < p; i++){
+   preLoad[i] = new Image();
+   preLoad[i].src = ImageList[i]
+}
+
+function showSlide(intForBack) {  // -1 for previous, 1 for next
+  if (intForBack==-1) {
+    cntr--;
+    if (cntr<1) cntr=p-1;
+  } else if (intForBack==1) {
+    cntr++;
+    if (cntr>(p-1)) cntr=1;
+  }
+  document.images.imgDisplay.src = preLoad[cntr].src
+  WritePrompt(cntr+'&nbsp;|&nbsp;'+(p-1))
+}
+</script>
+
+<h3><font face="Arial, Helvetica, sans-serif"> Leonids meteor shower</font></h3>
+<p><font face="Arial, Helvetica, sans-serif" size="-1">&nbsp;&nbsp;&nbsp;November 
+  18 , 2001 - Near North Bend, WA</font> </p>
+<center>
+  <table border="0" cellspacing="0" cellpadding="3">
+  <tr>
+      <td colspan="3"><img src="1px.gif" width="1" height="356"><img name="imgDisplay" src="06_TwoThruOrion.jpg"></td>
+  </tr>
+  <tr>
+        <td width="*" align="right"><font face="Arial, Helvetica, sans-serif"> <a href="javascript:showSlide(-1)">|&lt;</a></font></td> 
+        <td align="center"><font face="Arial, Helvetica, sans-serif"><div id="PromptDisplay" align="center"></div>
+        <ilayer id="ns4PromptDisplay"><layer id="ns4PromptDisplay2"></layer></ilayer></font></td>
+        <td width="*" align="left"><font face="Arial, Helvetica, sans-serif"><a href="javascript:showSlide(1)">&gt;|</a></font></td>
+  </tr>
+</table>
+</center>
+<p>&nbsp;</p>
+<p><font face="Arial, Helvetica, sans-serif" size="+2"><b><font size="+3">D</font></b></font><font face="Arial, Helvetica, sans-serif">espite 
+  the near-freezing temperatures &amp; competing car stereos blaring bad rap music 
+  along the narrow moutain road we found, we ended up in a good viewing spot with 
+  clear skies for the show (lucky, considering how it had rained steadily all 
+  week). And although we didn't get the 4,000-an-hour meteor storm we had hoped 
+  for, we did spot many hundreds in the 2 hours we were there!</font></p>
+<font face="Arial, Helvetica, sans-serif">
+<ol>
+  <li>Two Leonids through Orion</li>
+  <li>A meteor originates at Orion's belt &amp; disappears behind distant trees.</li>
+  <li>Closeup of a fireball; inset, taken a few minutes later, the resultant smoke 
+    trail dissipates.</li>
+</ol>
+</font> 
+<p><font face="Arial, Helvetica, sans-serif">(Photo details: Minolta X-700, 50mm 
+  lens, Fuji Superia 800 film, various exposures).</font></p>
+<p><font face="Arial, Helvetica, sans-serif"><font size="-1">EPILOGUE:</font> 
+  Back home at 5:00 a.m., I stepped out onto my balcony for a moment before retiring&#151;and 
+  even over the city lights, only 1/3 of the sky visible, I counted 6 bright meteors 
+  in 5 minutes.</font></p>
+<p> <i><font face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;- Rob</font></i> 
+</p>
+<p><font face="Arial, Helvetica, sans-serif" size="-1">(This page uses Javascript 
+  to display the pictures; if you have any problems viewing them (e.g., images 
+  are stretched, slideshow doesn't work at all, etc.), I'd appreciate knowing 
+  about it via <a href="mailto:&#116;urnip&#064;&#101;skimo.com">email</a>.)</font><font face="Arial, Helvetica, sans-serif"> 
+  <script>WritePrompt(cntr+'&nbsp;|&nbsp;'+(p-1))</script>
+  </font></p>
+</body>
+</html>

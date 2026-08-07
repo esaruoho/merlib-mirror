@@ -1,0 +1,107 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995-7 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>2.5 Arithmetic Operators</title>
+<link href="sx2d.html" rev=precedes>
+<link href="sx2f.html" rel=precedes>
+<link href="sx2.html" rev=subdocument>
+</head>
+<body>
+<H2>2.5 Arithmetic Operators</H2>
+
+<p>[This section corresponds to K&amp;R Sec. 2.5]
+</p><p>The basic operators for performing arithmetic are the same in
+many computer languages:
+<br>
+<br>
+<pre>
+	<TT>+</TT>	addition
+	<TT>-</TT>	subtraction
+	<TT>*</TT>	multiplication
+	<TT>/</TT>	division
+	<TT>%</TT>	modulus (remainder)
+</pre>
+</p><p>
+The <TT>-</TT> operator can be used in two ways:
+to subtract two numbers
+(as in <TT>a - b</TT>),
+or to negate one number
+(as in <TT>-a + b</TT> or <TT>a + -b</TT>).
+</p><p>When applied to integers,
+the division operator <TT>/</TT> discards any remainder,
+so <TT>1 / 2</TT> is 0
+and <TT>7 / 4</TT> is 1.
+But when either operand is a floating-point quantity
+(type <TT>float</TT> or <TT>double</TT>),
+the division operator yields a floating-point result,
+with a potentially nonzero fractional part.
+So <TT>1 / 2.0</TT> is 0.5,
+and <TT>7.0 / 4.0</TT> is 1.75.
+</p><p>The <dfn>modulus</dfn> operator <TT>%</TT> gives you the
+remainder
+when two integers are divided:
+<TT>1 % 2</TT> is 1;
+<TT>7 % 4</TT> is 3.
+(The modulus operator can only be applied to integers.)
+</p><p>An additional arithmetic operation you might be wondering about
+is exponentiation.
+Some languages have an exponentiation operator
+(typically <TT>^ or </TT><TT>**</TT>),
+but C doesn't.
+(To square or cube a number,
+just multiply it by itself.)
+</p><p>Multiplication, division, and modulus all have higher 
+<dfn>precedence</dfn> than addition and subtraction.
+The term ``precedence'' refers to how ``tightly'' operators bind to 
+their operands (that is, to the things they operate on).
+In mathematics, multiplication has higher precedence than 
+addition, so <TT>1 + 2 * 3</TT> is 7, not 9.
+In other words, <TT>1 + 2 * 3</TT> is equivalent to <TT>1 + (2 * 3)</TT>.
+C is the same way.
+</p><p>All of these operators ``group'' from left to right,
+which means that
+when two or
+more of them have the same precedence and participate next to each
+other in an expression,
+the evaluation conceptually proceeds from left to right.
+For example,
+<TT>1 - 2 - 3</TT> is equivalent to <TT>(1 - 2) - 3</TT>
+and gives -4, not +2.
+(``Grouping'' is sometimes called <dfn>associativity</dfn>,
+although the term is used somewhat differently in programming
+than it is in mathematics.
+Not all C operators group from left to right;
+a few group from right to left.)
+</p><p>Whenever the default precedence or associativity
+doesn't give you the grouping you want,
+you can always
+use explicit parentheses.
+For example,
+if you wanted to add 1 to 2 and then multiply the result by 3,
+you could write <TT>(1 + 2) * 3</TT>.
+</p><p>By the way,
+the word ``arithmetic''
+as used in the title of this section
+is an adjective, not a noun,
+and it's pronounced differently than the noun:
+the accent is on the third syllable.
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx2d.html" rev=precedes>prev</a>
+<a href="sx2f.html" rel=precedes>next</a>
+<a href="sx2.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995-1997
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

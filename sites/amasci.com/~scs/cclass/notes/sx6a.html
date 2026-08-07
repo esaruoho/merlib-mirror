@@ -1,0 +1,171 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995-7 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>6.1 <TT>printf</TT></title>
+<link href="sx6.html" rev=precedes>
+<link href="sx6b.html" rel=precedes>
+<link href="sx6.html" rev=subdocument>
+</head>
+<body>
+<H2>6.1 <TT>printf</TT></H2>
+
+<p><TT>printf</TT>'s name comes from <B>print</B> <B>f</B>ormatted.
+It generates output under the control of a <dfn>format string</dfn>
+(its first argument)
+which consists of literal characters to be printed
+and also
+special character sequences--<dfn>format specifiers</dfn>--which
+request that
+other arguments be fetched, formatted, and inserted into the string.
+
+Our very first program was nothing more than a call to <TT>printf</TT>,
+printing a constant string:
+<pre>
+	printf("Hello, world!\n");
+</pre>
+Our second program also featured a call to <TT>printf</TT>:
+<pre>
+	printf("i is %d\n", i);
+</pre>
+In that case, whenever <TT>printf</TT>
+``printed''
+the string
+<TT>"i is %d"</TT>,
+it did not print it verbatim;
+it replaced the two characters <TT>%d</TT> with the value of the
+variable <TT>i</TT>.
+</p><p>There are quite a number of format specifiers for <TT>printf</TT>.
+Here are the
+basic
+ones
+:
+<br>
+<br>
+<pre>
+	<TT>%d</TT>	print an <TT>int</TT> argument in decimal
+	<TT>%ld</TT>	print a <TT>long int</TT> argument in decimal
+	<TT>%c</TT>	print a character
+	<TT>%s</TT>	print a string
+	<TT>%f</TT>	print a <TT>float</TT> or <TT>double</TT> argument
+	<TT>%e</TT>	same as <TT>%f</TT>, but use exponential notation
+	<TT>%g</TT>	use <TT>%e</TT> or <TT>%f</TT>, whichever is better
+	<TT>%o</TT>	print an <TT>int</TT> argument in octal (base 8)
+	<TT>%x</TT>	print an <TT>int</TT> argument in hexadecimal (base 16)
+	<TT>%%</TT>	print a single <TT>%</TT>
+</pre>
+<br>
+<br>
+It is also possible to specify the width and precision of
+numbers and strings as they are inserted
+
+
+(somewhat like FORTRAN <TT>format</TT> statements);
+we'll present those details in a later chapter.
+(Very briefly, for those who are curious:
+a notation like <TT>%3d</TT> means to print an <TT>int</TT>
+in a field at least 3 spaces wide;
+a notation like <TT>%5.2f</TT> means to print a <TT>float</TT> or <TT>double</TT>
+in a field at least 5 spaces wide,
+with two places to the right of the decimal.)
+</p><p>To illustrate with a few more examples:
+the call
+<pre>
+	printf("%c %d %f %e %s %d%%\n", '1', 2, 3.14, 56000000., "eight", 9);
+</pre>
+would print
+<pre>
+	1 2 3.140000 5.600000e+07 eight 9%
+</pre>
+The call
+<pre>
+	printf("%d %o %x\n", 100, 100, 100);
+</pre>
+would print
+<pre>
+	100 144 64
+</pre>
+Successive calls to <TT>printf</TT> just build up the output a
+piece at a time, so the calls
+<pre>
+	printf("Hello, ");
+	printf("world!\n");
+</pre>
+would also print <TT>Hello, world!</TT>
+(on one line of output).
+</p><p>Earlier we learned
+
+that C represents characters internally as
+small integers corresponding to the characters' values in the
+machine's character set (typically ASCII).
+This means that there isn't really much difference between a
+character and an integer in C; most of the difference is in
+whether we choose to interpret an integer as an integer or a
+character.
+<TT>printf</TT> is one place where we get to make that choice:
+<TT>%d</TT> prints an integer value as a string of digits representing
+its decimal value,
+while <TT>%c</TT> prints the character corresponding to a character set value.
+So the lines
+<pre>
+	char c = 'A';
+	int i = 97;
+	printf("c = %c, i = %d\n", c, i);
+</pre>
+would print <TT>c</TT> as the character A and <TT>i</TT> as the number 97.
+But if, on the other hand, we called
+<pre>
+	printf("c = %d, i = %c\n", c, i);
+</pre>
+we'd see the decimal value (printed by <TT>%d</TT>) of the character
+<TT>'A'</TT>, followed by the character (whatever it is) which happens
+to have the decimal value 97.
+</p><p>You have to be careful when calling <TT>printf</TT>.
+It has no way of knowing
+how many arguments you've passed it
+or what their types are
+other than by looking for the format specifiers in
+the format string.
+If there are more format specifiers
+(that is, more <TT>%</TT> signs)
+than there are arguments,
+or if the arguments have the wrong types for the format
+specifiers,
+<TT>printf</TT> can misbehave badly,
+often printing nonsense numbers or (even worse) numbers which mislead
+you into thinking that some other part of your program is broken.
+</p><p>Because of some automatic conversion rules which we haven't
+covered yet, you have a small amount of latitude
+in the types of the expressions
+you pass as arguments
+to <TT>printf</TT>.
+The argument for <TT>%c</TT> may be of type <TT>char</TT> or <TT>int</TT>,
+and the argument for <TT>%d</TT> may be of type <TT>char</TT> or <TT>int</TT>.
+The string argument for <TT>%s</TT> may be a string constant,
+an array of characters, or a pointer to some characters
+(though we haven't really covered strings or pointers yet).
+Finally, the arguments corresponding to <TT>%e</TT>, <TT>%f</TT>, and <TT>%g</TT>
+may be of types <TT>float</TT> or <TT>double</TT>.
+But other combinations do <em>not</em> work reliably:
+<TT>%d</TT> will not print a <TT>long int</TT> or a <TT>float</TT> or a <TT>double</TT>;
+<TT>%ld</TT> will not print an <TT>int</TT>;
+<TT>%e</TT>, <TT>%f</TT>, and <TT>%g</TT> will not print an <TT>int</TT>.
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx6.html" rev=precedes>prev</a>
+<a href="sx6b.html" rel=precedes>next</a>
+<a href="sx6.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995-1997
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

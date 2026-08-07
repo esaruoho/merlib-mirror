@@ -1,0 +1,22 @@
+
+<HTML>
+<HEAD>
+<TITLE>Check which Mozilla</TITLE>
+</HEAD>
+<BODY>
+<SCRIPT>
+function switchURL() {
+    var theBrowser = navigator.userAgent
+    var newUrl     = "other.html"
+
+    newUrl = (theBrowser.indexOf("2.0") >= 0) ? "ns2.html" : newUrl
+    newUrl = (theBrowser.indexOf("3.0") >= 0) ? "ns3.html" : newUrl
+    newUrl = (theBrowser.indexOf("4.0") >= 0) ? "ns4.html" : newUrl
+    newUrl = (theBrowser.indexOf("4.5") >= 0) ? "ns4_5.html" : newUrl
+    newUrl = (theBrowser.indexOf("5.0") >= 0) ? "ns5.html" : newUrl
+
+    window.location.href = newUrl
+}
+switchURL()
+</SCRIPT>
+</HTML>

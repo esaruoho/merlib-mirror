@@ -1,0 +1,18 @@
+File 
+
+ In the "File" section you'll find "New, "Open, "Save,"
+"Save As," and "Exit." 
+
+ "New" is used when you want to start on a new screen. 
+
+ "Open" lets you open files you worked on before. 
+
+ "Save" lets you save what you've been currently working on. 
+
+ "Save As" lets you title or rename the work you've been working
+on. 
+
+ "Exit" is chosen when you are finished using ParaMind. 
+
+Use your back button or click here for 
+ Table of Contents Page

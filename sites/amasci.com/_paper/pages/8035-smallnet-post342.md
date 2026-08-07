@@ -1,0 +1,244 @@
+---
+title: "SMALLnet post342"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post342.html
+order: 8035
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:32Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post342
+
+*Source page: `~smallnet/Archive/post342.html`*
+
+## SMALLnet Posting post342
+
+------------------------------------------------------------------------
+
+**Date: Wed, 30 Aug 2000 00:20:35 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet/> \>
+
+Dave Fritzke \< 
+
+ \> exhorts:
+
+Hey out there!\
+I got a stack of model airplane magazines recently and in one of those, this caught my eye:
+
+"Besides, I think there are still a lot of model builders around, as opposed to mere assemblers. I'm not throwing rocks at ARF stuff. I use them myself for practice to save building time, which I apply to scale projects."
+
+Couldn't have said it better myself, and this was written in 1968 by Claude McCullough (MAN, July 1968, referring to the complexity of construction for his Yak 18-PM).
+
+So this debate is nothing new. It reminds me of the articles I see thumbing through old magazines about the lack of young modelers entering the hobby and how this must lead to the death of the hobby eventually. I'll bet I can find an article along these lines every decade from 1950 forward, so when I read something like this today, I just have to chuckle.
+
+I'm glad to see I am not the only nut to still use bamboo. I think I use a little somewhere on every plane I build. I usually use it along the edges of the tail surfaces to make them more ding- resistant, and as "nails" cya'ed into a drilled hole to hold high- stress joints together. My dad used to stringer his Guillow-type planes with bamboo, and I thought he was nuts until he showed me just how strong the stuff was by taking a completed fuselage, holding it by the nose, and banging it repeatedly on the edge of the workbench. That convinced me!
+
+Finally, in that stack of magazines I mentioned earlier, I ran across two nice "SMALLster" planes. One by Ted Strader, called the "Strutz Echo"; a nice little .15-power bipe in the April 1967 Flying Models; and one called the "Touchdown" by Bryce Petersen -- a low-winger with a Medallion .15 R/C from the April-May 1966 Flying Models. I don't think anyone is selling these old FM plans anymore, so I am offering to e-mail a good scan of them to anyone who wants one.
+
+Either would probably fly just fine with a modern .10 or .12. I can vouch for Mr. Strader's designs, I have flown 2 of his in the past (the "Whirlwind" and the "Miss L") and they were nice flyers on small engines.
+
+Dave Fritzke
+
+David Williams \< 
+
+ \> contributed:
+
+I would like to add my bit to the discussion of ARF's. I bought an Easy Pigeon and flew it. After a while I damaged the fuselage in a bad landing, and went to buy a replacement. I was quoted 40 UK pounds; the whole model had cost only 65!
+
+I eventually repaired it by using the plastic inner from an R/C snake and "welding" it with a soldering iron. I don't think that I would buy another.
+
+I am also very careful about buying kits as well, as some of the kits I have bought have been atrocious. So it's mainly building from plans for me from now on.
+
+David Williams ENGLAND
+
+<div class="Joe">
+
+...David, here's MY two-pennyworth regarding ARF's. The sales pitch for these harps on the theme of "We do the drudgery of building so YOU can spend your valuable spare time in FLYING !!"
+
+But little of our available spare time occurs when "conditions are suitable" for model flight... However, one can build any time: at night; when it's pouring down rain; when there's only a half-hour available... Some people claim that they don't have the space for building models. But ARF's have to be assembled somewhere, somehow; it seems to me that if sufficient space is available for that, it could be used for model construction purposes.
+
+Years ago a friend of mine constructed a 6-foot free flight "gas model" in a walk-in closet -- and did a magnificent job of it too!
+
+From my experience in trying to introduce newcomers to model airplanes, the biggest obstacle seems to be the fear that "I'm just not skilful enough to do a good job." Usually that's quite right. And that's why I much prefer to get a newcomer started in modeling with a project that IS within his skills -- or not much above them. Hand-launched (or catapult) gliders are the IDEAL vehicle for this.
+
+Yet many -- maybe most -- people who want to get involved with model airplanes wear blinders that block out all view of EVERY form of model aircraft except R A D I O C O N T R O L !!! \[JW\]
+
+</div>
+
+Don Garry \< 
+
+ \> contributed:
+
+Joe's correct about Top Flite kitting the 27-inch-span "Li'l Rascal" as it was called. It was designed to be flown either FF or C/L. In fact my plan shows the Baby Spitfire on one view and the early OK Cub .049 on another view -- and still yet on another view the plan shows the Torp. Jr. .035 engine.
+
+This design had a fixed sheeted wing, much like the Dakota wing (but with only one rib), and wing struts.
+
+But Joe failed to mention that Top Flite also kitted an R/C version of this cute little airplane... a completely different design, but still maintaining the 27-inch-wingspan and overall same beautiful lines. It was called the "Rascal R/C" (Sig changed this to "R/C Rascal") and had a double-sheeted wing with ribs in between, like the other Top Flite kits such as the SchoolBoy, etc., but no wing struts.
+
+<span id="116"></span>
+
+<div class="green">
+
+Source: Plans, "Rascal R/C"\
+
+</div>
+
+The wing was removable (rubber banded on) so you could get to the radio gear... The plans shows an escapement (rubber powered) and a TD .010 for power. I got my plan from:
+
+R.L. Lyon\
+2425 West Bennington Road\
+Owosso, Michigan 48867\
+
+While I am here, I would like to make a request: Does anyone know the name and phone number (or e-mail address) of the person out there who has all the Super Tigre parts. I once had this information, but no more. I need some ST .15 parts, all SMALL legal!
+
+I have read in past SMALLnet Postings of many modelers' love of the smaller Enya engines. I know it has recently been nearly impossible to find these engines here in the States, as Altech refuses to import them.
+
+Good news maybe? I have found a website currently advertised in RCM that offers these engines in the .06, .09, .15, and .25SS sizes, all R/C type complete with mufflers. The prices seem reasonable by today's standards... They range from about \$45.00 to \$55.00 plus postage. Go to \< <http://www.richmondrc.com> \> to see these engines for sale.
+
+Also Morris Hobbies (MVVS) is currently offering the newer version .15SS Enya for \$55.00. This engine is supposed to be an updated version and was originally designed to meet the R/C Combat rules. A good buy, as originally they were selling for around \$80.00. Get one now, as I don't think there will be any more!
+
+Don Garry, Cocoa, Florida 32927 Phone (407) 632-9115
+
+William DeJarnette \< 
+
+ \> wrote:
+
+Have been reading with interest comments about the Rascal. I built the Top Flite R/C version in 1961 and flew it single-channel with a Cox .010 and a compound escapement. It flew great with a kick-up elevator.
+
+I am flying one now with a Cox TD .020 and two-channel radio, giving elevator and rudder control. I built it from the original Top Flite plans. They show Chuck Helenberg and Sid Axelrod as the designers.
+
+Care must be taken in flying this model because there is no washout in the wings. This makes it very acrobatic as it will snap on a dime. I look forward to getting one of the new Sig kits and powering it with a Norvel .061.
+
+I have been flying my Lite Stick using a Ray-o-Vac rechargeable Nickel-Metal Hydride 9-Volt battery. These are available at Wal Mart for \$6.90.
+
+After removing the metal cover they weigh about one ounce. I am using a Jeti 040 Controller and get 3 to 5 minutes flight time. I charge them at 200 mA slow charge on an Astro 110D. That takes about 15 to 20 minutes to charge. They really get this model to altitude.
+
+Tom DeJarnette, Satellite Beach, Florida
+
+Jon McVay \< 
+
+ \> adds:
+
+The new Sig Rascal is the work of Scott Christiansen, who now heads up New Product Development at Sig. Scott worked for Top Flite for many years and was on the leading edge of the development of Monokote. Nice fellow and an excellent modeler.
+
+Jon McVay in Mount Vernon
+
+\< 
+
+ \> contributed:
+
+I have recently started to read the SMALLnet listings again and have noticed comments on the Norvel engines again. I own two .061's: one in a Lite Machine helicopter; the other in a Simple CAP 21 (Ace). Both the engines were so impressive that I bought another -- this time a .074 Revlite to go into another Ace CAP 21.
+
+I have run it in; no problems there. Tick over: no problems there. Clean throttle and smooth delivery, Nice. All this takes place in the great British weather. Thank you, Norvel!
+
+My only criticism of Norvel is that their engines seem to be getting BIGGER not SMALLer. How about an .020 -- better still, an R/C .010. Then I would have to build all 7 of my planes SMALLer. Any clues? Anybody?
+
+Wormwood Scrubbs SMALLster
+
+Roy Clough \< 
+
+ \> wrote:
+
+I go back to bending split bamboo strips around a candle flame in vain attempts to duplicate the tail outlines of the old dime Guillow kits -- often coming out with paddle shapes like on some of the new electric slow flyers. Ed Lamb's got it right for making precision bamboo parts! A hard flat surface and a good scraper is the key. Best bamboo I ever used came from a section of fish pole.
+
+I also like to use reed, which comes in several different diameters, bends easily and holds its shape well -- if supported by a few strategic struts. Source: Crafts department of Ben Franklin stores.
+
+In re all the Norvel comments. I installed one of the first of them in my "Son of Goat" (Model Aviation February 1998) and have been flying it on and off ever since. It's one of the most reliable engines I own. I use white Tornado 6-3 or 6-4 props with no appreciable difference. I've never "tinkered" with this engine, although I thought the idle was fast, but it throttles well enough for power-on landings.
+
+I've also had good luck, for many years, with Cox engines, but will admit they can vary a bit.
+
+Roy C.
+
+Bob Mosher \< 
+
+ \> replies to Johnny Vaught:
+
+Some of our gang of Zagi flyers are using 400 motors that have been re-timed and broken-in by the boss at New Creations. The price is right, and it sure hops up these great motors.
+
+Also have to comment on the Norvel engines. I have been flying a Klingberg Wing for some time on a Cox .049 with an Ace throttle. I recently changed to a Norvel, and could not believe the improvement. I then replaced the Cox engine in my Litemachine chopper with a Norvel, again with major improvement.
+
+Ol'Bob
+
+Fred Reese \< 
+
+ \> advises Johnny Vaught:
+
+Try a 5 x 4 and 8 cells on your Razor.
+
+Fred Reese
+
+Jeff Carter \< 
+
+ \> contributes some specific test data to Johnny Vaught:
+
+Regarding your wanted upgrade for your FMA Razor: I would recommend a Multiplex Turbo 450. Here are the numbers I came up with, using an 8-cell 600AE pack:
+
+6x3 prop; 15.1A; 151 watts; 17.57k rpm; 94 prop watts\
+6x4 prop; 17.3A; 173 watts; 16.42k rpm; 102 prop watts\
+6x5 prop; 19.1A; 191 watts; 15.49k rpm; 107 prop watts --\
+(a little too close for a 20A speed control)\
+
+Hope this helps out.
+
+Jeff Carter AMA 639949
+
+<div class="Joe">
+
+...Jeff, Fred Marks tells me that the MOSFET in his "20-Ampere" speed controls is actually rated by the manufacturer at 26 Amps. The 20-Ampere designation was to provide a margin of safety. \[JW\]
+
+</div>
+
+Charlie Meyer \< 
+
+ \> inquires:
+
+Maybe I haven't been paying attention, but this electric thing is new to me. I have just completed Andy Clancy's Yard Bee plane and I had him send me his electric package for it.
+
+My questions are: Do the MG-1 electric motors have to be broken in; and if so, how is it done? Secondly, does the Little Demon 21 speed controller have to be mounted outside the airplane to get enough airflow to cool it?
+
+Thanks, Charlie Meyer
+
+Homer L. Smith \< 
+
+ \> reports:
+
+Today was a beautiful flying day in the Northwest and we (SAM 8) were flying on the Fort Lewis reservation. I had built a Dakota from Joe's plans and had an Atwood Wasp in it. It flew in typical Dakota fashion and did not require any changes to make it fly except give it enough power. It would go up for about 90 seconds on the engine and then glide down in about 50 seconds.
+
+At the Muncie Dakota event I had observed that they flew better with less power than is available from some of the early nostalgia engines. Several flights were at four-cycle speeds but it flew best at the place where it just went into two cycle. The first two official flights were +17 and +11 seconds. Being greedy and thinking that I could do better than that, I went for a third official.
+
+The engine ran for the usual 90 seconds and the turn did not open up like it normally did. The climb had been a little abnormal because it was going up a little faster than it often did. The time target came and went and it was still going up. The chase was on!
+
+After continuing to circle and climb beneath a gray cloud it finally disappeared into the bottom of the cloud at something like 1500 feet AGL. It went OOS at just short of 11 minutes and about 1/2 mile from where it was launched.
+
+For those that are skeptical, there were at least a dozen witnesses. I have names. No, my name and address was not on it. One of those return address labels came off that morning from too much fuel. No need to put it back on, right? Wrong! They will thermal with the best of them. I will start another tomorrow and it will have a D/T on it. Has anyone put a D/T on a Dakota that can help with some suggestions?
+
+Homer in Seattle
+
+<div class="Joe">
+
+...Homer, although I've never installed a D-T on a Dakota, I have done so on similar models; and my son David has used the same method on a pair of double-sized (!!) Sioux. Briefly, you cut the fuselage apart vertically a little ahead of the stabilizer; then hinge it back together with a pair of heavy-duty pinned-type R/C hinges buried in the fuselage top sheeting.
+
+This permits pop-up tail dethermalizing. The spring-apart power is provided (in my models) by a torsion spring that looks like a big safety pin. The ends of this are bent at right angles and fit into hardwood "pivot blocks" glued to the fuselage bottom sheeting. (Proper alignment of the two parts of the hinged fuselage is achieved by a pair of short "keys" glued into the lower corners of the front portion.)
+
+As for actuation, my original "Wagner D-T" was installed on an old-time rubber model. It was operated by monofilament fishline and a rubber band along the bottom centerline of the fuselage -- with a short piece of aluminum tubing inset vertically at the CG position for a fuse.
+
+This might not work as well on a Dakota, especially one with an inverted engine. One of the new "viscous-type" timers (I don't know the actual name for these little button-like devices) might be the best way of releasing the pop-up rear fuselage on a "Wagner D-T Dakota"...
+
+If my description isn't clear enough, e-mail me and I'll send you a sketch of the "mechanisms" involved. \[JW\]
+
+</div>
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

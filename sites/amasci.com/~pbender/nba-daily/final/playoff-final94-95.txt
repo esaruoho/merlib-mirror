@@ -1,0 +1,35 @@
+
+
+The 1994-95 NBA Playoffs
+
+Finals (best of 7)
+1. Orlando ... 0
+6. Houston ... 4
+
+1st round (best of 5)   2nd round (best of 7)   3rd round (best of 7)
+1. Orlando ... 3  ___
+8. Boston .... 1     |__ 1. Orlando ... 4  ___
+                      __ 5. Chicago ... 2     |
+4. Charlotte . 1  ___|                        |__ 1. Orlando ... 4
+5. Chicago ... 3                               __ 2. Indiana ... 3
+                                              |
+2. Indiana ... 3  ___                         |
+7. Atlanta ... 0     |__ 2. Indiana ... 4  ___|
+                      __ 3. New York .. 3
+3. New York .. 3  ___|
+6. Cleveland . 1     
+
+
+1. San Antonio 3  ___
+8. Denver .... 0     |__ 1. San Antonio 4  ___
+                      __ 5. LA Lakers . 2     |
+4. Seattle ... 1  ___|                        |__ 1. San Antonio 2
+5. LA Lakers . 3                               __ 6. Houston ... 4
+                                              |
+2. Phoenix ... 3  ___                         |
+7. Portland .. 0     |__ 2. Phoenix ... 3  ___|
+                      __ 6. Houston ... 4
+3. Utah ...... 2  ___|
+6. Houston ... 3     
+
+

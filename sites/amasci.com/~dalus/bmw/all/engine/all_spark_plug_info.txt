@@ -1,0 +1,126 @@
+all_spark_plug_info 
+
+ UnofficialBMW.com 
+[an error occurred while processing this directive]
+
+ From digest.v6.n65 Wed Jan 15 15:22:51 1997 
+From: "David J. Kroth" <kroth@cineon.kodak.com> 
+Date: Wed, 15 Jan 1997 09:49:12 -0500 
+Subject: more NGK plug info 
+
+Here's some more NGK plug info...
+
+Forwarded mail from MBlue22999@aol.com
+
+ From: MBlue22999@aol.com 
+Date: Tue, 14 Jan 1997 17:44:25 -0500 (EST) 
+To: Tlee@atwc.teradyne.com 
+cc: kroth@cineon.kodak.com 
+Subject: NGK plug info
+
+Terry,
+
+I am an engineer at NGK Spark Plugs (USA) and I was forwarded a recent
+post you made in the BMW Digest via a mutual Internet acquaintance
+(Dave Kroth). He found me on the Talon Digest and has allowed me to see
+some spark plug questions posted on the BMW Digest.
+
+Okay, enough with the intro, I am writing in reference to a discussion
+concerning a "platform" plug once produced by NGK for BMW. Now I am an
+engineer based out of Chicago, IL and have never worked with BMW, but I
+have seen some of their freaky spark plug design requests. I have seen
+the "platform" plug (BCPR7ER) you referred to and I may be able to help
+you with my attempt at an explanation.
+
+> Picture a 3 legged stool in your mind, with the top platform being 
+triangular with 
+> 3 holes (I'm guessing for spark travel) in it
+
+The holes have been punched into to the platform for a few reasons.
+Since I was not involved in the creation of this particular plug, I will
+pretty much be assuming the reasoning. One reason for the holes is to
+allow the A/F mixture to pass by the initial spark. Once the flame
+kernel begins, it is desirable to let it flow to the rest of the
+combustion chamber and the holes will assist. Again, I have never
+observed their combustion, but I would think they would get a better
+"blow-through" than if the holes were not there. The edges of the
+holes may also allow a possible sharp edge for a spark to travel to.
+
+After all these complications, you may ask why they would ever design
+such a plug. Well, the Europeans manufactures often use multiple
+ground electrode spark plugs to allow longer life without using
+expensive (and longer lasting) precious metals (Pt, Ir, etc.). US
+automakers ask more of their plugs by claiming 100K mile tune-up
+intervals vs. the European 100K km (or 60K mile) requirement.
+
+The platform plug was probably a good design early on. The larger
+ground electrode will give the spark path more options and thus gives
+the plug longer life by not allowing a large gap growth over time.
+There are also anti-fouling characteristics gained by this design.
+The ground electrodes are also able to easily cool themselves into
+the engine block with 3 different paths.
+
+Here is a second excerpt from your post:
+
+> If you call NGK, you will find out that this plug (BCPR7ER) is now 
+> discontinued, and the replacement is BKR6EK=85
+
+To begin with, let me give a rundown of what our spark plug numbers mean:
+
+B Thread Diameter: 14mm
+C Construction: Hex Size =3D 5/8"
+P Construction: Projected insulator type
+(K) Construction: hex size =3D 5/8" projected tip (ISO)
+R Construction: Resistor Type
+7(6) Heat Rating Numbers: 2 =3D Hot ->Colder
+E Thread Reach: 19mm (3/4")
+R Firing End Construction: Special Ground Electrode
+(K) Firing End Construction: 2-Ground electrodes for Toyota, BMW
+
+Once again, I have not developed the M50 engine you use, so this is all
+mere assumption. I don=92t even know if NGK is original equipment in
+the M50.
+
+Anyway, I have seen programs change plugs after years of using the same
+plug. This decision to change plugs can be driven by many things, but
+usually ends up being financial. Then again, there may be performance,
+emission, or fuel economy reasons as well. Some engines have been known
+to use four different plugs manufactured by four different suppliers
+within 12 years. It may so happen that BMW had minor changes that
+required a different plug design, or they may have been using the wrong
+plug for years. These are all possibilities that may have required NGK
+to stop producing the "platform" plugs.
+
+One quick note: You should avoid changing heat ranges of plugs at all
+costs. A user should not change from the recommended heat ranges
+unless serious modifications have occurred and problems were observed
+with a particular heat range. NGK recommends the BKR6EK for the M50.
+If you go up to a "7," you are risking never reaching the self-cleaning
+temperature (or region) of that particular plug. A spark plug must
+reach this temperature to burn off the carbon deposits accumulated at
+lower speeds. If a plug is too hot (say a "5" for this particular
+application), you run the risk of pre-ignition under high demand
+conditions. Pre-ignition can occur if the plug is so hot that it will
+ignite the A/F mixture before it sparks. I hope you never see
+pre-ignition because it can rip an engine apart in a hurry.
+
+The difference in heat ranges is simply the cooling rates of the plugs
+into the cylinder walls. The industry does not have heat range
+standards, so Bosch does not equal NGK, which does not equal AC, etc.
+Bosch's equivalent plug to NGK=92s BKR6EK is indeed your F7LDCR, so I
+assume you are safe.
+
+I hope this helps out a bit, sorry I am not familiar with this
+particular application. If you feel the need to forward this to the
+BMW Digest (if it has enough substance), feel free.
+
+Matt Blue 
+OEM Product Engineer 
+NGK Spark Plugs (USA), Inc. 
+mblue22999@aol.com
+
+End of forwarded mail from MBlue22999@aol.com
+
+ -- 
+Dave
+kroth@kodak.com

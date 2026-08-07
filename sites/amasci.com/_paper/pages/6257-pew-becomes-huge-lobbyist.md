@@ -1,0 +1,86 @@
+---
+title: "Pew becomes huge lobbyist"
+source_domain: amasci.com
+source_path: ~rarnold/Pew's transformation.htm
+order: 6257
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T05:59:04Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pew becomes huge lobbyist
+
+*Source page: `~rarnold/Pew's transformation.htm`*
+
+<span style="font-family: Arial; font-weight: 700"> Pew Casts Itself in Fresh Role as a Public Lobby\
+By David Bank\
+626 words\
+6 November 2003\
+*The Wall Street Journal*\
+\
+(Copyright 2003, Dow Jones & Company, Inc.)\
+\
+The Pew Charitable Trusts, one of the nation's largest charitable foundations, is changing its legal and tax status to enable it to take a more direct role in public-policy advocacy and lobbying on issues such as climate change, genetically modified food and the death penalty.\
+\
+The Philadelphia-based foundation, with assets of approximately \$4 billion, will become a public charity, like most universities, think tanks and other nonprofit organizations. That will give it the ability to raise money from other sources and to run its projects on its own, rather than through its grant recipients. The changes are to take effect Jan. 1, said Rebecca Rimel, the foundation's president.\
+\
+The change frees Pew of some restrictions under federal tax law, including one that bars foundations from lobbying legislators. As a public charity, Pew will be able to spend as much as 20% of its annual budget of approximately \$200 million on lobbying.\
+\
+"It makes it easier for Pew to do a lot of things without running afoul of restrictions on advocacy," said Joel Fleishman, a professor of public policy at Duke University and head of Duke's foundation-research program.\
+\
+Pew-funded projects such as the Pew Center on Global Climate Change and the Pew Initiative on Food and Biotechnology already attract the ire of political conservatives; for example, the Capital Research Center in Washington gives Pew a rating of one, or "radical left," on its five-point scale.\
+\
+Ms. Rimel, a nurse who has headed the Pew trusts since 1994, said she expected the suspicion of Pew's critics to increase. "If people are concerned or question the policy agenda, they'll question it more, there's no doubt about that," she said in an interview. She said the new structure would also allow Pew to create subsidiaries and then provide services, such as information technology and accounting; conflict-of-interest rules bar foundations from such arrangements.\
+\
+In recent years, many foundations and private donors have become more active policy advocates, but Pew is going further in revamping its legal structure to enable it to engage in lobbying efforts as well. The move does not appear to presage a trend, however, because it takes advantage of a quirk in Pew's history that isn't shared by other foundations.\
+\
+Pew comprises seven trusts established by the children of Joseph N. Pew, the founder of Sun Oil Co. Several years ago, the Internal Revenue Service ruled that each trust should be considered a separate foundation. That now enables Pew, unlike most foundations, to demonstrate that it has multiple donors, a requirement for the establishment of a public charity.\
+\
+Under another unusual arrangement, the Pew Trusts had been a division of Glenmede Trust Co., created by the Pew family in 1956 to manage its philanthropic assets. Under the new structure, Pew will no longer be a division of the bank, though GTC will remain the sole trustee of the seven Pew trusts.\
+\
+The income from the trusts will be dedicated in perpetuity to the new nonprofit organization. In a statement, J. Howard Pew II said Pew's board is enthusiastic about the "expanded opportunities" of the new structure.\
+\
+Ms. Rimel said Pew is also revamping its organizational structure to "build a wall" between its informational activities, such as the Pew Research Center for People and the Press and the Pew Global Attitudes Project, and its advocacy efforts. The polling efforts and other informational services, she said, will stick to "just the facts" and not share staff with the policy advocacy efforts.\
+\
+"We're going to be even clearer in the future that we value both, but they are separate," she said.\
+By David Bank\
+626 words\
+6 November 2003\
+The Wall Street Journal\
+D5\
+English\
+(Copyright (c) 2003, Dow Jones & Company, Inc.)\
+\
+The Pew Charitable Trusts, one of the nation's largest charitable foundations, is changing its legal and tax status to enable it to take a more direct role in public-policy advocacy and lobbying on issues such as climate change, genetically modified food and the death penalty.\
+\
+The Philadelphia-based foundation, with assets of approximately \$4 billion, will become a public charity, like most universities, think tanks and other nonprofit organizations. That will give it the ability to raise money from other sources and to run its projects on its own, rather than through its grant recipients. The changes are to take effect Jan. 1, said Rebecca Rimel, the foundation's president.\
+\
+The change frees Pew of some restrictions under federal tax law, including one that bars foundations from lobbying legislators. As a public charity, Pew will be able to spend as much as 20% of its annual budget of approximately \$200 million on lobbying.\
+\
+"It makes it easier for Pew to do a lot of things without running afoul of restrictions on advocacy," said Joel Fleishman, a professor of public policy at Duke University and head of Duke's foundation-research program.\
+\
+Pew-funded projects such as the Pew Center on Global Climate Change and the Pew Initiative on Food and Biotechnology already attract the ire of political conservatives; for example, the Capital Research Center in Washington gives Pew a rating of one, or "radical left," on its five-point scale.\
+\
+Ms. Rimel, a nurse who has headed the Pew trusts since 1994, said she expected the suspicion of Pew's critics to increase. "If people are concerned or question the policy agenda, they'll question it more, there's no doubt about that," she said in an interview. She said the new structure would also allow Pew to create subsidiaries and then provide services, such as information technology and accounting; conflict-of-interest rules bar foundations from such arrangements.\
+\
+In recent years, many foundations and private donors have become more active policy advocates, but Pew is going further in revamping its legal structure to enable it to engage in lobbying efforts as well. The move does not appear to presage a trend, however, because it takes advantage of a quirk in Pew's history that isn't shared by other foundations.\
+\
+Pew comprises seven trusts established by the children of Joseph N. Pew, the founder of Sun Oil Co. Several years ago, the Internal Revenue Service ruled that each trust should be considered a separate foundation. That now enables Pew, unlike most foundations, to demonstrate that it has multiple donors, a requirement for the establishment of a public charity.\
+\
+Under another unusual arrangement, the Pew Trusts had been a division of Glenmede Trust Co., created by the Pew family in 1956 to manage its philanthropic assets. Under the new structure, Pew will no longer be a division of the bank, though GTC will remain the sole trustee of the seven Pew trusts.\
+\
+The income from the trusts will be dedicated in perpetuity to the new nonprofit organization. In a statement, J. Howard Pew II said Pew's board is enthusiastic about the "expanded opportunities" of the new structure.\
+\
+Ms. Rimel said Pew is also revamping its organizational structure to "build a wall" between its informational activities, such as the Pew Research Center for People and the Press and the Pew Global Attitudes Project, and its advocacy efforts. The polling efforts and other informational services, she said, will stick to "just the facts" and not share staff with the policy advocacy efforts.\
+\
+"We're going to be even clearer in the future that we value both, but they are separate," she said. </span>
+
+------------------------------------------------------------------------
+
+**FAIR USE NOTE: In accordance with U.S. Copyright Law as codified in Title 17 U.S.C. section 107, any copyrighted material herein is displayed without profit or payment for non-profit research and educational purposes only. It is posted here only after the commercial purpose of any copyright holder has been satisfied, and complies with fair use clauses of the U.S. Copyright Act. For more information go to: <a href="http://www.law.cornell.edu/uscode/17/107.shtml" style="text-decoration: none">http://www.law.cornell.edu/uscode/17/107.shtml</a>**
+
+<a href="funders.htm" style="text-decoration: none">RETURN TO FUNDERS</a>
+
+**<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**

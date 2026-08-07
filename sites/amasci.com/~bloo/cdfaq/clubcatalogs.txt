@@ -1,0 +1,123 @@
+CD Club FAQ: Club Catalogs 
+
+ CD Clubs FAQ 
+ V.4.21, Last Modified: Jul 19, '99 
+
+1. Breaking News 
+2. Introduction 
+3. Strategies - In Brief 
+4. Customer Service Information 
+
+5. More In-Depth Information 
+&#160;&#160;&#160;&#160;&#160;&#183; Brief Answers To Frequently 
+&#160;&#160;&#160;&#160;&#160;&#160; Asked Questions 
+&#160;&#160;&#160;&#160;&#160;&#183; Getting The Most CDs 
+&#160;&#160;&#160;&#160;&#160;&#160; For Your $$$ 
+&#160;&#160;&#160;&#160;&#160;&#183; Declining The Selection 
+&#160;&#160;&#160;&#160;&#160;&#160; Of The Month 
+&#160;&#160;&#160;&#160;&#160;&#183; Available New Membership 
+&#160;&#160;&#160;&#160;&#160;&#160; Offers 
+&#160;&#160;&#160;&#160;&#160;&#183; Membership Costs 
+&#160;&#160;&#160;&#160;&#160;&#183; Club Catalogs 
+&#160;&#160;&#160;&#160;&#160;&#183; The Quality Debate 
+&#160;&#160;&#160;&#160;&#160;&#183; Club "Re-Mastering" 
+&#160;&#160;&#160;&#160;&#160;&#160; Statements 
+&#160;&#160;&#160;&#160;&#160;&#183; Resale Value 
+&#160;&#160;&#160;&#160;&#160;&#183; Ethical Issues 
+&#160;&#160;&#160;&#160;&#160;&#183; Clubs Collecting Sales Taxes 
+
+6. Other 
+&#160;&#160;&#160;&#160;&#160;&#183; Appendix A: 
+&#160;&#160;&#160;&#160;&#160;&#160; CD Clubs In Canada 
+&#160;&#160;&#160;&#160;&#160;&#183; CD Club Related Sites 
+&#160;&#160;&#160;&#160;&#160;&#183; About The Maintainer 
+&#160;&#160;&#160;&#160;&#160;&#183; FAQ Disclaimer 
+
+ Comments, changes, or errors to: 
+ Content: Brad von Haden , 
+ HTML: Brian Wilson 
+
+ Club Catalogs 
+
+ There are many sources for the selection numbers of the CD titles
+ carried by the clubs. These include advertisements, monthly flyers,
+ catalogs, and the customer service centers. The problem with the ads,
+ flyers and catalogs is that they are not comprehensive. The problem
+ with the customer service centers are, while they are the definitive
+ sources, it is inconvenient to have to call them all the time.
+
+ Thankfully, there are online catalogs. BMG and CH/CDHQ/PLAY have
+ official web sites with searchable catalogs including almost all club
+ CDs. An unofficial site, www.cd-clubs.com ,
+ has searchable and downloadable catalogs for BMG and CH/CDHQ/PLAY.
+
+ The catalogs of the same named club from two different countries (e.g.
+ BMG US and BMG Canada) are not the same. <insert club name here>
+ Canada members can not order from or get selection numbers from <insert
+ club name here> US catalog and vice versa.
+
+ BMG Music Service: 
+
+ Official: 
+ WWW: 
+ http://www.bmgmusicservice.com 
+ Unofficial: 
+ WWW: 
+ http://www.cd-clubs.com 
+
+ CH Music Club / Play from Columbia House: 
+
+ Official: 
+ WWW: 
+ http://www.columbiahouse.com 
+ Unofficial: WWW: 
+
+ http://www.cd-clubs.com 
+
+ BMG Classical Music Service: 
+
+ Official: 
+ WWW: 
+ http://www.bmgmusicservice.com 
+ Unofficial: 
+ WWW: 
+ http://www.cd-clubs.com 
+ Unofficial: 
+ FTP: ftp://ftp.gmd.de/music/cd-catalogs/bmg-classical-collection.gz 
+
+ BMG Sound & Spirit: 
+
+ Official: 
+ WWW: 
+ http://www.bmgmusicservice.com 
+ Unofficial: 
+ WWW: 
+ http://www.cd-clubs.com and 
+ http://www.users.csbsju.edu/~eknuth/bmg-ccm/index.html 
+
+ Selection numbers are generally good indefinitely. Titles do become
+unavailable for two main reasons: lack of demand or lapse of license
+to sell the title. If demand is too low, it might be uneconomical for
+the club to do another pressing of the title. If the license to sell
+lapses, and the club can not renew the license for the title with the
+artist/label, the club may not continue to sell the title. 
+
+Selection numbers from most any source (advertisement, monthly flyer,
+catalog, etc) can be used when ordering CDs from the clubs. BMG's 5,
+6 and 7 digit selection numbers are interchangeable. To convert a 7
+digit selection number to 5 digits, lop off the first and last number.
+To convert a 7 to a 6, lop off the last number. To convert a 6 to a
+5, lop off the first number. Here's an example:
+
+ Eric Clapton's "Cream of Clapton" 
+Seven digit code (from current listing) : 1082411 
+Six digit code (from main print catalog) : 108241 
+Five digit code (from magazine advert) : 08241
+
+ + CH's, CDHQ's and PLAY's catalogs and selection numbers are identical.
+
+The artists and titles in the clubs are dependent on the contracts
+between the clubs and the record labels and on the contracts between
+the record labels and the artists. If a label has a contract with a
+club, most of that label's new artist contracts will include a clause
+allowing the label to license the artist's work to the club.

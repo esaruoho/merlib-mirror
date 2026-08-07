@@ -1,0 +1,123 @@
+<HTML>
+<!-- hide
+function queryClimbsDB(Branch,Class) {
+
+var currDate=new Date()
+var queryString="/mountaineers/"
+var queryHost="http://larch.forest.net"
+
+queryString+="FMPro?-DB=Trips98_.fp4"
+queryString+="&-Format=trip_schedule2.htm"
+queryString+="&-Lay="
+queryString+=escape("Trip Signup View")
+queryString+="&-Op=gt"
+queryString+="&Date="
+queryString+=1+currDate.getMonth() 
+queryString+="/"
+queryString+=currDate.getDate()
+queryString+="/"
+queryString+=currDate.getYear()
+if (Class != "") {
+   queryString+="&TripClass="
+   queryString+=Class
+   }
+if (Branch != "") {
+   queryString+="&Branch="
+   queryString+=Branch
+   }
+queryString+="&-Max=20"
+queryString+="&-SortField=Date"
+queryString+="&-Find"
+
+// alert(queryString)
+ 
+window.location = queryHost + queryString
+}
+
+// unhide -->
+<!--This file created 14/12/98 18:25 by Claris Home Page version 3.0-->
+<HEAD>
+   <TITLE>Untitled Document</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 3.0">
+   <X-CLARIS-WINDOW TOP=0 BOTTOM=0 LEFT=0 RIGHT=0>
+   <X-CLARIS-TAGVIEW MODE=minimal>
+</HEAD>
+<BODY BGCOLOR="#E5ECEF">
+<P><TABLE BORDER=0 CELLSPACING=1 CELLPADDING=2 WIDTH="32%" HEIGHT=382>
+   <TR>
+      <TD ALIGN=center WIDTH=40>
+         <P><A HREF="http://www.mountaineers.org" TARGET="_parent"><IMG SRC="Images/mlogo.JPG" WIDTH=40 HEIGHT=66 BORDER=1 ALIGN=top naturalsizeflag=2></A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD VALIGN=top NOWRAP WIDTH=40 HEIGHT=308>
+         <CENTER><FONT SIZE="-2" FACE="Helvetica,Arial,Sans-Serif"><TABLE BORDER=0 BGCOLOR="#000000" CELLPADDING=2 WIDTH=75>
+            <TR>
+               <TD HEIGHT=17>
+                  <CENTER><A HREF="http://www.eskimo.com/~pc22/CC/cc.html" TARGET="_parent"><FONT SIZE="-2" FACE="Helvetica,Arial,Sans-Serif" COLOR="#FFFFFF"><B>Climbing<BR>
+                  Home</B></FONT></A></CENTER>
+               </TD>
+            </TR>
+         </TABLE>
+         <BR>
+         <TABLE BORDER=0 BGCOLOR="#000000" CELLPADDING=2 WIDTH=75>
+            <TR>
+               <TD>
+                  <CENTER><A HREF="http://www.eskimo.com/~pc22/CC/intro.html" TARGET="Body"><FONT SIZE="-2" FACE="Helvetica,Arial,Sans-Serif" COLOR="#FFFFFF"><B>Climbing<BR>
+                  Classes</B></FONT></A></CENTER>
+               </TD>
+            </TR>
+         </TABLE>
+         <BR>
+         <TABLE BORDER=0 BGCOLOR="#000000" CELLPADDING=2 WIDTH=75>
+            <TR>
+               <TD>
+                  <CENTER><A HREF="http://larch.forest.net/mountaineers/FMPro?-Db=Trips98_.fp4&-Format=trip_schedule.htm&-View" TARGET="Body">
+                  <FONT SIZE="-2" FACE="Helvetica,Arial,Sans-Serif" COLOR="#FFFFFF"><B>Climbing<BR>
+                  Schedules</B></FONT></A></CENTER>
+               </TD>
+            </TR>
+         </TABLE>
+         <BR>
+         <TABLE BORDER=0 BGCOLOR="#000000" CELLPADDING=2 WIDTH=75>
+            <TR>
+               <TD>
+                  <CENTER><A HREF="http://www.eskimo.com/~pc22/CC/Bboard/wwwboard.html" TARGET="Body"><FONT SIZE="-2" FACE="Helvetica,Arial,Sans-Serif" COLOR="#FFFFFF"><B>Climbing<BR>
+                  Bboard</B></FONT></A></CENTER>
+               </TD>
+            </TR>
+         </TABLE>
+         <BR>
+         <TABLE BORDER=0 BGCOLOR="#000000" CELLPADDING=2 WIDTH=75>
+            <TR>
+               <TD>
+                  <CENTER><A HREF="http://larch.forest.net/mountaineers" TARGET="_parent"><FONT SIZE="-2" FACE="Helvetica,Arial,Sans-Serif" COLOR="#FFFFFF"><B>Leaders'<BR>
+                  Pages</B></FONT></A></CENTER>
+               </TD>
+            </TR>
+         </TABLE>
+         <BR>
+         <TABLE BORDER=0 BGCOLOR="#000000" CELLPADDING=2 WIDTH=75>
+            <TR>
+               <TD>
+                  <CENTER><A HREF="http://www.eskimo.com/~pc22/CC/Gallery/gallery.shtml" TARGET="Body"><FONT SIZE="-2" FACE="Helvetica,Arial,Sans-Serif" COLOR="#FFFFFF"><B>Photo
+                  Galleries</B></FONT></A></CENTER>
+               </TD>
+            </TR>
+         </TABLE>
+         <BR>
+         <TABLE BORDER=0 BGCOLOR="#000000" CELLPADDING=2 WIDTH=75>
+            <TR>
+               <TD HEIGHT=17>
+                  <CENTER><A HREF="http://www.eskimo.com/~pc22/CC/Reference/reference.shtml" TARGET="Body"><FONT SIZE="-2" FACE="Helvetica,Arial,Sans-Serif" COLOR="#FFFFFF"><B>Reference<BR>
+                  Pages</B></FONT></A></CENTER>
+               </TD>
+            </TR>
+         </TABLE>
+          </FONT></CENTER>
+      </TD>
+   </TR>
+</TABLE>
+</P>
+</BODY>
+</HTML>

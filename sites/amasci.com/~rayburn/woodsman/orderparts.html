@@ -1,0 +1,220 @@
+<HTML>
+<HEAD>
+  <TITLE>Woodsman Parts Order/Inquiry</TITLE>
+<SCRIPT>
+<!-- Hide from older browsers
+function StartForm() {
+   document.ORDER.FirstName.focus();
+}
+function CheckData(){
+	var email=document.ORDER.mailfrom.value;
+	if (email!="") {
+      alert("Form submitted successfully");
+      return true;
+   	} else {
+      	alert("Email address is a required field.");
+		document.ORDER.mailfrom.focus();
+  	    return false;
+   	}
+}
+//Stop hiding -->
+</SCRIPT>
+
+</HEAD>
+
+<BODY onload="StartForm();" BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080" ALINK="#FF0000">
+
+<H1>Woodsman Parts Order/Inquiry</H1>
+<HR>
+<big><bold>
+I will be travelling extensively during May, June, July, and August of 2007, with my first departure being May 1, returning on May 24, and departing again a few days later. While travelling I will have limited Internet access to answer email. Please be patient and I will try to catch up after I return.</bold></big>
+<HR>
+
+<FORM NAME=ORDER onSubmit="return CheckData();" ACTION="http://cgi.eskimo.com/cgi-bin/mailback2" METHOD="POST" ENCTYPE="application/x-www-form-urlencoded">
+<INPUT TYPE="HIDDEN" NAME="mailitto" SIZE="-1" VALUE="rayburn@eskimo.com">
+<INPUT TYPE="HIDDEN" NAME="subject" SIZE="-1" VALUE="Parts Order/Inquiry">
+<!INPUT TYPE="HIDDEN" NAME="namefrom" SIZE="-1" VALUE="lastname">
+
+<!following two lines added>
+<INPUT TYPE="HIDDEN" NAME="namefrom" SIZE="-1" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="emailaddr" SIZE="-1" VALUE="">
+
+
+<TABLE BORDER=0>
+<TR>
+	<TD><B>First Name:</B>
+	</TD>
+	<TD COLSPAN=3><INPUT NAME=FirstName SIZE=15> 
+       <B>Last Name:</B> <INPUT NAME=namefrom SIZE=15 value="" onChange="this.form.namefrom.value=this.value;">
+	</TD>
+</TR>
+<TR>
+   	<TD VALIGN=TOP><B>Shipping Address:</B>
+	</TD>
+   	<TD COLSPAN=3>
+	<TEXTAREA ROWS=4 COLS=50 NAME=ShipAddr WRAP=VIRTUAL></TEXTAREA>
+	</TD>
+</TR>
+<TR>
+   	<TD><B>City:</B>
+	</TD>
+   	<TD COLSPAN=4><INPUT NAME=City><B> State:</B> <INPUT NAME=State SIZE=3> 
+       	<B>Zip:</B> <INPUT NAME=ZIP SIZE=8>
+   		<B>Country:</B> <INPUT NAME=Country VALUE="United States">
+	</TD>
+</TR>
+<TR>
+	<TD><B>E-mail Address:</B>	</TD>
+	<TD COLSPAN=3 ><INPUT TYPE="TEXT" NAME="mailfrom" SIZE="40" MAXLENGTH="255" VALUE="" onBlur="this.form.emailaddr.value=this.value;"><FONT COLOR=RED>REQUIRED</FONT>
+
+	</TD>
+</TR>
+
+<TR>
+   	<TD COLSPAN=4><HR></TD>
+</TR>
+<TR>
+   	<TD VALIGN=TOP><B>Model:</B>
+	</TD>
+   	<TD VALIGN=TOP>
+	 	<INPUT TYPE=RADIO NAME=MODEL VALUE=PW>Pre-Woodsman<BR> 
+	 	<INPUT TYPE=RADIO NAME=MODEL VALUE=TG>Woodsman Target<BR>	 	
+		<INPUT TYPE=RADIO NAME=MODEL VALUE=SP>Woodsman Sport<BR>
+	 	<INPUT TYPE=RADIO NAME=MODEL VALUE=MT>Woodsman Match Target<BR>
+	 	<INPUT TYPE=RADIO NAME=MODEL VALUE=CH>Challenger<BR>
+	 	<INPUT TYPE=RADIO NAME=MODEL VALUE=HM>Huntsman<BR>
+	 	<INPUT TYPE=RADIO NAME=MODEL VALUE=TM>Targetsman<BR>
+	 	<INPUT TYPE=RADIO NAME=MODEL VALUE=DK>Don't know<BR>
+       </TD>
+	<TD VALIGN=TOP  COLSPAN=2>
+		<B>Series:</B><BR>
+	 	<INPUT TYPE=RADIO NAME=SERIES VALUE=FIRST><B>First:</B> 
+		If the serial number contains only numerals, with no alphabetical characters, it is a first series. If the only alphabetical characters in the serial number are MT, it is a first series.<BR>
+       	<INPUT TYPE=RADIO NAME=SERIES VALUE=SECOND ><B>Second:</B> If it is marked Challenger, it is a second series. 
+If it has a push button magazine release just aft of the trigger guard, it is a second series. 
+<BR>
+       	<INPUT TYPE=RADIO NAME=SERIES VALUE=THIRD><B>Third:</B> If it is marked Huntsman or Targetsman, it is a third series. 
+If the magazine release is at the heel of the butt, <B>AND</B> the pistol has an S at the end of the serial number, it is a third series.
+	</TD>   
+</TR>
+
+<TR>
+   <TD COLSPAN=4><HR></TD>
+</TR>
+<TR>
+   	<TD VALIGN=TOP><B>Serial #:</B></TD>
+   	<TD COLSPAN=3><INPUT NAME=Serial SIZE=8 MAXLENGTH=8>  (For privacy, use xx for the last two digits if you wish.)<BR> <B>Be sure to include any alphabetical prefix or suffix, if present.</B> Also include any leading zeroes, if there are any. <B>This is important.</B> For example: 1001, 001001S, 1001-S, MT1001, and 1001-C are all valid serial numbers for the  Woodsman series, but for very different guns.<P>
+For the pre-WWII Target and Sport models, the serial number will be on the front grip strap. For the pre-WWII Match Target, the serial number will be on either the front grip strap or the  butt, where the magazine is inserted. For post-WWII guns the serial number will be on the right hand side of the receiver.  
+	</TD>
+</TR>
+<TR>
+   <TD COLSPAN=4><HR></TD>
+</TR>
+<TR>
+   <TD VALIGN=TOP><B>Barrel Length:</B></TD>
+   <TD VALIGN=TOP><INPUT TYPE=RADIO NAME=BL VALUE=4.5>4-1/2"<BR>
+       <INPUT TYPE=RADIO NAME=BL VALUE=6>6"<BR>
+       <INPUT TYPE=RADIO NAME=BL VALUE=6.5>6-5/8"</TD>
+   <TD VALIGN=TOP>
+	 <B>Barrel shape:</B></TD>
+	<TD WIDTH=50% VALIGN=TOP>
+	 <INPUT TYPE=RADIO NAME=BS VALUE=ROUND>Round<BR>
+       <INPUT TYPE=RADIO NAME=BS VALUE=SLAB>Flat Sided</TD>
+</TR>
+<TR>
+	<TD></TD>
+	<TD COLSPAN=4>Barrel length is measured from breech to muzzle; ie, from where the bullet goes in to where the bullet comes out. It is NOT measured from where the barrel emerges from the frame.
+	</TD>
+</TR>
+<TR>
+   <TD COLSPAN=4><HR></TD>
+</TR>
+
+<TR>
+   	<TD VALIGN=TOP><B>Front<BR> sight:</B>
+	</TD>
+   	<TD VALIGN=TOP><INPUT TYPE=RADIO NAME=FS VALUE=FIXED>Fixed<BR>
+       	<INPUT TYPE=RADIO NAME=FS VALUE=ADJ>Adjustable<BR>
+   	<TD VALIGN=TOP>
+	 	<B>Rear Sight:</B>
+	</TD>
+	<TD><INPUT TYPE=RADIO NAME=RS VALUE=FIXED>Fixed<BR>
+       <INPUT TYPE=RADIO NAME=RS VALUE=ADJ>Adjustable
+	</TD>
+</TR>
+<TR>
+   <TD COLSPAN=4><HR></TD>
+</TR>
+<TR>
+	<TD VALIGN=TOP ><B>Markings:</B>(check all that apply)</TD>
+      <TD VALIGN=TOP WIDTH=35%>
+	<INPUT TYPE=RADIO NAME=MOD VALUE=TWM>THE WOODSMAN<BR>
+	<INPUT TYPE=RADIO NAME=MOD VALUE=WM>WOODSMAN<BR>
+      <INPUT TYPE=RADIO NAME=MOD VALUE=HM>HUNTSMAN<BR>
+      <INPUT TYPE=RADIO NAME=MOD VALUE=TM>TARGETSMAN<BR>
+      <INPUT TYPE=RADIO NAME=MOD VALUE=CH>CHALLENGER<BR>
+      <INPUT TYPE=RADIO NAME=MOD VALUE=MT>MATCH TARGET<BR>
+      <INPUT TYPE=RADIO NAME=MOD VALUE=NONE>None of the above<BR>
+  </TD>
+
+	
+	<TD VALIGN=TOP COLSPAN=2>
+		<INPUT TYPE=CHECKBOX NAME=RCOLT1>Rampant Colt on slide, aft of serrations<BR>
+		<INPUT TYPE=CHECKBOX NAME=RCOLT2>Rampant Colt on slide, forward of serrations<BR>
+		<INPUT TYPE=CHECKBOX NAME=RCOLT3>Rampant Colt on frame, left hand side of receiver<BR>
+		<INPUT TYPE=CHECKBOX NAME=PATDT>One 1903 and two 1918 patent dates on top of barrel<BR>
+		<INPUT TYPE=CHECKBOX NAME=PATDT>One 1903 and two 1918 patent dates on side of barrel<BR>
+		<INPUT TYPE=CHECKBOX NAME=ADDRT>Colt name and address on top of barrel<BR> 
+		<INPUT TYPE=CHECKBOX NAME=ADDRS>Colt name and address on side of barrel<BR>
+		<INPUT TYPE=CHECKBOX NAME=PATDES1>PAT DES 110887 on top of barrel<BR>
+		<INPUT TYPE=CHECKBOX NAME=PATDES2>U.S. PAT. D-121,317 on side of barrel<BR>
+	</TD>
+<TR>
+<TR>
+<TD><B>Slide Markings:</B></TD>
+<TD><INPUT TYPE=CHECKBOX NAME=SLIDE><FONT SIZE=8><B>&nbsp;&nbsp;&nbsp;&nbsp;COLT</FONT></SIZE></TD>
+<TD COLSPAN=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AUTOMATIC<BR>CAL. 22 LONG RIFLE</TD>
+</TR>
+
+<!---   Other markings not in the list   --->
+	<TD VALIGN=TOP>
+		<B>Other Markings (specify):</B> 
+	</TD>
+	<TD COLSPAN=3>
+		<TEXTAREA ROWS=3 COLS=60 NAME=OTHERMARKS WRAP=VIRTUAL></TEXTAREA>
+	</TD>
+</TR>
+
+<TR>
+   <TD COLSPAN=4><HR></TD>
+</TR>
+<TR>
+   <TD VALIGN=TOP><B>Part name, part number, and description:</B></TD>
+   <TD COLSPAN=3>
+   <TEXTAREA ROWS=5 COLS=60 NAME=NameNoDesc WRAP=VIRTUAL></TEXTAREA>
+   </TD>
+</TR>
+<TR>
+   <TD COLSPAN=4><HR></TD>
+</TR>
+<TR>
+<TD COLSPAN=2>Add me to the Woodsman email list:</TD>
+<TD><INPUT type="radio" name="MLIST" value="Yes" checked>Yes<BR>
+<TD><INPUT type="radio" name="MLIST" >No<BR>
+<TD>
+</TR>
+<TR>
+   <TD COLSPAN=4 ALIGN=CENTER>
+   <INPUT TYPE=SUBMIT VALUE="Click to mail request">
+   <INPUT TYPE=RESET VALUE="Click to cancel">
+   </TD>
+</TR> 
+</TABLE></CENTER>
+</FORM>
+
+
+
+<HR>
+<P><SMALL>Modified on ... Sept 20, 2006</SMALL></P>
+</BODY>
+</HTML>

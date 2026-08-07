@@ -1,0 +1,86 @@
+#
+# MPM Bullet file.  This file is mpm.blt and has the same value as
+# 168int.blt.
+#
+
+# UNITS
+#
+# Input units for bullet dimensions can be either calibers or
+# inches.  This applies only the the values under in the section
+# DIMENSIONS -- the next section.  The default value is calibers.
+#
+bullet_units       = 0          # 0 for calibers, 1 for inches
+
+# DIMENSIONS
+#
+# Note that all dimensions except for diameter (caliber) are in
+# calibers.  Most are self explanatory, except possibly the 
+# core_depth parameter.  Since some long range target bullets
+# are made by swaging, there can be a gap at the top of the 
+# core which can be measured by inserting a small piece of wire
+# into the open tip.  The distance this wire enters is the 
+# core_depth.  For solids, the core_depth and jacket_thickness
+# are zero.  
+#
+# For bullets with no rotating band, the band_diameter is 1.0
+# caliber.
+#
+diameter           = 0.308      # bullet diameter               (inches)
+total_length       = 3.9800     # bullet length              (cal or in)
+nose_length        = 2.2600     # ogive length               (cal or in)
+boattail_length    = 0.5100     # boattail length            (cal or in)
+meplat_diameter    = 0.2500     # diameter me'plat           (cal or in)
+base_diameter      = 0.7662     # base diameter              (cal or in)
+band_diameter      = 1.000      # rotating band diameter     (cal or in)
+ogive_radius       = 7.0        # ogive radius               (cal or in)
+core_depth         = 0.2560     # meplat to top of core      (cal or in)
+jacket_thickness   = 0.0350     # jacket thickness           (cal or in)
+
+# WEIGHT/DENSITY
+#
+# Weight and specific gravities.   To calculate a total weight,
+# set it to "-1.0".  MPM doesn't currently do a stellar job 
+# of calculating weight, it's usually a bit low.  This isn't a 
+# problem unless you're designing a bullet -- I'm going to keep
+# looking for the problem.  If you know the weight, plug it in.
+#
+weight             = 168        # projectile weight             (grains)
+core_spg           = 11.34      # core specific gravity               ()
+jacket_spg         = 8.89       # jacket specific gravity             ()
+
+# TWIST
+#
+# The disign_twist is used to calculate stability parameters.
+# Think of it as the twist for the perfect gun to the fire this
+# bullet.  The firearm twist in the trajectory file will be used
+# when calculating a trajectory.
+#
+design_twist       = 12.0       # design twist                 (in/turn)
+
+# DRAG FUNCTION
+#
+# MPM does not use ballistic coefficients when calculating 
+# trajectories.  It will however calculate a BC from the drag
+# coefficient so that you can compare to other bullets.
+#
+drag_function      = 0          # 0-6 for G1,G2,G5,G6,G7,G8,GI
+
+# MASS DISTRIBUTION
+#
+# These three values are related to the mass distribution in the
+# bullet.   For some bullets these are known (i.e. the Military 
+# has found them), but to calculate them, just put a "-1.0" for
+# the value.
+#
+center_gravity     = 2.44       # center of gravity      (cal from nose)
+axial_inertia      = 0.0002467  # axial moment inertia          (lb-in²)
+transverse_inertia = 0.001839   # transverse moment inertia     (lb-in²)
+
+# BOUNDARY LAYER
+#
+# Boundary layer parameter.  This should almost always be 
+# laminar-turbulent flow.  Unless you have a Schlieren photo
+# or really think it's something different, you shouldn't 
+# change it.  (This is may not be the case for LARGE bullets.)
+#
+boundary_layer     = 1          # 0-2 for lam-lam, lam-tur, tur-tur

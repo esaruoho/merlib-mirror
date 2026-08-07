@@ -5,8 +5,8 @@ source_path: weird/wskept.html
 order: 274
 reachable_from_entry: true
 images: 2
-internal_links: 10
-extracted: 2026-08-03T18:11:44Z
+internal_links: 11
+extracted: 2026-08-07T05:53:16Z
 extractor: site_to_paper.py (pandoc)
 ---
 

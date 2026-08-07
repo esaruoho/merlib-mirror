@@ -1,0 +1,292 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+                      "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- New format for Dobe's Punny Name Archive on 12-21-2001 -->
+<!-- Hand-written XHTML, XML, XSLT, CSS and JS suite -->
+	 <!-- filename: PNAExternalLinks.htm -->
+<!-- 
+		Dobe Doinat's Punny Name Archive
+		MegaloMedia Copyright December 21, 2001
+		John W. Hartman (Dobe Doinat)
+		http://www.eskimo.com/~dobe/
+		mailto://dobe@eskimo.com
+		IDE of choice: XMLWriter, Wattle Software
+		ISP of choice: eskimo.com, Bob is Everywhere! 
+-->
+			
+<html xmlns="http://www.w3.org/1999/xhtml">
+	 <head>
+	  <title >Dobe Doinat's PNA External Links</title>
+	  <meta name="Keywords" content="Puns,Punny,Fun,Funny,PNA,XHTML,CSS,XML,XSL,XSLT,JavaScript,tutorial,authoring,programming,learning,reference,examples,samples,source code,demos,tips,links,FAQ,forms,frames,XHTMLGuide" />
+	  <meta name="Description" content="Dobe Doinat's Punny Name Archive displayed as Example Data Access Using Markup Languages in a Networked Environment targeted for MSIE5+" />
+	  <meta http-equiv="Content-Type" content="text/html" />
+	<!--*/  /*  --> 
+							<!--  *********Insert call to external CSS file here********* -->
+	<link rel="stylesheet" href="dobeDefaultEN.css" />
+							<!--*/ HERE'S THE 'CLOCK' FUNCTIONS USED IN THE CALANDAR! /*  --> 
+	<script language="JavaScript">
+	<!--
+	var timerID = null;
+	var timerRunning = false;
+	
+	function stopclock() 
+	   {
+	   if(timerRunning)
+	     clearTimeout(timerID);
+	   timerRunning = false;
+	   }
+	
+	function startclock() 
+	   {
+	   stopclock();
+	   showtime();
+	   }
+	
+	function showtime () 
+	   {
+	   var now = new Date();
+	   var hours = now.getHours();
+	   var minutes = now.getMinutes();
+	   var seconds = now.getSeconds()
+	   var timeValue = "" + ((hours >12) ? hours -12 :hours)
+	   timeValue += ((minutes < 10) ? ":0" : ":") + minutes
+	   timeValue += ((seconds < 10) ? ":0" : ":") + seconds
+	   timeValue += (hours >= 12) ? " P.M." : " A.M."
+	   document.clock.face.value = timeValue;
+	   // you could replace the above with this
+	   // and have a clock on the status bar:
+	   // window.status = timeValue;
+	   timerID = setTimeout("showtime()",1000);
+	   timerRunning = true;
+	   return '';
+	   }
+	//  -->
+	</script>
+	
+	 </head>
+
+<body onLoad="startclock()">
+
+							<!-- *****Setting up a named anchor to start of document**** -->
+   <div id="PNAExternalLinks_Start"></div>
+							<!--  *********Insert call to external JS file here********* -->
+<script type="text/javascript" 
+        src="write_MenuLinks_EN.js">
+<!-- You don't need comments if there's nothing inside the &lt;script&gt; tags
+ // -->
+</script>
+
+
+<table><tr>
+    <td class="specialBROWN150" width="100%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='170%';" onMouseout="this.style.color='brown'; this.style.fontSize='160%';">
+        Dobe Doinat's PNA External Links
+    </td>
+</tr></table>
+
+ <table width="90%" cols="2" rows="1" border="0" cellpadding="10">
+  <tr>
+   <td align="left" valign="top" width="50%">
+   
+	<table><tr>
+	    <td class="specialBROWN150" width="100%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='170%';" onMouseout="this.style.color='brown'; this.style.fontSize='160%';">
+	        Links
+	    </td>
+	</tr></table>
+   <br />
+   <ul type="circle">
+	<li><A target="_new" HREF="http://www.kith.org/logos/words/words.html"> Words and Stuff </A> Jed Hartman
+	<li><A target="_new" HREF="http://thinks.com/words/awful.htm"> AWFUL AUTHORS </a> Michael Curl
+	<li><A target="_new" HREF="http://www.mindspring.com/~ricke/petrasplace/trivia.html"> Petra's Place! </A>
+	<li><a title="Carson Stalls!" target="_new" href="http://www.cartalk.com/About/credits.html">
+	Dewey, Cheetham, & Howe Staff List </a> 
+	<li><A title="Clone of my site" target="_new" HREF="http://aisnt.ais.oakland.edu/becker/names.htm"> Moe Naymes</A>
+	<li><A target="_new" HREF="http://www.essex1.com/people/pcpuns/punster.html"> THE PUNSTER</A> 
+	<li><A target="_new" HREF="http://www.go.to/puns/">PANONOMASIA</A> Mark S. Good
+	<li><A target="_new" HREF="http://www.behindthename.com/">Behind The Name </A> (Name reference)
+	<li title="(Missing link)"><b>Canonical List of Punny Book Titles</b><br /> 
+	<b>Harold Reynolds</b> blazed a path for PNA to follow. Thanks, Harold! 
+	<li title="(Missing link)"><b>Richard Lederer</b>'s Verbivore Page)
+
+	<hr color="darkbrown" align="center" size="3" width="65%" />
+</ul>
+   </td>
+   <td class="RelativeSize80" align="left" valign="top" width="50%">
+
+<script language="JavaScript">
+<!--  to hide script contents from old browsers
+
+function greeting()
+   {
+   var today = new Date();
+   var hrs = today.getHours();
+
+   document.writeln("<CENTER>");
+   document.writeln("<FORM NAME='clock' onSubmit='0'>");
+   document.writeln("<DIV ALIGN=CENTER>");
+   document.writeln("<INPUT TYPE='text' NAME='face' SIZE='10' VALUE=''>");
+   document.writeln("</DIV>");
+   document.writeln("</FORM>");
+
+   document.write(calendar());
+
+   document.writeln("<FONT SIZE+=4>");
+   document.write("<H2>Good ");
+   if (hrs < 6)
+      document.write("(Early) Morning");
+   else if (hrs < 12)
+      document.write("Morning");
+   else if (hrs <= 18)
+      document.write("Afternoon");
+   else
+      document.write("Evening");
+   document.writeln("!</H2>");
+   document.writeln("</CENTER>");
+
+
+
+   return '';
+   }
+
+function montharr(m0, m1, m2, m3, m4, m5, m6, m7, m8, m9, m10, m11)
+   {
+   this[0] = m0;
+   this[1] = m1;
+   this[2] = m2;
+   this[3] = m3;
+   this[4] = m4;
+   this[5] = m5;
+   this[6] = m6;
+   this[7] = m7;
+   this[8] = m8;
+   this[9] = m9;
+   this[10] = m10;
+   this[11] = m11;
+   return '';
+   }
+
+function calendar()
+   {
+   var monthNames = "JanFebMarAprMayJunJulAugSepOctNovDec";
+   var today = new Date();
+   var thisDay;
+   var monthDays = new montharr(31, 28, 31, 30, 31, 30, 31, 31, 30,
+      31, 30, 31);
+   
+   year = today.getYear();
+   thisDay = today.getDate();
+   
+   // do the classic leap year calculation
+   if (((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0))
+      monthDays[1] = 29;
+
+   // figure out how many days this month will have...
+   nDays = monthDays[today.getMonth()];
+
+   // and go back to the first day of the month...
+   firstDay = today;
+   firstDay.setDate(1);
+   // and figure out which day of the week it hits...
+   startDay = firstDay.getDay();
+     
+   document.writeln("<CENTER>");
+   document.write("<TABLE BORDER>");
+   document.write("<TR><TH COLSPAN=7>");
+   document.write(monthNames.substring(today.getMonth() * 3,
+      (today.getMonth() + 1) * 3));
+   document.write(". ");
+   document.write(year);
+   document.write("<TR><TH>");
+   document.write("Sun<TH>Mon<TH>Tue<TH>Wed<TH>Thu<TH>Fri<TH>Sat");
+   
+   // now write the blanks at the beginning of the calendar
+   document.write("<TR>");
+   column = 0;
+   for (i=0; i<startDay; i++)
+      {
+      document.write("<TD><FONT SIZE+=4>&nbsp;");
+      column++;
+      document.write("</FONT>");
+      }
+
+   for (i=1; i<=nDays; i++)
+      {
+      document.write("<TD>");
+      if (i == thisDay)
+         document.write("<span class='CAL'>")
+      document.write(i);
+      if (i == thisDay)
+        document.write("</span>")
+      column++;
+      if (column == 7)
+         {
+         document.write("<TR>"); // start a new row
+         column = 0;
+         }
+      }
+   document.write("</TABLE>");
+   document.writeln("</CENTER>");
+   return '';
+   }
+
+document.write(greeting());
+document.write("</FONT>");
+
+//cease hiding-->
+</script>
+
+   </td>
+  </tr>
+ </table>
+
+
+
+<br />
+
+ <table>
+  <tr>
+   <td>
+
+	<table><tr>
+	    <td class="specialBROWN150" width="100%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='170%';" onMouseout="this.style.color='brown'; this.style.fontSize='160%';">
+	        Past Awards
+	    </td>
+	</tr></table>
+
+<ul type="circle">
+	<li>"<b>Desperate Award</b>"! Thanks to<b> Dick Grogan, </b> Desperation King.
+	<li>"<b>Elite Site Award</b>"! Thanks to Ravi 
+	<li>"<b>Center for the Easily Amused</b>" Thanks to Cathie Walker
+	<li>"<b>Geek Site of the Day</b>"
+	<li>"<b>The Funny Site Award</b>"
+</ul>
+   </td>
+  </tr>
+ </table>
+
+	<hr color="darkbrown" align="center" size="3" width="65%" />
+
+<!-- //Footer -->
+ <table width="100%" cols="2" rows="1" border="0" cellpadding="10" id="dobeXHTML_IntroPara">
+   <tr>
+   <td valign="top" align="center" width="40%">
+	<!--   The following file must be in this directory! 
+	            This site copyright&#169; 2001 
+	       by John &quot;Dobe Doinat&quot; Hartman, 
+	               All Rights Reserved.
+	-->
+							<!--  *********Insert call to external JS file here********* -->
+	<script type="text/javascript" 
+	        src="write_Copyright_EN.js">
+	</script>
+	
+   </td>
+   <td valign="top" align="left" width="60%" class="small_70bi">
+   Cut-and-pasting of code permitted for non-commercial use.<br />
+   Check out my source code: <b>&lt;Right-Click&gt; | View Source</b> <br />
+   Thank you. <br />
+	<a href="#PNAExternalLinks_Start"><center><b>Back to the Beginning of this page</b></center></a>
+   </td>
+  </tr>
+ </table>
+
+</body>
+</html>

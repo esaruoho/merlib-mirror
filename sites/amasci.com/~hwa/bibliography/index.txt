@@ -1,0 +1,202 @@
+Bibliography Index : A Graphology Bibliography : The Graphology-L Website
+
+ This page contains 4 graphical images that are used for navigation. 
+ This page contains 0 graphical images that illustrate an idea. 
+ Jump to Top of Page 
+ Jump to Bottom of Text on Page 
+ Jump to Copyright Information on this Page 
+
+ Bibliography |
+ Glossary |
+ Bookstore |
+ Systems and Methods 
+
+ FAQ |
+ Hall of Fame |
+ Guide To The Internet |
+ Candidates for Election 
+
+ Stamps |
+ Copybooks |
+ Questions |
+ Papers |
+ Surveys 
+
+ Professional Services |
+ Translations |
+ Legal Issues |
+ Site Wide Table of Contents 
+
+ Home |
+ A Graphology Bibliography |
+ Bibliography Index 
+
+ Bibliography Index 
+
+ This bibliography is a work in progress. The last update was
+done 26 June 2001. 
+
+ A 
+ B 
+ C 
+ D 
+ E 
+
+ F 
+ G 
+ H 
+ I 
+ J 
+
+ K 
+ L 
+ M 
+ N 
+ O 
+
+ P 
+ Q 
+ R 
+ S 
+ T 
+
+ U 
+ V 
+ W 
+ X 
+ Y 
+
+ Z 
+ 0 
+
+ This bibliography does not list documents written in languages that
+use a non-Latin writing system. 
+
+ There are some citations of material that I doubt exist. One example
+is Preyer (1895b). Preyer (1895a) does exist --- I have a copy of the
+third edition. My copy does not mention any other text by him. In the
+last few pages of it, are notices for books by Klages and Sommer. 
+
+ There are numerous instances where the citations are incomplete ---
+for example, Keller (1931). As I locate more information about the
+citation, I will add it to this list. 
+
+ A somewhat more disturbing error, is where the incorrect journal
+name is given. These are corrected, as I become aware of them. Sometimes
+the error occurs because my source gives an incorrect journal name.
+Other times it occurs because an abreviation for the journal is
+provided, and I choose the wrong journal. 
+
+ Abreviations are the bane of bibliographers. I have seen the
+journal Zeitschrift f&uuml;r Angewandte Psychologie abreviated
+as ZAP, Zeit Angewandte, Z Ang Psy and Z Ang Psych. The individual
+who used ZAP, provided a list of abreviations he used for journals. 
+
+ On occasion, an incorrect book title is given. Preyer (1895b)
+is an example of this error. This is because I list the citation as
+it is in my source. 
+
+ Sources for this bibliography consist of my doing one of three processes.
+
+ Transcribing every listing in the bibliography of a book or journal
+article. 
+ Running PsychLit and similar searches. 
+ Going through invidiual journals. 
+
+ I have not included citations that are in the mailing list 
+Graphodigest TOC for two reasons: 
+ Until the end of 2001, they did not include page numbers.
+I have since decided that listing those citations, despite the omissions
+would be a good thing. 
+ My ISP blocks Topica.Com because of the amount of spam that Topica
+sends out. 
+
+ This bibliography does not contain citations that use a writing system
+other than the Latin writing system. When this has been converted to a
+UNICODE-4 compliant database, I will be adding some Japanese, Chinese,
+Korean, Hebrew, Greek, and Arabic citations. 
+
+ Work on this bibliography was halted, while I decided what database
+program to convert it to. I have decided what DB Program to use.
+I will have to write/convert the CGI scripts from PHP to Python.
+I do not know how soon that will happen. In the meantime, I will
+be adding new citations, as I receive them. 
+
+ Comments, corrections, additions or alterations can be sent to 
+ Graphology Bibliography 
+ Jonathon Blake 
+ P O Box 95229 
+ Seattle WA 98145-2229 
+ USA 
+
+ Corrections sent by email may not make it into the updated
+ bibliography. Questions sent by email will usually be answered.
+ Corrections given over the phone will not make it into the updated
+ bibliography. 
+
+ B |
+ C |
+ D |
+ E |
+ F |
+ G |
+ H |
+ I |
+ J 
+
+ K |
+ L |
+ M |
+ N |
+ O |
+ P |
+ Q |
+ R |
+ S 
+
+ T |
+ U |
+ V |
+ W |
+ X |
+ Y |
+ Z |
+ 0 
+
+ Jump to Top of Page 
+ Jump to Bottom of Page 
+ Jump to Copyright Information on this Page 
+
+ Home |
+ A Graphology Bibliography |
+ Bibliography Index 
+
+ Bibliography |
+ Glossary |
+ Bookstore |
+ Systems and Methods 
+
+ FAQ |
+ Hall of Fame |
+ Guide To The Internet |
+ Candidates for Election 
+
+ Stamps |
+ Copybooks |
+ Questions |
+ Papers |
+ Surveys 
+
+ Professional Services |
+ Translations |
+ Legal Issues |
+ Site Wide Table of Contents 
+
+ Jump to Top of Page 
+ Jump to Bottom of Text on the Page 
+ Jump to Copyright Information on this Page 
+
+ Copyright 
+ &copy; &#169; 1982 - 2003 
+ Jonathon Blake 
+ All Rights Reserved

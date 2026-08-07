@@ -1,0 +1,616 @@
+Pure Mac: Web Services - Software for Macintosh 
+
+ Web Services 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Comics 
+ Miscellany 
+ Package Trackers 
+ Radio 
+ Translation Clients 
+
+ ACMEreader 
+ Comictastic 
+ iComic 
+ Say Cheese 
+ Dictionary Clients 
+ CleverKeys 
+ MacDICT 
+ OmniDictionary 
+ WordNet 
+
+ NetFlix Freak 
+ Watson 
+
+ Delivery Status 
+ Package Tracker 
+ Package Tracking 
+ PackTrack 
+
+ BBC Radio Widget 
+ PandoraBoy 
+ PandoraMan 
+ RabbitRadio 
+ RadioTuner 
+
+ Dilo 
+ iTranslate 
+ MacDICT 
+ WordLookup 
+
+ You may also want to check the Stock Tickers ,
+ Weather , and Web Search pages. 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ ACMEreader 0.09 
+
+This comic viewer / comic reader lets you read your daily comics with ease.
+ - ACMEreader stores comic strips in an archive.
+ - ACMEreader keeps track of new and read comic strips. 
+ New strips are shown in a different color.
+ - Small fonts can be read more easily with the zoom tool.
+ - Navigation can be done smoothly with mouse and keyboard.
+
+ License : Freeware
+ Author/Publisher : ICOAT
+ Modification Date : November 18, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 84 MB
+
+ Home Page 
+
+ BBC Radio Widget 3.1 
+
+Listen to all 60 of the BBC;s national, regional and local radio streams, right on your Dashboard.
+
+ License : Freeware
+ Author/Publisher : Phantom Gorilla
+ Modification Date : April 24, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 203 Kb
+
+ Home Page 
+
+ CleverKeys 1.1 
+
+ What Is It?
+ CleverKeys for Mac OS X is free software providing instant access to definitions at Dictionary.com, synonyms at Thesaurus.com, Web search and more.
+ Usage
+ 1. To use the Contextual Menu, select a word you want to lookup then control-click it (hold down control and click on your selection) and choose your search option.
+ 2. To use the Service, select a word you want to lookup then choose your search option from the Services - CleverKeys menu (or use the command-key equivalent, when available).
+ 3. Your search will launch in your default browser.
+
+ License : Freeware
+ Author/Publisher : Lexico Publishing Group, LLC
+ Modification Date : July 7, 2003
+ Requirements : Mac OS X 10.1.4 or higher
+
+ Download 
+File Size: 90 Kb
+
+ Home Page 
+
+ Comictastic 2.3.2 
+
+Comictastic automatically grabs your favorite comics from the web,
+giving you unprecedented comic reading efficiency. Save yourself hours
+of mucking through the vasty deadwood of unfunny guff and syndicated
+slag; invigorate your life with fresh humor-infused morsels assembled in
+one easy-to-use application.
+ Features
+ Support for 10 breathtakingly humorous comics built right in.
+ Your favorite comic isn't supported? No problem! Just type in the URL and relax. No awkward plug-ins or HTML knowledge necessary.
+ RSS and Atom support for comics that provide feeds (you can also use this feature to read news feeds, in a gimpy sort of way).
+ Download comic archives to easily catch up on missed days.
+ Save comics on your disk for later browsing using the handy built-in calendar.
+
+ License : Shareware, $15
+ Author/Publisher : Spiny
+ Modification Date : July 26, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 2.6 MB
+
+ Home Page 
+
+ Delivery Status 3.7 
+
+Delivery Status lets you track your deliveries from:
+ - Adobe.com (US and Canada)
+ - Amazon.com, Amazon.ca, Amazon.co.uk, Amazon.co.jp, Amazon.de, Amazon.at, and Amazon.fr
+ - Apple.com (including all international stores)
+ - Canada Post (Postes Canada)
+ - DHL (US and Germany)
+ - FedEx and FedEx SmartPost
+ - Google Checkout
+ - Nintendo (US and Canada)
+ - Purolator
+ - TNT
+ - UPS and UPS Mail Innovations
+ - USPS (United States Postal Service)
+
+ License : Freeware
+ Author/Publisher : Mike Piontek
+ Modification Date : October 28, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 544 Kb
+
+ Home Page 
+
+ Dilo 1.1 
+
+Dilo looks up words at http://dict.leo.org and shows the english/french
+or german translation of that word. It is kind of comparable to
+"Babylon"&reg; for Windows&reg;, but uses a public web-dictionary instead of
+having a local one. if you want to see how LEO works, please go to
+ http://dict.leo.org and try it out yourself.
+
+You can start up Dilo directly and enter something into the search field
+to search for or you can call it through the services menu Define in
+Dilo or Define French in Dilo.
+
+It doesn't matter whether you are searching for an english/french
+description of a german word or vice versa. Just select the word in the
+editor you are using, choose "Services->Define in Dilo" and that's it.
+
+ License : Freeware
+ Author/Publisher : Imdat Solak
+ Modification Date : December 26, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 75 Kb
+
+ Home Page 
+
+ iComic 3.0.3 
+
+ Easy to use interface, works like Apple's Safari browser.
+ Subscribe to your favorite web comics, then collect the latest strips from them.
+ Easy to use tabs to flip between the comic you subscribe to.
+ Open architecture, supports plugins written in the Perl language.
+ A plugin may return a single image or a whole set (such as from an archive page)
+ Windows sizes to fit the comic you're viewing.
+ Add comments to a strip, then find a strip based on your comments.
+ Add strips you like to a list of Favorites
+
+ License : Freeware
+ Author/Publisher : Steve Saxon
+ Modification Date : November 23, 2003
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 426 Kb
+
+ Home Page 
+
+ iTranslate 1.1 
+
+iTranslate is a useful application for people who need a quick German English or German French translation tool. All you need is an
+internet connection. iTranslate accesses the wealth of language
+information from the online dictionary LEO (provided by the Technical
+University of Munich). One more click brings you directly to the unique
+wikipedia online encyclopedia and thesaurus, where you can find out
+anything about everything.
+
+ License : Freeware
+ Author/Publisher : equinux AG
+ Modification Date : April 27, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 443 Kb
+
+ Home Page 
+
+ MacDICT 2.9.2 
+
+MacDICT is a client for the DICT protocol. It connects to dict.org to
+provide access to a number of databases, including Webster's Dictionary
+and the World FactBook. MacDICT also accesses translation services on
+the web to translate to and from a wide variety of languages.
+
+ License : Freeware
+ Author/Publisher : Navdeep Bains
+ Modification Date : November 7, 2004
+ Requirements : Mac OS X and Mac OS 8 or higher
+
+ Download 
+File Size: 1.2 MB
+
+ Download 
+File Size: 1.2 Kb
+
+ Home Page 
+
+ NetFlix Freak 2.6.1 
+
+Netflix Freak is a full-featured Mac OS X application for managing your
+rental queue that enhances the Netflix experience. The program offers
+many unique features not available on the Netflix website.
+
+ License : Sharware, $15
+ Author/Publisher : The Little App Factory
+ Modification Date : November 11, 2007
+ Requirements : Mac OS X 10.2.6 or higher
+
+ Download 
+File Size: 1.2 MB
+
+ Home Page 
+
+ OmniDictionary 2.0.3 
+
+OmniDictionary is a Mac OS X client for network dictionary servers. It's
+pretty straightforward - type a word into the entry field, hit return,
+and the definition is displayed. If the dictionary server supports
+multiple dictionaries, you can select your desired dictionary from the
+dictionary popup to limit queries to that specific dictionary, or you
+can query all the dictionaries. Since OmniDictionary is simply a client
+for dictionary servers on the web, you have to be connected to the
+Internet (or have access to a local dictionary server) in order to be
+able to perform lookups.
+
+ License : Freeware
+ Author/Publisher : The Omni Group
+ Modification Date : August 16, 2002
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 778 Kb
+
+ Home Page 
+
+ Package Tracker 2.1.10 
+
+Where's your stuff? Find out at the touch of a button thanks to Package
+Tracker. You can see at a glance the current location of your FedEx,
+DHL, or UPS package, when it will be delivered, and the most recent scan
+activity.
+
+ License : Freeware
+ Author/Publisher : Monkey Business Labs
+ Modification Date : October 22, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 343 Kb
+
+ Home Page 
+
+ Package Tracking 1.0 
+
+Instantly locate your packages shipped with UPS, FedEx, USPS, or DHL. 
+Simple and elegant. Package tracking for the 21st century. Best of all, it's absolutely free.
+
+ License : Freeware
+ Author/Publisher : Kevin Li
+ Modification Date : January 27, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 864 Kb
+
+ Home Page 
+
+ PackTrack 1.0.2 
+
+PackTrack is package tracking application for Mac OS X. It includes the
+ability to track UPS and FedEx carriers out of the box. It also includes
+an interface for creating plug-ins for other carriers.
+
+ License : Freeware
+ Author/Publisher : Simonster.com
+ Modification Date : April 24, 2003
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 86 Kb
+
+ Home Page 
+
+ PandoraBoy 0.5.0 
+
+Love Pandora.com , but tired of having to run it a web browser? Ever wish you could control
+pandora without even being at your computer? Well then look no farther. PandoraBoy allows
+you to control your music with global hotkeys, applescript or your apple remote.
+Additionally, it supports growl notifications so that you always know what you're
+listening to.
+
+Pandora (created by The
+Music Genome Project) is a web-based radio site that plays new songs matching your tastes
+as determined by previously rated songs.
+
+ License : Freeware
+ Author/Publisher : Frozensilicon
+ Modification Date : December 18, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 567 Kb
+
+ Home Page 
+
+ PandoraMan 1.0.12 
+
+Small Cocoa wrapper for Pandora . Pandora (created by The
+Music Genome Project) is a web-based radio site that plays new songs matching your tastes
+as determined by previously rated songs.
+
+ License : Freeware
+ Author/Publisher : IntrArts Creative Media
+ Modification Date : December 4, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 100 Kb
+
+ Home Page 
+
+ RabbitRadio 1.11 
+
+Sick of dealing with ugly audio plugins? Tired of leaving your web
+browser open to listen to online radio? RabbitRadio makes listening to
+your favourite NPR stations easy - and it features a minimal modern
+interface. RabbitRadio currently supports realtime streaming audio from
+KQED, WAMU, WGBH, WUOT, WBUR, WDET, WDUQ, KPCC, KRWG, WMUB, KEXP, KCRW
+and WHYY.
+
+ License : Freeware
+ Author/Publisher : Llew Mason
+ Modification Date : August 29, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 254 Kb
+
+ Home Page 
+
+ RadioTuner 2.01 
+
+This widget (for Mac OS X) lets you listen to your favorite radio stations online. Unlike
+other radio widgets, RadioTuner lets you customize the list of radio stations... all your
+favorite radio stations in one widget -- enjoy!
+
+ License : Freeware
+ Author/Publisher : Markus Wuersch
+ Modification Date : December 18, 2006
+ Requirements : Mac OS X 10.4 or higher - RealPlayer (version 10.1 for Intel-Macs, version 10 vor PPC), Flip4Mac
+
+ Download 
+File Size: 158 Kb
+
+ Home Page 
+
+ Say Cheese 2.3 
+
+Say Cheese is THE comic viewer for all the comic fans.
+It shows the daily comic of your favorite comics
+and also offers many other features.
+
+ License : Freeware
+ Author/Publisher : Killer Widgets
+ Modification Date : July 1, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 137 Kb
+
+ Home Page 
+
+ Watson 1.7.5 
+
+Watson: An Innovative Utility that Bypasses the Web Browser
+
+Presenting Watson for Mac OS X: a time-saving "Swiss Army Knife" program
+that packs over 20 time-saving, productivity-enhancing interfaces to the
+most important web content and services.
+
+URLs are hard to remember. Web services are scattered across the
+vastness of the web. Bookmark management is an oxymoron. Watson
+eliminates these problems and reduces your time-to-everything on the web
+- Watson makes getting information from the Web simple and
+straightforward.
+ Over Twenty Elegant, Time-Saving Tools, Including: Amazon, Movies, Weather, Package Tracker, TV Listings, Phone Book, Recipes etc.
+
+ License : Freeware
+ Author/Publisher : Karelia
+ Modification Date : December 22, 2003
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ WordLookup 3.24 
+
+WordLookup is a MacOS-X application for converting words between
+languages using data that you can download from the internet. More
+information about setup and obtaining data for use with WordLookup can
+be obtained by reading the online help that is supplied with WordLookup.
+ These are a list of the books currently supported by WordLookup.
+ English - Japanese (General)
+ English - Japanese (Placenames)
+ English - Japanese (Computer Terms)
+ English - German
+ Turkish - German
+ English - Chinese
+ English - New Zealand Maori
+ English - Farsi (Persian)
+ English - Latin
+ English - Spanish
+ English - Hindi
+ English - Arabic
+
+ License : Shareware, $14
+ Author/Publisher : Andrew Lindesay
+ Modification Date : September 23, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.0 MB
+
+ Home Page 
+
+ WordNet 2.1 
+
+WordNet is an online lexical reference system (it's a dictionary and
+much much more) developed at Princeton University's Cognitive Science
+Laboratory under the direction of Professor George A. Miller.
+
+Mac OS X version developed by William Taysom.
+The official WordNet web site is http://www.cogsci.princeton.edu/~wn/ 
+
+ License : Freeware
+ Author/Publisher : William Taysom
+ Modification Date : July 18, 2005
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 10.9 MB - WordNet 2.1 - Compile Your Own
+
+ Download 
+File Size: 8.0 MB - WordNet 2.0 - Precompiled November 6, 2003
+
+ 2.0 Home Page 
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

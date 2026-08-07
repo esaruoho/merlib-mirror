@@ -1,0 +1,73 @@
+all_engine_overheating_at_idle 
+
+ UnofficialBMW.com 
+[an error occurred while processing this directive]
+
+ From digest.v6.n663 Wed May 14 19:50:55 1997 
+From: "Brett Anderson" <Bretta@webspan.net> 
+Date: Wed, 14 May 1997 18:01:57 -0400 
+Subject: Re:525i E28 get warm by idling. 
+
+> 
+> From: tore@image.dk (Tore Vulpius) 
+> Date: Tue, 13 May 97 20:01:10 GMT 
+> Subject: 525i E28 get warm by idling. 
+> 
+> Hello wizards! 
+> 
+> My 525i gets pretty warm after say 5-10 minutes of idling (after normal 
+> driving, temperature around 20 degrees centigrade). Now, the first thing 
+> to check for is the thermostat: it was changed with no effect. Secondly, 
+
+> the visco coupling for the fan (no - no electric fan on the E28) might be 
+> suspected to be faulty. However, when the engine idles it appears to me, 
+> that the fan will follow the fanbelt revs even when the engine is cold: 
+> the visco coupling es effectively only forcing the fan to rev up with 
+> the engine (this is a question)? Consequently, while idling the engine 
+> temperature should NOT be sensitive to the presence of a defect visco 
+> coupling (this is another question)? I HAVE ordered a new visco coupling 
+> (around 200 $ in Denmark), but I am really not sure about this being the 
+> right solution. Anyone out there with similar problems and experiences? 
+> 
+> Best regards 
+> 
+> - ---- 
+> Tore Vulpius 
+> Denmark 
+> 
+> tore@image.dk 
+> 
+
+Before you go replacing an expensive fan clutch, you may want to check your
+radiator.
+
+The fan clutch can be stopped by hand when the car is cold, even above
+idle. I don't suggest actually using your fingers though.
+
+As the car heats up to the temperature of the thermostat, the thermostat
+opens, allowing the still cold fluid from the radiator to enter the engine
+and forcing the hot fluid into the radiator. Up until this point your fan
+clutch should be freewheeling. Once the hot fluid is in the radiator, air
+movement , created by vehicle motion, blows hot air from the heat transfer
+fins of the radiator, into the engine bay. This hot air is what heats up
+and locks the fan clutch. 
+At a stationary idle, the freewheeling fan still creates enough air
+movement to draw hot air through the radiator onto the clutch. If your
+radiator's fins are full of dirt and bugs, which I can guarantee on an E28,
+there may not be enough air being pulled through the radiator by the
+freewheeling fan, but plenty of air still gets through while driving, so
+the temp only goes up at stationary idle.
+You may well find success by removing the radiator and pressure washing the
+fins, this must be done out of the car and carefully, the high pressure
+water jet must pass perfectly through the fins at 90 degrees to the
+radiator or it will bend the fins, closing up the radiator and compounding
+the problem. 
+As a test, clean half the radiator, shake out the water from between the
+fins and then hold the radiator up to the light, you will see how much more
+light is visible throught the clean side as opposed to the untouched side.
+
+This is a very common cause for erroneous replacement of a fan clutch.
+
+Brett Anderson
+
+BMW and ASE Master Technician

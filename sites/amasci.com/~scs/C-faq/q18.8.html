@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+
+<title>Question 18.8</title>
+<link href="q18.7.html" rev=precedes>
+<link href="q18.9.html" rel=precedes>
+<link href="s18.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 18.8</H3>
+<p>Don't ANSI function prototypes render <TT>lint</TT> obsolete?
+</p><hr>
+<p>Not really.
+First of all,
+prototypes work
+only if
+they are present and correct;
+an inadvertently incorrect prototype is worse than useless.
+Secondly,
+
+<TT>lint</TT> checks consistency across multiple source files,
+and checks data declarations as well as functions.
+Finally,
+an independent program like <TT>lint</TT> will probably always
+be more scrupulous at enforcing compatible, portable coding practices
+than will any particular, implementation-specific,
+feature- and extension-laden compiler.
+
+</p><p>If you do want to use function prototypes instead of <TT>lint</TT>
+for cross-file consistency checking,
+make sure that you set the prototypes up correctly in header files.
+See questions <a href=q1.7.html>1.7</a> and <a href=q10.6.html>10.6</a>.
+</p><hr>
+<p>
+Read sequentially:
+<a href="q18.7.html" rev=precedes>prev</a>
+<a href="q18.9.html" rel=precedes>next</a>
+<a href="s18.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

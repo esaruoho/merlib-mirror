@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995-7 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>6.3 Reading Lines</title>
+<link href="sx6b.html" rev=precedes>
+<link href="sx6d.html" rel=precedes>
+<link href="sx6.html" rev=subdocument>
+</head>
+<body>
+<H2>6.3 Reading Lines</H2>
+
+<p>It's often convenient
+for a program to process its
+input not a character at a
+time but rather a line at a time, that is, to read an entire
+line of input and then act on it all at once.
+The standard C library has a couple of functions for reading lines,
+but they have a few awkward features,
+so we're going to learn more about character input (and about
+writing functions in general)
+by writing our own function to read one line.
+Here it is:
+<pre>
+#include &lt;stdio.h&gt;
+
+/* Read one line from standard input, */
+/* copying it to line array (but no more than max chars). */
+/* Does not place terminating \n in line array. */
+/* Returns line length, or 0 for empty line, or EOF for end-of-file. */
+
+int getline(char line[], int max)
+{
+int nch = 0;
+int c;
+max = max - 1;			/* leave room for '\0' */
+
+while((c = getchar()) != EOF)
+	{
+	if(c == '\n')
+		break;
+
+	if(nch &lt; max)
+		{
+		line[nch] = c;
+		nch = nch + 1;
+		}
+	}
+
+if(c == EOF &amp;&amp; nch == 0)
+	return EOF;
+
+line[nch] = '\0';
+return nch;
+}
+</pre>
+</p><p>As the comment indicates,
+this function will read one line of input from the standard input,
+placing it into the <TT>line</TT> array.
+The size of the <TT>line</TT> array is given by the <TT>max</TT> argument;
+the function will never write more than <TT>max</TT> characters into <TT>line</TT>.
+</p><p>The main body of the function is a <TT>getchar</TT> loop,
+much as we used in the character-copying program.
+In the body of this loop, however,
+we're storing the characters in an array
+(rather than immediately printing them out).
+Also, we're only reading one line of characters,
+then stopping and returning.
+</p><p>There are several new things to notice here.
+</p><p>First of all, the <TT>getline</TT> function accepts an array as a parameter.
+As we've said,
+array parameters are an exception to the rule that functions
+receive copies of their arguments--in
+the case of arrays, the function <em>does</em> have access to
+the actual array passed by the caller, and <em>can</em> modify it.
+Since the function is accessing the caller's array, not
+creating a new one to hold a copy, the function does not have
+to declare the argument array's size;
+it's set by the caller.
+(Thus, the brackets in ``<TT>char line[]</TT>'' are empty.)
+
+However, so that we won't overflow the caller's array by
+reading too long a line into it,
+we allow the caller to pass along the size of the array,
+which we promise not to exceed.
+</p><p>Second, we see an example of the <TT>break</TT> statement.
+The top of the loop looks like our earlier character-copying loop--it
+stops when it reaches <TT>EOF</TT>--but
+we only want this loop to read one line, so we also stop
+(that is, break out of the loop) when we see the <TT>\n</TT>
+character signifying end-of-line.
+An equivalent loop, without the <TT>break</TT> statement, would be
+<pre>
+	while((c = getchar()) != EOF &amp;&amp; c != '\n')
+		{
+		if(nch &lt; max)
+			{
+			line[nch] = c;
+			nch = nch + 1;
+			}
+		}
+</pre>
+</p><p>We haven't learned about the internal representation of strings yet,
+
+but it turns out that strings in C are simply arrays of
+characters,
+which is why we are reading the line into an array of characters.
+The end of a string is marked by the special character, <TT>'\0'</TT>.
+To make sure that there's always room for that character,
+on our way in we
+subtract 1 from <TT>max</TT>, the argument that tells us how
+many characters we may place in the <TT>line</TT> array.
+When we're done reading the line,
+we store the end-of-string character <TT>'\0'</TT>
+at the end of the string we've just built in the <TT>line</TT> array.
+</p><p>Finally, there's one subtlety in the code which isn't too
+important for our purposes now but which you may wonder about:
+it's arranged to handle the possibility that a few characters
+(i.e. the apparent beginning of a line) are read,
+followed immediately by an <TT>EOF</TT>,
+without the usual <TT>\n</TT> end-of-line character.
+(That's why we return <TT>EOF</TT> only if we received <TT>EOF</TT>
+<em>and</em> we hadn't read any characters first.)
+</p><p>In any case, the function returns the length
+(number of characters) of the line it read,
+not including the <TT>\n</TT>.
+(Therefore, it returns 0 for an empty line.)
+Like <TT>getchar</TT>, it returns <TT>EOF</TT> when there are no more
+lines to read.
+(It happens that <TT>EOF</TT> is a negative number, so it will never
+match the length of a line that <TT>getline</TT> has read.)
+</p><p>Here is an example of a test program which calls
+<TT>getline</TT>,
+reading the input a line at a time and then printing
+each line back out:
+<pre>
+#include &lt;stdio.h&gt;
+
+extern int getline(char [], int);
+
+main()
+{
+char line[256];
+
+while(getline(line, 256) != EOF)
+	printf("you typed \"%s\"\n", line);
+
+return 0;
+}
+</pre>
+
+The notation <TT>char []</TT> in the function prototype for
+<TT>getline</TT> says that <TT>getline</TT> accepts as its
+first argument an array of <TT>char</TT>.
+When the program calls <TT>getline</TT>, it is careful to pass
+along the actual size of the array.
+(You might notice
+a potential problem:
+since the number 256 appears in two places,
+if we ever decide that 256 is too small,
+and that we want to be able to read longer lines,
+we could easily change one of the instances of 256,
+and forget to change the other one.
+Later we'll learn ways of solving--that is, avoiding--this
+sort of problem.)
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx6b.html" rev=precedes>prev</a>
+<a href="sx6d.html" rel=precedes>next</a>
+<a href="sx6.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995-1997
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

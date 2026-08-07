@@ -1,0 +1,264 @@
+---
+title: "SMALLnet post315"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post315.html
+order: 8016
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:31Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post315
+
+*Source page: `~smallnet/Archive/post315.html`*
+
+## SMALLnet Posting post315
+
+------------------------------------------------------------------------
+
+**Date: Wed, 3 May 2000 00:12:34 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>.
+
+Romey Bukolt \< 
+
+ \> leads off tonight:
+
+A local flyer who was fortunate enough to attend Toledo told me about someone (he couldn't remember who) who is kitting profile designs for electrics using the Ace foam wing, AND the box it came in to ship. Anybody out there who can expand on this??
+
+If anyone ever wants to hear the long boring history of how the Ace foam wing was developed, Dick Adams of Adams Actuator fame, Owen Kampen (near and dear friend of mine) and I, were the culprits. Owen and I had tons of fun cranking out prototype designs using the Cox .049's, Cox TD & PeeWee .020's and the Adams actuators, single, double, large and small..
+
+Every week-end we tried new stuff back around 1970-1972. You "younger" flyers would be amazed at the variety of aerobatics you can accomplish with single channel, pulse rudder-only.
+
+Dave Segal \< 
+
+ \> suggests:
+
+<span id="27"></span>
+
+<div class="green" source:="" decals,="" catalog<br="">
+
+</div>
+
+<span id="28"></span>
+
+<div class="green" vendor:="" major="" decals<br="">
+
+</div>
+
+You can get an extensive catalog of military insignia, in both pressure-sensitive or water-transfer types, from Major Decals. They are produced by Northeast Screen Graphics in Massachusetts. Telephone: 413-525-4110
+
+Dave Segal
+
+<div class="Joe">
+
+...Dave, NSG does make excellent-quality decals. But their size range is far too limited, I think. Years ago I tried to convince them to expand their product line -- and indicate in their catalog the exact diameters of roundels and stars etc. But the last time I saw a Major Decals catalog, it still had "1/6 scale", "1/4 scale", and like that to identify the various sizes. That's why I use Vinylwrite as my source for "store-bought" insignia. They will make what I need in ANY size. \[JW\]
+
+</div>
+
+John Rossetti \< 
+
+ \> offers:
+
+Frank, I may have some decals for you. Send me your mailing address and I will be happy to send them. I never use decals and prefer to make my own insignias using the rubber cement, tracing paper method. Works good; and when you paint them on, they look great and never come off.
+
+Regards, John Rossetti
+
+Larry Marshall \< 
+
+ \> advises:
+
+I would power a plane such as the 20-inch-span Inspirer free flight biplane with a HiLine Mini-6. The motors are around \$18 fully assembled; \$14 in partly-assembled form, including propeller.
+
+If you need a complete system (batteries, wiring harness, etc.) it's about \$32 without the charger; \$35 with one.
+
+Cheers --- Larry
+
+Dereck Woodward \< 
+
+ \> contributed:
+
+Well, it's another windy Sunday here outside the nation's capital, where the weather seems to be celebrating "English Month" (anytime I want to go fly, it is either raining, windy or both).
+
+Will probably drive up to the e-flight site at Mount Trashmore (Maryland), watch the birds walking upwind, mutter about the wind, go home and wash the dirt track dust of the Woodward family's newest arrival. My dear old van has been passed down to a handy offspring, and replaced by a great way to get to flying fields in a hurry - a VW Passat station wagon, with a 195HP V6 and manual gearbox. You should see the looks I get when I tell folk I got it as a compromise between a mid-life crisis sports car and a model aircraft hauler. In a fit of something or other, we got the black one (mostly because it was the only V6 in the DC area that hadn't been ruined by an auto gearbox :-)
+
+Romey Bukolt reported troubles with the Hitec Feather receiver, flying in company with friends. Romey, were you flying standing together or well apart? In England, the convention is that all R/C fliers stand together to fly; and a flier going out to retrieve a model on the ground leaves his transmitter by the other fliers.
+
+Regardless of any great theory, this worked at all the meets and club sessions I ever attended. When I got to the US and was expected to stand in the next field to the adjacent pilot, I felt very nervous and went digging as to why. The best I could come up with was that a third harmonic escaped its transmitter, ran up Walt Good's leg, and bit his thumb the first time two R/C models flew together in the US. He moved to the other end of the field, and it's been that way ever since.
+
+The idea in England is that if everyone is in the same close area, all models receive the same signal strength from all operating trannies. If pilots are widely separated, you could have the case where a model is actually closer to another tranny than to its 'own'; and then you get problems if the subject receiver is not that selective.
+
+There's a flight safety thing here too. If all pilots flying are standing in the same area, a pilot missing himself will likely miss all the others. If you are on the upwind end of a typical US field's flight station and your model is blown in, or however it happens, heads into the pilot area, some poor s-- is standing a long ways from you.
+
+Those who went to the old "KRC" meets might well have seen just how dangerous a strung-out line could be. Turning finals to land for the upwind end of the line was done smack into the faces of the down- wind end! Taking off a slow model with a clear strip from the downwind often meant you completed your takeoff with some model, or even person, on the upwind end of the line by the time you got there!
+
+Romey remarked further, "The 555 receiver is nice, but I really wanted that 7-gram weight of the Feather."
+
+So far, none of the truly micro RXs have been touted as "normally operable" in massed company. I have two. One seems much better than the other; but I've found that seasoned indoor fliers prefer a thorough ground check of what is there on the day to any amount of theory.
+
+Fred Sanford stated: "RC Model World is a great magazine from the UK. It has full-color from front to back, with a really nice variety of articles. This month had plenty of SMALLstuff. The magazine, offered by Traplet in the USA, is long on offerings while not being dominated by advertising. Included each month is a FULL-SIZE plan.
+
+"The magazine is the way you wish RCM would be... Incidentally, another SMALLster, Dereck Woodward, hosts a great monthly column in RCMW called Weekend Pilot, featuring great reports from this side of the pond."
+
+A little blowing of my own horn here. Weekend Pilot, now fast approaching its teenage years (does that mean it will all be done by telephone now ? :-), was the other Unofficial Non-Column of the SMA, next to Peter Miller's "Engine Bay" in RCMW. After Peter didn't found the SMA, I didn't become SMA Non-member \#0002 and eventually, WP became the SMA's unofficial English Newsletter when Peter hung up his quill pen and left columning to write a very funny, but regrettably non-published comedy fantasy novel.
+
+WP originally covered the UK scene in sports flying. About every- thing in R/C got in, and some other stuff too. (It is possibly the only R/C column around to have run pictures of plastic static scale model aircraft.) About the only way to be kept out was to buy a BARF model! But, as I write the thing - I've outlasted a lot of editors now :-) - SMALL models always get in.
+
+When we moved to the US, WP became far more international, pretty much driven there by contributors. The column has many contributors from around the 3rd Rock - as I write this, I have a "tale of a tail" about a dear little OS 26-powered "Russel Henderson Light Monoplane" from Bangkok SMALLster Mike Hawkins, for an example.
+
+The upshot of these contributions is that "my bit" is a little writing, plus a great insight to what others are doing - watch the column for the twin-engined "Fairey Rotodyne" inspired autogiro from Australia, for another example. Now we break for "some messages"!
+
+Weekend Pilot is not about my models, or what "freebies" I scrounged this month - it hopefully inspires more tinkering, building, and generally advancing creativity. So, all contributions are gratefully accepted. The only provisos are pretty much standard - nicely posed colour shots, on regular photo paper. Take it from me, a disposable camera's prints will look far better by the time it makes RCMW than an electronic snap from the current level of hobby type electronic cameras. If you want to see your masterpiece in print, drop me a line on \< 
+
+ \> for how to get your material to me.
+
+I can even help you out on taking photos of your pride and joy, so you can see her in print.
+
+A quick reminder about my electric-only FunFly on 27/28 May, in Rockville, Maryland. It's for any electric models; but last year, the parkfliers were the most numerous class of model. If you live in driving range of D.C., check out the event web page at \< www.weekendpilot.homestead.com \> and bring your quiet baby along.
+
+One plus this year - the "Electric Jet Factory" is coming over from Arizona with their roadshow. Some SMALL, some plain awesome, but all variables allowing, this will be a rare appearance of a spectacular act for the right side of the map. AMA membership and a trivial five clams a day landing fee, with a raffle featuring some good prizes.
+
+That we're not allowed to sacrifice meat over open flame on the site is no problem - the site is in the middle of suburbia and surrounded by restaurants various. We might be the only R/C site with a donut shop and a BBQ joint within sight of the site!
+
+Yours in modelling, Dereck Woodward
+
+Steve Morris \< 
+
+ \> dislikes the HiTec "Feather":
+
+I purchased 2 Feather receivers for my JR transmitter and was very disappointed in their performance. Ground range tests with the transmitter antenna collapsed were lower than any receiver I've ever tested. I tried increasing the antenna wire length to 39 inches, but that did not help.
+
+I flew the Feather in a small model and experienced many glitches when flying low (6 feet high) and about 100 feet away, even though my transmitter antenna was fully extended and no one else was at the field. My assessment is that the Feather is a lemon and Hi-Tec should offer full refunds to everyone that purchased it, just to protect their reputation.
+
+Steve Morris
+
+Jarvis P Lopez \< 
+
+ \> likes JR receivers:
+
+Bought a JR 610(?) receiver for a Zagi, and was really impressed with its size, weight, and 6 available channels. It has the rejection and range of the regular JR receivers, and may prove to be ideal for mini and park fliers. The plugs attach on the end..not up..so it is ideal for small, confined models..
+
+If it works out well, I intend to make this receiver the mainstay of all my models that do not require more than 6 channels. The lighter, the better -- as long as it's good. Why do we settle for some of the junk out there?? P.S.: It's \$79, with crystals...Much lighter/ smaller than the HiTec/RCD 555...
+
+Roy Clough \< 
+
+ \> advises:
+
+The best 35mm film canisters for half-A tanks that I've found are translucent white where the cap pushes inside. Never a leak. JW has the right idea for installing the fuel line by pulling a taper-cut end through an undersize hole -- been using this for years with never a chafe-through.
+
+If using a clunk, put in a short length of large-diameter silicone first and draw the smallest size that will fit on a clunk through it -- so the clunk is free to flop around as it should. I use DuBro \#161 clunks.
+
+On the subject of tanks, I like balloons on .050's -.09's. A couple of years back Larry Renger told me balloon tanks could be pressurized by putting them inside another container and pressurizing that. Seems like a neat idea if needed. There are certainly plenty of small plastic bottles, like for vitamins, that could do the trick.
+
+Those interested in half-A starters might look up my construction article in the November '97 Model Airplane News. This uses a Mabuchi .05 can motor, a length of chromed plumbing tubing, and a switch from Radio Shack. It will start anything from an .01 TD up to .15 with a 6-7 cell 1200 mAh pack.
+
+My starter was a year old when published and is still in weekly use, well, weekly when the New Hampshire weather cooperates.
+
+As for aluminum landing gear legs -- I've had good luck making small model gear using Lexan plastic. (Polycarbonate.) It is a good shock-absorber, and takes paint/dope pretty well. This stuff is available in 1/16" and 1/8" thicknesses at most glass/automotive/ house window suppliers. It's easy to cut out on a jig saw and bend to shape with a heat gun. Just practice a bit on scrap first, to get used to how Lexan responds to heat and pressure.
+
+Have fun, guys. Roy C.
+
+Tom Arcoleo \< 
+
+ \> wrote:
+
+Dave Segal inquired about converting 35mm film canisters to fuel tanks. I make a few original R/C airplanes, and often have diffi- culty adapting standard tanks to these models. As a result, I have become a drug store denizen: any soft plastic glue, cosmetic, pill, ointment, squirt, or other container WITH A SCREW TOP can become a fuel tank in my plane. Many of these containers are as small as 1-ounce capacity.
+
+The procedure involves 1) fashioning an "O"-shaped gasket, 2) drilling a hole in the center of the screw top, and 3) fitting a round brass shim inside the cap such that a vent and fuel tube can be soldered in. If small-diameter brass tubing cannot be found as such, portable radio antenna tubing cleaned of chrome-plating will do. The gasket is placed between the shim and the body of the container.
+
+The advantage in this approach is that ideal shapes usually can be found for a particular size and space requirement.
+
+Tom Arcoleo
+
+Boris \< 
+
+ \> offers:
+
+For any of you SMALLsters that collect engines, I have two small engines that are NIB, never used, with all the associated paper- work. I've had these in my possession for about 30 years: A Cox Medallion .09 and a hand-lapped Enya Model 4005 .19V.
+
+I'd rather give you guys a crack at these before I go to eBay. I don't know what they are worth, but I do know what I would like to have in trade. I'm into micro R/C.
+
+Please contact me directly...Boris
+
+Dave Walker \< 
+
+ \> inquires:
+
+Has anyone tried the Guillow Stuka? I mean the larger one that spans around 36". I am interested in using it for small scale R/C, with an OS .10 or a PAW .049 Diesel.
+
+Another question for the crowd...I have a Cox Queen Bee .074. I have hardly used the thing, being really poorly impressed with it overall during the short time I did fly it. What are your collective experiences with the .074? Dave
+
+<div class="Joe">
+
+...Dave, the Guillow Stuka kit you're asking about is 3/4" to the foot scale. That puts its wing area around 190 square inches. Inasmuch as the "real airplane" was slow in flight, I'd say the .049 diesel would be more suitable than an OS .10.
+
+In fact, if it was me, I'd favor the PAW .03 diesel for a 34" span Stuka, with 3-channel micro R/C and an all-up flying weight as much under one pound as can be managed. \[JW\]
+
+</div>
+
+Chet Moore \< 
+
+ \> wonders:
+
+I have a Futaba FP-R127DF FM Dual Conversion receiver and I would like to change its frequency. Futaba sells their crystals only by the pairs, at \$30 a pop. Does anyone know if any of the other R/C manufacturers' crystals will work in this receiver ? Chet Moore
+
+Larry Renger \< 
+
+ \> reports:
+
+Continuation of the 4-stroke saga:
+
+I pulled the top end off the engine, and did a valve job. There was tremendous carbon build-up, and the valves showed no sign of sealing. When I was done, and lapped the valves into their seats with 1200 grit lapping compound, they showed a pretty, shining ring around the entire valve. Then careful setup of the valve train to assure that the timing was correct, and clearances right.
+
+All buttoned up ... still no compression. {:-(
+
+I decided to see if it would run anyway, and it does indeed. It turns a Rev-up 10-5 at 8100 for 9-1/2 minutes on 2 ounces of 15% Powermaster fuel. It will only start with an electric starter.
+
+Anyway, I have a new ring on order, perhaps that will cure the beast. Thanks to all for the advice and help.
+
+Larry (562) 404-8034
+
+Michael J. Woodhouse \< 
+
+ \> contributed:
+
+Replying to the query: "Has anyone ever put Airspan over tissue? I am thinking of doing this on an open-framework vintage model, so the tissue gives a rigid airframe, and then the Airspan makes it puncture resistant."
+
+Firstly, I would suggest the other way around. Put the tissue over the plastic. It will look better, as well as doing the same job. And if you don't like it, then it's easy to remove.
+
+However, if you want to look right and add that little extra, the best idea is tissue over clear Mylar.
+
+If you need to know more, e-mail me for details etc.
+
+Michael J Woodhouse
+
+Free Flight Supplies (we now take credit cards) - for all your free flight needs and more! www site \< <http://members.aol.com/mjwffs> \>
+
+John \< 
+
+ \> offers different advice:
+
+In reply to David Williams' request about applying Airspan over tissue: This works very well. I was introduced to the method by Cliff Goater (Balsa Cabin, Original Kits designer) a few years ago when I was admiring his models on display at Old Warden.
+
+You cover the wing in tissue as normal. After water-shrinking, give a coat of thinned shrinking dope (50/50). When dry put the heat-activated adhesive (Balsaloc or whatever) around the leading & trailing edges, wingtips, etc. Then apply and heat shrink the Airspan as normal. After this is done, give one or two coats of the thinned shrinking dope. This bonds the Airspan to the tissue.
+
+Don't use more dope than this or the Airspan may become brittle. This works well and looks good. I first used it on a 64-inch electric soarer whose wings had been covered in Airspan only, and which suffered wing flutter. Re-covered as described, no more problems. JDB
+
+Bob Worley \< 
+
+ \> says:
+
+Would like to hear from 1/2A R/C flyers and 1/2A Texaco flyers in the Columbus, Ohio area. Bob Worley
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

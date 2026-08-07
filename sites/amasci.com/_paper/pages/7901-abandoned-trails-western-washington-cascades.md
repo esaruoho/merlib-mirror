@@ -1,0 +1,504 @@
+---
+title: "Abandoned Trails - Western Washington Cascades"
+source_domain: amasci.com
+source_path: ~sfox/TRAILS/abandon.htm
+order: 7901
+reachable_from_entry: false
+images: 94
+internal_links: 28
+extracted: 2026-08-07T06:00:25Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Abandoned Trails - Western Washington Cascades
+
+*Source page: `~sfox/TRAILS/abandon.htm`*
+
+# Abandoned Trails
+
+## Western Washington Cascades
+
+Updated Oct 29, 2001\
+[Hwy 542](#Baker) \| [Hwy 20](#NorCasc) \| [Suiattle River Road](#Suiattle) \| [Mt Loop Hwy](#MtLoop)\
+[Hwy 2](#Stevens) \| [Interstate 90](#I90) \| [Mt Rainier area](#Rainier)
+
+------------------------------------------------------------------------
+
+This website is dedicated to the preservation of abandoned trails. Regularly maintained trails are well publicized and well travelled. But these formerly maintained trails are worth keeping for future generations to enjoy. It would be a shame for them to disappear completely. Enjoy the thrill of finding these trails, then solving the puzzle to follow them!
+
+These trails were built by miners, foresters, or forest fighters. They have been abandoned for many reasons, including the closure of the mines, Endangered Species Act (due to Grizzly Bears), aerial fire fighting, budget contraints, logging, lack of interest, or they have been forgotten.
+
+Note: There are many other boot-beaten paths that fishers, hunters, climbers, and hikers use. These have limited historical interest and are documented in Beckey's "Cascade Alpine Guide" and other publications. This web site does not focus on such non-built trails.
+
+One good generic reference is "Lost Trails," appearing in Signpost, vol. 11, no. 5, May-June (May 6), 1976, pages 12-13.
+
+Please [email me](mailto:sfox@eskimo.com) with information on trails you have discovered. I'll add them to this website.
+
+*Ratings code: ![](1.gif) fair, ![](2.gif) good, ![](3.gif) great, ![](4.gif) outstanding.*
+
+------------------------------------------------------------------------
+
+### <span id="Baker">Mt Baker Highway (Hwy 542) trails</span>
+
+*Per R. Jensen, 2000:*
+
+1.  Silesia Trail \#672. Forest hike that reached Canada at one time. Most of the trail system has been lost from lack of maintenace.
+2.  Cougar Divide. Alternative to crowed Skyline Divide trail. Not maintained. Not shown on recent FS map. Access road at risk of being washout.
+3.  Nooksack Flat \#602 9 mi Old trail system in upper S Fork Nooksack River. Likely little used and very brushy.
+4.  White Salmon \#762 2 mi Listed as existing trail. Doubtful there ever was a trail here. Climbers approach to Mt Shuskan trail brushfest.
+5.  Wells Creek \#682.2 3 mi Historical trail to Heather Meadows and beyond to Mt Baker. Probably the trail to goes to Mazama Falls. Beyond the status unknown.
+6.  Wiseman Lake \#697.2 1.5 mi. Access from Elbow Lake trail. Listed as existing trail. No trail brushwack
+7.  Ridley Creek \#696 2.5 mi Nice alternative to crowded Schriebers Meadow trail. Recently listed to be rebuild but now listed as unmaintained.
+
+------------------------------------------------------------------------
+
+<span id="NorCasc"></span>
+
+### North Cascades Highway (Hwy 20) trails
+
+*Per R. Jensen, 2000:*
+
+1.  Swift Creek \#607. Has not been maintained for decades. This was the intended route of the Pacific Northwest Trail (PNT) The PNT group has asked the FS for permission to open the trail by building new bridge across Rainbow Creek and Swift Creek. FS has refused permission siting the Swift Creek valley as critical gizzly bear habitat. This has forced PNT to an expensive reroute and trail constuction on the west side of Mt Baker.
+2.  Newhalen Creek. This excellent route through a lowland forested valley is in the North Cascades National Park. Provides access to Stout Lake and high county traverses. Trail is washed at 2 to 3 miles. Trail not in 100 hikes series. Road to trailhead is not marked. Trail is listed as not maintained by the PS.
+3.  South Fork Cascade River \#679 Long forest hike accessing South Cascade Glacier. Trail has been washed out by Cascade River at the 4 mi mark. Trail needs to rerouted or will be lost. Trail beyond the washout in reasonable shape but will not last long.
+4.  Kindy Ridge. Now more of a climbers route than a trail. Once a great trail to views and lakes.
+5.  Finney Peak. Great views from the top and one of few trails in the Finney Block. Only several short segments of this trail are left; a legacy of logging and failure of the FS to rebuild the trail. Access to trail at risk due to washout and notice by FS to abandoned the remaining road. Trail needs to be rebuilt along former route.
+6.  Noisy Creek \#610.2 1 mi Access from East Sie Baker Lake Trail. Lower part of trail has been rebuilt as proposed loop trail. We understand that proposed trail has been scraped. Creek crossing and beyond probably lost.
+7.  Gee Point \#612 1.2 mi Finney Block. Little used trail in good shape but at risk from road washout.
+8.  Jordan Lake \#627 3 mi Listed as existing trail with access from FS Road 16 (Slide Lake access). Probably never more than a boot trail. Current status unknown.
+9.  Kindy Creek \#766 1.7 mi Old growth forest hike Listed as unmaintained. Trail at risk.
+10. Middle Fork Cascade \#767 4.5 mi Cascade River trail. Parts of the last mile are overgrown and at risk of being lost.
+11. Thunder Ridge \#763 6.4 mi. This and the next trail located east of Shannon and Baker Lakes. Listed as existing pack trail. Status unknown
+12. Rocky Ridge 763.1 4 mi List as existing pack trail. Status unknown
+
+*Per Tony Mendoza, 2001:*
+
+1.  Indian Creek Trail: On both the north and south sides of the creek. Thirty years ago on the north side there was a pleasant trail that continued to the ridge south of Mt. Redoubt. The trail became somewhat rough after 2 miles. Follow blazes. The south side trail is older and probably no longer in existence (only blazes).
+2.  Goodell Creek: This was a road, not a trail. It has had 0 maintenance since World War II, but thirty years ago, it was still passable. Keep to the Right!! The left hand spurs lead no where. When you reach Terror Creek, climb the slope to the Southern Pickets. This is a much quicker and (and at least in the past) easier approach than any others to the Southern Pickets.
+3.  Baker River: The Baker River trail used to lead all the way to Bald Eagle Creek. However, these days, it is probably easier to walk the gravel bars along the river during low water. It is possible to climb Pioneer Ridge from here I've heard, but one extremely talented climber (who doesn't normally mind free soloing exposed and difficult terrain) said that some belaying will be required so consider yourself warned!! Water is also a problem on Pioneer Ridge.
+4.  Silver Creek: There used to be a trail here, but I've never walked it.
+5.  West Fork Thunder Creek: There used to be a trail up this creek. It starts at Meadow Cabins and then swung around the swamp and back to the main trail after a couple of miles. Does it still exist? Probably not.
+
+*Per Jerrie Bailey, 2001:*
+
+Swamp Creek off the South Fork Agnes Creek Trail (PCT) is in good shape for it's first two miles but then is lost amid slide alder as it approaches its terminus in an open basin around 4000 ft. Unfortunately its junction has with Agnes Creek Trail (PCT) has also been washed out. The trail can be found be following the left bank of Swamp Creek for about 100 yards above the PCT. The trail then climbs through old growth and finally traversing into the drainage and crosses Swamp Creek at the 1.5 mile mark. A good log exists for the crossing. It continues through big timber until it nears the creek again and is lost in high water and slide alder.
+
+*Per Tony Mendoza, 2001:*
+
+Perry Creek off of Little Beaver Creek is a fantastic abandoned trail. This is in the North Section of North Cascades National Park. It was in very bad condition 20 years ago, so it probably no longer exists, but it ends in a wild cirque with fantastic cliffs and glaciers all around. You can find the blazes near the Little Beaver shelter (if it still exists!) and just follow them to the cirque below Redoubt. You can exit onto the Redoubt High Route on a pass to the right. If you want to do the high route, bring climbing gear and plenty of nerve.
+
+*Per Grant Myers (from Fred Beavon):*
+
+Point Defiance (Pasayton): we carefully walked the 2/10th mile shown on the map from the Tatoosh Peak junction looking for the old path. We did find a very faint, unmarked trail in about 3/10 mile. The trail had not been maintained in many years but old cut logs defined it as well as a corridor through the forest. After a flat half mile the trail hit the base of Point Defiances north ridge where we were delighted to find the trail improved remarkably. We felt like we had discovered a lost treasure, this excellent trail took us up to the alpine and on to the summit where we found the remains of an old fire lookout and 360 degree views.
+
+*Per Kris Maxwell:*
+
+Ruby Mountain: There is a trail to the summit. Reference: Fred Darvill's Hiking the North Cascades.
+
+------------------------------------------------------------------------
+
+### <span id="Suiattle">Suiattle River Road trails</span>
+
+[Suiattle River Road](suiattle.htm)
+
+*Trail*
+
+*Scenery*
+
+*Historic Interest*
+
+*Trail Condition*
+
+[Huckleberry Mountain](suiattle.htm#HuckleberryMt)
+
+![](2.gif)
+
+![](2.gif)
+
+![](2.gif)
+
+Buck Creek (see Greentrails map)
+
+![](3.gif)
+
+![](2.gif)
+
+![](3.gif) (until it disappears)
+
+[Sulphur Creek](suiattle.htm#Sulphur) (see Greentrails map)
+
+![](3.gif)
+
+![](2.gif)
+
+![](3.gif) (to old bridge crossing)
+
+[Bachelor Creek](suiattle.htm#Bachelor)
+
+![](4.gif)
+
+![](2.gif)
+
+![](3.gif)
+
+[Grassy Point](suiattle.htm#Grassy)
+
+![](3.gif)
+
+![](2.gif)
+
+![](3.gif) (difficult to find start)
+
+Gamma Way (see Greentrails map)
+
+![](4.gif)
+
+![](2.gif)
+
+![](3.gif) (numerous blowdowns)*S. Fox, 2001*
+
+[Middle Ridge](suiattle.htm#Middle)
+
+![](2.gif)
+
+![](2.gif)
+
+![](2.gif)
+
+Canyon Lake
+
+?
+
+?
+
+see Greentrails/USGS maps, Routes and Rocks (Miners Ridge area).
+
+Upper Suiattle River trail system
+
+?
+
+![](3.gif)
+
+Probably ![](1.gif). See Greentrails, USGS maps, Routes and Rocks. Includes Dusty Ridge.
+
+#### More trails
+
+*Per R. Jensen, 2000:*
+
+There is an old trail towards Downey Mountain off of the Downey Creek trail. This lost trail leaves the Downey Creek trail going east at about 1mi. There is a description in Beckey guide. Beckey says it is a possible packers trail. There was a recent report in Pack and Paddle on a winter or spring trip when they encountered the trail. As I recall they gave a good description of how the find the beginning of the tread. The possible location of the trail is shown on several older FS maps I viewed at the UW last fall. The best map showing the location of the trail is in the recent book Mountaineers book Geology of the North Cascades by Tabor and others.
+
+------------------------------------------------------------------------
+
+### <span id="MtLoop">Mountain Loop Highway trails</span>
+
+[Mountain Loop Hwy - Verlot](verlot.htm)
+
+*Trail*
+
+*Scenery*
+
+*Historic Interest*
+
+*Trail Condition*
+
+Mt Pilchuck (south side)
+
+![](3.gif)
+
+![](2.gif)
+
+See 100,000:1 USGS map
+
+Marten Creek/Granite Pass
+
+![](2.gif)
+
+![](3.gif)
+
+cat track to mine. Old trail continued to pass, then to Deer Cr Pass. Per Don Mollick and "Monte Cristo Area"
+
+[Devils Lake](verlot.htm#Devil)
+
+![](4.gif)
+
+![](3.gif)
+
+![](2.gif)
+
+[Marble Pass](verlot.htm#MarblePass)
+
+![](3.gif)
+
+![](4.gif)
+
+some ![](1.gif), much ![](2.gif), some ![](4.gif)
+
+Helena Mines
+
+![](3.gif)
+
+![](4.gif)
+
+![](3.gif)
+
+[Manley Mine](verlot.htm#Manley)
+
+![](3.gif)
+
+![](4.gif)
+
+![](3.gif)
+
+[76 Basin](verlot.htm#76Basin)
+
+![](4.gif)
+
+![](4.gif)
+
+![](1.gif)
+
+[Weden Lake](verlot.htm#WedenLk)
+
+[Penn Mining Camp (segment)](verlot.htm#PennMine)
+
+![](2.gif)
+
+![](3.gif)
+
+![](2.gif)
+
+[Circle Peak](circle.htm)
+
+?
+
+![](3.gif)
+
+![](3.gif)
+
+------------------------------------------------------------------------
+
+#### More trails
+
+Lime Kiln Trail: being rebuilt in 2001. Near Granite Falls (the old Monte Cristo railroad grade).
+
+Tunnel \#1: the east end of the "Kissing Tunnel" can be reached via a short walk across clearcuts up the hill, not far from Masonic Park. S.Fox, 2000.
+
+*From Don Mollick:*
+
+1.  Glacier Ridge: Leaves the White Chuck Trail near Glacier Creek, passes an old lookout on a promontory, then intersects the PCT.
+2.  Camp Ridge: Leaves from Little Siberia and goes down the ridge, eventually intersecting the old Whitechuck trail, which went up the west bank on a bench. An old bridge crossed the river about 1/2 mi. from the present end of the road.
+
+*From R. Jensen:*
+
+1.  Eight Miles Creek \#654B In the 70's this was the best route to Squire Creek Pass. The first mile is used to approach Darrington rock climbing areas and in good shape. Trail beyond is nearly lost.
+2.  Round Mountain \#664 1.6. Finney Block. Trail lost to logging in the 70s. Never rebuilt. Yeah! WTA is working to reopen in 2000
+3.  Falls Creek-Pass Lake \#645 4mi Section between Rd 2080 and Pass Lake may be lost. May move to Top Ten.
+
+*Per John Roper:*
+
+Peak 5003 (Sloan Peak USGS quad, lower right): an abandoned trail is in surprisingly good shape that continues from the end of Forest Service Road \#49 in the Darrington Ranger District to the summit. Probably went to a lookout?
+
+*Per Dan Jordan:*
+
+Mallardy Ridge/Blackjack Creek: some remnants remain of this old trail. Someone is cutting the brush (2000).
+
+------------------------------------------------------------------------
+
+### <span id="Stevens">Highway 2 trails</span>
+
+[US 2](us2.htm)
+
+*Trail*
+
+*Scenery*
+
+*Historic Interest*
+
+*Trail Condition*
+
+[Silver Creek](us2.htm#SilverCr)
+
+![](3.gif)
+
+![](4.gif)
+
+![](3.gif)
+
+[Troublesome Creek](us2.htm#trouble)
+
+![](3.gif)
+
+![](1.gif)
+
+![](4.gif)
+
+[Evergreen Mt](us2.htm#Evergreen)
+
+![](2.gif)
+
+![](2.gif)
+
+![](3.gif)
+
+[Kelley Creek/Scorpion Pt](us2.htm#Kelley)
+
+![](3.gif)
+
+![](3.gif)
+
+![](2.gif)
+
+[North Crest Cutoff Trail](us2.htm#NCrest)
+
+?
+
+![](2.gif)
+
+<img src="3.gif" data-?<="" data-td="" />
+
+[Surprise Gap/Mt and CCT](us2.htm#CCT)
+
+![](4.gif)
+
+![](4.gif)
+
+![](4.gif)
+
+[Napeequa Valley](us2.htm#Napeequa)
+
+![](4.gif)
+
+![](2.gif)
+
+![](2.gif)
+
+Alpine Baldy
+
+![](2.gif)
+
+? See "100 Hikes"
+
+Francis Lake
+
+?
+
+?
+
+from W Fk Miller river. Per Lopper.
+
+#### More trails
+
+*Per R. Jensen, 2000:*
+
+Lake Isabel \#1080 1 mi Access from motorcycle boundary then bushwack to lake. Boot trail in poor shape.
+
+*Per Mike Torok*:
+
+Talus Lake: Hike the PCT north from Deception Pass to the creek draining Talus Lake. I found a cut log. This seemed like an old trail that has not been used in 20+ years. I followed the old trail as best as I could. The path was faint and old blazes on trees at key places kept me pretty much on the route. The route comes out about 800' south of the creek at an area of 5-7 cut Alaska Cedars stumps.
+
+------------------------------------------------------------------------
+
+### <span id="I90">Interstate 90 area trails</span>
+
+[Interstate 90](i90.htm)
+
+*Trail*
+
+*Scenery*
+
+*Historic Interest*
+
+*Trail Condition*
+
+[Mount Si (old trail)](i90.htm#Si)
+
+![](3.gif)
+
+![](2.gif)
+
+![](4.gif)
+
+[McClellan Butte](i90.htm#McClellan)
+
+![](2.gif)
+
+![](3.gif)
+
+![](4.gif)
+
+[Cascade Crest (hiker only)](i90.htm#crest)
+
+![](3.gif)
+
+![](3.gif)
+
+![](1.gif) to ![](4.gif)
+
+[Cascade Crest (horse route - Source Lake)](i90.htm#crest_horse)
+
+![](4.gif)
+
+![](3.gif)
+
+![](3.gif)
+
+[Snoqualmie Mountain](i90.htm#SnoqMt)
+
+![](4.gif)
+
+![](2.gif)
+
+![](3.gif)
+
+------------------------------------------------------------------------
+
+Mt Rainier area trails
+
+Mt Rainier
+
+*Trail*
+
+*Scenery*
+
+*Historic Interest*
+
+*Trail Condition*
+
+Chenius Falls
+
+![](3.gif)
+
+old Wonderland route?
+
+![](4.gif) except for some blowdowns. Bridge often out across Carbon River. *SFox, 2000*
+
+NW of Sweet/Florence Peaks
+
+Part of "Boundary Trail"?
+
+Trail easy to lose in brush. . See 1971 Golden Lakes 7.5' USGS map. *Stefan Feller, 2000*
+
+Dixon Mountain
+
+![](4.gif)
+
+?
+
+![](3.gif) Directions to trailhead: Follow Highway 7, then Highway 706 toward Mt. Rainier National Park. At 2.8 miles past Ashford store, turn right on Skate Creek Road \#52. After 14.3 miles more, turn left at bridge over Skate Creek, onto the Johnson Creek Road \#5260. There are no roadsigns here. Follow about 5.6 miles to the ridgetop (Don't miss the turn to the right like we did). Before the turn, the road was washed out a bit, but my Accord got over it fine. On the USGS Tatoosh Lakes quad, park where it says Borrow Pit. Hike back on the road to a road on the right and go just a short distance (ignore the abandoned road continuing downhill to the left) and find an obvious trail heading south up the ridge. The tread of the trail is excellent the entire way (four stars) to the summit of Dixon Mountain, 5134', and I had no trouble at all following it on 10-3-01. However, parts of the trail, after passing a pond to the left, has bushes overgrowing it, so perhaps earlier in the year, with the bushes having leaves on them, it may not be so obvious to follow (perhaps two stars). At the base of the mountain the trail goes to the right around the back and then it double backs and takes you right to the top. There are great viewpoints from the summit. *From Edythe Hulet and Roger Barrett per Fred Beavon, 2001*
+
+#### More trails
+
+*From Lopper:*
+
+##### Castle Mt \#1188
+
+All references to trail 1188 are gone from current USFS maps/reports. From the high point of "Rainier View Trail" \#1155, the old tread of \#1188 dives off to the east and and drops steeply to an obvious valleybottom meadow. Nearly all of the hiker traffic turns north at this point, following the main tread along a viewless plod past Hidden Lake and up to Corral Pass. Trail signs in this area consist mostly of bare tapered uprights with the signs removed. There is one such post in the middle of the meadow.
+
+You won't see the signpost or trail 1188 if you stay on the beaten tread. You need to step off it and go east across the meadow. The lack of tread is only about 100-yards wide . The trail then enters the forest and climbs up around the spur into the next cirque to the south. Again when the trail emerges from the forest at ridgeside meadow in about 1 mile, the tread gets very sketchy and is easily lost. The maps show it traversing over to and along the NE side of the PCT ridge.....then dead-ending. At some point it needs to cross that ridge to hit the PCT. I think it most likely that it continues traversing to Martinson Gap. I have verified what looks like a connecting trail leaving from Martinson Gap, heading to the NW. We encountered one sawed log there before running out of time.
+
+*References:* USGS 7.5' maps Noble Nob (1989) and Norse Peak (1988). USGS 100,000:1 map.
+
+------------------------------------------------------------------------
+
+[Send comments to the author](mailto:sfox@eskimo.com).\
+[Author's home page](http://www.eskimo.com/~sfox).

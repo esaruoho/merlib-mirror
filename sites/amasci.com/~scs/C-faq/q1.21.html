@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 1.21</title>
+<link href="q1.14.html" rev=precedes>
+<link href="q1.22.html" rel=precedes>
+<link href="s1.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 1.21</H3>
+<p>How do I declare an array of N pointers to functions returning
+pointers to functions returning pointers
+to characters?
+</p><hr>
+<p>The first part of
+this
+question can be answered in at least three ways:
+<OL><li><TT>char *(*(*a[N])())();
+</TT><li>Build the declaration up
+incrementally,
+using
+typedefs:
+<pre>	typedef char *pc;	/* pointer to char */
+	typedef pc fpc();	/* function returning pointer to char */
+	typedef fpc *pfpc;	/* pointer to above */
+	typedef pfpc fpfpc();	/* function returning... */
+	typedef fpfpc *pfpfpc;	/* pointer to... */
+	pfpfpc a[N];		/* array of... */
+</pre><li>Use the
+<TT>cdecl</TT> program,
+which turns English into C and vice versa:
+<pre>	cdecl&gt; declare a as array of pointer to function returning
+		 pointer to function returning pointer to char
+	char *(*(*a[])())()
+</pre><TT>cdecl</TT> can also explain complicated declarations,
+help with casts,
+and indicate which set of parentheses the arguments go in
+(for complicated function definitions, like the
+one
+above).
+Versions of <TT>cdecl</TT> are in volume 14 of comp.sources.unix
+(see question
+<a href=q18.16.html>18.16</a>)
+and K&amp;R2.
+</OL></p><p>Any good book on C should explain how to read these
+complicated C declarations ``inside out'' to understand them
+(``declaration mimics use'').
+</p><p>The pointer-to-function declarations in
+the examples above
+have not
+included
+parameter type information.
+When the parameters have complicated types,
+declarations can <em>really</em> get
+messy.
+(Modern versions of <TT>cdecl</TT> can help here, too.)
+</p>
+
+
+
+
+
+<p>References:
+
+K&amp;R2 Sec. 5.12 p. 122
+<br>
+ANSI Sec. 3.5ff (esp. Sec. 3.5.4)
+<br>
+ISO Sec. 6.5ff (esp. Sec. 6.5.4)
+<br>
+H&amp;S Sec. 4.5 pp. 85-92, Sec. 5.10.1 pp. 149-50
+<br></p><hr>
+<p>
+Read sequentially:
+<a href="q1.14.html" rev=precedes>prev</a>
+<a href="q1.22.html" rel=precedes>next</a>
+<a href="s1.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

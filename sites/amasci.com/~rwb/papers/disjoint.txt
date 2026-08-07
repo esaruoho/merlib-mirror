@@ -1,0 +1,21 @@
+A critical set in a Latin square is a subset of the Latin square
+containing just enough information to determine the complete Latin
+square.  It has been conjectured that the smallest possible
+critical set in a Latin square is of size $\lfloor \dfrac{n^2}{4} \rfloor$.
+If this conjecture is true, it may be possible to partition
+a Latin square $L$ into two, three or four disjoint critical sets
+in $L$.  We give a theorem to show that for a given order $n$,
+there exists a back-circulant Latin square of order $n$ which
+may be partitioned into four disjoint critical sets, and we give
+examples of all possible different partitions of Latin squares
+of order at most 6.  We also give an example of two mutually
+complementary critical sets, which partition a Latin square of
+order 8 into two disjoint critical sets.
+
+2002k:05041
+Adams, Peter(5-QLD-DMM); Bean, Richard(5-QLD-DMM); Khodkar, Abdollah(5-QLD-DMM)
+Disjoint critical sets in Latin squares. (English. English summary)
+Proceedings of the Thirty-second Southeastern International Conference on 
+Combinatorics, Graph Theory and Computing (Baton Rouge, LA, 2001).
+Congressus Numerantium 153 (2001), 33--48.
+05B15

@@ -1,0 +1,330 @@
+SMALLnet post442 
+
+ SMALLnet Posting post442
+
+Date: Tue, 15 Feb 2005 23:06:37 -0600
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet >
+
+...In the past few years I've noticed some "anomalous phenomena".
+In that time several woodworking magazines have either started up
+or expanded. With titles such as "American Woodworker", "Shop
+Notes", "Workbench", "Popular Woodworking", "Woodsmith" -- these
+contain both simple and quite elaborate projects; some even provide
+full-size patterns.
+
+Most of these woodworking projects require far more shop 
+equipment, and take far more time to complete, than most scratch-
+built model airplanes. They demand considerable skill too.
+
+Craft suppliers -- retail stores and mail order dealers both --
+seem to be thriving. They sell plenty of kits for hand-made
+wooden toys, holiday decorations, lawn ornaments, and dollhouse
+furniture. (One of the mail-order outfits: Crafter's Mart,
+P. O. Box 143, Greeley, Colorado 80632 -- carries many materials
+and other items that I found useful for modeling. For example,
+Crafter's Mart carries some of the best-quality birch plywood
+I've ever seen.)
+
+...And yet build-it-yourself model airplanes seem to be dying out.
+It can't be from lack of time, space, or equipment -- though those
+are the excuses people make.
+
+It seems to me that one possible reason for the "declining fortunes" 
+of D-I-Y model planes is that aviation itself has lost its luster.
+The sheer adventurousness of airplane flying that got so many 
+youths enthusiastically building and flying miniature aircraft a few
+decades ago has evaporated. Nobody in my neighborhood rushes
+outside to gawp up at the sky when they hear an aircraft passing
+over. They did that when I was a boy, though!
+
+The old-time appeal of aviation to the general public can't be
+completely gone, however. After all, the most popular tourist
+attraction in Washington D.C. is the Smithsonian's Air and Space 
+Museum. The USAF Museum at Wright Patterson AFB is Ohio's 
+most popular free attraction. The Naval Air Museum at Pensacola 
+draws visitors from everywhere -- as does the Army Aviation 
+Museum just a few miles from my home.
+
+All that popularity seems like good evidence for a continued interest 
+in Aviation -- in particular for the older propeller-driven craft
+that were designed and built by PEOPLE, not committees, CAD
+drawings, or CNC machinery.
+
+We SMALLsters are holding the line (I think) against mass-produced
+flying toys and the Buy-n-Fly syndrome. It surely looks that way to 
+me each time I attend a SMALL meet. The Flying Aces Club is another
+"preserver of the faith". I find the level of craftsmanship and
+dedication 
+to aeronautics displayed at SMALL meets and FAC events both 
+encouraging and inspiring.
+
+There's still a definite downtrend, though. When I first moved here to 
+the southeast corner of Alabama, there were at least four well-stocked 
+hobby shops in the general area that carried model airplane 
+merchandise. Now there's NONE. [JW]
+
+ Source: Plans, Mike Midkiff 
+
+Mike Midkiff < > now has full size plans
+available for over 60 of his exquisite rubber-powered scale models.
+
+...I've seen several of Mike's planes, and I can't make up my mind
+whether they're more impressive when examined up close, or observed
+in flight. They can be easily adapted for CO2 power and small
+electric motors too. [JW]
+
+Randy Randolph < > adds:
+
+There was a squib in the Letters to the Editor column of
+Flying Models this month, saying that the web site
+< http://www.profili2.com/eng/default.htm > had a bunch
+of model plans from the old magazines; good ones too --
+and they appear to be free! Randy
+
+Jack Baker < > has been e-mailing me {JW}
+lately with questions about building & flying an e-powered R/C
+version of my 1950 control-line stunt model, the Super Chief.
+
+...Since some of the information appears to be possibly useful to
+other SMALLsters, I've condensed several of my replies below:
+
+You asked about the Super Whattmeter. I have one of those, and 
+know how it works. But I can understand your confusion about
+making effective use of it. For one thing, ol' Bob Boucher at
+Astro Flight isn't among the top ten technical writers of all time.
+(Maybe not among the top 10,000.)
+
+For another thing, the little folder that comes with the meter says 
+essentially nothing about applications. I hate it when an item like 
+this -- or any electronic device -- carries documentation mostly 
+devoted to telling you what a great product you now own; and 
+says nothing useful about what you can DO with it -- and how.
+
+I don't suppose you need any help in hooking up the Whatt Meter.
+I DO suppose that you want to know how it can help you get optimum
+performance from your motor/battery/prop combination.
+
+First off, you've gotta have some combination of those items to start 
+with & make measurements of. The best way I know to choose
+those is to get a copy of the latest Hobby Lobby catalog. That
+contains basic performance data for a TREMENDOUS number of 
+motors and batteries.
+
+Let's say you select some combination among the ones I thought
+looked good for Super Chief power. Set up the motor, using a
+FIRM mounting arrangement. Then, instead of a prop, install an
+aircraft plywood disk (you choose the size) with a pair of black
+spots painted opposite each other. That's to enable rpm
+measurements.
+
+Oh yeah, you need a digital tach too.
+
+OK. Hook up the motor, meter, speed control too! and battery.
+Turn things on at some reasonable "throttle setting", and measure
+& record rpm and current drain. Do that again at one or two
+other speeds. No need to overdo it: three tests are plenty.
+
+Now stop; take the disk off and replace it with a prop. Next,
+turn the system back on, and set the speed such that the current
+drain is the same as one of your previous tests with the disk.
+
+Check the rpm. If it's approximately half what it was with the
+disk at that current, your prop is efficient. Try again at
+the other settings to make sure.
+
+If the prop runs much SLOWER than half the disk rpm, try a
+different prop: smaller in diameter or with less pitch.
+(Just the opposite if the prop runs a lot FASTER than half
+the disk rpm.)
+
+One more point! The rule of thumb for propeller performance is
+that the MAXIMUM POSSIBLE vehicle speed (in mph) is the prop
+pitch in inches times the rpm in thousands. The model can --
+and most likely WILL -- fly slower than that. But it CANNOT
+go faster.
+
+This is important, because if you have (for example) a "Python 30"
+external rotor motor spinning an 8-4 at 5K powering a heavy (lots
+o' batteries) scale model that needs to go 22 mph to get off the
+ground -- it ain't agonna (excuse the technical language).
+
+Back to the Whattmeter. The various measurements it's capable
+of making can (of course) be done with other electronic
+instruments, such as a digital multimeter. However, the
+Whattmeter does have two advantages.
+
+First, in a single instrument it can provide both current and
+voltage readings simultaneously. Second, its ampere capacity
+is FAR larger than that of any inexpensive multimeter. [JW]
+
+... Here's a news item someone sent in -- I accidentally
+deleted the source while editing the message -- sorry...[JW]
+
+RENO, NV. February 10, 2005 -- Altair Nanotechnologies, Inc.
+announced today that it has achieved a breakthrough in Lithium
+Ion battery electrode materials, which will enable a new generation
+of rechargeable battery to be introduced into the marketplace, as
+well as create new markets for rechargeable batteries. These new
+materials allow rechargeable batteries to be manufactured that
+have three times the power of existing Lithium Ion batteries at
+the same price and with recharge times measured in a few minutes
+rather than hours.
+
+Joe Nagy < > submitted:
+
+In response to Nick Trubov and Ian McQueen queries about the
+Cox/ThimbleDrome profile C-L model of old: I believe it was
+called the TD-4. The first of the Cox ready-to-fly control-line
+series was the TD-1, which featured a formed sheet-aluminum cell
+wing, issued in the early 1950's.
+
+It was followed by the delightful, fun to fly, but very delicate
+formed eggshell-like plastic cell wing on a model called the TD-3.
+I had one of these. It was available in the mid to late 50's.
+
+Then followed the TD-4, then the PT-19. Old Friend and C-L
+expert Dale Kirn stopped by to visit me in Phoenix a year or so
+back. Dale worked for LeRoy Cox back in the 50s, so I asked him
+what happened to the TD-3 tooling, as that little airplane really
+flew well, and with our stronger and modern plastics could be a
+real winner.
+
+Dale stated that sadly the tooling had been discarded and
+destroyed when subsequent Cox owners took over.
+
+Check eBay. Periodically you will find TD-1, TD-3, and rarely
+TD-4's offered for sale....and none go cheaply. I hope this
+little blurb has been of interest and use.
+
+Best regards from the beautiful and sunny Gulf Coast of Florida.
+
+Joe Nagy
+
+Larry Renger < > adds:
+
+The profile C*x ready-to-fly was the TD-4. I flew one only once
+and found that it had a rather interesting bad habit. If you got
+the model into a significant negative angle of attack, the wing
+would flex downward and drive you into the ground.
+
+The model was, I think, molded in Polyethylene rather than
+Polystyrene as most RTF planes were. Now they have much more
+impact-resistant versions of Polypropylene, and that seems to be
+the most rugged injection-molded plastic available.
+
+Next item: more information on the Vroom-Zoom RTF. After about
+20 flights, it suddenly has ceased to have any real performance.
+A friend is dissecting it and thinks that the problem is that the
+motor is shot.
+
+I think it is the battery, but we'll get to the bottom of it and
+report. By the way, the foam fuselage is strictly cosmetic and can
+be removed with an improvement in performance.
+
+Now a question. Has anyone ever actually used a gelatin mixture to
+seal silk instead of dope? I have heard it mentioned, but like
+Urban Myths, it was always somebody else someplace else. I would
+love to hear how it works from actual experience.
+
+Final item is to call attention to the fact that the AMA has made
+a sensible change, and you now may use .008 cable flying lines with
+up to an .08 cubic inch powered plane. In addition, .15's now
+require .010 solids instead of allowing .008 solids. I know that
+SMALLnet is averse to competition, but adhering to AMA rules is
+necessary to have the insurance coverage effective.
+
+Larry Renger * Design Engineer
+
+Don Garry < > reports:
+
+I just ordered an O.S. .18 CV-R with an 11J Rotary carb from
+Tower Hobbies, at a fantastic sale price that's good through
+February! If you can use a side exhaust engine in, say, a Sabre
+Jet ducted fan plane, you might want to try one of these.
+
+You can get one with a pull start for only $99.95 from Tower.
+Hobbies. Also, I have a code number that will get you
+"$20 off" any order of at least $50. You only have to set up
+a new account (wife, son, etc.) at Tower Hobbies in order to
+get the 20-dollar savings.
+
+< http://www2.towerhobbies.com/cgi-bin/wti0001p?&I=LXGGP5&P=0 >
+
+I have just put together a website showing a couple of unique
+model engine creations of mine. It's at:
+
+< http://community-2.webtv.net/injunnut/UniqueSMALLModel >
+
+Donald Garry 
+535 Clearview Drive 
+Cocoa, Florida 32927 
+
+Mike Hawkins < > wrote:
+
+Harry McKay wrote about the need for a Futaba AM Transmitter.
+Well, it just happens that as a Visiting Member of the Florida
+Float Flyers, I happen to have one, plus a spare Ace Silver Seven 
+Rx. (Although I have not flown this receiver for a while, it gave 
+excellent service and has plugs for JR, Hitec or Futaba servos.)
+
+The only snag is that I shall not be visiting the Tampa area
+until mid-April, when I could bring these items with me.
+
+After flying at the second most beautiful lake site in the world
+(the First was here in Bangkok, until it closed to be turned
+into a golf course last month -- Ughhhh!) I hope Ray and Ralph
+introduced you to the debriefing session afterwards, with a
+grouper sandwich at the Village Restaurant and then a stop at
+Campbell's Ice Cream parlour.
+
+Model flying can be fun and is not dangerous to your health..
+
+Let me know about the Transmitter.
+
+Dr. Mike Hawkins
+
+Howell Gwin < > contributed:
+
+So glad to see you guys back! I've belatedly subscribed to
+Flying Models, and it's so nice to see plans which resemble the
+ones I drooled over a long time ago. I'm not as active as I
+used to be, but hope to get going very soon.
+
+Electrics will probably be my area of choice. I've just converted
+the Lanier Rubber foamie (similar to the U-2) and hope to fly it
+if the Gulf Coast of Texas ever dries out! 8+}>>>. It will use a
+400 and 1.8 gear box, though I have an Astro 035 Geared in the
+wings and a geared 600.
+
+I've found so much information on the 'net (especially RCGroups)
+that I can't help wondering if the print mags are in a little
+trouble. I think Joe's the one who has commented on their lack of
+originality and I must agree. Looks like every other magazine
+plan is a copy of another one, or it's by ****.
+
+I've built and flown many of his planes over the years --but
+goodness! Aren't there any other designers still working??
+
+Question: I learned to fly on a Top Flite Headmaster and
+Enya .15 (I think). I have the wreckage (body, tail, landing gear,
+half a wing) which I'd like to rebuild. I sure could use some
+advice on what kind of e-power would do a good job. Would a geared
+600 or the AF .035 work? I don't think I'm ready for brushless or
+LiPo's yet.
+
+Again, welcome back. Howell
+
+Jon McVay < > requests:
+
+Bob Chiang, please send me your e-mail address. I tried the
+address shown in SMALLnet but it didn't work.
+
+Thanks, Jon McVay
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

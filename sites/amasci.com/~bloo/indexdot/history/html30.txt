@@ -1,0 +1,66 @@
+HTML 3.0 
+
+ HTML 3.0 
+ = Index DOT Html/Css by Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML Support
+ History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Statistics 
+
+ Author: Dave Raggett
+ Specifications: 
+ DTD - http://www.w3.org/MarkUp/html3/html3.dtd 
+ Documentation - http://www.w3.org/MarkUp/html3/CoverPage.html 
+ Timeline: 
+ - HTML+ discussion document released - November, 1993
+ - HTML 3.0 Draft specification published - March, 1995
+ - HTML 3.0 Draft allowed to expire - September, 1995
+
+ HTML + 
+
+Even while HTML was in the throes of a standardization effort, discussion
+of what would follow was a hot topic in the WWW community. Dave Raggett
+created an early discussion document for a markup language called HTML +
+in late 1993 that detailed many features later recognizable in HTML 3.0.
+HTML + was designed to be:
+
+ "A superset of HTML and...allows a
+ gradual rollover from the previous format (HTML)." 
+
+ About HTML 3.0 
+
+HTML + never became a reality. Instead, it evolved into HTML 3.0 - the
+intended successor to HTML 2.0. HTML 3.0 provided many additional capabilities
+over HTML 2.0 such as tables, text flow around figures and the display of
+complex math elements. Even though it was backwards compatible with HTML 2.0,
+the difference between HTML 2.0 and HTML 3.0 was so large that standardization
+and deployment of the whole proposal in browsers of the time proved unwieldy.
+
+ Why it is important 
+
+Even though the draft for 3.0 expired, it did have a profound effect on current
+practices in web browsers. Several of the more stable concepts of the proposal
+survived the experimental period and were either included in HTML 3.2 (Wilbur)
+or HTML 4.0. Many capabilities now commonly supported by most of the popular browsers
+also had their beginnings in HTML 3.0 such as Tables, text flow around images,
+page alignment for block structuring elements as well as other character
+level formatting elements. It is historically interesting also to note the progress
+that occurred between versions 2.0 and 3.0 in relation to the release periods
+and features of the major browsers.
+
+ Note: In these documents, several features which had
+their genesis during the HTML 3.0 creation effort (such as client side image
+maps and elements/attributes comprising complex tables) are not marked as
+being officially from HTML 3.0. In a recent decision, I decided to only
+indicate HTML 3.0 support only for those elements/attributes found in the
+last publicly available DTD for HTML 3.0 that was published. I will try to
+convey a more detailed history of such features where it seems appropriate.
+
+ Boring Copyright Stuff...

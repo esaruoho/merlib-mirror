@@ -4,9 +4,9 @@ source_domain: amasci.com
 source_path: amateur/ambooks.html
 order: 64
 reachable_from_entry: true
-images: 3
-internal_links: 8
-extracted: 2026-08-03T18:11:18Z
+images: 1
+internal_links: 0
+extracted: 2026-08-07T05:52:54Z
 extractor: site_to_paper.py (pandoc)
 ---
 
@@ -14,39 +14,7 @@ extractor: site_to_paper.py (pandoc)
 
 *Source page: `amateur/ambooks.html`*
 
-<table data-summary="nav links, google search window" width="100%">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td><table data-cellpadding="5" data-summary="Navigation links">
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong><a href="http://amasci.com/">TOP</a>  |</strong><br />
-</td>
-<td><strong><a href="http://amasci.com/unew.html">GOOD STUFF</a>  |</strong><br />
-</td>
-<td><strong><a href="http://amasci.com/news.html">NEW STUFF</a></strong><br />
-</td>
-</tr>
-</tbody>
-</table></td>
-<td style="text-align: right;" data-summary="google search" data-valign="top"><div id="google_translate_element">
-&#10;</div>
-<div>
-&#10;</div></td>
-</tr>
-</tbody>
-</table>
-
-[Up to SCIENCE HOBBYIST](http://amasci.com/index.html)
+[Up to SCIENCE HOBBYIST](http://www.eskimo.com/~billb/index.html)
 
 # SCIENCE HOBBY BOOKS, ETC.
 
@@ -54,41 +22,39 @@ extractor: site_to_paper.py (pandoc)
 
 ## Titles
 
-**[THE AMATEUR SCIENTIST](http://www.amazon.com/exec/obidos/ISBN%3D0970347626/sciencehobbyist/)** magazine column, C. L. Stong, Scientific American (magazine) [SAS Index](http://amasci.com/amateur/sciamdx.html) of SciAm Amateur Science column (huge and wonderful resource!)\
+**THE AMATEUR SCIENTIST** magazine column, C. L. Stong, Scientific American (magazine) [SAS Index](http://www.thesphere.com/SAS/SciAm/sciamidx.html) of SciAm Amateur Science column (huge and wonderful resource!)\
 
-**[INVITATIONS TO SCIENCE INQUIRY](http://www.amazon.com/exec/obidos/ASIN/187810621X/sciencehobbyist/)** by Tik Liem, 1981. A big fat book of hundreds and hundreds of classroom science demonstrations in chem, physics, etc. Detailed author's introduction on philosophy of Enthusiasm and attitude in science teaching. ISBN:0-536-05768-0, Science Inquiry Enterprises, 505 W Madison Ave \#12, ElCajon, CA 92020\
+**INVITATIONS TO SCIENCE INQUIRY** by Tik Liem, 1981. A big fat book of hundreds and hundreds of classroom science demonstrations in chem, physics, etc. Detailed author's introduction on philosophy of Enthusiasm and attitude in science teaching. ISBN:0-536-05768-0, Science Inquiry Enterprises, 505 W Madison Ave \#12, ElCajon, CA 92020\
 
-**[PROCEDURES IN EXPERIMENTAL PHYSICS](http://www.amazon.com/exec/obidos/ASIN/0917914562/sciencehobbyist/)**, by J. Strong The classic book for the advanced amateur. Get one at any cost! Avail. from [LINDSAY PUBLICATIONS](http://www.lindsaybks.com)\
+**PROCEDURES IN EXPERIMENTAL PHYSICS**, by J. Strong The classic book for the advanced amateur. Get one at any cost! Avail. from [LINDSAY PUBLICATIONS](http://www.lindsaybks.com)\
 
 **THE ART OF SCIENCE**:The Art of Science : A Practical Guide to Experiments, Observations, and Handling Data, J. Carr\
 
 **MAGNETIC MEASUREMENTS**, with info on building all sorts of magnetometers and instrumentation. From [Magnetic Research](http://www.webspan.net/~magres/), \$20.00\
 
-**[BUILDING SCIENTIFIC APPARATUS:](http://www.amazon.com/exec/obidos/ISBN%3D0813340063/sciencehobbyist/)** A Practical Guide to Design and Construction by Moore, Davis, and Greer Mechanical design, working with glass, vacuum techniques, designing and building electronic equipment. Adds to Strong's "Procedures.." above. Avail. from [LINDSAY PUBLICATIONS](http://www.lindsaybks.com)\
+**BUILDING SCIENTIFIC APPARATUS:** A Practical Guide to Design and Construction by Moore, Davis, and Greer Mechanical design, working with glass, vacuum techniques, designing and building electronic equipment. Adds to Strong's "Procedures.." above. Avail. from [LINDSAY PUBLICATIONS](http://www.lindsaybks.com)\
 
 **BUILDING YOUR OWN HOME SCIENCE LAB** An old classic, great for highschool level.\
 
-**[STRING AND STICKY TAPE EXPERIMENTS](http://www.amazon.com/exec/obidos/ASIN/0917853288/sciencehobbyist/)** by Ronald Edge, AAPT, 1981. From Publications Dept., 5112 Berwyn Rd. College Park, MD 20740. Large collection of physics demos and experiments with no exotic materials or equipment needed.\
+**STRING AND STICKY TAPE EXPERIMENTS** by Ronald Edge, AAPT, 1981. From Publications Dept., 5112 Berwyn Rd. College Park, MD 20740. Large collection of physics demos and experiments with no exotic materials or equipment needed.\
 
-**[CONCEPTUAL PHYSICS](http://www.amazon.com/exec/obidos/ASIN/0321052021/sciencehobbyist/)** (Sixth Edition), Paul Hewitt, Scott, Foresman, 1987. The best physics textbook I know. Entirely non-math, heavily illustrated with photos and the author's cartoons. I push this one on friends who are interested in physics but don't know where to start.\
+**CONCEPTUAL PHYSICS** (Sixth Edition), Paul Hewitt, Scott, Foresman, 1987. The best physics textbook I know. Entirely non-math, heavily illustrated with photos and the author's cartoons. I push this one on friends who are interested in physics but don't know where to start.\
 
-**[SEEING THE LIGHT](http://www.amazon.com/exec/obidos/ASIN/0471603856/sciencehobbyist/)** by David Falk, Dieter Brill, and David Stork, John Wiley, 1986. An amazing compendium of all of optical science. Heavy on the conceptual/qualitative side, with occasional stories and bits of twisted humor. If you want to teach yourself optics from scratch, this book you must have.\
+**SEEING THE LIGHT** by David Falk, Dieter Brill, and David Stork, John Wiley, 1986. An amazing compendium of all of optical science. Heavy on the conceptual/qualitative side, with occasional stories and bits of twisted humor. If you want to teach yourself optics from scratch, this book you must have.\
 
-**[THE FLYING CIRCUS OF PHYSICS WITH ANSWERS](http://www.amazon.com/exec/obidos/ASIN/047102984X/sciencehobbyist/)** by Jearl Walker, John Wiley, 1977\
+**THE FLYING CIRCUS OF PHYSICS WITH ANSWERS** by Jearl Walker, John Wiley, 1977\
 
-**[THINKING PHYSICS](http://www.amazon.com/exec/obidos/ASIN/0935218084//sciencehobbyist/)** by Lewis Carroll Epstein, Insight Press, 1986 Illustrated multiple-choice conceptual physics problems related to the real world - with solutions. This is one of those "secret books" recommended by the student grapevine...\
+**THINKING PHYSICS** by Lewis Carroll Epstein, Insight Press, 1986 Illustrated multiple-choice conceptual physics problems related to the real world - with solutions. This is one of those "secret books" recommended by the student grapevine...\
 
-**[TURNING THE WORLD INSIDE-OUT](http://www.amazon.com/exec/obidos/ASIN/0691023956/sciencehobbyist/)** by Robert Ehrlich, Princeton University Press, 1990\
+**TURNING THE WORLD INSIDE-OUT** by Robert Ehrlich, Princeton University Press, 1990\
 
-[PHYSICS BOOKLIST](http://math.ucr.edu/home/baez/physics/Administrivia/booklist.html) from [Sci.Physics FAQ](http://math.ucr.edu/home/baez/physics/)\
-
-[Kids Books](http://amasci.com/amateur/sciexp.txt), Dewey Decimal 507\
+[PHYSICS BOOKLIST](http://www-hpcc.astro.washington.edu/faq/physics/booklist.html) from [Physics FAQ](http://www-hpcc.astro.washington.edu/faq/physics/faq.html)\
 
 ------------------------------------------------------------------------
 
 Have you discovered BACK ISSUES OF SCIENTIFIC AMERICAN? This magazine has had the Amateur Scientist column since about 1950, and it's loaded with all kinds of incredible project descriptions. A sample: electron microscope, 1/2 Megavolt particle accelerator, antibubble machine, CO2 high wattage laser, satellite image receiver, much more. Here's the index, provided by the SAS:
 
-[<img src="http://amasci.com/amateur/saslgosm.gif" data-align="absmiddle" alt="[SAS Logo]" />](http://amasci.com/amateur/sciamdx.html)SAS Index of Sci Am Amateur Science column (excellent!)\
+[<img src="http://www.eskimo.com/~billb/amateur/saslgosm.gif" data-align="absmiddle" alt="[SAS Logo]" />](http://www.thesphere.com/SAS/SciAm/sciamidx.html)SAS Index of Sci Am Amateur Science column (excellent!)\
 \
 NEWS FLASH: Dr. Shawn Carlson, founder and head of the Society for Amateur Scientists, is taking over SciAm's AMATEUR SCIENTIST column beginning in October. And the SAS Website is being completely overhauled in preparation!
 
@@ -139,6 +105,12 @@ NEWS FLASH: Dr. Shawn Carlson, founder and head of the Society for Amateur Scien
 
 ### PUBLISHERS
 
+    International Tesla Society    Call up and order their "Resource Guide"
+    PO Box 5636                    and book catalog.  Books and even videos on
+    Colorado Springs, CO 80931     Tesla coil construction, Electrostatic
+    719-475-0918                   generators, Tesla history, unconventional
+                                   science, etc.
+
     Tab Books                      They carry several books on kid's science
     Blue Ridge Summit, PA  17214   experiments.
 
@@ -148,13 +120,8 @@ NEWS FLASH: Dr. Shawn Carlson, founder and head of the Society for Amateur Scien
                                    fireworks, embalming, soda pop, etc.  Get
                                    off your butt and get on their mailing list!
 
-<http://amasci.com/amateur/ambooks.html>\
-Created and maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\
+------------------------------------------------------------------------
 
-<div class="statcounter">
+    Mail me at: billb@eskimo.com
 
-<a href="http://statcounter.com/shopify/" target="_blank" title="shopify stats"><img src="http://c.statcounter.com/10408414/0/00267183/0/" class="statcounter" alt="shopify stats" /></a>
-
-</div>
-
-[View My Stats](http://statcounter.com/p10408414/?guest=1)
+If you are using Lynx, type "c" to send me a comment. billb@eskimo.com

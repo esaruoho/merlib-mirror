@@ -1,0 +1,334 @@
+Pull 147 -- Spring Fever
+ -- Day 1 
+
+ Spring Fever 
+Missoula, Montana 
+
+ Pull: 147 
+ Organizer(s): Ingrid Rosenquist 
+ Wheels on Carpet
+ Region: 3 
+
+ Track: 
+ Fine. 
+ Date: 
+Sat
+ 23 
+Mar
+ 2002 
+
+ Weather: 
+ N/A 
+
+ Day 1 of 2 
+
+ Color Codes 
+ % -- Working Dog (WD) Leg Eligibility 
+ WD 
+ WD Excellent 
+ WD Superior 
+
+ Handler -- Owner / Handler relationship 
+ Owner 
+ Family Member 
+ Other Membership 
+
+ Chief Judge: Teressa Keenan 
+
+ 40 # Class 
+
+Judged by 
+Teressa Keenan
+
+ 200 # Start weight, 
+ 80 # Increment, 
+Cart weighs 
+ 200 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Cassie 
+ 2 
+ 680
+
+ 23.62 
+ 27 
+ 25.19 
+ 7.0 
+ Morgan Star
+ Marlana Ashlie
+
+ Cattle Dog 
+
+ Jar Jar Binks 
+ 2 
+ 600
+
+ 9.15 
+ 35 
+ 17.14 
+ 4.0 
+ Morgan Star
+
+ Australian Cattle Dog 
+
+ Eddie 
+ 2 
+ 600
+
+ 13.90 
+ 28 
+ 21.43 
+ 1.0 
+ Bob Daymude
+
+ Schipperke 
+
+ 60 # Class 
+
+Judged by 
+none Unknown
+
+ 200 # Start weight, 
+ 80 # Increment, 
+Cart weighs 
+ 200 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Inferno 
+ 3 
+ 1160
+
+ 28.94 
+ 58 
+ 20.00 
+ 6.0 
+ Karen James
+
+ Blue Heeler 
+
+ Poe 
+ 3 
+ 520
+
+ 10.00 
+ 59 
+ 8.81 
+ 3.0 
+ Ingrid Rosenquist
+
+ Australian Cattle Dog 
+
+ 80 # Class 
+
+Judged by 
+Karen James
+
+ 400 # Start weight, 
+ 120 # Increment, 
+Cart weighs 
+ 200 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Nuka Tu 
+ 2 
+ 1720
+
+ 51.65 
+ 78 
+ 22.05 
+ 9.0 
+ Bob Daymude
+ Donna Daymude
+
+ Alaskan Malamute 
+
+ Timber 
+ 2 
+ 1480
+
+ 21.69 
+ 74 
+ 20.00 
+ 6.0 
+ Judith McCauley
+
+ Siberian Husky 
+
+ Aky 
+ 3 
+ 1360
+
+ 7.90 
+ 70 
+ 19.43 
+ 3.0 
+ Marielle Schmidt
+ Teressa Keenan
+
+ German Shepherd 
+
+ Kianna 
+ 2 
+ 880
+
+ 41.40 
+ 68 
+ 12.94 
+ 1.0 
+ Ramona Locke
+
+ Alaskan Husky 
+
+ Kady 
+ 2 
+ 760
+
+ 17.10 
+ 75 
+ 10.13 
+ 0.5 
+ Jaci Rodgers
+
+ Labrador Retriever 
+
+ 100 # Class 
+
+Judged by 
+none Unknown
+
+ 400 # Start weight, 
+ 120 # Increment, 
+Cart weighs 
+ 200 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Eskimo 
+ 2 
+ 640
+
+ 13.03 
+ 91 
+ 7.03 
+ 5.0 
+ Jaci Rodgers
+ Bob Daymude
+
+ Alaskan Malamute 
+
+ 125 # Class 
+
+Judged by 
+Teressa Keenan
+
+ 400 # Start weight, 
+ 120 # Increment, 
+Cart weighs 
+ 200 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Pachino 
+ 3 
+ 1240
+
+ 14.63 
+ 101 
+ 12.28 
+ 5.0 
+ Marielle Schmidt
+
+ Rottweiler 
+
+ Unlimited Class 
+
+Judged by 
+Teressa Keenan
+
+ 400 # Start weight, 
+ 120 # Increment, 
+Cart weighs 
+ 200 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Lewis 
+ 2 
+ 1720
+
+ 11.88 
+ 175 
+ 9.83 
+ 5.0 
+ Ron Rodgers
+
+ Newfoundland 
+
+ Last Updated: 01:31:05 on 03-30-2002 
+
+ Pull Index 
+ Previous Pull # 
+ Next Pull # 
+ IWPA Home Page 
+
+ Standings ==> 
+ Wheels 
+ Snow 
+ Upcoming Pulls

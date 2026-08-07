@@ -1,0 +1,27 @@
+---
+title: "Sept 2 - LeBear Day"
+source_domain: amasci.com
+source_path: ~drmrdave/sept2.html
+order: 2844
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T05:56:23Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Sept 2 - LeBear Day
+
+*Source page: `~drmrdave/sept2.html`*
+
+> ### More lame ass adventures
+>
+> Well, this funfilled weekend was chock full of wild, reckless adventure. ha! Well, I went to Milw. with a friend of mine for Lebear weekend. It started off casual enough, and we just decided to hit the IMAX theatre that was friggin cool! Well, except that there isn't any popcorn there. We then moved down to the 'BootCamp' bar for the picnic..and it started off kinda slow, with us now knowin anyone. Then one of the Brew City Bears came over, and said howdy, and things went good from there...fun group, plus some familiar faces from Madison. We had a good time, and then went to find a hotel room. We got checked in, and a few of us decided to check out the 'Safe House' -- twas really neato! I highly reccomend it, and NO, I'm not giving anyone the password! We also had a little bite to eat at Ed Debevicks..YUM..AND, our waiter was friggin awesome. He TOTALLY played on the fact that we were all gay (oh yeah, for those of you who don't know..this place has deliberately RUDE service..fun fun ) and had us in stitches the whole time!
+>
+> We then went to the bar night at the Harbor Room...kinda a neat outside patio...some fun contests (best chest, best butt, best facial hair). Pretty fun night...then, we went to the after bar party at the hotel...it was, um..a little different then I'd expect..but then again, I'm naive.
+>
+> Sounds good so far eh?? -- well, except...and yeah, for those of you who want to avoid drama, or any type of some pathetic person crying about some frivilous event...by all means, close your fucking browser please. I had sorta a realization while I was out. It started pretty innocently, by someone pointing out that I had grey hair in my goatee. I thought I was big enough to shrug such a statement out..but jesus, how that bothered me. I sat up most of the night wondering, thinking...is this all there is ? The grey hair just confirmed what I already pretty much knew...but always found ways to avoid thinking about it.. and that is, I'm getting older. That in and of itself isn't a big deal..everyone gets older. But what make this kinda stick out, was, the fact that I still don't have a relationship with anyone.. You know...friends are relationships too, but I'm talking about ..hrmm..some might call it a 'boyfriend', but I'd like to think of it as a best friend. Corny no ? oh well...it kinda got me down. I really dislike the response I have heard when I try and talk about this with someone...I usually get 'theres someone for everyone' or, 'you'll find someone'. Sometimes, I ask if I'm even worth dating..mostly a woe is me attitude that won't get me too far..heh. But I still think it.
+>
+> When I was asked about why I belong to this bear group ...I thought hard about it, and came to an answer that bothered me, but its the stone cold truth..and that is, I like this group because they find me attractive sometimes..I'll clarify that by adding, they don't mind a homley, hairy fat geek of a guy ..hehe. I can be me, and not care if Im not a god damn model -- And yeah, Thats what I consider myself..sorry to be such a pisshead about describing myself. I know it shows a serious lack of self esteem , but hey, its how I feel at this particular moment in life. I know its something I have to work on. I try and tell myself all the time that, looks don't matter , its the 'inside'..blah blah. Fucking looks DO matter...if someone won't give you the time of day because you don't look 'good' then how the hell are you gonna find out what lies beneath? OH , yeah I know...someone like that isn't 'worth my time' -- probably not..but, it still hurts like hell. Someone said, you can't judge a book by it's cover, but, if the cover doesn't grab your attention are you really gonna look inside ? Man, this sounds like a fucking pity party for dave..never mind..its helping to just put my thoughts down. It seems I have a bit of soul searching to do...anyone got some advice?
+
+[Return](index.html) to the sloppy homepage

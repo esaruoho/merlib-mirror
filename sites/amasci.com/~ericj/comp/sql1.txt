@@ -1,0 +1,87 @@
+SQL Tutorial: Creating Tables, Inserting and Updating Data 
+
+ SQL Tutorial I 
+ -- Creating Tables, Inserting Data, Updating Data -- 
+
+ Back to the PostgreSQL Tutorials List 
+
+ Creating Tables 
+
+ Now that we're in, we want to create a table. Note how the prompt changes if
+you don't end the current line with the command-end character ';' (similar to other
+programming languages that can span across lines). 
+
+ericj=> CREATE TABLE "stock_data" ( 
+ericj(> "symbol" varchar(5), 
+ericj(> "purch_date" date, 
+ericj(> "purch_price" float, 
+ericj(> "shares" int, 
+ericj(> "curr_date" date, 
+ericj(> "curr_price" float 
+ericj(> ); 
+ericj=> 
+
+ Inserting Data 
+
+ And now we need to insert some data. 
+
+ericj=> INSERT INTO "stock_data" VALUES 
+ericj-> ('CAT', '2000-02-24', 37.8125, 13, '2000-10-06', 34.5); 
+ericj=> INSERT INTO "stock_data" VALUES 
+ericj-> ('DD', '2000-02-24', 53.25, 9, '2000-10-06', 34.5); 
+ericj=> 
+
+ This can take a lot of typing for large amounts of data, so there's an alternate
+method I'll use to add the rest. This uses Tab-delimited lines that you can cut-n-paste
+from other applications as well. Don't pad them with spaces or commas, just Tabs, one
+for each column. 
+
+ericj=> COPY "stock_data" FROM stdin; 
+Enter data to be copied followed by a newline.
+End with a backslash and a period on a line by itself.
+>> IP 2000-02-24 40.25 12 2000-10-06 29.8125 
+>> SBC 2000-02-24 35.75 13 2000-10-06 53.3125 
+>> CAT 2000-09-21 34.8125 14 2000-10-06 53.3125 
+>> DD 2000-09-21 38.75 12 2000-10-06 44.5625 
+>> IP 2000-09-21 28.8125 17 2000-10-06 29.8125 
+>> T 2000-09-21 29.25 17 2000-10-06 27.25 
+>> \. 
+ericj=> 
+
+ Updating Data 
+
+ Updating is done in a way similar to simply inserting data, but in order
+to tell the SQL server to change a record already listed, we also need to
+tell it which record(s) to change. This is done with the command "UPDATE"
+which has a "SET" clause to specify which fields to update and a "WHERE"
+clause to limit this update to a specific record (or multiple records): 
+
+ericj=> UPDATE "stock_data" 
+ericj-> SET "curr_date" = 2000-10-12, 
+ericj-> SET "curr_price" = 31.875 
+ericj-> WHERE "symbol" = "CAT"; 
+ericj=> 
+
+ In this example (until Part II), this will actually update two 
+records, since there are two rows that match the "CCCC" symbol with a current
+date and price. Part II will show how to split this up into two tables so
+that the current data is only listed once. 
+
+ Next Part: 
+ Queries and Output 
+
+ Back to the PostgreSQL Tutorials List 
+
+-->
+
+ Home 
+ Reviews 
+ Clubs 
+ Conventions 
+ Shopping 
+ About Me 
+
+ Feedback Appreciated .
+
+ Copyright &copy;1994-2003 by Eric T. Jorgensen. 
+ All rights reserved. Do not copy/redistribute.

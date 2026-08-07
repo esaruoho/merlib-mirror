@@ -1,0 +1,57 @@
+Question 11.12 
+
+ Question 11.12 
+
+Can I declare main as void ,
+to shut off these annoying ``main returns no value'' messages?
+
+ No.
+ main must be declared as returning an int ,
+and as taking either zero or two arguments,
+of the appropriate types.
+If you're calling exit() but still getting warnings,
+you may have to insert a redundant return statement
+(or use some kind of ``not reached'' directive, if available).
+ Declaring a function as void does not merely
+shut off or rearrange
+warnings:
+it may also result in a different
+
+function call/return sequence,
+
+incompatible with what the caller
+(in main 's case, the C run-time startup code)
+expects.
+
+ (Note that
+this discussion of main 
+pertains only to ``hosted'' implementations;
+none of it applies to ``freestanding'' implementations,
+which may not even have main .
+However,
+freestanding implementations are comparatively rare,
+and if you're using one,
+you probably know it.
+If you've never heard of the distinction,
+you're probably using a hosted implementation,
+and the above rules apply.)
+
+ References:
+
+ANSI Sec. 2.1.2.2.1, Sec. F.5.1
+
+ISO Sec. 5.1.2.2.1, Sec. G.5.1
+
+H&S Sec. 20.1 p. 416
+
+CT&P Sec. 3.10 pp. 50-51
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

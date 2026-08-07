@@ -1,0 +1,184 @@
+---
+title: "Gargoyles Fanfic master list"
+source_domain: amasci.com
+source_path: ~vecna/gargoyles_fanfic_master_list.html
+order: 9243
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T06:01:47Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Gargoyles Fanfic master list
+
+*Source page: `~vecna/gargoyles_fanfic_master_list.html`*
+
+<img src="Garg_fan_fic_title.gif" width="535" height="100" />\
+ \
+ 
+
+**Main Saga Master List:**
+
+|  |
+|----|
+| [Something Old, Something New](http://www.eskimo.com/~vecna/garg01.htm) --  Captain Chavez makes a startling discovery in the precinct attic; Hudson recalls his first true love. |
+| [Passions](http://www.eskimo.com/~vecna/garg02.htm) -- An exploration of some mature themes, for suitably mature readers only. |
+| [Ever After](http://www.eskimo.com/~vecna/garg03.htm) -- In 2031, the impossible alliance takes place and two age-old foes become one. Mature readers only. |
+| [Where You Need to Be](http://www.eskimo.com/~vecna/garg04.htm) --  Lexington's online pen pal wants to meet ... and what *is* Owen up to? |
+| [Family Reunion](http://www.eskimo.com/~vecna/garg05.htm) --  A sequel to Passions, for mature readers only; Elisa attends a family gathering in Las Vegas and tells all to Beth. |
+| [Sins of the Father](http://www.eskimo.com/~vecna/garg06.htm) --  Sevarius is determined to save the life of his son, at any cost. Mature readers only due to violence. |
+| [Confession](http://www.eskimo.com/~vecna/garg07.htm) --  Brooklyn reveals a long-kept secret about events in the episode "Temptation;" for mature readers only. |
+| [The Tempest](http://www.eskimo.com/~vecna/tempest.htm) --  The year is 1974 and somewhere off the coast of Maine, Halcyon Renard is experimenting with weather control. |
+| [The Heist](http://www.eskimo.com/~vecna/heist.htm) --  Vito Draconi is about to make the biggest mistake of his life -- robbing the Illuminati. And Matt Bluestone is about to find out that getting what he wanted isn't what he wanted it to be. |
+| [Attraction](http://www.eskimo.com/~vecna/attract.htm) --  A sequel to The Tempest.  The year is 1988 and the place is Seattle.  When Xanatos and Fox meet again. it's like magic.  Mature readers only. |
+| [Sterling Silver](http://www.eskimo.com/~vecna/silver.htm) --  Owen underestimates Aiden Ferguson's talent and his life will never be the same. |
+| [Kittens](http://www.eskimo.com/~vecna/kittens.htm) --  Some uninvited guests crash Maggie's baby shower. Mature readers only due to violence. |
+| [Night Moves](http://www.eskimo.com/~vecna/moves.htm) --  Elisa discovers the power of the little black dress.  Mature readers only. |
+| [Double Date](http://www.eskimo.com/~vecna/dbldate.htm) --  Thailog turns up playing bass in a rock band, and it's up to Lex and Broadway and their dates to figure out what's going on. |
+| [The Eurydice Project](http://www.eskimo.com/~vecna/eurydice.htm) --  Matt Bluestone doesn't believe in ghosts, magic or an afterlife.  He's about to be proven wrong. |
+| [A Gargoyles Christmas Special](http://www.eskimo.com/~vecna/gar_xmas.htm) --  City sidewalks.  Busy sidewalks.  It's Christmas time in the city . . . |
+| [Angela's Awakening](http://www.eskimo.com/~vecna/angela.htm) --  A tale of coming of age on Avalon.  Mature readers only. |
+| [A Noble Indiscretion](http://www.eskimo.com/~vecna/indescrt.htm) --  Prince Malcolm's diary reveals a long-kept secret. |
+| [Future Imperfect](http://www.eskimo.com/~vecna/futurei.htm) --  Manhattan.  No more pollution.  No more crime.  Almost paradise.  Or is it? Lex and Aiden are about to find out. |
+| [Black Roses](http://www.eskimo.com/~vecna/roses.htm) --  A series of brutal murders lead Elisa and Matt to wonder:  Is Goliath a suspect . . . or the next target?  Mature readers only. |
+| [Baby Makes Three](http://www.eskimo.com/~vecna/babym3.htm) --  Previously on ER  . . . no, wait  . . . previously on Gargoyles (a sequel to Ever After). |
+| [Mother's Day](http://www.eskimo.com/~vecna/mothers.htm) --  Anastasia Renard and Dominique Destine discover they have something in common -- daughters who don't understand that sometimes Mother knows best. |
+| [Whirlwind](http://www.eskimo.com/~vecna/whirlw.htm) --  Beth Maza is seeing someone, and she has reason to worry that her father won't approve.  Mature readers only. |
+| [Lost and Found](http://www.eskimo.com/~vecna/lost_fnd.htm) --  A lonely woman finds a very unusual souvenir on the bluffs near Castle Wyvern. |
+| [Love Machine](http://www.eskimo.com/~vecna/love.htm) --  Party favors courtesy of Spank Me Mama. Cake by Bakerotique. Mr. and Mrs. Xanatos host the bachelor/ette parties for Goliath and Elisa. Mature readers only!!! |
+| [The Wedding](http://www.eskimo.com/~vecna/wedding.htm) --  The big night is finally here!  And so are some unexpected guests.  Rated PG-13 for Adult Situations. |
+| [Fallen Angels](http://www.eskimo.com/~vecna/Fallen.htm) --  Horatio said it best: "So shall you hear of carnal, bloody, and unnatural acts." Mature readers only! Demona seeks her revenge on Thailog. |
+| <u>[Lead Me Not ...](http://www.eskimo.com/~vecna/leadme.htm)</u> --  The dynamic duo of Aiden and Birdie are back in this tale of kidnaping, car theft, magic, and mayhem! Mature readers only. |
+| <u>[Romances](http://www.eskimo.com/~vecna/romance.htm)</u> --  Three stories in one! "Girl Talk" -- for those Angela and Brooklyn fans (mature readers only for this one!); "Fairy Favours" -- a look at Owen's private life; and "First Date" -- Preston Vogel and Robyn Canmore go out. |
+| [Playing God](http://www.eskimo.com/~vecna/playgod.htm) --  Anton Sevarius is back from the dead and he's had an unbelievable makeover. |
+| On the Rocks --  *\[removed at the request of Spider Robinson\]* |
+| <u>[Flashie Thing](http://www.eskimo.com/~vecna/flashie.htm)</u> --  The message Matt Bluestone leaves on his partner's answering machine mentions alien artifacts and government agents, just before he disappears. |
+| [Broadway Goes to Avalon](http://www.eskimo.com/~vecna/broadway.htm) --  Elektra is persuaded to tell Katherine the truth about her parentage, with tragic consequences. |
+| [The Wreck of the Margot](http://www.eskimo.com/~vecna/margot.htm) --  Brendan is hosting his sister's birthday party aboard his brand new yacht. Guess where Avalon sends Broadway and Elektra. |
+| [Menagerie](http://www.eskimo.com/~vecna/menag01.htm) --  Another magical blunder from the people who brought you Owen-and-Cordelia-in-love. |
+| [Club Gung-Ho](http://www.eskimo.com/~vecna/gungho.htm) --  Hudson and Jericho get more than they bargained for when they both sign up for the "complete commando-training vacation experience." Mature readers only due to violence. |
+| [The Horror of Innsbrook](http://www.eskimo.com/~vecna/innsbrk.htm) --  "You can tell it's Lovecraftian, because I use the word 'cyclopian' in it." -- Neil Gaiman, April 1995. |
+| [Xantasia](http://www.eskimo.com/~vecna/xantasia.htm) --  David Xanatos returns to a life of crime, meets another woman, and gets shot. Avalon sends Broadway and Elektra someplace fun. And Aiden gets caught with another guy. |
+| [FoxFire](http://www.eskimo.com/~vecna/foxfire.htm) --  To save her son from Oberon's revenge, Fox must face some demons from her past. Strong language. |
+| [Lyre, Lyre](http://www.eskimo.com/~vecna/lyrelyre.htm) --  Flashforwards to the future show  lives and destinies to be linked. Some violence; reader discretion advised. |
+| [The Pure and the Profane](http://www.eskimo.com/~vecna/pure_pro.htm) --  Betrayal. Murder. Lust. Obsession. Those who don't like the direction the Demona and Jericho storyline has been progressing should stay well clear of this one! Mature readers only. |
+| [Tales From the Skiff](http://www.eskimo.com/~vecna/skiff.htm) --  Two short stories for the price of one, that take place before Broadway, Brendan, and Elektra got home from their travels.  |
+| [Three of a Kind](http://www.eskimo.com/~vecna/three.htm) --  From beyond the grave, the Archmage reaches out in revenge against the Weird Sisters. Instrumental in his plans: Gabriel's three mates, and Tiffy, Muffy, and Babs. Mature readers only due to violence. |
+| [Hotwire](http://www.eskimo.com/~vecna/hotwire.html) --  T.J. is having some trouble adjusting to life in the castle, until he, Lex, and Brooklyn go out for some male bonding. Mature readers due to strong language. |
+| [Dear Diary](http://www.eskimo.com/~vecna/deardiary.html) --  A short look at Aiden's thoughts as she makes a big lifestyle change. |
+| [Breeding Season](http://www.eskimo.com/~vecna/breed01.html) --  The clan prepares for some new arrivals. In two parts due to length. Mature readers only, please. |
+| [Shameless Plug](http://www.eskimo.com/~vecna/s_plug.html) --  It's not Aiden's fault this time. A magical accident sends two gargoyles and one little boy into a world of magic and adventure. |
+| [Jericho on the Island of Amazon Women](http://www.eskimo.com/~vecna/amazon.html) --  With a title like that, what more needs to be said? Mature readers only! |
+| [Ice Queen](http://www.eskimo.com/~vecna/icequeen.html) --  Owen Burnett used to wish he knew more about Cordelia St. John's past and family. Now he knows ... Mature readers only due to some adult content and language. |
+| [What Might Have Been](http://www.eskimo.com/~vecna/might01.html)  --  Whether 'tis nobler in mind ... One gargoyle's choice makes all the difference in the world. This story is in two parts due to length; rated PG-13 for some adult content and violence. |
+| [Cats and Dogs](http://www.eskimo.com/~vecna/catsdogs.html) --  In the Amazing Oddities show, not all the freaks are the ones on display, and the real thrills are by private arrangement only. Mature readers due to violence, profanity, and sexual content. |
+| [The Scottish Rogue](http://www.eskimo.com/~vecna/s_rogue.html) --  Dead men tell no tales ... but an immortal never forgets. Mature readers due to some sexual content and violence. In two parts due to length. |
+| [Dark Beauty Part One: Pursuit](http://www.eskimo.com/~vecna/beauty_1.html) --  Hair as white as snow. Eyes as red as blood. Skin as black as ebony.  |
+| [Dark Beauty Part Two: The Institute](http://www.eskimo.com/~vecna/beauty_2.html) --  Ebon and Gabriel relate their ill-fated rescue mission. |
+| [Masks](http://www.eskimo.com/~vecna/masks.html) --  Sex, distrust, and Machiavellian deception. Mature readers only. |
+| [Demon Whispers](http://www.eskimo.com/~vecna/demon_w.html) --  Demona's daydream, or Jon Castaway's nightmare? Mature readers only. |
+| [Precocious](http://www.eskimo.com/~vecna/amber.html) --  Everyone knew that raising Amber Maza would be an adventure. But they had no idea it would be so much, so soon. Some strong language. |
+| [The Guardians: Alchemist](http://www.eskimo.com/~vecna/alchem.html) --  The hope for the future may be found in the past. First of the "Guardians" stories. |
+| [Indigo](http://www.eskimo.com/~vecna/indigo.html) --  What would you give for the perfect body? Mature readers only, please. |
+| [Beth of Both Worlds](http://www.eskimo.com/~vecna/bethboth.html) --  The "Party on Avalon" sequel to Whirlwind. |
+| [Revenge of the Amazon Women](http://www.eskimo.com/~vecna/rev_amz.html) --  The Golden One is back and ready for a rematch. Mature readers only, please. |
+| [The Boy With the Healing Hands](http://www.eskimo.com/~vecna/healing_hands.htm) --  A power like Julian's could change the world, but who has the right to decide if, when, and how to use it? |
+| [Puck Teaser](http://www.eskimo.com/~vecna/puck_tzr.html) --  A light-hearted dare between lovers takes a dangerous and peculiar turn. Mature readers only, please. |
+| [Damien, Part One: Atonement](http://www.eskimo.com/~vecna/damien01.html) --  The most despicable deeds can be done out of love ... especially if it's a Jericho kind of love. Mature readers only, please. |
+| [Damien, Part Two: Unholy Alliances](http://www.eskimo.com/~vecna/damien02.html) --  Threats of blackmail by Jason Canmore prompt Demona to open the Grimorum Necronum ... which would be a big mistake even under ordinary circumstances! Some violence. |
+| [Damien, Part Three: Devil's Night](http://www.eskimo.com/~vecna/damien03.html) --  Little Damien is all grown up and raising hell ... literally. Mature readers only, please, due to violence and some sexual content. |
+| [Lylth](http://www.eskimo.com/~vecna/lylth.html) -- Trapped in Hell in the wake of Devil's Night, Demona encounters an ancient power and learns of the origins of the gargoyle race. |
+| [Battle of the Sexpots](http://www.eskimo.com/~vecna/sexpots.html) -- A bit of crossover silliness first posted in the Adult Fanfic Archives; mature eyes only. |
+| [Shameless Plug II: Heartaches](http://www.eskimo.com/~vecna/s_plug_2.html) --  Set before the events in the "Damien" stories, young Alexander Xanatos gets carried away with a spell and brings unexpected visitors to Castle Wyvern. A crossover with the [MageLore](http://www.eskimo.com/~vecna/magelore_index.html) books. |
+| [Bad Girls](http://www.eskimo.com/~vecna/badgirls_main.html) -- An explosive fanfic novella inspired by part of Greg Weisman's "master plan," but with a few differences ... |
+| [The Legend of Lizard Valley](http://www.eskimo.com/~vecna/lizard_valley.html) -- Every hundred years, Tom the Guardian left Avalon in search of Goliath and his clan. When his travels take him to the late 19th century, he finds himself caught up in a strange case of wagers, magical powers, and uncanny lookalikes. |
+| [Shameless Plug III: Labyrinth](http://www.eskimo.com/~vecna/s_plug_3.html) --  An urchin from a medieval city and a prince from a modern one meet when a slumber party story spawns a wager ... a wager which pre-teen Alexander Xanatos is determined to win. A crossover with the [MageLore](http://www.eskimo.com/~vecna/magelore_index.html) books. |
+| [Unmentionables](http://www.eskimo.com/~vecna/unmentionables.html) --  Birdie takes Aiden shopping at Spank Me Mama in a story originally written for the [Avalon Mists](http://www.gargoyles-fans.org/avmists/) "Titania's Secret Catalog" writer's challenge.  |
+| [Coventry](http://www.eskimo.com/~vecna/coventry.html) --  The luscious Godiva is back, opening her own Las Vegas resort and ready to present her new clan to the world. Joining her are Coldstone, Coldfire, and two of their sons.  Mature readers only, please, due to adult language, some sexual content, and violence.  |
+| [Brothers](http://www.eskimo.com/~vecna/brothers.html) --  It's 2011 and Angus is growing up. Gabriel thinks it's for the best if he escapes Godiva's influence before she gets her talons into him. Their quest for other gargoyles leads to a showdown with some eerily familiar scientists. Some violence and sexual content. |
+| [Cold Hearts](http://www.eskimo.com/~vecna/cold_hearts.html) --  Four years have gone by since Gabriel and Angus struck out on their own. Now they want to come back to the Coventry, but Coldfire is still afraid that Godiva may try to ruin their lives. Luckily, Hoshi's got an ace up her kimono sleeve, a way to make sure once and for all that Godiva stays away from the off-limits males. Some sexual content. |
+| [Not Forgotten](http://www.eskimo.com/~vecna/not_forgotten.html) --  Three stories in one -- "Spare Parts," "Renewal" and "Hill People" -- as the fates of a few neglected characters are finally wrapped up. Rated R for language, violence, and some sexual content.  |
+
+**Spinoff Saga: The Guardians**\
+A follow-up series to the original stories, mostly set in the years 2015 to 2035
+
+|  |
+|----|
+| [Bittersweet](http://www.eskimo.com/~vecna/bittersweet.html) -- Amber brings Old-Mother on a visit to a time not her own, to meet the new generation of the Manhattan Clan. Many questions about the events following Devil's Night are answered and more than a few new ones are raised.  |
+| [Sisterhood](http://www.eskimo.com/~vecna/sisterhood.html) -- The jealous Magus has unleashed evil forces against Prince Corwin in an effort to discredit the gargoyles and steal the secret of Amber's power. |
+| [Cobalt](http://www.eskimo.com/~vecna/cobalt.html) -- Trapped in the past, Amber Maza and the clan's Teacher, the four-races crossbreed Cobalt, seek an answer on Avalon.  |
+| [The Entombed Lady](http://www.eskimo.com/~vecna/entombed.html) -- For 1078 years, Amber Maza has been imprisoned on Avalon. Now, as a rescue party sets out in search of her, they find they're not the only ones with a mission. Morgana St. John hasbusiness of her own on that island. |
+| [Speed Demons](http://www.eskimo.com/~vecna/speed_demons.html) -- Sterling Academy junior Dee Maza is used to being the track star, until the new guy in school goes out for the team. With the annual competition coming up, and rival Diamond Academy promising a new coach who works wonders on their team, Dee faces her first real challenge.  |
+| [Shadow Path](http://www.eskimo.com/~vecna/shadowpath.html) -- Tom Maza told his family he was going to Africa to meet the were-panthers. His letters home have told of his adventures. But his letters home have lied. Tom is deep into a dangerous situation, which is about to get worse. Mature readers only due to violence and sexual content. |
+| [The Nature of Evil](http://www.eskimo.com/~vecna/natureofevil.html) -- Her father thinks she needs to practice leadership. Her friend Percy Bluestone thinks it will be fun. But little does Amber Maza know that something as simple as taking the hatchlings on a camp-out will change her life, and that of the entire clan, forever. Some violence. |
+| [The Second World Tour](http://www.eskimo.com/~vecna/second_tour.html) -- Goliath and Elisa set off on a voyage of discovery, to meet new clans and reunite with old friends, in hopes of establishing a global community of gargoyles. Meanwhile, in Manhattan, Brooklyn and Amber are left in charge.  |
+| [Only the Good, Part One](http://www.eskimo.com/~vecna/only_good_01.html) -- At the end of Devil's Night, Jericho was dropped into the deepest pits of Hell. Some would say that it couldn't have happened to a more deserving guy. They'd be right. But there's also that charming old proverb: *Heaven doesn't want me, and Hell's afraid I'll take over*. Besides, he's got some unfinished business topside ... Mature readers only, please, due to violence, language and sexual content. |
+| [Only the Good, Part Two](http://www.eskimo.com/~vecna/only_good_02.html) -- The clan receives the devastating news of events in Maine. And Brooklyn, as leader, realizes it's up to him to do something about the very real problem of Jericho's return. He'll find out the hard way that this will prove to be even more of a challenge than originally anticipated. Mature readers only, please, due to strong language and violence. |
+| [Only the Good, Part Three](http://www.eskimo.com/~vecna/only_good_03.html) -- How do you solve a problem like Jericho? Alexander Xanatos will need all his wit, skill and cunning to save the day this time! Mature readers only, due to violence and strong language.  |
+
+**Spinoff Saga: The Dissidents**\
+Several members of the Avalon Clan strike out on their own.
+
+|  |
+|----|
+| [Passages](http://www.eskimo.com/~vecna/passages.html) -- Corwin of Avalon relates in his own words how he and five of his rookery siblings leave their island home, and are plunged into a new life of danger, mystery, and adventure.  |
+| [Coalition](http://www.eskimo.com/~vecna/coalition.html) -- A shadowy organization. A brilliant young physicist. A top-secret project that has gone terribly wrong. And six gargoyles who have no idea what they're getting into ... |
+| [Bodwyn's Coffer](http://www.eskimo.com/~vecna/bodwyn.html) -- To win the favor of the only ones who can keep the Jessecs safe from the Coalition, Tourmaline must deal with a cursed artifact and her own prejudices. |
+| [Daughter of the Sun](http://www.eskimo.com/~vecna/d_o_s.html) -- It's love at first sight for romance-seeking Cassius, and the problems of greedy treasure hunters, dangerous magical artifacts, a lost city, and an ancient curse pale in comparison to a certain irreconcileable difference.  |
+| [The Hidden Island](http://www.eskimo.com/~vecna/hidden.html) -- On a remote tropical paradise, Corwin confides about his love life and a new clan is discovered. Mature readers only, please, due to sexual content. |
+| [Fear of Gliding](http://www.eskimo.com/~vecna/fear_of_gliding.html) -- Icarus discovers that emotional scars need not always equate with physical ones when Tourmaline's imminent need for 'a proper rookery' leads the travelers to the survivors of a clan with a mysteriously tragic past. |
+| [From the Deep Sea Rising](http://www.eskimo.com/~vecna/from_deep) -- Corwin and Tourmaline emerge from the mists into the aftermath of a violent battle. But the sacked and burned ship they've just encountered is only a precursor to what they'll find when they arrive at the scene of a plan to raise Something Man Was Not Meant To Know. Violence and some sexual content. |
+| [Castle of Light](http://www.eskimo.com/~vecna/castle_light.html) -- One male's idea of heaven is another's vision of hell. A shipwrecked Corwin wakes to find himself in a most unexpected situation. But, finally, with his own chance at true love.  |
+| [Clan of One ](http://www.eskimo.com/~vecna/hippolyta.html) -- It's gargoyle vs. serial killers as Hippolyta tries to find a new life and purpose for herself in a small coastal town. Bit of a crossover with the upcoming Trinity Bay books. Adult content including language, violence and sex; reader beware. |
+| [Dark Hollow](http://www.eskimo.com/~vecna/dark_hollow.html) -- A call in the night from a frightened child sends the two newest members of the Trinity Bay police force -- Nyx and Hippolyta -- into a place where evil dwells. Some violence and strong language.  |
+
+The Fanfics of Kimberly T.
+
+<table data-border="" cols="1" width="90%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><a href="http://www.eskimo.com/~vecna/garg_kim.html">The Fanfics of Kimberly T.</a>, Based on the stories of Christine Morgan 
+<p>Christine's Note: There are exceptions to every rule. In this case, the rule is my personal preference not to loan out my fanfic characters or agree to stories set in the fanfic world that I've created. Partly, this is out of  selfishness -- my toys! Mine! -- which is, as I've said many times, a shamefully hypocritical attitude for a fanfic writer ... technically, they're Greg's toys and he'd probably rather that we left them the heck alone! Partly, too, it is out of a desire to encourage my fellow fanfic authors to develop their own style and view of the Gargoyles universe, because the more of us there are doing that, the stronger this fandom will be. But there are exceptions. And once in a rare blue moon, there's a step beyond exception ... endorsement. Kimberly T. has chosen to honor and flatter me by writing some of the unseen footage of my saga, and done such a great job that, at the risk of  sounding like an egomaniac (so what else is new?), when reading them,it was almost like reading something I'd done myself and forgotten about. She has a great grasp of the characters -- the originals as well as mine -- and her writing feels very in tune with the tone of mine. And so, it is with a good deal of pleasure and not a little smug pride that I'm happy to present her vignettes here on my site. Read and enjoy, drop her a line, and check out her original fanfic as well. You won't be sorry!</p></td>
+</tr>
+</tbody>
+</table>
+
+Not Connected to the Main Saga:
+
+|  |
+|----|
+| [Jaimie Cross](http://www.eskimo.com/~vecna/gir_01.html) -- Diary of a Gargoyle from the Future. From the [Internet Reunion I, 2000](http://www.firefox.org/reunion/) Fanfic Contest |
+| [Rebirth](http://www.eskimo.com/~vecna/gir_02.html) -- Reunion in the New Millennium. From the [Internet Reunion I, 2000](http://www.firefox.org/reunion/) Fanfic Contest |
+| [Partners](http://www.eskimo.com/~vecna/gir_03.html) -- Crossover; Gargoyles / Alien Nation. From the [Internet Reunion II, 2001](http://www.firefox.org/reunion/) Fanfic Contest |
+| [Memory's Mirror](http://www.eskimo.com/~vecna/gir_04.html) -- Adult (sexual content). From the [Internet Reunion II, 2001](http://www.firefox.org/reunion/) Fanfic Contest |
+| [The Seduction](http://www.eskimo.com/~vecna/seduct.htm) -- TGS Dark Ages |
+| [Reprisals](http://www.eskimo.com/~vecna/reprise.htm) -- TGS Gargoyles Season Finale |
+| [Signs and Portents](http://tgs.gargoyles-fans.org/pen/season2/signsandportents.html) -- TGS Gargoyles / Pendragon |
+| [For It May Come True](http://www.eskimo.com/~vecna/fimct.htm) -- TGC rewrite |
+| *[Dens Leoninus](http://www.eskimo.com/~vecna/dens_leoninus.html)* -- *Gargoyles / Harry Potter* crossover. Leo's got a toothache and Una takes him to Granger Family Dentistry on the very night the Hogwarts students are due home. |
+| [Teeth](http://www.eskimo.com/~vecna/teeth.html) -- An evil from the past reaches out to threaten the future. PG-13 for violence.  |
+| [Sight Unseen](http://www.eskimo.com/~vecna/sight_unseen.html) -- A nocturnal encounter between a gargoyle and a mysterious stranger. Mature readers only, please, due to sexual content. |
+
+**Miscellaneous Stuff:**
+
+|  |  |
+|----|----|
+| [Character List](http://www.eskimo.com/~vecna/garg_character_list.html) / [Timeline](http://www.eskimo.com/~vecna/timeline.html) / [Ramblings](http://www.eskimo.com/~vecna/ramble.html) / [A Letter about Spinoffs](http://www.eskimo.com/~vecna/letters.html) | [Gathering 1997](http://www.eskimo.com/~vecna/gathering_97_text.html) -- Essay and Photos |
+| [Gathering Quest](http://www.eskimo.com/~vecna/g_quest.html) | [Gathering 1998](http://www.eskimo.com/~vecna/gathering_98_text.html) -- Essay and Photos |
+| [Silly RHPS Parody](http://www.eskimo.com/~vecna/rhpsgarg.htm) | [Gathering 1999](http://www.eskimo.com/~vecna/gathering_99_text.html) -- Essay and Photos |
+| [Avalon Clan Notes](http://www.eskimo.com/~vecna/avclan_notes.html) | [Gathering 2000](http://www.eskimo.com/~vecna/gathering_00_text.html) -- Essay and Photos |
+| [Fanart Gallery](http://www.eskimo.com/~vecna/new_gallery.html) | [Gathering 2001](http://www.eskimo.com/~vecna/gathering_01_text.html) -- Essay and Photos |
+| ["Kittens," the comic](http://www.ka-blamo.com/gargs/kittens2.html) | [Gathering 2004](http://www.eskimo.com/~vecna/gathering_04_text.html) -- Essay and Photos |
+| [Gargoyles Fansite Links](http://www.eskimo.com/~vecna/gargoyles_links.html) | [Gathering 2006](http://www.eskimo.com/~vecna/gathering_06_text.html) -- Essay and Photos |
+| [Other non-Gargoyles Fanfic](http://www.eskimo.com/~vecna/other_fan_fiction.html) | [Gathering 2007 -- Pigeon Forge, TN!](http://www.gatheringofthegargoyles.com/g2007/) |
+|  |  |
+|  |  |
+
+------------------------------------------------------------------------
+
+\
+Christine Morgan / <christine@sabledrake.com> / [www.christine-morgan.net](http://www.christine-morgan.net)

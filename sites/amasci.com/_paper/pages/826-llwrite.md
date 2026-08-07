@@ -1,0 +1,209 @@
+---
+title: "llwrite"
+source_domain: amasci.com
+source_path: llwrite.html
+order: 826
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:54:22Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# llwrite
+
+*Source page: `llwrite.html`*
+
+Bill Beaty's "Weird Science" Update...
+
+    VOTE:   FAR TOO MUCH TO COVER, so VOTE on where the thread should wander...
+
+    DO YOU HAVE QUESTIONS?   save them up for Q&A at the end.
+
+    I still haven't written a book... but now I see I have no need, because
+    when reading my website, each user CREATES their own book.  The darned
+    thing has grown so huge now, that people can spend hours wandering around
+    inside it.  Every time they do, they stumble across a different variety of
+    stuff.  This sure beats normal books, where the reader is lead by the nose
+    down a single pathway.  I sure wish I knew how to make a living doing
+    this...
+
+    LISTENER VOTE: if I put my website on a CDROM, would you buy it, even
+    though the whole thing is already right there on the Internet for free? 
+    A local CDROM would be quite a bit faster to browse!  (maybe do this
+    vote at the end of the show?  If there is actual interest, I might even make a
+    press run of CDROMS.)
+
+    Current status of the "Hum"
+       Not saying anything new, if you're already familiar.
+       TWO suicides now.
+       LF sounds recorded by Anders H and Lennart B. in Sweden (not always a mystery)
+
+       If you are listening, please use the "report form" found at
+       http://www.scienceclub.org/cgi-pvt/hum/humrpt.html,  and the 0-9 range described
+       /freenrg/humlev.txt
+
+       Charlotte King hears FOGHORNS, they change before earthquakes, and
+       a hyperbaric chamber did not shield them. (not sound)
+
+       If you are in Seattle area, and hear the hum as being very loud, I'd like
+       to invite you to a "weird science" meeting.  If we get more than one person,
+       perhaps we can see if the waves that you both hear are the same (which would
+       PROVE that they come from an external source, and not from your own brain.)
+
+        It still continues, unshieldable and unstoppable.  One
+        "hum-sufferer" reports an interruption in February.  Perhaps the
+        following topic holds a solution (..is the "Hum" caused by
+        Einstein/Tesla spinwave military transmitters?  Is it louder indoors
+        because of "pyramid power" phenomena? Not MAGNETIC fields, but
+        SPIGNETIC fields!) /hum/hum.html
+
+    VOTE:  do you hear the hum on camping trips?   in your house at night?
+    Everywhere?   See the hum rating list.     /freenrg/humlev.txt
+
+    Russian scientists publicizing their spin-physics research.
+       Alex Frolov and ????
+       Einstein and Elie Cartan explored Torsion, or General Relativity, with a
+       spacetime that not only bends and waves, but also spins.
+       These so-called "Torsion Fields" might offer a scientific explanation
+       of such things as telepathy, auras, 'pyramid power', earth-energy,
+       astrology, levitation etc.  But they are FTL, and so ignored by mainstream.
+
+       Torsion is an organizing concept, a rallying-point   
+
+       Currently there's a minor revival of amateur research into "Shape Effect" 
+       and "power spots" going on.  Use of old detectors, building new ones.  Storm glass.
+       Russians are translating their papers into english, and we 
+       might soon see some VERY interesting books become available.
+          (I talk about the "vortex detector" I've built, w/photos)
+            /freenrg/tors/
+    [We're looking for volunteers to translate Russian papers to English!!]
+
+    An old build-it project: /freenrg/bindet.html binding-force anomaly detector
+    Other /weird/const.html projects...
+
+    Report your Unusual Phenomena
+        This archive is growing large.  Ball-Lightning reports, electrified
+        humans,  waking up in the wrong universe, disappearing objects, 
+        timewarps in your kitchen, etc.  (Any "electric people" in seattle?
+        Wanna come get your voltage measured?)
+           http://www.halcyon.com/sciclub/cgi-pvt/unusual/unusual.html
+           /emotor/zapped.html
+
+    Free energy devices
+        Still no devices that everyone can build.  Any experimenter who is
+        successful will always hide it and try to drive up the selling price.
+        If "space energy" is a living thing, then this is like enslaving your
+        talented children.  Since much comes from the "Muse", its like forcing your
+        spouse into prostitution!  Bad for one's health!  :)
+        Ego, greed, and self-aggrandizement have stopped nearly all progress
+        towards successful harnessing of space-energy.  They never learn.  See
+        /freenrg/prometh.txt
+        Also /freenrg/rules1.html
+
+        However, FINALLY one inventor is breaking all the paranoid
+        secrecy rules by posting detailed experiments on his website!
+         http://members.aol.com/JNaudin509/
+
+    http://www.eskimo.com/~bilb/freenrgl/flist.htmlFree energy discussion,
+    also /freenrg/fnrg.html devices, and
+     //weird/wener.html links
+
+    I'm just an effing SKEPTIC! /weird/wskept.html
+      (Some "skeptics" webpages are openminded.  The magazine THE SKEPTIC  (http://www.skeptic.com) is
+      actually not bad at all (especially when compared to the intellectual
+      bigotry that fills the other big Skeptical publication.)
+
+    Closed-mindedness of contemporary science, science heresies, lots of new
+    articles added.:
+      /weird/wclose.html
+
+       New page: collected quotes: "Against Excessive Skepticism",  use it as
+       ammunition when dealing with those darned "Pathological Skeptics."
+             /weird/skepquot.htm
+
+       The "Whistleblower Protection" groups have discovered Maverick Science!
+       Any "dissident" researcher who dares to study a "taboo" subject will
+       have their career destroyed.  But this is the same as when a scientist
+       speaks out against abuses committed by powerful organizations.  It
+       makes no difference whether the vengeful response is comitted by
+       corporate flunkies on the one hand, or "Proper Skeptics" on the
+       other.  No conspiracy is required (just like sexism and racism, the
+       people who are hateful and intolerant of unconventional thinkers don't
+       need to "conspire".)  The actions of Skeptics are revealed to be
+       "Suppression of intellectual Dissent" and the  "WHistleblower"
+       organizations are offering guidance to any scientists who are attacked for
+       breaching the Taboos.  See Brian Martin's articles, sites, LETTER TO A
+       DISSIDENT SCIENTIST, and STRATEGIES FOR DISSENTING SCIENTIST.  (If they
+       really are out to get you, and if you accuse them of this, they will
+       loudly proclaim that you are a paranoid lunatic!  Twisted, eh?)
+
+       Marcello Truzzi, one of the founders of Committee for the Scientific
+       Investigation of Claims of the Paranormal (CSICOP & Skeptical
+       Inquirer) is writing excellent articles AGAINST the "pseudoskeptics"
+       who disparage and belittle ideas without ever testing them. "Skepticism"
+       originally meant openmindedness, but those who are bigoted against
+       unusual ideas have now usurped the name "Skeptic".   See his articles
+       "Reception of Unconventional Claims in Science" and "Pseudoskeptics"
+
+       Humans are just evolved animals?  The only way to succeed is Darwin's
+       way, to COMPETE and be a WINNER, not a LOSER?   But the tit-for-tat
+       algorithm from Artifical Life researchers, and "Iterated Prisoner's 
+       Dillema" from the science of Game Theory are wiping the floor with
+       competition-based Darwinism!  A Major heresy!  Darwinism is WRONG.
+       Computer simulations demonstrate that evolution is NOT competition,
+       it is collaboration. Symbiosis and Self-interested altruism wins in
+       the long run, and self-aggrandizing "winners" do not.  The rat race is
+       a human invention, and Life is NOT a Zero Sum Game.  Life is not a
+       boxing match, where the strong defeat the weak.  Life is a
+       mountaineering expedition, where competitive behavior between the team
+       members is stupid and dangerous.
+       /weird/hevolv.html
+
+    COLD FUSION 
+    Les Case, the Wired article, I.E. magazine,  LENR low energy ,
+    CANR chemically assisted CETI not getting large heat anymore, one
+    particular good batch of beads.   Japan funding gone.
+    Blacklight Power and shrunken hydrogen.   Los Alamos got Tritium detected.
+    /weird/wcf.html
+
+    ANTIGRAVITY
+
+       NASA researchers now have money to attempt replication of Podkletnov's
+       superconducting antigravity disk.  Their 6" disk failed.  Somebody
+       should hire Dr. Podkletnov, since the University of Tampere kicked him
+       out when he publicized his "taboo" physics research.  Like
+       parapsychology and cryptozoology (nessie, bigfoot), Antigravity
+       research is a big Taboo in the physical sciences, and reputable
+       scientists dare not touch it.  (NASA is on thin ice in dealing with it
+       at all!)  Yet Dr. R.Goddard got his start by pursuing antigrav devices!
+       ESJ has a new website.    Hal Fox started a journal called:
+         /freenrg/antigrav.html
+
+    TESLA: BALL LIGHTNING
+
+       No earthshaking discoveries, but there are a number of "microwave oven
+       recipes" for producing something akin to "BL."  
+         /tesla/ballgtn.html
+
+    UPCOMING CONFERENCES.
+
+       EXOTIC RESEARCH in Seattle in march.  I'll be speaking on how to 
+       REALLY understand electricity.
+    EXOTIC RESEARCH in Seattle March 25-28
+
+       THe Society for Scientific Exploration has their 18th annual meeting
+       in Albuquerque NM June 3-5.   I'm thinking of going.  The SSE is what
+       CSICOP should have been: a group which actually performs scientific
+       investigations.  The pseudoskeptics hate the SSE, since the SSE 
+       doesn't pre-judge the validity of claimed phenomena, and they publish
+       papers that sometimes debunk, but also often SUPPORT the existence of
+       unusual phenomena.  The SSE is a small organization, and they could
+       sure use a lot more members.  Go to www.jse.com and sign up!
+    SSE 18th Annual Meeting, June 3-5 Albuquerque NM
+
+    ((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+    William J. Beaty                                  SCIENCE HOBBYIST website
+    billb@eskimo.com                                  http://www.amasci.com
+    EE/programmer/sci-exhibits          science projects, tesla, weird science
+    Seattle, WA   206-789-0775          freenrg-L taoshum-L vortex-L webhead-L

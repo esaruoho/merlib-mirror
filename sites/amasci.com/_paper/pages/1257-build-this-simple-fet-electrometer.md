@@ -1,0 +1,224 @@
+---
+title: "Build this simple FET electrometer"
+source_domain: amasci.com
+source_path: ~billb/emotor/chargdet.html
+order: 1257
+reachable_from_entry: false
+images: 2
+internal_links: 5
+extracted: 2026-08-07T05:55:01Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Build this simple FET electrometer
+
+*Source page: `~billb/emotor/chargdet.html`*
+
+[Up to Sci. Hobbyist](http://www.eskimo.com/~billb/)
+
+[Up to Electrostatics](http://www.eskimo.com/~billb/emotor/statelec.html)
+
+# RIDICULOUSLY SENSITIVE CHARGE DETECTOR
+
+                                                  (C)1987 William J. Beaty
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td><a href="http://www.eskimo.com/~billb/electrom/e-field2.gif"><img src="http://www.eskimo.com/~billb/electrom/e-field2.gif" data-hspace="10" data-border="0" data-align="top" width="230" height="160" alt="[SCHEMATIC OF DEVICE]" /></a></td>
+<td>(The earth-ground is not required.)<br />
+&#10;<p>(The 1-Meg resistor is not required.)<br />
+</p></td>
+</tr>
+</tbody>
+</table>
+
+\
+This simple circuit can detect the invisible fields of voltage which surround all electrified objects. It acts as an electronic "electroscope."\
+
+Regular foil-leaf electroscopes deal with electrostatic potentials in the range of many hundreds or thousands of volts. This device can detect one volt. Its sensitivity is ridiculously high. Since "[static electricity](/emotor/stmiscon.html)" in our environment is actually a matter of high voltage, this device can sense those high-voltage objects at a great distance. On a low-humidity day and with a 1/2 meter antenna wire, its little light will respond strongly when someone combs their hair at a distance of five meters or more. If a metal object is lifted up on a non-conductive support and touched to the sensor wire, the sensor can detect whether that object supports an electrostatic potential of as little as one volt!\
+
+- Note: I use the term "electrification" rather than "charging", in order to avoid confusion between charge (the stuff on the negative electrons and positive protons) and net-charge (the imbalance between positive and negative particles that appears on everyday objects.) Realworld objects become "electrified" when their pre-existing + and - charges are not equal.
+
+\
+
+### PARTS LIST:
+
+- 1 - Standard 9-volt battery
+- 1 - MPF-102 N-channel Field Effect Transistor (FET) Radio Shack \#276-2062
+- 1 - Red Light Emitting Diode (LED) Radio Shack \#276-041
+- MISC:
+  - Battery connector (#270-325)
+  - Alligator Clip Leads (#278-1156)
+  - solder, if desired
+  - 1-meg resistor (optional)
+  - plastic, fur, foil, comb, tape dispenser, plastic cup
+
+[![\[Drawing: FET and LED soldered to 9v connector\]](http://www.eskimo.com/~billb/emotor/fetdet1.gif)](http://www.eskimo.com/~billb/emotor/fetdet1.gif)\
+(Tiny version bult atop a 9v battery connector)\
+
+### Shortcuts:
+
+- - [1.CONSTRUCTION HINTS](#14)
+  - [2. SENSE E-FIELDS](#1)
+  - [3. SENSE POSITIVE ELECTRIFICATION](#2)
+  - [4. CHARGE IS CONSERVED](#3)
+  - [5. PEELING CAUSES ELECTRIFICATION](#4)
+  - [6. JUMPING ELECTRONS, "VOICE CONTROL"](#5)
+  - [7. VARIABLE GAIN](#6)
+  - [8. FIELD DISTORTIONS](#7)
+  - [9. VANDEGRAAFF SENSING](#8)
+  - [10. HOMEMADE CAPACITORS](#9)
+  - [11. DIPOLE ANTENNA](#10)
+  - [12. THE SKY VOLTAGE](#11)
+  - [13. UNTESTED SUGGESTIONS](#12)
+  - [14. HOW IT WORKS](#13)
+  - [15. FET-PANEL MUSEUM EXHIBIT](http://www.eskimo.com/~billb/electrom/electrom.html)
+  - [16. OTHER LINKS](#15)
+
+------------------------------------------------------------------------
+
+<span id="14"></span>
+
+### CONSTRUCTION HINTS
+
+**Warning: don't connect the battery until you are SURE you've hooked everything up exactly right. It's possible to burn out the FET or the LED if they are connected incorrectly. Don't let the transistor's wires bump together even briefly, or it will flash the LED and burn it out.\**
+
+NOTE: Don't ever connect any LED directly to a 9-volt battery, it will burn out the LED. A bare LED needs a 1000-ohm resistor wired in series to limit the maximum current from the 9-volt battery.\
+
+Warning: Avoid touching the Gate wire of the FET. Small sparks jumping from your finger to the Gate wire can damage the transistor internally.\
+
+The 1-meg resistor helps protect the FET from being harmed by accidental sparks to its Gate lead. The circuit will work fine without this resistor. Just don't intentionally "zap" the Gate wire.\
+
+To test the circuit, charge up a pen or a comb on your hair, then wave it close to the little "antenna" wire. The LED should go dark. When you remove the electrified pen or comb, the LED should light up again.\
+
+IF IT DOESN'T WORK, the humidity might be too high. Or, your LED might be wired backwards, or the transistor is connected wrong, or maybe your transistor is burned out. Make sure that the transistor is connected similar to the little drawing above. ALso, if the polarity of the LED is reversed, the LED will not light up. Try changing the connections to your LED to reverse their order, then connect the battery and test the circuit again. If you suspect that humidity is very high, test this by rubbing a balloon or a plastic object upon your arm. If the balloon does not attract your arm hairs, humidity is too high.\
+
+\
+
+<span id="1"></span>
+
+### SENSE E-FIELDS
+
+Connect the circuit to its battery, and the LED will turn on. Comb your hair, then hold the comb near the Field Effect Transistor (FET) gate wire. The LED will go dark. This indicates that the comb has an excess of negative charge, and the FET responds to the electrostatic field surrounding the comb. It acts as a switch and turns off. Remove the comb and the LED brightens again. Wiggle the comb, and find at how great a distance the circuit still detects it. It's amazing how far an e-field extends around an electrified object. (But then, e-fields should extend to infinity, no?) On a very low-humidity winter day the circuit will respond at a much greater distance. This happens because, when humidity is low, the combing of your hair then generates a much stronger separation of charge upon the comb's surface. Note that a metal comb will not work, since any separated charge immediately weakens by spreading to your hand and across your whole body. A plastic or hard rubber comb works well because rubber is an insulator and the imbalanced charge can't leak off the comb. Try simply TOUCHING a plastic pen briefly to hair. The FET will detect even this tiny negative net-charge on the pen. The sensor will usually not indicate the equal positive that appears on your hair, since hair is made conductive by humidity, and the positive net-charge leaks to your head. The polarity of the surface charge on the comb or plastic pen is negative. The rule for this FET is, negative charge turns the switch (and the LED) off.\
+
+<span id="2"></span>
+
+### SENSE POSITIVE ELECTRIFICATION
+
+This FET sensor is not an ideal educational device because it responds differently to positive than to negative Potential Difference at it's "Gate" wire. Create some positive net-charge by affixing a small tuft of hair or wool to the end of a plastic object (pen or ruler), then rub the hair upon another plastic object. (If we electrify some hair, we can avoid leakage losses by not touching it with fingers or other grounded object.) Bring the positively-electrified hair near the FET. Note that the LED becomes brighter, but when the hair is removed, the LED goes dark and stays that way. Bring the hair close by again, and the LED lights up again. Rules for this FET:
+
+- negative objects turn the LED off, it lights again when removed.
+- positive objects make the LED bright, then dark when removed.
+
+Turn the LED back on by simultaneously touching fingers to the "Gate" wire and to some other part of the circuit. Or, touch a plastic pen to some hair, then wave it near the sensor, and the LED will light up. Remember this trick when doing other demonstrations. (Note: professional electrometers do not suffer from this "reset" effect, but professional electrometers cost several hundred dollars at the very least!) <span id="3"></span>
+
+### CHARGE IS CONSERVED
+
+Mount a tuft of hair on a plastic rod, verify that it is completely discharged and does not affect the FET. Take a second plastic rod (or plastic pen!) and verify that it is also completely neutral. (Fondle the whole pen with damp hands if not.) Now hold the plastic handle and touch the hair to the tip of the pen, separate them, then hold them up to the sensor one at a time. You'll discover that the end of the plastic rod is now negative and turns the LED momentarily off. The hair is positive and turns the LED on, then off. Contact between the hair and the plastic caused some assymetrical sharing of the equal positive and negative "electricity" within them. When they separated, some negative charges stayed with the plastic, leaving it with more negatives than positive (net negative charge.) At the same time, the hair was left with fewer negatives than positives, for a net positive charge. Atoms were torn apart, "ionized", and pairs of electrons and protons were yanked apart and separated to vast distances. Note: "static electricity" is not caused by friction, it is caused by contact between dissimilar materials, followed by separation. We could say that it's caused by "peeling". <span id="4"></span>
+
+### PEELING CAUSES ELECTRIFICATION
+
+The "peeling" effect can be demonstrated with a roll of plastic adhesive tape. Peel a few inches of tape off the roll and hold it near the circuit. The LED will show that the tape is strongly electrified. Now use the sensor to test the tape dispenser. You will discover that the roll of tape has an opposite polarity compared to the strip of tape. This illustrates that "static" electrification does not require friction, it only requires intimate large-area contact between dissimilar materials. Matter is made of positive and negative charge, and the peeling of tape can separate the charges that were already there in the matter. Because the plastic backing of the tape is a different material than the adhesive, when they touch together there is assymetric bonding and electron-sharing. This leads to separation of opposite charge when we peel tape from its roll. Also, try taking two strips of tape, stick them back to front (fold little tabs so you can separate them again,) pat them down with moist hands to discharge them, then peel them apart. Hold each near the sensor. One strip indicates strongly positive, the other is equally negative. The strips will attract each other. Try other demonstrations from [Sticky Electrostatics](http://www.eskimo.com/~billb/emotor/sticky.html), using the Charge Detector to show polarity of various parts of the tape. <span id="5"></span>
+
+### JUMPING ELECTRONS, "VOICE CONTROL"
+
+If you build a tiny compact version of the FET circuit (solder it to a torn-open battery connector), you can try the following trick. Hold the circuit in your hand, make sure the LED is lit, stand on a rug, then jump up and down. The LED will flash on and off. Walk around, and the same thing happens. As your shoe soles make contact with the rug and then peel away from it, your entire body becomes electrified. This makes the sensor respond. If you place your shoes back onto the electrified footprints, you cancel out the net charge and the sensor indicates another polarity change. Scuff your shoes, stomp up and down, jump around, and the sensor will flash wildly. Demonstrate to onlookers that the sensor does not respond when you shake it up and down, but it does respond when you jump. On a dry day, you can control the sensor with the tiniest motion: scuff one shoe, then lift the toe to turn the sensor on and off. Say "on", "off" while moving your toe, and you have a "voice control" magic trick. Let some poor fool examine the sensor, yell at it, etc. It will only respond to your voice! (grin!) <span id="6"></span>
+
+### VARIABLE GAIN
+
+Obtain a small capacitor with a value below 100 picofarads. Connect it between the FET gate lead and one of the other leads. This reduces the sensitivity of the device. In situations where the sensor is TOO sensitive, this can make a big difference. Capacitors larger than 100pF can be used, they REALLY wipe out the sensitivity in inverse proportion to the capacitance value.\
+
+Obtain a clip-lead, and connect it to the Gate lead of the FET. Let it hang loose without touching anything. You'll find that this has vastly increased the sensitivity of your FET circuit. On a dry day it will respond to hair-combing from 20ft away. If a TV screen is present, the sensor will act weird (especially when people walk between the screen and the sensor.) The clip lead acts as an antenna, and the longer it is, the more sensitive the FET circuit becomes. <span id="7"></span>
+
+### FIELD DISTORTIONS
+
+Electrify a plastic object, place it on an insulating support, place the FET sensor near it, then make sure the LED is turned on. If you now wave your hand near the object or the sensor, the LED will respond. Your hand causes the e-field around the object to distort and change. Even though your hand is not electrified, the FET responds. You've created a sort of "DC Radar" system which sends out a signal and then responds when nearby objects "reflect" it. Some types of industrial sensors ("proximity" sensors) use this effect. Some burglar alarms do as well. <span id="8"></span>
+
+### VANDEGRAAFF SENSING
+
+See at what distance your FET electrometer can sense the e-field from an operating tabletop VandeGraaff electrostatic generator. Suddenly discharge the generator by using a grounded sphere electrode, and watch the distant FET respond. You are actually sending out radio waves with nearly zero frequency when you do this. The FET does not actually respond instantly, there is a speed-of-light delay (about one nanosecond per foot of distance.) It takes a short while for the wave of vanishing e-field to reach the sensor. Radio waves are simply propagating changes in electric fields, so your VDG machine and FET sensor constitute a simple radio transmitter and receiver. <span id="9"></span>
+
+### HOMEMADE CAPACITORS
+
+The FET circuit is so sensitive that it will detect the energy stored on a tiny homemade capacitor. Build a simple capacitor out of aluminum foil, styrofoam (from a coffee cup), and wires. Store energy in the capacitor by briefly connecting it to a 9V battery. Now touch one capacitor wire to the negative battery terminal of the FET circuit, and touch the other capacitor wire to the Gate terminal (avoid touching the wires with fingers, this will discharge the capacitor.) The LED will indicate the stored energy. Use the 9V battery to reverse the polarity of the capacitor, then test it again with the FET and note that the polarity is indeed backwards. Note: don't use paper for your capacitor dielectric, paper becomes slightly conductive when humidity gets high, and your stored energy will mysteriously vanish because the paper offers a leakage path so the separated charges can recombine. Another note: this experiment demonstrates that "static electricity" and battery circuits are the same. The FET detects the potential difference created by the 9V battery, just as it detects the much larger potentials in the space around electrified objects. It is not too far wrong to say that "static electricity" is simply "voltage." Everyday circuits are driven by the "static electricity" produced by their low voltage power supplies.\
+
+<span id="10"></span>
+
+### DIPOLE ANTENNA
+
+After you use this FET device for awhile, you'll get the idea that it has just a single antenna terminal. However, like all voltmeters, it actually has two. The rest of the circuit acts as the other terminal. To demonstrate this, build a miniature version of the detector circuit onto the top of a 9V battery. If you hold the battery as usual, the Gate does act as the antenna, and negative objects make the LED go dark. Now carefully grasp the Gate wire between fingers and lift the whole device into the air. Avoid touching the battery. If you now hold a negatively electrified object near the battery, the LED will get brighter instead of dimmer. Polarity of operation has been reversed. If you lay the whole unit down upon an insulating surface and approach it with electrified objects, you'll find that the FET gate wire responds with one polarity, while the battery and the rest of the circuit responds with the other. Try connecting the gate wire to earth ground, then suspend the rest of circuit with an insulating handle. If you hold up objects having various polarities, you'll find that polarity of operation is opposite that of the gate wire.\
+
+<span id="11"></span>
+
+### 'SCUSE ME, WHILE I SENSE THE SKY
+
+All over the earth, thunderstorms are transporting negative charge downwards and positive charge upwards. As a result, the earth is electrified negatively everywhere, while the sky is positive. (Actually, it's the conductive ionosphere which is positive.) The FET sensor can detect this. Take it outdoors, away from trees or buildings. Hold it high in the air, then lower it to the ground while watching the LED. (Maybe get a tall adult to do this.) The LED will get darker when the device is lowered, and get brighter when it is raised up. The earth is negative! Maybe hang a cliplead antenna on the sensor wire to improve sensitivity. (This polarity reverses when there is a thunderstorm directly overhead, but I wouldn't suggest standing out in the open when there is a chance that lightning may strike!)\
+
+<span id="12"></span>
+
+### UNTESTED SUGGESTIONS
+
+Here are a couple of things to try out. I haven't tested them, I don't know how well they work. You be first!\
+
+Electrify a large plastic object while no one sees, then have a group of people with FET charge detectors try to find which object in the room has the imbalanced charge.\
+
+Have everyone build FET electrometers. Line them all up in a row, electrify a plastic object, then sweep the object back and forth. You'll be able to "see" the electrostatic field that surrounds the object. Hold your hand near the row of detectors while standing on a rug. Jump up and down and see what happens.\
+
+Use a piece of cloth to create a small electrified spot on a plastic book cover. Use the FET device to find the spot. Draw an electrified shape using the cloth as a paintbrush, then see if you can use the sensor to figure out what the shape is.\
+
+Build many FETs and LEDs in a row on a wooden stick. Connect them all to one battery. Place a negatively electrified object on a table in a dimly lit room, then sweep the FET-stick rapidly past the object. Go back and forth really fast, and you should see a row of red lines caused by the moving LEDs. In the middle of the red lines will be a black splotch caused by the electrostatic field surrounding the negative object! Repeat this test, but this time use a bit of cloth to write the letter "A" on a plastic book cover in invisible, negative net-charge. Can you see the "A" when you sweep the stick back and forth? Mount your row of LEDs on some sort of motorized propeller, and you'll have an automated "charge detector disk."\
+
+<span id="13"></span>
+
+### HOW IT WORKS
+
+A complete description of this device requires delving into the physics of solid state electronics. Instead, here is a quick description based on the fluid analogy for electric charge.\
+
+Metals act as conductors NOT because charge can pass through them. Instead, they are conductors because they contain charge which can move. Think of a metal wire as being like a hose that's aways full of water. And remember, vacuum is an insulator, even though it presents no barrier to charges.\
+
+The "sea of charge" in a metal is not compressible, and to remove even a tiny bit of it would take a huge amount of energy. In metals, each atom contributes one electron to an "electron sea", where the electrons don't stick to single atoms but instead orbit all throughout the material. If we could remove all the movable electrons from a metal, that metal would become an insulator. Unfortunately, removal of electrons from even the thinnest metal wire requires gazillions of Newtons of electrostatic force, and develops gazillions of volts of potential difference. ("Gazillions" means some huge number with way too many zeros!). Metals are conductive, and we can't easily change that.\
+
+This is where silicon comes in. While a metal's electron-stuff within acts like a dense fluid, the mobile charges in silicon act like a compressible gas. In silicon, only very few atoms contribute an electron to the "sea." In fact, the silicon doesn't really contribute electrons at all, and ultra-pure silicon is an insulator. Instead, only the impurities in the silicon contribute movable electrons. If we only put a gazillionth of a percent of impurities into the silicon mix, then the resulting material's movable electron-stuff becomes much more compressible than the "electron sea" within a metal. This reduces the voltage and force (by a gazillion times!) that is required to convert the material from a conductor to an insulator. The electron-sea of a metal is not very compressible. The electron-gas within silicon is very compressible.\
+
+So what? Well, if we can push the "electron sea" out of a conductor, we can change it into an insulator. It would be like turning off a switch, but almost no work is required to do it. Just apply an electrical "push" in the form of electrostatic repulsion, and large currents can be switched on and off.\
+
+The Field Effect Transistor is basically a tiny wafer of silicon with its edges connected to the Source and Drain leads, and the Gate lead connected to a metal plate layed upon the wafer. When the gate lead is electrified negative, it repels the electron-gas out of the silicon and converts it into an insulator. It acts like a switch that is turned off by pure voltage. If we picture the silicon as being like a rubber hose full of water, then the gate applies a sideways force which pinches the hose closed. Placing a negative net charge on the gate wire causes the "switch" to turn off and the LED to go dark. Merely holding a negatively electrified object near the Gate lead will apply a force to the electrons in that little lead wire, which pushes them into the metal plate, which repels away the electrons in the silicon, which pinches the conductive path closed.\
+
+Interesting part: it really takes no energy to turn off the FET. It does take electrostatic force, but force is not energy! And so, even a very distant object with a feeble net-charge can affect the FET and control the much larger energy directed to the LED.\
+
+The FET is not really turned off by negative net-charge. That is an overly simplified description. It is really turned off by a DIFFERENCE in the net-charge of the silicon and of the metal plate. You can either electrify the metal plate negatively, or electrify the silicon (and the battery, LED, and circuit wires) positively. Both will turn the FET off by pushing (or pulling) the electrons out of the silicon. Think of the rubber hose again: either you can squeeze it shut with fingers, or you can lower the pressure of the whole water circuit, and the hose will be collapsed by "suction" (by air pressure, actually.)\
+
+What are FETs good for? Well, most modern computers are constructed almost entirely from FETs. The megabytes of memory are formed from little grids of millions of microscopic FETs, each with a net-charge stored on its gate lead signifying a zero or a one. The processor chips are built of logic switches with Gate voltage as their input, and on/off switching as their output. Other things: super-FETs can be built which actually contain many thousands of small FETs hooked in parallel. These VFETs or HEXFETS are often used as the main transistors of large stereo amplifiers. A tiny vibrating voltage on their gate lead can route many amperes of sound-frequency charge flow through the loudspeakers, and a handful of FET wafers the size of your fingernail control the audio power for a whole rock concert.\
+
+<span id="15"></span>
+
+### OTHER LINKS
+
+- [pos/neg charge detector](http://www.ece.rochester.edu/~jones/demos/ahern.html) w/Red & Green LEDs
+- [Senstive e-field & b-field meter](http://www.trifield.com/natural_EMF.htm)
+- Richard Hull's <a href="/electrom/sas51p1.html#electro" data-"="">Op-amp Electrometer</a>, project from the [SAS Bulletin](/amasci.html#sas)
+- [Storm voltage sensor](http://www.matchrockets.com/earth/lightning.html) measures e-field indirectly
+- [E-field Disturbance Monitor](http://www.imagineeringezine.com/e-zine/efield.html) , project from [IOL Magazine](http://www.djandassoc.com)
+- [Electrostatic Gradiometer](/freenrg/grado.html) (from WEIRD SCIENCE section!!!)
+- [Ion Detector](http://www.corp.direct.ca/trinity/iondetector.html)
+- ["static electricity" detector](http://www.mitedu.freeserve.co.uk/Circuits/Misc/staticdet.htm)
+- [BOOKS: static elect.](/emotor/vdgbook.html)
+
+------------------------------------------------------------------------
+
+LOOKING FOR BOOKS? Try searching [amazon.com](http://www.amazon.com/exec/obidos/redirect-home/sciencehobbyist):\
+
+(try "science fair" too)
+
+Help Support [the Science Club](http://www.halcyon.com/sciclub/), use the above form to buy your books.\
+(We make a few \$\$ on any books ordered via these links.)
+
+------------------------------------------------------------------------
+
+Created and maintained by [Bill Beaty](http://www.eskimo.com/~billb/billb.html). Mail me at: [billb@eskimo.com](http://www.eskimo.com/~billb/amateur/amform.html#urls).\
+If you are using Lynx, type "c" to email.

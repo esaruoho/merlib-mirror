@@ -1,0 +1,57 @@
+---
+title: "Virtuism and Modern Philosophy"
+source_domain: amasci.com
+source_path: ~telical/virtphilo.html
+order: 8796
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:01:18Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Virtuism and Modern Philosophy
+
+*Source page: `~telical/virtphilo.html`*
+
+Virtuism and Modern Philosophy
+
+This section on modern philosophy is one of the longest in the book
+
+Can we say which philosophical truths are held and taught by a majority of academicians has an effect on society? Is this historically provable? If so, can there be a truth that is logically powerful and also fruitful in the way that positivism may have been fruitful in advancing scientific revolution? Emotive Virtuism seeks to examine the idea that there are repercussions in what is said by academic philosophy, that philosophers have a responsibility to recognize their power in society. (This was perhaps intrinsic in a philosophers demeanor at one point in history).
+
+Is it wise to adhere to a certain type of philosophy so that the effect on the structure of the world is improved? Is this done also to ourselves when we say we are pragmatists?
+
+Emotive Virtuism is post-modern in that it is saying it is true that we shouldnt have to concern ourselves with what is true in a sterile environment. Philosophy is not only epistemology-concerned, and metaphysics need not resemble previous studies of metaphysics, but instead can resemble something totally new and different. We dont need a philosophy that studies the idea of the virtues in a historical way, but one that creates out of the ideas of what is creative, strong, and what is the potential of human evolution.
+
+The Dadaistic shock of the term "Virtuism" as meant in aesthetics, which most of this writing was written in, does not transfer to the realm of philosophy well except in an extremely post-modern way. I don't think people are yet ready to be tricksters in the Jungian sense against the tricksters of the modern times. It is also true that looking at virtue can border on naivet with instantaneous speed. It is always good to look at figures in literature such as Philip K. Dick or Tristan Tzara to see how they handle the area of virtue, since they were able to be supremely innovative in all areas of their specialty while still maintaining a "virtuous aesthetic."
+
+What is needed in scientific theory today,? What requires an impetus of strength in humanity's intellect today in manufacturing science? What is the best philosophy of ethics today in the courage to be when it comes to power, and what is power today? Isn't power manifesting now overwhelmingly in the relationship of private corporations, how private corporations can sluggishly determine what is "right" by the mere automation of their profit motivations? Since this is true, and they are not simply to be reduced to an evil in themselves (look at how hard we had it before the 20th Century!), they thus are operating blindly (if not also blindingly) and need to constantly be confronted. No one is immune to what is done by themselves to others. Corporations are similar. What is philosophy's reaction to corporations since they now affect man so greatly?
+
+Since philosophy teaches man how to think it should say what is logical/rational in every day life. Isn't a philosophical reaction needed in such areas of confronting a corporation which sells and markets cheap, highly profitable yet non-nutritious foods, and doing so in the guise of the food being "good food"? Isn't a philosophical reaction needed in such areas of confronting a corporation who markets "new" cars which pollute the environment because these cars are easy to produce and keep existing petroleum corporation power structures in place? What is the reaction to these things by the philosophy of science? The philosophy of science used to be one of the most cherished areas of philosophy, but it seems like it has died except in its epistemological core.
+
+It seems that those running many big corporations are concerned about not what is philosophically good in the realm of what is best for man, but only what is good in the realm of those who are in the power structures of the corporation.
+
+In negative structures that create what is false and harmful for man, possibility has been destroyed. That is why Emotive Virtuism as a philosophy examines telical word interaction exhaustion (http://www.paramind.net) and biodegradable technology ideas http://www.eskimo.com/~telical/bdt.hmlt). It is part of Emotive Virtuism to be interested in these ideas, because falseness in the world is being constantly uttered, and it is philosophy's responsibility not to be frivolous but be serious. There is a reason to be serious, as when the events happen to you, such as poor health due to malnutrition, they become very "real."
+
+Optimistic metaphysics are philosophies showing the engine of change and development experienced in time. This engine is the notion of the Virtuous universe. The more a human being focuses their attention on being morally virtuous to another human being, the more that persons life is changed for the better. What this means is that in the language of Kierkegaard the person can ultimately no longer have a despair of being themselves. They may experience serious misfortune in their lives after doing many virtuous things but there is something concrete in their nature produced by the prolong virtuous actions, and these actions are described as seeing virtuous acts as reaching the level of an inner aesthetic experience.
+
+We see the cause and effect of our philosophies only after having them in effect for many years.
+
+I believe in a way not discussed often that scientific progress is due to philosophers like Carnap, Wittgenstein, and other epistemology-centered philosophers, but this whittling down of philosophy exchanges something in the process. We dont see that there are no greater truths or intellectual feats gained if we have more mental illness, crime, greater atrocities than previous centuries, environmental poisoning, toxicity to the human body, etc. in our world. In ways not probed, academic life looks to academic philosophy as its moral brain and architect of its set of parameters. Academic philosophy is not just a sport of the elite, no matter how obtuse and difficult it gets it still has an influence on legal issues, art, literature, and, of course, science.
+
+Perhaps a philosophy is only born out of our needs. It isnt wrong that philosophy has taken such a rationalistic approach in the last one-hundred years or so. But what is needed today isnt the same as what as needed one- hundred years ago.
+
+At almost the same time as the original Emotive Virtuist writings, I wrote theory in the philosophy of science and a philosophy of technology. Emotive Virtuism can be looked at as a unified system with implications in many areas, but not a complete system of philosophy and metaphysics, not answers to grand questions of morals, questions of immortality, etc.
+
+What is Emotive Virtuism? Emotive Virtuism first started in the mid-1980's as an aesthetic philosophy which also reflected on ethics and metaphysics. It states that acts of virtue produce the aesthetic experience, and this fact was one proof of the objective value of living a virtuous life. This experience is one proof Emotive Virtuism is lucky to have. Hermeneutically, it states that philosophy, science, technology, art, must look at what is inherently virtuous towards society, while it is discovering its theories. It is the idea that philosophical truth is only complete if it incorporates into its structure not only epistemological truth (the virtue of its arguments) but truisms about the relationship of human reasoning and statements to the lives of human beings themselves.
+
+A philosophy of ethics is not necessarily whole in itself as a epistemological study only, it must eventually look at what is needed in ethics -- by human experience. The virtue of a real need being filled is a truth in itself. Scientific progress has been helped by epistemology reducing philosophy to a positivist level, but other areas of human experience may have been negatively affected because philosophy has not been able to nourish them.
+
+Metaphysics has something to do with human psychology, thus the departmentalization of knowledge and human experience should not be destroyed academically by a department saying "this is not true" but instead saying "this is not philosophy, this is psychology." Such may be the "fate" of metaphysics in the minds of some.
+
+Can we say which philosophical truths are held and taught by a majority of academicians has an effect on society? Is this historically provable? If so, can there be a truth that is logically powerful and also fruitful in the way that positivism may have been fruitful in advancing scientific revolution? Emotive Virtuism seeks to examine the idea that there are repercussions in what is said by academic philosophy, that philosophers have a responsibility to recognize their power in society. (This was perhaps intrinsic in a philosophers demeanor at one point in history).
+
+[Back to Virtuism Contents Page](virtuism.html)
+
+[Creative Virtue](index.html)

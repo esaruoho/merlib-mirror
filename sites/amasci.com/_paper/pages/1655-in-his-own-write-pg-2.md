@@ -1,0 +1,34 @@
+---
+title: "In His Own Write, Pg. #2"
+source_domain: amasci.com
+source_path: ~bpentium/beatles/ownwrite2.html
+order: 1655
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T05:55:20Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# In His Own Write, Pg. #2
+
+*Source page: `~bpentium/beatles/ownwrite2.html`*
+
+|  |
+|----|
+| <img src="lenauto.jpg" width="517" height="319" alt="[ Framed Photo of In His Own Write ]" /> |
+| Thanks to Becky at Coffey's Frame Shop in Tacoma for a wonderful job! |
+
+------------------------------------------------------------------------
+
+## More on the Event
+
+John had always been a bit of an artist and a poet. He used to scribble away in a notebook at school and continued to do so whenever he had the chance in dressing-rooms or on the road.<img src="johnsign.jpg" data-align="RIGHT" alt="[ Photo of John signing his book ]" /> In early 1964 he published a collection of his drawings and verse under the title *John Lennon: In His Own Write* It was the first public sign that he wanted to do things away from the group, that just being a Beatle was not enough.
+
+The bookshop Foyle's honoured the publication with a literary luncheon, held on 23 April at the Dorchester Hotel. The chairman was Osbert Lancaster, and guests included such showbiz luminaries as Arthur Askey, Harry Secombe, Millicent martin and Joan Littlewood. Fellow pop starts Helen Sharpiro, Victor Silvester, Mary Quant and the cartoonist Giles. Members of the public could attend on payment of twenty-one shillings. Strangely, none of the other Beatles was present, though Brian Epstein, of course, was.
+
+Osbert Lancaster's speech included this tribute to the Beatles: 'In the Royal Variety Show they shone out like a good deed in a naughty world. The have established something pretty rare, something which has the same measure of success as the old English music hall - an accord between the starge and the audience. They represent, however different their methods may be, the genuine strength in English entertainment far more successfully than rows of ladies and gentlement tramping about with bustles and false whiskers.'
+
+John, in reply, said merely, 'Thank you very much, and God bless you.\`
+
+### \[ [Back to previous page](ownwrite.html) \]

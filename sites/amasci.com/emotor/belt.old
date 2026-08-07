@@ -1,0 +1,192 @@
+<html>
+<link rev="made" href="mailto:billb@eskimo.com">
+<head>
+<title>VandeGraaff Generator, belt and roller explanation</title>
+</head>
+
+<BODY bgcolor="#ffffff">
+<center>
+<a href="http://www.eskimo.com/~billb/index.html">Up to Top</a>
+  |  <a href="http://www.eskimo.com/~billb/emotor/vdg.html">VDG Page</a>
+  |  <a href="http://www.eskimo.com/~billb/emotor/statelec.html">Electrostatics Page</a>
+</center>
+
+<h1><font size=6>VandeGraaff Machine Belt and Rollers</font></h1>
+
+The "classic" classroom VandeGraff machine contains no power supply.  Open
+one up, and you'll find that its AC cord leads to a simple electric
+motor.  If you had a gearbox and a crank, you could build a hand-cranked
+VDG machine with no electric cord at all!<br>
+
+<p> Although it looks simple, the belt, combs, and rollers within a VDG
+machine form an interesting device called a Continuously Operating
+Electrophorus, which creates charge separation by electrostatic induction. 
+The end result of this mechanism is to cause the sharp points of the metal
+comb to deposit a charge imbalance upon the surface of the belt. <br>
+
+<p>First the roller surface becomes strongly charged.  This happens as the
+belt touches the roller and then separates again.  When the belt touches
+the roller, chemical bonds form and the surfaces adhere together.
+(Chemical bonds form when *any* object touches another.)  Chemical bonds
+can alter the balance of charge on the surface of the roller because atoms
+are composed of equal amounts of positive and negative charge, and when
+the atoms of the belt and roller temporarily bond together, they share
+their outer shells of negative charge. Because the belt material and the
+roller material are not the same, many of the chemical bonds will be
+asymmetrical; the shared negative charge in the bonded atoms will stay
+more with the rubber belt than with the plastic roller. In this way a
+charge-imbalance instantly appears when the surfaces touch.  The rubber
+gets more electrons than protons and is negative, while the plastic roller
+has fewer electrons than protons and is positive.  When the belt and
+roller surfaces peel apart, much of the electric charge returns to its own
+surface, but some of it does not.  The belt is left with more negative
+than positive charges, so it is negative overall.  The roller has less
+negative than positive, so it is positive overall.  This whole process is
+called "contact electrification," also called "frictional charging",
+though of course no friction is actually required.  (Note: it is possible
+to reverse these polarities.  If the belt was plastic and the roller was
+coated with rubber, the roller would end up positive instead of negative.)
+
+<br>
+<p>As the belt continuously passes over the roller, the inner surface of
+the belt becomes weakly charged negatively, while the roller is strongly
+charged positive.  This charging effect is actually quite feeble, but this
+is OK because it only needs to maintain the charge on the roller, and the
+charge on the roller is not intentionally removed by other processes in
+the VDG operation.<br>
+
+<p>
+<a href="http://www.eskimo.com/~billb/emotor/vdgroll.gif"><img alt="[GIF: Belt peels from roller, roller becomes strongly positive]" src="http://www.eskimo.com/~billb/emotor/vdgroll.gif"></a>
+<br clear=all>
+<h2>Fig. 1  HOW THE PLASTIC ROLLER BECOMES ELECTRIFIED</h2>
+
+<p>The small charge on the belt shown above is actually not important in
+the VDG functioning.  But the charge on the roller is essential to the
+next stage. A metal needle is held near the surface of the belt at the
+place where the belt passes over the roller.  Metals are composed of a
+solid grid of positive atoms immersed in a movable "fluid" of negative
+electrons, and when the metal needle comes close to the roller, the
+positive surface charge on the roller attracts the electron-fluid of the
+metal.  But no electrons leave the metal yet.<br>
+
+<p>The electron fluid of the metal migrates toward the tip of the needle. 
+The needle tip acquires an intensely strong negative charge, and this
+negative charge affects the air.  Any air molecules which come near the
+needle tip are torn into separate electrons and positive atomic nucleii by
+the intense electric attraction/repulsion forces.  The freed electrons of
+the air are strongly repelled, and they strike other air molecules and
+rupture them as well.  A mass of shattered air and free electrons forms at
+the needle tip.  This stuff is called "corona discharge" or "St. Elmo's
+Fire", also "plasma", the fourth state of matter.  Plasma has movable
+electrons like metals do, and like metals it's a fairly good conductor. 
+Next, positive air molecules from the plasma collide with the metal needle
+and steal electrons from it.  The plasma forms a conductive bridge between
+the metal needle tip and the insulating air.  It allows electrons from the
+needle to spew into the air where they are captured by nearby air
+molecules, with the result that a "wind" of negatively charged air flows
+from the needle tip.  (Note that the VDG needs air on its needle tips in
+order to operate.  It wouldn't work right if it was operated in a vacuum.)
+<br>
+
+<a href="http://www.eskimo.com/~billb/emotor/vdgblt1.gif"><img alt="[GIF:Electrophorus effect, charged plate attracts opposite charge from needle]" src="http://www.eskimo.com/~billb/emotor/vdgblt1.gif">
+</a><br clear=all> 
+
+<h2>Fig. 2 HOW A GROUNDED NEEDLE ELECTRIFIES THE BELT SURFACE</h2> 
+
+<p>The negatively charged wind is strongly attracted to the positively
+charged roller surface.  However, the rubber belt is covering the roller. 
+The charged air moves towards the roller and coats the surface of the
+belt, which partially shields and cancels the roller's charge.  But then
+the roller turns and the belt surface moves upwards, carrying the negative
+charge with it. This continually re-exposes fresh rubber surface, which
+keeps attracting more negative charge from the needle. <br><p>
+
+Here's a strange fact: no matter how much negative charge spews from the
+needle, the belt always intercepts it before it can cancel the positive
+charge on the roller.  The roller never loses its charge, yet the roller
+forces charge to flow from the needle to the belt.  It almost seems like
+perpetual motion.  This is called "charging by induction", since the
+positive roller "induces" a charge to flow from needle to belt, yet the
+positive roller itself never loses its charge.<br>
+
+<p>The other end of the needle is connected by a wire to the ground or to
+a large metal object, so as electrons spew from the needle and are
+attracted towards the positive roller, more are drawn in through the wire. 
+As the roller turns it maintains its positive charge, causes the needle to
+spew negative charge on the belt, and causes a small electric current to
+flow from ground and into the needle.  Overall, the system acts as a
+miniature charge-pump by forcing charge to flow from the neutral earth and
+onto the surface of the belt. <br>
+
+<p> The belt carries charge up the column of the VandeGraaff then passes
+through another roller and needle assembly.  This second roller acts in
+reverse to the first, and the charge on the belt is dumped into the upper
+needle tip. This second roller must *not* be positively charged.  In order
+to work in reverse, it either must have a negative charge, or it can be
+neutral. In many classroom VDG devices this second roller is neutral
+metal.<br>
+
+<p>As the negatively charged belt passes over the upper roller, it repels
+the "fluid" electrons of the metal needle tip and pushes them away from
+the tip.  This leaves behind positive metal atom nucleii.  The charge 
+right at the
+tip is intensely positive, and the electrical attraction/
+repulsion forces again tear the nearby air molecules into conductive
+glowing plasma.  This time the free electrons of the plasma are attracted
+into the needle, leaving behind positively charged air molecules which
+rush away.  The positive air is attracted to the negative charge on the
+rubber belt, and it combines with the belt charge and mostly cancels it
+out.  The needle is connected to a wire, which is connected to the inside
+of the hollow VDG sphere.  As the belt repels the needle's electrons, the
+"icepail effect"  sucks them to the outside of the sphere.  Overall, the
+belt's negative charge has "leapt" onto the needle and flowed to the VDG
+sphere surface. <br>
+
+<p> Above is the explanation of the VDG basic operation.  Real VDGs have
+added complexity, and many will have differing details.<br>
+
+<p>For example, a rubber roller and plastic belt could be used, and this
+would paint the belt with positive rather than negative charge.  It would
+reverse the overall direction of electric current and the polarity of the
+charge on the upper sphere.  Or, the entire column assembly could be built
+upside-down, with the charging roller up in the hollow sphere.  This works
+fine, and also reverses the direction of current and the charge polarity. 
+<br>
+
+<p>Or, roller and belt materials could be chosen so that each roller sends
+opposite charge to the belt, and while positive charge moves along one
+half of the belt, negative charge runs down the other.  This doubles the
+overall electric current and makes the VDG work better in humid weather.
+One way to do this is to use a rubber belt with a plastic roller on one
+end and a felt-covered roller on the other.<br>
+
+<p>Some expensive VDGs eliminate the charging roller altogether, and
+instead supply a metal roller with a high voltage power supply.  The main
+benefit of this is that the VDG will still be able to operate where
+humidity is so high that a plastic or felt roller will not be charged by
+contact electrification.  Also, small amounts of grime will interfere with
+the contact electrification process.  A VDG with a high voltage supply is
+much less sensitive to used instead, the machine becomes fairly immune to
+dirt buildup. <br>
+
+<hr>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<center>
+<font size=3>
+Created and maintained by <a href="http://www.eskimo.com/~billb/billb.html">Bill Beaty</a>.  Mail me at: <a href="http://www.eskimo.com/~billb/amateur/amform.html#urls">billb@eskimo.com</a>.
+<br>
+If you are using Lynx, type "c" to email.
+</center>
+</strong>
+</font>
+</body>
+</html>
+
+

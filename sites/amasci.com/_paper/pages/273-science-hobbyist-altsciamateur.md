@@ -4,9 +4,9 @@ source_domain: amasci.com
 source_path: amateur/alt_sci_amateur.html
 order: 273
 reachable_from_entry: true
-images: 1
+images: 0
 internal_links: 0
-extracted: 2026-08-03T18:11:44Z
+extracted: 2026-08-07T05:53:16Z
 extractor: site_to_paper.py (pandoc)
 ---
 
@@ -24,13 +24,13 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td><a href="http://amasci.com/amasci.html">AMATEUR SCIENCE</a><br />
+<td><a href="http://www.eskimo.com/~billb/amateur.html">AMATEUR SCIENCE</a><br />
 </td>
-<td><a href="http://amasci.com/search.html">SEARCH</a><br />
+<td><a href="http://www.eskimo.com/~billb/search.html">HELP!</a><br />
 </td>
-<td><a href="http://amasci.com/unew.html">GOOD STUFF</a><br />
+<td><a href="http://www.eskimo.com/~billb/unew.html">GOOD STUFF</a><br />
 </td>
-<td><a href="http://amasci.com/news.html">NEW STUFF</a><br />
+<td><a href="http://www.eskimo.com/~billb/news.html">NEW STUFF</a><br />
 </td>
 <td><a href="http://www.thesphere.com/SAS">SAS HOMEPAGE</a><br />
 </td>
@@ -54,4 +54,5 @@ Dave Greene\
 
 Go read [alt.sci.amateur](http://www.dejanews.com/=dnt_test1/dnquery.xp?search=word&svcclass=dncurrent&showsort=date&ST=QS&query=~g%20alt.sci.amateur) (at dejanews)\
 
-Maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\
+Maintained by [Bill Beaty](http://www.eskimo.com/~billb/billb.html). Mail me at: [billb@eskimo.com](http://www.eskimo.com/~billb/amateur/amform.html#urls).\
+If you are using Lynx, type "c" to email.

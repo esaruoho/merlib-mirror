@@ -1,0 +1,328 @@
+---
+title: "SMALLnet post441"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post441.html
+order: 8130
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:39Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post441
+
+*Source page: `~smallnet/Archive/post441.html`*
+
+## SMALLnet Posting post441
+
+------------------------------------------------------------------------
+
+**Date: Tue, 8 Feb 2005 23:17:25 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+<span id="6"></span>
+
+<div class="green">
+
+Source: 5-cylinder radial\
+
+</div>
+
+<span id="7"></span>
+
+<div class="green">
+
+Vendor: Widecanyon\
+
+</div>
+
+<div class="Joe">
+
+...I thought I'd sworn off Cox reedvalve engines for good (except for those already in my models). But I couldn't resist obtaining one of the new "5-cylinder radial" Cox-based engines being made by Widecanyon. (P. O. Box 98301, Des Moines, WA 98198-0301) -- web site: \< http://www.widecanyonengines.com/\> .
+
+This intriguing motor came packaged in a crystal-clear display case (better even than the ones Roy Cox used for his original Tee Dee line!) complete with all the Cox paperwork and a pair of the flat steel "wrenches". A beautiful job !
+
+This engine is really a Cox Black Widow (or Babe Bee, whichever you prefer) with 4 dummy cylinders added to a custom-machined outer "crankcase". Because all the cylinders are Cox .049 type, the complete engine with prop and a tankful of fuel weighs 5 ounces.
+
+That's a bit much for a 1/2A engine -- but it's so exquisitely made, I find myself compelled to construct something to fly it in! I think a 26" span almost-scale Hawker "Tomtit" would be perfect. Its short nose and long tail ought to make balancing easy; and with all-built-up construction I'm sure I can keep the total flying weight under 24 ounces.
+
+I've been "advising" Kale Husa (Widecanyon's owner) on various "aspects" of Cox engine operation; and he recently told me that he has big plans for further projects. One that's coming is a "5-cylinder" Pee Wee.
+
+Kale also says that he can provide "adapter kits" for adding his dummy case and cylinders onto Cox reedvalve .049's that a flyer already owns. This interests me, because Widecanyon is using Chinese-made Coxes.
+
+I'd prefer to convert one of my tried-and-true Wagnerized Cox .049's into a "5-cylinder radial". In fact, if I can manage to build that Tomtit, I'll change the B.W. that came in Widecanyon's "5-cylinder Cox" for one of my own "specials"... That ought to provide almost Tee Dee performance, and help make up for the extra weight.
+
+But that little powerplant of Widecanyon's is such a jewel of machine work and clever assembly, I found it irresistible. \[JW\]
+
+</div>
+
+Harry McKay \< 
+
+ \> writes from Tampa Bay:
+
+I am in my 50's (still 20 at heart though). I had an Esquire R/C model in 1963 with the rubber-band-powered rudder-only escapement and three-position throttle. I still have that plane in the attic. It hasn't flown in 40+ years.
+
+About 5 years ago I acquired an R/C trainer at, unbelievably, a yard sale. It has been in the attic until now. I would like to fly it; for now I have a grandson and I know other young boys.
+
+R/C models might be a good and inexpensive way to introduce them to aviation and flying. I do have my pilots license; but as you know, full-scale flying can get costly a bit quick.
+
+The R/C trainer has an O.S. engine with throttle control and muffler. I took it to the float plane flying site last week (south of Dover, east of Tampa) and the guys there were great. My contact was Ralph Swank, whom I knew before from Experimental Aircraft Association.
+
+Ralph graciously took me under his wing and we got the engine lubricated, replaced the glow plug, and fired it up. Ray Smith joined in to offer assistance. I even went to his house later and soaked up his vast knowledge like a sponge.
+
+Ralph took the wing to repair a hole in the cover. I bought a new receiver battery from a man who had R/C supplies (and who glued and chased the wing screw attach points gratis). I was very impressed at the kindness and helpfulness of the group.
+
+My need is this, the model came with only the receiver, which is a Futaba AM FP-R117H 72.870 MHz (channel 54). But there's no transmitter. Does anyone have a reasonably-priced AM transmitter they are willing to part with?
+
+One thought about this is to go ahead and purchase an FM transmitter and receiver to be able to have the buddy trainer system capability. Ray could be the trainer -- which would be a great idea. I don't have the funds to go new with this. Maybe later that may happen. If anyone can help me with this, please let me know.
+
+Thanks, Harry (813-610-8226)
+
+Jake Kennedy \< 
+
+ \> wrote:
+
+I'm just getting back into the hobby after not having the proper training or guidance in previous tries. I've been fortunate enough to come across a NOFB (new old flying buddy) who has essentially become a best friend (Patrick LeRay).
+
+Together we have begun a SAM (Society of Antique Modelers) chapter in Shreveport, Louisiana. It's officially called SAM 9, and recently started venturing into the vast space of the Internet at \< www.samnine.com \>.
+
+Our goal is to have 2-4 meets a year with as many participants as possible from our general area. In the past Patrick has traveled hundreds of miles to participate in large events and I myself have gone as far as Fort Worth, Texas.
+
+My intention with this Posting is to gather some sort of metrics from all of the enthusiasts I can reach. Ideally we are trying to create a network of SAM chapters within a half day's drive (or less) of each other. The point is to gather as many members from as many clubs as possible and have some really nice SAM events!
+
+<div class="Joe">
+
+...Jake, SMALL is strictly a NON-competitive group. We've found that flying just for the fun of it is as rewarding as trying for trophies. And it takes FAR less in the way of officials.
+
+However, I'm including your information anyway -- partly to avoid being bashed about by Patrick the next time we meet; but mostly to bring out a little-appreciated fact: that today's model power plants are FAR more potent than the engines that old-time free flight "gas models" were designed for.
+
+For example, the Modelcraft "Miss Tiny" plan shows an Ohlsson 23 in the nose. So does the Stanzel "Texas Ranger" and the Peerless "Pippin". Powered with a modern .10 -- glow or diesel -- any one of those models would climb like a howitzer shell !
+
+To me that means that almost ANY of the famous old-time gas models could be flown R/C Assist using SMALL-eligible engines (.26 max.). I've seen a Red Zephyr that was actually a trifle over-powered with an O.S. .26 FS. (The original was designed for a Brown Jr. .60.)
+
+I've had terrific enjoyment from flying a Cleveland Cloudster (Cleveland's very first gas model kit, 1938 vintage) with a reed- valve Cox .049 up front. It's a 3-channel model, docile as a day-old lamb -- and pretty as a Hawaiian sunset circling lazily overhead with the sun shining through its dyed silk wings.
+
+Carl Goldberg's "Clipper" and "Sailplane" (kitted by Comet) also fly in the old-time style (i.e. like a "real airplane" instead of vertical climbout) powered by PAW .19 diesels -- and swinging just about the same size propellers as the original .45 and .60 displacement engines did. \[JW\]
+
+</div>
+
+Ron Fikes \< 
+
+ \> offers:
+
+<span id="154"></span>
+
+<div class="green">
+
+Source: Plans, Blue Plate Special\
+
+</div>
+
+Got scraps of blue fan-fold foam? Here are the free 'plans' for my 16" "Blue Plate Special" flying saucer:
+
+\< <http://www.geocities.com/srfikes2001/BPSbluefoam.html> \>
+
+Enjoy, Ron Fikes
+
+Gene LaFaille \< 
+
+ \> announces:
+
+To all Modelers in the East Texas area.
+
+Indoor flying is coming to East Texas and all modelers in the area are invited to participate. The Tyler E-flite Nomads (TEN) is an informal group of modelers who will meet for friendship and flying starting Feb 6 at the Tyler Indoor Soccer facility. Although our primary interest is Electric radio-controlled flight, ALL modelers are welcome to join us for an evening of fun. There is enough room for all!
+
+Currently the facility is scheduled for Feb 6th and Feb 20th with additional dates to be announced later. (We have to work around the soccer schedule). If we have enough interest we hope to fly indoors every week.
+
+The facility is approx 80 ft x 180 ft. Since we have to rent this venue we ask each flyer to pitch in \$7.50 at the door. All proceeds will go towards rental of the facility.
+
+For more information please visit \< www.ten-spot.com \>.
+
+Bring something to fly and support indoor flying in East Texas.
+
+Gene LaFaille
+
+Nick Trubov \< 
+
+ \> submitted:
+
+Here I am in Fort Smith, Arkansas by God and reading the recently revived SMALLnet Posting. What a great pleasure THAT is!.
+
+I have two questions that some SMALLster might be able to answer.
+
+First, I built a free flight .049 plane in (or around) 1960 and again in 1970 that I have NOT been able to remember. It had a pylon- mounted wing and it WAS a kit. I think it might have been a Goldberg kit, but I am not sure. I am wondering what the heck it was.
+
+Second, I flew U-control back in the late fifties and my FIRST successful flight was with a Cox 1/2A plane that was held together with rubber bands. The wing, the empennage, and even the motor was held on with rubber bands. It was a PROFILE model and it flew great. But what I can't recall is what it WAS. Bob Zambelli (who was in Tonawonda, NY and now in PA) thinks it was a PT 19. But the PT 19's that I have seen are full-fuselage planes.
+
+Does anyone recall a Cox plane with profile fuselage that was held together with rubber bands? I sure would like to hear from you.
+
+Thanks, Nick
+
+<div class="Joe">
+
+...Nick, Cox rather briefly made a ready-to-fly control-line model such as you describe in the late 1950's. I forget what they called it, but it had the general shape of the earlier Cox TD-3. \[JW\]
+
+</div>
+
+Ian L. McQueen \< 
+
+ \> removed warps:
+
+To get some experience with my CO2 motors, I decided to build an elementary model. From somewhere I had obtained a photocopy of Bill Hannan's FAI Peanut, a 13" rubber model that looks like a competition pylon engine-powered free flight.
+
+I scaled it up to 24", which I figured was within the range of model size that could be powered with a Telco motor. I'm still sorting it out, so have no report on how it flies. (The first Telco was not putting out full power, and when I replaced it with a Modela motor, the left- and down-thrust called for on the plan pulled it into a steady descent to the left.)
+
+{BTW, I can e-mail this plan to anyone who wants it.}
+
+After trying to fly the original model two weeks ago, I believed it to be on the heavy side, so instead of the sheet fin and built- up stabilizer with ribs, I went to flat built-up structures and a new fuselage. The stabilizer has a 3/32 sq LE and "ribs" and a 3/32 x 3/16 TE, assembled with carpenter's glue, and covered with dollar-store tissue that was given one coat of clear lacquer.
+
+The stabilizer stayed flat for a while, but began to turn into a propeller after a week or so. And I wanted to fly it last night. What I did was get a pot of water boiling on the stove and then put the warped side of the stabilizer between the lid and the rim of the pot so the steam had a chance to soak in. I then removed it, twisted the surface beyond the straight point, and heated it thoroughly with a hot-air gun (generic hobby device widely available).
+
+This treatment was TOO successful, and the stabilizer then held a greater twist in the direction opposite to the original warp. This was confirmation that the method would work. I re-steamed and held the stabilizer closer to straight, and it then took the desired shape.
+
+At our biweekly indoor flying last night, I found that the built-up (old) stabilizer also had twisted. I had taken my heat gun to the gym in case I needed to re-treat the new stabilizer. I just heated the built-up stabilizer dry while holding it into the desired shape (probably a bit beyond the desired point, but I was trying to hold and twist the stabilizer while running the heat gun over it. I was doing a three-hand job and not able to check details).
+
+Anyway, I got the tailplane straightened out correctly, and it still has the correct shape 16 hours later.
+
+Both stabilizers may twist again, but I now know that I can straighten them out, the same way that one can with plastic films. I pass the information on because I have not seen any mention of using a heat gun in this way to remove warps, and the information may be useful to other members here.
+
+Along the same line, the fuselage of my second model was just a stick of light 1/4" x 1/2" balsa. As I was preparing to glue on the stabilizer and fin, I noticed that the stick had a slight bend. What I did was to spray both sides of the wood with water where the bend began, placed the stick at the edge of a table so that the bend was at the edge, and placed a weight onto the stick.
+
+I then hung a weight (a paper clamp) on the end of the stick. When it dried, the stick was straight. Again, I may have to repeat this procedure if the bend recurs. But I can do this the day before a flying event. Ian
+
+<div class="Joe">
+
+...Ian has rediscovered some very old techniques! But because they're so old, they seem to be forgotten now -- like bending bamboo or making curved outlines from reed.
+
+The reason that a heat gun (we used hair dryers in the Good Old Days) is effective for warp removal is that dope (and lacquer) are thermoplastics. And for that reason a heat gun makes a fast and highly effective "tool" for removing old covering. It's FAR neater than using thinner... \[JW\]
+
+</div>
+
+Pete Havriluk \< 
+
+ \> volunteered:
+
+Someone's looking for an OK Cub .049. I have a shiny new one that Earl Van Gorder's column in FM sent me to (I think that's where I heard of it) that I purchased in kit form (not the OK Cub kit engine) and assembled. Never mounted it, never ran it. I'd happily let it get adopted to a loving home. I don't regard this as any kind of collector's item, just an old engine I'll never use.
+
+Joe Sauer \< 
+
+ \> adds:
+
+I have one old Cub .049 and three Wen-Mac .049s unassembled in a plastic bag. To the best of my knowledge, the Cub and at least one of the Wen-Macs are complete. They were disassembled for cleaning about thirty years ago and never reassembled. They are free to the first person to e-mail me. Joe Sauer
+
+Bob Chiang \< 
+
+ \> sent:
+
+Jon McVay wrote about losing an Infant-powered Sniffer to a carborne thief in Minnesota.
+
+Jon, as someone who was born in Minnesota (Waseca) and grew up in the Twin Cities area (60s & 70s), I am appalled that a Minnesotan would have stolen your model. Must have been a visitor from out of state ;-) Anyway, that's terrible.
+
+I used to fly control line, free flight (including a Sniffer: not yours, and I have the plan to prove it ; ), and rockets at the state fairgrounds and fields near the Saint Paul campus where my dad was a professor. Also flew at a gravel pit that has now become a shopping area.
+
+Some kids in my neighborhood flew Cox C-L models in the park a couple of blocks away from my house. The rising and falling whine of a motor going round and round always brought me running. Bob Chiang
+
+Dereck Woodward \< 
+
+ \> returns with:
+
+Steve Vincent asked about the Lazy Bee ARF as an e-powered project. The Lazy Bee makes a great electric (this is going to sound weird coming from someone who hasn't burnt fuel in nearly 7 years now: my OS.15-powered Lazy Bee was much more fun than my electric one!).
+
+I'm assuming that the Bought Almost Ready to Fly (Fix?, Fool with? :-) ) is as well-built as my kits; so the first thing is to forget about the drivetrain they specify. Andy Clancy told me that they were using a different structure to the kits, but he approved of it.
+
+I guess Chinese housewives and prisoners can't build like Westerners :-^). Mine flew just fine on geared ferrite motors -- pretty much what's peddled for the RC car gang -- geared around 3:1 to swing a 10 x 7 prop from seven cells. Those were of 1200 or 1700 mAH capacity, weighing as much as the 3300 mAH NiMH cells I now use ...
+
+The next question is "how much do I need to spend?".
+
+Right now, \< www.battlepack.com \> is mumbling about the new GP2200 cells being real good -- supply of new types always being a problem initially, it seems. These weigh around 45gm, vice around 65gm for the regular size most larger electric power RC models - 'sub-C' you'll hear that size referred to sometimes.
+
+That means you can now fit a Bee out with more battery capacity for around 3/4 the weight of what mine used!
+
+Whichever batteries you go for, you'll either be learning how to solder up packs, or paying someone else to do it for you.
+
+What of the new fad of LiPo cells? Well, they need special chargers, and have this interesting failure mode than involves catching fire in what looks close to an explosion. The safety police say to charge them slowly, in a fireproof safe away from combustibles on a hard surface and watch them while they charge -- which is going to take perhaps hours rather than minutes.
+
+A recent case involved a guy who left a very small indoor type LiPo battery charging on his office desk by his laptop. In a couple of minutes it had caught fire, burned a patch of desk and nearly had his laptop. The record is probably shared by the guy who burned out his Lexus Landcruiser truck with a LiPo pack in a model and another who lost a lot of his basement to a charging LiPo that ran away with itself.
+
+Electric newbies have enough new stuff to fret over, without worrying about self-destructing batteries. Stick with NiMH cells for starters at least.
+
+<span id="386"></span>
+
+<div class="green">
+
+Source: Electric, Speed Controllers\
+
+</div>
+
+Speed controllers -- you can't go far wrong going to "Castle Creations". Patrick Castillio has run this up from his kitchen table to being the most respected name in this area. \< www.castlecreations.com/products.html \> is where he hangs his shingle, though he does sell to numerous retailers. Brushed or brushless, you can't do better than go there.
+
+There's a lot of seeming "bargains" in this field -- many of which result from "Reverse engineering" (polite name for ripping other stuff off, I guess), and don't bother calling the maker about a problem unless you speak Chinese.
+
+Motors -- now it gets to be fun. A Lazy Bee doesn't need all that much power. Even flying the way I used to fly them, I found that those ferrite motors sucking on seven cells at a maximum of 25A were enough -- more power and the little fat fellas just use juice, they can't go any faster. If you like loafing around, you need even less, but I wouldn't be happy about flying on that direct drive motor that seems to come as the package.
+
+I can't offer you modern suggestions, as the field has changed so much since I had my Bees, and it's not an area I'm active in right now. My half-built 40" Lazy sits on a shelf with an AXI 2820/10 "outrunner' motor in the nose. This will be definite overkill -- I'll have to under-prop it, or live with nearly twice the power she'll need to be real quiet fun.
+
+These motors are kind of neat -- the entire outer case revolves, with the prop which is bolted to it. Big deal is, they will swing a decent sized prop without recourse to gearing.
+
+On props, I always found that a 10 x 7 or thereabouts would do just fine on an E-Bee. Longer, and it will either suffer green tips from a grass strip or soon get shorter on a tarmac runway.
+
+The glow Bee did fine on 7" props, but it weighed about a pound less. 10" works and is about what the stock Bee gear will clear. Understand the BARFBee has a simpler UC (easier to mass produce, of course) which is a bummer because the kit Bee was one superbly neat idea.
+
+Go with Trexler airwheels - one, they look good on a Bee; two, a Bee looks dumb with any other wheels, and three -- with those two, who needs any other reasons!
+
+If you want "The Source" on e-power, off to \< www.ezonemag.com \> and look up their discussion forums. "Sports" is the best area, followed by the one on motors and drivetrains. If their search function is up, type in Lazy Bee and 'bee' amazed! It is still one popular flying machine.
+
+\< <http://lazybee.welcomes-you.com/index.html> \> hasn't been updated in a while, but there's still a lot of good Bee information there, albeit some of it is "old" now. Hope that helps.
+
+Romey Bukolt wrote in about an O.S..20 FS which he's heard doesn't have much power compared to the "new and improved" O.S..26 FS.
+
+Romey, I flew one of those OS.20's in a couple of models -- my 52" span Ford Flivver and a 48" low winged aerobatic sporter I designed. Not a ball of fire, though so quiet I seldom bothered with even the tiny supplied silencer. The 20 would probably fly your All Star, but it would be a lot of nose ballast for the power.
+
+The 26 was a way better engine, just as pleasant to operate, but with a lot more power - notice they've upped it to a 30 now. That would be enticing if I still 'slimed'.
+
+DC is still covered in nasty, frozen and dirty old snow. Somehow, the drive to drive to a flying site and freeze one's extremities off has declined over the years, so my Speed 400 powered "Pou du Ciel" (Rob Bulk Kits, from Holland) sits unsullied on the basement coffee table. Am getting back in the swing of this small model thing -- the next plan to be finished and built off is either a Ford Flivver or a Gloucestershire Gannet. The latter could be nearly unique, being as 36" span is quarter scale! I said 'nearly unique' as I know of another quarter scale S400 scale model published in England last year!
+
+Mostly, my biggest connection with aeromodelling has concerned inflating the local landfill with a lot of old aeromodelling adverts ...
+
+Regards, Dereck
+
+Bill Stodgell \< 
+
+ \> offers:
+
+I have a Hitec CG335 charger and 4 7-cell 190 mAH SR battery packs, plus 4 Sanyo 270 mAH 6-cell packs I would sell for about anything I could get for them.
+
+They were used a couple of months only, and I then went to Li-Po batteries and chargers, so have no use for them anymore. They're good quality stuff that nobody local wants. Bill Stodgell
+
+Roy L. Clough, Jr. \< 
+
+ \> contributed:
+
+For a dozen years or more my favorite tanks have been vitamin pill bottles -- but only one kind: the solid white ones. Transparent tanks do seem to craze and weaken over time -- although I've used Gulden Mustard's transparent plastic jars for years. I like their Ehrlenmeyer flask shape that insures a low point for trikes or tail draggers alike; and the steel caps allow me to solder in brass fuel line spuds.
+
+I also like the white vitamin pill bottles that come in a wide range of sizes. In the old days they had steel caps that make soldering easy. Now all seem to have plastic caps. I drill the caps and countersink both sides of the holes just enough to break sharp edges and use Joe's trick of taper-cut ends to pull silicone lines through for a pinch fit. I have NEVER had a leaker.
+
+When I screw the plastic cap back on I stretch a turn of two of electricians' tape around the joint and CA the loose end; then thread-wrap both sides of the joint and hold with a drop or two of CA. A couple gobs of Goop make mounting easy in any airframe.
+
+Oh, yes, my favorite clunk is the sintered bronze DuBro filter.
+
+Roy
+
+<div class="Joe">
+
+... Roy's right (as usual): the sintered bronze has no evil effect on glow fuel, as brass does. That's because bronze contains no zinc. (It's an alloy of copper and tin.) And the sintered composition seems to drain more fuel from the tank than any of the solid metal clunks. That may be because they act like a blotter, soaking up any surface fuel they touch. \[JW\]
+
+</div>
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

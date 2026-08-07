@@ -1,4 +1,3 @@
-target: http://amasci.com/
-mode: live
-title: Science Hobbyist - William J. Beaty
-mirror_date: 2026-08-03T18:10:49Z
+target: https://web.archive.org/web/*/amasci.com/*
+mode: wayback
+mirror_date: 2026-08-07T04:25:48Z

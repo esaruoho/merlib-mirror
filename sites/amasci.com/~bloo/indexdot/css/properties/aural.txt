@@ -1,0 +1,85 @@
+About Aural Properties 
+
+ About Aural Properties 
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Aural Properties 
+ volume |
+ stress |
+ richness |
+ azimuth |
+ elevation 
+ voice-family |
+ speak |
+ speak-punctuation |
+ speak-numeral 
+ pitch |
+ pitch-range |
+ speech-rate |
+ play-during 
+ pause |
+ pause-before |
+ pause-after 
+ cue |
+ cue-before |
+ cue-after 
+
+ What Do They Do? 
+ The rendering of document content using speech synthesis and sound effects
+ is fundamentally different from content rendered for visual consumption.
+ There is no concept of font size, intrinsic visual size to an element
+ or even a visual canvas where elements may exist in relation to one another.
+
+ Crude aural rendering of document content is currently possible through
+ serialization of text content by screen readers. Stripping down content to
+ this level loses most of a document's structure, and ignores many document
+ components outright. The Aural CSS properties introduce the concept of an
+ aural canvas, where elements are rendered over time, with positioning properties
+ existing in a three-dimensional soundstage around the user, and white-space
+ interpreted as silence. Styling and emphasis are applied to an element through
+ the use of volume, pitch, vocal stress and "auditory icons", which cue the
+ listener to content that is intended to stand apart from other content.
+
+ While these properties can augment visual rendering, it is only the tip
+ of an iceberg - there will be cases where documents can only be rendered
+ aurally. In these cases, the power allowed by these properties becomes obvious.
+ These properties allow powerful interfaces to information for a wide range of
+ needs: easier accessibility for special visual needs and impairments, educational
+ teaching tools and reading aids, as well as 'hands-off' information access
+ (eg: retrieving directions while driving a car.) The market for this sort of
+ rendered content is expected to grow considerably in the future.
+
+ These properties were incorporated into CSS2, but were first detailed in the W3C
+ note "Aural presentation with CSS style sheets"
+ ( http://www.w3.org/Style/CSS/Speech/NOTE-ACSS ,
+ January 7, 1997) edited by Chris Lilley. The properties and aural canvas of ACSS
+ detailed in this note were mainly adapted from proposals by T.V. Raman of Adobe.
+
+ Related Sites 
+ Official Reference: CSS Level 2, Section 19 
+ 19.2: ' volume ' 
+ 19.8: ' stress ' 
+ 19.8: ' richness ' 
+ 19.7: ' azimuth ' 
+ 19.7: ' elevation ' 
+ 19.8: ' voice-family ' 
+ 19.3: ' speak ' 
+ 19.9: ' speak-punctuation ' 
+ 19.9: ' speak-numeral ' 
+ 19.8: ' pitch ' 
+ 19.8: ' pitch-range ' 
+ 19.8: ' speech-rate ' 
+ 19.6: ' play-during ' 
+ 19.4: ' pause ' 
+ 19.4: ' pause-before ' 
+ 19.4: ' pause-after ' 
+ 19.5: ' cue ' 
+ 19.5: ' cue-before ' 
+ 19.5: ' cue-after ' 
+
+ Boring Copyright Stuff....

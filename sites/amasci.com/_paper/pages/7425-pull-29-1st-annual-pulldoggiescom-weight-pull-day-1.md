@@ -1,0 +1,620 @@
+---
+title: "Pull 29 -- 1st Annual PullDoggies.com Weight Pull -- Day 1"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0203/Pull29.html
+order: 7425
+reachable_from_entry: false
+images: 0
+internal_links: 4
+extracted: 2026-08-07T06:00:03Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 29 -- 1st Annual PullDoggies.com Weight Pull -- Day 1
+
+*Source page: `~samoyed/iwpa/0203/Pull29.html`*
+
+1st Annual PullDoggies.com Weight Pull\
+Junction City, Ohio
+=======================================
+
+Pull: 29
+
+Organizer(s):Todd Tripp
+
+Wheels on Dirt Region: 6
+
+Track:
+
+Muddy
+
+Date: Sat 19 Oct 2002
+
+Weather:
+
+Light drizzle rain, 53F
+
+Day 1 of 2
+
+<div align="center">
+
+<table data-border="1" data-cellpadding="2" data-bordercolorlight="#0000FF" data-cellspacing="1" data-bordercolordark="FF0000">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2">Color<br />
+Codes</td>
+<td><em><strong>%</strong></em> -- Working Dog (WD) Leg Eligibility</td>
+<td data-bgcolor="#FFFF00">WD</td>
+<td data-bgcolor="#00FFFF">WD Excellent</td>
+<td data-bgcolor="#00FF00">WD Superior</td>
+</tr>
+<tr>
+<td><strong><em>Handler</em></strong> -- Owner / Handler relationship</td>
+<td><p>Owner</p></td>
+<td data-bgcolor="#FFFF00">Family Member</td>
+<td data-bgcolor="#00FFFF">Other Membership</td>
+</tr>
+</tbody>
+</table>
+
+Chief Judge: Josh Leiter
+
+</div>
+
+20 \# Class\
+Judged by Josh Leiter\
+55 \# Start weight, 40 \# Increment, Cart weighs 55 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Yankee
+
+6
+
+No Pull
+
+18
+
+.
+
+0.0
+
+Todd Tripp
+
+Rat Terrier
+
+40 \# Class\
+Judged by Jerry Leist Apprenticing under Josh Leiter\
+235 \# Start weight, 40 \# Increment, Cart weighs 235 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Seven
+
+6
+
+395
+
+7.21
+
+40
+
+9.88
+
+8.0
+
+Todd Tripp
+
+Am. Bull Boxer
+
+Gidget
+
+6
+
+355
+
+5.96
+
+37
+
+9.59
+
+5.0
+
+Phillip Dill
+
+Border Collie Mix
+
+Nekyah
+
+6
+
+355
+
+48.81
+
+33
+
+10.76
+
+2.0
+
+Courtney Wampler
+
+Siberian Husky
+
+Shyne
+
+6
+
+315
+
+8.43
+
+27
+
+11.67
+
+0.5
+
+Josh Leiter
+
+Am. PitBull Terrier
+
+60 \# Class\
+Judged by Josh Leiter\
+235 \# Start weight, 120 \# Increment, Cart weighs 235 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Dyna
+
+6
+
+835
+
+6.59
+
+59
+
+14.15
+
+12.0
+
+Jerry Leist
+
+Am. Bull Dog
+
+Rodeo
+
+6
+
+715
+
+6.43
+
+52
+
+13.75
+
+9.0
+
+Brett Young
+
+Am. PitBull Terrier
+
+Beeper
+
+6
+
+475
+
+4.53
+
+59
+
+8.05
+
+6.0
+
+Dawana Riley
+
+Am. PitBull Terrier
+
+Magnus
+
+6
+
+475
+
+5.09
+
+59
+
+8.05
+
+4.0
+
+Aaron Dill\
+Phillip Dill
+
+Am. PitBull Terrier
+
+Corey
+
+6
+
+475
+
+5.31
+
+52
+
+9.13
+
+3.0
+
+Brett Young
+
+Am. PitBull Terrier
+
+Red Rio
+
+6
+
+475
+
+5.81
+
+41
+
+11.59
+
+2.0
+
+Holly Lowery\
+Brett Young
+
+Am. PitBull Terrier
+
+Lil Louie
+
+6
+
+475
+
+10.15
+
+59
+
+8.05
+
+1.0
+
+Dawana Riley
+
+Am. PitBull Terrier
+
+Hoss
+
+P
+
+235
+
+4.18
+
+47
+
+5.00
+
+.
+
+Nathaniel Rutan
+
+Olde Boston Bulldog
+
+Eeyor
+
+P
+
+No Pull
+
+51
+
+.
+
+.
+
+Nathaniel Rutan
+
+Olde Boston Bulldog
+
+80 \# Class\
+Judged by Holly Lowery Apprenticing under Josh Leiter\
+?? \# Start weight, ?? \# Increment, Cart weighs 235 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Leo
+
+6
+
+1195
+
+7.93
+
+75
+
+15.93
+
+7.0
+
+Todd Tripp
+
+Bullboxer
+
+Halley
+
+6
+
+1075
+
+9.15
+
+79
+
+13.61
+
+4.0
+
+Jerry Leist
+
+Am. Bull Dog
+
+Lady Bird
+
+6
+
+595
+
+17.27
+
+79
+
+7.53
+
+1.0
+
+Phillip Dill
+
+Spotted Lab
+
+100 \# Class\
+Judged by Holly Lowery Apprenticing under Josh Leiter\
+235 \# Start weight, 160 \# Increment, Cart weighs 235 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Harry
+
+6
+
+835
+
+23.40
+
+91
+
+9.18
+
+5.0
+
+Jenny Cousino
+
+Am. Bull Dog
+
+125 \# Class\
+Judged by Holly Lowery Apprenticing under Josh Leiter\
+235 \# Start weight, 160 \# Increment, Cart weighs 235 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Lester
+
+6
+
+715
+
+28.95
+
+105
+
+6.81
+
+5.0
+
+Jenny Cousino
+
+Rottweiler Mix
+
+150 \# Class\
+Judged by Holly Lowery Apprenticing under Josh Leiter\
+235 \# Start weight, 160 \# Increment, Cart weighs 235 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Jethro
+
+6
+
+955
+
+9.65
+
+138
+
+6.92
+
+6.0
+
+Jared Lance Sinkowski
+
+Alaskan Malamute
+
+Sable
+
+6
+
+715
+
+33.28
+
+138
+
+5.18
+
+3.0
+
+Jeff Bellamy
+
+Saint Bernard
+
+Last Updated: 08:42:43 on 11-17-2002
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](../pulllist.htm) | [Previous Pull \#](Pull28.html) | [Next Pull \#](Pull30.html) | [IWPA Home Page](../index.html) |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

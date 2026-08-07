@@ -1,0 +1,60 @@
+---
+title: "Environmentalists Enforce Starvation"
+source_domain: amasci.com
+source_path: ~rarnold/enforcing_starvation.htm
+order: 6330
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:59:09Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Environmentalists Enforce Starvation
+
+*Source page: `~rarnold/enforcing_starvation.htm`*
+
+<http://www.spokesmanreview.com/news-story.asp?date=092102&ID=s1220155&cat=section.commentary>
+
+**Arrogant zealots harm more than help\
+Dennis Avery slams the environmental radicals who argue Africans should starve rather than eat genetically engineered food that is, in fact, safe.**\
+ 
+
+**Dennis T. Avery\
+Knight Ridder**
+
+WASHINGTON -- Have environmental activists adopted the ethics of the Ku Klux Klan? In Africa, environmental groups like Greenpeace and Friends of the Earth have lobbied the governments of drought-stricken countries not to distribute American corn donated as food aid to their millions of starving people because it might contain genetically modified kernels.
+
+No matter that most of their American members have been eating such foodstuffs for the past decade with no ill effects! The membership of Greenpeace and Friends say starving Africans should forgo it so Western greens can make an obscure political point.
+
+The president of Zambia says the activists told him the corn is "poison." This is the same pest-resistant corn approved for safety by three U.S. government agencies, and eaten daily since 1995 by millions of Americans in such forms as corn flakes, corn flour and, through livestock feed, hamburgers and ice cream. Biotech foods have undergone more testing than any foods in history, with no danger found.
+
+But in Zambia, 17,000 tons of U.S. corn is locked in warehouses, while desperate women and children grub for roots and eat tree bark. A blind old man cries out for something, anything to eat.
+
+An observer in Johannesburg writes, "The message of death from Greenpeace was clear: \`You darkies must go hungry, poison your soils, and poison your biodiversity until we, the wise white Bwanas from Europe, decide that GM crops are acceptable.' The sickening, condescending, callous, racist arrogance of Greenpeace!"
+
+Meanwhile, at the "Earth Summit plus 10" in Johannesburg, three policemen were wounded by angry activists. The protesters weren't angry about the wild creatures being killed and eaten by starving people whose farming systems are too primitive to provide food security. The activists were instead declaring their solidarity with Palestinian "suicide bombers."
+
+In the Netherlands, a candidate for prime minister was murdered last year -- shot at close range with hand-loaded hollow-point bullets -- by an animal rights activist apparently angry over fur farming and confinement hog production.
+
+Animal rights fanatics beat a medical research executive with a baseball bat and burned the apartment of a financial firm's president. The men attacked had committed the "crime" of aiding the search for medicines to cure diseases in the most effective way we know -- testing new medicines on a few laboratory animals. Such testing has saved millions of human and animal lives.
+
+In August, the Earth Liberation Front torched a U.S. Forest Service research laboratory in Pennsylvania. The lab was researching sustainable forestry. The group said it was protesting "proposed timber sales, oil drilling and greed-driven manipulation of nature."
+
+Worse, the ELF communique claiming responsibility for the fire declared that segments of this global revolutionary movement are no longer limiting their revolutionary potential by adhering to a flawed, inconsistent "nonviolent" ideology ... "where necessary, we will no longer hesitate to pick up the gun to implement justice."
+
+I recently received an e-mail from a woman I'll call Harriet. She says, "I feel you must be enlightened, somehow ... factory farm hogs are tormented, tortured and traumatized. ... Don't encourage people to eat this kind of meat. It is killing us."
+
+Of course, we all owe a debt to the environmental movement. They called our attention to the environmental dangers years before we might have elevated eco-priorities without their urging.
+
+Patrick Moore, a co-founder of Greenpeace, still contends that nonviolent confrontation was valid in the 1970s, when virtually no one paid any attention to protecting the environment. But Moore resigned from the group in the mid-1980s, because Greenpeace was still bent on confrontation, even though a huge majority of the public by then supported environmental protection.
+
+The very success of the environmental movement may have made it inevitable that some eco-zealots would overestimate their virtue and power.
+
+I was privileged to be in the 1963 March on Washington, when the Rev. Martin Luther King gave his famous "I Have a Dream" speech. King, I feel sure, would be the first to warn us that violence and inhumanity have no place in American democracy. It doesn't matter if they're intended to further civil rights, environmental protection or other lofty goals.
+
+Greenpeace and Friends of the Earth are zealots who believe they are pursuing a noble cause -- and that their way is the only way. We must remember that those sentiments are held by the remnants of both the KKK and the primitive fanatics who attacked us last September.
+
+ 
+
+Dennis Avery is the director of the Center for Global Food Issues at the Hudson Institute (www.hudson.org).

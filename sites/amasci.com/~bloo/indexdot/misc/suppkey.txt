@@ -1,0 +1,83 @@
+HTML Support Key Page 
+
+ HTML/CSS Support Notation Conventions 
+ = Index DOT Html/Css by 
+ Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML Support
+ History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ How it Works 
+ Throughout the site you will find notation like this:
+
+ Support Key: CSS1
+ | CSS2 | IE4
+ | N4B2 | O3.5-3.6x 
+ This legend indicates the history of feature support in the reviewed
+ standards and browsers. The codes and notations are described below.
+
+ Specification and Browser Abbreviations 
+ In addition to the abbreviations listed below, there will usually be
+ an additional number directly after the browser code notation that
+ indicates the specific version number when
+ support for the feature began (eg: N4B2 
+ = Netscape 4.0, Beta 2.) If no version number is present, the browser does not
+ support the feature.
+
+ 2 
+ &#160;&#160;&#160;&#160; HTML 2.0 
+ 3 HTML 3.0 
+ 3.2 HTML 3.2 
+ 4 HTML 4.0 
+ 1.0 XHTML 1.0 
+ 1.1 XHTML 1.1 
+ CSS1 CSS 1 
+ CSS2 CSS 2 
+ IE Microsoft Internet Explorer 
+ M NCSA Mosaic 
+ N Netscape Navigator 
+ O Opera (Opera Software) 
+
+ Formatting Schemes 
+ Differentiation of feature support consists of four levels: first support,
+ support (support exists, but the browser/standard was not the first
+ to support it), support range (browser supported at one time but no longer
+ does) and no support at all. If a particular feature is not supported
+ in a browser or standard, the notations will not list the browser/standard.
+ I have tried to make the difference between the support levels clear and
+ obvious - even to users of older browsers, but some explanation is necessary.
+ Simple font styles are used to differentiate between first support (italic, bold),
+ support (bold), and support range (underline) while additional colors are
+ attached for these settings via style sheets for browsers that support this
+ feature. Color coded differentiation is much more visually obvious to a
+ reader than plain font styles, but the colors should not be necessary in
+ order to read this information properly. The colors I mention below are the
+ default style sheet colors I have chosen for the site. If you are using a
+ downloaded version of the site, these colors are
+ customizable .
+
+ NOTE: For any given feature a browser and 
+ single standard can claim first support.
+
+ First Support: Style:
+ Italics. Default CSS: BG - Green, FG - Red 
+ The feature was first specified or implemented by this standard or browser
+ Support: Style: Bold.
+ Default CSS: BG - Green, FG - White 
+ The feature is supported by this standard or browser, but was not
+ the first among those reviewed to do so.
+ Support Range: Style: Underline.
+ Default CSS: Black Border, BG - Black, FG - White 
+ The feature WAS supported before but is not now. Indicated by a beginning
+ browser version and an ending browser version.
+ No Support: Style: Plain.
+ Default CSS: BG - None, FG - Gray/white 
+ The feature is not supported by this standard or browser
+
+ Boring Copyright Stuff...

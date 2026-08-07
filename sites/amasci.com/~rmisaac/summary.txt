@@ -1,0 +1,27 @@
+file: summary.txt
+date: Tue, 9 May 2000 23:09:43
+root: /u/u16/r/rmisaac/verify
+
+Linklint found 231 files in 4 directories and parsed 28 html/map files.
+There were 23 missing files. 28 files had broken links.
+41 errors, 231 warnings.  Parsed ~ 1.3 files/second.
+
+found    4 directories
+found   28 html files
+found  196 image files
+found    7 text files
+found 1975 remote http links
+found    8 remote ftp links
+found   18 remote mailto links
+found   31 remote gopher links
+found    2 remote news links
+found    1 remote telnet link
+found  135 named anchors
+found    3 directories with orphan files/directories
+Warn   231 warnings
+ERROR    4 missing html files
+ERROR    3 missing image files
+ERROR    2 missing cgi files
+ERROR   12 missing text files
+ERROR    2 missing unknown files
+ERROR   18 missing named anchors

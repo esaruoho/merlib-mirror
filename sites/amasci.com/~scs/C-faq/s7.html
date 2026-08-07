@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Memory Allocation</title>
+</head>
+<body>
+<H1>7. Memory Allocation</H1>
+
+<p><a href=q7.1.html rel=subdocument>7.1
+Why doesn't
+the code ``<TT>char *answer; gets(answer);</TT>''
+work?
+</a></p><p><a href=q7.2.html rel=subdocument>7.2
+I can't get <TT>strcat</TT> to work.
+I tried
+``<TT>char *s3 = strcat(s1, s2);</TT>''
+but I got strange results.
+</a></p><p><a href=q7.3.html rel=subdocument>7.3
+
+
+But the
+man page
+for <TT>strcat</TT> says that
+it takes two <TT>char *</TT>'s as arguments.
+How am
+
+I supposed to know to allocate things?
+</a></p><p><a href=q7.5.html rel=subdocument>7.5
+I have a function that is supposed to return a string,
+but when it returns to its caller,
+the returned string is garbage.
+</a></p><p><a href=q7.6.html rel=subdocument>7.6
+Why am I getting
+``warning: assignment of pointer from integer lacks a cast''
+for calls to <TT>malloc</TT>?
+</a></p><p><a href=q7.7.html rel=subdocument>7.7
+Why does some code carefully cast the values returned by <TT>malloc</TT>
+to the pointer type being allocated?
+</a></p><p><a href=q7.8.html rel=subdocument>7.8
+Why does so much code
+leave out the multiplication by <TT>sizeof(char)</TT>
+when allocating strings?
+</a></p><p><a href=q7.14.html rel=subdocument>7.14
+I've heard that some operating systems
+
+don't actually allocate <TT>malloc</TT>'ed memory
+until
+the
+
+program tries to
+use
+it.
+Is this legal?
+</a></p><p><a href=q7.16.html rel=subdocument>7.16
+I'm allocating a large array for some numeric work,
+but
+<TT>malloc</TT> is acting strangely.
+</a></p><p><a href=q7.17.html rel=subdocument>7.17
+I've got 8 meg of memory in my PC.
+Why can I only seem to <TT>malloc</TT> 640K or so?
+</a></p><p><a href=q7.19.html rel=subdocument>7.19
+My program is crashing, apparently somewhere down inside
+<TT>malloc</TT>.
+</a></p><p><a href=q7.20.html rel=subdocument>7.20
+You can't use dynamically-allocated memory after you free it, can you?
+</a></p><p><a href=q7.21.html rel=subdocument>7.21
+Why isn't a pointer
+null
+after calling
+<TT>free</TT>?
+
+</a></p><p><a href=q7.22.html rel=subdocument>7.22
+When I call <TT>malloc</TT> to allocate memory for a local pointer,
+do I have to explicitly <TT>free</TT> it?
+</a></p><p><a href=q7.23.html rel=subdocument>7.23
+When I free
+a dynamically-allocated structure containing pointers,
+do I have to free each subsidiary pointer first?
+</a></p><p><a href=q7.24.html rel=subdocument>7.24
+Must I free allocated memory before the program exits?
+</a></p><p><a href=q7.25.html rel=subdocument>7.25
+Why doesn't my program's memory usage go down when I free memory?
+</a></p><p><a href=q7.26.html rel=subdocument>7.26
+How does <TT>free</TT> know how many bytes to free?
+
+</a></p><p><a href=q7.27.html rel=subdocument>7.27
+So can I query the malloc package to find out how big an
+allocated block is?
+</a></p><p><a href=q7.30.html rel=subdocument>7.30
+Is it legal to pass a null pointer as the first argument to <TT>realloc</TT>?
+</a></p><p><a href=q7.31.html rel=subdocument>7.31
+What's the difference between <TT>calloc</TT> and <TT>malloc</TT>?
+</a></p><p><a href=q7.32.html rel=subdocument>7.32
+What is <TT>alloca</TT> and why is its use discouraged?
+</a></p><hr>
+<p>
+<a href=faq.html>top</a>
+</p>
+</body>
+</html>

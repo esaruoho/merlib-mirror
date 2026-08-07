@@ -1,0 +1,139 @@
+Dobe Doinat's Context Menu (PopUp Menu) 
+
+ Right Click To Use Context Menu! 
+ Demonstration of a context menu of links 
+
+ Right-click anywhere in this document for a context menu of links! 
+
+ Here's how the links in the PopUp Menu work 
+
+ Have this in the <body> section of the document: 
+
+<div id=' ie5menu ' onMouseover=' highlightie5() ' onMouseout=' lowlightie5() ' onClick=' jumptoie5() '> 
+
+<div class=' menuitems ' url=' index.html '>index.html</div> 
+ <hr class='menuitems' /> 
+<div class='menuitems' url=' PNA500_XHTML.HTM '>PNA500_XHTML.HTM</div> 
+<div class='menuitems' url=' PNADataIsland.htm '>PNADataIsland.htm</div> 
+<div class='menuitems' url=' PNA500_XSLT.XML '>PNA500_XSLT.XML</div> 
+<div class='menuitems' url=' PNA500_XML.XML '>PNA500_XML.XML</div> 
+<div class='menuitems' url=' PNA500_XSLT.XSL '>PNA500_XSLT.XSL</div> 
+ <hr class='menuitems' /> 
+<div class='menuitems' url=' PNAdobeWebTut.htm '>PNAdobeWebTut.htm</div> 
+ <hr class='menuitems' /> 
+<div class='menuitems' url=' JohnWHartman_Resume.xml '>JohnWHartman_Resume.xml</div> 
+ <hr class='menuitems' /> 
+<div class='menuitems' url=' mailto:dobe@eskimo.com '>Email Dobe</div> 
+
+</div> 
+
+ <script language="JavaScript1.2"> 
+ <!-- 
+ document.oncontextmenu= showmenuie5 ; 
+ if (document.all && window.print) 
+ document.body.onclick= hidemenuie5 ; 
+ --> 
+ </script> 
+
+ Here's the JavaScript 
+
+ Have this script in the <head> section of the document: 
+
+< head > 
+
+ < style type "text/css"> 
+ <!-- 
+ /* 
+ DOBE_NOTE: Change the third line down to change width of menu... 
+ */ 
+
+ #ie5menu{ 
+ position:absolute; 
+ width:200px; 
+ border:2px solid brown; 
+ background-color:ghostwhite; 
+ font-family:arial; 
+ line-height:20px; 
+ cursor:hand; 
+ visibility: hidden ; 
+ } 
+
+ . menuitems { 
+ padding-left:15px; 
+ padding-right:15px; 
+ } 
+ --> 
+ < /style > 
+
+ < script language="JavaScript1.2"> 
+ //set this variable to 1 if you wish the URLs of the highlighted menu 
+ //to be displayed in the status bar or '0' to hide the URLs... 
+
+ var display_url = 1; 
+
+ function showmenuie5() { 
+ var rightedge = document.body.clientWidth-event.clientX; 
+ var bottomedge = document.body.clientHeight-event.clientY; 
+
+ if (rightedge<ie5menu.offsetWidth) 
+ ie5menu.style.left=document.body.scrollLeft+event.clientX-ie5menu.offsetWidth; 
+ else 
+ ie5menu.style.left=document.body.scrollLeft+event.clientX; 
+
+ if (bottomedge<ie5menu.offsetHeight) 
+ ie5menu.style.top=document.body.scrollTop+event.clientY-ie5menu.offsetHeight; 
+ else 
+ ie5menu.style.top=document.body.scrollTop+event.clientY; 
+
+ ie5menu.style.visibility="visible"; 
+ return false; 
+ } 
+
+ function hidemenuie5() { 
+ ie5menu.style.visibility="hidden"; 
+ } 
+
+ function highlightie5() { 
+ if (event.srcElement.className=="menuitems"){ 
+ event.srcElement.style.backgroundColor="highlight"; 
+ event.srcElement.style.color="white"; 
+ } 
+ if (display_url==1){ 
+ window.status=event.srcElement.url; 
+ } 
+ } 
+
+ function lowlightie5() { 
+ if (event.srcElement.className=="menuitems"){ 
+ event.srcElement.style.backgroundColor=""; 
+ event.srcElement.style.color="brown"; 
+ window.status=""; 
+ } 
+ } 
+
+ function jumptoie5() { 
+ if (event.srcElement.className=="menuitems") 
+ window.location=event.srcElement.url; 
+ } 
+ < /script > 
+
+ < /head > 
+
+ index.html 
+
+ PNA500_XHTML.HTM 
+ PNADataIsland.htm 
+ PNA500_XSLT.XML 
+ PNA500_XML.XML 
+ PNA500_XSLT.XSL 
+
+ PNAdobeWebTut.htm 
+
+ JohnWHartman_Resume.xml 
+
+ Email Dobe 
+
+ Cut-and-pasting of code permitted for non-commercial use. 
+ Check out my source code: <Right-Click> | View Source 
+ Thank you. 
+ Back to the Beginning of this page

@@ -1,0 +1,222 @@
+
+XASTIR:  X Amateur Station Tracking and Information Reporting
+
+	http://www.xastir.org
+
+
+MAP FORMATS HANDLED:
+--------------------
+1-105:  ImageMagick (http://www.imagemagick.org/www/formats.html)
+        (two formats are write-only, not included in total).
+  106:  APRSdos Vector Format Maps & Weather Alert Maps
+  107:  WinAPRS Vector Format Maps & Weather Alert Maps
+  108:  1:24k USGS DRG Raster Maps (geoTIFF Topo Maps)
+  109:  1:100k USGS DRG Raster Maps (geoTIFF Topo Maps)
+  110:  1:250k USGS DRG Raster Maps (geoTIFF Topo Maps)
+  111:  ESRI Shapefile Polyline Vector Maps
+  112:  ESRI Shapefile Polygon Vector Maps
+  113:  PocketAPRS PDB Vector Maps
+  114:  USGS GNIS files
+
+ImageMagick can also handle automatic decryption or decompression
+of maps files as long as support for these utilities is present and
+compiled into ImageMagick.  It can handle these formats:  ".Z",
+".gz", ".bz2", and ".pgp".
+
+
+MAP SOURCES:
+------------
+Built into Xastir:
+
+1:  Online Tiger Raster Maps (www.census.gov)
+2:  Online Terraserver Raster Maps
+3:  Online NOAA Weather Radar Maps
+4:  Online GIF/JPG/PNG/etc files (http or ftp links)
+
+Downloadable Maps:
+
+1:  APRSdos/WinAPRS/Ui-View/PocketAPRS maps
+2:  NOAA (Shapefile maps)
+3:  USGS (geoTIFF topo maps)
+4:  Scanned maps (most image formats)
+5:  GIS Data Depot (geoTIFF topo maps, Shapefiles)
+6:  City/County/State GIS Departments (Shapefiles)
+
+Need "wget" installed on your system to enable the
+http/ftp functionality.
+
+Xastir can query findu.com for the previous two weeks of
+posits for a particular station.
+
+Xastir comes with a script (inf2geo.pl) which converts
+.INF files to .GEO files.  This makes it easier to use
+maps from other APRS programs with Xastir.
+
+----------------------------------------------------------------
+
+Note from Chuck:
+Xastir should be able to compile (and run) on any "recent" Linux (x86) 
+machine as long as the needed libs are available.  Others, eg., *BSD, AIX 
+(Yikes!), Solaris, may (probably) will require some "tweeking."  The biggest 
+hinderance would be a GNU build environment and threading libs (pthread).
+
+Note from WE7U:
+Operating systems that the latest Xastir snapshots work with.
+I still need data on those with question marks (most of them):
+
+  *Linux        ?SuSE 5.x
+                *SuSE 6.4             WE7U,DK7IN
+                *SuSE 7.1             WE7U,DK7IN
+                *SuSE 7.2             N7IPB,WA7QFR,KD7NM,NV0U
+                *SuSE 7.3             WA7QFR
+                *Red Hat 5.2          PE1DNN(Note 3)
+                *Red Hat 6.2          N5JXS
+                *Red Hat 7.0          N5JXS(Note 2), KC7ZRU
+                *Red Hat 7.1          N5JXS,KC7ZRU,N2YGK(Note 1),KJ5O(Note 4)
+                *Red Hat 7.2          N5JXS,KC7ZRU
+                ?Slackware 5.x, 6.x
+                *Slackware 7.1.0      WE7U
+                *Debian 2.2r0 (Potato)
+		*Mandrake 7.2         ZL2BSJ
+                *Mandrake 8.0         K7MKG,ZL2BSJ
+		*Mandrake 8.1         ZL2BSJ(Note 6)
+                ?Caldera OpenLinux (versions?)
+                ?TurboLinux (versions?)
+                ?Others (versions?)
+  *FreeBSD      *4.4-STABLE           KC2ELS
+  *Mac OS       *Mac OS X             PE1LIF(Note 5),N2LBT
+  ?NetBSD
+  ?BSD386
+  ?OpenBSD
+  ?SunOS        ?4.x
+  *Solaris      *2.5 (OS 5.5)         WE7U
+                ?2.6 (OS 5.6)
+                *7                    WE7U,KD6ZWR
+                ?8
+  ?AIX
+  ?IRIX
+  ?HPUX
+  ?BeOS
+  ?SCO Unix
+  ?SCO Xenix
+  ?VRTX
+  ?QNX
+  ?Others
+
+
+(*) = Confirmed.
+(?) = May compile/run.  Status currently unknown.
+
+(1) I had to do a
+    ./configure --with-motif-includes=/usr/X11R6/LessTif/Motif1.2/include \ 
+      --with-ax25 --with-xbae-includes=/usr/X11R6/include \
+      --with-motif-libraries=/usr/X11R6/LessTif/Motif1.2/lib
+    on Redhat 7.1.  Seems configure wasn't finding these libraries in the
+    right places on my system for some reason.
+(2) Difficult to get Xastir running on 7.0
+(3) For Linux note that the CVS version does not compile on RedHat 5.2 without
+    changes anymore. Older GCC compilers choke on -march=xxx and -mcpu=xxx.
+    Bypass I use now is delete those flags from the Makefile and src/Makefile
+    after configure.
+    Futhermore I have never seen Imagemagick stuff working on RH5.2. It compiles
+    but crashes and dumps an error when attempting to use it (loading an bitmap
+    map). When loading a bigger image then Imagemagick eats up all memory until
+    it is depleated, after which is terminates the program. Quick fix I use is
+    edit config.h and comment HAVE_IMAGEMAGICK out (I'm sure there is a better
+    way, but this works for me).
+(4) I had to modify maps.c to get it to compile with the latest ImageMagick 
+    libraries.  Also, the stock Lesstif that was installed appeared not to 
+    have the proper printing libraries, and so I uninstalled the Lesstif RPM 
+    and got the tarball; after that it compiles perfectly with ImageMagick, 
+    geoTiff, Festival, and ShapeLib support.
+(5) See "http://homepage.mac.com/opzeeland1/" for mods.
+(6) At the linking stage, the libax25 library isn't mentioned on the command
+    line.  The linking fails because the gcc linker can't resolve a bunch of
+    ax25 functions.  Before you do the 'make', edit src/Makefile. Add (append)
+    to the LIBS line the following:
+        -lXp -lax25
+    to include libXp and libax25 in the linking process.  Do a 'make clean',
+    then 'make'.  Xastir should build.
+
+----------------------------------------------------------------------------------
+
+Xastir CVS Notes:
+-----------------
+
+How to log in and snag the sources using anonymous CVS.  First you must
+log in.  The following command actually just creates an encrypted password
+in your ~/.cvspass file:
+
+  cvs -d:pserver:anonymous@argon.hscs.virginia.edu:/usr/local/cvs login
+  password: xastir
+
+Set an environment variable that CVS will use to figure out where to find
+the sources.  Once you have the sources on your machine you won't need to
+set this anymore, as CVS keeps track of it from then on:
+
+  # Set CVSROOT
+  export CVSROOT=:pserver:anonymous@argon.hscs.virginia.edu:/usr/local/cvs
+
+Check out the sources.  The "-z3" part just uses some compression, which
+will speed things up on slower links:
+
+  # Check out the full sources
+  cvs -z3 checkout xastir
+
+Here's an alternate command that shows specifying the server and pruning
+empty directories during the download:
+
+  # Check out the full sources & prune empty directories while doing so
+  cvs -z3 -d:pserver:anonymous@argon.hscs.virginia.edu:/usr/local/cvs co -P xastir
+
+Here's how you might update your local copy of the sources from the remote
+server:
+
+  # Update my local copy from the CVS tree
+  cvs -z3 update -d -P
+
+The -z3 makes the CVS server compressing the files before transferring
+them with a gzip level 3. The files are automatically unzipped by your
+CVS client.  Please use always compressed transfer to reduce netload.
+I recommend to create a file ~/.cvsrc which these lines: 
+
+  cvs -z3
+  update -P -d 
+
+The line update -P -d makes CVS purging empty directories (-P) and
+checking out newly added directories on a later update. Once you've
+checked out the code you can easily update it from time to time. Go to
+the newly created directory and type 
+
+  cvs -z3 update 
+
+All information about the repository, login, module and branch is stored
+by CVS in the subdirectories CVS, so that you don't have to care about
+this any more. The password (in this case it's empty) is stored in
+~/.cvspass. You can move the checked out source around, you can even move
+it to another machine without losing the ability to do a CVS update.
+
+Some other commands I defined as aliases in the bash startup files.  Some
+of these will not work for anyone except a developer, as they change the
+CVS repository.  The "cvsstat*" cnd "cvsdiff" cmmands might be quite useful
+to see if any files have been changed or added since your last update:
+
+alias cvsadd='cvs add'
+alias cvsbyedel='cvs release -d'
+alias cvsdelsticky='cvs update -A'
+alias cvsdiff='cvs diff -w -r HEAD'
+alias cvsfiles='ls $CVSROOT'
+alias cvsfindsticky='cvs status -v | grep Sticky | grep -v none'
+alias cvsget='cvs checkout'
+alias cvsgetrelease='cvs checkout -r'
+alias cvslog='cvs log'
+alias cvsroot='echo $CVSROOT'
+alias cvssave='cvs commit'
+alias cvsstat='(cvs status 2>&1) | grep -E "Status: | Examining" | grep -v Up-to-date'
+alias cvsstat2='cvs -n -q update'
+alias cvsstat3='(cvs status 2>&1) | grep -E "Status: | Examining" | grep -v Up-to-date | grep -v Makefile.in'
+alias cvstag='cvs tag'
+alias cvstags='cvs status -v'
+alias cvsupdate='cvs update'
+
+

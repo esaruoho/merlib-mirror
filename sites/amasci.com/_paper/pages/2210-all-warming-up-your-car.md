@@ -1,0 +1,51 @@
+---
+title: "all_warming_up_your_car"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/engine/all_warming_up_your_car.html
+order: 2210
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# all_warming_up_your_car
+
+*Source page: `~dalus/bmw/all/engine/all_warming_up_your_car.html`*
+
+[UnofficialBMW.com](http://www.unofficialbmw.com)
+
+\[an error occurred while processing this directive\] <span id="null">From digest.v7.n697 Wed Dec 3 03:12:27 1997</span>\
+From: Steven J Bernstein \<stevenb@garageboy.com\>\
+Date: Wed, 3 Dec 1997 01:29:52 -0500 (EST)\
+Subject: RE: \<ALL\> to warm up or not to warm up, that is the question...\
+
+Anson, after finally reading his owner's manual, told us: \>Well, just reading the manual, and found an interesting thing.. cause I\
+\>am used to "warm up" the car in the morning by starting the car and let\
+\>it sit a while.. However, the manual says otherwise, it mentioned in the\
+\>driving hint section that "You should not leave the vehicle parked with\
+\>the engine running to allow it to warm to its normal operating\
+\>temperature..." .. well, I was told that it is better to warm up the car\
+\>because it will increase engine life and generally better.. but now...\
+\>the manual says No, I shouldn't do that... what? Should I warm up or\
+\>not..????? Any suggestions????
+
+As Neil Maller so eloquently told another recent digester that thought he knew more than the manufacturer, follow what the book tells you.
+
+One warms up a fuel-injected engine by driving - driving moderately, just like you read. I have followed this religiously with every BMW I've owned, and my 528e with 288k miles starts the same way it did the first day I testdrove it (10 years and 210k miles ago). Just remember, while the temperature gauge is in the "blue" zone, be sure to keep the engine speed below the limit the owner's manual tells you (it differs for different engines so I can't give you a number). If you live in a brutally cold climate, you might want to wait about 10 seconds or so on the coldest winter mornings, but assuming you change your oil every 4-5k miles, this probably isn't even necessary.
+
+Unless BMW starts to tell you otherwise, stick with the instructions you were given. If you have been "warming" up your car, hopefully the only damage you've done thus far is burning a set or two of spark plugs.
+
+If you read a bit further, it is also recommended that if you have been sitting in traffic (i.e. unavoidable continuous idle), you should keep the car in a lower gear at a pretty high rpm (again, the number depends on the engine) to clean off the carbon deposits on the spark plugs for a few minutes afterwards.
+
+Good luck,\
+.steve.\
+@@@---------------------Mobilitaet ist Leben-----------------------@@@
+
+    | Steven J. Bernstein                E-mail: bernstein@garageboy.com |
+
+    | P.O. Box 11242                      WWW: http://www.garageboy.com/ |
+    | Hauppauge, NY 11788 USA    __________       VOICE: +1 718 740 7411 |
+
+@@@-------------------------(oo OO oo)---------------------------@@@

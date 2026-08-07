@@ -1,0 +1,58 @@
+JBM - MPM - Input
+
+ [Bibliography] 
+ [Calculations] 
+ [Downloads] 
+ [Equations] 
+ [FAQ] 
+ [JBM] 
+ [Links] 
+ [MPM] 
+ [PM] 
+ [Personal] 
+ [Software] 
+
+ JBM - MPM - Input
+
+ MPM is currently a command line driven program. It reads it's input
+ data from specified files and produces the output based on options
+ in each file. There are three files for use with MPM. The first is
+ a bullet file. It holds all the parameters associated with a 
+ particular projectile. The second is the trajectory file which holds
+ trajectory parameters, firearm paramters, etc. The third and last
+ file is an options which holds default filenames, and output formatting
+ options.
+
+ All three files have the same format. Each parameter is on it's own
+ line, with the syntax "name = value", where "name" is the parameter
+ name (e.g. muzzle_velocity, chron_velocity) and "value" is the 
+ desired value (e.g. 2600.0). Blank lines, and lines beginning with
+ a pound sign, "#", are ignored. Similarly, on any other line, the
+ "#" denotes a beginning of a comment and all characters after it are
+ ignored. Fields (name and value) are not required to be in any 
+ particular order. In the example files with MPM, the like fields are
+ grouped together. The sample files, 
+ trajectory file , 
+ bullet file ,
+ options file ,
+ velocity file ,
+ output file and an
+ wind file . 
+ are heavily commented and make a good starting point for your
+ own files.
+
+ As of version 0.9.19, bullet input units can be inches or calibers.
+ The default is calibers so that old files still work, but newer files
+ can set the variable "bullet_units" to "1" to use inches. An example
+ of the file mpm.blt with inches instead of calibers is
+ in.blt . Note that all the 
+ variables in the DIMENSIONS section are in units of inches. Also, 
+ the center of gravity is inches from the nose.
+
+ Also included in the download are the 
+ README , and the 
+ LICENSE file.
+
+ Last update 26 January 2005, Copyright &copy; 1996-2005
+ JBM 
+ [V]

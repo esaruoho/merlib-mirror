@@ -1,0 +1,73 @@
+---
+title: "Nason Creek"
+source_domain: amasci.com
+source_path: ~wesn/waflyfishers/msg04038.html
+order: 9802
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T06:02:21Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Nason Creek
+
+*Source page: `~wesn/waflyfishers/msg04038.html`*
+
+------------------------------------------------------------------------
+
+\[[Date Prev](msg04039.html)\]\[[Date Next](msg04037.html)\]\[[Thread Prev](msg04041.html)\]\[[Thread Next](msg04037.html)\]\[[Date Index](date38.html#04038)\]\[[Thread Index](thread30.html#04038)\]
+
+# Nason Creek
+
+------------------------------------------------------------------------
+
+- *To*: <waflyfishers@eskimo.com>
+- *Subject*: Nason Creek
+- *From*: "Wes Neuenschwander" \<<wesn@eskimo.com>\>
+- *Date*: Mon, 31 Jul 2000 08:19:19 -8
+- *Priority*: normal
+- *Reply-To*: <waflyfishers@eskimo.com>
+- *Resent-Date*: Mon, 31 Jul 2000 08:20:14 -0700
+- *Resent-From*: waflyfishers@eskimo.com
+- *Resent-Message-ID*: \<"pc-lx3.0.N81.jaPXv"@mx1\>
+- *Resent-Sender*: waflyfishers-request@eskimo.com
+
+------------------------------------------------------------------------
+
+    Fished upper Nason Creek Saturday afternoon.  Many small cutts, 
+    eagerly rising to our little elk hair caddis, in most of the riffles and runs.  
+    The biggest fish running about 8-9", but all scrappy and spirited.  The 
+    stream is small and generally narrow and brushy in this area, but we 
+    were able to find open areas along the way that allowed room for casting 
+    and provided fairly easy wading.  
+
+    Access was fair, with pull-offs along the way from the westbound lanes 
+    of Hwy 2 as well as the occasional frontage road or forest service road 
+    crossing the creek.  
+
+    It was encouraging to see this aspect of Nason Creek.  My only 
+    previous experience - several years ago and several miles further 
+    downstream - had left me disappointed and fearful that this beautiful 
+    little mountain stream was becoming sterile and perhaps on the verge of 
+    being destroyed by neglect and abuse.  It was great to see there's still 
+    some life left in this classic mountain creek, at least in the upper 
+    reaches.
+
+    -Wes
+
+    Wes Neuenschwander
+    Seattle, WA
+    wesn@eskimo.com
+
+------------------------------------------------------------------------
+
+- Prev by Date: **[Re: ESPN flyfishing championships and TV show](msg04039.html)**
+- Next by Date: **[Steelie Pattern Recipe RE: Thanks John!/intro](msg04037.html)**
+- Prev by thread: **[St. Joe (Idaho) report](msg04041.html)**
+- Next by thread: **[Steelie Pattern Recipe RE: Thanks John!/intro](msg04037.html)**
+- Index(es):
+  - [**Date**](date38.html#04038)
+  - [**Thread**](thread30.html#04038)
+
+**[Home](http://www.eskimo.com/~wesn/waflyfishers/) \| [Date Index](date38.html) \| [Thread Index](thread30.html) [Author Index](author.html)**

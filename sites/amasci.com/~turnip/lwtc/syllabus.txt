@@ -1,0 +1,42 @@
+CISA Director I - Syllabus 
+
+ MMDP 125 - Director I 
+ Instructor: Robert Falk 
+ Classroom: W115 Tue & Thur 4:00 - 6:50 p.m. April 1 &#8212; June 19, 2003 
+ e-mail: turnip@eskimo.com 
+ Course Description: 
+ Introduction to elements of multimedia authoring using Macromedia Director, one of the computer industry's most popular tools for creating animation, games and interactive material for the web and CD-ROM. Subjects include the basics of 2D animation, use of media (including images and audio), and the porting of Director movies to the web with Shockwave. We will also introduce lingo, Director's scripting language which can be used to bring interactivity into Director movies. 
+ Course Objectives: 
+
+ Learning to use Director for animating & authoring multimedia content 
+ Understanding the anatomy of a multimedia project 
+ Creating & managing media (images, sound, etc). for your projects. 
+
+ Prerequisites: 
+
+ Photoshop, Illustrator 
+ Familiarity with the MAC operating system 
+ Familiarity with HTML. 
+
+ Required for class: 
+
+ Textbook: Director Visual Quickstart Guide Andre Persidsky. 
+ 1 zip disk for storing your work. 
+
+ Attendance: 
+ Students are expected to attend all classes, and are responsible for all material presented in lectures; material covered in class will not be repeated. When a specific class period is designated in advance for use as lab time (typically the class before an assignment is due), attendance will up to you. 
+ Homework & Grading: 
+ Your grade will be based on five homework assignments/projects throughout the 
+ quarter; each will have a point value from 10 to 25 points. The five grades 
+ will be combined into a final total out of 100, then translated to the 4.0 scale 
+ for the purpose of assigning a final grade for the class (100-90 &#0151;> 
+ 4.0-3.5 (A), 89-80 &#0151;> 3.4-2.5 (B), 79-70 &#0151;> 2.4-1.5 (C), 69-65 
+ &#0151;> 1.4-1.0 (D), under 65 &#0151;> 0.0 (F)). Of course, I reserve 
+ the right to adjust a students grade up or down on the basis of his/her performance. 
+ All assignments will have clearly-defined due dates; projects up to one week 
+ late will be marked off 25%, and projects more than one week late will not be 
+ accepted. 
+ Note that, unless I specify otherwise, homework project are not collaborations; 
+ every student must turn in their own work. 
+
+ Back

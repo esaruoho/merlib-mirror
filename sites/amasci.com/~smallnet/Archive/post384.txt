@@ -1,0 +1,413 @@
+SMALLnet post384 
+
+ SMALLnet Posting post384
+
+Date: Mon, 16 Apr 2001 03:03:37 -0500
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet >
+
+Ed Booms < BoomsE@EagleOttawa.com > asks:
+
+I was wondering if anyone could give me their experiences and
+recommendations in regards to the various wire-bending tools
+available. I was looking at various models made by K & S,
+Micro-Mark, Higley's, etc. I will be using it for small R/C
+(.15 size and smaller) scratch building.
+
+If the tool can handle heavier wire than found on the .15-size
+aircraft, that would be a bonus. Not sure if any one tool can
+do this though. Also, does anyone know what size wire the
+Micro-Mark model is designed for?
+
+I really appreciate the SMALL site. Sites like this make the
+Internet worthwhile.
+
+Thanks, Ed B
+
+...Ed, I've done a LOT of wire bending, and I use two types of
+wire bending tools. One is the die-cast zinc alloy type that
+you called a Micro-Mark model. This has been around for a
+LONG time -- I bought mine for a dollar, roughly 30 years ago.
+It will accept any size wire used in model airplanes.
+
+However, I don't recommend this tool for precision wire bending!
+Neither do I recommend the Higley wire-bending tool: it's merely
+a more limited version of the Micro-Mark thingie.
+
+A far better tool for making accurate and repeatable wire bends
+is the one sold by K&S. I've been using an early model of their
+"Mini Wire Bender" for ten years, on wires from 1/8" diameter
+music wire on down. (For up to 1/4" diameter music wire, K&S
+has a "Mighty Wire Bender" -- but who uses that heavy-gage
+wire in SMALL models?)
+
+The K&S Bender wasn't truly useful to me until I added a simple
+modification. I cut an 8-inch circle from a FLAT piece of 3/16"
+aircraft plywood, then in the center of that cut a SNUG-fitting
+hole to fit the "base plate" of the K&S Mini Wire Bender.
+
+I then pressed the (cleaned of oil) bender baseplate into the
+hole in my plywood circle, and glued it (with CA) exactly flush
+with the top surface of the baseplate.
+
+I finished the job by adding self-adhesive shelf-covering plastic
+on top. This is white with an imprinted black grid of 1/2-inch
+squares -- mighty useful in making duplicate bends, such as for
+landing gear axles...
+
+The reason for my plywood "bender base extension" is that the
+K&S tool base is too small for good support of items such as
+model landing gears. It's hard to keep all the bends on the same
+flat "plane". But with my table addition, the job is EASY.
+
+The K&S baseplate is steel, about half an inch thick. It
+protrudes below my plywood table just enough for a good firm
+grip in my workbench vise jaws. And I added a hole near the
+rim, so I can hang the tool on a nail in the wall, and thus avoid
+having to hunt for it...
+
+Using this bender is not difficult. I mark the "central position"
+of each bend on the wire with a dab of machinist's grease pencil.
+I do this progressively; marking, then making, one bend at a
+time, using the full-size pattern of the landing gear on the
+model plan as a guide.
+
+I've found that as the wire is bent, it "wraps" and "travels"
+equally around the bending pin. That lets me position the
+pencil mark on the wire JUST tangent to the pivot pin before
+starting to make the bend. And as the wire bends, the grease
+pencil mark moves around the pin. It remains in the middle
+of the bend radius, so that I've never found it necessary to
+calculate extra material length for the "wrapped" portion.
+
+Now back to the Micro-Mark tool! I use that to UNbend music
+wire. Here's why. Bending music wire inevitably traps stress.
+If you make a bend exactly to a pattern, the wire wants to relax if
+it can -- and in model airplane landing gear it gets many good
+opportunities to do so.
+
+Therefore I OVERbend my music wire parts a little -- say 10 or
+15 degrees -- and then UNbend them to exact shape with my little
+die-cast $1.00 wire bender (that Micro-Mark now sells for $8.50
+plus shipping). That relaxes trapped stress, so that my carefully-
+formed wire landing gears retain their intended shape. [JW]
+
+Randy Randolph < randyranman@juno.com > contributed:
+
+As an addendum to Bob Cory's statement about the short run
+time on a Fox .15: I had a similar experience, and it had nothing
+to do with the carb!
+
+One evening I decided to hand launch the airplane, and when I
+held it up I noticed spray on my face. Holding the airplane up
+in the low sun clearly revealed the golden halo of fuel mist
+that was blowing out of the main bearing.
+
+Believe me, there was no close contact between the shaft and
+the bearing! When I swapped an O.S. .15 for the Fox, the flight
+time on the four-ounce tank went up to over 20 minutes; four
+times better than with the leaking Fox.
+
+Randy
+
+Fred Sanford < sanford@paulbunyan.net > wrote:
+
+The NiMH "9V transistor radio style" batteries work well in
+motors of the GWS size and down. Make sure you buy the
+NiMH's that put out 8.4 volts, as some brands have less voltage.
+
+At Radio Shack pick up some of the 9-V style connectors, and
+solder your choice of connector on the other end. (Soldering
+directly to the NiMH battery is difficult, and can easily
+damage it.) You can carefully remove the metal case, which
+will save a few grams.
+
+I charge these batteries at 200 milliamps on my AstroFlight 110D.
+Flight duration on my Horizon J-3 Lawn Cub is 6 minutes!
+
+Fred Sanford
+
+Stuart McKenzie < s__mck@hotmail.com > adds:
+
+In response to Andy Tebben's question about practical knowledge
+of the Ray-O-Vac 9V NiMH Batteries found at Wally World:
+
+The Ray-O-Vac 9V NiMH batteries cost $6.97 each, and the
+Ray-O-Vac overnight charger (9V @ 10 mA) costs $7.97. It will
+charge two of the 9V batteries overnight. The batteries MUST be
+cycled a few times before they will power a flight motor.
+
+I flew with a single 9V on my Wattage Lite Stik, but was only
+getting 1-2 minute flight times. I then decided to connect TWO
+9V batteries in parallel (+ to +, - to -), and now I am getting
+close to 8-9 minute flights.
+
+You get everything you need to fly for $22 - THE PRICE OF
+ONE CONVENTIONAL BATTERY PACK!
+
+Guys lighten the battery by taking the metal case off (1.5 g),
+getting rid of the 9V connector (heavy), and soldering wires to
+the + and -. (I have heard that the metal of the battery is
+hard to solder to.)
+
+Great Value and good performance (at least on the Litestick)
+
+Stuart McKenzie
+
+Larry McFarland < yylarry@yahoo.com > amplifies:
+
+If I might comment on Mr. Tebben's interest in the Wal Mart
+9v NiMH batteries: a good starting place is the EZone Web site:
+< http://www.ezonemag.com >.
+
+Do a search from their "Discussion" page on "+walmart +nimh"..
+
+I second the issues raised by Joe in Posting #383. Keep the
+current down. There are other NiMH choices as well. I believe
+that Andy will find a few hours worth of reading at the above
+Web site! Good luck with that little Starlite!
+
+Larry in Cleveland, Ohio
+
+John Whitsitt < JWKWAB@cs.com > contributed;
+
+Regarding proper balance of an R/C airplane, just roll it over
+and fly it inverted. If it needs forward stick, it's nose-heavy.
+Ideally, the plane should not change its own pitch upright or
+inverted. Once balanced, adjust elevator sensitivity to your
+taste. The preceding primarily applies to symmetrical and
+semi-symmetrical airfoils, but flat-bottomed wings can
+nearly be set up for the same effect.
+
+John Whitsitt Merriam, Kansas
+
+Chuck Kriete < dotchuck@epix.net > reports:
+
+Joe's explanation of "nose-heavy VS tail-heavy" just cleared
+up a phenomenon I observed with my Eindecker that had me
+going crazy. It balanced what I thought was nose-heavy on the
+balancing rack, but climbed at too steep an angle for comfort
+(plus I stalled it twice).
+
+I moved the CG back a little, and the problem is solved.
+Thanks for the great explanation.
+
+Chuck Kriete
+
+Nic Hallett < swiftweasel@webtv.net > asserts:
+
+Fred Sanford's comments in Posting #383 about those attending
+the Toledo Show and the P.E.R.F. 2001 Invitational point out a
+little-known fact. Old model airplane flyers don't die, they
+just go indoors. Nic
+
+Harry Stewart < hstewart@jps.net > submitted:
+
+ Source: Small tools 
+
+I just came across the neatest on-line tool store:
+< http://www.micro-tools.com >.
+
+They specialize in camera repair tools, but they have every small
+screwdriver known to man as well as some other interesting items.
+I ordered in the afternoon and had my order the next day by
+priority mail. If you live on the east coast it may take two or
+three days. They will send a printed catalog free with an order.
+
+Harry Stewart
+
+Luke Thompson < lhenryt@earthlink.net > asks:
+
+I've got a small dilemma: I have a Grasshopper freeflight
+cabin model designed by Paul Plecan, and choice of two
+OK Cub .049's to place in her nose. One is the front rotary
+version and one is the reed valve version.
+
+So far so good; I'm sure either one will be adequate for this
+little bird. As soon as I put in the new glowheads they will
+be good to go. I acquired both little engines second hand,
+and have never run either of them too successfully.
+
+They both seem to have good compression. I burned up the
+first glow head on one, and the other just wouldn't light.
+
+I know how to start the Cox reed valve .049's but am not sure
+of the needle settings I should use on the OK's. Believe it or
+not, I'm the type of guy that actually does read instructions.
+
+Does anyone have reprints of the operating manual for these little
+rascals, or general rules of thumb to ignite the little beasties?
+
+I'm sure I could get 'em going by trial and error, but, if the
+information is out there and available, it would be helpful.
+
+Thanks, Luke Thompson
+
+...Luke, one problem with the later-made OK Cub .049's is that
+their needle valve assemblies weren't made or installed with
+consistency. For that reason it's not of much help to say,
+"Open the needle ___ turns from fully closed to start."
+
+Here's how I find the starting position for OK Cub needles.
+
+For an engine I haven't handled before, I make certain that the
+needle CAN be closed to seal off the spraybar orifice. Some
+can't, because their needles haven't been pressed deeply
+enough through their threaded housings. (Most of those can
+be fixed by pressing the needle a little further through.)
+
+The ideal position for the Cub needle is for it to shut off flow
+JUST before the threaded knob sleeve bottoms. But as much
+as 1/8" "clearance space" is acceptable.
+
+For starting, close off the needle; then prime with a drop of
+fuel into an exhaust port WITH THE PISTON COVERING
+THE PORTS.
+
+With the plug connected, flip the prop; the engine should
+start and run for about a second. If it doesn't, either the fuel
+or the plug is bad. (Cubs are like Coxes: they thrive best on
+glow fuel with a MINIMUM of 20% castor oil lubricant.)
+
+If the engine DOES start on prime, open the needle about 1 1/2
+turns; choke JUST enough to fill the fuel line; then prime again
+and flip to start. If the engine dies, open the needle another
+half turn and try again.
+
+Most of my Cubs require a rich start, with the needle open maybe
+3/4 of a turn from the best running position. I let the engine warm
+up a few seconds, then SLOWLY screw in the needle just until
+smooth running occurs. I DO NOT attempt to "peak" Cubs. [JW]
+
+Charlie Ziehl < Radioflyz@aol.com > wrote:
+
+Roy Clough mentioned the Paper Tiger, which is apparently a
+model built with foam board. I would very much like to see
+the plans for this.
+
+I have been building model planes for the last 65 years...
+I had a stroke in 1989 which left me with a disabled right arm
+and hand. I still build and fly small model aircraft.
+
+I always enjoyed the unique building ideas presented by Roy
+Clough's articles, so would like to try the Paper Tiger.
+
+Thanks, Roy, for all the good stuff you have shown us over
+the years. Charlie Ziehl
+
+Tony Turley < tonytur@charter.net > reports:
+
+I finally got around to flying my converted Cox "Recon".
+It flies very nicely. I used a geared Kyosho AP29R for power,
+with 7 N650s, a 7x6 prop, and a Castle Sprite 25 ESC. The
+receiver is an ancient R114H, with two S133 servos.
+
+Flying weight is 32 ounces, and with that big wing, it has
+plenty of power. I went for altitude on my first flight, and
+got a nice long flight. It was an easy, inexpensive conversion.
+
+Tony Turley Scott Depot, West Virginia
+
+Charlie Fries < c.s.fries@juno.com > remarks:
+
+Thanks to SMALLnet, am now enjoying electric flight with a
+folding prop, geared motor and a modern speed control.
+Several contributors were most helpful in answering my questions.
+Only thing that remains is the danger in having the prop slicing
+my body parts by an inadvertent turn-on. Surprisingly, a total
+ON-OFF switch is not included in many speed controls !
+
+Charlie
+
+Adam Bryant < adamdb@juno.com > inquired:
+
+Has anyone built/flown a model of Barnaby Wainfain's Facetmobile?
+I have one nearing completion and would like to discuss CG
+location, control throws, downthrust, etc. I have heard that
+Facetmobile models from peanut scale through 1/4 scale have been
+flown successfully.
+
+Mine has a 17" wingspan and will use an O.S. .10FP for power.
+If you're not familiar with this plane, it is a wonderfully weird
+flying wing/lifting body that has angles like the F-117 Stealth
+Fighter instead of the nice curvy shapes we are used to with
+normal planes. The full-size plane had a 17' wingspan and
+successfully flew from Chino, California to Oshkosh, Wisconsin
+and back a few years ago.
+
+Adam Bryant
+
+...Adam, a couple of years ago at the Maumelle SMALL meet a
+fellow had a Facetmobile just about the size you're working on.
+It flew magnificently. Its engine was cowled in; I was rather
+busy and neglected to ask questions about that model. Then the
+fellow went home early, and I never had a chance to get more
+information. Perhaps another SMALLster can help. [JW]
+
+Mike Banke < banke@whitelion.net > sent:
+
+If for nothing else than to fill up space, let me tell youall
+about my foamy called "Son of Tuit". Randy's "Small Talk" column
+of a couple of months ago had a picture of some old codger holding
+my pride and joy.
+
+It consists of a 16" circle, a 3" X 6" rhomboid-shaped fin and a
+1" X 15" keel, all of 1/2" insulating foam board. A GWS D motor,
+8 120 mAh nicads, Feather receiver, and two Pico mini servos make
+up the power and direction complement.
+
+Direction control is accomplished by elevons which are cut from
+the circle and taped back on after chamfering their leading edge
+about 20 degrees. A 3/8" X 2" spruce motor mount suitably trimmed
+to fit the GWS motor is epoxied on top of the circle, and nicads
+and receiver are held on with Velcro. The servos are press-fit
+on either side of the fin. It really does fly, and axial rolls
+like crazy. Mike Banke
+
+Dan McLeod < danmcleod@canada.com > reports:
+
+We have been flying small diesel-powered models on skis all
+winter here in Ottawa. The snow is finally gone now, and I've
+made my annual trip to Mecca (aka Toledo). I have 2 new
+PAW 55's soon to arrive from Dave Larkin, and models waiting
+to receive them. Oh yes, skis are now replaced by wheels.
+
+And an excellent Cassutt kit for the building board.
+
+I have acquired an old used Super Tigre G20/23. I didn't even
+try to run it for a while, as it was reported to be a problem
+runner. It has a Webra muffler that misaligns a bit, and the
+thrust washer came from who knows where and more.
+
+So I fiddled with it and cleaned things up a bit and tried to
+start it. This old girl has a lot of go still. On an 8x6 Master
+Airscrew prop and 5% nitro it is turning 12K with no problems.
+
+It has a touchy idle setting though (2 needles) and tends to load
+up and quit. I checked for some more information and found
+that Peter Chinn had done a review on it in MAN in May 1969.
+I don't have that particular issue.
+
+I was wondering if anyone could perhaps help me to read it.
+It would be much appreciated. I think this engine has a lot of
+potential. Perhaps someone else has some experience with it.
+
+There may also be reviews elsewhere that I do not know about.
+Thanx for any help. Dan
+
+...Dan, seems to me that an 8-6 is rather small for a .23!
+I'd use a 10-4 for R/C sport flying with that motor.
+
+25 years ago while I was living in New Wilmington, Pennsylvania,
+one of the local R/C flyers used a Super Tigre .23 and a Top
+Flite 10-inch prop (I think a 10-4 or 10-5) in his favorite
+sport-flying airplane. It was a dependable performer, and
+could ROG from grass that wasn't cut especially short.
+(We flew from a seldom-used ballfield). [JW]
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

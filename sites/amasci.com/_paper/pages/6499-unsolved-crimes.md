@@ -1,0 +1,37 @@
+---
+title: "Unsolved Crimes"
+source_domain: amasci.com
+source_path: ~rarnold/unsolved_crimes.htm
+order: 6499
+reachable_from_entry: false
+images: 1
+internal_links: 8
+extracted: 2026-08-07T05:59:17Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Unsolved Crimes
+
+*Source page: `~rarnold/unsolved_crimes.htm`*
+
+**<img src="cover.gif" width="619" height="30" alt="Center for the Defense of Free Enterprise" />\**
+**<a href="index.html" style="text-decoration: none">HOME</a>    <a href="issues.htm" style="text-decoration: none">ISSUES</a>    <a href="opposition.htm" style="text-decoration: none">OPPOSITION</a>    <a href="projects.htm" style="text-decoration: none">PROJECTS</a>    <a href="defenders.htm" style="text-decoration: none">DEFENDERS</a>    <a href="wiseuse.htm" style="text-decoration: none">WISE USE</a>    <a href="book_store.htm" style="text-decoration: none">BOOKSTORE</a>    <a href="archive.htm" style="text-decoration: none">ARCHIVE</a>**\
+ 
+
+**UNSOLVED ENVIRONMENTALIST CRIMES**
+
+Many unsolved crimes have been attributed to environmentalists by law enforcement agencies.
+
+**5/30/97** Mount Angel, Oregon. Ecoterrorists attacked a mink ranch and released 10,000 minks, many of which died of exposure and were killed crossing roadways. Many others killed each other, as mink readily fight when not separated. The loss could amount to several hundred thousand dollars. No group took credit for the raid. The Animal Liberation Front is the prime suspect, maintaining a web site with explicit instructions on how to attack fur farms and the fur industry. The FBI joined the Marion County sheriff's department in the investigation. See "Eco-terrorists suspected in release of 10,000 minks," *The Eugene Register-Guard*, Sunday, June 1, 1997, by the Associated Press.
+
+**June 28/96**. Lyons, Oregon. Twelve-inch steel and ceramic tree spikes in logs from the Santiam Canyon timber sale hit the blades of a veneer lathe and cost the Freres Lumber Co. several thousand dollars, but no one was injured. Millworkers found three spikes while peeling logs at the Freres veneer plant east of Salem. Tree spikes found at controversial old-growth sale, Corvallis Gazette-Times, Friday, July 19, 1996, by The Associated Press, p. 1.
+
+**February 23/96**. Near Olympia, Washington. A historic 80-year-old barn sitting on 10 acres of private property within Capitol Forest was destroyed by arson. The barn was owned, restored and used by the Tacoma Trail Cruisers Motorcycle Club. Arson investigators believe that individual(s) set the blaze at about 1:30 a.m. A concrete pump house was also spray painted with the slogans Stop Destroying The Rest Of The Wildland and ORV = DEATH. ORV is thought to mean off road vehicle. Thurston County Sheriffs Department report.
+
+**June 1995**. Salem, Oregon. Associated Oregon Loggers issues a Member Alert, warning that a major private timberland owner reported explosives wired into lock boxes on their forest gates. When you try to unlock the gate the charge goes off along with your hand. An AOL member also warned of finding syringes in gate lock boxes. Members were cautioned to examine all forest gate lock boxes before attempting to open them, to notify law enforcement if explosives were discovered and not to attempt opening a wired gate.
+
+**April 15/95**. Near Deming, New Mexico. Thirty-one cows and calves were shot and killed in two separate incidents. The first incident occurred between 6:30 p.m., Friday, April 14 and 3:00 p.m. Saturday, April 15, 1995, when one or more persons entered Tom Kelleys Tres Lomitas Ranch and killed 20 head of cattle with a high velocity rifle. Each cow was killed with a single shot at relatively close range. All shell casings were picked up and removed by the shooter(s). During this incident, a water storage tank supplying water to four separate pastures was emptied by removing a pipe fitting. In addition, the windmill used to fill the storage tank was disabled by breaking the sucker rod. The bolts on the legs of the windmill were removed. The vandalism was discovered before the mill blew down. Interview with Tom Kelley, Reno, Nevada, May 11, 1996.
+
+**April 12/95**. Stevenson, Washington. Earth Firsters vandalize golf course at Skamania Lodge, where the Northwest Forestry Association was meeting. Rock salt etched Stumps suck, corporate scum, and EF, initials of Earth First, on the putting greens of the Skamania Lodge golf course. Inside the lodge, vandals detonated a stink bomb that evacuated the building. The Skamania County sheriffs department could not identify suspects. Earth First Journal for April, 1995 published instructions on how to sabotage golf courses, concentrating on vandalizing irrigation systems. Vandals Mar Meeting Site of Timber Executives, Portland Oregonian, Wednesday, April 12, 1995, by Peter Sleeth and Joan Laatz, p. C1.
+
+**March 19-24/95**. Churchill County, Nevada. A cow camp in the West Lee Canyon of the Stillwater Mountain Range near Fallon, Nevada was destroyed by arson. A bunkhouse and cookhouse owned by the Kent family in West Lee Canyon were burned to the ground. The arsonist(s) attempted to burn down the nearby corrals, and water facilities at the ranch sustained heavy damage. Bureau of Land Management signs along the road to the ranch were also destroyed by apparent shotgun blasts. Sheriffs Department is searching for arsonist, *Lahontan Valley News and Fallon Eagle Standard*, Wednesday, April 5, 1995, p. 1.

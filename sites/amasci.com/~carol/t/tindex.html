@@ -1,0 +1,202 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 4//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+<META HTTP-EQUIV="Content-Style-Type" content="text/css">
+<!-- Put separate inline style here.  T.css messes up netscape even when using indx class
+ -->
+<style type="text/css">
+  BODY {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 10pt;
+   color: #333399;
+   background-image: url(images/s.jpg);
+   padding: 0;
+   margin: 0;
+  }
+</style>
+<title>Tinnitus Online Community</title>
+<script language="JavaScript">
+<!--hide this script from non-javascript-enabled browsers
+
+/* Function that displays status bar messages. */
+function MM_displayStatusMsg(msgStr)  { //v3.0
+	status=msgStr; document.MM_returnValue = true;
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+/* Functions that swaps down images. */
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) 
+        if ((img = MM_findObj(args[i])) != null) {
+            if (!img.MM_up) img.MM_up = img.src;
+            img.src = img.MM_dn = args[i+1];
+            nbArr[nbArr.length] = img;
+        } 
+    }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+
+  } else if (event == "down") {
+    if ((nbArr = document[grpName]) != null)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+    this.focus();
+    }
+}
+
+function initThePage()  {
+   var MB = document.MenuBtns = new Array();
+   MB[0]  = "BtnHome";
+   MB[1]  = "BtnTinfo";
+   MB[2]  = "BtnChat";
+   MB[3]  = "BtnIrcHelp";
+   MB[4]  = "BtnPeople";
+   MB[5]  = "BtnTrt";
+   MB[6]  = "BtnYahoo";
+   MB[7]  = "BtnMeet1";
+   MB[8]  = "BtnBabies";
+   MB[9]  = "BtnSounds";
+   MB[10] = "BtnHallow";
+
+   if (document.images) { 
+       if(!document.MM_p) document.MM_p=new Array();
+       var i,j=document.MM_p.length; 
+       for(i=0; i<MB.length; i++)  {
+           document.MM_p[j]=new Image; 
+           document.MM_p[j++].src="buttons/" + MB[i] + "D.gif";
+           document.MM_p[j]=new Image; 
+           document.MM_p[j++].src="buttons/" + MB[i] + "O.gif";
+           document.MM_p[j]=new Image; 
+           document.MM_p[j++].src="buttons/" + MB[i] + "U.gif";
+       }
+   }
+   parent.frames["body"].location= "tmain.html";
+}
+// stop hiding
+-->
+</script>
+</HEAD>
+<body bgcolor="#ffffff" onLoad="initThePage();">
+
+<center>
+
+<a href="tmain.html" target="body" onMouseOut="MM_nbGroup('out');"  
+   onMouseOver="MM_nbGroup('over','BtnHome','buttons/BtnHomeD.gif','buttons/BtnHomeD.gif',1);"
+   onClick="MM_nbGroup('down','navbar1','BtnHome','buttons/BtnHomeO.gif',1);"
+   ><img name="BtnHome" src="buttons/BtnHomeO.gif" width="118" height="39" 
+   border="0" alt="Home"   
+   onLoad="MM_nbGroup('init','navbar1','BtnHome','buttons/BtnHomeU.gif',1)"
+
+   ></a><br>
+   
+<a href="moretinn.html" target="body" onMouseOut="MM_nbGroup('out');"  
+   onMouseOver="MM_nbGroup('over','BtnTinfo','buttons/BtnTinfoD.gif','buttons/BtnTinfoD.gif',1);"  
+   onClick="MM_nbGroup('down','navbar1','BtnTinfo','buttons/BtnTinfoO.gif',1);" 
+   ><img name="BtnTinfo" src="buttons/BtnTinfoU.gif" width="118" height="39" 
+   border="0" alt="Tinnitus Info"></a><br>
+    
+<a href="tchat.html" target="body" onMouseOut="MM_nbGroup('out');"  
+   onMouseOver="MM_nbGroup('over','BtnChat','buttons/BtnChatD.gif','buttons/BtnChatD.gif',1);" 
+   onClick="MM_nbGroup('down','navbar1','BtnChat','buttons/BtnChatO.gif',1);" 
+   ><img name="BtnChat" src="buttons/BtnChatU.gif" width="118" height="39" 
+   border="0" alt="Chats (IRC)"></a><br>
+   
+<a href="irchelp.html" target="body" onMouseOut="MM_nbGroup('out');"  
+   onMouseOver="MM_nbGroup('over','BtnIrcHelp','buttons/BtnIrcHelpD.gif','buttons/BtnIrcHelpD.gif',1);"  
+   onClick="MM_nbGroup('down','navbar1', 'BtnIrcHelp','buttons/BtnIrcHelpO.gif',1);"
+   ><img name="BtnIrcHelp" src="buttons/BtnIrcHelpU.gif" width="118" height="39" 
+   border="0" alt="IRC Help"></a><br>
+  
+<a href="chatpeople.html" target="body" onMouseOut="MM_nbGroup('out');"  
+   onMouseOver="MM_nbGroup('over','BtnPeople','buttons/BtnPeopleD.gif','buttons/BtnPeopleD.gif',1);"  
+   onClick="MM_nbGroup('down','navbar1','BtnPeople','buttons/BtnPeopleO.gif',1);" 
+   ><img name="BtnPeople" src="buttons/BtnPeopleU.gif" width="118" height="39" 
+   border="0" alt="Chat People"></a><br>
+  
+<a href="ah.html" target="body" 
+   onMouseOut="MM_nbGroup('out'); MM_displayStatusMsg('');"  
+   onMouseOver="MM_displayStatusMsg('Tinnitus Retraining Therapy');
+        MM_nbGroup('over','BtnTrt','buttons/BtnTrtD.gif','buttons/BtnTrtD.gif',1);
+   return document.MM_returnValue"  
+   onClick="MM_nbGroup('down','navbar1','BtnTrt','buttons/BtnTrtO.gif',1);" 
+   ><img name="BtnTrt" src="buttons/BtnTrtU.gif" width="118" height="39" 
+   border="0" alt="Tinnitus Retraining Therapy"></a><br>
+         
+
+<br><br>
+<a href="tyahoochat.html" target="body" onMouseOut="MM_nbGroup('out');"  
+   onMouseOver="MM_nbGroup('over','BtnYahoo','buttons/BtnYahooD.gif','buttons/BtnYahooD.gif',1);"
+   onClick="MM_nbGroup('down','navbar1','BtnYahoo','buttons/BtnYahooO.gif',1);" 
+   ><img name="BtnYahoo" src="buttons/BtnYahooU.gif" width="118" height="39" 
+   border="0" alt="Yahoo Chats"></a>
+
+<br><br><br>
+<hr>
+<b>Lighter Side</b>
+<hr>
+       
+  
+<a href="tmeet1.html" target="body" onMouseOut="MM_nbGroup('out');"  
+   onMouseOver="MM_nbGroup('over','BtnMeet1','buttons/BtnMeet1D.gif','buttons/BtnMeet1D.gif',1);"  
+   onClick="MM_nbGroup('down','navbar1','BtnMeet1','buttons/BtnMeet1O.gif',1);" 
+   ><img name="BtnMeet1" src="buttons/BtnMeet1U.gif" width="118" height="39" 
+   border="0" alt="#t meet, #1"></a><br>
+  
+<a href="tbabies.html" target="body" onMouseOut="MM_nbGroup('out');"  
+   onMouseOver="MM_nbGroup('over','BtnBabies','buttons/BtnBabiesD.gif', 'buttons/BtnBabiesD.gif',1);"  
+   onClick="MM_nbGroup('down','navbar1','BtnBabies','buttons/BtnBabiesO.gif',1);" 
+   ><img name="BtnBabies" src="buttons/BtnBabiesU.gif" width="118" height="39" 
+   border="0" alt="Chat Babies"></a><br>
+     
+<a href="tchatsounds.html" target="body" onMouseOut="MM_nbGroup('out');"  
+   onMouseOver="MM_nbGroup('over','BtnSounds','buttons/BtnSoundsD.gif','buttons/BtnSoundsD.gif',1);"  
+   onClick="MM_nbGroup('down','navbar1','BtnSounds','buttons/BtnSoundsO.gif',1);" 
+   ><img name="BtnSounds" src="buttons/BtnSoundsU.gif" width="118" height="39" 
+   border="0" alt="Chat Sounds"></a><br>
+     
+<!--
+<a href="thalloween.html" target="body" onMouseOut="MM_nbGroup('out');"  
+   onMouseOver="MM_nbGroup('over','BtnHallow','buttons/BtnHallowD.gif',
+                'buttons/BtnHallowD.gif',1);"  
+   onClick="MM_nbGroup('down','navbar1','BtnHallow','buttons/BtnHallowO.gif',1);" 
+   ><img name="BtnHallow" src="buttons/BtnHallowU.gif" width="118" height="39" 
+   border="0" alt="Chat Sounds"></a><br>
+     
+
+<br><img alt="" src="hallow/spider.gif" width=36 height=90><br><br>
+-->
+
+<br><img align=top alt="" 
+src="http:/cgi-bin/Count.cgi?dd=B|frgb=69;139;116&df=carol.dat&sh=F"
+width=0 height=0>
+</center>
+</body>
+
+</html>
+
+

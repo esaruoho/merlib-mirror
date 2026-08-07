@@ -1,0 +1,92 @@
+---
+title: "R1GHT: (k)NOW.ledge.= kN0Nsents... WAKE UP !!!"
+source_domain: amasci.com
+source_path: ~wakemup/r1ght.html
+order: 9453
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T06:01:59Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# R1GHT: (k)NOW.ledge.= kN0Nsents... WAKE UP !!!
+
+*Source page: `~wakemup/r1ght.html`*
+
+grabbed for BETTER fun.\
+
+    >>Date:    Fri, 31 May 1996 14:57:02 -0500
+    >>Subject: Teaching Gibberish Study 
+
+        setting up a study to teach gibberish
+        in place of the numbers 1-50 
+        as a way to measure the effectiveness
+        of different teaching mediums
+     - lecture,reading, etc.  
+      
+    >>Perhaps the difficulty with teaching gibberish 
+    as opposed to numbers has to do with a lack of 
+
+    gibberish structure.
+
+    New knowledge is integrated 
+    into existing structures 
+
+    or 
+    if the new information defies existing structures
+
+    then new structures are built if the learner is
+    >>developmentally able to do that.
+    >>
+    (I apologize if I misstate Piagetian theory - I've had minimal
+     exposure to it)
+
+    >>In your study, structure is provided by the numbers 1-50.  The learners
+    >>would most likely try to attach the symbols to the numbers in some
+    >>meaningful way, transferring the number structure to the gibberish.  
+
+    To do this, they might try to find similarities between
+     the shape of the symbol and the number. 
+     Or
+     they might equate the value
+    of the number with the size
+    or detail of the symbol.
+
+      Each learner might have a unique method.  
+    At any rate, the learner will probably spend alot of time
+     coming up with a pattern that works for them.
+
+      That's what's meant by the phrase
+
+     "making sense out of something."
+
+      The learner(s) will impose their OWN structure 
+    if one isn't readily discernible.
+    >>
+    >>So, if learning involves patterning, then the most effective teaching
+    medium would be the one that facilitates associating the symbols to the
+    structure of the numbers.
+
+      Or giving the learner a structure that helps them order the
+    >>symbols accordingly.  So that they can retrieve the 48th symbol 
+    or whichever one you ask for. 
+      
+      Or insert the symbols into equations.  I'm assuming this
+      is close to the way you will measure their knowledge.
+    >>
+    >>I would suggest you research 
+    a branch 
+    of learning theory referred to as <
+
+    >>Connectionism.  
+    It holds that thinking involves pattern-matching and
+    >>pattern-using.
+
+    >>"Implications of connectionism for thinking about rules" 
+    by C. Bereiter (1991, April) Educational REsearcher, 20(3), 10-16.
+    >>
+    >>Clare Walsh, M.Ed.
+    >>Instructional Designer
+    >>InterCom
+     woe

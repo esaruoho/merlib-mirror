@@ -1,0 +1,181 @@
+---
+title: "What You Can Do To Support Women's Rights, Part II - Charles W. Johnson"
+source_domain: amasci.com
+source_path: ~cwj2/whatyoucando2.html
+order: 2057
+reachable_from_entry: false
+images: 2
+internal_links: 2
+extracted: 2026-08-07T05:55:45Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# What You Can Do To Support Women's Rights, Part II - Charles W. Johnson
+
+*Source page: `~cwj2/whatyoucando2.html`*
+
+<div id="supportbar">
+
+<div class="button">
+
+</div>
+
+<div class="text">
+
+You can support the work that goes into creating this online content by contributing a small amount online. I suggest about \$2-\$3 for each year that you read the website.
+
+</div>
+
+</div>
+
+<div id="banner">
+
+<div class="sig">
+
+Charles W. Johnson
+
+</div>
+
+# What *You* Can Do To Support Women's Rights
+
+<div class="updated">
+
+Last revised 13 May 2001
+
+</div>
+
+</div>
+
+<div class="liquid-columns">
+
+<div class="navcol">
+
+- [Part I](whatyoucando1.html)
+- Part II
+- [Part III](whatyoucando3.html)
+
+<!-- -->
+
+- [Front](http://www.eskimo.com/~cwj2/)
+
+- [Politics](http://www.eskimo.com/~cwj2/politics.html)
+
+- [Writing](http://www.eskimo.com/~cwj2/writing/)
+
+- 
+
+  ------------------------------------------------------------------------
+
+- [Pages by me](http://www.eskimo.com/~cwj2/pages.html)
+
+- [Webrings](http://www.eskimo.com/~cwj2/index.html#webrings)
+
+- [Links](http://www.eskimo.com/~cwj2/linkroll/)
+
+- 
+
+  ------------------------------------------------------------------------
+
+- [About Me](http://www.eskimo.com/~cwj2/me.html)
+
+- [Copyright](http://www.eskimo.com/~cwj2/copyright.html)
+
+- [Contact me!](http://www.eskimo.com/~cwj2/feedbackform.html)
+
+<div id="validated">
+
+<div class="icon">
+
+[<img src="http://www.eskimo.com/~cwj2/images/valid-xhtml10.gif" data-longdesc="http://validator.w3.org/about.html" width="88" height="31" alt="Valid XHTML 1.0!" />](http://validator.w3.org/check/referer)
+
+</div>
+
+<div class="icon">
+
+[<img src="http://www.eskimo.com/~cwj2/images/valid-css.gif" data-longdesc="http://jigsaw.w3.org/css-validator/README.html" width="88" height="31" alt="Valid CSS!" />](http://jigsaw.w3.org/css-validator/check/referer)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="contentcol">
+
+<div class="intro">
+
+As both a male peer educator and a radical feminist activist, one of the most common questions I hear from men about feminism is, "What can I do?" It is true that many men are openly hostile towards women and towards feminism, and most men (in my experience) are at best ambivalent and somewhat suspicious of feminism and feminist groups. But most men that I talk to at least pay lip service to the fundamental doctrine of feminism, that women deserve the same rights as men and that any just society must include an end to gender oppression. These men, mostly political liberals, agree that the oppression of women, where it exists, is an injustice that must be stopped. However, they rarely know where and how they can act to help the cause of women's rights. In this series of articles I will present a few suggestions on how to help fight for gender justice. They are intended to be very broad but nonetheless have clear and practical implementations. Many of them will apply equally to men and women, but because men have a unique lack of information about women's oppression and strategies for fighting it, most of the suggestions will be primarily addressed to men. Some will exclusively address issues raised by men within what is fundamentally the *women's* movement. In other articles I hope to present more specific strategies for both women and men, but before any of that, we need to understand the basic things, the simple things that, if understood, make so much difference.
+
+</div>
+
+<div class="paper">
+
+## What you can do - Part II ([« Prev](whatyoucando1.html "Go back to Part I") \| [Next »](whatyoucando3.html "Go on to Part III"))
+
+<div class="content">
+
+*This article continues [Part I](whatyoucando1.html) of What You Can Do to Support Women's Rights*, which dealt with the three fundamental points of activism for women's rights: **believing and supporting women**, **getting involved**, and **educating yourself**. It builds on [Part I](whatyoucando1.html) with three fundamental points of bringing that very public fight into your "private" day-to-day life. The order of presentation is somewhat the reverse of what is typical for the Men's Movement, which tends to focus on redefining a vague something which they call Male Identity, mostly through the personal renunciation of privilege, and hoping that one day everyone will be in the Men's Movement and therefore all male privilege will be renounced. A leader in a community group working on violence against women once told our Men Against Gender Violence group that we should all try to change ourselves "at your own pace." Well, listen up: women **don't have time** to wait around for all men to be enlightened. A real, meaningful commitment to women's rights, "means something more than a personal renunciation. It means a systematic, political, active, public attack. And there has been very little of that" [(Dworkin \[1983/1993\] 169)](http://www.igc.org/Womensnet/dworkin/WarZoneChaptIIIE.html "Andrea Dworkin (1983), "I Want A Twenty-Four Hour Truce During Which There Is No Rape," in LETTERS FROM A WAR ZONE (1993), 162-171.").
+
+- ***Refuse to abuse women*** - The most fundamental betrayal of women's rights, women's dignity, women's humanity is the abuse of women. Violence against women is a **systematic** form of gender terrorism which, where it succeeds, keeps *all* women under the boots of *all* men. And as a system, it is built out of millions upon millions of tiny acts of brutality and terror, acts which keep *individual* women under the boots of *individual* men (or small groups of men): the rapes that one in four women suffer, the more than two million attacks that women suffer every year, the brutal exploitation and coercion of women by pimps and pornographers. When you abuse women, you participate in that system, and that means that you fight against the full rights and dignity of women.
+
+  It seems beyond obvious to point out that men fighting for women's rights have to renounce the abuse of women. Everyone knows that - or everyone damn well ought to know it. But we **are** men within a patriarchal culture. And we **have** been made into little soldier boys from the minute we were cut from our mothers' bodies. And we **do**, all of us, including myself, sometimes fail in our commitment to feminism. We may **act almost involuntarily, out of reflexes and habits** built up through years of acculturation: we forget to listen to women, we try to dominate women in conversations, we think of women as objects to be controlled or possessed and then try to control or possess them - emotionally, physically, sexually - in our relationships. We may **not recognize that our acts *do* hurt women**: we consume pornography, we make jokes glorifying pimps, we support films and books and television programs with cruelly misogynist elements. Or, sometimes, we know what we are doing, and we know what it does, but we do it anyway, because **we want power, we want male privilege**. We exploit women sexually, we indulge in misogynistic humor, we take advantage of the guilt and passivity that we *know* women are brought up with in order to make them helpless against us. Men in a patriarchal culture can *never* simply say that they are "not sexist" or that they never have misogynist attitudes.
+
+  But we cannot hide behind guilt, and we cannot let guilt cripple us in our fight. Instead, what we *must* say and practice is that we are also **against misogyny, anti-sexist**. We must say that cannot stand misogyny, and we must fight against it, whether it is on the streets or in our friends or in ourselves. And this means that we, as men, must **stop doing some things**.
+
+  We must stop trying to argue women down and exclude them from conversation. Men often do not realize that we are excluding women, because we merely think that we have not finished talking: over and over again I have seen the few men in groups lock all women out through back-and-forth arguments, never even leaving enough time in between statements for others to step in. We need to stop such *combative* ways of speaking. Don't feel the need to leap into conversations at the first available opening; give others a chance to say something. And if you notice that women are not being included in a conversation, **stop and encourage them to speak**.
+
+  We must also stop trying to control women in relationships and sexuality. This means **avoiding jealousy** and the control (emotional, physical, or economic) over talk, movement, and personal relationships that it can lead to. It also means **refusing to "pursue" relationships**: work on abandoning the language of pursuit, hunting, "the chase" in relationships, and the conception of sexuality as "scoring," "making it," or "how far you can get." Which also means rethinking the way you begin and behave in relationships: **stop going out to "meet chicks,"** "find someone," or "get some." Don't try to hunt down meaningful relationships: try letting them develop instead. And try **letting women initiate** romantically and sexually: forget the male imperative to "make things happen" and the idea that if you do not, then you will be "missing your chance" (What chance? The opportunity to "score"). This is not to say that you should become as passive as possible; it is to say that you should not act on the premise that you, *as a man*, must initiate *all the time*.
+
+  We must also come to recognize ways in which women are hurt and refuse to support or practice those forms of abuse. As I mentioned in [Part I](http://www.eskimo.com/~cwj2/whatyoucando1.html), coming to recognize these abuses is part of **listening to women** and **educating yourself** about the history and theory of women's rights. We must **refuse to [consume pornography](http://www.igc.apc.org/Womensnet/dworkin/WarZoneChaptIVC.html "Andrea Dworkin (1981), "Pornography's Part in Sexual Violence," from LETTERS FROM A WAR ZONE")**: when we consume pornography we both internalize the propaganda of violence against women, and also support the pimps who cruelly exploit women in the multibillion dollar "sex industry." We must also **refuse misogynistic humor** and **humor that glorifies the abuse of women** (of particular concern today is the **glorification of pimps**). And we must **recognize misogynistic or patriarchal elements** in the media, even if the book, article, television program, or movie seems to be irrelevant to gender. A complete silence on gender can sometimes be the most important kind of statement: the *exclusion of women from consideration* is certainly not irrelevant to women's rights. Always ask yourself what an author, editor, distributor is saying about us as men and as women, and if you don't like it, then **refuse to support them** with your money - either through purchases, advertising dollars, or recommendations to others. This doesn't mean refusing to look at anything that might be the least bit misogynist. But it does mean **refusing to wholeheartedly support** those publications that are patriarchal.
+
+- ***Call out other men*** - just as men must refuse to participate in the abuse of women, we must also refuse to support others who participate in it - which includes **not sanctioning them through our silence**. When your friends, your family, or anyone else, express controlling attitudes towards women, tell misogynistic jokes, consume pornography, ignore or exclude women, or in any other way support the abuse of women, **call them out on it**. Make your opposition known. You may not - indeed, you probably will not - completely change the mind of the other man. But you will make your statement heard by those around you. And you will swell the voice against all those abuses. That voice which is all too lacking today, and without a strong and vigorous voice against gender violence, there will be little if anything to stop those who would perpetuate it.
+
+- ***Acknolwedge feminism*** - thus far I have been speaking of "women's rights," "gender justice," and other euphemisms which try to dance around **the F-word: feminism**. I have done so to try to bring us to making exactly this point. We as men need to **accept and celebrate the term 'feminism' and the tradition of feminism.** If we are to fight for what feminism fights for - the fundamental dignity of women - then we must not stand off to one side of the feminist tradition. This means **being, uncompromisingly and unapologetically, a feminist.** It also means rejecting the cariacatures, distortions, and insults heaped upon feminism by the mass media and popular culture (it is indicative that the word that springs to mind for most, even for liberal men, when thinking of the women's movement, is *feminazi*, a term **coined by Rush Limbaugh**). Don't put up with feminist-bashing and make it clear to everyone that can hear you that you are a feminist and that you celebrate your commitment to justice and dignity for women.
+
+Without a *personal* commitment to women's dignity in every aspect of your life, a [*political* commitment](http://www.eskimo.com/~cwj2/whatyoucando1.html "See: Part I of this article") to feminism will only be so much empty gesturing, constantly betrayed by your own actions and beliefs. To be feminists we must fully recognize that **the personal is political**, and that means renouncing to abuse women ourselves, standing up to those in our everyday lives who do abuse women, and acknowledging and aligning with feminism - both within yourself and with those close to you. In [the next article](http://www.eskimo.com/~cwj2/whatyoucando3.html "Part III of What You Can Do to Support Women's Rights") I will address some of the unique issues raised by men within the feminist movement, and what men can do to respond to these issues: **respecting women's-only space**, **refusing to co-opt**, and **stepping aside**.
+
+<div class="blogmenu">
+
+~ [Part I](whatyoucando1.html) \| Part II \| [Part III](whatyoucando3.html) ~
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="footer">
+
+<div class="authorinfo">
+
+<div>
+
+Written and maintained by [Charles W. Johnson](http://www.eskimo.com/~cwj2/feedbackform.html).
+
+</div>
+
+<div>
+
+All pages copyright 1996-2002 by Charles W. Johnson unless otherwise noted.
+
+</div>
+
+<div>
+
+All rights reserved.
+
+</div>
+
+<div>
+
+For more information, see the [copyright notice](http://www.eskimo.com/~cwj2/copyright.html).
+
+</div>
+
+</div>
+
+</div>

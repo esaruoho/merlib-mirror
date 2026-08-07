@@ -1,0 +1,1553 @@
+Pure Mac: Strategy Games - Software for Macintosh 
+
+ Strategy Games 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Life-Sims 
+ Real-Time 
+ Real-Time 
+ Turn-Based 
+ Turn-Based 
+
+ Chocolatier 
+ Darwinia 
+ Fish Tycoon 
+ Guitar Hero III 
+ The Movies 
+ Nanny Mania 
+ RollerCoaster Tycoon 
+ SimCity 4 
+ The Sims 2 
+ Space Colony 
+ Theme Park World 
+ Tropico 
+ Uplink 
+ Wildlife Tycoon 
+
+ Age of Empires II 
+ Age of Empires III 
+ Age of Mythology 
+ Battlefield 2142 
+ Command & Conquer Generals 
+ Commandos 3 
+ Ghost Master 
+ Hearts of Iron 2 
+ Hearts of Iron 2: Doomsday 
+ Homeworld 2 
+ Imperial Glory 
+ KnightShift 
+
+ Myth 
+ Myth II 
+ Myth III 
+ Northland 
+ Rise of Nations 
+ Robin Hood 
+ StarCraft 
+ Star Wars: Empire at War 
+ Star Wars Galactic Battlegrounds 
+ Tribal Trouble 
+ Virtual Villagers 
+ Warcraft III 
+ Warrior Kings 
+
+ Battle for the Universe 
+ Battle for Wesnoth 
+ Civilization IV 
+ Commander 
+ DEFCON 
+ Empire Master 
+ Escape Velocity Nova 
+ Freeciv 
+
+ Galactica: Anno Dominari 
+ Legion Arena 
+ Massive Assault 
+ Oolite 
+ Spaceward Ho! 
+ Star Conquest 
+ Ur-Quan Masters 
+ Worms 3D 
+
+ If you're looking for strategy games for Mac OS 8/9, check the Classic Strategy Games page. 
+
+ Many servers which serve game files are slow (even if you have a fast connection). Many of these files are large.
+ You might want a Download Manager . 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Age of Empires II 1.0.5 
+
+Lead one of the most powerful civilizations of the Middle Ages to
+greatness. Raise your armies. Forge alliances. Grow a thriving market
+economy. Build wonders to stand the test of time. There are many paths
+to power, but only one civilization will reign supreme.
+ LEAD ONE OF 13 CIVILIZATIONS
+ In Age of Empires II, you can command any one of 13 mighty civilizations. These include
+the Franks, Japanese, Byzantines, Vikings, Mongols, Celts and more. Each civilization has
+unique attributes, strengths and weaknesses, buildings and technologies, as well as a
+unique combat unit based on its historical counterpart. Be sure to try them all to find the
+civilization that best suits your playing style.
+
+ License : Update, purchase for $35
+ Author/Publisher : Microsoft Corporation/MacSoft
+ Modification Date : December 18, 2002
+ Requirements : Mac OS X 10.0 or higher and Mac OS 8.6 or higher
+
+ Download 
+File Size: 1.9 MB - 1.0.5 Updater
+
+ Home Page 
+
+ Age of Empires III 1.0.4 
+
+Experience the Age of Discovery through amazing 3D graphics. Crush your
+enemies with devastating cannons and rifled infantry. Navigate your
+naval fleet to claim strategic waterways. Build cities with towering
+cathedrals, and forge a thriving empire with a booming economy.
+
+ License : Demo, $55
+ Author/Publisher : MacSoft
+ Modification Date : July 2, 2008
+ Requirements : Mac OS X 10.3.9 or higher, 1.4 GHz or faster, 64 MB Video Card
+
+ Download 
+File Size: 420 MB - Demo April 3, 2007
+
+ Download 
+File Size: 16.8 MB - Age of Empires III 1.0.4 Updater - July 2, 2008
+
+ Download 
+File Size: 9.8 MB - Age of Empires III: Warchiefs 1.0.1 Updater - November 15, 2007
+
+ Home Page 
+
+ Age of Mythology 1.0.1 
+
+The age of mythology. A time when heroes did battle with monsters of
+legend and the gods intervened in the affairs of mortal men. Age of
+Mythology&reg; is the latest real-time strategy game from Ensemble
+Studios&reg;, the creators of the best-selling Age of Empires&reg; and
+The Age of Kings&reg;.
+
+Guide one of nine ancient civilizations to greatness by commanding all
+aspects of your empire. Advance through four distinct ages. Use
+mythological creatures like Minotaurs and Cyclopes to bolster your
+army's strength. Immerse yourself in the beautiful world created by the
+game's revolutionary new 3D engine.
+
+ License : Demo, purchase for $50
+ Author/Publisher : MacSoft
+ Modification Date : March 11, 2004
+ Requirements : Mac OS X 10.2.6 or higher
+
+ Download 
+File Size: 3.7 MB - 1.0.1 Updater
+
+ Home Page 
+
+ Battlefield 2142 1.50 
+
+Battlefield 2142 takes you into the far future, for all-new warfare in a
+world that's familiar but still different. As a new ice age depletes the
+planet's resources, two multinational coalitions wage a brutal war for
+the only cause that matters - survival. Armed with devastating
+futuristic weaponry and gear, plus Battle Walkers and vast airborne
+bases called Titans, you must coordinate the efforts to win the war for
+Earth's last fragile pieces of livable land.
+
+ License : Free Update, $37
+ Author/Publisher : Electronic Arts
+ Modification Date : August 1, 2007
+ Requirements : Mac OS X 10.4.10 or higher - Intel Only (Cider)
+
+ Download 
+File Size: 348.3 MB
+
+ Home Page 
+
+ Battle for the Universe 2.0.2 
+
+BftU is best described as having a look-and-feel similar to that of
+Escape Velocity (Ambrosia's popular space game) combined with the
+playability of Minotaur (Bungie's first game). BftU includes 3-D
+rendered graphics and digitized sounds. You can play BftU against the
+computer or against human opponents over a network. Note, the demo has
+a time limit, but is otherwise fully functional.
+
+ License : Shareware, $20
+ Author/Publisher : Justin and Keith Malkin
+ Modification Date : January 14, 2004
+ Requirements : Mac OS X and Mac OS 8 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Download 
+File Size: 1.5 MB
+
+ Home Page 
+
+ Battle for Wesnoth 1.4.7 
+
+The Battle for Wesnoth is a free, turn-based strategy game with a
+fantasy theme. Fight to regain the throne of Wesnoth, of which you are
+the legitimate heir, or use your dread power over the Undead to dominate
+the land of mortals, or lead your glorious Orcish tribe to victory
+against the humans who dared despoil your lands. Wesnoth has many
+different sagas waiting to be played out. You can create your own custom
+units, and write your own scenarios - or even full-blown campaigns. You
+can also challenge your friends - or strangers - and fight multi-player
+epic fantasy battles.
+
+ License : Freeware
+ Author/Publisher : Battle for Wesnoth Team
+ Modification Date : December 12, 2008
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 163 MB
+
+ Home Page 
+
+ Chocolatier 
+
+Oh the gloriously rich and delectable life of a chocolatier! Constantly
+surrounded by mounds of chocolate bars and boxes of mouth-watering
+truffles! Build your empire one ingredient at a time as you travel the
+world to find the best prices and buy factories to maximize production!
+Manage your output and please your customersbut dont forget about those
+conniving competitors who wish you poorly! Do you have what it takes to
+conquer the world through chocolate?
+
+ License : Shareware, $20
+ Author/Publisher : Big Fish Games
+ Modification Date : June 14, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 19.7 MB
+
+ Home Page 
+
+ Civilization IV 2.13 
+
+With Sid Meier's Civilization IV, history as you know it, is history.
+Rule throughout time and create your own legacy as you guide your
+civilization from the dawn of man through the space age and
+beyond.Implement new technologies,conduct diplomacy or wage war to grow
+your society and become the most powerful leader the world has ever
+known.
+ Features:
+ * 3D Living World
+ * Detailed environments where animals roam and smoke billows from small huts, set in a vibrant and colorful world.
+ * Overhauled Interface
+ * RTS style, intuitive interface allows you to manipulate units and cities with greater control and faster speed.
+ * Multiplayer
+ * Built from the ground up for multiplayer with Era Starts, variable game speeds, hot join, team play and a bevy of connectivity options: Internet, LAN, Play by Email (PBEM), hot seat and more. The best multiplayer Civ experience ever developed means hundreds of hours of gameplay for you and leaders across the world.
+ * Customization
+ * An unprecedented level of modding power allows you to customize the units, environments and gameplay to meet your vision, including: a WorldBuilder editor, XML and Python scripting language editing.
+
+ License : Updater, $50
+ Author/Publisher : Aspyr
+ Modification Date : March 12, 2008
+ Requirements : Mac OS X 10.3.9 or higher, 1.8 GHz or faster, Intel integrated video chipsets are not supported (i.e. MacBook and MacMini)
+
+ Download 
+File Size: 841 MB - Civilization IV: Warlords 2.13 Demo
+
+ Download 
+File Size: 452 Kb - Civilization IV 1.61rC Demo - February 28, 2007
+
+ Download 
+File Size: 73.1 MB - 1.74 Updater
+
+ Download 
+File Size: 21.6 MB - Warlords 1.0rB Updater
+
+ Warlords Home Page 
+
+ Home Page 
+
+ Command & Conquer Generals 1.0.4 
+
+In a time of modern war, recent military aggressions around the globe
+have many nations worried. Between the United States, China, and the
+Global Liberation Army, tensions run high. Their leaders profess no
+interest in escalating the situation, but words ring hollow when
+satellite photos tell a different story.
+
+UNITED STATES: America's military leader must use the world's most
+advanced military to root out an elusive foe. Eradicating the cell-based
+GLA will take courage, conviction, and the will to see a prolonged
+campaign through to the end.
+
+GLOBAL LIBERATION ARMY: Facing superior firepower, the GLA embraces
+bio-terrorism, sabotage, and suicide bombings to further its political
+agenda. But leading a chaotic group of "freedom" fighters against two
+global superpowers will take some doing.
+
+CHINA: No longer just a red-communist step-child, China's modern army is
+well financed, with a strong nationalistic bent. Parading technology
+like Dragon Tanks and nuclear missiles, China's military goes beyond
+simple troop numbers.
+
+Features:
+ * Wage real-time war in more ways than ever with a modern and near-future arsenal.
+ * Command the powerful U.S. forces, the vast Chinese war machine, or
+the resourceful Global Liberation Army.
+ * Battle it out in unprecedented detail on full 3D environments.
+ * All-new units and tactics with maximum destructive capability, including Aurora Strike Bombers, Dragon Tanks, and much more.
+ * Team up with eight friends or go head to-head in massive online multiplayer battles.
+
+ License : Demo, $50
+ Author/Publisher : Aspyr Media
+ Modification Date : December 6, 2006
+ Requirements : Mac OS X 10.3.9 and higher
+
+ Download 
+File Size: 362 MB - Demo
+
+ Download 
+File Size: 77.2 MB - 1.0.4 Updater - for Command & Conquer Generals and Zero Hour
+
+ Home Page 
+
+ Commander: Europe at War 1.0 
+
+Designed by the wargame experts at Firepower Entertainment and
+Slitherine Software, Commander - Europe at War spans World War II,
+allowing the player to control the Axis or Allied forces throughout the
+entire European Theatre. Can Germany's rise be stopped or will the
+jackboots of the SS march through London?
+
+This high level turn-based strategy game offers plenty of depth to
+satisfy seasoned wargamers while presenting an interface that's easily
+accessible to newcomers as well. Fans of the old "Panzer General" series
+will find themselves completely at home as they try to hold the Maginot
+Line, march on Moscow, or clear the shipping lanes of Sea Wolves!
+
+ License : Demo, $50
+ Author/Publisher : Freeverse
+ Modification Date : December 11, 2007
+ Requirements : Mac OS X 10.3.9 or higher, 1.4 GHz or faster
+
+ Download 
+File Size: 108 MB
+
+ Home Page 
+
+ Commandos 3 1.0.1 
+
+The Commandos Battle Pack brings together on the Mac the two
+most recent installments of Pyros's multi-million selling series,
+Commandos 2: Men of Courage and Commandos 3: Destination Berlin.
+ Set against the dramatic background of World War II, you
+control an elite group of Commandos - venturing deep into enemy
+territory to carry out the most daring missions of the war.
+Your squad must use their combined skills to confound the enemy
+and accomplish operations vital to the outcome of WW2.
+
+ License : Demo, $50
+ Author/Publisher : Feral Interactive
+ Modification Date : March 18, 2005
+ Requirements : Mac OS X 10.2 or higher, 867 MHz or faster
+
+ Download 
+File Size: 261 MB
+
+ Home Page 
+
+ Dawinia 1.4.2 
+
+The world of Darwinia is a virtual themepark, running inside a computer
+network built by a computer genius named Dr Sepulveda.
+
+Darwinia is populated by a sentient evolving life form called
+"Darwinians." They are the product of a decades worth of research into
+genetic algorithms.
+
+Unfortunately, the systems of Darwinia have been overrun by an evil red
+Viral Infection. This Virus has multiplied out of control and must be
+stopped. Your task is to destroy the Viral Infection and save the
+Darwinians from extinction.
+
+ License : Demo, $29
+ Author/Publisher : Introversion/Ambrosia
+ Modification Date : April 27, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 37.4 MB
+
+ Home Page 
+
+ DEFCON 1.4.2 
+
+DEFCON is a stunning, online, multiplayer strategy simulation based
+around the theme of global thermonuclear war. The game, inspired by the
+1983 cult-classic WarGames, superbly evokes the tension, paranoia and
+suspicion surrounding the Cold War era.
+
+ License : Shareware, $25
+ Author/Publisher : Introversion/Ambrosia
+ Modification Date : May 3, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 62.1 MB
+
+ Home Page 
+
+ Empire Master 4.1 
+
+Empire Master is a challenging conquer-the-world strategy wargame. You
+start with a single city and use it to produce armies to go out and
+conquer more cities so you can produce more armies and ships and planes
+until you capture the entire world. The only problem (there is always a
+problem) is that the machine is also building armies and conquering
+cities and fully intends to capture the world for itself.
+
+ License : Demo, $50
+ Author/Publisher : Christopher Eliot
+ Modification Date : March 19, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 716 Kb
+
+ Home Page 
+
+ Escape Velocity Nova 1.0.10 
+
+EV Nova is the third game in the Escape Velocity series, and is by far
+the most ambitious installment to date. With a completely redesigned
+gaming engine, EV Nova thrusts you into a sprawling universe dominated
+by a myriad of warring factions, each sharing a common bond, but so
+philosophically different as to make conflict inevitable.
+
+ License : Shareware, $30
+ Author/Publisher : Ambrosia
+ Modification Date : July 10, 2006
+ Requirements : Mac OS X and Mac OS 8.1 or higher
+
+ Download 
+File Size: 91.9 MB - Demo
+
+ Download 
+File Size: 33.6 MB - 1.0.10 Update
+
+ EV Nova Files 
+ Get files to play the original Escape Velocity and Escape Velocity Overdrive with the Nova Engine
+
+ Home Page 
+
+ Fish Tycoon 1.0 
+
+Fish Tycoon is a fish breeding sim game where you breed and care for
+exotic fish in a true real-time virtual aquarium.
+
+The object of this tycoon game is to discover the 7 MAGIC FISH of ISOLA
+and solve the genetic puzzle.
+
+You start with a small selection of fish, some money and a tank. You
+must breed your fish, care for them, help them grow, and cure them if
+they get sick. Along the way you can buy supplies, medicine and special
+chemicals; you can research technologies or invest in advertisement. All
+of this will be financed by selling exotic hybrids in your shop.
+
+The game runs in TRUE REAL-TIME, so that if your computer is turned off
+or you exit the game, hours later small fish will have grown larger and
+new surprises await you.
+
+ License : Shareware, $20
+ Author/Publisher : LDW Software
+ Modification Date : June 7, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 11.7 MB
+
+ Home Page 
+
+ Freeciv 2.1.6 
+
+Freeciv is an open-source, turn-based strategy game that originated from the Linux world.
+
+ License : Freeware
+ Author/Publisher : freeciv.org
+ Modification Date : September 8, 2008
+ Requirements : Mac OS X 10.4 or higher and X11
+
+ Download 
+File Size: 30.2 MB
+
+ Home Page 
+
+ Galactica: Anno Dominari 3.0.1 
+
+A fun and challenging game of galactic colonization and warfare! Use
+your superior technology and great fleets of starships to re-unite the
+surviving factions of the once great human empire!
+
+Game play in Galactica is a matter of building starships, and using
+those ships to colonize the galaxy, protect your territory, and defeat
+the other players in combat. Your level of technology is crucial. Higher
+levels of technology allow your ships to move faster, and give them an
+advantage in combat over ships with lower tech levels. Your star systems
+also defend themselves from attacking ships based on their level of
+technology.
+
+ License : Shareware, $30
+ Author/Publisher : Sacred Tree Software
+ Modification Date : April 24, 2006
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 4.2 MB
+
+ Home Page 
+
+ Ghost Master 1.0.2 
+
+Grim spectres, foul fiends, mischievous gremlins, howling banshees...
+things that go bump in the night... and that's just your starting team!
+This time you are are in charge of the scary guys.
+
+Ghouls, ghosts and goblins are yours to command as you unleash the
+undead on the town of Gravenville and scare the wits out of its
+citizens. As a dead Civil Servant (is there any other type?) you are
+sent to the town of Gravenville by the Haunter Committee. Your mission:
+to put the frighteners on lowly living mortals and drive them from their
+homes and places of work.
+
+In the world of the Ghost Master spooks do your bidding, as you solve
+puzzles and unlock mysteries in a challenge that combines the best of
+strategy, adventure, and resource management games.
+
+ License : Update, $30
+ Author/Publisher : Feral Interactive
+ Modification Date : March 8, 2004
+ Requirements : Mac OS X 10.1.3 or higher and Mac OS 9.1 or higher
+
+ Download 
+File Size: 4.2 MB - 1.0.2 Updater
+
+ Home Page 
+
+ Guitar Hero III 1.3 
+
+Fire up the fretboard, crank up the amp and get ready to rock like never
+before. Guitar Hero III drops you into the spotlight of the largest and
+most legendary rock concert ever. The star-studded soundtrack includes
+more than 70 songs including master tracks such as Even Flow, Welcome to
+the Jungle and One.
+
+ License : Free Update, $80 (comes with game guitar)
+ Author/Publisher : Aspyr
+ Modification Date : May 12, 2008
+ Requirements : Mac OS X 10.4 or higher - Intel only
+
+ Download 
+File Size: 296 MB
+
+ Home Page 
+
+ Hearts of Iron II 1.2 
+
+Hearts of Iron 2 is the sequel to the most appreciated World War II
+game of true Grand Strategic scope ever made. As in its forbear, the map
+spans the entire world and allows you to play one of over 175 countries
+during the course of World War II. The game is completely revised with
+an updated combat system, a new map, revised and easy-to-use interface,
+new technology tree and hundreds of other updates and improvements.
+
+ License : Free Update, $20
+ Author/Publisher : Virtual Programming
+ Modification Date : December 5, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 29.3 MB - version 1.2 Updater
+
+ Home Page 
+
+ Hearts of Iron II: Doomsday 1.2 
+
+As the German war machine falls, two great nations rise to claim power.
+In the West, there is the United States, leader of the allied nations,
+and in the East lies the Soviet Union under communist rule. As both
+nations attempt to claim superiority, a new war is waiting around the
+corner; this time, the conflict will decide who will be the remaining
+superpower.
+
+Play as the ruler of one of 175 countries through World Wars II and III.
+As the Allies and the Soviet Union clash in Europe, the fate of the
+world hangs in the balance.
+
+In addition to the four grand campaigns (1936, 1939, 1941 and 1944) of
+the original game, one extra scenario (1945) has been added. This new
+"what if" scenario features a continuation war between the United States
+and the Soviet Union. The time limit has also been extended to 1953 and
+additional warfare and diplomatic options have been included.
+
+ License : Free Update, $25
+ Author/Publisher : Virtual Programming
+ Modification Date : December 5, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 8.5 MB - version 1.2 Updater
+
+ Home Page 
+
+ Homeworld 2 1.1.1 
+
+Homeworld 2 continues the epic struggle of the Hiigarans and their
+leader Karan S'jet. Many thought their hardships would end when they
+returned to Hiigara, yet fate has not been so kind to the Exiles. Now
+the Hiigarans face a new and bitter enemy, a renegade clan from the
+eastern fringes of the galaxy, who wield the power of the ancients.
+Homeworld 2 chronicles the valiant journey of the Mothership and its
+crew into the oldest regions of the galaxy to confront their new foe and
+discover the truth behind their exile.
+
+ License : Demo, $50
+ Author/Publisher : Aspyr
+ Modification Date : October 20, 2004
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 162 MB MB - Demo
+
+ Download 
+File Size: 2.4 MB MB - 1.1.1 Updater
+
+ Home Page 
+
+ Imperial Glory 1.0 
+
+Imperial Glory challenges you to master both political strategy and military tactics in order to make your nation the leading Empire of the Napoleonic age.
+The game is a mix of real time strategy and Risk-like diplomatic and political manoeuvring.
+
+ License : Demo, $40
+ Author/Publisher : Feral Interactive
+ Modification Date : December 8, 2006
+ Requirements : Mac OS X 10.4 or higher, 1.67 GHz or faster
+
+ Download 
+File Size: 807 MB
+
+ Home Page 
+
+ KnightShift 1.2.1 
+
+KnightShift offers the best of conventional RPG and RTS games in a
+mystic world, full of fantasy and imagination. The player takes control
+over heroes, real (funny) or magic characters and leads them to victory
+and honor.
+
+Set in a living fully three dimensional game environment, KnightShift
+bewitches your Mac with breathtaking graphics and effects. What this
+engine shows you today wasn't seen before in a game - only in some
+graphic benchmarks and demos.
+
+The unique combination of RTS and RPG elements in the SP campaigns, the
+hardcore gamer dedicated RPG mode for Single and Multiplayer matches and
+the unique humor of KnightShift brings real innovation into to days
+gaming world.
+
+ License : Demo, $38
+ Author/Publisher : Virtual Programming
+ Modification Date : July 15, 2005
+ Requirements : Mac OS X 10.2.4 or higher
+
+ Download 
+File Size: 432 MB - 1.0 Demo
+
+ Download 
+File Size: 6.5 MB - 1.2.1 Updater
+
+ Home Page 
+
+ Legion Arena 1.1.1 
+
+Fans of Roman history, fans of role-playing and strategy games, fans of
+Naked Fanatics, will be thrilled with this exciting and incredibly
+well-researched game. Legion Arena was designed to maximize fun and
+minimize micro-management. The player can jump right in and start
+training legions to strike fear into the hearts of his enemies. With a
+shallow learning-curve and deep strategy and tactics, Legion Arena is
+the ideal game for novice or experienced wargamers.
+
+Legion Arena is a Role Playing Strategy game on a massive scale. Take
+control of a small band of warriors and train them to be the mightiest
+army in the world! Buy equipment and choose from over 100 skills,
+personalize the appearance of your squads, earn experience and denari
+for your victories, Legion Arena takes the best elements of Role-Playing
+games and puts it in the context of an epic strategic struggle. Play as
+either the Romans or the Gauls in over 100 scenarios and with over 20
+unique units including Praetorians, Elephants, and Naked Fanatics.
+That's right, Naked Fanatics! "Legion Arena is an addictive strategy
+game with the best elements of RPG. I love leveling-up, naming my legion
+and even choosing the the color of their armor... and then getting right
+back to the battle! Slitherine Software did an amazing job developing
+this game and we're proud to bring it to the Mac."
+
+ License : Demo, $40
+ Author/Publisher : Freeverse
+ Modification Date : October 30, 2007
+ Requirements : Mac OS X 10.3.9 or higher, 1 Ghz or higher
+
+ Download 
+File Size: 228 MB
+
+ Home Page 
+
+ Massive Assault 1.3 
+
+Take the command of the "Free Nations Union (F.N.U.)" and defeat the
+secret alliance "Phantom League" on one of 6 distant planets. The war
+for global domination will unroll on continents, at sea and in the air.
+Lead your divisions, fleets and air squadrons against those, who dared
+threaten our freedom and democracy!
+
+ License : Update, $40
+ Author/Publisher : Virtual Programming
+ Modification Date : March 11, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 7.0 MB - 1.3 Patch
+
+ Home Page 
+
+ The Movies 1.0 
+
+The Movies is a game that let's you build and run your own Hollywood
+Studio with all the glamour and headaches that come with it. But, it's
+not just a management simulation game, The Movies also gives you the
+tools to create your own films from scripting through to editing. You
+can even share your creations online.
+
+ License : Demo, $50
+ Author/Publisher : Feral Interactive
+ Modification Date : January 5, 2007
+ Requirements : Mac OS X 10.4 or higher, 1.67 GHz or faster
+
+ Download 
+File Size: 801 MB
+
+ Home Page 
+
+ Myth: The Fallen Lords 1.5 
+
+The ground-breaking 3D Real Time Strategy Game, Myth: The Fallen Lords.
+
+ License : Demo
+ Author/Publisher : Bungie
+ Modification Date : December 9, 2005
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 2.0 - 1.5 updater
+
+ Download 
+File Size: 31.8 MB - Demo
+
+ Home Page 
+
+ Myth II: Soulblighter 1.6 
+
+Myth II: Soulblighter is a unique strategy game, set in a 3D world of dangerous alliances and
+ancient evil, where all beings tremble before the wrath of Soulblighter, cruelest and most cunning
+of the evil Fallen Lords.
+
+ License : Update
+ Author/Publisher : Bungie
+ Modification Date : February 21, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 22.4 MB - 1.6 updater
+
+ Download 
+File Size: 48.5 MB - 1.5.1 demo
+
+ Mariusnet.com - You can still play here
+
+ Home Page 
+
+ Myth III: The Wolf Age 1.3.1 
+
+Set 1,000 years before Myth and Myth II, Myth III: The Wolf Age follows
+the life of Connacht the Wolf - the legendary hero who saved the
+widely-scattered peoples of Humanity from the Myrkridia and the
+oppressive Trow to ultimately become the Emperor of all Human lands.
+Cast spells, gain experience, collect items and build ingenious devices
+to defeat your enemies.
+
+ License : Update
+ Author/Publisher : Bungie
+ Modification Date : July 6, 2004
+ Requirements : Mac OS X 10.2 and higher
+
+ Download 
+File Size: 39.9 MB - 1.3.1 updater
+
+ Home Page 
+
+ Nanny Mania 1.0.2 
+
+Think you can manage a household? Think being a stay at home mom is
+easy? Nanny Mania puts you in the heart of what it takes to take care of
+a regular house. We start you off easy with only on child, and the mom
+and Dad to take care of in a small house, but you slowly get better but
+the job does not get easier. Try cleaning, cooking, laundry, and taking
+care of the parents, 4 kids and a whole heap of trouble. Nanny Mania
+will challenge you to keep an eye on your duties and manage your time or
+you will not be the Perfect Nanny!
+
+ License : Shareware, $20
+ Author/Publisher : Gogii Games
+ Modification Date : June 1, 2007
+ Requirements : Mac OS X
+
+ Download 
+File Size: 18.3 MB
+
+ Home Page 
+
+ Northland 1.0.1 
+
+In the age of Norse mythology...
+
+Hatschi, the brave Saracen, returned to his home village. Sigurd, the
+Frank hero, left the south and set for his way to beloved Franconia.
+Bjami and Crya, feeling more than just friendship for each other,
+returned back Byzantium to recover from the exertions of their adventure
+at the palace of Crya's father, the emperor of Byzantium.
+
+But one day they were disturbed by a call for help from their friend
+Hatschi. Hatschi's homeland was plagued by mysterious monstrous serpent
+creatures, which spread chaos and destruction through the country.
+Without hesitation, Byjami and Crya hurried to help him and stumbled
+right into a new adventure, in which the sly god Loki will play an
+important role...
+
+Northland combines traditional real-time strategy game play with RPG and
+simulation elements into a unique gaming experience. Guide your village
+as you help create new jobs, buildings, marriages, children, and more!
+
+ License : Demo, $20
+ Author/Publisher : E.P.I.C Interactive/Freeverse
+ Modification Date : January 9, 2004
+ Requirements : Mac OS X 10.2 or higher and Mac OS 9 or higher
+
+ Download 
+File Size: 68.0 MB
+
+ Home Page 
+
+ Oolite 1.65 
+
+Oolite is a space sim game, written for Mac OS X in Objective C using
+Cocoa and OpenGL.
+
+It was written as my response to the withdrawal of Elite - The New Kind
+from the internet. Although inspired by the work of Christian Pinder,
+following David Braben and Ian Bell, the work is an independent
+interpretation and expansion of the original game.
+
+Oolite is designed as a small game that is easy for independent users to
+pick up and expand. Almost every aspect of the game can be modified
+using simple, free graphics packages and text-editors.
+
+ License : Freeware
+ Author/Publisher : Giles Williams
+ Modification Date : July 17, 2006
+ Requirements : Mac OS X 10.4 and higher
+
+ Download 
+File Size: 21.3 MB
+
+ Home Page 
+
+ Rise of Nations 1.0.1 
+
+Dominate 6,000 years of history...
+ ...from the Ancient Age to the
+Information Age. Which forces will you deploy to lead your nation to
+global prominence? Trade, espionage, diplomacy, war? Whichever path you
+choose, you'll experience the pulse pounding thrill and speed of
+real-time gaming combined with the epic scope and depth of turn-based
+strategy games - brought together for the first time ever in Rise of
+Nations.
+
+Rise of Nations is a new historical real time strategy game from Big
+Huge Games' Brian Reynolds, designer of game classics such as
+Civilization 2 and Alpha Centauri.
+
+ License : Update, $50
+ Author/Publisher : Microsoft/MacSoft
+ Modification Date : July 18, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 6.4 MB - 1.0.1 Updater
+
+ Home Page 
+
+ Robin Hood - The Legend of Sherwood 1.1 
+
+In Robin Hood - The Legend of Sherwood, you take control of the most
+masterful thief to grace the Macintosh computer. Live the action of
+Robin Hood, Little John, Friar Tuck and Maid Marian as you engage your
+mortal enemy, evil Prince John. Can you save King Richard who is being
+held for an enormous ransom?
+
+Scale the castle walls at night to loot under the veil of darkness, or
+head on into battle with sword swinging and arrows flying. Utilize all
+manner of medieval weapons as you take back what belongs to the people.
+Fortunately you are not alone. Robin Hood's trusty band of Merry Men are
+always there to fight by your side.
+
+ License : Demo, $30
+ Author/Publisher : Spellbound Studios/Freeverse
+ Modification Date : December 16, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 56.5 MB
+
+ Home Page 
+
+ RollerCoaster Tycoon 3 1.2 Rev A 
+
+Experience incredible 3D graphics
+ - Ride the Rides with the Coaster Cam
+ - Design amazing coasters, place down rides to create the park of your dreams with an easy-to-use new interface
+ - Light up the night with the stunning park lighting system
+ - View your park from any angle with complete camera control
+ - See breathtaking park vistas including realistic sunsets, moonlight and more
+
+ License : Free Updater, Purchase Full Game for $50
+ Author/Publisher : Aspyr
+ Modification Date : September 8, 2006
+ Requirements : Mac OS X 10.3.9 or higher, 1 GHz or faster
+
+ Download 
+File Size: 8.4 MB
+
+ Home Page 
+
+ SimCity 4 1.1 Rev A 
+
+The long-awaited 4th generation of the game SimCity, SimCity 4, features
+new simulation and graphics engines, new regional game play and the new
+ability to track the lives of individual Sims as they go about their
+daily routine, SimCity 4 is the most realistic, powerful and personal
+SimCity experience ever. Right from the start, players experience new
+God-like powers of creation as they lay the groundwork for their cities
+by molding mountains, carving valleys, seeding forests and laying
+rivers. With these new landscape creation features, players can now
+construct the most realistic metropolis imaginable. Each city a player
+creates becomes part of an ever-growing tapestry of municipalities that,
+once connected by transportation networks, share and compete for
+resources. Depending upon the choices made by a player, this multi-city
+game play can result in a variety of outcomes within that region. For
+the first time ever, players can follow a Sim as they go about their
+life in the city. Players can personalize their Sim and immediately move
+him or her into any area and watch them experience life in the city,
+first hand. Is he or she enjoying a happy existence in an urban utopia
+or enduring a futile fight for survival in the inner-city?
+
+ License : Free Updater, $60
+ Author/Publisher : Aspyr Media
+ Modification Date : April 23, 2007
+ Requirements : Mac OS X 10.2.8 or higher - Not Leopard Compatible
+
+ Download 
+File Size: 12.8 MB - SimCity 4 Rush Hour Universal Binary 1.1 Rev A
+
+ Home Page 
+
+ The Sims 2 
+
+With the introduction of genetics, you can control your sims over a
+lifetime and pass their sims' DNA down from one generation to the next.
+The sims evolve by genetically passing on physical and personality
+traits. Create and play your own virtual sitcom by choosing one of five
+different aspirations - Popularity, Fortune, Family, Knowledge, and
+Romance. These aspirations in life cause your sims to have wants and
+fears. Will you give them a long successful existence or leave their
+life in shambles? The Sims 2 also opens up endless new creative
+possibilities. Make your own sim films with the new movie-making
+feature. Create the cast, set the stage, take control of the camera and
+capture your own screenplay in action. Zoom in close with the new camera
+to see every last detail.
+
+ License : Updater, $45 for full game
+ Author/Publisher : Aspyr
+ Modification Date : December 14, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 166 MB - The Sims 2 Combo Patch - Fully updates all expansion packs to their latest version
+
+ Home Page 
+
+ Space Colony 1.0 
+
+Save the Colony! Your staff are brawling, the Harvester Robot is chain
+sawing its way through the oxygen supply and small furry aliens have
+taken over the disco. This is home. Each unique personality has a mind
+of its own so remember happy colonists make for productive colonists.
+Ignore them and they'll pick fights, argue, get depressed, and
+eventually go crazy. Nurture them and they will work hard for you,
+become friends and maybe even fall in love! With over 100 buildings at
+your disposal, it's up to you to build a colony that meets all the
+colonists' needs and keeps them safe and happy. So before you shell out
+all your credits on iron extraction and space chicken productions to
+bring in the cash, remember, that without a gym, a sauna or a half
+decent restaurant, nobody's going to want to work for you.
+
+ License : Demo, $30
+ Author/Publisher : Aspyr
+ Modification Date : June 7, 2004
+ Requirements : Mac OS X 10.2.8 or higher, 733MHz or faster
+
+ Download 
+File Size: 124 MB - Demo
+
+ Home Page 
+
+ Spaceward Ho! 5.0.5 
+
+Spaceward Ho! is a strategic game of awesome scope. You control the
+entire military and economy of a spacefaring race. Your goal: explore
+and colonize the galaxy.
+
+Unfortunately, you are not alone. Alien enemies bent on galactic
+conquest will oppose your expansion. You fight them by developing new
+technologies and expanding your empire, or you can ally with them to
+turn enemies into friends.
+
+Terraform newly discovered worlds or mine their natural resources.
+Maneuver your starship fleets, both in defense of your own systems and
+in offensive strikes against the evil aliens. Your strategic decisions
+will determine the fate of the galaxy.
+
+It's incredibly fun to play alone against the excellent computer
+players, and even better with other humans on the internet.
+
+ License : Demo, $50
+ Author/Publisher : Delta Tao
+ Modification Date : March 27, 2003
+ Requirements : Mac OS X 10.1 or higher and Mac OS 8.6 or higher
+
+ Download 
+File Size: 5.6 MB - Demo
+
+ Home Page 
+
+ Star Conquest 1.1.2 
+
+Star Conquest is a turn-based strategic wargame. It may be played as a
+single player, multi-player or network game. Up to ten players can play
+in a game, accompanied by up to ten computer controlled players.
+
+Your objective is to guide your species in its expansion to all corners
+of the known Universe. You start with two or more populated Planets and
+a small number of Star Ships. Using these Star Ships you have to explore
+and colonise other Star Systems.
+
+Soon you will encounter other species. Will you choose to conquer all,
+or perhaps fight as part of an alliance. Each year you can decide what
+strategy to follow, moving Star Ships or Fleets to attack or defend,
+colonising Planets and exploring Star Systems. Once every player has
+issued his or her commands, the year ends and the results are
+calculated. The game continues until all players are eliminated and only
+a single player or alliance remains.
+
+Being a strategic wargame, Star Conquest is relatively complex and it
+may take several weeks before you fully appreciate its complexity and
+subtly of game play. If you are looking for a fast paced action game
+this isn't it!
+
+If you play Star Conquest on a single computer then each Player takes it
+in turn to issue their orders. If you play a network game of Star
+Conquest each Player takes their turn simultaneously.
+
+ License : Demo, $15
+ Author/Publisher : Dark Shadow Software
+ Modification Date : June 21, 2003
+ Requirements : Mac OS X and Mac OS 7.5 or higher
+
+ Download 
+File Size: 72.2 MB - Demo
+
+ Download 
+File Size: 850 Kb - 1.1.1 Demo Updater
+
+ Download 
+File Size: 832 Kb - 1.1.1 Demo Updater
+
+ Download 
+File Size: 834 Kb - 1.1.1 Updater
+
+ Download 
+File Size: 850 Kb - 1.1.1 Updater
+
+ Download 
+File Size: 837 Kb - 1.1.2 Updater
+
+ Home Page 
+
+ Starcraft 1.16.1 
+
+As the military leader for your species, you must gather the resources
+you need to train and expand your forces and lead them to victory. 30
+unique missions will challenge you across three different campaigns as
+you control the fate of the galaxy. Control any of three different
+species, each with unique units, technologies, attributes, and
+abilities.
+
+ License : Demo, $20 for both Starcraft and Starcraft: Broodwar
+ Author/Publisher : Blizzard Entertainment
+ Modification Date : January 21, 2009
+ Requirements : Mac OS X 10.2 and higher and System 7.6 or higher
+
+ Download 
+File Size: 10.7 MB - 1.16.1 Starcraft Patch
+
+ Download 
+File Size: 25.1 MB - 1.16.1 Broodwar Patch
+
+ Download 
+File Size: 11.9 MB - 1.15.1 Starcraft Patch
+
+ Download 
+File Size: 26.5 MB - 1.15.1 Broodwar Patch
+
+ Download 
+File Size: 9.3 MB - 1.1 OS X Installer
+
+ Download 
+File Size: 39.6 MB - Demo
+
+ Patch Download Page 
+
+ Parent Directory for Patches 
+
+ Battle.net Home Page 
+
+ Blizzard Starcraft Home Page 
+
+ Blizzard Starcraft: Broodwar Home Page 
+
+ Star Wars: Empire at War 1.05rA 
+
+Star Wars: Empire at War puts the power to command an entire war for the Star Wars galaxy
+in the hands of players, giving them the freedom to determine how they play the game
+within the completely scalable and accessible gameplay. Set a few years before the events
+of Episode IV: A New Hope, LucasArts' Empire at War lets players wage war on ...
+
+ License : Demo
+ Author/Publisher : Aspyr
+ Modification Date : May 24, 2007
+ Requirements : Mac OS X 10.4.8 or higher - Intel Only
+
+ Download 
+File Size: 892.2 MB - Demo
+
+ Download 
+File Size: 5.6 MB - 1.05rA Updater
+
+ Home Page 
+
+ Star Wars Galactic Battlegrounds 1.1.1 
+
+The destiny of a galaxy hangs in the balance and you're in command. Star
+Wars Galactic Battlegrounds lets you lead the armies of Star Wars to
+victory in intense, real-time strategy clashes. Enter the fray as Darth
+Vader and the Galactic Empire, the Rebel Alliance with a legion of Jedi,
+the greedy Trade Federation, the Royal Naboo and other civilizations in
+campaigns that will determine the final outcome of the Galactic Civil
+War. You are able to manage your resources and upgradeable technology
+into your strategy, such as Wookiee ingenuity, advanced Gungan
+biotechnology, and Jedi stamina. The action continues as you are able to
+command X-wing fighters, Tie fighters, Imperial Walkers, and other famed
+Star Wars vehicles. Star Wars Galactic Battlegrounds: Face your destiny!
+
+ License : Update, $50
+ Author/Publisher : Aspyr Media
+ Modification Date : October 9, 2003
+ Requirements : Mac OS X or higher and Mac OS 8.6 or higher - Not Compatible with Intel Macs
+
+ Download 
+File Size: 2 MB - 1.1.1 Updater
+
+ Home Page 
+
+ Theme Park World 2.1.4 
+
+This is an unashamedly fun game aimed at pleasing absolutely everyone,
+especially all of you saddo thrill-seekers who are into eyeball-bulging,
+stomach-churning, cheek-tugging, teeth-rattling roller-coaster rides. And let's
+face it who isn't? So enough from us - the site's set up in the usual way, so
+have fun and do try to keep your dinner to yourself. Oh, oh, oh - almost forgot
+(can anyone tell my stream-of-consciousness is showing?) - in North America,
+Theme Park World is called SimTheme Park. So don't be confused if you read
+reviews on American websites talking about SimTheme Park its the same game.
+
+ License : Update, $30
+ Author/Publisher : Feral Interactive
+ Modification Date : December 20, 2005
+ Requirements : Mac OS 8.5 or higher and Mac OS X 10.1.3 or higher
+
+ Download 
+File Size: 2.8 MB - 2.1.4 Updater
+
+ Home Page 
+
+ Tribal Trouble 2.0.6 
+
+A bunch of clueless Viking raiders have stranded on a group of tropical
+islands - much to the annoyance of the local Natives. Help the tribesmen
+settle their disputes in this fast paced realtime strategy game.
+
+ License : Shareware, $30
+ Author/Publisher : Oddlabs
+ Modification Date : July 31, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 19.7 MB
+
+ Home Page 
+
+ Tropico 1.0.3 
+
+You, the newly installed dictator of an obscure Caribbean island, must
+create a life of prosperity and happiness for your people. Build farms
+to feed them, tenements to house them, pubs to lift their spirits and
+churches to save their souls. Follow a socialist path of factories,
+mines, logging and fishing, or chase capitalist dollars by building
+resorts to lure Yanqui tourists. Success will bring the praise of your
+people along with a fat Swiss bank account. Failure? Well, there's
+always martial law.
+
+ License : Update, $30
+ Author/Publisher : Feral Interactive
+ Modification Date : December 4, 2001
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 714 Kb - 1.0.3 Updater
+
+ Home Page 
+
+ Uplink 1.6.1 
+
+You play an Uplink Agent who makes a living by performing jobs for major
+corporations.Your tasks involve hacking into rival computer systems,
+stealing research data, sabotaging other companies, laundering money,
+erasing evidence, or framing innocent people.
+
+You use the money you earn to upgrade your computer systems, and to buy
+new software and tools. As your experience level increases you find more
+dangerous and profitable missions become available. You can speculate on
+a fully working stock market (and even influence its outcome). You can
+modify peoples academic or criminal records. You can divert money from
+bank transfers into your own accounts. You can even take part in the
+construction of the most deadly computer virus ever designed.
+
+ License : Shareware, $25
+ Author/Publisher : Ambrosia/Introversion
+ Modification Date : October 9, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 14.2 MB - Demo
+
+ Home Page 
+
+ Ur-Quan Masters 0.6.2 
+
+The project started in August 2002, when Toys For Bob released the partially ported
+sources of Star Control 2 3DO version to the fan community. Our goal is to port this
+wonderful game to current personal computers and operating systems. It is and will remain
+100% free of charge, and anyone can contribute to the project and thus help make it even
+better.
+
+This epic adventure spans hundreds of light years, and evokes a history reaching back over
+250,000 years. As you travel out among the stars, your decisions and actions will directly
+affect the destiny of 18 intelligent, star-faring species, including the inhabitants of
+Earth.
+
+ License : Freeware
+ Author/Publisher : The Ur-Quan Masters Development Team
+ Modification Date : January 17, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 20.9 MB
+
+ Home Page 
+
+ Virtual Villagers 1.0 
+
+These poor villagers washed up on shore after surviving a horrific
+volcanic eruption. You have to guide them in learning how to survive in
+this real-time simulation game. They learn by doing, but you might have
+to keep an eye on them to make sure they don't give up too easily. They
+need to become farmers, builders, scientists, parents and more in order
+to thrive on this new island. How will you lead your tribe?
+
+ License : Shareware, $20
+ Author/Publisher : Big Fish Games
+ Modification Date : August 2, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 25 MB
+
+ Home Page 
+
+ Warcraft III 1.23a 
+
+It has been nearly fifteen years since the war between the orcs and
+humans ended. An uneasy peace settled over the land while, for years,
+the drums of war were silent. Yet the kingdoms of men grew complacent in
+their victory - and slowly, the defeated orcish clans regrouped under
+the banner of a new visionary leader.
+
+Now a darker shadow has fallen over the world, threatening to extinguish
+all life - all hope. The drums of war play upon the winds once again -
+rising urgently towards the inevitable hour when the skies will rain
+fire - and the world will tremble before the coming of the Burning
+Legion.
+
+The Day of Judgment has come...
+
+ License : Demo, Frozen Throne $20, Reign of Chaos $30
+ Author/Publisher : Blizzard Entertainment
+ Modification Date : March 23, 2009
+ Requirements : Mac OS X 10.1.3 or higher - The patches include previous fixes
+
+ Download 
+File Size: 25.2 MB - Full Reign of Chaos USA Patch 1.23a
+
+ Download 
+File Size: 62.4 MB - Full Frozen Throne USA Patch 1.23a
+
+ Download 
+File Size: 106 MB - Demo
+
+ Download Page 
+
+ Battle.net Home Page 
+
+ Blizzard Home Page 
+
+ Warrior Kings 1.0.3 
+
+Warrior Kings is an epic real-time strategy game that uses true 3D to
+propel you into a living, breathing, bleeding medieval fantasy world. A
+world for you to master and rule - so what are you waiting for? Cry
+"Havoc" and let slips the dogs of war! (or at least click on a couple of
+the links in the menu.)
+
+ License : Update, $40
+ Author/Publisher : Feral Interactive
+ Modification Date : July 2, 2004
+ Requirements : Mac OS X 10.1.3 or higher and Mac OS 9.1 or higher
+
+ Download 
+File Size: 3.6 MB - 1.0.3 Updater 
+
+ Home Page 
+
+ Wildlife Tycoon 1.0.5 
+
+Create and control lions, elephants, zebras, and more in this unique and deceptively deep
+strategy game. To succeed you'll have to discover the unique behaviors of each species and
+build food and water sources to suit them. Plan your ecosystem well so that you can help
+both predator and prey achieve balance in the wild.
+
+Here's how the game works: You trade flowers to place a new animal in the world. As you
+build populations of various species, you will be rewarded with jewels. Spend those jewels
+to build improvements for your animals, such as trees, grasses, or watering holes.
+Eventually, fulfill your overarching goal to move on to the next level.
+
+ License : Shareware, $20
+ Author/Publisher : GarageGames
+ Modification Date : March 18, 2006
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 19.2 MB
+
+ Home Page 
+
+ Worms 3D 1.1 
+
+It took 700 million years for Worms on earth to evolve from flat
+mud-dwelling strips of flesh into the sophisticated, fast-living,
+fun-loving earth-filled tubes we see today. Fortunately it's only taken
+Team 17 about 10 years to pull off a similar trick for their Worms. Not
+bad going in the Darwinian Derby stakes. So Worms 3D on the Mac? Yes
+indeedy - the third generation of Worms has gone all 3 dimensional on
+us, but before any flat earthers start getting fidgety, let's make this
+clear - its retained all the best bits... Team 17 have made a superb job of
+making flatworms into roundworms (bad puns are part of the deal) - none
+of this "it's in 3 dimensions and none of them are fun" malarkey.
+
+ License : Update, $45
+ Author/Publisher : Feral Interactive
+ Modification Date : March 20, 2008
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 30.0 MB - 1.1 Updater
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

@@ -1,0 +1,92 @@
+Newsgroups: rec.games.chess
+From: sharring@cs.tamu.edu (Steven L Harrington)
+Subject: Re: cowboy crushes scratchy on ics
+Message-ID: <1992Nov12.160633.5674@tamsun.tamu.edu>
+Sender: news@tamsun.tamu.edu (Read News)
+Organization: Computer Science Department, Texas A&M University
+References: <BxKw8J.HvF@news.orst.edu>
+Date: Thu, 12 Nov 1992 16:06:33 GMT
+Lines: 78
+
+
+In article <BxKw8J.HvF@news.orst.edu> linb@ucs.orst.edu (Benjamin Lin) writes:
+>[  It seems that there haven't been many games on reg.games.chess
+>   recently, so I thought I would post cowboy's recent crush of
+>   scratchy!  good job cowboy! ]
+>
+Thanks for the compliments, I'll try to keep my over-inflated ego in check.
+I'll throw in a few comments/annotations. It seems that the sac may not
+have been sound if DT had given back the material at the crucial time.
+
+>[       cowboy                 scratchy      ]
+>
+>1       P/c2-c3 (0:05)         P/e7-e5 (0:27)
+>2       P/d2-d4 (0:02)         P/e5-d4 (0:20)
+>3       P/c3-d4 (0:03)         N/g8-f6 (0:14)
+>4       N/b1-c3 (0:02)         B/f8-b4 (0:17)
+>5       P/a2-a3 (0:10)         B/b4-c3 (0:12)
+>6       P/b2-c3 (0:04)         o-o (0:16)
+>7       N/g1-f3 (0:02)         R/f8-e8 (0:16)
+>8       P/e2-e3 (0:04)         P/c7-c5 (0:17)
+>9       B/f1-e2 (0:14)         Q/d8-a5 (0:17)
+>10      o-o (0:25)             N/f6-e4 (0:18)
+>11      B/c1-d2 (0:15)         N/e4-c3 (0:18)
+>12      B/d2-c3 (0:22)         Q/a5-c3 (0:02)
+>13      B/e2-d3 (0:24)!?       P/c5-c4 ? (0:16)
+
+13. Bd3 telegraphs my intentions to sac on h7 - any good human would
+    smell a rat. While the sac may not be entirely sound, the move
+    13...c4 is a real lemon. It makes the sac too tempting by wasting
+    a tempo and hitting the Bd3 at the same time. The only thing preventing
+    13...c4 from meriting a ?? is the dubious nature of the sac.
+
+>14      B/d3-h7 (1:22)         K/g8-h7 (0:18)
+>15      N/f3-g5 (0:02)         K/h7-g6 (1:32)
+>16      Q/d1-g4 (1:01)         P/f7-f5 (0:31)
+
+16...d5 should be considered maybe
+
+>17      Q/g4-g3 (1:38)         Q/c3-a5 (1:39)
+>18      Q/g3-d6 (0:56)         K/g6-g5 (0:09) ??
+
+this may be the losing move... 18...Re6 seems to hold from the brief
+analysis that I've done. White may have some justification for giving
+2 pieces for a rook based on black's lagging development, but it's not so
+clear.
+
+>19      P/f2-f4 (0:15)         K/g5-h5 (1:13)
+
+White is winning
+
+>20      R/f1-f3 (1:21)         Q/a5-a6 (0:17)
+>
+>[ does 20...Re6 (jgold's move) lose too? ]
+
+I think so... 21. Rh3+ Kg6(kg4) 22. Qf8 w/ threat og rg3 and qg7 with
+mate soon thereafter.
+
+>
+>21      R/f3-h3 (0:19)         K/h5-g4 (0:44)
+>22      R/h3-g3 (1:22)         K/g4-h4 (0:12)
+>23      Q/d6-d5! (0:54)         R/e8-e3 (0:08)
+>24      R/g3-e3 (0:13)
+
+24...Qc6
+25. Qf5 Qg2+
+26. Kg2 d5
+27. Rh3 mate
+
+All in all it wasn't so much good play on my part as it was horizon effect
+and greed (materialism) on DT's part. A timely return of (some of)
+the material may have proven the sac unsound.
+
+-Steve Harrington
+-ICS::cowboy
+
+
+>
+
+
+
+
+

@@ -6,7 +6,7 @@ order: 209
 reachable_from_entry: true
 images: 2
 internal_links: 9
-extracted: 2026-08-03T18:11:39Z
+extracted: 2026-08-07T05:53:12Z
 extractor: site_to_paper.py (pandoc)
 ---
 
@@ -30,12 +30,12 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td><a href="http://amasci.com/amateur/transis.html">MAIN TRANSISTOR ARTICLE</a></td>
-<td><a href="http://amasci.com/unew.html">GOOD STUFF</a><br />
+<td><a href="/amateur/transis.html">MAIN TRANSISTOR ARTICLE</a></td>
+<td><a href="/unew.html">GOOD STUFF</a><br />
 </td>
-<td><a href="http://amasci.com/news.html">NEW STUFF</a><br />
+<td><a href="/news.html">NEW STUFF</a><br />
 </td>
-<td><a href="http://amasci.com/search.html">SEARCH</a><br />
+<td><a href="/search.html">SEARCH</a><br />
 </td>
 </tr>
 </tbody>
@@ -72,8 +72,8 @@ extractor: site_to_paper.py (pandoc)
 <p>A transistor is essentially a diode. In diodes, the rate of charge flow is determined by the height of the potential barrier at the junction. It's voltage controlled: place the right polarity of voltage across the diode terminals to turn it on. But a transistor a very weird diode: if you turn it on with 0.7V placed across two terminals here, then the main diode current goes through a totally <em>different</em> terminal over there! Vbe determines Ic (as well as Ib.) When Bell Labs had an informal contest to name their new invention, one engineer pointed out that it acts like a resistor, but a resistor where the input voltage is transferred across the device to control the resulting current. A "Transfer Resistor" or "Trans-sistor."<br />
 </p>
 <p>ALSO:<br />
-  - <a href="http://amasci.com/amateur/cap1.html">How capacitors REALLY work</a><br />
-  - <a href="http://amasci.com/ele-edu.html">How electricity really works</a> articles index<br />
+  - <a href="/amateur/cap1.html">How capacitors REALLY work</a><br />
+  - <a href="/ele-edu.html">How electricity really works</a> articles index<br />
 </p>
 </blockquote>
 <br />
@@ -100,21 +100,21 @@ extractor: site_to_paper.py (pandoc)
 </p>
 <p>- A bipolar transistor has a voltage-controlled input, while it's output is a variable control system which creates a constant current. It's vaguely like a resistor, but where the voltage in one place creates a current in a second place ...yet the voltage in that second place does not affect the output current. Change the collector voltage, and the collector current remains relatively constant. It's not like a transformer where volts and current are swapped, and where wattage stays the same. In transistors, the effects of voltage are TRANSFERRED to another separate path in the circuitry. "Transfer Resistor." Transistor.<br />
 </p>
-<p><a href="http://amasci.com/amateur/transis.html">MAIN, MUCH LONGER ARTICLE</a><br />
+<p><a href="/amateur/transis.html">MAIN, MUCH LONGER ARTICLE</a><br />
 </p>
 <p>SEE ALSO:<br />
 <br />
-  - <a href="http://amasci.com/emotor/cap1.html">How capacitors REALLY work</a><br />
+  - <a href="/emotor/cap1.html">How capacitors REALLY work</a><br />
 <br />
-  - <a href="http://amasci.com/ele-edu.html">How electricity really works</a> articles index<br />
+  - <a href="/ele-edu.html">How electricity really works</a> articles index<br />
 </p></td>
 <td> </td>
 </tr>
 </tbody>
 </table>
 
-<http://amasci.com/amateur/trshort.html>\
-Created and maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\
+[/amateur/trshort.html](/amateur/trshort.html)\
+Created and maintained by [Bill Beaty](/billb.html). Mail me at: [<img src="/graphics/abc.gif" data-border="0" width="141" height="19" />](/amfrm/).\
 
 <div class="statcounter">
 

@@ -1,0 +1,407 @@
+---
+title: "jessamyn.com: Ballard Community Analysis"
+source_domain: amasci.com
+source_path: ~jessamyn/ballard/index.html
+order: 3659
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:56:57Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# jessamyn.com: Ballard Community Analysis
+
+*Source page: `~jessamyn/ballard/index.html`*
+
+Ballard\
+a Community Analysis
+
+<table data-cellpadding="5">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;"><p><br />
+<em>View of Ballard looking north across the bay.<br />
+Courtesy of Willard and Edna Kopper.</em></p></td>
+<td><h3 id="table-of-contents">Table of Contents</h3>
+<ul>
+<li><a href="#hist">History &amp; Geography &amp; Description</a></li>
+<li><a href="#reso">Resources &amp; Organizations</a></li>
+<li><a href="#econ">Economic Life &amp; Well-Being</a></li>
+<li><a href="#prob">Problems &amp; Trends</a></li>
+<li><a href="#comm">Community Needs</a></li>
+<li><a href="#appe">Appendices &amp; Bibliography</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+<span id="hist">History/Geography/Description</span>
+
+Ballard is a neighborhood in Seattle, Washington. It began as its own city, founded in 1889 and was incorporated into bordering greater Seattle in 1907. Its geographical outline is bordered on the South by the Lake Washington ship canal, on the West by the Puget Sound and on the East by 8th Avenue NW and on the North by NW 85th Street \[see map\]. These outlines conform to the census tracts, though many people place the north border a bit lower and the east border a bit more easterly.
+
+Ballard has a very distinctive neighborhood identity, both within and outside of the community. Ballard was originally incorporated as a ship-building community and had large influxes of Scandinavian immigrants at the turn of the century. It has always had a strong industry in commercial fishing, boat building and other marine industries. The North Pacific Fishing Fleet is based in greater Ballard (technically outside Ballard's boundaries but not claimed to be in any other neighborhood).
+
+Ballard is well-known to Seattle residents as the neighborhood "filled with elderly Scandinavians". Though it is positioned close to downtown and other popular North Seattle neighborhoods it is perceived as being physically distant, ideologically remote and "lost in time" by outsiders. It is frequently the butt of jokes on local comedy television shows yet also has a very strong active community, many of whom perceive of themselves as Ballard residents, not Seattle residents. For more on the history of Ballard, please see Appendix II.
+
+## Demographics
+
+### Population
+
+The Greater Ballard Area is the home to approximately 50,000 people, roughly ten percent of the population of the Seattle Metro area. Ballard as defined by the Zip Code \[corresponding to its geographical outline\] has approximately 20,000 residents. The population of Ballard is increasing at roughly 250-750 persons per census tract per decade. Since Ballard is comprised of five census tracts \[30,31,32,33 and 47\] this leads to an overall population increase of 125-375 persons per year.
+
+Agewise, the Ballard population is considerably grayer than that of greater Seattle \[see chart\]. The more compelling trend, though, is that the population of Ballard is decreasing in children and adults and increasing \[though to a lesser degree than Seattle as a whole\] in elderly residents.
+
+Population ages\
+1990 census
+
+### Ballard
+
+### Seattle
+
+population
+
+percent
+
+population
+
+percent
+
+Children
+
+4,535
+
+16
+
+86,761
+
+17
+
+adults
+
+16,744
+
+63
+
+330,980
+
+68
+
+65 +
+
+5,819
+
+25
+
+76,040
+
+15
+
+Ballard is also home to 9.64 percent of the city's elderly residents while only housing 7.6% and 7.3% of children and adults respectively.
+
+Of Ballard's population, 92% are white, 1.3% are Black, 3% are Asian and 1.76% are American Indian, with roughly 1% being "other". The Hispanic population of Ballard is approximately 3%. The nonwhite population of Ballard is increasing at a faster rate than the white population, though no more than in Seattle as a whole. For those persons reporting single ancestry, the three largest countries of origin are Germany, Norway and Ireland. For those reporting multiple ancestry, the most common countries of origin \[by first reported country of origin\] are Germany, England and Ireland with Norway a close fourth. Forty percent of the foreign born Ballardians came to the United States before 1959
+
+### Housing
+
+Ballard is composed of 323 acres with 4,279 households, yielding a household density of 13.2 households per acre. The City of Seattle Comprehensive Plan anticipates that number increasing to 17.9 households per acre by the year 2010. The median age of a house in Ballard is 45 years.
+
+#### Housing units by type
+
+|  |  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|----|
+|  | **single** | **duplex** | **3-4 plex** | **5-9 units** | **10-19 units** | **20-49 units** | **50+ units** | **Total** |
+| **Ballard** | 12,990 | 1,433 | 1,346 | 1,939 | 1,461 | 1,080 | 310 | 20,559 |
+| % of total | 63 | 6.9 | 6.5 | 9.4 | 7 | 5 | 1.5 | \*\*\* |
+| **Seattle** | 132,300 | 10,491 | 12,150 | 16,636 | 24,470 | 30,229 | 19,220 | 245,496 |
+| % of total | 54 | 4.2 | 5 | 6.7 | 10% | 12.3 | 7.8 | \*\*\* |
+
+Ballard is much more made up of single-family dwellings than greater Seattle. In fact, Seattle's second largest housing unit type, 20-49 unit buildings, are sixth in prevalence in Ballard. Similarly, Seattle in general has 7.8% buildings with 50 or more apartments, but only 310 \[or 1.5%\] are in Ballard. Ballard has a median amount of assisted housing, with a ratio varying from 10-100 per 1000 residents. The overall ratio for Seattle is 62/1000. However, Ballard's concentration of assisted housing units is high for the North Seattle and canal neighborhood areas. It can be speculated that many of the assisted housing units in Ballard are nursing and rest homes for Ballard's many elderly residents, but this is more speculation based on observation than verifiable fact.
+
+Seventy-five percent of Ballard's housing is zoned for single-family dwellings with the remainder apartments, condominiums, and low-income and senior citizen housing. Approximately 58% of Ballard's acreage is in residential use. This is somewhat lower that Seattle's overall usage.
+
+#### Household Estimates 1994
+
+|             |                  |                    |                     |
+|-------------|------------------|--------------------|---------------------|
+|             | **vacancy rate** | **household size** | **change in units** |
+| **Ballard** | 5%               | 2.02               | 49.2                |
+| **Seattle** | 6.47%            | 2.42               | not reported        |
+
+The vacancy rate of Ballard households is also lower than Seattle's. In addition the household size of Ballard is significantly lower, perhaps owing to the large number of single-occupant households in Ballard.
+
+In terms of households, Ballard's predominant household type is single family \[almost half\] followed in descending order by larger households. Of these households, almost 2/3 are non- family households, followed by 1/4 married couple families \[2/3 of these w/o children living in the house\] and single parent households with twice as many female headed households as male. Of these households, 8/9 are English speaking with approximately 200 linguistically isolated households evenly split between Spanish speaking and Asian language speaking.
+
+#### Rent for a 2 bedroom/1 bath apartment
+
+**1991**
+
+**1992**
+
+**1993**
+
+**Ballard**
+
+\$613
+
+\$588
+
+\$615
+
+% change
+
+-4.1
+
++4.5
+
+**Seattle**
+
+\$627
+
+\$658
+
+\$680
+
+% change
+
++5.0
+
++3.3
+
+Ballard was on the low end of the Seattle neighborhoods' median increase for rents in the 1991- 1993 period. Rents actually dropped in 1992 but surged at levels higher that Seattle's in 1993.
+
+#### Sale Prices for Single Family Homes
+
+|             |           |           |           |
+|-------------|-----------|-----------|-----------|
+|             | **1991**  | **1992**  | **1993**  |
+| **Ballard** | \$140,319 | \$146,347 | \$148,329 |
+| % change    |           | +3.6      | +1.4      |
+| **Seattle** | \$173,065 | \$174,125 | \$175,269 |
+| % change    |           | +.9       | +.7       |
+
+Ballard's single family homes are on the low scale for housing in Seattle making them affordable to first time home buyers and young families.
+
+# <span id="reso">Resources/Organizations</span>
+
+## Community Resources
+
+Ballard is home to more than 25 civic and community organizations including the Central Ballard Community Council, Ballard Historical Society, Ballard Avenue Landmark District Board and the Ballard Centennial Committee. Ballard residents are served by a Citizen's Service Center, two Community Centers \[one to the Southwest and one to the Northeast\] five public elementary schools and one high school. There is a government social services center operating a food stamps, welfare and Medicare office.
+
+Ballard is also home to one major hospital -also Ballard's largest employer - a "self-sufficient" retail community and a disproportionately large number of churches. Ballard has been said to remain economically strong by "maintaining a balance between residential, commercial and industrial development." It has a diversified small business core, a few major chain stores, with more coming in and many active maritime industry businesses.
+
+Ballard is home to the longest continually operating movie theater in the US and also home to a library, theater, many clubs and bars \[in historic Old Ballard\] and many fine restaurants and fast food places. There is a senior citizen center and many fraternal organizations have their lodges in Ballard \[Eagles, Elks, Masons, Odd Fellows\]. Ballard has a world renowned Nordic Heritage Museum and also takes advantage of its seaside with Golden Gardens, a beachside park.
+
+Ballard has a historic district, known as Old Ballard where many of the original brick buildings are still in place. This is the center of the Ballard arts community with much of the space devoted to artists' studios and music clubs, as well as many of Ballard's finest restaurants.
+
+## Transportation
+
+Ballard maintains its "out of the way" status by being fairly distant from both I-5 and Rt. 99. Though there are major arterials running through Ballard \[8th, 15th and 24th N/S and Market, 65th and 85th E/W\] there is no easy access to highways in and out of the city. Ballard is served quite well by Metro transit with service from the 15, 17, 18 , 44, 46, 28, 62 and 48 busses. Geographically Ballard is fairly level with a slight pitch to the roads after Market street continuing up to 85th. Ballard is actually flatter than many Seattle neighborhoods.
+
+Ballard has lots of on-street parking, though there are no Park n' Rides owing to the lack of nearby major thoroughfares. Parking rates in Ballard are less than in downtown Seattle and there are no areas with zoned parking. Ballard's main commerce and business center, Ballard Street and Market Street, is a very pedestrian friendly area with many walkways and benches. Much of Ballard is also served by bike paths that extend outward to downtown and the University district and on to Lake Washington.
+
+Ballard was a trial area for Metro's shorter-trip bus routes - the LINCS Project -- which traveled in continuous circuits in Ballard and would stop when flagged by pedestrians. The pilot program had three busses covering the major streets in Ballard but once the trial period was over, the service was not continued due to "lack of interest."
+
+# <span id="econ">Economic Life/Well-Being</span>
+
+## Employment
+
+The median household income in Ballard is almost \$27,000. The median family income is \$36,286. The per capita Ballard income is \$18,139. See the chart below for a breakdown of type of earnings by household.
+
+#### Earnings by Type
+
+\[number of households\]
+
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+|  | **earnings** | **wage/salary** | **SS income** | **public asst.** | **retirement** |
+| **received** | 7422 | 7005 | 2725 | 540 | 1536 |
+| **did not receive** | 2213 | 2630 | 6910 | 9095 | 8099 |
+
+Ballard is often described as a thriving neighborhood with a continued positive economic outlook. It has primarily single/multi-family zoning as well as industrial and neighborhood and commercial. There are 1,300 businesses which offer goods and services to the Ballard community and over 135,000 people support the Ballard business district.
+
+#### Space Allocation by Type of Use \[in acres\]
+
+<table style="width:100%;" data-border="1" data-cellpadding="2" width="100%">
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<tbody>
+<tr data-align="center">
+<td></td>
+<td><strong>utilities<br />
+transport.</strong></td>
+<td><strong>parks</strong></td>
+<td><strong>single<br />
+family</strong></td>
+<td><strong>multi<br />
+family</strong></td>
+<td><strong>commercial</strong></td>
+<td><strong>industrial</strong></td>
+</tr>
+<tr data-align="center">
+<td><strong>Ballard</strong></td>
+<td>38.6</td>
+<td>117.3</td>
+<td>1544.8</td>
+<td>249.3</td>
+<td>259.6</td>
+<td>177.1</td>
+</tr>
+<tr data-align="center">
+<td><strong>Seattle</strong></td>
+<td>1440.8</td>
+<td>4811.1</td>
+<td>18465</td>
+<td>3173.4</td>
+<td>2829</td>
+<td>2611</td>
+</tr>
+<tr data-align="center">
+<td>percent</td>
+<td>2.6</td>
+<td>2.4</td>
+<td>8.3</td>
+<td>7.8</td>
+<td>9.1</td>
+<td>6.7</td>
+</tr>
+</tbody>
+</table>
+
+The three largest Industries that employ Ballard residents are retail trade, "other professional and related services" and health services. The three most common occupations are professional specialty occupations, administrative support occupations and executive, administrative, and managerial occupations. Employment growth is projected to continue in the service industry, closely followed by retail trades.
+
+The job density in Ballard is currently 11 jobs to the acre and that is projected to increase to 22 jobs/acre by the year 2010.
+
+## Business & Industry
+
+Ballard has one of the largest industrial zones within the city of Seattle and certainly the largest in proximity to a large residential population. There is a large transitory population that is employed in the fishing boats that come in and out of the Sound as well as the tourist travel around the Shilshole Bay Marina. The large percentage of Ballard's business are independently and locally owned offering a "small town shopping experience"
+
+Ballard has been selected by the City of Seattle to be a Hub Urban Village as part of the City's comprehensive plan. Only one of two in North Seattle \[with the other one near 125th Street\] it is projected to house both a high density residential area as well as a low density general commercial area. There will also be some moderate density neighborhood commercial areas between NW 65th and NW 80th. Ballard will also have a manufacturing and industrial center and, according to the Future Land Use Map, will be one of the most diverse neighborhoods with the largest amount of offerings.
+
+Since Ballard currently has below-market prices for office and manufacturing space, it could be poised to take advantage of the city growth incentives and potential transportation improvements. The City's plan includes a pedestrian friendly Ballard center with ample parking and transportation opportunities and is supposed to simulate a small downtown area of a smaller city. Since Seattle's downtown area has become so congested and expensive to park in recently, the urban Hub idea is one way of siphoning off visitors and creating more regional downtown simulacrums.
+
+Ballard has a Chamber of Commerce, but it is not very active in the community, at least as far as providing information to the general public. When information for this analysis was sought, their response was "Go check the library." The most recent publication about Ballard businesses "Seattle Investment Guide to Ballard" appears to have been published prior to 1990.
+
+Ballrd has its own weekely newspaper - The Ballard News Tribune - that was recently bought out by a West Seattle company and underwent a fairly radical format change. The newspaper has always aggresively promoted issues that it felt were of interest to Ballardians as well as providing a lot of information on upcoming community events as well as Senior Center information.
+
+# <span id="prob">Problems and Trends</span>
+
+Since Ballard has a large fishing boat population, it is occasionally deluged with people on shore leave of sorts who have no fixed residence and come into town to drink before setting off again. While Ballard does not seem to have a large homeless population per se, these people can cause some of the same problems, sleeping in alleys, urinating on buildings and hassling passers-by.
+
+Ballard has a reputation for being old-fashioned and out of the way. While this reputation has been challenged in recent months by the influx of chain food service industries \[most notably SBC, Tully's and Bernie's Bagels\] many people do not consider Ballard as a primary recreation, shopping or arts destination area. This can be further compounded by residents' preference to keep Ballard slightly isolationist. This is also mitigated by Ballard's own strong internal sense of community and regional pride that makes Ballard a better community to live in than it is to visit.
+
+# <span id="comm">Community Needs</span>
+
+As part of a neighborhood planning project, Ballard and Crown Hill \[the neighborhood directly north of Ballard\] residents got together with the Neighborhood Planning Association and created a Neighborhood Planning Document which outlines their concerns and develops "vision elements" for various topics such as housing, transportation and arts and culture \[see attached sheets\]. These were then condensed into a Crown Hill/Ballard Vision. The major points of this vision are as follows:
+
+- Enhance access to recreation and open space within a greener, more pedestrian friendly Ballard.
+- Establish design guidelines for compatible new and readapted housing that is environmentally sound and affordable for a diverse, larger population.
+- Promote collaboration, communication and citizen participation in community institutions and human services, while expanding funding and nurturing youth and other vulnerable populations.
+- Create a balanced and well-integrated transportation system that includes bus and rail transit, autos, freight, bicycles and pedestrians.
+- Develop a comprehensive and creative business revitalization strategy that enhances balance and vitality in all business sectors.
+- Treasure our historic buildings and our excellent cultural institutions while supporting our lively arts community.
+
+## Analysis
+
+Ballard is a community at odds with much of Seattle. It has an older, less mobile population and it has major industry that is practically unique. It is primarily populated by one person, single home households and has a lot of locally owned and small businesses.
+
+While Ballard has a lot to interest the average Ballardian, it does not hold much allure for people outside of Ballard. Since many people who live in Ballrd also work and shop in Ballard, it can be argued that this is not a problem. However, since Ballard does appear to be expanding, attracting outside businesses and receiveing attentions as a future Urban Hub, it is pretty certain that things will not be able to remain the same for much longer. The question then becomes how quickly to embrace this change and proactively affect it, or whether to simply become overrun by change and have it change you.
+
+Ballard has always been aggresively pro "green space" \[despite its lack of large park areas\], pro community centers and pro arts. Visitors are always suprised during visits to Ballard by how much public art and community activity there appears to be.
+
+## <span id="appe">Appendix I: Bibliography & Map</span>
+
+### web sources
+
+[U.S. Census](http://www.census.gov/cgi-bin/gazetteer)  
+lookup of census data by zip code/tracts
+
+[BallardNet](http://www.ballardnet.com/history.html)  
+Web site w/ info on the history of Ballard as well as local links.
+
+[National InterAd](http://www.nia.com/cgi-bin/community_info.cgi/Seattle/WA/Ballard)  
+Page with history of Ballard, real estate agency location information
+
+[Ballard High School](http://sea-css.ssd.k12.wa.us/ballard/index.html)  
+Ballard High School on the web
+
+[Crime Maps](http://www.accessone.com/~kwirth)  
+Maps outlining Seattle crime by census tract
+
+[Ballard Links Aplenty](ballinks.html)  
+other Ballard links not used in this project
+
+### printed sources - from Ballard and Central branch libraries
+
+"Phase 1: Neighborhood Planning Document" Crown Hill/Ballard area by the Neighborhood Planning Association, July 1996.
+
+"Population and Housing Estimates 1993 and 1994" Puget Sound Regional Council, December 1994.
+
+Seattle Comprehensive Plan & Future Land Use Map City of Seattle, March 1994
+
+Seattle's Comprehensive Plan: Plan for Managing Growth 1994-2014" City of Seattle, November 1995.
+
+"Detailed Population and Housing Estimates 1992" Puget Sound Trends, October 1993.
+
+"Population Change 1980-1990" Puget Sound Trends, March 1991.
+
+"King County 1990 Census, Percentage of Population Under Age 5" Puget Sound Trends, June 1991.
+
+"Population, Households and Housing Trends" Puget Sound Trends, October 1995.
+
+Monitoring Bulletin - Housing Affordability in King County Planning and Community Development Division, April 1994.
+
+Seattle Investment Guide to Ballard Seattle Department of Community Development
+
+### personal sources - people spoken to
+
+**Jerry** - owner, Dutch Treat, a locally owned caf currently competing with larger coffee chains that have moved in to the area.\
+"*The problem with Ballard small businesses is that they lack business acumen. They think they can just keep on doing what they're doing and continue to stay in business. This is not going to be the case much longer*"
+
+**Jack** - caretaker, Odd Fellows Hall, a locally owned fraternal organization that rents space to other small and local groups\
+"*Ballard is a much more interesting place to live than it is to visit*"
+
+**student librarian**, Ballard Branch Library\
+"*This place is always a mob scene. People just can't get enough of the library. It's the only resource for people to get information*"
+
+### Map of Ballard
+
+[Map of Ballard showing census tracts](http://www.accessone.com/~kwirth/images/maps/area4.gif)\
+source: <http://www.accessone.com/~kwirth>
+
+[street map of central Ballard](http://204.29.20.21/plaza/ballardnet/community/map.html)\
+source: [Ballardnet](http://204.29.20.21/~ballardnet)
+
+## Appendix II: Ballard History
+
+from [BallardNet](http://www.ballardnet.com/), for more information please see [The History and Culture of Ballard](http://204.29.20.21/plaza/ballardnet/community/history.html)
+
+h Located in the northwest section of Seattle, Ballard is by many regarded as a city within a city. It is dominated by its proximity to the water which touches not only the many miles of shoreline but also its economy, culture and recreation. Fishing and fishing ships, lumber and sawmills were for many years the trademarks of Ballard but recent years have seen more of a diversification in industry.
+
+The community was named for Captain William Ballard who acquired land along the northern shore of Salmon Bay in 1887. The Salmon Bay area was originally platted as Gillman Park in 1888 but when the municipality was incorporated in 1890, the city council changed the name to Ballard.
+
+The newly platted land quickly attracted settlers and industries needing ready access to Puget Sound. Within a short time the area was dotted with sawmills. The rapid growth was accelerated in 1890, when a rail link was completed with Seattle. By the end of the 90s an established town had been created housing the world's largest shingle industry with fishing and boat building as other major sources of revenue. By the turn of the century, Ballard was the largest area of employment north of San Francisco.
+
+The rapid growth brought problems and the lack of a fresh water supply proved a major obstacle. To alleviate some of the problems Ballard was annexed to Seattle in 1907. At that time it was said that the town had eighteen churches, seventeen shingle mills, three banks, three saw mills, three iron foundries, three shipyards and about 300 wholesale and retail merchants. In addition there were several houses of ill repute and innumerable bars, many of which were located on Ballard Avenue in a four block area.
+
+At that time a strong Scandinavian community became established in Ballard and the 1910 census showed that three out of five (62%) of the foreign born residents were Scandinavians. When combining first and second generation Scandinavian-Americans they ac counted for 34 percent of Ballard's population. Ever since that time Ballard has had the reputation of being the home for a large Scandinavian ethnic community although the most recent census reveal that less than 12 percent of the population is of Scandinavian descent. Yet, many parts of the community retains a distinct Scandinavian flavor with Scandinavian shops, restaurants and businesses.
+
+Today Ballard's commercial strength still is flavored by the water. Maritime industries line the shore of Salmon Bay and the ship canal. Fishermen's Terminal holds the world's largest fishing fleet. Each year large number of tourists visit waterfront attractions from the Hiram M Chittenden Locks to Golden Gardens Park.
+
+On the whole, Ballard has managed to retain the feeling of a small town and the community has an special identity that is quite unique. In the Old Ballard section the Historic District has preserved the old buildings and the pioneer spirit of the turn of the century. Furthermore, Ballard is the home of the Nordic Heritage Museum which is located in a former 1907 school building. Here the history of Ballard as well as that of the Scandinavians in Washington is documented through large and exciting recreations
+
+------------------------------------------------------------------------
+
+Document created by [Jessamyn West](mailto:jessamyn@eskimo.com)\
+for a class in community analysis at the [UW Library School](http://weber.u.washington.edu/~gslis)\
+*11/10/96*

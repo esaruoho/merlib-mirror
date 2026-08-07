@@ -6,7 +6,7 @@ order: 160
 reachable_from_entry: true
 images: 3
 internal_links: 11
-extracted: 2026-08-03T18:11:34Z
+extracted: 2026-08-07T05:53:07Z
 extractor: site_to_paper.py (pandoc)
 ---
 
@@ -30,13 +30,13 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td><strong><a href="http://amasci.com/neodemo.html">NEODYMIUM DEMOS</a>  |</strong><br />
+<td><strong><a href="/neodemo.html">NEODYMIUM DEMOS</a>  |</strong><br />
 </td>
-<td><strong><a href="http://amasci.com/unew.html">GOOD STUFF</a>  |</strong><br />
+<td><strong><a href="/unew.html">GOOD STUFF</a>  |</strong><br />
 </td>
-<td><strong><a href="http://amasci.com/news.html">NEW STUFF</a>  |</strong><br />
+<td><strong><a href="/news.html">NEW STUFF</a>  |</strong><br />
 </td>
-<td><strong><a href="http://amasci.com/search.html">SEARCH</a></strong><br />
+<td><strong><a href="/search.html">SEARCH</a></strong><br />
 </td>
 </tr>
 </tbody>
@@ -58,13 +58,13 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: left;" width="18" data-valign="top" data-summary="google ad"><pre><code></code></pre></td>
+<td style="text-align: left;" width="180" data-valign="top" data-summary="google ad"><pre><code></code></pre></td>
 <td data-summary="spacer" width="15"> </td>
 <td data-valign="top" data-summary="main article: neo magnets puzzle" width="800"><h1 id="supermagnet-bead-tricks-a-glob-of-neo-magnet-spheres-is-a-wonderful-toy-2004-w.-beaty">SUPERMAGNET BEAD TRICKS<br />
 A glob of Neo magnet spheres is a wonderful toy<br />
-2004 <a href="http://amasci.com/me.html">W. Beaty</a></h1>
+2004 <a href="/me.html">W. Beaty</a></h1>
 <blockquote>
-The price on 8mm or .25" Neodymium supermagnet spheres (<a href="http://amasci.com/amateur/neosphere.html">/amateur/neosphere.html</a>) has come down enough that now we can afford to play with huge blobs of them. They behave like giant atoms. ...giant atoms existing in the everyday world! Play with huge atoms while observing the strange behavior of the chemical bonding force, see 3D molecular structures, and spontaneous self-assembly, and various biological phenomena.         
+The price on 8mm or .25" Neodymium supermagnet spheres (<a href="/amateur/neosphere.html">/amateur/neosphere.html</a>) has come down enough that now we can afford to play with huge blobs of them. They behave like giant atoms. ...giant atoms existing in the everyday world! Play with huge atoms while observing the strange behavior of the chemical bonding force, see 3D molecular structures, and spontaneous self-assembly, and various biological phenomena.         
 </blockquote>
 <br />
 &#10;<p><span id="down1"></span> <strong>Bead-array Bar Magnet<br />
@@ -75,30 +75,11 @@ The price on 8mm or .25" Neodymium supermagnet spheres (<a href="http://amasci.c
 </p>
 <p><br />
 </p></td>
-<td data-summary="google ad" data-valign="top"></td>
+<td data-summary="google ad" data-valign="top"><div style="width:356px;height:290px;margin-left:20px;margin-top:200px;float:left;">
+&#10;</div></td>
 </tr>
 </tbody>
 </table>
-
-<div class="iframe">
-
-<div id="player">
-
-</div>
-
-<div class="player-unavailable">
-
-# Tapahtui virhe.
-
-<div class="submessage">
-
-JavaScriptin suoritus ei onnistu.
-
-</div>
-
-</div>
-
-</div>
 
 <table data-summary="format two columns" width="100%">
 <colgroup>
@@ -112,7 +93,7 @@ JavaScriptin suoritus ei onnistu.
 <td style="text-align: left;" width="180" data-valign="top" data-summary="google ad"></td>
 <td width="15"> </td>
 <td data-valign="top" width="800" data-summary="main text content">Make a bar magnet &amp; compass<br />
-<a href="http://amasci.com/amateur/videos.html">more billb videos</a><br />
+<a href="/amateur/videos.html">more billb videos</a><br />
 &#10;<br />
 <br />
 &#10;<table data-summary="safety warning sign" data-bgcolor="#ff0000" data-cellpadding="7">
@@ -144,32 +125,12 @@ JavaScriptin suoritus ei onnistu.
 </p>
 <p>It's actually a kind of puzzle. Here's the secret: for this to work, all the circular direction of north/south poles arranged around the pentagon-rings must be the same.<br />
 </p>
-<p><img src="http://amasci.com/graphics/bucky3.gif" data-hspace="10" data-align="right" width="234" height="228" alt="[drawing of 60-bead sphere array]" /> More realistic buckyball: Once you're successful in making Buckyballs, try duplicating the way they form in nature. Build two 30-atom hemispheres like so: first form two pentagons, place each one against a circle of ten magnet spheres to form a little cup, then place a circle of 15 spheres on the lip of each cup. This is how buckyballs actually form, and if the two cups come together, they merge seamlessly to form a 60-magnet hollow sphere. AH! THAT'S how Fullerene molecules end up with metal ions trapped inside. It's like a clamshell closing on a stone. (NOTE: this two-hemisphere technique is not trivial! The polarity of the chain-circles are important, an they must be placed so they merge with the magnet spheres adjacent, NOT with the magnets moving into the clefts of the adjacent chains. Also, you must "knit" the lips of the hemispheres together in a zigzag pattern, otherwise you'll get something that looks like a clam. It's a puzzle needing some thought and experiments to solve.)<br />
+<p><img src="/graphics/bucky3.gif" data-hspace="10" data-align="right" width="234" height="228" alt="[drawing of 60-bead sphere array]" /> More realistic buckyball: Once you're successful in making Buckyballs, try duplicating the way they form in nature. Build two 30-atom hemispheres like so: first form two pentagons, place each one against a circle of ten magnet spheres to form a little cup, then place a circle of 15 spheres on the lip of each cup. This is how buckyballs actually form, and if the two cups come together, they merge seamlessly to form a 60-magnet hollow sphere. AH! THAT'S how Fullerene molecules end up with metal ions trapped inside. It's like a clamshell closing on a stone. (NOTE: this two-hemisphere technique is not trivial! The polarity of the chain-circles are important, an they must be placed so they merge with the magnet spheres adjacent, NOT with the magnets moving into the clefts of the adjacent chains. Also, you must "knit" the lips of the hemispheres together in a zigzag pattern, otherwise you'll get something that looks like a clam. It's a puzzle needing some thought and experiments to solve.)<br />
 </p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
-
-<div class="iframe">
-
-<div id="player">
-
-</div>
-
-<div class="player-unavailable">
-
-# Tapahtui virhe.
-
-<div class="submessage">
-
-JavaScriptin suoritus ei onnistu.
-
-</div>
-
-</div>
-
-</div>
 
 <table data-summary="format two columns" width="100%">
 <colgroup>
@@ -183,7 +144,7 @@ JavaScriptin suoritus ei onnistu.
 <td style="text-align: left;" width="180" data-valign="top" data-summary="google ad"></td>
 <td width="15"> </td>
 <td data-valign="top" width="800" data-summary="main text content">Buckyball Sphere<br />
-<a href="http://amasci.com/amateur/videos.html">more billb videos</a><br />
+<a href="/amateur/videos.html">more billb videos</a><br />
 &#10;<br />
 Build a "decorated" Fullerene: add 12 extra magnets to the centers of the twelve pentagons. Looks like a cold virus. Build a C-180 Fullerene: form twelve pentagons, but add 10 sphere magnets to the rim of each, then assemble the super-size buckyball. Also note: pentagons can connect to form a "fabric" in square array.<br />
 &#10;<p><br />
@@ -195,6 +156,10 @@ Build a "decorated" Fullerene: add 12 extra magnets to the centers of the twelve
 </tr>
 </tbody>
 </table>
+
+|     |     |
+|:---:|-----|
+|     |     |
 
 <table data-summary="format two columns" width="100%">
 <colgroup>
@@ -215,26 +180,6 @@ Build a "decorated" Fullerene: add 12 extra magnets to the centers of the twelve
 </tbody>
 </table>
 
-<div class="iframe">
-
-<div id="player">
-
-</div>
-
-<div class="player-unavailable">
-
-# Tapahtui virhe.
-
-<div class="submessage">
-
-JavaScriptin suoritus ei onnistu.
-
-</div>
-
-</div>
-
-</div>
-
 <table data-summary="format two columns" width="100%">
 <colgroup>
 <col style="width: 25%" />
@@ -247,7 +192,7 @@ JavaScriptin suoritus ei onnistu.
 <td style="text-align: left;" width="180" data-valign="top" data-summary="google ad"></td>
 <td width="15"> </td>
 <td data-valign="top" width="800" data-summary="main text content">2-Dimensional Amoebas<br />
-<a href="http://amasci.com/amateur/videos.html">more billb videos</a><br />
+<a href="/amateur/videos.html">more billb videos</a><br />
 &#10;<br />
 &#10;<p>...but on both sides of the kind is the same sort of chain pattern. YOU CAN MOVE THE KINK ALONG. Push it, and the beads click into place as the kink/defect moves through the chain. Form two opposite kinks, then push them around. If they come together, they cancel out and vanish.<br />
 </p>
@@ -334,10 +279,10 @@ I heard about this trick from the guys at: <a href="http://www.wondermagnet.com"
 <p><br />
 </p>
 <h2 id="where-to-buy-em">Where to buy 'em?</h2>
-<a href="http://amasci.com/amateur/beads_list.html">MAGNET SUPPLIERS LIST</a><br />
+<a href="/amateur/beads_list.html">MAGNET SUPPLIERS LIST</a><br />
 &#10;<p><br />
 </p>
-<p>&lt;---- BACK TO <a href="http://amasci.com/neodemo.html">SUPERMAGNET DEMONSTRATIONS</a></p></td>
+<p>&lt;---- BACK TO <a href="/neodemo.html">SUPERMAGNET DEMONSTRATIONS</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -368,8 +313,8 @@ I heard about this trick from the guys at: <a href="http://www.wondermagnet.com"
 
 \
 
-<http://amasci.com/amateur/beads.html>\
-Created and maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\
+[/amateur/beads.html](/amateur/beads.html)\
+Created and maintained by [Bill Beaty](/billb.html). Mail me at: [<img src="/graphics/abc.gif" data-border="0" width="141" height="19" />](/amfrm/).\
 
 <div class="statcounter">
 

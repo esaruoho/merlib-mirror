@@ -1,0 +1,76 @@
+HOW-TO QUICKLY CONFIGURE SERIAL TERMINAL LINUX:
+
+HOW-TO VERSION: 
+0.1
+
+INTRODUCTION:
+Serial Terminal Linux (for brevity, STLinux) is an easy way to convert 
+any machine into a bare terminal emulator. That old 386 laptop can 
+now be used to keep a top display open, display system messages, etc. 
+Serial Terminal Linux uses a stripped down Linux kernel and minicom. 
+Essentially, STLinux is a mini distribution that fits on a floppy and 
+boots any machine as a terminal emulator. STLinux was created by Jonathan 
+Bartlett.
+
+INSTALLATION:
+Using Serial Terminal Linux is a piece of cake once you know how 
+to get started. All you'll need is a machine to use as a terminal
+(I use a junker laptop, for instance), a Linux machine which the
+terminal will connect to, a null modem cable to connect the machines,
+and a floppy disk to hold the Serial Terminal Linux boot image.
+
+GETTING YOUR CABLE:
+First off, you'll need to get a cable to connect your machines. Most
+computer stores will sell you a cable while nodding their heads whether
+or not they have any idea what you need. You should check the back
+of your machines and look for a 9 or 25 pin male port. Armed with
+the knowledge of your port types, head to your nearest cable vendor
+and ask for a null-modem female to female cable with the correct
+pin sizes. If they start showing you cables and ask you to pick
+one, or generally don't know what you mean when you ask for a 
+null modem cable specifically, head somewhere else. You don't want
+to get the wrong cable! :)
+
+CREATING THE SERIAL TERMINAL LINUX FLOPPY:
+Download the latest version of STLinux from 
+http://members.wri.com/johnnyb/seriallinux/  -If you're on a DOS/Win 
+machine you can use the rawrite utility to create your disk. Otherwise,
+just pop a floppy in your machine and run:
+
+dd if=serial-terminal-linux-image-file of=/dev/fd0
+
+CONFIGURING THE TERMINAL 'SERVER':
+In /etc/inittab, add the following line:
+
+S1:12345:respawn:/sbin/getty ttyS0 DT19200 vt100
+
+Once this line is added, you can make init aware of your changes
+with the command:
+
+kill -HUP 1
+
+This will allow a login on the terminal only AFTER the terminal server
+has booted. You won't see boot-up messages. Of course, this being linux, 
+just skip to the next section) Check out Documentation/serial-console.txt 
+in your linux source directory for more information. Once you have
+your kernel configured on the terminal server, you can specify
+output to a terminal by appending something like 
+console=tty0 console=ttyS0,19200N8
+to your kernel while booting. If you intend to always do this, add
+the following entry to your lilo.conf file:
+
+append=" console=tty0 console=ttyS0,19200N8 "
+
+Then just run lilo and reboot.
+
+CONFIGURING THE TERMINAL:
+Boot the terminal machine with the Serial Terminal Linux Floppy. Once
+minicom has loaded, you can type CTR-A Z for help. You'll need to set
+the Comm Parameters to 19200 8N1.
+
+That's all there is to it! Now, if your terminal is normally your useful
+laptop, pack the STLinux disk away inside it's carrying bag until you
+need a quick terminal! :)
+
+Hope this helps!
+olsson@uiuc.edu

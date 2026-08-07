@@ -1,0 +1,31 @@
+[C]#ffaa22
+[A]center
+
+
+
+
+
+
+[C]#ffffff
+Welcome to 
+
+
+
+
+[C]#9faaff
+Star Trek
+
+At The Web Spot
+
+
+
+[P]5
+
+
+[C]#48F902
+Enjoy Your Stay
+
+
+[P]2
+
+[END]

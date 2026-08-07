@@ -1,0 +1,371 @@
+Pure Mac: Olden 
+
+ Olden 
+
+ Appearance Manager 
+ Disk Copy 4.2 
+ Eudora Lite 1.5.5 
+ Fetch 
+
+ GIFConverter 
+ ircle 1.5.6 
+ MacPPP 
+
+ MacSOUP 
+ MacTCP 
+ MacTCP Monitor 
+
+ MacTCP Switcher 
+ MacWeb 
+ Mosaic 
+
+ NCSA Telnet 
+ NewsWatcher 
+ Open Transport 
+ Open Transport/PPP 
+ ShrinkWrap 2.0.1 
+
+ System 7.0.1 
+ System 7.5.3 
+ ZTerm 
+
+ System 7.5.5 works fine on all Macs, even those with 68000 processors. 7.5.5 may be a little RAM hungry so you may want to try system 7.0.1 which is distributed by Apple at no cost. 
+All the applications listed on this page work properly on a 68000 Mac with System 7.0.1.
+Later versions may also work, as will much of the current software, but you'll have to check for yourself. 
+
+ Jay's Classic Mac Shareware Archive 
+ Low End Mac 
+ Mac Antiques 
+ 68000 Mac FAQ A list of applications that work on a 68000 with 7.0.1 
+ The Kids' Domain Shareware for Black and White Macs 
+ This Old Mac 
+ UMich Archive The best archive available for older Macs 
+
+ Appearance Manager 1.0.2 
+
+The Appearance Manager is included with Mac OS 8.X. This installer is provide for
+users of System 7 and includes version 1.0.2 of the appearance manager
+extensions. 
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : December 17, 1997
+ Requirements : 680x0 or PPC, System 7.6.1 or lower
+
+ Direct Download
+ File Size: 509 kb
+
+ Disk Copy 4.2 
+
+An older version of Apple's Disk copy.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : February 16, 1994
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 39 kb
+
+ Parent Directory
+
+ Eudora Lite 1.5.5 
+
+Eudora Light is all most people will need in an Email program. Get Eudora Light 1.3.1 for System 6.
+
+ License : Freeware
+ Author/Publisher : Steve Dorner/Qualcomm
+ Modification Date : March 30, 1996
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 665 Kb - Eudora Light 1.5.5
+
+ Home Page 
+
+ Fetch 3.0.3 
+
+A great FTP program and still my favorite (when was it last updated?!). The easiest way to do batch uploads.
+
+ License : Shareware, $25 - Free to those affiliated with educational institutions and non-profit organizations
+ Author/Publisher : Jim Matthews/Dartmouth College
+ Modification Date : March 12, 1997
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 963 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ GIFConverter 2.3.7 
+
+GIFConverter is a graphics viewing and converting program for the Macintosh. It
+can display GIFs, JPGs, TIFs and PICs.
+
+ License : Shareware, $30
+ Author/Publisher : Kevin A. Mitchell
+ Modification Date : January 29, 1994
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 474 Kb 
+
+ Home Page 
+
+ ircle 1.5.6 
+
+An old free version of this IRC client.
+
+ License : Freeware
+ Author/Publisher : Olaf Titz
+ Modification Date : December 19, 1994
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 71 Kb Version 1.5.6 - ircle B.O. (before Onno) - You may have to command click this link and save it to disk
+
+ Home Page 
+
+ MacPPP 2.0.1 
+
+Works with MacTCP even on 68000 macs.
+
+ License : Freeware
+ Author/Publisher : Merit Network and The Univeristy of Michigan - Now Apple Computer
+ Modification Date : October 28, 1993
+ Requirements : 68000
+
+ Direct Download
+ File Size: 54 Kb - version 2.0.1
+
+ MacSOUP 2.4.6 
+
+MacSOUP is an offline reader for Macintosh. It handles news and mail (but it can optionally interface to Eudora
+or Claris Emailer, if you prefer to use that for all your mail). 
+
+ License : Shareware, $20
+ Author/Publisher : Stefan Kurth
+ Modification Date : May 2, 2000
+ Requirements : 68000 or better or PPC
+
+ Direct Download
+ File Size: 1672 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ MacTCP 2.0.6 
+
+The latest MacTCP for your classic Mac.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : December 13, 1994
+ Requirements : System 7 or higher
+
+ Direct Download
+ File Size: 159 Kb - MacTCP 2.0.6
+
+ Direct Download
+ File Size: 61 Kb - MacTCP 2.0.4 to 2.0.6 updater
+
+ MacTCP Monitor 1.0d34 
+
+MacTCP Monitor is a simple (in concept, anyway) utility for displaying your
+Mac's TCP activity. It continuously graphs the number of bytes sent/received
+by MacTCP in any given second. For MacTCP only.
+
+ License : Freeware
+ Author/Publisher : Chris W. Johnson/The University of Texas System Office of Telecommunication Services
+ Modification Date : Octover 17, 1995
+ Requirements : 680x0, System 7, Apple's Thread Manager extension (which is built into System 7.5)
+
+ Direct Download
+ File Size: 178 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ MacTCP Switcher 1.1 
+
+MacTCP Switcher is a very simple little program that makes it easy to save and quickly restore multiple MacTCP configurations.
+OpenTransport has this capability built in.
+
+ License : Freeware
+ Author/Publisher : John Norstad
+ Modification Date : April 28, 1995
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 13 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ MacWeb 1.00A3.2 
+
+Version 1.1.1 E crashes when saving prefs with System 7.0.1.
+A pretty good Web Browser. No backround patterns, frames or tables but the
+browser to get if you need a browser that has low system requirements.
+
+ License : Evaluation
+ Author/Publisher : TradeWave Corporation
+ Modification Date : March 7, 1995
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 360 Kb - 1.00A3.2 68k version
+
+ Parent Directory 
+
+ Mosaic 1.0.3 
+
+The app that started all this WWW fuss.
+
+ License : Freeware
+ Author/Publisher : NCSA - National Center for Supercomputing Applications at the Unviversity of Illinois at Urbana-Champaign
+ Modification Date : January 7, 1994
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 452 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ NCSA Telnet 2.7b4 
+
+The popular Telnet application. Get version 2.6 for System 6.
+
+ License : Freeware
+ Author/Publisher : Clint Popetz, Jim Browne and various former developers/National Center for Supercomputing Applications at the Unviversity of Illinois at Urbana-Champaign
+ Modification Date : June 28, 1995
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 184 Kb - 2.7b4 68k version
+
+ Direct Download
+ File Size: 184 Kb - 2.6 68k version - Released March 28, 1994
+
+ Parent Directory 
+
+ NewsWatcher 2.2.2 
+
+The most popular Usenet newsreader for the Mac.
+
+ License : Freeware
+ Author/Publisher : Johm Norstad
+ Modification Date : February 27, 1998
+ Requirements : 680x0
+
+ Direct Download
+ File Size 665 Kb - NewsWatcher 2.2.2
+
+ Parent Directory 
+
+ Home Page 
+
+ Open Transport 1.1.2 
+
+Networking software for Mac OS-compatible
+computers.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : December 13, 1996
+ Requirements : Version 1.1.2 is for a 68030 or better, System 7.5.3, 7.5.5 or 7.1, 7.1.1 and 7.1.2 (not 7.5, 7.5.1 or 7.5.2)
+
+ Direct Download
+ File Size: 7344 Kb - version 1.1.2 - Released December 13, 1996 - This is the version to get if you don't have Mac OS 8.x
+
+ OT 1.1.2 Info 
+
+ Home Page 
+
+ Open Transport/PPP 1.0 
+
+The first Open Transport native PPP. Note: Mac OS 8 and higher come with OT/PPP 1.0.1 or better.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : November 11, 1996
+ Requirements : Open Transport 1.1.1 - for Mac OS 7.6 and lower
+
+ Direct Download
+ File Size: 1512 Kb
+
+ Parent Directory 
+
+ ShrinkWrap 2.0.1 
+
+ShrinkWrap is a utility made to manipulate all types of disks and disk images on the Macintosh. It incorporates
+the functionality of DiskCopy and DropDisk into one easy to use application, then improves on these products by
+adding on the fly compression/decompression with the StuffIt Engine, implementing extensive drag and drop and
+AppleScript support, and supporting almost all known image file formats, including its new self-mounting image
+files.
+
+ License : Freeware for educational or non-profit use
+ Author/Publisher : Chad Magendanz
+ Modification Date : November 9, 1997
+ Requirements : 680x0, Stuffit Expander
+
+ Direct Download
+ File Size: 377 Kb
+
+ Parent Directory 
+
+ Home Page for version 2.1
+
+ System 7.0.1 
+
+The following files are self-extracting archives of Dual Density disk images. To use, download, decompress, and use DiskCopy or ShrinkWrap to create 8 disks.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : 1991
+ Requirements : 680x0
+
+ Parent Directory
+ You'll need all eight disk images. Get the Tune Up too.
+
+ System 7.5.3 
+
+This is the entire System 7.5.3, not just an update. This is the North American English version of System 7.5 version
+7.5.3, which includes the following system updates: System 7.5 Update
+2.0 and System 7.5.3 Revision 2.
+
+ License : Free
+ Author/Publisher : Apple
+ Release Date : Available for free as of 1/30/99
+ Requirements : System 7.5.3 requires an Apple Macintosh or PowerBook computer with at
+least 4MB of RAM. Note: newer Macintosh and PowerBook computers
+require versions of System software higher than version 7.5.3 in order
+to operate.
+
+ Parent Directory
+ Download all 19 parts
+
+ ZTerm 1.0.1 
+
+ZTerm is a shareware telecommunications program for the Macintosh. It features ZModem,
+YModem, XModem, Kermit and CIS B-Plus/Quick-B file transfers, VT100 & ANSI-BBS
+emulation, including colors, and an efficient scroll back buffer.
+
+ License : Shareware, $30
+ Author/Publisher : David P. Alverson 
+ Modification Date : October 20, 1995
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 404 Kb
+
+ Parent Directory 
+
+ Back to the main page of Pure Mac

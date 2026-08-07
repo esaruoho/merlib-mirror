@@ -1,0 +1,250 @@
+---
+title: "SMALLnet post349"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post349.html
+order: 8041
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:33Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post349
+
+*Source page: `~smallnet/Archive/post349.html`*
+
+## SMALLnet Posting post349
+
+------------------------------------------------------------------------
+
+**Date: Wed, 27 Sep 2000 01:35:40 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet/> \>
+
+Don Garry \< 
+
+ \> advises:
+
+<span id="8"></span>
+
+<div class="green">
+
+Source: Cox, Naboo Fighters\
+
+</div>
+
+You guys might want to jump on this amazing sale of sales at Tower Hobbies. Check out \< <http://www2.towerhobbies.com/> \> A friend and I have ordered 36 of the Cox Naboo fighters, at under \$5 apiece.
+
+I have previously bought a couple of these very same fighters at a then sale price of about \$20.00. The planes are great and complete NIB. The engine on the plane has the currently high-priced \#325 glow head, and the cylinder is the desirable double-bypass type with single extra flute per each bypass. This is the cylinder used in the Texaco engines, and the one sought after by the 1/2A Nostalgia flyers (Medallion .049 legal).
+
+You cannot purchase even the glow plug at this price from Tower Hobbies. If you order on-line you only pay \$4.99 shipping no matter how many planes you purchase. You also get additional discounts for all you buy over \$100.00 ..... up to \$25.00 off if your order totals \$300.00 or more. Make sure you check Towers' home page for their volume discount breaks. You must enter a code to get the volume discounts.
+
+If you want to take advantage of this sale you better act fast, as these sales are here today and gone tomorrow. This sale will probably only last another day or two, then the price will go back up to \$49.95 each.
+
+Don Garry\
+535 Clearview Drive\
+Cocoa, Florida 32927\
+Phone (407) 632-9115\
+
+Larry Renger \< 
+
+ \> states:
+
+The cylinder Milton Dickey describes was, at least, used on the last batch of Medallion .049s. It may have had other uses, but I can't recall them.
+
+Similar cylinder, but with the bar already gone, would be from the Tee Dee RC 05.
+
+Larry (562) 404-8034
+
+Tom Arcoleo \< 
+
+ \> wrote:
+
+For those venturesome SMALLsters who are interested in exploring construction in hardwoods, two websites might be of interest:
+
+\< <http://www.woodbin.com/ref/wood/strength_table.htm> \>\
+\< <http://www.woodbin.com/ref/wood/strength_defs.htm> \>\
+
+The first gives typical physical and mechanical properties of available American woods; the second defines the terms used in the first. If all the balsa trees died, it wouldn't be the end of our world. Tom Arcoleo
+
+<div class="Joe">
+
+...THE most important characteristic of wood is its variability! A friend of mine used to use nothing but pine for building his flying model airplanes. They weren't noticeably heavier than similar models built from balsa -- because this fellow had found a stock of exceedingly light pine to cut his "stickwood" from.
+
+I cadged one chunk of this lightweight pine from him (still have a piece of it left) and I'd estimate that it's about 12 pounds per cubic foot.
+
+Every tree is different! Balsa varies tremendously, as we all know well -- and other woods do too. By the way, the terms "hardwood" and "softwood" really have no reference whatever to the properties of the timber itself. A "hardwood" (deciduous) tree sheds its leaves once a year. A "softwood" (coniferous) tree doesn't.
+
+Anyway, the wood strength tables are fine for indicating that, say, ash is stronger than magnolia. But those are AVERAGE numbers, and one particular piece of magnolia wood may be stronger than one particular piece of ash. \[JW\]
+
+</div>
+
+George Aldrich \< 
+
+ \> adds:
+
+About spruce for aircraft. The specification for spruce good enough for full-scale usage is 1/8" or less grain run-out, for a 20' length! That's pretty selective "picking" !
+
+GMA
+
+Don Matlack Sr. \< 
+
+ \> announces:
+
+I have a bunch of brand-new, never-been-used 50 mAh Sanyo Cadnica nicads for sale. They are in 4+2 cell packs with a female connector for \$9.00. Minimum order is 12 cells for \$18.00. I pay postage in USA. Contact me directly on these. TIA Don M.
+
+David Williams \< 
+
+ \> inquires:
+
+We have received news over here that Bill Dean has passed away. Can anyone confirm this? It is sad news if it is true.
+
+David Williams ENGLAND
+
+Mike Gillihan \< 
+
+ \> wrote:
+
+Wow! My first posting and my mailbox is FLOODED with requests on the Ultra-Flyer foamy that I converted. Great to know that so many people out there enjoy the challenge of making what shouldn't work -- well, work! Thanks to Roy Clough and everyone else that has written with comments and ideas.
+
+Roy, we must think alike... I was debating hooking up four aircraft in a diamond formation, with an engine mounted in the nose of the rear one (center of the formation). I may still do this...
+
+Ok, the last two nights I have been taking photos and putting together an article on the beast, now named "Frankenfoamy". Here is the address:
+
+\< <http://members.aol.com/cfiimei/Foamy.html> \>
+
+The front page has a general description and a good full shot of the aircraft. For those brave enough to tempt fate, there are links at the bottom of the page with instructions and photos of the more unusual features of the aircraft. The little bird is still flying much better than she should. I tried to make the instructions simple enough for a beginner to follow... Our cause needs more beginners. Feel free to e-mail questions or comments!
+
+Mike S. Gillihan
+
+Dave Segal \< 
+
+ \> notes:
+
+For anyone who wants to see Ken Willard's amazing four-in-one model, it is on the cover of the October 1978 issue of Model Aviation, with a construction article inside. Power was from an OS.10 engine.
+
+If you see this issue, also check out Randy Randolph's plan for the .15 powered Misflit -- which is on my wish list of projects.
+
+Dave Segal
+
+Charlie Meyer \< 
+
+ \> reports:
+
+I have had some experience that I would like to share with the all you SMALLsters. I have been flying 3 planes using .15 size engines. All 3 are of a different nature. The Lazy Bee is well known for its slow acrobatic flight. My Superfly is great in the wind and a good general flyer. And lastly The Crickit is just plain Wild by nature.
+
+I love the 3 different size Norvel engines I own. Nothing beats them for starting and generally very good performance. The .061 and the .074 cannot be beat; they are great. My only objection is with the Norvel 15 Ball Bearing. It wants to scream at 19,000 + RPM with a small propeller. In order to get the job done it must have a small prop. I feel silly with the engine screaming on my Lazy Bee. It is just out of a Lazy Bee's character. (If I was flying a very clean airframe, the sound would be appropriate.)
+
+For this type of flying I prefer the O.S. 15LA. It has been a great little engine that has a lot of power. It gives vertical performance in my Superfly, while the Norvel with its small prop will not. The O.S. will turn an 8 X 4 prop at 15,500 RPM while the Norvel can only turn the same prop at 13,700 RPM.
+
+Yes, you can get the Norvel to crank out the horsepower with a 7 X 4 prop but it is a screamer.
+
+I think this O.S. engine is excellent and it costs a lot less than the Norvel. Charlie Meyer
+
+Al Clark \< 
+
+ \> inquires:
+
+Can anyone give me the low-down on the Big Mig .061 R/C Revlite? I've been reading what I find and also checking the web, and I find conflicting reports.
+
+What is the idle speed that can be held reliably, and how good is the transition from idle to full power? On what fuel? I should add that I had an AME .049 R/C, and on the bench it did not want to idle reliably below 7000 rpm, and the transition was nothing to brag about. Perhaps the hotter porting causes the AME to have less desirable idle and throttling characteristics?
+
+Also, I have been reading good reports about the Thunder Tiger GP 07. Apparently it is cleaner and quieter than the Norvel .061, idles and throttles better, but does not put out as much power. Can anyone verify this?
+
+Thanks! Al Clark
+
+Tom Pearson \< 
+
+ \> contributed:
+
+I am just returning to the hobby after a two+ year layoff for health reasons. (Just call me the \$120,000 Man.) Thank God for insurance.
+
+I just got the shock of my life when looking at the new (to me) Tower Catalog for 2000 and saw TD glow heads for \$9.00 each. Since I use these in TDs, a Norvel .049, and a George Aldrich set up VA .049 (the split case original version), I need some advice regarding alternatives.
+
+A not so hot alternative would be one of the adapter glow heads that takes a 1/4-28 short-reach conventional plug, but that results in decreased performance that I do not like. So what else is there out there that is affordable and maintains performance??????
+
+Also I have a CS .061 Ball Bearing non-piped engine that is a real screamer, but it too takes a special head that apparently has disappeared from the market. I thought about drilling and tapping the existing glow head for a 1/4-28 short plug, but again figured the performance would drop. Anyone out there know of an alternate glow plug setup for the CS??????
+
+Also, is anyone importing the CS line of engines currently??
+
+I hear there is a new version of the VA out now that is different than the original split crankcase version that Aldrich built up for me. Who is selling it???
+
+Just for everyone's information, I use these "hot" engines for sport flying in my own design planes, using only two-function control (elevator and ailerons). Using a 2-ounce fuel tank (typically a rubber balloon to save the weight of the Sullivan molded tank) I get from hand launch a wild, full speed, aerobatic flight of about 8 minutes duration using a 5-3 Tornado prop, or sometimes a cut-down 5-3 Tornado. The planes typically weigh about 16 ounces, about 275 square inch wing area, and go like heck.
+
+I use the streamlined black plastic Foremost mount to give a streamlined front end for less drag. A 1/16" wire skid hangs down from the back of the firewall to keep the nose from digging in on landing on our grass field and flipping the plane.
+
+Tom Pearson AMA12460 AMA since 1947
+
+<span id="242"></span>
+
+<div class="green">
+
+Source: Engines, CS\
+
+</div>
+
+<span id="243"></span>
+
+<div class="green">
+
+Vendor: Carlson Engine Imports\
+
+</div>
+
+<div class="Joe">
+
+...Tom, I believe that Ed Carlson, of Carlson Engine Imports, 814 East Marconi Avenue, Phoenix, Arizona 85022 --- (602) 864-1684 still imports CS engines. (I got one from Ed the summer of '99, and it's much better-built than earlier CS's I've seen.)
+
+As for the VA engines, Larry Driskill's the US source. \[JW\]
+
+</div>
+
+Kevin Sheen \< 
+
+ \> informs us:
+
+I put an OS .15 FP in my Wonder. Weighs 29 ounces dry. Our club has lots of OS .15 FP's and .15 Thunder Tigers. I'm not sure that I would buy an LA. Some of the .40 -.46 sized LA's in our club aren't too great.
+
+I really like the Wonder. You will have a ball with it. I let one of the youngsters (he is 10 or 11) in our club fly mine. He liked it so much he is building one.
+
+Kevin
+
+Ron Ferrer \< 
+
+ \> answers some queries:
+
+In response to Mike Cook's query about the Cox Queen Bee, I have had one for several years. It runs OK, likes a 7-4. That loads the engine a little, but when I ran it for a while on a 6-3, it eventually started to run lousy.
+
+Upon examination, it appeared the reed spring had dished inward. I flipped that over, and the engine ran fine after that. I think that was the problem. I could be wrong, but it did fix it!
+
+I started running 15% nitro fuel with a 7-4 after that. A Cox 7-3.5 prop would also be good. The input for the carb modifications last Posting was very interesting, and when I run the Queen Bee again I will probably do them.
+
+The engine is currently installed in a Guillow electric Aeronca fuselage, which I might complete someday! (Had an Aeronca before, but somebody midaired me with a Starcruiser; the Starcruiser won.)
+
+I will be building a Rascal soon, but will probably be putting a Norvel .061 in it; the Queen Bee is kinda heavy. If I had a Thunder Tiger .07, that would be the plane I would try it on; it seems well suited for that engine, as well as the Norvel .074. but the .061 is what I have lying around needing an airframe.
+
+About the Wonder: our local guys in Kentucky have had a lot of them. My personal favorite power for mine was the Fox BB.19, as shown on the box picture. I have a 15-year-old one that I flew on a Wonder last year. It flew great, and fast. The A.S.P. .12 pulls it fine, although the owner was running it on 35% fuel!
+
+The engine didn't seem to mind, though, and he flew it over a year on that fuel. He sold it since, but it was still running good when he sold it; an impressive engine. The O.S. .15 you mention is probably the most common choice, and one guy here had one set up that way; flew fine, plenty of power. Fairly fast, good vertical.
+
+He later Ebayed the O.S. .15 and put a Norvel plain bearing .15 on the Wonder (I'm not being tedious -- that's just what he did!) and it flew about the same, sounded neater. An O.S. .10 works fine, too.
+
+I have seen Wonders fly with .25's and even .40's, but those looked like guided motors in flight! The airframe handled the extra weight, and even landed at a reasonable speed. It has a good airfoil for a wide envelope. However, with the thick airfoil you hit a "drag wall"; it is not much faster with the .40 than with the Fox BB .19. A Cox T.D .09 will pull it fine if you don't mind un- throttled engines.
+
+I have never seen a P.A.W. diesel Wonder, though!
+
+In summation, ANY .15 engine on that airframe would be just fine for the Wonder. More power doesn't add much, and costs more money! It doesn't have to be a new, hot, or special setup; a swap-meet used engine that runs reliably would be just fine. Of course, if you happen to have a .25 or .32 lying around, it will work.
+
+You can fit up to an 8-ounce tank in a Wonder with a little cutting on the bulkheads, and they will balance if you move the battery to the rear. Have fun, Ron Ferrer
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

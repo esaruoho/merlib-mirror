@@ -1,0 +1,278 @@
+---
+title: "Patricia's Compute Your Own Mavs Totals"
+source_domain: amasci.com
+source_path: ~pbender/mtotm02-03.html
+order: 5727
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:58:42Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Patricia's Compute Your Own Mavs Totals
+
+*Source page: `~pbender/mtotm02-03.html`*
+
+# Patricia's Compute Your Own Mavs Totals
+
+## To the [NBA](http://www.dfw.net/~patricia/index.html) stuff
+
+## To the [Mavs](http://www.dfw.net/~patricia/mavs.html) stuff
+
+This little program allows you to select which boxscores to use to compute a Mavs Total file for.\
+Note: the links for the boxscore is not the full boxscore (it's what the program uses to compute the totals). To see the full boxscore for a game, go to my Mavs page.
+
+------------------------------------------------------------------------
+
+2002-03
+
+[October 30](cgi-bin/02-03/box10-30) Dallas 119, Memphis 108 at Memphis
+
+[November 2](cgi-bin/02-03/box11-2) Dallas 97, Phoenix 83 at Dallas
+
+[November 4](cgi-bin/02-03/box11-4) Dallas 107, Golden State 100 at Dallas
+
+[November 6](cgi-bin/02-03/box11-6) Dallas 106, Toronto 92 at Toronto
+
+[November 8](cgi-bin/02-03/box11-8) Dallas 114, Chicago 87 at Chicago
+
+[November 9](cgi-bin/02-03/box11-9) Dallas 114, Detroit 75 at Dallas
+
+[November 11](cgi-bin/02-03/box11-11) Dallas 82, Portland 73 at Dallas
+
+[November 13](cgi-bin/02-03/box11-13) Dallas 103, Cleveland 99 at Cleveland
+
+[November 15](cgi-bin/02-03/box11-15) Dallas 97, Boston 86 at Boston
+
+[November 16](cgi-bin/02-03/box11-16) Dallas 96, New Jersey 88 at New Jersey
+
+[November 19](cgi-bin/02-03/box11-19) Dallas 98, LA Lakers 72 at Dallas
+
+[November 21](cgi-bin/02-03/box11-21) Dallas 103, Houston 90 at Dallas
+
+[November 23](cgi-bin/02-03/box11-23) Dallas 115, Seattle 105 at Dallas
+
+[November 27](cgi-bin/02-03/box11-27) Dallas 102, Detroit 82 at Detroit
+
+[November 28](cgi-bin/02-03/box11-28) Indiana 110, Dallas 98 at Indiana
+
+[November 30](cgi-bin/02-03/box11-30) Dallas 103, Chicago 90 at Dallas
+
+[December 2](cgi-bin/02-03/box12-2) Dallas 113, Toronto 102 at Dallas
+
+[December 4](cgi-bin/02-03/box12-4) Dallas 103, Portland 88 at Portland
+
+[December 6](cgi-bin/02-03/box12-6) LA Lakers 105, Dallas 103 at LA Lakers
+
+[December 7](cgi-bin/02-03/box12-7) Dallas 121, Golden State 116 at Golden State
+
+[December 10](cgi-bin/02-03/box12-10) Dallas 122, LA Clippers 95 at Dallas
+
+[December 11](cgi-bin/02-03/box12-11) San Antonio 111, Dallas 104 at San Antonio
+
+[December 14](cgi-bin/02-03/box12-14) Dallas 104, Memphis 87 at Dallas
+
+[December 17](cgi-bin/02-03/box12-17) Dallas 118, Indiana 97 at Dallas
+
+[December 18](cgi-bin/02-03/box12-18) Dallas 80, Denver 75 at Denver
+
+[December 20](cgi-bin/02-03/box12-20) Utah 93, Dallas 81 at Dallas
+
+[December 23](cgi-bin/02-03/box12-23) Dallas 92, Washington 86 at Dallas
+
+[December 26](cgi-bin/02-03/box12-26) Dallas 83, New Orleans 81 at New Orleans
+
+[December 28](cgi-bin/02-03/box12-28) Dallas 107, New York 82 at Dallas
+
+[December 30](cgi-bin/02-03/box12-30) Milwaukee 110, Dallas 107 at Dallas
+
+[January 2](cgi-bin/02-03/box1-2) Dallas 102, LA Clippers 92 at Dallas
+
+[January 4](cgi-bin/02-03/box1-4) Dallas 102, Philadelphia 83 at Dallas
+
+[January 6](cgi-bin/02-03/box1-6) Dallas 86, Denver 71 at Dallas
+
+[January 8](cgi-bin/02-03/box1-8) Dallas 117, Atlanta 99 at Atlanta
+
+[January 10](cgi-bin/02-03/box1-10) Dallas 103, Boston 78 at Dallas
+
+[January 12](cgi-bin/02-03/box1-12) Dallas 96, LA Clippers 90 at LA Clippers
+
+[January 15](cgi-bin/02-03/box1-15) Sacramento 123, Dallas 94 at Sacramento
+
+[January 17](cgi-bin/02-03/box1-17) Phoenix 111, Dallas 106 at Phoenix
+
+[January 19](cgi-bin/02-03/box1-19) Seattle 85, Dallas 81 at Seattle
+
+[January 21](cgi-bin/02-03/box1-21) Dallas 107, Houston 86 at Dallas
+
+[January 23](cgi-bin/02-03/box1-23) Dallas 107, Philadelphia 94 at Philadelphia
+
+[January 24](cgi-bin/02-03/box1-24) Dallas 101, New York 90 at New York
+
+[January 26](cgi-bin/02-03/box1-26) Portland 100, Dallas 93 at Dallas
+
+[January 29](cgi-bin/02-03/box1-29) Dallas 104, Houston 81 at Houston
+
+[January 30](cgi-bin/02-03/box1-30) Dallas 112, Minnesota 109 at Dallas
+
+[February 1](cgi-bin/02-03/box2-1) Dallas 122, Denver 100 at Dallas
+
+[February 3](cgi-bin/02-03/box2-3) Dallas 92, Utah 90 at Utah
+
+[February 4](cgi-bin/02-03/box2-4) Sacramento 110, Dallas 109 at Dallas
+
+[February 11](cgi-bin/02-03/box2-11) Minnesota 100, Dallas 98 at Minnesota
+
+[February 12](cgi-bin/02-03/box2-12) Milwaukee 120, Dallas 114 at Milwaukee
+
+[February 14](cgi-bin/02-03/box2-14) Dallas 110, Memphis 103 at Memphis
+
+[February 15](cgi-bin/02-03/box2-15) Dallas 98, Miami 92 at Dallas
+
+[February 18](cgi-bin/02-03/box2-18) Dallas 105, Atlanta 79 at Dallas
+
+[February 20](cgi-bin/02-03/box2-20) Dallas 95, San Antonio 87 at Dallas
+
+[February 21](cgi-bin/02-03/box2-21) Dallas 100, Houston 85 at Houston
+
+[February 23](cgi-bin/02-03/box2-23) Dallas 106, Washington 101 OT at Washington
+
+[February 25](cgi-bin/02-03/box2-25) Orlando 98, Dallas 93 at Orlando
+
+[February 27](cgi-bin/02-03/box2-27) Sacramento 126, Dallas 124 OT at Dallas
+
+[March 1](cgi-bin/02-03/box3-1) Dallas 114, Memphis 87 at Dallas
+
+[March 4](cgi-bin/02-03/box3-4) Dallas 88, New Jersey 79 at Dallas
+
+[March 7](cgi-bin/02-03/box3-7) Dallas 91, Miami 89 at Miami
+
+[March 8](cgi-bin/02-03/box3-8) Dallas 101, Utah 101 at Dallas
+
+[March 10](cgi-bin/02-03/box3-10) Minnesota 92, Dallas 83 at Dallas
+
+[March 13](cgi-bin/02-03/box3-13) Seattle 107, Dallas 100 at Seattle
+
+[March 14](cgi-bin/02-03/box3-14) Dallas 116, Golden State 114 at Golden State
+
+[March 16](cgi-bin/02-03/box3-16) Dallas 129, Sacramento 123 OT at Sacramento
+
+[March 18](cgi-bin/02-03/box3-18) Dallas 114, Cleveland 93 at Dallas
+
+[March 20](cgi-bin/02-03/box3-20) San Antonio 112, Dallas 110 OT at Dallas
+
+[March 22](cgi-bin/02-03/box3-22) Dallas 102, Phoenix 95 at Dallas
+
+[March 24](cgi-bin/02-03/box3-24) Dallas 108, Denver 96 at Denver
+
+[March 26](cgi-bin/02-03/box3-26) Dallas 114, LA Clippers 107 at LA
+
+[March 28](cgi-bin/02-03/box3-28) Portland 112, Dallas 95 at Portland
+
+[March 30](cgi-bin/02-03/box3-30) Dallas 119, Minnesota 95 at Minnesota
+
+[April 1](cgi-bin/02-03/box4-1) Dallas 95, New Orleans 86 at Dallas
+
+[April 3](cgi-bin/02-03/box4-3) LA Lakers 100, Dallas 89 at Dallas
+
+[April 5](cgi-bin/02-03/box4-5) Dallas 108, Orlando 90 at Dallas
+
+[April 8](cgi-bin/02-03/box4-8) LA Lakers 108, Dallas 99 at LA
+
+[April 9](cgi-bin/02-03/box4-9) Phoenix 112, Dallas 89 at Phoenix
+
+[April 11](cgi-bin/02-03/box4-11) Utah 95, Dallas 92 at Utah
+
+[April 12](cgi-bin/02-03/box4-12) Dallas 117, Golden State 108 at Dallas
+
+[April 14](cgi-bin/02-03/box4-14) Dallas 109, Seattle 106 at Dallas
+
+[April 16](cgi-bin/02-03/box4-16) Dallas 93, San Antonio 72 at San Antonio
+
+Playoffs
+
+[April 19](cgi-bin/02-03/box4-19) Dallas 96, Portland 86 at Dallas
+
+[April 23](cgi-bin/02-03/box4-23) Dallas 103, Portland 99 at Dallas
+
+[April 25](cgi-bin/02-03/box4-25) Dallas 115, Portland 103 at Portland
+
+[April 27](cgi-bin/02-03/box4-27) Portland 98, Dallas 79 at Portland
+
+[April 30](cgi-bin/02-03/box4-30) Portland 103, Dallas 99 at Dallas
+
+[May 2](cgi-bin/02-03/box5-2) Portland 125, Dallas 103 at Portland
+
+[May 4](cgi-bin/02-03/box5-4) Dallas 107, Portland 95 at Dallas
+
+[May 6](cgi-bin/02-03/box5-6) Sacramento 124, Dallas 113 at Dallas
+
+[May 8](cgi-bin/02-03/box5-8) Dallas 132, Sacramento 110 at Dallas
+
+[May 10](cgi-bin/02-03/box5-10) Dallas 141, Sacramento 137 2OT at Sacramento
+
+[May 11](cgi-bin/02-03/box5-11) Sacramento 99, Dallas 83 at Sacramento
+
+[May 13](cgi-bin/02-03/box5-13) Dallas 112, Sacramento 93 at Dallas
+
+[May 15](cgi-bin/02-03/box5-15) Sacramento 115, Dallas 109 at Sacramento
+
+[May 17](cgi-bin/02-03/box5-17) Dallas 112, Sacramento 99 at Dallas
+
+[May 19](cgi-bin/02-03/box5-19) Dallas 113, San Antonio 110 at San Antonio
+
+[May 21](cgi-bin/02-03/box5-21) San Antonio 119, Dallas 106 at San Antonio
+
+[May 23](cgi-bin/02-03/box5-23) San Antonio 96, Dallas 83 at Dallas
+
+[May 25](cgi-bin/02-03/box5-25) San Antonio 102, Dallas 95 at Dallas
+
+[May 27](cgi-bin/02-03/box5-27) Dallas 103, San Antonio 91 at San Antonio
+
+[May 29](cgi-bin/02-03/box5-29) San Antonio 90, Dallas 78 at Dallas
+
+            
+
+------------------------------------------------------------------------
+
+For more fun, you can limit the stats to be included by selecting and modifying the parameters below.
+
+Use ---- all all regular season all playoff boxscores \[if selected, will ignore anything selected/not selected above\]
+
+**YES**, I want to limit the stats by the following parameters \[if not selected, will ignore anything below\]
+
+List all files used.
+
+Note: if you enter bad data, you won't get the results you are expecting - make sure your numbers are correct (I'm not telling you if you do something stupid - if you put more than 110 points and less than 100 points, you'll get nothing; if you enter a letter instead of a number, you'll get nothing or everything or something else).\
+Difference is the difference between the Dallas total and the Opponent total. Use negative (ie, -5) for the opponent having more.\
+Click the toggle for "Even if player doesn't play" if you also want to also include games where the player didn't play in a game (ie, Nowitzki scored less than 20 points or didn't play).\
+"Even if Player doesn't play", "Starts", "Doesn't Start", "Fouls Out", "Doesn't Foul Out", "Plays", and "Doesn't Play" only applies for players and is ignored for Dallas, Opponent, and Difference.\
+"Minutes" is ignored for Difference.\
+"More or Less" and "Amount" is ignored for "Starts", "Doesn't Start", "Fouls Out","Doesn't Foul Out", "Plays", and "Doesn't Play".\
+No rounding is done for percentages for the comparisons - .4999 does not equal .500
+
+Only include the stats from a boxscore if:
+
+Dallas won
+
+Dallas lost
+
+Only include the stats from a boxscore if:
+
+| Team/Difference/Player | Stat | More or Less | Amount | Even if Player doesn't play |
+|----|----|----|:--:|:--:|
+| ---- Dallas Opponent Difference Tariq Abdul-Wahad Raja Bell Shawn Bradley Evan Eschmeyer Michael Finley Adrian Griffin Avery Johnson Adam Harrington Raef LaFrentz Eduardo Najera Steve Nash Dirk Nowitzki Antoine Rigaudeau Mark Strickland Nick Van Exel Walt Williams | Points Minutes FG Made FG Attempted FG Percentage 3-pointers Made 3-pointers Attempted 3-point Percentage FT Made FT Attempted FT Percentage Rebounds Offensive Rebounds Defensive Rebounds Assists Turnovers Fouls Steals Blocks Starts Doesn't Start Fouls Out Doesn't Foul Out Plays Doesn't Play | More than or equal to Less than or equal to |  |  |
+| ---- Dallas Opponent Difference Tariq Abdul-Wahad Raja Bell Shawn Bradley Evan Eschmeyer Michael Finley Adrian Griffin Avery Johnson Adam Harrington Raef LaFrentz Eduardo Najera Steve Nash Dirk Nowitzki Antoine Rigaudeau Mark Strickland Nick Van Exel Walt Williams | Points Minutes FG Made FG Attempted FG Percentage 3-pointers Made 3-pointers Attempted 3-point Percentage FT Made FT Attempted FT Percentage Rebounds Offensive Rebounds Defensive Rebounds Assists Turnovers Fouls Steals Blocks Starts Doesn't Start Fouls Out Doesn't Foul Out Plays Doesn't Play | More than or equal to Less than or equal to |  |  |
+| ---- Dallas Opponent Difference Tariq Abdul-Wahad Raja Bell Shawn Bradley Evan Eschmeyer Michael Finley Adrian Griffin Avery Johnson Adam Harrington Raef LaFrentz Eduardo Najera Steve Nash Dirk Nowitzki Antoine Rigaudeau Mark Strickland Nick Van Exel Walt Williams | Points Minutes FG Made FG Attempted FG Percentage 3-pointers Made 3-pointers Attempted 3-point Percentage FT Made FT Attempted FT Percentage Rebounds Offensive Rebounds Defensive Rebounds Assists Turnovers Fouls Steals Blocks Starts Doesn't Start Fouls Out Doesn't Foul Out Plays Doesn't Play | More than or equal to Less than or equal to |  |  |
+| ---- Dallas Opponent Difference Tariq Abdul-Wahad Raja Bell Shawn Bradley Evan Eschmeyer Michael Finley Adrian Griffin Avery Johnson Adam Harrington Raef LaFrentz Eduardo Najera Steve Nash Dirk Nowitzki Antoine Rigaudeau Mark Strickland Nick Van Exel Walt Williams | Points Minutes FG Made FG Attempted FG Percentage 3-pointers Made 3-pointers Attempted 3-point Percentage FT Made FT Attempted FT Percentage Rebounds Offensive Rebounds Defensive Rebounds Assists Turnovers Fouls Steals Blocks Starts Doesn't Start Fouls Out Doesn't Foul Out Plays Doesn't Play | More than or equal to Less than or equal to |  |  |
+| ---- Dallas Opponent Difference Tariq Abdul-Wahad Raja Bell Shawn Bradley Evan Eschmeyer Michael Finley Adrian Griffin Avery Johnson Adam Harrington Raef LaFrentz Eduardo Najera Steve Nash Dirk Nowitzki Antoine Rigaudeau Mark Strickland Nick Van Exel Walt Williams | Points Minutes FG Made FG Attempted FG Percentage 3-pointers Made 3-pointers Attempted 3-point Percentage FT Made FT Attempted FT Percentage Rebounds Offensive Rebounds Defensive Rebounds Assists Turnovers Fouls Steals Blocks Starts Doesn't Start Fouls Out Doesn't Foul Out Plays Doesn't Play | More than or equal to Less than or equal to |  |  |
+
+            
+
+------------------------------------------------------------------------
+
+Patricia Bender\
+<patricia@dfw.net>\
+Not affiliated with or representing anyone besides myself.

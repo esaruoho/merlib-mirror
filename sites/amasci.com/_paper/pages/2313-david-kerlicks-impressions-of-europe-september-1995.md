@@ -1,0 +1,135 @@
+---
+title: "David Kerlick's Impressions of Europe, September 1995"
+source_domain: amasci.com
+source_path: ~davidk/travel/Europe.95.html
+order: 2313
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:54Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# David Kerlick's Impressions of Europe, September 1995
+
+*Source page: `~davidk/travel/Europe.95.html`*
+
+# David Kerlick's Impressions of Europe, September 1995
+
+------------------------------------------------------------------------
+
+## Leuven, Belgium 9/3-6:
+
+Meet Bert, a friend from Cologne 1975, who I haven't seen in 16 years, and Dirk, his lover of 24 years. Luggage afoul, so get home, eat pasta and mussels at a student hangout, and go to bed, displacing a skeleton sculpture that reminds me of Miss Havisham in Oliver Twist. Indeed the bed belongs to a lady in her 90's, the owner of the house, widow of a judge, who lives in Paris. A whole bookshelf of 18th century French books. Unfortunately, Dirk is suffering from depression. I hope he's gotten to a chemist, it's eminently treatable!
+
+Next morning 9/4 walk around town. Festivity in the air as they are having Kermis, a fall parish festival, and school is starting up at the University. I have a dream about this, at which it is announced that it is now permissible to wear purple(?) Take several walks around town, and listen to music in Bert & Dirk's front room, and imagine I am rich. Listen to my favorite 20th century piece, Schoenberg's Second string quartet, the one with the soprano singing about the air from other planets. Bert and Dirk are finally getting operational plumbing, six months after moving in. I sympathize, having had to do the same in my place. At least it is their landlord's problem. Steak dinner, Stella Artois and Duvel beer, cafe afternoons and naps in the backyard garden to undo jet lag.
+
+## Netherlands
+
+9/6 Pick up car in Brussels, and drive to Delft. You need to know all the small cities en route, since compass directions are not signed on European highways. Delft Technical University is starting up for the term, and students are scurrying about here as well as in Leuven. Go sightseeing to Den Haag with Ari, a grad student in visualization. He took the picture on this year's card, across a pond in front of the Mauritiushuis, which has a great collection of Rembrandt and Vermeer. The judge in the Bosnia War Crimes trial comes here to regain his balance in the face of Nazi-style "ethnic cleansing" atrocities committed there. Lunch of mussels, and the first of many Dutch Apple Pies. My hotel in Delft is on a canal (natch) that I don't see much of. Meet Frits Post, my host at the TU, for dinner at the Hotel New York in Rotterdam harbor. It used to be the terminus of the Holland America steamship line to New York, now a thriving eatery. Not much of old Rotterdam remains, after the pounding it took in World War II.
+
+Tuesday 9/7 Give lectures at Delft, received well, talk shop, then drive to Amsterdam. Ditch the car ASAP; Amsterdam is no town for driving! Twenty years ago Amsterdam was a big party town, but now it seems to be having a hangover . It's nice to see that cannabis is officially tolerated, thus keeping the traffic in addictive drugs below US levels. Alcohol and general poverty and grunge seems to be more of a problem. Still there are good Portuguese and Indonesian meals, more apple pie, and general visual stimulation, both the full moon reflecting on the canals, and the people.
+
+The gay subculture is widespread, but it is mostly a twink scene, like everywhere, sigh, and rental companions go for \$135 the hour. Pass on that. Revisit the Van Gogh Museum, and the original of the Dutch Masters cigar box at the Rijksmuseum. Buy a little silver seven-sided chakra gizmo, sort of a new-age Veg-a-matic. Maybe a template for planned seven-sided gazebo in Seattle Wolf Creek. Ugliest thing in Amsterdam: the saturation ad campaign for Calvin Klein perfume, the seminude kids maybe semi-fetching in isolation, but the effect of the saturation is crass. The true pornography is advertising!
+
+## Germany West
+
+Surprisingly, travel on the autobahns does not get you very far very fast, as the roads are busy, and often under construction. So it takes over five Saturday hours to get to Celle, rather than the three I had thought, even at 85 mph speed limits. On the other hand, secondary roads are in much better condition than in the U.S.: they have governments that provide services to the poorer 99% of the people, unlike here. Meet and visit with pen friend Olaf in touristy Celle, half-timbered houses from the early 1600's. See a video of Kurt Weill's "street scene," a direction that Broadway could have, but didn't take, toward serious subjects.
+
+Sunday morning drinking white wine out on the sidewalk in town, and evenings spent listening to Joan Sutherland nail a lot of high notes in succession, followed by Italian food, about the only way to find salads in Germany. Miss a connection with Bruce and Peter from California, now living in Dortmund, to answering machine failure!
+
+Mon. 9/11 Drive to Goettingen for another lecture. Meet my host at DLR (~ German NASA) Helmut Sobieczky at work, visit a Konditorei downtown for cappuccino, and buy marzipan for our secretary in Seattle. Dinner with the Sobieczkys, discuss Austria-Hungary and Ruthenia (they're originally from Vienna) and discuss autocorrelation functions in music with their physicist son who's studying in San Diego.
+
+Lecture the next morning, maybe two dozen listeners, compare notes with colleagues on networking and remote visualization, and then head off to former East Germany.
+
+## Germany East
+
+Traffic is incredibly snarled this way, even before you get to the former DDR, as there is no Autobahn, and the two-lane blacktops are crumbling under a six-year uninterrupted stream of heavy trucks. Not to mention difficulties in navigating when roads are detoured. Pass the Kyffhauser monument, impressive at a distance.
+
+### Sangerhausen Rosarium
+
+I only get halfway to Leipzig, but find to my delight, that my night stop in Blankenheim is near the worlds largest rose collection, in Sangerhausen. Late in the season, only a few hundred of the 6611 varieties cultivated at the Rosarium were in bloom, but still a great show, even in the drizzle. Take a little walk up the streets. A lot of home improvement underway in the "New Federal States" and huge, American-style home and landscape outlets. Also the familiar golden arches, so you can get your Chicken McNuggets in Nordhausen or Budapest.
+
+Wed 9/13 is drizzly, and I get to the Rosarium an hour before anyone else, and have the place to myself. It's late in the season, but there are still a few hundred of their 6611 varieties to keep me interested until coffee time!
+
+### Halle
+
+Drive further East, visit Halle, where G.F. Handel was born, and pass by the big monument to him in the market square en route to expensive coffee and sour cherry tart. Yes, with whipped cream! This is vacation! There are still scores of pre-WWII housing blocks in dire need of modernization. There will be a good market in restoration in E. Europe for a generation. Every architect from the West now has offices in the East. Before lunch, I visited an exhibit of some Abstract Expressionist art at the Bishops Palace. Either it was hidden from the Nazis or reassembled after the war. Works by Max Beckmann and Lyonel Feininger stand out especially.
+
+### Leipzig
+
+More traffic snarls await me on the way in to Leipzig, which is being developed as an even bigger trade show venue, complete with a new streetcar line into downtown. They've also enlarged the train station by half, making it the largest on the Bundesbahn at 26 tracks. The center of town is one big construction site. Unfortunately the budget hotels of the 1993 guide are now luxury hotels at \$200 a night. Finally I find accommodations in an old Stalinist complex for \$87 a single.
+
+Prices in Germany are everywhere high! Here too, college kids are taking a last breather before classes begin at the "dogtooth" skyscraper left by the Commies. Concentrated power corrupts any political system. My room is only a five minute walk from the Gewandthaus. The main orchestra isn't playing, but I happen on a concert of mid-century music in the smaller hall, works by Webern (died in 1945 but still considered too avant-garde by most concertgoers) and Morton Feldman. Still nice enough outside to have ice cream, but fall / foul weather is rolling in soon.
+
+Thurs 9/14 Mail 4 postcards @ \$1.35 each, (compare to about 24 cents in Prague), take in the Maedlerpassage, but Auerbachs Keller isn't open yet. The most refined advert in history, Auerbachs is mentioned in Faust, and there are statues of Mephistopheles bewitching the students. They look bewitchingsworth, too, if you ask me.
+
+See some 19th century art at the Museum der Bildende Kunst. Unfortunately, the Nazis destroyed almost their entire modern collection, almost 600 major works. Feininger, Heckels, Otto Mueller, Alma's lover Oskar Kokoshka, Karl Hofer, Max Beckmann, Wm Lehnbruck, Matares, Alex Archipenko, Ernesto de Flores, all perished. Destroyed in Dresden: L. Kirchner, Karl Schmitt-Rotluff, Max Pechter, W. Kandinsky, Franz Mohr, and my favorite painter Paul Klee.What is about folks like this, and their compatriots today in the "religious" right wing, that make them hate humanity's great spirits? Do they hate themselves so much, and therefore every other human? The ghastly lessons of the Third Reich have to be heeded in the U.S. now, as much as in Germany. Jesse Helms would have found a job in the third reich, censoring "humanism" in the arts.
+
+A lighter note, see signs for "Trabi Total," a fair for owners of those little tiny (Fiat-like, 2-cycle engine, polluting) Trabants from the DDR, sort of like VW's were to the hippies. I also see Ladas and Skodas. Skoda is going to modernize. See a homeless man, perhaps not a German, "Oberdachlos" (without a roof). The social net is fraying here, too. Grafitti that I never would have seen twenty years ago. Rising discontent.
+
+### Dresden
+
+Leave for Dresden, about 50 miles. Buy gas at \$5 a gallon (at least they don't massively subsidize the petroleum industry like you-know-who). and a guarana' soda en route. Amazingly they sell alcohol at highway rest stops. But if you are caught, you walk. Again it is hard to get into town for the traffic. Go to the rooms agency and score a U.S. style room with king bed, and western prices (\$81). Drive back to town to eat and stroll "balcony of Europe" along the Elbe. Stunning view across the river.
+
+Dresden has a color scheme of soot-blackened sandstone (once a nice cream color), green copper, and gold. Cross the river and buy a taste of Franken wine for DM 6 + a mark for the glass (\$49 a liter at this rate!) and a ham-stuffed pork chop. "Diesel" is a highly touted brand of jeans, commercial punk? Think of my friend Ted's "diesel" rant poem. German Rap on the radio! Weirdness. Impulsively buy a bottle of Tabac cologne for DM 20.99 (get my only pfennig of the trip in change).
+
+9/15 Big day in museums. See again the Green Vault diamond jewelry that the Dukes of Saxony used to wear (the collection toured San Francisco when I lived there). Most enjoyed the "minor" museums like the Math-Physics salons full of celestial globes, clocks, and astrolabes. Also the State Porcelain collection. The Zwinger palace was blown to bits in the British bombing of 2/13/45 along with much of the city. The Soviets at least restored this along its original lines, unlike the cheap aluminum curtain walls they filled in the rest of the bombed out areas with. Dresden is trying to raise money to restore the Frauenkirche. If you have \$2500 to spare, they'll give you a little Meissen model in exchange. Maybe for those Microsoft Millionaires, not me...
+
+### Drunken Saxons Imitate Art
+
+Impression: Looking at the Nymphenbrunnen, nymphs and fishes squirting in every direction, and imagining all these drunk Saxons having a pissing contest after too much beer.
+
+### No room in Weimar
+
+Leave town for Weimar, but can't find a room. Very touristy, reminds me of Colonial Williamsburg that way. Backtrack to Jena and stay at a Quality Inn that could be in the U.S. Jena is to become the German Silicon Valley, what with Leitz and glass and all.
+
+## Germany West, again.
+
+Sat 9/16 drive to Cologne, arrive in the afternoon, and meet Roland, one of Friedrich Hehl's grad students, who is putting me up in his place near the University. The University looks pretty run down and grafitti-laden, like they have deferred maintenance due to budget cuts. What's with this budget cutting? Government is already smaller per capita and public institutions are being cut to barely functional. World Capitalist Greed is why. The super-rich want 20% per annum on their billions, 10% just isn't enough to keep them in \$80,000 wrist watches. No more government! Only Corporations shall rule! Not wealthy enough for our country club? Then die...
+
+Cologne seems to be booming, more bars and clubs, and a gay life exceeding that of Berlin, comparable to Amsterdam in the seventies. And since there are no customs in the European Union, one could get cannabis here, too. Went to see the new Philharmonie and more mid-century music: Varese Deserts, with a new video realization by Bill Viola, and some pieces by the conductor, Peter E"otv"os of Ensemble Moderne.
+
+### Physikzentrum Bad Honnef
+
+Sun 9/17 Drive to Bad Honnef, after Roland's parents are nice enough to do my laundry. Check into the Physikcentrum that was once a school for female domestic servants. In a very ritzy, Embassy Row area. Spend the next week giving four lectures, listening to about twenty, and catching up on progress in Relativity since I left the field in 1979. Also a fairly strenuous hike, the more so for getting lost, followed by coffee, pastries, and a little boat ride down the Rhine. Gratifying to see the work of one of my Princeton teachers, Jim York, has bloomed into a fundamental technology for numerical relativity. Also impressed by some observations of stars near the center of the galaxy. A black hole seems likely, or are we like the explorers in the 15th century who put dragons on their maps to represent the unknown?
+
+Spend another night in Cologne, have drinks w/ Roland and Monika at Feynsinn, a lovely little wine bar in what was once the Jewish quarter of town. Excellent "Federweisse," wine before its time that is sweet and peachy.
+
+### Cologne to Prague
+
+Sat. 9/23 Schlep the remainder of my baggage to the train station and board the "Joseph Haydn " Intercity train (via Mainz, Frankfurt airport, Nuremberg) and change at Regensburg for the "Albert Einstein" to Prague. Eleven minutes late, maintained all day. Europe is homogenizing. The trains are slightly less punctual in Germany, more punctual in other places. Quick train change, mucho schleppando a la baggage.
+
+Border crossing at Furth im Wald and into the Bohemian woods. It could be Pennsylvania. Utility poles in former CSSR have rungs on them so they may be climbed to change bulbs. No mechanical cherry-pickers in an undercapitalized state. Many tank cars. The trains go fast, unlike my memory of Poland 1976, where we chugged along at 15 mph. Presumably the railroad was one of the first capitalist improvements. Truck freight from Dresden to Prague goes via rail; presumably the roads are not up to the traffic.
+
+## Prague.
+
+Arrive in the evening, check baggage (a real burden, this case of lectures, even lightened by what Roland is mailing), change money. Try to contact a gay place,but have no luck with the phones, even after buying a phone card. A \$5 ripoff for tourists who only need one or two calls. Spreading to the U.S. as coin phones become unavailable "because of the war on drugs."A tout, neatly dressed in a sweater, offers me a room for DM 40 (\$28), 5 minutes from the opera, so I take it. It is an extra room in a baroque apartment building, high ceilings, etc., that has not been fixed up yet,though it is in the path of redevelopment. A woman (architect, I think) and small daughter live there. Tout's advice: avoid taxis (ripoff artists), a good restaurant where meals are \$8 and businessmen in suits listen to '70's disco, and watch out for gypsy gangs at night around Wenceslas Square (the Czechs blame all their social problems on the Gypsies, pretty racist).
+
+Sun 9/24, tour of Prague Castle Hill, St. Vitus and earlier Romanesque church. The Habsburgs really laid it on thick when they imposed Catholicism on Prague, and the monument to Johann Nepomuk has tons of silver in it. Not to his honor, but the Habsburg dynasty! Also view Tycho Brahe's alchemical lab, have to pee, no place to go (that's what led to Tycho's death at a royal reception, the king wouldn't excuse him). Bang my head and see stars at Kafka's old place, now a boutique selling toy soldiers. I'm sure he'd have choice words for the droves of tourists being herded through these Baroque box canyons! For tourists, but splendid, a recital by two members of the National Opera, in a spare palace. Unparalleled ambience, and about 8 bucks. It would cost 4-6 times as much in Germany, and will here someday. See Madame Butterfly at the opera, box seat for \$14. Might as well pig out while I can, the seats would otherwise be empty.
+
+9/25 I'm tired and it's raining, so write postcards and mail them, and do banking. Prague traffic signals emit a ticking sound that speeds up to twice tempo when the light is green. I guess you need directional hearing if there are two pairs! Go out to the suburbs to find a gay advertised restaurant, and I'm the only customer. Maybe it's a startup trying to get a foothold. No English, just German, as I often find in Prague (the vast majority of tourists, since the frontier is only about 60 miles away).
+
+9/26. Jewish quarter museums are closed, so walk around Stare Mesto, see the Postal Museum (quite specialized in local issues and obscure protectorates of the USSR, but I forget to look for Tuva. Another subway and tram to the National Technical Museum, which has a first rate photography section: daguerrotypes, all manner of old still cameras and zoetropes and behemoth Hollywood movie cameras, as well as a big collection of classic cars, including a '38 Mercedes racing car that did 240 mph. Buy Rhinestones for friend Kent.
+
+Opera again, L'elisir d'Amore for \$5 center balcony, then apple strudel, sherry, and slivovitz at the art nouveau Evropa Hotel coffee shop. Violin and piano play Hungarian rhapsodies and My Fair Lady. Finally view the Jewish Museums, expensive and popular. Jews achieved tolerance here by paying for it, occasionally bailing out the city fathers. Much history stuff remains only because some Nazis saved it for a "museum of an extinct race." A bad reflection on humankind that we are capable of such atrocity. More pleasant is the visit to the nearby museum of Design, where arts and crafts from the 15th century share the same cases with modern ones. Also costumes and furniture, and a good espresso joint, though smoky.
+
+## Budapest
+
+To Budapest on an overnight train through Slovakia. Lots of places along the highways advertise "Nonstop" meaning open 24 hours. Views of the Danube Bend area, and arrival about 8 A.M. Two pushy ladies rent me their flat (big enough for six, really) for \$40 a night, on Utca Tatra, two blocks to transit and McDonalds, who seems to have made real estate grabs all over Eastern Europe, except for central Prague. Buy a transit pass (excellent service again) and map and fast food: Pommes Frites, grapefruit juice (fresh) and chicken sandwichwith liver! Try to buy opera tickets, fail completely. Eva Marton is giving a recital for Bartok's 50th Todestag. (Webern had just had his, too). Andras boulevard has karyatids , both sexes, on fine old buildings. Budapest's answer to Unter den Linden, celebrating 100 years, with the cute little yellow subway line (remodeled this year) under it. Metro to Deak Ferenc Ter, and walk to Vorosmarty Ter. Thence I am drawn by an attractor beam to Cafe Gerbeaud and their name pastries. Coffee is pricey here, too. Oh no!! The pastries are stale! Well I never! The Fo-something was better, apple strudel on top, prune and poppyseed on the bottom... things could be worse. So many pastries, so little time. A caricaturist wants to draw my beard. Later. Dinner at Bohemtanya Vendegl"o. Recommended by a Seattle friend, it has been discovered, and I have a long wait, sharing a table with a tall blond god in Diesel attire and two Israelis with whom he speaks Dutch. They are put out because they have to not smoke with me there. Food and is good and plentiful, though I don't see anybody selecting from the whole page of brains dishes. Go out to a gay bar, which is pretty cozy, and one hers English and Hungarian, and surprisingly little German. On the metro, see adolescent boys swinging on the straps, Tarzan fantasies perhaps? Also a poster for "Kriminal Expo '95" everything I need to begin a life of crime?
+
+Fri 9/29 Castle side of the Danube (same idea as Dresden and Prague, a castle on the high elevation side of a river bend). Take trams and cable car up to the castle, check out the ethnographic museum, below which is a remains of a fifteenth century castle. Good restoration, lighting, lots of the pink marble that I saw in Prague. Not very water resistant, though, the old stones in the Jewish cemetery looked like curdled cheese. Coffee and pastry that is not stale, at Cafe Miro, whose furnishing all look like motifs from Miro paintings. The furniture is heavy iron painted green. Down the hill for groceries at a market hall, get some toilet paper that my landlady forgot, and a towel. Follow Fo utca down to the Kiraly Turkish baths, and go in for Men's Day. Entry is like going into a sanitarium, with attendants in white cotton. Go in for a steam and a massage. Very cruisy place, and evidently so since the Turks build it in the sixteenth century. Big domes with chinks in the bricks to let the steam escape. Have a fine dinner out by the Zoo and Unknown Soldier monument.
+
+Restaurant Bogolivar is right next to highly rated Gundel's, and seems to be under the same management. Harvest food on the menu, and I get an excellent roast duck with garnishes, and a great prune lekvar palaszinta for dessert. Memorable! LAter at a bar, a guy identifies himself as a gay Republican. Yes, there were some Jews that voted for Hitler, too. Blunt? Yes. Accurate? Yes. Back to the flat by the night service bus after the Metro closes. Saturday morning 9/30, last day in Europe, try to find the burial mound of Gul Baba, who brought roses here and is said to be buried among them. Couldn't find it though, had only a suburban stroll instead. Some folks are doing well, it would seem, these places are the equal of ritzy American 'burbs. Go next to a flea market held at a rock concert venue in the zoo park. Some tacky memorabilia of Commie rule, some good pastries, and interesting liquors at a dollar a shot. Some is very medicinal, like bile black "Zwack" in a spherical green bottle. Walk some more, rest at the flat, buy a few groceries to take home, jam, palaczinta mix. Go downtown to use a phone that works and call Seattle to arrange pickup. Life is good. So many pastries, so little time! Go to bed early for 5 A.M. rise time and ride to airport.
+
+## Sun. 10/1 Trip Home.
+
+Budapest has an airport van service, which is more polite than the U.S. original. My rowmates to Heathrow converse in Hungarian; the language is so impenetrable, I have no clue about their subject. Buy some Portmeirion ware at the Duty Free (you can't avoid Duty Free at Heathrow; it blocks your way). Didn't join the Japanese gentlemen at the \$20 a pop caviar bar, though... Rest of a very long day sleeping.
+
+## Epilog
+
+When again? There is a total eclipse from Paris to Munich to ex-Yugoslavia to Turkey in 1999. I'm hoping to be flush enough for a summer "mini-sabbatical" for my 50th birthday.
+
+So many thanks to so many people for so wonderful a mensis mirabilis!
+
+D.K. 12/12/95

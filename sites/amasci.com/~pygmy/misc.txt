@@ -1,0 +1,27 @@
+Miscellaneous Links 
+
+ Miscellaneous Links 
+(edited 28 August 2002) 
+
+ Phil's Clipper Site 
+
+ Harbour Project (Clipper clone) 
+
+ Dave Pearson's Page (Clipper, Linux, etc) 
+
+ Simtel 
+
+ J (an APL variant) 
+
+ Metacard (Hypercard-like) 
+
+ the python language 
+
+ Header2Scheme: automatically convert C headers to Scheme 
+
+ Ivy 
+
+ Windows software 
+
+End of misc links page
+Return to my home page

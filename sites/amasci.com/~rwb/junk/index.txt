@@ -1,0 +1,71 @@
+Richard's Junk Page 
+
+ TSAN 
+The Sysop Association Network, or TSAN, was the pirate
+equivalent of FidoNet. They lasted from 1984 to 1992
+and beyond. Here's an ANSI ad for them. 
+There are brief mentions in Phrack 
+issues 33 and 37, and in this paper. 
+Otherwise you will just find it in acronym lists, and in
+the occasional ansi on defacto2.net. 
+
+ The International Information Academy 
+Vladimir Sachkov's book ``Probabilistic Methods in Combinatorial
+Analysis'' mentions on the title page that he is an academician
+in the International Information Academy. It is a theoretical
+computer science group for information security. There is no home page
+for this organisation yet they have 
+about 5000 people! Here is the
+Moldovan branch but their link to RIIA - the Russian branch - is a 404!
+(September 23, 2000) If you're looking for them you're better
+off searching for "International Informatization Academy". 
+Link added - (November 14 2001) 
+thanks to Margo Cheney.
+ Canada IIA is here.
+
+ Simon Barere 
+A really good pianist. Unfortunately, according to the back of the
+Pearl CD, ``his shy and retiring nature rather obscured, and continues
+to obscure, a reputation which should be much higher than it is''.
+Check out Appian Recordings , 
+ Dejanews , and 
+ Everything2 for more information.
+
+ Tetris 
+Tetris existed in Russia long before it was being sold in the West -
+in 1985 in fact. I only have two copies of this - one from 1986 
+from the Bosnian abandonware site 
+and one from 1988 from co-author 
+Vadim Gerasimov's site . They are obviously both written in Turbo
+Pascal, yet the source has not been made available. 
+If anyone has a 1985 version please contact me.
+
+ Sargon III 
+One of the last brute-force chess programs for the PC, probably.
+Written by Dan and Kathe Spracklen, IBM adaptation by Kevin E. Leavelle
+in 1983.
+Read some old unprotection advice for
+hard disk owners, which is completely irrelevant unless
+you own the original, or download the game. 
+Estimated rating 1859 on a 386-25.
+
+ Centaur 
+Centaur is a chess program from Russia which has a knowledge-based
+search and competed in several World Microcomputer Chess
+Championships. Apparently it WON a Soviet Microcomputer Chess
+Championship around the early '90s, which shows you how bad the
+competition was! Eugene Nalimov, a computer chess guru who now works
+at Microsoft, had a comment to make on it on the 
+ ICDchess discussion
+board here . There is also a demo
+version which you can probably find by searching 
+ Channel 1 BBS 
+for either Centaur or Russoft. And this demo version does not work.
+
+ Smallest prime generation program 
+Here is a USENET thread on comp.lang.c about such a program in C.
+ Expose on Raymond Keene and Eric Schiller 
+Removed from chesscafe.com - by Edward Winter .
+Unfortunately it's copyright so can't be reproduced here.
+
+ Free counter

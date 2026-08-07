@@ -1,0 +1,42 @@
+Newsgroups: rec.games.chess
+From: epeterson@encore.com (Eric Peterson)
+Subject: nnn-scratchy 1-0
+Organization: Encore Computer Corporation
+Date: Mon, 8 Feb 1993 17:19:08 GMT
+Message-ID: <C2543x.L86@encore.com>
+X-Newsreader: TIN [version 1.1 PL8]
+References: <1993Feb6.002831.3000@spdcc.com>
+Sender: news@encore.com (Usenet readnews user id)
+Nntp-Posting-Host: scrap.encore.com
+Lines: 26
+
+
+Andy Tannenbaum (trb@spdcc.com) wrote:
+
+| Applause to ICS player nnn, who just vanquished mighty scratchy.
+|
+|   22     P/b2-b3 (0:09)         N/c4-b2 (0:05)
+
+The move 22 ... Nb2? is what starts scratchy's downfall ... it
+ultimately leads to the loss of his knight.  Would Nd2 have been
+better?  Or Nb6?
+
+|   41     N/b3-a5 (0:05)         K/e4-e3 (0:01)
+|   42     N/a5-b3 (0:10)         K/e3-f4 (0:05)
+
+Here black starts chasing pawns and completely ignores the fact
+that white's a-pawn will queen before any of black's pawns have a
+chance.  It would seem that 42 ... Ke4 would be preferable to Kxf4.
+
+Does scratchy normally suffer from such glaring errors as these in the
+midst of reasonable play?
+
+Eric
+--
+       Eric Peterson <> epeterson@encore.com <> uunet!encore!epeterson
+   Encore Computer Corp. * Ft. Lauderdale, Florida * (305) 587-2900 x 5208
+Why did Constantinople get the works? Gung'f abobql'f ohfvarff ohg gur Ghexf.
+
+
+
+

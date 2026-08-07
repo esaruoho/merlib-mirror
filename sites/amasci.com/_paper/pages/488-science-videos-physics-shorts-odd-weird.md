@@ -1,18 +1,18 @@
 ---
 title: "Science videos physics shorts: odd & weird"
 source_domain: amasci.com
-source_path: physvids/2.html
+source_path: physvids/3.html
 order: 488
 reachable_from_entry: true
 images: 3
-internal_links: 17
-extracted: 2026-08-03T18:12:28Z
+internal_links: 16
+extracted: 2026-08-07T05:53:47Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # Science videos physics shorts: odd & weird
 
-*Source page: `physvids/2.html`*
+*Source page: `physvids/3.html`*
 
 <table data-summary="nav links, google search window" width="100%">
 <colgroup>
@@ -64,7 +64,7 @@ extractor: site_to_paper.py (pandoc)
 <td data-summary="spacer" width="25"> </td>
 <td data-valign="top" data-summary="bizarre science videos" width="660"><h1 id="odd-physics-video-archive">ODD PHYSICS VIDEO ARCHIVE<br />
 </h1>
-<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/3.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/9.html">...9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   <a href="http://amasci.com/physvids/6.html">6</a>   <a href="http://amasci.com/physvids/5.html">5</a>   <a href="http://amasci.com/physvids/4.html">4</a>   <a href="http://amasci.com/physvids/3.html">3</a>   2   <a href="http://amasci.com/physvids/1.html">1</a>   <a href="http://amasci.com/physvids/1.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
+<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/4.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/9.html">...9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   <a href="http://amasci.com/physvids/6.html">6</a>   <a href="http://amasci.com/physvids/5.html">5</a>   <a href="http://amasci.com/physvids/4.html">4</a>   3   <a href="http://amasci.com/physvids/2.html">2</a>   <a href="http://amasci.com/physvids/1.html">1</a>   <a href="http://amasci.com/physvids/2.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
 </p>
 <br />
 &#10;<hr />
@@ -79,8 +79,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Lord Armstrong's bizarre "<a href="http://amasci.com/freenrg/wasser.html">water thread</a>" phenomenon (requires<br />
-DDW, 'chemically purified' water.
+OK, it's not weird physics. But too cool to leave out. Also <a href="http://www.youtube.com/watch?v=pEThuaKLvzo">Thai Sylvania ad</a>
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -95,8 +94,25 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Individual carbon atoms! See, they really do pack together in<br />
-hex arrays
+The quite bizarre "Marinov Motor" effect. Thought to be<br />
+powered by fast-moving heat-expanded lumps on the ball surfaces.<br />
+Or perhaps this is a Faraday Disk, an "Earth's Core Dynamo" being<br />
+run as a motor instead of a generator.
+<pre><code>
+</code></pre>
+<hr />
+<div class="iframe">
+<div id="player">
+&#10;</div>
+<div class="player-unavailable">
+<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
+<div class="submessage">
+JavaScriptin suoritus ei onnistu.
+</div>
+</div>
+</div>
+<br />
+Dorothy's house won't get sucked up into the sky.
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -111,7 +127,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Brings a tear to the mathematician's eye. And mine.
+More terribly cool but not real physics
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -126,7 +142,8 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-A cellular automaton, but in real life! Greasy though.
+A kilowatt of ultrasound cavitation bubbles. But I wanna see if<br />
+it glows when the lights are off!!!
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -141,8 +158,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Given time, perhaps one person can reconstruct all of<br />
-ancient Egypt.
+Inductive repulsion, nonmagnetic aluminum slab in intense b-field
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -157,8 +173,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Sodium: too expensive to just stick out in some<br />
-storage yard somewhere?
+We live submerged within a thick layer of fluid
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -173,8 +188,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-What the hell! Giant underground sand-filled gas pockets?<br />
-Perhaps acutally a miracle of petroleum geology.
+A 45-tesla b-field! More weird inductive repulsion effects
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -189,7 +203,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-The famous cornstarch nonlinear acoustic phenomenon
+Real Ball Lightning is incandescing aerogel?
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -204,27 +218,12 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-The famous cornstarch nonlinear footpath phenomenon
+If the max-volt point is in the center, then that thing is<br />
+way mis-tuned...
 <pre><code>
 &#10;</code></pre>
 <hr />
-<div class="iframe">
-<div id="player">
-&#10;</div>
-<div class="player-unavailable">
-<h1 id="tapahtui-virhe." class="message">Tapahtui virhe.</h1>
-<div class="submessage">
-JavaScriptin suoritus ei onnistu.
-</div>
-</div>
-</div>
-<br />
-To put a potato chip bag into space, and bring it back safely.<br />
-Also marshmallows.
-<pre><code>
-&#10;</code></pre>
-<hr />
-<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/3.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/9.html">...9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   <a href="http://amasci.com/physvids/6.html">6</a>   <a href="http://amasci.com/physvids/5.html">5</a>   <a href="http://amasci.com/physvids/4.html">4</a>   <a href="http://amasci.com/physvids/3.html">3</a>   2   <a href="http://amasci.com/physvids/1.html">1</a>   <a href="http://amasci.com/physvids/1.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
+<p>  <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/4.html">&lt; PREV</a>   <a href="http://amasci.com/physvids/9.html">...9</a>   <a href="http://amasci.com/physvids/8.html">8</a>   <a href="http://amasci.com/physvids/7.html">7</a>   <a href="http://amasci.com/physvids/6.html">6</a>   <a href="http://amasci.com/physvids/5.html">5</a>   <a href="http://amasci.com/physvids/4.html">4</a>   3   <a href="http://amasci.com/physvids/2.html">2</a>   <a href="http://amasci.com/physvids/1.html">1</a>   <a href="http://amasci.com/physvids/2.html">NEXT &gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
 </p>
 <br />
 </td>
@@ -237,7 +236,7 @@ Also marshmallows.
 |:---:|-----|
 |     |     |
 
-<http://amasci.com/physvids/2.html>\
+<http://amasci.com/physvids/3.html>\
 Created and maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\
 
 <div class="statcounter">

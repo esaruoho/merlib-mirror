@@ -1,0 +1,218 @@
+---
+title: "SMALLnet post291"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post291.html
+order: 7995
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:30Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post291
+
+*Source page: `~smallnet/Archive/post291.html`*
+
+## SMALLnet Posting post291
+
+------------------------------------------------------------------------
+
+**Date: Sat, 26 Feb 2000 02:01:05 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>.
+
+Mark Vance \< <mvance@iglou.com> \> wrote:
+
+Got one of the Norvel .074s of the first sales batch a few weeks ago. Seems to be one great little engine. Its size may deter some SMALL scale addicts, but the weight is still low, and really would go great in some of those WWI birds that need an extra ounce of weight in the nose, and need a 7-inch prop to get around those big ol' cowls.
+
+Mine was turning a Master Airscrew 7x3 prop the first run at 16,200 RPM. Using the usual 35% nitro though. I expect 17k or better as it loosens up. Maybe even 18k on an APC thin blade. Gobs of thrust at even that rpm too. IMHO, the .074 is the perfect engine for that Herr P-51. The noise is much more palatable compared to the .061, as the muffler is a bolt on, and has a lower bark to it. It seems to use the same carb as the .061, so a little rework might end up with more top end. The idle looks like its going to be great (although I don't have numbers) -- probably due to a small venturi.
+
+The glow plugs aren't the same size as the .061, so order accor- dingly. I swear I don't work for them, but the Norvel line has been the best bang for the buck, for me anyway! But if they don't release that .25 size soon, I'm going to lynch Ed! They promised us them in AUGUST!!!
+
+Parting question: Is there a source for some kind of exhaust throttle for a C\*x .020 PeeWee (the tank-mounted kind)? TIA!
+
+Keep on SMALLing, Mark Vance
+
+Randy Randolph \< <randyranman@juno.com> \> covers the same topic:
+
+In reply to Jim Anderson's request for information on the Norvel .074, my review is in the February 2000 Model Airplane News. I liked it! Randy
+
+....Randy forwarded the following query from \< <BuilderAir@aol.com> \>:
+
+I have just joined SMALLnet. I need some help: I'm looking for a discontinued Guillow kit: no. 1501, Cessna 170A. I have called Guillow, and they are of no help at all; not even for a set of plans. This is a 48-inch plane, perfect for electric schoolyard scale. Can SMALL help me? I can find nothing in the net on kit collectors. Thanks for just being there.
+
+Adam Bryant \< <adamdb@juno.com> \> contributed:
+
+Fred Reese asked what engine I planned to use on my Simple Series Extra. I plan on using a Norvel .061. Would you recommend any down or right thrust in the engine?
+
+Another consideration for me on this project was ease of cleanup (unfinished foam can get pretty messy), and that I have never had any luck painting foam wings. No matter how hard I try I always get the paint on too thick in spots and melt the foam. My intention was to cover with Tyvek, then paint the Tyvek -- but that is starting to sound heavy. I would like to keep the weight down as much as possible as I intend to make mine with a full 4 channels for control.
+
+My parents had a set of Popular Mechanics Do-It-Yourself Encyclopedia when I was growing up, and I spent many hours reading and re-reading the very same articles by Roy Clough that David Felin mentioned. I have plans around here somewhere for a hoopskirt (annular wing) like plane that I drew up a few years back. I'll have to build the darn thing one of these days.
+
+I would be first in line at the bookstore for a chance to buy a collection of Roy Clough's model designs.
+
+Adam Bryant Parker, Colorado
+
+John Meacham \< <Catboat15@aol.com> \> exclaims:
+
+Oh Boy, wouldn't a collection of Roy Clough designs be a great book? Are you listening, Randy and Joe? I could not think of a better purchase than a three-volume set of books with Clough, Randolph, and Wagner model designs -- one designer per volume.
+
+If not a plans book, maybe just a photo and short description of each model and an order form to order the full size plan set.
+
+John Meacham
+
+Carlo Godel \< <regiaero@gj.net> \> is also a Roy Clough fan:
+
+In the past, the BlackSheep Exhibition Squadron at their Champs on Memorial Day at Taft had an event called the Roy Clough Event; and the trophy was given to the most unusual craft??? that will fly for two minutes or more.
+
+Roy's designs have won more often than not. I'm not sure that it is still being held, but it sure was a fun event when it was....
+
+Carlo
+
+Joe Nagy \< <joshrl@hotmail.com> \> reports:
+
+<span id="103">Source: Plans, Old Midwest\
+</span> <span id="104">Vendor: Midwest Products Co., Inc.\
+</span> I have a contacted Midwest Products and have ordered many sets of their older 'obsolete airplane' kit plans over the past year or so without difficulty. Contact:
+
+Midwest Products Co., Inc.\
+400 South Indiana St., (P.O. Box 564)\
+Hobart, Indiana 46342\
+
+Phone: (219) 942-1134 or (800) 348-3497\
+
+Fax: (219) 942-5703\
+
+Attention: Cathy Driemeyer, Customer Service. (Always ask for Cathy.) They accept credit card orders. The plans costs are: 1 plan: \$7.95 each, 2-plan set: \$12.00. The Sniffer is plan \# 301, and the Super Sniffer is \# 304. Jon, I hope this is of help to you, and all other SMALLsters.
+
+Best regards from Phoenix, Arizona, Joe Nagy
+
+Phil Oestricher \< <F4DPilot@aol.com> \> adds to the Sniffer data:
+
+I'm sure that Roland G. Schmitt, the designer of the Sniffer, will contact you regarding the origin of this great model. I had the pleasure of flying indoor models and having lunch with Roland today and am happy to report that he is as fine a person, modeler and conversationalist as ever.
+
+Best regards, Phil Oestricher
+
+Larry Marshall \< <larrym2@earthlink.net> \> wonders:
+
+Which came first: the British-made Veron "Cardinal", or the Midwest "Sniffer"? They look like spitting images of each other.
+
+Cheers --- Larry
+
+Mark Garvey \< <Lazybee45@aol.com> \> avers:
+
+I am intrigued by the Tyvek ideas and the strapping tape "spars". While I have not tried covering with Tyvek (oddly, I never thought of construction Tyvek!), I have used 3/4 inch strapping tape for spars, and it does work very well.
+
+I am infamous around my local flying field as having built a total of 27 different "Wonders". My Lazy Bee count is far behind that, at 6 or 7 (three under construction now, but they don't count!).
+
+On a couple of my Wonders I tried strapping tape, and it seemed to work well enough. I also do a couple of other things. Covering is "tagboard" which is a very thin cardstock. Sturdy, not all that heavy, and very strong. I have seen some of my models crash with structural damage but only a little "dinkle" in a wing tip.
+
+"When I get the urge to exercise, I lie down until it goes away." Mark Twain
+
+Larry \< <nova71@ruralcom.net> \> wonders:
+
+<span id="164">Source: Electric, Motor: HiLine\
+</span> <span id="165">Vendor: HiLine\
+</span> While looking in some older issues of "Model Aviation", I saw a few ads for small economy-type electric motors from HiLine of Goldsboro, North Carolina. But in any issue after November 1999, their ad was missing. Are they still around, and are the motors any good ? Anyone ever have any contact with them ?
+
+I want to try a few projects of electric R/C and not spend a lot of money (I'm not cheap, just thrifty !!) and they looked like a good source. Any help is always appreciated. Thanks-----Larry
+
+....Larry, I've done a fair amount of business off and on with HiLine; and so far as I know they are still doing business as usual. The company is owned & operated by Dave and Marie Rees. The phone number is (919) 778-6653. \[JW\]
+
+Phil Thibodeau \< <phlyer@freewwweb.com> \> contributed:
+
+Re the "R/C dead zone" subject: At NAF Whitehouse here in Jacksonville, Florida we had similar problems at the east end of the runway. There was a remote radar site just off-field that transmitted to the ATC at Hilliard, right across where we were flying; and at times it would raise \<\*%(&^&! with our receivers.
+
+Phil in Jacksonville, Florida
+
+Ron Fikes \< <srfikes@earthlink.net> \> advises:
+
+Something else to consider using in model building besides Tyvek. Get some "clear" MicaFilm, use it to reinforce TE/LE joints and to cover any place you want stronger. I fasten it down with CA, rough side against the wood - apply glue, place MicaFilm on surface, cover with clear film (I use Monokote backing) and press till cured. The film makes for a smooth finish. MicaFilm is VERY tough and very thin.
+
+Ron Fikes
+
+Mike Woodhouse \< <MJWFFS@aol.com> \> informs us:
+
+<span id="204">Source: Hinge Material: TYVEK\
+</span> There has been a little correspondence of late re Tyvek and razor blades. I carry both on my list. Take a look.
+
+HINGE MATERIAL\
+Spun bound olefin "Tyvek" (75 gms per sq. metre): paper-like material that can be used as a lightweight hinge for rudders; can also be used for paper fairings and reinforcements, etc. Can be glued easily with PVA or cyano. 5 A4 sheets (210 mm x 297 mm) Pound 3.00, post free.
+
+<span id="214">Source: Razor Blades\
+</span> DOUBLE EDGED CARBON (BLUE) STEEL RAZOR BLADES\
+Sharp edges: may be broken in half lengthways (take care). Edge width 1.455" (36.95mm). Blade thickness 0.005" (0.127mm). Pack of 10 Pound 3.50 or 35p each plus postage 38p.
+
+DOUBLE EDGED STAINLESS STEEL RAZOR BLADES\
+Sharp edges: may be broken in half lengthways (take care). Edge width 1.69" (43.00mm). Blade thickness 0.004" (0.100mm). Pack of 10 Pound 1.30 or 15p each plus postage 38p.
+
+CARBON STEEL SINGLE EDGE RAZOR BLADES WITH SAFETY SPINE\
+Pound 1.35 for 10, plus 38p postage.
+
+Mike Woodhouse
+
+Steve Morris \< <mlbco@sirius.com> \> reports:
+
+I recently built a miniature electric-powered spy plane, and pictures of it can be seen at:
+
+\< <http://www.sirius.com/~mlbco/RT1.JPG> \>\
+\< <http://www.sirius.com/~mlbco/RT2.JPG> \>\
+\< <http://www.sirius.com/~mlbco/RT3.JPG> \>\
+
+It has an 11.5" wingspan and is powered by a Wes-Tec DC 524-1 motor with an 8.3: 1 gear reduction. The propellor is a Testors rubber band plastic prop cut down to 5", and the battery is 8x50 mAH. I'm using 2 Wes-Tec 2.7g servos for the controls on the inverted V-tail and a Sky-Hooks and Rigging receiver with built in speed controller.
+
+The small pod on the left wing carries a .25-ounce video camera and a 1-gram video transmitter. The airframe is 1/16 sheet balsa and the inverted V-tail is used because rudder deflection produces the correct roll torque in turns (this is not the case on an upright V-tail).
+
+The ready-to-fly weight is 3 ounces with video (10 ounces/sq-ft wing loading) and the flight duration is 3 minutes with video and 3.5 minutes without. Flight speed is around 18 mph and it can handle winds up to 10 mph if it's not too gusty. Climb rate is an accept- able 200 feet per minute.
+
+The model should be able to fly on 3 CR-2 Lithium cells, which would give it a duration of 1/2 hour. I'll try this when I feel like spending \$40 on non-rechargeable batteries. The plane is a little tricky to fly, being so small and somewhat fast. The propellor effects make it spirally unstable in right hand turns and stable in left turns. The range on the video system is only 1000 feet and this probably exceeds the range of the receiver, so I can't fly very far away. The video quality is pretty good with the small pin-hole camera I'm using.
+
+Steve Morris
+
+Morris Lee \< <leehome@netscope.net> \> is curious:
+
+I'm getting ready to start my next project, a Hobby Hangar Gee Bee 20. The recommended engine is a .20 2-stroke. I have an O.S. 26FS four stroke and a 25SF, which I think is an old lapped piston version. I realize the 25SF would almost over-power the plane, but I'd like the more realistic sound of a four stroke. Any opinions?
+
+Morris Lee
+
+Ron Vallejo \< <ronmaivallejo@ldd.net> \> inquires:
+
+I am currently building an old Midwest kit, the A-4 Skyhawk, designed for the RK049 ducted fan unit and Cox TD 049-051. I am converting it to electric, using a Minifan 480 and Astro Brushless 05 motor. My question to fellow SMALLsters who have built the kit before: On the side of the fuselage just aft of the cheek inlet is a "hole" (on each side).
+
+I'm wondering what the purpose of this hole is. It leads inside the duct...is this a cheater hole? I've read that cheater holes "kill" thrust. Any comment will be appreciated.
+
+Thanks, Ron
+
+Mark Wayne \< <mwayne@minolta.com> \> appreciates:
+
+Thank you, Fred Reese, for all those great designs in the Simple Series. I plan to try others in the series in the future. My luck with them has been very good.
+
+I am in the process of building a mixed bag plane. The fuselage is that from the Simple AT-6, but made of corroplast. The tail is from a crashed Staggerwing Biplane (about the same area as that of the AT-6).
+
+There are two wings I have for experimenting. One is from a Simple Ultimate (Foam). The other is made of corroplast and has an undercambered airfoil. I have added landing gear, in a tail-dragger configuration, with a steerable tail wheel. (The original plans for the AT-6 don't include landing gear -- it is a hand-launch model.
+
+Any insight as to how it might fly with an OS .10 - .15? I don't have a final weight yet. Full house radio and engine are not yet installed. Mark
+
+Andy Woitowicz \< <ajw@ntl.sympatico.ca> \> wrote:
+
+My current experiment is to install the Hornet .09 liner and piston into an MP Jets .06. This can be done quite readily (with the proper machine tools) because the Jets was originally designed as a diesel. Compared to glow, diesels need to be built much more ruggedly to withstand the stresses imposed by the diesel combustion process. The MP Jets engine was adapted to run on glow fuel and does so very well in this configuration.
+
+However, as a glow engine it is really quite overbuilt. No harm in that, because it runs really well; throttles just fine; and would probably last a long time under normal conditions.
+
+Hopefully, this rework would give me an .074 or better, and allow use of more modern ABC construction along with a very modern two-needle throttle. The ball bearing version would use the original crank. The case is so beefy that a Cox .09 crank has been easily adapted to the plain bearing version. This will give a true .09 (or close to it) at nearly the same weight; and again, allow the use of the superb little two-needle throttle.
+
+Both units will also be run with the diesel head, modified appropriately. This can be done because the MP Jets conrod is one of the beefiest and best-made rods made in the .049/.06 category. This one sports a beautiful little brass bushing on the crank end. A work of art.
+
+I've been told that Mr. Doug Galbreath, somewhere in California, has done some great work hopping up this engine, including making or adapting the head to take Nelson plugs. Would any SMALLster know where I can get in touch with Mr. Galbreath? Phone number preferred, or e-mail address. Andy
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

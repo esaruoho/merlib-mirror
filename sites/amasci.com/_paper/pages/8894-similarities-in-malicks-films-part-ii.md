@@ -1,0 +1,644 @@
+---
+title: "Similarities in Malick's Films, Part II"
+source_domain: amasci.com
+source_path: ~toates/malick/simlist2.html
+order: 8894
+reachable_from_entry: false
+images: 13
+internal_links: 5
+extracted: 2026-08-07T06:01:26Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Similarities in Malick's Films, Part II
+
+*Source page: `~toates/malick/simlist2.html`*
+
+# Similarities in Terrence Malick's Films: An Iconography, Part II
+
+|  |  |  |
+|----|----|----|
+| [![](badlands/bad01t.jpg)](badlands/index.html) | [![](days/days01t.jpg)](days/index.html) | [![](trl/witcoomb_t.jpg)](trl/index.html) |
+| [Badlands](badlands/index.html) | [Days of Heaven](days/index.html) | [The Thin Red Line](trl/index.html) |
+
+By Angela Havel and Aaron Snyder and T. Oates\
+Edited by T. Oates
+
+In all Terrence Malick's films--Badlands, Days of Heaven and The Thin Red Line--similar images, symbols and themes recur. Havel, concentrating on Badlands and Days of Heaven, and Snyder and Oates, concentrating on The Thin Red Line, have identified these similarities in Malick's films in the list below, which is arranged in alphabetical order. The authors welcome comments via email. [Angela Havel](mailto:anghave@yahoo.com) can be reached at anghave@yahoo.com and [Aaron Snyder](mailto:wittnietz@datatek.com) can be reached at wittnietz@datatek.com.
+
+*Ed's note:* This is Part 2 of a two-part article. Part 1 can be accessed by clicking [here](simlist.html).
+
+Image
+
+Badlands
+
+Days of Heaven
+
+The Thin Red Line
+
+**HEARTBEAT SOUND**
+
+![](cleardot.gif)
+
+- The final time the Farmer sees Abby kiss Bill, there's a distinct heartbeat sound as the Farmer stands gripping beams in the ceiling.
+
+<!-- -->
+
+- A heartbeat sound begins in the flashback to Witt's mother. The heartbeat sound ends when she dies.
+
+**HOMMES FATALE\
+(see also FEMMES FATALE)**
+
+- Kit kills a total of nine people, counting the two teenagers that he isn't sure of.
+
+<!-- -->
+
+- Bill maims and possibly kills the factory foreman.
+- He kills the Farmer.
+
+<!-- -->
+
+- There are few male protagonists in this film who <u>don't</u> kill.
+
+**HORIZON**
+
+- Kit stands with the horizon before him in the shot where his gun is slung behind his shoulders.
+- Various shots of Kit's car crossing the badlands show the horizon prominently.
+
+<!-- -->
+
+- Bill looks at the wheat field and horizon in the distance when he first arrives on the farm, surveying the Farmer's vast ownership (and perhaps this spurs his desire to own land himself).
+- Linda walks down the railroad tracks to the distant horizon at the end of the film.
+
+![](cleardot.gif)
+
+**LANGUAGES (NON-ENGLISH)**
+
+- Holly tells Kit she's studying Spanish when he comes to see her on her front porch. He asks her to say "I got a job" in Spanish, which she does.
+
+<!-- -->
+
+- The traveling circus pilot speaks Italian to Abby in one scene (he calls her "Signorina").
+- There is an unidentified inscription, possibly in Hebrew, on stone tablets behind the Farmer and Abby during their wedding ceremony.
+
+<!-- -->
+
+- Tall uses the Greek phrase, "eos rododactylos," when speaking to Staros on the phone.
+- Staros speaks to his soldiers in Greek, then translates himself as saying, "You are all my sons."
+- The Japanese soldiers speak Japanese, obviously.
+
+**LAMPS**
+
+- A Tiffany lamp sits on the ground at Kit and Holly's camp site, salvaged from Holly's house before Kit set fire to it.
+- Kit and Holly are lit by car headlights as they dance at night.
+
+<!-- -->
+
+- There's a shot of the Farmer turning off a lamp before he gets into bed with Abby.
+- The farm workers use lamps at night when they try to clear the wheat field of grasshoppers.
+
+![](cleardot.gif)
+
+**LOVE TALK**
+
+- Holly says in voice over: "It was better to spend one week with one who loved me for who I was than years of loneliness."
+- Holly says she "grew to love the forest."
+
+<!-- -->
+
+- Linda's friend says she "loves" the wheat fields.
+- The Farmer tells Abby "I think I'm in love with you."
+- During the wedding ceremony Abby speaks the traditional line of the wedding vow "to love and to cherish."
+- Bill tells Abby, "I never wanted to fall in love with you."
+- Linda says in voice over, "She \[Abby\] loves the Farmer."
+- Bill accusingly asks Abby "You're in love with him \[the Farmer\], aren't you?"
+
+<!-- -->
+
+- Witt says, "I love Charlie Company. They're my people."
+- Bell says in voice over, "Love. Where does it come from?"
+
+**MIRRORS**
+
+- When he's inside Holly's house, Kit first notices Holly's father in a mirror.
+- At the camp site, Holly looks in a mirror to apply lipstick.
+- Cato looks at what appears to be a mirror as he's dying.
+
+<!-- -->
+
+- Linda looks at herself in a small handheld mirror in a scene with the midget performer in the wheat field.
+- Abby looks at herself in a mirror when she wears lingerie and Bill tells her, "I bet he \[the Farmer\] likes looking at you in that."
+- The Farmer looks at himself in a mirror after the fire in his wheat field and prior to getting his gun and tying Abby to a post.
+- There's a mirror at Linda's new boarding school for girls when the students are dancing to piano music.
+
+<!-- -->
+
+- Welsh looks at himself in a mirror when shaving and when Train introduces himself.
+- Marty walks over to a mirror when her lover comes to visit her.
+
+**MOON, FULL**
+
+- The shot following Kit standing with his arms slung up around his rifle features a full moon.
+
+<!-- -->
+
+- The scene when Bill and Linda are sitting in a pasture and he tells her he killed a dog shows a full moon.
+- An almost full moon is behind Bill as he watches Abby dance with Farmer at end-of-harvest-celebration.
+- A full moon is reflected in the river during Bill and Abby's midnight tryst.
+
+<!-- -->
+
+- Right after Welsh's and Witt's twilight conversation about there being "just this rock," there's a shot of a full moon.
+
+**NO-DIALOGUE SEQUENCES**
+
+- Documentary-style film-within-a-film about manhunt for Kit.
+
+<!-- -->
+
+- Opening titles sequence of still photos.
+
+<!-- -->
+
+- When Witt and Hoke are AWOL on the island.
+- The first battle for Hill 210.
+- Witt's death scene.
+
+**MUSICAL INSTRUMENTS**
+
+- Holly mentions that her dad told her if clarinet lessons didn't keep her away from Kit, maybe the piano would.
+- Kit pours gasoline over the piano in Holly's house, and it is later shown burning during the fire scene.
+
+<!-- -->
+
+- A fiddler plays a Zydeco song during the end-of-harvest celebration.
+- A violinist plays after the Farmer's and Abby's wedding.
+- Linda says in voice over the Farmer taught her notes on the piano.
+- Pianos are shown in the Farmer's house and in Linda's new school for girls.
+
+<!-- -->
+
+- A soldier plays a violin below deck as the troops are being transported to Guadalcanal.
+
+**NATURE**\
+(see ANIMALS, PLANTS, CLOUDS AND SKY, FIRE, WATER)
+
+![](cleardot.gif)
+
+![](cleardot.gif)
+
+![](cleardot.gif)
+
+**NONCHALANCE ABOUT DEATH/KILLING**
+
+- Holly doesn't cry or express sadness after her father kills her dog.
+- Holly is remarkably composed after Kit kills her father.
+- Kit records in a phonograph booth that he and Holly are going to kill themselves, then says "Big decision, huh?"
+- Kit seems to feel no remorse at any of his killings, except for telling Holly, "Of course, it was too bad about your father."
+
+<!-- -->
+
+- Neither Linda nor Bill himself ever mentions his feeling guilt for the Farmer's death.
+- Linda's friend at the end of the film says in a breezy voice about the boy she just met: "He's in the Army... I don't know, maybe he'll get killed or something."
+
+<!-- -->
+
+- When Gore (one of the small band of men led by Gaff to attack Hill 210) is shot, Witt is the only one who looks concerned, whereas Bell cold-bloodedly tells Gaff that they can swing by and pick up Gore on their way back: "if he's still alive."
+- After they first take Hill 210 and kill many Japanese soldiers, Dale's only emotion is to complain about the smell of corpses, which prompts Gaff to tell him to stick cigarettes up his nose.
+- Dale rummages through the bodies of dead Japanese soldiers to extract gold fillings.
+- Storm tells Welsh in the tent, during their break off the line: "I see that boy dyin' and I don't feel nothing."
+
+**"NOT BEING"**
+
+- Holly says in voice over that the wilderness is "lonesome...like everyone was dead and gone...when leaves rustled overhead, it was like the spirits were whispering about the little things that were bothering them."
+
+<!-- -->
+
+- Linda says in voice over, "Sometimes I feel very old... like I'm not around anymore."
+
+<!-- -->
+
+- Sergeant McCron, who loses all 12 of his men in battle, picks up fistfuls of grass and soil and mutters, "This is us. This is all we are. Just dirt."
+
+**PAINTINGS**
+
+- Kit and Holly's tree house has a painting hanging in it.
+
+<!-- -->
+
+- Bill looks at paintings of the Farmer's ancestors.
+
+![](cleardot.gif)
+
+**PHOTOS**
+
+- Holly looks at daguerreotype photos through a stereopticon, and muses about why she's who/where she is, and what her future husband looks like and what he's doing "right this minute."
+
+<!-- -->
+
+- The opening titles sequence features real-life period photos, including ones shot by Lewis Hines, ending with a photo of Linda that's been sepia-toned to look like a real-life period photo.
+
+<!-- -->
+
+- Several shots were copied from real-life WWII photos.
+- Bell looks at a black and white photo of his wife at one point.
+
+**PLANTS:\
+Miscellaneous**
+
+- When Holly and Kit are at the camp site, and Holly says "there wasn't one plant in the forest that didn't come in handy," followed by several close-up shots of branches and leaves of a tree.
+
+<!-- -->
+
+- Close-ups of heads of wheat in field (when the Farmer checks if they're ready to harvest).
+- Time-lapse footage of a seed sprouting and emerging.
+- Several close-up shots of plant leaves throughout film.
+- A shot of a lone potted plant on porch of the Farmer's house when Bill returns.
+- Close-up shots of wheat stalks being eaten by grasshoppers.
+
+<!-- -->
+
+- The very first shot of the film features duckweed (what the crocodile slides into).
+- Vines wrap around trees.
+- Many shots of kunai grass throughout the film.
+- Several shots of sunlight filtering through leaves.
+- In the middle of battle, Coombs reaches out and touches a "shy" plant, whose leaves fold close upon touch.
+- Close-up of a blood-spattered blade of kunai grass.
+- Witt pours water over a taro leaf while flashing back to a happier memory of frolicking under a waterfall.
+
+**PLANTS:\
+Trees**
+
+- Kit and Holly make a tree house.
+- Kit's high up in a tree dropping a nest down to Holly.
+- Trees are prominent in shots of the campsite.
+
+<!-- -->
+
+- There's a slow pan down from treetops at the beginning of wedding scene.
+- A shot looking up into tree leaves in the montage of Linda telling what the Farmer taught her.
+- Linda talks about looking at trees from the raft: "...the leaves are shaking and it looks like shadows of guys coming at you and stuff."
+- Linda's friend's last line in movie is: "Maybe I'll go beat the heck out of some trees, take it out on them."
+
+<!-- -->
+
+- Many shots of trees.
+- Tall tells Staros: "Look at those vines, the way they wind around those trees, choking everything off. Nature's cruel, Staros."
+- The very last shot of the film is of a young coconut sprouting on the beach.
+
+**PLAY (GAMES, TRICKS)**
+
+- Holly is twirling her baton when Kit first sees her.
+- Holly tells a joke to Cato and Kit while they eat dinner.
+- Holly makes a crystal glass "sing."
+- When Kit and Holly leave the rich man's house, Kit pinches Holly in the rear causing her to say, "Don't!"
+
+<!-- -->
+
+- Bill, Abby, and Linda play tag in a field.
+- Bill pinches Abby in the rear as they wade through the river, prompting Abby to say "There are people around!"
+- Linda taps the Farmer's car, then hops on one foot as he leaves with Abby for their honeymoon.
+- Bill, Abby and Linda play baseball with the Farmer.
+- Linda is shown golfing with Farmer.
+- Bill and Linda get into a food fight while eating in the gazebo with Abby and the Farmer.
+- The Farmer juggles potatoes.
+- Abby does cartwheels in front of Bill.
+
+<!-- -->
+
+- Melanesian children are shown playing some kind of game with rocks.
+- Hoke plays "wheelbarrow" with a child by holding his ankles while the child walks forward on his hands.
+- Witt and Hoke rotate some children and then help them race around a pole.
+- A mother plays a hand-clapping game with her child in the village.
+- One woman weaves a crown out of grass.
+- During their break off the line, several soldiers are shown playing cards.
+
+**PRAIRIE (GRASSLANDS)**
+
+- Several shots of Kit driving his stolen car across endless stretches of dry grassland with not much else.
+
+<!-- -->
+
+- Several shots where the wheat is waving and looks like a huge undulating sea of golden waves.
+- Many shots of characters in fields and pasture land.
+
+<!-- -->
+
+- Most of the battles take place on grassland.
+- Many shots of tall grass waving in the wind.
+
+**PROPERTY (OWNERSHIP)**
+
+- Holly's father tells Kit to "get off my property" in the sequence when Kit enters his house.
+- At the rich man's house, Kit pilfers a sack of groceries and the man's Panama hat and suit jacket, then nonchalantly drives off in the rich man's Cadillac.
+
+<!-- -->
+
+- The farm foreman tells the field hands, "That's the owner's," (while pointing to the Farmer's house) and continues with "Don't any of you go up around there!" in a sour voice.
+
+<!-- -->
+
+- Doll steals a pistol from an officer's bunk bed when they're in the transport ship to Guadalcanal.
+- After risking his life to deliver morphine to gutshot Tella, Welsh exclaims, "Property! The whole fucking thing's about property!"
+
+**RIVER**
+
+- Kit and Holly have sex by a river.
+
+<!-- -->
+
+- Bill washes Abby's feet in a river.
+- Bill and Abby also have sex by a river.
+- The fugitives travel down and camp near a river.
+- Bill dies in a river.
+
+<!-- -->
+
+- Witt works as a stretcher-bearer comforting wounded soldiers by a river.
+- The American soldiers walk through a river, becoming "sitting ducks," as Bell puts it. This is where Witt decides to sacrifice himself.
+
+**ROCKS AND STONES**
+
+- Kit selects a rock then tells Holly they should crush their hands with it to "remember what happened here today" (having sex).
+- Kit makes a pile of rocks to mark the spot where he is finally caught by the law.
+
+<!-- -->
+
+- One of the opening titles still photos shows a person in midair as he jumps from one huge rock to another.
+- The Farmer, Abby, and Linda stand beside a group of stones outlined in the shape of a small boat.
+
+<!-- -->
+
+- In the opening animal-plant-human sequence of shots, children are breaking open the fruit with rocks.
+- Children play a game with rocks by passing them around.
+- Welsh tells Witt, "There's just this rock" (referring to the island) when they're having their discussion under the moon.
+
+**SEX**
+
+- As Kit buckles his belt, Holly asks, "Did it go like it was supposed to?" and then says, "What was everybody talking about?" implying that she didn't really enjoy having sex.
+- While in shackles at the airfield, Kit tells Holly, "Boy, we really rang the bell, didn't we?" which could be interpreted as a reference to having good sex. Holly doesn't answer Kit's question, though, or show any facial expression. Perhaps Kit overestimated his love-making ability?!
+
+<!-- -->
+
+- Bill and Abby, and later Abby and the Farmer, are shown embracing, but aren't directly shown having sex. \[Ed's note: In the original script, Bill touches Ursula/Linda's breast. Ursula/Linda isn't Bill's sister in the original script, but Abby's.\]
+
+<!-- -->
+
+- Jack and Marty Bell are shown hugging, kissing, bathing together, but once again, sex happens off-screen. \[Ed's note: Sex scenes, both homosexual and heterosexual, are part of James Jones' novel, on which The Thin Red Line is based.
+
+**SHOOTING (NOT TO KILL)**
+
+- Kit shoots his gun once to scare Holly's father before he shoots to kill him.
+- Kit shoots a football he considers "extra baggage."
+- When Kit is captured by the two police officers, one of them walking behind him shoots his gun just to scare Kit.
+
+<!-- -->
+
+- When Bill and the Farmer go hunting, Bill aims at the Farmer, then moves his aim and shoots, scaring the Farmer.
+
+<!-- -->
+
+- After Dale is startled by a bird flying out of the brush, he shoots at it though it has already flown past him.
+
+**SILHOUETTE (CHARACTERS IN)**
+
+- Kit standing with his arms akimbo, slung over his gun, like a scarecrow.
+
+<!-- -->
+
+- Many silhouette shots, notably the wheat field scene prior to the harvest.
+- Bill's silhouetted when the grasshoppers swarm around him.
+- Bill and Abby talking about the farmer knowing about their deception of him during the fire in the wheat field.
+
+<!-- -->
+
+- When Sergeant McCron shouts, "Here I stand and not one shot."
+
+**SPIRITS/GHOSTS**
+
+- Holly says when she hears leaves rustle, it's like, "the spirits were whispering about all the little things that were bothering them."
+
+<!-- -->
+
+- Linda says when she's on the fugitive boat that she feels "spirits" that give her "goose pimples" and that maybe "they were coming for her."
+- Linda also says that the sun looks "ghostly" in the morning on the river.
+
+<!-- -->
+
+- The young girl who appears in the flashback scene of Witt's mother's dying may be a ghost. When Witt's mother and the girl embrace, the mother's heartbeat stops.
+
+**STATUES**
+
+- Holly moves a marble bust from one spot to another while in the rich man's house.
+
+<!-- -->
+
+- There are two shots of Abby, one of her writing a letter and one of her drawing, where a small statue sits on the table where she works.
+- There's also a shot of a small gnome statue in a wheat field.
+
+<!-- -->
+
+- A statue of Buddha rests in the Japanese camp as the camp is set on fire.
+
+**SUNRISE**
+
+- Dawn breaks across the mountains as Kit nears Montana.
+
+<!-- -->
+
+- When Linda plays with scrap iron in the farmyard after the fire that destroys the wheat crop.
+- Near the film's end, Linda and her friend run through town after escaping boarding school, right before sunrise.
+
+<!-- -->
+
+- Tall refers to the "eos rhododactylos," or "rosy-fingered dawn."
+- Tall decides that the small group of soldiers (led by Gaff) will attack the Japanese bunker "at dawn." \[Ed's note: the attack appears to take place well after, perhaps during mid-day.)
+
+**SUNSET**
+
+- When Kit and Holly send off the red balloon.
+- When Kit stands with his arms slung over his gun.
+
+<!-- -->
+
+- Many scenes are shot during the "magic hour" after sunset and before night, most notably Abby and Linda chasing birds near the Farmer's house and several harvest scenes.
+
+![](cleardot.gif)
+
+**"THEY" (REFERENCES TO)**
+
+- Kit tells Holly about his name: "I didn't ask for it...they just hung it on me."
+- When Kit sees a wrecked, abandoned car by the side of the road, he says, "Suppose they'll blame that on me too."
+
+<!-- -->
+
+- Linda mentions that maybe "they were coming for me" while she's on the raft.
+
+<!-- -->
+
+- When asked about resigning his commission, Bell says "They told me they'd make sure I'd get drafted."
+
+**TRAINS AND TRAIN TRACKS**
+
+- Kit and Holly watch a train pass by at a juncture in their flight and Holly mentions that it's the first sign of people she's seen in awhile.
+
+<!-- -->
+
+- Bill, Abby, and Linda board a train to get to the Farmer's.
+- A train crosses a high suspension bridge early in the film.
+- A train signals the beginning of another year's harvest.
+- President Wilson's Whistle Stop train passes through the Panhandle.
+- Linda's friend leaves on a train.
+- Abby boards a train after leaving Linda at the boarding house.
+- The final shot of the film is of Linda and her friend walking down train tracks which disappear at the horizon in the distance.
+
+<!-- -->
+
+- Private Train!
+
+**THREES or TRINITY**
+
+- Two of Kit's killing episodes involve killing three people at a time.
+- Kit shoots and kills three bounty hunters who come after him at the campsite.
+- Cato and the two teenagers (presumably) are all shot in the same time-frame at Cato's house.
+- Kit's total of nine people shot at/killed is three times three.
+
+<!-- -->
+
+- The first triangle is Bill-Linda-Abby, which is then replaced by the Bill-Abby-the Farmer triangle.
+- There are three birds perched on porch rail of Farmer's house in the shot directly after Linda says, "I think the devil was on the farm."
+- There are three police officers on horseback talking to each other on the river bank after Bill is shot.
+
+<!-- -->
+
+- Three soldiers--Witt, Fife, and Coombs--are sent by Band to reconnoiter the position of the Japanese company and find where their communication line has been cut.
+- Six soldiers (twice times three) are sent to attack the Japanese bunker on Hill 210 (Gaff, Bell, Witt, Dale, Doll and Gore).
+- Hill 210 = 2 + 1 + 0 = 3.
+
+**VOICE OVER NARRATORS**
+
+- Holly
+
+<!-- -->
+
+- Linda
+
+<!-- -->
+
+- Train, Witt, Tall, Jack Bell, Marty Bell, Welsh, Staros, Doll, Dale, and the dead Japanese soldier mostly buried in the earth.
+
+**WANDERING**
+
+- Holly says in voice over at one point that she and Kit don't know where they're headed.
+- She walks out of the rich man's house and wanders in his yard, presumably unbeknownst to Kit.
+
+<!-- -->
+
+- Linda says, "We didn't know where we were going or what we were going to do" referring to her, Bill and Abby fleeing the law by boat.
+- At the end of the film, she says the same line, substituting "she" for "we" (about her friend).
+
+<!-- -->
+
+- Witt wanders to another Melanesian village during his break off the line.
+- McCron, after losing all twelve men under his command, wanders around and rambles to himself.
+
+**WATER**
+
+- Kit stands in water while fishing.
+
+<!-- -->
+
+- We see from below the surface of the river Bill's head falling (silently) into the water at the moment of his death.
+
+<!-- -->
+
+- The very first shot of the film has the crocodile sliding into water.
+- The first shot of Witt has him canoeing on top of the water.
+- Later we see Witt treading water, his head above the sea.
+- The last shot of Witt shows him totally underwater, swimming with the children.
+- On the battle front, Staros pleads with Tall for water for the men.
+- Gaff later pleads with Tall for water for the men.
+- Jack Bell says about his wife Marty that the two of them flow together like water.
+- The last shot of the film has a coconut by the water.
+
+**WEALTHY HOUSE**\
+(see also CLASS RELATIONS: The Bourgeois)
+
+- When Kit and Holly enter the rich man's house to rest and get supplies, Holly tells the rich man, "Gosh you have a nice house." He replies "Thank you."
+
+<!-- -->
+
+- The Farmer's two-storied house stands alone on the mostly flat surrounding landscape.
+- Abby and the Farmer are shown in his sumptuous canopied bed.
+
+<!-- -->
+
+- Witt and Welsh have their last conversation in the remains of a once-great house.
+
+**WEATHERED FACES**
+
+- In scenes of the vigilante groups on a manhunt for Kit, and at the end of film at airport, several men with haggard, lined faces are featured.
+
+<!-- -->
+
+- The Farm Foreman has a deeply lined face.
+- Field workers with rather ugly faces.
+- The fiddler at the end-of-harvest celebration.
+
+<!-- -->
+
+- Charlie Company's Melanesian guide (the one with big feet).
+- The old Melanesian man who walks past Charlie Company, acting as if he doesn't even see them) shortly after they land on the island.
+
+**WATER WELL**
+
+- At Cato's house.
+
+<!-- -->
+
+- In the middle of a field at the Farmer's.
+
+![](cleardot.gif)
+
+**WILDERNESS CAMP SITE**
+
+- Kit and Holly set up a love nest/booby trap for the law in the wilderness.
+
+<!-- -->
+
+- After Bill kills the Farmer, he, Abby, and Linda camp for a brief time in the woods before the lawmen find and kill Bill.
+
+<!-- -->
+
+- Since all the encampments in this film are in the jungle, all qualify in this category.
+
+**WINDOWS (CHARACTERS WHO LOOK FROM)**
+
+- The rich man's maid looks out an upper-story window before answering the door and letting Kit and Holly in.
+
+<!-- -->
+
+- Abby looks out an upper-story window of the Farmer's house.
+
+<!-- -->
+
+- A soldier on the transport to Guadalcanal looks out of a porthole.
+- Marty looks out the window when her lover is in bed with her.
+
+**ZIG-ZAGGING WHILE RUNNING**
+
+- Kit moves left then right while shooting at the law in the wilderness near the camp site.
+
+<!-- -->
+
+- Bill does the same thing near his camp site.
+
+<!-- -->
+
+- Witt runs from left-to-right across the screen through a wooded thicket while carrying his rifle to distract the Japanese soldiers away from the rest of the American soldiers, resulting in his death.
+
+Go to [Part 1](simlist.html)
+
+[Back to the main Terrence Malick page](index.html)
+
+![](email.gif) [Email me!](mailto:toates@eskimo.com)

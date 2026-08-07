@@ -1,0 +1,84 @@
+---
+title: "Indictments"
+source_domain: amasci.com
+source_path: ~rarnold/indictments.htm
+order: 6379
+reachable_from_entry: false
+images: 1
+internal_links: 8
+extracted: 2026-08-07T05:59:11Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Indictments
+
+*Source page: `~rarnold/indictments.htm`*
+
+**<img src="cover.gif" width="619" height="30" alt="Center for the Defense of Free Enterprise" />\**
+**<a href="index.html" style="text-decoration: none">HOME</a>    <a href="issues.htm" style="text-decoration: none">ISSUES</a>    <a href="opposition.htm" style="text-decoration: none">OPPOSITION</a>    <a href="projects.htm" style="text-decoration: none">PROJECTS</a>    <a href="defenders.htm" style="text-decoration: none">DEFENDERS</a>    <a href="wiseuse.htm" style="text-decoration: none">WISE USE</a>    <a href="book_store.htm" style="text-decoration: none">BOOKSTORE</a>    <a href="archive.htm" style="text-decoration: none">ARCHIVE</a>**\
+ 
+
+**ENVIRONMENTALIST** **INDICTMENTS, INFORMATIONS AND WARRANTS**
+
+An INDICTMENT is an accusation of committing a crime, issued by a grand jury. In some countries, indictments are issued by an Information of Indictment, as below, rather than by a grand jury.
+
+An INFORMATION is an accusation of committing a crime, issued by a prosecutor or competent public officer without the intervention of a grand jury.
+
+A WARRANT is a written order by a court authorizing search or arrest relating to a crime.
+
+Many environmentalists have been indicted by grand juries, accused of crime by an information, or served with a warrant for search or arrest on diverse charges. All suspects are innocent until convicted in a court of law.
+
+March 11, 1997. Six pipe bombs exploded at 1:45 a.m., causing \$750,000 in damage to the Fur Breeders Agricultural Co-op, a mink-feed factory at 8400 S. 700 West, Midvale, Utah, near Salt Lake City. The pipe bombs with fuses were detonated in the building and under five semi-tractor trailers in the parking lot of the factory, causing about \$750,000 damage. The second floor of the main building, which contained the administrative offices, was gutted by fire. The two families that had lived on the site were not injured in the blasts.\
+The Animal Liberation Front claimed responsibility.\
+On June 19, 1997, Douglas Joshua Ellerman, 19, last known address in South Salt Lake, was indicted in U.S. District Court on 16 counts of bombing the feed factory. Four counts involved explosions that burned the Co-op. Seven counts stem from the bombing of the semi-tractor trailers, and four involve the construction of a bomb. The final count alleges use of a bomb in a violent act.\
+Salt Lake Area Gang Project Detective Brent Larsen described Ellerman as "very anti-establishment, very anti-cops. He is a vegan and violent. He's been in several fights and aggravated assaults."\
+Ellerman has been returned to custody in Salt Lake City. He is said to be engaged in working out a plea agreement with prosecutors.\
+Ellerman was reported to have became a member of the anti-drug, anti-sex group Straight Edge when he was 15 years old. The group adopts close-cropped haircuts and body piercings. Next, Ellerman became a vegan, swearing off all animal byproducts, including eggs and milk. Then he joined the violent animal-rights terrorist group, Animal Liberation Front.\
+Detective Larsen believes the ALF may have been hiding Ellerman. "It's a strong underground network," he said. "We have kids clear up in Seattle \[Wash.\] and Nashville \[Tenn\]. I'm sure they could hide him out."\
+Bureau of Alcohol Tobacco and Firearms Special Agent B.J. Zapor said "the indictment is not the conclusion of the investigation. It is ongoing."\
+Ellerman was convicted and is serving a seven-year sentence in federal prison.
+
+1998 In 1997, an information to obtain a search warrant was presented by Constable Warren Leigh Ryan, officer of the Royal Canadian Mounted Police, before a Justice of the Peace to search certain premises of Darren Todd Thurston, 27, and David Nathan Barbarash, 31. Items found in the search were held as evidence.
+
+On March 27, 1998, the RCMP laid charges against Darren Todd Thurston and David Nathan Barbarash, with a total of 30 charges of sending razor blades through the mail.
+
+Barbarash and Rebecca Rubin, age 23, of North Vancouver, were charged jointly with one count of possession of an explosive substance.
+
+Barbarash was also charged with possession of a prohibited weapon, a stun gun.
+
+Thurston was charged with one count of personation, for purposes of fraudulently entering the United States, under section 403 of the Criminal Code of Canada.
+
+Barbarash was arrested in Vancouver on March 25, 1998 and released on bail. Thurston surrendered to police on Friday, March 28, 1998, and released on bail. Rubin had not appeared in court at last report.
+
+Barbarash and Thurston maintain their innocence on all charges, asserting police have wronged them. They are innocent of all charges until proven guilty in a court of law.
+
+Both Thurston and Barbarash have previous ecoterror convictions. In June of 1992 Barbarash and Thurston were charged and convicted in relation to damage of a University of Alberta research facility. Thurston was charged and convicted in relation to the destruction of several trucks belonging to the Billingsgate Fish Company. Both served prison sentences.
+
+Barbarash left Canada to the United States where he was captured in Scotts Valley California. In May of 1994 he was arrested by Scotts Valley Police and the Federal Bureau of Investigation while in the company of activist Jonathan Paul. Paul's sister, Alexandra Paul of *Baywatch* television fame, joined Earth First in an Oregon protest against the China Left timber sale.\
+After his arrest Barbarash was deported to Canada.
+
+During a search of property belonging to Thurston in 1992, the RCMP said it found an assault rifle, ammunition and two hand grenades belonging to Thurston.
+
+Barbarash asserts that Thurston's firearm was legally registered and that there was only one hand grenade, which was a dummy used as a desk ornament.
+
+Thurston and Barbarash are suspected of being part of several extremist environmental groups, including Earth First, the Animal Liberation Front, the Justice Department, the Militant Direct Action Task Force and perhaps the "David Organization" that made death threats to Chief Justice Allan McEachern of the British Columbia court system. Barbarash strongly denies any connection with groups that do violence against living beings, emphatically stating his rejection of violence against any living being.
+
+Earth First Journal published a 1994 letter of David Barbarash to fellow Earth Firsters:
+
+"Greetings from a Northern Alberta Concrete Bioregion. FELLOW ELVES Remember! WE ARE IN HERE FOR YOU; YOU ARE OUT THERE FOR US.
+
+At publication date, I will have been here in this jail two months - captured almost three months ago in Scotts Valley California - with one month to go before my Preliminary Hearing on August 31. I have been denied bail on two charges relating to the liberation of 29 cats from the University of Alberta on June 1, 1992. The charges are Breaking and Enter/Theft over \$1000 and Mischief. The Crown Attorney says I'll disappear into the "animal rights underground" should I be given half a chance, even though I haven't any "failure to appear" on my record. The judge apparently agreed, also saying that the "zealousness" of my beliefs is "frightening," and that I most certainly pose a "danger to the public." For saving animal lives? Yeah, right.
+
+I hold a minor celebrity status in this jail, being the resident "terrorist." (Filling in the space left behind by Darren Thurston, who spent 15 months in here). Life here trudges on, and if I'm lucky the days go by rather quickly. Good books, gym, or perhaps that sacred but illusive hour of "outside yard" where I can breath fresh air, are some of the factors which determined the speed. If it's a really good day, I'd have received a whole pile of letters, which is my real sustenance here - no guilt trips intended, just stating my reality. Letters are my only connection to the real world, and my deepest thanks and love to all who've written. Your words, thoughts and prayers are incredibly appreciated!
+
+My overall thoughts about this situation are that, yes, life's a drag right now. Prison sucks, no doubt about it, but you can live through it. The thought of spending time in a pit like this should not deter anyone from taking the action that this planet needs for its survival. The fuckers might have my physical body for a short period of my lifetime, but they'll never have my spirit. I'll eventually be free, and I'll still have my mind, my determination and my will. And they can't stop what's been started; they can't stop the struggle which is raging across this beautiful globe. ("They" - those who are, quite simply, wrong about what life is all about).
+
+What it comes down to, I believe, is that they're scared. They know our potential, even if most of us don't. They know the threat we pose to their bullshit way of life. Why else were they so fully armed to make my arrest, or to search, commando style, Red's cabin in Southern Oregon, or persist in their fishing trip Grand Juries and imprison activists without laying charges? Because they're frightened. They're scared of the force we can become if we really wanted to.
+
+We humans are now (and have been for a while) poised on the precipice of a major cliff, doing a balancing act with the natural world, with the wild and with the critters. We will either climb higher or we'll stumble and fall. The fuckers are doing their most to push us over: prison; intimidation of ourselves, friends and families; burning down our homes; beatings; attempts on our lives and in some cases successful ones. It's obvious to me they're becoming desperate. It's obvious to me that we need to gain the upper hand.
+
+You've heard it before, and I'm not afraid of proclaiming it: Let's hit them where it hurts the most. Figure it out. Be secure. Be tribal. Go for the jugular. There are many options to focus on; it doesnt matter where, so much, as it matters when - time is running out. Our lives on this Earth are but the blink of an eye in the time and age of this planet. But our actions in this day will have an effect which could determine the future.
+
+My brother and sister warriors, I love all of you courageous spirits. My prayers and magic are with you on the front lines. Soon, I will rejoin you there. Until then, give a howl for all of us prisoners! Remember those of us who are running and acting and still free, and be proud and supportive of each other. Keep in touch, my family. Hoka Hey! Geronimo Lives Forever!
+
+P.S. Special greetings and love for my tribe, living among the rivers and mountains and sage and sun. I miss you all dearly. Be safe. Love each other.

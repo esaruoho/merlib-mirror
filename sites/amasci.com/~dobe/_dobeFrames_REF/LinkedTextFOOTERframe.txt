@@ -1,0 +1,6 @@
+LinkedTextFOOTERframe.htm 
+
+ Filename: "LinkedTextFOOTERframe.htm" 
+ Displayed in composite window called from: 
+ 0_TOC_Frame_Target_dobeTutAll.htm 
+ in: (target="FOOTER_frame")

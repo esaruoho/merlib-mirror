@@ -1,0 +1,224 @@
+---
+title: "SMALLnet post440"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post440.html
+order: 8129
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:39Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post440
+
+*Source page: `~smallnet/Archive/post440.html`*
+
+## SMALLnet Posting post440
+
+------------------------------------------------------------------------
+
+**Date: Tue, 1 Feb 2005 00:32:31 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+David Thompson \< 
+
+ \> submitted:
+
+I am new to the net and would like to give everyone an idea of what our activities are here in Longview, TX. We are very definitely addicted to fun flying rubber power models. What kind? Well, any kind, since we enjoy building and then trying to fly them. Right now we have seven models we can take to the flying sites, ranging from an old Midwest Jabberwock with a single-blade folding prop, down to an Island Flyer and even a couple of what I call "Mo-Cal" profile jobs.
+
+The son, who is Air Force retired, lives over the state line in Shreveport and sometimes we go flying over in that area. He is interested in HLG activity along with rubber power. We try to get together once a week (weather permitting) and have a fun fly.
+
+We are looking forward to the next good weather period since there are two planes that need to get some testing done. One is a scratch-built, newly-designed rubber job that needs to get trimmed out. It has a 24-inch wingspan and is powered with a 10 1/2-inch single-blade folding prop.
+
+The other is a Herr Super Cub, built as a landplane version. It has just had a 10-inch single-blade folding prop installed and now must be tested.
+
+That is what we are up to, and we would like to hear from any others in the immediate region that enjoy a good fun fly day.
+
+Dave Thompson Longview,TX
+
+Larry Renger \< 
+
+ \> announces:
+
+If you go to Amazon.com and the toy section, do a search on "Jasman" and "airplane". They have the Vroom-Zoom that I mentioned in the last Posting for sale at \$10!!! And I thought it was a steal at \$30.
+
+Larry Renger - Toy Design Dude
+
+Steve Vincent \< StvVinc (AT) aol : com \> wonders:
+
+I'm an old timer who is going to try this hobby again. I've been away for 2 or 3 years. I always went the fuel route; going electric this time. Can anyone tell me about the Lazy Bee ARFs? I always got along well with them as kits. Don't have time to build anymore, and want to try electric power.
+
+Also, can anyone tell me a good setup for motor-speed control, batteries, etc.? I'd be thankful for any help. Steve V
+
+<div class="Joe">
+
+...Steve, check out Ron Fikes' submission, which follows. \[JW\]
+
+</div>
+
+Ron Fikes \< 
+
+ \> contributed:
+
+I don't remember who asked, but I found an article on "Whip Control" planes -- "COBRA/KINGFISHER" by Dave Kingman. It is in the September 1978 Model Builder magazine. It is built as a Whip Control, then as you get used to flying it, the nose is cut off and a Babe Bee .049 is installed - then fly on longer lines -- Neat!
+
+I fly electrics and noticed an interest by many SMALLsters in this great power option. I am the moderator of an electric Yahoo! site that has lots of good files and links. You are invited to join (free) and avail yourself of the information (electric flyers are a great bunch). Go to:
+
+\< <http://groups.yahoo.com/group/RSAelectricflyers/> \> and click on "join this group".
+
+Enjoy, Ron Fikes Palo Alto, California
+
+Curtis Mattikow \< 
+
+ \> wrote:
+
+I have quite a few of the Guillow "Shelf Model" kits up on eBay... check under the seller name = "easytiger", or just search "guillows 10 cent kits" and see what I mean. Fun little kits, they are...
+
+All the best, Curtis
+
+Ian L. McQueen \< 
+
+ \> suggests:
+
+Derek Lee said he's looking for an OK Cub .049 or a K&B Torp Junior .035.
+
+I am under the impression that the Cub engine is still available from the manufacturer. Try a search under Cub and Herkimer, the name of the manufacturer. I think that I've seen the occasional ad in a magazine, but I am months behind in my reading. Flying Models would be the most likely magazine for them to advertise in.
+
+Ian McQueen
+
+<div class="Joe">
+
+...Ian, I've just checked three recent issues of FM, and couldn't find any OK Cub ads. \[JW\]
+
+</div>
+
+Pat Tritle \< 
+
+ \> reports:
+
+In response to Leonard Rozamus's inquiry on the Dumas L-19: The good folks at Dumas are working on the kit development for the L-19, Waco ARE, and the Pilatus PC-6 right now. I can't speculate on a shipping date, but it should be fairly soon now. I also saw a new product notice in Back Yard Flyer the other day, that's also a good sign that the wait is about over.
+
+On a completely unrelated subject, since the passing of the Centennial of flight in '03, we don't see much on early aviation anymore. But, with my seemingly incurable addiction to weird airplanes, I've continued to dabble in the early Wright designs.
+
+A couple of weeks ago I got the first successful flights on the Wright Model "B". Now, I'm not going to try to tell anyone that it doesn't have its vices, but it sure is easier to fly than the early canard designs.
+
+Since then, I've logged 8 very successful "trim" flights on the 42" model, and have it pretty well noodled out. Hopefully I'll be finishing up the plans real soon.
+
+Though there's no doubt that it's a Wright Flyer, the model flies completely differently than the '03 and the 1910 Military Flyer. Like the other two, it DOES NOT like to turn left, even using counter-rotating props. If she banks left more than about 5 degrees, she'll enter a nearly unrecoverable side slip, while steadily losing altitude.
+
+But, if you keep the RH bank and the angle of attack shallow, and keep the power on, she'll come around just fine.
+
+So far, I haven't ventured up more then 10 or 15 feet as the orientation gets a little weird, and flown within it's "happy envelope", the model really flies very well. However, calm flying conditions are the order of the day, as if it starts to get cockeyed, it's best to just get it down, as getting "back in the groove" is a lot trickier the "getting into the groove" in the first place. Anyhow, I love flying these quirky old birds. It's a challenge you just can't get anywhere else! PAT
+
+Roman Bukolt \< 
+
+ \> sent:
+
+Speaking of the K & B Infant, I still have mine complete with the metal prop. You can change the pitch to whatever you want. Easy to bend aluminum. As I recall, (from about 40-50 years ago) that engine was so weak on power I could run the engine by holding it between my fingers. I mean no engine mount, just the bare engine in my hand. I did know enough to keep my fingers out of the running prop.
+
+My best performing small glow engine back then was my Anderson .045. Flew a lot of scratch built U-control on 25-ft. nylon lines. Still got that one too including the original Anderson wood prop.
+
+On to the Pronto by Dave Robelen. Glad to see he's still active in the small models and has his own magazine column. When he first started producing his kits, I was the one who cut his parts (Concept Models). In addition to the Pronto, we cut the Super Pronto, and one or two other variations of the Pronto-like design. I'm sure I must still have the plans for these planes.
+
+I have a "new in the box" O.S..20 FS which hasn't been run yet. Rumor has it that it doesn't have much power compared to the "new and improved" O.S..26 FS. But maybe it'll fly the Pronto. I guess I'll have to dig out the plans and give them another look.
+
+I had been debating about building one of my Ace All Star bipes and putting the 20 FS in it. The plane is best suited for a 2-stroke .15, but I know I flew the first prototype on rudder-only with a TD 049 -- so I would think the FS 20 ought to pull it.
+
+I figure I'll build it light and try a few ideas including Brushless/LiPo combo.
+
+My interest still runs the full spectrum of models from small indoor electrics, ARFs, scratch builts, on up to the Quarter-Scale Fleet biplane. I'm amazed that after 26 years with no design or manufacturing changes, that the Fleet kit still sells. One customer just bought two this week.
+
+So nice to see SMALLnet back in operation.
+
+Romey Bukolt, Concept Models
+
+Jon McVay \< 
+
+ \>
+
+Had several of the Infants. Mostly used in converted Speedee-Bilt airplanes that we flew as indoor control-line models at the University of Minnesota back in the early 50's. I was in my mid- teens at the time.
+
+My two favorites were the Ercoupe and the Boeing Kaydet (Stearman). Then along came the Firebabies, and we flew the stuffing out of them. First one I flew had a Cub .039, which I still have in my possession.
+
+Another Infant-related story: I was flying a Midwest Sniffer freeflight at a field where the Mall of America now stands. Airplane drifted right to the edge of the field which was bordered by Cedar Avenue.......car comes along, guy jumps out, grabs the airplane and takes off in his car. Longest OOS flight I ever had.
+
+Jon McVay
+
+<div class="Joe">
+
+...Good news on the adhesive front. I've been experimenting with Titebond's new products: the "II" and "III" versions.
+
+I was delighted to find that Titebond II completely lacks the brittleness that caused me to curse at & abandon the original Titebond (and its clones).
+
+Titebond III isn't easy to find. I was finally able to obtain a bottle at a Lowe's. The manufacturer's ads claim that this is the strongest & most weatherproof of all the Titebond varieties. I believe that -- but I was mostly concerned about possible brittleness and sandability.
+
+I can now report that T.III cures with about the same flexibility as "Wilhold" (the original "white glue"). But it sands WAY more easily. It still has a kind of "dried bubble gum" feel under the sanding block, but it shows no tendency to shred and "pull" even when I sanded a deliberate blob with 80-grit paper...
+
+The main reason I did these tests was that I'm unhappy (again) with Ambroid. The last two tubes I bought just don't have that old-time consistency. It's more like clear dope than cement. Whenever I use it on balsa, I don't feel safe unless I TRIPLE-glue the joints. That's bothersome...
+
+Next step will be to modify another of those little square "eyedropper-top" bottles (obtainable CHEAP from American Science & Surplus) to use for applying T.III with a brush.
+
+First, however, I'd better check out the behavior of this glue when it's thinned out. As supplied, it's "thixotropic" -- i.e. it won't run off a sloping surface. It's too viscous to be readily brushable -- like into the rib notches in trailing edges.
+
+The Titebond III instructions claim it's necessary to clamp the pieces being joined while the glue cures (a half-hour, they say -- but also advise against loading the joint until 24 hours after glue-up).
+
+I had a need to glue a vibration-damping "gusset" onto an engine test mount I made. I had to glue that gusset into place non- clamped: there was no convenient way to place any clamps. I let the assembly cure a couple of days; then found that the joints were nicely cured. But I was surprised to see that the pale yellowish T.III had turned a dark-as-tea brown where excess glue had collected in an area I couldn't reach to scrape away the surplus glue while it was still wet...
+
+I think T.III will make an excellent glue for HLG wings and catapult gliders. The necessary butt joints in those take TREMENDOUS punishment. \[JW\]
+
+</div>
+
+Brian Sodt \< 
+
+ \> asked \[JW\] in personal e-mails about 1/2A fuel tanks, and about using Fuji's 35mm film canisters for that purpose. Here's a condensation of my replies:
+
+<div class="Joe">
+
+...Fuel tanks have ALWAYS been problematical for us power flyers. I've used just about EVERYTHING possible for model fuel tanks -- no, I won't enumerate 'em all! -- and every one has had at least one drawback.
+
+Let's rule brass tanks out completely. Brass (and zinc) catalyzes glow fuel into acetic acid. That's a potent rust inducer.
+
+Plastic tanks of ALL types have the characteristic of non- permanence. Though their material (polyethylene usually) isn't dissolved by anything in glow or diesel fuel, its plasticizers leach out over time and cause cracking anywhere that stress is exerted on the tank. ANYWHERE !!!
+
+Luckily, you're interested mainly in small-size tanks, and from your message it looks like a Fuji film canister has enough capacity for the use you have in mind.
+
+I've used those film canisters myself, and so have some of my friends. The main problem I've experienced with them is that whenever I've used force-fit rigid tubing (metal or nylon) for the fuel lines, eventually the tank plastic splits at the holes.
+
+However, I have a solution. It requires some "tooling", but it WORKS.
+
+The idea is to use flexible plastic tubing for the "through the tank wall" lines. I like the thin-wall Tygon tubing that Eric Clutton sells -- \$2 a foot I think the price is. But vinyl will also work, and though I've never tried it, probably silicone tubing would be OK too.
+
+Whatever your choice, you need to determine what size hole in the tank will provide a leakproof seal around the flex tubing -- and still allow that flex tubing to be installed.
+
+I cut off an end of the flex tubing at a "long angle", to provide a "spear point" for entering the undersize hole. To find out what exact size that hole needs to be, I use a tool-steel "drill gage plate" (part of my heritage as a machinist during WW2).
+
+When I find the right hole size, I clamp a block of aluminum to my drill press table -- actually I clamp it in my drill press VISE, which is then clamped to the table. This clamping is IMPORTANT -- don't leave home without it!
+
+I drill the proper size hole in the aluminum block; then remove the drill bit and grind its "butt end" carefully to a flat, angled at maybe 30 degrees from the straight-across position. This makes it into a "shear punch".
+
+Reversing the drill bit in the chuck, I can now use it (with the drill press chuck NOT rotating!) to punch accurate (and smooth-edged) holes in the film canister top -- with the aluminum block acting as a "shear die" underneath.
+
+I hope I've made the process clear.
+
+Now for the "clunk" and vent tube. It's not necessary for the full length of the fuel pickup tube to flex. I've found that a piece of aluminum tube with a weighted end works fine, pushed into the inner end of the thin-wall Tygon tubing inserted through the tank top. All the flexure then occurs within a quarter-inch segment of the plastic tubing, next to the inside of the tank cap.
+
+I make my clunk weights from fishing sinkers. Those come in various sizes, and are fairly easy to rework with a through hole on centerline. Sanding the outside of the aluminum tube and using slow-setting epoxy to glue the weight to the tube works OK for me. (So far.)
+
+The vent tube is another bit of aluminum tubing bent to a 90-degree curve and inserted into the Tygon tubing -- but NOT passing through the tank lid! (That might cause splitting.)
+
+By the way, two or more of these film canister tanks can be connected in tandem for extra capacity. I used to do that sort of thing to add an auxiliary tank to the stock tank mount of a Black Widow type engine. (The old BW design, NOT the greatly- cheapened new style.) \[JW\]
+
+</div>
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

@@ -1,0 +1,47 @@
+---
+title: "Index of /elect"
+source_domain: amasci.com
+source_path: elect/index.html
+order: 770
+reachable_from_entry: false
+images: 26
+internal_links: 8
+extracted: 2026-08-07T05:54:19Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Index of /elect
+
+*Source page: `elect/index.html`*
+
+# Index of /elect
+
+     Name                    Last modified       Size  Description
+
+     Parent Directory        21-Aug-2003 22:42      -  
+     charge1.html            16-Sep-2002 12:39    11k  
+     coil1.gif               20-Nov-2000 19:55     2k  
+     coil2.gif               20-Nov-2000 19:55     2k  
+     coil3.gif               20-Nov-2000 19:55     2k  
+     coil4.gif               20-Nov-2000 19:55     2k  
+     coil5.gif               20-Nov-2000 19:55     2k  
+     coil6.gif               20-Nov-2000 19:55     3k  
+     coil7.gif               20-Nov-2000 19:55     3k  
+     coil8.gif               20-Nov-2000 19:55     2k  
+     coil9.gif               20-Nov-2000 19:55     3k  
+     coila.gif               20-Nov-2000 19:55     2k  
+     coilb.gif               20-Nov-2000 19:55     2k  
+     coilc.gif               20-Nov-2000 19:55     2k  
+     coild.gif               20-Nov-2000 19:55     2k  
+     coile.gif               20-Nov-2000 19:55     3k  
+     coilf.gif               20-Nov-2000 19:55     3k  
+     elefaq.html             04-Jun-2003 12:55     7k  
+     elefaq1.html            14-Aug-2003 18:05    66k  
+     mcoils.html             20-Nov-2000 21:20     8k  
+     poynt/                  02-Sep-2002 14:47      -  
+     temp                    04-Jul-2002 16:13     1k  
+     tinyhole.html           14-Nov-2000 19:46     6k  
+     vwatt1.html             30-Jun-2003 22:02    28k  
+     vwatt1.html.save        29-Apr-2002 04:37    17k  
+
+------------------------------------------------------------------------

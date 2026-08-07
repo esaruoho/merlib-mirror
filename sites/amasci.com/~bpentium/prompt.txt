@@ -1,0 +1,4 @@
+My DOS Prompt 
+
+ Microsoft (R) Windows 95 (C) Copyright Microsoft Corp 1981-1995 
+ C:\ _

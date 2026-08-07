@@ -1,0 +1,182 @@
+Unicode character entities: Arrows 
+
+ Unicode Character Entities:
+ Arrows 
+ Character Ranges 
+
+ Unicode Index 
+ ISO 8859-1 Index 
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ = Index DOT Html 
+ by Brian Wilson 
+ = 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 
+
+ Main Index |
+ Element Tree |
+ Element Index |
+ HTML Support History 
+
+ Character 
+ &#160;&#160; 
+ Numbered Entity 
+ &#160;&#160; 
+ Named Entity 
+
+ Unicode Position 
+ Description 
+
+ Entity Number 
+ HTML Result 
+ Standards/Browser Support 
+
+ Entity Name 
+ HTML Result 
+ Standards/Browser Support 
+
+ 2190 
+ Leftwards arrow 
+ &#8592; &#8592; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] &#160; 
+ &larr; &larr; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] &#160; 
+
+ 2191 
+ Upwards arrow 
+ &#8593; &#8593; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] &#160; 
+ &uarr; &uarr; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] &#160; 
+
+ 2192 
+ Rightwards arrow 
+ &#8594; &#8594; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] &#160; 
+ &rarr; &rarr; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] &#160; 
+
+ 2193 
+ Downwards arrow 
+ &#8595; &#8595; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] &#160; 
+ &darr; &darr; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] &#160; 
+
+ 2194 
+ Left right arrow 
+ &#8596; &#8596; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] &#160; 
+ &harr; &harr; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] &#160; 
+
+ 21B5 
+ Downwards arrow with corner leftwards; 
+ Carriage return symbol 
+ &#8629; &#8629; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] &#160; 
+ &crarr; &crarr; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] &#160; 
+
+ 21D0 
+ Leftwards double arrow 
+ &#8656; &#8656; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] &#160; 
+ &lArr; &lArr; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] &#160; 
+
+ 21D1 
+ Upwards double arrow 
+ &#8657; &#8657; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] &#160; 
+ &uArr; &uArr; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] &#160; 
+
+ 21D2 
+ Rightwards double arrow 
+ &#8658; &#8658; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] &#160; 
+ &rArr; &rArr; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] &#160; 
+
+ 21D3 
+ Downwards double arrow 
+ &#8659; &#8659; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] &#160; 
+ &dArr; &dArr; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] &#160; 
+
+ 21D4 
+ Left right double arrow 
+ &#8660; &#8660; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N4 | O6 ] &#160; 
+ &hArr; &hArr; 
+ &#160; 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE4B2 | M | N6B1 | O6 ] &#160; 
+
+ Boring Copyright Stuff...

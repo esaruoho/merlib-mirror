@@ -1,0 +1,1144 @@
+---
+title: "THE PROMETHEUS SOCIETY"
+source_domain: amasci.com
+source_path: ~miyaguch/MCReport/mcreport1.html
+order: 5052
+reachable_from_entry: false
+images: 15
+internal_links: 0
+extracted: 2026-08-07T05:58:06Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# THE PROMETHEUS SOCIETY
+
+*Source page: `~miyaguch/MCReport/mcreport1.html`*
+
+**Prometheus Society**
+
+<img src="Image152.jpg" width="461" height="645" />
+
+**1998/99**
+
+**Membership Committee**
+
+**Report**
+
+------------------------------------------------------------------------
+
+***THE PROMETHEUS SOCIETY***
+
+***Ignis Aurum Probat***
+
+**Officers (at the time of the report)**
+
+**Fred Vaughan       --         president**
+
+**Robert Dick -- membership officer**
+
+**Fred Britton         --          treasurer**
+
+**Guy Fogleman     --     ombudsman**
+
+ 
+
+**1998/99 Membership Committee Report**
+
+**© The Prometheus Society**
+
+**P. O. Box 24513**
+
+**Federal Way, WA 98093 USA**
+
+**All rights reserved.**
+
+**Edition: 1<sup>st</sup>, 2<sup>nd</sup>, 3<sup>rd</sup>, 4<sup>th</sup>, 5<sup>th</sup>, 6<sup>th</sup>, 7<sup>th</sup>, 8<sup>th</sup>, 9<sup>th</sup>, 10<sup>th</sup>**
+
+ \
+**Extra copies of the report may be purchased by remitting the indicated purchase price to the Treasurer.**
+
+**The Prometheus Society Membership Committee Report is copyrighted by the Prometheus Society. This report nor any portion thereof shall be republished in any form without the express permission of the Society as indicated in writing by the President.**
+
+**By previous agreement of the members of this committee (including all officers of the Prometheus Society) with Darryl Miyaguchi (also one of our committee members), Darryl will have rights to publish this report on his website with all other rights and privileges being retained exclusively by the Prometheus Society.**
+
+**This material is presented for the membership of the Prometheus Society in determining whether to accept the recommendation resulting from the deliberations of the 1998/99 Membership Committee deliberations.**
+
+**Neither the Prometheus Society nor the Membership Committee warrant this material beyond its intended use. We do not maintain that there are no errors in this document. It is simply the best that we could do within the limitations of time and resources that were available to us.**
+
+***Prometheus web site:*** [http://prometheus.wwwh.com/](http://prometheus.wwwh.com/__)
+
+***Report on-line:*** [http://prometheus.wwwh.com/](http://prometheus.wwwh.com/__)subscribers/mcreport/html/
+
+**For the *User identification* and *Password* to restricted areas of the web site where the Membership Committee Report is available, you may contact the Web Site Coordinator Fredrik Ullén.**
+
+** **
+
+** **
+
+------------------------------------------------------------------------
+
+**TABLE OF CONTENTS**
+
+**I.   [Purposes](#IPURPOSE)** **4**
+
+**II.  [Appointments to the Committee](#IICOMMITTEE%20APPOINTMENTS)** ... **5**
+
+**III. [Authority and Role of the Membership Committee](#IIIAUTHORITY%20AND%20ROLE%20OF%20THE%20MEMBERSHIP)** **6**
+
+**IV. [Committee Operating Procedures](#IVCOMMITTEE%20OPERATING%20PROCEDURES)**.. **7**
+
+**V. [Recommendation](#VRECOMMENDATION)** ..  **8**
+
+**VI. [Action Items](#VIACTION%20ITEMS)**.. **10**
+
+**VII. [Schedule](#VIISCHEDULE)**.......... **11**
+
+**VIII. [Issues to be Addressed](#VIII.%20ISSUES%20TO%20BE%20ADDRESSED)**.........  **12**
+
+**8.1 [Operating Definition of Prometheus Society Entry Conditions](#8.1%20Operating%20Definition%20of%20Prometheus%20Society)   12**
+
+**8.2 [Definition of the Scope of Membership Committee Evaluations](#8.2%20Definition%20of%20the%20Scope%20of%20Membership)     14**
+
+**8.3 [Review of Historical Entry Criteria](#8.3%20Review%20of%20historical%20entry%20criteria)   16**
+
+**8.3.1 [Assessment of Current Prometheus Membership Intelligence Credentials](#8.3.1%20Assessment%20of%20Current%20Prometheus%20Membership) .   16**
+
+**8.3.2 [Review of Compromise and Erosion Threats](#8.3.2%20Review%20of%20compromise%20and%20erosion%20threats%20and) .  16**
+
+**8.3.3 [Surveys of Capabilities and Comparisons](#8.3.3%20Surveys%20of%20capabilities%20and%20comparisons%20of) .    18**
+
+**8.4 [Review of Norming Analyses of Currently Accepted Tests](#8.4%20Review%20of%20norming%20analyses%20of%20currently)     21**
+
+**8.4.1 [Mega Test](#8.4.1%20Mega%20test) .   21**
+
+**8.4.2 [Mega27 Test](#8.4.2%20Mega27%20--%20A%20Short%20Form%20of%20the%20Mega%20Test) .  30**
+
+**8.4.3 [Titan Test](#8.4.3%20Titan%20test) .   33**
+
+**8.4.4 [Langdon Adult Intelligence Test](#8.4.4%20LAIT%20(scored%20before%20Dec.%2031,%201993)) .    35**
+
+**8.5 [Scholastic Aptitude Test](#8.5%20Scholastic%20Aptitude%20Test%20(SAT)%20--%20the%20data%20and)   37**
+
+**8.5.1 [Background Data](#8.5.1%20Background%20data) .    37**
+
+**8.5.2 [SAT Data Correlations with IQ](#8.5.2%20The%20SAT%20data%20correlations%20with%20IQ) .  37**
+
+**8.5.3 [Cautionary Notes and Considerations](#8.5.3%20Cautionary%20notes%20and%20considerations) .   37**
+
+**8.5.4 [SAT Intelligence Filter](#8.5.4%20Intelligence%20filter%20operative%20in%20selection) .    39**
+
+**8.5.5 [Ability of SAT to Discriminate at the High End](#8.5.5%20The%20ability%20of%20the%20SAT%20to%20discriminate%20at) .   41**
+
+**8.5.6 [Establishing 1-in-30,000 Cutoff for "Old" SAT](#8.5.6%20Establishing%20a%20credible%201-in-30,000%20of%20the) .   42**
+
+**8.6 [Additional Alternative Tests](#8.6%20Consideration%20of%20Additional/Alternative%20Tests)   43**
+
+**8.6.1 [Mensa Testing Approaches](#8.6.1%20Mensa%20testing%20approaches) 43**
+
+**8.6.2 [Cattell Culture Fair III](#8.6.2%20Cattell%20Culture%20Fair%20III) .   43**
+
+**8.6.3 [Ravens Advanced Progressive Matrices](#8.6.3%20Raven's%20Advanced%20Progressive%20Matrixes%20(RAPM)) .  44**
+
+**8.6.4 [California Test of Mental Maturity](#8.6.4%20California%20Test%20of%20Mental%20Maturity%20(CTMM)) 47**
+
+**8.6.5 [Graduate Record Examination](#8.6.5%20Graduate%20Record%20Examination%20(GRE)) .. 48**
+
+**8.6.6 [Miller Analogies Test](#8.6.6%20Miller%20Analogies%20Test) 50**
+
+**8.6.7 [Wechsler Adult Intelligence Scale - Revised](#8.6.7%20WAIS-R%20(Wechsler%20Adult%20Intelligence) .. 50**
+
+**8.6.8 [Stanford-Binet Intelligence Scale](#8.6.8%20Stanford-Binet%20Intelligence%20Scale) 51**
+
+**8.6.9 [Concept Mastery Test](#8.6.9%20CMT%20(Concept%20Mastery%20Test)) . 54**
+
+**8.7 [Chronometric Testing](#8.7%20Chronometric%20testing) 55**
+
+**8.7.1 [Some Background on Chronometrics](#8.7.1%20Some%20background%20on%20Chronometrics) 55**
+
+**8.7.2 [Correlation of Chronometric Measurements and Intelligence](#8.7.2%20Correlation%20of%20chronometric%20measurements%20and) 55**
+
+**8.7.3 [Additional References](#8.7.3%20Additional%20references) .. 56**
+
+**8.7.4 [Thinkfast<sup>TM</sup>, the Game](#8.7.4%20ThinkfastTM,%20the%20game) 56**
+
+**8.7.5 [Thinkfast<sup>TM</sup>, the Game as a Psychometric Instrument](#8.7.5%20ThinkfastTM,%20the%20game%20as%20a%20psychometric).. 57**
+
+**8.7.6 [The Selective Filter Involved in Thinkfast<sup>TM</sup> Score reporting](#8.7.6%20The%20selective%20filtering%20involved%20in) 58**
+
+**8.7.7 [Discussion of Perceived Problems with Thinkfast<sup>TM</sup>](#8.7.7%20Discussion%20of%20perceived%20problems%20with) .. 59**
+
+**8.7.8 [Thinkfast<sup>TM</sup>, Ability to Discriminate at the 1-in-30,000 Level](#8.7.8%20ThinkfastTM,%20the%20game%20--%20its%20ability%20to) 61**
+
+**8.7.9 [One Year Trial Recommendation](#8.7.9%20One%20year%20trial%20recommendation) 61**
+
+**8.8 [Development of Unique -- Elo-Like Scoring](#8.8%20Development%20of%20unique%20capabilities%20--%20Elo-like).. 62**
+
+**8.9 [Explore Cmbinational Approaches](#8.9%20Explore%20combinational%20approaches)  62**
+
+**8.10 [Review Phrasing of Intelligence Claims in Prometheus](#8.10%20Review%20the%20phrasing%20of%20intelligence%20claims%20in) . 63**
+
+**IX. [Definition of Terms](#IX.%20DEFINITION%20OF%20TERMS)** 64
+
+**X. [Mathematical Concepts and Methods Appendix](#XI.%20MEMBERSHIP%20COMMITTEE%20RESUME%20DATA)** 74
+
+**XI. [Membership Committee Resume Data](#XI.%20MEMBERSHIP%20COMMITTEE%20RESUME%20DATA)**    83
+
+**XII. [References](#XII.%20REFERENCES)** 88
+
+**[Books](#Books:)** **54**\
+**[Articles](#Articles:)** .. **54**\
+**[Web sites and web pages](#Web%20sites%20and%20web%20pages:)**...  **54**\
+ 
+
+** **
+
+** **
+
+------------------------------------------------------------------------
+
+**FIGURES**
+
+**Figure 1: [Difficulty of Compromised Mega Problems 17](#Figure%201Difficulty%20of%20Compromised%20Mega%20problems)**
+
+**Figure 2: [Mega vs. SAT Score Correlation 22](#Figure%202Mega%20vs.%20SAT%20Score%20Correlation)**
+
+**Figure 3: [Equipercentile Equating of Mega and SAT 22](#Figure%203Equipercentile%20Equating%20of%20Mega%20and%20SAT)**
+
+**Figure 4: [Correlation of Mega vs. Other Test's Score Pairs 23](#Figure%204:%20Correlation%20of%20Mega%20vs.%20Other%20Tests'%20Score%20Pairs)**
+
+**Figure 5: [Equipercentile Equating of Mega and GRE 24](#Figure%205%20Equipercentile%20Equating%20of%20Mega%20and%20GRE)**
+
+**Figure 6: [Equipercentile Equating of Mega and CTMM 24](#Figure%206Equipercentile%20Equating%20of%20Mega%20and%20CTMM)**
+
+**Figure 7: [Mega48 IRT Test Scoring 25](#Figure%207Mega48%20IRT%20Test%20Norming)**
+
+**Figure 8: [Distribution of Mega Test Raw Scores for Sixth Norming 26](#Fig.%208Distribution%20of%20Mega%20Test%20raw%20scores%20for%20sixth%20norming)**
+
+**Figure 9: [Mega IQ-Scaled Distribution (actual, predicted, general population) and filter 27](#Fig.%209Mega%20IQ-scaled%20distribution)**
+
+**Figure 10: [Mega IQ-Scaled Distribution (actual and predicted) -- log scale 28](#Fig.%2010:Mega%20IQ-scaled%20distribution%20--log%20scale)**
+
+**Figure 11: [Correlation of Score Pairs of Mega27 and Mega48 31](#Figure%2011Correlation%20of%20Score%20Pairs%20of%20Mega27%20with%20Mega48)**
+
+**Figure 12: [Mega27 IRT Test Norming 31](#Figure%2012Mega27%20IRT%20Test%20Norming)**
+
+**Figure 13: [Mega (48-item) Test Scoring -- Traditional vs. Maximum Likelihood 32](#Figure%2013Mega%20(48-item)%20Test%20Scoring)**
+
+**Figure 14: [Mega27 Test Scoring -- Traditional vs. Maximum Likelihood 32](#Figure%2014Mega27%20Test%20Scoring%20--)**
+
+**Figure 15: [Titan vs. Mega (48-item) Correlation of Score Pairs 34](#Figure%2015Titan%20vs.%20Mega%20(48-item)%20Correlation%20of%20Score%20Pairs)**
+
+**Figure 16: [Titan vs. Mega Equipercentile Equating 34](#Figure%2016Titan%20vs.%20Mega%20(48-item)%20Equipercentile%20Equating)**
+
+**Figure 17: [LAIT vs. Mega (48-item) Correlation of Score Pairs 35](#Figure%2017LAIT%20vs.%20Mega%20score%20pairs)**
+
+**Figure 18: [SAT (Verbal Plus Mathematical Parts) Frequency data 40](#Figure%2018SAT%20(Verbal%20Plus%20Mathematical%20Parts)%20Frequency)**
+
+**Figure 19: [Population Distributions for the SAT (general, actual, predicted) 40](#Figure%2019General%20population%20distribution,%20actual%20and%20predicted)**
+
+**Figure 20: [SAT Actual and Predicted Distributions --log scale 41](#Figure%2020Actual%20and%20predicted%20SAT%20scoring%20distributions%20--%20log%20scale)**
+
+**Figure 21: [SAT Discrimination Capabilities (Test1) 41](#Figures%2021%20&22SAT%20discrimination%20capabilities)**
+
+**Figure 22: [SAT Discrimination Capabilities (Test2) 41](#Figures%2021%20&22SAT%20discrimination%20capabilities)**
+
+**Figure 23: [GRE Equipercentile Equating with SAT for reported Score Pairs on Mega 48](#Figures%2023%20GRE%20equipercentile%20equating%20with%20SAT%20for%20reported%20score%20pairs%20in%20Mega)**
+
+**Figure 24: [GRE Correlation with MAT for 1341 Score Pairs 49](#Figures%2024GRE%20correlation%20with%20MAT%20for%201341%20score%20pairs)**
+
+**Figure 25: [Extent of Data for CMT 54](#8.6.9%20CMT%20(Concept%20Mastery%20Test))**
+
+**Figure IX.1: [A Normal Distribution 69](#Figure%20IX1A%20Normal%20Distribution.)**
+
+**Figure X.1: [Illustration for Confidence Interval Determination 76](#Figure%20X.1Illustration%20for%20confidence%20interval%20determination)**
+
+**Figure X.2: [Difficulty Profile, p<sub>n</sub>(C<sub>K</sub>), for Problem \#11 on the Mega 81](#Figure%20X.2Difficulty%20Profile,%20pk%20(CK),%20for%20problem%2011%20on%20the%20Mega)**
+
+** **
+
+**TABLES**
+
+**[Some Available Psychometric Instruments List 15](#Some%20Available%20Psychometric%20Instruments)**
+
+**[Selectivity by IQ 20](#Selectivity%20by)**
+
+**[Correlations of IQ Tests with Mega 23](#correlations%20have%20been%20made)**
+
+**[Mega "Verbal" vs. "Non-verbal" Factor Analysis 28](#Mega%20(partitioned%20into%20verbal%20and%20non-verbal%20portions)%20was%20g-loaded)**
+
+**[LAIT "Verbal," "Spatial," and "Number" Factor Analysis 36](#LAIT%20spatial%20vs%20verbal%20corr)**
+
+**[LAIT Rotated "Fluid" and "Crystalized" Factors 36](#Lait%20corr%202)**
+
+**[SAT Coaching Improvement Table 38](#SAT%20hous%20of%20study)**
+
+**[SAT High Range Data Distribution (1984) 42](#SAT%20high%20range%20data%20distribution%20in)**
+
+**[SAT High Range Data Distribution (1984 - 1989) 42](#SAT%20high%20range%20data%20distribution%20in%201984)**
+
+**[RAPM General Population Percentile by Age Group 45](#RAPM%20untimed%20intraday)**
+
+**[RAPM General Population Percentile by Age Group -- Extended to 4 sigma 45](#RAPM%20etrap%20to%204s%20by%20age)**
+
+**[RAPM Norms for Various Occupation Groups -- mostly UK 46](#Advanced%20Progressive%20Matrices%20Set%20II:%20Occupational)**
+
+**[RAPM Untimed Smooth Summary Norms for USA 46](#Advanced%20Progressive%20Matrices%20Set%20II%20(Untimed))**
+
+**[GRE Percentiles for Filtered Population 49](#GRE%20Percentiles%20for%20the%20Filtered%20Population)**
+
+**[WAIS-R Regression Equations for the Full Scale IQ 51](#WAIS-R%20regression%20equations%20for%20the%20Full%20Scale%20are)**
+
+**[Standardization Sample for Stanford Binet 53](#Standardization%20Sample%20by%20Age)**
+
+** **
+
+** **
+
+------------------------------------------------------------------------
+
+** **
+
+<span id="IPURPOSE"></span>**I. PURPOSE**
+
+** **
+
+**The purposes of the deliberations of the 1998/99 Prometheus Society Membership Committee were several. One purpose was to address concerns about the leakage of information over the Internet on tests accepted for qualification for entry to the Society. It was also to investigate the possibility of including a broader scope of tests of cognitive ability while maintaining the 99.997 percentile (1-in-30,000) of the general population Prometheus Society selection level criterion. Another purpose was to analyze the current entry criteria on accepted tests to determine whether the 1-in-30,000 criterion is being maintained by all. Some of these issues were identified by Kevin Langdon in "Admission Standards" (*Gift of Fire*, Issue 99, 7, September 1998).**
+
+**As outlined by the chairman Fred Vaughan in "The Membership Committee and Its Charter" (*Gift of Fire*, Issue 100, 6, October 1998), it has been our objective to have a recommendation to the general membership of the Prometheus Society by the deadline for publication to *Gift of Fire* issue \#102 (submission deadline January 9, 1999) with balloting to take place in issue \#104. It has also been our intent from the outset to produce a report that will be available to members and nonmembers who wish to scrutinize the membership entry requirements of the Prometheus Society; we hope thereby to eliminate disputes -- or at least to provide data to make such debates more meaningful.**
+
+**The academic literature on psychological testing or psychometrics is now huge. No concerted attempt was made to make a comprehensive review of this literature, but see, for example, the following recent works to get a flavor of this field: Benbow & Stanley (1996), Van der Linden (1996), Nunnally & Bernstein (1994), Murphy (1997), Janda (1998), Fischer & Molenaar (1995), Kline (1993 and 1998), Crocker & Algina (1986).**
+
+**We do not claim that our results are indisputable nor that there are no flaws or oversights in the analyses presented here. We present this as a start in what must be a continuous process of maintaining the integrity of our entry criteria. This report attempts to address concerns such as that expressed by James Harbeck in his brief note entitled, "Questions Concerning the Membership**
+
+**Committee", (*Gift of Fire*, Issue 83, March 1997). The membership requires more than a recommendation -- they require information in order to know whether to support that recommendation. We think we have provided that data.**
+
+** **
+
+------------------------------------------------------------------------
+
+** **
+
+<span id="IICOMMITTEE APPOINTMENTS"></span>**II. COMMITTEE APPOINTMENTS**
+
+** **
+
+**The President and Membership Officer are constitutionally installed members of the Prometheus Society Membership Committee as described in section III of the Prometheus Society constitution duplicated in section III of this report below.**
+
+**FRED VAUGHAN, President and Chairman \<fred@vaughan.cc\>**
+
+**ROBERT DICK, Membership Officer \<rdick@idt.net\>**
+
+**The following additional Membership Committee members have been appointed by the President because of their specific expertise in areas pertinent to the problems of evaluating the quality of psychometric tests and their associated statistics.**
+
+**FRED BRITTON \<cardano@intergate.bc.ca\>**
+
+**GUY FOGLEMAN \<GCFogleman@aol.com\>**
+
+**GREG GROVE \<GAGrove@aol.com\>**
+
+**GINA LOSASSO \<GLoSasso@aol.com\>**
+
+**BILL McGAUGH \<bmcgaugh@pe.net\>**
+
+**DARRYL MIYAGUCHI \<miyaguch@usa.net\>**
+
+**FREDRIK ULLÉN \<freull@ki.se\>**
+
+**HEDLEY ST. JOHN-WILSON \<H.D.Wilson@durham.ac.uk\>**
+
+**The resumes of these individuals are provided at the back of this report. We feel fortunate in obtaining the services of such highly qualified people.**
+
+**We appreciate our Membership Officer, Robert Dick's constructive participation which was unfortunately limited by serious medical problems. Robert has asked that we print the following statement.**
+
+**"I have been a Constitutionally mandated member of the Membership Committee. In that capacity I have supplied member score data sanitized so the names cannot be identified. Due to personal illness, among other reasons, that is about all of my contribution. Accordingly I cannot claim for myself the honor of being an author of the Committee report. My hat is off to the many expert and dedicated members who deserve both the honor and the responsibility for the report."**
+
+<div align="right">
+
+**Robert Dick**
+
+</div>
+
+**The chairman hereby signs this report on behalf of the other members of the committee.**
+
+** **
+
+** **
+
+<div align="right">
+
+**Fred Vaughan,**
+
+</div>
+
+<div align="right">
+
+**Chairman Membership Committee**
+
+</div>
+
+<div align="right">
+
+**President Prometheus Society**
+
+</div>
+
+<div align="right">
+
+** **
+
+</div>
+
+------------------------------------------------------------------------
+
+<div align="right">
+
+** **
+
+</div>
+
+<span id="IIIAUTHORITY AND ROLE OF THE MEMBERSHIP"></span>**III. AUTHORITY AND ROLE OF THE MEMBERSHIP COMMITTEE**
+
+** **
+
+**The role and authority of the Membership Committee as well as the President and chairman in their respective capacities on this committee are defined in the constitution of the Prometheus Society as follows:**
+
+**"ARTICLE III - QUALIFICATIONS FOR MEMBERSHIP**
+
+**1. All members of the Prometheus Society as of December 1, 1996 are presumed to have satisfied the membership requirements.**
+
+**2. Membership in the Prometheus Society is open to anyone who can provide satisfactory evidence of having received a score on an accepted IQ test that is equal to or greater than that received by the highest one thirty thousandth of the general population. An accepted IQ test is defined as an IQ test that the Society has determined to be acceptable for admission purposes.**
+
+**3. The President shall appoint a Membership Committee to rule on the acceptability of various IQ tests, to determine what minimum scores on each test qualify for admission, and to periodically review and make recommendations on admission standards in general.**
+
+**4. The committee shall consist of the President, the Membership Officer, and at least three other members such that a majority of the other members are recognized as having experience in the field of psychometrics.**
+
+**5. The committee shall propose to the membership specific guidelines on tests and test scores for the Membership Officer to follow. Upon ratification of these guidelines by membership vote as specified in Article IX, they shall become binding on the Membership Officer."**
+
+**In Article X.3 it says,**
+
+**"3. The President shall act as the coordinator of activities of The Prometheus Society, answer inquires which are not within the jurisdiction of the other officers, and be the official representative of the Society to the public. The President may appoint members individually or to a committee for the purpose of carrying out various functions. Appointed members serve at the discretion of the President. A committee chair shall report to the President unless otherwise directed by the President."**
+
+**And in Article X.11 it further elaborates that:**
+
+**"11. An officer must be a member of the Society. However, the President may appoint non-members to perform certain functions such as an expert to supervise testing, an attorney to represent the Society in legal matters, an accountant to audit the books, etc. "**
+
+**We believe that we have acted in accordance with the intent of the constitution in every aspect of our proceedings.**
+
+** **
+
+** **
+
+------------------------------------------------------------------------
+
+** **
+
+<span id="IVCOMMITTEE OPERATING PROCEDURES"></span>**IV. COMMITTEE OPERATING PROCEDURES**
+
+** **
+
+**The committee performed its business primarily over the Internet using e-mail messages that were routed only to other members of the Membership Committee except as authorized specifically in writing by the chairman. (This was felt to be particularly important because we would be discussing topics that could compromise the tests accepted for qualification to the Society.) Web site files were also used but if they pertained to the Membership Committee exclusively, they were either password protected or their URLs were not disclosed outside of the committee except as authorized by the chairman. Individual Membership Committee members have interacted among themselves at their own discretion, but only information routed to all Membership Committee members was considered for inclusion in this final report including the recommendation to the general membership for balloting. Individual members or Membership Committee splinter groups defined by the chairman to perform specific tasks, have reported their findings for discussion by the entire committee. Discussions of specific problems and whether or not they were to be considered compromised based on answers circulated and the specifics of where such data is available typically involved only a subset of the committee.**
+
+**Each step (agenda item) in the deliberation process was documented by the chairman or his designee using materials generated by the Membership Committee and the results were routed for comment and consensus. No item was closed out until every member of the Membership Committee had been given a reasonable opportunity to review and comment upon it. This required a 24-hour minimum per item to accommodate our world wide Membership Committee membership. Membership Committee members checked their e-mail regularly and responded to those items for which they had specific interest or concern. (They were encouraged to notify the chairman if they would be out of contact for more than 24 hours. An effort was made to keep consensual actions from occurring on weekends.) Requested delays prior to concluding a Membership Committee decision were honored without exception. Requests for delays were requested to be accompanied by specific rationale and/or the data that the requester wished the rest of the committee to consider.**
+
+**Decisions identified as being made by the chairman (other than the appointments to the committee), have been consensus positions wherever possible. The chairman acted primarily as a focal point of that consensus to reduce chaos. Procedures were subject to modification as we went along but the procedures documented here were essentially the procedures that we followed throughout.**
+
+**Specific positions argued and quotations of individuals during the deliberation of the Membership Committee will remain confidential. Detailed rationale for all recommendations of the committee are provided in this final report signed by all committee members. A pledge of confidentiality for the discussions in deliberation was a prerequisite for continued appointment to this committee. It was decided that a single consensus position would be incorporated into this report if such a consensus could be obtained. If more than a single individual shared a position counter to the consensus, that position is summarized in the report as well subject only to the desires of those sharing the position.**
+
+**Intellectual rights to publication of material generated as a part of the deliberations of this committee belong to the individual or individuals who generated the material, but publication must be approved by the committee as expressed in writing by the chairman to assure the following: 1) All individuals who contributed to the material to be so published shall be cited if they so desire and 2) No data contained in the material to be published shall compromise Prometheus Society entry criteria.**
+
+**Agreement to these operating conditions has been a prerequisite for continued appointment to this committee. Concurrence with these conditions is tacit by a member's not having notified the chairman of a wish to resign appointment.**
+
+** **
+
+------------------------------------------------------------------------
+
+** **
+
+<span id="VRECOMMENDATION"></span>**V. RECOMMENDATION**
+
+** **
+
+**The following recommendation of this membership Committee has been printed in issue \#102 of the *Gift of Fire* (submittal deadline 9 January, 1999) which was mailed out together with a hardcopy of this report to all hardcopy members of the Prometheus Society and hardcopy subscribers of record to the Gift of Fire. On-line members and subscribers have been notified of availability of the report on-line at \<http://prometheus.wwwh.com/subscribers/MCReport.html\>.**
+
+**5.1 Statement of Recommendation**
+
+** **
+
+**We on the Membership Committee are proud to present to the Prometheus Society our proposal for revised entry requirements to the Society. We aver that it is our considered opinion that this recommendation, if adopted by the membership, will be in the best interest of this Society and its members. Our recommendation is as follows:**
+
+**Entry into the Prometheus Society based on a Mega or Titan score shall no longer be allowed after the date of issuance of the issue of *Gift of Fire* in which acceptance of this recommendation is indicated to have been ratified by the membership. Anyone having secured a raw score of 36 on either of these tests dated before that date shall be entitled to rights and privileges of the Society.**
+
+**Anyone with a score of 164 or greater on the LAIT scored before December 31, 1993 shall be entitled to rights and privileges of the Society.**
+
+**Anyone with a score of 1560 on the "old" SAT (taken before April 1, 1995) shall be entitled to rights and privileges of the Society.**
+
+**Anyone with a score of 1610 on the "old" GRE (taken before October 1, 1981) shall be entitled to rights and privileges of the Society.**
+
+**Anyone with a score of 98 on the MAT shall be entitled to rights and privileges of the Society.**
+
+**Anyone with a raw score of 88 on the Cattell Culture Fair III (A+B) obtained at an age of 16 years of age or older shall be entitled to rights and privileges of the Society.**
+
+**Anyone with a score of 160 on the WAIS-R obtained at an age of 16 years or older shall be entitled to rights and privileges of the Society.**
+
+**Anyone with a score of 21 on the Mega27 shall be entitled to rights and privileges of the Society, if a validated accompanying score on an accepted test for demonstrating a 1-in-1,000 cognitive ability according to that test is provided to the Membership Officer along with proof of the mega27 score.**
+
+**And, for a trial period of one year:**
+
+**Anyone with a validated score of Brain Master +11 on the chronometric battery provided by Thinkfast<sup>TM</sup> obtained at an age of 16 years of age or older shall be entitled to rights and privileges of the Society, if a validated accompanying score on an accepted test for demonstrating a 1-in-1,000 cognitive ability is provided to the Membership Officer along with proof of the Thinkfast<sup>TM</sup> score.**
+
+**After one year, the following data will be used to determine whether to retain the test permanently, extend the trial period or discontinue this test as an entry requirement to the Society.**
+
+**1. numbers of applicants to the Society who use this Thinkfast<sup>TM</sup> test criterion,**
+
+**2. accompanying scores on standard tests of applicants who use this Thinkfast<sup>TM</sup> test criterion,**
+
+**3. additional statistics available on high scores of Thinkfast<sup>TM</sup> participants,**
+
+**4. our increased understanding of Thinkfast<sup>TM</sup> as a chronometric/psychometric instrument.**
+
+**Where a score of 1-in-1,000 is required on one of the following tests: ACT (32), Old<sup>\*</sup> SAT (1450), New<sup>\*</sup> SAT (1520), GRE (1460), GRE Analytical (760), MAT (85), Stanford Binet IV (149), Weschler Intelligence Scales (146), Cattell CF III (A+B) (149), Cattell Intelligence Test Scale IIIB (173 old norming), RAPM II (150), Mensa Admission Tests (149), Cognitive Abilities Test (CAT) (149)**
+
+** **
+
+**5.2 Rejection of the recommendation**
+
+** **
+
+**If our recommendation is rejected by a majority of voters, the Prometheus Society will retain the entry requirements established by vote in 1997.**
+
+** **
+
+------------------------------------------------------------------------
+
+** **
+
+<span id="VIACTION ITEMS"></span>**VI. ACTION ITEMS**
+
+** **
+
+**We have accepted the following outstanding items that we recommend for further action.**
+
+**6.1 Obtain written agreement with Ron Hoeflin on Mega27**
+
+**Firm up agreement in principle with Ron Hoeflin on scoring procedures and application processing for the Mega27 test. Also obtain written specifications of how profile data is to be handled by Membership Officer.**
+
+**6.2 Evaluate Titan test**
+
+**We have agreement in principle with Ron Hoeflin to obtain data for 500 individuals who have taken the Titan test. We must perform analyses similar to those which gave rise to the Mega27 for the Titan to avoid compromised problems. Also solidify norming for the Titan.**
+
+**6.3 Consider the relationship of age and intelligence**
+
+**There are a couple aspects of IQ variations with age that must be considered in some depth with regard to our entry requirements:**
+
+**1. whether to allow test results for individuals under 16 years of age and**
+
+**2. whether to consider an age profile (particularly applicable to those over 30 years of age) for intelligence criteria.**
+
+**6.4 WAIS subtest qualification possibilities**
+
+**6.5 Evaluate results of one-year trial period of use of ThinkFast to qualify applicants for Prometheus.**
+
+**After one year, the following data will be used to determine whether to retain the test permanently, extend the trial period or discontinue this test as an entry requirement to the Society:**
+
+**1. numbers of applicants to the Society who use this ThinkfastTM test criterion,**
+
+**2. accompanying scores on standard tests of applicants who use this ThinkfastTM test criterion,**
+
+**3. additional statistics available on high scores of ThinkfastTM participants,**
+
+**4. our increased understanding of ThinkfastTM as a chronometric/psychometric instrument.**
+
+** **
+
+**6.6 Investigate tests in other languages, including translations of English tests.**
+
+** **
+
+------------------------------------------------------------------------
+
+** **
+
+<span id="VIISCHEDULE"></span>**VII. SCHEDULE**
+
+** **
+
+**The following are the dates and accomplishments that we had originally scheduled. We were considerably off-schedule from time-to-time but it did nonetheless draw us back to reality. We feel that we have accomplished the pressing tasks that were before us.**
+
+**10/09/98 Submittal of individual MC member synopses (or scuttle decision)**
+
+**10/10/98 Acceptance of an agenda and operating procedures**
+
+**10/10/10 Definitions of applicable terminology**
+
+**10/15/98 Descriptions of applicable mathematical methods**
+
+**11/10/98 Review of our currently accepted tests and possible errosion**
+
+**12/10/98 Review of alternative "IQ" tests, Mensa-monitored, SAT, GRE, etc.**
+
+**12/28/98 Review of chronometric test proposals.**
+
+**01/02/99 Considerations of composite criteria**
+
+**01/09/99 Review of constitution and creation of MC recommendation**
+
+**01/15/99 Publication of Report**
+
+** **
+
+------------------------------------------------------------------------
+
+** **
+
+<span id="VIII. ISSUES TO BE ADDRESSED"></span>**VIII. ISSUES TO BE ADDRESSED**
+
+** **
+
+<span id="8.1 Operating Definition of Prometheus Society"></span>**8.1 Operating Definition of Prometheus Society Entry Conditions**
+
+**Entry criteria for membership in the Prometheus Society are based on verifiable claims of a particularly high level of intelligence. A 99.997 percentile or 1-in-30,000 of the general population has been maintained as the goal; the accuracy with which we have been able to meet that goal in the past and intend to maintain it in the future are discussed as a part of the analyses of this report.**
+
+**With regard to the question, "What is the intelligence that should be assessed at this level?" we have been somewhat reticent to assert an answer. In other words we have waffled somewhat on whether, it is a fluid intelligence factor (spatial/abstract reasoning) or a crystallized intelligence factor (accumulated knowledge and verbal skills). A consensus of the Membership Committee believes it should be the former. Hedley St. John-Wilson gives the evidence for a general factor in his article, "The Scientific Evidence Behind 'General Intelligence' Tests" (*Gift of Fire*, Issue 95, January 1998). However, the Membership Committee is quite divided on whether the "fluid intelligence factor" is a single or many biologically-based capabilities. It is also divided on the ability of individual tests to effectively discriminate between a single general and a combination of many specific mental capabilities. The articles, "What is this thing called 'g' or Gee, what is this thing called?" (Gift of Fire, Issue 80, November 1996) and "What Intelligence is...isn't...is too!" (*Gift of Fire*, Issue 82, February 1997) by Robert Low, Ronald Penner's "Gee, Maybe There's More to 'g'"(*Gift of Fire*, Issue 82, February 1997) and "Discussion of the Central Limit Theorem as Applied Specifically to Overall Intelligence" (*Gift of Fire*, Issue 82, February 1997) by Fred Vaughan all address this debate. These conceptual and philosophical disputes involve medical, anatomical, psychological and genetic expertise which have not been adequately represented on our team. See for example, Fredrik Ullen's article, "The Multiple Biological Correlates of g", (*Gift of Fire*, Issue 100, October 1998), David Roscoes "Group IQ Tests" (*Gift of Fire*, Issue 81, January 1997) and Fred Britton's "Is There a Physical Substrate to Intelligence", (*Gift of Fire*, Issue 83, March, 1997).**
+
+**We, therefore, have decided to restrict our assessment of testing capabilities to the statistical validity of accepted psychometric instruments to correlate well with other accepted instruments and to discriminate individuals at the 1-in-30,000 level. We recognize that individuals selected via different tests may differ in their thinking abilities accordingly, but each will have satisfied the ostensible requirement of being in the top 1-in-30,000 of the general population with respect to cognitive abilities measured by one of these tests. It is generally agreed that the general intelligence factor ("g") will influence performance across the spectrum of cognitive abilities measured by such tests and will result in at least a moderate g loading (~0.5 - 0.6) for an accepted test.**
+
+**The Membership Committee is also in agreement that "1-in-30,000" rather than "4 sigma" is our target since the former claims nothing with regard to the distribution of the population as assessed by the test, restricting its emphasis to the rarity of individuals in this category.**
+
+**The issue of age restrictions for entry to the Prometheus Society has been discussed and it has seemed reasonable to us at this time not to accept individuals under the age of 16 years, although we are somewhat split with regard to the age limit for scores that can be allowed. We think this issue should be addressed at a later time when there is more time to fully evaluate the data -- we have taken such an action item. Our current recommendation of the 16 years of age limitation derives in part from of our concern with regard to what might otherwise give rise to restrictions on subject matter in the journal. It is also related to concerns that too early testing has been shown in many cases to significantly overestimate intelligence. See for example Michael Colgate's article, "P's and Q's of Intelligence" (*Gift of Fire*, Issue 97, July 1998) in which he presents cogent arguments suggesting that another aspect of intelligence which he calls "precociousness" that applies exclusively to younger children may render rather unrealistic IQ scores on tests taken at a young age. Also Sare presents arguments and predictions that discount Stanford-Binet scores for younger individuals. (See \<http://www.brain.com/bboard/read/iq-archive2/2351\>.)**
+
+**If the recommendations of this Society are approved, we will begin a new era with new members joining based on a diverse spectrum of psychometric instruments, but each with credentials establishing him or her at the 1-in-30,000 level of capabilities as measured by a particular instrument. Many of these tests (in fact most standardized tests of mental ability) make no claims for being able to discriminate intelligence beyond 150 IQ. Our acceptance is based on frequency data indicating that the rarity of 1-in-30,000 is attained independent of the particular intelligence claims made for that distinction. We have opted in all cases to base our recommendations on as solid a factual foundation in available data as possible and not on the claims of developers and/or distributors -- nor yet the detractors -- of these instruments.**
+
+**It is of particular interest that in Joseph Matarazzo's book, *Wechsler's Measurement and Appraisal of Adult Intelligence*, (5th ed., 1972), he attributes lowered ceilings to intentional acts based on presumptions by the test developers themselves of a lack of utility of intelligence above the 150 IQ level.**
+
+**"The lower ceiling of the W-B (Wechsler-Bellevue) and the WAIS is no accident but represents the author's deliberate attempt to eschew measuring abilities beyond points at which he feels they no longer serve as a valid measure of a subject's general intelligence. IQ's of 150 or more may have some discriminative value in certain fields, such as professional aptitude, however, it is only partially related to general intelligence. Exceptional intellectual ability is itself a kind of special ability."**
+
+**So with the Wechsler test we have a case in which experts conflict -- the experts who believe the regression tables for the WAIS-R are valid, and David Wechsler, the author of the test, who deliberately truncated his scale at 150. This somewhat cynical presumption that what is good up to a point is not so good beyond, should be a rallying cause for this Society.**
+
+**If our recommendations are accepted, the Mega27 test (a subset of the Mega test defined by this Membership Committee for which the developer has agreed to provide scoring capabilities) will be the only existing tie to former testing methodologies and Prometheus Society entry qualification criteria. We also have an agreement in principle with the developer of the Titan test in which he has expressed willingness to provide data with which we may perform analyses similar to what has been done to obtain the Mega27 test. We have taken an action item to perform such analyses so that hopefully a version of the Titan test can be reinstated among our recommended tests. The elimination of formerly accepted tests has not been intentional in the sense of discrediting former methodologies and entry criteria but rather a requirement imposed by compromises that have occurred to these previously accepted tests. We are hopeful that we will be able to provide similar capabilities in the future.**
+
+<span id="8.2 Definition of the Scope of Membership"></span>**8.2 Definition of the Scope of Membership Committee Evaluations**
+
+**In its recommendation, the Membership Committee has acted to maintain the integrity of the Prometheus Society entry criteria and enable continued enrollment into the Society to anyone whose credentials can be verified as meeting those criteria.**
+
+**The Prometheus Society will be forced to reevaluate the specifics of its entry criteria whenever new information emerges and is made available to the Society concerning any of the following:**
+
+1.  **New tests become available (or are presented to our attention) for which normative data is available to justify claims of their being able to effectively discriminate at the 1-in-30,000 level,**
+2.  **New normative data has become available for existing tests which supports discrimination at the 1-in-30,000 level,**
+3.  **An accepted test is retired for any reason,**
+4.  **The integrity of an accepted test is found to have been compromised either by having been incorrectly normed in the light of new evidence or answers to its problems having been too widely distributed.**
+
+**The scope of this job is indeed awesome. The number of psychometric tests claiming to assess intelligence is vast. Whereas many of these address ranges of intelligence or assessment ages we have determined inappropriate for entry requirements for the Prometheus Society, even determining these facts can be quite time consuming. The list on the next page is but a sample from the world of IQ tests. On merely one of these over a thousand papers have been written. We do not claim to have assessed many of these tests but if provided with good reasons and access to good data, we think the Membership Committee should continue its search for additional valid tests.**
+
+**A specific task before the Membership Committee was to determine whether any of the changes identified above have occurred with respect to accepted tests, which would necessitate entry criteria changes at this time. We think there have been and have acted to assure that we have maintained reasonable means for entry to the Society.**
+
+**To warrant that a test or methodology satisfies membership criteria the Membership Committee has felt it appropriate to perform analyses to verify the following:**
+
+**1. That samples used to validate and norm tests are of sufficient size and are sufficiently representative within the required constraints of intelligence filtering to substantiate legitimacy claims and establish valid norms for our purposes.**
+
+**In order to set a 1-in-30,000 of the general population cutoff on a test, "good psychometric practice" would probably require that a generally accepted highly g-loaded test be administered in a supervised manner to millions of individuals randomly selected from the general population. This wealth of data is not, nor will it probably ever be, available so an alternative approach has to be employed. When used correctly, the quantification of intelligence filtering to assess the degree of selection on those who actually take the tests is a legitimate method that must be relied upon. See Vaughan's "Intelligence Filters" (*Gift of Fire*, Issue 79, October 1996). Similarly, extrapolation beyond traditionally accepted norms may in some cases be warranted depending on the quality of the data and the degree to which it must be extrapolated.**
+
+**2. That appropriate types of reliability estimates have been determined for the test.**
+
+**3. That the necessary statistics have been used properly to compute these estimates?**
+
+**Having a test with well-established general population percentiles at 1, 2, or even 3 sigma points does not imply that the 4-sigma point corresponds to a rarity of 1-in-30,000: the score distributions may depart significantly from Gaussian at the extreme tails. Data on the shape of the score distributions for the standard IQ tests at the extreme tails is too thin to allow the suppositions concerning the distribution to be used to establish the 1-in-30,000 cutoff. We have preferred actual numbers of high scoring individuals out of a known population whenever these data were available.**
+
+** **
+
+------------------------------------------------------------------------
+
+<span id="Some Available Psychometric Instruments"></span>**Some Available Psychometric Instruments**
+
+**(very few of which we have been able to consider)**
+
+**ACT**
+
+**American School Intelligence Test-High School Battery**
+
+**American School Intelligence Test-Primary Battery**
+
+**Analysis of Learning Potential-Advanced I Battery**
+
+**Analysis of Learning Potential-Advanced II Battery**
+
+**Arthur Point Scale of Performance Test**
+
+**BAS -- British Abilities Scale**
+
+**Black Intelligence Test of Cultural Homogeneity (BITCH)**
+
+**California Short-Form Test of Mental Maturity**
+
+**Cattell Culture Fair Intelligence Test-Scale 2&3**
+
+**Chicago Non-Verbal Examination**
+
+**Cognitive Abilities Test Form 5 1993**
+
+**Counter Intelligence Test-Chitlings**
+
+**Detroit General Intelligence Exam-Form A**
+
+**Full-Range Picture Vocabulary Test**
+
+**GMA -- Graduate Management Assessment (UK)**
+
+**Goodenough/Harris Drawing Test**
+
+**GRE**
+
+**Henmon/Nelson Test of Mental Ability**
+
+**Henmon/Nelson Test of Mental Ability-College Level-Rev Ed**
+
+**Hiskey/Nebraska Test of Learning Aptitude**
+
+**Kuhlmann/Anderson Tests-8th Ed**
+
+**Langdon Adult Intelligence Test (LAIT) Retired**
+
+**Learning Efficiency Test-II (LET-II) 1992**
+
+**Leiter International Performance Scale**
+
+**Lorge/Thorndike Intelligence Tests**
+
+**LSAT**
+
+**MAT**
+
+**MCAT**
+
+**Mega Test**
+
+**Oregon Academic Ranking Test**
+
+**Otis/Lennon Mental Ability Test-Advanced Level**
+
+**Peabody Picture Vocabulary Test 3rd Ed Form IIIA (PPVT-IIIA) 1997**
+
+**Pintner/Cunningham Primary Test-Rev**
+
+**Pressey Classification & Verifying Tests**
+
+**PSR (Psychological Stimulus Response)**
+
+**Quick Test**
+
+**Raven Advanced Progressive Matrices -- Sets I & II**
+
+**Ross Test of Higher Cognitive Processes**
+
+**Slossen Full-Range Intelligence Test (S-FRIT) 1993**
+
+**Slossen Intelligence Test (SIT-R)-Rev Ed 1990**
+
+**SAT**
+
+**SRA Pictorial Reasoning Test**
+
+**SRA Primary Mental Abilities (PMA)**
+
+**Standard Progressive Matrices**
+
+**Stanford/Binet Intelligence Scale-4th Ed**
+
+**Stanford Ohwaki/Kohs Block Design Intelligence Test for the Blind**
+
+**System of Multicultural Pluralistic Assessment (SOMPA)**
+
+**Test of Cognitive Skills 2nd Ed (TCS/2) 1992**
+
+**Test of Nonverbal Intelligence 3rd Ed (TONI-3) 1997**
+
+**ThinkFast (Chronometric)**
+
+**Titan Test**
+
+**Wechsler Adult Intelligence Scale-Rev (WAIS-R)**
+
+**Wechsler Adult Intelligence Scale 3rd Ed (WAIS-III) 1997**
+
+**Wide Range Intelligence & Personality Test (WRIPT)**
+
+**Woodcock-Johnson Psycho-Educational Battery-Rev (WJ-R) 1989/90**
+
+------------------------------------------------------------------------
+
+<span id="8.3 Review of historical entry criteria"></span>**8.3 Review of historical entry criteria**
+
+<span id="8.3.1 Assessment of Current Prometheus Membership"></span>**8.3.1 Assessment of Current Prometheus Membership Intelligence Credentials**
+
+**The Prometheus Society was founded in 1982. It's initial constituency had all been members of the former Xenophon Society which had entry requirements of 1-in-10,000 of the general population, an IQ of about 160. Notwithstanding many of these initial members were qualified at the 1-in-30,000 level and beyond according to accepted psychometric instruments. The initial entry requirement, once Prometheus had been established, was set at the 1-in-30,000 level which was incorporated into the Prometheus Society constitution.**
+
+**There are currently 67 members of the Prometheus Society that are in good standing. There are upwards of 150 to 200 who have been members at one time or another.**
+
+**By checking our current roster and that which was first published in issue \#2 of *Gift of Fire* (July 1984) shortly after the Society was formed, it has been determined that there are no more than 8 currently active members who could have been admitted under the Xenophon cut-off of 1-in-10,000. That assumes that no other Xenophon members who weren't active in July 1984 have since joined using their prior Xenophon membership as entry qualification. We believe that to be the case.**
+
+**Within the constraint of 1-in-30,000, the specifics of membership criteria have changed over the years with various tests and acceptance levels having been used that reflected that requirement. However, according to the Membership Officer's records, the current Prometheus Society average IQ according to LAIT, Mega, and Titan test normings (using each test independently or using all the data) is about 167. This is what would be expected statistically for a society with a 1-in-30,000 cutoff.**
+
+**Using data derived from the Membership Officer's records, the following further characterizations can be made: The average and median for the current and former members taking the LAIT in the 1978-79 time frame is the same as for the 1992-93 time frame (around 166-167). The average and median for the current and former members taking the Mega test in the 1984-85 time frame is about 1 point lower than for the members taking the Mega in the 1994-98 time frame (Mega average and median are around 37-38 in 1984-85, around 38-39 in 1994-98, and around 38-39 for 1998 alone). Differences over the years do not seem to be statistically significant. For the Mega test calculations, this result did not include scores below the current Prometheus Society cutoff of 36 and thus a conclusive result would require a comprehensive review of Dr. Hoeflin's scoring data for the respective years for which the average is a raw score of 35.5.**
+
+<span id="8.3.2 Review of compromise and erosion threats and"></span>**8.3.2 Review of compromise and erosion threats and discussion of the appropriate reactions**
+
+**A major reason for the current Membership Committee's urgency is the concern with regard to rumors that there have been significant compromises to our entry criteria tests. This aspect of our deliberations has been a priority and we feel that we have obtained a good understanding of the threats and the actualities of compromises over the Internet and via other media. Our recommendations reflect that understanding.**
+
+**Compromises to the Mega:**
+
+**There have been several different types of answer distribution problems on the Mega test. The numbers of, and difficulty index associated with, problems that have been leaked in various categories from easiest to hardest are captured in the graphic below. Also shown are the means whereby each problem has been compromised.**
+
+<span id="Figure 1Difficulty of Compromised Mega problems"></span><img src="Image120.gif" width="363" height="396" />
+
+**Figure 1: Difficulty of Compromised Mega problems**
+
+**Although the graphic contains only two compromised problems at the highest difficulty, some feel that at least three of the spatial/numerical problems have published solutions in Martin Gardner's books and/or other puzzle classics (references needed). Ron Hoeflin denies that they originated at that source.**
+
+**The five hardest problems that have been leaked are the ones that would result in the most significant impact on the Prometheus Society. In order to get a score of 36 (a current entry criterion) on the Mega test by cheating one would need to have gotten these five correct plus 31 others. Someone who can solve 31 extremely difficult problems without cheating would probably be able to solve the 10 easiest leaked problems on his or her own without cheating. Thus, even with the leaked answers, the best someone would be able to do would be to turn a legitimate score of 31 into a with-cheating score of 36. By the 6th norming of the Mega Test, a score of 31 corresponds to an IQ of 158. So the impact on the Prometheus Society of leakage of these problems is not felt to be extremely significant at this time.**
+
+**The existence of on-line integer sequence solvers compromises all integer sequence problems -- if they are not already solvable someone will solve them so we feel that we should include them in the list of compromised problems.**
+
+**A point that may need some reconsideration in the future is that several of the problems in the Mega test appear to be easily solved/checked with computers. At least 7 of the non-verbal problems could be solved with a fairly simple computer program. A professional programmer might perhaps attack even more problems this way. This raises the question of whether we are unduly slanting our criteria to computer professionals. For a counter argument you might refer to "Sweetness and Stinging from the Honeycomb Series" (*Gift of Fire*, Issue 101, November/ December 1998).**
+
+**We are faced with the question: Should the Mega test be retired in order to keep out dedicated cheaters with IQs in the 158 - 163 range? At a minimum several precautionary moves can and should be implemented to ameliorate the problem as, for example, eliminating test questions that are known to have been compromised. The Mega test is still a valuable instrument in that, largely because of Darryl Miyaguchi's web site, many new people are becoming familiar with the High IQ Societies and taking this high range test. The Prometheus Society continues to receive an appreciable number of new applications which may derive in part from this cause. This seems to us to offset some of the negative aspects associated with the possibility that the Society might thereby accept a few individuals at this time who are only marginally qualified for membership because they may have found a leak before we have. However, we must take care of the problems of which we are aware and address the possibility of continued erosion of the test with continued vigilant surveillance.**
+
+**Notice that a certain amount of trust is involved even if the Mega test answers are not available on the Internet. In particular, there is no way to verify that a test-taker worked independently. Also, the "leaked" answers available on the Internet are not exactly easily available. One can not just use a search engine to search on "Mega test" to obtain the answers. The answers to the hardest five of the leaked problems are available separately on unrelated sites which would therefore require some ingenuity and persistence.**
+
+**However, it is our consensus opinion at this point that we cannot warrant all 48 questions of the Mega test for qualification to the Prometheus Society. As you will see further on, we have defined a subset of questions which would constitute a test in its own right that we have shown to be able to discriminate at the 1-in-30,000 level. This test (the Mega27) eliminates all known compromises to the test as well as a few of the very simplest problems that may certainly be compromised in the near future and which have added little of value as we have demonstrated in discriminating at to the Prometheus Society's desired cutoff level and beyond.**
+
+**The entire Mega test will probably need to be retired in the not too distant future. Alternative high range tests may be available before that time comes.**
+
+**Compromises to the Titan:**
+
+**The Titan is a newer test and appears on face value to be a more difficult test than the Mega which may have protected it somewhat from those individuals on the Internet who have concentrated on "cracking" the Mega.**
+
+**However, the number sequence problems are compromised in the same way as for the Mega, and lacking the item data that we have on the Mega, we have been unable to come up with a method for estimating scores if we exclude the sequences. Therefore, unless and until we obtain norming data for the Titan, we feel that we must remove the Titan from our recommendation of approved tests for qualification for the time being.**
+
+**Notice that we have obtained agreement in principle with Dr. Hoeflin whereby he will provide us with data for 500 examinees with which we can perform analyses similar to those that gave rise to the Mega27. We have accepted an action item to perform those analyses and report back to the membership on our conclusions.**
+
+<span id="8.3.3 Surveys of capabilities and comparisons of"></span>**8.3.3 Surveys of capabilities and comparisons of various segments of the population and psychometric instruments**
+
+**There are a considerable number of summaries and reviews that have been published in High IQ journals and elsewhere which review relative ranges of coverage of different tests and expected intelligence of various segments of the population. However, these summaries are not all in agreement and typically do not include data at the level of our entry requirement. So we have used them primarily for orientation and guidance.**
+
+**Greg Grove, psychometrician of the Triple Nine Society (TNS), published data that relates percentile rankings of various segments of the population, relating them to Mega test raw scores in his article, "IQ/Percentile Ready Reckoner" (*VIDYA*, Issue 177, July/August 1998). A problem with this review from the Membership Committee's perspective is that since it was prepared with TNS in mind, it only goes up to the 99.9th percentile.**
+
+**There is also a survey of numbers of participants in various High IQ groups by percentiles presented by Guy Fogleman in "An Amateur Statistical Analysis of a Hi-IQ Society Membership Trend" (*Gift of Fire*, Issue 97, 16 - 17, July 1998).**
+
+**Kjeld Hvatum provides a table of IQ percentiles versus scores on various psychometric instruments including the Mega in his "Letter to Ron Hoeflin" (*In-Genius*, Vol. 15, August 1990) that shows comparative raw scores at percentiles up to and beyond the Prometheus Society cutoff level. This table is provided below as reference only. It has not been validated by the Membership Committee and is not a part of our recommendation per se. But it represents of the kind of digested information that is available which has led us to investigate some of these tests in more depth and place less emphasis on others.**
+
+------------------------------------------------------------------------
+
+<span id="Selectivity by"></span>**Selectivity by I.Q.<sup>\*</sup>**
+
+**and other scores that correlate well with I.Q.**
+
+`WAIS CLASSIFICATION,  %ile in the general population`\
+`descriptions,         |         standard deviation`\
+`High-IQ societies,    |         |    IQ SD-15 - WAIS, WISC`\
+`v = "here and down"   |         |    |   SD=16 - Binet, CTMM, Otis-Lennon`\
+`                      |         |    |   |`\
+`PROFOUND RETARD.---v  .13e-8    |    00 -07  IQ SD-23.7 - Cattell (Verbal)`\
+`SEVERE RETARD.-----v  .29e-4    |    25  20  |   SAT Verbal`\
+`MODERATE RETARD.---v  .0031     |    40  36  |   |   GRE Verbal`\
+`MILD RETARD.-------v  .13       |    55  52  |   |   |   Miller Analogies`\
+`BORDERLINE RETARD.-v 2.3        |    70  68  |   |   |   |   SAT Verbal+Math`\
+`DULL-NORMAL--------v 9.1        |    80  79  |   |   |   |   |   Mega Test`\
+`AVERAGE------------v25.0        |    90  89  |   |   |   |   |   |`\
+`general pop. ave.---50.0       0.00 100 100 100 340  |   |   |   1`\
+`high sch. grad ave.-60.0       0.25 104 104 106 370  |   |  790`\
+`                    70.0       0.53 108 108 112 410  |   |  860`\
+`BRIGHT-NORMAL------v75.0       0.68 110 111 116 430  |   |  910  2`\
+`                    80.0       0.83 112 113 120 450 420  |  940`\
+`college grad ave.---84.1       1.00 115 116 124 470 440 38  980  3`\
+`                    90.0       1.29 119 120 130 500 470 43 1040`\
+`SUPERIOR-----------v9l.O       1.33 120 121 132 510 480 44 1060  4`\
+`                    93.0       1.47 121 122 135 530 500 47 1100  5`\
+`Ph.D. & M.D. ave.---95.0       1.63 125 126 139 550 530 52 1150  6`\
+`                    97.0       1.87 128 130 145 580 580 60 1190  8`\
+`VERY SUPERIOR------v97.8       2.00 130 132 147 590 600 65 1220  9`\
+`Mensa,  Camelopard-v98.0       2.06 131 133 149 600 610 66 1230 10`\
+`Intertel, TOPS-----v99.0       2.33 135 137 155 640 670 74 1310 14`\
+`NMSQT Semifin.-----v99.5       2.57 139 141 161 670 710 81 1360 17`\
+`                    99.7       2.74 141 144 165 690 730 84 1390 19`\
+`                    99.8       2.88 143 146 168 710 740 86 1420 21`\
+`ISPE,TNS,Min,Cinci-v99.9       3.09 146 149 173 730 760 89 1450 24`\
+`                    99.95      3.29 149 153 178 750 780 91 1480 27`\
+`                    99.97      3.43 151 155 182 760 790 92 1500 28`\
+`                    99.98      3.54 153 157 184 770 800 93 1510 30`\
+`                    99.99      3.73 156 159 188 780     94 1530 32`\
+`                    99.995     3.90 158 162 192 790     95 1540 34`\
+**`Prometheus,4 Sig.--v99.997     4.02 160 164 195 800     96 1550 36`**\
+`                    99.998     4.10 162 166 197         97 1560 37`\
+`Geniuses of Dstng.-v99.999     4.27 164 168 201         98 1570 39`\
+`                    99.9995    4.42 166 171 205            1580 40`\
+`                    99.9997    4.53 168 172 207                 41`\
+`                    99.9998    4.61 169 174 209            1590 42`\
+`Mega, One-in-a-Mil-v99.9999    4.75 171 178 212            1600 43`\
+`                    99.99995   4.89 173 178 216`\
+`                    99.99997   5.00 175 180 218                 44`\
+`                    99.99998   5.07 176 181 220`\
+`                    99.99999   5.20 178 183 223                 45`\
+`                    99.999995  5.33 180 185 226`\
+`                    99.999997  5.42 181 187 228                 46`\
+`                    99.999998  5.50 182 188 230`\
+`                    99.999999  5.61 184 190 233                 47`\
+`                    99.9999995 5.73 186 192 236`\
+`                    99.9999997 5.82 187 193 238                 48`\
+`                    99.9999998 5.88 188 194 239`\
+`                    99.9999999 6.00 190 196 242`
+
+**`*`**` `Kjeld Hvatum's  "Letter to Ron Hoeflin" and Ron's response, *In-Genius*, \# 15, August 1990
+
+------------------------------------------------------------------------
+
+** **
+
+<span id="8.4 Review of norming analyses of currently"></span>**8.4 Review of norming analyses of currently accepted tests**
+
+**In view of continued criticisms of tests that have been accepted for entry to the Prometheus Society, it has seemed prudent to review the norming analyses of these tests to assess whether in our view they warrant continued use for application to the Prometheus Society and to provide data for a more meaningful debate on related issues. We have attempted to understand the rationale for approaches and to determine its legitimacy to the best of our abilities. We have also presented the arguments that have been levied against these instruments.**
+
+**We believe that we have been fair in our assessments.**
+
+<span id="8.4.1 Mega test"></span>**8.4.1 Mega test**
+
+**We feel that Ron Hoeflin's Mega test may represent the best one can reasonably expect in terms of establishing a credible 1-in-30,000 cutoff on a high-level test of mental performance abilities because of the dearth of available information on other tests at the high level of our cutoff criterion with which to norm and calibrate a high range test. A general statement that can be made about the Mega is that the predictive value of a fairly small number of Mega problems is quite amazing as can**
+
+**be seen in a subsequent section of this report where the "short Form" of the Mega (the Mega27) is discussed. We have considered negatives that have been pointed out with regard to the Mega test over the years and have attempted to capture those criticisms in a separate section below. Notwithstanding such criticism, we have concluded that the setting of 1-in-30,000 cutoff at a score of 36 on the sixth norming of the Mega Test is quite credible. That is, of course if one could discount the possibility of compromised answers on the Internet and elsewhere as described in section 8.3.2 above. These conclusions are based on the following analyses.**
+
+**Review of the Mega Test sixth norming:**
+
+**The Mega Test sixth norming is based on a weighted average of several tests for which paired raw scores are available. The norming is, however, heavily biased towards the SAT since that test provides the largest number of score pairs for the norming. According to the sixth norming, a comparison of the average of the standard tests vs. the combination of standard tests plus SAT scores agree well to somewhat beyond the 1-in-30,000 cutoff with which we are particularly concerned. Notice, however, that in accepting Dr. Hoeflin's sixth norming, we feel that we should also accept SAT and other test scores used in the norming at the associated level for admissions to the Prometheus Society. To do otherwise would be inconsistent since SAT raw score data (in particular) was used explicitly to norm the Mega.**
+
+***Test Equating: Methods and Practices*, by Michael Kolen and Robert Brennan and Test Equating, edited by Paul Holland and Donald Rubin who are with Educational Testing Service (ETS) both discuss "Equipercentile Equating" under the general heading of common ways to find equivalent scores on two different tests. The meaning of this approach is obvious from the name. (It is worth noting that these references refer to "equipercentile equating" rather than equating based on equivalent standard deviations.) This is the technique we have sometimes referred to as "score pairing."**
+
+**We have spent considerable time discussing the legitimacy of this method and believe the approach itself to be valid. Since it is the approach used by Dr. Hoeflin in norming his Mega test that was previously accepted for entry to the Society, it seemed essential that we understand the rationale for the method. (In general it seems more advisable for the committee to merely evaluate norming data rather than attempting to re-do it.) Bill McGaugh has conducted an independent study to be published in *GoF* Issue 102 as "(Bill we need a title)" describing the application of this methodology to athletic capabilities of world class decathlon participants in which he shows the method to work effectively in that arena as well. Some (even some of us) have considered this approach nontraditional and somewhat controversial as the "side-by-side" score-pairing by which it is sometimes referred, as though the technique were exclusively used by Hoeflin for establishing the 1-in-30,000 cutoff using the 220 SAT-Mega score pairs. See for example Roger Carlson's article, "The Mega Test" (*Test Critiques*, Volume VIII, 1991). Evidently, however, it is an accepted method used routinely by the ETS. The following is a plausibility-based argument that the committee used in understanding this equipercentile equating method :**
+
+**If one assumes that raw scores on the Mega and the SAT are monotonically related to mental ability, i. e., that a higher raw score on either test correlates with higher mental ability, then there is some function z<sub>1</sub>(n) that relates raw scores on the Mega to standard intelligence scores z and there is some function z<sub>2</sub>(m) that relates raw scores on the SAT to standard scores z, where z = (IQ-100)/16. It is plausible to assume that the joint probability distribution of z<sub>1</sub> and z<sub>2</sub> is just the bivariate normal distribution p(z<sub>1</sub>,z<sub>2</sub>,r) for some correlation r. This function is symmetric in z<sub>1</sub> and z<sub>2</sub>. Thus, for any random sample for which raw scores exist for both the SAT and Mega, if we have n scores with z<sub>1</sub> \> 4, then we would expect n scores with z<sub>2</sub> \> 4. These would not generally be the same n individuals in each case. Thus, if we know the 1-in-30,000 cutoff on the SAT (raw score=1560), and if there are N people in the sample of people taking both the SAT and the Mega scoring at this level or higher on the SAT, then counting down the highest N Mega scores from the sample would give a reasonable estimate of the 4-sigma cutoff on the Mega (raw score=36). Ron Hoeflin showed that, if you do this for several different cutoffs, then the resulting Mega normalization is linear over a range of scores including 36. This linearity feature seems to be standard on IQ tests over their range of applicability.**
+
+**We are aware that there are difficulties in this argument (e.g., with respect to self-reporting of SAT scores, nonrandomness of sampling, small sample sizes, and mathematically allowed but "unphysical" test scores associated with ceiling effects). Roger Carlson has pointed out several of these problems in his review, "The Mega Test" appearing in *Test Critiques*, Volume VIII, 1991. We believe that the arguments could be tightened up in the future, but that the use of the data shown in the equipercentile equating plot does not raise any immediate "red flags" in these regards for determining the Prometheus Society cutoff score on the Mega. The correlation data does seem to reveal some reticence on the part of participants to claim SAT scores below 1150 which has probably reduced the correlation coefficient (r=0.495) that is shown by the trend line in figure 2 significantly and is very likely responsible for some of the nonlinearities in figure 2 especially the bending at the low end.**
+
+<span id="Figure 2Mega vs. SAT Score Correlation"></span><img src="Image121.gif" width="369" height="346" />** <span id="Figure 3Equipercentile Equating of Mega and SAT"></span><img src="Image122.gif" width="353" height="350" />**
+
+**Figure 2: Mega vs. SAT Score Correlation Figure 3: Equipercentile Equating of Mega and SAT**
+
+** **
+
+**In addition to correlations with the SAT raw scores, data is available from which correlations have been made against eight other intelligence tests. Plots of score pairs are provided for the LAIT, Cattell, CTMM and WAIS in figure 4. (The data for the figure are available at the URL http://www.eskimo.com/~miyaguch/megadata/megacorr2.html.) These correlations "r" and the number of raw score pairs (N) that they are based upon are included in the following table:**\
+<span id="correlations have been made"></span>\
+ 
+
+|                                                 |         |         |
+|-------------------------------------------------|---------|---------|
+| ***Other Test***                                | ***r*** | ***N*** |
+| ***LAIT (Langdon Adult Intelligence Test)***    | 0.673   | 76      |
+| ***GRE (Graduate Record Examination)***         | 0.574   | 106     |
+| ***AGCT (Army General Classification Test)***   | 0.565   | 28      |
+| ***Cattell***                                   | 0.562   | 80      |
+| ***SAT (Scholastic Aptitude Test)***            | 0.495   | 220     |
+| ***MAT (Miller Analogies Test)***               | 0.393   | 28      |
+| ***Stanford-Binet***                            | 0.374   | 46      |
+| ***CTMM (California Test of Mental Maturity)*** | 0.307   | 75      |
+| ***WAIS (Wechsler Adult Intelligence Scale)***  | 0.137   | 34      |
+
+**This table and the corresponding figure are considerably at variance with the table of "actual correlations" presented by Langdon in the article, "Mensa Tests and Other Standard Tests" (*Gift of Fire*, Issue 81, January 1997) in response to Greg Scott's article "For Acceptance of Mensa Supervised Tests" (*Gift of Fire*, Issue 99, September 1998) that cites the data above, which is available to the general public at: \<http://www.eskimo.com/~miyaguch/megadata/megacorr.html\>. The table above has been verified and corresponds to currently available data. If Langdon's data does indeed support the correlations as he indicates (and we have no basis for disagreeing) then it must be concluded at a minimum that there is considerable variation in such measurements with respect to the Mega. Interpretations of his table can not be made without inspecting the data (which is currently not available to us).**
+
+<span id="Figure 4: Correlation of Mega vs. Other Tests' Score Pairs"></span><img src="Image123.gif" width="615" height="546" />
+
+**Figure 4: Correlation of Mega vs. Other Tests' Score Pairs**
+
+**Some of these other tests for which correlations are available including the GRE (presumably on the earlier version for which raw scores sometimes exceeded 1600) and CTMM support equipercentile equating up to or near the 1-in-30,000 cutoff as shown in figures 5 and 6 below. The GRE score of 1610 would seem to be a comparative score to the Mega raw score of 36. This is quite compatible with statements to the effect that ETS had provided data indicating a score of 1620 corresponded to the 4-sigma level as reported by Paul Maxim in his article "Renorming Ron Hoeflin's Mega Test", (*Gift of Fire*, Issue 79, 8 - 12, October 1996.)**
+
+**A rather amazing fact is that for the CTMM a 1-in-30,000 cutoff is indicated at a CTMM score of only 155, but of course there is insufficient data to confirm such a result.**
+
+**The norming data that Ron Hoeflin used in this sixth norming is currently available on Darryl Miyaguchi's High IQ Testing web site.**
+
+<span id="Figure 5 Equipercentile Equating of Mega and GRE"></span><img src="Image124.gif" width="621" height="399" />
+
+**Figure 5: Equipercentile Equating of Mega and GRE**
+
+<span id="Figure 6Equipercentile Equating of Mega and CTMM"></span><img src="Image125.gif" width="621" height="399" />
+
+**Figure 6: Equipercentile Equating of Mega and CTMM**
+
+**Item Response Theory (IRT) analysis of the Mega test sixth norming:**
+
+**The norming analysis performed by Grady Tower's that appeared in *In-Genius* (Issue \# 25, January 1991) has been obtained as well as the associated norming data that was provided to Grady by Ron Hoeflin for that purpose. This analysis was re-run as a part of the Membership Committee analyses with a couple of corrections and iterations implemented that had not been present in the original analysis. Iteration (of the t-matrix) was identified as optional in the source paper, "A Procedure for Sample-Free Item Analysis," by Wright and Panchapakesan ("A Procedure for Sample-Free Item Analysis," *Educational and Psychological Measurements*, Vol. 29, 23-48, 1969). The analysis that was performed for this committee used the conceptually simpler, but somewhat less accurate "log" method rather than a "maximum likelihood" method (both methods are described in the referenced paper).**
+
+**Figure 7 demonstrates the results from one-parameter Item Response Theory (IRT) Rasch model calculations which show IQ assignments versus raw score for the full Mega (Mega48) test. The IRT scale must, of course, be calibrated. In the chart below, it has been calibrated against the linear portion of the mapping resulting from Ron's equipercentile equating of Mega scores onto SAT scores shown in figure 4 above for the sixth norming of the Mega data. The IRT calibration depends on the validity of that data. The fact that the IRT scale looks like that obtained on the sixth norming by other means is, therefore, not surprising.**
+
+**Also provided in this figure of IRT data are reliability indicators, showing one standard deviation error tolerances on the data. Clearly this Rasch model does nothing to destroy the notion of reliable mental performance measures up to the 165 IQ range which is at or above the 1-in-30,000 cutoff of interest to the Prometheus Society. It also shows grave reliability limitations beyond the Prometheus Society cutoff level, however.**
+
+<span id="Figure 7Mega48 IRT Test Norming"></span><img src="Image126.gif" width="553" height="456" />
+
+**Figure 7: Mega48 IRT Test Norming**
+
+**Intelligence filter operative in the Mega test sixth norming:**
+
+**We have examined the effects of IQ filtering to assess the extent to which the Mega test applicants differ from the general population. The results show those selection pressures result in filtering who will respond on such tests such that the probabilities of submitting a test for scoring increases dramatically with the resultant scoring percentile itself over a quite extensive range of scores. This phenomena has amazed us at times in our deliberations as indicating that individuals have a very good built-in "feel" for the degree of their own intelligence and perform a very critical self-selection evaluation prior to submitting such a test.**
+
+**The distribution of scores on the Mega test are quite obviously not distributed according to a normal distribution as shown in figure 8 below. There are many more nominally high scores than a normal would accommodate. This fact has been challenged as reason in and of itself for invalidity and "inflation" of the Mega norming. See for example, Paul Maxim's "Renorming Ron Hoeflin's Mega Test" (*Gift of Fire*, Issue 79, October 1996). We feel that this criticism without further supporting evidence is invalid, however, because -- quite simply -- a random sample of the general population do not submit responses to the Mega test and the extent of the selection was underestimated in the article. In fact, respondents are filtered by their own and other quite extensive pressures such that an extremely selective sampling takes place -- much more effective (as far as elevating the mean) than a simple cutoff band pass filter. Refer to the article by Fred Vaughan also appearing in Issue 79 of *Gift of Fire* called "Intelligence Filters" and in the mathematical methods section of this report for an explanation concerning the characteristics and effects of such selective filters.**
+
+<span id="Fig. 8Distribution of Mega Test raw scores for sixth norming"></span><img src="Image127.gif" width="495" height="388" />
+
+**Fig. 8: Distribution of Mega Test raw scores for sixth norming**
+
+**If Mega(n) is the number of people who scored n correct on the Mega test and N<sub>T</sub> is the total number of people who took the test. Then the conditional probability that someone would score n on the Mega test given that they took the test is obviously approximated by the frequency data:**
+
+**P(n; take test) = Mega(n) / N<sub>T</sub>**
+
+**But, of course, to address the cutoff criteria of 1-in-30,000 of the general population, what we need to know is what would the frequency distribution P<sub>IQ</sub>(n) be if the test were administered to a large random sample of the general population, N<sub>P</sub>. The mathematical treatment of an intelligence filter provides this conversion such that:**
+
+**P(n; take test) = F(n) \* P<sub>IQ</sub> (n), so that,**
+
+**F(n) = Mega<sub>IQ</sub>(n) / ( NT\* P<sub>IQ</sub> (n) ), where it is assumed that**
+
+**P<sub>IQ</sub> (n) = NORMDIST(n,100,16,TRUE),**
+
+**when n is rescaled to a standard IQ score obtained on the Mega.**
+
+**The Mega test does not result in a uniform scaling of IQ vs raw score. For example, the IQ 100 conversion is to a raw score of 1 on the Mega. IQ 116 (one sigma) is at raw score of 4; IQ 132 (two sigma) is at raw score 9; IQ 150 (three sigma) is at a raw score of 24; IQ 164 (4 sigma) is at a raw score of 36; and so on with a standard deviation that increases with score. (This nonlinearity of scaling was taken from the fourth norming of the Mega.) The distribution of the sixth norming was "linearized" by spreading the data to obtain Mega<sub>IQ</sub>(n) from Mega(n) using the fourth norming IQ assignments. This was done using a simplistic algorithm for proportionately dividing Mega(n) among associated IQ increments to obtain Mega<sub>IQ</sub>(n) without smoothing. A selective filter on the normal distribution of the general population applies exclusively to Mega<sub>IQ</sub>(n).**
+
+**In this way it was determined that the number of individuals in the assumed general population from which selection for taking the Mega occurs is on the order of 3 million people, i. e., the number of those who score above the 164 cutoff IQ is appropriate to a normal distribution with NT = 2,850,000 people. See figures 9 and 10 below which plots Mega<sub>IQ</sub>(n)/P<sub>IQ</sub>(n) as well as the hypothesized selective filter using both log and normal scales. An accumulative error function distribution used as the selective filter is plotted in the azure circles. The error function seems to be an excellent fit throughout a quite extensive range of scores as can be seen on a log scale and accounts fully for the preponderance of high scores on the Mega as can be seen.**
+
+**The equation of the Error Function filter, using Excel nomenclature is:**
+
+**F(n) = NORMDIST(n,M,s,TRUE),**
+
+**where the mean, M = 162, standard deviation, s = 13.4. The effective population size being filtered is N<sub>P</sub> = 2,850,000. So although there is a very restricted set of individuals who actually respond to the Mega there is a fairly large arena from which only the undaunted actually submit responses for scoring. The arena size no doubt derives in part from national exposure of the "World's Toughest IQ Test" (OMNI Magazine, X, X -- anyone have this reference?) and an Internet presence. Although the filtering is much more intense than that for the SAT, the general form of the filter is quite similar. One could speculate with regard to the rationale for the filter form being as it is, but the Membership Committee has not formulated a position with respect to that.**
+
+<span id="Fig. 9Mega IQ-scaled distribution"></span><img src="Image128.gif" width="621" height="399" />
+
+**Fig. 9: Mega IQ-scaled distribution (actual, predicted, and general populations) and filter**
+
+ 
+
+<span id="Fig. 10:Mega IQ-scaled distribution --log scale"></span><img src="Image129.gif" width="621" height="399" />
+
+**Fig. 10: Mega IQ-scaled distribution (actual and predicted) -- log scale**
+
+**g loading of the Mega test sixth norming:**
+
+**Using the *Easy Factor* program, a Principal Components Analysis was performed on the sixth norming of the Mega data. The loading on the first factor, which is reasonably interpreted as being g, is 0.62. This is a reasonably high loading since we are basing this analysis on data that was not randomly selected, and, does not represent the full range of intelligence. The g loading of the test is a bit lower than it would be if it were a test with many more easy problems (with multiple choice answers) that are solvable by a wider range of the population.**
+
+**In a communication of one of our Membership Committee members with Grady Towers concerning an analysis he performed some time ago based on 46 individuals who had reported scores on both the LAIT and Mega, he reported finding that the Mega (partitioned into "verbal" and "non-verbal" portions) was g-loaded as follows:**
+
+ <span id="Mega (partitioned into verbal and non-verbal portions) was g-loaded"></span>
+
+<table data-border="" data-cellspacing="2" data-cellpadding="9" width="604" data-bordercolor="#000000">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-valign="TOP" width="24%" data-bgcolor="#800000"><strong><em>Mega</em></strong></td>
+<td data-valign="TOP" width="11%" data-bgcolor="#800000"><strong><em>g</em></strong></td>
+<td data-valign="TOP" width="28%" data-bgcolor="#800000"><strong><em>bifactor</em></strong>
+<strong><em>verbal/nonverbal</em></strong></td>
+<td data-valign="TOP" width="15%" data-bgcolor="#800000"><strong><em>fluid g</em></strong></td>
+<td data-valign="TOP" width="22%" data-bgcolor="#800000"><strong><em>crystalized g</em></strong></td>
+</tr>
+<tr>
+<td data-valign="TOP" width="24%" data-bgcolor="#FFFFFF"><strong><em>"verbal"</em></strong></td>
+<td data-valign="TOP" width="11%" data-bgcolor="#FFFFFF">.48</td>
+<td data-valign="TOP" width="28%" data-bgcolor="#FFFFFF">.55</td>
+<td data-valign="TOP" width="15%" data-bgcolor="#FFFFFF">.13</td>
+<td data-valign="TOP" width="22%" data-bgcolor="#FFFFFF">.72</td>
+</tr>
+<tr>
+<td data-valign="TOP" width="24%" data-bgcolor="#FFFFFF"><strong><em>"non-verbal"</em></strong></td>
+<td data-valign="TOP" width="11%" data-bgcolor="#FFFFFF">.86</td>
+<td data-valign="TOP" width="28%" data-bgcolor="#FFFFFF">.00</td>
+<td data-valign="TOP" width="15%" data-bgcolor="#FFFFFF">.74</td>
+<td data-valign="TOP" width="22%" data-bgcolor="#FFFFFF">.44</td>
+</tr>
+<tr>
+<td data-valign="TOP" width="24%" data-bgcolor="#FFFFFF"> </td>
+<td data-valign="TOP" width="11%" data-bgcolor="#FFFFFF"> </td>
+<td data-valign="TOP" width="28%" data-bgcolor="#FFFFFF"> </td>
+<td data-valign="TOP" width="15%" data-bgcolor="#FFFFFF"> </td>
+<td data-valign="TOP" width="22%" data-bgcolor="#FFFFFF"> </td>
+</tr>
+</tbody>
+</table>
+
+** **
+
+**"negatives" with regard to the Mega test:**
+
+**In the interest of all opinions and data being presented, we have tried to fairly represent the positions of detractors of the Mega test. These positions are not necessarily considered to have invalidated the test even by their proponents, but merely have been expressed concerns that needed to be evaluated.**
+
+**The initial period in the Mega test formation consisted of gathering self reported IQs on other IQ tests taken by a highly selective group of participants in the Mega test. These were provided by a group of only 97 people to obtain norming data. This has been deemed reasonable considering the severe constraints on developing such a test. Although, an estimate of standard error of measurement and an estimate of test reliability which emphasize the tentativeness of mental measurements rather than their exactness have not been established. This was cited by Roger Carlson in his article, "The Mega Test" (*Test Critiques*, Volume VIII, 1991). The Mega test's problem in determining construct validity derives in part from the nature of self-reported and self-selected IQ scores used for the norming. Greg Scott's article "For Acceptance of Mensa Supervised Tests" (*Gift of Fire*, Issue 99, September 1998) addresses this fault. If not handled very carefully, self-reporting could easily produce an elevated norm. It should be noted, however, in reference to figure 21 presented farther on in this report, that where both SAT and GRE scores have been reported, equipercentile equating between those two-test scores is extremely good, indicating that if disingenuous tactics were employed, it involved a concerted effort by many individuals -- we think that unlikely.**
+
+**There are also criticisms for using non-random sample composition. There is no data concerning the nature of the sample composition with regard to who takes the test, and who sends in score-pair norming data and this does not enable one to assume that potential sample errors are insignificant. Although it should be stated that this is in part, mitigated by the use of IRT methods to scale ability levels and maximum likelihood scoring analyses, which are, in principle, independent of sample composition.**
+
+**A related problem comes from the fact that test results have shown increases over the years. (Refer to 8.3.2 above where this is assessed with regard to scores of new members over the years which appeared to involve minimal creep.) This may well be related to answer leakage, access to the internet and computer technology. This does undermine the validity of the Mega norming. The Mega 27 has been an attempt to deal with some of these problems. Criticisms about the test's ability to make fine discriminations at high ranges are lessened by the nature of the Mega test norming, in the middle range, which has about 1.2 scaled points for each raw point. The norming data shows the test to discriminate quite reliably near the 3-sigma level of ability in the general population.**
+
+**However, there is a problem with the Mega scores in comparison to scores from standard IQ tests which reveal a wide scatter, resulting in correlations which are weak. These are low correlations compared to the correlations between standard IQ tests which are normally in the range of 0.7-0.8. The Mega correlations with recognized tests such as the Cattell, Stanford-Binet, CTMM, and WAIS are 0.562, 0.374, 0.307, and 0.137, respectively. The correlation with the SAT which was used heavily for the sixth norming is only 0.495. A correlation around 0.4 is considered to be weak. Note, however that these correlations are uncorrected for range restriction and for attenuation due to imperfect reliability. A possible reason for the very low correlation with the WAIS is the low ceiling (150).**
+
+**Also note that some of the tests against which the test was normed either have low ceilings (WAIS) or normings that are likely to be inaccurate past IQ 150 (Stanford-Binet). At the high end there is even greater discrepancy between scores. This undermines to some degree claims of validity in measuring IQ with the Mega test. However, the average SAT score of those with a score at or above 36 on the Mega test is 1498, leaving considerable room before reaching the ceiling of the test but leaving some doubt as to why there were not more extremely high high SAT scores. Another analysis by Grady Towers reveals that the Mega Test does not load high on fluid g, but much higher on crystallized intelligence. This runs counter to an interest in selecting for fluid g at the 1-in-30,000 level.**
+
+**It is not unreasonable to assume that the Mega test could reliably discriminate scores in a range of at least +/- 1 sigma about its 50% correct score. From a Mega standard score of 100 to Mega standardized score 116 (one standard deviation), the percentile ranking changes from 50 to 84 (34 percentile points); contrast this with the change in percentile ranking from Mega score 148 to Mega score 164, which is also one standard deviation -- the percentile ranking changes from 99.87 to 99.997, a difference of only .127 percentile points. Were we to adhere to traditional usage of percentile scores, we would designate all scores above the 99th percentile as "99+," which is not very useful. But, supporting the Mega test's ability to discriminate at the very highest levels of g (low correlation with other IQ tests, in addition to Spearman's law of diminishing return), is significantly problematic.**
+
+**The Mega test has not been normed on large populations and unlike standard IQ tests (which may have had comparable population sizes for norming, it aspires to validity at a much higher rarity. It has in turn been normed on these tests which also have insufficient populations. If there are problems with right-tail bumps at the high end of standard IQ tests, then the Mega test can not claim immunity from such phenomena.**
+
+**The test does not have any built in controls over what goes on in the testee's mind providing the necessary probability that an item is measuring specific cognitive processes. There have been continous and possibly legitimate complaints that the Mega test measures resourcefulness, tenacity, time available, motivation, access to applicable reference material, habitual cognitive strategies or algorithims, specialized knowledge, use of computers, rather than a general form of innate cognitive ability. See for example David Slater's article, "Some Thoughts on Super High IQ Society Admission procedures" (*Gift of Fire*, Issue 100, October 1998), Kevin Langdon's "Reply to Dave Slater on Test Design" (*Gift of Fire*, Issue 102, January 1999) and Don Johnsons "Intelligence Testing and the Ego" (*Gift of Fire*, Issue 100, October 1998).**
+
+**Ultimately, the facts surrounding its being a non-proctored take-at-home test will always leave questions concerning the degree to which the applicant followed the ostensible rules of the test. Demographics of members of the Prometheus Society suggest that little collaboration among test takers has affected participants at this level.**
+
+<span id="8.4.2 Mega27 -- A Short Form of the Mega Test"></span>**8.4.2 Mega27 -- A Short Form of the Mega Test**
+
+**Our efforts with regard to the Mega27 test have been an effort devoted to obtain an approach to work around the leakage of answers to the Mega test by eliminating compromised problems and the very easiest problems that remain. It uses the remaining unleaked and harder problems to assess the applicants' credentials. Considerable progress has been made by the Membership Committee in assessing this potential using correlations with the original sixth norming of the Mega, Item Response Theory (IRT), maximum likelihood scoring techniques and factor analysis. In addressing this issue, it seemed prudent that additional problems which are much too easy to discriminate at the 1-in-30,000 level should also be eliminated. In this way we obtained a "Mega27 Test". This test retains only 27 rather than the original 48 test questions. This approach will also forestall the inevitable compromise of these easier problems thus extending the useful life of the Mega for our purposes. The results seem extremely promising as described in the following paragraphs.**
+
+**Correlation between Mega27 and Mega48 Score Pairs:**
+
+**Figure 11 provides the correlation of score pairs for the Mega27 and the Mega48. The fact that the correlation is strong is not surprising. A raw score of between 19 and 20 seems to compare favorably with the Mega score of 36. Figure 11 illustrates that a score of 21 on the Mega27 excludes eleven (11) participant who scored 36 or greater on the Mega48. However, a score of 36 on the mega48 excludes only two (2) participants who scored 21 or greater on the mega27. The mean Mega27 score of the 11 excluded participants scoring 36 or more on the Mega 48 was just over 37, whereas the mean of the 2 included was 34. In short, the Mega27 cutoff of 21 would be (to the extent that it is any different) more restrictive than a Mega48 cutoff of 36. This data indicates that the 1-in-30,000 criterion is easily maintained (and in fact made more plausible) in going to the short form of the test if a Mega27 score of 20 correct out of the 27 is used.**
+
+** **
+
+** **
+
+<span id="Figure 11Correlation of Score Pairs of Mega27 with Mega48"></span><img src="Image130.gif" width="489" height="434" />
+
+**Figure 11: Correlation of Score Pairs of Mega27 with Mega48**
+
+**IRT analysis of the Mega27:**
+
+**Figure 12 provides similar data for the Mega27 to that provided in figure 7 for the Mega. Figure 12 illustrates that the Mega27 is more reliable at both ends (including down around 130 IQ and up around 170 to 175 IQ) than the Mega48. This data illustrates that the 1-in-30,000 criterion is easily maintained (and in fact made more plausible) in going to the short form of the test. The 1-in-30,000 level on the Mega27 is a score of between 21 and 22 correct out of the 27 (the score 21 correlates closest to the Mega48 score of 36) as is easily seen in the two figures. When this analysis is taken in conjunction with the correlation data shown above, the raw score of 21 seems to be a reasonable assignment.**
+
+<span id="Figure 12Mega27 IRT Test Norming"></span><img src="Image131.gif" width="470" height="438" />
+
+**Figure 12: Mega27 IRT Test Norming**
+
+** **
+
+**Maximum likelihood scoring of the Mega27 in comparison with the Mega48:**
+
+**As further justification of this step, the following figures illustrate the comparison of the traditional scoring of the Mega with a maximum likelihood method based on the unique difficulty profiles of the individual test items and probabilities of correctly answering the questions. The top fifty or sixty scorers in the Mega sixth norming data set are represented in the two figures (13 & 14) below. Again, as can easily be seen, the results are "more regular" and seem more reliable with the Mega27 than with the original Mega48. In particular, for the Mega48 there are 17 instances (30%)** **where the assigned score is higher than for another individual whose probability-based score is higher. Some of these discrepancies are as large as two raw score points. In contrast, for the Mega27there are only five such scores with only a single one exceeding a full raw score point.**\
+ 
+
+<span id="Figure 13Mega (48-item) Test Scoring"></span><img src="Image132.gif" width="619" height="428" />
+
+**Figure 13: Mega (48-item) Test Scoring**
+
+**-- Traditional (Series 2 vs. Maximum Likelihood (Series 1)**
+
+<span id="Figure 14Mega27 Test Scoring --"></span><img src="Image133.gif" width="615" height="378" />
+
+**Figure 14: Mega27 Test Scoring --**
+
+**Traditional (Series 2) vs. Maximum Likelihood (Series 1)**
+
+ 
+
+**When 50% confidence levels are applied to maximum likelihood scores for both the Mega48 and Mega27, the Mega48 interval is about +/- 4 raw score points. The mega27 is about 1/2 to 2/3 of that amount which is to be expected because the variation depends on the problem profiles which are virtually identical in both cases. If these results were iterated, the maximum likelihood scores would have been "smoother," but the the point is still the same: The Mega27 score which we will be recommending appears to be even more reliable than the Mega48.**
+
+**g loading of the Mega27:**
+
+**Factor analysis on the Mega27 actually resulted in an insignificant increase in weighting on the principle component (that can be interpreted as g). To two-decimal places, this g-loading is now 0.63. It seems apparent, therefore, that g loading has certainly not been sacrificed in cutting the Mega test down to 27 questions. Again, we must remember that this analysis was performed on data that was not randomly selected, and, does not represent the full range of the normal distribution of the general population. The assessed g loading of the test is, therefore, a bit lower than it would be if it were performed on a test with many more easy problems that are solveable by a wider range of the population. However, it is worth noting that by taking out the easiest seven problems on the 48-item Mega, we do not seem to have adversely affected the g loading.**
+
+**agreements for scoring the Mega27:**
+
+**It is essential that the test developer and scorer, Dr. Ronald Hoeflin, agree to the modified use of his test and the added imposition of providing the unique Mega27 score specifically for the Prometheus Society. Several alternative approaches to obtaining this have been proposed to Dr. Hoeflin. We are currently in negotiation with Ron and it would appear that he is in basic agreement with our approach.**

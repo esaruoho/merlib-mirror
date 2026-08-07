@@ -1,0 +1,67 @@
+Download the Book of Common Prayer. 
+
+ Download the Book of Common Prayer . 
+ Almost as soon as I publicized this site's existence, people began asking me if it was possible to download the files from this website, either all at once or for particular services. For a long time, it wasn't. I'd thought about creating ASCII files for download, but each time I thought about it I got caught up in the problems of preserving as much of the formatting as is necessary to make the files usable: the online version uses color and typeface to distinguish rubrics and instructions from spoken text. When I tried to translate the files into ASCII, I lost a lot of that information. So every time I tried to put together downloadable files, I threw up my hands and decided to wait until I got a better idea of how to do it. 
+ I finally decided to make several sets of downloadable files available. I have zipped the files together into "collections", which correspond to the organization of the Site Directory . Not all of the files are available in all of the formats. The list at the bottom of this page provides links to available collections. 
+ The easiest to prepare, obviously, were the HTML documents themselves. I simply zipped them together in batches and stuck them in a directory. All of the files are available in this format. 
+ Next, I converted everything to RTF. This format allows me to preserve the color and the different type styles, and can be imported into nearly any word processor. I think all of the files are available in this format. Let me know if you want something that I've missed here. 
+ Because of problems with formatting, some things (particularly the tables) are not available as ASCII files at this point. I will add additional files as I get them worked out. 
+
+ The Book of Common Prayer (1662): 
+ &#160; &#160; Complete (excluding the Psalter): [ HTML ] [ RTF ] [ ASCII ] 
+ &#160; &#160; &#160; &#160; (To conserve space, the Psalter is available separately below .) 
+
+ &#160; &#160; Introductory Matter: 
+ &#160; &#160; &#160; &#160; Standard materials [ HTML ] [ RTF ] [ ASCII ] 
+ &#160; &#160; &#160; &#160; The Act of Uniformity [ HTML ] [ RTF ] [ ASCII ] 
+
+ &#160; &#160; Informational Material: 
+ &#160; &#160; &#160; &#160; Ordering the Services [ HTML ] [ RTF ] [ ASCII ] 
+ &#160; &#160; &#160; &#160; Proper Lessons (from 1662) [ HTML ] [ RTF ] 
+ &#160; &#160; &#160; &#160; Proper Lessons (current version) [ HTML ] [ RTF ] 
+ &#160; &#160; &#160; &#160; Text of Lessons taken from the Apocrypha [ HTML ] [ RTF ] [ ASCII ] 
+ &#160; &#160; &#160; &#160; Calendar and Table of Lessons (1662) [ HTML ] [ RTF ] 
+ &#160; &#160; &#160; &#160; Calendar and Table of Lessons (1871) [ HTML ] [ RTF ] 
+ &#160; &#160; &#160; &#160; Table of Lessons (1922) [ HTML ] [ RTF ] 
+ &#160; &#160; &#160; &#160; Tables and Rules for the Feasts and Fasts [ HTML ] [ RTF ] 
+ &#160; &#160; &#160; &#160; Tables to Find Easter (from 1662) [ HTML ] [ RTF ] 
+ &#160; &#160; &#160; &#160; Tables to Find Easter (from 1752) [ HTML ] [ RTF ] 
+ &#160; &#160; &#160; &#160; Tables to Find Easter (current version) [ HTML ] [ RTF ] 
+
+ &#160; &#160; The Daily Offices: [ HTML ] [ RTF ] [ ASCII ] 
+
+ &#160; &#160; The Holy Communion: 
+ &#160; &#160; &#160; &#160; Standard materials [ HTML ] [ RTF ] [ ASCII ] 
+ &#160; &#160; &#160; &#160; From the Book of Common Prayer of 1549 [ HTML ] [ RTF ] [ ASCII ] 
+ &#160; &#160; &#160; &#160; From the Book of Common Prayer of 1552 [ HTML ] [ RTF ] [ ASCII ] 
+
+ &#160; &#160; The Baptismal Offices: [ HTML ] [ RTF ] [ ASCII ] 
+
+ &#160; &#160; The Occasional Offices: 
+ &#160; &#160; &#160; &#160; Standard materials [ HTML ] [ RTF ] [ ASCII ] 
+ &#160; &#160; &#160; &#160; Extra Occasional Offices [ HTML ] [ RTF ] [ ASCII ] 
+
+ &#160; &#160; The Psalter [ HTML ] [ RTF ] [ ASCII ] 
+
+ &#160; &#160; Forms of Prayer to be used at Sea [ HTML ] [ RTF ] [ ASCII ] 
+
+ &#160; &#160; The Ordinal: [ HTML ] [ RTF ] [ ASCII ] 
+
+ &#160; &#160; The State Services: 
+ &#160; &#160; &#160; &#160; Standard materials [ HTML ] [ RTF ] [ ASCII ] 
+ &#160; &#160; &#160; &#160; Additional State Services [ HTML ] [ RTF ] [ ASCII ] 
+
+ &#160; &#160; The Thirty-Nine Articles: [ HTML ] [ RTF ] [ ASCII ] 
+
+ &#160; &#160; A Table of Kindred and Affinity 
+ &#160; &#160; &#160; &#160; Current version [ HTML ] [ RTF ] [ ASCII ] 
+ &#160; &#160; &#160; &#160; 1662 version [ HTML ] [ RTF ] [ ASCII ] 
+
+ Supplementary Materials: 
+ &#160; &#160; Notes on the festivals of the Church [ HTML ] [ RTF ] [ ASCII ] 
+ &#160; &#160; A Note About my Sources [ HTML ] [ RTF ] [ ASCII ] 
+ &#160; &#160; Notes on the Development of the Book of Common Prayer [ HTML ] [ RTF ] 
+ &#160; &#160; Images Used on this Website (letters) [ GIF ] 
+ &#160; &#160; Images Used on this Website (buttons) [ GIF ] 
+ &#160; &#160; Images Used on this Website (others) [ GIF ] 
+ &#160; &#160; Images Used on this Website (all) [ GIF ]

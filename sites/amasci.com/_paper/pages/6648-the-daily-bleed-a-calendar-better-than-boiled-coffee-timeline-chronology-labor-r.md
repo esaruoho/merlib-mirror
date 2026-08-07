@@ -1,0 +1,503 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0204.htm
+order: 6648
+reachable_from_entry: false
+images: 20
+internal_links: 0
+extracted: 2026-08-07T05:59:24Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0204.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> **Demons & wonders\
+> winds & tides\
+> Already the sea has withdrawn far away\
+> & you\
+> Like seaweed softly caressed by the wind\
+> On a sandy bed you stir as you dream\
+> Demons & wonders\
+> Winds & tides\
+> Already the sea has withdrawn far away\
+> But in your half-open eyes\
+> Two little waves stayed behind\
+> Demons & wonders\
+> Winds & tides\
+> Two little waves to drown me.**
+>
+> 
+>
+> \
+>
+>  *Jacques Prvert* "Quicksand"
+>
+> 
+
+[]()\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/labor/IWW/obu.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="175" height="300" alt="obu" />\
+--
+
+**FEBRUARY 4**
+
+BIG BILL HAYWOOD\
+Wobbly tough guy. Labor leader with an attitude. Always advocated violence against oppression. Convicted of sedition in 1917, sentenced to 20 years hard labor, he jumped bail to Moscow, the so-called workers' paradise, where he died penniless & alone.\
+
+> 
+>
+> *"Got a minor quarrel with this one...To say Haywood "always advocated violence" is a gross exaggeration. He was certainly no Martin Luther King, but he actually practiced & advocated mass non-violent direct action. When the classic period Wobbly organizing team -- Big Bill, Tresca, Saint John & the rest -- would arrive in town, strike violence by the workers tended to drop abruptly. They used terms like, "strike with your arms folded". It tended to be AFL or UMW strikes that were bloody affairs with workers' militias fighting pitched battles with the cops & bombings."*
+>
+>       Anyway, keep up the good work.
+>
+>       Solidarity,
+>
+>                 David, Feb 5, 1999
+
+> 
+>
+> ------------------------------------------------------------------------
+>
+> TORTURE ABOLITION DAY.
+>
+> ------------------------------------------------------------------------
+
+[]()\
+<img src="http://recollectionbooks.com/bleed/images/labor/transab.gif" data-border="0" data-hspace="10" data-vspace="10" width="200" height="200" alt="?" />
+
+> > 
+
+\
+[]()\
+\
+1712 -- US: South Carolina slave traders unable to take Chief Hancock's Tuscarora fort. []()\
+[]()\
+\
+<img src="http://www.lysator.liu.se/runeberg/authors/bellman2_small.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="100" height="100" alt="?" />\
+1740 -- Carl Michael Bellman (1740-1795) lives. Swedish poet-musician, whose songs have remained very popular in Scandinavia. Gained fame for his drinking songs & biblical parodies, which circulated by word of mouth, & in handwritten copies & printed sheets.\
+<http://www.lysator.liu.se/runeberg/authors/bellman.html>\
+[]()\
+\
+1805 -- William Harrison Ainsworth, author of 39 popular historical romances, lives, Lancashire, England. []()\
+[]()\
+\
+1818 -- At Leigh Hunt's, he, Keats, & Shelley vie in composing sonnets on the subject of the Nile. Hunt's is deemed best: "It flows through old hushed Egypt and its sands, / Like some grave mighty thought threading a dream, / And times and things, as in that vision, seem / Keeping along it their eternal stands..."
+
+[]()\
+[]()\
+\
+1819 -- US: *Monarchy for the People!*\
+Emperor Norton I, true ruler of these United States, lives...& well he lives!\
+He ate without paying at whatever restaurant, lunchroom, or saloon took his fancy.\
+Created his own money, which was honored all over Frisco Bay.\
+<img src="http://www.emperornorton.com/images/logo-EN-main.gif" data-border="0" data-hspace="10" data-vspace="30" data-align="LEFT" width="280" height="280" alt="?" />First Emperor of the US & Protector of All Mexico, left an estate comprising a two-&-a-half dollar gold piece, three dollars in silver, a franc piece of 1828, & 1,098,235 shares of stock in a worthless gold mine & a large if supine army:
+
+We are but the Emperor's Imperial Guard!
+
+His principle philosophical clarion call, "Principia" is gospel & therefore unquestionable truth.
+
+See Herbert Asbury's "The Barbary Coast."
+
+The Emperor called for a world of leisure & creativity, a country of the mind without borders, in which all were engaged in their most creative work. Waiters & busboys presented lectures & philosophers cleaned tables. (*"I could argue all day about the significance of facing east in religious rituals, but a clean table is a clean table."*)
+
+Scientists & engineers conferred & drew up plans for great civic projects, mile-high buildings, gigantic ocean-going balloons propelled by bicyclists, a network of tubes beneath the city to speed postal deliveries. The plans themselves were considered to be great works of art, & exhibitions drew great throngs.
+
+He had two dogs, Lazarus & Bummer. Probable source of the word 'bummer' adopted in the 60s & still in usage today...as in:
+
+"Did a dog die?" "Yeah, man. . . a real *Bummer.*"
+
+
+
+> > []()\
+> > <http://www.zpub.com/sf/history/nort.html>\
+> > <http://jubal.westnet.com/hyperdiscordia/emperor_norton.html>\
+> > \
+> > 1822 -- Emancipated US Blacks settle in Liberia, West Africa. []()\
+> > []()\
+> > \
+> > 1842 -- Georg Brandes (1842-1927) lives. Danish critic & scholar, who had great influence on the Scandinavian literature from 1870s through the turn of the century.\
+> > <http://www.kirjasto.sci.fi/brandes.htm>\
+> > []()\
+> > \
+> > 1856 -- Paul Napoleon Roinard lives, Maritime Seine. Wrongfully ignored French anarchist poet. 
+> >
+> > Roinard broke with his family & went to Paris where he met artists such as Auguste Rodin. He published his first poems, Nos plaies (Our wounds, 1886), lampooning bourgeois society. He formed the group "La butte," with friends, which had some influence on libertarian literature. In 1891, with Zo d' Axa, he started the individualist journal "L'en Dehors" & collaborated on "La Plume" & "La Phalange", & directed the review "Septentrionale". Paled around with poets & artists of the time, such as Stephen Mallarm, Paul Verlaine, & Laurent Tailhade. 
+> >
+> > Roinard's prinicpal works are La mort du Rve; La lgende Rouge; Le donneur d'illusions; Les miroirs.
+> >
+> > **Un peuple a-t-il jamais profit d'une guerre?\
+> > Drapeaux...\
+> > S'ils changent leur couleur, elle ne change gure,\
+> > Tous sont rouges du sang qu'on a vers pour eux.\
+> > Guerre la guerre!**
+> >
+> > 
+> >
+> > **---from "Les patries".**
+> >
+> >  []()\
+> > []()\
+> > \
+> > 1861 -- Delegates from six southern states meet in Montgomery, Alabama to form the Confederate States of America. []()\
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/labor/IWW/iww-logo-1-dark.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="156" height="156" alt="Sabo Cat" />\
+> > 1869 -- Wobbly "Big Bill" Haywood lives, in Salt Lake City, Utah -- where all good Mormons try to emulate him. Industrial Workers of the World (IWW) honcho.
+> >
+> > \
+> > 
+> >
+> > <img src="http://recollectionbooks.com/bleed/images/labor/IWW/harvest.jpg" data-border="1" data-hspace="10" data-vspace="10" width="229" height="324" alt="IWW harvest illustration" />
+> >
+> >  See Melvin Dubofsky's "Big Bill Haywood" (Vol 1) or Haywood's own autobiography.
+> >
+> > Butte, Montana still remembers Big Bill,\
+> > <http://newdeal.feri.org/nation/na35514.htm>
+> >
+> > Carl Sandburg wrote a piece for the "International Socialist Review" casting IWW leader William "Big Bill"Haywood, imprisoned along with the rest of the IWW leadership on wartime sedition charges, as a kind of 20th-century John Brown, & another piece on Haywood for the "Chicago Daily News",\
+> > <http://www.english.uiuc.edu/maps/poets/s_z/sandburg/journalism.htm>\
+> > 
+> >
+> > For background on the IWW, see Howard Zinn excerpt,\
+> > <http://www.csbs.utsa.edu/users/jreynolds/Textbooks/Wooblies/IWWWebPage.htm>\
+> > 
+> >
+> > <http://www.kued.org/fire/%20bill_haywood/>\
+> > <http://www.pbs.org/joehill/faces/bill_haywood.html>\
+> > <http://www.law.umkc.edu/faculty/projects/ftrials/haywood/haywood.htm>\
+> > []()\
+> > \
+> > 1894 -- Adolphe Sax, inventor of the saxophone, dies in poverty.\
+> > 
+> >
+> > 
+> >
+> > ` This bent metal serpent/`\
+> > `holy horn with lids like beer`\
+> > `mug/ with phallic tail why did they invent you`\
+> > `before Coleman Hawkins was born ?`\
+> > `This curved shiney tune gut/ hanging lynched like/ J`\
+> > `shaped initial of jazz/ wordless without a reed when`\
+> > `Coleman Hawkins first fondled it/kissed it with Black`\
+> > `sound did COngo blood sucking Belges frown ?`\
+> > `This tenor/alto/bass/baritone/soprano/moan/cry &`\
+> > `shout-a-phone ! sex-oh-phone/tell-it-like-damn-`\
+> > `sho-isa-phone !What tremors ran through Adolphe`\
+> > `Saxe the day Bean grabbed his ax ?`\
+> > `This golden mine of a million marvelous sounds/black`\
+> > `notes with myriad shadows/or empty crooked tube of`\
+> > `technical white poor-formance/calculated keys that`\
+> > `never unlock soul doors/white man made machine saved`\
+> > `from zero by Coleman Hawkins !`\
+> > `This saxophone salvation/modern gri gri hanging from`\
+> > `jazzmen's necks placed there by Coleman Hawkins`\
+> > `a full body & soul sorcerer whose spirit dwells eternally`\
+> > `in every saxophone NOW and all those sound-a-phones`\
+> > `to be`
+> >
+> > 
+> >
+> > ### 'The Sax Bit' by [Ted Joans](http://recollectionbooks.com/siml/library/JoansTed/joans.htm)
+> >
+> > 
+> >
+> > 
+
+
+
+<http://www.seas.gwu.edu/~carroll/vienna/saxbio.html>\
+[]()\
+\
+1899 -- Philippines: Revolt against the non-imperialist benevolent US occupation forces begins. The Islands became a US colony following the Spanish-American War (ostensibly fought to "free" Cuba from foreign control (sic)) when the US reneged on promises to free the country. Explained the Beloved & Respected Comrade Leader president of the Philippine Commission: 
+
+*"We propose to stay there indefinitely in working out this good that we propose to do them."*
+
+> This "good" would be called terrorism by any decent people.
+>
+> Filipino historians like Agoncillo & Constantino estimate more than 300,000 Filipinos, mostly civilians, perished as a result of the American ~~genocide~~ benevolence.
+>
+> The most barbaric forms of torture & interrogation as well as scorched earth military tactics & the brutal "reconcentration" of civilians were used.
+>
+> "In November 1901, the Manila correspondent of the Philadelphia Ledger reported:
+>
+>  'The present war is no bloodless, opera bouffe engagement; our men have been relentless, have killed to exterminate men, women, children, prisoners & captives, active insurgents & suspected people from lads of ten up, the idea prevailing that the Filipino as such was little better than a dog.... "
+>
+> See A People's History of the United States, by Howard Zinn.
+
+<http://www.boondocksnet.com/centennial/sctexts/simbulan980704.html>\
+<http://free.freespeech.org/americanstateterrorism/ChronologyofTerror.html>\
+<http://free.freespeech.org/americanstateterrorism/usgenocide/Philippines.html>\
+\
+<img src="http://perso.club-internet.fr/ytak/images/prevert_low.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="87" height="120" alt="?" />\
+1900 -- Jacques Prevert (1900-1977) lives. Poet, surrealist, libertarian. Worshiped freedom & glorified the spirit of rebellion & revolt. Participated with the surrealists, but refused to join the Communist Party with Andre Breton, whom he made fun of in "Mort d'un monsieur". Also a talented screen writer, whose credits include The Children of Paradise.\
+\
+
+
+
+\
+<http://www.creative.net/~alang/lit/surreal/writers.sht>\
+[]()\
+<http://perso.club-internet.fr/ytak/avril2.html#11>\
+\
+1900 -- Labor strikes in mining areas lead to riots, Belgium & Germany.\
+'Calendar Riots' []()\
+[]()\
+\
+1904 -- MacKinlay Kantor, novelist (Andersonville) lives, Webster City, Iowa. []()\
+[]()\
+\
+1913 -- US: "Front of the Bus" Rosa Parks civil rights activist lives, Tuskegee, Alabama.
+
+> In 1943, Parks became one of the NAACP's first women members. She also joined the Montgomery Voters League to encourage black registration. In her most famous act of resistance, on December 1st, 1955, Parks refused to surrender her seat to a white passenger in a city bus, sparking the successful Montgomery bus boycott. Her activism made it impossible for her to find work in Montgomery. She moved to Detroit & continued the struggle.
+
+[]()\
+
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/luddite.jpg" data-hspace="10" data-vspace="10" width="70" height="70" alt="Luddite!" />\
+1913 -- First removable automobile wheel is used.
+
+[]()\
+[]()\
+\
+1914 -- Scotland: Suffragettes burn two mansions.\
+'Calendar Riots' []()\
+[]()\
+\
+1917 -- [<img src="http://recollectionbooks.com/bleed/images/dingbats/pixel.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="LEFT" width="1" height="1" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: In Cleveland, [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) speaks on "The Message of Anarchism" before a full assembly of the North Congregational Church. Tomorrow she addresses a free-speech meeting & is dismayed that other speakers have refused to attend the event if birth control is included among the issues addressed.\
+[]()\
+[]()\
+\
+1921 -- Betty Friedan (The Feminine Mystique, 1963) lives, Peoria, Illinois. Founder of National Organization for Women (NOW). []()\
+[]()\
+\
+1924 -- Mahatma Gandhi is released from prison early due to ill health. []()\
+[]()\
+\
+1926 -- England: The London Evening News publishes a story entitled "Winnie-the-Pooh", which will eventually become the first chapter of the book Winnie-the-Pooh. Illustrations for this story are created by J.H. Dowd. []()\
+[]()\
+\
+1929 -- John Giola dances the Charleston for 22 hours, 30 minutes in New York City. Apparently thought he was in Virginia. []()\
+[]()\
+\
+1930 -- First tieless, soundless, shockless streetcar tracks, New Orleans. You can hear a pin drop. []()\
+[]()\
+\
+1933 -- England: [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma)'s vacation in Bristol (February 4-16) at the home of English friends Thomas and Nell Lavers includes informal meetings with local anarchists.
+
+> During this month & next Emma also tries to interest London publishers in Alexander Berkman's proposed translations of German and Russian books.
+
+'Emma Goldman Papers'\
+[]()\
+[]()\
+\
+1956 -- US: White student riot at University of Alabama against court-ordered admission of first Negro student.\
+
+[]()\
+[]()\
+\
+1957 -- Writer, painter, book illustrator, Miguel Covarrubias dies.
+
+<img src="http://images.google.com/images?q=tbn:wT8Rurd0K8gC:biblio.pue.udlap.mx/museo/covarrubias/caricaturas/imagenes/cruzada.jpg" data-border="0" data-hspace="10" data-vspace="10" width="208" height="312" alt="?" />
+
+\
+
+Page in Spanish/English: <http://biblio.pue.udlap.mx/nopframes/servicios/Porfirio_Diaz/miguel.html>\
+<http://www.zachtrenholm.com/covarrubias.html>\
+
+<http://biblio.udlap.mx/museo/cova.html>\
+\
+<img src="http://www.dragg.net/users/pennywitt/bugs/bugs17.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="279" height="249" alt=" ? " />\
+1957 -- Hey, You Maroons!
+
+Joseph Hardaway, creator of Bugs Bunny, dies at 66. 
+
+*That's all folks!*\
+[]()\
+[]()\
+\
+1957 -- **First electric portable typewriter goes on sale.** []()\
+[]()\
+\
+1966 -- Bill Graham's first non-benefit show. Also, about this time, author Ken Kesey disappears (to Mexico). [Graham](http://www.winelady.com/records/bgposters.html) presents The Jefferson Airplane at the Fillmore Auditorium, 1805 Geary Street, in Frisco, California.\
+
+[]()\
+[]()\
+\
+<img src="http://www.intrepidtrips.com/pranksters/neal/neal_images/neal4.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="191" height="347" alt="?" />\
+1968 -- The inspirational genius of the Beat writers, Prankster Neal Cassady, pulls his last prank -- collapses & dies along railroad tracks, San Miguel De Allende, Mexico.
+
+> who poverty & tatters & hollow-eyed & high sat up\
+> smoking in the supernatural darkness of cold-water flats\
+> floating across the tops of cities contemplating jazz ...
+>
+> --- aLLEN gINSBERG
+>
+> **October 27 Daily Bleed Saint**
+>
+> NEAL CASSADY\
+> American Beatnik poet, cultural renegade, your ultimate school bus driver.\
+> 
+>
+> > <http://www.charm.net/~brooklyn/People/NealCassady.html>\
+> > <http://www.intrepidtrips.com/pranksters/neal/index.html>\
+> > <http://ezone.org/ez/e2/articles/digaman.html>\
+> >
+> > "The bus came by & I got on, that's when it all began\
+> > There was Cowboy Neal at the wheel of the bus to Nevereverland"
+> >
+> > --- 'The Other One', The Grateful Dead
+> >
+> > <http://www.litkicks.com/People/NealCassady.html>
+
+
+
+<img src="http://www.intrepidtrips.com/pranksters/neal/neal_images/cassady4.jpg" data-border="0" data-hspace="10" data-vspace="10" width="180" height="270" alt="?" />
+
+\
+
+> > []()\
+> > \
+> > 1970 -- US: Riot in Isla Vista protesting Chicago 7 guilty verdicts, ended in Bank of America bombing, according to Todd Gitlin; but we show 25 February, after the sentences are handed down on the 19th. []()\
+> > []()\
+> > \
+> > 1974 -- US: Patty Hearst, 19-year-old granddaughter of publisher Beloved & Respected Comrade Leader William Randolph Hearst, kidnapped by the Symbionese Liberation Army (SLA). One member, Vietnam veteran Joe Remiro, remains in prison today. Their rallying cry was "Death to the fascist insect that preys upon the life of the people."
+> >
+> > > Heiress Patricia Hearst is kidnapped in Berkeley by the Symbionese Liberation Army, which demands the Hearst family organize & fund a free food program for poor people in Oakland. Several street feeds do take place before the program runs out of money in March, apparently bankrupting the Hearst empire.
+> >
+> > <http://dir.yahoo.com/Arts/Humanities/History/U_S__History/20th_Century/People/Hearst__Patty/>\
+> > []()\
+> > \
+> > 1976 -- US: Crime Pays: Senate subcommittee reveals Lockheed Aircraft Corporation made payments abroad of \$22 million in bribes to sell planes. Lockheed admits payments in Japan, Turkey, Italy & Holland. []()\
+> > []()\
+> > \
+> > 1976 -- Guatemala: Violent earthquake strikes Guatemala City, killing 24,000 people, injuring 50,000. The quake rendered as much as one-sixth of the country's population homeless. Thousands more killed by aftershocks in the following days.
+> >
+> > []()\
+> > []()\
+> > \
+> > <img src="http://www.geocities.com/CapeCanaveral/1817/p4.jpg" data-border="0" data-hspace="10" data-vspace="10" data-="" width="180" height="75" alt=" ? " />\
+> > 1982 -- US: Indoor distance record for a paper airplane (47m), Tacoma, Washington.\
+> > <http://www.geocities.com/CapeCanaveral/1817/>\
+> >
+> > []()\
+> > \
+> > <img src="http://www.streaking.co.uk/ericapic9.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="100" height="137" alt="Naked bookseller, Erica" />\
+> > 1982 -- Erica Roe, a busty bookseller from Petersfield, streaks topless at Twickenham at the rugby international between England & Australia, capturing headlines with her 40-inch bust during the height of the Falklands War. 
+> >
+> > > I was supposed to be at work in my bookshop...
+
+
+
+Her streak has been voted into the top (sic) 100 Greatest Moments in Sports.\
+<http://www.streaking.co.uk/relatednewsericaroespecial.htm>\
+
+\
+[]()\
+\
+1983 -- Karen Carpenter dies of heart failure brought on by anorexia nervosa. She teamed up with her brother Richard to form The Carpenters. Karen was 32 years old. []()\
+[]()\
+\
+1985 -- New Zealand: Visit by U.S.S. Buchanan refused. []()\
+[]()\
+\
+1987 -- Gay pianist, fashion victim Liberace dies. []()\
+[]()\
+\
+1987 -- Stars & Stripes beats Australia's Kookaburra 3, sweeps America's Cup fewest in a period since introduction of 24 second shot-clock in 1954. []()\
+[]()\
+\
+1990 -- Colombian government recognizes native rights to half its forest, 69,000 square miles (slightly larger than area of state of Washington in Amazon Basin, home to 55,000 indigenous tribal peoples. []()\
+[]()\
+\
+1996 -- Former Milli-Vanilli member Rob Pilatus is hospitalized when a man hits him over the head with a baseball bat in Hollywood. Pilatus was attempting to steal the man's car.
+
+> "Now, myself, I'd heard all about that Milli Vanilli thing. Didn't really surprise me. I even watched all my friends take their Vanilli albums down to that big rally where they got all burned & stepped on.
+>
+> They were really mad. Me, I didn't really get that upset. After all, I bought my Milli Vanilli album with a counterfeit \$20."
+
+[]()\
+[]()\
+\
+1996 -- Chechnya: Start of week of marches for peace by thousands, Grozny. []()\
+[]()\
+\
+<img src="http://www.asis.com/~agit-prop/bbb/sm_wholepie.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="61" height="57" alt="?" />\
+1998 -- Brussels: International Pie Brigade commandos, created by Nol Godin, delivers a pie to Bill Gates (Seattle boy makes good: "the richest man of the world") to the cries of :
+
+> \
+> 
+>
+> "Entartons, entartons le polluant pognon!" 
+>
+> Nol Godin, the "entartor" of celebrities (alias Gloupier), is also the author of "Anthologie de la subversion carabine (1988).
+>
+> <http://www.asis.com/~agit-prop/bbb/>\
+
+[]()\
+\
+1999 -- US: In NYC plainclothes police officers fired 41 shots at Amadou Diallo (22), a Bronx street peddler & immigrant from Guinea, who was unarmed in front of his Bronx home. 
+
+> Daillo was killed with 19 gunshot (great shots these guys) wounds. Officers Kenneth Boss, Sean Carroll, Edward McMellon & Richard Murphy were later indicted for 2nd degree murder. Surprisingly most cops who murder their victims are never convicted...& thus -- surprise! -- all 4 officers are acquitted by a jury in 2000.
+>
+> On February 26, 2000, in NYC thousands of people march to protest the acquittal in Albany of these four police officers for the 1999killing of Amadou Diallou. Diallo's parent filed a \$61 million suit in April. 
+>
+> []()\
+> []()\
+> \
+> 3000 --
+>
+> > > "When you give food to the poor, they call you a saint.
+> > >
+> > > When you ask why the poor have no food, they call you a communist."
+> > >
+> > >        Archbishop Helder Camara, Brazilian liberation theologist
+> > >
+> > > 
+> > >
+> > > <img src="http://biblio.pue.udlap.mx/museo/covarrubias/murales/imagenes/4.jpg" data-border="0" data-hspace="10" data-vspace="10" width="312" height="223" alt="?" />
+> > >
+> > > []()\
+> >
+> > []()\
+> > \
+> > <img src="http://www.eskimo.com/~recall/bleed/images/abes2.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="166" height="100" alt="?" />\
+> > 4000 --
+> >
+> > []()\
+> > []()\
+> >
+> > ------------------------------------------------------------------------
+> >
+> > anti-CopyRite 1997-3000, more or less\
+> > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > or send questions, suggestions, additions, corrections to:\
+> > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> >
+> > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> >
+> > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> >
+> > anarchist, labor, radical books
+> >
+> > See also: Anarchist Encyclopedia\
+> > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > Stan Iverson Memorial Library\
+> > http://recollectionbooks.com/siml/\
+> > Anarchist Time Line / Chronology\
+> > http://recollectionbooks.com/bleed/indexTimeline.htm

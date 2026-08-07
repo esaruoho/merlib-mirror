@@ -1,0 +1,78 @@
+---
+title: "C.G. Jung Society, Seattle: Spring 2004 Newsletter"
+source_domain: amasci.com
+source_path: ~dcs/s04/s04lam.html
+order: 2413
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T05:55:58Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# C.G. Jung Society, Seattle: Spring 2004 Newsletter
+
+*Source page: `~dcs/s04/s04lam.html`*
+
+# <img src="../testlogo.jpeg" data-align="top" width="75" height="74" /> C.G. Jung Society, Seattle
+
+------------------------------------------------------------------------
+
+## ***Ann Lammers, Ph.D.***
+
+------------------------------------------------------------------------
+
+# Whence Evil? The Missing Fourth in the Jung-White Letters
+
+***Lecture: Friday, May 14, 2004, 7:30 to 9:30 p.m.\**
+Good Shepherd Center, Room 202, 4649 Sunnyside Ave. N., Seattle\
+\$10 members, \$15 nonmembers*\
+*2 CEUs*
+
+<img src="lammers1.JPG" data-hspace="2" data-vspace="2" data-align="left" width="90" height="112" alt="Hartman photo" />The breakdown of friendship is a painful process, all the more when the relationship carries spiritual freight. Spiritual and professional concerns were the starting point for the\
+friendship that grew so quickly between C.G. Jung and Victor White, the English Dominican priest and theologian, beginning in 1945. For close to a decade they shared work that was fruitful and carried profound meanings for both of them. Why did a working relationship, begun with such hopefulness, disintegrate? Did any products of their collaboration survive? This lecture sets the groundwork for Saturday's workshop by discussing the personal, cultural and historical factors that shaped the two men's friendship,\
+propelled them toward their falling out, and supported the fragile reconciliation they achieved at the end of their lives.
+
+# The Self As Dancing Partner—Jung and White and the God of Double Aspect
+
+***Workshop: Saturday, May 15, 2004, 10 a.m. to 4 p.m*****.\**
+*Good Shepherd Center, Room 202, 4649 Sunnyside Ave. N., Seattle\
+\$40 members, \$50 nonmembers, \$35 student/senior members, \$45 student/senior nonmembers\
+5 CEUs*
+
+To learn about preregistering for the workshop, see [Preregistration Policy and Form](http://www.jungseattle.org/preform.html).
+
+In his 1937 work, *Psychology and Religion*, and later most notably in *Aion*, Dr. C.G. Jung\
+examines the psychological role of the Self and its symbols. The archetype of wholeness, he says, is identical for all practical purposes with the image of God in the soul. But like all archetypes, he warns, the Self has a negative polarity, a shadow, without which it would be incomplete. Here we find the navel of our story, since it was in debating the connection of God with evil that Jung and White began to lose connection with each other.
+
+Readers of Jung will be familiar with his insistence that, as known to the psyche, the image of God has a "terrifying double aspect." But how far does this observation take us? In studying the story of Jung and White, I suggest we need to imagine the Self as an active partner in the story, as a dancing partner, perhaps, whose invitation is almost irresistible but whose close touch is dangerous. "It is terrible to fall into the hands of the living God."
+
+When we examine the Jung-White relationship from this archetypal perspective, we find a wealth of Self symbols woven into their history. In the very language of their letters, as well as in the dreams and visions reported there, various images of the Self occur. The shadow of the archetype becomes more apparent as the story unfolds. The central problem of Jung's *Answer to Job*, which became such a\
+tragic stumbling-block between him and White, may also be revisited from this\
+point of view.
+
+The workshop will include opportunities for discussion and small-group sharing:
+
+- The "fourth" for Jung. Why it's missing, and why it matters for psychological healing.
+- Self-symbols in the psyche: seen or unseen, how they invite growth.
+- When love and personal truth conflict, what helps the soul survive?
+- Friendship as a vessel for the spirit.
+- Repairing what has been broken—the conditions for reunion.
+
+**Ann C. Lammers, M.Div., Ph.D., MFT**, is a psychotherapist in private practice in Berkeley. She earned her Master of Divinity at an Anglican seminary in New York and her doctorate in Religious Studies (theology and psychology) at Yale University. After moving to California in 1986, she became a licensed Marriage and Family Therapist. Her interest in the Jung-White relationship began 20 years\
+ago, leading to her first book, *In God's Shadow: The Collaboration of Victor White and\
+C.G.Jung* (1994). She is now primary editor of a companion volume, *The Jung-White Letters*.
+
+*This program has been approved for 7 CEUs by the Washington Chapter, National Association of\
+Social Workers (NASW) for Licensed Social Workers, Licensed Marriage & Family Therapists and\
+Licensed Mental Health Counselors. Provider number is \#1975-157. The cost to receive a certificate\
+is as follows: 7.0 units for lecture and workshop \$15; 2.0 units for the Friday lecture \$10; 5.0 units\
+for the Saturday workshop \$10.*
+
+------------------------------------------------------------------------
+
+[C.G. Jung Society, Seattle home page](../index1.html)
+
+Updated: 4 April 2004\
+\
+<webmaster@jungseattle.org>

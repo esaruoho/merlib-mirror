@@ -1,0 +1,433 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0518.htm
+order: 6741
+reachable_from_entry: false
+images: 21
+internal_links: 0
+extracted: 2026-08-07T05:59:31Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0518.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> > **Come & see the blood in the streets,\
+> > *come & see\
+> > the blood in the streets,\
+> > come & see the blood\
+> > in the streets!*   **
+> >
+> >         *Pablo Neruda, "I Explain Some Things."*
+
+[]()\
+[]()\
+\
+<img src="http://members.aol.com/taez555/nuttyerik.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="180" height="240" alt="Nutty Erik" />\
+--
+
+**MAY 18**
+
+GORDON CHILDE\
+Australian Marxist archeologist & prehistorian.\
+
+> 
+>
+> ------------------------------------------------------------------------
+>
+> VICTORIA DAY.
+>
+> Sweden: ERIK NAME DAY.
+>
+> INTERNATIONAL GOODWILL DAY. Yep.
+>
+> ------------------------------------------------------------------------
+
+[]()\
+
+> []()\
+> \
+> 1048 -- Poet Omar Khayyam lives, Nishapur, Persia. []()\
+> []()\
+> \
+> 1313 -- Robert I, "the Bruce," lands on the Isle of Man. []()\
+> []()\
+> \
+> 1593 -- Kyd Me Not?: A warrant is issued for the arrest of Christopher Marlowe, falsely accused of heresy by his roommate Thomas Kyd in an effort to save his own ass. []()\
+> []()\
+> \
+> 1781 -- Tupa Amaru II, leader of Inca Rebellion, Micaela Bastidas & other leaders, executed in the same Peruvian square as his ancestor two centuries before (Plaza Mayor del Cuzco). In Spanish,\
+> <http://www.patriagrande.net/uruguay/eduardo.galeano/memoria.del.fuego/17810518.htm>\
+
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/Encyclopedia/Bakunin/bakuninLevine_med.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="200" height="215" alt="Michael Bakunin" />\
+1814 -- Russia: Anarchist activist/philosopher Mikhail Bakunin lives Julian calendar; he gets to do it again on the 30th), Prjamuchino. Karl Marx's chief nemesis.
+
+> Michael Bakunin, like many other Russian anarchists, including Peter Kropotkin & Leo Tolstoy, is born into the educated class but spends his life fighting for the peasantry.
+>
+> Unlike German economist Karl Marx, Bakunin argues that peasants themselves can win freedom & society's transformation. 
+>
+> Competing with Marx for leadership of the International Workingmen's Association, Bakunin believed the Marxist theory of revolution as a recipe for either parliamentary misrepresentation or elitist tyranny.
+>
+>  <http://dwardmac.pitzer.edu/Anarchist_Archives/bakunin/Bakuninarchive.html>\
+
+\
+
+> []()\
+> \
+> 1827 -- US: Josiah Warren opens Time Store in Cincinnati, Ohio first commercial cooperative.
+>
+> > Warren, Josiah, 17981874, American reformer & anarchist, b. Boston.
+> >
+> > An early follower of Robert Owen, he soon rejected Owen's political socialism, advocating instead anarchy based on the sovereignty of the individual. 
+> >
+> > Warren founded several equity or "time" stores, with the idea of exchanging goods for an equivalent amount of labor & on the principle that cost should be the limit of price. He also established three utopian colonies; the most successful was Modern Times (1851c.1860) , Long Island, N.Y. (now Brentwood). 
+> >
+> > The most important of his publications was True Civilization (1863, 5th ed. 1875).
+> >
+> > <http://cedar.evansville.edu/~ck6/bstud/warren.html>\
+> >
+> > See "The Lemonade Ocean & Modern Times" by Hakim Bey,\
+> > <http://www.evolutionzone.com/kulturezone/bey/lemonade.ocean.and.modern.times.html>\
+> > 
+>
+> []()\
+> \
+> 1852 -- Isaac Leib Peretz lives, Zamo, Poland. Wrote poems, short stories, drama, humorous sketches, & satire & raised the standard of Yiddish literature.
+>
+> alt sp.; Zamosc
+
+[]()\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/Encyclopedia/speed1.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="120" height="160" alt="?" />\
+1855 -- US: George Speed lives. Anarchist agitator, active in the Haymarket defense of the falsely accused anarchists, Coxey's Army, the Pullman Strike, & as a labor organizer for the Industrial Workers of the World (IWW).
+
+
+
+> "More threatening to District 2 officials was a Council of ActionConvention held at Altoona in February 1921. The convention participants included Ben Legere, George Speed &Dominick Gelotte. 
+>
+> Legere was a national organizer for One Big Union, most likely a less threatening designation for theIndustrial Workers of the World, while Speed had a long record as a labor activist on the West Coast, in the South & in theMiddle West. His organizational activities for the IWW included organizing timber workers in Louisiana & Texas, involvement in the Akron Rubber Workers Strike of 1913 & organizing the North Dakota wheat fields..."
+>
+> <http://www.lib.iup.edu/spec_coll/articles/coalstrike1919.html>\
+> <http://www.sfsu.edu/~hsa/ex-post-facto/choi.html>\
+> <http://www.iww.org/history.html>\
+> <http://www.iww.org/homesites/members.html>\
+
+\
+
+> []()\
+> \
+> 1862 -- Mows 'Em Down?: Edwin Budding of England signs an agreement for manufacture of his invention, the lawn mower. []()\
+> []()\
+> \
+> 1872 -- Bertrand Russell lives (1872-1970), Trelleck, Wales. 
+>
+> > Philosopher, mathematician & social critic, one of the most widely read philosophers of this century. Awarded Nobel for Literature, 1950. Outspoken pacifist, imprisoned during WWI. Abandoned pacifism during WWII, but was a leading figure in the antinuclear movement. Imprisoned in 1961 for taking part in a demonstration in Whitehall. A pioneer of logical positivism.
+> >
+> > <http://www.mcmaster.ca/russdocs/russell.htm>\
+> > <http://www.kirjasto.sci.fi/brussell.htm>\
+> > <http://www.sci.fi/~phinnweb/links/philosophy.html>\
+>
+> []()\
+> \
+> <img src="http://perso.club-internet.fr/ytak/images/Pelletier_low.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="78" height="100" alt="?" />\
+> 1874 -- Madeleine Pelletier lives (1874-1939). French doctor & feminist, member of the Socialist Party, later a Communist, then a libertarian. Founded the review "La suffragiste" & collaborated on other no-Malthusian & libertarian newspapers. Wrote La femme en lutte pour ses droits (1908), L'mancipation sexuelle de la femme (1911), L'ducation fministe des filles (1914), Idologie d'hier: Dieu, la morale, la patrie (1910).
+>
+> > Pelletier participated in "L'encyclopdie Anarchiste", & in the defense of Makhno in La fronde (1927). A pioneer of abortion rights, she was condemned in 1939 for practicing abortions -- declared irresponsible for her acts & committed to a mental asylum, where she died. Ironically, she had begun her career as psychiatrist.
+>
+> []()\
+>
+> > ***"Tout cela me dcourage, l'mancipation de la femme ne viendra donc jamais. Autrefois, mes allures d'affranchie ne me valaient que des lazzi des voyous, maintenant, on m'arrte parce que je n'ai pas l'air d'une asservie, comme les autres femmes, videmment, je suis ne plusieurs sicles trop tt".***
+> >
+> > 
+> >
+> > 16 septembre 1914.
+>
+> []()\
+> \
+> 1876 -- Gigi Damiani lives (1876-1953). Italian anarchist who emigrates to Brazil, directs various publications (Battaglia, Plebs, Guerra Sociale, etc). Editor, with Errico Malatesta, of "Umanita Nova" (an anarchist daily paper published by Malatesta in Milan, along with Gigi Damiani, Camillo Berneri, Nella Giacometti, [Armando Borghi](http://www.eskimo.com/~recall/bleed/sinners/BorghiArmando.htm), Luigi Fabbri, etc). Under attack by fascists, Damiani was exiled in Tunisia. Active there with [Giuseppe Pasotti](http://www.eskimo.com/~recall/bleed/sinners/PasottiGuiseppe.htm), then returned to Rome in 1946 & involved again with "Umanita Nova" until his death. <http://www.municipio.re.it/manifestazioni/berneri/dopo.htm>\
+> []()\
+> []()\
+> \
+> 1889 -- Gunnar Gunnarsson lives (1889-1975). Prolific Icelandic writer, who published in Danish to gain a wider audience. With Gumundsson & Laxness, among the first internationally known Icelandic authors. <http://www.kirjasto.sci.fi/ggunnar.htm>\
+> []()\
+> \
+> 1895 -- Augusto Sandino lives, hero of Nicaraguan independence. 
+>
+> > Nace en Niquinohomo, Augusto C. Sandino: The magical kings do not come from distant places to greet his birth, but leave gifts for the farmer, carpenter, & vivandera passing to market. The midwife buries the placenta, like a root, in a corner of the orchard. She buries it in good place, where it will get the full strength of the sun.
+> >
+> > <http://www.patriagrande.net/uruguay/eduardo.galeano/memoria.del.fuego/18950518.htm>\
+>
+> []()\
+> \
+> 1896 -- US: Supreme Court, in Plessy v. Ferguson case, approves racial segregation under the "separate but equal" doctrine. []()\
+> []()\
+> \
+> 1897 -- Populist filmmaker Frank Capra lives, Palermo, Sicily. []()\
+> []()\
+> \
+> <img src="http://www.jpl.nasa.gov/comet/hyakutake/gif/skar2_s.gif%0BALT=%22Halley&#39;s" data-comet"="" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="230" height="89" />\
+> 1910 -- Passage of Earth through tail of Halley's Comet causes near-panic. But -- as these things often turn out -- there wasn't much of a tail to tell. []()\
+> []()\
+> \
+> 1912 -- Ty Cobb has been suspended from playing baseball. Detroit Tigers' manager gives in to players who say they won't play unless Cobb does. He hires St. Joseph's College team in their place, but their pitcher, Aloysius Travers, gets pounded. Travers gave up 24 runs -- a single-game record. []()\
+> []()\
+> \
+> 1917 -- US: WWI draft enacted. That's how popular it was, not enough patriots ready to voluntarily die for flag & pie.
+>
+> > <img src="http://www.torget.se/users/c/Chilli/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="30" height="20" alt="?" />On the same day that the Selective Service Act is passed authorizing federal conscription for the armed forces & requiringthe registration of all men between the ages of 21 & 30, Emma Goldman addresses an anti-conscription gathering ofclose to 10,000 people chaired by Leonard Abbott in New York City. Other speakers include Alexander Berkman & HarryWeinberger. No arrests made, but many detectives present.
+> >
+> > anarchist feminist
+>
+> []()\
+> []()\
+> \
+> 1917 -- US: The Amalgamated Meat Cutters & Butcher Workmen initiated a huge labor organizing campaign in packinghouses across the country. Membership rises from 6,500 to 100,000 two years later. []()\
+> []()\
+> \
+> 1921 -- Author Patrick Dennis, lives, Chicago. Wrote Auntie Mame. []()\
+> []()\
+> \
+> 1921 -- US: In Mingo County, West Virginia, where labor organizing is going on amongst the miners, the sheriff authorizes State Police Captain Brockus to assume responsibility for law enforcement in the county. "Volunteer state police" organized. Actually a virtual "police state". Tomorrow the Governor declares marital law. West Virginia is where the famed Matewan, Battle of Blair Mountain & other labor conflicts occur.\
+> <http://members.aol.com/jeff560/wv-hist.html>\
+> []()\
+> \
+> 1925 -- Downhill Races?: First celebration of International Goodwill Day. []()\
+> []()\
+> \
+> 1927 -- US: Bath, Michigan School Disaster. Andrew Kehoe, seeking revenge against the community for taxes imposed on his farm to pay for a new school, set off a TNT bomb in the school, killing 43 people, including 39 grade-school children. After the explosion, Kehoe killed his wife, then drove his truck back, loaded with dynamite & nails, to the school, & set it off, killing himself & the school superintendent. []()\
+> []()\
+> \
+> <img src="http://www.pifmagazine.com/vol15/wheel.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="172" height="311" alt="Not Bill Haywood" />\
+> 1928 -- Big Bill Haywood, IWW & labor activist, dies in lonely exile, Moscow, USSR.
+>
+> > Known as "Big Bill" Haywood, William Dudley Haywood, b. Salt Lake City, Utah, Feb. 4, 1869, d. May 18, 1928, was a radical militant labor leader who founded the Industrial Workers of the World (IWW). 
+> >
+> > At the age of 15 he began working as a miner. He led the Western Federation of Miners from 1900 to 1905 & in 1905 helped found the IWW, which aimed to organize all workers in "one big union." In 1906, Haywood & others were tried for the murder of a former governor of Idaho, but the noted trial lawyer Clarence Darrow won their acquittal. In 1918, the last year of WWI, Haywood & 165 other IWW leaders were convicted of sedition for opposing the U.S. war effort. Haywood jumped bail in 1921 & went to the USSR, where he remained until his death. See Melvin Dubofsky's Big Bill Haywood (Vol 1, 1987) or Haywood's own autobiography.
+> >
+> > <http://www2.pbs.org/weta/thewest/wpages/wpgs400/w4haywd.htm>\
+> > [http://iww.org/](http://iww.org/labor/)\
+> > <http://www.pifmagazine.com/vol15/strange.htm>\
+> > 
+>
+> []()\
+> \
+> 1933 -- US Congress authorizes the Tennessee Valley Authority (TVA). []()\
+> []()\
+> \
+> 1936 -- Ralph Metzner lives. []()\
+> []()\
+> \
+> 1942 -- New York City ends night baseball games for the rest of WW II. []()\
+> []()\
+> \
+> 1949 -- Antiquarian Booksellers Association of America incorporates. []()\
+> []()\
+> \
+> 1951 -- American hobo, Industrial Army of the Poor organizer, Jacob Coxey dies. <http://www.scry.com/ayer/AM_BIOS/4419760.htm>\
+> []()\
+> \
+> 1953 -- First woman to fly faster than the speed of sound, Jacqueline Cochran, pilots F-86 Sabrejet at an average speed of 652.337 miles-per-hour. <http://www3.electriciti.com/aviator/msnaf860.html>\
+> []()\
+> \
+> 1955 -- Black educator Mary McLead Bethune dies, Daytona Beach, Florida.
+>
+> MARY MACLEOD BETHUNE\
+> American advocate of education for Black women, Daily Bleed Saint October, 24 1998\
+> <http://library.advanced.org/10320/Bethune.htm>\
+> []()\
+> []()\
+> \
+> 1958 -- In the face of Beloved & Respected Comrade Leader President Eisenhower's denials the U.S. is aiding anti-Sukarno rebels in Indonesia, an American B-26 is shot down by Indonesia while bombing Sumatra. US dismisses the pilot as a "soldier of fortune," but he was eventually unmasked as a CIA employee. []()\
+> []()\
+> \
+> 1960 -- Michael Ryan, who become's England's worst mass murderer when he shoots 16 in the 1987 "Hungerford Massacre", lives, Hungerford, England. []()\
+> []()\
+> \
+> 1965 -- Outer Space: Gene Roddenberry suggests 16 names -- including Kirk -- for Star Trek Captain. It will never fly say some.
+
+[]()\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/France68/0508mayb.jpeg" data-border="0" data-hspace="10" data-vspace="10" width="400" height="220" alt="?" />\
+1968 --
+
+<img src="http://recollectionbooks.com/bleed/images/France68/f25med.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="130" height="178" alt="Paris France &#39;68 Uprising" />France '68: The Wild Days of May continues.
+
+
+
+> Such is the power of this upswell that tumultuous mass meetings are called by people in almost every conceivable walk of life. 
+>
+> A mania for organization sweeps the people. Housing estate (project) housewives, office employees & highly paid professionals, astronomers & museum curators, hospital staff members & people in the most varied workplaces & neighborhoods set up "action committees" to organize the practical needs of the struggle as well as the details of daily life, since official authority is paralyzed.
+>
+> By the end of May, 450 such committees spring up in Paris alone in loose coordination with the Sorbonne General Assembly. 
+>
+> ***<span id="18 mai 68"><u>18 mai 68</u></span>  [Le gnral de Gaulle rentre de Roumanie](18mai.htm)\
+> On dnombre entre 3 et 6 millions de grvistes en France.***
+>
+> 
+>
+> <img src="http://recollectionbooks.com/bleed/images/France68/f20med.jpg" data-border="0" data-hspace="10" data-vspace="10" width="130" height="190" alt="?" />
+
+> []()\
+> []()\
+> \
+> 1968 -- England: Ralph Schoenman is arrested in Dublin, & is to be deported back to Italy. He is said to have been attempting to enter Britain. []()\
+> []()\
+> \
+> <img src="http://www.eskimo.com/~recall/bleed/images/fist.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="28" height="31" alt="Fist" />\
+> 1968 -- 10,000 march in Madrid, Spain, erect barricades, in solidarity with revolt in France. Multitudinario recital de Raimon en Madrid, que termina con enfrentamientos.\
+> <http://www.el-mundo.es/larevista/num132/textos/crono.html>\
+> []()\
+> \
+> 1969 -- US: The Klamath tribe wins \$4.1 million for loss of Oregon lands during fraudulent government surveys in 1880s. []()\
+> []()\
+> \
+> 1970 -- US: Black protesters occupy administration offices at Seattle University. []()\
+> []()\
+> \
+> 1972 -- US: Founding of radical senior advocacy group Gray Panthers. []()\
+> []()\
+> \
+> 1972 -- US: Phil Berrigan back to jail (Danbury) to complete six-year term for destruction of draft records in Baltimore & Catonsville, Maryland. []()\
+> []()\
+> \
+> 1974 -- India explodes its first nuclear device underground in Rajasthen Desert. []()\
+> []()\
+> \
+> 1979 -- Silkwood vs. Kerr-McGee case establishes corporations are responsible for the people they irradiate. []()\
+> []()\
+> \
+> 1980 -- South Korea: Widespread civilian uprising for democracy begins in Kwangju. Beginning of the May Movement.
+>
+> > The Uprising begins today, lasting until May 27, 1980 in Kwanju & surrounding towns. It is a mass uprising of the people fighting for their rights & democracy. The May Movement carried on the spirit of the Uprising & the people's fight to expose the truth & punish those guilty of mass killings.
+> >
+> >  <http://www.kimsoft.com/1997/43kwang.htm>\
+>
+> []()\
+> \
+> 1980 -- US: McDuffie Riots, Liberty City section of Miami, when four cops are acquitted after killing an innocent black man in his home. 14 killed, 200 injured. []()\
+> []()\
+> \
+> 1980 -- Not So Saintly?: Mt. St. Helens, dormant for 123 years, erupts, Washington state. Kills 58 & destroys160,000 acres of forest. The violent blast, estimated to be 500 times as powerful as the atomic bomb dropped on Hiroshima, was followed by others on 25 May & 12 June. Economic losses estimated at nearly \$3 billion. Harry Truman, who refused to leave the area, buried alive.
+
+<img src="http://vulcan.wr.usgs.gov/Imgs/Gif/Pictograms/may18_sequence.gif%0BALT=%22Not" data-a="" data-saint?"="" data-border="0" data-hspace="10" data-vspace="10" width="710" height="450" />
+
+
+
+> > []()\
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/France68/croixMed.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="210" height="362" alt="?" />\
+> > 1981 -- Italy: Voters retain one of the most liberal abortion laws in Europe despite intense pressure from the Vatican. []()\
+> > []()\
+> > \
+> > 1982 -- Keep The Faith?: Reverend Sun Myung Moon convicted of tax fraud.\
+> > []()\
+> > []()\
+> > \
+> > 1986 -- David Goch finishes swimming 55,682 miles in a 25-yard pool & Chung Kwung Ying does 2,750 "atomic" hand-stand push-ups. []()\
+> > []()\
+> > \
+> > <img src="http://www.igc.org/hric/june4-10yr/june4demo.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="300" height="170" alt="?" />\
+> > 1989 -- China: Demonstrations in Tiananmen (Tian'anmen) Square during USSR-China talks. <http://www.igc.org/hric/topics/june4.html>\
+> > []()\
+> > \
+> > 1989 -- Louis Dorlet (1905-1989) dies. French labor organizer & pacifist. Sent to prison in 1925 for desertion. Member of l'Union Anarchiste, organized among the unemployed & founded a consumer co-op. Dorlet wrote for many libertarian publications & was a co-editor of "Libertaire". Mobilized in 1939, he was captured & sent to a stalag. Released in 1945, he resumed his work with "Libertaire". <http://perso.club-internet.fr/ytak/mai3.html#18>\
+> > []()\
+> > \
+> > <img src="http://www.lerustre.com/bouquiner/images/laborit.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="80" height="101" alt="Henri Laborit" />\
+> > 1995 -- Henri Laborit (1914-1995) dies. French libertarian writer & researcher. 
+> >
+> > > Laborit was, in turn, surgeon, biologist, philosopher, theorist of behavior. His work revolutionized modern psychiatry, & his studies of human behavior were adapted to cinema by Alain Resnais in the film "Mon oncle d'Amrique". 
+> > >
+> > > Henri Laborit wrote several books, including Dieu ne joue pas aux ds; Eloge de la fuite. A posthumous book of discussions with Claude Greni has also appeared. Laborit was a familiar figure to listeners of [Radio Libertaire Paris](http://federation-anarchiste.org/rl/index.html), where he made numerous broadcasts.
+> > >
+> > > 
+> > >
+> > > <img src="http://recollectionbooks.com/bleed/images/anarchist/radiolib_low.gif" data-border="0" data-hspace="10" data-vspace="10" width="104" height="102" alt="?" />
+> > >
+> > > <http://ghanima.org/resist/sghl.htm>\
+> > > <http://www.lerustre.com/bouquiner/>\
+> > > <http://www.esculape.com/textes/laborit.html>\
+> > > <http://www.geocities.com/Athens/Delphi/6271/laborit.html>\
+> > >  <http://membres.lycos.fr/ptombal/laborit.htm%0B>\
+> > > <http://users.skynet.be/AL/archive/98/210-oct/arena2.htm>\
+> > > <http://www.sdm.qc.ca/txtdoc/tbhlabor.html>\
+> > > <http://perso.club-internet.fr/ytak/mai3.html#18>\
+
+<img src="http://www.tao.ca/~lombrenoire/blackcat.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="206" height="600" alt="?" />
+
+[]()\
+\
+2002 -- Poland: Anarchist Press & Literature Fair, today & tomorrow, Rozbrat squat, Poznan. Along with publications for sale, display & trade, the Fair includes lectures, discussions, exhibitions & film presentations.
+
+Be There & Be Hexed?
+
+Includes International football game for three teams -- situationist version of football in which 3 teams play together on one hexagonal field.\
+<http://gas.hardcore.lt/english.htm>\
+
+[]()\
+\
+2002 -- Canada: <img src="http://www.tao.ca/~lombrenoire/englishheading.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="360" height="78" alt="?" />\
+
+
+> 
+>
+> <http://www.tao.ca/~lombrenoire/indexfrench.html>\
+>
+> anarchist
+>
+> []()\
+>
+> []()\
+> \
+> 3500 --
+>
+> > "Living never wore one out so much as the effort not to live."
+> >
+> >  Anais Nin
+> >
+> > <http://www.geocities.com/Paris/Bistro/2187/>\
+> >
+> > []()\
+> > \
+> > 5000 -- <img src="http://www.artplus.hr/adapps/pic/bookworm.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="100" height="100" alt="?" />
+
+> > > > []()\
+> > > > []()\
+> > > >
+> > > > ------------------------------------------------------------------------
+> > > >
+> > > > anti-CopyRite 2000-3000, more or less\
+> > > > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > > > or send questions, suggestions, additions, corrections to:\
+> > > > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> > > >
+> > > > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> > > >
+> > > > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> > > >
+> > > > anarchist, labor, radical books
+> > > >
+> > > > See also: Anarchist Encyclopedia\
+> > > > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > > > Stan Iverson Memorial Library\
+> > > > http://recollectionbooks.com/siml/\
+> > > > Anarchist Time Line / Chronology\
+> > > > http://recollectionbooks.com/bleed/indexTimeline.htm

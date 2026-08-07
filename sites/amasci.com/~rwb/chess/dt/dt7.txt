@@ -1,0 +1,71 @@
+From: clong@remus.rutgers.edu (Chris Long)
+Newsgroups: rec.games.chess
+Subject: scratchy-falcon
+Message-ID: <Jan.22.01.34.43.1993.236@remus.rutgers.edu>
+Date: 22 Jan 93 06:34:43 GMT
+Organization: Rutgers Univ., New Brunswick, N.J.
+Lines: 59
+
+
+
+Here is another interesting game which took place on ICS between
+scratchy (Deep Thought) and falcon (P. Murthy).  scratchy saves
+the win with a nice mate.  Annotations, anyone?
+
+scratchy vs. falcon --- Thursday January 21, 10:54 PM EST, 1993
+
+Unrated standard match, initial time: 10 minutes, increment: 5 seconds.
+
+Move     scratchy               falcon
+----     --------------         --------------
+   1     P/e2-e4 (0:01)         P/e7-e6 (0:03)
+   2     P/d2-d4 (0:01)         P/d7-d5 (0:03)
+   3     N/b1-c3 (0:00)         B/f8-b4 (0:04)
+   4     P/e4-e5 (0:01)         P/c7-c5 (0:06)
+   5     P/a2-a3 (0:01)         B/b4-c3 (0:10)
+   6     P/b2-c3 (0:01)         N/g8-e7 (0:04)
+   7     Q/d1-g4 (0:00)         K/e8-f8 (0:04)
+   8     N/g1-f3 (0:36)         Q/d8-a5 (0:12)
+   9     B/c1-d2 (0:08)         Q/a5-a4 (0:13)
+  10     R/a1-a2 (0:20)         N/b8-c6 (0:05)
+  11     B/f1-d3 (0:13)         P/c5-d4 (0:12)
+  12     P/c3-d4 (0:20)         P/b7-b6 (0:03)
+  13     Q/g4-f4 (0:16)         B/c8-a6 (0:13)
+  14     N/f3-g5 (0:18)         N/c6-d8 (0:07)
+  15     B/d2-b4 (0:11)         B/a6-d3 (0:16)
+  16     P/c2-d3 (0:01)         P/h7-h6 (0:13)
+  17     N/g5-f3 (0:29)         N/d8-c6 (0:14)
+  18     Q/f4-d2 (0:03)         N/c6-b4 (0:58)
+  19     P/a3-b4 (0:18)         Q/a4-b5 (0:04)
+  20     o-o (0:24)             N/e7-c6 (0:09)
+  21     R/f1-c1 (0:12)         P/g7-g6 (0:38)
+  22     R/c1-a1 (0:20)         Q/b5-b4 (0:49)
+  23     Q/d2-b4 (0:31)         N/c6-b4 (0:10)
+  24     R/a2-a7 (0:21)         R/a8-a7 (0:03)
+  25     R/a1-a7 (0:19)         K/f8-g7 (0:16)
+  26     R/a7-a3 (0:18)         R/h8-c8 (0:10)
+  27     K/g1-f1 (0:17)         R/c8-c2 (0:31)
+  28     R/a3-b3 (0:16)         N/b4-a2 (0:38)
+  29     R/b3-b6 (0:01)         N/a2-c3 (0:12)
+  30     N/f3-e1 (0:16)         R/c2-d2 (0:23)
+  31     R/b6-c6 (0:16)         N/c3-d1 (0:18)
+  32     R/c6-c2 (0:14)         R/d2-c2 (0:21)
+  33     N/e1-c2 (0:00)         N/d1-c3 (0:09)
+  34     N/c2-a3 (0:06)         P/f7-f6 (0:07)
+  35     K/f1-e1 (0:16)         N/c3-a4 (0:12)
+  36     P/h2-h4 (0:14)         P/g6-g5 (0:05)
+  37     P/h4-g5 (0:09)         P/h6-g5 (0:07)
+  38     N/a3-b5 (0:13)         K/g7-g6 (0:24)
+  39     P/f2-f3 (0:13)         P/f6-e5 (0:24)
+  40     P/d4-e5 (0:13)         K/g6-f5 (0:08)
+  41     P/d3-d4 (0:13)         N/a4-b6 (0:15)
+  42     N/b5-c7 (0:13)         N/b6-c4 (0:13)
+  43     P/g2-g4 (0:12)         K/f5-f4 (0:12)
+  44     K/e1-f2 (0:11)         B resigns
+--
+Chris Long, 265 Old York Rd., Bridgewater, NJ 08807-2618
+
+Score: 0, Diff: 1, clong killed by a Harvard Math Team on  1
+
+
+

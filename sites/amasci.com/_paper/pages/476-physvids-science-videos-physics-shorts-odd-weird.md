@@ -1,18 +1,18 @@
 ---
 title: "PHYSVIDS: Science videos physics shorts: odd & weird"
 source_domain: amasci.com
-source_path: physvids/14.html
+source_path: physvids/15.html
 order: 476
 reachable_from_entry: true
 images: 2
-internal_links: 18
-extracted: 2026-08-03T18:12:10Z
+internal_links: 17
+extracted: 2026-08-07T05:53:36Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # PHYSVIDS: Science videos physics shorts: odd & weird
 
-*Source page: `physvids/14.html`*
+*Source page: `physvids/15.html`*
 
 <table data-summary="nav links, google search window" width="100%" height="77">
 <colgroup>
@@ -62,7 +62,7 @@ extractor: site_to_paper.py (pandoc)
 <td style="text-align: left;" width="180" data-valign="top" data-summary="google ad"><pre><code></code></pre></td>
 <td data-summary="spacer" width="15" data-valign="top"> </td>
 <td data-valign="top" data-summary="bizarre science videos" width="660"><h1 id="billbs-odd-physics-video-archive">Billb's ODD PHYSICS VIDEO ARCHIVE</h1>
-<p>     <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/15.html">&lt;PREV</a>   <a href="http://amasci.com/physvids/18.html">...18</a>   <a href="http://amasci.com/physvids/17.html">17</a>   <a href="http://amasci.com/physvids/16.html">16</a>   <a href="http://amasci.com/physvids/15.html">15</a>   14   <a href="http://amasci.com/physvids/13.html">13</a>   <a href="http://amasci.com/physvids/12.html">12</a>   <a href="http://amasci.com/physvids/11.html">11</a>   <a href="http://amasci.com/physvids/10.html">10...</a>   <a href="http://amasci.com/physvids/13.html">NEXT&gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
+<p>     <a href="http://amasci.com/amateur/physvids.html">&lt; &lt;</a>   <a href="http://amasci.com/physvids/16.html">&lt;PREV</a>   <a href="http://amasci.com/physvids/19.html">...19</a>   <a href="http://amasci.com/physvids/18.html">18</a>   <a href="http://amasci.com/physvids/17.html">17</a>   <a href="http://amasci.com/physvids/16.html">16</a>   15   <a href="http://amasci.com/physvids/14.html">14</a>   <a href="http://amasci.com/physvids/13.html">13</a>   <a href="http://amasci.com/physvids/12.html">12</a>   <a href="http://amasci.com/physvids/11.html">11...</a>   <a href="http://amasci.com/physvids/14.html">NEXT&gt;</a>   <a href="http://amasci.com/physvids/1.html">&gt; &gt;</a>  <br />
 </p>
 <hr />
 <div class="iframe">
@@ -76,7 +76,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Tea Surface Mystery Phenomenon: microdroplets in the boundary layer
+Needs beam-power, so they stay up there for weeks
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -91,7 +91,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Cutting steel slomo
+SmoothLife-L, analog version of Conway's Life
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -106,7 +106,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Fractals in a Laminar flame
+Sit your butt right down on THIS HERE TESLA COIL.      (then <a href="http://www.youtube.com/user/electric752/videos?flow=grid&amp;view=0">set wood ON FIAR!</a>)
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -121,7 +121,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-High-G centrifuge lava lamp
+Lava I plae with u
 <pre><code>
 &#10;</code></pre>
 <hr />
@@ -136,9 +136,9 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Curved flow causes low central pressure, low central pressure curves the flow.
+<a href="http://lavaproject.syr.edu/">Syracuse</a> lava project, everybody plaes!
 <pre><code>
-</code></pre>
+&#10;</code></pre>
 <hr />
 <div class="iframe">
 <div id="player">
@@ -151,9 +151,9 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Someone finally built the <a href="http://amasci.com/amateur/vortgen.html#blimp">Vortex Blimp</a>
+Not strictly Physics, sorry           also <a href="http://www.youtube.com/watch?v=RkIoPrtQjqA&amp;t=0m55s">choir</a>, <a href="http://www.youtube.com/watch?v=KwxUI-nCv5c">transl</a>, and a <a href="https://www.youtube.com/watch?v=z64HCi2rQkE">tiny</a> bit <a href="https://www.youtube.com/watch?v=mS3PGKUiSco">more</a>
 <pre><code>
-</code></pre>
+&#10;</code></pre>
 <hr />
 <div class="iframe">
 <div id="player">
@@ -166,9 +166,9 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Mathematical Snowshoe Art (slideshow), <a href="http://www.facebook.com/snowart8848">Simon Beck</a>
+Nuke EMP space plasma 1962: starfish prime "fishbowl phenomenon"
 <pre><code>
-</code></pre>
+&#10;</code></pre>
 <hr />
 <div class="iframe">
 <div id="player">
@@ -181,9 +181,9 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Thick water in zero-gee
+Mechanical Maglev! Spining neo magnets, hot aluminum plate
 <pre><code>
-</code></pre>
+&#10;</code></pre>
 <hr />
 <div class="iframe">
 <div id="player">
@@ -196,9 +196,9 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Major excavation project. via <a href="http://boingboing.net/2012/02/14/man-digs-out-basement-with-rc.html">Boingboing</a>
+Blobs of liquid carbon dioxide, 1 mile depth.
 <pre><code>
-</code></pre>
+&#10;</code></pre>
 <hr />
 <div class="iframe">
 <div id="player">
@@ -211,7 +211,7 @@ JavaScriptin suoritus ei onnistu.
 </div>
 </div>
 <br />
-Aurora in realtime. No, not fake.
+Less dense than AEROGEL?! Huh.
 <pre><code>
 &#10;</code></pre>
 <hr /></td>
@@ -221,8 +221,6 @@ Aurora in realtime. No, not fake.
 </tr>
 </tbody>
 </table>
-
-\
 
 <table data-summary="google ad">
 <colgroup>
@@ -240,9 +238,9 @@ Aurora in realtime. No, not fake.
 
 \
 
-     [\< \<](http://amasci.com/amateur/physvids.html)   [\<PREV](http://amasci.com/physvids/15.html)   [...18](http://amasci.com/physvids/18.html)   [17](http://amasci.com/physvids/17.html)   [16](http://amasci.com/physvids/16.html)   [15](http://amasci.com/physvids/15.html)   14   [13](http://amasci.com/physvids/13.html)   [12](http://amasci.com/physvids/12.html)   [11](http://amasci.com/physvids/11.html)   [10...](http://amasci.com/physvids/10.html)   [NEXT\>](http://amasci.com/physvids/13.html)   [\> \>](http://amasci.com/physvids/1.html)  \
+     [\< \<](http://amasci.com/amateur/physvids.html)   [\<PREV](http://amasci.com/physvids/16.html)   [...19](http://amasci.com/physvids/19.html)   [18](http://amasci.com/physvids/18.html)   [17](http://amasci.com/physvids/17.html)   [16](http://amasci.com/physvids/16.html)   15   [14](http://amasci.com/physvids/14.html)   [13](http://amasci.com/physvids/13.html)   [12](http://amasci.com/physvids/12.html)   [11...](http://amasci.com/physvids/11.html)   [NEXT\>](http://amasci.com/physvids/14.html)   [\> \>](http://amasci.com/physvids/1.html)  \
 
-[http://amasci.com//physvids/14.html](http://amasci.com/physvids/14.html)\
+<http://amasci.com/physvids/15.html>\
 Created and maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\
 
 <div class="statcounter">

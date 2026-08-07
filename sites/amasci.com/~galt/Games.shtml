@@ -1,0 +1,35 @@
+<html>
+<head>
+</head>
+<body>
+<h1>Completed Games</h1>
+(See <a href="http://www.mobygames.com/">Moby Games</a> for my <a href="http://www.mobygames.com/developer/sheet/view/by_year/developerId,9908/">gameography</a>.)
+<p>
+<a href="http://www.lordoftherings.com/frame_fellowship_ps.shtml">The Fellowship of the Ring</a> -- PC and Sony PlayStation 2, Surreal Software, 2002
+<p>
+<a href="http://www.surreal.com/Drakan_PS2.htm">Drakan: The Ancients' Gates</a> -- Sony PlayStation 2, Surreal Software, 2002
+<p>
+<a href="http://www.planetdrakan.com/">Drakan: Order of the Flame</a> -- PC Windows, Surreal Software, 1999
+<p>
+<a href="http://www.kagi.com/phs/">StixWorld</a> -- PC DOS/Windows, PsychoHazard Software, 1998
+<p>
+<FOOT>
+<CENTER>
+<TABLE border=1 cellPadding=4>
+  <TBODY>
+  <TR>
+    <TH colSpan=7>Greg Alt's Personal Pages 
+  <TR>
+    <TH width="14%"><a href="Work.shtml">Companies<br>I've<br>Worked For</a>
+    <TH width="14%"><a href="Education.shtml">Education</a>
+    <TH width="14%"><a href="Games.shtml">Completed<br>Games</a> 
+    <TH width="14%"><a href="Publications.shtml">Publications</a>
+    <TH width="14%"><A href="bike.shtml">Bicycle<BR>Commuting<BR>Checklist</A> 
+    <TH width="14%">My<BR>Realtime<BR>Raytracer 
+    <TH width="14%"><A href="index.shtml">Homepage</A> 
+  </TR></TBODY></TABLE>
+<P>
+</CENTER>
+
+</body>
+</html>

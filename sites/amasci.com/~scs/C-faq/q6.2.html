@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 6.2</title>
+<link href="q6.1.html" rev=precedes>
+<link href="q6.3.html" rel=precedes>
+<link href="s6.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 6.2</H3>
+<p>But I heard that <TT>char a[]</TT> was identical to <TT>char *a</TT>.
+</p><hr>
+<p>Not at all.
+(What you heard has to do with formal parameters to functions;
+see question
+<a href=q6.4.html>6.4</a>.)
+Arrays are not pointers.
+The array declaration
+<TT>char a[6]</TT>
+requests that space for six characters be set aside,
+to be known by the name ``<TT>a</TT>.''
+
+That is,
+there is a location named ``<TT>a</TT>''
+at which six characters can sit.
+The pointer declaration
+<TT>char *p</TT>,
+on the other hand,
+requests a place which holds a pointer,
+to be known by the name ``<TT>p</TT>.''
+This
+pointer can point almost anywhere:
+to any <TT>char</TT>,
+or to any contiguous array of <TT>char</TT>s,
+or nowhere
+
+(see also questions <a href=q5.1.html>5.1</a>
+
+and
+<a href=q1.30.html>1.30</a>).
+</p><p>As usual, a picture is worth a thousand words.
+
+The declarations
+<pre>	char a[] = "hello";
+	char *p = "world";
+</pre>would initialize data structures which could be represented like this:
+<pre><TT>	   +---+---+---+---+---+---+
+	a: | h | e | l | l | o |\0 |
+	   +---+---+---+---+---+---+
+	   +-----+     +---+---+---+---+---+---+
+	p: |  *======&gt; | w | o | r | l | d |\0 |
+	   +-----+     +---+---+---+---+---+---+
+</TT></pre></p><p>It is important to realize
+
+
+that a
+reference like <I>x</I><TT>[3]</TT>
+
+generates different
+code depending on whether <I>x</I> is an array or a pointer.
+Given the declarations above,
+when the compiler sees the expression <TT>a[3]</TT>,
+it emits code to start
+
+at the location ``<TT>a</TT>,''
+move three past it,
+and fetch the character there.
+When it
+sees the expression <TT>p[3]</TT>,
+it emits code to start at the location ``<TT>p</TT>,''
+
+fetch the pointer value there,
+add three to the pointer,
+and finally fetch the character pointed to.
+In other words,
+
+
+
+<TT>a[3]</TT> is three places past
+(the start of)
+the object <em>named</em> <TT>a</TT>,
+while <TT>p[3]</TT> is three places past the object
+<em>pointed to</em> by <TT>p</TT>.
+In the example above,
+both <TT>a[3]</TT> and <TT>p[3]</TT>
+happen to be the character 'l',
+
+but the compiler gets there differently.
+</p>
+
+
+<p>References:
+
+K&amp;R2 Sec. 5.5 p. 104
+<br>
+CT&amp;P Sec. 4.5 pp. 64-5
+<br></p><hr>
+<p>
+Read sequentially:
+<a href="q6.1.html" rev=precedes>prev</a>
+<a href="q6.3.html" rel=precedes>next</a>
+<a href="s6.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

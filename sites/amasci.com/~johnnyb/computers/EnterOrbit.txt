@@ -1,0 +1,43 @@
+FEATURES:
+
+1) Automatic conversion of WSDL->IDL
+
+2) Graphical (text?) browsing of services found on UDDI
+
+3) Local UDDI service
+
+4) Ability to publish CORBA objects like beans, just in a .so file with a corresponding configuration file.  Configuration should include:
+
+     a) Which interfaces need security, and what kind
+     b) Which interfaces should be published by SOAP
+     c) What the transactional contexts are for the interfaces
+     d) Other interceptors?
+     e) Policies?
+     f) Whether they need to run in their own context, or can share one with others
+
+5) Auto discovery/reload service, that detects configuration changes and reloads automatically
+
+6) Ability to do this from Visual Studio?  Ability to work with IDL files from Visual Studio?
+
+7) Linux GUI development tool?  Should automate the manipulating of IDL files and generation of headers/C files and inclusion of .c files in the Makefile.
+
+8) MOSIX clustering?  Network load balancing?
+
+10) Need transaction service, event service, and notification service
+
+Questions -
+
+can PostgreSQL handle a separation of prepare() and commit()?
+
+What about ODBC setup?
+
+What should the API be for shared object servers?  Can OAF handle what I want?  
+
+How do you do network load-balancing with CORBA?
+
+Could I get Oracle to let me ship it's client drivers with the product?
+
+How does this compare to .NET and J2EE?
+
+What language should be the default?
+

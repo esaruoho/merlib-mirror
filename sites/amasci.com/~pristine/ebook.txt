@@ -1,0 +1,432 @@
+Pure Mac: Ebook - Software for Macintosh 
+
+ Ebook & Audiobook Software 
+
+ Web 
+
+ Pure-Mac.com 
+
+ CHM Viewers 
+ Ebook Readers 
+ Audiobook Tools 
+
+ Chamonix 
+ Chmox 
+ xCHM 
+
+ Adobe Digital Editions 
+ Adobe Reader 
+ eReader 
+ Tofu 
+
+ Audiobook Builder 
+ Audiobook Maker 
+ Books2burn 
+ GhostReader 
+ Join Together 
+
+ Ebook Resources 
+ eBooks.com - Purchase Ebooks in Adobe Reader format 
+ eReader.com - Purchase Ebooks in eReader format (i.e. .pdb) 
+ iPod eBook Creator - Convert .txt files to iPod Notes format with this web based program 
+ Manybooks.net - Download free ebooks in eReader or iPod Notes formats 
+ Project Gutenberg - Get the Plucker file (i.e. .pdb) to read with eReader or the .txt file (you can Print then Save as PDF to read with Adobe Reader or your favorite PDF viewer). 
+ Audiobook Resources 
+ Gutenberg: The Audio Books Project - Download Free Audiobooks 
+ iTunes Store - Audiobooks - Purchase Audiobooks at Apple's iTunes Store 
+ Librivox - Download Free Audiobooks 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Adobe Digital Editions 9.0.342d27 
+
+Adobe Digital Editions is a completely new way to read and manage eBooks and other digital
+publications. Digital Editions is built from the ground up as a lightweight, rich Internet
+application (RIA). Digital Editions works online and offline, and supports both PDF and
+XHTML-based content.
+
+The Digital Editions download is only 2.5 MB including Adobe Flash Player 9 and takes less
+than two minutes to install over a broadband connection. With an RIA service model, users
+always have the latest version of Digital Editions, taking advantage of new features and
+security enhancements.
+
+We're releasing an early version now so that you have plenty of time to give us feedback
+on what's working for you, and what isn't. Get it now or browse and download eBooks and
+digital magazines in our free library. Make reading an experience.
+
+ License : Freeware
+ Author/Publisher : Adobe
+ Modification Date : February 14, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.4 MB
+
+ Home Page 
+
+ Adobe Reader 8.1 
+
+Adobe Acrobat Reader is free software that lets you view and print Adobe
+Portable Document Format (PDF) files.
+
+ License : Freeware
+ Author/Publisher : Adobe
+ Modification Date : June 5, 2007
+ Requirements : Mac OS X 10.4.4 or higher (Adobe Reader has a browser plug-in but it only works in Safari)
+
+ Download 
+File Size: 25.9 MB - Version 8.1 for Intel - Doesn't Read DRMed Ebooks
+
+ Download 
+File Size: 23.8 MB - Version 8.1 for PPC - Doesn't Read DRMed Ebooks
+
+ Download 
+File Size: 21.5 MB - Version 7.0.9 - June 2, 2006 - Reads DRMed Ebooks
+
+ Download 
+File Size: 21.0 MB - Version 6.0 - October 31, 2003 - Reads DRMed Ebooks
+
+ Download 
+File Size: 55.5 MB - Version 5.0.5 - December 20, 2001
+
+ Download 
+File Size: 4.9 MB - Version 4.0.5 - November 15, 1999
+
+ Download 
+File Size: 7.1 MB - Version 3.0.2 - released October 2, 1998
+
+ Home Page 
+
+ Audiobook Builder 1.0.8 
+
+Now there's Audiobook Builder, the easy way to quickly import your Audiobook CDs (or
+tracks that are already on your Mac), organize them and output one or two files that your
+iPod recognizes as actual Audiobooks. The results are automatically sent to a special
+playlist in iTunes, and when you sync with your iPod they appear right you;d expect - in
+the Audiobooks section. No more wading through hundreds of confusing files on your iPod.
+No more wasted space. And no more losing your place - it-s saved automatically each time
+you listen to your favorite Audiobooks.
+
+Audiobook Builder - the ideal tool for moving your Audiobook collection to your iPod.
+
+ License : Shareware, $10
+ Author/Publisher : Splasm Software
+ Modification Date : October 26, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.7 MB
+
+ Home Page 
+
+ Audiobook Maker 0.1b 
+
+Many websites offer lots of complete audiobooks for free. The only problem is that these
+books come in many small MP3 files.
+
+Audiobook Maker makes joining and converting these audiobook files a breeze. With the
+simplicity of OS X, you just drag your MP3 files onto Audiobook Maker and click go!
+
+Heaps of features
+ Audiobook Maker makes audiobooks easy with many easy to use features:
+ * Convert to MP3, AAC or iTunes Bookmarked AAC
+ * Set many properties of your audiobook including bitrate, sampling frequency and number of channels
+ * Preview any chapter with the built-in audio player
+ * When you're done, automatically add the new book to your iTunes library
+ * Reorder the chapters easily with drag and drop, or auto-sort
+ * Export in a flash with FFMpeg and Apple's ChapterTool 
+
+ License : Freeware
+ Author/Publisher : Ben Gummer
+ Modification Date : December 3, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.4 MB
+
+ Home Page 
+
+ Books2burn .099b2 
+
+Books2burn translates text files into a series of audio files (Apple AIFF format) which
+can then be converted to mp3's or other formats using programs like LAME, iTunes, or other
+tools available around the net.
+
+ License : Freeware
+ Author/Publisher : Matthew Weinstein
+ Modification Date : March 7, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 4.8 MB
+
+ Home Page 
+
+ Chamonix 1.1a 
+
+Chamonix is a CHM viewer for Mac OS X 10.4. It is an Objective-C app
+that uses CHM lib, Cocoa and WebKit. It supports ToC, Indexing, Search
+and Favourites and multiple CHM documents.
+
+ License : Freeware
+ Author/Publisher : James Weatherly
+ Modification Date : March 21, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 84 MB
+
+ Home Page 
+
+ Chmox 0.3 
+
+Read your CHM documents on your Mac.
+
+ License : Freeware
+ Author/Publisher : Stephane Boisson
+ Modification Date : February 5, 2005
+ Requirements : Mac OS X 10.3.4 or higher
+
+ Download 
+File Size: 251 Kb - version 0.3
+
+ Download 
+File Size: 324 Kb - version 0.4beta - September 23, 2006
+
+ Home Page 
+
+ eReader 2.6.1 
+
+eReader for Macintosh is an award-winning application used to read
+eReader eBooks on your Macintosh computer. There is no charge to
+download and use the eReader. There is an upgrade called eReader Pro. For
+the first 15 days of using eReader, you will have trial access to those
+features.
+
+ License : Freeware, Pro version $10
+ Author/Publisher : Palm Digital Media
+ Modification Date : March 8, 2005
+ Requirements : Mac OS X 10.1 or higher and Mac OS 8.6 or higher
+
+ Download 
+File Size: 5.5 MB
+
+ Home Page 
+
+ GhostReader 1.1 
+
+GhostReader allows you to listen while your Mac does the talking
+
+GhostReader is the new name (it used to be called TextParrot) for a
+multilingual text to speech solution for Mac OS X that allows you to
+listen to your documents with naturally sounding voices in a language of
+choice. Just like a ghostwriter writes for someone else, GhostReader can
+read for you! You can also use it to create your own personal podcasts
+or your own audio books by exporting to iPod ready iTunes tracks. Or
+just use it to speak selected text in a handy reader window with play,
+fast forward and rewind functionality. In some applications, such as
+Safari, GhostReader enables you to listen to text by just pointing your
+cursor at the text. Now you can sit back and relax while GhostReader
+reads the text under the cursor.
+
+ License : Demo, $40 for single monolingual license
+ Author/Publisher : ConvenienceWare
+ Modification Date : July 5, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 290 MB
+
+ Home Page 
+
+ Join Together 5.1 
+
+This AppleScript Studio application will enable you to join the files of selected iTunes
+tracks together--including CD tracks--with QuickTime and export them as a single AAC
+file/track. Optionally, with Apple's ChapterTool application installed (download link
+included), it will create a "chapterized" audio file of the exported AAC file.
+
+ License : Freeware
+ Author/Publisher : Doug Adams
+ Modification Date : January 13, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 710 Kb
+
+ Home Page 
+
+ Tofu 1.3.4 
+
+Tofu is... different. It is a novel application to address the common
+problem that people don't like reading text on the screen. Why is that
+anyway? I believe there are two main reasons: line width and visual
+instability. Text is usually very wide on the screen, which makes going
+from the end of one line to the beginning of the next difficult. That's
+why newspapers have narrow columns: It makes them faster to read. So why
+not just take a normal window and make it narrower, scrolling down as
+you need? Well, there are usually a lot of lines in a text, and all look
+more or less the same, so if they move past your eyes vertically, they
+are difficult to keep track of. The text doesn't feel stable, and you
+get lost easily. In Tofu, text is arranged in columns, and each column
+is only as high as your window. So lines are nice and narrow, they don't
+move about vertically, plus your text is now in easy-to-digest chunks.
+You just scroll from column to column horizontally, and feel more in
+control. Tofu also includes some other useful features to make reading
+easier for you. You can jump to any point in your text by simply typing
+some letters near it (without choosing any command first). There's a
+system-wide Service so you can, for example, grab some text from a web
+page. And it lets you use your voice to navigate text, so you can
+literally sit back and read.
+
+ License : Freeware
+ Author/Publisher : Amar Sagoo
+ Modification Date : May 8, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 438 Kb
+
+ Home Page 
+
+ xCHM 1.13 
+
+This is a quicky port of the xCHM Windows Compiled HTML viewer, which
+was originally written for Linux and GTK.
+
+ License : Freeware
+ Author/Publisher : Chanler White
+ Modification Date : April 11, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.5 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

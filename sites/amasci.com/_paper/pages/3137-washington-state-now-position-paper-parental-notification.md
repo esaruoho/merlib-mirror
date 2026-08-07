@@ -1,0 +1,57 @@
+---
+title: "Washington State NOW: Position Paper: Parental Notification"
+source_domain: amasci.com
+source_path: ~feminist/pp.parental.notification.html
+order: 3137
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T05:56:34Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Washington State NOW: Position Paper: Parental Notification
+
+*Source page: `~feminist/pp.parental.notification.html`*
+
+<img src="now.gif" data-align="left" data-hspace="10" data-vspace="10" alt="N O W" />
+
+Washington State chapter
+
+National Organization for Women
+
+Position Paper
+
+Parental Notification
+
+\
+
+------------------------------------------------------------------------
+
+Link to the [Washington State NOW Home Page](http://www.wanow.org/)
+
+------------------------------------------------------------------------
+
+# Parental Notification
+
+Washington State NOW opposes parental notification laws and parental consent laws. The voters of this State passed Initiative 120 which provided for no restrictions on abortion, regardless of age. Parental notification has the same effect as parental consent and is a misguided attempt to legislate parental-teen communication.
+
+75% of girls age 15 and under talk to at least one parent before an abortion. Unfortunately, many young women live in homes where violence and substance abuse are a part of their lives. It is not safe for these young women to confide in their parents. They do not tell their parents because they fear physical and sexual abuse in their living situations or because their parents are alcoholics, drug addicts, or suffer from mental illnesses.
+
+A recent University of Washington study found that 66% of young women who become pregnant as adolescents were sexually abused. In the case of incest, parental notification could put control of the victim in the hands of her abuser. Teens who cannot tell their parents are more likely to resort to back-alley or self-induced abortions. At least 5% of all teens age 15-17 live with neither parent. Many teens talk to adults other than parents: aunts, grandmothers, teachers, and counselors at the clinics.
+
+Even with judicial by-pass provisions, parental notification laws in other states have caused up to an 18% increase in 2nd trimester abortions due to the delay of telling a parent or going to court. Other states with by-pass provisions have experienced arbitrary and unfair decisions depending on which judge heard the case. Some judges granted all requests and some judges granted none. In Massachusetts, there was a 300% rise in girls traveling out of state to receive abortions within the first 8 months of passing a parental consent law. Traveling puts the girl at risk of developing complications (infection, bleeding, etc.) when she is far from needed care.
+
+It is impossible to legislate good parent-teen communication. It is wrong to put teens at risk for death or injury if they do not live in an ideal home situation.
+
+\
+
+per Washington State NOW Activist - January 1997
+
+Call 360-253-7147 for a contact person in your local community.
+
+------------------------------------------------------------------------
+
+Link to the [Washington State NOW Home Page](http://www.wanow.org/)\
+Parental Notification Position Paper ("pp.parental.notification.html")\
+Last updated: March 20, 2003\

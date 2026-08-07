@@ -1,0 +1,279 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Author" content="Henry S. Takeuchi">
+<title>Introduction to Graphics</title>
+</head>
+<body>
+<h1>Introduction to Graphics</h1>
+
+Ultimately, all graphics under Windows are accomplished via a
+<b><i>device context</i></b>, or DC. The DC is the information
+about a drawing environment. This includes a reference to a
+drawing surface (a so-called "device"), some assigned <b><i>GDI
+objects</i></b> (drawing tools), and a few <b><i>drawing
+modes</i></b>. There are currently three types of devices: a
+video display device, a hardcopy device (printer or plotter), and
+a virtual device (a bitmap in memory). 
+
+<ul>
+<li><a href="#displayDC">Display device context (video display
+DC)</a></li>
+
+<li><a href="#commonprivate">Common and private DC</a></li>
+
+<li><a href="#example">An example program</a></li>
+</ul>
+
+[ <a href="win32asm.htm">Back to Win32 ASM Page</a> ] 
+
+<h3><a name="displayDC"></a>Display device context (video display
+DC)</h3>
+
+The DC used with a video display is also known as a <b><i>display
+device context</i></b>. It allows you to draw images on the video
+display. <br>
+ Each display DC holds the state of a drawing area on the
+video display. Each DC defines a <b><i>clipping
+region</i></b>--everything "drawn" outside the region is ignored,
+and effectively removed (or "clipped out"). <br>
+ One DC commonly used by Windows programmers is the one that
+allows drawing in the <b><i>client area</i></b> of a window. When
+needed, a <b><i>handle</i></b> to this DC is normally retrieved
+in a message handler after it is invoked, and released before the
+message handler terminates. If the message is WM_PAINT, the two
+functions used are BeginPaint and EndPaint. Otherwise, the two
+functions are GetDC and ReleaseDC. 
+
+<h3><a name="commonprivate"></a>Common and private DC</h3>
+
+The two primary types of display device contexts are
+<b><i>common</i></b> and <b><i>private</i></b>. (The third
+supported type, <b><i>class</i></b>, is obsolete.) When
+retrieving the DC handle, the DC will be private if the window
+class was registered with the CS_OWNDC class style, otherwise it
+will be common. A DC handle is retrieved by calling GetDC. (When
+responding to WM_PAINT, we must call BeginPaint.) <br>
+ If the DC is common, it references a new DC initialized with
+a default set of drawing tools and modes. This DC should be
+released by calling ReleaseDC before exiting the window
+procedure. (When responding to WM_PAINT, we must call EndPaint.)
+<br>
+ If a private DC is created when a window is created, it's not
+necessary to call ReleaseDC. Unlike the common DC, it is not
+reinitialized on retrieval. As a result, you avoid the need to
+reset all your drawing tools and modes with every message
+requiring graphics. However, if you display a lot of windows
+simultaneously, giving every window a private DC will use a lot
+of memory. 
+
+<h2><a name="example"></a>An example program</h2>
+
+The example program, <b>windraw1.asm</b>, draws a circle when you
+click in the client area of the "main" window. 
+
+<ul>
+<li><a href="#commoncode">Creation, loop, and dispatch</a></li>
+
+<li><a href="#drawing">Drawing</a></li>
+</ul>
+
+<h3><a name="commoncode"></a>Creation, loop, and dispatch</h3>
+
+<pre>
+        .386
+        .model  flat
+
+        ; If using TLINK32, don't include vclib.inc
+        include vclib.inc    ; Microsoft VC++ .lib link names
+
+        include win32hst.inc ; constants, structures, and entry names
+
+        .data
+        align   4
+wcx     dd      size WNDCLASSEX           ; cbSize
+        dd      CS_VREDRAW or CS_HREDRAW  ; style
+        dd      WndProc                   ; lpfnWndProc
+        dd      0,0                       ; cbClsExtra, cbWndExtra
+        dd      0                         ; hInstance
+        dd      0                         ; hIcon
+        dd      0                         ; hCursor
+        dd      COLOR_WINDOW+1            ; hbrBackground
+        dd      0                         ; lpszMenuName
+        dd      wndclsname                ; lpszClassName
+        dd      0                         ; hIconSm
+
+wndclsname db 'windraw',0
+
+        .code
+
+        public _start
+        extrn   GetModuleHandle:near
+        extrn   LoadIcon:near,LoadCursor:near
+        extrn   RegisterClassEx:near
+
+_start:
+        push    large 0         ; NULL string pointer means
+        call    GetModuleHandle ; get HINSTANCE/HMODULE of EXE file
+        mov     [wcx.wcx_hInstance],eax
+
+        push    large IDI_WINLOGO
+        push    large 0         ; hInstance, 0 = stock icon
+        call    LoadIcon
+        mov     [wcx.wcx_hIcon],eax
+
+        push    large IDC_ARROW
+        push    large 0         ; hInstance, 0 = stock cursor
+        call    LoadCursor
+        mov     [wcx.wcx_hCursor],eax
+
+        push    offset wcx
+        call    RegisterClassEx
+
+        .data
+        align   4
+cwargs   dd   0                  ; dwExStyle
+         dd   wndclsname         ; lpszClass
+         dd   wnd_title          ; lpszName
+         dd   WS_VISIBLE or WS_OVERLAPPED or WS_SYSMENU or WS_THICKFRAME \
+                or WS_MINIMIZEBOX or WS_MAXIMIZEBOX  ; style
+         dd   100                ; x
+         dd   100                ; y
+         dd   200                ; cx (width)
+         dd   200                ; cy (height)
+         dd   0                  ; hwndParent
+         dd   0                  ; hMenu
+         dd   0                  ; hInstance
+         dd   0                  ; lpCreateParams
+
+msgbuf MSG      &lt;&gt;
+
+wnd_title db 'Draw a circle',0
+
+        .code
+
+        extrn   CreateWindowEx:near
+        extrn   GetMessage:near,DispatchMessage:near
+        extrn   ExitProcess:near
+
+        sub     esp,48            ; allocate argument list
+        mov     esi,offset cwargs ; set block move source
+        mov     edi,esp           ; set block move destination
+        mov     ecx,12            ; number of arguments
+        rep movsd
+        mov     eax,[wcx.wcx_hInstance]
+        mov     [esp+40],eax      ; set hInstance argument in stack
+        call    CreateWindowEx
+
+msg_loop:
+        push    large 0         ; uMsgFilterMax
+        push    large 0         ; uMsgFilterMin
+        push    large 0         ; hWnd (filter), 0 = all windows
+        push    offset msgbuf   ; lpMsg
+        call    GetMessage      ; returns FALSE if WM_QUIT
+        or      eax,eax
+        jz      end_loop
+
+        push    offset msgbuf
+        call    DispatchMessage
+
+        jmp     msg_loop
+
+end_loop:
+        push    large 0 ; (error) return code
+        call    ExitProcess
+;
+; The window procedure...where messages for one class of windows
+;   are processed.
+;
+; Parameters are hWnd, message, wParam, lParam.
+;   hWnd is the window receiving this message.
+;   message is the message ID.
+;   wParam and lParam depend on the message ID.
+;
+; Must preserve EBX, ESI, and EDI.
+;
+        extrn   DefWindowProc:near,PostQuitMessage:near
+
+        .code
+WndProc:
+        mov     eax,[esp+4+4]   ; message ID
+        cmp     eax,WM_DESTROY  ; about to start window destruction
+        je      on_destroy
+        cmp     eax,WM_LBUTTONDOWN      ; left mouse button is clicked
+        je      on_left_mouse_button_down
+        jmp     DefWindowProc   ; delegate other message processing
+;
+; Process WM_DESTROY.  Sent after window is removed from screen, but
+; before any destruction begins.
+;
+; Return zero if processed.
+;
+; Must preserve EBX, ESI, and EDI.
+;
+on_destroy:
+        push    large 0
+        call    PostQuitMessage
+
+        xor     eax,eax
+        ret     16
+</pre>
+
+<h3><a name="drawing"></a>Drawing</h3>
+
+Here is the heart of this example -- graphics at the click of a
+mouse button. It shows the acquisition (GetDC) and release
+(ReleaseDC) of a common DC. If the WNDCLASSEX structure "wc" had
+CS_OWNDC or'ed into the style field, the GetDC would get the
+handle of a private DC, and ReleaseDC would do nothing -- in
+other words, the call to ReleaseDC could be eliminated. <br>
+ To draw a circle, the Ellipse function is called with the
+coordinates of the enclosing rectangle. 
+
+<pre>
+; Process WM_LBUTTONDOWN.  Left mouse button has been pressed.
+;
+; wParam is mouse flags.
+; lParam is y:x (client coordinates).
+;
+; Return zero if processed.
+;
+; Must preserve EBX, ESI, and EDI.
+;
+        .data
+        align   4
+wndDC   dd 0            ; DC handle (hDC) of window client area
+
+        .code
+
+        extrn GetDC:near,ReleaseDC:near
+        extrn Ellipse:near
+
+on_left_mouse_button_down:
+        push    dword ptr [esp+4+0]     ; hWnd
+        call    GetDC
+        mov     [wndDC],eax             ; hDC for window
+
+        push    large 150               ; y, lower right
+        push    large 150               ; x
+        push    large 50                ; y, upper left
+        push    large 50                ; x
+        push    [wndDC]                 ; hDC
+        call    Ellipse
+
+        push    [wndDC]
+        push    dword ptr [esp+4+0]     ; hWnd
+        call    ReleaseDC
+
+        xor     eax,eax
+        ret     16
+
+        end     _start
+</pre>
+
+<hr width="100%">
+</body>
+</html>
+

@@ -1,0 +1,268 @@
+---
+title: "SMALLnet post369"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post369.html
+order: 8059
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:34Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post369
+
+*Source page: `~smallnet/Archive/post369.html`*
+
+## SMALLnet Posting post369
+
+------------------------------------------------------------------------
+
+**Date: Sat, 6 Jan 2001 04:18:37 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+George Penniket \< <penniket@netidea.com> \> inquires:
+
+The November issue of Radio Control Microflight Magazine contained a rave review of Horizon Hobby's new "Firebird" RTF electric park flyer. Does anyone have experience with this model yet? I am considering ordering one for myself, but waiting for a while, hoping that our Canadian Dollar will rise a bit. At the present rate of exchange the Firebird, which is quoted by Horizon at \$99.95 US, would, with two extra battery packs (the battery takes two hours to recharge, they say), cost me around \$200 Canadian.
+
+It sounds like just the thing though for an old duffer like me who isn't interested in hot dogging, but content to stooge around in circles and figure eights for a few minutes at a time.
+
+The model has an ingenious system of control with two channels, and comes complete with Transmitter and wall charger -- nothing else to buy. Any comments?
+
+George Penniket
+
+Bernard Cawley \< <abc_quiet_flight@operamail.com> \> contributed:
+
+In Posting 368, Andy Woitowicz wrote about a Taylorcraft scale model: "...a Taylorcraft in 1/4 Scale size that was a real dog to fly. The T-Craft has comparatively small tail surfaces to start with... This particular model had a serious error in scaling the tail surfaces...
+
+the designer scaled the tail surfaces down even smaller than they should have been at quarter scale. The result was inadequate pitch and yaw stability, to the point that an aileron turn would produce only a bit of roll and massive amounts of yaw in the opposite direction.
+
+"It required gross amounts of differential on the ailerons to the point that "down aileron" motion was virtually non-existent. The final solution was to build a new tail with 25% more surface area than 1/4 scale would dictate. This actually doubled the area that the original plans called for. Now, only a bit of differential was needed and pitch stability was improved as well."
+
+I have to jump in and reply as I'm something of a T-craft nut and built a 1/6 scale airplane for the 1989 NATS with which I placed second in R/C Sportsman Sport Scale. To my knowledge, it was the first electric-powered airplane to win a trophy at the NATS in a Scale event (or perhaps the second: Charlie Bauer also took a second in a Control Line Scale with an e-powered plane at the same NATS).
+
+Anyway, over the past many years, especially leading up to the building of that airplane, I've looked at LOTS of scale plans of Taylorcrafts in various sizes, and never saw one with a stabilizer that was smaller than scale. Most are enlarged some. (By the way, what is hardest to do is scale THICKNESS. The full-sized airplane's horizontal tail is made of various diameters of steel tubing, the thickest of which is 7/8 inch in diameter. Most of it is smaller.
+
+But my reason for writing is this: The behavior of the T-Craft model Andy describes above (all adverse yaw, no roll) is very much in keeping with the full-sized airplane's characteristics. A friend of mine, Mitch Poling, had just gotten his seaplane ticket in a 1946 T-Craft about that time, and reported that the full-sized one's ailerons were almost ineffectual. To turn the airplane requires RUDDER!
+
+As it turned out for my 1989 model, I had done a poor job with the aileron linkages and not only did they work like the full-sized, they were very soft and squishy. That, plus a CG at a more model- airplane-like 33% of chord, rather than 25% or so, gave my test pilot a real scare on its first flight.
+
+Being inexperienced with four channels at the time, and armed with Mitch's thought that the rudder alone would be sufficient (and having no time to re-do the ailerons anyway a week before the NATS), I simply took out the aileron servos, pinned the ailerons in place, and proceeded to fly the airplane, IN THE NATS, on three channels -- with the scale 1 degree of dihedral. The only place where this was even a bit dicey was in the crossover of the mandatory horizontal figure 8 maneuver where you have to go from a bank in one direction to one in the opposite direction. Otherwise, within a scale flight envelope, you couldn't tell the ailerons were pinned.
+
+I suppose it's a good thing I didn't have to do any serious crosswind landings. I did zero one takeoff (by crossing the safety line) that I suppose I could blame on a crosswind......
+
+So, it sounds like the model Andy refers to above just flew in a scale-like fashion before the tail modification.
+
+Nothing to do with small models, per se, but I thought it might be interesting.
+
+Bernard Cawley Auburn, Washington
+
+William P. Adams \< <William.P.Adams@mii.com> \> needs help:
+
+I am having a desperate time trying to locate neoprene fuel line of around 1/16" ID. I wonder does anyone know of a source? The big suppliers offer "medium" fuel line, but no diameter is specified.
+
+This is for a 1-ounce clunk tank. The flexible length of fuel line in the tank is very short (less than an inch), which is why high flexibility is needed. Flexibility comes from the small diameter as well as the material.
+
+I had this tank plumbed using 1/16" latex tubing, which had perfect flexibility properties, but predictably enough this only lasted a few months. It is in a Yard Bee with a PAW 0.5 cc diesel. The engine is mounted inverted to make the plane look neat; a big engine cylinder sticking out the top offends me, and this way the exhaust plumbing, tank height alignment, and throttle linkage fall into place very tidily. (I could perhaps make pictures if anyone is interested.)
+
+I start the engine holding the plane upside down, and as soon as it catches I right the plane before doing final engine adjustments. This start process is the first reason the clunk is necessary. Also, the model does mild aerobatics, like loops and rolls. The tank is plenty big for flights over 20 minutes, and there is no room in the fuselage for a larger tank. As far as I am concerned, the arrangement of the components is fine, if I could solve this clunk business. 2 feet would keep me happy for ever... W P Adams
+
+...I am amazed that the latex tubing lasted as long as 2 days, let alone a few months! The kerosene content of model diesel fuel is death on natural rubber products -- and makes silicone swell up to at least double its usual size.
+
+The only small-diameter, thin-wall plastic tubing I know of from personal experience that's suitable for use in small "clunk tanks" and diesel fuel is the special small-diameter Tygon tubing that Eric Clutton (Dr. Diesel) sells. This is impervious to ALL model fuel. It's a tad stiffer than silicone, however, and considerably stiffer than thin-wall latex.
+
+<span id="141">Source: Tubing, Viton\
+</span> <span id="142">Source: Tubing, polyurethane\
+</span> <span id="143">Vendor: Small Parts, Inc.\
+</span> Two other alternatives can be obtained from Small Parts, Inc., P. O. Box 4650, Miami Lakes, Florida 33014-0650 -- (800) 220-4242. One is Viton rubber; the other is Polyurethane. Both are available in 1/16" ID, 1/8" OD.
+
+The Viton tubing is expensive, at more than \$6 per foot (I don't have a recent price list). The flexible Polyurethane costs around \$5 or so for 10 feet. \[JW\]
+
+Peter Helm \< <helm@pnc.com.au> \> is another PAW user:
+
+I noticed the recent talk about P.A.W., and as a collector of these engines I was wondering if any members would be interested in six small P.A.W. R/C engines that I am selling off.
+
+I collect C/L engines, but from time to time I weaken and obtain an R/C engine or two and so (again from time to time) I have a sell-up to bring myself back on track. If anyone is interested, please contact me direct to discuss further.
+
+On a modelling note, does anyone know of a kit from the late 60's of the CAC Boomerang (Aussie fighter from WWII)? I remember seeing one on display in a hobby shop in Sydney at the time and I believe that it was 26-inch approximate span and rubber/stick and tissue, but I cannot identify the maker. I would love to get a set of plans of this plane. Regards, Peter
+
+Alan Smith \< <Alans3@aol.com> \> wrote:
+
+Between my friends and me, we have 3 MVVS .15 diesels. Currently we use them for sport flying; they use about half the fuel as some glow engines. Depending on the power setting, I can get 20 to 40 minutes on a 4-ounce tank. Once I pushed it and got a 57-minute flight on a 4-ounce tank.
+
+I have found that after 15-20 hours of use the engine starts to lose power but uses much less fuel. When that happens the piston needs to be taken out and de-carboned.
+
+I was hoping that the MVVS .15 diesel engines would be competitive with glow engines in 1/12th-scale WWII combat airplanes. They do not put out as much power as glow engines. Does anyone know how I can get more power out of them? Do I need a tuned pipe, port timing changes, different fuel, larger carburetor, etc ? Alan Smith
+
+...Alan, one reason your MVVS piston needs to be removed and de-carbonized is the very lean running you're subjecting it to. With ample oil content and a not-too-lean needle setting, you'll get much longer carbon-free service.
+
+As for adding power, you might be better off buying a truly "hot" diesel -- such as a Nelson -- than trying to match a glow .15's power by modifying what's basically a sport-flying engine. \[JW\]
+
+Gary Edson \< <gedson@cmq.com> \> adds to the MVVS information:
+
+First, congratulations to Joe on being inducted into the AMA Hall of Fame! To me, your most important contribution is the emphasis on non-competition enjoyment of the sport/hobby. And the SMALL approach puts the concept into action in a very effective way for those of us who get a rush out of watching the sun shine through translucent covering, watching a little jewel of an engine run on the bench, and joking with friends at the flying field.
+
+The Model Aviation write up only hinted that the SMALL approach is different than the AMA competition emphasis. But I am happy that they honored you and made some small note of the way most of us actually participate.
+
+Francis Person asked about the MVVS .15 diesel, and I can say a little about it. It's true what Dave Larkin said, that the small MVVS diesels are now called Modela. Ed Carlson once told me that the original Czech company had been broken up into three companies. Among them, MVVS continues to make the larger and more competition-oriented engines, and Modela offers the small, sport, plain-bearing engines, along with other modeling supplies.
+
+However, the .15 diesel that I have does say MVVS on it. It has ball bearings and an air-bleed carb. It also has the round, side exhaust port, and a mini-pipe is available, as well as a standard muffler. Quality of fit and finish is also better than the Modela 1.5 and 2 cc diesels that I also have.
+
+Overall, the .15 appears to be a more serious engine, but if it is intended for competition, I do not know about that.
+
+The .15 was very tight when I got it. In fact, the contra-piston was far too tight. One could increase compression by really cranking HARD on the adjustment. But after backing off the adjustment, the contra-piston would not come back up. I solved the problem by making a cylinder lap and lightly lapping just the top of the cylinder. One shouldn't have to do this to a new engine.
+
+Runs fine now. Starts easily. Has good idle and throttle response. But it does vibrate a lot more than I like. I have only run it up to 12,000 rpm on a Master Airscrew 9x4. At this speed, I can increase the compression more. I just haven't because I don't like the vibration, and it is worse with higher rpm.
+
+I have not spent enough time with this engine to get it sorted out and I have not flown it yet...which is why I have not spent enough time, etc., etc.) -- but I suspect the vibration is an effect of the iron piston. As steel cylinder-iron piston engines get larger, they tend to vibrate more. That's one reason why most modern engines have aluminum pistons. I would be interested to hear about others' experience with the MVVS .15 diesel.
+
+Finally, I would suggest the that Modela (nee MVVS) 2 cc (.12) diesel is a much more friendly engine. It is plain bearing, with an air-bleed R/C carb and standard-type muffler. Starts VERY easily, throttles well, idles down to less than 2,000 rpm, and runs smoothly. Also tolerates a long exhaust pipe to keep the goo off a plane. Mine will do 11,600 rpm with a Master Airscrew 9x4.
+
+But this is overloading it a bit. With the long exhaust pipe, the exhaust residue is dark brown--nearly black. When I get back to it, I will try a smaller prop. The other option is to be content with 11,000 rpm with the 9x4. This engine is on a 50-inch aileron Lazy Bee and it flies it along very well. Would it be adequate for a Stagger Bee? I don't know.
+
+Good luck. Gary Edson
+
+...Say, Gary, I'm puzzled by your remark, "At this speed I can increase the compression more..." My experience with model diesels is that they perform best with MINIMUM compression. That way the mixture doesn't fire prematurely, while the piston is still on its way up. Less energy is wasted in fighting the upward motion of the piston, and more is available for the downstroke. The engine runs much more smoothly at reduced compression too. \[JW\]
+
+Dick Schwieren \< <rschwier@networkone.net> \> suggests:
+
+How about polling the readers for some real life experience with electric motor gear boxes? I researched the SMALLnet listings, and could not find much information concerning what works, and what doesn't. I am interested in Speed 400 systems to begin with, for size, wing span, and weight of ship as related to gear ratios/ propeller types/sizes/pitch. Dick Schwieren
+
+Walter Legan \< <dcl86374@pegasus.cc.ucf.edu> \> wrote:
+
+I am looking to buy a used Flight Simulator system complete with transmitter box, cable, and software, that will work on my old klunker 386 Computer running DOS 6.2 at 40 MHz with 8 Megabytes of RAM.
+
+I have a Game Port, 3.5 inch disk, 2x CD, and VGA. If any of your SMALLflyers have such a thing for sale, please contact me.
+
+Thanks, Walter Legan -- Orlando, Florida
+
+Al Lidberg \< <AALmps@aol.com> \> reminisces:
+
+Norm Dial talked about CO2- powered "jet race cars". I've told this story before, but it may be of some interest. In the late '40's CO2 capsules were really cheap at the war surplus stores -- and so we kids enjoyed running the little CO2 jet cars on wire or string, down the usual bumpy sidewalks.
+
+However, at the annual hobby shows at Navy Pier in Chicago, the 'big guys' ran them more seriously - a smooth floor, taut guide wire, and electrical timing. Their cars really did go fast -- much faster than we could ever do! Don't remember the speeds, but they were impressive numbers.
+
+Only years later did I learn that there was a trick to their cars. While us kids used the 98-cent spring-driven phonograph-needle capsule-piercing device, THEIR launcher was a lot more involved. It seems that someone devised a launcher based on a car's valve spring -- it had to be loaded on a valve spring compressor.
+
+These launchers were so strong that a seemingly record speed run could be made with an empty CO2 cartridge! Now I understand.
+
+Norm also mentioned his first Control-Liner: "...The lines were not included in the kit, and were bought separately. No trouble with curling. I used them until someone invented braided cable."
+
+My first really successful C/L model was in about '48-50 - a Goldberg 'Trainee', profile low wing model. Must admit it looked strange even then with the coil and battery sitting in cut-outs in the profile body. The Merlin .23 worked well, though.
+
+For lines, I had one of Jim Walker's earliest "U-Reely" (you really control the plane?) handle/reel devices. We had seen Jim Walker fly Fireballs in a steel wire fence cage at the indoors Navy Pier shows in Chicago, and I'm sure that's why my dad got the U-Reely -- it did make keeping track of lines quite simple, as you could just unroll when it was time to fly, without having a separate reel and clips for the handle.
+
+Anyhow -- first flight of the Trainee was in a big grass area at a school. I had unrolled about 50' of line. The model took off nicely and I did keep it flying very well. However, the longer it flew, the slower it seemed to go -- and the farther away it got -- most of 100', I think. Seems the U-Reely had about 120' of line on the reel, and the first versions of that device did not have a positive stop. At times they kept unreeling line! (There was a 'brake', that supposedly allowed the flyer to release line in flight.)
+
+We quickly sent the U-Reely back to Jim Walker -- who returned it with a simple push-through rod that positively stopped the wind/ unwind problem. From then on, flying C/L was a little less exciting for me -- until I got into stunt and combat.
+
+BTW: Later on, there was a much smaller version of the U-Reely sold by COX, for use with thread lines - but, I'm guessing that LeRoy Cox never paid Jim Walker royalties on that idea either ;-)
+
+Another BTW: It was Dale Kirn who travelled around doing the Stanzel Monoline demonstrations. I saw him impressively flying a stunt model here in Phoenix -- maybe 1958? -- with about 120 feet of line.
+
+With the Monoline, there was less need to keep the line tight, as control was implemented by twisting a single line. At the handle there was a 2-wire twisted spiral widget, with a runner that was moved back and forth to twist the line. At the plane, there was a worm gear that drove a segment of a flat gear to get fore/aft pushrod movement. Monoline never made much impact on stunt from what I recall, but the speed flyers sure loved it.
+
+(And, yes, there are two 1/2A C/L models in my mostly free flight and R/C plans/kits catalog: \< <http://members.aol.com/aalmps> \>.
+
+AL Lidberg, Tempe, Arizona (desert rat since '52)
+
+Peter Havriluk \< <Peter.Havriluk1@hartfordlife.com> \> wonders:
+
+Can anyone comment on whether John Pond's Old Time Plan Service is still active? I know that John himself cannot run it any longer, but the last I heard was that his son was continuing the business. I've tried calling and there has been no answer, and no answering machine picked up. I have read comments in other places that orders have gone unfilled and unanswered.
+
+Chuck Kriete \< <dotchuck@epix.net> \> contributed:
+
+Bill Hudson asked about the flight characteristics of three 50 mAh cells vs. two. My only experience there is with a Thistle, a Foam Flyer, and a Herr rubber-powered Cub on 110 cells. Each case showed a difference in climb ability, due to higher rpm, thrust, etc.
+
+They were still easy to trim. The Cub was flown with a Mini-6 rather than a Micro-4 (the Mini-6 is a geared Micro-4, for those who haven't flown either). I had no trouble with spiral dives with either power on any plane I have flown. They include the Snapdragon from MA plans and another low-wing monoplane whose name I forget -- I think both were Thornburg designs.
+
+On bad NiMH cells, I have just purchased some AAA NiMH's from Hosfelt Electonics, Inc., 2700 Sunset Blvd, Steubenville, Ohio 43952 -- with an orders-only number 1-800-524-6464. The cells are around 550 mAh and they work great for me.
+
+I bench-tested a Skimpy I had been flying on 6 270 mAh nicads and getting around 5-minute flights. With a 6-cell pack of these AAA NiMH's I got a motor run of 11 minutes at nearly full power, and 16 minutes total run. (I think only the first 11 minutes would be usable power to sustain flight.) I am headed out to the pasture for flying it as soon as I finish this SMALLnet submission.
+
+I have not examined my experience with electrics nearly as systematically as Sam Brauer has, but everything he says rings a clear bell with me. I appreciate the clear way he presented the basics in tabular form. It confirms and explains my own experiences over the last four years VERY clearly. It is RIGHT ON. Thanks for sharing and clarifying.
+
+Chuck Kriete
+
+Sam Brauer \< <SBrauerBCC@aol.com> \> wrote:
+
+<span id="420">Source: Mufflers\
+</span> There were a couple of queries in the last few posts concerning sources that I think I can handle. First off, in response to an in-cowl muffler inquiry, the best shop that I know of for mufflers is in England -- web site \< <http://www.justengines.unseen.org> \>.
+
+I've done business over the net with these guys, and they're very pleasant.
+
+With regards to a Lite Stik motor and a Herr Cub -- the original 6-cell batteries are generally considered marginal. You might get away with either a 7- or 8-cell NiMH pack. Build it light. A better bet might be an HY50B or a direct-drive Speed 280. Those are simple and should work. There's lots of stuff on the Ezone about slow flyers, on topics such as Litestiks and motors -- they're very popular.
+
+Sam Brauer Norwalk, Connecticut
+
+Ed Toner \< <captained@home.com> \> asserts:
+
+Sam Brauer neglected CO2 as a powerplant in his "model size and power" tables. These motors are very versatile, and have a wide size, weight, and power range. They are as clean and quiet as electrics, and a fraction of the weight.
+
+Ed Toner
+
+...Quite right, Captain Ed! However, Sam was describing his own personal model flying experiences, and he's had none to speak of with CO2 so far.
+
+BTW, the new Gasparin motors are especially versatile, with readily-adjustable speed. The four motors I've been experimenting with (3 singles and a twin) will all run at almost constant power (2000 to 2500 rpm, depending on the motor size and propeller) for 5 to 7 minutes. Yes, there ARE tricks to successful CO2 power flying -- some of them "counter-intuitive". But once you get the hang of CO2 operation, it's easier than any other type of "reciprocating model airplane power". \[JW\]
+
+Bob Peterson \< <RPeter9954@aol.com> \> offers:
+
+If anyone would like a plan for the Flyline Stearman C3B (35" Wingspan), I will send it to whomever pays the postage. No kit, just the plan.
+
+Bob Peterson
+
+Jon McVay \< <Togflier@aol.com> \> wrote:
+
+Mark, I have seen two Prairie Birds; one electric and one I/C on a .15. They were both good, VERY stable flyers. You can see the airplane on Peck's web site.
+
+McVay in Mount Vernon, Iowa
+
+Dave Segal \< <DDavesegal@cs.com> \> contributed:
+
+<span id="479">Source: Switches\
+</span> <span id="480">Vendor: Digi-Key\
+</span> In response to Sam Brauer's comment: "Those little Radio Shack switches are worthless..." Bob Kopski discussed this problem in his column in the March 1996 Model Aviation. He recommended using toggle switches and jacks from Digi-Key. Parts can be ordered from their website at \< <http://www.digikey.com> \>.
+
+In response to Mark Garvey's question about the Prairie Bird from Peck Polymers: The enlarged R/C version of the Prairie Bird has been around for a long time. It is a fair kit if you can stand the ugly looks. The very narrow fuselage and tall cabin requires small radio gear and long fingers for the installation. It is a very gentle flyer but it climbs like a freeflight model, and is good for thermal chasing, and not for learning to maneuver and practice touch-and-goes as I needed to do when learning to fly R/C.
+
+The .15 engine is quite excessive; and it only needs a .10 size powerplant. BTW, there is an even larger one available as a plan called the "Humungous Sage Hen".
+
+Dave Segal
+
+Dave Robelen \< <aplusfarm@hovac.com> \> wrote:
+
+I read with interest the comments on the short tail moment of the Citabria and the possibility of inadequate tail area. The conventional measurement of these parameters is to ratio the areas to the wing area, and then calculate the tail moment from 1/4 chord wing to 1/4 chord tail. These results are multiplied together to provide a working figure for the "tail volume coefficient" -- the industry-wide method of measurement.
+
+The above example would be for the horizontal tail, while the vertical tail formula trades the wing chord for the wing span. Check at the library for an aeronautical text that will give values for the above coefficients.
+
+In the case of the "snap rolling" Citabria, is the dihedral increased? The area of the vertical tail and it's effectiveness are directly linked. Since the full-scale aircraft is quite stable, normally an R/C model of it will be equally stable. And, yes, the ailerons need rudder coordination to offset the lack of aileron motion differential in both the full-size aircraft and models of it that are reasonably close to scale.
+
+There is one other item of critical importance in a scale model and that is the CG location. Most of the full scale machines fly a fairly forward CG with 25% being a common aft limit. Conversely, we often set our models up with a CG that is more aft, and degrade the stability even more. Fun huh?
+
+Regards, Dave Robelen
+
+Nic Hallett \< <swiftweasel@webtv.net> \> states:
+
+Batteries are discussed frequently on SMALLnet. Which ones are suitable for what applications. Charging and power characteristics, etc. Here are some generic comments about batteries.
+
+A battery is a container full of chemicals. The chemicals may be in almost any form, and the container may be one of them. When one of the chemicals is connected to another, as, for instance, through an electric motor, a chemical reaction takes place. The chemical reaction produces electricity, and the motor spins.
+
+Several things affect the success of this set-up. The total quantity of electricity which a battery can put out per charge depends upon size (the quantity of chemicals), and how thoroughly and efficiently the chemical reaction takes place.
+
+Batteries are designed to produce electricity in a specific way, depending on which chemical reaction is utilized and how rapidly it can take place efficiently. Those designed to produce a low current over a long time may not do well when asked to produce a high current quickly.
+
+The reverse is true when a battery is recharged. If electricity is forced into the battery too quickly, the reversed chemical reaction may go inefficiently. If the battery is now discharged at too high a rate, and this cycling is repeated, the battery may develop all sorts of behavioral eccentricities, or just give up completely and fail.
+
+The batteries we have today are marvelous. But the chemical laws cannot be ignored. If we ask a battery to behave in a way which is contrary to its designed properties, we can expect trouble. Trouble caused, not by the battery being defective, but by how we tried to use it. That's all, Nic
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

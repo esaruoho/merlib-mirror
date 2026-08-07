@@ -1,0 +1,241 @@
+---
+title: "Socialism Revisited?"
+source_domain: amasci.com
+source_path: ~rarnold/csr.htm
+order: 6304
+reachable_from_entry: false
+images: 1
+internal_links: 11
+extracted: 2026-08-07T05:59:07Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Socialism Revisited?
+
+*Source page: `~rarnold/csr.htm`*
+
+<table id="AutoNumber1" style="BORDER-COLLAPSE: collapse" data-bordercolor="#ffffff" height="50" data-cellspacing="1" data-bordercolordark="#FFFFFF" width="750" data-bgcolor="#336699" data-bordercolorlight="#FFFFFF" data-border="1">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bordercolorlight="#336699" width="100%" data-bgcolor="#336699" data-bordercolordark="#336699"><p><strong><img src="NickNichols.jpg" data-border="1" data-align="left" width="82" height="111" />Center for the Defense of Free Enterprise</strong></p>
+<p><strong>Nick Nichols, senior fellow<br />
+Corporate Social Responsibility<br />
+or Corporate Socialism?</strong></p></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><p><strong><a href="index.html" style="text-decoration: none">HOME</a>    <a href="issues.htm" style="text-decoration: none">ISSUES</a>    <a href="opposition.htm" style="text-decoration: none">OPPOSITION</a>    <a href="projects.htm" style="text-decoration: none">PROJECTS</a>    <a href="defenders.htm" style="text-decoration: none">DEFENDERS</a>    <a href="wiseuse.htm" style="text-decoration: none">WISE USE</a>    <a href="book_store.htm" style="text-decoration: none">BOOKSTORE</a>    <a href="archive.htm" style="text-decoration: none">ARCHIVE</a></strong></p></td>
+</tr>
+</tbody>
+</table>
+
+**\
+Socialism Revisited?**
+
+**A timely essay on a vital subject\
+by Center senior fellow and Johns Hopkins University lecturer\
+Nick Nichols**
+
+ 
+
+*Remarks delivered at the* **CSR Reconsidered 2005 Conference**, held Wednesday, Nov. 2 at the Omni Shoreham Hotel in Washington, D.C.
+
+See also the remarks at the same conference of Center senior advisor Paul Driessen <a href="csr_dreissen.htm" style="text-decoration: none; font-weight: 700">CSR and the Developing World</a><span style="font-weight: 700"><a href="csr.htm" style="text-decoration: none">.</a></span>
+
+ 
+
+It seems to me that the question before us today is whether the clamor for CSR is truly about social responsibility . . . or is it about socialism revisited?
+
+ 
+
+Some argue that CSR is a mutant offspring of the anti-globalization movement.
+
+ 
+
+I guess they say mutant because some activists are actually threatened by CSR. They think it will undermine their true objective*revolutionary* change in the global economy.  Why go after one corporate apple at a time when a few sticks of dynamite can take down the whole orchard? 
+
+ 
+
+Others claim that CSR is nothing more than a public relations gimmick that companies buy into for the sake of appeasing leftist activist groups. 
+
+ 
+
+From my vantage point, CSR is a 21<sup>st</sup> century Trojan Horse designed to destroy free-enterprise from within.
+
+ 
+
+I subscribe to Milton Friedmans view that the social responsibility of business is simply to maximize the rate of return to the general shareholders, consistent with the law.  Anything that sidetracks corporate management from that responsibility spells big trouble.
+
+ 
+
+The bottom line for me is that millions, if not billions, of corporate dollars are being diverted away from investors and redistributed elsewherenot by duly constituted governmentsbut as a result of the power of extortion wielded by wealthy activist groups who are accountable to no one but themselves.  
+
+ 
+
+I dont recall seeing television coverage of Mother Earth going to the polls to cast her vote for the Rainforest Action Network.  
+
+ 
+
+And I dont believe the peoples of Africa, Asia and South America have appointed Oxfam, or for that matter any other NGO, their official representative when it comes to economic development, worker rights, health and safety and <u>their</u> environment. 
+
+ 
+
+I do wonder on occasion how the millions of people who have died from Malaria would have voted if they had been given the chance to elect or reject the activist NGOs who systematically denied them access to mosquito-killing pesticides because *they know whats best for indigenous people*. 
+
+ 
+
+Or how about the people who have been denied running water, electric power and the benefits of employment because these things just didnt fit into the activists concept of sustainability?  How would they vote if they had a choice?
+
+ 
+
+It is an indisputable fact that many of these activist NGOs are now being allowed to execute corporate coup detats for the purpose of dictating business policies and behavior based on <u>their</u> vision of what is sustainable, equitable and fair for the rest of us. 
+
+ 
+
+Ironically, these groups are being aided and abetted by corporate PR flacks and their CEOsmodern day Neville Chamberlains willing to appease at any cost so that they can claim peace for our time at the next board meeting.
+
+ 
+
+Examples . . . just to name a few:
+
+ 
+
+<span style="font-family: Symbol"></span>      Nike contributes \$7.7 million dollars to the International Youth Foundation to found the Global Alliance for Workers and Communitiesa group whose primary purpose is to investigate Nike labor practices.
+
+ 
+
+<span style="font-family: Symbol"></span>      Wal-Mart endorses social and environmental sustainability and a hike in the minimum wage.  Next well see Greenpeace activists as greeters at Sams club!
+
+ 
+
+<span style="font-family: Symbol"></span>      Ben & Jerrys, a company that makes Neville Chamberlain look like Rambo, launches a \$5-million social awareness television advertising campaign.
+
+ 
+
+<span style="font-family: Symbol"></span>      Toyota joins the activist Pew Center on Global Climate Change and a group called "Business for Social Responsibility" (BSR).  What does Toyota get in return for its social responsibility?   Environmental activists took out a full-page ad in Saturday's (Oct. 30) New York Times featuring a photo of the Toyota CEO next to a wolf in sheep's clothing. The ad blasts Toyota for not being "green" enough.  Welcome to the world of appeasement.
+
+ 
+
+It seems like everyone is jumping on the CSR Trojan Horse for a ride down the road toward neo-protectionism, reduced competition and wealth redistribution . . . Im not simply referring to the perpetually spineless companies like Starbucks and British Petroleum . . . you can add General Electric, Ford, CitiGroup and Bank of America to the growing list of CSR appeasement artists.
+
+ 
+
+When the threats posed by the CSR movement to free markets, worldwide competition, and important concepts like individual freedom, private property, and representative governance are calculatedit doesnt take a Ph.D in economics or political science to conclude that the true objective of CSR advocates is not kinder, gentler CEOs, its global socialism and the power to dictate how we live our lives.
+
+ 
+
+They failed to achieve their objective at the ballot box and in the court of public opinion, so now they are trying the old-fashioned way . . . usurp authority by means of subversion, intimidation and extortion.
+
+ 
+
+Winston Churchill once observed that Socialism is a philosophy of failure, the creed of ignorance and the gospel of envy, its inherent virtue is the equal sharing of misery.  Given the choice between Neville Chamberlains values or those embraced by Winston Churchill, Ill choose Churchill.
+
+ 
+
+I am here today to assert that once again we are confronting a global battle over the democratic values that we hold dear:  individual freedom, open markets, unfettered competition, and progress.  And I would suggest to you that the battle would already be lost were it not for the front-line efforts of groups like the Free Enterprise Education Institute, the Competitive Enterprise Institute and the National Legal & Policy Center.
+
+ 
+
+So, it would be fair to say:  Nichols, you spend your time in academia . . . its easy for you to criticize and cajole when you arent in the trenches . . . how do we ultimately win this battle?
+
+ 
+
+Thats a fair question.  One of my favorite crisis management rules comes from that well-known Midwestern philosopher Al Capone.  Al once said that you can achieve a lot more with a smile, a kind word and a gun, than with a smile and a kind word.
+
+ 
+
+I believe the solution to the CSR threat is pretty simple.  Our weapon of choice should be sunshine.  By that I mean, get the facts about the CSR movement out in the open for all to see. 
+
+ 
+
+Unlike the views of some folks in academia, I actually believe that the average person on the street has a brainincluding the 100 million Americans who have investments in the stock market. 
+
+ 
+
+What these folks need is personally relevant information about how their investments are being shanghaied by the CSR movement; the fact that their power as investors is being subverted by the NGOs and their CEO puppets; and how their money (including their tax dollars) is being used by the NGOs and the corporate appeasers to undermine free enterprise and the global economy.
+
+ 
+
+Perhaps it is time to cast a wider net when it comes to *social responsibility*.  Lets give the activists a taste of their own medicine.  By that I mean holding the activist NGOs to the same standards of accountability and transparency that apply to publicly traded corporations.  Call it Global Social Responsibility.  Who could oppose that?
+
+ 
+
+Force the NGOs to answer these questions:
+
+ 
+
+Where does your cash come from? 
+
+ 
+
+How much have you received from individual donors, governments, or international agencies?
+
+ 
+
+Who, exactly, are you accountable to?
+
+ 
+
+Are your policies and practices the result of a democratic process? 
+
+ 
+
+Have your members been allowed to vote on these policies and practices?  Do they even know what they are?
+
+ 
+
+Who are your members?
+
+ 
+
+Are your leaders elected, appointed or simply anointed?  And what is their annual compensation?
+
+ 
+
+How have your funds been used? 
+
+ 
+
+Do the people who funded you know how their money is being used?
+
+ 
+
+Will you submit to an independent audit to determine the effects of your policies and practices on the people you claim to be helping and, of course, their impact on Mother Earth?
+
+ 
+
+Is your NGO in compliance with the laws and regulations of the countries you work in?  For example, are you obeying the IRS code as it applies to non-profit organizations? 
+
+ 
+
+Are you willing to abide by an independently developed code of conduct, and monitored for purposes of certification by an outside panel of experts?
+
+ 
+
+In short, are you prepared to hold your NGO to the same book of rules that you are seeking to impose on business?
+
+ 
+
+Global Social Responsibility.  Perhaps its time to assert the old clich that whats good for the goose is good for the gander!
+
+ 
+
+Allow me to leave you with another one of my favorite crisis management maxims.  Its from *The Hobbit.* 
+
+ 
+
+J.R.R. Tolkein wrote that, It doesnt do to leave a live dragon out of your calculations if you happen to live near one. 
+
+ 
+
+CSR is a live dragon.  Its time to go out and either slay it, or focus the fire breathing beast on the people who let it loose in the first place.
+
+ 
+
+<span style="font-size: 10pt; font-family: Arial; font-weight: 700; font-style: italic"> Nick Nichols teaches crisis management for the Advanced Academic Programs at the Johns Hopkins University</span>
+
+**<a href="the_center_view.htm" style="text-decoration: none">RETURN TO THE CENTER VIEW</a>**
+
+**<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**

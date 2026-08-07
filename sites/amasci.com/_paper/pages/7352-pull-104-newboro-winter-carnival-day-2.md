@@ -1,0 +1,668 @@
+---
+title: "Pull 104 -- Newboro Winter Carnival -- Day 2"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0102/Pull104.html
+order: 7352
+reachable_from_entry: false
+images: 0
+internal_links: 4
+extracted: 2026-08-07T05:59:58Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 104 -- Newboro Winter Carnival -- Day 2
+
+*Source page: `~samoyed/iwpa/0102/Pull104.html`*
+
+Newboro Winter Carnival\
+Newboro, Ontario Canada
+========================
+
+Pull: 104
+
+Organizer(s):Steve Jackson
+
+Snow on Packed Snow Region: 5
+
+Track:
+
+Hard packed snow.
+
+Date: Sun 10 Feb 2002
+
+Weather:
+
+Cloudy, 40F.
+
+Day 2 of 2
+
+<div align="center">
+
+<table data-border="1" data-cellpadding="2" data-bordercolorlight="#0000FF" data-cellspacing="1" data-bordercolordark="FF0000">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2">Color<br />
+Codes</td>
+<td><em><strong>%</strong></em> -- Working Dog (WD) Leg Eligibility</td>
+<td data-bgcolor="#FFFF00">WD</td>
+<td data-bgcolor="#00FFFF">WD Excellent</td>
+<td data-bgcolor="#00FF00">WD Superior</td>
+</tr>
+<tr>
+<td><strong><em>Handler</em></strong> -- Owner / Handler relationship</td>
+<td><p>Owner</p></td>
+<td data-bgcolor="#FFFF00">Family Member</td>
+<td data-bgcolor="#00FFFF">Other Membership</td>
+</tr>
+</tbody>
+</table>
+
+Chief Judge: Steve Jackson
+
+</div>
+
+40 \# Class\
+Judged by Stephen Palinkas\
+55 \# Start weight, 40 \# Increment, Sled weighs 55 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Took
+
+5
+
+255
+
+17.46
+
+38
+
+6.71
+
+7.0
+
+Noel Palmer
+
+Am. PitBull Terrier
+
+Becky
+
+5
+
+255
+
+22.93
+
+33
+
+7.73
+
+4.0
+
+Regina Caldwell
+
+Alaskan Husky
+
+Queen
+
+5
+
+175
+
+18.85
+
+38
+
+4.61
+
+1.0
+
+Noel Palmer
+
+Am. Staffordshire Terrier
+
+60 \# Class\
+Judged by Stephen Palinkas\
+200 \# Start weight, 80 \# Increment, Sled weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Starbuck
+
+5
+
+760
+
+5.66
+
+54
+
+14.07
+
+14.0
+
+Steve Jackson
+
+Alaskan Husky
+
+Shanya
+
+5
+
+680
+
+7.83
+
+60
+
+11.33
+
+11.0
+
+Gary Smith
+
+Am. PitBull Terrier
+
+Kindr
+
+5
+
+680
+
+18.49
+
+54
+
+12.59
+
+8.0
+
+Debi Pruznick
+
+Samoyed
+
+Rachel
+
+5
+
+600
+
+6.63
+
+58
+
+10.34
+
+6.0
+
+Frank Caldwell
+
+Alaskan mix
+
+Ox A Doll
+
+5
+
+440
+
+36.11
+
+44
+
+10.00
+
+5.0
+
+Lee Smith
+
+Am. PitBull Terrier
+
+Jake
+
+5
+
+360
+
+4.86
+
+54
+
+6.67
+
+4.0
+
+Wendy Leister
+
+Siberian Husky
+
+Tundra
+
+5
+
+280
+
+5.39
+
+55
+
+5.09
+
+3.0
+
+Daniel Plosila
+
+Samoyed
+
+Dandy
+
+5
+
+280
+
+5.82
+
+50
+
+5.60
+
+2.0
+
+Paul Lutz\
+Steve Jackson
+
+Siberian Husky
+
+Zorro
+
+5
+
+280
+
+7.11
+
+56
+
+5.00
+
+1.0
+
+Nicholas Lutz\
+Steve Jackson
+
+Siberian Husky
+
+Owl
+
+5
+
+200
+
+6.01
+
+42
+
+4.76
+
+0.5
+
+Belva Plosila
+
+Samoyed
+
+80 \# Class\
+Judged by Wendy Leister\
+200 \# Start weight, 80 \# Increment, Sled weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Nanuk
+
+5
+
+680
+
+6.14
+
+78
+
+8.72
+
+9.0
+
+Stephen Palinkas
+
+Alaskan Malamute
+
+Yuengling
+
+5
+
+600
+
+6.78
+
+75
+
+8.00
+
+6.0
+
+Steve Jackson
+
+German Shepherd
+
+Laika
+
+5
+
+440
+
+4.83
+
+74
+
+5.95
+
+3.0
+
+Regina Caldwell
+
+Alaskan Malamute
+
+Speckles
+
+5
+
+280
+
+9.20
+
+63
+
+4.44
+
+1.0
+
+Steve Jackson
+
+Alaskan Malamute
+
+Willow
+
+5
+
+200
+
+3.49
+
+67
+
+2.99
+
+0.5
+
+Regina Caldwell
+
+Alaskan Malamute
+
+100 \# Class\
+Judged by Wendy Leister\
+320 \# Start weight, 120 \# Increment, Sled weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Takoma
+
+5
+
+680
+
+54.44
+
+88
+
+7.73
+
+6.0
+
+Frank Caldwell
+
+Alaskan Malamute
+
+Rebull Dawg
+
+5
+
+560
+
+4.10
+
+98
+
+5.71
+
+3.0
+
+Lee Smith\
+Gary Smith
+
+Am. PitBull Terrier
+
+125 \# Class\
+Judged by Wendy Leister\
+200 \# Start weight, 120 \# Increment, Sled weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Red
+
+5
+
+680
+
+7.46
+
+124
+
+5.48
+
+8.0
+
+Gary Smith
+
+Bull Mastiff
+
+Baloo
+
+5
+
+560
+
+45.83
+
+110
+
+5.09
+
+5.0
+
+Stephen Palinkas
+
+Alaskan Malamute
+
+Hammer
+
+5
+
+440
+
+4.11
+
+120
+
+3.67
+
+2.0
+
+Lee Smith\
+Gary Smith
+
+Bull Mastiff
+
+Diablo
+
+5
+
+440
+
+4.47
+
+110
+
+4.00
+
+0.5
+
+Gary Smith
+
+Am. Bull Dog
+
+150 \# Class\
+Judged by Wendy Leister\
+320 \# Start weight, 120 \# Increment, Sled weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Goliath
+
+5
+
+440
+
+4.14
+
+148
+
+2.97
+
+5.0
+
+Gary Smith
+
+Bull Mastiff
+
+Last Updated: 10:21:23 on 02-25-2002
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull103.html) | [Next Pull \#](Pull105.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

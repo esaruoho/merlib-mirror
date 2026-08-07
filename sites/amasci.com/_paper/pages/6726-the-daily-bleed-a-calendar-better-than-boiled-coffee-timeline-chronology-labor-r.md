@@ -1,0 +1,486 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0426.htm
+order: 6726
+reachable_from_entry: false
+images: 26
+internal_links: 0
+extracted: 2026-08-07T05:59:30Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0426.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> > > > The whole psychological & power set up of war can be seen in the swastika. The mechanism reaches out in right angels like a gear claw. It resembles iron & metal. We feel the residue in the billion little manly decisions we make daily, while we commit genocide, massacre the ghost dancers. Afraid of death, in everyday politeness we open the doors for each other to turn our backsides.
+> > > >
+> > > > --- excerpt, The Last of the Moccasins by Charles Plymell
+
+[]()\
+[]()\
+\
+--
+
+> > **APRIL 26**
+> >
+> > <img src="http://sepnet.com/rcramer/pictures/zero_for.jpg" data-border="0" data-hspace="10" data-vspace="10" width="325" height="300" alt="?" />
+> >
+> > JEAN VIGO
+> >
+> > Great filmmaker, social rebel; French authorities gave him Zero for Conduct.\
+> > 
+> >
+> > > 
+> > >
+> > > ------------------------------------------------------------------------
+> > >
+> > > Sierra Leone: NEW YEAR'S DAY: An ancient seed-sowing ceremony is still performed to the goddess of fertility who watches over the crops.
+> > >
+> > > FESTIVAL OF INDIVIDUAL SOVEREIGNTY.
+> > >
+> > > ------------------------------------------------------------------------
+> >
+> > []()\
+> > []()\
+> > \
+> > 121 -- \[AD\] Marcus Aurelius lives. Roman Emperor & Stoic, author of Meditations of Writings to Himself in 12 books.
+> >
+> > > *Stoicism* a philosophy named after the Stoa Poikile, a hall in Athens where it was first formulated around 300 BC by Zenon of Citium. 
+> > >
+> > > According to Stoic Ethics, the goal of human existence is to live consistently with Nature, which means "consistently with Reason".
+> >
+> > []()\
+> > []()\
+> > \
+> > 1478 -- An attempt is made on the life of Lorenzo de Medici; Giuliano de Medici murdered. []()\
+> > []()\
+> > \
+> > 1564 -- William Shakespeare (1564-1616) is baptized.\
+> > <http://the-tech.mit.edu:80/Shakespeare/works.html>\
+> > <http://www.kirjasto.sci.fi/shakespe.htm>\
+> > \
+> > 1649 -- England: Today, when Robert Lockier is sentenced to be shot for fomenting revolt in the New Model Army, the first Digger's Manifesto 'The True Levellers' Standard Advanced' is published: 
+> >
+> > > "For by their labours, \[the poor\] have lifted up Tyrants & Tyranny; & by denying to labour for hire, they shall pull them down again. He that works for another, either for Wages, or to pay him Rent, works unrighteously, & still lifts up the Curse".
+> > >
+> > > \
+> > > 'Calendar Riots'
+> >
+> > []()\
+> > []()\
+> > \
+> > 1655 -- Dutch West India Co. refuses to exclude Jews from New Amsterdam. []()\
+> > []()\
+> > \
+> > 1711 -- Scotland: Philosopher/historian David Hume lives, Edinburgh.\
+> > <http://history.hanover.edu/early/hume.htm>\
+> > []()\
+> > \
+> > 1731 -- Novelist Daniel Defoe dies, London, in hiding from creditors.
+> >
+> > > 
+> > >
+> > > Wherever God erects a house of prayer,\
+> > > The Devil always builds a chapel there;\
+> > > And 't will be found, upon examination,\
+> > > The latter has the largest congregation.
+> > >
+> > >  The True-Born Englishman. Part i. Line 1. 
+>
+>  <http://history.hanover.edu/early/defoe.htm>\
+> []()\
+> \
+> <img src="http://www.hellofiji.com/shopping/img/philatelic/big_bird.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" width="150" height="250" alt=" Real Virtual Nature" />\
+> 1785 -- John James Audubon, birdwatcher, lives, Les Cayes in Santo Domingo (now Haiti). Artist, naturalist, journalist.
+>
+> \
+> []()\
+> []()\
+> \
+> <img src="http://recollectionbooks.com/bleed/images/luddite.jpg" data-hspace="10" data-vspace="10" data-align="LEFT" width="70" height="70" alt="Luddite!" />\
+> 1812 -- England: Luddite problem. Thousands of strangers appear in Manchester, & the local militia is called out; most strangers disappear by 28 April.\
+> []()\
+> []()\
+> \
+> 1845 -- China: Fire in the Canton theatre kills 1,670. []()\
+> []()\
+> \
+> 1858 -- US: California legislature passes a bill prohibiting Chinese or "other Mongolians" from landing at any port in the state unless the boat on which they were passengers is driven ashore by storm or unavoidable accident. []()\
+> []()\
+> \
+> 1865 -- US: John Wilkes Booth, Lincoln's assassin, is shot dead near Bowling Green, Virginia.\
+> <http://www.nps.gov/foth/booth.htm>\
+> []()\
+> \
+> 1873 -- US: Captain Thomas Wright & Captain Evan Thomas are beaten by Captain Jacks' band of Modocs in what becomes known as the "Thomas-Wright Massacre." The U.S. troops lose 20 men & four officers, including 16 wounded & one third of their troops to desertion. The Modocs suffer no deaths.\
+> Source: daver@flag.blackened.net []()\
+> []()\
+> \
+> <img src="http://www.tv-now.com/pilato/arm.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="96" height="123" alt="?" />\
+> 1877 -- US: Minnesota declares Day of Prayer for deliverance from the grasshopper. <http://www.tv-now.com/pilato/apr2000.htm>\
+> \
+> []()\
+> \
+> <img src="http://www.amber-net.de/img/dvd/cover/blackrain.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" data-="" width="100" height="180" alt=" ? " />\
+> 1884 -- England: From Stonyhurst Observatory, near Liverpool, was reported, occurring at 11 am., 'the most extraordinary darkness remembered'.
+>
+> > 40 minutes later fell rain 'as black as ink,' & then black snow & black hail (Nature,30-6). Black hail fell at Chaigley, several miles from Liverpool (Stonyhurst Magazine). Five hours later, black substance fell at Crowle, near Worcester (Nature,303-32).
+> >
+> > <http://pages.prodigy.net/deakrivers/substory3.htm>\
+> > <http://www.sacred-texts.com/fort/damned/damn03.htm>
+>
+> \
+> []()\
+> \
+> <img src="http://www.german-cinema.de/archive/images/bebuquin.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="300" height="199" alt="?" />\
+> 1885 -- Carl Einstein (1885-1940) lives, Neuwied (Allemagne). 
+>
+> Poet, writer (anti-novel 'Bebuquin or the Dilettantes of Wonder'), dadaist, art historian (The first to understand Cubism as a movement, he was a well-known & influential art critic & theorist in his own day.
+>
+> Among many other groundbreaking efforts, his Negro Sculpture (1915) was a pioneering work of art theory).
+>
+> Einstein was an anarchist combatant in the Spanish Revolution of 1936, with the famed Durruti Column. 
+>
+> Nephew of the famous physicist, Albert Einstein. Committed suicide to prevent his capture by the Nazis.
+>
+> alt; Karl Einstein
+>
+> 
+>
+> > > 
+> > >
+> > > ------------------------------------------------------------------------
+> > >
+> > > 
+> > >
+> > > A plaque in the Boel-Bezing cemetery (Atlantic Pyrenees) remarks on his fight for freedom in Spain:
+> > >
+> > > "Where the Column advances, one collectivizes. The land is given to the community, the agricultural proletarians, slaves of caciques which they were, metamorphose themselves as free men.
+> > >
+> > > One passes from agrarian feudalism to free Communism." 
+> > >
+> > > Extract, Einstiein's funeral speech for Durruti
+> > >
+> > > 
+> > >
+> > > See the Anarchist Encyclopedia page,\
+> > > <http://recollectionbooks.com/bleed/Encyclopedia/EinsteinCarl.htm>\
+> > > 
+> > >
+> > > ------------------------------------------------------------------------
+>
+> > []()\
+> > []()\
+> > \
+> > 1889 -- Language philosopher Ludwig Wittgenstein lives, Vienna, Austria. []()\
+> > []()\
+> > \
+> > 1893 -- Anita Loos, a brunette, lives, Sisson, California. Wrote Gentlemen Prefer Blondes. []()\
+> > []()\
+> > \
+> > <img src="http://www.eskimo.com/~recall/bleed/images/ybook.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="59" height="48" alt="?" />\
+> > 1898 -- Vicente Aleixandre lives (1898-1984). Spanish writer, a major influence in 20th century Spanish poetry, Nobel Prize winner 1977. During the Spanish Revolution (1936) his works were banned. Wrote Destruction or Love; History of the Heart; Poems of Consummation, among others. <http://www.kirjasto.sci.fi/aleixan.htm>\
+> > []()\
+> > \
+> > 1898 -- US: Emma Goldman in Frisco, California for speaking engagements, late April-May.[<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="EG, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)
+> >
+> > > Red Emma opens with a lecture on "Patriotism," which, following the outbreak of the Spanish-American War, becomes her most important & successful lecture. 
+> > >
+> > > Goldman's other speeches at least four, including a talk at a May Day celebration are well attended & receive fair press coverage. 
+> > >
+> > > Goldman also debates the German socialist Emil Lies, editor of the "Tageblatt". 
+> > >
+> > > Goldman especially impressed with Abe Isaak, former editor of the "Firebrand" & current editor of Free Society, who had recently settled in San Francisco with his family. Goldman's San Francisco activities supported in part by local single-taxers.
+> > >
+> > > While in Frisco, Goldman meets the young socialist Anna Strunsky (Walling), who becomes a lifelong friend & associate, & through Strunsky, the socialist/novelist Jack London.
+> > >
+> > > 
+> > >
+> > > > "Take me this way: a stray guest, a bird of passage, splashing with salt-rimed wings through a brief moment of your life -- a rude & blundering bird, used to large airs & great spaces, unaccustomed to the amenities of confined existence."
+> > > >
+> > > >  Jack London to Anna Strunsky, December 21, 1899; first published in The Masses, July 1917
+> > >
+> > > In San Jose, her lecture on "Patriotism" is so controversial that she has difficulty maintaining control of the platform. 
+> > >
+> > > From San Jose, she travels for the first time to Los Angeles, sponsored by a wealthy acquaintance from New Mexico. Lectures toseveral large audiences. Goldman severs her relationship with her sponsor when he proposes marriage; she continueslecturing among Jewish sympathizers & organizes a group to conduct ongoing anarchist activities. 
+> > >
+> > > Goldman is denounced in the "Freiheit" for having alienated workers from anarchism when, under the direction of her wealthy manager, she lectured & resided in expensive halls & hotels.
+> > >
+> > > Following Los Angeles, she returns to San Francisco for additional lectures.
+> >
+> > \
+> > []()\
+> > []()\
+> > \
+> > 1900 -- Charles Richter, lives, to tell us how bad the quakes are. But, curiously, he refuses blame, sez its all San Adreas' fault.\
+> > []()\
+> > []()\
+> > \
+> > <img src="http://www.eskimo.com/~recall/bleed/images/ybook.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="59" height="48" alt="?" />\
+> > 1903 -- Anne Fried (1903-1998) lives. Austrian-born writer, immigrated to the US at the outbreak of World War II, & after a long career in education & social work moved to Finland, where she established herself as novelist, essayist, & critic.\
+> > <http://www.kirjasto.sci.fi/afried.htm>\
+> > \
+>
+> []()\
+> \
+> <img src="http://members.netscapeonline.co.uk/jameswtravers/1933_Zero_de_Conduite.JPG" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="229" height="225" alt=" ? " />\
+> 1905 -- France: Surrealist / anarchist filmmaker Jean Vigo lives, Paris. Son of the anarchist Eugene Vigo. Great filmmaker, social rebel French authorities gave him Zero for Conduct.\
+> 
+>
+> 
+>
+> 
+>
+> Zero De Conduite
+>
+> (Zero for Conduct)
+
+
+
+His first film, "In Connection with Nice" (1930) is a virulent social satire. Zero for Conduct (1933) his most famous film, was banned for "Praise of indiscipline & attacking the prestige of the educational institution." 
+
+See Daily Bleed Saints Gallery page, [http://www.eskimo.com/~recall/bleed/saints/StVigoJean.htm\>](http://www.eskimo.com/~recall/bleed/saints/StVigoJean.htm)\
+.
+
+
+
+<img src="http://recollectionbooks.com/bleed/images/Zero_de_conduite_6.jpg" data-border="1" data-hspace="10" data-vspace="10" width="217" height="263" alt="?" />
+
+
+
+> > Life in a French boarding school, where the authorities attempt to regiment the students unsuccessfully. The kids are all wonderfully spontaneous; one of the best films ever about children among children. The inspiration for If. Written by the director.
+> >
+> > Leonard Maltin
+
+
+
+[]()\
+[]()\
+\
+1905 -- US: Chicago Cubs Jack McCarthy becomes only major league baseball player to throw out three runners at the plate in a single game. All were completions of a double play. []()\
+[]()\
+\
+1908 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="EG, anarchist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: Emma Goldman ends her San Francisco lecture series with a speech on patriotism.
+
+> In attendance, out of boredom & curiousity, is US soldier William Buwalda, stationed at the Presidio, who is witnessed shaking hands with Goldman following her speech. 
+>
+> Buwalda is subsequently court-martialed for this dastardly action.
+
+\
+[]()\
+[]()\
+\
+1914 -- Pulitzer-winning novelist Bernard Malamud lives, Brooklyn, New York. Wrote The Fixer & the baseball novel The Natural.\
+<http://www.pulitzer.org//index.html>\
+\
+[]()\
+\
+1931 -- US: Beep Beep?: Baseball's Lou Gehrig hits a home run but is called out for passing a runner; the mistake costs him the American League home run crown he & Babe Ruth end up tied for the season.\
+[]()\
+[]()\
+\
+<img src="http://images.google.com/images?q=tbn:XZRi2lIId7sC:www.mindspring.com/~sagriffin/LYSIDIA.jpg" data-border="0" data-hspace="10" data-vspace="10" width="187" height="292" alt="?" />\
+1935 -- Charles Plymell lives. Anarchist-leaning American mid-West poet. "Let's make history, Dorothy."
+
+<img src="http://cba.website-works.com/plymell_0b.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="235" height="303" alt="?" />
+
+> In the fifties, when all the children were supposed to be asleep, a gang of jailbirds, junkies, drunks & artists germinated in the private parts of Witchita, Kansas. They have been exposed by a member, Charles Plymell...
+
+\
+
+<http://cba.website-works.com/plymell0.html>\
+[]()\
+\
+<img src="http://web.org.uk/picasso/guernica.jpg" data-border="1" data-hspace="10" data-vspace="10" data-="" width="550" height="250" alt="Guernica" />\
+1937 -- Spain: Guernica is destroyed by German Nazi bombing. 
+
+> This aerial massacre of civilians occured during the Spanish Revolution, while the US & England refused all pleas by the Republican government for help against Franco's fascist forces -- imposing an embargo upon Spain instead.
+>
+> []()\
+> <http://www.angelfire.com/tx/kaosneverfades/fredy.html>\
+
+[]()\
+\
+1942 -- China: Deadliest mining disaster ever, occurs when between 1,549 & 1,572 miners are killed by an explosion in Honkeiko.
+
+[]()\
+[]()\
+\
+1944 -- US: Catalog This? Government takes over Chicago headquarters of Montgomery Ward & Co. after it defies National Labor Relations Board (NLRB). []()\
+[]()\
+\
+1952 -- US destroyer Hobson sinks in the Atlantic within 4 minutes after colliding with the aircraft carrier Wasp; 176 lives are lost.\
+<http://www.cv18.com/hist/hobson.html>\
+[]()\
+\
+<img src="http://www.sciencenet.org.uk/graphics/buttons/New/CHEMRESOURCES.GIF" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="88" height="34" alt="?" />\
+1953 -- US: Radioactive rain falls on Troy, New York. []()\
+[]()\
+\
+1954 -- US: Salk It To Me? Nationwide test of the Salk anti-polio begins. []()\
+[]()\
+\
+1954 -- April 26-July 21, Geneva Conference on Indochina results in Geneva Accords partitioning Vietnam at the 17th Parallel & provides for "unifying" elections in two years.
+
+> America, the democracy-loving "free world"-power, refused to sign or promise to abide by the Geneva Accords. (A great many books say the US promised it would not violate the Accords. This is an error based on careless misreading of the US declaration at the final session of the Geneva Conference, July 21, 1954.)
+>
+> The US & its Vietnamese puppet Diem refused to hold nationwide elections, fearing a communist victory. Diem instead created a "Republic of Vietnam" in the south, & rigged "elections" there. (In Saigon, which had about 450,000 registered voters, the official vote tally said there had been about 600,000 votes cast for Diem.) Diem declared he had gotten more than 98% of the votes, & that he was now President of the Republic of Vietnam. Thus there came to be two governments in Vietnam.
+>
+> <http://hubcap.clemson.edu/~eemoise/viet4.html>\
+
+[]()\
+\
+1961 -- England: Actress Vanessa Redgrave is among 826 British anti-nuclear protesters arrested during a London sit-down. []()\
+[]()\
+\
+1966 -- Java: Eruption of Mt. Kelud, kills 5,000 people.\
+<http://www.journalism.sfsu.edu/www/pubs/prism/nov95/19.html>\
+[]()\
+\
+<img src="http://www.raycharles.com/discs/images/believe.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="250" height="400" alt=" Ray" />\
+1966 -- The New York Times reports R&B immortal Ray Charles will undergo tests in a Boston hospital to see whether or not he has abstained from narcotic drugs.
+
+> Basically, rock 'n' roll came into being when white artists & white bands started covering black music . . . in the '50s, when you had popular singers like Pat Boone & Elvis Presley & Carl Perkins covering black music. They just took rhythm-&-blues songs & did their own versions of them. When Elvis came along, he not only covered the music, but he was . . . well, he was moving his body on stage just like a black artist would. Now, in those days a black artist couldn't get away with doing that on stage for the teenagers of America, but Elvis got away with it. He was criticized at first, but he got away with it. He was just doing what he saw people doing down on Beale Street . . .
+
+\
+[]()\
+[]()\
+\
+1966 -- US: Rodolfo "Corky" Gonzales founds the Chicano activist group Crusade for Justice in Denver, Colorado. Disillusioned with the establishment &, particularly, the Democratic Party, Gonzales sets up the Crusade to establish Chicano-controlled communities.
+
+> The group issues a "Plan of the Barrio" covering housing, education, economic opportunities, land reform & wealth redistribution. The Crusade helps organize Colorado's La Raza Unida party & participates in West Denver High School walkouts, which call for an end to discrimination against Chicano children.
+
+[]()\
+[]()\
+\
+<img src="http://www.maerkische-schweiz.com/kultur/gif/heartfield_1.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="150" height="250" alt="John Heartfield" />\
+1968 -- Germany: John Heartfield dies, East Berlin, East Germany. 
+
+> First artist to use photomontage (combining whole or parts of photographs with text to communicate a new message) as a political weapon. His anti-Nazi art forced him to flee Germany. Co-founded a publishing house & as an illustrator of books he showed that even the dust jacket could be turned into a political argument.
+>
+> <img src="http://www.235media.com/media_art/jpg/zygosis.jpg" data-border="1" data-hspace="10" data-vspace="10" width="168" height="234" alt=" ? " />\
+> <http://www.spartacus.schoolnet.co.uk/FWWheartfield.htm>\
+> <http://burn.ucsd.edu/heart.htm>\
+> <http://www.235media.com/media_art/video_editions-eng/GAVIN_HODGE_ger.html>\
+
+[]()\
+\
+1968 -- US: National student strike against the war enlists as many as one million high school & college students across U.S. 2,000 boycott classes at University of Washington.
+
+[]()\
+[]()\
+\
+1970 -- US: The state capitol of Louisiana, in Baton Rouge, is damaged by a dynamite explosion. []()\
+[]()\
+\
+1971 -- US: 50,000 demonstrators (Vietnam vets?) in Washington D.C. set up "Algonquin Peace City" (in West Potomac Park).
+
+> This camp is part of an attempt to blockade government "business as usual" for a day; it will involve 5,000 District police, 1,500 National Guardsmen & 8,000 federal troops, with at least 7,000 arrested; the figures, according to another source is: "20,000 National Guard & police, & 10,000 paratroopers". Between May 3-5 alone 1,200 antiwar protesters are arrested bringing the final total to 12,614 (a Guinness record?).
+
+[]()\
+[]()\
+\
+1973 -- France: Andr Respaut dies. Author, resistance fighter, anarchist, survivor of Buchenwald. See the Anarchist Encyclopedia page, [http://www.eskimo.com/~recall/bleed/sinners/RespautAndre.htm](http://www.eskimo.com/~recall/bleed/sinners/RespautAndre.htm)\
+[]()\
+[]()\
+\
+1974 -- Ireland: Nohting Ventured, Nothing Gained? \$19,200,000 worth of paintings are stolen from Russborough House, near Blessington, by an IRA gang. All 19 paintings are later recovered. In 1986 a gang of Dublin criminals led by Martin Cahill stole 18 art works, three of which were never recovered. On June 27, 2001, in yet another robbery here, a Gainsborough is heisted for the third time. Charmed, we sure.\
+<http://www.museum-security.org/01/126.html>\
+[]()\
+\
+1985 -- Argentina: A fire at the St. Emilienne Neuro-Psychiatric Hospital kills 79 people, most of whom were patients locked in their rooms or too tranquilized to escape, Buenos Aires. []()\
+[]()\
+\
+1986 -- Ukraine, USSR: Chernobyl nuclear disaster occurs. 
+
+> Worst known nuclear disaster in history; eventual death toll alone, from radiation exposure, is now estimated in the hundreds of thousands. & you also know now whether you have the Chernobyl CIH computer virus (set to go off 1999, destroying boot records & hard drives). Effects are still felt to this day.
+>
+> <img src="http://www.eskimo.com/~recall/bleed/images/skullGlowing.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="MIDDLE" width="100" height="150" alt="?" />
+>
+> > Soviet authorities started evacuating people from the area around Chernobyl within 36 hours of the accident. A month later, all those living within a 30 kilometre (18 mile) radius of the plant -- about 116,000 people -- had been relocated. 
+> >
+> > 
+>
+> []()\
+> []()\
+> \
+> 1988 -- US: Defending his personal style, Beloved & Respected Comrade Leader George (Big) Bush asks, 
+>
+> *"What's wrong with being a boring kind of guy?"* 
+>
+> He says it would be a bad idea *"to kind of suddenly get my hair colored, & dance up & down in a miniskirt,"* \[we disagree -- the editors\] adding, *"I kind of think I'm a scintillating kind of fellow."* \[ditto\] Pundits agree, had he danced side to side in a miniskirt, he would have won the '92 election. []()\
+
+[]()\
+\
+<img src="http://iws.ccccd.edu/kwilkison/Online1302home/1945-/redsca1.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="170" height="300" alt="?" />\
+1989 -- Lucille Ball comedienne/actress dies at 78 of a massive heart attack.\
+
+
+> Among the better known celebrities blacklisted during the 1950s witch hunts conducted by liberals & conservatives was Lucille Ball, whose experience was atypical in that she recovered her career & popularity. 
+>
+> Ball's grandfather had been an old railroad man who idolized Eugene Debs & convinced young Lucy to register to vote in California as a Communist. 
+>
+> Years later when her "crime" was discovered, the blacklisters banned Lucy from the studios, thus ending a promising movie career. She fought back by forming her own production company & making the well-known television series "I Love Lucy."
+>
+>  []()\
+
+\
+
+> []()\
+> \
+> <img src="http://www.eskimo.com/~recall/bleed/images/ybook.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="59" height="48" alt="?" />\
+> 1991 -- A.B. Guthrie dies in Choteau, Montana. His three most famous novels are The Big Sky (1947), The Way West (1949), which won a Pulitzer Prize, & These Thousand Hills (1956).\
+> []()\
+> []()\
+> \
+> <img src="http://www.columbia.edu/cu/record/record2027.30c.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="138" height="298" alt=" ? " />\
+> 1995 -- US: Corliss Lamont, the author, philosopher, civil libertarian, Columbia benefactor & former lecturer in philosophy, dies at his country home in Ossining, NY. He was 93. Lamont was one of the few principled liberals in the 50s who stood up to McCarthy & refused to adopt liberal efforts to out-anti-communist the rightwing anti-communists (ala the "Communist Control Act", etc.).\
+> <http://www.corliss-lamont.org/>\
+> []()\
+> \
+> 1998 -- Guatemala: Bishop Juan Gerardi Conedera is assassinated, two days after release of a report blaming U.S.-backed Guatemalan military governments for hundreds of thousands of deaths in the 1980s.\
+>
+> []()\
+> []()\
+> \
+> 3500 --
+>
+> > "Everybody's an authority, in a free land."
+> >
+> >  Hsker D, In a Free Land
+> >
+> > <img src="http://freespeechseattle.org/images/back.gif" data-border="0" data-hspace="10" data-vspace="10" width="260" height="220" alt="?" /> []()\
+> > []()\
+> >
+> > ------------------------------------------------------------------------
+> >
+> > anti-CopyRite 2000-3000, more or less\
+> > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > or send questions, suggestions, additions, corrections to:\
+> > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> >
+> > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> >
+> > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> >
+> > anarchist, labor, radical books
+> >
+> > See also: Anarchist Encyclopedia\
+> > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > Stan Iverson Memorial Library\
+> > http://recollectionbooks.com/siml/\
+> > Anarchist Time Line / Chronology\
+> > http://recollectionbooks.com/bleed/indexTimeline.htm

@@ -1,0 +1,2114 @@
+---
+title: "Dobe Doinat's Help File for DobeRTFPad in VB.NET"
+source_domain: amasci.com
+source_path: ~dobe/DobeRTFPad_Help.htm
+order: 2755
+reachable_from_entry: false
+images: 9
+internal_links: 0
+extracted: 2026-08-07T05:56:13Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Dobe Doinat's Help File for DobeRTFPad in VB.NET
+
+*Source page: `~dobe/DobeRTFPad_Help.htm`*
+
+<div id="DobeRTFPad_Help_Start">
+
+</div>
+
+|                                |
+|:-------------------------------|
+| DobeRTFPad in VB.NET Help File |
+
+\
+
+<table width="90%" cols="2" rows="1" data-border="0" data-cellpadding="10">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;" data-valign="top" width="40%"><span class="Green150cursive" width="100%" title="Introduction to Dobe Doinat&#39;s Punny Name Archive" data-align="left" onmouseover="this.style.color=&#39;red&#39;; this.style.fontSize=&#39;170%&#39;;" onmouseout="this.style.color=&#39;brown&#39;; this.style.fontSize=&#39;160%&#39;;"> About DobeRTFPad </span>
+<ul>
+<li><a href="#DobeRTFPad_Intro" title="Mostly, it works fine. It was a learning project, nothing more, so it is certainly not professional.">Introduction</a></li>
+<li><a href="#DobeRTFPad_Code_TOC">Source Code (Table of Contents)</a>
+<ul>
+<li><a href="#Code_Subs_Help">Event Subs (TOC)</a></li>
+<li><a href="#Code_Functions_Help">Functions (TOC)</a></li>
+</ul></li>
+<li><a href="#RTFPad_Bugs" title="Sure it still has bugs. Not every last feature is implemented. That&#39;s where you come in!!">Bug Report</a></li>
+</ul>
+<span class="Green150cursive" width="100%" title="Introduction to Dobe Doinat&#39;s Punny Name Archive" data-align="left" onmouseover="this.style.color=&#39;red&#39;; this.style.fontSize=&#39;170%&#39;;" onmouseout="this.style.color=&#39;brown&#39;; this.style.fontSize=&#39;160%&#39;;"> Screenshots </span>
+<ul>
+<li><a href="#DobeRTFPad_Screenshots" title="It will also create, open, or save, text files!">test.rtf</a> (Run Mode)</li>
+<li><a href="#RTFPad_Screenshot_MenuReplaceAll" title="This event code needs some work, for sure. It&#39;s almost there!">'Replace All'</a> (Menu Item)</li>
+<li><a href="#RTFPad_Screenshot_ReplaceAllResult" title="See, it added one too many pastes. Also it should preserve formatting...">Replace All</a> (Result)</li>
+<li><a href="#RTFPad_Screenshot_MenuInsertDate" title="Here&#39;s how you can do a macro like adding the date to the top of your file. It does not preserve formatting, however.">'Insert Date'</a> (Menu Item)</li>
+<li><a href="#RTFPad_Screenshot_FileOpen" title="Open files in RTF or TXT formats.">'File Open'</a> (Menu Item)</li>
+<li><a href="#RTFPad_Screenshot_VSNET_IDE" title="Have you seen Visual Studio.NET running?">Visual Studio.NET IDE</a></li>
+<li><a href="#RTFPad_Screenshot_DirectoryStructure" title="Of course the directory structure is important for deployment!">Directory Structure</a></li>
+</ul></td>
+<td class="RelativeSize80" style="text-align: left;" data-valign="top" width="60%">Example file created and saved in <strong>DobeRTFPad:</strong><br />
+<br />
+&#10;<img src="./_dobeTutAllCommon/RTFPadInDotNET_TestingEditorResults_Screenshot.jpg" id="RTFPad_Screenshot_test_rtf" alt="Dobe Doinat&#39;s RTFPad In .NET, graphic only." /><br />
+</td>
+</tr>
+</tbody>
+</table>
+
+------------------------------------------------------------------------
+
+<table id="DobeRTFPad_Intro" data-border="0">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><table id="DobeRTFPad_Intro" data-border="0">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td class="specialBROWN150" style="text-align: left;" width="100%" title="PNA" onmouseover="this.style.color=&#39;red&#39;; this.style.fontSize=&#39;170%&#39;;" onmouseout="this.style.color=&#39;brown&#39;; this.style.fontSize=&#39;160%&#39;;">Introduction to <strong>DobeRTFPad:</strong><br />
+A Rich Text Format Editor (in VB.NET)</td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+           <span class="small">[**Back to the Beginning of this page**](#DobeRTFPad_Help_Start)</span>
+
+> <table>
+> <colgroup>
+> <col style="width: 50%" />
+> <col style="width: 50%" />
+> </colgroup>
+> <tbody>
+> <tr>
+> <td colspan="2"><h2 id="important-notes">Important Notes:</h2>
+> There are known bugs in DobeRTFPad, which remains a work in progress. Most computers today cannot run this program, because it will not run on their computers without the Framework.NET being installed first! Therefore, this program is not currently deployable, but is meant as a learning tool, helping beginning programmers come up to speed quickly in a new programming environment. The playing field may be level, but it's all uphill, if you get my drift.<br />
+> <br />
+> On February 13, 2002, Microsoft announced the release of Visual Studio.NET to the buying public. Understand that the Runtime Module files, such as the Common Language Runtime, the JIT (or Just-In-Time) compiler engine, etc. needed to support DobeRTFPad is in the Ten's of Megabytes!<br />
+> <br />
+> This sample code was an exercise in learning VB.NET, Beta II, so as time goes along, I will update this program, (with Source Code!) to show how anything has changed from the Beta II, or how I have learned to do something different. One thing for sure, it's a massive amount of labor that went into Visual Studio.NET and the Framework.NET. I believe it will slowly find acceptance as a "good thing", to break backward-compatibility to Visual Basic 6.<br />
+> <br />
+> It's a whole new ballgame for every programmer who is determined to learn VB.NET or C#, which compile to exactly the same Intermediate Language (IL), but use different syntax. (Perhaps they also use different libraries, although to be .NET-compliant is to say that each could inherit Classes from the other!)<br />
+> <br />
+> Learn! Enjoy! Choose!<br />
+> </td>
+> </tr>
+> <tr>
+> <td width="35%" data-valign="top"><br />
+> The <strong>.NET Framework</strong> <u>must</u> be installed on your computer before you could run this project! If you install the <strong>Visual Studio Beta II</strong> program, (available from Microsoft, still currently in Beta, and soon to be released at a store near you!), then the <strong>Framework.NET</strong> is automatically installed.<br />
+> <br />
+> </td>
+> <td width="65%" data-valign="top"><br />
+> &#10;<img src="./_dobeTutAllCommon/RTFPadInDotNET_FrameworkNET_Required_Screenshot.jpg" id="MS_FrameworkNET_Screenshot" alt="Dobe Doinat&#39;s DobeRTBPad, graphic only." /> <strong>Help|About</strong> Screenshot from the Visual Studio Beta II program<br />
+> <br />
+> </td>
+> </tr>
+> </tbody>
+> </table>
+
+           <span class="small">[**Back to the Beginning of this page**](#DobeRTFPad_Help_Start)</span>
+
+------------------------------------------------------------------------
+
+\
+ \
+ \
+ \
+
+<table id="DobeRTFPad_Screenshots" data-border="0">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><table data-border="0">
+<tbody>
+<tr>
+<td class="specialBROWN300" style="text-align: left;" width="100%" title="PNA" onmouseover="this.style.color=&#39;green&#39;; this.style.fontSize=&#39;310%&#39;;" onmouseout="this.style.color=&#39;brown&#39;; this.style.fontSize=&#39;290%&#39;;"><strong>DobeRTFPad:</strong> (Screenshots)</td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+\
+
+## DobeRTFPad.EXE program in Run Mode
+
+           <span class="small">[**Back to the Beginning of this page**](#DobeRTFPad_Help_Start)</span>\
+\
+![Dobe Doinat's DobeRTFPad in Run Mode, graphic only. ](./_dobeTutAllCommon/RTFPadInDotNET_TestingEditorResults_Screenshot.jpg "DobeRTFPad's Menu Replace All and the Command Button use the same event code.")
+
+------------------------------------------------------------------------
+
+\
+
+## Replace All
+
+           <span class="small">[**Back to the Beginning of this page**](#DobeRTFPad_Help_Start)</span>\
+\
+![Dobe Doinat's DobeRTFPad Replace All in Run Mode, graphic only. ](./_dobeTutAllCommon/RTFPadInDotNET_MenuReplaceAll_Screenshot.jpg "DobeRTFPad's Menu Replace All and the Command Button use the same event code.")
+
+------------------------------------------------------------------------
+
+\
+
+## Results of Replace All
+
+           <span class="small">[**Back to the Beginning of this page**](#DobeRTFPad_Help_Start)</span>\
+\
+![Dobe Doinat's DobeRTFPad Replace All Results in Run Mode, graphic only. ](./_dobeTutAllCommon/RTFPadInDotNET_ReplaceAllResult_Screenshot.gif "DobeRTFPad's Replace All event almost works correctly! Be the first to tell me how to do it right!")
+
+------------------------------------------------------------------------
+
+\
+
+## Insert Date
+
+           <span class="small">[**Back to the Beginning of this page**](#DobeRTFPad_Help_Start)</span>\
+\
+![Dobe Doinat's DobeRTFPad Insert Date in Run Mode, graphic only. ](./_dobeTutAllCommon/RTFPadInDotNET_MenuInsertDate_Screenshot.jpg "DobeRTFPad's Menu Insert Date does not preserve formatting!")
+
+------------------------------------------------------------------------
+
+\
+
+## File Open
+
+           <span class="small">[**Back to the Beginning of this page**](#DobeRTFPad_Help_Start)</span>\
+\
+![Dobe Doinat's DobeRTFPad File Open in Run Mode, graphic only. ](./_dobeTutAllCommon/RTFPadInDotNET_FileOpen_Screenshot.jpg "DobeRTFPad's File Open menu selection allows either RTF or TEXT files to be opened.")
+
+------------------------------------------------------------------------
+
+\
+
+## As seen in the VS.NET IDE
+
+           <span class="small">[**Back to the Beginning of this page**](#DobeRTFPad_Help_Start)</span>\
+\
+![Dobe Doinat's DobeRTFPad in Design Mode, graphic only. ](./_dobeTutAllCommon/RTFPadInDotNET_VSNET_IDE_Screenshot.jpg "This is the DobeRTFPad Solution as seen in the VS.NET IDE.")
+
+------------------------------------------------------------------------
+
+\
+
+## Directory Structure for this VS.NET solution
+
+           <span class="small">[**Back to the Beginning of this page**](#DobeRTFPad_Help_Start)</span>\
+\
+![Dobe Doinat's DobeRTFPad Directory Structure, graphic only. ](./_dobeTutAllCommon/RTFPadInDotNET_DirectoryStructure_Screenshot.jpg "The Directory Structure for all VS.NET solutions is important!")\
+
+> 
+>
+> ------------------------------------------------------------------------
+>
+> ## Code Structure Table Of Contents
+>
+>            <span class="small">[**Back to the Beginning of this page**](#DobeRTFPad_Help_Start)</span>\
+> \
+> When designing a Form in Visual Basic.NET, you are actually inheriting behaviors from a base object called "System.Windows.Forms.Form", as in the statement:\
+> \
+>      Public Class frmDobeRTBPad\
+>      Inherits System.Windows.Forms.Form\
+> \
+>
+> - [**frmDobeRTBPad** Header](#Code_MyFormHeader_Help)
+> - [Import Statements](#Code_ImportStatements_Help)
+> - [**frmDobeRTBPad** Class](#Code_AutoInit_Help) Design Engine Code
+> - [**InitializeComponent()**](#Code_MyFormInit_Help)
+> - [Event SubRoutines](#Code_Subs_Help)
+> - [Functions](#Code_Functions_Help)
+> - [Timer_Tick](#Code_Timer_Help)
+>
+> \
+>
+> ## frmDobeRTBPad Header       <span class="small">[**Back to TOC**](#DobeRTFPad_Code_TOC)</span>
+>
+> \
+> ` 'Welcome to Dobe's Rich Text Format Editor`\
+> `'Copyright 2002 by John W. Hartman, a.k.a. "Dobe Doinat"`\
+> `'This version of this code is Freeware`\
+> `' WARNING: RTFPad is NOT bug-free!`\
+> `'Courtesy of the Punny Name Archive`\
+> `' http:\\www.eskimo.com\~dobe\`\
+> `'~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`\
+> `'Last Update: February 11, 2002 11:30AM Pacific`\
+> `'Version: 2002.02.11.11:15AM`\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Import Statements       <span class="small">[**Back to TOC**](#DobeRTFPad_Code_TOC)</span>
+>
+> \
+> ` ' This merely says that the full `<u>`Namespace`</u>` need not be called out later in the code `\
+> Imports System\
+> Imports System.IO\
+> Imports System.Drawing.Color\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Design Engine Code       <span class="small">[**Back to TOC**](#DobeRTFPad_Code_TOC)</span>
+>
+> \
+> ` ' This is the part of the code that Visual Studio.NET, the IDE itself, writes part of the code for you. You can only modify it in one special place, the initialization, otherwise your work would be written over or it wouldn't work right. Many Java IDEs also do this...`\
+> \
+> `' Having said that, it appears to be permissible to place `**`Global Variables`**` in the Class definition. `\
+> Public Class frmDobeRTBPad\
+> Inherits System.Windows.Forms.Form\
+> Dim **gStrValue** As String\
+> Dim **gStrOpenFileName** As String\
+> Dim **gStrCursorLocRTBEditStart** As String\
+> Dim **gStrCursorLocRTBEditLength** As String\
+> Dim **gStrCursorLocRTBEditFind** As String\
+> Dim **gIntCursorLocRTBEditFindNext** As Integer\
+> \
+> Friend WithEvents **cmbFontColor** As System.Windows.Forms.ComboBox\
+> Friend WithEvents **cmbFontName** As System.Windows.Forms.ComboBox\
+> Friend WithEvents **cmdBold** As System.Windows.Forms.Button\
+> Friend WithEvents **cmdItalic** As System.Windows.Forms.Button\
+> Friend WithEvents **cmdUnderline** As System.Windows.Forms.Button\
+> Friend WithEvents **Timer1** As System.Windows.Forms.Timer\
+> Friend WithEvents **StatusBar1** As System.Windows.Forms.StatusBar\
+> Friend WithEvents **Panel1** As System.Windows.Forms.StatusBarPanel\
+> Friend WithEvents **Panel2** As System.Windows.Forms.StatusBarPanel\
+> Friend WithEvents **cmbSize** As System.Windows.Forms.ComboBox\
+> Friend WithEvents **Panel3** As System.Windows.Forms.StatusBarPanel\
+> Friend WithEvents **lblFileStatus** As System.Windows.Forms.Label\
+> Friend WithEvents **lblCursorPos** As System.Windows.Forms.Label\
+> Friend WithEvents **lblCursorPosTitle** As System.Windows.Forms.Label\
+> Friend WithEvents **FontDialog1** As System.Windows.Forms.FontDialog\
+> Friend WithEvents **mnuEditColorPicker** As System.Windows.Forms.MenuItem\
+> Friend WithEvents **mnuEditFontPicker** As System.Windows.Forms.MenuItem\
+> Friend WithEvents **mnuEditSetBG** As System.Windows.Forms.MenuItem\
+> Friend WithEvents **cmdAlignRight** As System.Windows.Forms.Button\
+> Friend WithEvents **cmdAlignCenter** As System.Windows.Forms.Button\
+> Friend WithEvents **cmdAlignLeft** As System.Windows.Forms.Button\
+> Friend WithEvents **cmdReplaceAll** As System.Windows.Forms.Button\
+> Friend WithEvents **txtReplaceString** As System.Windows.Forms.TextBox\
+> Friend WithEvents **Label2** As System.Windows.Forms.Label\
+> Friend WithEvents **txtFindString** As System.Windows.Forms.TextBox\
+> Friend WithEvents **Label1** As System.Windows.Forms.Label\
+> Friend WithEvents **mnuEditReplaceAll** As System.Windows.Forms.MenuItem\
+> Friend WithEvents **Label3** As System.Windows.Forms.Label\
+> Friend WithEvents **cmdFind** As System.Windows.Forms.Button\
+> \
+> \#Region " Windows Form Designer generated code "\
+> \
+> Public Sub New()\
+> MyBase.New()\
+> \
+> ` 'This call is `**`required`**` by the Windows Form Designer.`\
+> **InitializeComponent()**\
+> \
+> `'NOTE: this is apparently undocumented way to call a Sub from`\
+> `'another Sub or a Function. I tested it and it works as advertised!!!`\
+> `'`**`SubCall(Nothing, Nothing)`**\
+> `' Appending the identifier type character "!" to any identifier`\
+> `'forces it to Single.`\
+> \
+> `'Add any initialization after the InitializeComponent() call `\
+> Dim gboolUnSavedChanges As Boolean\
+> gboolUnSavedChanges = False\
+> \
+> With rtbEdit\
+> .BackColor = LightSkyBlue 'AntiqueWhite 'CornflowerBlue\
+> .WordWrap = True\
+> .Focus()\
+> End With\
+> \
+> With cmbFontColor\
+> .Items.Add("Black")\
+> .Items.Add("Red")\
+> .Items.Add("Lime")\
+> .Items.Add("Yellow")\
+> .Items.Add("Blue")\
+> .Items.Add("Magenta")\
+> .Items.Add("Cyan")\
+> .Items.Add("White")\
+> ' This sets the initial value showing to "Black"\
+> .SelectedIndex = 0\
+> End With\
+> \
+> With cmbSize\
+> Dim i As Integer\
+> For i = 8 To 29 Step 2\
+> .Items.Add(i)\
+> Next\
+> `' This sets the initial value showing to "12"`\
+> .SelectedIndex = 2\
+> End With\
+> \
+> With cmbFontName\
+> Dim ff As FontFamily\
+> For Each ff In System.Drawing.FontFamily.Families\
+> cmbFontName.Items.Add(ff.Name)\
+> Next\
+> `' This sets the initial value showing to "Arial" (Sorted)`\
+> .SelectedIndex = 0\
+> End With\
+> \
+> `'Function to change the StatusBar Panel1 text`\
+> Dim newStr As String\
+> newStr = "Ready..."\
+> UpdateMyStatusBar(newStr)\
+> `'or use Panel2.Text = " " & System.DateTime.Today.ToLongDateString()`\
+> Panel2.Text = " " & System.DateTime.Today.ToShortDateString\
+> \
+> End Sub\
+> \
+> `'Form overrides dispose to clean up the component list.`\
+> Protected Overloads Overrides Sub Dispose(ByVal disposing As Boolean)\
+> If disposing Then\
+> If Not (components Is Nothing) Then\
+> components.Dispose()\
+> End If\
+> End If\
+> MyBase.Dispose(disposing)\
+> End Sub\
+> Friend WithEvents MainMenu1 As System.Windows.Forms.MainMenu\
+> Friend WithEvents MenuItem5 As System.Windows.Forms.MenuItem\
+> Friend WithEvents MenuItem7 As System.Windows.Forms.MenuItem\
+> Friend WithEvents rtbEdit As System.Windows.Forms.RichTextBox\
+> Friend WithEvents cmdExit As System.Windows.Forms.Button\
+> Friend WithEvents mnuFile As System.Windows.Forms.MenuItem\
+> Friend WithEvents nmuFileNew As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuFileSaveAs As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuFileExit As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuEditSelectAll As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuHelp As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuHelpContents As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuHelpAbout As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuFileSave As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuFileOpen As System.Windows.Forms.MenuItem\
+> Friend WithEvents MenuItem13 As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuEditCut As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuEditCopy As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuEditPaste As System.Windows.Forms.MenuItem\
+> Friend WithEvents MenuItem4 As System.Windows.Forms.MenuItem\
+> Friend WithEvents MenuItem6 As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuEditFind As System.Windows.Forms.MenuItem\
+> Friend WithEvents MenuItem10 As System.Windows.Forms.MenuItem\
+> Friend WithEvents MenuItem12 As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuEditLower As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuEditUpper As System.Windows.Forms.MenuItem\
+> Friend WithEvents MenuItem16 As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuEditInsertDate As System.Windows.Forms.MenuItem\
+> Friend WithEvents mnuFindNext As System.Windows.Forms.MenuItem\
+> \
+> `'Required by the Windows Form Designer`\
+> Private components As System.ComponentModel.IContainer\
+> \
+> `'NOTE: The following procedure is required by the Windows Form Designer`\
+> `'It can be modified using the Windows Form Designer.`\
+> `'Do not modify it using the code editor.`\
+> Private Sub InitializeComponent()\
+> Me.components = New System.ComponentModel.Container()\
+> Me.rtbEdit = New System.Windows.Forms.RichTextBox()\
+> Me.MainMenu1 = New System.Windows.Forms.MainMenu()\
+> Me.mnuFile = New System.Windows.Forms.MenuItem()\
+> Me.nmuFileNew = New System.Windows.Forms.MenuItem()\
+> Me.mnuFileOpen = New System.Windows.Forms.MenuItem()\
+> Me.MenuItem13 = New System.Windows.Forms.MenuItem()\
+> Me.mnuFileSave = New System.Windows.Forms.MenuItem()\
+> Me.mnuFileSaveAs = New System.Windows.Forms.MenuItem()\
+> Me.MenuItem5 = New System.Windows.Forms.MenuItem()\
+> Me.mnuFileExit = New System.Windows.Forms.MenuItem()\
+> Me.MenuItem7 = New System.Windows.Forms.MenuItem()\
+> Me.mnuEditSelectAll = New System.Windows.Forms.MenuItem()\
+> Me.MenuItem4 = New System.Windows.Forms.MenuItem()\
+> Me.mnuEditCut = New System.Windows.Forms.MenuItem()\
+> Me.mnuEditCopy = New System.Windows.Forms.MenuItem()\
+> Me.mnuEditPaste = New System.Windows.Forms.MenuItem()\
+> Me.MenuItem6 = New System.Windows.Forms.MenuItem()\
+> Me.mnuEditFind = New System.Windows.Forms.MenuItem()\
+> Me.mnuFindNext = New System.Windows.Forms.MenuItem()\
+> Me.mnuEditReplaceAll = New System.Windows.Forms.MenuItem()\
+> Me.MenuItem10 = New System.Windows.Forms.MenuItem()\
+> Me.mnuEditSetBG = New System.Windows.Forms.MenuItem()\
+> Me.mnuEditFontPicker = New System.Windows.Forms.MenuItem()\
+> Me.mnuEditColorPicker = New System.Windows.Forms.MenuItem()\
+> Me.MenuItem12 = New System.Windows.Forms.MenuItem()\
+> Me.mnuEditLower = New System.Windows.Forms.MenuItem()\
+> Me.mnuEditUpper = New System.Windows.Forms.MenuItem()\
+> Me.MenuItem16 = New System.Windows.Forms.MenuItem()\
+> Me.mnuEditInsertDate = New System.Windows.Forms.MenuItem()\
+> Me.mnuHelp = New System.Windows.Forms.MenuItem()\
+> Me.mnuHelpContents = New System.Windows.Forms.MenuItem()\
+> Me.mnuHelpAbout = New System.Windows.Forms.MenuItem()\
+> Me.cmdExit = New System.Windows.Forms.Button()\
+> Me.cmbFontColor = New System.Windows.Forms.ComboBox()\
+> Me.cmbFontName = New System.Windows.Forms.ComboBox()\
+> Me.cmdBold = New System.Windows.Forms.Button()\
+> Me.cmdItalic = New System.Windows.Forms.Button()\
+> Me.cmdUnderline = New System.Windows.Forms.Button()\
+> Me.lblFileStatus = New System.Windows.Forms.Label()\
+> Me.Timer1 = New System.Windows.Forms.Timer(Me.components)\
+> Me.StatusBar1 = New System.Windows.Forms.StatusBar()\
+> Me.Panel1 = New System.Windows.Forms.StatusBarPanel()\
+> Me.Panel2 = New System.Windows.Forms.StatusBarPanel()\
+> Me.Panel3 = New System.Windows.Forms.StatusBarPanel()\
+> Me.cmbSize = New System.Windows.Forms.ComboBox()\
+> Me.lblCursorPos = New System.Windows.Forms.Label()\
+> Me.lblCursorPosTitle = New System.Windows.Forms.Label()\
+> Me.FontDialog1 = New System.Windows.Forms.FontDialog()\
+> Me.cmdAlignRight = New System.Windows.Forms.Button()\
+> Me.cmdAlignCenter = New System.Windows.Forms.Button()\
+> Me.cmdAlignLeft = New System.Windows.Forms.Button()\
+> Me.cmdReplaceAll = New System.Windows.Forms.Button()\
+> Me.txtReplaceString = New System.Windows.Forms.TextBox()\
+> Me.Label2 = New System.Windows.Forms.Label()\
+> Me.txtFindString = New System.Windows.Forms.TextBox()\
+> Me.Label1 = New System.Windows.Forms.Label()\
+> Me.Label3 = New System.Windows.Forms.Label()\
+> Me.cmdFind = New System.Windows.Forms.Button()\
+> CType(Me.Panel1, System.ComponentModel.ISupportInitialize).BeginInit()\
+> CType(Me.Panel2, System.ComponentModel.ISupportInitialize).BeginInit()\
+> CType(Me.Panel3, System.ComponentModel.ISupportInitialize).BeginInit()\
+> Me.SuspendLayout()\
+> `'`\
+> `'rtbEdit`\
+> `'`\
+> Me.rtbEdit.Location = New System.Drawing.Point(8, 72)\
+> Me.rtbEdit.Name = "rtbEdit"\
+> Me.rtbEdit.Size = New System.Drawing.Size(432, 216)\
+> Me.rtbEdit.TabIndex = 0\
+> Me.rtbEdit.Text = ""\
+> `'`\
+> `'MainMenu1`\
+> `'`\
+> Me.MainMenu1.MenuItems.AddRange(New System.Windows.Forms.MenuItem() {Me.mnuFile, Me.MenuItem7, Me.mnuHelp})\
+> `'`\
+> `'mnuFile`\
+> '\
+> Me.mnuFile.Index = 0\
+> Me.mnuFile.MenuItems.AddRange(New System.Windows.Forms.MenuItem() {Me.nmuFileNew, Me.mnuFileOpen, Me.MenuItem13, Me.mnuFileSave, Me.mnuFileSaveAs, Me.MenuItem5, Me.mnuFileExit})\
+> Me.mnuFile.Text = "&File"\
+> `'`\
+> `'nmuFileNew`\
+> `'`\
+> Me.nmuFileNew.Index = 0\
+> Me.nmuFileNew.Text = "&New"\
+> `'`\
+> `'mnuFileOpen`\
+> `'`\
+> Me.mnuFileOpen.Index = 1\
+> Me.mnuFileOpen.Text = "&Open"\
+> `'`\
+> `'MenuItem13`\
+> `'`\
+> Me.MenuItem13.Index = 2\
+> Me.MenuItem13.Text = "-"\
+> `'`\
+> `'mnuFileSave`\
+> `'`\
+> Me.mnuFileSave.Index = 3\
+> Me.mnuFileSave.Text = "&Save"\
+> `'`\
+> `'mnuFileSaveAs`\
+> `'`\
+> Me.mnuFileSaveAs.Index = 4\
+> Me.mnuFileSaveAs.Text = "Save &As"\
+> `'`\
+> `'MenuItem5`\
+> `'`\
+> Me.MenuItem5.Index = 5\
+> Me.MenuItem5.Text = "-"\
+> `'`\
+> `'mnuFileExit`\
+> `'`\
+> Me.mnuFileExit.Index = 6\
+> Me.mnuFileExit.Text = "E&xit"\
+> `'`\
+> `'MenuItem7`\
+> `'`\
+> Me.MenuItem7.Index = 1\
+> Me.MenuItem7.MenuItems.AddRange(New System.Windows.Forms.MenuItem() {Me.mnuEditSelectAll, Me.MenuItem4, Me.mnuEditCut, Me.mnuEditCopy, Me.mnuEditPaste, Me.MenuItem6, Me.mnuEditFind, Me.mnuFindNext, Me.mnuEditReplaceAll, Me.MenuItem10, Me.mnuEditSetBG, Me.mnuEditFontPicker, Me.mnuEditColorPicker, Me.MenuItem12, Me.mnuEditLower, Me.mnuEditUpper, Me.MenuItem16, Me.mnuEditInsertDate})\
+> Me.MenuItem7.Text = "&Edit"\
+> `'`\
+> `'mnuEditSelectAll`\
+> `'`\
+> Me.mnuEditSelectAll.Index = 0\
+> Me.mnuEditSelectAll.Shortcut = System.Windows.Forms.Shortcut.CtrlA\
+> Me.mnuEditSelectAll.Text = "&Select All"\
+> `'`\
+> `'MenuItem4`\
+> `'`\
+> Me.MenuItem4.Index = 1\
+> Me.MenuItem4.Text = "-"\
+> `'`\
+> `'mnuEditCut`\
+> `'`\
+> Me.mnuEditCut.Index = 2\
+> Me.mnuEditCut.Shortcut = System.Windows.Forms.Shortcut.CtrlX\
+> Me.mnuEditCut.Text = "Cu&t"\
+> `'`\
+> `'mnuEditCopy`\
+> `'`\
+> Me.mnuEditCopy.Index = 3\
+> Me.mnuEditCopy.Shortcut = System.Windows.Forms.Shortcut.CtrlC\
+> Me.mnuEditCopy.Text = "&Copy"\
+> `'`\
+> `'mnuEditPaste`\
+> `'`\
+> Me.mnuEditPaste.Index = 4\
+> Me.mnuEditPaste.Shortcut = System.Windows.Forms.Shortcut.CtrlP\
+> Me.mnuEditPaste.Text = "&Paste"\
+> `'`\
+> `'MenuItem6`\
+> `'`\
+> Me.MenuItem6.Index = 5\
+> Me.MenuItem6.Text = "-"\
+> `'`\
+> `'mnuEditFind`\
+> `'`\
+> Me.mnuEditFind.Index = 6\
+> Me.mnuEditFind.Shortcut = System.Windows.Forms.Shortcut.CtrlF\
+> Me.mnuEditFind.Text = "&Find"\
+> `'`\
+> `'mnuFindNext`\
+> `'`\
+> Me.mnuFindNext.Index = 7\
+> Me.mnuFindNext.Shortcut = System.Windows.Forms.Shortcut.F3\
+> Me.mnuFindNext.Text = "Find &Next"\
+> `'`\
+> `'mnuEditReplaceAll`\
+> `'`\
+> Me.mnuEditReplaceAll.Index = 8\
+> Me.mnuEditReplaceAll.Shortcut = System.Windows.Forms.Shortcut.CtrlH\
+> Me.mnuEditReplaceAll.Text = "Replace All"\
+> `'`\
+> `'MenuItem10`\
+> `'`\
+> Me.MenuItem10.Index = 9\
+> Me.MenuItem10.Text = "-"\
+> `'`\
+> `'mnuEditSetBG`\
+> `'`\
+> Me.mnuEditSetBG.Index = 10\
+> Me.mnuEditSetBG.Shortcut = System.Windows.Forms.Shortcut.AltF1\
+> Me.mnuEditSetBG.Text = "Set Background"\
+> `'`\
+> `'mnuEditFontPicker`\
+> `'`\
+> Me.mnuEditFontPicker.Index = 11\
+> Me.mnuEditFontPicker.Shortcut = System.Windows.Forms.Shortcut.AltF2\
+> Me.mnuEditFontPicker.Text = "Font Picker"\
+> `'`\
+> `'mnuEditColorPicker`\
+> `'`\
+> Me.mnuEditColorPicker.Index = 12\
+> Me.mnuEditColorPicker.Shortcut = System.Windows.Forms.Shortcut.AltF3\
+> Me.mnuEditColorPicker.Text = "Color Picker"\
+> `'`\
+> `'MenuItem12`\
+> `'`\
+> Me.MenuItem12.Index = 13\
+> Me.MenuItem12.Text = "-"\
+> `'`\
+> `'mnuEditLower`\
+> `'`\
+> Me.mnuEditLower.Index = 14\
+> Me.mnuEditLower.Shortcut = System.Windows.Forms.Shortcut.CtrlL\
+> Me.mnuEditLower.Text = "To &Lower Case"\
+> `'`\
+> `'mnuEditUpper`\
+> `'`\
+> Me.mnuEditUpper.Index = 15\
+> Me.mnuEditUpper.Shortcut = System.Windows.Forms.Shortcut.CtrlU\
+> Me.mnuEditUpper.Text = "To &Upper Case"\
+> `'`\
+> `'MenuItem16`\
+> `'`\
+> Me.MenuItem16.Index = 16\
+> Me.MenuItem16.Text = "-"\
+> `'`\
+> `'mnuEditInsertDate`\
+> `'`\
+> Me.mnuEditInsertDate.Index = 17\
+> Me.mnuEditInsertDate.Shortcut = System.Windows.Forms.Shortcut.CtrlI\
+> Me.mnuEditInsertDate.Text = "&Insert Date"\
+> `'`\
+> `'mnuHelp`\
+> `'`\
+> Me.mnuHelp.Index = 2\
+> Me.mnuHelp.MenuItems.AddRange(New System.Windows.Forms.MenuItem() {Me.mnuHelpContents, Me.mnuHelpAbout})\
+> Me.mnuHelp.Text = "&Help"\
+> `'`\
+> `'mnuHelpContents`\
+> `'`\
+> Me.mnuHelpContents.Index = 0\
+> Me.mnuHelpContents.Text = "&Contents"\
+> `'`\
+> `'mnuHelpAbout`\
+> `'`\
+> Me.mnuHelpAbout.Index = 1\
+> Me.mnuHelpAbout.Text = "&About"\
+> `'`\
+> `'cmdExit`\
+> `'`\
+> Me.cmdExit.Location = New System.Drawing.Point(384, 304)\
+> Me.cmdExit.Name = "cmdExit"\
+> Me.cmdExit.Size = New System.Drawing.Size(56, 32)\
+> Me.cmdExit.TabIndex = 1\
+> Me.cmdExit.Text = "E&xit"\
+> `'`\
+> `'cmbFontColor`\
+> `'`\
+> Me.cmbFontColor.Location = New System.Drawing.Point(8, 8)\
+> Me.cmbFontColor.Name = "cmbFontColor"\
+> Me.cmbFontColor.Size = New System.Drawing.Size(77, 21)\
+> Me.cmbFontColor.TabIndex = 2\
+> `'`\
+> `'cmbFontName`\
+> `'`\
+> Me.cmbFontName.Location = New System.Drawing.Point(88, 8)\
+> Me.cmbFontName.Name = "cmbFontName"\
+> Me.cmbFontName.Size = New System.Drawing.Size(112, 21)\
+> Me.cmbFontName.Sorted = True\
+> Me.cmbFontName.TabIndex = 4\
+> `'`\
+> `'cmdBold`\
+> `'`\
+> Me.cmdBold.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))\
+> Me.cmdBold.Location = New System.Drawing.Point(256, 8)\
+> Me.cmdBold.Name = "cmdBold"\
+> Me.cmdBold.Size = New System.Drawing.Size(24, 24)\
+> Me.cmdBold.TabIndex = 5\
+> Me.cmdBold.Text = "B"\
+> Me.cmdBold.TextAlign = System.Drawing.ContentAlignment.MiddleLeft\
+> `'`\
+> `'cmdItalic`\
+> `'`\
+> Me.cmdItalic.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, (System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.GraphicsUnit.Point, CType(0, Byte))\
+> Me.cmdItalic.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft\
+> Me.cmdItalic.Location = New System.Drawing.Point(288, 8)\
+> Me.cmdItalic.Name = "cmdItalic"\
+> Me.cmdItalic.Size = New System.Drawing.Size(24, 24)\
+> Me.cmdItalic.TabIndex = 6\
+> Me.cmdItalic.Text = "I"\
+> Me.cmdItalic.TextAlign = System.Drawing.ContentAlignment.MiddleLeft\
+> `'`\
+> `'cmdUnderline`\
+> `'`\
+> Me.cmdUnderline.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, (System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Underline), System.Drawing.GraphicsUnit.Point, CType(0, Byte))\
+> Me.cmdUnderline.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft\
+> Me.cmdUnderline.Location = New System.Drawing.Point(320, 8)\
+> Me.cmdUnderline.Name = "cmdUnderline"\
+> Me.cmdUnderline.Size = New System.Drawing.Size(24, 24)\
+> Me.cmdUnderline.TabIndex = 7\
+> Me.cmdUnderline.Text = "U"\
+> Me.cmdUnderline.TextAlign = System.Drawing.ContentAlignment.MiddleLeft\
+> `'`\
+> `'lblFileStatus`\
+> `'`\
+> Me.lblFileStatus.Location = New System.Drawing.Point(80, 40)\
+> Me.lblFileStatus.Name = "lblFileStatus"\
+> Me.lblFileStatus.Size = New System.Drawing.Size(160, 24)\
+> Me.lblFileStatus.TabIndex = 8\
+> `'`\
+> `'Timer1`\
+> `'`\
+> Me.Timer1.Enabled = True\
+> Me.Timer1.Interval = 1000\
+> `'`\
+> `'StatusBar1`\
+> `'`\
+> Me.StatusBar1.Font = New System.Drawing.Font("Comic Sans MS", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))\
+> Me.StatusBar1.Location = New System.Drawing.Point(0, 345)\
+> Me.StatusBar1.Name = "StatusBar1"\
+> Me.StatusBar1.Panels.AddRange(New System.Windows.Forms.StatusBarPanel() {Me.Panel1, Me.Panel2, Me.Panel3})\
+> Me.StatusBar1.ShowPanels = True\
+> Me.StatusBar1.Size = New System.Drawing.Size(448, 24)\
+> Me.StatusBar1.TabIndex = 10\
+> Me.StatusBar1.Text = "StatusBar1"\
+> `'`\
+> `'Panel1`\
+> `'`\
+> Me.Panel1.AutoSize = System.Windows.Forms.StatusBarPanelAutoSize.Spring\
+> Me.Panel1.Width = 412\
+> `'`\
+> `'Panel2`\
+> `'`\
+> Me.Panel2.AutoSize = System.Windows.Forms.StatusBarPanelAutoSize.Contents\
+> Me.Panel2.BorderStyle = System.Windows.Forms.StatusBarPanelBorderStyle.Raised\
+> Me.Panel2.ToolTipText = "Current Date"\
+> Me.Panel2.Width = 10\
+> `'`\
+> `'Panel3`\
+> `'`\
+> Me.Panel3.AutoSize = System.Windows.Forms.StatusBarPanelAutoSize.Contents\
+> Me.Panel3.BorderStyle = System.Windows.Forms.StatusBarPanelBorderStyle.Raised\
+> Me.Panel3.ToolTipText = "Current Time"\
+> Me.Panel3.Width = 10\
+> `'`\
+> `'cmbSize`\
+> `'`\
+> Me.cmbSize.Location = New System.Drawing.Point(208, 8)\
+> Me.cmbSize.Name = "cmbSize"\
+> Me.cmbSize.Size = New System.Drawing.Size(40, 21)\
+> Me.cmbSize.TabIndex = 11\
+> `'`\
+> `'lblCursorPos`\
+> `'`\
+> Me.lblCursorPos.Location = New System.Drawing.Point(312, 40)\
+> Me.lblCursorPos.Name = "lblCursorPos"\
+> Me.lblCursorPos.Size = New System.Drawing.Size(128, 24)\
+> Me.lblCursorPos.TabIndex = 15\
+> `'`\
+> `'lblCursorPosTitle`\
+> `'`\
+> Me.lblCursorPosTitle.Location = New System.Drawing.Point(256, 40)\
+> Me.lblCursorPosTitle.Name = "lblCursorPosTitle"\
+> Me.lblCursorPosTitle.Size = New System.Drawing.Size(48, 16)\
+> Me.lblCursorPosTitle.TabIndex = 14\
+> Me.lblCursorPosTitle.Text = "Cursor"\
+> `'`\
+> `'cmdAlignRight`\
+> `'`\
+> Me.cmdAlignRight.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))\
+> Me.cmdAlignRight.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft\
+> Me.cmdAlignRight.Location = New System.Drawing.Point(416, 8)\
+> Me.cmdAlignRight.Name = "cmdAlignRight"\
+> Me.cmdAlignRight.Size = New System.Drawing.Size(24, 24)\
+> Me.cmdAlignRight.TabIndex = 18\
+> Me.cmdAlignRight.Text = "R"\
+> Me.cmdAlignRight.TextAlign = System.Drawing.ContentAlignment.MiddleLeft\
+> `'`\
+> `'cmdAlignCenter`\
+> `'`\
+> Me.cmdAlignCenter.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))\
+> Me.cmdAlignCenter.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft\
+> Me.cmdAlignCenter.Location = New System.Drawing.Point(384, 8)\
+> Me.cmdAlignCenter.Name = "cmdAlignCenter"\
+> Me.cmdAlignCenter.Size = New System.Drawing.Size(24, 24)\
+> Me.cmdAlignCenter.TabIndex = 17\
+> Me.cmdAlignCenter.Text = "C"\
+> Me.cmdAlignCenter.TextAlign = System.Drawing.ContentAlignment.MiddleLeft\
+> `'`\
+> `'cmdAlignLeft`\
+> `'`\
+> Me.cmdAlignLeft.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))\
+> Me.cmdAlignLeft.Location = New System.Drawing.Point(352, 8)\
+> Me.cmdAlignLeft.Name = "cmdAlignLeft"\
+> Me.cmdAlignLeft.Size = New System.Drawing.Size(24, 24)\
+> Me.cmdAlignLeft.TabIndex = 16\
+> Me.cmdAlignLeft.Text = "L"\
+> Me.cmdAlignLeft.TextAlign = System.Drawing.ContentAlignment.MiddleLeft\
+> `'`\
+> `'cmdReplaceAll`\
+> `'`\
+> Me.cmdReplaceAll.Location = New System.Drawing.Point(280, 304)\
+> Me.cmdReplaceAll.Name = "cmdReplaceAll"\
+> Me.cmdReplaceAll.Size = New System.Drawing.Size(80, 24)\
+> Me.cmdReplaceAll.TabIndex = 23\
+> Me.cmdReplaceAll.Text = "Replace All"\
+> `'`\
+> `'txtReplaceString`\
+> `'`\
+> Me.txtReplaceString.Location = New System.Drawing.Point(184, 320)\
+> Me.txtReplaceString.Name = "txtReplaceString"\
+> Me.txtReplaceString.Size = New System.Drawing.Size(88, 20)\
+> Me.txtReplaceString.TabIndex = 22\
+> Me.txtReplaceString.Text = ""\
+> `'`\
+> `'Label2`\
+> `'`\
+> Me.Label2.Location = New System.Drawing.Point(192, 296)\
+> Me.Label2.Name = "Label2"\
+> Me.Label2.Size = New System.Drawing.Size(72, 16)\
+> Me.Label2.TabIndex = 21\
+> Me.Label2.Text = "Replace with:"\
+> `'`\
+> `'txtFindString`\
+> `'`\
+> Me.txtFindString.Location = New System.Drawing.Point(8, 320)\
+> Me.txtFindString.Name = "txtFindString"\
+> Me.txtFindString.Size = New System.Drawing.Size(80, 20)\
+> Me.txtFindString.TabIndex = 20\
+> Me.txtFindString.Text = ""\
+> `'`\
+> `'Label1`\
+> `'`\
+> Me.Label1.Location = New System.Drawing.Point(8, 296)\
+> Me.Label1.Name = "Label1"\
+> Me.Label1.Size = New System.Drawing.Size(80, 16)\
+> Me.Label1.TabIndex = 19\
+> Me.Label1.Text = "Text to Select:"\
+> `'`\
+> `'Label3`\
+> `'`\
+> Me.Label3.Location = New System.Drawing.Point(8, 40)\
+> Me.Label3.Name = "Label3"\
+> Me.Label3.Size = New System.Drawing.Size(64, 16)\
+> Me.Label3.TabIndex = 24\
+> Me.Label3.Text = "Open File:"\
+> `'`\
+> `'cmdFind`\
+> `'`\
+> Me.cmdFind.Location = New System.Drawing.Point(96, 304)\
+> Me.cmdFind.Name = "cmdFind"\
+> Me.cmdFind.Size = New System.Drawing.Size(80, 24)\
+> Me.cmdFind.TabIndex = 25\
+> Me.cmdFind.Text = "Find Text"\
+> `'`\
+> `'frmDobeRTBPad`\
+> `'`\
+> Me.AutoScaleBaseSize = New System.Drawing.Size(5, 13)\
+> Me.ClientSize = New System.Drawing.Size(448, 369)\
+> Me.Controls.AddRange(New System.Windows.Forms.Control() {Me.cmdFind, Me.Label3, Me.cmdReplaceAll, Me.txtReplaceString, Me.Label2, Me.txtFindString, Me.Label1, Me.cmdAlignRight, Me.cmdAlignCenter, Me.cmdAlignLeft, Me.lblCursorPos, Me.lblCursorPosTitle, Me.cmbSize, Me.StatusBar1, Me.lblFileStatus, Me.cmdUnderline, Me.cmdItalic, Me.cmdBold, Me.cmbFontName, Me.cmbFontColor, Me.cmdExit, Me.rtbEdit})\
+> Me.Menu = Me.MainMenu1\
+> Me.Name = "frmDobeRTBPad"\
+> Me.Text = "Dobe's Rich Text Editor in VB.NET"\
+> CType(Me.Panel1, System.ComponentModel.ISupportInitialize).EndInit()\
+> CType(Me.Panel2, System.ComponentModel.ISupportInitialize).EndInit()\
+> CType(Me.Panel3, System.ComponentModel.ISupportInitialize).EndInit()\
+> Me.ResumeLayout(False)\
+> \
+> End Sub\
+> \
+> \#End Region\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## InitializeComponent()       <span class="small">[**Back to TOC**](#DobeRTFPad_Code_TOC)</span>
+>
+> \
+> ` ' I've separated this part out from the last section, since it is the portion I wrote into the initialization section, and it is specific to DobeRTFPad.`\
+> `'This call is required by the Windows Form Designer.`\
+> **InitializeComponent()**\
+> \
+> `'NOTES: here is an apparently undocumented way to call a Sub from`\
+> `'another Sub or a Function. I tested it and it works as advertised!!!`\
+> \
+> `'`**`SubCall(Nothing, Nothing)`**\
+> \
+> `' Appending the identifier type character "!" to any identifier`\
+> `'forces it to Single.`\
+> \
+> `'Add any initialization after the InitializeComponent() call `\
+> **Dim gboolUnSavedChanges As Boolean**\
+> **gboolUnSavedChanges = False**\
+> \
+> With rtbEdit\
+> .BackColor = LightSkyBlue `'AntiqueWhite 'CornflowerBlue`\
+> .WordWrap = True\
+> .Focus()\
+> End With\
+> \
+> With cmbFontColor\
+> .Items.Add("Black")\
+> .Items.Add("Red")\
+> .Items.Add("Lime")\
+> .Items.Add("Yellow")\
+> .Items.Add("Blue")\
+> .Items.Add("Magenta")\
+> .Items.Add("Cyan")\
+> .Items.Add("White")\
+> `' This sets the initial value showing to 'Black'`\
+> .SelectedIndex = 0\
+> End With\
+> \
+> With cmbSize\
+> Dim i As Integer\
+> For i = 8 To 29 Step 2\
+> .Items.Add(i)\
+> Next\
+> `' This sets the initial value showing to '12'`\
+> .SelectedIndex = 2\
+> End With\
+> \
+> With cmbFontName\
+> Dim ff As FontFamily\
+> For Each ff In System.Drawing.FontFamily.Families\
+> cmbFontName.Items.Add(ff.Name)\
+> Next\
+> `' This sets the initial value showing to 'Arial' (Sorted)`\
+> .SelectedIndex = 0\
+> End With\
+> \
+> `'Function to change the StatusBar Panel1 text`\
+> Dim newStr As String\
+> newStr = "Ready..."\
+> UpdateMyStatusBar(newStr)\
+> `'or use Panel2.Text = " " & System.DateTime.Today.ToLongDateString()`\
+> Panel2.Text = " " & System.DateTime.Today.ToShortDateString\
+> \
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Event SubRoutines       <span class="small">[**Back to TOC**](#DobeRTFPad_Code_TOC)</span>
+>
+> \
+> ` ' All Menu Events are handled as SubRoutines, yet not all SubRoutines are Menu Events! `\
+>
+> - **Menu Events**\
+>   ` `[`File New`](#Code_Subs_Help_Menu_FileNew)`    `[`File Open`](#Code_Subs_Help_Menu_FileOpen)`    `[`File Save`](#Code_Subs_Help_Menu_FileSave)`    `[`File Save As`](#Code_Subs_Help_Menu_FileSaveAs)`    `[`File Exit`](#Code_Subs_Help_Menu_FileExit)`   `\
+>   \
+>   [`Edit Select All`](#Code_Subs_Help_Menu_EditSelectAll)`     `[`Edit Cut`](#Code_Subs_Help_Menu_EditCut)`     `[`Edit Copy`](#Code_Subs_Help_Menu_EditCopy)`     `[`Edit Paste`](#Code_Subs_Help_Menu_EditPaste)`     `[`Edit Find`](#Code_Subs_Help_Menu_EditFind)`     `[`Edit Find Next`](#Code_Subs_Help_Menu_EditFindNext)`     `[`Edit Replace All`](#Code_Subs_Help_Menu_EditReplaceAll)`     `[`Edit Set Background`](#Code_Subs_Help_Menu_EditSetBackground)`     `[`Edit Font Picker`](#Code_Subs_Help_Menu_EditFontPicker)`     `[`Edit Color Picker`](#Code_Subs_Help_Menu_EditColorPicker)`     `[`Edit Lower Case`](#Code_Subs_Help_Menu_EditLowerCase)`     `[`Edit Upper Case`](#Code_Subs_Help_Menu_EditUpperCase)`     `[`Edit Insert Date`](#Code_Subs_Help_Menu_EditInsertDate)`    `\
+>   \
+>   [`Help Contents`](#Code_Subs_Help_Menu_HelpContents)`     `[`Help About`](#Code_Subs_Help_Menu_HelpAbout)`    `\
+>   \
+> - **Control Change Event**\
+>   ` `[`rtbEdit_TextChanged()`](#Code_Subs_Help_rtbEdit_TextChanged)`    `[`cmbFontName_SelectedIndexChanged()`](#Code_Subs_Help_cmbFontName_SelectedIndexChanged)`    `[`cmbFontColor_SelectedIndexChanged()`](#Code_Subs_Help_cmbFontColor_SelectedIndexChanged)`    `[`cmbSize_SelectedIndexChanged()`](#Code_Subs_Help_cmbSize_SelectedIndexChanged)`    `[`ShowDateTimeMyStatusBar()`](#Code_Subs_Help_ShowDateTimeMyStatusBar)`    `\
+>   \
+> - **Command Button Events**\
+>   ` `[`Bold Command`](#Code_Subs_Help_Command_cmdBold)`    `[`Italic Command`](#Code_Subs_Help_Command_cmdItalic)`    `[`Underline Command`](#Code_Subs_Help_Command_cmdUnderline)`    `[`Left Align Command`](#Code_Subs_Help_Command_cmdLeftAlign)`    `[`Center Align Command`](#Code_Subs_Help_Command_cmdCenterAlign)`    `[`Right Align Command`](#Code_Subs_Help_Command_cmdRightAlign)`    `[`Find Command`](#Code_Subs_Help_Command_cmdFind)`    `[`Replace All Command`](#Code_Subs_Help_Command_cmdReplaceAll)`    `[`Exit Command`](#Code_Subs_Help_Command_cmdExit)`    `
+>
+> \
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## File New Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The File New Menu Event enables you to start a fresh .RTF or .TXT file `\
+> Private Sub nmuFileNew_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles nmuFileNew.Click\
+> If gboolUnSavedChanges = False Then\
+> rtbEdit.Text = ""\
+> rtbEdit.Focus()\
+> \
+> Else\
+> `' Ask user if they want to paste over currently selected text.`\
+> If MessageBox.Show("Do you wish to lose all edits to this document?", \_\
+> "There have been changes to this document!", MessageBoxButtons.YesNo) = DialogResult.No Then\
+> \
+> `' Create a SaveFileDialog to request a path and file name to save to.`\
+> Dim saveFile1 As New SaveFileDialog()\
+> \
+> `' Initialize the SaveFileDialog to specify the RTF extension for the file.`\
+> saveFile1.DefaultExt = "\*.rtf"\
+> saveFile1.Filter = "RTF Files\|\*.rtf\|txt files (\*.txt)\|\*.txt\|All files (\*.\*)\|\*.\*"\
+> saveFile1.FilterIndex = 1\
+> \
+> `' Determine if the user selected a file name from the saveFileDialog.`\
+> If (saveFile1.ShowDialog() = System.Windows.Forms.DialogResult.OK) \_\
+> And (saveFile1.FileName.Length) \> 0 Then\
+> \
+> `' Save the contents of the RichTextBox into the file.`\
+> rtbEdit.SaveFile(saveFile1.FileName, \_\
+> RichTextBoxStreamType.RichText)\
+> End If\
+> End If\
+> rtbEdit.Text = ""\
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "This is a new file, unsaved!"\
+> UpdateMyStatusBar(newStr)\
+> \
+> gboolUnSavedChanges = False\
+> End If\
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## File Open Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The File Open Menu Event enables you to open a .RTF or .TXT file `\
+> Private Sub mnuFileOpen_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuFileOpen.Click\
+> `'In VB 6.0, CommonDialog controls provided predefined dialog boxes.`\
+> `'In VB .NET, this control is replaced by the ColorDialog control,`\
+> `'the FontDialog control, the OpenFileDialog control,`\
+> `'the PageSetupDialog control, the PrintDialog control,`\
+> `'the PrintPreviewDialog control, and the SaveFileDialog control.`\
+> \
+> `' Create an OpenFileDialog to request a file to open. `\
+> If gboolUnSavedChanges = False Then\
+> Dim openFile1 As New OpenFileDialog()\
+> Dim newStr As String\
+> Dim newFileInfoStr As String\
+> \
+> `' Initialize the OpenFileDialog to look for RTF files.`\
+> openFile1.DefaultExt = "\*.rtf"\
+> openFile1.Filter = "RTF Files\|\*.rtf\|txt files (\*.txt)\|\*.txt"\
+> openFile1.FilterIndex = 1\
+> \
+> `' Determine whether the user selected a file from the OpenFileDialog.`\
+> If (openFile1.ShowDialog() = System.Windows.Forms.DialogResult.OK) \_\
+> And (openFile1.FileName.Length \> 0) Then\
+> Dim fileTypeStr As String\
+> fileTypeStr = openFile1.FileName\
+> fileTypeStr = Microsoft.VisualBasic.Right(fileTypeStr, 3)\
+> If fileTypeStr = "txt" Then\
+> `' Load the contents of the file into the RichTextBox.`\
+> rtbEdit.LoadFile(openFile1.FileName, \_\
+> RichTextBoxStreamType.PlainText)\
+> \
+> newStr = "This file is named " & openFile1.FileName\
+> UpdateMyStatusBar(newStr)\
+> newFileInfoStr = "File: " & openFile1.FileName\
+> \
+> \
+> \
+> lblFileStatus.Text = newFileInfoStr\
+> gboolUnSavedChanges = False\
+> \
+> ElseIf fileTypeStr = "rtf" Then\
+> `' Load the contents of the file into the RichTextBox.`\
+> rtbEdit.LoadFile(openFile1.FileName, \_\
+> RichTextBoxStreamType.RichText)\
+> \
+> newStr = "This file is named " & openFile1.FileName\
+> UpdateMyStatusBar(newStr)\
+> newFileInfoStr = "File: " & openFile1.FileName\
+> \
+> Dim MyStamp As Date\
+> MyStamp = FileDateTime(openFile1.FileName)\
+> lblFileStatus.Text = newFileInfoStr & ", created: " & MyStamp\
+> \
+> \
+> gboolUnSavedChanges = False\
+> \
+> Else\
+> Dim mbStr As String\
+> mbStr = "This editor only loads TEXT (.txt) files and Rich Text Format (.rtf) files"\
+> MessageBox.Show(mbStr)\
+> \
+> End If\
+> rtbEdit.Focus()\
+> \
+> End If\
+> Else\
+> If MessageBox.Show("The file you are working on has not been saved, do you wish to discard the changes?", \_\
+> "Changes were made to Editor!", MessageBoxButtons.YesNo) = DialogResult.Yes Then\
+> \
+> gboolUnSavedChanges = False\
+> \
+> `'Undocumented call to Menu or Button Event from code...`\
+> mnuFileOpen_Click(Nothing, Nothing)\
+> \
+> End If\
+> End If\
+> rtbEdit.Focus()\
+> \
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## File Save Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The File Save Menu Event enables you to save a .RTF or .TXT file to the same name. `\
+> Private Sub mnuFileSave_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuFileSave.Click\
+> Dim newStr As String\
+> Dim mbStr As String\
+> If gboolUnSavedChanges = False Then\
+> Return\
+> Else\
+> If (gStrOpenFileName = Nothing) Then\
+> gStrOpenFileName = "C:\default.rtf"\
+> mbStr = "Since this was a new file, and didn't have a name, " & \_\
+> vbCrLf & "this file was saved as: " & gStrOpenFileName & \_\
+> vbCrLf & "Now you can 'SaveAs' this file if you would like."\
+> MessageBox.Show(mbStr)\
+> End If\
+> \
+> Dim fileTypeStr As String = gStrOpenFileName\
+> fileTypeStr = Microsoft.VisualBasic.Right(fileTypeStr, 3)\
+> If fileTypeStr = "txt" Then\
+> `' Load the contents of the file into the RichTextBox.`\
+> rtbEdit.SaveFile(gStrOpenFileName, \_\
+> RichTextBoxStreamType.PlainText)\
+> \
+> newStr = "This file is named " & gStrOpenFileName\
+> UpdateMyStatusBar(newStr)\
+> gboolUnSavedChanges = False\
+> \
+> ElseIf fileTypeStr = "rtf" Then\
+> `' Load the contents of the file into the RichTextBox.`\
+> rtbEdit.SaveFile(gStrOpenFileName, \_\
+> RichTextBoxStreamType.RichText)\
+> \
+> newStr = "This file is named " & gStrOpenFileName\
+> UpdateMyStatusBar(newStr)\
+> gboolUnSavedChanges = False\
+> \
+> Else\
+> mbStr = "This editor only saves TEXT (.txt) files and Rich Text Format (.rtf) files."\
+> MessageBox.Show(mbStr)\
+> \
+> End If\
+> rtbEdit.Focus()\
+> \
+> End If\
+> \
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## File Save As Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The File Save As Menu Event enables you to save a .RTF or .TXT file to a new name. `\
+> Private Sub mnuFileSaveAs_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuFileSaveAs.Click\
+> `' Create a SaveFileDialog to request a path and file name to save to.`\
+> Dim saveFile1 As New SaveFileDialog()\
+> \
+> `' Initialize the SaveFileDialog to specify the RTF extension for the file.`\
+> saveFile1.DefaultExt = "\*.rtf"\
+> saveFile1.Filter = "RTF Files\|\*.rtf\|txt files (\*.txt)\|\*.txt\|All files (\*.\*)\|\*.\*"\
+> saveFile1.FilterIndex = 1\
+> \
+> `' Determine if the user selected a file name from the saveFileDialog.`\
+> If (saveFile1.ShowDialog() = System.Windows.Forms.DialogResult.OK) \_\
+> And (saveFile1.FileName.Length) \> 0 Then\
+> \
+> `' Save the contents of the RichTextBox into the file.`\
+> `'rtbEdit.SaveFile(saveFile1.FileName, RichTextBoxStreamType.RichText)`\
+> rtbEdit.SaveFile(saveFile1.FileName)\
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "This file is named " & saveFile1.FileName\
+> UpdateMyStatusBar(newStr)\
+> \
+> gboolUnSavedChanges = False\
+> End If\
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## File Exit Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The File Exit Menu Event quits the application, first checking for unsaved changes. `\
+> Private Sub mnuFileExit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuFileExit.Click\
+> `'Undocumented call to Menu or Button Event from code...`\
+> cmdExit_Click(Nothing, Nothing)\
+> End Sub\
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Select All Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The File Menu Event enables you to select all the text in the RTFBox `\
+> Private Sub mnuEditSelectAll_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuEditSelectAll.Click\
+> rtbEdit.SelectAll()\
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "All text is selected in the Edit area."\
+> UpdateMyStatusBar(newStr)\
+> \
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Cut Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Edit Cut Menu Event enables you to cut a selection to the Clipboard `\
+> Private Sub mnuEditCut_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuEditCut.Click\
+> `' Ensure that text is currently selected in the text box.`\
+> If rtbEdit.SelectedText \<\> "" Then\
+> `' Cut the selected text in the control and paste it into the Clipboard.`\
+> rtbEdit.Cut()\
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "The area selected was Cut from the Edit area."\
+> UpdateMyStatusBar(newStr)\
+> \
+> End If\
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Copy Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Edit Copy Menu Event enables you to copy a selection to the Clipboard `\
+> Private Sub mnuEditCopy_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuEditCopy.Click\
+> `' Ensure that text is selected in the text box. `\
+> If rtbEdit.SelectionLength \> 0 Then\
+> `' Copy the selected text to the Clipboard.`\
+> rtbEdit.Copy()\
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "The area selected was Copied from the Edit area."\
+> UpdateMyStatusBar(newStr)\
+> \
+> End If\
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Paste Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Edit Paste Menu Event enables you to paste a selection to the Clipboard `\
+> Private Sub mnuEditPaste_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuEditPaste.Click\
+> `' Determine if there is any text in the Clipboard to paste into the text box.`\
+> If Clipboard.GetDataObject().GetDataPresent(DataFormats.Text) = True Then\
+> `' Determine if any text is selected in the text box.`\
+> If rtbEdit.SelectionLength \> 0 Then\
+> `' Ask user if they want to paste over currently selected text.`\
+> If MessageBox.Show("Do you want to paste over current selection?", \_\
+> "Cut Example", MessageBoxButtons.YesNo) = DialogResult.No Then\
+> `' Move selection to the point after the current selection and paste.`\
+> rtbEdit.SelectionStart = rtbEdit.SelectionStart + \_\
+> rtbEdit.SelectionLength\
+> End If\
+> End If\
+> `' Paste current text in Clipboard into text box.`\
+> rtbEdit.Paste()\
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "The Clipboard content was Pasted to the Edit area."\
+> UpdateMyStatusBar(newStr)\
+> \
+> End If\
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Find Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Edit Find Menu Event enables you to find a selection in the RTFBox, if it exists. `\
+> Private Sub mnuEditFind_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuEditFind.Click\
+> Dim message, title, defaultValue As String\
+> Dim myValue As Object\
+> message = "Enter a string to find: " ' Set prompt.\
+> title = "Find" ' Set title.\
+> If gStrValue \<\> "" Then\
+> defaultValue = gStrValue ' Set previous value.\
+> Else\
+> defaultValue = txtFindString.Text ' Set default value.\
+> End If\
+> \
+> `' Display message, title, and default value.`\
+> myValue = InputBox(message, title, defaultValue)\
+> `' set Global gStrValue for next search...`\
+> gStrValue = myValue\
+> txtFindString.Text = gStrValue\
+> `'See Public Function FindMyText(text As String) As Boolean`\
+> FindMyText(myValue)\
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "The FIND selection is: " & gStrValue & "."\
+> UpdateMyStatusBar(newStr)\
+> \
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Find Next Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Edit Find Next Menu Event enables you to find the next (instance of a) selection in the RTFBox, if it exists. `\
+> Private Sub mnuFindNext_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuFindNext.Click\
+> `'gStrCursorLocRTBEditStart = rtbEdit.SelectionStart`\
+> `'gStrCursorLocRTBEditLength = rtbEdit.SelectionLength`\
+> `'newCursorLocStr = "Start Selection: " & gStrCursorLocRTBEditStart & vbCrLf & "Selection Length: " & gStrCursorLocRTBEditLength`\
+> `'lblCursorPos.Text = newCursorLocStr`\
+> \
+> \
+> If gStrValue \<\> "" Then\
+> `'Overloaded function, User can <F3> to Find Next...`\
+> FindMyText(gStrValue, gIntCursorLocRTBEditFindNext)\
+> Else\
+> rtbEdit.Focus()\
+> End If\
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Replace All Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Edit Replace All Menu Event enables you to replace all the (instances of a) selection in the RTFBox, if ant exist. `\
+> Private Sub mnuEditReplaceAll_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuEditReplaceAll.Click\
+> cmdReplaceAll_Click(Nothing, Nothing)\
+> End Sub\
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Set Background Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Edit Set Background Menu Event enables you to change the background color of the RTFBox. `\
+> Private Sub mnuEditSetBG_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuEditSetBG.Click\
+> Dim MyDialog As New ColorDialog()\
+> `' Keeps the user from selecting a custom color.`\
+> MyDialog.AllowFullOpen = True\
+> `' Allows the user to get help. (The default is false.)`\
+> MyDialog.ShowHelp = True\
+> `' Sets the initial color select to the current text color,`\
+> `' so that if the user cancels out, the original color is restored.`\
+> MyDialog.Color = rtbEdit.ForeColor\
+> MyDialog.ShowDialog()\
+> rtbEdit.BackColor = MyDialog.Color\
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Font Picker Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Edit Font Picker Menu Event enables you to change the font of the selection in the RTFBox. `\
+> Private Sub mnuEditFontPicker_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuEditFontPicker.Click\
+> FontDialog1.ShowColor = True\
+> If FontDialog1.ShowDialog() \<\> DialogResult.Cancel Then\
+> rtbEdit.Font = FontDialog1.Font\
+> rtbEdit.ForeColor = FontDialog1.Color\
+> Debug.Write(rtbEdit.ForeColor.AntiqueWhite.ToString)\
+> \
+> End If\
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Color Picker Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Edit Color Picker Menu Event enables you to change the font color of the selection in the RTFBox. `\
+> Private Sub mnuEditColorPicker_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuEditColorPicker.Click\
+> Dim MyDialog As New ColorDialog()\
+> `' Keeps the user from selecting a custom color.`\
+> MyDialog.AllowFullOpen = True\
+> `' Allows the user to get help. (The default is false.)`\
+> MyDialog.ShowHelp = True\
+> `' Sets the initial color select to the current text color,`\
+> `' so that if the user cancels out, the original color is restored.`\
+> MyDialog.Color = rtbEdit.ForeColor\
+> MyDialog.ShowDialog()\
+> rtbEdit.ForeColor = MyDialog.Color\
+> \
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Lower Case Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Edit Lower Case Menu Event enables you to change the case of the selection to lower case. `\
+> Private Sub mnuEditLower_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuEditLower.Click\
+> rtbEdit.SelectedText = LCase(rtbEdit.Text)\
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "Apply Lower Case to selection only."\
+> UpdateMyStatusBar(newStr)\
+> \
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Upper Case Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Edit Upper Case Menu Event enables you to change the case of the selection to UPPER CASE. `\
+> Private Sub mnuEditUpper_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuEditUpper.Click\
+> rtbEdit.SelectedText = UCase(rtbEdit.Text)\
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "Apply Upper Case to selection only."\
+> UpdateMyStatusBar(newStr)\
+> \
+> End Sub\
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Insert Date Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Edit Insert Date Menu Event enables you to insert Today's Date at the top of the RTFBox. `\
+> Private Sub mnuEditInsertDate_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuEditInsertDate.Click\
+> rtbEdit.Text = Now() & vbCrLf & rtbEdit.Text\
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "Date Inserted at top of document."\
+> UpdateMyStatusBar(newStr)\
+> \
+> End Sub\
+> \
+> \
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Edit Help Contents Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Edit Help Contents Menu Event displays Help for the DobeRTFPad Solution. `\
+> Private Sub mnuHelpContents_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuHelpContents.Click\
+> Dim strTemp As String\
+> strTemp = strTemp & "Welcome to Dobe's Rich Text Format Editor" & vbCrLf\
+> strTemp = strTemp & "WARNING: RTFPad is NOT bug-free!" & vbCrLf\
+> strTemp = strTemp & " There ARE bugs." & vbCrLf & vbCrLf\
+> strTemp = strTemp & "The reason I publish this is not to compete with WORDPAD, " & vbCrLf\
+> strTemp = strTemp & "but to show the code (in VB.NET) to simulate it's behavior, " & vbCrLf\
+> strTemp = strTemp & "merely as a learning tool. If you like VB6, " & vbCrLf\
+> strTemp = strTemp & "VB.NET is similar. However, it will not deploy " & vbCrLf\
+> strTemp = strTemp & "unless the client machine is .NET Framework-enabled!" & vbCrLf & vbCrLf\
+> strTemp = strTemp & "You are welcome to use this code. It's Freeware!" & vbCrLf & vbCrLf\
+> strTemp = strTemp & "Also see the WORD (.Doc) file in root Directory of this Solution." & vbCrLf & vbCrLf\
+> strTemp = strTemp & "Screenshots and an explanation are also available at my website, " & vbCrLf\
+> strTemp = strTemp & " http:\\www.eskimo.com\\dobe" & vbCrLf & vbCrLf\
+> strTemp = strTemp & "If you improve on this code, send it in and we'll republish it!" & vbCrLf\
+> MessageBox.Show(strTemp, "Information!")\
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "See Word (.Doc) file in root Directory."\
+> UpdateMyStatusBar(newStr)\
+> \
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Help About Menu Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The Help About Menu Event allows me to tell you who wrote this and gives the version. `\
+> Private Sub mnuHelpAbout_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuHelpAbout.Click\
+> Dim strTemp As String\
+> strTemp = strTemp & "Welcome to Dobe's Rich Text Format Editor" & vbCrLf & vbCrLf\
+> strTemp = strTemp & "Courtesy of the Punny Name Archive" & vbCrLf\
+> strTemp = strTemp & "\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~~" & vbCrLf\
+> strTemp = strTemp & "WARNING: RTFPad is NOT bug-free!" & vbCrLf\
+> strTemp = strTemp & " There ARE bugs." & vbCrLf\
+> strTemp = strTemp & "\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~~" & vbCrLf & vbCrLf\
+> strTemp = strTemp & "You are welcome to use this version of this code as Freeware!" & vbCrLf & vbCrLf\
+> strTemp = strTemp & "All materials Copyright 2002 by John Hartman and Dobe Doinat" & vbCrLf & vbCrLf\
+> strTemp = strTemp & "Screenshots and an explanation are available at my website, " & vbCrLf\
+> strTemp = strTemp & " http:\\www.eskimo.com\\dobe\\ & vbCrLf & vbCrLf\
+> strTemp = strTemp & "\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~~" & vbCrLf\
+> strTemp = strTemp & " Version 2002.02.11.11:30AM" & vbCrLf\
+> strTemp = strTemp & "\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~~" & vbCrLf\
+> \
+> MessageBox.Show(strTemp, "About DobeRTFPadNET")\
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "See www.eskimo.com\\dobe\\ for more details."\
+> UpdateMyStatusBar(newStr)\
+> \
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## **rtbEdit**\_TextChanged() Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The rtbEdit_TextChanged Event knows when the User did something in the RichTextBox control. `\
+> Private Sub rtbEdit_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles rtbEdit.TextChanged\
+> `'Put some "rtbEdit.DetectUrls" code in here?`\
+> `'ModifierKeys code would also fit it here...`\
+> Dim locRTB As System.Drawing.Point = rtbEdit.MousePosition\
+> \
+> `'I'm doing this here, but what I really want is the CARET POSITION!`\
+> Dim newCursorLocStr As String\
+> Dim cursorLocRTBEdit As System.Drawing.Point = rtbEdit.Cursor.Position()\
+> newCursorLocStr = cursorLocRTBEdit.X & ":" & cursorLocRTBEdit.Y\
+> `' lblCursorPos.Text = newCursorLocStr`\
+> gboolUnSavedChanges = True\
+> If rtbEdit.SelectionLength \<\> 0 Then\
+> txtFindString.Text = rtbEdit.SelectedText\
+> End If\
+> \
+> Dim newStr As String\
+> newStr = "Unsaved file! Mouse: " & newCursorLocStr\
+> UpdateMyStatusBar(newStr)\
+> \
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## **cmbFontColor**\_SelectedIndexChanged() Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The rtbEdit_TextChanged Event knows when the User did something in the RichTextBox control. `\
+> \
+> Private Sub cmbFontColor_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmbFontColor.SelectedIndexChanged\
+> Dim newStr As String\
+> `' Change font colors of text using the`\
+> `' Select Case statement with the ListIndex of the`\
+> `' ComboBox control. Set the colors with`\
+> `' the intrinsic constants for color.`\
+> Select Case cmbFontColor.SelectedIndex\
+> Case 0\
+> rtbEdit.SelectionColor = System.Drawing.Color.Black\
+> rtbEdit.Focus()\
+> newStr = "The selected text has been changed to Black."\
+> UpdateMyStatusBar(newStr)\
+> Case 1\
+> rtbEdit.SelectionColor = System.Drawing.Color.Red\
+> rtbEdit.Focus()\
+> newStr = "The selected text has been changed to Red."\
+> UpdateMyStatusBar(newStr)\
+> Case 2\
+> rtbEdit.SelectionColor = System.Drawing.Color.Lime\
+> rtbEdit.Focus()\
+> newStr = "The selected text has been changed to Lime."\
+> UpdateMyStatusBar(newStr)\
+> Case 3\
+> rtbEdit.SelectionColor = System.Drawing.Color.Yellow\
+> rtbEdit.Focus()\
+> newStr = "The selected text has been changed to Yellow."\
+> UpdateMyStatusBar(newStr)\
+> Case 4\
+> rtbEdit.SelectionColor = System.Drawing.Color.Blue\
+> rtbEdit.Focus()\
+> newStr = "The selected text has been changed to Blue."\
+> UpdateMyStatusBar(newStr)\
+> Case 5\
+> rtbEdit.SelectionColor = System.Drawing.Color.Magenta\
+> rtbEdit.Focus()\
+> newStr = "The selected text has been changed to Magenta."\
+> UpdateMyStatusBar(newStr)\
+> Case 6\
+> rtbEdit.SelectionColor = System.Drawing.Color.Cyan\
+> rtbEdit.Focus()\
+> newStr = "The selected text has been changed to Cyan."\
+> UpdateMyStatusBar(newStr)\
+> Case 7\
+> rtbEdit.SelectionColor = System.Drawing.Color.White\
+> rtbEdit.Focus()\
+> newStr = "The selected text has been changed to White."\
+> UpdateMyStatusBar(newStr)\
+> End Select\
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## **cmbFontName**\_SelectedIndexChanged() Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The cmbFontName_SelectedIndexChanged() Event knows when the User changed the selection. `\
+> Private Sub cmbFontName_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmbFontName.SelectedIndexChanged\
+> Dim fontFamilyString As String 'System.Drawing.FontFamily.Families from cmbFontName combobox\
+> Dim currentFont As System.Drawing.Font = rtbEdit.SelectionFont\
+> fontFamilyString = cmbFontName.SelectedItem\
+> 'Debug.Write(cmbFontName.SelectedItem)\
+> rtbEdit.SelectionFont = New Font(fontFamilyString, currentFont.Size, currentFont.Style)\
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "The selected text has been changed to ." & fontFamilyString\
+> UpdateMyStatusBar(newStr)\
+> \
+> End Sub\
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## **cmbSize**\_SelectedIndexChanged() Event       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' The cmbSize_SelectedIndexChanged Event knows when the User did something in the ComboBox control. ` Private Sub cmbSize_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmbSize.SelectedIndexChanged\
+> Dim inewFontSize As Integer\
+> Dim currentFont As System.Drawing.Font = rtbEdit.SelectionFont\
+> inewFontSize = CInt(cmbSize.SelectedItem)\
+> \
+> \
+> `'TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!`\
+> `'This seems to fail sometimes, only at the higher sizes...`\
+> `'intermittant, therefore use a Try...Catch structure here!`\
+> rtbEdit.SelectionFont = New Font(currentFont.FontFamily, inewFontSize, currentFont.Style)\
+> rtbEdit.Focus()\
+> `'TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!TO DO...!!!`\
+> \
+> Dim newStr As String\
+> newStr = "The selected text has been changed to Font size: " & inewFontSize\
+> UpdateMyStatusBar(newStr)\
+> \
+> End Sub\
+> \
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## cmdBold       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' Command Button Events require a User to click the Bold button... ` Private Sub cmdBold_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdBold.Click\
+> Dim currentFont As System.Drawing.Font = rtbEdit.SelectionFont\
+> Dim newFontStyle As System.Drawing.FontStyle\
+> If (rtbEdit.SelectionFont.Bold) = True Then\
+> newFontStyle = FontStyle.Regular\
+> Else\
+> newFontStyle = FontStyle.Bold\
+> End If\
+> rtbEdit.SelectionFont = New Font( \_\
+> currentFont.FontFamily, \_\
+> currentFont.Size, \_\
+> newFontStyle \_\
+> )\
+> rtbEdit.Focus()\
+> Dim newStr As String\
+> newStr = "The selected text has been changed to Bold."\
+> UpdateMyStatusBar(newStr)\
+> End Sub\
+> \
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## cmdItalic       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' Command Button Events require a User to click the Italic button... ` Private Sub cmdItalic_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdItalic.Click\
+> Dim currentFont As System.Drawing.Font = rtbEdit.SelectionFont\
+> Dim newFontStyle As System.Drawing.FontStyle\
+> If (rtbEdit.SelectionFont.Italic) = True Then\
+> newFontStyle = FontStyle.Regular\
+> Else\
+> newFontStyle = FontStyle.Italic\
+> End If\
+> rtbEdit.SelectionFont = New Font( \_\
+> currentFont.FontFamily, \_\
+> currentFont.Size, \_\
+> newFontStyle \_\
+> )\
+> rtbEdit.Focus()\
+> Dim newStr As String\
+> newStr = "The selected text has been changed to Italic."\
+> UpdateMyStatusBar(newStr)\
+> End Sub\
+> \
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## cmdUnderline       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' Command Button Events require a User to click the Underline button... ` Private Sub cmdUnderline_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdUnderline.Click\
+> Dim currentFont As System.Drawing.Font = rtbEdit.SelectionFont\
+> Dim newFontStyle As System.Drawing.FontStyle\
+> If (rtbEdit.SelectionFont.Underline) = True Then\
+> newFontStyle = FontStyle.Regular\
+> Else\
+> newFontStyle = FontStyle.Underline\
+> End If\
+> rtbEdit.SelectionFont = New Font( \_\
+> currentFont.FontFamily, \_\
+> currentFont.Size, \_\
+> newFontStyle \_\
+> )\
+> rtbEdit.Focus()\
+> Dim newStr As String\
+> newStr = "The selected text has been changed to Underline."\
+> UpdateMyStatusBar(newStr)\
+> \
+> End Sub\
+> \
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## cmdLeftAlign       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' Command Button Events require a User to click the Left Align button... ` Private Sub cmdAlignLeft_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdAlignLeft.Click\
+> rtbEdit.SelectionAlignment = HorizontalAlignment.Left\
+> rtbEdit.Focus()\
+> Dim newStr As String\
+> newStr = "The selected text is aligned Left."\
+> UpdateMyStatusBar(newStr)\
+> End Sub\
+> \
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## cmdCenterAlign       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' Command Button Events require a User to click the Center Align button... ` Private Sub cmdAlignCenter_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdAlignCenter.Click\
+> rtbEdit.SelectionAlignment = HorizontalAlignment.Center\
+> rtbEdit.Focus()\
+> Dim newStr As String\
+> newStr = "The selected text is aligned Center."\
+> UpdateMyStatusBar(newStr)\
+> End Sub\
+> \
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## cmdRightAlign       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' Command Button Events require a User to click the Right Align button... ` Private Sub cmdAlignRight_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdAlignRight.Click\
+> rtbEdit.SelectionAlignment = HorizontalAlignment.Right\
+> rtbEdit.Focus()\
+> Dim newStr As String\
+> newStr = "The selected text is aligned Right."\
+> UpdateMyStatusBar(newStr)\
+> End Sub\
+> \
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## cmdFind       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' Command Button Events require a User to click the Find button... `\
+> Private Sub cmdFind_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdFind.Click\
+> mnuEditFind_Click(Nothing, Nothing)\
+> End Sub\
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## cmdReplaceAll       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' Command Button Events require a User to click the Replace All button... `\
+> Private Sub cmdReplaceAll_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdReplaceAll.Click\
+> Dim UserFindSelection As String\
+> Dim UserReplaceSelection As String\
+> UserFindSelection = txtFindString.Text\
+> UserReplaceSelection = txtReplaceString.Text\
+> Dim strTemp As String\
+> strTemp = "Are you sure you want to REPLACE ALL instances of " & \_\
+> UserFindSelection & " with " & UserReplaceSelection & " ? "\
+> If MessageBox.Show(strTemp, \_\
+> "Replace Selection?", MessageBoxButtons.YesNo) = DialogResult.Yes Then\
+> \
+> Dim bSTOP As Boolean\
+> Dim iCOUNTER As Integer ' = 0 'Count the replacements\
+> Dim iTOTAL As Integer = 0 'Total length of the document\
+> `'How to determine there are no more instances of User-input FIND word`\
+> `'`\
+> iTOTAL = rtbEdit.Text.Length\
+> `'Do Until Loop`\
+> `'gIntCursorLocRTBEditFindNext = 0`\
+> Do Until gIntCursorLocRTBEditFindNext \>= iTOTAL Or gIntCursorLocRTBEditFindNext = -1 'Or rtbEdit.SelectedText = ""\
+> `' This is where "gIntCursorLocRTBEditFindNext" is set!!!`\
+> `' returnValue = indexToText`\
+> gIntCursorLocRTBEditFindNext = FindMyText(UserFindSelection, gIntCursorLocRTBEditFindNext)\
+> Debug.Write(gIntCursorLocRTBEditFindNext & vbCrLf)\
+> iCOUNTER = iCOUNTER + 1\
+> Debug.Write(rtbEdit.SelectedText & vbCrLf)\
+> rtbEdit.SelectedText = UserReplaceSelection\
+> `' This is where "gIntCursorLocRTBEditFindNext" is set!!!`\
+> `'gIntCursorLocRTBEditFindNext = Int(rtbEdit.SelectionStart) + Int(rtbEdit.SelectionLength)`\
+> \
+> Loop\
+> rtbEdit.SelectionStart = 0\
+> rtbEdit.SelectionLength = 0\
+> `'gIntCursorLocRTBEditFindNext = 0`\
+> \
+> strTemp = "There were " & iCOUNTER & " Replacements! "\
+> MessageBox.Show(strTemp)\
+> Else\
+> strTemp = "User opted not to replace Selection. "\
+> MessageBox.Show(strTemp, "Cancelled Replace Selection!", MessageBoxButtons.OK)\
+> End If\
+> \
+> rtbEdit.Focus()\
+> \
+> Dim newStr As String\
+> newStr = "The Replace All function ALMOST works correctly!"\
+> UpdateMyStatusBar(newStr)\
+> \
+> End Sub\
+> \
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## cmdExit       <span class="small">[**Back to Subs**](#Code_Subs_Help)</span>
+>
+> \
+> ` ' Command Button Events require a User to click the Exit button... ` Private Sub cmdExit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdExit.Click\
+> If gboolUnSavedChanges = False Then\
+> Me.Close()\
+> Else\
+> If MessageBox.Show("The file you are working on has not been saved, do you wish to discard the changes?", \_\
+> "Changes were made to Editor!", MessageBoxButtons.YesNo) = DialogResult.Yes Then\
+> Me.Close()\
+> Else\
+> rtbEdit.Focus()\
+> End If\
+> End If\
+> End Sub\
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Functions       <span class="small">[**Back to TOC**](#DobeRTFPad_Code_TOC)</span>
+>
+> \
+> ` ' Functions allow for reusable code. They can return a value. ' They can be overloaded, even in Visual Basic.NET! `
+>
+> - [FindMyText(String)](#Code_Subs_Help_Function_FindMyText)
+> - [FindMyText(String, Integer)](#Code_Subs_Help_Function_FindMyTextOverloaded) `    ' This one is overloaded`\
+>       \
+> - [UpdateMyStatusBar(String)](#Code_Subs_Help_Function_UpdateMyStatusBar)
+> - [ShowDateTimeMyStatusBar( )](#Code_Subs_Help_ShowDateTimeMyStatusBar)
+>
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## FindMyText(String)       <span class="small">[**Back to TOC**](#DobeRTFPad_Code_TOC)</span>
+>
+> \
+> ` ' This function finds a text string and returns success or failure as a Boolean value. `\
+> Public Function FindMyText(ByVal text As String) As Boolean\
+> `' Initialize the return value to false by default.`\
+> Dim returnValue As Boolean = False\
+> \
+> `' Ensure a search string has been specified.`\
+> If text.Length \> 0 Then\
+> `' Obtain the location of the search string in richTextBox1.`\
+> Dim indexToText As Integer = rtbEdit.Find(text)\
+> `' Determine whether the text was found in richTextBox1.`\
+> If indexToText \>= 0 Then\
+> returnValue = True\
+> End If\
+> End If\
+> \
+> Return returnValue\
+> End Function\
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## FindMyText(String, Integer)       <span class="small">[**Back to TOC**](#DobeRTFPad_Code_TOC)</span>
+>
+> \
+> ` ' This function finds a text string and returns success or failure as a Boolean value, but uses the integer as a marker where the last Find resulted. 'Use the global var "gIntCursorLocRTBEditFindNext" to specify the current`\
+> `'coordinates as integer value of "start"...`\
+> \
+> Public Function FindMyText(ByVal text As String, ByVal start As Integer) As Integer\
+> ' Initialize the return value to false by default.\
+> Dim returnValue As Integer = -1\
+> \
+> ' Ensure that a search string has been specified and a valid start point.\
+> If text.Length \> 0 And start \>= 0 Then\
+> ' Obtain the location of the search string in richTextBox1.\
+> Dim indexToText As Integer = rtbEdit.Find(text, start, \_\
+> RichTextBoxFinds.None)\
+> ' Determine whether the text was found in richTextBox1.\
+> If indexToText \>= 0 Then\
+> returnValue = indexToText\
+> End If\
+> End If\
+> \
+> Return returnValue\
+> End Function\
+> \
+> \
+> \
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## UpdateMyStatusBar(String)       <span class="small">[**Back to TOC**](#DobeRTFPad_Code_TOC)</span>
+>
+> \
+> ` ' This function inserts the text sent as a parameter to the StatusBar Panel1. `\
+> Private Function UpdateMyStatusBar(ByVal newText As String)\
+> `' Initialize the text of the first panel in the StatusBar.`\
+> Panel1.Text = newText `'"Ready..."`\
+> End Function\
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## ShowDateTimeMyStatusBar()       <span class="small">[**Back to TOC**](#DobeRTFPad_Code_TOC)</span>
+>
+> \
+> ` ' This sub sets the date, sent as a parameter to the StatusBar Panel2. `\
+> Private Sub **ShowDateTimeMyStatusBar()**\
+> `' Set the text of the panel to the current date.`\
+> Panel2.Text = System.DateTime.Today.ToLongDateString()\
+> \
+> End Sub\
+> \
+> \
+>
+> ------------------------------------------------------------------------
+>
+> ## Timer_Tick()       <span class="small">[**Back to TOC**](#DobeRTFPad_Code_TOC)</span>
+>
+> \
+> ` ' The Timer is what makes the clock tick, can't you hear it? ` Private Sub Timer1_Tick(ByVal sender As Object, ByVal e As System.EventArgs) Handles Timer1.Tick\
+> `'When using this timer, use the Tick event to perform a polling operation`\
+> `'or to display a splash screen for a specified amount of time.`\
+> `'Whenever the Enabled property is set to true and the Interval property`\
+> `'is greater than zero, the Tick event is raised at intervals based`\
+> `'on the Interval property setting.`\
+> \
+> `'REMEMBER to set Enabled and set Interval!!!`\
+> \
+> `'Re-write all this to call functions from Timer1_Tick,`\
+> `'rather than have all the clutter here! `\
+> Dim strTimeAdjusted As String\
+> Dim strAdjHrs As String\
+> Dim strAdjMins As String\
+> Dim strAdjSecs As String\
+> Dim newMouseLocStr As String\
+> Dim newCursorLocStr As String\
+> `'`\
+> `' These two seem to deliver equivalent results...`\
+> `' Dim cursorLocRTBEdit As System.Drawing.Point = rtbEdit.Cursor.Position()`\
+> `' newCursorLocStr = cursorLocRTBEdit.X & ":" & cursorLocRTBEdit.Y`\
+> `' lblCursorPos.Text = newCursorLocStr`\
+> `'Dim mouseLocRTBEdit As System.Drawing.Point = rtbEdit.MousePosition`\
+> `'newMouseLocStr = mouseLocRTBEdit.X & ":" & mouseLocRTBEdit.Y`\
+> `'lblMousePos.Text = newMouseLocStr `\
+> \
+> gStrCursorLocRTBEditStart = rtbEdit.SelectionStart\
+> gStrCursorLocRTBEditLength = rtbEdit.SelectionLength\
+> \
+> If rtbEdit.SelectionLength \<\> 0 Then\
+> txtFindString.Text = rtbEdit.SelectedText\
+> End If\
+> \
+> `'' This is where "gIntCursorLocRTBEditFindNext" is set!!!`\
+> `'gIntCursorLocRTBEditFindNext = Int(rtbEdit.SelectionStart) + Int(rtbEdit.SelectionLength) `\
+> \
+> newCursorLocStr = "Start Selection: " & gStrCursorLocRTBEditStart & vbCrLf & "Selection Length: " & gStrCursorLocRTBEditLength\
+> lblCursorPos.Text = newCursorLocStr\
+> \
+> `''this is the only reference to the RTB caret I can find!`\
+> `''Does not return a value!`\
+> `'rtbEdit.ScrollToCaret() `\
+> \
+> If (DateTime.Now.Hour \< 10) Then\
+> strAdjHrs = "0" & DateTime.Now.Hour\
+> Else\
+> strAdjHrs = DateTime.Now.Hour\
+> End If\
+> \
+> If (DateTime.Now.Minute \< 10) Then\
+> strAdjMins = "0" & DateTime.Now.Minute\
+> Else\
+> strAdjMins = DateTime.Now.Minute\
+> End If\
+> \
+> If (DateTime.Now.Second \< 10) Then\
+> strAdjSecs = "0" & DateTime.Now.Second\
+> Else\
+> strAdjSecs = DateTime.Now.Second\
+> End If\
+> `'"Current Time: " & vbCrLf & `\
+> strTimeAdjusted = strAdjHrs & ":" & strAdjMins & ":" & strAdjSecs\
+> `'lblTime.Text = strTimeAdjusted`\
+> Panel3.Text = " " & strTimeAdjusted\
+> End Sub\
+> \
+> \
+>
+> ------------------------------------------------------------------------
+
+\
+\
+
+>            <span class="small">[**Back to the Beginning of this page**](#DobeRTFPad_Help_Start)</span>
+>
+> ## Is This Program Complete and Without Bugs?
+>
+> **No**, I ran out of time and interest, since there is plenty to do and learn... There are **known logic bugs**, for instance the **Replace All** does not work accurately. It's almost there, but it is unreliable at this point.\
+> I know the whole **Find/Replace/ReplaceAll** is normally found on a separate form. I was having trouble with this, and not knowing whether it was the Beta-ness of the program or the beginner-ness of the programmer that was in error, I moved on and left it all in one form.\
+> \
+> One important feature which I never implemented would be to track the cursor and echo the current format, i.e. font, size, alignment, etc. back to the controls. Ah, well, as I said, it is **a work in progress.**\
+> \
+> This is the same reason the **Help \| About** form is missing, replaced for now with a simple MessageBox control. Keep moving on these projects, find a workaround and just keep learning. Ask a few questions, and some of them will be answered.\
+> \
+> Now that the **honest-to-Bill** Visual Studio.NET product has been released, **( \~\~~ February 13, 2002 \~\~~ )** when will the Service Release emerge? **\|8^o**\
+> \
+> **So far, it works very well**. Even if my program, running in the IDE of VS.NET, goes into an infinite loop or otherwise crashes, it doesn't normally take down the whole IDE (Only once, and this is a Beta!), and Windows XP Pro is very stable running this Beta on a Dell Inspiron 8000 laptop with 512 Mb RAM.\
+> \
+> **Your milage may vary**.\
+
+\
+\
+
+|     |
+|-----|
+|     |
+
+------------------------------------------------------------------------
+
+<table id="PNAindex_FooterPara" width="100%" cols="2" rows="1" data-border="0" data-cellpadding="10">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;" data-valign="top" width="40%"></td>
+<td class="small_70bi" style="text-align: left;" data-valign="top" width="60%">Cut-and-pasting of code permitted for non-commercial use.<br />
+Check out my source code: <strong>&lt;Right-Click&gt; | View Source</strong><br />
+Thank you.<br />
+<a href="#DobeRTFPad_Help_Start"></a>
+<strong>Back to the Beginning of this page</strong></td>
+</tr>
+</tbody>
+</table>
+
+\

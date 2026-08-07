@@ -1,0 +1,30 @@
+
+Playoff Standings
+  1st Round       2nd Round             3rd Round             Finals
+  (Best of 7)     (Best of 7)           (Best of 7)           (Best of 7)
+1 Pho (4) ___
+8 Mem (0)    |_ 1 Phoenix (4) _____
+              _ 4 Dallas (2)       |
+4 Dal (4) ___|                     |_ 1 Phoenix (1)     _
+5 Hou (3)                           _ 2 San Antonio (4)  |
+                                   |                     |
+2 SA (4) ____                      |                     |
+7 Den (1)    |_ 2 San Antonio (4) _|                     |
+              _ 3 Seattle (2)                            |
+3 Sea (4) ___|                                           |
+6 Sac (1)                                                |_ 2 San Antonio (4)
+                                                          _ 2 Detroit (3)
+                                                         |
+1 Mia (4) ___                                            |
+8 NJ (0)     |_ 1 Miami (4)      __                      |
+              _ 5 Washington (0)   |                     |
+4 Chi (2) ___|                     |                     |
+5 Was (4)                          |_ 1 Miami (3)   _____|
+                                    _ 2 Detroit (4) 
+2 Det (4) ___                      |
+7 Phi (1)    |_ 2 Detroit (4) _____|
+              _ 6 Indiana (2)
+3 Bos (3) ___|
+6 Ind (4)
+ 
+

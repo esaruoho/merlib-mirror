@@ -1,0 +1,55 @@
+Expressions 
+
+ 3. Expressions 
+
+ 3.1
+Why doesn't
+the code
+" a[i] = i++; "
+work?
+ 3.2
+Under my compiler, the code
+" int i = 7;
+printf("%d\n", i++ * i++); "
+prints 49.
+Regardless of the order of evaluation, shouldn't it print 56?
+ 3.3
+How could
+the code
+" int i = 3;
+i = i++; "
+ever
+give 7?
+ 3.4
+Don't precedence and parentheses dictate
+order of evaluation?
+
+ 3.5
+But what about the
+ && 
+and
+ || 
+
+operators?
+ 3.8
+What's a ``sequence point''?
+ 3.9
+So
+given
+" a[i] = i++; "
+we don't know
+which cell of a[] gets written to,
+but i does get
+incremented by one.
+ 3.12
+If I'm not using the value of the expression,
+should I use i++ or ++i to increment a variable?
+ 3.14
+Why doesn't the code
+" int a = 1000, b = 1000;
+long int c = a * b; "
+work?
+ 3.16
+Can I use ?: on the left-hand side of an assignment expression?
+
+ top

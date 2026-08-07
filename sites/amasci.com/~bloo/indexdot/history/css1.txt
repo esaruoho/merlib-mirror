@@ -1,0 +1,36 @@
+Cascading Style Sheets, Level 1 
+
+ Cascading Style Sheets, Level 1 
+ = Index DOT Html/Css by Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML Support
+ History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Statistics 
+
+ Authors: Bert Bos, H&aring;kon Lie
+ Specifications 
+ Documentation -
+ http://www.w3.org/TR/REC-CSS1.html 
+ Timeline: 
+ - Earliest CSS drafts available - May, 1995
+ - CSS1 first W3C Working Draft - November, 1995
+ - CSS1 becomes W3C recommendation - December 17, 1996
+
+ What CSS1 Covers 
+
+The goals of CSS Level 1 were ambitious - to divorce, as much as possible,
+the rendering information from structured documents. This would lead to
+documents that were device independent - a goal for long-term
+maintainability. The focus of CSS1 is mainly on the visual medium of
+presenting HTML documents (controlling text content appearance
+characteristics such as color, font, spacing and surrounding boundary
+effects.) which is clearly the current dominant need for CSS.
+
+ Boring Copyright Stuff....

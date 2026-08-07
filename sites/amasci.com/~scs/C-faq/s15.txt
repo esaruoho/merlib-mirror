@@ -1,0 +1,53 @@
+Variable-Length Argument Lists 
+
+ 15. Variable-Length Argument Lists 
+
+ 15.1
+I heard that you have to #include <stdio.h> 
+before calling printf .
+Why?
+ 15.2
+How can %f be used
+for both float and double arguments
+in printf ?
+ 15.3
+Why don't function prototypes guard against mismatches
+in printf 's arguments?
+ 15.4
+How can I write a function that takes a variable number of
+arguments?
+ 15.5
+How can I write a function that takes a format string and a
+variable number of arguments, like printf , and passes them to
+ printf to do most of the work?
+ 15.6
+How can I write a function analogous to scanf ,
+that
+calls scanf to do most of the work?
+ 15.7
+I have
+a pre-ANSI
+compiler,
+without <stdarg.h> .
+What can I do?
+ 15.8
+How can I discover how many arguments a function was actually
+called with?
+ 15.9
+My compiler isn't letting me declare a function
+that accepts only variable arguments.
+ 15.10
+Why isn't
+" va_arg(argp, float) "
+working?
+ 15.11
+I can't get va_arg to pull in an argument
+of type pointer-to-function.
+ 15.12
+How can I write a function which takes a variable number of
+arguments and passes them to some other function ?
+
+ 15.13
+How can I call a function with an argument list built up at run time?
+
+ top

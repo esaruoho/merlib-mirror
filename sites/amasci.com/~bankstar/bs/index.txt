@@ -1,0 +1,50 @@
+Software Solutions for the Banking Industry from Bankstar Technologies Ltd. 
+
+ Welcome to the world wide website of Bankstar
+ Technologies Limited where professionals having decades of experience in 
+ the finance and software industries have developed state of the art banking 
+ software solution. 
+
+ Most Banks have existing legacy systems which, while are perfectly good 
+ for traditional banking products and services, do not have all the functionality 
+ required to compete in today's market place. Replacing these systems would 
+ be expensive and inconvenient. The Bankstar Systems plug into virtually 
+ any existing baseline system and give banks the advantage of providing 
+ contemporary products and services without changing their legacy systems. 
+
+ The systems we have designed are divided into 
+ three categories :- 
+ System for Commercial Banks :- These 
+ systems allow commercial banks to offer modern products to their customers. 
+ Systems for Central Banks :- These 
+ systems are designed for Central Banks of Countries. 
+ Systems for Member Banks :-These 
+ systems are designed for Member Banks which are to effect transactions 
+ with Central Bank systems. 
+ The Systems we have for Commercial Banks are 
+ :- 
+ Bill | B@AB 
+ | C-Cats | E-Bias 
+ | EC2 | Horsy | 
+ Mesa | Pay | ReconBanc | T-Con | Test 
+
+ The Systems we have for Central Banks are:- 
+
+ PICS 
+ | SAPIER 
+ The Systems we have for Member Banks are:- 
+ BankBridge | CapGen | CompCrypt | Meteor 
+
+ About 
+ Us | Customers | Environment 
+ | Contact 
+ Products [Commercial Banks] : Bill 
+ | B@AB | C-Cats 
+ | E-Bias | EC2 
+ | Horsy | Mesa | 
+ Pay | ReconBanc | T-Con | Test 
+ Products [Central Banks] : PICS 
+ | SAPIER 
+ Products 
+ [Member Banks] : BankBridge 
+ | CompCrypt | CapGen | Meteor

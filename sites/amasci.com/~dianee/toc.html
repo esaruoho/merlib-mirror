@@ -1,0 +1,524 @@
+<html>
+<head>
+<title>
+
+</title>
+<link rel="stylesheet" type="text/css" href="blue_and_white.css" />
+<base target="main" />
+</head>
+<body class="noMargins" bgcolor="#062C8D">
+<script language="JavaScript" type="text/javascript">
+<!--
+
+var previouslySelected = "";
+var previouslySelectedA = "";
+var previouslySelectedClass = "";
+var previouslyOpened = "";
+
+/***************************
+ * setCurrentItem
+ *
+ * If asked to highlight a link (given its URL)
+ * try to find it inthe current hrefs. If found,
+ * set its class to 'navCurrent'
+ ****************************/
+function setCurrentItem(URL)
+{
+	if (! document.links ) return; // unlikely!
+	for(i = 0; i< document.links.length; i++)
+	{
+		// go looking for the div of the link of this url
+		anchor = document.links[i]
+
+		if ((anchor.href) && (anchor.href.indexOf(URL) != -1))
+		{
+			if (anchor.parentElement)
+			{
+				if (previouslySelected) // unselect previously highlighted link
+				{
+					previouslySelected.className = previouslySelectedClass;
+					previouslySelectedA.className = previouslySelectedClass+"A";
+
+				}
+
+				// ensure new link is visible and open
+        // UNLESS it was already open, in which case we're responding to a 'contract' click '
+        // and expanding it is unwanted.
+        if(previouslySelected != anchor.parentElement)
+	        expandSection(anchor.parentElement.id)
+
+				// highlight it
+				previouslySelectedClass=anchor.parentElement.className
+				anchor.parentElement.className = "current"+previouslySelectedClass;
+				anchor.className = anchor.parentElement.className+"A";
+				previouslySelected=anchor.parentElement
+				previouslySelectedA=anchor
+				anchor.blur()
+			}
+		}
+	}
+	document.cookie = "@currentNavItem=" + URL + ";"
+}
+
+
+
+function onClicked(sectionID)
+{
+	contentsDiv = find_div(sectionID+"_contents")
+	if(contentsDiv){
+		if(contentsDiv.className == "sectionContentsExpanded")
+			contractSection(sectionID)
+		else
+		if(contentsDiv.className == "sectionContentsContracted")
+			expandSection(sectionID)
+	}
+}
+
+
+function expandSection(sectionID)
+{
+	// ensure its visible, by expanding its parents
+
+	// close previous sections
+	itemDiv = find_div(previouslyOpened)
+	while(itemDiv)
+	{
+		contractSection(itemDiv.id);
+		itemDiv=itemDiv.parentElement
+	}
+
+	// now open the new section
+
+	itemDiv = find_div(sectionID+"_contents")
+	if (!itemDiv) itemDiv = find_div(sectionID)
+
+	while(itemDiv)
+	{
+		if(itemDiv.className == "sectionContentsContracted")
+			itemDiv.className = "sectionContentsExpanded"
+		itemDiv=itemDiv.parentElement
+	}
+
+	sectionImage = find_div(sectionID+"_image")
+	if(sectionImage){
+		if(sectionImage.alt == "expand" ){
+			sectionImage.src="images/icon_nav_contract.gif";
+			sectionImage.alt="shrink";
+		}
+	}
+	previouslyOpened = sectionID
+}
+
+function contractSection(sectionID)
+{
+	contentsDiv = find_div(sectionID+"_contents")
+	if(contentsDiv){
+		contentsDiv.className = "sectionContentsContracted"
+	}
+	sectionImage = find_div(sectionID+"_image")
+	if(sectionImage){
+		if(sectionImage.alt == "shrink" ){
+			sectionImage.src="images/icon_nav_expand.gif";
+			sectionImage.alt="expand";
+		}
+	}
+}
+
+
+function find_div(div_name)
+// Get a Handle on the named Object
+{
+	if(document.all)
+	{
+		the_div=eval(document.all[div_name]);
+		return the_div;
+	}
+}
+
+function dump(obj, objName) {
+	if (!obj) return "Not an object?";
+  var result = ""
+  for (var i in obj) {
+		result += objName + "." + i + " = " + obj[i] + "    \t"
+	}
+	return result
+}
+
+
+ //-->
+</script>
+<div class="NavBar"><div id="destinations_index_html" class="WebSection"><a href="destinations/index.html" onClick="javascript:onClicked('destinations_index_html');" title="Our itineraries and destinations, LOTS of islands around the world!" class="WebSectionA"><img width="14" height="14" border="0" class="toggleIcon" name="destinations_index_html_image" src="images/icon_nav_expand.gif" alt="expand" />Destinations</a><div class="sectionContentsContracted" id="destinations_index_html_contents">
+
+<div id="destinations_greece_index_html" class="WebSection">
+<a href="destinations/greece/index.html" onClick="javascript:onClicked('destinations_greece_index_html');" class="WebSectionA"><img width="14" height="14" border="0" class="toggleIcon" name="destinations_greece_index_html_image" src="images/icon_nav_expand.gif" alt="expand" />Greece</a><div class="sectionContentsContracted" id="destinations_greece_index_html_contents">
+
+<div id="destinations_greece_sailing_season_html" class="WebResource"><a href="destinations/greece/sailing_season.html" onClick="javascript:onClicked('destinations_greece_sailing_season_html');" title="About sailing in the Med during the Summer months" class="WebResourceA"><img width="14" height="14" border="0" class="toggleIcon" name="destinations_greece_sailing_season_html_image" src="images/icon_nav_node.gif" alt="view" />Sailing Season</a></div>
+
+
+
+<div id="destinations_greece_where_we_sail_index_html" class="WebSection">
+<a href="destinations/greece/where_we_sail/index.html" onClick="javascript:onClicked
+('destinations_greece_where_we_sail_index_html');" title="Some of the destinations en route" 
+class="WebSectionA"><img width="14" height="14" border="0" class="toggleIcon" 
+name="destinations_greece_where_we_sail_index_html_image" src="images/icon_nav_node.gif" 
+alt="view" />Where We Sail</a></div>
+
+<div id="destinations_greece_______sailing_options_rates_index_html" class="WebResource">
+<a href="destinations/greece/../../sailing_options/rates/index2.html" 
+onClick="javascript:onClicked('destinations_greece_______sailing_options_rates_index2_html');
+" title="How cheap it is to cruise with SeaScape" class="WebResourceA"><img width="14" height="14" 
+border="0" class="toggleIcon" name="destinations_greece_______sailing_options_rates_index_html_image"
+ src="images/icon_nav_node.gif" alt="view" />Rates 2005</a></div>
+
+
+</div>
+
+<!--
+
+<div id="destinations_greece_the_chart_room_index_html" class="WebResource">
+<a href="destinations/greece/the_chart_room/index.html" 
+onClick="javascript:onClicked('destinations_greece_the_chart_room_index_html');
+" title="Plot your own course around the islands" class="WebResourceA"><img width="14" height="14"
+ border="0" class="toggleIcon" name="destinations_greece_the_chart_room_index_html_image" 
+src="images/icon_nav_node.gif" alt="view" />The Chart Room</a></div>
+
+<div id="destinations_greece_______who_is_seascape_seascape_screensaver_html" class="WebResource">
+<a href="destinations/greece/../../who_is_seascape/seascape_screensaver.html"
+ onClick="javascript:onClicked('destinations_greece_______who_is_seascape_seascape_screensaver_html');
+" title="A free screensaver featuring scenes of the Greek islands we visit!" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" 
+name="destinations_greece_______who_is_seascape_seascape_screensaver_html_image" 
+src="images/icon_nav_node.gif" alt="view" />Screensaver</a></div></div></div>
+
+-->
+ 
+
+<div id="destinations_turkey_index_html" class="WebSection"><a href="destinations/turkey/index.html"
+ onClick="javascript:onClicked('destinations_turkey_index_html');" class="WebSectionA"><img width="14" 
+height="14" border="0" class="toggleIcon" name="destinations_turkey_index_html_image"
+ src="images/icon_nav_expand.gif" alt="expand" />Turkey</a><div class="sectionContentsContracted"
+ id="destinations_turkey_index_html_contents">
+
+<div id="destinations_turkey_sailing_season_html" class="WebResource">
+<a href="destinations/turkey/sailing_season.html" 
+onClick="javascript:onClicked('destinations_turkey_sailing_season_html');
+" title="About sailing in the Med during the Summer months" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" 
+name="destinations_turkey_sailing_season_html_image" src="images/icon_nav_node.gif" 
+alt="view" />Sailing Season</a></div>
+
+
+
+<div id="destinations_turkey_where_we_sail_index_html" class="WebSection">
+<a href="destinations/turkey/where_we_sail/index.html"
+ onClick="javascript:onClicked('destinations_turkey_where_we_sail_index_html');
+" title="Some of the destinations en route" class="WebSectionA"><img width="14"
+ height="14" border="0" class="toggleIcon" name="destinations_turkey_where_we_sail_index_html_image" 
+src="images/icon_nav_node.gif" alt="view" />Where We Sail</a></div>
+
+<div id="destinations_turkey_______sailing_options_rates_index2_html" class="WebResource">
+<a href="destinations/turkey/../../sailing_options/rates/index2.html"
+ onClick="javascript:onClicked('destinations_turkey_______sailing_options_rates_index_html');
+" title="How cheap it is to cruise with SeaScape" class="WebResourceA"><img width="14" 
+height="14" border="0" class="toggleIcon" 
+name="destinations_turkey_______sailing_options_rates_index_html_image"
+ src="images/icon_nav_node.gif" alt="view" />Rates 2005</a></div>
+
+
+</div></div>
+
+<div id="destinations_greece_and_turkey_index_html" class="WebSection">
+<a href="destinations/greece_and_turkey/index.html" 
+onClick="javascript:onClicked('destinations_greece_and_turkey_index_html');" 
+class="WebSectionA"> <img width="14" height="14" border="0" class="toggleIcon" 
+name="destinations_greece_and_turkey_index_html_image" src="images/icon_nav_expand.gif" 
+alt="expand" />Greece-and-Turkey</a><div class="sectionContentsContracted"
+ id="destinations_greece_and_turkey_index_html_contents">
+
+<div id="destinations_greece_and_turkey_sailing_season_html" class="WebResource">
+<a href="destinations/greece_and_turkey/sailing_season.html" 
+onClick="javascript:onClicked('destinations_greece_and_turkey_sailing_season_html');
+" title="About sailing in the Med during the Summer months" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" 
+name="destinations_greece_and_turkey_sailing_season_html_image"
+ src="images/icon_nav_node.gif" alt="view" />Sailing Season</a></div>
+
+
+<div id="destinations_greece_and_turkey_where_we_sail_index_html" class="WebSection">
+<a href="destinations/greece_and_turkey/where_we_sail/index.html"
+ onClick="javascript:onClicked('destinations_greece_and_turkey_where_we_sail_index_html');"
+ title="Some of the destinations en route" class="WebSectionA">
+<img width="14" height="14" border="0" 
+class="toggleIcon" name="destinations_greece_and_turkey_where_we_sail_index_html_image"
+ src="images/icon_nav_node.gif" alt="view" />Where We Sail</a></div> 
+
+<div id="destinations_greece_and_turkey_______sailing_options_rates_index2_html" 
+class="WebResource"><a href="destinations/greece_and_turkey/../../sailing_options/rates/index2.html"
+ onClick="javascript:onClicked('destinations_greece_and_turkey_______sailing_options_rates_index2_html');
+" title="SeaScap's summer 2005 rates" class="WebResourceA"><img width="14" height="14" 
+border="0" class="toggleIcon"
+ name="destinations_greece_and_turkey_______sailing_options_rates_index_html_image" 
+src="images/icon_nav_node.gif" alt="view" />Rates 2005</a></div>
+
+
+</div></div>
+ 
+<div id="destinations_thailand_index_html" class="WebSection">
+<a href="destinations/thailand_and_burma/index.html" onClick="javascript:onClicked('destinations_thailand_index_html');" class="WebSectionA">
+<img width="14" height="14" border="0" class="toggleIcon" name="destinations_thailand_index_html_image" src="images/icon_nav_expand.gif" alt="expand" />Thailand</a>
+<div class="sectionContentsContracted" id="destinations_thailand_index_html_contents">
+
+<div id="destinations_thailand_thailand_dates_html" class="WebResource">
+<a href="destinations/thailand_and_burma/bt_dates.html" onClick="javascript:onClicked('destinations_thailand_thailand_dates_html');" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="destinations_thailand_thailand_dates_html_image" src="images/icon_nav_node.gif" alt="view" />Thailand Dates</a>
+</div>
+<div id="destinations_thailand_whats_included_html" class="WebResource">
+<a href="destinations/thailand_and_burma/whats_included_bt.html" onClick="javascript:onClicked('destinations_thailand_whats_included_html');" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="destinations_thailand_whats_included_html_image" src="images/icon_nav_node.gif" alt="view" />Whats Included</a>
+</div>
+<div id="destinations_thailand_where_we_sail_index_html" class="WebSection">
+<a href="destinations/thailand_and_burma/where_we_sail_bt/index.html" onClick="javascript:onClicked('destinations_thailand_where_we_sail_index_html');" class="WebSectionA">
+<img width="14" height="14" border="0" class="toggleIcon" name="destinations_thailand_where_we_sail_index_html_image" src="images/icon_nav_node.gif" alt="view" />Where We Sail</a>
+</div>
+</div>
+</div> 
+<div id="destinations_australia_index_html" class="WebSection">
+<a href="destinations/australia/index.html" onClick="javascript:onClicked('destinations_australia_index_html');" class="WebSectionA">
+<img width="14" height="14" border="0" class="toggleIcon" name="destinations_australia_index_html_image" src="images/icon_nav_expand.gif" alt="expand" />Australia</a>
+<div class="sectionContentsContracted" id="destinations_australia_index_html_contents">
+<div id="destinations_australia_sailing_season_australia_html" class="WebResource">
+<a href="destinations/australia/sailing_season_australia.html" onClick="javascript:onClicked('destinations_australia_sailing_season_australia_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="destinations_australia_sailing_season_australia_html_image" src="images/icon_nav_node.gif" alt="view" />Sailing season</a>
+</div>
+<div id="destinations_australia_where_we_sail_index_html" class="WebSection">
+<a href="destinations/australia/where_we_sail/index.html" onClick="javascript:onClicked('destinations_australia_where_we_sail_index_html');" title="Some of the destinations en route" class="WebSectionA">
+<img width="14" height="14" border="0" class="toggleIcon" name="destinations_australia_where_we_sail_index_html_image" src="images/icon_nav_node.gif" alt="view" />Where We Sail</a>
+</div>
+<div id="destinations_australia_australia_dates_html" class="WebResource">
+<a href="destinations/australia/australia_dates.html" onClick="javascript:onClicked('destinations_australia_australia_dates_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="destinations_australia_australia_dates_html_image" src="images/icon_nav_node.gif" alt="view" />Dates and Rates</a>
+</div>
+<div id="destinations_australia_whats_included_australia_html" class="WebResource">
+<a href="destinations/australia/whats_included_australia.html" onClick="javascript:onClicked('destinations_australia_whats_included_australia_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="destinations_australia_whats_included_australia_html_image" src="images/icon_nav_node.gif" alt="view" />Whats included</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="sailing_options_index_html" class="WebSection">
+<a href="sailing_options/index.html" onClick="javascript:onClicked('sailing_options_index_html');" title="Prices, Dates, and Booking Options" class="WebSectionA">
+<img width="14" height="14" border="0" class="toggleIcon" name="sailing_options_index_html_image" src="images/icon_nav_expand.gif" alt="expand" />Sailing Options</a>
+<div class="sectionContentsContracted" id="sailing_options_index_html_contents">
+<div id="sailing_options_general_info_html" class="WebResource">
+<a href="sailing_options/general_info.html" onClick="javascript:onClicked('sailing_options_general_info_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="sailing_options_general_info_html_image" src="images/icon_nav_node.gif" alt="view" />General Info</a>
+</div>
+<div id="sailing_options_the_adventure_sailing_concept_html" class="WebResource">
+<a href="sailing_options/the_adventure_sailing_concept.html" onClick="javascript:onClicked('sailing_options_the_adventure_sailing_concept_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="sailing_options_the_adventure_sailing_concept_html_image" src="images/icon_nav_node.gif" alt="view" />The Adventure Sailing Concept</a>
+</div>
+<div id="sailing_options_share_a_boat_html" class="WebResource">
+<a href="sailing_options/share_a_boat.html" onClick="javascript:onClicked('sailing_options_share_a_boat_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="sailing_options_share_a_boat_html_image" src="images/icon_nav_node.gif" alt="view" />Share A Boat</a>
+</div>
+<div id="sailing_options_singles_sailing_html" class="WebResource">
+<a href="sailing_options/singles_sailing.html" onClick="javascript:onClicked('sailing_options_singles_sailing_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="sailing_options_singles_sailing_html_image" src="images/icon_nav_node.gif" alt="view" />Singles Sailing</a>
+</div>
+<div id="sailing_options____sailing_options_bring_your_own_group_index_html" class="WebResource">
+<a href="sailing_options/../sailing_options/bring_your_own_group/index.html" 
+onClick="javascript:onClicked('sailing_options____sailing_options_bring_your_own_group_index_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="sailing_options____sailing_options_bring_your_own_group_index_html_image" src="images/icon_nav_node.gif" alt="view" />Bring Your Own Group</a>
+</div>
+</div>
+</div>
+
+<!--
+
+
+<div id="sailing_options____sailing_options_rates_index_html" class="WebResource">
+<a href="sailing_options/../sailing_options/rates/index.html" 
+onClick="javascript:onClicked('sailing_options____sailing_options_rates_index2_html');
+" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" 
+name="sailing_options____sailing_options_rates_index_html_image" src="images/icon_nav_node.gif" 
+alt="view" />Rates 2005</a>
+
+-->
+
+</div>
+<div id="our_yachts_and_crew_index_html" class="WebSection">
+<a href="our_yachts_and_crew/index.html" onClick="javascript:onClicked('our_yachts_and_crew_index_html');" title="Who we are and how we get around" class="WebSectionA">
+<img width="14" height="14" border="0" class="toggleIcon" name="our_yachts_and_crew_index_html_image" src="images/icon_nav_expand.gif" alt="expand" />Our Yachts And Crew</a>
+<div class="sectionContentsContracted" id="our_yachts_and_crew_index_html_contents">
+<div id="our_yachts_and_crew_meet_the_team_html" class="WebResource">
+<a href="our_yachts_and_crew/meet_the_team.html" onClick="javascript:onClicked('our_yachts_and_crew_meet_the_team_html');" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="our_yachts_and_crew_meet_the_team_html_image" src="images/icon_nav_node.gif" alt="view" />Meet The Team</a>
+</div>
+<div id="our_yachts_and_crew_our_yachts_index_html" class="WebSection">
+<a href="our_yachts_and_crew/our_yachts/index.html" onClick="javascript:onClicked('our_yachts_and_crew_our_yachts_index_html');" class="WebSectionA">
+<img width="14" height="14" border="0" class="toggleIcon" name="our_yachts_and_crew_our_yachts_index_html_image" src="images/icon_nav_node.gif" alt="view" />Our Yachts</a>
+</div>
+<div id="our_yachts_and_crew_reviews_index_html" class="WebSection">
+<a href="our_yachts_and_crew/reviews/index.html" onClick="javascript:onClicked('our_yachts_and_crew_reviews_index_html');" class="WebSectionA">
+<img width="14" height="14" border="0" class="toggleIcon" name="our_yachts_and_crew_reviews_index_html_image" src="images/icon_nav_expand.gif" alt="expand" />Reviews</a>
+<div class="sectionContentsContracted" id="our_yachts_and_crew_reviews_index_html_contents">
+<div id="our_yachts_and_crew_reviews_reviews_page2_html" class="WebResource">
+<a href="our_yachts_and_crew/reviews/reviews_page2.html" onClick="javascript:onClicked('our_yachts_and_crew_reviews_reviews_page2_html');" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="our_yachts_and_crew_reviews_reviews_page2_html_image" src="images/icon_nav_node.gif" alt="view" />Reviews Page2</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="info_and_FAQs_index_html" class="WebSection">
+<a href="info_and_FAQs/index.html" onClick="javascript:onClicked('info_and_FAQs_index_html');" title="Details, advice, and resources" class="WebSectionA">
+<img width="14" height="14" border="0" class="toggleIcon" name="info_and_FAQs_index_html_image" src="images/icon_nav_expand.gif" alt="expand" />Info And FAQs</a>
+<div class="sectionContentsContracted" id="info_and_FAQs_index_html_contents">
+<div id="info_and_FAQs_faq_html" class="WebResource">
+<a href="info_and_FAQs/faq.html" onClick="javascript:onClicked('info_and_FAQs_faq_html');" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="info_and_FAQs_faq_html_image" src="images/icon_nav_node.gif" alt="view" />Faq</a>
+</div>
+<div id="info_and_FAQs_notes_for_newbies_html" class="WebResource">
+<a href="info_and_FAQs/notes_for_newbies.html" onClick="javascript:onClicked('info_and_FAQs_notes_for_newbies_html');" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="info_and_FAQs_notes_for_newbies_html_image" src="images/icon_nav_node.gif" alt="view" />Notes For Newbies</a>
+</div>
+<div id="info_and_FAQs_our_philosophy_html" class="WebResource">
+<a href="info_and_FAQs/our_philosophy.html" onClick="javascript:onClicked('info_and_FAQs_our_philosophy_html');" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="info_and_FAQs_our_philosophy_html_image" src="images/icon_nav_node.gif" alt="view" />Our Philosophy</a>
+</div>
+<div id="info_and_FAQs_misc_resources_html" class="WebResource">
+<a href="info_and_FAQs/misc_resources.html" onClick="javascript:onClicked('info_and_FAQs_misc_resources_html');" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="info_and_FAQs_misc_resources_html_image" src="images/icon_nav_node.gif" alt="view" />Misc Resources</a>
+</div>
+</div>
+</div>
+
+
+<!--  WHO IS SEASCAPE SECTION START -->
+
+<div id="who_is_seascape_index_html" class="WebSection">
+<a href="who_is_seascape/index.html" onClick="javascript:onClicked('who_is_seascape_index_html');
+" title="All about our organisation, and the NEWSLETTER containing travelogues and reviews" 
+class="WebSectionA">
+
+<img width="14" height="14" border="0" class="toggleIcon" name="who_is_seascape_index_html_image"
+ src="images/icon_nav_expand.gif" alt="expand" />Who Is Seascape</a>
+
+<div class="sectionContentsContracted" id="who_is_seascape_index_html_contents">
+
+<!--
+
+<div id="who_is_seascape_hi_from_the_helm_html" class="WebResource">
+<a href="who_is_seascape/hi_from_the_helm.html" onClick="javascript:onClicked('who_is_seascape_hi_from_the_helm_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="who_is_seascape_hi_from_the_helm_html_image" src="images/icon_nav_node.gif" alt="view" />Hi From The Helm</a>
+</div>
+
+-->
+
+<div id="who_is_seascape_how_we_are_different_html" class="WebResource">
+<a href="who_is_seascape/how_we_are_different.html" onClick="javascript:onClicked('who_is_seascape_how_we_are_different_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="who_is_seascape_how_we_are_different_html_image" src="images/icon_nav_node.gif" alt="view" />How We Are Different</a>
+</div>
+<div id="who_is_seascape_our_newsletter_index_html" class="WebResource">
+<a href="who_is_seascape/our_newsletter/index.html" onClick="javascript:onClicked('who_is_seascape_our_newsletter_index_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="who_is_seascape_our_newsletter_index_html_image" src="images/icon_nav_node.gif" alt="view" />Our Newsletter</a>
+</div>
+<div id="who_is_seascape_seascape_screensaver_html" class="WebResource">
+<a href="who_is_seascape/seascape_screensaver.html" onClick="javascript:onClicked('who_is_seascape_seascape_screensaver_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="who_is_seascape_seascape_screensaver_html_image" src="images/icon_nav_node.gif" alt="view" />Screensaver</a>
+</div>
+</div>
+</div>
+<div id="cool_deals_html" class="WebResource">
+<a href="cool_deals.html" onClick="javascript:onClicked('cool_deals_html');" title="The latest offers and news on up-to-date deals" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="cool_deals_html_image" src="images/icon_nav_node.gif" alt="view" />Cool Deals</a>
+</div>
+
+
+<!-- PHOTO GALLERY SECTION START -->
+
+
+<div id="photo_gallery_index_html" class="WebSection">
+<a href="photo_gallery/index.html" onClick="javascript:onClicked('photo_gallery_index_html');" title="This is what it's like out here!" class="WebSectionA">
+<img width="14" height="14" border="0" class="toggleIcon" name="photo_gallery_index_html_image" src="images/icon_nav_expand.gif" alt="expand" />Photo Gallery</a>
+<div class="sectionContentsContracted" id="photo_gallery_index_html_contents">
+</div>
+
+ 
+
+
+<!-- CONTACT US SECTION START -->
+
+
+<div id="contact_us_index_html" class="WebSection">
+<a href="contact_us/index.html" onClick="javascript:onClicked('contact_us_index_html');" title="Ready to book yet? ASK us for more!" class="WebSectionA">
+<img width="14" height="14" border="0" class="toggleIcon" name="contact_us_index_html_image" src="images/icon_nav_expand.gif" alt="expand" />Contact Us</a>
+<div class="sectionContentsContracted" id="contact_us_index_html_contents">
+
+
+<div id="contact_us_how_to_book_html" class="WebResource">
+<a href="contact_us/how_to_book.html" onClick="javascript:onClicked('contact_us_how_to_book_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="contact_us_how_to_book_html_image" src="images/icon_nav_node.gif" alt="view" />How To Book</a>
+</div>
+<div id="contact_us_booking_conditions_html" class="WebResource">
+<a href="contact_us/booking_conditions.html" onClick="javascript:onClicked('contact_us_booking_conditions_html');" title="" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="contact_us_booking_conditions_html_image" src="images/icon_nav_node.gif" alt="view" />Booking Conditions</a>
+</div>
+<div id="contact_us_keep_me_posted_html" class="WebResource">
+<a href="contact_us/keep_me_posted.html" onClick="javascript:onClicked('contact_us_keep_me_posted_html');" class="WebResourceA">
+<img width="14" height="14" border="0" class="toggleIcon" name="contact_us_keep_me_posted_html_image" src="images/icon_nav_node.gif" alt="view" />Keep Me Posted</a>
+</div>
+</div>
+</div>
+
+<div id="rates05_index_html" class="WebSection">
+<a href="sailing_options/rates/index2.html" onClick="javascript:onClicked('sailing_options_rates_index2_html');" title="Dates and
+Rates 2005" class="WebSectionA">
+<img width="14" height="14" border="0" class="toggleIcon" name="rates05_index2_html_image" src="images/icon_nav_expand.gif" alt="expand" />Dates & Rates 2005</a>
+<div class="sectionContentsContracted" id="rates05_index_html_contents">
+</div>
+</div>
+</div>
+
+
+<div id="home_html" class="WebSection">
+<a href="home.html" onClick="javascript:onClicked('index_html');" title="Back to Home base..." class="WebSectionA">
+<img width="14" height="14" border="0" class="toggleIcon" name="home_html_image" src="images/icon_nav_expand.gif" alt="expand" />HOME</a>
+<div class="sectionContentsContracted" id="home_html_contents">
+
+</div>
+</div>
+</div>
+
+<!-- PHOTO GALLERY SECTION START -->
+
+
+
+
+
+
+
+
+</div>
+</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+if(c=document.cookie)
+{
+	c=c.substring(1);
+	var pairs=c.split(";");
+	for(p in pairs){
+		var pair=pairs[p].split("=");
+		if(pair[0]=="currentNavItem"){
+			setCurrentItem(pair[1])
+		}
+	}
+}
+
+//-->
+</script>
+<div class="preload"></div>
+</body>
+</html>

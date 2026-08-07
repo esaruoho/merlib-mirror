@@ -1,0 +1,84 @@
+Counter-Reset - Cascading Style Sheets Properties 
+
+ counter-reset 
+ Support Key: 
+ [ CSS2 ] [ O4 ] 
+ Other Generated Content Properties 
+
+ content 
+ quotes 
+ counter-increment 
+ include-source 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ none 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ No 
+ Applicable Media: 
+ All 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ The 'counter-reset' property acts like a variable assignment in a
+ programming language - it sets a new value for the specified
+ counter whenever the current CSS selector is encountered. The
+ property lists one or more counter labels, each followed by an
+ optional integer reset value (default reset value is 0.)
+
+ If a counter is reset AND rendered using a single CSS selector
+ (with the 'content' property and 'before:'/'after:' pseudo-elements),
+ it should be reset first, then rendered. If a single CSS selector
+ both increments and resets a counter, it is reset, then incremented.
+
+ Allowed Values 
+ inherit 
+ [ CSS2 ] [ O4 ] 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ none 
+ [ CSS2 ] [ O4 ] 
+ Type: Explicit 
+ Description: 
+ Suppresses reseting of counters for the current selector. 
+
+ [identifier integer] 
+ [ CSS2 ] [ O4 ] 
+ Type: Explicit 
+ Syntax: ([identifier] [integer]? )+
+ Description: 
+ Specifies one or more counters to reset and the values to reset each one to. 
+
+ Example 
+ Ext/Doc: 
+ h1:before { 
+ counter-increment: main-heading; 
+ counter-reset: sub-heading; 
+ content: "Section " counter(main-heading) ":" } 
+ In-Line: NA 
+
+ Notes 
+
+ An element whose 'display' property is set to "none" should not 
+ be able to reset a counter.
+ An element whose 'visibility' property is set to "hidden" should 
+ be able to reset a counter.
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

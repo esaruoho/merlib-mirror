@@ -1,0 +1,43 @@
+---
+title: "The Cast of Gormenghast"
+source_domain: amasci.com
+source_path: ~rkj/weekly/aa060500c.htm
+order: 6906
+reachable_from_entry: false
+images: 2
+internal_links: 5
+extracted: 2026-08-07T05:59:41Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Cast of Gormenghast
+
+*Source page: `~rkj/weekly/aa060500c.htm`*
+
+THE INCREDIBLE CAST \> Page [**1**](aa060500a.htm), [**2**](aa060500b.htm)**, 3**
+
+Leading the cast of *Gormenghast* is the brilliant young actor Jonathan Rhys Meyers as the sinister Steerpike. Meyers, already a veteran of movies like *Velvet Goldmine*, *Titus* (with Anthony Hopkins), and *Ride with the Devil*, is absolutely riveting on screen and is going to be a huge, huge star someday based on his charisma, good looks, and talent. The Irish-born Meyers still gets nervous performing and was worried he would "fall flat on my face." He says, "There is a lot of pain, paranoia, self doubt and self consciousness. I have never felt happy or satisfied with anything I've done. You have to push yourself and be hungry," aspects of which are perfect in aiding his character as he stabs backs, makes alliances, and keeps moving up.
+
+Lord Groan, the head of the dynasty that inhabit Gormenghast, is played by veteran Ian Richardson, most famous as the devious Francis Urquhart in the *House Of Cards* trilogy. Richardson has been fighting the typecasting which has plagued him since those successes, and was excited when offered the part in *Gormenghast* saying, "I thought, here at last is something completely different."
+
+<img src="../graphics/gormen6.JPG" data-align="right" data-hspace="0" data-nosave="" width="253" height="385" alt="Christopher Lee" />Christopher Lee has been acting for an amazing 53 years, including memorable turns as Dracula and a villain in a James Bond movie. In *Gormenghast* he plays the vital part of Flay, the faithful retainer to Lord Groan. He described the part saying, "From my point of view, it is one of the biggest challenges I have ever had. Flay does not talk like ordinary people, he does not come out with grammatical sentences. He just says things like 'you, here, no.' It is not easy to get over what I mean, when I have got very little opportunity to say many words. I have to get this brutal, at times savage and unforgiving, but also very gentle and loyal figure across. It is a huge test." Lee is unique among the huge cast in that he knew author Mervyn Peak in 1950s London. "I used to meet him at the old Harrod's Library when it still existed," he recalls. "He was a charming, delightful man, very quiet, reserved with beautiful blue eyes, good looking, very gentle. Obviously an extraordinary man. He invented a world and a language and almost a race of his own."
+
+Zo Wanamaker, a star of the television drama *Love Hurts*, and *Electra* on Broadway in New York, plays the daffy and demented Clarice, twin sister to Cora (Lynsey Baxter). "Clarice and her sister Cora are very stupid," she explains. "They have been left by the rest of Gormenghast society, they are still in Darwin's waiting room." Which makes them the perfect pawns in Steerpike's plan, as he plays on their vanity and thirst for power, with tragic results.
+
+<img src="../graphics/gormen3.JPG" data-align="left" data-hspace="0" data-nosave="" width="124" height="200" alt="Celia Imrie" />Celia Imrie has recently appeared in such diverse productions as [Victoria Wood's](aa020600a.htm) *dinnerladies*, and [*Star Wars: The Phantom Menace*](aa051799.htm). In *Gormenghast* she plays the bigger-than-life Lady Groan, who is obsessed with a room full of cats and her pet bird. She says, "After [*Star Wars*](http://starwars.about.com) I didn't think I would ever do something that big again, but here I am in *Gormenghast*. Now I am wondering 'what do you do after *Gormenghast*, what could compare with this?'." Malcolm McKay's scripts first persuaded her to take on the role of the giant Lady Groan which, "I just knew was a cracking good part. It's wonderful to be able to do something that is absolutely not a costume drama. It is so completely different."
+
+Comic and impressionist John Sessions plays Prunesquallor, physician to the Groan's who initially - if reluctantly - takes Steerpike on as an apprentice. Sessions is best known in *Stella Street* where he plays a number of well known celebrities.
+
+Warren Mitchell is famous in Britain as Alf Garnett, the precursor to Archie Bunker in *Till Death Us Do Part*. In *Gormenghast*, he is nearly unrecognizable as Barquentine, the keeper of the rituals which make up the days, months, and years of the Groan family.
+
+Richard Griffiths played the culinary detective Henry Crabbe in the BBC's *Pie In the Sky*, but in *Gormenghast* becomes Swelter, the most monstrous man to ever run a kitchen, making it clear why Steerpike originally wants to escape.
+
+Fuchsia, sister to Titus Groan, and the object of affection of Steerpike, is played by Neve McIntosh, who also appeared in the Channel 4 drama *Psychos*. She described her character as "somebody caged up. She locks herself in her attic where she lives in her imagination. All she wants is a knight in shining armor to come up to the castle tower and carry her off." What she gets with Steerpike is a completely different kettle of fish.
+
+Nannie Slagg is played by *EastEnders* veteran June Brown, famous as "Dot Cotton" on the popular soap opera. She was happy to get time off from the series in order to do *Gormenghast*, and the chance to appear opposite actors like Ian Richardson and Warren Mitchell.
+
+Also appearing in *Gormenghast* are several comedians who were huge fans of the novels and literally begged to have a part, however small in the series.  Stephen Fry, Martin Clunes (*Men Behaving Badly*), Steve Pemberton ([*The League Of Gentlemen*](aa080799.htm)), Phil Cornwell (*Big Train*), and Mark Williams all make appearances as professors at the school young Titus Groan attends.
+
+**\>** \> Page [**1**](aa060500a.htm), [**2**](aa060500b.htm)**, 3**
+
+[**Previous Features**](mpreviss.htm)

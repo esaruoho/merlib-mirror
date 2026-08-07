@@ -1,0 +1,12 @@
+Attached you will find a file of context diffs from our source tree             
+('forte') back to the 4.2 release of Crypto++ ('release').
+
+This tree compiles on Solaris5.8 (Sparc) using the forte c++ compiler from
+Sun Workshop 6 update 2:
+CC: Sun WorkShop 6 update 2 C++ 5.3 Patch 111685-07 2002/04/10       
+unpatched versions of the compiler cannot build a working library - the
+crypto++ library seems to  be especially dependant on the C++ compiler 
+version.
+
+These changes have been tested also on linux/powerpc/g++ and 
+linux/x86/g++.

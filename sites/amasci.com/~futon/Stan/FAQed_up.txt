@@ -1,0 +1,79 @@
+Stan's FAQed-up Homepage 
+
+ Stan's FAQed-up Homepage 
+
+ Hello! 
+ Welcome to my "FAQed-up" page. I hope you find it useful. If you have
+any suggestions for FAQ's to add to it, send me a message at 
+sgregory@sprynet.com . (Right now I would really like some more hardware FAQ's :) ) 
+ Currently, I list FAQ's (and a few other FAQ-like references) in several,
+general categories. I try to keep them in near-alphabetical order, but the
+word I am sorting by may not be completely obvious, so I have it emphasized 
+in my list. A few FAQ titles don't have any word emphasized, which means no
+particular word made sense to me to file the FAQ under, and therefore it isn't
+sorted. You'll figure it out. :) 
+
+ Choose a FAQ to read: 
+ Hardware
+
+ The Navas 28800 Modem FAQ 
+
+ Software
+
+ The alt.winsock FAQ 
+ Cello FAQ 
+ The CGI FAQ: General Questions 
+ Descent FAQ 
+ Anonymous FTP : Frequently Asked Questions (FAQ) List 
+ Gopher FAQ 
+ Graphics File Formats FAQ (Part 1 of 4): General Graphics Format Questions 
+ Internet & Unix Shell Account Frequently Asked Questions 
+ Frequently Asked Questions About Internet Explorer 2.0 
+ Internet Phone: Frequently Asked Questions 
+ Linux Frequently Asked Questions with Answers 
+ About Lynx 
+ The mIRC Homepage 
+ Mosaic FAQ list 
+ NewsXpress FAQ 
+ Pegasus Mail : Frequently Asked Questions 
+ The Slip Emulator FAQ 
+ The Slipknot FAQ 
+ SLiRP and PPP FAQ 
+ Spell Check 3.2a Most Frequently Asked Questions 
+ Trumpet Winsock FAQ 
+ Frequently Asked Questions About Virtual Explorer 
+ W3C Frequently Asked Questions 
+ The Winsock FAQ 
+ World Wide Web FAQ 
+ WWW FAQ: Microsoft Windows browsers 
+ WWW FAQ: MSDOS Browsers 
+
+Jellyware
+
+ [ alt.backrubs ] Frequently Asked Questions (FAQL), (Intro) 
+
+ [ alt.backrubs ] Frequently Asked Questions (FAQL), all parts 
+
+ [ alt.backrubs ] FTP archive site 
+ soc.couples.wedding FAQ 
+
+ Noware (Misc. FAQ's)
+
+ Bonsai FAQ 
+ The rec.food. chocolate FAQ 
+ Copyright Myths FAQ: 10 big myths about copyright explained 
+ FAQ: How to find people's E-mail addresses 
+ (Unofficial) Eskimo North FAQ 
+ Intellectual Property Law Primer For Multimedia Developers 
+ How to Receive Banned Newsgroups FAQ 
+ How to find the right place to post (FAQ) 
+
+ Webspace generously donated by: 
+The Retail/Wholesale Futon Outlet Page .
+
+ Return to Stan's Homepage. 
+
+Stan's FAQed-up Homepage / http://www.eskimo.com/~futon/Stan/FAQed_up.html /
+ sgregory@sprynet.com 
+
+[ &#169; Copyright 1995-1996 Stanley F. Gregory | Most recent update: 1/17/96 ]

@@ -1,0 +1,31 @@
+---
+title: "all_oil_pressure_senders"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/engine/all_oil_pressure_senders.html
+order: 2187
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# all_oil_pressure_senders
+
+*Source page: `~dalus/bmw/all/engine/all_oil_pressure_senders.html`*
+
+[UnofficialBMW.com](http://www.unofficialbmw.com)
+
+\[an error occurred while processing this directive\] <span id="null">From digest.v9.n1007 Wed Mar 3 11:39:14 1999</span>\
+**[From: "Steve D'Gerolamo" \<steved3@IDT.NET\>](mailto:steved3@IDT.NET)**\
+Date: Wed, 03 Mar 1999 12:58:08 -0500\
+**[Subject: Oil Pressure Senders](mailto:steved3@IDT.NET?SUBJECT=Oil%20Pressure%20Senders)**\
+
+The oil pressure sender has been a source of oil leaks on BMW's for as long as I've been selling parts. The metal/nylon seam is where the leaks generally occur. Because these senders are so prone to failure, the aftermarket is abundant with cheap replacements. These parts cost the distributor between \$1.50-2.00 for the common "274" sender. In fact, unless you buy your parts through the dealer or someone who knows the difference, you're likely to get an Italian Facet or some other lesser quality replacement. A lower quality part is more likely to start leaking in the first 6 months and you may have problems getting the oil light to go out.
+
+To differentiate a good one from a poor one, look for a sender with a metal hex portion of 24mm (not 21 or 22) and there should be at least 3 crimps securing the metal to the nylon. Also, the sealing washer should be a 2mm thick copper part, not aluminum and not a thin copper seal. SD
+
+------------------------------------------------------------------------
+
+Steve D'Gerolamo - The Ultimate Garage\
+[201-262-0412 / steved3@idt.net / http://www.ultimategarage.com](http://www.ultimategarage.com)

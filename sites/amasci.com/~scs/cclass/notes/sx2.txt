@@ -1,0 +1,64 @@
+Chapter 2: Basic Data Types and Operators 
+
+ Chapter 2: Basic Data Types and Operators 
+
+ The type of a variable
+determines what kinds of values it may take on.
+An operator computes new values out of old ones.
+An expression consists of variables, constants, and
+operators combined to perform some useful computation.
+In this chapter, we'll learn about C's basic types,
+how to
+write constants and
+declare variables of these types,
+and
+what the basic operators are.
+ As Kernighan and Ritchie say,
+``The type of an object determines the set of values it can have
+and what operations can be performed on it.''
+This is a fairly formal, mathematical definition of what a type is,
+but it is traditional (and meaningful).
+There are several implications to remember:
+ The ``set of values'' is
+finite.
+C's int type can not represent all of the integers;
+its float type can not represent all 
+floating-point numbers.
+ When you're using an object (that is, a variable) of some type,
+you
+may
+have to remember what values it can take on and what 
+operations you can perform on it.
+For example,
+there are several operators which
+play with
+
+the binary (bit-level) representation of integers,
+but these operators
+are not meaningful for
+and may not be applied to
+floating-point operands.
+ When declaring a new variable and picking a type for it,
+you have to keep in mind the values and operations you'll be needing.
+ In other words,
+picking a type for a variable is not some abstract academic exercise;
+it's closely
+connected
+to the way(s) you'll be using that variable.
+ 2.1 Types 
+ 2.2 Constants 
+ 2.3 Declarations 
+ 2.4 Variable Names 
+ 2.5 Arithmetic Operators 
+ 2.6 Assignment Operators 
+ 2.7 Function Calls 
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995, 1996
+// mail feedback

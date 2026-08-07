@@ -1,0 +1,78 @@
+#!/usr/local/bin/gawk -f
+# URLs - Will Mengarini - Extract URLs, put into HTML
+
+# Filter that inputs text containing URLs & outputs an HTML page
+# that can be used for accessing those URLs. When reading Usenet
+# with NN, I access URLs by hitting while displaying
+# an article; that's enabled by having this code
+# map show ^W (
+# save-full "|URLs >_to_lynx.htm"
+# :!lynx _to_lynx.htm
+# :!!rm _to_lynx.htm
+# redraw
+# )
+# in my .nn/init file.
+
+BEGIN {
+ numFound = 0 #There appears to be no built-in for # of lines output
+ FS = "[^`'#%./0-9:;?&=+,A-Za-z~_-]" #chars forbidden in URLs
+ prefixes = "http:|ftp:|gopher:|www\\.|ftp\\." #These indicate a URL
+ anchoredPrefixes = "^(" prefixes ")"
+ print " "
+}
+
+# There are domains that look like URLs, but they can be screened out
+# by recognizing their occurrence in header lines.
+
+/^$/{
+ inBody = 1
+}
+
+!inBody && /^Path:/ {
+ getline
+}
+
+# Some people put their URLs in HTML format, which means they have their
+# own tags. These should be displayed as they are.
+
+/ / {
+ print
+ # However, the most common error when doing this is to omit the
+ # trailing \" from the href, & when this is done, Lynx can't process
+ # the URL. Therefore, we should also process such lines as unadorned
+ # URLs, redisplaying them; thus no "++numFound; getline" here.
+}
+
+#The next thing to do is check whether there are any URLs on the line at
+#all; if not, we can save time by not messing with the line's fields.
+#If the line does have a URL, FS should've caused it to be one field.
+
+prefixes {
+ for( i = 1; i ".
+ sub( /URL:/, "", $i )
+ if( $i ~ anchoredPrefixes ){
+ ++numFound
+ url = $i #In an earlier version this was more complicated
+ #Check for trailing "." & construe as URL that ended sentence
+ sub( /\.$/, "", url )
+ #Check for elided protocols
+ if( url ~ /^www\./ ) url = "http://" url
+ if( url ~ /^ftp\./ ) url = "ftp://" url
+ #Print output as html 
+ printf( " %s \n", url, url )
+ }#if match
+ }#for i
+}#prefixes
+
+#Special handling for archaic "place:/path" format
+
+/:\// {
+ for( i = 1; i %s \n", $i, $i )
+ }#if
+ }#for
+}
+
+END {
+ printf( "%d URL%s in input.\n", numFound, numFound == 1 ? "" : "s" )
+ print " "
+}

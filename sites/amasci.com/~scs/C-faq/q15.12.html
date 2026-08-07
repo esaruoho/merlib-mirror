@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 15.12</title>
+<link href="q15.11.html" rev=precedes>
+<link href="q15.13.html" rel=precedes>
+<link href="s15.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 15.12</H3>
+<p>How can I write a function which takes a variable number of
+arguments and passes them to some other function 
+(which takes a variable number of arguments)?
+
+</p><hr>
+<p>In general, you cannot.
+Ideally,
+you should provide a version of that other function which accepts a
+<TT>va_list</TT> pointer
+(analogous to <TT>vfprintf</TT>;
+see question
+<a href=q15.5.html>15.5</a>).
+If the arguments must be passed directly as actual arguments,
+or if you do not have the option
+of rewriting the second function to accept a <TT>va_list</TT>
+(in other words,
+if the second, called function
+must accept a variable number of arguments,
+not a <TT>va_list</TT>),
+no portable solution is possible.
+(The problem
+could perhaps
+be solved by resorting to machine-specific
+assembly language;
+see also
+question <a href=q15.13.html>15.13</a>.)
+</p><hr>
+<p>
+Read sequentially:
+<a href="q15.11.html" rev=precedes>prev</a>
+<a href="q15.13.html" rel=precedes>next</a>
+<a href="s15.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

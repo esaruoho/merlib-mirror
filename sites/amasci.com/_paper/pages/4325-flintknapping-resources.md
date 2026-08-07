@@ -1,0 +1,212 @@
+---
+title: "Flintknapping Resources"
+source_domain: amasci.com
+source_path: ~knapper/ads2.html
+order: 4325
+reachable_from_entry: false
+images: 0
+internal_links: 3
+extracted: 2026-08-07T05:57:26Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Flintknapping Resources
+
+*Source page: `~knapper/ads2.html`*
+
+**KNAPPING RESOURCES**
+
+**If you would like to advertise on this page contact Mary Martin\**
+  at
+
+[](mailto:marymm@arkansas.net)
+
+***marymm@arkansas.net***
+
+Updated 01/30/06
+
+------------------------------------------------------------------------
+
+<div>
+
+<div>
+
+<div>
+
+<div>
+
+[**<span style="text-transform: uppercase; text-decoration: none"> THE LARGEST SELECTION OF OBSIDIAN ONLINE!</span>**](mailto:marymm@arkansas.net) OreRockOn <a href="http://www.orerockon.com/knappers.htm" data-eudora="autourl">http://www.orerockon.com/knappers.htm</a> email: <nospam@orerockon.com> Best selection of Northwest & Mexican obsidian rough available at great prices\
+Rough, thick cut slabs and rectangular preforms Credit cards, checks, money orders - \$25 minimum\
+\
+[<span style="TEXT-TRANSFORM: uppercase"> **<span style="text-transform: uppercase; text-decoration: none"> INDIAN KNIFE REPRODUCTIONS</span>**</span><span style="text-decoration: none">, Arrowheads, Any Type Spear points & Lances, Chipped Celts & Eccentrics, Heat Treated Slabs 1.00 per. Inch. Stanley Payne, Rt. 2 Box 10-B, Cedar Trace, Montgomery, AL 36108. 334-269-9268 or 334-462-9257. </span>](mailto:marymm@arkansas.net)[<span style="text-decoration: none">stansknives@charter.net</span>](mailto:stansknives@charter.net)[<span style="text-decoration: none"> . </span>](mailto:marymm@arkansas.net)
+
+**[<span style="text-transform: uppercase; text-decoration: none"> Mallory L. Stephens </span>](mailto:marymm@arkansas.net) Instructor, Maine Primitive Skills School**,  171 AER Lane,  Wells, Maine 04090. Phone 207-646-1856 <mallorystephens@yahoo.com>   [www.primitiveskills.com](http://www.primitiveskills.com)\
+\
+**<span style="text-transform: uppercase">Tennessee chert for sale:</span>** RAW- \$.60/pound, Heated bifaces, \$4.00-\$6.00, depending on size. (plus S&H)
+
+</div>
+
+<div>
+
+**<span style="text-transform: uppercase">White Owl Flintworks</span>**, Clifton, Tennessee  Hal Clark, 931-676-3629
+
+</div>
+
+<span style="text-transform: uppercase">**Mr. Dutrieux** is the exclusive producer of top quality blonde gunflints and other fine flint products from the stone age to modern times. </span>
+
+<div>
+
+Jean-Jacques Dutrieux,  Director of Gunflint Museum, 41130 Meusnes BP10, France.
+
+<div>
+
+email: <dutrieuxj-j@wanadoo.fr>, French contact. <contact@horstguns.com>, USA contact for orders.
+
+</div>
+
+</div>
+
+</div>
+
+**<span style="text-transform: uppercase">Paleo Technologies,</span>** Greg Nunn,  HC 64 Box 2107, Castle Valley, Utah 84532, (435- 259-8607.  Commercial Knapper.  Greg just created a new Flintknapping DVD titled ( Replicating The Type 1C Danish Dagger"  Advanced Flintknapping with Greg Nunn). A must see DVD for 29.95 plus 3.00 S&H.  This DVD combines Archaeological evidence with advanced flintknapping techniques to create the Type 1C Danish Dagger with parallel edge to edge pressure flaking.  Contact Greg at Email <gregn@citlink.net> or visit his web site [www.gregnunnflintworks.com](http://www.gregnunnflintworks.com) .
+
+</div>
+
+**<span style="text-transform: uppercase">Kilns, built for flintknappers</span>,** exclusively for Stone Age Trading Co. sent factory direct. Great investment ! I also offer flintknapping videos, books, tools and variety of stone such as, Brazilian agate, Obsidian, Jasper, Chalcedony, Marble and much more. Always adding new product,  so come and browse around. **Geno from Reno.** <stoneagetc@charter.net>  [www.stoneagetradingco.com](http://www.stoneagetradingco.com)
+
+</div>
+
+<div>
+
+<span style="text-transform: uppercase">**Doc's Rocks**</span>**<span style="font-family: Book Antiqua; color: black">  </span>**is Offering High Quality Edwards Plateau Chert from West Texas. This material is consistently uniform and is prized for it’s translucency and ease of workability and is considered to be the finest knapping flint in the world! Available in a variety of sizes and colors, any quantity from a pound to a ton. Edwards Plateau Chert is ready to use in it's raw natural form and does not require any heat treating but can be heat treated if so desired. Ancient artifacts made from Edwards Plateau Chert have been found as far away as the US East Coast, US West Coast, Canada and even Central and South America, this clearly demonstrates that it was the first choice of the ancient lithic toolmakers and was extensively traded over a vast area for many centuries. For more information and pictures please visit my homepage at: <http://hometown.aol.com/docsr0cks>  email: <DocsRocks@aol.com>  Phone: 325-784-6509.
+
+****Doc's Rocks** ** is very pleased to announce the addition of a new line of rare and beautiful material! In addition to Texas Edwards Plateau Chert, I now have a limited supply of Ancient Wooly Mammoth Ivory slabs available for use in numerous forms of artistic and custom crafting applications! Knifemakers, Carvers, Jewelers, and crafters of all types prize this material for it's natural beauty and unique qualities. Knife Handles, Pistol Grips, Jewelry, Scrimshaw, Native American Art, Inlay, Musical Instrument Parts and many other creative applications are but a few of the uses of this beautiful ivory.  Wooly Mammoth Ivory comes from the remote frozen northern regions of Siberia, Russia as well as Alaska where it has remained deeply buried and perfectly preserved in the permafrost for 10's of thousands of years! Wooly Mammoths are an extinct ancestor of the modern elephant and once roamed throughout North America and Siberia. The ancient native peoples of both regions hunted and followed the migration of Wooly Mammoths and depended upon them as a means of both food and shelter. Ancient peoples also utilized the ivory tusks for artistic expression, jewelry, musical instruments such as flutes and also tool making. It is believed that ivory tools were used in the flint knapping process to shape and form their flint tools and weapons! What a wonderful physical connection this rare and unique material provides to the ancient history, people and animals of the Paleolithic Period! Notice: Ancient Wooly Mammoth Ivory is NOT protected nor banned from sale or use under existing federal laws applicable to African Elephant Ivory and IS completely legal to buy, sale and use in the United States. For information on availability and pricing contact: Doc' at <DocsR0cks@aol.com> or call 325-784-6509. **<http://hometown.aol.com/mammothivoryman/docsivorysales.htm>**  [Click here to see pictures.](Ivory.htm)
+
+</div>
+
+**HOBBY KNAPPING:**  I specialize in Dalton, Clovis, and Cache River Side Notch Points. I also knap Hardin and Dovetail points. This is a hobby for me, therefore I sell my points at low prices. To contact me and see points, call: 870 351 0383 or e-mail at : <jgates@gogreenway.com> \
+     \
+**<span style="text-transform: uppercase"> Loveland Archaeological Society,</span>**   We are the non-profit sponsors of the Stone Age Fair in Loveland, Colorado, a cultural institution for the past 64 years. We present educational programs in schools, museums, libraries, etc. on Native American cultures and archaeology, all free of charge. [www.stoneagefair.com](http://www.stoneagefair.com)
+
+**<span style="text-transform: uppercase">Texas Knapper Supply...</span>** Tools, preforms and equipment for the modern flintknapper. I carry copper boppers, flakers, notcher, Ishi sticks (3 sizes), copper nails, copper rod, abraiding stones (coarse and fine), also pin vice set at reasonable prices. I carry preforms in many popular shapes, and types of stone, obsidian, and colorful glass. Email me at: <kjones46@TexasKnapperSupply.com> or visit my website at: [TexasKnapperSupply.com\
+](http://TexasKnapperSupply.com)\
+**<span style="text-transform: uppercase">AMERICAN SOCIETY FOR AMATEUR ARCHAEOLOGY.</span>** Did you ever have a desire to work on a real, legitimate archaeological dig? Here is your chance to get involved in archaeology in a group where amateurs are respected and appreciated. The \$30. per year fee includes two wonderful volumes of The Amateur Archaeologist per year. The Society sponsors several excavations each season for members. Some have fees, others no charge.\
+Discounts on society publications. NEW BOOK!!: THE OLIVE BRANCH SITE, hardcover copy, wonderfully illustrated. \$85. plus \$5. shipping. **We have a brand new web site!** Check this one out: <http://asaa-persimmonpress.com> ASAA, PO Box 821, North Andover, MA 01845.
+
+**<span style="text-transform: uppercase">CRACKIN' BRACKEN'S</span>** Flint knapping tools and supplies. We have been supplying flint knappers nation wide with high quality tools and flints for almost 10 years!. We're one of the world's largest knapping tool manufacturers. How can we serve you? Whether you need information about the North Georgia Knap-in or need tips on flint knapping, please visit our new web site at: <http://www.flintknappingtools.com> or contact me, Mark Bracken at <crackinbracken@juno.com>. 
+
+<span style="text-transform: uppercase">**FLINT KNIVES:**</span> Modern and traditional style knives with obsidian blades and handles of antler, bone and wood. Visit my **<u>NEW</u>** [website.](http://home.usadatanet.net/~svanarsdale) or send a Business sized SASE to: Scott Van Arsdale, 265 Bert Washburn Rd, Otego, NY 13825.
+
+<span style="text-transform: uppercase">**Retirement Sale:**</span> I have lots of good Obsidian for flintknapping. Mostly black, but also have some mahogany, also have small amounts of gold & silver sheen with banding. \$1.00 per pound!  I also have some Ledge Jasper & Agate. Stuart Plotkin, 2 Medical Dr. Suite C, Port Jefferson Station, NY  11776. Call 631-928-8383 or e-mail : [rockdoc7@optonline.net](mailto:sslay1@yahoo.com)
+
+**<span style="text-transform: uppercase">CHERT FOR SALE:</span>** Blanks and heat treated preforms. Tennessee River Material, some Buffalo River chert. Large nodules. Raw material: \$1.00 per inch, Heat treated \$1.00 per lb. for more information, contact Carl Vanderford, 2290 Knob Creek Rd. Columbia, TN  38401. Phone 931-381-1488.
+
+<span style="text-transform: uppercase">**CUSTOM CUT EYE APPEALING OBSIDIAN BLANKS.** </span>Cut in several shapes. Sizes are from 1 in.-7in. long. 1 in.- 2 1/2in. wide. 1/4-3/8 in thick. Assortment of colors. Price is \$.50 an in. Free shipping for orders over \$100.00. Contact me at <sslay1@yahoo.com>  for more information and pictures.
+
+**<span style="text-transform: uppercase"> RED ROCK LITHICS.</span>** Offering Quality Flintknapping Tools, Reproduction Points, and more.1112 Houston Ave., Pella, Iowa, 50219. Email <ash@kdsi.net> or phone 641-620-8121. Ask for Dave or Angela. Also Visit our web site: [redrocklithics.com](http://www.redrocklithics.com)
+
+<span style="text-transform: uppercase">**KNAPPING ART FROM FUTURE ARTIFACTS - TOMORROWS ARTIFACTS - TODAY.**</span> Spectacular hand pressure flaked blades, mounted on stone handles, Displayed in solid Oak cases. Knife styles are: Drop Point, Hunter, Skinner and Dagger. \$250.00 plus \$10.00 for insured shipping priority mail.<span style="text-transform: uppercase"> I NOW HAVE A NEW VIDEO</span> called ["Flake over Grinding!"](http://www.eskimo.com/~knapper/videos.html) 1 hr. 48 minutes, \$25. plus \$5.00 shipping. Buy one at a knap-in, Save postage and get it autographed.  Dale Cannon, 11565  275th Ave., Dept. KC, Zimmerman, MN 55398.  **NEW AREA CODE**  763-856-4975 e-mail to: <future@sherbtel.net> or visit  <http://www.futureartifacts.com>
+
+<span style="text-transform: uppercase">**ATL-ATL ENTHUSIASTS!**</span> Are you tired of cutting up old appliance crates and trying to draw metric circles?  Now available, WAA ISAC kits. Includes three 175# test B-fold corrugated targets printed to WAA ISAC specs., copy of ISAC rules, safety rules, official score sheets and pre-addressed envelopes for 30 day advance notification for ISAC as well as contest rules. Targets shipped tri-folded. \$20. plus \$6.95 shipping. English Pete Trading Co. PO Box 368, Belfast, NY 14711. Phone 716-365-8048.
+
+**<span style="text-transform: uppercase">GUNFLINTS.</span>** I have been knapping top quality English gunflints for approximately 26 years. I hand knap gunflints using the traditional tools of our forefathers. I quarter, flake and hand knap using traditional and hand tools. I am the largest producer of hand knapped gunflints in the world today producing approximately 300,00o to 400,000 flints per year selling worldwide. Please contact me: <tomfullergunflints@supanet.com>
+
+**BILLETS FOR SALE.** Flat copper billets, wooden handles. Excellent thinning tool. 1/4" X 1 & 3/4" X 6 & 1/2". Very limited supply left...only \$15. plus S & H. <span style="text-transform: uppercase">**CHERT FOR SALE.** </span> We sell Tennessee cherts, raw or heat treated. Heat treated bi-faces are \$4.00 dollars each, and range from 4 to 6 inches long. Black nodules which are getting rare are \$4.00 per pound. We also do made to order points which can be seen on our web site. Drop by for a visit and sign our guest-book. Hal Clark. Phone: 931-676-3629.   [www.whiteowlflintworks](http://www.whiteowlflintworks)  
+
+**COMMERCIAL KNAPPING:** I Specialize in  point types found in Missouri and animal effigies and exotic notching. Burlington and Mozarkite mostly used. Some obsidian. Prices start at \$3. an inch. Call Marty Longwith or e-mail me for estimates. <walkncrk@aol.com> or visit <http://angelfire.com/mo2/knappworks>
+
+**BOW WOOD:** Offering classes on the following: Bow making, (different classes for various skill levels) covering self bows, backed, bamboo and composite wood bows. Beginner, intermediate and advanced classes on knapping Rhyolite with all primitive methods. Material for sale.  Other classes available, contact me for information. Vinson Miner, Bows of Wood,1205 Rainbow Dr. Mount Holly, NC 28120. 704-263-3634, <bowsofwood@hotmail.com>
+
+**ONONDAGA CHERT:** Selling Onondaga Chert from Southern Ontario, Canada. Variety of colors and patterns. Email <ehkahk@email.is>  for more information.
+
+**WEYMOUTH ART STUDIO. T-SHIRTS FOR KNAPPERS**. We have some great new designs!   Also wildlife art. Painting and sculpture. Check out our [home page](http://www.nettally.com/wildart) or call for free catalog 1-800-268-5061. George Weymouth . 
+
+**NORTHWEST OBSIDIAN**. OBSIDIAN FOR SALE. I have the best selection of Northwest & Mexican obsidian rough available, at great  prices. My inventory includes Glass Buttes black, mahogany, triple flow, Midnight Lace, gold sheen, and rainbow. Also Davis and Lassen Creek rainbow and the hard to find Green Sheen and Royal Purple, Davis Creek Electric Blue and new Davis Creek Rainbow that is a virtual twin of Royal Velvet! I also trade rough for knapped items. I sell rough by the pound and thick cut slabs to 6x3". Tim Fisher,  <http://www.orerockon.com/knappers.htm>    <tim@orerockon.com>
+
+**<span style="text-transform: uppercase">Flint Knapper, archaeologist</span>** (private sector only), and lecturer. I make and sell points, blades, and weapons systems, made with all primitive materials. I also sell stone, various Colo. WY. cherts and agates (very colorful) and obsidian when available. I have been knapping 15 years and doing survival knapping for 40 yrs. I enjoy kids groups and work for various school districts in Colorado. My web site is <http://www.thearrowheadguy.com> and e-mail is <the_arrowhead_guy@yahoo.com> .Doug Dahl.
+
+<span style="text-transform: uppercase">**ATL-ATL SPECIALISTS.**</span> Bob Berg.  We make atl-atls, darts and accessories. Call or write for a catalog. Thunderbird Atl-atls, 90 Main St. Box 764, Candor, NY 13743. Visit my [web site.](http://www.thunderbirdatlatl.com)
+
+<span style="text-transform: uppercase">**BURLINGTON CHERT:**</span> Very high quality  Burlington chert. Some of the very best available! In blanks, either raw or  heat treated and  ready to work, no waste!  Donny McKinnis, 636-477-7482.
+
+<span style="text-transform: uppercase">**ARKANSAS NOVACULITE:** </span>A limited amount of multi-colored material is available. Some spalls, end cuts and chunks. This stone is already heat treated and ready to knap. The price depends on the quality, size and color. We ain't the cheapest, but we offer very high quality material which is not fractured from blasting. Steve Kirschman, 418 Hill Top Rd., Pearcy, AR, 71964. 501-767-1616. <flintknapping@danswhetstone.com> or see my [home page.](http://www.danswhetstone.com/flintknapping/flintknapping.html)
+
+<span style="text-transform: uppercase">**I SPECIALIZE IN STONE TOOL AND WEAPON REPLICATION.**</span>  I  have some neat <span style="text-transform: uppercase">T shirts</span> for sale. " *When atl-atls are outlawed, only outlaws will have atl-atls,"* (\$10:00 + \$3:00 S&H) and "*Mastodon Meatcutters, Local 1, You stab 'em, we slab 'em*," (\$12:00 + \$3:00 S&H).  Larry Kinsella (618) 397 1377 and my e-mail is <megalithics@hotmail.com>  Visit my website at: [http://www.communities.msn.com/MegalithicsbyKinsella/homepage](http://communities.msn.com/MegalithicsbyKinsella/homepage)
+
+**REPRODUCTION ARROWHEADS.** Also do **custom slabbing** of agatized coral and various flints and cherts. We make antler handled knives, and  flintknapping tools. Please E-mail us at <QUALITYDRAFTING@BELLSOUTH.NET>  or visit our website at <http://www.worthknapper.homestead.com>  Daniel and Fran Tompkins, 829 Phillip Causey Rd. Doerun, GA 31744. 229-777-9920.
+
+**GEORGETOWN, PEDERNALES, KAY COUNTY AND VARIOUS CHERTS**. Curt's Cherts.  Raw flint/chert for sale.  Call or e-mail for info and pics. 817-713-9686, please call between Noon and 4pm.  I work UPS in the evenings. <flintrockhunter@yahoo.com>\
+\
+<span style="text-transform: uppercase">**LITHIC MATERIALS**- </span>Several varieties of  [TEXAS  TABULAR CHERT](redfearn%20rock.htm). I  also have Burlington chert, some very colorful. <span style="text-transform: uppercase"> </span>The Burlington  is all heat treated, ready to knap. \$2.50 a pound plus shipping. Call me for availability. I also sell bifaces, starting at \$1.00 an inch for each stage of reduction.  Making top quality spear points, knives, arrowheads.  My specialty is the Hardin, Dalton and Calf Creek points,  also make Clovis and many other classic point types.  Each piece is signed and dated for collectability. Purchase my  videos: [Making the Hardin Point](http://www.eskimo.com/~knapper/videos.html) which covers knapping with copper from a spall to the finished point. VHS tape is 1 hr. 12 minutes. \$25. [Making a Dalton Point](http://www.eskimo.com/~knapper/videos.html) shows working a very tough, badly shaped chunk. This tape 1 hr. 40 minutes, \$25. **NEW TAPE!** Making a Clovis Point. Demonstrates how to percussion flake a thick slab and then <u>hand flute</u> a big Clovis. Available NOW! Add \$5.00 shipping to:  Jim Redfearn, Rt. 2 Box 143, Dept. KC,  Greenfield, MO 65661.  Phone 417- 424-3343.
+
+<span style="text-transform: uppercase">**COPPER BOPPER CAPS Dies.**</span> You can make your own at low cost. I sell steel dies for making these caps from common copper water pipe ends. The only tool required is a hammer. The dies come in three sizes: ", 1" and 1&1/4". \$40. per die, plus shipping of \$6. Per order. Flintknapper’s Corner, Greasy Creek Holler, Washburn, MO 65772. Phone 417-662-3377. <knapper@specent.com>
+
+<span style="text-transform: uppercase">**OBSIDIAN OBSESSION**: </span> Have obsidian, blades, hafted blades, arrowheads, arrows.....call after 5:00 P.M., 425-710-7551. Troy Booker. Mukilteo, WA.  E-mail :  <troybooker@earthlink.net>
+
+<span style="text-transform: uppercase; font-weight: 700">Specializing in Southeastern reproductions</span> and antler-handled knives. Individual and group flintknapping and atl-atls lessons available. MIKE GILBERT.13075 Moundville Archaeological Park, Moundville, Alabama, 35474. 205-371-6683. Or email <a href="mailto:bgilbert@bama.ua.edu" class="moz-txt-link-abbreviated">bgilbert@bama.ua.edu</a>.
+
+<span style="text-transform: uppercase">**BOOKS-BOOKS-BOOKS**</span>. Treasures of Texas has the largest number of volumes on Native Americans in the U.S. Over 8,000 titles in stock. In addition we have hundreds of full color HISTORICAL MAPS! Everything from cowboy era cow trails to Civil War troop movement routes, Indian trails, etc. for the state of TX.  These are available nowhere else! We are the distributor of ALL of the TX State archaeological reports. Check out our site at <http://www.txbooks.com>
+
+<span style="text-transform: uppercase">**LITTLE BLUE RIVER TRADITIONAL CRAFTS**:</span> Projectile points of stone and bone. Arrows, authentic paints, willow backrests, knives, Atl-Atls, parfleche, Brian tan, and more. All made from authentic materials like sinew. Visit our [web site](http://members.xoom.com/lbrtc/) or e-mail us at <lethomp@earthlink.net>.
+
+<span style="text-transform: uppercase">**ARTIFACT RELATED BOOKS.**</span> Purchase a copy of "Ohio Dovetails", \$40. plus \$3. shipping. Excellent hardcover book is the definitive volume on this point type. Lots of excellent photos. Lots more books, etc. Hothem House, PO Box 458, Lancaster, Oh 43130. 740-653-9030. <shothem@greenapple.com>
+
+<span style="text-transform: uppercase">**MATERIALS FOR SALE FOR KNAPPING**: </span> British Flint Nodules from Brandon!! Prime nodules, gray to dark brown, 10-100 pounds each. \$1.45 lb. Obsidian in stock. Many other types of stone are available including  African Carving Stone for \$3.00 lb. plus shipping. Visa and MasterCard Call or write Eric's Rocks and Such, PO Box 133, Leavenworth, IN 47137. Phone 812-739-2358. or email at <rockman@disknet.com> Visit  [Eric's Rocks and Such](http://www.ericsrocks.com) for my latest prices. <http://www.ericsrocks.com>
+
+<span style="text-transform: uppercase">**FLINTKNAPPING SUPPLIES FROM  NATIVE WAY**. </span> Full line of flintknapping supplies including the finest grades of heated Porcelain Novaculite, antler tools, stone, bone, bronze and steel trade style arrow points, primitive archery supplies and unique gift items.  Seminar packages for educators and park services are our specialty. Introduce your students to Novaculite for their first knapping experience and see how quickly they learn the craft. Visit our site: <http://www.nativewayonline.com/>
+
+**ARKANSAS NOVACULITE:** Quarry at Magnet Cove, AR, where you can dig your own material. We sell colorful stone to knappers who want to come and pick out their own stone. Our colored stone comes in brown, yellow, purple, gray, and many other colors. We do all the quarrying, you come in and pick it for 45 cents a pound. We ship raw stone for 55 cents per lb. plus UPS shipping charges. Robert Parker, 23750  Hwy 51, Malvern, AR.  Phone cell 501-844-1727, home 501-332-2961 or fax 501-332-4444. R.D. Parker. Visit our [web site](http://www.magnetcovestone.com) to learn more about us. 
+
+**OBSIDIAN AND DACITE PREFORMS AT REASONABLE PRICES**. Also have slabbed "slats" of chert, agates and jaspers which require heat. Send SASE for price list to: Lou Harms, 3917 Grant, Independence, Mo. 64055.  <quickquiver@hotmail.com>
+
+**BRAND NEW VIDEO: AN INTRODUCTION TO FLINT KNAPPING, NEW EDITION,  WITH BILL METCALFE.** This new tape was just released May 24th.  Bill Metcalfe, a resident of Killeen, Texas, has been actively teaching the art of flint knapping for several years. Here he gives the beginner an introduction to the tools and methods he uses to produce flint arrowheads. Included are: Using copper billets, spalling large nodules to produce flakes, free hand percussion flaking, pressure flaking using the Ishi stick. Produced by Mound Builder Video. 1 HR. 20 minutes. Price includes a protective hard plastic case. \$25. each plus \$5. shipping. Bill Metcalfe, 766 Gann Branch Rd, Killeen, TX 76549. Phone 254-634-3264.
+
+**CARVED KNIFE HANDLES AND FLINTKNAPPING**. Al Pachak, flintknapper and artist. I carve antler knife handles. 925 Elm St Pueblo, Colorado 81004. Visit my web site. <http://www.obsidianeccentrics.com>
+
+<span style="text-transform: uppercase">**FLINT RIDGE FLINT:**</span> Our home and quarries border the Flint Ridge State Memorial. New quarries on a regular basis means lots of variety.  Available raw or heat-treated. To order or for information contact: Gary Hardy, 15887 Flint Ridge Rd., Dept. KC, Newark, OH 43056.  Phone 740-787-1578 evenings.
+
+[<span style="TEXT-TRANSFORM: uppercase"> **<span style="text-decoration: none">INDIAN KNIFE REPRODUCTIONS</span>**</span><span style="text-decoration: none">, Arrowheads, Any Type Spear points & Lances, Chipped Celts & Eccentrics, Heat Treated Slabs 1.00 per. Inch. Stanley Payne, Rt. 2 Box 10-B, Cedar Trace, Montgomery, AL 36108. 334-269-9268 or 334-462-9257. </span>](mailto:marymm@arkansas.net)[<span style="text-decoration: none">stansknives@charter.net</span>](mailto:stansknives@charter.net)[<span style="text-decoration: none"> . </span>](mailto:marymm@arkansas.net)
+
+**FLINTKNAPPING MATERIAL** **AND TOOLS:** Knapping stone, tools such as copper and antler billets, abraders, leather hand pads, knife handles, learning aids, books, videos. Carving stone. Ashley Traders, PO Box 296, Dutch John, UT 84023. Phone: 435-885-3353. <tleflet@union-tel.com>
+
+**KNAPPING MATERIAL FROM NEO LITHICS**:  **Neolithics Flintknapping SupplyHouse** 1779 Spring Valley Dr., Divide, CO 80814. (719) 687-3552 or (800) 754-8231. Obsidian and Dacite, bulk raw rock, spalls, flakes, preforms and slabs for samples & prices, send \$2.00. "Caught Knapping" Video-2 hours, covers spalling, percussion, pressure flaking \$23.00. "Lap Knapping" video, pressure flaking and notching rock slabs to create authentic looking arrow points, \$25.00 shipping included Craig Ratzat, NeoLithics, 1779 Spring Valley Dr., Divide, CO 80814.
+
+<span style="text-transform: uppercase">**KNAPPING MATERIAL FROM THE TREASURE CHEST:**</span> Fiber Optic Rough Blocks, 22colors,  \$12. per lb.  Rough Rock; Peacock Obsidian, \$2.00 per pound.  (Quantity discounts available).  Goldstone, brown, blue and green \$6. lb. Agates & Jaspers from around the world.  Price list available on request. <span style="text-transform: uppercase">Machinery:</span> Silicon Carbide Wheels, Diamond Wheels & Blades 25% off list.  All shipments FOB Rogersville, MO. Visa, MasterCard, Discover.  The Treasure Chest, Rogersville, MO, 417-882-9296.  Warehouse visits by appointment only. Tell us you saw us on the NET!!! **SALE ON ROCK YARD MATERIAL!! CALL FOR AVAILABILITY!!\
+\
+GENE'S TOOLS, SUPPLIES AND SERVICES.** Pressure flakers,  Delron handled Ishi sticks, abraders, billets, hammers, diamond file sets, slabs and spalls, Machine service for special tools. Gene Stapleton, 817-468-00061. <ews9930@aol.com>
+
+**<span style="text-transform: uppercase">INDIAN ARTIFACT MAGAZINE:</span>** Learn about American Indians through their artifacts.  Articles, pictures, historical and educational information.  Everything about identifying, purpose, finding and enjoying artifacts. Covers prehistoric artifacts from all parts of the USA. Easy to read and understand.  1 year \$20.00 (4 issues). Visit our site at [www.indian-artifacts.net](http://www.indian-artifacts.net) Indian Artifact Magazine, Dept. KC, RD \#1 Box 240 Turbotville, PA 17772-9599; Phone  570-437-3698, FAX  717-437-3411 Money back guarantee on un-mailed issues.
+
+<span style="text-transform: uppercase">**KNAPPING TOOLS FOR SALE:**</span> Copper billets, pressure flakers, Ishi sticks, and custom made tools for the knapper, etc. Please send address or email me for a free catalog. email:   Glen F. Wichey, <glenn_wit@yahoo.com> 425 Canova Dr., Akron, OH 44319.
+
+<span style="text-transform: uppercase">**FLINT RIDGE FLINT:**</span> Banded, Multi-colored. Blocks, Blanks, heated and raw. Premium grade stone. Roy Miller. Phone 330-359-5590
+
+<span style="text-transform: uppercase">**CUSTOM GOLD AND SILVERWORK:**</span> I make mountings for your arrowheads. Also I am a knapper and knife maker –antler handles. Roger Bentley, Wheatland Rock Shop, 1808 North 9th Street, Wheatland, WY, 82201-2143. Phone 307-322-2192 [bentley@iwon.com](mailto:adele-bentley@iwon.com)
+
+<span style="text-transform: uppercase">**AGATIZED CORAL SLABS**.</span> Hand picked material, colors vary.  Average slab is 3 X 5". Coral De Aga, 5031 Cypress Lakes Dr. Lake Park, GA 31636. Frank Johnson. 912-559-7554.
+
+**<span style="text-transform: uppercase">CUSTOM SAWING</span>-**--agate, jasper & other assorted slabs & rough. Gem point jewelry, antler handled stone blade knives. Randy Beach, HCR 30 Box 4, Edwards, MO 65326.. 573-347-2457 or e-mail at <sitnbul@lakeozark.net>
+
+**<span style="text-transform: uppercase">SPARROW CREEK PRODUCTIONS</span>.** We produce hand crafted, ancient tools, weapons, jewelry and art using natural materials. Located in Alberta, Canada. E mail <Info@sparrowcreek.com> Visit my website at [http:// www.sparrowcreek.com](http://www.sparrowcreek.com)
+
+**<span style="text-transform: uppercase">Custom rock sawing available.</span>** I have great heat-treated Burlington chert blanks for sale. Custom rock sawing available, along with a wide variety of other stone for sale. Large Burlington  available only in slab form, some have saw marks, but are usually never a problem. Home number: 636-477-7482. Cell phone is 314-303-7418.  <Dflintman@aol.com>
+
+<div>
+
+**<span style="text-transform: uppercase">WADE LACKEY</span>**, I am now selling and taking orders for heat treated or non heat treated slabs of tan TX, Chert. All sizes from 4 to 8 in. long, and from 1--3 1/2 in. wide, and 3/8 to 1/2 in thick are a \$1 an inch. All slabs 3 1/2 to 4 1/2 in. wide up to 1/2 in thick are \$1.25 an inch. I also do custom sawing. There are pictures of the different slabs I saw on my web page [www.flintknappingpreacher.com](http://www.flintknappingpreacher.com) My e-mail address is <wlackey@asapchoice.com>   phone 512-793-4249
+
+</div>
+
+<div>
+
+My address is 650 Old Spanish Trail, Buchanan Dam, TX. 78609
+
+</div>
+
+ 
+
+ 
+
+|  |  |  |
+|----|----|----|
+| [Back to Knapper's Corner](index.html) | [Back to our Catalog](catolog.html) | [Email us with your questions, suggestions, thoughts and comments.](mailto:knapper@specent.com) |

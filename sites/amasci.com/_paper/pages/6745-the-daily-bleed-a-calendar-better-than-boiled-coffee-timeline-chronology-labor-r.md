@@ -1,0 +1,352 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0523.htm
+order: 6745
+reachable_from_entry: false
+images: 19
+internal_links: 0
+extracted: 2026-08-07T05:59:32Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0523.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> **MAY 23**
+>
+> MARGARET FULLER\
+> Transcendentalist, revolutionist, feminist activist.\
+> 
+>
+> > 
+> >
+> > ------------------------------------------------------------------------
+> >
+> > 
+> >
+> > Ancient Roman rose festival, ROSALIA, dedicated to the flower-goddess Flora & the love-goddess Venus.
+> >
+> > Rye, Sussex England: New Mayor throws red-hot pennies to the children from his balcony.
+> >
+> > Marta, Italy: FEAST OF THE MADONNA OF THE MOUNTAIN, in which the tools of all trades receive the Madonna's blessing.
+> >
+> > 
+
+\
+
+> > DISCORDIAN'S CHaoS HOLIDAY.\
+> > A Discordian is Required during his early Illumination to Go Off Alone & Partake Joyously of a Hot Dog on a Friday; this Devotive Ceremony to Remonstrate against the popular Paganisms of the Day: of Catholic Christendom (no meat on Friday), of Judaism (no meat of Pork), of Hindic Peoples (no meat of Beef), of Buddhists (no meat of animal), & of Discordians (**No Hot Dog Buns!**).
+>
+> \
+> 
+>
+> []()\
+>
+> ------------------------------------------------------------------------
+>
+> []()\
+> \
+> 1430 -- First Edition?: Joan of Arc captured by the Burgundians, who sell her to the English. []()\
+> []()\
+> \
+> 1701 -- No Kidding?: Captain William Kidd is hanged for piracy & murder. []()\
+> []()\
+> \
+> 1707 -- Sweden: Alarmed? Carolus (Carl) Linilaeus lives, Rashult. His Species plantarum (1753) founds modern botanical nomenclature. Creator of the flowerbed clock: Spotted Cat's Ear opens 6am o African Marigold opens 7am o Mouse-Ear Hawkweed opens 8am o Prickly Sowthistle closes 9am o Common Nipplewort closes 10am o Star of Bethlehem opens 11am o Passion Flower opens noon o Childing Pink closes 1pm o Scarlet Pimpernel closes 2pm o Hawkbit closes 3pm o Small Bindweed closes 4pm o White Water Lily closes 5pm o Evening Primrose opens 6pm. []()\
+> []()\
+> \
+> 1785 -- US: Benjamin Franklin announces his invention of bifocals. Reaction is skeptical, a wait & see attitude. []()\
+> []()\
+> \
+> <img src="http://www.eskimo.com/~recall/bleed/images/oldbook.gif" data-vspace="10" data-hspace="10" data-align="left" width="67" height="39" alt="oldbook" />\
+> 1799 -- In the 'Hood?: Thomas Hood--poet, humorist, founder of Hood's Magazine -- lives, in Poultry (Cheapside) above his father's bookshop. []()\
+> []()\
+> \
+> <img src="http://www.trincoll.edu/depts/phil/philo/phils/images/fuller.gif" data-hspace="10" data-vspace="10" data-align="RIGHT" width="124" height="172" alt=" ? " />\
+> 1810 -- Transcendentalist writer Margaret Fuller lives, Cambridgeport, Massachusetts. American critic, teacher, woman of letters. Editor of The Dial.
+>
+> "If nature is never bound down,\
+> nor the voice of inspiration\
+> stifled, that is enough."
+>
+> --- Sarah Margaret Fuller
+>
+>  <http://www.trincoll.edu/~phil/philo/phils/fuller.html>\
+> <http://www.worldlymind.org/fuller.htm>\
+> \
+> 1812 -- Mme de Stal secretly leaves France, fleeing Napoleon.\
+> []()\
+> []()\
+> \
+> 1827 -- First nursery school in the US established in New York City. Developed "to relieve parents of the laboring classes from the care of their children ... offering the children protection from weather, from idleness & contamination of evil example." []()\
+> []()\
+> \
+> 1832 -- Jamaican national hero Samuel Sharpe hung. Instigator of the 1831 Slave Rebellion which began on the Kensington Estate in Saint James & was largely instrumental in bringing about the abolition of slavery. <http://www.jamaicaway.com/Heroes/SharpePage.html>\
+
+[]()\
+\
+<img src="http://notatlanta.org/images/trailoftears.jpg%0BALT=%22(F)red&#39;s" data-right="" data-of="" data-way"="" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="276" height="100" />\
+1838 -- The American Way: Beginning of second "Trail of Tears" forced march by U.S. Army, leading to the deaths of over 4,000 relocated Cherokee.
+
+> "We have been taught that the "Trail of Tears" started in the Carolinas, Georgia, & Florida & ended in Oklahoma but that simply is not true. The "Trail of Tears" began when the first canvas sail was spotted off the coast of Turtle Island, & it still continues.
+>
+>  "The Trail passes through Oklahoma & goes on to Leavenworth, where our brother, Leonard \[Peltier\], is but another landmark on the Trail. The Trail passes through the places called 'poverty', 'alcohol & substance abuse', 'desperation', 'lost culture'; you can stop & visit 'hunger' on your travels down the Trail. "
+>
+> <img src="http://www.eskimo.com/~recall/rainbow.gif" width="200" height="2" />
+>
+> Hollywood leaves the impression that great Indian wars came in the Old West during the late 1800's, a period many think of simplistically as the "cowboy & Indian" days. But in fact it was a "mopping up." By then the Indians were nearly finished, their subjugation complete, their numbers decimated. The killing, enslavement, & land theft had begun with the arrival of the Europeans & perhaps reached its nadir when it became federal policy under President Andrew Jackson.
+>
+> <http://www.cviog.uga.edu/Projects/gainfo/trailtea.htm>\
+
+[]()\
+
+> > []()\
+> > \
+> > 1839 -- Henry Wadsworth Longfellow assesses Jane Austen:
+> >
+> > > "Her writings are a capital picture of real life, with all the little wheels & machinery laid bare like a patent clock. But she explains & fills out too much."
+> > >
+> > >  <http://www.auburn.edu/~vestmon/longfellow.html>\
+> >
+> > []()\
+> > \
+> > 1853 -- Buenos Aires gains independence from Argentina. []()\
+> > []()\
+> > \
+> > 1863 -- German General Workers' Association founded in Leipzig, based on the political ideas of Ferdinand LaSalle. []()\
+> > []()\
+> > \
+> > 1871 -- France: The "Bloody Week" (Semaine Sanglante) continues, the citizens of the Paris Commune being bathed in blood by the the troops of Thiers. Members of the Council of the Commune evacuate the town hall. Pindy gives the command to set fire to the building; Ferr orders the same for the court buildings & the police prefecture. In the evening, the Pantheon quarter falls into the hands of Versaillais. <http://flag.blackened.net/revolt/talks/paris.html>\
+> > <http://dwardmac.pitzer.edu/Anarchist_Archives/pariscommune/Pariscommunearchive.html>\
+> > \
+> > <img src="http://www.scubamiami.com/photogallery/nurse%20shark.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="right" width="250" height="175" alt="Leg Up on (F)red?" />\
+> > 1881 -- US: Heads Up, Florida Marlins!: Baseball game played between one-armed & one-legged players.\
+> > <http://www.warnerbros.com/pages/fugitivetv/bio/onearmed.jsp>\
+> > <http://www.mit.edu/people/astgtciv/one-armed.html>\
+> > <http://www.cs.rice.edu/~ssiyer/minstrels/poems/285.html>\
+> > <http://www.scubamiami.com/photogallery/>\
+> > []()\
+> > \
+> > 1891 -- Pr Lagerkvist lives. Major Swedish writer, 1951 Nobel Prize winner. Early works reflected socialistic/radical views, giving way later to religious & moral themes. Anguish, a politically disillusioned collection of poetry written during WWI, reflected the terrors of war. His story of timeless evil, The Hangman, (1933) was a condemnation of the threat of dictators & rising fascism.\
+> >
+> > alt; Par Lagerkvist
+> >
+> > <http://www.kirjasto.sci.fi/perlager.htm>\
+> > <http://www.lysator.liu.se/runeberg/authors/lagerkpa.html>\
+> > \
+> > 1891 -- Pr Lagerkvist lives. Major Swedish writer, 1951 Nobel Prize winner. Early works reflected socialistic/radical views, giving way later to religious & moral themes. Anguish, a politically disillusioned collection of poetry written during WWI, reflected the terrors of war. His story of timeless evil, The Hangman, (1933) was a condemnation of the threat of dictators & rising fascism.\
+> >
+> > alt; Par Lagerkvist
+> >
+> > <http://www.kirjasto.sci.fi/perlager.htm>\
+> > <http://www.lysator.liu.se/runeberg/authors/lagerkpa.html>\
+> > \
+> > 1892 -- England: Broad gauge railways finally forced out as utilitarianism triumphs over style & comfort. []()\
+> > []()\
+> > \
+> > <img src="http://www.xs4all.nl/~respub/peper/peper.gif" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="65" height="120" alt="?" />\
+> > 1899 -- US: Emma Goldman, on or about today, delivers two well-attended lectures in Seattle, Washington, following a debate on "Socialism vs. Anarchism" in Tacoma, Washington on the 20th (offered free use of a hall there, but after proposing to lecture on "Free Love," the offer is retracted.) 
+> >
+> > From here Goldman visits an anarchist colony at [Lakebay, Washington](http://recollectionbooks.com/siml/library/HomeColony.htm), before going to Oregon to lecture.\
+> > <http://dwardmac.pitzer.edu/Anarchist_Archives/goldman/aando/marriageandlove.html>\
+> > \
+> > []()\
+> > \
+> > 1906 -- Dramatist, radical critic, Henrik Ibsen dies in Oslo.
+> >
+> > > "The State is the curse of the individual. . . The State must go! That will be a revolution which will find me on its side. Undermine the idea of the State, set up in its place spontaneous action, and the idea that spiritual relationship is the only thing that makes for unity, and you will start the elements of a liberty which will be something worth possessing."
+> > >
+> > > anarchist feminist
+> > >
+> > >  Emma Goldman on Ibsen, <http://dwardmac.pitzer.edu/Anarchist_Archives/goldman/socsig/socsigtoc.html>\
+> > > <http://www.hd.uib.no/ibsenbt.html>\
+> >
+> > []()\
+> > \
+> > <img src="http://www.xs4all.nl/~respub/peper/peper.gif" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="65" height="120" alt="?" />\
+> > 1907 -- US: May 23-28, hundreds turn out on successive nights in Los Angeles to hear Emma Goldman, &, on one occasion, debate socialist Claude Riddle. She organizes a Social Science Club with 55 charter members to study social issues, literature, & art. Goldman declares her intent to start a movement on behalf of Mexico among US radicals.
+> >
+> > anarchist feminist
+> >
+> >  []()\
+> > []()\
+> > \
+> > 1908 -- Fall Out?: In the US, a dirigible explodes over Frisco Bay; 16 passengers fall, none die. []()\
+> > []()\
+> > \
+> > <img src="http://www.pointsnortheast.org/Points%20NE%20Images/rowboat.jpg" data-hspace="10" data-vspace="10" data-align="right" width="170" height="140" alt="(F)red&#39;s Dingy?" />\
+> > 1908 -- US: Part of the Great White Fleet arrives in Seattle, in Puget Sound, Washington.\
+> > \
+> > <http://www.pointsnortheast.org/browns.html>\
+> > []()\
+> > \
+> > <img src="http://www.xs4all.nl/~respub/peper/peper.gif" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="65" height="120" alt="?" />\
+> > 1909 -- US: NY Police break up Emma Goldman's Sunday lecture series, claiming that she did not follow the subject of her lecture on *"Henrik Ibsen as the Pioneer of Modern Drama"*; two arrests made. Emma attempts give this talk in East Orange, N.J., at a meeting organized by Alden Freeman to commemorate the 100th anniversary of Thomas Paine's death; police prevent her from entering the lecture hall. Crowd relocates to Freeman's barn, where the young anarchist Goldman finally delivers the lecture in the land of "free speech."
+> >
+> > anarchist feminist
+> >
+> > 
+> >
+> > > ## 
+> > >
+> > > "Some writers have so confounded society with government, as to leave little or no distinction between them; whereas they are not only different, but have different origins ... Society is in every state a blessing, but Government, even in its best state, is but a necessary evil; in its worst state, an intolerable one."
+> > >
+> > > 
+> > >
+> > > --- Thomas Paine, Common Sense; forgotten American & revolutionary whose remains are lost
+> > >
+> > > <http://dwardmac.pitzer.edu/Anarchist_Archives/goldman/socsig/socsigtoc.html>\
+> >
+> > []()\
+> > \
+> > 1910 -- Margaret Wise Brown lives (1910-1952). Author of Good Night Moon []()\
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/labor/toledo.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="left" width="253" height="250" alt="?" />\
+> > 1934 -- In the Battle of Toledo, 10,000 strikers at Ohio's Auto-Lite plant drive away police. 
+> >
+> > > The company hired its own guards & today's battle began when one of them beat an old man.
+> > >
+> > > Tomorrow National Guard machine-gun units evacuate scabs & the troops open fire on demonstrators, killing two strikers & wounding 15.
+> > >
+> > > [\[Details, click here\]](http://recollectionbooks.com/bleed/05ref.htm#23/1934)
+> >
+> > \
+> > []()\
+> > []()\
+> > \
+> > 1937 -- [<img src="http://recollectionbooks.com/bleed/images/peper.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="55" height="110" alt="EG, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)England: Emma Goldman speaks on the Spanish revolution in Norwich at a well-attended meeting sponsored by the Norwich Freedom Group, the ILP, & the Labour League of Youth.\
+> > <http://flag.blackened.net/revolt/spaindx.html>\
+> > \
+> > []()\
+> > \
+> > 1939 -- <img src="http://www.eskimo.com/~recall/bleed/images/bullet.gif" data-hspace="5" data-vspace="0" data-align="left" width="28" height="28" alt="Ooopsie!" />Bonnie & Clyde killed by Texas Rangers.\
+> > <http://members.xoom.com/texashideout/bc.htm>\
+> > []()\
+> > \
+> > 1941 -- Wanna Fight?: Buddy Baer disqualified at the beginning of the seventh round as Joe Louis defends his heavyweight boxing title for the 17th time. Baer's manager refused to leave the ring when the round was ready to begin. []()\
+> > []()\
+> > \
+> > 1946 -- Back Draft Prequel?: US railroad strike starts, later crushed when Beloved & Respected Comrade Leader "Buck" Truman threatens to draft strikers. []()\
+> > []()\
+> > \
+> > <img src="http://www.eskimo.com/~recall/bleed/images/bullet.gif" data-hspace="5" data-vspace="0" data-align="left" data-="" width="28" height="28" alt="Ooopsie!" />\
+> > 1958 -- US: Charles Starkweather, who, accompanied by his girlfriend, shot &/or bludgeoned 11 people to death in two days, is convicted of murder in Nebraska. []()\
+> > []()\
+> > \
+> > 1962 -- US: Joe Pepitone, NY Yankee, set a major-league baseball record, hitting two home runs in one inning. []()\
+> > []()\
+> > \
+> > 1963 -- US: Rash Act? Congress passes first bill intended to ensure women equal pay for equal work. The legislation was originally submitted in 1947. []()\
+> > []()\
+> > \
+> > 1963 -- Adolf Eichmann kidnapped by Israeli agents in Argentina. As head of the Nazi S.S. Jewish section he dispatched millions of Jews to death camps. Brought to trial in Jerusalem, he claimed only to be following orders -- a good bureaucrat. Convicted & hanged. []()\
+> > []()\
+> > \
+> > 1965 -- Greece: 300,000 in the Third Marathon March for peace & justice. []()\
+> > []()\
+> > \
+> > 1965 -- General strike crushed in Bolivia.\
+> > <http://www.dnai.com/~figgins/generalstrike/index.html>\
+> > []()\
+> > \
+> > <img src="http://www.horschamp.qc.ca/offscreen/photos/may68.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="102" height="170" alt="?" />\
+> > 1968 -- France: Paris Uprising '68, new confrontations with the Latin Quarter, between students & CRS with government attempts to shut down or muzzle radio stations.
+> >
+> > anarchist
+> >
+> > 
+> >
+> > To brighten things up, the combatants,\
+> > Fucking set fire to cars:\
+> > One match and, Forward!\
+> > Poetry written in petrol.\
+> > And you should have seen the C.R.S.\
+> > Really get their asses burnt!
+> >
+> > 
+> >
+> > > --- excerpt, *"The commune's Not Dead"*, French May 1968 Song by the Council for Maintaining the Occupations (C.M.D.O.)
+> >
+> > 
+> >
+> > <img src="http://recollectionbooks.com/bleed/images/France68/f22med.jpg" data-hspace="10" data-vspace="10" width="130" height="162" alt="Paris Uprising May 1968" />
+> >
+> > <http://www.neravt.com/left/may1968.htm>\
+> > <http://www.neravt.com/left/history.htm>\
+> > \
+> > <img src="http://dead.net/cavenweb/deadfile/images/deadfile2.gif" data-border="0HSPACE=10" data-vspace="10" data-align="left" width="325" height="200" alt="DeadHead" />\
+> > 1970 -- The Grateful Dead plays its first British concert at the Hollywood Rock Festival.\
+> > <http://www.dead.net/>\
+> > <http://dead.net/cavenweb/deadfile/index.html>\
+> > []()\
+> > \
+> > 1981 -- US: 30th black youngster found dead in Atlanta, Georgia. []()\
+> > []()\
+> > \
+> > 1982 -- England: 10,000 march against the Falklands War, London. []()\
+> > []()\
+> > \
+> > 1982 -- England: The Central London chapter of the British Musicians Union resolution proposed to ban synthesizers & rhythm machines from all recording sessions & live engagements. Defeated.
+> >
+> > []()\
+> > []()\
+> > \
+> > 1982 -- Spain: Socialist Workers Party (PSOE) wins its first majority in Andulusian Autonomous Parliament since the Revolution. []()\
+> > []()\
+> > \
+> > 1984 -- US: Right-wing Contra Eden Pastora admits receiving illegal CIA aid during Reagan/Oliver North adminstration. []()\
+> > []()\
+> > \
+> > 1985 -- US: Beloved & Respected Comrade Leader Acting President Ronnie Reagan & Senate agree to compromise, limiting MX missiles to 50. []()\
+> > []()\
+> > \
+> > 1985 -- Pope & MafiaWed?: Beloved & Respected Comrade Leader Acting President Reagan bestows the Medal of Freedom -- America's highest civilian award -- on the otherwise rarely paired duet: Mother Teresa & Frank Sinatra. []()\
+> > []()\
+> > \
+> > 1998 -- US: Love & Rage Revolutionary Anarchist Federation dissolves itself in New York City. Love & Rage began as a continental anarchist newspaper at a conference in Chicago in 1989. <http://www.spunk.org/texts/groups/lr/sp001773.html>\
+> > []()\
+> > \
+> > 2001 -- US: Jack S. Zucker dies, aged 91, in Philadelphia. Former labor organizer famous for sparring with Beloved & Respected Comrade Leader Sen. Joe McCarthy during the bitter 1950s anti-commie witch hunts.
+> >
+> > > []()\
+> > > []()\
+> > > \
+> > > <img src="http://www.processedworld.com/GRAPHICS/graphics.welcome/plug_in.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="240" height="154" alt="?" />\
+> > > 4000 --
+> > >
+> > > <http://www.processedworld.com/GRAPHICS/graphics.welcome/plug_in.gif>\
+> > > []()\
+> > >
+> > > ------------------------------------------------------------------------
+> > >
+> > > anti-CopyRite 2000-3000, more or less\
+> > > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > > or send questions, suggestions, additions, corrections to:\
+> > > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> > >
+> > > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> > >
+> > > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> > >
+> > > anarchist, labor, radical books
+> > >
+> > > See also: Anarchist Encyclopedia\
+> > > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > > Stan Iverson Memorial Library\
+> > > http://recollectionbooks.com/siml/\
+> > > Anarchist Time Line / Chronology\
+> > > http://recollectionbooks.com/bleed/indexTimeline.htm

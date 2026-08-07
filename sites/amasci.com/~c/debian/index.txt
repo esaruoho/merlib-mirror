@@ -1,0 +1,96 @@
+C.M. Connelly: My Debian Work 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ My Debian Work 
+
+ Debian and Me 
+
+ I am a Debian Developer. That status allows me to
+create packages for the Debian GNU/Linux system and make them
+available though the Debian Project's network of archive mirrors. 
+
+ At the moment, my two main areas of activity are maintaining four Debian packages and helping maintain
+Debian's tetex-* packages. As part of the latter work, I
+have written manual pages (&#8220;manpages&#8221;)
+for the teTeX project, most of which have been integrated upstream. 
+
+ My Packages 
+
+ MMinstance 
+ ( mminstance ) 
+
+ mminstance includes mmafm , a utility to create
+AFM files for multiple-master PostScript fonts, and mmpfb , a
+utility to produce a standard PFB font for a single instance of that
+multiple-master font. 
+
+ Eddie
+Kohler 
+
+ Type 1 Utils 
+ ( t1utils ) 
+
+ t1utils is a set of six utilities for working with Type 1
+PostScript fonts: 
+
+ t1ascii changes PFB (binary) fonts into PFA
+ (ASCII) format 
+
+ t1binary changes PFA format fonts into binary
+ format 
+
+ t1disasm translates PFBs or PFAs into a
+ human-readable and -editable format 
+
+ t1asm translates the human-readable files into
+ PFA or PFB format 
+
+ t1unmac (formerly unpost ) translates
+ Macintosh Type 1 fonts into PFB or PFA format 
+
+ t1mac translates PFA or PFB files into Macintosh
+ format 
+
+ Eddie
+Kohler 
+
+ TeXdocTk 
+( texdoctk ) 
+
+ I adopted texdoctk after Adrian Bunk left the project.
+ texdoctk provides a graphical browser (using PerlTk)
+ for teTeX documentation. 
+
+ Thomas Ruedas 
+
+ ThoughtTracker 
+( thoughttracker ) 
+
+ ThoughtTracker is a knowledge base application. Its purpose is
+to provide you with a searchable hyperlinked database of information
+and ideas. 
+
+ Marco Goetze 
+
+ Obtaining the Packages 
+
+ The current versions of my packages should be available from the
+Debian archives in the woody (or unstable )
+distribution. In the future, I may make experimental packages
+available from this site before I'm ready to upload them to Debian
+proper. 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 12:18 PM PST, Monday, February 25, 2002; last rendered at 
+ 2:43 PM PDT, Monday, September 2, 2002 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

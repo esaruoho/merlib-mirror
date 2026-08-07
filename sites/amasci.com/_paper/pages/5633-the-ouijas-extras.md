@@ -1,0 +1,39 @@
+---
+title: "The Ouijas Extras"
+source_domain: amasci.com
+source_path: ~ouija/rqextras.htm
+order: 5633
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T05:58:38Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Ouijas Extras
+
+*Source page: `~ouija/rqextras.htm`*
+
+# **RuneQuest Goodies and Extras**
+
+Here are a few things to add spice to your existing campaigns. I am always looking for things to add to the site, send something if you want, if I like it, it'll find it's way onto here somewhere.
+
+***Normal offerings here...***
+
+- Adventure in the [Stinking Forest Campaign](forestmain.htm). Found in Northern Sartar, this region us mysterious and far too close to Dragon Pass and the Red Moon Goddess followers.
+- [Hand Held Weapons](rqweapon.htm). More expansive than before. A complete listing of existing and new weapons for RQ including information of Rune Metals.
+- [Armor, Helms and Shields](rqarmor.htm). A new and large selection of armors, shields, and helms for use with RQ including specialized rules for using Rune Metals and Beast Skins.
+- [Missile Weapons](rqmissle.htm). A new listing of Missile Weapons and other thrown stickers for use with RQ also including rules for using special Rune Metals in their creation.
+- [Huge list of Chaos Features](rqfeatures.htm). An extensive expansion of the existing set of features. This is a growing list that will continue to expand from users input, check back every now and then for more.
+- [New Rules for Spirit Combat](rqspirit.htm). Give these rules a peek, Spirit Combat has in the past been dull, take a look at this system including a fumble chart and critical chart. Not overly complex yet very thorough. **Also includes a section devoted to the creation of Chaos Weapons!**
+- [Creature Locations for RQ](rqlocations.htm). Ever need a quick little picture of a creature with locations by numbers already marked out? Here is listing of many of the typical creature locations and numbers in easy to use black and white GIF format (savable as BMP), they even kind of look like the creature they represent. Just insert them into your own adventures for ease of use!
+- [RuneQuest File Downloads](rqdownloads.htm), a collection of various documents from this site.
+- [Magica, DnD Spell system for RQ](rqmagica.htm), a special sorcery system that takes after the same feel of the RQ combat system.
+- [An article on the Stormbull Cult center, *The Block*](rqblock.htm)
+- [Link to an excellent Source of Runic Folklore! Check it out!](http://pages.icacomp.com/~runesmith/bibliogr/myst.html)
+- [Other RQ links on the web](rqlinks.htm)
+- Some Quick rules that let you blend ADnD and RQ to a [hybrid](rqhybrid.htm).
+- NPC Corner
+- Adventures and Maps
+
+------------------------------------------------------------------------

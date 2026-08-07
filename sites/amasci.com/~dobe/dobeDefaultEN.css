@@ -1,0 +1,243 @@
+/*************************************************************
+* Note: used in Dobe's "Punny Name Archive" suite of pages for styles
+* <!-- New format for Dobe's Punny Name Archive on 12-21-2001 -->
+* <!-- Hand-written XHTML, XML, XSLT, CSS and JS suite -->
+* 	 <!-- filename: dobeDefaultEN.css -->
+* <!-- 
+* 		Dobe Doinat's Punny Name Archive
+* 		MegaloMedia Copyright December 21, 2001
+* 		John W. Hartman (Dobe Doinat)
+* 		Copyright 2001
+* 		http://www.eskimo.com/~dobe/
+* 		mailto://dobe@eskimo.com
+* 		IDE of choice: XMLWriter, Wattle Software
+* 		ISP of choice: eskimo.com, Bob is Everywhere! 
+*		Welcome to my example external stylesheet!
+*
+*		NOTICE: the change in syntax for commenting in CSS files!
+*  -->
+***************************************************************/
+
+
+/*
+ *NOTICE: This file must be called in a source document with a line 
+ *between the head elements like this:
+ *   <head><link rel="stylesheet" href="dobeDefault.css" /></head> 
+*/
+
+/*<!--   This is one CSS notation style you might see:
+   body {font-size:90%; color:brown;}
+   h1 {font-size:195%; color:green;}
+   h2 {font-size:150%; font-style:italic; color:teal;}
+   li {font-size:90%; color:brown;}
+ -->
+*/
+
+/*<!--   This is another notation style that is used, 
+ *especially for *"Named Styles", where you get to make up your own styles:
+ *
+   p.dobeStyle1 {
+     font-size:300%; color:red;
+}
+   In this case, this style is called from the source document like this:
+   "<p class="dobestyle1">ANY TEXT</p>"
+ *
+                  Or another example:
+   div.dobe_an_example {
+	color: black; width: 80% margin-left: 5%
+}
+   Here, the style is called from the source document like this:
+   "<div class="dobe_an_example">SOME TEXT</div>"
+*/
+
+/*<!-- Notice the internal comment structure! -->*/
+
+	a:active {color:red; text-decoration:underline;}
+	a:link {color:red; text-decoration:underline;}
+	a:visited {font-size:100%; color:red; text-decoration:underline; font-family:cursive;}
+	b.RelativeSize90R {font-weight:bold; font-size:90%; color:red;}
+	big.RelativeSize110RedLeft {font-size:110%; color:red; align:left;}
+	big.RelativeSize120R {font-weight:bold; font-size:110%; color:red;}
+	blockquote {font-size:90%; color:brown;}
+	blockquote.80i {font-size:80%; font-style:italic; color:brown;}
+	blockquote.CodeGreen80 {font-size:80%; color:darkgreen; margin-left:10%;}
+	blockquote.SmallRedItalic {font-size:80%; color:red; margin-left:10%; margin-right:10%;}
+
+	body {background-color:#f8f8ff; 
+		  color:brown;
+		  font-size:100%;  
+		  font-family:cursive, verdana, arial, monospace, serif, sans-serif, fantasy;}
+
+	code.comment {font-size:90%; color:green;}
+	code.SubFunc {font-weight:bold; font-size:120%; color:red;}
+	div.BigCenBold {align:center; font-size:185%; font-weight:bold; color:green;}
+	div.RelativeSize70 {font-size:70%; color:brown;}
+	div.RelativeSize70RED {font-size:70%; color:red;}
+	div.RelativeSize70WithIndent {font-size:70%; color:brown; margin-left:5%;}
+	div.RelativeSize80 {font-size:80%; color:brown;}
+	div.RelativeSize80BROWN {font-size:80%; color:brown;}
+	div.RelativeSize80WithBigIndent {font-size:80%; color:brown; margin-left:12%;}
+	div.RelativeSize80WithBiggerIndent {font-size:80%; color:brown; margin-left:15%;}
+	div.RelativeSize80WithIndent {font-size:80%; color:brown; margin-left:5%;}
+	div.RelativeSize90 {font-size:90%; color:brown;}
+	div.RelativeSize90R {font-size:90%; color:red;}
+	div.RelativeSize90RWithIndent {font-size:90%; color:red; margin-left:5%;}
+	div.RelativeSize90RedCenter {font-size:90%; color:red; align:center;}
+	div.RelativeSize90WithIndent {font-size:90%; color:brown; margin-left:10%;}
+	div.RelativeSize90WithIndentBothSides {font-size:90%; color:brown; margin-right:10%; margin-left:10%;}
+	div.RS120Indent5BothSides {font-size:120%; color:darkbrown; margin-right:5%; margin-left:5%;}
+	div.big120biIndent {font-size:120%; color:brown; font-style:italic; font-weight:bold; margin-left:5%;}
+	div.big110biBigIndent {font-size:110%; color:brown; font-style:italic; font-weight:bold; margin-left:10%;}
+	div.cursor_auto {cursor:auto; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_crosshair {cursor:crosshair; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_default {cursor:default; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_e-resize {cursor:e-resize; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_hand {cursor:hand; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_help {cursor:help; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_move {cursor:move; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_n-resize {cursor:n-resize; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_ne-resize {cursor:ne-resize; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_nw-resize {cursor:nw-resize; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_s-resize {cursor:s-resize; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_se-resize {cursor:se-resize; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_sw-resize {cursor:sw-resize; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_text {cursor:text; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_w-resize {cursor:w-resize; font-size:100%; color:red; margin-left:5%;}
+	div.cursor_wait {cursor:wait; font-size:100%; color:red; margin-left:5%;}
+	div.h2 {font-size:80%; color:brown;}
+	div.norm100biIndent {font-size:100%; color:brown; font-style:italic; font-weight:bold; margin-left:5%;}
+	div.normalRelativeSize {font-size:100%; color:brown;}
+	div.normalRelativeSizeWithIndent {font-size:100%; color:brown; margin-left:5%;}
+	div.objectiveMain {font-size:120%; color:black; font-weight:bold; vertical-align:top;} 
+	div.objectiveSkillset {font-size:80%; color:black; vertical-align:top;} 
+	div.small_50 {font-size:50%; color:brown; cursor:help;}
+	div.small_60 {font-size:60%; color:brown;}
+	div.small_70 {font-size:70%; color:brown;}
+	div.small_80 {font-size:80%; color:brown;}
+	div.small_80C {font-size:80%; color:brown; text-align:center;}
+	div.small_80Lbi {font-size:80%; color:brown; text-align:left; font-weight:bold; font-style:italic; margin-left:10%;}
+	div.small_90bi {font-size:90%; color:brown; font-style:italic; font-weight:bold;}
+	h1 {font-size:200%; font-style:italic; font-weight:lighter; color:brown;}
+	h1.CEOL {font-size:180%;  font-weight:bold; color:blue;}
+	h1.Name {font-size:240%; color:black;} 
+	h1.res {font-size:150%; color:black;} 
+	h2 {font-size:150%; font-weight:lighter; color:brown; margin-left:5%;}
+	h2.res {font-size:115%; color:black;} 
+	h2.small {font-size:110%; font-weight:lighter; color:brown;}
+	h2.smallBB {font-size:110%; font-weight:bold; color:brown;}
+	h3 {font-size:100%; font-style:italic; color:brown; margin-left:10%;}
+	h3.normalIBrown {font-size:100%; font-style:italic; color:brown;}
+	h3.res {font-size:100%; color:black;} 
+	h4 {font-size:90%; font-style:italic; font-weight:lighter; color:red; margin-left:20%;}
+	h5 {font-size:80%; font-style:italic; font-weight:lighter; color:red; margin-left:30%;}
+	h6 {font-size:70%; font-weight:lighter; color:brown; }
+	hr {align:center; color:brown; size:3; width:65%;}
+	hr.BegincodeDiv {color:#ff0000; size:5; width:90%;}
+	hr.EndcodeDiv {color:#0000ff; size:5; width:90%;}	
+	hr.CopyrightRuleStyle {align:left; color:darkbrown; size:3; width:65%; height:2;}
+	hr.dobeStyle {align:center; color:darkbrown; size:3; width:65%; height:4;}
+	hr.myHorizontalRuleStyle {align:left; color:brown; size:3; width:25%;}
+	hr.res {align:center; color:black; size:3; width:70%;}
+	li {color:brown; margin-left:5%;}
+	li.B {font-size:90%; color:brown; margin-left:5%; font-weight:bold;}
+	li.size100 {font-size:100%; color:brown;}
+	li.size100L5 {font-size:100%; color:brown; margin-left:5%;}
+	li.size60 {font-size:60%; color:brown;}
+	li.size70 {font-size:70%; color:brown;}
+	li.size70L5 {font-size:70%; color:brown; margin-left:5%;}
+	li.size80 {font-size:80%; color:brown;}
+	li.size80L5 {font-size:80%; color:brown; margin-left:5%;}
+	li.size90 {font-size:90%; color:brown;}
+	marquee.redScript {font-size:80%; color:red; font-family:cursive, fantasy, arial; font-style:italic;}
+	ol {font-size:100%; color:brown; margin-left:3%;}
+	p {font-size:100%; color:brown;}
+	p.indent_30 {font-size:100%; font-style:italic; font-weight:lighter; color:brown; margin-left:30%;}
+	p.res {font-size:80%; color:black;} 
+	q {font-size:100%; font-style:italic; font-weight:bold; color:brown; margin-left:3%;}
+	small {font-size:70%; color:brown;}
+	span.CAL {font-size:170%; color:red; font-style:italic;}
+	span.CEOL_Body {font-size:80%; color:brown; margin-left:15%;}
+	span.CEOL_Child {font-size:80%; color:brown; margin-left:12%;}
+	span.CEOL_Parent {font-size:90%; color:brown; margin-left:10%;}
+	span.CEOL_TOP {font-size:90%; color:brown; margin-left:7%; font-weight:bold;}
+	span.CODE {font-size:200%; color:VIOLET;}
+	span.cursor_wait {cursor:wait; font-size:120%; color:red;}
+	span.cursor_no_wait {font-size:120%; color:red;}
+	span.indent {margin-left:5%}
+	span.insertInnerHTMLdemo {font-size:250%; color:red; font-style:italic;}
+	span.OBJ {font-size:200%; color:VIOLET;}
+	span.Red {color:red;}
+	span.RelativeSize80RED {font-size:80%; color:red;}
+	span.SubTitle130 {font-size:130%; color:brown; margin-left:3%;}
+	span.SubTitle150 {font-size:150%; color:brown; margin-left:5%;}
+	span.objMETHOD {font-size:100%; color:mauve;}
+	span.redbold {font-size:110%; font-style:italic; color:red;}
+	span.rollBigRed {font-size:100%; color:red;}
+	span.rollSmall {font-size:50%; color:green;}
+	span.sample {font-size:140%; color:purple;}
+	span.smaller90 {font-size:90%;}
+	span.testColors {font-size:200%; color:VIOLET;}
+	span.textSmall {font-size:60%; color:purple;}
+	span.textSmallb {font-size:80%; color:brown;}
+	span.textSmaller {font-size:70%; color:brown;}
+	span.Red2Green150 {font-size:150%; color:red; font-style:italic;}
+	span.Red70i {font-size:70%; color:red; font-style:italic;}
+	span.Red80i {font-size:80%; color:red; font-style:italic;}
+	span.Red80cursive {font-size:80%; color:red; font-family:cursive;}
+	span.Green90cursive {font-size:90%; color:green; font-family:cursive;}
+	span.Green150cursive {font-size:150%; color:green; font-family:cursive;}
+	table {background:ghostwhite; margin-left:2%;} 
+	table.text_70PC {font-size:70%; color:brown;}
+	table.dobeTable {border:solid; cellpadding:3; cellspacing:5; border-color:darkbrown;>
+}
+	td {font-size:80%; color:darkbrown;}
+	td.codeCommentsGreen {font-size:90%; color:green;}
+	td.College {font-size:100%; color:black; font-weight:bold; vertical-align:top;} 
+	td.CollegeName {font-size:110%; color:black; font-weight:bold; vertical-align:top;} 
+	td.CollegeNotes {font-size:80%; color:black; vertical-align:top;} 
+	td.CollegeYears {font-size:90%; color:black; vertical-align:top;} 
+	td.Company {font-size:100%; color:black; font-weight:bold; vertical-align:top;} 
+	td.CompanyName {font-size:120%; color:black; font-weight:bold; vertical-align:top;} 
+	td.CompanyNotes {font-size:80%; color:black; vertical-align:top;} 
+	td.CompanyPosition {font-size:100%; color:black; font-weight:bold; vertical-align:top;} 
+	td.CompanyYears {font-size:90%; color:black; vertical-align:top;} 
+	td.GPA {font-size:80%; color:black; vertical-align:top;} 
+	td.Lin10s100 {font-size:100%; color:brown; margin-left:10%; font-weight:lighter;}
+	td.RelativeSize60 {font-size:60%; color:brown;}
+	td.RelativeSize70 {font-size:70%; color:brown;}
+	td.RelativeSize80 {font-size:80%; color:brown;}
+	td.distinctionNotes {font-size:80%; color:black; vertical-align:top;} 
+	td.dobeSmall {font-size:75%; color:brown;}
+	td.dobeSmaller {font-size:70%; color:brown;}
+	td.h1 {font-size:180%; color:brown;}
+	td.h2 {font-size:150%; color:brown;}
+	td.res {font-size:80%; color:black; vertical-align:top;} 
+	td.small_50 {font-size:50%; color:green;}
+	td.small_70bi {font-size:70%; color:darkbrown; font-style:italic;}
+	td.small_70gi {font-size:70%; color:green; font-style:italic;}
+	td.specialBROWN80I {font-size:80%; font-style:italic; color:brown;}
+	td.specialBROWN90 {font-size:90%; color:brown;}
+	td.specialBROWN100 {font-size:100%; color:brown;}
+	td.specialBROWN110 {font-size:110%; color:brown;}
+	td.specialBROWN120 {font-size:120%; color:brown;}
+	td.specialBROWN130I {font-size:130%; font-style:italic; color:brown;}
+	td.specialBROWN150 {font-size:150%; color:brown;}
+	td.specialBROWN200 {font-size:200%; color:brown;}
+	td.specialBROWN300 {font-size:300%; color:brown;}
+	td.specialRED {color:red;}
+	td.specialRED200 {font-size:200%; color:red;}
+	td.testColors {bgcolor:white; color:brown;}
+	td.tiny60 {font-size:60%; font-style:italic; color:red;}
+	td.tiny {font-size:70%; font-style:italic; color:red;}
+	td.white120 {font-size:120%; color:cornsilk; font-weight:bold; font-style:italic;}
+	td.white80 {font-size:80%; color:white;}
+	th {font-size:100%; color:brown;}
+	th.BinB100 {font-size:100%; color:brown; margin-left:5%; font-weight:bold;}
+	th.NinB100 {font-size:100%; color:brown; margin-left:5%;}
+	ul {font-size:100%; color:brown; margin-left:3%;}
+	ul.dobeBig {font-size:140%; font-style:italic; color:brown; margin-left:3%; font-weight:lighter;}
+	ul.links {font-size:80%; color:brown; margin-left:2%;}
+	ul.smaller80 {font-size:80%; color:brown; margin-left:3%;}
+
+
+

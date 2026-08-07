@@ -1,0 +1,17 @@
+
+You have found the bug!
+
+Congratulations! 
+
+This bug is innocuous and does noting other than provides a link to this text file. Had this been a real bug you could have been tracked, monitored and watched, oh my!
+
+Time to do some research, Search the web for 
+	"Web Bugs" or "Web Bug"
+	And Privacy
+
+Web bugs are not insects but very small images implanted in a web page or HTML email as a tracking tool.  Often they are 1x1 pixels in size.
+
+
+---
+For a good article see  http://websearch.about.com/library/weekly/aa090500a.htm?once=true&  "Web Bugs - Big Server is Spying On You "
+

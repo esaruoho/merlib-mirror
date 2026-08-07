@@ -1,0 +1,173 @@
+<HTML>
+<HEAD>
+<SCRIPT LANGUAGE="JavaScript">
+<!--  to hide script contents from old browsers
+
+//
+//  Cookie Functions
+
+
+//////////////////
+// getCookieVal //
+//////////////////
+function getCookieVal(offset)
+{
+  var endstr = document.cookie.indexOf (";", offset);
+
+  if (endstr == -1)
+  {
+    endstr = document.cookie.length;
+  }
+  return unescape(document.cookie.substring(offset, endstr));
+}
+
+
+///////////////
+// GetCookie //
+///////////////
+//  Function to return the value of the cookie specified by "name".
+//    name - String object containing the cookie name.
+//
+function GetCookie(name)
+{
+  var cnam = name + "=";
+  var alen = cnam.length;
+  var clen = document.cookie.length;
+  var i    = 0;
+
+  while (i < clen)
+  {
+    var j = i + alen;
+
+    if (document.cookie.substring(i, j) == cnam)
+    {
+      return getCookieVal (j);
+    }
+    i = document.cookie.indexOf(" ", i) + 2;
+    if (i == 0) break; 
+  }
+  return null;
+}
+
+
+////////////////
+//  SetCookie //
+////////////////
+//  Create or update a cookie.
+//    name    - String containing the cookie name
+//    value   - String containing the cookie value.  May contain
+//              any valid string characters, including whitespace, commas and quotes.
+//    expires - Date object containing the expiration data of the cookie,
+//              or null to expire the cookie at the end of the current session.
+//
+function SetCookie(name, value, expires)
+{
+  document.cookie = name + "=" + escape(value) + ((expires == null) ? "" : ("; expires=" + expires.toString()));
+}
+
+//////////////////
+// DeleteCookie //
+//////////////////
+//  Delete a cookie. (Sets expiration date to long time age)
+//    name - String containing cookie name
+//
+function DeleteCookie(name)
+{
+  document.cookie = name + "=" + GetCookie(name) + "; expires=Fri, 02-Jan-1970 00:00:00 GMT";
+}
+
+///////////////////////////////////////////////////////////////////////////////
+
+
+
+function setLastVisitCookie()
+{
+var nowDate = new Date()
+var expdate = new Date()
+
+	expdate.setTime (expdate.getTime() + 30*(24 * 60 * 60 * 1000)) // 30 days from now
+    SetCookie ("Last_Visit", nowDate.toLocaleString(), expdate)
+}
+
+// --> <!-- end hiding contents from old browsers  -->
+</SCRIPT>
+
+<TITLE>Your Last Visit
+</TITLE>
+</HEAD>
+
+<BODY onLoad="setLastVisitCookie()">
+
+
+<CENTER>
+<H1>Your Last Visit</H1>
+<HR>
+<SCRIPT LANGUAGE="JavaScript">
+<!--  to hide script contents from old browsers
+
+var lastVisit = GetCookie("Last_Visit")
+var htmlOut = ""
+
+    if (lastVisit == null) {
+    	htmlOut += "No record of you visiting in last 30 days."
+    } else {
+    	htmlOut += "Your last visit was " + lastVisit.substring(0,35)
+    } // if
+
+    document.write("<H3>")
+    document.write(htmlOut.bold().fontcolor("red"))
+    document.write("</H3>")
+    
+// --> <!-- end hiding contents from old browsers  -->
+</SCRIPT>
+
+</CENTER>
+<p>
+<ul>
+<li>This page remembers the last time you visited.
+<li>Reload the page to see the time of this visit.
+<li><ul>This idea could be extended to
+    <li>loading only material new <em>to this user</em>
+    <li>loading or not loading parts of a page based on preferences
+        set by user on a previous visit.
+    </ul>
+</ul>
+
+<HR>
+
+<h2>Notes:</h2>
+<ul>
+    <li>A <em>Cookie</em> is used to record the time of a visit.
+    <li>Record of last visit disappears in about 30 days, so you don't
+        get stale cookies.
+    <li>A <a href="lastvisit_old.html">previous version of this page</a> is
+        available for use with Netscape 2.0.
+	<li>This is mostly a programming example of using cookies in JavaScript.
+	<ul>
+	    <li>The HTML and JavaSript code <a href="lastvisit.txt">is here</a>.
+	    <li>Please feel free to use this code, hopefully giving credit as appropriate
+	        to the author.
+	</ul>
+</ul>
+
+<h2>Credits:</h2>
+<strong>Your Last Visit</strong> page by James Thiele who can be reached:
+    <UL><LI>at his home page 
+         <A href='http://www.eskimo.com/~jet'>http://www.eskimo.com/~jet</A>
+        <LI> via email at 
+         <address><A href='mailto:jet@eskimo.com?subject="Your%20Last%20Visit"'>jet@eskimo.com</a></address> 
+</ul>
+
+</UL>
+<IMG SRC="../RainbowLine.gif">
+<BR>
+<A href="index.html"><IMG SRC="javascriptlogo.gif">To JavaScript stuff</A>
+
+<br><em>Page last modified 28 January 2003</em>(Simpler cookie functions)
+<br><em>Page previously modified 2 July 2002</em>
+<br><em>Page previously modified 19 February 1996</em>
+
+
+</BODY>
+</HTML>
+

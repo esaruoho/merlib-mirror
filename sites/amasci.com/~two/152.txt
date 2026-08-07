@@ -1,0 +1,894 @@
+SOLDERS 
+
+ (1) GOLD
+ SOLDERS - Have superior
+ color, and strength. All are cadmium free. Supplied in 1 dwt
+ sheets. ShpWt 2 oz. 
+
+ Repair 
+
+ Y=Yellow; W=White 
+
+ Part # 
+
+ Type 
+
+ Flow Point ,'F 
+
+ Recommended 
+
+ Price 
+
+ 54.671 
+
+ 6KY XEasy 
+
+ 1310' 
+
+ Repair 
+
+ $7.93 
+
+ 54.672 
+
+ 6KY Easy 
+
+ 1345' 
+
+ Repair 
+
+ $7.93 
+
+ 54.673 
+
+ 6KW Easy 
+
+ 1390' 
+
+ Repair 
+
+ $6.27 
+
+ 54.674 
+
+ 8KY Easy 
+
+ 1350' 
+
+ Repair 
+
+ $9.60 
+
+ 54.675 
+
+ 10KY Easy 
+
+ 1340' 
+
+ General & Chain
+ Repair 
+
+ $10.93 
+
+ 54.676 
+
+ 10KY Medium 
+
+ 1395' 
+
+ General Repair 
+
+ $10.93 
+
+ 54.678 
+
+ 10KW Easy 
+
+ 1365' 
+
+ Prong Work 
+
+ $14.62 
+
+ 54.679 
+
+ 10KW Medium 
+
+ 1425' 
+
+ General Repair 
+
+ $14.62 
+
+ 54.680 
+
+ 10KW Hard 
+
+ 1550' 
+
+ Sizing 
+
+ $14.62 
+
+ 54.681 
+
+ 14KY XEasy 
+
+ 1295' 
+
+ Special Jobs 
+
+ $16.95 
+
+ 54.682 
+
+ 14KY Easy 
+
+ 1325' 
+
+ Prong Work 
+
+ $17.95 
+
+ 54.683 
+
+ 14KY Medium 
+
+ 1380' 
+
+ General Repair 
+
+ $17.95 
+
+ 54.684 
+
+ 14KY Hard 
+
+ 1470' 
+
+ Sizing 
+
+ $17.95 
+
+ 54.685 
+
+ 14KW XEasy 
+
+ 1320' 
+
+ Special Jobs 
+
+ $16.28 
+
+ 54.686 
+
+ 14KW Easy 
+
+ 1380' 
+
+ Prong Work 
+
+ $17.95 
+
+ 54.687 
+
+ 14KW Medium 
+
+ 1440' 
+
+ General Repair 
+
+ $17.95 
+
+ 54.688 
+
+ 14KW Hard 
+
+ 1570' 
+
+ Sizing 
+
+ $17.95 
+
+ 54.689 
+
+ 18KY Easy 
+
+ 1425' 
+
+ General Repair 
+
+ $21.63 
+
+ 54.690 
+
+ 18KY Medium 
+
+ 1495' 
+
+ Assembly 
+
+ $23.63 
+
+ 54.691 
+
+ 18KY Hard 
+
+ 1535' 
+
+ Sizing 
+
+ $23.63 
+
+ 54.692 
+
+ 18KW Easy 
+
+ 1465' 
+
+ General Repair 
+
+ $24.63 
+
+ 54.693 
+
+ 18KW Medium 
+
+ 1495' 
+
+ Assembly 
+
+ $24.63 
+
+ 54.694 
+
+ 18KW Hard 
+
+ 1590' 
+
+ Sizing 
+
+ $24.97 
+
+ Plumb 
+
+ 54.695 
+
+ 10KY XEasy 
+
+ 1305' 
+
+ General Repair 
+
+ $16.83 
+
+ 54.696 
+
+ 10KY Easy 
+
+ 1375' 
+
+ General Repair 
+
+ $16.83 
+
+ 54.697 
+
+ 10KY Medium 
+
+ 1400' 
+
+ General Repair 
+
+ $16.83 
+
+ 54.698 
+
+ 10KY Hard 
+
+ 1475' 
+
+ Sizing 
+
+ $16.83 
+
+ 54.699 
+
+ 10KW XEasy 
+
+ 1360' 
+
+ General Repair 
+
+ $16.83 
+
+ 54.700 
+
+ 10KW Easy 
+
+ 1390' 
+
+ General Repair 
+
+ $16.83 
+
+ 54.704 
+
+ 10KW Medium 
+
+ 1435' 
+
+ General Repair 
+
+ $16.83 
+
+ 54.705 
+
+ 10KW Hard 
+
+ 1570' 
+
+ Sizing 
+
+ $16.83 
+
+ 54.706 
+
+ 10K Green 
+
+ 1400' 
+
+ General Repair 
+
+ $16.83 
+
+ 54.707 
+
+ 10K Pink 
+
+ 1550' 
+
+ General Repair 
+
+ $16.83 
+
+ 54.708 
+
+ 14KY XEasy 
+
+ 1295' 
+
+ Use easy when
+ possible 
+
+ $22.42 
+
+ 54.709 
+
+ 14KY Easy 
+
+ 1340' 
+
+ Prongs, General
+ Repair 
+
+ $22.42 
+
+ 54.710 
+
+ 14KY Medium 
+
+ 1390' 
+
+ General Repair 
+
+ $22.42 
+
+ 54.711 
+
+ 14KY Hard 
+
+ 1480' 
+
+ Sizing 
+
+ $22.42 
+
+ 54.712 
+
+ 14KY XHard 
+
+ 1540' 
+
+ Sizing 
+
+ $22.42 
+
+ 54.713 
+
+ 14KW XEasy 
+
+ 1320' 
+
+ Use easy when
+ possible 
+
+ $22.42 
+
+ 54.714 
+
+ 14KW Easy 
+
+ 1390' 
+
+ General Repair 
+
+ $22.42 
+
+ 54.715 
+
+ 14KW Medium 
+
+ 1450' 
+
+ General Repair 
+
+ $22.42 
+
+ 54.716 
+
+ 14KW Hard 
+
+ 1570' 
+
+ Sizing 
+
+ $22.42 
+
+ 54.717 
+
+ 14K Green 
+
+ 1430' 
+
+ General Repair 
+
+ $22.42 
+
+ 54.718 
+
+ 14K Pink 
+
+ 1560' 
+
+ General Repair 
+
+ $22.42 
+
+ 54.724 
+
+ 18KY Easy 
+
+ 1430' 
+
+ General Repair 
+
+ $27.98 
+
+ 54.725 
+
+ 18KY Medium 
+
+ 1475' 
+
+ General Repair 
+
+ $27.98 
+
+ 54.726 
+
+ 18KY Hard 
+
+ 1550' 
+
+ Sizing 
+
+ $27.98 
+
+ 54.727 
+
+ 18KW Easy 
+
+ 1460' 
+
+ General Repair 
+
+ $27.98 
+
+ 54.728 
+
+ 18KW Hard 
+
+ 1610' 
+
+ Sizing 
+
+ $27.98 
+
+ (2) CLIPPED
+ GOLD SOLDER -
+ In 1 mm square flat pieces, ready to use. Matches karat color
+ exactly. Two dwt in bottle. 
+
+ 54.654 
+
+ 14Y easy repair
+ ShpWt 1 oz. 
+
+ $21.80 
+
+ (3) 10
+ K GOLD WIRE SOLDER 
+ Diameter is 0.12. 1 dwt. 
+
+ 54.660 
+
+ Yellow ShpWt 1oz. 
+
+ $37.00 
+
+ 54.670 
+
+ White ShpWt 1oz. 
+
+ $33.00 
+
+ (4) 
+ SILVER SOLDERS -
+ Available in h oz. sheets, 1/4 oz.wire or 1 oz.wire coils. Four
+ grades available. Cadmium free. ShpWt 1 1/2oz. 
+
+ Grade 
+
+ Flow 
+
+ 1/4ozSheet 
+
+ Each 
+
+ 1/4ozWire 
+
+ Each 
+
+ 1ozWire 
+
+ Each 
+
+ X Easy 
+
+ 1205'F 
+
+ 54.719 
+
+ $4.00 
+
+ 54.721 
+
+ $4.00 
+
+ 54.720 
+
+ $13.10 
+
+ Easy 
+
+ 1325'F 
+
+ 54.701 
+
+ $4.00 
+
+ 54.723 
+
+ $4.00 
+
+ 54.722 
+
+ $14.20 
+
+ Med 
+
+ 1360'F 
+
+ 54.702 
+
+ $4.50 
+
+ 54.733 
+
+ $4.50 
+
+ 54.732 
+
+ $15.90 
+
+ Hard 
+
+ 1450'F 
+
+ 54.703 
+
+ $4.50 
+
+ 54.743 
+
+ $4.50 
+
+ 54.742 
+
+ $16.90 
+
+ (5) SILVER
+ SOLDER PASTE WITH FLUX - p
+ oz. of silver solder with flux already added. A plunger allows the
+ proper amount of solder and flux to be placed where required. ShpWt
+ 2 oz. 
+
+ 54.830 
+
+ Easy 
+
+ 1240' 
+
+ $11.00 
+
+ 54.831 
+
+ Medium 
+
+ 1275' 
+
+ 11.80 
+
+ 54.832 
+
+ Hard 
+
+ 1365' 
+
+ 12.35 
+
+ (6) GOLD
+ SOLDER PASTE WITH FLUX -
+ Disposable container holds one dwt gold solder with flux. Plunger
+ allows the proper amount of solder and flux to be placed at the
+ exact point required. Eliminates waste and improves appearance.
+ ShpWt 2 oz. 
+
+ 54.840 
+
+ 14KY Repair 
+
+ 1195' 
+
+ $13.00 
+
+ 54.850 
+
+ 14KW Repair 
+
+ 1290' 
+
+ 13.00 
+
+ (7) CLIPPED
+ SILVER SOLDER - In 1 mm
+ square flat pieces, ready to use. Easy flow for most jobs. 1/4 oz.
+ in bottle. ShpWt 2 oz. 
+
+ 54.750 
+
+ $10.10 
+
+ (8) N-BRAND
+ PLATINUM SOLDERS -Sheet
+ solder in envelopes of 1 dwt. 
+
+ No. 
+
+ Type 
+
+ Melt. 
+
+ Each 
+
+ 54.760 
+
+ Hard 
+
+ 2250'F 
+
+ $81.00 
+
+ 54.761 
+
+ Medium 
+
+ 2200' F 
+
+ 74.45 
+
+ 54.762 
+
+ Soft 
+
+ 2100'F` 
+
+ 62.45 
+
+ (9) 
+ BISMUTH SOLDER - Flow at
+ low temperature, and is recommended for pewter, silver plate, etc.
+ Melting point : 465'F. Comes in 1 oz. bar. 
+
+ 54.800 
+
+ ShpWt 2 oz. 
+
+ $2.95 
+
+ (10) HARD
+ BRASS SOLDER - Flow point
+ 1500'F. Supplied in 1 oz package. 
+
+ 54.802 
+
+ ShpWt 2 oz. 
+
+ $50.00 
+
+ (11) PEWTER
+ SOLDER - Melting point
+ 370'F. Supplied in 1 lb. wire spools. 1/16 diameter. 
+
+ 54.804 
+
+ ShpWt 1 lb. 4 oz. 
+
+ $18.50 
+
+ (12) 
+ SOFT SOLDER -
+ Coils of easy flowing, round, drawn solder. Weight per coil 1 oz. 
+
+ 54.806 
+
+ ShpWt 2 oz. 
+
+ $2.00 
+
+ (13) TIX
+ SOLDER - Known as the
+ hardest soft solder on earth. Melts at 245'F, and has a holding
+ power of 4300lbs. per square inch. Adheres to all ordinary
+ solderable materials and works with gun, iron, torch or soldering
+ machine. Stays white, and does not tarnish. Comes in 3 sticks,
+ and each package contains 20 sticks. 
+
+ 54.808 
+
+ ShpWt 2 oz 
+
+ $10.45 
+
+ (14) FUSIBLE
+ METAL - Melts in boiling
+ water. Supplied in 2 oz ingots. 
+
+ 54.812 
+
+ ShpWt 3 oz. 
+
+ $4.80 
+
+ (15) 
+ STAY-BRIGHT SOLDER - High
+ silver bearing solder melts and flows at 430'F. Provides strength
+ without the distortion damage caused by high temperature. Ideal for
+ repair work. Retains a bright finish. Flux included. 
+
+ 54.860 
+
+ ShpWt. 2 oz. 
+
+ $6.15 
+
+ 54.861 14oz.
+ Flux only 
+
+ ShpWt. 8 oz. 
+
+ $4.00 
+
+ Base Metal Solder
+ Paste 
+
+ (16) SILVER
+ BEARING SOLDER -Low-temperature,
+ silver bearing solder paste. Joins 22 different combinations of
+ metals. Easy, no mess, no-waste syringes. 
+
+ J1111 
+
+ 7.1 grams. 
+
+ ShpWt 2 oz 
+
+ $4.50 
+
+ (17) ALUMINUM
+ SOLDER - Melts at only
+ 395' Fahrenheit, far below the melting point of aluminum or any
+ other metal. 
+
+ J1112 
+
+ 7.1 grams 
+
+ ShpWt 2 oz 
+
+ $4.50 
+
+ (18) 
+ PEWTER SOLDER - Corrosion
+ resistant, with excellent color matching abilities, stronger than
+ pot metal. Great for pewter objects. Metals at 400' Fahrenheit, for
+ easy workability. 
+
+ J1113 
+
+ 14.7 grams 
+
+ ShpWt 2 oz 
+
+ $4.50 
+
+ (19) COPPER
+ BEARING SOLDER - Silver
+ color, no additional flux required with this paste specifically
+ formulated for use with copper brass, nickel, or bronze. Cadmium and
+ antimony free. Flows smoothly at only 430' F. 
+
+ J1114 
+
+ 14.7 grams 
+
+ ShpWt 2 oz 
+
+ $5.95 
+
+ Solder Plier 
+
+ (20) SOLDER
+ CUTTING PLIER -
+ Buying pre-cut solder can be expensive. Cut your own pieces of gold
+ or silver or other soft metals quickly and easily. Cuts up to b
+ squares. Made of stainless steel with box-joint construction. 
+
+ 46.360 
+
+ ShpWt 12 oz. 
+
+ $16.65 
+
+ Prices Subject to Change Without Notice. 
+
+ Previous Page 
+
+ Next Page 
+
+ Index A thru G 
+
+ Home 
+
+ Page 152

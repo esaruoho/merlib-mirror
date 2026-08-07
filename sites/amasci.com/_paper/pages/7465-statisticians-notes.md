@@ -1,0 +1,87 @@
+---
+title: "Statisticians Notes"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/9899/Notes28-38.htm
+order: 7465
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T06:00:05Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Statisticians Notes
+
+*Source page: `~samoyed/iwpa/9899/Notes28-38.htm`*
+
+Statisticians Notes
+
+Corrections\
+To Previous Report
+
+Pull 24, Latham NY
+
+Tundra, owned by Dan Plosila, had been left off of the Organizers Finish Report. He placed 7<sup>th</sup> in the 60# class.
+
+Pull 14, Newboro, ON
+
+Montana was omitted on the pull sheet for 120# class. I have temporarily included him with the next days statistics (last place, *which is correct*) until I can get the correct values from the organizer.\
+\
+
+I still havent followed up on this.
+
+(Pulls 28 thru 38)\
+
+24 January, 1999
+
+Newport News was scheduled for two days. The Sanctioning director only received results for Saturday, all I have.
+
+****
+
+Assumptions
+
+Kayla Region 6, handled by Bob Valentine at the Corapeake Christmas Pull. I am assuming this is the Pedersons Kayla of region 7.
+
+Gunner Region 7, handled by Mary Jane St. Lawrence at the Corapeake Christmas Pull. I am assuming this is the Pedersons Gunner.
+
+****
+
+E R R O R S
+
+Pull 38, Newport News VA
+
+In the 60# class, the **Starsky** and **Chevy** line-up was reversed.
+
+Also, Steve Jackson is region 5, not 6; and Debbie Lee is 7, not 6.
+
+MEMBERSHIP ISSUES
+
+Instead of just assuming memberships, I am carrying this as a reminder that we have some issues to resolve. If you are on this as a "membership not assumed", besides not acquiring pull points, you are probably not getting the newsletter either
+
+****
+
+New Issues
+
+Memberships Assumed
+
+The following individuals apparently joined at a pull (shows in the organizers financial report). Their membership was assumed with the date of the pull, but is still being watched until the membership chair has received the paperwork.
+
+Kelly & Reggie Heiser Joined family at the Missoula pull on 9 Jan 99
+
+****
+
+Still Outstanding
+
+Memberships Assumed
+
+Pam Swanson Assumed the Pam on the Larry Brillhart family membership. She handled *Star* which looked like the *Star* Larry owns and Larry was at the pull.
+
+****
+
+Dropped
+
+Membership Not Confirmed
+
+ 
+
+Brad Ratcliff (a member last year) was listed as a member at the Phillipi pull; but we have no record of membership, nor did he join at the pull. **Scout** will be marked provisional.

@@ -1,0 +1,231 @@
+Bankstar's Customer List 
+
+ 1 
+
+ Alexandria 
+ Commercial and Maritime Bank 
+
+ 2 
+
+ Arab 
+ African International Bank 
+
+ 3 
+
+ Arab 
+ Bank 
+
+ 4 
+
+ Arab 
+ Banking Corporation 
+
+ 5 
+
+ American 
+ Express Bank Ltd 
+
+ 6 
+
+ Arab 
+ Investment Bank 
+
+ 7 
+
+ Bank 
+ of Alexandria 
+
+ 8 
+
+ Bank 
+ of Commerce and development ( Altegareyoon) 
+
+ 9 
+
+ Bank Misr 
+
+ 10 
+
+ BNP 
+ Paribas 
+
+ 11 
+
+ Cairo 
+ Bank (Banque Du Caire) 
+
+ 12 
+
+ Cairo 
+ Barclays Bank 
+
+ 13 
+
+ Citi 
+ Bank 
+
+ 14 
+
+ Cairo 
+ Far East Bank 
+
+ 15 
+
+ Commercial 
+ International Bank 
+
+ 16 
+
+ Credit 
+ Lyonnais Bank 
+
+ 17 
+
+ Delta 
+ International Bank 
+
+ 18 
+
+ Egyptian 
+ American Bank 
+
+ 19 
+
+ Egypt 
+ America International Bank 
+
+ 20 
+
+ Egyptian 
+ Arab Land Bank 
+
+ 21 
+
+ Egyptian 
+ Commercial Bank 
+
+ 22 
+
+ Egyptian 
+ Gulf Bank 
+
+ 23 
+
+ Egyptian 
+ Saudi Finance Bank 
+
+ 24 
+
+ Egyptian 
+ Workers Bank 
+
+ 25 
+
+ Export 
+ Development Bank of Egypt (Sedarat Bank) 
+
+ 26 
+
+ Faisal 
+ Islamic Bank of Egypt 
+
+ 27 
+
+ Housing 
+ and development Bank S.A.E 
+
+ 28 
+
+ HSBC 
+
+ 29 
+
+ Industrial 
+ Development Bank Of Egypt 
+
+ 30 
+
+ Jammal 
+ Trust Bank 
+
+ 31 
+
+ Misr 
+ America International Bank 
+
+ 32 
+
+ Misr Exterior Bank 
+
+ 33 
+
+ Misr 
+ International Bank 
+
+ 34 
+
+ Misr 
+ Iran Development Bank 
+
+ 35 
+
+ Misr 
+ Romania Bank 
+
+ 36 
+
+ Mohandiss 
+ Bank 
+
+ 37 
+
+ National 
+ bank of Abu Dhabi 
+
+ 38 
+
+ National 
+ Bank for Development NBD 
+
+ 39 
+
+ National Bank of Greece 
+
+ 40 
+
+ National 
+ Bank of Oman 
+
+ 41 
+
+ National 
+ Societe General Bank 
+
+ 42 
+
+ Nile Bank 
+
+ 43 
+
+ Nova 
+ Scotia 
+
+ 44 
+
+ Principal 
+ Bank for Development and Agricultural Credit 
+
+ 45 
+
+ SAIB 
+ Bank 
+
+ 46 
+
+ Suez 
+ Canal Bank 
+
+ 47 
+
+ United 
+ Bank of Egypt

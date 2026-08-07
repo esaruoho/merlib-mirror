@@ -1,0 +1,588 @@
+---
+title: "Pull 2 -- Kickoff Classic"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/9899/Pull2.html
+order: 7478
+reachable_from_entry: false
+images: 0
+internal_links: 7
+extracted: 2026-08-07T06:00:06Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 2 -- Kickoff Classic
+
+*Source page: `~samoyed/iwpa/9899/Pull2.html`*
+
+Kickoff Classic\
+Corapeake, NC
+================
+
+Pull: 2
+
+Organizer(s): Todd & Tina Pederson
+
+Wheels Region: 7
+
+Natural
+
+Track: Crushed Granite Screenings Surface hard & Fast
+
+Date: 9/6/98
+
+Weather:
+
+87 - Slight breeze, warm
+
+35 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Diffy
+
+7
+
+1200
+
+9.31
+
+32
+
+37.50
+
+5.0
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Ginger
+
+7
+
+2200
+
+42.62
+
+54
+
+40.74
+
+10.0
+
+Debbie Lee
+
+Am. PitBull Terrier
+
+Reba
+
+7
+
+2000
+
+44.40
+
+39
+
+51.28
+
+7.0
+
+Tina Pederson
+
+Am. PitBull Terrier
+
+Samson
+
+7
+
+1600
+
+53.25
+
+54
+
+29.63
+
+4.0
+
+Pat McCann
+
+Am. PitBull Terrier
+
+Missy
+
+7
+
+1400
+
+13.09
+
+60
+
+23.33
+
+2.0
+
+Ed St. Lawrence
+
+Am. Bull Dog
+
+Justice
+
+6
+
+800
+
+65.78
+
+54
+
+14.81
+
+1.0
+
+Janet McMillan
+
+Am. PitBull Terrier
+
+Slick
+
+6
+
+No Pull
+
+58
+
+.
+
+0.0
+
+Janet McMillan
+
+Am. PitBull Terrier
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Gunner
+
+7
+
+2800
+
+12.25
+
+78
+
+35.90
+
+13.0
+
+Todd Pederson
+
+Am. Bull Dog
+
+Ringo
+
+6
+
+2500
+
+11.38
+
+80
+
+31.25
+
+10.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Bobbie-Sue
+
+7
+
+2500
+
+37.06
+
+73
+
+34.25
+
+7.0
+
+Debbie Lee
+
+Am. Bull Dog
+
+Glory
+
+7
+
+2500
+
+41.38
+
+76
+
+32.89
+
+5.0
+
+Tina Pederson
+
+Am. Bull Dog
+
+Thunder
+
+7
+
+1900
+
+8.25
+
+63
+
+30.16
+
+4.0
+
+Pat McCann
+
+Am. PitBull Terrier
+
+Yukon
+
+6
+
+1300
+
+37.94
+
+78
+
+16.67
+
+3.0
+
+Sandra Dodds
+
+Alaskan Malamute
+
+Tarna
+
+P
+
+700
+
+5.44
+
+63
+
+11.11
+
+.
+
+Phyllis Smuland
+
+Am. PitBull Terrier
+
+Darla
+
+6
+
+No Pull
+
+75
+
+.
+
+0.0
+
+Stephanie Coleman
+
+Am. PitBull Terrier
+
+Mister
+
+7
+
+No Pull
+
+80
+
+.
+
+0.0
+
+Ed St. Lawrence
+
+Am. PitBull Terrier
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Blitz
+
+6
+
+2500
+
+10.90
+
+92
+
+27.17
+
+9.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Dozer
+
+6
+
+2200
+
+13.18
+
+84
+
+26.19
+
+6.0
+
+Dave Coleman
+
+Am. Bull Dog
+
+Bolo
+
+6
+
+2200
+
+59.24
+
+92
+
+23.91
+
+3.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Xena
+
+6
+
+1600
+
+15.60
+
+89
+
+17.98
+
+1.0
+
+Carol Dodds
+
+Alaskan Malamute
+
+Zena
+
+6
+
+1300
+
+14.53
+
+90
+
+14.44
+
+0.5
+
+Nella Johnson
+
+Am. Bull Dog
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Nieka
+
+6
+
+1000
+
+25.59
+
+112
+
+8.93
+
+6.0
+
+Shannon Turner Dodds
+
+Alaskan Malamute
+
+Bulldog
+
+P
+
+400
+
+8.91
+
+108
+
+3.70
+
+.
+
+Phyllis Smuland
+
+Am. Bull Dog
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Butkus
+
+7
+
+3400
+
+37.13
+
+175
+
+19.43
+
+5.0
+
+Terry Lee
+
+Mastiff/Bernard
+
+Last Updated: 00:42:48 on 12-16-1998
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](%20%20%20%20%20%20%20%20%20%20Pull1.html%20%20%20%20) | [Next Pull \#](%20%20%20%20%20%20%20%20%20%20Pull3.html%20%20%20%20) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

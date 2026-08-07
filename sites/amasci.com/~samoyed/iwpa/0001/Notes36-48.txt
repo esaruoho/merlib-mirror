@@ -1,0 +1,115 @@
+Statisticians Notes 
+
+ Notes for 2000/2001 Pulls 36 - 48 
+ Ronald E. Bowser 
+ Pulls 36 thru 48 
+ Ronald E. Bowser 
+ 3 
+ 53 
+ 1996-03-21T09:28:00Z 
+ 2001-01-21T06:10:00Z 
+ 2001-01-21T06:11:00Z 
+ 1 
+ 422 
+ 2408 
+ IWPA 
+ 23040 
+ 20 
+ 4 
+ 2957 
+ 9.4402 
+
+ Print 
+ 0 
+ 0 
+
+ Statisticians Notes 
+
+ (Pulls 36 thru
+48) 
+ SAVEDATE \@ "d MMMM, yyyy" \*
+MERGEFORMAT 20 January,
+2001 
+
+ Requested Changes 
+
+ Kady owned by Jaci Rodgers in region 2. Jaci is the 11-year-old daughter of Richard
+and Kris Rodgers and has been the handler at all pulls to date (according to
+Kris); but Kris has been listed in most cases. 
+ Since Jaci is a minor and Kris has been filling out the entry form, my
+guess this may be the reason Kris has been listed as the handler. 
+
+I have made three changes: 1) Made Jaci the handler on pulls 13, 37, and 38
+where Kris was listed; 2) changed the
+owner from Kris to Jaci; 3) changed the
+dogs name from Katie to Kady Kris indicated the spelling wasnt important,
+but she seemed to prefer Kady in most communications. 
+
+ Maya owned by Amy
+Morris in region 6. I had the name
+as Mia in the database. It has
+been corrected and the web pages have been updated. 
+
+ Assumptions 
+
+ Dozer Region 9,
+handled by Gina Vigil at Greeley on 18 Nov. Assumed Larry McGees Dog. 
+ Wrong assumption on my part, Dozer has been
+entered as a new dog assigned to Regina Vigil. 
+
+ Ringo
+
+Region 6, handled by Sean Harrison at Forksville. Assumed Charlie Johnsons dog. 
+
+ MEMBERSHIP ISSUES 
+
+ Instead of just assuming
+memberships, I am carrying this as a reminder that we have some issues to
+resolve. If you are on this as a
+membership not assumed, besides not acquiring pull points, you are probably
+not getting the newsletter either 
+
+ New Issues 
+
+ Memberships Not Assumed 
+
+ The following
+were marked as members on the organizer's report. Membership has no record and the individuals are assumed
+Provisional until confirmation. Their pulls will become valid if membership
+records their join date as on or before the pulls in question. 
+
+ Gabe Casas Listed as a member at the Greeley
+Thanksgiving Pull, but we have no record of membership and no sign of him
+joining at the pull. Assumed
+provisional. 
+
+ Memberships Assumed 
+
+ The following
+individuals apparently joined at a pull (shows in the organizers financial
+report). Their membership was assumed
+with the date of the pull, but is still being watched until the membership
+chair has received the paperwork. 
+
+ Brock Verworn Gail Verworn apparently
+upgraded her membership to family at the Missoula Pull 2 Dec so that her son Brock 
+could handle. 
+
+ Still Outstanding 
+
+ Memberships
+Assumed 
+
+ David Heffelfinger Listed as a member at Frackville on
+11-12 November 2000, but not in membership database, nor shown as joining at
+the pull. After inquiry, found out he Replaces
+ Ron McAlvage in the Kehler membership . Assuming pulls by David are under the
+Kehler membership, and past (but not future) pulls by Ron are still under the
+Kehler membership. ( Awaiting Memberships decision on eligibility ) 
+
+ Memberships
+Not Assumed 
+
+ Robert Edwards Listed as a member at Frackville on
+11 November 2000, but not in membership database, nor shown as joining at the
+pull. Assumed Provisional.

@@ -1,0 +1,48 @@
+JBM - Calculations - Links to Ballistics Coefficients
+
+ Bibliography 
+ |
+ Calculations 
+ |
+ Downloads 
+ |
+ FAQ 
+ |
+ JBM 
+ |
+ Links 
+ |
+ Personal 
+ |
+ Software 
+ |
+ Topics 
+
+ A new topic, Elevation , has been added. It shows
+ the differences in trajectories when zeroing at different atmospheric conditions and how to calculate
+ a trajectory for different atmospheric conditions.
+
+ about these ads... 
+
+ JBM -
+ Calculations - Ballistic Coefficients
+
+ I've quit trying to keep links to specific BC pages on bullet manufacturer's
+ websites. It's just too much trouble. Here are links to the manufacturer's
+ website, I'm afraid you'll just have to hunt for them.
+
+ Barnes 
+ Hawk 
+ Hornady 
+ Lapua 
+ Nosler 
+ Sierra 
+ Speer 
+ Swift 
+
+ about these ads... 
+
+ JBM Small Arms Ballistics . 
+ Last update 30 June 2007, Copyright &copy; 1996-2007
+ JBM 
+ [V]

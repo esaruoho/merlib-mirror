@@ -1,0 +1,1654 @@
+Pure Mac: System Enhancements - Software for Macintosh 
+
+ System Enhancements 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Autotext 
+ Keyboard 
+ Menu 
+ Services 
+ Search 
+ Virtual Desktops 
+ Miscellany 
+
+ CopyPaste 
+ Spell Catcher 
+ TextExpander 
+ TypeIt4Me 
+ Typinator 
+ Clipboard 
+ CopyPaste 
+ iClip 
+ Jumpcut 
+ PTHPasteboard 
+ shadowClipboard 
+
+ DoubleCommand 
+ Keyclick 
+ KeyStrokes 
+ KeyViewer 
+ Popchar X 
+ Synergy 
+ Teleport 
+ Ukelele 
+ Macros 
+ iKey 
+ QuicKeys 
+
+ Menu Master 
+ MenuShade 
+ Mouse 
+ FinderPop 
+ LazyMouse 
+ MondoMouse 
+ OmniDazzle 
+ One Finger Snap 
+ SteerMouse 
+ Wraparound 
+ xGestures 
+
+ Print Selection Service 
+ Service Manager 
+ Service Scrubber 
+ WordService 
+
+ EasyFind 
+ FoxTrot 
+ Google Desktop 
+ HoudahSpot 
+ NotLight 
+ SpotInside 
+ Spotlaser 
+ Speech 
+ Cepstral Voices 
+ GhostReader 
+ iListen 
+ Infovox iVox 
+ VisioVoice 
+
+ CodeTek VirtualDesktop 
+ Desktop Manager 
+ VirtueDesktops 
+ Windows 
+ ASM 
+ DragonDrop 
+ LiteSwitch 
+ Sticky Windows 
+ WindowShade 
+ Witch 
+
+ DarkAdapted 
+ Default Folder 
+ FastScripts 
+ Growl 
+ Hazel 
+ ICeCoffEE 
+ Smart Scroll 
+ SwitchRes 
+ TinkerTool 
+ WinSwitch 
+ Yahoo! Widget Engine 
+
+ This page has software which will change the way your Mac works. For software that changes
+your Mac's appearance, check the Face-Lift page. The Launchers , Disk & File and Diagnostic pages may also have what you're looking for. 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ ASM 2.2.9 
+
+ASM brings back the application switcher menu (and more) to Mac OS X. It's highly
+customizable and offers some nice extra features, such as Classic Window Mode (orders all
+windows of an application to front when it becomes active) or Single Application Mode
+(automatically hides applications other than the front-most one).
+
+ License : Shareware, $15
+ Author/Publisher : Frank Vercruesse
+ Modification Date : December 20, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 902 Kb
+
+ Home Page 
+
+ Cepstral Voices 5.1 
+
+At Cepstral, Text-to-Speech is our only focus. We make realistic synthetic voices that can
+say anything, anywhere, with personality and style. From the smallest device to large
+installations and high-end interactive media, Cepstral voices can bring fresh content to
+your ears, on demand.
+
+ License : Demo, $30 per voice
+ Author/Publisher : Cepstral LLC
+ Modification Date : June 26, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: About 100 MB each
+
+ Home Page 
+
+ CodeTek VirtualDesktop 3.2 
+
+Now you can multitask, work with more than one application at a time, in
+Mac OS X by using CodeTek VirtualDesktop. CodeTek VirtualDesktop allows
+you to run many applications side-by-side, yet keep your workspace
+organized and your workflow efficient. The enhanced pager allows you to
+view the your applications and instantly switch between desktops as you
+work on different tasks. You can work with groups of windows, not just
+single applications. CodeTek VirtualDesktop is highly customizable in
+appearance and action; it works the way you want it to work.
+
+ License : Shareware, $40, Lite Version $20
+ Author/Publisher : CodeTek Studios
+ Modification Date : July 5, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.7 MB - Pro Version
+
+ Download 
+File Size: 1.5 MB - Lite Version
+
+ Home Page 
+
+ CopyPaste Pro 2.0.6 
+
+Multiple Clips
+ - Never lose a clip again every copy is saved and available in a clip browser.
+ Edit Clips
+ - Now edit any clip instantly with the handy built in word processor.
+ Archives
+ - Create archives to keep any important clips you want to save and use later.
+ History of Clips
+ - All copies or cuts are instantly added to an always accessible history of clips.
+ Multiple Views
+ - View clips the way you like via menu or graphical browser.
+ Clip Tools
+ - Useful tools to alter text, insert time and extract data in clips.
+ Quick CopyPaste
+ - Makes copying and pasting faster and easier.
+Easy to use. Invisible till you need it. Solid, fast and so much more...
+
+ License : Shareware, $20
+ Author/Publisher : Peter Hoerster and Julian Miller/Script Software
+ Modification Date : April 5, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 4.0 MB
+
+ Home Page 
+
+ DarkAdapted 2.3.4 
+
+DarkAdapted is a gamma control application program. It modifies your screen gamma settings
+so that you may, for example, preserve your dark adaptation while using your computer.
+
+ License : Freeware, Pro $10
+ Author/Publisher : Stephen E. Hutson
+ Modification Date : October 21, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 10.0 MB
+
+ Home Page 
+
+ Default Folder X 4.2 
+
+Default Folder X 2.0 is now ready for Mac OS 10.4 "Tiger", improves
+Save As dialogs, speeds opening folders in the Finder, and corrects
+problems found in previous versions.
+For years, Default Folder has helped speed Macintosh users through the
+process of opening, saving, and managing files. Even in Mac OS X, the
+familiar Open and Save dialogs are missing some very necessary 
+features, and have some decidedly inconvenient quirks. Default Folder X
+fixes a number of problems in OS X's file dialogs and adds convenient
+features to quickly get you where you want to go.
+
+ License : Shareware, $35
+ Author/Publisher : Jon Gotow/St. Clair Software
+ Modification Date : April 3, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 10.2 Kb - version 4.2
+
+ Download 
+File Size: 1.1 Mb - version 3.1.5
+
+ Home Page 
+
+ Desktop Manager 0.5.3 
+
+Desktop Manager is my own pet project to implement a (hopefully) easy to
+use virtual desktop manager for OS X. I've put it up here in the hope
+that it will be useful to others. Simply run the app and a pager should
+appear in the status bar and on the desktop.
+
+ License : Freeware
+ Author/Publisher : Richard Wareham
+ Modification Date : May 2, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 261 Kb - version 0.5.3 - May 2, 2005
+
+ Home Page 
+
+ DoubleCommand 1.6.5 
+
+DoubleCommand is software for Mac OS X (a kernel extension) that lets
+you remap keys, in other words change the way your keyboard works. Often
+used to make a PC keyboard more comfortable with a Mac, swapping the Alt
+(Option) and Windows (Command or Apple) keys, since they are in swapped
+positions on Mac and PC keyboards. DoubleCommand is a quick and easy way
+to fix this if you use a PC keyboard with your Mac. Called DoubleCommand
+because originally it was used to give the old PowerBooks a second
+Command key, where there was an enter key.
+
+ License : Freeware
+ Author/Publisher : Michael Baltaks
+ Modification Date : August 5, 2007
+ Requirements : Mac OS X 10.4 or higher - Not Leopard Compatible
+
+ Download 
+File Size: 223 Kb
+
+ Home Page 
+
+ DragonDrop 1.3 
+
+DragonDrop is intended to reintroduce some of the functionality lost
+with the death of tabbed windows. We all remember tabbed windows, who
+trod the classic paths. We could drag an open window to the bottom of
+the screen, and a title-tab peeked up, readily displaying its contents
+at a click or a drag, and collapsing to insignificance at the slightest
+thought of dismissal.
+
+Some used the tabs for quick-launching their favoritest of applications
+and documents, others for drop boxes or to get things out of the way.
+They're back, sort of.
+
+ License : Freeware
+ Author/Publisher : David Adamson
+ Modification Date : July 12, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 517 Kb
+
+ Home Page 
+
+ EasyFind 4.5 
+
+EasyFind is an alternative to or supplement of Spotlight and finds files,
+folders or contents in any file without the need for indexing -- and
+therefore immediately. This is especially useful if you are tired of
+slow or impossible indexing, outdated or corrupted indices or if you are
+just looking for missing features like case sensitive or insensitive
+search, Boolean operators, wildcards or searching for phrases. In
+addition, EasyFind uses multithreading and is therefore very responsive
+even with multiple search processes running, provides contextual menus
+and Mac OS X services and displays the location of each item in a
+separate column for a better overview. Finally EasyFind uses little
+memory, supports drag-and-drop and the clipboard and optionally finds
+invisible items or items within packages.
+
+ License : Freeware
+ Author/Publisher : DEVONtechnologies
+ Modification Date : July 9, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 867 Kb
+
+ Home Page 
+
+ FastScripts 2.3.1 
+
+FastScripts is the super-charged scripting utility for Mac OS X.
+Access your scripts by keyboard shortcut or menu bar.
+
+ License : Shareware, $15
+ Author/Publisher : Red Sweater Software
+ Modification Date : September 26, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.4 MB
+
+ Home Page 
+
+ FinderPop 2.2 
+
+Open the FinderPop preference pane. Click on the Show FinderPop Items Folder button in the
+Items sub-panel. Add aliases to your favourite applications, folders, documents, and
+whatnots to that folder. Now every time you control-click in the Finder or click in an
+unused part of the menubar, you'll get a few more options... 
+Control-free contextual menu popup in finder.
+
+ License : Freeware
+ Author/Publisher : Turlough O'Connor
+ Modification Date : February 13, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.0 MB - version 2.2
+
+ Download 
+File Size: 393 Kb - version 1.9.2 - December 3, 2000
+
+ Home Page 
+
+ FoxTrot 2.0.3 
+
+FoxTrot is an application delivering the fastest,
+most focused and precise way to find data in the files on your Mac.
+
+Based on the revolutionary FoxTrot search engine - used in more than 40
+countries by users of CTM's PowerMail - FoxTrot brings
+high performance document retrieval and indexing to your most important
+files.
+
+ License : Demo, Personal $45, Pro $155
+ Author/Publisher : CTM Development
+ Modification Date : December 5, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.6 MB - FoxTrot Professional Search 2.0.3
+
+ Download 
+File Size: 6.6 MB - FoxTrot Personal Search 2.0.3
+
+ Home Page 
+
+ GhostReader 1.5.1 
+
+GhostReader allows you to listen while your Mac does the talking
+
+GhostReader is the new name (it used to be called TextParrot) for a
+multilingual text to speech solution for Mac OS X that allows you to
+listen to your documents with naturally sounding voices in a language of
+choice. Just like a ghostwriter writes for someone else, GhostReader can
+read for you! You can also use it to create your own personal podcasts
+or your own audio books by exporting to iPod ready iTunes tracks. Or
+just use it to speak selected text in a handy reader window with play,
+fast forward and rewind functionality. In some applications, such as
+Safari, GhostReader enables you to listen to text by just pointing your
+cursor at the text. Now you can sit back and relax while GhostReader
+reads the text under the cursor.
+
+ License : Demo, $40 for single monolingual license
+ Author/Publisher : ConvenienceWare
+ Modification Date : June 4, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 292 MB
+
+ Home Page 
+
+ Google Desktop 1.6.0.1552 
+
+Google Desktop is a desktop search application that gives you easy
+access to information on your Mac and from the web. Desktop makes
+searching your own email, files, music, photos, and more as easy as
+searching the web with Google.
+
+ License : Freeware
+ Author/Publisher : Google
+ Modification Date : September 20, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.6 MB
+
+ Home Page 
+
+ Growl 1.1.6 
+
+Growl is a global notification system for Mac OS X. Any application can
+send a notification to Growl, which will display an attractive message
+on your screen. Growl currently works with a growing number of
+applications.
+ What are notifications?
+ Notifications are a way for your applications to provide you with new
+information, without you having to switch from the application you're
+already in.
+
+ License : Freeware
+ Author/Publisher : The Growl Project
+ Modification Date : July 30, 2009
+ Requirements : Mac OS X 10.3.9 or higher - Not Compatible with Snow Leopard
+
+ Download 
+File Size: 4.6 MB
+
+ Home Page 
+
+ Hazel 2.2.4 
+
+Hazel watches whatever folders you tell it to, automatically organizing
+your files according to the rules you create. It features a rule
+interface similar to that of Apple Mail so you should feel right at
+home. Have Hazel move files around based on name, date, type, what
+site/email address it came from (Safari and Mail only) and much more.
+Automatically put your music in your Music folder, movies in Movies.
+Keep your downloads off the desktop and put them where they are supposed
+to be.
+
+ License : Shareware, $22
+ Author/Publisher : Noodlesoft
+ Modification Date : December 17, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.9 MB
+
+ Home Page 
+
+ HoudahSpot 2.4.4 
+
+HoudahSpot leverages Apple's Spotlight engine to bring you a powerful, fast and easy to
+use desktop search tool.
+
+Your files at your fingertips. HoudahSpot is the frontend most Spotlight users don't know
+they're missing
+
+HoudahSpot allows you to zero in on files. Fast. A new HoudahSpot document presents itself
+as a simple form with commonly used criteria. You may fill in the form at your leisure.
+Search only starts when you are ready.
+
+There is a myriad of criteria you may add to your query. Criteria can be combined to your
+liking. And you are only getting started...
+
+HoudahSpot really shines when it comes to displaying search results. It uses a plain,
+concise, sortable and configurable list view. Add to that a generously sized file preview,
+a detailed file inspector and a browser taking you to neighboring files.
+
+ License : Shareware, $20
+ Author/Publisher : Houdah Software
+ Modification Date : February 16, 2009
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 2.7 MB
+
+ Home Page 
+
+ ICeCoffEE 1.4.4 
+
+ICeCoffEE lets you Command-click to open URLs in Mac OS X applications
+including TextEdit and Terminal. It adds the "Services" menu to some
+text fields' contextual menus, and optionally to the menu bar as well.
+ICeCoffEE is modeled after ICeTEe for classic Mac OS, which provided the
+same functionality in many Macintosh applications by patching TextEdit.
+
+ License : Freeware
+ Author/Publisher : Nicholas Riley
+ Modification Date : August 14, 2007
+ Requirements : Mac OS X 10.3.9 or higher - Not Compatible with Leopard
+
+ Download 
+File Size: 2.7 MB
+
+ Home Page 
+
+ iClip 4.0 
+
+iClip is a new multiple clipboard/scrapbook software application for
+Apple Macintosh computers with OS X.
+ With iClip, you can drag & drop or copy & paste all kinds of information
+into its "clipping bins". You can store:
+ text
+ pictures
+ URLs
+ sounds
+ movies
+ and much more
+
+ License : Shareware, $29
+ Author/Publisher : Inventive, Inc.
+ Modification Date : January 30, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 13.6 MB
+
+ Home Page 
+
+ iKey 2.3.3 
+
+iKey is an essential utility and incredibly powerful tool for OS X that
+can eliminate repetitive actions. iKey allows creation of shortcuts that
+perform an action or sequence of actions each of which can be launched
+by key combinations or menu or event. This easy to use macro/automation
+utility can save time, typing and hundreds of clicks everyday. Avoid
+carpal tunnel, get more accomplished and have fun with iKey. An
+excellent manual written by Adam Engst is included.
+
+ License : Shareware, $30
+ Author/Publisher : Script Software
+ Modification Date : December 31, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 6.0 MB
+
+ Home Page 
+
+ iListen 1.8 
+
+MacSpeech is the only company currently developing dictation software
+for the Macintosh. iListen users enjoy the ability to dictate into
+virtually any application, hands-free correction, and the largest set of
+voice commands available on any platform.
+
+ License : Update, $179
+ Author/Publisher : MacSpeech, Inc.
+ Modification Date : November 30, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.9 MB - iListen 1.7.x to 1.8 updater
+
+ Home Page 
+
+ Infovox iVox 1.2 
+
+Infovox iVox provides Mac OS X users with the best voices ever on the Mac. You won't
+believe your ears hearing these naturally-sounding voices, available in many different
+languages. What is more, they can be used in any Mac OS X application that uses speech.
+Including applications such as TextEdit, Preview, Acrobat Reader, Proloquo, KeyStrokes,
+SwitchXS, VisioVoice and AppleWorks, as well as many educational titles.
+
+ License : Demo, $149 and up
+ Author/Publisher : Acapela Group/AssistiveWare
+ Modification Date : April 29, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 432 MB for US English, Size differs depending on language
+
+ Sample Voices 
+
+ Home Page 
+
+ Jumpcut 0.63 
+
+Jumpcut is a clipboard enhancement tool for Mac OS X. It runs as a
+"faceless" application that puts a menu in the right-hand corner of the
+menu bar.
+
+ License : Freeware
+ Author/Publisher : Steve Cook
+ Modification Date : January 25, 2009
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 518 Kb
+
+ Home Page 
+
+ Keyclick 1.2.3 
+
+Keyclick is a Mac OS X preference pane that provides subtle but important feedback for
+each keystroke the system recognizes. Years ago keyboards were made with premium key
+switches that provided a resounding click when a key snapped over. Today most keyboards
+are made using rubber domes which can provide a similar force displacement or tactile
+feel, but not the sound. Human factors work on video terminals in the 1980s showed that
+the perception of keyboard crispness is correlated with audio feedback. Keyclick provides
+that feedback while improving on the original.
+
+ License : Shareware, $2.50
+ Author/Publisher : Sustainable Softworks
+ Modification Date : April 24, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 365 Kb
+
+ Home Page 
+
+ KeyStrokes 4.0 
+
+KeyStrokes is a fully-functional advanced virtual on-screen keyboard
+that allows you to type with a mouse, trackball, head pointer or other
+mouse emulator to type characters into any standard Macintosh
+application.
+
+KeyStrokes provides advanced multilingual word prediction. Thanks to its
+revolutionary PolyPredix word prediction engine it can do word
+completion, next word prediction and even multi-word prediction in any
+Roman language as well as many other languages. The PolyPredix
+prediction engine offers many unique, time and effort saving features
+allowing significantly easier and faster typing. PolyPredix can reduce
+typing efforts by 50 to 70%.
+
+ License : Demo, $299
+ Author/Publisher : David Niemeijer/AssistiveWare
+ Modification Date : January 18, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 33.2 MB
+
+ Home Page 
+
+ KeyViewer 1.5 
+
+KeyViewer is an AppleScript which provides easy access to Mac OS X's built-in Keyboard Viewer.
+
+ License : Freeware
+ Author/Publisher : MacParc
+ Modification Date : August 3, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 91 Kb
+
+ Home Page 
+
+ LazyMouse 2.1.2 
+
+LazyMouse is a Preference Pane that moves your cursor to the default
+button whenever a dialog box appears on your screen. In other words, it
+will save you time moving the mouse to dismiss dialogs.
+
+ License : Shareware, $10
+ Author/Publisher : Old Jewel Software
+ Modification Date : April 10, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.3 MB
+
+ Home Page 
+
+ LiteSwitch X 2.6 
+
+Short Answer: LiteSwitch X is simply the best keyboard application
+switcher for Mac OS X. Long Answer: LiteSwitch X was the original
+application switcher for the Mac OS - and is still the best. Originally
+a free utility under Mac OS 8 and 9, LiteSwitch X has matured into a
+full-features shareware utility which can be stolen for just $14.95.
+LiteSwitch has been called by some a Mac OS implementation of the
+Alt-Tab feature found in another unmentionable operating system, but
+LiteSwitch X offers a whole host of other features like drag and drop
+support, application exclusion, application termination and window
+layering control.
+
+ License : Shareware, $15
+ Author/Publisher : Sam Caughron/Proteron
+ Modification Date : July 22, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 488 Kb
+
+ Home Page 
+
+ Menu Master 1.4.2 
+
+Menu Master is a haxie that allows you to change or remove menu shortcut
+keys in any application with ease. It takes about 15 seconds to learn
+how to use Menu Master, and saves you lots of time later because you can
+use the shortcuts you defined and do not bother remembering which ones
+the developer of the software invented for you. Additionally, you can
+set shortcuts to any menu item that had no shortcuts, or remove
+shortcuts from menu items. Menu Master gives you a complete control over
+your menus.
+
+ License : Shareware, $10
+ Author/Publisher : Unsanity
+ Modification Date : February 1, 2007
+ Requirements : Mac OS X 10.3 or higher - Not Compatible with Leopard
+
+ Download 
+File Size: 2.9 MB
+
+ Home Page 
+
+ MenuShade 1.1 
+
+The menubar is almost always on your screen, burning into your LCD and
+actually causing a permanent white streak across the top (like the old
+monitors)... but not only that, it also burns your eyes... so darken it
+a little with MenuShade.
+
+ License : Freeware
+ Author/Publisher : Nullriver Software
+ Modification Date : May 10, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 69 Kb
+
+ Home Page 
+
+ MondoMouse 1.4.2 
+
+Move any window without clicking it, and without bringing it to the front.
+
+Resize any window without clicking it, and without bringing it to the front.
+
+Focus Follows Mouse: Automatically switch to whatever application the mouse hovers over.
+
+But wait, there's more! Ever have trouble finding a window? MondoMouse identifies the
+window under the mouse for you via a floating text box (as seen in the screenshots above).
+Find just the right window from the dozens that may be open, without all that tedious
+mucking about with Expose!
+
+ License : Shareware, $15
+ Author/Publisher : Atomic Bird
+ Modification Date : February 4, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.1 MB
+
+ Home Page 
+
+ NotLight 1.4 
+
+A simple Spotlight front-end substitute. I wrote this because I got sick
+and tired of Tiger's lousy Spotlight interface. The magnifying-glass
+menu is a fake menu; it behaves oddly, and doesn't show all the matches.
+The Spotlight window looks like something from the Windows world: it
+works like a web browser, you can't easily navigate it with the
+keyboard, you have to keep pressing the "i" buttons just to learn where
+a file is, and so on. The Finder window requires that you jump through
+all sorts of hoops just to find a file by name. Worst of all, none of
+these front ends give you access to the real power of Spotlight: they
+automatically do wildcard searches, they don't let you do exact
+searches, they don't let you specify case-sensitivity or word-based
+searches, and they don't let you construct complex boolean searches with
+AND, OR, and NOT (or if they do, it isn't clear how).
+
+So I wrote this substitute, in order to access the real Spotlight. You
+can do any kind of Spotlight search; seven search keys are built in, and
+you can add more, and you can even view and edit a search as text if you
+like. You can use wildcards or not, specify word-based,
+case-insensitive, and diacritic-insensitive searches, and construct
+complex searches with AND, OR, and NOT. A Date Assistant translates
+dates into Spotlights query langugae for you. Results are a simple list
+of filename and paths.
+
+ License : Freeware
+ Author/Publisher : Matt Neuberg
+ Modification Date : August 2, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 989 Kb
+
+ Home Page 
+
+ OmniDazzle 1.0.1 
+
+Introducing OmniDazzle, a set of fun and useful enhancements that help you highlight
+certain areas of your screen, create visual effects, and track the location of your mouse
+pointer.
+
+If you've ever used your computer screen to do a presentation, capture screen shots, or as
+a point of reference while someone looks over your shoulder...you, my friend, could have
+used OmniDazzle. OmniDazzle is handy for those times when you need to call attention to
+something on your screen ("...as you can all see, line 37 in this spreadsheet lists my
+proposed new salary: eleventy hojillion dollars. Any questions?"), and even helps you find
+your lost cursor (hey, it happens - especially when you're navigating across the
+four-million-pixels-and-counting landscape of a 30" Cinema Display).
+
+OmniDazzle is designed to be both playful and practical; you can use a plug-in to
+professionally emphasize a section of your screen, or you can turn your mouse movement
+into an area of focus that trails pixie dust (or waves, or a bullseye, or...) across your
+desktop. You can configure each plug-in to suit your own particular preferences: change
+colors, make objects bigger or smaller, or change the way you activate the OmniDazzle
+plug-in of your choice.
+
+ License : Shareware, $15
+ Author/Publisher : The Omni Group
+ Modification Date : November 1, 2006
+ Requirements : Mac OS X 10.4.6 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ One Finger Snap 1.4.1 
+
+One Finger Snap is a Preference Pane that brings up the contextual menu
+whenever you click and hold down the mouse button. This means that you
+can do everything with a single-button mouse that you can do with a
+2-button mouse. Don't throw away that 1-button mouse. Don't carry around
+a clunky mouse with your powerbook. Don't think that you've lost a
+second mouse button when you switch from that other OS. Just click and
+hold wherever you would normally right-click.
+
+ License : Freeware
+ Author/Publisher : Old Jewel Software
+ Modification Date : August 31, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 296 Kb
+
+ Home Page 
+
+ Popchar X 4.1.1 
+
+Tired of searching and remembering keyboard combinations for umlauts and
+other special characters? Want to get the most out of your fonts? Then
+PopChar is the right tool for you.
+
+PopChar makes "typing" of unusual characters easy without having to
+remember keyboard combos.
+
+Whenever you need a special character, PopChar is there to help. Click
+the little "P" box to display a table of characters. Select the desired
+character and it instantly appears in your document.
+
+PopChar X supports Unicode fonts with thousands of characters available
+in many fonts. If a font contains Unicode characters, you can use the
+"U" button to see all of them, neatly arranged in the standard Unicode
+categories.
+
+Web designers will especially enjoy the ability to insert HTML symbols.
+
+ License : Shareware, $46
+ Author/Publisher : Ergonis
+ Modification Date : November 19, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.9 MB
+
+ Home Page 
+
+ Print Selection Service 2.0 
+
+The Print Selection Service adds a Print Selection command to the Services menu. You need
+to log out after installation for applications to see the new Service.
+
+ License : Freeware
+ Author/Publisher : Manfred Schubert
+ Modification Date : March 24, 2009
+ Requirements : Mac OS X 10.4 or higher - You may need to manually make the folder Library/Services due to permissions
+
+ Download 
+File Size: 60 Kb
+
+ Home Page 
+
+ PTHPasteboard 4.4 
+
+Welcome to PTHPasteboard 4, the best and most mature multiple pasteboard
+program for OS X. How often have you copied something only to find that
+you need it a few minutes later but you've already copied another item?
+PTHPasteboard watches you while you work and keeps a copy of any items
+that you have copied to your pasteboard.
+
+Try out PTHPasteboard and you'll wonder how you lived without. Its a
+great tool that stays out of your way until you need it.
+
+PTHPasteboard PRO adds the ability to Sync Pasteboards across multiple machines and the
+ability to paste through Filters for easy and powerful text manipulations.
+
+ License : Freeware, Pro $20
+ Author/Publisher : PTH Consulting
+ Modification Date : February 14, 2008
+ Requirements : Mac OS X 10.4 or higher - Not Compatible with Snow Leopard
+
+ Download 
+File Size: 2.7 MB
+
+ Home Page 
+
+ QuicKeys 3.2.3 
+
+QuicKeys X is the first automation utility specifically designed for Mac
+OS X. It takes the daily tasks that would normally require you
+five...six...twenty or more steps and turns them into simple one step
+shortcuts. Automate anything from launching programs, mounting servers,
+selecting menus, and running UNIX commands to typing text or shutting
+down your Classic environment. Whatever you do, however many steps,
+QuicKeys saves you time and increases your productivity.
+
+ License : Demo, $100
+ Author/Publisher : Startly Technologies, LLC 
+ Modification Date : September 16, 2008
+ Requirements : Mac OS 10.4 or higher
+
+ Download 
+File Size: 12.5 MB
+
+ Home Page 
+
+ shadowClipboard 3.0.5 
+
+shadowClipboard is the clipboard manager for Mac OS X that handles multiple clipboards in
+a convenient, unobtrusive way. shadowClipboard gives you access to files, pages of texts,
+images, pdf documents and all other data you have copied a few minutes or a week ago.
+
+ License : Shareware, $15
+ Author/Publisher : stupidFish Programming
+ Modification Date : January 15, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ Service Manager 0.8 
+
+The Service Manager allows you to enable and disable applications'
+services. It also lets you change key commands and menu item
+organization.
+ * Applications you do not have write to access to (e.g. the Finder) cannot
+be changed.
+ * This preference pane makes a small change to the info.plist of
+applications you modify. Since the pane has not been widely tested, you
+may want to limit your changes to apps you have backed up.
+
+ License : Freeware
+ Author/Publisher : Nicholas Jitkoff
+ Modification Date : May 12, 2003
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 42 Kb
+
+ Home Page 
+
+ Service Scrubber 1.1.5 
+
+Wouldn't the services menu be much more useful if it weren't overcrowded
+by services you never even thought of using? With Service Scrubber, you
+can:
+ * restructure the services menu
+ * change service keyboard shortcuts
+ * disable services
+
+ License : Freeware
+ Author/Publisher : Peter Maurer
+ Modification Date : July 7, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 1.0 MB
+
+ Home Page 
+
+ Smart Scroll 2.8.8 
+
+Smart Scroll X brings new scrolling options and enhancements to Mac OS X:
+ * Super Wheel - smoother, faster, more comfortable scroll wheel action. Try it!
+ * Grab Scroll - a "hand" tool to easily move any window's contents.
+ * Scroll Keys - fast and dependable scrolling, without reaching for the mouse.
+ * FileMaker Pro and AppleWorks live scrolling, scroll wheel support, and more.
+
+ License : Shareware, $19
+ Author/Publisher : Marc Moini
+ Modification Date : December 15, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ Spell Catcher X 10.2.3 
+
+Spell Catcher is the ultimate spell checking and writing tool. Use it as
+a spell checker in e-mails, letters or documents, instant messages, and
+more! Perform a spelling check whenever and wherever you want! Use it to
+watch for mistakes as you type, auto-correct words you misspell
+frequently, or expand typing shorthands into much longer phrases that
+you already type too often. With its comprehensive dictionaries and
+thesaurus, Spell Catcher works in just about any Mac or Windows
+application you can type into, so you'll no longer need different
+dictionaries for all your applications.
+
+ License : Demo, $40
+ Author/Publisher : Rainmaker Research Inc.
+ Modification Date : November 21, 2005
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 9.6 MB
+
+ Download 
+File Size: 3.3 MB
+
+ Home Page 
+
+ Spotinside 0.9.3 
+
+Another three pane style document manager?
+ Yes... No it's not.
+ - Supports many file types including Text, PDF, Word, Pages (i.e. All file compatible with Spotlight)
+ - You can see within a file without opening it
+ - Automatically highlights search keywords
+ - You can choose a target folder to search
+ - You can choose a smart folder as a search target
+ - Not cabable of editing. Use external applications to edit
+
+ License : Freeware
+ Author/Publisher : Oneriver Software
+ Modification Date : April 18, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.7 MB
+
+ Home Page 
+
+ Spotlaser 1.3.1 
+
+Every file on your computer has name, location, date and contact information, but it's not
+up to you to remember all this, that's what computers are for! With hard drives getting
+bigger every year, more and more files are saved every day. But where did you save them?
+Can you get to them easily? If you're not careful in saving your files where you know
+you'll find them, you could have a hard time retrieving them. You may know part or all of
+a file's name, information that a file contains, or other related information about a
+file. But how do you use this information to your advantage? The in-built search functions
+of Finder in Mac OS X give you the capability to find files, but without the flexibility
+and ease you may want or need. That's where Spotlaser comes in. Spotlaser enables you to
+get results that are more focused and relevant to your requirements. Spotlaser is perfect
+for live searching or to create Smart Folders for your most common searches.
+
+ License : Freeware
+ Author/Publisher : Frovil Heavy Industries
+ Modification Date : June 28, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.2 MB - remove the .bz2 extension to open the disk image
+
+ Home Page 
+
+ SteerMouse 3.9 
+
+SteerMouse supports USB and Bluetooth mice. It will even work with mice designed for
+Windows PCs. You can customize your mouse freely even if there is no Macintosh's driver.
+
+SteerMouse has convenient and unique functions that are not included in Apple's mouse
+driver. With SteerMouse you can get the best use out of Mighty Mouse. Of course SteerMouse
+also supports the new wireless Mighty Mouse.
+
+ License : Shareware, $20
+ Author/Publisher : Plentycom Systems
+ Modification Date : March 4, 2008
+ Requirements : Mac OS X 10.4.3 or higher
+
+ Download 
+File Size: 820 Kb
+
+ Home Page 
+
+ Sticky Windows 2.4 
+
+Sticky Windows is an application for Mac OS X Tiger which extends the
+tab browsing experience to the Desktop. Sticky Windows shrinks your
+windows into tabs when you drag a window towards the edge of your
+screen. Providing you with a completely clutter-free workspace. By
+clicking on the tab the user can show and hide the window.
+
+The tab can be created by dragging a window on any side of the screen
+(more than one screen configuration is supported too). When the mouse
+reaches the margin of the screen a tab will appear.
+
+To remove a tab, simply drag it away from the screen edge. If the window
+is not currently visible when the tab is dismissed, the original window
+is re-displayed on the screen.
+
+ License : Shareware, $16
+ Author/Publisher : Donelleschi
+ Modification Date : November 20, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 946 Kb
+
+ Home Page 
+
+ SwitchRes 3.8.6 
+
+SwitchRes X reproduces all functions on SwitchRes 2 on MacOS X, and does
+even more! Basically, it helps you manage the resolution of all your
+monitors. You can access to the resolutions of all your displays in a
+simple, customizable menu. You can most of the time enable more
+resolutions than what the system allows you to use, from the SwitchRes
+preferences panel. SwitchRes X incorporates features relative to the
+Monitor Resolution, Monitor BitDepth, and Video Mirroring into one
+single utility. You can use its menu in the Menu Bar or click on the
+Finder Desktop with its Contextual Menu Plugin to gain access to all
+these settings from within every application.
+
+ License : Shareware, $15
+ Author/Publisher : Stephane Madrau
+ Modification Date : March 4, 2009
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 4.7 MB
+
+ Home Page 
+
+ Synergy 1.3.1 
+
+Synergy lets you easily share a single mouse and keyboard between multiple computers with
+different operating systems without special hardware. It's intended for users with
+multiple computers on their desk since each system uses its own display.
+
+ SynergyKM: The Missing GUI.
+ Synergy is a great tool, but it is still missing a GUI that would make it a real Mac
+application. So we started this project to fill that void. Our goal is to merge with the
+project on Sourceforge at some point.
+
+ License : Freeware
+ Author/Publisher : Synergy Project
+ Modification Date : April 2, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 921 Kb - Synergy 1.3.1
+
+ Download 
+File Size: 1.5 MB - SynergyKM 1.0b6 - Prefpane - March 27, 2006
+
+ Download Page - Get Windows and Linux binaries here
+
+ SynergyKM Home Page 
+
+ Home Page 
+
+ Teleport 1.0.1 
+
+Teleport is a simple utility to let you use one single mouse and keyboard to control
+several of your Macs.
+
+Simply reach the edge of your screen, and your mouse teleports to your other Mac! The
+pasteboard can be synchronized, and you can even drag & drop files between your Macs.
+
+ License : Freeware
+ Author/Publisher : Abyssoft
+ Modification Date : April 13, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 718 Kb
+
+ Home Page 
+
+ TextExpander 2.7 
+
+TextExpander is a utility that helps you type more efficiently and more
+accurately. Textpander listens to what you type and inserts predefined
+text snippets on the fly whenever you enter their corresponding
+abbreviations. Here are a few examples for what you can do with
+TextExpander:
+
+Insert standard greetings, text fragments, and signatures - including formatted text and pictures.
+
+Insert the current date and time in any format you prefer.
+
+Use editor-independent code templates and have Textpander position the
+cursor just where it needs to be.
+
+Type special characters without having to launch any special characters palette.
+
+Have TextExpander correct typos automatically.
+
+Import text snippets from other typing utilities.
+
+ License : Shareware, $30
+ Author/Publisher : SmileOnMyMac
+ Modification Date : August 24, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.8 MB
+
+ Home Page 
+
+ TinkerTool 3.96 
+
+TinkerTool is an application that gives you access to additional
+preference settings Apple has built into Mac OS X. This allows to
+activate hidden features in the operating system and in some of the
+applications delivered with the system.
+
+The tool makes sure that preference changes can only affect the current
+user. You don't need administrative privileges to use the tool. With
+this design, it is no problem to use TinkerTool in professional networks
+where users have restricted permissions. The program will never change
+any component of the operating system, so the integrity of your system
+is not put at risk, and there will be no negative effect on system
+updates.
+
+All preference settings changed by TinkerTool can be reset to Apple's
+defaults, or to the state that existed before using the tool. No
+dangerous background processes are used for TinkerTool's operation.
+
+Because TinkerTool only gives you access to features already built into
+Mac OS X, its feature set varies greatly between different operating
+system versions.
+
+ License : Freeware
+ Author/Publisher : Marcel Bresink
+ Modification Date : August 28, 2009
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ TypeIt4Me 4.1.2 
+
+Anytime you enter text in your Mac by typing it at the keyboard, TypeIt4Me can help you do it
+faster and more accurately.
+First you define a number of abbreviations and the full text entries that they represent, then you
+watch the Mac expand them on the fly even as you continue typing!
+
+ License : Shareware, $27
+ Author/Publisher : Riccardo Ettore
+ Modification Date : August 27, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 7.5 MB - version 4.1.2
+
+ Download 
+File Size: 511 Kb - version 4.8.2
+
+ Home Page 
+
+ Typinator 3.5.1 
+
+Typinator is an easy-to-use automatic text software that helps you to quickly insert
+phrases or pictures into any type of document.
+
+Setup is easy: You just define an abbreviation along with its replacement text or picture.
+
+Usage is even easier: Whenever you type one of your abbreviations in any application,
+Typinator inserts the corresponding replacement.
+
+ License : Shareware, $29
+ Author/Publisher : Ergonis
+ Modification Date : July 8, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.7 MB
+
+ Home Page 
+
+ Ukelele 1.8.1 
+
+Ukelele is a Unicode Keyboard Layout Editor for Mac OS X versions 10.2 and later. Ukelele
+aims to simplify keyboard layout editing by providing a graphical interface to .keylayout
+files, where the desired characters can simply be dragged onto keys as needed. (The
+Character Palette, available in the Input menu if it has been enabled in System
+Preferences, is a great place to find the characters.)
+
+ License : Freeware
+ Author/Publisher : John Brownie
+ Modification Date : January 5, 2009
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.7 MB
+
+ Home Page 
+
+ VirtueDesktops 0.54b5 
+
+VirtueDesktops is a virtual desktop manager for Mac OS. It offers features, eye
+candy and configurable options that no other desktop manager on the mac
+has added yet, and is under active development. It is based upon
+DesktopManager, which is a lighter, less feature-packed virtual desktop
+application.
+
+ License : Freeware
+ Author/Publisher : Tony Arnold
+ Modification Date : December 17, 2007
+ Requirements : Mac OS X 10.4
+
+ Download 
+File Size: 2.8 MB
+
+ Home Page 
+
+ VisioVoice 1.1 
+
+VisioVoice is an application that enhances access to Mac OS X for blind
+and vision impaired users. It adds multilingual support to Apple's
+excellent VoiceOver screen reader technology for a number of languages,
+as well as providing several other speech and vision related features to
+enhance access to Mac OS X. VisioVoice comes bundled with Infovox iVox,
+which provides the best voices ever on the Mac in a wide range of
+languages.
+
+ License : Demo, $185
+ Author/Publisher : AssistiveWare
+ Modification Date : October 10, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 7.8 MB
+
+ Home Page 
+
+ WindowShade X 4.2 
+
+WindowShade X provides an exciting and useful way of organizing your
+work on Mac OS X. With this handy tool, you can assign the following
+actions to the minimize button and a double-click on the window title:
+ Minimize the window to the Dock, like always;
+ "Windowshade" the window into a tiny strip to quickly peek below or get it out of the way;
+ Minimize-In-Place the window so it becomes really small so you can move
+ it out of the way yet still see what is going on;
+ Make the window transparent so you can continue working in it while seeing things under it;
+ Hide the application quickly;
+ Do nothing and ignore the action (sometimes it is quite useful as well).
+ These actions can be set on per-application basis so you can configure your workspace to be convenient for you.
+
+ License : Shareware, $10
+ Author/Publisher : Unsanity
+ Modification Date : September 22, 2008
+ Requirements : Mac OS X 10.4.11 or higher (including Leopard)
+
+ Download 
+File Size: 3.4 MB
+
+ Home Page 
+
+ WinSwitch 3.2.1 
+
+Apple did a superb job with its new Fast User Switching feature in
+Panther (Mac OS X 10.3), but for users with long names, the associated
+menu item is a terrible waste of precious Menu Bar real estate.
+WinSwitch fixes that and brings a number of other powerful features that
+are not available on other Panther or Tiger (Mac OS X 10.4).
+
+Wouldn't it be nice if you could access the feature through a compact,
+icon-sized Menu Bar icon? WinSwitch does exactly that, closely matching
+the performance and style of the Apple-provided menu, but without all
+the bulk. In fact, it even corrects some problems with Apple's menu by
+eliminating certain "daemon" users which shouldn't show up in the list,
+and by improving the alignment of user icons in the menu. WinSwitch
+gives you rapid access to the Accounts preference pane, and is
+completely customizable, allowing you to choose from six different menu
+bar styles.
+
+ License : Freeware
+ Author/Publisher : Wincent Colaiuta
+ Modification Date : April 3, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.5 MB
+
+ Home Page 
+
+ Witch 2.0.2 
+
+Have you ever wanted to switch to a certain window - not just the application it belongs
+to? While you can use Expose to switch windows, doing so can be very clumsy if you're the
+keyboard-only type of user. And don't all of these windows look just the same when they
+are scaled down? Witch lets you access all of your windows by pressing a shortcut and
+choosing from a clearly arranged list of window titles.
+
+ License : Shareware, $16
+ Author/Publisher : Peter Maurer
+ Modification Date : November 3, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 913 Kb
+
+ Home Page 
+
+ WordService 2.7 
+
+This service provides functions to convert, format or speak the
+currently selected text, to insert data or to show statistics of the
+selection within all Cocoa applications (for example TextEdit, Mail,
+Stickies, Notes, Fire, OmniWeb, ProjectBuilder or TeXShop) and Carbon
+applications supporting services.
+
+Features: Reformat, Remove line endings/multiple spaces/quotes, Trim
+line beginnings/line endings/lines, Sort lines ascending/descending,
+Shift left/light, Initial caps of words/sentences, All caps & lowercase,
+Mac/Windows/Unix line endings, Rotate 13, Straight/Smart Quotes,
+Encode/Decode tabs, Insert date/date & time/time/contents of path, Speak
+native/german text, Statistics.
+
+ License : Freeware
+ Author/Publisher : Devon Technologies
+ Modification Date : September 5, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 221 Kb
+
+ Home Page 
+
+ Wraparound 1.3.1 
+
+Wraparound is an application primarily intended for users with large and/or multiple
+screens, which allows the mouse cursor to "wrap" around the screens. Rather than spending
+time and energy moving the cursor across the screen, from one side to the other, simply
+drag it off one edge and it immediately appears on the other side.
+
+Wraparound can handle even the most abnormal of screen layout configurations, and even
+allow windows and other objects to be dragged though screen edges. And if you're worried
+about not being able to hit your menu bar or dock without the edge to stop the cursor, you
+can always turn off horizontal or vertical screen wrapping to suit your preferences. It
+also preserves screensavers and Expose functionality with variable sized non-wrapping
+areas at the corners.
+
+ License : Freeware
+ Author/Publisher : Digital Cow Software
+ Modification Date : January 30, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 204 Kb
+
+ Home Page 
+
+ xGestures 1.73 
+
+xGestures is a shareware program for Mac OS X 10.3 and later that allows you to use mouse
+gestures in all aspects of your Macintosh computer. You can define gestures for individual
+programs, or for the whole computer, and map them to useful functions like closing or
+minimizing windows, switching or launching applications, picking menu items or performing
+keystrokes, triggering Expose, and much more!
+
+ License : Shareware, $5
+ Author/Publisher : Brian Kendall
+ Modification Date : November 26, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.5 MB
+
+ Home Page 
+
+ Yahoo! Widget Engine 4.5.2 
+
+Keep the stuff that you love right at your fingertips.
+Bring life to your desktop with fun, stylish,
+and useful Yahoo! Widgets.
+
+Konfabulator is a JavaScript runtime engine for Windows and Mac OS X
+that lets you run little files called Widgets that can do pretty much
+whatever you want them to. Widgets can be alarm clocks, calculators, can
+tell you your WiFi signal strength, will fetch the latest stock quotes
+for your preferred symbols, and even give your current local weather.
+
+What sets Konfabulator apart from other scripting applications is that
+it takes full advantage of today's advanced graphics. This allows
+Widgets to blend fluidly into your desktop without the constraints of
+traditional window borders. Toss in some sliding and fading, and these
+little guys are right at home in Windows XP and Mac OS X.
+
+The format for these Widgets is completely open and easy to learn so
+creating your own Widgets is an extremely easy task.
+
+ License : Freeware
+ Author/Publisher : Arlo Rose, Perry Clarke, Ed Voas/Yahoo Inc.
+ Modification Date : May 1, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 22.9 MB
+
+ The Widget Gallery 
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

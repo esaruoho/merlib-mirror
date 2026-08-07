@@ -1,0 +1,722 @@
+<HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Created on October, 31  2001 by texi2html 1.64 -->
+<!-- 
+Written by: Lionel Cons <Lionel.Cons@cern.ch> (original author)
+            Karl Berry  <karl@freefriends.org>
+            Olaf Bachmann <obachman@mathematik.uni-kl.de>
+            and many others.
+Maintained by: Olaf Bachmann <obachman@mathematik.uni-kl.de>
+Send bugs and suggestions to <texi2html@mathematik.uni-kl.de>
+ 
+-->
+<HEAD>
+<TITLE>Algae: Primer</TITLE>
+
+<META NAME="description" CONTENT="Algae: Primer">
+<META NAME="keywords" CONTENT="Algae: Primer">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META NAME="Generator" CONTENT="texi2html 1.64">
+
+</HEAD>
+
+<BODY LANG="" BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080" ALINK="#FF0000">
+
+<A NAME="SEC2"></A>
+<TABLE CELLPADDING=1 CELLSPACING=1 BORDER=0>
+<TR><TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_1.html#SEC1"> &lt;&lt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_3.html#SEC3"> &gt;&gt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae.html#SEC_Top">Top</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_toc.html#SEC_Contents">Contents</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57">Index</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_abt.html#SEC_About"> ? </A>]</TD>
+</TR></TABLE>
+
+<HR SIZE=2>
+<h1><img src="icon.gif" alt="">  2. Primer </H1>
+<!--docid::SEC2::-->
+<P>
+
+What follows is a quick introduction to Algae.  It shows many simple
+examples, but leaves out the detailed descriptions.  See section <A HREF="algae_4.html#SEC7">4. The Algae Language</A>,
+for more details about the Algae language.</P><P>
+
+The first thing that you'll need to know is how to get <CODE>algae</CODE>
+started.  If your system is properly set up, it's a simple matter of
+typing the command <SAMP>`algae'</SAMP>.  This brings <CODE>algae</CODE> up in
+interactive mode; a prompt is displayed and it waits for you to start
+typing statements.  Later we'll discuss other options, such as giving
+<CODE>algae</CODE> a file of statements to execute in "batch" mode.</P><P>
+
+This manual is available on-line through the <CODE>info</CODE> function; type
+<CODE>info()</CODE> to view it.  You can go to a specific topic by naming it
+as an argument.  For example, <CODE>info("operators")</CODE> takes you
+directly to the description of Algae's operators.</P><P>
+
+<A NAME="IDX1"></A>
+<A NAME="IDX2"></A>
+<A NAME="IDX3"></A>
+<A NAME="IDX4"></A>
+<A NAME="IDX5"></A>
+<A NAME="IDX6"></A>
+<A NAME="IDX7"></A>
+<A NAME="IDX8"></A>
+An Algae <EM>statement</EM> describes the operations to be performed.  For
+example, the statement</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>1+sin(2)
+</pre></td></tr></table></P><P>
+
+tells Algae to add 1 to the sine of 2.  Statements may be terminated with
+a newline, a semicolon, or a question mark; the results are printed
+unless a semicolon is used.</P><P>
+
+The statement
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>printf ("hello, world\n");
+</pre></td></tr></table></P><P>
+
+prints a hopeful little "hello, world" message to the terminal.  This
+is exactly like the C language, right down to the <SAMP>`\n'</SAMP> escape
+sequence to indicate a newline.  If you know C, you'll probably notice
+many other similarities between its syntax and that of Algae.</P><P>
+
+<A NAME="IDX9"></A>
+Like most computer languages, Algae has <EM>variables</EM> to which values
+can be assigned.  In Algae, these variables need not be declared before
+being used, and may be created or destroyed during a session.  If you
+type the statement <CODE>x=1</CODE>, the variable <CODE>x</CODE> will be created if
+it doesn't already exist.  If <CODE>x</CODE> already had a value, then
+assignment to <CODE>x</CODE> destroys its previous contents.</P><P>
+
+<A NAME="IDX10"></A>
+<A NAME="IDX11"></A>
+The values taken on by variables are known as <EM>entities</EM>, which have
+various <EM>classes</EM> such as <SAMP>`scalar'</SAMP>, <SAMP>`vector'</SAMP>,
+<SAMP>`matrix'</SAMP>, <SAMP>`table'</SAMP>, etc.  A builtin function called
+<CODE>class</CODE> returns the class of its argument, so if you make the
+assignment <CODE>x=1</CODE> then the statement <CODE>class(x)</CODE> returns
+<SAMP>`"scalar"'</SAMP>.</P><P>
+
+<A NAME="IDX12"></A>
+<A NAME="IDX13"></A>
+<A NAME="IDX14"></A>
+Notice that a scalar is not the same thing as a one-element vector or as
+a one-by-one matrix.  The builtin functions <CODE>scalar</CODE>,
+<CODE>vector</CODE>, and <CODE>matrix</CODE> may be used to convert from one to
+another.  For example, <CODE>matrix(7)</CODE> returns a matrix with one row
+and one column, its single element having the value 7.  Algae will often
+make these conversions between classes automatically.  In the
+code</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>x = [ 3, 2, 1 ];
+y = sort (x);
+</pre></td></tr></table></P><P>
+
+the <CODE>sort</CODE> function first converts its matrix argument <CODE>x</CODE>
+into a vector and then returns another vector with the same elements but
+sorted in increasing order.  (An expression enclosed in brackets defines
+a matrix, as we'll discuss later.)</P><P>
+
+<A NAME="IDX15"></A>
+<A NAME="IDX16"></A>
+<A NAME="IDX17"></A>
+<A NAME="IDX18"></A>
+<A NAME="IDX19"></A>
+Besides its class, an entity may have other attributes which are stored
+as its <EM>members</EM>.  For example, the number of rows in a matrix is
+stored in a member called "nr".  Members are referenced with the "dot"
+operator, so if <CODE>M</CODE> is a matrix, then <CODE>M.nr</CODE> returns its row
+size.  Most entities have one or more predefined members (such as
+<CODE>nr</CODE> in matrices) that you cannot directly modify.  You can create
+new members simply by assignment.</P><P>
+
+A function called <CODE>show</CODE> prints information about an entity and its
+members.  Another function, <CODE>members</CODE>, returns a vector containing
+the names of all the members of its argument.
+</P><P>
+
+<A NAME="IDX20"></A>
+<A NAME="IDX21"></A>
+<A NAME="IDX22"></A>
+When a non-existent variable or member is referenced, the special value
+<CODE>NULL</CODE> is returned.  For example, the line</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>a = 1; a.nr
+</pre></td></tr></table></P><P>
+
+(which consists of two statements) prints "NULL", since scalars do not
+start life with a member <CODE>nr</CODE>.</P><P>
+
+The NULL constant may be used on the right-hand side of assignments,
+effectively deleting the previous value of an entity.  Actually, the
+entity still exists, but it has the value NULL.  You can perform a
+number of other operations on NULL, such as in</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>if (x != NULL) { x.class? }
+</pre></td></tr></table></P><P>
+
+<A NAME="IDX23"></A>
+<A NAME="IDX24"></A>
+<A NAME="IDX25"></A>
+<A NAME="IDX26"></A>
+<A NAME="IDX27"></A>
+<A NAME="IDX28"></A>
+All array entities (and that includes scalars) have a member called
+<CODE>type</CODE>, which may have one of these values: "integer", "real",
+"complex", or "character".  The constant <CODE>1</CODE> is an integer, but
+<CODE>1.0</CODE> has real type.  Algae has no complex constant like Fortran
+does--you have to use an expression such as <CODE>sqrt(-1)</CODE>.  Users
+often make the assignment <CODE>i=sqrt(-1)</CODE> when they first start up
+Algae and then use expressions like <CODE>1+2*i</CODE> for their complex
+numbers.</P><P>
+
+The "character" type refers to a string of characters.  It is
+specified using double-quotes as we did for <CODE>"hello world"</CODE> above.
+A character scalar like <CODE>"1"</CODE> is different than an integer scalar
+like <CODE>1</CODE>, and an expression like <CODE>1+"1"</CODE> is not allowed.</P><P>
+
+<A NAME="IDX29"></A>
+<A NAME="IDX30"></A>
+A <EM>vector</EM> is a one-dimensional array of values.  For example,
+<CODE>x=1,2,3</CODE> specifies a vector with three elements.  The elements in
+a vector are numbered starting at one, and the total number of elements
+is given by its <CODE>ne</CODE> member.  All of the elements have the same
+type.</P><P>
+
+<A NAME="IDX31"></A>
+<A NAME="IDX32"></A>
+<A NAME="IDX33"></A>
+Actually, the comma character is Algae's "append" operator.  You can
+put several expressions together in a vector, as in
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>v = 1, sin(2), 3+4;
+</pre></td></tr></table></P><P>
+
+<A NAME="IDX34"></A>
+A "subvector" expression may be used to specify a particular element
+or elements.  You do that simply by following the vector with a
+<EM>specifier</EM> enclosed in brackets.  For example, <CODE>v[3]</CODE> gives a
+scalar having the value of the third element of <CODE>v</CODE>.  If the
+specifier is a scalar, then the result is a scalar; otherwise, the
+result is a vector.</P><P>
+
+A more complicated example is</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>aset = 3, 9, 15;
+x = v[aset][2];
+</pre></td></tr></table></P><P>
+
+<A NAME="IDX35"></A>
+Here, <CODE>x</CODE> gets the value of the ninth element of <CODE>v</CODE>.  You can
+also assign to a subvector, so <CODE>v[1]=0</CODE> sets the first element of
+<CODE>v</CODE> to zero.
+</P><P>
+
+<A NAME="IDX36"></A>
+<A NAME="IDX37"></A>
+Vectors have a member <CODE>eid</CODE> (it stands for <I>element id</I>) that
+contains labels for its elements.  You don't need labels (<CODE>eid</CODE> may
+be NULL), but they can be pretty useful.  For one thing, they can help
+you to avoid errors by not allowing you to perform certain operations
+unless the labels match.  If you try to add two vectors and they both
+have labels, then the labels must be identical.
+</P><P>
+
+<A NAME="IDX38"></A>
+You can also use labels instead of element numbers in a subvector
+expression.  You do this by using character strings as the specifier.
+For example, the code
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>weight =        172,    216,     188;
+weight.eid =  "Tom", "Dick", "Harry";
+</pre></td></tr></table></P><P>
+
+sets up the vector <CODE>weight</CODE> with character string labels.  Then
+<CODE>weight["Dick"]</CODE> gives Dick's weight of 216.</P><P>
+
+<A NAME="IDX39"></A>
+<A NAME="IDX40"></A>
+<A NAME="IDX41"></A>
+<A NAME="IDX42"></A>
+<A NAME="IDX43"></A>
+Vectors can be generated by using the colon operator.  The expression
+<CODE>1:5:2</CODE> gives a vector whose first element is <CODE>1</CODE>, last
+element is no more than <CODE>5</CODE>, and has a difference of <CODE>2</CODE>
+between each successive element.  In other words, <CODE>1:5:2</CODE> is the
+same as <CODE>1,3,5</CODE>.  If you leave off the second colon and the third
+operand, then Algae infers a <CODE>1</CODE> for the third operand.  Thus, if
+<CODE>n=100</CODE>, then <CODE>1:n</CODE> is the vector containing all the integers
+from <CODE>1</CODE> through <CODE>100</CODE>.</P><P>
+
+<A NAME="IDX44"></A>
+A <EM>matrix</EM> is a two-dimensional array of values.  The expression
+<CODE>[1,2;3,4;5,6]</CODE> specifies a matrix with three rows and two
+columns--rows are given as vectors and are separated by semicolons.
+</P><P>
+
+<A NAME="IDX45"></A>
+<A NAME="IDX46"></A>
+Submatrix expressions work just like subvector expressions, but with a
+semicolon to separate the row specifier from the column specifier.  The
+expression <CODE>M[3;2,3]</CODE> gives a vector containing the elements of
+<CODE>M</CODE> in its third row and second and third columns.  If both
+specifiers are scalars, then the result is a scalar.  If only one
+specifier is a scalar, then the result is a vector.  Otherwise, the
+result is a matrix.  The members <CODE>nr</CODE> and <CODE>nc</CODE> give the number
+of rows and columns of a matrix.</P><P>
+
+<A NAME="IDX47"></A>
+<A NAME="IDX48"></A>
+Matrices have both row and column labels.  They're stored in the members
+<CODE>rid</CODE> and <CODE>cid</CODE>, respectively.  As with vectors, character
+strings used as specifiers in submatrix expressions refer to the
+labels.</P><P>
+
+<A NAME="IDX49"></A>
+<A NAME="IDX50"></A>
+A <EM>table</EM> is an entity that simply holds a collection of other
+entities.  For example, the statements</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>x = 1; y = "foo", "bar";
+t = { x; y };
+</pre></td></tr></table></P><P>
+
+result in a table <CODE>t</CODE> that contains the scalar <CODE>x</CODE> and the
+vector <CODE>y</CODE>.  Instead, we could write
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>t = { x = 1; y = "foo", "bar" };
+</pre></td></tr></table></P><P>
+
+and get the same table.  In the latter case, though, <CODE>x</CODE> and
+<CODE>y</CODE> exist only inside the table.
+</P><P>
+
+<A NAME="IDX51"></A>
+You can put any class of entity into a table, even another table.  The
+members are referenced with the "dot" operator, just like the other
+entities.  The line <CODE>a={u=1;v=2}; a.u+a.v</CODE> prints the value 3.  You
+can add two tables (the members of the right-hand table are inserted
+into the left-hand table) and subtract two tables (the members of the
+left-hand table having the same name as a member of the right-hand table
+are removed).</P><P>
+
+<A NAME="IDX52"></A>
+<A NAME="IDX53"></A>
+<A NAME="IDX54"></A>
+Algae normally executes statements in the order that it receives them,
+but the control-flow statements <CODE>if</CODE>, <CODE>for</CODE>, and <CODE>while</CODE>
+can change that.  The code
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>if (x &#62; 0) { y = 1/x; }
+</pre></td></tr></table></P><P>
+
+is an example of an <CODE>if</CODE> statement.  The parentheses are required
+around the test expression.  If that expression is "true", then the
+statements following it are executed.  The <CODE>if</CODE> statement may also
+have an <CODE>elseif</CODE> part, an <CODE>else</CODE> part, or both, so</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>if (x &#62; 0)
+{
+    printf ("positive");
+elseif (x &#60; 0)
+    printf ("negative");
+else
+    printf ("zero");
+}
+</pre></td></tr></table></P><P>
+
+prints the sign of <CODE>x</CODE>.  (But you should use the <CODE>sign</CODE>
+function, instead.)</P><P>
+
+<A NAME="IDX55"></A>
+<A NAME="IDX56"></A>
+<A NAME="IDX57"></A>
+<A NAME="IDX58"></A>
+<A NAME="IDX59"></A>
+<A NAME="IDX60"></A>
+<A NAME="IDX61"></A>
+<A NAME="IDX62"></A>
+<A NAME="IDX63"></A>
+<A NAME="IDX64"></A>
+<A NAME="IDX65"></A>
+<A NAME="IDX66"></A>
+<A NAME="IDX67"></A>
+<A NAME="IDX68"></A>
+<A NAME="IDX69"></A>
+<A NAME="IDX70"></A>
+<A NAME="IDX71"></A>
+As long as only scalars are involved, Algae's relational, equality, and
+logical operators probably won't surprise you.  An expression is
+<CODE>1</CODE> if it's true and <CODE>0</CODE> if it's false.  The relational
+operators are <CODE>&#62;</CODE>, <CODE>&#62;=</CODE>, <CODE>&#60;</CODE>, <CODE>&#60;=</CODE>.  The equality
+operators are <CODE>==</CODE> and <CODE>!=</CODE>.  The logical operators are
+<CODE>&#38;</CODE>, <CODE>|</CODE>, and <CODE>!</CODE>.  Two additional logical operators,
+<CODE>&#38;&#38;</CODE> and <CODE>||</CODE>, are special; they are described later.
+</P><P>
+
+Where these operators might surprise you is when vectors and matrices
+are involved.  Like most Algae operators, they work on an
+element-by-element basis.  For example, if <CODE>A</CODE> and <CODE>B</CODE> are
+both matrices, then the expression <CODE>A==B</CODE> has several features:
+</P><P>
+
+<UL>
+<LI>
+<CODE>A</CODE> and <CODE>B</CODE> must have the same size.
+<P>
+
+<LI>
+Their labels must match.
+<P>
+
+<LI>
+The expression returns a matrix with the same size as <CODE>A</CODE> and
+<CODE>B</CODE>, every element of which is either <CODE>1</CODE> or <CODE>0</CODE>
+depending on whether the corresponding elements of <CODE>A</CODE> and <CODE>B</CODE>
+are equal.
+</UL>
+<P>
+
+You can see, then, that <CODE>A==B</CODE> doesn't give you a simple true or
+false answer but rather a matrix of answers.
+</P><P>
+
+<A NAME="IDX72"></A>
+<A NAME="IDX73"></A>
+The <CODE>if</CODE> statement, however, does need a simple true or false in
+order to decide whether to execute its statements or not.  It does this
+by recognizing certain entities as false--all others are true.  The
+"false" entities are as follows:
+</P><P>
+
+<UL>
+<LI>
+NULL.
+<P>
+
+<LI>
+Numeric entities in which every element is zero.
+<P>
+
+<LI>
+Character entities in which every element is <CODE>""</CODE>.
+<P>
+
+<LI>
+Vectors and matrices with no elements.
+<P>
+
+<LI>
+Tables with no members.
+</UL>
+<P>
+
+<A NAME="IDX74"></A>
+What gets new users into trouble is a statement like
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>if (A == B) { done = 1; }
+</pre></td></tr></table></P><P>
+
+If <CODE>A</CODE> and <CODE>B</CODE> are matrices, then <CODE>A==B</CODE> returns a matrix
+of ones and zeros.  The <CODE>if</CODE> statement interprets that as "true"
+if even one of its elements is nonzero.  In words, the above statement
+starts out "If any element of <CODE>A</CODE> is equal to the corresponding
+element of <CODE>B</CODE>, then <small>...</small>"  The difficulty is that the
+element-by-element "equality" operation is not the same as a test of
+the equality of two arrays.  If the latter test is what you really want,
+then you should use the <CODE>equal</CODE> function instead.</P><P>
+
+On the other hand, the statement
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>if (A != B) { done = 0; }
+</pre></td></tr></table></P><P>
+
+does work in both senses.  The expression <CODE>A!=B</CODE> returns a matrix
+that has nonzero elements where the corresponding elements of <CODE>A</CODE>
+and <CODE>B</CODE> are unequal.  Thus this expression also serves as a test of
+the inequality of the two arrays.</P><P>
+
+The <CODE>&#38;&#38;</CODE> ("and") and <CODE>||</CODE> ("or") operators are special in two
+ways:  they don't perform element-by-element like the other operators in
+this section, and they "short-circuit" by skipping evaluation of the
+second operand if the result is already established by the first
+operand.</P><P>
+
+Each operand of <CODE>&#38;&#38;</CODE> and <CODE>||</CODE> is evaluated for "truth" in the
+same way that the <CODE>if</CODE> test does.  For <CODE>&#38;&#38;</CODE>, if the first
+operand evaluates to "false" then the second operand is not evaluated
+and the result of the operation is 0.  For <CODE>||</CODE>, if the first
+operand evaluates to "true" then the second operand is not evaluated and
+the result of the operation is 1.</P><P>
+
+For example, in the expression
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>x != NULL &#38;&#38; x.type == "integer"
+</pre></td></tr></table></P><P>
+
+<CODE>x</CODE> is first checked to see if it's NULL.  If it is, then the first
+operand of <CODE>&#38;&#38;</CODE> is 0 and that's also the result of the entire
+expression.  In that case, the member reference <CODE>x.type</CODE> is never
+evaluated.  This is convenient, since that would otherwise be an
+error.</P><P>
+
+An <CODE>if</CODE> statement such as
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>if (x &#60; tol) { x = tol; }
+</pre></td></tr></table></P><P>
+
+could be written instead as
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>x &#60; tol &#38;&#38; (x = tol);
+</pre></td></tr></table></P><P>
+
+The parentheses are required in the second version, since the precedence
+of <CODE>=</CODE> is lower than that of <CODE>&#38;&#38;</CODE>.  Although they accomplish
+the same thing, the first version is recommended; it is easier to read
+and executes a bit faster.</P><P>
+
+<A NAME="IDX75"></A>
+<A NAME="IDX76"></A>
+Besides <CODE>if</CODE>, Algae has two other control-flow statements:
+<CODE>while</CODE> and <CODE>for</CODE>.  The <CODE>while</CODE> statement executes a set
+of statements over and over, as long as a given condition is true.  For
+example, the code</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>a=0; b=1;
+while (b &#60; 10000)
+{
+  c = b;
+  b = a+b;
+  a = c;
+}
+c?
+</pre></td></tr></table></P><P>
+
+computes and prints the largest Fibonacci number less than 10000.  The
+interpreter checks to make sure that <CODE>b&#60;10000</CODE>, executes the
+statements in the <CODE>while</CODE> block, and then repeats.  The first time
+that the expression <CODE>b&#60;10000</CODE> evaluates false, the loop
+terminates.</P><P>
+
+<A NAME="IDX77"></A>
+<A NAME="IDX78"></A>
+<A NAME="IDX79"></A>
+The <CODE>for</CODE> statement also causes looping, but in a different way.
+Assuming that <CODE>v</CODE> is a numeric vector, the code</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>for (i in 1:v.ne) { v[i] = 1 / v[i]; }
+</pre></td></tr></table></P><P>
+
+inverts each of its members.  Inside the parentheses, the keyword
+<CODE>in</CODE> separates an identifier on the left and a vector expression on
+the right.  In this example, the vector expression is <CODE>1:v.ne</CODE>
+which contains the integers from 1 to the length of <CODE>v</CODE>.  The
+<CODE>for</CODE> loop sets <CODE>i</CODE> equal to the first element, 1, and then
+executes the statement <CODE>v[i]=1.0/v[i];</CODE>.  Then <CODE>i</CODE> is set
+equal to the second element, and the statement is executed again.  This
+cycle repeats until all of the elements of <CODE>1:v.ne</CODE> are used.</P><P>
+
+<A NAME="IDX80"></A>
+The previous example also illustrates an important topic concerning both
+<CODE>while</CODE> loops and <CODE>for</CODE> loops.  Essentially the same results
+would be obtained with the statement <CODE>v=1/v</CODE>.  This obviously takes
+less typing and is easier to read.  The really important difference,
+though, is that it is far more efficient.  With the <CODE>for</CODE> loop, all
+of the operations (assignment, division, etc.) are performed by the
+interpreter.  Although <CODE>algae</CODE> is fast, it can't possibly compete
+with doing the same job in C, as <CODE>v=1/v</CODE> is.  On my computer, it's
+about 60 times faster.</P><P>
+
+<A NAME="IDX81"></A>
+<A NAME="IDX82"></A>
+Sometimes it's convenient to interrupt the execution of <CODE>while</CODE> and
+<CODE>for</CODE> loops.  The <CODE>continue</CODE> statement causes another
+iteration of the loop to begin immediately.  If we wanted to invert the
+nonzero elements of a vector, we could write</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>for (i in 1:v.ne)
+{
+  if (v[i] == 0) { continue; }
+  v[i] = 1 / v[i];
+}
+</pre></td></tr></table></P><P>
+
+<A NAME="IDX83"></A>
+The <CODE>break</CODE> statement goes even further, exiting the loop
+altogether.  For example, we could have written our Fibonacci routine
+as</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>a=0; b=1;
+while (1)
+{
+  c = b;
+  if ((b = a+b) &#62; 10000) { break; }
+  a = c;
+}
+c?
+</pre></td></tr></table></P><P>
+
+The <CODE>continue</CODE> and <CODE>break</CODE> statements affect execution of only
+the innermost enclosing loop.</P><P>
+
+It's important to note that <CODE>continue</CODE> and <CODE>break</CODE> are
+statements, not expressions.  The code</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>x &#60; 0 &#38;&#38; break;
+</pre></td></tr></table></P><P>
+
+is not valid, since the operands of <CODE>&#38;&#38;</CODE> must be expressions.</P><P>
+
+<A NAME="IDX84"></A>
+<A NAME="IDX85"></A>
+<A NAME="IDX86"></A>
+<A NAME="IDX87"></A>
+<A NAME="IDX88"></A>
+<A NAME="IDX89"></A>
+<A NAME="IDX90"></A>
+Like other computer languages, Algae has <EM>functions</EM>.  Some functions
+(like <CODE>sin</CODE> and <CODE>printf</CODE>) are <EM>builtin</EM>, meaning that they
+are part of the Algae executable file.  Others, called <EM>user
+functions</EM>, are those written in the Algae language.  A function is
+called by giving its name followed by a parenthesized list of
+<EM>arguments</EM>.  The arguments are separated by semicolons, and their
+values are passed to the function.  Since only the values are passed,
+the function cannot modify the variables that you pass it.</P><P>
+
+For example, let's assume that you're calling the function <CODE>shady</CODE>.
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>x = 1;
+y = shady (x);
+</pre></td></tr></table></P><P>
+
+The value returned by <CODE>shady</CODE> is assigned to <CODE>y</CODE>.  You can't
+tell by looking at it what class of entity (scalar, matrix, etc.)
+<CODE>shady</CODE> returns.  In fact, that might even change from one call to
+the next.  Rest assured, though, the value of <CODE>x</CODE> is still 1, no
+matter what happened in <CODE>shady</CODE>.</P><P>
+
+<A NAME="IDX91"></A>
+Algae functions are entities--just like scalars and matrices.  That
+means that you can perform operations on them as you do with other
+entities.  For example, the statement</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>my_sin = sin
+</pre></td></tr></table></P><P>
+
+creates a new function called <CODE>my_sin</CODE> that works just like the
+original <CODE>sin</CODE> function.  Of course,
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>sin = NULL;
+</pre></td></tr></table></P><P>
+
+gets rid of the <CODE>sin</CODE> function completely--probably not a very
+good idea in most cases.</P><P>
+
+<A NAME="IDX92"></A>
+Functions may be defined during an interactive session or simply
+included from files.  As an example, consider writing a function called
+"findit" that will look through the elements of a vector for a given
+value, returning the locations where it found it.  The following
+function should do the job:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>findit = function (s; v)
+{
+  local (w; i);
+  w = vector ();
+  for (i in 1:v.ne)
+  {
+    if (v[i] == s) { w = w, i; }
+  }
+  return w;
+}
+</pre></td></tr></table></P><P>
+
+<A NAME="IDX93"></A>
+<A NAME="IDX94"></A>
+<A NAME="IDX95"></A>
+(The builtin function <CODE>find</CODE> does this job much more efficiently.)
+The <CODE>local</CODE> statement declares its arguments as having local scope.
+For example, the assignment to <CODE>w</CODE> would have no effect outside
+this function.  Without the <CODE>local</CODE> declaration, the assignment
+would change the value of <CODE>w</CODE> globally.</P><P>
+
+<A NAME="IDX96"></A>
+<A NAME="IDX97"></A>
+The <CODE>return</CODE> statement causes execution of the function to
+terminate and passes it's expression as the function's return value.
+Recursive calls to a function are no problem.  For example, we could
+write a function to compute factorials as</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>fact = function (n)
+{
+  if (n &#60; 2) { return 1.0; else return n * fact (n-1); }
+}
+</pre></td></tr></table></P><P>
+
+<A NAME="IDX98"></A>
+This function has one slight problem.  (Several, really, if you consider
+that it does no error checking.)  If we later decide to change its name
+by typing <CODE>factorial=fact</CODE>, it still calls function <CODE>fact</CODE>
+internally.  Now if we're really mean-spirited we can change <CODE>fact</CODE>
+as in <CODE>fact=sin</CODE>; now <CODE>factorial</CODE> gives wrong answers.  The
+way to handle this is to call the function <CODE>self</CODE> when you make a
+recursive function call, as in</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>fact = function (n)
+{
+  if (n &#60; 2) { return 1.0; else return n * self (n-1); }
+}
+</pre></td></tr></table></P><P>
+
+The <CODE>self</CODE> keyword refers to the current function.  Besides
+recursive function calls, it's also useful for keeping data local to a
+function.  For example, consider a function that returns the "shape"
+of its argument:</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>shape = function (x)
+{
+  return self.(class(x)) (x);
+};
+
+shape.scalar = function (x) { return NULL; };
+shape.vector = function (x) { return x.ne; };
+shape.matrix = function (x) { return x.nr, x.nc; };
+</pre></td></tr></table></P><P>
+
+This <CODE>shape</CODE> function determines the class of its argument and then
+calls the appropriate member function.  (The standard <CODE>shape</CODE>
+function additionally provides some error checking.)</P><P>
+
+<A NAME="Examples"></A>
+<HR SIZE="6">
+<TABLE CELLPADDING=1 CELLSPACING=1 BORDER=0>
+<TR><TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_1.html#SEC1"> &lt;&lt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_3.html#SEC3"> &gt;&gt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae.html#SEC_Top">Top</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_toc.html#SEC_Contents">Contents</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57">Index</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_abt.html#SEC_About"> ? </A>]</TD>
+</TR></TABLE>
+<BR>  
+<FONT SIZE="-1">
+This document was generated
+by <I>K. Scott Hunziker</I> on <I>October, 31  2001</I>
+using <A HREF="http://www.mathematik.uni-kl.de/~obachman/Texi2html
+"><I>texi2html</I></A>
+
+</BODY>
+</HTML>

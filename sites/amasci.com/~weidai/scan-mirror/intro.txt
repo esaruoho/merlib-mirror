@@ -1,0 +1,194 @@
+Standard Cryptographic Algorithm Naming 
+
+ Standard Cryptographic Algorithm Naming 
+ Version 1.0.20a - 22 October, 2002 
+
+ FRAMES |
+ NO FRAMES 
+ U.S. MIRROR |
+ U.K. MAIN SITE |
+ DOWNLOAD AS ZIP FILE 
+
+This document gives references for a collection of cryptographic algorithms.
+Each algorithm is assigned a standard ASCII name, and zero or more aliases.
+The intention is for each algorithm to be specified in sufficient detail
+that independent implementations will be able to interoperate.
+
+The list has been designed initially for use by the Java Cryptography
+Architecture, but should be useful in any situation where a convention is
+needed for referring to algorithms by a string.
+
+It can also serve as a source of references for definitions and cryptanalysis
+of various algorithms. The intention is to develop API mappings for languages
+other than Java in future (probably based on existing cryptography libraries).
+
+ Definitions 
+
+These documents use the terms "MUST", "SHOULD", and "MAY", and their negated
+forms, as defined in
+ RFC 2119 .
+These terms apply to crypto algorithm and library implementations that are
+intended to conform to some subset of SCAN.
+
+In addition, the terms "WILL" and "WILL NOT" specify consistency requirements
+and policies for SCAN itself. If it is stated that something WILL be true,
+but it is not actually true, please report it as an error. New SCAN entries
+or changes to existing entries must satisfy all WILL and WILL NOT constraints.
+
+The term "byte" always refers to an 8-bit byte, or octet. The value of a
+byte is an integer between 0 and 255 inclusive.
+
+In algorithm descriptions,
+
+ "A || B" denotes the concatenation of byte strings A and B,
+ "A XOR B" denotes exclusive-OR of equal-length byte strings A and B,
+ "floor( x )" is the largest integer less than or equal to x ,
+ "ceiling( x )" is the smallest integer greater than or equal to x ,
+ "I2OSP n ( i )" is an n -byte big-endian
+ representation of the integer i . 
+
+The accompanying SCAN Conventions 
+document includes other important information on the conventions used in
+compiling this list, which you should read before relying on it for any
+significant application.
+Also see these suggestions for
+cryptosystem designers .
+
+ General Resources 
+
+The following are very useful resources for a wide range of algorithms:
+
+ Lars Knudsen and Vincent Rijmen's
+ Block Cipher Lounge .
+ The Counterpane web site 
+ (including their 
+ index of cryptography papers available on-line , and
+ list of
+ crypto researchers' home pages ).
+ The Cryptography Research
+ web site (including more lists of
+
+ on-line CRYPTO and EUROCRYPT conference papers , and of
+
+ researcher's home pages ).
+ Yet more 
+ lists of home pages , this time compiled by
+ David Wagner .
+ The IACR Cryptology ePrint Archive ,
+ which archives recent papers (since 1996) on cryptography and cryptanalysis.
+ IEICE Transactions 
+ web site.
+ American Mathematical Society 
+ web site and journal search engine .
+ The ResearchIndex web site, also
+ known as CiteSeer (very useful for literature searches).
+ More on-line crypto papers 
+ from www.cryptosoft.com .
+ Helger Lipmaa 's
+ Cryptology pointers .
+ Crypto-Log:
+ Internet Guide to Cryptography .
+ Thomas Jakobsen 's
+ page on 
+ Cryptanalysis of Block Ciphers .
+ Applied Cryptography, Second Edition , by
+ Bruce Schneier : 
+ web page ,
+
+ order from Amazon.com .
+ Handbook of Applied Cryptography , by Alfred J. Menezes,
+ Paul C. van Oorschot, and Scott J. Vanstone: 
+ web page ,
+
+ order from Amazon.com .
+
+Thanks to Wei Dai 
+for providing the U.S. mirror site for SCAN.
+
+ Contents 
+
+ MessageDigest 
+ Mac (Message Authentication Codes)
+ Cipher (symmetric)
+
+ Block Cipher Modes 
+ Block Cipher Padding 
+
+ KeyGenerator 
+ PRF (Pseudo Random Functions) *
+ PassphraseHash *
+ SecureRandom 
+ Cipher (asymmetric)
+
+ Asymmetric Cipher Encoding Methods 
+
+ Signature 
+
+ Signature Encoding Methods 
+ Signature Output Formats 
+
+ Signcryption *
+-->
+ KeyAgreement 
+ KeyPairGenerator 
+ KeyFactory 
+ AlgorithmParameterGenerator 
+ AlgorithmParameters 
+
+* Experimental; not in JCE 1.2.
+
+ Copyright 
+
+Copyright &copy; 1995-2002 The Cryptix Foundation Limited and David Hopwood.
+All Rights Reserved.
+
+This document and translations of it may be copied and
+furnished to others, and derivative works that comment on or
+otherwise explain it or assist in its implementation may be
+prepared, copied, published and distributed, in whole or in
+part, without restriction of any kind, provided that the above
+copyright notice and this paragraph are included on all such
+copies and derivative works. However, this document itself may
+not be modified in any way, such as by removing the copyright
+notice, except as needed for the purpose of developing
+Internet standards in which case the procedures for copyrights
+defined in the Internet Standards process must be followed, or
+as required to translate it into languages other than English.
+
+The limited permissions granted above are perpetual and will
+not be revoked by the copyright holders or their successors or
+assigns.
+
+This document and the information contained herein is provided
+on an "AS IS" basis and THE AUTHORS AND CONTRIBUTORS DISCLAIM
+ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT
+INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY
+OR FITNESS FOR A PARTICULAR PURPOSE.
+
+ Author and current maintainer : 
+David Hopwood < david.hopwood@zetnet.co.uk >
+
+ Trademarks 
+
+"Cryptix" is a trademark of
+ The Cryptix Foundation Ltd. 
+
+"Java" is a registered trademark of
+ Sun Microsystems, Inc. 
+
+"DESX", "RC2", "RC4", "RC5", "RC6", "MD2", "MD4", and "MD5" are registered trademarks of
+ RSA Security, Inc. 
+
+"CAST5", "CAST-128", and "CAST-256" are registered trademarks of
+ Entrust Technologies, Inc. 
+
+"Diamond2 Block Cipher" is a trademark of Michael Paul Johnson.
+
+"IDEA" is a registered trademark of
+ Mediacrypt .
+
+Other brand, product, and algorithm names may be trademarks or registered
+trademarks of their respective holders.
+
+ Copyright and trademarks

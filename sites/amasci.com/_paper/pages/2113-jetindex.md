@@ -1,0 +1,123 @@
+---
+title: "jetindex"
+source_domain: amasci.com
+source_path: ~daddog/fuels/nitrousoxide.htm
+order: 2113
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T05:55:47Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# jetindex
+
+*Source page: `~daddog/fuels/nitrousoxide.htm`*
+
+DADOG's NITROUS OXIDE PAGE
+
+for BEGINNERS
+
+for the YFZ-450 Quad
+
+Updated 8/11/2004
+
+[**Fireside chat with Daddog about nitrous installation**](nostalk.htm)
+
+ 
+
+------------------------------------------------------------------------
+
+**YES.**
+
+WELL.
+
+ok, nitrous.
+
+There are lots of you out there running it, so , because we are nice guys, we are going to help you not blow up your motor. Here is the free YFZ-450 NITROUS MOTOR PROTECTION CIRCUIT we used when we ran NITROUS NOS systems. without this you will damgage your piston. With it, you should be alble to run it a long time (not as long as stock, but pretty long) without this circuit it will be a few weeks before you can rebuilt or buy a new crank. With it, your crank should last and last. ok, seriousl;y, it is important.
+
+<img src="noscircuit.jpg" width="400" />
+
+Here is a secret circuit no one wants you to know about. So since no one wants you to know, we will tell you about it . Why? Because we are nice guys, thats why! (why else?) We could build these circuits and sell them for 125 dollars and put them in epoxy so you cant see what is in there, but then we wouldnt be nice guys, we would be business men. But we arent, we are just nice guys. LOL\>
+
+YOU NEED THIS CIRCUIT! WE WILL EXPLAIN WHY BELOW!
+
+------------------------------------------------------------------------
+
+This circuit is very simple. 1. Buy a cheap TINY radio schack pc board relay. (it just has to be small, even a reed relay will work fine, there is no POWER going through it really. so get a tiny one. 12 volt relay. it has to have a normally closed terminal on it, that means when no power is applied to the relay, you get power going through the two wires. cut the blue wire to the throttle position sensore and run them through this relay. so when no power is on it acts NORMALLY and runs like stock.
+
+2\. Now, solder a 1 k (one thousand ohm) resistor (1/4 watt is fine) across the blue wire leads so that when the relay is given power into the relay coil and the relay actuates, it breaks the circuit and the blue wire is then disconnected.
+
+3\. The voltage sensing circuit now has to go through the resister, so you in effect have a 1 K ohm resistor in line in the blue wire.
+
+4\. This relay should be actuated whenever NOS is injected.
+
+5\. What happens then, is WHEN the NOS relay goes on this circuit goes on and you have a 1k resistor now in line of the BLUE wire for the TPS system.
+
+This circuit looks simple but what it does is really tricky. it basically raises the comparator voltage so that the voltage reads about 20% LESS than what it would read (WOT) and the ignition system THINKS you are at 20% less RPM so it RETARDS the timing to the point at about 3/4 throttle! Even though you are at full throttle!
+
+this is a really cool circuit
+
+This circuit is so cool, that it sends chills down our spines ! LOL. It is better than aftermarket ignitions, because on after market ignitions they lower the WHOLE WOT CURVE ALL THE TIME!
+
+get it? so when you are not sparying nos, your silly motor is RETARDED in the top end!
+
+.
+
+Now, the 5450 is so fast, when we ran NOS, we never had it on! almost never!, everyone accused us of always running it anyway but that is another issue. The advantage3 of this circuit over just running your stock ignition, or a programmable ignition is if you retard the whole curve, then when you are not injecting you lose power on top end. But this sircuit will work with any programmable ignition or stock ignition to make it even BETTER! We can run it with our stock ignition or with our DYNATEK ignition. TRetarding the WHOLE CURVE for NITROUS is bad... so you can set a nice advanced curve with the DYNATEK and then put this circuit on and you have the advantages of advanced ignition, and also a delayed curve when you hit the NOS! So that is a good combination. STock works very well also as the delay is put in regardless. So, this way, the timing is reatarded ONLY when you need it.
+
+------------------------------------------------------------------------
+
+I feel this is our BEST invention we ever invented in the DOG shop. And has had the most impact on preventing damage if you run NITROUS.
+
+SO, here it is for you NOS GUYS or you NITROUS guys. It would be advantages even with the carb injectors on the carb nitrous quads. If you dont want to make one for 10 bucks, you can buy a nitrous ignition system for a couple hundred instead, that will save you some time. !
+
+.
+
+Now, for those of you without NOS, really boys, YOU DONT NEED IT (but I know your gonna do it anyway! so do it the dog way, ok? ride SAFE! HEH HEH LOL. There is a lot to tell and a lot to watch out for. This "fuel" is really just "oxygen" at a very COLD temperature which also helps the air taken into the carburetor to shricnk, thus packing the piston with more xygen/fuel than normal. It is basically like turbochargin your motor without the hardware, and the amount is limited only by your engines moving parts strength.
+
+Want more power? Turn up the Nitrous. typical engine boosts can go to 400 horsepower on a v8 that is about 50 horsepower per piston, and that would put a YFZ450 to 100 horsepower... If it can take it, wich it probably couldn't
+
+but anyway a nice safe 9 hp boost or 15 hp boost really helps get your 450 into the NEXT gear. (lets say you top out in 3rd gear up oldsmobile. a 15 hp boost would top you out in 4th gear.
+
+You need experience in jetting, electrical hookups and a little mechanics.
+
+I am not planning in doing photos on how to do this,(WELL maybe I am now 8-11-2004) at this time, But it will be a documentary only recommending you DO NOT DO WHAT WE DID, ok? When your engine goes, you will be a little upset, cause I KNOW you'll be putting in bigger jets for more power, you can't help it! Well, we didn't blow up our motor, but we ran it without timing retard and the force was so great it scorec both the piston bearing and the crank bearing! NEW CRANK cha ching!( over a few months) So we had to develop the timing dog rider retard. RUNNING THIS CIRCUIT no PROBLEMS! the motor loved us and gave us kisses all day long, and fell in love with us. So there you ahve it. So there is plenty of info on the web pages that tell you how to do it and etc. etc.
+
+------------------------------------------------------------------------
+
+OK YOU ARE STILL HERE! VERY WELL\< I WILL TELL YOU THE NITROUS SECRET!
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+HERE is the latest: 8-11-04 ALCOHOL is difficult to jet, changes with temperature is finicky and if you have a jet4power it will help a lot. it is cheap and can work pretty well, but to be efficient you have to have high compression. Who knows maybe we will stick a 13:1 compression piston in there on the daddog 508 motor \*which will make it 14:1 ) and it may run better and pretty hot. But if you really want a Boost, the way to do it (if you dont mindd a rebuild once in a while) is the NOS system 3001 NOS setup. I am putting the NOS systems special circuit on here we developed .
+
+<img src="noscircuit.jpg" width="400" />
+
+THIS CIRCUIT IS NECESARY IF YOU ARE GOING TO RUN NITROUS OXIDE ON YOUR 450! if you dont want engine failure. It retards the timing and youll notice a suddeen PULLING POWER increase, nitrous burns faster than gas/air and extreme engine stresses will develop if you do not retard the timng. HOW MUCH\>?/? Well, we found in the circuit above it runs best for us. If you area going to try this circuit you assume all responsibility (It should not damage the electronis, it is just s resistor,) but you will be responsible for running nitrous I mean. good. so now your responsible. Here are some tips. DO NOT LET THIS SIMPLE CIRCUIT DECIEVE YOU, It was developed over a year with much effort and this is what works VERY WELL for the YFZ450. If you are running NOS, you will find you can get much more HORSEPOWER from your NOS boost and you wont feel the FIGHTING (preignition in the the motor) Your NOS will go farther, your power will be higher and of course you will go faster, and your piston will KISS you! it wont be fighting preignition and will live to a ripe old age.! This is the BEST THING we ever developed for cheap easy horsepower. And for prolonged engine life. it performs VERY WELL it retarding the ignition timing. It is GREAT that yamaha has put the THROTTLE SYSTEM on the quad, it works well for playing with the ignition timing!
+
+Thats it friends that is the ultimate way to get power, LOW dose NOS like a 3-5 shot, THIS CIRCUIT, a nice pipe a nice airfilter and good jetting and you ahve a sweet machine. of course you could run the DADDOG508 with this circuit and the gas but that would be utterly wild and we dont recommend it of course! (LOL) besides, you dont have a swingarm, remember? why land up on your bum in the sand!
+
+Anyway, we have saved you HUNDREDS OF DOLLARS, given up the coolest thing ever made for the 450 and hope to see many out there. Now we gotta figure out if we put the bottle back on or not, have to think about that! LOL hundreds of dollars, and it is specific for the YFZ-450. the best kit for the YFZ450 that we found is the NOS system \#3001 single engine jet kit. you can buy it from schnitz racing. The reasons are numerous, but each person has their own choice.
+
+You will invest 1000 dollara total to be able to fill your own and you will run through about 20 dollars of Nitrous over an average sunday racing around.
+
+This is the ultimate horsepower maker, and your limit is basically your motor strength. It will beat alcohol easily...just turn up the jets.
+
+We tried it, and it is great for straight lines and drags and hills, but is virtually worthless for the dunes and track and jumping, because once you hit the NOS, you are going in the direction you were pointed QUICKLY. We hit our top speed of 83 MPH in SECONDS and the only reason we did not go faster cause the rev limiter was kicking in. tires were 22 inch extreme hauler paddles, on sand, flat sand, with 36 back gear and 15 front gear and there was more to give!This was a YFZ-450.
+
+Absolutely could be too fast if you use too much of it, so we'll leave it at that. We took it off, cause every time we won a drag, they would say ITS BECAUSE OF THE NOS and we didn't even have the bottle turned on 90 percent of the time! So no one would race us.Anyway we have it if we need it someday, but it is fun to play with.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+[**BACK TO HOME PAGE**](http://www.eskimo.com/~daddog/index.htm)
+
+[**BACK TO FUELS PAGE**](http://www.eskimo.com/~daddog/fuels/index.htm)
+
+ 
+
+**Have fun and run fast!**

@@ -1,0 +1,687 @@
+Pure Mac: Face-Lift 
+
+ Face-Lift 
+
+ Biggy-Light 
+ clip2icns 
+ Cursor Animator 
+ Custom Cursors 
+ Decor 
+
+ Deluxe Folder Icon Creator 
+ DeskPicture 
+ Dialog View 
+ DSGTheme 
+ Dumpster 
+
+ Folder Icon Maker 
+ Icon Archiver 
+ Icon Brush 
+ IconBuilder 
+ IconDropper 
+ IconMacher 
+
+ Icon Machine 
+ Iconographer 
+ Kaleidoscope 
+ Kineticon 
+ Menuette 
+
+ Mercutio Patcher 
+ Pict-2-Icons 
+ Power Windows 
+ RandomBackground 
+ ResEdit 
+ SoundSet Creator 
+ Sounds4Fun 
+
+ StartupScreen Randomizer 
+ TinkerTool 
+ Webshots 
+ Window Monkey 
+ Yo! 
+ Zipple 
+
+ ArtPC.com 
+ Astronomy Picture of the Day Archive 
+ ClixSounds 
+ Customize.org 
+ Desktopia 
+ The Desktop Depot 
+ Digital Blasphemy 
+ Doghouse Online - Themes, Schemes, Cursors etc. 
+ Epoch Icons 
+ GUI Central 
+ Icon Amazons 
+ The Icon Factory 
+ IconsPlus 
+ Imagine Texture Archive 
+ Info-Mac's Icon Directory 
+ Info-Mac's Kaleidoscope Directory 
+ Info-Mac's Textures Directory 
+ Janet Paris (Silver Dragon) 
+ The Kaleidoscope Scheme Archive 
+ Kids' Domain Holidays 
+ MacDesktops 
+ Mac Themes Project - Get some 3rd party 8.5 - OS 9 themes here 
+ OS 8.5 Themes Archive - No Themes but a nice collection of SoundSets 
+ Reby's Icons 
+ ResExcellence 
+
+ Biggy-Light 3.3 
+
+Welcome to the world's only BIG and animated cursor utility for Macintosh, complete with a bunch
+of other helpful cursor tools. Biggy-Light ($29) is a trimmed down version of our popular Biggy.
+The full Biggy ($99) has over 250 cursors, while Biggy-Light here has just a few (but they're good
+ones!).
+
+ License : Demo, $29
+ Author/Publisher : Dave Warker /RJ Cooper & Associates
+ Modification Date : December 7, 1998
+ Requirements : Mac OS 8.5
+
+ Direct Download
+ File Size: 299 Kb
+
+ Home Page 
+
+ clip2icns 1.5.1 
+
+This little utility is designed to help you create 32 bit icons (which are available under MacOS 8.5
+and above). It takes a picture from the clipboard, splits it up into the icon and
+mask, and either inserts it into a current file or makes a new icon.
+
+ License : Shareware, $10
+ Author/Publisher : Mihai Parparita 
+ Modification Date : February 27, 1999
+ Requirements : Mac OS 8.5
+
+ Direct Download
+ File Size: 221 Kb
+
+ Home Page 
+
+ Cursor Animator 2.0.1 
+
+Animate or just plain change and add color to your cursor. Note the advanced age of this control panel.
+I wouldn't really recommend its use on a regular basis but it's still pretty cool to play with.
+
+ License : Freeware/Send a Postcard
+ Author/Publisher : Wilhelm M. Plotz and A. Falk
+ Release Date : November 29, 1991
+ Requirements : 680x0 - I wouldn't use it every day but interesting nonetheless
+
+ Direct Download
+ File Size: 159 Kb
+
+ Parent Directory 
+
+ Custom Cursors 1.2 
+
+Sets of well done cursors in a multitude of colors.
+
+ License : Freeware
+ Author/Publisher : Janet Paris
+ Release Date : January 18, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 43 Kb - Custom Cursors
+
+ Direct Download
+ File Size: 44 Kb - More Custom Cursors
+
+ Direct Download
+ File Size: 42 Kb - Left-Handed Custom Cursors
+
+ Direct Download
+ File Size: 44 Kb - More Left-Handed Custom Cursors
+
+ Home Page 
+
+ Decor 3.0.4 
+
+Decor is an incredibly cool System extension which allows you to replace the boring desktop pattern with a
+background picture of your choice. Decor handles StartupScreen, PICT, GIF and JPEG files. It has a lot of great
+features; for instance, you can ask it to select pictures from a certain folder, and to pick a new one every 10
+minutes. It is now accelerated for PowerPCs. Of course if you have Mac OS 8 it's kind of pointless.
+
+ License : Shareware, $10
+ Author/Publisher : Francois Pottier
+ Modification Date : June 23, 1997
+ Requirements : 680x0, System 7 or up
+
+ Direct Download
+ File Size: 704 Kb
+
+ Parent Directory 
+
+ Home Page
+
+ Deluxe Folder Icon Creator 1.6.1 
+
+dFIC makes it simple to create attractive, custom folder icons. It does this by overlaying any file icon onto your choice of four folder icons: The standard System 7 folder, an attractive gray shaded folder, the "Copland" (System 8) style folder, or a diskette icon.
+
+ License : Freeware, Send a Postcard
+ Author/Publisher : Jim Cushing/EgoWare 
+ Modification Date : December 10, 1996
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 68 Kb
+
+ DeskPicture 4.5.1 
+
+DeskPicture is a handy utility that makes it easy for you to display pictures on your desktop and
+manipulate them to your taste. Once you've placed one or more pictures on your desktop,
+DeskPicture provides many options for adjusting their appearance. Great for those still using System 7.x
+
+ License : Shareware, $19.95
+ Author/Publisher : Clay Maeckel/Peirce Software, Inc.
+ Modification Date : January 24, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 632 Kb
+
+ Parent Directory
+
+ Home Page
+
+ Dialog View 2.3.3 
+
+Dialog View allows you to change the appearance of directory dialogs 
+(Open and Save dialogs). You can control the icon type (large color, 
+medium color, tiny generic, or none), the height and width of the file 
+list, and the font for the file list.
+
+ License : Shareware, $10
+ Author/Publisher : James W. Walker
+ Modification Date : April 18, 1999
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 146 Kb
+
+ Parent Directory 
+
+ Home Page
+
+ DSGTheme 1.0 
+
+The DSG Theme has a gray high-tech appearance and is designed to be a bit sporty and at the same time easy to work with.
+This is the first and only third party theme I've seen so far.
+
+ License : Freeware
+ Author/Publisher : DSG Group, Inc.
+ Modification Date : March 28, 1999
+ Requirements : Mac OS 8.5 or better
+
+ Direct Download
+ File Size: 189 Kb
+
+ Home Page 
+
+ Dumpster 4.0 
+
+A folder and Trash Can replacement utility. Dumpster allows the user to select a
+replacement folder from one of the hundreds of folders included with Dumpster to
+replace the standard: Full Trash Can, Empty Trash Can, System , Apple Menu Items,
+Startup Items, Drop Folder, Connected Share Point, Control Panels, Print Spool,
+Preferences, Extensions, Preference document - generic, Fonts, Documents
+Application - generic, Control Strip Modules, Control Panels (disabled),
+Extensions (disabled), Startup Items (disabled) folders. Dumpster is simple to
+use, juts select the folders of your choice and when you quit Dumpster, Dumpster
+will make the changes.
+
+ License : Demo, Purchase for $20
+ Author/Publisher : Donald W Perreault Jr
+ Modification Date : June 27, 2000
+ Requirements : 68040 or PPC, System 8 or later
+
+ Direct Download
+ File Size: 1418 Kb
+
+ Home Page 
+
+ Folder Icon Maker 1.5.1 
+
+Folder Icon Maker creates folders with custom icons.
+
+ License : Freeware, Send a Postcard
+ Author/Publisher : Gregory M. Robbins 
+ Modification Date : June 9, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 66 Kb
+
+ Parent Directory 
+
+ Icon Archiver 4.0 
+
+A great way to store your custom icons. This app will save you oodles of disk space if you have a large icon collection.
+The Icon Archiver is an extremely powerful database specifically designed for easy icon storage and retrieval. It can quickly scan whole disks or folders and grab all the icons they contain, including those you won't ever see in the Finder and all icon archives created by other icon utilities. It can easily export them in most graphics formats, including the ones you need for your web pages.
+
+ License : Shareware, $25
+ Author/Publisher : Alessandro Levi Montalcini 
+ Modification Date : November 13, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 519 Kb 
+
+ Parent Directory 
+
+ Home Page 
+
+ Icon Brush 1.0.2 
+
+ Icon Brush is an icon editing program targeted for MacOSX but will run under OS9 with CarbonLib. Some benefits of Icon Brush include:
+ - Support of OSX native .icns files
+ - Support for 32-bit icons
+ - Copy and paste icons directly into the RB build dialog (or to and from ResEdit)
+ - Extract and edit ALL icons contained within a file, edit them, and save them back into the file.
+ - Edit icons of folders
+ - Save icons into an existing file
+ - Comes with loads of templates for standard things like document icons, extensions, folders, docklings, etc.
+ - Lots of powerful image editing tools to get your icons looking just right
+
+ License : Shareware, $10
+ Author/Publisher : Noah Desch/Wireframe Software
+ Modification Date : August 31, 2001
+ Requirements : PPC, Mac OS 9 and Mac OS X
+
+ Direct Download
+ File Size: 1017 Kb 
+
+ Home Page 
+
+ IconBuilder Pro 3.0 
+
+IconBuilder combines the power of the ultimate graphics editor - Adobe Photoshop,
+with the ease of use of IconDropper, making a powerful icon creation tool for both
+beginner and advanced users. 
+
+ License : Shareware, $69 - Lite version $29
+ Author/Publisher : The Iconfactory
+ Modification Date : July 12, 2001
+ Requirements : Mac OS 8.5, Photoshop 3.0 or later
+
+ Direct Download
+ File Size: 3219 Kb - Icon Builder Pro 3.0
+
+ Direct Download
+ File Size: 563 Kb - Icon Builder Lite 2.0.1
+
+ Home Page 
+
+ IconDropper 3.2.2 
+
+A great way to archive your icons and to apply and change the custom icons of any file, folder or application.
+There are two ways you can use IconDropper. You can drop an item from the Finder into the magic hat.
+You can also use "Change Icon..." in the Finder's contextual menu (for Mac OS 8). After the interface
+appears, you can click on any icon and it will be updated in the Finder.
+When you download a new icon pack, put it in the Packs folder. The icon packs and folders inside
+Packs will be displayed as a list in IconDropper's interface.
+You can create your own icon packs with IconPacker.
+
+ License : Shareware, $20
+ Author/Publisher : The Iconfactory
+ Modification Date : October 25, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1985 Kb - FAT version 3.2.2
+
+ Direct Download
+ File Size: 1536 Kb - PPC version 3.2.2
+
+ Parent Directory
+
+ Home Page 
+
+ IconMacher 1.5.4 
+
+An application that generates icon pictures for use in the Finder.
+
+ License : Freeware
+ Author/Publisher : Purple e Software
+ Modification Date : October 23, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1364 Kb
+
+ Home Page 
+
+ Icon Machine 3.0b7 
+
+Icon Machine is a Macintosh icon editor designed to take advantage of the great features of the Mac OS to give you the power to make the icons you want.
+
+Now updated and redesigned for editing all icon sizes from 16x12 Mini to Mac OS X's 128x128 Thumbnail, and Carbonized for Mac OS X, Icon Machine is a great tool for creating icons for applications, customized folders, eye-catching documents, and everything else.
+
+ License : Shareware, $25
+ Author/Publisher : David Catmull
+ Modification Date : September 14, 2001
+ Requirements : PPC, Mac OS 8.6 or higher and Mac OS X
+
+ Direct Download
+ File Size: 531 Kb
+
+ Parent Directory
+
+ Home Page 
+
+ Iconographer 2.1 
+
+Iconographer is a an icon editor. It allows you to both change the icons of items, as well as edit the icon resources used by various programs.
+Iconographer has been created from the ground up to edit the new, Mac OS 8.5+, 32-bit icons with 8-bit masks. In addition, it allows you to work
+with icons from other platforms (at this moment, Windows .ico files and Mac OS X .tiff files). At the same time, it works on any Power
+Macintosh that has the Appearance Manager installed.
+
+ License : Shareware, $15
+ Author/Publisher : MScape Software
+ Modification Date : August 31, 2001
+ Requirements : 680x0 or PPC Mac OS 8.6 or higher and Mac OS X
+
+ Direct Download
+ File Size: 526 Kb - Classic version
+
+ Direct Download
+ File Size: 758 Kb - Mac OS X version
+
+ Home Page 
+
+ Kaleidoscope 2.3.1 
+
+Kaleidoscope is the ultimate in user interface customization for the Macintosh, letting
+you switch between completely different interface designs provided by plug-in
+modules called "Schemes".
+
+ License : Shareware, $20
+ Author/Publisher : Greg Landweber, Fred Bass, Ed Voas and Arlo Rose 
+ Modification Date : February 21, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1863 Kb - version 2.3
+
+ Direct Download
+ File Size: 200 Kb - 2.3 - 2.3.1 updater
+
+ Download Page 
+
+ Home Page 
+
+ The Kaleidoscope Scheme Archive 
+
+ Kineticon 2.0 
+
+Kineticon is a system extension that replaces selected icons on your Macintosh desktop with icon
+animations. Included with Kineticon is "Kineticon Editor". Kineticon Editor allows you to create
+your own icon animations.
+
+ License : Shareware, $10
+ Author/Publisher : Sherman Uitzetter 
+ Modification Date : January 21, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1888 Kb - Fat version
+
+ Home Page
+
+ Menuette 3.0.1 
+
+Replace those boring words in your menu bar with attractive
+color icons. You can also pick your favorite font for menus.
+
+ License : Shareware, $19.95
+ Author/Publisher : Tiger Technologies
+ Modification Date : September 1, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 737 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ Mercutio Patcher 2.6.1 
+
+Are those white pull down menus in Netscape and other apps driving you batty with Mac OS 8.5. Mercutio Patcher can help.
+What is the Mercutio MDEF?
+To make it simple, the Mercutio MDEF is a resource inside an application
+program that draws the menus of that application. 
+Why do I need to patch my applications?
+First, not all applications use Mercutio MDEF. Only some of them (read included readme 
+document 'Mercutio Apps').
+The reason why you need to patch some applications is that they use an old
+version of Mercutio MDEF. That old version can make some applications
+crash or behave strange under MacOS 8.x. (ugly menu colors or pop-up menu
+glitches)
+
+ License : Shareware, $15
+ Author/Publisher : Ola Ekedahl
+ Modification Date : December 17, 1998
+ Requirements : PPC
+
+ Direct Download
+ File Size: 553 Kb
+
+ Home Page 
+
+ Pict-2-Icons 3.1 
+
+It's main purpose is to make a series of icons out of a PICT file. I could describe it like the things Apple always did on their MacAdvocate series of CDs, and many software houses still do it too (Microsoft and Virex for example). When you insert the CD, you get a window
+with a large picture in it, way larger than the 32 by 32 pixels the Mac OS icons are limited to. This is done by cutting a PICT file in small squares of 32 times 32 pixels. And exactly that is what this application will do.
+
+ License : Shareware, $5 - 10
+ Author/Publisher : Thomas De Groote 
+ Modification Date : March 23, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 793 Kb
+
+ Home Page 
+
+ Power Windows 2.4.5 
+
+Power Windows is a small control panel that lets you tap into your Mac's unused
+processor power to perform amazingly cool effects with windows and menus (so I
+guess I should really call it "Power Windows and Menus", or maybe "Greg's Power
+Stuff"). The primary function of Power Windows is to let you drag the entire
+contents of windows instead of just a dotted outline. The control panel lets you
+choose between Solid Dragging and Translucent Dragging, and you can even Use
+Multitasking with solid dragging. Power Windows can also make Finder Windows
+Fade Open and Closed and Menus Fade Closed, as well as offering Translucent
+Menus. While this is not exactly a productivity application, you might be able
+to convince yourself that multitasking during drags and being able to see what's
+behind menus is sort of useful. But most importantly, Power Windows is just
+plain fun, and it's great for impressing your friends and coworkers.
+
+ License : Shareware, $10
+ Author/Publisher : Greg Landweber
+ Modification Date : January 14, 2001
+ Requirements : 680x0 or PPC, System 7 or higher
+
+ Direct Download
+ File Size: 110 Kb
+
+ Home Page 
+
+ RandomBackground 1.4.3 
+
+It changes your desktop pictures, at each login, taking the pictures of a choosen directory or on the internet.
+
+ License : Freeware
+ Author/Publisher : Pierre d'Herbemont
+ Modification Date : September 23, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 117 Kb
+
+ Home Page 
+
+ ResEdit 2.1.3 
+
+Apple's indispensable resource editor.
+
+ License : Free
+ Author/Publisher : Apple Computer, Inc.
+ Modification Date : July 15, 1994
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 464 Kb
+
+ Parent Directory 
+
+ SoundSet Creator 1.0b2 
+
+One of the really neat features in Mac OS 8.5 is the option you can set in the Appearance control
+panel to associate sounds with all the interface elements. It's really cool! However, Apple did not
+provide a way to create your own sound files, nor did they even publically document the internals of
+the sound files. Enter SoundSet Constructor.
+
+ License : Public Alpha
+ Author/Publisher : Chris Gervais 
+ Modification Date : January 3, 1999
+ Requirements : Mac OS 8.5 or better
+
+ Direct Download
+ File Size: 325 Kb
+
+ Home Page 
+
+ Sounds4Fun 1.0GM 
+
+Sounds4Fun is a utility that makes your Macintosh play sounds when certain system events occur (such as disk insertion and ejection, and emptying the trash etc.).
+
+ License : Shareware, $14
+ Author/Publisher : Riccardo Ettore 
+ Modification Date : May 3, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 315 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ StartupScreen Randomizer 2.0.1 
+
+StartupScreen Randomizer is a set of programs which will randomly 'create' StartupScreens for you from a folder of pictures. When the 'Startup Screen Changer' file is placed in your Extensions folder in the system folder, a new startup screen will be chosen for you on every restart. The 'Startup Screen Randomizer' application is used to change the preferences affecting the appearance of your startupscreen, as well as the location of the pictures to be used.
+
+ License : Shareware, $5
+ Author/Publisher : Grossware
+ Modification Date : May 15, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 1670 Kb
+
+ Home Page 
+
+ TinkerTool 2.0 
+
+Do you want to control anti-aliasing of fonts? Would you like translucent terminal windows? Do you want to have all hidden files and folders displayed in the Finder? All that and many more hidden options of Mac OS X can be activated with the TinkerTool utility.
+
+Without using the command-line, you can activate the following preference options:
+ - Enable or disable the Mac OS desktop
+ - Disable the animation effect when opening files
+ - Show hidden and system files in the Finder
+ - Set the Dock position
+ - Select the Dock animation effect
+ - Use transparent Dock icons to mark hidden applications
+ - Select the default fonts used in Cocoa applications
+ - Activate transparent Terminal windows
+ - Control font-smoothing in all types of Mac OS X applications
+
+ License : Freeware
+ Author/Publisher : Marcel Bresink
+ Modification Date : October 23, 2001
+ Requirements : Mac OS X 10.1
+
+ Direct Download
+ File Size: 244 Kb
+
+ Home Page 
+
+ Webshots Desktop Lite 1.0.2 
+
+Webshots Desktop Lite allows you to automatically place an image on your Desktop
+by selecting from thousands of full-screen color images in categories such as
+sports, scenics, wildlife, travel, 3D, and more on Webshots
+ . Future Macintosh versions (simply titled Webshots
+Desktop) will include image management and collections, screen savers, and much,
+much more! The software includes an automatic Web updater for new versions. You
+can also share photos with friends and family through the Webshots Community.
+ Webshots Desktop Lite works with your web browser as a helper application.
+The application itself does not need to be actively running on your computer to
+function. Simply select an image from the Webshots web site, and your web browser
+will automatically open Webshots Desktop Lite, change your Desktop image, and
+automatically quit Webshots Desktop Lite for you.
+
+ License : Freeware
+ Author/Publisher : Excite@Home, Inc.
+ Modification Date : May 24, 2000
+ Requirements : PPC, Mac OS 8 or later
+
+ Direct Download
+ File Size: 434 Kb
+
+ Home Page 
+
+ Window Monkey 1.3.1 
+
+This program lets you choose patterned backgrounds for Finder windows. It lets you change the window's text color too.
+Window Monkey is compatible with other interface enhancements such as Kaleidoscope and Aaron
+
+ License : Shareware, $2O
+ Author/Publisher : Tiger Technologies
+ Modification Date : February 8, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 847 Kb
+
+ Home Page 
+
+ Yo! 1.0 
+
+YO! is an awesome new piece of software that allows you to install up to 1,000
+sounds at once to be played randomly as your system alert sound. No longer must
+you be annoyed by the same sound...now you can be annoyed by hundreds...all
+without taking up valuable system RAM for each sound.
+
+ License : Shareware, $20
+ Author/Publisher : ClixSounds
+ Modification Date : October 5, 1998
+ Requirements : 680x0 or PPC, System 7.1 or higher
+
+ Direct Download
+ File Size: 1892 Kb
+
+ Home Page 
+
+ Zipple 1.9.2 
+
+Plaster animated icons over your Apple Menu, Help and Finder icons in your menu bar.
+
+ License : Shareware, $10 optional
+ Author/Publisher : Christopher S. Suley
+ Modification Date : March 9, 1994
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 60 Kb
+
+ Parent Directory 
+
+ Back to the main page of Pure Mac

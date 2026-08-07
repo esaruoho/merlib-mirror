@@ -1,0 +1,36 @@
+The Loadlin+Win95/98/ME mini-HOWTO: IMPORTANT: Preliminary Information and Setup 
+
+ 3. IMPORTANT: Preliminary Information and Setup 
+
+ 3.1 Windows ME Users 
+
+ Before your read any further, I should mention that this mini-howto
+has some limitations with Windows ME. Based on feedback from Windows ME
+users, the menuing system described in the next section will
+only work from a Windows boot floppy instead of from the hard drive.
+Thanks to Olivier Guichard for pointing me to the relevant 
+ Microsoft article .
+ Note that only the config.sys and autoexec.bat files
+need to be on the floppy disk. All other files mentioned may reside on
+the hard drive.
+ If booting from a floppy is not an option for you, then please see the 
+ FAQ section for alternatives to LILO and Loadlin.
+
+ Any Windows ME users who can find a better way than using a floppy,
+please 
+ let me know your solution
+so I can include it in this mini-howto.
+
+ 3.2 Things that are assumed: 
+
+ You have successfully installed Windows 95/98/ME. 
+ Windows 95/98/ME is installed on Drive C. 
+ You have successfully installed Linux. 
+ You know what partition Linux is installed on. 
+ LILO is NOT installed on your hard drive.
+
+ 3.3 Items you need before you start: 
+
+ The Loadlin.exe program file 
+ Your kernel image file, usually bzImage or vmlinuz. (See the 
+ FAQ for info).

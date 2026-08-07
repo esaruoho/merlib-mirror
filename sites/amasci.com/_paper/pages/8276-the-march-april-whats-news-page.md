@@ -1,0 +1,143 @@
+---
+title: "The March-April What's News Page"
+source_domain: amasci.com
+source_path: ~stevemc/3-4-95new.html
+order: 8276
+reachable_from_entry: false
+images: 5
+internal_links: 3
+extracted: 2026-08-07T06:00:46Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The March-April What's News Page
+
+*Source page: `~stevemc/3-4-95new.html`*
+
+<img src="images/whatsnew.gif" data-align="BOTTOM" width="287" height="164" />
+
+## The March - April 1995 What's News Page
+
+------------------------------------------------------------------------
+
+NEW! EXCLUSIVE!
+
+#### 
+
+SLUG TALES: THE FIRST BACK-MASKED PAGE ON THE WWW!!!
+
+Must be viewed with Netscape 1.1N
+
+------------------------------------------------------------------------
+
+### April 29, 1995
+
+*?ehcuoT* ...Right Wing talk shows host have been stung by President Clinton's charge that their incendiary rhetoric fuels the hate underlying violence like the Oklahoma City bombing. G. Gordon Liddy (Watergate felon who suggested on air that listeners "shoot for the head" of BATF agents to avoid bullet-proof vests)denies the charge. "I engage in persausive speech. We must learn to differentiate between speech and action. As anyone on the right knows, speech does not equate to action -- unless it's turned around backward on a rock and roll record."
+
+------------------------------------------------------------------------
+
+### April 26, 1995
+
+Doh!
+
+In his recently published memoir, "Honey, I Sent the Kids to a Pointless War", Robert MacNamara reveals that the Vietnam War was actually a *"terrible mistake".* Oops, indeed! Bob's contrition is doubted by some who've noted the sponsorship of his book tour by Dominos' Pizza. MacNamara is reportedly to appear in Dominos' commercials which counter the recent Pizza Hut spots by Rush Limbaugh. Limbaugh's Pizza Hut ads have him eating the stuffed crust pizza "wrong" (crust first). MacNamara's spot reportly has him saying, "Cheesy, backwards, wrong, full of it -- now you're talking my language."
+
+------------------------------------------------------------------------
+
+### April 17, 1995
+
+Can't you imagine the copy writing discussion that went into this ad...*"OK, now, we need to project an image that's professional, caring... and an unforgettable 800 number."*
+
+<img src="images/wheeze.gif" data-align="BOTTOM" width="483" height="408" />
+
+The foregoing and the following are both from the 4/17/95 "Seattle Times".
+
+------------------------------------------------------------------------
+
+#### COPS... in Bothell
+
+<img src="images/vomit.gif" data-align="BOTTOM" width="262" height="273" />
+
+------------------------------------------------------------------------
+
+### April 7, 1995
+
+Rush Limbaugh is featured in new Pizza Hut commercials for the "Stuffed Crust Pizza". According to Pizza Hut spokesperson Will Infarction, "It was a match made in heaven: our crust is stuffed, and he's full of it."
+
+------------------------------------------------------------------------
+
+### April 6, 1995
+
+Bomb's Away? In an attempt to renew the Non-Proliferation Treaty, President Clinton promised that the U.S. would not use nuclear weapons to attack any nation which did not possess nuclear weapons or was trying to acquire them. He didn't promise he wouldn't change his mind -- but he did say he anticipated no complaints from subject nations if he did.
+
+Comedy Central's "Politically Incorrect" added Kato Kaelen to the panel discussion for the evening. Despite the fact that his good friend O.J.'s in jail and on trial for his life, Kato had a grand old time. Kato nearly fell on the floor laughing when host Bill Mahr innocently used the phrase, "I'm gonna take another stab at this..." Kato also fawned over fellow guest Gary Shandling. Kato came across as the kind of venal, empty-headed guy who you always speculated might be hiding behind that blank stare. Give this guy an escalator and a Slinky and he's got an evening's entertainment.
+
+------------------------------------------------------------------------
+
+### March 26, 1995
+
+*Is Clinton Bushed?* With the massive electoral losses last November, and the Republican majority in Congress, is Clinton another one term President? Some have suggested that Clinton just reconcile himself to this, and just do as much as he can to annoy the right wing. Evidence to possibly support this theory is the recent proposal to update U.S, currency, as shown in the illustration below. <img src="images/dollar.gif" data-align="BOTTOM" width="573" height="252" />
+
+------------------------------------------------------------------------
+
+### March 25, 1995
+
+*Welcome to Bob95?* Even as Microsoft is releasing its "social interface" called Bob, work is underway to prepare the next version of the program, which will provide both more photorealistic characters and support the new features of Windows95. Such early-stage development work is obviously highly confidential, but *"Slug Tales"* has learned a few details. Support for the "plug and play" feature (which allows for easy addition and removal of hardware) will be provided by a new character, Microsoft Bobbitt.
+
+------------------------------------------------------------------------
+
+### March 21, 1995
+
+*"Oh No" J. Update:* Well, Brian "Kato" Kaelen is facing not only his moment in the spotlight at the OJ trial, but also public perception that he's a vapid opportunist. The first round in the PR war may have been lost. Kato had offered to volunteer to teach disadvantaged school children in Los Angeles, which certainly could have worked wonders on his image. Unfortunately, Kato's proposed classes -- "Hollywood on \$0 a Day" and "The Art of Mousse" -- were nixed by school officials.
+
+One rap on Kato isn't deserved, the "deer caught in the headlights" appelation often applied to former Veep Dan Quayle. To be fair (to deer and Quayle), Kato's more like a Ken doll caught in the headlights.
+
+------------------------------------------------------------------------
+
+### March 13, 1995
+
+*The Contract Contracts?* One of the most hyped aspects of the Republican "Contract" -- term limits -- is having a rocky time. The problem isn't the Democrats this time. There is division within the Republican party on term limits. "Term Limits Classic" was a proposal for "Six Years and You're Out" for the House and "Twelve Years and You're Out" for the Senate. Some House Republicans felt that twelve years should apply to both the House and Senate. Now the word is that an amendment is in the works to allow for serving twelve years, followed by one year off, and then another twelve years. What's next? "It would be best if you didn't spend your entire adult life in Congress." I can hear the battle cry, "Support Term Limi...er...Guidelines!"
+
+------------------------------------------------------------------------
+
+### March 11, 1995
+
+The withdrawal of the nomination of Michael P.C. Carns as CIA Director once again highlights flawed staff work at the Clinton White House. Carns' problem was -- surprise -- hiring undocumented domestic help. Apparently staff screening on this nominee went no further than the observation that anyone whose middle initials are "P.C." can't be that bad.
+
+How bad is the staff work? Slug Tales submitted three hypothetical nominees for staff background checks. Staff caught problems only in the potential nomination of Madonna to succeed Jocelyn Elders (should the troubled nomination of Henry Foster fail). Approved without question were the new CIA nominee Rosa Lopez ("strong knowledge of Latin America") and R. McDonald for the ficticious position of Burger King. In unrelated news, Ms. Lopez's attempt to cash in on her O.J. noteriety will come next month as her tell-all book, "No, Really, Right Now I'm Telling the Truth", is published.
+
+Meanwhile, embattled Surgeon General nominee Henry Foster is facing new allegations. This time, it's rumored that Foster was the second gunman on the grassy knoll in Dallas. For good measure, Foster also denied involvement in the recent Baring's bank debacle and the Denny's "\$1.99 are you out of your mind?" commercials.
+
+------------------------------------------------------------------------
+
+### March 3, 1995
+
+*Bob Doleful?* Bob Dole has lost some points as front-runner in the GOP Presidential Futures market because of the narrow failure of the Balanced Budget Amendment in the Senate. Dole thought he had an unbeatable 1 - 2 punch with the Balanced Budget Amendment and Term Limits (require a balanced budget in 2003 and ensure that no one voting for it will have to be around then to do the dirty deed.)
+
+Clinton and Co. actually appeared competent in narrowly defeating Bob by asking him to make just one promise about how they'd do it: don't touch Social Security. The Republicans for years had cultivated the art of the Virtual Ballot Box Bribery (vote for me today and I promise you a tax cut tomorrow.) The Democrats Brain Trust apparently finally woke up and turned the tables: vote for me today and I won't take away your retirement.
+
+Other bad news for Bob Dole is the entry of Richard Lugar into the '96 cadre of GOP hopefuls. Lugar's entry may be less than meets the eye, however. Insiders report that his entire electoral strategy is to capitalize on name familarity with NRA members, a core GOP constituency.
+
+Dole's campaign was also reported troubled by focus groups testing potential Dole television ads. Focus groups members reactions to the ads generally showed a low interest level in both Dole and the '96 campaign at this point in time. The most common response highlighted Dole's problem as 22% viewing the ads asked, "Hey man, where's Beavis?"
+
+------------------------------------------------------------------------
+
+### February 26, 1995
+
+Exactly a year before the New Hampshire primary, Republican Wannabee Prezs unofficially kick off the campaign with a series of appearances. Despite Clinton's obvious weaknesses, the Republicans at this point seem to lack a compelling alternative. Front-runner Bob Dole has tried and failed in a Presidential run before. Before officially entering the race, he's got to fight a list of negatives including: he's too old, too moderate, and too mean-spirited.
+
+Of course, the charge that Dole is too moderate must be considered in the context of Republicans party politics, where a moderate position on abortion is outlaw except to save the life of the mother or if performed with a semi-automatic assault rifle.
+
+How bad is the talent gap for the Republicans? In a straw poll of NH Republicans the second-place candidate (Colin Powell)has just two negatives: isn't running and he may not even be Republican. The other aspiring Republican candidates each have less than 10% support.
+
+Still, they're an interesting crew. With the departure of Dan "huh?" Quayle from the race, the hard-core conservatives are split between Phil Gramm and -- on the Rabid Right -- Pat Buchanan. Of these two, Phil Gramm is the most interesting, if only because by all appearances, he just could be the love child of Mr. Magoo and Yoda.
+
+Within a day of Dan Quayle's departure from the race, Newt Gingrich was pondering entering the fray, but he decided to keep out. Apparently, Quayle's loss left the Forrest Gump vote up for grabs, which explains why a bell went off in Gingrich's mind.
+
+So, where was Clinton while all this was going on? Why, he was in California, playing golf with Jerry Ford and George Bush. At least Clinton didn't bean anybody with a ball (which is more than Ford or Bush can say.) Still, somebody's got to talk with Clinton's PR crew. What a photo opportunity: Clinton, Bush, and Ford -- looks like an organizational meeting for the Single Termer's Club.
+
+[<img src="images/lil-new.gif" data-align="BOTTOM" width="120" height="60" />Return to the What's News Page!](whatsnew.html)
+
+[Return to the Slug Tales' Home Page!](SlugTales/slugpage.html)
+
+[Return to Steve's Home Page](index.html)

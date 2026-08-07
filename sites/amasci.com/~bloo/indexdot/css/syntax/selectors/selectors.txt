@@ -1,0 +1,181 @@
+Selectors - Cascading Style Sheets Syntax 
+
+ Selectors 
+ = Index DOT Css by Brian Wilson = 
+
+ Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ What Is A Selector? 
+ When a style sheet is abstracted from the document tree it
+ applies to (as it is with Embedded and External style sheets),
+ a method is needed to connect style statements to items in the
+ document tree. In the CSS Rule-Set syntax, a 'Selector' is used
+ to specify the portion of the document tree that the style
+ declaration that follows will be attached to.
+
+ A Selector is the portion of a Rule-Set that comes before the style
+ Declaration Block embedded within curly braces ('{' and '}'.) Selector
+ syntax in CSS2 can look for matches using five different contexts:
+ elements ,
+ attributes , special HTML attributes ,
+ Pseudo-Classes and
+ Pseudo-Elements .
+
+ The granularity and power that the CSS2 Selector syntax allows gives an
+ author tremendous power, but much of this has not been implemented by
+ the popular browsers. The Selector syntax specified in CSS1 is the norm,
+ but is more limited. Many of the new capabilities in CSS2 help generalize
+ the Selector syntax to make it more flexible with non-specific markup
+ languages like XML. While the expanded syntax is not yet supported, it
+ should not be too long before it is added to CSS-capable browsers. 
+
+ Syntax 
+ A Selector is composed of a series of one or more selector components
+ separated by spaces and/or the " > " and
+ " + " selector combining symbols.
+ The components of a selector are described and linked below.
+ Selector Component =
+ (" * " | [ Element Selector ])?
+ ([ Attribute Selector ] | [ ID
+ Selector ] | [ Class Selector ] | [ Pseudo-Class ] | [ Pseudo-Element ])*
+
+ Selector Grouping 
+ [ CSS1 | CSS2 ] 
+ [ IE3 | N4 | O3.5 ]
+ A Declaration block may be assigned to multiple Selectors by separating the
+ Selectors with commas.
+
+ Example 
+
+ h1 { color: green } 
+ h2 { color: green } 
+ h3 { color: green } 
+
+ Becomes => 
+
+ h1, h2, h3 {
+ color: green; } 
+
+ Selector Types 
+ [ CSS1 | CSS2 | CSS3 ] 
+ [ IE3 | N4 | O3.5 ]
+
+ Element Selectors 
+ Namespace Selector 
+ [Prefix]|[Elem1] 
+ Matches Elem1 with the [Prefix] namespace prefix 
+ Universal Selector 
+ "*" Matches any element 
+ Simple Element Selector 
+ [Elem] Matches specified Element name 
+ Descendent Selectors 
+ [Elem1] S+ [Elem2] Elem1 is the direct or indirect ancestor of Elem2 
+ Child Selectors 
+ [Elem1] ">" [Elem2] Elem1 is the direct parent of Elem2 
+ Adjacent Selectors 
+ [Elem1] "+" [Elem2] Elem1 and Elem2 share the same
+ direct parent AND are next to each other in the document tree 
+
+ Attribute Selectors 
+ Simple Attribute Selector 
+
+ [Attr] or Elem[Attr] 
+
+ Matches all elements with the specified attribute or all 'Elem's with the
+ specified attribute 
+ Attribute Value Selector 
+ [Attr="value"] or Elem[Attr="value"] 
+ Matches all elements that exactly match the specified attribute/value or all 'Elem's with the
+ specified attribute/value 
+ "Begins-with" Attribute Value Selector 
+ [Attr^="value"] or Elem[Attr^="value"] 
+ Matches all elements with the specified attribute that BEGIN with the
+ specified value. This selector would match attribute values that are equal to it as
+ well as to longer values of which it is a substring. 
+ "Ends-with" Attribute Value Selector 
+ [Attr$="value"] or Elem[Attr$="value"] 
+ Matches all elements with the specified attribute that END with the
+ specified value. This selector would match attribute values that are equal to it as
+ well as to longer values of which it is a substring. 
+ Substring-match Attribute Value Selector 
+ [Attr*="value"] or Elem[Attr*="value"] 
+ Matches all element/attribute combinations that have at least one occurrence
+ of the indicated value as a substring. 
+ One-of-many Attribute Value Selector 
+ [Attr~="value"] or Elem[Attr~="value"] 
+ Allows a portion of an attribute value to be exactly matched where
+ the portions are separated by spaces. 
+ Hyphen Attribute Value Selector 
+ [Attr|="value"] or Elem[Attr|="value"] 
+ The attribute value is a hyphen-separated list and begins with "value" 
+ Namespace Attribute Selector 
+ [Prefix|Attr="value"] 
+ or Elem[Prefix|Attr="value"] 
+ The attribute is in the specified Namespace prefix. 
+
+ Special HTML Selectors 
+ Class Selector 
+ .[Class Name] Matches elements
+ with CLASS attributes carrying a [Class Name] value 
+ ID Selector 
+ #[ID Name] Matches the element carrying the unique ID attribute
+ value of [ID Name] 
+
+ Pseudo-Class Selectors 
+ Link 
+ A:link 
+ Applies to an unvisited hyperlink 
+ Visited 
+ A:visited Applies to a visited hyperlink 
+ First-child 
+ [Elem]:first-child Applies to the first child/descendent of an element 
+ Active 
+ [Elem]:active The state during pointer activation (
+ eg: press and release of a mouse) 
+ Hover 
+ [Elem]:hover The state during pointer movement within the rendering
+ region of an element 
+ Focus 
+ [Elem]:focus The state during which an element accepts keyboard input 
+ Lang 
+ [Elem]:lang([Code]) The selector content
+ uses the specified language 
+
+ Pseudo-Element Selectors 
+ Before 
+
+ [Elem]:before 
+ Addresses content that is generated before an element 
+ After 
+ [Elem]:after Addresses content that is generated after an element 
+ First-letter 
+ [Elem]:first-letter Indicates the first rendered letter/character
+ for a block-level element 
+ First-line 
+ [Elem]:first-line Indicates the first rendered line on the output device
+ of a block-level element 
+
+ Notes 
+
+ Selectors are only case-sensitive if the document language is also
+ case-sensitive (eg: HTML: not case-sensitive, XML: case-sensitive)
+ ID selectors have a higher cascade specificity than an equivalent
+ attribute selector (eg: the selector '#foo' has a higher specificity
+ than '*[id="foo"]'
+
+ Browser Peculiarities 
+
+ Internet Explorer 
+
+ 3.0: 
+ - Unsupported IE3 element names cause problems with selector
+ grouping. Style rules will not be applied to any IE3-valid
+ element types listed before invalid types. Element types listed
+ AFTER the IE3-invalid element type will have CSS rules applied
+ appropriately. Suggestion: List IE3-invalid element types FIRST
+ in the style grouping.
+
+ Boring Copyright Stuff....

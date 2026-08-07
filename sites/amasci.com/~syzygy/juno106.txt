@@ -1,0 +1,23 @@
+Roland Juno-106 Page 
+
+ In the years since I first put this page online, a number of
+other sites have sprung up with similar information. Here is the stuff
+that is of interest to most people: 
+ The Juno-106 FAQ . (If you have a dead voice
+read this.) 
+ MIDI implementation chart . (Includes all
+system exclusive messages.) 
+ Original factory patches. These are in WAV format. You will need
+to connect the output of your sound card to the TAPE LOAD jack on your Juno to
+load these patches. If you need more information on how to do this, see
+the owners manual. (Link is below.) I have not tested these; they
+are hosted on the " Juno-106
+Connection " page, another good resource for Juno-106 information. 
+Original factory patches, Group
+A 
+Original factory patches, Group
+B 
+ Owner's
+Manual in Adobe Acrobat PDF format. To view or print this file, you
+need Acrobat
+Reader .

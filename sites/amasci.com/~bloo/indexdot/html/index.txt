@@ -1,0 +1,59 @@
+Index DOT Html: THE Advanced HTML Reference 
+
+ Index&#160;DOT&#160;Html 
+ THE &#160;Advanced&#160;HTML&#160;Resource 
+
+ Author: Brian Wilson 
+ [ indexdot@blooberry.com ] 
+ Last Updated: Apr 12, 2002 
+ &#160;&#160;&#160;&#160; 
+
+ &#160; HTML&#160;Language &#160; 
+ &#160;&#160; 
+ &#160; Historical&#160;Information &#160; 
+
+ &#160; 
+ Element&#160;Index 
+ &#160; 
+ Element&#160;Tree 
+ &#160; 
+ Generic&#160;Attributes 
+ &#160; &#160; Character&#160;Entities 
+
+ &#160; 
+ HTML&#160;Support&#160;History 
+ &#160; &#160; HTML&#160;Spec&#160;History 
+ &#160; 
+ Browser&#160;History 
+
+ &#160; Site&#160;Information &#160; 
+ &#160;&#160; 
+ &#160; General&#160;Information &#160; 
+
+ &#160; &#160; Tools :
+
+ &#160; &#160; More&#160;About&#160;The&#160;Site... 
+
+ &#160;&#160;&#160;&#183;&#160;&#160;&#160; Downloads &#160;|&#160; Mirrors 
+ &#160;&#160;&#160;&#183;&#160;&#160;&#160; What's New 
+
+ &#160;&#160;&#160;&#183;&#160;&#160;&#160; What Tags To Use? 
+ &#160;&#160;&#160;&#183;&#160;&#160;&#160; Miscellaneous&#160;HTML&#160;Topics 
+ &#160;&#160;&#160;&#183;&#160;&#160;&#160; Authoring&#160;FAQs 
+
+ Found work! 
+ [Feb 23, 2003] For those that are curious, I finally did find work last 
+August - and it has kept me quite 
+busy (and it still is.) It is not in the Bay area the way I originally 
+envisioned... it's 
+a little farther out; Oslo, Norway to be exact 8-}, working at Opera 
+software on the new 7.x 
+releases. This has kept me quite busy, but I'm hoping to update the site soon 
+ with support 
+details for the recent Mozilla/Netscape and Opera releases.
+
+I've received many replies to my employment request message since it was put up 
+
+and I just MUST give a thousand thank-yous to everyone that has replied 
+with the well-wishes, help offers and great advice.
+ [ DETAILS ON PLANS FOR THE SITE ]

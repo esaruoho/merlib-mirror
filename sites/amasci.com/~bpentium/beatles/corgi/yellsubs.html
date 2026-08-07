@@ -1,0 +1,162 @@
+<!DOCTYPE HTML PUBLIC "-//SoftQuad//DTD HTML 3.2 + extensions for HoTMetaL PRO 3.0(U) 19961211//EN" "hmpro3.dtd">
+<HTML> 
+  <HEAD>
+	 <TITLE>Yellow Submarines - Corgi</TITLE>
+	 <STYLE>
+<!--
+.intro{
+position:absolute;
+left:0;
+top:0;
+layer-background-color:yellow;
+background-color:yellow;
+border:0.1px solid yellow
+}
+-->
+</STYLE> 
+  </HEAD> 
+  <BODY BGCOLOR="#FEFED1">
+	 <DIV ID="i1" CLASS="intro">
+	 </DIV>
+	 <DIV ID="i2" CLASS="intro">
+	 </DIV>
+	 <P><BR>
+	 </P>
+	 <SCRIPT LANGUAGE="JavaScript1.2">
+
+
+/*
+Left-Right Curtain Script- 
+ Dynamic Drive (www.dynamicdrive.com)
+For full source code, installation instructions,
+100's more free DHTML scripts, and Terms Of
+Use, visit dynamicdrive.com
+*/
+
+var speed=15
+var temp=new Array()
+var temp2=new Array()
+if (document.layers){
+for (i=1;i<=2;i++){
+temp[i]=eval("document.i"+i+".clip")
+temp2[i]=eval("document.i"+i)
+temp[i].width=window.innerWidth/2
+temp[i].height=window.innerHeight
+temp2[i].left=(i-1)*temp[i].width
+}
+}
+else if (document.all){
+var clipright=document.body.clientWidth/2,clipleft=0
+for (i=1;i<=2;i++){
+temp[i]=eval("document.all.i"+i+".style")
+temp[i].width=document.body.clientWidth/2
+temp[i].height=document.body.offsetHeight
+temp[i].left=(i-1)*parseInt(temp[i].width)
+}
+}
+
+
+function openit(){
+window.scrollTo(0,0)
+if (document.layers){
+temp[1].right-=speed
+temp[2].left+=speed
+if (temp[2].left>window.innerWidth/2)
+clearInterval(stopit)
+}
+else if (document.all){
+clipright-=speed
+temp[1].clip="rect(0 "+clipright+" auto 0)"
+clipleft+=speed
+temp[2].clip="rect(0 auto auto "+clipleft+")"
+if (clipright<=0)
+clearInterval(stopit)
+}
+}
+
+function gogo(){
+stopit=setInterval("openit()",100)
+}
+gogo()
+
+
+</SCRIPT> 
+	 <CENTER>
+		<IMG SRC="yslogo.jpg" ALT="[ The Beatles Yellowsubmarine Corgi Toy ]"
+		WIDTH="432" HEIGHT="144"><BR>
+		<BR>
+		<TABLE BORDER="5" WIDTH="98%" CELLPADDING="5" CELLSPACING="5">
+		  <TR>
+			 <TD><IMG SRC="sub.jpg" WIDTH="289" HEIGHT="213"></TD>
+			 <TD><B>Pictured to the left is the rare 1st issue Corgi Yellow
+				Submarine toy. This was an early variation that had a very short run. On this
+				issue the yellow and white hatches match the color of the hull and it has the
+				red strip outlining the top half of the sub which the later variation is
+				missing. These characteristics of the sub are found on the sub in the film
+				"Yellow Submarine". This is the way the toy is pictured on the back of the box
+				on all of the packages and in the photograph in the Corgi catalog that came
+				with the toy. According to Perry Cox, this variation is <I>50 to 1</I> rarer
+				than the later issues that same year.</B> 
+				<CENTER>
+				  <TABLE BORDER="1" CELLPADDING="4" CELLSPACING="4"
+				  BGCOLOR="#FFFFFF">
+					 <TR ALIGN="CENTER" VALIGN="TOP">
+						<TD><B><A HREF="bottom.jpg">Photo of the bottom</A></B></TD>
+						<TD><B><A HREF="subtop.jpg">Photo of the top</A></B></TD>
+					 </TR>
+				  </TABLE>
+				</CENTER>
+			 </TD>
+		  </TR>
+		</TABLE>
+		<BR>
+		<BR>
+		<TABLE BORDER="5" WIDTH="98%" CELLPADDING="5" CELLSPACING="5">
+		  <TR ALIGN="CENTER" VALIGN="TOP" BGCOLOR="#FFFF00">
+			 <TD COLSPAN="3"><B><FONT SIZE="+2">Click on photos for larger
+				views</FONT></B></TD>
+		  </TR>
+		  <TR ALIGN="CENTER" VALIGN="MIDDLE">
+			 <TD><A HREF="subbox1.jpg"><IMG SRC="subbox1s.jpg" BORDER="0"
+				WIDTH="174" HEIGHT="180"></A></TD>
+			 <TD><A HREF="subbox2.jpg"><IMG SRC="subbox2s.jpg" BORDER="0"
+				WIDTH="174" HEIGHT="180"></A></TD>
+			 <TD><A HREF="subbk.jpg"><IMG SRC="subbks.jpg" BORDER="0" WIDTH="147"
+				HEIGHT="180"></A></TD>
+		  </TR>
+		  <TR ALIGN="CENTER" VALIGN="TOP" BGCOLOR="#FFFFFF">
+			 <TD COLSPAN="1"><B>Original 1968 Variation</B></TD>
+			 <TD COLSPAN="1"><B>Later 1968 Variation</B></TD>
+			 <TD COLSPAN="1"><B>Back of package</B></TD>
+		  </TR>
+		</TABLE><HR>
+		<CENTER><FONT COLOR="red"><B>Below: THE BEATLES: &#145;YELLOW SUBMARINE
+		  PLUS BEATLES FIGURES&#146; &#150; NOW DELETED LIMITED EDITION DIE CAST
+		  COLLECTABLE BY UK CORGI CLASSICS &#150; MODEL NO
+		  05403</B></FONT><B></B></CENTER> 
+		<P> Featured here is the <B>**NOW DELETED**</B> Beatles Yellow Submarine
+		  CORGI Die Cast Collectable which was issued in 1999 by Corgi Classics UK as a
+		  <B>limited edition of just 5,250</B>.</P> 
+		<P> The Yellow Submarine comes complete with <B>four metal Beatles
+		  figures</B> (one of each Beatle &#150; see scan 2). The Yellow Submarine and
+		  The Beatles figures are neatly housed in a <B>Black Box with header card</B>
+		  with perspex see through windows.</P> 
+		<P> The complete package is graded in <B>**Mint As New**</B>
+		  condition.</P> 
+		<P> Due to its very brief release, many collectors missed the opportunity
+		  to purchase this Corgi Classic at the time - collectable!</P> 
+		<CENTER> 
+		  <TABLE BORDER="3" CELLPADDING="4" CELLSPACING="4"> 
+			 <TR> 
+				<TD><IMG SRC="limcorgi1.jpg" WIDTH="596" HEIGHT="435"
+				  BORDER="0"></TD> 
+			 </TR> 
+			 <TR> 
+				<TD><IMG SRC="limcorgi2.jpg" WIDTH="598" HEIGHT="442"
+				  BORDER="0"></TD> 
+			 </TR> 
+		  </TABLE></CENTER> </CENTER>
+	 <P><B><A
+		HREF="http://www.eskimo.com/~bpentium/beatles/rare.html">Back</A></B>
+	 </P> </BODY>
+</HTML>

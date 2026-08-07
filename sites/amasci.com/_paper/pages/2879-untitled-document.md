@@ -1,0 +1,664 @@
+---
+title: "Untitled Document"
+source_domain: amasci.com
+source_path: ~enumclaw/Specimens/framelist.html
+order: 2879
+reachable_from_entry: false
+images: 1
+internal_links: 10
+extracted: 2026-08-07T05:56:24Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Untitled Document
+
+*Source page: `~enumclaw/Specimens/framelist.html`*
+
+Selected Specimens from the
+    Anderson Garden
+
+    Rhododendron Species
+    Rhododendron Hybrids
+    Evergreen Azalea Species*
+    Deciduous Azalea Species*
+    Evergreen Azalea Hybrids*
+    Deciduous Azalea Hybrids*
+    Companion Shrubs
+    Trees
+    Selected Flowers
+    Native Plants
+    **New Pictures
+
+    Rhododendron Species
+    aberconwayi
+    albrechii
+    augustinii (Barto Blue)
+     **barbatum
+    bureavii
+    calostrotum riparium
+    calostrotum rose (Cutie)
+    campylogynum myrtilloides
+    campylogynum var. cremastum
+    campylogynym (Patricia)
+    canescens
+    **chryseum
+    davidsonianum (Ruth Lyons)
+    decorum
+    degronianum
+    diaprepes
+    **fastigiatum
+    ferrugineum
+    fictolacteum
+    flavidum
+    fletcherianum
+    **forestii ssp forestii repens
+    fortunei
+    glaucophyllum
+    glomerulatum
+    gymnocarpum
+    hanceanum
+    hemitrichotum
+    hippophioides
+    impeditum
+    **intricatum
+    keiskei
+    **keiskei var. cordifolia (Yaku Fairy)
+    keleticum
+    litangense
+    lepidotum eleagnoides
+    lutescens
+    metternichii
+    micranthum
+    microleucum
+    mucronulatum
+    nakahari
+    nitens
+    orbiculare
+    oreonastes (see roxianum)
+    oreotrepes
+    **pemakoense
+    ponticum
+    prostratum
+    prunifolium
+    pseudochrysanthum
+    pseudochrysanthum (dwarf form)
+    quinquefolium
+    racemosum
+    radicans
+    rigidum
+    roxianum var. oreonastes
+    russatum
+    sargentianum (Liz Ann)
+    sargentianum (Maricee pink)
+    sargentianum (Maricee white)
+    schlippenbachii
+    scintillans
+    souliei
+    spiciferum
+    **strigillosum
+    sutchuenense
+    thomsoni
+    **thomsoni var. candelabrum
+    trichostomum var ledoides
+    uniflorum
+    wardii
+    williamsianum
+    yakushimanum Exbury form
+    yakushimanum Fawcett
+    yakushimanum Ken Janeck
+    yakushimanum Koichiro Wada
+    yunnanense
+
+    Rhododendron Hybrids
+
+    A. Bedford
+    Aksel Olsen
+    Aladdin's Daydream
+    Albatross 
+    Albatross-Iceland  
+    Alice
+    **Alice Street  
+    Anah Kruschke  
+    **Anna 
+    **Anna Baldsiefen
+    Anna Rose Whitney   
+    Anna x yakushimanum #301
+    **Annie Dalton
+    Annie E. Endtz
+    Antonio
+    Antoon van Welie     
+    Apricot Fantasy
+    **April Rose
+    Arthur J. Ivens    
+    Arthur Osborn
+    Autumn Gold
+    Azor
+    Azor Seedling
+    Bacher's Gold
+    Baden Baden
+    Beau Brummel   
+    Beautiful Dreamer
+    Beauty of Littleworth
+    Betty Arrington
+    Betty Wormald
+    Blood Ruby
+    Blue Bird
+    Blue Diamond
+    Blue Ensign
+    Blue Jay    
+    Blue Pacific    
+    Blue Peter    
+    Blue Tit    
+    Bonfire
+    Bonito
+    Bo-Peep
+    Boule de Neige
+    Bow Bells  
+    Brandywine
+    Bric-a-brac
+    Britannia
+    Britannia's Bells
+    Brocade 
+    Broughtonii Aureum
+    Buchanan Simpson
+    Bulstrode Park
+    Bustard 
+    Butterfly 
+    Canary
+    Candi
+    Captain Jack
+    Captain Kidd
+    Carlene
+    Carita 
+    Carita Golden Dream    
+    Carmen   
+    **Carolyn Grace  
+    Cary Ann    
+    Cavalcade
+    Cavalier       
+    Chapeau    
+    Chikor
+    Cheer
+    Cherries 'n Cream    
+    China 
+    China Moon
+    Chionoides   
+    Christmas Cheer
+    Cilpinense
+    CIS
+    Clementine Lamaire
+    **Comstock
+    Conemaugh
+    Confection
+    Corona   
+    Coral Velvet
+    Cotton Candy   
+    Countess of Derby
+    Cowslip 
+    Crater Lake  
+    Creole Belle    
+    Crest 
+    Crimson Glory
+    Crossroads 
+    Curlew   
+    Cynthia 
+    **Dairymaid   
+    Damaris
+    **Dame Nellie Melba 
+    Daphnoides   
+    **David
+    Dawn's Delight
+    Day Dream
+    Debbie-jo
+    Devonshire Cream    
+    Dido x williamsianum  
+    Director Hjelm
+    Doctor Masters    
+    **Doncaster   
+    Dora Amateis    
+    Dormouse
+    Doubloons
+    Dreamland 
+    Dusty
+    Edna McCarty
+    Edward Dunn    
+    **Elisabeth Hobbie    
+    Elizabeth 
+    Elizabeth (Ostbo's Red Leaf)
+    Elizabeth Titcomb
+    Elspeth 
+    Endre Ostbo
+    **Ermine 
+    Etta Burrows    
+    Evening Glow
+    Fabia 
+    Fabia Tangerine
+    Fabia x bureavii 
+    Faggetter's Favorite
+    Fairweather
+    Fancy
+    Fantastica
+    Fatuosum Flore Pleno
+    Firebird
+    Flatterer
+    Flora Markeeta    
+    Full Moon  
+    Furnivall's Daughter
+    Gartendirektor Rieger   
+    Gladys Johnson
+    Glowing Embers
+    Goblin
+    Goldbug 
+    Golden Belle
+    Golden Dream
+    Golden Pheasant
+    **Golden Witt
+    Goldfort
+    Gold Mohur
+    **Goldstrike
+    Goldsworth Orange
+    Goldsworth Yellow  
+    Gomer Waterer  
+    Grace Seabrook
+    Graf Zeppelin
+    Gretzel
+    Gypsy King
+    Halcyone
+    Halfdan Lem  
+    Hallelujah   
+    **Handsworth's Early White
+    Hansel
+    Hardizer's Beauty  
+    Harvest Moon
+    Hazel Fisher
+    Helene Schiffner 
+    Hello Dolly  
+    Henriette Sargent  
+    Hillcrest
+    Hockessin
+    Honeymoon
+    Honeydew
+    Horizon Dawn
+    **Horizon   Monarch
+    Hotei
+    Hummingbird
+    Hurricane
+    Hydon Dawn 
+    Hyperion   
+    Idealist   
+    Ilam Violet  
+    Impeanum
+    Impi
+    Inca Gold
+    Isabel Pierce
+    Ivery's Scarlet
+    **Jade
+    Jaipur 
+    Jalisco 
+    James Barto
+    **Jan Dekens  
+    Jane Rogers
+    Janet Blair
+    Jean Marie de Montague
+    J. H. van Nes
+    Jingle Bells
+    Jock
+    John Coutts  
+    Johnny Bender
+    Jonathon Shaw  
+    Joyce Montague
+    Julia Titcomb
+    Kimberly   
+    King of Shrubs
+    Kiwi Magic
+    Kluis Sensation  
+    Kristin
+    Kubla Khan
+    Lady Bligh
+    Lady Chamberlain
+    Lady Clementine Mitford
+    Lady de Rothschild
+    Lady Eleanor Cathcart
+    Lady Primrose
+    Lamplighter    
+    Langley Park
+    Lavender Girl  
+    Lemon Lime
+    Lem's Best Blotch
+    Lem's Cameo
+    Lem's Monarch  
+    Leo
+    Leona 
+    Letty Edwards
+    Lily
+    Lily #7
+    Little Joe
+    Little Pudding
+    Liz Ann
+    Loder's White
+    Loderi King George
+    (Loderi King George x                       
+        Mrs. C B. van Nes    ) x williamsianum
+    **Lord Roberts  
+    Lori Eichelser
+    Lucky Strike
+    Lydia
+    Marcia
+    Mardi Gras    
+    Marchioness of Lansdowne
+    Marinus Koster    
+    Markeeta's Prize  
+    Markeeta's Flame 
+    Mars   
+    Mary Belle
+    **Mary Fleming    
+    Maryke   
+    Maureen
+    **May Day  
+    Mira-mi-Linda
+    Mission Bells
+    Moerheim Beauty
+    Molly Ann  
+    Mood Indigo  
+    Moonstone 
+    Mother Greer
+    Mother of Pearl
+    Mrs. A. T. de la Mare
+    Mrs. Bernice Baker
+    Mrs. Betty Robertson
+    Mrs. C. B. van Nes
+    Mrs. Charles Pierson   
+    Mrs. Donald Graham
+    Mrs. E.C. Stirling
+    Mrs. Furnival   
+    Mrs. G.W. Leak   
+    Mrs. J. C. Williams
+    Mrs. Mary Ashley
+    Mrs. P. D. Williams
+    Mrs. Phillip Martino
+    Mrs. R. S. Holford
+    Mrs. Tom H. Lowinsky
+    Mrs. W. C. Slocock
+    Myrtifolium
+    Nancy Evans
+    **NAOMI SERIES
+    --Naomi Astarte
+    --Naomi Exbury
+    --Naomi Glow    
+    --Naomi Nautilus    
+    --Naomi Pixie
+    --Naomi Stella Maris
+    Nereid
+    Nicoletta
+    Norseman
+    **Noyo Brave
+    Oceanlake
+    Odee Wright
+    Old Copper    
+    Old Port
+    Ole Olson
+    **Olive
+    Olympic Lady
+    One Thousand Butterflies
+    Oregon Queen   
+    Ostbo's Low Yellow
+    Ostbo's Red Elizabeth  
+    Otis Hyde  
+    **Papaya Punch  
+    Paprika Spiced 
+    Patricia
+    Peachblow  
+    Pilgrim 
+    Pink Diamond    
+    Pink Loder
+    Pink Pearl 
+    Pink Walloper
+    PJM 
+    Point Defiance
+    Polar Bear    
+    Polynesian Sunset
+    Princess Ann    
+    Ptarmigan 
+    Puck
+    Purple Lace  
+    Purple Splendour
+    **Racil
+    Radium
+    racemosum x keiskei
+    Rainbow 
+    Ramapo   
+    Red Cap
+    Red Cloud
+    Red Lem
+    Red Olympia
+    Red Valous
+    Reve Rose      
+    **Roseann 
+    **Rose Elf
+    Rubens
+    Ruby Bowman    
+    Russautinii
+    Sapphire
+    Sappho
+    Sapporo 
+    Scarlet Wonder    
+    Scintillation 
+    Seattle Gold
+    Shamrock   
+    Silver Skies
+    Solidarity   
+    **Songbird 
+    Souvenir of W.C. Slocock   
+    **Stephanie 
+    Susan 
+    Sweet Sixteen  
+    Temple Bells
+    Temptation
+    Tessa
+    Thomwilliams
+    Thor   
+    Tidbit
+    Tiffany
+    Titian Beauty
+    Treasure   
+    Trilby   
+    Trude Webster
+    Twinkles
+    Unique
+    Unknown Warior
+    Vanessa Pastel
+    van Nes Sensation   
+    Virginia Richards  
+    Virginia Scott
+    Vulcan
+    Vulcan's Flame
+    Walloper
+    Wendy 
+    Weston's Pink Diamond
+    Wheatley
+    Whimsey
+    White Swan
+    Whitney's Dwarf Yellow
+    Whitney's Orange   
+    Whitney's Pink
+    Wilbar
+    Wilgen's Ruby  
+    Will Loder  
+    Wilsoni
+    Witch Doctor
+    williamsianum x Loderi King George 
+    x C. B. Van Nes  
+    W. R. Dyke
+    yakushimanum x Corona    
+    Yellow Hammer
+    Zuiderzee  
+
+    Evergreen Azalea Species
+
+     indicum balsaminaflora
+    kiusianum
+    kiusianum Beni Suzuma
+    kiusianum Shoi Pink
+    kiusianum White
+
+    Deciduous Azealea Species
+
+    japonicum
+    luteum
+    occidentale
+    occidentale Leonard Frisbee 
+    prunifolium
+    quinquefolium
+    schlippenbachii
+
+    Evergreen Azalea Hybrids
+
+    Chee Chee Bou
+    Damask Rose
+    Glamour
+    Good Times
+    Helena
+    Helen Close
+    Joseph Haydn
+    King James
+    Louise Dowdle
+    Niagra
+    Palestrina
+    Purple Splendor
+    Rosebud
+    White Everest
+    White Rosebud
+
+    Deciduous Azalea Hybrids
+    Altair
+    Berryrose
+    Bob's Yellow
+    Bright Straw
+    Camelot
+    Cecile
+    Corringe
+    Daviesii
+    Debutante
+    Doctor Masters
+    Desert Pink
+    Desert Sand
+    Fanny
+    Flamingo
+    Gallipoli Red
+    Gibralter
+    Ginger
+    Glowing Embers
+    Gog
+    Gregory Bald
+    Homebush
+    Hotspur
+    Irene Koster
+    Klondyke
+    Marion Merriman
+    Old Gold
+    Orangeade
+    Oxydol
+    Persil
+    Princess Royal
+    Renne
+    Royal Coach
+    Satan
+    Silver Slipper
+    Sonia
+    Strawberry Ice
+    Sun Chariot
+    Sunset Pink
+    Sylphides
+    Washington State Centennial
+    Whitethroat
+
+    Companion Shrubs
+
+    Andromeda
+    Camellia
+    **Daphne
+    Enkianthus
+    Heavenly Bamboo
+    Jasmine
+    Kalmia
+    Kalmia Olympic Fire
+    Kalmia Ostbo Red
+    Sand Myrtle
+
+    Trees
+
+    Alaska Yellow Cedar
+    Austrian Pine
+    Blireiana Plum
+    Bristlecone Pine
+    Chinese Witchhazel
+    Dawn Redwood
+    Deodora Cedar
+    Dogwood Eastern white
+    Dogwood Eastern pink
+    Dogwood Asian
+    Douglas Fir
+    Eastern White Pine
+    Flowering Apricot Peggy Clarke
+    Franklinia
+    Grand Fir
+    Hakuro Nishiki Willow
+    Honey Locust
+    Japanese Holly
+    Japanese Maples (various)
+    Katsura
+    Lodgepole Pine
+    Mountain Hemlock
+    Mt. Fuji Cherry
+    Noble Fir
+    Norway Spruce
+    Oxydendrum
+    Pacific Madrone
+    Ponderosa Pine
+    Port Orford Cedar
+    Red Oak
+    Scotch Pine
+    Sequoia
+    Serbian Spruce
+    Shore Pine
+    Star Magnolia
+    Stewartia
+    Stranvaesia
+    Styrax
+    Sweet Gum
+    Viburnum Tree
+    White Birch
+    White Fir
+    Eastern White Pine
+    Western Hemlock
+    Western Red Cedar
+    Willow Oak
+
+    Selected Flowers
+
+    **Bloodroot
+    Cyclamen
+    Fall Blooming Crocus
+    Gentian
+    Ginger
+    Hellebore
+    Lewisia
+    Tibetan Blue Poppy
+    Windflower
+
+    Native Plants
+
+    Bunchberry
+    Deer Tongue Lily
+    Douglas Fir
+    Kinnikinnick
+    Oregon Grape
+    Pacific Madrone
+    Salal
+    Trillium
+    Twinflower
+    Vine Maple 'Little Gem'
+    Western Hemlock
+    Western Red Cedar
+
+    © 2001 by John and Doreen Anderson

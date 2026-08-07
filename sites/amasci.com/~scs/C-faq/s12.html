@@ -1,0 +1,125 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Stdio</title>
+</head>
+<body>
+<H1>12. Stdio</H1>
+
+<p><a href=q12.1.html rel=subdocument>12.1
+What's wrong with
+the code
+"<code>char c;
+while((c = getchar()) != EOF) ...</code>"?
+</a></p><p><a href=q12.2.html rel=subdocument>12.2
+Why
+won't
+the
+code
+``
+<TT>while(!feof(infp)) {
+fgets(buf, MAXLINE, infp);
+fputs(buf, outfp);
+}
+</TT>''
+work?
+</a></p><p><a href=q12.4.html rel=subdocument>12.4
+My program's prompts and intermediate output don't always show up
+on the screen.
+</a></p><p><a href=q12.5.html rel=subdocument>12.5
+
+
+How can I read one character at a time,
+without waiting for the RETURN key?
+
+</a></p><p><a href=q12.6.html rel=subdocument>12.6
+How can I print a <TT>'%'</TT> character
+with <TT>printf</TT>?
+</a></p><p><a href=q12.9.html rel=subdocument>12.9
+How can
+<TT>printf</TT> use <TT>%f</TT> for type <TT>double</TT>,
+if <TT>scanf</TT> requires <TT>%lf</TT>?
+</a></p><p><a href=q12.10.html rel=subdocument>12.10
+How can I implement a variable field width with <TT>printf</TT>?
+</a></p><p><a href=q12.11.html rel=subdocument>12.11
+How can I print numbers with commas separating the thousands?
+</a></p><p><a href=q12.12.html rel=subdocument>12.12
+Why doesn't the call
+<TT>scanf("%d", i)</TT>
+work?
+</a></p><p><a href=q12.13.html rel=subdocument>12.13
+Why doesn't
+the code
+"<code>double d;
+scanf("%f", &amp;d);</code>"
+work?
+</a></p><p><a href=q12.15.html rel=subdocument>12.15
+How can I specify a variable width in a <TT>scanf</TT> format string?
+</a></p><p><a href=q12.17.html rel=subdocument>12.17
+When I read
+numbers
+from the keyboard with
+
+<TT>scanf</TT>
+<TT>"%d\n"</TT>,
+it seems to hang until I type one extra line of input.
+</a></p><p><a href=q12.18.html rel=subdocument>12.18
+I'm reading a number with <TT>scanf</TT>
+<TT>%d</TT>
+and then a string with
+<TT>gets()</TT>,
+but the compiler seems to be
+skipping the call to <TT>gets()</TT>!
+</a></p><p><a href=q12.19.html rel=subdocument>12.19
+I'm re-prompting the user if <TT>scanf</TT> fails,
+but sometimes it seems to go into an infinite loop.
+</a></p><p><a href=q12.20.html rel=subdocument>12.20
+Why does everyone say not to use <TT>scanf</TT>?
+What should I use instead?
+</a></p><p><a href=q12.21.html rel=subdocument>12.21
+How can I tell how much destination buffer space I'll need
+for an arbitrary <TT>sprintf</TT> call?
+How can I avoid
+overflowing
+the destination buffer with <TT>sprintf</TT>?
+</a></p><p><a href=q12.23.html rel=subdocument>12.23
+Why does everyone say not to use <TT>gets()</TT>?
+</a></p><p><a href=q12.24.html rel=subdocument>12.24
+Why does <TT>errno</TT> contain
+ENOTTY
+after a call to <TT>printf</TT>?
+</a></p><p><a href=q12.25.html rel=subdocument>12.25
+What's the difference between <TT>fgetpos</TT>/<TT>fsetpos</TT>
+and <TT>ftell</TT>/<TT>fseek</TT>?
+</a></p><p><a href=q12.26.html rel=subdocument>12.26
+Will <TT>fflush(stdin)</TT>
+flush unread characters from the standard input stream?
+</a></p><p><a href=q12.30.html rel=subdocument>12.30
+I'm trying to update a file in place,
+by using <TT>fopen</TT> mode <TT>"r+"</TT>,
+but it's not working.
+</a></p><p><a href=q12.33.html rel=subdocument>12.33
+How can I redirect <TT>stdin</TT> or <TT>stdout</TT>
+from within a program?
+</a></p><p><a href=q12.34.html rel=subdocument>12.34
+Once I've used <TT>freopen</TT>, how can I get the original
+stream
+back?
+</a></p><p><a href=q12.38.html rel=subdocument>12.38
+How can I read a binary data file properly?
+</a></p><hr>
+<p>
+<a href=faq.html>top</a>
+</p>
+</body>
+</html>

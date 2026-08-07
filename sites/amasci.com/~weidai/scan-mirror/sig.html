@@ -1,0 +1,1226 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+ "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Standard Cryptographic Algorithm Naming</title>
+  <style type="text/css">
+      UL.noindent { margin: 0 0 0 0 }
+      LI { padding: 0% 0% 1% 0% }
+      SPAN.error { color: red; font-weight: 600 }
+      SPAN.s { color: blue }
+      SPAN.p { color: green }
+      SPAN.x { color: red }
+      SPAN.a { color: purple }
+      A.s    { color: blue }
+      A.p    { color: green }
+      A.x    { color: red }
+      A.a    { color: purple }
+  </style>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link=blue vlink="#000077" alink="#FF0000">
+
+<h2>Signature algorithms</h2>
+
+<p>
+The naming scheme described here is different from that described in
+Sun's documentation for the Java Cryptography Architecture. Several name formats
+have been used up to now for signature algorithms:
+
+<ul>
+  <li> in JDK 1.1, "<i>digest</i>/<i>signature-primitive</i>" (e.g. "SHA-1/RSA" and "SHA/RSA"),
+  <li> in Cryptix 3.0.x, "<i>digest</i>/<i>signature-primitive</i>/PKCS#1" (e.g. "SHA-1/RSA/PKCS#1"
+       and "SHA/RSA/PKCS#1"),
+  <li> in JDK 1.2, "<i>digest</i>with<i>signature-primitive</i>" (e.g. "SHA1withRSA"; note
+       that this is a slightly irregular example because of the missing hyphen in SHA1).
+</ul>
+
+These names are now deprecated (but are still specified temporarily as aliases). The new
+preferred format is "<i>signature-primitive</i>/<i>signature-encoding</i>".
+For this format, the signature encoding will usually have a message digest name as a creation
+parameter, e.g. "RSA/PKCS1-1.5(SHA-1)".
+
+<p>
+All of the algorithms defined here use either modular exponentiation or
+elliptic curve multiplication, which are potentially vulnerable to timing attacks.
+See the following paper for details and possible countermeasures:
+
+<ul>
+  <li> [<i>An</i>] Paul Kocher,<br>
+       "Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and
+        Other Systems,"<br>
+       <a href="http://www.cryptography.com/timingattack/paper.html" target="_blank">
+       http://www.cryptography.com/timingattack/paper.html</a>
+</ul>
+
+
+<p><a name="DSA"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">DSA[(<i>outputFormat</i>)]</font> <td align=right>Signature
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> The Digital Signature Algorithm, as defined in NIST FIPS PUB 186.
+         (This is technically equivalent to the version of DSA defined in
+         NIST FIPS PUB 186-2. However, Change Notice 1 to FIPS PUB 186-2
+         requires keys to have a modulus length of exactly 1024 bits. This
+         algorithm does <em>not</em> impose that requirement, which would be
+         an incompatible change.)
+         <p>
+         The default <i>outputFormat</i> is "<a href="#sof_DER">DER</a>".
+         <p>
+         This algorithm is separated from the generalisation,
+         "<a href="#DSA-1363">DSA-1363</a>", described below, in order to ensure that
+         an implementation of DSA by a provider earlier in the priority list does not
+         'mask' an implementation of DSA-1363.
+  <dt><b>Aliases:</b>
+    <dd><ul class=noindent>
+      <li> "1.2.840.10040.4.3", "SHA1withDSA"
+      <li> "SHA/DSA", "SHA-1/DSA", and "1.3.14.3.2.12" (all deprecated)
+    </ul></dd>
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] U.S. National Institute of Standards and Technology,<br>
+           "Digital Signature Standard (DSS),"<br>
+           <cite>NIST FIPS PUB 186</cite>,<br>
+           U.S. Department of Commerce.<br>
+           <a href="http://www.itl.nist.gov/div897/pubs/fip186.htm" target="_blank">
+           http://www.itl.nist.gov/div897/pubs/fip186.htm</a> and
+           <a href="http://www.itl.nist.gov/div897/pubs/186chg-1.htm" target="_blank">
+           http://www.itl.nist.gov/div897/pubs/186chg-1.htm</a>
+      <li> [<i>Inf</i>] U.S. National Institute of Standards and Technology,<br>
+           "Digital Signature Standard (DSS),"<br>
+           <cite>NIST FIPS PUB 186-2 + Change Notice 1</cite>,<br>
+           U.S. Department of Commerce.<br>
+           <a href="http://csrc.nist.gov/publications/fips/fips186-2/fips186-2-change1.pdf" target="_blank">
+           http://csrc.nist.gov/publications/fips/fips186-2/fips186-2-change1.pdf</a>
+      <li> [<i>Inf</i>] ANSI X9.30-1,<br>
+           "American National Standard, Public-Key Cryptography Using Irreversible
+            Algorithms for the Financial Services Industry", 1993.
+      <li> [<i>Inf</i>] IEEE,<br>
+           <cite>IEEE Std 1363-2000: Standard Specifications For Public Key Cryptography</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/index.html</a>
+      <li> [<i>Inf</i>] Bruce Schneier,<br>
+           "Section 20.1 Digital Signature Algorithm (DSA),"<br>
+           <cite>Applied Cryptography, Second Edition</cite>,
+           John Wiley &amp; Sons, 1996.
+      <li> [<i>Patent</i>] The United States of America, as represented
+           by the Secretary of Commerce (assignee),<br>
+           "Digital signature algorithm,"<br>
+           <a href="http://patft.uspto.gov/netacgi/nph-Parser?amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=/netahtml/srchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=5231668.WKU.&amp;OS=PN/5231668&amp;RS=PN/5231668" target="_blank">
+           U.S. Patent 5,231,668</a>, filed July 26 1991, issued July 27 1993.
+      <li> [<i>An</i>] Serge Vaudenay,<br>
+           "Hidden collisions on DSS,"<br>
+           <cite>Advances in Cryptology - Crypto '96</cite>,
+           Volume 1109 of Lecture Notes in Computer Science, pp. 83-88.
+           Springer-Verlag, 1996.<br>
+           <a href="ftp://ftp.ens.fr/pub/reports/liens/liens-96-9.A4.ps.Z">
+           ftp://ftp.ens.fr/pub/reports/liens/liens-96-9.A4.ps.Z</a>
+      <li> [<i>An</i>] Phong Q. Nguyen,<br>
+           "The Dark Side of the Hidden Number Problem: Lattice Attacks on DSA,"<br>
+           <cite>Cryptography and Computational Number Theory, CCNT '99</cite> (K. Lam,
+           I. Shparlinski, H. Wang, and C. Xing, eds.)<br>
+           Progress in Computer Science and Applied Logic 20, pp. 321-330.
+           Birkhuser, 2001.
+      <li> [<i>An</i>] Phong Q. Nguyen, Igor E. Shparlinski,<br>
+           "The Insecurity of the Digital Signature Algorithm with Partially
+            Known Nonces,"<br>
+           <cite>Journal of Cryptology, Volume 15</cite> (2002), pp. 151-176.<br>
+           <a href="http://www.di.ens.fr/~pnguyen/pub.html#NgSh00">
+           http://www.di.ens.fr/~pnguyen/pub.html#NgSh00</a>
+      <li> [<i>An</i>] Daniel Bleichenbacher,<br>
+           "On the Generation of DSA One-Time Keys,"<br>
+           Presented at ECC 2002.
+    </ul></dd>
+  <dt><b>Comment:</b>
+    <dd> Some providers may implement a "RawDSA" algorithm, which takes a
+         20-byte input corresponding to the SHA-1 hash of the message to be signed.
+         This is not formally defined as an algorithm name in SCAN;
+         "DSA-1363(DER)/Raw" is similar but not identical (since it uses a
+         generalisation of DSA).
+  <dt><b>Security comments:</b>
+    <dd><ul class=noindent>
+      <li> FIPS 186 specifies that:
+           <ul>
+             <li> the key parameter <i>p</i> may be between 512 and 1024 bits, in
+                  multiples of 64 bits;
+             <li> the key parameter <i>q</i> must be 160 bits;
+             <li> the encoding method must be that specified in the standard,
+                  using SHA-1 as the hash function.
+           </ul>
+           Values of <i>p</i> and <i>q</i> larger than 1024 and 160 bits respectively
+           may be desirable for long term security, however implementations of this
+           algorithm are not required to support such parameters. Applications that
+           require a more general algorithm are encouraged to use "DSA-1363" instead.
+      <li> DSA SHOULD only be used with parameters that have been generated
+           pseudo-randomly (as described in FIPS 186). If this is not the case,
+           it may be possible for whoever generated the parameters to
+           forge one or more signatures.
+      <li> The abstract of the paper by Vaudenay cited above is:
+           <blockquote>
+               We explain how to forge public parameters for the Digital Signature
+               Standard with two known messages which always produce the same set of
+               valid signatures (what we call a collision). This attack is thwarted
+               by using the generation algorithm suggested in the specifications of
+               the Standard, so it proves one always need to check proper generation.
+               We also present a similar attack when using this generation algorithm
+               within a complexity 2<sup>74</sup>, which is better than the birthday
+               attack which seeks for collisions on the underlying hash function. 
+           </blockquote>
+      <li> To prevent the attacks by Bleichenbacher, Nguyen, and Shparlinski, the
+           random nonces generated for each signature must be independent and
+           uniformly distributed on [0, q).
+    </ul></dd>
+</dl>
+
+<p><a name="DSA-1363"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">DSA-1363[(<i>outputFormat</i>)][/<i>encoding</i>]</font> <td align=right>Signature
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> A generalisation of the Digital Signature Algorithm, as defined in
+         IEEE Std 1363-2000. By default, the EMSA1 encoding method specified by
+         IEEE Std 1363-2000 is used, with the SHA-1 message digest algorithm.
+         <p>
+         If an encoding method is explicitly specified, it is used instead
+         of the default (this requires that the order of the base in the DSA
+         parameters, usually denoted <i>q</i>, is large enough to accomodate
+         message representatives generated by this encoding method).
+         <p>
+         This algorithm also differs from the "DSA" algorithm, in having "<a href="#sof_1363">1363</a>"
+         as the default <i>outputFormat</i>. The "<a href="#sof_DER">DER</a>" and
+         "<a href="#sof_OpenPGP">OpenPGP</a>" output formats SHOULD normally also
+         be supported.
+  <dt><b>Aliases:</b>
+    <dd><ul class=noindent>
+      <li> "dsa-sha1" is an alias to "DSA-1363/EMSA1(SHA-1)" (for SPKI support).
+      <li> "http://www.w3.org/2000/02/xmldsig#dsa" is an alias to "DSA-1363/EMSA1(SHA-1)"
+           (for DSIG support).
+    </ul></dd>
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] IEEE,<br>
+           <cite>IEEE Std 1363-2000: Standard Specifications For Public Key Cryptography</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/index.html</a>
+      <li> [<i>Inf</i>] U.S. National Institute of Standards and Technology,<br>
+           "Digital Signature Standard (DSS),"<br>
+           <cite>NIST FIPS PUB 186</cite>,<br>
+           U.S. Department of Commerce.<br>
+           <a href="http://www.itl.nist.gov/div897/pubs/fip186.htm" target="_blank">
+           http://www.itl.nist.gov/div897/pubs/fip186.htm</a> and
+           <a href="http://www.itl.nist.gov/div897/pubs/186chg-1.htm" target="_blank">
+           http://www.itl.nist.gov/div897/pubs/186chg-1.htm</a>
+      <li> [<i>Inf</i>] U.S. National Institute of Standards and Technology,<br>
+           "Digital Signature Standard (DSS),"<br>
+           <cite>NIST FIPS PUB 186-2 + Change Notice 1</cite>,<br>
+           U.S. Department of Commerce.<br>
+           <a href="http://csrc.nist.gov/publications/fips/fips186-2/fips186-2-change1.pdf" target="_blank">
+           http://csrc.nist.gov/publications/fips/fips186-2/fips186-2-change1.pdf</a>
+      <li> [<i>Inf</i>] Bruce Schneier,<br>
+           "Section 20.1 Digital Signature Algorithm (DSA),"<br>
+           <cite>Applied Cryptography, Second Edition</cite>,
+           John Wiley &amp; Sons, 1996.
+      <li> [<i>Patent</i>] The United States of America, as represented
+           by the Secretary of Commerce (assignee),<br>
+           "Digital signature algorithm,"<br>
+           <a href="http://patft.uspto.gov/netacgi/nph-Parser?amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=/netahtml/srchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=5231668.WKU.&amp;OS=PN/5231668&amp;RS=PN/5231668" target="_blank">
+           U.S. Patent 5,231,668</a>, filed July 26 1991, issued July 27 1993.
+      <li> [<i>An</i>] Serge Vaudenay,<br>
+           "Hidden collisions on DSS,"<br>
+           <cite>Advances in Cryptology - Crypto '96</cite>,
+           Volume 1109 of Lecture Notes in Computer Science, pp. 83-88.
+           Springer-Verlag, 1996.<br>
+           <a href="ftp://ftp.ens.fr/pub/reports/liens/liens-96-9.A4.ps.Z">
+           ftp://ftp.ens.fr/pub/reports/liens/liens-96-9.A4.ps.Z</a>
+      <li> [<i>An</i>] Phong Q. Nguyen,<br>
+           "The Dark Side of the Hidden Number Problem: Lattice Attacks on DSA,"<br>
+           <cite>Cryptography and Computational Number Theory, CCNT '99</cite> (K. Lam,
+           I. Shparlinski, H. Wang, and C. Xing, eds.)<br>
+           Progress in Computer Science and Applied Logic 20, pp. 321-330.
+           Birkhuser, 2001.
+      <li> [<i>An</i>] Phong Q. Nguyen, Igor E. Shparlinski,<br>
+           "The Insecurity of the Digital Signature Algorithm with Partially
+            Known Nonces,"<br>
+           <cite>Journal of Cryptology, Volume 15</cite> (2002), pp. 151-176.<br>
+           <a href="http://www.di.ens.fr/~pnguyen/pub.html#NgSh00">
+           http://www.di.ens.fr/~pnguyen/pub.html#NgSh00</a>
+      <li> [<i>An</i>] Daniel Bleichenbacher,<br>
+           "On the Generation of DSA One-Time Keys,"<br>
+           Presented at ECC 2002.
+      <li> [<i>Test</i>] IEEE,<br>
+           <cite>Test Vectors for Std 1363-2000</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/P1363/testvector.txt" target="_blank">
+           http://grouper.ieee.org/groups/1363/P1363/testvector.txt</a><br>
+           [for DSA-1363/EMSA1(SHA-1)]
+    </ul></dd>
+  <dt><b>Comment:</b>
+    <dd> It is recommended that implementations make no practical restriction
+         on the lengths of the key parameters <i>p</i>, <i>q</i>, <i>g</i> and <i>x</i>
+         (in particular, values of <i>p</i> up to at least 4096 bits SHOULD be supported).
+  <dt><b>Security comments:</b>
+    <dd><ul class=noindent>
+      <li> The security properties of DSA-1363 when used with an encoding method other
+           than the default have not been extensively studied.
+      <li> DSA-1363 SHOULD only be used with parameters that have been generated
+           pseudo-randomly (as described in FIPS 186). If this is not the case,
+           it may be possible for whoever generated the parameters to
+           forge one or more signatures.
+      <li> The abstract of the paper by Vaudenay cited above is:
+           <blockquote>
+               We explain how to forge public parameters for the Digital Signature
+               Standard with two known messages which always produce the same set of
+               valid signatures (what we call a collision). This attack is thwarted
+               by using the generation algorithm suggested in the specifications of
+               the Standard, so it proves one always need to check proper generation.
+               We also present a similar attack when using this generation algorithm
+               within a complexity 2<sup>74</sup>, which is better than the birthday
+               attack which seeks for collisions on the underlying hash function. 
+           </blockquote>
+           These attacks apply to the default encoding method.
+      <li> To prevent the attacks by Bleichenbacher, Nguyen, and Shparlinski, the
+           random nonces generated for each signature must be independent and
+           uniformly distributed on [0, q).
+    </ul></dd>
+</dl>
+
+<p><a name="ECDSA"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">ECDSA[(<i>outputFormat</i>)][/<i>encoding</i>]</font> <td align=right>Signature
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> A generalisation of the Elliptic Curve Digital Signature Algorithm, as
+         defined in IEEE Std 1363-2000. By default, the EMSA1 encoding method
+         specified by IEEE Std 1363-2000 is used, with the SHA-1 message digest algorithm.
+         <p>
+         If an encoding method is explicitly specified, it is used instead
+         of the default (this requires that the order of the base point in the
+         elliptic curve parameters, usually denoted <i>n</i>, is large enough to
+         accomodate message representatives generated by this encoding method).
+         <p>
+         The default <i>outputFormat</i> is "<a href="#sof_1363">1363</a>".
+  <dt><b>Alias:</b>
+    <dd> "ecdsa-sha1" is an alias to "ECDSA(1363)/EMSA1(SHA-1)" (for SPKI support).
+    <dd> "1.2.840.10045.4.1" is an alias to "ECDSA(DER)/EMSA1(SHA-1)".
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] IEEE,<br>
+           <cite>IEEE Std 1363-2000: Standard Specifications For Public Key Cryptography</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/index.html</a>
+      <li> [<i>Inf</i>] X9.62-199x (draft),<br>
+           <cite>Public Key Cryptography For The Financial Services Industry:
+           The Elliptic Curve Digital Signature Algorithm (ECDSA)</cite>.
+      <li> [<i>Inf</i>] U.S. National Institute of Standards and Technology,<br>
+           "Digital Signature Standard (DSS),"<br>
+           <cite>NIST FIPS PUB 186-2 + Change Notice 1</cite>,<br>
+           U.S. Department of Commerce.<br>
+           <a href="http://csrc.nist.gov/publications/fips/fips186-2/fips186-2-change1.pdf" target="_blank">
+           http://csrc.nist.gov/publications/fips/fips186-2/fips186-2-change1.pdf</a>
+      <li> [<i>An</i>] Phong Q. Nguyen, Igor E. Shparlinski,<br>
+           "The Insecurity of the Elliptic Curve Digital Signature Algorithm with
+            Partially Known Nonces,"<br>
+           To appear in <cite>Designs, Codes and Cryptography</cite>.<br>
+           <a href="http://www.di.ens.fr/~pnguyen/pub.html#NgSh02" target="_blank">
+           http://www.di.ens.fr/~pnguyen/pub.html#NgSh02</a>
+      <li> [<i>Test</i>] IEEE,<br>
+           <cite>Test Vectors for Std 1363-2000</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/P1363/testvector.txt" target="_blank">
+           http://grouper.ieee.org/groups/1363/P1363/testvector.txt</a>
+    </ul></dd>
+  <dt><b>Comment:</b>
+    <dd> It is recommended that implementations make no practical restriction
+         on the lengths of the key parameters.
+  <dt><b>Security comment:</b>
+    <dd><ul class=noindent>
+      <li> The security properties of ECDSA when used with an encoding method other
+           than the default have not been extensively studied.
+      <li> To prevent the attacks by Nguyen and Shparlinski, the
+           random nonces generated for each signature must be independent and
+           uniformly distributed on [0, q).
+    </ul></dd>
+  <dt><b>Patent status:</b>
+    <dd> [see <a href="kpg.html#ECDH">general elliptic curve patents</a>]
+</dl>
+
+<p><a name="ECNR"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>ECNR</span>(<i>outputFormat</i>)/<i>encoding</i></font> <td align=right>Signature
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Kaisa Nyberg, Rainer A. Rueppel
+  <dt><b>Description:</b>
+    <dd> The elliptic curve analogue of the Nyberg-Rueppel signature scheme, as
+         defined in IEEE Std 1363-2000. This algorithm is specified by the ECSSA
+         signature scheme used with the ECSP-NR signature primitive, and the
+         ECVP-NR verification primitive.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] IEEE,<br>
+           <cite>IEEE Std 1363-2000: Standard Specifications For Public Key Cryptography</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/index.html</a>
+      <li> [<i>Inf</i>] Kaisa Nyberg, Rainer A. Rueppel,<br>
+           "A New Signature Scheme Based on the DSA Giving Message Recovery,"<br>
+           <cite>1st ACM Conference on Computer and Communications Security</cite>,<br>
+           Nov 3-5, 1993, Fairfax, Virginia.
+      <li> [<i>Patent</i>] r<sup>3</sup> Security Engineering AG (assignee),<br>
+           "Digital signature method and key agreement method,"<br>
+           <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=/netahtml/srchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=%275600725%27.WKU.&amp;OS=PN/5600725&amp;RS=PN/5600725" target="_blank">
+           U.S. Patent 5,600,725</a>, filed August 17 1994, issued February 4 1997.
+      <li> [<i>An</i>] E. El Mahassni, Phong Nguyen, Igor Shparlinski,<br>
+           "The Insecurity of Nyberg-Rueppel and Other DSA-Like Signature Schemes
+            with Partially Known Nonces,<br>
+           To appear in <cite>Proceedings of Cryptography and Lattices Conference, CaLC 2001</cite>
+           (J.H. Silverman, ed.)<br>
+           Volume 2146 of Lecture Notes in Computer Science, pp. 97-109.
+           Springer-Verlag, 2001.<br>
+           <a href="http://www.comp.mq.edu.au/~igor/Publ.html" target="_blank">
+           http://www.comp.mq.edu.au/~igor/Publ.html</a>
+    </ul></dd>
+  <dt><b>Comment:</b>
+    <dd> It is recommended that implementations make no practical restriction
+         on the lengths of the key parameters.
+  <dt><b>Security Comment:</b>
+    <dd> To prevent the attacks by Nguyen and Shparlinski, the
+         random nonces generated for each signature must be independent and
+         uniformly distributed.
+  <dt><b>Patent status:</b>
+    <dd> r<sup>3</sup> Security Engineering (now merged with
+         <a href="http://www.entrust.com/">Entrust Technologies</a>) is the assignee
+         of a patent on the Nyberg-Rueppel signature scheme. Certicom Corp., in a
+         <a href="http://grouper.ieee.org/groups/1363/P1363/letters/Certicom.txt" target="_blank">letter
+         to the IEEE P1363 Chair</a>, claims to have the exclusive North American
+         license rights to this patent. It is not clear whether or not the patent
+         also applies to ECNR.
+</dl>
+
+<p><a name="ElgamalSig"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">ElgamalSig(<i>outputFormat</i>)/<i>encoding</i></font> <td align=right>Signature
+</tr></table>
+<dl>
+  <dt><b>Designer:</b>
+    <dd> Taher Elgamal
+  <dt><b>Aliases:</b>
+    <dd><ul class=noindent>
+      <li> "MD2/ElGamal" and "MD2/ElGamal/PKCS#1" are deprecated aliases to
+           "ElgamalSig(OpenPGP)/PKCS1-1.5(MD2)".
+      <li> "MD5/ElGamal" and "MD5/ElGamal/PKCS#1" are deprecated aliases to
+           "ElgamalSig(OpenPGP)/PKCS1-1.5(MD5)".
+      <li> "SHA/ElGamal", "SHA-1/ElGamal", "SHA/ElGamal/PKCS#1", and "SHA-1/ElGamal/PKCS#1"
+           are deprecated aliases to "ElgamalSig(OpenPGP)/PKCS1-1.5(SHA-1)".
+      <li> "RIPEMD160/ElGamal", "RIPEMD-160/ElGamal", "RIPEMD160/ElGamal/PKCS#1"
+           and "RIPEMD-160/ElGamal/PKCS#1" are deprecated aliases to
+           "ElgamalSig(OpenPGP)/PKCS1-1.5(RIPEMD-160)".
+    </ul></dd>
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Taher Elgamal,<br>
+           "A Public-Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms,"<br>
+           <cite>IEEE Transactions on Information Theory</cite>, v. IT-31, n. 4, 1985,
+           pp. 469-472, or<br>
+           <cite>Advances in Cryptology - CRYPTO '84</cite>, pp. 10-18,
+           Springer-Verlag, 1985.
+      <li> [<i>Inf</i>] Bruce Schneier,<br>
+           "Section 19.6 ElGamal,"<br>
+           <cite>Applied Cryptography, Second Edition</cite>,
+           John Wiley &amp; Sons, 1996.
+      <li> [<i>Inf</i>] D. Bleichenbacher,<br>
+           "Generating ElGamal signatures without knowing the secret key,"<br>
+           <cite>Advances in Cryptology - EUROCRYPT '96 (corrected version)</cite>,
+           Volume 1070 of Lecture Notes in Computer Science, pp. 10-18.
+           Springer Verlag, 1996.<br> 
+           <a href="ftp://ftp.inf.ethz.ch/pub/publications/papers/ti/isc/ElGamal.ps" target="_blank">
+           ftp://ftp.inf.ethz.ch/pub/publications/papers/ti/isc/ElGamal.ps</a>
+    </ul></dd>
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> Taher Elgamal currently spells his name, and the name of the Elgamal
+           algorithm with a lowercase 'g'.
+      <li> The reason for choosing separate names "ElgamalEnc" and "ElgamalSig", for
+           Elgamal encryption and signatures respectively, is that ElgamalEnc keys
+           can use the "DH" key family, while ElgamalSig requires its own key family
+           (because Elgamal signature keys have additional security constraints).
+      <li> It is recommended that implementations make no practical restriction
+           on the lengths of the key parameters <i>p</i>, <i>g</i> and <i>x</i> (in
+           particular, values of <i>p</i> up to at least 4096 bits SHOULD be supported).
+    </ul></dd>
+  <dt><b>Security comments:</b>
+    <dd><ul class=noindent>
+      <li> <i>p</i> SHOULD be a safe prime, i.e. such that (<i>p</i>-1)/2 is prime.
+      <li> The paper by Bleichenbacher referenced above shows that if <i>g</i> has
+           only small prime factors, and if <i>g</i> divides the order of the group
+           it generates, then signatures can be forged.
+    </ul></dd>
+</dl>
+
+
+<p><a name="ESIGN"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">&#215;&nbsp;<span class=x>ESIGN</span>/<i>encoding</i></font> <td align=right>Signature
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Eiichiro Fujisaki, Tatsuaki Okamoto
+  <dt><b>Published:</b>
+    <dd> Submission dated November 1998.
+  <dt><b>Description:</b>
+    <dd> The ESIGN signature algorithm, as defined in the IEEE P1363a draft
+         standard. Note that P1363a only allows use of
+         ESIGN with the <a href="#sem_EMSA5-MGF1">EMSA5-MGF1</a> encoding method.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] IEEE,<br>
+           "Draft Standard Specifications for Public Key Cryptography Amendment 1: 
+            Additional Techniques,"<br>
+           <a href="http://grouper.ieee.org/groups/1363/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/index.html</a>
+      <li> [<i>Inf, An, Test, Impl, Patent</i>] Nippon Telegraph and Telephone
+           Corporation,<br>
+           <cite>ESIGN Signatures Homepage</cite>,<br>
+           <a href="http://info.isl.ntt.co.jp/esign" target="_blank">
+           http://info.isl.ntt.co.jp/esign</a> and<br>
+           <a href="http://www.nttmcl.com/sec/Esign/esign.html" target="_blank">
+           http://www.nttmcl.com/sec/Esign/esign.html</a>
+      <li> [<i>An</i>] J. Stern, D. Pointcheval, J. Malone-Lee, N. P. Smart,<br>
+           "Flaws in Applying Proof Methodologies to Signature Schemes,"<br>
+           <cite>Advances in Cryptology - Proceedings of Crypto 2002</cite>,
+           Volume 2442 of Lecture Notes in Computer Science, pp. 93-110.
+           Springer-Verlag, 2002.
+      <li> [<i>An</i>] Eiichiro Fujisaki, Tatsuaki Okamoto,<br>
+           "Security of Efficient Digital Signature Scheme TSH-ESIGN,"<br>
+           Manuscript, November 1998, available as appendix A of
+           "TSH-ESIGN: Efficient Digital Signature Scheme Using Trisection Size Hash."
+      <li> [<i>Inf</i>] Tatsuaki Okamoto, Eiichiro Fujisaki, Hikaru Morita,<br>
+           "TSH-ESIGN: Efficient Digital Signature Scheme Using Trisection Size Hash,"<br>
+           Submission to IEEE P1363a, November 1998.
+           <a href="http://grouper.ieee.org/groups/1363/StudyGroup/contributions/esign.pdf" target="_blank">
+           http://grouper.ieee.org/groups/1363/StudyGroup/contributions/esign.pdf</a>
+      <li> [<i>History</i>] A. Fujioka, Tatsuaki Okamoto, S. Miyaguchi,<br>
+           "ESIGN: An efficient digital signature implementation for smart cards,"<br>
+           <cite>Advances in Cryptology - Proceedings of EUROCRYPT '91</cite>, pp. 446-457.
+           Springer-Verlag, 1991.
+      <li> [<i>History</i>] Tatsuaki Okamoto,<br>
+           "A Fast Signature Scheme Based on Congruential Polynomial Operations,"<br>
+           <cite>IEEE Transactions on Information Theory</cite>, IT-36, 1, pp. 47-53 (1990).
+      <li> [<i>History</i>] Tatsuaki Okamoto, A. Shiraishi,<br>
+           "A Digital Signature Scheme Based on Quadratic Inequalities,"<br>
+           <cite>Proceeding of Symposium on Security and Privacy</cite>, pp. 123-132.
+           IEEE, April 1985.
+    </ul></dd>
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> It is recommended that implementations make no practical restriction
+           on the lengths of the key parameters.
+    </ul></dd>
+</dl>
+
+
+<p><a name="NR"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>NR</span>(<i>outputFormat</i>)/<i>encoding</i></font> <td align=right>Signature
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Kaisa Nyberg, Rainer A. Rueppel
+  <dt><b>Description:</b>
+    <dd> The Nyberg-Rueppel signature scheme, with message encoding as defined in
+         IEEE Std 1363-2000. This algorithm is specified by the DLSSA
+         signature scheme used with the DLSP-NR signature primitive, and the
+         DLVP-NR verification primitive.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] IEEE,<br>
+           <cite>IEEE Std 1363-2000: Standard Specifications For Public Key Cryptography</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/index.html</a>
+      <li> [<i>Inf</i>] Kaisa Nyberg, Rainer A. Rueppel,<br>
+           "A New Signature Scheme Based on the DSA Giving Message Recovery,"<br>
+           <cite>1st ACM Conference on Computer and Communications Security</cite>,<br>
+           Nov 3-5, 1993, Fairfax, Virginia.
+      <li> [<i>Patent</i>] r<sup>3</sup> Security Engineering AG (assignee),<br>
+           "Digital signature method and key agreement method,"<br>
+           <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=/netahtml/srchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=%275600725%27.WKU.&amp;OS=PN/5600725&amp;RS=PN/5600725" target="_blank">
+           U.S. Patent 5,600,725</a>, filed August 17 1994, issued February 4 1997.
+      <li> [<i>An</i>] E. El Mahassni, Phong Nguyen, Igor Shparlinski,<br>
+           "The Insecurity of Nyberg-Rueppel and Other DSA-Like Signature Schemes
+            with Partially Known Nonces,<br>
+           To appear in <cite>Proceedings of Cryptography and Lattices Conference, CaLC 2001</cite>
+           (J.H. Silverman, ed.)<br>
+           Volume 2146 of Lecture Notes in Computer Science, pp. 97-109.
+           Springer-Verlag, 2001.<br>
+           <a href="http://www.comp.mq.edu.au/~igor/Publ.html" target="_blank">
+           http://www.comp.mq.edu.au/~igor/Publ.html</a>
+    </ul></dd>
+  <dt><b>Comment:</b>
+    <dd> It is recommended that implementations make no practical restriction
+         on the lengths of the key parameters <i>p</i>, <i>q</i>, <i>g</i> and <i>x</i>
+         (in particular, values of <i>p</i> up to at least 4096 bits SHOULD be supported).
+  <dt><b>Security Comment:</b>
+    <dd> To prevent the attacks by Nguyen and Shparlinski, the
+         random nonces generated for each signature must be independent and
+         uniformly distributed.
+  <dt><b>Patent status:</b>
+    <dd> r<sup>3</sup> Security Engineering (now merged with
+         <a href="http://www.entrust.com/">Entrust Technologies</a>) is the assignee
+         of a patent on the Nyberg-Rueppel signature scheme. Certicom Corp., in a
+         <a href="http://grouper.ieee.org/groups/1363/P1363/letters/Certicom.txt" target="_blank">letter
+         to the IEEE P1363 Chair</a>, claims to have the exclusive North American
+         license rights to this patent.
+</dl>
+
+<p><a name="RSA"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">RSA/<i>encoding</i></font> <td align=right>Signature
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://theory.lcs.mit.edu/~rivest/" target="_blank">Ron Rivest</a>,
+         Adi Shamir, Leonard Adelman
+  <dt><b>Aliases:</b>
+    <dd><ul class=noindent>
+      <li> "RSASSA", "1.2.840.113549.1.1.1"
+      <li> "SHA1withRSA" is an alias to "RSA/PKCS1-1.5(SHA-1)" (for JCA 1.2 compatibility).
+      <li> "RIPEMD160withRSA" is an alias to "RSA/PKCS1-1.5(RIPEMD-160)" (for JCA 1.2 compatibility).
+      <li> "MD5withRSA" is an alias to "RSA/PKCS1-1.5(MD5)" (for JCA 1.2 compatibility).
+      <li> "MD2withRSA" is an alias to "RSA/PKCS1-1.5(MD2)" (for JCA 1.2 compatibility).
+      <li> "rsa-pkcs1-sha1" is an alias to "RSA/PKCS1-1.5(SHA-1)" (for SPKI support).
+      <li> "rsa-pkcs1-md5" is an alias to "RSA/PKCS1-1.5(MD5)" (for SPKI support).
+      <li> "http://www.w3.org/2000/02/xmldsig#rsa-sha1" is an alias to "RSA/PKCS1-1.5(SHA-1)" (for DSIG support).
+      <li> "SHA/RSA", "SHA-1/RSA", "SHA/RSA/PKCS#1", and "SHA-1/RSA/PKCS#1"
+           are deprecated aliases to "RSA/PKCS1-1.5(SHA-1)".
+      <li> "RIPEMD160/RSA", "RIPEMD-160/RSA", "RIPEMD160/RSA/PKCS#1" and "RIPEMD-160/RSA/PKCS#1"
+           are deprecated aliases to "RSA/PKCS1-1.5(RIPEMD-160)".
+      <li> "MD5/RSA" and "MD5/RSA/PKCS#1" are deprecated aliases to "RSA/PKCS1-1.5(MD5)".
+      <li> "MD2/RSA" and "MD2/RSA/PKCS#1" are deprecated aliases to "RSA/PKCS1-1.5(MD2)".
+    </ul></dd>
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Ron Rivest, Adi Shamir, Leonard Adelman,<br>
+           "A Method for Obtaining Digital Signatures and Public-Key Cryptosystems,"<br>
+           MIT Laboratory for Computer Science and Department of Mathematics.<br>
+           <cite>Communications of the ACM</cite>, February 1978, Volume 21, Number 2, pp. 120-126.
+      <li> [<i>Def</i>] <cite>PKCS #1: RSA Encryption Standard</cite>,<br>
+           An RSA Laboratories Technical Note,
+           Version 1.5. Revised November 1, 1993.<br>
+           <a href="ftp://ftp.rsa.com/pub/pkcs/ascii/pkcs-1.asc" target="_blank">
+           ftp://ftp.rsa.com/pub/pkcs/ascii/pkcs-1.asc</a>
+      <li> [<i>Inf</i>] Bruce Schneier,<br>
+           "Section 19.3 RSA,"<br>
+           <cite>Applied Cryptography, Second Edition</cite>,
+           John Wiley &amp; Sons, 1996.
+      <li> [<i>Patent</i>] R. Rivest, A. Shamir, L.M. Adelman,<br>
+           "Cryptographic Communications System and Method,"<br>
+           <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=/netahtml/srchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=%274405829%27.WKU.&amp;OS=PN/4405829&amp;RS=PN/4405829" target="_blank">
+           U.S. Patent 4,405,829</a>, filed December 14 1977, issued September 20 1983.
+      <li> [<i>Test</i>] IEEE,<br>
+           <cite>Test Vectors for Std 1363-2000</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/P1363/testvector.txt" target="_blank">
+           http://grouper.ieee.org/groups/1363/P1363/testvector.txt</a><br>
+           [for RSA/EMSA2(SHA-1)]
+    </ul></dd>
+  <dt><b>Comment:</b>
+    <dd> It is recommended that implementations make no practical restriction
+         on the lengths of the key parameters <i>n</i> and <i>e</i> (in particular,
+         values of <i>n</i> up to at least 4096 bits SHOULD be supported).
+  <dt><b>Patent status:</b>
+    <dd> RSA was previously patented in the United States and Canada; the patent
+         has now expired.
+</dl>
+
+<p><a name="RSA2"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">RSA2/<i>encoding</i></font> <td align=right>Signature
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://theory.lcs.mit.edu/~rivest/" target="_blank">Ron Rivest</a>,
+         Adi Shamir, Leonard Adelman
+  <dt><b>Description:</b>
+    <dd> The variant of RSA defined by the IFSP-RSA2 and IFVP-RSA2
+         primitives from IEEE Std 1363-2000. If the modulus is <i>n</i> and
+         the output of a normal RSA private key operation is <i>t</i>, then
+         the output of the corresponding operation for this algorithm is
+         min(<i>t</i>, <i>n</i>-<i>t</i>).
+         <p>
+         This variant of RSA is normally used only with the EMSA2 encoding
+         method, and only for compatibility with ISO/IEC 9796:1991.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] IEEE,<br>
+           <cite>IEEE Std 1363-2000: Standard Specifications For Public Key Cryptography</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/index.html</a>
+      <li> [<i>Inf</i>] <cite>ISO/IEC 9796:1991</cite>,<br>
+           "Information Technology - Security Techniques - Digital signature scheme
+            giving message recovery."
+      <li> [see references for <a href="#RSA">RSA</a>]
+    </ul></dd>
+  <dt><b>Comment:</b>
+    <dd> [see comment for <a href="#RSA">RSA</a>]
+  <dt><b>Patent status:</b>
+    <dd> RSA was previously patented in the United States and Canada; the patent
+         has now expired.
+</dl>
+
+<p><a name="RW"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">RW/<i>encoding</i></font> <td align=right>Signature
+</tr></table>
+<dl>
+  <dt><b>Designer:</b>
+    <dd> Michael O. Rabin, Hugh C. Williams
+  <dt><b>Description:</b>
+    <dd> The Rabin-Williams signature scheme as defined in IEEE Std 1363-2000.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] IEEE,<br>
+           <cite>IEEE Std 1363-2000: Standard Specifications For Public Key Cryptography</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/index.html</a>
+      <li> [<i>Inf</i>] Michael O. Rabin,<br>
+           "Digitalized Signatures and Public Key Functions as Intractable as
+            Factorization,"<br>
+           <cite>MIT Laboratory for Computer Sciences Tech Report 212</cite>, January 1979.<br>
+           <a href="http://hdl.handle.net/ncstrl.mit_lcs/MIT/LCS/TR-212" target="_blank">
+           hdl:ncstrl.mit_lcs/MIT/LCS/TR-212</a>
+      <li> [<i>Inf</i>] Hugh C. Williams,<br>
+           "A Modification of the RSA Public-key Encryption Procedure,"<br>
+           <cite>IEEE Transactions on Information Theory 26</cite>, pp. 726-729, 1980.
+    </ul></dd>
+  <dt><b>Comments:</b>
+    <dd> It is recommended that implementations make no practical restriction
+         on the length of the key parameter <i>n</i> (in particular, values of <i>n</i>
+         up to at least 4096 bits SHOULD be supported).
+</dl>
+
+
+<p><hr size=3 noshade>
+<h2><a name="sem">Signature Encoding Methods</a></h2>
+
+Note that any parameters required by Signature Encoding Methods are set and retrieved
+by calling <code>set/getParameter</code> on the Signature object, since there is not
+necessarily any object explicitly representing the encoding method.
+
+
+<p><a name="sem_EMSA1"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">EMSA1(<i>digest</i>)</font> <td align=right>Signature Encoding Method
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> The encoding scheme described as "EMSA1" in IEEE Std 1363-2000.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] IEEE,<br>
+           <cite>IEEE Std 1363-2000: Standard Specifications For Public Key Cryptography</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/index.html</a>
+      <li> [<i>Inf</i>] U.S. National Institute of Standards and Technology,<br>
+           "Digital Signature Standard (DSS),"<br>
+           <cite>NIST FIPS PUB 186-2</cite>,<br>
+           U.S. Department of Commerce.<br>
+           <a href="http://csrc.nist.gov/fips/fips186-2.pdf" target="_blank">
+           http://csrc.nist.gov/fips/fips186-2.pdf</a>
+      <li> [<i>Test</i>] IEEE,<br>
+           <cite>Test Vectors for Std 1363-2000</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/P1363/testvector.txt" target="_blank">
+           http://grouper.ieee.org/groups/1363/P1363/testvector.txt</a><br>
+           [for DSA-1363/EMSA1(SHA-1)]
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation, no default] - the name of the
+             message digest that is to be used to calculate the message representative.
+             The only message digest algorithms for which this encoding method is
+             defined are SHA-1 and RIPEMD-160.
+    </ul></dd>
+  <dt><b>Comment:</b>
+    <dd> EMSA1(SHA-1) is compatible with the encoding used for DSA in FIPS 186, and
+         for ECDSA in X9.62 and FIPS 186-2.
+  <dt><b>Security comment:</b>
+    <dd> The message representatives output by this encoding method do not contain
+         any specification of which message digest algorithm was used. Therefore,
+         unless public keys are certified in such a way that each key is tied to use
+         of only one digest algorithm, there is the risk of a collision between
+         different algorithms (i.e. Hash1(X) == Hash2(Y) for distinct algorithms
+         Hash1 and Hash2, and messages X and Y). To reduce the possibility of such
+         collisions, implementations of this encoding MUST NOT support message digests
+         other than SHA-1 and RIPEMD-160, and application designers are strongly
+         advised to use only SHA-1 for the digest, if they use this encoding method.
+</dl>
+
+
+<p><a name="sem_EMSA2"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">EMSA2(<i>digest</i>)</font> <td align=right>Signature Encoding Method
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> The encoding scheme described as "EMSA2" in IEEE Std 1363-2000, based on
+         ANSI-X9.31. This should be capable of being used with both the RSA
+         and RSA2 signature primitives.
+  <dt><b>Alias:</b>
+    <dd> "X9.31"
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] IEEE,<br>
+           <cite>IEEE Std 1363-2000: Standard Specifications For Public Key Cryptography</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/index.html</a>
+      <li> [<i>Inf</i>] Accredited Standards Committee X9, American Bankers Association,<br>
+           <cite>ANSI X9.31-1998: Digital Signatures Using Reversible Public Key
+           Cryptography for the Financial Services Industry (rDSA)</cite>.
+      <li> [<i>Inf</i>] U.S. National Institute of Standards and Technology,<br>
+           "Digital Signature Standard (DSS),"<br>
+           <cite>NIST FIPS PUB 186-2</cite>,<br>
+           U.S. Department of Commerce.<br>
+           <a href="http://csrc.nist.gov/fips/fips186-2.pdf" target="_blank">
+           http://csrc.nist.gov/fips/fips186-2.pdf</a>
+      <li> [<i>Test</i>] IEEE,<br>
+           <cite>Test Vectors for Std 1363-2000</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/P1363/testvector.txt" target="_blank">
+           http://grouper.ieee.org/groups/1363/P1363/testvector.txt</a><br>
+           [for RSA/EMSA2(SHA-1)]
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation, no default] - the name of the
+             message digest that is to be used to calculate the message representative.
+             The only message digest algorithms for which this encoding method is
+             defined are SHA-1 and RIPEMD-160.
+    </ul></dd>
+</dl>
+
+
+<p><a name="sem_EMSA5-MGF1"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">&#215;&nbsp;<span class=x>EMSA5-MGF1</span>(<i>digest</i>)</font> <td align=right>Signature Encoding Method
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Eiichiro Fujisaki, Tatsuaki Okamoto
+  <dt><b>Description:</b>
+    <dd> The "EMSA5" encoding defined in the IEEE P1363a draft standard, with
+         the MGF1 Mask Generation Function.
+         This encoding method is intended only for use with <a href="#ESIGN">ESIGN</a>.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] IEEE,<br>
+           "Draft Standard Specifications for Public Key Cryptography Amendment 1: 
+            Additional Techniques,"<br>
+           <a href="http://grouper.ieee.org/groups/1363/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/index.html</a>
+      <li> [<i>Inf, An, Test, Impl, Patent</i>] Nippon Telegraph and Telephone
+           Corporation,<br>
+           <cite>ESIGN Signatures Homepage</cite>,<br>
+           <a href="http://info.isl.ntt.co.jp/esign" target="_blank">
+           http://info.isl.ntt.co.jp/esign</a> and<br>
+           <a href="http://www.nttmcl.com/sec/Esign/esign.html" target="_blank">
+           http://www.nttmcl.com/sec/Esign/esign.html</a>
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation, no default] - the name of the
+             message digest to be used. This is used both to calculate the message
+             representative, and as the underlying digest for MGF1.
+    </ul></dd>
+</dl>
+
+
+<p><a name="sem_PKCS1-1.5"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">PKCS1-1.5(<i>digest</i>)</font> <td align=right>Signature Encoding Method
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www.rsasecurity.com/" target="_blank">RSA Data Security, Inc.</a>
+  <dt><b>Description:</b>
+    <dd> Block type 01, described in section 10.1 of PKCS #1 v1.5.
+  <dt><b>Aliases:</b>
+    <dd> "PKCS#1", "EMSA-PKCS1-v1_5", "EMSA3"
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] <cite>PKCS #1: RSA Encryption Standard</cite>,<br>
+           An RSA Laboratories Technical Note,
+           Version 1.5. Revised November 1, 1993.<br>
+           <a href="ftp://ftp.rsa.com/pub/pkcs/ascii/pkcs-1.asc" target="_blank">
+           ftp://ftp.rsa.com/pub/pkcs/ascii/pkcs-1.asc</a>
+      <li> [<i>Inf</i>] RSA Security, Inc.,<br>
+           <cite>PKCS #1: RSA Cryptography Standard, version 2.0</cite>.<br>
+           <a href="http://www.rsalabs.com/pkcs/pkcs-1/" target="_blank">
+           http://www.rsalabs.com/pkcs/pkcs-1/</a>
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation, no default] - the name of the
+             message digest that is to be used to calculate the message representative.
+             Only message digests for which an ASN.1 OBJECT IDENTIFIER has been defined,
+             may be used (see comment below).
+    </ul></dd>
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> Some existing implementations of PKCS #1 only support moduli that are a
+           multiple of 8 bits in length. The standard in fact makes no such restriction,
+           and SCAN requires that bit lengths that are not a multiple of 8 MUST be
+           supported.
+      <li> The DER encoding of an ASN.1 DigestInfo object used to construct message
+           representatives can be found by prepending a fixed sequence of bytes to the
+           digest result (this is much simpler than implementing generalised DER encoding).
+           For commonly used message digest functions, the byte sequences to be prepended
+           (in hexadecimal) are as follows:
+           <p>
+           <table border=1>
+             <tr><td align=center> <b>MessageDigest</b>
+                 <td> <b>Sequence</b>
+             <tr><td align=center> MD2
+                 <td> <code>30 20 30 0C 06 08 2A 86 48 86 F7 0D 02 02 05 00 04 10</code>
+             <tr><td align=center> MD5
+                 <td> <code>30 20 30 0C 06 08 2A 86 48 86 F7 0D 02 05 05 00 04 10</code>
+             <tr><td align=center> SHA-1
+                 <td> <code>30 21 30 09 06 05 2B 0E 03 02 1A 05 00 04 14</code>
+             <tr><td align=center> RIPEMD-160
+                 <td> <code>30 21 30 09 06 05 2B 24 03 02 01 05 00 04 14</code>
+             <tr><td align=center> Tiger(24,3)
+                 <td> <code>30 29 30 0D 06 09 2B 06 01 04 01 DA 47 0C 02 05 00 04 18</code>
+             <tr><td align=center> SHA-256
+                 <td> <code>30 31 30 0D 06 09 60 86 48 01 65 03 04 02 01 05 00 04 20</code>
+             <tr><td align=center> SHA-384
+                 <td> <code>30 41 30 0D 06 09 60 86 48 01 65 03 04 02 02 05 00 04 30</code>
+             <tr><td align=center> SHA-512
+                 <td> <code>30 51 30 0D 06 09 60 86 48 01 65 03 04 02 03 05 00 04 40</code>
+           </table>
+           <p>
+           An implementation of PKCS1-1.5 encoding MUST allow for at least the message
+           digests listed above to be used (although the same provider need not
+           implement these digests). This is an incompatible change from SCAN 1.0.12-14,
+           where Tiger(24,3) and SHA-{256,384,512} were not required. There was an
+           error in the byte sequence for SHA-1 in SCAN 1.0.12.
+      <li> The EMSA alias for this encoding method changed from EMSA4 in earlier
+           drafts of IEEE P1363a, to EMSA3.
+    </ul></dd>
+</dl>
+
+<p><a name="sem_PSS-MGF1"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">&#215;&nbsp;<span class=x>PSS-MGF1</span>(<i>digest</i>)</font> <td align=right>Signature Encoding Method
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www-cse.ucsd.edu/users/mihir/" target="_blank">Mihir Bellare</a>,
+         <a href="http://www.cs.ucdavis.edu/~rogaway/" target="_blank">Phillip Rogaway</a>
+  <dt><b>Description:</b>
+    <dd> Probably, the "EMSA-PSS" encoding defined in PKCS #1 v2.1.
+         Note that there are several incompatible versions of PSS, and it is not clear
+         precisely which version will become standard.
+  <dt><b>Aliases:</b>
+    <dd> "EMSA-PSS" <!-- "EMSA4" -->
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] RSA Security, Inc.,<br>
+           <cite>PKCS #1: RSA Cryptography Standard, version 2.1 (draft)</cite>.<br>
+           <a href="http://www.rsalabs.com/pkcs/pkcs-1/" target="_blank">
+           http://www.rsalabs.com/pkcs/pkcs-1/</a>
+      <li> [<i>Inf</i>] IEEE,<br>
+           <cite>IEEE P1363a draft version 6 (D6)</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/P1363a/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/P1363a/index.html</a>
+      <li> [<i>Inf</i>] Mihir Bellare, Phillip Rogaway,<br>
+           <cite>PSS: Provably Secure Encoding Method for Digital Signatures</cite>,<br>
+           Submission to IEEE P1363a, August 1998.
+      <li> [<i>Inf</i>] Mihir Bellare, Phillip Rogaway,<br>
+           "The Exact Security of Digital Signatures: How to Sign with RSA and Rabin,"<br>
+           <a href="http://www-cse.ucsd.edu/users/mihir/papers/exactsigs.html" target="_blank">
+           http://www-cse.ucsd.edu/users/mihir/papers/exactsigs.html</a>
+      <li> [<i>An</i>] Burt Kaliski,<br>
+           "Hash Function Firewalls in Signature Schemes,"<br>
+           Slides presented at IEEE P1363 Working Group Meeting, June 2, 2000
+           (revised June 8, 2000).
+           <a href="http://grouper.ieee.org/groups/1363/Research/Presentations.html#hash" target=ext>
+           http://grouper.ieee.org/groups/1363/Research/Presentations.html#hash</a>
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation, no default] - the name of the
+             message digest that is to be used by the MGF1 mask generation function.
+<!-- not included in PKCS #1 v2.1
+      <li> <code>byte[] salt</code> [write, default null (see below)] - a byte array
+             containing a salt to be used by the PSS encoding operation.
+      <li> <code>byte[] signature</code> [write, default null (see below)] - a byte
+             array containing the signature, from which the salt is to be recovered.
+      <li> <code>Integer wLen</code> [creation, default equal to the digest length of
+             the named message digest] - the length in bytes of the <i>w</i> value.
+      <li> <code>Integer seedLen</code> [creation, default equal to <i>wLen</i>] - the
+             length in bytes of the <i>seed</i> value.
+      <li> <code>byte[] diversifier</code> [write, default zero-length array] - a byte array
+             containing a diversifier to be used by the PSS encoding operation.
+             <br>
+             The implementation may or may not copy the contents of arrays used
+             to set this parameter. If any such array is subsequently changed, the
+             output of the encoding method is undefined (it is therefore the responsibility
+             of the caller to make sure that a reference to this array is not
+             accessible to untrusted code). Setting this parameter will
+             <strong><em>not</em></strong> reset the current key.
+-->
+    </ul></dd>
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+<!--
+      <li> The encoding method defined here differs from the one in Bellare and Rogaway's
+           August 1998 submission to IEEE P1363a in two respects. First, it applies a hash
+           function to the message rather than a mask generation function. Second, the salt
+           value is an input to the operation, rather than an internal value. This
+           facilitates "one-pass" processing (see notes to Section 8.2 of PKCS #1 v2.1),
+           particularly in the case of signature verification. (Also, the name "salt" is
+           used instead of "seed", as it is more reflective of the value's r&ocirc;le.)
+      <li> A different salt value MUST be used for each signature. This is implemented
+           by setting the salt parameter to null initially, and just after a signature
+           or verification operation has been performed. For signing, a random salt is
+           used when the salt parameter is null.<br>
+           Setting the signature parameter causes the salt to be recovered from the
+           signature (i.e. it implicitly sets the salt parameter). The signature later
+           passed to the verify method MUST be the same as the one that was previously
+           set.<br>
+           [[TODO: This is an ugly hack. Get Sun to change the Signature API to allow it
+           to be done more cleanly.]]
+      <li> If an update method is called on a Signature object initialised for
+           verification when the salt parameter is null, then a SignatureException
+           MUST be thrown.
+-->
+      <li> [[TODO: check for differences between PKCS #1 v2.1 draft and P1363a.]]
+    </ul></dd>
+  <dt><b>Security comment:</b>
+    <dd> [[Talk about hash function substitution attacks, and difference between
+         P1363a D3 and D4.]]
+  <dt><b>Patent status:</b>
+    <dd> The University of California has a patent pending on PSS. It has stated, in a
+         <a href="http://grouper.ieee.org/groups/1363/P1363/letters/UC.html" target="_blank">letter
+         to the IEEE</a>, that:
+         <blockquote>
+             If PSS is included in an IEEE standard, the University of California will, when that
+             standard is adopted, FREELY license any conforming implementation of PSS as a
+             technique for achieving a digital signature with appendix. No registration fee
+             or other administrative procedure will be required.
+         </blockquote>
+         Note that this is different to the licensing position for PSSR.
+</dl>
+
+<p><a name="sem_PSSR-MGF1"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">&#215;&nbsp;<span class=x>PSSR-MGF1</span>(<i>digest</i>)</font> <td align=right>Signature Encoding Method
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www-cse.ucsd.edu/users/mihir/" target="_blank">Mihir Bellare</a>,
+         <a href="http://www.cs.ucdavis.edu/~rogaway/" target="_blank">Phillip Rogaway</a>
+  <dt><b>Description:</b>
+    <dd> Probably, the "EMSA-PSSR" encoding defined in PKCS #1 v2.1.
+         Note that there are several incompatible versions of PSS, and it is not clear
+         precisely which version will become standard.
+  <dt><b>Aliases:</b>
+    <dd> "EMSR-PSSR"
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Mihir Bellare, Phillip Rogaway,<br>
+           <cite>PSS: Provably Secure Encoding Method for Digital Signatures</cite>,<br>
+           Submission to IEEE P1363a, August 1998.
+      <li> [<i>Inf</i>] Mihir Bellare, Phillip Rogaway,<br>
+           "The Exact Security of Digital Signatures: How to Sign with RSA and Rabin,"<br>
+           <a href="http://www-cse.ucsd.edu/users/mihir/papers/exactsigs.html" target="_blank">
+           http://www-cse.ucsd.edu/users/mihir/papers/exactsigs.html</a>
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation, no default] - the name of the
+             message digest that is to be used by the MGF1 mask generation function.
+<!-- not included in PKCS #1 v2.1 draft 1
+      <li> <code>Integer wLen</code> [creation, default equal to the digest length of
+             the named message digest] - the length in bytes of the <i>w</i> value.
+      <li> <code>Integer seedLen</code> [creation, default equal to <i>wLen</i>] - the
+             length in bytes of the <i>seed</i> value.
+      <li> <code>byte[] diversifier</code> [write, default zero-length array] - a byte array
+             containing a diversifier to be used by the PSSR encoding operation (this is
+             set by calling <code>setParameter</code> on the Signature object, since there is
+             not necessarily any object explicitly representing the encoding method).<br>
+             The implementation may or may not copy the contents of arrays used
+             to set this parameter. If any such array is subsequently changed, the
+             output of the encoding method is undefined (it is therefore the responsibility
+             of the caller to make sure that a reference to this array is not
+             accessible to untrusted code). Setting this parameter will
+             <strong><em>not</em></strong> reset the current key.
+-->
+    </ul></dd>
+  <dt><b>Patent status:</b>
+    <dd> The University of California has a patent pending on PSSR. It has stated, in a
+         <a href="http://grouper.ieee.org/groups/1363/P1363/letters/UC.html" target="_blank">letter
+         to the IEEE</a>, that use of this technique will require a license to be acquired
+         "under very reasonable terms and conditions". Note that this is different to the
+         licensing position for PSS.
+</dl>
+
+<p><a name="sem_SSL3"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>SSL3</span></font> <td align=right>Signature Encoding Method
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Netscape Communications Corp.
+  <dt><b>Description:</b>
+    <dd> The signature encoding method used for RSA in SSL version 3.0, consisting of
+         MD5 and SHA-1 hashes, encoded using PKCS #1 v1.5 block type 0.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Netscape Communications Corp.,<br>
+           <cite>SSL v3 specification</cite>,<br>
+           <a href="http://www.netscape.com/eng/ssl3/" target="_blank">
+           http://www.netscape.com/eng/ssl3/</a>
+    </ul></dd>
+  <dt><b>Missing information:</b>
+    <dd> Test vectors.
+  <dt><b>Comment:</b>
+    <dd> "RSA/SSL3" is equivalent to "RSA/EMSA1(Parallel(MD5,SHA-1))". It is defined as
+         a separate algorithm because EMSA1 is not normally used with RSA.
+</dl>
+
+<p><a name="sem_TLS"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>TLS</span></font> <td align=right>Signature Encoding Method
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Netscape Communications Corp., IETF Transport Layer Security Working Group
+  <dt><b>Description:</b>
+    <dd> The signature encoding method used for RSA in TLS, consisting of MD5 and SHA-1
+         hashes, encoded using PKCS #1 v1.5 block type 1. Block type 0 MUST also be
+         accepted when verifying a signature.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] T. Dierks, C. Allen,<br>
+           "The TLS Protocol Version 1.0,"<br>
+           <a href="ftp://ftp.isi.edu/in-notes/rfc2246.txt" target="_blank"><cite>RFC 2246</cite></a>,
+           January 1999.
+    </ul></dd>
+  <dt><b>Missing information:</b>
+    <dd> Test vectors.
+  <dt><b>Comment:</b>
+    <dd> For generation of signatures, "RSA/TLS" is equivalent to
+         "RSA/PKCS1-1.5(Parallel(MD5,SHA-1))". It is defined as a separate algorithm
+         because it also accepts PKCS #1 block type 0 on verification.
+</dl>
+
+<p><a name="sem_Raw"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">Raw</font> <td align=right>Signature Encoding Method
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> A "null" encoding method, that passes its input directly to the
+         underlying primitive. The block length is as large as necessary to
+         ensure that all inputs to the public key primitive are possible (and
+         no larger). This usually means that some block contents will not be
+         valid; these will cause the signature to be rejected when the
+         Signature object's <code>verify</code> method is called, or an
+         <code>IllegalArgumentException</code> to be thrown when the
+         <code>sign</code> method is called.
+  <dt><b>Security comment:</b>
+    <dd> There are many attacks possible on public key signature algorithms
+         when this encoding method is used. It is intended only as a way to
+         obtain access to a public key primitive (for those providers that
+         support it), in order to implement encoding methods at the application
+         rather than the provider level, or to maintain compatibility with
+         legacy protocols.
+</dl>
+
+<p><hr size=3 noshade>
+<h2><a name="sof">Output Formats</a></h2>
+
+<p><a name="sof_1363"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">1363</font> <td align=right>Output Format
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> Where there are several possible output formats for a signature algorithm,
+         this name indicates that the alternative consistent with IEEE Std 1363-2000
+         Annex E must be used.
+         <p>
+         The convention used by 1363 for formatting more than one arbitrary-length
+         integer, is to concatenate their big-endian unsigned representations. Each
+         integer is padded on the left with zeroes, to the length defined by the
+         algorithm parameters (for example if an integer is in the range
+         0..<i>n</i>-1, the result will have the same number of bytes as is needed to
+         represent <i>n</i>-1). The signature algorithm is assumed to specify a
+         canonical order for the integers.
+         <p>
+         To parse this format, the receiver must split it into blocks of the
+         correct lengths (usually equal), one for each integer. If this
+         cannot be done, the signature MUST be treated as invalid.
+</dl>
+
+<p><a name="sof_DER"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">DER</font> <td align=right>Output Format
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> Where there are several possible output formats for a signature algorithm,
+         this name indicates that the DER-encoded alternative must be used.
+         <p>
+         The type used to DER-encode more than one arbitrary-length integer, is
+         SEQUENCE { INTEGER&nbsp;a, INTEGER&nbsp;b, ... }. The signature algorithm
+         is assumed to specify a canonical order for the integers.
+         <p>
+         To parse this format, the receiver must always interpret it as DER,
+         not BER. If the signature is not a DER encoding of the correct type,
+         it MUST be treated as invalid.
+</dl>
+
+<p><a name="sof_OpenPGP"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">OpenPGP</font> <td align=right>Output Format
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> Where there are several possible output formats for a signature algorithm,
+         this name indicates that the alternative specified by OpenPGP must be
+         used.
+         <p>
+         The convention used by OpenPGP for formatting more than one arbitrary-length
+         integer, is to encode each integer as a two-byte big-endian length field
+         indicating the bit length of the integer, followed by the bytes of the
+         integer in big-endian order, with no leading zeroes (see section 3.2
+         of RFC 2440). The signature algorithm is assumed to specify a canonical
+         order for the integers.
+         <p>
+         When parsing this format, if the length fields are inconsistent with the
+         total length of the signature, it MUST be treated as invalid.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Jon Callas, Lutz Donnerhacke, Hal Finney, Rodney Thayer<br>
+           "OpenPGP Message Format,"<br>
+           <a href="ftp://ftp.isi.edu/in-notes/rfc2440.txt" target="_blank">
+           <cite>RFC 2440</cite></a>, November 1998.
+    </ul></dd>
+</dl>
+
+
+<hr size=3 noshade>
+<img src="cryptix-s.gif" alt="" align=right>
+
+<table><tr>
+  <td width=200>
+      <a target="_blank" href="http://validator.w3.org/check/referer"><img
+      src="vh40.gif" alt="Valid HTML 4.0" border=0 height=31 width=88></a>&nbsp;<a
+      target="_blank" href="http://jigsaw.w3.org/css-validator/check/referer"><img
+      src="vcss.gif" alt="Valid CSS" border=0 height=31 width=88></a>
+  <td valign=top>
+      <a href="intro.html#copyright">Copyright and trademarks</a>
+</tr></table>
+
+</body>
+</html>

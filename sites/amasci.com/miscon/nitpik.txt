@@ -1,0 +1,185 @@
+AM I JUST A PEDANTIC SCIENCE-NITPICKER?             W. Beaty 1998
+
+
+Let me first tell a little about myself. I'm not a teacher. I have a great
+respect for the teaching profession, and I don't know if I would be a very
+good fulltime teacher if I tried it myself.  Also, I'm not a professional
+author, and I'm aware of the huge amount of skilled work needed to produce
+a good book (as opposed to throwing together a website like I've done.) 
+What I am is a professional electronics designer. I'm also still a science
+student, and hope always to be one.
+
+Where did my Textbook Misconceptions List come from?  No, I'm not just a
+professional nitpicker who can't stand tiny flaws.  I was one of those
+students who developed a deep love of physical science.  Over the years I
+slowly learned to "dance" with the subject, to find massive intercon-
+nections between separate parts, until physics eventually became for me
+like a vast ballet, or like a gigantic puzzle where most pieces connect
+together in a deeply satisfying way.  It all made SENSE, and it had the
+depths of esthetics like good food or profound art. 
+
+As part of my science museum exhibit designs in 1988, I acquired a stack
+of elementary school textbooks. I wanted to see how to explain electricity
+to 6th-graders.  In reading the books I was totally stunned.  The
+electricity chapters were wrong.  Terribly terribly wrong.  It wasn't just
+simple factual errors.  Also, they weren't wrong in the way that a
+physicist might regard "electrons orbiting atoms" as being wrong.  This
+was different.  The books' electricity chapters were teaching bizarre
+things.  If "electricity" is like a gas, then the books were doing the
+equivalent of teaching that wind moves at the speed of light, that sound
+and air are the same thing, and that nitrogen is a form of energy. 
+The authors of those books clearly had many typical student misconceptions
+regarding electricity.  Unfortunately, the authors were not students
+anymore, they were science experts, and they were teaching their
+misconceptions to huge numbers of students and teachers.  What K-6 student
+could avoid acquiring a misconception, if that misconception has the stamp
+of approval of the ultimate authority: their science textbook?  What
+teacher would dare to REALLY understand a subject, if in order to
+understand the subject they must distrust the info in their science
+textbooks?
+
+After my encounter with those books, I slowly realized that my own
+understanding of basic electricity was flawed and incomplete.  I sat down
+and started re-teaching myself the subject. I became aware of the source
+of my problem: I myself had learned a bunch of electricity misconceptions
+as a child.  Those misconceptions had given me a faulty foundation on
+which to build further knowledge.  As a result, any accurate information
+learned later became distorted in my mind even as I learned it.  It was
+like trying to build a brick wall on top of a garbage pile: the incoming
+bricks are perfectly good, but they simply did not fit upon earlier
+concepts, and any structures that I managed to build kept collapsing.  My
+earlier solution was typical: dive into mathematics, understand
+electricity in the form of interconnected equations, but without having
+any real, visual, gut-level "feel" for the concepts.  But this didn't help
+me explain electricity to the public.  What, should I just say "first
+learn algebra and calculus, THEN come back and ask me about Electricity"?
+No way.
+
+As an experienced adult who was re-examining his childhood misconceptions,
+I found that it was fairly easy to root out the bad stuff and to construct
+a sensible view of the world of "electricity."  Slowly I came to see
+electrical physics and circuitry not as abstractions and not just as math,
+but to understand them in a visual, gut-level way.  I had never been able
+to do this before.  I'd been blind for decades.  Until I finally learned
+to "see" again, I didn't realize how poorly I understood this aspect of
+physics. 
+
+These experiences made me realize that most people are in the same
+predicament, but without having the benefit of a physics education to
+teach them the math.  Why couldn't I understand electricity?  Because I
+had misconceptions about it.  Why was this?  In part because of the
+normal, expected misconceptions that most students pick up.  But the
+majority of my misconceptions had been specifically taught to me.  The
+misconceptions had been in my science textbooks long ago, and they were
+still in most modern textbooks.  My books had given me a set of serious,
+nearly undefeatable learning barriers.  Similar books were still out there
+at present, giving everyone else the same barriers. 
+
+Clearly Something Must Be Done!  :) 
+
+At first I tried writing letters to textbook and encyclopedia publishers,
+but that was an uphill battle.  Who was I, that I could tell them that
+their books were wrong, especially when ALL OTHER BOOKS also say the same
+thing as theirs?  I did some consulting work for a more tolerant
+publisher, but the company moved to Texas and the whole project was
+suddenly cancelled after much unpaid work.  I gave up in frustration. 
+
+Along comes internet.  FINALLY!  A way to get this information out into
+the world!  I wrote up my "misconceptions" page and I've been adding to it
+ever since.  Then A. B. Frazer linked my page to "BAD SCIENCE" and the
+hitcount really soared.
+
+Am I just a pedantic science-nitpicker?  No.  I'm a student who has
+discovered great personal flaws, who has gone through a recent traumatic
+learning experience, has stumbled on some important keys to understanding,
+and who now wants to benefit the other students by telling everyone what I
+learned.  My experience occurred after I had become an adult, so it is
+still fresh in my mind, and I can explain how I achieved understanding.  I
+originally didn't understand electrical physics at all, but didn't realize
+this fact (this after getting a BS in Electrical Engineering!)  Later I
+finally figured out what was wrong, fixed my problems, and now I
+understand it pretty well.  In an attempt to aid other people I examined
+myself, assumed that others might have problems like mine, and so I put my
+old "learning barriers" in a list so that others can eliminate theirs as
+well.
+
+Of course my list isn't 100% perfect, so I hope that it will form a basis
+for improvement and conceptual change, rather than becoming another source
+of 'Ultimate Truth.'  I certainly don't want to set myself up as another
+ultimate content expert!  After all, that's one reason the misconceptions
+got into textbooks in the first place: over-reliance on the expertise of
+others, and too little critical thought given to presumably-authoritative
+published words.  "Whoever undertakes to set himself up as a judge of
+Truth and Knowledge is shipwrecked by the laughter of the gods." -Einstein
+
+Back to the purpose of this message.  I receive two main classes of
+response about my miscon page.  One group says "These aren't really
+errors, what's the big deal?!"  The other group says "After thirty years
+of being confused about this stuff, I FINALLY understand it!  Thank you!" 
+The second type of response gives me grave doubts about accepting the
+accuracy of the first.  So, be warned.  If someone reads my lists and
+thinks "THESE AREN'T ERRORS, THEY'RE JUST TRIVIAL NITPICKING", that person
+might have reasons to be threatened by this information, or at the very
+least they are belittling something that they don't understand.  
+Nitpicking of science trivia certainly doesn't attract numerous emotional
+"thank you" letters! 
+
+Obviously these misconceptions recorded in my lists don't give serious
+learning barriers to everyone, but they surely did for me.  From the email
+I receive and from talking to fellow engineers and electronics techs, I
+find these misconceptions give learning barriers to a majority of
+technical people.  Since most of the misconceptions come from science
+textbooks, it makes sense that many different people would end up with the
+same misconceptions that I did.  If I show others how I cured my
+particular misconceptions, then in many cases this could cure theirs as
+well. 
+
+Yes, my lists are criticism, constructive criticism I hope.  As with all
+criticism, there is a danger that other authors and educators will ignore
+them because it seems to be a sort of namecalling, possibly motivated by
+anger.  I admit there is a bit of this aspect to my writing, but just a
+bit.  I feel ripped off by my K-12 classes, and I see the same thing
+happening to students even now.  But I don't blame the teachers for this,
+any more than I blame myself for becoming 'infected' by the same
+misconceptions.  The disease affects teachers too, not just students.  We
+should not think in terms of blame.  We should think in terms of breaking
+the cycle of 'infection', of ridding ourselves of flawed knowledge, and so
+becoming better educators (or better electronics designers!)  Please don't
+get turned off by the things my lists imply!  If you would, see them as
+constructive criticism, as suggestions for change, not as a hostile attack
+on the science teaching profession.
+
+There is another lesson here: if textbooks contain errors, and if these
+errors can never be entirely eliminated, then there is only one cure: 
+students and teachers must practice CRITICAL THINKING.  People and books
+are imperfect.  If we have a good, solid, well-written textbook, maybe we
+can put 99% of our trust in it, but we should never trust anything 100%.
+When something seems complicated and very hard to understand, most of the
+time it REALLY IS a tough subject.  But sometimes the problem is with poor
+explanations or wrong explanations.
+
+
+Thanks for listening to my rants!
+
+- Bill Beaty      http://www.eskimo.com/~billb/miscon/miscon.html
+
+  "Lest you think that I am quibbling over minor points of language, I
+  note that in my experience many of the misconceptions people harbor have
+  their origins in imprecise language... Precise language is needed in
+  science, not to please pedants but to avoid absorbing nonsense that
+  will take years, if ever, to purge from our minds."
+            - Dr. Craig F. Bohren, from his "Clouds in a Glass of Beer: 
+              Simple experiments in atmospheric physics"
+
+  "(language) becomes ugly and inaccurate because our thoughts are
+  foolish, but the slovenliness of our language makes it easier for us to
+  have foolish thoughts."  - George Orwell
+
+ "The search for the MOT JUSTE is not a pedantic fad but a vital
+  necessity. Words are our precision tools.  Imprecision engenders
+  ambiguity and hours are wasted in removing verbal misunderstandings
+  before the argument of substance can begin."  - ANONYMOUS CIVIL SERVANT
+    (from Roget's Thesaurus Webpage)
+
+  "Many errors, of a truth, consist merely in the application of the
+   wrong names of things."  -Spinoza

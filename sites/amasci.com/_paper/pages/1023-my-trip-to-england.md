@@ -1,0 +1,200 @@
+---
+title: "My trip to England"
+source_domain: amasci.com
+source_path: ~ables/uk2k/index.html
+order: 1023
+reachable_from_entry: false
+images: 11
+internal_links: 0
+extracted: 2026-08-07T05:54:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# My trip to England
+
+*Source page: `~ables/uk2k/index.html`*
+
+My trip to England
+
+<img src="../img/wtcribbon.gif" data-align="right" data-border="0" /> This fall I took an entire month off and travelled around England. The main excuse for this was a friend's 50th birthday on October 14. The other end of the trip was a tour of England's Cotswolds sponsored by the Ex-Students Association of the University of Texas and run by Alumni Holidays [www.ahitravel.com](http://www.ahitravel.com) which ran from September 19 to 27. I just wandered around and visited a couple of other friends the rest of the time.
+
+The Cotswolds is a range of limestone hills, beech wood, steep valleys of pastureland grazed by sheep renowned for quality wool. In Roman times sheep and rivers were a source of wealth for medieval people producing wool and cloth. The area boasts quaint and colorful towns and villages. The base of our tour was [Stratford-upon-Avon.](http://www.stratford-upon-avon.co.uk/) Stratford is a small Elizabethan town on the gently-flowing River Avon. Stratford was the birthplace of William Shalespeare (in 1564). The city consists of an array of 16th and 17th century structures with rows of half-timbered houses, including Shakespeare's own home on Henley Street. Stratford was a market town and trading center in the Middle Ages.\
+
+### Tuesday and Wednesday, September 19 and 20, 2000
+
+With miles I earned on a trip to Singapore last year, I upgraded to business class and has a luxurious flight from Denver to London via Newark. I left Colorado (where it had not rained in months) and landed in New Jersey and London, both of which were getting a pouring rain. It was wonderful to see.
+
+I was met at Heathrow by Tim Parry who has a limo service between Stratford-Upon-Avon and London. He gave me a guided tour of the area on the way to Stratford. I hadn't even gotten to my destination and I had already seen some lovely Cotswold villages.
+
+I wandered around town a bit to get cash and familiarize myself with the area while I waited for the rest of the tour group to arrive. Dinner at the hotel was accompanied by a local actor performing bits of Shakespeare.\
+
+### Thursday, September 21, 2000
+
+We stayed at the Alveston Manor hotel which is on the other side of the River Avon from the main part of Stratford. The first performance of Shakespeare's *A Midsummer Night's Dream* was at the Alveston Manor. The bridge we crossed to get to Stratford is the Clopton Bridge, named for Hugh Clopton who lived in Stratford and moved to London and became mayor in 1492. He donated money to Stratford for concrete bridges. Every day we went into Stratford we walked across this bridge.
+
+[<img src="tnavon.jpg" data-align="left" data-border="0" alt="Stratford-Upon-Avon" />](avon.jpg) The Holy Trinity Church is along the banks of the River Avon, just down from the Royal Shakespeare Memorial Theater. Shakespeare was a lay preacher at Holy Trinity Church when he returned home from London. No building in Stratford is taller than the Memorial Theater so the Moat House (originally a Hilton) is only 3 stories, probably the shortest Hilton in the world.
+
+Shakespeare was baptized at Holy Trinity on April 26, 1564 (so we assume he was born on the 23rd since they usually baptized 3 days after birth). He was buried on April 25, 1616, which leads us to believe he died (also) on the 23rd because they generally buried people 2 days after death.
+
+Shakespeare's father John was mayor of Stratford and was born in nearby Snitterfield. The Forest of Arden used to be north of Stratford (and was used in *As You Like It*). It was used up building battleships for war with Spain.
+
+[<img src="tnshakespearebirthplace.jpg" data-align="left" data-border="0" alt="Shakespeare&#39;s birthplace" />](shakespearebirthplace.jpg) Today we took our excursion to Shakespeare's birthplace on Henley Street which is managed by [the Shakespeare Birthplace Trust.](http://www.shakespeare.org.uk/) We also saw Anne Hathaway's cottage where Shakespeare's wife grew up. [<img src="tnhathawaycottage.jpg" data-align="right" data-border="0" alt="Anne Hathaway&#39;s cottage" />](hathawaycottage.jpg) It's an Elizabethan farmhouse with a low thatched roof, timbered walls, and lattice windows. We drove by Mary Arden's home, a Tudor farmstead, where Shakespeare's mother grew up. Shakespeare's last home, known as The New Place, is gone now. All that's left is the foundation and Knott Garden, a sunken garden divided into 4 sections by a path, filled with flowers herbs, and box hedges, and contains a Mulberry tree that Shakespeare planted. A later owner of New Place was tired of people wanting to see it and clipping from the mulberry tree so he moved, had the tree cut down, and left orders for the house to be demolished. We saw Hall's Croft, home of Shakespeare's daughter Susanna and husband John Hall, a local doctor. It contains 16th and 17th century furnishings and an exhibit of medical equipment from the period.
+
+During our evening lecture, there was a fire in the boiler room at the hotel, so we had to evacuate and finish our lecture outside under a giant Lebanonese Cedar tree in the courtyard.\
+
+### Friday, September 22, 2000
+
+Today's we saw Charlecote Park where it is rumored that a young Will Shakespeare may have poached a deer. His father made gloves but sometimes material was hard to come by. Since his father was also mayor, it would have created a sticky situation as the penalty for deer poaching was death. This may have been when Will left for London until things cooled off.
+
+[<img src="tnwarwickcastle.jpg" data-align="left" data-border="0" alt="Warwick Castle" />](warwickcastle.jpg) We also toured Warwick Castle, England's finest Medieval castle. I climbed the 3 front towers, the mount in the center (built up by man), and the "ghost tower." We had the moat contents described in rank detail, apparently in that day, it was basically the sewer system. It flowed directly into the River Avon which runs past the castle. Our tour guide was a bowman and he played the part quite convincingly. He gave a demo of his archery skills as well.
+
+Later in the day we got a backstage tour of the Royal Shakespeare Company (RSC) and the Royal Shakespeare Memorial Theater, composed of a main theater and the Swan Theater (a Globe-styled theater). The current theater was built after the original theater burned. In the evening we saw the RSC production of *Henry V*, in a World War I motif (but with original dialogue).
+
+Overnight I experienced my very first earthquake (who would have thought I'd have to go to England for this?). It was centered in near Leamington Spa which is in another part of Warwickshire (where Stratford is). I woke up but thought someone was in my room. When I was more awake I decided I must have dreamt something. It wasn't until I was watching the BBC Breakfast News the next morning that I knew it as an actual earthquake! It registered 4.2, which isn't that large by our standards, but it was the largest in England in 10 years.\
+
+### Saturday, September 23, 2000
+
+Today we toured the Cotswolds-- the most beautiful part of England. The Anglo-Saxon word "cote" (a sheep fold) and "wold" (a piece of open uncultivated land) build the term Cotswold. Houses and walls are built from honey-colored Cotswold stone, and houses have steeply thatched roofs and dormer windows.
+
+We visited Stow-On-The-Wold (Edward Stow lived on the hill). The Romans arrived here in 47AD. We visited the Parish Church of St. Edward, the oldest surviving original building in town (built by the Normans about 986). I passed a cheese shop that had Wensleydale on special and a board that said "Real cheese, Grommit!" so I couldn't resist, I had to try it-- and it was great. We missed the Cheese 2000 festival which was the following weekend. We visited the Royalist Hotel, the oldest inn in England built in 947 AD.
+
+We also visited Bourton-On-The-Water, the "Venice of the Cotswolds" (someone hadn't been to Venice) because of its six bridges that span the River Windrush which divides the town and later empties into the River Avon. The composer Holst born nearby.
+
+Lower Slaughter has beautiful stone bridges and excellent walks. We had lunch at the Washbourne Court Hotel and walked along the River Eye (which later runs into River Windrush).
+
+In Stanway we visited Stanway Parish where we saw a wedding in progress, and the Stanway Water Garden.
+
+[<img src="tncricket.jpg" data-align="left" data-border="0" alt="a game of Cricket" />](cricket.jpg) Stanton is not very modern, and is inhabited mostly by retired people and workers from Broadway. The Stanton Parish Church was where John and Charles Wesley, founders of the Methodist Church, preached. We even got to see a Cricket game going on down the street.
+
+Broadway, in Glouscester, is called "Gateway to the Cotswolds." Most people in our group went shopping, I went to the Horse and Hound pub to sample the local brew.
+
+Chipping Campden is a market town. The name comes from chipping (as in chipping at the price, or bartering), camp (people), and den (organized). The Eddington Park Hotel supposedly has a housekeeper ghost.
+
+After returning to Stratford, I toured a few of the local pubs near the hotel. The Black Swan (aka the Dirty Duck) is often frequented by RSC players after performances. I also stopped in at the Pen and Parchment and Cox's Yard, both along the banks of the River Avon.\
+
+### Sunday, September 24, 2000
+
+Today we had some time to ourselves, so I got up early and went for a run along the River Avon past the Royal Shakespeare Memorial Theater and Holy Trinity Church. I stopped to watch a boat go through one of the locks along the river. The Avon Environmental District has a great sign that says "Good planets are hard to find" encouraging you to pick up your trash after enjoying the area.
+
+In the afternoon, we took a trip to [Coventry.](http://www.coventry.org/) Among other things, it's the home of Lady Godiva. It was an agricultural settlement in 1086 and was the 3rd largest city outside of London by 1377. Its prosperity came from woolen trade.
+
+The wife of Earl Leofric was Lady Godiva. She sympathized with citizens and protested her husband's high taxation. She made a deal with her husband that if he would lower the taxes, she would ride naked on horseback through the city. Out of respect, the townspeople planned to stay inside their houses with the windows shut while she made this ride. Allegedly a young man named Thomas couldn't stand it and had to look (hence the phrase "peeping Tom").
+
+Now it's a car center-- Rover Group (formerly BMW) and Austin founded by Herbert Austin. In WWII, they made arms and engines [<img src="tncoventry.jpg" data-align="left" data-border="0" alt="Coventry Cathedral" />](coventry.jpg) so they were a target. On November 14, 1940, Coventry was bombed by the Luftwaffe. A 7:10pm air raid siren signaled the start of an 11-hour bombing where the Coventry Cathedral was virtually destroyed. The Cathedral roof was lead, which when wet, as it was because the fire brigade was trying to put out fires all over town, it looked like a a metal factory roof. Eventually the water ran out, so when it was hit, the fire could not be put out. The bell tower was left standing and working.
+
+The old Coventry Cathedral was the only British cathedral to be destroyed by the Luftwaffe. The new cathedral, St. Michael's, was completed in 1962. It's a modern design by Sir Basil Spence and is a stark contrast to the ruins of the 14th century cathedral next to it. The "official" location has never been moved to the new one, so the bombed out shell is still the recognized cathedral.
+
+We also saw the St. Mary's Guildhall, built between 1340 and 1460 and damaged during the bombing but restored. Mary Queen of Scots was imprisoned in the tower for 2 months (of her 19 years), near the council chambers and treasury rooms.
+
+Back in Stratford that evening, we had dinner with some local folks, including a couple of people who travel around and teach school children about Shakespeare. They have an interesting web site at [http://www.bravenewshakespeare.com.](http://www.bravenewshakespeare.com) One of the women in the group is from New Jersey but moved to Stratford to do graduate work and just stayed. Hearing her take on life in the UK was pretty interesting (and talking with her wasn't difficult!). It's from her I learned the word "kerfuffled" (flabergasted, confused).\
+
+### Monday, September 25, 2000
+
+Today we visited the town of Woodstock and Blenheim Palace. Blenheim Palace was a gift of a grateful nation to John Churchill, the Duke of Marlborough, for victory in battle. He had been poor so he entered the army and was superb at the strategies of war. He married Sarah Duchess of Marlborough and his wealth grew with battle wins. During the Spanish Wars of Succession he won the Battle of Blyn Tyme in France. The Queen gave him cash to build a palace which he named after the site of the battle victory (in English, Blenheim).
+
+Blenheim Palace is the birthplace of Winston Churchill (John Churchill's grandson). We saw the room where he was born as well as many of his paintings and letters. In one letter to his dad he says "I'll take your advice and not smoke but one or two cigars a day." At least Dad will be glad to know I'm not the only son who hasn't always taken his father's advice! Blenheim Palace is the site of Winston Churchill's famous speech after his appointment to the Admiralty in 1911. We had lunch at Bear Hotel, a 13th century coaching inn in Woodstock.
+
+[<img src="tnchristchurch.jpg" data-align="left" data-border="0" alt="Christ Church - Oxford" />](christchurch.jpg) Then it was off to Oxford. The word "Oxford" comes from its proximity to the ford in the River Thames where the ox could graze. The River Thames goes by its Roman name in Oxford and is know as the River Isis.
+
+Oxford was an early Saxon trading settlement. Henry VIII founded the school in 1547 but died before it opened in 1562. Queen Elizabeth I presided over its opening.
+
+The individual college we visited was Christ Church. Einstein attended Christ Church and Lewis Carroll taught there. We visited the Bodeian Library, the Meadows building (student rooms), and the Master's garden. Originally, Christ Church was known as Cardinal College but it was renamed by Henry VIII. We took High Tea in a dining room in Christ Church.
+
+Charles Dodgson (aka Lewis Carroll) came to study Maths in 1852 and stayed to teach until his death in 1898. Many Alice in Wonderland inspirations came to Carroll from Christ Church:
+
+- a tree in garden is probably the Jabberwocky
+- the dean's daughter was named Alice
+  (his other kids were Harry, Lorena, and Edith-- I think) - Dodgson got to know the kids telling them stories
+- Alice looked through door in garden wall into a part of the
+  garden she wasn't allowed in (Wonderland)
+- the dean was always late, especially to dinner where he came
+  up a spiral staircase at the front of the dining room (rabbit hole)
+- Alice's cat used to climb up a chestnut tree in the garden
+  and not come down
+- the Queen of Hearts ("off with his head") was Henry VIII -
+  his portrait hangs at the head of the dining room
+- heads with long necks on the fireplace rack in the dining hall
+  is probably where Alice's long neck came from when she enters Wonderland
+- the Dodo came from Dodgson's stutter when he would introduce
+  himself (Do-Do-Dodgson)
+
+In the evening, I went to see *The Comedy Of Errors* put on by the Royal Shakespeare Company. During intermission (known there as "the interval"), I stood on a balcony just out of reach of a light rain, sipping a glass of wine and chatting with a a charming English lass. If her boyfriend hadn't eventually come around, I'd probably still be there! I walked back to the hotel after the performance in a light rain along the River Avon.\
+
+### Tuesday, September 26, 2000
+
+Today I saw a performance of my favorite Shakespeare play, *Romeo and Juliet* by the RSC. They also had a special gathering after the performance where the actors talked to audience members and answered questions, it was very interesting to learn how they decide on the set and the little "extras" they've added to the play.\
+
+### Wednesday, September 27, 2000
+
+The tour of Stratford-Upon-Avon was coming to an end, but on our way to London (where many people were departing but I was moving on to another phase of my trip), we stopped off and toured Windsor Castle. A few of us were touring London and wandered around the area around our hotel (the Grosvenor House-- very nice!) and had dinner at the Aubrey pub in London. Sean Connery was rumored to have been in the hotel bar 30 minutes before I went down to have a beer, but of course I missed him.\
+
+### Thursday, September 28, 2000
+
+Today we toured Buckingham Palace, to complete our list of all the Royal family residences! Wandering around London a bit I ran across "The Texas Embassy" (a restaurant). I also had a chance to sit in Berkeley Square and watch the world go by for a while.
+
+That evening, a few of us saw *Mousetrap* at the St. Martin's Theater. This is the longest running show in London, it's been going for 48 years.\
+
+### Friday, September 29, 2000
+
+Today I toured the Cabinet War rooms where Churchill ran WWII. It was a fascinating look into what really happened. Also saw the changing of the guard at St. James Palace.\
+
+### Saturday, September 30, 2000
+
+Got up early and went for a run through Hyde Park & Kennsington Gardens. At one point I looked up and found I was right outside the Royal Albert Hall! Later that day I caught a train to Basingstoke to meet up with my friend Chris (the birthday boy) and his wife Gill. As I got to Basingstoke early, I spent a couple of hours in the Queen's Arms pub hanging with the locals, watching rubgy on TV, and having lunch and a couple of beers.\
+
+### Wednesday, October 4, 2000
+
+I took a few days off and did absolutely nothing but laundry and visiting with Chris and Gill. It was great to have time to just relax after having been going and going and going for 10 days. This evening we drove down to South Hampton to see the movie Space Cowboys. Movies in the UK are interesting, they have reserved seating! And I bought popcorn, but not reading the labels closely, I wound up getting sugared popcorn, what a concept.\
+\
+
+### Friday, October 6, 2000
+
+Today I jumped on a train to go up to Cambridge to visit some other friends. Rick Owen used to work at Schlumberger in Austin when I was doing some contracting there and we've stayed in touch. I went up to visit him and his family. He and his wife Joan picked me up at the train station and Joan showed me the village of Impington, where they live. That night Rick took me to the Red Lion pub and we hung out with some of his friends.
+
+Cambridge is supposedly where Sir Issac Newton had his inspiration about gravity from an apple, there are apple trees everywhere.\
+
+### Saturday, October 7, 2000
+
+Rick and I went to the American Cemetery in Cambridge, 30 acres of land donated by the University of Cambridge. It's the only American Cemetery in the British Isles and is mostly fallen soldiers from WWII. As with most such cemeteries, it was very moving.\
+
+### Sunday, October 8, 2000
+
+Returned to Basingstoke by train through London.\
+
+### Tuesday, October 10, 2000
+
+Saw *Blood Brothers* in London.\
+
+### Wednesday, October 11, 2000
+
+[<img src="tnstonehenge.jpg" data-align="left" data-border="0" alt="Stonehenge" />](stonehenge.jpg) Today we went from Chris' house to Stonehenge, about 25 miles! He said he drives by it all the time, but it's just another place on the highway. He had never even been since he lived where he lives!
+
+Another ring of stones in the area is the Avebury ring. This one is much larger but not as stark. There's even a pub (where we had lunch) in the middle of the circle. We spent the afternoon shopping in the town of Marlbourgh.\
+
+### Thursday, October 12, 2000
+
+[<img src="tnchris5.jpg" data-align="left" data-border="0" alt="the birthday boy" />](chris5.jpg) Today was Chris' day. We went to one of his favorite places, the Hawk Conservancy. We learned how to hold and fly Harris Hawks, saw Perigrine Falcons, and even a Bald Eagle! This picture is Chris holding a barn owl, one of his favorites.\
+
+### Friday, October 13, 2000
+
+Today Kathy and Bill and I went to London by train to tour around. We wound up spending pretty much the whole day at the Tower of London. The last time I was here we only went by, we didn't get to go in. We took the tour, and wandered around and saw the whole place.\
+
+### Saturday, October 14, 2000
+
+The reason for the trip is Chris' 50th birthday party and today is the day. We spent the day setting up and the evening enjoying the party at Woolding's Vineyard & Winery in Whitchurch, the town Chris and Gill live near. It was fun to see some people that we saw at his 40th party!\
+
+### Sunday, October 15, 2000
+
+Today was recovery and a little bit of clean up from yesterday.\
+
+### Monday, October 16, 2000
+
+[<img src="tnbigben.jpg" data-align="left" data-border="0" alt="Big Ben" />](bigben.jpg) Back to London to tour around, we first took a tour of the rebuilt Globe Theater. This completed my total emersion in all things Shakespeare! As with my trip 10 years ago, Bill and I climbed the stairs to the top of [St Paul's Cathedral](http://www.stpauls.co.uk/rindex.htm) (only one day off from when I did it 10 years ago!). Then we took a riverboat ride up the Thames and caught the tube out to Ruislip to visit another friend who is lucky enough to live in the London area!\
+
+### Tuesday, October 17, 2000
+
+My final full day of my UK trip we all drove out to Bath (past Stonehenge!). We saw the Bath Abbey and wandered around the town. The Romans really knew what was important, they built an entire city around what is basically a big hot tub!\
+
+### Wednesday, October 18, 2000
+
+Exhausted and actually missing home, today Chris and Bill got up early to drive me back to Heathrow where I caught the plane home. It was raining again as I went through New Jersey, but by this time I was used to seeing water coming down from the sky. By the time I got home, I was actually glad to be back. I guess a month, even in paradise, is enough for one trip!

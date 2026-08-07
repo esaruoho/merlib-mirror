@@ -6,7 +6,7 @@ order: 169
 reachable_from_entry: true
 images: 3
 internal_links: 21
-extracted: 2026-08-03T18:11:36Z
+extracted: 2026-08-07T05:53:08Z
 extractor: site_to_paper.py (pandoc)
 ---
 
@@ -208,7 +208,7 @@ Here's an even weirder idea: electrochemistry. Back in the 70's there was an art
 
 \
 
-[http://amasci.com/amateur/bio](/amateur/bio.html)\
+[/amateur/bio](/amateur/bio.html)\
 Created and maintained by [Bill Beaty](/billb.html). Mail me at: [<img src="/graphics/abc.gif" data-border="0" width="141" height="19" />](/amfrm/).\
 
 <div class="statcounter">

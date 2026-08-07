@@ -1,0 +1,51 @@
+---
+title: "Mt. Ruth, Del Campo, and Gothic Peak '98"
+source_domain: amasci.com
+source_path: ~sfox/SJF/HIKE/98Ruth.htm
+order: 7879
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T06:00:24Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mt. Ruth, Del Campo, and Gothic Peak '98
+
+*Source page: `~sfox/SJF/HIKE/98Ruth.htm`*
+
+Mt. Ruth, Del Campo, and Gothic Peak '98
+
+# Mt. Ruth, Del Campo, and Gothic Peak in 1998
+
+## Mt. Ruth
+
+It being a 3-day weekend, I had to go climbing again. So Fred and I decided to climb Sahale Peak, and if time permitted, Boston and Buckner peaks also. These all have glaciers on the routes, and are over 9000' high. But when we got there Friday evening, the road was closed due to fire! Darn the luck...
+
+So we decided to drive another 3 hours, farther north, to climb Ruth and Icy peaks in the North Cascades. By the time we got near the trailhead, it was pitch dark. Oh well, I folded down the rear seats in the wagon and we "bivied" in comfort.
+
+Hoisting our packs, we hiked the 7 miles to a campsite at about 5700' elevation, with a grand view of Mt. Baker. Not content to just sit around lolligagging, we put on our harnesses and roped up for the climb up Mt. Ruth. It turned out to be an easy climb, only another 45 minutes of slogging up the ice and snow. There were a few crevasses to negotiate, but
+
+Icy Peak beckoned us, so we descended down the ridge towards it. After an hour of difficult scrambling down a steep slope, we decided to rename "Icy Peak" to "I see peak!" and lounged in the sun like a couple of lazy lizards. Then we turned back to camp and donned our glacier travel gear for the descent down Ruth Mt.
+
+That night we were treated to a spectacular sunset, shortly followed by a full moonrise. Fred had forgotten his tent poles, so we slept under that stars like a couple of cowboys.
+
+The next morning we were treated to a gorgeous sunrise, shortly followed by a spectacular moonset over the flanks of gigantic Mt. Baker. Wow! Breakfast included freshly picked blueberries. Mmmmmm.
+
+We had a bear encounter (I normally prefer bare encounters, but that's another story). In all my years of hiking and camping, I've only seen a bear twice, and the first time was just a week ago! This time, the bear was running (fast!!) up a grassy slope. I clapped my hands and said "HAY!" (forgetting bears don't eat hay, but what the hey), and it ran away from me lickety split. It was a medium sized black bear with no cub in sight.
+
+## Gothic Basin, Del Campo, Gothic Peak
+
+Fred had enough punishment from that big two-day trip, but I was ready for more. So the evening we got back, I repacked my stuff as light as possible, and instead of a tent brought my bivy sack (waterproof sleeping bag cover). Then I high-tailed it for the Gothic Basin trail, an old miner's route in the Cascades. I hit the trailhead at 6:30pm, so I'd have to really push it to make it up there before nightfall. Course, that's impossible, as this trail is long and STEEP.
+
+Climbing up the trail, I lost about 14 qts of sweat as I raced the earth's rotation. Alas, the earth won, and it got mighty dark by the time I hit the basin. Throwing my gear down in a huff ( I was mad at the derned earth for being so uncooperative) I wolfed... er... foxed down some chow and crawled in my bivy sack. Unfortunately, the bivy sack is water proof, and I had sweated profusely. Most of that was stored in my shirt, and it condensed most precipitously inside. Ahhhh, the wonders of science! Again, I was treated to a most satisfying sunset and moonrise. The moon was so bright I could read my watch easily.
+
+The next morning, I scarfed down some breakfast, threw my stuff in the pack, and headed up to Del Campo (6600'). It was a class 3 climb, if you followed the right route. Somehow I managed to find the right route and was able to play "name that peak" from Mt. Adams near Oregon, all the way to Mt. Baker near Canada! The downclimb went well, so I decided to go skinny dipping in a small pond. Ahh... no bathing for 3 days means one SMELLY dude. Even the derned skeeters were leaving me alone. But wait, what's that over there? Another peak?
+
+So off I traipsed, and ended up climbing mighty Gothic Peak (6300'). I was congratulating myself for cheating death once again, and feeling pretty darned macho for getting up the crux of the class 3 climb. A few times I was a little leery of what the heck I was doing there. Anyway, after all this self-praise, I opened up the summit register. Lo and behold, the previous day a couple had brought up a 4 and 6 yearold kids! Pffffttt... the balloon lost all it's air and my grande ego was now quite humbled.
+
+Down I went and decided yet another nearby peak was in order, so I climbed up most of the way, then decided to climb down, but found that the descent was really tough, so I had to be really careful in the heather and talus slopes, where I could find no established trail or route, and it was getting late, and I wanted to get home. So much for a short sentence, eh?
+
+On the way out I discovered an abandoned trail that I hoped would lead to a mine. But it lead to something even better! I ain't tellin' though, it's a secret. Further down I found an old mine and to make a long story short,
+
+The End

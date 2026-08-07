@@ -1,0 +1,184 @@
+---
+title: "Our new director speaks"
+source_domain: amasci.com
+source_path: ~wesn/waflyfishers/msg01762.html
+order: 9774
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:02:21Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Our new director speaks
+
+*Source page: `~wesn/waflyfishers/msg01762.html`*
+
+------------------------------------------------------------------------
+
+\[[Date Prev](msg01763.html)\]\[[Date Next](msg01761.html)\]\[[Thread Prev](msg01763.html)\]\[[Thread Next](msg01765.html)\]\[[Date Index](date61.html#01762)\]\[[Thread Index](thread50.html#01762)\]
+
+# Our new director speaks
+
+------------------------------------------------------------------------
+
+- *To*: flyfish \<<waflyfishers@eskimo.com>\>
+- *Subject*: Our new director speaks
+- *From*: dan \<<dchall@jps.net>\>
+- *Date*: Sun, 17 Jan 1999 20:06:28 -0800
+- *Reply-To*: <waflyfishers@eskimo.com>
+- *Resent-Date*: Sun, 17 Jan 1999 20:05:09 -0800
+- *Resent-From*: waflyfishers@eskimo.com
+- *Resent-Message-ID*: \<"STkDU3.0.-L3.qBhes"@mx1\>
+- *Resent-Sender*: waflyfishers-request@eskimo.com
+
+------------------------------------------------------------------------
+
+    New director likes things out in open
+
+    Bob Mottram; The News Tribune
+
+    "I'm an open-meeting kind of guy," the new director of fish and wildlife
+    declared. "I don't like operating in secret. I don't like closed
+    meetings.
+
+    "I want to hear from as many sides as I can before I make decisions. I'm
+    going to ask people their opinion, and I'm going to listen."
+
+    Director Jeff Koenings spoke Friday with The News Tribune in his fifth
+    day as head of Washington's Department of Fish and Wildlife. He replaced
+    Bern Shanks, who was forced to resign last September amid allegations by
+    some Fish and Wildlife Commission members that he had been derelict in
+    managing the agency's finances.
+
+    Koenings, a water scientist, spent the past 20 years with the Alaska
+    Department of Fish and Game, working his way up from area to regional to
+    headquarters responsibility. Most recently he was special assistant to
+    the Alaska director.
+
+    Why did he leave Alaska?
+
+    "I learned a lot of what there was to learn there," he said.
+
+    In a wide-ranging interview, Koenings touched on:
+
+    * His goal for salmon and steelhead - "To put 'use' back on the table,"
+    he said. To build up weak stocks, he said, such as Puget Sound wild
+    chinook and various Columbia River stocks so fisheries on them may
+    resume.
+
+    * His constituents - "The residents of the state of Washington; hunting
+    folks, fishing folks, non-consumptive folks, tribal folks," Koenings
+    said. Does he consider tribal members to be constituents? "I sure do.
+    They're co-managers on the fish side. On the hunting side it has not
+    been determined." He intends to be "professional and business-like" in
+    his dealings with tribes.
+
+    * Determining constituents' wishes - "First, I'm meeting with employees
+    of this department," Koenings said. "They're one of my constituents. I'm
+    visiting the regions, asking what they expect of me, telling them what I
+    expect of them. Next step is to go to various user groups, then to
+    tribal constituents, and ask them the same questions."
+
+    * The Legislature's and governor's roles in fish and wildlife management
+    - "They certainly have a role to play," Koenings said. "There has to be
+    communication back and forth. We have some problems to solve. These
+    things require money. They require leadership from the governor's
+    office." The department has a lead role to take, he said. It contains
+    the professionals who determine what recovery is and how to get there.
+    "Science is the compass," he said.
+
+    * Sport versus commercial fishing - "By law I'm directed to provide for
+    both," he said. Until the law changes, that will be his direction. The
+    policy now earmarks chinook and coho salmon primarily for recreational
+    fishermen, pink and sockeye salmon primarily for commercials. "I can
+    live with that," he said.
+
+    * U.S.-Canada negotiations - "They're going to continue the way they're
+    set up," Koenings said. "Curt (Smitch) is going to be the commissioner,
+    and this agency is going to provide the technical support."
+
+    * Working for Washington's best interests, not for Alaska's - "I'm from
+    Washington now," he said. "I'm not from Alaska. I'm in the same canoe,
+    just paddling from the other end."
+
+    * Trading sockeye for coho, with Canada - "I've not been briefed on it.
+    I don't want to get into that," he said.
+
+    * Mass marking of hatchery salmon, leading to selective fisheries -
+    "It's a tool that we need," Koenings said. "It may not be applicable to
+    every fishery or every region of the state, but it's moving ahead." He
+    doesn't think it will threaten the coded-wire-tag system. (All Puget
+    Sound coho are being marked, and the department is negotiating with
+    Canada and the tribes for the marking of all Puget Sound chinook
+    starting with the 1998 brood. They would enter the fishery in 2001.)
+
+    * Selective fisheries by commercials - "I think commercial fisheries
+    have to play a part in the recovery," he said. "But I don't know what
+    kind of time-and-area or gear changes might be necessary."
+
+    * Wildlife - "I'm the director of fish and wildlife," he said. In areas
+    of the department other than fisheries, people will have equal ability
+    with those in fisheries to do their jobs, he said.
+
+    * Wildlife issues on the front burner - Elk are declining, he said. Some
+    deer have parasite problems. Proposed wolf reintroductions need
+    attention. Bear and cougar control needs improving in the aftermath of
+    the ban on hound hunting. Watchable-wildlife programs need to be funded.
+
+    * Fish and wildlife management - "You're managing people," Koenings
+    said. "You're managing people's expectations - to make a livelihood, to
+    recreate. You've got to take that into consideration. You've got to be
+    sensitive to that."
+
+    * Non-consumptive use - The agency is seeking new federal dollars for
+    access, he said. "For people who just want to go out and see an elk or a
+    deer or waterfowl or swans. Access is the big thing. There are an awful
+    lot of people who want to do that."
+
+    * Shrinking fish and wildlife habitat - Purchase it, he said. The state
+    doesn't necessarily have to be the buyer. That can be a private
+    organization, such as Ducks Unlimited, the Nature Conservancy. "We need
+    to form partnerships with those groups," he said. "We've got to provide
+    time and area for animals to reproduce and grow."
+
+    * His personal outdoor activities - He has hunted for elk and deer. He
+    has fished for coho and chinook and for other species of fish. "I not
+    only love to hunt and fish, I love to eat it, as well," he said.
+
+    * The future of hunting - Is there one? "Absolutely," he said. "There's
+    a place and a future for it in Washington."
+
+    Koenings said he intends to be "a full-force director, until they throw
+    me out of the job."
+
+    Whenever that may be, he wants people to remember him "for the fact that
+    populations of salmon have recovered and there's use opportunity
+    associated with that. That wildlife populations are recovered. That
+    we've got an agency that's top-notch, with high morale, operating on all
+    cylinders."
+
+    He says he wants to nurture an agency that not only has the ability to
+    manage fish and wildlife, but that has the trust of the people of the
+    state, and their confidence that it is using their tax money
+    responsibly.
+
+    Can he do it?
+
+    "I can do it," he said.
+
+     The News Tribune
+
+    January 13, 1999
+
+------------------------------------------------------------------------
+
+- Prev by Date: **[more conservation information](msg01763.html)**
+- Next by Date: **[(no subject)](msg01761.html)**
+- Prev by thread: **[more conservation information](msg01763.html)**
+- Next by thread: **[re: Our new director speaks](msg01765.html)**
+- Index(es):
+  - [**Date**](date61.html#01762)
+  - [**Thread**](thread50.html#01762)
+
+**[Home](http://www.eskimo.com/~wesn/waflyfishers/) \| [Date Index](date61.html) \| [Thread Index](thread50.html) [Author Index](author.html)**

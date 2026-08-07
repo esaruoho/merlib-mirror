@@ -1,0 +1,58 @@
+---
+title: "C.G. Jung Society, Seattle: Winter 2005 Newsletter"
+source_domain: amasci.com
+source_path: ~dcs/w05/w05zoja.html
+order: 2435
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T05:55:59Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# C.G. Jung Society, Seattle: Winter 2005 Newsletter
+
+*Source page: `~dcs/w05/w05zoja.html`*
+
+# <img src="../testlogo.jpeg" data-align="top" width="75" height="74" /> C.G. Jung Society, Seattle
+
+------------------------------------------------------------------------
+
+## ***Luigi Zoja, Ph.D.***
+
+------------------------------------------------------------------------
+
+# The Father
+
+***Lecture: Friday, March 18, 2005, 7:30 to 9:30 p.m.\**
+Good Shepherd Center, Room 202, 4649 Sunnyside Ave. N., Seattle\
+\$10 member, \$15 nonmembers*
+
+***Workshop: Saturday, March 19, 2005, 10 a.m. to 4 p.m.**\
+Good Shepherd Center, Room 202, 4649 Sunnyside Ave. N., Seattle\
+\$40 members, \$50 nonmembers, \$35 student/senior members, \$45 student/senior nonmembers\
+5 CEUs*
+
+-  To learn about preregistering for the workshop, see [Preregistration Policy and Form](http://www.jungseattle.org/preform.html).
+- Cosponsored by NPIAP and the Oregon Friends of Jung.
+
+<img src="zoja.jpg" data-hspace="2" data-vspace="2" data-align="left" width="90" height="135" alt="Roloff photo" /> Evolution and zoology show that fatherhood is not only much more recent than motherhood, but to a great extent a cultural creation. It implies from its very origin a certain amount of memory (looking toward the past) and of program, of will, and of self-discipline (looking toward the future). In terms of ancient, unconscious psychic structures, this bears two implications:
+
+- - - - being originally and structurally linked with (self) discipline, the father has a structural fixation about discipline.
+      - being not "given" by nature, but built by an intention and dependent upon a culture which implies him, the father tends to be authoritarian, aggressive, and defensive, not occasionally but structurally. Indeed, he intimately perceives his fragility. He needs to project outside his precariousness and fight against it.
+
+The obsession with the genetic monopole of the father expresses itself in the patronymic and the genealogic tree. The vertical essence of the father summarizes also his function of link with the skies, God/s, spirit, meta-physics, "higher" values. In Roman law, the bond father-child comes into being not when the latter is born out of a legitimate marriage, but when the father lifts vertically the offspring in a public ritual. This gesture—and other essential traits of the father archetype and mythology—can be illustrated with the help of slides and with reference to basic literature (*Iliad*, *Odyssey*, *Aeneid*).
+
+American and French Revolutions cut the vertical link to the King/Father, and the latter proclaims brotherhood—*fraternité—*as the substituting principle. The Industrial Revolution spreads regression (mass alcoholism) among the fathers and alienates their work from the family. On the public scene, two World Wars and the Vietnam War deepen the solidarity of the sons/brothers and the criticism of the authority. On the private front they, in their turn, detach three consecutive generations of young fathers from their children.
+
+The first half of the 20th Century is dominated by collective figures of "terrible fathers" (the dictators, who destroy life instead of donating it). In its second half, the explosion of divorces seems to transform this symbolic demise also into a statistical one. The attention of psychoanalytic and neo-Freudian research to very early stages of development and to the diadic phase of the child seems to have given a new role to fathers (the "neo-fathers"), but at the expense of the more archetypal paternal character which used to interplay predominantly with the education of the adolescents. This will again be illustrated with a series of slides and should give possibilities of discussing the present predicaments of fatherhood.
+
+**Luigi Zoja, Ph.D.**, Training Analyst of C.G. Jung Institute - Zurich and Past President of CIPA (Centro Italiano di Psicologia Analitica). Past President of IAAP (International Association of Analytical Psychology) and current Chair of the International Ethics Committee of the same. Former teaching activity at the School of Psychiatry of the Faculty of Medicine, State University of Palermo. Clinical practice in Zurich, then private practice in New York and currently in Milan. Diploma in Analytical Psychology of the C.G. Jung Institute, Zurich. Lectures at the same and at Institutes and Universities in Italy and abroad. Author of papers and books, published in Italian, English, German, French, Spanish, Portuguese, Greek, Russian, Polish, Czech, Lithuanian and Slovenian. Books in *English: Drugs, Addiction and Initiation*, 1st ed. Sigo Press, Boston 1989, 2d ed. Daimon, Einsiedeln 2000; *[Growth and Guilt](http://www.amazon.com/exec/obidos/tg/detail/-/0415116619/cgjungsociseat/)*, Routledge, London and New York 1995; *[The Father: Historical, Psychological, and Cultural Perspectives](http://www.amazon.com/exec/obidos/tg/detail/-/1583911073/cgjungsociseat/)*, Routledge, 2001; *[Jungian Reflections on September 11: A Global Nightmare](http://www.amazon.com/exec/obidos/tg/detail/-/3856306196/cgjungsociseat/)* (ed.) Daimon, Einsiedeln 2002.
+
+------------------------------------------------------------------------
+
+[C.G. Jung Society, Seattle home page](../index1.html)
+
+Updated: 28 December, 2004\
+\
+<webmaster@jungseattle.org>

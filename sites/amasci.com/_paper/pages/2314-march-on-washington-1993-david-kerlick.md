@@ -1,0 +1,59 @@
+---
+title: "March on Washington 1993 David Kerlick"
+source_domain: amasci.com
+source_path: ~davidk/travel/MOW93.html
+order: 2314
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:54Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# March on Washington 1993 David Kerlick
+
+*Source page: `~davidk/travel/MOW93.html`*
+
+March on Washington 1993 David Kerlick
+
+# March on Washington 1993 David Kerlick
+
+## Thursday
+
+The skies were queer as I flew in to Baltimore on Thursday, and the first glimpses of the gathering took place in airports all over. I stayed with old friends Anne and Nels, a hetero couple I have known since grad school at Princeton 20 years ago. The local gay rag, the Blade, was 1/2" thick and had a color photo of Clinton's meeting with gay groups that had taken place a few days earlier. The Clinton White house certainly has the gift for protocol and photo-ops, as they show Bill with the black man who was the spokesperson for gays, in parallel armchairs in the foreground.
+
+## Friday
+
+On Friday, I joined about 40 folk from the Seattle area for a meeting with two Congress people from Washington, Jim MacDermott and Jolene Unsoeld. They're friends, and more liberal than Clinton, so it was more an occasion for solidarity and networking. The messages seemed to be: (1) we have a lot of friends in Congress, some of whom work out of the limelight but whose contributions are crucial, and (2) the prospects for a Federal civil rights bill are not good any time soon. They're deferring to Clinton on tactics, and he has chosen to deal with the military issue first. If that is dealt with successfully, then the climate may be better for a push towards a civil rights bill. They promised to see if they could cajole the IRS into looking into abuses of tax-exempt status by religious (NOT!) right (NOT!) organizations. \[One of the ways that FDR bottled up the Klan was to embroil them in tax litigation and impound their assets.\]
+
+Clear but windy outside as I walked/metroed to Dupont Circle, which already had Saturday night density at Friday noon, and met Gregg, whom I met at the '87 MOW, and with whom I've been carrying on a geographically challenged friendship. Unfortunately, various gay business had paid people to distribute papers and flyers, but hadn't provide for their disposal, so the streets filled up with trash early on, and it only got worse later.
+
+Gregg and I went to the Sackler Gallery and viewed Chinese porcelains. As my friend Robin, who works at the National Gallery, said, it was delightful to have all these fags around who really appreciated the arts! Had a sherry in the Willard Hotel (which had a rainbow flag in one of the upper stories) and headed off to a rib joint in suburban Rockville, MD for some "suburban outreach" with 25 male.bears. People seemed to take it in stride; doubtless many of them did not associate us with those other (twink) gays that were so numerous. One beardless teen who was there with hsi family seemed to be unusually interested in the goings on and in Steve Dyer's apparatus ;-).
+
+Metroed back for a reception with the Radical Faeries, which was sort of old home week, with folk from SF, LA, Short Mountain, and points East. Harry Hay, now 80 and radical as ever, was there and marched with the faeries on Sunday.
+
+## Saturday
+
+Saturday my feet were already hurting, so I didn't make the round trip from the Smithsonian to the Bears at Lincoln Memorial, though I heard good reports later. I contented myself with viewing the younger cherry trees near the tidal basin, and the National Tulip "Library," in full bloom. Got a pansy from one of the fairies, and used it as a living boutonierre for the rest of the day. Met my friend Robin for a day of art viewing and dish about the sexual habits of modern artists. The art museum that shares quarters with the National Portrait Gallery had the painting of Paul Cadmus and of a Lesbian artist of the 30's whose name I should know, but alas has escaped me. The went to the faery circle at the Ellipse, which was attended by all sorts of people, most of whom I did not know, being Easterners or onlookers or both. Lots of energy which tended to dissipate itself in wild spiral dancing which turned into "crack the whip." Later the mass settled into mini-circles in which faeries got acquainted, re-acquainted, kissed, etc. Two of the two people I connected with immediately hailed from Memphis. It seemed that probabilities were being amplified all weekend, in strange unpredictable ways. I met a former pen-pal with whom I'd lost touch, and had dinner together and talked of Anne Rice and Annie Dillard and companionships.
+
+## Sunday
+
+Sunday of the March, I got into the camouflage skirt I had gotten from Radical Faerie Fabrications ( instantiating a vision that Harry Hay had once had, of a troupe of faeries twirling their skirts in unison in front of the White House), and eventually found the gay Boeing group "BEAGLES" at the South end of the Ellipse with the other groups from Washington state. (We're here! We're Queer! and we drink Latte's! rejoindered the WH! WQ! and we're from Kansas! from the group behind us).
+
+I marched with them because they were the least numerous of my potential contingents and needed reinforcements the most. Never did connect with an identified soc.motss contingent; Boeing, Bears, and Radical Faeries seemed to be all the identities I could deal with at once.
+
+At the assembly ground, I met Joe M., an old flame from lates 70's SF, now heterosexually married in Dayton, Ohio (!), having lost a gay lover to AIDS three years ago. A quiet hug amidst the general noise...
+
+### logicticoconstipo
+
+The logistics of the march were really constipated, and we spent about three hours being shunted aside. With that many people (certainly over 500K, perhaps twices as many as in MOW87), there should have been several parallel march routes. As it was, people were still entering the Mall at 6:30 after all the speechifying was over. The aerial photos show gaps in the central Mall, because most of the crowd is under the trees in the shade! Spent most of the time on the mall trying to re-hydrate at the
+
+Natural History cafeteria and trading massages with faeries. A nice new connection with an otter from Quebec, though these distant connections are problematic for me: since I am constitutionally monogamous and not rich enough to be a jetsetter, I am loath to start something with someone who lives so far away. All the same, it was a passing delight.
+
+Dupont after the march was festive and surprisingly low-key. Doubtless some folk had started back to early mornings along the Eastern seaboard, and some highrollers were at \$100 ticket entertainments. The evening was pleasant, and the circle filled with impromptu drumming, dancing, and good-natured street entertainment, as well as merchants offering final clearance on MOW-wares.
+
+Talked a bit with Mildred, who works on a gay pagan Sanctuary in Wisconsin \[Kawashaway?\] similar to the one I help out with in Oregon. The metro station was full of cheers, and every time a train came in, I though my highschool football team had scored. People were singing all the way back to the burbs, mostly unspeakable stuff like 70's TV themesongs, a least common denominator of the culture. I was in no mood to elevate their taste, even as we emerged from the tunnels, and I probably didn't have the notes for a Queen of the Night, so well enough was left alone.
+
+## Monday
+
+The skies were full again on Monday morning, but by now, it was more subdued, just gentle looks at folks who shared the same sunburns and the same benevolent expressions.

@@ -1,0 +1,185 @@
+<HTML>
+<!-- hide
+function queryClimbsDB(Branch,Class) {
+
+var currDate=new Date()
+var queryString="/mountaineers/"
+var queryHost="http://larch.forest.net"
+
+queryString+="FMPro?-DB=Trips98_.fp4"
+queryString+="&-Format=trip_schedule2.htm"
+queryString+="&-Lay="
+queryString+=escape("Trip Signup View")
+queryString+="&-Op=gt"
+queryString+="&Date="
+queryString+=1+currDate.getMonth() 
+queryString+="/"
+queryString+=currDate.getDate()
+queryString+="/"
+queryString+=currDate.getYear()
+if (Class != "") {
+   queryString+="&TripClass="
+   queryString+=Class
+   }
+if (Branch != "") {
+   queryString+="&Branch="
+   queryString+=Branch
+   }
+queryString+="&-Max=20"
+queryString+="&-SortField=Date"
+queryString+="&-Find"
+
+// alert(queryString)
+ 
+window.location = queryHost + queryString
+}
+
+// unhide -->
+<!--This file created 14/12/98 18:25 by Claris Home Page version 3.0-->
+<HEAD>
+   <TITLE>Current Climbing Schedules</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 3.0">
+   <X-CLARIS-WINDOW TOP=0 BOTTOM=0 LEFT=0 RIGHT=0>
+   <X-CLARIS-TAGVIEW MODE=minimal>
+<SCRIPT language="JavaScript">
+<!-- hide
+function queryClimbsDB(Branch,Class) {
+
+var currDate=new Date()
+var queryString="/mountaineers/"
+var queryHost="http://larch.forest.net"
+var yrString = (currDate.getYear() < 1900) ? currDate.getYear() + 1900 :
+currDate.getYear();
+
+queryString+="FMPro?-DB=Trips98_.fp4"
+queryString+="&-Format=trip_schedule2.htm"
+queryString+="&-Lay="
+queryString+=escape("Trip Signup View")
+queryString+="&-Op=gt"
+queryString+="&Date="
+queryString+=1+currDate.getMonth() 
+queryString+="/"
+queryString+=currDate.getDate()
+queryString+="/"
+queryString+=yrString
+if (Class != "") {
+   queryString+="&TripClass="
+   queryString+=Class
+   }
+if (Branch != "") {
+   queryString+="&Branch="
+   queryString+=Branch
+   }
+queryString+="&-Max=20"
+queryString+="&-SortField=Date"
+queryString+="&-Find"
+
+window.location = queryHost + queryString
+}
+
+// unhide --></SCRIPT>
+</HEAD>
+<BODY BGCOLOR="#E5ECEF">
+<H2>Current Climbing Schedules
+
+<HR SIZE=8>
+
+</H2>
+
+<CENTER><TABLE BORDER=1 CELLPADDING=0 WIDTH=500 HEIGHT=66><CAPTION ALIGN="TOP"><B>Seattle climbs by type</B></CAPTION>
+   <TR>
+      <TD WIDTH="22%" HEIGHT=18>
+         <P>&nbsp;<A HREF="javascript:queryClimbsDB('Seattle','BAS')">Basic
+         Climbs</A></P>
+      </TD>
+      <TD WIDTH="28%" HEIGHT=18>
+         <P>&nbsp;<A HREF="javascript:queryClimbsDB('Seattle','Int')">Intermediate
+         Climbs</A></P>
+      </TD>
+      <TD WIDTH="23%" HEIGHT=18>
+         <P>&nbsp;<A HREF="javascript:queryClimbsDB('Seattle','CLUB')">Club
+         Climbs</A></P>
+      </TD>
+      <TD WIDTH="27%" HEIGHT=18>
+         <P>&nbsp;<A HREF="javascript:queryClimbsDB('Seattle','CRAG')">Crag
+         Climbs</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="22%" HEIGHT=18>
+         <P>&nbsp;Basic Rock Climbs</P>
+      </TD>
+      <TD WIDTH="28%" HEIGHT=18>
+         <P>&nbsp;Basic Glacier Climbs</P>
+      </TD>
+      <TD WIDTH="23%" HEIGHT=18>
+         <P>&nbsp;Basic Alpine Climbs</P>
+      </TD>
+      <TD WIDTH="27%" HEIGHT=18>
+         <P>&nbsp;Seminars</P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="22%">
+         <P>&nbsp;Intermediate Rock</P>
+      </TD>
+      <TD WIDTH="28%">
+         <P>&nbsp;Intermediate Ice</P>
+      </TD>
+      <TD WIDTH="23%">
+         <P>&nbsp;Intermediate Mountaineering</P>
+      </TD>
+      <TD WIDTH="27%">
+         <P>&nbsp;Climbing Outings</P>
+      </TD>
+   </TR>
+</TABLE>
+</CENTER>
+
+<H4><CENTER><TABLE BORDER=1 CELLPADDING=0 WIDTH=400 HEIGHT=41><CAPTION ALIGN="TOP"><B>Climbs by branch</B></CAPTION>
+   <TR>
+      <TD WIDTH="33%">
+         <P>&nbsp;<A HREF="javascript:queryClimbsDB('Bellingham','')">Bellingham
+         Climbs</A></P>
+      </TD>
+      <TD WIDTH="33%">
+         <P>&nbsp;<A HREF="javascript:queryClimbsDB('Everett','')">Everett
+         Climbs</A></P>
+      </TD>
+      <TD WIDTH="34%">
+         <P>&nbsp;<A HREF="javascript:queryClimbsDB('Olympia','')">Olympia
+         Climbs</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="33%">
+         <P>&nbsp;<A HREF="javascript:queryClimbsDB('Seattle','')">Seattle
+         Climbs</A></P>
+      </TD>
+      <TD WIDTH="33%">
+         <P>&nbsp;<A HREF="javascript:queryClimbsDB('Tacoma','')">Tacoma
+         Climbs</A></P>
+      </TD>
+      <TD WIDTH="34%">
+         <P>&nbsp;<A HREF="javascript:queryClimbsDB('Wenatchee','')">Wenatchee
+         Climbs</A></P>
+      </TD>
+   </TR>
+</TABLE>
+</CENTER></H4>
+
+<H4><CENTER>&nbsp;</CENTER></H4>
+
+<H4><CENTER>Climbing Outings</CENTER></H4>
+
+<P>Mountaineers Climbing Outings are usually extended trips to seldom
+visited areas. They differ from regular Basic and Intermediate climbs
+in not being part of the regular instructional program, though credit
+for objectives may often be obtained, with the approval of the
+appropriate basic or intermediate climbs subcommittee. These trips
+take place over a number of days, and the exact day and climbing
+objective is not normally decided until the trip is underway, though
+of course, several possible objectives and routes are normally listed
+in an announcement.</P>
+</BODY>
+</HTML>

@@ -1,18 +1,18 @@
 ---
 title: "Science videos physics shorts: odd & weird"
 source_domain: amasci.com
-source_path: physivds/1.html
+source_path: physvids/1.html
 order: 490
 reachable_from_entry: true
 images: 3
 internal_links: 17
-extracted: 2026-08-03T18:12:33Z
+extracted: 2026-08-07T05:53:49Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # Science videos physics shorts: odd & weird
 
-*Source page: `physivds/1.html`*
+*Source page: `physvids/1.html`*
 
 <table data-summary="nav links, google search window" width="100%">
 <colgroup>

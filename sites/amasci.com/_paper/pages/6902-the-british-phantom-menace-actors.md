@@ -1,0 +1,35 @@
+---
+title: "The British 'Phantom Menace' Actors"
+source_domain: amasci.com
+source_path: ~rkj/weekly/aa051799.htm
+order: 6902
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T05:59:41Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The British "Phantom Menace" Actors
+
+*Source page: `~rkj/weekly/aa051799.htm`*
+
+### The British *Phantom Menace* Actors
+
+Dateline: May 17, 1999
+
+*The Phantom Menace*, the highly-anticipated "prequel" to the [*Star Wars*](http://starwars.about.com) trilogy, offers a chance to give wide exposure to a number of fine British actors. But where have you seen them before on TV? Here's a quick guide to British TV appearances the various actors have made over the years.
+
+Liam Neeson ("Qui-Gon Jinn" in *The Phantom Menace*) technically is Irish, but has made a career in England for many years. He appeared in the 1983 mini-series *A Woman Of Substance* based on the Barbara Taylor Bradford novel. In 1987 he was in the TV movie *Sweet As You Are*. And it's worth noting (even though it's not British) that in 1984 he guest-starred in the *Miami Vice* episode, "When Irish Eyes Are Crying."
+
+Ewan McGregor's ("Obi-Wan Kenobi") television credits are closely linked to writer Dennis Potter. In Potter's 1993 series about the 1956 Suez crisis, *Lipstick On Your Collar*, McGregor played Mick Hopper. He made a return appearance in another Potter series, 1996's *Karaoke*. Prior to this, he appeared in the 1993 mini-series *Scarlet & Black*.
+
+Ian McDiarmid ("Senator Palpatine") is no stranger to the *Star Wars* universe, having first played the evil Emperor in *Return of the Jedi*. On television he was in Trevor Nunn's 1979 version of *Macbeth* (with Judi Dench and Ian McKellen) in the multiple roles of the Porter, Caithness, and Ross. Like Ewan McGregor, he appeared in Dennis Potter's *Karaoke*, playing "Oliver Morse." In 1998 he played a murder suspect in the Helen Baxendale mystery series *An Unsuitable Job For a Woman*. And just recently he appeared in the BBC/*Masterpiece Theatre* version of *Great Expectations*.
+
+Oliver Ford Davis ("Sio Bibble") first appeared as a priest in the women's P.O.W. series *Tenko*. In 1987 he guest-starred in the *Inspector Morse* episode "Second Time Around." In 1988 he appeared in the classic *A Very British Coup* where he played "Tweed." He was a prosecutor in 1994's *Kavanagh QC* series, and guest-starred in Steve Coogan's anthology comedy series *Coogan's Run* playing "Dr. Phillips" in the episode "Natural Born Quizzers." In 1996 he appeared in *A Royal Scandal*, a dramatization of the 18th Century feud between the Prince and Princess of Wales.
+
+Hugh Quarshie ("Captain Panaka") has a Shakespearean background having appeared in two 1980s BBC productions of the Bard, *Titus Andronicus* and *A Midsummer Night's Dream*. In 1988 he was a computer in the *Red Dwarf IV* episode "Polymorph II: Emohawk." Other comedy appearances include the 1993 *Comic Strip Presents* episode "Gregory: Diary of a Nutcase," and the 1995 episode of *Glam Metal Detectives*, "Give Me Your Money." He appeared in 1997's *Melissa*, and last year in *A Respectable Trade* with [Warren Clarke](aa092198.htm).
+
+Brian Blesssed (voice of "Boss Nass") is literally the man who has been in everything. He first starred on TV in *Z Cars* (pronounced "zed cars"), a landmark 1960s police series that was the *Hill Street Blues* of its time. In the great 1976 mini-series *I, Claudius* he was memorable as Augustus. And his larger-than-life persona was well put to use as Rowan Atkinson's father, Richard IV, in the original series of *The Black Adder*. His many, many guest-star appearances include two episodes of *The Avengers*, "The Superlative Seven" and "The Morning After;" two *Space:1999* episodes, "Death's Other Dominion" and "The Metamorph;" a 1977 episode of *Survivors*, "Law Of The Jungle;" an early *Blake's 7* episode, "Cynus Alpha;" a 1986 *Doctor Who* story, "Mindwarp;" a 1988 episode of *Boon*, "Banbury Blue;" and the 1991 *Lovejoy* episode, "Black Virgin of Vladimir."
+
+[**Previous Features**](mpreviss.htm)

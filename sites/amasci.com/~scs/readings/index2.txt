@@ -1,0 +1,65 @@
+Essays 
+
+This is a
+(somewhat random)
+collection of
+some of
+the longer essays I've posted to Usenet over the years,
+along with a few similarly long e-mail messages.
+
+On correctness:
+
+ comp.lang.c, 1995-08-17 
+
+On precedence vs. order of evaluation:
+
+ comp.lang.c, 1996-07-25 
+
+ comp.lang.c, 1996-07-28 
+
+ comp.lang.c, 2001-05-12 
+
+On undefined behavior:
+
+ comp.lang.c, 1995-03-11 
+
+ comp.lang.c, 1995-03-21 
+
+ comp.lang.c, 1998-11-05 
+
+On strings in C,
+and assigning them,
+and the choice between char * and char [] 
+for holding them:
+
+ comp.lang.c, 1998-09-26 
+
+On the difference between prefix and postfix ++ in C:
+
+ comp.lang.c, 1999-01-18 
+
+On the eternal question of whether " void main() " is acceptable,
+or whether main() must be declared as returning int :
+
+ comp.lang.c, 1996-08-23 
+
+ comp.lang.c, 1999-03-01 
+
+On the obscure but fascinating "inverse varargs problem":
+
+ comp.unix.wizards/comp.lang.c, 1989-06-04 
+
+ comp.lang.c, 1992-07-14 
+
+ mail message, 1993-03-07 
+
+On elegant vs. mundane software:
+
+ eskimo's lobby newsgroup, 1998-01-17 
+
+I probably won't always keep this index up-to-date,
+so if you like, you can
+ "click here" 
+for a guaranteed current list of files in this directory.
+
+ [back to scs home page]

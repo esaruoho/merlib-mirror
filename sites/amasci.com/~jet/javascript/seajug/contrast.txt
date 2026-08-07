@@ -1,0 +1,36 @@
+Contrasting Java and JavaScript 
+
+ Contrasting Java and JavaScript 
+
+ JavaScript 
+ Java 
+
+ Interpreted (not compiled) by client.
+ Compiled on server before execution on client.
+
+ Object-based. Code uses built-in, extensible objects, but no classes or
+inheritance.
+ Object-oriented. Applets consist of object classes with inheritance.
+
+ Lexically similar to C for operators and statements. Case sensitive.
+ Lexically similar to C for operators and statements. Case sensitive.
+
+ Code integrated with, and embedded in, HTML.
+ Applets distinct from HTML (accessed from HTML pages).
+
+ Variable data types not declared (loose typing).
+ Variable data types must be declared (strong typing).
+
+ Dynamic binding. Object references checked at run-time.
+ Static binding. Object references must exist at compile-time.
+
+ Can interact with Java applets.
+ Can interact with JavaScript.
+
+Here is a more detailed discussion of
+ Java 
+vs. JavaScript 
+
+ Browsers supporting JavaScript 
+
+ Up to overview page

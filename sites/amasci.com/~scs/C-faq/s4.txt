@@ -1,0 +1,44 @@
+Pointers 
+
+ 4. Pointers 
+
+ 4.2
+What's wrong with
+" char *p;
+*p = malloc(10); "?
+ 4.3
+Does *p++ increment p ,
+or what it points to?
+ 4.5
+I
+want to use
+a char * pointer
+to step over
+some int s.
+Why doesn't
+" ((int *)p)++; "
+work?
+ 4.8
+I have a function which accepts,
+and is supposed to initialize,
+a pointer,
+but
+the
+pointer in the caller remains unchanged.
+ 4.9
+
+Can I use a void ** pointer
+to pass a generic pointer
+to a function
+by reference?
+ 4.10
+I have a function
+which accepts a pointer to an int .
+How can I pass a constant
+like 5 to it?
+ 4.11
+Does C even have ``pass by reference''?
+ 4.12
+I've seen different methods used for calling functions via pointers.
+
+ top

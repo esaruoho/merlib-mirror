@@ -1,0 +1,108 @@
+---
+title: "Green Apple Cut With Swiss Army Knife"
+source_domain: amasci.com
+source_path: ~celia/greenapple.html
+order: 1914
+reachable_from_entry: false
+images: 7
+internal_links: 0
+extracted: 2026-08-07T05:55:39Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Green Apple Cut With Swiss Army Knife
+
+*Source page: `~celia/greenapple.html`*
+
+<table style="width:100%;" data-border="0" data-cellspacing="0" data-cellpadding="0" width="650">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<tbody>
+<tr data-valign="top" data-align="left">
+<td><img src="/clipart/pbi/c.gif" width="109" height="1" /></td>
+<td><img src="/clipart/pbi/c.gif" width="151" height="1" /></td>
+<td><img src="/clipart/pbi/c.gif" width="100" height="1" /></td>
+<td><img src="/clipart/pbi/c.gif" width="179" height="1" /></td>
+<td><img src="/clipart/pbi/c.gif" width="111" height="1" /></td>
+<td><img src="/clipart/pbi/c.gif" width="0" height="1" /></td>
+</tr>
+<tr data-valign="top" data-align="left">
+<td colspan="5" width="650"><p><em>Green Apple Cut With Swiss Army Knife</em><br />
+<br />
+<strong>The Very Edge Of Her Eye</strong><br />
+<br />
+Afterschool Macy curls up on his open sofa bed in her jeans without even having brushed her hair on the way there. There are spots of chocolate on the sheets when  they'd crumbled a bit of the Cadbury bar they'd shared last night during Star Trek.  They had already made each other come by hand and mouth and she was going to have to go home to dinner soon.<br />
+<br />
+The sun comes in through the window behind the couch and shines in a patch on her face, the shadow beginning at the very edge of her eye and casting over her face, the ray not quite splicing her sight of the tv showing afternoon cartoons.<br />
+<br />
+Lukas is in the kitchen now making her some macaroni and cheese with ketchup, which she loves; it really is just for her; he certainly won't eat it.  In another hour he will be sweating in a white apron in the busy restaurant kitchen where he works every day but Monday.  He will be thirty-one years old in April.<br />
+<br />
+But Saturday is Macy's best friend's sixteenth birthday party and she is trying to decide whether to go or come here after all.  She thinks she could go and bring Lukas back a piece of birthday cake, since Alison's mom always gives her some to take home.  Alison would be worse than pissed if she didn't go.   Anyway, Lukas doesn't need any sugar to add to the paunch on his belly.  She's afraid if it gets any bigger she won't be able to fit in his lap the best way anymore, and since it's the only way she ever comes too, it's really important.<br />
+<br />
+Badman and Robin is ending, and she can hear his spoon going around and around, stirring in the pot, the second before she falls asleep.<br />
+<br />
+<strong>Green Apple Cut With Swiss Army Knife</strong><br />
+<br />
+Macy and Alison hang up at 9:30, after half an hour on the phone going over chemistry homework and one or two other things.<br />
+<br />
+Things had been a little tense between them even before Alison came out as a lesbian. At seven they'd bonded over their mutual crush on Otis Redding's voice, though not his face, exactly, they agreed...what was next, now, would she have to pretend to get wet over Ani DiFranco?<br />
+<br />
+At first Macy'd thought Alison had just been weirded out about her relationship with Lukas, because he was so much older and because she'd actually done it first of everybody, she'd done it at fifteen and they'd agreed for a long time before that it wasn't a very likely thing for either of them to do, both bookish and flat chested, long hair, glasses, looking more like funky twelve year olds than high school sophomores.<br />
+<br />
+But then she'd done it, and it had been for her like changing worlds, and she understood from her new geography that it didn't matter, all that twelve year old stuff.<br />
+<br />
+She thought about what Alison would grow up like now that she was a lesbian for sure.  She saw a short hair cut, like that girl Kate had, a leather jacket, a plaid skirt.  She frowned at the few fakey details she was able to come up with, and then remembered the essential thing: no one had to be any certain way because of something like that, like sex.  Just because she was a 15 year old girl with a lover, she didn't think or act like a soppy adolescent chick with a fifteen year old boyfriend.  But it wasn't the age thing, just, either; it was just that she had mixed sex in to what she was, to her life, and it was beautiful and swirling, like the pattern of flour mixed into chocolate on top of brownies about to go into the oven.  The heat on her face, her anticipation, making them by herself in the house early in the evening.<br />
+<br />
+So now she wondered which part of Alison acting weird lately had been about her and which had been about her realizing she was a lesbian.  The lesbian thing wasn't so weird, although it would be weird to suddenly have to tell people about it when they'd known you forever. <br />
+<br />
+Sex for her wasn't like that, even though it was new.  She saw now it was like parts of her growing taller...like how she always like a to cut a granny smith apple with her swiss army knife and not anything else, and not eat it whole, like how she'd begged her mom when she was 10 to be allowed to have a lighted candle in the bathroom while she soaked in the bath tub, like her crush on Otis Redding's voice and not his face.<br />
+<br />
+She gets A's and is always home by five to five and she is happy and sleepy.<br />
+<br />
+<strong>The Storm, In Which She is Snow, Falling</strong><br />
+<br />
+During the Christmas concert, Macy stands next to a junior named Sophie.  Sophie has a velvet mini-skirt on under her Chorus robe.  Macy has on a Mr. Bubble t-shirt. They stand between trees of fake poinsettias. Macy doesn't think being on a school stage is such a big deal, though when she gets back into the gym after, she will realize her face is hot and red.  Christmas songs are a necessary evil, she thinks, and the Hanukkah song always seems to involve clapping.  But once they are singing, there is only the impulse of the music.  While they sing, it starts to snow.  And it doesn't stop snowing and doesn't stop and by 1 they have called the buses and the students press outside in a pack of steaming breath and sneakers into the already thickly piled snow.  Monster flakes stick to Macy's long hair.<br />
+<br />
+Her sneakers feel wet already.<br />
+<br />
+She almost doesn't get off at Lexington.<br />
+<br />
+But she can see his light on through the snow from half a block away and she can see his shadow by the window, like he is watching for her, and something inside her falls to her knees, and she reaches up to pull the rippling wire which makes the huge bus rumble to  stop, and the snow outside is falling, like a curtain, closed, and Macy sidesteps her way through the damp backpacks like they are boulders or sleeping dogs and when the doors flap open, wide wings, and she dives from the second step into the snow of the street and she lands on her feet.  But crossing, she slips and falls to her knees, and turning up his walkway she slips again, to her knees, and he is standing at the open door and he comes out to her in his socks, his arms open.<br />
+<br />
+He unzips her coat and takes it.  He kneels to undo her stiff shoelaces, and she stands on one foot while he peels off her wet socks.  She steps back into the scattering on little ice chips and even on her cold feet, they burn.  He strips off his own socks and then eases off his own jeans because they are wet up to his shins.  He unbuttons her jeans and slides them down, his big hands warming her chilled thighs.  He lifts her and carries her to the sofa bed which is spread open and there's a half a glass of ginger ale going stale on the side table and they lie down together and he says "Macy" and kisses her cheek and her body begins to burn.  She shuts her eyes for one minute and sees snow falling and then she is snow, falling.<br />
+<br />
+<strong>Star, Stare</strong><br />
+<br />
+At five to five she is home, warm, calm as a garden, and then the evening begins. She makes tea and puts potatoes in the oven to bake; it will take her parents another hour to get home through the snow.<br />
+<br />
+She is still feeling her body loosen and contract in waves and remembers how the longest part of his hair fell to brush her right cheek.  Macy keeps her teacup with her, even though it is cold, even though it is empty.<br />
+<br />
+In the long moment after the bath before bed; she stares at the towel slung over the curtain rod, how it is starburst with her dampness.<br />
+<br />
+In between the sheets of her bed she is like a pale piece of paper in a thin envelope which has been sliced open with an instrument so sharp, the edges are barely ripped, and you'd have to look so close to notice, you'd have to already be staring.</p></td>
+<td height="1752"></td>
+</tr>
+<tr data-valign="top" data-align="left">
+<td colspan="6" height="33"></td>
+</tr>
+<tr data-valign="top" data-align="left">
+<td height="22"></td>
+<td colspan="3" width="430"><p>This work and all work on this site Copyright 2000 Celia M. White.</p></td>
+<td colspan="2" height="22"></td>
+</tr>
+<tr data-valign="top" data-align="left">
+<td colspan="6" height="61"></td>
+</tr>
+<tr data-valign="top" data-align="left">
+<td colspan="2" height="25"></td>
+<td style="text-align: center;" width="100" data-valign="middle"><img src="home.gif" data-border="0" width="100" height="25" /></td>
+<td colspan="3" height="25"></td>
+</tr>
+</tbody>
+</table>

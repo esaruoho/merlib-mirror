@@ -1,0 +1,47 @@
+---
+title: "Amelia"
+source_domain: amasci.com
+source_path: ~vecna/amelia.html
+order: 9170
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T06:01:42Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Amelia
+
+*Source page: `~vecna/amelia.html`*
+
+# Amelia
+
+## by Christine Morgan
+
+------------------------------------------------------------------------
+
+\
+          The crescent moon had long since fled from the sky over the Forbidden Forest. The pinwheel of stars, Ariel's Jewel Box, gleamed against the black velvet backdrop of the night. An autumn wind stirred the treetops and set the fallen leaves to dancing.\
+         Within a sacred grove sat two figures, surrounded by all manner of forest creatures. Here, in this magical place, roles of predator and prey were forgotten. Asian, god of nature, kept the peace. The chill breeze did not penetrate the ring of trees; indeed, the grove was comfortably warm.\
+         Not that Belden was thinking about the external temperature. The elves knight, glowing with the silvery radiance of one of Ariel's blessed, had other things on his mind. He looked at the woman sewed near him, thoughts awhirl. From the tangled chaos came one clear thought: *She is beautiful .*\
+         She was. The god of the forests was kind to this daughter of his. Reddish-gold hair, tawny as a lion's mane and silky as an ermine's tail, spilled loose around her bare shoulders. Her eyes, as she gazed shyly a him from beneath long eyelashes, were green, as deep and full of secrets as the forest itself. Her gown was the color of new leaves, airy silk billowing from an off-the-shoulder neckline of gold embroidered with leafy vines. The neckline was low enough to offer a tempting show of the upper swells of her bosom, and the material caressed her body like a lover. She wore no jewelry save a fine gold chain supporting a gold pendant in the form of a lion's head.\
+        Belden drew a deep breath. He had seen Amelia dozens of times, perhaps hundreds, but he had never truly seen her until now. And never before had she been offering the gift she now did. He reached out and brushed a stray curl from her cheek, then tenderly gathered her into his arms. She melted against him and sought his lips in a kiss, one slim hand twining in his dark hair.\
+         *Aslan spoke to me*, she had said, after he had rescued her from the cold hands of death. *He has told me what I must do, and it is not something I can do alone. I would ask a favor of you, Belden. He says I must bear a son*. Her blush as she uttered those words had affected him in a way he never thought possible. Even now, the memory caused him to tighten his embrace, crushing her against his chest as he drank the sweetness of her lips. Her scent was evergreen, spiced cider, rainfall.\
+         One of his hands slipped upward from her waist to cup a firm breast. She sighed against his mouth and caught his wrist, pressing his hand closer. He bent his head, nuzzling her ear and kissing her arched throw. She breathed his name, and he fought to restrain himself from taking her that instant.\
+         He drew back, stunned by the intensity of his desire. Amelia stood, graceful as a doe, and unfastened her gown. Green silk whispered to the ground.\
+         Belden caught his breath a the sight of her unadorned beauty. He rose to his feet, silently praying to Ariel for guidance. Oh, Silver Lady, let this be right.\
+         Amelia moved to him and helped him unbuckle his chainmail. He quickly shed the rest of his clothes, and again took her in his arms. She raised her head for a kiss, and her long hair brushed against the arm around her waist. His free hand caressed her side from breast to hip. Her lips parted beneath the gentle pressure of his. Their tongues touched lightly, withdrew, touched again, as if fencing. He broke the kiss and looked down at her. She met his gaze, trust and longing visible in her eyes. Her hand touched his cheek, traced the line of his jaw.\
+         "Run free with the night, my wolf," she whispered. "This night, the forest is ours."\
+         Belden lowered her to the cool grass and knelt beside her. He stroked her skin, marveling a its softness. Amelia trembled at his touch. She pulled his head down and kissed his lips; kissed the side of his neck and nipped gently. He caught the side of her face in his hand and kissed her with an almost savage passion. Her arms wrapped willingly around his neck. He dropped his head to her breasts and began kissing them, teasing the rosy nipples with his tongue and suckling a them until Amelia was gasping in need.\
+         He poised himself over her, strong arms supporting himself. His rigid manhood brushed against the satin smoothness of her thigh, probed urgently a the flower of her womanhood. He closed his eyes and called up an image of Jaenyth in his mind, tousled chestnut curls, brown eyes, lithe warrior's body.\
+         No, he said to himself. This is not Jaenyth. Jaenyth has no part in this. This is Amelia.     He opened his eyes and looked down at her, her hair spread out in a fan against the grass. For a moment, he wondered if she saw Geoffrey in her mind, but one glance in her deep green eyes told him differently. He thrust smoothly forward and was enfolded in her warmth.\
+         Amelia arched her back, murmuring his name as her hands clutched his shoulders. He wrapped his arms around her, capturing her lips in a kiss as he slowly rocked his hips. She moved beneath him in perfect rhythm, stroking his back and buttocks. His long hair fell forward and mingled with hers. He was only beginning to quicken the pace of their coupling when she cried out in pleasure, tightening her legs around him as she shook in release.\
+         Belden paused, allowing her a moment to recover while he struggled for control. Her eyes were shut, and tears of joy and wonder glimmered at the corners. He kissed them away, then slowly began to move within her again.\
+         *So soon?* he thought, amazed. *How long has it been for her, out here alone? Oh, Geoffrey, my fine Glantri lord, you were a fool to let this one go!*\
+         He rained kisses on her face and her neck, moving faster until she was breathless with passion. Twice more she shuddered in exquisite response before he was unable to hold back any longer. He pressed hoedown against the grass, caning her name and spilling his seed into her silken depths. Stars flared behind his eyes at the power of his release.\
+         In the distance, they heard the howl of a wolf.\
+
+------------------------------------------------------------------------
+
+\
+*Copyright 1992 by Christine Morgan*\

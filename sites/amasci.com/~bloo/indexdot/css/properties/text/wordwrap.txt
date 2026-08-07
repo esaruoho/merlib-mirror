@@ -1,0 +1,73 @@
+Word-Wrap - Cascading Style Sheets Properties 
+
+ word-wrap 
+ Support Key: 
+ [ IE5.5B1 ] 
+ Other Text Properties 
+
+ word-spacing 
+ letter-spacing 
+ white-space 
+ text-align 
+ text-align-last 
+ text-decoration 
+ text-transform 
+ text-shadow 
+ text-indent 
+ text-underline-position 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ normal 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property specifies whther the current rendered line should break
+ if the content exceeds the boundary of the specified rendering box for
+ an element (this is similar in some ways to the 'clip' and 'overflow'
+ properties in intent.) This property should only apply if the element
+ has a visual rendering, is an inline element with explicit height/width,
+ is absolutely positioned and/or is a block element.
+
+ Allowed Values 
+ normal 
+ [ IE5.5B1 ] 
+ Type: Explicit 
+ Description: 
+ Content will exceed the boundaries of the specified rendering box. 
+
+ break-word 
+ [ IE5.5B1 ] 
+ Type: Explicit 
+ Description: 
+ Content will wrap to the next line when necessary, and a word-break will
+ also occur if needed. 
+
+ Example 
+ Ext/Doc: div {
+ word-wrap: break-word } 
+ In-Line:&#160; < div 
+ STYLE =" word-wrap: 
+ break-word">This is the text content of this div
+ element</ div > 
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

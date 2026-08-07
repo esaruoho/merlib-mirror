@@ -1,0 +1,25 @@
+NetMind E-mail Reminder Service 
+
+ NetMind E-mail Reminder Service 
+ = Index DOT Html by Brian Wilson 
+[ indexdot@blooberry.com ] = 
+
+ Index DOT Html: 
+ Main Index | Element Tree | 
+ Element Index | HTML Support 
+ History 
+ Index DOT Css: Main Index |
+ Property Index | 
+ CSS Support History |
+ Browser History 
+
+ NetMind E-mail Reminder Service 
+
+ &#160;&#160;&#160;Powered&#160;by&#160; NetMind &#160;&#160;&#160; 
+ Click Here 
+
+ NetMind is a free method of automatic e-mail notification of when a 
+ web page or site updates its content. Just follow the NetMind logo 
+ below and register to be notified when these pages are changed. 
+
+ Boring Copyright Stuff...

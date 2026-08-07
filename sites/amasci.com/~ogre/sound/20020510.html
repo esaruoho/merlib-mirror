@@ -1,0 +1,786 @@
+<HTML><!-- #BeginTemplate "/Templates/amps.dwt" -->
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<LINK rel="stylesheet" href="../2003.css" type="text/css">
+<!-- #BeginEditable "doctitle" --> 
+<TITLE>Sound Engineering - Compression - A Simple Explanation</TITLE>
+<!-- #EndEditable -->
+<!-- #BeginEditable "description" --> 
+<META name="description" content="A compressor is basically a variable gain device that is used to either try to smooth out the dynamic range of a signal, or is also sometimes used as an effect.&nbsp; Different compressors have different types of characteristics and sounds that they impart to the source signal as well... the really expensive compressors are often expensive because of the character of their sound that is desirable for a lot of applications.">
+<!-- #EndEditable -->
+<!-- #BeginEditable "keywords" --> 
+<META name="keywords" content="guitar, lessons, online, bass, free, chords, tuning">
+<!-- #EndEditable --> 
+<SCRIPT>if (window!= top) top.location.href=location.href</SCRIPT>
+</HEAD>
+
+<BODY bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<a name="top"></a> 
+<script language="JavaScript" src="../burst.js">
+</script>
+<table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr> 
+    <td><a href="http://www.guitarnoise.com/"><img src="../images/logo_home.gif" width="274" height="80" border="0" alt="Guitar Noise - Free Guitar Lessons"></a></td>
+    <td> 
+      <!-- BEGIN RICH-MEDIA BURST! CODE -->
+      <script language="JavaScript">
+<!--
+ShowBurstAd('ad8117a','468','60');
+// --></script>
+      <noscript><a href="http://www.burstnet.com/ads/ad8117a-
+map.cgi/ns" target="_top"><img src="http://www.burstnet.com/cgi-
+bin/ads/ad8117a.cgi/ns" width="468" height="60" 
+border="0" alt="Click Here"></a> </noscript> 
+      <!-- END BURST CODE -->
+    </td>
+  </tr>
+</table>
+<table cellspacing=0 cellpadding=0 width=770 border=0 align="center">
+  <tbody> 
+  <tr> 
+    <td align=center><a 
+      href="http://www.guitarnoise.com/index.html"><img height=17 
+      alt="Home" src="../images/home_off.gif" width=90 
+      border=0></a><a href="http://www.guitarnoise.com/guitar/index.html"><img 
+      height=17 alt=Guitar src="../images/guitar_off.gif" width=81 
+      border=0></a><a href="http://www.guitarnoise.com/bass/index.html"><img 
+      height=17 alt=Bass src="../images/amps_bass_off.gif" width=81 
+      border=0></a><a 
+      href="http://www.guitarnoise.com/amps/index.html"><img height=17 
+      alt="Amps" src="../images/amps_on.gif" width=119 
+      border=0></a><a 
+      href="http://www.guitarnoise.com/songwriting/index.html"><img height=17 
+      alt=Songwriting src="../images/amps_songwriting_off.gif" width=119 
+      border=0></a><a 
+      href="http://www.guitarnoise.com/otherside/index.html"><img height=17 
+      alt="The Other Side" src="../images/home_otherside_off.gif" 
+      width=145 border=0></a></td>
+  </tr>
+  </tbody> 
+</table>
+<table cellspacing=0 cellpadding=0 width="770" border=0 align="center">
+  <tbody> 
+  <tr> 
+    <td valign=center noWrap align=middle 
+      height=16 bgcolor="#336699"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr bgcolor="#336699"> 
+          <td nowrap bgcolor="#336699"> <img src="../images/blue_left.gif" width="16" height="15"><img height=12 
+      src="../images/transparent.gif" width=112></td>
+          <td nowrap bgcolor="#336699"> <a class=menu1 
+      href="http://www.guitarnoise.com/new.html">WHAT&#146;S NEW</a></td>
+          <td nowrap bgcolor="#336699"> <img height=12 alt="" 
+      src="../images/transparent.gif" width=18></td>
+          <td nowrap bgcolor="#336699"> <a class=menu1 
+      href="http://www.guitarnoise.com/about/index.html">ABOUT US</a></td>
+          <td nowrap bgcolor="#336699"> <img height=12 alt="" 
+      src="../images/transparent.gif" width=18></td>
+          <td nowrap bgcolor="#336699"> <a class=menu1 
+      href="http://www.guitarnoise.com/forum/index.html">FORUMS</a></td>
+          <td nowrap bgcolor="#336699"> <img height=12 alt="" 
+      src="../images/transparent.gif" width=18></td>
+          <td nowrap bgcolor="#336699"> <a class=menu1 
+      href="http://www.guitarnoise.com/links/tab.html">GUITAR TAB</a></td>
+          <td nowrap bgcolor="#336699"> <img height=12 alt="" 
+      src="../images/transparent.gif" width=18></td>
+          <td nowrap bgcolor="#336699"> <a class=menu1 
+      href="http://www.guitarnoise.com/reviews/index.html">REVIEWS</a></td>
+          <td nowrap bgcolor="#336699"> <img height=12 alt="" 
+      src="../images/transparent.gif" width=18></td>
+          <td nowrap bgcolor="#336699"> <a class=menu1 
+      href="http://www.guitarnoise.com/pick/index.html">INTERVIEWS</a></td>
+          <td nowrap bgcolor="#336699"><img height=12 alt="" 
+      src="../images/transparent.gif" width=18></td>
+          <td nowrap bgcolor="#336699"><a class=menu1 
+      href="http://www.guitarnoise.com/help/index.html">HELP</a></td>
+          <td nowrap bgcolor="#336699"><img height=12 alt="" 
+      src="../images/transparent.gif" width=18></td>
+          <td bgcolor="#336699" align="right" nowrap width="100%"><img src="../images/blue_right.gif" width="16" height="15"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  </tbody> 
+</table>
+<table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr> 
+    <td><img height=8 alt="" 
+      src="../images/transparent.gif" width=12></td>
+  </tr>
+  <tr> 
+    <td> 
+      <table cellspacing=0 cellpadding=0 width="100%" border=0>
+        <tbody> 
+        <tr height=1> 
+          <td valign=top align=left colspan=3 height=1 bgcolor=#000000><img height=1 
+      alt="" src="../images/transparent.gif" 
+width=200></td>
+        </tr>
+        </tbody> 
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="770" border="0" align="center">
+  <tr> 
+    <td width="130" valign="top"> 
+      <table cellspacing=0 cellpadding=0 border=0>
+        <tbody> 
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td noWrap><a class=menu2 
+            href="http://www.guitarnoise.com/tour/index.html"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=7 
+            border=0>&nbsp;<strong>Site Tour</strong></a></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=dotted> 
+          <td height=1><img height=1 alt="" src="../images/transparent.gif" 
+            width=1></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td noWrap><a class=menu2 
+            href="http://www.guitarnoise.com/beginner/index.html"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=8 
+            border=0>&nbsp;Beginners Songs</a></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=dotted> 
+          <td height=1><img height=1 alt="" src="../images/transparent.gif" 
+            width=1></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td noWrap><a class=menu2 
+            href="http://www.guitarnoise.com/columns/index.html"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=7 
+            border=0>&nbsp;Guitar Columns</a></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=dotted> 
+          <td height=1><img height=1 alt="" src="../images/transparent.gif" 
+            width=1></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td noWrap><a class=menu2 
+            href="http://www.guitarnoise.com/guitar/index.html"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=7 
+            border=0>&nbsp;Guitar Lessons</a></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=dotted> 
+          <td height=1><img height=1 alt="" src="../images/transparent.gif" 
+            width=1></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td noWrap><a class=menu2 
+            href="http://www.guitarnoise.com/bass/index.html"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=7 
+            border=0>&nbsp;Bass Lessons</a></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=dotted> 
+          <td height=1><img height=1 alt="" src="../images/transparent.gif" 
+            width=1></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td noWrap><a class=menu2 
+            href="http://www.guitarnoise.com/songwriting/index.html"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=7 
+            border=0>&nbsp;Songwriting</a></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=dotted> 
+          <td height=1><img height=1 alt="" src="../images/transparent.gif" 
+            width=1></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td noWrap><a class=menu2 
+            href="http://www.guitarnoise.com/sound/index.html"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=7 
+            border=0>&nbsp;Sound Engineering</a></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=dotted> 
+          <td height=1><img height=1 alt="" src="../images/transparent.gif" 
+            width=1></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td noWrap><a class=menu2 
+            href="http://www.guitarnoise.com/otherside/index.html"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=7 
+            border=0>&nbsp;The Other Side</a></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=dotted> 
+          <td height=1><img height=1 alt="" src="../images/transparent.gif" 
+            width=1></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td noWrap><a class=menu2 
+            href="http://www.guitarnoise.com/help/expert.html"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=7 
+            border=0>&nbsp;Ask The Expert</a></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=dotted> 
+          <td height=1><img height=1 alt="" src="../images/transparent.gif" 
+            width=1></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td noWrap><a class=menu2 
+            href="http://www.guitarnoise.com/pick/index.html"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=7 
+            border=0>&nbsp;Interviews</a></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=dotted> 
+          <td height=1><img height=1 alt="" src="../images/transparent.gif" 
+            width=1></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td noWrap><a class=menu2 
+            href="http://www.guitarnoise.com/reviews/index.html"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=7 
+            border=0>&nbsp;Reviews</a></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=dotted> 
+          <td height=1><img height=1 alt="" src="../images/transparent.gif" 
+            width=1></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td noWrap><a class=menu2 
+            href="http://www.guitarnoise.com/books/index.html"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=8 
+            border=0>&nbsp;Books</a></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=dotted> 
+          <td height=1><img height=1 alt="" src="../images/transparent.gif" 
+            width=1></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td noWrap><a class=menu2 
+            href="http://www.linksmanager.com/guitarnoise/"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=8 
+            border=0>&nbsp;Links</a></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=blackline> 
+          <td height=1><img height=1 alt="" src="../images/transparent.gif" 
+            width=1></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr> 
+          <td height=3><img height=3 alt="" src="../images/transparent.gif" 
+            width=3></td>
+        </tr>
+        <tr class=search valign=top align=left> 
+          <form action=http://search.atomz.com/search/>
+            <td class=search noWrap> 
+              <div align=left><a class=boxhead 
+            href="http://www.guitarnoise.com/search.html">Search</a> <br>
+                <img height=4 alt="" 
+            src="../images/transparent.gif" width=6><br>
+                <input 
+            class=searchbox maxlength=30 size=16 name=sp-q>
+                <br>
+                <input 
+            type=image height=18 alt=Search width=45 
+            src="../images/searchbtn.gif" vspace=3 value=Search 
+            border=0 name=search>
+                <br>
+                <a class=menu2 
+            href="http://www.guitarnoise.com/search.html"><img 
+            height=8 alt="" src="../images/tri_grey.gif" width=8 
+            border=0>&nbsp;Advanced Search</a> 
+                <input 
+            type=hidden value=sp080eae00 name=sp-a>
+              </div>
+            </td>
+          </form>
+        </tr>
+        </tbody> 
+      </table>
+    </td>
+    <td><img height=8 alt="" 
+      src="../images/transparent.gif" width=8></td>
+    <td valign="top"> 
+      <table cellspacing=0 cellpadding=0 width="100%" border=0>
+        <tbody> 
+        <tr> 
+          <td valign=center width="100%" colspan=2> 
+            <p class="small"><strong>You are here:</strong>&nbsp;<a class=menu3 
+      href="http://www.guitarnoise.com">Home</a>, <!-- #BeginEditable "location" --><A href="../amps/index.html" class="menu3">Amps 
+              &amp; EFX</A>, <A class=menu3 
+      href="index.html">Sound Engineering</A>, Compression - A Simple Explanation<!-- #EndEditable --></p>
+          </td>
+        </tr>
+        <tr> 
+          <td bgcolor=#000000 colspan=2 height=1><img height=1 alt="" 
+      src="../images/transparent.gif" width=1></td>
+        </tr>
+        <tr> 
+          <td colspan=2 height=12><img height=12 alt="" 
+      src="../images/transparent.gif" width=12></td>
+        </tr>
+        <tr valign=top> 
+          <td colspan="2"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="100%"> 
+                  <h1><!-- #BeginEditable "title" -->Compression - A Simple Explanation<!-- #EndEditable --></h1>
+                  <!-- #BeginEditable "insert" --> 
+                  <TABLE width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <TR> 
+                      <TD> 
+                        <P><B>Published</B> May 5, 2002<BR>
+                          <b>by <a href="mailto:stephen@music-tech.com">Stephen 
+                          Sherrard</a> and <a href="http://www.music-and-technology.com" target="_blank">Music-And-Technology.com</a></b></P>
+                      </TD>
+                      <TD align="right"> 
+                        <P><A href="../print/sound/20020510.html">Print this page<IMG src="../images/printer.gif" width="22" height="16" border="0" alt="Get a printer friendly version of this page"></A><BR>
+                          <A href="../about/recommend.html">Email to a Friend 
+                          <IMG src="../images/email.gif" width="22" height="16" border="0"></A> 
+                          <BR>
+                          <A href="javascript:void(0);" onClick='window.external.AddFavorite(location.href, document.title);'>Bookmark 
+                          this page <IMG src="../images/bookmark.gif" height="16" border="0" alt="Bookmark this page" width="16"></A> 
+                        </P>
+                      </TD>
+                    </TR>
+                  </TABLE>
+                  <p><b>Editor's Note:</b> A while back, I wrote a short piece 
+                    on <a href="20000829.html">the use of compressors</a>, mainly 
+                    suggesting that you should avoid them, or at least use extreme 
+                    caution. While I still think this is true for the beginner, 
+                    the better answer is to learn how to use a compressor properly. 
+                    The following article is a very good description of how a 
+                    compressor works, and how and when to use it. It is written 
+                    from a recording point of view, but much of it applies to 
+                    live performance as well. Many thanks to those readers who 
+                    wrote in requesting this lesson. <br>
+                    -Dan Lasley<br>
+                  </p>
+                  <hr color="#000000" noShade>
+                  <p><font color="#ff0000" size="2"> copyright 2000-2002, <a href="http://www.dbar-productions.com">DBAR 
+                    Productions</a><br>
+                    Reprinted with Permission at GuitarNoise.com.&nbsp; <br>
+                    This content may be downloaded for personal use only, and 
+                    may not be reprinted in part or in whole in any form without 
+                    the express written consent of Stephen Sherrard and DBAR Productions</font></p>
+                  <hr color="#000000" noShade>
+                  <p>A compressor is basically a variable gain device that is 
+                    used to either try to smooth out the dynamic range of a signal, 
+                    or is also sometimes used as an effect.&nbsp; Different compressors 
+                    have different types of characteristics and sounds that they 
+                    impart to the source signal as well... the really expensive 
+                    compressors are often expensive because of the character of 
+                    their sound that is desirable for a lot of applications.</p>
+                  <p>Basically, the way a compressor works is that there is a 
+                    threshold control that determines at what signal level the 
+                    compressor starts working it's magic.&nbsp; Any signal that 
+                    exceeds this threshold level is attenuated (reduced in volume) 
+                    in proportion to whatever the compression ratio is set at.&nbsp; 
+                    For example, if the ratio is set at 2:1, that means that for 
+                    every 2db change of signal level above the threshold from 
+                    the source input, the compressor will only output a 1db change.&nbsp; 
+                    If you set the compressor at very high ratios or 20:1 or more, 
+                    then you are getting into what is more commonly termed limiting, 
+                    because basically at that point the compressor/limiter is 
+                    not allowing the signal to rise at all above the threshold 
+                    level, thus &quot;limiting&quot; the output to a certain level.&nbsp; 
+                    In digital recording, a limiter is sometimes handy to prevent 
+                    clipping the signal in the digital domain by not allowing 
+                    it to exceed a certain threshold.&nbsp;&nbsp;</p>
+                  <p>Other controls you will see on some compressors are &quot;attack&quot;, 
+                    &quot;release&quot; and &quot;knee&quot; settings.&nbsp; The 
+                    attack time determines how quickly the compressor reacts to 
+                    a signal once it crosses the threshold level.&nbsp; The release 
+                    time determines how much time it takes for the compressor 
+                    to return to it's zero gain state once the signal passes back 
+                    below the threshold.&nbsp; The knee setting determines whether 
+                    the compressor works only on signals that are above the exact 
+                    threshold level, or if it starts kicking in gradually as the 
+                    signal level approaches the threshold.&nbsp; &quot;Soft Knee&quot; 
+                    settings will allow the compressor to start kicking in gradually 
+                    as the level approaches the threshold, and is desirable for 
+                    certain types of material, while &quot;hard knee&quot; settings 
+                    will not affect the audio at all until it reaches/passes the 
+                    threshold level, and is also desirable for certain types of 
+                    material.&nbsp; Some compressors also have input and output 
+                    gain controls.&nbsp; Many compressor have automatic settings 
+                    for attack and release times that are based on the incoming 
+                    signal itself.</p>
+                  <p>Learning how to use a compressor properly takes a lot of 
+                    practice and experimentation.&nbsp; If you set the compressor 
+                    wrong, you can get a &quot;pumping&quot; effect where you 
+                    actually here the compressor reducing the gain and then bringing 
+                    the gain back up, repeatedly.&nbsp; If you aren't going for 
+                    a special effect, then the best compressors and settings are 
+                    when it does its job but you can't hear it working.&nbsp; 
+                    If you can hear it, then you've gone too far (usually).&nbsp; 
+                    For special effects, sometime people will purposely overdrive 
+                    a compressor to either make it distort (popular with many 
+                    tube compressor where you get a certain type of tube distortion) 
+                    or to simply impart a certain unnatural sound on a source.&nbsp; 
+                    A common application of this is to set up some room microphones 
+                    for a drum kit (in a good sounding room) and then run the 
+                    room microphones through a compressor set to really extreme 
+                    settings.&nbsp; This really over emphasizes the reflections 
+                    and ambience from the room and can make a drum set sound really 
+                    big when blended in properly with the rest of the drum tracks.&nbsp; 
+                    Other people have used compressors set to extreme settings 
+                    to purposely distort vocals or other instruments.&nbsp; Sometimes 
+                    tracking or mixing engineers will use several compressors 
+                    one after another to really flatten out a vocal or instrument 
+                    performance, without trying to go for an extreme effect.&nbsp; 
+                    The first compressor is usually set to mild settings with 
+                    a lower ratio to do a little bit of smoothing out, and then 
+                    the next compressor will be set to act as more of a limiter 
+                    to catch the bigger peaks that make it through the first compressor.&nbsp; 
+                    Some compressors have a second limiting stage built into them 
+                    that emulates this type of set up.</p>
+                  <p>There is no right or wrong way to use a compressor, but it 
+                    takes a some practice and experience to get the sounds you 
+                    are after.&nbsp; Pop and rock music uses a lot of compression.... 
+                    the individual tracks are usually compressed during tracking, 
+                    and then often again during mixing, then the overall mix is 
+                    usually compressed, and then it is compressed again during 
+                    the mastering stage, plus if it is broadcast over radio, the 
+                    radio station has its own compressors that the signal runs 
+                    through first.&nbsp; Classical and Jazz music, plus a lot 
+                    of acoustic type of music, is usually not compressed, or at 
+                    least not nearly as much.&nbsp; Again, there are no rules, 
+                    and many people do things many different ways.</p>
+                  <h2>MORE DETAILS</h2>
+                  <p>The loudness of a signal to our ears is mostly determined 
+                    by the average, or rms, level of the signal.&nbsp; Large, 
+                    short-duration peaks in a signal usually will not make a noticeable 
+                    difference in our perceived loudness of a signal.&nbsp; The 
+                    purpose of a compressor, then, is to help smooth out the dynamics 
+                    of the rms level of a signal to make it appear to have a more 
+                    consistent loudness to our ears.&nbsp; Using a compressor, 
+                    you can actually make a signal appear to be louder since you 
+                    can reduce the overall dynamic range (the difference between 
+                    the softest parts and the loudest parts) and then bring up 
+                    the overall average level (using the make up or output gain 
+                    control) without overdriving your recording or playback medium.&nbsp; 
+                    This is the most common use for a compressor, especially during 
+                    the tracking stage.&nbsp; When recording to analog tape, the 
+                    engineers want to keep the signal level as hot as possible 
+                    without overdriving the tape and causing distortion.&nbsp; 
+                    If the signal level is too low, then you begin to hear the 
+                    tape hiss.&nbsp; Thus, engineers employed the use of compressors 
+                    to allow them to decrease the overall dynamic range of a source 
+                    and then record it to tape at a much hotter level without 
+                    having to worry so much about possibly overdriving the tape.&nbsp; 
+                    In essence, by making the louder parts quieter, the average 
+                    level to tape can be increased without distorting or clippling, 
+                    and the softer parts are thus raised up even further away 
+                    from the noise floor (tape hiss).&nbsp; The use of compressors 
+                    while tracking has carried over into the digital age as well.&nbsp; 
+                    In the digital world, you don't have to worry about tape hiss 
+                    anymore, but you still want to print as hot a level as possible 
+                    to get the highest sound quality, but you definitely don't 
+                    want to overdrive a digital recording device since digital 
+                    clipping is very harsh and unpleasant (you can get away with 
+                    some tape distortion since it is actually a desirable sound 
+                    in many styles of production).&nbsp; Thus, compressors and 
+                    limiters are just as important, if not more important in the 
+                    digital age.</p>
+                  <p>Compressors are also quite handy for tracking certain instruments 
+                    like bass guitar or horns where notes played in some registers 
+                    (or on different strings for bass guitars) are inherently 
+                    louder than others.&nbsp; In this situation, a compressor 
+                    will help to smooth out these differences in volume.</p>
+                  <p>Using compressors during mixing is extremely common in most 
+                    modern musical styles.&nbsp; By using a compressor on a track 
+                    during mixing, you can level out the dynamic range even more 
+                    and make that track sit better in the mix.&nbsp; The more 
+                    dense the mix is (more tracks playing at the same time) the 
+                    harder it will be to hear all the subtle details in a certain 
+                    part without constantly riding the levels.&nbsp; By adding 
+                    a compressor, you can smooth out the dynamics of the part 
+                    and raise the average level of the part until it is not getting 
+                    lost amongst all the other parts.&nbsp; On very aggressive 
+                    mixes, it is not uncommon to have a compressor inserted on 
+                    almost every channel and then a compressor inserted across 
+                    the stereo bus as well.</p>
+                  <p>As much as compressors can be a good thing, they can also 
+                    be a bad thing as well.&nbsp; In general, you are always going 
+                    to lose some of the transients and detail of an instrument 
+                    by running it through a compressor.&nbsp; The more aggressive 
+                    your compressor settings, generally the more damage you are 
+                    going to do to the signal.&nbsp; If a compressor is overused, 
+                    you can actually end up having the opposite affect of what 
+                    you intended.&nbsp; Instead of making the signal appear to 
+                    be louder overall, by over using a compressor, you can actually 
+                    make it seem dull and lifeless without any punch.&nbsp; As 
+                    with all good things, generally when used in moderation, compression 
+                    can be a good thing, but it can easily be abused as well.&nbsp; 
+                    Most pro engineers are usually more cautious and conservative 
+                    with their compression settings during recording because although 
+                    you can always add more compression later during mixing, you 
+                    can not take away the negative affects of too much compression 
+                    after it has been printed to tape.</p>
+                  <p>As already mentioned, the attack setting on a compressor 
+                    determines how quickly the compressor will react to a signal 
+                    the crosses the threshold level.&nbsp; The setting can be 
+                    very crucial to getting the sound you are after.&nbsp; If 
+                    the attack setting is too fast, then the initial peak transients 
+                    of the source signal will trigger the compressor, as opposed 
+                    to having the compressor act on the average (rms) level of 
+                    the signal.&nbsp; If the compressor is constantly being triggered 
+                    by the loud fast peak transients, it will end up reducing 
+                    the volume of the overall signal instead of helping us to 
+                    make it louder and smoother.&nbsp; By increasing the attack 
+                    time, you allow the initial transients to pass through uncompressed, 
+                    and the compressor then acts on the average rms level rather 
+                    than the peak levels.&nbsp; For vocals and sustaining instruments 
+                    you may want to make the attack time even longer to make the 
+                    compressor kick in a bit more gently over a longer period 
+                    of time (so that it is not noticeable).&nbsp; Again, you have 
+                    to listen very carefully to the source and choose your settings 
+                    based on what your ears are telling you.&nbsp; If you can 
+                    hear the compressor working, then you probably need to back 
+                    off on it, or readjust your settings.</p>
+                  <p>The release time on the compressor is probably a more critical 
+                    setting than the attack time, but they do work in conjunction 
+                    with each other.&nbsp; A good way to go about it is to try 
+                    to time the release settings to the rhythm of the part that 
+                    is being compressed.&nbsp; Try to make it so that the compressor 
+                    returns to a zero gain setting just before the next note is 
+                    played, otherwise the attack of the next note is going to 
+                    be softer since the gain hasn't returned back to zero yet.&nbsp; 
+                    Of course, if the part has a combination of very fast patterns 
+                    and slow patterns, you'll just have to experiment with the 
+                    settings until you find a setting that works for all the different 
+                    sections.&nbsp; If an instrumental part is very rhythmic with 
+                    a lot of quick notes, you would probably not want to set a 
+                    very fast release time or you would probably hear the compressor 
+                    pumping along with the rhythm of the track, and in those situations 
+                    the compressor is set so that it is triggered just once by 
+                    the first note, and then gradually releases over time as the 
+                    signal gets quiter.&nbsp; Many engineers just try to go with 
+                    as fast of a release time as they can get away with without 
+                    the compression being obvious.&nbsp; Setting the combination 
+                    of the attack and release times correctly will give you smooth, 
+                    almost transparent compression, while setting them incorrectly 
+                    will give a noticeable pumping effect to the sound.</p>
+                  <p>There is an additional feature on many compressors called 
+                    a &quot;side chain&quot; or &quot;key input&quot;.&nbsp; This 
+                    is a seperate input from the source input, and can be used 
+                    to control the compressor from a signal other than the source 
+                    signal.&nbsp; One common use of this input is to turn your 
+                    compressor into a de-esser.&nbsp; A de-esser is a device that 
+                    attempts to remove excessive sibilance from a vocal part.&nbsp; 
+                    The way to create a de-esser with a compressor that has a 
+                    key input is to make a mult of the source signal and run it 
+                    through an equalizer with a high pass filter set to filter 
+                    out most of the signal except for the range where the sibilance 
+                    is the worst (usually somewhere between 4000 hz and 10000 
+                    hz).&nbsp; Then this equalized signal is sent to the key input.&nbsp; 
+                    Now, whenever there are some strong sibilant sounds, this 
+                    key input will cause the compressor to kick in and reduce 
+                    the gain of the signal, but will not affect the signal when 
+                    there is no excessive sibilance.&nbsp; Setting a de-esser 
+                    properly has a lot to do with setting the equalizer properly, 
+                    in addition to all the regular compressor controls.&nbsp; 
+                    The key input can also be used creatively in other ways as 
+                    well.&nbsp; You could take a sustaining pad or bass part and 
+                    make it kind of pulsate in time to a rhythm track by feeding 
+                    something like a hi-hat part into the key input (actually, 
+                    this would be even cooler using a noise gate and triggering 
+                    the noise gate with the hi-hat part so that the gate opens 
+                    up with every hi-hat hit.... with a compressor, it would be 
+                    the opposite, the level of the part would be reduced with 
+                    every hi-hat hit).</p>
+                  <p>Although the basic operation of compressors is all the same, 
+                    there are many different ways to implement the design.&nbsp; 
+                    There are tube compressors and solid state compressors, compressors 
+                    that work with a photo-optical circuit, software based compressors 
+                    (which many times try to emulate the characteristics of certain 
+                    types of hardware compressors), and probably many other designs 
+                    as well.&nbsp; Plus, all of these designs can have many variations 
+                    amonst themselves.&nbsp; One thing is for certain, each and 
+                    every device that you pass your signal through is going to 
+                    impart its own sonic characteristics onto that signal.&nbsp; 
+                    That's why there isn't just one type of compressor, or even 
+                    one type of microphone for that matter.&nbsp; They all have 
+                    different sounds to them that work differently with different 
+                    types of source signals.&nbsp; Some compressors have a very 
+                    clean and transparent sound to them and those types are used 
+                    when you want to smooth out a signal without changing its 
+                    characteristics too much.&nbsp; Other compressors have a very 
+                    noticeable sound quality to them that people like to use to 
+                    make things sound &quot;fatter&quot; or &quot;warmer&quot; 
+                    or &quot;edgier&quot; or whatever.&nbsp; In those cases, the 
+                    compressor is not just being used for its dynamic properties 
+                    but also because the engineer or producer wants to impart 
+                    that sound onto their signal (kind of like adding EQ).&nbsp; 
+                    Many engineers and producers have certain compressors that 
+                    they instinctively reach for in particular situations, but 
+                    it's very hard to give specific recommendations for generalized 
+                    applications.&nbsp; The bottom line, as always, is to trust 
+                    your ears and use whatever sounds best out of what is available 
+                    to you.&nbsp; Plus, don't forget, that some times the best 
+                    sounds are achieved without the use of any compression at 
+                    all... so don't always just patch a compressor in right away 
+                    without listening to the source first to determine if you 
+                    even need one or not.&nbsp; If you are not an experienced 
+                    engineer who really knows how to set compressor properly, 
+                    play it on the safe side while tracking and use less compression 
+                    than you think you need, or don't use any at all and just 
+                    be a lot more careful with your recording levels.&nbsp; You 
+                    can always add the compression later when you are mixing.</p>
+                  <p>For more helpful how to guides and resources for recording 
+                    musicians, visit <a href="http://www.music-and-technology.com">Music-And-Technology.com</a></p>
+                  <p><font face="Arial" size="2"><a href="http://www.music-and-technology.com"><img border="0" src="http://www.music-and-technology.com/images/matlogo.gif" align="middle" width="460" height="40"></a></font></p>
+                  <font size="2"> 
+                  <hr color="#000000" noShade>
+                  </font> 
+                  <p><font color="#ff0000" size="2"> copyright 2000-2002, <a href="http://www.dbar-productions.com">DBAR 
+                    Productions</a><br>
+                    Reprinted with Permission at GuitarNoise.com.&nbsp; <br>
+                    This content may be downloaded for personal use only, and 
+                    may not be reprinted in part or in whole in any form without 
+                    the express written consent of Stephen Sherrard and DBAR Productions</font></p>
+                  <P align="center"><b><a href="20020509.html">Previous</a></b> 
+                    article in this series &quot;Recording on a Budget 2&quot;<br>
+                    <a href="index.html"><b>Next</b></a> to list of articles in 
+                    this series</P>
+                  <!-- #EndEditable --></td>
+                <td><img height=12 alt="" 
+      src="../images/transparent.gif" width=18></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr> 
+          <td colspan=2> 
+            <p align="right"><a href="#top"><br>
+              Back to top</a> <a href="#top"><img src="../images/blue_arrow.gif" width="13" height="15" align="absmiddle" border="0" alt="Top"></a><br>
+            </p>
+            <table cellspacing=0 cellpadding=0 width="100%" border=0>
+              <tbody> 
+              <tr height=1 bgcolor="#000000"> 
+                <td height=1><img height=1 alt="" 
+            src="../images/transparent.gif" width=1></td>
+              </tr>
+              <tr> 
+                <td class="copyright">Copyright &copy; 2002 Guitar Noise. All 
+                  rights reserved. <a 
+            href="http://www.guitarnoise.com/sitemap.html">Site Map.</a> <a 
+            href="http://www.guitarnoise.com/masterlist.html">Masterlist.</a> 
+                  <a 
+            href="http://www.guitarnoise.com/privacy.html">Privacy Statement.</a> 
+                  <a 
+            href="http://www.guitarnoise.com/contact.html">Contact Us.</a><br>
+                  <img height=12 alt="" src="../images/transparent.gif" 
+      width=12> </td>
+              </tr>
+              </tbody> 
+            </table>
+          </td>
+        </tr>
+        </tbody> 
+      </table>
+    </td>
+  </tr>
+</table>
+</BODY>
+<!-- #EndTemplate --></HTML>

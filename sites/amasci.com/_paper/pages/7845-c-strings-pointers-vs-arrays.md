@@ -1,0 +1,164 @@
+---
+title: "C strings: pointers vs. arrays"
+source_domain: amasci.com
+source_path: ~scs/readings/strings.980926.html
+order: 7845
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T06:00:23Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# C strings: pointers vs. arrays
+
+*Source page: `~scs/readings/strings.980926.html`*
+
+\[This article was originally posted on September 26, 1998.\]
+
+From: scs@eskimo.com (Steve Summit)\
+Newsgroups: comp.lang.c\
+Subject: Re: newbie question: stings, pointers and arrays\
+Date: 26 Sep 1998 16:25:24 GMT\
+Lines: 234\
+Message-ID: \<6uj4hk\$ts2\$1@eskinews.eskimo.com\>\
+References: \<slrn70lima.8b4.edward@portaloo.hairnet\> \<6uhpkp\$len\$1@nnrp1.dejanews.com\>
+
+In article \<6uhpkp\$len\$1@nnrp1.dejanews.com\>, bbarnette@my-dejanews.com writes:\
+\>In article \<slrn70lima.8b4.edward@portaloo.hairnet\>,\
+\>edward@hairnet.demon.co.uk wrote:\
+\>\> but if I do this it seg faults\
+\>\> `char *play[2]={"1","2"};`\
+\>\> `strcpy(play[0]="3");`\
+\>\> `strcpy(play[1]="4");`\
+\>\> What am I doing wrong?\
+\>\
+\> Your problem is in `strcpy()`. It is `strcpy(`destination, source`)`;\
+\> There is no need for the `=` here.
+
+True, but that was only *one* of his problems, and here, as so often happens (to borrow a line from Douglas Adams), the superficial design flaw has hidden a more fundamental design flaw.
+
+\> Try this:\
+\> `char *play[2]={"1","2"};`\
+\> `strcpy(play[0],"3");`\
+\> `strcpy(play[1],"4");`
+
+This is also likely to seg fault or otherwise abort. The problem is that the two pointers `play[0]` and `play[1]` point to constant strings, as requested by the string literals `"1"` and `"2"`. Those constant stings are *not* necessarily writable, and on more and more systems, attempts to do so will fail. Yet modifying those strings is exactly what the calls
+
+        strcpy(play[0], "3"); strcpy(play[1], "4");
+
+attempt to do -- the `"3"`, for example, is supposed to be copied into the (possibly read-only) memory occupied by the constant string `"1"`.
+
+The situation is different if `play[0]` and `play[1]` are arrays rather than pointers. If the code had been
+
+        char playa[2][2] = {"1", "2"};
+
+then the `strcpy` calls would have been correct and guaranteed to work. Here, `playa[0]` is not a pointer to a `char`, it is an array of `char`, and a writable one at that. In this case, it doesn't matter whether the string literal `"1"` is writable or not, because when a string literal is used as an array initializer, the string is copied into the array, after which it's the array you might be trying to write to, not the string literal.
+
+There's a second potential problem with those `strcpy` calls, of course. If the replacement strings were any longer, e.g. if we were to call
+
+        strcpy(play[0], "345"); strcpy(play[1], "678");
+
+we would exceed the storage allocated for the two initial strings, and this would be a problem regardless of whether we were using pointers or arrays. (In the array case, we could preallocate the arrays larger than required, by declaring, say, `char playa[2][10]`, where we'd be assuming that no string longer than 9 characters would ever be copied into either of the arrays.)
+
+\
+
+There's actually a very interesting sort of paradox underlying this whole issue. It's true that strings in C are arrays, and it's true that you can't assign arrays, and it's true that you therefore often need to call `strcpy` when you want to "assign" a string. But this does *not* mean that whenever you have the notions of "string" and "assign" in your head, you should reflexively call `strcpy`! The reason is that strings are often referred to by pointers, and `strcpy` can be dangerous when used with unknown pointers (that is, when you're not sure how much memory they point to, or whether the memory is writable).
+
+The paradox is that although your C teacher told you that since arrays aren't assignable you have to call `strcpy` to "assign" a string, pointers *are* assignable, and it's often much safer to use simple assignment when working with pointers to strings! (Besides safety, if you're at all worried about efficiency, assigning pointers can be significantly more efficient than copying strings around all the time.)
+
+For example, the code
+
+        char *play[2] = {"1", "2"};
+        strcpy(play[0], "3");
+        strcpy(play[1], "4");
+
+is wrong, because it attempts to overwrite constant strings. Furthermore, the code
+
+        char *play[2] = {"1", "2"};
+        strcpy(play[0], "345");
+        strcpy(play[1], "678");
+
+is doubly wrong, because it attempts to overwrite constant strings and overflows them if it succeeds. **BUT**, the code
+
+        char *play[2] = {"1", "2"};
+        play[0] = "3";
+        play[1] = "4";
+
+is perfectly legal and correct, as is
+
+        char *play[2] = {"1", "2"};
+        play[0] = "345";
+        play[1] = "678";
+
+In these cases, we're reassigning the pointers to point to different string constants, and although those string constants might not be writable, either, we've successfully accomplished our goal of assigning new string values to `play[0]` and `play[1]`.
+
+Here's another example. When attempting to write a function which returns a string, beginners frequently write code like this:
+
+        char *digitvalue(int d)
+        {
+            char result[10];
+            switch(d) {
+                case 0: strcpy(result, "zero"); break;
+                case 1: strcpy(result, "one");  break;
+                case 2: strcpy(result, "two");  break;
+            ...
+                case 9: strcpy(result, "nine"); break;
+            }
+            return result;
+        }
+
+This code has a serious and fatal bug, of course: the local `result` array will not exist by the time the function returns to its caller, so the pointer that the caller receives will be useless. (See the [comp.lang.c FAQ](http://www.eskimo.com/~scs/C-faq/top.html) list, question [7.5](http://www.eskimo.com/~scs/C-faq/q7.5.html).) One recommended fix for this problem is to declare the `result` array as `static`, but taking the larger view, it turns out that might not be the best fix in this situation, after all! Much better, I think, is to rewrite the function completely, as
+
+        const char *digitvalue(int d)
+        {
+            switch(d) {
+                case 0: return "zero";
+                case 1: return "one";
+                case 2: return "two";
+            ...
+                case 9: return "nine";
+            }
+        }
+
+Now we've gotten rid of the `result` array completely; this has the additional benefit that besides not having to worry about its allocation, we also don't have to worry about making it big enough. (In other words, the arbitrary value 10 from the previous implementation has disappeared.) Since the returned pointers now point directly to string literals, the pointed-to storage must not be written to, and I've documented this fact by declaring the function as returning `const char *`. (This may seem like an unfortunate and perhaps unacceptable additional restriction over the initial implementation, but since the initial implementation returned a pointer to storage which was neither readable nor writable, I'm perfectly comfortable with the function as modified.) If your programming style disallows functions with multiple exit points, you can use a temporary internal return value which is a pointer rather than an array:
+
+        const char *digitvalue(int d)
+        {
+            const char *result;
+            switch(d) {
+                case 0: result = "zero"; break;
+                case 1: result = "one";  break;
+                case 2: result = "two";  break;
+            ...
+                case 9: result = "nine"; break;
+            }
+            return result;
+        }
+
+Finally, as an aside, this particular switch statement is somewhat unnecessary -- since the case values are dense and 0-based, it would suffice to pluck the digit names out of an array:
+
+        const char *digitnames[] = {"zero", "one", "two", "three",
+            "four", "five", "six", "seven", "eight", "nine"};
+
+        const char *digitvalue(int d)
+        {
+            if(d >= 0 && d <= 9)
+                return digitnames[d];
+            else    return "error";
+        }
+
+(We can immediately tell that this last implementation is superior, because I've been able to present a complete, equally-readable example, with error-checking, in less space than I was formerly using to present abbreviated examples. This last example, too, could be written with one exit point by assigning one of the digitname strings to a local temporary return value pointer, but the point is that it's superior to one that used `strcpy` to copy one of the digitname strings to a local temporary return value array.)
+
+\
+
+To summarize the argument I've been making, **IF** all the strings you're working with are constant, it's arguably safer to use pointer assignment all of the time, and never to call `strcpy`.
+
+**BUT**, that's a mighty big "if", of course. If you're constructing any strings on the fly, perhaps by calling `strcat`, you have to be more careful, because neither a rule like "always use arrays and call `strcpy` for simple assignments" nor "always use pointers and use assignment for simple assignments" will suffice. If you're constructing strings on the fly (or reading them in from the outside world), you have to ensure that the storage you write them into is both writable and big enough. If you're using arrays, this will probably mean declaring arrays having some explicit, maximum size (i.e. the maximum size of the strings you'll ever be able to construct or read in), and if you're using pointers, it will probably mean calling `malloc` or `realloc`. (And, if you've settled on arrays, you may end up going back to `strcpy` for all string "assignments".)
+
+\
+
+The bottom line is: if you have a program that manipulates a lot of strings, what should you choose as your basic "string" type? If you choose "array of char", then yes, you will have to call `strcpy` all the time. But if you choose "pointer to char", you probably do *not* want to call `strcpy`; most of the time you will want to use pointer assignment instead. (And if you want to get the best of both worlds, by using some arrays and some pointers, you'll have to be more careful still.)
+
+[Steve Summit](http://www.eskimo.com/~scs/)\
+<scs@eskimo.com>

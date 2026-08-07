@@ -1,0 +1,545 @@
+---
+title: "Lost Youth"
+source_domain: amasci.com
+source_path: ~allegro/private/lostyouth.htm
+order: 1094
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:54:53Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Lost Youth
+
+*Source page: `~allegro/private/lostyouth.htm`*
+
+Title: Lost Youth
+
+Author: MsAllegro
+
+Author Email: shawna @insanity-inc.org
+
+Author Website: www.bagendinn.com
+
+Category: RPS, First-time, a bit of angst, a bit of light kink
+
+Rating: A big ol NC-17
+
+Summary: Sean revisits his youth. <span class="GramE">Via his favorite one.</span>
+
+Characters: Sean/Lij, with cameos from Orli, Billy, Dom and even Peter!
+
+Warnings: RPS, Kink, cheating, not entirely safe sex. Some blood but not sex related.
+
+Disclaimer: Would these guys ever actually do this? <span class="GramE">Probably not.</span> I don't make money from my stories, either
+
+Feedback: Love it. Feedback is my crack. Lij is my crack pimp
+
+Story Notes: In the midst of writing the next angst-filled episode of New Roles, Damn VB gives me this challenge. It was supposed to be a simple PWP. It ate me alive until I stayed up all night to write it. Veebs, you owe me one ;) I suppose some of this is sort of [New Roles](newroles.htm) universe. Everything but the smut would make a good prologue for it, perhaps.
+
+ 
+
+\*\*\*
+
+ 
+
+Lost Youth
+
+<span style="FONT-FAMILY: 'Courier New'"> </span>
+
+It was a couple of months into filming. Theyd already done much of their Shire scenes and some of the outdoor battles and were exhausted. A couple of days off, just as the New Zealand summer was starting, were quite welcome. Theyd spent the previous day roaming around Wellington, and today decided to stay in and just enjoy each others company. Theyd even managed to convince Sean to join them this time, which was rare, as he spent most of his free time with his wife and daughter.
+
+ 
+
+Elijahs head was just a little woozy from drinking two beers in rapid succession. He sat on the floor in Orlandos apartment, in front of the couch, where Sean was sitting, with a leg on either side of him. His stomach was warm and full of a few too many slices of pizza. Dom and Billy were fighting over the last slice in the kitchen and Orli suddenly got up and shut off the stereo.
+
+ 
+
+He cleared his throat, Ahem! In honor of the old married bloke finally joining us for an evening, weve decided to have a little film festival! A teasing grin came across his face as he held up a bag from the video-rental store down the street. <span class="GramE">Me and my mates here, he cocked his head toward Dom and Billy, exiting the kitchen, </span>found some truly exciting entertainment to keep us all occupied tonight.
+
+ 
+
+A rush of dread washed over Lij. Given the thoughts hed already been having-- and trying unsucessfully to repress-- about every last one of the people in the room, the idea of sitting around watching porn with them was far too much. He neednt have worried, though.
+
+ 
+
+Orli stuck his hand in the bag, What shall we have first, lads? He grinned and rummaged between the boxes. He picked out one and held it up, Ah ha! he exclaimed triumphantly, displaying the box cover, It looks like Seans the first guinea pig!
+
+ 
+
+Sean moaned as he recognized the cover art. One of his lesser-known and rather embarrassing works from when he was only <span class="GramE">20,</span> it involved a cast of more-or-less unknown guys, with the exception of himself and Will, just coming off his Star Trek run. The dialogue was awful, the plot predictable and stale. He tried hard to remember what posessed him to take the part. Oh, right. He was having trouble breaking out of his kid roles and needed the money. And it \*was\* a starring role, after all. Still, he wasnt so sure he wanted these new friends of his to watch it. Especially not with that<span class="GramE">..um</span>.. <span class="GramE"> one</span> scene.
+
+ 
+
+Oh, please, Orli. Not that, Sean whined, squirming on the couch. Couldnt you have gotten Rudy or something? I could live with that. Geez, even Goonies would have been ok.
+
+ 
+
+<span class="GramE">Hell, no!</span> Dom piped up. I want to see this one! <span class="GramE">Especially if you dont want us to!</span> He added cheekily.
+
+ 
+
+Lij grabbed Seans knee and turned around, Hey, it cant be that bad, right? I gotta see this.
+
+ 
+
+Orli nodded, Yeah, you should. Besides, otherwise were watching Flipper.
+
+ 
+
+Lij spun back around and howled in protest, No! Seans movie first! He has to be punished for avoiding us for so long.
+
+ 
+
+Hey! If this is what I get when I finally do hang out with you guys, Im not going to do it anymore! Sean complained. But it was too late. Orli had already stuck the movie into the player, and the opening credits were rolling.
+
+ 
+
+Lij had watched a few of Seans old movies when hed found out that theyd be working togetherto get an idea of Seans style and such, and to try to figure out exactly who it was hed be working so closely with over nearly two years. This was one he wasnt aware of, though. It looked to be one of the more obscure ones, and judging from Seans reaction, one of the ones hed rather forget. An evil grin crept over Lijs face. The torture of making Sean sit through this was going to be very fun. He got up and sat next to Sean on the couch, the better to watch him wince.
+
+ 
+
+By the time they got to the phone sex scene, the whole room was howling with laughter. <span class="GramE">Sean,</span> however was getting a bit queasy. He remembered the rehearsals for that scene. <span class="GramE"> The private ones with Will, where he was taught quite a bit about what could happen when two guys listened to phone sex alone together.</span> He later found out that Will had been doing that stuff for years, after learning it from River Phoenix when he was just a boy. It wasnt long after that shoot, though, that Sean had met Christine, and hed put all that stuff behind him. It had been fun, certainly, but it wasnt something he thought about much anymore. Well, at least not until he got to New Zealand. Even with Christine and Alex around, being surrounded by all these young guys felt so much the same as his youth. He chanced a look over at Lij, who was squirming with giddiness, fixated on the screen. The boy was nearly the same age as when his own randy experimentation had started. He wondered briefly what went on in Lijs mind, and if maybe it was the same kind of thoughts hed had then
+
+No--best not think that way. He turned back to the screen.
+
+ 
+
+There were plenty more hoots and cheers every time one of the underwear scenes came on. He began to wonder whether or not those scenes had any real reason for being in the movie other than to be gratuitous. He hadnt thought about it much at the time, but it was painfully obvious now. And then there was That Scene.
+
+ 
+
+Orli shouted in disbelief and paused the video, Bloody hell! he cried out in glee, <span class="GramE"></span>What the fuck is that?
+
+ 
+
+Dom was sitting on Billys lap in the chair in the corner, bouncing around and wracked with laughter, My god! Seans got an arse on him, lads! <span class="GramE">A lily-white tight little arse!</span>
+
+ 
+
+Billy tried to still the gyrating Dom, to keep him from bruising his thighs in his excitement, Steady now! Move aside! I want a better look at that!
+
+ 
+
+Sean sunk as low as he could on the couch, wishing he had the Ring so he could become invisible at that moment. Yes. Thats my ass. So what. He mumbled as his face burned.
+
+ 
+
+Lij nearly leapt into his lap as he turned and threw his arms around Sean, Thats so cute! he squealed, almost like one of his obnoxious teenage fans. He ruffled Seans hair and gave him a quick kiss on the cheek.
+
+ 
+
+Just play the damned movie, Sean grumbled. He was drowning in embarassment, and Lijs little kiss wasnt helping.
+
+ 
+
+Orli started the video again, not that the rest of the towel scene was much better. They all laughed again at the caning scene moments later, and Sean swore the temperature in the room was growing by several degrees. He felt Lij squirming around next to himin sympathy?
+
+ 
+
+I rather think he liked that, Dom commented naughtily.
+
+ 
+
+Finally, things quieted down for a while as they watched the predictable action progress onscreen. Lij was utterly amazed at the amount of athleticism his friend was showing. Hed seen quite a bit of agility and strength as the group had been doing their training and fight scenes, but what Sean was displaying in this movie blew him away. He looked like a gymnast, and like he could very easily have become an action film star if hed been a few inches <span class="GramE">taller,</span> and perhaps not so blessed with a goofy grin and tendency to be a wiseass. It no longer surprised him how easily he was able to play an athlete in Rudy, nor how easy it was for him to be running around the countryside during their current shoot, leaping fences with a huge packalbeit stuffed with newspaperson his back. He had certainly bulked up for the part, but Lij swore half of the new weight must be muscle. He glanced down at Seans arm, flexing as he nervously rubbed a seam on the side of his shorts. That \*was\* muscle there. <span class="GramE">And lots of it.</span> Lij found his insides quivering just a little as he wondered about exactly what Sean could do with those arms. He found himself greatly looking forward to shooting the scenescoming up soonwhere he was toted around Mordor on Seans back.
+
+ 
+
+Another shout from Dom turned his attention back to the screen, Pause that! Rewind it! I want to see that again!
+
+ 
+
+Orli obliged and rewound, then <span class="GramE">paused</span> the video on a shot of Sean standing atop a bathroom stall, his legs splayed wide, and leaning over, nearly grabbing his ankles. It was an almost inhuman pose, especially in the jeans he was wearing that seemed as if theyd been spray-painted on.
+
+ 
+
+Lijs heart nearly stopped, and he felt a rush of blood to his crotch. Strong \*and\* flexible. Oh, god.
+
+ 
+
+Can ye still do that, Sean? Thats pretty impressive! Billy asked eagerly.
+
+ 
+
+Sean, who was finding it impossible to blend in with the couch cushions, just shook his head, Nope, he croaked dryly, Not anymore. Its been 10 years!
+
+ 
+
+Oh come on! Orli teased. I bet you still can! Ive seen you in the gymyou can do it!
+
+ 
+
+Lij wanted to see this, but knew Sean wouldnt agree so easily. Hey! Ill bet he \*cant\* still do it! he piped up, appealing to his friends sense of pride.
+
+ 
+
+<span class="GramE">Yer on, mate!</span> Orli pulled a fiver from his pocket.
+
+ 
+
+I dont think he can, either, Dom piped up, adding his own cash to the bets.
+
+ 
+
+Ill say he can, then, Billy joined.
+
+ 
+
+Sean hung his head. He was a game now, apparantly. Still, his pride had kicked in, and he thought that maybe he could actually hold that pose. He was in pretty good shape these days, even after gaining the extra weight. He stood up, to cheers from the rest of the guys. He bent over and stretched, loosening up his thigh muscles. He was glad of the few beers hed had, and the fact that he was in loose shorts instead of tight jeans. Finally, he started spreading his legs, inching his feet out toward the sides. It took him a little while, as he was wary of pulling a muscle, but eventually he got his legs as wide as hed had them in the shot. Then he slowly leaned over, and rested his hands on the ground in front of his feet. The guys exploded in applause and shouts.
+
+ 
+
+Lij stood up, clapping wildly at the sight. Damn, but did Sean look good like that. His heart pounded in his chest, and he felt his crotch grow tight. Suddenly he realized that maybe hed better sit down again. It wouldnt do for any of the guys to see how turned on he really was. Hed so far managed to keep his interests in them a secret, since he didnt want to muck with anything. <span class="GramE">That,</span> and he wasnt so sure how well he could deal with the concept of actually following through on what he kept thinking about. Aside from a few passes from one of his perpetually stoned co-stars last year, he hadnt even so much as gotten close to getting involved with a guy, and he wasnt sure he could cross that line yet.
+
+ 
+
+Sean finally pulled himself out of position. I think \*I\* ought to take that bet money, yknow, he proudly asserted. Billy grabbed the handful of cash and threw it in his direction with a laugh. He stuffed it in his pocket and sat back down again, and they finished watching the movie. No more teasing happened. <span class="GramE">Heh.</span> Hed finally impressed the little bastards.
+
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0in; BORDER-TOP: medium none; PADDING-LEFT: 0in; PADDING-BOTTOM: 1pt; BORDER-LEFT: medium none; PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 3pt solid">
+
+ 
+
+</div>
+
+ 
+
+The shoot wore on. Theyd mercifully had a break over Christmas, and Sean and his family flew back to LA to be with their friends and family there, and to hunker down in the living room with the TV, waiting for Y2K chaos to happen. Thankfully it didnt, and a week later he was back in New Zealand.
+
+ 
+
+Ian arrived then, and the whole rest of the cast flocked around him like moths to a flame, getting advice and insights on everything from acting to food. They filmed most of their Amon Hen battle scenes then, and finally wound up the month by filming Frodo and Sams boat scene. Unfortunately, things didnt exactly go as planned. On the first attempt at a shot of Sam running down the hill to Frodos boat, Sean plunged into the water and immediately screamed.
+
+ 
+
+Oh god oh god oh god<span class="GramE">..</span> he groaned, hauling himself out of the water and collapsing on the shore of the lake. He was immediately descended upon by Peter and half the crew. Lij quickly paddled the boat back to shore and jumped out.
+
+ 
+
+There was a large twig sticking out of a huge, blood-soaked gash in the bottom of Seans prosthetic foot, which was quickly being torn off by a crew member. Sean writhed around in pain as some of the first-aid crew looked at the wound on his foot. Lij tried to paw his way through the crowd to get a look at him, but was pushed away.
+
+ 
+
+Sean! Lij cried out, frustrated that he couldnt attend to his friend. Are you okay? He paced around, looking for an open spot between people, never cursing his lack of height more than that moment.
+
+ 
+
+Sean wailed again as someone manhandled his wound to try to see how deep it was, Lij! Where are you? he moaned, unable to see through pain and tears.
+
+ 
+
+Shoving aside a PA, Lij wormed his way over to Sean and knelt beside him, grasping his hand, Im here, Sean. Im here. He picked up the hand and kissed it, stroking it on his cheek. Sean looked green and almost sick with pain, his face screwed up and tears streaming down his cheeks. The sight made Lijs stomach clench. What if Sean had ripped a tendon or broken something? Lij continued to stroke Seans hand, holding it tightly to his chest.
+
+ 
+
+Sean still couldnt focus, but he felt Lijs pounding heart against his hand, and the warm, soft lips as they kissed it occasionally.  Though his foot was still wracked with pain, the comfort of having Lij close helped ease his panic. He felt his thundering heartbeat begin to slow as the endorphins and soothing sound of Lijs voice took over.
+
+ 
+
+Its deep. Theres no question about that. I dont know if well have to get him to a hospital or not, though. It depends on whether it stops bleeding, one of the first aid guys stood up and told Peter. Someone had grabbed a large gauze pad from one of the first aid kits and they held it against Seans foot to try to get the bleeding to stop. Someone handed Lij a costume-covering robe, so he wouldnt get dirt and debris on it as he knelt on the ground, and he quickly slipped it on, never breaking contact with Seans hand.
+
+ 
+
+For a few minutes, assistants kept pressure on the wound, changing the gauze as was necessary. Some had decided to call for the actual production doctors for advice on what to do. At any rate, there was no question that the shoot was over for the time being, and people were starting to pack up.
+
+ 
+
+The small blonde who was attending to Seans foot was asked to help pack up some of the lighting equipment and she turned to Lij, Can you take this for a while? She tossed him a towel and a fresh pack of gauze.
+
+ 
+
+Lij shifted around so Seans foot was resting in his lap on the towel, properly elevated, and he held the gauze tightly against the still-bleeding gash. With his free hand, he stroked Seans forehead, damp with sweat. Is it still hurting a lot? he asked gently.
+
+ 
+
+Sean nodded, still dizzy with pain, Uh-huh. It feels like my whole foots been skewered.
+
+ 
+
+Peter came over, cell phone in hand, The doctors want to know if the bleeding has stopped yet.
+
+ 
+
+Lij peeled off the gauze, which was becoming soaked through. As he did, a small flow of blood oozed from the dime-sized wound. <span class="GramE">Less than before, but still there.</span> Nope, not yet, he said sadly.
+
+ 
+
+Fuck. Peter never minced words. He went back to his phone, Yeah. <span class="GramE">Still bleeding.</span> I dunno. He looks like it. Poor bastard is crying like an infant. Ok. Well, were miles from Queenstown. We werent going to be driving back until tomorrow. Yeah. Good idea. Thanks. He flipped the phone closed and looked at his two stars, Well, dammit. We need to get a helicopter in here for you, Sean. They need to get you to at least a clinic where they can give you an antibiotic and tetanus shot and make sure there isnt any debris left in the wound. He sounded angry for a moment that his shoot had been interrupted, but he soon softened, Im sorry, Sean. We should have had someone check underwater for anything dangerous. I hope it all patches up okay.
+
+ 
+
+Sean just nodded, still unable to speak much. It took a long time for the helicopter to get there, and in the meantime, Seans wound had actually stopped bleeding. Lij hadnt left him for a moment, and thankfully someone had brought some water over, and he and Sean were sharing a bottle. Lij watched the wound carefully for any signs that it might start bleeding again.
+
+ 
+
+Sean was finally almost coherent, and started joking a little. Someone had brought a cel phone over to him and he called Christine back in Wellington to tell her what had happened. He tried to sound like it was no big deal that he was about to be airlifted to a hospital.
+
+ 
+
+Now that the initial panic was over, Lij found himself actually fascinated by the gash. He was looking at it very closely, eyeing how the edges were ragged, and coated with a thick slush of blood and serum. A large blood clot was jelled up in the center. He stroked Seans foot delicately, though trying not to tickle. Does it still hurt? he asked quietly.
+
+ 
+
+Much of the pain had started to ebb away at that point, thanks to endorphins and a large handful of acetominophen that one of the PAs had given him. Its getting better, Sean replied. Its just kind of throbbing a bit now.  
+
+ 
+
+Lij leaned over for a closer look at the blood. A weird impulse took him and he picked up a small stick <span class="GramE">laying</span> on the ground next to him. He gently poked at the blood clot, wondering how firm it really was. It resisted the prod, and moved slightly, the consistency like a gumdrop that had been left on the dashboard of a sun-cooked car.
+
+ 
+
+Sean felt the prod, and though it didnt hurt, it felt strange. He lifted his head up, straining to see what Lij was doing to him, Lij? he asked, confused.
+
+ 
+
+This is actually kind of cool, Sean. I wish you could see it. Lij poked at the clot again, watching it quiver, Theres this enormous blood clot on youits like it has a life of its own.
+
+ 
+
+Sean laid his head back down, Yknow what, Lij? Youre weird. <span class="GramE">Really fucking weird.</span>
+
+ 
+
+Lij smiled at him; that odd, faraway look on his face, when it was clear his mind really wasnt part of normal human reality at that moment. Yeah, I know, <span class="GramE"> he</span> said slyly. But you like me this way.
+
+ 
+
+Sean had to admit he did. He had grown more and <span class="GramE">more fond</span> of this freaky kid as the shoot wore on, and it wasnt just because of their characters closeness. He was amazed at how mature and thoughtful the boy was even at his young age. It appeared Hollywood hadnt done anything terrible to him, with the possible exception of making him withdraw somewhat from a social life outside of his family and castmates, and into a kind of strange mental world of his own creation. Sean smiled, thinking of some of the weirder things that were known to come from that seemingly-innocent mouth. <span class="GramE">Yeah, Lij.</span> I like you. You know I like you. He sighed heavily, and muttered, almost to himself, Too much for my own good, I think.
+
+ 
+
+Lij paused for a moment at that, wondering what on earth Sean could mean. He started to say something when Peter came up behind them.
+
+ 
+
+Elijah? What the hell are you doing? Peter demanded.
+
+ 
+
+Lij tossed the stick aside, Nothing, he lied. Hes stopped bleeding now.
+
+ 
+
+Good. Lets get him up and get him into one of the vans. Theyre going to take him down the hill to the clearing where the helicopter is going to pick him up. Go ahead and head over to your trailer for now. Well pick up again in the morning.
+
+ 
+
+Lij and Peter and a PA helped Sean to his feet, and got him to hop down the hill to the waiting van. Sean embraced Lij closely and kissed his cheek, Thanks for sitting with me while I was being a baby. It helped a lot.
+
+ 
+
+Hey, sometimes Frodos got to help out his Sam, too, Lij grinned back.
+
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0in; BORDER-TOP: medium none; PADDING-LEFT: 0in; PADDING-BOTTOM: 1pt; BORDER-LEFT: medium none; PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 3pt solid">
+
+ 
+
+</div>
+
+ 
+
+Lijs thumbs were sore from far too much Playstation. He finally tossed the controller on the floor after losing yet another round to Sean. Even wounded the guy was quick. They had come back to his hotel room in Queenstown for the weekend, after the busted shoot at the lake. Hed managed to shoot a few of his own scenes the next day, but Peter decided to wait a few more days to see if Sean was going to heal before doing much else. He flew back to Wellington with some of the rest of the cast and crew to work on another set, as they were getting ready to work on the Helms Deep scenes in a few more days.
+
+ 
+
+So, bored, Sean and Lij had spent most of that Saturday sitting in the hotel room waiting for something to happen and playing endless rounds of video games. Seans foot was wrapped up in bandages, still too sore to really walk on, but fortunately healing quickly.
+
+ 
+
+Lij got up and stretched. He was feeling like a total schlump, since hed woken up late, and hadnt even had a shower yet. Sean had appeared, banging on his door at the ungodly hour of 8 am, wrenching him away from a comforting morning piss. Sean was so animated and social he couldnt stand being alone, and being away from his family back on the North Island was bugging him, so he had latched onto Lij.
+
+ 
+
+The remains of half a donut were all that was left from their room-service breakfast, and Lij consumed this last bit standing up, brushing his sticky hands off on the t-shirt hed slept in. <span class="GramE"> He scritched his tummy, sticking a hand down into the top of his boxers to reach a particularly evil itch where his pubes were matted up.</span>
+
+ 
+
+Sean watched all this with amusement. Lij was so incredibly casualdidnt seem to even notice when people were looking at him unless he had a camera pointed at him. He didnt fuss much with personal grooming or appearance unless he absolutely needed to. And when with friends, he completely let go, belching and scratching whenever he felt the need, and, as evidenced by this mornings attire, not bothering to really get dressed when he had company. The robe he put on when other people came by lay draped over a chair, unused yet today. It was all rather disgusting in a way, but Sean actually found it endearing, and even a little flattering that Lij felt comfortable enough around him to be so at ease.
+
+ 
+
+Lij stretched his arms up to the sky and yawned. He suddenly caught a whiff of the odor emanating from his armpits, shuddered and scrunched down again, Holy fuck, thats rank. I had no idea. Im sorry, Sean.
+
+ 
+
+Sean just laughed. He hadnt wanted to say anything, because hed enjoyed being close to Lij as they sat on the floor in front of the TV. The slightly off scent didnt even bug him much.
+
+ 
+
+Im gonna go hit the shower, Lij said, peeling off his stinky shirt and tossing it into a pile at the side of the bed.
+
+ 
+
+K, Sean shrugged. He intended to turn back to the game and play a solo round, but found himself watching the boy strip instead. Hed seen him shirtless a few times already, but this situation was a little different, and watching the boys small muscles flex under his pale skin as he casually tossed his shirt aside was really quite something. Sean noticed that Lijs nipples were stiffening with the sudden rush of cold air, and he briefly wondered what they might feel like.
+
+ 
+
+<span class="GramE">Ack. No.</span> <span class="GramE"> Cant think those things.</span> With an effort, he tore his eyes away and picked up the game controller.
+
+ 
+
+Lij stepped into the bathroom and closed the door solidly behind him. He stopped there for a moment, feeling the cool tile on his feet. He could have sworn Sean was watching him. Or maybe that was wishful thinking. It must be. Sean was married, so he was straight, right? He couldnt have been watching. Could he? Lij turned on the shower and pushed his boxers to the floor. Just the idea that Sean may have been appreciating the view he unconsciously gave him was making his dick a little hard. He tried not to think about it. He only intended a quick shower, and didnt have time for taking care of a problem.
+
+ 
+
+He washed up quickly, giving himself a thorough cleaning, but trying not to linger too much on his more sensitive parts, so as not to stir anything up. He was failing miserably. He couldnt help but give the now-swelling head of his cock an extra swirl or two with a soapy hand. He darted a hand deftly into the crack of his ass, soaping up just a little more deeply than absolutely necessary. Before long, he was a minor wreck. He worried himself into a tizzy, wondering if, should the opportunity present itself, he could really go through with it. He knew he couldnt ask for it, at least. It would have to be something Sean asked for. <span class="GramE">Or maybe even demanded.</span> That thought made things even more unbearable.
+
+ 
+
+Sean meanwhile numbly played his game, dying every few minutes because he couldnt focus on it. All he could think about was Lijs naked, soapy body in the shower mere feet from where he sat. This wasnt happening, he tried to think. He was a grownup now. The time for boyish fooling around was over. Why on earth was this guythis kiddoing this to him? And yet, he couldnt deny it. His back teeth ached every time he pictured Lijs creamy skin under his hands. <span class="GramE">All the long weeks of teasing and flirting and kisses and embraces all smushed together in his mind and his head swam with the desire growing inside him.</span> Hed been wondering about Lijabout how straight he really wasbut he was too afraid to say anything. Lij flirted with \*everyone\*, even (hell, especially) Ian, and he couldnt imagine that his targeting was any different than anyone elses. No, it couldnt be. And he certainly couldnt ask, much less press the issue. If he was wrong, Lij would freak out and give him shit about being married. No, he couldnt. He just couldnt.
+
+ 
+
+And then it hit him. Lij hadnt taken a change of clothes into the bathroom with him. All he had was his dirty boxers, and he doubted those would get worn again. His fluffy robe was still casually tossed over the chair next to the bed. Hed be at least wearing nothing but a towel when he came outOh god. He tried hard not to picture himself tearing off that towel and throwing Lij down on the bed, naked and wet.
+
+ 
+
+About the same moment, the same realization came to Lij. The fear of what hed have to manage to do to get dressed shrank his problem rather quickly. He rinsed off and shut off the water, stepping out and grabbing a towel. He dried off somewhat and then wrapped the towel around his waist. He paused for a moment, wondering what to do. He opened the door just a crack and stuck his head out.
+
+ 
+
+Sean breathed in the puff of steam that came from the door and eyed Lijs sopping head, which was wearing a sheepish grin.
+
+ 
+
+<span class="GramE">Um.</span> It seems Ive forgotten something, Lij blushed. Can you hand me my robe?
+
+ 
+
+Sean got up, turning quickly so Lij couldnt see the bulge at the front of his pants. He grabbed the robe quickly, but didnt notice that the tie for it had come out of the loops, and it dropped to the ground as he brought it over to the bathroom door. 
+
+ 
+
+Lij grabbed it gratefully. On impulse he reached over and kissed the tip of Seans nose, Thanks! he smiled, and ducked back in. He left the door slightly ajar, however. He kept one eye on it, wondering if Sean would try to spy on him. He didnt even have to try to look. Sean obviously was still standing there, thinking he was out of the line of sight. Hed have never actually asked, or said anything, but at that moment, Lij had to make an offer. He unhitched the towel from around his waist and let it casually drop to the floor. He made a show of brushing his teeth and hair while in this state, and wondered how long Sean would watch him. He half-hoped that Sean would just burst in and take him right there. In fact, the thought of just that was something he dwelled on for more than a moment, imagining those strong arms lifting him up onto the counter. <span class="GramE">The thick hands caressing his shoulders, pulling on his hips.</span> That warm, lightly furry chest pressed up against him. That did it. His cock began to rise. There was no way in hell Sean could miss that if he was still watching. What? Was brushing his teeth a turn on? He waited. <span class="GramE">And waited.</span> Sean was still there, still as a mouse, watching but doing nothing. Dammit. Lij finally gave up and put the robe on. As he made to come out, he caught sight of Sean scurrying back to his place in front of the TV. Lij opened the door, and brought his hand around, reaching for the tie. He found it wasnt there, and so he clutched the robe around him clumsily, letting it gap in places.
+
+ 
+
+He looked around the room for a moment, wondering where the tie had gotten to. He spied it on the floor next to the other side of the bed, Hey, he nodded to Sean, who waved a fake-absentminded hand in his direction. Can you reach that tie on the floor? It must have come off.
+
+ 
+
+Sean leaned over and grabbed the tie from the floor. As he did so, Lij noticed the thick bulge in his pants, which couldnt be easily hid unless he was hunched over. His heart leapt. Sean \*did\* want him. Or at least he was turned on by something, and it was highly doubtful that it was the insipid video game he was pretending to play.
+
+ 
+
+Sean stood up, balancing gingerly on his sore foot, and came over to Lij. He paused for a moment as they were just a few inches apart. He held out the tie, but kept his eyes locked to those huge baby blues. Here, his voice nearly cracked.
+
+ 
+
+Thanks, Lij whispered. It was so stupid, this little game. Why couldnt they say it? Why couldnt they ask it? He wanted to be seduced, taken, ravaged, and Sean just wasnt taking the hint. Exasperated, he got an idea. He took one end of the tie and, grasping it as it was still in Seans hand, he quickly wrapped a couple of loops around his wrist and pulled his hand down and behind him, pulling Sean into him.
+
+ 
+
+Sean gasped as he nearly stumbled into Lij, but he quickly recovered. Something about that little flick of the wrist, and the resulting appearance of the dark blue terrycloth tie around that narrow, pale wrist, now safely locked behind Lijs back, sent him over the edge. With a strangled whimper, he bent his head and kissed Lij, hard and fully.
+
+ 
+
+Lij smiled into the kiss, relieved and amazed at the strength behind it. He opened up and snaked his free arm around Seans waist, his other still pinned behind him. Sean meanwhile brought a hand up to steady and <span class="GramE">caress</span> Lijs face. The robe Lij wore gaped open with no hands to hold onto it, and Lijs hardness pressed into Seans hip. He pressed back, making Lij moan and wrap his tongue further around Seans. They made out like this for several moments, tasting each others mouths and grinding hips. The rough feel of Seans jeans against Lijs sensitive cock made him quiver and whine into that warm, sucking mouth. Every bit of the strength hed sensed in Seans body was there, though it was under a layer of the softest flesh. Lij caressed Seans sides, stroking and kneading the softness there, and feeling the hard, sinewy oblique muscles just under the surface. He slid a hand under Seans shirt and around his back to knead and massage the strong muscles there, and now and again slipped the tips of his fingers below the band of Seans briefs, stroking just the top of the crack of his ass with one deft finger.
+
+ 
+
+Sean slid his hand down Lijs neck, caressing the always-sore muscles there. He slid his hand under the edge of the robe, and began pushing it down off of Lijs narrow shoulder. He pulled back from the kiss and began planting firm, sucking kisses down the side of Lijs neck and onto his shoulder, now and then nibbling a bit of the tasty, moist flesh. Lij gasped heavily every time those teeth came into use.
+
+ 
+
+Lij stopped for just a moment. Now that things were actually happening, a sharp wave of panic came over him. Wait, he breathed, trying to regain some sense of sanity, Sean, we cant do this. Youyoure married. Christine
+
+ 
+
+<span class="GramE">will understand.</span> Its okay. She knows I was with guys before we met, and it doesnt bother her. Hell, we had a very funny conversation once where she told me if Brad Pitt ever asked for a blowjob I should give him one. Sean smiled and resumed chewing on Lijs neck, Besides, he mumbled, she thinks youre cute. I cant imagine shed grudge me this. He hoped that sounded real. He actually wasnt totally sure how Christine would feel about this. She was a very generous woman, and very cool about his past, butwell he hoped shed be okay with it. He wasnt going to lie to her, at least.
+
+ 
+
+Lijs head swam. He was with guys before? <span class="GramE">Holy shit.</span> Then that meant that he would know what he was doing. That it wasnt a brand new experience like it was for him. It was far more than just fantasy and what stories and porn hed managed to get when he first started thinking about guys like this only a couple of years ago. Sean was \*experienced\* in comparison, and the idea made Lijs knees, already weakening, crumple.
+
+ 
+
+Sean felt Lij slump underneath him and caught his weight. As it was, his foot was growing sore from standing, so he decided perhaps the bed was a better place. Gripping the end of the tie in his right hand, he tugged on it. Lijs eyes grew wide and a broad, syrupy grin crossed his face. He liked where this was going. He let himself be led by his bound wrist over to the bed, where he was gently pushed down. Sean knelt on the bed in front of him and pushed his robe down from his shoulders, nibbling a path down his upper arms as he went. Soon, the robe was off, and he lay there, naked in front of Sean. The feeling of being fully naked and vulnerable while Sean, easily stronger and certainly in control was still fully clothed was nerve-wrackingly intense. His stomach trembled, waiting for the next touch.
+
+ 
+
+Sean sat back on his heels briefly, eyeing the end of the tie in his his hand. This was certainly a side of Lij he hadnt quite expected to see, but now that he was seeing it, it lit a flame inside him he didnt know he had. Hed never been with anyone who was the least bit kinky in this respect. You \*are\* a bit weird, arent you Lij? he purred teasingly.
+
+ 
+
+Lij felt himself blush from top to toes. He couldnt say it. Just couldnt say it. But oh, he wanted it. Those evil little fantasies hed had. <span class="GramE">So many of them that involved this man right in front of him.</span> He squeezed his eyes shut and barely nodded. He felt a sharp tug of the tie around his wrist.
+
+ 
+
+That wasnt an answer, you know, Seans eyes narrowed almost menacingly.
+
+ 
+
+Lij gasped and he felt his cock jump. Ahhhmmm, he couldnt form words.
+
+ 
+
+What do you want? Sean asked, pulling the bound wrist up above Lijs head, Is it this? Is this what you like?
+
+ 
+
+Language was impossible at that moment, but he tried, Mmm-hmm. Yesss he let the air slip past his teeth, but his delicious embarrassment grew as he breathed the word.
+
+ 
+
+Well, isnt that fascinating. You sure are one complex guy, you know that? I knew there was a reason I liked you. Oh, but wait. It also could be because youre so fucking hot. Sean was getting into this, enjoying the hell out the reactions he was getting from the squirming boy. Yes, you are certainly hot. He eyed the length of Lijs lean frame, his cock longer and thicker than seemed proportional, and a slightly darker tone than the rest of his thin, washed-out skin. Seans own cock throbbed painfully in its cloth prison and he took a moment to adjust himself, giving himself a good squeeze while he could. Without much warning he suddenly grabbed Lijs other wrist and brought it up to meet the already-bound one. He looped more of the tie around and then tied the loose end to the bedpost.
+
+ 
+
+Lij squirmed and his hips bucked involuntarily. Now he really was at Seans mercy, and, though he trusted him completely, he couldnt help but be just a little scared. He had no idea what the much older and more experienced man had in store for his nearly-virginal body. The few girls hed been with were all passivethey just laid there like dead fish while he fucked them. This was entirely different, and entirely amazing.
+
+ 
+
+Sean finally stood back up for a moment, and decided that he felt overdressed. He slowly stripped off his shirt, running his fingers through the soft hair on his chest and stomach. He then peeled off his jeans, and slid his briefs to the floor. Lij watched all this, his breathing growing deeper and more ragged. Sean got on his knees on the bed again, at an angle to Lijs prone form, his hips on a level with Lijs shoulders. He bent over, bracing himself with his left arm, dangling his cock in front of Lijs mouth and stroking himself with his free hand.
+
+ 
+
+Lij tried to raise his head to take that thick, meaty cock in his mouth, but with his arms above his head, it was nearly impossible. The best he could do was to extend his tongue and gently lap just the very tip of the swollen, purplish head. He caught a drip of honeyish precum on his tongue and tasted it, the sweet saltiness a bit of glory in his mouth. He ached to be touched himself, but at the very least, he wanted to touch Sean, too.
+
+ 
+
+Sean quivered slightly at the first touch of that soft, velvety tongue, and briefly considered simply stuffing himself into that eager mouth. But, he didnt know how many other opportunities he might have to do this, and he wanted this experience to last. He drew back, after squeezing another drop onto the outstretched tongue below him. He looked over Lijs body, wondering where to start. Those velvety nipples stared out at him like beacons and he smiled, diving down to suddenly capture one in his mouth.
+
+ 
+
+That warm mouth on his sensitive nipple made Lij erupt in a high-pitched shriek, and he then moaned musically with each suck and lick. Sean was surprised at the intensity of response and eagerly delved into his task, bringing a hand up to caress and <span class="GramE">pinch</span> the other nipple. Lij gasped and flexed, pressing his chest into Seans mouth. Just as an experiment, Sean began gently using his teeth, nibbling and sucking the nipple between them. Lij screwed up his face and began keening and mewling, an edge of pain in his voice, but the writhing and twisting his hips were doing made clear his true response. Sean redoubled his efforts, and roughened the attentions he was giving the other hard nub, and it was all Lij could do to keep from bucking his way completely off the bed.
+
+ 
+
+It hurt. Oh god it hurt, but it hurt in the most incredible way. He had played with his own nipples several times, but no-one had yet done that to him, and certainly not the biting and pinching that was going on now. His nipples felt like two little match heads, connected to a thread of fire that went straight into his cock. He almost thought he might come right then and there when Sean finally slowed and began kissing his way down Lijs stomach instead. Lij could feel the bit of sandpapery stubble on Seans chin as it scraped over his tender tummy, and the rasp made his skin come alive.
+
+ 
+
+Sean moved around to the end of the bed and pushed Lijs thighs apart, to <span class="GramE">lay</span> on his stomach in between them. Lij obliged quickly, raising his knees. He anticipated a blowjob, perhaps, but what he got instead made his stomach quiver and roll. Sean stroked and kneaded his inner thighs for a moment, and caressed the tender area behind his balls with deft fingers, stroking and squeezing the root of his cock there. At the first stroke of a finger across his asshole, Lij twitched involuntarily. He wasnt so sure he was ready for anything like that, and his mind raced, wondering if he shouldor couldsay something about it. He tensed up, waiting for the inevitable push at his shy opening. It didnt come. But what he did feel was warmth and wetness. With a shock he realized that Sean was licking and sucking his ass. Now \*that\* was something he could handle!
+
+ 
+
+Ohhhh wow he cried, the fluttery feelings welling up inside him. He never had any idea he had so many nerve endings there. <span class="GramE">Or in his entire body for that matter.</span> When Seans tongue slipped inside him, he didnt resist at all, though he had to do his best to keep from squirming around in delight. Instead, he clenched and unclenched his hands, twisting them in their bonds. Soon, the feeling of a moistened finger sliding inside him was not only not uncomfortable, but amazing.  He relaxed and let his body be invaded in a way hed never known. When Seans long, thick finger found a sweet spot inside <span class="GramE">him,</span> he thought he might go mad. Suddenly everything between his navel and his knees went to jelly and there was a satisfying thud in the pit of his stomach. His cock felt alive from the inside out.
+
+ 
+
+Somehow Sean clambered around on top of Lij. The throbbing in his own crotch was becoming far too much to bear, and he ached for some sort of touch. It was a good thing that they were both the same height, because it was very easy for him to situate himself so that his cock was within easy reach of Lijs mouth if Lij turned slightly on his side, which he did, once hed recovered from the initial wonderful shock of having a wiggling finger up his ass. He hungrily suckled the big cock offered to him, needing something to do with his mouth besides moaning and unintelligible babble.
+
+ 
+
+Sean then took Lijs cock into his mouth, and eased another finger inside him, rhythmically pressing upwards to the resilient ridge inside. Lij whined low in his throat and the vibrations felt wonderful cascading over Seans cock. Their paces quickened, and soon Sean felt Lijs ass clench his fingers and his balls draw up close to his body. The pulsing head of his dick swelled to maximum size, and Lij began to moan, long and steady, pulling back his head from Seans cock to avoid biting it off. As he finally crashed over the edge, he swore he felt his cum rising and shooting from somewhere inside him that had never existed before. The reverb of muscle contractions in his ass trembled and shook and he drained for a very long time. Just as he was riding the last wave, he greedily sucked down Seans cock again, taking it as deeply into his throat as his inexperience could manage. He sucked and stroked hard, and was soon rewarded by Seans own thick cum spurting in hot gushes into his mouth.
+
+ 
+
+Sean could barely move, and he lay there for a moment, his head resting on Lijs rising and falling abdomen, soft whimpers coming from his mouth, which was still alive with the sweet, sharp taste of Lijs cum. Reality seemed so far away, and he wanted it to stay there, but it soon crept back and he managed to disentangle himself. He untied Lijs wrists with one deft hand, and massaged a cramp out of the boys shoulder, caused by an uncomfortable twitch in that position.
+
+ 
+
+They curled up around each other for some time, simply breathing and caressing, now and then kissing warmly and softly. Sean smiled to himself. There was certainly something to be said for finding ones lost youth. <span class="GramE">Especially when it was as weird, wild and wonderful as this one.</span>
+
+ 
+
+\*end\*
+
+ 
+
+[Return to Fanfics](lotr_slash.htm)
+
+ 
+
+[Return to the Bag-End Inn](http://www.bagendinn.com)

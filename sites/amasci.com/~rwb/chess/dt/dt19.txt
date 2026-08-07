@@ -1,0 +1,123 @@
+Organization: Carnegie Mellon, Pittsburgh, PA
+Newsgroups: rec.games.chess
+Message-ID: <If28Nei00axb00t25m@andrew.cmu.edu>
+Date: Tue, 17 Nov 1992 00:43:06 -0500
+From: John Anthony Chanak <jc79@ANDREW.CMU.EDU>
+Subject: Bronstein-DT games (3 of them)
+Lines: 111
+
+
+Hi everyone... These are all the complete games hpdbdt-scratchy played
+Nov 16, 1992
+Sorry for the format- it's the raw game save ICS uses.  I believe all
+the games were G/15 +15
+It does not show who won each game... I'll let you all have fun figuring
+them out.  The second game here in particular is very interesting- you
+might call it "artistically pleasing."
+
+We do have one other game (about 22 moves or so) that was never
+"correctly" completed- it is saved as a game with a dropped connection.
+I will post it if people really want to see it.
+
+
+White: Deep Thought (scratchy)
+Black: David Bronstein(GM) (hpdbdt)
+
+moves: 43
+turn: black
+Listing:
+P/e2-e4 (0:06)          P/e7-e5 (0:55)
+P/f2-f4 (0:03)          P/d7-d5 (0:38)
+P/e4-d5 (0:08)          P/c7-c6 (0:15)
+N/b1-c3 (0:09)          P/e5-f4 (1:00)
+N/g1-f3 (0:04)          B/f8-d6 (0:13)
+P/d2-d4 (0:12)          N/g8-e7 (0:07)
+P/d5-c6 (0:22)          P/b7-c6 (1:02)
+B/f1-c4 (0:45)          o-o (0:18)
+N/c3-e4 (0:36)          B/d6-c7 (0:51)
+o-o (0:34)              N/e7-f5 (1:23)
+Q/d1-d3 (0:33)          N/b8-d7 (0:30)
+N/f3-g5 (0:36)          N/d7-f6 (0:47)
+N/g5-f7 (0:32)          R/f8-f7 (0:14)
+N/e4-g5 (0:22)          N/f6-d5 (0:46)
+N/g5-f7 (0:02)          K/g8-f7 (0:24)
+B/c1-f4 (0:13)          K/f7-g8 (1:30)
+B/f4-c7 (0:33)          Q/d8-c7 (0:06)
+R/f1-f5 (0:26)          B/c8-f5 (0:34)
+Q/d3-f5 (0:05)          R/a8-d8 (0:16)
+R/a1-f1 (0:33)          Q/c7-e7 (0:19)
+P/c2-c3 (0:35)          P/g7-g6 (0:08)
+Q/f5-f6 (0:36)
+
+*****
+
+Black: Deep Thought (scratchy)
+White: David Bronstein(GM) (hpdbdt)
+
+moves: 62
+turn: white
+Listing:
+P/e2-e4 (0:48)          P/c7-c5 (0:01)
+P/b2-b4 (0:11)          P/c5-b4 (0:00)
+P/a2-a3 (0:12)          P/d7-d5 (0:04)
+P/e4-d5 (0:09)          Q/d8-d5 (0:05)
+N/g1-f3 (0:13)          P/e7-e5 (0:03)
+P/a3-b4 (0:10)          B/f8-b4 (0:42)
+R/a1-a3 (0:15)          B/b4-a3 (0:33)
+B/c1-a3 (0:36)          Q/d5-a5 (1:30)
+B/f1-c4 (0:35)          N/b8-c6 (0:02)
+o-o (0:08)              P/f7-f6 (0:34)
+P/d2-d4 (0:18)          B/c8-g4 (1:06)
+P/h2-h3 (0:35)          B/g4-h5 (0:37)
+P/d4-e5 (2:05)          P/f6-e5 (0:50)
+Q/d1-d6 (1:35)          N/g8-e7 (0:01)
+Q/d6-e6 (1:30)          R/h8-f8 (0:02)
+B/a3-e7 (1:19)          N/c6-e7 (0:33)
+N/f3-e5 (0:48)          R/a8-d8 (0:01)
+N/b1-c3 (1:13)          P/a7-a6 (1:57)
+N/c3-e4 (1:25)          Q/a5-c7 (0:02)
+R/f1-e1 (2:06)          R/d8-d4 (0:30)
+B/c4-b3 (1:21)          R/f8-f4 (0:31)
+N/e5-c4 (0:50)          B/h5-g6 (1:37)
+N/c4-d6 (1:04)          K/e8-f8 (0:29)
+P/g2-g3 (0:41)          R/f4-f3 (1:20)
+P/c2-c3 (0:38)          R/d4-d6 (0:48)
+N/e4-d6 (0:08)          R/f3-f6 (0:29)
+Q/e6-c4 (0:20)          Q/c7-d6 (0:28)
+R/e1-d1 (0:09)          Q/d6-b6 (0:29)
+R/d1-d2 (0:15)          B/g6-f7 (0:27)
+Q/c4-b4 (0:11)          B/f7-b3 (0:27)
+R/d2-d8 (0:16)          Q/b6-d8 (0:26)
+
+*****
+
+White: Deep Thought (scratchy)
+Black: David Bronstein(GM) (hpdbdt)
+
+moves: 41
+turn: black
+Listing:
+P/e2-e4 (0:03)          P/e7-e5 (0:35)
+P/f2-f4 (0:00)          P/e5-f4 (0:06)
+N/g1-f3 (0:01)          P/g7-g5 (0:09)
+P/h2-h4 (0:01)          P/g5-g4 (0:06)
+N/f3-e5 (0:01)          B/f8-e7 (1:38)
+Q/d1-g4 (0:41)          P/d7-d6 (0:07)
+Q/g4-g7 (0:41)          P/d6-e5 (0:53)
+Q/g7-h8 (0:53)          B/e7-h4 (0:20)
+K/e1-d1 (0:15)          B/c8-g4 (2:01)
+B/f1-e2 (0:01)          B/g4-e2 (0:10)
+K/d1-e2 (0:01)          Q/d8-g5 (0:20)
+K/e2-f1 (0:15)          P/f4-f3 (3:27)
+P/g2-f3 (0:36)          Q/g5-g3 (0:32)
+R/h1-h4 (0:04)          Q/g3-f3 (0:10)
+K/f1-e1 (0:28)          Q/f3-g3 (2:11)
+K/e1-e2 (2:26)          N/b8-c6 (1:13)
+P/c2-c3 (0:32)          Q/g3-h4 (3:41)
+Q/h8-g8 (0:34)          K/e8-d7 (0:08)
+Q/g8-a8 (0:26)          Q/h4-g4 (0:48)
+K/e2-d3 (0:34)          P/f7-f5 (0:07)
+K/d3-c2 (0:34)
+
+
+

@@ -1,0 +1,1023 @@
+---
+title: "Pull 116 -- 11th Annual New Plantation Dog Pull -- Day 2"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0203/Pull116.html
+order: 7407
+reachable_from_entry: false
+images: 0
+internal_links: 4
+extracted: 2026-08-07T06:00:01Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 116 -- 11th Annual New Plantation Dog Pull -- Day 2
+
+*Source page: `~samoyed/iwpa/0203/Pull116.html`*
+
+11th Annual New Plantation Dog Pull\
+Evans, Colorado
+====================================
+
+Pull: 116
+
+Organizer(s):Nacho Alvarado
+
+Wheels on Dirt Region: 9
+
+Track:
+
+Good
+
+Date: Sun 16 Mar 2003
+
+Weather:
+
+Nice, 70F
+
+Day 2 of 2
+
+<div align="center">
+
+<table data-border="1" data-cellpadding="2" data-bordercolorlight="#0000FF" data-cellspacing="1" data-bordercolordark="FF0000">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2">Color<br />
+Codes</td>
+<td><em><strong>%</strong></em> -- Working Dog (WD) Leg Eligibility</td>
+<td data-bgcolor="#FFFF00">WD</td>
+<td data-bgcolor="#00FFFF">WD Excellent</td>
+<td data-bgcolor="#00FF00">WD Superior</td>
+</tr>
+<tr>
+<td><strong><em>Handler</em></strong> -- Owner / Handler relationship</td>
+<td><p>Owner</p></td>
+<td data-bgcolor="#FFFF00">Family Member</td>
+<td data-bgcolor="#00FFFF">Other Membership</td>
+</tr>
+</tbody>
+</table>
+
+Chief Judge: Terry Reed
+
+</div>
+
+20 \# Class\
+Judged by Rodney Martin Apprenticing under Terry Reed\
+55 \# Start weight, 30 \# Increment, Cart weighs 55 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Rasta Man
+
+9
+
+780
+
+11.89
+
+19
+
+41.05
+
+5.0
+
+Tim Long
+
+Patterdale Terrier
+
+40 \# Class\
+Judged by Rodney Martin Apprenticing under Terry Reed\
+55 \# Start weight, 30 \# Increment, Cart weighs 55 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Diamond "Lil"
+
+9
+
+2340
+
+15.67
+
+36
+
+65.00
+
+5.0
+
+Dean Mircos
+
+Am. PitBull Terrier
+
+60 \# Class\
+Judged by Nacho Alvarado\
+390 \# Start weight, 360 \# Increment, Cart weighs 270 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Dozer
+
+9
+
+2910
+
+13.37
+
+55
+
+52.91
+
+12.0
+
+Roger Vigil\
+Regina Vigil
+
+Am. PitBull Terrier
+
+Bull
+
+9
+
+2910
+
+13.44
+
+60
+
+48.50
+
+9.0
+
+Tim Long
+
+Am. PitBull Terrier
+
+Jumbo
+
+9
+
+2910
+
+13.48
+
+55
+
+52.91
+
+6.0
+
+Eli Landers\
+Mark Landers
+
+Am. PitBull Terrier
+
+Waylon
+
+9
+
+2910
+
+14.31
+
+60
+
+48.50
+
+4.0
+
+Tim Long
+
+Am. PitBull Terrier
+
+Colt
+
+9
+
+2550
+
+14.65
+
+57
+
+44.74
+
+3.0
+
+Jim Walters
+
+Am. PitBull Terrier
+
+Kane
+
+9
+
+2190
+
+12.95
+
+58
+
+37.76
+
+2.0
+
+Chez Salazar
+
+Am. PitBull Terrier
+
+Princess Alie
+
+9
+
+1470
+
+12.92
+
+58
+
+25.34
+
+1.0
+
+Terry Reed
+
+Boxer
+
+Silver
+
+9
+
+1470
+
+39.27
+
+52
+
+28.27
+
+0.5
+
+Rodney Martin
+
+Norwegin Elkhound
+
+80 \# Class\
+Judged by Rodney Martin Apprenticing under Terry Reed\
+450 \# Start weight, 420 \# Increment, Cart weighs 270 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Shadow
+
+9
+
+3810
+
+12.59
+
+80
+
+47.63
+
+15.0
+
+Justine Alvarado
+
+Black Labrador Retriever
+
+Blade Runner
+
+9
+
+3810
+
+13.21
+
+80
+
+47.63
+
+12.0
+
+Rick Williams
+
+Alaskan Malamute
+
+Dozer
+
+9
+
+3810
+
+20.72
+
+79
+
+48.23
+
+9.0
+
+Jim Walters
+
+Olde English Bulldogge
+
+Cross Eyed Kate
+
+9
+
+3810
+
+23.00
+
+78
+
+48.85
+
+7.0
+
+Dean Mircos
+
+Am. Bull Dog
+
+Jazz
+
+9
+
+3390
+
+12.84
+
+79
+
+42.91
+
+6.0
+
+Randy Ferguson
+
+Am. Bull Dog
+
+Rodney
+
+9
+
+3390
+
+13.85
+
+75
+
+45.20
+
+5.0
+
+Kevin Hybeck
+
+Am. PitBull Terrier
+
+Missy
+
+9
+
+3390
+
+16.05
+
+72
+
+47.08
+
+4.0
+
+Mark Landers\
+Eli Landers
+
+Am. Bull Dog
+
+Xydako
+
+9
+
+3390
+
+18.81
+
+74
+
+45.81
+
+3.0
+
+Nacho Alvarado
+
+Mixed
+
+Smokey
+
+9
+
+2970
+
+9.72
+
+80
+
+37.13
+
+2.0
+
+Gabe Casas
+
+Am. PitBull Terrier
+
+Prince Apollo
+
+9
+
+2970
+
+10.49
+
+80
+
+37.13
+
+1.0
+
+Terry Reed
+
+Boxer
+
+Tia Han
+
+10
+
+2550
+
+9.61
+
+74
+
+34.46
+
+0.5
+
+Kerry Fain
+
+Am. PitBull Terrier
+
+100 \# Class\
+Judged by Rodney Martin Apprenticing under Terry Reed\
+480 \# Start weight, 450 \# Increment, Cart weighs 270 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Renegade
+
+9
+
+4980
+
+14.12
+
+98
+
+50.82
+
+15.0
+
+Tim Long
+
+Am. PitBull Terrier
+
+Lightning
+
+9
+
+4980
+
+19.07
+
+98
+
+50.82
+
+12.0
+
+Dean Mircos\
+Gus Mircos
+
+Am. Bull Dog
+
+Sammy
+
+9
+
+4530
+
+13.96
+
+94
+
+48.19
+
+9.0
+
+Brian Hosfelt
+
+Am. Bull Dog
+
+Shaq
+
+9
+
+4080
+
+11.94
+
+97
+
+42.06
+
+7.0
+
+Chris Stock
+
+Oklahoma Bulldog
+
+Mountain
+
+9
+
+4080
+
+11.95
+
+97
+
+42.06
+
+6.0
+
+Mark Landers
+
+Am. Bull Dog
+
+Rhino
+
+9
+
+4080
+
+14.58
+
+93
+
+43.87
+
+5.0
+
+Eli Landers
+
+Am. Bull Dog
+
+Komdo
+
+10
+
+3180
+
+11.99
+
+97
+
+32.78
+
+4.0
+
+Brian Fain
+
+Am. PitBull Terrier
+
+Kane
+
+10
+
+3180
+
+19.57
+
+93
+
+34.19
+
+3.0
+
+Jack Lynch
+
+Am. PitBull Terrier
+
+Rocky
+
+P
+
+2730
+
+34.63
+
+84
+
+32.50
+
+.
+
+Brandon Blake
+
+Am. PitBull Terrier
+
+Axel
+
+9
+
+2280
+
+16.78
+
+93
+
+24.52
+
+1.0
+
+Michaelanne Bonner
+
+Am. Bull Dog
+
+Aki
+
+9
+
+2280
+
+17.53
+
+100
+
+22.80
+
+0.5
+
+Karen Becker
+
+Gr. Swiss Mtn. Dog
+
+125 \# Class\
+Judged by Rodney Martin Apprenticing under Terry Reed\
+540 \# Start weight, 480 \# Increment, Cart weighs 270 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Boogie
+
+9
+
+4860
+
+16.02
+
+117
+
+41.54
+
+14.0
+
+Mark Landers
+
+Am. PitBull Terrier
+
+Thunder
+
+9
+
+4860
+
+16.10
+
+107
+
+45.42
+
+11.0
+
+Dean Mircos
+
+Am. Bull Dog
+
+Oscar
+
+9
+
+4380
+
+13.53
+
+115
+
+38.09
+
+8.0
+
+Brian Hosfelt
+
+Am. Bull Dog
+
+Magnum
+
+10
+
+4380
+
+14.10
+
+111
+
+39.46
+
+6.0
+
+Brian Fain
+
+Am. PitBull Terrier
+
+Shank
+
+2
+
+4380
+
+15.25
+
+108
+
+40.56
+
+5.0
+
+John (Woody) Armour
+
+Am. PitBull Terrier
+
+Wedo
+
+9
+
+4380
+
+24.71
+
+109
+
+40.18
+
+4.0
+
+Frank Pineda
+
+Cane Corso Mastiff
+
+Chester
+
+9
+
+3420
+
+13.02
+
+115
+
+29.74
+
+3.0
+
+Brian Hosfelt
+
+Am. Bull Dog
+
+Sid
+
+9
+
+3420
+
+44.07
+
+115
+
+29.74
+
+2.0
+
+Corey Shepley
+
+Am. Bull Dog
+
+Luc
+
+9
+
+2460
+
+9.00
+
+123
+
+20.00
+
+1.0
+
+Michael Reddin
+
+Gr. Swiss Mtn. Dog
+
+Ripley
+
+9
+
+1500
+
+7.45
+
+108
+
+13.89
+
+0.5
+
+Karen Becker\
+Michael Reddin
+
+Gr. Swiss Mtn. Dog
+
+Unlimited Class\
+Judged by Rodney Martin Apprenticing under Terry Reed\
+540 \# Start weight, 480 \# Increment, Cart weighs 270 \#
+
+Dog
+
+Reg
+
+Pulled\
+<a href="codes.htm" target="_blank" title="Fail Codes">Fcode</a>/Fwt
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Winston
+
+9
+
+5820
+
+31.59
+
+196
+
+29.69
+
+5.0
+
+Thomas Roberts
+
+Mastiff/Bernard
+
+Last Updated: 18:10:30 on 03-18-2003
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](../pulllist.htm) | [Previous Pull \#](Pull115.html) | [Next Pull \#](Pull117.html) | [IWPA Home Page](../index.html) |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

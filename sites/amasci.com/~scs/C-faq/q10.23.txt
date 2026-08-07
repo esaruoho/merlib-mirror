@@ -1,0 +1,22 @@
+Question 10.23 
+
+ Question 10.23 
+ How can I
+use
+a macro argument
+inside
+a string
+literal
+in the macro expansion?
+
+ See question 11.18 .
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

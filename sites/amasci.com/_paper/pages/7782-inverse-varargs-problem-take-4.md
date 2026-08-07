@@ -1,0 +1,111 @@
+---
+title: "'inverse varargs problem', take 4"
+source_domain: amasci.com
+source_path: ~scs/C-faq/varargs/invvarargs.19930307.html
+order: 7782
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:20Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# "inverse varargs problem", take 4
+
+*Source page: `~scs/C-faq/varargs/invvarargs.19930307.html`*
+
+\[This message was originally sent on March 7, 1993, to someone who asked about the "wacky ideas".\]
+
+From: scs@adam.mit.edu (Steve Summit)\
+Subject: Re: dynamic function call\
+Date: Sun, 7 Mar 93 17:58:52 -0500\
+Message-Id: \<9303072258.AA22973@adam.MIT.EDU\>
+
+You wrote:\
+\> I was curious to find out your ideas on the below question appearing\
+\> in the C language FAQ:\
+\>\
+\> 7.5: How can I call a function with an argument list built up at run\
+\> time?\
+\>\
+\> A: There is no guaranteed or portable way to do this. If you're\
+\> curious, ask this list's editor, who has a few wacky ideas you\
+\> could try... (See also question 16.10.)\
+[\[current version of this question, now numbered 15.13\]](/~scs/C-faq/q15.13.html)
+
+Believe it or not, you're the first to have asked, so you get to be the first to hear me apologize for the fact that several elaborate discussions of those "wacky ideas" which I've written at various times are in fact stuck off in my magtape archives somewhere, not readily accessible.\
+\[The two main ones I was probably thinking of are [this one](invvarargs.19890604.html) and [this one](invvarargs.19920714.html).\]
+
+Here is an outline; I'll try to find one of my longer old descriptions and send it later.
+
+The basic idea is to postulate the existence of the following routine:
+
+        #include <stdarg.h>
+
+        callg(funcp, argp)
+        int (*funcp)();
+        magic_arglist_pointer argp;
+
+This routine calls the function pointed to by `funcp`, passing to it the argument list pointed to by `argp`. It returns whatever the pointed-to function returns.
+
+The second question is of course how to construct the argument list pointed to by `argp`. I've had a number of ideas over the years on how to do this; perhaps the best (or at least the one I'm currently happiest with) is to do something like this:
+
+        extern func();
+        va_alloc(arglist, 10);
+        va_list argp;
+
+        va_start2(arglist, argp);
+
+        va_arg(argp, int) = 1;
+        va_arg(argp, double) = 2.3;
+        va_arg(argp, char *) = "four";
+
+        va_finish2(arglist, argp);
+
+        callg(func, arglist);
+
+The above is equivalent to the simple call
+
+        func(1, 2.3, "four");
+
+Now, the interesting thing is that it's often (perhaps even "usually") possible to construct `va_alloc`, `va_start2`, and `va_finish2` macros such as I've illustrated above such that the standard `va_arg` macro out of `<stdarg.h>` or `<varargs.h>` does the real work. (In other words, the traditional implementations of `va_arg` would in fact work in an lvalue context, i.e. on the left hand side of an assignment.)
+
+I'm fairly sure I've got working versions of macros along the lines of `va_alloc`, `va_start2`, and `va_finish2` macros somewhere, but I can't find them at the moment, either. At the [end of this message](#end) I'll append a [different set of macros](varargs2.h), not predicated on the assumption of being able to re-use the existing `va_arg` on the left hand side, which should serve as an example of the essential implementation ideas.
+
+A third question is what to do if the return type (not just the argument list) of the called function is not known at compile time. (If you're still with me, we're moving in the direction of doing so much at run time that we've practically stopped compiling and started interpreting, and in fact many of the ideas I'm discussing in this note come out of my attempts to write a full-blown C interpreter.) We can answer the third question by adding a third argument to our hypothetical `callg()` routine, involving a tag describing the type of result we expect and a union in which any return value can be stored.
+
+A fourth question is how to write this hypothetical `callg()` function. It is one of my favorite examples of a function that essentially must be written in assembler, not for efficiency, but because it's something you simply can't do in C. It's actually not terribly hard to write; I've got implementations of it for most of the machines I use. I write it for a new environment by compiling a simple little program fragment such as
+
+        int nargs;
+        int args[10];
+        int (*funcp)();
+        int i;
+
+        switch(nargs)
+            {
+            case 0: (*funcp)();
+                break;
+
+            case 1: (*funcp)(args[0]);
+                break;
+
+            case 2: (*funcp)(args[0], args[1]);
+                break;
+
+            ...
+
+        for(i = 0; i < nargs; i++)
+            (*funcp)(args[i]);
+
+, and massaging the assembly language output to push a variable number of arguments before performing the (single) call. It's possible to do this without knowing very much else about the assembly/machine language in use. (It helps a lot to have a compiler output or listing option which lets you see the its generated assembly language.)
+
+When I say it's generally easy to write `callg`, I'm thinking of conventional, stack-based machines. Some modern machines pass some or all arguments in registers, and which registers are used can depend on the type of the arguments, which makes this sort of thing much harder.
+
+A fifth question is where my name "callg" comes from. The VAX has a single instruction, CALLG, which does exactly what you want here. (In other words, an assembly-language implementation of this `callg()` routine is a single line of assembler on the VAX.) I've also used the name `va_call` instead of `callg`.
+
+If you have questions or comments prompted by any of this, or if you'd like to see more code fragments, feel free to ask.
+
+[Steve Summit](http://www.eskimo.com/~scs/)\
+<scs@eskimo.com>
+
+<span id="end">\[The aforementioned "set of macros" is in this file:</span> [varargs2.h](varargs2.h) .\]

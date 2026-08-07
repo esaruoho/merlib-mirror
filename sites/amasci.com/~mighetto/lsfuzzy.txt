@@ -1,0 +1,37 @@
+Fuzzy Logic 
+
+ Fuzzy Logic 
+
+ Fuzzy logic
+is an approach for dealing with uncertainty that views mathematical
+probability as inappropriate, replacing it with an alternate theory called possibility
+theory. Fuzzy Truth concerns the likelihood or certainty that a fact or rule is true
+rather than frequency. 
+
+ For additional information try:
+
+ http://www.cs.cmu.edu/Web/Groups/AI/html/faqs/ai/fuzzy/part1/faq.html 
+ fuzzy logic
+and boats 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+[ Home ]
+[ Decision Tree ] 
+[ Deep Knowledge ]
+[ Acknowledgements ]
+[ Map ] 
+
+ http://www.eskimo.com/~mighetto/lsfuzzy.htm last update September 17,
+2001.
+
+ This topic is included in Decision Maker's smart database. Select the icon to
+display an image map.

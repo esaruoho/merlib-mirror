@@ -1,0 +1,438 @@
+iPhone Software at Pure Mac 
+
+ iPhone & iPod Touch Software 
+ What's New for iPhone? 
+
+ iPhone Apps 
+ Desktop Programs 
+ Server Side Apps 
+ Web Apps 
+
+ Games 
+ Home 
+ Internet 
+ Multimedia 
+ Utilities 
+
+ Accelerometer 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Frivolous 
+ Puzzle 
+ Sports 
+ RPG 
+ Word 
+
+ Calculators 
+ GPS 
+ Health 
+ Language 
+ Learning 
+ Night on the Town 
+ Recipes 
+ Shopping 
+ Travel 
+
+ Chat 
+ Email 
+ File Transfer 
+ Network Utilities 
+ Remote Access 
+ RSS 
+ Search 
+ Servers 
+ Social Networking 
+ Usenet 
+ Web Services 
+
+ Audio 
+ Document Viewers 
+ Graphics 
+ iTunes & MP3 
+ Musician 
+ Presentation 
+ Ringtones 
+ Screen Capture 
+ Video 
+
+ Development 
+ Disk & File 
+ Face-Lift 
+ Finance 
+ Installers 
+ Launchers 
+ PIMs 
+ Security 
+ SMS & Phone 
+ System Utilities 
+ Text Editors 
+
+ A Note on iPhone Software Categories: 
+ - Real "iPhone Apps" are programs which you can install and
+run on your iPhone. Apple's announcement of an SDK for developers coming in February may or may not make the hacks moot.
+ - The "Desktop Programs" 
+are applications which run on your Desktop
+Computer (i.e. Mac or PC). They are standard programs which can be used
+for iPhone development, converting video to iPhone readable
+formats, etc. etc.
+ - The "Server Side Apps" 
+are server programs (web and otherwise) which run on your desktop
+computer. You then log into your "home" server with iPhone's Safari and
+do your thing.
+ - The "Web Apps" 
+section has links to web sites which are specifically made for the
+iPhone. They may contain games, chat interfaces, actual programs that do
+something useful or just a pretty interface to a well established site.
+
+ Web 
+
+ Pure-Mac.com 
+
+ Updates: January 2008 
+ iPhone Update 1.1.3 - If you want to continue using third party apps, don't update. 
+ Jailbreaking your 1.1.2 iPhone 
+ How to Install Third-Party Apps on Your New iPhone or iPod Touch 
+ Guide to iPhone jailbreaking and applications 
+ Easy iPhone IUKit Development and Deployment with XCode 3.0 iPhone Template 
+
+ QuickTime 7.4 - Apple's Multimedia Architecture now with iPhone Export 
+
+ iTunes 7.6 - Apple's MP3 Player/Music and Video Distribution Software 
+
+ iFuntastic 4.9 - Jailbreak/Install Apps/Ringtones on the iPhone 
+
+ PhotoBoard 0.4.0 - Multitouch Image Viewer for iPhone 
+
+ iFlickr 0.0.7-2 - Flickr Uploader 
+
+ iBlackjack alpha 5.2 - Blackjack for iPhone 
+
+ iPhone Chess 1.4 - Gnu Chess for iPhone 
+
+ iSpit 1.5 - Tiny HTTP Server for Browsing Your iPhone 
+
+ BossTool 0.34 - Manage Free Disk Space on iPhone 
+
+ APlogger 1.0.5 - WiFi Stumbler for iPhone 
+
+ Converter 0.17 - Unit converter for iPhone 
+
+ Towers of Hanoi 1.2 - Puzzle Game for iPhone 
+
+ PocketMoney 1.0b4 - Personal Finance Program for iPhone 
+
+ Jiggy 0.21 - Make Javascript Apps Directly on the iPhone 
+
+ Hua Rong Dao 1.2 - Chinese Block Puzzle Game 
+
+ Domino 1.2 - Tile Game for iPhone 
+
+ iGo 1.3 - Go for iPhone 
+
+ Caissa 0.84b - Chess for iPhone 
+
+ iSlots 0.41 - Slot Machine for iPhone 
+
+ Labyrinth 1.0.2 - Accelerometer Game for iPhone/Roll a Ball Through a Wooden Maze 
+
+ SMSD 0.2.1 - SMS Enhancements for iPhone 
+
+ MobileScrobbler 1.2.5 - Last.fm Client for iPhone 
+
+ Block Puzzle 1.2 - Puzzle Game for iPhone 
+
+ Camera Pro 1.09 - Add Features to iPhone's Camera 
+
+ SMSNotify 0.01 - Vibrates iPhone Periodically for SMS 
+
+ The Missing Sync for iPhone 1.0 - Transfer Past Smartphone Data to iPhone etc. 
+
+ SwirlyMMS 0.2 - Send MMS's with iPhone 
+
+ Updates: December 2007 
+
+ iPhoneHome 0.7.3 - Reset Your iPhone's Home Button 
+
+ iNewsGroup 1.0.3 - Usenet Newsreader for iPhone 
+
+ iTrac 0.01 - UPS/FedEx/USPS Package Tracker for iPhone 
+
+ ContraSense 1.4 - Car Avoidance Game for the Accelerometer 
+
+ Voice Notes 0.30 - Record and Play Voice Memos on iPhone 
+
+ We-iSMS 1.0 b1228 - SMS App for IPhone 
+
+ Backgammon 1.10 - Board Game for iPhone 
+
+ XLaunch 0.20 - Application Launcher for iPhone 
+
+ SendFile 0.37 - Send any File Through Email on the iPhone 
+
+ ToDo 0.02 - To-do List Maker for iPhone 
+
+ weDict 0.6.1 - Expandable Multi-Language Dictionary for iPone 
+
+ SendSong 0.30 - Make an m4a into a Ringtone or Email any Song 
+
+ Erica Utilities 0.53 - Command Line Utilities for iPhone Including Screen Capture 
+
+ Mobile-RSS 2.3 - RSS Reader for iPhone 
+
+ psx4iphone 0.1.0 - PlayStation Emulator for iPhone 
+
+ ScummVM 0.11.0 - Virtual Machine for Playing Many Classic Adventure Games on Your iPhone 
+
+ Mobile DropCopy 1.0b4 - Easy iPhone to iPhone or Mac File Transfer 
+
+ iSolitaire 0.71 - iPhone Native Klondike 
+
+ Backgammon 1.01a - Board Game for iPhone 
+
+ PasswordWallet 4.3.2 - Password Storage Utility (Exports Secure Passwords to iPhone Safari Bookmark) 
+
+ iToner 1.0.5 - Ambrosia's App to Add Ringtones to Your iPhone 
+
+ Othello 0.1 - Board Game for iPhone 
+
+ VNsea 0.7 - Native VNC Client for iPhone 
+
+ TypingWeb Typing Tutor - Web App to Improve Your Touch Typing 
+
+ Webjimbo 2.1.1 - Server Side App To Run Yojimbo from a Remote Computer or iPhone 
+
+ iNdependence 1.3.1 - Jailbreak, Install SSH, Ringtones on iPhone 
+
+ iBlackjack alpha 5 - Blackjack for iPhone 
+
+ VisualHub 1.30 - Convert Between Various Video Formats 
+
+ Customize 1.20 - Customize Your iPhone's Dock, Images and Sounds 
+
+ gpSPhone 1.1.2 - Game Boy Advance Emulator for iPhone 
+
+ Google for iPhone - Google's Interface for iPhone including Search, RSS, Calendar and Mail 
+
+ Updates: November 2007 
+ iPhone/iTouch Dev Team Presents: 1.1.2 Jailbreak 
+ UIKit Based Applications - List of iPhone Apps which work on the various iPhone updates 
+
+ ScreenShot 1.2.1 - Screen Capture Utility for iPhone 
+
+ iPhoneDrive 1.3.1 - Use your iPhone to Store any File 
+
+ Nes.app 2.0 - Native Feature-rich Nintendo Emulator for iPhone 
+
+ MakeiPhoneRingtone 1.3.1 - Add Any AAC Ringtone to Your iPhone 
+
+ Wx 5.16 - Weather Program Which Also Makes Your Own Personalized Web App 
+
+ Navizon 1.1.3 - Virtual GPS for iPhone 
+
+ Remote Buddy 1.8 - Control Apps on Your Mac with an iPhone 
+
+ Tap Tap Revolution 1.3 - iPhone Music Game 
+
+ MOLISC - Web App with Live Soccer Scores 
+
+ afpd - Connect your iPhone to your Mac using the AppleTalk Filing Protocol 
+
+ iStudy 0.91 - Flashcard App for iPhone 
+
+ iRadio - Web App with Currently Playing Songs in Major US Markets 
+
+ SysInfo 1.0b - iPhone Process and Memory Info Program 
+
+ Nikotalkie 1.4.2 - Send Voice Messages on the iPhone 
+
+ Frotz 0.7 - Interactive Fiction Games for iPhone 
+
+ vTap - Web App to Search, Convert and View Video 
+
+ iCountDown v2 - Countdown Timer for iPhone 
+
+ Stack r78 - Leopard-like Stacks for iPhone 
+
+ Lockbox 0.5 - Password Storage Program for iPhone 
+
+ Updates: October 2007 
+ Apple - Web Apps 
+ From Steve: Third Party Applications on the iPhone 
+ Latest Update vs. Hacked: Comparing iPhones 
+
+ AppSnapp Installer for 1.1.1 - Jailbreak and Installer.app Right from Your iPhone 
+
+ Mobile Colloquy 0.2 - IRC Client for iPhone 
+
+ Frotz 0.6 - Interactive Fiction Games for iPhone 
+
+ Biphle - Boggle Type Game 
+
+ Mobile ToDoList 0.4 - Native To-do List App for iPhone 
+
+ Books 1.3.7 - Native eBook Reader for iPhone 
+
+ PDFViewer 0.02 - PDF Viewer for iPhone 
+
+ Missile Command - Arcade Game Web App for iPhone 
+
+ MobileTetrominos 0.8.1 - Clone of a Certain Falling Blocks Game for iPhone 
+
+ Sketches 0.4 beta - Take Notes on Your iPhone, Erase Like an Etch A Sketch 
+
+ MobileTerminal 1.9.8 - Terminal App for iPhone 
+
+ Apollo IM 1.0.2 - Native AIM, ICQ, and MSN Instant Messenger for iPhone 
+
+ Handbrake 0.9.1 - DVD to MPEG-4 Ripper/Converter 
+
+ Updates: September 2007 
+
+ MobileFinder 1.8.0 - Even an iPhone Needs a Finder 
+
+ Ants 1.2.0 - Squish Ants on Your iPhone 
+
+ Sudoku for iPhone - Sudoku Web App from Freeverse 
+
+ Updates: August 2007 
+
+ iPhoney 1.2 - Test How Your Site Will Look on the iPhone 
+
+ Amazon - Amazon's Interface for iPhone 
+
+ Facebook - Facebook for iPhone 
+
+ Apache 1.3.37-2 - The Web Server for iPhone 
+
+ MobileLauncher - Launcher for iPhone 
+
+ Meebo - AIM, Google Talk, MSN and Yahoo Instant Messaging on the iPhone 
+
+ Carmadillo - Frogger-type Game for iPhone 
+
+ Converter - Unit Conversion Calculator for iPhone 
+
+ MarbleJumper - Puzzle Game for iPhone 
+
+ ion bowling - Bowling Game for iPhone 
+
+ iPhone Tetris - Tetris 
+
+ mundo IM - AIM, Google Talk, Yahoo and MSN Instant Messaging for iPhone 
+
+ Cool Gorilla Talking Phrase Book - Phrases in French, German, Italian, Portuguese and Spanish 
+
+ WebShell 0.9.4 - Server Side App to Use SSH with Your iPhone/Browser 
+
+ Updates: July 2007 
+ ARM/Mach-O Toolchain 
+ 17 powerful bookmarklets for your iPhone at LifeClever 
+ Optimizing Web Applications and Content for iPhone 
+ Apple Developer Connection - Web Development for iPhone 
+ iPhone without AT&T 
+
+ The iPhone Section Now has Its Own RSS Feed 
+
+ Safari 3.0.3 beta - Beta Build of the New Safari 
+
+ Bejeweled - Gem Swapping Game for iPhone 
+
+ TubeTV 0.9.2 - YouTube Downloader and Converter 
+
+ Phone Home 0.2 - Server Side App To Control Keynote, DVD Player and iTunes with Your iPhone 
+
+ FlightStats Mobile - Check a Flight's Status on Your iPhone 
+
+ iPhone My eBay - eBay Certified Watcher/Bidder 
+
+ NewsGator Mobile - Great Web-based RSS Reader for the iPhone 
+
+ Gmail - Google's iPhone Web Interface to Gmail 
+
+ Google iPhone Search - Google's iPhone Interface 
+
+ SoonR 1.1.8 - Access Your Mac from a Data-enabled Mobile Phone (including the iPhone) 
+
+ SeeqPod - Search and Discover Music and Video 
+
+ White Page - White Pages 
+
+ Checkrz - Checkers for iPhone 
+
+ iPhone Video Poker - Poker 
+
+ iPhone Reversi - Othello 
+
+ iPhone Minesweeper - Minesweeper 
+
+ iPhone Match Sudoku - Choose from Easy, Medium or Hard 
+
+ iPhone Solitaire - Klondike 
+
+ iPhone Word Spell - A Well Done Boggle-type Game 
+
+ iPhone Sports - Sports Scores for the MLS, MLB, NHL, NBA and NFL 
+
+ iPhone Remote Desktop 0.9.21 - Server Side App to Control Your Mac Remotely 
+
+ Jacks or Better - Blackjack 
+
+ iBrick - Tetris 
+
+ eBuddy for iPhone - IPhone Web Interface to AIM, MSN and Yahoo IM 
+
+ Aptana 8b (Stable: Build 15637) - JavaScript-focused Development Environment for Building Ajax Applications 
+
+ iUI - JavaScript and CSS Bundle to Make Developing iPhone Web Apps Easy 
+
+ Shredder Chess - Chess 
+
+ JiWire Wi-Fi Finder - Find a Hotspot 
+
+ gOffice - Create and Email Word Compatible .docs on the iPhone 
+
+ TinyBuddy Web IM - AIM Instant Messaging on the iPhone 
+
+ Movies.app - Info on Local Movies 
+
+ JiveTalk for iPhone - AIM, Google Talk, MSN, ICQ, Jabber and Yahoo Instant Messaging on the iPhone 
+
+ Apple Movie Trailers - Movie Trailers for Your iPhone 
+
+ Updates: June 2007 
+
+ .Mac FeedReader - An RSS Reader as an iPhone Web App by Apple 
+
+ The Stopwatch - A Simple Stopwatch as an iPhone Web App 
+
+ Scenario Poker 2.6 - Texas Hold 'Em Web App for iPhone 
+
+ iPhone Apps Manager - Manage Your Web Apps in iPhone 
+
+ WordBreaker - Word Game 
+
+ Listingly - Create Private and Shared Lists 
+
+ iBookmark - del.icio.us Bookmark Importer 
+
+ iPhoneChat - Limited iPhone Web App Interface to AIM 
+
+ iPhoneDigg - iPhone Web App Interface for Digg 
+
+ OneTrip - Shopping List (Maybe the First 3rd Party iPhone Web App) 
+
+ iPhone Links 
+ Apple iPhone 
+ Apple iPhone Ads 
+ The iPhone Dev Wiki 
+ iPhoneWebDev Forum 
+
+ Denotes iPhone Native 
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Non-OS Specific Code 
+ Denotes Web App 
+
+ Back to the Main Page of Pure Mac

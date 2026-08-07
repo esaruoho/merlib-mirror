@@ -1,0 +1,531 @@
+NO SPAM!: Stop Junk Email 
+
+How Do I Stop Unwanted Junk Email?!
+
+ (Beating the Spammers at Their Own Game) 
+
+by
+
+ Al Wong 
+
+ August 5, 1997 Update! 
+
+Since I wrote this article, spammers have
+gotten smarter disguising their return email address so that
+it is not obvious.
+See the end of this article for my update.
+
+ Contents 
+
+ A Definition 
+ The Situation 
+ The Procedure: Sending Your Complaint Effectively 
+
+ Determining Who Sent the Message 
+ Contact the People in Charge 
+ Pay Attention to the Subject 
+ What to Say in the Complaint 
+ Be Consistent 
+
+ The Finer Points 
+
+ Mail Yourself a Copy of Your Complaint 
+ Multiple Machine Names 
+ Apparently From 
+ No Machine Name 
+ The AOL Exception 
+ Get Their Physical Mailing Address 
+ and Phone Number 
+ Forget Their Email Server 
+
+ The Consequences 
+ Conclusion 
+
+ A Definition 
+
+ Spamming is defined to mean sending many identical email
+messages (usually advertisements but not always) to people who
+did not request or want these messages in the first place. 
+These messages are
+considered junk email since they do not
+benefit the recipient but only the sender.
+The number of these junk email messages
+can be in the hundreds of thousands and even millions.
+Needless to say, spamming is considered extremely rude by people
+who inhabit the Net.
+
+ The Situation 
+
+I've been put on someone's mailing list and I'm receiving
+junk email from everyone and his brother. I tried to follow the
+instructions from their email server to remove me but
+I still keep getting these unwanted junk email. I want this
+to stop. 
+
+ How can I stop receiving junk email? 
+
+I have been asked this question many times.
+This problem has really bloomed, especially this year (1996).
+There exists several software programs that will scan through
+a group of email messages
+(gotten from an archive or bulletin board for example) and 
+strip away the email addresses creating a mailing list that 
+any idiot can use for spamming. These programs are for sale
+where anyone can buy them and use them on any email database
+without constraints.
+On the Net, there
+is no central clearinghouse where you can remove your email
+address from all lists. If you send email, if you participate
+in any Usenet group or mailing list, if you subscribe to
+a special interest mailing list, you will eventually
+be receiving junk email.
+
+Spamming doesn't work. 
+
+Newbie advertisers, 
+
+knowing nothing
+about Net culture, think they can do an "in your face" advertising
+campaign with impunity. Little do they know the Net works both ways.
+
+I recently started teaching classes for Internet beginners and
+inevitably this question of unwanted junk email gets asked.
+I tell my class to do the following below. 
+I have been doing this procedure for years and 
+have found it to be very effective. 
+However, 
+
+it is most effective if everyone
+does this too.
+
+I discovered a lot of this on my own and find it peculiar
+no one else has written a similar article.
+I am writing this procedure 
+
+ mainly for newbies 
+
+who think they are helpless to stop unwanted junk email.
+
+ The Procedure: Sending Your Complaint Effectively 
+
+ Determining Who Sent the Message 
+
+You can determine who sent you the junk email.
+Look at the From: line in the email header, the block of lines
+that occurs first in any email message.
+The sender's email address directly follows the From: line.
+
+For example, suppose the email header says From: loser@computer.com .
+This means loser@computer.com has sent you the unwanted junk email.
+It can be anyone in which case replace loser@computer.com 
+with the actual email address from the From: line.
+Note the loser's machine name is computer.com and it always
+follows immediately after the @ sign.
+
+ Contact the People in Charge 
+
+To stop future mailings from loser , you must contact
+the people responsible for the machine where the email originated from.
+ Send a complaint message to each person listed here:
+
+root@computer.com 
+postmaster@computer.com 
+loser@computer.com 
+(Send a copy to yourself here too)
+
+ Who Are These People? 
+
+ root is the system administrator, 
+ the guy in charge of the machine,
+ computer.com . He maintains everything on the machine.
+ He's usually very busy and doesn't like to be bothered.
+ Bother him anyway.
+
+ postmaster is responsible for the email on the same machine. 
+He makes sure email can be sent and received from the machine.
+If his machine gets overwhelmed with lots of complaints, he will 
+notice.
+
+Both of these people need to be informed if something wrong is happening
+on their machine.
+It's good to send to both people as one person or the other may
+actually be responsible for the email coming from their machine
+and insures someone will read your complaint.
+Note there will always be a root or a postmaster 
+account on a given machine but not necessarily both.
+
+ Sending your complaint to loser is "a courtesy".
+ If everyone did this, loser will enjoy getting his mailbox
+ filled with hundreds of thousands of complaints. His mailbox
+ would be shutdown long before this. And that's the point.
+
+ Pay Attention to the Subject 
+
+The Subject: line of your message should have SPAM somewhere in it.
+I like to put SPAM in the beginning the the Subject: line
+and leave the rest of the Subject: line unchanged.
+
+The people in charge of a given machine receive lots
+of email during the day.
+The word SPAM on the subject line is immediately
+recognizable when scanning through a bunch of email messages and
+you should get a faster response.
+
+ What to Say in the Complaint 
+
+Your message should say something like 
+(and yes, you may copy this verbatim):
+
+One of your users, loser@computer.com, has sent me the message below.
+I did not request this information. Receiving junk email is a waste of 
+both our time and our system resources. Please inform your user, messages
+like this are ENTIRELY UNWELCOMED at this site. There are other groups
+on the Net made specifically for these types of messages.
+
+This message is also being sent to all obvious account aliases.
+
+------------------------------------------------------
+
+------------------------------------------------------
+
+Of course, you would replace loser@computer.com with the actual
+email address of the sender (the person who sent you the junk mail).
+
+Be sure to include the entire text of the junk email at the end
+of your message. This is important! This serves at least two purposes.
+It lends creditability to your complaint as you have sent the evidence.
+It also lets root and postmaster know how annoying
+it is to receive a +100 line junk message.
+
+A sure way to include the junk email is to write it out to a file.
+Then, while you are editing your complaint message, just include
+the junk email file at the bottom using your editor. 
+Different editors vary with their commands so find out how
+to do an include file.
+
+Do not attach the junk email message. Attachments tend to get
+encrypted before they're sent and you cannot assume root or postmaster will
+have the necessary software to decrypt your attachment. These are
+very busy people. Make sure your complaint message is all plain text.
+
+Note: Keep your complaint message businesslike and courteous.
+The people in charge are very busy and probably don't realize loser is
+spamming (sending junk email) from their machine. 
+They are innocent so don't vent your frustrations upon them.
+
+ Be Consistent 
+
+That's it! 
+ BUT you must be consistent in sending 
+a similar complaint message every time
+you receive junk email.
+
+If everyone did this, junk email would be much
+reduced or disappear altogether. 
+You will get almost immediate action as root doesn't like to be
+bothered and postmaster is the email watchdog. 
+Imagine them getting a million email complaints within hours.
+
+ The Finer Points 
+
+ Mail Yourself a Copy of Your Complaint 
+
+It is a good idea to send a copy of your complaint message
+to yourself for your own records. Also you might need to
+send this complaint again to someone else.
+Just add your email address
+to the bottom of your sending list (the To: line).
+
+ Multiple Machine Names 
+
+Sometimes you'll get a message from loser@AAA.BBB.com. 
+AAA and BBB are separate machines. Machine AAA links to machine BBB.
+And machine BBB links to the Net. Send complaint messages to:
+
+root@AAA.BBB.com 
+root@BBB.com 
+postmaster@AAA.BBB.com 
+postmaster@BBB.com 
+loser@AAA.BBB.com 
+loser@BBB.com 
+
+This will insure root and postmaster 
+(and loser !) will receive your complaint.
+
+ Apparently From 
+
+ Some email messages have an 
+ Apparently from: AnotherLoser@AnotherComputer.com 
+ in the email header. 
+ It may also read Authenticated user:
+ AnotherLoser@AnotherComputer.com in the email header.
+ This means the junk email was originally
+ sent from another computer than stated in the From: line.
+ So additionally, send complaint messages to:
+
+root@AnotherComputer.com 
+postmaster@AnotherComputer.com 
+AnotherLoser@AnotherComputer.com 
+
+as well as
+
+root@computer.com 
+postmaster@computer.com 
+loser@computer.com 
+
+Read the email header and use your judgment.
+
+ No Machine Name 
+
+ Sometimes you'll also see something like From: loser@[123.123.123.123] 
+ in the email header where 123 can be any two or three digit number.
+ This is a valid email address. Send your complaint to root 
+ and postmaster like so:
+
+root@[123.123.123.123] 
+postmaster@[123.123.123.123] 
+loser@[123.123.123.123] 
+
+ The AOL Exception 
+
+The problem is so bad on America OnLine (AOL) that they have
+setup very special accounts to handle junk email complaints. 
+I understand they ignore all complaints sent to root 
+and postmaster. So send your complaints to the accounts
+below.
+ This is only for AOL: 
+
+TOSemail1@aol.com 
+TOSemail2@aol.com 
+loser@aol.com 
+
+ Get Their Physical Mailing Address and Phone Number 
+
+If the junk email contains a USPS address, you can try reporting 
+them to the US Postmaster too. I don't know about countries
+outside the US but one can always look into it.
+If the junk email has an 800 number or a phone number
+that's local to you...Well, you can figure this out.
+If you are really angry, check out their web site (if available) and obtain
+contact information from there.
+
+ Forget Their Email Server 
+
+Don't try messing with the email server of the junk email offender.
+
+You will probably discover the 
+remove-me-from-your-mailing-list command doesn't work.
+
+More than likely, the email server will add your name again
+to it's mailing list and you will end up receiving duplicate
+junk email messages.
+I suspect most losers don't know how to set up 
+an email server properly. 
+Any idiot can spam the Net though.
+
+ The Consequences 
+
+You will probably get a nice email message back from someone in charge
+who will tell you
+the loser's account has been closed, 
+the loser has been warned,
+they are looking into it, 
+very sorry, etc.
+Complaints that bounce back from the loser's account is evidence
+that his mailbox is full or his account is closed
+due to other people sending email complaints just like you.
+
+Many losers have had their account closed literally within hours of
+the spam. Their reputations tarnished forever on the Net.
+These are the lucky ones. Others have had their
+phone numbers and fax machines tied up for days. 
+Threats, sabotage, early morning phone
+calls, etc. are not unheard of in the most flagrant situations.
+Advertising on the Net is a double edged sword if you don't
+know what you are doing.
+
+On some computers (like Netcom), 
+the problem is so bad that the people in charge
+have set up another account called abuse where people can
+send in their complaints. You may get back an automated message 
+describing this. Send a copy of your message to abuse too
+but I would first send to root and postmaster. 
+I feel the people in charge should be prodded to take better
+steps to avoid this problem rather than shift it to another
+account.
+
+ Conclusion 
+
+So you see, you are not totally helpless. The trick is to be
+consistent in your complaints. Send a complaint as soon
+as you receive the junk email.
+
+Never let one junk email message go unchallenged.
+
+If everyone did this, junk email would be much
+reduced or disappear altogether.
+
+Let the ignorant advertisers know the Net works both ways.
+It is a thing of great beauty not to be cheapened by
+rude, unwanted junk email.
+
+ August 5, 1997 Update 
+
+Since I wrote this article, spammers have
+gotten smarter disguising their return email address so that
+it is not obvious.
+ The best one can do now is determine what
+ machine originated the spam and contact the people
+in charge of the machine.
+
+I include links to other sites which explain this procedure
+at the end of this update. I also include links and descriptions
+of tools to help you determine the email addresses of the people
+in charge.
+
+There are also using new tactics to defend against
+spam including 
+
+spam chaff, software that generates automatic complaints,
+exposure of personal information of spammers
+and email filters.
+
+I don't care much for email filters because:
+
+ Filters do not block spam. 
+Thinking filters block anything is a fallacy.
+There would be justice if spam
+bounced from your emailbox back to the spammer. 
+But this doesn't happen.
+Filters merely reroute suspected spam
+to another file which you eventually have to deal with anyway because...
+
+ Filters are not 100% Conceivably there might be email messages being 
+filtered that you want, say from family or friends. So you have to sort
+through spam to get a message you want. And maybe it's there and maybe not.
+
+ So by using filters, you are being inconvenienced twice. 
+1) determining how to set up the filter and 2) going through
+the spam anyway to determine if there's a message you want to keep.
+For me, I take the spam as it comes. Besides...
+
+ It gives me pleasure to help shutdown a spammer. 
+It annoys me that any spammer has the gall to fill my email box
+as if it's HIS RIGHT and then he gets angry
+if I complain! Well buddy boy, sending email works both ways.
+If you can send email to me then IT'S MY RIGHT 
+to send email to you.
+
+By the way, I also enjoy answering my own phone and dealing with
+telemarketers. But that's another article. :) 
+
+ Spammers are cowardly scum of the Net. 
+They claim spamming works
+and they have a right to send email. If this is so, then
+
+WHY ARE THEY DISGUISING THEIR EMAIL ADDRESSES?
+
+Is it possible they know they are not doing business
+in an acceptable (and probably illegal) manner?
+Do they know they are literally robbing resources from
+thousands of machines in
+communication bandwidth and disk space for their own
+selfish motives? Do you think they worry about the time
+they are stealing from literally hundreds of thousands
+of people, including you? It all adds up.
+Is it possible they fear the backfire of their spamming?
+You bet!
+
+I want my foot to the metal and my hair in the wind!
+We don't need no stinkin' filters!
+
+ Anti-Spam Links 
+
+Rather than reinvent the wheel,
+here are some great anti-spam links that I recommend:
+
+Stop Junk Email
+
+This is one of the first web sites I found against spam
+and I think it's a classic.
+There are articles galore on how to fight junk email
+including how to determine the machine name of
+the originating spam. The site appears to be updated
+fairly often too. Just surf around.
+
+Anti-Spam Zone
+
+Great articles. Read Poison the Well and
+ Personal Info on Wallace Sanford , an exposure of the
+biggest spam turkey of them all.
+
+Article on Cyber Promotions
+
+Know thy enemy.
+
+Links - Junk Email and Net Abuse
+
+All kinds of links to various anti-spam articles.
+
+Yahoo! - Junk Email Category
+
+Even Yahoo! has a separate category for junk email links!
+Especially check out the subcategory on
+
+Bot Bait.
+
+This is also known as Spam Chaff, Spam Bait, etc.
+As a passive defense, try this tactic with your web pages.
+Confuse the spammer's email grabber.
+
+Spam Tools Mailing List
+
+Mailing list about tools to deal with spam.
+
+ Useful Tools 
+
+These tools will help you identify the owners of a given machine name.
+You need to contact the people in charge to stop the spam.
+
+InterNIC Whois
+
+Once you have determined the 
+ machine name 
+to send a complaint (for example, spamorama.com)
+enter the machine name in the web form and Voila! InterNIC Whois will return
+all sorts of information about the machine. Including where
+the machine is located, names, phone numbers and 
+the email address(es)
+of the people in charge of the machine!
+
+Have fun!
+(Note: Some of you with MS-Windows machines probably
+already have a Whois program that came with the software
+package from your ISP.)
+
+ nslookup 
+(Unix shell accounts only)
+Sometimes, an 
+ IP address 
+(for example, 123.456.78.3) will
+be in the mail header instead of a
+ machine name. 
+The program,
+ nslookup, 
+will translate the
+ IP address 
+to its
+ machine name! 
+Now you can use InterNIC Whois (above) to find the
+names and email addresses of the people in charge
+of the machine.
+
+ My Writings 
+
+ Write to me 
+
+Last updated : April 30, 2001
+
+Copyright 1996-1997 Al Wong, Los Angeles, California, USA
+
+&#32;

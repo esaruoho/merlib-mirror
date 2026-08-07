@@ -1,0 +1,40 @@
+SSC Main Page 
+
+ Tim Worcester 
+ Normal 
+ Tim Worcester 
+ 8 
+ 75 
+ 2001-12-18T04:50:00Z 
+ 2001-12-28T04:40:00Z 
+ 1 
+ 70 
+ 400 
+ 3 
+ 1 
+ 491 
+ 9.2720 
+
+ THE ELECTRONIC CLOSET 
+
+ Cell Sentry System 
+
+ The Cell
+Sentry is a portable, un-manned, surveillance system that can be used 
+
+ to monitor
+remote sites. A variety of sensors
+are available for sensing activity 
+
+ including
+motion, metal, and seismic detectors. 
+ It uses the public telephone system 
+
+ (either
+cellular or POTS) to relay sensor activity to a central computer which 
+
+ in-turn
+sends messages to the end user(s) via emails or pages. 
+
+ --- Website 
+The Electronic Closet, 1980-2001 ---

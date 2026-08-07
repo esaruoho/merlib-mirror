@@ -1,0 +1,123 @@
+---
+title: "US DV Greencard Lottery, do it yourself, don't waste your money!"
+source_domain: amasci.com
+source_path: ~parents/webpre/dv/index.html
+order: 5704
+reachable_from_entry: false
+images: 5
+internal_links: 5
+extracted: 2026-08-07T05:58:41Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# US DV Greencard Lottery, do it yourself, don't waste your money!
+
+*Source page: `~parents/webpre/dv/index.html`*
+
+# US Green Card Lottery, Do it yourself instructions
+
+It is the sole purpose of this page to convince you that you can submit an entry to the DV greencard lottery **yourself**, without paying anyone but your postal service.
+
+**The mail-in period for the green card lottery (DV 2004) is **OVER**.\
+Instructions for the next lottery (DV2005) will be made available at the [the state department website](http://travel.state.gov), probably in August 2003.**
+
+## DV FAQs
+
+If **after** you have read the [instructions](http://travel.state.gov/DV2004.html) you still have questions, these might be helpful (**After** having read the instructions!)
+
+- **[The instructions are unclear, should I ....?](http://www.webpre.com/dv/instructions.html)**
+- **[Top reasons for disqualification](http://www.webpre.com/dv/disqualify.html)**
+- **[I've won, what now?](http://www.webpre.com/dv/winfaq.html)** If you are in the USA you should read this.
+- **[How can I find out if I won?](http://www.webpre.com/dv/didiwin.html)**
+- [Should I use a Greencard lottery submission services?](http://www.webpre.com/dv/#ffaq)
+- **[Discussion Board](http://www.webpre.com/dv/messages/index.html)**
+
+## DV Data
+
+- **[DV2003 "winner" count by country](http://www.webpre.com/dv/results2003.html)**
+- **[DV2002 "winner" count by country](http://www.webpre.com/dv/results2002.html)**
+- **[DV2001 "winner" count by country](http://secretary.state.gov/www/briefings/statements/2000/ps000623b.html)**
+- **[DV2000 "winner" count by country](http://www.webpre.com/dv/dv2kres.html)**
+- **[Cut-Off Numbers since 1995](http://www.webpre.com/dv/cutoff_history.html)**
+- **[phone numbers and email addresses](http://www.webpre.com/dv/dvlinks.html)**.
+
+## DV Instructions from previous years
+
+These are just made available here for historical purposes. Don't use to prepare your DV lottery entry! Instructions for DV2005 are not out yet.
+
+- [Official Instructions for DV 2004](http://www.webpre.com/dv/dv2004.html)
+- [Official Instructions for DV 2003](http://www.webpre.com/dv/dv2003.html)
+- [Official Instructions for DV 2002](http://www.webpre.com/dv/dv2002vb.html)
+- [Press Release for DV 2002](http://www.webpre.com/dv/dv2002.html)
+
+## About this site
+
+- **[Access statistics](http://www.webpre.com/dv/access.html)**
+- [Who's behind it?](http://www.webpre.com/dv/about.html)
+
+------------------------------------------------------------------------
+
+<span id="books"></span>
+
+Support this site by making book, music, or movie purchases you'd make anyway through **[this link to Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/webpresentatives)**\
+Buy books on immigrating to the USA directly through the linked cover images below.
+
+Books on immigrating to the USA
+
+Again, participating in the green card lottery is really easy and simple. You **don't need to spend any money** on books about it, **but** if you are serious about getting a greencard, you might want to explore other ways besides the lottery to get one, or to stay in the USA legally. Also, note that most of these books will probably be available at public libraries throughout the USA, where you can check them out for free. Of course most likely your green card case will take much longer than the couple of weeks a library will let you check out a book. Some of them are well worth their price.
+
+[<img src="http://www.amazon.com/covers/0/87/337/423/0873374231.m.gif" data-border="3" width="105" height="140" alt="buy it here" />](http://www.amazon.com/exec/obidos/ASIN/0873375319/webpresentatives)
+
+This book contains a lot of detailed information about immigrating to the USA and the related laws and procedures. What I like about this one is that, in addition to giving in depth information about the law, it also has real live advice and hints on what things look like in practice. Definitely worth the \$30.
+
+[<img src="http://www.amazon.com/covers/0/87/337/404/0873374045.m.gif" data-border="3" width="106" height="140" alt="buy it here" />](http://www.amazon.com/exec/obidos/ASIN/0873375300/webpresentatives)
+
+The authors, Canter & Siegel, are the ones who sent out [the infamous green card spam](http://math-www.uni-paderborn.de/~axel/BL/blacklist.html#list), advertising their lottery submission service in 1994, just so you know before you buy. I list it here, because it is a truely comprehensive work on immigrating to the USA. I, personally didn't quite like the style as much as in "How to get a green card". It's a bit drier, not as relaxed. But it has more content (like student visas, and a chapter on the green card lottery).
+
+[<img src="http://www.amazon.com/covers/1/88/055/984/1880559846.m.gif" data-border="3" width="92" height="140" alt="buy it here" />](http://www.amazon.com/exec/obidos/ASIN/1880559846/webpresentatives)
+
+Q&A style book, much like this site. Good read, but as always with Q&A not every individual case can be covered. The author maintains an [update web page](http://208.156.52.43/Pages/ImmUp.htm) which is meant to be used in conjunction with the book, but it will give you an idea about his style.
+
+[<img src="http://www.amazon.com/covers/0/76/151/715/0761517154.m.gif" data-border="3" width="105" height="140" alt="U.S. Immigration and Citizenship : Your Complete Guide " />](http://www.amazon.com/exec/obidos/ASIN/0761517154/webpresentatives)
+
+Haven't read it but you can read excerpts at the [author's website](http://www.ilw.com/wernick/book.htm)\
+If for whatever reason you don't want to order through this link, make sure that you get the 2nd edition (from March 1999). You can read reader's oppinions on the 1st edition [here](http://www.amazon.com/exec/obidos/ASIN/0761504508/webpresentatives) (don't buy the 1st edition, click on the image on the left for the 2nd edition)
+
+[The layman's guide to **Understanding Immigration Law**](http://www.amazon.com/exec/obidos/ASIN/0791044440/webpresentatives)
+
+This is a small pocket book, and compared to the previous books its more of a reference book, defining the various immigration procedures. The subtitle is "Everything you need to know **before** you call a lawyer". And I guess that's pretty accurate. It will help you understand what your lawyer is talking about, **if** you have a lawyer, but if you want to do it by yourself I'd spend \$3 more to get "How to get a greencard".
+
+[<img src="http://www.amazon.com/covers/0/96/260/034/0962600342.m.gif" data-border="3" width="108" height="140" alt="buy it here" />](http://www.amazon.com/exec/obidos/ASIN/0962600342/webpresentatives)
+
+I only looked at the 3rd edition, but I assume this one will be similar. Subtitled An easy to read guide to the US immigration process it's emphasis is on just that, making it a short and easy read. Consequently you get the whole story on just over 70 pages (not counting the sample forms etc).
+
+------------------------------------------------------------------------
+
+### <span id="ffaq"></span> Common Questions about Greencard Lottery Submission Services\
+or\
+Why you don't need to spend \$60 for somebody else to put a letter in the mailbox for you
+
+Disclaimer: I have absolutely no expertise in immigration matters, but I have successfully participated in DV95, and from that experience I do **know** that **nobody** needs an immigration lawyer to participate in the greencard lottery.
+
+**But the other sites say, that just the slightest error will disqualify my entry. Wouldn't it be worth it to spend some money for professional help?**  
+There are no professional greencard-lottery-entry-form-submitters! These people are looking for easy money. You just need to write information about yourself on a piece of paper and mail it to a special address. Follow the instructions from the state department website. If, for whatever reasons (most likely because english is not your native language) you have difficulties understanding the requirements, or have doubts about what to do, try to find someone to help you. Ask a friend or someone you know. Or use one of the online help forums. Incidentally, one is right **[here](http://www.webpre.com/dv/messages)**
+
+<span id="reject"></span>**But they say that last year millions of entries were rejected, because something was wrong with them!**  
+That's probably true. Did they also say what was wrong with them? I'd guess that a big chunk of those millions of entries were rejected because they did not arrive at the right time.\
+It is true, you have to follow the guidlines closely. But if you are able to legibly write your name, date and place of birth, and your address, and then manage to attach a photograph of yourself without using staples, and then send it by mail so it will arrive in the USA in October, you can't do any better. And there seem to be plenty of people who insist on sending in their entry without reading the instructions ([example](http://www.webpre.com/dv/dv2000.html#mistake)). So read the instructions!\
+If you can't write, find somebody to help you, but be aware that you need the equivalent of a highschool education to qualify for an immigration visa.
+
+**But doesn't it help to mail the entry from within the USA?**  
+Mailing it from the USA doesn't improve your odds of being selected at all. The odds only depend on the region your native country is in. There might be other reasons for letting somebody else mail the entry for you, though. For instance you don't trust your national postal service to be able to deliver a letter to the USA within a month, or, for whatever reason, you can't or don't want to receive a letter from the US state department in a year where you live now.\
+If you do end up using one of those services be sure to ask what they will do, if they find that something is wrong with the information you submitted. I saw a couple of sites which claimed that they will asure that only correct entries will be submitted. They didn't mention what they will do with an entry where they find something to be wrong, though. I doubt that they will call you overseas to let you know that there is a problem.
+
+**So, if all these other sites are just ripping people off, why doesn't anyone do anything against it?**  
+These people offer a service, and charge for it. There is nothing wrong with that. In fact a lot of the "green card" sites are afiliated with immigration law firms, most of them charge between \$30 and \$60 to submit your entry. I think that's a perfectly reasonable amount for an attorney to charge, for sending a letter for you. The question is, do you need to hire an attorney to send your mail?
+
+<span id="cani"></span>**Can I ask you a question?**  
+Sure, the best way to do that is on our [DV message board](http://www.webpre.com/dv/messages). I can't promise that I will have an answer, but maybe somebody else will. And keep in mind that I basically don't have a clue about immigration matters.\
+Note though that there are greencard lottery FAQs out there already, your question is most likely already answered there. I don't intend to replicate those here. My favorite one is [Siskind's green card lottery FAQ](http://www.visalaw.com/greencard.html)\
+For the more exotic questions I recommend the usenet group [misc.immigration.usa](news:misc.immigration.usa) (If you don't have access to a news server the previous link won't work, use [dejanews](http://www.dejanews.com/dnquery.xp?search=word&svcclass=dncurrent&showsort=date&ST=QS&query=~g%20misc.immigration.usa) instead)
+
+**I saw you do [webdesign](http://www.webpre.com), why is this page so butt-ugly-plain?**  
+I figured that a lot of people interested in the green card lottery, do not have access to the newest, fastest computer hardware. So I made the page fully lynx-compatible and graphics independent

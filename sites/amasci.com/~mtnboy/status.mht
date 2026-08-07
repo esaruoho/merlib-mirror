@@ -1,0 +1,1610 @@
+MIME-Version: 1.0
+Content-Location: file:///C:/213792E5/StatusReportTemplate.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:st1=3D"urn:schemas-microsoft-com:office:smarttags"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 10">
+<meta name=3DOriginator content=3D"Microsoft Word 10">
+<link rel=3DFile-List href=3D"StatusReportTemplate_files/filelist.xml">
+<title>Overview</title>
+<o:SmartTagType namespaceuri=3D"urn:schemas-microsoft-com:office:smarttags"
+ name=3D"PlaceType"/>
+<o:SmartTagType namespaceuri=3D"urn:schemas-microsoft-com:office:smarttags"
+ name=3D"PlaceName"/>
+<o:SmartTagType namespaceuri=3D"urn:schemas-microsoft-com:office:smarttags"
+ name=3D"place"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Joseph Cusimano</o:Author>
+  <o:LastAuthor>Joseph Cusimano</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>24</o:TotalTime>
+  <o:Created>2002-03-28T20:44:00Z</o:Created>
+  <o:LastSaved>2002-03-28T21:10:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>160</o:Words>
+  <o:Characters>913</o:Characters>
+  <o:Company>Microsoft Corporation</o:Company>
+  <o:Lines>7</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1071</o:CharactersWithSpaces>
+  <o:Version>10.3501</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if !mso]><object
+ classid=3D"clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=3Dieooui></objec=
+t>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:Symbol;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.EmailStyle16
+	{mso-style-type:personal;
+	mso-style-noshow:yes;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:windowtext;}
+span.16v
+	{mso-style-name:16v;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:550583439;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-258828342 67698689 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:37.15pt;
+	mso-level-number-position:left;
+	margin-left:37.15pt;
+	text-indent:-.25in;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple style=3D'tab-interval:.5in'>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal style=3D'margin-bottom:4.0pt'><b><span style=3D'font-s=
+ize:10.0pt;
+font-family:"Trebuchet MS"'>Overview</span></b><o:p></o:p></p>
+
+<table class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0
+ style=3D'border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style=3D'mso-yfti-irow:0;height:14.7pt'>
+  <td width=3D275 valign=3Dtop style=3D'width:205.9pt;border:solid gray 1.0=
+pt;
+  background:#333399;padding:0in 5.4pt 0in 5.4pt;height:14.7pt'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>&nbsp;</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D549 valign=3Dtop style=3D'width:411.85pt;border:solid gray 1.=
+0pt;
+  border-left:none;background:#A6A6A6;padding:0in 5.4pt 0in 5.4pt;height:14=
+.7pt'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>&nbsp;</span></b><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1;height:14.7pt'>
+  <td width=3D275 style=3D'width:205.9pt;border:solid gray 1.0pt;border-top=
+:none;
+  background:#E6E6E6;padding:0in 5.4pt 0in 5.4pt;height:14.7pt'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><b><span style=3D'font-=
+size:10.0pt;
+  font-family:"Trebuchet MS"'>Highlights</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D549 valign=3Dtop style=3D'width:411.85pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:14.7pt'>
+  <p class=3DMsoNormal style=3D'margin-left:22.3pt;text-indent:-.25in;mso-l=
+ist:
+  l0 level1 lfo1;tab-stops:list 22.3pt'><![if !supportLists]><span
+  style=3D'font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symb=
+ol;
+  mso-bidi-font-family:Symbol'><span style=3D'mso-list:Ignore'>&middot;<span
+  style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style=3D'font-size:10.0pt;font-famil=
+y:
+  "Trebuchet MS"'>Place Holder<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2;height:14.7pt'>
+  <td width=3D275 valign=3Dtop style=3D'width:205.9pt;border:solid gray 1.0=
+pt;
+  border-top:none;background:#E6E6E6;padding:0in 5.4pt 0in 5.4pt;height:14.=
+7pt'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><b><span style=3D'font-=
+size:10.0pt;
+  font-family:"Trebuchet MS"'>Open Issues</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D549 valign=3Dtop style=3D'width:411.85pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:14.7pt'>
+  <p class=3DMsoNormal style=3D'margin-left:22.3pt;text-indent:-.25in;mso-l=
+ist:
+  l0 level1 lfo1;tab-stops:list 22.3pt'><![if !supportLists]><span
+  style=3D'font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symb=
+ol;
+  mso-bidi-font-family:Symbol'><span style=3D'mso-list:Ignore'>&middot;<span
+  style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style=3D'font-size:10.0pt;font-famil=
+y:
+  "Trebuchet MS"'>Place Holder</span><span style=3D'font-size:10.0pt'><o:p>=
+</o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:3;height:14.7pt'>
+  <td width=3D275 valign=3Dtop style=3D'width:205.9pt;border:solid gray 1.0=
+pt;
+  border-top:none;background:#E6E6E6;padding:0in 5.4pt 0in 5.4pt;height:14.=
+7pt'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><b><span style=3D'font-=
+size:10.0pt;
+  font-family:"Trebuchet MS"'>Accomplishments</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D549 valign=3Dtop style=3D'width:411.85pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:14.7pt'>
+  <p class=3DMsoNormal style=3D'margin-left:22.3pt;text-indent:-.25in;mso-l=
+ist:
+  l0 level1 lfo1;tab-stops:list 22.3pt'><![if !supportLists]><span
+  style=3D'font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symb=
+ol;
+  mso-bidi-font-family:Symbol'><span style=3D'mso-list:Ignore'>&middot;<span
+  style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style=3D'font-size:10.0pt;font-famil=
+y:
+  "Trebuchet MS"'>Place Holder</span><span style=3D'font-size:10.0pt'><o:p>=
+</o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:4;mso-yfti-lastrow:yes;height:14.7pt'>
+  <td width=3D275 valign=3Dtop style=3D'width:205.9pt;border:solid gray 1.0=
+pt;
+  border-top:none;background:#E6E6E6;padding:0in 5.4pt 0in 5.4pt;height:14.=
+7pt'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><b><span style=3D'font-=
+size:10.0pt;
+  font-family:"Trebuchet MS"'>Work Items</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D549 valign=3Dtop style=3D'width:411.85pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:14.7pt'>
+  <p class=3DMsoNormal style=3D'margin-left:22.3pt;text-indent:-.25in;mso-l=
+ist:
+  l0 level1 lfo1;tab-stops:list 22.3pt'><![if !supportLists]><span
+  style=3D'font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symb=
+ol;
+  mso-bidi-font-family:Symbol'><span style=3D'mso-list:Ignore'>&middot;<span
+  style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style=3D'font-size:10.0pt;font-famil=
+y:
+  "Trebuchet MS"'>Place Holder</span><span style=3D'font-size:10.0pt'><o:p>=
+</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuchet=
+ MS"'>&nbsp;</span><o:p></o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:4.0pt'><st1:place><st1:PlaceNam=
+e><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>Test</span></b></st=
+1:PlaceName><b><span
+ style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'> </span></b><st1:Pla=
+ceType><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>Pass</span></b></st=
+1:PlaceType></st1:place><b><span
+style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'> Results</span></b><o=
+:p></o:p></p>
+
+<table class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0
+ style=3D'border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style=3D'mso-yfti-irow:0;height:.2in'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  background:#333399;padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>Audio</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D96 colspan=3D2 valign=3Dtop style=3D'width:1.0in;border:solid=
+ gray 1.0pt;
+  border-left:none;background:#A6A6A6;padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>&nbsp;</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border:solid gray 1.0p=
+t;
+  border-left:none;background:#333399;padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>Hardware</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D96 colspan=3D2 valign=3Dtop style=3D'width:1.0in;border:solid=
+ gray 1.0pt;
+  border-left:none;background:#A6A6A6;padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>&nbsp;</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border:solid gray 1.0p=
+t;
+  border-left:none;background:#333399;padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>Remote</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D96 colspan=3D2 valign=3Dtop style=3D'width:1.0in;border:solid=
+ gray 1.0pt;
+  border-left:none;background:#A6A6A6;padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border:solid gray 1.0p=
+t;
+  border-left:none;background:#333399;padding:0in 5.4pt 0in 5.4pt;height:.2=
+in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>First Run / STB</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D96 colspan=3D2 valign=3Dtop style=3D'width:1.0in;border:solid=
+ gray 1.0pt;
+  border-left:none;background:#A6A6A6;padding:0in 5.4pt 0in 5.4pt;height:.2=
+in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1;height:.2in'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  border-top:none;padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Build</span><o:p></o:p></p>
+  </td>
+  <td width=3D96 colspan=3D2 valign=3Dtop style=3D'width:1.0in;border-top:n=
+one;
+  border-left:none;border-bottom:solid gray 1.0pt;border-right:solid gray 1=
+.0pt;
+  padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>2002XXXX</span><o:p=
+></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Build</span><o:p></o:p></p>
+  </td>
+  <td width=3D96 colspan=3D2 valign=3Dtop style=3D'width:1.0in;border-top:n=
+one;
+  border-left:none;border-bottom:solid gray 1.0pt;border-right:solid gray 1=
+.0pt;
+  padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>2002XXXX</span><o:p=
+></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Build</span><o:p></o:p></p>
+  </td>
+  <td width=3D96 colspan=3D2 valign=3Dtop style=3D'width:1.0in;border-top:n=
+one;
+  border-left:none;border-bottom:solid gray 1.0pt;border-right:solid gray 1=
+.0pt;
+  padding:0in 0in 0in 0in;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>2002XXXX</span><o:p=
+></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Build</span><o:p></o:p></p>
+  </td>
+  <td width=3D96 colspan=3D2 valign=3Dtop style=3D'width:1.0in;border-top:n=
+one;
+  border-left:none;border-bottom:solid gray 1.0pt;border-right:solid gray 1=
+.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>2002XXXX</span><o:p=
+></o:p></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2;height:.2in'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Passed</span><o:p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Passed</span><o:p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'>&nbsp;<o:=
+p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'>&nbsp;<o:=
+p></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Passed</span><o:p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Passed</span><o:p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:3;height:.2in'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Failed</span><o:p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'>0<o:p></o=
+:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Failed</span><o:p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'>&nbsp;<o:=
+p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'>&nbsp;<o:=
+p></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Failed</span><o:p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'>0<o:p></o=
+:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Failed</span><o:p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'>0<o:p></o=
+:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:4;mso-yfti-lastrow:yes;height:.2in'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Blocked</span><o:p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'>0<o:p></o=
+:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Blocked</span><o:p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'>&nbsp;<o:=
+p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'>&nbsp;<o:=
+p></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Blocked</span><o:p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'>0<o:p></o=
+:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Blocked</span><o:p></o:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'>0<o:p></o=
+:p></p>
+  </td>
+  <td width=3D48 valign=3Dtop style=3D'width:.5in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuchet=
+ MS"'>&nbsp;</span><o:p></o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:4.0pt'><b><span style=3D'font-s=
+ize:10.0pt;
+font-family:"Trebuchet MS"'>Bug Stats</span></b><o:p></o:p></p>
+
+<table class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0
+ style=3D'border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style=3D'mso-yfti-irow:0;height:.2in'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  background:#333399;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>Audio</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border:solid gray 1.0pt;b=
+order-left:
+  none;background:#A6A6A6;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>&nbsp;</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border:solid gray 1.0p=
+t;
+  border-left:none;background:#333399;padding:0in 5.4pt 0in 5.4pt;height:.2=
+in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>Hardware</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border:solid gray 1.0pt;b=
+order-left:
+  none;background:#A6A6A6;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>&nbsp;</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border:solid gray 1.0p=
+t;
+  border-left:none;background:#333399;padding:0in 5.4pt 0in 5.4pt;height:.2=
+in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>Remote</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border:solid gray 1.0pt;b=
+order-left:
+  none;background:#A6A6A6;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border:solid gray 1.0p=
+t;
+  border-left:none;background:#333399;padding:0in 5.4pt 0in 5.4pt;height:.2=
+in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>First Run / STB</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border:solid gray 1.0pt;b=
+order-left:
+  none;background:#A6A6A6;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1;height:.2in'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Active</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:15.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Active</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:17.8pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Active</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:17.8pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Active</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2;mso-yfti-lastrow:yes;height:.2in'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Resolved</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:15.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Resolved</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:17.8pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Resolved</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:17.8pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Resolved</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuchet=
+ MS"'>&nbsp;</span><o:p></o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:4.0pt'><b><span style=3D'font-s=
+ize:10.0pt;
+font-family:"Trebuchet MS"'>Critical Bugs</span></b><o:p></o:p></p>
+
+<table class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0
+ style=3D'border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style=3D'mso-yfti-irow:0;height:13.9pt'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  background:#333399;padding:0in 5.4pt 0in 5.4pt;height:13.9pt'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>Bug ID</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border:solid gray 1.0p=
+t;
+  border-left:none;background:#A6A6A6;padding:0in 5.4pt 0in 5.4pt;height:13=
+.9pt'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>Area</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D600 valign=3Dtop style=3D'width:6.25in;border:solid gray 1.0p=
+t;
+  border-left:none;background:#A6A6A6;padding:0in 5.4pt 0in 5.4pt;height:13=
+.9pt'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>Title</span></b><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1;mso-yfti-lastrow:yes;height:13.9pt'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.9pt'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'><a href=3D"http://winweb/liveraid/?ID=3D57029=
+6">570296</a></span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:13.9pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>Hardware
+  (Video)</span><o:p></o:p></p>
+  </td>
+  <td width=3D600 valign=3Dtop style=3D'width:6.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:13.9pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;<span
+  class=3D16v><span style=3D'color:#003399'>Bug Title goes here &#8211; Lin=
+k the
+  bug via Infra (example on the left) and give the raid area.</span></span>=
+</span><o:p></o:p></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuchet=
+ MS"'>&nbsp;</span><o:p></o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:4.0pt'><b><span style=3D'font-s=
+ize:10.0pt;
+font-family:"Trebuchet MS"'>Feature Area Quick Status</span></b><o:p></o:p>=
+</p>
+
+<table class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0
+ style=3D'border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style=3D'mso-yfti-irow:0;height:.2in'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  background:#333399;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>Audio</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border:solid gray 1.0pt;b=
+order-left:
+  none;background:#A6A6A6;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>&nbsp;</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border:solid gray 1.0p=
+t;
+  border-left:none;background:#333399;padding:0in 5.4pt 0in 5.4pt;height:.2=
+in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>Hardware</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border:solid gray 1.0pt;b=
+order-left:
+  none;background:#A6A6A6;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>&nbsp;</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border:solid gray 1.0p=
+t;
+  border-left:none;background:#333399;padding:0in 5.4pt 0in 5.4pt;height:.2=
+in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>Remote</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border:solid gray 1.0pt;b=
+order-left:
+  none;background:#A6A6A6;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border:solid gray 1.0p=
+t;
+  border-left:none;background:#333399;padding:0in 5.4pt 0in 5.4pt;height:.2=
+in'>
+  <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Treb=
+uchet MS";
+  color:white'>First Run / STB</span></b><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border:solid gray 1.0pt;b=
+order-left:
+  none;background:#A6A6A6;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS";color:white'>&nbsp;<=
+/span></b><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1;height:.2in'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Spec</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Spec</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Spec</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Spec</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2;height:.2in'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Case Outline</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Case Outline</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Case Outline</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Case Outline</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:3;height:.2in'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Cases</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Cases</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Cases</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>Cases</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0%</span><o:p></o:p=
+></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:4;mso-yfti-lastrow:yes;height:.2in'>
+  <td width=3D119 valign=3Dtop style=3D'width:89.6pt;border:solid gray 1.0p=
+t;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>New Cases</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>New Cases</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuch=
+et MS"'>&nbsp;</span><o:p></o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>New Cases</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+  <td width=3D18 valign=3Dtop style=3D'width:13.8pt;border:none;border-righ=
+t:solid gray 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=3D120 valign=3Dtop style=3D'width:1.25in;border-top:none;border=
+-left:
+  none;border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:
+  0in 5.4pt 0in 5.4pt;height:.2in'>
+  <p class=3DMsoNormal style=3D'margin-left:12.2pt'><span style=3D'font-siz=
+e:10.0pt;
+  font-family:"Trebuchet MS"'>New Cases</span><o:p></o:p></p>
+  </td>
+  <td width=3D77 valign=3Dtop style=3D'width:.8in;border-top:none;border-le=
+ft:none;
+  border-bottom:solid gray 1.0pt;border-right:solid gray 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;
+  height:.2in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"Trebuchet MS"'>0</span><o:p></o:p>=
+</p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Trebuchet=
+ MS"'>&nbsp;</span><o:p></o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:4.0pt'>&nbsp;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:Arial'><o:=
+p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

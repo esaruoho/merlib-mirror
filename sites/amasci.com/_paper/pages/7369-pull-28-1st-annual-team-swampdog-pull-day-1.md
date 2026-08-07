@@ -1,0 +1,379 @@
+---
+title: "Pull 28 -- 1st Annual Team Swampdog Pull -- Day 1"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0102/Pull28.html
+order: 7369
+reachable_from_entry: false
+images: 0
+internal_links: 4
+extracted: 2026-08-07T05:59:59Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 28 -- 1st Annual Team Swampdog Pull -- Day 1
+
+*Source page: `~samoyed/iwpa/0102/Pull28.html`*
+
+1st Annual Team Swampdog Pull\
+Corapeake, North Carolina
+==============================
+
+Pull: 28
+
+Organizer(s):Todd Pederson
+
+Wheels on Granite Region: 7
+
+Track:
+
+Granite screenings. Wet but firm.
+
+Date: Sun 7 Oct 2001
+
+Weather:
+
+60F and chilly, slight breeze
+
+<div align="center">
+
+<table data-border="1" data-cellpadding="2" data-bordercolorlight="#0000FF" data-cellspacing="1" data-bordercolordark="FF0000">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2">Color<br />
+Codes</td>
+<td><em><strong>%</strong></em> -- Working Dog (WD) Leg Eligibility</td>
+<td data-bgcolor="#FFFF00">WD</td>
+<td data-bgcolor="#00FFFF">WD Excellent</td>
+<td data-bgcolor="#00FF00">WD Superior</td>
+</tr>
+<tr>
+<td><strong><em>Handler</em></strong> -- Owner / Handler relationship</td>
+<td><p>Owner</p></td>
+<td data-bgcolor="#FFFF00">Family Member</td>
+<td data-bgcolor="#00FFFF">Other Membership</td>
+</tr>
+</tbody>
+</table>
+
+Chief Judge: Todd Pederson
+
+</div>
+
+40 \# Class\
+Judged by Todd Pederson\
+200 \# Start weight, 200 \# Increment, Cart weighs 200 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Choo Choo
+
+4
+
+1800
+
+30.30
+
+38
+
+47.37
+
+8.0
+
+David Heil
+
+Am. PitBull Terrier
+
+Diffy
+
+7
+
+1600
+
+12.96
+
+37
+
+43.24
+
+5.0
+
+Logan Pederson\
+Todd Pederson
+
+Am. PitBull Terrier
+
+Jubilee
+
+4
+
+1600
+
+13.34
+
+39
+
+41.03
+
+2.0
+
+David Heil
+
+Am. PitBull Terrier
+
+Rocko
+
+7
+
+1200
+
+8.02
+
+36
+
+33.33
+
+0.5
+
+Connor Pederson\
+Brandon Pederson
+
+Am. PitBull Terrier
+
+60 \# Class\
+Judged by Todd Pederson\
+400 \# Start weight, 200 \# Increment, Cart weighs 400 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Dutchess
+
+7
+
+2000
+
+15.48
+
+46
+
+43.48
+
+8.0
+
+Brandon Pederson
+
+Am. PitBull Terrier
+
+Reba
+
+7
+
+1600
+
+13.74
+
+43
+
+37.21
+
+5.0
+
+Connor Pederson
+
+Am. PitBull Terrier
+
+Abby
+
+7
+
+1200
+
+16.94
+
+58
+
+20.69
+
+2.0
+
+Todd Pederson
+
+Am. Bull Dog
+
+Polly
+
+7
+
+No Pull
+
+56
+
+.
+
+0.0
+
+Todd Pederson
+
+Am. Bull Dog
+
+80 \# Class\
+Judged by Todd Pederson\
+400 \# Start weight, 200 \# Increment, Cart weighs 400 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Buck
+
+4
+
+2600
+
+20.17
+
+72
+
+36.11
+
+9.0
+
+David Heil
+
+Am. Bull Dog
+
+Froggy
+
+7
+
+2400
+
+16.53
+
+77
+
+31.17
+
+6.0
+
+Brandon Pederson\
+Todd Pederson
+
+Am. Bull Dog
+
+Sobe
+
+7
+
+2200
+
+10.54
+
+68
+
+32.35
+
+3.0
+
+Logan Pederson
+
+Swampdog
+
+Angel
+
+7
+
+2200
+
+19.83
+
+70
+
+31.43
+
+1.0
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+Tina actually handled Angel, but she resigned membership 12/7/01 and Angel was reassigned to Todd. Tina was a member at the time of the pull, and Angel was/is a member of the Pederson membership. I did this because there is no force good feture.
+
+Molly
+
+P
+
+No Pull
+
+77
+
+.
+
+.
+
+David Heil\
+Jeff Tinker
+
+Am. Bull Dog
+
+Last Updated: 02:39:12 on 02-24-2002
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull27.html) | [Next Pull \#](Pull29.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

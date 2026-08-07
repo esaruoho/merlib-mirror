@@ -1,0 +1,106 @@
+---
+title: "Precedence vs. Order of Evaluation"
+source_domain: amasci.com
+source_path: ~scs/readings/precvsooe.20010512.html
+order: 7840
+reachable_from_entry: false
+images: 0
+internal_links: 3
+extracted: 2026-08-07T06:00:23Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Precedence vs. Order of Evaluation
+
+*Source page: `~scs/readings/precvsooe.20010512.html`*
+
+\[This article was originally posted on May 12, 2001.\]
+
+From: scs@eskimo.com (Steve Summit)\
+Newsgroups: comp.lang.c\
+Subject: Re: \*p++\
+Date: 12 May 2001 16:15:23 GMT\
+Message-ID: \<9djnir\$gcb\$1@eskinews.eskimo.com\>\
+References: \<9dho8u\$ieenp\$1@ID-84876.news.dfncis.de\>
+
+In article \<9dho8u\$ieenp\$1@ID-84876.news.dfncis.de\>, dac evidently wrote:\
+\> This is supposed to return the value pointed by `p`, and then increment `p`,\
+\> right?
+
+That's essentially correct.
+
+\> My problem is that, looking at the precedence table, I can't seem to\
+\> understand it.\
+\> `++` has greater precedence than `*`, and both evaluate from right to left.\
+\> So, in `*p++` shouldn't `++` be evaluated first, and then dereferenced?
+
+I think what you've managed to do here is confuse precedence with order of evaluation. But don't worry: it's extremely easy to confuse precedence with order of evaluation, so easy that on the other hand it can be very hard -- sometimes I find it essentially impossible -- to explain why precedence is *not* the same thing as order of evaluation. But your example, and more importantly, your misinterpretation of this example, provides an excellent arena for explaining this subtle point. So thanks for asking.
+
+Yes, the precedence of postfix `++` is higher than unary `*`. Now, the important thing about precedence is *not* that it tells us what order things will be evaluated in. The important thing about precedence is that it tells us which operators are matched up with which operands.
+
+When we look at the expression `*p++`, before we can even start worrying about what order things will be evaluated in, we have to figure out what the expression is supposed to *mean*. The `*` says that we're taking the contents of a pointer, and the `++` says that we're incrementing something. But what are we incrementing, the pointer or the value pointed to?
+
+Precedence tells us. *If* the precedence of unary `*` were higher than postfix `++` (which it is not), then `*p++` would mean "take the contents of the object pointed to by `p`, and increment it in-place". However, since it's actually the precedence of postfix `++` that's higher, the correct interpretation is that what we're incrementing is the pointer, and what we're taking the contents of is the pointer as operated on by the postfix `++` operator.
+
+Notice that I did *not* say, "the interpretation is that first we increment the pointer, and then we take the contents of the incremented pointer". When we use words like "first" and "and then", we're talking about order of evaluation, but order of evaluation can be a very slippery thing to talk about. Here, by talking about it too soon, we'd confuse ourselves into getting the wrong answer, because as we'll see, although in `*p++` we do in fact take "the contents of the pointer as operated on by the postfix `++` operator", by the definition of postfix `++`, the pointer value we'll take the contents of is the prior, unincremented value.
+
+So let's look at `*p++` very carefully. Once more, since `++` has higher precedence, we're (a) applying `++` to `p`, and (b) applying `*` to the result. In other words, the correct interpretation is as if we had written
+
+        *(p++)
+
+So we're taking the contents of the subexpression `p++`. Now, what is the value of the subexpression `p++`? The definition of postfix `++` is that it increments a variable, but yields as its value the prior, unincremented value. Remember, when you say
+
+        int i = 5;
+        int j = i++;
+
+you end up with the value 5 in `j`, even though `i` ends up as 6. It's the same with pointer values: when you evaluate `*p++`, you end up with the value that `p` used to point to, even though `p` ends up pointing one beyond it. Try it -- compile and run this little program:
+
+        #include <stdio.h>
+        int a[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+        int main()
+        {
+            int *p = &a[5];
+            int i = *p++;
+            printf("%d %d\n", i, *p);
+            return 0;
+        }
+
+The program prints "5 6" -- `i` receives 5, the value `p` started out pointing to, but `p` ends up pointing at 6.
+
+Now, what if you don't want the value pointed to by the old value of `p`, but the new one? That is, what if you want to increment the pointer, and then take the value pointed to? This is now an order of evaluation question, and it turns out that one of the first things to think of whenever you have an order of evaluation question is that there's a good chance that the answer does *not* involve precedence.
+
+We want an expression like `*p++`, in which a pointer is incremented and its pointed-to value is fetched, except that it's the new, incremented value that's fetched. One way, of course, would be to do it as two separate statements: first evaluate `p = p + 1`, then apply `*p`. But if we want to be Real C Programmers and use the slick shortcut `++` operator, all we have to do is remember that the distinction between using the old or the new, the unincremented or the incremented value, is precisely the distinction between the postfix and prefix forms of `++`. So to increment `p` and fetch the incremented value, we'd write `*++p`.
+
+(Notice, by the way, that if the explanation of `*p++` were "first we increment the pointer, then we take the contents of the incremented pointer" -- which, again, it is not -- then there would be no difference between `*p++` and `*++p`. But of course there is -- and should be -- a very significant difference between these two, different expressions.)
+
+While we're here, let's explain a few more things. Suppose we were using `*p++`, and we noticed that it was the old value of the pointer that was being used by the `*` operator, and we wanted it to be the new value, and we said to ourselves, "I want it to first increment the pointer, then take the contents of the incremented pointer", and suppose further that we thought that the way to get the order of evaluation we wanted was to use explicit parentheses, leading us to write `*(p++)`. What happens next?
+
+Well, it doesn't work, of course. `*(p++)` acts precisely like plain `*p++`, and the reason is that the real purpose of parentheses is not to force an order of evaluation, but rather to override the default precedence. So when you write `*(p++)`, all that the parentheses say is, "`++` is applied to `p`, and `*` is applied to the result", and that's the interpretation that the higher precedence of `++` implied already, which is why the parentheses don't make any difference. In other words, when you've got an order of evaluation problem, not only is the answer probably not going to involve precedence, it's probably not going to involve parentheses, either.
+
+What are parentheses good for, then? Well, let's go back to the earlier question of whether `*p++` increments the pointer or the thing pointed to. We've seen that it increments the pointer, but what if we want to increment the thing pointed to? That's a precedence problem, so the appropriate answer *is*, "use explicit parentheses", and the result is `(*p)++`. This says, `*` is applied to `p` to fetch a value, and `++` is applied to the fetched value.
+
+Exercise for the reader: `(*p)++` increments the pointed-to value, but (again, by the definition of postfix `++`) returns the old, unincremented pointed-to value. What if you wanted to increment the pointed-to value and return the new, incremented, pointed-to value? (Do you need explicit parentheses in this case?)
+
+If I haven't put you to sleep by now, I'll launch into one more little digression concerning the use of time-related concepts to explain precedence. Ideally, to avoid confusion between precedence and order of evaluation, we'd use time-related language to explain only order of evaluation, not precedence. But when your C teacher was first explaining precedence, the explanation probably involved an expression along the lines of
+
+        1 + 2 * 3
+
+and the statement was probably made that "the multiplication happens first, before the addition, because multiplication has higher precedence than addition". And having heard an explanation like that, it's all too easy to come away with the impression that precedence controls order of evaluation, and it's also all too easy to get into trouble later when considering an expression like `*p++`, where the precedence does *not* control, doesn't even come close to controlling, the aspect of evaluation order that you're interested in.
+
+If we look at the expression `1 + 2 * 3` very carefully, the key aspect explained by precedence is that the multiplication operator is applied to the operands 2 and 3, and the addition operator is applied to 1 and the result of the multiplication. (Notice that I said "and", not "and then"). Here, although there's definitely an order of evaluation issue, and although the order of evaluation is apparently influenced by the precedence somehow, the influence is actually not a direct one. The real constraint on the order of evaluation is that we obviously can't complete an addition which involves the result of the multiplication until we've got the result of that multiplication. So we're probably going to have to do the multiplication first and the addition second, but this is mostly a consequence of causality, not precedence.
+
+But if your C instructor misled you into thinking that precedence had more to do with order of evaluation than it does, have pity, because I don't know of a good way of explaining precedence that doesn't involve time-related concepts, either. My students used to have to watch me do battle with myself, lips flapping like a fish but with no words coming out, as one part of my brain, paranoid about the possibility of later misunderstandings, desperately tried to keep another part from blurting out the dreaded "the multiplication happens first, before the addition, because multiplication has higher precedence than addition". (And at least half the time, that's probably what I ended up saying anyway.)
+
+\> So, for example, having\
+\> `char *p = "Hello";`\
+\> `printf("%c", *p++);`\
+\> shouldn't return `'e'` ?
+
+Nope. By the arguments above, it prints `'H'`. To print `'e'`, you'd want `*++p`.
+
+See also the [comp.lang.c FAQ list](/~scs/C-faq/top.html), question [4.3](/~scs/C-faq/q4.3.html). See also [http://www.eskimo.com/~scs/readings/precvsooe.960725.html](/~scs/readings/precvsooe.960725.html).
+
+[Steve Summit](http://www.eskimo.com/~scs/)\
+<scs@eskimo.com>
+
+8889185069805239596085360662344508517964037796278267072470951552302

@@ -1,0 +1,59 @@
+---
+title: "Algae - About Algae"
+source_domain: amasci.com
+source_path: ~ksh/algae/algae_1.html
+order: 4388
+reachable_from_entry: false
+images: 6
+internal_links: 4
+extracted: 2026-08-07T05:57:29Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Algae - About Algae
+
+*Source page: `~ksh/algae/algae_1.html`*
+
+Go to the first, previous, [next](algae_2.html), [last](algae_11.html) section, [table of contents](algae_toc.html).
+
+------------------------------------------------------------------------
+
+Next time you're in Seattle, visit the [Algae Home Page](http://www.eskimo.com/~ksh/algae/).
+
+# ![](icon.gif) Algae User's Manual (3.4.0; May 1, 1998)
+
+Copyright © 1994-97 K. Scott Hunziker.
+
+Copyright © 1990-94 The Boeing Company.
+
+Algae is free software. You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+Algae is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with Algae; see the file `` `LICENSE' ``. If not, write to the Free Software Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+The copyright to major portions of Algae belongs to The Boeing Company. The following permission notice and warranty disclaimer pertain to those portions of the code:
+
+> Permission to use, copy, modify, and distribute this software and its documentation for any purpose is hereby granted, provided that the above copyright notice appear in all copies, that both the copyright notice and this permission notice and warranty disclaimer appear in supporting documentation, and that the names of Boeing or any of its entities not be used in advertising or publicity pertaining to distribution of the software without specific, written, prior permission.
+>
+> BOEING DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS, AND NONINFRINGEMENT. IN NO EVENT SHALL BOEING BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA, OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE, OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+Caution: Use of this product as a substitute for a healthy physical, emotional, and spiritual life is not recommended and could be harmful.
+
+# ![](icon.gif) <a href="algae_toc.html#TOC1" id="SEC1">About Algae</a>
+
+<span id="IDX1">![](invisible.xbm)</span> <span id="IDX2">![](invisible.xbm)</span> <span id="IDX3">![](invisible.xbm)</span> <span id="IDX4">![](invisible.xbm)</span> Algae is an interpreted language for numerical analysis. Algae borrows ideas from languages like MATLAB, APL, and C, but it was developed in response to a need for a free, efficient, and versatile high-level language with large problem capability.
+
+This document describes both Algae, the programming language, and `algae`, the interpreter. Neither one of them is complete. Even so, they offer some unique capabilities that we hope you'll find useful.
+
+Algae was designed and implemented by Scott Hunziker and Mike Brennan.
+
+Algae grew up in the "Structures Outback" of the Boeing Aerospace Company (now the Boeing Defense & Space Group). Way back in 1989, Bill Russell convinced Bob Vos, the head of Boeing's ISM project, that ISM needed an interactive language. With Dave Beste's help, Bill put together a crude system (it looked a lot like MATLAB) with a recursive descent parser. They called it ISMLAB. After Bill got a real job, Scott Hunziker took over and made major changes. ISMLAB, along with the entire ISM project, was cancelled ignominiously in 1991.
+
+Scott Hunziker and Mike Brennan began work on a successor to ISMLAB called AMPL (A Matrix Programming Language) with internal Boeing funding. (The author remembers well the first day of their collaboration, when he inadvertently showed Mike that AMPL could multiply two matrices and get the wrong answer.) As AMPL took shape, the internal funding dried up, leaving Scott to maintain it in his spare time. Boeing generously released AMPL to the public in 1994. The name was changed to Alki in 1995 because, by then, an unrelated package called AMPL was being distributed through netlib. That name also had a conflict, and it was finally changed to Algae in early 1997.
+
+Thanks to Don Morris for contributing the plotting code (not to mention countless bug reports), and Ian Searle for advice, constructive criticism, and pizza.
+
+------------------------------------------------------------------------
+
+Go to the first, previous, [next](algae_2.html), [last](algae_11.html) section, [table of contents](algae_toc.html).

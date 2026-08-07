@@ -1,0 +1,126 @@
+CD Club FAQ: Ethical Issues 
+
+ CD Clubs FAQ 
+ V.4.21, Last Modified: Jul 19, '99 
+
+1. Breaking News 
+2. Introduction 
+3. Strategies - In Brief 
+4. Customer Service Information 
+
+5. More In-Depth Information 
+&#160;&#160;&#160;&#160;&#160;&#183; Brief Answers To Frequently 
+&#160;&#160;&#160;&#160;&#160;&#160; Asked Questions 
+&#160;&#160;&#160;&#160;&#160;&#183; Getting The Most CDs 
+&#160;&#160;&#160;&#160;&#160;&#160; For Your $$$ 
+&#160;&#160;&#160;&#160;&#160;&#183; Declining The Selection 
+&#160;&#160;&#160;&#160;&#160;&#160; Of The Month 
+&#160;&#160;&#160;&#160;&#160;&#183; Available New Membership 
+&#160;&#160;&#160;&#160;&#160;&#160; Offers 
+&#160;&#160;&#160;&#160;&#160;&#183; Membership Costs 
+&#160;&#160;&#160;&#160;&#160;&#183; Club Catalogs 
+&#160;&#160;&#160;&#160;&#160;&#183; The Quality Debate 
+&#160;&#160;&#160;&#160;&#160;&#183; Club "Re-Mastering" 
+&#160;&#160;&#160;&#160;&#160;&#160; Statements 
+&#160;&#160;&#160;&#160;&#160;&#183; Resale Value 
+&#160;&#160;&#160;&#160;&#160;&#183; Ethical Issues 
+&#160;&#160;&#160;&#160;&#160;&#183; Clubs Collecting Sales Taxes 
+
+6. Other 
+&#160;&#160;&#160;&#160;&#160;&#183; Appendix A: 
+&#160;&#160;&#160;&#160;&#160;&#160; CD Clubs In Canada 
+&#160;&#160;&#160;&#160;&#160;&#183; CD Club Related Sites 
+&#160;&#160;&#160;&#160;&#160;&#183; About The Maintainer 
+&#160;&#160;&#160;&#160;&#160;&#183; FAQ Disclaimer 
+
+ Comments, changes, or errors to: 
+ Content: Brad von Haden , 
+ HTML: Brian Wilson 
+
+ Ethical Issues 
+
+ Join, Fulfill, Quit, Repeat 
+ Some readers have questioned whether its ethical to use the
+ "join, fulfill, quit, repeat" algorithm, and some have even
+ questioned whether its ethical to publish information about it.
+ While you will of course have to decide for yourself, my view is
+ that it is OK: if the clubs did not want us to do it, they would
+ put a stop to it. BMG has already specifically restricted the
+ use of the algorithm by limiting membership to one, per person,
+ per year.
+ Economics of club offers 
+ We make this offer simply
+ because experience has shown that it is a sound, economical way
+ to acquire new friends for the BMG Music Service. Many of our
+ members continue with us for three, five, even ten years. We
+ make a fair profit while you keep on saving. 
+
+ - Oren Testa, BMG vice president (circa ?),
+ on the super deals
+
+ I would contend that the clubs make money, or at least
+ break-even, on all deals, except the historical "12 CDs for 1
+ penny" offer from BMG. Here is an analysis of club CD Costs:
+
+ Free/Bonus 
+ Regular 
+ Pressing $ 0.60 $ 0.60 
+ Artwork 0.40 0.40 
+ Royalties - Normal 0.00 1.60-4.00 
+ Royalties - Mechanical 0.26-0.52 0.26-0.52 
+ Shipping 0.28-0.70 0.70 
+ Advertising 0.65 0.65 
+ Overhead 1.00 1.00 
+ $ 3.19-3.87 
+ $ 5.21-7.87 
+
+ The above figures, while not necessarily accurate, do have some
+ basis in reality:
+
+ Pressing costs 
+ Comes from a BMG press release in which the CEO of BMG Entertainment
+ Storage Media, Uwe Swientek, states the existing cost to its customers
+ for a CD is sixty cents ($0.60).
+ Artwork cost is a plug figure 
+ $1.00 seems to be the going rate for large press runs of finished CDs
+ including artwork.
+ Royalty costs come from an article in "Billboard"
+ magazine 
+ ("Record Clubs: An Inside Look At An Evolving Enterprise", 30 March 1996.)
+ Shipping costs 
+ Come from the USPS's Postal Rate Guide for "Special Standard
+ Mail"; the clubs might have contracted for a lower price.
+ Advertising cost is a guesstimate 
+ Sales of $1.15 billion divided by average price of $5 per CD equals
+ 230 million club sales; industry estimated advertising of $150 million
+ divided by 230 million sales equals $0.65 per CD.
+ Overhead costs 
+ The costs of servicing the membership accounts (monthly mailings,
+ staffing, warehouse facilities, web site, etc) -- is another
+ guesstimate. As it is unlikely the clubs are losing money on their
+ 'buy 1, get 3 free' offers, the average CD cost to the clubs needs
+ to be less than $6.61 ((16.99+2.49+2.39+2.29+2.29)/4).
+
+ Royalty payments to artists 
+ Artists do not receive full royalty payments for CDs sold through
+ the clubs. While the percentage of his/her royalty an artist
+ receives on club sales is dependent on the artist's contract with
+ its label, generally an artist will receive no royalties for CDs
+ sold as "free or bonus" selections and only one-half their
+ normal royalty rate for CDs sold as full priced selections. (see
+ Shemel, Syndey. "This Business of Music". 1990. 61)
+
+ An artist, if successful and unhappy with the "club
+ clause" of his/her contract, can renegotiate his/her contract
+ with his/her label to either restrict (certain albums not available
+ or longer time between street and club release) the artists offerings
+ in the clubs or eliminate the artists offerings in the clubs all
+ together.
+
+ Direct Mail Marketing 
+ The clubs make money by selling member's addresses to various
+ junk ... direct mail marketing companies. They call this a
+ "benefit" - giving you the opportunity to order all sorts of neat
+ stuff. To remove your name from the sold lists, contact the
+ club's customer service center and request to be removed from
+ their direct mail list.

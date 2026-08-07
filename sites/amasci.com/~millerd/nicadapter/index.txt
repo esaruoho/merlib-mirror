@@ -1,0 +1,206 @@
+Making an Audio I/O Adapter 
+
+Homemade MP2000/2100 Audio Adapter 
+The Newton MessagePad 2100 (and 2000) include line-level Audio I/O capabilities.
+The only way to access this, however, is through the Newton Interconnect
+port. You need a special adapter that connects to this port. Nobody, not
+even Apple, makes such an adapter. With a few basic supplies, however,
+you can build one on your own.
+ I created two of my own adapters in a couple hours on a weekend. Following
+are some of the things I ran into, some lessons learned, and some basic
+instructions if you want to try this yourself.
+ Caution: If you mess with stuff like creating your own adapter
+you are taking a chance that you could ruin your MessagePad. Don't blame
+me if this happens. My home-rolled adapters work, but don't trust this
+document. Verify everything against the actual pinouts
+and specs from Apple. It's always possible I could have made a mistake
+when throwing this document together.
+
+Overview 
+The audio input and output of the MessagePad are at line level. That means
+that they plug into the line level inputs/outputs on a regular stereo system
+( NOT into the mic input or from speaker output!). You could build
+audio cables permanently attached to your adapter. I decided instead to
+use regular RCA style jacks, then connect to the stereo through an audio
+cable with RCA plugs on each end. This means only one cable to carry around,
+since I would normally need audio in or out, but not both at the same time.
+ I used two different methods for housing the adapter. The first I cast
+out of epoxy adhesive (the kind you buy at the hardware store). This is
+a little more expensive and a lot more time-consuming than just building
+the connector into a box. The only advantage is that it's extremely tough.
+The second I put in a small plastic case. This was much much easier to
+put together, but it's not quite as sturdy.
+
+NIC Connectors 
+
+ [Updated 10/14/01] This is the hard part. They are almost impossible
+to find. The connectors that plug into the MessagePad used to be made by
+JAE. They were part number RX04-26P-SF1. The recommended dealer used to
+be Kensington Electronics. Don't bother calling them. Neither JAE nor Kensington
+have any left. The connectors haven't been manufactured for quite a while.
+I've heard some people still have a few on hand. I have no idea how to
+find them. If you are desperate, you can break open a serial port adapter
+and desolder the connector from the circuit board.
+
+Supplies & Equipment 
+I focussed on using the least expensive things I could find, most of them
+laying around the house. You will need either 30 gage wire-wrapping wire,
+or a slightly larger (24 - 26) solid copper wire (see following section).
+You also need 2 chassis mount RCA jacks, some solder and a soldering iron,
+and some shrink tubing.
+ Creating an epoxy casting requires some modeling clay, large tubes of
+5-minute epoxy, and a lot of patience. If you decide instead to use a plastic
+case as a housing, you will need one that's fairly small, about an inch
+wide, a couple of inches long, and deep enough to hold the RCA adapters.
+
+Wiring 
+The pins on the connector are numbered as shown in the following diagram.
+This is looking at the back of the connector. Ie, looking directly at the
+ends of the pins.
+
+ The audio signals are on pins 4 and 17, with the ground on pin 5. The
+ground gets wired to the outer part of both RCA jacks. Pin 4 goes to the
+center connection on the audio out jack and Pin 17 goes to the center connection
+on the audio in jack.
+ It's tough to wire the pins. It would be nice if there were a socket
+that fit the connector, but such a thing doesn't exist. The connector appears
+to be designed so you could fit a double-sided circuit board between the
+pins. You could solder the pins to this board and run the traces to solder
+pads where you could connect wires. In fact, this is apparently similar
+to what Apple does with the serial adapter (thanks to Carsten
+Lemmen for sending information about the innards of his adapter).
+I don't know anybody who can etch circuit boards, so I scrapped this idea.
+ I
+tried two methods of connecting wires to the pins on my two adapters. In
+each case I purposefully broke off all pins except 4, 5, and 17, to get
+some working room. On the first adapter I wire-wrapped the three pins with
+standard 30 gage (wire-wrapping) wire. The pins are short enough and close
+enough together that a wire-wrapping tool doesn't work. So I did it by
+hand - throw a loop in the wire, place it over a pin, tighten, then place
+one loop at a time, tightening (gently) and pushing the loops down to the
+bottom, until you reach the top of the pin. This is difficult, and takes
+a lot of time to do right. If you decide to do this, I recommend using
+some shrink tubing around the connections because they are all so close
+together. Soldering is almost impossible, because the wire wraps will be
+so close together that it's too easy to make a solder bridge. I used a
+drop of super glue on each pin to hold them in place.
+ For the second adapter I tried something different. There is a small
+square hole right next to each pin. This hole is only about 1/16 inch deep
+(or so). You can take some 24 gage wire, hold it at the end with some needle-nosed
+pliers, and push it into the hole. It's tight enough that it should hold.
+You may have to slightly bend the pins outward to be able to fit the wire
+in the holes. Soldering to the pins becomes much easier. Shrink tubing
+is still a good idea, because the pins are only about 1mm apart.
+ After wiring the thing up, do yourself a favor and check that the adapter
+works before moving on. It's tough to fix a mistake later.
+
+Housing 
+The easiest thing is to mount the connector inside some kind of plastic
+box. I used an empty dental floss container (the mini size), which is just
+about a perfect size. Radio Shack also sells very small project boxes.
+I couldn't find an off-the-shelf connector shell that would work. You may
+have better luck.
+ You'll have to cut (or melt) a hole for the connector and holes for
+the jacks. Note that the top of the connector should be close to the edge
+of the box, because there isn't much clearance under that small flip-up
+cover on the end of the MessagePad. It's also best if you position the
+connector to the right side of the box (looking at the front of the connector).
+This is so the box doesn't cover up the power jack.
+
+ The other method I tried was to cast an adapter in epoxy. First I had
+to plug up the holes in the bottom of the RCA jacks, so that they wouldn't
+fill up with epoxy. Next, I cut a mold out of regular plasticene clay,
+very lightly sprayed the inside with cooking spray (as a release agent),
+placed some tape over the connector to keep out clay/oil/glue, pressed
+the connector into the clay, and filled the mold with epoxy. The regular
+epoxy adhesive you buy in a hardware store works fine. (Sorry for the blurriness
+of the pictures.)
+ A couple of tips: You can mix the epoxy by squeezing it into a plastic
+sandwich bag, then massaging the bag. When ready to use it, cut off a corner
+of the bag and squeeze the contents out like a pastry cone. A cardboard
+template also helps to hold the RCA jacks in place. Or you could turn the
+adapter over, embed the jacks in the clay, and hold the connector on the
+top.
+
+ I
+pulled off the clay and tape after the epoxy dried and cleaned the thing
+up. I also applied another outside coat of epoxy, which made it shinier
+and smoother. The result is what you see in the photo shown here. I also
+applied some arrows with transfer lettering (hard to see in the photo)
+to show which connector is input and which is output. This method makes
+a nearly indestructable adapter, but it may not be worth the amount of
+effort it takes. You also risk messing up your adapter if you accidentally
+get epoxy too far down the metal part or in the end.
+
+Usage 
+The specs say both the input and output are at line-level. Most stereos
+have line-level connections on the back. Just wire the output of the adapter
+to an input on the stereo, and an output from the stereo to the input of
+the adapter. Go into the Prefs on the Newton to set the input and output
+sources. Don't turn the recording level too high, or you will get distortion.
+It seems to work well with the record level turned about halfway up.
+ You can't hook a microphone directly to the adapter unless it's a line-level
+mic with an external power supply. You might be able to use headphones
+on the output, since headphone outputs are close to the same level, but
+don't blame me if this blows up your MessagePad.
+
+Other Options 
+A nice adaptation would be to add a pre-amp and mic input, plus a headphone
+amplifier & plug with volume control. There is power supplied on one
+of the pins that could be used for this. The specs say this power is turned
+on whenever something is played through the audio out.
+ Other things that would be interesting to try are phonenet ports, wiring
+the 2nd serial port, and power output (for controlling external devices,
+or whatever).
+ Use an Apple PlainTalk jac instead of RCA jack for the input. The plaintalk
+microphone is a line-level microphone. It requires 5V, supplied on the
+tip of the plug. The newton supplies 5V when recording. The only hitch
+is finding a PlainTalk jack. Apple won't sell you one. The best bet is
+to take one out of an old broken Mac. I think they started using these
+jacks on the AV models.
+
+Update #1 
+A while after I wrote this page, I build a third connector for someone
+else. Connecting the pins is still the hardest part. If I were to make
+another, I would probably take the time to get some circuit board, cut
+a small square from it, and manually etch it with a Dremel tool. This time
+I used a small empty dental floss container as a mold, with a silicone
+release agent. It worked well and was much simpler than trying to sculpt
+a mold out of clay. Make sure you cut the hole in the right place, so the
+finished adapter will fit underneath the flip-up cover of the MessagePad,
+and the power jack isn't covered by the adapter.
+
+ I've also heard that you do want to be careful not to break off the
+pins (4, 5, and 17). Pressing the wires into the holes next to the pins
+doesn't always make good contact with what's left of the pins, and then
+they are even harder to solder when they are broken off.
+
+Update #2 
+I made a bunch of these connectors for Newtontalk list members. I set up
+another page that has some example images of
+these.
+
+Update #3 
+I sold all of the adapters I made (as of 6/18/98). I'm hoping someone else
+may take the initiative to build some more. I'm happy to share my plans,
+specs, ideas, etc.
+
+Update #4 
+It's been ages since I've added any update to this page. The info on purchasing
+the connectors has been out of date for some time. I updated the text to
+reflect that.
+
+eMate and Microphones 
+I've had a few people ask if you can connect a microphone to this, because
+the eMate doesn't have an internal microphone. The answer is, you can't
+connect a normal microphone directly to the adapter. The signal from a
+microphone is very weak. You would have to go through a preamp first. The
+connections on this adapter are at line level, similar to the connections
+on the back of your stereo, cd player, or tape deck. So you could connect
+a microphone to a preamp, and then the preamp to the eMate. Or you could
+plug the microphone into your home stereo/amplifier's Mic input (has a
+preamp built in), and then connect the stereo to the eMate. A low-cost
+solution is to find a cheap portable tape recorder that has a microphone
+and a line out connection (and allows the source to play directly on the
+line out). Or go with the PlainTalk microphone (see "Other Options" section
+above).

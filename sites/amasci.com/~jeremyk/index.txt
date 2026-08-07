@@ -1,0 +1,175 @@
+jeremy's wayward thoughts 
+
+ jeremy&apos;s wayward thoughts 
+ Programming, views, blurbs, whatever... 
+
+-->
+
+ jeremy's wayward thoughts 
+ Programming, views, blurbs, whatever... 
+
+-->
+
+ June 19, 2003
+
+ Much Improved FxCop v1.21 Released [ ] 
+
+ FxCop &#8211; use it or lose it? Doesn&#8217;t quite work, but you get the idea. FxCop should be part of the build process for any .NET code that has a build process. Recommended! Posted by Chris Sells on Sun, June 15, 2003 @ 10:44AM [ sellsbrothers.com: Windows Developer News ] 
+
+ Posted by JKercheval at 11:04 PM 
+ | Comments (0) 
+
+ | TrackBack (1) 
+
+ Hosting the Windows Forms Designer [ GeekSpeak ] 
+
+ This is a really good article on hosting the Windows Forms Designer in your own application... Very cool!
+
+ Posted by JKercheval at 10:33 PM 
+
+ June 18, 2003
+
+ Not too much [ Personal ] 
+
+ I've been reading lots of blogs (no, I don't have most of them listed do to pure laziness) lately and several items of interest have passed before my eyes. I have even considered noting them here... but I haven't. I've been busy. Busy at work, busy at home, and busy with my own projects. Soon I will have more to say, but not yet, not yet.
+
+ Posted by JKercheval at 10:32 PM 
+
+ June 15, 2003
+
+ Web Matrix [ GeekSpeak ] 
+
+ It's out, go get it. It's also Father's Day, go out and enjoy it - I am.
+
+ Posted by JKercheval at 10:47 AM 
+
+Recent Entries
+
+ Much Improved FxCop v1.21 Released 
+ Hosting the Windows Forms Designer 
+ Not too much 
+ Web Matrix 
+ .NET Remoting Webcast / June 11 / 11:00 am Pacific Time 
+ Time with Friends 
+ Finally... 
+ Startup Control Panel 
+ Wayne saves the day for my XML -> Excel parser 
+ Trackback 
+
+Categories
+
+ .net 
+ Blogging 
+ Curious 
+ GeekSpeak 
+ Movable 
+ Personal 
+ Rant 
+ Work 
+
+Calendar
+
+ June 2003 
+
+ Sun 
+ Mon 
+ Tue 
+ Wed 
+ Thu 
+ Fri 
+ Sat 
+
+1 
+
+2 
+
+3 
+
+ 4 
+
+ 5 
+
+6 
+
+7 
+
+8 
+
+ 9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+ 15 
+
+16 
+
+17 
+
+ 18 
+
+ 19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+Elsewhere
+
+ Steve Makofsky 
+ Don Box 
+ Sam Gentile 
+ The .NET guy 
+ Chris Sells 
+ Ingo Rammer 
+ Craig Andera 
+ Joshua 
+ Joel 
+ Tim Ewald 
+ Talking Points Memo 
+
+ MSDN: XML Web Services 
+ MSDN: .NET Framework 
+ MSDN: Visual C# 
+ MSDN Visual Studio 
+
+Search
+
+ Search this site: 
+
+Archives
+
+ June 2003 
+ May 2003 
+ April 2003 
+
+ Syndicate this site (XML) 
+
+This weblog is licensed under a Creative Commons License .
+
+Powered by Movable Type 2.63

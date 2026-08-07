@@ -1,0 +1,569 @@
+Pure Mac: Web Search - Software for Macintosh 
+
+ Web Search 
+
+ Web 
+
+ Pure-Mac.com 
+
+ AcidSearch 
+ ACP Web Services 
+ Anthracite 
+ Beholder 
+ Butler 
+
+ Charlotte 
+ ConceptQ 
+ DEVONagent 
+ Globe Trotter 
+ Google Toolbar 
+
+ Huevos 
+ iFind 
+ Inquisitor 
+ iSeek 
+ Monocle 
+
+ NetService 
+ Pandora 
+ SearchBar 
+ Watson 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ AcidSearch 0.62 
+
+AcidSearch is a search enhancement for Safari. It adds unlimited "Search
+Channels" to the Google search field. Channels can be customized in a
+nearly infinite variety of ways. AcidSearch also includes powerful
+features such as JavaScript support, the ability to import iSeek Search
+Sites, and true hierarchical menu organization.
+
+ License : Freeware
+ Author/Publisher : Robin Hamilton-Pennell
+ Modification Date : April 16, 2006
+ Requirements : Mac OS X 10.3 or higher - Not compatible with Leopard
+
+ Download 
+File Size: 665 Kb
+
+ Home Page 
+
+ ACP Web Services 1.7 
+
+The ACP Web Services are the simplest, fastest, and most viable way to
+get context sensitive information off the web. Starting with a mere 45
+services, the AWS have today grown in number to well over one thousand,
+with the number increasing all the time.
+
+The ACP Web Services run off the 'Services' subitem of your
+'application' menu on your menu bar. They're an integral part of Cocoa
+(and NeXTSTEP before it) but they've never before been used in this way.
+
+They take almost no disk or RAM footprint, they're easy to install, they
+just work, they're insanely great, and they make accessing resources on
+the web a lot faster and more intuitive than you've ever known before.
+
+ License : Freeware
+ Author/Publisher : Rixstep
+ Modification Date : January 17, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 151 Kb
+
+ Home Page 
+
+ Anthracite 1.7.3 
+
+Metafy's Anthracite Web Mining Desktop toolkit gives you the tools you
+need to build powerful data processing systems with an easy-to-use
+visual interface that makes complex manipulations quickly possible.
+Anthracite is built for people who need to transform internet sources
+and/or large data sets into integrated information quickly and easily
+without scripting.
+
+ License : Demo, $99
+ Author/Publisher : Metafy LLC
+ Modification Date : December 30, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 4.2 MB
+
+ Home Page 
+
+ Beholder 2.1.1 
+
+Beholder queries Internet search engines and quickly arranges their
+results along with their source pages, URLs and other link details.
+Using Beholder's contact sheet interface, you can easily navigate
+through hundreds of images, verifying whether they are still available
+on the web and downloading them for inspection or archival purposes. And
+thanks to Beholder's web site scanning engine, you can power your
+searches and crawl for images on any source page or home directory.
+
+ License : Shareware, $20
+ Author/Publisher : Mesa Dynamics, LLC
+ Modification Date : September 19, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 856 MB
+
+ Download 
+File Size: 744 MB - Lite Version (freeware)
+
+ Home Page 
+
+ Butler 4.1.2 
+
+What is Butler? 
+ * A file launcher
+You can access applications and any other kind of document by browsing
+fully customizable system-wide menus, pressing hot keys, clicking hot
+corners, or entering abbreviations. Butler will learn from your habits
+and remember what you want a certain abbreviation to do (e.g., enter
+"ab" to launch "Address Book").
+ * A bookmark manager
+ Butler offers you a way to manage your bookmarks without depending on a
+certain browser. In contrast to a browser's bookmark collection,
+Butler's bookmarks are always accessible through its system-wide menus,
+hot keys, etc. And you'll certainly become addicted to accessing
+bookmarks by entering abbreviations. Butler also lets you access the
+bookmarks of all major browsers. Adding files or URLs from your browser
+to Butler's configuration is stunningly easy: Just drag them to the
+active screen corner (default: top left), see Butler's main window open,
+and drop your items somewhere whithin your configuration.
+ * A web search utility
+ Butler's predecessor "Another Launcher" was the first application that
+let you search the web from the menu bar. But if your menu bar is too
+crowded for an input field, you can also use hot keys to pop up
+dedicated web search windows. Butler supports a large number of search
+engines by default, but you are not restricted to those - you can easily
+add your own search engines.
+ * A pasteboard extension
+ Butler lets you access items you have previously stored in your
+pasteboard, effectively turning your pasteboard into a stack. You can
+also take a snapshot of your current pasteboard and keep it for good.
+This feature is particularly useful for text snippets you need to enter
+on a regular basis.
+ * And so much more...
+
+ License : Freeware
+ Author/Publisher : Peter Maurer
+ Modification Date : May 30, 2006
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 1.8 MB
+
+ Home Page 
+
+ Charlotte 1.2 
+
+If you have used Spotlight on Mac OS X, then you already know how to use
+Charlotte. Charlotte finds relevant content from the Web; links,
+articles, news stories, blog posts, images, movies, books and more.
+Charlotte supports both Keyword searching and Contextual searching.
+
+ License : Freeware
+ Author/Publisher : Lifli Software
+ Modification Date : May 11, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 84 MB
+
+ Home Page 
+
+ ConceptQ 1.3 
+
+ConceptQ is a personal research and discovery tool that enables users to
+efficiently analyze web search results as well as identify the most
+relevant Keywords, Phrases and Topics within a document.
+
+ License : Shareware, $30 - Pro version $80
+ Author/Publisher : Q-Phrase
+ Modification Date : March 20, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.3 MB - Version 1.3
+
+ Download 
+File Size: 1.4 MB - Pro Version 1.1
+
+ Home Page 
+
+ DEVONagent 2.3 
+
+DEVONagent is the solution for you if you are tired of clicking hundreds
+of links delivered by Google & Co. just to find out that most of the
+links are either outdated, broken or lead to junk pages. It communicates
+with search engines, digs for you through all the results and gives you
+only those documents that are really worth reading. Even better, it
+summarizes the accumulated knowledge and presents you with a list of the
+most important topics and an interactive mind map. Finding information
+on the Web has never been easier!
+
+ License : Demo, $50
+ Author/Publisher : DEVONtechnologies
+ Modification Date : November 29, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 6.0 MB
+
+ Home Page 
+
+ Globe Trotter 1.0.1 
+
+Globe Trotter is a background window application to make life easier
+when you search on the internet. Hit your hotkey combination
+(command-shift-] by default) and the Globe Trotter window springs into
+action. Search among the 50 included search engines, or add your own.
+
+ License : Shareware, $5
+ Author/Publisher : Basset Software
+ Modification Date : May 10, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 387 Kb
+
+ Home Page 
+
+ Google Toolbar 2.1 
+
+Google Suggest - Get query suggestions as you type in the search box
+ SpellCheck - Check your spelling whenever you type in web forms
+ AutoFill - Automatically fill out forms for faster online shopping
+ WordTranslator - Translate English words into other languages
+ Page Rankings - See Google's ranking of the site you are on
+ etc.
+
+ License : Freeware
+ Author/Publisher : Google
+ Modification Date : November 2, 2006
+ Requirements : Mac OS X 10.2 or higher, Firefox 1.5 - 2.0
+
+ Download 
+File Size: 971 Kb
+
+ Home Page 
+
+ Huevos 1.1.1 
+
+Huevos is a customizable search engine helper for Mac OS X. It's easy to
+use: type in some text to search for, choose a search engine, then hit
+the Return key.
+
+ License : Freeware
+ Author/Publisher : Ranchero Software
+ Modification Date : June 29, 2006
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 128 Kb
+
+ Home Page 
+
+ iFind 4.1 
+
+The real advantage of iFind 4.0 is, to deliver better results when searching for more than one word, like in names.
+ Best function - specific search, most result links might be related to query
+ More function - general search, most result links might not be related to query
+
+ Example search: Peter Parker
+ Example result links:
+ 1: ... and the great historian Peter Parker can only be visited...
+ 2: ... people called Peter and it helps to have a Parker pen... 
+ "best" will only return the first result link
+ "more" will return both result links
+
+ License : Freeware
+ Author/Publisher : White Wizard Productions
+ Modification Date : February 16, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.5 MB
+
+ Home Page 
+
+ Inquisitor 3.0v50 
+
+Inquisitor is a predictive-search extension for Safari with a simple and
+sensible interface (with some interface flourishes for effect). It
+augments the Safari web search field with predictive search
+capabilities.
+
+ License : Freeware
+ Author/Publisher : David Watanabe
+ Modification Date : November 26, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 330 Kb
+
+ Home Page 
+
+ iSeek 1.1.3 
+
+iSeek is a handy little program for Mac OS X that allows you to
+instantly search for anything you seek, no matter what program you are
+running. iSeek puts a familiar search field in your menu bar, needing
+just a click or keystroke to start your search!
+
+iSeek's slick and seamless interface hides a significant amount of power
+and convenience. iSeek is no mere front-end to Google, it will ship with
+pre-configured search shortcuts for dozens of useful Internet resources.
+
+ License : Shareware, $15
+ Author/Publisher : Michael Thole/Ambrosia Software
+ Modification Date : December 20, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 5.8 MB
+
+ Home Page 
+
+ Monocle 1.0.1 
+
+Monocle is a simple search tool that puts a universal search field at your disposal. When
+you want search, you can choose from a number of engines to perform the search in
+different places. Monocle comes preloaded with engines for Google, Wikipedia, Windows Live
+Search and Yahoo! Search. You can easily add your own engines by performing an example
+search inside a web browser window in Monocle.
+
+ License : Freeware
+ Author/Publisher : Jesper
+ Modification Date : February 15, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 860 Kb
+
+ Home Page 
+
+ NetService 
+
+NetService is a MacOSX service that allows you to do a number of
+internet searches on selected text from any application. These include
+dictionary, address, usenet, web, yellow pages, eBay, and Apple
+developer docs searches.
+
+ To install, uncompress the NetService.app.tar file and place in:
+ [Your home directory]/Library/Services
+
+(If this directory doesn't exist, you can create it)
+
+You'll then need to relogin in and then from any applications "Services"
+menu you should be able to find this sevice.
+
+ License : Freeware
+ Author/Publisher : Steve Dekorte
+ Modification Date : December 2, 2001
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 8.4 Kb
+
+ Home Page 
+
+ Pandora 2.2.3 
+
+Pandora is the image collector's web spider and search agent, and the
+critical tool you didn't know you were missing. In the time it takes to
+grab a glass of water, Pandora is able to hunt down images by spidering
+a URL or performing a keyword-based search. A clear and intuitive
+interface guarantees you are underway in no time, and extensive
+preferences allow power users to flex their muscles. It can multitask,
+and after a rapid search based on the given criteria, Pandora prepares a
+slideshow, providing you with a quick and comprehensive glance at the
+discovered images.
+
+ License : Shareware, $20
+ Author/Publisher : Positive Spin Media
+ Modification Date : December 1, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.1 MB
+
+ Home Page 
+
+ SearchBar 1.3 
+
+SearchBar is a quick and simple way of accessing all your favorite web
+based search engines, from one simple floating palette that is always
+accessible, and can be brought to the foreground with a simple key
+combination (HotKey). SearchBar will help you to search the web faster.
+Instead of launching your browser and then having to enter the website's
+url, wait for the main page of this website to load, and finally enter
+the query, you can just enter your query in SearchBar and it will bring
+you directly to the results page.
+
+ License : Freeware
+ Author/Publisher : Alexandre Aybes
+ Modification Date : April 2, 2003
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 1.3 MB
+
+ Home Page 
+
+ Watson 1.7.5 
+
+Watson: An Innovative Utility that Bypasses the Web Browser
+
+Presenting Watson for Mac OS X: a time-saving "Swiss Army Knife" program
+that packs over 20 time-saving, productivity-enhancing interfaces to the
+most important web content and services.
+
+URLs are hard to remember. Web services are scattered across the
+vastness of the web. Bookmark management is an oxymoron. Watson
+eliminates these problems and reduces your time-to-everything on the web
+- Watson makes getting information from the Web simple and
+straightforward.
+ Over Twenty Elegant, Time-Saving Tools, Including: Amazon, Movies, Weather, Package Tracker, TV Listings, Phone Book, Recipes etc.
+
+ License : Freeware
+ Author/Publisher : Karelia
+ Modification Date : December 22, 2003
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

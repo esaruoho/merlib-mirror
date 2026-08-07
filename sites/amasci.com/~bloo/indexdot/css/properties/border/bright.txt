@@ -1,0 +1,114 @@
+Border-Right - Cascading Style Sheets Properties 
+
+ border-right 
+ Support Key: 
+ [ CSS1 | CSS2 ]
+ [ IE4B2 | N6 | O3.5 ] 
+ Other Border Properties 
+
+ border 
+ border-top 
+ border-bottom 
+ border-left 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ [See individual properties] 
+ Applicable Elements: 
+ ALL 
+ Inherit From Parent: 
+ No 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ < img 
+ BORDER > | < table 
+ BORDER > 
+
+ What is it? 
+ This is a shorthand property which allows an author to specify
+ the border-width, border-style, and border-color for the right border
+ of an element. If no color is specified, the value will be taken
+ from the 'color' property.
+
+ Allowed Values 
+ inherit 
+ [ CSS2 ] [ N6 ] 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ [ border-width ] 
+ [ CSS1 | CSS2 ] 
+ [ IE4B2 | N6 | O3.5 ] 
+ Type: [border-width] 
+ Description: 
+ Uses a [border-width] value to render the right border of an element. 
+
+ [ border-style ] 
+ [ CSS1 | CSS2 ] 
+ [ IE4B2 | N6 | O3.5 ] 
+ Type: [border-style] 
+ Description: 
+ Uses a [border-style] value to render the right border of an element. 
+
+ [ border-color ] 
+ [ CSS1 | CSS2 ] 
+ [ IE4B2 | N6 | O3.5 ] 
+ Type: [border-color] 
+ Description: 
+ Uses a [border-color] value to render the right border of an element. 
+
+ Syntax 
+ Selector { border-right: 
+ [ border-width ] [ border-style ]
+ [ border-color ] } 
+
+ Example 
+ Ext/Doc: div.out {
+ border-right: 10px outset #ffffff } 
+ In-Line:&#160; < div STYLE =" border-right: 10px outset #ffffff">this
+ is a beautiful test</ div > 
+
+ Browser Peculiarities 
+
+ Internet Explorer 
+
+ 4.0: 
+ - This property does not apply to input TYPE=checkbox/radio fields
+ - Applying border properties to list items skews the normal placement
+ of the marker
+ 4.0+: 
+ - The default 'border-style' for form fields and tables/table cells
+ is not "none."
+ - Using a 'border-style' of "double" with 'border-width' set to "thin"
+ produces a solid, thin border, not a double border.
+ - Applying a border-style of "double", "dotted" or "dashed" on the 
+ BODY element produces a "solid" border style
+ - Applying borders to the BODY element puts the border outside 
+ the canvas' scrollbars.
+ 4.0-5.0: 
+ - This property does not apply to inline elements.
+ 5.0: 
+ - A static size is given to input TYPE=checkbox/radio fields.
+ Borders are rendered within this. Depending on the border-width,
+ this can possibly obscure part or all of the field.
+ 5.5+: 
+ - Beginning in 5.5 Beta 1, this property now applies to inline elements.
+
+ Opera 
+
+ 3.5: 
+ - Borders have no effect on images, tables, table cells and form fields.
+ - Using a 'border-style' of "double" with 'border-width' set to "thin"
+ produces a solid, thin border, not a double border.
+
+ Boring Copyright Stuff....

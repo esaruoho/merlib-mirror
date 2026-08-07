@@ -1,0 +1,584 @@
+---
+title: "Pull 33 -- Hidden Valley Weight Pull"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/9899/Pull33.html
+order: 7493
+reachable_from_entry: false
+images: 0
+internal_links: 7
+extracted: 2026-08-07T06:00:07Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 33 -- Hidden Valley Weight Pull
+
+*Source page: `~samoyed/iwpa/9899/Pull33.html`*
+
+Hidden Valley Weight Pull\
+Sommerset, Pennsylvania
+==========================
+
+Pull: 33
+
+Organizer(s): Steve Jackson
+
+Snow Region: 5
+
+Snow
+
+Track: 3" of packed snow that was starting to melt by the end of the pull. By the end of the pull on Saturday, the chute was mostly slush. We gathered snow from snow plows and put an additional 4" of snow on the chute. Sunday morning we put an additional 3" of snow on the chute.
+
+Date: 12/19/98
+
+Weather:
+
+Null
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Cody
+
+5
+
+830
+
+7.62
+
+56
+
+14.82
+
+12.0
+
+Sandra Stoner
+
+Siberian Husky
+
+Zorro
+
+5
+
+760
+
+45.91
+
+53
+
+14.34
+
+9.0
+
+Steve Jackson
+
+Siberian Husky
+
+Jake
+
+5
+
+690
+
+10.34
+
+52
+
+13.27
+
+6.0
+
+Steve Jackson
+
+Siberian Husky
+
+Iceman
+
+6
+
+480
+
+37.99
+
+59
+
+8.14
+
+4.0
+
+Toni Yoakam
+
+Siberian Husky
+
+Bailey
+
+6
+
+270
+
+28.19
+
+40
+
+6.75
+
+3.0
+
+Bobby Goins
+
+Siberian Husky
+
+Levi
+
+5
+
+No Pull
+
+49
+
+.
+
+0.0
+
+Sandra Stoner
+
+Siberian Husky
+
+Majic
+
+6
+
+No Pull
+
+54
+
+.
+
+0.0
+
+Toni Yoakam
+
+Siberian Husky
+
+Shiloh
+
+6
+
+No Pull
+
+46
+
+.
+
+0.0
+
+Bobby Goins
+
+Siberian Husky
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Ringo
+
+6
+
+830
+
+5.49
+
+77
+
+10.78
+
+9.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+K. C.
+
+5
+
+760
+
+7.45
+
+72
+
+10.56
+
+6.0
+
+Steve Jackson
+
+Mixed
+
+Laika
+
+5
+
+690
+
+5.86
+
+74
+
+9.32
+
+3.0
+
+Frank Caldwell
+
+Alaskan Malamute
+
+Champion
+
+P
+
+690
+
+10.52
+
+76
+
+9.08
+
+.
+
+Jay Sala
+
+Alaskan Malamute
+
+Speckles
+
+5
+
+410
+
+4.65
+
+68
+
+6.03
+
+0.5
+
+Steve Jackson
+
+Alaskan Malamute
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Blitz
+
+6
+
+1040
+
+9.88
+
+90
+
+11.56
+
+11.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Zena
+
+6
+
+760
+
+4.92
+
+88
+
+8.64
+
+8.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Ty
+
+6
+
+760
+
+16.90
+
+89
+
+8.54
+
+5.0
+
+Keith Ping
+
+Alaskan Malamute
+
+Takoma
+
+5
+
+690
+
+8.02
+
+96
+
+7.19
+
+3.0
+
+Frank Caldwell
+
+Alaskan Malamute
+
+Zig-Zag
+
+5
+
+270
+
+8.20
+
+86
+
+3.14
+
+2.0
+
+Steve Jackson
+
+Alaskan Malamute
+
+Yingling
+
+5
+
+200
+
+2.72
+
+81
+
+2.47
+
+1.0
+
+Steve Jackson
+
+German Shepherd
+
+Tank
+
+P
+
+No Pull
+
+91
+
+.
+
+.
+
+Jay Sala
+
+Alaskan Husky
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Brutus
+
+5
+
+760
+
+8.31
+
+118
+
+6.44
+
+7.0
+
+Melissa Kehler Swoyer
+
+Alaskan Malamute
+
+Jake
+
+6
+
+620
+
+7.01
+
+118
+
+5.25
+
+4.0
+
+Keith Ping
+
+Alaskan Malamute
+
+Fiacc
+
+5
+
+550
+
+5.66
+
+115
+
+4.78
+
+1.0
+
+Regina Caldwell
+
+Alaskan Malamute
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Blazer
+
+5
+
+760
+
+9.37
+
+126
+
+6.03
+
+6.0
+
+Steve Jackson
+
+Alaskan Malamute
+
+Goldie
+
+5
+
+620
+
+6.57
+
+122
+
+5.08
+
+3.0
+
+Melissa Kehler Swoyer
+
+Alaskan Malamute
+
+Last Updated: 23:55:14 on 03-07-1999
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](%20%20%20%20%20%20%20%20%20%20Pull32.html%20%20%20) | [Next Pull \#](%20%20%20%20%20%20%20%20%20%20Pull34.html%20%20%20) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

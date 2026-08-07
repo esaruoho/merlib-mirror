@@ -1,0 +1,79 @@
+Windows XP
+
+Setting up the 
+Windows XP Server 
+on the Local Area Network
+
+Al Wong
+
+May 11, 2003
+
+My Windows XP Home (WinXP) computer has its own LAN card and phone jack built-in.
+To make the WinXP computer run as a network server with a shared dialup, 
+do the following:
+
+ Run the Network Setup Wizard from WinXP. Choose the first option:
+
+This computer connects directly to the Internet. The other computers
+on my network connect to the Internet through this computer.
+
+When the Network Setup Wizard prompts if you need to create a floppy disk
+to install the other computers on the network, say Yes. Create a floppy.
+You probably need to reboot now.
+
+ Then do the following. See the WinXP help for detailed explanations on how-to:
+
+ You need to create a unique name for this computer on the LAN.
+Again, it doesn't matter what it is as long as it's different from
+every other computer on the LAN.
+
+ You need to create a group name. Again, it doesn't matter what it is
+as long as it's the same group name on every computer on the LAN.
+
+ You need to create another account with a username and password for the network.
+It doesn't matter what the username and password is as long as you
+ exactly match this account information with the other computers that are
+going to be on the LAN.
+
+I would suggest you create a separate user account just for the network on each machine. Make the network account on your WinXP server a limited 
+account and not an administrator account.
+
+Please note the WinXP computer does not need to be logged into the
+network account at all but this account must exist for the benefit of the
+other computers on the LAN.
+All other computers must login to the network account to be recognized
+by the LAN.
+
+ Then you may want to set some folders as Shared in the 
+ File Manager. If you want older versions of Windows (like Windows 3.11)
+to be
+able to access your share folder, make the share folder name 8 characters
+or less.
+
+ Please see the 
+ ICS main webpage 
+regarding firewall information and updates.
+
+You probably need to reboot again.
+
+ Open a Command Window and type:
+
+ ipconfig 
+
+The IP address should be 192.168.0.1 with a subnet mask of 255.255.255.0 
+
+ The WinXP computer is now set up as a network server.
+Now set up the other computers that are going to be on the network
+with the floppy disk you created above.
+
+ Once the other computers are set up,
+go to My Network Places and click View workgroup computers. 
+This should bring up the other computer names on the LAN.
+
+Internet Connection Sharing
+
+ My Writings 
+
+Last updated : March 13, 2004
+
+Copyright 2003-2004 Al Wong, Los Angeles, California, USA

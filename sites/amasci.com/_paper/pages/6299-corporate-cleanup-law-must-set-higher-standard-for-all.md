@@ -1,0 +1,84 @@
+---
+title: "Corporate cleanup law must set higher standard for all"
+source_domain: amasci.com
+source_path: ~rarnold/corporate.htm
+order: 6299
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T05:59:06Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Corporate cleanup law must set higher standard for all
+
+*Source page: `~rarnold/corporate.htm`*
+
+**<span class="featureHeadline">Corporate clean-up law must set higher standard for all corporations,\
+*including non-profits*</span>**
+
+**CENTER OPINION, July 15, 2002**
+
+President George W. Bush, Congress, business leaders, investors, workers and the American public are furious at scandal-ridden corporations.
+
+The problem is real.
+
+Look at all the scandals WorldCom Inc., Enron Corp., Global Crossing Ltd., Qwest Communications International Inc., Andersen. Worse, each new report of accounting trickery and management skullduggery spurs new worries that more business disasters are on the way. Even staid IBM may have to restate its financial condition to set the record straight. Who will be next? How bad will it be? We only know that it's not over yet.
+
+Even President Bush, who has long worked to get government off the back of business, has had to react sternly, announcing efforts to crack down on corporate fraud. There is little question that Mr. Bush's plan, which centers on aggressive enforcement of current laws, is sorely needed.
+
+But is it enough? And how do we judge what is enough? Do we need to "restore business' sagging credibility" as conservatives say? Do we need to "prop up the public's teetering faith in the free enterprise system" as liberals say? Do we need to change the structure of corporate America with new rules, as the Senate proposes? Do we need to get rid of capitalism and place global economic decision-making power in the United Nations, as progressives such as the International Forum on Globalization (IFOG) recommend?
+
+The Senate proposals are the most likely measures to actually become public policy. In addition to prosecuting corporate fraud, the Senate has voted in favor of a law that would impose sentences of up to 10 years for corporate officers who cheat investors or drain employee pensions. Presumably that will give pause to the few dishonest operators that find their way into top management. We all know that only honest people do honest work. New laws are not likely to make dishonest people honest, but they could certainly locate them in clean, well-lighted federal facilities where they would have plenty of time to reconsider the merits of dishonesty.
+
+The Senate proposal addresses the central problem revealed by the recent scandals: managements that act as if they owned the company, when in fact they don't, and are just the high-priced hired help of the real owners, the investors.
+
+Corporations may be "judicial persons" or "artificial persons" in legal jargon, but in practice they are property, just like your home or car or clothes. You can't own a person, but you can own a corporation. Corporations are property. A share in a corporation is property. Shareholders are property owners. Since the employees of many companies these days own stock in the firms they work for, that includes a lot of workers who own a property interest in their employer. The rights of property owners are and should be protected by law.
+
+Although we call the current debacles "corporate scandal," we're really facing "corporate officer scandal," mostly "manager scandal," sometimes including "board of director scandal." But nobody's furious at "workers" or "investors." They're corporate too. Most of us are "corporate" in some fashion. So it pays to sort out rhetoric from reality, and sort out the proper target for legal punishments from those whose rights must be protected. It's a few bad officers at issue.
+
+Managers are hired to make the corporation work. They are the people, according to management theory, that do not do the work, but get others to do the work. The talent and skill required to get others to do the work efficiently and profitably is not found in everyone. Thus, managers are well compensated for their ability. They are the highest-priced of high-priced hired help. They are entitled to a few perquisites.
+
+But they are not entitled to abuse.
+
+It is not unreasonable to require managers to go to the bank when they need a loan rather than to borrow from their owners at no interest and dubious payback terms.
+
+It is not unreasonable to require managers to report revenues correctly so the owners know what's happening to their money.
+
+It is not unreasonable to require managers to judiciously steward pension funds so employees know what to expect for their retirement.
+
+Managers may have personal justifications for what they did in the current scandals, but there was no corporate justification -- no justification for the whole corporation, the managers, the directors, the owners, the workers.
+
+It is not unreasonable to put managers in jail if they put the owners' money at risk with personal loans that have no corporate justification.
+
+It is not unreasonable to to put managers in jail if they put the owners' money at risk by false revenue reports that make them look good but have no corporate justification.
+
+It is not unreasonable to put managers in jail if they put the employees' retirement money at risk by measures that have no corporate justification.
+
+If the board of directors cannot or will not police their management, perhaps law enforcement agencies should be asked to do it. And a "citizen attorneys general" clause that would allow investors to bring legal action against unlawful management acts would be a reasonable check and balance to management power.
+
+Some version of the Senate proposals is most likely to become the law of the land.
+
+In addition, members of the Senate are proposing steps to police the accounting profession. A bill sponsored by Maryland's Sen. Paul Sarbanes, a Democrat, calls for establishing a government-backed oversight board to discipline accountants and create certain auditing controls and standards. Meanwhile, Republican Sen. John McCain of Arizona seeks a complete ban on auditors serving as consultants for their clients.
+
+Not many Americans believe the accounting industry can be trusted to police itself anymore. A new government oversight bureaucracy may or may not make things better, but it may create the perception that a supervised accounting industry is more trustworthy.
+
+But let's not fool ourselves: it's just another layer of bureaucracy, and how much do you trust bureaucrats? They have a way of treating the honest and the dishonest equally, which punishes everyone in the regulated industry, not just the bad guys. Their fairness is unfair. But a new bureaucracy may be the only way to deal with public distrust.
+
+While President Bush is forming a financial "Swat" team within the Securities and Exchange Commission to chase down offenders, he is criticized for the SEC's lack of credibility under current Chairman Harvey Pitt. Mr. Pitt knows industry, but critics say he knows it too well and is unlikely to vigorously enforce the law. It's up to him to prove them wrong. It's up to the President to act if he doesn't.
+
+Something that has escaped public notice in these scandals is the need to create and enforce laws against mismanagement in non-profit corporations as well as in for-profit corporations.
+
+Both are corporations run by hired managers and controlled by a board of directors.
+
+Both make a profit.
+
+The difference is that nonprofit corporations may not distribute their profits to investors because nonprofit corporations may not issue stock.
+
+The profits of nonprofit corporations may be invested in stocks, however, and many well-known nonprofit corporations own substantial portfolios of common stocks, corporate bonds, government obligations, mutual funds, real estate, and other financial assets. But the flashy websites of such nonprofit groups don't reveal that fact. They don't tell how much they have in their investment portfolio. You can only dig that out by reading their IRS annual report Form 990, if you know how to read one, and if you take the time and trouble to obtain it every year. Transparency for corporations should extend to nonprofit corporations.
+
+Few realize that truth in advertising laws do not apply to nonprofit groups soliciting funds for their causes. Nonprofit corporations are free to lie to and cheat their donors with impunity, claiming that non-existent problems are about to destroy this or that and then taking credit for the miraculous disappearance of the problem after their publicity campaign has made it go away, after paying the staff a handsome salary. There is no First Amendment right to lie. Free speech protections do not cover defamation, libel or slander. There is no justification for letting nonprofit corporations off the hook of truth in advertising.
+
+**<a href="policy.htm" style="text-decoration: none">BACK TO PROBLEM POLICIES TOP PAGE</a>**
+
+<span lang="en-us"> **<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**</span>

@@ -1,0 +1,245 @@
+Online Games 
+
+ Tuesday, December 16, 2008 
+
+ Vector Tower Defense
+
+ ALL 50 LEVELS! Score: 5014309 
+
+ posted by Nanook at 4:07 AM 
+
+ 0 comments 
+
+ Wednesday, November 12, 2008 
+
+ Dance Step Pad for PC
+
+ My second youngest kid wanted a dance pad for his birthday that would work with a PC. I went to Wally World (Walmart), no such, they have one for the game cube, WII, PS2, Xbox and Xbox 360. Well, I thought Fry's would have one. Called down there (since it's a 30 mile drive), yes, they have one. So I drove all the way down only to have the sales puke assure me that not only did they not have one but that none existed. I've seen them advertised on websites, so I know they exist. But he says they don't because Dance Dance Revolution was never licensed for the PC. I told him that my son wanted to use it with Step Mania anyway. He told me the control schemes for Step Mania and DDR weren't the same so that was yet another problem. Well, next I tried Best Buy, the guy there was slightly more enlightened. He said the Xbox 360 used a USB connection and so conceivably an Xbox 360 version could work if the software supported it. I ended up buying a Konami Dance Dance Universe 3 Revolution pad for the Xbox 360. It turns out that this works fine with a PC running Windows-XP and Step Mania. All the crap the sales people told me about the control schemes being different was bogus. We didn't even have to load any drivers, Windows-XP SP3 already had the necessary drivers and recognized it as soon as we plugged it in. So if you're looking for a Step Pad for the PC, you don't have to spend the extra exhorbitant bucks for the "PC" versions advertised on the web, the Xbox 360 version made by Konami works fine. Do be sure to get the Xbox 360 version and NOT the vanilla Xbox version. The latter does not have a USB connection and will not work with a PC because there is no way to connect it. The versions for the Xbox 360 are about three times what the versions of the vanilla Xbox go for, but then again they're about a third of what the web-advertised PC versions go for and they work fine. 
+
+ posted by Nanook at 7:01 AM 
+
+ 2 comments 
+
+ Monday, September 22, 2008 
+
+ Metalix
+
+ I've played many defense games and Metalix is absolutely unique among them in not just one but many ways. The Japanese have a unique style in any artistic endeavor and it is really expressed in this game. Nothing about Metalix is mediocre, the graphics are superb, the sound effects are superb, and the game play is superb. This is one of two Tower Defense games I took a serious interest in and could not beat in a couple of hours, Elite Conquest being the other. I have played Conquest all the way through, but it took several days. I have not yet been able to complete Metalix . Wave one starts out easy; only a handful of weak creeps and enough gold to buy several towers. I usually start with two canon's and a laser tower. Notice the unique metallic graphics, the playing field is metallic, the creeps are metallic, and the turrets are mostly metallic. The menus and status board are translucent. And the graphics give a three dimensional appearance that adds to the realism of the animation. There are only three basic types of turrets in Metalix . The least expensive are cannon's which act much like your basic turret in other games. The next type is a laser turret and these seem to be the most damaging but damage only one creep at a time. The last and most expensive is the fire turret which damages multiple creeps but has a slow reload. In wave two you'll see that the path has totally changed. That is one of the unique aspects of this games play. Each wave takes a new path. Another unique characteristic is that each turret can move. You program the moves between waves and it is also possible to do so during waves. When the paths change, it is possible that turrets may end up on a path. If the creeps reach a turret on their path before the turret is moved off the path, they will destroy the turret and you've lost your defensive investment. You'll notice something new in wave 3, the turrets are taller. This means I've upgraded the towers range. One aspect of this game that is unique is that you can upgrade the towers range, power, quantity (which really means firing rate), and moving ability, all separately, giving a really large number of potential turret characteristics from a limited number of turret types. Different types of upgrades affect the physical appearance of the turrets differently. I've upgraded a laser and added another cannon in this round. Note the red jewel at the end of the path; ordinary creeps inflict damage if they reach it and when totally destroyed, the game is over. Bosses destroy it in one hit; so the first boss to get through ends the game. The first boss happens on level ten, and currently that's where my game ends. By level 7 things get crazy; the animation of the creeps is really wild; you'll need to play the game to experience that. By this level you are usually getting two types of creeps simultaneously, the things that look like the back end of a shark, and a hopping creep that is really difficult to kill. That ball with the red lights is the first boss creep. When he gets through it's game over. I have not succeeded in getting past him yet. The best I've been able to do is about 80% kill no matter what combination of towers and upgrades I get even when I get a very lucky path that brings him past the same towers multiple times. Now as I've stated, the turrets can move in this game. I think this is probably key to winning level 10, moving your turrets dynamically during that level to inflict sufficient damage, but so far I haven't been able to do this in a sufficiently coordinated way. You give it a try! Click on the button at the top of this post or the link. If you manage to get past level ten share with us how you did it. I guarantee you'll find this quite a different experience from other defense games you may have played. 
+
+ posted by Nanook at 3:58 AM 
+
+ 0 comments 
+
+ Sunday, September 21, 2008 
+
+ Defense-Games.Com
+
+ I've become so enamored with the Tower Defense genre of games that I've created a website dedicated to them, " defense-games.com ". Currently, I have 150 games on the site but I am still adding to it. I've designed the site for minimum clutter and maximum game space; you'll find images of each game in a matrix that re-sizes with your browser, with the games in alphabetical order. If you mouse over the image, the game name will appear. The main page itself re-sizes to any browser size, but because flash applications will not dynamically re-size the way static content will, I've opted for a minimum screen dimension of 1024x768. The majority of games, where the author allowed; are hosted locally so they will load quickly and reliably, but there are a handful where the game was not allowed to execute off of the authors site, where it loads from a remote site and may not be as quick or reliable. The majority of the games are flash but a handful are java, and there may be some that are silver-light based if I can ever get that to work for me. There are some truly unique games there so check it out, and if you find it worthwhile, I really would appreciate a link from your website or a post on relevant forums to help spread the word. I have tested defense-games.com on Firefox 3, Internet Explorer, Opera, and Safari. For the most part it works properly on all of these browsers. Here is an image of the main screen (sorry for the small glitch at the bottom, I actually had to stitch together two images if the browser because it would not fit in one window without scrolling): If you know of any that are not included there yet, please let me know. Thank you, and I hope you enjoy! 
+
+ posted by Nanook at 6:14 AM 
+
+ 0 comments 
+
+ Wednesday, June 18, 2008 
+
+ Dungeon Defender
+
+ Recently, in response to my post regarding Random Defence , someone asked me what my favorite defence game is. What makes that difficult to answer is the fact that every time I think I've found a favorite, something new comes along that is even better. Dungeon Defender is something of a cross between a tower defence type game and dungeons and dragons type game. It is one of the most complex defence games I've played, and it's fun and challenging. The game is addictive, the music trans-inducing. In short it's the kind of game I enjoy. The downside to this game is that with the exception of the opening screen, the graphics are lousy. For all the games complexity it could benefit from better graphics. The graphics are on par with something you might expect to be running on a Commodore-64 or early Atari console game. If this were trying to emulate some classic game that would be fine, but it's not, it's a more complex derivative of tower games which are a relatively modern genre and as such it ought to have graphics to match. Still it is highly compelling, it's a game I wasn't successful at completing in an hour which means it actually has some challenge to it, and you will probably find once you get into it, the graphics aren't that great of a handicap. 
+
+ posted by Nanook at 5:38 AM 
+
+ 0 comments 
+
+ Wednesday, June 4, 2008 
+
+ Random Defence
+
+ Random Defence is yet another horribly addictive tower defence game. Incidentally, I'm curious why the British variant of "defence" seems to be the one most of these games use. This one has numerous boards, about 51 swarms, and a number of funky defenses. The trick is not to loose lives but to do so as cheaply as possible because both your assets remaining and lives remaining figure into the final score. Personally, I have fairly good luck at surviving with about seven missile turrets upgraded as fast as I can afford to but I never end up with a lot of money that way so my final score isn't great. The round things to the left are research and financial centers. The blue is electrical research, the green gun research (what could be more environmentally friendly than large artillery?), the yellow is a financial center, supposedly it adds interest to your money at each level, and the red is explosives research. You have to have a certain technology level to upgrade various weapons. That thing shooting the green beam, that's a super turret with a laser. That sucker is expensive both directly, and in that it requires all three research centers to be at certain levels for various levels before you can acquire it and to upgrade the turret; but it kills anything. This is a screen shot of the last swarm which is referred to as "The Yard Sale", and this is also a fairly typical configuration that I use; preferring the missile turrets to other weapons systems. They are reliable defenders but they are expensive. To play, click on the article title or the graphical icon above. Have fun! 
+
+ posted by Nanook at 4:21 PM 
+
+ 5 comments 
+
+ Friday, May 16, 2008 
+
+ Stack The Cats
+
+ Stack the Cats is a Tetris-Like game in which the object is to get four like cats together at which point they vaporize and the rows drop. The idea is not to let any row reach the top of the game. The purple haired lady is extremely troubled by cat stacking. She sounds like she smokes ten packs a day and will issue a running commentary. "Cats are not for stacking.", "Don't you DARE stack my cats!", "Stacking cats is WRONG!", "Oh crud!", "Piss"... It's one of those games you just have to play. 
+
+ posted by Nanook at 5:43 AM 
+
+ 0 comments 
+
+ Thursday, March 20, 2008 
+
+ Super Mario World 3
+
+ Super Mario World 3 is by far the best flash version of Mario World I've ever played. The graphics are similar to the original Super Nintendo graphics in terms of resolution and number of colors and it is essentially two dimensional like the original Super Mario World. The audio is fantastic and really contributes to the fun of playing this game. It has the usual Mario World theme to the music but it is extremely well done, with acoustics that have depth to them much like the Nintendo-64 sound. The whole audio spectrum is used effectively. You will get the most of this game if you connect a decent audio system, something with robust bass and highs, to your sound card. Pee Cee speakers just won't do this game justice. The overall play is good, the game is responsive and doesn't lag even when played full screen on a 1.8 Ghz AMD based machine that isn't exactly a speed demon. 
+
+ posted by Nanook at 3:17 AM 
+
+ 0 comments 
+
+ Tuesday, March 18, 2008 
+
+ Protector
+
+ Protector is the coolest tower defense game I've played. It is like a bunch of tower defense games in one with a variety of different maps. The graphics are good, full color, shading, detail, three dimensional, and creative. You really need to see it full screen to fully appreciate it, some of the detail is lost in the screen shot here because of downsizing and compression. This plays full screen on a 1.8 GHz machine with a screen full of active creatures and no lag. It is very efficiently coded. This in spite of the fact that this game offers considerably more detail in the graphics, and considerably more complexity in the play than any other tower defense I've ever played. You pretty much have to do this real time though. You can't just build, start a wave and go get coffee. It's hard to predict and you have to react in real time. You can pave unpaved areas for a price and then equip them with defense units. As the defense units gain experience, you can upgrade them making them more powerful. This game is elemental also, like many RPG's, not just generic monsters and weapons. Some monsters will be weak against one element, strong against another, and immune to others. If you haven't played this before, this game will be a new addiction. 
+
+ posted by Nanook at 5:28 AM 
+
+ 0 comments 
+
+ Monday, March 10, 2008 
+
+ Age of War
+
+ Age of War So when haven't we been in an age of war. This game is kind of like a Tower Defense game with an offense added. You have everything from primitive catapults to high-tech laser weapons that you can defend your fort with. That part plays just like a tower defense where you use your money to buy bigger and better weapons to defend your tower. But then you also have an assault on your enemy's fort. You start with primitive weapons, clubs and spears, and your most powerful asset is your spear carrying dinosaur rider. After a while you get the advancement of slingshots. And from there you basically go through the ages, catapults, pots of hot oil, catapults throwing flaming things, cannons, and down the road you get ion weapons, and finally laser weapons. Here is what the most advanced defense looks like. Four lasers is the maximum defense you can have and it suffices to kill pretty much anything that comes it's way. To win the game it is necessary not only to defend your position but to launch an effective assault on your enemy. And that's where super soldiers fit in. They're expensive as all get out but that Reynolds Wrap really does the trick. They can kill anything. They can defeat a tank with a kick or two. Now that would come in handy during rush hour. Ah, finally victory! I've defeated the ennemy! (Yes, it is spelled that way in the game!) 
+
+ posted by Nanook at 6:23 AM 
+
+ 3 comments 
+
+ Enter your search terms 
+
+ Submit search form 
+
+ Web 
+
+ www.eskimo.com 
+
+ About Me 
+
+ Name: Robert Dinse 
+ Location: Shoreline, Washington, United States 
+ I am the owner of Eskimo North, an ISP that started life as a single line BBS back in 1982. I am married and have four children. 
+ View my complete profile 
+
+ GamesBanners.com 
+
+ Ten Most Recent Posts 
+
+ Vector Tower Defense 
+
+ Dance Step Pad for PC 
+
+ Metalix 
+
+ Defense-Games.Com 
+
+ Dungeon Defender 
+
+ Random Defence 
+
+ Stack The Cats 
+
+ Super Mario World 3 
+
+ Protector 
+
+ Age of War 
+
+ Archives 
+
+ March 2007 
+
+ April 2007 
+
+ May 2007 
+
+ July 2007 
+
+ September 2007 
+
+ October 2007 
+
+ November 2007 
+
+ January 2008 
+
+ February 2008 
+
+ March 2008 
+
+ May 2008 
+
+ June 2008 
+
+ September 2008 
+
+ November 2008 
+
+ December 2008 
+
+ Contact Me 
+
+ Know anything cool happening with online games? Any good recommendations
+for worthy gaming sites to add to the side bar? Please e-mail:
+ nanook@eskimo.com 
+
+ Tell A Friend 
+
+ Please tell a friend about this Online Games Blog. 
+
+ Link To This Blog 
+
+ http://www.eskimo.com/~nanook/games/ 
+
+ Interactive Fiction 
+
+ Ifiction.org 
+
+ Flash Web Games 
+
+ Defense-Games.Com 
+ Eskimo Arcade 
+ Y B Bored 
+
+ Eskimo North Information 
+
+ This content is hosted by Eskimo North. Host your content with us! 
+ Eskimo North is independently owned and operated. 
+ We offer free trial accounts on Unix Shell accounts, 56k Dial Access, and ISDN IP services. 
+ Contact us at (206) 812-0051 or (800) 246-6874. E-mail: support@eskimo.com 
+
+ Eskimo North Internet Access 
+
+ DSL Broadband Internet Access 
+ 56k Dial Access 
+ ISDN Internet IP Access 
+
+ Eskimo North Free Services 
+
+ Online Games 
+ Eskimo North Forums 
+ Two week free trials available on 56k dial access ,
+ ISDN access , and
+ Unix shell access. 
+
+ Eskimo North Internet Hosting 
+
+ Personal Domain Web Hosting 
+ Business Domain Web Hosting 
+ Unix Shell 
+ Virtual Domain Hosting 
+
+ Nanook's Stuff 
+
+ Nanook's Home Page 
+ Nanook's Photo Gallery 
+ Dreams and Visions 
+ Extraterrestrial and UFO Phenomena 
+ Future Sustainable Living 
+ God Spirit 
+ Homeless Hope 
+ Linux and GNU Software 
+ Music 
+ Nanook's Nanook 
+ Online Games" 
+ Photography 
+ Radio and Wireless 
+ Science and Technology 
+ Search Engine Optimization Techniques 
+
+ This is a paragraph of text that could go in the sidebar. 
+ -->

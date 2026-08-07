@@ -1,0 +1,55 @@
+---
+title: "Green Funding"
+source_domain: amasci.com
+source_path: ~rarnold/green_funding.htm
+order: 6365
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T05:59:10Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Green Funding
+
+*Source page: `~rarnold/green_funding.htm`*
+
+**Green Wealth: Funding the Enemy\
+By Alan Caruba\**
+\
+Green and animal rights organizations do not subsist on the sale of calendars, books, and stuffed animals. They are wealthy beyond the comprehension of most Americans and others who support them in the belief they are "protecting the environment" and saving animals from "cruelty" and "extinction."\
+\
+You will be astonished to learn that there are more than 4,000 environmental groups in America today. "And the number is growing," warns Ron Arnold of the Center for the Defense of Free Enterprise, "and they are really out to get you. Worse, they have the clout and the money to do it." They use it to lobby and support members of Congress to initiate legislation harmful to the interests of all Americans.\
+\
+Hugo Gurdon of the Competitive Enterprise Institute, in a recent National Post article, noted that "The 12 biggest environmental pressure groups in the United States enjoy combined annual revenues of \$1.95 billion, according to the latest Internal Revenue Service figures. Only 725 of the United States' 20 million companies can boast such magnificent cash flow."\
+\
+"Among the green dozen are some-Nature Conservancy (\$731 million) and the Wildlife Conservation Council (\$311 million)-that are merely left-of-center. But there are genuinely extreme organizations-the World Wildlife fund (\$118 million) and the Sierra Club (\$73 million)-that militate aggressively against the free market and attack property rights to the detriment of the economy and the majority of ordinary people," said Gurdon.\
+\
+Arnold has written several excellent books on this topic that demonstrate how the Natural Resources Defense Council, the Environmental Working Group, and the Rainforest Action Network, have a long record of activities that undermine entire industries and the welfare of the nation's mining, ranching and farming enterprises.\
+\
+In the case of the animal rights groups, Arnold has documented how People for the Ethical Treatment of Animals (PETA) is a case history of IRS tax law violations, stolen trade secrets, advocated arson, and assaulted business executives.\
+\
+The Greens and the Animal Rights groups use every protection afforded by the Constitution and every loophole in our legal and IRS codes to pursue their war on capitalism, property rights, and the welfare of this nation. They are a Socialist Taliban.\
+\
+Americans for Medical Progress, a group that monitors the Animal Rights movement that opposes the use of animals for medical research, recently released information concerning the wealth of some of the leading groups. PETA's annual budget is \$13,499,614. It has net assets worth \$4,480,988. It heavily underwrites the Physicians Committee for Responsible Medicine whose budget runs \$2,915,847.\
+\
+The American Anti-Vivisection Society as assets in excess of \$11,561,737 and an annual budget of \$1.2 million. The Fund for Animals has net assets in excess of \$189,438,862 and runs an annual budget of more than \$5.6 million. Defense of Animals is worth \$1,483,334. There are others that include the Animal Welfare Institute, the Animal Legal Defense Fund, the Doris Day Animal League, and the Humane Society of the United States.\
+\
+The Greens are leading the battle against genetically modified foods, a scientific breakthrough that promises to end famine. They are behind the US government's former forest management policies that have led to years of catastrophic fires. Within the passed few weeks the Bush administration has announced the revisions necessary to thwart this menace. Through their use of the Endangered Species Act and other "environmental" legislation, they fund the attack on property rights, the keystone of the American economy. They have undermined the training of our nation's military through such laws as well.\
+\
+While our attention is focused on the threat of the global Islamic Jihad, we also have to keep an eye on these groups. The threat of the Earth Liberation Front and the Animal Liberal Front is international in scope and increasing daily here on the home front. They have begun to use violence against individuals to achieve their goals. In the past, they have specialized in arson and vandalism, some of which has destroyed years of scientific research for the benefit of humans, animals and protection of natural resources such as our forests.\
+\
+You can learn the facts by visiting sites such as [www.undueinfluence.com](http://www.undueinfluence.com), [www.ranamuck.org](http://www.ranamuck.org), all provided by the Center for the Defense of Free Enterprise, [www.cdfe.org](http://www.cdfe.org). In the interest of full disclosure, I am an adjunct scholar of the CDFE.\
+\
+The next time someone buys a Sierra Club calendar or gets a slick brochure asking for a donation to these causes, that money will fund the enemies of America.\
+\
+Alan Caruba writes a weekly column, "Warning Signs", posted on the website of The National Anxiety Center (<http://www.anxietycenter.com>). Merril Press has just published a collection of his columns.\
+\
+**Copyright, Alan Caruba, 2003\
+\
+The National Anxiety Center\
+9 Brookside Road\
+Maplewood, NJ 07040\
+(973) 763-6392**
+
+**<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**

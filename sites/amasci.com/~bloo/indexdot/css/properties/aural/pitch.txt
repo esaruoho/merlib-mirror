@@ -1,0 +1,91 @@
+Pitch - Cascading Style Sheets Properties 
+
+ pitch 
+ Support Key: 
+ CSS2 
+ Other Aural Properties 
+
+ volume 
+ stress 
+ richness 
+ azimuth 
+ elevation 
+ voice-family 
+ speak 
+ speak-punctuation 
+ speak-numeral 
+ pitch-range 
+ speech-rate 
+ play-during 
+ pause 
+ pause-before 
+ pause-after 
+ cue 
+ cue-before 
+ cue-after 
+
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ medium 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ yes 
+ Applicable Media: 
+ Aural 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property specifies the average frequency of the speaking
+ voice. Different voice families have different average frequencies
+ (a male voice is approx. 120Hz, a female voice is approx 210Hz.)
+
+ Allowed Values 
+ inherit 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ x-low|low|medium|high|x-high 
+ CSS2 
+ Type: Calculated 
+ Description: 
+ These do not map to absolute frequencies since they are dependent on
+ voice family. The obvious scale between values should be maintained
+ no matter the voice family. 
+
+ [frequency] 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Positive number indicating average voice pitch measured in Hertz or Kilohertz. 
+
+ Example 
+ Ext/Doc: strong {
+ pitch: x-high } 
+ In-Line:&#160; < strong 
+ STYLE =" pitch: 
+ x-high">text</ strong > 
+
+ Notes 
+
+ Before its inclusion in CSS2, this property was first proposed in the W3C
+ Working Draft "Aural Cascading Style Sheets (ACSS)" (1/7/97,
+ http://www.w3.org/Style/css/Speech/NOTE-ACSS )
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

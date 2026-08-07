@@ -1,0 +1,8 @@
+Index of /~roger/files/RPMS 
+
+ Index of /~roger/files/RPMS 
+ Name Last modified Size Description 
+
+ Parent Directory 19-Jan-2005 17:13 - 
+ linpha-0.5.1-1mdk.no..> 20-Sep-2003 17:02 74k 
+ linpha-cvs20030221-1..> 20-Sep-2003 17:02 75k

@@ -1,0 +1,40 @@
+---
+title: "Index of /~p0lez1"
+source_domain: amasci.com
+source_path: ~p0lez1/index.html
+order: 5672
+reachable_from_entry: false
+images: 19
+internal_links: 18
+extracted: 2026-08-07T05:58:40Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Index of /~p0lez1
+
+*Source page: `~p0lez1/index.html`*
+
+# Index of /~p0lez1
+
+     Name                    Last modified       Size  Description
+
+     Parent Directory        25-Dec-2002 22:40      -  
+     20s/                    15-Dec-2002 13:54      -  
+     5245L/                  15-Dec-2002 13:54      -  
+     8u/                     15-Dec-2002 13:56      -  
+     GOLDENVIEW/             15-Dec-2002 13:58      -  
+     ampex/                  01-May-2003 16:36      -  
+     beitman/                23-May-2003 13:30      -  
+     blonde/                 19-Oct-2002 08:50      -  
+     blondie/                19-Oct-2002 08:57      -  
+     emerson/                09-Nov-2002 15:37      -  
+     foothill/               30-Oct-2002 14:57      -  
+     icradio/                17-Jan-2002 21:22      -  
+     palmers/                30-Oct-2002 15:17      -  
+     parks/                  20-Apr-2003 23:55      -  
+     rider/                  01-Apr-2003 20:33      -  
+     royal500/               10-Jan-2003 23:02      -  
+     vnc/                    15-Dec-2002 13:59      -  
+     xmas/                   03-Jun-2003 16:12      -  
+
+------------------------------------------------------------------------

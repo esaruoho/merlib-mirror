@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Top Frame</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+<meta name="description" content="Bassett Aromatherapy offers quality aromatherapy products, essential oils, diffusers, and more.">
+<meta name="keywords" content="Bassett Aromatherapy, JoAnne Bassett,
+parfum, natural parfum, perfume, natural perfume, eau de toilette, natural eau de toilette, perfume sample,
+absolute, accessories, alternative medicine, alternative, anxiety,aroma, accessories, bath, body, books, catalog, diffusers,
+essential oils, floral waters, info, information, jewelry, music, oils, pendants, recipes,retail, seasons, shop,
+synergies, video, votive holders, wholesale, world, aromatherapy, aromatic, aromaworld, attars, balance, basil, bath, bay leaf,
+bergamot, body lotions, books, bookstore, bottles, bulgaria, bulgarian, camomile, caps, cardamon, carriers, carrot seed, cedar
+leaf, chamomile, chemotypes, cinnamon, citronella, citrus, clary sage, co2, crafted, crystals, cypress, diffusers, dill seed, eau de parfum,
+eau de toilette, essence, essential oil blends, essential oil, essential oils, essential, essentials, eucalyptus, eye droppers,
+eyedroppers, fennel seed, fir, fragrance, frankincense, geranium, gifts, ginger, grapefruit, hand distilled, hand harvested, hazards,
+healing, health benefits, helichrysum, holistic, hydrosols, immortelle, international, jasmine, juniper, lavender, lemon,
+lemongrass, lime, lotions, mandarin, marjoram, massage oils, massage therapy, massage, medicine, music, mysore, natural health, natural
+medicine, natural perfume, natural, nebulizers, neroli, niaouli, nutmeg, oils, orange, oregano, organic, palma rosa, palmarosa, parfum,
+patchouli, peppermint, perfume, petitgrain, pipettes, precious, pregnancy, pure, rare and precious oils, rare, recipes, red thyme,
+resource, retail, rose essential oil, rose otto, rose, rosewood, safety, sage, sandalwood, scent, scents, self care, source, spa,
+spearmint, specials, spruce, stress, supplies, tangerine, tea tree, therapeutic, therapies, therapy, thyme, varieties, vetiver, vetivert,
+video, wellness, white thyme, wholesale, wild, wild-crafted, wildcrafted, wintergreen, ylang ylang, hydrosol, toxic mold, hydrodistill, hydrodistilled,Le Voyage, 
+Reveiller, everlast, display, racks, bottle, plastic bottle, pipette, eye dropper, carrier oil, base oil, bulk oils, special, sale">
+<!--Web Designer: A. D. Sherpa -->
+<!--July 2002-->
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('images/top_menus/products_f2.gif','images/top_menus/products_f3.gif','images/top_menus/special_f2.gif','images/top_menus/special_f3.gif','images/top_menus/about_f2.gif','images/top_menus/about_f3.gif');">
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="15%" rowspan="2" valign="top" background="images/corner_logo.jpg" bgcolor="#999999">&nbsp;</td>
+    <td valign="top"><p><img src="images/bassett_logo.gif" width="150" height="38" hspace="0" vspace="0"><img src="images/aromaworld_logo.gif" width="108" height="16"><br>
+        <img src="images/flower_logo.gif" width="120" height="34" hspace="10"><br>
+      </p></td>
+  </tr>
+  <tr> 
+    <td valign="top" background="images/td_bg.jpg"><div align="right">
+        <table border="0" cellpadding="0" cellspacing="0" width="370">
+<!-- fwtable fwsrc="top-menu.png" fwbase="top-menu.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+  <tr>
+   <td><img src="images/top_menus/spacer.gif" width="123" height="1" border="0" alt=""></td>
+   <td><img src="images/top_menus/spacer.gif" width="1" height="1" border="0" alt=""></td>
+   <td><img src="images/top_menus/spacer.gif" width="123" height="1" border="0" alt=""></td>
+   <td><img src="images/top_menus/spacer.gif" width="123" height="1" border="0" alt=""></td>
+   <td><img src="images/top_menus/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+
+  <tr>
+   <td colspan="4"><img name="topmenu_r1_c1" src="images/top_menus/top-menu_r1_c1.gif" width="370" height="2" border="0" alt=""></td>
+   <td><img src="images/top_menus/spacer.gif" width="1" height="2" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><a href="products_available.html" target="mainFrame" onMouseOut="MM_nbGroup('out');" onMouseOver="MM_nbGroup('over','products','images/top_menus/products_f2.gif','images/top_menus/products_f3.gif',1);" onClick="MM_nbGroup('down','navbar1','products','images/top_menus/products_f3.gif',1);"><img name="products" src="images/top_menus/products.gif" width="123" height="18" border="0" alt="Products"></a></td>
+   <td><img name="topmenu_r2_c2" src="images/top_menus/top-menu_r2_c2.gif" width="1" height="18" border="0" alt=""></td>
+   <td><a href="special.html" target="mainFrame" onMouseOut="MM_nbGroup('out');" onMouseOver="MM_nbGroup('over','special','images/top_menus/special_f2.gif','images/top_menus/special_f3.gif',1);" onClick="MM_nbGroup('down','navbar1','special','images/top_menus/special_f3.gif',1);"><img name="special" src="images/top_menus/special.gif" width="123" height="18" border="0" alt="Season's Special"></a></td>
+   <td><a href="about.html" target="mainFrame" onMouseOut="MM_nbGroup('out');" onMouseOver="MM_nbGroup('over','about','images/top_menus/about_f2.gif','images/top_menus/about_f3.gif',1);" onClick="MM_nbGroup('down','navbar1','about','images/top_menus/about_f3.gif',1);"><img name="about" src="images/top_menus/about.gif" width="123" height="18" border="0" alt="About Bassett Aromatherapy"></a></td>
+   <td><img src="images/top_menus/spacer.gif" width="1" height="18" border="0" alt=""></td>
+  </tr>
+</table>
+      </div></td>
+  </tr>
+</table>
+</body>
+</html>

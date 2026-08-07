@@ -1,0 +1,171 @@
+---
+title: "The Complete Book List"
+source_domain: amasci.com
+source_path: ~graham/book.html
+order: 3432
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:56:47Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Complete Book List
+
+*Source page: `~graham/book.html`*
+
+# Up Next
+
+Title
+
+Blind Assassin
+
+Author
+
+Margaret Atwood
+
+Date
+
+Thursday, 20 June, 7:00 p.m.
+
+Place
+
+Noodle Studio, 208 Broadway E.
+
+## Current Members
+
+Susan Bocek, <proailurus@earthlink.net>\
+Steve Graham, <graham@eskimo.com>\
+Rob Hurvitz, <robhurvitz@yahoo.com>\
+Stacy McCann, <stamccann@hotmail.com>\
+Martin Sorensen, <martin.sorensen@wamu.net>
+
+# The Complete Book List
+
+This is the complete list of books read by the group since April 1997.
+
+### 1997
+
+|           |                                                      |
+|-----------|------------------------------------------------------|
+| April     | *Call it Sleep*, by Henry Roth                       |
+| May       | *The Bingo Palace*, by Louise Erdrich                |
+| June      | *Beloved*, by Toni Morrisson                         |
+| July      | *Mona in the Promised Land*, by Gish Jen             |
+| August    | *How the Irish Saved Civilization*, by Thomas Cahill |
+| September | *Cathedral*, by Raymond Carver                       |
+| October   | *The Middle Ground*, by Margaret Drabble             |
+| November  | *The Full Catastrophe*, by David Carkeet             |
+| December  | *Bury Me Standing*, by Isabel Forcesa                |
+
+### 1998
+
+|           |                                                           |
+|-----------|-----------------------------------------------------------|
+| January   | *Confessions of a Failed Southern Lady*, by Florence King |
+| February  | *Fool's Progress*, by Edward Abbey                        |
+| March     | *Rum Punch*, by Elmore Leonard                            |
+| April     | *The Sparrow*, by Mary Doria Russell                      |
+| May       | *Love Warps the Mind a Little*, by John DuFresne          |
+| June      | *Alias Grace*, by Margaret Atwood                         |
+| July      | *To Kill a Mockingbird*, by Harper Lee                    |
+| August    | *Ship Fever*, by Andrea Barrett                           |
+| September | *The Good Husband*, by Gail Godwin                        |
+| October   | *Indian Killer*, by Sherman Alexie                        |
+| November  | *Bridget Jones' Diary*, by Helen Fielding                 |
+| December  | *Wicked*, by Gregory Maguire                              |
+
+### 1999
+
+|  |  |
+|----|----|
+| January | *Cold Mountain*, by Charles Frazier |
+| February | *Divine Secrets of the Ya Ya Sisterhood*, by Rebecca Wells |
+| March | *The Collector Collector*, by Tibor Fischer |
+| April | *Memoirs of a Geisha*, by Arthur Golden |
+| May | *Duplicate Keys*, by Jane Smiley |
+| June | *Cowboys Are My Weakness*, by Pamela Houston |
+| July | NO MEETING |
+| August | *Cloudsplitter*, by Russell Banks |
+| September | *The Corner: A Year in the Life of an Inner-City Neighborhood,* by David Simon and Edward Burns |
+| October | *Harry Potter and the Sorcerer's Stone*, by J. K. Rowling |
+| November | *The Museum Guard*, by Howard Norman |
+| December | *My Year of Meats*, by Ruth Ozeki |
+
+### 2000
+
+|  |  |
+|----|----|
+| January | *The Reader*, by Bernard Schlink |
+| February | *Their Eyes Were Watching God,* by Zora Neal Hurston |
+| March | *The Poisonwood Bible*, by Barbara Kingsolver |
+| April | *The Professor and the Madman*, by Simon Winchester |
+| May | *American Pastoral*, by Philip Roth |
+| June | *The Magician's Assistant* by Ann Patchett |
+| July | *Electric Kool-Aid Acid Test*, by Ken Kesey |
+| August | *Larry's Party*, by Carol Shields |
+| September | *Bellwether*, by Connie Wilson |
+| October | *Holding the Line: Women in the Great Arizona Mine Strike of 1983*, by Barbara Kingsolver |
+| November | *Edible Woman*, by Margaret Atwood |
+| December | *House of Sand and Fog,* by Andre Dubus III |
+
+### 2001
+
+January
+
+*Guns, Germs, and Steel*, by Jared Diamond
+
+February
+
+*The Sixteen Pleasures*, by Robert Hellenga
+
+March
+
+*Open Secrets*, by Alice Munro
+
+April
+
+*Riders of the Purple Sage*, by Zane Grey
+
+May
+
+*The Loved One*, by Evelyn Waugh
+
+June
+
+*The Hours*, by Michael Cunningham
+
+July
+
+*The Bee Season*, by Myla Goldberg
+
+August
+
+*King Leopold's Ghost*, by Adam Hochschild
+
+September
+
+*Norwegian Wood*, by Haruki Murakami
+
+October
+
+*Fahrenheit 451*, by Ray Bradbury
+
+November
+
+*A Widow for One Year,* by John Irving
+
+December
+
+*Ahab's Wife,* by Sena Jeter Naslund
+
+### 2002
+
+|          |                                                               |
+|----------|---------------------------------------------------------------|
+| January  | *The Amazing Adventures of Kavalier & Clay* by Michael Chabon |
+| February | *Georgiana: Duchess of Devonshire* by Amanda Foreman          |
+| March    | *Blue Angel* by Francine Prose                                |
+| April    | *The Thin Man* by Dashiell Hammett                            |
+| May      | *In Patagonia* by Bruce Chatwin                               |
+| June     | *Blind Assassin* by Margaret Atwood                           |

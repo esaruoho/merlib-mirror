@@ -1,0 +1,68 @@
+---
+title: "Win32 Platforms"
+source_domain: amasci.com
+source_path: ~htak/win32asm/winplat.htm
+order: 3479
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T05:56:48Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Win32 Platforms
+
+*Source page: `~htak/win32asm/winplat.htm`*
+
+# Win32 Platforms
+
+There are fundamentally four Win32 platforms: [NT](#NT), [Win9x](#Win9x), [WinCE](#WinCE), [Win32s (obsolete)](#Win32s).
+
+\[ [Back to Win32 ASM Page.](win32asm.htm) \]
+
+## <span id="NT"></span>NT
+
+This platform is built on a base of 32-bit code. It handles both ANSI and Unicode character sets.
+
+### NT 3.1
+
+This was the first Win32 platform. It ran on Intel 386's, MIPS, and Digital Alpha's. Like Unix, programs precompiled for Intel processors could not run on a non-Intel processor, unless it was a compatible like AMD or Cyrix. On the surface (or more properly, the video display), this version looked pretty much like 16-bit Windows 3.1. A number of NT 3 versions were released before NT 4 came out.
+
+### NT 4
+
+This version brought the new Windows 95 look to NT.
+
+### Windows 2000
+
+This is also known as Win2k. It was called NT 5 during most of its development. Unlike NT 4, it can read the new VFAT32 file system used by Windows 95 OSR2 and Windows 98. Properly written device drivers, in the form of WDM files, can be used by Win2k, Win98 SE, and Win ME.
+
+## <span id="Win9x"></span>Win9x
+
+This platform is a hybrid of 32- and 16-bit code. It handles mostly ANSI. Only a very few of the basic API functions can handle Unicode.
+
+### Windows 95
+
+Also known as Win95, this was the version that brought the new look to Windows. It also brought the VFAT file system, which could not be read by NT at the time of its release. A later release, Windows 95 OSR2 (OEM System Release 2), introduced the more efficient VFAT32 file system, but this later release was not available as a retail product. You had to be a manufacturer, or buy a machine with Windows 95 OSR2 pre-installed by a manufacturer.\
+When you ask the original Win95 for its version number, it will tell you it's version 4.00. Win95 OSR2 shows up as version 4.00 B.
+
+### Windows 98
+
+Also known as Win98, this version made the Win95 OSR2 enhancements available in a retail product.\
+    When you ask Win98 for its version number, it will tell you it's version 4.10. Win98 SE (second edition) is version 4.10.2222.
+
+### Windows ME (Millenium Edition)
+
+This is expected to be the last of the Win9x series.
+
+## <span id="WinCE"></span>WinCE
+
+This subset platform is built on a base of 32-bit code. It handles only Unicode.
+
+This is Win32 for very small systems, such as handheld computers.
+
+## <span id="Win32s"></span>Win32s (obsolete)
+
+Windows 3.1, a 16-bit version of Windows, could use some of the capabilities of Intel's 32-bit processors by running in 386 Enhanced Mode. This allowed Windows to provide large data spaces, and to allow running multiple DOS sessions simultaneously with Windows.\
+You could also enhance this system by downloading, from Microsoft, a set of files that implemented the Win32s subset of Win32. The Win32s implementation suffered from its limitations (e.g., no multithreading) and a few file sharing problems. This made some Win32 products look very bad. Win95 made Win32s obsolete.
+
+------------------------------------------------------------------------

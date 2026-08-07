@@ -1,0 +1,20 @@
+Simple JavaScript Programming Example 
+
+ Simple JavaScript Programming Example 
+
+Temperature Converter
+
+F: 
+
+C: 
+
+&ltform>
+F: &ltinput type="text" name="F" value="32">
+&ltbr>
+C: &ltinput type="text" name="C" value="0">
+&ltbr>
+ &ltinput type="button" name="calc" value="calc"
+ onClick="this.form.C.value=(5/9)*(this.form.F.value-32)">
+&lt/form>
+
+ Return to overview page

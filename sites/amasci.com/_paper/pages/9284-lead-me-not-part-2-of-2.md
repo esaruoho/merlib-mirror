@@ -1,0 +1,842 @@
+---
+title: "Lead Me Not . . . (part 2 of 2)"
+source_domain: amasci.com
+source_path: ~vecna/leadme2.htm
+order: 9284
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:01:51Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Lead Me Not . . . (part 2 of 2)
+
+*Source page: `~vecna/leadme2.htm`*
+
+# Lead Me Not . . .
+
+## by Christine Morgan
+
+------------------------------------------------------------------------
+
+Click [here](leadme.htm) to return to Part 1.
+
+------------------------------------------------------------------------
+
+       "Cut the bullshit," Margot Yale snapped in a manner that was
+    not at all in keeping with her courtroom image. She slapped the table
+    hard enough to make Matt's coffee cup jump and rattle. "You know and
+    I know that you're hooked up with these monsters!"
+        Elisa's eyes flashed dangerously, but she, with a visible effort,
+    smiled and folded her hands and began humming. For some reason,
+    Margot sat back sharply and gave Elisa an alarmed, fearful look.
+        Matt shifted his gaze between the two women, not sure why
+    "Disco Inferno" would cause such a reaction.
+        He rustled some papers to get their attention again. Margot's
+    gaze settled on him like a plague of fire ants. "All these eyewitness
+    accounts agree that Brendan Vandermere's car was not damaged by a
+    gargoyle."
+        "Yes, by a woman in an evening gown, who jumped out of the
+    back of an ambulance waving a gun." Margot dripped sarcasm and
+    lifted her chin in a way that said she was questioning Matt's breeding
+    and suspecting a fair amount of simian heritage. "Which is even more
+    preposterous than gargoyles!"
+        Elisa opened her mouth to retort, and at that moment the phone
+    jangled urgently. Matt scooped it up. "Bluestone here."
+        "Matt, it's Alvarez. Were you looking for a chick with a
+    parachute?"
+        "Anybody hears you talking like that, the Captain'll have your
+    butt in a sling," Matt remarked, but his brain was clicking into high
+    gear. "Anyway, yeah. What have you got?"
+        "She crashed through a skylight into a meth lab. Messed
+    herself up pretty bad, and it took the druggies all damn day to call it in
+    because they were looking out their own rears."
+        Matt got the hospital room number from Alvarez, then hung
+    up, aware that Elisa and Margot had turned the heat on their antagonism
+    down to simmer and were both watching him.
+        "Ms. Yale, I'm sorry, but we'll have to continue this another
+    time," Matt said, standing up. "We've got a matter to investigate that
+    pertains to the case. We'll be in touch."
+        Elisa was also on her feet, and moving out the door. Margot
+    glowered. "_I'll_ be in touch, Bluestone, don't worry about that!"
+        "I wasn't worried," he assured her warmly, and followed Elisa
+    into the hall. "We've got the redhead, and if we go now we might be
+    able to get something out of her before she starts whining about her
+    rights like her partner downstairs."
+        "Let's go, then! You drive; my keys are in my jacket and I
+    don't want to waste any time going back for it."
+        "I'm parked in the alley."
+        They hurried toward the back stairs, weaving through the
+    cross-shift crowd.
+        "Hey," Matt said suddenly, "what about the kid, the Goth,
+    what's-her-name --?"
+        "Birdie, and FYI she's Yale's very own neice." Elisa stopped
+    and looked around. "Damn, probably in hiding. Well, she's a big girl
+    and can take care of herself for an hour or so." She  went briskly
+    onward.
+        Over the general level of hallway chatter and slamming of
+    lockers, they heard, "Maza! Bluestone!"
+        "It's the Captain, come on, step on it, pretend you didn't hear!"
+    Elisa tugged him into the stairwell and let the door clang closed behind
+    them.
+            *       *
+        Birdie elbowed her way through the cops as politely as
+    possible, hid in the broom closet when she caught a glimpse of Aunt
+    Margot's lime-green babushka bobbing her way (what _did_ possess the
+    woman to think that thing was stylish?), and burst into the room where
+    Matt and Elisa weren't.
+        She turned around and saw Matt's unmistakable carrot-top
+    headed down the hall.
+        "Elisa! Matt!" she called, but they didn't so much as pause,
+    probably not hearing her above the din. So she dipped into her innate
+    talent for mimicry, which wasn't as handy as being a sorceress or
+    anything cool like that but it did have its uses.
+        "Maza! Bluestone!" she barked in such a good imitation of
+    their boss that many heads swiveled toward her in surprise. But, darn it
+    all, Matt and Elisa only poured on the speed.
+        Muttering the first several minutes of dialogue from "Four
+    Weddings and a Funeral" under her breath, she pushed less politely
+    through the crowd and finally had to admit that she'd lost them.
+        Thinking maybe they left her a note, she went to find their
+    desks. Matt's half was scrupulously neat with a framed photo of his
+    ladyfriend Edie and a clear pyramid with a hologramatic eyeball
+    floating eerily in it as the only decorations. Elisa's side was by no means
+    a pigsty, but it did show that she had a less-than-letter-perfect approach
+    to paperwork, and a fondness for those cinammonny Hot Tamale
+    candies. Her jacket was hanging over the back of her chair.
+        No note.
+        Birdie turned to the cop at the next desk. "Hey --" she began,
+    and when he raised his ink-dark Latino eyes to hers and smiled with
+    perfect white teeth that seemed even whiter against his dark skin, she
+    instantly wondered if there was a "Men of the 23rd Precinct" calendar.
+        "Hey," she said again, with altogether different inflections.
+        His grin widened. "Looking for Elisa and Matt? They headed
+    to the hospital."
+        Faster on her mental feet than her weight would ever let her be
+    on her physical ones, Birdie nodded. "Yep, I know, Elisa sent me to get
+    her jacket." She picked it up, and just as she'd hoped, keys jangled in
+    the pocket.
+        "See you later," he said, tipping his pen at her.
+        Some remark about flicking his Bic nearly popped out of her
+    mouth, but she reined it in at the last moment and gave him her best
+    Betty Boop smile instead.
+        She slung Elisa's jacket over her shoulder and left the room,
+    allowing herself one last appraisal of the cop whose nameplate read
+    Alvarez. Elisa didn't need a window seat with a view like that just one
+    desk over!
+        Minutes later, she was closing in on the Fairlane again, aware
+    that what she was about to do was downright crazy. Sure, she had the
+    keys, she didn't have to resort to hotwiring, but she was still boosting a
+    cop's car from right in _front_ of the police station. Not the brightest of
+    plans.
+        She donned the jacket, and with it tried to don Elisa Maza.
+    Hard-nosed cop, gutsy, determined, independent, deeply committed to
+    the cause. Birdie had too much hip to get Elisa's walk down pat, but she
+    captured most of the attitude and went right up to the car as if she had
+    every right to be there.
+        She nearly lost it when the first two keys she jabbed at the lock
+    didn't do the trick, but third time was the charm and the door opened
+    obligingly.
+        The engine started up with an eager roar, and Birdie pulled
+    away from the curb.
+            *       *
+        Sunset.
+        The hour of the gargoyle.
+        Owen Burnett, his face drawn with weariness, waited patiently
+    as the clan went through their usual noisy evening calisthenics. He
+    brushed chips and dust from his shoulders with the resigned distaste of
+    an actor in a medicated shampoo commercial.
+        Lexington sprang down in front of him. Though stone sleep
+    was supposed to rejuvenate them, the smallest gargoyle looked as if he
+    had tossed and turned all day.
+        "Well?" He packed an encyclopedia's worth of anxiety into
+    that one word.
+        Owen succinctly outlined the day's progress. Or, rather, the
+    lack thereof. The only good news he had was Elisa's report that Birdie
+    had been unable to find Broadway's boot-loser.
+        "Nothing?!" Lex agonized. "What about Alex's spell?"
+        Owen shook his head. "She is nowhere in Manhattan. All we
+    could get, and this was after much trying, was a vague image of the
+    moon."
+        "The moon?" Angela echoed. "She couldn't be there! That's
+    impossible! Isn't it?"
+        "Even with sorcery," Owen agreed. "It may, however, be a
+    symbol." His throat moved as he swallowed, and the clan realized with
+    some concern that he was nervous. "A symbol of someone, or
+    someones, with a lunar aspect."
+        The rest didn't get it, but Goliath's brow drew together in a
+    deep crease. "The Weird Sisters?"
+        "Possibly," he admitted. "Although abduction by mercenaries
+    is not their usual style. They may have done it to throw us off the
+    scent."
+        "Why would the Weird Sisters want Aiden?" Angela
+    wondered. "I thought they weren't permitted to interfere in human
+    affairs."
+        "Now, lass, we all know how well the Third Race obey their
+    laws," Hudson said.
+        One corner of Owen's mouth twitched slightly, then he was
+    somber again. "There is the matter of Hecate's Wand to consider. It was
+    made by the Sisters' mother, and they might not consider the wand, nor
+    its bearer, as a part of human affairs."
+        "But the wand is in Aiden's room!" Lex protested. "She didn't
+    have it with her!"
+        "I took the liberty of moving the wand. It is sealed in Coyote's
+    containment chamber, which is made from magical iron. The Sisters
+    will not be able to reach it, if that is their desire."
+        "You put Humpty Dumpty together again after Goliath
+    squashed him in Arizona?" Brooklyn asked.
+        "Of course. Mr. Xanatos doesn't like to waste resources."
+        "Where is Xanatos?" Goliath asked.
+        "In the dining room. As is MacBeth. We recently had a call
+    from Detective Maza. She and Matt are at the hospital now, so they
+    may be able to get some information from the woman, Fleance. You're
+    all welcome to join them so that we may plan our next move."
+        Lex hung back. "I'll be along in a while," he said.
+        When the rest of them had gone, Lex crept down the stairs to
+    Alexander's room. He eased the door open.
+        The young boy was sprawled on his bed, the blankets all
+    kicked back to reveal the Star Wars sheets that Lex had picked out. One
+    little arm was draped over his winged teddy-goyle, and in the other
+    hand he clutched tight to a beanbag stegosaurus Aiden had won for him
+    at a street fair last summer.
+        The poor kid looked worn out, the purplish smudges under his
+    eyes not faded even in sleep. Lex hated to wake him, but he had to.
+        "Alex!" he whispered, giving the boy a gentle shake. "Hey,
+    buddy!"
+        Alex mumbled something and burrowed into his pillow.
+        "Come on, Alex," Lex urged. "Help me out here, 'kay?"
+        "Hmph?"
+        "I need to know where Aiden is," Lex said. "Show me what
+    you saw."
+        "Moon."
+        "Yeah. Can you show me?"
+        Alex flopped over onto his back, his eyelids at an unsteady
+    half-mast. He sleep-talked a spell, fanned his fingers, and a hazy
+    glowing image appeared in the air. Lex saw a pale, full moon rising
+    behind a thin row of trees. Nearly as soon as he saw it, the image faded
+    and Alex rolled onto his tummy again.
+        The moon? It looked wrong somehow. Even weirder, it looked
+    familiar somehow.
+        "Thanks," Lex said, ruffling the boy's hair. He tiptoed out,
+    closed the door quietly, turned, and bumped smack into Broadway.
+        "You want to sit around and wait for Elisa to call, or you want
+    to go out now?" Broadway asked.
+        
+            *       *
+        The most helpful thing that Elisa and Matt could get out of
+    Fleance was a suggestion that both Goliath and Edie might have
+    objected to strenuously.
+        No amount of good-cop/bad-cop made a difference, since the
+    redhead was doped to the gills but still with it enough to be stubborn.
+    Elisa was fuming by the time they got back to Matt's car and rang up the
+    castle.
+        "We're back to Square One," she announced via speakerphone.
+        It was right about then that Brooklyn revealed that both Lex
+    and Broadway were missing.
+        And it wasn't long after that they got back to the station and
+    found that Elisa's car was gone, and so was Birdie.
+            *       *
+        "There's Elisa's car!" Broadway pointed, thankful that their
+    friend had such a distinctive set of wheels.
+        The Fairlane was at the edge of a postage-stamp-sized patch of
+    parking lot between a gas station and a dry cleaner's, parked next to a
+    pair of phone booths. A brunette in a red jacket was poring over a map
+    spread on the hood of the car.
+        Lex spiralled down, and Broadway followed, after making sure
+    the lot was more or less unpopulated. It was only as Lex made his
+    touchdown on the roof of the car that Broadway realized the brunette
+    wasn't Elisa.
+        "Find anything?" Lex demanded.
+        She jumped a foot. "Jeez, Lex, you scared the hell out of me!"
+        "Birdie?!"
+        "Birdie?" Broadway landed too. "Where's Elisa? What ... hey,
+    what's with the jacket? Does Elisa know you've got her car?"
+        "Long story. Listen, guys, I'm glad to see you." She quickly
+    filled them in on the blonde and the note. "But I can't find the damn
+    observatory! It's not in the phone book, not on the map --"
+        "The observatory!" Lex smacked himself upside the head.
+    "Not the moon! I knew it looked familiar! It was on 'Beyond 2000,' the
+    one Hudson got mad about --" he coughed guiltily at that point, then
+    went on. "They were doing a show about the future of astronomy, and
+    part of it was about the older observatories. Hayden-Mavis, I'd bet you
+    a million bucks! That's where she is!" He clawed his way to the top of
+    the phone booth. "Let's go!"
+        "What about Demona?" Broadway asked. "Shouldn't we get
+    the rest of the clan in on it?"
+        "You can wait, but not me!"
+        "Lex, wait --"
+        Birdie slung her arms around his neck. "Come on, stud, he'll
+    need backup."
+        "But the phone's right there -- oh, darn it!" Broadway shrugged
+    and went after his rookery brother.
+            *       *
+        The moon was waning, so it rose more than an hour after
+    Dominique's dramatic transformation into Demona.
+        Aiden couldn't help but admire Puck's handiwork, though she
+    didn't dare comment on it because she'd gotten the idea that Demona
+    hadn't quite tipped to the fact that Owen and Puck were the same being.     
+    The caliber of magic at work here made her feel woefully inadequate,
+    silly as it was to be comparing her paltry skills to those of a milennia-
+    old immortal. It only made her all the more tempted by Demona's offer.
+    A little correspondance course in addition to her other studies.
+        What was the harm? Sorcery was itself neither good nor evil. It
+    was all in how it was used. Just because Demona used her power to try
+    and destroy humanity ... but not _all_ humanity that she ever met,
+    present case in point.
+        They'd put together a dinner of canned stew and peaches. It
+    still felt like a campout, and after her initial nervousness, Aiden was
+    surprised to find herself getting along better with Demona than she did
+    with any of the others except Lexington. They did seem to have some
+    things in common, or maybe it was the bond of their magical talent.
+        The previous night's drizzle had departed, leaving a crisp and
+    clear sky sparkling with stars. The bite of December, only a few days
+    away, was already in the air.
+        Aiden shivered a little, but was too excited by the prospect of
+    witnessing the marvel of the Moonstone Unicorn to be bothered by the
+    cold. They were out on the sloping lawn, so overgrown that it was really
+    more like a wild meadow, the bulk of the dome behind them.
+        Demona laid out the statuette, a scroll, and a tiny vial with a
+    quarter-inch of red liquid inside. In the east, the moon was peeking over
+    the horizon, crisscrossed by the beams of the trestle bridge.
+        "Here, hold this," she said, giving the statuette to Aiden.
+        Although it seemed to be made of solid stone and gold, it
+    wasn't as heavy as it should have been. It felt light and somehow alive
+    in her hands.
+        "This," Demona said, holding aloft the vial, "is unicorn blood
+    mixed with powder of unicorn horn."
+        "You mean, they're real? Really real?" Aiden was aware of
+    how childish and naive she sounded, but it was too late to take the
+    question back.
+        Demona only nodded. "Watch." She tipped the vial so that a
+    single drop of blood poured out.
+        Aiden watched, not sure what she was supposed to see. The
+    blood struck the ground, spread, and vanished.
+        "Are you familiar with the lore of sowing dragon's teeth?"
+    Demona asked.
+        "Like in those old Sinbad movies, right? The skeletons?"
+        "The effect is much the same, though the special effects, I
+    think, you'll find considerably better!"
+        The ground before them began to shift and heave. Soil and
+    grass rose up in a mound, taking on a horselike shape. And then, much
+    like a gargoyle shedding its stone skin, earth fell away in clumps and
+    flew away in a gritty spray, and a gleaming white unicorn stood before
+    them.
+        Not a statue. Breath plumed frostily from its nostrils. Huge
+    liquid soulful eyes with long soft lashes. A shining twist of golden horn
+    rose from its brow.
+        "Wow," Aiden breathed.
+        Demona had moved back a little, slightly behind Aiden. "Here,
+    read the scroll. You don't have long before it changes."
+        "Changes?"
+        "No time to debate. Read!"
+        Holding the Moonstone Unicorn in one hand, Aiden skimmed
+    the scroll, doing a quick translation and run-through just to make sure
+    she had the pronunciation right and that it wasn't some sort of evil
+    humanity-destroying apocalypse.
+        "Uh ..." she said, as the unicorn was beginning to curl its lip in
+    a fairly menacing manner and paw at the ground with one dainty gold
+    cloven hoof. "What's this part about a chaste vessel?"
+        "It's not calling for a human sacrifice. It's just that a virgin
+    must cast the spell."
+        Aiden lowered the scroll and stared at Demona. "Oh, boy, talk
+    about rotten timing!"
+        "What are you --" Demona's eyes became deadly little slits.
+    "You didn't! Your school file, your personality profile, my contact at
+    the Academy --"
+        As her eyes narrowed, Aiden's grew wide. "_You_ were
+    behind the kidnapping!" she gasped. "It was all a set-up! I'm such an
+    idiot! Stupid, stupid, stupid!"
+        "When? When, damn, you, when?"
+        "T-two nights ago," she stammered, blushing and at the same
+    time feeling like the world's biggest dope for not having seen through
+    the ruse before. And then her gaze was drawn from Demona to the
+    unicorn, and embarrassment and self-recriminations paled as raw horror
+    took over.
+        A few minutes before it changes, Demona had said. Changes.
+        The golden horn was now a diseased-looking growth that
+    shaded from bone-white to blood-red to death-black at the tip. The lush
+    satiny mane grew spiked and wiry. The flowing tail shriveled into a
+    ratlike whip with a leonine tuft. The dainty hooves became deeply split.
+    The soulful eyes were now urine-yellow. Even as she watched, the head
+    altered so that the jaw was a crocodilian collage of teeth. The body
+    hunched into an almost camel-ish shape, covered with coarse bristly fur.
+        At first, it had appeared as the typical fantasy unicorn. Now it
+    was closer to the type seen on medieval tapestries, the type that could
+    be lured by a maid but more often than not would skewer her with its
+    sharp horn.
+        The spell, which Aiden now realized would have let her hold it
+    to its beautiful form and bind it to her will, was useless.
+        A gargoyle snarled, right in her ear and scary enough to divert
+    her fear from the unicorn.  
+        Friendly Dominique, repentant Demona, those personas were
+    gone now. She was with the real Demona now, and God help her!
+        "I just want to know one thing, before I let it gut you,"
+    Demona said. "Who? Who ruined your virtue, and ruined my plans?"
+        
+            *       *
+        "There it is!" Lexington called.
+        The dome, which Owen had mistaken for the moon, bulked
+    against the sky. The true moon was a frosty semi-globe in the east,
+    shedding white winter light over the overgrown grounds. Easy to spot
+    the figures below.
+        "It's Demona, all right," Broadway said grimly.
+        Birdie, clinging to him like a kid riding piggyback, said
+    nothing but looked a little ill at the prospect of going hammer-and-tongs
+    against the queen bee of evil gargoyles. Sure, she'd done well enough
+    helping defend Ebon against the Quarrymen, but she'd been in the body
+    of a gargoyle herself at the time. Tonight she was only human, without
+    even magic to back her up. Still, she wasn't about to turn back, and
+    Lex's estimation of her edged higher.
+        He forgot all about Birdie, though, as he got a good look at the
+    third figure.
+        "She's summoned a monster to devour Aiden!" he cried, and
+    went into a steep dive.
+            *       *
+        Aiden stared into Demona's hellfire eyes and knew she was
+    going to die.
+        At least I won't die a virgin, she thought, and the absurdity of it
+    made her laugh.
+        Demona's eyes flared even brighter, painting the landscape
+    crimson. She raised one hand with claws outstretched, ready to flay the
+    skin from Aiden's face. "Who, I asked you?!"
+        And then, right on cue, Lex swooped out of the night.
+    "Demona!"
+        "You?!" she shrieked. "You perverted little human-loving
+    imp!"
+        Lex didn't dignify that with a response but tackled Demona
+    around the waist. The impact sent them both tumbling across the grass.
+        Sent the vial of unicorn blood flying from Demona's other
+    hand.
+        "Oh, no!" Aiden reached out with her magic as the uncorked
+    vial spun and sprayed its contents in an arc of ruby droplets. The force
+    of her spell seized the glass before it broke, but too little, too late.
+        Distracted by that, she didn't even notice that the unicorn was
+    lunging at her until she felt the steam of its breath. She threw herself
+    gracelessly backwards. Its loathsome furry side left a rug burn on her
+    arm and knocked her down.
+        The unicorn turned and came around for another pass. Aiden
+    struggled to sit up and saw it charging. She yelped and tried to roll to
+    the side.
+        Broadway and Birdie landed hard, right between Aiden and
+    the oncoming creature. It veered away, making a startled and almost
+    funny bleat.
+        Demona and Lex were rolling in a biting and kicking tangle.
+    She was bigger, but he was agile and swarmed over her. He scrambled
+    into her back, dug his knees into her wing joints, seized a double
+    handful of her scarlet hair, and yanked.
+        She howled in fury and pain as her head came up. She and Lex
+    saw it at the same time, and both gargoyles froze in place like
+    mannequins.
+        "Holy guacamole, Batman," Birdie said in a soft, awed voice.
+        Heard of unicorns? Aiden thought crazily. Sure, I've heard of
+    unicorns.
+        But it wasn't heard, it was herd, a half-dozen of the graceful
+    white animals birthing themselves from the earth. There had only been a
+    few drops left in Demona's vial, but even one might prove to be too
+    many for them to handle, so seven was surely out of the question.
+        They tossed their heads, they reared and pawed the air, they
+    nickered sociably at one another, and then as they caught sight of their
+    changed sibling running wild and free over the grass, they began to
+    transform.
+        The first two to complete the change raced at the nearest
+    targets, which happened to be Demona and Lex. Their own spat
+    temporarily back-burnered, they leapt up.
+        "They can't fight us in the air," Demona said. She bent and
+    laced her fingers, and Lex didn't even hesitate at stepping into her
+    cupped hands and letting her leg-up him skyward. She then ran for a
+    skinny little twig of a tree and got herself some altitude.
+        "Yes, they can!" Lex pointed, and they all saw very clearly that
+    the unicorns were running upward on nothing but thin air, their split
+    hooves striking sparks and trailing smoke.
+        Aiden suffered a brief flashback to the time she'd inadvertantly
+    enspelled Owen, and thought that if Birdie produced a boom box and
+    started playing "Ride of the Valkyries," a herd of monster unicorns
+    would be the least of her best friend's problems.
+        Birdie did not appear about to do anything of the sort. She was
+    currently staring at an approaching unicorn. "Nice beastie," she
+    murmured. "Want a lump of sugar?"
+        It snorted and gouged the earth with its forehooves.
+        "Get inside!" Broadway commanded, spinning her toward the
+    distant door of the observatory and planting himself in front of the
+    unicorn.
+        Aiden gathered her wits and cast a spell. For months, she'd
+    been working on levitation, and had finally gotten to the point where
+    she could lift herself off the ground.
+        Her control wasn't the best, making her think of a video game
+    with arrows for up, down, back, forth, left and right. She couldn't do
+    diagonals, couldn't turn terribly fast, couldn't do anything fancy. But it
+    was sufficient to get her airborne just as a unicorn thundered by beneath
+    her now-dangling feet.
+        The one facing Broadway was weaving side to side, swishing
+    its leonine tail edgily and wrinkling its nose. When he lunged at it and
+    roared, the poor thing skittered backward, hooves shooting in all
+    directions like Bambi on ice.
+        The ones that had followed Lex and Demona into the air were
+    giving them a good chase. The gargoyles banked and soared on
+    updrafts, the unicorns galloped as if the sky was a series of steep
+    switchbacks. Higher and higher went the chase.
+        Aiden cast a witchbolt at one that had come up after her,
+    hoping for the fireworks that she'd gotten when zapping the Hunter. No
+    such luck. Just the same meek little blob as ever, and she missed
+    besides.
+        "Hey, horny!" Birdie yelled. She hadn't made a break for the
+    safety of the observatory, but instead, Aiden saw with dread as she
+    looked down, had removed Elisa's red jacket and was flapping it like a
+    matador's cape. "Toro! Toro!"
+        The unicorn lowered its head and went after her. Birdie
+    jumped aside, making the leather jacket snap like a whip.
+        Three were in hot pursuit of Lex and Demona. Broadway was
+    menacing one. Aiden let herself drop ten feet to avoid another. Birdie
+    was backing steadily toward the edge of the meadow. That left one
+    unaccounted for ...
+        Nope, there it was, coming right at her. She realized she still
+    held the statuette and the scroll, and sort of thrust them out in front of
+    her like a shield, hoping it might give the creature pause.
+        She got its attention, but only seemed to make it mad. She
+    twisted her body and its horn snagged the overlarge sweater and just
+    nicked Aiden's side. The other one that had been after her made another
+    pass and she ducked, getting clipped on the top of the head with a hoof.
+        "Arriba, arriba, andele!" Birdie yipped in a really good Speedy
+    Gonzalez imitation.
+        She waggled the jacket enticingly. The unicorn went for it. At
+    the last instant, Birdie jerked it out of the way and the unicorn went
+    horn-first into a treetrunk. It bucked and kicked and went basically
+    crazy, but was stuck fast.
+        Demona, doubtless pissed that the no-magic human had
+    managed to deal with her opponent before any of the gargoyles,
+    signaled to Lex. He nodded. They swooped toward each other, each
+    with a unicorn all but nipping at their tails.
+        Just when it seemed this game of chicken might end with a
+    horrific crash, they both went straight up, their bodies only intimate
+    inches apart. The unicorns, not so quick on the uptake, rammed
+    headlong into each other.
+        There was a sound that reminded Aiden of the time some of
+    her high-school classmates had dropped a pumpkin off a freeway
+    overpass. The visual, though, was more like tomatoes hurled against a
+    wall.
+        Demona and Lex glanced down to survey their handiwork and
+    slapped each other's hands, grinning maniacally. It was as if they hadn't
+    been trying to throttle each other only minutes before.
+        Aiden's next witchbolt smacked a unicorn on the snoot. It
+    faltered and shook its head briefly. The other one that had been chasing
+    her was distracted by Birdie's loud and insulting antics below and went
+    for her. But, like the ill-fated Khan, Birdie was used to dealing with
+    things two-dimensionally and wasn't expecting an attack from above.
+        The unicorn came down at her. She realized her error and tried
+    to get out of the way. It missed her with its horn but got her with its
+    meaty shoulder. This time, the sound was that of a medicine ball hitting
+    an exercise mat. Birdie uttered a breathy "Oof!" as it flattened her.
+        Broadway, having cowed his foe into a complete quivering
+    surrender, sprang to Birdie's defense. He roared and brought his hand
+    down on the unicorn's rump hard enough to buckle its rear legs. It
+    crashed and rolled, nickered plaintively, and stretched its neck to lick at
+    his foot.
+        A thought like a fishhook tugged in Aiden's brain, but
+    whatever it was, she lost it as she saw what none of the others had yet
+    seen.
+        Demona and Lex, now engaged with the biggest of the herd,
+    hadn't paid much attention after watching the mid-air collision of the
+    other two. They hadn't caught the significance of the grisly rain that had
+    pattered down from the heavens.
+        Flashback time, part deux. This time it was a movie she'd
+    loved as a kid, so much that she'd even named her teddy bear after the
+    cute little fuzzy thing. Gizmo. Gremlins. What she saw below her now
+    was a soil-and-grass version of what had happened when the evil
+    gremlin Stripe had gone swimming.
+        The entire meadow was churning.
+        The vial had held seven drops. The goosh from above was
+    buckets' worth.
+        Horned shapes began rising up. A dozen, a hundred, more.
+        _Now_ the others were aware, for all the good it did.
+        Demona, stunned by what she saw, didn't have a chance to get
+    out of the way as the biggest of the herd, the first one that she herself
+    had summoned, plowed into her from behind. Its horn went clear
+    though her -- even in the weird lighting, Aiden could see the tip burst
+    from her chest like an erupting alien. Her scream split the sky.
+        The unicorn squealed in triumph and galloped across the sky
+    with Demona nailed to its head like a butterfly on a pin.
+        Aiden very nearly got dished up a helping of the same fate, but
+    she heard Lex's warning cry and looked away from the horror below
+    and the gory impalement above. The unicorn she'd zapped with her
+    feeble witchbolt was coming at her for another try.
+        She hurled another bolt, and this time her wish was granted.
+    The silvery lozenge struck square between the eyes, just under the base
+    of its horn. Light bright enough to read the fine print by exploded in
+    front of Aiden, and a heatless force sent her sailing weightlessly back.
+        Her levitation spell almost deserted her as the earth and stars
+    swapped places, but she recovered before she took the fast way down
+    and righted herself. Her hand slipped on the statuette and she juggled it
+    for a secure hold.
+        The unicorn was gone. No blood, no fuss, no muss, no bother,
+    just gone.
+        And below, hundreds more were rising from the earth like a
+    weird remake of Night of the Living Dead.
+        Lex glided to her side, and in his eyes she saw what she knew
+    all too well. They didn't have a chance.
+        Or did they?
+        The fishhook was back, digging into the fabric of her thoughts.
+    She stared at the Moonstone Unicorn, and the scroll, the dratted useless
+    scroll --
+        Aiden smacked herself in the temple. "Stupid!" she scolded
+    herself.
+        She tore Demona's gold scrunchie from her hair, used it to
+    rubberband the scroll to the statuette, and drew her arm back as if she
+    was going out for a long pass. "Broadway!"
+        He looked up. Two unicorns were cowering at his feet like
+    beaten puppies. Aiden threw, using her magic to guide the special
+    delivery because she sure as heck wasn't about to trust to her athletic
+    skill.
+        Broadway caught it, but his wide genial face was one big
+    question mark.
+        "The scroll!" Aiden cried above the din of the new unicorns
+    shaking their hides free of dirt. "Read the scroll!"
+        "Gotcha!" He flashed her a thumbs-up and began unrolling it.
+        "What's that?" Lex panted.
+        "Our only chance, unless Birdie lied to me!" She reached out
+    and clutched Lex's hand. "I just hope he's not being graded on
+    pronunciation!"
+        Slowly, ponderously, Broadway read the Latin words. As he
+    did, the herd fell silent and turned their deep soulful gazes upon him.
+    When he got to the part about the statue, he paused to say, "oh, yeah,
+    this!" and held it out.
+        And when he finished, the entire herd dipped their golden
+    horns in equine bows, then began to rear and prance and whinney
+    excitedly. Aiden had the crazy urge to start singing "The Circle of
+    Life."
+        Broadway stood there, amazed, as he was surrounded by
+    unicorns, all of them butting eagerly at him, trying to lick his hands and
+    face, brushing their sleek white hides against him.
+        "He did it!" Aiden sighed in relief. "It's safe!"
+        Cautiously nonetheless, she and Lex descended. The unicorns
+    sniffed at them and snorted expressively, but didn't make any hostile
+    moves. They were far too intent on Broadway.
+        The bestial ones, two unencumbered and one still firmly
+    wedged in the treetrunk, changed back to their prior beauty. Of the one
+    that had carried Demona off, there was no sign. Aiden guessed it had
+    been beyond reach of the spell, beyond hearing.
+        She pushed her way through the jostling herd and found
+    Birdie. Elisa's jacket was crumpled next to her.
+        "Birdie?" Aiden gently shook her.
+        She groaned, and said without opening her eyes, "Next time
+    you invite me to spend the weekend, Fergs, I think I'd be better off just
+    shooting myself in the head."
+            *       *
+        "I kinda wish they didn't all have to go," Broadway said sadly.
+        "Xanatos complains enough about Bronx," Lex pointed out.
+    "How do you think he'd react to having a unicorn around the castle?"
+        "Besides," Birdie said, "you're going to have to put up with
+    enough smartmouth from Brooklyn as it is, without having a unicorn
+    around to remind everyone how you saved our necks."
+        Broadway mumbled and blushed a little. "Yeah, I guess you're
+    right."
+        "How'd you figure it out?" Lex asked Aiden.
+        "I saw that they weren't attacking him. They went after the rest
+    of us readily enough, but it was like they _couldn't_ hurt Broadway.
+    That, combined with what I knew of the spell and what Birdie said the
+    other day ... well, I put one and one and one together and got three!"
+        "Good thing, too," Birdie said. She punched Broadway
+    playfully on the shoulder. "See, there was a method to my madness after
+    all! And you thought I was just playing hard to get!"
+        "It's better they go back where they came from," Broadway
+    said, looking remarkably like Goliath did whenever he wished people
+    would shut up about his personal life. "New York hasn't gotten used to
+    gargoyles. Can't imagine what they'd do when people realized there
+    were herds of unicorns on the loose."
+        "There's still the other one," Aiden said.
+        "It can't kill Demona," Lex reminded her. "Eventually, she's
+    going to get unstuck and there'll be one less unicorn in the world."
+        "Yeah, and then she'll be back!" Birdie hugged Elisa's jacket
+    around her shoulders. "So maybe we should get our bad selves gone?"
+        "What about this?" Broadway held out the Moonstone
+    Unicorn.
+        Aiden sighed. "This is where someone's supposed to make a
+    speech about destroying it so it can't do any more harm or fall into the
+    wrong hands, and then we bash it on a rock. Same goes for the box of
+    tricks she's got in the observatory. But someone else is going to have to
+    do it, because I just can't."
+        "Goliath didn't destroy the Eye of Odin, the Phoenix Gate, or
+    the Grimorum right away," Lex said. "And they _did_ fall into the
+    wrong hands. He said the Eye and the Grimorum got wrecked, and that
+    he got rid of the Gate forever."
+        "But some stuff is _good_," Broadway argued. "What about
+    that Aztec sun-amulet, or whatever it is, that keeps the clan in
+    Guatamala safe?"
+        "It's all in how you use it," Birdie said. "Me, I'd say we'd be
+    nuts to break perfectly good magic widgies. We shouldn't leave it here
+    for the demon bitch from hell, yeah, agreed, but doesn't Fergs here
+    deserve a little something for her time?"
+        "Haven't I caused enough trouble already?" Aiden shook her
+    head ruefully. "Hecate's Wand, remember? And I don't think Owen or
+    Mr. Xanatos are going to be pleased with me after all of this. I certainly
+    don't deserve a reward!"
+        "No, Birdie's right," Broadway declared. "We should take
+    them back with us. We can't let Demona get them, yeah, but we
+    shouldn't go around destroying things that are so old, or powerful."
+        "Okay," Aiden said heavily. "But I'm giving everything over to
+    Owen, okay?"
+        "Fine by me." Birdie chuckled. "Not that it's going to matter
+    after Elisa catches up with me! I'd almost rather face Demona!"
+            *       *
+        At first, there hadn't even been any pain, just a deep iciness.
+    And then she sucked in breath to scream, and the ice turned to volcanic
+    flame.
+        On they went, her wings fluttering uselessly as the galloping
+    hooves carried them across the sky. She squirmed, sending agonizing
+    explosions through her tortured body, but could not wiggle free of the
+    horn that jutted from her chest.
+        She coiled her muscular tail around the unicorn's neck and
+    began to squeeze.
+        When it realized what was happening, it began to thrash and
+    try and fling her clear. She held onto the tip of the horn and held on
+    tight, grinding her fangs against the pain as she was flung side to side
+    on the spiraled column.
+        Tighter and tighter she squeezed.
+        The galloping faltered. The unicorn dipped its head and now
+    Demona was fighting gravity as well. She let herself slip free and felt a
+    warm torrent of blood gush down her back and belly.
+        She swung under the unicorn, hanging by the tail still wrapped
+    around its neck. This brought her claws into gutting range, but she
+    stopped herself just before she slashed. She needed another blood-
+    shower like she needed, well, a hole in the chest!
+        Spreading her wings, she pulled a trick riding maneuver that
+    no circus acrobat could hope to equal and wound up sitting on the
+    beast's back with her tail still in its death-grip. Now she could add her
+    strong hands to the constricting tail.
+        When she'd snapped the neck of Thailog's human lover, it had
+    been a thin and brittle sound. The unicorn's broke with a krak! that
+    Demona felt all the way up to her shoulders.
+        It convulsed and went limp, and together they plunged toward
+    the glinting snake of the river.
+            *       *
+        The night was still young when two gargoyles and two humans
+    arrived on the topmost tower of Castle Wyvern with their chest of loot.
+        A good thing, too, because they'd need all of those hours
+    before dawn to explain, apologize, and take their verbal lumps. Penance
+    and punishment would doubtless not be over with by the time the sun
+    rose, or indeed by the New Year.
+        Broadway and Birdie volunteered to go down first and face the
+    music, leaving Aiden and Lex alone on the roof.
+        They nervously did a little bit of avoiding each other's eyes.
+    Then they both spoke at once.
+        "Aiden, I --"
+        "Lex, I --"
+        " -- am so sorry," they said together.
+        A brief laugh eased the tension. Lex got the next words in first.
+        "When I heard you were gone, I was afraid you ran away
+    because of what happened the other night," he confessed.
+        "Oh, gosh, no!" Aiden gasped.
+        "Because I'd hurt you, because I was selfish and a pig and a
+    rotten ... lover."
+        "No, Lex ..."
+        "So, if you don't want to ... be my girlfriend any more, I'll
+    understand."
+        "Lexington! That is so not what I want!" She started to cry.
+    "Don't you dare break up with me, not after the day I've had, or I'll just
+    fall down and die right here! I want to be a lot of things. A good
+    student, a decent sorceress, yeah, that's great, but most of all I want to
+    be your girlfriend."
+        "I thought I lost you," he said, dangerously near tears himself.
+    "That I'd never see you again, and our last memories would be bad
+    ones." He opened his arms to her and she went, resting her head on his
+    shoulder. He tipped his cheek against her hair. His wings lay over her
+    arms like a soft cloak.
+        "Demona told me a lot of lies and half-truths, but she was right
+    about one thing," Aiden said against his neck. "She told me I see only
+    the good in people. She said it like that was a bad thing, like trust and
+    naivete are crimes. But she was right. I was ready to see good in her,
+    even. So how could I ever see bad in someone like you, Lex?"
+        "There's a little bad in everyone, I guess."
+        "Even me," Aiden admitted. "I really wanted to believe her,
+    Lex. I really wanted what she offered. The power ... it seemed so much
+    more important than the lives of those men that died trying to attack us.
+    I forgot all about them for a while. I was really tempted."
+        "But when it came right down to it, you didn't give in," he said,
+    kissing her ear.
+        "This time. What happens next time?"
+        "We'll look out for each other," he said. "That's the best we
+    can do."
+        She held him in silence for a while. "Lex?"
+        "Yeah?"
+        "I ... when we're done being grounded, that is, I want to ... try
+    again," she whispered.
+        He knew right away what she meant. "Aiden, we don't have
+    to."
+        "I know we don't have to. But I want to try. Okay?"
+        "Okay? You're asking me okay?" He laughed a little. "Sure,
+    yeah, okay! No problem! And I promise, we'll go as slow as you want."
+    Then his face fell. "When we're done being grounded? Oh, no, there
+    goes another thousand years of my life!"
+            *       *
+        Two nights later, Broadway returned to the movie theater.
+        The half-destroyed building next door, where the cops had
+    discovered a modest arsenal in addition to another hovercraft, was
+    slated for demolition next week.
+        Everything else on the street was back to normal. The
+    wreckage was cleared away, the newsstand was repaired, and most of
+    the shops were now sparkling with holiday decorations. The first snow
+    of the year was just beginning to powder Manhattan.
+        His mood should have been light, festive. He wasn't even in
+    trouble with Goliath. None of them were, except for a stern scolding
+    about not calling for backup. Well, Birdie had gotten it up one side and
+    down the other from Matt and Elisa, but they still had to applaud her
+    gutsiness.
+        Aiden, except for a few scrapes and bruises and a new depth to
+    her eyes that signaled the end of a variety of innocences, seemed to be
+    coping well with her ordeal. And Lex had calmed down and issued
+    heartfelt apologies to all concerned, most especially MacBeth.
+        Broadway himself wasn't doing so well. It wasn't that Brooklyn
+    teased him about being the world's oldest virgin (though he did). It
+    wasn't the absence of the unicorns, though in a weird way he did miss
+    them. He'd even been praised for saving the others, even though Aiden
+    was the one who should be praised because she'd been the one to think
+    of it.
+        It was the boot.
+        He landed on the narrow ledge where he'd left the woman,
+    meaning to leave it and the bouquet of lilies there, but the rising brisk
+    wind and flurries of snow made him change his mind.
+        He jumped down to the theater marquee and snuck through the
+    door into the dark hallway. He could once again hear the flirty pseudo-
+    1940's dialogue of Tracer Bullet and his dishy secretary, Kandy Kane.
+    It brought a ghost of a smile to his lips.
+        She had enjoyed the movie. He decided to leave the boot in the
+    old projection room. That way, he could bring fresh flowers every so
+    often. Kind of a ... what do they call it? ... a shrine.
+        He was halfway across the room before he realized he wasn't
+    alone.
+        "It's you!" he gasped, seeing the woman sitting all bundled up
+    in a quilt, a bag of caramel popcorn open on her lap. "You're all right!"
+        She smiled that oh-so-nice smile at him again. "You said you'd
+    be back. I knew you'd not disappoint me. Forgive me, that I waited not
+    upon the ledge, for it did seem a perch most unsafe."
+        "But -- how -- " he blundered around, then shoved the bouquet
+    of lilies in her direction. "These are for you."
+        She set aside her popcorn and gathered the flowers to her,
+    inhaling deeply. "Thank you! They are lovely!"
+        In the flickering half-light coming through the square by the
+    projector, she looked odd. Not bad-odd, but different-odd. She was
+    minus the fedora and trenchcoat, both of which were hanging on a
+    nearby peg. There was something about the way the shadows lay upon
+    her face that made Broadway pause. It wasn't just that she was pretty,
+    but there was something eerily familiar ...
+        He held up the boot. "I found your shoe." Then, grinning at
+    Brooklyn's jest about Cinderella, he went to one knee in front of her and
+    held out his hand expectantly.
+        She gave him a long, thoughtful look and let the quilt fall
+    away, extending one of a pair of slender but shapely gams (as Tracer
+    Bullet would have said).
+        At the end of that eye-pleasing length was a taloned gargoyle
+    foot.
+        He dropped the boot.
+        "What -- who are you?!" he stammered.
+        "I thought you knew," she said. "I am Elektra."
+            *       *
+    The End.
+
+------------------------------------------------------------------------
+
+Click [here](ffiction.htm) to return to the Gargoyles Page.
+
+------------------------------------------------------------------------
+
+Lead Me Not . .   / Page Copyright 1996 - Tim & Christine Morgan / <vecna@eskimo.com>

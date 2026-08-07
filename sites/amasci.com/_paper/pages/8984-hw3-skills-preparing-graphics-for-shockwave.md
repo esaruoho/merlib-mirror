@@ -1,0 +1,46 @@
+---
+title: "HW3 skills - Preparing graphics for Shockwave"
+source_domain: amasci.com
+source_path: ~turnip/lwtc/skills/hw3/hw3-preppinggraphics.htm
+order: 8984
+reachable_from_entry: false
+images: 5
+internal_links: 0
+extracted: 2026-08-07T06:01:29Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# HW3 skills - Preparing graphics for Shockwave
+
+*Source page: `~turnip/lwtc/skills/hw3/hw3-preppinggraphics.htm`*
+
+### Homework \#3 - Preparing your graphics for Shockwave
+
+Okay, you've got your workspace & Director file ready to go. Now it's time to prep your images for importing. (NOTE: I'm assuming that you are using Adobe Photoshop to prepare your images).
+
+**Question**: What file format works best? **Answer**: Depends on what the image is & how it will be used. As far as the portfolio is concerned, we've broken down our image needs into two rough categories: (1) The 3 large high-quality images you want to show off, and (2) everything else (including your button artwork and other UI elements). If you were preparing all of this art for a web page, you'd probably make JPEGs out of the 3 primary images, and GIFs out of everything else. For the purposes of Shockwave, once we get these images into Director, we will treat them the same way (except that we'll let Director handle the actual compression).
+
+#### The 3 main images:
+
+- In Photoshop, make a duplicate of your image & <span class="MenuSteps">Save As ... </span>to a new file, special for import into Director (to protect your original image from the steps you're about to take). I recommend you save as a Photoshop (PSD) file, although almost any non-compressed image-file format will work: bitmap (BMP), PICT, TIFF are all fine. (JPEG will also work, but I don't recommend it; let Director do the JPEG compression after the file has been imported.)
+- Do whatever it is you need to get it ready; crop, color-correct, touch up, etc. Flatten if necessary.
+- Resize your image as necessary so that it will fit onto your stage *without stretching after you place it onstage*; for example, my stage is set to 512x342, so I resized my sample image to be around 300 pixels high. Be sure the dpi is 72. Save.
+- Import the file into Director; the default settings should be fine (just be sure the Color Depth setting is "Image (32 bits)" to match your file).\
+  <img src="hw3-preppinggraphics1.gif" data-vspace="5" width="353" height="140" />
+- Make sure your new cast member is selected, then open the Property Inspector & click the "Bitmap" tab. Make sure that the compression setting is "Movie Setting" (unless you want to specify compression for this image that's different than the movie's default).\
+  <img src="hw3-preppinggraphics2.gif" data-vspace="5" width="172" height="333" />
+
+#### Button art (& other UI images):
+
+- I used Photoshop to create my buttons, which I will index. To insure proper aliasing of the button against the stage, make the background color of the image the same as the stage color of the Director movie.
+- When you're ready to save out a piece of button art, save it as a GIF file indexed to the Web-safe color table (in Photoshop 6, choose <span class="MenuSteps">File:Save for Web ... </span>Options should be GIF, Web palette). Don't bother with any transparency; Director will ignore it.
+- Import your button art into your Director file. **IMPORTANT**: When trying to import a GIF file, you will see a dialog box asking if you want to import the image as "Animated GIF" or "Bitmap Image." Be sure to choose "Bitmap Image," *not* "Animated GIF."\
+  <img src="hw3-preppinggraphics3.gif" data-vspace="5" width="315" height="200" />\
+- After you OK the above dialog, you'll see the standard file-import dialog. Color Depth should be "Image (8 bits)" and (important!) the palette should *remap* to the Web 216 (by default it will either want to remap to the System palette, or to import the image's palette into the cast. *Never* allow Director to import a new palette!!!)\
+  <img src="hw3-preppinggraphics4.gif" data-vspace="5" width="400" height="214" />
+- Open the new member in Director's paint window & inspect it; if you need to remove the background color, use the paint bucket tool to paint white into the background color (if you get a warning, something about losing data for editing, just click Continue and try again).
+- Check the cast member's properties. Notice that the compression setting is grayed out; indexed images cannot get JPEG compression, so standard is the only option.\
+  <img src="hw3-preppinggraphics5.gif" data-vspace="5" width="172" height="333" />\
+  \
+
+[Back](javascript:history.back())

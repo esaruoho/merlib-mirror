@@ -1,0 +1,50 @@
+Process Variation 
+
+ Process Variation 
+
+ Continuous improvement is built on the goal of first developing a process that is
+reliable. A reliable process is one that produces the desired output each
+time
+without variation. Once this goal has been met, the next goal is to redesign the
+process to produce output that is even better able to meet customer requirements. 
+
+ To meet the second goal, management should recognize that variations in
+production or quality within manufacturing or service processes can be viewed as
+"special cause" variations, which are best removed by team members operating
+the process and "common cause" variations, which require management action to
+change some inherent feature of the process.
+ Process can be managed not unlike projects are managed. Components of
+process management include strategy and objectives, roles and
+responsibilities, skill sets and core compentencies, reward systems,
+information system flow, and supporting technologies. Process management
+builds a set of structured methods, tools, and techniques on top of a
+continuous improvement methodology. 
+
+Contrast Process management with re-engineering. Re-engineering is
+necesary when the desired output is not obtained each time without
+variations. 
+
+For more information see wwwiinformationweek.com/801.process.htm 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+[ Home ]
+[ Decision Tree ] 
+[ Deep Knowledge ]
+[ Acknowledgements ]
+[ Map ] 
+
+ http://www.eskimo.com/~mighetto/lsproc.htm - last update September 
+1,
+2000. 
+
+ This topic is included in Decision Maker's smart database. Select the icon to
+display an imagemap.

@@ -1,0 +1,551 @@
+---
+title: "The Aquaman Survey Page"
+source_domain: amasci.com
+source_path: ~tegan/aqua/poll.html
+order: 8516
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T06:00:57Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Aquaman Survey Page
+
+*Source page: `~tegan/aqua/poll.html`*
+
+<img src="pics/ac_a_bg.gif" data-align="left" data-border="0" width="80" height="70" alt="Aquaman" />
+
+<img src="pics/ac_a_bg.gif" data-align="right" data-border="0" width="80" height="70" alt="Aquaman" />
+
+# The Aquaman Survey Page
+
+## What do the Fans think?
+
+------------------------------------------------------------------------
+
+## Will you be buying the Obsidian Age event in JLA?
+
+### 198 Total Responses
+
+- Yes, just because it's about Atlantis. - 57 votes - 29%
+- Yes, I already buy JLA. - 94 votes - 47%
+- Probably. - 9 votes - 5%
+- Probably not. - 3 votes - 1%
+- No. - 35 votes - 18%
+
+*I wonder what people think now, now that we know it leads into a new Aquaman series?*
+
+------------------------------------------------------------------------
+
+## So, what did you think of Aquaman in the Justice League animated series?
+
+### 466 Total Responses
+
+- It was fantastic! - 173 votes - 37%
+- It was pretty good! I liked him. - 138 votes - 30%
+- I didn't see it. - 42 votes - 9%
+- Eh, he was ok. Nothing special. - 37 votes - 8%
+- I couldn't stand it. He was horrible. - 36 votes - 8%
+- I only saw one of the two parts. - 20 votes - 4%
+- There's a Justice League animated series? - 20 votes - 4%
+
+*Mostly Positive...*
+
+------------------------------------------------------------------------
+
+## Where do you think Tempest sent Poseidonis in the Our Worlds At War crossover?
+
+### 232 Total Responses
+
+- Somewhere not on this list. - 73 votes - 31%
+- Mera's home dimension. - 45 votes - 19%
+- The Marvel Universe (won't Namor be surprised?) - 28 votes - 12%
+- Back in time to before the original city sank. - 25 votes - 11%
+- Neptune. Duh. - 24 votes - 10%
+- Lost in Hypertime (what a great name for a mini-series!) - 19 votes - 8%
+- To the mighty Pacific Ocean. - 9 votes - 4%
+- Skartaris (more company for Warlord) - 9 votes - 4%
+
+*Hopefully we'll find out fairly soon.*
+
+------------------------------------------------------------------------
+
+## Which of the following books would you *MOST* want to see Aquaman guest star in?
+
+### 685 Total Responses
+
+- Batman - 123 votes - 18%
+- Green Lantern - 117 votes - 17%
+- Green Arrow - 92 votes - 13%
+- Superman - 90 votes - 13%
+- The Flash - 72 votes - 11%
+- Birds of Prey - 62 votes - 9%
+- Supergirl - 57 votes - 8%
+- The Spectre - 52 votes - 8%
+- Harley Quinn - 20 votes - 3%
+
+*Green Arrow already happened... Batman or Green Lantern, I guess.*
+
+------------------------------------------------------------------------
+
+## Which former Aquaman artist would you most like to see return to Aquaman for a mini-series?
+
+### 307 Total Responses
+
+- Jim Calafiore - 104 votes - 34%
+- Marty Egeland - 91 votes - 30%
+- Jim Aparo - 61 votes - 20%
+- Nick Cardy - 31 votes - 10%
+- Ramona Fradon - 20 votes - 6%
+
+*I left that up too long... any of them would be great.*
+
+------------------------------------------------------------------------
+
+## If an Aqua-Character is going to die, who would you prefer it to be?
+
+### 112 Total Responses
+
+- Dolphin, Tempest's "wife" and former lover of Aquaman - 35 votes - 31%
+- Roduun, the Captain of the Guard - 22 votes - 20%
+- Vulko, Chief Scientist and Aquaman's Advisor - 22 votes - 20%
+- Someone else entirely - 22 votes - 20%
+- Nuada Silverhand, Leader of Thierna Na Oge - 11 votes - 9%
+
+*I didn't even put in the character that "dies" in the story, oops.*
+
+------------------------------------------------------------------------
+
+## Which of Aquaman's powers would you *most* like to have?
+
+### 138 Total Responses
+
+- Ability to breath underwater. - 68 votes - 49%
+- Ability to communicate with/command sea life. - 32 votes - 23%
+- Speed and Agility. - 23 votes - 17%
+- The political power of being King. - 11 votes - 8%
+- The hook and its various attachments. - 4 votes - 3%
+
+*Go back to basics, Aquaman's first power is his most appealing.*
+
+------------------------------------------------------------------------
+
+## Is the Current Aquaman worth saving?
+
+### 502 Total Responses
+
+- Yes - 365 votes - 73%
+- No - 66 votes - 13%
+- Maybe - 36 votes - 7%
+- Probably Not - 21 votes - 4%
+- I Can't Decide - 14 votes - 3%
+
+*Three months got a decent number of responses.*
+
+------------------------------------------------------------------------
+
+## What do you think of the Alex Ross Aquaman poster?
+
+### 80 Total Responses
+
+- I can't wait to get it and hang it on my wall! - 42 votes - 52%
+- I don't like it, so I won't get it. - 15 votes - 19%
+- I'll probably get it. - 12 votes - 15%
+- I'm thinking about getting it, but then again, I might not. - 7 votes - 9%
+- I don't think I need a poster like that one. - 4 votes - 5%
+
+*I think people are bored with my polls.*
+
+------------------------------------------------------------------------
+
+## If Aquaman went bimonthly, would you buy it?
+
+### 102 Total Responses
+
+- Yes, but only if it were the only way to save the book. - 45 votes - 44%
+- No, I can't wait two months for my fix. - 35 votes - 34%
+- Yes, and I'd like the change. - 13 votes - 13%
+- Maybe, if the stories were standalone. - 7 votes - 7%
+- Maybe, but I'd be more likely to drop it. - 2 votes - 2%
+
+*Interesting. Not a lot of response, in any case.*
+
+------------------------------------------------------------------------
+
+## What do you think of the Jurgens, Epting, and Kaluta run so far?
+
+### 147 Total Responses
+
+- It's Pretty good, better than average. - 66 votes - 45%
+- WOW!!!!!!!! - 63 votes - 43%
+- Eh, it's ok. Nothing Special - 11 votes - 7%
+- Bleah. It's as bad as they come. - 4 votes - 3%
+- I wish it were better, it's a little sub-par. - 3 votes - 2%
+
+*That's a positive result, I'd say.*
+
+------------------------------------------------------------------------
+
+## Which of the following do you *MOST* want to see in 2000?
+
+### 188 Total Responses
+
+- An Aquaman Archive. - 82 votes - 44%
+- Twelve (or more) issues of really good stories. - 66 votes - 35%
+- Another Secret Files. - 15 votes - 8%
+- An Aquaman Elseworlds Story. - 13 votes - 7%
+- A Crossover featuring Atlantis. - 12 votes - 6%
+
+*I wanna see 'em all. Except maybe the crossover.*
+
+------------------------------------------------------------------------
+
+## Which of the following Aquaman stories would you most like to see reprinted?
+
+### 127 Total Responses
+
+- More Fun \#73 (1941) - The first Aquaman story ever - 53 votes - 42%
+- Aquaman \#2 (1994) - Aquaman loses his hand - 45 votes - 35%
+- Aquaman \#1 (1962) - The first book titled "Aquaman" - 14 votes - 11%
+- Showcase \#30 - Aquaman's first ever cover appearance - 9 votes - 7%
+- Aquaman \#13 (1992) - Shaun McLaughlin's last issue - 6 votes - 5%
+
+*Hmmm. Any one of them would be good.*
+
+------------------------------------------------------------------------
+
+## How much Aquaman do you buy?
+
+### 78 Total Responses
+
+- I buy his comics and action figures, but that's about it. - 22 votes - 28%
+- I'm the ultimate collector, I buy everything with Aquaman in or on it. - 21 votes - 27%
+- I sometimes buy his comics, and read him in other books. - 17 votes - 22%
+- I buy his comics and not much more. - 13 votes - 17%
+- I like a member of his supporting cast, and buy stuff related to that character. - 5 votes - 6%
+
+*I should have included "none of the above" on this question*
+
+------------------------------------------------------------------------
+
+## If you were the editor of Aquaman, which of the following would you most likely do?
+
+### 107 Total Responses
+
+- Try to offer the book back to Peter David. - 37 votes - 35%
+- Make Aquaman grim and gritty. - 24 votes - 22%
+- Give Aquaman a larger cast/ask the writer to include more of his current cast. - 22 votes - 21%
+- Try to make the book more like the old Filmation series - 17 votes - 16%
+- Lighten up the series, make it more humorous. - 7 votes - 6%
+
+*I should have included "none of the above" on this question*
+
+------------------------------------------------------------------------
+
+## In a pathetic attempt to gauge the demographics of this page, are you:
+
+### 165 Total Responses
+
+- A male between 16 and 30 years old. - 92 votes - 56%
+- A male too old to be trusted (over 30). - 40 votes - 24%
+- A female between 16 and 30 years old. - 13 votes - 8%
+- A male under 16 years old. - 8 votes - 5%
+- A female too old to be trusted (over 30). - 5 votes - 3%
+- None of your business, Aqua-chick! - 3 votes - 2%
+- A female under 16 years old. - 2 votes - 1%
+- None of the above (don't ask). - 2 votes - 1%
+
+*I meant "None of the above" to be silly.*
+
+------------------------------------------------------------------------
+
+Day of Judgment, DC's Summer Crossover, is due out in September.\
+Will you buy it?
+-----------------------------------------------------------------
+
+### 97 Total Responses
+
+- Yes, but only the mini and my regular books. - 34 votes - 35%
+- No, but I'll buy my regular books. - 26 votes - 27%
+- Haven't decided yet. - 18 votes - 19%
+- Yes, the mini and all the tie-ins! - 13 votes - 13%
+- No. I don't like crossovers. - 6 votes - 6%
+
+*Hrm. I don't like crossovers.*
+
+------------------------------------------------------------------------
+
+## Which of the following mini-series would you *most* like to see?
+
+### 111 Total Responses
+
+- Aquaman Year One - 40 votes - 36%
+- Another Tempest Mini - 26 votes - 23%
+- The Black Manta Story - 23 votes - 21%
+- Dolphin, Deep Blue, and Mera: Girls' Night Out - 15 votes - 14%
+- An Environmentalist's Look at the DCU's Oceans - 7 votes - 6%
+
+*Aquaman Year One for me...*
+
+------------------------------------------------------------------------
+
+## Are you looking forward to JLApe: Gorilla Warfare?
+
+### 90 Total Responses
+
+- Sure, it ought to be fun. - 23 votes - 25%
+- Yeah, but I'm only buying annuals of the books I normally buy. - 23 votes - 25%
+- Bleah, why'd they come up with something this silly? - 23 votes - 25%
+- I don't really care. - 14 votes - 16%
+- No, but I'll buy the Aquaman annual anyway. - 7 votes - 8%
+
+*Hrm... I've got mixed feelings about it, myself.*
+
+------------------------------------------------------------------------
+
+## Aquaman appeared on Superman: The Animated Series and...
+
+### 130 Total Responses
+
+- I saw it and loved it and wanna see more Aquaman on the show! - 60 votes - 46%
+- I saw it, and it was ok. - 29 votes - 23%
+- I missed it! I can't believe I missed it! - 29 votes - 23%
+- I missed it. Oh well. - 7 votes - 5%
+- It hasn't been shown in my area yet. Blah. - 3 votes - 2%
+- I saw it, and it was *really* bad. - 2 votes - 1%
+
+*It was good, just not as good as I'd hoped.*
+
+------------------------------------------------------------------------
+
+## DC should put out an Aquaman Archive consisting of:
+
+### 144 Total Responses
+
+- Golden Age Aquaman stories - 54 votes - 38%
+- Silver Age, starting with issue \#1 of his first series - 35 votes - 24%
+- His Super Friends/Filmation TV appearances - 21 votes - 14%
+- Late Silver Age, starting with the Skeates/Aparo issues - 18 votes - 13%
+- Early Silver Age stories, from Adventure Comics - 16 votes - 11%
+
+*Golden Age for me. I've got most of the Silver Age.*
+
+------------------------------------------------------------------------
+
+## Regarding the new Aquaman Action Figure displayed at Toy Fair 1999:
+
+### 113 Total Responses
+
+- I love it and I'm getting two! - 39 votes - 35%
+- I like it, it looks good! - 24 votes - 21%
+- I like it, it's the *real* Aquaman. - 20 votes - 18%
+- I don't like it because it's the old Aquaman. - 14 votes - 12%
+- I don't like it because it doesn't look good. - 11 votes - 10%
+- I'm indifferent, I don't collect toys. - 5 votes - 4%
+
+*For the record... I'm getting at least two, if not more.*
+
+------------------------------------------------------------------------
+
+## Regarding Eric Battle's art on Aquaman, do you:
+
+### 220 Total Responses
+
+- Hate it and think it's dragging down the book - 107 votes - 49%
+- Dislike it, I think Battle has lots of room for improvement - 39 votes - 18%
+- Like it, it's better than average - 29 votes - 13%
+- No opinion, it does the job but doesn't grab me - 28 votes - 12%
+- Love it dearly and put it under my pillow cuz it's so good - 17 votes - 8%
+
+*Amazing... someone actually likes Battle's art on Aquaman.*
+
+------------------------------------------------------------------------
+
+## Aquaman's role in the JLA should be...
+
+### 189 Total Responses
+
+- Medium, he's just part of a team. - 62 votes - 33%
+- Major, but not always on the front-lines. - 59 votes - 31%
+- Massive! He's a founder, after all! - 40 votes - 21%
+- Nonexistent, I want him off the team! - 16 votes - 8%
+- Light, have him show up every few issues - 12 votes - 6%
+
+*I suppose it also depends on who's writing the JLA...*
+
+------------------------------------------------------------------------
+
+## Aquaman should be wearing...
+
+### 239 Total Responses
+
+- The Traditional Orange and Green - 127 votes - 53%
+- The PAD Arm-Harness Thingy - 57 votes - 24%
+- A new uniform, but always the same - 32 votes - 13%
+- Something new every issue or so - 23 votes - 10%
+
+*I like the orange and green, but I voted for something new every issue or so...*
+
+------------------------------------------------------------------------
+
+## If Aquaman got his own TV show, should it be...
+
+### 209 Total Responses
+
+- Animated - 135 votes - 65%
+- Live-Action - 32 votes - 15%
+- Computer Generated - 28 votes - 13%
+- A Talk Show - 14 votes - 7%
+
+*I personally think a computer generated Aquaman could be really neat...*
+
+------------------------------------------------------------------------
+
+## Which Aqua-character deserves his/her own ongoing or mini?
+
+### 218 Total Responses
+
+- Tempest - 83 votes - 38%
+- Dolphin - 40 votes - 18%
+- Black Manta - 38 votes - 17%
+- Mera - 21 votes - 10%
+- AJ - 19 votes - 9%
+- Orm (Ocean Master) - 8 votes - 4%
+- Koryak - 5 votes - 2%
+- Vulko - 4 votes - 2%
+
+*Comes down to popularity, don't it?*
+
+------------------------------------------------------------------------
+
+## What do you think of the DC One Million Summer Crossover?
+
+### 153 Total Responses
+
+- Hey, sounds great! - 61 votes - 40%
+- I might like it, but I'm so tired of crossovers I don't want to read it. - 48 votes - 31%
+- What an incredibly stupid idea. - 39 votes - 26%
+- I don't like the idea, but I always buy crossovers. - 5 votes - 3%
+
+*IMPORTANT: This question was asked BEFORE the crossover came out.*
+
+------------------------------------------------------------------------
+
+## Who is Aquaman's most bitter and successful enemy?
+
+### 221 Total Responses
+
+- Black Manta, the killer of his son - 127 votes - 57%
+- Kevin Dooley - 38 votes - 17%
+- Ocean Master, his half-brother - 35 votes - 16%
+- Charybdis, the guy who ruined his hand - 12 votes - 5%
+- Demon Gate, the killer of Porm - 5 votes - 2%
+- Black Jack, pirate captain of the Golden Age - 4 votes - 2%
+
+*Manta is widely considered Aquaman's "best" enemy. These results were no surprise.*
+
+------------------------------------------------------------------------
+
+## Should Black Manta return to fight Aquaman?
+
+### 249 Total Responses
+
+- YES! In his new post-Underworld Unleashed form - 116 votes - 47%
+- YES! In his original form - 116 votes - 47%
+- NO! Let sleeping mantas lie - 17 votes - 6%
+
+*The fans have spoken: Bring back Manta! The only question now is, in what form?*
+
+------------------------------------------------------------------------
+
+## Who is Aquaman's best supporting character?
+
+### 220 Total Responses
+
+- Garth/Tempest/Aqualad, his almost-son - 104 votes - 47%
+- Dolphin, ex-lover with mysterious past - 47 votes - 21%
+- Mera, ex-wife and sorceress of the sea - 27 votes - 12%
+- Vulko, the scientist/scholar/regent/traitor - 15 votes - 7%
+- Other person, not on the list - 12 votes - 5%
+- Porm, his murdered Dolphin mother, and guide - 9 votes - 4%
+- People of Poseidonis, the folks he rules - 6 votes - 3%
+
+*The fans overwhelmingly liked Aqualad, though Dolphin is also surprisingly popular.*
+
+------------------------------------------------------------------------
+
+## With the change in Aquaman writers, will you:
+
+### 261 Total Responses
+
+- Stick with the book - 112 votes - 43%
+- Give new writer a chance - 83 votes - 32%
+- Pick up the book for 1st time - 37 votes - 14%
+- Drop the book - 23 votes - 9%
+- None of the above - 6 votes - 2%
+
+*With 89% of the vote being positive, I think more Aquaman fans must be fans of Aquaman than of particular creator.*
+
+------------------------------------------------------------------------
+
+## Who is your favorite Aquaman?
+
+### 231 Total Responses
+
+- Current Aquaman (complete with Hook and Attitude) - 100 votes - 43%
+- Silver Age Aquaman - 40 votes - 17%
+- Super Friends Aquaman - 35 votes - 15%
+- Long Haired Diplomat (from the second Aquaman series) - 14 votes - 14%
+- Blue Suit Aquaman (from the Pozner Mini-series) - 26 votes - 11%
+- Golden Age Aquaman - 16 votes - 7%
+
+*105 fans say they prefer Aquaman with the orange suit, if you add the votes for all orange-suited Aquaman versions together. I'm not sure that means anything, of course. This poll is generally meaningless.*
+
+------------------------------------------------------------------------
+
+## Who should be the next Aquaman?
+
+### 142 Total Responses
+
+- Arthur/Orin! Don't change him! - 118 votes - 83%
+- Garth/Tempest/Aqualad - 15 votes - 11%
+- Koryak, Aquaman's son by Kako - 7 votes - 5%
+- AJ, Mera's second son - 2 votes - 1%
+
+*Aquaman shouldn't die. Period. The results are pretty obvious, I think.*
+
+------------------------------------------------------------------------
+
+## What do you think of the hook?
+
+### 260 Total Responses
+
+- Aquaman is better with it, keep it - 103 votes - 40%
+- I kind of like it, I have no problem with it - 57 votes - 22%
+- Aquaman needs his hand back, I hate the hook - 51 votes - 20%
+- I tolerate it, I would prefer the hand - 49 votes - 19%
+
+*If you add up the for-hand folks, you get about 62%. That's not an overwhelming acclaim, but certainly enough justify leaving the hook around. But then, think of the 20% of the fans that hate it... hmmm.*
+
+------------------------------------------------------------------------
+
+## Should Aquaman be with Mera or Dolphin?
+
+### 220 Total Responses
+
+- Mera - 101 votes - 46%
+- Dolphin - 86 votes - 39%
+- Someone Else - 33 votes - 15%
+
+(Suggested Someone Elses: Deep Blue, Wonder Woman, Stasy from Aquaman \#38, and Power Girl)
+
+*Hrm... seems like Mera is still the one for Aquaman even after their messy separation.*
+
+------------------------------------------------------------------------
+
+[Back to Introduction](index.html)
+
+------------------------------------------------------------------------
+
+Surveys should not be taken seriously, any attempt to draw a serious conclusion from these surveys is bound to failure and giant flying fish will come to whisk you away to the whirpool of death. So don't take 'em seriously.

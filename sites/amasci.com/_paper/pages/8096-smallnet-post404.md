@@ -1,0 +1,259 @@
+---
+title: "SMALLnet post404"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post404.html
+order: 8096
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T06:00:37Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post404
+
+*Source page: `~smallnet/Archive/post404.html`*
+
+## SMALLnet Posting post404
+
+------------------------------------------------------------------------
+
+**Date: Sat, 29 Dec 2001 02:56:35 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+...Since the previous Posting we've received several Virus Warnings sent in by well-meaning SMALLsters. However, they were hoaxed. The warnings were bogus. (One sure way of identifying these hoaxes is their request for you to send out copies to everyone on your mailing list.)
+
+The U. S. Department of Energy has a web site (search under "CIAC") that's kept continuously updated. It details ALL of the hoaxes, chain letters, and Internet scams that infest (not INFECT) our computers, and makes fascinating reading.
+
+The CIAC site also provides complete and accurate data on the REAL viruses, Trojans, worms, etc. Next time you receive a VIRUS! warning, check the CIAC site before passing anything on to your e-mail friends. \[JW\]
+
+Bill Kronen \< <billpat@telusplanet.net> \> wrote:
+
+Had 4 inches of snow Sunday morning, but we went flying in the afternoon anyway. Had success again with my second electric, a Wasp, getting a 10-minute flight on a 1700 mAh pack
+
+Plane has a 38-inch Wingspan, 15.2 ounces per square foot wing loading. Flew well. Cold air (30 degrees F.) may have helped.
+
+Bill
+
+Sam Brauer \< <sbrauer@bccresearch.com> \> contributed:
+
+Re: Covering materials:
+
+I've been using a couple of the lighter-weight iron-ons on some of my electrics -- Econokote and Oracover Lite. I haven't done the weighing yet, but I'd lay long odds that the Oracover Lite (or low-temp) is lighter than Econokote. Oracover Lite is also the easiest stuff to handle that I've tried. You do need to work with the iron set lower than ever before. If you start with the iron too hot, you'll have trouble.
+
+However, the stuff has nice tack and drape, meaning that it goes over curves even before being heated readily, and doesn't slide all over the place like Monokote does.
+
+Note that Oracover Lite is not the same stuff as Solarfilm Lite; the Solarfilm stuff is lighter still.
+
+Pluses:\
+\* Fast and easy to cover with. I see now how they can bat out the BARFs in Bulgaria quick enough to make a living -- I'll bet with practice you could cover a wing in under 5 minutes once the pieces are cut out.
+
+\* Seams in the transparents are nearly invisible over wood.
+
+\* Goes over compound curves readily.
+
+\* Shrinks well.
+
+\* Holds when shrunk. (If you have to take out a warp this stuff will work.)
+
+\* Decent torsional rigidity. (Much better than Litespan as an example, but probably not as good as Monokote.)
+
+\* Somewhat stretchy -- does not appear to induce warps on relatively light structures.
+
+\* Reasonable toughness
+
+\* Inexpensive (relatively -- \$10 a roll)
+
+\* Edges stay tacked down -- always a problem for me with Monokote on a tight curve.
+
+Minuses:
+
+\* Colors can be a little funky. The transparent red looks more like pink to me, and the yellow looks more like gold. Not necessarily a drawback, but they're not going to match much else.
+
+\* High tack means that if you let the material fold over itself, you may wind up throwing the piece out. I've had pieces of material that stuck together so well that in trying to get them apart, they tore.
+
+\* Not as strong as Monokote. (Micafilm/Fibafilm is the toughest iron on I know of. However, it will twist a light structure into a pretzel.) May be on a par with Econokote.
+
+Unknown:
+
+\* Long-term fuel resistance/sunlight resistance. Probably fine.
+
+\* MAY be applied at a low enough temperature to use straight on foam. (Don't know, I'm not fond of working with foam.)
+
+I've used Oracover Lite on a 24-ounce Hobby Hangar Edge 540 (nice-flying airplane by the way on a 7 cell CP 1300 pack, and either a Promax Cobalt 4014 on a 7 x 5 or a Mega 22/10/6 on an 8 x 4) -- and flying over a grass field, I've got no holes in the covering in several outings. You can pick the airplane up by the wing without touching the balsa with no problems.
+
+I've also just applied Oracover Lite to a 37-ounce Apache with no landing gear, but I haven't flown the airplane yet.
+
+Summation: Oracover Lite has become one of my favorite iron-ons. For anything in the under 3 pound category, I think it's great. It doesn't seem to have any major handling problems; it's light- weight, and I think it's aesthetically attractive.
+
+Sam Brauer Stamford, Connecticut
+
+John Rossetti \< <jyuma@axxent.ca> \> submitted:
+
+I really enjoyed the comments on Jim Walker and would like to add a few of my own. Back in the early forties I was living in the Canal Zone, and although we had lots of balsa wood, kits, glue, etc. were hard to come by.
+
+One day my friend Marshall Hughes and I managed to make a deal with one of our friends to trade him some of our stuff for his Jim Walker Fireball kit. While we never managed to fly it too well, we did have a great time building and trying to fly it.
+
+Then, after the war I ended up living in Portland, Oregon and had the opportunity to actually see Jim Walker in person, flying several of his Ukies at one time, flying his gliders, and demonstrating a radio-controlled lawn mower at one flying event. My brother even worked for a while at Jim's company.
+
+Anyway, those of us who are long-time modelers, and I mean long time, still appreciate all that the great Jim Walker contributed to model aviation. John Rossetti
+
+Bob Peterson \< <RPeter9954@aol.com> \> wrote:
+
+What a great forum this is!! It's seldom that you run into so many people that have the same interest.
+
+On the subject of which engines were most "user friendly", I'd like to nominate Mel Anderson's 1/2A's!! Yes, ALL of them: the .045's, the .049, and even tho' it's a little larger, the .065.
+
+The .045 had a long stroke that permitted using props from 5 1/2" to 9"! Yes, I did run one with a 9-6, and not only did it run, but it usually started in just a couple of flips -- a really neat engine.
+
+I do agree with JW that buying an ARF is 'sorta like buying a crossword puzzle book with all the tough words already done. On the other hand, though, many of us have no time to build, and after seeing some of the quality of the Czech Republic ARF's, I am really impressed. I still prefer to build them myself -- there's nothing like seeing something you've created actually fly...
+
+Bob Peterson
+
+...Bob, the original Mel Anderson 1/2A engine, the .045 Baby Spitfire, had a curious origin. In the early 1930's Mel worked with Bill Atwood (America's most prolific model engine designer, responsible for the original Wasp .049 and the Cox Tee Dees) on the first model engines to be manufactured on the West Coast.
+
+These were the Baby Cyclones: .36 displacement but about the same external size and weight as the Brown Junior .60's. The Baby Cykes were also the first front rotary valve model engines.
+
+In 1948 three separate approaches to tiny model glow engines were made: by Lud Kading and Johnny Brodbeck at K&B (resulting in the .020 Infant) -- by Charlie Brebeck at Herkimer (the OK Cub .049) -- and by Mel Anderson.
+
+To simplify setting the design parameters for his new tiny engine (the term "1/2A" was months in the future), Mel took the easy way out and made the Baby Spitfire's bore and stroke precisely half those of the Baby Cyclone. \[JW\]
+
+Glenn Bolick \< <rgb8@juno.com> \> adds:
+
+Just a footnote on the OK Cub engine discussion. My first OK Cub engine was purchased for less than \$5.00 in kit form with all the components just mounted in a box with instructions on how to assemble. This was the .049 beam mount engine.
+
+Later purchased a radial mount with tank .039 Cub in the same do-it-yourself assembly format. Still have both, and both still ran fine a few years ago. While certainly not as powerful as some of the later engines, they obviously were user-friendly, as I was able to assemble and get them running and flying in Scientific all-balsa models as my first engines!
+
+Glenn Bolick
+
+Bob Chiang \< <rhc3@cornell.edu> \> contributed:
+
+I read with interest that OK Cubs were manufactured in Herkimer, NY, which is not too far from where I live. I looked up their web page, and see that they give tours of their museum and manufacturing plant. If anyone has visited their plant, was the tour interesting?
+
+Also of general interest: there was someone auctioning Maxell brand 700 mAh AAA cells for \$0.50 each on e-Bay. I missed the auction and contacted them to buy the cells directly. I have just received a package of 28 cells, so I can vouch for prompt delivery. There have been discussions about these cells on the ezone magazine, and they appear to work well as power packs for current draws up to about 6 amps.
+
+They should make lightweight and long-lasting receiver/servo packs too. I have been flying a model powered by an MG-1 motor with Sanyo brand AAA NiMH cells, and it's a great system. I hope these new cells are comparable.
+
+E-mail Jennine at \< <jtautimer@home.com> \> for more information.
+
+Bob Chiang Ithaca, New York USA
+
+Al Lidberg \< <AALmps@aol.com> \> has a problem:
+
+Need to contact Roy Nesson, Huntington Beach, California, regarding an order -- is he on this list? AL
+
+David Larkin \< <dslarkin@blvl.igs.net> \>
+
+In response to Mac Wilson, regarding single channel flying, the answer is, as in so many things "it depends". Joe's advice is very sage and suitable for very enjoyable flying, but only on calm days. At least in England where there is usually a built-in breeze of 10-20 mph, successful single-channel flying went hand in hand with the search for that special commodity known as 'penetration'.
+
+Basically, of course, this was airspeed; but also the ability to fly without having the nose pitch up after certain manoeuvres.
+
+The masters at this sort of thing were the West Essex flyers, notably my friend Sid Sutherland with his 'Old Faithful' and Bill Taylor (sadly to die early) with his 'Whiplash'. These were fairly highly powered models with considerable lateral stability, that were trimmed to fly as fast as possible by increasing the positive incidence of the stabilizer (or decreasing the negative, whichever way you want to look at it). The worse the wind, the more packing you put under the tailplane leading edge.
+
+Sid recently built replicas both of his Old Faithful and of Bill's Whiplash, with which to astound modern R/C flyers. These used modern digital gear, but rudder-only and were powered by vintage diesels. Great fun. The danger of course is to go too far, in which case you have a model which will not recover from a dive -- as I found out with my FROG Jackdaw.
+
+Despite hitting a concrete runway, the model flew again, but this time with elevator added and 6 channels of Kraft R/C and Bonner servos; and I taught myself to fly multi R/C destroying myriad Top Flite 10 X 3 1/2s on its Enya .19, through ground loops.
+
+In the 70s I decided to build a replica of one of my early free flight designs, the Gurrier. (You have to be a Dubliner to know what a gurrier is.) This model was a sort of semi-scale generic American-type lightplane. As originally designed (for an Allbon Merlin .8cc (.049 cu in) it had a lifting tail and would barely climb away from the launch. So I replaced the stabilizer with a flat plate design. This worked really well and the plane flew very well with engines from a FROG 50 to a Taifun Hobby.
+
+However when I built the replica, I fitted ACE single-channel pulse rudder-only and stuck to the flat plate tail. The plane was hard to handle, particularly in a wind, tending to zoom. So I retraced my footsteps and built a lifting tail. With this I had a nicely-mannered model that flew well with a Black Widow.
+
+It sits neglected now as I have no source for Pactra Aerogloss cream with which to repair the torn tissue-covered fuselage. Maybe I'll build a new one for a PAW .049 and cover the fuselage in cream Litespan or Airspan.
+
+I have a personal hobby horse in that I wish that people who devised the SAM R/C rules had specified rudder-only for competition. The justification for R/C in "free flight models" is just to avoid having to chase after them -- quite important for those of us who have passed our 'better before' date. Instead, by allowing elevator control SAM have permitted a power race where the elevator control enables us to use grossly inappropriate engines, which would render a rudder-only model uncontrollable.
+
+Having said all this, it is worth adding throttle control to a rudder-only model, if that is possible. I built two Tomboys for pulse rudder-only and now have one for digital R/C with a couple of servos, one on rudder and one on throttle. I have flown this for years off both water and land -- and snow.
+
+Undoubtedly the addition of elevator control would improve its capabilities as a floatplane -- I've done take-offs, landings, touch and goes, and taxied back to the 'beach' -- but never all on the same flight!
+
+It was good to see a posting from Gerry Pronovost. Gerry is a remarkable modeller, usually going where no one else dares to go with challenging new ideas and is one of the pioneers of indoor R/C. Gerry and his wife Pauline are the nicest couple one could ever want to meet, and fortunately have shown absolutely no sign of ageing since I first met them in the 60s.
+
+Incidentally, I just received a set of plans for the Chicken Hawk biplane from Ted Strader. It's a very pretty design and the construction is also elegant. A perfect R/C model for small plane enthusiasts.
+
+All the best, Dave
+
+Roy Clough \< <royce6@juno.com> \> writes:
+
+This chat about early park flyers tempts me to get into it.
+
+In the early 1940s I took my bright orange 42" Super Atom powered cabin free flighter to Elizabeth Park in Hartford. I had it set up to make tight left hand circles, that would gain little altitude on a half-minute run. Taking it to a clear spot I fired it up and turned it loose. It made a satisfying take-off run and circled around and around, never getting much higher than 40-50 feet and drawing a bunch of kids that stood around UNDER its flight path.
+
+I thought the engine would never quit as the circles started drifting down field. Luckily, when it did the model glided into the reachable low limbs of a tree instead of into a kid's happily upturned face.
+
+I was quite relieved at no bad result from a stupid trick. I swore never again to let FF loose in a public park where the sound of the engine can attract a swarm of kids out of nowhere.
+
+About single-channel flying: For years, right down to the Cox "Failsafe" singles, I have successfully used a single-channel trick that gives both rudder and elevator. First, use self- centering hinges -- like drafting mylar, and a bendable rudder tab.
+
+Set your flight for a gentle right-hand turn with the tab. Connect the left side of the stick to pull the rudder to the left. Connect the elevator so the right side stick movement gives "up".
+
+Now, tweaking the rudder when aloft will give straight flight; holding it left will bring the nose down in a gentle fashion because the gyroscopic effect of the prop in a left turn tends to hold the nose up -- moderately, but you can overpower it.
+
+You MUST make control connections with carpet thread, so the control function pull not being used just hangs limp. Now, with "up elevator" you can dive into spirals and pull them up and go the other way at will.
+
+Also re-read JW's good advice on single channel in the previous posting.
+
+Roy C.
+
+Robert Ness \< <Robtness@aol.com> \> submitted:
+
+To the guy that was interested in .061 diesels: I bought a couple of the heads from MECOA or RJL \< <http://www.MECOA.com> \> for 12.95 each, I believe, and put them on my Norvel .061. They seem to run fine and will swing a bigger prop and very quietly too.
+
+I would NEVER deal with Bob Davis of Davis Diesel again. He is the most obnoxious, arrogant, know-it-all I have ever in my life talked to. All he did was badmouth the other companies that produce diesels and CO2 motors that I was interested in. I found out that his 1/2A diesel conversions don't hold up long without replacing the Teflon diaphragms.
+
+I have had P.A.W. diesels and a few others with no serious problems. I never have to do anything to them. Thanks to the guys that run this list, I love it!
+
+Raj \< <rajm@pacific.net.sg> \> reports:
+
+On the subject of diesel heads, I have had good fun with the RJL Cox 049 diesel conversion head. At \$12.99 it's good value and screws straight on to both the AP Wasp 061 and Norvel 061 range. It's available from \< <http://www.mecoa.com> \>.
+
+Unlike the Davis head, it has an O-ring contrapiston. which is not subjected to the wear and tear the Davis Teflon disks suffer. Installation too is simpler; as easy as changing a glow plug.
+
+With slightly increased ether content, starting is quite easy, provided the engine has been well run-in and has a good piston/cylinder fit. As my running has been confined to the bench, I probably haven't chalked up enough hours to bust any crankshafts yet.
+
+However I must confess that at this point Diesel heads still remain a novelty to me, as it's good fun seeing these popular glows run as diesels. For any real flying though, it's back to my PAW's.
+
+Raj, Singapore
+
+Mike Gillihan \< <CFIIMEI@aol.com> \> informs us:
+
+I'm currently working on a new project. I've always had a hankering to build a good R/C HLG, but have been unable to find exactly what I want. Everything out on the market is either cheap and heavy or bagged-wing competition style.
+
+The new design will be called "The Happy Medium", and sports a 38" wingspan, a Selig 7075 airfoil on a 5.5 inch chord, and an all-up weight of around 5-6 ounces. I might also try some unusual launch techniques -- thinking about trying a drop-off rubber motor stick that uses rubber tension to hold the device to the aircraft.
+
+A 20-second run could make some nice altitude... Should be a fun experiment. If it works well I might try to get one of the model rags to publish an article.
+
+Mike S. Gillihan\
+Designs That Fly, Inc.\
+\< <http://members.aol.com/DTFBiplane> \>
+
+Jerry W. \< <jerryace@webtv.net> \> sent:
+
+In posting \#403 Joe mentioned the old Veco kits and brought back some fond memories. I started building in '56 with a \$1.95 Scientific kit and a \$3.95 Baby Bee (which I still have).
+
+In 1961 I received for Christmas a Veco Thunderbird and a Johnson .35 Stunt Supreme. Now I have been under the impression for 40 years that the Thunderbird was the top of the line Veco kit, followed by the Chief, Squaw, etc. Sure would like to know more about the old Veco line. They were mighty fine kits. Jerry
+
+...Jerry, Veco started out in 1948 making model wheels. Some were based on the prewar Voit airwheels; others had molded "semi- pneumatic" tires. These sold very well, and the next step up for Veco came with the bankruptcy of the old Ricks Manufacturing Co. and the closing down of Burbank Mfg. Co., who had made kits for J. C. Yates's "Madman" and Bob Palmer's "Go-Devil" control- line stunters.
+
+The assets of all three of these companies combined under the Veco name, and a line of control-line kits emerged with "Red Indian" names: Brave, Warrior, Chief, Squaw, and Papoose. The initial designs were all by Howard "Hi" Johnson; Bob Palmer did the test flying.
+
+I joined Veco in September 1949 as a free flight designer. Hi Johnson and I worked night and day developing new tooling and balsa-cutting techniques; the wet die-cutting process we came up with allowed Veco to produce advanced versions of all the earlier kits. From the latter part of 1949 until the Fall of 1954, all the Veco model kits but one: 5 1/2A free flights and 8 control-liners -- were either my designs or redesigns, or had been engineered by me. I also drew the inked plans for all these models, with major assistance from Lee Scott on the Chief and Squaw drawings.
+
+As for the performance of these various airplanes, the Dakota and Sioux were purely sport free flights. The Comanche was designed for 1/2A PAA-Load competition; the Navajo (designed by Tommy Protheroe) was a pylon free flight contest model; and the Taylor Cub was designed as a free flight scale competitor.
+
+The Brave was a control-line trainer; the Scout was a 1/2A stunt model (the first one kitted, and also the first model designed for the Wasp .049 engine). The Redskin was a Team Racer, designed by Clarence Lee.
+
+All the other Veco control-line kits: Warrior, Chief, Squaw, Papoose, and Smoothie (a Bob Palmer design) were competition stunt designs. Their performance depended on how well -- and how lightly! -- they were built. Engine size also made a difference.
+
+The Thunderbird came along later, after I'd left Veco to take over the management of Kenhi Model Products. But I made the die- cutting dies for the Thunderbird kit... \[JW\]
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

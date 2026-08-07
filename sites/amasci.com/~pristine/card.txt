@@ -1,0 +1,672 @@
+Pure Mac: Card Games 
+
+ Card Games 
+
+ Anubis Casino 
+ Asshole 
+ Blackjack Deluxe 
+ Boxcars Casino 
+ Bridge Baron 
+
+ Burning Monkey Solitaire 
+ Classic Cribbage 
+ Classic Gin Rummy 
+ Cribbage 
+ Crib3000 
+
+ Euchre 
+ Expert Blackjack 
+ Hardwood Solitaire 
+ Hearts 
+ iPoker 
+
+ Klondike 
+ Mac500 
+ McPoker 
+ Mike's Cards 
+ Pinochle 
+ Poker Solitaire Challenge 
+
+ Poor Man's Solitaire 
+ The Real Deal 
+ Romi 
+ Skat 
+ Solitaire Till Dawn 
+ Strip BlackJack 
+
+ 3D Bridge Deluxe 
+ 3D Euchre Deluxe 
+ 3D Hearts Deluxe 
+ 3D Setback-Pitch 
+ 3D Spades Deluxe 
+ Uno 
+
+ Yahoo Games - Java based games including Backgammon, Chess, Reversi, 
+Checkers, Bridge, Poker etc. 
+ Excite Games - Java based games including Euchre, Hearts, Spades, Checkers, 
+Chess, Crosswords and Word Search
+
+ Anubis Casino 1.2 
+
+This shareware program is a simulation of seven popular casino table games.
+Included games are: Baccarat, BlackJack, Carribean Stud Poker,
+Casino War, Craps, Pai-Gow Poker and Roulette.
+
+ License : Shareware, $20
+ Author/Publisher : Anubis, Inc.
+ Modification Date : May 12, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 727 Kb - 68k version
+
+ Direct Download
+ File Size: 750 Kb - PPC version
+
+ Home Page 
+
+ Asshole 1.1.1 
+
+Asshole is an excellent card game for the Macintosh. Your goal is to 
+be the first one to get rid
+of all of your cards. The last one to go out will become the 
+Asshole. The real game of Asshole has
+many variations in game play, and so does this one! As many features 
+as possible were squeezed into
+this one game resulting in one of the most configurable and fun to 
+play card games avaliable.
+Play against your friends across an appletalk network or the internet!
+
+ License : Freeware
+ Author/Publisher : Greg Munro and 
+ Sean Munro 
+ Modification Date : October 17, 1999
+ Requirements : 68040 or PPC
+ Internet Play : GameRanger , Direct TCP/IP
+
+ Direct Download File Size: 1291 Kb
+
+ Home Page 
+
+ Blackjack Deluxe 2.4.2 
+
+A great blackjack game with many tips on how to become a better player.
+
+ License : Shareware, $25
+ Author/Publisher : Ed Trice/Circumflex Software
+ Modification Date : July 20, 1998
+ Requirements : 68030 or better
+
+ Direct Download
+ File Size: 1786 Kb
+
+ Home Page 
+
+ Boxcars Casino 1.0b 
+
+A whole casino in one app. Play any of the following six games and 
+learn the basics of real casino play.
+Poker, blackjack, baccarat, craps, slots and roulette.
+
+ License : Shareware, $9.50
+ Author/Publisher : Jeff T. Rodeo
+ Modification Date : August 19, 1995
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 1561 Kb
+
+Parent Directory 
+
+ Bridge Baron 10 
+
+With over fifty years of research and
+development in computer bridge programs, our
+long journey has brought to market our flagship
+product, the Bridge Baron.
+ Over 2 billion random deals
+ Specific types of random deals
+ Bridge Match vs. computer or 2nd person
+ Four play levels
+ Cumulative statistics
+ Optional hand rotation
+ Automatic play
+ Optional double dummy defense
+
+ License : Demo, $59.95
+ Author/Publisher : Great Game Products
+ Modification Date : April 20, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 2011 Kb
+
+ Home Page 
+
+ Burning Monkey Solitaire 2.0 
+
+The engineers at Freeverse Software, after months of research have
+made a startling discovery in their quest for the perfect Mac game. 
+Although the
+solitaire variant Klondike has long been acknowledged as the most popular and
+addictive game in history, it was still thought to be missing something.
+Something...furry. In a burst of revelation, lead engineer Dr. Droppa 
+Mapantz saw
+that what solitaire was missing was quite simply, monkeys! Dr. Mapantz and his
+team set to work to remedy that flaw immediately. The result? Burning Monkey
+Solitaire.
+
+ License : Shareware, $14.95
+ Author/Publisher : Freeverse Software
+ Modification Date : June 14, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 7103 Kb - version 2.0
+
+ Direct Download
+ File Size: 2070 Kb - small version 1.0 - released December 6, 1997
+
+ Direct Download
+ File Size: 4330 Kb - large version 1.0 - released December 6, 1997
+
+ Home Page 
+
+ Classic Cribbage 1.5.1 
+
+Popular throughout the English speaking world, Cribbage demands quick
+wits, attention to detail, and more than a little cunning. Once you've played
+Classic Cribbage, you won't want to stop!
+Test your skill against the "bot" computer players or, even better, log-on to
+THE FREEVERSE internet game server and play with other people from
+around the globe!
+
+ License : Shareware, $19.95
+ Author/Publisher : Randy Thompson/FreeVerse Software
+ Modification Date : February 1, 2001
+ Requirements : 680x0 or PPC - Mac OS 8.1 or higher
+ Internet Play : The HMS Freeverse Game Server
+
+ Direct Download
+ File Size: 2077 Kb
+
+ Home Page 
+
+ Classic Gin Rummy 3.0 
+
+Here's a new look for an old card game favorite! In fact, you can
+customize the look and sounds with different "theme" files. Classic
+Gin Rummy plays a mean game and supports all of the most
+popular game variations.
+
+ License : Shareware, $14.95
+ Author/Publisher : Michael 
+Terry /FreeVerse Software
+ Modification Date : March 16, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 5241 Kb
+
+ Home Page 
+
+ Cribbage 2.6 
+
+A computerized rendition of crib 
+bage. Play another or play the computer.
+
+ License : Shareware, $5
+ Author/Publisher : Chris Christensen
+ Modification Date : August 30, 1995
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 1202 Kb
+
+ Parent Directory 
+
+ Crib3000 1.0 
+
+Crib 3000" is a true computer cribbage game. In many ways it's 
+actually better than the real thing.
+With 5 different personalities to play it can challenge the novice 
+player all the way to the truly
+professional players of the cribbage world.
+
+ License : Shareware, $12
+ Author/Publisher : Slovis Software
+ Modification Date : April 11, 1997
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1202 Kb
+
+ Parent Directory 
+
+ Euchre 5.4 
+
+A computerized rendition of euchre. A card game played usually with 
+the highest 32 cards, in which
+each player is dealt 5 cards and the player making the trump is 
+required to take at least 3 tricks to
+win.
+
+ License : Shareware, $20
+ Author/Publisher : Christopher Jones
+ Modification Date : February 19, 1996
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 107 Kb
+
+ Parent Directory 
+
+ Expert Blackjack 4.0 
+
+Expert Blackjack is designed to provide the feel of a gambling casino 
+with realistic card dealing at a table with six players whose
+chips move across the table when hands are won or lost. The user can 
+learn to play Blackjack better, by having a hint window
+displayed if an incorrect play is made, or having the program deal 
+only specific types of hands, like pairs or soft hands, so these can
+be practiced directly. Card counting can also be practiced.
+
+ License : Shareware, $10
+ Author/Publisher : Matt Dugan
+ Modification Date : March 21, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1316 Kb
+
+ Home Page 
+
+ Hardwood Solitaire II 2.20 
+
+Hardwood Solitaire II for the Mac has the best solitaire games, 
+enchanting graphics, MOV music, sounds effects, and a
+bunch of new features. HWS II has six great solitaire games with 
+multiple difficulty levels. We have also added a high
+score scroll so you can see if you're a better solitaire player than 
+your buddy. You can even play the exact same game
+just to be fair! The demo only lets you play klondike.
+
+ License : Demo - Purcase for $24.95
+ Author/Publisher : Silver Creek Entertainment Corp.
+ Modification Date : July 5, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 2879 Kb - 68k version
+
+ Direct Download
+ File Size: 3097 Kb - PPC version
+
+ Home Page 
+
+ Hearts 3.1.1 
+
+Game of hearts.
+
+ License : Shareware, $15
+ Author/Publisher : David Skelly
+ Modification Date : October 19, 2000
+ Requirements : 680x0 or PPC, System 7.5.5 or higher
+
+ Direct Download
+ File Size: 404 Kb
+
+ Home Page 
+
+ iPoker 2000 
+
+Many of you will recognize this game as the latest evolution of
+PowerPOKER, The Ultimate Poker Simulation. PowerPOKER 1.0 was
+published by Electronic Arts way back in 1994. Among the glowing reviews,
+it was awarded the Best "Sports" Game and earned a place in the Macworld
+Game Hall of Fame.
+
+ License : Shareware, $25
+ Author/Publisher : Todd Ouzts /Scenario Software
+ Modification Date : January 1, 2000
+ Requirements : PPC, Mac OS 8.1 or higher
+
+ Direct Download
+ File Size: 4269 Kb
+
+ Home Page 
+
+ Klondike 7.6.2 
+
+Klondike was originally written in 1984 for the first 128K Macintosh.
+It includes four different solitaire games and should run on any MacOS
+computer running System 6.x or later, including Mac OS X with Aqua.
+
+ License : Shareware, $10
+ Author/Publisher : Mike Casteel 
+ Modification Date : November 30, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download File Size: 223 Kb - FAT version
+
+ Direct Download
+ File Size: 139 Kb - Carbon version 7.5.2 - Mac OS 9 or higher
+
+ Home Page 
+
+ Mac500 1.1 
+
+Mac500 is a Macintosh version of the popular card game Five Hundred. You and a
+computer partner play against two computer opponents. Mac500 allows you to
+choose some of the most popular variations of the rules of Five Hundred, and it
+keeps a history of games and bids won and lost by you and your opponents. You
+can name your players and change the bidding styles of the computer players. If
+you are new to the game, you can have Mac500 suggest bids and cards to play.
+
+ License : Shareware, $10
+ Author/Publisher : David Risvold
+ Modification Date : December 18, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1757 Kb
+
+ Home Page 
+
+ McPoker 1.2 
+
+This is a client program (visual front end) that communicates over 
+the internet using IRC protocols to a poker server so
+that you can play poker with other real people -- and some not-so-real players.
+
+ License : Freeware
+ Author/Publisher : Larry Weinberg 
+ Modification Date : January 4, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 689 Kb
+
+ Home Page 
+
+ Mike's Cards 1.7 
+
+The finest collection of solitaire games ever to grace a Macintosh. Comes with
+124 games (65 one-pack games and 59 two-pack games). Built-in ability to create
+and save your own solitaire games. All graphics and sounds are easily
+customizable. Large display, fast, and full of options and special effects.
+Please see the web site for full and glorious details and pictures.
+
+ License : Shareware, $25
+ Author/Publisher : Mike Sedore
+ Modification Date : November 28, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 3906 Kb - full version
+
+ Direct Download
+ File Size: 950 Kb - Lite version, freeware
+
+ Home Page 
+
+ Pinochle 3.01 
+
+This version of the popular card game Pinochle includes both double 
+and single deck variations.
+There are numerous options so you can customize the game just like 
+you used to play it.
+If you're new to Pinochle, rules are included.
+
+ License : Shareware, $25
+ Author/Publisher : Eric & Susan Conger 
+ Modification Date : December 3, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 179 Kb
+
+ Home Page 
+
+ Poker Solitaire Challenge 1.0 
+
+Poker Solitaire Challenge is extremely easy to play but very hard to 
+win. The first challenge is to arrange the 25 random
+cards in the tableau into 10 hands of straight poker (5 rows and 5 
+columns) so that the total score is
+a maximum. You can move the cards around until you run out of 
+patience, or until your supervisor enters the room.
+
+ License : Freeware
+ Author/Publisher : Michael P. McLaughlin 
+ Modification Date : October 9, 1998
+ Requirements : PPC
+
+ Download Page
+ File Size: 420 Kb
+
+ Home Page 
+
+ Poor Man's Solitaire 2.2.1 
+
+Solitaire has got to be one of the most popular computer games of all time. There are so many different
+variations of the game, there is always something for everyone. Poor Man's Solitaire offers 30 different variations,
+from the familiar Klondike, to more obscure games like Will O the Wisp. You'll be able to learn new games quicker in
+the new version, as it is easy to display the characteristics of each pile, the pile type and what card(s) are necessary
+to build on it. Not only that, you can examine the contents of any pile at any time, or turn over the aces, wherever
+they are hidden.
+
+ License : Shareware, $13
+ Author/Publisher : Mike Perry 
+ Modification Date : March 2, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download 
+ File Size: 1912 Kb
+
+ Home Page 
+
+ The Real Deal 1.0 
+
+Play poker against the computer. Of course you can't win anything but 
+you can't lose anything
+either.
+
+ License : Shareware, $5.23
+ Author/Publisher : Richard L. Hayden/Hayden Graphic Productions
+ Modification Date : January 1, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1450 Kb - 68k version
+
+ Direct Download
+ File Size: 1589 Kb - PPC version
+
+ Parent Directory 
+
+ Romi 2.0 
+
+Romi lets you play Rummy games against the computer at 3 different 
+levels. The Rummy game is played with two sets of 52 cards and with 
+two wild cards (two apple card). The purpose of this game is to form 
+groups of 3 or more cards, which contain either consecutive cards of 
+the same suit or cards of the same number value but of differing 
+suits.
+
+ License : Shareware, $10
+ Author/Publisher : Gerard Brochu 
+ Modification Date : October 11, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 304 Kb
+
+ Parent Directory 
+
+ Skat 3.2.2 
+
+Skat is played with exactly three people. The card pack consists of 
+32 cards with the suits Diamonds, Hearts, Spades, and
+Clubs, each suit containing the cards 7, 8, 9, 10, J, Q, K, and Ace.
+
+ License : Shareware, $10
+ Author/Publisher : Fa. Rasche
+ Modification Date : July 3, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 2462 Kb
+
+ Home Page 
+
+ Solitaire Till Dawn 4.0.1 
+
+Solitaire Till Dawn is the premiere card game collection for the
+Macintosh. Version 3.2 contains 32 different games, including favorites
+such as Klondike, Golf, Pyramid, Canfield, Forty Thieves, and Spider,
+along with other more exotic games and even a few created expressly for
+Solitaire Till Dawn itself.
+
+ License : Shareware, $20
+ Author/Publisher : Rick Holzgrafe 
+ Modification Date : March 26, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1696 Kb
+
+ Home Page 
+
+ Strip BlackJack 1.0 
+
+Strip BlackJack is blackjack with pictures and sounds and a multitude 
+of other cool things.
+Note that no naughty pictures are included, you must get these yourself
+(in PICT format ) - instructions on how to install these pictures are 
+within the included
+documentation.
+
+ License : Shareware, $10
+ Author/Publisher : Michael McClelland
+ Modification Date : July 29, 1997
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 889 Kb
+
+ 3D Bridge Deluxe 1.5 
+
+Bridge, you've heard of it. Now, you can play online using our award winning 3D
+Cardgames engine to see if you really are as good as you say. Take your weekly
+Bridge party across the world with anyone and everyone that has a hankering for
+this popular game and a Macintosh to play it on.
+
+3D Bridge Deluxe is a great way for beginners to learn the game with its own
+teaching AI that will give you enough of the basics to play online with real
+people and get rankings on the HMS Freeverse Game Server.
+
+ License : Shareware, $19.95
+ Author/Publisher : FreeVerse Software
+ Modification Date : April 2, 2001
+ Requirements : 680x0 or PPC, Mac OS 8.1 or higher
+ Internet Play : The HMS Freeverse Game Server
+
+ Direct Download
+ File Size: 10,114 Kb
+
+ Home Page 
+
+ 3D Euchre Deluxe 1.5 
+
+Euchre is one of the most popular card games around, and 3D Euchre Deluxe is the
+best computer version ever! Whether you're a novice or an experienced card shark,
+this is the game for you. Play against the computer or log-on and find a human
+opponent. 3D Euchre Deluxe makes it easy.
+
+ License : Shareware, $19.95
+ Author/Publisher : FreeVerse Software
+ Modification Date : April 2, 2001
+ Requirements : 680x0 or PPC, Mac OS 8.1 or higher
+ Internet Play : The HMS Freeverse Game Server
+
+ Direct Download
+ File Size: 11,771 Kb
+
+ Home Page 
+
+ 3D Hearts Deluxe 6.5 
+
+Hearts Deluxe Features:
+ Animated opponents who speak, joke and react as the cards are played!
+ Interactive Tutor Mode with on-line documentation to help players 
+learn the game.
+ Three skill levels that will challenge even the most experienced 
+Hearts player!
+ A 3-D, 256 color interface with 4-channel sound!
+ Plug-in modules with new opponents to play against!
+ Speech Recognition w/ Apple Speech Manager 1.5
+ Hearts Deluxe also offers many "plug-in" modules
+so you can play with such diverse opponents as Joseph Stalin and the 
+Mad Hatter!
+
+ License : Shareware, $20
+ Author/Publisher : FreeVerse Software
+ Modification Date : April 2, 2001
+ Requirements : PPC
+ Internet Play : The HMS Freeverse Game Server
+
+ Direct Download 
+File Size: 13,824 Kb
+
+ Home Page 
+
+ 3D Setback-Pitch 1.3 
+
+In Setback aka Pitch, you get dealt 6 cards. The player who starts defines
+which suit is trump and thus a quick game of Setback begins! Setback is a
+team game which mixes luck and skill. Hey, you'll love it.
+
+ License : Shareware, $19.95
+ Author/Publisher : FreeVerse Software
+ Modification Date : November 16, 2000
+ Requirements : 680x0 or PPC, Mac OS 8.1 or higher
+ Internet Play : The HMS Freeverse Game Server
+
+ Direct Download
+ File Size: 10,340 Kb
+
+ Home Page 
+
+ 3D Spades Deluxe 2.5 
+
+A great game of spades by the people who brought you Hearts Deluxe. 
+Great graphics and great play including over the Internet.
+
+ License : Shareware, $20
+ Author/Publisher : FreeVerse Software
+ Modification Date : April 2, 2001
+ Requirements : 680x0 or PPC, Mac OS 7.6 or later
+ Internet Play : The HMS Freeverse Game Server
+
+ Direct Download
+ File Size: 7985 Kb
+
+ Home Page 
+
+ Uno 1.2 
+
+Uno is a not-too-unknown card game, here is the mac version, play 
+together or against the computer. The rules are the usual ones.
+
+ License : Shareware, $5
+ Author/Publisher : Mikael Bergerholm
+ Modification Date : May 10, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 245 Kb
+
+ Home Page 
+
+ Back to the main page of Pure Mac

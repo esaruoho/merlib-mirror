@@ -1,0 +1,1856 @@
+Dobe Doinat's Systems Development Life Cycle Glossary 
+
+ Dobe Doinat's Systems Development Life Cycle Glossary
+
+ Introduction to Systems Analysis 
+
+ Term 
+ Definition 
+
+ System 
+ A group of related procedures 
+
+ Data 
+ Consists of basic facts, the raw material. 
+
+ Information 
+ Information is the finished product after data has been processed. 
+
+ Processing 
+ Transformation of data input into accurate, meaningful information that is required. 
+
+ Input 
+ Data is input by workers or machines to an Information System. 
+
+ Output 
+ Information is output by the Information System. 
+
+ Information Systems Components 
+ Software, hardware, data, people and procedures. 
+
+ Application 
+ An Information System can also be called an Application. Application software produces information needed by users. 
+
+ Hardware 
+ Computer platforms and peripherals used for input, processing and output. 
+
+ Software 
+ System and Application software, or programs control the IS environment, local or networked, OTS or legacy, includes the Operating System. 
+
+ Legacy System 
+ How the system worked before proposed or implemented changes through Systems Analysis. 
+
+ Derived Information 
+ All information is either produced directly, or derived, which would imply some function performed upon the data to produce a new synthesis. 
+
+ End Users 
+ Includes employees, customers, vendors or others who directly interact with the Information System. 
+
+ Corporate Culture 
+ A set of beliefs, rules, traditions, values, and attitudes that define a company's personality and influence its way of doing business. 
+
+ BIS 
+ A Business Information System could be production-oriented, service-oriented, or a combination of both. 
+
+ Subsystems 
+ A larger IS may be broken into a series of smaller subsystems. 
+
+ EDI 
+ Electronic Data Exchange is one standard interface between different Information Systems. 
+
+ Interdependent IS 
+ Output from one may be Input to another. 
+
+ Boundary 
+ A not always clear-cut interface between two systems or processes. This will effect the Scope of a project. 
+
+ Vertical Market IS 
+ Application software is said to be vertical when it is for a highly specialized need or requirement. 
+
+ Transaction processing 
+ Another term for operational systems. 
+
+ MIS 
+ Management Information Systems generate timely and accurate information for all management levels. 
+
+ EDP 
+ Electronic Data Processing were one form of early operational systems. 
+
+ DSS 
+ Decision Support Systems help make business decisions by analysing internal or external data. A typical example is a What-If Analysis. 
+
+ What-If Analysis 
+ Using a model, determine the best course of action based upon hypothetical data and presumptions. The better the model, the more precise the prediction, of course. 
+
+ EIS 
+ Executive Information Systems combines the features and capabilities of both MIS and DSS, but with more flexibility and support for unstructured decision-making. 
+
+ ESS 
+ Executive Support Systems support the information requirements of top-level managers and their need to make unstructured decisions. 
+
+ Structured Decisions 
+ Occur regularly, have predefined information requirements and result in predetermined actions. 
+
+ Unstructured Decisions 
+ Do not occur regularly, cannot be predicted, and whose information requirements cannot be predefined. 
+
+ Semistructured Decisions 
+ A combination of structured and unstructured decisions. A set of predefined inputs and outputs do not exist. 
+
+ Expert System 
+ Computers capable of simulating human reasoning and decision-making by combining a knowledge base with inference rules. Cannot actually use common sense or intuition. 
+
+ Knowledge Base 
+ A stored database of known and reliable information. 
+
+ Inference Rules 
+ Determine how the Knowledge Base is used to reach decisions, operating within preprogrammed limits 
+
+ Fuzzy Logic 
+ Not actually whatever drove me to think this was a good idea, but rather one which allows logical inferences to be drawn from imprecise relationships. 
+
+ AI 
+ Artificial Intelligence is beyond the scope of this page to define, but a Fuzzy Logic System may, depending on your definition, be an example. 
+
+ OAS 
+ Office Automation System is a now archaic term. 
+
+ Empowerment 
+ Enabling people to handle tasks and make decisions that were assigned previously to higher organizational levels. 
+
+ Organizational Levels 
+ Operational personnel, Lower Management, Middle Management and Top Management pyramid scheme. 
+
+ Operational Personnel 
+ Operational personnel perform repetitive functions with well-defined procedures. 
+
+ Lower Management 
+ Direct day-to-day operations, make appropriate decisions and take correction actions where applicable. Highly structured. 
+
+ Middle Management 
+ Focus on longer range tactical planning, usually at least a month to a year. 
+
+ Top Management 
+ Focus on even longer range strategic planning, hopefully ensuring the company will survive and grow in the future. 
+
+ Tactical Planning 
+ Plans to allocate company resources to achieve organizational objectives. 
+
+ Strategic Planning 
+ Establish the overall company mission, policies, goals and future product lines. 
+
+ Exception Reports 
+ Identify variances from set targets which might require action. 
+
+ SDLC 
+ Systems Development Life Cycle is a series of steps used to build an information system. These include Planning, Analysis, Design, Implementation, Operation and Support. 
+
+ Systems Request 
+ Identifies the IS and describes the desired changes or improvements. 
+
+ Preliminary Investigation 
+ Critical step in the planning phase of SDLC, begun with a Feasibility Study which determines if it is appropriate to continue. 
+
+ Preliminary Investigation Report 
+ The final report to management on a Preliminary Investigation of a Systems Request, including recommendations. 
+
+ Feasibility Study 
+ The Feasibility Study is a part of the Preliminary Investigation. 
+
+ End Product 
+ The output or a deliverable. 
+
+ Prototype 
+ Early working version of an information system. This can speed up SDLC process objectives. 
+
+ Systems Analyst 
+ Investigates, analyzes, designs, develops, installs, evaluates and maintains a company's IS. May plans projects, develop schedules, or estimate costs. Must conduct meetings. deliver presentations, write memos, emails and documentation. 
+
+ Systems Planning 
+
+ Feasibility Study
+ Preliminary Investigation
+ Requirements Determination
+ Analysing Requirements
+ Evaluating Alternative Strategies
+
+ Term 
+ Definition 
+
+ Mission Statement 
+ Describes a company's overall purpose and direction. 
+
+ Stakeholders 
+ People who are affected by company's performance, including customers, employees, suppliers, stockholders and members of the community. 
+
+ Goals 
+ A set of goals are strategically planned which accomplish the Company Mission. Each major goal may require the completion of numerous essential objectives. 
+
+ Objectives 
+ Objectives must be accomplished to achieve goals, which must be accomplished to achieve the Company Mission. 
+
+ Strategic Planning 
+ Requires a company to make decisions about long-range goals and how to get there. 
+
+ eCommerce 
+ Web-based transactions. 
+
+ Systems Request 
+ A formal way of asking for assistance from the IS department. These may be for improved service to customers, better performance, more information for making decisions, stronger controls or reduced cost. These may be triaged by setting priorities and assessing the feasibility of successful completion and/or a cost benefit analysis. 
+
+ Source (of System Projects) 
+ Users Requests, Top-Management Directives, existing systems, IS Department or other external factors. 
+
+ Systems Review Committee 
+ Also known as a Steering Committee, a Computer Resources Committee, or a Computer Policy Committee, they are used to combine the judgement and experience of several managers to evaluate systems projects. 
+
+ Feasibility 
+ Evaluation by operational, technical and economic testing procedures to decide if any Service Request should proceed to Preliminary Investigation. 
+
+ Feasibility Report 
+ The final report to the Systems Review Committee on the merits of the Service Request. 
+
+ Operational Feasibility 
+ Is the request a practical approach that will solve a problem or take advantage of an opportunity to achieve company goals? 
+
+ Technical Feasibility 
+ Is the request technically achievable, including the necessary technical resources and people and expertise available? 
+
+ Economic Feasibility 
+ What are the tangible and intangible benefits and is the problem worth solving? Will it result in a sound business investment? 
+
+ Tangible Benefits 
+ Those benefits which will produce dollar savings or reduce existing expenses. 
+
+ Intangible Benefits 
+ Cannot be measured specifically, but are important. These may include enhancing the company image or improving customer service. 
+
+ Determination of Feasibility 
+ Feasibility analysis is an ongoing process that must be performed during all phases of the SDLC, and a determination of feasibility can change over time. 
+
+ Criteria 
+ Tangible vs. Intangible, Discretionary vs. Non-Discretionary, Cost vs. Benefit 
+
+ Discretionary 
+ A project which may or may not proceed because a choice exists. 
+
+ Non-Discretionary 
+ Projects where no choice exists, for instance by complying with Federal Law. 
+
+ Cost Benefit Analysis 
+ A determination of whether a given business makes sense economically. 
+
+ Preliminary Investigation 
+ Critical step in the planning phase of SDLC, begun with a Feasibility Study which determines if it is appropriate to continue. 
+
+ Preliminary Investigation Report 
+ The final report to management on a Preliminary Investigation of a Systems Request, including recommendations. 
+
+ Objective of the Preliminary Investigation 
+ 1) Understand the true nature of the problem. 
+ 2) Define the Scope and Constraints of the proposed project. 
+ 3) Identify the benefits that are likely when the project is completed. 
+ 4) Specify time and money estimates for systems analysis and subsequent developmental phases. 
+ 5) Present a report to Management. 
+
+ Scope 
+ Defining the range or extent of the project to establish the boundaries of the Systems Request. " Not for oral use! " 
+
+ Constraints 
+ A condition, restriction or requirement that must be satisfied. 
+
+ Evaluating Constraints 
+ Present vs. future, Internal vs. External and Mandatory vs. Desirable 
+
+ Systems Analysis 
+
+ Determining Requirements 
+ Analysing Requirements
+ Evaluating Alternatives and Strategies
+
+ Determining Requirements 
+
+ Term 
+ Definition 
+
+ Requirements Determination 
+ When what has to be done is known exactly , the algorithm built, the prototype completed, the Scope of the project known, only then can the analysis of those requirements and an evaluation of alternatives be understood in proper context for successful implementation. 
+
+ Fact-finding 
+ Who, what, why, where, when, how, how much and " Are we there yet ". 
+
+ Systems Requirements 
+ A characteristic which must be included in an IS to satisfy business requirements and be acceptable to Users. 
+
+ Reverse Engineer 
+ An attempt to find out how the original system functioned before it was modified. " This is not SPEEA retrospeak for career path ". 
+
+ Algorithm 
+ " Mr. Vice President singing the Blues ". 
+
+ Retrospeak 
+ " Talking about that last Millennium " Next year will be Y2K++ . 
+
+ TBS 
+ Tailored Business System. (Vertical market) 
+
+ Outputs (Systems Requirements) 
+ Defined requirements to serve as a benchmark to measure acceptability of finished system. 
+
+ Inputs (Systems Requirements) 
+ Defined requirements to serve as a benchmark to measure acceptability of finished system. 
+
+ Processes (Systems Requirements) 
+ Defined requirements to serve as a benchmark to measure acceptability of finished system. 
+
+ Timing (Systems Requirements) 
+ Defined requirements to serve as a benchmark to measure acceptability of finished system. 
+
+ Control (Systems Requirements) 
+ Defined requirements to serve as a benchmark to measure acceptability of finished system. 
+
+ Volumes, Sizes and Frequencies 
+ Required information about the current system examined for it's impact on proposed system. 
+
+ Interview 
+ Knowledge of a company's formal and informal structures will help determine who to interview. After establishing the objectives of and preparing for the interview, conduct, document and evaluate the interview. How very simple! 
+
+ Informal Structures 
+ In an informal structure, some people have more influence or knowledge than would appear on an Organizational Chart. 
+
+ Formal Structures 
+ A company's Organizational Chart. 
+
+ Organizational Chart 
+ A company's pyramid scheme of responsibilities, whereby those at the top receive more perquisites, gratuities, privileges, bonuses, benefits, advantages, opportunities, rights, concessions, dispensations, license and freedoms than those who actually produce the product. 
+
+ Hawthorne Effect 
+ From 1920, it was noticed that increasing short-term productivity improvements could be made merely by watching the workers, whether conditions were made better or worse!. One local boring hairspace company has pushed this envelope to new heights with it's policy of low morale equals low self-esteem equals lower pay! After the worker is used up, they're disposable! This simple little formula led to another discovery, that the more workers are laid off, the higher the stock price of the company goes up! This enables the top cells of the pyramid to retire a few days early, and the workers enjoy the retraining! The only problem was illogical STRATEGIC THINKING! With no workers, there were no consumers. Oh, except a few who retired early, quite wealthy. 
+
+ Questionaire 
+ Document containing a number of standard questions. 
+ 1) Brief, clear, user-friendly instructions (for all anticipated questions). 
+ 2) Keep in logical order, from easy to complex, simple words. 
+ 3) Test the questionaire before distributing. 
+ 4) Do not lead response (give clues to expected answers). 
+ 5) Limit use of open-ended questions. 
+ 6) Limit negative issue questions, like job security. 
+ 7) Include a General Comments section at the end. 
+
+ Systematic Sample 
+ For instance, selects every n th customer file for review. 
+
+ Stratified Sample 
+ For instance, selects x customer files in y categories for review. 
+
+ Random Sample 
+ For instance, selects any x number of customer files for review. 
+
+ Site Visit 
+ Observe a system in use at another location. 
+
+ Documenting Research 
+ 1) Record or preserve the data! 
+ 2) Record it as soon as it is obtained. 
+ 3) Organize it to best be able to locate needed data quickly. 
+ 4) The database must be in a form generally understood. 
+ 5) Keep examples of DFDs, flowcharts, sample forms, and screen captures. 
+
+ PIM 
+ Personal Information Managers are software file cabinets, calandars, schedulers, to-do lists, phone dialers, secretaries, diaries, archives, etc., all rolled into one environment. 
+
+ Application Suite 
+ A software platform which is built to integrate the functions of word processing, spreadsheets, databases, presentation and others, which may use templates, scripts, macros, batch files or Agents to present a common interface to the worker, no matter which computer they happen to be using. 
+
+ CAD-CAM 
+ Computer-Aided-Design and Computer-Aided-Manufacturing 
+
+ JAD 
+ Joint Application Development is a popular systems development technique, which creates a task force of users, managers and IS together during SDLC phases. 
+
+ Task Force 
+ Committee empowered to accomplish a given objective. 
+
+ RAD 
+ Rapid Application Development reduces time required to design new IS, the all-new "lean" data system! 
+
+ O-O 
+ Object-Oriented systems development is built to a system model based on objects and their interaction, rather than on processes and data flows. 
+
+ Object 
+ Abstract entity which the system may interact with, which has attributes, or "properties", and "methods", or events. 
+
+ Class 
+ Group of objects with similar attributes. 
+
+ Subclass 
+ " Junior college ". 
+
+ Systems Analysis 
+
+ Determining Requirements
+ Analysing Requirements 
+ Evaluating Alternatives and Strategies
+
+ Analysing Requirements 
+
+ Term 
+ Definition 
+
+ Structured Analysis 
+ Examines a system in terms of its inputs, outputs and processes. 
+
+ Process-Centered 
+ Technique using structured analysis using: 
+ 1) Data Flow Diagrams
+ 2) Data Dictionary
+ 3) Process Descriptions 
+
+ DFD 
+ Data Flow Diagrams do not show program logic or processing steps but rather show how data moves through an IS with symbols for identification of components. This is a logical model of the IS. 
+ Symbols include: 
+ 1) Processes 
+ 2) Data Flows 
+ 3) Data Stores 
+ 4) External Entities 
+
+ Process Descriptions 
+ 1) In naming, use a Verb Noun format. 
+ 2) Use standard symbol. 
+ 3) Example: "Create Invoice" or "Verify Order". 
+
+ Data Flow Descriptions 
+ 1) In naming, use an optional Adjective with a singular Noun format. 
+ 2) Use standard symbol. 
+ 3) Example: "Daily Payment" or "Paycheck". 
+
+ Data Store Descriptions 
+ 1) In naming, use a Plural Noun (optional Adjective) format. 
+ 2) Use standard symbol. 
+ 3) Example: "Patients" or "Accounts Receivable". 
+
+ External Entity Descriptions 
+ 1) In naming, use a singular Noun. in ALL-CAPS format. 
+ 2) Use standard symbol. 
+ 3) Example: "EMPLOYEE" or "CUSTOMER". 
+
+ Source Terminator 
+ External Entity which supplies input. 
+
+ Sink Terminator 
+ External Entity which receives output. 
+
+ Context Diagrams 
+ A Top-Level Data Flow Diagram showing the Scope of the system. 
+
+ Diagram 0 
+ A Data Flow Diagram just below the level of the Context Diagram, showing more details of the system. 
+
+ Conventions for DFD 
+ 1) Each Context Diagram must fit on a single page. 
+ 2) The Process name should be the same as the name of the IS. 
+ 3) Use unique names within each set of symbols. 
+ 4) Do not cross lines. 
+ 5) Use abbreviated identifications. 
+ 6) Use unique reference number for each process symbol. 
+
+ Exploded Diagram 
+ Also said to be "partitioned" or "decomposed", it shows the Process in greater detail. 
+
+ Leveling 
+ Process of drawing a series of increasingly detailed diagrams until the desired degree of detail is reached. 
+
+ Balancing 
+ Maintains consistancy among an entire set of diagrams, including I/O data flows, data definitions and process descriptions. In other words, all input and output data flows of the parent are preserved on the child DFD. 
+
+ Data Dictionary 
+ A central storehouse of information about the system's data used to collect, document and organize specific facts about the system, including: 
+ 1) Data Flows 
+ 2) Data Stores 
+ 3) External Entities 
+ 4) Processes 
+ 5) All Data Elements 
+ 6) Other meaningful combinations and relationships 
+
+ Data Element 
+ The smallest piece of data meaningful in an IS. 
+
+ Record 
+ A database data structure which includes all related data elements (fields) in a data flow or retained in a data store. 
+
+ Data Structure 
+ How the related data elements are combined and organized. 
+
+ Primary Key 
+ Data Element in a record which uniquely identifies that record. 
+
+ Structured English 
+ A subset of standard English describing logical processes clearly and accurately conforming to these rules: 
+ 1) Only use Sequence, Selection and Iteration. 
+ 2) Use indentation for readability 
+ 3) Use a limited vocabulary found in the Data Dictionary. 
+
+ Decision Tables 
+ Shows a logical structure with all possible combinations of conditions and resulting actions. 
+
+ Decision Trees 
+ Graphical representation of the conditions, actions and rules found in a decision table. 
+
+ Physical Model 
+ Shows how the system's requirements are implemented. 
+
+ Logical Model 
+ Shows what the system's requirements are, regardless of how it must be accomplished physically. May also be referred to as a Business Model. 
+
+ Modular Design 
+ Based on 3 logical building blocks, Sequence, Selection and Iteration. 
+
+ Sequence 
+ The completion of one process step in sequential order, one after another. 
+
+ Selection 
+ The completion of one of two or more process steps based on the results of a test or condition. 
+
+ Iteration 
+ The completion of a process step which is repeated until the results of a predefined condition end the repetition, also known as looping. 
+
+ Gane and Sarson 
+ Popular diagram symbol methodology. 
+
+ Yourdon 
+ Popular diagram symbol methodology. 
+
+ Systems Analysis 
+
+ Determining Requirements
+ Analysing Requirements
+ Evaluating Alternatives and Strategies 
+
+ Evaluating Alternatives and Strategies 
+
+ Term 
+ Definition 
+
+ Make or Buy Decision 
+ Choice between in-house development or purchase of software. 
+
+ In-house Software 
+ Developed within the IS department of the Company. This might be done to: 
+
+ Satisfy unique requirements
+ Minimize changes in business procedures and policies
+ Meet constraints of existing systems
+ Meet constraints of existing technology
+ Develop internal resources and capabilities
+
+ Purchased Software (OTS) 
+ Horizontal or vertical application commercially available. Some reasons for this are: 
+
+ Lower costs
+ Less time to implement
+ Proven reliability and performance benchmarks
+ Implemented by others for observation and research
+ Requires less technical development staff
+ Future upgrades provided by the vendor
+
+ Some other alternatives:
+
+ Purchase OTS software and customize it internally or by negotiation with vendor
+ Outsourcing to other businesses
+ Temporary or permanent contract personnel
+ End-User systems
+
+ Horizontal Application 
+ Software utilized by a broad band of Companies and Users. 
+
+ Vertical Application 
+ Software utilized by a narrowly defined specific type of business. 
+
+ Open Architecture 
+ Nonproprietary design concept that allows many vender's software to run in the same Operating System. 
+
+ Outsourcing 
+ Use of outside companies to handle a portion of a company's workload by contract. 
+
+ End-User systems 
+ Applications which can be operated and managed by end users on their own using software suites. 
+
+ Software Suites 
+ Integrated applications which can easily exchange data. 
+
+ Information Center (IC) 
+ Responsible for supporting end-user computing with hotline assistance and training. 
+
+ Enterprise Computing 
+ Overall Information Management Strategy supporting group, departmental and total company information needs. 
+
+ IS Requirements Evaluation 
+
+ Identify Key Features
+ Estimate volume and future growth
+ Specify hardware constraints
+ RFQ or RFP
+
+ Requirements For Quotation (RFQ) 
+ When specific product is known and price quotations or bids to deliver are solicited. 
+
+ Requirements For Proposal (RFP) 
+ Written list of specifications given to prospective vendors when a specific product has not been specified. 
+
+ Systems Consultant 
+ Specialize in helping companies select software packages. 
+
+ User References 
+ Asking existing users of the application their feedback on operation, reliability, performance and support issues. 
+
+ Benchmark Test 
+ Evaluating two similar systems fairly with a given set of problems and solutions and timing responses. 
+
+ Transaction Processing Performance Council (TPC) 
+ Non-profit organization publishing standards and reports for members and general public. 
+
+ Software License 
+ Right to use software under certain conditions and restrictions. 
+
+ Lease Agreement 
+ Paying for a system and / or support, for a fixed period of time with terms and payments described in a contract. 
+
+ Maintenance Agreement 
+ Technical support on demand throughout the life of a lease agreement. 
+
+ Synching an Upgrade 
+ The process of lessening the impact of upgrading and minimizing outage or downtime by enabling the upgrade and testing to be accomplished in the least-impacting way and time. 
+
+ Outage 
+ Downtime of an Information System. 
+
+ Turnkey System 
+ A complete solution for a business, which has been designed to work efficiently and reliably from first delivery. 
+
+ Site Preparation 
+ May include installation of additional facilities, hardware, cabling or other work required before installation of a new system. 
+
+ Team Approach 
+ Ensures that critical factors are not overlooked and that a sound business decision has been made. 
+
+ Viable Alternatives 
+ Workable or feasible solutions from which to evaluate. Must include a specific recommendation with reasons. 
+
+ Systems Requirements Document 
+ Also called a Software Requirements Specifications Report , it is used to:
+
+ Delineates the new system's requirements
+ Descriptions of alternative solutions considered
+ Specific recommendations to Management
+
+ Future Development Options (Presentation to Management) 
+ After a Presentation to Management with a Systems Requirements Document , the five alternatives are:
+
+ Develop in-house
+ Modify current system
+ Purchase or customize existing applications
+ Perform additional analysis work
+ Stop all further work
+
+ Prototype 
+ An early, rapidly constructed working version of a proposed IS to be used to verify user requirements. 
+
+ Nonprocedural Prototyping 
+ Specify the problem the prototype must solve but not HOW to solve it. 
+
+ Procedural Prototyping 
+ Specify detailed procedures to solve a specific problem. 
+
+ Structured Query Language (SQL) 
+ Non-procedural language for retrieving data from a database. 
+
+ Report Generator 
+ Report writer, from a database, a software suite or dedicated application. 
+
+ Screen Generator 
+ Designing custom form interfaces, data entry formats and procedures which interact with the data dictionary elements interactively in a visual application. 
+
+ Program Generator 
+ Code facilitator or Wizard reducing time and effort in development. 
+
+ Fourth-Generation Language (4GL) 
+ Visual interaction in an integrated development environment (IDE) application for high-level procedural and nonprocedural programming. 
+
+ Wizard 
+ Local Office Guru . 
+
+ Computer-Aided Software Engineering (CASE) 
+ Software tools which help to develop and maintain Information Systems.
+
+ Data design tool
+ Programming tool
+ Program debugger
+ Code generator
+ Project management tool
+ Maintenance tool
+ Forward-engineering tool
+ Reverse-engineering tool
+ Re-Engineering toolkit
+ Central repository
+ Hypertext linking
+
+Several CASE Toolkits are: Visual Analyst and Hyper Analysis Toolkit (HAT). 
+
+ Hypertext 
+ The linking of two documents or information sources by the click of a mouse, such that any unfamiliar term is instantly found in a glossary. HTML is one such tool which allows the linking of information sources for the benefit of the reader. Also a term for reading really fast . 
+
+ Upper-CASE Tool 
+ Front-end tool used during preliminary investigation. 
+
+ Lower-CASE Tool 
+ Back-end tool used during systems development, implementation and operation phases. 
+
+ Forward Engineering 
+ SDLC process. 
+
+ Reverse Engineering 
+ Converts program code into design specifications . 
+
+ Flowcharting 
+ Displays major processes, inputs and outputs of a system used primarily for the graphic design of a physical model. 
+
+ Real-Time System 
+ Processes data while simultaneously giving feedback to the operating system. 
+
+ State-Transition Diagram 
+ Shows the events, states and time-dependent behavior of a real-time system graphically. 
+
+ Systems Design 
+
+ Output Design 
+ Input Design
+ File and Database Design
+ System Architecture
+
+ Term 
+ Definition 
+
+ Logical Design 
+ Also known as the Essential Model , it defines the logical functions and features of the system and relationships among its components. It defines WHAT must take place, not HOW to do it. It therefore does not address the actual methods of implementation. For instance:
+
+ Data required to be entered
+ Specificity of key formats and sort order
+ Defined requirements and constraints
+
+ Physical Design 
+ Plan for the actual Implementation of a logical system. It is concerned with HOW the system will meet the requirements of implementation. For instance:
+
+ Describes the actual process of entering, verifying and storing data
+ Physical layout of data sources and sinks
+ How the reports are generated given the requirements
+
+ Purpose of System Design Phase 
+ Create a Physical Design that satisfies the logical system requirements. Major activities:
+
+ Review System Requirements Document - To become thoroughly familiar with it, not to redo the activity
+ Design system components - Input, Output, Files, Databases and System Architecture
+ Present completed design - Design Specification Document
+
+ If an analyst has unforeseen design issues or problems emerge, they may have to return to requirements analysis, however this may indicate the earlier work was incomplete and is used only in very limited situations.
+
+ Output Requirements 
+ Drive the design process because they describe what the system must produce to meet business needs. 
+
+ Effective System 
+ One which satisfies the defined requirements and constraints, widely accepted by users who use it to support Company objectives. 
+
+ Reliable System 
+ Adequately handling errors, detecting them as early as possible, allowing for correction without damage to the system itself. 
+
+ Maintainable System 
+ Flexible, designed with future modification in mind. 
+
+ Design Considerations 
+
+ User needs
+ Data entry
+ Data flow and storage
+ Use modular, structured processing design
+ Use standard processing guidelines 
+ Be aware of many design tradeoffs.
+
+ Hard-Coded 
+ Not easily manipulated through programming. 
+
+ Design Tradeoffs 
+ Conflicting design goals force the analyst to consider many alternatives constantly. 
+
+ Code 
+ Set of letters, numbers or symbols which represent an item of data used in input and output to a system. Types include:
+
+ Sequence codes
+ Block sequence codes
+ Classification codes
+ Alphabetic codes
+ Mnemonic codes
+ Significant digit codes
+ Derivation codes
+ Cipher codes
+ Action codes
+ Self-checking codes
+
+ When developing a code:
+
+ Keep codes concise
+ Allow for expansion
+ Keep codes stable
+ Make codes unique
+ Use sortable codes
+ Avoid confusing codes
+ Make codes meaningful
+ Use one code for one purpose
+ Keep codes consistent
+
+ Checklist for Output Design 
+ Before considering the output details of a report or screen form the analyst will ask:
+
+ What is the purpose of the output?
+ Who or what needs this output?
+ Why is this output needed?
+ How will it be used?
+ What specific information is to be included?
+ What format should be used?
+ When will the information be provided and how often?
+ How often must the data be updated?
+ Will simultaneous user access be required for screen forms?
+ Are security or confidentiality issues involved?
+
+ Information Delivery 
+ Types of Output
+
+ Printed output
+ Screen output
+ Audio output
+ Fax and Faxback systems
+ Email
+ Internet or Intranet hyperlinks
+ Automated Teller Machines (ATM)
+ Specialized or industry-specific
+
+ Turnaround Documents 
+ Output documents from a system later re-entered into the same or another IS 
+
+ Point of Sale (POS) 
+ Retail IS terminal. 
+
+ Reports Classified by Content 
+
+ Detail reports - One or more lines of output is produced for each record processed
+ Control break reports - This breaks out important data onto it's own line in a report
+ Mock-up reports - Used in a Design Phase to iterate toward greater usability and user acceptance.
+ Exception reports - Shows records meeting specific criteria
+ Summary reports - This one usually goes to Management
+
+ Reports Classified by Distribution 
+
+ Internal reports
+ External reports
+
+ Control Break 
+ When the value of a control field changes, a control break usually causes specific actions. On a Control Break Report, for example, this may be a subtotal. 
+
+ Screen Design Considerations 
+
+ Character output
+ Graphical 
+ Special effects 
+
+ Special video or audio effects are sometimes added to screen displays. Blinking, marquee movement, exploding, fading, reverse video, animation of text or graphics are all easily accomplished but should not be over-used. First, develop a design that is logical and user friendly, then use special effects sparingly. Use these to draw the User's attention to the most important data.
+
+ Output Control 
+ Ensuring information output is correct, complete and secure.
+
+ Integrity
+ Security
+
+ Exception Report 
+ Shows only those records that meet a specific condition or criteria, such as those requiring action. 
+
+ Summary Report 
+ Generally, reports used by individuals at higher levels in the organization include less detail than reports used by lower-level employees, thus a Summary Report leads to a Summary Execution. 
+
+ Paper Report Considerations 
+
+ Page heading lines
+ Column heading lines
+ Column heading alignment
+ Spacing between columns
+ Order of data items on detail lines
+ Detail lines grouping
+ Group headers and footers
+ Report footers
+ Improvement of report design
+ Documenting a report design
+ Design consistency
+ Special form reports
+ Volumes and Time Impacts
+ Report approval
+
+ Systems Design 
+
+ Output Design
+ Input Design 
+ File and Database Design
+ System Architecture
+
+ Term 
+ Definition 
+
+ Main Objectives of Input Design 
+
+ Select most suitable media and methods
+ Efficient input procedures
+ Reduce manual input volume
+ Reduce errors
+
+ GIGO 
+ Garbage In, Garbage Out (An old computer mantra.) 
+
+ Batch input 
+ Batching data means to do a lot of processing simultaneously, often on off-peak-load hours to reduce impact on users and other computing efficiencies. 
+
+ Data Capture 
+ Identification and recording of source data. 
+
+ Data Entry 
+ Process of converting source data to computer-readable format. 
+
+ Data Input 
+ The process whereby the data actually enters the IS. 
+
+ Batch Input 
+ Data entry performed over a period of time with a resultant collection of objects. 
+
+ Control Total 
+ A hash total or some other scheme for data authentication. 
+
+ Online data entry 
+ Web or net data entry considered synonymous with direct data entry. 
+
+ Direct data entry 
+ Usually involves net data entry. 
+
+ Source data automation 
+ Input methods such as online data capture, swipe scanners, or magnetic data strips. 
+
+ Swipe scanners 
+ Using optic or magnetic data strips 
+
+ Magnetic data strips 
+ For rapid input of data 
+
+ Efficient Input Procedures 
+
+ Reduce Input Volume
+ Input necessary data only
+ Do not input data that can be retrieved from system files or calculated
+ Do not input constant data
+ Use codes 
+
+ Single Source of Data 
+ SSD is known by different names at different businesses. It means don't input the same data twice, which would be redundant and leads to errors. 
+
+ Reduce Input Errors 
+
+ Sequence checks
+ Existence checks
+ Data type checks
+ Range and Limit checks
+ Reasonableness checks
+ Validity checks
+ Combination checks
+ Batch Control (volume vs time issues)
+
+ Hash totals 
+ Hash techniques involve the use of summing or other processes which, taken by themselves, might be meaningless information, but is rather used as a reliability check. 
+
+ Key Tasks in Input Design 
+
+ Design Data entry and input procedures
+ Design Source documents for data capture (or other data capture)
+ Design Input data records
+ Design Data entry screens
+ Design User interface screens
+ Design Audit trails and system security measures
+
+ Source Document 
+ Effective Source Document Design implements Input Control, thereby ensuring that input data is correct, complete and secure, which promotes the accuracy and quality of data. 
+
+ Form layout 
+
+ Heading zone
+ Control zone
+ Instruction zone
+ Body zone
+ Totals zone
+ Authorization zone
+ Bottom line: Be Consistent!
+
+ External source documents 
+ Representing the business to the world, the interface must be attractive and professional. 
+
+ Internal source documents 
+ Form appearances are usually less critical than documents or screens seen by the world at large. 
+
+ Input record design 
+ Uses an input record layout chart to document input batch records design. 
+
+ Input record layout chart 
+ Documentation on how the input record design works. 
+
+ Repeating fields 
+ Instancing related data records for new input. 
+
+ Constant or non-repeating fields 
+ Data only input once per record 
+
+ Screen displays 
+
+ Attractive and uncluttered
+ Meaningful, logical order
+ Consistent
+ Specific, understandable, professional
+ Display error messages readably for a long enough time.
+ Special effects
+ Feedback
+ Screen display layout documentation
+
+ Screen Design 
+
+ Presenting Information (Output)
+
+ Attractive and uncluttered 
+ Meaningful and logical
+ Consistent with titles, messages and instructions
+ Consistent with locations and terminology
+ Specific, understandable and professional
+
+ Gathering Information (Input)
+
+ Restrict user access and require data validation 
+ Provide descriptions of all fields
+ Show sample formats required 
+ Require an ending keystroke or click to save or delete data
+ No requirements for special characters on data entry
+ No leading or trailing zeros or other characters like "00" after a decimal
+ Use dropdowns or option buttons where only a few choices are acceptable
+ Provide a way to leave or return to a form to the same state
+ Provide a way to confirm accuracy before saving vital data
+ Provide a way to move among fields in a standard order with the TAB key
+ Allow operator to Add, Change, Delete, Search and View specific records
+ Should match the layout of the source document.
+
+ Process-control screen 
+ A Dialog box. 
+
+ Menu-driven system 
+ Uses one or more menus for navigation. 
+
+ Ergonomics 
+ Improving the work environment by studying how the users interact with it and making appropriate changes. 
+
+ SQL 
+ Structured Query Language is a popular command language processor to narrow the scope of returned information from a database. 
+
+ Natural Language 
+ Allows users to type commands or requests in normal English phrases. 
+
+ GUI 
+ Graphical User Interface is the modern Windows-type environment with mouse support, as opposed to the old DOS command line character-based screen design. Either could be used effectively, although ergonomically, the more modern support for multiprocessing and multiple open windows and letting the user click selections is preferable. 
+
+ WYSIWYG 
+ What You See Is What You Get. Design environment wherein the document you work on is the same as how the document will look when it is published or displayed. 
+
+ Common Interface Objects 
+
+ Command Buttons
+ Dropdown Listboxes
+ Dropdown Comboboxes
+ Dropdown Menus
+ Popup Menus
+ Dialog Boxes
+ Option Buttons (Radio Buttons)
+ Check Boxes
+ Spin Bars
+ Tool Bars
+ Misc. custom objects
+
+ Context-Sensitive Help 
+ Giving the user the ability to find out more about the application environment in the context of where they happen to ask for help. 
+
+ Input Data Security 
+ Protects from loss or damage and recovers data when it might be lost or damaged. Source documents should be stored in a safe location for some specified length of time according to a records retention policy which must meet all legal requirements and business needs. 
+
+ Audit Trail 
+ Every piece of information should be traceable back to the input data that produced it. Thus, an audit trail records the source of all data and the date it was input. 
+
+ Encryption 
+ Encoding data for security reasons. 
+
+ Systems Design 
+
+ Output Design
+ Input Design
+ File and Database Design 
+ System Architecture
+
+ Term 
+ Definition 
+
+ Basic Elements of Data Design 
+
+ Entities
+ Fields
+ Records
+ Files
+ Keys
+
+ Entity 
+ A Person, Place, Thing, or Event for which data is collected and maintained. 
+
+ Field 
+ An Attribute, or Field of a Record is a single characteristic or fact about an Entity. 
+
+ Record 
+ A collection of Fields that describes on instance of an Entity. A Record is made up of (one or more) all the Fields, or Attributes of the Instance which is the Record. 
+
+ File 
+ A set of Records that contains data about a specific Entity. 
+
+ Key Fields 
+ Use Keys to organize, access and maintain data structures.
+
+ Primary Keys
+ Candidate Keys
+ Foreign Keys
+ Secondary Keys
+
+ Attribute 
+ Another term for Field in a Database, (or Property in a Class or Method). 
+
+ Primary Key 
+ Unique (because it has no two customers can have the same customer number) and Minimal (because it contains no information beyond what is needed to identify the entity) identification of a particular member of an entity. 
+
+ Candidate Key 
+ Any Field that COULD serve as a Primary Key. 
+
+ Foreign Key 
+ A Field in one File that must match a Primary Key value in another file in order to establish a relationship or link between the two Files. 
+
+ Secondary Key 
+ Any Field or combination of Fields that may be used to access or retrieve Records, even though they may not be unique, For instance: Sort by ZIP CODE. 
+
+ Non-Key (Field) 
+ Any field not a Primary Key or a Candidate Key, but still, is it a Foreign Key? 
+
+ ERD 
+ Entity-Relationship Diagram is a graphical model of the IS that show the relationships among system entities.
+
+ 1:1 One-to-One Relationship
+ 1:M One-to-Many Relationship
+ M:N Many-to-Many Relationship 
+
+ The relationship between two entities is referred to as Cardinality . Unlike DFDs and flowcharts, ERDs do not depict data or information flows, only their relationships dut does not imply a superior/inferior relationship.
+
+ One-to-One Relationship (1:1) 
+ Exists when exactly one of a second entity occurs for each instance of the first entity. 
+
+ One-to-Many Relationship (1:M) 
+ Exists when one occurrence of the first entity can be related to many occurrences of the second entity, but each occurrence of the second of the second entity can be associated with only one occurrence of the first entity. 
+ Many may mean any number, including zero! (Also see ERD) 
+
+ Many-to-Many Relationship (M:N) 
+ Exists when one instance of the first entity can be related to many instances of the second entity, and one instance of the second entity can be related to many instances of the first entity. 
+ Many may mean any number, including zero! (Also see ERD) 
+
+ Cardinality 
+ How Instances of one Entity relate to Instances of another Entity. For instance, they may be either Mandatory or Optional . (Also see ERD) 
+
+ Cardinality Notation 
+ A graphic shorthand representation of relationships among Entities. 
+
+ Crow's Foot Notation 
+ A specific and common method of Cardinality Notation. 
+
+ Creating an ERD 
+
+ Identify the entities
+ Determine all significant events or activities for two or more entities
+ Analyze the nature of the interaction
+ Draw the ERD
+
+ Record Design 
+ Specifies the fields and identifies the Primary Key, if any, for all records in a particular file. 
+
+ Normalization 
+ Process by which inherent problems and complexities in a record design are identified and corrected. 
+
+ First Normal Form (1NF) 
+ A record is in the First Normal Form if it does not contain a repeating group. 
+
+ Second Normal Form (2NF) 
+ A record is in the Second Normal Form if it is in 1NF and if all fields that are not part of the Primary Key are dependent on the entire Primary Key. If any field in a 1NF record depends on only one of the fields in a combination Primary Key, then the record is not in 2NF. A 1NF record with a Primary Key that is a single field is automatically in 2NF. 
+
+ Third Normal Form (3NF) 
+ A record is in the Third Normal Form if it is in 2NF and if no Non-Key Field is dependent on another Non-Key Field. 
+
+ Conversion of Normalization Forms 
+
+ The three normalization forms constitute a progression in which a record in 1NF is better than one that is unnormalized. but a record in 2NF is better yet, and a record in 3NF represents the best design. 
+ To convert from unnormalized to 1NF: 
+
+ Expand the Primary Key to include the Key of the repeating group
+ Therefore, the new Primary Key may quite likely be a combination of other key fields
+
+ To convert from 1NF to 2NF: 
+
+ Create a new record design for each field in the Primary Key
+ Then, create new record designs for all combinations of Primary Key fields taken two at a time, three at a time and so on until there exists a record with the entire original Primary Key
+ Next, for each new record, designate a field (or combination of fields, as a Primary Key
+ Finally, place each of the remaining fields with its appropriate primary key, which is the minimal key upon which it depends, and remove any record that has had no additional field placed into it
+
+ To convert from 2NF to 3NF: 
+
+ Remove all fields from the 2NF record that depends on another nonkey field
+ Place these into a new record that has the other field as a Primary Key
+
+ Normal forms beyond 3NF exist, however are rarely used in most business-oriented systems. 
+ Design to reduce redundancy. This is what normalization is all about.
+
+ Steps in DataBase Design 
+
+ Create initial ERD
+ Assign all data elements to Entities
+ Create 3NF designs for all records, taking care to identify all Primary, Secondary and Foreign Keys.
+ Verify all Data Dictionary Entries
+
+ DataBase Management vs File Processing 
+
+ Potential problems in a File Processing Environment
+
+ Data Redundancy
+ Inconsistent Data (potential)
+ Slow Data Retrieval across platforms and departments
+
+ Elements of DataBase Management 
+
+ A DBMS , or Database Management System is used to create, access, and control a database. It includes five main components:
+
+ DML . or Data Definition Language is used to describe the structure of the database
+ DML . or Data Manipulation Language provides the necessary commands for all DB operations, such as storing, sorting, retrieving, updating and deleting DB records
+ Query Language (SQL, Structured Query Language or QBE, Query-By-Example both are "Natural Language" examples)
+ Data Dictionary , or central repository for information, schemas and relationships
+ Utility Programs , includes support for interactive processing, DB security, backup and recovery. audit trails, data integrity and shared updates, which means more than one user may use the DB simultaneously
+
+ Characteristics of DataBase Management 
+
+ Some Database strengths:
+
+ Scalability
+ Support for Client-Server systems
+ Economy of Scale
+ Sharing of Data
+ Balancing conflicting requirements
+ Enforcement of standards
+ Controlled redundancy and Data Consistency
+ Security
+ Increased programmer productivity
+ Data independence
+
+ Some Database weaknesses and concerns:
+
+ More expensive hardware requirements
+ More complex, therefore more training and experience required
+ Increased overall development costs
+ More expensive software
+ Proceedures for security, backup and recovery and more complicated and critical in a DB environment
+ Failure of DB may result in seriouly disrupted business operations
+
+ Scalability 
+ A system which can be expanded, modified or downsized easily to meet the rapidly changing needs of a business enterprise. 
+
+ Schema 
+ The complete definition of a database, including all fields, records, relationships, defined queries, tables, etc, and may include one or more subschemas. 
+
+ Subschema 
+ A view of the database, used by one or more programs or users. 
+
+ Client-Server Systems 
+ A Server (many kinds exist and is beyond the scope of this document) can distribute processing control to Clients (users at networked PCs). 
+
+ Economy of Scale 
+ When it is less expensive to use a more powerful system than using several smaller processors. 
+
+ Data Consistency and Controlled Redundancy Redundancy 
+ The enforcements of standards with resultant Data Consistency depends on avoiding unnecessary redundancy. Way, by far, too much excessive redundancy. 
+
+ Data Independence 
+ The flexibility to improve data structures without modifying application programs that use the data. This is done by differentiating how data is stored and how other programs access that data. 
+
+ Data Mining 
+ This enables users to extract information from a variety of sources seamlessly, without having to know where the data is or what form it is in. 
+
+ DataBase Models 
+
+ Some Database types:
+
+ Hierarchical
+ Network
+ Relational
+ Object-Oriented
+
+ Type Benefits:
+
+ Hierarchical and Network DBs are generally used on mainframes
+ Relational DBs can run on many platforms, including PCs
+ Relational DBs are well-suited to Client / Server models
+ Object-Oriented DBs are modular and cost-effective
+
+ Hierarchical Database 
+ Data organized like a family tree, like Explorer in Windows. The disadvantage might be that each Child may have one and only one Parent. Also, the changes to the structure of a record require reorganizing the database and modifying the application programs accessing it. In addition, they are complex and may be difficult to maintain. 
+
+ Network Database 
+ A relationship between two records is defined as a Set and are further defined as Owner and Member Records. It has much of the same disadvantages as the hierarchical model. 
+
+ Relational Database 
+ Data is organized in 2D tables or Relations . Each row is called a Tuple and each column is called an Attribute . Think of a relation as a file, tuples as records, and attibutes as fields.
+ An important advantage would be simplicity. Modify or add new entities, attributes or tables at any time without restructuring the entire DB. Yet, because it is powerful and flexible, it is the predominant design approach in today's business world.
+
+ Object-Oriented Database 
+ An object is a unit of data along with the actions that can affect taht data. It uses an Object Library and is by it's very nature extensible. Methods are the actions defined, and messages execute a method. Each object may inherit methods and attrubutes or properties from other objects in the Object Library. It focuses on data rather than processes, and provides for a high degree of flexibility, ease of maintenance and reduced operating costs through reusability of code. 
+
+ CODASYL 
+ C onference O n Da ta Sy stems L anguages developed various stadards for data systems. 
+
+ Logical Record 
+ Contains field values that describe a single person, place, thing or event and do not depend on how or where the data is stored physically. 
+
+ Physical Record 
+ Also known as a Block, it is the smallest unit of data that is accessed by the Operating System, which reads one physical record at a time. A physical record contains one or more logical records. 
+
+ Blocking Factor 
+ The number of logical records in one physical record. 
+
+ Types of Information System Files 
+
+ Some are more permanent than others!
+
+ Master Files are relatively permanent
+ Table Files are usually permanent
+ Transaction Files are input files to update a Master File so are temporary
+ Work Files (scratch or temp files) are temporary and are deleted when their one task is accomplished
+ Security Files are created and updated regularly
+ History Files are created and saved for historical and archival reasons
+
+ Julian Date 
+ Five-digit number in which the first two digits represent the year and the next three represent the day of the year. January 1, 2000 would be denoted as 00001. The may be extended to seven digits for Century accuracy. (2000001). 
+
+ Absolute Date 
+ Total number of days from some specific base date. Many software applications, including Office, use Absolute Date methodology internally. Example: if 1-1-1900 is the base date, then your taxes are due on the absolute date of 36628 ! 
+
+ Sequential File Organization 
+ Records are stored in no special sequence except the chronological order in which they were entered. To access a given record, therefore, all records before it must be read, thereby slowing operations for larger databases. 
+
+ Random-Access File Organization 
+ Also called Direct Access, because records are accessed independently of each other based on a key. 
+
+ File Organization Types 
+ Sequential, Direct and either Indexed Random or Indexed Nonsequential. 
+
+ VSAM 
+ IBM's Virtual Stroage Access Method uses mapping and block splitting to allocate storage space dynamically. 
+
+ Audit Fields 
+ Special fields within data records to provide additional control or security information. Typically these include:
+
+ Date record was created or modified
+ Name of user who performed the action
+ Number of times the file has been accessed
+
+ Systems Design 
+
+ Output Design
+ Input Design
+ File and Database Design
+ System Architecture 
+
+ Term 
+ Definition 
+
+ System Architecture 
+ Logical design and physical structure of a system, including hardware, sofware, design, and processing methods. 
+
+ Environment 
+ A particular combination of hardware and systems software. See Platform. 
+
+ Platform 
+ A particular combination of hardware and systems software. See Environment. 
+
+ Processing Methods 
+
+ Online Processing
+ Batch Processing
+ Combined Online and Batch Processing
+ Centralized Processing
+ Distributed Processing
+
+ Online Processing 
+ Handles transactions when and where they occur and gives output directly to user.
+
+ Interactive
+ Avoids delays
+ Allows dialog with user
+ Increases productivity
+ Available continuously
+ More expensive than batch processing
+ Effects of downtime far more disruptive
+
+ Batch Processing 
+ Data is collected and processed in groups, or batches, possibly in non-peak computing hours.
+
+ Cost effective
+ Less vulnerable to system disruption
+ Less intrusive to normal operations
+
+ Combined Online and Batch Processing 
+ A Point Of Sale (POS) terminal is one example. Most IS will continue to use a combination of online and batch processing to maximize on the strengths of each. 
+
+ Centralized Processing 
+ Typically involves mainframe and terminals located at one central location to provide information for an entire enterprise. 
+
+ Distributed Processing 
+ Consists of data resources that are accessible at many locations , allowing tasks to be performed by decentralized computers instead of a central computer system. 
+
+ Data Communication Network 
+ A collection of terminals and other equipment that uses communication channels such as telephone lines or the Internet to share data. 
+
+ Multi-User Environment 
+ A networked system with many users. 
+
+ Stand-alone Environment 
+ A non-networked system with one (at a time) user. 
+
+ DDBS 
+ Distributed Database Management System is data stored in more than one location. 
+
+ File Server 
+ Computer delivering data across various local and wide area networks. 
+
+ Client-Server Architecture 
+ Data and processing can be shared throughout the organization. 
+
+ LAN 
+ Local Area Network connects a group of personal computers in a limited area to a server that connects them and allows them to communicate efficiently and securely. 
+
+ WAN 
+ Wide Area Network connects a group of LANs into a network that can span the globe. The Internet is a WAN. 
+
+ Network 
+ Allows hardware, software and other data resources to be shared to reduce expenses and provide more capability to users. 
+
+ Hierarchical Network 
+ One computer, typically a mainframe, controls the entire network. Individual satellite processors control lower levels of processors and devices. 
+
+ Bus Network 
+ A singel communication path connects the mainframe computer, minicomputers, workstations and peripherals. A failure in one workstation may not necessarily affect other workstations. 
+
+ Star Network 
+ One central processor, or hub with one or more workstations connected to it in a star-pattern. 
+
+ Ring Network 
+ Many computers connected in a ring pattern, with data flowing in only one direction. 
+
+ EDI 
+ Electronic Data Interchange is one protocol for communicating in business computing. 
+
+ Network Topology 
+ Refers to the type of networked system architecture, such as Bus, Star, Ring, etc. 
+
+ Suspense File 
+ A common method for handling corrections by creating an error transaction file, known as a Suspense File . 
+
+ Logical Deletion 
+ When a system cannot allow deletion of a record, for archival purposes, yet want to disallow it from live, current data, some administrators use a flag for one field which then marks that record as logically deleted. 
+
+ Processing Functions 
+
+ Data Input
+ Data Validation
+ Data Updating, or file maintainance
+ Data Sorting and Filtering
+ Data Reporting
+
+ Log Files 
+ A copy and/or documentation of modified master file records stored in special places for troubleshooting or recovery.
+
+ Also known as a "Journal" file
+ Contains a copy of each record as it appears before modification
+ Contains a copy of each record as it appears after modification
+ Used in recovery programs or procedures to ensure restoration of accurate data
+ Data Reporting
+
+ File Retention 
+ The length of time a file needs to be archived.
+
+ Master files and table files are permanent and should be retained for the life of the system
+ Transaction files, backup files and others are determined by a combination of processing and legal requirements
+ Many in IS use a generation cycle concept,such that at least 3 backups are available at all times - Grandfather, Parent and Child backup files
+
+ Processing Support 
+
+ Backup and Recovery 
+ File Retention
+ Restart (after correcting a problem)
+ Start-up (transition to new system)
+
+ Checkpoint and Program Status Indicators 
+ A way to restart interrupted batch processing, without having to necessarily begin from the original starting point. 
+
+ Software Design 
+
+ Use a separate update program to maintain each Master File
+ Provide a validation program for each update program that does not perform it's own validation
+ Reduce the number of report programs if possible
+ Identify any programs required to perform special processing
+
+ Program Documentation 
+
+ Program Identification, including Name, Version, Department, Author, dates, etc.
+ Purpose of the program - brief description
+ Files input, output, printed or updated
+ Processing requirements and limitations
+
+ Object-Oriented Design 
+ Bottom-up approach which stresses data, not data flows. 
+
+ System Design Specification 
+ A detailed document which presents the complete design for a system along with detailed costs, staffing, scheduling, etc.
+
+ Management Summary
+ System Components Detail
+ Environmental Requirements
+ Implementation Requirements
+ Time and Costs Estimates
+ Appendices
+
+ System Components Details 
+ The complete design for the new system with all relevant source documents. 
+
+ Systems Implementation 
+
+ Application Development 
+ Installation and Evaluation
+
+ Term 
+ Definition 
+
+ Application Development 
+
+ Quality Assurance
+ Application Development
+ Documentation
+ Management Approval
+
+ Steps in Code Development 
+
+ Strategic Planning
+ Design (pseudocode)
+ Code (program)
+ Test (and retest!)
+ Documentation
+
+ Tools Used in Code Development 
+
+ Structure charts
+ Hierarchy charts
+ Program flowcharts
+ Pseudocode
+ Reuse of code (libraries)
+
+ Testing An Application 
+
+ Syntax errors
+ Debugger warnings
+ Desk checking
+ Structured walkthrough
+ Code review
+ Unit testing
+ Online debugging
+ Code analyzers
+ Stub testing
+ Test plans
+ Link testing
+ System testing
+
+ Documenting An Application 
+
+ Program Documentation
+ System Documentation
+ Operations Documentation
+ User Documentation
+ Program Run Sheet
+ A typical run sheet contains the following:
+
+ Program, job, systems analyst, programmer and system identification
+ Scheduling information, such as run frequency and deadlines
+ Input files and where they originate and output files and destinations
+ Report distributions
+ Special forms required
+ Error and informational messages to operators and restart procedures
+ Special instructions, such as security requirements
+
+ User Documentation 
+
+ System overview which clearly describes all major system features, capabilities and limitations
+ Source document content, preparation, processing and samples
+ Menu and data entry screen options, contents, and processing instructions
+ Reports that are produced regularly or available at the user's request with samples
+ Security and audit trail information
+ Responsibility for specific input, output, or processing requirements
+ Procedures for requesting changes and reporting problems
+ Examples of exceptions and error situations
+ Frequently Asked Questions (FAQs)
+ Explanations of how to get Help and procedures for updating the manual
+
+ Link Testing 
+ Testing two or more programs that depend on each other. Also known as String Testing, Series Testing or Integration Testing. 
+
+ System Testing Major Objectives 
+ Since system testing is a series of tests which involve the entire IS, it must include all typical processing situations and personnel, which includes Users as well as the IS development team.
+ Perform a final test of all programs
+ Emsure that the IS staff has the documentation and instructions needed to operate the system properly and that the backup and restart capabilities of the system are adequate
+ Demonstrate that users can interact with the system successfully
+ Verify that all system compnents are integrated properly and that actual processing situations will be handled correctly
+ Confirm that the IS can handle predicted volumes of data in a timely and efficient manner
+
+ Systems Implementation 
+
+ Application Development
+ Installation and Evaluation 
+
+ Term 
+ Definition 
+
+ Operational Training 
+ No system can be successful without proper training
+
+ User training
+ Manager training
+ IS staff training
+ Vendor training
+ In-house vs. Outside resource training
+
+ Training Manual 
+ A typical training manual would probably include the following:
+
+ Table of Contents
+ Introduction
+ Who Should Read This Manual
+ Getting Started Section
+ Lessons
+ Reference Manual
+ Appendices
+ (May include tutorials, which are self-paced interactive, learning modules)
+ Error Messages
+ Codes
+ Index
+
+ Operational vs Test Environments 
+ In a test environment, the data is test data only, meaning the results are non-business oriented, but rather of a troubleshooting, and thus tempory nature. 
+ In an operational, or production environment, access is limited to known and trusted users and is strictly controlled. 
+ A copy, though not "live", of the operating system and programs and sample data can be a test platform to verify the effect of any enhancement or modification to the "live", or production system.
+
+ File Conversion 
+ Only after establishing the new system's operational environment and performing the necessary training, you can begin the conversion process of the old IS to the new IS. The old system will probably be able to "export" files to a format usable by the new IS. 
+
+ System Changeover 
+ The process of putting the new IS online and retiring the old system. There are four main changeover approaches: 
+ Direct cutover
+ Parallel operation
+ Pilot operation
+ Phased
+
+ Direct Cutover 
+ Changeover occurs immediately when the new system becomes operational. Usually the least expensive method, but involves more risk. 
+
+ Parallel Operation 
+ Both the old and the new systems operate fully for a specified period. The output from both systems, having identical input, should reveal any problems with the new system. 
+ Parallel Changeover is not practical if the old and new systems are incompatible technically, or if the operating environment cannot support both systems. 
+ It is also the most expensive but the least risky .
+
+ Pilot Operation 
+ Implement the complete new system at a selected location of the company as a test platform before implementing on a wider scale. 
+
+ Phased Cutover 
+ Implement the new system in stages or modules, not all at once 
+
+ Post-Implementation Evaluation 
+ Assesses the overall quality of the IS and verifies that the new system meets specified requirements, complies with user objectives and achieves the anticipated benefits. 
+ A typical evaluation includes feedback for the following areas:
+
+ Accuracy, completeness and timeliness of system output
+ User satisfaction
+ System relliability and maintainability
+ Adequacy of system controls and security measures
+ Hardware efficiency and platform performance
+ Effectiveness of database implementation
+ Performance of the IS team
+ Completeness and quality of documentation
+ Quality and effectiveness of training
+ Accuracy of cost-benefit estimates and development schedules
+
+ Evaluation of a System 
+ These represent some of the investigative techniques employed when performing a Post-Implementation Evaluation.
+
+ Interview members of managment and key users
+ Observe users and operations personnel actually working with the new IS.
+ Read all documentation and training materials
+ Examine all source documents, output reports and screen displays
+ Gather information and opinions from a large number of users
+ Analyze maintenance and help desk logs
+
+ Whenever possible, evaluation should be conducted by people not directly involved in developing the system. 
+
+ Final Report To Management 
+ Implementation phase of the SDLC Final Report should include:
+
+ Final versions of all system documentation
+ Planned modifications and enhancements to the system
+ Recap of all systems development costs and schedules
+ Comparison of actual costs and schedules to the original estimates
+ Post-Implementation Evaluation
+
+ Systems Operation and Support 
+
+ Support Activities
+ Maintenance Activities
+ Managing Systems Operation and Support
+ Configuration Management
+ Managing System Performance
+
+ Term 
+ Definition 
+
+ Support Activities 
+
+ User Training and Assistance
+ Information Centers and Help Desks
+
+ Maintenance Activities 
+
+ Operational costs are both fixed and as-needed (lease costs vs. supplies)
+ Maintainance expenses includes spending to support Maintenance Activities
+ Changing programs, procedures, or documentation to ensure correct system performance
+ Adapting the system to changing requirements
+ Making the system operate more efficiently
+
+ Types of Maintenance Activities 
+
+ Corrective - done to fix errors
+ Adaptive - adds new capability and enhancements
+ Perfective - improves efficiency
+
+ Near the end of a system's useful life, maitenance expenses increase repidly due to adaptive maintenance and a higher level of perfective maintenance.
+
+ Managing Systems Operation and Support 
+
+ Maintenance Team
+ Configuration Management
+ Maintenance Releases
+
+ Maintenance Team 
+ Consisting of one or more systems analysts and programmers with effective interpersonal and communications skills, creative, energetic and eager for new knowledge. Some consider the maintenance projects to offer the best learning experience for newly hired and recently promoted IS staff members. It may be in fact more difficult work, however. 
+
+ Configuration Management 
+
+ Maintenance Request
+ Initial Action on Request
+ Final Disposition of Request
+
+ Maintenance Releases 
+ Methodology whereby all non-critical changes are held until they can be implemented at the same time. Each change is documented and installed as a new version of the the system which is then called a release . 
+
+ Analysis 
+ Examining the whole in order to learn about the individual elements . 
+
+ Synthesis 
+ Studying the parts in order to understand the entire system . 
+
+ Managing System Performance 
+
+ Performance and Workload Measurement
+
+ Response Time
+ Turnaround Time
+ Throughput
+
+ Capacity Planning
+ What-If Analysis
+
+ Performance 
+ System performance directly affects users who rely on it to perform their job functions. Current system performance should be monitored by IS staff, anticipating future needs. 
+
+ Response Time 
+ Overall time between a request for system activity and the delivery of the response. Measured between the time a user clicks on a command button and the time the final output is available for use, the response time is affected by the system design, capabilities and processing methods such as data communication factors. 
+
+ Turnaround Time 
+ Measures the efficiency of central computer operations. 
+
+ Throughput 
+ Measures the efficiency of the computer itself, or a data communications network. 
+
+ Capacity Planning 
+ A process that monitors current activity and performance levels, anticipates future activity, and forecasts the resources needed to provide and sustain desired levels of service. 
+
+ What-If Analysis 
+ A process whereby one variable (or more) is changed to measure the effect on other elements. 
+
+ System Obsolescence 
+ A system is obsolete when its functions are no longer required by users or when the platform becomes outmoded or is no longer cost-effective to operate and maintain. 
+
+ Top Six Signs of System Obsolescence 
+
+ Maintenance history documentation shows steadily increasing adaptive and corrective maintenance
+ Operational costs or execution times are rapidly increasing and routine perfective maintenance does not reverse or slow the trend
+ A new off-the-shelf (OTS) application becomes available that provides the same or additional services more efficiently, faster, or less expensively than the current system
+ Technology becomes available which offers the same or additional functions more efficiently
+ Maintenance changes or additions are difficult and expensive to perform
+ Users request significant new features to support business requirements
+ Bill Gates needs a new space station! ( Just kidding, Bill! )
+
+ Examples of Perfective Maintenance Projects 
+
+ Additional high-speed memory
+ Macros or Scripts to handle repetitive tasks
+ Upgrade modems to latest technology
+ Replace network cabling with fiber optics
+ Create a code module that compresses data files before net transmission
+ Rewrite a program in a new nonprocedural language
+ Redesign a graphical interface to provide greater flexibility
+ Reorganize program modules to interact more efficiently
+ Develop a library of reusable code modules
+ Create multiple desktop settings so several users can share the same PC
+ Replace older stroage devices with high-speed disk technology
+ Use OOP for application development
+ Convert slower batch processing tasks to online procedures
+ Replace older technology components with newer technology piecemeal throughout the system.
+
+ Types of CASE Tools For Systems Maintenance 
+
+ Performance monitor providing data on program execution times
+ Program analyzer that scans source code, providing data element cross-reference information and helps evaluate the impact of a program change
+ Interactive debugging analyzer that locates source of a programming error
+ Restructuring tool or a reengineering tool (reverse engineering)
+ Automated documentation tools
+ Network activity monitors
+ Workload forecasting software
+
+ Cut-and-pasting of code permitted for non-commercial use. 
+ Check out my source code: <Right-Click> | View Source 
+ Thank you. 
+ Back to the Beginning of this page

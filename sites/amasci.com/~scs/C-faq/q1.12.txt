@@ -1,0 +1,29 @@
+Question 1.12 
+
+ Question 1.12 
+ What's the auto keyword good for?
+
+ Nothing;
+it's archaic.
+See also question
+ 20.37 .
+
+ References:
+
+K&R1 Sec. A8.1 p. 193
+
+ANSI Sec. 3.1.2.4, Sec. 3.5.1
+
+ISO Sec. 6.1.2.4, Sec. 6.5.1
+
+H&S Sec. 4.3 p. 75, Sec. 4.3.1 p. 76
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

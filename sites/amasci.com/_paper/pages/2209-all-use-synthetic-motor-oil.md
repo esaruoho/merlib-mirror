@@ -1,0 +1,32 @@
+---
+title: "all_use_synthetic_motor_oil"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/engine/all_use_synthetic_motor_oil.html
+order: 2209
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# all_use_synthetic_motor_oil
+
+*Source page: `~dalus/bmw/all/engine/all_use_synthetic_motor_oil.html`*
+
+[UnofficialBMW.com](http://www.unofficialbmw.com)
+
+\[an error occurred while processing this directive\] <span id="null">From digest.v6.n451 Sun Mar 30 10:58:39 1997</span>\
+From: bmrfamly@nwlink.com (Dan, Marilyn, Phil Patzer)\
+Date: Sat, 29 Mar 1997 21:06:37 -0800\
+Subject: synthetic motor oil at Gateway Tech\
+
+A couple of things were agreed to by almost everyone at St Louis. Synthetic oils.......Just do it! Then the debate about how long to use it between changes.\
+I don't have motor stands & research motors, just the BMW's coming to my shop for the last 30 yrs. I have Some engines on Mobil 1, going 350k miles without being cracked open.\
+I try to change my own annually or at 25k mile intervals....sometimes that slides a bit as there are 14 BMW's in my direct family. And Believe me all family members expect free parts and service, with lifetime warranties...\
+The worst wear an engine ever sees is on a dry start-up after an oil change. So to the dilligent owner changing his dinasour gruel every 2,500 miles, based on a 25,000 mile year, that's 10 dry starts annually compared to my one. I bet the crank bearings and journals and rocker shafts and cam lobes and rocker scuff pads get more wear during your ten dry starts, than my engines get during my 25,000 miles of running between changes. I also run it in all my BMW bikes. It it obviously better in the air-cooled bikes getting caught and slowed in town traffic. Watch your oil temp gauges, it'll terrify you if you're running "plane-ole oil". A couple things really, really work.....Bilsteins, Halogens, and Synthetic oils.'........\
+Lets put the fun back into BMW
+
+Dan Patzer\
+Bimmers Only\
+67 1800 77 R100RS 85 732i 92 K75RT

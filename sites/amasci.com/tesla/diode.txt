@@ -1,0 +1,38 @@
+HIGH VOLTAGE DIODES                                      Bill Beaty
+
+Once good source for HV diodes is... Old Microwave Ovens!  These typically
+contain a 5KV to 10KV diode at fairly high amperage ( 0.5A or higher). 
+Follow safety precautions during disassembly of course, same as you would
+when messing with TV sets, etc.  Hint: some ovens hide their diodes within
+the can of the high voltage filter capacitor. 
+
+Some electronics suppliers now sell replacement oven diodes, so
+high-current, hi-volt diodes are no longer that rare.  Check out your
+local seller of TV repair parts (ECG, NTE, etc. replacement lines). 
+
+Or, try Allied Electronics.  They sell a variety of high current
+rectifiers at kilovolt level (intended for microwave ovens as well as
+x-ray machines).  Cheap too (though the company has a minimum order $)
+Contact them for their catalog:  http://www.allied.avnet.com
+
+
+TESLA SECONDARY WIRE
+
+Where to find wire for Tesla Coil secondaries?  For full price, Allied
+Electronics carries 1lb and 5lb spools.  http://www.allied.avnet.com
+
+But a creative scrounger can do better.  Power transformers!  If you
+obtain an old power transformer, you can pry a couple of laminations free,
+and then the whole stack will easily disassemble.  You're left with a
+spool full of wire for free.  Besides power transformers, larger "choke" 
+coils are also a source of free wire. 
+
+Another possibility: neon sign transformers can be disassembled by
+carefully heating them in an oven to melt the tar.  Be warned that this is
+a fire hazard, and can also fill your kitchen with nasty fumes.  I
+personally haven't taken any "neons" apart, and don't know if the wire
+size is appropriate for tesla coils.  Usually #22 gauge or large wire is
+recommended.  I suspect that the secondary of a neon is far thinner wire,
+maybe too thin for a good TC secondary, but perhaps the transformer
+primary coil can be salvaged. 
+

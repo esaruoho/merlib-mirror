@@ -1,0 +1,308 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=iso-8859-1">
+	<TITLE>Roger - Programming</TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 1.1.0  (Linux)">
+	<META NAME="AUTHOR" CONTENT="Roger &lt;roger@eskimo.com&gt;">
+	<META NAME="CREATED" CONTENT="20010602;16213900">
+	<META NAME="CHANGEDBY" CONTENT="Roger Zauner">
+	<META NAME="CHANGED" CONTENT="20040728;493800">
+	<META NAME="DESCRIPTION" CONTENT="My personnal webpage providing info on my photography, linux related items, as well as anything else that's not important.">
+	<META NAME="KEYWORDS" CONTENT="rpm, srpm, specfile, spec, avifile, backup, bash, script, bc245xlt, bearcat, gnokii, jhead, linux, mjpegtools, nokia, roger, script, sctl, zauner, photo, photography, digital, image, imaging, database, minolta, dimage, 7i, crw, mrw, raw, mrwtoppm, linpha, irda, dell, inspiron, 8100, i8k">
+	<META NAME="abstract" CONTENT="My personnal webpage providing info on my photography, linux related items, as well as anything else that's not important.">
+	<STYLE>
+	<!--
+		P { color: #ffffff }
+		H5 { color: #ffffff }
+		BLOCKQUOTE { color: #ffffff }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="en-US" TEXT="#ffffff" BGCOLOR="#000000" DIR="LTR">
+<OL>
+	<P><B>Programming Projects</B> - All files can be found in
+	<A HREF="http://www.eskimo.com/~roger/files">http://www.eskimo.com/~roger/files/</A><BR>Newer
+	additions are at bottom of the page. 
+	</P>
+	<H5>This page was&nbsp; last edited on:&nbsp; Fri Jun 25 13:52:52
+	EDT 2004</H5>
+	<LI><P STYLE="margin-bottom: 0in"><A HREF="http://sourceforge.net/projects/bc-sctl/"><B><U>SCTL
+	- Serial/com port utility for the BC245XLT</U></B></A> -&nbsp; Is a
+	small linux utility to backup data from a Bearcat scanner, as well
+	as perform other operations. &nbsp;(2002.08.11)</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Ok. &nbsp;It would appear the
+		author of this utility hasn't updated his page in a while, as such,
+		I'm going to an SRPM here. 
+		</P>
+		<UL>
+			<LI><P STYLE="margin-bottom: 0in"><A HREF="../SRPMS/files/SRPMS/">sctl-0.2.0-2mdk.src.rpm
+			&nbsp;(Jan 30, 2002)</A></P>
+		</UL>
+		<LI><P STYLE="margin-bottom: 0in">My srpm also offers a manfile
+		also for the sctl. &nbsp;If you're interested with the developement
+		of this utility, please try contacting me also at &quot;roger at
+		eskimo.com&quot; but I won't be able to do anything for about six
+		months or so until the newer BC250D is released. &nbsp;There is
+		also a bug with the allowed formating of the ~/.sctl file were it
+		causes sctl to segfault. &nbsp;Omitting the blank line at the end
+		of the file supresses the error(?)</P>
+	</UL>
+	<LI><P><A HREF="http://sourceforge.net/projects/winbond-webcam/"><B>Creative's
+	Webcam Go</B></A>- Have the starts of a driver to enable this device
+	in the Linux o/s.&nbsp; This is very raw and don't expect anything
+	to work yet.&nbsp;&nbsp;</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Just got some news today from the
+		webcamgo mailing list. &nbsp;It's now said that the Webcam Go now
+		is able to produce some rather raw black &amp; white snapshots by
+		using the code from here: &nbsp;<TT>cvs -z3
+		-d:pserver:anonymous@cvs.linux-usb.sourceforge.net:/cvsroot/linux-usb
+		co usbvideo</TT> &nbsp;&lt;-- If you have problems compiling
+		usbvideo.c, you might want to try adding <TT>-DEXPORT_SYMTAB</TT>to
+		the CFLAGS line of the Makefile. &nbsp;The code is said to be built
+		on the kernel-2.4.4 tree per hear-say. &nbsp;Unfortunately, I've
+		yet to be able to load the webcamgo.o driver with the
+		&quot;kernel-2.4.16 version's usbvideo.o&quot; because usbvideo has
+		gone through some changes since kernel-2.4.4. &nbsp;If somebody has
+		worked the webcamgo.c code to build on 2.4.16 tree, let me know.
+		(2001.12.14) 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">We're currently struggling to get
+		the webcamgo.c compatable with kernel-2.4.16 version's of
+		usbvideo.o (2001.12.16) 
+		</P>
+		<LI><P STYLE="margin-bottom: 0in">Mine is now collecting dust
+		somewhere. mmm...just realized i lost it now. imho, there are
+		probabely better h/w solutions out there with linux drivers already
+		(ie phillips). &nbsp;(2002.08.11)</P>
+	</UL>
+	<LI><P><A HREF="../files/bin/bashscript.backup"><B>Backup Bashscript</B></A>
+	- Have already written up a small Bash script to do backups of files
+	and folders and can be placed in the cron folder for timely
+	backups!&nbsp; Many out there, but this one is over-all simplicity
+	exempting most of the un-needed stuff which is not used on most
+	Linux boxes. (I now utilize rsync (or draksync) to backup to an
+	external ieee1394 hdd and a similar script (drakbackup) has been
+	incorporated into Mandrake 9.0.&nbsp; (2002.12.18)</P>
+	<LI><P><A HREF="http://www.mozilla.org/"><B>Mozilla</B></A>- A huge
+	open source project for which I would highly recommend any
+	enthusists to get involved with.&nbsp; Or, if you just want to check
+	out some nightly builds, go here for pre-built stuff at a place
+	called <A HREF="http://www.mozillazine.org/">Mozillazine</A>. &nbsp;I
+	just re-compiled <TT>mozilla-0.9.7-2mdk.src.rpm</TT> with<TT>CFLAGS=-O9
+	-mcpu pentiumpro -march pentiumpro</TT> and I must say, &quot;Oh my!
+	&nbsp;Mozilla is sure starting to perform nicely!&quot; &nbsp;I
+	would recommend users to upgraded to the latest on the Mandrake
+	Cooker site and recompile also. &nbsp;Just be aware that Cooker is
+	developement and there maybe unknown bugs &amp; you may incure
+	dependency problems.</P>
+	<LI><P><A HREF="http://avifile.sourceforge.net/"><B><U>Avifile</U></B></A>
+	- A video recording tool. &nbsp;This is alpha quality code and I
+	usually use the more stable XAwtv tool for recording.</P>
+	<UL>
+		<LI><P STYLE="margin-bottom: 0in">Be Advised, many SRPM's are not
+		built correctly for Mandrake! &nbsp;As such, I've have an updated
+		<A HREF="avifile.spec"><U>avifile.spec</U></A> to build for
+		Mandrake. &nbsp;The problem is with specifing the qt2 files. &nbsp;If
+		you don't specify them initially, 'make clean' may not remove any
+		initial Makefiles. &nbsp;So, easier just to rm -rf the avifile-0.6/
+		&nbsp;folder and downloading a fresh copy of the cvs tree.
+		(2001.12.14). (Superseded. See following Mjpegtools build log
+		(2002.06.03) 
+		</P>
+	</UL>
+	<LI><P><A HREF="http://sourceforge.net/projects/mjpeg/"><B><U>The
+	MJPEG/Linux square</U></B></A> - MJPEG Project for Linux
+	(2002.06.03). &nbsp;If you have a bttv848 capture card, you want to
+	grab 1.5 (CVS) as it has added features (from what I'm told). &nbsp;
+	I'm also using a Canopus ADVC-100 for capturing. &nbsp;I first
+	capture with dvgrab and edit with kino. &nbsp;I then use lav2divx to
+	compress. &nbsp;My build log to build mjpegtools-1.6.0 with
+	avifile/divx support <A HREF="divx.install.log">can be found here</A>.</P>
+	<LI><P STYLE="margin-bottom: 0in"><A HREF="http://www.microwerks.net/~hugo/"><B>Mondo</B></A>
+	- A backup utilty (when I get more time). &nbsp;Suppose to be really
+	great and is suppose to create rescue cdrom's like Mandrake cdrom #1
+	does, which is a very useful tool for those that &quot;like to break
+	things&quot; (--a quote from one of the Mandrake Developers) 
+	</P>
+	<LI><P STYLE="margin-bottom: 0in">PVR 501 (model=dp501) ( <A HREF="http://www.dishnetwork.com/content/technology/receivers/dishpvr501/index.shtml">Echostar's
+	Dish Pro 501</A>) - ok. an extraction utility can be found here at
+	<A HREF="http://groups.yahoo.com/group/dishrip/">Dishrip Yahoo
+	Groups</A>. &nbsp;You need to sign up for a Yahoo Groups account and
+	then submit a request to Dishrip (the maintainer) for approval to
+	join. &nbsp;Yes. &nbsp;I know. &nbsp;A hassle but once done I was
+	pretty amazed at how well streamlined Yahoo Groups is. &nbsp;However,
+	the archives are not searchable via google.com :-( &nbsp; &nbsp;As
+	such, I still prefer the Maillling list structure of the GNU
+	community. &nbsp;Dishnetwork has also unveiled a new <A HREF="http://www.dbstalk.com/review/review1.htm">PVR
+	721</A>(model=dp721?) and it supposedly runs a linux based o/s. &nbsp;Is
+	it better? &nbsp;I've heard it is faster and more robust. &nbsp;But
+	that's it. &nbsp;As to whether you can log-into it via a bash shell
+	or what-not, I don't know. &nbsp;It has been on the market from what
+	I hear since July 2002, but I don't see any info about it on
+	dishnetwork.com.&nbsp;For more info on the PVR 721's inards, see
+	http://www.innermatrix.net/forums/showthread.php?s=&amp;threadid=32803
+	and also search for all posts posted by dmc5439 and omega-EFA (I've
+	found most of these threads deal with illegally hacking the pvr to
+	gain access to channels for which the user neither subscribed or
+	paid for.&nbsp;I neither condone nor do I endorse this type
+	activity.)&nbsp;I've also been advised that the video feeds saved to
+	the hdd on the pvr 721 are triple des encrypted.&nbsp;As to trying
+	to extract those recordings, I am not sure of the legallities.&nbsp;(ie:
+	extracting a free public broadcast that was saved to the pvr 721) 
+	</P>
+	<LI><P STYLE="margin-bottom: 0in"><A HREF="http://www.gnokii.org/">Gnokii</A>
+	- A user interface for <A HREF="http://www.nokiausa.com/">Nokia</A>
+	brand cellular phones. &nbsp;It now has support for the model 8290.
+	;-) &nbsp; Other programs that are usable with the model 8290 are
+	<A HREF="http://marcin-wiacek.fkn.pl/english/main.htm">mygnokii2</A>
+	and <A HREF="http://www.pxh.de/fs/gsmlib/">gsmlib.</A> &nbsp;However,
+	mygnokii2 is commandline only until all the bugs are worked out.
+	&nbsp;Once that is done, the author will re-integrate the gui.
+	&nbsp;Gsmlib is pretty basic. &nbsp;I don't have much time to mess
+	with this stuff for the time being so I'm using Gnokii and am pretty
+	happy with it's performance (just some bugs that I'd like to fix).
+	&nbsp;You need to get the cvs version of gnokii that is older then
+	Aug 06 2002 or older then 0.4.3 release. &nbsp;Support for the 8290
+	wasn't added until very recently. &nbsp;(Also, make sure you unload
+	the maestro sound module and the lt_modem/lt_serial drivers (or any
+	others) prior to booting linux if your having problems starting irda
+	services.) &nbsp;As far as Gnokii is concerned, the 8290 is
+	considered as a model = 6110 within the /etc/gnokiirc (also, use
+	connection = irda) 
+	</P>
+	<LI><P><A HREF="http://www.sentex.net/~mwandel/jhead/">JHead</A> -
+	Jhead extracts the EXIF data from image files which are usually
+	associated with Digital Cameras.&nbsp; Also provides makehtml.<BR>The
+	latest info and versions can be found at
+	<A HREF="http://www.sentex.net/~mwandel/jhead">http://www.sentex.net/~mwandel/jhead</A>
+		</P>
+	<UL>
+		<LI><BLOCKQUOTE STYLE="margin-bottom: 0in">I have merged both the
+		latest release of jhead-1.8 and the makehtml (automagickly create
+		&nbsp;html thumbnail directories) into one package. 
+		</BLOCKQUOTE>
+		<UL>
+			<LI><BLOCKQUOTE STYLE="margin-bottom: 0in"><A HREF="../files/SRPMS">jhead-1.8-2mdk.src.rpm</A>
+			&nbsp;(July 28, 2002)</BLOCKQUOTE>
+		</UL>
+		<LI><BLOCKQUOTE STYLE="margin-bottom: 0in">I have also modified the
+		makehtml to create &quot;black background&quot; with &quot;light
+		grey font&quot; (this &nbsp;provides the images the increased
+		contrast that they need for easier viewing -- it also appears to be
+		a defacto for the photography world to post photos on a black
+		background). 
+		</BLOCKQUOTE>
+		<LI><BLOCKQUOTE STYLE="margin-bottom: 0in">I created a link at the
+		top of the page for the html pages to view the exif image
+		information that jhead creates. (It would appear that the file that
+		makehtml creates with jhead needs better formatting. &nbsp;ie.
+		placing 1 to 2 blank lines between each images info section). 
+		</BLOCKQUOTE>
+		<LI><BLOCKQUOTE STYLE="margin-bottom: 0in">I think that the
+		makehtml utility should also format the html thumbnail page with a
+		slight space in between the verticle row of images. &nbsp;The
+		horizontal row of images already have this space. &nbsp;(see my
+		Photographs for an example of this as well as what I have mentioned
+		previously. &nbsp;If anyone gets around to patching the code to do
+		this, or any other modifications that might peak my interest, email
+		the patch to me also at &quot;roger at eskimo.com&quot; and I'll
+		think about implementing it into the srpm. &nbsp;(2002.08.11) 
+		</BLOCKQUOTE>
+		<LI><BLOCKQUOTE><A HREF="http://www.varp.net/photos/digital.html">Image
+		Organization Plan</A>&nbsp;(2002.12.18) In a desprite attempt to
+		database my quickly growing digital image collection, I found this
+		page.&nbsp; It gives a decent overview of a standard method for the
+		process. (...and, it's about the only page that I have found yet
+		for Linux (or FreeBSD).) 
+		</BLOCKQUOTE>
+	</UL>
+	<LI><P><A HREF="e17">E17</A> - Here are the beginnings of the E17
+	rpm packaging. &nbsp;Very rough, but just getting somebody started
+	on packaging E17 (the next version of Evolution Desktop. &nbsp;The
+	main site for enlightenment along with it's cvs can be found
+	here<A HREF="http://www.enlightenment.org/">http://www.enlightenment.org/</A>
+		</P>
+	<UL>
+		<LI><BLOCKQUOTE>Well, as of 20021116, the cvs is failing to build.
+		Looks like raster did some major function renaming in evas which
+		appears to kill the builds of ebits, etox, etc. I just remembered
+		that I do have a cvs from 200208. Maybe I'll continue trying to
+		build a set of SRPM's. 
+		</BLOCKQUOTE>
+	</UL>
+	<LI><P STYLE="margin-bottom: 0in"><A HREF="../files/SRPMS">i8kutils-1.17-2mdk.src.rpm</A>
+	- Are needed for Dell Inspiron and Latitude laptops to utilize
+	adjust the fans and use the buttons on the laptops. &nbsp;This
+	contains an additional script called /etc/rc.d/init.d/i8kutils to
+	associate the volume buttons with aumix. &nbsp;(20021222) 
+	</P>
+	<LI><P STYLE="margin-bottom: 0in"><A HREF="../files/SRPMS">i8kpci-saveconfig-1.0-1mdk.src.rpm</A>
+	- Required for Dell I8K laptop network cards to perform a successful
+	restore from apm suspend becuase of buggy kernel drivers (ie:
+	actiontek w/ eepro100).&nbsp;(20021129) 
+	</P>
+	<LI><P STYLE="margin-bottom: 0in"><A HREF="../files/SRPMS">crw-1.92-1mdk.src.rpm</A>-
+	Converts raw to ppm format for canon digital cameras and others.&nbsp;
+	This was developed for the Canon raw file format but appears to be
+	the same format used by Minolta in my Dimage 7i digital camera.&nbsp;
+	This code is copyright, however, it is freely available.&nbsp; The
+	oringal authors website including source code is:
+	<A HREF="http://www2.primushost.com/~dcoffin/powershot/">http://www2.primushost.com/~dcoffin/powershot/&quot;</A>.&nbsp;(20030115)
+		</P>
+	<LI><P STYLE="margin-bottom: 0in"><A HREF="../files/SRPMS">mrwtoppm-0.0.a8-1mdk.src.rpm</A>
+	- Converts raw to ppm format for digital cameras. &nbsp;This also
+	includes a very nice Gimp Plugin. &nbsp;If you work with a mrw
+	files, this is probably the package you want. &nbsp;Original source
+	location is <A HREF="http://home.swbell.net/dobroom/mintoppm/">http://home.swbell.net/dobroom/mintoppm/</A>.&nbsp;(i'm
+	in the process of preparing an SRPM/specfile. This also appears to
+	be under the GNU License so I may submit this to Mandrake
+	officially.)&nbsp; (20030212)</P>
+	<LI><P STYLE="margin-bottom: 0in"><A HREF="http://linpha.sourceforge.net/">Linpha</A>
+	- Linpha is a photo database utility using MYSQL, PHP and Apache
+	combination.&nbsp; I have created some experimental <A HREF="../files/SRPMS">SRPMS</A>
+	and pre-built <A HREF="../files/RPMS">RPMS</A>.&nbsp; This tool is
+	very similar to the utility that I want to use to archive/backup my
+	growing &gt;5GB digital image collection.&nbsp; It would be pretty
+	cool if this utility kept track of archived photos burned to CD-R.&nbsp;
+	(20030227)</P>
+	<LI><P STYLE="margin-bottom: 0in"><A HREF="irda.txt">Dell Inspiron
+	8100 and IRDA Quick Howto</A> - I've spent some time configuring the
+	new smsc-ircc2 driver within kernel-2.6.1 to work with my Dell
+	Inspiron 8100 laptop.&nbsp; You can see my quick howto in ascii/text
+	format here <A HREF="irda.txt">irda.txt</A>.&nbsp; All I've got to
+	say now, is it finally works without ltmodem conflicting! (I think)
+	(20040128)</P>
+	<LI><P STYLE="margin-bottom: 0in"><A HREF="iriver_ihp-120.html">Using
+	an IRIVER IHP-120 from within Linux</A> - I've created a quick howto
+	for using an Iriver IHP-120 with Linux which is intended to be a
+	supplementary to some other websites concerning similar
+	information.&nbsp; I felt some information was amiss.&nbsp; The
+	device is an mp3 portable player capable of playing the vorbis/ogg
+	format.&nbsp; (20040422)</P>
+	<LI><P>Using the Sony Erricson GC82 with AT&amp;T EDGE Wireless in
+	Linux - I have gathered my configuration files and knowledge on
+	enabling this device under Linux.&nbsp; The HTML file is here
+	<A HREF="../files/doc/howto-gc82.html">files/doc/howto-gc82.html</A>
+	or the pdf file is here <A HREF="../files/doc/howto-gc82.pdf">files/doc/howto-gc82.pdf</A>.&nbsp;
+	I've also just aquired the <A HREF="http://webapp.etsi.org/exchangefolder/ts_100916v070800p.pdf">PDF
+	file detailing all the AT Commands</A> for the GC82.and the url
+	requires a web browser to download the pdf (wget may not work).  I
+	took some time to also create a gc82con.sh script to automatically
+	connect to either the local or roaming networks and a gc82sig.sh
+	script that continuously loops checking for signal level.  Both
+	files can be found in my file folder
+	<A HREF="http://www.eskimo.com/~roger/files/">http://www.eskimo.com/~roger/files/</A>
+	 --&nbsp; As for the Sierre Wireless with TMOBILE Wireless, I have
+	failed as I keep getting a <A HREF="../files/doc/ac750-error.txt">ConfRej
+	error</A> in my syslog.&nbsp; Also note the AC750 device will
+	conflict with irda (smcc) using kernel-2.6.6.&nbsp; Further debug
+	info can be found in here <A HREF="http://bugme.osdl.org/show_bug.cgi?id=2945">Kernel
+	Bugzilla bug #2945</A>.&nbsp; (20040710)</P>
+</OL>
+<P><BR><BR>
+</P>
+</BODY>
+</HTML>

@@ -1,0 +1,104 @@
+---
+title: "all_adding_a_k_n_air_filter"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/engine/all_adding_a_k_n_air_filter.html
+order: 2142
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T05:55:48Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# all_adding_a_k_n_air_filter
+
+*Source page: `~dalus/bmw/all/engine/all_adding_a_k_n_air_filter.html`*
+
+[UnofficialBMW.com](http://www.unofficialbmw.com)
+
+\[an error occurred while processing this directive\] <span id="null">From \<@splinter.boeing.com,@triton.ca.boeing.com:txh9383@r757x53.ca.boeing.com\> Tue May 6 16:34:55 1997</span>\
+Received: from mailgate1.boeing.com (\[130.42.28.16\]) by mx2.eskimo.com (8.8.5/8.6.12) with SMTP id QAA06985 for \<dalus@eskimo.com\>; Tue, 6 May 1997 16:34:48 -0700 (PDT)\
+Received: from splinter.boeing.com by mailgate1.boeing.com (SMI-8.6/SMI-SVR4)\
+id QAA20099; Tue, 6 May 1997 16:33:54 -0700\
+Received: from triton.ca.boeing.com by splinter.boeing.com with SMTP\
+(1.37.109.16/16.2) id AA093801389; Tue, 6 May 1997 16:29:49 -0700\
+Received: from r757x53.ca.boeing.com by triton.ca.boeing.com with SMTP (5.61/CRI-80.1)\
+id AA68168; Tue, 6 May 97 16:33:53 -0700\
+Received: by r757x53.ca.boeing.com (AIX 3.2/UCB 5.64/4.03.B4)\
+id AA19673; Tue, 6 May 1997 16:21:18 -0700\
+From: txh9383@r757x53.ca.boeing.com (Tam Ha)\
+Message-Id: \<9705062321.AA19673@r757x53.ca.boeing.com\>\
+To: \<@triton.ca.boeing.com:dalus@eskimo.com\>\
+Subject: K&N FILTER KIT VS DROP-IN FILTER\
+Date: Tue, 06 May 97 16:21:18 -0800\
+
+Hi Dale,
+
+These are the replies I got concerning the above subject. I've talked to a friend of mine who used a K&N filter kit on his CIVIC SI and he said that it's definitely better than stock...but on the highway it can be fairly noisy. Horsepower wise, he didn't notice that much difference. And then again...It's a Honda not a BMW ...
+
+\>From my own research, I've decided to use the drop-in K&N filter over the\
+cone because horsepower gain is too minimal (about 2 hp) to justify the extra cost \$200 vs \$40. The difference I spent it on Jim C chip.
+
+GOOD LUCK IN YOUR DECISION and read on it'll definitely help you to decide.
+
+Tam <span id="null">From: Rodd Sidney \<bmwrodd@poboxes.com\></span>\
+Subject: K & N Induction Kits\
+Mime-Version: 1.0\
+Content-Type: text/plain; charset="us-ascii"
+
+Visit our WebPage for the BEST prices on K & N DirectFlo Induction kits. We've sold over 200 last year w/ no complaints & many re-orders. Look under product catalog section.
+
+------------------------------------------------------------------------
+
+    Rodd Sidney                 All BMW Discount Parts Web Page
+    bmwrodd@poboxes.com                  http://lochnet.com/bmw
+
+Orderline 800-203-2071 Fax 915-599-8782 Intl 915-590-7770 <span id="null">From: Joe Marko \<joe@hms-motorsport.com\></span>\
+To: "'txh9383@r757x53.ca.boeing.com'" \<txh9383@r757x53.ca.boeing.com\>\
+Subject: K&N\
+Date: Thu, 24 Apr 1997 21:59:01 -0400\
+Mime-Version: 1.0\
+Content-Type: text/plain; charset="us-ascii"\
+Content-Transfer-Encoding: quoted-printable
+
+Tam,
+
+Unless you find some way to direct a lot of cold air to the K&N Cone = type filter kit you will lose HP over at stock filter!
+
+The replacement filter which we sell for \$39.95 will gain you HP = depending on your exact car. It can be as much as 8 hp in an E36 M3 when = a little plastic baffle is also removed.
+
+The cone filter sucks up hot air from the engine which defeats the = advantage of the greater air flow. Less cold air gives you more HP than = more hot air.=20
+
+We have tested this extensively on our DynoJet Chassis Dyno in our shop.
+
+In exchange for the info (and savings lest you by the cone filter setup = for \$200) we would be happy to sell you the filter for \$39.95 plus a = very reasonable shipping charge. We have them in stock. Just send us = your snail mail address and a phone number and time that we can contact = you tomorrow and we will have it out the same day.
+
+Good luck,
+
+Joe Marko\
+HMS motorsport\
+617-631-2269
+
+PS Check out our Web site at http://www.hms-motorsport.com <span id="null">From: Blair Hartsfield \<bhartsfi@telecom.sna.samsung.com\></span>\
+To: "'txh9383@r757x53.ca.boeing.com'" \<txh9383@r757x53.ca.boeing.com\>\
+Subject: K&N\
+Date: Fri, 25 Apr 1997 09:16:22 -0500\
+X-Mailer: Microsoft Exchange Server Internet Mail Connector Version 4.0.837.3\
+Mime-Version: 1.0\
+Content-Type: text/plain; charset="us-ascii"\
+Content-Transfer-Encoding: 7bit
+
+Hi Tam,
+
+For the exact same \$40 as the drop-in, you can order (from any local high performance shop) a 6 in diameter by 9 in long K&N filter with the correct opening to fit the intake opening. You will have to fabricate a mount for the front of the filter. The filter has a screw on the front already, just have to make a bracket from the screw to a point in the intake area (fender wall, cruise control mount is where mine is). Takes a little patience, and diligence to make it look good. Any serious do it yourselfer type should be able to handle this. Mine has passed tech at BMW, Porsche, etc driving events with no problems.
+
+Sounds nice. Kinda Italian engine sounding. "Seems" to add the hp in the upper mid range of rpm, mostly in 3rd and 4th gear. Nothing on low end. I have done this for two 95 M3s, and two VWs. There was a thread about doing this a while back (maybe six months to a year).
+
+BTW, some people think that K&N filters do more harm to the engine than the horsepower is worth. Something about a paper filter is 99% efficient and the K&N is only 98.5% efficient. Whatever.....
+
+Let me know if you want more details, etc...
+
+blair hartsfield\
+Lone Star Chapter BMW CCA\
+Driving Event Coordinator\
+95 M3

@@ -1,0 +1,76 @@
+---
+title: "Regulation"
+source_domain: amasci.com
+source_path: ~rarnold/regulation.htm
+order: 6450
+reachable_from_entry: false
+images: 2
+internal_links: 10
+extracted: 2026-08-07T05:59:15Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Regulation
+
+*Source page: `~rarnold/regulation.htm`*
+
+<table id="AutoNumber1" data-border="1" data-cellspacing="1" style="border-collapse: collapse" data-bordercolor="#FFFFFF" width="100%" data-bgcolor="#336699" height="50" data-bordercolorlight="#FFFFFF" data-bordercolordark="#FFFFFF">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%" data-bordercolorlight="#336699" data-bordercolordark="#336699" data-bgcolor="#336699"><p><strong><img src="CENTERs.JPG" data-border="0" data-align="left" data-hspace="0" width="81" height="44" /> Center for the Defense of Free Enterprise<br />
+ REGULATION</strong></p></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#FFFFFF"><p><strong><a href="index.html" style="text-decoration: none">HOME</a>    <a href="issues.htm" style="text-decoration: none">ISSUES</a>    <a href="opposition.htm" style="text-decoration: none">OPPOSITION</a>    <a href="projects.htm" style="text-decoration: none">PROJECTS</a>    <a href="defenders.gif" style="text-decoration: none">DEFENDERS</a>    <a href="wiseuse.htm" style="text-decoration: none">WISE USE</a>    <a href="book_store.htm" style="text-decoration: none">BOOKSTORE</a>    <a href="archive.htm" style="text-decoration: none">ARCHIVE</a></strong></p></td>
+</tr>
+</tbody>
+</table>
+
+**Top stories\**
+****<img src="Arrow.gif" data-border="0" width="7" height="7" />** 06/25/03 REGULATORY EXCESS **<a href="esa_reform.htm" style="text-decoration: none">Senators Keen to Reform Endangered Species Act</a>** *Law is key weapon for greens in battle to dismantle technological civilization\***
+**<a href="hage_article.htm" style="text-decoration: none">Wayne Hage on Nevada Water Rights</a>\
+<a href="invasive_species02.htm" style="text-decoration: none">Invasive species</a>**\
+ 
+
+**Regulation** is so repugnant to defenders of free enterprise that they tend to lose sight of the simple realities. Here, then, are a few basics to set the stage for further understanding:
+
+**Regulations** are issued by governmental departments to carry out the intent of the law. Regulations are not the work of the legislature and do not have the effect of law in theory. In practice, however, because of the intricacies of judicial review of administrative actions, regulations may determine the outcome of cases involving regulatory activities. ***see Black's Law Dictionary, Sixth Edition, page1286***
+
+**Federal regulations** gain their power from laws passed by Congress. Although Congress does not write the regulations, laws passed by Congress may contain instructions for executive branch officers (such as the Secretary of Defense, the United States Attorney General, or other top department heads) to promulgate regulations to carry out congressional intent as written in the law.
+
+**Federal laws** are recorded in four official publications: **The United States Statutes At Large** contains the complete text of each law exactly as Congress passed it, listed in sequence by the date and time of passage. **The United States Code** (U.S.C.) contains only the instructions in each law (eliminating prefaces, findings, purposes and other narrative material), categorized into fifty titles. **The United States Code Annotated** (U.S.C.A.) contains the United States Code plus case notes of state and federal court decisions which construe and apply specific Code sections, cross references to related sections, historical notes and library references. The U.S.C.A. is continually updated with newly passed laws in the **United States Code Congressional and Administrative News**.
+
+Although this is complicated enough, it still does not tell administrators ***how*** to carry out the intent of the law. That is the function of regulations.
+
+**Federal regulations** are written by people in agencies of the United States government to 1) guide the activity of those regulated by the agency; 2) to guide the activity of agency employees; and 3) to insure uniform application of the law. The actual results may stray far from these simple goals.
+
+**The Federal Register**, published daily, contains newly promulgated regulations (and other legal documents of the executive branch, such as presidential proclamations and military orders), usually in stages beginning with a notice of intent to promulgate, then a request for public comment, and finally a record of decision preceding the text of the actual regulation.
+
+**The Code of Federal Regulations** (C.F.R.) is where the text of the actual regulation is published. The Code of Federal Regulations is categorized in the same fifty titles as the U.S.C. and U.S.C.A. Some regulations are so complex they take more than 5,000 sections to tell how to carry out the intent of the law; automotive regulations are among the most voluminous in the C.F.R. Opportunities for bureaucratic abuse are pervasive.
+
+**Fighting federal regulations.** If you are a law abiding citizen and you run into a problem with an administrative agency you feel is abusing regulations to your detriment, you cannot take it directly to a Federal District Court. You must first exhaust your administrative remedies.
+
+**Administrative remedy** is the procedure allowing you to assert a right to some kind of relief before an administrative agency. Let's say you have been getting a Social Security check for less money than you are entitled to. You start with your local Social Security office and talk to the clerks, then the supervisors, then the local director. If you don't get more money at the local level, you begin at the next level up, usually a regional office. There you go through the same explanations, first to lower, then higher level officials. If you don't get relief at the regional level, you go to the national level of the agency and explain things again, first to lower, then higher level officials until you run out of officials. If the head of the agency doesn't give you relief, you may request an administrative hearing. If you were a rancher defending your grazing permit against a new reduction in your herd rather than a retiree trying to get a proper payment from Social Security, at this point you could have spent hundreds of thousands of dollars trying to keep what was already yours. And you could count on a mob of environmental groups sending in their lawyers to help the government smash you with accusations of violating regulations or committing heinous offenses against the earth.
+
+**Administrative hearings** are like trials within an administrative agency, presided over by an **administrative law judge**. There you can lay out your case with rules of evidence much relaxed from those of a civil or criminal court. However, a fundamental problem with administrative hearings is that administrative law judges that preside over them are employees of the agency. If you don't get relief from the administrative law judge in an administrative hearing, and if you are not yet dead or bankrupt, you have now exhausted your administrative remedies and you may proceed to a Federal District Court.
+
+**Federal District Court** is the lower court of the federal system. There you can ask for relief from administrative abuse. Arguing that a regulation is unconstitutional rarely succeeds, no matter how much you want it to. Regulations generally are perfectly constitutional. Arguing that the regulation harmed you rarely wins, either. Regulations are intended to regulate, and that almost always means someone gets hurt. Federal District Courts generally rule that it's just too bad if you get hurt. If you don't win in Federal District Court, you may go to a United States Circuit Court of Appeals. If you don't win there, you may go to the United States Supreme Court. If you win there, your case will likely be remanded to a lower court with instructions to find in your favor. The price for all this exceeds one million dollars.
+
+However, if the federal government *took your property* in the process of regulating 1) you, 2) your actions, or 3) your possessions, you can skip all this and go directly to the **United States Court of Federal Claims**. The rules in this court are very simple. You can only talk about two things in Claims Court: (1) Did the government take your property? (2) If so, how much is it worth? In discussing (1), you will have to prove you owned the property. The government cannot discuss your alleged violation of regulations or justify their actions as being necessary to enforce regulations because the rules of evidence in Claims Court don't allow it. If the government took your property, it doesn't matter why they did it. They have to pay you. Of course, the property can't have been used in the commission of a felony or seized in a drug bust, but we started with the assumption that you are a law-abiding citizen, so that wouldn't happen. So if you can prove the government took property you owned, you can then argue about how much it's worth. You might not be happy with the amount, but they write you a check as soon as you're done. The downside is, they get to keep your property because they paid for it.
+
+Fighting government regulation is a daunting task. The government has two advantages over you:
+
+- The government never dies, and
+
+- They print the money.
+
+One of the reasons the Center exists is to fight bureaucratic abuse.
+
+Read that sentence again. It does ***not*** say "to fight bureaucracy." It says "to fight bureaucratic abuse." We cannot have a complex society without bureaucracy. The Center does not fight bureaucracy. The Center fights bureaucratic abuse. We can have a better society without bureaucratic abuse. To fight bureaucracy is to fight the only process that government has to carry out the intent of the law. To fight bureaucratic abuse is to fight for what's right and seek government reform.
+
+**<a href="product_disparagement.htm" style="text-decoration: none"></a> <a href="issues.htm" style="text-decoration: none">RETURN TO ISSUES TOP PAGE</a>**
+
+<span lang="en-us"> **<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**</span>

@@ -1,0 +1,117 @@
+---
+title: "Colt Woodsman FAQs"
+source_domain: amasci.com
+source_path: ~rayburn/woodsman/faq.html
+order: 6574
+reachable_from_entry: false
+images: 4
+internal_links: 5
+extracted: 2026-08-07T05:59:20Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Colt Woodsman FAQs
+
+*Source page: `~rayburn/woodsman/faq.html`*
+
+Colt Woodsman\
+Frequently Asked Questions
+
+1.  **What's it worth?**\
+    <a href="http://www.amazon.com/exec/obidos/external-search?tag=coltwoodsmahomep&amp;keyword=fjestad+gun+values&amp;mode=books" target="NEW"><img src="fjestad.jpg" data-align="right" /></a> This is overwhelmingly the number one question I am asked, and it is one that I cannot answer. The value depends very much on the exact condition and on all parts and finish being factory original, so it is not possible to give a realistic estimate without a hands on examination. I recommend that you consult Stephen Fjestad's *Blue Book of Gun Values* to do your own value determination. There are many value guides on the market, but the *Blue Book of Gun Values* is by far the best price guide available for the Woodsman. It is the only guide that lists Woodsman values based on percent of original blue remaining. While that is not a perfect system, it does have the advantage of being widely used and generally understood by collectors, and is probably the best available for non-antique (post 1898) collectible guns. The author has thoughtfully provided excellent color photographs that illustrate the rating system on a wide variety of long guns and hand guns. You can order a copy from Amazon.com by clicking on the book image to the right.
+
+    *The Blue Book of Gun Values* correctly describes the various models and the three series, based on the same criteria used here. Some other value guides use a misleading "issue" classification that results in some models and series being mis-identified, with resultant errors in the listed values. They also include assertions that have no basis in fact, such as the widely (and erroneously) repeated claim that the high speed mainspring housing distinguishes the first from the second "issue."
+
+    There are also some general guidelines for value determination in my Colt Woodsman Pocket Guide at: [Value Factors](value_condition.html)
+
+2.  **When was it made?**\
+    Regular production began in 1915 and ended in 1977. It is possible to determine the approximate date of manufacture from the serial number by consulting my [table of manufacture dates.](dates.html)\
+    The following caveats apply:
+    - The guns were neither assembled nor shipped in numerical sequence, and overlaps of several thousand numbers are common! A single shipment of a dozen or so guns often contained serial numbers spanning a range of several thousand, which might be typical of numbers used over a period of two or three years.
+    - Several different sets of serial numbers were used, so it is important to use **ALL** of the numbers and letters in the serial number. For example: 1001, MT1001, 1001-S, 1001-C, and 001001S are all valid serial numbers dating from 1916, 1938, 1948, 1950, and 1969, respectively.
+    - A few hundred guns were assembled after regular production ceased, between 1977 and the late 1980s and possibly later. The serial numbers on those guns were intermixed with numbers used years earlier.
+
+3.  **The latest date anywhere on it is 1918. Is that when it was made?**\
+    No. All the pre-WWII guns had the patent dates on the barrel. Normally there were two dates in 1918 and one 1903 date. Those made prior to 1918 had only the 1903 date, of course. The 1903 patent actually had nothing to do with the Woodsman, which was not even in the conceptual stage in 1903, but Colt used the earlier patent to give them some protection until the unique features of the Woodsman could be patented.
+
+4.  **My (Woodsman Challenger Huntsman Targetsman) has no patent dates on the barrel. Why?**\
+    The Challenger, Huntsman, and Targetsman are all POST WWII. The post WWII guns did not carry the patent dates. If your Woodsman is pre-WWII and it does not have the patent dates on the barrel, it probably has been re-barrelled. The parts replacement barrels have no patent dates on them.
+
+5.  **Where is the serial number located?**\
+    On the pre-WWII Target and Sport model the serial number is on the front grip strap. On the pre-WWII Match Target it is normally on the butt, near where the magazine is inserted. On some late first series Match Target models it is on the front grip strap. On all 2nd and 3rd series guns the serial number is located on the forward portion of the frame, right hand side.
+
+6.  **What model and series is it?**\
+    There are three series of Woodsman pistols, corresponding to three basic frame designs. First Series refers to all those built on the S frame as it existed prior to and during World War Two. Second Series includes all versions built on the second S frame design from late 1947 until mid 1955, and Third Series means the third S frame design as used from 1955 to the end of regular production in 1977.
+
+    Each series had a Sport Model with a 4-1/2 inch round barrel, a Target Model with a 6 or 6-5/8 inch round barrel, and a Match Target Model with a heavy, flat sided barrel. For the first series Match Target that flat sided barrel was 6-5/8 inches in length, while in the post war versions it was either 4-1/2 or 6 inches.
+
+    There were also three very similar economy models during the post war years only: the Challenger, the Huntsman, and the Targetsman.
+
+    The following checklist will help you determine which version you have:
+
+    - If the serial number contains only numerals, with no alphabetical characters, it is a first series.
+    - If the only alphabetical characters in the serial number are MT, it is a first series.
+    - If it is marked Challenger, it is a second series.
+    - If it has a push button magazine release just aft of the trigger guard, it is a second series.
+    - If it is marked Huntsman or Targetsman, it is a third series.
+    - If the magazine release is at the heel of the butt, **AND** the pistol has an S at the end of the serial number, it is a third series.
+
+7.  **My barrel length is closer to 5 inches, but it doesn't appear to have been cut. Why?**\
+    The barrel is measured from breech to muzzle: ie., from where the bullet goes in to where it comes out. It is **NOT** measured from where the barrel emerges from the frame.
+
+8.  **Why are your descriptions and names different from those in my *Gun Trader's Guide? Gun Digest Value Guide?*Various other publications?**\
+    That's easy! Because mine are correct and theirs are not. *The Blue Book of Gun Values* correctly describes the various models and the three series, based on the same criteria used here. Some others use a misleading "issue" classification that results in some models and series being mis-identified, with resultant errors in the listed values. They also include assertions that have no basis in fact, such as the widely (and erroneously) repeated claim that the high speed mainspring housing distinguishes the first from the second "issue."
+
+9.  **Can I shoot modern ammo in it?**\
+    Short answer: Yes. **BUT:** Woodsmans made prior to 1933 were designed for standard velocity .22 LR. Those made after 1933 were all designed for high velocity .22 LR, with a stronger recoil spring and a case hardened mainspring housing, which is the part that takes the brunt of the recoil. The transition took place in the early part of 1933. They all will handle standard velocity ammo, which is what all target .22 LR is to this day. **I do not recommend firing high velocity ammo in one of the early guns (before 1933).** Just buy target ammo and use that. It is more accurate, and less noisy besides.
+
+    <img src="1hsls.jpg" data-align="left" width="338" height="218" /> If your Woodsman is pre-WWII it will have a pattern on the mainspring housing, where the web between the thumb and forefinger touches when holding the pistol in firing position. If that pattern is checkered (left), it was made for standard velocity ammo. If the pattern is horizontal parallel lines (right), it was designed for high velocity ammo. If it is a post WWII gun it will have no such pattern, because all were designed for high velocity ammo.
+
+    \
+
+10. **Can I convert my pre-1933 Woodsman to use high velocity ammo?**\
+    It is possible, and easy if you can find the correct parts. In the early days Colt sold a conversion kit consisting of a heat treated mainspring housing and a stiffer recoil spring. The kits are virtually impossible to find today, and expensive because they have become collectors items. It is sometimes possible to find a high speed mainspring housing that has been salvaged from a junker or a police salvage. If you should find a high speed mainspring housing, you will also need a replacement recoil spring.
+
+11. **I read somewhere else that all Woodsmans with a serial number higher than 83790 were made for high velocity ammo. My serial number is 85xxx, but it has the low speed mainspring housing. Is this a rare variation?**\
+    No. The guns were not assembled in numerical sequence, so while it may be true that all Woodsmans assembled ***later*** than 83790 were made for high velocity ammo, that is not the same as saying that all with a ***higher serial number*** than 83790 were so equipped. Some with higher numbers were made earlier than 83790, and have the low speed housing, and some with lower numbers were made later than 83790 and have the high speed housing.
+
+12. **I read somewhere else that the Woodsman marking was added to the frame at serial number 34000. I have serial number 45xxx with no Woodsman markings. Is this a rare variation?**\
+    No. The confusion over this matter all stems from a typographical error that originated in about 1941, when the author meant to say 54000, but 34000 got into print. Numerous other writers in later years then perpetuated the error. Horace Greeley IV, in his 1972 ***Man at Arms*** article, correctly stated the 54000 number based on his own original research in the shipping and manufacturing records at Colt.
+
+13. **How do I take it apart for cleaning?**\
+    It's easy if you know how, but very difficult to describe. I received permission from the NRA to post an ***American Rifleman* article from 1953 on my Woodsman web site. This article has the best explanation I have seen of assembly/disassembly of the Colt Woodsman series. The line drawings are especially good. It includes removal and replacement (on the post-WWII guns) of the firing pin, extractor, and slide stop spring - in my experience those are the Woodsman parts that most often need replacing. I have also reproduced instructions from a 1915 Colt "Owner's Manual." You can see both sets of instructions by clicking [here.](assy_disassy.html)**
+
+14. **I took it apart and cleaned it, but it won't go back together. What's wrong?**\
+    The recoil spring has probably been jarred out of its captured position. The following note is part of the Colt instructions:\
+
+    > **NOTE:** *If, at any time, during the taking apart or assembling, the recoil spring should jar off from the assembly lock, it should be again pressed into its forward position and held secure by pressing down the assembly lock plunger.*
+
+    \
+    Unfortunately, the wording of this note is not crystal clear, but it is very important. I have had dozens, perhaps hundreds, of telephone calls, letters, and emails from people who could not put their Woodsman back together, and the cause has almost always been due to the recoil spring having been knocked out of its captured position. The assembly lock is easily jarred loose from the recoil spring guide, thereby allowing the recoil spring to expand to the rear of the slide. To someone who doesn't know what it is supposed to look like, that condition will look perfectly normal, but in fact the pistol cannot be re-assembled until the recoil spring is re-captured by the assembly lock. That is not easy to do, but it can be done with patience, some mechanical aptitude, and a tool with which to compress the recoil spring back into the slide so the assembly lock can be re-engaged in the recoil spring guide. I use a small, flat bladed screwdriver for that tool.
+
+15. **My Match Target "Bullseye" model has a beautiful set of grips with a palm swell and thumb rest. Were these special order?**\
+    Probably not. While a very few were special ordered with custom grips by Roper or others, the vast majority of those that have special grips were so fitted after being sold at retail.
+
+16. **I got a good deal on a Bullseye Match Target. Very nice shape, but it has plastic grips. Where can I get a set of the original one piece wrap around walnut grips cheap?**\
+    If you find out, let me know! Pre-WWII Match Target Woodsmans are often fitted with replacement stocks, due to the original "Elephant Ear" stocks having been lost or broken. The original stocks bring a very good price by themselves, so a "bargain" in a Bullseye Model with any type of replacement stocks is probably not a true bargain. Except for military guns, which are government marked, nearly all First Series Match Target Woodsmans were equipped with Elephant Ear stocks when they left the factory.
+
+17. **I bought a Woodsman magazine at a gun show, but it doesn't fit my Woodsman. Why?**\
+    The Woodsman used several varieties of magazines through the years and not all of them are interchangeable. Pre-WWII magazines will not work in post-WWII guns, and vice-versa. Second series magazines will work in third series guns, but only some third series magazines will work in second series guns. There are some after market magazines available, but they are not of good quality and frequently malfunction. If they are Colt originals, they will have Colt markings. You can see photos of various Woodsman magazines, along with a table of interchangeability, by clicking [here](wmmagazine.html)
+
+18. **I have a 2nd series Woodsman, with a push button magazine release aft of the trigger guard like on the Colt .45 Auto. The only thing wrong is that it has plastic grips. Do you have any original walnut grips for it?**\
+    No, there is no such thing. ALL 2nd series Woodsmans (those with the magazine release just aft of the trigger guard) and all Challengers came from the factory with plastic grips. The early 3rd series guns also came with plastic grips.
+
+    The plastic grips that Colt made were good quality from their introduction in 1947 until 1950, at about SN 71200-S. They were a multi-colored orange-black-brown swirl that resembled wood grain, and were made from a solid material, similar to Bakelite, which Colt called Coltswood. In 1950 Colt switched to injection molded plastic grips that are hollow on the inside, and the frame was changed slightly to secure the injection molded grips. Because of the small differences in the earlier and later frames, the new style plastic grips will not fit the earlier 2nd series guns, but the earlier 2nd series grips will fit on the later 2nd series guns, and in fact continued to be used until existing supplies were depleted. For a short while the injection molded grips had the same multi-color wood grain look as the earlier Coltswood grips, but the color was then changed to solid brown which subsequently appeared in several shades over the next few years. Colt continued to describe the grip material as Coltswood, although it was significantly different from the original Coltswood material.
+
+    The Walnut grips that were used on the later 3rd series guns can be easily modified to fit a second series gun by relieving the area on the right hand grip panel to allow space for the magazine release to move when it is pressed to release the magazine.
+
+19. **The plastic grips on my 2nd series Woodsman were broken, so I bought another pair at a gun show. When I got them home I found that they did not fit. Why is this?**\
+    <img src="2buttframe70.jpg" data-align="left" width="317" height="404" />
+    Not all 2nd series Woodsman plastic grips will interchange. The injection molded grips have tabs on the left side grip panel for rotational stability. When Colt switched from Coltswood (a material similar to Bakelite) to injection molded plastic, changes were made in the grip frame area to accomodate the tabs. Those later grips (bottom) will not fit an early type 2nd series Woodsman frame (top).\
+
+20. **My 3rd series Woodsman has black plastic grips, but I would prefer walnut. Would walnut be correct?**\
+    With the introduction of the 3rd series Woodsman the color of the plastic grips was changed to solid black, but they were otherwise identical to the late 2nd series brown plastic grips. In 1960, at about SN 189200-S, Colt switched to real walnut. Dealers were offered the opportunity to upgrade existing stock with the new walnut grips, so earlier 3rd series guns will sometimes have the walnut stocks. Of course many others have been upgraded after the fact by their owners.
+
+\
+<a href="index.html" target="_top"><img src="wmhomeicon.jpg" data-border="0" data-align="left" width="68" height="38" alt="Woodsman Home Page " />Woodsman<br />
+Home Page</a>

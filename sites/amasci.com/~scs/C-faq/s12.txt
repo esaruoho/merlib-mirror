@@ -1,0 +1,106 @@
+Stdio 
+
+ 12. Stdio 
+
+ 12.1
+What's wrong with
+the code
+" char c;
+while((c = getchar()) != EOF) ... "?
+ 12.2
+Why
+won't
+the
+code
+``
+ while(!feof(infp)) {
+fgets(buf, MAXLINE, infp);
+fputs(buf, outfp);
+}
+ ''
+work?
+ 12.4
+My program's prompts and intermediate output don't always show up
+on the screen.
+ 12.5
+
+How can I read one character at a time,
+without waiting for the RETURN key?
+
+ 12.6
+How can I print a '%' character
+with printf ?
+ 12.9
+How can
+ printf use %f for type double ,
+if scanf requires %lf ?
+ 12.10
+How can I implement a variable field width with printf ?
+ 12.11
+How can I print numbers with commas separating the thousands?
+ 12.12
+Why doesn't the call
+ scanf("%d", i) 
+work?
+ 12.13
+Why doesn't
+the code
+" double d;
+scanf("%f", &d); "
+work?
+ 12.15
+How can I specify a variable width in a scanf format string?
+ 12.17
+When I read
+numbers
+from the keyboard with
+
+ scanf 
+ "%d\n" ,
+it seems to hang until I type one extra line of input.
+ 12.18
+I'm reading a number with scanf 
+ %d 
+and then a string with
+ gets() ,
+but the compiler seems to be
+skipping the call to gets() !
+ 12.19
+I'm re-prompting the user if scanf fails,
+but sometimes it seems to go into an infinite loop.
+ 12.20
+Why does everyone say not to use scanf ?
+What should I use instead?
+ 12.21
+How can I tell how much destination buffer space I'll need
+for an arbitrary sprintf call?
+How can I avoid
+overflowing
+the destination buffer with sprintf ?
+ 12.23
+Why does everyone say not to use gets() ?
+ 12.24
+Why does errno contain
+ENOTTY
+after a call to printf ?
+ 12.25
+What's the difference between fgetpos / fsetpos 
+and ftell / fseek ?
+ 12.26
+Will fflush(stdin) 
+flush unread characters from the standard input stream?
+ 12.30
+I'm trying to update a file in place,
+by using fopen mode "r+" ,
+but it's not working.
+ 12.33
+How can I redirect stdin or stdout 
+from within a program?
+ 12.34
+Once I've used freopen , how can I get the original
+stream
+back?
+ 12.38
+How can I read a binary data file properly?
+
+ top

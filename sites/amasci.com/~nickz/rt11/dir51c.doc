@@ -1,0 +1,66 @@
+							 22-Dec-1997
+
+This is a SIPP patch for DIR.SAV in RT-11 V5.1C ONLY.  To use it, verify
+that you have an unpatched, unmodified copy of DIR.SAV (with a July 1984
+file date), preferably from your distribution diskettes.  You may also
+wish to verify the size as noted in block 0, location 50; it should be 200
+less than what the SIPP file will change it to or 22362 (octal).  Then,
+just type:
+
+COPY DIR.SAV DK:DIR.51C
+UNPROT DIR.51C
+@DIR51C.SIP
+REN DIR.SAV DIR.OLD
+REN DIR.51C DIR.SAV
+
+The patch extends the function of the /VOLUME switch to DIR
+(which can still be abbreviated as desired).
+
+The syntax is:
+
+DIR/VOLUME:ONLY       as before or
+DIR/VOLUME:<Starting Block Number>[:<Nested Starting Block Number>]
+which makes it very easy when SL: is set on - no need to add numbers.
+
+The one additional trick is when the <Starting Block Number> is:
+24572. = 57774 (octal) = ^rONL (RAD50)
+In the unlikely event that does happen, just enter:
+DIR/VOLUME:24000.:572.
+or any other such combination which adds up to 24572.
+
+The reason for this is that the ONLY and block number switches cannot be
+combined at the same time.
+
+Note that the second and subsequent block numbers are _nested_ block
+numbers, so you do not need to add offsets on the original device in your
+head.  For example, if there is a logical disk on DL0:, issue a DIR/BLOCK
+command to find its starting block number (SBN).  If the SBN is 10000., then:
+
+DIR/VOLUME:10000. DL0:
+
+will read that logical disk.  If you copied or created another logical disk
+on that logical disk, and DIR/BLOCK/OCTAL shows it's on block 300, then
+
+DIR/VOLUME:10000.:300
+
+will list that logical disk.  You can nest as many disks as you want, even
+if your LD: driver can only handle 8 logical disks (LD drivers prior to V5.5
+are limited to 8 logical disks, LD0: through LD7:).  Note that the above
+command mixes octal SBN's (no period) and decimal SBN's
+(with a period).  A hypothetical example of extreme but legal nesting
+would be:
+
+DIR/VOLUME:10000:300:24:21:75:89.:10.:22:22
+
+which would list a ninth-level logical disk that could not be accessed on
+RT-11 versions prior to V5.5.
+
+Uses
+====
+
+1. Quickly listing directories without needing to mount the logical disk.
+2. Having more than eight logical disks in use at one time.
+3. Listing the directory of a deleted logical disk, perhaps to determine
+   whether to undelete it with COPY/DEVICE ddn:/START:a/END:b foo.dsk/FILE
+4. Anything else you find useful.
+

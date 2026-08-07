@@ -1,0 +1,300 @@
+---
+title: "Bloggity-Blog-Blog-Blog Archive 12 Dec 2004 to 18 Dec 2004"
+source_domain: amasci.com
+source_path: ~tegan/blog/20041212-20041218.html
+order: 8622
+reachable_from_entry: false
+images: 24
+internal_links: 9
+extracted: 2026-08-07T06:01:07Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bloggity-Blog-Blog-Blog Archive 12 Dec 2004 to 18 Dec 2004
+
+*Source page: `~tegan/blog/20041212-20041218.html`*
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="13" /></td>
+</tr>
+<tr>
+<td class="title" width="100%" data-bgcolor="#9e98cc" data-valign="top">Bloggity-Blog-Blog-Blog Archive<br />
+Laura "Tegan" Gjovaag</td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td class="body" data-valign="top" width="74%"><p>Saturday, December 18, 2004 <span id="110342983497592910"></span></p>
+<strong>Sketchbook - Jeff Moy</strong>
+<p><span class="rss:item">Another sketch from <a href="http://www.eskimo.com/~tegan/aqua/sandiego/#3b">San Diego 2000</a>. I actually got a commission of a Marvel character for my shop owner from Jeff, yet still had the nerve to ask for a quick Aquaman sketch.</span></p>
+<a href="http://jeffreymoy.com"><img src="http://www.eskimo.com/~tegan/blog/sketch/sketch_MoyJ.jpg" data-border="0" width="339" height="400" /></a><br />
+<strong>AQUAMAN</strong><br />
+<strong>by Jeff Moy</strong><br />
+22 July 2000<br />
+(permission to post given 31 October 2004 via e-mail)<br />
+<a href="http://jeffreymoy.com">jeffreymoy.com</a>
+<p>As a reminder: Almost every sketch in my sketchbook was non-commissioned and done on the floor of a con. These are not the best works of the artists. These are only representative of what the artist can do under pressure in a loud, crowded, and often stressed-out environment. Most of them were done as quickly as possible, to prevent huge lines from forming. Don't judge any of these artists negatively by the artwork you see, instead be as impressed as I am by what they accomplished in far-from-ideal conditions.<br />
+<br />
+To see all the sketches I have permission to post so far, check out my <a href="http://www.eskimo.com/~tegan/blog/sketch">Sketchbook Page</a>. If you have any contact information for any of the <a href="http://www.eskimo.com/~tegan/blog/sketch/index.html#wanted">other artists I'm trying to contact</a>, please <a href="mailto:tegan@eskimo.com?subject=Bloggity-Blog-Blog-Blog">e-mail me</a>. Click for a <a href="http://www.eskimo.com/~tegan/blog/sketch/random.html">random Aquaman sketch</a>.<br />
+<br />
+The Saturday Sketch ™ is brought to you by the letters "A", "Q" and the number "27", and also courtesy the fine artists who pour their lives into producing wonderful comic books, then come to conventions only to get asked by geeky fangirls for a sketch of Aquaman. Support an artist, buy a comic book.<br />
+</p>
+by Tegan at <a href="#110342983497592910">8:13 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/12/sketchbook-jeff-moy.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110342983497592910&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110342983497592910" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110342983497592910&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="110342851588188210"></span>
+<strong>Late Blogging</strong>
+<p><span class="rss:item">Blog will be really late tonight.<br />
+</span></p>
+by Tegan at <a href="#110342851588188210">7:54 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/12/late-blogging.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110342851588188210&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110342851588188210" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110342851588188210&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Friday, December 17, 2004 <span id="110332919062900037"></span></p>
+<strong>Rapid Reviews - 8 December 2004 - Part III</strong>
+<p><span class="rss:item"><strong>Noble Causes #5</strong>: So one of the plotlines gets resolved, and one gets stranger with a cameo from Invincible, and the final one just goes along. I'm enjoying this book a lot. The art is good, I'm liking the characters more and more, and the stories are nicely set up and strong. Recommended. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>PS238 #9</strong>: "Night School": This is my favorite comic book. I laughed aloud repeatedly while reading this one, and I don't usually laugh while reading, ever. Tyler is definitely my favorite character, but it was nice to see the others in the back-up story. I love this book. Go get it, or the trade, and enjoy. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_5_starfish.jpg" data-border="0" width="75" height="15" alt="4 1/2 starfish" /></a><br />
+<br />
+<strong>Spider-Man: India #2</strong>: This isn't a bad adaptation. This issue reiterates the point that Pavitr's refusal to stop and help in a robbery led to his Uncle's death. This issue also introduces Flash... and has Pavitr join the cricket team! It's similar to the original, but changes enough for the culture that it works well. I'm enjoying it. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+</span></p>
+by Tegan at <a href="#110332919062900037">4:19 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/12/rapid-reviews-8-december-2004-part-iii.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110332919062900037&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110332919062900037" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110332919062900037&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Thursday, December 16, 2004 <span id="110323040180716852"></span></p>
+<strong>And Yet More Random Thoughts</strong>
+<p><span class="rss:item">Ursula K Le Guin <a href="http://trashotron.com/agony/columns/2004/12-15-04.htm">breaks her silence</a> in an interview. There was one major thing I was confused about when I heard about the TV production, which was the ethnicity of the actor playing Ged. When I told my husband "Ged's not white" that pretty much summed up the whole thing for me. If they couldn't get <em>that</em> right, why should I watch the rest? Via <a href="http://blog.donnael.com/">Garrett</a>. And <a href="http://www.neilgaiman.com/journal/journal.asp">Neil</a>.<br />
+<br />
+<a href="http://www.newsfromme.com/archives/2004_12_16.html#009336">Mark</a> points us to a Slate article which appears to be taken from the interview.<br />
+<br />
+Ask Yahoo compares the salaries of <a href="http://ask.yahoo.com/ask/20041216.html">WNBA to NBA players</a>.<br />
+<br />
+Get ready for the <a href="http://www.niso.org/standards/resources/ISBN.html">new ISBN numbers</a>. The new numbers will be 13 digits instead of 10. A lot of libraries and stores will have to upgrade their software in the next three years.<br />
+<br />
+Very cool <a href="http://barelybad.com/xwdthemes_110596.htm">crossword puzzle</a> that "predicted" the outcome of the 1996 election. Via <a href="http://politicalwire.com/archives/2004/12/15/a_puzzling_puzzle.html">Political Wire</a>.<br />
+<br />
+A Chinese doctor is performing what could be considered unethical <a href="http://www.guardian.co.uk/china/story/0,7369,1363339,00.html">operations using cells from aborted foetuses</a>... he's having success. Enough so that anti-abortion Americans are going to him for treatment.<br />
+<br />
+A study has been done on <a href="http://www.boingboing.net/2004/12/16/advertising_techniqu.html">web ads users hate</a>. None of it surprises me. Nor does the list of things a "good ad" has.<br />
+<br />
+The army is <a href="http://www.boingboing.net/2004/12/15/mp3_of_us_army_phone.html">spamming by phone</a> potential recruits. I hate automated calls. It's a disgusting technique, and I hope someone in the Army gets fired for it.<br />
+<br />
+The <a href="http://slashdot.org/article.pl?sid=04/12/16/1340258">Firefox ad</a> has hit the New York Times. Are you using <a href="http://www.mozilla.org/products/firefox/">Firefox</a> yet? If not, why not?<br />
+</span></p>
+by Tegan at <a href="#110323040180716852">1:52 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/12/and-yet-more-random-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110323040180716852&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110323040180716852" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110323040180716852&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Wednesday, December 15, 2004 <span id="110315443722014836"></span></p>
+<strong>There's Something Really Cool...</strong>
+<p><span class="rss:item">...about coming home to find a note that says, "Laura, read <a href="http://iteach.blogspot.com/">my blog</a>!"<br />
+<br />
+Now I get to keep an eye on the substitute website and see if I can score hubby-Eric a job.<br />
+</span></p>
+by Tegan at <a href="#110315443722014836">3:43 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/12/theres-something-really-cool.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110315443722014836&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110315443722014836" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110315443722014836&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="110313167170888862"></span>
+<strong>Quick Thoughts</strong>
+<p><span class="rss:item">Via <a href="http://elayneriggs.blogspot.com/">Elayne</a>, you can <a href="http://www.popularfront.com/snowdays/index.html?id=324377">catch a snowflake</a>. The you can add your own.<br />
+<br />
+Another cartoonist <a href="http://www.websnark.com/archives/2004/12/wiley_blinks.html">takes a swipe</a> at Scott Kurtz of <a href="http://www.pvponline.com/">PVP</a>.<br />
+<br />
+Speaking of comics, I want to point out <a href="http://www.comicalert.com">Comic Alert</a>, my favorite RSS site for comic strips. Instead of putting the comic into an RSS feed, which is on shaky ground legally, the feed simply alerts you when your comic strips are updated so you can go visit the site yourself. Very cool. I don't mind visiting sites to read comics, generally. Especially web comics, who depend on hits for revenue.<br />
+</span></p>
+by Tegan at <a href="#110313167170888862">9:27 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/12/quick-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110313167170888862&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110313167170888862" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110313167170888862&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Tuesday, December 14, 2004 <span id="110308125522249935"></span></p>
+<strong>Random Thoughts</strong>
+<p><span class="rss:item">Poor Mark Evanier, he's <a href="http://www.newsfromme.com/archives/2004_12_13.html#009322">getting hate mail</a> for a comic strip he doesn't write.<br />
+<br />
+Mike Allred wants YOU to <a href="http://www.comicscommunity.com/boards/allred/?read=12363">write to Dan Didio</a> and request that the Teen Titans Swingin' Elseworld Special be released. In other Allred news, the second edition of The Golden Plates will be out in March.<br />
+<br />
+Someone <a href="http://www.cockeyed.com/lessons/tags/tags.html">figured out</a> the codes for wholesale cost at Long's Drug. I'm not sure why they'd want the wholesale cost out on the sales floor, but I do understand why they coded it. Via <a href="http://www.boingboing.net/2004/12/14/longs_drugs_uses_a_n.html">Boing Boing</a>. And, for the record, there are two codes on the price tags at the shop I work at, one is the date the item was priced and the other is the location of the item in the store.<br />
+<br />
+How to make a <a href="http://www.accounting-owl.co.uk/asm/oranges/index.htm">miniature orange</a> (out of fimo). This is just way cool. Via <a href="http://www.boingboing.net/2004/12/13/how_to_make_miniatur.html">Boing Boing</a>.<br />
+<br />
+Absolutely hilarious <a href="http://en.wikipedia.org/wiki/Talk:Sollog">wikipedia discussion</a> for <a href="http://en.wikipedia.org/wiki/Sollog">Sollog</a> (who is ... well, go read it and see. I don't think I can describe him). Via <a href="http://slashdot.org/article.pl?sid=04/12/14/1732238">/.</a><br />
+<br />
+William Raspberry sums up the whole gay marriage thing very nicely in <a href="http://www.washingtonpost.com/wp-dyn/articles/A60180-2004Dec12.html">his latest column</a> (registration may be required).<br />
+<br />
+Speaking of politics, if you live in Washington State, voted absentee, and are afraid your vote didn't count, you can contact your county elections office and ask. I was curious, so I called <a href="http://www.metrokc.gov/elections/">King County Elections</a> to check. My absentee ballot was confirmed and accepted. Whew.<br />
+<br />
+It is December 14th. There are, by my count, at least 17 days left in the year. It is NOT time for 2004 round-ups yet. Last year, I started my review on the 18th and listed, month-by-month, nominees for best book of the year. I think I'll try to do the same this year, despite not having <em>quite</em> the same problems with life this year as last. Here's last year's progression: <a href="http://www.eskimo.com/~tegan/blog/20031214-20031220.html#107176979610469680">January</a>, <a href="http://www.eskimo.com/~tegan/blog/20031214-20031220.html#107185213398304801">February</a>, <a href="http://www.eskimo.com/~tegan/blog/20031214-20031220.html#107193617449451736">March</a>, <a href="http://www.eskimo.com/~tegan/blog/20031221-20031227.html#107202894523610879">April</a>, <a href="http://www.eskimo.com/~tegan/blog/20031221-20031227.html#107211624374238051">May</a>, <a href="http://www.eskimo.com/~tegan/blog/20031221-20031227.html#107219570540278701">June</a>, <a href="http://www.eskimo.com/~tegan/blog/20031221-20031227.html#107228439832088768">July</a>, <a href="http://www.eskimo.com/~tegan/blog/20031221-20031227.html#107237411585660969">August</a>, <a href="http://www.eskimo.com/~tegan/blog/20031221-20031227.html#107245877932075643">September</a>, <a href="http://www.eskimo.com/~tegan/blog/20031221-20031227.html#107254950947687488">October</a>, <a href="http://www.eskimo.com/~tegan/blog/20031228-20040103.html#107263689279836408">November</a>, <a href="http://www.eskimo.com/~tegan/blog/20031228-20040103.html#107272089376439780">December</a>, <a href="http://www.eskimo.com/~tegan/blog/20031228-20040103.html#107285278651691604">Final Nominee List</a> which includes other awards, and the <a href="http://www.eskimo.com/~tegan/blog/20031228-20040103.html#107289049683086366">Best Comic Book of 2003 according to Bloggity-Blog-Blog-Blog</a>.<br />
+<br />
+And lastly, <a href="http://www.ugo.com/channels/comics/heroMachine2/heromachine2.asp">build yourself a hero</a>. I couldn't <em>quite</em> make Mera, but here's a Mera-ish gal:</span></p>
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/merahero.jpg" title="Is this Mera?" width="200" height="310" alt="Mera Gal" />
+<br />
+&#10;by Tegan at <a href="#110308125522249935">7:03 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/12/random-thoughts_14.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110308125522249935&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110308125522249935" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110308125522249935&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Monday, December 13, 2004 <span id="110300192048312664"></span></p>
+<strong>Random Thoughts and DC Solicits</strong>
+<p><span class="rss:item">Near Mint Heroes recently posted a <a href="http://www.nearmintheroes.com/2004/12/to-like-and-dislike-same-things-that.html">list of good bloggers</a>. Following NMH's lead, Chris "Lefty" Brown made <a href="http://chrisbrown.blogspot.com/archives/2004_12_01_chrisbrown_archive.html#110262402960613837">his own list</a>. I'm honored to have made both lists.<br />
+<br />
+<a href="http://www.usaweekend.com/04_issues/041212/041212lemony_snicket.html">Lemony Snicket's "The Lump of Coal"</a>. Um. Ok. Via <a href="http://franklinharris.blogspot.com/2004/12/bah-and-humbug.html">Franklin</a>.<br />
+<br />
+<a href="http://games.slashdot.org/article.pl?sid=04/12/12/147236">Video game scares off robbers</a>.<br />
+<br />
+<a href="http://www.ericharshbarger.org/">Eric Harshbarger</a> likes LEGO. He built a working <a href="http://www.ericharshbarger.org/cgi-bin/photo.cgi?clock_5.jpg+lego/images/clock">Grandfather Clock</a> out of LEGO, and <a href="http://www.ericharshbarger.org/cgi-bin/photo.cgi?mona_lego_0.jpg+lego/images/mona_lego">the Mona Lisa</a>, and a <a href="http://www.ericharshbarger.org/lego/portfolio.html">whole bunch of other stuff</a>. Via various places.<br />
+<br />
+Better folks than I are covering the <a href="http://comics.toonzone.net/solicitations/">March 2005 solicits</a> from DC. So I'll just stick to Aquaman.</span></p>
+<a href="http://www.dccomics.com/comics/?cm=2754"><img src="http://www.eskimo.com/~tegan/aqua/pics/cvr2003/cvra428.jpg" data-border="0" width="200" height="300" /></a>
+<p>I'm not really all that interested. Why? Because I'm beginning to feel like I can see where this story is going already. I feel like there aren't going to be any surprises or anything fun. With Pfeifer I knew I would be surprised. Arcudi seems to be playing it by the numbers. The last thing comic book fans want right now is a by-the-numbers story.<br />
+<br />
+The first Arcudi issue featured drug dealers in Sub-Diego. Boring. And worse, already done only a few years back. The next issue or two focuses on Aquaman being too much a king. Fine, that's somewhat original. Not <em>really</em> original, but at least it's not set in Atlantis. Then we get Ocean Master. Ug. And now? Apparently a brutal cop (which showed up in the most recent issue, if I'm not mistaken) becomes a water monster and challenges Aquaman's authority. Yawn.<br />
+<br />
+I thought Sub Diego would breathe some new life into Aquaman... but it's turning into Atlantis West, and that's just blah.<br />
+</p>
+by Tegan at <a href="#110300192048312664">9:24 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/12/random-thoughts-and-dc-solicits.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110300192048312664&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110300192048312664" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110300192048312664&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="110295826549823600"></span>
+<strong>Comics Going To School...</strong>
+<p><span class="rss:item">...but the reporter needs to go back to school, too. The article is from <a href="http://www.washingtonpost.com/wp-dyn/articles/A59964-2004Dec12.html">The Washington Post</a> (registration might be required), and consistently wrongly refers to comic books as a genre. Comic books are a medium, not a genre. Superheroes are a genre. Romance is a genre. Comic books, like television, radio, and the internet is a medium. It is a form of media. And anyone who refers to comic books as a genre is exposing a level of ignorance that I'm extremely surprised any editor let through.</span></p>
+<blockquote>
+There once was a time when comic books were at the bottom of the literary food chain. Children read them under the bedcovers with a flashlight, and parents and teachers decried their reliance on one-syllable exclamations: BAM! POW! WHAM!
+</blockquote>
+<p>"BAM!" "POW!" and "WHAM!" are more artefacts of the Batman TV series than comic books proper. People who read comic books know that their reliance on sound effects are limited. Reading Golden and Silver Age comics, I'm usually pleasantly surprised at the number of vocabulary words in them. Even back when comics were being unfairly criticized, they were teaching kids how to read.</p>
+<blockquote>
+But that was before a comic book was awarded a Pulitzer Prize in 1992, before the term "graphic novel" came into vogue as a synonym and before video games became parents' new archenemy.
+</blockquote>
+<p>OOOOH! We've got a synonym! It's ok to like comics now!</p>
+<blockquote>
+"In America, people have loved comic books, but nobody has looked at the value of it as a reading material," said Darla Strouse, executive director of partnerships for the Maryland Department of Education.
+</blockquote>
+<p>Maybe she hasn't, but lots of people have recognized the value of comics in helping people learn to read for many years. Yes, a statewide program is a nice jump from individual efforts, but don't underestimate everyone else while singing your own praises. Later in the article:</p>
+<blockquote>
+That's quite a rehabilitation for a literary genre that 50 years ago was blamed for causing illiteracy, as well as juvenile crime and sexual misconduct.
+</blockquote>
+<p>It's not a freakin' "genre"! It's a medium! It's part of media! Sheesh! This kind of mistake is inexcusable in a newspaper.<br />
+<br />
+I could continue to pick at it, but I'm sure people have got my point. The article, though poorly researched and written, does contain the good news that schools recognize the value of comic books as an intermediate step to reading for reluctant readers.</p>
+<blockquote>
+In one fifth-grade class at George D. Lisby Elementary School at Hillsdale, in Harford, nearly all the students said they had read comic books in their free time. Superman, the Simpsons and Dragon Ball Z -- the children all said that they would rather read those features than a text-only book.
+</blockquote>
+<p>To pick at it once more, the three mentioned comics represent three different genres.</p>
+<blockquote>
+It is "something with action and excitement . . . and superheroes," Lisby student Rashard Drake, 10, said.<br />
+<br />
+To Lisby reading specialist Alberta Porter, comic books are something more -- a way to tempt struggling readers and introduce them to new words and concepts.<br />
+<br />
+On a recent morning, Porter opened a "Donald Duck and Friends" comic book to a page on which a student had labeled parts of the strip: "narrtive box," "thouht ballon," "speech ballon." A worksheet that accompanies the comic "Dignifying Science: Stories About Women Scientists" asks students to define the words "posthumously" and "rehabilitating" and to explain how the women overcame obstacles and how it relates to the students' experiences.<br />
+<br />
+"We're trying to change some previously held concepts and thoughts that there was no place" for comics, Porter said.
+</blockquote>
+<br />
+&#10;by Tegan at <a href="#110295826549823600">8:58 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/12/comics-going-to-school.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110295826549823600&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110295826549823600" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110295826549823600&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Sunday, December 12, 2004 <span id="110291032816709859"></span></p>
+<strong>Rapid Reviews - TV Shows and a Movie</strong>
+<p><span class="rss:item"><strong><a href="http://www.tvtome.com/JusticeLeague/">Justice League Unlimited</a> [3-10]: Dark Heart</strong>: Atom is the star in this one, but it's also a great "spot the Leaguer" episode, as you can't help but spend half your time trying to identify different heroes. The story is a bit gruesome if you think about the fate of the hikers at the beginning... but it was written by Warren Ellis, so what can you expect? No Aquaman, but still a great little story. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong><a href="http://www.tvtome.com/Smallville/">Smallville</a> [4-09]: Bound</strong>: So Clark finally figures out that Lex isn't a virgin. Nice detective work to solve the crime, but how many times has Lex admitted he is/was a playboy in the past? Why is Clark surprised? I don't know, Clark is naive, but surely not <em>that</em> naive. Especially after his summer in Metropolis. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Sky Captain and the World of Tomorrow</strong>: Finally saw this at a second-run theatre. As fun as I was expecting it to be. Light on plot, but visually lovely and wonderfully evocative of the pulp era. The city was a bit dark and muddy-looking at the start of the movie, but it seemed to improve. I don't know if that was an effect of the print we were watching, or some sort of intentional mood setting. If it was the latter, it didn't work. But I liked the movie overall. It was a great fun, especially the extremely cute ending. I found it very difficult at times to believe that it was almost all computer generated. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+</span></p>
+by Tegan at <a href="#110291032816709859">7:58 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2004/12/rapid-reviews-tv-shows-and-movie.html">- Permalink</a> <a href="javascript:HaloScan(&#39;110291032816709859&#39;);"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=110291032816709859" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/app/post.pyra?blogID=3879027&amp;postID=110291032816709859&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr /></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-valign="top" width="25%"><table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc">current</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://realtegan.blogspot.com/">Bloggity-Blog-Blog-Blog</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">archives</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="20041205-20041211.html">12/05/2004 - 12/11/2004</a><br />
+12/12/2004 - 12/18/2004<br />
+<a href="20041219-20041225.html">12/19/2004 - 12/25/2004</a><br />
+<br />
+<a href="2002Archive.html">2002 Archive</a><br />
+<a href="2003Archive.html">2003 Archive</a><br />
+<a href="2004Archive.html">2004 Archive</a><br />
+</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">other</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://www.eskimo.com/~tegan/aqua/">My Aquaman Website</a><br />
+<a href="20021124-20021130.html#85318589">Why Aquaman?</a><br />
+<a href="sketch/index.html">Aquaman Sketchbook</a><br />
+<br />
+<a href="shop.html">Bookshop</a><br />
+<a href="supportsites.html">Support This Site</a><br />
+<br />
+<a href="rapidreviews.html">Rapid Reviews Index</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#B6B8FC"></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="bloggertemplate59_cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td rowspan="2" data-bgcolor="#036303"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+<td></td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,22 @@
+Question 10.22 
+
+ Question 10.22 
+ Why is the macro
+ #define TRACE(n) printf("TRACE: %d\n", n)
+ giving me the warning ``macro replacement within a string literal''?
+It seems to be expanding
+ TRACE(count);
+ as
+ printf("TRACE: %d\count", count);
+
+ See question 11.18 .
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

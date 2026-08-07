@@ -1,0 +1,128 @@
+Outline-Style - Cascading Style Sheets Properties 
+
+ outline-style 
+ Support Key: 
+ [ CSS2 ] [ O7 ] 
+ Other Outline Properties 
+
+ outline 
+ outline-color 
+ outline-width 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ none 
+ Applicable Elements: 
+ ALL 
+ Inherit From Parent: 
+ No 
+ Applicable Media: 
+ Visual, Interactive 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ The 'outline-style' property specifies an outline line style for the
+ current element.
+
+ The outline properties create a uniform line around an object in order
+ to draw visual attention. An outline is slightly different than a border
+ in several ways: An outline is drawn starting "just outside the border
+ edge" and is allowed to be non-rectangular. Outlines are always rendered
+ on TOP of an element's rendering box and do not influence the
+ box's position or size calculation; the document does not need to be
+ re-flowed when a border is rendered or hidden, but the outline may
+ overlap other nearby elements.
+
+ Allowed Values 
+ inherit 
+ [ CSS2 ] [ O7 ] 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ none 
+ [ CSS2 ] [ O7 ] 
+ Type: Explicit 
+ Description: 
+ No outline is rendered. This overrides any value of 'outline-width', if present. 
+
+ dotted 
+ [ CSS2 ] [ O7 ] 
+ Type: Explicit 
+ Description: 
+ The outline is rendered as a series of dots. 
+
+ dashed 
+ [ CSS2 ] [ O7 ] 
+ Type: Explicit 
+ Description: 
+ The outline is rendered as a series of short lines. 
+
+ solid 
+ [ CSS2 ] [ O7 ] 
+ Type: Explicit 
+ Description: 
+ Renders a solid line for the outline. 
+
+ groove 
+ [ CSS2 ] [ O7 ] 
+ Type: Explicit 
+ Description: 
+ Creates the effect of the outline being grooved or carved in the
+ rendering surface (A 3-D groove - the opposite of 'ridge'.) The groove 
+ bevel color is rendered based upon the value of the 'color' property. 
+
+ ridge 
+ [ CSS2 ] [ O7 ] 
+ Type: Explicit 
+ Description: 
+ Creates the effect of the outline being raised from the rendering surface
+ (A 3-D ridge - the opposite of 'groove'.) The ridge bevel color is
+ rendered based upon the value of the 'color' property. 
+
+ inset 
+ [ CSS2 ] [ O7 ] 
+ Type: Explicit 
+ Description: 
+ Creates the effect of the outline being embedded in the rendering surface
+ (A 3-D inset.) The inset bevel color is rendered based upon the value
+ of the 'color' property. A distinction exists between this value
+ and 'groove'. 
+
+ outset 
+ [ CSS2 ] [ O7 ] 
+ Type: Explicit 
+ Description: 
+ Creates the effect of the outline coming out of the rendering surface
+ (A 3-D outset - the opposite of 'inset'.) The outset bevel color is
+ rendered based upon the value of the 'color' property. A distinction
+ exists between this value and 'ridge'. 
+
+ double 
+ [ CSS2 ] [ O7 ] 
+ Type: Explicit 
+ Description: 
+ A double line outline is drawn on top of the element. The two lines with 
+ the space between adds up to the value of the 'outline-width' property. 
+
+ Example 
+ Ext/Doc: button {
+ outline-style: groove } 
+ In-Line:&#160; < button 
+ STYLE =" outline-style: 
+ groove">Press Me!</ button > 
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

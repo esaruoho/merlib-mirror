@@ -1,0 +1,95 @@
+---
+title: "The Counterpane Fairy: Introduction"
+source_domain: amasci.com
+source_path: ~tegan/cp/index.html
+order: 8688
+reachable_from_entry: false
+images: 2
+internal_links: 2
+extracted: 2026-08-07T06:01:13Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Counterpane Fairy: Introduction
+
+*Source page: `~tegan/cp/index.html`*
+
+# THE COUNTERPANE FAIRY: Introduction
+
+[Skip the intro, go right to the Book!](cpf00.html)
+
+------------------------------------------------------------------------
+
+## THE LAND OF COUNTERPANE
+
+When I was sick and lay a-bed,\
+I had two pillows at my head,\
+And all my toys beside me lay\
+To keep me happy all the day.
+
+And sometimes for an hour or so\
+I watched my leaden soldiers go,\
+With different uniforms and drills,\
+Among the bed-clothes, through the hills;
+
+And sometimes sent my ships in fleets\
+All up and down among the sheets;\
+Or brought my trees and houses out,\
+And planted cities all about.
+
+I was the giant great and still\
+That sits upon the pillow-hill,\
+And sees before him, dale and plain,\
+The pleasant land of counterpane.
+
+-Robert Louis Stevenson (*from* "A Child's Garden of Verses")
+
+------------------------------------------------------------------------
+
+Once upon a time, a hundred years ago, a book was written and published. Children all over read and enjoyed it. So much so that finding a copy of this book is now next to impossible. But those children, now adults, would love to read their favorite book once more.
+
+And then, an avid reader, whose mother was one of those children, discovered the book. And since she already knew how to use the internet, this reader decided that all children everywhere (and of all ages) should have access to this wonderful work of art.
+
+And so, consulting copyright law first, the reader typed in the words of the book, and scanned in images from the *fifteenth* printing. And the reader put the words into HTML and made it look as pretty as possible, and as much as possible like the original book.
+
+And here you are, at the reader's page, devoted to the book *The Counterpane Fairy*. If you are new to the book, read and enjoy, and if you are visiting an old friend, welcome home, I hope I made it as cozy as the original.
+
+------------------------------------------------------------------------
+
+## [THE COUNTERPANE FAIRY](cpf00.html)
+
+All the words, all the story, all the fun.
+
+Last updated March 14th 1999.
+
+[Text only version](counterpane.txt)
+
+<img src="bar.gif" width="436" height="64" alt="--- --- ---" />
+
+*The Counterpane Fairy* was first published by E. P. Dutton and Co in 1898. It went into at least 15 printings. It was written and illustrated by Katharine Pyle, the sister of well known artist and writer Howard Pyle.
+
+Printing History:
+
+First Printing ..... February, 1898\
+Second Printing ..... June, 1899\
+Third Printing ..... January, 1902\
+Fourth Printing ..... August, 1902\
+Fifth Printing ..... September, 1905\
+Sixth Printing ..... July, 1908\
+Seventh Printing ..... July, 1910\
+Eighth Printing ..... November, 1912\
+Ninth Printing ..... August, 1914\
+Tenth Printing ..... December, 1915\
+Eleventh Printing ..... November, 1917\
+Twelfth Printing ..... September, 1919\
+Thirteenth Printing ..... August, 1921\
+Fourteenth Printing ..... June, 1923\
+Fifteenth Printing ..... March, 1925
+
+<img src="bar.gif" width="436" height="64" alt="--- --- ---" />
+
+## [How Mom Got a Copy of *The Counterpane Fairy*](../counterpane.html)
+
+If you know more about this book, or have some memories to share, please e-mail me at <tegan@eskimo.com> and let me know. I'm also looking for scans of the color plates from the first edition to share with the world. If you'd like to mirror this book on your website, please just ask. To find other on-line books, go to [The On-Line Books Page](http://www.cs.cmu.edu/books.html).
+
+-Laura Gjovaag, March 1999

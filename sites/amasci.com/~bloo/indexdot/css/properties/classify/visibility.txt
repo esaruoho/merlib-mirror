@@ -1,0 +1,121 @@
+Visibility - Cascading Style Sheets Properties 
+
+ visibility 
+ Support Key: 
+ [ CSS2 ] 
+ [ IE4 | N4 | O4 ] 
+ Other Classification Properties 
+
+ display 
+ position 
+ float 
+ clear 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ visible 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ < layer 
+ VISIBILITY =""> 
+
+ What is it? 
+ This property controls whether the content of an element box is rendered
+ (including the borders and backgrounds.) If an element box is invisible
+ it still affects document layout as if it were visible (to prevent an
+ element box from affecting layout, the 'display' property should be
+ set to 'none'.)
+
+ Allowed Values 
+ inherit 
+ [ CSS2 ] 
+ [ IE4 | N4 | O4 ] 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ visible 
+ [ CSS2 ] 
+ [ IE4 | N4.5x | O4 ] 
+ Type: Explicit 
+ Description: 
+ The element box is visible. 
+
+ hidden 
+ [ CSS2 ] 
+ [ IE4 | N4.5x | O4 ] 
+ Type: Explicit 
+ Description: 
+ The element box is invisible (completely transparent to content beneath),
+ but still affects document layout flow as if it were visible. 
+
+ collapse 
+ [ CSS2 ] [ N6 | O4 ] 
+ Type: Explicit 
+ Description: 
+ Unless this value is used in the context of table rows or columns, it will
+ have the same effect as 'hidden'. In the context of tables, spanned cells 
+ may be clipped and reacts similar to 'display: none' for the table element. 
+
+ hide 
+ [ N4-4.x ] 
+ Type: Explicit 
+ Description: 
+ The element box is invisible (completely transparent to content beneath),
+ but still affects document layout flow as if it were visible. 
+
+ show 
+ [ N4-4.x ] 
+ Type: Explicit 
+ Description: 
+ The element box is visible. 
+
+ Example 
+ Ext/Doc: p 
+ { visibility: hidden } 
+ In-Line:&#160; < p 
+ STYLE =" visibility: 
+ hidden">text</ p > 
+
+ Notes 
+
+ Before its inclusion in CSS2, this property was first proposed in the W3C
+ Working Draft "Positioning HTML Elements with Cascading Style Sheets" (8/19/97,
+ http://www.w3.org/TR/WD-positioning )
+ In CSS2, this was not an "inherit from parent" property, and the default 
+ value was "inherit" (yes, a little odd, that =)). In CSS 2.1 the default 
+ changes to "visible" and it becomes an inherited-from-parent property
+ (which is the way the browsers already treat it anyway.)
+
+ Browser Peculiarities 
+
+ Internet Explorer 
+
+ 4.0+: 
+ - Using a value of "hidden" for this property and a 'position'
+ value of "absolute" will behave exactly the same as setting
+ the 'display' property to "none."
+
+ Netscape 
+
+ 4.x: 
+ - This property does not apply to LI/DT/DD, form fields,
+ TABLE, and IMG elements.
+ - Using a value of "hide" for this property and a 'position'
+ value of "absolute" will behave exactly the same as setting
+ the 'display' property to "none."
+
+ Boring Copyright Stuff....

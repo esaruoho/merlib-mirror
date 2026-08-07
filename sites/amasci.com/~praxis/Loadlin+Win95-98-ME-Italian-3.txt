@@ -1,0 +1,57 @@
+The Loadlin+Win95/98/ME mini-HOWTO: Per cominciare: 
+
+ 3. Per cominciare: 
+
+ 3.1 Primo: 
+
+ Modificate o create config.sys nella directory C:\ di Windows. 
+Il contenuto dovrebbe essere all'incirca il seguente:
+
+[menu]
+menuitem=Linux, Mandrake Linux 7.2
+menuitem=Win98, Windows 98
+menucolor=15,1
+menudefault=Win98, 10
+
+[linux]
+
+[win98]
+
+ Se sul vostro sistema esiste gia' un file config.sys , inserite 
+il contenuto di quel file sotto la sezione [win98] . 
+La sezione [linux] deve essere lasciata vuota.
+
+ 3.2 Secondo: 
+
+ Modificate o create il file autoexec.bat nella directory C:\ di 
+Windows. Il contenuto dovrebbe essere all'incirca il seguente:
+
+goto %config%
+
+:linux
+call c:\linux.bat
+
+:win98 
+
+ Come prima, se e' gia' presente un file autoexec.bat , 
+inserite il contenuto di quel file sotto la sezione :win98 .
+
+ 3.3 Terzo: 
+
+ Create un file dal nome linux.bat . Il posto migliore dove 
+salvarlo C:\ ma potete metterlo in qualsiasi altra cartella purche' 
+facciate riferimento al percorso. Il contenuto dovrebbe essere 
+all'incirca il seguente: 
+
+@echo off
+c:\loadlin c:\vmlinuz root=/dev/hda5 ro 
+
+ L'esempio citato assume che loadlin.exe e vmliuz si 
+trovino entrambi nella directory C:\ e che linux sia stato installato 
+nella partizione /dev/hda5. La vostra configurazione potrebbe essere diversa.
+
+ L'importante assicurarsi che loadlin e il vostro kernel
+si trovino referenziati correttamente. Tutto qua!
+
+ Questo dovrebbe essere sufficiente, ed anche il setup sul mio 
+computer, che effettua il dual boot con Windows98.

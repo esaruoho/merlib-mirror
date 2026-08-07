@@ -1,0 +1,59 @@
+Question 6.13 
+
+ Question 6.13 
+ How do I declare a pointer to an array?
+
+ Usually, you don't want to.
+
+When people speak casually of a pointer to an array,
+they usually mean a pointer to its first element.
+ Instead of a pointer to an array,
+consider
+using a pointer to one of the array's elements.
+Arrays of type T decay into pointers to type T
+(see question
+ 6.3 ),
+which is convenient;
+subscripting or incrementing
+the resultant pointer
+will access
+the
+individual members of the array.
+True pointers to arrays, when
+subscripted or incremented, step
+over entire arrays,
+and are generally useful only when operating
+on arrays of arrays,
+if at all.
+(See
+question
+ 6.18 .)
+ If you really need to declare a pointer to an entire array,
+use something like
+`` int (*ap)[N]; ''
+where N is the size of the array.
+(See also question
+ 1.21 .)
+If the size of the array is unknown, N can
+in principle
+be omitted,
+but the resulting type, ``pointer to array of unknown size,''
+is useless.
+
+ See also question 6.12 .
+
+ References:
+
+ANSI Sec. 3.2.2.1
+
+ISO Sec. 6.2.2.1
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

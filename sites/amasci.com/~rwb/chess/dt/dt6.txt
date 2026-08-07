@@ -1,0 +1,144 @@
+Newsgroups: rec.games.chess
+From: jarmo@cs.tut.fi (Sorvari Jarmo)
+Subject: A scratchy end game; another could-have-been?
+In-Reply-To: mkukkone@klaava.Helsinki.FI's message of 14 Jun 92 07: 15:05 GMT
+Message-ID: <JARMO.92Jun15104753@korppi.cs.tut.fi>
+Sender: usenet@funet.fi (#Kotilo NEWS system )
+Nntp-Posting-Host: cs.tut.fi
+Organization: Tampere Univ. of Technology, Finland.
+References: <1992Jun14.071505.6198@klaava.Helsinki.FI>
+Distribution: rec
+Date: Mon, 15 Jun 1992 08:47:53 GMT
+Lines: 126
+
+
+In article <1992Jun14.071505.6198@klaava.Helsinki.FI> mkukkone@klaava.Helsinki.
+FI (Mika Kukkonen) writes:
+
+>  As scratchy is having an amazing performance in ICS, as a comfort I like
+>  to show how even we non-masters can draw Deep Thought :)
+
+Me too, me too!  And I'm a non-master-candidate (by Finnish
+standards).
+
+My game resembles Mika's game, at least in that it too is pretty dull.
+Apparently so dull, that even a computer fell asleep during it.
+
+
+jarmo vs. scratchy
+Game in 15
+Time Left : White (7 : 21), Black (6 : 48)
+Moves Listing :
+
+Move    White                  Black
+----    -----                  -----
+1       P/d2-d4 (0:07)         N/g8-f6 (0:01)
+2       P/c2-c4 (0:04)         P/e7-e6 (0:01)
+3       N/b1-c3 (0:02)         B/f8-b4 (0:01)
+4       P/f2-f3 (0:04)         P/d7-d5 (0:01)
+5       P/a2-a3 (0:03)         B/b4-c3 (0:01)
+6       P/b2-c3 (0:02)         P/c7-c5 (0:01)
+7       P/c4-d5 (0:06)         N/f6-d5 (0:01)
+8       P/d4-c5 (0:05)         Q/d8-a5 (0:01)
+9       P/e2-e4 (0:03)         N/d5-e7 (0:01)
+10      B/c1-e3 (0:04)         o-o (0:01)
+11      Q/d1-b3 (0:08)         Q/a5-c7 (0:02)
+12      B/f1-c4? (0:38)
+
+An error, but I simply could not remember any more theory.  The wise
+books say 12. a4 and 12. Nh3 are normal here.  I would imagine black
+should render white a bit passive by 12... Nec6 13. Qb2 Na5 14. Ba2
+Nd7.  Deep Thought's continuation justifies my 12. move, it seems.
+
+12                             N/b8-d7 (0:18)
+13      N/g1-e2 (0:33)         N/d7-c5 (0:01)
+14      Q/b3-b4!? (0:05)
+
+14... Nd7 15. Bxe6 favors white.  Now I get a chance to simplify
+(dullify).  Giving my better bishop, yeah...
+
+14                             P/b7-b6 (0:18)
+15      B/e3-c5 (0:07)         P/b6-c5 (0:18)
+16      Q/b4-b3 (0:05)         R/a8-b8 (0:17)
+17      Q/b3-c2 (0:03)         P/e6-e5?! (0:19)
+
+I'm not so sure about this move.  It enhances my bishop, and gives the
+square d5.  It does not free black's bishop much.
+
+18      o-o (0:07)             R/f8-d8 (0:08)
+19      R/f1-d1 (0:11)         N/e7-g6 (0:16)
+20      N/e2-g3 (0:12)
+
+Eyeing for the square d5.
+
+20                             N/g6-f4 (0:17)
+21      N/g3-f1 (0:10)         R/b8-b6 (0:15)
+22      R/d1-d8 (0:27)
+
+Let's dullify again!
+
+22                             Q/c7-d8 (0:01)
+23      R/a1-d1 (0:03)         R/b6-d6 (0:18)
+24      R/d1-d6 (0:10)         Q/d8-d6 (0:04)
+25      Q/c2-d2 (0:09)         Q/d6-d2 (0:15)
+26      N/f1-d2 (0:03)
+
+White should be in no trouble here.  In fact, I would say white is a
+bit better.
+
+26                             P/h7-h5 (0:39)
+27      N/d2-b3! (0:39)
+
+Forcing another exchange, and getting the initiative.
+
+27                             B/c8-e6 (0:14)
+28      B/c4-e6 (0:10)         N/f4-e6 (0:03)
+29      N/b3-a5 (0:04)         N/e6-f4 (0:10)
+
+I wonder if 29... a6 would be better?  But if black's knight became
+passive, the white king would march to c4.
+
+30      N/a5-c6 (0:09)         N/f4-e2 (0:14)
+31      K/g1-f2 (0:03)         N/e2-c3 (0:10)
+32      N/c6-a7 (0:02)         N/c3-a4 (0:15)
+
+I dare say that black is in Deep Trouble here; white's king is more
+active, and white has a farther passed pawn.
+
+33      K/f2-e3 (0:17)         P/c5-c4 (0:14)
+
+Was this necessary?
+
+34      N/a7-c6! (0:20)         P/f7-f6 (1:22)
+
+Note how long Deep Thought took here!
+
+35      N/c6-a5 (0:28)         N/a4-b2 (0:23)
+36      K/e3-d2 (0:16)         P/g7-g5 (0:22)
+37      K/d2-c3 (0:29)         N/b2-d1 (0:12)
+38      K/c3-d2 (0:11)         N/d1-b2 (0:13)
+39      K/d2-c3 (0:43)         N/b2-d1 (0:14)
+40      K/c3-d2 (0:04)         N/d1-b2 (0:11)
+
+One bad side about not knowing so much about end games is that
+generally you play end games pretty badly :-).  And you are very
+uncertain when trying to assess things.  Seeing that I have a sure
+draw against the big beast, I got a high fever, and the world started
+spinning.  Who wouldn't be itching to even draw against scratchy?
+Scratching my sweaty forehead, I just couldn't get deep in my thoughts
+(should I take the c-pawn and even try for a win, at the same time
+risking a blunder so typical of me?), so I was glad to see my fingers
+type "draw"!
+
+But hey, isn't white winning here?  It is pretty obvious:  41. Kc2!
+Nd3 42. Nc4 Ne1+ 43. Kd2 Nxg2 44. a4 Nf4 45. a5 Ne6 46. a6 Nc7 47. Nb6
++-.  During the game I only looked at 41. Kc3 Nd1 42. Kxc4 Ne3+ etc.,
+which unfortunately also wins.  But I was so nervous and excited...
+--
+-----------------------------------------------------------------------------
+! Jarmo Sorvari                         Control Engineering Laboratory      !
+! jarmo@ae.tut.fi                       Tampere University of Technology    !
+--------------------------------------- BOX 527, 33101 Tampere, Finland -----
+
+
+

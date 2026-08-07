@@ -1,0 +1,115 @@
+TQM 
+
+ TQM 
+
+ Total Quality Management (TQM) is a participative management style that
+stresses total staff commitment to "customer" satisfaction. It is a holistic approach
+to managing complex organizations and replaces top-down management with
+decentralized customer-driven decision making. Total Quality Management is an
+integrated management system for creating and
+implementing a continuous
+improvement process -- eventually producing
+results that exceed customer expectations. It is
+based on the assumption that 90 percent of problems are a result of process, not employees. 
+
+The development of TQM can be traced to several consultants including Deming , Juran and Crosby .
+TQM is a process and strategy that in certain situations can improve an organization's
+effectiveness and efficiency.
+
+TQM places responsibility for quality problems with management rather than on the workers. A
+principal concept of TQM is the management of process variation which
+seeks to identify special and common needs. The objective of TQM is the continual improvement
+of processes, achieved through a shift in focus from outcomes (or products) to the processes that
+produce them. TQM achieves its objective through data collection and analysis, flow charts, cause
+and effect diagrams, and other tools which are used to understand and improve processes. 
+
+ History of Quality 
+[ Top ] [ Next ] [ Prev ] [ Bot ]
+
+ The development of Total Quality Management can be traced to the first management consultant,
+an engineer named Frederick W. Taylor. His application of science to complex human endeavors
+was built upon by Walter A. Shewhart, a statistician who developed work sampling and control
+charts that attracted the interest of another statistician, Edwards Deming . Joseph M. Juran , an
+investigator at the Hawthorne Works experiments, like Deming, drew from Shewhart's work and
+recognized that system problems could be addressed through three fundamental managerial
+processes (planning, control and improvement). Philip B. Crosby advocated the "zero-defects"
+program adopted by the US federal government defining quality as "conformance to
+requirements". Work regarding quality improvement is continuing. The application of these
+concepts to service industries is resulting in new concepts based on Philip Kotler's marketing
+approach and a strong customer focus. Deming, Juran, and Crosby, who initiated the TQM
+process, share a common theme of participatory management. Management participation and
+attitude, professional quality management, employee participation, and recognition reflect a
+philosophy making internal and external customer satisfaction as the organization's primary goal.
+
+ Deming, Edwards W. 
+[ Top ] [ Next ] [ Prev ] [ Bot ]
+
+ Deming determined that quality is not determined by the capabilities of the workers but by the
+system of work that determines how work is performed. If the workers have attained process
+stability (removal of all the variations that could occur within the work process) and output is still
+unacceptable, then a redesign of the system is
+warranted. For more on Deming's work see
+ http://www-caes.mit.edu/products/deming/home.html . 
+His work lead to TQM .
+
+ Juran, Joseph M. 
+[ Top ] [ Next ] [ Prev ] [ Bot ]
+
+ Juran, an investigator at the Hawthorne
+Works experiments , recognized that system problems
+could be addressed through three fundamental managerial processes (planning, control and
+improvement). His work drew from well understood financial management
+processes, but
+recognized the positive aspects of prevention and the costs associated
+with auditing, verifying,
+checking, and final inspection.
+His work is considered part of TQM .
+
+ Crosby, Philip B. 
+[ Top ] [ Next] [ Prev ] [ Bot ] 
+
+ Crosby advocated the "zero-defects" program adopted by the US federal government defining
+quality as "conformance to requirements". He emphasized prevention rather than inspection
+(audits) and promoted a definition of quality as "meeting the customers requirements the first time
+and every time". 
+His work is part of TQM .
+
+ Member of the 
+
+ Quality 
+Management WebRing 
+ Next 
+Page | Skip 
+Next Page | Previous 
+Page | Next 
+5 Pages 
+
+ List 
+All Pages | Random 
+Page 
+
+[ Top ] [ Next] [ Prev ] [ Bot ] 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+[ Home ]
+[ Decision Tree ] 
+[ Deep Knowledge ]
+[ Acknowledgements ]
+[ Map ] 
+
+ http://www.eskimo.com/~mighetto/lstqm.htm - last update January 11,
+2001. 
+
+ This topic is included in Decision Maker's smart
+database. Select the icon to
+
+display an imagemap.

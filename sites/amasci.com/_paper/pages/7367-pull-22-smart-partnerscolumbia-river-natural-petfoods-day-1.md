@@ -1,0 +1,865 @@
+---
+title: "Pull 22 -- Smart Partners/Columbia River Natural Petfoods -- Day 1"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0102/Pull22.html
+order: 7367
+reachable_from_entry: false
+images: 0
+internal_links: 4
+extracted: 2026-08-07T05:59:59Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 22 -- Smart Partners/Columbia River Natural Petfoods -- Day 1
+
+*Source page: `~samoyed/iwpa/0102/Pull22.html`*
+
+Smart Partners/Columbia River Natural Petfoods\
+Ridgefield, Washington
+===============================================
+
+Pull: 22
+
+Organizer(s):Ron Overgaard
+
+Wheels on Carpet Region: 2
+
+Track:
+
+One year old carpet, Good condition
+
+Date: Sat 29 Sep 2001
+
+Weather:
+
+Sunny and 80F
+
+Day 1 of 2
+
+<div align="center">
+
+<table data-border="1" data-cellpadding="2" data-bordercolorlight="#0000FF" data-cellspacing="1" data-bordercolordark="FF0000">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2">Color<br />
+Codes</td>
+<td><em><strong>%</strong></em> -- Working Dog (WD) Leg Eligibility</td>
+<td data-bgcolor="#FFFF00">WD</td>
+<td data-bgcolor="#00FFFF">WD Excellent</td>
+<td data-bgcolor="#00FF00">WD Superior</td>
+</tr>
+<tr>
+<td><strong><em>Handler</em></strong> -- Owner / Handler relationship</td>
+<td><p>Owner</p></td>
+<td data-bgcolor="#FFFF00">Family Member</td>
+<td data-bgcolor="#00FFFF">Other Membership</td>
+</tr>
+</tbody>
+</table>
+
+Chief Judge: Ronald Overgaard
+
+</div>
+
+40 \# Class\
+Judged by Ronald Overgaard\
+190 \# Start weight, 80 \# Increment, Cart weighs 150 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Wyllum
+
+2
+
+990
+
+13.66
+
+34
+
+29.12
+
+5.0
+
+Diane Jessup
+
+Staffordshire Bull Terrier
+
+60 \# Class\
+Judged by Nathan Sellers Apprenticing under Ronald Overgaard\
+350 \# Start weight, 200 \# Increment, Cart weighs 150 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Chain Puppy
+
+2
+
+1950
+
+32.80
+
+60
+
+32.50
+
+11.0
+
+Stan Hiller
+
+Am. PitBull Terrier
+
+Roxy
+
+2
+
+1750
+
+13.17
+
+56
+
+31.25
+
+8.0
+
+Ronald Overgaard
+
+Am. Staffordshire Terrier
+
+Storm
+
+2
+
+1550
+
+49.43
+
+54
+
+28.70
+
+5.0
+
+Connie Eversole
+
+Am. PitBull Terrier
+
+Erin Fay
+
+2
+
+1350
+
+10.72
+
+51
+
+26.47
+
+3.0
+
+Diane Jessup
+
+Am. PitBull Terrier
+
+Joxer
+
+2
+
+950
+
+13.28
+
+58
+
+16.38
+
+2.0
+
+Kim Allison
+
+Am. PitBull Terrier
+
+Sera
+
+P
+
+950
+
+60.72
+
+55
+
+17.27
+
+.
+
+Maider Sarmiento
+
+Am. PitBull Terrier
+
+Quinn
+
+2
+
+550
+
+9.72
+
+59
+
+9.32
+
+0.5
+
+Susan Fletcher
+
+Chinook
+
+80 \# Class\
+Judged by Nathan Sellers Apprenticing under Ronald Overgaard\
+350 \# Start weight, 240 \# Increment, Cart weighs 150 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Pepperhaus Talon
+
+2
+
+2270
+
+31.77
+
+79
+
+28.73
+
+10.0
+
+Ronald Overgaard
+
+Rottweiler
+
+Awax
+
+2
+
+2030
+
+51.06
+
+74
+
+27.43
+
+7.0
+
+Doug Eversole
+
+Am. PitBull Terrier
+
+Wild Sky Magoo
+
+2
+
+1790
+
+31.84
+
+67
+
+26.72
+
+4.0
+
+Gary Romane
+
+Am. PitBull Terrier
+
+Butchie
+
+2
+
+1550
+
+18.48
+
+64
+
+24.22
+
+2.0
+
+Diane Jessup
+
+Am. PitBull Terrier
+
+Glacier
+
+2
+
+1310
+
+56.30
+
+68
+
+19.26
+
+1.0
+
+Heather Leu
+
+Pitbull mix
+
+Dakota
+
+2
+
+830
+
+9.09
+
+63
+
+13.17
+
+0.5
+
+Susan Fletcher
+
+Chinook
+
+100 \# Class\
+Judged by Nathan Sellers Apprenticing under Ronald Overgaard\
+350 \# Start weight, 240 \# Increment, Cart weighs 150 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Pepperhaus "T"
+
+2
+
+2750
+
+17.27
+
+94
+
+29.26
+
+11.0
+
+Kent Stuart
+
+Rottweiler
+
+Pepperhaus Truman
+
+2
+
+2750
+
+21.51
+
+97
+
+28.35
+
+8.0
+
+Ronald Overgaard
+
+Rottweiler
+
+Buster
+
+2
+
+2270
+
+16.52
+
+91
+
+24.95
+
+5.0
+
+David Douthit
+
+Am. Bull Dog
+
+Turbo
+
+2
+
+2030
+
+16.28
+
+89
+
+22.81
+
+3.0
+
+Doug Eversole
+
+Am. PitBull Terrier
+
+Rock
+
+2
+
+1790
+
+10.57
+
+98
+
+18.27
+
+2.0
+
+Gary Romane
+
+Am. PitBull Terrier
+
+Pepperhaus Samson
+
+2
+
+1310
+
+6.51
+
+94
+
+13.94
+
+1.0
+
+Kent Stuart
+
+Rottweiler
+
+Boomerang
+
+2
+
+830
+
+15.58
+
+90
+
+9.22
+
+0.5
+
+Devin Crouch
+
+Alaskan Malamute
+
+125 \# Class\
+Judged by Ronald Overgaard\
+350 \# Start weight, 320 \# Increment, Cart weighs 150 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Alkis Sam
+
+2
+
+1950
+
+9.34
+
+105
+
+18.57
+
+12.0
+
+Sarah Miller
+
+Gr. Swiss Mtn. Dog
+
+Gala
+
+P
+
+1950
+
+17.80
+
+110
+
+17.73
+
+.
+
+Jan Young
+
+Gr. Swiss Mtn. Dog
+
+Avalanche
+
+2
+
+1950
+
+27.74
+
+112
+
+17.41
+
+6.0
+
+George Ferrari
+
+Alaskan Malamute
+
+Koluk
+
+2
+
+1950
+
+49.75
+
+114
+
+17.11
+
+4.0
+
+Devin Crouch
+
+Alaskan Malamute
+
+Dakota
+
+2
+
+1630
+
+11.06
+
+118
+
+13.81
+
+3.0
+
+Aviva Beach
+
+Alaskan Malamute
+
+Coqueta
+
+2
+
+1310
+
+42.93
+
+108
+
+12.13
+
+2.0
+
+Salvador Bibian
+
+Alaskan Malamute
+
+Yukia
+
+2
+
+990
+
+47.49
+
+103
+
+9.61
+
+1.0
+
+Anita Bibian
+
+Alaskan Malamute
+
+Yukon
+
+2
+
+No Pull
+
+121
+
+.
+
+0.0
+
+Judith Goodwin
+
+Alaskan Malamute
+
+150 \# Class\
+Judged by Gary Romane Apprenticing under Ronald Overgaard\
+350 \# Start weight, 320 \# Increment, Cart weighs 150 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Gus
+
+2
+
+2910
+
+14.72
+
+146
+
+19.93
+
+8.0
+
+Ronald Overgaard
+
+Mastiff
+
+Grizzly
+
+2
+
+2910
+
+15.30
+
+148
+
+19.66
+
+5.0
+
+Nathan Sellers
+
+Alaskan Malamute
+
+Odus
+
+2
+
+2270
+
+41.95
+
+130
+
+17.46
+
+2.0
+
+Todd Juenger
+
+Swiss Mountain Dog
+
+Big Thunder
+
+2
+
+1950
+
+22.13
+
+140
+
+13.93
+
+0.5
+
+Sue Ferrari
+
+Alaskan Malamute
+
+Unlimited Class\
+Judged by Gary Romane Apprenticing under Ronald Overgaard\
+350 \# Start weight, 320 \# Increment, Cart weighs 150 \#
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler\
+Owner
+
+Breed
+
+Moses
+
+2
+
+3550
+
+15.27
+
+190
+
+18.68
+
+6.0
+
+Ronald Overgaard
+
+English Mastiff
+
+Chunka
+
+2
+
+3230
+
+15.83
+
+167
+
+19.34
+
+3.0
+
+Nathan Sellers
+
+Alaskan Malamute
+
+Last Updated: 21:32:08 on 11-26-2001
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull21.html) | [Next Pull \#](Pull23.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

@@ -1,0 +1,101 @@
+---
+title: "DeLorme's Map'n'Go Upgrade"
+source_domain: amasci.com
+source_path: ~samoyed/maps/MapNGo2.htm
+order: 7551
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T06:00:11Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# DeLorme's Map'n'Go Upgrade
+
+*Source page: `~samoyed/maps/MapNGo2.htm`*
+
+DeLorme's Map'n'Go Upgrade
+
+*25 July 1996 (last update 30 July, 1996)*
+
+Earlier this month DeLorme released a new version (2.0) of Map'n'Go. Information about what was changed or enhanced will be outlined and impressions will be presented.
+
+*This comes from about 8 hours of hands on operation (my colleague) and sales literature*
+
+*Text in italics needs verification or clarification.*
+
+------------------------------------------------------------------------
+
+- [Overview](#Overview)
+- [Deficiencies corrected or reduced](#Deficiencies_reduced)
+- [Enhancements](#Enhancements)
+- [New features](#New_Features)
+- [Deficiencies not addressed](#Deficiencies_not_Addressed)
+- [Performance](#Performance)
+- [Sources & References](#Sources_References)
+
+------------------------------------------------------------------------
+
+<span id="Overview">Overview</span>
+
+DeLorme has joined forces with AAA (American Automobile Association) to combine AAA's accommodations and rating system with their route planning system. The emphasis has been on lodging, restaurants, campgrounds and things to see. The map details have been extended to the city street level for several hundred cities and you can search on addresses in these cities. And, the printing options have improved dramatically.
+
+Route planning has not changed much and you still cannot plan a real timeline for a trip. And, lastly, performance could be a problem for small memory machines and/or if you are requesting a lot of detail.
+
+------------------------------------------------------------------------
+
+<span id="Deficiencies_reduced">Deficiencies Reduced</span>
+
+- Database errors we know of have been corrected. There were occasions where it would insist on taking a forest service road; or leave a good highway and go out of its way on a lesser one, only to return to the original highway. This is not to say there are still not errors.
+- Printing the directions summary (itinerary) is now possible. In version one, you could see it on the screen, but you could not print it. It contains a line type symbol (stop, divided hwy. 2 lane hwy., etc.), name of road (hwy. number and local name) or city, compass direction, nearest city if close, exit number (sometimes), time since start of journey, distance since start of journey, distance to go on this heading.
+- Controlling the printing of strip maps is now possible. Version one would allow suppressing individual maps by number, but you did not know the area covered until it was printed (and it could easily be tens of pages). Now you can chose the sections of your route you want printed in a strip map via print preview.
+- North at the top. Strip maps could have the compass orientation in any direction, making it difficult to orient the map with your surroundings. This is still true with strip maps (as they are oriented so you are going from bottom to top), but you can also print direction maps (sectioning you trip, similar to a strip map) that are all oriented with north at the top (see new features section).
+
+------------------------------------------------------------------------
+
+<span id="Enhancements">Enhancements</span>
+
+- More street detail. They claim street level detail of 211 US, 20 Canadian and 10 Mexican cities (probably meaning urban areas). E.g., major streets in Seattle were visible in version 1, but not in it's suburbs. Now you can possibly find your street (or get close).
+- More restaurants and lodgings, all with AAA ratings. All listings from the AAA tour books are included. They also have prices*.*
+- Campgrounds with prices and whether they are privately or publicly owned.
+- More things to see and do, and AAA flagged if exceptional. 14,000 points of interest ( natural features to historic sites; art museums to amusement parks). 7,000 fairs, rodeos, festivals, etc.
+- Filtering options galore. Select on type, price and rating of lodgings and restaurants within selected distance from your route. Select on category of attractions within distances of your route. And, you can have different selections along your route.
+- Specify your speeds through congested areas (You have to identify congested areas).
+- Stop over points can be moved up or down within your route. This can be handy if you got some in the wrong order.
+- Localized list of sites, lodging, etc. If you have most of these turned off while you are planning, but you want all on around a particular city, then double click on the city and turn on all selections in the dialogue box.
+
+------------------------------------------------------------------------
+
+<span id="New_Features">New Features</span>
+
+- Direction maps are a way to divide up your trip into section maps of 50, 100, 200, 300 or 1000 miles. They cover a much bigger area than strip maps, and are oriented with north at the top. They have the appropriate direction summaries printed at the bottom of the page. As comparison, the strip maps show your route going from bottom to top, cover only 10's of miles in width and variable lengths of your route, have more detail and blow-up of cities, list miles on the left, and time on the right, and have route changes pointed out. They can consist of a large number of pages for a trip (say 30 for a 2000 mile trip).
+- Exit numbers. They are now on strip maps. They might be also be on higher magnification maps.
+- Select lodging and restaurants by price, select by ethnic type (explained in preceding section).
+- Scenic route option added, and they still kept the quickest, shortest and preferred.
+- Online (Internet) information on changing conditions. Check their free Internet site for construction along your route, recent listings of events, and even the weather forecast. This information can be included in your travel plan.
+- Search on street addresses and include annotations on your map.
+- GPS link is advertised. Need DeLorme-approved GPS receiver and portable PC with CD-ROM drive. See [www.mapngo.com](http://www.mapngo.com) for more information.
+
+------------------------------------------------------------------------
+
+<span id="Deficiencies_not_Addressed">Deficiencies not Addressed</span>
+
+- Cannot plan the real timeline of a trip, or anywhere near. Stop-over time cannot be specified. You cannot select preferred times of the day for traveling, *nor start time of day*. All you get is estimated driving time.
+- Cannot avoid certain areas without setting stop-over points. If it picks a section of road you don't want and there is no town along the section you want, you are out of luck.
+- No gas cost estimate.
+
+------------------------------------------------------------------------
+
+<span id="Performance">Performance</span>
+
+- Potentially much slower than version one. My colleague has an 8MB 586/90, 2x CD, Windows 3.11 OS. He placed the optional 20MB (which was supposed to improve speed) from the CD on his hard disk (29MB total). Doing his first route of about 400 miles, with the out-of-the-box settings was excruciatingly slow (he left the room a while). The same route with all the attractions and facilities turned off was maybe faster than version one. And printing the four 100 mile sections of his trip (with fair detail) was even worse. Ten minutes before the printer selected the first sheet, an hour to complete the four sheets, and maybe 5 - 10 minutes to recover after printing. He said in one case he went to bed. His disk was very active the entire time. The CD was not a bottleneck.
+- Small memory (8 MB) is probably not enough. They state this as the minimum, but recommend 16 MB.
+- Map'n'Go is a 32 bit application for Windows 95, but is compatible with Windows NT 3.51 and Windows 3.1 or higher.
+
+------------------------------------------------------------------------
+
+<span id="Sources_References">Sources & References</span>
+
+My information is currently coming from one colleague that has used the earlier version to plan many trips. He is feeding me tidbits as he explores the new version. I also have access to the sales literature.
+
+See [DeLorme's Home page](http://www.delorme.com/) and [secondary page](http://www.mapngo.com) for more information.

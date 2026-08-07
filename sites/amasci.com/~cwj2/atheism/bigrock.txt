@@ -1,0 +1,102 @@
+The Big Rock Conundrum 
+
+You can support the work that goes into creating this online content by contributing
+a small amount online. I suggest about $2-$3 for each year that you read the website.
+
+ Charles W. Johnson 
+ The "Big Rock" Conundrum 
+ Last revised 28 July 1998 
+
+ Common Arguments 
+ Web 
+ IRC 
+ Usenet 
+ Christianity 
+ Evolution 
+
+ Homepage 
+ Feedback 
+
+ "Can God create a rock so heavy he cannot lift it?" 
+
+This is known as the "Big Rock" conundrum. It is often used by
+atheists seeking to disprove the possibility of the Christian god, and
+any other purportedly omnipotent god. Sadly, it is logically flawed.
+
+Remember that omnipotence means "the ability perform all tasks."
+However, "tasks" that are logically impossible, such as creating
+square circles, are not really tasks at all; they are nonexistent, the
+ null set . Thus they are not real actions for an omnipotent
+entity to perform. The "Big Rock" conundrum disappears when you
+consider this. In argument form:
+
+Given:
+
+ U : The Universal set of tasks
+ A : A proposed task
+ B : A proposed omnipotent entity
+ r : A rock
+ C x : Proposed task of creating object x 
+ M x : Proposed task of moving object x 
+
+Assuming:
+
+ Omnipotence is the ability to perform all tasks. (All members of
+ U )
+ If the definition of proposed task A is
+self-contradictory, then A is not a member of
+ U .
+ If A is not a member of U, then A is not a task.
+ Any entity X can only perform real tasks (elements of
+ U )
+
+One can infer that:
+
+ If A is logically impossible, then
+ A is not a task (prem. 2-3)
+ B has the ability to perform all tasks (prem 1)
+ B only has the ability to perform real tasks (prem 4)
+ B does not have the ability to perform nontasks (inf 3)
+ B has the ability to perform all members of U (prem 1)
+ If B performed Cr such that
+ Mr is a nontask, B could not perform
+ Mr (inf 4)
+ If B can perform all Mr , then
+ B cannot perform Cr such that
+ Mr is a nontask (inf 4)
+
+In conclusion:
+
+ Either B can perform Mr for all
+ r xor B can perform Cr such that
+ Mr is a nontask.
+
+The argument leads to the conclusion that an omnipotent being could
+rationally be able to do one xor the other and still be omnipotent.
+The conclusion to this argument is (A xor ~A), which simplifies to
+TRUE. IOW, this is a tautology. And proves the argument to be valid
+rather than contradictory (in which case it would end in a direct
+contradiction, (A and not-A), or a paradox of self-reference, (A
+implies not-A).
+
+The obvious points of attack are premises 1 and 4. However, if you
+assume that an omnipotent entity is able to perform both tasks and
+nontasks, you will ALWAYS end up with logical contradictions or
+paradoces of self-reference. To borrow a phrase from computer science,
+ garbage in, garbage out . So, I submit that such a definition
+of omnipotence is inherently empty and will not get you anywhere with
+relatively rational theists. Another avenue of attack to this
+definition is to analyze it from the perspective of set algebra: from
+this view, it does not make a jot of difference whether you define
+omnipotence to include logically impossible or not; nonexistant tasks
+form the null set ( phi ), and the union of any set A 
+with phi is always that set A ( A U phi =
+ A ). Thus, either way you still end up with the same set U of
+possible tasks.
+
+If there is a contradictory conclusion of omnipotence, it lies elsewhere.
+
+ Written and maintained by Charles W. Johnson
+( cwj2@eskimo.com ). 
+ All pages copyright 1996-2002 by Charles W. Johnson unless otherwise noted. 
+ All rights reserved.
