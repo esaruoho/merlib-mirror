@@ -1,0 +1,767 @@
+Pure Mac: Presentation - Software for Macintosh 
+
+ Presentation 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Main Programs 
+ Teleprompters 
+ Utilities & Add-ons 
+
+ Canvas 
+ Director 
+ Elements Studio 
+ Flash 
+ Keynote 
+ Kinemac 
+ Mapwing Creator 
+ PhotoPresenter 
+ PowerPoint 
+ NeoOffice 
+ ProfCast 
+
+ Presentation Prompter 
+ Prompt! 
+ Videocue 
+
+ Cinematize 
+ Gordon 
+ Keynote Quartet 
+ Mousepose 
+ OmniDazzle 
+ Salling Clicker 
+ Screenography 
+ SWF 'n Slide 
+ SWF, Lock & Load 
+ Text-Osterone 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Canvas X 0.2.925 
+
+Create complex technical illustrations with one comprehensive tool.
+Slash the costs and time involved with using multiple graphics and
+desktop tools. Use Canvas X to create graphics, edit images, layout
+documents and craft eye-catching presentations.
+
+ License : Demo, $350
+ Author/Publisher : ACD Systems
+ Modification Date : October 11, 2005
+ Requirements : Mac OS X 10.2.6 or higher
+
+ Download 
+File Size: 59.6 MB - Demo
+
+ Updates 
+
+ Home Page 
+
+ Cinematize 2.05 
+
+With Miraizon Cinematize, you can finally extract a video or audio clip
+from your DVD, and save it in a format compatible with standard
+multimedia editing applications such as QuickTime, iMovie, and Final
+Cut.
+
+Create a collection of your favorite scenes. Extract video alone and add
+your favorite music. Create your business or class room presentation
+with important videos. Edit your recorded TV programs. Create your
+original video and audio DVD. From professionals to home users, the sky
+is the limit for Cinematize applications.
+
+ License : Demo, $50
+ Author/Publisher : Miraizon LLC
+ Modification Date : December 22, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 843 Kb - Demo
+
+ Download 
+File Size: 1.5 MB - 2.05 Updater
+
+ Home Page 
+
+ Director MX 2004 10.1r11 
+
+Macromedia Director is the proven multimedia authoring tool for
+professionals. Director combines broad media support for media types,
+ease of use, high-performance, and an infinitely extendible development
+environment to deliver rich content and applications for CDs, DVDs,
+kiosks, and the Internet. Director MX 2004 offers powerful new features,
+including two scripting languages, DVD-Video support, cross-platform
+publishing, and Flash MX 2004 integration.
+
+ License : Updates, $1,199
+ Author/Publisher : Adobe
+ Modification Date : September 17, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 48.1 MB - Demo
+
+ Download 
+File Size: 39.4 MB - 10.1r11 updater
+
+ Home Page 
+
+ Elements Studio 3.2 
+
+Norpath Elements is a new generation of interactive authoring software
+that allows new and experienced designers to quickly create powerful,
+rich-media applications without having to write code or learn a
+scripting language. Norpath Elements' authoring systems are capable of
+creating a wide range of solutions including educational software,
+training software, multimedia software, presentation software, survey
+software, interactive kiosks, information kiosks, and much more.
+
+ License : Demo, $495
+ Author/Publisher : Norpath
+ Modification Date : October 30, 2005
+ Requirements : Mac OS X 10.3.7 or higher
+
+ Download 
+File Size: 36.5 MB
+
+ Home Page 
+
+ Flash 8.0 
+
+Macromedia Flash lets designers and developers integrate video, text,
+audio, and graphics into effective experiences. Macromedia Flash is the
+world's most pervasive software platform, reaching 98% of
+Internet-enabled desktops worldwide, as well as many popular devices.
+
+ License : Demo, $499, Pro Edition $699
+ Author/Publisher : Macromedia
+ Modification Date : September 30, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 105 MB - Demo
+
+ Download 
+File Size: 73.5 MB - 7.2 updater
+
+ Home Page 
+
+ Gordon 1.6.5(032) 
+
+Gordon is an exceptional tool that includes an impressive list of
+features to parse and edit Shockwave Flash movies. It decompiles all
+Action Script and accurately displays all movie elements of a published
+SWF file. With Gordon you can edit or compress Shockwave Flash movies
+without having access to the original fla project or Macromedia Flash MX.
+ Vector graphic, bitmap image and sound data can be exported to the
+most common formats including PDF and TIFF.
+ Whether you want to recover lost or corrupted Flash documents, review
+the programming of a movie, updating an entire site to Flash MX or just
+explore the SWF file structure, Gordon will help any Flash designer.
+
+ License : Demo, $59
+ Author/Publisher : FutureCandy
+ Modification Date : August 1, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 878 Kb
+
+ Home Page 
+
+ Keynote 4.0.1 
+
+Amaze your audience with cinema-quality presentations that are easier
+than ever to create. Use the new features in Keynote '08 - the latest
+version of Apple's powerful presentation software - to tell your story
+effectively and dramatically.
+
+ License : Demo, Purchase iWork $79
+ Author/Publisher : Apple
+ Modification Date : September 27, 2007
+ Requirements : Mac OS X 10.4.10 or higher
+
+ Download 
+File Size: 31.1 MB - Keynote 4.0.1 Update
+
+ Download 
+File Size: 469 MB - iWork '08 Demo (includes Pages 3.0, Keynote 4.0 and Numbers 1.0)
+
+ Download 
+File Size: 2.7 MB - Keynote 3.0.2 updater - September 28, 2006
+
+ Download 
+File Size: 22.0 MB - Keynote 2.0.2 updater - May 25, 2005
+
+ Download 
+File Size: 30.5 MB - Keynote 1.1.1 updater - October 28, 2003
+
+ Home Page 
+
+ Keynote Quartet '05 
+
+The perfect accompaniment to Apple's Keynote and Pages applications,
+Jumsoft's Quartet provides you with 27 original Keynote themes plus
+hundreds of unparalleled animations and photographic illustrations with
+and without backgrounds. So your next presentation comes off as
+convincing and memorable and one-of-a-kind. Not ho-hum and have-seen.
+
+ License : Demo, $99
+ Author/Publisher : Jumsoft
+ Modification Date : June 16, 2005
+ Requirements : Mac OS X, Keynote 1, 2 and 3
+
+ Download 
+File Size: 2.9 MB - Keynote Objects 2.0 demo - January 26, 2004
+
+ Home Page 
+
+ Kinemac 1.5.1 
+
+Kinemac is a 3D Real Time Animation & Presentation Software for Mac OS
+X. It allows you to create your own professional 3D Animations with the
+simplicity of a 2D presentation tool.
+
+Kinemac plays the animations in real time at full screen and export them
+to QuickTime movie files or to a series of single still images. For this
+reason it's the ideal application to create Advertising for TV, trailers
+for movies, video-clips, instant scrolling messaging to put "on air" in
+real time, video content for CD, DVD, web sites...
+
+Kinemac is very easy to use. Just drag your images, text, movies and
+songs onto the Kinemac stage to get them into your animation. Also you
+can quickly call a menu and create 3D and 2D objects such as cubes,
+cylinders, spheres, tubes, pies, rectangles, disks... On any object you
+can apply image and movie textures and set the surfaces attributes such
+as color, transparency, reflection...
+
+ License : Demo, $249
+ Author/Publisher : Kinemac
+ Modification Date : January 15, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.0 MB - For Mac OS X 10.4.x
+
+ Download 
+File Size: 2.0 MB - For Mac OS X 10.3.x
+
+ Home Page 
+
+ Mapwing Creator 1.0.1 
+
+Mapwing Creator is the new standard for building and sharing virtual
+tours. Affordable and easy-to-use, it turns digital pictures into
+feature rich tours that contain photographs, maps, comments, and
+hotspots. Tours can be shared using Adobe's Flash Player via the Web,
+disc, or email.
+
+ License : Demo, $39, Pro $295
+ Author/Publisher : Redbug Technologies
+ Modification Date : September 14, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 3.0 MB
+
+ Home Page 
+
+ Microsoft Office 2004 11.3.9 
+
+Word Processor (Word), Email (Entourage), Spreadsheet (Excel) and
+Presentation (PowerPoint) combination.
+
+ License : Purchase Microsoft Office for $399 - Student/Teacher edition $149
+ Author/Publisher : Microsoft
+ Modification Date : October 24, 2007
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 2.5 MB - Office 2004 11.3.9 Updater
+
+ Download 
+File Size: 9.1 MB - Office 2004 11.3.8 Updater
+
+ Download 
+File Size: 8.6 MB - Office 2004 11.3.7 Updater
+
+ Download 
+File Size: 15.2 MB - Office 2004 11.3.6 Updater
+
+ Download 
+File Size: 58.8 MB - Office 2004 11.3.5 Updater
+
+ Download 
+File Size: 12.5 MB - Office 2004 11.3.4 Updater
+
+ Download 
+File Size: 57.6 MB - Office 2004 11.3.3 Updater
+
+ Download 
+File Size: 6.5 MB - Office 2004 11.2.1 Updater
+
+ Download 
+File Size: 3.3 MB - Office 10.1.9 Updater - December 19, 2006
+
+ Updates Page 
+
+ Home Page 
+
+ Home Page 
+
+ Mousepose 2.5.4 
+
+Mousepose 2 is an essential tool for everyone doing presentations or
+demos. If turned on, it dims the screen and puts a spotlight on the area
+around the mouse pointer, easily guiding the audiences attention to an
+area of interest.
+
+ License : Shareware, $10
+ Author/Publisher : Boinx Software
+ Modification Date : November 21, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.4 MB
+
+ Home Page 
+
+ NeoOffice 2.2.2p7 
+
+NeoOffice is a fully-featured set of office applications (including word processing,
+spreadsheet, presentation, and drawing programs) for Mac OS X. Based on the OpenOffice.org
+office suite, NeoOffice has integrated dozens of native Mac features and can import, edit,
+and exchange files with other popular office programs such as Microsoft Office.
+
+ License : Freeware
+ Author/Publisher : Patrick Luby
+ Modification Date : January 14, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 134.0 MB - version 2.2.2 - Intel - October 9, 2007
+
+ Download 
+File Size: 136.0 MB - version 2.2.2 - PPC - October 9, 2007
+
+ Download 
+File Size: 18.7 MB - version 2.2.2 patch 7 for Intel - January 14, 2008
+
+ Download 
+File Size: 19.0 MB - version 2.2.2 patch 7 for Intel - January 14, 2008
+
+ Home Page 
+
+ OmniDazzle 1.0.1 
+
+Introducing OmniDazzle, a set of fun and useful enhancements that help you highlight
+certain areas of your screen, create visual effects, and track the location of your mouse
+pointer.
+
+If you've ever used your computer screen to do a presentation, capture screen shots, or as
+a point of reference while someone looks over your shoulder...you, my friend, could have
+used OmniDazzle. OmniDazzle is handy for those times when you need to call attention to
+something on your screen ("...as you can all see, line 37 in this spreadsheet lists my
+proposed new salary: eleventy hojillion dollars. Any questions?"), and even helps you find
+your lost cursor (hey, it happens - especially when you're navigating across the
+four-million-pixels-and-counting landscape of a 30" Cinema Display).
+
+OmniDazzle is designed to be both playful and practical; you can use a plug-in to
+professionally emphasize a section of your screen, or you can turn your mouse movement
+into an area of focus that trails pixie dust (or waves, or a bullseye, or...) across your
+desktop. You can configure each plug-in to suit your own particular preferences: change
+colors, make objects bigger or smaller, or change the way you activate the OmniDazzle
+plug-in of your choice.
+
+ License : Shareware, $15
+ Author/Publisher : The Omni Group
+ Modification Date : November 1, 2006
+ Requirements : Mac OS X 10.4.6 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ PhotoPresenter 3.3 
+
+Present quickly and easily all your pictures and movies with
+PhotoPresenter. Choose your preferred slideshow style among several
+amazing themes and view any image and movie - either from your iPhoto
+library or from anywhere else, such as from a CD.
+
+ License : Shareware, $8
+ Author/Publisher : Arizona Software
+ Modification Date : January 15, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 10.0 MB
+
+ Home Page 
+
+ Presentation Prompter 4.1.1 
+
+Powerful, easy-to-use teleprompting for Mac OS X. Presentation Prompter
+scrolls text smoothly at an adjustable rate. Speakers, actors,
+reporters, singers, and narrators can use Presentation Prompter with
+their Mac from practice to production. Presentation Prompter
+incorporates a variety of features including fully-styled text, forward
+and reverse scrolling, scrollwheel fast-forward and rewind, bookmarks to
+jump to a specific part of a script, mirroring features for use with
+mirror enclosures, and powerful script editing features, all wrapped in
+a beautiful aqua interface. The software can also be adapted to work
+with a variety of production styles, and has customizable hotkeys and
+preferences that can automate common operations used in teleprompters.
+
+ License : Shareware, $65
+ Author/Publisher : NextForce Software
+ Modification Date : September 22, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 315 Kb
+
+ Home Page 
+
+ ProfCast 2.1.3 
+
+ProfCast is the ideal tool for recording and publishing your live
+Keynote or PowerPoint presentation. All elements of your presentation,
+including slide timing and voice narration, are recorded. You can then
+publish your complete presentation on the Web as a Podcast, complete
+with RSS support.
+ * Live Presentation Recording
+ * Synchronized Slides with Audio
+ * RSS Generation for Podcasting
+ * Publishing support via FTP, SFTP and .Mac
+ * Integration with GarageBand 3
+ * Integration with iWeb
+ * Support for Audio Playthrough
+ * File Size Control
+ ProfCast lecture podcast software allows you to record your presentation
+as you give it! ProfCast also helps you publish your recorded
+presentation as a podcast including slides, audio and valid RSS.
+
+ License : Shareware, $35
+ Author/Publisher : Humble Daisy
+ Modification Date : May 22, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.8 MB
+
+ SWF 'n Slide Pro 1.026 
+
+SWF 'n Slide is available in a Standard Edition and a Pro Edition. Both
+are extremely easy programs to take your digital images and music, and
+create professional slide shows in minutes to share with family and
+friends. Works with all popular file formats for images and audio. SWF
+'n Slide outputs slide shows as the Macromedia Flash file format (SWF)
+which is the most compatible animation and video file format for
+Internet applications. SWF 'n Slide is great for anyone who owns a
+digital camera and wants to share their pictures with others. Share your
+slideshows over the web, through email, or burn onto CD-ROMS for easy
+distribution. In just a couple of minutes you can convert a folder full
+of photos into a stunning slide show with sophisticated transitions and
+effects.
+
+SWF 'n Slide Pro offers the same features as the standard edition, but
+also allows you to create other types of slide shows including scrolling
+thumbnails and 3D flip books.
+
+ License : Demo, $65
+ Author/Publisher : Vertical Moon
+ Modification Date : May 23, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 11.1 MB
+
+ Home Page 
+
+ Prompt! 7.0 
+
+Prompt! is a simple teleprompter application for public speakers used by
+CEO's of banks, heads of religious organizations, radio dejays and alike
+either on camera or in front of a live audience. Prompt! gives you the
+additional support which provides that little bit of confidence one
+needs in a public speaking environment.
+
+ License : Shareware, $44 - Lite version Freeware
+ Author/Publisher : Rob Johnson
+ Modification Date : July 9, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 6.7 MB - Lite version
+
+ Home Page 
+
+ Salling Clicker 3.0.1 
+
+Salling Clicker is our award-winning remote control tool.
+ Free yourself from those shackles that is your laptop! Any audience will be impressed
+with your dynamic walk-around-the-stage performance as you change slides from your mobile
+phone or PDA.
+ With our out-of-the-box support for award-winning products such as iTunes from Apple,
+and EyeTV from Elgato, Salling Clicker becomes a great remote control for your TV watching
+and music listening.
+
+ License : Shareware, $20
+ Author/Publisher : Salling Software
+ Modification Date : February 15, 2006
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 4.9 MB
+
+ Home Page 
+
+ Screenography 1.011 
+
+Screenography is an extremely easy program to capture your screen to
+various image, movie and Flash formats. Very useful for creating
+tutorials, training videos/CDs and demonstrations.
+ Capture any area of the screen to an image, or Flash file instantly or in a timed screenshot.
+ Record any area of the screen to a movie or Flash file.
+ Capture objects on the screen, such as windows, dialog boxes, menus, and icons. 
+ Save screen captures to BMP, GIF, JPEG, PDF, Photoshop, PICT, PNG, SWF, Targa, and TIFF.
+ Save movie captures to AVI, DV, FLC, Image Sequence, MPEG-4, MOV, SWF, FLV, and Flash Projector files (self-executable). (This feature is not available in Screenography Lite)
+ Automatically overlay your captures with a watermark/copyright notice.
+ Automatically generate thumbnails for your screen captures.
+ Add Drop Shadow and Color Fades to the border of your captures.
+ Output Macromedia Flash movie files (SWF).Over 97% of all browsers already have the Flash Player installed, so you won't have to worry about your audience being able to view your captures. 
+ Add Flash preloaders to your Flash movie files with the built-in preloader option,
+
+ License : Demo, $40
+ Author/Publisher : Vertical Moon
+ Modification Date : January 15, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.2 MB - Demo
+
+ Home Page 
+
+ SWF, Lock & Load 1.205 
+
+SWF, Lock & Load is an extremely easy program to create Flash Preloaders in seconds!
+ Features:
+ Output Macromedia Flash (FLA) files! SWF, Lock & Load can create a starting point for your new Flash projects with the Preloader automatically attached to it.
+ Output Macromedia Flash movie files (SWF).Over 97% of all browsers already have the Flash Player installed, so you won't have to worry about your audience being able to view your preloader. 
+ Choose from over 100 graphical prealoder templates!
+ Preload your SWF files externally, or merge in the Preloader to create a single file.
+ Create "Smart Preloaders" which will attempt to preload enough for smooth playback based on the users connection speed. 
+ Add custom feedback messages showing current statistics such as percentage, bytes loaded, and frames loaded.
+ Save project files so you can save your work to allow you to make changes to an existing prelaoder over time.
+ No fees are required for the Macromedia Flash file format, so you can create unlimited royalty free preloaders.
+ Add preloaders to slide shows created with SWF 'n Slide.
+
+ License : Demo, $20
+ Author/Publisher : Vertical Moon
+ Modification Date : January 25, 2006
+ Requirements : Mac OS X
+
+ Download 
+File Size: 3.8 MB - Demo
+
+ Home Page 
+
+ SWF 'n Slide Pro 1.025 
+
+SWF 'n Slide is available in a Standard Edition and a Pro Edition. Both
+are extremely easy programs to take your digital images and music, and
+create professional slide shows in minutes to share with family and
+friends. Works with all popular file formats for images and audio. SWF
+'n Slide outputs slide shows as the Macromedia Flash file format (SWF)
+which is the most compatible animation and video file format for
+Internet applications. SWF 'n Slide is great for anyone who owns a
+digital camera and wants to share their pictures with others. Share your
+slideshows over the web, through email, or burn onto CD-ROMS for easy
+distribution. In just a couple of minutes you can convert a folder full
+of photos into a stunning slide show with sophisticated transitions and
+effects.
+
+SWF 'n Slide Pro offers the same features as the standard edition, but
+also allows you to create other types of slide shows including scrolling
+thumbnails and 3D flip books.
+
+ License : Demo, $35 - Pro Version $65
+ Author/Publisher : Vertical Moon
+ Modification Date : March 26, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 11.1 MB
+
+ Home Page 
+
+ Text-Osterone 1.113 
+
+Text-Osterone is an extremely easy program to generate eye-popping Flash
+animated text effects in seconds! Works with your installed True Type
+and Postscript fonts. Text-Osterone is easy to use and is great for
+websites and presentations.
+
+ License : Demo, $40
+ Author/Publisher : Vertical Moon
+ Modification Date : November 29, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 4.4 MB - Demo
+
+ Home Page 
+
+ Videocue 2.7 
+
+At its core, Videocue is a unique new application to help you create
+striking movies of you reading your words aloud, all without memorizing
+a single word.
+ Using the Application is simple:
+ * Enter the text of your speech
+ * Drag your camera icon to the storyboard
+ * Press Record button
+ Once you're done, you can save the finished QuickTime movie to your
+computer or upload to a remote FTP site. Videocue lets you publish a
+link to the movie and the text of your presentation to most popular
+blogging and vlogging services.
+
+ License : Demo, $90
+ Author/Publisher : Vara Software
+ Modification Date : November 6, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 5.3 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

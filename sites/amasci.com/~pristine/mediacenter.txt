@@ -1,0 +1,1133 @@
+Pure Mac: Media Center - Software for Macintosh 
+
+ Media Center 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Can't find it here? Check the Video , Audio , iTunes & MP3 , or Graphics sections. 
+
+ Apple TV 
+ Central Control 
+ PVR Interface 
+ Audio Servers 
+ Video Servers 
+ Video Viewers/Recorders 
+
+ ATVFiles 
+ Television 
+ AlchemyTV DVR 
+ EvolutionTV 
+ MyTV/x 
+ EyeTV 
+
+ CenterStage 
+ Connect360 
+ EyeConnect 
+ EyeHome 
+ Front Row 
+ Front Row Enabler 
+ GenieCommands 
+ iTheater 
+ MediaCentral 
+ mMedia 
+ XHub Media Center 
+
+ DVArchive 
+ Galleon 
+ MacTF 
+ TFmac 
+ TFmac 5000 
+ TiVoDecode Manager 
+ TiVo Decoder 
+ TiVo Desktop 
+ TiVoTool 
+ Remote Control 
+ Front Row 
+ Remote Buddy 
+ Romeo 
+ Salling Clicker 
+
+ Airfoil 
+ Detour 
+ Jack OS X 
+ netTunes 
+ Nicecast 
+ SHOUTcast 
+
+ CyTV 
+ QuickTime Broadcaster 
+ Darwin Streaming Server 
+ Wirecast 
+
+ BTV 
+ iRecord 
+ Vidi 
+ myVCR 
+
+ Apple TV 
+ iPhone 
+ iTunes 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Airfoil 3.0.1 
+
+Airfoil lets you send any audio to remote speakers attached to your
+AirPort Express. AirPort Express - It's not just for iTunes anymore.
+
+With Airfoil, you can send audio from any application to your AirPort
+Express in just three easy steps.
+
+Step 1) Select the application whose audio you want to transmit, in the
+Audio Source area.
+
+Step 2) Select the desired AirPort Express device from the Remote
+Speakers list.
+
+Step 3) Click Transmit. That's it!
+
+Once you do this, any audio from the audio source will play out through
+your remote speakers. Use Airfoil to play audio from RealPlayer, Windows
+Media Player, Safari, and almost any other application right through
+your AirPort Express. Give your audio wings, with Airfoil.
+
+ License : Shareware, $25
+ Author/Publisher : Rogue Amoeba Software
+ Modification Date : January 14, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 9.5 MB
+
+ Home Page 
+
+ AlchemyTV DVR 2.5.1 
+
+Watch and record TV on your Mac with AlchemyTV DVR!
+
+Schedule your recordings in a few easy steps with TitanTV or iCal, store
+them on your hard drive or burn them to VCD or DVD. Thanks to its tight
+integration with QuickTime, AlchemyTV DVR gives you a full range of
+capture options, including real-time MPEG-4 recording!
+
+AlchemyTV DVR delivers a clean and sharp picture, ideal for full size TV
+viewing and video capture.
+
+Best of all, DVR is supplied complete with remote control for maximum
+viewing pleasure!
+
+ License : Update - Purchase AlchemyTV DVR for ~ $159
+ Author/Publisher : Miglia Technology
+ Modification Date : July 26, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 10.9 MB - AlchemyTV DVR 2.5.1 Updater
+
+ Home Page 
+
+ ATVFiles 0.3.2 
+
+Simple file browser plugin for Apple TV Finder. Think XBMC, it can play video files without transcoding and syncing/streaming them.
+ Please note that ATVFiles does not provide the codecs. Perian (http://perian.org) and A52Codec (http://trac.cod3r.com/a52codec/) are highly recommended to be installed to provide support for a wide variety of codecs.
+ Installation
+ 1. Copy ATVFiles.frappliance to this folder: /System/Library/CoreServices/Finder.app/Contents/PlugIns on the Apple TV. You may want to create a symlink from there to some more convenient place.
+ 2. Restart Finder. The command killall Finder will kill it, and it will be automatically restarted.
+ Usage
+ Enter the new "Files" menu on the main menu.
+ It lists files in /Users/frontrow/Movies, so mount or put your video files in that folder.
+
+ License : Freeware
+ Author/Publisher : Eric Steil III
+ Modification Date : June 20, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 93 Kb
+
+ Home Page 
+
+ BTV Pro 5.4.1 
+
+BTV allows you to view video from any video input source, either in a window or full screen on an entire monitor. Video can be captured to disk as a standard QuickTime movie file and single frames can be saved as image files.
+
+BTV Pro has all the features of BTV as well as many more including movie playback and editing, stop motion animation, time lapse capture, motion detection, DV stream input/output, and frame averaging.
+
+ License : Shareware, $20 for BTV and $40 for BTV Pro
+ Author/Publisher : Ben Bird
+ Modification Date : April 29, 2002
+ Requirements : Mac OS X
+
+ Download 
+File Size: 719 Kb - BTV
+
+ Download 
+File Size: 1114 Kb - BTV Pro
+
+ Home Page 
+
+ CenterStage 0.6.2 
+
+CenterStage is on open source project to build a powerful and intuitive
+media center application for the Apple Macintosh, this project was
+inspired by the launch of the Mac mini, an ideal Mac to use as part of a
+home theatre system.
+
+ License : Freeware
+ Author/Publisher : The CenterStage Project
+ Modification Date : June 10, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 17.6 MB - CenterStage 0.6.2 with BackStage
+
+ Home Page 
+
+ Connect360 3.2.3 
+
+Your Xbox 360 is capable of playing back your music and videos and
+viewing your digital photos. With Connect360, your Mac's ready to share.
+
+Connect360 automatically indexes your iTunes and iPhoto libraries and
+shares them to your Xbox 360. You can then use the Xbox 360 Dashboard to
+browse and play your media, organized in the exact same way that it is
+on your Mac.
+
+Connect360 supports MP3, AAC, WAV, AIFF and Apple Lossless for Music.
+For Photos, Connect360 supports: JPEG, RAW, GIF, PNG, BMP and TIFF. For
+video streaming, currently only WMV+WMA, H.264 and MPEG4 files are
+supported (in MP4 and MOV containers).
+
+ License : Shareware, $20
+ Author/Publisher : Nullriver Software
+ Modification Date : December 7, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ CyTV 0.5.4 
+
+CyTV is a streaming solution for elgato's EyeTV family of TV tuners. It
+allows you to watch TV and recorded programs over a local network (wired
+or wireless) or the internet. You can pause and resume live TV on the
+client ("timeshift"), and you can also change channels remotely.
+
+Supported models are EyeTV USB, 200, 300, and 400. EyeTV 410, 500, 610,
+and Plextor's ConvertX (PX-TV402U) should also work. However, you can't
+use CyTV with the EyeTV Wonder USB 2.0 hardware (see this blog entry by
+Tom Stuart for details).
+
+The CyTV Server requires a Mac with an EyeTV unit. On the client(s), you
+can use the VideoLAN Client (VLC) media player to play the stream, so
+you can watch on any platform supported by VLC (and there are many!).
+The distribution also contains a special client application for Macs
+that gives you more control (like watching previous recordings, skipping
+back and forth, etc.).
+
+ License : Freeware
+ Author/Publisher : Andreas Junghans
+ Modification Date : January 29, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 2.4 MB - 0.5.4
+
+ Download 
+File Size: 4.1 MB - 0.6 pre5 - April 5, 2006
+
+ Home Page 
+
+ Darwin Streaming Server 5.5.5 
+
+Welcome to Darwin Streaming Server, the open source version of Apple's
+QuickTime Streaming Server technology that allows you to send streaming
+media to clients across the Internet using the industry standard RTP and
+RTSP protocols. Based on the same code base as QuickTime Streaming
+Server, Darwin Streaming Server provides a high level of customizability
+and runs on a variety of platforms allowing you to manipulate the code
+to fit your needs.
+
+ License : Freeware
+ Author/Publisher : The Open Source Community
+ Modification Date : May 7, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 26.6 MB
+
+ Download 
+File Size: 70 Kb - Darwin Streaming Proxy 5.5.5
+
+ QuickTime Streaming Server Home Page Comes with Mac OS X Server
+
+ Darwin Streaming Server Home Page 
+
+ Detour 1.5.5 
+
+Technically speaking, Detour allows you to send audio to different output devices on an
+application-specific basis. What does that mean exactly? It means you can...
+ ...send music from iTunes to your external USB speakers and keep the annoying beeps
+and blips of iChat going through your computer's built-in speaker.
+ ...mute any application's sounds all together. 
+ ...change the volume of some applications relative to others. Make your email client's
+alerts quieter, and you'll never again be jarred from work just to receive spam.
+ When you use Detour, you can choose between your speakers, headphones, built-in
+speaker, iMic, MiniDisc player or anything else which the system sees as an audio output
+and send it the audio from a specific application. Along the way, you can adjust the
+volume as well.
+
+ License : Freeware
+ Author/Publisher : Rogue Amoeba
+ Modification Date : October 19, 2005
+ Requirements : Mac OS X 10.2 or higher - Not Intel Compatible
+
+ Download 
+File Size: 1.5 MB
+
+ Home Page 
+
+ DVArchive 3.1 
+
+DVArchive allows your computer to act like a "Virtual ReplayTV". You can
+download shows from your ReplayTV to burn to DVD/VCD, play shows from
+your ReplayTV right on your desktop (without having to download them
+first) and play shows that are stored on your computer right from your
+ReplayTV/TV screen. You can also search TV listing, see what upcoming
+recordings on your ReplayTVs there may be and access those listings from
+a web browser or GUI.
+
+ License : Freeware
+ Author/Publisher : Gerald Duprey
+ Modification Date : July 15, 2004
+ Requirements : Mac OS X 10.2.3 or higher
+
+ Download 
+File Size: 4.1 MB
+
+ Home Page 
+
+ EvolutionTV 2.7 
+
+Featuring MPEG-2/4 and DivX hardware compression, EvolutionTV is the
+most advanced digital video recorder available for your Mac.
+
+Delivering a clean and sharp picture, EvolutionTV comes with fully
+featured software enabling you to watch live TV, pause, rewind, skip
+forward. At the press of a button, EvolutionTV lets you record TV,
+schedule recordings, access Online TV guides and much more!
+
+Thanks to its state of the art built-in video compression hardware,
+EvolutionTV will let you store hours of TV programs on a single DVD!
+
+With EvolutionTV, now is the time to say good-bye to your VHS recorder!
+
+ License : Software Update, Hardware Purchase $180
+ Author/Publisher : Miglia Technology
+ Modification Date : October 10, 2006
+ Requirements : Mac OS X 10.4 or higher, USB 2.0
+
+ Download 
+File Size: 15.0 MB
+
+ Home Page 
+
+ EyeConnect 1.5.1 
+
+EyeConnect software enables your UPnP AV digital media device to stream
+EyeTV recordings, digital photos, music and movies from your Mac onto
+your TV or stereo.
+
+EyeConnect is based on the globally trusted Universal Plug and Play
+Audio/Video standard (UPnP AV) for the seamless sharing of digital
+content throughout your home. Using this industry standard technology,
+EyeConnect enables a broad range of UPnP AV devices to play EyeTV
+recordings, digital music, video, or photo content, including iPhotos&reg;,
+iTunes&reg;, and movies stored on your Macintosh. Elgato's EyeConnect
+digital media streaming software addresses a rapidly growing market for
+home networking solutions for the Macintosh.
+
+Use EyeConnect in combination with your UPnP AV digital media device to
+manage wired or wireless streaming of digital entertainment content
+effortlessly. Digital media files remain organized as originally stored
+in your Mac libraries so you can quickly find the file you want.
+
+ License : Demo, $99
+ Author/Publisher : El Gato
+ Modification Date : October 31, 2007
+ Requirements : Mac OS X 10.3 or higher, 500 MHz G4 or better
+
+ Download 
+File Size: 7.2 MB
+
+ Download Page 
+
+ Home Page 
+
+ EyeHome 1.8 
+
+EyeHome allows you to access the digital content you have stored on your
+Mac - photos, music, video, movies - and enjoy it on your TV and home
+entertainment system. EyeHome features an easy-to-use and
+remote-controlled TV interface. From the main menu's list of "EyeTV"
+recorded television, "Movies", "Music", "Pictures" and "Web", you can
+simply access your library of digital content.
+
+ License : Update - Purchase EyeHome for ~ $199
+ Author/Publisher : El Gato
+ Modification Date : June 1, 2006
+ Requirements : Mac OS X 10.3 or higher, 500 MHz G4 or better, EyeHome Hardware
+
+ Download 
+File Size: 14.0 MB - 1.8 updater
+
+ Download 
+File Size: 15.3 MB - 1.7 updater
+
+ Download Page 
+
+ Home Page 
+
+ EyeTV 2.5.2 
+
+EyeTV lets you watch live TV in stunning digital quality, directly on
+your Mac. Using the on-screen remote control or included infrared remote
+control you can:
+ - pause a program
+ - instantly rewind and repeat a favorite section
+ - fast forward past unwanted content 
+ Record TV on your Mac and Replace your VCR 
+ Schedule Programming Remotely
+ Edit out Unwanted Content
+ Archive and Take your TV to Go
+
+ License : Update
+ Author/Publisher : El Gato
+ Modification Date : December 26, 2007
+ Requirements : Mac OS X 10.4 or higher - All EyeTV Hardware Supported
+
+ Download 
+File Size: 46.3 MB - 2.5.2 updater
+
+ Updates 
+
+ Home Page 
+
+ Front Row 2.1.2 
+
+Sit back, relax and let Front Row start the show. Music, photos and
+video. From your sofa.
+
+The Front Row Update delivers overall improved reliability and
+compatibility for browsing music, photos, and videos on your iMac.
+
+The new Apple Remote makes it easy to navigate through all the digital
+goodies you've collected and created on your iMac G5. Apple designers
+simplified the average remote from 60 buttons you'll never use to just
+the six buttons you really need. So you can navigate quickly and easily
+through the Front Row interface to enjoy your music, video, photos and
+DVDs exactly as you wish. Play. Pause. Skip. Rewind. Crank up the
+volume. Whatever your pleasure, wherever you sit.
+
+ License : Freeware
+ Author/Publisher : Apple
+ Modification Date : January 15, 2008
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 16.8 MB
+
+ Home Page 
+
+ Front Row Enabler 1.3 
+
+Thanks to the latest version from Apple, Front Row can now be installed
+on any Mac running Mac OS X 10.4.5 or above. Front Row 1.2.2 corrects
+issues with watching movie trailers and adds better support for song
+shuffling.
+
+ License : Freeware
+ Author/Publisher : Andrew Escobar
+ Modification Date : September 13, 2006
+ Requirements : Mac OS X 10.4.5 or higher
+
+ Download 
+File Size: 16 Kb
+
+ Home Page 
+
+ Galleon 2.2.1 
+
+Galleon is a free open source media server for TiVo&reg; which allows you to
+enjoy many kinds of content and interactive applications right on your
+TV. The server runs on your home computer and organizes your media
+collection so that they can be viewed on your home network. Galleon also
+brings Internet content and applications to your TV.
+
+ License : Freeware
+ Author/Publisher : Galleon Project
+ Modification Date : February 4, 2006
+ Requirements : Mac OS X 10.3.9 or higher, TiVo 7.2 or higher
+
+ Download 
+File Size: 24.9 MB - Galleon 2.2.1 unix source
+
+ Download 
+File Size: 138 Kb - Mac OS X Galleon Bundles 1.4.210
+
+ Home Page 
+
+ GenieCommands 1.01 
+
+GenieCommands is a unique programmable software application that allows
+you to control all your applications and media via simple menus, in a
+theatre or lounge room environment.
+
+The Media Center is your existing computer combined with the
+GenieCommands software that powers the all-in-one entertainment center
+for your entire home. Attached to your television or monitor, it allows
+you to enjoy your favorite entertainment, watch DVDs, record TV or pause
+TV, listen to music, share your digital photos, and more.
+
+ License : Demo, $20
+ Author/Publisher : Unique Design Systems
+ Modification Date : December 12, 2005
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 39.0 MB
+
+ Home Page 
+
+ iRecord 0.4 
+
+iRecord provides basic timed-recording functionality for FireWire MPEG
+devices such as cable set-top boxes.
+
+ License : Freeware
+ Author/Publisher : Ammesset Software
+ Modification Date : November 9, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 611 Kb
+
+ Home Page 
+
+ iTheater 0.2 
+
+The goal of this project is to create an application that acts as a
+media center for any Macintosh computer. iTheater is an aesthetically
+pleasing way to manage, play and share your photos, movies and music.
+
+ License : Freeware
+ Author/Publisher : The iTheater Group
+ Modification Date : July 14, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 3.4 MB
+
+ Home Page 
+
+ Jack OS X 0.74 
+
+Jack (the Jack Audio Connection Kit) is a low-latency audio server,
+written originally for the GNU/Linux operating system, and now with
+Mac OS X support. It can connect any number of different applications
+to a single hardware audio device; it also allows applications to send
+and receive audio to and from each other.
+
+Jack is different from other audio server efforts in that it has been 
+designed from the ground up to be suitable for professional audio work.
+This means that it focuses on two key areas: synchronous execution of
+all clients, and low latency operation.
+
+ License : Freeware
+ Author/Publisher : Johnny Petrantoni
+ Modification Date : May 4, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 6.3 MB
+
+ Home Page 
+
+ MacTF 2.0b2 
+
+MacTF is an native Cocoa Mac OS X application that can talk to the
+Topfield TF5000PVRt (and some other Topfield 5xxx models).
+ Features
+ Download of files, including ability to download multiple files at once.
+ Upload of files, including ability to upload multiple files at once.
+ Turbo mode (doubles speed of upload/download, but remote and timers are disabled).
+ Deletion and renaming of files on the Topfield.
+
+ License : Freeware
+ Author/Publisher : Nathan Oates
+ Modification Date : December 8, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 394 Kb
+
+ Home Page 
+
+ MediaCentral 2.6.3 
+
+MediaCentral turns your Mac into the ultimate home theater system. With
+support for numerous audio, video, IP TV, TV, IP Radio, Games and
+multimedia formats, MediaCentral brings it all together at the push of a
+button.
+
+ License : Shareware, $30
+ Author/Publisher : equinux
+ Modification Date : August 10, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 62.0 MB
+
+ Home Page 
+
+ mMedia 1.1 
+
+Media is a multimedia center for Mac OS X. With mMedia you can easily
+access and view pictures, watch movies or listen to music. You can start
+watching an inserted DVD or a movie from your harddisk. You can view
+pictures from your latest holidays (for e.x. as a slideshow) while
+listening to your favorite music (from iTunes, harddisk or CD).
+
+ License : Shareware, $18
+ Author/Publisher : VASS Softwareentwicklung
+ Modification Date : May 23, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 10.9 MB
+
+ Home Page 
+
+ MyTV/x 3.6.1 
+
+Release software for myTV.PVR 
+ These Drivers work with the following products: 
+ myTV.PVR Requires MyTV/x v3.61+ and OS/X 10.3.8 or later 
+ MyTV & MyTV/fm - All NTSC, PAL and SECAM units 
+ MyTV2GO & MyTV2GO/fm All NTSC PAL & SECAM* units 
+ MyCapture II 
+ MyVideo (Video Capture and Viewing only - no video out) 
+ MyTV/x 3.61 works with OS/X 10.3.8+ and 10.4.+ 
+Installers for older versions of OS included for convience of non-pvr product users and completeness 
+
+ License : Update - Purchase MyTV for ~ $150
+ Author/Publisher : Eskape Labs
+ Modification Date : May 10, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.0 MB
+
+ Download Page 
+
+ Home Page 
+
+ myVCR 0.1.2 
+
+myVCR is a video capture app for Mac OS X that has a timer function to start/stop
+recording at a specific date and time.
+
+ License : Freeware
+ Author/Publisher : D++
+ Modification Date : May 3, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 38 Kb
+
+ Home Page 
+
+ netTunes 2.3.1 
+
+netTunes. The ultimate iTunes remote! 
+netTunes lets you control iTunes running on one Macintosh from another,
+using iTunes' native interface. You get the same main window, the same
+playlists, the same capabilities - everything!
+
+This is incredibly handy for users who are using iTunes to feed an audio
+system, either directly or with AirPort Express. You no longer have to
+walk over there to select your music, nor do you have to put up with a
+semi-functional "remote control" program to change or (even worse) find
+songs.
+
+With netTunes, you simply connect to the server and take complete
+control of iTunes from the comfort of your current computer. It's that
+easy - as easy as iTunes itself!
+
+ License : Shareware, $20
+ Author/Publisher : Shirt Pocket
+ Modification Date : August 24, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 1.3 MB
+
+ Home Page 
+
+ Nicecast 1.8.6 
+
+Nicecast is the easiest way to broadcast music from OS X. Broadcast to
+the world, or just across your house. Nicecast can help you create your
+own internet radio station or allow you to listen to your iTunes Music
+Library from anywhere in the world!
+
+ License : Shareware, $40
+ Author/Publisher : Rogue Amoeba
+ Modification Date : April 18, 2007
+ Requirements : Mac OS X 10.2.7 or higher
+
+ Download 
+File Size: 7.2 MB
+
+ Home Page 
+
+ QuickTime Broadcaster 1.5.2 
+
+Combining the power of QuickTime with Apple's ease of use, QuickTime
+Broadcaster allows just about anyone to produce a live broadcast event.
+From a backyard birthday party to a corporate keynote speech, QuickTime
+Broadcaster allows anyone with an Internet connection to "virtually"
+attend.
+
+QuickTime Broadcaster is Apple's award-winning live encoding software
+that lets you produce professional-quality live events for online
+delivery - quickly, easily and affordably.
+
+QuickTime Broadcaster takes full advantage of QuickTime, the most
+powerful digital media technology on the Internet. The combination
+QuickTime Broadcaster, QuickTime Streaming Server and QuickTime provides
+the industry's first end-to-end MPEG-4-based Internet broadcasting
+system, which allows you to reach not only the large and growing base of
+QuickTime Players, but also any ISO-compliant MPEG-4 player. Whether you
+are a novice or a professional, QuickTime Broadcaster is designed to
+meet your needs.
+
+ License : Freeware
+ Author/Publisher : Apple
+ Modification Date : December 12, 2007
+ Requirements : Mac OS X 10.4.10 or higher
+
+ Download 
+File Size: 1.0 MB
+
+ Home Page 
+
+ Remote Buddy 1.8 
+
+Remote Buddy turns the remote control in your hands into a key to your
+entire system. No matter, whether you want to control applications and
+presentations, browse and playback your music and video collection,
+watch TV with EyeTV, browse the web or your filesystem, make the globe
+turn in Google Earth, enter a text, move the mouse, play games or maybe
+just change the brightness of your screen - you can do this all with
+Remote Buddy! And so much more!
+ Using your iPhone you can control more than 95 applications, system parameters and Remote Buddy itself - just like with any other supported remote.
+
+ License : Shareware, $40
+ Author/Publisher : IOSPIRIT GmbH
+ Modification Date : November 14, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 6.3 MB
+
+ Home Page 
+
+ Romeo 0.9.3 
+
+Romeo gives you remote control of your mac via Bluetooth and a
+compatible mobile device, controlling programs such as iTunes and DVD
+Player, as well as presentation applications. Use your mobile as a
+mouse, as a volume control, or as a method of telling your mac when
+you're there.
+
+ License : Freeware
+ Author/Publisher : Arboreal
+ Modification Date : July 2, 2004
+ Requirements : Mac OS X 10.2.4 or higher - Sony Ericsson t39, t68 and t68i, t610, t616 or Veta Universal on a Nokia 3650
+
+ Download 
+File Size: 84 MB
+
+ Home Page 
+
+ Salling Clicker 3.5 
+
+Salling Clicker is our award-winning remote control tool.
+ Free yourself from those shackles that is your laptop! Any audience will be impressed
+with your dynamic walk-around-the-stage performance as you change slides from your mobile
+phone or PDA.
+ With our out-of-the-box support for award-winning products such as iTunes from Apple,
+and EyeTV from Elgato, Salling Clicker becomes a great remote control for your TV watching
+and music listening.
+
+ License : Shareware, $20
+ Author/Publisher : Salling Software
+ Modification Date : May 11, 2007
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 6.6 MB
+
+ Home Page 
+
+ SHOUTcast 1.9.8 
+
+This SHOUTcast server runs on Mac OS X and Mac OS X Server 2. It is a
+unix-style app without an Aqua interface, and has to be run in a
+terminal window.
+SHOUTcast is a streaming media system for Windows and Un*x platforms.
+At the center of the system is this product, the SHOUTcast Distributed
+Network Audio Server (DNAS). The DNAS is responsible for accepting
+a broadcast feed from Winamp and the SHOUTcast Source DSP plug-in, and
+repeating the broadcast to listeners connected to this SHOUTcast DNAS.
+Once your source content is being fed into the SHOUTcast DNAS, it will
+also, dependent on the source content's configuration, list itself
+with the SHOUTcast directory so listeners can locate your broadcast.
+
+ License : Freeware
+ Author/Publisher : Nullsoft, Inc.
+ Modification Date : February 28, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 63 Kb
+
+ Home Page 
+
+ TFmac 0.7.8 
+
+TFmac connects your Mac to Topfield TF4000 PVRs. 
+ Features
+ * easy to use
+ * preview multiple recordings (requires mplayer; existing installation can be used)
+ * download multiple recordings to your Mac
+ * various download formats (e.g. TS, VOB, MP3)
+ * upload files to the Topfield
+
+ License : Freeware
+ Author/Publisher : Frank Hoewing
+ Modification Date : March 9, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 3.9 MB
+
+ Home Page 
+
+ TFmac 5000 0.3 
+
+What it is:
+ This application is used for really fast data transfer between a Topfield 5000 disk, and Mac OS X.
+ What it can do:
+ * Give access to a Topfield 5000 PVR formatted hard disk, that is directly connected to your Mac, via IDE, USB or FireWire. (This means you have to open your TF, and take the disk out of it.)
+ * You can read the directories, copy files from and to the TF-disk, and delete files from the TF-disk.
+ * Use it for movies, TAPs and MP3s.
+ * Be aware, that when writing to the disk, the Topfield will do a "Verifying files and folders". I never had any loss of data, but it's your responsibylity if you want try.
+ What it can not do:
+ * Access the disk, while it is in the Topfield, and the Mac is connected to the TF via USB. There are other applications to do this, for example MPEG Streamclip.
+ * Connect to a Topfield 4000 disk. Try Frankies site if you have a TF 4000.
+ How fast is it?
+ * Up to 10 x faster than a Topfield Mac connection.
+ * IDE: I did not test, probably faster than FireWire
+ * FireWire: about 20 MB/sek. Less than 1 min/GB
+ * USB 2.0: about 12 MB/sek. Less than 1,5 min/GB
+
+ License : Freeware
+ Author/Publisher : Spock
+ Modification Date : March 3, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 129 Kb
+
+ Home Page 
+
+ TiVoDecodeManager 2.1 
+
+TiVoDecode Manager (TDM) is an Applescript Studio front-end (i.e. "wrapper") that
+automates the process of downloading of TiVo Series 2 files to your computer and decoding
+into MPEG-2 files. Features include:
+ * Bonjour discovery of local TiVos (or enter an IP manually)
+ * Listing of show, episode, date recorded, and other information
+ * One-click download and decoding of TiVo shows
+ * Batch processing queue for multiple downloads
+
+ License : Freeware
+ Author/Publisher : David Benesch
+ Modification Date : January 8, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.9 MB
+
+ Home Page 
+
+ TiVo Decoder 1.3 
+
+This is a simple AppleScript droplet which includes a binary of the TiVoDecode program.
+Just drag and drop your .tivo files on it and get an MPEG-2 video out. You can then use
+other tools to convert that MPEG-2 into something else.
+
+ License : Freeware
+ Author/Publisher : Nik Friedman TeBockhorst
+ Modification Date : December 12, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 58 Kb
+
+ Home Page 
+
+ TiVo Desktop 1.9.2 
+
+TiVo Desktop is an easy to use application that lets you publish and
+share digital music, photos, and TiVo recordings between your networked
+TiVo Series2 DVR and your computer.
+
+ License : Update
+ Author/Publisher : TiVo, Inc.
+ Modification Date : February 14, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 460 Kb
+
+ Home Page 
+
+ TiVoTool 0.7 
+
+TivoTool allows you to download, stream, or burn videos from your Series 1 or 2 Tivo or DTivo.
+
+ License : Freeware
+ Author/Publisher : John Susek
+ Modification Date : November 20, 2007
+ Requirements : Mac OS X 10.4 or higher - Some key components are Universal Binaries
+
+ Download 
+File Size: 15.5 MB
+
+ Home Page 
+
+ Vidi 0.4.7 
+
+Vidi is an application that lets you view and record video on your Mac
+using any FireWire DV device. When used with a Formac Studio DV, Studio
+DV/TV or StudioTVR device, Vidi lets you select the input source, change
+TV channels and adjust picture settings.
+
+Vidi includes a control palette for changing channels and adjusting
+picture settings when the Studio DV/TV is being used with other
+applications, such as QuickTime Broadcaster or iMovie.
+
+Vidi can record in the background, but you can also use Vidi to watch
+video at full size and full frame rate as it is being recorded.
+
+You can use Vidi to schedule recordings in advance. Vidi will perform
+the recordings at the scheduled times, as long as you're not logged out.
+
+If your Studio DV/TV has an FM tuner, you can also use Vidi to listen to
+and record FM radio.
+
+ License : Freeware
+ Author/Publisher : Mitz Pettel
+ Modification Date : October 26, 2007
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 2.1 MB
+
+ Home Page 
+
+ Wirecast 3.0.3 
+
+Wirecast makes it easy to create dynamic webcasts. It has been designed
+for building detailed multimedia broadcasts with many web cameras,
+images, titles and movies etc.
+
+Wirecast introduces the unique concept of shots. You can package up your
+selected cameras, graphical overlays, movies and titles into a shot.
+Once you have built your list of shots, you can transition the broadcast
+between them with a single mouse click.
+
+Controlling your broadcast in real-time is easy. With Wirecast's
+multiple layer support, it's simple to place a background music track
+over your webcast, while changing between the cameras you want your
+viewers to see.
+
+Wirecast uses the QuickTime Streaming architecture for its broadcasting.
+You can "unicast" over the public internet or your LAN. When you want to
+scale your webcast up, you simply send your broadcast to a Darwin or
+QuickTime Streaming Server. Your viewers can then watch your webcast
+through QuickTime Player or embedded directly into a webpage.
+
+ License : Demo, $449
+ Author/Publisher : Vara Software
+ Modification Date : August 1, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 9.6 MB
+
+ Home Page 
+
+ XHub Media Center 2.3.1 
+
+XHub Media Center is one of the most popular alternatives to Apple's
+Front Row software. Developed exclusively for Mac OS X Tiger, XHub Media
+Center is fast, feature-rich and highly customizable, yet amazingly easy
+to use. Just connect your Mac to your living room TV and enjoy all of
+your digital media on the big screen from the comfort of your sofa. In
+addition to the essential music, movies, and photos modules, XHub Media
+Center also offers internet radio, web browsing, and EyeTV integration.
+
+ License : Shareware, $25
+ Author/Publisher : Snarb.tk
+ Modification Date : December 11, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 24.3 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

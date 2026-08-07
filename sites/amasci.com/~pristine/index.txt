@@ -1,0 +1,240 @@
+Pure Mac 
+
+ What's New? 
+ Updated August 30, 2001 
+ Feedback: Email Me 
+
+or Check the Index 
+
+ Education 
+ Games 
+ Internet 
+ Multimedia 
+ System 
+ Utilities 
+ WWW 
+
+ Astronomy 
+ Biology 
+ Calculators 
+ Chemistry 
+ Disabilities 
+ Earth Sciences 
+ Health 
+ Hobbies 
+ Kid Stuff 
+ Language 
+ Physics 
+ Teaching Aids 
+ Typing 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight 
+ Internet Games 
+ Pinball 
+ Puzzle 
+ RPG 
+ Sports 
+ Strategy 
+ Utilities 
+ Word 
+
+ BBS Clients 
+ Connections 
+ Email 
+ FTP 
+ Internet Utilities 
+ IRC & Chat 
+ MUD 
+ Servers 
+ Server Add-ons 
+ Telnet & SSH 
+ Time 
+ Usenet 
+ Video- Phones 
+
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Font Utilities 
+ Graphics 
+ MP3 
+ Music 
+ Photoshop Plug-ins 
+ 3D 
+ Screen Capture 
+ Video 
+ Word/Text Processing 
+
+ Apple Updates 
+ CMMs 
+ CSMs 
+ Docklings 
+ Drivers 
+ Face-Lift 
+ Frivolous 
+ Mac OS 9 
+ Mac Unix 
+ Olden 
+ Paranoia 
+ Screen Savers 
+ System Enhancements 
+
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Launchers 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Virus Scanners 
+
+ Auctions 
+ Bookmark Managers 
+ Browsers 
+ Browser Add-ons 
+ Page Rippers 
+ Sherlock 
+ Tickers 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Publishing 
+
+ Extensions Key 
+ Pure Picks 
+ Other Resources 
+ Downloading Tips 
+
+ Pure Mac Sherlock Plug-in 
+
+ - Classic 
+ - Carbon 
+ - Cocoa 
+
+ Changes: August 26 - September 1, 2001 
+
+ Added Docklings section 
+
+ DragThing 4.1 - Excellent launcher 
+
+ CoolCam 2.0 - Web cam 
+
+ WeatherMan 1.2 - Weather ticker 
+
+ WeatherMan 1.2 - Weather ticker 
+
+ OmniWeb 4.0.5 - Web browser for Mac OS X 
+
+ Cro-Mag Rally 2.0 - 3D cartoon racing game 
+
+ Classic Menu 2.5 - Brings the classic Apple Menu to Mac OS X 
+
+ Time-X 1.5 - Clock dockling 
+
+ Mulberry 2.1 - IMAP email client 
+
+ Language Assistant 2.5 - Online dictionary/translator 
+
+ iMOnTime 1.1 - Scheduling/reminder program 
+
+ IPNetSentry 1.1.6 - Protects from outside Internet intruders 
+
+ Easy Beat 1.3.1 - Music authoring program 
+
+ GoMac 2.1.1 - Windows-like task bar on your Mac 
+
+ MoonDock 1.0 - Phases of the moon in your dock 
+
+ iVisit 2.6b6 - Internet video conferencing program 
+
+ CarbonLib 1.4 - Improves system stability when using Carbon-based applications 
+
+ A-Dock 2.4 - Launcher/app switcher 
+
+ U.S. Stamp Pro 3.0 - Stamp collectors' database 
+
+ MacSatellite 1.1 - Use the AudioGalaxy search engine on your Mac 
+
+ MacSatellite 1.1 - Use the AudioGalaxy search engine on your Mac 
+
+ Changes: August 19 - August 25, 2001 
+
+ Audiocorder 3.1 - An audio recorder 
+
+ Audiocorder 3.1 - An audio recorder 
+
+ FontCat 1.3.6 - Font viewer 
+
+ Address Book 4.2.6.2 - Address book 
+
+ VueScan 7.1.10 - Alternative software/drivers for most scanners 
+
+ Style Master 2.0.1 - Cascading style sheets editor 
+
+ Mailsmith 1.1.8 - Email client 
+
+ MacMAME 0.53a - Classic arcade game emulator 
+
+ OmniGraffle 1.1.1 - Flowchart/diagram maker 
+
+ NetChronometer 1.4.8 - Program to set your Mac's clock with an NTP server 
+
+ Melody Assistant 5.7.3 - Computer-assisted tune writing and composition 
+
+ Melody Assistant 5.7.3 - Computer-assisted tune writing and composition 
+
+ Harmony Assistant 7.7.3 - Computer-assisted tune writing and composition 
+
+ Harmony Assistant 7.7.3 - Computer-assisted tune writing and composition 
+
+ Aimster 1.009 - File sharing service 
+
+ PassWord Retriever 2.0.1 - Password storage 
+
+ PassWord Retriever 2.0.1 - Password storage 
+
+ Mactella 1.3 - A Gnutella client 
+
+ Mactella 1.2b - A Gnutella client 
+
+ Faust's Friend 2.1 - News ticker 
+
+ Faust's Friend 2.1 - News ticker 
+
+ Valentina 1.8.9 - Database program 
+
+ Valentina 1.8.9 - Database program 
+
+ RBrowser 2.9 - FTP/SSH/SFTP client for OS X 
+
+ Mac OS 9.2.1 - Improves Compatibility with Mac OS X 
+
+ iSpQ VideoChat 5.0.1 - Video phone program 
+
+ iSpQ VideoChat 5.0.1 - Video phone program 
+
+ Interarchy 5.0 - FTP client, etc. etc. (formerly Anarchie) 
+
+ REALbasic 3.5 - BASIC programming environment 
+
+ REALbasic 3.5 - BASIC programming environment 
+
+ Previous Changes 
+
+ Feedback: Email Me 
+ Privacy Statement 
+
+ Established March 9th, 1996 
+ Pure Mac &copy; 1996-2001

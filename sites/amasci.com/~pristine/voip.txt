@@ -1,0 +1,480 @@
+Pure Mac: VoIP - Internet Phones - Software for Macintosh 
+
+ VoIP - Internet Phones 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Asterisk 
+ Call Recorder 
+ Gizmo 
+ LoudHush 
+
+ ohphoneX 
+ Roger Wilco 
+ SJPhone 
+
+ Skype 
+ TeamSpeex 
+ Ventrilo 
+
+ X-Lite 
+ XMeeting 
+ Yahoo! Messenger 
+ Zfone 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Asterisk 1.4.11 
+
+Asterisk is a complete PBX in software. It runs on Linux and other Unix based systems and provides
+all of the features you would expect from a PBX and more. Asterisk does
+voice over IP in three protocols, and can interoperate with almost all
+standards-based telephony equipment using relatively inexpensive
+hardware.
+
+Asterisk provides Voicemail services with Directory, Call Conferencing,
+Interactive Voice Response, Call Queuing. It has support for three-way
+calling, caller ID services, ADSI, SIP and H.323 (as both client and
+gateway). Check the Features section for a more complete list.
+
+Asterisk needs no additional hardware for Voice over IP. For
+interconnection with digital and analog telephony equipment, Asterisk
+supports a number of hardware devices, most notably all of the hardware
+manufactured by Asterisk's sponsors, Digium. Digium has single and quad
+span T1 and E1 interfaces for interconnection to PRI lines and channel
+banks as well as a single port FXO card and a one to four-port modular
+FXS and FXO card.
+
+ License : Freeware
+ Author/Publisher : Asterisk Development Team/Precompiled for Mac OS X by mezzo.net
+ Modification Date : July 19, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 19.7 MB - version 1.4.8
+
+ Download 
+File Size: 10.7 MB - version 1.4.11 Source Code
+
+ Downloads 
+
+ Home Page 
+
+ Call Recorder 2.3.3 
+
+Finally, an easy way to record Skype calls and podcast interviews. Call
+Recorder is an add-on for Skype which automatically transforms your
+audio or video calls into QuickTime movies.
+
+Call Recorder is great for lessons, interviews or just having fun.
+
+ License : Shareware, $15
+ Author/Publisher : Ecamm
+ Modification Date : August 5, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ Gizmo 4.0.266 
+
+Gizmo Project uses your internet connection (broadband or dial-up) to
+make calls to other computers. With the click of a mouse, you're
+connected to friends, family, and colleagues anywhere on earth. It's
+just that simple. You talk clearly. For as long as you want. For free.
+
+And with inexpensive add-ons like CallIn and CallOut, you can talk to
+any telephone, mobile or landline, on the planet. Any phone? Yes.
+
+ License : Freeware
+ Author/Publisher : SIPphone
+ Modification Date : July 2, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 21.8 MB
+
+ Home Page 
+
+ LoudHush 1.3.18 
+
+LoudHush is a softphone application for Mac OS X. It functions as an IAX
+client for the Asterisk PBX. With LoudHush you can initiate and answer,
+hold and transfer voice calls using your computer.
+
+ License : Shareware, $17
+ Author/Publisher : LoudHush
+ Modification Date : August 13, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ ohphoneX 0.4.3 
+
+ohphoneX (pronounced as "oh-fone-ten") is a H.323-compliant client
+application for video conferencing and IP telephony. It uses the
+protocol stack developed by the OpenH323 Project. ohphoneX is the first
+application from the XMeeting Project, the goal is to bring standard
+based video conferencing and IP telephony application to Mac OS X.
+ohphoneX is designed to be a simple application that does Mac-to-Mac and
+Mac-to-PC (i.e. NetMeeting) audio/video conferencing, as well as Mac-to-Phone voice only
+communication. Therefore, advanced features such as multi-party
+conferencing and answer machine is not included in this release.
+However, these features will be included in other applications from the
+XMeeting project.
+
+ License : Freeware
+ Author/Publisher : XMeeting Project
+ Modification Date : May 19, 2006
+ Requirements : Mac OS X 10.2.4 or higher
+
+ Download 
+File Size: 4.4 MB
+
+ Home Page 
+
+ RogerWilco 1.0b4 
+
+Roger Wilco is a free real-time voice chat technology that enhances communication among
+communities of users on the Internet. Use it to talk to your friends or play multiplayer
+online games. Roger Wilco has been a popular phone on PC's for quite a while. It is used mainly for playing online games. It was bought out by GameSpy, the large PC gaming service.
+
+ License : Freeware
+ Author/Publisher : HearMe
+ Modification Date : October 24, 2000
+ Requirements : PPC, System 7.1 or later
+
+ Download 
+File Size: 1484 Kb
+
+ Home Page 
+
+ SJPhone 299a 
+
+SJphone is a SIP/H.323-based softphone for Mac OS X, MS Windows, Windows
+CE, Linux and other VOIP applications. A number of advanced features
+make it possible to meet the needs of both personal users and service
+providers.
+
+ License : Freeware
+ Author/Publisher : SJ Labs
+ Modification Date : September 20, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 4.7 MB
+
+ Home Page 
+
+ Skype 2.7.0.330 
+
+Skype is the next phenomenon from the people who brought you KaZaA. Just
+like KaZaA, Skype uses P2P (peer-to-peer) technology to connect you to
+other users - not to share files this time, but to talk and chat with
+your friends.
+
+Our software's quick and easy to install. Just download Skype, register
+and within minutes you can plug in your headset, speakers or USB phone
+and call your friends. The calls have excellent sound quality and are
+highly secure with end-to-end encryption. You don't even need to
+reconfigure your firewall or router. It just, you know... works.
+
+You can also use our SkypeOut function to make calls to friends who only
+have a landline or mobile phone anywhere in the world at local rates.
+You can even transfer files of up to 2 gigabytes.
+
+ License : Freeware/Paid service
+ Author/Publisher : Skype Technologies S.A.
+ Modification Date : May 14, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 34.5 MB
+
+ Home Page 
+
+ TeamSpeex 1.0b2 r408 
+
+TeamSpeak is a Voice over IP program used by alot of gamers to
+communicate with each other with voice. The TeamSpeak client is
+available for Windows and Linux users and an official Mac client has
+been announced more than 1 year ago but there is still no Mac client as
+of today..
+
+So I was tired of waiting and seeing Mac users being left in the dark
+and not supported by not having a client, up until now ofcourse because
+(you probably already guessed it) TeamSpeex is a TeamSpeak client for
+Mac OS X!
+
+I named it TeamSpeex because it only supports the Speex codec. It is
+fully compatible with existing TeamSpeak servers, and with PC and Linux
+users.
+
+TeamSpeex is a third-party client for TeamSpeak, that means they have
+nothing to do with this product. So do not bug or contact the TeamSpeak
+developers if you have problems related with TeamSpeex.
+
+ License : Freeware
+ Author/Publisher : TeamSpeex
+ Modification Date : January 30, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 902 Kb
+
+ Home Page 
+
+ Ventrilo 3.0.4 
+
+Ventrilo is comprised of two primary Components: The Client that every
+end user will need to download, and the Server. Only one person needs to
+host a Server that all of the other Clients will connect to. Ventrilo is
+supported on different platforms as well ranging from Microsoft Windows
+to Apple Manintosh and Linux.
+
+ License : Freeware
+ Author/Publisher : Flagship Industries
+ Modification Date : November 22, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 4.6 MB
+
+ Home Page 
+
+ X-Lite 3.0 build 47051 
+
+CounterPath's X-Lite 3.0 is the market's leading free SIP based softphone available for
+download. Based on the advanced architecture of eyeBeam 1.5 (CounterPath's carrier grade
+telephony client), the new X-Lite is designed to showcase some of the feature rich
+capabilities available with our commercial softphone such as superior audio and video
+quality, zero-touch configuration, IM & Presence, and a comprehensive personal address
+book.
+
+ License : Freeware
+ Author/Publisher : CounterPath
+ Modification Date : March 29, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 14.9 MB
+
+ Home Page 
+
+ XMeeting 0.3.3 
+
+With each release, XMeeting is becoming more and more stable, compatible
+and usable. Starting with the release of version 0.2, XMeeting has
+almost all features included with ohphoneX and already has many
+important new features that ohphoneX never had. And, XMeeting simply
+looks better! If you're using Mac OS X 10.4 "Tiger", we recommend you to
+start using XMeeting for video conferences. We're still working hard on
+improving XMeeting and adding many important videoconferencing features.
+
+ License : Freeware
+ Author/Publisher : XMeeting Project
+ Modification Date : October 11, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.6 MB
+
+ Home Page 
+
+ Yahoo! Messenger 3.0 build 126432 
+
+Stay connected to Messenger on your mobile phone.
+
+Use webcam to share live video with your friends.
+
+Send files of any size directly to your online friends.
+
+Express your feelings in a conversation using little animated smiley faces.
+
+Make free worldwide PC-to-PC calls. Plus call regular or mobile phones
+in the U.S. and worldwide for as low as 1&cent;/min.
+
+ License : Freeware
+ Author/Publisher : Yahoo! Inc.
+ Modification Date : August 15, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 16.9 MB - version 3.0b126432
+
+ Download 
+File Size: 3.4 MB - version 2.5.3 for Classic Mac OS
+
+ Home Page 
+
+ Zfone 0.9.246 
+
+Zfone is a secure VoIP phone software product which lets you make
+secure encrypted phone calls over the Internet. Zfone is not itself a
+VoIP client, but lets you make secure calls with your existing VoIP
+client, by filtering, encrypting and decrypting all your VoIP media
+packets as they pass in and out of your computer. You can use a variety
+of different software VoIP clients to make a VoIP call. It's as if Zfone
+were a "bump on the wire", sitting between the VoIP client and the
+Internet. Think of it as a software bump-on-the-wire, or a bump in the
+protocol stack.
+
+Zfone has been tested with these VoIP clients: X-Lite, Gizmo (audio, no
+video yet), XMeeting, Google Talk VoIP client (but only when Google Talk
+is using RTP), Yahoo Messenger's VoIP client (for audio), and SJphone.
+Zfone will encrypt audio and video for Apple iChat calls on Mac OS X
+(Tiger and Leopard). Zfone has been tested with these VoIP service
+providers: Free World Dialup, iptel.org, and SIPphone. It does not work
+with Skype.
+
+ License : Freeware
+ Author/Publisher : Philip Zimmermann
+ Modification Date : September 5, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 915 Kb
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

@@ -1,0 +1,38 @@
+JBM - PM - Changes
+
+ [Ballistics] 
+ [Bibliography] 
+ [Downloads] 
+ [JBM] 
+ [Links] 
+ [MPM] 
+ [PM] 
+ [Personal] 
+ [Software] 
+
+ JBM - PM - Changes
+
+ 7 December 2002 
+ Initial upload.
+
+ 20 December 2002 
+ Modified the atmosphere mode to including corrected and
+ uncorrected pressure. Fixed a couple of bugs in wind (no wind entries
+ incorrectly caused an error) and BC interpolation routines.
+
+ 24 January 2003 
+ Added millimeters to allowable units.
+
+ 19 March 2003 
+ Validated HTML documentation
+
+ 13 April 2003 
+ Added two routines for sorting ballistic coefficient
+ and wind data.
+
+ 7 April 2004 
+ Changed calling convention to stdcall.
+
+ Last update 13 July 2004, Copyright &copy; 1996-2004
+ JBM 
+ [V]

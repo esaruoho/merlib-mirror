@@ -1,0 +1,1656 @@
+Pure Mac: Security - Software for Macintosh 
+
+ Security & Paranoia 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Access Protection 
+ File Encryption 
+ Firewall 
+ Laptop Theft Deterents 
+ Password Storage 
+ Steganography 
+
+ LockOut 
+ PGP Desktop 
+
+ Anonymity 
+ JAP 
+ NetShade 
+ Tor 
+
+ File/Disk Wiping 
+ Burn 
+ NetShred 
+ Permanent Eraser 
+ ShredIt 
+
+ Codex 
+ Cryptix 
+ GnuPG 
+ GPGMail 
+ Gpg Tools 
+ iROT13 
+ Knox 
+ MacEncrypt 
+ Mac GPG 
+ PGP Desktop 
+ Tresor 
+ Xaes 
+
+ DoorStop X 
+ Firewall Builder 
+ Flying Buttress 
+ NetBarrier 
+ sunShield Pro 
+ WaterRoof 
+ Intrusion Detection Systems 
+ HenWen 
+ IPNetRouterX 
+ IPNetSentryX 
+ Snort 
+
+ iAlertU 
+ MultiAlarm 
+ Undercover 
+ Outgoing Connection Monitors 
+ GlowWorm 
+ Little Snitch 
+ Password Generators 
+ Keysgen 
+ Mac Password Generator 
+ Make-A-Pass 
+ Passenger 
+ PassGenX 
+ PasswordPress 
+ SimpleAuthority 
+ Xyzzy 
+
+ CiphSafe 
+ Data Guardian 
+ iSafe 
+ MacPasser 
+ MindFortress 
+ 1Passwd 
+ PasswordWallet 
+ Pastor 
+ Safe Place 
+ SecretBook 
+ The Serial Keeper 
+ SplashID 
+ Steel 
+ Wallet 
+ Web Confidential 
+ webPM 
+
+ Cryptix 
+ iSteg 
+ Stego 
+
+ Visibility 
+ Hide-Out! 
+ InVisibles 
+ JuhOS X 
+ Secret Service 
+ Show Hide Invisible Files 
+ Wizzard 
+ Xray 
+
+ Apple - Mac OS X - FileVault 
+ Apple - Mac OS X - Security 
+ Electronic Privacy Information Center 
+ An Unencrypted Look at FileVault 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Burn 2.5 
+
+Files and folders dragged onto the Burn icon will be overwritten a user selected 
+number of times with a user selected pattern, then renamed, then deleted. Both data 
+and resource forks are deleted.
+
+ License : Freeware
+ Author/Publisher : Michael Watson and Paul Jenson/Next Wave Software, Inc.
+ Modification Date : November 10, 1998
+ Requirements : 680x0 or PPC
+
+ Download 
+File Size: 131 Kb 
+
+ Home Page 
+
+ CiphSafe 1.3 
+
+Simple-to-use Mac OS X application to store passwords or other notes
+securely. Encrypts with 320-bit Blowfish, includes random password
+generation, and a very clean interface. Uses the system's OpenSSL for
+encryption.
+
+ License : Freeware
+ Author/Publisher : Bryan L. Blackburn
+ Modification Date : December 15, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 429 Kb
+
+ Home Page 
+
+ Codex 1.7.2 
+
+Codex is a Cocoa (MacOSX native) software that allows you to create
+encrypted archives, compute checksums, shred, create disk images and
+burn sets of files and folders.
+ Codex features:
+ Archiving: Datas, resources and original attributes are compressed at maximum level and encrypted using the AES 256bits "Rijndael" cipher with a 256bits key created by derivating the password you have provided with the industry standard algorithm PKCS #5 v2 PBKDF2.
+ Checksums: ADLER, CRCs, GOST, MD2, MD4, MD5, MDC2, RIPEMD, SHAs, HAVALs, TIGER, WHIRLPOOL.
+ HMAC-Checksums: MD2, MD4, MD5, MDC2, RIPEMD, SHA, SHA1.
+ Secure deletion: multi-override and deletion (multi-shredding).
+ Disk images: Common types (compressed (fast and strong), read only, read and write, master CD/DVD), buid-in encryption and auto-copy/cleanup (internet-enabled) options.
+ Burn: Standard MacOSX burn and erase medias features.
+
+ License : Shareware, $19
+ Author/Publisher : MacMagna
+ Modification Date : November 30, 2004
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 396 Kb
+
+ Home Page 
+
+ Cryptix 0.63b 
+
+ Password Generator
+ Mnemonic password generator
+ RSA Key Generator
+ DH Key Generator
+ Ano, Blowfish 447 bits, MD5 C, Rot 13, Twofish Encryption
+ Steganography
+ CRC Checksum
+
+ License : Shareware, $18
+ Author/Publisher : dreads
+ Modification Date : December 27, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 8.5 MB
+
+ Home Page 
+
+ Data Guardian 1.3 
+
+Security and privacy are two of the most important issues in today's
+world; leaving passwords on sticky notes around your computer simply
+will not cut it anymore. Data Guardian is a secure database application
+with up to 448-bits of Blowfish encryption - regardless of how sensitive
+your data is. Create multiple databases in Data Guardian for a variety
+of purposes such as an address book, customer database, christmas
+shopping list, journal, password manager, or even notepad.
+
+ License : Shareware, $20
+ Author/Publisher : Koingo Software
+ Modification Date : December 22, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 8.6 MB
+
+ Home Page 
+
+ DoorStop X 2.2 
+
+Protects your Mac from outside attack
+ Easy-to-use interface means less chance of mistakes
+ Logs both allowed and denied access attempts
+ Enhances OS X's "built-in" firewall
+
+ License : Demo, $39
+ Author/Publisher : Open Door Networks
+ Modification Date : November 2, 2007
+ Requirements : Mac OS 10.3 or higher
+
+ Download 
+File Size: 6.9 MB
+
+ Home Page 
+
+ Firewall Builder 2.1.16 
+
+Firewall Builder is a multi-platform firewall configuration and management
+tool. It consists of a GUI and set of policy compilers for various
+firewall platforms. Firewall Builder uses object-oriented approach, it
+helps administrator maintain a database of network objects and allows
+policy editing using simple drag-and-drop operations. Firewall Builder
+currently supports iptables, ipfilter, OpenBSD PF and Cisco PIX.
+Technical summary of features supported by the policy compilers for all
+platforms can be found in the section "Modules" (see menu on the left).
+
+Being truly vendor-neutral, Firewall Builder can generate a configuration
+file for any supported target firewall platform from the same policy
+created in its GUI. This provides for both consistent policy management
+solution for heterogeneous environments and possible migration path.
+
+ License : Shareware, $50
+ Author/Publisher : NetCitadel LLC
+ Modification Date : December 20, 2007
+ Requirements : Mac OS X 10.3.4 or higher
+
+ Download 
+File Size: 9.8 MB
+
+ Home Page 
+
+ Flying Buttress 1.4 
+
+As Apple's built-in Firewall preferences improves in both functionality and security, I will be aiming Flying Buttress more at users who need the advanced firewall configuration, logging, and IP sharing options found in Flying Buttress.
+There is no reason that a new or inexperienced user cannot use Flying Buttress, but Apple's own Firewall preferences will likely remain a simpler interface for configuring a basic firewall.
+However, if you need:
+ - Firewall filters that include qualifiers on host or network addresses
+ - Firewall filters that operate on other than TCP or UDP protocols
+ - Firewall filters that include the whole range of ipfw qualifiers, such as IP options, ICMP types or TCP flags
+ - Per-filter logging configuration, including the ability to log allowed connections and the option to not log certain types of denied connections
+ - NAT port forwarding or other custom NAT configuration
+ - Different filter configurations on different network interfaces.
+ - A persistant, searchable firewall log entry database with graphical log viewer
+ - Scriptable control of your firewall, such as via cron or other shell automation
+ - Access and ability to easily edit the raw firewall configuration text, including an integrated ipfw filter syntax checker.
+ - The ability to switch between different firewall configuration sets quickly and easily.
+...then you should consider using Flying Buttress.
+
+ License : Shareware, $25
+ Author/Publisher : Brian Hill
+ Modification Date : December 31, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.5 MB
+
+ Home Page 
+
+ GlowWorm FW 1.5.2 
+
+GlowWorm FW Lite - can help you protect your privacy by enabling you to
+control your computer at the network level.
+
+Through a simple system of Rules (see screenshot on the right) you can
+easily define the behavior that is acceptable on the basis of a
+particular application, host or ip address, port number, and any
+combination thereof, and what action to take if such an event occurs. A
+default set of rules is included to get you started.
+
+GlowWorm FW Lite is a completely free download. A more sophisticated
+(non-free) version is planned, and feedback received regarding this free
+version will help guide development. Mac OS X 10.4 is required to use
+GlowWorm FW Lite.
+ What are Rules?
+ Rules are a means by which one can impose network restrictions upon the
+applications on one's computer. Each Rule specifies one of the actions:
+Allow, Deny, Ask. If a network event matches on an "Ask" rule, an
+authorization dialog window will appear, it will show you the details of
+the event (the application name, the remote IP address, port number,
+approximate geographic location, etc.) and based on that information you
+can make a decision about whether or not to allow it. By customizing the
+set of rules to strictly match the specifics of your computer use, you
+can have an extra level of security in place, which can alert you if an
+application starts doing something unexpected ("phoning home"), or a
+malicious program tries to contact another computer.
+
+ License : Shareware, $30
+ Author/Publisher : Curtis Jones
+ Modification Date : February 15, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.9 MB
+
+ Home Page 
+
+ GnuPG 1.4.8 
+
+Mac GNU Privacy Guard (Mac GPG for short) is, after a fashion, the Mac
+OS X port of GnuPG, licensed under the GNU GPL. The aims of the project
+are to make GnuPG easy to install, develop a framework to make it easy
+for other developers to incorporate GnuPG functionality into their
+applications, write services to allow for the use of GnuPG functions in
+most Cocoa applications, and write a Mac GPG Keys type application so
+that you no longer have to go to the commandline to manage your keys.
+For those who don't know, GnuPG is a free OpenPGP client (PGP == Pretty
+Good Privacy). It can encrypt text (usually e-mail or other messages
+sent between people) and sign text to prove who wrote it. A further
+discussion of this can be found elsewhere.
+
+ License : Freeware
+ Author/Publisher : Mac GPG Project
+ Modification Date : December 20, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 10.6 MB
+
+ Home Page 
+
+ GPGMail 1.1.2 
+
+GPGMail is a plug-in for Apple's Mail, providing a front-end to gpg for
+some operations. It allows you to read/write encrypted messages, as well
+as electronically signed messages.
+
+GPGMail extends Apple's Mail application and allows you to read and send
+PGP authenticated and/or encrypted messages. You can use GPGMail for
+plain text and MIME messages, following RFC 3156.
+
+GPGMail does not contain any encryption code: it is a client to gpg executable.
+
+GPGMail is a complete hack, relying on Mail's private internal API. Use it at your own risks!
+
+ License : Freeware
+ Author/Publisher : Stephane Corthesy
+ Modification Date : February 5, 2006
+ Requirements : Mac OS X 10.3 or higher, GnuPG - Not Compatible with Leopard
+
+ Download 
+File Size: 2.1 MB - for Mac OS X 10.4.x
+
+ Download 
+File Size: 1.5 MB - for Mac OS X 10.3.x
+
+ Home Page 
+
+ Gpg Tools 1.2.1 
+
+Gpg Tools is a Mac OS X graphical interface to the GNU Privacy Guard
+(GPG) utility. It provides approximately the functionality of the old
+PGPtools, and is freeware.
+
+ License : Freeware
+ Author/Publisher : Tom Sutcliffe
+ Modification Date : January 3, 2008
+ Requirements : Mac OS X 10.4 or higher, GnuPG 
+
+ Download 
+File Size: 311 Kb
+
+ Home Page 
+
+ HenWen 2.1.2 
+
+HenWen is a network security package for Mac OS X that makes it easy to
+configure and run Snort, a free Network Intrusion Detection System
+(NIDS). HenWen's goal is to simplify setting up and maintaining software
+that will scan network traffic for undesirable traffic a firewall may
+not block. Everything you need to have is bundled in; there is no
+compiling or command line use necessary.
+
+ License : Freeware
+ Author/Publisher : Nick Zitzmann
+ Modification Date : June 19, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.7 MB
+
+ Home Page 
+
+ Hide-Out! 2.1 
+
+Hide-Out! is a very simple Freeware application which allows you to take
+advantage of Mac OS X's ability to hide a folder by putting a full point
+in front of its name. Hide-Out! will allow you to do this easily without
+having to use the terminal application and it now sets the invisible bit
+on the folder too, keeping it hidden in Mac OS 9. So if you have some
+stuff that you'd like to keep away from prying eyes, you can now keep it
+in your Hide-Out!
+
+ License : Freeware
+ Author/Publisher : Space Software
+ Modification Date : July 15, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 890 Kb
+
+ Home Page 
+
+ iAlertU 0.29b 
+
+iAlertU is the first of its kind alarm system for your Apple MacBook computer. Basically
+iAlertU is a car alarm for your Mac. iAlertU uses the built in sudden motion sensor (SMS)
+device to detect movement of your MacBook and triggers an audible and visual alarm. The
+alarm can also be triggered by keyboard and mouse/trackpad movement. The alarm is
+designed to continue sounding even after the MacBook screen has been closed. iAlertU is
+activated and deactivated using the infrared remote control inlcluded with every MacBook
+computer. User adjustable settings let you decide which type of alarm triggers you would
+like to use, the duration of the alarm, and motion sensor sensitivity. iAlertU also
+features functionality to utilize the built in iSight camera to photograph the would be
+thief.
+
+ License : Freeware
+ Author/Publisher : SlappingTurtle
+ Modification Date : December 17, 2007
+ Requirements : Mac OS X 10.4 or higher, MacBook
+
+ Download 
+File Size: 752 Kb
+
+ Home Page 
+
+ InVisibles 1.4.3 
+
+Just double-click the InVisibles icon, click "Visible" to make all of
+the invisible files become visible files. If you have carried out
+whatever processes you need to, double-click the InVisible icon again
+and this time click "Invisible" to make them all invisible again.
+
+ License : Mailware
+ Author/Publisher : Tice
+ Modification Date : June 28, 2003
+ Requirements : Mac OS X
+
+ Download 
+File Size: 134 Kb
+
+ Home Page 
+
+ IPNetRouterX 1.2.3 
+
+IPNetRouterX is a powerful router, firewall, and network management
+utility including NAPT with inbound port mapping, a built-in DHCP
+Server, AirPort configuration tool, bandwidth accounting, and rate
+limiting.
+
+Using IPNetRouterX you can share a network connection among multiple
+users, provide DHCP service, configure an AirPort software base station,
+allocate network bandwidth to match business priorities, audit network
+usage, and secure your LAN against undesirable traffic or network abuse.
+
+IPNetRouterX includes the complete IP filtering engine from
+IPNetSentryX, extending its flexibility to the entire LAN.
+
+ License : Demo, $100
+ Author/Publisher : Peter Sichel/Sustainable Softworks 
+ Modification Date : December 27, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 4.7 MB - version 1.2.3
+
+ Download 
+File Size: 1.4 - PPC version 1.4
+
+ Parent Directory 
+
+ Home Page 
+
+ IPNetSentryX 1.5.1 
+
+IPNetSentryX is an advanced firewall intrusion detector that includes bandwidth
+allocation, bandwidth accounting, Ethernet bridging, AirPort configuration, automatic
+failover, and detailed logging. IPNetSentryX supplements and is fully compatible with
+Apple's own firewall in OSX while providing additional capability to solve network
+problems users may encounter.
+
+Unlike most other Internet security products, IPNetSentryX offers basic protection without
+erecting barriers for the safe use of your Internet connection. There is no need to "punch
+holes" in a firewall for specific applications you may wish to run. Instead, IPNetSentryX
+silently and intelligently watches for suspicious behavior, and when triggered, invokes a
+solid filter which completely bans the potential intruder from your Macintosh. The
+advantage is you don't need a network expert to configure your firewall or debug
+compatibility conflicts.
+
+ License : Demo, $60
+ Author/Publisher : Peter Sichel/Sustainable Softworks 
+ Modification Date : December 28, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.8 MB - version 1.5.1
+
+ Download 
+File Size: 1.9 MB - version 1.2.05 - for Jaguar and Panther
+
+ Download 
+File Size: 1.5 - PPC version 1.4
+
+ Parent Directory 
+
+ Home Page 
+
+ iROT13 1.0 
+
+iROT13 is a simple and easy to use program for encoding and decoding
+text that is in the ROT13 format. You can copy and paste text directly
+into the application for conversion, open a file and convert it and save
+converted text to a file.
+
+Note: ROT13 encoding is NOT secure encryption. It simply renders text
+into a garbled form that is not readable by humans. However, anyone with
+the right program or programming skill can decode content that is in the
+ROT13 format.
+
+That said, iROT13 makes ROT13 encoding and decoding on OS X simple and easy. And best of all, it's free.
+
+ License : Freeware
+ Author/Publisher : David Giffin
+ Modification Date : November 9, 2004
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 44 Kb
+
+ Home Page 
+
+ iSafe 1.8 
+
+Now you can keep your credit card numbers, bank account information,
+software serial numbers, web based usernames and passwords and more all
+in one convenient place.
+
+ License : Freeware
+ Author/Publisher : CodeFuzion
+ Modification Date : December 22, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.5 MB
+
+ Home Page 
+
+ iSteg 1.5 
+
+Steganography encryption tool.
+
+ License : Freeware
+ Author/Publisher : hanynet.com
+ Modification Date : December 18, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 289 Kb
+
+ Home Page 
+
+ JAP 00.08.086 
+
+Without Anonymization, every computer in the internet communicates using a traceable Address. That means:
+ the website visited,
+ the internet service provider (ISP),
+ and any eavesdropper on the internet connection
+ can determine which websites the user of a specific computer visits.
+Even the information which the user calls up can be intercepted and seen
+if encryption is not used.
+ Info: Leaving a data trail online...
+ JAP uses a single static address which is shared by many JAP users. That
+way neither the visited website, nor an eavesdropper can determine which
+user visited which website.
+ How it works
+ Instead of connecting directly to a webserver, users take a detour,
+connecting with encryption through several intermediaries, so-called
+mixes.
+ Attention! The first release of JAP is downloadable free of charge and
+already protects your privacy against most observers like your ISP, your
+network operator, or your boss. However, this version does not yet
+achieve the full security and anonymity that we strive for. It does not
+protect you against an adversary who has the capability to observe all
+communication links on the Internet.
+
+ License : Freeware
+ Author/Publisher : JAP Team
+ Modification Date : August 1, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 6.0 MB
+
+ Home Page 
+
+ JuhOS X 1.0 
+
+JuhOS X is a simple and free utility to view invisible files, and to make them visible too!
+
+ License : Freeware
+ Author/Publisher : Juho Ruohola
+ Modification Date : January 19, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.4 MB
+
+ Home Page 
+
+ Keysgen 1.1.2 
+
+Keysgen is an advanced key generator, designed for IT managers.
+
+ License : Freeware
+ Author/Publisher : Luc-Olivier Gouedart Lafeuille
+ Modification Date : February 14, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 66 KB - version 1.1.2
+
+ Home Page 
+
+ Knox 1.5.3 
+
+Store your files in encrypted, secure vaults. Backup your personal
+vaults onto your iPod. Your business vaults to the company server. All
+automatic, all secure.
+
+ License : Demo, $30
+ Author/Publisher : Marko Karppinen & Co.
+ Modification Date : November 14, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 3.6 MB
+
+ Home Page 
+
+ Little Snitch 2.0.1 
+
+Little Snitch is an application supervisor. It watches all running
+applications and brings up an alert panel when an application tries to
+establish a network connection. You can either allow the connection,
+deny it or store a permanent rule for similar future-connections.
+
+ License : Shareware, $25
+ Author/Publisher : Objective Development
+ Modification Date : December 4, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.1 MB
+
+ Home Page 
+
+ LockOut 5.2.3 
+
+ LockOut can call your cell phone if someone attempts to break into your Mac.
+ Resistant to system commands such as force-quit and command-tab.
+ People can leave messages for you.
+ When used with Apple's Open Firmware Password application, no one can
+reboot from another volume without first entering your password.
+ And more.
+
+ License : Shareware, $15
+ Author/Publisher : Modesitt Software
+ Modification Date : July 22, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 441 Kb
+
+ Home Page 
+
+ MacEncrypt 2.0 
+
+MacEncrypt will allow you to encrypt files using the "Data Encryption
+Standard." Encrypted files can only be used if you know the password.
+Groups of files can also be encrypted into an encrypted archive.
+MacEncrypt can be placed on the desktop next to the trash can and files can
+simply be dropped on top of it to be encrypted.
+
+ License : Shareware, $10
+ Author/Publisher : J. Clarke Stevens
+ Modification Date : May 5, 1993
+ Requirements : 680x0
+
+ Download 
+File Size: 43 Kb
+
+ MacPasser 1.4.2 
+
+MacPasser is a small and easy-to-use password rememberer (passer). Simply put, is it an application that remembers
+account information. You can enter the name of the services, your login names, your passwords and other information
+specific to each service. The information can then be saved either as an unlocked file or as a secured, encrypted file.
+An average user can not break the encryption, but a hacker can probably do it. If you want to give your files greater
+security I suggest you use a special application for that purpose.
+
+ License : Freeware
+ Author/Publisher : Kim Alstrom
+ Modification Date : July 24, 2000
+ Requirements : PPC
+
+ Download 
+File Size: 604 Kb
+
+ Home Page 
+
+ Mac Password Generator 1.0 
+
+You can dramatically increase the safety of your information by using strong passwords for
+all your online accounts. The SANS Technology Institute of Top 20 Internet Security
+Vulnerabilities consistently points to weak passwords as one of greatest contributers to
+information theft. To help aid your security, Mac Password Generator allows you to
+generate strong passwords easily.
+
+Random passwords are wonderful for security, but they are nearly impossible to remember.
+Passwords that use dictionary-based words are much easier to remember, but they are easier
+to crack. Mac Password Generator allows you to decide which solution is best for you and
+provides both password generation algorithms.
+
+ License : Freeware
+ Author/Publisher : Agile Web Solutions
+ Modification Date : August 8, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 243 Kb
+
+ Home Page 
+
+ Make-A-Pass 2.4 
+
+Make-A-Pass generates secure, random passwords with the click of a
+button! This widget is highly configurable.
+
+ License : Freeware
+ Author/Publisher : Andrew Hedges
+ Modification Date : March 26, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 74 Kb
+
+ Home Page 
+
+ MultiAlarm 3.4.2 
+
+MultiAlarm is a security tool that is used to defend against unauthorized people
+using a machine locally or stealing the machine.
+
+When the alarm is armed, depending on the configuration, the movement of
+the laptop or mouse and keyboard will set a sound alarm and perform other alerts.
+
+Once the alarm is primed all you have to do to test that it is working is pick the laptop
+up or use the mouse and keyboard and the following should occur depending on your
+preferences:
+ - Play a audible event
+ - Growl Notification
+ - Email a specified email
+ - Run external applescript
+ - Activate Screen-Lock
+ - Take a picture using iSight
+ - Upload iSight Image
+
+ License : Freeware
+ Author/Publisher : semaja2
+ Modification Date : January 10, 2007
+ Requirements : Mac OS X 10.4 or higher, Mac with SMS Sensor (MacBooks and later iBooks)
+
+ Download 
+File Size: 1.8 MB
+
+ Home Page 
+
+ MindFortress 1.5 
+
+MindFortress is a multi-media knowledge base app for the Mac OS X
+platform. Use it for a Digital Wallet, a Notebook, a Serial Number
+storage, and Password storage. With 28 built in cards and an unlimited
+number of custom cards - you can make it anything you want it to be!
+
+ License : Shareware, $10
+ Author/Publisher : Web Information Solutions
+ Modification Date : February 7, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 4.7 MB
+
+ Home Page 
+
+ NetBarrier 10.4.5 
+
+NetBarrier X3 was designed to protect the Macintosh user from the perils of the Internet. Its four-level line of defense provides optimal security so that you can use the Internet without leaving yourself vulnerable to its dangers.
+ Including: Personal Firewall; Antivandal; Internet Filter; Monitors
+
+ License : Update, Purchase for $60
+ Author/Publisher : Intego
+ Modification Date : December 6, 2007
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 27.6 MB
+
+ Home Page 
+
+ NetShade 3.1.1 
+
+NetShade 2 brings the next level of online privacy and anonymity to the
+Mac platform. In addition to a large database of publicly available
+proxy servers, NetShade 2 now provides its own dedicated and fully
+anonymous proxy.
+
+NetShade is an Internet security tool which makes your Web presence
+anonymous and secure.
+
+Control your web routing through one straightforward console
+Instead of your web connection going directly from your machine to the
+website you're visiting, it is automatically routed through an Internet
+proxy server. NetShade lets you connect to the Internet in one of three
+ways:
+ Direct Connection: No anonymity, no proxy is used.
+ Public Proxy: NetShade selects a publicly-available proxy server from
+its daily-updated list. These servers are located around the world and
+provide good anonymity, but they are not within NetShade's control and
+therefore speed and reliability cannot be assured.
+ NetShade Proxy: NetShade connects through its own dedicated anonymous
+proxy server located in a Texas datacenter. The NetShade proxy server is
+a non-logging, fully anonymous web proxy supporting both HTTP and HTTPS.
+This option provides the best speed, reliability and anonymity. The
+NetShade proxy is available only to registered users.
+
+ License : Shareware, $29
+ Author/Publisher : Rayner Software
+ Modification Date : January 10, 2007
+ Requirements : Mac OS X 10.4 or higher - Not compatible with Firefox or Mozilla
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ NetShred 4.1 
+
+Clear Cache, erase history with this easy to use Internet Track Eraser. 
+Easy because it runs automatically when you quit from your browser or
+email. Fast because it runs in the background while you continue to
+browse. Cleaner because it will erase - not just delete - cache,
+history, and email trash so it can't be recovered. NetShred works with
+most web browsers and email programs.
+
+ License : Shareware, $20
+ Author/Publisher : Mireth Technology Corporation
+ Modification Date : November 27, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ 1Passwd 2.5.8 
+
+Manage hundreds of passwords with one master key.
+
+Integrated with Safari, OmniWeb, DEVONagent, Firefox, Camino, and Flock.
+
+Automatic form filler outclasses the other AutoFill products.
+
+OS X Keychain integration provides maximum security.
+
+ License : Shareware, $30
+ Author/Publisher : Agile Web Solutions
+ Modification Date : December 29, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 6.4 MB
+
+ Home Page 
+
+ Passenger 3.6.5 
+
+The Mac server account creation, permissions setting, and password generation tool.
+ 1. Import Database Text
+ 2. Name Concatenation
+ 3. Generate Passwords
+ 4. Duplicate Checking
+ 5. Set Account Parameters
+ 6. Export for Servers & Eudora Clients
+ Exports for Mac OS X Server, Macintosh Manager, Eudora client settings
+customization and distribution, WebSTAR FTP, WebSTAR Web, Master Spell,
+Master Key, and user-defined customized export
+ 7. Create Folders
+ 8. Migrate Account Folders
+ 9. Set Permissions
+
+ License : Shareware, $60
+ Author/Publisher : MacinMind Software
+ Modification Date : July 18, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.9 MB
+
+ Home Page 
+
+ PassGenX 1.0 
+
+PassGenX generates passwords containing up to thirteen digits or
+characters, and defaults to an eight alphanumeric password. It uses a
+random function to generate a password and puts this password in a field
+used to copy and paste into your password field for your service.
+
+ License : Freeware
+ Author/Publisher : Steve Muncy
+ Modification Date : August 8, 2001
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 684 Kb
+
+ Home Page 
+
+ PasswordPress 1.2 
+
+PasswordPress helps you determine what your next password should be.
+However, PasswordPress only makes new passwords for you. It doesn't
+store passwords anyplace; it doesn't remember what password it gave you
+last. Nothing too fancy (plus, most operating systems have better means
+of storing passwords such as Mac OS X and its Keychain).
+
+ License : Freeware
+ Author/Publisher : Unearthed Ruminator
+ Modification Date : May 3, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 151 Kb
+
+ Home Page 
+
+ PasswordWallet 4.3.2 
+
+PasswordWallet is a convenient, easy to use, secure place to store all
+your usernames, passwords, PINs, or combinations. It just doesn't get
+any easier than this!
+ - PasswordWallet has a tight user interface that allows you to use your passwords as quickly and as painlessly as possible.
+ - Our unique Auto-typing technology is more secure than copying your password to the clipboard.
+ - Use Auto-typing to enter multiple usernames and passwords across multiple web pages.
+ - For security, PasswordWallet uses the BlowFish encryption algorithm with 448-bit keys to protect your data. For safety, PasswordWallet can copy your password to the clipboard and clear it automatically after you paste.
+ - Keep your master password in the Mac OS X keychain.
+
+PasswordWallet for Macintosh 4.x (sold separately) now includes the ability to export your passwords to your iPhone. You can view your passwords anywhere and at any time on your iPhone while still keeping them protected by PasswordWallet's powerful 448-bit blowfish encryption and your master password.
+ - PasswordWallet for Mac encrypts all of your data with 448-bit blowfish, and then bundles this encrypted data together with the software necessary to access it on your iPhone.
+ - PasswordWallet for Mac exports this password-protected bundle to a special bookmark in Safari that can then be synchronized to your iPhone with iTunes.
+ - Open this bookmark in Safari on your iPhone and you'll have access to all your passwords on your iPhone! (After you enter your master password, of course!)
+ - Yes, this really works!!
+ - For now the data on the iPhone is read-only. So only data from your Mac can be copied to your iPhone.
+
+ License : Shareware, $12.50, Acitvate for iPhone $7.50
+ Author/Publisher : Selznick Scientific Software
+ Modification Date : December 20, 2007
+ Requirements :Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 2.6 MB
+
+ Home Page 
+
+ Pastor 1.7.5 
+
+Pastor is a tool to store all your passwords, website logins, program
+serial numbers, etc. RC4-encrypted and password-protected. With built-in
+password generator.
+
+ License : Freeware
+ Author/Publisher : Markus Mehlau
+ Modification Date : October 26, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 3.1 MB
+
+ Home Page 
+
+ Permanent Eraser 2.3.3 
+
+When you normally delete your files in Mac OS X, the operating system is only forgetting
+where those particular files are placed, while the data still physically remains on the
+drive. Beginning with Mac OS 10.3, Apple enhanced its security by introducing the Secure
+Empty Trash feature, which follows the U.S. DoD pattern of overwriting data seven times.
+
+Permanent Eraser provides an even stronger level of security by implementing the Gutmann
+Method. This utility overwrites your data thirty-five times, scrambles the original file
+name, and truncates the file size to nothing before Permanent Eraser finally unlinks it
+from the system. Once your data has been erased, it can no longer be read through
+traditional means.
+
+ License : Freeware
+ Author/Publisher : EdenWaith
+ Modification Date : December 30, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 435 Kb
+
+ Home Page 
+
+ PGP Desktop 9.7 
+
+PGP Desktop Home 9.7 provides individuals a simple, easy-to-use desktop
+encryption solution to protect confidential communications and digitally
+stored information. It is designed for individuals who want to secure
+private email, selected files, and AOL Instant Messenger (AIM) traffic.
+
+PGP Desktop Professional 9.7 provides comprehensive data protection for
+individual desktops, allowing organizations to protect the sensitive
+business information of critical users without disrupting current
+business processes. This award-winning, easy-to-use solution secures
+email, files, virtual volumes, and even entire disks from a single
+desktop application.
+
+ License : Demo, Home $99 - Pro $149
+ Author/Publisher : PGP Corporation
+ Modification Date : December 19, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 33.3 MB
+
+ Home Page 
+
+ Safe Place 2.2.3 
+
+Safe Place is a Macintosh application designed to securely store your
+passwords, credit card numbers, software activation codes, or any other
+information you want to keep handy and safe from prying eyes.
+
+ License : Shareware, $10
+ Author/Publisher : Mere Mortal Software
+ Modification Date : September 14, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 9.0 MB
+
+ Home Page 
+
+ SecretBook 3.2 
+
+SecretBook is an encrypted password database for Mac OS X. It allows you
+to easily and safely store all those little bits of information like
+passwords and software licenses.
+
+ License : Shareware, $10
+ Author/Publisher : Information Graphics
+ Modification Date : December 18, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.4 MB
+
+ Home Page 
+
+ SecretService 0.3 
+
+A nifty app that lets you make files and folders invisible by simply
+dropping them on a small picture on the desktop. It let's you access
+those hidden files after you entered your password.
+
+ License : Freeware
+ Author/Publisher : Robert Kuilman
+ Modification Date : October 28, 2003
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 123 Kb
+
+ Home Page 
+
+ The Serial Keeper 2.1 
+
+The Serial Keeper saves any type of information you can dream up! From
+serial numbers for software, credit card and bank account information,
+to everything in between.
+
+ License : Shareware, $10
+ Author/Publisher : Steven Byrd
+ Modification Date : July 17, 2005
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 2.3 MB
+
+ Download 
+File Size: 2.4 MB
+
+ Download 
+File Size: 917 Kb
+
+ Home Page 
+
+ Show Hide Invisible Files 1.5 
+
+ What's different about this utility:
+ While other scripts quit as soon as you select "Show the Invisible files" - then you must find the script again.
+ This script reads the state of your invisible files and displays another dialog box until you are finished.
+ This makes things much easier, especially if you're accessing the script through Spotlight.
+
+ License : Freeware
+ Author/Publisher : J.T. AppleScripts
+ Modification Date : December 21, 2006
+ Requirements : Mac OS X 10.4.4 or higher
+
+ Download 
+File Size: 70 Kb
+
+ Home Page 
+
+ ShredIt X 5.8 
+
+ShredIt X shreds everything - including files, folders, disk free space,
+files you've already deleted, hard drives, external hard drives, CDRWs
+and even floppy drives.
+
+ License : Shareware, $25
+ Author/Publisher : Mireth Technology Corp.
+ Modification Date : October 31, 2007
+ Requirements : Mac OS X 
+
+ Download 
+File Size: 2.8 MB
+
+ Home Page 
+
+ SimpleAuthority 2.1 
+
+SimpleAuthority is a free Certification Authority (CA). It generates
+keys and certificates that provide cryptographic digital identities for
+a community of people and/or computer servers. These identities are
+designed to be used in other applications for security purposes within
+this community.
+
+SimpleAuthority is designed to be very easy to use and does not require
+an external database or similar supporting components. It is built on
+The Legion of the Bouncy Castle cryptographic library.
+
+SimpleAuthority can be used to generate keys and certificates for:
+ - Secure email - for digital signing and encryption of email
+ - VPN access - to provide a much higher level of security than username/password access
+ - Client SSL authentication - to authenticate a person to a Web Server, such as to restrict access to a subversion repository or other online content, and
+ - Server SSL authentication - to authenticate a Web Server to people within the community.
+
+ License : Shareware, $50
+ Author/Publisher : Paul Cuthbert
+ Modification Date : November 4, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.7 MB
+
+ Home Page 
+
+ Snort 2.6.1.2 
+
+In 1998, Martin Roesch wrote an open source technology called Snort, which he termed a
+"lightweight" intrusion detection technology in comparison to commercially available
+systems. Today that moniker doesn't even begin to describe the capabilities that Snort
+brings to the table as the most widely deployed intrusion prevention technology worldwide.
+Over the years Snort has evolved into a mature, feature rich technology that has become
+the de facto standard in intrusion detection and prevention. Recent advances in both the
+rules language and detection capabilities offer the most flexible and accurate threat
+detection available, making Snort the "heavyweight" champion of intrusion prevention.
+
+ License : Freeware
+ Author/Publisher : Sourcefire, Inc
+ Modification Date : December 7, 2006
+ Requirements : Mac OS X
+
+ Download 
+File Size: 3.3 MB
+
+ Home Page 
+
+ SplashID 3.32 
+
+SplashID safely and securely stores all of your sensitive personal
+information in a secure, encrypted database that is quickly accessible
+on your handheld and desktop computer. SplashID organizes and protects
+all of your user names, passwords, credit cards, PINs, and more in one
+convenient location.
+
+ License : Shareware, $20
+ Author/Publisher : SplashData
+ Modification Date : June 28, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 1.0 MB Standalone
+
+ Download 
+File Size: 1.8 MB for Palm OS
+
+ Home Page 
+
+ Steel 1.1.7 
+
+Does the world really need another password organizer? The answer is a
+resounding yes. Steel works much like other products in this category,
+allowing you to store and search personal information, but does so with
+a simplified, familiar iApp interface.
+
+ License : Shareware, $9
+ Author/Publisher : Gabriele de Simone
+ Modification Date : November 1, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.3 MB
+
+ Home Page 
+
+ Stego 1.0a2 
+
+A steganography tool. Stego is a tool that enables you to embed data in, and retrieve 
+data from, Macintosh PICT format files, without changing the 
+appearance or size of the PICT file. Stego can be used as an "envelope" 
+to hide a previously encrypted data file in a PICT file, 
+making it much less likely to be detected.
+
+ License : Shareware, $15 or any stegosaur
+ Author/Publisher : Romana Machado/Paradigm Shift Research
+ Modification Date : November 28, 1993
+ Requirements : 680x0
+
+ Download 
+File Size: 181 Kb
+
+ sunShield Pro 2.0.3L 
+
+sunShield Pro is a GUI that enables a user to configure ipfw, the
+interface to the packet filtering firewall that sits in the kernel.
+Although it is designed to be as simple as possible, giving access to
+(almost) full potential of ipfw2 on a single pane requires some
+knowledge about firewall rules.
+
+sunShield Pro however now supports rules packs, sunShield EXchange
+files, that apply a bunch of rules to match a typical configuration,
+along wiht the templates for specific services.
+
+ License : Shareware, $55
+ Author/Publisher : Sunprotecting Factory
+ Modification Date : November 9, 2007
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 573 Kb
+
+ Home Page 
+
+ Tor 0.1.2.18a 
+
+Tor: An anonymous Internet communication system
+ Tor is a toolset for a wide range of organizations and people that want
+to improve their safety and security on the Internet. Using Tor can help
+you anonymize web browsing and publishing, instant messaging, IRC, SSH,
+and other applications that use the TCP protocol. Tor also provides a
+platform on which software developers can build new applications with
+built-in anonymity, safety, and privacy features.
+ Your traffic is safer when you use Tor, because communications are
+bounced around a distributed network of servers, called onion routers.
+Instead of taking a direct route from source to destination, data
+packets on the Tor network take a random pathway through several servers
+that cover your tracks so no observer at any single point can tell where
+the data came from or where it's going. This makes it hard for
+recipients, observers, and even the onion routers themselves to figure
+out who and where you are. Tor's technology aims to provide Internet
+users with protection against "traffic analysis," a form of network
+surveillance that threatens personal anonymity and privacy, confidential
+business activities and relationships, and state security.
+
+ License : Freeware
+ Author/Publisher : Roger Dingledine & Nick Mathewson
+ Modification Date : October 31, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 14.4 MB
+
+ Downloads 
+
+ Install Instructions 
+
+ Home Page 
+
+ Tresor 2.2.2 
+
+Tresor is a file and folder encryption application for Macintosh. It
+combines high cryptographic security and ease of use. Integrated
+compression functions allow compression and encryption in a single pass,
+without any interim files. Filter functions allow you to automate
+complex encryption tasks without the use of risky scripts. Being
+developed outside the US, Tresor is available in all countries that
+allow cryptography.
+
+Tresor encrypts the complete content of any file using IDEA block
+encryption. It takes a passphrase of arbitrary length and produces a
+160-bit hash value using the Secure Hash Algorithm (SHA). It then takes
+128 bits of this hash value, using them as the encryption key for IDEA.
+For decryption the same passphrase will be needed again.
+
+ License : Shareware, $32
+ Author/Publisher : Roland Blaser
+ Modification Date : October 14, 2004
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 2.7 MB
+
+ Home Page 
+
+ Undercover 1.5 
+
+ Installation
+ Upon installation, you'll receive an Undercover ID that's unique for the Mac you are
+installing.
+ Routine checks
+ When your Mac is online, Undercover checks our database every six minutes to verify
+whether the Mac it is running on is in our database of stolen Macs. If it's not, nothing
+happens and no data will be transfered from your Mac to our server.
+ In case of theft
+ As soon as your Mac is stolen, you send us the Undercover ID you received upon
+registration. We will add this code to our database of stolen Macs.
+ The first phase
+ The next time your stolen Mac goes online (using dial-up, WiFi, ethernet, Bluetooth, ...)
+it will notice that its Undercover ID is included in our database of stolen Macs. This
+will initiate the first phase, in which Undercover will send both network information and
+screenshots of your stolen Mac. The network information enables us to work with the
+network administrators of the ISP the thief is connected to. Since ISPs consider computer
+theft as network abuse, they will uncover the thief's identity. Together with law
+enforcement, we work to recover the Mac. If your Mac has a built-in iSight, or if the
+thief attached an external iSight, Undercover will send iSight pictures of the thief.
+Think of it as running Photo Booth in the background.
+ Plan B
+ If law enforcement fails to recover the stolen Mac, Undercover switches to plan B. In this
+mode, Undercover will simulate a screen failure, slowly making the Mac's screen unusable.
+
+ License : Shareware, $30
+ Author/Publisher : Orbicule
+ Modification Date : February 2, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.8 MB
+
+ Home Page 
+
+ Wallet 2.6.1 
+
+Wallet is the most secure, elegant, and easy way to store and organize your passwords, serial numbers, credit cards, and much more.
+
+ License : Shareware, $15
+ Author/Publisher : Waterfall Software
+ Modification Date : January 3, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 2.3 MB
+
+ Home Page 
+
+ WaterRoof 2.0 
+
+WaterRoof is an IPFW firewall frontend for Mac OS X with an easy interface and many
+options. Features include dynamic rules, bandwidth management, pre-defined rule sets and a
+wizard for easy configuration. You can also watch logs and statistics. Rules
+configurations and network options can be saved and optionally activated at boot time.
+
+ License : Freeware
+ Author/Publisher : haneynet.com
+ Modification Date : December 13, 2007
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 1.7 MB
+
+ Home Page 
+
+ Web Confidential 3.7.6 
+
+Web Confidential uses an intuitive, easy-to-use cardfile metaphor which
+will enable even novice users to get up to speed in no time. Power users
+will find a large number of options to enable them to configure Web
+Confidential to meet their specific needs.
+
+Web Confidential gives you access to your passwords from within your
+browser and from the Mac OS X Dock. When you need access to a user ID
+and password, a handy floating utility window shows all the information
+you might need about your password.
+
+Web Confidential for Palm is a solution to keep your data secure while
+you travel with your Palm and need access to your confidential data.
+
+Web Confidential for Windows completes the set of programs. Its file
+format is binary compatible with the Macintosh version.
+
+Web Confidential for Palm is supplied with a Conduit for Mac or Windows,
+so that you can synchronize your data with your desktop computer.
+
+ License : Shareware, $20
+ Author/Publisher : Alco Blom
+ Modification Date : November 13, 2005
+ Requirements : Mac OS X 10.2 or higher and Mac OS 8 or higher
+
+ Download 
+File Size: 4.5 MB
+
+ Download 
+File Size: 481 Kb
+
+ Home Page 
+
+ Wizzard 1.2 
+
+Wizzard allows you to toggle visibility of hidden Files/Folders with one click.
+
+ License : Freeware
+ Author/Publisher : Mistatree.org
+ Modification Date : April 30, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 401 MB
+
+ Home Page 
+
+ webPM 1.2 
+
+Store frequently used URLs along with user names and passwords.
+
+ License : Freeware
+ Author/Publisher : smallApps by dani
+ Modification Date : August 18, 2005
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 693 Kb
+
+ Home Page 
+
+ Xaes 1.8 
+
+A cocoa implementation of the Aes standard, using Dr Brian Gladman's C 
+implementation of the Rijndael algorithm.
+
+ License : Freeware
+ Author/Publisher : Stephane Leon
+ Modification Date : April 14, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.1 MB
+
+ Home Page 
+
+ Xray 1.1 
+
+XRay is a much-expanded version of the Finder's "Get Info" window.
+Select any item in the Finder and press Command-Shift-X, or simply drag
+any file, folder, application, or volume onto XRay's icon, and you'll
+get a information window. All enabled flags and fields can be edited; if
+necessary, XRay will ask for an Administrator password to change files
+you normally wouldn't be able to modify. You can also XRay a file from
+the Finder, using the included Contextual Menu, or from any XRay window
+by opening the built-in browser drawer.
+
+ License : Freeware
+ Author/Publisher : Rainer Brockerhoff
+ Modification Date : August 5, 2004
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ xyzzy 1.0 
+
+Xyzzy is a pronounceable password generator. It is useful for network or
+server administrators that find themselves creating new user accounts on
+a regular basis and need to come up with passwords for them.
+
+The reasons to use a pronounceable password generator such as xyzzy are
+simply because passwords based on dictionary words are easy to crack by
+brute force methods, and passwords which are hard to remember usually
+need to be written down which makes them vulnerable to being found by
+prying eyes.
+
+The passwords generated by xyzzy are easy to remember because they are
+pronounceable (usually) and are more secure because they are not
+dictionary words. Occasionally one will slip through, but this is very
+rare (usually about 1 in every 1000).
+
+ License : Freeware
+ Author/Publisher : Haxial
+ Modification Date : May 1, 2003
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 190 Kb
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

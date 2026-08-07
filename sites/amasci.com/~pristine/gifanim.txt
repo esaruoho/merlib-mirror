@@ -1,0 +1,381 @@
+Pure Mac: Web Graphics 
+
+ Web Graphics 
+
+ Animation Maker 
+ Electrifier Pro 
+ e-Picture 
+
+ Fireworks 
+ GIFBuilder 
+ Gif.gif.gif 
+
+ GIFmation 
+ GIF Utility Pack 
+ Headline Studio 
+ ImageReady 
+
+ LiveMotion 
+ LiveStage 
+ LiveStage Pro 
+ A Smaller GIF 
+
+ Smart Dubbing 
+ SuperGIF 
+ WebPainter 
+ WebShocker 
+
+ Animation Maker 3.2.2 
+
+Animation Maker is a powerful, inexpensive and easy to use
+animation tool that enables you to create your own animated GIF
+pictures quickly and easily. 
+
+ License : Commercial Demo - purchase for $20.00
+ Author/Publisher : VSE
+ Modification Date : May 12, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 796 Kb
+
+ Home Page 
+
+ Electrifier Pro 1.0.2 
+
+Powerful features let you create web multimedia using every kind of content conceivable--vector and bitmap
+animation, digitized audio, synthesized music (MIDI), video, 3-D, VR, and over 150 special effects such as
+fades,transitions, fire and ripples.
+
+ License : Commercial Demo - purchase for $595
+ Author/Publisher : Electrifier, Inc.
+ Modification Date : July 21, 1999
+ Requirements : PPC
+
+ Direct Download
+ File Size: 5824 Kb
+
+ Home Page 
+
+ e-Picture Pro 2.1 
+
+e-Picture Pro delivers the power to animate or edit virtually any attribute of
+any object at any time. With e-Picture Pro, you can animate everything from
+simple lines to 3D models and text. Because every image element remains a
+separate object, you can grow, shrink, rotate, filter, bounce or skew at any
+time, and have your changes animated with just a click of the mouse. And when you
+are ready to export your animation for the web, you can choose to output as
+animated GIF, Flash (.swf), SVG, QuickTime, RealVideo as well as popular static
+image formats and Adobe(r) Photoshop(tm) and Illustrator(tm).
+
+ License : Demo, $199
+ Author/Publisher : BeatWare
+ Modification Date : February 15, 2001
+ Requirements : PPC, Mac OS 8.5 or higher
+
+ Direct Download
+ File Size: 12,374 Kb
+
+ Home Page 
+
+ Fireworks 4.0.2 
+
+Fireworks is the first graphics production tool to overcome the specific challenges facing Web graphic
+designers and producers. With just one application, you can now design, optimize, and integrate fully
+editable Web graphics, animations, and comps. And, because Fireworks exports clean, compact HTML
+code, you can use it in conjunction with your favorite HTML editor to create dynamic Web sites. 
+
+ License : Demo - purchase for $200.00
+ Author/Publisher : Macromedia
+ Modification Date : February 6, 2001
+ Requirements : PPC
+
+ Direct Download
+ File Size: 17,899 Kb - 4.0 Demo
+
+ Direct Download
+ File Size: 1551 Kb - 4.0.2 updater
+
+ Direct Download
+ File Size: 10,984 Kb - 2.0 Demo
+
+ Direct Download
+ File Size: 2361 Kb - 2.0.2 updater - released April 13, 1999
+
+ Home Page 
+
+ GIFBuilder 1.0 
+
+A scriptable utility to create animated GIF files. 
+
+ License : Freeware
+ Author/Publisher : Yves Piguet
+ Modification Date : August 21, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 301 Kb
+
+ Gif.gif.gif 1.5.3 
+
+Gif.gIf.giF captures screenshots into GIF animations. It works like a video
+recorder of your computer monitor, is easy to use, is automated, and produces
+well-compressed files. The earliest example animations are about one-minute
+long, contain 100 hundred frames, that took just a few minutes to make, and
+compressed to around 100Kb. 
+
+ License : Shareware, $28
+ Author/Publisher : Pedagoguery Software
+ Modification Date : February 24, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 433 Kb - 68k version
+
+ Direct Download
+ File Size: 463 Kb - PPC version
+
+ Home Page 
+
+ GIFmation 2.3.5 
+
+GIFmation is the only commercial-grade Macintosh GIF animation application, and offers an
+expansive feature set that is tuned specifically to the needs of GIF animation creation in an
+interface that is intuitive and easy to use without sacrificing capability or control.
+
+ License : Shareware, $49
+ Author/Publisher : BoxTop Software
+ Modification Date : June 13, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 2501 Kb - PPC version
+
+ Parent Directory 
+
+ Home Page 
+
+ GIF Utility Pack 1.0 
+
+The GIF Utility Pack allow users to easily optimize their GIFs or animated GIFs to maximize the speed and
+performance of animations, while minimizing load times and maintaining compatibility with all popular
+Web browsers.
+
+ License : Shareware, $25.95
+ Author/Publisher : Totally Hip Software
+ Modification Date : July 30, 1997
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 900 Kb 
+
+ Home Page 
+
+ Headline Studio 1.0 
+
+Headline Studio brings broadcast-quality graphics to the Web with
+tools specially designed for Web banner creation. With video effects
+such as walk-ins, dissolves and fades for images and text (either lines,
+words or individual letters), web authors have newfound design freedom
+and workflow speed. Headline Studio includes customizable,
+web-safe color palettes, unlimited undo, and the ability to determine GIF
+animation size and frame rate after you've designed your animation.
+Before Headline Studio, designing banners was much like designing a
+slide show. Now, designing banners is like producing a television
+commercial for the web.
+
+ License : Demo, $169
+ Author/Publisher : MetaCreations
+ Modification Date : March 22, 1999
+ Requirements : PPC, Mac OS 8 or higher
+
+ Direct Download
+ File Size: 1432 Kb - PPC version
+
+ Parent Directory 
+
+ Home Page 
+
+ ImageReady 1.0.1 
+
+A comprehensive environment in which
+to refine and prepare Web graphics, ImageReady has everything you
+need to prepare images and graphics for the Web faster. Real-time
+image compression, built-in editing tools, easy animation, and batch
+processing help you optimize, animate, and more.
+
+ License : Demo, $189
+ Author/Publisher : Adobe
+ Modification Date : November 16, 1998 - Note: Version 2.0 now comes with Photoshop 5.5
+ Requirements : PPC
+
+ Direct Download
+ File Size: 13,982 Kb - PPC version
+
+ Direct Download
+ File Size: 4873 Kb - 1.0 - 1.0.1 updater
+
+ Home Page 
+
+ LiveMotion 1.0 
+
+Professional Web graphics and animation Launch your creativity into orbit with
+Adobe LiveMotion. Whether you're producing individual Web graphics or entire
+pages complete with interactivity, animation, and sound, LiveMotion delivers the
+creative tool set you need to take your Web designs to the next level.
+
+ License : Demo, $299.95
+ Author/Publisher : Adobe
+ Modification Date : May 4, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 43,98 Kb - Demo
+
+ Home Page 
+
+ LiveStage 1.0.2 
+
+LiveStage generates interactive QuickTime movies that will work anywhere QuickTime is supported. Millions
+of users already have QuickTime installed. LiveStage generates QuickTime 'wired' movies which are highly
+compressed and completely cross-platform. LiveStage has an extensive set of features and commands,
+and is easy to learn. All that your web users will need to enjoy a truly speedy interactive rich media movie
+is QuickTime 3. The alternatives to LiveStage are unreliable or depend on browser or plug-in support.
+
+ License : Demo, $299.95
+ Author/Publisher : Totally Hip Software
+ Modification Date : May 14, 1999
+ Requirements : PPC
+
+ Direct Download
+ File Size: 3987 Kb - Demo
+
+ Direct Download
+ File Size: 274 Kb - 1.0.2 updater
+
+ Parent Directory 
+
+ Home Page 
+
+ LiveStage Pro 2.1 
+
+LiveStage Pro is a powerful and extensive professional level
+multimedia development tool designed for creating interactive Rich Media content for the Internet or any
+other delivery platform such as CD-ROM or DVD. It provides designers with high level tools to develop
+compelling interactive content of the highest quality, and the lowest-bandwidth. LiveStage Professional
+creates interactive QuickTime Movies that are viewable by a large audience because QuickTime is the
+most popular web browser plug-in for multimedia and is available for both Windows and Macintosh
+computers.
+
+ License : Demo, $699.95
+ Author/Publisher : Totally Hip Software
+ Modification Date : September 15, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 12,116 Kb - Demo version 2.0.1
+
+ Direct Download
+ File Size: 1818 Kb - 2.1 updater
+
+ Direct Download
+ File Size: 1016 Kb - 2.0.1 updater
+
+ Parent Directory 
+
+ Home Page 
+
+ A Smaller GIF 1.2.2 
+
+A Smaller GIF is a program for reducing the size of animated GIFs without affecting their appearance in any way. It is often capable of reducing
+an animated GIF as most GIF utilities do not maximally compress their output. A Smaller GIF also serves as a full function animated GIF
+viewer.
+
+ License : Shareware, $22
+ Author/Publisher : Pedagoguery Software
+ Modification Date : November 10, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 388 Kb - 68k version
+
+ Direct Download
+ File Size: 447 Kb - PPC version
+
+ Parent Directory
+
+ Home Page 
+
+ Smart Dubbing 1.0v6 
+
+Converts QuickTime movies to animated gifs.
+
+ License : Freeware
+ Author/Publisher : Alco Blom and Vincent Verweig
+ Modification Date : July 22, 1996
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 95 Kb
+
+ Home Page 
+
+ SuperGIF 1.0r3 
+
+SuperGIF is the next generation GIF and GIF animation optimization tool providing
+unequaled optimization and ease of use. SuperGIF provides a simple Drag & Drop
+interface to automate the often lengthy and complicated task of optimization,
+working completely without any user interaction. No knowledge of the many things
+that effect GIF file sizes is required.
+
+ License : Shareware, $30
+ Author/Publisher : BoxTop Software
+ Modification Date : July 21, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 303 Kb
+
+ Home Page 
+
+ WebPainter 3.2 
+
+Add animation and graphics to your Web pages. WebPainter lets anyone create graphics,
+dynamic animated logos, banners and more. Or instantly
+animate your Web site with WebPainter's library of sample
+animation. Imports and exports a variety of file formats, such as animated
+GIF, QuickTime movies and Sizzler; and the ability to work
+with any popular Web page authoring tool.
+
+ License : Demo, $89.95
+ Author/Publisher : Totally Hip Software
+ Modification Date : March 17, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 3400 Kb - Demo
+
+ Direct Download
+ File Size: 795 Kb - 3.2 updater
+
+ Parent Directory 
+
+ Home Page 
+
+ WebShocker 2.2 
+
+WebShocker is just what you need to help you set up a home page that will stand apart from the clutter. By enabling you to create amazing
+animations - quickly and effortlessly.
+Save your animations in a variety of formats - GIF, QuickTime Movie, Java Animation (GIF and JPEG).
+
+ License : Demo, $39.95
+ Author/Publisher : RecoSoft
+ Modification Date : November 29, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 4466 Kb - Demo
+
+ Home Page 
+
+ Back to the main page of Pure Mac

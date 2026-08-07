@@ -1,0 +1,1206 @@
+Pure Mac: Remote Access - Software for Macintosh 
+
+ Remote Access 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Other 
+ SSH/Telnet 
+ Terminal 
+ VNC 
+ VPN 
+
+ Apple Remote Desktop 
+ AstroApp 
+ Citrix ICA Client 
+ CoRD 
+ Desktop Transporter 
+ FarFinder 
+ KMremoteControl 
+ Microsoft Remote Desktop Connection 
+ Say What 
+ Timbuktu 
+
+ AlmostVPN 
+ BetterTelnet 
+ dataComet 
+ JellyfiSSH 
+ MacSSH 
+ MindTerm 
+ Nifty Telnet SSH 
+ Remote Connections Manager 
+ Secure Shell Helper 
+ SSH Agent 
+ SSHKeychain 
+ SSH Tunnel Manager 
+ TelnetLauncher 
+
+ dataComet 
+ GLterm 
+ iTerm 
+ MacWise 
+ PowerTerm 
+ tn3270 
+ ZTerm 
+
+ Chicken of the VNC 
+ iVPN 
+ JollysFastVNC 
+ OSXvnc 
+ Share My Desktop 
+ Vine 
+ VNCDimension 
+ VNCThing 
+ VNCViewer 
+
+ Cisco VPN Client 
+ DigiTunnel 
+ IPSecuritas 
+ Shimo 
+ Tunnelblick 
+ Vapor 
+ VaporSec 
+ Viscosity 
+ VPN Tracker 
+ VPN Tracker Server 
+
+ VNC control of a Macintosh under OS X 10.4 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ AlmostVPN 1.5.3 
+
+AlmostVPN is an ssh tunnel management application with a twist. This is
+what makes AlmostVPN different:
+ * It is packaged as a Preference Panel, so you do not have to use yet another application to configure your tunnels
+ * It employs launchd to control tunnels, so you do not have to have yet another application running while tunneling
+ * It uses creative network configuration techniques to provide
+almost VPN like access to remote services, so you can keep using real IP
+addresses and port numbers while accessing services on the other side of
+your tunnels.
+ * It provides simple way to mount remote volumes via SSH tunnel
+ * It can import tunnel definitions from SSH Tunnel Manager and SSHKeychain applications
+
+ License : Shareware, $15
+ Author/Publisher : Leaping Bytes
+ Modification Date : September 27, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 4.9 MB
+
+ Home Page 
+
+ Apple Remote Desktop 3.2.2 
+
+Apple Remote Desktop is a complete desktop management solution for Mac
+OS X. You can distribute software, configure systems, offer real-time
+online help and create detailed hardware and software reports - for all
+of your Mac systems in your organization, all from your own Mac.
+
+ License : 10 Client $300 - Unlimited Client $500
+ Author/Publisher : Apple
+ Modification Date : September 16, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 30.6 MB - Admin 3.2.2
+
+ Download 
+File Size: 2.8 MB - Client 3.2.2
+
+ Home Page 
+
+ AstroApp 2.13 
+
+AstroApp has meeting capabilities by allowing
+up to 10 users to view and control the same desktop at the same time. To
+start using the software we recommend creating a free AstroCity login
+username from within the software and then connecting to others using
+the FriendsList. Using the advanced modes you can also connect to
+machines that you setup using an IP address and port number.
+
+ License : Demo, $10 per month for the Anywhere Service
+ Author/Publisher : Astroflower Software
+ Modification Date : March 26, 2009
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 9.6 MB - version 2.13
+
+ Download 
+File Size: 275 Kb - version 1.98
+
+ Home Page 
+
+ BetterTelnet 2.0fc1 
+
+BetterTelnet for Mac OS is a significantly enhanced version of NCSA Telnet 2.7b5. It fixes many bugs and has a
+redesigned interface that is not only easier to use and configure than NCSA Telnet, but still has as much as if not
+more configuration flexibility compared to NCSA Telnet. All configuration options from NCSA Telnet are still in
+BetterTelnet. Version 2.0 now also has rlogin support.
+
+ License : Freeware
+ Author/Publisher : Rolf Braun
+ Modification Date : January 3, 1999
+ Requirements : Mac OS 7.1 and higher
+
+ Download 
+File Size: 432 Kb - BetterTelnet version 2.0fc1
+
+ Download 
+File Size: 335 Kb - NCSATelnet version 2.7b4 - released June 28, 1995
+
+ Chicken of the VNC 2.0b4 
+
+Chicken of the VNC is a VNC client for Mac OS X. A VNC client allows one
+to display and interact with a remote computer screen. In other words,
+you can use Chicken of the VNC to interact with a remote computer as
+though it's right next to you.
+
+ License : Freeware
+ Author/Publisher : Chicken of the VNC Project
+ Modification Date : January 18, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.2 MB
+
+ Home Page 
+
+ Cisco VPN Client 4.9.01.4.9.01.0100 
+
+Simple to deploy and operate, the Cisco VPN Client allows organizations
+to establish end-to-end, encrypted VPN tunnels for secure connectivity
+for mobile employees or teleworkers. This thin design, IP security
+(IPSec)-implementation is compatible with all Cisco virtual private
+network (VPN) products.
+
+The Cisco VPN Client can be preconfigured for mass deployments, and
+initial logins require little user intervention. It supports the
+innovative Cisco Easy VPN capabilities, delivering a uniquely scalable,
+cost-effective, and easy-to-manage remote access VPN architecture that
+eliminates the operational costs associated with maintaining a
+consistent policy and key management method. The Cisco Easy VPN feature
+allows the Cisco VPN Client to receive security policies upon a VPN
+tunnel connection from the central site VPN device (Cisco Easy VPN
+Server), minimizing configuration requirements at the remote location.
+This simple and highly scalable solution is ideal for large remote
+access deployments where it is impractical to individually configure
+policies for multiple remote PCs.
+
+ License : Customers with Cisco SMARTnet support contracts and encryption entitlement may download the Cisco VPN Client from the Cisco Software Center at no additional cost
+ Author/Publisher : Cisco Systems, Inc.
+ Modification Date : December 15, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 14.4 MB - You need a Cisco SMARTnet support contract to login
+
+ Home Page 
+
+ Citrix ICA Client 10.00.603 
+
+Citrix ICA Macintosh Client is an ICA Client 
+providing native connectivity to MetaFrame servers for Macintosh 
+users.
+
+ License : Free Client
+ Author/Publisher : Citrix Systems
+ Modification Date : July 2, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.2 MB - Version 10.00.603
+
+ Download 
+File Size: 2.5 MB - Version 6.20.154
+
+ Home Page 
+
+ CoRD 0.4.3 
+
+CoRD is a remote desktop client for Mac OS X ported from the UNIX program rdesktop. It is
+a Universal Binary, and allows you to connect to multiple servers concurrently. There are
+many features not yet implemented, but it is usable in it's current form.
+
+ License : Freeware
+ Author/Publisher : Craig Dooley
+ Modification Date : December 1, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 919 Kb
+
+ Home Page 
+
+ dataComet-Secure 10.1.1 
+
+An AppleScriptable Macintosh VT220, PC-ANSI, and IBM-3270 terminal emulator for
+Secure Shell 1 + 2, Telnet/TN3270 (K5), and Serial connections with SCP, ZMODEM,
+IBM IND$FILE, and Text Editing support
+
+ License : Shareware, $60, Secure $70
+ Author/Publisher : databeast inc.
+ Modification Date : June 21, 2008
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.1 MB - dataComet-Secure 10.1.1
+
+ Download 
+File Size: 1.0 MB - dataComet 10.1.1
+
+ Download 
+File Size: 1.4 MB - dataComet-Secure 5.0.5
+
+ Home Page 
+
+ Desktop Transporter 1.1.1 
+
+Desktop Transporter is an application that allows you to access your
+Macintosh displays remotely over a network, from a different Macintosh.
+It supports sharing of one or more displays attached to your Mac, and
+allows you to control access to it using a password.
+
+Desktop Transporter discovers shared displays using Rendezvous, but also
+provides an option for specifying which machine it should connect to in
+cases where Rendezvous doesn't work. You can also set a number of
+options controlling the quality of the shared display.
+
+ License : Shareware, $15
+ Author/Publisher : Yellow Lemon Software
+ Modification Date : November 4, 2004
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ DigiTunnel 1.4.4 
+
+A Virtual Private Network (VPN) client for Mac OS X, compatible with
+Windows 2000, WatchGuard, Nortel, OS X Server 1.2 and other VPN servers.
+DigiTunnel supports PPTP (Point-to-Point Tunneling Protocol), an
+Internet standard for VPN.
+
+ License : Demo (30 day Trial), $58
+ Author/Publisher : Gracion Software
+ Modification Date : March 22, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.4 MB
+
+ Home Page 
+
+ FarFinder 1.3.3 
+
+Access your Mac's files from anywhere. All you need is a web browser, or your iPhone.
+
+ License : Shareware, $35
+ Author/Publisher : Adrian Ross
+ Modification Date : March 26, 2009
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 19.7 MB
+
+ Home Page 
+
+ GLterm 1.2 
+
+GLterm is a replacement for the Terminal application which ships with
+MacOS X. It's made to be faster, and to support more common terminal
+features. It supports full ANSI colors, all vt102 protocol, all DEC
+function keys, and a selection of useful xterm sequences.
+
+The Big Thing is that GLterm uses X11 .bdf fonts and renders them
+using..OpenGL. So it's very fast... as long as you have a working 3D
+accelerator. It should work as intended on B & W G3 and up for desktops
+and on White iBook and up for laptops: ie a machine whose 3D accelerator
+is handled properly in OSX.
+
+ License : Sharewre, $10
+ Author/Publisher : Michel Pollet
+ Modification Date : February 5, 2004
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 345 Kb
+
+ Home Page 
+
+ IPSecuritas 3.2 
+
+IPSecuritas is the most advanced, yet free IPSec client for Mac OS X. It
+supports virtually every available IPSec compliant firewall, allowing
+you to connect safely to your office or home network from any location
+on earth.
+
+ License : Freeware
+ Author/Publisher : Lobotomo Software
+ Modification Date : January 1, 2009
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 6.4 MB
+
+ Home Page 
+
+ iTerm 0.9.6 
+
+iTerm is a full featured terminal emulation program written for OS X
+using Cocoa. We are aiming at providing users with the best command line
+experience under OS X. The letter i represents a native Apple look and
+feel of the program interface, and an emphasis on complete international
+support. iTerm was merged from two projects, CTerminal and TerminalX,
+both of which were based on the JTerminal project. The current version is
+still in beta stage. It is, however, very much functional and usable.
+
+ License : Freeware
+ Author/Publisher : Fabian & Ujwal S. Setlur
+ Modification Date : September 24, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 1.8 MB
+
+ Home Page 
+
+ iVPN 3.6 
+
+iVPN is an application that makes use of the standards based PPTP VPN
+server installed with Mac OS X. This VPN server is usually only
+available on Mac OS X Server and configured through the Server Admin
+application. iVPN makes it possible to use the same server utility on
+the client version of Mac OS X. All you have to do to set it up is to
+enter the user name and password that you want your VPN clients to use,
+the IP address range you want to give to your clients and then click
+start server. iVPN will handle all the other settings and start the VPN
+server. iVPN is the GUI that Apple left out.
+
+ License : Freeware
+ Author/Publisher : Alex Jones
+ Modification Date : December 14, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 610 Kb
+
+ Home Page 
+
+ JellyfiSSH 4.5.2 
+
+JellyfiSSH is a simple bookmark manager for connecting to *NIX boxes
+like BSD/Linux etc via Telnet or SSH 1 or 2. You can set preferences for
+each bookmark including the terminal colours, fonts, window size,
+transparency and default login.
+
+ License : Freeware
+ Author/Publisher : Grepsoft
+ Modification Date : June 30, 2008
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 197 Kb
+
+ Home Page 
+
+ JollysFastVNC 0.96.84 
+
+JollysFastVNC is a VNC client whose aim is to become the best VNC client on the Mac.
+
+ License : Freeware
+ Author/Publisher : Patrick Stein
+ Modification Date : January 26, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.1 MB
+
+ Home Page 
+
+ KMremoteControl 1.52 
+
+KMremoteControl lets you operate all the PC/Windows and Mac OS X systems
+on your desk from the keyboard and mouse on one of those systems.
+
+KMremoteControl presents its operational capabilities via an application
+window and its configurable options via multiple, tabbed panels within
+its Preferences window. Menus provide access to the licensing,
+preferences and help capabilities.
+
+ License : Shareware, $25
+ Author/Publisher : Derman Enterprises
+ Modification Date : May 1, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 2.8 MB
+
+ Download Page 
+
+ Home Page 
+
+ MacSSH 2.1fc3 
+
+MacSSH is a modified version of BetterTelnet with SSH2 support. 
+
+ License : Freeware
+ Author/Publisher : Jean-Pierre Stierlin/Based on Rolf Braun's BetterTelnet
+ Modification Date : April 22, 2002
+ Requirements : System 7.5.1 or higher
+
+ Download 
+File Size: 733 Kb
+
+ Download 
+File Size: 685 Kb
+
+ Home Page 
+
+ MacWise 11.62 
+
+MacWise emulates ADDS Viewpoint, Wyse 50, Wyse 60, Wyse 370, Televideo
+TV 925, DEC VT100, VT220 and Prism terminals. Supports ANSI color.
+Esprit III color is also supported in Wyse 370 mode.
+
+MacWise allows a Macintosh to be used as a terminal -- connected to a
+host computer directly, by modem, local area network or over the
+Internet. The emulators support video attributes such as dim, reverse,
+underline, 132-column modes, protected fields and graphic characters
+sent from the host computer, as well as enhanced Viewpoint mode.
+Features include phone list and dialer for modems, on-screen
+programmable function keys, connection scripts and more.
+
+ License : Demo, $95
+ Author/Publisher : Carnation Software
+ Modification Date : April 2, 2009
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 5.0 MB - version 11.62
+
+ Download 
+File Size: 1.0 MB - version 4.4.2
+
+ Home Page 
+
+ Microsoft Remote Desktop Connection 2.0 
+
+Remote Desktop Connection Client lets you connect to a Microsoft
+Windows-based computer and work with programs and files on that computer
+from your Macintosh computer.
+
+ License : Freeware
+ Author/Publisher : Microsoft
+ Modification Date : July 1, 2008
+ Requirements : Mac OS X 10.4.9 or higher
+
+ Download 
+File Size: 7.7 MB - 2.0
+
+ Download 
+File Size: 1.4 MB - 1.0.3 - October 12, 2004
+
+ Home Page 
+
+ MindTerm 3.0.1 
+
+Mindterm is today probably the most widely spread client that implements
+the SSH1 and SSH2 protocols written in pure Java.
+
+Some of the worlds leading manufactures of communication equipment has
+signed OEM agreements with AppGate and integrated Mindterm into their
+own solutions. Other users are in education sector and goverment.
+
+MindTerm is free for personal use.
+
+MindTerm is small, portable and secure. It contains an extremely
+powerful and easy to use SSH client that provides advanced features such
+as tunneling support, file transfer GUI as well as support for HTTP and
+SOCKS proxies.
+
+MindTerm client also includes an integrated xterm/vt100 terminal
+emulator. It has the ability to run both a standalone application and as
+an applet.
+
+ License : Freeware for personal use
+ Author/Publisher : AppGate
+ Modification Date : December 21, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 983 Kb
+
+ Home Page 
+
+ Nifty Telnet SSH 1.1r3 
+
+This is an enhanced version of NiftyTelnet which includes support for the SSH
+(Secure Shell) protocol for encrypted terminal sessions. NEWS! September 6, 2000
+RSA Data Security, Inc. today put the RSA public-key encryption algorithm into
+the public domain, meaning that United States users can now download and use
+NiftyTelnet SSH legally. This was done two weeks before the expiration of their
+patent granted in 1983.
+
+ License : Freeware
+ Author/Publisher : Chris Newman/SSH version Jonas Walden
+ Modification Date : June 7, 1999
+ Requirements : System 7.5.1 or higher
+
+ Download 
+File Size: 559 Kb
+
+ Nifty Telnet SSH Home Page 
+
+ PowerTerm 7.1.8 
+
+PowerTerm InterConnect (Mac OS X Edition), Ericom Software's terminal
+emulation product for the Mac platform, maximizes the capabilities of
+legacy systems with a minimal amount of installation time and software
+space. PowerTerm InterConnect supports a wide range of hosts such as IBM
+Mainframe(zSeries), IBM AS/400 (iSeries), OpenVMS, Unix and others, and
+a diverse range of emulation types. Because PowerTerm InterConnect has
+such a small footprint, it is easily installable on any PC, making it a
+simple and fast solution for running legacy applications. PowerTerm
+InterConnect's rich feature set and fast key response has made it the
+product of choice for thousands of corporations throughout the world.
+
+ License : Demo, $150
+ Author/Publisher : Ericom Software
+ Modification Date : September 13, 2005
+ Requirements : Mac OS X 10.1.5 or higher
+
+ Download 
+File Size: 8.5 MB
+
+ Download Page 
+
+ Home Page 
+
+ Remote Connections Manager 1.0 
+
+Remote Connections Manager was initially built as an utility that allows
+to launch ssh sessions with password authentication in different
+terminal applications and login with password without user intervention.
+
+Lately it grew in application which offer centralized storage for
+telnet, ssh, ftp, sftp connections with unlimited hierarchic folder
+support. Among other connection properties a connection has password
+property, working directory property and post-login commands property.
+These connections can be launched in different terminal applications.
+When using ssh, ftp and sftp connection an password will be used for
+autologin, working directory will be changed and post-login commands
+will be executed after login. ftp and sftp connections can be also
+launched in ftp/sftp browsers, an password will be used for autologin.
+For user convenience, Remote Connections Manager can import connections
+from similar applications or terminal applications and ftp/sftp
+browsers.
+
+ License : Shareware, $25
+ Author/Publisher : Jan Cinert
+ Modification Date : December 17, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 4.9 MB
+
+ Home Page 
+
+ Say What 1.18 
+
+Say What allows you to remotely launch applications, documents or
+AppleScripts (Mac Only) via a web browser. Version 1.1 and higher even
+allows you to pass parameters to compiled AppleScripts. It uses the
+standard HTTP protocol and will run on whatever port you decide so it
+can run alongside other web services.
+
+ License : Shareware, $40
+ Author/Publisher : AM Design
+ Modification Date : February 11, 2006
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 767 Kb
+
+ Download 
+File Size: 751 Kb
+
+ Home Page 
+
+ Share My Desktop 1.2 
+
+Share My Desktop (SMD) is a simple little wrapper application that I
+created for OSXvnc in AppleScript Studio. SMD makes initiating a VNC
+server very simple - just click a button!
+
+VNC stands for Virtual Network Computing. "It is, in essence, a remote
+display system which allows you to view a computing 'desktop'
+environment not only on the machine where it is running, but from
+anywhere on the Internet and from a wide variety of machine
+architectures." VNC technology was developed by AT & T Laboratories.
+
+SMD was developed as a tool to offer better support from Tech Support
+staff. SMD can be installed on client systems, so if the client needs
+assistance, they can call the Tech Support staff, initiate the VNC
+server, and give the Tech Support staff the connection information. When
+the Tech Support staff is able to share the client's screen, they can
+SHOW the client what they need to do to fix a problem, rather than try
+to guide them by voice alone.
+
+ License : Freeware
+ Author/Publisher : Mike Bombich
+ Modification Date : January 4, 2003
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 506 Kb
+
+ Home Page 
+
+ Shimo 2.0.9 
+
+The initial reason for the development of Shimo was the lousy
+software-implementation of the Cisco-VPN-Client for MacOS. Shimo wants
+to do it the MacOS-way: That means to reduce the interface to the
+important features and integrate it right into the user-interface of the
+OS. Thus the interaction with this piece of software is absolutely
+intuitive and self explanatory. Try it out and you will see what we are
+speaking of...
+
+ License : Freeware
+ Author/Publisher : nexusLab
+ Modification Date : December 17, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 7.8 MB
+
+ Home Page 
+
+ Secure Shell Helper 1.3 
+
+Secure Shell Helper does the following:
+ * Control who's allowed to access your account
+ * Generate new OpenSSH keys
+ * View/Export your public keys
+ * Setup and control the SSH server
+ * Easy to use Wizard allows you to configure the server and personal identity
+
+Secure Shell helper alleviates the need to use the command line to
+configure a working OpenSSH system. It's all point and click.
+
+ License : Freeware
+ Author/Publisher : Gideon Softworks
+ Modification Date : July 5, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 865 Kb
+
+ Home Page 
+
+ SSH Agent 1.1 
+
+SSH Agent is a graphical front-end to some of the OpenSSH tools included
+with Mac OS X. Specifically, it allows you to start an ssh-agent,
+generate identities, and add identities to an agent. Additionally, it
+allows you to make the ssh-agent global so that, e.g., Project Builder
+and CVL can use it to do version control over SSH, and it has some
+functionality to set-up a secure tunnel.
+
+ License : Freeware
+ Author/Publisher : Xander Schrijen
+ Modification Date : May 9, 2005
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 338 Kb
+
+ Home Page 
+
+ SSHKeychain 0.8.2 
+
+You no longer have to cancel your ssh request because you forgot to load
+your keys. Because SSHKeychain acts as a gateway between you and the
+agent, it can automatically add keys when you need them. SSH will just
+pause for a few seconds, and you'll be on your way. SSHKeychain can also
+forward local ports over a ssh connection. Tunnels can be launched
+automatically when your keys are loaded, or from a menu item.
+
+ License : Freeware
+ Author/Publisher : Bart Matthaei
+ Modification Date : August 24, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 613 Kb
+
+ Home Page 
+
+ SSH Tunnel Manager 1.0.3 
+
+SSH Tunnel Manager is a front-end for the ssh command when used to open
+tunnels between two hosts. Its command lines are particulary long and
+confusing, especially for novices, and I never remember which argument
+comes first, if I have to open local or remote tunnels and so on...
+That's why I wrote this tool.
+
+I tried to include all the important features people asked me to do
+since 1.0 version, so you can tune almost every usefull option available
+in the command line tool.
+
+ License : Freeware
+ Author/Publisher : Tynsoe
+ Modification Date : April 20, 2003
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 443 Kb
+
+ Home Page 
+
+ TelnetLauncher 2.8.13 
+
+ # Launch sessions with a custom keyboard shortcut!
+ # Passwords are stored securely in your Keychain
+ # Session can be made to automatically minimize to the dock
+ # Set font and size for each session
+ # Set Terminal Opaqueness for each session
+ # Now allows users to specify terminal colors for each saved session
+ # Works as the helper app for telnet://url/ links with IE5
+ # Allows you to specify rows and columns for each session
+ # Allows you to create custom terminal commands for fast access to unix commands like 'top'
+ # Dock menu support makes access to sessions a groups a breeze
+ # Multiple groups allows you to organize many sessions
+ # Simple, easy to understand interface
+ # Set port to non-standard port
+ # Easily set up ssh port forwarding (secure tunneling)
+ # Set terminal emulation for each session
+
+ License : Shareware, $20
+ Author/Publisher : Jim McKay
+ Modification Date : May 8, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 1.3 MB
+
+ Home Page 
+
+ Timbuktu Pro 8.7.1 
+
+For more than fifteen years, Timbuktu Pro has been the standard for
+remote control on Mac OS, (it also works with Windows) allowing users to control distant computers as
+if they were sitting right in front of them. Now supporting multi-button
+and scroll wheel mouse commands and multiple user
+options to maximize bandwidth conservation, Timbuktu Pro remains the
+gold standard in remote control software. Already unparalleled in its
+ability to find other users and make a connection over virtually any
+LAN, Internet or dial-up configuration, Timbuktu Pro's improved Internet
+Locator Service adapts itself even to frequently-changed IP addresses,
+allowing you to find other users with only an email address.
+
+It isn't only remote control - you can send files and folders without
+tying up email; send instant messages or text chat; even voice intercom!
+You can even view detailed system information about remote computers
+with a click of your mouse.
+
+ License : Demo, $95 for one computer
+ Author/Publisher : Farallon
+ Modification Date : May 9, 2008
+ Requirements : Mac OS X 10.2.8 and higher
+
+ Download 
+File Size: 6.9 MB - 8.7.1 Demo
+
+ Download Page
+ You'll need an evaluation key
+
+ Home Page 
+
+ tn3270 3.2.4 
+
+tn3270 allows a Macintosh computer with a TCP/IP network connection to negotiate a
+Telnet session emulating an IBM 3270 terminal. Features of the emulation include color,
+extended highlighting, APL and 3179-compatible graphics.
+
+ License : Freeware
+ Author/Publisher : Peter John DiCamillo/Brown University
+ Modification Date : July 24, 2006
+ Requirements : Mac OS X 10.1.5 or higher
+
+ Download 
+File Size: 1.7 MB - version 3.2.4
+
+ Download 
+File Size: 337 Kb - version 3.1.7
+
+ Download 
+File Size: 720 Kb - version 2.5b5
+
+ Home Page 
+
+ Tunnelblick 3.0b10 
+
+Tunnelblick is a ready-to-use graphical OpenVPN client for Mac OS X. It
+comes as an application package with all binaries and drivers included,
+no manual installation necessary.
+
+ License : Freeware
+ Author/Publisher : Angelo Laub
+ Modification Date : November 20, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.0 MB
+
+ Home Page 
+
+ Vapor 1.1 
+
+Vapor is an innovative new application from Joel Rennich, co-founder of
+AFP548.com. Vapor harnesses the power of SSH to provide secure,
+encrypted VPN connections for AppleShare, WWW, Server Admin and other
+Internet services. Version 1.1 offers improved
+error checking, the ability to create reverse SSH tunnels, and an
+improved user interface.
+
+ License : Freeware
+ Author/Publisher : Joel Rennich
+ Modification Date : July 15, 2002
+ Requirements : Mac OS X 10.1.5 or higher
+
+ Download 
+File Size: 1.2 MB
+
+ Home Page 
+
+ VaporSec 1.0 
+
+VaporSec an IPSec GUI client that will allow you to create incredibly
+secure connections between Mac OS X 10.2 machines - or between your
+machine and third party firewalls using the built-in IPSec capabilities
+of Mac OS X 10.2. VaporSec has currently been tested between Mac OS X
+10.2 machines and with a SonicWall firewall. We're actively looking for
+situations where this doesn't work so that we can tweak the code.
+
+ License : Freeware
+ Author/Publisher : Joel Rennich
+ Modification Date : June 6, 2003
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1 MB
+
+ Home Page 
+
+ Vine 3.0 
+
+Formerly OSXvnc. 
+Vine Server is a full featured VNC server for Mac OS X providing remote
+access to the GUI, keyboard and mouse using Vine Viewer or any other VNC
+client. Vine Server offers a rich and unique feature set among Mac OS X
+VNC servers including:
+ * Flexible port assignement for multiple VNC servers on a single computer
+ * System servers that run independently of user accounts
+ * Outstanding clipboard sharing; Exchange of rich text, images, files and applications when used with Vine Viewer
+
+Vine Viewer is a feature-rich and well support VNC viewer. Some feature highlights of Vine Viewer include:
+ * Remote screen capture
+ * QuickTime movie recording
+ * Secure connections through SSH
+ * Viewer window scaling
+ Plus, when Vine Viewer is used with Vine Server a further unique benefit includes
+ * Rich clipboard support, including copy and past file exchange.
+ Vine Viewer has a wealth of uses: Helpdesk, education, remote system administration, telecommuting and family technical support, to name a few.
+
+ License : Freeware
+ Author/Publisher : Redstone Software
+ Modification Date : December 18, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 4.2 MB - Vine 3.0
+
+ Download 
+File Size: 218 Kb - OS9vnc 3.5
+
+ Home Page 
+
+ VNCDimension 0.7.10 
+
+VNCDimension is a Mac OS X application that lets you remote control
+other computers running a VNC server. This application supports multiple
+simultaneous sessions. You can find VNC servers for a variety of
+platforms, including X Window, Microsoft Windows, Mac OS, and Mac OS X.
+For best performance, match the color depth of the VNC server, the VNC
+session and your computer.
+
+ License : Freeware
+ Author/Publisher : mDimension Technology
+ Modification Date : February 5, 2002
+ Requirements : Mac OS X
+
+ Download 
+File Size: 357 Kb
+
+ Home Page 
+
+ VNCThing 2.2 
+
+VNCThing is a VNC client for the Macintosh. It allows you to connect to remote computers and control them as if you were physically there.
+
+ License : Freeware
+ Author/Publisher : Dair Grant
+ Modification Date : December 9, 2000
+ Requirements : Mac OS X and Mac OS 8.1 or higher
+
+ Download 
+File Size: 256 Kb
+
+ Viscosity 1.0.3 
+
+Viscosity is an OpenVPN client for Mac, providing a rich Cocoa graphical
+user interface for creating, editing, and controlling VPN connections.
+
+ License : Shareware, $9
+ Author/Publisher : SparkLabs
+ Modification Date : February 15, 2009
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 7.0 MB
+
+ Home Page 
+
+ VNCViewer 2.0.1 
+
+A VNC client. 
+
+ License : Freeware
+ Author/Publisher : Robert Kedoin
+ Modification Date : December 4, 2000
+ Requirements : Mac OS X
+
+ Download 
+File Size: 206 Kb
+
+ Home Page 
+
+ VPN Tracker 5.4.1 
+
+Communication over the Internet requires secure solutions to facilitate
+connection of mobile workers and interconnection between branch offices.
+To support a mobile workforce companies turn to Virtual Private Network
+(VPN) technology, utilizing high speed Internet connections for remote
+access. Over a VPN telecommuters can access the company network through
+a secure tunnel over the Internet, eliminating the threat of
+unauthorized access.
+
+VPN Tracker 3 is an application for Mac OS X that is simple to deploy,
+manageable and offers complete security to business sensitive
+information. The software provides seamless compatibility to most market
+leading VPN vendors and to over 150 gateway devices.
+
+ License : Demo, $72
+ Author/Publisher : Equinux USA Inc.
+ Modification Date : January 23, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 15.9 MB
+
+ Home Page 
+
+ VPN Tracker Server 1.0.4 
+
+VPN Tracker Server is an application to set up encrypted remote access
+connections for Mac OS X workgroups over standard Internet lines. The
+software runs as a VPN gateway for smaller companies and provides rapid
+deployment capabilities to any home or branch office through VPN Tracker
+Client.
+
+VPN Tracker Server allows remote access for external users, and home or
+branch offices are able to connect securely to the office using VPN
+Tracker Client. The client / server architecture provides a bulletproof
+protection against illegal tampering, the encryption is based on the
+highly acclaimed IPsec protocol and by supporting AES-256, the software
+manages very-high security environments (Mac OS X Server is not needed).
+
+ License : Demo, $130
+ Author/Publisher : Equinux USA Inc.
+ Modification Date : September 30, 2004
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.7 MB
+
+ Home Page 
+
+ ZTerm 1.1b7 
+
+ZTerm is a terminal emulation program for the Macintosh. In its day,
+many people used it to connect to Bulletin Board Systems and download
+files. Now we have the internet. It's still a useful utility for those
+systems that only offer dialup connections and for connecting to devices
+through a serial port, like many routers. For newer Macintoshes that
+don't have a normal serial port, ZTerm can talk to ports on USB to
+serial adapters, through the appropriate driver software supplied with
+the adapter.
+
+ License : Shareware, $20
+ Author/Publisher : David P. Alverson
+ Modification Date : October 7, 2002
+ Requirements : Mac OS X and Mac OS 8 or higher
+
+ Download 
+File Size: 176 Kb
+
+ Download 
+File Size: 180 Kb
+
+ Download 
+File Size: 404 Kb - version 1.0.1
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

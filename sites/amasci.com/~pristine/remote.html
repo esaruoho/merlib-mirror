@@ -1,0 +1,1427 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="puremac.css">
+<link rel="shortcut icon" href="http://www.pure-mac.com/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.pure-mac.com/puremac.xml">
+<title>Pure Mac: Remote Access - Software for Macintosh</title>
+</head>
+<a href="http://www.pure-mac.com/"><img src="images/puremacsm.gif" align=right width="88" height="20" border="0" alt="Pure Mac"></a>
+<center>
+<table style="text-align: left; width: 80%;" border="0" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9373990431833662";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+//2007-02-15: Network &amp;amp; IT Admin 300x250 ATF
+google_ad_channel = "0388871957";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "008000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+<td>
+<center><h1>Remote Access</h1>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9373990431833662";
+google_ad_width = 160;
+google_ad_height = 90;
+google_ad_format = "160x90_0ads_al";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "008000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br>
+<!-- SiteSearch Google -->
+<form method="get" action="http://www.google.com/custom" target="_top">
+<table border="0" bgcolor="#ffffff">
+<tr><td nowrap="nowrap" valign="top" align="left" height="32">
+</td>
+<td nowrap="nowrap">
+<input type="hidden" name="domains" value="Pure-mac.com">
+<input type="text" name="q" size="20" maxlength="255" value="">
+<input type="submit" name="sa" value="Google Search">
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td nowrap="nowrap">
+<table>
+<tr>
+<td>
+<input type="radio" name="sitesearch" value="">
+<font size="-1" color="#000000">Web</font>
+</td>
+<td>
+<input type="radio" name="sitesearch" value="Pure-mac.com" checked="checked">
+<font size="-1" color="#000000">Pure-Mac.com</font>
+</td>
+</tr>
+</table>
+<input type="hidden" name="client" value="pub-9373990431833662">
+<input type="hidden" name="forid" value="1">
+<input type="hidden" name="ie" value="ISO-8859-1">
+<input type="hidden" name="oe" value="ISO-8859-1">
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:50;LW:184;L:http://www.pure-mac.com/puremac.gif;S:http://;FORID:1">
+<input type="hidden" name="hl" value="en">
+</td></tr></table>
+</form>
+<!-- SiteSearch Google -->
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<hr>
+<center>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr>
+<td valign=middle align=center><b>Other</b></td>
+<td valign=middle align=center><b>SSH/Telnet</b></td>
+<td valign=middle align=center><b>Terminal</b></td>
+<td valign=middle align=center><b>VNC</b></td>
+<td valign=middle align=center><b>VPN</b></td>
+</tr>
+<tr>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#appleremotedesktop">Apple Remote Desktop</a></td></tr>
+<tr><td valign=top align=left><a href="#astroapp">AstroApp</a></td></tr>
+<tr><td valign=top align=left><a href="#icaclient">Citrix ICA Client</a></td></tr>
+<tr><td valign=top align=left><a href="#cord">CoRD</a></td></tr>
+<tr><td valign=top align=left><a href="#desktoptransporter">Desktop Transporter</a></td></tr>
+<tr><td valign=top align=left><a href="#farfinder">FarFinder</a></td></tr>
+<tr><td valign=top align=left><a href="#kmremotecontrol">KMremoteControl</a></td></tr>
+<tr><td valign=top align=left><a href="#microsoftremdeskconnection">Microsoft Remote Desktop Connection</a></td></tr>
+<tr><td valign=top align=left><a href="#saywhat">Say What</a></td></tr>
+<tr><td valign=top align=left><a href="#timbuktu">Timbuktu</a></td></tr>
+</table>
+</td>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#almostvpn">AlmostVPN</a></td></tr>
+<tr><td valign=top align=left><a href="#bettel">BetterTelnet</a></td></tr>
+<tr><td valign=top align=left><a href="#datacometsec">dataComet</a></td></tr>
+<tr><td valign=top align=left><a href="#jellyfissh">JellyfiSSH</a></td></tr>
+<tr><td valign=top align=left><a href="#macssh">MacSSH</a></td></tr>
+<tr><td valign=top align=left><a href="#mindterm">MindTerm</a></td></tr>
+<tr><td valign=top align=left><a href="#niftyssh">Nifty Telnet SSH</a></td></tr>
+<tr><td valign=top align=left><a href="#remoteconnectionsmanager">Remote Connections Manager</a></td></tr>
+<tr><td valign=top align=left><a href="#sshhelper">Secure Shell Helper</a></td></tr>
+<tr><td valign=top align=left><a href="#sshagent">SSH Agent</a></td></tr>
+<tr><td valign=top align=left><a href="#sshkeychain">SSHKeychain</a></td></tr>
+<tr><td valign=top align=left><a href="#sshtunnelmanager">SSH Tunnel Manager</a></td></tr>
+<tr><td valign=top align=left><a href="#telnetlauncher">TelnetLauncher</a></td></tr>
+</table>
+</td>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#datacometsec">dataComet</a></td></tr>
+<tr><td valign=top align=left><a href="#glterm">GLterm</a></td></tr>
+<tr><td valign=top align=left><a href="#iterm">iTerm</a></td></tr>
+<tr><td valign=top align=left><a href="#macwise">MacWise</a></td></tr>
+<tr><td valign=top align=left><a href="#powerterm">PowerTerm</a></td></tr>
+<tr><td valign=top align=left><a href="#tn3270">tn3270</a></td></tr>
+<tr><td valign=top align=left><a href="#zterm">ZTerm</a></td></tr>
+</table>
+</td>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#chickenofthevnc">Chicken of the VNC</a></td></tr>
+<tr><td valign=top align=left><a href="#ivpn">iVPN</a></td></tr>
+<tr><td valign=top align=left><a href="#jollysfastvnc">JollysFastVNC</a></td></tr>
+<tr><td valign=top align=left><a href="#osxvnc">OSXvnc</a></td></tr>
+<tr><td valign=top align=left><a href="#sharemydesktop">Share My Desktop</a></td></tr>
+<tr><td valign=top align=left><a href="#osxvnc">Vine</a></td></tr>
+<tr><td valign=top align=left><a href="#vncdimension">VNCDimension</a></td></tr>
+<tr><td valign=top align=left><a href="#vncthing">VNCThing</a></td></tr>
+<tr><td valign=top align=left><a href="#vncviewer">VNCViewer</a></td></tr>
+</table>
+</td>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#ciscovpnclient">Cisco VPN Client</a></td></tr>
+<tr><td valign=top align=left><a href="#digitunnel">DigiTunnel</a></td></tr>
+<tr><td valign=top align=left><a href="#ipsecuritas">IPSecuritas</a></td></tr>
+<tr><td valign=top align=left><a href="#shimo">Shimo</a></td></tr>
+<tr><td valign=top align=left><a href="#tunnelblick">Tunnelblick</a></td></tr>
+<tr><td valign=top align=left><a href="#vapor">Vapor</a></td></tr>
+<tr><td valign=top align=left><a href="#vaporsec">VaporSec</a></td></tr>
+<tr><td valign=top align=left><a href="#viscosity">Viscosity</a></td></tr>
+<tr><td valign=top align=left><a href="#vpntracker">VPN Tracker</a></td></tr>
+<tr><td valign=top align=left><a href="#vpntrackerserver">VPN Tracker Server</a></td></tr>
+</table>
+</td>
+</table>
+</center>
+<br>
+
+<hr>
+<a href="http://www.macminicolo.net/Mac_VNC_tutor.html">VNC control of a Macintosh under OS X 10.4</a>
+<hr>
+<table style="text-align: left;" border="0" cellpadding="4" cellspacing="2">
+<tbody>
+<tr>
+<td style="vertical-align: top;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9373990431833662";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<hr>
+<h3><a href="http://www.pure-mac.com/">Pure Mac</a></h3>
+<b><a href="http://www.pure-mac.com/games.html"><font color="#000000">Games</font></a></b><br>
+<font size=-1>
+<a href="action.html">Action</a><br>
+<a href="arcade.html">Arcade</a><br>
+<a href="board.html">Board</a><br>
+<a href="card.html">Card</a><br>
+<a href="emu.html">Emulators</a><br>
+<a href="flight.html">Flight Sims</a><br>
+<a href="friv.html">Frivolous</a><br>
+<a href="gameutils.html">Game Utilities</a><br>
+<a href="mmog.html">MMOG</a><br>
+<a href="puzzle.html">Puzzle</a><br>
+<a href="adventure.html">RPG</a><br>
+<a href="sports.html">Sports &amp; Racing</a><br>
+<a href="strategy.html">Strategy</a><br>
+<a href="word.html">Word</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/education.html"><font color="#000000">Home</font></a></b><br>
+<font size=-1>
+<a href="astronomy.html">Astronomy</a><br>
+<a href="calcmath.html">Calculators &amp; Math</a><br>
+<a href="charts.html">Charts &amp; Graphs</a><br>
+<a href="collect.html">Collections</a><br>
+<a href="health.html">Health</a><br>
+<a href="hobbies.html">Hobbies &amp; Crafts</a><br>
+<a href="kids.html">Kid Stuff</a><br>
+<a href="language.html">Language</a><br>
+<a href="censor.html">Parental Control</a><br>
+<a href="recipes.html">Recipes</a><br>
+<a href="science.html">Science</a><br>
+<a href="teach.html">Teaching Aids</a><br>
+<a href="typing.html">Typing</a><br>
+<a href="weather.html">Weather</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/internet.html"><font color="#000000">Internet</font></a></b><br>
+<font size=-1>
+<a href="bbs.html">Collaboration</a><br>
+<a href="distributed.html">Distributed Computing</a><br>
+<a href="dlm.html">Download Managers</a><br>
+<a href="email.html">Email</a><br>
+<a href="ftp.html">FTP</a><br>
+<a href="intutils.html">Internet Utilities</a><br>
+<a href="iphone.html">iPhone</a><br>
+<a href="irc.html">IRC &amp; IM</a><br>
+<a href="intgames.html">Online Games</a><br>
+<a href="p2p.html">Peer-to-Peer</a><br>
+<a href="radio.html">Radio</a><br>
+<a href="remote.html">Remote Access</a><br>
+<a href="usenet.html">Usenet</a><br>
+<a href="vidconf.html">Video Conferencing</a><br>
+<a href="voip.html">VoIP</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/multimedia.html"><font color="#000000">Multimedia</font></a></b><br>
+<font size=-1>
+<a href="audio.html">Audio</a><br>
+<a href="cad.html">CAD</a><br>
+<a href="comics.html">Comics</a><br>
+<a href="dtp.html">DTP</a><br>
+<a href="ebook.html">eBook</a><br>
+<a href="font.html">Font Utilities</a><br>
+<a href="graphics.html">Graphics</a><br>
+<a href="mp3.html">iTunes &amp; MP3</a><br>
+<a href="mediacenter.html">Media Center</a><br>
+<a href="music.html">Music</a><br>
+<a href="photoplug.html">Photoshop Plug-ins</a><br>
+<a href="presentation.html">Presentation</a><br>
+<a href="3d.html">3D &amp; Animation</a><br>
+<a href="screen.html">Screen Capture</a><br>
+<a href="video.html">Video</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/system.html"><font color="#000000">System</font></a></b><br>
+<font size=-1>
+<a href="unix.html">Alternative OS</a><br>
+<a href="appud.html">Classic OS Updates</a><br>
+<a href="cli.html">Command Line</a><br>
+<a href="cmm.html">Contextual Menus</a><br>
+<a href="cross.html">Cross-Platform</a><br>
+<a href="csm.html">CSMs</a><br>
+<a href="hard.html">Drivers</a><br>
+<a href="facelift.html">Face-Lift</a><br>
+<a href="launchers.html">Launchers</a><br>
+<a href="olden.html">Olden</a><br>
+<a href="screensaver.html">Screen Savers</a><br>
+<a href="security.html">Security</a><br>
+<a href="sys.html">System Enhancements</a><br>
+<a href="virus.html">Virus</a><br>
+<a href="widgets.html">Widgets</a><br>
+<a href="x11.html">X11</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/utilities.html"><font color="#000000">Utilities</font></a></b><br>
+<font size=-1>
+<a href="backup.html">Backup</a><br>
+<a href="business.html">Business</a><br>
+<a href="compen.html">Compression</a><br>
+<a href="database.html">Database</a><br>
+<a href="diag.html">Diagnostics</a><br>
+<a href="diskfile.html">Disk &amp; File</a><br>
+<a href="finance.html">Finance</a><br>
+<a href="handhelds.html">Handhelds</a><br>
+<a href="network.html">Network</a><br>
+<a href="pims.html">PIMs</a><br>
+<a href="prog.html">Programming</a><br>
+<a href="spreadsheet.html">Spreadsheets</a><br>
+<a href="stocks.html">Stocks</a><br>
+<a href="telephony.html">Telephony</a><br>
+<a href="textword.html">Text Editors</a><br>
+<a href="time.html">Time</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/www.html"><font color="#000000">WWW</font></a></b><br>
+<font size=-1>
+<a href="auctions.html">Auctions</a><br>
+<a href="webb.html">Browsers</a><br>
+<a href="neten.html">Browser Add-ons</a><br>
+<a href="cloud.html">The Cloud &amp; SSBs</a><br>
+<a href="webed.html">HTML Editors</a><br>
+<a href="offline.html">Page Rippers</a><br>
+<a href="rss.html">RSS &amp; Podcasting</a><br>
+<a href="webmaint.html">Site Tweaking</a><br>
+<a href="web20.html">Social Networking</a><br>
+<a href="webcam.html">Web Cams</a><br>
+<a href="gifanim.html">Web Graphics</a><br>
+<a href="webserv.html">Web Server</a><br>
+</font><br>
+<a href="http://www.pure-mac.com/extkey.html"><b>Extension Key</b></a><br>
+<a href="http://www.pure-mac.com/purepicks.html"><b>Pure Picks</b></a><br>
+<a href="http://www.pure-mac.com/softindex.html"><b>Software Index</b></a>
+<hr>
+</td>
+<td style="vertical-align: top;">
+<a name = "almostvpn"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/almostvpn.png"> <b>AlmostVPN 1.5.3</b>
+<br><br>
+AlmostVPN is an ssh tunnel management application with a twist. This is
+what makes AlmostVPN different:
+<br>* It is packaged as a Preference Panel, so you do not have to use yet another application to configure your tunnels
+<br>* It employs launchd to control tunnels, so you do not have to have yet another application running while tunneling
+<br>* It uses creative network configuration techniques to provide
+almost VPN like access to remote services, so you can keep using real IP
+addresses and port numbers while accessing services on the other side of
+your tunnels.
+<br>* It provides simple way to mount remote volumes via SSH tunnel
+<br>* It can import tunnel definitions from SSH Tunnel Manager and SSHKeychain applications
+<br>
+<ul>
+<li><b>License</b>: Shareware, $15
+<li><b>Author/Publisher</b>: Leaping Bytes
+<li><b>Modification Date</b>: September 27, 2007
+<li><b>Requirements</b>: Mac OS X 10.3.9 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/almostvpndl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 4.9 MB
+<br>
+<a href="http://www.leapingbytes.com/almostvpn">Home Page</a>
+<hr><a name = "appleremotedesktop"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/appleremotedesktop.png"> <b>Apple Remote Desktop 3.2.2</b>
+<br><br>
+Apple Remote Desktop is a complete desktop management solution for Mac
+OS X. You can distribute software, configure systems, offer real-time
+online help and create detailed hardware and software reports - for all
+of your Mac systems in your organization, all from your own Mac.
+<br>
+<ul>
+<li><b>License</b>: 10 Client $300 - Unlimited Client $500
+<li><b>Author/Publisher</b>: Apple
+<li><b>Modification Date</b>: September 16, 2008
+<li><b>Requirements</b>: Mac OS X 10.3.9 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/appleremotedesktopadmindl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 30.6 MB - Admin 3.2.2
+<br>
+<a href="http://www.pure-mac.com/downloads/appleremotedesktopdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 2.8 MB - Client 3.2.2
+<br>
+<a href="http://www.apple.com/remotedesktop/">Home Page</a>
+<hr><a name = "astroapp"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/astroapp.png"> <b>AstroApp 2.13</b>
+<br><br>
+AstroApp has meeting capabilities by allowing
+up to 10 users to view and control the same desktop at the same time. To
+start using the software we recommend creating a free AstroCity login
+username from within the software and then connecting to others using
+the FriendsList. Using the advanced modes you can also connect to
+machines that you setup using an IP address and port number.
+<br>
+<ul>
+<li><b>License</b>: Demo, $10 per month for the Anywhere Service
+<li><b>Author/Publisher</b>: Astroflower Software
+<li><b>Modification Date</b>: March 26, 2009
+<li><b>Requirements</b>: Mac OS X 10.3.9 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/astroappdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 9.6 MB - version 2.13
+<br>
+<a href="http://www.pure-mac.com/downloads/astroappclassicdl.html">Download</a><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 275 Kb - version 1.98
+<br>
+<a href="http://astroflowersoftware.com/">Home Page</a>
+<hr><a name = "bettel"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/ncsatelnet.gif"> <b>BetterTelnet 2.0fc1</b>
+<br><br>
+BetterTelnet for Mac OS is a significantly enhanced version of NCSA Telnet 2.7b5. It fixes many bugs and has a
+redesigned interface that is not only easier to use and configure than NCSA Telnet, but still has as much as if not
+more configuration flexibility compared to NCSA Telnet. All configuration options from NCSA Telnet are still in
+BetterTelnet. Version 2.0 now also has rlogin support.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Rolf Braun
+<li><b>Modification Date</b>: January 3, 1999
+<li><b>Requirements</b>: Mac OS 7.1 and higher
+</ul>
+<a href="http://epix.mac.tucows.com/files/bettertelnet.hqx">Download</a><img alt="680x0" src="680x0.gif" border=0 hspace=3 width=12 height=12><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 432 Kb - BetterTelnet version 2.0fc1
+<br>
+<a href="ftp://ftp.ncsa.uiuc.edu/Telnet/Mac/Telnet2.7/2.7b4/Telnet-2.7b4-fat.sit.hqx">Download</a><img alt="680x0" src="680x0.gif" border=0 hspace=3 width=12 height=12><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 335 Kb - NCSATelnet version 2.7b4 - released June 28, 1995
+<hr><a name = "chickenofthevnc"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/chickenofthevnc.gif"> <b>Chicken of the VNC 2.0b4</b>
+<br><br>
+Chicken of the VNC is a VNC client for Mac OS X. A VNC client allows one
+to display and interact with a remote computer screen. In other words,
+you can use Chicken of the VNC to interact with a remote computer as
+though it's right next to you.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Chicken of the VNC Project
+<li><b>Modification Date</b>: January 18, 2006
+<li><b>Requirements</b>: Mac OS X 10.2 or higher
+</ul>
+<a href="http://downloads.sourceforge.net/cotvnc/cotvnc-20b4.dmg?download">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.2 MB
+<br>
+<a href="http://sourceforge.net/projects/cotvnc/">Home Page</a>
+<hr><a name = "ciscovpnclient"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/ciscovpnclient.png"> <b>Cisco VPN Client 4.9.01.4.9.01.0100</b>
+<br><br>
+Simple to deploy and operate, the Cisco VPN Client allows organizations
+to establish end-to-end, encrypted VPN tunnels for secure connectivity
+for mobile employees or teleworkers. This thin design, IP security
+(IPSec)-implementation is compatible with all Cisco virtual private
+network (VPN) products.
+<br><br>
+The Cisco VPN Client can be preconfigured for mass deployments, and
+initial logins require little user intervention. It supports the
+innovative Cisco Easy VPN capabilities, delivering a uniquely scalable,
+cost-effective, and easy-to-manage remote access VPN architecture that
+eliminates the operational costs associated with maintaining a
+consistent policy and key management method. The Cisco Easy VPN feature
+allows the Cisco VPN Client to receive security policies upon a VPN
+tunnel connection from the central site VPN device (Cisco Easy VPN
+Server), minimizing configuration requirements at the remote location.
+This simple and highly scalable solution is ideal for large remote
+access deployments where it is impractical to individually configure
+policies for multiple remote PCs.
+<br>
+<ul>
+<li><b>License</b>: Customers with Cisco SMARTnet support contracts and encryption entitlement may download the Cisco VPN Client from the Cisco Software Center at no additional cost
+<li><b>Author/Publisher</b>: Cisco Systems, Inc.
+<li><b>Modification Date</b>: December 15, 2007
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/ciscovpnclientdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 14.4 MB - You need a Cisco SMARTnet support contract to login
+<br>
+<a href="http://www.cisco.com/en/US/products/sw/secursw/ps2308/">Home Page</a>
+<hr><a name = "icaclient"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/icaclient.png"> <b>Citrix ICA Client 10.00.603</b>
+<br><br>
+Citrix ICA Macintosh Client is an ICA Client 
+providing native connectivity to MetaFrame servers for Macintosh 
+users.
+<br>
+<ul>
+<li><b>License</b>: Free Client
+<li><b>Author/Publisher</b>: Citrix Systems
+<li><b>Modification Date</b>: July 2, 2008
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/citrixdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 5.2 MB - Version 10.00.603
+<br>
+<a href="http://www.pure-mac.com/downloads/citrixclassicdl.html">Download</a><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 2.5 MB - Version 6.20.154
+<br>
+<a href="http://www.citrix.com/site/SS/downloads/index.asp">Home Page</a>
+<hr><a name = "cord"></a>
+<img align=top width="32" height="32" alt="icon" src="images/cord.png"> <b>CoRD 0.4.3</b>
+<br><br>
+CoRD is a remote desktop client for Mac OS X ported from the UNIX program rdesktop. It is
+a Universal Binary, and allows you to connect to multiple servers concurrently. There are
+many features not yet implemented, but it is usable in it's current form.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Craig Dooley
+<li><b>Modification Date</b>: December 1, 2007
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/corddl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 919 Kb
+<br>
+<a href="http://cord.sourceforge.net/">Home Page</a>
+<hr><a name = "datacometsec"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/datacometsec.gif"> <b>dataComet-Secure 10.1.1</b>
+<br><br>
+An AppleScriptable Macintosh VT220, PC-ANSI, and IBM-3270 terminal emulator for
+Secure Shell 1 + 2, Telnet/TN3270 (K5), and Serial connections with SCP, ZMODEM,
+IBM IND$FILE, and Text Editing support
+<br>
+<ul>
+<li><b>License</b>: Shareware, $60, Secure $70
+<li><b>Author/Publisher</b>: databeast inc.
+<li><b>Modification Date</b>: June 21, 2008
+<li><b>Requirements</b>: Mac OS X 10.2 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/datacometsecuredl.html">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.1 MB - dataComet-Secure 10.1.1
+<br>
+<a href="http://www.pure-mac.com/downloads/datacometdl.html">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.0 MB - dataComet 10.1.1
+<br>
+<a href="http://www.pure-mac.com/downloads/datacometsecureclassicdl.html">Download</a><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.4 MB - dataComet-Secure 5.0.5
+<br>
+<a href="http://www.datacomet.com/">Home Page</a>
+<hr><a name = "desktoptransporter"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/desktoptransporter.gif"> <b>Desktop Transporter 1.1.1</b>
+<br><br>
+Desktop Transporter is an application that allows you to access your
+Macintosh displays remotely over a network, from a different Macintosh.
+It supports sharing of one or more displays attached to your Mac, and
+allows you to control access to it using a password.
+<br>
+Desktop Transporter discovers shared displays using Rendezvous, but also
+provides an option for specifying which machine it should connect to in
+cases where Rendezvous doesn't work. You can also set a number of
+options controlling the quality of the shared display.
+<br>
+<ul>
+<li><b>License</b>: Shareware, $15
+<li><b>Author/Publisher</b>: Yellow Lemon Software
+<li><b>Modification Date</b>: November 4, 2004
+<li><b>Requirements</b>: Mac OS X 10.3 or higher
+</ul>
+<a href="http://www.cs.uit.no/~daniels/YLS/DesktopTransporter.dmg.zip">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.6 MB
+<br>
+<a href="http://home.online.no/~stoedle/YLS/YLS-products/DesktopTransporter.html">Home Page</a>
+<hr><a name = "digitunnel"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/digitunnel.gif"> <b>DigiTunnel 1.4.4</b>
+<br><br>
+A Virtual Private Network (VPN) client for Mac OS X, compatible with
+Windows 2000, WatchGuard, Nortel, OS X Server 1.2 and other VPN servers.
+DigiTunnel supports PPTP (Point-to-Point Tunneling Protocol), an
+Internet standard for VPN.
+<br>
+<ul>
+<li><b>License</b>: Demo (30 day Trial), $58
+<li><b>Author/Publisher</b>: Gracion Software
+<li><b>Modification Date</b>: March 22, 2006
+<li><b>Requirements</b>: Mac OS X 10.2 or higher
+</ul>
+<a href="http://www.gracion.com/vpn/dist1.4/DigiTunnel144.dmg">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.4 MB
+<br>
+<a href="http://www.gracion.com/vpn/">Home Page</a>
+<hr><a name = "farfinder"></a>
+<img align=top width="32" height="32" alt="icon" src="images/farfinder.png"> <b>FarFinder 1.3.3</b>
+<br><br>
+Access your Mac's files from anywhere. All you need is a web browser, or your iPhone.
+<br>
+<ul>
+<li><b>License</b>: Shareware, $35
+<li><b>Author/Publisher</b>: Adrian Ross
+<li><b>Modification Date</b>: March 26, 2009
+<li><b>Requirements</b>: Mac OS X 10.5 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/farfinderdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 19.7 MB
+<br>
+<a href="http://flyingmac.com/farfinder/">Home Page</a>
+<hr><a name = "glterm"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/glterm.gif"> <b>GLterm 1.2</b>
+<br><br>
+GLterm is a replacement for the Terminal application which ships with
+MacOS X. It's made to be faster, and to support more common terminal
+features. It supports full ANSI colors, all vt102 protocol, all DEC
+function keys, and a selection of useful xterm sequences.
+<br>
+The Big Thing is that GLterm uses X11 .bdf fonts and renders them
+using..OpenGL. So it's very fast... as long as you have a working 3D
+accelerator. It should work as intended on B &amp; W G3 and up for desktops
+and on White iBook and up for laptops: ie a machine whose 3D accelerator
+is handled properly in OSX.
+<br>
+<ul>
+<li><b>License</b>: Sharewre, $10
+<li><b>Author/Publisher</b>: Michel Pollet
+<li><b>Modification Date</b>: February 5, 2004
+<li><b>Requirements</b>: Mac OS X 10.1 or higher
+</ul>
+<a href="http://www.pollet.net/GLterm/GLterm.dmg.gz">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 345 Kb
+<br>
+<a href="http://www.pollet.net/GLterm/">Home Page</a>
+<hr><a name = "ipsecuritas"></a>
+<img align=top width="32" height="32" alt="icon" src="images/ipsecuritas.png"> <b>IPSecuritas 3.2</b>
+<br><br>
+IPSecuritas is the most advanced, yet free IPSec client for Mac OS X. It
+supports virtually every available IPSec compliant firewall, allowing
+you to connect safely to your office or home network from any location
+on earth.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Lobotomo Software
+<li><b>Modification Date</b>: January 1, 2009
+<li><b>Requirements</b>: Mac OS X 10.3 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/ipsecuritasdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 6.4 MB
+<br>
+<a href="http://www.lobotomo.com/products/IPSecuritas/">Home Page</a>
+<hr><a name = "iterm"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/iterm.png"> <b>iTerm 0.9.6</b>
+<br><br>
+iTerm is a full featured terminal emulation program written for OS X
+using Cocoa. We are aiming at providing users with the best command line
+experience under OS X. The letter i represents a native Apple look and
+feel of the program interface, and an emphasis on complete international
+support. iTerm was merged from two projects, CTerminal and TerminalX,
+both of which were based on the JTerminal project. The current version is
+still in beta stage. It is, however, very much functional and usable.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Fabian &amp; Ujwal S. Setlur
+<li><b>Modification Date</b>: September 24, 2008
+<li><b>Requirements</b>: Mac OS X 10.3.9 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/itermdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.8 MB
+<br>
+<a href="http://iterm.sourceforge.net/">Home Page</a>
+<hr><a name = "ivpn"></a>
+<img align=top width="32" height="32" alt="icon" src="images/ivpn.png"> <b>iVPN 3.6</b>
+<br><br>
+iVPN is an application that makes use of the standards based PPTP VPN
+server installed with Mac OS X. This VPN server is usually only
+available on Mac OS X Server and configured through the Server Admin
+application. iVPN makes it possible to use the same server utility on
+the client version of Mac OS X. All you have to do to set it up is to
+enter the user name and password that you want your VPN clients to use,
+the IP address range you want to give to your clients and then click
+start server. iVPN will handle all the other settings and start the VPN
+server. iVPN is the GUI that Apple left out.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Alex Jones
+<li><b>Modification Date</b>: December 14, 2008
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/ivpndl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 610 Kb
+<br>
+<a href="http://www.macserve.org.uk/projects/ivpn/">Home Page</a>
+<hr><a name = "jellyfissh"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/jellyfissh.gif"> <b>JellyfiSSH 4.5.2</b>
+<br><br>
+JellyfiSSH is a simple bookmark manager for connecting to *NIX boxes
+like BSD/Linux etc via Telnet or SSH 1 or 2. You can set preferences for
+each bookmark including the terminal colours, fonts, window size,
+transparency and default login.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Grepsoft
+<li><b>Modification Date</b>: June 30, 2008
+<li><b>Requirements</b>: Mac OS X 10.4.8 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/jellyfisshdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 197 Kb
+<br>
+<a href="http://www.grepsoft.net/jellyfissh.html">Home Page</a>
+<hr><a name = "jollysfastvnc"></a>
+<img align=top width="32" height="32" alt="icon" src="images/jollysfastvnc.png"> <b>JollysFastVNC 0.96.84</b>
+<br><br>
+JollysFastVNC is a VNC client whose aim is to become the best VNC client on the Mac.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Patrick Stein
+<li><b>Modification Date</b>: January 26, 2009
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/jollysfastvncdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.1 MB
+<br>
+<a href="http://www.jinx.de/JollysFastVNC.html">Home Page</a>
+<hr><a name = "kmremotecontrol"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/kmremotecontrol.gif"> <b>KMremoteControl 1.52</b>
+<br><br>
+KMremoteControl lets you operate all the PC/Windows and Mac OS X systems
+on your desk from the keyboard and mouse on one of those systems.
+<br>
+KMremoteControl presents its operational capabilities via an application
+window and its configurable options via multiple, tabbed panels within
+its Preferences window. Menus provide access to the licensing,
+preferences and help capabilities.
+<br>
+<ul>
+<li><b>License</b>: Shareware, $25
+<li><b>Author/Publisher</b>: Derman Enterprises
+<li><b>Modification Date</b>: May 1, 2006
+<li><b>Requirements</b>: Mac OS X 10.3.9 or higher
+</ul>
+<a href="http://www.firewalldesign.com/sderman/KMremoteControl/KMremoteControl1.52.dmg.zip">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 2.8 MB
+<br>
+<a href="http://www.derman.com/Download/Downloads.html">Download Page</a>
+<br>
+<a href="http://www.derman.com/KMremoteControl/KMrC-Overview.html">Home Page</a>
+<hr><a name = "macssh"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/macssh.gif"> <b>MacSSH 2.1fc3</b>
+<br><br>
+MacSSH is a modified version of BetterTelnet with SSH2 support. 
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Jean-Pierre Stierlin/Based on Rolf Braun's BetterTelnet
+<li><b>Modification Date</b>: April 22, 2002
+<li><b>Requirements</b>: System 7.5.1 or higher
+</ul>
+<a href="http://pro.wanadoo.fr/chombier/download/MacSSHPPC.sit.hqx">Download</a><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 733 Kb
+<br>
+<a href="http://pro.wanadoo.fr/chombier/download/MacSSH68k.sit.hqx">Download</a><img alt="680x0" src="680x0.gif" border=0 hspace=3 width=12 height=12>
+File Size: 685 Kb
+<br>
+<a href="http://pro.wanadoo.fr/chombier/MacSSH/SSH_info.html">Home Page</a>
+<hr><a name = "macwise"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/macwise.gif"> <b>MacWise 11.62</b>
+<br><br>
+MacWise emulates ADDS Viewpoint, Wyse 50, Wyse 60, Wyse 370, Televideo
+TV 925, DEC VT100, VT220 and Prism terminals. Supports ANSI color.
+Esprit III color is also supported in Wyse 370 mode.
+<br>
+MacWise allows a Macintosh to be used as a terminal -- connected to a
+host computer directly, by modem, local area network or over the
+Internet. The emulators support video attributes such as dim, reverse,
+underline, 132-column modes, protected fields and graphic characters
+sent from the host computer, as well as enhanced Viewpoint mode.
+Features include phone list and dialer for modems, on-screen
+programmable function keys, connection scripts and more.
+<br>
+<ul>
+<li><b>License</b>: Demo, $95
+<li><b>Author/Publisher</b>: Carnation Software
+<li><b>Modification Date</b>: April 2, 2009
+<li><b>Requirements</b>: Mac OS X 10.1 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/macwisedl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 5.0 MB - version 11.62
+<br>
+<a href="http://www.pure-mac.com/downloads/macwiseclassicdl.html">Download</a><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.0 MB - version 4.4.2
+<br>
+<a href="http://www.carnationsoftware.com/carnation/MacWise_X_Info.html">Home Page</a>
+<hr><a name = "microsoftremdeskconnection"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/microsoftremdeskconnection.png"> <b>Microsoft Remote Desktop Connection 2.0</b>
+<br><br>
+Remote Desktop Connection Client lets you connect to a Microsoft
+Windows-based computer and work with programs and files on that computer
+from your Macintosh computer.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Microsoft
+<li><b>Modification Date</b>: July 1, 2008
+<li><b>Requirements</b>: Mac OS X 10.4.9 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/msrdconnectiondl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 7.7 MB - 2.0
+<br>
+<a href="http://www.pure-mac.com/downloads/msrdconnection103dl.html">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.4 MB - 1.0.3 - October 12, 2004
+<br>
+<a href="http://www.microsoft.com/mac/products/remote-desktop/default.mspx">Home Page</a>
+<hr><a name = "mindterm"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/jar.gif"> <b>MindTerm 3.0.1</b>
+<br><br>
+Mindterm is today probably the most widely spread client that implements
+the SSH1 and SSH2 protocols written in pure Java.
+<br>
+Some of the worlds leading manufactures of communication equipment has
+signed OEM agreements with AppGate and integrated Mindterm into their
+own solutions. Other users are in education sector and goverment.
+<br>
+MindTerm is free for personal use.
+<br>
+MindTerm is small, portable and secure. It contains an extremely
+powerful and easy to use SSH client that provides advanced features such
+as tunneling support, file transfer GUI as well as support for HTTP and
+SOCKS proxies.
+<br>
+MindTerm client also includes an integrated xterm/vt100 terminal
+emulator. It has the ability to run both a standalone application and as
+an applet.
+<br>
+<ul>
+<li><b>License</b>: Freeware for personal use
+<li><b>Author/Publisher</b>: AppGate
+<li><b>Modification Date</b>: December 21, 2005
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://www.appgate.com/products/80_MindTerm/110_MindTerm_Download/mindterm_3.0.1-bin.zip">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 983 Kb
+<br>
+<a href="http://www.appgate.com/products/80_MindTerm/">Home Page</a>
+<hr><a name = "niftyssh"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/niftytelnet.gif"> <b>Nifty Telnet SSH 1.1r3</b>
+<br><br>
+This is an enhanced version of NiftyTelnet which includes support for the SSH
+(Secure Shell) protocol for encrypted terminal sessions. NEWS! September 6, 2000
+RSA Data Security, Inc. today put the RSA public-key encryption algorithm into
+the public domain, meaning that United States users can now download and use
+NiftyTelnet SSH legally. This was done two weeks before the expiration of their
+patent granted in 1983.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Chris Newman/SSH version Jonas Walden
+<li><b>Modification Date</b>: June 7, 1999
+<li><b>Requirements</b>: System 7.5.1 or higher
+</ul>
+<a href="http://www.lysator.liu.se/~jonasw/download/niftytelnet-1.1-ssh-r3.hqx">Download</a><img alt="680x0" src="680x0.gif" border=0 hspace=3 width=12 height=12><img alt="Download PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 559 Kb
+<br>
+<a href="http://www.lysator.liu.se/~jonasw/freeware/niftyssh/">Nifty Telnet SSH Home Page</a>
+<hr><a name = "powerterm"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/powerterm.gif"> <b>PowerTerm 7.1.8</b>
+<br><br>
+PowerTerm InterConnect (Mac OS X Edition), Ericom Software's terminal
+emulation product for the Mac platform, maximizes the capabilities of
+legacy systems with a minimal amount of installation time and software
+space. PowerTerm InterConnect supports a wide range of hosts such as IBM
+Mainframe(zSeries), IBM AS/400 (iSeries), OpenVMS, Unix and others, and
+a diverse range of emulation types. Because PowerTerm InterConnect has
+such a small footprint, it is easily installable on any PC, making it a
+simple and fast solution for running legacy applications. PowerTerm
+InterConnect's rich feature set and fast key response has made it the
+product of choice for thousands of corporations throughout the world.
+<br>
+<ul>
+<li><b>License</b>: Demo, $150
+<li><b>Author/Publisher</b>: Ericom Software
+<li><b>Modification Date</b>: September 13, 2005
+<li><b>Requirements</b>: Mac OS X 10.1.5 or higher
+</ul>
+<a href="http://www.ericom.com/demos/nonwin/PowerTermEval.sit">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 8.5 MB
+<br>
+<a href="http://www.ericom.com/pdl.asp">Download Page</a>
+<br>
+<a href="http://www.ericom.com/ptiMac.asp">Home Page</a>
+<hr><a name = "remoteconnectionsmanager"></a>
+<img align=top width="32" height="32" alt="icon" src="images/remoteconnectionsmanager.png"> <b>Remote Connections Manager 1.0</b>
+<br><br>
+Remote Connections Manager was initially built as an utility that allows
+to launch ssh sessions with password authentication in different
+terminal applications and login with password without user intervention.
+<br>
+Lately it grew in application which offer centralized storage for
+telnet, ssh, ftp, sftp connections with unlimited hierarchic folder
+support. Among other connection properties a connection has password
+property, working directory property and post-login commands property.
+These connections can be launched in different terminal applications.
+When using ssh, ftp and sftp connection an password will be used for
+autologin, working directory will be changed and post-login commands
+will be executed after login. ftp and sftp connections can be also
+launched in ftp/sftp browsers, an password will be used for autologin.
+For user convenience, Remote Connections Manager can import connections
+from similar applications or terminal applications and ftp/sftp
+browsers.
+<br>
+<ul>
+<li><b>License</b>: Shareware, $25
+<li><b>Author/Publisher</b>: Jan Cinert
+<li><b>Modification Date</b>: December 17, 2008
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/remoteconnectionsmanagerdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 4.9 MB
+<br>
+<a href="http://lightnetcom.eu/products/remote-connections-manager.html">Home Page</a>
+<hr><a name = "saywhat"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/saywhat.gif"> <b>Say What 1.18</b>
+<br><br>
+Say What allows you to remotely launch applications, documents or
+AppleScripts (Mac Only) via a web browser. Version 1.1 and higher even
+allows you to pass parameters to compiled AppleScripts. It uses the
+standard HTTP protocol and will run on whatever port you decide so it
+can run alongside other web services.
+<br>
+<ul>
+<li><b>License</b>: Shareware, $40
+<li><b>Author/Publisher</b>: AM Design
+<li><b>Modification Date</b>: February 11, 2006
+<li><b>Requirements</b>: Mac OS X and Mac OS 8.6 or higher
+</ul>
+<a href="http://www.maccentric.com/downloads/shareware/saywhat.sit.bin">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 767 Kb
+<br>
+<a href="http://www.maccentric.com/downloads/shareware/saywhatppc.sit.bin">Download</a><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 751 Kb
+<br>
+<a href="http://www.maccentric.com/dl_saywhat.php">Home Page</a>
+<hr><a name = "sharemydesktop"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/sharemydesktop.gif"> <b>Share My Desktop 1.2</b>
+<br><br>
+Share My Desktop (SMD) is a simple little wrapper application that I
+created for OSXvnc in AppleScript Studio. SMD makes initiating a VNC
+server very simple - just click a button!
+<br>
+VNC stands for Virtual Network Computing. "It is, in essence, a remote
+display system which allows you to view a computing 'desktop'
+environment not only on the machine where it is running, but from
+anywhere on the Internet and from a wide variety of machine
+architectures." VNC technology was developed by AT &amp; T Laboratories.
+<br>
+SMD was developed as a tool to offer better support from Tech Support
+staff. SMD can be installed on client systems, so if the client needs
+assistance, they can call the Tech Support staff, initiate the VNC
+server, and give the Tech Support staff the connection information. When
+the Tech Support staff is able to share the client's screen, they can
+SHOW the client what they need to do to fix a problem, rather than try
+to guide them by voice alone.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Mike Bombich
+<li><b>Modification Date</b>: January 4, 2003
+<li><b>Requirements</b>: Mac OS X 10.2 or higher
+</ul>
+<a href="http://www.bombich.com/software/files/smd.dmg">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 506 Kb
+<br>
+<a href="http://www.bombich.com/software/smd.html">Home Page</a>
+<hr><a name = "shimo"></a>
+<img align=top width="32" height="32" alt="icon" src="images/shimo.png"> <b>Shimo 2.0.9</b>
+<br><br>
+The initial reason for the development of Shimo was the lousy
+software-implementation of the Cisco-VPN-Client for MacOS. Shimo wants
+to do it the MacOS-way: That means to reduce the interface to the
+important features and integrate it right into the user-interface of the
+OS. Thus the interaction with this piece of software is absolutely
+intuitive and self explanatory. Try it out and you will see what we are
+speaking of...
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: nexusLab
+<li><b>Modification Date</b>: December 17, 2008
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/shimodl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 7.8 MB
+<br>
+<a href="http://www.nexumoja.org/projects/Shimo/">Home Page</a>
+<hr><a name = "sshhelper"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/sshhelper.gif"> <b>Secure Shell Helper 1.3</b>
+<br><br>
+Secure Shell Helper does the following:
+<br>* Control who's allowed to access your account
+<br>* Generate new OpenSSH keys
+<br>* View/Export your public keys
+<br>* Setup and control the SSH server
+<br>* Easy to use Wizard allows you to configure the server and personal identity
+<br>
+Secure Shell helper alleviates the need to use the command line to
+configure a working OpenSSH system. It's all point and click.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Gideon Softworks
+<li><b>Modification Date</b>: July 5, 2007
+<li><b>Requirements</b>: Mac OS X 10.2 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/sshhelperdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 865 Kb
+<br>
+<a href="http://www.gideonsoftworks.com/sshhelper.html">Home Page</a>
+<hr><a name = "sshagent"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/sshagent.gif"> <b>SSH Agent 1.1</b>
+<br><br>
+SSH Agent is a graphical front-end to some of the OpenSSH tools included
+with Mac OS X. Specifically, it allows you to start an ssh-agent,
+generate identities, and add identities to an agent. Additionally, it
+allows you to make the ssh-agent global so that, e.g., Project Builder
+and CVL can use it to do version control over SSH, and it has some
+functionality to set-up a secure tunnel.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Xander Schrijen
+<li><b>Modification Date</b>: May 9, 2005
+<li><b>Requirements</b>: Mac OS X 10.1 or higher
+</ul>
+<a href="http://www.phil.uu.nl/~xges/ssh/SSHAgent1.1.dmg">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 338 Kb
+<br>
+<a href="http://www.phil.uu.nl/~xges/ssh/">Home Page</a>
+<hr><a name = "sshkeychain"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/sshkeychain.gif"> <b>SSHKeychain 0.8.2</b>
+<br><br>
+You no longer have to cancel your ssh request because you forgot to load
+your keys. Because SSHKeychain acts as a gateway between you and the
+agent, it can automatically add keys when you need them. SSH will just
+pause for a few seconds, and you'll be on your way. SSHKeychain can also
+forward local ports over a ssh connection. Tunnels can be launched
+automatically when your keys are loaded, or from a menu item.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Bart Matthaei
+<li><b>Modification Date</b>: August 24, 2007
+<li><b>Requirements</b>: Mac OS X 10.2 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/sshkeychaindl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 613 Kb
+<br>
+<a href="http://www.sshkeychain.org/">Home Page</a>
+<hr><a name = "sshtunnelmanager"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/sshtunnelmanager.gif"> <b>SSH Tunnel Manager 1.0.3</b>
+<br><br>
+SSH Tunnel Manager is a front-end for the ssh command when used to open
+tunnels between two hosts. Its command lines are particulary long and
+confusing, especially for novices, and I never remember which argument
+comes first, if I have to open local or remote tunnels and so on...
+That's why I wrote this tool.
+<br>
+I tried to include all the important features people asked me to do
+since 1.0 version, so you can tune almost every usefull option available
+in the command line tool.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Tynsoe
+<li><b>Modification Date</b>: April 20, 2003
+<li><b>Requirements</b>: Mac OS X 10.2 or higher
+</ul>
+<a href="http://downloads.sourceforge.net/tunnelmanager/SSHTunnelManager-1.0.3.dmg.sit">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 443 Kb
+<br>
+<a href="http://projects.tynsoe.org/en/stm/">Home Page</a>
+<hr><a name = "telnetlauncher"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/telnetlauncher.gif"> <b>TelnetLauncher 2.8.13</b>
+<br><br>
+<br># Launch sessions with a custom keyboard shortcut!
+<br># Passwords are stored securely in your Keychain
+<br># Session can be made to automatically minimize to the dock
+<br># Set font and size for each session
+<br># Set Terminal Opaqueness for each session
+<br># Now allows users to specify terminal colors for each saved session
+<br># Works as the helper app for telnet://url/ links with IE5
+<br># Allows you to specify rows and columns for each session
+<br># Allows you to create custom terminal commands for fast access to unix commands like 'top'
+<br># Dock menu support makes access to sessions a groups a breeze
+<br># Multiple groups allows you to organize many sessions
+<br># Simple, easy to understand interface
+<br># Set port to non-standard port
+<br># Easily set up ssh port forwarding (secure tunneling)
+<br># Set terminal emulation for each session
+<br>
+<ul>
+<li><b>License</b>: Shareware, $20
+<li><b>Author/Publisher</b>: Jim McKay
+<li><b>Modification Date</b>: May 8, 2007
+<li><b>Requirements</b>: Mac OS X 10.1 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/telnetlauncherdl.html">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.3 MB
+<br>
+<a href="http://www.pidog.com/telnetlauncher/">Home Page</a>
+<hr><a name = "timbuktu"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/timbuktu.gif"> <b>Timbuktu Pro 8.7.1</b>
+<br><br>
+For more than fifteen years, Timbuktu Pro has been the standard for
+remote control on Mac OS, (it also works with Windows) allowing users to control distant computers as
+if they were sitting right in front of them. Now supporting multi-button
+and scroll wheel mouse commands and multiple user
+options to maximize bandwidth conservation, Timbuktu Pro remains the
+gold standard in remote control software. Already unparalleled in its
+ability to find other users and make a connection over virtually any
+LAN, Internet or dial-up configuration, Timbuktu Pro's improved Internet
+Locator Service adapts itself even to frequently-changed IP addresses,
+allowing you to find other users with only an email address.
+<br>
+It isn't only remote control - you can send files and folders without
+tying up email; send instant messages or text chat; even voice intercom!
+You can even view detailed system information about remote computers
+with a click of your mouse.
+<br>
+<ul>
+<li><b>License</b>: Demo, $95 for one computer
+<li><b>Author/Publisher</b>: Farallon
+<li><b>Modification Date</b>: May 9, 2008
+<li><b>Requirements</b>: Mac OS X 10.2.8 and higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/timbuktudl.html">Download</a><img alt="Download OSX" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 6.9 MB - 8.7.1 Demo
+<br>
+<a href="http://www.netopia.com/software/products/tb2/evaluate.html">Download Page
+</a>You'll need an evaluation key
+<br>
+<a href="http://www.netopia.com/software/products/tb2/mac/index.html">Home Page</a>
+<hr><a name = "tn3270"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/tn3270.gif"> <b>tn3270 3.2.4</b>
+<br><br>
+tn3270 allows a Macintosh computer with a TCP/IP network connection to negotiate a
+Telnet session emulating an IBM 3270 terminal.  Features of the emulation include color,
+extended highlighting, APL and 3179-compatible graphics.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Peter John DiCamillo/Brown University
+<li><b>Modification Date</b>: July 24, 2006
+<li><b>Requirements</b>: Mac OS X 10.1.5 or higher
+</ul>
+<a href="http://www.brown.edu/Facilities/CIS/tn3270/tn3270_X_3.2.4.dmg">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.7 MB - version 3.2.4
+<br>
+<a href="http://www.brown.edu/Facilities/CIS/tn3270/tn3270_X_3.1.7.dmg">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 337 Kb - version 3.1.7
+<br>
+<a href="http://www.brown.edu/Facilities/CIS/tn3270/tn3270_2.5b5.sit.hqx">Download</a><img alt="680x0" src="680x0.gif" border=0 hspace=3 width=12 height=12>
+File Size: 720 Kb - version 2.5b5
+<br>
+<a href="http://www.brown.edu/Facilities/CIS/tn3270/">Home Page</a>
+<hr><a name = "tunnelblick"></a>
+<img align=top width="32" height="32" alt="icon" src="images/tunnelblick.png"> <b>Tunnelblick 3.0b10</b>
+<br><br>
+Tunnelblick is a ready-to-use graphical OpenVPN client for Mac OS X. It
+comes as an application package with all binaries and drivers included,
+no manual installation necessary.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Angelo Laub
+<li><b>Modification Date</b>: November 20, 2008
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/tunnelblickdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.0 MB
+<br>
+<a href="http://code.google.com/p/tunnelblick/">Home Page</a>
+<hr><a name = "vapor"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/vapor.gif"> <b>Vapor 1.1</b>
+<br><br>
+Vapor is an innovative new application from Joel Rennich, co-founder of
+AFP548.com. Vapor harnesses the power of SSH to provide secure,
+encrypted VPN connections for AppleShare, WWW, Server Admin and other
+Internet services. Version 1.1 offers improved
+error checking, the ability to create reverse SSH tunnels, and an
+improved user interface.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Joel Rennich
+<li><b>Modification Date</b>: July 15, 2002
+<li><b>Requirements</b>: Mac OS X 10.1.5 or higher
+</ul>
+<a href="http://www.afp548.com/Software/Vapor/Vapor-11.sit">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.2 MB
+<br>
+<a href="http://www.afp548.com/Software/Vapor/index.html">Home Page</a>
+<hr><a name = "vaporsec"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/vaporsec.gif"> <b>VaporSec 1.0</b>
+<br><br>
+VaporSec an IPSec GUI client that will allow you to create incredibly
+secure connections between Mac OS X 10.2 machines - or between your
+machine and third party firewalls using the built-in IPSec capabilities
+of Mac OS X 10.2. VaporSec has currently been tested between Mac OS X
+10.2 machines and with a SonicWall firewall. We're actively looking for
+situations where this doesn't work so that we can tweak the code.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Joel Rennich
+<li><b>Modification Date</b>: June 6, 2003
+<li><b>Requirements</b>: Mac OS X 10.2 or higher
+</ul>
+<a href="http://members.aol.com/AFP548dotcom/VaporSec.dmg.sit">Download</a><img alt="Download OSX PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1 MB
+<br>
+<a href="http://www.afp548.com/Software/VaporSec/index.html">Home Page</a>
+<hr><a name = "osxvnc"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/vineserver.png"> <b>Vine 3.0</b>
+<br><br>
+Formerly OSXvnc.<br>
+Vine Server is a full featured VNC server for Mac OS X providing remote
+access to the GUI, keyboard and mouse using Vine Viewer or any other VNC
+client. Vine Server offers a rich and unique feature set among Mac OS X
+VNC servers including:
+<br>* Flexible port assignement for multiple VNC servers on a single computer
+<br>* System servers that run independently of user accounts
+<br>* Outstanding clipboard sharing; Exchange of rich text, images, files and applications when used with Vine Viewer
+<br><br>
+Vine Viewer is a feature-rich and well support VNC viewer. Some feature highlights of Vine Viewer include:
+<br>* Remote screen capture
+<br>* QuickTime movie recording
+<br>* Secure connections through SSH
+<br>* Viewer window scaling
+<br>Plus, when Vine Viewer is used with Vine Server a further unique benefit includes
+<br>* Rich clipboard support, including copy and past file exchange.
+<br>Vine Viewer has a wealth of uses: Helpdesk, education, remote system administration, telecommuting and family technical support, to name a few.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Redstone Software
+<li><b>Modification Date</b>: December 18, 2007
+<li><b>Requirements</b>: Mac OS X 10.3.9 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/vineserverdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 4.2 MB - Vine 3.0
+<br>
+<a href="http://www.pure-mac.com/downloads/os9vncdl.html">Download</a><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 218 Kb - OS9vnc 3.5
+<br>
+<a href="http://www.redstonesoftware.com/products/vine/server/vineosx/index.html">Home Page</a>
+<hr><a name = "vncdimension"></a>
+<img align=top width="32" height="32" alt="icon" src="images/vncdimension.png"> <b>VNCDimension 0.7.10</b>
+<br><br>
+VNCDimension is a Mac OS X application that lets you remote control
+other computers running a VNC server. This application supports multiple
+simultaneous sessions. You can find VNC servers for a variety of
+platforms, including X Window, Microsoft Windows, Mac OS, and Mac OS X.
+For best performance, match the color depth of the VNC server, the VNC
+session and your computer.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: mDimension Technology
+<li><b>Modification Date</b>: February 5, 2002
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://www.mdimension.com/Software/VNCDimension-0.7.10.dmg">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 357 Kb
+<br>
+<a href="http://www.mdimension.com/page/VNCDimension">Home Page</a>
+<hr><a name = "vncthing"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/vncthing.gif"> <b>VNCThing 2.2</b>
+<br><br>
+VNCThing is a VNC client for the Macintosh. It allows you to connect to remote computers and control them as if you were physically there.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Dair Grant
+<li><b>Modification Date</b>: December 9, 2000
+<li><b>Requirements</b>: Mac OS X and Mac OS 8.1 or higher
+</ul>
+<a href="http://www.mirrors.ausmac.net/ftp/Communication-SW/vncthing-22-carbon.bin">Download</a><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12><img alt="Download OSX" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 256 Kb
+<hr><a name = "viscosity"></a>
+<img align=top width="32" height="32" alt="icon" src="images/viscosity.png"> <b>Viscosity 1.0.3</b>
+<br><br>
+Viscosity is an OpenVPN client for Mac, providing a rich Cocoa graphical
+user interface for creating, editing, and controlling VPN connections.
+<br>
+<ul>
+<li><b>License</b>: Shareware, $9
+<li><b>Author/Publisher</b>: SparkLabs
+<li><b>Modification Date</b>: February 15, 2009
+<li><b>Requirements</b>: Mac OS X 10.5 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/viscositydl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 7.0 MB
+<br>
+<a href="http://www.viscosityvpn.com/">Home Page</a>
+<hr><a name = "vncviewer"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/vncviewer.gif"> <b>VNCViewer 2.0.1</b>
+<br><br>
+A VNC client.<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Robert Kedoin
+<li><b>Modification Date</b>: December 4, 2000
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://homepage.mac.com/kedoin/VNC/VNCViewer/VNCViewer_v2.01.sit">Download</a><img alt="Download OSX" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 206 Kb
+<br>
+<a href="http://homepage.mac.com/kedoin/VNC/VNCViewer/index.html">Home Page</a>
+<hr><a name = "vpntracker"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/vpntracker.gif"> <b>VPN Tracker 5.4.1</b>
+<br><br>
+Communication over the Internet requires secure solutions to facilitate
+connection of mobile workers and interconnection between branch offices.
+To support a mobile workforce companies turn to Virtual Private Network
+(VPN) technology, utilizing high speed Internet connections for remote
+access. Over a VPN telecommuters can access the company network through
+a secure tunnel over the Internet, eliminating the threat of
+unauthorized access.
+<br>
+VPN Tracker 3 is an application for Mac OS X that is simple to deploy,
+manageable and offers complete security to business sensitive
+information. The software provides seamless compatibility to most market
+leading VPN vendors and to over 150 gateway devices.
+<br>
+<ul>
+<li><b>License</b>: Demo, $72
+<li><b>Author/Publisher</b>: Equinux USA Inc.
+<li><b>Modification Date</b>: January 23, 2009
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/vpntrackerdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 15.9 MB
+<br>
+<a href="http://www.equinux.com/us/products/vpntracker/index.html">Home Page</a>
+<hr><a name = "vpntrackerserver"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/vpntrackerserver.gif"> <b>VPN Tracker Server 1.0.4</b>
+<br><br>
+VPN Tracker Server is an application to set up encrypted remote access
+connections for Mac OS X workgroups over standard Internet lines. The
+software runs as a VPN gateway for smaller companies and provides rapid
+deployment capabilities to any home or branch office through VPN Tracker
+Client.
+<br>
+VPN Tracker Server allows remote access for external users, and home or
+branch offices are able to connect securely to the office using VPN
+Tracker Client. The client / server architecture provides a bulletproof
+protection against illegal tampering, the encryption is based on the
+highly acclaimed IPsec protocol and by supporting AES-256, the software
+manages very-high security environments (Mac OS X Server is not needed).
+<br>
+<ul>
+<li><b>License</b>: Demo, $130
+<li><b>Author/Publisher</b>: Equinux USA Inc.
+<li><b>Modification Date</b>: September 30, 2004
+<li><b>Requirements</b>: Mac OS X 10.3 or higher
+</ul>
+<a href="http://www.equinuxusa.com/download/files/VPN_Tracker_Server_1.0.4.dmg">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 2.7 MB
+<br>
+<a href="http://www.equinux.com/us/products/vpntrackerserver/">Home Page</a>
+<hr><a name = "zterm"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/zterm.gif"> <b>ZTerm 1.1b7</b>
+<br><br>
+ZTerm is a terminal emulation program for the Macintosh. In its day,
+many people used it to connect to Bulletin Board Systems and download
+files. Now we have the internet. It's still a useful utility for those
+systems that only offer dialup connections and for connecting to devices
+through a serial port, like many routers. For newer Macintoshes that
+don't have a normal serial port, ZTerm can talk to ports on USB to
+serial adapters, through the appropriate driver software supplied with
+the adapter.
+<br>
+<ul>
+<li><b>License</b>: Shareware, $20
+<li><b>Author/Publisher</b>: David P. Alverson
+<li><b>Modification Date</b>: October 7, 2002
+<li><b>Requirements</b>: Mac OS X and Mac OS 8 or higher
+</ul>
+<a href="http://homepage.mac.com/dalverson/zterm/ZTerm1.1b7.OSX.dmg">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 176 Kb
+<br>
+<a href="http://homepage.mac.com/dalverson/zterm/ZTerm1.1b7.sit">Download</a><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 180 Kb
+<br>
+<a href="ftp://mirrors.aol.com/pub/info-mac/comm/term/zterm-101.hqx">Download</a><img alt="680x0" src="680x0.gif" border=0 hspace=3 width=12 height=12>
+File Size: 404 Kb - version 1.0.1
+<br>
+<a href="http://homepage.mac.com/dalverson/zterm/">Home Page</a>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9373990431833662";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+<br>
+<table border=0>
+<tr>
+<td width=250 height=60 align=left valign=top>
+<img alt="Intel" src="intel.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS X Intel Native</font><br>
+<img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS X Intel &amp; PPC Native</font><br>
+<img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS X PPC Native</font><br>
+<img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS 8/9 PPC Native</font><br>
+<img alt="680x0" src="680x0.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS 680x0 Native</font><br>
+<img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Non-OS Specific Code</font><br>
+</td>
+<td width=60 height=60 align=right valign=top>
+<img align=left width="32" height="32" alt="blank" src="images/blank.gif">
+</td>
+<td width=270 height=60 align=center valign=top>
+<center><a href="http://www.pure-mac.com/"><b>Back to the Main Page of Pure Mac</b></a></center>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</td>
+</tr>
+</table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8091377-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

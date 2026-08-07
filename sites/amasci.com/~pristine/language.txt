@@ -1,0 +1,324 @@
+Pure Mac: Language 
+
+ Language 
+
+ ASL Fingerspelling 
+ Diccionario 
+ English-German Dictionary 
+
+ English-Italian Dictionary 
+ English-Spanish Dictionary 
+ Language Assistant 
+
+ MacDICT 
+ Ultra Lingua French-English Dictionary 
+ Ultra Lingua German-English Dictionary 
+ Ultra Lingua Spanish-English Dictionary 
+
+ Verbs & Nouns 
+ Vocab 
+ WordCoach 
+ Word Translator 
+
+ Babelfish/AltaVista: Translations Translate any word/phrase from English - French,
+Egnlish - Italian, English - German, English - Portuguese, English - Spanish and vice versa.
+
+ ASL Fingerspelling 1.0 
+
+The program consists of three main sections:
+ The ASL Fingerspelling Dictionary is simply a guide to the letters of the
+alphabet. If you are new to sign language, we recommend you start with this.
+ The Fingerspelling Converter will take your words and convert them into sign. 
+This is a quick and fun way to get a feel for the language.
+ The Fingerspelling Quiz is the heart of the program. The program will show you a
+word, and you have to type it in correctly to move on. Speed can be adjusted by
+the slider at the bottom of the window, making this an ideal program for
+beginners and experts alike. And with over 45000 words in the dictionary, we're
+sure you won't get bored too quickly.
+
+ License : Freeware
+ Author/Publisher : Scott Gaertner
+ Modification Date : July 20, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1043 Kb
+
+ Home Page 
+
+ Diccionario 2.0 
+
+This application is just a little Spanish-English dictionary. It can also be used to translate from
+English to Spanish by using the Find function.
+
+ License : Freeware
+ Author/Publisher : Cliff Harris 
+ Modification Date : June 22, 1997
+ Requirements : 680x0 or PPC
+
+ Direct Download File Size: 199 Kb
+
+ Parent Directory 
+
+ English-German Dictionary 2.4 
+
+English-German Dictionary is an English/German dictionary for Mac users, containing English words with
+translations into German. You can find all the entries that contain any particular English or German word by typing or pasting the
+word into the Find box and pressing the Return key. The dictionary collects all the entries that match what you've
+entered, and displays the English and the German side-by-side. The user can easily create additional plug-in dictionaries to
+supplement the dictionary provided with the program. The program allows you to choose either English or German for the
+user interface language.
+
+ License : Shareware, $30
+ Author/Publisher : OneApp
+ Modification Date : August 23, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download File Size: 1587 Kb
+
+ Home Page 
+
+ English-Italian Dictionary 6.0 
+
+English-Italian is an English/Italian dictionary for Macintosh users, containing
+more than 23,000 English words with translations into Italian. You can find all
+the entries that contain any particular English or Italian word by typing or
+pasting the word into the Find box and pressing the Return key.
+
+ License : Shareware, $20
+ Author/Publisher : OneApp
+ Modification Date : October 30, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download File Size: 1693 Kb
+
+ Home Page 
+
+ English-Spanish Dictionary 3.0 
+
+Wecan English-Spanish Dictionary is an English/Spanish dictionary for Mac users,
+containing English words with translations into Spanish. You can find all the
+entries that contain any particular English or Spanish word by typing or pasting
+the word into the Find box and pressing the Return key. The dictionary collects
+all the entries that match what you've entered, and displays the English and the
+Spanish side-by-side. The user can easily create additional plug-in dictionaries
+to supplement the dictionary provided with the program. The program allows you to
+choose either English or Spanish for the user interface language.
+
+ License : Shareware, $20
+ Author/Publisher : OneApp
+ Modification Date : August 3, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download File Size: 1523 Kb
+
+ Home Page 
+
+ Language Assistant 2.5 
+
+Language Assistant is a Macintosh application consisting of several different
+dictionaries, and a translation system that translates to and from English,
+French, German, and several other languages. It makes use of DICT, a common
+protocol used for accessing word definitions around the world.
+
+ License : Shareware, $15
+ Author/Publisher : Xorsis Software
+ Modification Date : August 27, 2001
+ Requirements : PPC
+
+ Direct Download
+ File Size: 506 Kb
+
+ Home Page 
+
+ MacDICT 2.0.1 
+
+MacDICT lets you access a growing number of databases,
+including Websters Dictionary, for free! Other databases include
+the US Gazetter and the Free Online Dictionary of Computing.
+MacDict also lets you translate between a number of different languages.
+
+ License : Freeware
+ Author/Publisher : Navdeep Bains 
+ Modification Date : July 5, 2001
+ Requirements : PPC
+
+ Direct Download
+ File Size: 920 Kb
+
+ Home Page 
+
+ Ultra Lingua French-English Dictionary 3.4.1 
+
+(formerly Le Franglophile)
+This is an extensive, thorough French-English dictionary, designed by language and data
+professionals for use by students and experts alike. It contains nearly 100,000 key words and tens of
+thousands of secondary entries and sample phrases.
+
+ License : Shareware, $25
+ Author/Publisher : Ultra Lingua, Inc.
+ Modification Date : October 10, 2001
+ Requirements : 680x0 or PPC, System 7.5 or higher and Mac OS X
+
+ Direct Download File Size: 1498 Kb - Classic version
+
+ Direct Download File Size: 1315 Kb - Carbon version
+
+ Home Page 
+
+ Ultra Lingua German-English Dictionary 3.4.1 
+
+Over 250,000 indexed items, including over a hundred thousand translations, and tens of thousands of secondary entries.
+ Indications of literary, slang, and vulgar usage, and indications for usage (including synonyms, accompanying prepositions, general categories, and more).
+ Thousands of technical terms.
+ A reverse translationfeature, which helps show how various choices translate backinto the departure language (an essential tool for zeroing in on the right word or expression). 
+ English and German pronunciation by voice synthesis.
+ Drag & Drop, allowing you to drag words between Ultra Lingua and other applications.
+ Fully network-ready.
+ Tables showing translations of numbers, the calendar, and expressions of time.
+ All this at blinding speed, using surprisingly little memory.
+ grammatical notes concerning irregular forms (plurals, past participles, future stems, etc.).
+ The marking of English and American usage and spelling.
+
+ License : Shareware, $25
+ Author/Publisher : Ultra Lingua, Inc.
+ Modification Date : October 10, 2001
+ Requirements : 680x0 or PPC, System 7.5 or higher and Mac OS X 
+
+ Direct Download File Size: 1760 Kb - Classic version
+
+ Direct Download File Size: 1559 Kb - Carbon version
+
+ Home Page 
+
+ Ultra Lingua Spanish-English Dictionary 3.4.1 
+
+Over 250,000 indexed items, including over a hundred thousand translations, and tens of thousands of secondary entries.
+ Indications of literary, slang, and vulgar usage, and indications for usage (including synonyms, accompanying prepositions, general categories, and more).
+ Thousands of technical terms.
+ A reverse translationfeature, which helps show how various choices translate backinto the departure language (an essential tool for zeroing in on the right word or expression). 
+ English and Spanish pronunciation by voice synthesis.
+ Drag & Drop, allowing you to drag words between Ultra Lingua and other applications.
+ Fully network-ready.
+ Tables showing translations of numbers, the calendar, and expressions of time.
+ All this at blinding speed, using surprisingly little memory.
+ grammatical notes concerning irregular forms (plurals, past participles, future stems, etc.).
+ The marking of English and American usage and spelling.
+
+ License : Shareware, $25
+ Author/Publisher : Ultra Lingua, Inc.
+ Modification Date : October 10, 2001
+ Requirements : 680x0 or PPC, System 7.5 or higher and Mac OS X
+
+ Direct Download File Size: 1921 Kb - Classic version
+
+ Direct Download File Size: 1739 Kb - Carbon version
+
+ Home Page 
+
+ Verbs & Nouns 2.4.4 
+
+Verbs & Nouns is a sophisticated application program for practicing inflection, translation and pronunciation at
+the level of single words. Along with the program, you need a plug-in module for the target language concerned.
+Features include inflection exercises, and translation exercises in both directions; the opportunity to record and
+play sound for single words; and exercises based on sound.
+
+ License : Shareware, $10
+ Author/Publisher : Jacek Iwanski 
+ Modification Date : July 23, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download File Size: 2019 Kb - Verbs & Nouns Application
+
+ Direct Download File Size: 3480 Kb - Verbs & Nouns Lookup 1.3.8 Application -
+
+ Plug-in Modules 
+ Direct Download File Size: 328 Kb - English Nouns
+
+ Direct Download File Size: 473 Kb - Italian Nouns
+
+ Direct Download File Size: 688 Kb - Italian Verbs
+
+ Direct Download File Size: 299 Kb - Modern Greek Verbs
+
+ Direct Download File Size: 899 Kb - Polish Adjectives
+
+ Direct Download File Size: 1803 Kb - Polish Nouns
+
+ Direct Download File Size: 898 Kb - Polish Verbs
+
+ Direct Download File Size: 3839 Kb - Russisch Verbs & Nouns
+
+ Direct Download File Size: 361 Kb - Spanish Nouns
+
+ Simple Dictionaries These are databases created with the Verbs & Nouns application. They contain the foreign
+language words, their translations, grammar information, and comments. The component-programs of the 'Language Toolkit'
+can access this information to perform various activities like translation, exercises, browsing etc. 
+ Direct Download File Size: 2798 Kb - Dictionary of Computing
+
+ Direct Download File Size: 2244 Kb - English to German Dictionary
+
+ Direct Download File Size: 852 Kb - English to Polish Dictionary
+
+ Direct Download File Size: 2153 Kb - English to Spanish Dictionary
+
+ Home Page 
+
+ Vocab 1.8.1 
+
+Learning vocabulary is one of the hardest aspects of a foreign language.
+Easy and enjoyable to use, Vocab helps you quickly build the vocabulary you
+want. Whatever language you want to master, Vocab will prove invaluable.
+Already winning praise from language-learners and teachers, this powerful
+program is proving better than flashcards, infinitely better than plodding
+through a dictionary. Vocab's intelligent test modes help you learn words
+faster and more easily.
+
+ License : Shareware, $18
+ Author/Publisher : Angus Gratton 
+ Modification Date : November 12, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download File Size: 1506 Kb - Vocab
+
+ Direct Download File Size: 2784 Kb - Vocab Scheduler
+
+ Home Page 
+
+ WordCoach 2.2.2 
+
+WordCoach is the ideal supplement to a language course. Words will be asked and your answer will be
+checked. Wrong answers will be tested again. The Program switch automatic to the next lesson.
+Various languages possible (Examp.: German-English, English-Japanese, French-Spanish).
+You can create your own dictionarys.
+
+ License : Shareware, $20
+ Author/Publisher : Edwin Buhler 
+ Modification Date : May 17, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download File Size: 4571 Kb - WordCoach Application
+
+ Home Page - Check the Home Page for various dictionaries
+
+ Word Translator 4.1 
+
+Word Translator is a natural language word translation application. It will translate to and from English with the following languages:
+German, French, Dutch, Russian, Danish and Croation. The demo is the full program, not limited in any way except that it will expire after a few weeks. There are also only two dictionaries included,
+English-Spanish and English-French. The full selection of dictionaries is available on the Word Translator for the Mac CD which includes 12 of the
+most popular languages.
+
+ License : Demo, varied pricing ranging from $40 to $225 per language depending on number of entries
+ Author/Publisher : Haldor Gislason
+ Modification Date : February 19, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 2409 Kb - Demo
+
+ Direct Download
+ File Size: 2409 Kb - 4.1 updater
+
+ Home Page 
+
+ Back to the main page of Pure Mac

@@ -1,0 +1,442 @@
+HTML clipboard 
+
+ Ronald E. Bowser 
+ Ronald E. Bowser 
+ 2001-03-30T13:27:04Z 
+ 1996-09-17T05:26:50Z 
+ 2001-05-05T13:14:14Z 
+ 9.4402 
+
+ 16 
+ #8080FF 
+
+ 17 
+ #802060 
+
+ 18 
+ #FFFFC0 
+
+ 19 
+ #A0E0E0 
+
+ 20 
+ #600080 
+
+ 22 
+ #0080C0 
+
+ 23 
+ #C0C0FF 
+
+ 33 
+ #69FFFF 
+
+ 36 
+ #A6CAF0 
+
+ 37 
+ #CC9CCC 
+
+ 39 
+ #E3E3E3 
+
+ 42 
+ #339933 
+
+ 43 
+ #999933 
+
+ 44 
+ #996633 
+
+ 45 
+ #996666 
+
+ 48 
+ #3333CC 
+
+ 49 
+ #336666 
+
+ 52 
+ #663300 
+
+ 55 
+ #424242 
+
+ Entry Status 
+
+ 264 
+
+ 68 
+ -2 
+ 300 
+
+ 3 
+ 36 
+ 2 
+
+ 3 
+
+ 2 
+ 48 
+ 16 
+
+ False 
+ False 
+ False 
+
+ Column A 
+
+ Column B 
+
+ 26569 
+ entry_status_26569 
+ SourceSheet 
+ HtmlStatic 
+
+ 15606 
+ entry_status_15606 
+ SourcePrintArea 
+ HtmlStatic 
+
+ Sheet3 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet4 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet5 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet6 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet7 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet8 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet9 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet10 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet11 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet12 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet13 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet14 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet15 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet16 
+
+ 264 
+ False 
+ False 
+ False 
+
+ 6300 
+ 12120 
+ 0 
+ 36 
+
+ False 
+ False 
+
+ EntryTimes 
+ ='Entry Status'!$A$3:$K$70 
+
+ HTML_CodePage 
+
+ =1252 
+
+ HTML_Control 
+
+ ={"'Entry Status'!$A$1:$L$57"} 
+
+ HTML_OBDlg2 
+
+ =FALSE 
+
+ HTML_OBDlg3 
+
+ =TRUE 
+
+ HTML_OBDlg4 
+
+ =TRUE 
+
+ HTML_OS 
+
+ =0 
+
+ HTML_PathFile 
+
+ ="f:\iwpa\9899\entry_status.htm" 
+
+ HTML_PathTemplate 
+
+ ="F:\IWPA\9899\entry_status_template.htm" 
+
+ HTML1_1 
+
+ ="'[entry_status.xls]Entry Status'!$A$1:$K$15" 
+
+ HTML1_11 
+
+ =1 
+
+ HTML1_12 
+
+ ="D:\www\WebPages\iwpa\entry_status.htm" 
+
+ HTML1_2 
+
+ =-4146 
+
+ HTML1_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML2_1 
+
+ ="'[entry_status.xls]Entry Status'!$A$3:$K$15" 
+
+ HTML2_11 
+
+ =1 
+
+ HTML2_12 
+
+ ="D:\www\WebPages\iwpa\MyHTML.htm" 
+
+ HTML2_2 
+
+ =-4146 
+
+ HTML2_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML3_1 
+
+ ="'[entry_status.xls]Entry Status'!$A$3:$K$3" 
+
+ HTML3_11 
+
+ =1 
+
+ HTML3_12 
+
+ ="D:\www\WebPages\iwpa\MyHTML.htm" 
+
+ HTML3_2 
+
+ =-4146 
+
+ HTML3_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML4_1 
+
+ ="'[entry_status.xls]Entry Status'!$A$1:$K$16" 
+
+ HTML4_11 
+
+ =1 
+
+ HTML4_12 
+
+ ="D:\www\WebPages\iwpa\entry_status.htm" 
+
+ HTML4_2 
+
+ =-4146 
+
+ HTML4_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML5_1 
+
+ ="'[entry_status.xls]Entry Status'!$A$1:$K$17" 
+
+ HTML5_11 
+
+ =1 
+
+ HTML5_12 
+
+ ="D:\www\WebPages\iwpa\entry_status.htm" 
+
+ HTML5_2 
+
+ =-4146 
+
+ HTML5_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML6_1 
+
+ ="'[entry_status.xls]Entry Status'!$B$1:$K$17" 
+
+ HTML6_11 
+
+ =1 
+
+ HTML6_12 
+
+ ="D:\www\WebPages\iwpa\entry_status.htm" 
+
+ HTML6_2 
+
+ =-4146 
+
+ HTML6_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML7_1 
+
+ ="'[entry_status.xls]Entry Status'!$A$1:$K$19" 
+
+ HTML7_11 
+
+ =1 
+
+ HTML7_12 
+
+ ="D:\www\WebPages\iwpa\entry_status.htm" 
+
+ HTML7_2 
+
+ =-4146 
+
+ HTML7_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML8_1 
+
+ ="'[entry_status.xls]Entry Status'!$C$1:$K$19" 
+
+ HTML8_11 
+
+ =1 
+
+ HTML8_12 
+
+ ="D:\www\WebPages\iwpa\entry_status.htm" 
+
+ HTML8_2 
+
+ =-4146 
+
+ HTML8_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTMLCount 
+
+ =8 
+
+ Print_Area 
+ 1 
+ ='Entry Status'!$A$1:$N$73 
+
+ PullsByCity 
+ ='Entry Status'!$A$3:$F$70 
+
+ IWPA 2001/2002 Pull Entry/Distribution
+ Status 
+
+ Yellow have not been
+ received 
+
+ Received, not entered 
+ Entered, Not Posted 
+ Entered, Not Sent to Newsletter 
+
+ 1st Date 
+ Last Date 
+
+ Location 
+ State 
+ Reg 
+ Pull #s 
+ Received 
+ Entered 
+ Online 
+ Mailed NL 
+ In NL 
+ Web Calendar 
+ Mailed Sample to Organizer 
+
+ 05-May 
+
+ Last update this page

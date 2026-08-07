@@ -1,0 +1,405 @@
+Pure Mac: Auctions - Software for Macintosh 
+
+ Auctions 
+
+ Web 
+
+ Pure-Mac.com 
+
+ AuctionGenie 
+ Auction Hunter 
+
+ AuctionSieve 
+ Baywatch 
+
+ BidNobble 
+ CALC 
+ GarageBuy 
+
+ GarageSale 
+ iSale 
+
+ JBidWatcher 
+ MarketBlast 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ AuctionGenie 4.1.4 
+
+AuctionGenie is a Mac OS X program that manages selling, bidding,
+tracking, and related activities for auctions listed on the eBay web
+site at http://www.ebay.com/. You can use it to create and list your own
+auctions, automate bidding at specified times, track the status of
+auctions you're interested in (even those for which you have not yet
+placed bids), prepare transaction reports, send feedback, and manage
+post-auction transactions such as payment and delivery. It is the most
+advanced and automated software of its kind for the Macintosh.
+
+ License : Shareware, $50/year
+ Author/Publisher : Luxcentral Enterprises
+ Modification Date : September 26, 2008
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 11.6 MB
+
+ Home Page 
+
+ Auction Hunter 1.2.5 
+
+Auction Hunter is a native Cocoa application for OS X, built to make your life easier on
+eBay. It allows you to monitor auctions that you are interested in bidding on, or that you
+would like to simply observe and store for future reference.
+
+ License : Shareware, $30
+ Author/Publisher : PowerSolutions
+ Modification Date : February 19, 2009
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 4.1 MB
+
+ Home Page 
+
+ AuctionSieve 1.9.7 
+
+I thought to myself, "there has to be some way of filtering all this
+information."
+
+So I did a search for some software and didn't find anything. "Time to
+write something myself", I thought. And that's what I did! At first the
+software did save some time but it could always do with improvements. So
+I added them. "Ah, now this is even better." Over time I've added and
+altered until one day I realised, "Hey - this software is pretty useful
+- maybe other people will want to use it..." and AuctionSieve was born!
+
+Now you too can use AuctionSieve to find the real bargains on eBay and
+target the auctions you're really interested in.
+
+ License : Freeware
+ Author/Publisher : Hashbang Pty Ltd
+ Modification Date : April 21, 2009
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 474 Kb
+
+ Home Page 
+
+ Baywatch 1.0 
+
+Are you tired of checking your "My eBay" account for soon ending
+auctions or getting unreliable reminder mails? Take a closer look at
+Baywatch.
+
+It catches the actual auction opened in your frontmost browser window
+and sticks it right into iCal. You can specify the reminder alarm in the
+preferences and if you wish to add another auction the "Refresh button"
+is your friend. Adding an auction to iCal is as simple as reopening the
+auction by clicking the URL in the event information. So you can easily
+organize your eBay auctions and never bother about any missed
+opportunities.
+
+ License : Freeware
+ Author/Publisher : LittleAppleScripts
+ Modification Date : October 21, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 410 Kb
+
+ Home Page 
+
+ BidNobble 0.6.1 
+
+BidNobble is a Java based auction tool for eBay users. You can track
+eBay auctions and the snipe tool allows you to schedule your bid to be
+placed seconds before the auction ends, avoiding driving the price high
+early in the auction's life.
+ Features
+ Allows you to track auctions with prioritised update recording to the time left.
+ Snipe tool allows you to schedule your bid to be placed seconds before the auction ends, avoiding driving the price high early in the auction's life.
+ Clock on main window synchronized to eBay time.
+ Secure login to eBay via SSL.
+ Supported sites: eBay.de, eBay.com, eBay.com.au, eBay.com.cn, eBay.co.uk, eBay.fr, ebay.at, ebay.be, ebay.ch, ebay.es, ebay.it, ebay.nl (more coming soon).
+ Sorting of auctions.
+ Multiple users support.
+ Works on any Java enabled platform (e.g. Windows, Mac, Unix, Linux, BSD, etc...).
+ It's easy to use
+ It's free of charge.
+
+ License : Freeware
+ Author/Publisher : bidnobble.com
+ Modification Date : April 19, 2008
+ Requirements : Mac OS X
+
+ Download 
+File Size: 420 Kb
+
+ Home Page 
+
+ CALC 6.5.2 
+
+CALC is every auction seller's dream tool. It is the premier Macintosh &
+PC Auction utility that combines listing creation with auction tracking.
+You can create professional HTML auction listings without knowing HTML
+and with simple mouse-point-click ease.
+
+CALC saves you time and makes a better looking listing. That means
+bidders think you are a pro and will bid higher.
+
+CALC has been compatible with Ebay&reg; since 1998 when it was first
+released. In fact, CALC was the first Mac auction software to be
+released for OS X. Changes in Ebay's category system don't affect CALC
+and you never have to worry if your software will stop working or need a
+costly upgrade before you can use it. No other software does so much for
+so little! Not to mention it works with other sites like ROL, Yahoo
+Auctions and it's internationalized so it works in countries all around
+the globe.
+
+ License : Shareware, $10
+ Author/Publisher : Cycline3
+ Modification Date : May 2, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.8 MB
+
+ Home Page 
+
+ GarageBuy 1.5.5 
+
+Are you looking for something on eBay but tired of eBay's slow web site?
+Finally there is a better way! Now you can use a slick, full-featured
+client application for all of your search and purchasing on eBay.
+Welcome to GarageBuy.
+
+ License : Freeware
+ Author/Publisher : Iwascoding
+ Modification Date : October 20, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.6 MB
+
+ Home Page 
+
+ GarageSale 5.2 
+
+GarageSale is a client application for the eBay online auction system.
+It allows Mac OS X users to create auctions quickly using an intuitive
+mac-like interface, integrates with iPhoto and offers WYSIWYG text
+editing.
+
+ License : Shareware, $25
+ Author/Publisher : Iwascoding
+ Modification Date : February 13, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 25.7 MB
+
+ Home Page 
+
+ iSale 5.5.2 
+
+Have you used eBay before? Have you already auctioned off a few things,
+but find the eBay website simply too complicated? Click here, look for a
+picture there, click "next" and then again on "preview" only to have to
+click back again... a never ending story.
+
+We have the solution for you! iSale will impress with its slick,
+user-friendly OS X layout and easy to manage menus. iSale takes care of
+eBay - so sit back and enjoy your own virtual podium. iSale - the new
+iLife application.
+
+ License : Shareware, $40
+ Author/Publisher : Equinux
+ Modification Date : April 29, 2009
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 68.0 MB
+
+ Home Page 
+
+ JBidWatcher 2.0 
+
+A Java-based application allowing you to monitor auctions you're not
+part of, submit bids, snipe (bid at the last moment), and otherwise
+track your auction-site experience. It includes adult-auction
+management, MANY currencies (yen, pound, dollar (US, Canada, Australian,
+and New Taiwanese), Swiss Francs, and euro, presently), drag-and-drop of
+auction URLs, a unique and powerful 'multisniping' feature, a relatively
+nice UI, and is known to work cleanly under Linux, Windows, Solaris, and
+MacOSX from the same binary. 
+Currently it is only implemented for eBay, but it is abstracted suitably
+to work with any online auction site with a minimum of changes.
+
+ License : Freeware
+ Author/Publisher : CyberFox
+ Modification Date : February 14, 2009
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.5 MB
+
+ Home Page 
+
+ MarketBlast 2.0 
+
+The second generation of software designed exclusively for eBay sellers,
+MarketBlast was made with simple goals in mind. To enable users to sell
+more, spend less, and save time. Find out more about what MarketBlast
+can do for you!
+
+Dare to compare! Get a rundown of all MarketBlast features, and compare
+them to what you're currently using to sell on eBay. From inventory
+management to consignment, customer relationship management to business
+analysis, MarketBlast is packed with everything you need to succeed.
+We're convinced you'll want to give it a test drive.
+
+ License : Demo, $99
+ Author/Publisher : 4D Inc.
+ Modification Date : May 1, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 54.6 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

@@ -1,0 +1,1301 @@
+Pure Mac: Web Editors - Software for Macintosh 
+
+ Web Editors 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Also, check the Web Graphics and Graphics pages. 
+The Site Management page contains Find & Replace Tools, Link Checkers, Log Analyzers, Optimizers and Validators. 
+
+ Blogs 
+ CSS 
+ Intermediate 
+ PHP/SQL 
+ Template 
+ Text Editors 
+ WYSIWYG 
+ XML/XHTML Editors 
+
+ BlogAssist 
+ Blog.Mac 
+ ecto 
+ iBlog 
+ MarsEdit 
+ Xjournal 
+
+ Cascade Light 
+ CSSEdit 
+ Flux 
+ Style Master 
+ Xylescope 
+
+ Coda 
+ Contribute 
+ Daktari 
+ GoodPage 
+ HTML Creator 
+ Mozilla 
+ PageSpinner 
+ Taco HTML Edit 
+ Tumult HyperEdit 
+ WebDesign 
+
+ Aqua Data Studio 
+ CocoaMySQL 
+ Forms To Go 
+ Navicat MySQL 
+ Navicat PostgreSQL 
+ phpMyAdmin 
+ PHP Studio 
+ SQLEditor 
+ SQL4X Manager 
+ SQLGrinder 
+ YourSQL 
+ Zend Studio 
+
+ Goldfish 
+ iWeb 
+ RapidWeaver 
+ Sandvox 
+
+ BBEdit 
+ skEdit 
+ Smultron 
+ SubEthaEdit 
+ TextMate 
+ TextWrangler 
+
+ Create 
+ Dreamweaver 
+ Freeway 
+ GoLive 
+ KompoZer 
+ Mozilla 
+ Nvu 
+
+ EditiX 
+ Flux 
+ oXygen XML Editor 
+ SEEdit 
+ XML Editor 
+ XML-RPC Client 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Aqua Data Studio 6.5.7 
+
+Aqua Data Studio is a database query tool and administration tool that
+allows developers to easily create, edit, and execute SQL scripts, as
+well as browse and visually modify database structures. Aqua Data Studio
+provides an integrated database environment with a single consistent
+interface to all major relational databases. This allows the database
+administrator or developer to tackle multiple tasks simultaneously from
+one application.
+
+ License : Demo, $399
+ Author/Publisher : John Haxor
+ Modification Date : November 24, 2007
+ Requirements : Mac OS X 10.2.3 or higher
+
+ Download 
+File Size: 32.5 MB
+
+ Home Page 
+
+ BBEdit 8.7.2 
+
+BBEdit is a high-performance text and HTML editor for the Macintosh. 
+BBEdit is designed for the editing, searching, transformation,
+and manipulation of text. It provides an array of
+general-purpose features which are useful for many tasks, and
+includes many features which have been specifically developed
+in response to the needs of HTML authors and software
+developers.
+
+ License : Demo, $125
+ Author/Publisher : Bare Bones Software
+ Modification Date : December 17, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 15.4 MB - Demo 8.7.2
+
+ Download 
+File Size: 15.3 MB - 8.7.2 Updater
+
+ Home Page 
+
+ BlogAssist 2.1.2 
+
+BlogAssist is a handy tool to help weblog and website editing by making HTML markup easier.
+ There are three easy ways to use it: you can use whichever one you prefer, or all three as desired.
+ 1. The System Menu: BlogAssist adds a small menu to the right-hand side of the
+menubar in all applications. You can simply select and copy some text into the clipboard,
+choose a suitable operation from the menu, then paste the result in the desired location.
+The text will have been transformed like magic.
+ 2. The Services Menu: BlogAssist also appears in the Services menu, available in
+most applications.
+ 3. The Floating Window: This is similar to the Services menu panel, but can be left
+open as long as you like. It floats above all other windows, always available. It can be
+hidden and shown via the BlogAssist system menu. With the floating window displayed, you
+simply drag text to one or both of its Value fields, choose an operation from the included
+pop-up menu, then drag the formatted HTML from the Result field. Like the Services panel,
+this window includes a convenient preview of how the HTML will be rendered in a web page.
+
+ License : Shareware, $10
+ Author/Publisher : Dejal
+ Modification Date : December 3, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ Blog.Mac 1.2.2 
+
+Blog.Mac is the easy to use Blogging solution built just for Apple's
+.Mac service. Unlike other blogging solutions built for the Mac or for
+the web, Blog.Mac was made to get your blog on the web quickly and
+easily while staying out of your way with complex interfaces or
+extraneous options.
+
+Blog.Mac combines the standard blogging technologies with the
+innovations standard on the Mac OS X platform. Using Blog.Mac, you'll be
+able to show what's playing on your iTunes (with automatic live
+updates), use your iSight as a live WebCam, publish your Blog posts as
+an RSS feed, and archive your Blog in one, easy step.
+
+ License : Shareware, $30 
+ Author/Publisher : Largemouth Software, LLC
+ Modification Date : April 3, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 6.4 MB
+
+ Home Page 
+
+ Cascade Light 3.0 
+
+Cascade makes it easy to design the presentation style of your 
+website. It is a comprehensive Cascading Style Sheets editor that gives 
+you full control of CSS presentation style without requiring detailed 
+knowledge of the technical specifications.
+browser.
+
+ License : Freeware
+ Author/Publisher : Terje Norderhaug/Media Design in Progress 
+ Modification Date : August 4, 2005
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 3.2 MB - version 3.0
+
+ Download 
+File Size: 2.9 MB - version 2.0
+
+ Download 
+File Size: 1.3 MB - version 1.0
+
+ Home Page 
+
+ CocoaMySQL 0.7b5 
+
+CocoaMySQL is an application used to manage MySQL databases (locally or over the
+internet). It lets you add and remove databases and tables, change fields and indexes,
+view and filter the content of tables, add, edit and remove rows, perform custom queries
+and dump tables or entire databases.
+
+ License : Freeware
+ Author/Publisher : Lorenz Textor
+ Modification Date : November 1, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 1.4 MB
+
+ Home Page 
+
+ Coda 1.1 
+
+So, we code web sites by hand. And one day, it hit us: our web workflow
+was wonky. We'd have our text editor open, with Transmit open to save
+files to the server. We'd be previewing in Safari, running queries in
+Terminal, using a CSS editor, and reading references on the web. "This
+could be easier," we realized. "And much cooler."
+
+ License : Shareware, $79
+ Author/Publisher : Panic
+ Modification Date : November 30, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 18.2 MB
+
+ Home Page 
+
+ Contribute CS3 
+
+Adobe Contribute CS3 software enables anyone to quickly and easily
+update existing websites and blogs while maintaining the look and feel
+imposed by Adobe Dreamweaver templates. With Contribute CS3, content
+authors can post and publish content to multiple websites and blogs from
+a single application or publish directly from within Microsoft Office
+applications with the click of a button.
+
+ License : Demo, $149
+ Author/Publisher : Adobe
+ Modification Date : April 16, 2007
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 387 MB - CS3 Demo
+
+ Home Page 
+
+ Create 14.1 
+
+Create is a professional page layout, illustration and web page
+authoring application with many advanced features, and a surprisingly
+simple interface.
+
+ License : Demo, $150
+ Author/Publisher : Stone Design
+ Modification Date : November 27, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 19.8 MB
+
+ Home Page 
+
+ CSSEdit 2.6 
+
+CSSEdit features full-blown source editing for the advanced user. With
+one click you transform the easy to use visual editors into a mighty
+source code environment.
+
+Besides standard coding features such as syntax coloring, find and
+replace, go to line and auto-indentation, CSSEdit offers intelligent
+auto-complete. It will never suggest double properties, is fully context
+sensitive, and remembers the items you use most. What does this mean in
+practice? That the time you spend typing properties and their values
+will be drastically reduced!
+
+ License : Shareware, $30
+ Author/Publisher : MacRabbit
+ Modification Date : October 24, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ Daktari 1.1 
+
+Daktari brings a familiar metaphor to managing web site projects with
+unique features for editing web pages. As web site projects are added to
+Daktari's Library, all of the web pages and image files are listed in a
+Library List view. Double-clicking a web page in the Library List view
+opens the page into Daktari's Head and Body views for editing. While
+editing, the page may be saved and previewed by clicking Daktari's View
+icon.
+
+In addition to organizing and quick access to the pages and images of
+web site projects, Daktari provides unique features for writing web
+pages, including Unicode support. Daktari is designed to allow copy to
+be pasted or entered into a new web page and subsequently select
+portions of the text for markup, choosing markup commands from Daktari's
+menus. Drop-down panels simplify creating CSS style definitions, images,
+and scripts. Daktari colors the web page code to make reading and
+recognizing the page's parts easier.
+
+ License : Shareware, $25
+ Author/Publisher : IdleWild
+ Modification Date : November 17, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.8 MB
+
+ Home Page 
+
+ Dreamweaver CS3 
+
+Design, develop, and maintain standards-based websites and applications
+ - from start to finish - with Adobe Dreamweaver CS3 software. Work the
+way you work best using either a visual layout interface or a
+streamlined coding environment. Enjoy a faster workflow and intelligent
+integration with other Adobe software, including Photoshop CS3,
+Fireworks CS3, Flash CS3 Professional, and Contribute CS3.
+
+ License : Demo, $399
+ Author/Publisher : Adobe
+ Modification Date : April 16, 2007
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 596 MB - CS3 Demo
+
+ Home Page 
+
+ ecto 2.4.2 
+
+ecto is a feature-rich desktop blogging client for MacOSX and Windows,
+supporting a wide range of weblog systems, such as Blogger, Blojsom,
+Drupal, MovableType, Nucleus, TypePad, WordPress, and more.
+
+ License : Shareware, $18
+ Author/Publisher : Kula Co, Ltd.
+ Modification Date : January 11, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 4.2 MB
+
+ Home Page 
+
+ EditiX 5.2.2 
+
+A cross-platform powerful and easy to use XML editor.
+
+ License : Shareware, $85
+ Author/Publisher : JAPISoft
+ Modification Date : April 10, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 15.0 MB
+
+ Home Page 
+
+ Flux 1.0.15 
+
+Flux is an app for the Mac for designing XHTML/CSS websites.
+You can do Web 2.0, AJAX, and most other buzzword-compliant things.
+
+ License : Shareware, $49
+ Author/Publisher : The Escapers
+ Modification Date : October 1, 2007
+ Requirements : Mac OS X 10.4.9 or higher
+
+ Download 
+File Size: 15.8 MB
+
+ Home Page 
+
+ Forms To Go 3.2.5 
+
+Create scripts in PHP, ASP or Perl. Add professional scripts in your web
+site to process HTML forms and send the field values thru email without
+a knowledge of programming. Scripts can be in PHP, ASP or Perl language.
+Forms To Go is a very simple and powerful application that creates
+scripts in PHP, ASP and Perl to process your HTML forms and send all the
+form's field values thru email or save them in a text file on your
+server.
+
+ License : Shareware, $25
+ Author/Publisher : Bebosoft, Inc.
+ Modification Date : September 10, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 13.7 MB
+
+ Home Page 
+
+ Freeway 4.4.2 
+
+Freeway Pro and Freeway Express are unique in the world of Web design
+applications. Unlike so-called WYSIWYG applications (which are often
+little more than warmed over word-processors) or hard-core programmers'
+text editors, they free you to build Web sites in a purely visual design
+mode. That's because they are code generators, not editors.
+
+ License : Demo, Pro $250, Express $99
+ Author/Publisher : SoftPress
+ Modification Date : December 20, 2007
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 91.0 MB - Demo
+
+ Updates Page 
+
+ Home Page 
+
+ Goldfish 2.1.1 
+
+This fish is small but smart: Goldfish can create your individual
+websites in a few simple steps. With it's special, easy to use
+interface, you can place items on your page using drag and drop: no code
+required. Even a beginner can create a professsional website with
+Goldfish.
+
+For instantaneous page creation, Goldfish contains many stylish templates.
+
+ License : Shareware, $35
+ Author/Publisher : Fishbeam Software
+ Modification Date : November 25, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 10.9 MB
+
+ Home Page 
+
+ GoLive 9.0 
+
+Professional, standards-based Web and mobile authoring
+
+Adobe GoLive 9 software allows both web professionals and graphic
+designers to visually create sophisticated, CSS-based content. Design
+graphics in other Adobe applications and bring them to the web with
+ease, using familiar tools and concepts. Then, publish your site to the
+web with easy-to-use site management tools similar to those found in
+Adobe Bridge.
+
+ License : Demo, $399 
+ Author/Publisher : Adobe
+ Modification Date : June 8, 2007
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 323 MB - Demo
+
+ Home Page 
+
+ GoodPage 1.3.1 
+
+HTML/CSS editing and site management made easy.
+
+ License : Demo, $99
+ Author/Publisher : Tari
+ Modification Date : October 31, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ HTML Creator 3.5.1 
+
+HTML Creator is an award winning shareware HTML editor for Mac OS 8.6
+and above created with the intermediate user in mind (although beginners
+and advanced users are welcome too)! HTML Creator features 'assistants'
+that write the HTML code for you and allow you at all times to be in
+control. Leave any field blank and that attribute won't be added - not
+like other similar programs. HTML Creator also features more advanced
+tools such as JavaScripts, CSS, Frameset tools, and Server Side Includes
+as well productivity enhancements such as an easy to use HTML Reference,
+ScratchPad, Shortcuts, the ability to open and save files from FTP
+servers, and more.
+
+ License : Shareware, $15
+ Author/Publisher : Aram Kudurshian
+ Modification Date : March 13, 2003
+ Requirements : Mac OS X and Mac OS 8.6 and higher
+
+ Download 
+File Size: 3.6 MB
+
+ Home Page 
+
+ iBlog 2.0rc2 
+
+iBlog is an elegant desktop weblogging application that makes authoring
+and publishing your personal weblogs (a.k.a blogs) a breeze. Unlike
+other weblogging systems, You don't have to be an expert database
+administrator or a perl programmer to setup and use iBlog. With a single
+click on the publish button you can publish your blogs to your iDisk.
+Optionally you can copy the entire folder of locally published pages to
+your own web server.
+
+ License : Shareware, $20
+ Author/Publisher : Lifli Software
+ Modification Date : April 18, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 8.2 MB
+
+ Home Page 
+
+ iWeb 2.0.2 
+
+Let iWeb help you build a beautiful website in minutes using
+Apple-designed templates. Just choose a website theme that fits your
+style. Each theme offers page templates for "About Me," photo album,
+blog, podcast, and movie pages, so you'll always have the perfect place
+for your content. Use the iLife Media Browser to drag in your photos,
+movies, and podcasts, then simply type over the placeholder text on your
+page template, and click once to publish to .Mac.
+
+ License : Updater, Purchase with iLife for $79
+ Author/Publisher : Apple
+ Modification Date : September 27, 2007
+ Requirements : Mac OS X 10.4.9 or higher, iLife Support 8.1
+
+ Download 
+File Size: 17.0 MB - iWeb 2.0.2 updater (for iLife '08)
+
+ Download 
+File Size: 7 MB - iLife Support 8.1
+
+ Download 
+File Size: 22.7 MB - iWeb 1.1.2 updater - September 28, 2006
+
+ Home Page 
+
+ KompoZer 0.7.10 
+
+KompoZer is a complete web authoring system that combines web file
+management and easy-to-use WYSIWYG web page editing.
+
+KompoZer is designed to be extremely easy to use, making it ideal for
+non-technical computer users who want to create an attractive,
+professional-looking web site without needing to know HTML or web
+coding.
+
+KompoZer is based on Gecko, the layout engine inside Mozilla; it's a
+super-fast, very reliable, standards conformant engine maintained on a
+daily basis by a wide community of developers. Its remarkable support of
+XML, CSS and JavaScript offers the best authoring platform on the
+market. Its architecture based on XUL makes it the most extensible
+editing tool ever.
+
+ License : Freeware
+ Author/Publisher : KompoZer Project
+ Modification Date : September 5, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 84 MB
+
+ Home Page 
+
+ MarsEdit 2.0.5 
+
+MarsEdit is a weblog editor for Mac OS X that makes weblog writing like
+writing email - with spell-checking, drafts, multiple windows, and even
+AppleScript support.
+
+It works with various weblog systems: Blosxom, Conversant, Manila,
+Movable Type, Radio UserLand, TypePad, WordPress, and others.
+
+ License : Shareware, $25
+ Author/Publisher : Red Sweater Software
+ Modification Date : December 31, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 3.3 MB
+
+ Home Page 
+
+ Mozilla 1.7.13 
+
+The Mozilla project maintains choice and innovation on the Internet by
+developing the acclaimed, open source, Mozilla web and email suite and
+related products and technology.
+ For web browsing, email, HTML editing, IRC chat, and more
+
+ License : Freeware
+ Author/Publisher : The Mozilla Organization
+ Modification Date : April 15, 2006
+ Requirements : Mac OS X
+
+ Download 
+File Size: 13.5 MB
+
+ Download 
+File Size: 15.2 MB - version 1.2.1
+
+ Home Page 
+
+ Navicat MySQL 7.0.11 
+
+Navicat is a powerful MySQL database administration and development tool
+that is not only sophisticated enough for professional developers, but
+also easy to learn for new users. With an user-friendly GUI, Navicat
+lets you quickly and easily create, organize, access and share
+information in a secure and convenient way. Navicat supports multiple
+MySQL server connections which can be connected locally or remotely.
+Your remote MySQL server can be running on Linux, Unix, Mac OS X or
+Windows platform.
+
+ License : Demo, $99
+ Author/Publisher : Premiumsoft CyberTech Ltd
+ Modification Date : December 9, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 9.1 MB
+
+ Home Page 
+
+ Navicat PostgreSQL 7.0.4 
+
+Navicat is a powerful PostgreSQL database administration and
+development tool that is not only sophisticated enough for professional
+developers, but also easy to learn for new users. With an user-friendly
+GUI, Navicat lets you quickly and easily create, organize, access and
+share information in a secure and convenient way.
+
+Navicat supports multiple PostgreSQL server connections which can be
+connected locally or remotely. Your remote PostgreSQL server can be
+running on Linux, Unix, Mac OS X or Windows platform.
+
+ License : Demo, $99
+ Author/Publisher : Premiumsoft CyberTech Ltd
+ Modification Date : November 13, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 9.6 MB
+
+ Home Page 
+
+ Nvu 1.0 
+
+Finally! A complete Web Authoring System for Linux Desktop users as
+well as Microsoft Windows and Macintosh users to rival programs like
+FrontPage and Dreamweaver. Nvu (pronounced N-view, for a "new view")
+makes managing a web site a snap. Now anyone can create web pages and
+manage a website with no technical expertise or knowledge of HTML
+
+ License : Freeware
+ Author/Publisher : Nvu
+ Modification Date : June 28, 2005
+ Requirements : Mac OS X 10.1.5 or higher
+
+ Download 
+File Size: 11.7 MB
+
+ Home Page 
+
+ oXygen XML Editor 9.1 
+
+The simple and elegant look of the oXygen combined with the complete
+coverage of the XML editing features have made it popular in both the
+corporate and academic worlds. It provides the necessary tools for the
+document creation and presentation.
+
+The documents can be created and validated against any user defined
+schema. The smart context sensitive editing saves time and guarantees a
+minimum number of validation errors. The documents can be published in a
+wide range of formats including HTML, PDF, PostScript using the built-in
+or external processors. Developers can use oXygen for authoring
+document schemas and for editing and debugging the XSL stylesheets
+needed for the presentation layer. The integration with the document
+repositories is made through the WebDAV and FTP protocols.
+
+ License : Demo, $148
+ Author/Publisher : SyncRO Soft
+ Modification Date : December 17, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 42.8 MB
+
+ Home Page 
+
+ PageSpinner 5.0 
+
+PageSpinner is the easy-to-use, professional HTML editor for Mac OS
+supporting HTML 3.2, HTML 4, XHTML, PHP, SSI plus additional Netscape
+Navigator and Internet Explorer extensions and a built-in JavaScript
+generator.
+
+The editor gives you quick access to often used formatting and also
+supports online help to help you compose your own Web pages.
+
+PageSpinner features built-in FTP support, customizable syntax
+color-coding of JavaScript, PHP, Cascading Style Sheets, support for
+Server Side Includes, integration with Apache and the Terminal in OS X,
+and more!
+
+ License : Shareware, $30
+ Author/Publisher : Optima System
+ Modification Date : May 1, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 5.8 MB
+
+ Home Page 
+
+ phpMyAdmin 2.11.4 
+
+phpMyAdmin is a tool written in PHP intended to handle the
+administration of MySQL over the Web. Currently it can create and drop
+databases, create/drop/alter tables, delete/edit/add fields, execute any
+SQL statement, manage keys on fields, manage privileges,export data into
+various formats and is available in 50 languages.
+
+ License : Freeware
+ Author/Publisher : phpMyAdmin Team
+ Modification Date : January 12, 2008
+ Requirements : Mac OS X
+
+ Download 
+File Size: 4.1 MB
+
+ Home Page 
+
+ PHP Studio 1.1 
+
+PHP Studio is a complete, elegant, and hugely usable PHP code editor. We
+designed it from the ground up with the user in mind. Featuring some of
+the most powerful code editing available for Mac, from extensible syntax
+coloring to integrated auto complete, PHP Studio isn't an extension to
+your PHP development workforce; it is your workforce. All of the things
+you need when writing PHP are instantly available, with the ability to
+execute and test your code with a single click.
+
+ License : Shareware, $25
+ Author/Publisher : Neometric Software
+ Modification Date : July 7, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ RapidWeaver 3.6.5 
+
+RapidWeaver is a next-generation web design application to help you
+easily create professional looking web sites in minutes. No knowledge of
+complex code is required, RapidWeaver will take care of all that for
+you.
+
+RapidWeaver comes with a host of page styles specially designed for you
+to share your thoughts, photos, movies, files and much more. Standard
+page styles include Blog, Contact Form, File Sharing, HTML, Movie Album,
+Photo Album, Styled Page (WYSIWYG), Quicktime and more.
+
+ License : Shareware, $35
+ Author/Publisher : Realmac Software
+ Modification Date : November 19, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 23.2 MB
+
+ Home Page 
+
+ Sandvox 1.2.6 
+
+Sandvox makes website creation elegant, intuitive and fun. It's the
+Macintosh way - the way it should be: drag and drop content, watch your
+site take shape as you create it, and publish. Sandvox makes it easy to
+keep in touch via the Web with friends, family and customers.
+
+ License : Demo, $39 - Pro $69
+ Author/Publisher : Karelia
+ Modification Date : January 7, 2008
+ Requirements : Mac OS X 10.4.4 or higher
+
+ Download 
+File Size: 25.8 MB
+
+ Home Page 
+
+ SEEdit 2008 r1 
+
+SEEdit XHTML/HTML Editor. With SEEdit's fast and powerful Editor Toolbox
+insertion of code and classes is always just one click away. SEEdit's
+handy advanced Tag Editor also handles CSS classes and Javascript
+functions. Other powerful features to assist professionals and hobbyists
+worldwide include Tidy Checker for standards-compliant code, the Quick
+CSS Tool for rapid CSS development, extensive Multi-language support and
+Auto Complete.
+
+ License : Shareware, $30
+ Author/Publisher : Sven E Olsson
+ Modification Date : January 5, 2008
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 10.3 MB
+
+ Home Page 
+
+ skEdit 4.0 
+
+skEdit features customizable syntax highlighting for HTML, ColdFusion,
+CSS, PHP, JavaScript, ASP, Perl, and Python. You can change colors, add
+new keywords, etc. Keywords can be defined using regular expressions, or
+just as plain-text keywords.
+
+As you type HTML, ColdFusion, MovableType tags, or CSS, skEdit will
+present possible completions in a menu. Pressing return inserts the
+completion.
+
+skEdit's integrated SFTP (Secure File Transfer Protocol) support allows
+you to both transfer and edit files on a remote server that supports
+SFTP.
+ And many more features.
+
+ License : Shareware, $25
+ Author/Publisher : Sean Kelly
+ Modification Date : December 15, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 7.8 MB
+
+ Home Page 
+
+ Smultron 3.3 
+
+Smultron is an open-source text editor written in Cocoa for Mac OS X
+Panther with many of the features that you might need. It features easy
+selection of the opened documents, line numbers, support for syntax
+colouring for many different languages, support for text encodings, code
+snippets, a toolbar, a status bar, HTML preview, multi-document find and
+replace with regular expressions, possibility to show invisible
+characters, authenticated saves, command-line utility, .Mac
+synchronisation of preferences and many more features.
+
+ License : Freeware
+ Author/Publisher : Peter Borg
+ Modification Date : November 27, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 4.6 MB
+
+ Home Page 
+
+ SQLEditor 1.3.9 
+
+SQLEditor is a tool that allows you to create basic SQL databases
+graphically. You can create the tables and fields using a drag and drop
+approach, then edit and export the database as an SQL file.
+
+ License : Shareware, $69
+ Author/Publisher : MalcolmHardie Solutions
+ Modification Date : April 23, 2007
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 2.8 MB
+
+ Home Page 
+
+ SQL4X Manager 3.5 
+
+SQL4X Manager J is a unique tool to access and manage your database
+server with Mac OS X. SQL4X Manager J automatically recognizes your
+database server and helps you to do your work with more than 80
+assistants and tools - from table and user management to SQL queries
+with syntax coloring, data transfer and reporting.
+
+ License : Demo, $59
+ Author/Publisher : InterServices New Media
+ Modification Date : May 11, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 4.4 MB
+
+ Home Page 
+
+ SQLGrinder 2.0.5 
+
+Advenio SQLGrinder is a native Mac OS X SQL editor and developer tool
+that gives you the tools to make your database development easier. Using
+SQLGrinder you can create, edit and execute SQL queries. You can browse
+your database schema. With SQLGrinder, you can easily connect to any
+database that has a JDBC driver. Because SQLGrinder is built using
+Apple's Cocoa framework, SQLGrinder looks and feels like a Macintosh OS
+X application should, not like an application made on another platform
+and ported to OS X.
+
+ License : Shareware, $50
+ Author/Publisher : Advenio LLC
+ Modification Date : April 17, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 6.0 MB
+
+ Home Page 
+
+ Style Master 4.6 
+
+Style Master - is a user friendly cascading style sheet editor, suitable for the
+developer new to style sheets as well as the style sheet master. Its a must for anyone
+who wants to work with style sheets. Style Master lets you create and edit fully
+compliant css1 and cssp style sheets with point and click ease work around browser
+limitations by targetting specific browsers and sets of browsers preview style sheets
+using any HTML file in any or every web browser easily integrate your style sheets
+with your web sites. Style Master includes a comprehensive HTML manual, as well as
+an extensive tutorial on cascading style sheets.
+
+ License : Shareware, $60
+ Author/Publisher : Western Civilization
+ Modification Date : November 7, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 14.3 MB
+
+ Home Page 
+
+ SubEthaEdit 3.0.2 
+
+SubEthaEdit is a powerful and lean text editor. And it's the only
+collaborative one you can actually use. By combining the ease of
+Bonjour with the world's best text collaboration engine, it makes
+working together not only possible but even fun.
+
+ License : Shareware, $35
+ Author/Publisher : TheCodingMonkeys
+ Modification Date : December 4, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.7 MB
+
+ Home Page 
+
+ Taco HTML Edit 1.7.3 
+
+Taco HTML Edit is a full-featured HTML editor and PHP editor distributed
+as freeware. As an HTML editor, Taco HTML Edit empowers its users to
+rapidly create their own web sites. It is designed exclusively for Mac
+OS X and has many advanced features including image mapping, spell checking, live
+browser previewing, PHP previewing, syntax checking, and much more.
+
+ License : Freeware
+ Author/Publisher : Taco Software
+ Modification Date : July 25, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ TextMate 1.5.7 
+
+TextMate attempts to bring Apple's approach to operating systems into
+the world of text editors. By bridging UNIX underpinnings and GUI,
+TextMate cherry-picks the best of both worlds to the benefit of expert
+scripters and novice users alike. With a wealth of exclusive features
+like tabs, foldings, and macros, TextMate is well ahead of other native,
+graphical editors on OS X - and you don't have to sell your bones to
+afford it.
+
+ License : Shareware, $50
+ Author/Publisher : MacroMates
+ Modification Date : October 26, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 9.9 MB
+
+ Home Page 
+
+ TextWrangler 2.3 
+
+TextWrangler 2 is the powerful general purpose text editor, and Unix and
+server administrator's tool.
+ What is a text editor? At its most basic, a text editor is a tool
+for simply editing text. You can use a text editor for a wide variety of
+tasks from cleaning up data, to editing configuration files on your Mac
+or server, to writing HTML or coding.
+
+ License : Freeware
+ Author/Publisher : Bare Bones Software
+ Modification Date : January 15, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 10.9 MB
+
+ Home Page 
+
+ Tumult HyperEdit 1.5.3 
+
+Tumult HyperEdit is a lightweight HTML editor with a preview pane that
+displays the web page live as you type. HyperEdit breaks the tedious
+cycle of writing html, saving the file, then reloading and viewing the
+page in the browser by combining the writing phase with the viewing
+phase. This clarifies the effects of your changes and speeds up the
+overall process of making a web page. W3C-based validation will
+red-underline any mistakes. It uses the same rendering engine found in
+Safari, so it is not only standards compliant, but also very fast.
+
+ License : Shareware, $20
+ Author/Publisher : Tumult Co.
+ Modification Date : November 29, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 3.9 MB
+
+ Home Page 
+
+ WebDesign 2.8 
+
+The fully featured HTML Editor and web authoring software, WebDesign
+gives you full control over your web site code, design and structure
+allowing you to develop fast, effective and the most compatible web
+sites possible. Providing support for HTML, XHTML, Cascading Style
+Sheets, PHP, Javascript, ASP, XML, VBScript and more, WebDesign comes
+ready to work with all your web site documents. WebDesign includes
+everything you need from writing your web page, making sure it works ok
+in all web browsers and then getting it online with the FREE web hosting
+included with your purchase!
+
+ License : Shareware, $30
+ Author/Publisher : Rage Software
+ Modification Date : July 20, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 7.1 MB
+
+ Home Page 
+
+ Xjournal 1.0.5 
+
+Xjournal is a Mac OS X client for the Livejournal.com weblog service. It
+supports a number of advanced features that are not available in any
+other client.
+
+ License : Freeware
+ Author/Publisher : Fraser Speirs
+ Modification Date : May 16, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 1.7 MB
+
+ Home Page 
+
+ XML Editor 2.39 
+
+XML Editor is a clean, simple and powerful graphical XML editing and
+validation tool. XML Editor has Unicode support, allowing working with
+XML in any language.
+
+ License : Shareware, $55
+ Author/Publisher : ElfData
+ Modification Date : November 21, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 5.3 MB
+
+ Home Page 
+
+ XML-RPC Client 1.6 
+
+XML-RPC Client is a free Cocoa-based developer tool for Mac OS X Tiger
+that allows you to access and debug XML-RPC web services from the
+comfort of your desktop.
+
+ License : Freeware
+ Author/Publisher : Todd Ditchendorf
+ Modification Date : July 6, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 159 Kb
+
+ Home Page 
+
+ Xylescope 1.2.2 
+
+Xylescope has been designed and developed for looking underneath the
+surface of web pages as you surf the web - it couldn't be easier. Using
+Xylescope you can look forward to analysing complex CSS designs with
+incredible ease and experimenting with third-party sites, without having
+to download them onto your own computer first.
+
+ License : Shareware, $15
+ Author/Publisher : Cultured Code
+ Modification Date : October 25, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 1.8 MB
+
+ Home Page 
+
+ YourSQL 1.8.0e 
+
+YourSQL is a simple but powerful program to create and manipulate MySQL
+databases. It is intended to be easy to use for the beginner as well as
+the more advanced user, and provides access to some otherwise underused,
+advanced features of MySQL, such as indices, InnoDB tables,
+multi-statement SQL scripts and multi-threaded handling of SQL dumps for
+backups or similar administration tasks.
+
+ License : Freeware
+ Author/Publisher : Ludit s.r.l.
+ Modification Date : June 29, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 7.5 MB
+
+ Home Page 
+
+ Zend Studio 5.5 
+
+Zend Studio is the only Integrated Development Environment (IDE)
+available for professional developers that encompasses all the
+development components necessary for the full PHP application lifecycle.
+Through a comprehensive set of editing, debugging, analysis,
+optimization and database tools, Zend Studio speeds development cycles
+and simplifies complex projects.
+
+ License : Demo, Enterprise - $499 - Professional $299 - Standard $99
+ Author/Publisher : Zend Technologies Ltd.
+ Modification Date : December 5, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 44.6 MB - Demo
+
+ Download Page 
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

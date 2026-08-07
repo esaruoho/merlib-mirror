@@ -1,0 +1,1330 @@
+Pure Mac: Business - Software for Macintosh 
+
+ Business 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Accounting 
+ Groupware 
+ Point of Sale/ Inventory 
+ Project Managers 
+ Time/Expense Tracking 
+
+ Accounts 
+ Big Business 
+ Connected 
+ Corona 
+ MoneyWorks 
+ MultiLedger 
+ MYOB 
+ Payroll 
+ QuickBooks 
+ TinyBooks 
+
+ BusySync 
+ Contactizer 
+ CommuniGate 
+ Daylite 
+ FirstClass 
+ GroupCal 
+ Lotus Notes 
+ Now Up-to-Date & Contact 
+ SOHO Organizer 
+
+ Checkout 
+ ezBusiness 
+ Intelliscanner 
+ LightSpeed 
+
+ ConceptDraw Project 
+ Daylite 
+ FastTrack 
+ GanttPV 
+ iTaskX 
+ Merlin 
+ OmniPlan 
+ PowerCard 
+ Project X 
+ Studiometry 
+ xTime Project 
+
+ Billable 
+ Billings 
+ iBiz 
+ Invoice 
+ iRatchet 
+ MacBusiness 
+ MileageSaver 
+ OfficeTime 
+ Project Calculator 
+ ReceiptWallet 
+ Stone Hill Invoicer 
+ TaskTime 
+ TimeCache 
+ TimeEqualsMoney 
+ TimeLog 
+ TimeNet 
+ TimeSlice 
+ Time Tracker 
+ WorkTimer 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Accounts 1.9.5 
+
+Accounts is an intuitive accounting application that gives you the power
+to manage your small business and personal finances. Accounts lets you
+create accounts, record transactions, reconcile your bank and credit
+card accounts, create financial reports and produce sales invoices and
+purchase orders that use information from your OS X Address Book. Your
+financial information is clearly displayed in a single window that lets
+you stay on top of your finances at a glance.
+
+ License : Shareware, $35
+ Author/Publisher : Nano Software
+ Modification Date : December 9, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.5 MB
+
+ Home Page 
+
+ Big Business 6.0.7 
+
+Big Business combines sales automation, a marketing database, contact
+management, inventory tracking, and full-featured accounting to run your
+entire company. While you concentrate on serving your customers and
+increasing sales, Big Business works behind the scenes to manage sales
+quotes, mailing lists, stock levels, shipments, payments, receivables,
+and more. Designed especially for businesses that buy or sell products,
+Big Business has 90 company templates for retail, wholesale,
+distribution, and more. And, with its multi-user, client/server version
+or Web Server add-on, Big Business grows with your company to help you
+make it big!
+
+ License : Demo, $595 per User
+ Author/Publisher : Big Business, Inc.
+ Modification Date : January 22, 2009
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 21.2 MB - Client version 6.0.7
+
+ Download 
+File Size: 37.1 MB - Server 6.0.7
+
+ Home Page 
+
+ Billable 1.2.4 
+
+Billable is an application for Mac OS X that helps you keep track of the billable services
+you perform for a client and then lets you create and manage invoices based on those
+services.
+
+ License : Shareware, $25
+ Author/Publisher : Clickable Bliss
+ Modification Date : January 21, 2009
+ Requirements : Mac OS X 10.4.4 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ Billings 3.0.4 
+
+As a busy Mac professional, you can count on the power and simplicity of Billings 2 to
+streamline your quoting, time tracking, and invoicing. Get up and running in less than
+five minutes thanks to an intuitive setup assistant and simple, real-world workflow.
+Conveniently track time from any application using the menubar timer or instant hot keys.
+Impress your clients with polished, professional, and fully customizable estimates and
+invoices.
+
+ License : Shareware, $59
+ Author/Publisher : Marketcircle Inc.
+ Modification Date : March 25, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 29.9 MB
+
+ Home Page 
+
+ BusySync 2.1.8 
+
+BusySync allows multiple users to share and edit iCal calendars on a
+local area network or over the internet without the need for a dedicated
+server.
+
+ License : Shareware, $20
+ Author/Publisher : BusyMac, LLC
+ Modification Date : October 20, 2008
+ Requirements : Mac OS X 10.4.9 or higher
+
+ Download 
+File Size: 2.3 MB
+
+ Home Page 
+
+ Communigate 5.2.13 
+
+Based on the open standards, the product provides an integrated platform
+for "store-and-forward" (E-mail, Calendaring) and Real-Time (VoIP,
+Video, Instant Messaging, White Boards) communications.
+
+The Internet messaging server application implementing: Multi-domain
+support with and without IP multihoming, multi-mailbox accounts and
+shared mailboxes, Internet mail exchange service using the ESMTP
+protocol, anti-spam mechanisms, and much more.
+
+ License : Demo, $500
+ Author/Publisher : Stalker Software
+ Modification Date : March 9, 2009
+ Requirements : Mac OS X 10.0 or higher
+
+ Download 
+File Size: 19.3 MB
+
+ Download 
+File Size: 19.3 MB
+
+ Home Page 
+
+ ConceptDraw Project 5.0 
+
+Increase your overall business performance through efficient planning
+and management of multiple projects. ConceptDraw Project offers a
+comprehensive managerial toolset for you to effectively start, track and
+report projects.
+
+ License : Demo, $199
+ Author/Publisher : Computer Systems Odessa
+ Modification Date : July 3, 2008
+ Requirements : Mac OS X 10.4.10 or higher
+
+ Download 
+File Size: 206 MB - Part of ConceptDraw Office
+
+ Home Page 
+
+ Connected 5.4 
+
+Connected is a powerful mid-range accounting solution designed for both
+Macintosh and Windows operating systems. Connected consists of three
+modules that are fully integrated: Core Accounting, Inventory Control,
+and Job Costing.
+
+ License : Demo, $695
+ Author/Publisher : Accountek
+ Modification Date : November 5, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 85.0 MB
+
+ Home Page 
+
+ Corona 3.1 
+
+Corona provides invoicing, purchasing, payroll and general form entry
+with its already familiar check register, account chart features and
+full range of accounting reports.
+
+Corona makes use of popup selectors for choosing names and accounts,
+expandable views with adjustable font size, and online help.
+
+Invoices and Purchases can be used for recording time and materials. An
+integrated address index includes options for creating letters and
+preaddressed email. Custom logos may be added to invoices and letters.
+
+Full-featured payroll accounting stores tax rates, employee data, and
+payroll transactions. Corona produces reports for employees, monthly
+posting entries, payroll tax quarterlies, and payroll advices to
+accompany employee paychecks.
+
+ License : Shareware, $65
+ Author/Publisher : R Charles Flickinger
+ Modification Date : February 17, 2009
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 17.8 MB
+
+ Home Page 
+
+ Checkout 2.3.2 
+
+Checkout is the powerful, yet easy to use point of sale system for the
+rest of us. Together with a Mac and the right peripherals, Checkout
+offers a complete solution for your retail business at an affordable
+price.
+
+ License : Demo, $399
+ Author/Publisher : madebysofa
+ Modification Date : January 30, 2009
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 31.9 MB
+
+ Home Page 
+
+ Contactizer 3.7.2 
+
+ Organize & access all contact activities in a single centralized view.
+ Real-time sharing of all your calendar, contacts and tasks with colleagues in only one mouse click.
+ Complete view of all your communications and immediate access.
+ Prioritize and organize your work with unlimited color-coded categories.
+ Customize mouse actions and instant editing of any element.
+
+ License : Demo, Pro $119 - Express $59
+ Author/Publisher : Objective Decision
+ Modification Date : April 1, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 33.1 MB - Contactizer Pro 3.7.2
+
+ Download 
+File Size: 31.0 MB - Contactizer Express 3.7.2
+
+ Home Page 
+
+ Daylite 3.9.1 
+
+Designed for the unique needs of Mac-based businesses of 1-50 people,
+Daylite 3 is a new generation of productivity management software.
+Daylite 3's time-saving features include shared calendars, seamless
+integration with Apple Mail, project and activity delegation, multiple
+pipeline views, a built-in report writer, sophisticated offline
+capabilities, and a clean, easy-to-use interface.
+
+ License : Demo, $149
+ Author/Publisher : Marketcircle
+ Modification Date : April 8, 2008
+ Requirements : Mac OS X 10.4.11 or higher
+
+ Download 
+File Size: 54.1 MB
+
+ Home Page 
+
+ ezBusiness 1.5 
+
+ezBusiness is an easy to use point of sales, inventory, and sales
+management software for small businesses. It features a full featured
+search engine and a shopping cart for processing sales. It is built to
+work with a keyboard interface barcode reader.
+
+ License : Shareware, $70
+ Author/Publisher : Mien Software
+ Modification Date : July 22, 2006
+ Requirements : Mac OS X 10.1 or highe
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ FastTrack Schedule 9.2.2 
+
+FastTrack Schedule 9 makes it easy to organize, track, and manage all
+your project details. New consolidation and schedule-building tools help
+you plan more efficiently, keeping your projects on track and within
+budget. FastTrack Schedule delivers descriptive project snapshots that
+are sure to make an impact with clients and colleagues.
+
+ License : Demo, $349
+ Author/Publisher : AEC Software
+ Modification Date : June 12, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 30.6 MB
+
+ Home Page 
+
+ FirstClass Client 9.124 
+
+FirstClass is a cost-effective, highly scalable, feature-rich messaging and communications
+solution for schools and school districts, learning organizations and businesses. At the
+foundation of our award-winning FirstClass Communications Platform is our Collaborative
+Groupware, which provides our users with the ability to effectively communicate and share
+valuable resources and information via email, conferencing, directories, individual and
+shared calendars and online chats. FirstClass has been used by thousands of organizations
+to create powerful online electronic communities that enable individuals and groups of
+people to work more effectively.
+
+ License : Freeware Client - Server $various pricing schemes
+ Author/Publisher : Open Text Corporation
+ Modification Date : March 19, 2009
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 20.1 MB - version 9.124
+
+ Download 
+File Size: 4.8 Kb - version 8.102
+
+ Downloads 
+
+ Home Page 
+
+ GanttPV 0.11 
+
+GanttPV is named for a report that has become almost synonymous with
+project management, the gantt chart. Most people have used or at least
+seen them. GanttPV can be used to create gantt charts and export them as
+web pages. But GanttPV doesn't stop there. Management of a particular
+project may require the tracking of many different kinds of information.
+GanttPV can be extended to fill a variety of project management needs.
+
+ License : Freeware
+ Author/Publisher : Brian Christensen
+ Modification Date : March 26, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 16.8 MB
+
+ Home Page 
+
+ GroupCal 3.94 
+
+Feel like you are living on an island when it comes to calendaring on OS X in a company
+running Exchange?
+
+Introducing Groupcal. Now you can take full advantage of the all the group calendaring
+features of Exchange directly from Apple iCal. Finally, view and share your calendar
+schedules quickly, easily, and transparently with your coworkers running Outlook. All with
+no need to install additional software on your Exchange server.
+
+Groupcal for your calendars - Apple Mail for your Exchanged-based email ... the more
+"pure" OS X approach!
+
+ License : Shareware, $55
+ Author/Publisher : Snerdware
+ Modification Date : October 18, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 4.0 MB
+
+ Home Page 
+
+ iBiz 3.1.14 
+
+iBiz is an easy to use time-billing and invoicing application. It
+integrates with iCal and Address Book, offers tax support, easily
+generates custom invoices and does all data saving behind the scenes for
+you. This is the most intuitive time-billing application out there.
+Essential for anyone self employed.
+
+ License : Demo, $50
+ Author/Publisher : IGG Software, LLC
+ Modification Date : November 25, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 6.6 MB
+
+ Home Page 
+
+ Intelliscanner 
+
+Adding barcodes to your business can be this easy. Our flagship business
+scanning system is ready to bring barcode automation with award-winning
+IntelliScanner barcode technology and software -- just plug it into any
+USB port and start scanning. Use included Inventory, Media Collector,
+and xTagger tools for an instant tracking solution for any type of item
+in your business, effortlessly scan barcodes into any application with
+advanced keyboard emulation, or extend your solution with a variety of
+useful software add-ons and asset tags.
+
+IntelliScanner Pro includes IntelliScanner Business Essentials -- three
+commercial applications that make inventory management, media tracking,
+and asset tag creation fast, easy, and hassle free.
+ Inventory - Barcode-enabled inventory control that's easy to use
+ Collection - Automatically organize books, DVDs, CDs, and games
+ xTagger - The easy way to build customized asset tags on your Mac or PC
+
+ License : Demo, $299
+ Author/Publisher : IntelliScanner Corporation
+ Modification Date : December 31, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 73.4 MB
+
+ Home Page 
+
+ Invoice 3.0.8 
+
+Invoice is an invoice application with many features. The goal was to
+make a Mac friendly application with all required features for mac
+users.
+
+ License : Shareware, $105
+ Author/Publisher : KediSoft
+ Modification Date : November 28, 2008
+ Requirements : Mac OS X 10.4.6 or higher
+
+ Download 
+File Size: 11.0 MB
+
+ Home Page 
+
+ iRatchet 1.87 
+
+iRatchet is an Invoicing and Billing application written
+in Objective-C/Cocoa. iRatchet provides the features and functionality
+common to billing and invoicing apps, (tracking hourly and fixed
+entries, multiple clients/projects, timers, pdf output, emailing of
+invoices, etc.), it excells in workflow, mileage tracking, web
+integration and ease-of-use.
+
+ License : Shareware, $45
+ Author/Publisher : Pretty Good Software
+ Modification Date : March 26, 2000
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.6 MB
+
+ Home Page 
+
+ iTaskX 2.5 
+
+TaskX has always provided the support you need for professional project
+management. Our latest version is even more powerful without sacrificing
+the simple and intuitive interface that helped make iTaskX such a
+success. Whether your job calls for managing large construction
+projects, sophisticated media activities or detailed time schedules,
+iTaskX 2 adapts to your needs. It can give you the complete story behind
+your tasks, dates and costs, or the big picture status on the overall
+project if that's what you need. iTaskX 2 helps you organize, monitor
+and administer your tasks so you can spend more time managing your
+projects and less time learning to use your project management software.
+
+ License : Demo, $100
+ Author/Publisher : Techno Grafik
+ Modification Date : November 5, 2008
+ Requirements : Mac OS X 10.4.2 or higher
+
+ Download 
+File Size: 5.8 MB
+
+ Home Page 
+
+ LightSpeed 2.8.2 
+
+LightSpeed is a ground-breaking, next-generation Point of Sale system
+for Mac that offers retail stores comprehensive and easy-to-use retail
+tools in an iTunes-like Browser, and an innovative floating POS
+interface designed for high-speed, error-free checkout. A
+tightly-integrated Web Store module (sold separately) allows stores to
+take their product catalog online and download orders right back into
+LightSpeed. All of this functionality is built on a powerful, multi-user
+database that will scale to satisfy the needs of any growing retail
+business.
+
+ License : Demo, $749
+ Author/Publisher : Xsilva Systems
+ Modification Date : April 9, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 132 MB
+
+ Home Page 
+
+ Lotus Notes 8.5 
+
+IBM Lotus&reg; Notes&reg;, the premier integrated client option for IBM Lotus
+Domino&reg; server, delivers e-mail, calendar and scheduling capabilities,
+integrated instant messaging, personal information management (PIM)
+tools, discussion forums, teamrooms and reference databases with basic
+workflow - along with a powerful desktop platform for collaborative
+applications.
+
+Lotus Notes is available in two offerings: Lotus Notes for Messaging
+(access to messaging functions) and Lotus Notes for Collaboration (both
+messaging and applications). An integral part of of the IBM&reg; Workplace
+family, Lotus Notes offers your employees business-critical
+collaboration tools designed to help you increase organizational
+productivity and responsiveness.
+
+ License : Demo, $112 - with Collaboration $155
+ Author/Publisher : IBM
+ Modification Date : January 13, 2009
+ Requirements : Mac OS X 10.5.5 or higher
+
+ Download 
+File Size: 292 MB
+
+ Home Page 
+
+ MacBusiness 4.5.1 
+
+Job & time tracker for freelancers, contractors, small biz. Features
+accounts, invoices, reports, currency conversion, iCal and address book
+support, basic project planning and more.
+
+ License : Shareware, $25
+ Author/Publisher : Bright Light Software
+ Modification Date : September 23, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ Merlin 2.6.3 
+
+Merlin is professional-grade project management application software
+designed specifically for the Macintosh operating system. Written using
+the latest Apple technology for Mac OS X, Merlin's rich feature set and
+intuitive tools allow you to focus on your work, not the software.
+
+Merlin gives you all the tools to complete any project on time and
+within budget. It's intuitive, easy to use and offers a rich feature set
+to let you plan, control, then celebrate your successes!
+
+ License : Demo, $225
+ Author/Publisher : ProjectWizards
+ Modification Date : December 2, 2008
+ Requirements : Mac OS X 10.4.9 or higher
+
+ Download 
+File Size: 38.9 MB
+
+ Home Page 
+
+ MileageSaver 3.0 
+
+MileageSaver is a simple application that helps keep track of your
+business miles for income tax day and income tax record keeping. You
+enter the business purpose, the date, and your daily start and end
+mileage, then MileageSaver will calculate the monetary return you're
+entitled to based on the current government standards of
+dollars-per-miles traveled (and it also allows for calculation of
+mileage as far back as 1999). MileageSaver will then save your entered
+data as a text file or an Excel spreadsheet file - whichever you prefer.
+
+ License : Shareware, $5
+ Author/Publisher : Maury McCown/RAILhead Design
+ Modification Date : November 29, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 3.5 MB
+
+ Home Page 
+
+ MoneyWorks 5.2.5 
+
+The MoneyWorks family of accounting software provides a range of feature rich but
+easy-to-use solutions for small-to-medium organisations. Whether you operate from home or
+have several hundred staff, there is a MoneyWorks solution for you. MoneyWorks is the
+accounting software that can do the things the others can't: from simple things like
+making your valuable transaction data easily accessible, through to the more powerful,
+such as being able to prepare complex three-dimensional weighted cross-tabulations on your
+sales data-it's all about getting information to improve management decision making.
+MoneyWorks is robust, fast, and scalable yet simple and user-friendly, with an excellent
+audit trail and superior reporting capabilities.
+
+ License : Demo, Cashbook $154, Express $309, Gold $616
+ Author/Publisher : Cognito Software, LTD
+ Modification Date : November 26, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 24.0 MB - Gold 5.2.5
+
+ Download 
+File Size: 22.6 MB - Express 5.2.5
+
+ Download 
+File Size: 21.4 MB - Cashbook 5.2.6
+
+ Updates 
+
+ Home Page 
+
+ MultiLedger 7.0.8 
+
+A proven integrated, networkable financial package for small businesses,
+MultiLedger is easy to use and installs quickly. Whether you need
+software to help manage jobs, run real-time reports, track costs,
+monitor cash flow, or produce up-to-the-minute financial reports, you
+can choose MultiLedger with confidence. Run it on a network so your
+office team can help manage A/R, A/P, inventory, and more.
+
+ License : Demo, $399
+ Author/Publisher : CheckMark Software 
+ Modification Date : July 22, 2008
+ Requirements : Mac OS X
+
+ Download 
+File Size: 2.4 MB - version 7.0.7 Demo
+
+ Download 
+File Size: 6.3 MB - version 7.0.8 Update
+
+ Home Page 
+
+ MYOB AccountEdge 2008 
+
+MYOB AccountEdge automates, organizes and processes all your business
+tasks and financial information - so you can focus on business.
+
+Create and track sales and purchases, handle all your banking, process
+payroll, inventory and jobs, track and bill time, actively manage your
+customers and access over 195 financial reports to start and maintain a
+well-organized, successful business.
+
+AccountEdge integrates fully with MYOB Business Services, allowing you
+to accept credit cards from your MYOB invoice, offer direct deposit of
+employee paychecks, pay vendors electronically, print certified payroll
+forms on plain paper, or elect to eFile, and/or sign up for full-service
+payroll.
+
+ License : Demo, AccountEdge $299, FirstEdge $99
+ Author/Publisher : MYOB
+ Modification Date : December 12, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 101 MB - AccountEdge 2008 Demo
+
+ Download 
+File Size: 69.6 MB - FirstEdge 3.0 Demo - January 5, 2007
+
+ Home Page 
+
+ Now Up-to-Date and Contact 5.3.2 
+
+Now Up-to-Date & Contact is a software calendar and address book. And
+more. Not only can you keep track of your calendar and contacts, but you
+can share them with others - your business, organization of any kind,
+your family.
+
+ License : Demo, $130
+ Author/Publisher : Now Software
+ Modification Date : April 7, 2008
+ Requirements : Mac OS X 10.4
+
+ Download 
+File Size: 17.6 MB - Demo
+
+ Home Page 
+
+ OfficeTime 1.4.2 
+
+You are busy: you shouldn't have to think about how to track your time.
+ You should just track it, simply, intuitively and trouble free.
+ You need to know where your time goes. You need easy to use,
+adaptable reporting to let you know exactly what you've been up to.
+ You need flexibility. You want it simple but when you dig deeper,
+you want the power to track your time your way. You want the little
+polishes that make using a program a joy to use.
+ You need OfficeTime.
+
+ License : Shareware, $25
+ Author/Publisher : Transcena Design
+ Modification Date : January 3, 2009
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 12.9 MB
+
+ Home Page 
+
+ OmniPlan 1.6.1 
+
+With OmniPlan, you can create logical, manageable project plans with Gantt charts,
+schedules, summaries, milestones, and critical paths. Break down the tasks needed to make
+your project a success, optimize resources, and streamline budgets. It's project
+management made painless.
+
+ License : Shareware, $150
+ Author/Publisher : The Omni Group
+ Modification Date : November 19, 2008
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 38.8 MB
+
+ Home Page 
+
+ Payroll 7.9.2 
+
+CheckMark Payroll for Macintosh is the complete, affordable payroll
+solution for your small business.
+
+ License : Demo, $249
+ Author/Publisher : CheckMark Software 
+ Modification Date : December 24, 2008
+ Requirements : Mac OS X
+
+ Download 
+File Size: 3.1 MB - version 7.9.2 updater
+
+ Download 
+File Size: 2.9 MB - version 7.8.0 Demo - December 3, 2007
+
+ Home Page 
+
+ PowerCard 3.0 
+
+PowerCard is new, but it uses principles established in project
+management for years. PowerCard uses an innovative and intuitive "task
+card" based interface where you create index cards that represent the
+tasks you need to accomplish and slide them around to organize them into
+priorities and milestones. This sort of organizational methodology has
+been in use for years by Project Managers who carried index cards around
+in their pockets. But PowerCard is the first application for the
+Macintosh to bring the power of these index cards to software.
+
+ License : Demo, $60
+ Author/Publisher : Random Ideas
+ Modification Date : March 16, 2008
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ Project Calculator 3.2 
+
+Project Calculator is a tool that helps you track the time you work on your projects.
+You can manage several projects at the same time.
+
+Whenever you worked on a project, you create an entry which contains information on when
+you worked, how long you worked and what you did.
+
+ License : Shareware, $15
+ Author/Publisher : Blue Banana Software
+ Modification Date : November 26, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 4.5 MB
+
+ Home Page 
+
+ Project X 1.5.2 
+
+Project X takes a redefined approach to traditional project management
+by focusing on collaboration, communication, and management while
+minimizing the burden of tedious data entry and cumbersome workflows.
+Whether you are a visual thinker, a list maker or a traditional project
+manager, Project X provides you with options designed to help you work
+the way you think. View your project as a diagram or as a traditional
+Gantt chart - the choice is yours - which means that you don't have to work
+in a counter-intuitive environment. After all, project management
+shouldn't be a project by itself.
+
+ License : Demo, $200
+ Author/Publisher : Marware, Inc.
+ Modification Date : September 24, 2008
+ Requirements : Mac OS X 10.4.11 or higher
+
+ Download 
+File Size: 947 Kb - Installer will download the 80+ MB program
+
+ Home Page 
+
+ Qif Master 6.9 
+
+QIF Master makes it easier to enter banking, credit card, and investment
+transactions into Quicken.
+
+Bank and Credit Card Transactions: Many online banks and credit card
+companies allow you to download recent transactions (checks, deposits,
+credit card charges, etc.) into a file in the Quicken Interchange Format
+(QIF), so that you can import these transactions into your Quicken
+account. The problem with this approach is that typically the bank has
+no way of assigning meaningful categories to the transactions. So, if
+you care about categorizing your Quicken transactions, you must go
+through each transaction you have just imported in Quicken, and add
+categories. QIF Master automates this process.
+
+Some banks and credit card companies also produce transaction histories
+in QFX or OFX format. OFX is an open standard format, and QFX is a
+Quicken-specific variant. Quicken can import QFX format (Quicken calls
+this Web Connect) and match transactions with transactions already in
+your register. This matching is useful, but if you like your
+transactions automatically categorized, you might prefer to process the
+QFX or OFX with QIF Master, which will convert it to QIF and add
+categories. If all you have available is OFX, you cannot import it into
+Quicken, but you can convert it to QIF and then import it.
+
+QIF Master adds Quicken categories based on the description (e.g. payee)
+of each transaction. To convert a QIF file, just drop it onto QIF
+Master. You can configure QIF Master as a browser helper application
+for files of type application/qif to have it run automatically on
+downloaded QIF files. The resulting file can then be imported into
+Quicken.
+
+ License : Shareware, $16
+ Author/Publisher : John Woodward
+ Modification Date : November 16, 2008
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 4.7 MB
+
+ Home Page 
+
+ QuickBooks Pro 2009 10.0.3 R4 
+
+Grow your business with the America's #1 small business financial
+software. It's built for Mac users by Mac users, with the ease of use
+you need to focus on making money.
+ Made for the Mac, with the simplicity you expect
+ Create invoices, pay bills, and manage expenses in minutes
+ Be ready at tax time with complete & accurate records
+
+ License : Update, $200
+ Author/Publisher : Intuit
+ Modification Date : December 23, 2008
+ Requirements : Mac OS X 10.5.4 or higher
+
+ Download 
+File Size: 112.0 MB - 2009 10.0.3 R4 Updater
+
+ Download 
+File Size: 86.8 MB - 2007 R7 Updater
+
+ Home Page 
+
+ ReceiptWallet 2.0.8 
+
+ReceiptWallet is a Mac OS X program that allows you to scan in and manage your receipts.
+When you scan in each receipt, you enter a few pieces of information about the receipt
+such as the merchant, the amount, and category and then you can quickly and easily locate
+your receipts. You can view the receipts right on the screen, print them, email them, or
+save them as PDFs. In addition to the powerful search built into ReceiptWallet, you can
+organize your receipts into collections. These collections can contain whatever you want
+and even better than that is the ability to create smart collections that automatically
+create collections based on whatever criteria you like. For instance, you can create a
+smart collection that contains all of your grocery store receipts or one that contains
+receipts for a certain year. The possibilities are endless.
+
+ License : Shareware, $30
+ Author/Publisher : GGT Enterprises
+ Modification Date : October 1, 2008
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 6.1 MB
+
+ Home Page 
+
+ SOHO Organizer 7.0.4 
+
+SOHO Organizer is the official successor to Personal Organizer and Group
+Organizer and represents a 100% Cocoa rewrite of the former products.
+This means SOHO Organizer presents a first-class Mac OS X experience
+complete with all the features Mac OS X users expect: Aqua interface,
+Unicode compliance, built-in spell checking, Service support, etc.
+Finally, the true benefit of a complete Cocoa rewrite is that SOHO
+Organizer is built for the future and can easily accommodate future
+technologies (think Intel-based Macs).
+
+SOHO Organizer makes managing customer relationships from phone calls
+and notes to appointments and to-dos easy. It embraces and leverages
+popular Mac OS X technologies and applications instead of trying to
+replace them. For example, it synchronizes seamlessly with the Address
+Book and iCal so that users can continue to use them and other
+applications that rely on their data. Users can thus use Apple's iSync
+to synchronize their contacts and calendars in SOHO Organizer to cell
+phones, iPods, Palm handhelds, and even .Mac.
+
+ License : Demo, $100
+ Author/Publisher : Chronos
+ Modification Date : January 30, 2009
+ Requirements : Mac OS X 10.5.2 or higher
+
+ Download 
+File Size: 68.0 MB
+
+ Home Page 
+
+ Stone Hill Invoicer 1.3.5 
+
+Stone Hill Invoicer makes invoices dead simple. Stop shuffling papers
+and struggling with spreadsheets.
+
+ License : Shareware, $47
+ Author/Publisher : Codehackers
+ Modification Date : November 29, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ Studiometry 6.1.3 
+
+Track every little detail, see the big picture.
+ Clients - All of the companies you work for
+ Accounting - Business expenses, Inventory, Tax Reports...
+ Contacts - Everyone who works at the companies
+ Calendar - Easily view your events, To Do's, deadlines
+ Invoices - Automatically generate invoices for your tracked work
+ Search Everything - All of your information, accessed from one search field
+ Reports - Automatically generate common paperwork
+ Mac OS X Syncing - Sync your information with Address Book and iCal
+ Debt/Credits - Tracked time, expenses, items, all to be invoiced
+ Project Planning - Set and view tasks, dependencies, and milestones
+ Multiple Employees - Set permissions, track timesheets and tasks, and more
+ Track Time - Easily track then invoice time using your customized rates
+ Alerts - Know when invoices, to-do's and projects are overdue
+ and more ...
+
+ License : Demo, $210
+ Author/Publisher : Oranged Software
+ Modification Date : April 6, 2009
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 28.0 MB
+
+ Home Page 
+
+ TaskTime 4.5.9 
+
+TaskTime3 can make tracking time on projects a snap. Generate custom
+invoices then print, email, or save them.
+
+Unlimited clients, unlimited projects for each client.
+
+ License : Shareware, $15
+ Author/Publisher : ToThePoint Software
+ Modification Date : March 6, 2009
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 11.2 MB
+
+ Home Page 
+
+ TimeCache 7.0.13 
+
+TimeCache makes it quick and easy to track your time and expenses on
+billable projects. You enter time and expenses in a Daily Log that's
+like an electronic timesheet. You can see your day's work reflected
+here, plus any expenses you incur that you want to make sure you bill
+for. New Default Sets let you quickly load your Daily Log screen at the
+beginning of the day with a set of projects you're likely to work on.
+
+TimeCache makes it easy to enter data. You create listings of items like
+clients, projects and billing categories for time and expenses.
+TimeCache offers a List Manager where you can quickly add, remove,
+edit, import and export list items for instant access when you're
+recording your time and expenses. If you work on a retainer basis with
+some or all of your clients, TimeCache makes it easy to keep track of
+your billable charges.
+
+ License : Shareware, $50
+ Author/Publisher : PandaWare
+ Modification Date : August 14, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 15.1 MB
+
+ Home Page 
+
+ TimeEqualsMoney 3.4.4 
+
+TimeEqualsMoney by Stone Design is a consultant's best friend! Track
+work sessions for any number of clients. Pause and resume your work
+sessions. Track billable expenses. Instantly create customizable
+invoices and reports. Export the information to any spreadsheet or
+database.
+
+ License : Shareware, $49
+ Author/Publisher : Stone Design
+ Modification Date : August 8, 2008
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 2.4 MB
+
+ Home Page 
+
+ TimeLog 4.4.3 
+
+Keeping track of the time you spend on your projects has never been
+easier. Offering an interface similar to iTunes, every Mac user feels
+familiar with TimeLog.
+
+Integrates with iCal, Address Book, .mac Sync and iSync TimeLog analyzes
+your iCal calendars and calculates the time you spend on your projects.
+You can assign clients to your projects from the MacOS X Address Book.
+If you work on different Macs that are synchronized with .mac your time
+sheets will always be up to date.
+
+ License : Sharewre, $25
+ Author/Publisher : Media Atelier
+ Modification Date : March 7, 2009
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ TimeNet 3.9.21 
+
+Simple. Powerful. Practical. Intelligent invoicing has arrived. TimeNet
+is so easy to understand that anyone and everyone will be able to keep
+track of every second spent on projects, easily create tax reports at
+the end of the year, view outstanding bills, keep track of payments, and
+visually track work flow through the months.
+
+ License : Shareware, $45
+ Author/Publisher : AppleSource
+ Modification Date : January 20, 2009
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 9.9 MB
+
+ Home Page 
+
+ TimeSlice 4.2.1 
+
+TimeSlice by Modesitt Software is an easy-to-use time-tracking and
+billing application for OS 9 through OS X.
+
+ License : Shareware, $49
+ Author/Publisher : Modesitt Software
+ Modification Date : November 12, 2008
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ Time Tracker 1.2.6 
+
+Track the time you spend on projects with this simple and easy-to-use
+application. Divide your work into projects, and split each into
+individual tasks. Stay honest, and not count those coffee breaks with
+the built-in idle time alerts. A menu bar icon reminds you at a glance
+whether the timer is running and allows you to easily stop and start the
+timer.
+
+ License : Freeware
+ Author/Publisher : Aaron VonderHaar
+ Modification Date : February 15, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.1 MB
+
+ Home Page 
+
+ TinyBooks 6.0.1 
+
+TinyBooks is an easy-to-use, non-bloated, single-entry accounting and
+bookkeeping system for the Macintosh. Designed for Sole Proprietors, and
+small businesses, TinyBooks can also be used to help with the family
+finances.
+
+ License : Shareware, $49
+ Author/Publisher : Ken Winograd
+ Modification Date : September 4, 2008
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 249 Kb
+
+ Home Page 
+
+ WorkTimer 2.0.4 
+
+Because life is short and your time is limited, your clients should at
+least pay you for what you do. With WorkTimer at you desktop there will
+be no doubt! Its real easy! This nice and handy utility will never
+disturb you with fancy graphs and all that wrap-up. While you focus on
+being creative, WorkTimer will do the time job.
+
+ License : Freeware
+ Author/Publisher : Gerhard Sletten
+ Modification Date : November 11, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 164 Kb
+
+ Home Page 
+
+ xTime Project 4.6.1 
+
+With xTime Project, creating, tracking and managing your projects will be much easier.
+Check out the features that xTime Project has to offer and explore how easy it is to manage your complex projects.
+
+xTime Project is designed to keep track of tasks and calculate a project's cost. xTime Project provides
+all the tools you need for professional project management. We have made the lastest version even more
+powerful without sacrificing the simple and intuitive interface that helped make xTime Project a success
+with thousands of users worldwide. Whether your job calls for managing large construction projects,
+complex media activities or detailed time schedules, xTime Project is the tool you need. It is easy to use
+and will help you organize, administer and monitor your tasks allowing you more time to manage your projects
+and less time to learn how to use project management software.
+
+ License : Shareware, $139
+ Author/Publisher : app4mac
+ Modification Date : January 2, 2009
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 17.9 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

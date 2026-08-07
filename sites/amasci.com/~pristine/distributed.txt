@@ -1,0 +1,355 @@
+Pure Mac: Distributed Computing - Software for Macintosh 
+
+ Distributed Computing 
+
+ Web 
+
+ Pure-Mac.com 
+
+ BOINC 
+ distributed.net Client (dnetc) 
+ Folding@home 
+ InCrease 
+ SetiStats Widget 
+
+ Pooch 
+ Xgrid 
+ Xgrid@Stanford Widget 
+ XgridLite 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ BOINC 5.10.32 
+
+BOINC lets you donate computing power to scientific research projects such as:
+ - Climateprediction.net: study climate change
+ - Einstein@home: search for gravitational signals emitted by pulsars
+ - LHC@home: improve the design of the CERN LHC particle accelerator
+ - Predictor@home: investigate protein-related diseases
+ - Rosetta@home: help researchers develop cures for human diseases
+ - SETI@home: Look for radio evidence of extraterrestrial life
+ - Cell Computing biomedical research (Japanese; requires nonstandard client software)
+ - World Community Grid: advance our knowledge of human disease.
+ - To participate in a project, download and run BOINC software, then enter the project's URL.
+ - You can participate in more than one project, and you control the
+fraction of your computing power that goes to each project. If you
+participate in several projects, your computer will be kept busy even
+when one project has no work.
+
+ License : Freeware
+ Author/Publisher : University of California
+ Modification Date : December 20, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 6.0 MB - BOINC 5.10.32 Standard GUI
+
+ Download 
+File Size: 910 Kb - BOINC 5.10.32 Command Line
+
+ Download Page 
+
+ Home Page 
+
+ distributed.net Client (dnetc) 2.9015.504 
+
+distributed.net was the Internet's first general-purpose distributed
+computing project. Founded in 1997, our network has grown to include
+thousands of users around the world donating the power of their home
+computers to academic research and public-interest projects.
+
+ License : Freeware
+ Author/Publisher : distributed.net
+ Modification Date : October 9, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 474 Kb - Intel - October 9, 2007
+
+ Download 
+File Size: 195 Kb - PPC - January 6, 2006
+
+ Download Page 
+
+ Current Project - RC5-72 
+
+ Current Project - OGR 
+
+ Home Page 
+
+ Folding@home 5.02 
+
+Our goal: to understand protein folding, misfolding, and related diseases 
+You can help by simply running a piece of software. Folding@Home is a
+distributed computing project -- people from through out the world
+download and run software to band together to make one of the largest
+supercomputers in the world. Every computer makes the project closer to
+our goals.
+
+Folding@Home uses novel computational methods coupled to distributed
+computing, to simulate problems thousands to millions of times more
+challenging than previously achieved.
+
+ License : Freeware
+ Author/Publisher : Standford University
+ Modification Date : August 21, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 205 Kb - Folding@home 5.02 GUI Client
+
+ Download 
+File Size: 194 Kb - Folding@home 5.02 Screensaver
+
+ Download 
+File Size: 127 Kb - Folding@home 5.02 Command Line
+
+ Download 
+File Size: 139 Kb - Folding@home 5.91 beta Command Line - November 27, 2006
+
+ Download 
+File Size: 297 Kb - Folding@home 5.91 beta - December 4, 2006
+
+ Download Page 
+
+ Home Page 
+
+ InCrease 2.2 
+
+InCrease is a GUI for installing, configuring, monitoring, and controlling the
+Folding@home command-line client.
+
+ License : Freeware
+ Author/Publisher : Kevin Bernhagen
+ Modification Date : November 28, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 492 Kb
+
+ Home Page 
+
+ Pooch 1.7 
+
+Pooch is software providing the easiest way to assemble and operate a
+high-performance parallel computer.
+
+ License : Demo, $175
+ Author/Publisher : Dauger Research
+ Modification Date : May 16, 2006
+ Requirements : Mac OS X 10.2 or higher and Mac OS 9 or higher
+
+ Download 
+File Size: 9.5 MB
+
+ Home Page 
+
+ SetiStats Widget 1.2 
+
+This little tool lets you view your SetiBOINC stats under Mac OS X Tiger. 
+The widget automatically contacts the SetiBOINC site inconfigurable intervals and 
+reads your stats to display them on your Dashboard. With this, you're always up-to-date 
+concerning your current Seti stats.
+
+ License : Freeware
+ Author/Publisher : unitedmacs.com
+ Modification Date : November 3, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 100 Kb
+
+ Home Page 
+
+ Xgrid 
+
+Now any individual or workgroup can quickly build a low-cost
+supercomputer. Introducing Xgrid, the first distributed computing
+architecture to be built into a desktop or server operating system. With
+Xgrid, scientists, animators and digital content creators can run a
+single job across multiple computers at once - without ever rewriting a
+single line of code.
+
+ License : Included in Mac OS X Server
+ Author/Publisher : Apple
+ Modification Date : April 29, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 423 Kb - Xgrid Agent for Mac OS X 10.3 - note: Xgrid Client and Xgrid Controller come with Mac OS X 10.4 and Mac OS X Server 10.4
+
+ Download Page 
+
+ Home Page 
+
+ Xgrid@Stanford Widget 3.0 
+
+With Tiger, Apple introduced Dashboard and Xgrid. Dashboard the eye candy, Xgrid the geek
+candy. No way these two would ever meet... Well, they did! And it is a perfect match. What
+better widget for a Dashboard than a speedometer? This one is very special, though. It
+will allow you to monitor the size and speed of a large cluster of Macs connected via
+Xgrid to perform large calculations on biochemical models, a project called
+Xgrid@Stanford. You don't even have to join to see it all. How many GHz right now? How
+many computers working? How many processors churning numbers? If you join, you will also
+be able to check the status of your computer and if it is performing any work for the
+project, as indicated by a fast pulsing green light. If all computers around the world
+could join hands...
+
+ License : Freeware
+ Author/Publisher : Mek&Tosj
+ Modification Date : May 3, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 451 Kb
+
+ Home Page 
+
+ Xgrid@Stanford Home Page 
+
+ XgridLite 1.0.2 
+
+XgridLite, a Mac OS X preference pane, enables the Xgrid distributed computing solution on
+the standard version of Mac OS X Tiger. If you don't need the advanced features of Tiger
+Server's Xgrid controller but still want to run your own grid, XgridLite is for you.
+ With XgridLite, you can:
+ - Turn on and off the built-in Xgrid controller with a single click.
+ - Set passwords for client and agent authentication.
+ - Reset the controller to default settings.
+
+ License : Freeware
+ Author/Publisher : Ed Baskerville
+ Modification Date : December 17, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 242 Kb
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

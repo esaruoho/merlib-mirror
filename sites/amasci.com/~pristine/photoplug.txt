@@ -1,0 +1,515 @@
+Pure Mac: Photshop Plug-ins 
+
+ Photoshop Plug-ins 
+
+ ColorSafe 
+ Designer Sextet 
+ Eye Candy 
+ FeatherGIF 
+ Flood 
+
+ Furbo Filters' Designer Pack 
+ Furbo Filters' Webmaster Series 
+ Graphite 
+ IconBuilder 
+
+ ImageVice 
+ India Ink 
+ Kai's Power Tools 
+ LunarCell 
+
+ PhotoBevel Solo 
+ PhotoGIF 
+ PhotoText Solo 
+ PhotoTools 
+
+ Plugin Galaxy 
+ ProJPEG 
+ SolarCell 
+ Sucking Fish 
+
+ Super Blade Pro 
+ Tesselation 
+ Xenofex 
+ Xhatch 
+
+ Adobe Photoshop 
+
+ Adobe Photoshop Updates Page 
+
+ Adobe Photoshop Resources from desktopPublishing.com 
+
+ Adobe Plug-in Source Catalog 
+
+ Info-Mac Photoshop Plug-ins 
+
+ PlugPage 
+
+ ColorSafe 1.6.1 
+
+The one plug-in no web designer can live without, ColorSafe extends the 216 color web safe palette
+to an almost infinite number of non-dithering optical colors and patterns.
+ColorSafe is an invaluable tool to anyone who has to work with a limited number of colors. Web
+designers, multimedia authors, and Java developers can all benefit greatly from ColorSafe. 
+
+ License : Shareware, $49.95
+ Author/Publisher : BoxTop Software
+ Modification Date : May 21, 1999
+ Requirements : System 7.0 or greater. Any Adobe Photoshop 2.5
+Filter plug-in host application such as Photoshop, Illustrator, PhotoDelux,
+xRes, Painter, Canvas, ColorIt! or DeBabelizer
+
+ Direct Download
+ File Size: 187 Kb - Fat version
+
+ Parent Directory
+
+ Home Page
+
+ Designer Sextet 1.0 
+
+A set of six filters including:
+ Aetherize _ Give your pictures that dreamy, gauzy look, or crank up the controls for acidic colors.
+ Twist - Churn images into a swirling mass or smearthem beyond recognizability.
+ Swerve - Deform shapes into languid curves or harsh fractal blotches.
+ Lacquer - Drench your image in coats of metallic, transparent, and prismatic resin.
+ Silver - Make shapes glitter with polished brightwork.
+ Glare - Flood your image with hurtingly bright light.
+
+ License : Shareware, $49
+ Author/Publisher : Flaming Pear
+ Modification Date : January 12, 2000
+ Requirements : Photoshop 3.0 or higher, Color It, Fractal Design Painter and Pixel Paint Pro 
+
+ Direct Download 
+ File Size: 1770 Kb
+
+ Home Page 
+
+ Eye Candy 4000 
+
+Twenty-one Photoshop filters that take the drudgery out of creativity.
+
+ License : Demo - Purchase for $129
+ Author/Publisher : Alien Skin Software
+ Modification Date : October 12, 2000
+ Requirements : PPC, Photoshop 3.04 or later
+
+ Direct Download 
+ File Size: 1761 Kb - demo
+
+ Direct Download 
+ File Size: 532 Kb - 3.x - 3.1 patch
+
+ Parent Directory 
+
+ Home Page 
+
+ FeatherGIF 1.9.7 
+
+FeatherGIF is a plug-in filter for Photoshop and other paint programs that
+lets you easily make GIF images with blurry, transparent edges.
+
+ License : Shareware, $20
+ Author/Publisher : Lloyd Burchill/Flaming Pear
+ Modification Date : October 17, 1998
+ Requirements : Photoshop 3.0 or higher, Color It, Fractal Design Painter and Pixel Paint Pro 
+
+ Direct Download
+ File Size: 858 Kb
+
+ Home Page 
+
+ Flood 1.0 
+
+Flood creates bodies of lying water in pictures. It provides control over waves,
+a radiating ripple, the perspective and color of the water, and the clarity of
+reflections. Although it's a 2-D effect, with just a little effort it can
+produce some convincing results with a 3-D look.
+
+ License : Shareware, $20
+ Author/Publisher : Flaming Pear
+ Modification Date : October 11, 2000
+ Requirements : Photoshop 3.0 or higher
+
+ Direct Download 
+ File Size: 474 Kb
+
+ Home Page 
+
+ Furbo Filters' Designer Pack 2.0 
+
+Furbo Filters' Designer Pack creates dazzling visual effects, from psychedelic patterns to new
+levels of embossing. They are as fast and intuitive, or as deep and complex, as you want them to be.
+Take embossing to new heights, create repeating tiles for web or print work, make chrome that actually
+looks like chrome, or experiment with color.
+
+ License : Shareware, $39
+ Author/Publisher : Craig Hockenberry
+ Modification Date : December 18, 1997
+ Requirements : Photoshop 3.0 or higher
+
+ Direct Download 
+ File Size: 1390 Kb
+
+ Home Page 
+
+ Furbo Filters' Webmaster Series 1.0 
+
+Furbo Filters' Webmaster Series lets you render artwork in web-safe colors while still looking
+great, for superb compressibility and pages that load faster. See exactly how your graphics will look in both
+Mac and Windows environments, from 16 colors to millions. Realtime previews help you avoid suprises
+while creating images that are compelling across all desktop platforms. All this, plus an advanced new
+web scrubber for total control with the best possible output.
+
+ License : Shareware, $39
+ Author/Publisher : Craig Hockenberry
+ Modification Date : December 30, 1997
+ Requirements : Photoshop 3.0 or higher
+
+ Direct Download 
+ File Size: 1227 Kb
+
+ Home Page 
+
+ Graphite 1.0.7 
+
+Graphite is a Photoshop plug-in filter which provides a freehand pencil tool and texturizer.
+The plugin functions as a mini-paint program within the host program.
+
+ License : Shareware, $25
+ Author/Publisher : Timothy Wall 
+ Modification Date : November 22, 1998
+ Requirements : Photoshop, PhotoDeluxe, Painter, or any other program which supports
+Photoshop plug-in filters
+
+ Direct Download
+ File Size: 1168 Kb - Fat version
+
+ Direct Download
+ File Size: 906 Kb - PPC version
+
+ Home Page 
+
+ IconBuilder Pro 3.0 
+
+IconBuilder combines the power of the ultimate graphics editor - Adobe Photoshop,
+with the ease of use of IconDropper, making a powerful icon creation tool for both
+beginner and advanced users. 
+
+ License : Shareware, $69 - Lite version $29
+ Author/Publisher : The Iconfactory
+ Modification Date : July 12, 2001
+ Requirements : Mac OS 8.5, Photoshop 3.0 or later
+
+ Direct Download
+ File Size: 3219 Kb - Icon Builder Pro 3.0
+
+ Direct Download
+ File Size: 563 Kb - Icon Builder Lite 2.0.1
+
+ Home Page 
+
+ ImageVice 2.0.5 
+
+ImageVice is a new color reduction filter for Adobe Photoshop that can make GIF,
+PICT, BMP and PNG (the most popular multimedia formats) images up to 70%
+smaller than other methods. Nothing else even begins to approach the
+compression levels made possible with ImageVice color reduction technology. 
+
+ License : Shareware, $49.95
+ Author/Publisher : BoxTop Software
+ Modification Date : June 7, 1999
+ Requirements : PPC, Photoshop 3.0 or higher
+
+ Direct Download
+ File Size: 747 Kb
+
+ Parent Directory
+
+ Home Page
+
+ India Ink 1.5.2 
+
+India Ink is a filter for Photoshop that gives you over a dozen exotic ways to convert color or
+greyscale images to unusual black-and-white halftones. Suitable for image stylization or
+black-and-white printers, most styles offer variable line weight, warping, gamma, and scaling.
+
+ License : Shareware, $20
+ Author/Publisher : Lloyd Burchill/Flaming Pear
+ Modification Date : July 27, 1999
+ Requirements : Photoshop 3.0 or higher, Color It, Fractal Design Painter and Pixel Paint Pro 
+
+ Direct Download
+ File Size: 229 Kb
+
+ Home Page 
+
+ Kai's Power Tools (KPT) 6.0 
+
+KPT 6 is an extraordinary collection of image filters that produce spectacular
+effects for print and the Web. KPT 6 includes 10 plug-ins that extend and
+enhance the creative possibilities of Adobe Photoshop and compatible products. 
+
+ License : Demo, $149
+ Author/Publisher : Corel
+ Modification Date : November 17, 1999
+ Requirements : PPC, System 7.6.1 or higher
+
+ Direct Download 
+ File Size: 6124 Kb - demo version 3.0 - released September 19, 1996
+
+ Home Page 
+
+ LunarCell 1.2 
+
+Instant planets. Fractal, reality-based, or just strange worlds are yours in seconds. 
+
+ License : Shareware, $20
+ Author/Publisher : Lloyd Burchill/Flaming Pear
+ Modification Date : January 1, 2001
+ Requirements : Photoshop 3.0 or higher, Color It, Fractal Design Painter and Pixel Paint Pro 
+
+ Direct Download 
+ File Size: 1118 Kb
+
+ Home Page 
+
+ PhotoBevel Solo 2.0 
+
+Instantly create inner and outer bevels on any part of your
+image or text. Adjust bevel width, softness, highlight/shadow balance, highlight and shadow intensity,
+and light direction.
+
+ License : Freeware
+ Author/Publisher : Extensis
+ Modification Date : November 25, 1997
+ Requirements : Photoshop 3.0.4 or higher - It does not work in any other application which supports Photoshop plugins.
+
+ Direct Download 
+ File Size: 981 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ PhotoGIF 3.5 
+
+PhotoGIFthat provides unsurpassed capability for creating highly optimized, web-ready GIF images from
+Adobe Photoshop in a single easy step saving valuable production time. 
+
+ License : Demo - Purchase for $45
+ Author/Publisher : BoxTop Software
+ Modification Date : June 22, 1999
+ Requirements : Photoshop 3.0 or higher
+
+ Direct Download
+ File Size: 1349 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ PhotoText Solo 2.0 
+
+PhotoText is a powerful WYSIWYG text formatting module, with features such as:
+ Multiple text blocks
+ Character style sheets
+ Individual character color
+ Expert kerning, tracking and leading controls
+ More character formatting choices - bold, italic, underline, outline, shadow,
+allcaps, smallcaps, character width and height, and left, center, right & full justification.
+ Save feature allows you to save your text blocks for future re-use or editing.
+Saved text blocks remember all their formatting and positioning.
+
+ License : Freeware
+ Author/Publisher : Extensis
+ Modification Date : December 14, 1998
+ Requirements : Photoshop 3.0.4 or higher - It does not work in any other application which supports Photoshop plugins.
+
+ Direct Download 
+ File Size: 981 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ PhotoTools 3.0.6 
+
+PhotoTools from Extensis is a collection of eight productivity and "everyday effects" plug-in tools that address
+many of the most requested features from a variety of Photoshop users. 
+PhotoText - Create and format WYSIWYG text inside of Photoshop 
+PhotoShadow, PhotoBevel, PhotoGlow, PhotoEmboss - Quickly and easily generate professional quality everyday effects
+Intellihance Lite - Enhance any RGB image with one mouse click 
+PhotoBars - Access Photoshop commands from customizable Toolbars 
+PhotoTips - Access Photoshop expert advice with a searchable, on-screen Tips dialog
+
+ License : Demo, Purchase for $99.95
+ Author/Publisher : Extensis
+ Modification Date : November 6, 2000
+ Requirements : PPC, Photoshop 4.0 or higher
+
+ Direct Download 
+ File Size: 16,155 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ Plugin Galaxy 1.0.1 
+
+The most complete plugin package is here! Plugin Galaxy is a set of 20 plugins
+which include an incredible amount of over 120 basic effects. The product has
+often needed functions like transparency manipulation, bluring, texture and
+pattern generation, noise creation, mirroring and warping. It also includes
+amazing metal, chrome, neon, pop art, glass, rainbow, sunshine and star effects.
+Additionally you can enhance, colorize, add edges to your photos or even encrypt
+them. Last but not least, there are some effects that can rarely be found like
+feedbacks, grids and zooming.
+
+ License : Shareware, $49.95
+ Author/Publisher : ShareIt! Inc.
+ Modification Date : October 26, 2000
+ Requirements : 680x0 or PPC, Photoshop 4 or higher, Fireworks 2 or higher, Painter 5 and higher, and more
+
+ Direct Download
+ File Size: 3139 Kb
+
+ Download Page
+
+ Home Page 
+
+ ProJPEG 5.1 
+
+A Photoshop 3.0 or greater file-format plug-in that provides unsurpassed
+capability for creating highly optimized, web-ready JPEG and progressive JPEG images.
+Features a live image quality and file size preview that allows you to find the right file size to
+image quality ratio the first time, every time.
+
+ License : Demo - Purchase for $35
+ Author/Publisher : BoxTop Software
+ Modification Date : January 19, 2001
+ Requirements : Photoshop 3.0 or higher
+
+ Direct Download
+ File Size: 564 Kb - version 5.1
+
+ Direct Download
+ File Size: 684 Kb - version 3.1.2
+
+ Parent Directory
+
+ Home Page
+
+ SolarCell 1.2 
+
+Create suns in a fantasy style. Design your own sun with controls for every part of its
+appearance, or roll the dice and see what happens.
+
+ License : Shareware, $20
+ Author/Publisher : Lloyd Burchill/Flaming Pear
+ Modification Date : January 1, 2001
+ Requirements : Photoshop 3.0 or higher, Color It, Fractal Design Painter and Pixel Paint Pro 
+
+ Direct Download 
+ File Size: 414 Kb
+
+ Home Page 
+
+ Sucking Fish 1.01 
+
+A group of 6 filters including: 
+1. DekoBoko - Creates bevel edges 
+2. MidnightTV - Creates noise like a TV station off air 
+3. Inai-Inai-Bar - Encrypts and de-encrypts graphic files 
+4. Mr Sa-kan - Creates brick walls 
+5. MagicalCurtain - Creates gradients similar KPT's Gradient Designer 
+6. FrameCurtain - Ditto
+
+ License : Freeware
+ Author/Publisher : Naoto Arakawa 
+ Modification Date : July 22, 1994
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 311 Kb
+
+ Parent Directory
+
+ SuperBladePro 1.0.2 
+
+Quickly create tarnish, iridescence, and glassiness for appealingly 'touchable'
+3-D looks.
+SuperBladePro's features include waterstains, moss, abrasion, spotlighting,
+dust, grit, embossing, fractal blotches, and smooth Gaussian bevels.
+
+ License : Shareware, $30
+ Author/Publisher : Lloyd Burchill/Flaming Pear
+ Modification Date : October 12, 2000
+ Requirements : Photoshop 3.0 or higher, Color It, Fractal Design Painter and Pixel Paint Pro 
+
+ Direct Download 
+ File Size: 3834 Kb - Super Blade Pro 1.0.2
+
+ Direct Download 
+ File Size: 1280 Kb - Blade Pro 2.1.4
+
+ Home Page 
+
+ Tesselation 1.2.7 
+
+A filter for Photoshop that lets you easily turn any graphic into a
+seamlessly repeating tile. Now you can make web-page backgrounds without detailed retouching.
+
+ License : Shareware, $15
+ Author/Publisher : Lloyd Burchill/Flaming Pear
+ Modification Date : June 18, 1999
+ Requirements : Photoshop 2.5 or later, it also
+works with Color It, Fractal Design Painter, and The Cheaper Image
+
+ Direct Download 
+ File Size: 167 Kb
+
+ Home Page 
+
+ Xenofex 1.1 
+
+Xenofex is a collection of 16 inspirational special
+effects that will energize any graphics project. Realistic
+natural phenomena and sophisticated distortions have
+never been easier to create! 
+
+ License : Demo - Purchase for $129
+ Author/Publisher : Alien Skin Software
+ Modification Date : November 30, 1999
+ Requirements : PPC, Photoshop 3.04 or later, 4.0 or later recommended
+
+ Direct Download 
+ File Size: 948 Kb - 1.0 demo
+
+ Direct Download 
+ File Size: 522 Kb - 1.0 to 1.1 updater
+
+ Parent Directory 
+
+ Home Page 
+
+ Xhatch 1.5.1 
+
+This product brings the elegance of traditional pen-and-ink illustration to
+Adobe Photoshop. Creating pen-and-ink effects has never been so easy: start
+from a gray-scale, RGB, or CMYK image, select one of the thirty built-in
+styles, and off you go in just a few mouse clicks. And once you've become
+an expert you can create your own custom styles and save them for using later. 
+
+ License : Demo, $25
+ Author/Publisher : Inklinations
+ Modification Date : January 29, 2000
+ Requirements : PPC, Photoshop 3.05, 4.x or later
+
+ Direct Download 
+ File Size: 536 Kb
+
+ Home Page 
+
+ Back to the main page of Pure Mac

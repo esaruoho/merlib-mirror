@@ -1,0 +1,1604 @@
+Pure Mac: Finance - Software for Macintosh 
+
+ Finance 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Accounting 
+ Asset Management/ Inventory 
+ Calculators 
+ Personal Finance 
+ Time/Expense Tracking 
+
+ Accounts 
+ Big Business 
+ Connected 
+ Corona 
+ MoneyWorks 
+ MultiLedger 
+ MYOB 
+ Payroll 
+ QuickBooks 
+ TinyBooks 
+
+ Home Inventory 
+ Intelliscanner 
+ Sole Possession 
+ Store House 
+
+ Car Lease 
+ CurrencyConverter 
+ Euro Assistant Pro 
+ Euro Converter Pro 
+ FinFlow 
+ FinKit 
+ KoalaCalc 
+ Loan Calculator 
+ Loan Helper 
+ Loan-U-Later 
+ MarginMaster 
+ MortgageX 
+ QTax 
+ Simple GST Calculator 
+ StockOptionCalc 
+ TopCalculette 
+
+ Budget 
+ Cashbox 
+ Cha-Ching 
+ CheckBook 
+ Debtinator 
+ Debt Quencher 
+ iBank 
+ FinanceToGo 
+ Liquid Ledger 
+ Moneydance 
+ MoneyWell 
+ My Money Minder 
+ Ofx2Qif 
+ QIF Master 
+ Quicken 
+ Savings Bond Tracker 
+
+ Billable 
+ Billings 
+ iBiz 
+ Invoice 
+ iRatchet 
+ MacBusiness 
+ MileageSaver 
+ OfficeTime 
+ Project Calculator 
+ ReceiptWallet 
+ Stone Hill Invoicer 
+ TaskTime 
+ TimeCache 
+ TimeEqualsMoney 
+ TimeLog 
+ TimeNet 
+ TimeSlice 
+ Time Tracker 
+ WorkTimer 
+
+ You may also want to check the Stock Tickers & Analyzers page. 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Accounts 1.9.5 
+
+Accounts is an intuitive accounting application that gives you the power
+to manage your small business and personal finances. Accounts lets you
+create accounts, record transactions, reconcile your bank and credit
+card accounts, create financial reports and produce sales invoices and
+purchase orders that use information from your OS X Address Book. Your
+financial information is clearly displayed in a single window that lets
+you stay on top of your finances at a glance.
+
+ License : Shareware, $35
+ Author/Publisher : Nano Software
+ Modification Date : December 9, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.5 MB
+
+ Home Page 
+
+ Big Business 6.0.7 
+
+Big Business combines sales automation, a marketing database, contact
+management, inventory tracking, and full-featured accounting to run your
+entire company. While you concentrate on serving your customers and
+increasing sales, Big Business works behind the scenes to manage sales
+quotes, mailing lists, stock levels, shipments, payments, receivables,
+and more. Designed especially for businesses that buy or sell products,
+Big Business has 90 company templates for retail, wholesale,
+distribution, and more. And, with its multi-user, client/server version
+or Web Server add-on, Big Business grows with your company to help you
+make it big!
+
+ License : Demo, $595 per User
+ Author/Publisher : Big Business, Inc.
+ Modification Date : January 22, 2009
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 21.2 MB - Client version 6.0.7
+
+ Download 
+File Size: 37.1 MB - Server 6.0.7
+
+ Home Page 
+
+ Billable 1.2.4 
+
+Billable is an application for Mac OS X that helps you keep track of the billable services
+you perform for a client and then lets you create and manage invoices based on those
+services.
+
+ License : Shareware, $25
+ Author/Publisher : Clickable Bliss
+ Modification Date : January 21, 2009
+ Requirements : Mac OS X 10.4.4 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ Billings 3.0.4 
+
+As a busy Mac professional, you can count on the power and simplicity of Billings 2 to
+streamline your quoting, time tracking, and invoicing. Get up and running in less than
+five minutes thanks to an intuitive setup assistant and simple, real-world workflow.
+Conveniently track time from any application using the menubar timer or instant hot keys.
+Impress your clients with polished, professional, and fully customizable estimates and
+invoices.
+
+ License : Shareware, $59
+ Author/Publisher : Marketcircle Inc.
+ Modification Date : March 25, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 29.9 MB
+
+ Home Page 
+
+ Budget 5.3.6 
+
+Tired of living payday to payday? Can't get out of debt? Try a better
+way to manage your bank account(s). Budget is based on the tried and
+true envelope method of budgeting. It's a much easier way to see where
+your money is, where it's needed, and where it went.
+ Handles variable income: Define rules to automatically distribute your pay to your
+envelopes even when your pay changes frequently.
+
+Bank Account Management: Record checks, debits, and deposits, and easily balance your checkbook.
+
+QIF Import: Convert data from other applications, or download your transactions from a bank.
+
+Define Pay Sources: Set up your income to automatically distribute funds to various envelopes.
+
+Credit Cards: Track your credit card spending, and stay out of debt.
+
+ License : Shareware, $30
+ Author/Publisher : Ron Hooper/Snowmint Creative 
+ Modification Date : May 22, 2008
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ Car Lease 1.2.5 
+
+Car Lease is an easy-to-use vehicle lease calculator that uses the money
+factor method to calculate monthly lease payments.
+
+ License : Freeware
+ Author/Publisher : ParanzaSoft
+ Modification Date : August 10, 2005
+ Requirements : Mac OS X 10.1.5 or higher
+
+ Download 
+File Size: 1.2 MB
+
+ Home Page 
+
+ Cashbox 0.50 
+
+Cashbox was designed from day one to be a quick and simple to use
+application for managing personal finances. As it has evolved, it has
+become more feature packed while keeping with the original goal of
+simplicity. Today Cashbox's robust feature set includes:
+ QIF - Cashbox imports files in the Quicken Interchange Format so you can easily import information obtained from online bank accounts or other sources.
+ Printing - Need your account information on paper? You asked for it, you got it!
+ Searching - You can easily find transactions by searching for them.
+ Transfers - Cashbox keeps track of transfers between two accounts for you.
+ Reports - Graphical reports can be generated in many different ways so you can track where your money comes from and where it goes.
+ Reconciling - Save time with Cashbox's built in reconciling system.
+
+ License : Freeware
+ Author/Publisher : Whitney B. Young
+ Modification Date : February 1, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 932 Kb
+
+ Home Page 
+
+ Cha-Ching 1.2.3 
+
+Cha-Ching is a fun and easy to use money manager, done Mac OS X style. A tag based
+database lets you organize and search for your incoming and outgoing transactions your
+way. With Cha-Ching, you can also organize pending transactions, so you can keep track of
+the the cash you owe the electric company as well as the cash others might owe you - and
+with iCal integration, you'll never forget a payment. Cha-Ching also offers fun little
+doodads you may have not expected - you can keep a photo inventory of your purchased items
+for insurance and tax purposes, or just for fun.
+
+ License : Shareware, $15
+ Author/Publisher : Midnight Apps
+ Modification Date : April 17, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 9.3 MB
+
+ Home Page 
+
+ CheckBook 2.0.2 
+
+You could really use a middle ground - a personal finance manager that
+excels at the basics but keeps things simple. Thank goodness you found
+us!
+ Take a look at a few of CheckBook's best features:
+ Friendly single-window interface that stays focused on the task at hand - and all our major features are just a click or two away, not buried in menus where you'll never find them.
+ Always-on Filter/Search, just like in Apple's Spotlight, iLife, Mail and Address Book.
+ Support for multiple, password-protected Accounts.
+ Scheduled Entries - an easy way to keep track of your monthly bills.
+ Customized Account Summaries to help you visualize where your money came from and where it's going. Specify a date range and choose from several additional options to get a quick look at your financial picture.
+ Printing that works, allowing you to print all the Entries in a given Account, the current Filter results or the selected Account Summary.
+ QIF Import makes the migration from Quicken and many other financial applications painless and helps you to keep in sync with hundreds of online banking services.
+ International Date and Currency format support via your settings in Mac OS X's System Preferences.
+ Searchable Online Help that explains all of CheckBook's primary features.
+
+ License : Shareware, $15
+ Author/Publisher : Splasm Software
+ Modification Date : November 5, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ Connected 5.4 
+
+Connected is a powerful mid-range accounting solution designed for both
+Macintosh and Windows operating systems. Connected consists of three
+modules that are fully integrated: Core Accounting, Inventory Control,
+and Job Costing.
+
+ License : Demo, $695
+ Author/Publisher : Accountek
+ Modification Date : November 5, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 85.0 MB
+
+ Home Page 
+
+ Corona 3.1 
+
+Corona provides invoicing, purchasing, payroll and general form entry
+with its already familiar check register, account chart features and
+full range of accounting reports.
+
+Corona makes use of popup selectors for choosing names and accounts,
+expandable views with adjustable font size, and online help.
+
+Invoices and Purchases can be used for recording time and materials. An
+integrated address index includes options for creating letters and
+preaddressed email. Custom logos may be added to invoices and letters.
+
+Full-featured payroll accounting stores tax rates, employee data, and
+payroll transactions. Corona produces reports for employees, monthly
+posting entries, payroll tax quarterlies, and payroll advices to
+accompany employee paychecks.
+
+ License : Shareware, $65
+ Author/Publisher : R Charles Flickinger
+ Modification Date : February 17, 2009
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 17.8 MB
+
+ Home Page 
+
+ CurrencyConverter 2.17 
+
+Perform interactive foreign exchange and precious metals rate
+calculations on the internet using live, up to the minute currency
+rates.
+
+ License : Sharware, $12
+ Author/Publisher : iconless
+ Modification Date : September 9, 2007
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 1.3 MB
+
+ Home Page 
+
+ Debtinator 2.7.6 
+
+Debtinator handles all of the details for you. You tell it your income.
+You tell it your expenses. You tell it your debts, and everything about
+them. And Debtinator tells you how to re-structure your money and pay
+them off as fast as possible.
+
+ License : Shareware, $15
+ Author/Publisher : Bassett Software
+ Modification Date : April 11, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.3 MB
+
+ Home Page 
+
+ Debt Quencher 1.2.1 
+
+Debt Quencher is incredibly easy to use. You will know how to eliminate
+your credit card balances within minutes of starting the program. No
+need to run reports or answer complex questions, just put in three
+numbers and see summary and detailed results instantly.
+
+Now enter an extra payment amount and watch Debt Quencher pick the best
+method for paying off your debt. You can even use Debt Quencher to track
+your progress as your debt dissolves. It's that easy. You can get out of
+debt when you can see the path you need to take.
+
+ License : Shareware, $15
+ Author/Publisher : No Thirst Software
+ Modification Date : January 10, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.7 MB
+
+ Home Page 
+
+ Euro Assistant Pro 2.6.9 
+
+Euro Assistant Pro is a powerful, but easy-to-use currency conversion
+calculator directed to both European and non-European users. Euro
+Assistant Pro updates exchange rates over the Internet, logs, prints,
+saves and exports your conversions, imports and automatically converts
+series of numeric values, calculates and converts the result of
+algebraic expressions.
+
+ License : Shareware, $15
+ Author/Publisher : MabaSoft
+ Modification Date : October 24, 2006
+ Requirements : Mac OS X
+
+ Download 
+File Size: 1.1 MB
+
+ Home Page 
+
+ Euro Converter Pro 1.2.1 
+
+Currency conversion is a daily need for many people. Stock traders,
+personal financier or simply internet buyers needs to perform continuous
+conversions from a currency to another. Additionally, European peoples
+have to deal with the new Euro currency instead of their local currency
+used for years. Now, with Euro Converter Pro, all currency conversions
+can be made in a second, even for multiple conversions.
+
+ License : Shareware, $25
+ Author/Publisher : Macron Software
+ Modification Date : May 3, 2005
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ Finance 5.5.1 
+
+Finance is a checking, savings, and credit card account management
+application. It enables you to quickly enter, view, and modify
+transactions, search through your records, and easily reconcile your
+account balance with your bank statement.
+
+ License : Shareware, $20
+ Author/Publisher : Mike Yenco
+ Modification Date : July 19, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.3 MB
+
+ Home Page 
+
+ FinanceToGo 1.6.5.1 
+
+FinanceToGo is an easy-to-use finance management solution based on the principles of
+double entry accounting which allows both individuals and small businesses to track where
+money is spent with automatically generated graphs and reports.
+
+FinanceToGo boasts several unique features including document autosaving and automatic
+setup - FinanceToGo automatically adds default categories and accounts to new documents to
+save you time. Unlike other finance managers, FinanceToGo works internationally with all
+banking systems and with any currency.
+
+ License : Shareware, $45
+ Author/Publisher : Fastforward Software
+ Modification Date : December 3, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 6.3 MB
+
+ Home Page 
+
+ FinFlow 1.8.2 
+
+FinFlow is a general purpose financial application that lets you
+solve both simple and complex time value of money problems.
+
+Just set up the cash flow and FinFlow does the rest!
+
+The FinFlow Help contains lots of examples that show how you can use
+FinFlow to solve problems such as loans, leases, bonds, education and
+retirement planning, valuation of a property, cash flow analysis, and
+more.
+
+ License : Shareware, $20
+ Author/Publisher : ParanzaSoft
+ Modification Date : March 24, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 4.1 MB
+
+ Home Page 
+
+ FinKit 2.9.9 
+
+FinKit is a flexible and intuitive financial calculator that lets
+you solve all sorts of problems involving the time value of money.
+
+Just change any of the parameters, and the results are displayed
+immediately. What you see is what is calculated!
+
+FinKit lets you perform 38 financial calculations!
+
+ License : Shareware, $20
+ Author/Publisher : ParanzaSoft
+ Modification Date : April 13, 2009
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 9.1 MB
+
+ Home Page 
+
+ Home Inventory 1.8.1 
+
+Binary Formations Home Inventory is a powerful, easy to use application
+for keeping track of all of your possessions. Maintaining a complete and
+up-to-date inventory is critical when making an insurance claim and in
+assessing if you have the proper amount of coverage in your policy. Home
+Inventory helps you with these things by keeping track of critical
+information about the items in your home.
+
+ License : Shareware, $22
+ Author/Publisher : Binary Formations, LLC
+ Modification Date : December 8, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 6.6 MB
+
+ Home Page 
+
+ iBank 3.4.1 
+
+Finally, the Mac OS X financial manager you've been waiting for. We've
+tried the competition, we've listened to our users and we've delivered
+the best financial manager available.
+
+ License : Demo, $60
+ Author/Publisher : IGG Software, LLC
+ Modification Date : March 23, 2009
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 26.7 MB
+
+ Home Page 
+
+ iBiz 3.1.14 
+
+iBiz is an easy to use time-billing and invoicing application. It
+integrates with iCal and Address Book, offers tax support, easily
+generates custom invoices and does all data saving behind the scenes for
+you. This is the most intuitive time-billing application out there.
+Essential for anyone self employed.
+
+ License : Demo, $50
+ Author/Publisher : IGG Software, LLC
+ Modification Date : November 25, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 6.6 MB
+
+ Home Page 
+
+ Intelliscanner 
+
+Adding barcodes to your business can be this easy. Our flagship business
+scanning system is ready to bring barcode automation with award-winning
+IntelliScanner barcode technology and software -- just plug it into any
+USB port and start scanning. Use included Inventory, Media Collector,
+and xTagger tools for an instant tracking solution for any type of item
+in your business, effortlessly scan barcodes into any application with
+advanced keyboard emulation, or extend your solution with a variety of
+useful software add-ons and asset tags.
+
+IntelliScanner Pro includes IntelliScanner Business Essentials -- three
+commercial applications that make inventory management, media tracking,
+and asset tag creation fast, easy, and hassle free.
+ Inventory - Barcode-enabled inventory control that's easy to use
+ Collection - Automatically organize books, DVDs, CDs, and games
+ xTagger - The easy way to build customized asset tags on your Mac or PC
+
+ License : Demo, $299
+ Author/Publisher : IntelliScanner Corporation
+ Modification Date : January 15, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 59.9 MB
+
+ Home Page 
+
+ Invoice 3.0.8 
+
+Invoice is an invoice application with many features. The goal was to
+make a Mac friendly application with all required features for mac
+users.
+
+ License : Shareware, $105
+ Author/Publisher : KediSoft
+ Modification Date : November 28, 2008
+ Requirements : Mac OS X 10.4.6 or higher
+
+ Download 
+File Size: 11.0 MB
+
+ Home Page 
+
+ iRatchet 1.87 
+
+iRatchet is an Invoicing and Billing application written
+in Objective-C/Cocoa. iRatchet provides the features and functionality
+common to billing and invoicing apps, (tracking hourly and fixed
+entries, multiple clients/projects, timers, pdf output, emailing of
+invoices, etc.), it excells in workflow, mileage tracking, web
+integration and ease-of-use.
+
+ License : Shareware, $45
+ Author/Publisher : Pretty Good Software
+ Modification Date : March 26, 2000
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.6 MB
+
+ Home Page 
+
+ KoalaCalc 4.3.1 
+
+KoalaCalc is a free scientific calculator for Mac OS X and Mac OS 9. In
+'simple' mode, KoalaCalc looks similar to the standard calculator that
+comes with the Mac OS. However, simply click the 'advanced features' box
+and KoalaCalc comes to life to become one of the most advanced
+scientific calculators available.
+ * International currency conversions, which can be updated via the
+Internet to the latest rates set by the International Monetary Fund
+ * Numerous mathematical functions including trig and log functions plus 10 individual memory banks
+ * Conversion to and from dozens of units (inches to millimeters, pounds to kilograms, etc.)
+ * Basic statistical calculations on up to 10 data sets including t-tests and analysis of variance (ANOVA)
+ * Fraction converter converts from decimal to fraction and from fraction to decimal
+ * Fraction calculator can add, subtract, multiply and divide fractions
+ * ... and more
+
+ License : Freeware
+ Author/Publisher : Macropod Software
+ Modification Date : August 24, 2005
+ Requirements : Mac OS X 10.1.2 or higher
+
+ Download 
+File Size: 1.7 MB
+
+ Download 
+File Size: 1.5 MB
+
+ Home Page 
+
+ Liquid Ledger 2.3.1 
+
+Liquid Ledger is the most refreshing personal finance solution for Mac
+OS X, giving you everything you need to start feeling more confident
+about how you manage your money. Whether you've been using financial
+accounting software for years or you're just starting out, Liquid Ledger
+offers a comprehensive set of accounting tools and an inviting user
+interface that make it easy for you to balance your chequebook, keep
+track of credit card activity, analyse monthly spending, and a whole lot
+more.
+
+ License : Demo, $69
+ Author/Publisher : Modeless Software
+ Modification Date : May 18, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 4.7 MB
+
+ Home Page 
+
+ Loan Calculator 2.3 
+
+Loan Calculator is a simple, easy to use application that computes
+periodic loan payments on fully amortized loans given the amount
+borrowed, the interest rate, the length of the loan, and the payment
+frequency. Alternatively, the program will compute the loan amount, the
+interest rate, or the length of the loan given the other loan variables.
+The latter computations can be helpful in determining just how much, or
+under what loan conditions, you can afford to borrow.
+
+ License : Freeware
+ Author/Publisher : Jim Massey
+ Modification Date : November 17, 2002
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 861 Kb
+
+ Download 
+File Size: 565 Kb
+
+ Home Page 
+
+ Loan Helper 1.1 
+
+Loan Helper is a loan calculator designed to help you determine the effect of changing your loan amount, interest rate, loan length, or payment amount.
+
+Loan Helper can:
+ Calculate Loan Amount, Interest Rate, Loan Length, or Payment Amount
+ Calculate future dates and date differences.
+ Generate Amortization Schedules.
+ Open as many calculators as needed.
+ Keep as many amortization schedules open as needed.
+
+ License : Freeware
+ Author/Publisher : Wickedly Simple Software
+ Modification Date : November 25, 2004
+ Requirements : Mac OS X
+
+ Download 
+File Size: 85 Kb
+
+ Home Page 
+
+ Loan-U-Later 1.3.3 
+
+Yes, I wrote this when I couldn't find an program that calculated
+interest rates. As I found out, calcutating interest rates is difficult,
+which is why most loan calculators do not have this option. The interest
+rate calculation is not 100% accurate and should be used for
+informational purposes only.
+
+ License : Freeware
+ Author/Publisher : Box O' Rox Software
+ Modification Date : November 12, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 96 Kb
+
+ Home Page 
+
+ MacBusiness 4.5.1 
+
+Job & time tracker for freelancers, contractors, small biz. Features
+accounts, invoices, reports, currency conversion, iCal and address book
+support, basic project planning and more.
+
+ License : Shareware, $25
+ Author/Publisher : Bright Light Software
+ Modification Date : September 23, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ MarginMaster 5.7 
+
+MarginMaster is a financial calculator that will help you figure out
+many different things concerning Markups and Profit Margins. Great for
+revising price lists etc.
+
+ License : Freeware
+ Author/Publisher : Eric Tremblay
+ Modification Date : September 27, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 161 Kb
+
+ Home Page 
+
+ MileageSaver 3.0 
+
+MileageSaver is a simple application that helps keep track of your
+business miles for income tax day and income tax record keeping. You
+enter the business purpose, the date, and your daily start and end
+mileage, then MileageSaver will calculate the monetary return you're
+entitled to based on the current government standards of
+dollars-per-miles traveled (and it also allows for calculation of
+mileage as far back as 1999). MileageSaver will then save your entered
+data as a text file or an Excel spreadsheet file - whichever you prefer.
+
+ License : Shareware, $5
+ Author/Publisher : Maury McCown/RAILhead Design
+ Modification Date : November 29, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 3.5 MB
+
+ Home Page 
+
+ Moneydance 2008r3 
+
+Moneydance can be trusted to keep all of your financial information
+safe, organized, and at your fingertips. After just a few minutes with
+Moneydance's simple interface and powerful features, you will wonder how
+you ever got along without it.
+
+Pay your bills in seconds without ever picking up a pen or licking a
+stamp. With Moneydance you can automatically synchronize your records
+with transactions downloaded from your bank via OFX, QFX, or QIF files.
+
+Moneydance lets you easily create and manage multiple budgets and shows
+you where your accounts over or under budget. Simply specify how much
+you expect to earn or spend in each category for a given time interval
+(weekly, monthly, yearly). Moneydance can then show you a comparison of
+how your budget compares to your actual income and expenses for any time
+period.
+
+ License : Demo, $40
+ Author/Publisher : Reilly Technologies
+ Modification Date : December 30, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 5.2 MB
+
+ Home Page 
+
+ MoneyWell 1.4.5 
+
+MoneyWell gives you powerful personal finance organization and analysis
+tools in a simple, single-screen solution. Without running complex
+reports or having to trudge through six levels of pie charts, you'll
+know immediately if your spending is on track.
+
+ License : Shareware, $40
+ Author/Publisher : No Thirst Software
+ Modification Date : April 8, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ MoneyWorks 5.2.5 
+
+The MoneyWorks family of accounting software provides a range of feature rich but
+easy-to-use solutions for small-to-medium organisations. Whether you operate from home or
+have several hundred staff, there is a MoneyWorks solution for you. MoneyWorks is the
+accounting software that can do the things the others can't: from simple things like
+making your valuable transaction data easily accessible, through to the more powerful,
+such as being able to prepare complex three-dimensional weighted cross-tabulations on your
+sales data-it's all about getting information to improve management decision making.
+MoneyWorks is robust, fast, and scalable yet simple and user-friendly, with an excellent
+audit trail and superior reporting capabilities.
+
+ License : Demo, Cashbook $154, Express $309, Gold $616
+ Author/Publisher : Cognito Software, LTD
+ Modification Date : November 26, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 24.0 MB - Gold 5.2.5
+
+ Download 
+File Size: 22.6 MB - Express 5.2.5
+
+ Download 
+File Size: 21.4 MB - Cashbook 5.2.6
+
+ Updates 
+
+ Home Page 
+
+ MortgageX 1.0 
+
+This program computes payment information for fixed rate amortized loans.
+The user can supply any three of the four mortgage parameters; principal,
+interest, term (# of months) and monthly payment. The fourth parameter
+is calculated automatically.
+
+MortgageX also produces a payment schedule, indicating the principal,
+interest, remaining principal, and total interest on a month-by-month
+basis.
+
+MortgageX contains entry fields for the four basic mortgage parameters and
+corresponding selection buttons. To produce a mortgage schedule, enter
+three of the values into the respective fields. Using the selection
+buttons, choose the mortgage parameter you wish to determine (whatever
+was entered in its corresponding field is ignored).
+
+ License : Freeware
+ Author/Publisher : IglooSoft
+ Modification Date : January 30, 2003
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 103 Kb
+
+ Home Page 
+
+ MultiLedger 7.0.8 
+
+A proven integrated, networkable financial package for small businesses,
+MultiLedger is easy to use and installs quickly. Whether you need
+software to help manage jobs, run real-time reports, track costs,
+monitor cash flow, or produce up-to-the-minute financial reports, you
+can choose MultiLedger with confidence. Run it on a network so your
+office team can help manage A/R, A/P, inventory, and more.
+
+ License : Demo, $399
+ Author/Publisher : CheckMark Software 
+ Modification Date : July 22, 2008
+ Requirements : Mac OS X
+
+ Download 
+File Size: 2.4 MB - version 7.0.7 Demo
+
+ Download 
+File Size: 6.3 MB - version 7.0.8 Update
+
+ Home Page 
+
+ My Money Minder 1.9.8 
+
+Don't have a degree in Finance? Need a quick and easy way to manage your
+personal finances? My Money Minder allows you to easily keep track of
+all your expenses, income and bank account balances. All your data can
+be quickly viewed in either a spreadsheet-style grid or as a Line, Bar,
+Pie or Area graph.
+
+ License : Shareware, $12.50
+ Author/Publisher : Ben Blake
+ Modification Date : March 2, 2008
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 7.9 MB
+
+ Home Page 
+
+ MYOB AccountEdge 2008 
+
+MYOB AccountEdge automates, organizes and processes all your business
+tasks and financial information - so you can focus on business.
+
+Create and track sales and purchases, handle all your banking, process
+payroll, inventory and jobs, track and bill time, actively manage your
+customers and access over 195 financial reports to start and maintain a
+well-organized, successful business.
+
+AccountEdge integrates fully with MYOB Business Services, allowing you
+to accept credit cards from your MYOB invoice, offer direct deposit of
+employee paychecks, pay vendors electronically, print certified payroll
+forms on plain paper, or elect to eFile, and/or sign up for full-service
+payroll.
+
+ License : Demo, AccountEdge $299, FirstEdge $99
+ Author/Publisher : MYOB
+ Modification Date : December 12, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 101 MB - AccountEdge 2008 Demo
+
+ Download 
+File Size: 69.6 MB - FirstEdge 3.0 Demo - January 5, 2007
+
+ Home Page 
+
+ OfficeTime 1.4.2 
+
+You are busy: you shouldn't have to think about how to track your time.
+ You should just track it, simply, intuitively and trouble free.
+ You need to know where your time goes. You need easy to use,
+adaptable reporting to let you know exactly what you've been up to.
+ You need flexibility. You want it simple but when you dig deeper,
+you want the power to track your time your way. You want the little
+polishes that make using a program a joy to use.
+ You need OfficeTime.
+
+ License : Shareware, $25
+ Author/Publisher : Transcena Design
+ Modification Date : January 3, 2009
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 12.9 MB
+
+ Home Page 
+
+ Ofx2Qif 3.6 
+
+Ofx2Qif was created to solve to problems:
+ - Import your bank account history into Intuit's Quicken, and;
+ - Automatically add Quicken categories in each bank account registry.
+
+ License : Shareware, $8
+ Author/Publisher : Bright Idea Software
+ Modification Date : March 22, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.4 MB
+
+ Home Page 
+
+ Payroll 7.9.2 
+
+CheckMark Payroll for Macintosh is the complete, affordable payroll
+solution for your small business.
+
+ License : Demo, $249
+ Author/Publisher : CheckMark Software 
+ Modification Date : December 24, 2008
+ Requirements : Mac OS X
+
+ Download 
+File Size: 3.1 MB - version 7.9.2 updater
+
+ Download 
+File Size: 2.9 MB - version 7.8.0 Demo - December 3, 2007
+
+ Home Page 
+
+ Project Calculator 3.2 
+
+Project Calculator is a tool that helps you track the time you work on your projects.
+You can manage several projects at the same time.
+
+Whenever you worked on a project, you create an entry which contains information on when
+you worked, how long you worked and what you did.
+
+ License : Shareware, $15
+ Author/Publisher : Blue Banana Software
+ Modification Date : November 26, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 4.5 MB
+
+ Home Page 
+
+ Qif Master 6.91 
+
+QIF Master makes it easier to enter banking, credit card, and investment
+transactions into Quicken.
+
+Bank and Credit Card Transactions: Many online banks and credit card
+companies allow you to download recent transactions (checks, deposits,
+credit card charges, etc.) into a file in the Quicken Interchange Format
+(QIF), so that you can import these transactions into your Quicken
+account. The problem with this approach is that typically the bank has
+no way of assigning meaningful categories to the transactions. So, if
+you care about categorizing your Quicken transactions, you must go
+through each transaction you have just imported in Quicken, and add
+categories. QIF Master automates this process.
+
+Some banks and credit card companies also produce transaction histories
+in QFX or OFX format. OFX is an open standard format, and QFX is a
+Quicken-specific variant. Quicken can import QFX format (Quicken calls
+this Web Connect) and match transactions with transactions already in
+your register. This matching is useful, but if you like your
+transactions automatically categorized, you might prefer to process the
+QFX or OFX with QIF Master, which will convert it to QIF and add
+categories. If all you have available is OFX, you cannot import it into
+Quicken, but you can convert it to QIF and then import it.
+
+QIF Master adds Quicken categories based on the description (e.g. payee)
+of each transaction. To convert a QIF file, just drop it onto QIF
+Master. You can configure QIF Master as a browser helper application
+for files of type application/qif to have it run automatically on
+downloaded QIF files. The resulting file can then be imported into
+Quicken.
+
+ License : Shareware, $16
+ Author/Publisher : John Woodward
+ Modification Date : March 6, 2009
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 4.7 MB
+
+ Home Page 
+
+ QuickBooks Pro 2009 10.0.3 R6 
+
+Grow your business with the America's #1 small business financial
+software. It's built for Mac users by Mac users, with the ease of use
+you need to focus on making money.
+ Made for the Mac, with the simplicity you expect
+ Create invoices, pay bills, and manage expenses in minutes
+ Be ready at tax time with complete & accurate records
+
+ License : Update, $200
+ Author/Publisher : Intuit
+ Modification Date : March 20, 2009
+ Requirements : Mac OS X 10.5.4 or higher
+
+ Download 
+File Size: 109.0 MB - 2009 10.0.3 R6 Updater
+
+ Download 
+File Size: 86.8 MB - 2007 R7 Updater
+
+ Home Page 
+
+ Quicken 2007 R2 
+
+Quicken is the painless way to organize your finances and the only way
+to do your banking online with your Mac. Now more than ever, Quicken
+taps the power of the Internet to help you make
+more informed decisions. So you'll have better information (and better
+tools) for analyzing opportunities relevant to you.
+
+ License : Free Updates, Purchase for $60
+ Author/Publisher : Intuit
+ Modification Date : December 9, 2006
+ Requirements : Mac OS X 10.2.8, 10.3.9 or 10.4.1 or higher
+
+ Download 
+File Size: 5.9 MB Quicken 2007 R2 Updater
+
+ Download 
+File Size: 7.9 MB Quicken 2006 R6 Updater - January 26, 2007
+
+ Download 
+File Size: 5.8 MB Quicken 2006 R5 Updater
+
+ Download 
+File Size: 5.8 MB Quicken 2006 R4 Updater
+
+ Download 
+File Size: 8.3 MB Quicken 2005 R6 Updater
+
+ Updates for Quicken 2006 
+
+ Updates for Quicken 2005 
+
+ The Quicken Store 
+
+ Intuit Home Page 
+
+ QTax 5.7 
+
+This is a retail sales tax calculator (regular & inverse). It's fully
+customizable and should be able to adapt to any tax rate of just about
+anywhere.
+
+ License : Freeware
+ Author/Publisher : Eric Tremblay
+ Modification Date : September 27, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 183 Kb
+
+ Home Page 
+
+ ReceiptWallet 2.0.9 
+
+ReceiptWallet is a Mac OS X program that allows you to scan in and manage your receipts.
+When you scan in each receipt, you enter a few pieces of information about the receipt
+such as the merchant, the amount, and category and then you can quickly and easily locate
+your receipts. You can view the receipts right on the screen, print them, email them, or
+save them as PDFs. In addition to the powerful search built into ReceiptWallet, you can
+organize your receipts into collections. These collections can contain whatever you want
+and even better than that is the ability to create smart collections that automatically
+create collections based on whatever criteria you like. For instance, you can create a
+smart collection that contains all of your grocery store receipts or one that contains
+receipts for a certain year. The possibilities are endless.
+
+ License : Shareware, $30
+ Author/Publisher : GGT Enterprises
+ Modification Date : January 29, 2009
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 6.1 MB
+
+ Home Page 
+
+ Savings Bond Tracker 2.1.2 
+
+Track and price EE bonds, I bonds, E bonds, and Savings Notes issued from 1941 to today.
+
+Free semi-annual online updates for pricing data.
+
+Calculate redemption values for periods from May, 1992 through the current redemption period.
+
+View cumulative or annualized interest earnings by tax year for your entire savings bond portfolio, at a glance.
+
+Export your portfolio, with values to spreadsheets (CSV) or Quicken for Mac (QIF format only).
+
+Support for multiple, distinct portfolios
+
+ License : Shareware, $10
+ Author/Publisher : Spotted Snake Software
+ Modification Date : November 24, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.0 MB
+
+ Home Page 
+
+ Simple GST Calculator 4.0 
+
+Simple GST Calculator has quite a few features:
+ It can calculate:
+ Amount of tax, and the total price including tax, for up to, two seperate taxes from the amount before tax
+ The price before tax and the total price including tax, from the amount of tax, for up to, two seperate taxes
+ The price before tax and and the amount of tax, from the total price including tax, for up to, two seperate taxes
+ Support for two additive tax fields
+ Give you the amount of tax, for two taxes, on any price
+ Save calculations to the memory with totals for each field
+ Unified interface - all functions are available from the one window
+ Unified keyboard shortcuts for all commands including moving between tabs
+
+ License : Freeware
+ Author/Publisher : Benjamin Green 
+ Modification Date : May 6, 2005
+ Requirements : Mac OS X 10.3.8 or higher
+
+ Download 
+File Size: 96 Kb
+
+ Home Page 
+
+ Sole Possession 2.0.2 
+
+Sole Possession is a home inventory cataloger, allowing you to track
+where all your possessions are as well as providing you with estimated
+worth reports for insurance purposes in case of fire, theft, etc.
+ Track your possessions using a plethora of fields
+ Store multiple pictures of all your possessions
+ Print lists of possessions with their estimated worth
+ Search your possessions
+
+ License : Shareware, $15
+ Author/Publisher : Epigroove
+ Modification Date : February 22, 2005
+ Requirements : Mac OS X 10.2.9 or higher
+
+ Download 
+File Size: 11.3 MB
+
+ Home Page 
+
+ StockOptionCalc 1.0 
+
+ Great tool for tracking company stock options
+ Automatically tracks vesting dates
+ Calculates amount of vested shares based on date
+ Calculated option worth based on vested shares
+ Option to enter any stock price to check value
+ Internet look for current stock price via stock symbol
+ Supports proxy servers
+
+ License : Shareware, $8
+ Author/Publisher : NiSask Software
+ Modification Date : September 2, 2004
+ Requirements : Mac OS X
+
+ Download 
+File Size: 1.0 MB
+
+ Home Page 
+
+ Stone Hill Invoicer 1.3.5 
+
+Stone Hill Invoicer makes invoices dead simple. Stop shuffling papers
+and struggling with spreadsheets.
+
+ License : Shareware, $47
+ Author/Publisher : Codehackers
+ Modification Date : November 29, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ Store House 1.0 
+
+Store House is a simple way to keep track of information about your
+assets such as: its location, description, cost, warranty information,
+even a beneficiary of the object. Not only can it store descriptions and
+insurance information about your possessions (helpful in case of a
+natural disaster), but it can manage large collections such as baseball
+cards, DVD's, CD's etc. (it stores up to 8 terabytes of information).
+You can add a couple of custom fields to meet any special needs you
+might have.
+
+ License : Shareware, $15
+ Author/Publisher : Digital Fried Chicken
+ Modification Date : July 30, 2004
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 13.5 MB
+
+ Home Page 
+
+ TaskTime 4.5.9 
+
+TaskTime3 can make tracking time on projects a snap. Generate custom
+invoices then print, email, or save them.
+
+Unlimited clients, unlimited projects for each client.
+
+ License : Shareware, $15
+ Author/Publisher : ToThePoint Software
+ Modification Date : March 6, 2009
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 11.2 MB
+
+ Home Page 
+
+ TimeCache 7.0.13 
+
+TimeCache makes it quick and easy to track your time and expenses on
+billable projects. You enter time and expenses in a Daily Log that's
+like an electronic timesheet. You can see your day's work reflected
+here, plus any expenses you incur that you want to make sure you bill
+for. New Default Sets let you quickly load your Daily Log screen at the
+beginning of the day with a set of projects you're likely to work on.
+
+TimeCache makes it easy to enter data. You create listings of items like
+clients, projects and billing categories for time and expenses.
+TimeCache offers a List Manager where you can quickly add, remove,
+edit, import and export list items for instant access when you're
+recording your time and expenses. If you work on a retainer basis with
+some or all of your clients, TimeCache makes it easy to keep track of
+your billable charges.
+
+ License : Shareware, $50
+ Author/Publisher : PandaWare
+ Modification Date : August 14, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 15.1 MB
+
+ Home Page 
+
+ TimeEqualsMoney 3.4.4 
+
+TimeEqualsMoney by Stone Design is a consultant's best friend! Track
+work sessions for any number of clients. Pause and resume your work
+sessions. Track billable expenses. Instantly create customizable
+invoices and reports. Export the information to any spreadsheet or
+database.
+
+ License : Shareware, $49
+ Author/Publisher : Stone Design
+ Modification Date : August 8, 2008
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 2.4 MB
+
+ Home Page 
+
+ TimeLog 4.4.3 
+
+Keeping track of the time you spend on your projects has never been
+easier. Offering an interface similar to iTunes, every Mac user feels
+familiar with TimeLog.
+
+Integrates with iCal, Address Book, .mac Sync and iSync TimeLog analyzes
+your iCal calendars and calculates the time you spend on your projects.
+You can assign clients to your projects from the MacOS X Address Book.
+If you work on different Macs that are synchronized with .mac your time
+sheets will always be up to date.
+
+ License : Sharewre, $25
+ Author/Publisher : Media Atelier
+ Modification Date : March 7, 2009
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ TimeNet 3.9.21 
+
+Simple. Powerful. Practical. Intelligent invoicing has arrived. TimeNet
+is so easy to understand that anyone and everyone will be able to keep
+track of every second spent on projects, easily create tax reports at
+the end of the year, view outstanding bills, keep track of payments, and
+visually track work flow through the months.
+
+ License : Shareware, $45
+ Author/Publisher : AppleSource
+ Modification Date : January 20, 2009
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 9.9 MB
+
+ Home Page 
+
+ TimeSlice 4.2.1 
+
+TimeSlice by Modesitt Software is an easy-to-use time-tracking and
+billing application for OS 9 through OS X.
+
+ License : Shareware, $49
+ Author/Publisher : Modesitt Software
+ Modification Date : November 12, 2008
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ Time Tracker 1.2.6 
+
+Track the time you spend on projects with this simple and easy-to-use
+application. Divide your work into projects, and split each into
+individual tasks. Stay honest, and not count those coffee breaks with
+the built-in idle time alerts. A menu bar icon reminds you at a glance
+whether the timer is running and allows you to easily stop and start the
+timer.
+
+ License : Freeware
+ Author/Publisher : Aaron VonderHaar
+ Modification Date : February 15, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.1 MB
+
+ Home Page 
+
+ TinyBooks 6.0.2 
+
+TinyBooks is an easy-to-use, non-bloated, single-entry accounting and
+bookkeeping system for the Macintosh. Designed for Sole Proprietors, and
+small businesses, TinyBooks can also be used to help with the family
+finances.
+
+ License : Shareware, $49
+ Author/Publisher : Ken Winograd
+ Modification Date : April 17, 2009
+ Requirements : Mac OS X
+
+ Download 
+File Size: 269 Kb
+
+ Home Page 
+
+ TopCalculette Pro 7.0 
+
+Accounting calculator with tape. 80 currencies converter updated by the internet.
+
+ License : Shareware, $25
+ Author/Publisher : RubenSoft
+ Modification Date : October 26, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.0 MB 
+
+ Home Page 
+
+ WorkTimer 2.0.4 
+
+Because life is short and your time is limited, your clients should at
+least pay you for what you do. With WorkTimer at you desktop there will
+be no doubt! Its real easy! This nice and handy utility will never
+disturb you with fancy graphs and all that wrap-up. While you focus on
+being creative, WorkTimer will do the time job.
+
+ License : Freeware
+ Author/Publisher : Gerhard Sletten
+ Modification Date : November 11, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 164 Kb
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

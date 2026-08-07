@@ -1,0 +1,587 @@
+Pure Mac: Weather - Software for Macintosh 
+
+ Weather 
+
+ Web 
+
+ Pure-Mac.com 
+
+ dWeather 
+ Earth Browser 
+ Global Warmth 
+ Home Weather Center 
+ MegaTrack 
+
+ Meteorologist 
+ PyWeather 
+ Seasonality 
+ Son of Weather Grok 
+
+ WeatherDock 
+ WeatherHawk-X 
+ WeatherLink 
+ WeatherManX 
+
+ WeatherMenu 
+ WeatherPop 
+ WeatherTracker 
+ wview 
+ Wx 
+
+ How's the Weather? by Jason Snell 
+
+ National Weather Service 
+
+ Weather.com 
+
+ Weather Underground 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ dWeather 1.5 
+
+A cocoa java utility to look up the local forecast from weather.com
+using your 5 digit zip code. This will give you both the current weather
+conditions as well as a weekly forecast. I wrote this software because I
+didn't want a docklet or a toolbar application that is running all the
+time. I find this is a waste of resources and is also often buggy.
+
+ License : Freeware
+ Author/Publisher : David Giffin
+ Modification Date : March 22, 2004
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 420 Kb
+
+ Home Page 
+
+ Earth Browser 2.11.0 
+
+EarthBrowser is a three dimensional model of the earth with constantly
+updating live information. Exploring the earth is fun and easy with a
+point and click interface that lets you rotate and zoom to any desired
+location. EarthBrowser's dynamic nature makes it an information resource
+that is always useful and fascinating.
+Major Features
+ - Weather forecasts for over 17,000 locations
+ - High resolution 1km/pixel satellite map of the Earth
+ - Live hurricane and tropical storm tracking
+ - Satellite cloud animations are updated every 3 hours
+ - Live earthquake locations and magnitudes with links
+ - Live ocean buoy data for over 250 buoys
+ - Antarctic iceberg tracking
+ - Daily fire hotspot display
+ - Hundreds of dynamic webcams all over the globe
+ - Add and save your own webcams
+ - Political borders/Tectonic plate boundaries
+ - Over 15,000 volcanoes with links to more information
+ - Screen Saver
+ - Current time of day in cities worldwide
+ - Links to facts about countries all over the world
+ Customizable
+ EarthBrowser enables you to set which cities display weather and even
+add your own cities to automatically get the closest weather report.
+View hundreds of live webcams across the globe and add your own webcam
+or vacation picture links right on the globe.
+
+ License : Shareware, $24
+ Author/Publisher : Lunar Software
+ Modification Date : December 20, 2007
+ Requirements : Mac OS X 10.2 or higher, 400MHz or faster
+
+ Download 
+File Size: 9.7 MB
+
+ Home Page 
+
+ Global Warmth 2.1 
+
+Automatically receive the latest weather and forecast from your favorite
+weather stations from around the US and the planet - and display the
+info just the way you want, including as a menu extra, as a floating
+command center with hot tips, the classic thermometer view, on the dock
+icon, and in the multiple station viewer.
+
+ License : Shareware, $19
+ Author/Publisher : Stone Design Corp.
+ Modification Date : July 15, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.2 MB
+
+ Home Page 
+
+ Home Weather Center 1.8 
+
+Home Weather Center (HWC) is a weather graphing, monitoring and analysis
+application for Mac OS X. HWC is designed as a virtual weather station
+using Internet based weather sources rather than the more traditional
+and costly hardware based sensors.
+
+As data is gathered and stored in its database HWC allows you to view
+weather statistics such as the lowest temperature, or the highest wind
+speed over any time period stored in the database. In addition HWC
+contains a journal for weather notes and can generate web pages
+containing current conditions, graphs, statistics and a web-cam image.
+HWC can upload these web pages to your server for display via a web
+browser anywhere in the world.
+
+HWC also monitors the weather and can run a set of pre-defined and user
+programmed alerts that can trigger emails, send SMS messages to your
+mobile phone and/or run scripts should an alert trigger. Via its ability
+to run scripts when alerts are triggered, HWC is compatible with devices
+such as the eyeSignal.
+
+ License : Shareware, $35
+ Author/Publisher : Lightsoft Software
+ Modification Date : November 11, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 7.6 MB
+
+ Home Page 
+
+ MegaTrack 1.4.1 
+
+Hurricane tracker.
+
+ License : Freeware
+ Author/Publisher : Bob Rudis
+ Modification Date : August 30, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 8.1 MB
+
+ Home Page 
+
+ Meteorologist 1.4.7 
+
+Meteorologist is a free weather program for OS X. It allows users total
+control over their weather viewing, including simultaneous interlaced
+weather reports from multiple weather servers, multiple weather
+locations, weather alerts and much more.
+
+ License : Freeware
+ Author/Publisher : Meteorologist Group
+ Modification Date : September 3, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ PyWeather 1.5 
+
+A cocoa application to look up the local forecast from weather.com using
+your 5 digit zip code. This will give you both the current weather
+conditions as well as a weekly forecast. I wrote this software because I
+didn't want a docklet or a toolbar application that is running all the
+time. I find this is a waste of resources and is also often buggy. Coded
+using Cocoa PyObjC and open standards.
+
+ License : Freeware
+ Author/Publisher : David Giffin
+ Modification Date : April 8, 2004
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 524 Kb
+
+ Home Page 
+
+ Seasonality 1.5 
+
+Seasonality takes weather monitoring to a whole new level with weather
+forecasts, radar images, sunrise/sunset times, and much more. View
+informative icons demonstrating what weather is coming your way over the
+next 7 days. Use radar images to check out where it is raining or
+snowing. Compare this month's weather conditions to last month's, or
+even last year's. Keep track of just your hometown or multiple cities
+across the U.S.
+
+ License : Shareware, $25
+ Author/Publisher : Gaucho Software
+ Modification Date : November 15, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 16.7 MB
+
+ Home Page 
+
+ Son of Weather Grok 4.2.2 
+
+Son of Weather Grok is an application that displays current weather
+conditions and forecasts for cities from around the world. It taps into
+NOAA's (National Oceanic and Atmospheric Administration) data center
+using 4 letter ICAO codes for Airports. Son of Grok will show the
+temperature, sky conditions, humidity, wind speed, pressure, ceiling,
+visibility, and much more.
+
+ License : Freeware
+ Author/Publisher : Bains Software
+ Modification Date : June 27, 2004
+ Requirements : Mac OS X 10.1 or higher and Mac OS 8 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ WeatherDock 2.4.5 
+
+WeatherDock displays weather information based on xml-feeds supplied by
+weather.com. It displays textual weather information as well as
+icon-based. It actively updates the Dock icon based on the current
+conditions. Next to the current conditions it contains 5 day forecasts.
+
+ License : Freeware
+ Author/Publisher : Alwin Troost
+ Modification Date : January 9, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 4.3 MB
+
+ Home Page 
+
+ WeatherHawk-X 1.0 
+
+WeatherHawk is a system composed of weather monitoring meteorological
+instruments with data loggers to store measurements. Discover how the
+WeatherHawk wireless personal weather station combines high reliability
+sensors, powerful spread spectrum radios, and display software options
+to create a family of easy-to-use weather stations.
+
+WeatherHawk-X was written for the Mac OS X operating system V.10.2.8 or
+later, for use solely with the WeatherHawk family of personal weather
+stations.
+
+The Demo software download below is designed to show the display
+features of the application using an embedded data file. In some cases a
+feature may not demonstrate using this software because the feature
+requires a dynamic data input. This demonstration software will not
+operate with a functional weather station.
+
+WeatherHawk OS X software updates are at no charge to system owners for the life of the product.
+
+ License : Demo, $1823 and up for a complete WeatherHawk Station
+ Author/Publisher : WeatherHawk/programmed by AfterTen Software
+ Modification Date : July 15, 2004
+ Requirements : Mac OS X 10.2.8 or higher, Keyspan Serial-to-USB Adapter, WeahterHawk Station
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ WeatherLink 5.0.3 
+
+WeatherLink for Mac OSX, for Vantage Pro2 and Original Vantage Pro
+
+For the ultimate in weather monitoring, add WeatherLink to your Vantage
+Pro or Pro2. The data logger fits neatly into the weather station
+console or Weather Envoy, storing weather data even when it's not
+connected to your PC. Later, download the data and use the software to
+create graphs, generate summaries, and more.
+ See current conditions at a glance on the instant weather bulletin.
+Graph data on a daily, weekly, or yearly basis. Or view multiple weather
+variables at the same time to see their relationships.
+ Create Weather Watcher Reports in NOAA National Climatic Data Center
+Format.
+ Create your own weather website or post weather conditions to a LAN
+using our included HTML templates. Upload other files (such as images
+from a webcam) along with your weather data.
+
+ License : $165 plus a compatible Davis Weather Station
+ Author/Publisher : Davis
+ Modification Date : September 28, 2005
+ Requirements : Mac OS X 10.1 or higher, Keyspan Serial-to-USB Adapter - Compatible Davis Weather Station
+
+ Download 
+File Size: 5.5 MB
+
+ Download page 
+
+ WeatherLink for Perception, Wizard, or Monitor, for Mac OS X 
+
+ WeatherLink for Mac OSX, for Vantage Pro2 and Original Vantage Pro 
+
+ WeatherManX 1.9.8 
+
+WeatherMan and WeatherManX: download current weather conditions, current
+weather forecast and Nexrad radar images from the National Weather
+Service to your Macintosh.
+
+ License : Shareware, $10
+ Author/Publisher : AfterTen Software
+ Modification Date : July 17, 2007
+ Requirements : Mac OS X 10.2 or higher and Mac OS 8 or higher
+
+ Download 
+File Size: 13.1 Kb
+
+ Download 
+File Size: 1.9 MB
+
+ Home Page 
+
+ WeatherMenu 3.7.5 
+
+Automatically puts multiple icons in the menu bar.
+ Downloads and displays current weather info for multiple cities worldwide.
+ Can put MULTIPLE icons in the menubar for multiple cities.
+ Full Forecast information
+ Inform you of current weather alerts
+ National Weather Service Radar
+ Full Solor and Lunar information
+ Color Icons
+ Proxy support
+
+ License : Shareware, $5
+ Author/Publisher : AfterTen Software
+ Modification Date : December 2, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 2.6 MB
+
+ Home Page 
+
+ WeatherPop 2.6.1 
+
+Are you bleary eyed from staring into bright white phosphor all day?
+Download WeatherPop Advance for Mac OS X only and you can be in touch
+with what it's like outside right now. Let the current conditions and
+temperature in your menu bar serve as a gentle reminder to get outside,
+go for a walk, and stop working so hard.
+
+The freeware version of WeatherPop only supports cities in the United
+States, covered by the National Weather Service. Also supports up to 3
+favorite cities!
+
+ License : Freeware, Advance version Shareware, $8
+ Author/Publisher : Glucose Development Corporation
+ Modification Date : March 27, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 3.5 MB - WeatherPop Advance
+
+ Download 
+File Size: 3.5 MB - WeatherPop
+
+ Home Page 
+
+ WeatherTracker 2.3.2 
+
+Originally MacWeather.
+WeatherTracker is a shareware application that provides an easy-to-use interface to
+the Internet weather servers at The Weather Underground. Hourly weather conditions,
+local forecasts, and climatic data are available for nearly 1500 cities in North
+America. Daily observations are also available for many cities worldwide.
+
+ License : Shareware, $20
+ Author/Publisher : Chris Kidwel/Purchased and Killed by Aladdin
+ Modification Date : February 20, 1999
+ Requirements : 68020 or better and PPC
+
+ Download 
+File Size: 970 Kb - version 2.3.2 - Last version by Chris Kidwel - Still stable and functional
+
+ wview 3.2.1 
+
+wview is a collection of linux/unix daemons which interface with a
+supported weather station to retrieve archive records (if generated by
+the station) and current conditions. The stations currently supported
+are:
+ * Davis Vantage Pro/Pro2
+ * Vaisala WXT-510
+ * Station Simulator
+
+If the station does not generate archive records internally, wview will
+auto-generate archive records based on the sensor readings collected for
+that interval. The archive records are stored in the Davis WLK file
+format (thus Weatherlink-generated archive files can often be used by
+wview). At a configurable interval, wview will utilize the archive
+history and current conditions to generate weather images (buckets,
+dials and graphs) and HTML web pages based on user-configurable HTML
+templates.
+
+ License : Freeware
+ Author/Publisher : Mark Teel
+ Modification Date : March 16, 2006
+ Requirements : Mac OS X
+
+ Download 
+File Size: 756 Kb
+
+ Home Page 
+
+ Wx 5.16 
+
+Wx is a specialized internet weather app for Mac OS X that downloads and
+processes weather information and forecasts for the United States. The
+software links to free XML data on the internet from the US National
+Weather Service, and presents it in an attractive user-friendly
+interface. Wx can be configured to track weather conditions,
+watches/warnings/advisories, live radar, and forecast information for up
+to 20 locations, and it can download up to 20 weather maps or images.
+Optional add-ons allow each user to customize Wx for their lifestyle,
+hobbies, and activities. Wx downloads data on-demand, and can be
+configured to download data automatically on a periodic basis. Current
+weather conditions are summarized in the app's dock icon and dock menu,
+a floating "MiniWx" panel, and a Quartz screensaver. Wx can also export
+settings for an iPhone, allowing it to use the iPhoneWx web app.
+
+New in Wx 5 is "iPhoneWx", a web app that displays Wx locations and maps
+on your iPhone. Here's how it works -- set up weather locations and maps
+in Wx. Then, choose "iPhoneWx Export" from the Wx menu and export an
+iPhoneWx bookmark to Safari. Hook your iPhone up to your computer, sync
+your bookmarks, and that's it! Just tap the iPhoneWx bookmark in Safari
+on your iPhone, and have access to your own custom weather center
+anywhere you go (wi-fi or EDGE access required).
+
+ License : Shareware, $17
+ Author/Publisher : Craig A. Hunter
+ Modification Date : November 22, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.8 MB
+
+ iPhoneWx 
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

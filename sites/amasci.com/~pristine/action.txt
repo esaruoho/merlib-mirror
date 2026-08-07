@@ -1,0 +1,1579 @@
+Pure Mac: Action Games - Software for Macintosh 
+
+ Action Games 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Alice 
+ Aliens vs. Predator 
+ Battlefield 1942 
+ Call of Duty 
+ Call of Duty 2 
+ Call of Duty 4 
+ Deep Trouble 
+ Deep Trouble 2 
+ Descent II 
+ Doom 
+ Doom 3 
+
+ Duke Nukem 3D 
+ Enemy Engaged 
+ Enemy Territory Quake Wars 
+ Excalibur: Morgana's Revenge 
+ Ghost Recon 
+ Halo 
+ Hexen 2 
+ Jedi Knight: Jedi Academy 
+ Jedi Knight II: Jedi Outcast 
+ LEGO Star Wars 
+ LEGO Star Wars II 
+
+ Lugaru 
+ Marathon 
+ Marathon II 
+ Marathon Infinity 
+ Medal of Honor 
+ Nexuiz 
+ Oni 
+ Penguins Arena 
+ Postal 2 
+
+ Prey 
+ Quake 
+ Quake 2 
+ Quake 3: Arena 
+ Quake 4 
+ Raven Shield 
+ Return to Castle Wolfenstein 
+ Rubicon X 
+ Sauerbraten 
+ SiN 
+
+ Soldier of Fortune II 
+ Spider-Man 2 
+ Star Trek Voyager: Elite Force 
+ Star Wars: Battlefront 
+ Stubbs the Zombie 
+ Tomb Raider: Chronicles 
+ Tomb Raider Anniversary 
+ Unreal Tournament 
+ Unreal Tournament 2003 
+ Unreal Tournament 2004 
+ Wolfenstein: Enemy Territory 
+ XIII 
+
+ If you're looking for action games for Mac OS 8/9, check the Classic Action Games page. 
+
+ Many servers which serve game files are slow (even if you have a fast connection). Many of these files are large.
+ You might want a Download Manager . 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Alice 1.1.2 
+
+American McGee's Alice is a strangely familiar, yet utterly wicked adventure. Alice
+answers a distress summons and returns to Wonderland. Upon her return she barely
+recognizes the befouled setting. From the fungal rot of the Mushroom Forest to the
+infernal chemistry of the Mad Hatter's Domain and beyond, Wonderland is in chaos.
+Undaunted by the diseased ambiance, cavernous confusion, and mortal danger that surrounds
+her, Alice must undo the chaos. Equipped with courage, a keen appetite for the bizarre,
+and a lethal array of mischievous toys, she must penetrate the stronghold of her enemies,
+confront the forces of evil and put the wicked Queen of Hearts in her place.
+
+Alice features stunning third person, 3D action based on enhanced Quake III technology,
+devious puzzles and labyrinthine mazes and familiar characters transformed. Included
+levels are reminiscent of the Pool of Tears, the Caterpillar's Garden, the Mad Hatter's
+Tea Party and more. Enemies include the ferocious Card Guards, demonic Fire Imps, ravenous
+Jabberspawn and more. The original soundtrack is composed and arranged by Chris Vrenna,
+award winning artist and founding member of Nine Inch Nails.
+
+ License : Demo, $45
+ Author/Publisher : Aspyr Media
+ Modification Date : March 1, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 6.2 MB - 1.1.2 Updater
+
+ Download 
+File Size: 82.0 MB - Demo - Demo not Compatible with Leopard
+
+ Home Page 
+
+ Aliens vs. Predator 1.0.9 
+
+Chase, hide or advance in over 40 levels of the most nightmarish,
+chillingly detailed futuristic environment your mind could ever imagine.
+Now the three most ferocious species in the universe are pitted against
+one another in a battle for the ultimate prize- survival.
+
+Choose to be a Colonial Marine, a Predator, or an Alien as you make your
+way through horrifyingly suspenseful environments ranging from
+spaceships and colonial bases to spacestations and eerie planetscapes.
+One wrong move turns you from hunter into prey. Your species is counting
+on you.
+
+ License : Demo, $20
+ Author/Publisher : MacPlay
+ Modification Date : September 30, 2003
+ Requirements : Mac OS X 10.0.4 or higher and Mac OS 8.6 and higher
+
+ Download 
+File Size: 3.2 MB - 1.0.9 Updater
+
+ Battlefield 1942 1.6.1d 
+
+Battlefield 1942: Secret Weapons of WWII lets you control lethal
+experimental weapons from World War II. Straight from Allied and Axis
+laboratories, many of these weapons never saw combat until now.
+
+Defeat your enemies with a variety of experimental firepower, including
+the Wasserfall Guided Rocket, the Natter Rocker Plane, and the
+revolutionary Rocket Pack. Drop from a cargo plane behind enemy lines
+and prepare for close combat with one-shot-kill knives, new machine
+guns, and more. Give all of these weapons and vehicles a trial by fire
+on eight new battle maps.
+
+ License : Demo, $30
+ Author/Publisher : Aspyr Media
+ Modification Date : July 20, 2005
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 300 MB - Demo
+
+ Download 
+File Size: 9.1 MB - Update 1.6.1d
+
+ Home Page 
+
+ Call of Duty 1.5c 
+
+In Call of Duty, you get to fight alongside your brothers-in-arms as
+history comes alive. In momentous battles from D-Day to Stalingrad,
+you'll find yourself in incredibly real terrain, caught in breathtaking
+life and death combat. You'll fight as American and British paratroopers
+and as a young Russian soldier conscripted into the Soviet Army. Whether
+cut off in a village in Normandy, battling to re-take Red Square,
+boarding and sinking a German battleship, speeding down German-held
+roads or rescuing Allied officers from a German stronghold, the dangers
+are more than any one soldier can overcome. To make it through, you'll
+need your buddies around you, and they'll need you. That's what war is
+about, and it's what Call of Duty is all about.
+
+ License : Demo, $45
+ Author/Publisher : Aspyr Media
+ Modification Date : April 15, 2005
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 256 MB - Demo
+
+ Download 
+File Size: 333 MB - Call of Duty 1.5c Update and Call of Duty: United Offensive 1.5.1c Update
+
+ Home Page 
+
+ Call of Duty 2 1.3 
+
+Call of Duty 2 redefines the cinematic intensity and chaos of battle as
+seen through the eyes of ordinary soldiers fighting together in epic
+WWII conflicts. The sequel to 2003's Call of Duty, winner of over 80
+Game of the Year awards, Call of Duty 2 offers more immense, more
+intense, more realistic battles than ever before, thanks to the stunning
+visuals of the new COD 2 engine.
+
+ License : Demo, $50
+ Author/Publisher : Aspyr Media
+ Modification Date : September 12, 2006
+ Requirements : Mac OS X 10.3.9 or higher, 1.8 GHz or higher
+
+ Download 
+File Size: 43.4 MB - 1.3 Patch
+
+ Download 
+File Size: 666.0 MB - 1.0 Demo
+
+ Home Page 
+
+ Call of Duty 4 1.7.1 
+
+Featuring a tense storyline, filled with plot twists, the title thrusts
+players into battle like never before. With amazing special effects,
+including rim-lighting, depth of field, texture streaming and character
+self-shadowing, players are enlisted into one of the most
+photo-realistic gaming experiences imaginable.
+
+The community-oriented Call of Duty 4 multiplayer gameplay features a
+robust leveling system, variety of unlockable perks, hot-join and
+matchmaking, as well as create a class and party capabilities to ensure
+that players of all skill levels can join in the fun. Additionally over
+100 challenges and a host of new game environments and modes deliver
+unlimited possibilities. Infinity Ward has also included Kill-Cam, a fan
+favorite feature that they created in Call of Duty 2, which allows for
+spectator instant replays.
+
+ License : Update, $55
+ Author/Publisher : Aspyr Media
+ Modification Date : October 15, 2008
+ Requirements : Mac OS X 10.5.4 or higher, Intel Core 2 Duo, 2.0 GHz or higher
+
+ Download 
+File Size: 259 MB - Version 1.7 Patch
+
+ Home Page 
+
+ Deep Trouble 1.0.4 
+
+DeepTrouble is a fast paced 3D action game taking place under water
+where you fight alien colonies.
+
+Most of earth is covered with water after the polar ices melted. The
+water is now becoming contaminated with an unknown pollutant. A team in
+an explorer submarine is sent down to try to find out what's causing the
+contamination and discovers underwater constructions on the ocean floor
+built by an unknown alien race. Your mission is to destroy the
+Constructions to save the water and stop the alien invasion.
+
+ License : Shareware, $20
+ Author/Publisher : CodeBlender Software
+ Modification Date : May 12, 2003
+ Requirements : Mac OS X 10.1 or higher and Mac OS 9 or higher
+
+ Download 
+File Size: 39.2 MB - Demo
+
+ Home Page 
+
+ Deep Trouble 2 2.0 
+
+The year is 2268. After more than 100 years the planet Earth has slowly recovered from the
+previous ecological disaster and the unexpected invasion from an unknown alien race.
+
+DeepTrouble 2 features 11 levels with gorgeous and detailed graphics made possible by the
+use of OpenGL's vertex and fragment shaders. Bump mapping, dynamic shadows and other
+advanced techniques add to the highly detailed graphics. OpenAL is being used to bring out
+great sound effects that will immerse you into the game together with the suspenseful
+music.
+
+ License : Demo, $25
+ Author/Publisher : CodeBlender Software
+ Modification Date : November 28, 2006
+ Requirements : Mac OS X 10.2.8 or higher, G4 800 Mhz or faster
+
+ Download 
+File Size: 41.2 MB
+
+ Home Page 
+
+ Descent II 1.14.19 
+
+If you thought Descent went to the edge of 360 degree 3D power-blasting
+sensory insanity, then prepare yourself. You're about to plunge over the
+edge, and into the depths of Descent II. Suddenly warped into the outer
+reaches of the Zeta Aquilae System, your new mission sends you into the
+black depths of treacherous alien mines. You blast through enemy robots
+with powerful new tools, leaving their flaming hulks in your exhaust.
+Your ultimate goal: to exterminate the alien robot stronghold from the
+enemy Alien Base and claim total control - it's 30 new levels of
+outrageous destruction.
+
+ License : Demo
+ Author/Publisher : MacPlay/Doverstreet
+ Modification Date : April 18, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.4 MB - Open GL D2X-XL 1.14.19 Universal
+
+ Download 
+File Size: 8.1 MB - D2X for MacOS X by Jeremy - Includes the Mac version of the Descent 2 Demo files - August 31, 2005
+
+ D2X Home Page 
+
+ Doom 1.0.1 
+
+One of the most popular games of all time.
+First Person shoot-em-up. Hours of play here.
+
+ License : Freeware
+ Author/Publisher : id Software
+ Modification Date : September 27, 1995
+ Requirements : 68040 or better, System 7.1 or better and of course Mac OS X for Doom Legacy
+
+ Download 
+File Size: 4.5 MB - Doom Legacy v1.40 - Released November 06, 2002
+
+ Download 
+File Size: 3378 Kb - Mac Demo
+
+ Parent Directory 
+
+ Doom Legacy 
+
+ Doom 3 1.3.1rA 
+
+The ruins of an ancient Martian civilization have unlocked the secrets
+to teleportation, and the UAC will stop at nothing to harness this
+world-altering technology. As part of a marine detachment sent to
+protect the facility, your duty seemed simple enough - until the invasion.
+Now, in an epic clash against pure evil you must fight to understand who
+is with you, who is against you, and what must be done to stop this
+nightmare from reaching Earth. Built on ID's revolutionary new 3D
+graphics engine DOOM 3 draws you into the most frightening and gripping
+3d gaming experience ever created.
+
+ License : Demo, $45
+ Author/Publisher : Aspyr Media
+ Modification Date : February 2, 2007
+ Requirements : Mac OS X 10.3.8 or higher, G4/G5/Intel 1.5 GHz or higher
+
+ Download 
+File Size: 463 MB - 1.0 Demo
+
+ Download 
+File Size: 11.1 MB - 1.3.1 updater
+
+ Home Page 
+
+ Duke Nukem 3D 1.5 
+
+Murderous aliens have landed in futuristic Los Angeles, and the humans
+suddenly find themselves atop the endangered species list. The odds are
+a million-to-one, just the way Duke likes it! Full movement control lets
+you run, jump, crawl, swim,and jetpack your way through hostile
+environments as you look up and down. 
+This package (the OS X port) includes an installer that will install the
+game from either the PC "Atomic Edition" disc, or the MacSoft disc from
+the Mac Classic version of the game. If you don't have a retail disc,
+the installer can give you the free shareware episode.
+
+ License : Demo - Purchase for $29.95
+ Author/Publisher : Lion Entertainment/MacSoft
+ Modification Date : December 16, 2004
+ Requirements : 68040 or PPC and Mac OS X
+
+ Download 
+File Size: 20.2 MB - OS X 1.5 update and Demo
+
+ Download 
+File Size: 6152 Kb - PPC version 1.2 - Demo
+
+ Download 
+File Size: 6128 Kb - 68040 version 1.2 - Demo
+
+ Download 
+File Size: 579 Kb - 1.2 Updater - Full version
+
+ Home Page 
+
+ Enemy Engaged 1.0 
+
+Enemy Engaged: RAH-66 Comanche Versus KA-52 Hokum is the sequel of the
+1998 successful Apache Havoc by Razorworks.
+
+With Enemy Engaged you're in for the ultimate helicopter flight and
+combat experience. We're talking seriously realistic 3D simulation here,
+with animated pilots, state of the art cockpit and landscape design and
+TRULY dynamic campaigns. Surpassing even the graphic standard of the
+acclaimed Apache Havoc and with enough attention to detail to please
+even the most ardent simulation enthusiasts, Enemy Engaged definitely
+sets the standard for the 21st century chopper sims.
+
+ License : Shareware, $45
+ Author/Publisher : Feral Interactive Ltd.
+ Modification Date : July 16, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 86.0 MB
+
+ Home Page 
+
+ Enemy Territory: Quake Wars 1.5 
+
+Built using id Software's revolutionary MegaTexture rendering
+technology, Enemy Territory: QUAKE Wars features strategic team play,
+persistent character promotions, and the universe's most powerful
+weapons and vehicles in heroic objective-based battles as the Global
+Defense Force faces off against the alien Strogg invasion. Battles rage
+on stunning battlefields inspired by tropical, arctic, temperate, urban
+and desert locations both online and offline against lethal A.I.
+combatants. With unmatched graphics, physics, networking, and
+story-driven military missions, Enemy Territory: QUAKE Wars transports
+players to the front lines of the ultimate war for Earth.
+
+ License : Full Game $50, Free Update
+ Author/Publisher : Aspyr
+ Modification Date : June 12, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 112 MB - version 1.5 Update
+
+ Home Page 
+
+ Excalibur: Morgana's Revenge 3.0 
+
+EMR 3.0 is a unique scenario based upon the Aleph One (Marathon) engine.
+It is a first-person action adventure game, featuring an epic and
+in-depth story line. As a Federation Marine resting after your last
+mission, you start aboard the exploration class Starship Kronos where
+you learn that your real mission has yet to begin. You are re-acquainted
+with the AI Merlin, who introduces you to Kronos time traveling
+technology, and reveals your new mission: to save mankind from the
+clutches of Morgana and her minions. Through untamed raptor-infested
+jungles, castle arenas, and war-torn streets of the future, you will
+wield weapons from all time periods - including the Sword of Power,
+Excalibur - in an effort to thwart the diabolical plot that unfolds. The
+EMR adventure, spread across 42 solo levels, weaves a tale of truth and
+honor, knighthood and bravery, and darkness and treachery. EMR also
+delivers 27 adrenaline pumped network levels. EMR immerses you in an
+amazing new world, creating an addictive, fun and unique gaming
+experience.
+
+ License : Freeware
+ Author/Publisher : Excaliburworld
+ Modification Date : May 19, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 238 MB
+
+ Download 
+File Size: 234 MB
+
+ Home Page 
+
+ Ghost Recon 1.0.3 
+
+The amazing combat experience Tom Clancy's Ghost Recon and award-winning
+expansion pack, Desert Siege, come together to turn your Macintosh into
+a pivotal wartime control center. In Ghost Recon, Russia has fallen to
+ultra-nationalistic leaders driven to rebuild the Iron Curtain. In
+Desert Siege, 60-year conflict boils over as Ethiopia invades its
+smaller neighbor Eritrea, threatening the world's most vital shipping
+lanes in the Red Sea. Command this elite team of U.S. Army Green Berets
+through a series of demolitions, search and rescue missions and all-out
+fights for survival. Select, train and lead the offensive spearhead as
+the first team deployed and the last team to leave. Ghost Recon and the
+Desert Siege expansion pack put you in the deadly, realistic combat of
+tomorrow's battlefields like no other game. If you meet them in combat,
+you're already dead.
+
+ License : Demo, purchase for $50
+ Author/Publisher : Aspyr Media
+ Modification Date : October 14, 2003
+ Requirements : Mac OS X and Mac OS 9
+
+ Download 
+File Size: 2.7 MB - 1.0.3 Updater
+
+ Download 
+File Size: 70.8 MB - Demo
+
+ Home Page 
+
+ Halo 2.0.3 
+
+You are the last of your kind. Bred for combat, built for war. You will
+fight on foot, in vehicles, in the air and beneath the surface of a
+mysterious alien ring orbiting in the depths of space.
+
+Recognized as one of the greatest achievements in video game
+entertainment. The Macintosh version adds
+16-person online multiplayer, new vehicles, new weapons, new maps,
+customizable multiplayer games, the precision of playing with a mouse
+and keyboard and more.
+
+Halo owners who have not upgraded to an Intel-based Mac do not need to upgrade their version of Halo. They will still be able to play network games against owners of the Universal version.
+
+ License : Update, purchase for $50
+ Author/Publisher : Microsoft/Bungie/MacSoft
+ Modification Date : August 12, 2008
+ Requirements : Mac OS X 10.2.8 or later, 512MB RAM, and an 800MHz G4 or faster
+
+ Download 
+File Size: 4.1 MB - Halo 2.x to 2.0.3 Universal Updater - April 27, 2007
+
+ Download 
+File Size: 650 MB - Halo Universal Updater 2.0 (cost $5 for the updater) - August 16, 2006
+
+ Download 
+File Size: 3.6 MB - 1.5.2 Updater - May 27, 2005
+
+ Download 
+File Size: 122.0 MB - Demo
+
+ Home Page 
+
+ Hexen 2 1.1b3 
+
+The four horseman of the Apocalypse lurk in the shadows before you. They
+are Death, Pestilence, Famine and War. They are the root of all that is
+evil. They are the least of your worries.
+
+HeXen II features four single player hubs and deathmatch capabilities
+for 16 players while simultaneously offering four character classes,
+each with four weapons with dual fire modes for a total of 32 unique
+weapon effects. HeXen II is the first 3-D shooter to feature transparent
+water effects in both hardware and software rendering modes and one of
+the only fully 3-D games to feature single player cooperative gameplay.
+
+ License : Demo, $20
+ Author/Publisher : MacPlay
+ Modification Date : June 30, 2002
+ Requirements : Mac OS 8.6 or higher and Mac OS X with the Open Source patch
+
+ Download 
+File Size: 984 Kb - 1.1b3 Application (Full version of Hexen 2 required to play)
+
+ Download 
+File Size: 984 Kb - 1.1b3 Demo Application (you need the Demo files below to play)
+
+ Download 
+File Size: 12.8 MB - Demo Files
+
+ GLHexen 2 
+
+ Home Page 
+
+ Jedi Knight: Jedi Academy 1.0.1e 
+
+Forge your weapon and follow the path of the Jedi!
+
+Take on the role of a new student eager to learn the ways of the Force from Jedi Master Luke Skywalker.
+
+Customize your character and interact with famous Star Wars characters in many unique Star Wars locations where you face powerful enemies. You can build your own lightsaber and use the level selection system to choose your own path through the game.
+
+You must now make the ultimate choice: Fight for good and freedom on the light side or follow the path of power and evil to the dark side.
+
+ License : Demo, $50
+ Author/Publisher : Aspyr Media
+ Modification Date : August 25, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 7.6 MB - 1.0.1e Updater
+
+ Download 
+File Size: 186.8 MB - Demo
+
+ Home Page 
+
+ Jedi Knight II: Jedi Outcast 1.03c 
+
+The rebel Jedi Kyle Katarn is back and ready to take you on his most
+exciting adventure yet!
+
+Several years have passed since Kyle avenged his father's death and
+saved the Valley of the Jedi from Jerec and his band of Dark Jedi.
+Allowing his Force powers to languish for fear of falling to the dark
+side, Kyle entrusted his lightsaber to Luke Skywalker, vowing never to
+use it again. But when a new and menacing threat to the galaxy emerges,
+Kyle knows he must reclaim his past in order to save his future. Players
+assume the role of Kyle as they employ a unique mix of weapons, Force
+powers and your lightsaber in both single- and multiplayer modes.
+
+ License : Demo, $50
+ Author/Publisher : Aspyr Media
+ Modification Date : August 29, 2006
+ Requirements : Mac OS X 10.1 or higher and Mac OS 9.1 or higher
+
+ Download 
+File Size: 4.6 MB - 1.0.3c Updater
+
+ Download 
+File Size: 62.7 MB - Demo
+
+ Home Page 
+
+ LEGO Star Wars 1.0 Rev A 
+
+For the first time ever, one of the world's most successful film series
+meets one of the world's favorite toys in an epic new video game.
+
+Play the whole story of Episode I: The Phantom Menace, Episode II:
+Attack of the Clones and Episode III: Revenge of the Sith - three movies
+in one game!
+
+From Anakin Skywalker and Yoda, to Darth Maul and General Grievous,
+control over 30 of your favorite characters.
+
+ License : Demo, $30
+ Author/Publisher : Aspry Media
+ Modification Date : April 4, 2007
+ Requirements : Mac OS X 10.3.8 or higher
+
+ Download 
+File Size: 217 MB - Demo
+
+ Download 
+File Size: 4.7 MB - Rev A Updater
+
+ Home Page 
+
+ LEGO Star Wars II 1.0 
+
+LEGO Star Wars II follows the Rebel Alliance's battle to dismantle the
+Galactic Empire and rebuild a galaxy in pieces. From Darth Vader's
+pursuit of Princess Leia aboard her blockade runner to a showdown on the
+reconstructed Death Star, the game includes all the family-friendly LEGO
+action that made LEGO Star Wars I such a success.
+
+ License : Demo, $40
+ Author/Publisher : Feral Interactive
+ Modification Date : May 2, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 399 MB - Demo
+
+ Home Page 
+
+ Lugaru 1.0.6 
+
+Lugaru (pronounced Loo-GAH-roo) is a third-person action title.
+The main character, Turner, is an anthropomorphic rebel bunny rabbit
+with impressive combat skills. In his quest to find those responsible for slaughtering his
+village, he uncovers a far-reaching conspiracy involving the corrupt leaders of the rabbit
+republic and the starving wolves from a nearby den. Turner takes it upon himself to fight
+against their plot and save his fellow rabbits from slavery.
+ Lugaru's primary feature is its unique combat system. Instead of relying on confusing
+button combinations to perform moves, Lugaru's moves are all logical and context
+sensitive. For example, if an opponent aims a roundhouse kick at Turner's head, you can
+crouch and then stand up under the attack to grab your assailant's leg and kick him away.
+If you try and punch an opponent and he tries to throw you over his shoulder, you can
+crouch to roll painlessly out of the throw. This new combat system makes fights look and
+feel much more intense and believable than in any other game. You can see it in action
+with the gameplay movies above.
+
+ License : Shareware, $20
+ Author/Publisher : Wolfire Software
+ Modification Date : February 24, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 25.6 MB
+
+ Home Page 
+
+ Marathon 1.2 
+
+Marathon is set far in the future on a colony ship in outer space. A security officer on the mission,
+you are the last hope for defending the ship as hostile and intelligent aliens prepared to destroy every
+living thing. Marathon provides the player with amazing futuristic weaponry, introduces a multitude
+of horrifying creatures and traverses hundreds of miles of terrain over multiple elevations, all
+depicted in high resolution graphics.
+
+ License : Freeware
+ Author/Publisher : Bungie
+ Modification Date : March 10, 1995
+ Requirements : 68020, 68040 or PPC recommended
+
+ Download 
+File Size: 38 MB - Marathon Data Files for Use With Aleph One - September 29, 2005
+
+ Download 
+File Size: 8.3 MB - Aleph One 20080721 - released July 21, 2008
+
+ Download 
+File Size: 4.8 MB - Complete Game
+
+ Marathon.org 
+
+ Home Page 
+
+ Marathon II: Durandal 1.0 
+
+Fresh from your triumph on the starship Marathon, you are seized by the rogue computer
+Durandal to do his bidding in a distant part of the galaxy. Within the ruins of an ancient
+civilization, you must seek the remnants of a lost clan and uncover their long-buried secrets. Battle
+opponents ancient and terrible, with sophisticated weapons and devious strategies, all the while
+struggling to escape the alien nightmare.
+
+ License : Freeware
+ Author/Publisher : Bungie
+ Modification Date : March 22, 1996
+ Requirements : 68040 or better - Aleph One will run on Mac OS X
+
+ Download 
+File Size: 25.9 MB - Complete Game (use data files with Aleph One)
+
+ Download 
+File Size: 8.3 MB - Aleph One 20080721 - released July 21, 2008
+
+ Aleph One 
+
+ Aleph One 
+
+ Marathon.org 
+
+ Home Page 
+
+ Marathon Infinity 1.5 
+
+Marathon Infinity has the brand new scenario Blood Tides of Lh'owon, plus Bungie's own map
+editor Forge, a content tool Anvil and the Marathon 2 Strategy Guide. For Marathon fans, Infinity
+takes the game to a whole new level, evolving the story to its fullest and providing the tools to let
+you extend it even further.
+
+ License : Freeware
+ Author/Publisher : Bungie
+ Modification Date : April 22, 1997
+ Requirements : 68040 or better - Aleph One will run on Mac OS X
+
+ Download 
+File Size: 35.6 MB - Complete Game (use data files with Aleph One)
+
+ Download 
+File Size: 8.3 MB - Aleph One 20080721 - released July 21, 2008
+
+ Aleph One 
+
+ Aleph One 
+
+ Marathon.org 
+
+ Home Page 
+
+ Medal of Honor: Allied Assault 1.14a 
+
+Set during the most trying years of the war, 1942-1945, Medal of Honor
+Allied Assault is a single and multiplayer game, powered by the Quake
+III engine, that puts you in the thick of WWII as a Special Forces agent
+sent to execute covert operations, search and rescue missions, and
+commando raids. Prepare for your finest hour! Also included in this
+explosive combo is Medal of Honor Allied Assault Spearhead. It
+represents a unique addition to the Medal of Honor franchise. Players
+will assume the role of Sgt. Jack Barnes as he endures the final months
+of World War II, from Operation Overlord to the Battle of the Bulge and
+culminating with the fall of Berlin.
+
+ License : Update, purchase for $50
+ Author/Publisher : Aspyr Media
+ Modification Date : November 8, 2004
+ Requirements : Mac OS X 10.1 or higher and Mac OS 9.2 or higher
+
+ Download 
+File Size: 8.1 MB - 1.14a Allied Assault Updater and Spearhead 2.15b Updater
+
+ Download 
+File Size: 137 MB - Spearhead Demo
+
+ Download 
+File Size: 199 MB - Breakthrough Expansion Pack Demo - Requires Medal of Honor: Allied Assault
+
+ Home Page 
+
+ Nexuiz 2.4.2 
+
+Welcome to the Nexuiz project website. Nexuiz is a 3d deathmatch game
+project, created online by a team of developers called Alientrap. It is
+available for download for Windows, Mac, and Linux (all the same
+archive).The first version was released May 31st 2005, released entirely
+GPL and free over the net, a first for a project of its kind. Since then
+it has been downloaded over half a million times, and the game is still
+being updated and developed, currently at version 2.2 and new releases
+being developed. For more screens of the project and a video see the
+media page on the navbar, and for more questions or infomation see info
+or faq. If you would like to help out the project, and encourage more
+development, you can donate to the team through paypal with the donation
+link in the navbar.
+
+ License : Freeware
+ Author/Publisher : Nexuiz Project
+ Modification Date : May 11, 2008
+ Requirements : Mac OS X 10.4 or higher, 1.5 GHz or faster
+
+ Download 
+File Size: 376 MB
+
+ Home Page 
+
+ Oni 1.0v1.36 
+
+Bungie Software proudly presents Oni- a single-player blend of action and
+adventure that combines the best elements of shooters and fighting games into a
+near-future epic featuring anime-style action and characters.
+
+Throughout breathtaking indoor and outdoor levels created by real- world
+architects, Oni's third-person vantage point casts gamers in the role of Konoko,
+a heroine with a vast arsenal of fighting moves- including kicks, punches,
+throws and combos, as well as finishing moves. But she can also wield powerful
+weapons- from machine guns to plasma cannons- as she maneuvers her way through
+an increasingly dark storyline.
+
+With the most fluid animation and control ever seen in a third-person title, Oni
+promises the smooth feel of a shooter, the visual richness of broad third-person
+perspective, and the frenetic combat of a fighting game, all combined for a
+uniquely satisfying gaming experience.
+
+ License : Demo, $30
+ Author/Publisher : Bungie
+ Modification Date : January 28, 2003
+ Requirements : Mac OS 9.1 or higher and Mac OS X 10.1.3 or higher for the currently purchasable version
+
+ Download 
+File Size: 1.7 MB - 1.0v1.36
+
+ Download 
+File Size: 75.5 MB - Demo
+
+ Download 
+File Size: 18.2 MB - Level 2 - adds level 2 to the demo - released January 5, 2001
+
+ Oni Central 
+
+ Home Page 
+
+ Penguins Arena 1.5.1 
+
+It all begins when a penguin legend comes to life in the form of Sedna,
+the ancient Penguin Goddess. Global warming, pollution... Penguin tribes
+are endangered. Sedna utters them that there is room for but one tribe.
+And so the purging begins.
+
+Now it's your turn to join the snowball battles and drive the other
+tribes into the sea. Penguins Arena is a thrilling and innovative First
+Penguin Shooter with very short rounds and where the magic of
+reincarnation, combined with the supernatural ability to return to the
+game as a ghost, ensures that your character has every chance to change
+your tribe's fate.
+
+ License : Shareware, $20
+ Author/Publisher : Frogames
+ Modification Date : May 18, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 25.9 MB
+
+ Home Page 
+
+ Postal 2 1409.2 
+
+Forget what you know about first person shooters. Walk a week in the
+Postal Dude's shoes.
+
+Freely explore full 3-D open-ended environments. Interact with over 100
+unique NPC's including Gary Coleman, marching bands, dogs, cats and
+elephants, protesters, policemen and civilians, with or without weapons.
+
+Postal 2 is all about choice; experiment with everyone and everything.
+
+And remember... it's only as violent as you are!
+
+ License : Demo, $20
+ Author/Publisher : Running With Scissors
+ Modification Date : February 7, 2006
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 13.6 MB - 1409.2 updater
+
+ Home Page 
+
+ Prey 1.0 
+
+Tommy is a Cherokee garage mechanic, refuting his heritage and undecided about his next
+step in life. His world comes to a halt when an extraterrestrial crisis forces him to
+awaken spiritual powers from his long-forgotten birthright. Abducted with his people to a
+menacing mothership orbiting Earth, he sets out to save himself, his girlfriend, and
+eventually, the entire planet.
+
+ License : Demo, $45
+ Author/Publisher : Aspyr
+ Modification Date : January 12, 2007
+ Requirements : Mac OS X 10.3.9 or higher, G5 or Intel 1.8 GHz or faster, Intel integrated video chipsets are not supported (i.e. MacBook and MacMini)
+
+ Download 
+File Size: 454 MB
+
+ Bittorrent Download 
+File Size: 454 MB
+
+ Home Page 
+
+ Quake 1.1 
+
+Exceeding even their own legendary high standards, id has created a unique masterwork
+of mesmeric brilliance; Quake. Amazing game play, gorgeous graphics, the
+greatest, slickest multi player scheme ever developed and amazing sound effects combine to
+provide the ultimate, indispensable gaming experience.
+
+ License : Demo, $29.95
+ Author/Publisher : id/MacSoft
+ Modification Date : March 18, 2006
+ Requirements : PPC and Mac OS X
+
+ Download 
+File Size: 3.1 MB - OS X 1.1 Updater (use with the Full Version or the shareware data below)
+
+ Download 
+File Size: 8.4 MB - Shareware Quake Data
+
+ Download 
+File Size: 440 Kb - GLQuakeWorld 1.1b3
+
+ Download 
+File Size: 7.2 MB - Demo
+
+ Download 
+File Size: 455 Kb - 1.09 Updater - Patch for full version
+
+ Download 
+File Size: 452 Kb - 1.09 Updater - Patch for 3Dfx
+
+ Download 
+File Size: 488 Kb - 1.09 Updater - Patch for Rave
+
+ Download 
+File Size: 1394 Kb - QuakeWorld 2.3b1
+
+ Parent Directory 
+
+ GLQuake Home Page 
+
+ Home Page 
+
+ QuakeWorld.net 
+
+ Quake II 1.1 
+
+Shortly after landing on an alien surface, you learn that hundreds of
+your men have been reduced to just a few. Now you must fight your way
+through heavily fortified military installations, lower the city's
+defenses and shut down the enemy's war machine. Only then will the fate
+of humanity be known.
+
+ License : Updater
+ Author/Publisher : id/MacSoft
+ Modification Date : May 8, 2006
+ Requirements : Mac OS X
+
+ Download 
+File Size: 3.1 MB - 1.1 updater
+
+ Download 
+File Size: 1.8 MB - 1.0.8 updater
+
+ Download 
+File Size: 310 Kb - 1.0.3 updater
+
+ Home Page 
+
+ Quake 3: Arena 1.3.2c 
+
+Prepare yourself for the best deathmatch experience in the universe.
+
+ License : Demo (Now Open-Source)
+ Author/Publisher : id/MacSoft
+ Modification Date : May 8, 2006
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 1.3 MB - 1.3.2c - May 8, 2006
+
+ Download 
+File Size: 1.1 MB - 1.3.2 universal binary - February 10, 2006
+
+ Download 
+File Size: 29.4 MB - 1.3.2 updater - G4 or better - June 19, 2003
+
+ Download 
+File Size: 45.8 MB - Demo
+
+ Quake Technology Downloads by ID 
+
+ Home Page 
+
+ Quake 4 1.4.2 
+
+Immediately following a lone Marine's successful mission to bring down
+the Strogg defenses and defeat their leader, the Makron (story and
+events from QUAKE II), the Strogg are quickly regrouping and
+constructing a new and more powerful Makron. You are Matthew Kane, a
+member of the elite Rhino Squad, which is leading the next wave of
+Earth's invasion.
+
+ License : Purchase full version for $45
+ Author/Publisher : Aspyr Media
+ Modification Date : August 2, 2007
+ Requirements : Mac OS X 10.3.9 or higher, G4/G5/Intel 1.67 GHz or higher
+
+ Download 
+File Size: 383 MB - 1.4.2 updater
+
+ Download 
+File Size: 536 MB - 1.2 Demo
+
+ Home Page 
+
+ Raven Shield 1.5.6 
+
+Command an elite, multinational squad of special operatives against a
+hidden terrorist foe. In Raven Shield, the third installment to the
+wildly popular Rainbow Six series, RAINBOW races against time to stop
+terror and unravel a mystery. In locations around the world, from London
+to the Caribbean to Rio de Janeiro, lead team RAINBOW in a desperate
+effort to battle a madman and foil his doomsday plot.
+
+ License : Update, purchase for $50
+ Author/Publisher : Aspyr Media
+ Modification Date : November 19, 2004
+ Requirements : Mac OS X 10.2.6 or later
+
+ Download 
+File Size: 13.1 MB - Patch version 1.0.2, Updates Raven Shield to version 1.5.6
+
+ Home Page 
+
+ Return to Castle Wolfenstein 1.4.1b 
+
+You are B.J. Blazkowicz, a highly decorated Army Ranger recruited into
+the Office of Secret Actions (OSA) tasked with escaping and then
+returning to Castle Wolfenstein in an attempt to thwart Heinrich
+Himmler's occult and genetic experiments. Himmler believes himself to be
+a reincarnation of a 10th century dark prince, Henry the Fowler, also
+known as Heinrich. Through genetic engineering and the harnessing of
+occult powers, Himmler hopes to raise an unstoppable army to level the
+Allies once and for all.
+
+You must first escape from imprisonment in the castle to report the
+strange creatures and happenings in and around Wolfenstein to the OSA.
+Your mission takes a drastic turn as you learn the depth of Himmler's
+plans and what you must do to defeat the evil he has unleashed.
+
+This is what you have been trained for. Your surroundings will be
+dangerous and hostile. The OSA is currently tracking activities believed
+to be associated with Himmler in locations throughout Germany including;
+villages overrun by the occult, hidden crypts, forests, air bases,
+secret weapons facilities, and genetic labs, to name only the few we are
+aware of. There are more, and you must find them.
+
+Failure is not an option. If Himmler succeeds, the war is over for the
+Allies... and the war is over for everyone.
+
+ License : Demo, $30
+ Author/Publisher : Aspyr Media
+ Modification Date : January 16, 2003
+ Requirements : Mac OS X 10.2.8 or higher and Mac OS 9.2 or higher
+
+ Download 
+File Size: 16.6 MB - 1.4.1b Updater
+
+ Download 
+File Size: 106 MB - Demo
+
+ Home Page 
+
+ Rubicon X 
+
+Rubicon X is a free, cross platform, first person shooter that continues the story of
+Bungie's Marathon trilogy. First released as Marathon:Rubicon in 2001, Rubicon X is a
+complete overhaul of the original. It features all new high-resolution artwork, new and
+updated maps, and enough surprises to feel like a whole new game.
+
+ License : Freeware
+ Author/Publisher : Chris Lund/D. Scott Brown et al.
+ Modification Date : August 7, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 124 MB
+
+ Download 
+File Size: 8.3 MB - Aleph One 20080721 - released July 21, 2008
+
+ Home Page 
+
+ Sauerbraten 20080620 
+
+Sauerbraten (a.k.a. Cube 2) is a free multiplayer/singleplayer first
+person shooter, built as a major redesign of the Cube FPS. Much like the
+original Cube, the aim of this game is not necessarily to produce the
+most features & eyecandy possible, but rather to allow map/geometry
+editing to be done dynamically in-game, to create fun gameplay and an
+elegant engine.
+
+ License : Freeware
+ Author/Publisher : Sauerbraten Team
+ Modification Date : June 20, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 306 MB
+
+ Home Page 
+
+ SiN 1.1.3 
+
+When the CEO of SinTEK Industries begins injecting the streets with a
+DNA-altering drug, it's time to reassess the laws of morality. When the same
+twisted bio-chemist plans to overtake the world with her unholy army of
+genetically-engineered mutants, it's time to rewrite the golden rule.
+
+You are Colonel John R. Blade, head of the most prominent private protection
+agency in Freeport. Now Elexis Sinclaire is waging her holy war against the
+security industry... and you along with it. You've made a religion out of
+fighting crime. Now you're going to make Elexis pay for her sins.
+
+ License : Demo, $40
+ Author/Publisher : United Developers
+ Modification Date : August 27, 2002
+ Requirements : Mac OS X and Mac OS 8.6 or later
+
+ Download 
+File Size: 3.8 MB - 1.1.3 updater
+
+ Download 
+File Size: 62,463 Kb - Demo
+
+ Home Page 
+
+ Soldier of Fortune II 1.0.3 
+
+Reprise the role of John Mullins: Weapons Specialist, Anti-Terrorist
+Mercenary, and "Military Consultant." A new and insidious threat has
+arisen in the form of a bio-terrorist organization and their two-pronged
+Gemini Virus. Now, you're off on a transcontinental mission to stop the
+terrorists and destroy the virus before it's unleashed on humanity.
+
+Full frontal assaults, stealth and subterfuge are your tactics.
+Sub-machine guns, assault rifles and grenades are your tools. The world
+is on the brink of disaster. Get ready for one of the most realistic
+military shooter gameplay experiences ever.
+
+ License : Free Update, $30
+ Author/Publisher : MacPlay
+ Modification Date : February 25, 2003
+ Requirements : Mac OS X 10.1.5 or higher
+
+ Download 
+File Size: 36.3 MB - 1.0.3 Updater
+
+ Spider-Man 2 1.1 
+
+Spider-Man 2 The Game follows the same storyline as the blockbuster
+feature film, and places the gamer into the web-slinging, web-swinging
+world of the Manhattan metropolis. Gamers will visit locations and
+relive encounters taken directly from the film, from the Statue of
+Liberty to the Daily Bugle offices. It was only two years ago that shy
+Peter Parker discovered his super hero, alter ego Spider-Man. Now he's
+in a fight for his life and will have to use his skills and wits to
+survive a new, formidable foe. Spider-Man 2: The Game follows the
+crime-fighter as he battles the villainous, multi-tentacled Doc Ock.
+
+Features:
+ # Battle enemies in scenes from the movie or challenge classic villains.
+ # Fight criminals day and night with an easy-to-use point and click system
+ # Armed with all of Spider-Man's abilities, prowl and protect the city
+ # Web sling and swing across the streets and skyscrapers of Manhattan.
+ # Featuring the voices of Tobey Maguire, Kirsten Dunst and Alfred Molina
+
+ License : Demo, $40
+ Author/Publisher : Aspyr Media
+ Modification Date : January 31, 2006
+ Requirements : Mac OS X 10.2.8 or higher, 700MHz or faster
+
+ Download 
+File Size: 175.0 MB - Demo 1.0
+
+ Download 
+File Size: 8.4 MB - 1.1 Updater
+
+ Home Page 
+
+ Star Trek Voyager: Elite Force 1.2.1 
+
+Star Trek: Voyager - Elite Force is the first game based on the Star Trek
+Voyager universe. One blast from destruction, the U.S.S. Voyager is mysteriously
+transported into a hull space infested with danger. As a member of the Elite
+Force Hazard Team, you must deal with situations beyond the normal call of duty,
+defending against a host of never-before-seen scavenging aliens, then infiltrate
+a Borg cube and derelict vessels to eradicate your deadly foes, in 40
+ultra-intense single-player combat missions and 16 multiplayer arenas. No one
+said being a hero was easy. Star Trek: Voyager - Elite Force is the ultimate in
+sci-fi 3-D first-person shooter action, powered by renowned Quake III Arena(TM)
+engine. Set phasers to frag..
+
+ License : Demo, $50
+ Author/Publisher : Aspyr
+ Modification Date : February 12, 2002
+ Requirements : G3 266 mhz processor or higher, Mac OS 8.6 or higher
+
+ Download 
+File Size: 13.8 MB - 1.2 updater
+
+ Download 
+File Size: 641 Kb - 1.2.1 updater for OS X
+
+ Star Wars: Battlefront 1.2 Rev A 
+
+Star Wars Battlefront is an action/shooter game that gives fans and
+gamers the opportunity to re-live and participate in all of the classic
+Star Wars battles like never before. Players can select one of a number
+of different soldier types, jump into any vehicle, man any turret on the
+battlefront and conquer the galaxy planet-by-planet.
+
+ License : Free Update, $40
+ Author/Publisher : Aspyr
+ Modification Date : September 13, 2005
+ Requirements : Mac OS X 10.3.6 or higher
+
+ Download 
+File Size: 3.0 MB
+
+ Home Page 
+
+ Stubbs the Zombie 1.0 
+
+From the Executive Producer of Halo, comes Stubbs the Zombie in Rebel
+Without a Pulse. You play as Stubbs, an undead antihero who takes on a
+futuristic city using nothing but his own carcass and the weapons of his
+possessed enemies. This third-person action game uses the Halo engine
+and integrates tongue-in-cheek humor and a strong storyline with
+innovative combat.
+
+ License : Demo, $29
+ Author/Publisher : Aspyr Media
+ Modification Date : January 5, 2006
+ Requirements : Mac OS X 10.3.9 or higher, 1.5 GHz or faster
+
+ Download 
+File Size: 223 MB
+
+ Home Page 
+
+ Tomb Raider Anniversary 1.0 
+
+Celebrate and commemorate ten years of Tomb Raider and Lara Croft with
+Tomb Raider: Anniversary, a new action adventure inspired by the
+original Tomb Raider video game, one of the greatest action adventure
+games of all time.
+
+ License : Demo, $50
+ Author/Publisher : Feral Interactive
+ Modification Date : February 14, 2008
+ Requirements : Mac OS X 10.4 or higher, 1.83 GHz or faster, Intel only
+
+ Download 
+File Size: 273 MB
+
+ Home Page 
+
+ Tomb Raider: Chronicles 1.0.2 
+
+It is a cold, dark, rainy day. With the memorial service for Lara Croft
+over, her old friends retire to the Croft Mansion....
+
+Lara's friends gather to reminisce about her little known past exploits.
+Each memory provides a new adventure, taking you from a high -tech city,
+to the ruins of Rome, to a German U-Boat and more. Learn how Lara
+attained the four unique items at the Croft Estate.
+
+Utilize new nimble moves, like tightrope walking, parallel bar swinging
+and a hand-to-hand stealth attack. New weapons, including a grappling
+hook gun, sniper rifle, and chloroform, have been added to Lara's
+arsenal.
+
+An enhanced inventory system provides greater combinations of a variety
+of weapons and items.
+
+Meanwhile, hundreds of miles away, Werner Von Croy co-ordintes the
+frantic dig-searching for answers buried deep beneath the Egyptian
+desert...
+
+ License : Update
+ Author/Publisher : Aspyr Media
+ Modification Date : September 10, 2002
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 1.4 MB - 1.0.2 Updater
+
+ Home Page 
+
+ Unreal Tournament X 1.0pr3 
+
+Made specifically for online play. The stakes are high. On the one hand, fame, fortune,
+glory; on the other hand, death. Prove your skill in the
+arenas of the future, leading your team of computer-contolled "bots" to victory in the Grand
+Tournament, or compete with the best of the best via LAN or the Internet in seat-of-your-pants battles. 
+While Unreal Tournament offers the finest in classic "Deathmatch" play, right out of the box you can
+compete in Team Deathmatch or Capture the Flag. Control strategic points on the map to rack up your
+score in Domination, or test your skills in Assault, as one team defends its base from the other.
+
+ License : Update
+ Author/Publisher : Westlake Interactive/MacSoft
+ Modification Date : April 4, 2002
+ Requirements : Mac OS X, Unreal Tournament 436
+
+ Download 
+File Size: 3.4 MB - 436 Update, released November 7, 2000
+
+ Download 
+File Size: 1.1 MB - 1.0pr3 Update - Make sure the classic version is updated with the 436 update above first
+
+ Unreal Tournament 2003 2225.3 
+
+Join hundreds of thousands of gamers online or play alone against
+super-intelligent bots. Set up your own LAN games, or play on hundreds
+of servers on the Internet against challengers using Macs, Wintel PCs,
+or Unix.
+
+Unreal Tournament 2003 uses the very latest Unreal Engine technology -
+where graphics, sound and gameplay are taken beyond the bleeding edge.
+Unreal Tournament 2003 is a lightning-fast, no-holds-barred sport of the
+future, where warriors face off like the Gladiators of ancient Rome to
+determine the ultimate combatant. Super human reflexes, awesome weapons
+and the skill to use them effectively are what separate the good from
+the bad, the living from the dead, the victor from vanquished.
+
+ License : Demo, $50
+ Author/Publisher : MacSoft
+ Modification Date : June 27, 2004
+ Requirements : Mac OS X 10.2.6 or higher and a 700MHz G4 or faster 
+
+ Download 
+File Size: 7.1 MB - 2225.3 Updater
+
+ Download 
+File Size: 134.4 MB - Demo
+
+ Home Page 
+
+ Unreal Tournament 2004 3369.2 
+
+The greatest gladiator sport ever created is redefined for 2004. Now,
+experience more than double the content of the earlier model with
+massive additions like land, air, and space vehicles, an arsenal of new
+weaponry (including mines, rocket-propelled grenades and stationary gun
+turrets), two new game modes, more than 95 arenas and battlefields, and
+the return of the mighty Skaarj race.
+
+Unreal Tournament 2004 is a multiplayer first-person shooter that
+combines gladiatorial combat with cutting-edge technology. Ten game
+modes - both team-based and "every man for himself" -- provide action
+gamers with palm-sweating challenges through unbelievably detailed
+indoor arenas and vast outdoor environments. As the ultimate
+techno-gladiator of the future, you take your fate into your own hands,
+battling up to 32 Mac, Windows, and Linux players online in
+action-packed, frag-filled arenas.
+
+ License : Demo, $50
+ Author/Publisher : MacSoft
+ Modification Date : February 3, 2006
+ Requirements : Mac OS X 10.2.8 or higher and a 933MHz G4 or faster 
+
+ Download 
+File Size: 199.0 MB - 3369.2 Updater
+
+ Download 
+File Size: 268 MB - Demo
+
+ Home Page 
+
+ Wolfenstein: Enemy Territory 2.60d 
+
+Wolfenstein: Enemy Territory (abbreviated as WOLF:ET, WET, and usually
+among gamers, just ET) is a free first-person shooter (FPS) computer
+game, and a standalone sequel to Return to Castle Wolfenstein, created
+by Splash Damage.
+
+Enemy Territory was originally planned to be released as a commercial
+expansion pack to the popular FPS Return to Castle Wolfenstein. However,
+due to problems with the single-player aspect, the multiplayer portion
+was released on May 29, 2003 as a free standalone game. In early 2004
+the source code for the game logic (not the game engine) was released to
+the benefit of its modding community.
+
+ License : Freeware
+ Author/Publisher : Splash Damage/Activision
+ Modification Date : January 25, 2007
+ Requirements : Mac OS X 10.4 or higher - you'll also need an updated version of Punkbuster 
+
+ Download 
+File Size: 257 MB - version 2.60d - January 25, 2007
+ Wolfenstein: Enemy Territory for OSX 10.4 and up (universal binary)
+ Drag and Drop the Wolfenstein ET folder to your Applications folder
+ Run the Punkbuster package to install punkbuster
+ -> most servers require that you have punkbuster installed to connect
+ -> the PunkBuster installer expects that you have copied Wolfenstein ET to /Applications/Wolfenstein ET. It will create an /Applications/Wolfenstein ET/pb/ folder.
+ Notes:
+ - No mods are included in this release. Most servers running mods are setup with the older non-universal Mac binaries. Until they upgrade, it's likely you will crash if you try to connect to them.
+ - If the older non-universal Mac binary was installed on your machine, you should remove the Library/Application Support/Wolfenstein ET folder before running the new version.
+
+ Download 
+File Size: 258 MB - version 2.60-2 - March 21, 2005
+
+ Home Page 
+
+ XIII 1.0.1 
+
+An immersive comic-strip style action game that is redefining the FPS
+genre. The leader of the free world has been assassinated and you are
+the prime suspect.
+
+You wake up on a desolate strip of a New England beach. The near-fatal
+impact of a bullet has left your head pounding and your memory erased.
+What's more, the number "XIII" has been mysteriously tattooed on your
+chest, while your pocket holds a key to a New York City bank box. Head
+swimming in amnesia, you struggle to your feet only to encounter more
+assailants intent on finishing the job. To your shock, you handle the
+hitmen with the killing skills of a professional - before heading to the
+bank in search of any shred of information about your lost identity and
+your involvement in the president's murder.
+
+What lies ahead is a deadly quest not only into your shadowy past, but
+also into America's darkest corridors of power.
+
+ License : Demo, $55
+ Author/Publisher : Feral Interactive
+ Modification Date : June 25, 2004
+ Requirements : Mac OS X 10.2.3 or higher G4 1GHz or faster
+
+ Download 
+File Size: 4.0 MB - 1.0.1 Patch
+
+ Zonic 
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

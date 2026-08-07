@@ -1,0 +1,325 @@
+Pure Mac: Game Utilities 
+
+ Game Utilities 
+
+ Apple Game Sprockets 
+ Codebook 
+ Game Doctor 
+
+ Game Ranger 
+ IPRemote 
+ Kali 
+
+ MyIPAddress 
+ NetLink Remote 
+ OpenGL 
+
+ Outland TCP Tool 
+ TCPSerial 
+ 3Dfx Voodoo Drivers 
+
+ Thunder Chat 
+ USB Overdrive 
+
+ Apple Game Sprockets 1.7.5v1.1 
+
+Apple's extensions for making games both easier to use and to develop. Many current games require these.
+
+ License : Freeware
+ Author/Publisher : Apple
+ Modification Date : October 24, 2000
+ Requirements : Mac OS 8.1 or later, USB based Macs require Mac OS 8.6 or higher
+
+ Direct Download 
+ File Size: 879 Kb - Apple Game Sprockets 1.7.5v1.1
+
+ Parent Directory 
+
+ Tech Info 
+
+ Home Page 
+
+ Codebook 4.0.4 
+
+The Codebook is the Macintosh gamers' most handy utility ever! It's the largest
+collection of cheats, walkthroughs, internet URLs, patches, saved games, maps,
+images and info for Macintosh games that is available. You will find things in
+CB4 that you will not find anywhere else. The Codebook is a free-standing
+application which is about 1.5mb in size and easy to download and install. The
+Codebook uses a plug-in system which allows you to have the most recent
+information at your fingertips.
+
+ License : Shareware, $15
+ Author/Publisher : The Codebook Team
+ Modification Date : July 19, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download 
+ File Size: 2008 Kb - 4.0.3 - You need to get the plug-ins below also
+
+ Direct Download 
+ File Size: 4076 Kb - All Plug-ins up to July, 2001 
+
+ Home Page 
+
+ Game Doctor 1.3.2 
+
+Illume Software is proud to present Game Doctor - the largest collection of
+hints, cheats, walkthroughs, and other game enhancements (called
+"prescriptions") available for the Macintosh.
+
+ License : Shareware, $10
+ Author/Publisher : Illume Software
+ Modification Date : July 10, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download 
+ File Size: 3731 Kb
+
+ Home Page Get updates for various games here
+
+ Game Ranger 2.1.6 
+
+GameRanger provides a completely customized Macintosh-friendly environment for players to meet worthy opponents, organize
+and play games, discuss strategies, and exchange tricks and ideas. 
+Persistent player accounts, profiles, chat rooms, game rooms, audio voice chat, paging, server lists and powerful filtering are just
+a handful of the features GameRanger offers. 
+Currently supporting over 50 titles with many more forthcoming! 
+A--hole (cards); Age of Empires; Alpha Centauri; Ares; Battle for the Universe; Bolo;
+ChessWorks; Civilization II Gold; Close Combat; Close Combat: A Bridge Too Far; Dark Colony;
+Dark Vengeance; Deadlock; F/A-18 Hornet Korea; FutureCop; Heroes of Might and Magic II; Heroes of Might and Magic III; Jazz Jackrabbit 2;
+Klingon Honor Guard; Links LS 2000; Lode Runner 2; Madden NFL 2000; Majesty; Master of Orion II; MechWarrior II; Myth II;
+NetBoxes; Netzee; Quake 1; Quake 2; Quake 3; QuakeWorld; Railroad Tycoon 2; Railroad Tycoon 2: The Second Century;
+Rainbow Six; Rainbow Six: Eagle Watch; Risk II; Rogue Spear; Rune; Scrabble 2; Shogo: M.A.D.; SiN; Star Trek Voyager: Elite Force; Starwars: Racer; Stratega; Terminus: Unreal; Unreal Tournament; Wages of SiN: Warcraft II
+
+ License : Freeware
+ Author/Publisher : Scott Kevill
+ Modification Date : December 26, 2001
+ Requirements : PPC
+
+ Direct Download 
+ File Size: 165 Kb
+
+ Home Page 
+
+ IPRemote 2.0b4 
+
+Primarily used to play F/A-18 Hornet over the internet but you can use it for Descent and Warcraft II also. 
+You need to connect to an ARNS server over the net to use it. Your best bet is to get on the efnet and go to #hornet.
+The channel members there are very helpful.
+
+ License : Freeware
+ Author/Publisher : University of Melbourne
+ Modification Date : April 1, 1996 for 2.0b4 - September 27, 1994 for 1.0.1
+ Requirements : 68040 or better for 2.0b4
+
+ Direct Download 
+ File Size: 25 Kb - Version 1.0.1 - Use with MacTCP
+
+ Direct Download 
+ File Size: 76 Kb - Version 2.0b4 - Use with OpenTransport
+
+ Parent Directory 
+
+ Kali 1.2a18 
+
+Program to play IPX games over the internet through a Kali server. Almost any game 
+that supports IPX will work with Kali. You don't even need MacIPX installed to play games with Kali over the internet.
+Of course there are exceptions. Not all games can handle the
+packet loss and slow speeds that are common on the Internet.
+Games which can be played satisfactorily over Kali include: LinksLS, Warcraft2,
+Descent, Descent2, Duke Nukem 3D, Command & Conquer and MechWarrior 2
+
+ License : Shareware, $20 - lifetime access to Kali servers
+ Author/Publisher : Mac version ported by Adam Miller/Kali Inc.
+ Modification Date : May 19, 1999
+ Requirements : 68040 and 14.4 modem (PPC and 28.8 modem recommended)
+
+ Direct Download 
+ File Size: 1052 Kb - version 1.2a18- released May 19, 1999
+
+ Direct Download 
+ File Size: 319 Kb - version 1.0b8f - released December 17, 1997
+
+ Parent Directory 
+
+ Parent Directory 
+
+ Home Page 
+
+ Official Mac Kali Home Page 
+
+ MyIPAddress 1.0.2 
+
+If you play games over the internet, then you know what a hassle it can be when you are going to host a game and
+need to give your IP address to your fellow players. You have to open your TCP/IP control panel, write down
+your IP address, and then retype the IP address for your fellow players. MyIPAddress is a small application
+which will now do all of this for you. MyIPAddress looks up your current IP address and then copies it to your
+clipboard.
+
+ License : Shareware, $5 
+ Author/Publisher : Jim Plamondon
+ Modification Date : February 5, 1998
+ Requirements : 68020
+
+ Direct Download
+ File Size: 8 Kb
+
+ Parent Directory 
+
+ NetLink Remote 1.2 
+
+NetLink Remote was written as an alternative to Apple's ARA software which was too
+expensive for most individuals and too slow for demanding games like Marathon. NetLink
+Remote's high speed modem protocol has been optimized for realtime games and in most cases
+is much faster than the built in modem support provided by some games.
+Use this in combination with TCPSerial for playing AppleTalk games over the Internet. Doesn't require a server like IPRemote does. 
+
+ License : Shareware, $10
+ Author/Publisher : Joe Kloss
+ Modification Date : February 14, 1997
+ Requirements : 68020, System 7.5.3
+
+ Direct Download 
+ File Size: 263 Kb - Version 1.2 includes a
+serial number that should work with all versions of NetLink Remote, even if both people use
+it. This does not mean that NetLink is free, it just means that you will not have to wait for
+you serial number to arrive. Note: 1.2 does not work with TCPSerial so you can't use it over the internet
+
+ Direct Download 
+ File Size: 264 Kb - version 1.1.1 - released August 4, 1996 - this version works with TCPSerial
+
+ Parent Directory 
+
+ Home Page 
+
+ NetLink via the Internet 
+
+ Remote Gaming This page is more geared toward direct modem connections rather than Internet connections
+
+ Related Software Check out this page for info on other software you may need to use NetLink effectively
+
+ OpenGL 1.2.1 
+
+OpenGL for Macintosh enables your computer to display three-dimensional graphics using applications designed to take advantage of OpenGL.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : January 9, 2001 
+ Requirements : PPC, Mac OS 8.1 or higher, 32 mb of RAM
+
+ Direct Download 
+File Size: 4101 Kb - version 1.2.1 - released January 9, 2001
+
+ Parent Directory 
+
+ Info 
+
+ Outland TCP Tool 1.0 
+
+This game can be used to connect to other gamers over the internet with some games, notably Command & Conquer but others are possible as well. 
+The Outland TCP Tool is a connection tool for the Communications Toolbox. It
+uses the MacTCP driver to communicate over TCP/IP networks. The tool
+supports synchronous and asynchronous open, close, listen, read, and write.
+
+This is not a Telnet tool! If you want to connect to the Telnet port, 23,
+you are probably not going to have much luck. The Outland TCP Tool provides
+a raw TCP connection only.
+
+In the settings dialog, you can enter an IP address and port number. If you
+are using the tool to open a connection, the address and port number are of
+the TCP port you are connecting to. If you are using the tool to listen for
+an incoming connection, the address is ignored (it is always the local
+machine), and the port is the port number to listen on. The port number 0
+has a special meaning to the MacTCP driver; using it is not recommended. 
+
+ License : Freeware
+ Author/Publisher : Outland, Inc.
+ Modification Date : July 6, 1994
+ Requirements : PPC
+
+ Direct Download 
+ File Size: 69 Kb
+
+ Parent Directory 
+
+ TCPSerial 1.0.1 
+
+TCPSerial simulates a serial driver and modem using a TCP/IP connection allowing one to use Apple Remote Access and other programs that normally only work with modems over the Internet.
+Use this with NetLink Remote for games over the internet.
+
+ License : Freeware
+ Author/Publisher : University of Michigan
+ Modification Date : May 30, 1996
+ Requirements : 680x0
+
+ Direct Download 
+ File Size: 25 Kb 
+
+ Parent Directory 
+
+ 3Dfx Voodoo Drivers 
+
+Free drivers for any Voodoo based 3D graphics cards. Pretty much what this means is you can buy any PC voodoo card and use
+it with your Mac.
+
+ License : Freeware
+ Author/Publisher : 3dfx
+ Modification Date : December 21, 2000
+ Requirements : Mac OS 8.1 or higher, Any Voodoo based 3D graphics accelerator
+
+ Direct Download
+ File Size: 1431 Kb - Voodoo 4/5 1.1.3 driver (unofficial) works with Voodoo 3 also - released December 21, 2000
+
+ Direct Download
+ File Size: 1387 Kb - Voodoo 4/5 1.1.2 driver - released November 20, 2000
+
+ Direct Download
+ File Size: 487 Kb - Voodoo 3 1.0b12 driver - released April 14, 2000
+
+ Home Page 
+
+ Thunder Chat 1.1 
+
+Thunder is a Battle.net chat client for the Macintosh, featuring standard
+chat concepts established by various Windows9x Battle.net chat bots.
+
+Do you enjoy playing Diablo, Starcraft and other Blizzard titles on your
+Mac? Have you ever noticed that loads of people you run into are using
+Windows 9x chat bots? Now you can too! Thunder is a robust chat/bot client
+for the Macintosh which allows you to chat and receive commands from users
+on Blizzard's Battle.net online gaming service.
+
+ License : Freeware
+ Author/Publisher : Arctic Rain
+ Modification Date : January 17, 2001
+ Requirements : PPC
+
+ Direct Download
+ File Size: 1040 Kb
+
+ Home Page 
+
+ USB Overdrive 1.3.7 
+
+The USB Overdrive is a universal USB driver that handles all USB mice,
+trackballs, joysticks and gamepads from any manufacturer and lets you configure
+them either globally or on an application-specific basis. It reads all kinds of
+wheels, buttons, switches and controls and supports scrolling, keyboard
+emulation, launching and complex macros as well as all the usual stuff like
+clicking, control-clicking and so forth. The USB Overdrive can easily handle
+several USB devices at once- I have two mice, one trackball, two joysticks and
+one gamepad connected to the same iMac, and each of them comes from a different
+manufacturer.
+
+ License : Shareware, $20
+ Author/Publisher : Alessandro Levi Montalcini
+ Modification Date : September 12, 2000
+ Requirements : USB Mac and Mac OS 8.5 or later
+
+ Direct Download 
+ File Size: 383 Kb
+
+ Home Page 
+
+ Back to the main page of Pure Mac

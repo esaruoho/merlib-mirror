@@ -5938,3 +5938,95 @@ Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/amasci.com
 [2026-08-07 07:25:48] ============================================================
 [2026-08-07 07:25:48] 
 Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/amasci.com
+[2026-08-07 17:14:23] ============================================================
+[2026-08-07 17:14:23] WAYBACK MIRROR: amasci.com
+[2026-08-07 17:14:23] Output: /Users/esaruoho/work/merlib-mirror/sites/amasci.com
+[2026-08-07 17:14:23] Delay: 1.0s
+[2026-08-07 17:14:23] ============================================================
+[2026-08-07 17:14:23] Resuming: phase=downloading, 18082 already done
+[2026-08-07 17:14:23] 
+=== PHASE 2: Downloading ===
+[2026-08-07 17:14:23] Collapsed 18 host-variant duplicate(s) to one fetch each
+[2026-08-07 17:14:23] Skipping 1,742 unmirrorable URL(s) (server-side / WordPress plumbing) — not fetched, not counted as failures
+[2026-08-07 17:14:23] Downloading 598 of 20,440 with 6 worker(s) (delay 1.0s each)
+[2026-08-07 17:14:23] --- pass 1/6: 598 URL(s), 6 worker(s) ---
+[2026-08-07 17:16:25] --- Progress: 18108/20440 (88%) | New: 0 | Fail: 8 | Throttled-deferred: 0 | Rate: 8921/min | ETA 0.0h ---
+[2026-08-07 17:18:30] --- Progress: 18113/20440 (88%) | New: 0 | Fail: 13 | Throttled-deferred: 0 | Rate: 4400/min | ETA 0.0h ---
+[2026-08-07 17:20:43] --- Progress: 18118/20440 (88%) | New: 2 | Fail: 16 | Throttled-deferred: 0 | Rate: 2863/min | ETA 0.0h ---
+[2026-08-07 17:23:41] --- Progress: 18126/20440 (88%) | New: 3 | Fail: 23 | Throttled-deferred: 0 | Rate: 1950/min | ETA 0.0h ---
+[2026-08-07 17:25:42] --- Progress: 18135/20440 (88%) | New: 4 | Fail: 31 | Throttled-deferred: 0 | Rate: 1604/min | ETA 0.0h ---
+[2026-08-07 17:28:56] --- Progress: 18142/20440 (88%) | New: 7 | Fail: 35 | Throttled-deferred: 0 | Rate: 1247/min | ETA 0.0h ---
+[2026-08-07 17:31:10] --- Progress: 18149/20440 (88%) | New: 8 | Fail: 41 | Throttled-deferred: 0 | Rate: 1082/min | ETA 0.0h ---
+[2026-08-07 17:31:18] --- Progress: 18150/20440 (88%) | New: 8 | Fail: 42 | Throttled-deferred: 0 | Rate: 1073/min | ETA 0.0h ---
+[2026-08-07 17:33:25] --- Progress: 18164/20440 (88%) | New: 14 | Fail: 50 | Throttled-deferred: 0 | Rate: 955/min | ETA 0.0h ---
+[2026-08-07 17:35:45] --- Progress: 18171/20440 (88%) | New: 19 | Fail: 52 | Throttled-deferred: 0 | Rate: 850/min | ETA 0.0h ---
+[2026-08-07 17:38:02] --- Progress: 18178/20440 (88%) | New: 22 | Fail: 56 | Throttled-deferred: 0 | Rate: 769/min | ETA 0.0h ---
+[2026-08-07 17:39:39] [18185/20440] OK ~gluhm/bio/equipmentsale.htm (3,517b) @20031219
+[2026-08-07 17:40:04] --- Progress: 18188/20440 (88%) | New: 26 | Fail: 62 | Throttled-deferred: 0 | Rate: 708/min | ETA 0.1h ---
+[2026-08-07 17:42:40] --- Progress: 18200/20440 (89%) | New: 29 | Fail: 71 | Throttled-deferred: 0 | Rate: 644/min | ETA 0.1h ---
+[2026-08-07 17:44:47] --- Progress: 18209/20440 (89%) | New: 29 | Fail: 80 | Throttled-deferred: 0 | Rate: 599/min | ETA 0.1h ---
+[2026-08-07 17:47:13] --- Progress: 18221/20440 (89%) | New: 37 | Fail: 84 | Throttled-deferred: 0 | Rate: 555/min | ETA 0.1h ---
+[2026-08-07 17:49:20] --- Progress: 18234/20440 (89%) | New: 42 | Fail: 92 | Throttled-deferred: 0 | Rate: 522/min | ETA 0.1h ---
+[2026-08-07 17:51:07] [18242/20440] OK ~jrp/images/FamilyVisit/2004_08_05/image004.htm (3,581b) @20041116
+[2026-08-07 17:51:33] --- Progress: 18244/20440 (89%) | New: 51 | Fail: 93 | Throttled-deferred: 0 | Rate: 491/min | ETA 0.1h ---
+[2026-08-07 17:52:00] --- Progress: 18250/20440 (89%) | New: 55 | Fail: 95 | Throttled-deferred: 0 | Rate: 485/min | ETA 0.1h ---
+[2026-08-07 17:54:07] --- Progress: 18260/20440 (89%) | New: 62 | Fail: 98 | Throttled-deferred: 0 | Rate: 460/min | ETA 0.1h ---
+[2026-08-07 17:56:09] --- Progress: 18272/20440 (89%) | New: 71 | Fail: 101 | Throttled-deferred: 0 | Rate: 438/min | ETA 0.1h ---
+[2026-08-07 17:56:58] [18278/20440] OK ~krautm/culture.html (497b) @20211028
+[2026-08-07 17:58:34] --- Progress: 18280/20440 (89%) | New: 76 | Fail: 104 | Throttled-deferred: 0 | Rate: 414/min | ETA 0.1h ---
+[2026-08-07 18:01:06] --- Progress: 18287/20440 (89%) | New: 81 | Fail: 106 | Throttled-deferred: 0 | Rate: 391/min | ETA 0.1h ---
+[2026-08-07 18:03:37] --- Progress: 18293/20440 (89%) | New: 81 | Fail: 112 | Throttled-deferred: 0 | Rate: 372/min | ETA 0.1h ---
+[2026-08-07 18:05:47] --- Progress: 18296/20440 (89%) | New: 82 | Fail: 114 | Throttled-deferred: 0 | Rate: 356/min | ETA 0.1h ---
+[2026-08-07 18:06:32] --- Progress: 18300/20440 (89%) | New: 84 | Fail: 116 | Throttled-deferred: 0 | Rate: 351/min | ETA 0.1h ---
+[2026-08-07 18:08:36] --- Progress: 18314/20440 (89%) | New: 93 | Fail: 121 | Throttled-deferred: 0 | Rate: 338/min | ETA 0.1h ---
+[2026-08-07 18:10:42] --- Progress: 18323/20440 (89%) | New: 98 | Fail: 125 | Throttled-deferred: 0 | Rate: 325/min | ETA 0.1h ---
+[2026-08-07 18:11:49] [18328/20440] OK ~nickz/bh97pix/HILLCAKE.JPG (50,725b) @20231015
+[2026-08-07 18:12:42] --- Progress: 18332/20440 (89%) | New: 102 | Fail: 130 | Throttled-deferred: 0 | Rate: 314/min | ETA 0.1h ---
+[2026-08-07 18:14:55] --- Progress: 18345/20440 (89%) | New: 113 | Fail: 132 | Throttled-deferred: 0 | Rate: 303/min | ETA 0.1h ---
+[2026-08-07 18:16:50] --- Progress: 18350/20440 (89%) | New: 115 | Fail: 135 | Throttled-deferred: 0 | Rate: 294/min | ETA 0.1h ---
+[2026-08-07 18:19:35] --- Progress: 18360/20440 (89%) | New: 120 | Fail: 140 | Throttled-deferred: 0 | Rate: 282/min | ETA 0.1h ---
+[2026-08-07 18:21:45] --- Progress: 18369/20440 (89%) | New: 122 | Fail: 147 | Throttled-deferred: 0 | Rate: 273/min | ETA 0.1h ---
+[2026-08-07 18:23:46] --- Progress: 18379/20440 (89%) | New: 124 | Fail: 155 | Throttled-deferred: 0 | Rate: 265/min | ETA 0.1h ---
+[2026-08-07 18:25:47] --- Progress: 18383/20440 (89%) | New: 124 | Fail: 159 | Throttled-deferred: 0 | Rate: 257/min | ETA 0.1h ---
+[2026-08-07 18:26:22] [18386/20440] OK ~pbender/nba-daily/final/playoff-final93-94.txt (1,108b) @20230712
+[2026-08-07 18:28:07] --- Progress: 18397/20440 (90%) | New: 133 | Fail: 164 | Throttled-deferred: 0 | Rate: 250/min | ETA 0.1h ---
+[2026-08-07 18:28:21] --- Progress: 18400/20440 (90%) | New: 135 | Fail: 165 | Throttled-deferred: 0 | Rate: 249/min | ETA 0.1h ---
+[2026-08-07 18:30:43] --- Progress: 18408/20440 (90%) | New: 141 | Fail: 167 | Throttled-deferred: 0 | Rate: 241/min | ETA 0.1h ---
+[2026-08-07 18:32:43] [18421/20440] OK ~pristine/bbs.html (20,526b) @20020109
+[2026-08-07 18:33:14] --- Progress: 18422/20440 (90%) | New: 151 | Fail: 171 | Throttled-deferred: 0 | Rate: 234/min | ETA 0.1h ---
+[2026-08-07 18:35:17] --- Progress: 18432/20440 (90%) | New: 156 | Fail: 176 | Throttled-deferred: 0 | Rate: 228/min | ETA 0.1h ---
+[2026-08-07 18:37:19] --- Progress: 18450/20440 (90%) | New: 174 | Fail: 176 | Throttled-deferred: 0 | Rate: 222/min | ETA 0.1h ---
+[2026-08-07 18:37:20] [18451/20440] OK ~pristine/irc.html (63,229b) @20080116
+[2026-08-07 18:39:37] --- Progress: 18468/20440 (90%) | New: 192 | Fail: 176 | Throttled-deferred: 0 | Rate: 217/min | ETA 0.2h ---
+[2026-08-07 18:41:48] [18479/20440] OK ~pristine/web20.html (33,364b) @20080116
+[2026-08-07 18:41:49] --- Progress: 18479/20440 (90%) | New: 200 | Fail: 179 | Throttled-deferred: 0 | Rate: 211/min | ETA 0.2h ---
+[2026-08-07 18:43:52] --- Progress: 18492/20440 (90%) | New: 209 | Fail: 183 | Throttled-deferred: 0 | Rate: 207/min | ETA 0.2h ---
+[2026-08-07 18:46:42] --- Progress: 18500/20440 (90%) | New: 216 | Fail: 184 | Throttled-deferred: 0 | Rate: 200/min | ETA 0.2h ---
+[2026-08-07 18:48:02] [18512/20440] OK ~robertf/index.html (4,225b) @20020604
+[2026-08-07 18:49:12] --- Progress: 18514/20440 (90%) | New: 226 | Fail: 188 | Throttled-deferred: 0 | Rate: 195/min | ETA 0.2h ---
+[2026-08-07 18:51:16] --- Progress: 18530/20440 (90%) | New: 237 | Fail: 193 | Throttled-deferred: 0 | Rate: 191/min | ETA 0.2h ---
+[2026-08-07 18:53:24] --- Progress: 18537/20440 (90%) | New: 243 | Fail: 194 | Throttled-deferred: 0 | Rate: 187/min | ETA 0.2h ---
+[2026-08-07 18:55:49] --- Progress: 18548/20440 (90%) | New: 246 | Fail: 202 | Throttled-deferred: 0 | Rate: 183/min | ETA 0.2h ---
+[2026-08-07 18:56:13] --- Progress: 18550/20440 (90%) | New: 247 | Fail: 203 | Throttled-deferred: 0 | Rate: 182/min | ETA 0.2h ---
+[2026-08-07 18:57:00] [18555/20440] OK ~stevemc/images/WHTHOUSE.GIF (21,356b) @20231015
+[2026-08-07 18:59:05] --- Progress: 18560/20440 (90%) | New: 252 | Fail: 208 | Throttled-deferred: 0 | Rate: 177/min | ETA 0.2h ---
+[2026-08-07 19:01:20] --- Progress: 18567/20440 (90%) | New: 254 | Fail: 213 | Throttled-deferred: 0 | Rate: 174/min | ETA 0.2h ---
+[2026-08-07 19:03:21] --- Progress: 18579/20440 (90%) | New: 264 | Fail: 215 | Throttled-deferred: 0 | Rate: 170/min | ETA 0.2h ---
+[2026-08-07 19:04:35] [18591/20440] OK ~toates/malick/trl/tellawel_t.jpg (3,853b) @20030529
+[2026-08-07 19:05:38] --- Progress: 18594/20440 (90%) | New: 277 | Fail: 217 | Throttled-deferred: 0 | Rate: 167/min | ETA 0.2h ---
+[2026-08-07 19:06:39] --- Progress: 18600/20440 (90%) | New: 280 | Fail: 220 | Throttled-deferred: 0 | Rate: 166/min | ETA 0.2h ---
+[2026-08-07 19:08:44] --- Progress: 18609/20440 (91%) | New: 286 | Fail: 223 | Throttled-deferred: 0 | Rate: 163/min | ETA 0.2h ---
+[2026-08-07 19:11:22] --- Progress: 18624/20440 (91%) | New: 298 | Fail: 226 | Throttled-deferred: 0 | Rate: 159/min | ETA 0.2h ---
+[2026-08-07 19:11:30] [18626/20440] OK ~wakemup/index.html (15,324b) @20200128
+[2026-08-07 19:13:31] --- Progress: 18638/20440 (91%) | New: 311 | Fail: 227 | Throttled-deferred: 0 | Rate: 156/min | ETA 0.2h ---
+[2026-08-07 19:15:33] --- Progress: 18645/20440 (91%) | New: 315 | Fail: 230 | Throttled-deferred: 0 | Rate: 154/min | ETA 0.2h ---
+[2026-08-07 19:16:58] --- Progress: 18650/20440 (91%) | New: 315 | Fail: 235 | Throttled-deferred: 0 | Rate: 152/min | ETA 0.2h ---
+[2026-08-07 19:19:01] --- Progress: 18658/20440 (91%) | New: 316 | Fail: 242 | Throttled-deferred: 0 | Rate: 150/min | ETA 0.2h ---
+[2026-08-07 19:21:11] --- Progress: 18671/20440 (91%) | New: 322 | Fail: 249 | Throttled-deferred: 0 | Rate: 147/min | ETA 0.2h ---
+[2026-08-07 19:23:15] --- Progress: 18679/20440 (91%) | New: 324 | Fail: 255 | Throttled-deferred: 0 | Rate: 145/min | ETA 0.2h ---
+[2026-08-07 19:23:18] [18680/20440] OK ~wesn/waflyfishers/msg07757.html (7,749b) @20011209
+[2026-08-07 19:25:22] --- Progress: 18691/20440 (91%) | New: 332 | Fail: 259 | Throttled-deferred: 0 | Rate: 143/min | ETA 0.2h ---
+[2026-08-07 19:27:30] --- Progress: 18698/20440 (91%) | New: 332 | Fail: 266 | Throttled-deferred: 0 | Rate: 140/min | ETA 0.2h ---
+[2026-08-07 19:27:30] 
+=== PHASE 3: Generating Index ===
+[2026-08-07 19:27:34] WordPress PDF extraction: found 199 PDF(s)

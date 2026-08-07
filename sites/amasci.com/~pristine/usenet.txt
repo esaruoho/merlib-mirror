@@ -1,0 +1,859 @@
+Pure Mac: Usenet - Software for Macintosh 
+
+ Usenet 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Servers 
+
+ Clients 
+
+ Utilities 
+
+ INN 
+
+ Hogwasher 
+ iGrabNews 
+ MacSOUP 
+ MT-NewsWatcher 
+
+ NewsHunter 
+ NewzScape 
+ OSXnews 
+ Picture Patrol 
+ PictureSnooper 
+
+ Thoth 
+ tin 
+ Unison 
+ unPoster 
+
+ checkSum+ 1.2 
+ Cocoa NewsPost 
+ Decoder 
+ MacHacha 
+ MacPAR deLuxe 
+ NZB Drop 
+ Osiris 
+ RAR 
+ RAR Expander 
+
+ Rarify 
+ RarMachine 
+ RarMe 
+ Saving Face 
+ SimplyRAR 
+ Split&Concat 
+ SuperNZB 
+ UnRarX 
+ XFacer 
+ yEnc TZ 
+
+ Giganews 
+ Usenet 
+ Newsgroups 
+ Newsreaders.com 
+ Usenet FAQs 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ checkSum+ 1.5.2 
+
+checkSum+ will handle md5, sfv & cvs files (please, do not confuse with
+cvs files, since these can be any kind of database file). These files
+store "checksum" information about files, and will allow this and other
+applications know if the related files are or not corrupted. You will
+often find these files in USENET newsgroups and other places, where
+there is a risk of data loss. So, the original distributor of some
+files, usually *large* files, will create and also distribute some of
+these files, so the final recipient of such files can check for the
+integrity of these. This is very useful, eg, for multi-segment files.
+When you attempt to join them, if one of them is corrupted, the attempt
+will simply fail, and you won't know what segment is corrupted. But
+using these files (md5, sfv or cvs), you can know what is the bad file,
+and re-download it again, instead of re-downloading all the stuff.
+
+ License : Freeware
+ Author/Publisher : Pescados Software
+ Modification Date : November 25, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 216 Kb
+
+ Home Page 
+
+ Cocoa NewsPost 1.8 
+
+Do you have Music you want heard? Images you want seen? Cocoa NewsPost
+is the answer you've been waiting for. No more fighting with Netscape or
+your other news readers. Cocoa NewsPost is fast, simple and yet VERY
+powerful. It not only posts your files but will generate checksums and
+PAR files so that your post comes out usable on the other end. All you
+need is material, Cocoa NewsPost will do the rest.
+
+ License : Shareware, $19
+ Author/Publisher : AGDesign Laze E Software
+ Modification Date : January 21, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 898 Kb
+
+ Home Page 
+
+ Decoder 4.0.4 
+
+Designed to decode files that have been converted to a different format
+so that they can be more easily downloaded or e-mailed. Decoder will
+decode AppleSingle, BinHex, MacBinary(versions I, II, and III),
+UUencoded, MIME (base64, etc), Zip, Tar, gz and yEnc formats. Just drag and drop the
+encoded files onto the Decoder application icon and Decoder can detect
+the encoding scheme and decode accordingly.
+
+ License : Shareware, $20
+ Author/Publisher : John Daniel/Etresoft
+ Modification Date : March 30, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ Hogwasher 4.3 
+
+Hogwasher is the ultimate newsgroup browser for OS X. File downloads in multiple
+connections across multiple servers, thread trees and extensive filtering for keeping your
+discussions accessible, and a complete email client just in case.
+
+ License : Shareware, $49
+ Author/Publisher : Asar Corporation
+ Modification Date : December 22, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 8.2 MB
+
+ Home Page 
+
+ iGrabNews 1.2.2 
+
+iGrabNews allows you to download files (pictures, audio, video...) from
+usenet newsgroups (usually alt.binaries.*). iGrabNews is not a common
+newsreader : there is no threaded display of articles. Features: 
+Multi Server. 
+ Multi Groups. 
+ Multi threaded (You can simultaneously download multiple files at the same time). 
+ Download Queue (You can queue hundreds of downloads, that will be processed when connections are available). 
+ Displays multi-part articles as one file to easily browse posted files. 
+ Live display of posted files while refreshing the group. 
+ Live and powerful search among thousands of files. 
+ Incremental and Full refresh of groups. 
+ Automatic decoding (yEnc, uuencode, BinHex). 
+ NNTP Authentication.
+ Auto refresh groups / Auto get files 
+ Read/Post text articles 
+ Improved NZB File support 
+ Improved Decoding 
+ Queue Download Resume 
+
+ License : Shareware, $10
+ Author/Publisher : Samuel Lellouche
+ Modification Date : August 18, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 3.7 MB
+
+ Home Page 
+
+ INN 2.4.3 
+
+The InterNetNews package (INN) is a complete Usenet system. It includes
+innd, an NNTP server, and nnrpd, a newsreading server. INN separates
+hosts that feed you news from those that have users reading news. INN
+was originally written by Rich Salz. ISC took over development of INN in 1996 after Rich was
+unable to continue supporting it and many variants of the software were
+forming.
+
+ License : Freeware
+ Author/Publisher : Internet Systems Consortium
+ Modification Date : March 22, 2006
+ Requirements : Mac OS X
+
+ Download 
+File Size: 1.8 MB
+
+ Home Page 
+
+ MacHacha 3.3 
+
+ If you usually download movies, music or large archives from news groups, public web servers, streamload, edonkey or whatever place, this is your tool.
+ If you'd like transportate a 5MB document in a floppy disk to your home, or fit a 400MB archive in two ZIP discs, or even move a 7GB film to a computer with a DVD burner and you only have a single CD-RW, this is your tool.
+ If you wish share a 6MB document with your PC-friends over the internet and you can only put up online chunks of 1MB because of your ISP restrictions, this is your tool.
+ 13
+MacHacha will do a simple job: split archives into smaller parts and join them when requested.
+ What are the supported formats by MacHacha? 
+Currently, both split & join: Hacha, WinSplit, FastSplit, Split&Concat, HJSplit & UNIX/Linux. You can also join documents from Hacha's newest version and Windows MasterSplitter (see FAQ in this distribution) and RAR normal and multi-segment files.
+
+ License : Freeware
+ Author/Publisher : Pescados Software
+ Modification Date : February 16, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 972 Kb
+
+ Home Page 
+
+ MacPAR deLuxe 3.8 
+
+MacPAR deLuxe is a utility program that runs on Macintosh OSX. It is useful to you if you upload and download binary files to and from Internet newsgroups.
+It's main functions are:
+ * Ensure error-free transport of the data by means of so called "par" and "par2" files;
+ * Unpack data from a RAR archive (most of the files in newsgroups are compressed with rar);
+ * Automatically start an external program (such as Stuffit Expander) to process downloaded files.
+
+ License : Freeware
+ Author/Publisher : Gerard Putter
+ Modification Date : March 18, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ MacSOUP 2.8.3 
+
+MacSOUP is an offline reader for Usenet newsgroups and Internet e-mail.
+If you don't know what newsgroups are, you probably don't need this
+program. MacSOUP is primarily a newsreader, its e-mail capabilities are
+somewhat rudimentary compared to "real" e-mail clients.
+
+ License : Shareware, $20
+ Author/Publisher : Stefan Kurth
+ Modification Date : December 15, 2009
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Download 
+File Size: 1.5 MB
+
+ Home Page 
+
+ MT-NewsWatcher 3.5.2 
+
+MT-NewsWatcher is a Usenet news client for the Macintosh. Usenet is a
+globally distributed news network over which many thousands of people
+distribute messages every day, and which contains discussion groups on
+virtually every topic under the sun. MT-NewsWatcher allows you to
+quickly and efficiently target the articles you wish to read, with
+sophisticated yet easy to use filtering, searching and sorting features.
+The program also makes viewing and saving binaries from newsgroups easy,
+and works transparently across multiple news servers.
+
+MT-NewsWatcher is derived from an earlier program called simply
+"NewsWatcher", by John Norstad of Northwestern University, but greatly
+enhances that program's feature set.
+
+ License : Freeware
+ Author/Publisher : Simon Fraser
+ Modification Date : August 27, 2006
+ Requirements : Mac OS X 10.1 or higher and Mac OS 9
+
+ Download 
+File Size: 3.0 MB - version 3.5.3b3 - July 5, 2008
+
+ Download 
+File Size: 2.9 MB - version 3.5.2
+
+ Download 
+File Size: 1.4 MB - version 3.4
+
+ Home Page 
+
+ NewsHunter3 1.0.9 
+
+Download pictures, movies, and files from newsgroups with NewsHunter.
+Easy SetUp will have new users downloading quickly. NewsHunter can
+download everything in your favorite newsgroups or just the articles you
+select. NewsHunter supports yEnc, UUE, MIME, Base64, and other popular
+encoding schemes. NewsHunter's Decoding tab lets you monitor the
+progress of files being decoded and assembled and the image preview area
+lets you see downloaded images and delete ones you don't like. Filter
+out offending authors with a single click. Use friend filters to
+download everything from authors you like. NewsHunter will let you seek
+out, collect, organize, and enjoy everything your favorite newsgroups
+have to offer.
+
+ License : Shareware, $60
+ Author/Publisher : Parker Software
+ Modification Date : August 21, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ NewzScape 1.1.2 
+
+Automatic binary downloader for power users.
+
+ License : Shareware, $40
+ Author/Publisher : TechSono
+ Modification Date : October 2, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.2 MB
+
+ Home Page 
+
+ NZB Drop 1.3 
+
+NZB Drop frees you from crawling through millions of headers to get at the content you
+want. With an NZB file specifying your desired content, simply drag and drop unto NZB Drop
+and experience the simplest, drop dead fastest way ever to retrieve files from Usenet
+newsgroups.
+
+ License : Shareware, $22
+ Author/Publisher : Asar
+ Modification Date : January 16, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.1 MB
+
+ Home Page 
+
+ Osiris 3.1 
+
+A drag and drop application to post a folder or folders of files to
+specified newgroups using Thoth or MT-Newswatcher.
+
+ License : Freeware
+ Author/Publisher : Wooden Brain Concepts
+ Modification Date : February 28, 2008
+ Requirements : Mac OS X 10.4 or higher, MT-Newswatecher or Thoth
+
+ Download 
+File Size: 468 Kb
+
+ Home Page 
+
+ OSXnews 2.081 
+
+OSXnews is a small, fast usenet newsreader for OS X. It is designed to
+look and behave like Apple's Mail program and uses it for all mail
+functions. It also uses the Webcore engine used in Safari to display
+messages. It is actively being developed and the current version
+supports many (though not all ) features people expect in a newsreader.
+It also has some support for binary posts. At the moment this is limited
+to single part yEnc posts. Full support is expected in upcoming
+versions. 
+
+ License : Freeware
+ Author/Publisher : Anurodh Pokharel
+ Modification Date : March 24, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 314 Kb
+
+ Home Page 
+
+ Picture Patrol 1.5.1 
+
+Unlike ordinary newsreaders that require your constant intervention, Picture
+Patrol independently downloads articles from your favorite newsgroups,
+decodes pictures attached to them and saves these images into the
+directories you set, neatly grouped by date and newsgroup.
+
+ License : Shareware, $19
+ Author/Publisher : Brainchild
+ Modification Date : October 26, 2005
+ Requirements : Mac OS X 10.2 or higher or Mac OS 9
+
+ Download 
+File Size: 2.1 MB
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ PictureSnooperPE 1.0 
+
+PictureSnooper is an Application that Searches Usenet NewsGroups for
+binary files, while you are having dinner, at the movies, or even
+sleeping. These binary files are usually pictures (and sometimes
+executables and HTML files). After finding a binary file,
+PictureSnooperX downloads the file, decodes that file, and saves that
+file to the directory of your choice for later viewing.
+This Version Adds Many New Exciting Features Including Unix Sockets (For Internet Connections), Unix Threads (Better Window Response), PAR and PAR2 Decoding (Along With Improved RAR Decoding), Automatic MPEG4 encoding of .AVI Formatted Movies, And All New Graphics Using MacOSX Native Cocoa.
+
+ License : Shareware, $45
+ Author/Publisher : QSys Software
+ Modification Date : April 26, 2004
+ Requirements : Mac OS X and Mac OS 8.5 and higher
+
+ Download 
+File Size: 4.9 MB - version 1.0
+
+ Download 
+File Size: 6.3 MB - version 1.1b - June 10, 2006
+
+ Home Page 
+
+ RAR 3.8 
+
+RAR is a compression and decompression program that allows you to save files, password protect them, or even take large files and break them up into many smaller parts.
+RAR is available for several platforms, and you can even download the decompression part for free.
+
+ License : Shareware, $29
+ Author/Publisher : Alexander Roshal
+ Modification Date : Septebmer 16, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 614 Kb 
+
+ Home Page 
+
+ RAR Expander 0.83 
+
+RAR Expander is a MacOSX program which extracts the files contained in
+RAR archives. It supports both single and multi-part archives, and has
+support for password-protected archives as well. It uses the official
+unRAR library internally so it is fully compatible with archives
+produced by WinRAR. RAR Expander also features AppleScript support, and
+includes a few useful example scripts for expanding multiple archives at
+once.
+
+ License : Freeware
+ Author/Publisher : rinzwind
+ Modification Date : February 17, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 566 Kb
+
+ Home Page 
+
+ Rarify 0.8.1 
+
+1. What is this
+ This is a very simple interface to the rar binary. And RAR is a popular
+compression format in the PC-side-of-the-life. Keep in mind that the RAR
+format won't support OSX-specific flags (ie, resource fork). For
+advanced options, use the rar binary in CLI mode itself, or look for
+other interfaces.
+
+2. Usage
+ Use the Preferences window to adjust some settings (password if needed,
+segments if needed, etc.) and then drop onto Rarify's icon your
+file(s)/folder(s) in order to compress them.
+
+3. Requirements & Installation
+ Rarify will run under OS X 10.4 and 10.5, both Intel and PPC architectures. 
+ 1. Drop Rarify onto your favorite location.
+ Due to licensing issues, I prefer you install the rar binary manually
+yourself (so you can read its readme, read its license, purchase a copy
+or whatever you wish).
+ 2. Install if needed the rar binary. To do so:
+ -Go to http://www.rarlabs.com/ downloads section.
+ -Choose your favorite download (usually, the newer version of the rar binary for OS X) and download it.
+ -Unpack.
+ -Make a new Finder window ("Apple + N"). Type "Apple + Shift + G". Type "/usr/local/bin".
+ -Now, copy the unpacked "rar" binary file onto the "/usr/local/bin" window. Authenticate as administrator if needed.
+ If you prefer not doing such a thing (!), you can copy as well the rar binary to the following destination (instead of "/usr/bin" or "/usr/local/bin"):
+ -Rarify/Contents/Resources..
+ 3. You can instead use the "Update RAR binary..." menu item under the
+application menu and these steps will be done automagically by Rarify.
+
+ License : Freeware
+ Author/Publisher : Pescados Software
+ Modification Date : November 23, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 86 Kb
+
+ Home Page 
+
+ RarMachine 1.0.3 
+
+RarMachine is a powerful RAR archive manager, surely the simplest and
+most integrated for Mac OS X.
+
+You can use it to compress and extract all Rar files downloaded from the
+internet or compressed on a PC with the power advantage of your Mac
+System.
+
+ License : Shareware, $8
+ Author/Publisher : Philippe Durix & Gabriel Nion
+ Modification Date : March 17, 2009
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 4.7 MB
+
+ Home Page 
+
+ RarMe 0.5 
+
+RarMe is an AppleScript Studio application that uses the command line
+utility rar (http://www.rarlabs.com/) to create RAR archives. In order
+to use RarMe you must download and install rar. RarMe is beta software,
+and is not guaranteed to work in any way. It should though. Mostly.
+
+ License : Freeware
+ Author/Publisher : Armelline
+ Modification Date : March 11, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 257 Kb - RarMe 0.5
+
+ Home Page 
+
+ Saving Face 1.2 
+
+A handy little program for creating X-Face headers, which are used to encode a small bitmap as ASCII for inclusion in news postings and mail messages.
+MT-NewsWatcher and MacSOUP utilize X-Faces.
+
+ License : Freeware
+ Author/Publisher : Simon Fraser
+ Modification Date : December 27, 1997
+ Requirements : System 7 or higher
+
+ Download 
+File Size: 54 Kb
+
+ Parent Directory 
+
+ SimplyRAR 1.0.9 
+
+RAR files are created with the RAR 3.51 command line program. PAR2 files
+are created using the par2cmdline v0.4 program.
+
+ License : Freeware
+ Author/Publisher : Reflections Visual Multimedia
+ Modification Date : August 10, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 579 Kb
+
+ Split&Concat 2.5 
+
+In Internet newsgroups large files often are split into smaller parts
+since messages can not be of more than a certain size to be able to post
+them in newsgroups. For that reason you can find often binary files that
+are split in parts like filename.mp3.001, filename.mp3.002,
+filename.mp3.003, etc. While it is possible to put these parts together
+using commands in the Terminal, not everybody is comfortable with the
+command line.
+
+That's why I decided to write a small utility that makes it easy to
+split large files or merge pre-split files -- all from a comfortable OS
+X interface. This simplifies the process of uploading and downloading
+split files from the Internet, as well as making it possible to store a
+large file across two or more CD-R's.
+
+ License : Freeware
+ Author/Publisher : Loek Jehee
+ Modification Date : April 2, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 4.2 MB
+
+ Home Page 
+
+ SuperNZB 3.2.1 
+
+SuperNZB can download from any number of news servers using any number
+of connections. Practically, you only need access to two good servers
+that allow a few connections each to guarantee that you get all posts at
+maximum speed. But if you have access to 100 crappy servers, you can do
+that too.
+
+ License : Shareware, $40
+ Author/Publisher : TechSono Engineering
+ Modification Date : January 17, 2008
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.2 MB
+
+ Home Page 
+
+ Thoth 1.8.4 
+
+Thoth is a Usenet newsreader application for Macintosh. Its features include automatic viewing of downloaded images, binary
+posting, flexible article filtering (kill files) and sorting, reference-based threading, and comprehensive multiple character set
+support for reading and posting in non-English language and non-Latin alphabet newsgroups. It can be used both as an online
+and offline newsreader.
+
+ License : (no longer available) - Thoth 1.8.4 is available as a free update for existing Thoth users with valid registrations
+ Author/Publisher : Brian Clark
+ Modification Date : April 8, 2008
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 2.1 MB - version 1.8.4 - for registered users of 1.7.x only
+
+ Home Page 
+
+ tin 1.8.3 
+
+tin is a threaded NNTP and spool based UseNet newsreader for a variety of platforms.
+
+ License : Freeware
+ Author/Publisher : tin.org
+ Modification Date : February 1, 2007
+ Requirements : Mac OS X
+
+ Download 
+File Size: 1.9 MB
+
+ Home Page 
+
+ Unison 1.8.1 
+
+Usenet. It's a global network filled with vivid discussions, unique music, pictures, and more.
+And Unison? It's the second coming of Usenet: a fun, powerful, and Mac-like newsreader. Get on!
+ General Features
+ Improved Download Manager
+ Pause your queue, restart groups, and more
+ Rules
+ Highlight or kill incoming items automatically
+ Personalities
+ Be whoever you want, whenever
+ Favorites Drawer
+ Switch groups without, er, leaving a group
+ NZB File Support
+ Download files from Usenet search engines
+ Lots more!
+
+ License : Shareware, $25
+ Author/Publisher : Panic Software
+ Modification Date : February 25, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 3.5 MB
+
+ Home Page 
+
+ unPoster 2.0.1 
+
+Have you ever tried to see what files are available in a newsgroup with
+several million posts? Not easy, right? We have designed The unPoster to
+take all the work out of downloading files from these, and smaller
+groups. The unPoster's Watcher will continuously download headers from
+your favorite newsgroups and analyze them. Then, when you are ready to
+download something, open up the unPoster's Lister and simply select the
+files you want.
+
+ License : Shareware, $40
+ Author/Publisher : TechSono
+ Modification Date : July 6, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.5 MB
+
+ Home Page 
+
+ UnRarX 2.2 
+
+UnRarX is a Mac OS X Cocoa application that allows you to expand rar
+archives and restore corrupted or missing archives using par2.
+
+ License : Freeware
+ Author/Publisher : Peter Noriega
+ Modification Date : July 6, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 716 Kb
+
+ Home Page 
+
+ Xfacer 1.0b3 
+
+Xfacer is a simple application for cropping pictures and reducing them to 48-by-48-pixel black-and-white icons. For use in Usenet and email clients which support the Xface format.
+
+ License : Freeware
+ Author/Publisher : Fritz Anderson
+ Modification Date : August 18, 2002
+ Requirements : Mac OS X 10.1.3 or higher
+
+ Download 
+File Size: 179 Kb
+
+ Home Page 
+
+ yEnc TZ 1.1.3 
+
+A utility program to decode yEnc encoded files, such as are used on usenet newsgroups.
+
+ License : Freeware
+ Author/Publisher : TurboZen
+ Modification Date : July 27, 2004
+ Requirements : Mac OS X or higher and System 7 or higher
+
+ Download 
+File Size: 148 Kb
+
+ Download 
+File Size: 132 Kb
+
+ Download 
+File Size: 120 Kb
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

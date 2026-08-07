@@ -1,0 +1,1112 @@
+Pure Mac: Apple Updates (Classic Mac OS) - Software for Macintosh 
+
+ Apple Updates (Classic Mac OS) 
+
+ Web 
+
+ Pure-Mac.com 
+
+ System 7.0.1 to 7.1.3 
+ System 7.5 to 7.5.5 
+ Mac OS 7.6 to 7.6.1 
+ Mac OS 8.0 to 8.1 
+ Mac OS 8.5 to 8.6 
+ Mac OS 9.0 to 9.2.2 
+ Firmware Updates 
+ Miscellaneous 
+
+ System 7.0.1 
+ System Update 3.0 
+ Apple CD-ROM 
+ Drag and Drop 
+ Internet Config 
+ MacPPP 
+ MacTCP 
+ QuickTime 
+ Thread Manager 
+ Sound Manager 
+
+ System 7.5.3 
+ System 7.5 Update 2.0 
+ System 7.5.5 Update 
+ Appearance Manager 
+ Apple CD-ROM 
+ Internet Config 
+ Mac OS Runtime for Java 
+ Open Transport 
+ Open Transport/PPP 
+ QuickTime 
+
+ Mac OS 7.6.1 Update 
+ Appearance Manager 
+ Apple CD-ROM 
+ Internet Config 
+ Mac OS Runtime for Java 
+ QuickTime 
+
+ Mac OS 8.1 
+ Appearance Manager 
+ Apple Displays 
+ Internet Config 
+ Mac OS Runtime for Java 
+ OpenGL 
+ QuickTime 
+
+ Mac OS 8.5.1 
+ Mac OS 8.6 
+ CarbonLib 
+ Font Manager Update 
+ Mac OS ROM Update 
+ Mac OS Runtime for Java 
+ OpenGL 
+ QuickTime 
+ PlainTalk 
+
+ Mac OS 9.0.4 
+ Mac OS 9.1 
+ Mac OS 9.2.1 
+ Mac OS 9.2.2 
+ Apple Airport 
+ AppleScript 
+ CarbonLib 
+ QuickTime 
+
+ G3 Firmware Update 
+ G4 Cube Firmware Update 
+ G4 Firmware Update 
+ iBook Firmware Update 
+ iMac Firmware Update 
+ PowerBook Firmware Update 
+
+ Apple DVD Player 
+ Apple/GV 56K Modem Updater 
+ Apple Modem Updater 
+ Apple Printers 
+ Disk Copy 
+ HyperCard 
+ OpenDoc 
+
+ Note: Most of these updaters have later versions in a newer Mac operating system. If the Mac OS you are now using 
+was released later than the release date for the following updates, you likely do not want or
+need these items. Also, if you have an older operating system you may want to check the parent directory for each file to
+find a more compatible file for your Mac. The files listed here are just a sampling of the files found at Apple's FTP Site .
+If you are not in the US you would be better off going to the localized directory of your choice since
+the files listed here for direct download are the US versions. 
+If you're using Mac OS X, you're best off using Apple's Software Update program to keep your Mac up to date. 
+ You'll need Disk Copy for most of the files here.
+
+ apple-history.com 
+ Apple Updates 
+ EveryMac.com 
+ Jag's House 
+ Purchase Mac OS (System 7.5.3 to Mac OS 10.3) 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Appearance Manager 1.0.4 
+
+The only change in the Appearance 1.0.4 SDK from the Appearance 1.0.3
+SDK is the updated .Keyboard font 3.1 that shipped with Mac OS 8.6. All
+other information in the SDK is the same. The 3.1 version of the
+.Keyboard font contains fifteen additional glyphs for displaying the
+function keys F1 to F15 in menus and dialogs. 
+Important: You should only install components from this SDK into a
+System Folder whose version is 8.1 or earlier. Do not install components
+from this SDK into a System Folder whose version is 8.5 or later, as the
+functionality is already included in the System file in those releases.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : July 16, 1999 
+ Requirements : Mac OS 8.1 or earlier only
+
+ Download 
+File Size: 3.7 MB
+
+ Parent Directory 
+
+ Apple Airport 2.0.4 
+
+AirPort 2.0.4 software works with all versions of AirPort cards and base
+stations. If you are using AirPort 2.0.4 with earlier versions of the
+Apple AirPort Card and/or Apple AirPort Base Station, your hardware may
+be upgraded with new features and capabilities including 128 bit
+encryption.
+
+Note: Earlier versions of the AirPort Base Station (Graphite) cannot be
+upgraded to 128-bit encryption.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : June 6, 2002
+ Requirements : Mac OS 9.2.1 or 9.2.2
+
+ Download 
+File Size: 8.7 MB
+
+ Parent Directory
+
+ Apple CD-ROM 5.4 
+
+Software that lets you use an Apple CD-ROM drive with your 
+Macintosh computer. Previously only available from Mac OS 8.0.
+
+ License : Free Update.
+ Author/Publisher : Apple
+ Modification Date : May 19, 1997 
+ Requirements : An Apple CD-ROM, System 7.1 or higher - Note: Later versions come with Mac OS 8 and higher.
+
+ Download 
+File Size: 96 Kb
+
+ Parent Directory 
+
+ Apple Displays 1.7.1 
+
+Replaces all previous versions of Apple's monitor software. Including Apple Vision and Multisync Monitors.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : February 11, 1999
+ Requirements : Mac OS 8.0, 8.1, 8.5, or 8.5.1 and any Apple monitor made before the release date
+
+ Download 
+File Size: 96 Kb
+
+ Apple Displays Directory 
+
+ Older Displays Directory 
+
+ Apple DVD Player 2.7 
+
+The Apple DVD Player is a full-featured, software only DVD player for Mac OS 9.1 and later. This version adds unified support for all Macintosh G3 and G4 models that shipped with AGP graphic display cards, including support for both the ATI and Nvidia graphics cards. It is not compatible with the DVD hardware in the Power Macintosh G3, PowerBook G3, and Power Mac G4 (PCI graphics) series computers.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : June 11, 2001
+ Requirements : Mac OS 9.1 and later, Macintosh G3 and G4 computers shipped with AGP graphics display cards.
+ It is not compatible with the DVD hardware in the Power Macintosh G3, PowerBook G3* and Power Macintosh G4 (PCI graphics) series computers
+
+ Download 
+File Size: 1778 Kb
+
+ Parent Directory 
+
+ Download Page 
+
+ Apple/GV 56K Modem Updater 1.1.3 
+
+Includes Apple/GV 56K Updater 2.200 and Apple/GV 56K Updater v1.001.
+The Apple/GV 56K Updater 2.200 installs the V.90 protocol. If you have
+updated to the V.90 protocol and discover that your ISP only supports
+K56flex, run the Apple/GV 56K Updater v1.001 to install the K56flex
+protocol.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : January 15, 1999
+ Requirements : The 56k internal modem which came with the Power Macintosh G3 (Desktop
+or Minitower, or Power Macintosh 6500 series computers. These updaters DO NOT support the modem in the iMac or the new Power
+Macintosh G3 (Blue and White).
+
+ Download 
+File Size: 867 KB
+
+ Parent Directory
+
+ Apple Modem Updater 2.0 
+
+The Apple Modem Updater will update modems in the PowerBook G3 Series, iMac,
+Power Macintosh G3 (Blue and White), and Power Macintosh G4 (PCI and AGP)
+computers. The updater installs version 2.3 of the Conexant firmware which
+contains the latest versions of both the V.90 and the K56flex protocols. The
+modems can use either the K56flex or V.90 protocols and will automatically
+negotiate with the service provider to use the appropriate one.
+
+After you have updated the modem you may notice that the connection speed that
+is reported when you first establish a connection may be lower than it was prior
+to the upgrade, however the modem throughput will be at least as good and often
+better than before the upgrade. Throughput is the measure of how quickly a
+certain amount of data is transferred from one modem to another. It is important
+to remember that the connection speed that is reported is only the initial
+connection speed. The modems will adjust their communications speed as line
+conditions require. A faster connection speed does not necessarily indicate a
+higher throughput, factors like resending data due to noise on the phone lines
+will lower overall throughput.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : October 17, 2000
+ Requirements : This updater supports the internal modem which came with your PowerBook G3 Series, iMac, Power
+Macintosh G3 (Blue and White), and Power Macintosh G4 (PCI and AGP) computers.
+
+ Download 
+File Size: 1289 KB
+
+ Apple Printers 
+
+Updates for your Apple printer.
+
+ License : Free Updates
+ Author/Publisher : Apple
+ Modification Date : Various 
+ Requirements : Appropriate Apple Printer
+
+ Direct Download - Apple Color StylerWriter 4000 Update 1.0 
+File Size: 1725 Kb - Released: July 10, 2000 - Mac OS 9 fix for the Color StyleWriter 4100 and 4500
+
+ Direct Download - Apple Color StylerWriter 6000 Series 3.1.1 (Disk 1 of 3) 
+File Size: 442 Kb - Released: August 5, 1997 - Use for the Color StyleWriter 6000 Series
+
+ Direct Download - Apple Color StylerWriter 6000 Series 3.1.1 (Disk 2 of 3) 
+File Size: 1165 Kb - Released: August 5, 1997 - Use for the Color StyleWriter 6000 Series
+
+ Direct Download - Apple Color StylerWriter 6000 Series 3.1.1 (Disk 3 of 3) 
+File Size: 804 Kb - Released: August 5, 1997 - Use for the Color StyleWriter 6000 Series
+
+ Direct Download - Apple Color StylerWriter 2500 2.2.1 
+File Size: 2268 Kb - Released: January 15, 1997 - Use for the Color StyleWriter 2200, 2400 and 2500
+
+ Direct Download - Apple Color StylerWriter 1500 2.2.1 
+File Size: 2068 Kb - Released: January 15, 1997 - Use for the Color StyleWriter 1500, StyleWriter, StyleWriter II, and StyleWriter 1200
+
+ Direct Download - Apple Color StylerWriter Pro 1.5.2 
+File Size: 203 Kb - Released: March 25, 1995 - Use for the Color StyleWriter Pro
+
+ Direct Download - LaserWriter 8.6 
+File Size: 3588 Kb - For all systems Previous to Mac OS 8.5 - released March 24, 1998
+
+ Direct Download - LaserWriter 8.6.1 
+File Size: 3097 Kb - Mac 0S 8.5x only - released March 24, 1998
+
+ Parent Directory 
+
+ AppleScript 1.8.3 
+
+AppleScript lets you automate tasks you do on your computer. Using AppleScript and the scriptable applications and scripting additions included with Mac OS 9.2.2, you can automate
+ changing appearance settings
+ adding an alias to the Apple menu
+ opening, renaming, and moving files and folders
+ arranging folder windows
+ backing up your hard disk
+ connecting to servers and shared disks
+ printing groups of documents
+ setting up network connections
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : May 10, 2002
+ Requirements : Mac OS 9.2.2 (version 1.9.3 is included with Mac OS X 10.3.x)
+
+ Download 
+File Size: 1.5 MB
+
+ Parent Directory 
+
+ Home Page 
+
+ Disk Copy 6.3.3 
+
+For images in the new NDIF format.
+Disk Copy is a utility application that will mount disk
+images on your desktop, make exact copies of floppy disks
+from a disk image, convert disk images from one format to
+another, and create a disk image from a mounted volume or
+individual folder.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : January 21, 1999
+ Requirements : Mac OS 7.6 or higher
+
+ Download 
+File Size: 753 Kb - Disk Copy 6.3.3
+
+ Download 
+File Size: 39 kb - Disk Copy 4.2
+
+ Parent Directory 
+
+ CarbonLib 1.6 
+
+CarbonLib 1.6 delivers improved functionality for Carbon-based applications on Mac OS 8.6, all Mac OS 9 releases and Mac OS X.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : June 20, 2002
+ Requirements : PPC, Mac OS 8.6 or better
+
+ Download 
+File Size: 2963 Kb
+
+ Parent Directory
+
+ Drag and Drop 1.1 
+
+Macintosh Drag and Drop 1.1 includes the Macintosh 
+Drag and Drop file, the Clipping Extension file, and the Dragging 
+Enabler file.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : April 22, 1994
+ Requirements : System 7.0 to 7.1.3 only
+
+ Download 
+File Size: 1.8 MB
+
+ Parent Directory 
+
+ Font Manager Update 1.0 
+
+The Font Manager Update extension fixes the following problems in the Mac OS 8.6 Font Manager:
+ Corrupt FOND resources: Under certain circumstances, the Font Manager in Mac OS 8.6 may create a corrupt resource inside some applications or fonts. When this occurs, fonts with corrupted resources cannot be moved and some third-party font management tools may crash. 
+ Bad character height: In Mac OS 8.6, the height of characters in Apple's Japanese and Traditional Chinese fonts is one pixel shorter than in Mac OS 8.5, leading to problems displaying, editing, or printing text.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : July 28, 1999
+ Requirements : Mac OS 8.6 - All users of Mac OS 8.6 should install the Font Manager Update and use the Font First Aid utility
+
+ Download 
+File Size: 312 Kb
+
+ Parent Directory
+
+ G3 Firmware Update 1.1 
+
+Install the Power Macintosh G3 Firmware Update on all blue & white Power
+Macintosh G3 Desktop systems to achieve improved PCI performance.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : May 11, 1999
+ Requirements : Blue & White Power Macintosh G3 Desktop systems
+
+ Download 
+File Size: 871 KB
+
+ Parent Directory
+
+ G4 Cube Firmware Update 4.1.9 
+
+The G4 Cube Firmware Update 4.1.9 will run only on G4 Cube models running Mac OS 9.1 or later from a local hard disk. If you are using Mac OS X on your Cube, you must start up from a local Mac OS 9.1 or later writeable partition (not a CD or network disk) before following the update instructions. 
+
+ License : Free update
+ Author/Publisher : Apple
+ Modification Date : September 25, 2001
+ Requirements : OS 9.1 or higher, G4 Cube
+
+ Download 
+File Size: 1273 Kb - Power Mac G4 Cube Firmware Update updater to version 4.1.9
+
+ Parent Directory 
+
+ G4 Firmware Update 4.2.8 
+
+The Power Mac G4 Firmware Update 4.2.8 will run only on Power Mac G4 and
+Macintosh Server G4 models with AGP graphics running Mac OS 9.1 or later
+from a local hard disk. If you are using Mac OS X on your Power Mac G4
+or Macintosh Server G4, you must start up from a local Mac OS 9.1 or
+later writeable partition (not a CD or network disk) before following
+the update instructions.
+Firmware Update 4.2.8 includes improvements to starting up Mac OS X from
+the local hard disk, FireWire target disk mode, network startup, gigabit
+networking (on systems with gigabit hardware), and system stability.
+This update also adds support for additional security options that allow
+the Open Firmware to be password-protected.
+
+ License : Free update
+ Author/Publisher : Apple
+ Modification Date : October 18, 2001
+ Requirements : English North-American Mac OS 9.1 or higher, AGP G4
+
+ Download 
+File Size: 1263 Kb
+
+ Parent Directory 
+
+ HyperCard 2.4.1 
+
+Utility to allow you to view and use Hypercard stacks.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : June 11, 1998
+ Requirements : 680x0 or PPC
+
+ Download 
+File Size: 1674 Kb - HyperCard Player 2.4.1
+
+ Download 
+File Size: 5.1 MB - HyperCard Update 2.4.1
+
+ Parent Directory
+
+ iBook Firmware Update 4.1.7 
+
+The iBook Firmware Update 4.1.7 will only run on iBook computers running
+Mac OS 9.1 from a local drive. If you are using Mac OS X you must boot
+from a local Mac OS 9.1 writeable partition (not a CD, or network disk)
+prior to following the update instructions. 
+Firmware Update 4.1.7 includes improvements to Firewire target disk
+mode, network booting, gigabit networking (on systems with gigabit
+hardware), and system stability. This update also adds support for
+additional security options which allow the Open Firmware to be password
+protected.
+
+This update also contains changes from earlier Firmware Updates. This
+update adds support for 256 megabyte (MB) memory modules and improved
+support for using a USB storage device, such as an external hard drive,
+as a startup disk.
+
+ License : Free update
+ Author/Publisher : Apple
+ Modification Date : March 20, 2001
+ Requirements : The iBook Firmware Update 4.1.7 will only run on iBooks using Mac OS 9.1 or later.
+
+ Download 
+File Size: 1 MB
+
+ Parent Directory 
+
+ iMac Firmware Update 4.1.9 
+
+The iMac Firmware Update 4.1.9 will only run on iMac computers with
+slot-loading CD or DVD drives running Mac OS 9.1 or later from a local
+drive. If you are using Mac OS X you must boot from a local Mac OS 9.1
+or later writeable partition (not a CD, or network disk) prior to
+following the update instructions.
+
+ License : Free update
+ Author/Publisher : Apple
+ Modification Date : May 30, 2000
+ Requirements : slot-loading CD or DVD drives running Mac OS 9.1 or later
+
+ Download 
+File Size: 1266 Kb - iMac Firmware Update updater 4.1.9
+
+ Parent Directory 
+
+ Internet Config 2.0.2 
+
+The Internet Configuration System was designed to make your life easier
+by reducing the number of times which you need to enter your Internet
+preferences into the various preferences dialogs of all your Internet
+applications.
+
+ License : Freeware
+ Author/Publisher : Quinn "The Eskimo" and Peter N Lewis
+ Modification Date : July 22, 1998
+ Requirements : System 7 or later, and Component Manager. If
+you've never heard of Component Manager, that's OK. It's installed as
+part of System 7.1 and above, and as part of QuickTime. So chances are
+that it's already on your computer. You can just run IC and it will tell
+you if you don't have it installed. - Note: Internet Config 2.0.2 or
+higher is incorporated into Mac OS 8.5 and higher (i.e. use the Internet
+Control Panel to change your settings)
+
+ Download 
+File Size: 164 Kb - version 2.0.2
+
+ Download 
+File Size: 164 Kb - version 1.4
+
+ Home Page 
+
+ Mac OS ROM Update 1.0 
+
+Based on customer and developer feedback, Apple has made improvements to its software for the iMac, blue & white Power Macintosh G3 and bronze keyboard PowerBook G3 Series customers. The Mac OS ROM Update 1.0 replaces the Mac OS ROM version 1.4 with version 1.6, which includes the following fixes:
+ Fixed an intermittent issue where after startup the keyboard/mouse does not respond when a mouse is attached to the top USB port and a keyboard attached to the bottom USB port."
+ A possible crash on the PowerBook G3 when removing an attached USB keyboard at the same time as putting the unit to sleep.
+ Hot swapping a media bay device into a bronze keyboard PowerBook G3 would not always recognize the device.
+ Using the Target Disk Mode feature on the bronze keyboard PowerBook G3, a user can only use the SCSI ID setting of 2.
+Before you install your iMac, Power Macintosh G3 or PowerBook G3 must have Mac OS 8.6.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : June 28, 1999
+ Requirements : Mac OS 8.6, iMac, B & W G3 or Bronze PowerBooks
+
+ Download 
+File Size: 2089 Kb
+
+ Parent Directory
+
+ Mac OS 7.6.1 Update 
+
+The Mac OS 7.6.1 Update improves the reliability of Mac OS computers.
+ This update is for the U.S. English version of Mac OS 7.6 only .
+
+ License : Free for those with system 7.6
+ Author/Publisher : Apple
+ Modification Date : April 7, 1997
+ Requirements : Mac OS 7.6 and a 68020 or higher
+
+ Download 
+File Size: 4708 Kb - Net Install - Macbinary file
+
+ Download 
+File Size: 7 Kb - L2 Cache Reset Extension - For 54xx/64xx Macs only - Released April 21, 1997
+
+ Mac OS 8.1 
+
+This software updates Mac OS 8.0 to Mac OS 8.1, which includes bug fixes and
+feature enhancements. For complete information, please see all documentation
+included with this software.
+
+ License : Free update for Mac OS 8 users
+ Author/Publisher : Apple
+ Modification Date : January 19, 1998
+ Requirements : Mac OS 8 - 68040's and PPC Macs
+
+ Download 
+File Size: 15,966 Kb - Macbinary file
+
+ Parent Directory 
+
+ Direct Download 
+File Size: 1193 Kb - Disk Tools for PPC -You may want this to install OS 8.1
+
+ Mac OS 8.5.1 
+
+Some bug fixes for System 8.5.
+
+ License : Free update for Mac OS 8.5 users
+ Author/Publisher : Apple
+ Modification Date : December 7, 1998
+ Requirements : Mac OS 8.5, PPC Macs
+
+ Download 
+File Size: 2999 Kb
+
+ Parent Directory 
+
+ Info 
+
+ Mac OS 8.6 
+
+This software updates Mac OS 8.5 or 8.5.1 to Mac OS 8.6, which includes bug fixes and
+feature enhancements. For complete information, please see all documentation
+included with this software.
+
+ License : Free update for Mac OS 8.5 users
+ Author/Publisher : Apple
+ Modification Date : May 10, 1999
+ Requirements : Mac OS 8.5, PPC Macs
+
+ Download 
+File Size: 35,427 Kb
+
+ Mac OS 9.0.4 
+
+Mac OS 9.0.4 Update provides additional FireWire and USB support, enhances networking and power
+management, and improves audio, video and graphics functionality. 
+Note: After successfully installing Mac OS 9.0.4, return to the Software Update
+Control Panel and click "Update Now" to find and install additional important
+updates that depend on the presence of Mac OS 9.0.4.
+
+ License : Free update for those with Mac OS 9
+ Author/Publisher : Apple
+ Modification Date : April 4, 2000
+ Requirements : Mac OS 9, Mac OS 9.0.2, or Mac OS 9.0.3 and a G3 or higher
+
+ Download 
+File Size: 12,578 Kb - English North American
+
+ Download Page 
+
+ Mac OS 9.1 
+
+Mac OS 9.1 Update is designed to support today's Mac OS 9 customers and ease the
+transition for tomorrow's Mac OS X customers. The Mac OS 9.1 update delivers
+additional support for Multiple Users and iTools services, and Sherlock 2 has a
+new channel, Entertainment, making it easy to find movie reviews or your
+favorite song.
+
+ License : Free update for Mac OS 9 users
+ Author/Publisher : Apple
+ Modification Date : January 9, 2001
+ Requirements : Mac OS 9.0 or higher and a G3 or higher
+
+ Download 
+File Size: 71.2 MB
+
+ Download Page 
+
+ Mac OS 9.2.1 
+
+Mac OS X includes a copy of Mac OS 9.1 so you can use your Classic Mac OS 9 applications natively in Mac OS 9.1 or in the Classic compatibility environment in Mac OS X. To use a Classic application, just double-click it. The Classic environment starts automatically.
+
+Be sure to update your installation to Mac OS 9.2.1 for improved Classic application compatibility.
+
+Mac OS 9.2 supports Mac OS X compatible computers
+You can install this version of Mac OS 9.2 on any of the following computers: Power Mac G4, Power Macintosh G3, PowerBook G4, PowerBook G3 (except the original PowerBook G3), iMac, and iBook.
+
+ License : Free update
+ Author/Publisher : Apple
+ Modification Date : August 21, 2001
+ Requirements : G3 or G4, Mac OS 9.1 or higher and a G3 or higher
+
+ Download 
+File Size: 82 MB
+
+ Download Page 
+
+ Mac OS 9.2.2 
+
+The Mac OS 9.2.2 Update improves Classic application compatibility in Mac OS X and delivers updated support for Macintosh systems that are based on the PowerPC G3 or G4 processor.
+
+ License : Free update
+ Author/Publisher : Apple
+ Modification Date : December 5, 2001
+ Requirements : G3 or G4, Mac OS 9.2.1 or higher and a G3 or higher
+
+ Download 
+File Size: 21.3 MB
+
+ Download Page 
+
+ Mac OS Runtime for Java 2.2.5 
+
+MRJ 2.2.5 is an upgrade to MRJ 2.2.4 which addresses several problems
+affecting JAR caching, network behavior and users of 2-byte
+international systems.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : June 1, 2001
+ Requirements : PPC, Mac OS 8.1 or better 
+MRJ 1.5.1 works on 68030, 68040 or PowerPC microprocessors. You need System 7.5 or later 
+
+ Download 
+File Size: 5290 Kb - MRJ 2.2.5
+
+ Download 
+File Size: 3691 Kb - MRJ 1.5.1 - Released November 4, 1997
+
+ Parent Directory 
+
+ Download Page 
+
+ Home Page 
+
+ MacPPP 2.0.1 
+
+Version 2.0.1 Works with MacTCP even on 68000 macs.
+
+ License : Freeware
+ Author/Publisher : Merit Network and The Univeristy of Michigan - Now Apple Computer
+ Modification Date : October 28, 1993
+ Requirements : MacPPP 2.0.1 requires MacTCP 1.1 or higher, Macintosh System 6.0.5 or higher
+
+ Download 
+File Size: 56 Kb - version 2.0.1
+
+ Download 
+File Size: 125 Kb - version 2.5 - requires System 7.5 or higher
+
+ Download 
+File Size: 95 Kb - version 2.5.3 - requires System 7.5 or higher
+
+ MacTCP 2.0.6 
+
+MacTCP for your classic Mac.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : November 21, 1994
+ Requirements : System 7.0 or higher
+
+ Direct Download 
+File Size: 1.9 MB - MacTCP 2.0.6
+
+ Download 
+File Size: 61 Kb - MacTCP 2.0.4 to 2.0.6 updater
+
+ OpenDoc 1.2.1 
+
+Apple's component architecture. 
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : September 12, 1997
+ Requirements : 68030 or better - 1.2.1 Requires Mac OS 8
+
+ Download 
+File Size: 1207 Kb - OpenDoc 1.2 - File 1 of 3 - Released March 26, 1997
+
+ Download 
+File Size: 990 Kb - OpenDoc 1.2 - File 2 of 3 - Released March 26, 1997
+
+ Download 
+File Size: 822 Kb - OpenDoc 1.2 - File 3 of 3 - Released March 26, 1997
+
+ Download 
+File Size: 3324 Kb - OpenDoc 1.2.1 - This version requires Mac OS 8 - Released September 12, 1997
+
+ OpenGL 1.2.1 
+
+OpenGL for Macintosh enables your computer to display three-dimensional graphics using applications designed to take advantage of OpenGL.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : January 9, 2001 
+ Requirements : PPC, Mac OS 8.1 or higher, 32 mb of RAM
+
+ Download 
+File Size: 4101 Kb - version 1.2.1 - released January 9, 2001
+
+ Parent Directory 
+
+ Open Transport 1.1.2 
+
+Open Transport is the modern networking architecture for Mac OS. It
+includes built-in high-performance AppleTalk and TCP/IP protocols
+stacks, and support for third party protocol stacks.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : December 13, 1996
+ Requirements : 68030 or better, System 7.5.3, 7.5.5 or 7.1, 7.1.1 and 7.1.2 (not 7.5, 7.5.1 or 7.5.2) 
+
+ Download 
+File Size: 7344 Kb - version 1.1.2
+
+ Home Page 
+
+ Open Transport/PPP 1.0 
+
+The first Open Transport native PPP. Note: Mac OS 8 and higher come with OT/PPP 1.0.1 or better.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : November 11, 1996
+ Requirements : 68030 or better, System 7.5.3, 7.5.5 or 7.1, 7.1.1 and 7.1.2
+
+ Download 
+File Size: 1512 Kb
+
+ Parent Directory 
+
+ PlainTalk 1.5.4 
+
+Text to speech and speech recognition.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : May 10, 1999
+ Requirements : Version 1.5.4 requires Mac OS 8.5 or 8.6
+
+ Download 
+File Size: 1741 Kb - English Speech Recognition - Mac OS 8.5 or 8.6 only - Version 1.5.4
+
+ Apple's Speech Directory
+
+ Home Page 
+
+ PowerBook Firmware Update 4.2.9 
+
+The PowerBook Firmware Update 4.2.9 will only run on 550MHz or 667MHz
+PowerBook G4 computers running Mac OS 9.1 or later from a local drive. 
+If you are using Mac OS X you must boot from a local Mac OS 9.1
+writeable partition (not a CD, or network disk) prior to following the
+update instructions.
+
+Firmware Update 4.2.9 includes improvements to Firewire target disk mode
+when running Mac OS X, and improves starting up on systems with
+1gigabyte (GB) RAM and enables Netbooting over gigabit Ethernet.
+
+ License : Free update
+ Author/Publisher : Apple
+ Modification Date : December 18, 2001
+ Requirements : 550MHz or 667MHz PowerBook G4 computers running Mac OS 9.1 or later
+
+ Download 
+File Size: 1.2 MB
+
+ Parent Directory 
+
+ QuickTime 6.0.3 
+
+Apple's multimedia architecture.
+
+ License : Freeware - Pro Version $30
+ Author/Publisher : Apple
+ Modification Date : April 25, 2003
+ Requirements : Mac OS 8.6 to 9.2.2
+
+ Download 
+File Size: 10.2 MB - version 6.0.3 For Mac OS 8.6 to 9.2.2
+
+ Quicktime 5.0.5 Download 
+File Size: 9.5 MB - version 5.0.5 For Mac OS 7.5.5 or higher
+
+ Quicktime 4.0.3 Download 
+File Size: 8621 Kb - version 4.0.3 For Mac OS 7.1 to 8.1
+
+ Direct Download - Quicktime 2.5 
+File Size: 2.0 MB - Released July 24, 1996
+
+ Direct Download - Quicktime 2.1 
+File Size: 1.1 MB - Requires a a color Macintosh computer running System 6.0.7 or later
+
+ Home Page 
+
+ System 7.0.1 
+
+The following files are self-extracting archives of Dual Density disk images. To use, download, decompress, and use DiskCopy or ShrinkWrap to create 8 disks.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : 1991
+ Requirements : 68000 or better
+
+ Parent Directory 
+
+ System Update 3.0 
+
+System Update 3.0 is a set of software enhancements that improves the
+performance and reliability of Macintosh computers running system software
+version 7.1, 7.1.1 (System 7 Pro), or 7.1.2 (for Power Macintosh).
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : 1994
+ Requirements : 68000 or better and System 7.1, 7.1.1 (System 7 Pro), or 7.1.2
+
+ Parent Directory 
+
+ System 7.5.3 
+
+This is the entire System 7.5.3, not just an update. This is the North American English version of System 7.5 version
+7.5.3, which includes the following system updates: System 7.5 Update
+2.0 and System 7.5.3 Revision 2.
+
+ License : Free
+ Author/Publisher : Apple
+ Release Date : Available for free as of 1/30/99
+ Requirements : System 7.5.3 requires an Apple Macintosh or PowerBook computer with at
+least 4MB of RAM. Note: newer Macintosh and PowerBook computers
+require versions of System software higher than version 7.5.3 in order
+to operate.
+
+ Parent Directory 
+Download all 19 parts
+
+ System 7.5 Update 2.0 
+
+Update your system from 7.5, 7.5.1, or 7.5.2 to 7.5.3. You can also order System 7.5 Update 2.0 on a CD or a high
+density floppy disk set for $13 shipping/handling plus tax from the Apple Order Center
+by calling 1-800-293-6617, extension 984.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : March 11, 1996
+ Requirements : System 7.5, 7.5.1 or 7.5.2
+
+ Download 
+File Size: 15,566 Kb
+
+ Parent Directory
+
+ System 7.5.5 Update 
+
+In order to install the update, you must have System 7.5.3.
+System 7.5.5 Update cannot be installed on earlier
+versions of System 7.5.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : September 18, 1996
+ Requirements : System 7.5.3 or 7.5.3 Revision 2 - System 7.5.5 works fine on all Macs, even those with 68000 processors 7.5.5 may be a little RAM hungry for a 68000 so you may want to try system 7.0.1
+
+ Download 
+File Size: 3123 Kb
+
+ Parent Directory 
+
+ Direct Download 
+File Size: 26 Kb - PowerPC Interupt Extension - Apple recommends installing the PowerPC Interrupt Extension for all customers who have installed System 7.5.5 Update on a desktop 
+Power Macintosh, PowerPC-based Performa, Mac OS-compatible, or on a desktop computer with a PowerPC upgrade card.
+
+ Sound Manager 3.2 
+
+Available since the introduction of the Macintosh 
+II in 1987, the Sound Manager is Apple's digital 
+audio software solution that allows any application 
+to play and record sounds using the built-in sound 
+hardware found on Macintosh computers. Sound Manager 
+3.0, released in 1993, added support for 16-bit 
+CD-quality audio, redirection of sound to third-party 
+hardware cards, and plug-in audio compression/
+decompression software (codecs).
+
+Sound Manager 3.1 added two new audio codecs, 
+significant performance increases on the Power 
+Macintosh line of computers, and asynchronous 
+alert sounds. It is completely backwards compatible 
+with previous versions of the Sound Manager.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : March 4, 1996
+ Requirements : System 7.5.3 and lower
+
+ Download 
+File Size: 293 Kb
+
+ Parent Directory 
+
+ Thread Manager 2.0.1 
+
+The Thread Manager is an operating system enhancement which allows
+applications, which have been written to take advantage of the Thread
+Manager, to perform multithreading. Multithreading allows an
+application process to be broken into simple subprocesses that proceed
+concurrently in the same overall application context.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : June 1, 1994
+ Requirements : System 7.0 to 7.1.3 only
+
+ Download 
+File Size: 3.7 MB
+
+ Parent Directory 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

@@ -1,0 +1,30 @@
+
+1st Round     2nd Round     3rd Round     Finals       NBA Champions
+1. Atl 3  _              
+8. Mia 2   |_ 1. Atl 2  _
+            _ 5. Ind 4   |
+4. Orl 0  _|             | 
+5. Ind 3                 |_ 5. Ind 3  _
+                          _ 2. NY  4   |
+                         |             | 
+2. NY  3  _              |             |  
+7. NJ  1   |_ 2. NY  4  _|             |
+            _ 3. Chi 3                 |   
+3. Chi 3  _|                           |     
+6. Cle 0                               |_ 2. NY  3  __ Houston Rockets
+                                        _ 2. Hou 4
+                                       |
+1. Sea 2  _                            |
+8. Den 3   |_ 8. Den 3  _              |         
+            _ 5. Uta 4   |             |      
+4. SA  1  _|             |             |        
+5. Uta 3                 |_ 5. Uta 1  _|
+                          _ 2. Hou 4        
+                         |                 
+2. Hou 3  _              |                   
+7. Por 1   |_ 2. Hou 4  _|          
+            _ 3. Pho 3 
+3. Pho 3  _|                       
+6. GS  0
+
+

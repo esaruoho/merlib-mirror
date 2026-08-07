@@ -1,0 +1,590 @@
+Pure Mac: Launchers 
+
+ Launchers 
+
+ A-Dock 
+ Action Menus 
+ Alias Menu 
+ AllTogetherNow 
+ Apollo 
+ Cron 
+
+ CronniX 
+ CronoTask 
+ ColorSwitch Pro 
+ DaemonCron Lite 
+ Dialog and Task Timer 
+ DragStrip 
+ DragThing 
+
+ Drop Drawers 
+ FavorStrip 
+ FinderPop 
+ GoMac 
+ HoverBar 
+ KeyboardLauncher 
+
+ Launch Key 
+ MacAT 
+ MonkeyBar 
+ MonkeyChain 
+ QuickStart 
+
+ StripLaunch 
+ TaskMenuBar 
+ The Tilery 
+ T-Minus Ten 
+ UltraLaunch 
+ X-Launch 
+
+ A-Dock 2.5 
+
+A-Dock is a bit like Mac OS X's dock. It acts as an application switcher and an application launcher.
+
+ License : Shareware, $7
+ Author/Publisher : Jerome Foucher
+ Modification Date : October 2, 2001
+ Requirements : PPC, Mac OS 8.5 or higher
+
+ Direct Download
+ File Size: 277 Kb
+
+ Home Page 
+
+ Action Menus 1.0 
+
+ACTION Menus is the most powerful and indispensable menu utility you'll ever use. Whether you
+want to customize your Apple and Application menus, or create new menus within applications and in the
+Finder, or just use its preconfigured setup, ACTION Menus gives your Mac high octane power. Create
+keyboard shortcuts on the fly, and drag and drop to all your new menus! Do it fast and easy, the Macintosh
+way! If you remember how useful our original award-winning Now Menus was you'll know why
+ACTION Menus is a "must have utility".
+
+ License : Demo, $29.95
+ Author/Publisher : PowerOn Software
+ Modification Date : October 15, 1999
+ Requirements : 680x0 or PPC - Not compatible with Mac OS 9.0.4
+
+ Direct Download
+ File Size: 2289 Kb
+
+ Home Page 
+
+ Alias Menu 2.2 
+
+AliasMenu is a control panel that adds customized menus to the menu bar.
+These menus work like the Apple menu: Each menu has a corresponding folder
+and the menu automatically reflects the folder's content. New version supported by BeHierarchic 4.
+
+ License : Shareware, $25
+ Author/Publisher : Benoit Widemann 
+ Modification Date : November 12, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 276 Kb
+
+ Home Page 
+
+ AllTogetherNow 1.0 
+
+AllTogetherNow is a simple, powerful, and effective tool for Macintosh users who
+wish to be more productive. It allows for easy customization of launch
+packages... Bundle applications and files that can all be launched at one click
+of the mouse!Many Mac users launch the same applications at the same times...
+When you start up your Mac, you launch your web browser, email application, and
+maybe even your To-Do list. Or maybe you run PhotoShop, Illustrator, and open web
+pages for editing at the same time. Why launch all of those separately? Don't
+know AppleScript? Even if you do, the solution can be slower, not to mention
+difficult for direct-to-file access. Want a way to easily create and edit these
+launch packages? AllTogetherNow is for you! AllTogetherNow is an all-purpose
+solution to launching multiple applications and files simultaneously. It's simple
+to use, effective, and widely compatible. All you need is your Macintosh. No
+extensions. No resource hogs. No hassles. And the possibilities and uses are
+endless.
+
+ License : Shareware, $8.99
+ Author/Publisher : Shay Fulton
+ Modification Date : November 9, 1999
+ Requirements : PPC, Mac OS 8.5 or better
+
+ Direct Download
+ File Size: 1035 Kb
+
+ Home Page 
+
+ Apollo 2.3 
+
+Apollo is a program which makes it easier for you to start up other programs.
+Whatever you are doing on your Mac, you can call up Apollo and ask it to start an
+application or to open a document, control panel, desk accessory or Finder
+folder. There's no need to quit the program you are running, no need to switch to
+the Finder and resize your application's windows because they obscure the
+Finder's icons on the desktop and no need to double-click your way through
+several folders until you can see the program's icon. Just click the mouse and
+make a choice from the menu and Apollo does the rest.
+
+ License : Shareware, $30
+ Author/Publisher : Jeremy Rousak 
+ Modification Date : July 8, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1227 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ ColorSwitch Pro 1.2.2 
+
+ColorSwitch Pro takes the cue from Apple's vaunted Control Strip, adds many sorely-missed features to the mix, and
+packages it all up in a tidy, convenient pull-down menu that's always available when you need it.
+ColorSwitch Pro allows you to master your Macintosh with a set of convenient controls for adjusting things such as PPP
+dial-up connections, network settings, speaker volume, monitor resolution and color depth, audio CDs, and more.
+
+ License : Shareware, $20
+ Author/Publisher : Ambrosia
+ Modification Date : November 20, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 935 Kb
+
+ Home Page 
+
+ Cron 1.0a7 
+
+Cron is a program that launches other programs (including AppleScript
+applets) at preset times. This scheduling of program launches can be as
+simple as "run this program every hour" or "run this program at noon
+every day," or as sophisticated as "run this program every third minute
+during the four o'clock hour on the first Monday of every month." It is
+based directly on the cron daemon in the BSD Unix operating system
+(there is no common code at any level, however).
+
+ License : Shareware, $10
+ Author/Publisher : Chris W. Johnson 
+ Release Date : May 26, 1996
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 440 Kb - Fat version
+
+ Parent Directory
+
+ Home Page 
+
+ CronniX 1.4.1 
+
+CronniX is a Aqua frontend to the powerful Unix tool "cron". Cron is a Unix
+system service that allows scheduled execution of scripts, programs,
+applications - in short anything that can be started from the command line. This
+includes OSX applications and AppleScripts.
+
+ License : Freeware
+ Author/Publisher : Koch und Schmidt Systemtechnik
+ Release Date : September 9, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 316 Kb
+
+ Home Page 
+
+ CronoTask 1.1.0 
+
+This program allows you to specify an unlimited number of programs to launch
+when your Mac is unattended, with a very quick and easy to use interface.
+All the tasks to launch are listed in a table. With a double click on a row,
+you can define in detail how many times and when to launch the referred
+task (program, document, applet).
+Using Crono Task you can assign the tasks your Mac can perform for a whole
+year. Pefect for servers.
+
+ License : Shareware, $29
+ Author/Publisher : Roberto Panetta /Tension Software
+ Modification Date : April 20, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 298 Kb - 68k version
+
+ Direct Download
+ File Size: 306 Kb - PPC version
+
+ Parent Directory
+
+ Home Page 
+
+ DaemonCron Lite 1.0.2 
+
+This small daemon plays sounds, posts messages to the screen, and will launch applications (including AppleScript applets) on any schedule you set.
+Possible uses include screaming clocks, counted quarter-hour chimes (e.g., three backward bongs at :15 after, one backward bong at :45 after),
+nagging yourself (via AppleScripts), launching Netscape at 3 A.M. to drive your cat nuts, whining soulfully when someone else is using your
+computer, turning your house lights on or off (requires wiring and additional stuff not provided), doing things at startup or shutdown, listening to your ex's
+dead dog bark every now and then, and so forth. Hey, it's daemonic! Use your imagination! 
+
+ License : Freeware for Private use
+ Author/Publisher : Xochitl Sodality Daemon Works
+ Release Date : October 29, 1998
+ Requirements : 680x0 or PPC, 7.5.5 or better (8.5 recommended)
+
+ Direct Download
+ File Size: 36 Kb
+
+ Home Page 
+
+ Dialog and Task Timer 1.0 
+
+DT Timer is a small utility that allows you to automatically open documents, launch or quit applications
+at specified moments. It can also automatically close dialog boxes that may remain on your screen when
+it is not appropriated. The two features may be used together or independantly.
+
+ License : Shareware, $10
+ Author/Publisher : Jerome Genest & Frederic Bourget/ Daffy Software 
+ Modification Date : November 30, 1997
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 454 Kb
+
+ Parent Directory
+
+ DragStrip 3.7.1 
+
+DragStrip, the Ultimate Desktop Organizer, allows
+you to launch, find, organize, and access
+applications and documents quickly and efficiently.
+Say goodbye to cluttered desktops and digging
+through browser windows to find what you are looking for.
+
+ License : Shareware, $20
+ Author/Publisher : Aladdin
+ Modification Date : May 17, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 961 Kb
+
+ Home Page 
+
+ DragThing 4.2 
+
+DragThing is an application dock designed to tidy up the icons littering your desktop.
+Simply drag an application from the Finder onto an empty square in a dock and then drag
+documents onto it as normal. Double-click a docked application to launch it or bring it
+to the front. In addition, the docks can contain files, folders, disks and servers, and
+there is also an option to display the currently running processes in a special dock.
+
+ License : Shareware, $15
+ Author/Publisher : James Thomson
+ Modification Date : October 25, 2001
+ Requirements : 680x0 or PPC or Mac OS X
+
+ Direct Download
+ File Size: 1292 Kb - version 4.2
+
+ Direct Download
+ File Size: 2236 Kb - version 2.9 - released June 23, 2000
+
+ Home Page 
+
+ Drop Drawers 1.5.7 
+
+Drop Drawers is a revolutionary user-interface enhancement which provides floating pull-out, snap-shut drawers on the
+sides of your screen to store text, URLs, aliases, pictures, sounds, movies and anything else.
+
+ License : Shareware, $15
+ Author/Publisher : Sig Software
+ Modification Date : July 19, 2001
+ Requirements : 680x0 or PPC and Mac OS X
+
+ Direct Download
+ File Size: 885 Kb - 680x0 or PPC version
+
+ Direct Download
+ File Size: 390 Kb - Mac OS X version
+
+ Home Page 
+
+ FavorStrip 2.6 
+
+FavorStrip is a Control Strip Module to launch application files, other files,
+folders, disks and servers, and Internet URLs stored in the Favorites folder.
+
+ License : Shareware, $10
+ Author/Publisher : kykz's Software 
+ Modification Date : August 27, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 48 Kb 
+
+ Home Page 
+
+ FinderPop 1.8.9 
+
+FinderPop is a Control Panel which improves and extends the Mac OS 8 Finder's
+Contextual Menus (PPC only at the moment, sorry.) It now makes it unnecessary to hit the control key to bring
+up the contextual menu. It adds various submenus to the Finder's
+contextual menus, including a Processes submenu, a Finder Windows submenu, a Contents
+submenu (allowing you to see the contents of a folder you've selected in the Finder), and of course
+the eponymous FinderPop submenu, which displays everything inside a special "FinderPop Items
+folder" (much like the Apple Menu displays everything inside the "Apple Menu Items" folder.) You
+can put aliases to apps, servers, folders, documents, etc., into the "FinderPop Items Folder", and
+they're instantly available for the price of a control-click in the Finder!
+
+ License : Freeware
+ Author/Publisher : Turlough O'Connor 
+ Modification Date : June 13, 2000
+ Requirements : PPC, Mac OS 8 or better
+
+ Direct Download
+ File Size: 390 Kb
+
+ Home Page 
+
+ GoMac 2.1.1 
+
+GoMac is basically a Mac OS implementation of the task bar and start menu found on
+another platform. No names are being mentioned. You can directly access your open
+programs with a single click in the Program Bar. Also, you can launch programs and
+access settings from the Start Menu.
+
+ License : Shareware, $29.95
+ Author/Publisher : Sam Caughron /Action Utilities
+ Modification Date : August 28, 2001
+ Requirements : PPC
+
+ Direct Download
+ File Size: 1481 Kb
+
+ Home Page 
+
+ HoverBar 1.3.1 
+
+A utility which keeps icons and clipboard data at your fingertips by storing them
+on bars which float over everything, no matter what program you are using. 
+
+ License : Shareware, $5
+ Author/Publisher : Guy Fullerton
+ Modification Date : June 20, 1997
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 217 Kb
+
+ Home Page 
+
+ KeyboardLauncher 6.0 
+
+Create your own shortcut keys using a few simple steps to launch applications, documents and folders. The 6.0 version includes a menubar feature not in
+the earlier version.
+
+ License : Shareware, $10
+ Author/Publisher : Satoshi Hasumi
+ Modification Date : June 11, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1362 Kb - 68k version 6.0
+
+ Direct Download
+ File Size: 1393 Kb - PPC version 6.0
+
+ Direct Download
+ File Size: 731 Kb - 68k version 5.4.1
+
+ Direct Download
+ File Size: 766 Kb - PPC version 5.4.1
+
+ Home Page 
+
+ Launch Key 4.0.1 
+
+Launch Key allows you to assign an unlimited number of Finder objects--applications, scripts, etc.--to a hot key of your choice. This is
+incredibly useful: imagine hitting one key, and having all the folders for your current project quickly open up, then the applications for
+your project, then the documents, and finally the server that you are using as scratch space. Further, Launch Key allows you to create
+an unlimited number of these sets of Finder objects.
+
+ License : Shareware, $10
+ Author/Publisher : TriVectus
+ Modification Date : October 24, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1576 Kb
+
+ Home Page 
+
+ MacAT 5.4 
+
+MacAT is a Windows AT/UNIX cron-like task scheduling application for Macintosh server administrators. It is a fat
+binary application that allows 14 of the most common MacOS tasks to be run daily, weekly, monthly or yearly without
+user intervention.
+
+ License : Shareware, $39
+ Author/Publisher : MacSOS 
+ Modification Date : September 27, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1372 Kb
+
+ Home Page 
+
+ MonkeyBar 1.4 
+
+MonkeyBar (formerly iBar) is an internet-savvy launcher that provides quick access to applications,
+documents, favorites, bookmarks and music. Additionally, iBar can check for
+waiting e-mail and provide a single unified bookmarks menu for all the web
+browsers installed on your system.
+
+ License : Shareware, $15
+ Author/Publisher : MojoMonkey
+ Modification Date : April 4, 2001
+ Requirements : PPC, Mac OS 8.5 or higher
+
+ Direct Download
+ File Size: 1136 Kb
+
+ Home Page 
+
+ MonkeyChain 1.0.2 
+
+This versatile utility stores items (files, folders, application icons, etc.) that users can launch or open with a single mouse click.
+But the feature that sets MonKeyChain apart from other launcher palettes is its ability to store and send usernames and passwords
+automatically, such as those required to mount volumes on a network and even those for URLs and FTP
+sites that require passwords.
+
+ License : Freeware
+ Author/Publisher : Darryl Payne
+ Modification Date : April 4, 1997
+ Requirements : 68020 or higher
+
+ Direct Download
+ File Size: 394 Kb
+
+ Home Page 
+
+ QuickStart 1.4.1 
+
+QuickStart is a system extension that lets you open applications, documents or folders through keyboard shortcuts. These keyboard shortcuts are available throughout all the applications you use. Because you can add all kinds of items, you can assign shortcuts to run automated applescript tasks, open websites or write e-mails to specific addresses, etc.
+The package also includes a control strip module, that gives access to a menu with all items setup in the control panel. This menu allows you to open all these items as well.
+
+ License : Shareware, $15
+ Author/Publisher : Berrie Kremers
+ Modification Date : May 22, 2000
+ Requirements : 680x0 or PPC, Mac OS 7.6 or higher
+
+ Direct Download
+ File Size: 1004 Kb
+
+ Home Page 
+
+ StripLaunch 1.4 
+
+StripLaunch is a Control Strip Module which gives you instant access to
+your most commonly used applications, documents, folders, scripts and
+almost anything else; all through a handy little menu in the Control
+Strip. Adding or removing items is done in a matter of seconds and you
+can also use color to categorize or mark items that you wish to stand
+out.
+
+ License : Shareware, $10
+ Author/Publisher : Tobias Peciva 
+ Modification Date : November 22, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 107 Kb
+
+ Home Page 
+
+ TaskMenuBar 2.4 
+
+TaskMenuBar is a control panel that uses the empty space on the menu bar to switch and launch applications, and drag and drop files on applications. Because it only uses the menu bar, unlike other utilities, it will never obscure or be obscured by other windows.
+
+ License : Shareware, $15
+ Author/Publisher : Hugh Kawahara 
+ Modification Date : April 14, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 145 Kb
+
+ Home Page 
+
+ The Tilery 4.1 
+
+The Tilery places a tile on your screen for each open application;
+clicking a tile brings its application to the front. In addition you can create
+tiles that will launch applications and open documents, folders, control
+panels, and more.
+
+ License : Shareware, $15
+ Author/Publisher : Rick Holzgrafe 
+ Modification Date : July 19, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 455 Kb
+
+ Home Page 
+
+ T-Minus Ten 2.2 
+
+T-Minus Ten will launch your computer into new realms of automation. Configure hot keys and hot spots
+to drive applications, scripts and documents with ease. Its most powerful resource is a convenient
+timer function which provides an off-hours auto-pilot for your Macintosh, sets handy reminders, runs
+back-up scripts, or creates customizable sets of file launches. Combined with AppleScript, you can
+use T-Minus Ten to control every detail of your computing day, launching anything double-clickable
+and fine tuning that golf game while your Macintosh flies its own missions.
+
+ License : Shareware, $10
+ Author/Publisher : MK Software 
+ Modification Date : December 29, 1999
+ Requirements : PPC - Mac OS 8.1 or 8.5 or 7.5 and up with the Appearance Manager
+
+ Direct Download
+ File Size: 517 Kb
+
+ Home Page 
+
+ UltraLaunch 1.0 
+
+UltraLaunch allows you to schedule times and assign hot keys to launch any application or open any document or desk accessory, thereby giving them
+one-touch (or even no-touch) access. Creating hot keys for your most common tools and utilities can provide both freedom and responsiveness -- you don't
+even need to switch to the Finder to launch an application or load a document. UltraLaunch can automatically fire up all the applications and documents that
+make up your regular work environment, all before you sit down with that first cup of coffee each morning. UltraLaunch even supports repeating weekly
+schedules.
+
+ License : Freeware
+ Author/Publisher : Randy Brandt and Ross W. Lambert
+ Modification Date : July 31, 1997
+ Requirements : 680x0 or PPC - works quite well with Mac OS 8.5
+
+ Direct Download
+ File Size: 212 Kb
+
+ Parent Directory
+
+ X-Launch 2.0 
+
+X-Launch is a small launcher intended to be a replacement for Apple's Launcher. It is designed to work in much the same way as Launcher and offers
+similar functionality, while at the same time occupying a smaller footprint and offering some customization features that hopefully make it more
+aesthetically pleasing. In addition, it features extra conveniences such as allowing the user to reorder buttons and category icons, to navigate folder
+contents via contextual menu, and to bring the launch window to the front via a hot corner.
+
+ License : Freeware
+ Author/Publisher : David Yeh
+ Modification Date : April 28, 2000
+ Requirements : PPC - Mac OS 8.0 or higher
+
+ Direct Download
+ File Size: 215 Kb
+
+ Home Page 
+
+ Back to the main page of Pure Mac

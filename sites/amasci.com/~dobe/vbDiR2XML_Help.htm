@@ -1,0 +1,2058 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+                      "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- New format for Dobe's Punny Name Archive on 12-24-2001 -->
+<!-- Hand-written XHTML, XML, XSLT, CSS and JS suite -->
+	 <!-- filename: vbDiR2XML_Help.htm -->
+<!-- 
+		Dobe Doinat's Punny Name Archive
+		MegaloMedia Copyright January 21, 2002
+		John W. Hartman (Dobe Doinat)
+		http://www.eskimo.com/~dobe/
+		mailto://dobe@eskimo.com
+		IDE of choice: XMLWriter, Wattle Software
+		ISP of choice: eskimo.com, Bob is Everywhere! 
+-->
+			
+<html xmlns="http://www.w3.org/1999/xhtml">
+	 <head>
+	  <title >Dobe Doinat's Punny Name Archive: vbDiR2XML Help</title>
+	  <meta name="Keywords" content="XHTML,CSS,XML,XSL,XSLT,DOS,Dir,Directory,JavaScript,tutorial,authoring,programming,learning,reference,examples,samples,source code,demos,tips,links,FAQ,forms,frames,XHTMLGuide" />
+	  <meta name="Description" content="Dobe Doinat's Punny Name Archive displayed as Example Data Access Using Markup Languages in a Networked Environment targeted for MSIE5+" />
+	  <meta http-equiv="Content-Type" content="text/html" />
+	<!--*/  /*  --> 
+							<!--  *********Insert call to external CSS file here********* -->
+	<link rel="stylesheet" href="dobeDefaultEN.css" />
+	
+	 </head>
+
+<body>
+
+							<!-- *****Setting up a named anchor to start of document**** -->
+   <div id="PNA_vbDiR2XML_Help_Start"></div>
+							<!--  *********Insert call to external JS file here********* -->
+	<script type="text/javascript" src="write_MenuLinks_EN.js"></script>
+ 	<table border="0" id="VBDownloads_vbDiR2XML">
+ 	 <tr>
+	    <td>
+
+ 	<table border="0"><tr>
+	    <td class="specialBROWN200" width="100%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='210%';" onMouseout="this.style.color='brown'; this.style.fontSize='190%';">
+       	        
+	         <b>vbDiR2XML</b> Directory-to-XML/XSLT <b>Help File</b>
+	        
+	    </td>
+	</tr></table>
+	    </td>
+	 </tr>
+	</table>
+<br />
+<span class="Green90cursive">
+		    	<!-- Links! -->
+   <table border="0" width="100%">
+	<tr>
+		    	<!-- begin first column -->
+	 <td valign="top" width="50%">
+	 <ul>
+	    <li><a href="#PNA_vbDiR2XML_Help_Introduction">Introduction</a></li>
+	    <li><a href="#PNA_vbDiR2XML_Help_UserExperience">User Experience</a> (Screenshots)</li>
+	    <li><a href="#PNA_vbDiR2XML_Help_CoderExperience">Programming in Visual Basic</a> (Screenshots)</li>
+			 <ul>
+			    <li><a href="#vbDiR2XML_DL">vbDiR2XML.ZIP files</a> (Downloads)</li>
+			    <li><a href="#PNA_vbDiR2XML_Help_Bugs">Known Bugs</a></li>
+			    <li><a href="#PNA_vbDiR2XML_Help_Improvements">Improvements</a> (Wish List)</li>
+			 </ul>
+	    <li><a href="#PNA_vbDiR2XML_Help_Code_Intro">Source Code Introduction</a></li>
+		 <ul>
+		    <li><a href="#PNA_vbDiR2XML_Help_GlobalVariables">Global Variables</a></li>
+		    <li><a href="#PNA_vbDiR2XML_Help_Form_Load">Form_Load</a> (<b>frmDobeXMLPad</b>)</li>
+		    <li><a href="#PNA_vbDiR2XML_Help_Code_Controls">Controls</a></li>
+				 <ul>
+				    <li><a href="#PNA__vbDiR2XML_Help_cboPatterns_Click">cboPatterns</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_dirSelect_Change">dirSelect</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_drvSelect_Change">drvSelect</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_filSelect_Click">filSelect</a></li>
+				 </ul>
+		    <li><a href="#PNA_vbDiR2XML_Help_Code_Events">Events</a></li>
+				 <ul>
+				    <li><a href="#PNA_vbDiR2XML_Help_Timer1_Timer">Timer1</a></li>
+				 </ul>
+		    <li><a href="#PNA_vbDiR2XML_Help_Code_Functions">Subroutines and Functions</a></li>
+				 <ul>
+				    <li><a href="#PNA_vbDiR2XML_Help_RefreshFormValues">RefreshFormValues</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_WriteFileToScreen">WriteFileToScreen</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_WriteXMLtoFile">WriteXMLtoFile</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_WriteXSLTFile">WriteXSLTFile</a></li>
+				 </ul>
+		 </ul>
+	 </ul>
+		    	<!-- end first column -->
+		    	<!-- begin second column -->
+	 <td valign="top" width="50%">
+	 <ul>
+		 <ul>
+		    <li><a href="#PNA_vbDiR2XML_Help_Code_Menu">Menu Items</a></li>
+				 <ul>
+				    <li><a href="#PNA_vbDiR2XML_Help_mnuOLENotePad">mnuOLENotePad</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_mnuFileExit">mnuFileExit</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_mnuEditSelect">mnuEditSelect</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_mnuSortByName">mnuSortByName</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_mnuSortByType">mnuSortByType</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_mnuSortBySize">mnuSortBySize</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_mnuWriteFile">mnuWriteFile</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_mnuViewBrowser">mnuViewBrowser</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_mnuHelpViewCode">mnuHelpViewCode</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_mnuHelpAbout">mnuHelpAbout</a></li>
+				 </ul>
+		    <li><a href="#PNA_vbDiR2XML_Help_Code_Buttons">Buttons</a></li>
+				 <ul>
+				    <li><a href="#PNA_vbDiR2XML_Help_cmdExit">cmdExit</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_cmdView">cmdView</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_cmdWriteFile">cmdWriteFile</a></li>
+				 </ul>
+		    <li><a href="#PNA_vbDiR2XML_Help_Code_TextBox">Text Fields</a></li>
+				 <ul>
+				    <li><a href="#PNA_vbDiR2XML_Help_txtSaveDir_GotFocus">txtSaveDir_GotFocus</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_txtWriteFile_GotFocus">txtWriteFile_GotFocus</a></li>
+				    <li><a href="#PNA_vbDiR2XML_Help_txtWriteFile_LostFocus">txtWriteFile_LostFocus</a></li>
+				 </ul>
+		 </ul>
+		<li><a href="#PNA_vbDiR2XML_Help_frmAboutForm">Help About Form</a> (<b>frmHelpAbout</b>)</li>
+		<li><a href="#PNA_vbDiR2XML_Help_Code_Comments">Dobe's Retrospective</a></li>
+	 </ul>
+	 </td>
+		    	<!-- end second column -->
+	</tr>
+   </table>
+</span>
+ 
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_Introduction ~~~~~~~~~~~~~~~~~~~~~~~ -->
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+	
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_Introduction" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>Introduction</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+ <blockquote>
+	&nbsp;&nbsp;&nbsp;&nbsp;This is the <u>documentation</u> for the <b>Visual Basic 6.0</b> project called 
+	&quot;<b>vbDiR2XML</b>&quot; which was written as <i>Careware</i> by me, 
+	)&quot;<b>Dobe Doinat</b>&quot;, otherwise known as &quot;<b>John W. Hartman</b>&quot;)
+	and is meant to demonstrate how to list the files in a directory,  
+	much as you would from a DOS command line: &quot;DIR&quot;, except that the 
+	result is written to disk as an 
+	<b>XML</b> file, then modified by an <b>XSLT</b> file as it is <b>displayed in a Browser</b> (as long 
+	as the browser is MSIE-compatable).<br /><br />
+	
+	&nbsp;&nbsp;&nbsp;&nbsp;This project is a <b>useful utility</b>, IMHO, in and of itself, but the main 
+	reason it is being published is to <b>share my source code and have others be 
+	able to actually modify and improve on this utility</b>.<br /><br />
+	
+	&nbsp;&nbsp;&nbsp;&nbsp;In the meantime, if you're not interested in how this program works, go back to 
+	my website and <b>download the <u>EXEcutable-only</u> ZIP</b>, copy the resulting files to a directory 
+	and it should run.<br /><br /> 
+	 
+ <blockquote>
+	&nbsp;&nbsp;&nbsp;&nbsp;<u><b>NOTE</b></u>: If you use the application, and can show your appreciation monitarily, it 
+	would be greatly appreciated, as I have been out of work since shortly after 
+	<b>September 11, 2001</b>, the terrorist trauma having it's way with our economy. 
+	My deepest condolences to those who have suffered much greater loss.<br /><br />
+	
+	&nbsp;&nbsp;&nbsp;&nbsp;If this is not possible, by all means use it anyway, and show your appreciation 
+	in whatever way you care to, such as being nice to the wife and kids a few more 
+	minutes a day, or treat your Secretary to lunch, or <b>help find me employment</b>...	
+ </blockquote>
+ 
+</blockquote>
+ 
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_UserExperience ~~~~~~~~~~~~~~~~~~~~~~~ -->
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+	
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_UserExperience" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>User Experience</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+ 
+ 
+ <blockquote>
+		One <a href="#vbDiR2XML_Screenshot">
+		Screenshot
+		</a> shows how  looks when run in Windows, while another  
+		
+		<a href="#vbDiR2XML_IDE_Screenshot">
+		Screenshot
+		</a> shows how it looks in Design Mode of Visual Basic.  
+
+		<a href="#vbDiR2XML_DL">
+		ZIP files</a> also available.<br />
+	<ul>
+		<li><b>Select Drive and Directory</b> to be used as the "Seed" directory (upper left)</li>
+		<li><b>Select location</b> to write the XML and XSLT files ("Save to this Path:")</li>
+		<li><b>Select XML filename</b> ("Use Filename:") </li>
+		<li><b>Select a Filter</b> in the dropdown listbox (All files (*.*) is the default)</li>
+		<li><b>Select a Sort method</b> in the Edit menu &lt;<b>Name | Size | Type</b> (default)&gt;</li>
+		<li>Press "<b>Write Directory to XML</b>" button</li> (shows up in textbox on right)
+		<li>Press "<b>View in Browser</b>" button to view results (MSIE 5 default install location) </li>
+	</ul>
+
+ </blockquote>
+ 
+  <blockquote class="SmallRedItalic">
+			
+The executable <b>vbDiR2XML</b> program looks like this:<br /> <br />
+<IMG alt="Dobe Doinat's XML_Resume_VB Wizard, graphic only. Download the executable or the VB source code to try it yourself!"
+     src="./_dobeTutAllCommon/vbDiR2XML_ frmDobeXMLPad_Screenshot_Executable_DefaultStartup.jpg" 
+     id="vbDiR2XML_Screenshot"/>
+ </blockquote>
+<br />
+	<marquee behavior="alternate" 
+			 loop="infinite"
+			 scrolldelay="300"
+			 class="redScript">
+		<u>NOTE</u>: <b>MSIE 5.0+ </b> <u>must</u> be installed in default location to view <br />
+		<b>XML/XSLT</b> results from the "<b><u>V</u>iew In Browser</b>" button (above).<br />
+	</marquee>
+<br />
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+	
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_CoderExperience ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_CoderExperience" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>Programming in VB 6.0</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+ 
+ <blockquote>
+ 		The <b>vbDiR2XML</b> program may be run within the MS-VB6 Environment 
+ 			<ul>
+ 				<li>
+					<a href="#vbDiR2XML_IDE_Screenshot_closeup">
+					Screenshot
+					</a>, in Design Mode (closeup) 
+ 				</li>
+ 				<li>
+					<a href="#vbDiR2XML_IDE_Screenshot">
+					Screenshot
+					</a>, in Design Mode (large graphic)
+ 				</li>
+ 				<li>
+					<a href="#vbDiR2XML_DL">
+					ZIPs
+					</a> (download files)
+ 				</li>
+ 			</ul>
+		<br />
+ </blockquote>
+ 
+  <blockquote class="SmallRedItalic">
+			
+The <b>vbDiR2XML</b> program within the Microsoft Visual Basic IDE looks like this:<br /> <br />
+<IMG alt="Dobe Doinat's vbDiR2XML, or Directory to XML, graphic only. Download the executable or the VB source code to try it yourself!"
+     src="./_dobeTutAllCommon/vbDiR2XML_ frmDobeXMLPad_Screenshot_VB6IDE_DesignMode.png" 
+     id="vbDiR2XML_IDE_Screenshot" />
+ 
+<br />
+
+Here's a closeup of the form seen in Design Mode above:<br /> <br />
+<IMG alt="Dobe Doinat's vbDiR2XML, or Directory to XML, graphic only. Download the executable or the VB source code to try it yourself!"
+     src="./_dobeTutAllCommon/vbDiR2XML_ frmDobeXMLPad_Screenshot_VB6IDE_Cropped.jpg" 
+     id="vbDiR2XML_IDE_Screenshot_closeup"
+     height="100%"
+     width="100%" />
+ </blockquote>
+ 
+<br />
+ <blockquote>
+	&nbsp;&nbsp;&nbsp;&nbsp;The reason I made the Design mode form distinct from 
+	<a href="#vbDiR2XML_Screenshot">how the form appears on actual startup</a>	
+	, 
+	changing the text of some of the controls before it is shown to the User, is 
+	merely Coder preferance. You can just as easily have the form look much like it does 
+	on startup, and leave out some of the code in the 
+	<a href="#PNA_vbDiR2XML_Help_Form_Load">Form_Load Event</a>.
+ </blockquote>
+ 
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_Bugs ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_Bugs" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>Known Bugs</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+  <blockquote>
+	  &nbsp;&nbsp;&nbsp;&nbsp;<b>Every program ever written has bugs!</b> 
+	  This program is no exception. I will list the ones I know about, together 
+	  with <b>suggestions for improvements</b>. There are always many ways to do things 
+	  to get the same result in programming, some are elegant, some window 
+	  dressing, and some would be nice, but wait for future time and effort to 
+	  go into implementation.<br /><br />
+	  	  &nbsp;&nbsp;&nbsp;&nbsp;<b>I have some questions about certain 
+	  behaviors I have observed which I do not understand</b>, so if someone comes upon 
+	  <b>an answer to one of these</b>, <b>PLEASE let me know</b>!<br />
+	  <ul>
+	  	<li><b>Why</b>, after successfully generating the XML/XSLT file and viewing it in the 
+	  	browser, if you change the filter, but not the seed directory, the save
+	  	directory, or the save filename, and then DON'T press the "View in Browser" 
+	  	button, but rather go <b>back to the open browser window and refresh it</b>, then 
+	  	the filter DOES NOT refresh? <b>I do not know why this is</b>. Close the browser, 
+	  	click on the button again, and a different result is shown in the browser!
+	  	</li>
+	  	<li>I know to truly <b>sort by "size"</b> in the XSLT file, I would have to do some 
+	  	data conversions, because right now, it is sorting as if the value were a string, 
+	  	therefore: 112, 23, 3388, 4... would be a proper sort, but it would be preferable to 
+	  	have the same series sort like: 4, 23, 112, 3388...<b>I do not know how to do this.</b>
+	  	</li>
+	  	<li>Also, when <b>sorting for "name"</b>, the result sort is definitely different than 
+	  	it would appear with no sort, but it is not a recognizable sequence to me. 
+	  	I would like to get some input on other's results and an <b>explanation of 
+	  	why the sort result appears in the order it does</b>.
+	  	</li>
+	  	
+	  </ul>
+	  
+
+  </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+	
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_Improvements ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_Improvements" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>Improvements</b> (Wish List)
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+  <blockquote>
+	  &nbsp;&nbsp;&nbsp;&nbsp;If I ever find the time to improve on this project, 
+	  I would incorporate an <b>external file (.<i>INI</i>} which would store settings for the 
+	  program, then it could modified with a second "User Options" form</b>. The user 
+	  could store more detail about how to write out the XSLT file for instance, 
+	  to make the <b>font</b> different, the <b>table</b> different, the <b>border</b> of the table visible 
+	  or invisible, or <b>other choices</b>. 
+	  I leave much of this for now, to be improved upon and one day updated, on this site.<br />
+	  <br />&nbsp;&nbsp;&nbsp;&nbsp;For instance, rewriting the code: 
+		  <ul>
+			    <li>Using <b>Classes</b> instead of <b>global variables</b>
+			    </li>
+			    <li>Use <b>.INI files</b> for <b>Persistance</b> of <b>User Options</b>
+			    </li>
+			    <li><b>Iteration</b> over all <b>Child SubDirectories</b> (option)
+			    </li>
+			    <li><b>Print</b>
+			    </li>
+			    <li><b>Print Preview</b>
+			    </li>
+			    <li><b>Integrated Help</b>
+			    </li>
+			    <li><b></b>
+			    </li>
+		  </ul>
+	  <b>If you make modifications to it which you would like to share</b>, please send them 
+	  to me, <br /><br />
+	  <center>
+	  <a href='mailto:dobe@eskimo.com'><b>John &quot;Dobe Doinat&quot; Hartman</b></a><br /><br />
+	  </center>
+	  , and (depending on the suggestion or improvement), I will update the 
+	  example on this site and share the credit with contributors, as well as my thanks.<br />
+
+  </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+		
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_Code_Intro ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="vbDiR2XML_DL" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN120" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>vbDiR2XML ZIP Downloads</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+
+<div><br />
+ <blockquote> 
+	...<br />
+<img src="./_dobeTutAllCommon/open.gif" 
+       alt="Browser can't find image?" 
+       title="Explore this link!" 
+       id="_img_openButton" /> 
+	   
+		<a href="">
+		&nbsp;.ZIP download, (with complete VB 6.0 <b>source code</b>)</a>,&nbsp;	   
+	   (<b>SIZE</b>) or <br />
+	   
+<img src="./_dobeTutAllCommon/open.gif" 
+       alt="Browser can't find image?" 
+       title="Explore this link!" 
+       id="_img_openButton" /> 
+	   
+		<a href="">
+		&nbsp;.ZIP download, (<b>Help Files Only</b>)</a>,&nbsp;	   
+	   (<b>SIZE</b>) or <br />
+	   
+<img src="./_dobeTutAllCommon/open.gif" 
+       alt="Browser can't find image?" 
+       title="Explore this link!" 
+       id="_img_openButton" /> 
+	    
+		<a href="">
+		&nbsp;.ZIP download (<b>EXE</b>cutable only, with Readme File)</a>,&nbsp;	   
+	   (<b>SIZE</b>). <br /><br />
+ </blockquote>
+</div>	   
+ 
+  <blockquote>
+	   The XML file, the XSLT file as well as the VB6 source code may be freely modified for learning purposes and 
+	   personal use as <b>Careware</b>. For business use, or resale, reasonable compensation will  
+	   apply.<br />
+ </blockquote>
+	   
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+	
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_Code_Intro ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_Code_Intro" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN120" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>Source Code Introduction</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+
+  <blockquote>
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;Visual Basic Example Project: &lt;b&gt;'vbDiR2XML'&lt;/b&gt;</code><br />
+<code class='comment'> '</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;My project is to create an XML file from the files</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;(User-chosen directory listing), written to</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;User-chosen path and filename. The resulting</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;tree may then be viewed in a browser as XML</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;(using an XSLT stylesheet developed to view</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;results, as yet now implemented!).</code><br />
+<code class='comment'> '</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;Source code for this project is available from this site:</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;Dobe Doinat 's Punny Name Archive</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;MegaloMedia Copyright 2002</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;John W. Hartman (Dobe Doinat)</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;http://www.eskimo.com/~dobe/</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;mailto://dobe@eskimo.com</code><br />
+<code class='comment'> '</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;Project name: vbDiR2XML.vbp</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;Form object name: frmDobeXMLPad</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;File name: frmDobeXMLPad.frm</code><br />
+<code class='comment'> '</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;Last modified: 01-21-2002</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />	
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_GlobalVariables ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_GlobalVariables" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>Global Variables</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+  <blockquote>
+
+		Option Explicit<br />
+		<br />
+		&nbsp;&nbsp;Dim <b>gstrOpenSeedPathOnly</b>  As String<br />
+		&nbsp;&nbsp;Dim <b>gstrCurrentFilter</b>  As String<br />
+		<br />
+		&nbsp;&nbsp;Dim <b>gstrCurrentXML_SaveDirAndFileName</b>  As String<br />
+		&nbsp;&nbsp;Dim <b>gstrCurrentXML_SaveDirOnly</b>  As String<br />
+		&nbsp;&nbsp;Dim <b>gstrCurrentXML_FileNameOnly</b>  As String<br />
+		<br />
+		&nbsp;&nbsp;Dim <b>gstrCurrentXSLT_SaveDirAndFileName</b>  As String<br />
+		&nbsp;&nbsp;Dim <b>gstrCurrentXSLT_SaveDirOnly</b>  As String<br />
+		<code class='comment'> ' XSLT file must have a constant value now...</code><br />
+		<code class='comment'> ' CONSTANT VALUE = "<b>vbDiR2XML_XSL.xsl</b></code><br />
+		&nbsp;&nbsp;Dim <b>gCONSTCurrentXSLT_FileNameOnly</b>  As String
+		<br />
+		&nbsp;&nbsp;Dim <b>gboolSortByNameFlag</b>  As Boolean<br />
+		&nbsp;&nbsp;Dim <b>gboolSortByTypeFlag</b>  As Boolean<br />
+		&nbsp;&nbsp;Dim <b>gboolSortBySizeFlag</b>  As Boolean<br />
+		<br />
+		<code class='comment'> ' Array of '<b>Patterns</b> ' or 'Filters' for the Filter ListBox.</b></code><br />
+		&nbsp;&nbsp;Private <b>Patterns</b> () As String
+		 </blockquote>
+		<br />
+			<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+			<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+		<br />
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_Form_Load ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_Form_Load" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>Form_Load</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+ <blockquote>
+<code class='comment'> ''&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '</code><br />
+<code class='comment'> '' Form_Load() is where it all starts!</code><br />
+<code class='comment'> ''&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '&nbsp;&nbsp; '</code><br />
+<code class='SubFunc'>Private Sub Form_Load()</code><br />
+<code class='comment'> ' Used for filtering extension of files in seed directory</code><br />
+&nbsp;&nbsp;Dim <b>file_pattern</b>  As String<br />
+<br />
+<code class='comment'> ' Initialize default XSLT Flags!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gboolSortByNameFlag</b>  = False<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gboolSortByTypeFlag</b>  = True<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gboolSortBySizeFlag</b>  = False<br />
+<br />
+<code class='comment'> ' Initialize menu items</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>mnuSortByName.Checked</b>  = False<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>mnuSortByType.Checked</b>  = True<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>mnuSortBySize.Checked</b>  = False<br />
+<br />
+<code class='comment'> ' Initialize the Selection controls</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>drvSelect.Drive</b>  = App.Path<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>dirSelect.Path</b>  = App.Path<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>filSelect.Path</b>  = App.Path<br />
+<br />
+<code class='comment'> ' Default on startup only! May change dir, don't change filename!</code><br />
+<code class='comment'> ' The reason for this is that (until future improvement of this application),</code><br /> 
+<code class='comment'> ' the XSLT file written to disk makes no allowances for relative paths.</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gCONSTCurrentXSLT_FileNameOnly</b>  = "<b>vbDiR2XML_XSL.xsl</b> "<br /><br />
+<code class='comment'> ' App.Path returns the current node (directory) without the "\"</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gstrCurrentXSLT_SaveDirAndFileName</b>  = App.Path &amp; "\" &amp; _ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gCONSTCurrentXSLT_FileNameOnly</b> <br /><br />
+<code class='comment'> ' <b>gstrCurrentXSLT_SaveDirOnly</b> = gstrCurrentXML_SaveDirOnly </code><br />
+<code class='comment'> ' <b>gstrCurrentXSLT_SaveDirAndFileName</b>  = gstrCurrentXSLT_SaveDirOnly  &amp; gCONSTCurrentXSLT_FileNameOnly </code><br />
+<br />
+<code class='comment'> ' Initialize the filter ComboBox</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>cboPatterns.Clear</b> <br />
+<code class='comment'> ' Calls '<a href="#PNA_vbDiR2XML_Help_AddPattern">AddPattern</a>' subroutine,&nbsp;&nbsp;Syntax: AddPattern "name", "value"</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#PNA_vbDiR2XML_Help_AddPattern">AddPattern</a> "All files (*.*)", "*.*"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "ASP files (*.asp)", "*.asp"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "AVI files (*.avi)", "*.avi"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "BAK files (*.bak)", "*.bak"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "BMP files (*.bmp)", "*.bmp"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "CHM files (*.chm)", "*.chm"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "CSS files (*.css)", "*.css"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "DOC files (*.doc)", "*.doc"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "DOT files (*.dot)", "*.dot"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "Executables (*.exe)", "*.exe"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "GIF graphics files (*.gif)", "*.gif"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "HTA files (*.hta)", "*.hta"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "HTML files (*.htm*)", "*.htm*"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "INC files (*.inc)", "*.inc"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "JPG graphics files (*.jpg)", "*.jpg"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "JavaScript files (*.js)", "*.js"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "MDB files (*.mdb)", "*.mdb"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "MID files (*.mid)", "*.mid"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "PDF files (*.pdf)", "*.pdf"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "RTF files (*.rtf)", "*.rtf"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "Text files (*.txt)", "*.txt"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "WAV files (*.wav)", "*.wav"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "XLS files (*.xls)", "*.xls"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "XSD files (*.xsd)", "*.xsd"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "XML files (*.xml)", "*.xml"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "XSL files (*.xsl)", "*.xsl*"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;AddPattern "ZIP files (*.zip)", "*.zip"<br />
+<br />
+<code class='comment'> ' Initialize the ComboBox control to the value of the zeroth element of the array</code><br />
+<code class='comment'> ' Since <b>Patterns(0) = *.*</b>, this causes value to be displayed in Run Mode.</code><br />
+<code class='comment'> ' Since this causes a change to the value of the control,</code><br />
+<code class='comment'> ' it launches the event 
+	<a href="#PNA__vbDiR2XML_Help_cboPatterns_Click">
+	<b>cboPatterns_Click()</b>
+	</a>
+</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>cboPatterns.ListIndex</b>  = 0<br />
+<br />
+<code class='comment'> ' <b>The controls having their colors changed are those</b></code><br />
+<code class='comment'> ' <b>that the User has no control over</b>!</code><br /><br />
+<code class='comment'> ' Initialize <b>filSelect</b>, color optional</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;With <b>filSelect</b> <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.BackColor = &amp;HFFFFC0<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.ForeColor = 16711680<br />
+&nbsp;&nbsp;&nbsp;&nbsp;End With<br />
+<br />
+<code class='comment'> ' Initialize <b>lblStatus</b>, color optional<b></b></code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;With <b>lblStatus</b> <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.BackColor = &amp;HFFFFC0<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.ForeColor = 16711680<br />
+&nbsp;&nbsp;&nbsp;&nbsp;End With<br />
+<br />
+<code class='comment'> ' Initialize <b>lblStartDir</b>, color optional</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;With <b>lblStartDir</b> <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.BackColor = &amp;HFFFFC0<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.ForeColor = 16711680<br />
+&nbsp;&nbsp;&nbsp;&nbsp;End With<br />
+<br />
+<code class='comment'> ' Initialize <b>lblFilter</b>, color optional</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;With <b>lblFilter</b> <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.BackColor = &amp;HFFFFC0<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.ForeColor = 16711680<br />
+&nbsp;&nbsp;&nbsp;&nbsp;End With<br />
+<br />
+<code class='comment'> ' Initialize other buttons</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>cmdWriteFile.Caption</b> = "&amp;Write Directory to XML"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>cmdExit.Caption</b> = "E&amp;xit"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>cmdView</b>.Caption = "&amp;View in Browser"<br />
+<br />
+<code class='comment'> ' Initialize other labels</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>lblStatus.Caption</b> = "Watch this space for information..."<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>lblTime.Caption</b> = Now()<br />
+<br />
+<code class='comment'> ' Initialize other textboxes</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>txtSaveDir</b>.Text = App.Path<br /><br />
+<code class='comment'> ' Note: '<b>&lt;&gt;</b>' below means '<b>NOT EQUAL TO</b>'</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If Right$(txtSaveDir.Text, 1) <b>&lt;&gt; "\"</b> Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;txtSaveDir.Text = txtSaveDir.Text <b>&amp; "\"</b><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentXML_SaveDirOnly  = txtSaveDir.Text<br />
+<br />
+<br />
+<code class='comment'> ' Initialize txtWriteFile and other global variables</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>txtWriteFile.Text = "vbDiRXML_default.xml"</b><br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gstrCurrentXML_FileNameOnly</b>  = <b>txtWriteFile.Text</b><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gstrCurrentXML_SaveDirAndFileName</b>  = <b>gstrCurrentXML_SaveDirOnly</b>  &amp; <b>gstrCurrentXML_FileNameOnly</b> <br />
+<br />
+<code class='comment'> ' Calls Sub to write XML to the screen (txtEditor)...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="#PNA_vbDiR2XML_Help_WriteFileToScreen"><b>WriteFileToScreen</b></a> <br />
+
+<br />
+<code class='comment'> ' Calls Sub to write XML to a file...</code><br /> 
+<code class='comment'> ' Also prepares
+ 
+<a href="#PNA_vbDiR2XML_Help_cmdView">cmdView()</a>
+ 
+or <a href="#PNA_vbDiR2XML_Help_mnuViewBrowser">mnuViewBrowser()</a> 
+ 
+for launching MSIE (with file as URL!)</code><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#PNA_vbDiR2XML_Help_WriteFileToScreen"><b>WriteXMLtoFile</b></a> <br />
+<br />
+<code class='comment'> ' Calls Sub to write stylesheet to a file, see  
+<a href="#PNA_vbDiR2XML_Help_cmdView">cmdView()</a> / 
+<a href="#PNA_vbDiR2XML_Help_mnuViewBrowser">mnuViewBrowser()</a></code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#PNA_vbDiR2XML_Help_WriteFileToScreen"><b>WriteXSLTFile</b></a> <br /><br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_Controls ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_Code_Controls" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>Controls</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+ 
+ <blockquote id="PNA__vbDiR2XML_Help_cboPatterns_Click">
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ <b>cboPatterns_Click()</b> ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub cboPatterns_Click()</code><br />
+&nbsp;&nbsp;Dim <b>str</b> As String<br />
+<code class='comment'> ' User selected a pattern. Apply it to the FileListBox.</code><br />
+<code class='comment'> ' <b>filSelect.Pattern</b>  = <b>Patterns</b> (<b>cboPatterns.ListIndex</b> )</code><br />
+<br />
+<code class='comment'> ' Call Subroutine to refresh global variables...</code><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="#PNA_vbDiR2XML_Help_RefreshFormValues">RefreshFormValues</a></b><br />
+
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;<b>lblStatus.Caption</b> = "Selecting a filter will effect what is written to the XML file."</code><br />
+<br />
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;If <b>gstrCurrentFilter</b>  &lt;&gt; "*.*" Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>str</b> = "You have chosen the filter type: " &amp; <b>gstrCurrentFilter</b>  &amp; " ..."<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Else<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>str</b> = "You have chosen the default filter type: " &amp; <b>gstrCurrentFilter</b>  &amp; ", which means to filter for ALL of the files in the 'Seed' or 'Query' directory."<br />
+&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>lblStatus.Caption</b> = <b>str</b><br />
+<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />	
+ <blockquote id="PNA_vbDiR2XML_Help_dirSelect_Change">
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ <b>dirSelect_Change()</b>  ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub <b>dirSelect_Change()</b> </code><br />
+<br />
+<code class='comment'> ' The user selected a new directory. Tell the file list.</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>filSelect.Path</b>  = <b>dirSelect.Path</b> <br />
+<br />
+<code class='comment'> ' This should always be true! This is for the first time through</code><br />
+<code class='comment'> ' This statement also occurs in the Refresh Sub</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gstrOpenSeedPathOnly</b>  = <b>dirSelect.Path</b> <br />
+<br />
+<code class='comment'> ' Initialize Global Path, File and Filter String variables</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="#PNA_vbDiR2XML_Help_RefreshFormValues">RefreshFormValues</a></b><br />
+<br />
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; <b>lblStatus.Caption</b> = "Refreshed file list after changing directory"<br />
+<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+ <blockquote id="PNA_vbDiR2XML_Help_drvSelect_Change">
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ <b>drvSelect_Change()</b>  ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub <b>drvSelect_Change()</b> </code><br />
+&nbsp;&nbsp;Static ignore_changes As Boolean<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;If ignore_changes Then Exit Sub<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;On Error GoTo DriveError<br />
+<code class='comment'> ' User selected a new drive. Tell the directory list.</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>dirSelect.Path</b>  = <b>drvSelect.Drive</b> <br />
+<br />
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>lblStatus.Caption</b> = "A new drive was selected!"<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Exit Sub<br />
+<br />
+DriveError:<br />
+<code class='comment'>' Reselect the old drive.</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;Beep<br />
+&nbsp;&nbsp;&nbsp;&nbsp;ignore_changes = True<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>drvSelect.Drive</b>  = <b>dirSelect.Path</b> <br />
+&nbsp;&nbsp;&nbsp;&nbsp;ignore_changes = False<br />
+<br />
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>lblStatus.Caption</b> = "If the new selected drive fails, it will revert back to the previously selected drive!"<br />
+<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />	
+ <blockquote id="PNA_vbDiR2XML_Help_filSelect_Click">
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> '~~~~~ <b>filSelect_Click()</b>  ~~~~~~</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub <b>filSelect_Click()</b> </code><br />
+<code class='comment'> ' User selected a file. Don't do anything!</code><br />
+<br />
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>lblStatus.Caption</b> = "This program only displays a list of the files in the chosen subdirectory, it will not display the file. Try opening Notepad from the menu."<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_Events ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_Code_Events" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>Events</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+ 
+  <blockquote id="PNA_vbDiR2XML_Help_Timer1_Timer">
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ Timer1_Timer() ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub Timer1_Timer()</code><br />
+<code class='comment'> ' Should not submit timer information to the Status Bar label control, </code><br />
+<code class='comment'> ' because it would overwrite all other status messages every second!</code><br /><br />
+<code class='comment'>' ALTERNATE: lblTime.Caption = Format(Now, "<i>d-mmmm h:mm</i>")</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>lblTime.Caption = Now()</b><br />
+End Sub<br />
+ </blockquote>
+<blockquote>
+<code class='comment'>' <u>Note</u>: To print formatted dates and times, use the format function 
+with symbols representing date and time. (Examples assume Regional Settings Dialog Box of the 
+Windows Control Panel is set to "English(United States)". </code><br />
+<code class='comment'>' </code><br />
+<center>
+<table border="0" width="90%">
+
+<tr valign="top">
+<td class="codeCommentsGreen" width="50%" align="left"><b>' Format() Function</b> (Syntax)</td>
+<td class="codeCommentsGreen" width="50%" align="left"><b>Result</b></td>
+</tr>
+
+<tr valign="top">
+<td class="codeCommentsGreen" width="50%" align="left">' Format(Now, "<i>m/d/yy</i>")</td>
+<td class="codeCommentsGreen" width="50%" align="left">3/17/02</td>
+</tr>
+
+<tr valign="top">
+<td class="codeCommentsGreen" width="50%" align="left">' Format(Now, "<i>dddd, mmmm dd, yyyy</i>")</td>
+<td class="codeCommentsGreen" width="50%" align="left">Sunday, March 17, 2002</td>
+</tr>
+
+<tr valign="top">
+<td class="codeCommentsGreen" width="50%" align="left">' Format(Now, "<i>d-mmm</i>")</td>
+<td class="codeCommentsGreen" width="50%" align="left">17-Mar</td>
+</tr>
+
+<tr valign="top">
+<td class="codeCommentsGreen" width="50%" align="left">' Format(Now, "<i>mmmm-yy</i>")</td>
+<td class="codeCommentsGreen" width="50%" align="left">March-02</td>
+</tr>
+
+<tr valign="top">
+<td class="codeCommentsGreen" width="50%" align="left">' Format(Now, "<i>hh:mm</i> AM/PM")</td>
+<td class="codeCommentsGreen" width="50%" align="left">05:23 AM</td>
+</tr>
+
+<tr valign="top">
+<td class="codeCommentsGreen" width="50%" align="left">' Format(Now, "<i>h:mm:ss</i> A/P")</td>
+<td class="codeCommentsGreen" width="50%" align="left">5:23:00 A</td>
+</tr>
+
+<tr valign="top">
+<td class="codeCommentsGreen" width="50%" align="left">' Format(Now, "<i>d-mmmm h:mm</i>")</td>
+<td class="codeCommentsGreen" width="50%" align="left">17-March 7:18</td>
+</tr>
+</table>
+</center>
+<br />
+
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_Functions ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_Code_Functions" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        Subroutines and Functions
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start">Back to the Beginning of this page</a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_AddPattern">
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ AddPattern(pattern_name, pattern_value) ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub AddPattern(ByVal pattern_name As String, ByVal pattern_value As String)</code><br /><br />
+<code class='comment'> ' Add a pattern to the ComboBox and pattern list.</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;cboPatterns.AddItem pattern_name<br />
+&nbsp;&nbsp;&nbsp;&nbsp;ReDim Preserve Patterns (0 To cboPatterns.NewIndex)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Patterns (cboPatterns.NewIndex) = pattern_value<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_RefreshFormValues">
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> '~~~~~ RefreshFormValues() ~~~~~~</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub RefreshFormValues()</code><br />
+&nbsp;&nbsp;Dim file_pattern  As String<br />
+&nbsp;&nbsp;Dim strOld As String<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If gstrCurrentXML_FileNameOnly  = "" Then<br />
+<code class='comment'> ' User can change this later...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentXML_FileNameOnly  = "vbDiRXML_default.xml"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Else<br />
+<code class='comment'> ' Note: '&lt;&gt;' below means 'NOT EQUAL TO'</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If (txtWriteFile.Text &lt;&gt; "vbDiR2XML_default.xml") Then<br />
+<code class='comment'> ' User already did change this...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gstrCurrentXML_FileNameOnly  = txtWriteFile.Text<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; End If<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If gstrCurrentXML_SaveDirOnly  = "" Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentXML_SaveDirOnly  = App.Path<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If Right$(gstrCurrentXML_SaveDirOnly , 1) &lt;&gt; "\" Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentXML_SaveDirOnly  = gstrCurrentXML_SaveDirOnly  &amp; "\"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Else<br />
+<code class='comment'> ' User already did change this...!</code><br />
+<code class='comment'> ' Note: '&lt;&gt;' below means 'NOT EQUAL TO'</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If (txtSaveDir.Text &lt;&gt; App.Path) Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gstrCurrentXML_SaveDirOnly  = txtSaveDir.Text<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If Right$(gstrCurrentXML_SaveDirOnly , 1) &lt;&gt; "\" Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentXML_SaveDirOnly  = gstrCurrentXML_SaveDirOnly  &amp; "\"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; End If<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentXML_SaveDirAndFileName  = gstrCurrentXML_SaveDirOnly  &amp; gstrCurrentXML_FileNameOnly <br />
+<br />
+<code class='comment'> ' Initialize parameters: what filter or pattern is to be used?</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;filSelect.Pattern = Patterns (cboPatterns.ListIndex)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;file_pattern  = filSelect.Pattern<br />
+&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentFilter = file_pattern <br />
+<br />
+<code class='comment'> ' Someday, someone could implement it so that the User could enter</code><br />
+<code class='comment'> ' non-standard file extensions, but this label must then be a textbox!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;lblFilter.Caption = gstrCurrentFilter <br />
+<br />
+<code class='comment'> ' XSLT file must have a constant value now...</code><br />
+<code class='comment'> 'gCONSTCurrentXSLT_FileNameOnly = CONSTANT VALUE = "vbDiR2XML_XSL.xsl "</code><br />
+<br />
+<code class='comment'> ' Refresh "gstrCurrentXSLT_SaveDirAndFileName "...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentXSLT_SaveDirOnly = gstrCurrentXML_SaveDirOnly &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; '(IDENTITY)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentXSLT_SaveDirAndFileName  = gstrCurrentXSLT_SaveDirOnly  &amp; gCONSTCurrentXSLT_FileNameOnly <br />
+<br />
+<code class='comment'> ' Refresh "gstrCurrentXSLT_SaveDirOnly "...</code><br />
+<code class='comment'> ' gstrCurrentXML_SaveDirOnly = gstrCurrentXSLT_SaveDirOnly &nbsp;&nbsp;&nbsp;&nbsp; '(IDENTITY)</code><br /><br />
+
+<code class='comment'> ' Note: '&lt;&gt;' below means 'NOT EQUAL TO'</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If Right$(gstrCurrentXSLT_SaveDirOnly , 1) &lt;&gt; "\" Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentXSLT_SaveDirOnly  = gstrCurrentXSLT_SaveDirOnly  &amp; "\"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+<br />
+<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_WriteFileToScreen">
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> '~~~~~ <b>WriteFileToScreen</b>  Subroutine ~~~~~~</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub <b>WriteFileToScreen</b> ()</code><br />
+&nbsp;&nbsp;Dim <b>i</b>  As Integer<br />
+&nbsp;&nbsp;Dim <b>start_dir</b></b> As String<br />
+&nbsp;&nbsp;Dim <b>file_pattern</b>  As String<br />
+&nbsp;&nbsp;Dim <b>strTemp</b> As String<br />
+&nbsp;&nbsp;Dim <b>files()</b> As String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 'array of files (without path)<br />
+&nbsp;&nbsp;Dim <b>filesTemp()</b> As String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 'array of files (with path)&nbsp;&nbsp; ' FIXED BUG!!!<br />
+&nbsp;&nbsp;Dim <b>file_name</b> As String<br />
+&nbsp;&nbsp;Dim <b>txtFileLoop</b> As String<br />
+&nbsp;&nbsp;Dim <b>strCurrentFileType </b>As String<br />
+&nbsp;&nbsp;Dim <b>str2</b> As String<br />
+&nbsp;&nbsp;Dim <b>total_size</b> As Long<br />
+&nbsp;&nbsp;Dim <b>num_files</b> As Long<br />
+&nbsp;&nbsp;Dim <b>file_size</b> As Long<br />
+&nbsp;&nbsp;Dim <b>file_size_Kb</b> As Double&nbsp;&nbsp;&nbsp;&nbsp; ' To create KBytes instead of Bytes in files loop<br />
+&nbsp;&nbsp;Dim <b>filNum</b> As Integer<br />
+&nbsp;&nbsp;Dim <b>totalFiles_size</b> As Double<br />
+<br />
+<code class='comment'> ' Initialize parameters: what path is to be used for what object at what time?</code><br />
+<code class='comment'> ' This should always be true!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;gstrOpenSeedPathOnly  = dirSelect.Path<br />
+<br />
+<code class='comment'> ' Note: '&lt;&gt;' below means 'NOT EQUAL TO'</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If Right$(gstrOpenSeedPathOnly , 1) &lt;&gt; "\" Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gstrOpenSeedPathOnly  = gstrOpenSeedPathOnly  &amp; "\"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;start_dir = gstrOpenSeedPathOnly <br />
+<br />
+<code class='comment'> ' Note: '&lt;&gt;' below means 'NOT EQUAL TO'</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If Right$(start_dir, 1) &lt;&gt; "\" Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;start_dir = start_dir &amp; "\"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+<br />
+<code class='comment'> ' Initialize parameters: what filter or pattern is to be used?</code><br />
+<code class='comment'> '&nbsp;&nbsp;Here I should check to see value of textbox? Or change textbox to listbox?</code><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;filSelect.Pattern = Patterns (cboPatterns.ListIndex)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;file_pattern  = filSelect.Pattern<br />
+<br />
+<code class='comment'> ' Only temporarily! Reset later!</code><br />
+<code class='comment'> ' <b>Hover the mouse over 'vbHourglass'</b> to see additional information</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;Screen.MousePointer = 
+	<!-- 
+		Hey kids! Check this one out! It needs: 
+		span.cursor_wait {cursor:wait; font-size:100%; color:red; margin-left:5%;}
+		in the CSS definitions!
+		Note that "<span cursor="wait">vbHourglass</span>" does not work!
+	 -->
+			<span class="cursor_wait" title="One way of optimizing perceived speed of a lengthy subroutine for the user is to make the mouse into an hourglass until the routine finishes. During this time, 'DoEvents' should be issued to allow other programs, windows and functions of the Operating System to make use of the CPU. At the very minimum, display the wait cursor to indicate the delay by setting the forms MousePointer property to 'vbHourglass' as a Progress Indicator.">
+			vbHourglass
+			</span>
+<br /><br />
+<code class='comment'> ' Don't tie up the computer!</code><br />
+<code class='comment'> ' <b>Hover the mouse over 'DoEvents'</b> to see additional information</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+			<span class="cursor_wait" title="For the User's sake, the programmer must be aware of which particular task may take a very long time. The 'DoEvents' function also provides a convenient way to allow a task to be canceled. For example, in code where a 'Run' button may change to a 'Cancel' button when it is clicked.  The clicking on 'Cancel' could interrupt the task it is performing gracefully, and change back into a 'Run' button again.">
+			DoEvents
+			</span><br />
+<br />
+<code class='comment'> ' Search for matching files in this directory.&nbsp;&nbsp;Get the first matching file.</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;file_name = gstrOpenPath &amp; Dir$(start_dir &amp; file_pattern , vbNormal)&nbsp;&nbsp;&nbsp;&nbsp;'????</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;file_name = Dir$(start_dir &amp; file_pattern , vbNormal)<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Do While Len(file_name) &gt; 0<br />
+<code class='comment'> ' Add the file to the files array.</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;num_files = num_files + 1<br />
+<code class='comment'> ' Echo filename to status bar ' "File to array: " &</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lblStatus.Caption = file_name<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;
+			<span class="cursor_no_wait" title="'Dynamic Array' syntax: 'ReDim DynArray(X + 1)'">
+			ReDim Preserve <b>files</b>(1 To num_files)			
+			</span><br />
+
+<br />
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>files</b>(num_files) = file_name<br />
+<br />
+<code class='comment'> ' Get the next matching file.</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;file_name = Dir$(, vbNormal)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Loop<br />
+<br />
+<code class='comment'> '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</code><br />
+<code class='comment'> ' Build XML string to write to txtResult.Text</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = "&lt;?xml version='1.0' encoding='ISO8859-1' standalone = 'no'?&gt;" &amp; vbCrLf &amp; vbCrLf<br />
+<code class='comment'> ' Copy elements to string, ended by CR LFs</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&lt;!-- A copy of the source code for this project --&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&lt;!-- is available from www.eskimo.com/~dobe/ --&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&lt;!-- DiR2XML is VB 6 Project of Dobe Doinat --&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&lt;!-- 'John W. Hartman' &lt;dobe@eskimo.com&gt; --&gt;" &amp; vbCrLf &amp; vbCrLf<br /><br />
+<code class='comment'> ' <big><b>Change XSLT file name below </b></big>&nbsp;&nbsp;&nbsp;&nbsp;<u>HARD-CODED: 'vbDiR2XML_XSL.xsl</u>'!!!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&lt;?xml-stylesheet type='text/xsl' href='vbDiR2XML_XSL.xsl' ?&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&lt;doc&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt;Generated by vbDiR2XML&lt;/title&gt;" &amp; vbCrLf &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp; &lt;dir id = '" &amp; gstrOpenSeedPathOnly  &amp; "'"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; " filter =&nbsp;&nbsp; '" &amp; gstrCurrentFilter  &amp; "'&gt;" &amp; vbCrLf &amp; vbCrLf<br />
+<code class='comment'> '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</code><br />
+<br />
+<code class='comment'> ' Loop through all the files...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;
+			<span class="cursor_no_wait" title="'Dynamic Array' syntax: 'ReDim DynArray(X + 1)'">
+			ReDim Preserve <b>filesTemp</b>(1 To num_files)			
+			</span><br />
+
+<br />
+<code class='comment'> ' ~~~ BEGIN:&nbsp;&nbsp;&nbsp;&nbsp;FOR/NEXT LOOP&nbsp;&nbsp;&nbsp;&nbsp;FOR FILE NAMES &amp; SIZES ~~~</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<big>For <b>i</b> = 1 To <b>num_files</b></big><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>filesTemp</b>(i) = gstrOpenSeedPathOnly  &amp; files(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<code class='comment'>' FIXED BUG! 01/13/02</code><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; file_size = FileLen(filesTemp(i))<br />
+<br />
+<code class='comment'> ' Keep track of files' sizes total in <b>KiloBytes</b> using </code><br />
+<code class='comment'> ' <b>file_size_Kb</b> which <b>1/1000</b> of <b>file_size</b></code><br /><br />
+<code class='comment'> ' <b>file_size</b> is <b>LONG</b> while <b>file_size_Kb</b> is <b>Double</b> so use '<b>CDbl</b>' </code><br />
+<code class='comment'> ' which converts or 'casts' from one data type to the other</code><br /><br />
+<code class='comment'> ' Note '<b>Format()</b>' function syntax!</code><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+If file_size &gt; 0 Then&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<code class='comment'>' NO DIVIDE BY ZERO!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;file_size_Kb = <b>CDbl</b>(file_size / 1000)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;file_size_Kb = <b>Format</b>(file_size_Kb, "00000.00")&nbsp;&nbsp;&nbsp;&nbsp; 
+<code class='comment'>' 2 DECIMAL PLACES</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+<br />
+<code class='comment'> ' strCurrentFileType is used for "&lt;file type='' ...&gt; below"</code><br />
+<code class='comment'> ' Note '<b>UCase()</b>' or UPPERCASE function syntax!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strCurrentFileType = <b>UCase</b>(<b>Right$</b>(files(i), 3))<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If <b>Left$</b>(strCurrentFileType, 1) = "." Then<br />
+<code class='comment'> ' There's at least one file extension with less than 3 chars...!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strCurrentFileType = Right$(strCurrentFileType, 2) &amp; " "<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Beep</b>&nbsp;&nbsp;&nbsp;&nbsp;
+<code class='comment'> ' Optional</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; txtFileLoop = txtFileLoop &amp; "&nbsp;&nbsp;&nbsp;&nbsp; &lt;file type='" &amp; strCurrentFileType &amp; "' size='" &amp; file_size_Kb &amp; " Kb'&gt; " &amp; files(i) &amp; " &lt;/file&gt;" &amp; vbCrLf<br />
+<br />
+<code class='comment'> ' totalFiles_size appears below, so format for Kilobytes ...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; totalFiles_size = totalFiles_size + file_size_Kb<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; totalFiles_size = Format(totalFiles_size, "00000.00")<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<big>Next <b>i</b></big><br />
+<code class='comment'> ' ~~~ END:&nbsp;&nbsp;&nbsp;&nbsp;FOR/NEXT LOOP&nbsp;&nbsp;&nbsp;&nbsp;FOR FILE NAMES &amp; SIZES ~~~</code><br />
+<br />
+<code class='comment'> ' Copy header elements and file elements to string, ended by CR LF</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; txtFileLoop &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&lt;totalBytes format='Kb'&gt; " &amp; totalFiles_size &amp; " &lt;/totalBytes&gt;" &amp; vbCrLf<br />
+<code class='comment'> ' "num_files" already has how many files are in the directory (same as array)</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&lt;totalFiles&gt; " &amp; num_files &amp; " &lt;/totalFiles&gt;" &amp; vbCrLf<br />
+<code class='comment'> ' Copy end &lt;/dir&gt; element to string, ended by CR LF</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp; &lt;/dir&gt;" &amp; vbCrLf &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&lt;thisFileInfo" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seed_dir='" &amp; gstrOpenSeedPathOnly  &amp; "' " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this_file_dir='" &amp; gstrCurrentXML_SaveDirOnly  &amp; "' " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this_file_name='" &amp; gstrCurrentXML_FileNameOnly  &amp; "' " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this_file_generated='" &amp; <b>Now()</b> &amp; "'&gt; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" &amp; gstrCurrentXML_SaveDirAndFileName  &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&lt;/thisFileInfo&gt; " &amp; vbCrLf<br />
+<br />
+<code class='comment'> ' Copy end &lt;/doc&gt; element to string, ended by CR LF</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strTemp = strTemp &amp; "&nbsp;&nbsp;&lt;/doc&gt;" &amp; vbCrLf &amp; vbCrLf<br />
+<br />
+<code class='comment'> ' Reset Mouse Pointer after finished with query and screen write!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;Screen.MousePointer = vbDefault<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>txtEditor.Text = strTemp</b><br />
+<br />
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; lblStatus.Caption = "Finished writing string for XML to screen"<br />
+<br />
+<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_WriteXMLtoFile">
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> '~~~~~ WriteXMLtoFile () ~~~~~~</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub WriteXMLtoFile ()</code><br />
+&nbsp;&nbsp;Dim FNum As Integer<br />
+<br />
+<code class='comment'> ' Only temporarily! Reset later!</code><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Screen.MousePointer = 
+			<span class="cursor_wait" title="Here again, we're simply showing that the computer is busy. Reset later when function returns.">
+			vbHourglass
+			</span>
+<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp; lblStatus.Caption = "The XML file is being generated in the " &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gstrCurrentXML_SaveDirOnly  &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " directory, using the filename of " &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gstrCurrentXML_FileNameOnly  &amp; _<br />
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;". How long this takes depends on how many files are in the seed directory and the filter used."<br />
+<br />
+<code class='comment'> ' Don't tie up the computer!</code><br />
+<code class='comment'> ' <b>Hover the mouse over 'DoEvents'</b> to see additional information</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+			<span class="cursor_wait" title="For the User's sake, the programmer must be aware of which particular task may take a very long time. The 'DoEvents' function also provides a convenient way to allow a task to be canceled. For example, in code where a 'Run' button may change to a 'Cancel' button when it is clicked.  The clicking on 'Cancel' could interrupt the task it is performing gracefully, and change back into a 'Run' button again.">
+			DoEvents
+			</span><br />
+<br />
+<br />
+On Error GoTo FileErrorCancel<br />
+&nbsp;&nbsp;&nbsp;&nbsp;FNum = FreeFile<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Open gstrCurrentXML_SaveDirAndFileName  For Output As #1<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Print #FNum, txtEditor.Text<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Close #FNum<br />
+<br />
+<code class='comment'> ' Reset Mouse Pointer after finished with query and screen write!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;Screen.MousePointer = vbDefault<br />
+<br />
+<br />
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; lblStatus.Caption = "The XML file generated has been written to the " _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;& gstrCurrentXML_SaveDirOnly  &amp; " directory, using the filename of " &amp; gstrCurrentXML_FileNameOnly  &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" and can now be viewed in the MSIE Browser using the button above"<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Exit Sub<br />
+<code class='comment'> '</code><br />
+FileErrorCancel:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;If Err.Number = cdlCancel Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exit Sub<br />
+&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+&nbsp;&nbsp;&nbsp;&nbsp;MsgBox "Unknown error while saving file " &amp; gstrCurrentXML_SaveDirAndFileName <br />
+<br />
+<code class='comment'> ' Reset Mouse Pointer after finished with query and screen write!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;Screen.MousePointer = vbDefault<br />
+<br />
+End Sub<br />
+ </blockquote>
+<br /> 
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_WriteXSLTFile">
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> '~~~~~ WriteXSLTFile  Subroutine ~~~~~~</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub WriteXSLTFile ()</code><br />
+&nbsp;&nbsp;Dim strXSLT As String<br />
+&nbsp;&nbsp;Dim file_pattern  As String<br />
+&nbsp;&nbsp;Dim FNum As Integer<br />
+<code class='comment'> '&nbsp;&nbsp;Dim txt As String</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;gboolSortByNameFlag  = False</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;gboolSortByTypeFlag  = True&nbsp;&nbsp;&nbsp;&nbsp; 'DEFAULT</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;gboolSortBySizeFlag  = False</code><br />
+<br />
+&nbsp;&nbsp; strXSLT = ""<br />
+<code class='comment'> '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</code><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&lt;?xml version='1.0'?&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&lt;!-- Comment --&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&lt;xsl:stylesheet" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; xmlns:xsl='http://www.w3.org/TR/WD-xsl'" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; xmlns='http://www.w3.org/TR/REC-html40'" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; result-ns=''&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&lt;xsl:template match='/'&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&lt;html&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;head&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt;&lt;xsl:value-of select='doc/title' /&gt;&lt;/title&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;style type='text/css'&gt; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; body {background:#f0ffff; font-family: ariel | helvetica | serif;} " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; blockquote {font-size:100%; color:darkblue; margin-left:10%; margin-right:10%;} " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; table {background:#f0ffff;} " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; h1.Name {font-size:150%; color:blue;} " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tr.tableheader {font-size:150%; color:blue; background:#f0ffff} " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; td.tablecol {font-size:120%; color:blue; background:#f0ffff;} " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; td.tableinfo {font-size:100%; color:blue; background:#f0ffff;} " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/style&gt;&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/head&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;body&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!-- Begin XSL:FOR-EACH Element for FILE&nbsp;&nbsp;--&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:for-each select='doc/thisFileInfo'&gt; &lt;br /&gt;&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;h1 class='Name'&gt;&lt;u&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:value-of select='././@this_file_dir/text()' /&gt; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:value-of select='././@this_file_name/text()' /&gt;&lt;/u&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#160; &#160; &#160; &lt;i&gt;(vbDiR2XML-generated)&lt;/i&gt; &lt;/h1&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsl:for-each&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!-- End XSL:FOR-EACH Element&nbsp;&nbsp; --&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;hr width='80%' align='center' color='blue' /&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;table border='0' width='95%' align='center'&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;tr&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td width='35%' class='tableinfo' align='right'&gt;'Seed' directory:" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td width='65%' class='tableinfo' align='left'&gt;&#160;&#160;&lt;b&gt;&lt;xsl:value-of select='doc/thisFileInfo/@seed_dir/text()' /&gt;&lt;/b&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/tr&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;tr&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td width='35%' class='tableinfo' align='right'&gt;Generated:" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td width='65%' class='tableinfo' align='left'&gt;&#160;&#160;&#160;&lt;b&gt;&lt;xsl:value-of select='doc/thisFileInfo/@this_file_generated/text()' /&gt;&lt;/b&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/tr&gt;" &amp; vbCrLf<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;tr&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td width='35%' class='tableinfo' align='right'&gt;View XSLT stylesheet:" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td width='65%' class='tableinfo' align='left'&gt;&#160;&#160;&#160;" &amp; vbCrLf<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;a href='" &amp; gstrCurrentXSLT_SaveDirAndFileName  &amp; "'&gt; &lt;b&gt;" &amp; gstrCurrentXSLT_SaveDirAndFileName  &amp; "&lt;/b&gt;&lt;/a&gt; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/tr&gt;" &amp; vbCrLf<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;tr&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td width='35%' class='tableinfo' align='right'&gt;Sorted by:" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td width='75%' class='tableinfo' align='left'&gt;&#160;&#160;&#160;&lt;b&gt;" &amp; vbCrLf<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;If (gboolSortByNameFlag  = True) Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;File Name&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Else<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If (gboolSortByTypeFlag  = True) Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;File Type (Extension)&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Else<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If (gboolSortBySizeFlag  = True) Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;File Size&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Else&nbsp;&nbsp;&nbsp;&nbsp;' write at least one of them!<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;File Size&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/b&gt;" &amp; vbCrLf<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/tr&gt;" &amp; vbCrLf<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;tr&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td width='35%' class='tableinfo' align='right'&gt;Filter for selected files:" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td width='65%' class='tableinfo' align='left'&gt;&#160;&#160;&#160;&lt;b&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:value-of select='doc/dir/@filter/text()' /&gt;&lt;/b&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/tr&gt;" &amp; vbCrLf<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;tr&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td width='35%' class='tableinfo' align='right'&gt;Total size of selected files:" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td width='65%' class='tableinfo' align='left'&gt;&#160;&#160;&#160;&lt;b&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:value-of select='doc/dir/totalBytes/text()' /&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:value-of select='doc/dir/totalBytes/@format/text()' /&gt;&lt;/b&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/tr&gt;" &amp; vbCrLf<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/table&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;hr width='80%' align='center' color='blue' /&gt;&lt;br /&gt;&lt;br /&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; " " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;table border='0' width='90%' align='center' &gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;thead&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr align='left' class='tableheader'&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td align='left' valign='top' width='50%'&gt;&lt;b&gt;&lt;u&gt;Name&lt;/u&gt;&lt;/b&gt;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td align='left' valign='top' width='25%'&gt;&lt;b&gt;&lt;u&gt;Type&lt;/u&gt;&lt;/b&gt;&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td align='left' valign='top' width='25%'&gt;&lt;b&gt;&lt;u&gt;Size&lt;/u&gt;&lt;/b&gt;&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/thead&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!-- Begin XSL:FOR-EACH Element for FILE&nbsp;&nbsp;--&gt;" &amp; vbCrLf<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;If (gboolSortByNameFlag  = True) Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:for-each select='doc/dir/file' order-by='+@name'&gt;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Else<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If (gboolSortByTypeFlag  = True) Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:for-each select='doc/dir/file' order-by='+@type'&gt;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Else<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If (gboolSortBySizeFlag  = True) Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:for-each select='doc/dir/file' order-by='+@size'&gt;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Else&nbsp;&nbsp;&nbsp;&nbsp;' write at least one of them!<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:for-each select='doc/dir/file' order-by='+@type'&gt;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td align='left' valign='top' width='50%' class='tablecol'&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;xsl:value-of select='././text()' /&gt;&#160;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td align='left' valign='top' width='25%' class='tablecol'&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;xsl:value-of select='././@type/text()' /&gt;&#160; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;td align='left' valign='top' width='25%' class='tablecol'&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;xsl:value-of select='././@size/text()' /&gt;&#160; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsl:for-each&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;!-- End XSL:FOR-EACH Element&nbsp;&nbsp; --&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/table&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;hr width='80%' align='center' color='blue' /&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&lt;blockquote&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;vbDiR2XML is a Visual Basic application written by Dobe Doinat, " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;which allows a user to choose a 'seed' directory, which is then queried " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;for file names and file sizes, using a selected filter for the type of file " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;(by extension), or '*.*' (the default) which is ALL the files in the 'seed'" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;directory. &#160;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&lt;/blockquote&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp; &lt;blockquote&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;The result of the query is then written as XML to a PATH and FILENAME input by " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;the user. The user is then invited to view the raw XML in a text window " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;within the application, or to 'Shell' out to the " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;Microsoft Internet Explorer browser, (if it is in the standard install " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;directory) which will then parse the XML file and encounter " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;the reference to the XSL stylesheet, also generated from the application. " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;Thus, if you are viewing this in a browser, and it looks like XHTML, " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;MSIE successfully parsed the files and wrote out a result tree, serialized " &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;as markup text viewed in the browser. &#160;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&lt;/blockquote&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;hr width='80%' align='center' color='blue' /&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp; &lt;!-- //Footer --&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; " &lt;table align='center' width='60%' cols='1' rows='1' border='0'&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp; &lt;tr&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp; &lt;td valign='top' align='center' width='40%' class='tablecol'&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp; vbDiR2XML copyright 2002 &lt;br /&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp; 'Dobe Doinat' (dobe@eskimo.com) &lt;br /&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp; Source code available from: &lt;br /&gt;" &amp; vbCrLf<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp; &lt;a target='_new' href='http://www.eskimo.com/~dobe/'&gt;Punny Name Archive&lt;/a&gt; (www.eskimo.com/~dobe/)" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp; &lt;/td&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&lt;/tr&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; " &lt;/table&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates /&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/body&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&lt;/html&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates /&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&lt;/xsl:template&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; "&lt;/xsl:stylesheet&gt;" &amp; vbCrLf<br />
+&nbsp;&nbsp;&nbsp;&nbsp;strXSLT = strXSLT &amp; ""<br />
+
+<code class='comment'> '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</code><br />
+<code class='comment'> ' Only temporarily! Reset later!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;Screen.MousePointer = 
+			<span class="cursor_wait" title="Here again, we're simply showing that the computer is busy. Reset later when function returns.">
+			vbHourglass
+			</span>
+<br />
+<code class='comment'> ' introduces gstrOpenXSLTFile...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; lblStatus.Caption = "The XSLT file has been generated in the " _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;& gstrCurrentXSLT_SaveDirOnly  &amp; " directory, using the filename of " &amp; gCONSTCurrentXSLT_FileNameOnly <br />
+<code class='comment'> ' Don't tie up the computer!</code><br />
+<code class='comment'> ' <b>Hover the mouse over 'DoEvents'</b> to see additional information</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+			<span class="cursor_wait" title="For the User's sake, the programmer must be aware of which particular task may take a very long time. The 'DoEvents' function also provides a convenient way to allow a task to be canceled. For example, in code where a 'Run' button may change to a 'Cancel' button when it is clicked.  The clicking on 'Cancel' could interrupt the task it is performing gracefully, and change back into a 'Run' button again.">
+			DoEvents
+			</span><br />
+<br />
+<code class='comment'> ' Error-trapping... </code><br />
+On Error GoTo <b>FileErrorCancel</b><br /><br />
+<code class='comment'> ' <b>FNum</b> is merely an integer... </code><br />
+<code class='comment'> ' usually 1 if the code doesn't open more than 1 file at a time.</code><br />
+<code class='comment'> ' <b>FreeFile</b> is a VB function which returns an integer... </code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>FNum = FreeFile</b><br />
+<br />
+<code class='comment'> ' Open() is a VB function which opens a file for append or overwriting... </code><br />
+<code class='comment'> ' Output As #1 means overwriting the file or creating it if it does not exist... </code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Open</b> gstrCurrentXSLT_SaveDirAndFileName  For <b>Output As #1</b><br />
+&nbsp;&nbsp;&nbsp;&nbsp;Print #FNum, strXSLT<br />
+<br />
+<code class='comment'> ' <b>Always close the file</b>! </code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Close #FNum</b><br />
+<br />
+<code class='comment'> ' <b>Reset Mouse Pointer</b> after finished with query and screen write!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;Screen.MousePointer = <b>vbDefault</b><br />
+<br />
+<br />
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; <b>lblStatus.Caption</b>  = "The XSLT file generated has been written to the " &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gstrCurrentXSLT_SaveDirOnly  &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " directory, using the filename of " &amp; gCONSTCurrentXSLT_FileNameOnly  &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" and will now be used when the XML file is viewed in the MSIE Browser."<br />
+<br />
+<code class='comment'> ' <b>If</b> the file is written and closed with no errors, </code><br />
+<code class='comment'> ' continue execution of program flow without entering FileErrorCancel </code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Exit Sub</b><br /><br />
+<code class='comment'> ' <b>Else</b> do this instead if there was an error...</code><br /><br />
+<b>FileErrorCancel:</b><br />
+&nbsp;&nbsp;&nbsp;&nbsp;If Err.Number = cdlCancel Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exit Sub<br />
+&nbsp;&nbsp;&nbsp;&nbsp;End If<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;MsgBox "<b>Unknown error</b> while saving XSLT file: " &amp; gCONSTCurrentXSLT_FileNameOnly <br />
+<br />
+<code class='comment'> ' Reset Mouse Pointer after finished with FileErrorCancel!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;Screen.MousePointer = vbDefault<br />
+<br />
+<b>End Sub</b>
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_Menu ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_Code_Menu" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>Menu Items</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+ 
+ <blockquote id="PNA_vbDiR2XML_Help_mnuSortByName">
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ <b>mnuSortByName</b> _Click() ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub <b>mnuSortByName_Click()</b></code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gboolSortByNameFlag</b>  = True<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gboolSortByTypeFlag</b>  = False<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gboolSortBySizeFlag</b>  = False<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>mnuSortByName.Checked</b>  = True<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>mnuSortByType.Checked</b>  = False<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>mnuSortBySize.Checked</b>  = False<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="#PNA_vbDiR2XML_Help_RefreshFormValues">RefreshFormValues</a></b><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>lblStatus.Caption</b>  = "You have chosen to sort the resulting list of files by the name of the file."<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_mnuSortBySize">
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ <b>mnuSortBySize_Click()</b> ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub <b>mnuSortBySize_Click()</b> </code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gboolSortByNameFlag</b>  = False<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gboolSortByTypeFlag</b>  = False<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gboolSortBySizeFlag</b>  = True<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>mnuSortByName.Checked</b>  = False<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>mnuSortByType.Checked</b>  = False<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>mnuSortBySize.Checked</b>  = True<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="#PNA_vbDiR2XML_Help_RefreshFormValues">RefreshFormValues</a></b><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>lblStatus.Caption</b>  = "You have chosen to sort the resulting list of files by the size of the file."<br />
+<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_mnuSortByType">
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ <b>mnuSortByType_Click()</b> DEFAULT ON STARTUP!!! ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub <b>mnuSortByType_Click()</b> </code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gboolSortByNameFlag</b>  = False<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gboolSortByTypeFlag</b>  = True<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>gboolSortBySizeFlag</b>  = False<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>mnuSortByName.Checked</b>  = False<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>mnuSortByType.Checked</b>  = True<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>mnuSortBySize.Checked</b>  = False<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="#PNA_vbDiR2XML_Help_RefreshFormValues">RefreshFormValues</a></b><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>lblStatus.Caption</b> = "You have chosen to sort the resulting list of files by the type (extension) of the file."<br />
+<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_mnuViewBrowser">
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ mnuViewBrowser_Click() ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub mnuViewBrowser_Click()</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#PNA_vbDiR2XML_Help_cmdView"><b>cmdView_Click</b></a><br />
+<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_mnuWriteFile">
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> '~~~~~ mnuWriteFile_Click() ~~~~~~</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub mnuWriteFile_Click()</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="#PNA_vbDiR2XML_Help_cmdWriteFile">cmdWriteFile_Click</a></b> <br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_mnuHelpViewCode">
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> '~~~~~ mnuHelpViewCode_Click() starts the Help file in XHTML ~~~~~~</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+
+<code class='SubFunc'>Private Sub mnuHelpViewCode_Click()</code><br />
+&nbsp;&nbsp;Dim strWriteHelpFilePath As String<br /><br />
+<code class='comment'> ' Open Microsoft Internet Explorer with XHTML Help file as URL...</code><br /><br />
+<code class='comment'> ' This will fail if Microsoft Internet Explorer is not installed in the default folder...</code><br />
+<code class='comment'> ' Note there are two versions of this file, one with the www.eskimo.com/~dobe/ folder,</code><br />
+<code class='comment'> ' and one for the application, with no navigation links at the top!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;strWriteHelpFilePath = "c:\progra~1\Intern~1\iexplore.exe " &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;App.Path &amp; "\vbDiR2XML_Help_appPath.htm" <br /><br />
+<code class='comment'> ' <b>Shell()</b> is used in <a href="#PNA_vbDiR2XML_Help_cmdView"><b>cmdView_Click</b></a> and 
+ <a href="#PNA_vbDiR2XML_Help_mnuOLENotePad"><b>mnuOLENotePad_Click</b></a>, and 
+ <a href="#PNA_vbDiR2XML_Help_mnuHelpViewCode"><b>mnuHelpViewCode_Click</b></a>.
+ </code><br />
+<code class='comment'> ' Shell() is a way to open another application from within VB code.</code><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Shell strWriteHelpFilePath, 1 </b><br /><br />
+
+&nbsp;&nbsp;End Sub<br />
+<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_mnuHelpAbout">
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> '~~~~~ mnuHelpAbout_Click() ~~~~~~</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub mnuHelpAbout_Click()</code><br />
+<code class='comment'> ' Hey, it's my only way of bragging!</code><br /><br />
+<code class='comment'> '<a href="#PNA_vbDiR2XML_Help_frmAboutForm"> <b>frmAbout</b></a>
+
+is a completely different Form and does not effect the program, but is generally used 
+to show copyright and contact information, as well as date and version information.</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#PNA_vbDiR2XML_Help_frmAboutForm"> <b>frmAbout.Show</b></a><br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+ <blockquote id="PNA_vbDiR2XML_Help_mnuOLENotePad">
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> '~~~~~ mnuOLENotePad_Click() ~~~~~~</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub mnuOLENotePad_Click()</code><br />
+&nbsp;&nbsp;Dim lLongType As Long<br />
+<code class='comment'> ' Open Microsoft NotePad with no file loaded!...</code><br />
+<code class='comment'> ' Shell() will fail if Microsoft NotePad is not installed in the default folder...</code><br />
+<code class='comment'> ' <b>Shell()</b> is used in <a href="#PNA_vbDiR2XML_Help_cmdView"><b>cmdView_Click</b></a> and 
+ <a href="#PNA_vbDiR2XML_Help_mnuOLENotePad"><b>mnuOLENotePad_Click</b></a>, and 
+ <a href="#PNA_vbDiR2XML_Help_mnuHelpViewCode"><b>mnuHelpViewCode_Click</b></a>.
+ </code><br />
+<code class='comment'> ' Shell() is a way to open another application from within VB code.</code><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;<b>lLongType = Shell("c:\windows\Notepad.exe", vbNormalFocus)</b><br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+ <blockquote id="PNA_vbDiR2XML_Help_mnuEditSelect">
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> '~~~~~ EditSelect_Click() ~~~~~~</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub mnuEditSelect_Click()</code><br />
+<code class='comment'> ' Supports the '<b>&lt;Control&gt;&lt;A&gt;</b>' shortcut which is standard for 'Select All'...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>txtEditor.SelStart</b> = 0<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>txtEditor.SelLength</b> = <b>Len</b>(txtEditor.Text)<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_mnuFileExit">
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ FileExit_Click() ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub mnuFileExit_Click()</code><br />
+<code class='comment'> ' See you! Come again! Bye for now!</code><br />
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>lblStatus.Caption</b>  = "Goodbye!"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Unload Me<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_Buttons ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_Code_Buttons" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>Buttons</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+ 
+  <blockquote id="PNA_vbDiR2XML_Help_cmdWriteFile">
+
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ <b>cmdWriteFile_Click()</b> ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub <b>cmdWriteFile_Click()</b> </code><br />
+<br />
+<code class='comment'> ' Write XML to Screen</code><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="#PNA_vbDiR2XML_Help_WriteFileToScreen">WriteFileToScreen</a></b> <br />
+<br />
+<code class='comment'> ' Write XML to File (prepares <b>cmdView</b> for launching MSIE with file!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="#PNA_vbDiR2XML_Help_WriteXMLtoFile">WriteXMLtoFile</a></b> <br />
+<br />
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+<code class='comment'> ' <b>gstrCurrentXML_SaveDirOnly</b>  &amp; <b>gstrCurrentXML_FileNameOnly</b> </code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; <b>lblStatus.Caption</b>  = "The XML file generated has been written to the " &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>gstrCurrentXML_SaveDirOnly</b>  &amp; _<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " directory, using the filename of " &amp; _<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>gstrCurrentXML_FileNameOnly</b>  &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				" and can now be viewed in the Microsoft Internet Explorer Browser"<br />
+<br />
+<code class='comment'> ' Call Subroutine to write XSLT stylesheet to a file for use by 
+<a href="#PNA_vbDiR2XML_Help_cmdView"><b>cmdView_Click</b></a>...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="#PNA_vbDiR2XML_Help_WriteXSLTFile">WriteXSLTFile</a></b> <br />
+<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_cmdView">
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ <b>cmdView_Click()</b> ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ' See also:  PNA_vbDiR2XML_Help_mnuViewBrowser"</code><br />
+<code class='SubFunc'>Private Sub <b>cmdView_Click()</b></code><br />
+&nbsp;&nbsp;Dim strWriteFilePath As String<br />
+&nbsp;&nbsp;Dim Path As String<br />
+<br />
+<code class='comment'> ' Open Microsoft Internet Explorer with XML file as URL...</code><br />
+<code class='comment'> ' This will fail if Microsoft Internet Explorer is not installed in the default folder...</code><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; strWriteFilePath = "c:\progra~1\Intern~1\iexplore.exe " &amp; <b>gstrCurrentXML_SaveDirAndFileName</b><br /> <br />
+<code class='comment'> ' <b>Shell()</b> is used in <a href="#PNA_vbDiR2XML_Help_cmdView"><b>cmdView_Click</b></a> and 
+<code class='comment'> ' Shell() is a way to open another application from within VB code.</code><br />
+<code class='comment'> ' Also see: <a href="#PNA_vbDiR2XML_Help_mnuOLENotePad"><b>mnuOLENotePad_Click</b></a>, and 
+ <a href="#PNA_vbDiR2XML_Help_mnuHelpViewCode"><b>mnuHelpViewCode_Click</b></a>.</code><br />
+ </code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; Shell strWriteFilePath, 1<br /><br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_cmdExit">
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ <b>cmdExit_Click()</b> ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub <b>cmdExit_Click()</b> </code><br />
+<br />
+<code class='comment'> ' See you! Come again! Bye for now!</code><br />
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; <b>lblStatus.Caption = "Goodbye!"<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp; Unload Me</b> <br /><br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_Code_TextBox ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_Code_TextBox" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>Text Fields</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+  <blockquote id="PNA_vbDiR2XML_Help_txtSaveDir_GotFocus">
+
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ Private Sub <b>txtSaveDir_GotFocus()</b> ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub <b>txtSaveDir_GotFocus()</b> </code><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; <b>lblStatus.Caption</b> = "Type in where you would like to save the XML file. It is currently the " &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>gstrCurrentXML_SaveDirOnly</b>  &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " directory. This same directory will be used to write the XSLT file, (normally written to the same directory as XML)."<br /><br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_txtSaveDir_LostFocus">
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ''~~~~~ <b>txtSaveDir_LostFocus()</b>  ~~~~~~</code><br />
+<code class='comment'> ''&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub <b>txtSaveDir_LostFocus()</b> </code><br /><br />
+<code class='comment'> ' <b>NOTE that User supplied their own Save Dir!</b></code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; gstrCurrentXML_SaveDirOnly  = txtSaveDir.Text <br />
+&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentXSLT_SaveDirOnly  = gstrCurrentXML_SaveDirOnly &nbsp;&nbsp;&nbsp; 
+<code class='comment'> ' (IDENTITY)</code><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If Right$(gstrCurrentXML_SaveDirOnly , 1) &lt;&gt; "\" Then<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentXML_SaveDirOnly  = gstrCurrentXML_SaveDirOnly  &amp; "\"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;txtSaveDir.Text  = gstrCurrentXML_SaveDirOnly <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>MsgBox</b> "The 'Save to Directory' field must end with a '\' !"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End If<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; gstrCurrentXML_SaveDirAndFileName  = gstrCurrentXML_SaveDirOnly  &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentXML_FileNameOnly <br />
+<br />
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; <b>lblStatus.Caption</b>  = "The XML file generated will now be written to the " &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>gstrCurrentXML_SaveDirOnly</b>  &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " directory, using the filename of " &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>gstrCurrentXML_FileNameOnly</b> <br /><br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_txtWriteFile_GotFocus">
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ' ~~~~~ <b>txtWriteFile_GotFocus()</b>  ~~~~~~</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+	
+<code class='SubFunc'>Private Sub <b>txtWriteFile_GotFocus()</b> </code><br /><br />
+<code class='comment'> ' Merely echoes info to the Status Label to help the User</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; <b>lblStatus.Caption</b> = "Type in the name you would like to use to save the XML file. It is currently: " &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>gstrCurrentXML_FileNameOnly</b>  &amp; <big>"."</big><br /><br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+  <blockquote id="PNA_vbDiR2XML_Help_txtWriteFile_LostFocus">
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='comment'> ' ~~~~~ <b>txtWriteFile_LostFocus()</b>  ~~~~~~</code><br />
+<code class='comment'> '&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;'</code><br />
+<code class='SubFunc'>Private Sub <b>txtWriteFile_LostFocus()</b> </code><br /><br />
+<code class='comment'> ' User supplied their own filename!</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; gstrCurrentXML_FileNameOnly  = <b>txtWriteFile.Text</b><br />
+&nbsp;&nbsp;&nbsp;&nbsp; gstrCurrentXML_SaveDirAndFileName  = gstrCurrentXML_SaveDirOnly  &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gstrCurrentXML_FileNameOnly <br />
+<br />
+<code class='comment'> ' Submit information to the Status Bar label...</code><br />
+&nbsp;&nbsp;&nbsp;&nbsp; <b>lblStatus.Caption</b> = "The XML file generated will now be written to the " &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>gstrCurrentXML_SaveDirOnly</b>  &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " directory, using the filename of " &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>gstrCurrentXML_FileNameOnly</b>  &amp; _<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " when you click the 'Write XML to File' button above."<br />
+<br />
+End Sub<br />
+ </blockquote>
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ vbDiR2XML frmAbout Form ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_frmAboutForm" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        vbDiR2XML's &quot;<b>frmAbout</b>&quot; Form
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+  <blockquote>
+	&nbsp;&nbsp;This is the screenshot of the one additional form in this VB project:<br />
+<br />
+<IMG alt="Dobe Doinat's vbDiR2XML, or Directory to XML, 'About' Form Screenshot"
+     src="./_dobeTutAllCommon/vbDiR2XML_frmAbout_Screenshot.jpg" 
+     id="vbDiR2XML_frmAbout_Screenshot"
+     height="75%"
+     width="75%" />
+  </blockquote>
+		<br />
+			<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+			<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+		<br />
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~ PNA_vbDiR2XML_Help_Comments ~~~~~~~~~~~~~~~~~~~~~~~ -->
+ <blockquote>
+<table id="PNA_vbDiR2XML_Help_Code_Comments" border="0" width="90%">
+  <tr>
+    <td class="specialBROWN150" width="50%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='160%';" onMouseout="this.style.color='brown'; this.style.fontSize='150%';">
+        <b>Dobe's Retrospective</b>
+    </td>
+    <td align="right" width="50%">
+	<a href="#PNA_vbDiR2XML_Help_Start"><b>Back to the Beginning of this page</b></a>
+    </td>
+  </tr>
+</table>
+ </blockquote>
+ 
+ <blockquote>
+ 	&nbsp;&nbsp;&nbsp;&nbsp;A project of this nature is a real learning experience. It keeps 
+ 	the ability of the coder to remember syntax of the language involved up-to-date, 
+ 	so to speak. I have to look up the syntax for how to accomplish a programming 
+ 	construct in a language I have used in the past, but not recently. The more a 
+ 	programmer uses the syntax and the language, the more efficient they become.<br />
+ 	Working in multiple languages is usually required in the industry, so samples 
+ 	and example, or reusable code are very important. This is just one programmer's 
+ 	simple effort documented for the beginner or as a refresher for someone who normally 
+ 	works in C, C++, Java, Scripting, C#, VB.NET, ASP.NET, etx.<br />
+ 	
+ 	&nbsp;&nbsp;&nbsp;&nbsp;Or, maybe just use the utility, perhaps modifying it slightly, taking out the 
+ 	verbose explanation, perhaps changing (anything but my copywrite) how the XSL 
+ 	effects the final XML tree when the browser engine parses both files for a 
+ 	result tree, displayed in the browser. (Please don't claim complete credit for 
+ 	your work, that's why you usually don't see the source code published for just 
+ 	this fear. Perhaps in the Linux realm it is different, I know little of 
+ 	anything but Windows.) <br />
+ 	
+ 	&nbsp;&nbsp;&nbsp;&nbsp;
+ 		   
+<img src="./_dobeTutAllCommon/open.gif" 
+       alt="Browser can't find image?" 
+       title="Explore this link!" 
+       id="_img_openButton" /> 
+	   
+
+ 	My <a title="This is an old project and is written in HTML, not XHTML, but it contains valuable resources and good reading!" href="PNA_SDLCglossary.htm">
+ 	Systems Development Life Cycle</a> (<b>SDLC</b>) Glossary, 
+ 	goes into <u>how a project should be handled from beginning to end</u>. 
+ 	However, one has to start somewhere, so looking at simple code is a good 
+ 	refresher course in a language's syntax.
+ 	<br />
+ 	
+	  &nbsp;&nbsp;&nbsp;&nbsp;Although this program seems stable and remarkably 
+	  useful, (not to mention fun), some of the decisions I made in creating this 
+	  application may seem troublesome to you. For instance, I leave in a verbose 
+	  section below the file listing which explains what is going on. In a utility,
+	  <u>ideally</u>, you would like to be able to enter whatever you want to in the resulting 
+	  files. Therefore I enclose the sections of code for the project and make some 
+	  <b>attempt to explain how it all works</b> and perhaps why I decided in favor of the algorithm which
+	  you see now.<br /><br />
+		
+	  I	hope you enjoyed this!<br /> Please let me know!<br />
+  	  <a href='mailto:dobe@eskimo.com'>
+  	  <b>Dobe &quot;John Hartman&quot; Doinat</b> &lt;dobe@eskimo.com&gt;</a><br />
+	  January 18, 2002	(Ought-to)
+ 	
+ </blockquote>
+ 
+<br />
+	<hr class="BegincodeDiv" align="center" /><!-- red: #ff0000 -->
+	<hr class="EndcodeDiv" align="center" /><!-- blue: #0000ff -->
+<br />	
+
+<!-- //Footer -->
+ <table width="100%" cols="2" rows="1" border="0" cellpadding="10" id="dobeXHTML_IntroPara">
+   <tr>
+   <td valign="top" align="center" width="40%">
+	<!--   The following file must be in this directory! 
+	            This site copyright&#169; 2002 
+	       by John &quot;Dobe Doinat&quot; Hartman, 
+	               All Rights Reserved.
+	-->
+							<!--  *********Insert call to external JS file here********* -->
+	<script type="text/javascript" 
+	        src="write_Copyright_EN.js">
+	</script>
+	
+   </td>
+   <td valign="top" align="left" width="60%" class="small_70bi">
+   Cut-and-pasting of code permitted for non-commercial use.<br />
+   Check out my source code: <b>&lt;Right-Click&gt; | View Source</b> <br />
+   Thank you. <br />
+	<a href="#PNA_vbDiR2XML_Help_Start"><center><b>Back to the Beginning of this page</b></center></a>
+   </td>
+  </tr>
+ </table>
+        <!-- This sets a page break!   -->
+		<br clear="all" style='mso-special-character:line-break; page-break-before:always;' />   
+		    
+
+</body>
+</html>
+
